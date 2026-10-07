@@ -1163,30 +1163,32 @@
         "A-1162.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-43",
         "N-1000",
         "N-1198",
-        "N-1196",
-        "N-2",
-        "N-86",
-        "N-67",
-        "N-167",
-        "N-42",
-        "N-168",
-        "N-75",
-        "N-169",
-        "N-170",
-        "N-91",
-        "N-171",
-        "N-174",
-        "N-175"
+        "N-1196"
       ],
       "tags": [],
       "claim_timestamp": "00:25:55",
       "investigative_direction": "Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.",
       "transcript_snippet": "In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-42",
+        "N-43",
+        "N-67",
+        "N-75",
+        "N-86",
+        "N-91",
+        "N-167",
+        "N-168",
+        "N-169",
+        "N-170",
+        "N-171",
+        "N-174",
+        "N-175"
+      ]
     },
     {
       "@type": "Claim",
@@ -1198,7 +1200,6 @@
         "A-1162.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1000",
         "N-1198"
       ],
@@ -1207,7 +1208,10 @@
       "investigative_direction": "Identify insiders, obtain contemporaneous communications, and confirm whether the DOGE team was actually stood up prior to September 10, 2025.",
       "transcript_snippet": "a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA.",
       "confidence": "medium",
-      "uncertainty_note": "Underlying insider testimony not directly presented in this episode; memo corroborates timing and organizational focus but not the exact motivation."
+      "uncertainty_note": "Underlying insider testimony not directly presented in this episode; memo corroborates timing and organizational focus but not the exact motivation.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1220,7 +1224,6 @@
         "A-1166.1"
       ],
       "related_nodes": [
-        "N-172",
         "N-1202"
       ],
       "tags": [],
@@ -1228,7 +1231,10 @@
       "investigative_direction": "Obtain architectural plans or on-site verification of the flag hall windows' operability and check for any bullet or glass damage.",
       "transcript_snippet": "those windows don't open. So if it's coming from inside… then we should see broken glass.",
       "confidence": "medium",
-      "uncertainty_note": "Window-doesn't-open claim made by host based on photos; not independently verified."
+      "uncertainty_note": "Window-doesn't-open claim made by host based on photos; not independently verified.",
+      "mentions_person_refs": [
+        "N-172"
+      ]
     },
     {
       "@type": "Claim",
@@ -1239,15 +1245,16 @@
       "anchored_artifacts": [
         "A-1163.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-172"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Obtain high-resolution frame-by-frame footage from multiple angles to confirm chain trajectory versus ballistic entry.",
       "transcript_snippet": "that's actually not blood splatter. And I was very surprised by this. It's his necklace.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-172"
+      ]
     },
     {
       "@type": "Claim",
@@ -1259,14 +1266,16 @@
         "A-1163.3"
       ],
       "related_nodes": [
-        "N-172",
         "N-1203"
       ],
       "tags": [],
       "claim_timestamp": "00:38:04",
       "investigative_direction": "Obtain the ground photographs referenced, compare with original Range Day Bro stills, and rule out alternative explanations (foliage, lighting).",
       "transcript_snippet": "I sent somebody there on the ground to get me pictures of that bush today… you can kind of see through it.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-172"
+      ]
     },
     {
       "@type": "Claim",
@@ -1301,7 +1310,6 @@
       "related_nodes": [
         "N-1195",
         "N-1199",
-        "N-70",
         "N-1127"
       ],
       "tags": [],
@@ -1311,6 +1319,9 @@
       "confidence": "high",
       "supports_claim_refs": [
         "C-1290"
+      ],
+      "mentions_person_refs": [
+        "N-70"
       ]
     },
     {
@@ -1323,8 +1334,6 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-166",
-        "N-1",
         "N-1200",
         "N-1092"
       ],
@@ -1332,7 +1341,11 @@
       "claim_timestamp": "00:04:28",
       "investigative_direction": "Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.",
       "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-166"
+      ]
     },
     {
       "@type": "Claim",
@@ -1345,8 +1358,6 @@
         "A-1169.1"
       ],
       "related_nodes": [
-        "N-173",
-        "N-166",
         "N-1200",
         "N-1092"
       ],
@@ -1354,7 +1365,11 @@
       "claim_timestamp": "00:08:37",
       "investigative_direction": "Verify the Instagram post date, contents, and whether it was posted during or after the weekend.",
       "transcript_snippet": "one of the influencers did post on August 6th that she was in the Hamptons.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-166",
+        "N-173"
+      ]
     },
     {
       "@type": "Claim",
@@ -1366,16 +1381,18 @@
         "A-1167.1"
       ],
       "related_nodes": [
-        "N-69",
-        "N-1201",
-        "N-165"
+        "N-1201"
       ],
       "tags": [],
       "claim_timestamp": "00:39:05",
       "investigative_direction": "Verify the tip with primary source; obtain the additional footage; identify the unnamed woman.",
       "transcript_snippet": "there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.",
       "confidence": "low",
-      "uncertainty_note": "Tip-based; underlying footage not presented in this episode."
+      "uncertainty_note": "Tip-based; underlying footage not presented in this episode.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-165"
+      ]
     },
     {
       "@type": "Claim",
@@ -1387,16 +1404,18 @@
         "A-1170.1"
       ],
       "related_nodes": [
-        "N-66",
-        "N-1200",
-        "N-3"
+        "N-1200"
       ],
       "tags": [],
       "claim_timestamp": "00:03:05",
       "investigative_direction": "Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.",
       "transcript_snippet": "Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.",
       "confidence": "medium",
-      "uncertainty_note": "Essay not displayed in this episode; word count and characterization are host assertions."
+      "uncertainty_note": "Essay not displayed in this episode; word count and characterization are host assertions.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -1405,17 +1424,18 @@
       "label": "Netanyahu tweeted about Charlie Kirk's death before the US President",
       "claim": "Host asserts that Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States and subsequently misrepresented the contents of a May letter from Charlie Kirk on Fox News and Greta Van Susteren's show.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-65",
-        "N-5",
-        "N-73"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:53",
       "investigative_direction": "Obtain timestamped tweet records from Netanyahu and the US President account on September 10, 2025; review the May letter and Netanyahu's on-air characterizations.",
       "transcript_snippet": "minute one, he tweeted before the president of the United States that Charlie had lost his life.",
       "confidence": "medium",
-      "uncertainty_note": "Claim not directly artifact-anchored within this episode; tweets and broadcasts cited publicly but not shown."
+      "uncertainty_note": "Claim not directly artifact-anchored within this episode; tweets and broadcasts cited publicly but not shown.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-65",
+        "N-73"
+      ]
     }
   ],
   "memes": [

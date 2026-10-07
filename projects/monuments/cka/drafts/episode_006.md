@@ -652,7 +652,8 @@ Claim Timestamp: 00:03:50
 Claim: Two unidentified men appeared in the immediate aftermath of the shooting and moved Charlie Kirk's chair and the camera positioned above his head.
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
-Related Nodes: N-118, N-1142, N-99, N-75, N-50, N-107, N-115
+Mentions: N-50, N-75, N-99, N-107, N-115, N-118
+Related Nodes: N-1142
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.
 
@@ -665,7 +666,8 @@ Claim Timestamp: 00:03:35
 Claim: An individual was standing near the car where Charlie was taken, calmly talking on his phone shortly after the shot.
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
-Related Nodes: N-118, N-1142
+Mentions: N-118
+Related Nodes: N-1142
 Confidence: high
 Investigative Direction: Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.
 
@@ -678,7 +680,8 @@ Claim Timestamp: 00:05:55
 Claim: The individual handling the camera appeared to remove the SD or SIM card from the camera before setting it on the desk.
 Transcript Snippet: it looks like he removes the SIM card from it or the SD card if you will
 Anchored Artifacts: A-1120.3
-Related Nodes: N-118, N-1142
+Mentions: N-118
+Related Nodes: N-1142
 Confidence: medium
 Investigative Direction: Forensically examine the recovered camera for evidence of card removal and identify any cards removed.
 
@@ -690,7 +693,8 @@ Claim Timestamp: 00:06:11
 Claim: The individual who handled the camera told the host he had been around Turning Point USA for years, dating to the host's early tenure.
 Transcript Snippet: This person's been around Turning Point for quite some time, for years
 Anchored Artifacts: A-1122.1
-Related Nodes: N-118, N-1000, N-3
+Mentions: N-3, N-118
+Related Nodes: N-1000
 Confidence: medium
 Investigative Direction: Verify association via TPUSA employee/vendor records and corroborate timeline with other witnesses.
 
@@ -702,7 +706,8 @@ Claim Timestamp: 00:12:45
 Claim: The footage shown to the host via FaceTime from the rear angle showed no blood or gore.
 Transcript Snippet: there's no blood... there's no blood from the back
 Anchored Artifacts: A-1122.2
-Related Nodes: N-118, N-1, N-2, N-1142
+Mentions: N-1, N-2, N-118
+Related Nodes: N-1142
 Sensitive Tags: crime_scene_evidence
 Confidence: medium
 Uncertainty: Footage itself not shown in episode; claim rests on host's account of FaceTime viewing.
@@ -728,7 +733,8 @@ Claim Timestamp: 00:29:03
 Claim: The Daily Mail ran a headline written by Victoria Churchill stating Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster.
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Anchored Artifacts: A-1124.1
-Related Nodes: N-119, N-1135
+Mentions: N-119
+Related Nodes: N-1135
 Confidence: high
 Investigative Direction: Verify headline and byline on the Daily Mail site and check publication date.
 
@@ -740,7 +746,7 @@ Claim Timestamp: 00:30:18
 Claim: On the PBD podcast, Bill Aman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.
 Transcript Snippet: her credibility, I mean, is going to go down the tubes because she needs to bring receipts
 Anchored Artifacts: A-1125.1
-Related Nodes: N-66, N-88, N-3
+Mentions: N-3, N-66, N-88
 Confidence: high
 Investigative Direction: Obtain full PBD segment and verify exact quote against published clip.
 
@@ -752,7 +758,8 @@ Claim Timestamp: 00:30:38
 Claim: On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
-Related Nodes: N-42, N-88, N-1000, N-3
+Mentions: N-3, N-42, N-88
+Related Nodes: N-1000
 Contradicts: C-1223
 Confidence: high
 Investigative Direction: Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.
@@ -766,7 +773,8 @@ Claim Timestamp: 00:42:14
 Claim: Pam Bondi told Katie Miller's podcast that the government will 'absolutely target you' for hate speech, citing Charlie Kirk's assassination.
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Anchored Artifacts: A-1126.1
-Related Nodes: N-120, N-121, N-1145
+Mentions: N-120, N-121
+Related Nodes: N-1145
 Confidence: high
 Investigative Direction: Verify Bondi's exact remarks against full podcast audio and date.
 
@@ -778,7 +786,8 @@ Claim Timestamp: 00:47:39
 Claim: Jimmy Kimmel said Trump was 'at the fourth stage of grief, construction' and compared his mourning to 'a four-year-old mourns a goldfish.'
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Anchored Artifacts: A-1127.1
-Related Nodes: N-122, N-5, N-1141
+Mentions: N-5, N-122
+Related Nodes: N-1141
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel episode transcript and date.
 
@@ -790,7 +799,7 @@ Claim Timestamp: 00:49:52
 Claim: Jimmy Kimmel posted on Instagram the day of the shooting calling it 'horrible and monstrous to shoot another person' and sending love to the Kirks.
 Transcript Snippet: can we just for one day agree that it's horrible and monstrous to shoot another person
 Anchored Artifacts: A-1127.2
-Related Nodes: N-122, N-2
+Mentions: N-2, N-122
 Confidence: high
 Investigative Direction: Locate original Instagram post and verify date/time.
 
@@ -825,7 +834,8 @@ Investigative Direction: Verify company registration, address, and project portf
 Claim Timestamp: 00:35:46
 Claim: Victoria Churchill (Daily Mail) has a connection to APAC, with photos showing her at APAC events including a 2018 DC conference.
 Anchored Artifacts: 
-Related Nodes: N-119, N-1139, N-1147
+Mentions: N-119
+Related Nodes: N-1139, N-1147
 Confidence: low
 Uncertainty: Connection is host's claim based on visible photos; not independently artifact-anchored in this episode.
 Investigative Direction: Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.
@@ -839,7 +849,8 @@ Claim Timestamp: 00:50:48
 Claim: FCC Chairman Brendan Carr threatened federal action against ABC affiliates carrying Jimmy Kimmel's show.
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Anchored Artifacts: A-1128.1
-Related Nodes: N-127, N-124, N-1136, N-1138, N-1145
+Mentions: N-124, N-127
+Related Nodes: N-1136, N-1138, N-1145
 Confidence: high
 Investigative Direction: Locate full Carr interview on Benny Johnson show and verify against FCC official statements.
 
@@ -851,7 +862,7 @@ Claim Timestamp: 00:39:44
 Claim: Charlie Kirk authored a tweet in May about the assassinations of Sarah Milgram and Yuron Lachinsky, calling them beautiful people and pushing back against speech restrictions.
 Transcript Snippet: these were beautiful people. They had their lives ahead of them
 Anchored Artifacts: A-1129.1
-Related Nodes: N-125, N-126
+Mentions: N-125, N-126
 Confidence: medium
 Investigative Direction: Locate original Charlie Kirk tweet and verify date and content.
 
@@ -863,7 +874,7 @@ Claim Timestamp: 00:40:17
 Claim: Charlie Kirk texted host on May 22 saying 'speech censorship is coming to America.'
 Transcript Snippet: speech censorship is coming to America... the date here is May 22nd of this year
 Anchored Artifacts: A-1129.2
-Related Nodes: N-1, N-3
+Mentions: N-1, N-3
 Confidence: medium
 Investigative Direction: Verify the text message screenshot metadata and timestamp.
 
@@ -876,7 +887,8 @@ Claim Timestamp: 00:33:03
 Claim: Candace Owens spoke at Turning Point USA conferences and toured with Charlie Kirk on the 'Live Free Tour' last year.
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens
 Anchored Artifacts: A-1130.1, A-1130.2
-Related Nodes: N-3, N-1000
+Mentions: N-3
+Related Nodes: N-1000
 Contradicts: C-1213
 Confidence: high
 Investigative Direction: Cross-reference TPUSA website archive and event recordings; verify dates.
@@ -890,7 +902,8 @@ Claim Timestamp: 00:53:48
 Claim: The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
-Related Nodes: N-69, N-84, N-1079, N-1143
+Mentions: N-69, N-84
+Related Nodes: N-1079, N-1143
 Confidence: high
 Investigative Direction: Verify authenticity of released text chain via independent forensic analysis and metadata.
 
@@ -903,7 +916,8 @@ Claim Timestamp: 00:54:17
 Claim: Creator Chris Olsen posted an Instagram parody clip mocking the FBI-released Robinson-Lance text exchange.
 Transcript Snippet: Good day, my love. I have just committed one of the highest sins of the Lord. Murder
 Anchored Artifacts: A-1132.1
-Related Nodes: N-123, N-69, N-84, N-1143
+Mentions: N-69, N-84, N-123
+Related Nodes: N-1143
 Confidence: high
 Investigative Direction: Locate original Olsen Instagram post and verify date.
 
@@ -915,7 +929,7 @@ Claim Timestamp: 01:01:38
 Claim: The Dairy Queen photo of the suspect could not have been taken before August 31 because the visible maple cookie shake advertisement began then.
 Transcript Snippet: maple cookie shake... they began advertising on August 31st
 Anchored Artifacts: A-1133.1
-Related Nodes: N-69
+Mentions: N-69
 Confidence: medium
 Investigative Direction: Verify DQ marketing rollout date for the maple cookie shake and confirm poster appears in the photo.
 
@@ -926,7 +940,8 @@ Investigative Direction: Verify DQ marketing rollout date for the maple cookie s
 Claim Timestamp: 00:43:09
 Claim: Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.
 Anchored Artifacts: 
-Related Nodes: N-65, N-1091, N-1147
+Mentions: N-65
+Related Nodes: N-1091, N-1147
 Confidence: low
 Uncertainty: Claim referenced as a findable clip but not shown in this episode.
 Investigative Direction: Locate the specific Netanyahu clip and verify exact wording and date.

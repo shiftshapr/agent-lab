@@ -1391,13 +1391,14 @@
       "anchored_artifacts": [
         "A-1714.1"
       ],
-      "related_nodes": [
-        "N-80",
-        "N-830"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:44",
-      "investigative_direction": "Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context."
+      "investigative_direction": "Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context.",
+      "mentions_person_refs": [
+        "N-80",
+        "N-830"
+      ]
     },
     {
       "@type": "Claim",
@@ -1408,12 +1409,13 @@
       "anchored_artifacts": [
         "A-1715.1"
       ],
-      "related_nodes": [
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:32",
-      "investigative_direction": "Independently count Israel/Trump mentions across DOJ-released documents."
+      "investigative_direction": "Independently count Israel/Trump mentions across DOJ-released documents.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -1424,12 +1426,13 @@
       "anchored_artifacts": [
         "A-1715.1"
       ],
-      "related_nodes": [
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:32",
-      "investigative_direction": "Locate the underlying email between Epstein and Roger Schank in DOJ releases."
+      "investigative_direction": "Locate the underlying email between Epstein and Roger Schank in DOJ releases.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -1440,12 +1443,13 @@
       "anchored_artifacts": [
         "A-1715.1"
       ],
-      "related_nodes": [
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:37",
-      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana."
+      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -1456,14 +1460,15 @@
       "anchored_artifacts": [
         "A-1715.1"
       ],
-      "related_nodes": [
-        "N-851",
-        "N-76",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:20",
-      "investigative_direction": "Cross-check against Maria Farmer's prior sworn testimony and DOJ documents."
+      "investigative_direction": "Cross-check against Maria Farmer's prior sworn testimony and DOJ documents.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-76",
+        "N-851"
+      ]
     },
     {
       "@type": "Claim",
@@ -1472,13 +1477,14 @@
       "label": "Epstein Emailed That He Works for the Rothschilds",
       "claim": "Per host reading, an Epstein email stated \"those are my bosses, the Rothschilds.\"",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-833",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:45",
-      "investigative_direction": "Identify the specific Epstein email in DOJ releases containing the Rothschild reference."
+      "investigative_direction": "Identify the specific Epstein email in DOJ releases containing the Rothschild reference.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-833"
+      ]
     },
     {
       "@type": "Claim",
@@ -1489,14 +1495,15 @@
       "anchored_artifacts": [
         "A-1716.1"
       ],
-      "related_nodes": [
-        "N-843",
-        "N-35",
-        "N-260"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:29",
-      "investigative_direction": "Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin."
+      "investigative_direction": "Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-260",
+        "N-843"
+      ]
     },
     {
       "@type": "Claim",
@@ -1507,12 +1514,13 @@
       "anchored_artifacts": [
         "A-1716.1"
       ],
-      "related_nodes": [
-        "N-843"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:29",
-      "investigative_direction": "Verify the litigation through court records (UK)."
+      "investigative_direction": "Verify the litigation through court records (UK).",
+      "mentions_person_refs": [
+        "N-843"
+      ]
     },
     {
       "@type": "Claim",
@@ -1523,13 +1531,14 @@
       "anchored_artifacts": [
         "A-1717.1"
       ],
-      "related_nodes": [
-        "N-133",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:35",
-      "investigative_direction": "Compare Shapiro's claim to DOJ public statements and Todd Blanche's public statements on the tapes."
+      "investigative_direction": "Compare Shapiro's claim to DOJ public statements and Todd Blanche's public statements on the tapes.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -1540,13 +1549,14 @@
       "anchored_artifacts": [
         "A-1717.1"
       ],
-      "related_nodes": [
-        "N-133",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:35",
-      "investigative_direction": "Cross-check against DOJ/FBI official statements on what documents were released."
+      "investigative_direction": "Cross-check against DOJ/FBI official statements on what documents were released.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -1557,13 +1567,14 @@
       "anchored_artifacts": [
         "A-1718.1"
       ],
-      "related_nodes": [
-        "N-841",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:38",
-      "investigative_direction": "Obtain the full Bennett interview recording."
+      "investigative_direction": "Obtain the full Bennett interview recording.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-841"
+      ]
     },
     {
       "@type": "Claim",
@@ -1574,13 +1585,14 @@
       "anchored_artifacts": [
         "A-1718.1"
       ],
-      "related_nodes": [
-        "N-841",
-        "N-867"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:38",
-      "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987."
+      "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.",
+      "mentions_person_refs": [
+        "N-841",
+        "N-867"
+      ]
     },
     {
       "@type": "Claim",
@@ -1591,13 +1603,14 @@
       "anchored_artifacts": [
         "A-1719.1"
       ],
-      "related_nodes": [
-        "N-839",
-        "N-840"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:23",
-      "investigative_direction": "Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z)."
+      "investigative_direction": "Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).",
+      "mentions_person_refs": [
+        "N-839",
+        "N-840"
+      ]
     },
     {
       "@type": "Claim",
@@ -1608,14 +1621,15 @@
       "anchored_artifacts": [
         "A-1720.1"
       ],
-      "related_nodes": [
-        "N-835",
-        "N-850",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:09",
-      "investigative_direction": "Confirm date and circumstances against any released Thiel email metadata with Hoffman."
+      "investigative_direction": "Confirm date and circumstances against any released Thiel email metadata with Hoffman.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-835",
+        "N-850"
+      ]
     },
     {
       "@type": "Claim",
@@ -1626,13 +1640,14 @@
       "anchored_artifacts": [
         "A-1720.1"
       ],
-      "related_nodes": [
-        "N-835",
-        "N-35"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:27:02",
-      "investigative_direction": "Compare Thiel's Rogan account to the volume and content of his released emails with Epstein."
+      "investigative_direction": "Compare Thiel's Rogan account to the volume and content of his released emails with Epstein.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-835"
+      ]
     },
     {
       "@type": "Claim",
@@ -1644,13 +1659,15 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1009",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:39:29",
-      "investigative_direction": "Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date."
+      "investigative_direction": "Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1662,14 +1679,16 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1009",
-        "N-134",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:39:29",
-      "investigative_direction": "Identify the other Zoom participants; cross-check against calendar records; obtain the \"rabbi in Israel\" identity."
+      "investigative_direction": "Identify the other Zoom participants; cross-check against calendar records; obtain the \"rabbi in Israel\" identity.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-134"
+      ]
     },
     {
       "@type": "Claim",
@@ -1681,14 +1700,16 @@
         "A-1722.1"
       ],
       "related_nodes": [
-        "N-16",
         "N-1009",
         "N-1544",
         "N-1547"
       ],
       "tags": [],
       "claim_timestamp": "00:47:03",
-      "investigative_direction": "Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts."
+      "investigative_direction": "Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1700,14 +1721,16 @@
         "A-1722.1"
       ],
       "related_nodes": [
-        "N-16",
         "N-1009",
         "N-1010",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
-      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims."
+      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1718,14 +1741,15 @@
       "anchored_artifacts": [
         "A-1723.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:46",
+      "investigative_direction": "Verify the email against the WikiLeaks Podesta archive; identify context and any related communications.",
+      "mentions_person_refs": [
         "N-854",
         "N-855",
         "N-856"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:14:46",
-      "investigative_direction": "Verify the email against the WikiLeaks Podesta archive; identify context and any related communications."
+      ]
     },
     {
       "@type": "Claim",
@@ -1738,13 +1762,15 @@
       ],
       "related_nodes": [
         "N-1010",
-        "N-434",
-        "N-42",
         "N-1541"
       ],
       "tags": [],
       "claim_timestamp": "00:44:45",
-      "investigative_direction": "Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default)."
+      "investigative_direction": "Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).",
+      "mentions_person_refs": [
+        "N-42",
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -1757,13 +1783,15 @@
       ],
       "related_nodes": [
         "N-1009",
-        "N-42",
-        "N-434",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:44:45",
-      "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records."
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -1776,12 +1804,14 @@
       ],
       "related_nodes": [
         "N-1009",
-        "N-16",
         "N-1547"
       ],
       "tags": [],
       "claim_timestamp": "00:48:34",
-      "investigative_direction": "Identify the neighbor; obtain written statement; review building security camera footage if available."
+      "investigative_direction": "Identify the neighbor; obtain written statement; review building security camera footage if available.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1792,12 +1822,13 @@
       "anchored_artifacts": [
         "A-1725.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:38",
-      "investigative_direction": "Not applicable (commentary only)."
+      "investigative_direction": "Not applicable (commentary only).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1808,13 +1839,14 @@
       "anchored_artifacts": [
         "A-1725.2"
       ],
-      "related_nodes": [
-        "N-856",
-        "N-857"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:34",
-      "investigative_direction": "Verify the underlying WikiLeaks document."
+      "investigative_direction": "Verify the underlying WikiLeaks document.",
+      "mentions_person_refs": [
+        "N-856",
+        "N-857"
+      ]
     },
     {
       "@type": "Claim",
@@ -1825,12 +1857,13 @@
       "anchored_artifacts": [
         "A-1725.3"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:58:27",
-      "investigative_direction": "Not applicable (commentary only)."
+      "investigative_direction": "Not applicable (commentary only).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1841,12 +1874,13 @@
       "anchored_artifacts": [
         "A-1725.4"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:58:27",
-      "investigative_direction": "Not applicable (commentary only)."
+      "investigative_direction": "Not applicable (commentary only).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1857,12 +1891,13 @@
       "anchored_artifacts": [
         "A-1725.5"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:58:27",
-      "investigative_direction": "Not applicable (commentary only)."
+      "investigative_direction": "Not applicable (commentary only).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1888,12 +1923,13 @@
       "anchored_artifacts": [
         "A-1725.6"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:00:34",
-      "investigative_direction": "Verify against Charleston historical society records; verify \"Checkmate\" name for the slave market."
+      "investigative_direction": "Verify against Charleston historical society records; verify \"Checkmate\" name for the slave market.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

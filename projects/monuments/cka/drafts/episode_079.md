@@ -624,8 +624,9 @@ Claim Timestamp: 00:08:50–00:09:46
 Claim: Charlie Kirk privately told Candace Owens that Ben Shapiro was "unhinged" and advised her to "Stay the course."
 
 Anchored Artifacts: A-1846.1
+Mentions: N-1, N-3, N-133
 
-Related Nodes: N-1, N-3, N-133, N-1616
+Related Nodes: N-1616
 
 Investigative Direction: Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements.
 
@@ -638,8 +639,8 @@ Claim Timestamp: 00:09:46–00:10:32
 Claim: Charlie Kirk privately told Candace Owens there were "some verses in the Talmud that will blow your mind" and that the Talmud is "rabbinical interpretations of Judaism" — a text exchange the host presents as evidence Charlie was critical of certain Talmudic content.
 
 Anchored Artifacts: A-1846.2
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps.
 
@@ -652,8 +653,9 @@ Claim Timestamp: 00:21:32–00:21:48
 Claim: Charlie Kirk privately texted Candace Owens that the McCains were "a disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas."
 
 Anchored Artifacts: A-1846.3
+Mentions: N-1, N-3, N-989
 
-Related Nodes: N-1, N-3, N-989, N-1616
+Related Nodes: N-1616
 
 Investigative Direction: Forensic verification of the message; examine whether Charlie Kirk made comparable public statements.
 
@@ -666,8 +668,9 @@ Claim Timestamp: 00:10:32–00:13:29
 Claim: A June 18 text exchange between Charlie Kirk and Bret Weinstein documents Charlie stating he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and that he was "in the White House all day fighting for America."
 
 Anchored Artifacts: A-1847.1
+Mentions: N-1, N-5, N-990
 
-Related Nodes: N-1, N-990, N-5, N-1612, N-1616
+Related Nodes: N-1612, N-1616
 
 Investigative Direction: Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics.
 
@@ -680,8 +683,9 @@ Claim Timestamp: 00:11:38–00:12:38
 Claim: In the June 18 text exchange with Bret Weinstein, Charlie Kirk wrote "We have to shut these maniacs down" regarding neocons advocating war with Iran.
 
 Anchored Artifacts: A-1847.1
+Mentions: N-1, N-990
 
-Related Nodes: N-1, N-990, N-1612, N-1616
+Related Nodes: N-1612, N-1616
 
 Investigative Direction: Verify original message; cross-reference with contemporaneous public statements.
 
@@ -694,8 +698,9 @@ Claim Timestamp: 00:07:35–00:08:50
 Claim: A text exchange between Milo Yiannopoulos and Charlie Kirk describes Ben Shapiro as having "began seek to secretly commission hit jobs on Turning Point USA a decade ago," with Charlie stating he wanted to allow it to "play out" before responding publicly.
 
 Anchored Artifacts: A-1848.1
+Mentions: N-133, N-334
 
-Related Nodes: N-334, N-133, N-1616
+Related Nodes: N-1616
 
 Investigative Direction: Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.
 
@@ -708,8 +713,8 @@ Claim Timestamp: 00:20:00–00:20:51
 Claim: Meghan McCain posted on X: "Stop sharing dead people's text messages, you absolute psychopaths."
 
 Anchored Artifacts: A-1849.1
+Mentions: N-3, N-989
 
-Related Nodes: N-989, N-3
 
 Investigative Direction: Direct retrieval of the original X post via archive.
 
@@ -722,8 +727,9 @@ Claim Timestamp: 00:13:29–00:16:34
 Claim: Blake Neff posted on X acknowledging Charlie Kirk and Ben Shapiro "differed about the best direction for the conservative movement" and that "Charlie saw Ben as a rival."
 
 Anchored Artifacts: A-1850.1
+Mentions: N-133, N-224
 
-Related Nodes: N-224, N-133, N-1616
+Related Nodes: N-1616
 
 Investigative Direction: Direct retrieval of the original X post via archive.
 
@@ -736,8 +742,8 @@ Claim Timestamp: 00:18:54–00:20:00
 Claim: An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state "the sentence with her name in it" regarding Candace Owens allegedly attacking "Erika Curren," with Knowles refusing.
 
 Anchored Artifacts: A-1851.1
+Mentions: N-3, N-133, N-993
 
-Related Nodes: N-133, N-993, N-3
 
 Investigative Direction: Obtain the full unedited video clip; verify date and venue.
 
@@ -750,8 +756,9 @@ Claim Timestamp: 00:24:34–00:25:35
 Claim: Pete Hegseth stated in a press exchange: "The only thing prohibiting transit in the straits right now is Iran shooting at shipping. It is open for transit should Iran not do that."
 
 Anchored Artifacts: A-1852.1
+Mentions: N-5, N-994
 
-Related Nodes: N-994, N-5, N-1614
+Related Nodes: N-1614
 
 Investigative Direction: Obtain the full press exchange transcript and date.
 
@@ -764,8 +771,9 @@ Claim Timestamp: 00:31:42–00:34:14
 Claim: Donald Trump stated in a public address: "We don't need oil... we did it out of habit... We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons."
 
 Anchored Artifacts: A-1853.1
+Mentions: N-5, N-65
 
-Related Nodes: N-5, N-65, N-1614
+Related Nodes: N-1614
 
 Investigative Direction: Obtain full transcript and verify date.
 
@@ -778,8 +786,9 @@ Claim Timestamp: 00:41:23–00:43:44
 Claim: Tucker Carlson stated in a video that "the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice on the basis of a supposed crime I committed... talking to people in Iran before the war... under... the Foreign Agent Act."
 
 Anchored Artifacts: A-1854.1
+Mentions: N-5, N-50
 
-Related Nodes: N-50, N-5, N-1613
+Related Nodes: N-1613
 
 Investigative Direction: Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.
 
@@ -792,8 +801,9 @@ Claim Timestamp: 00:26:19–00:28:13
 Claim: Multiple allied-nation statements, as read by the host, decline or condition participation in US-led Strait of Hormuz escort operations. Italy's Meloni described the war as outside international law; France conditioned participation on stabilization.
 
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
+Mentions: N-5, N-898, N-996
 
-Related Nodes: N-5, N-996, N-898, N-1614
+Related Nodes: N-1614
 
 Investigative Direction: Obtain original government press releases or transcripts for each quoted statement and verify dates.
 
@@ -806,8 +816,9 @@ Claim Timestamp: 00:44:36–00:45:22
 Claim: Randy Fine posted on X: "It sounds like Tucker Carlson is learning the hard way. 'And I will bless those who bless you, and the one who curses you I will curse.'"
 
 Anchored Artifacts: A-1857.1
+Mentions: N-50, N-339
 
-Related Nodes: N-339, N-50, N-1613
+Related Nodes: N-1613
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -820,8 +831,9 @@ Claim Timestamp: 00:45:22–00:46:20
 Claim: Laura Loomer posted on X claiming to have "created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar" and stated she provided it to the DOJ.
 
 Anchored Artifacts: A-1858.1
+Mentions: N-50
 
-Related Nodes: N-50, N-1613
+Related Nodes: N-1613
 
 Investigative Direction: Verify whether the list has ever been published publicly; check DOJ acknowledgment.
 
@@ -834,8 +846,9 @@ Claim Timestamp: 00:46:20–00:47:29
 Claim: Alex Stein posted on X: "America is totally compromised by foreign actors. If Tucker Carlson gets arrested before anybody on the Epstein list."
 
 Anchored Artifacts: A-1859.1
+Mentions: N-50
 
-Related Nodes: N-50, N-1613
+Related Nodes: N-1613
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -848,8 +861,9 @@ Claim Timestamp: 00:34:14–00:35:03
 Claim: A news headline states: "US urges citizens to leave Iraq on after attack on the embassy in Baghdad," following strikes that killed three members of Kata'ib Hezbollah.
 
 Anchored Artifacts: A-1860.1
+Mentions: N-5
 
-Related Nodes: N-5, N-1615
+Related Nodes: N-1615
 
 Investigative Direction: Obtain the original news article; verify date and source publication.
 
@@ -862,8 +876,9 @@ Claim Timestamp: 00:36:50–00:40:07
 Claim: Candace Owens published an article (read aloud in this episode) quoting Jordan Peterson ("you cannot twist the fabric of reality without it snapping back") and arguing Zionists are "their own worst enemy" pursuing a "fake it till you make it" war strategy.
 
 Anchored Artifacts: A-1856.1
+Mentions: N-3, N-998
 
-Related Nodes: N-3, N-998, N-1616
+Related Nodes: N-1616
 
 Investigative Direction: Retrieve the original published article (Substack or platform); verify publication date.
 

@@ -382,7 +382,7 @@ Claim Timestamp: 00:02:06
 Claim: In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
 
 Anchored Artifacts: A-1391.1
-Related Nodes: N-16, N-1
+Mentions: N-1, N-16
 Investigative Direction: Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.
 
 ---
@@ -394,7 +394,7 @@ Claim Timestamp: 00:02:06
 Claim: In the same CBN News interview, Frank Turk stated he had invited "Detective Jay Warner Wallace" onto his podcast two weeks after "Charlie's martyrdom" to explain how murder prosecutions work.
 
 Anchored Artifacts: A-1391.1
-Related Nodes: N-16
+Mentions: N-16
 Investigative Direction: Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.
 
 ---
@@ -406,7 +406,7 @@ Claim Timestamp: 00:09:22
 Claim: The episode presents a 1995 LA Times article headlined "Child molester draws an 8-year term in prison," reporting that Thomas Michael Camino, 31, of San Juan Capistrano, was sentenced to the maximum 8-year term after conviction on molestation, indecent exposure, and 10 counts of child annoyance, for using a lost-cat story to lure girls in Orange County.
 
 Anchored Artifacts: A-1393.1
-Related Nodes: N-389
+Mentions: N-389
 Investigative Direction: Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.
 
 ---
@@ -418,7 +418,8 @@ Claim Timestamp: 00:06:39
 Claim: Owens reads aloud an email from a woman who states she was 8 years old in Dana Point, California, in 1995, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial.
 
 Anchored Artifacts: A-1392.1
-Related Nodes: N-389, N-1317
+Mentions: N-389
+Related Nodes: N-1317
 Investigative Direction: Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.
 
 ---
@@ -430,7 +431,7 @@ Claim Timestamp: 00:12:54
 Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at "Skyline," and that Camino has "followed the procedures" required of him and "served this community."
 
 Anchored Artifacts: A-1394.1
-Related Nodes: N-389
+Mentions: N-389
 Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
 
 ---
@@ -442,7 +443,8 @@ Claim Timestamp: 00:12:54
 Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel "home fellowship" program, which placed him "inside the homes of children," and that McCoy framed resulting criticism as "gossip and slander."
 
 Anchored Artifacts: A-1394.1
-Related Nodes: N-389, N-1316
+Mentions: N-389
+Related Nodes: N-1316
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
 ---
@@ -454,7 +456,7 @@ Claim Timestamp: 00:13:55
 Claim: In the Bryce Eddie Show clip, Thomas Camino states he was "falsely accused," describes a "sham" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.
 
 Anchored Artifacts: A-1394.2
-Related Nodes: N-389
+Mentions: N-389
 Investigative Direction: Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.
 
 ---
@@ -466,7 +468,8 @@ Claim Timestamp: 00:12:54
 Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of placing Camino with children as driven by "gossip and slander" and states he made a personal call to "protect" Camino's family.
 
 Anchored Artifacts: A-1394.1
-Related Nodes: N-389, N-1316
+Mentions: N-389
+Related Nodes: N-1316
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
 ---
@@ -478,7 +481,7 @@ Claim Timestamp: 00:40:32
 Claim: In the played clip, a reporter asks Tucker Carlson to distance himself from Candace Owens; Carlson refuses, stating he would "die before" playing along, and calls the request a "ritual" without moral authority.
 
 Anchored Artifacts: A-1395.1
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.
 
 ---
@@ -490,7 +493,8 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Related Nodes: N-314, N-1317
+Mentions: N-314
+Related Nodes: N-1317
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
 ---
@@ -502,7 +506,7 @@ Claim Timestamp: 00:56:01
 Claim: A YouTube commenter using the handle "Modern Realy" asks whether anyone has reviewed what the security guards "hand off after Charlie goes down," alleging their first action was "taking something from him and passing it around" and that "it just looked so coordinated."
 
 Anchored Artifacts: A-1398.4
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene.
 
 ---
@@ -514,7 +518,7 @@ Claim Timestamp: 00:00:01
 Claim: The episode plays a throwback clip of Candace Owens and Charlie Kirk co-hosting a PragerU segment in which they discuss the type of allies one wants during crisis ("foxhole" allies), with Kirk stating one should identify "where the bullets are coming from" rather than deny their existence.
 
 Anchored Artifacts: A-1390.1
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Identify the original PragerU episode and air date; locate full unedited segment.
 
 ---

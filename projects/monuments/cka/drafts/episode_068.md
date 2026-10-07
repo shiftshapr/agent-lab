@@ -407,7 +407,8 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:23:15
 Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
-Related Nodes: N-783, N-1550
+Mentions: N-783
+Related Nodes: N-1550
 Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
 ---
@@ -416,7 +417,8 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 Claim Timestamp: 00:24:00
 Claim: On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
-Related Nodes: N-783, N-1550
+Mentions: N-783
+Related Nodes: N-1550
 Investigative Direction: Obtain the original post screenshot/metadata and identify the countdown's intended referent.
 
 ---
@@ -425,7 +427,8 @@ Investigative Direction: Obtain the original post screenshot/metadata and identi
 Claim Timestamp: 00:25:00
 Claim: The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened "within seconds" of the shooting.
 Anchored Artifacts: A-1728.1
-Related Nodes: N-783, N-272, N-1549, N-1553
+Mentions: N-272, N-783
+Related Nodes: N-1549, N-1553
 Investigative Direction: Locate and quote the exact NYT passage to confirm wording.
 
 ---
@@ -434,7 +437,8 @@ Investigative Direction: Locate and quote the exact NYT passage to confirm wordi
 Claim Timestamp: 00:05:54
 Claim: A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
-Related Nodes: N-885, N-1551, N-1555
+Mentions: N-885
+Related Nodes: N-1551, N-1555
 Investigative Direction: Locate Robkea's published work ("Babylon Rising" et al.) and verify each factual component independently.
 
 ---
@@ -470,7 +474,8 @@ Investigative Direction: Locate the British Museum report and confirm quoted lan
 Claim Timestamp: 00:09:00
 Claim: The BBC reported that Gorg Fastinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
-Related Nodes: N-876, N-1555
+Mentions: N-876
+Related Nodes: N-1555
 Investigative Direction: Locate the specific BBC report and confirm date.
 
 ---
@@ -479,7 +484,7 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 Claim Timestamp: 00:07:30
 Claim: German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
-Related Nodes: N-876, N-877
+Mentions: N-876, N-877
 Investigative Direction: Locate primary publications or institutional releases confirming the timeline.
 
 ---
@@ -488,7 +493,7 @@ Investigative Direction: Locate primary publications or institutional releases c
 Claim Timestamp: 00:09:03
 Claim: Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.
 Anchored Artifacts: A-1732.1
-Related Nodes: N-882
+Mentions: N-882
 Investigative Direction: Reference the UN Security Council record / transcript.
 
 ---
@@ -497,7 +502,7 @@ Investigative Direction: Reference the UN Security Council record / transcript.
 Claim Timestamp: 00:39:16
 Claim: Ben Shapiro, on a Daily Wire "All Access" segment, mocked the host's reported dream of playing "Hogwarts chess" with him, joking about whether it was "wired" or "weird."
 Anchored Artifacts: A-1733.1
-Related Nodes: N-133
+Mentions: N-133
 Investigative Direction: Locate the specific All Access clip for verification of exact wording.
 
 ---
@@ -506,7 +511,8 @@ Investigative Direction: Locate the specific All Access clip for verification of
 Claim Timestamp: 00:25:21
 Claim: According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife.
 Anchored Artifacts: A-1734.1
-Related Nodes: N-272, N-1553
+Mentions: N-272
+Related Nodes: N-1553
 Investigative Direction: Obtain call log records or corroborating witness / phone carrier metadata.
 
 ---
@@ -515,7 +521,8 @@ Investigative Direction: Obtain call log records or corroborating witness / phon
 Claim Timestamp: 00:26:30
 Claim: Justin Strife sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
-Related Nodes: N-783, N-43, N-1549, N-1554
+Mentions: N-43, N-783
+Related Nodes: N-1549, N-1554
 Investigative Direction: Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.
 
 ---
@@ -524,7 +531,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 Claim Timestamp: 00:46:39
 Claim: William Stevenson, 77, of Wilmington, Delaware — ex-husband of Jill Biden (married 1970–1975) — was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
 Anchored Artifacts: A-1736.1
-Related Nodes: N-883, N-888, N-889
+Mentions: N-883, N-888, N-889
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
 
 ---
@@ -533,7 +540,7 @@ Investigative Direction: Verify via Delaware court records and contemporaneous n
 Claim Timestamp: 00:44:50
 Claim: Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
 Anchored Artifacts: A-1737.1
-Related Nodes: N-884
+Mentions: N-884
 Investigative Direction: Locate the tweet and verify exact wording and date.
 
 ---

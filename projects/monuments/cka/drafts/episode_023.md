@@ -658,7 +658,8 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:05:35
 Claim: The episode presents Flightradar tracking data showing the Egyptian-registered Falcon 7X tail number SUBTT making multiple U.S. arrivals between 2022 and September 2025 in locations including St. Louis, Kansas, Lincoln (NE), Wichita, and Provo, in temporal proximity to TPUSA, TPUSA Faith, or Charlie Kirk events.
 Anchored Artifacts: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9
-Related Nodes: N-1, N-45, N-302, N-310, N-1273
+Mentions: N-1, N-45, N-302, N-310
+Related Nodes: N-1273
 Investigative Direction: Pull official Flightradar / ADS-B archives for SUBTT across the cited dates; verify whether route and timing correlate with documented TPUSA / TPUSA Faith events as claimed.
 
 ---
@@ -668,7 +669,8 @@ Investigative Direction: Pull official Flightradar / ADS-B archives for SUBTT ac
 Claim Timestamp: 00:09:38
 Claim: The episode presents Flightradar tracking data showing the Egyptian-registered Gulfstream 4 tail number SUBND arriving in St. Louis on February 21, 2023 (remaining until May), arriving in Provo on April 19, 2024, arriving in Provo on May 23, 2025, and departing Provo on September 13, 2025 via Canada and Paris back to Cairo.
 Anchored Artifacts: A-1302.1, A-1302.2, A-1302.3, A-1302.4
-Related Nodes: N-1, N-310, N-1274
+Mentions: N-1, N-310
+Related Nodes: N-1274
 Investigative Direction: Verify Flightradar archive for SUBND on each cited date; cross-reference ground-time anomalies with TPUSA / TPUSA Faith event timing.
 
 ---
@@ -678,7 +680,8 @@ Investigative Direction: Verify Flightradar archive for SUBND on each cited date
 Claim Timestamp: 00:20:27
 Claim: The episode states that Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, citing an internal TPUSA email referenced but not displayed on screen.
 Anchored Artifacts: A-1304.1
-Related Nodes: N-272, N-1278
+Mentions: N-272
+Related Nodes: N-1278
 Investigative Direction: Obtain the referenced internal TPUSA email through open-source verification or insider corroboration; cross-check TPUSA organizational filings and HR records.
 
 ---
@@ -688,7 +691,8 @@ Investigative Direction: Obtain the referenced internal TPUSA email through open
 Claim Timestamp: 00:20:57
 Claim: The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while director Mark corrects the date to May 2025 in the live-show segment. Both assertions are recorded as competing host-side positions against a single artifact.
 Anchored Artifacts: A-1303.1
-Related Nodes: N-1, N-272, N-1277, N-98
+Mentions: N-1, N-98, N-272
+Related Nodes: N-1277
 Investigative Direction: Re-examine the original Instagram post metadata (post date, capture date) to resolve the dating discrepancy between host and director Mark.
 
 ---
@@ -698,7 +702,8 @@ Investigative Direction: Re-examine the original Instagram post metadata (post d
 Claim Timestamp: 00:26:47
 Claim: The episode references a June 2025 article documenting multiple organizational allegations against Sean Feucht, including use of business credit cards for personal expenses, diversion of donations to personal accounts, inflated vendor payments, ministry funds used to rent his personal Montana cabin for board meetings, and ownership of multiple high-value properties.
 Anchored Artifacts: A-1305.1, A-1306.5
-Related Nodes: N-302, N-1275, N-1280
+Mentions: N-302
+Related Nodes: N-1275, N-1280
 Investigative Direction: Retrieve the cited article directly; confirm each enumerated allegation against underlying source documents and any subsequent legal filings.
 
 ---
@@ -770,7 +775,8 @@ Investigative Direction: Verify the second-leg flight path; cross-check with Fli
 Claim Timestamp: 00:17:04
 Claim: The episode references the November 7, 2018 shooting at Borderline Bar and Grill in Thousand Oaks, CA, in which a former Marine killed 11 patrons and himself, with additional Marine/veteran victims present.
 Anchored Artifacts: A-1310.1
-Related Nodes: N-45, N-1279
+Mentions: N-45
+Related Nodes: N-1279
 Investigative Direction: Confirm event details against contemporaneous news coverage; verify any documented role of Rob McCoy as pastor to the shooter's family.
 
 ---
@@ -780,7 +786,8 @@ Investigative Direction: Confirm event details against contemporaneous news cove
 Claim Timestamp: 00:37:15
 Claim: The episode reports that Israeli Prime Minister Bibi Netanyahu publicly stated he had called Charlie Kirk approximately two weeks before the assassination and invited him to Israel.
 Anchored Artifacts: A-1311.1
-Related Nodes: N-1, N-65, N-1275
+Mentions: N-1, N-65
+Related Nodes: N-1275
 Investigative Direction: Locate the cited Netanyahu public statement (interview, press conference, or social-media post) and verify exact wording and date.
 
 *Flag: Statement verbally referenced; not displayed within episode*
@@ -792,7 +799,8 @@ Investigative Direction: Locate the cited Netanyahu public statement (interview,
 Claim Timestamp: 00:29:46
 Claim: The episode references a news story in which a plumber repairing a toilet at Joel Osteen's megachurch discovered approximately $500,000 in cash stuffed in envelopes inside a wall, with Osteen's public response framed as acknowledging missing church funds.
 Anchored Artifacts: A-1308.1
-Related Nodes: N-308, N-1280
+Mentions: N-308
+Related Nodes: N-1280
 Investigative Direction: Retrieve the underlying news article; verify the exact amount, date, and Osteen's official response.
 
 *Flag: Year of event not specified in transcript*
@@ -804,7 +812,8 @@ Investigative Direction: Retrieve the underlying news article; verify the exact 
 Claim Timestamp: 00:32:39
 Claim: The episode presents that Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 referencing Jeffrey Epstein, questioning U.S. alignment with Israel, suggesting citizenship revocation for foreign-military service, and musing on Bill Ackman's wealth.
 Anchored Artifacts: A-1312.1
-Related Nodes: N-1, N-50, N-1275
+Mentions: N-1, N-50
+Related Nodes: N-1275
 Investigative Direction: Obtain the Tucker Carlson TPUSA July 11, 2025 speech (video / transcript) and verify each cited claim against his actual statements.
 
 *Flag: Speech referenced but specific clip not displayed in this episode*
@@ -816,7 +825,8 @@ Investigative Direction: Obtain the Tucker Carlson TPUSA July 11, 2025 speech (v
 Claim Timestamp: 00:32:39
 Claim: The host states that immediately after Tucker's July 11, 2025 speech, a female donor began yelling at Charlie Kirk about not being allowed to be anti-Israel, and that broader donor pressure subsequently warned Charlie that TPUSA "can never" tolerate that posture.
 Anchored Artifacts: A-1312.1
-Related Nodes: N-1, N-50, N-70, N-1275
+Mentions: N-1, N-50, N-70
+Related Nodes: N-1275
 Investigative Direction: Locate first-person testimony, contemporaneous social-media posts, or insider accounts corroborating the immediate post-speech confrontation.
 
 *Flag: Host testimony / insider account; not directly anchored to displayed documentary evidence*
@@ -840,7 +850,8 @@ Investigative Direction: Verify existence of a Charlie Kirk "Restaurantology Sum
 Claim Timestamp: 00:37:15
 Claim: The host states that Netanyahu offered to "fund Turning Point to the next level," that Charlie declined, and that Andrew Kolb should be able to confirm the offer.
 Anchored Artifacts: A-1311.1
-Related Nodes: N-1, N-42, N-65, N-1275
+Mentions: N-1, N-42, N-65
+Related Nodes: N-1275
 Investigative Direction: Obtain direct confirmation from Andrew Kolb (public statement, interview, or testimony) corroborating the funding-offer claim.
 
 *Flag: Andrew Kolb confirmation not displayed in episode*
@@ -864,7 +875,8 @@ Investigative Direction: Locate any direct statement from Charlie Kirk regarding
 Claim Timestamp: 00:59:11
 Claim: The episode reads aloud multiple live-chat comments criticizing Pastor Jack Hibbs's silence, condemning Christian Zionist loyalty replacing loyalty to "God, the church, and the truth," and explicitly defending the host's investigation against Zionist criticism.
 Anchored Artifacts: A-1306.1, A-1306.2, A-1306.3
-Related Nodes: N-309, N-1275
+Mentions: N-309
+Related Nodes: N-1275
 Investigative Direction: Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.
 
 ---
@@ -874,7 +886,8 @@ Investigative Direction: Verify each named pastor / figure's public silence or s
 Claim Timestamp: 01:01:33
 Claim: Live-chat comment "Tim Morgan" states that Sean Feucht and Pastor McCoy are planning a "Courageous Christianity Tour" to honor Charlie Kirk.
 Anchored Artifacts: A-1306.5
-Related Nodes: N-45, N-302, N-1275
+Mentions: N-45, N-302
+Related Nodes: N-1275
 Investigative Direction: Verify the existence and details of any announced "Courageous Christianity Tour" through TPUSA Faith announcements, ticketing sites, or insider confirmations.
 
 ---
@@ -884,7 +897,8 @@ Investigative Direction: Verify the existence and details of any announced "Cour
 Claim Timestamp: 00:13:18
 Claim: The host asserts — citing X researcher Village Crazy Lady — that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
 Anchored Artifacts: A-1307.1
-Related Nodes: N-302, N-97, N-1276, N-1275
+Mentions: N-97, N-302
+Related Nodes: N-1275, N-1276
 Investigative Direction: Pull and analyze Village Crazy Lady's pinned NAR research thread; cross-check Sean Feucht's biographical and ministry affiliations against NAR church networks and apostle affiliations.
 
 ---
@@ -894,7 +908,8 @@ Investigative Direction: Pull and analyze Village Crazy Lady's pinned NAR resear
 Claim Timestamp: 00:14:58
 Claim: The host states that Rob McCoy "says, 'I was his pastor,'" and characterizes Rob McCoy's pattern of proximity to mass-shooting events as suspect.
 Anchored Artifacts: A-1310.1 (shooting reference as contextual anchor)
-Related Nodes: N-45, N-1279
+Mentions: N-45
+Related Nodes: N-1279
 Investigative Direction: Locate any public statement by Rob McCoy identifying himself as Charlie Kirk's pastor; verify the nature and duration of any pastoral relationship.
 
 *Flag: Direct quote attributed to McCoy not displayed within episode*

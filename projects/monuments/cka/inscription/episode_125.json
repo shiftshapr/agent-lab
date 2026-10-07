@@ -711,12 +711,14 @@
         "A-2131.2"
       ],
       "related_nodes": [
-        "N-2113",
-        "N-1"
+        "N-2113"
       ],
       "tags": [],
       "claim_timestamp": "00:06:36",
-      "investigative_direction": "Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis."
+      "investigative_direction": "Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -727,12 +729,13 @@
       "anchored_artifacts": [
         "A-2133.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:33",
-      "investigative_direction": "Flight manifests, airport records, and witness corroboration would verify the passenger list."
+      "investigative_direction": "Flight manifests, airport records, and witness corroboration would verify the passenger list.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -810,12 +813,14 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-2115",
-        "N-37"
+        "N-2115"
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
-      "investigative_direction": "Corporate directories, employment records, public board listings would verify the employment claim."
+      "investigative_direction": "Corporate directories, employment records, public board listings would verify the employment claim.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -828,12 +833,14 @@
       ],
       "related_nodes": [
         "N-1213",
-        "N-2",
         "N-2115"
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
-      "investigative_direction": "Employment records, military transition records, and public corporate directories would verify the claim."
+      "investigative_direction": "Employment records, military transition records, and public corporate directories would verify the claim.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -844,12 +851,13 @@
       "anchored_artifacts": [
         "A-2135.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:46",
-      "investigative_direction": "Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions."
+      "investigative_direction": "Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -860,12 +868,13 @@
       "anchored_artifacts": [
         "A-2136.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:25",
-      "investigative_direction": "Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning."
+      "investigative_direction": "Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

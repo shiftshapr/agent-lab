@@ -593,12 +593,13 @@
       "anchored_artifacts": [
         "A-2440.1"
       ],
-      "related_nodes": [
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:40",
-      "investigative_direction": "Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future."
+      "investigative_direction": "Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",

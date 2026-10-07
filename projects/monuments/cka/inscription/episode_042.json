@@ -830,14 +830,16 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-224",
-        "N-2",
-        "N-1",
         "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:05:37",
-      "investigative_direction": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval."
+      "investigative_direction": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -849,13 +851,15 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-224",
-        "N-1384",
-        "N-2"
+        "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",
-      "investigative_direction": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation."
+      "investigative_direction": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -867,13 +871,15 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-224",
-        "N-1384",
-        "N-2"
+        "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
-      "investigative_direction": "Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition."
+      "investigative_direction": "Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -884,13 +890,14 @@
       "anchored_artifacts": [
         "A-1503.1"
       ],
-      "related_nodes": [
-        "N-481",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:18",
-      "investigative_direction": "Obtain the full released track and verify publication date, distribution platform, and producer credits."
+      "investigative_direction": "Obtain the full released track and verify publication date, distribution platform, and producer credits.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-481"
+      ]
     },
     {
       "@type": "Claim",
@@ -917,13 +924,15 @@
         "A-1505.6"
       ],
       "related_nodes": [
-        "N-1382",
-        "N-490",
-        "N-491"
+        "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45–00:21:55",
-      "investigative_direction": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles."
+      "investigative_direction": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-491"
+      ]
     },
     {
       "@type": "Claim",
@@ -935,13 +944,15 @@
         "A-1506.1"
       ],
       "related_nodes": [
-        "N-224",
-        "N-1384",
-        "N-2"
+        "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:46:13",
-      "investigative_direction": "Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives."
+      "investigative_direction": "Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -953,12 +964,14 @@
         "A-1507.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1383"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
-      "investigative_direction": "Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern."
+      "investigative_direction": "Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -970,12 +983,14 @@
         "A-1508.1"
       ],
       "related_nodes": [
-        "N-493",
         "N-1386"
       ],
       "tags": [],
       "claim_timestamp": "00:32:42–00:33:55",
-      "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness."
+      "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness.",
+      "mentions_person_refs": [
+        "N-493"
+      ]
     },
     {
       "@type": "Claim",
@@ -987,12 +1002,14 @@
         "A-1505.2"
       ],
       "related_nodes": [
-        "N-490",
         "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:24:45",
-      "investigative_direction": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement."
+      "investigative_direction": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.",
+      "mentions_person_refs": [
+        "N-490"
+      ]
     },
     {
       "@type": "Claim",
@@ -1004,12 +1021,14 @@
         "A-1505.3"
       ],
       "related_nodes": [
-        "N-490",
         "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00–00:25:35",
-      "investigative_direction": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order."
+      "investigative_direction": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.",
+      "mentions_person_refs": [
+        "N-490"
+      ]
     },
     {
       "@type": "Claim",
@@ -1021,12 +1040,14 @@
         "A-1505.4"
       ],
       "related_nodes": [
-        "N-490",
         "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50–00:25:25",
-      "investigative_direction": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone."
+      "investigative_direction": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.",
+      "mentions_person_refs": [
+        "N-490"
+      ]
     },
     {
       "@type": "Claim",
@@ -1038,13 +1059,15 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-491",
-        "N-492",
         "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30–00:28:00",
-      "investigative_direction": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review."
+      "investigative_direction": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.",
+      "mentions_person_refs": [
+        "N-491",
+        "N-492"
+      ]
     },
     {
       "@type": "Claim",
@@ -1057,13 +1080,15 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-492",
-        "N-491",
         "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:28:00",
-      "investigative_direction": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp."
+      "investigative_direction": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.",
+      "mentions_person_refs": [
+        "N-491",
+        "N-492"
+      ]
     },
     {
       "@type": "Claim",
@@ -1075,13 +1100,15 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-491",
-        "N-492",
         "N-1382"
       ],
       "tags": [],
       "claim_timestamp": "00:27:51–00:28:00",
-      "investigative_direction": "Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location."
+      "investigative_direction": "Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location.",
+      "mentions_person_refs": [
+        "N-491",
+        "N-492"
+      ]
     },
     {
       "@type": "Claim",
@@ -1187,12 +1214,14 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment."
+      "investigative_direction": "Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1204,14 +1233,16 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-224",
-        "N-2",
-        "N-1384",
-        "N-42"
+        "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
-      "investigative_direction": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture."
+      "investigative_direction": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-42",
+        "N-224"
+      ]
     }
   ],
   "memes": []

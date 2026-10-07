@@ -598,8 +598,8 @@ Claim Timestamp: 00:02:24
 Claim: Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
 
 Anchored Artifacts: A-2327, A-2328
+Mentions: N-69
 
-Related Nodes: N-69
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
@@ -610,8 +610,9 @@ Claim Timestamp: 00:04:11
 Claim: Judge Graff declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument.
 
 Anchored Artifacts: A-2327, A-2327.1
+Mentions: N-69
 
-Related Nodes: N-69, N-2225
+Related Nodes: N-2225
 
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
@@ -634,8 +635,9 @@ Claim Timestamp: 00:04:11
 Claim: Count 5 of the information charges witness tampering based specifically on a "delete this exchange" text message to Lance Twiggs, distinct from Count 6.
 
 Anchored Artifacts: A-2327.1
+Mentions: N-69
 
-Related Nodes: N-69, N-2225
+Related Nodes: N-2225
 
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
@@ -646,8 +648,9 @@ Claim Timestamp: 00:04:11
 Claim: The court permitted Count 6 to proceed by reference to Count 5, stating that the surrounding communications (including the "delete this exchange" instruction) permitted a reasonable inference of obstructive intent.
 
 Anchored Artifacts: A-2327.1
+Mentions: N-69
 
-Related Nodes: N-69, N-2225
+Related Nodes: N-2225
 
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
@@ -658,8 +661,8 @@ Claim Timestamp: 00:08:25
 Claim: On September 1, 2026, Tyler Robinson, through counsel, entered pleas of not guilty to all counts in the information.
 
 Anchored Artifacts: A-2328
+Mentions: N-69
 
-Related Nodes: N-69
 
 Investigative Direction: Verify against the court's docket entry; track any subsequent plea amendments.
 
@@ -670,8 +673,8 @@ Claim Timestamp: 00:08:25
 Claim: Defense counsel waived reading of the information at the arraignment hearing before entering the not-guilty pleas.
 
 Anchored Artifacts: A-2328
+Mentions: N-69
 
-Related Nodes: N-69
 
 Investigative Direction: Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.
 
@@ -730,8 +733,9 @@ Claim Timestamp: 00:16:16
 Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him — a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
 
 Anchored Artifacts: A-2329 (host narration; no audio or document displayed in this episode presenting the prior communication)
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1213
+Related Nodes: N-1213
 
 Investigative Direction: Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts).
 
@@ -862,8 +866,9 @@ Claim Timestamp: 00:42:00
 Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable; he was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
+Mentions: N-69
 
-Related Nodes: N-69, N-2223, N-2224
+Related Nodes: N-2223, N-2224
 
 Investigative Direction: Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
@@ -874,8 +879,9 @@ Claim Timestamp: 00:45:58
 Claim: The state is pursuing sentence enhancements based on the theory that Kirk was targeted for his political or religious beliefs, with the "some hate just can't be negotiated" text as the central anchor.
 
 Anchored Artifacts: A-2336, A-2337
+Mentions: N-69
 
-Related Nodes: N-69, N-2224
+Related Nodes: N-2224
 
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
@@ -886,8 +892,9 @@ Claim Timestamp: 00:45:58
 Claim: The state's filings do not identify which specific statements by Charlie Kirk they contend are "hateful" toward the LGBTQ community; the defense characterizes this as inferring upon an inference.
 
 Anchored Artifacts: A-2336, A-2337
+Mentions: N-69
 
-Related Nodes: N-69, N-1228, N-2224
+Related Nodes: N-1228, N-2224
 
 Investigative Direction: Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.
 
@@ -898,8 +905,9 @@ Claim Timestamp: 00:48:38
 Claim: The August 11 defense filing, page 32, asserts that the state is "inferring upon an inference" to establish political motivation, and that the record contains "no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on."
 
 Anchored Artifacts: A-2337
+Mentions: N-69
 
-Related Nodes: N-69, N-1228, N-2224
+Related Nodes: N-1228, N-2224
 
 Investigative Direction: Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.
 
@@ -910,8 +918,9 @@ Claim Timestamp: 00:48:38
 Claim: The state's theory relies in part on the proposition that Lance Twiggs (not Tyler Robinson) was "at least intermittently identifying as a female to his close friends," and that this is part of the inferential chain supporting the political-motivation enhancement.
 
 Anchored Artifacts: A-2337
+Mentions: N-69
 
-Related Nodes: N-69, N-1228, N-2224
+Related Nodes: N-1228, N-2224
 
 Investigative Direction: Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.
 
@@ -934,6 +943,7 @@ Claim Timestamp: 00:30:40
 Claim: Blake Neff testified that Mikey McCoy, within approximately one minute of the shot, called "Erika" (Erica / Erika Kirk) and then called his father Robin McCoy.
 
 Anchored Artifacts: A-2338
+Contradicts: C-1932, C-3092
 
 Related Nodes: N-1211, N-1213, N-1225, N-1226, N-2222
 
@@ -958,8 +968,9 @@ Claim Timestamp: 01:04:00
 Claim: Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 — a statement the host identifies as in tension with Kirk's prior-night communication of fear.
 
 Anchored Artifacts: A-2340 (host narrative; Shawn Ryan interview not displayed in this episode)
+Mentions: N-1
 
-Related Nodes: N-1218, N-1230, N-1
+Related Nodes: N-1218, N-1230
 
 Investigative Direction: Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications.
 
@@ -970,8 +981,9 @@ Claim Timestamp: 00:08:25
 Claim: The host asserts that the narrative that Tyler Robinson "confessed it to Mike Mitchell" is a "foundational lie" propagated by Pentagon influencers.
 
 Anchored Artifacts: A-2328 (host assertion; no documentary anchor in this episode)
+Mentions: N-69
 
-Related Nodes: N-69, N-1227
+Related Nodes: N-1227
 
 Investigative Direction: Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account.
 
@@ -982,8 +994,9 @@ Claim Timestamp: 00:08:25
 Claim: The host asserts that a narrative that Bill Ackman was "going to give him a million dollars" was "magically dropped" because "there was no truth and no substance."
 
 Anchored Artifacts: A-2328 (host assertion; no documentary anchor in this episode)
+Mentions: N-69
 
-Related Nodes: N-1229, N-69
+Related Nodes: N-1229
 
 Investigative Direction: Locate the original source of the Ackman offer; obtain Ackman's own statement.
 
@@ -1006,8 +1019,9 @@ Claim Timestamp: 00:31:39
 Claim: Blake Neff testified that Mikey McCoy, after the phone calls, "got total mastery of himself" and began "directing a battle" — assigning tasks, including instructions that "none of you can say anything" until Erika Kirk had been told directly by McCoy.
 
 Anchored Artifacts: A-2338
+Mentions: N-2
 
-Related Nodes: N-1211, N-1213, N-2
+Related Nodes: N-1211, N-1213
 
 Investigative Direction: Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle.
 

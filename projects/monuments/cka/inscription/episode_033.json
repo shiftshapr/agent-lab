@@ -842,13 +842,14 @@
       "anchored_artifacts": [
         "A-1415.1"
       ],
-      "related_nodes": [
-        "N-45",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:22–00:03:32",
-      "investigative_direction": "Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary."
+      "investigative_direction": "Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -860,14 +861,15 @@
         "A-1416.1",
         "A-1417.1"
       ],
-      "related_nodes": [
-        "N-406",
-        "N-2",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:45–00:10:00",
-      "investigative_direction": "Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript."
+      "investigative_direction": "Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-406"
+      ]
     },
     {
       "@type": "Claim",
@@ -879,14 +881,15 @@
         "A-1416.1",
         "A-1417.1"
       ],
-      "related_nodes": [
-        "N-406",
-        "N-2",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:00–00:11:00",
-      "investigative_direction": "Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation."
+      "investigative_direction": "Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-406"
+      ]
     },
     {
       "@type": "Claim",
@@ -898,15 +901,17 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-98",
-        "N-408",
         "N-1324"
       ],
       "tags": [],
       "claim_timestamp": "00:19:57–00:21:54",
-      "investigative_direction": "Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time)."
+      "investigative_direction": "Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-98",
+        "N-408"
+      ]
     },
     {
       "@type": "Claim",
@@ -919,14 +924,16 @@
         "A-1419.2"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-413",
         "N-1324"
       ],
       "tags": [],
       "claim_timestamp": "00:14:51–00:18:42",
-      "investigative_direction": "Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk."
+      "investigative_direction": "Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-413"
+      ]
     },
     {
       "@type": "Claim",
@@ -938,13 +945,15 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1324"
       ],
       "tags": [],
       "claim_timestamp": "00:17:49–00:18:42",
-      "investigative_direction": "Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk."
+      "investigative_direction": "Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -956,12 +965,14 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1324"
       ],
       "tags": [],
       "claim_timestamp": "00:17:49–00:18:42",
-      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution."
+      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -973,12 +984,14 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1324"
       ],
       "tags": [],
       "claim_timestamp": "00:18:42",
-      "investigative_direction": "Request the host's underlying statistical model and assumptions; replicate the calculation independently."
+      "investigative_direction": "Request the host's underlying statistical model and assumptions; replicate the calculation independently.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -988,14 +1001,16 @@
       "claim": "Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a \"credible threat\" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-1329",
-        "N-414"
+        "N-1329"
       ],
       "tags": [],
       "claim_timestamp": "00:23:51–00:25:54",
-      "investigative_direction": "Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning."
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-414"
+      ]
     },
     {
       "@type": "Claim",
@@ -1007,12 +1022,14 @@
         "A-1422.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1326"
       ],
       "tags": [],
       "claim_timestamp": "00:26:19–00:27:30",
-      "investigative_direction": "Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable."
+      "investigative_direction": "Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1027,12 +1044,14 @@
         "A-1421.4"
       ],
       "related_nodes": [
-        "N-408",
         "N-1327"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
-      "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates."
+      "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.",
+      "mentions_person_refs": [
+        "N-408"
+      ]
     },
     {
       "@type": "Claim",
@@ -1047,12 +1066,14 @@
         "A-1421.4"
       ],
       "related_nodes": [
-        "N-408",
         "N-1327"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
-      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records."
+      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.",
+      "mentions_person_refs": [
+        "N-408"
+      ]
     },
     {
       "@type": "Claim",
@@ -1064,13 +1085,15 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-70",
         "N-1325"
       ],
       "tags": [],
       "claim_timestamp": "00:34:07–00:35:11",
-      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings."
+      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1082,12 +1105,14 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1325"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29–00:39:37",
-      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings."
+      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1100,15 +1125,17 @@
         "A-1420.3"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-70",
-        "N-412",
         "N-1325"
       ],
       "tags": [],
       "claim_timestamp": "00:35:11–00:36:30",
-      "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline."
+      "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-70",
+        "N-412"
+      ]
     },
     {
       "@type": "Claim",
@@ -1120,12 +1147,14 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1325"
       ],
       "tags": [],
       "claim_timestamp": "00:43:57–00:44:30",
-      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII."
+      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1137,13 +1166,15 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1325"
       ],
       "tags": [],
       "claim_timestamp": "00:42:57–00:43:57",
-      "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records."
+      "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1171,13 +1202,15 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-98",
-        "N-408",
         "N-1324"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00–00:21:54",
-      "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents."
+      "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.",
+      "mentions_person_refs": [
+        "N-98",
+        "N-408"
+      ]
     }
   ],
   "memes": []

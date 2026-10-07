@@ -1362,12 +1362,13 @@
       "anchored_artifacts": [
         "A-2015.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:13",
-      "investigative_direction": "Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action."
+      "investigative_direction": "Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1393,13 +1394,15 @@
         "A-2015.2"
       ],
       "related_nodes": [
-        "N-1",
-        "N-3",
         "N-1725"
       ],
       "tags": [],
       "claim_timestamp": "00:03:20",
-      "investigative_direction": "Compare the quoted podcast passage against the actual transcript to verify Candace's exact words."
+      "investigative_direction": "Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1479,13 +1482,15 @@
         "A-2018.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1214",
         "N-1719"
       ],
       "tags": [],
       "claim_timestamp": "00:17:25",
-      "investigative_direction": "Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19."
+      "investigative_direction": "Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1500,12 +1505,14 @@
         "A-2017.3"
       ],
       "related_nodes": [
-        "N-3",
         "N-1718"
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
-      "investigative_direction": "Cross-reference the embedded text messages against phone records; verify Harpole's receipt."
+      "investigative_direction": "Cross-reference the embedded text messages against phone records; verify Harpole's receipt.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1532,12 +1539,14 @@
         "A-2018.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-3"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:18:21",
-      "investigative_direction": "Locate the September 2025 episode in which Candace defended the security team."
+      "investigative_direction": "Locate the September 2025 episode in which Candace defended the security team.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1568,13 +1577,15 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1210",
         "N-1718"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
-      "investigative_direction": "Obtain original X post screenshot and verify text against the quoted excerpt."
+      "investigative_direction": "Obtain original X post screenshot and verify text against the quoted excerpt.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1587,12 +1598,14 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-3"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
-      "investigative_direction": "Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context."
+      "investigative_direction": "Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1622,14 +1635,16 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-3",
         "N-1722",
         "N-1218"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
-      "investigative_direction": "Locate Erika Kirk's original statement on video or social media to verify exact wording and context."
+      "investigative_direction": "Locate Erika Kirk's original statement on video or social media to verify exact wording and context.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1641,13 +1656,15 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-3",
         "N-1722"
       ],
       "tags": [],
       "claim_timestamp": "00:44:39",
-      "investigative_direction": "Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika."
+      "investigative_direction": "Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1660,13 +1677,15 @@
       ],
       "related_nodes": [
         "N-1218",
-        "N-2",
-        "N-3",
         "N-1722"
       ],
       "tags": [],
       "claim_timestamp": "00:43:04",
-      "investigative_direction": "Locate Coleman's full segment for additional context."
+      "investigative_direction": "Locate Coleman's full segment for additional context.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1681,12 +1700,14 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-3",
         "N-1723"
       ],
       "tags": [],
       "claim_timestamp": "00:50:32",
-      "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral."
+      "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1700,12 +1721,14 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-3",
         "N-1723"
       ],
       "tags": [],
       "claim_timestamp": "00:52:10",
-      "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization."
+      "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1719,12 +1742,14 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-3",
         "N-1723"
       ],
       "tags": [],
       "claim_timestamp": "00:52:50",
-      "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing."
+      "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1738,12 +1763,14 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-3",
         "N-1723"
       ],
       "tags": [],
       "claim_timestamp": "00:53:42",
-      "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording."
+      "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1757,12 +1784,14 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-3",
         "N-1723"
       ],
       "tags": [],
       "claim_timestamp": "00:55:26",
-      "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context."
+      "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1773,13 +1802,14 @@
       "anchored_artifacts": [
         "A-2027.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:07",
-      "investigative_direction": "Verify the post's date, persistence, and any replies or context."
+      "investigative_direction": "Verify the post's date, persistence, and any replies or context.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
   "memes": []

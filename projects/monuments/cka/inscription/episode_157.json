@@ -848,14 +848,16 @@
       "related_nodes": [
         "N-2350",
         "N-2329",
-        "N-424",
-        "N-434",
-        "N-2092",
-        "N-30"
+        "N-2092"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
-      "investigative_direction": "Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation."
+      "investigative_direction": "Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.",
+      "mentions_person_refs": [
+        "N-30",
+        "N-424",
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -868,15 +870,17 @@
         "A-2452.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-42",
-        "N-224",
         "N-2350",
         "N-2329"
       ],
       "tags": [],
       "claim_timestamp": "00:04:22",
-      "investigative_direction": "Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review."
+      "investigative_direction": "Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-42",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -890,12 +894,14 @@
       "related_nodes": [
         "N-2351",
         "N-2073",
-        "N-1291",
-        "N-30"
+        "N-1291"
       ],
       "tags": [],
       "claim_timestamp": "00:14:22",
-      "investigative_direction": "Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain."
+      "investigative_direction": "Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.",
+      "mentions_person_refs": [
+        "N-30"
+      ]
     },
     {
       "@type": "Claim",
@@ -909,12 +915,14 @@
       "related_nodes": [
         "N-2351",
         "N-1313",
-        "N-2073",
-        "N-30"
+        "N-2073"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
-      "investigative_direction": "Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases."
+      "investigative_direction": "Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.",
+      "mentions_person_refs": [
+        "N-30"
+      ]
     },
     {
       "@type": "Claim",
@@ -928,14 +936,16 @@
       ],
       "related_nodes": [
         "N-2353",
-        "N-424",
-        "N-344",
         "N-1313",
         "N-2063"
       ],
       "tags": [],
       "claim_timestamp": "00:45:34",
-      "investigative_direction": "Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available."
+      "investigative_direction": "Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.",
+      "mentions_person_refs": [
+        "N-344",
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -948,13 +958,15 @@
       ],
       "related_nodes": [
         "N-2353",
-        "N-424",
         "N-1720",
         "N-2063"
       ],
       "tags": [],
       "claim_timestamp": "00:47:38",
-      "investigative_direction": "Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway."
+      "investigative_direction": "Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -966,12 +978,14 @@
         "A-2454.1"
       ],
       "related_nodes": [
-        "N-2352",
-        "N-435"
+        "N-2352"
       ],
       "tags": [],
       "claim_timestamp": "00:28:35",
-      "investigative_direction": "FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition."
+      "investigative_direction": "FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.",
+      "mentions_person_refs": [
+        "N-435"
+      ]
     },
     {
       "@type": "Claim",
@@ -983,14 +997,16 @@
         "A-2455.1"
       ],
       "related_nodes": [
-        "N-435",
-        "N-434",
         "N-2092",
         "N-2329"
       ],
       "tags": [],
       "claim_timestamp": "00:25:32",
-      "investigative_direction": "Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred."
+      "investigative_direction": "Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.",
+      "mentions_person_refs": [
+        "N-434",
+        "N-435"
+      ]
     },
     {
       "@type": "Claim",
@@ -1003,13 +1019,15 @@
       ],
       "related_nodes": [
         "N-2354",
-        "N-1",
         "N-2073",
         "N-2351"
       ],
       "tags": [],
       "claim_timestamp": "00:56:42",
-      "investigative_direction": "Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference."
+      "investigative_direction": "Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1021,13 +1039,15 @@
         "A-2457.1"
       ],
       "related_nodes": [
-        "N-2351",
-        "N-30",
-        "N-40"
+        "N-2351"
       ],
       "tags": [],
       "claim_timestamp": "01:12:05",
-      "investigative_direction": "Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”"
+      "investigative_direction": "Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”",
+      "mentions_person_refs": [
+        "N-30",
+        "N-40"
+      ]
     },
     {
       "@type": "Claim",
@@ -1041,12 +1061,14 @@
       ],
       "related_nodes": [
         "N-2329",
-        "N-2350",
-        "N-2"
+        "N-2350"
       ],
       "tags": [],
       "claim_timestamp": "00:01:46",
-      "investigative_direction": "Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary."
+      "investigative_direction": "Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1059,12 +1081,14 @@
         "A-2454.1"
       ],
       "related_nodes": [
-        "N-2352",
-        "N-1"
+        "N-2352"
       ],
       "tags": [],
       "claim_timestamp": "01:22:32",
-      "investigative_direction": "Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed."
+      "investigative_direction": "Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

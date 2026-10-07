@@ -585,7 +585,7 @@ Claim Timestamp: 00:08:25
 Claim: Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.
 
 Anchored Artifacts: A-1836.1
-Related Nodes: N-973, N-974, N-975, N-254
+Mentions: N-254, N-973, N-974, N-975
 Investigative Direction: Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.
 
 ---
@@ -597,7 +597,8 @@ Claim Timestamp: 00:13:44
 Claim: Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erica Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).
 
 Anchored Artifacts: A-1837.1
-Related Nodes: N-2, N-969, N-1606
+Mentions: N-2, N-969
+Related Nodes: N-1606
 Investigative Direction: Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.
 
 ---
@@ -609,7 +610,8 @@ Claim Timestamp: 00:17:48
 Claim: Per the displayed 2017 article, Erica Kirk stated: "I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center."
 
 Anchored Artifacts: A-1838.1
-Related Nodes: N-2, N-971, N-1607
+Mentions: N-2, N-971
+Related Nodes: N-1607
 Investigative Direction: Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.
 
 ---
@@ -621,7 +623,8 @@ Claim Timestamp: 00:16:04
 Claim: Per the displayed interview clip, Erica Kirk stated that Romanian children associated with the orphanage program did not trust the woman running United Hands, even when offered gifts.
 
 Anchored Artifacts: A-1838.2
-Related Nodes: N-2, N-971, N-1607
+Mentions: N-2, N-971
+Related Nodes: N-1607
 Investigative Direction: Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.
 
 ---
@@ -633,7 +636,8 @@ Claim Timestamp: 00:18:27
 Claim: Per the displayed Romanian investigative article, Children of God founder David Berg claimed incest and sex involving minors were permitted; the article states Berg made his daughter Faithy a sexual partner when she reached age 12.
 
 Anchored Artifacts: A-1839.1
-Related Nodes: N-972, N-1607
+Mentions: N-972
+Related Nodes: N-1607
 Investigative Direction: Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.
 
 ---
@@ -645,7 +649,8 @@ Claim Timestamp: 00:21:19
 Claim: Per the displayed Megyn Kelly interview clip, Christina Babin described being taken by an adult couple in the night as a child and shown how to have sex, attributing the instruction to a letter sent by cult leader David Berg.
 
 Anchored Artifacts: A-1840.1
-Related Nodes: N-972, N-982, N-1607
+Mentions: N-972, N-982
+Related Nodes: N-1607
 Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's "sexual sharing" directive.
 
 ---
@@ -705,7 +710,8 @@ Claim Timestamp: 00:42:41
 Claim: Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as one of his favorite members of Congress and welcomes him to discuss the new Church Committee.
 
 Anchored Artifacts: A-1843.1
-Related Nodes: N-1, N-968, N-1611
+Mentions: N-1, N-968
+Related Nodes: N-1611
 Investigative Direction: Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).
 
 ---
@@ -717,7 +723,8 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed Turning Point Action tweet, the organization characterized Massie as a "rhino" who needed to be replaced.
 
 Anchored Artifacts: A-1844.1
-Related Nodes: N-968, N-70, N-1611
+Mentions: N-70, N-968
+Related Nodes: N-1611
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 
 ---
@@ -729,7 +736,8 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed X community note, the Massie tweet from Turning Point Action was fact-checked with the statement: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman."
 
 Anchored Artifacts: A-1844.2
-Related Nodes: N-968, N-1611
+Mentions: N-968
+Related Nodes: N-1611
 Investigative Direction: Preserve community note metadata; identify raters and any subsequent updates to the note.
 
 ---
@@ -741,7 +749,8 @@ Claim Timestamp: 00:44:27
 Claim: Per the displayed video instances cited in Massie's reply tweet and host commentary, Charlie Kirk identified Massie as a favorite congressman on multiple occasions from at least 2016 through 2023.
 
 Anchored Artifacts: A-1843.1, A-1845.1
-Related Nodes: N-1, N-968, N-1611
+Mentions: N-1, N-968
+Related Nodes: N-1611
 Investigative Direction: Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.
 
 ---
@@ -753,7 +762,8 @@ Claim Timestamp: 00:18:27
 Claim: Per the displayed Romanian investigative article, Renee Crossman is identified by the Romanian investigative team as originating from the Children of God religious sect (now called The Family).
 
 Anchored Artifacts: A-1839.1
-Related Nodes: N-971, N-1607
+Mentions: N-971
+Related Nodes: N-1607
 Investigative Direction: Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.
 
 ---
@@ -765,7 +775,8 @@ Claim Timestamp: 00:17:48
 Claim: Per the displayed 2017 article, Erica Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.
 
 Anchored Artifacts: A-1838.1
-Related Nodes: N-2, N-971, N-1607
+Mentions: N-2, N-971
+Related Nodes: N-1607
 Investigative Direction: Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.
 
 ---
@@ -801,7 +812,8 @@ Claim Timestamp: 00:44:27
 Claim: Per the displayed Massie reply tweet, Massie directly asked Turning Point USA what had "gotten into y'all" in response to their tweet targeting him.
 
 Anchored Artifacts: A-1845.1
-Related Nodes: N-968, N-1611
+Mentions: N-968
+Related Nodes: N-1611
 Investigative Direction: Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.
 
 ---
@@ -813,7 +825,8 @@ Claim Timestamp: 00:19:11
 Claim: Per the displayed Romanian investigative article, the Children of God / The Family cult was subsequently instructed to disperse and hide themselves within the world of nonprofit organizations.
 
 Anchored Artifacts: A-1839.1
-Related Nodes: N-972, N-1607
+Mentions: N-972
+Related Nodes: N-1607
 Investigative Direction: Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.
 
 ---

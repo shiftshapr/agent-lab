@@ -771,8 +771,9 @@ Claim Timestamp: 00:37:50
 Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
+Mentions: N-57
 
-Related Nodes: N-1219, N-1220, N-1221, N-57
+Related Nodes: N-1219, N-1220, N-1221
 
 Investigative Direction: Cross-check NYT article with contemporaneous French press; verify date.
 
@@ -799,8 +800,9 @@ Claim Timestamp: 00:46:50
 Claim: Per viewer comment read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Deleto.
 
 Anchored Artifacts: A-2082.1
+Mentions: N-57
 
-Related Nodes: N-1219, N-57
+Related Nodes: N-1219
 
 Investigative Direction: Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity.
 
@@ -827,8 +829,9 @@ Claim Timestamp: 00:31:50
 Claim: Per local news in Utah cited by host, Turning Point USA submitted on July 18, 2025 for Charlie Kirk to do his event at Utah Valley; host states she has been unable to independently confirm.
 
 Anchored Artifacts: A-2084.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2073
+Related Nodes: N-2073
 
 Investigative Direction: Obtain the actual UVU event submission paperwork; identify the requesting student organization.
 
@@ -841,8 +844,9 @@ Claim Timestamp: 00:10:30
 Claim: Per host (recapping prior episodes) and per the on-screen connection graphic, Mitt Romney and Benjamin Netanyahu both worked at the Boston Consulting Group.
 
 Anchored Artifacts: A-2076.1
+Mentions: N-57
 
-Related Nodes: N-1218, N-2066, N-57
+Related Nodes: N-1218, N-2066
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 
@@ -855,8 +859,9 @@ Claim Timestamp: 00:10:30
 Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital with Israeli spy Robert Maxwell (father of Ghislaine Maxwell, host spelling) as one of his seed investors.
 
 Anchored Artifacts: A-2076.1
+Mentions: N-57
 
-Related Nodes: N-1218, N-2066, N-57
+Related Nodes: N-1218, N-2066
 
 Investigative Direction: Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.
 

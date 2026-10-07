@@ -290,8 +290,8 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker Carlson had mentioned Zohran Mamdani once since October 5 and that he (Shapiro) had done 17 separate shows on Mamdani.
 
 Anchored Artifacts: A-1356.1, A-1356.2
+Mentions: N-340
 
-Related Nodes: N-340
 
 Investigative Direction: Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.
 
@@ -318,8 +318,9 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing Erika Kirk of murdering Charlie Kirk.
 
 Anchored Artifacts: A-1356.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1307
+Related Nodes: N-1307
 
 Investigative Direction: Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative.
 
@@ -388,8 +389,9 @@ Claim Timestamp: 00:25:16–00:27:36
 Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern named Ariana who, Owens alleged, had been sent covertly to record her, after receiving a tip from an intern with a conscience.
 
 Anchored Artifacts: A-1361.1
+Mentions: N-362
 
-Related Nodes: N-362, N-1308
+Related Nodes: N-1308
 
 Investigative Direction: Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.
 
@@ -402,8 +404,8 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Candace Owens stated, "America is occupied by Zionists," and doubled and then tripled down on the characterization.
 
 Anchored Artifacts: A-1362.1
+Mentions: N-360
 
-Related Nodes: N-360
 
 Investigative Direction: Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.
 
@@ -416,8 +418,8 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Elle Reeve stated that themes Owens used in her criticism of Israel were "very familiar" from her coverage of white nationalists for 10 years, and cited the term "Zionist-occupied government" as an example.
 
 Anchored Artifacts: A-1362.1
+Mentions: N-360
 
-Related Nodes: N-360
 
 Investigative Direction: Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.
 
@@ -486,8 +488,8 @@ Claim Timestamp: 00:04:34–00:05:23
 Claim: Ben Shapiro and Tucker Carlson exchanged text messages in which Shapiro proposed a joint show on the "DSA threat" and Carlson replied that he needed "a week or two" to think; Shapiro states subsequent outreach went unanswered.
 
 Anchored Artifacts: A-1357.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.
 
@@ -500,8 +502,8 @@ Claim Timestamp: 00:33:44–00:33:57
 Claim: Candace Owens states that the aired CNN interview with Elle Reeve occurred "a couple of days after Charlie was killed" and was her first interview after his death.
 
 Anchored Artifacts: A-1362.1
+Mentions: N-1, N-360
 
-Related Nodes: N-360, N-1
 
 Investigative Direction: Confirm the interview date against CNN's published interview records or the original broadcast timestamp.
 

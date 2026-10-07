@@ -1351,11 +1351,18 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-110",
-        "N-92",
         "N-1125",
         "N-1160",
-        "N-1161",
+        "N-1161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:11",
+      "investigative_direction": "Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.",
+      "transcript_snippet": "her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-92",
+        "N-110",
         "N-137",
         "N-138",
         "N-139",
@@ -1364,12 +1371,7 @@
         "N-142",
         "N-143",
         "N-146"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:10:11",
-      "investigative_direction": "Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.",
-      "transcript_snippet": "her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman",
-      "confidence": "medium"
+      ]
     },
     {
       "@type": "Claim",
@@ -1381,17 +1383,19 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-110",
-        "N-111",
-        "N-112",
-        "N-1",
         "N-1162"
       ],
       "tags": [],
       "claim_timestamp": "00:05:18",
       "investigative_direction": "Compare the children's GMA statements against the video metadata and any device footage.",
       "transcript_snippet": "I saw blood everywhere and it hit his artery and then I just we fell to the ground",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-110",
+        "N-111",
+        "N-112"
+      ]
     },
     {
       "@type": "Claim",
@@ -1403,16 +1407,18 @@
         "A-1147.1"
       ],
       "related_nodes": [
-        "N-110",
-        "N-111",
-        "N-112",
         "N-1162"
       ],
       "tags": [],
       "claim_timestamp": "00:09:03",
       "investigative_direction": "Obtain the original follow-up video and any car-cam footage; verify Tiffany's stated timeline.",
       "transcript_snippet": "I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-110",
+        "N-111",
+        "N-112"
+      ]
     },
     {
       "@type": "Claim",
@@ -1426,15 +1432,17 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-71",
-        "N-1",
         "N-1163"
       ],
       "tags": [],
       "claim_timestamp": "00:13:41",
       "investigative_direction": "Independently verify the timeline from official police body-cam and security footage.",
       "transcript_snippet": "40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -1446,14 +1454,16 @@
         "A-1148.2"
       ],
       "related_nodes": [
-        "N-71",
         "N-1163"
       ],
       "tags": [],
       "claim_timestamp": "00:14:55",
       "investigative_direction": "Cross-check the walking-clip frame-by-frame against law-enforcement timeline records.",
       "transcript_snippet": "his pants fall down by themselves... a young man comes by to try to assist him",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -1465,7 +1475,6 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-71",
         "N-1000",
         "N-1161"
       ],
@@ -1473,7 +1482,10 @@
       "claim_timestamp": "00:18:31",
       "investigative_direction": "Identify the original posting account via reverse-image search and archive timestamps.",
       "transcript_snippet": "somebody who lived in Utah who advertises with Turning Point USA",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -1504,7 +1516,6 @@
         "A-1150.1"
       ],
       "related_nodes": [
-        "N-136",
         "N-1077",
         "N-1158",
         "N-1164"
@@ -1513,7 +1524,10 @@
       "claim_timestamp": "00:24:06",
       "investigative_direction": "Subpoena the originating accounts; obtain phone records; verify BYU enrollment of companion.",
       "transcript_snippet": "those two numbers were both Chicago based... that's not making sense to me",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-136"
+      ]
     },
     {
       "@type": "Claim",
@@ -1525,7 +1539,6 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1079",
         "N-1165"
       ],
@@ -1536,6 +1549,9 @@
       "confidence": "medium",
       "supports_claim_refs": [
         "C-1254"
+      ],
+      "mentions_person_refs": [
+        "N-69"
       ]
     },
     {
@@ -1548,16 +1564,18 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1079",
-        "N-1165",
-        "N-147"
+        "N-1165"
       ],
       "tags": [],
       "claim_timestamp": "00:30:37",
       "investigative_direction": "Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.",
       "transcript_snippet": "the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69",
+        "N-147"
+      ]
     },
     {
       "@type": "Claim",
@@ -1569,17 +1587,19 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-1",
-        "N-2",
-        "N-1170",
-        "N-135"
+        "N-1170"
       ],
       "tags": [],
       "claim_timestamp": "00:40:47",
       "investigative_direction": "Cross-check with Charlie's own prior public statements on faith and any church/RCIA enrollment records.",
       "transcript_snippet": "Was he becoming Catholic? No. But he really loved Catholic mass.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-42",
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",
@@ -1591,17 +1611,19 @@
         "A-1151.2"
       ],
       "related_nodes": [
-        "N-42",
-        "N-1",
-        "N-66",
-        "N-134",
         "N-1171"
       ],
       "tags": [],
       "claim_timestamp": "00:45:12",
       "investigative_direction": "Audit TPUSA donor records against FARA filings; review cancelled wire correspondence.",
       "transcript_snippet": "Was Charlie offered $150 million from Israel? As far as I know, no.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42",
+        "N-66",
+        "N-134"
+      ]
     },
     {
       "@type": "Claim",
@@ -1613,7 +1635,6 @@
         "A-1151.3"
       ],
       "related_nodes": [
-        "N-42",
         "N-1000",
         "N-1166"
       ],
@@ -1621,7 +1642,10 @@
       "claim_timestamp": "00:51:21",
       "investigative_direction": "Confirm chain-of-custody; check whether originals were turned over intact to law enforcement.",
       "transcript_snippet": "they wanted to make sure they didn't get stolen out of the cameras",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1634,17 +1658,19 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-1",
-        "N-50",
-        "N-3",
         "N-1172"
       ],
       "tags": [],
       "claim_timestamp": "00:54:57",
       "investigative_direction": "Identify the donor(s) involved; review any internal TPUSA communications on donor pressure.",
       "transcript_snippet": "he basically said, 'I don't appreciate being morally blackmailed.'",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-42",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1656,15 +1682,17 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-3",
         "N-1172"
       ],
       "tags": [],
       "claim_timestamp": "00:56:05",
       "investigative_direction": "Verify the clip's date and audience Q&A context.",
       "transcript_snippet": "I don't stop being friends with people just because people morally blackmail me",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1675,14 +1703,15 @@
       "anchored_artifacts": [
         "A-1153.1"
       ],
-      "related_nodes": [
-        "N-5"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:02",
       "investigative_direction": "Verify official White House transcript of the statement.",
       "transcript_snippet": "The MMR I think should be taken separately... hepatitis B is sexually transmitted... wait till the baby is 12",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1693,16 +1722,17 @@
       "anchored_artifacts": [
         "A-1146.1"
       ],
-      "related_nodes": [
-        "N-110",
-        "N-92"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:11",
       "investigative_direction": "Verify Leman's 2024 lt. gov. running mate name and family relation to Tiffany Barker.",
       "transcript_snippet": "her sister ran as lieutenant governor alongside Phil Leman",
       "confidence": "medium",
-      "uncertainty_note": "Host identifies the sister as Tiffany's, but Tiffany's relationship (sister vs. in-law) and exact candidate name should be verified."
+      "uncertainty_note": "Host identifies the sister as Tiffany's, but Tiffany's relationship (sister vs. in-law) and exact candidate name should be verified.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-110"
+      ]
     },
     {
       "@type": "Claim",
@@ -1712,8 +1742,6 @@
       "claim": "Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-102",
-        "N-69",
         "N-1079",
         "N-1165"
       ],
@@ -1721,7 +1749,11 @@
       "claim_timestamp": "01:16:47",
       "investigative_direction": "Pull the actual Patel thread and timestamp the posts; verify his role and standing.",
       "transcript_snippet": "Cash Patel has signified that that is so in his long message that we spoke about yesterday",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -1731,7 +1763,6 @@
       "claim": "Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-144",
         "N-1077",
         "N-1173"
       ],
@@ -1739,7 +1770,10 @@
       "claim_timestamp": "01:15:09",
       "investigative_direction": "Request UVU facilities work orders, vendor invoices, and payment records for the post-incident hardscape work.",
       "transcript_snippet": "Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-144"
+      ]
     },
     {
       "@type": "Claim",
@@ -1749,7 +1783,6 @@
       "claim": "Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-145",
         "N-1079",
         "N-1174"
       ],
@@ -1757,7 +1790,10 @@
       "claim_timestamp": "01:15:52",
       "investigative_direction": "Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.",
       "transcript_snippet": "they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-145"
+      ]
     },
     {
       "@type": "Claim",
@@ -1767,14 +1803,16 @@
       "claim": "Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-1168"
       ],
       "tags": [],
       "claim_timestamp": "00:01:43",
       "investigative_direction": "Locate the high-resolution footage and clothing item Charlie was wearing to confirm.",
       "transcript_snippet": "no, Charlie was not wearing an earpiece",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1784,14 +1822,16 @@
       "claim": "Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-1169"
       ],
       "tags": [],
       "claim_timestamp": "00:02:06",
       "investigative_direction": "Identify and interview the prior vest provider; review any supplier/contract documentation.",
       "transcript_snippet": "he was not wearing a bulletproof vest",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": [

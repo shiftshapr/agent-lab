@@ -426,8 +426,9 @@ Claim Timestamp: 00:05:37
 Claim: On the Charlie Kirk Show, Blake Nef stated that the invitation-response announcement and all related actions were taken at the request, direction, and approval of Erika Kirk.
 
 Anchored Artifacts: A-1501.2
+Mentions: N-2, N-224
 
-Related Nodes: N-224, N-2, N-1384
+Related Nodes: N-1384
 
 Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.
 
@@ -440,8 +441,9 @@ Claim Timestamp: 00:06:44
 Claim: On the Charlie Kirk Show, Blake Nef stated that, given the nature of the claims, "it's intuitive that it is critical to be in person if you want to be authentic."
 
 Anchored Artifacts: A-1501.2
+Mentions: N-2, N-224
 
-Related Nodes: N-224, N-1384, N-2
+Related Nodes: N-1384
 
 Investigative Direction: Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.
 
@@ -454,8 +456,9 @@ Claim Timestamp: 00:11:14
 Claim: In his earlier invitation statement (read aloud in this episode), Blake Nef said TPUSA would "sincerely welcome" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.
 
 Anchored Artifacts: A-1502.1
+Mentions: N-2, N-224
 
-Related Nodes: N-224, N-1384, N-2
+Related Nodes: N-1384
 
 Investigative Direction: Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition.
 
@@ -468,8 +471,8 @@ Claim Timestamp: 00:34:18
 Claim: The Game's song "The Assassination of Candace Owens" (audio excerpt and lyric read) includes the line "Who really killed Charlie Kirk?"
 
 Anchored Artifacts: A-1503.1
+Mentions: N-1, N-481
 
-Related Nodes: N-481, N-1
 
 Investigative Direction: Obtain the full released track and verify publication date, distribution platform, and producer credits.
 
@@ -496,8 +499,9 @@ Claim Timestamp: 00:20:45–00:21:55
 Claim: Footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
 
 Anchored Artifacts: A-1505.1, A-1505.6
+Mentions: N-490, N-491
 
-Related Nodes: N-1382, N-490, N-491
+Related Nodes: N-1382
 
 Investigative Direction: Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles.
 
@@ -510,8 +514,9 @@ Claim Timestamp: 00:46:13
 Claim: Blake Nef posted on X that the invitation was "not how you book a guest," that TPUSA "never said that we were" booking a guest, and that Candace "was given the opportunity to join and declined."
 
 Anchored Artifacts: A-1506.1
+Mentions: N-2, N-224
 
-Related Nodes: N-224, N-1384, N-2
+Related Nodes: N-1384
 
 Investigative Direction: Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.
 
@@ -538,8 +543,9 @@ Claim Timestamp: 00:32:42–00:33:55
 Claim: PBS (and other networks, per host) featured Emmanuel Beerer as an eyewitness, with the interview conducted in Salt Lake City rather than at UVU.
 
 Anchored Artifacts: A-1508.1
+Mentions: N-493
 
-Related Nodes: N-493, N-1386
+Related Nodes: N-1386
 
 Investigative Direction: Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness.
 
@@ -552,8 +558,9 @@ Claim Timestamp: 00:24:00–00:24:45
 Claim: UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.
 
 Anchored Artifacts: A-1505.2
+Mentions: N-490
 
-Related Nodes: N-490, N-1382
+Related Nodes: N-1382
 
 Investigative Direction: Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.
 
@@ -566,8 +573,9 @@ Claim Timestamp: 00:25:00–00:25:35
 Claim: Footage and a grainy superimposed image depict Jacob Kasparian recording the event on his phone.
 
 Anchored Artifacts: A-1505.3
+Mentions: N-490
 
-Related Nodes: N-490, N-1382
+Related Nodes: N-1382
 
 Investigative Direction: Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.
 
@@ -580,8 +588,9 @@ Claim Timestamp: 00:24:50–00:25:25
 Claim: Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.
 
 Anchored Artifacts: A-1505.4
+Mentions: N-490
 
-Related Nodes: N-490, N-1382
+Related Nodes: N-1382
 
 Investigative Direction: Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.
 
@@ -594,8 +603,9 @@ Claim Timestamp: 00:26:30–00:28:00
 Claim: Adam Bartholomew live-streamed the entire UVU event on September 10.
 
 Anchored Artifacts: A-1505.5
+Mentions: N-491, N-492
 
-Related Nodes: N-491, N-492, N-1382
+Related Nodes: N-1382
 
 Investigative Direction: Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.
 
@@ -608,8 +618,9 @@ Claim Timestamp: 00:27:30–00:28:00
 Claim: Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.
 
 Anchored Artifacts: A-1511.1, A-1505.5
+Mentions: N-491, N-492
 
-Related Nodes: N-492, N-491, N-1382
+Related Nodes: N-1382
 
 Investigative Direction: Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.
 
@@ -622,8 +633,9 @@ Claim Timestamp: 00:27:51–00:28:00
 Claim: In his livestream footage, Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.
 
 Anchored Artifacts: A-1505.5
+Mentions: N-491, N-492
 
-Related Nodes: N-491, N-492, N-1382
+Related Nodes: N-1382
 
 Investigative Direction: Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location.
 
@@ -720,8 +732,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Blake Nef states Erika Kirk "heads this" and host identifies Erika Kirk as CEO of TPUSA.
 
 Anchored Artifacts: A-1501.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1384
+Related Nodes: N-1384
 
 Investigative Direction: Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.
 
@@ -734,8 +747,9 @@ Claim Timestamp: 00:07:32
 Claim: A TPUSA response live stream was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
+Mentions: N-2, N-42, N-224
 
-Related Nodes: N-224, N-2, N-1384, N-42
+Related Nodes: N-1384
 
 Investigative Direction: Monitor TPUSA channels for confirmation and document the actual event for artifact capture.
 

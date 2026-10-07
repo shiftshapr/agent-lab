@@ -805,12 +805,14 @@
         "A-1607.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1475"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11–00:08:04",
-      "investigative_direction": "Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications."
+      "investigative_direction": "Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -820,12 +822,14 @@
       "claim": "The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-42",
         "N-1475"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
-      "investigative_direction": "Verify non-reply independently; cross-check any subsequent communication records between the two parties."
+      "investigative_direction": "Verify non-reply independently; cross-check any subsequent communication records between the two parties.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -837,13 +841,15 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-696",
-        "N-699",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
-      "investigative_direction": "Retrieve the original Christianity Today article; identify author, publication date, and full article context."
+      "investigative_direction": "Retrieve the original Christianity Today article; identify author, publication date, and full article context.",
+      "mentions_person_refs": [
+        "N-696",
+        "N-699"
+      ]
     },
     {
       "@type": "Claim",
@@ -855,12 +861,14 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-696",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
-      "investigative_direction": "Retrieve original Christianity Today article and corroborate against any independent biographical sources."
+      "investigative_direction": "Retrieve original Christianity Today article and corroborate against any independent biographical sources.",
+      "mentions_person_refs": [
+        "N-696"
+      ]
     },
     {
       "@type": "Claim",
@@ -871,13 +879,14 @@
       "anchored_artifacts": [
         "A-1609.1"
       ],
-      "related_nodes": [
-        "N-704",
-        "N-654"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:48–00:13:40",
-      "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses."
+      "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-704"
+      ]
     },
     {
       "@type": "Claim",
@@ -889,12 +898,14 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-696",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
-      "investigative_direction": "Verify Moore's listed fellowships directly through ADL and Aspen Institute public records."
+      "investigative_direction": "Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.",
+      "mentions_person_refs": [
+        "N-696"
+      ]
     },
     {
       "@type": "Claim",
@@ -906,12 +917,14 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-696",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
-      "investigative_direction": "Verify advisory board membership through both organizations' published directories."
+      "investigative_direction": "Verify advisory board membership through both organizations' published directories.",
+      "mentions_person_refs": [
+        "N-696"
+      ]
     },
     {
       "@type": "Claim",
@@ -923,12 +936,14 @@
         "A-1610.2"
       ],
       "related_nodes": [
-        "N-696",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:22:43–00:23:15",
-      "investigative_direction": "Identify the original venue and date of this speech; verify exact wording through primary source."
+      "investigative_direction": "Identify the original venue and date of this speech; verify exact wording through primary source.",
+      "mentions_person_refs": [
+        "N-696"
+      ]
     },
     {
       "@type": "Claim",
@@ -940,13 +955,15 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-697",
-        "N-654",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
-      "investigative_direction": "Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue."
+      "investigative_direction": "Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-697"
+      ]
     },
     {
       "@type": "Claim",
@@ -958,13 +975,15 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-697",
-        "N-654",
         "N-1473"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
-      "investigative_direction": "Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical."
+      "investigative_direction": "Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-697"
+      ]
     },
     {
       "@type": "Claim",
@@ -976,12 +995,14 @@
         "A-1611.1"
       ],
       "related_nodes": [
-        "N-701",
         "N-1478"
       ],
       "tags": [],
       "claim_timestamp": "00:34:41–00:35:36",
-      "investigative_direction": "Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript."
+      "investigative_direction": "Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.",
+      "mentions_person_refs": [
+        "N-701"
+      ]
     },
     {
       "@type": "Claim",
@@ -1056,12 +1077,13 @@
       "anchored_artifacts": [
         "A-1613.2"
       ],
-      "related_nodes": [
-        "N-42"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:35–00:48:56",
-      "investigative_direction": "No investigative direction; comment is rhetorical and emotional, not falsifiable."
+      "investigative_direction": "No investigative direction; comment is rhetorical and emotional, not falsifiable.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1168,13 +1190,14 @@
       "label": "Mark Burnett named as Johnny Moore's Hollywood employer",
       "claim": "The host stated that Johnny Moore went to Hollywood in 2015 to work with Mark Burnett.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-700",
-        "N-696"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:23–00:20:09",
-      "investigative_direction": "Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*"
+      "investigative_direction": "Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
+      "mentions_person_refs": [
+        "N-696",
+        "N-700"
+      ]
     },
     {
       "@type": "Claim",
@@ -1183,12 +1206,13 @@
       "label": "Mark Burnett became chairperson of MGM and acquired Summerhouse",
       "claim": "The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-700"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:09",
-      "investigative_direction": "Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*"
+      "investigative_direction": "Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
+      "mentions_person_refs": [
+        "N-700"
+      ]
     },
     {
       "@type": "Claim",

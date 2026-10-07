@@ -749,12 +749,14 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-1269",
-        "N-98"
+        "N-1269"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
-      "investigative_direction": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025."
+      "investigative_direction": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.",
+      "mentions_person_refs": [
+        "N-98"
+      ]
     },
     {
       "@type": "Claim",
@@ -782,12 +784,14 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-129",
         "N-1271"
       ],
       "tags": [],
       "claim_timestamp": "00:05:46",
-      "investigative_direction": "Cross-check against FAA departure logs and Provo Airport (PVU) records."
+      "investigative_direction": "Cross-check against FAA departure logs and Provo Airport (PVU) records.",
+      "mentions_person_refs": [
+        "N-129"
+      ]
     },
     {
       "@type": "Claim",
@@ -799,13 +803,15 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-129",
-        "N-291",
         "N-1271"
       ],
       "tags": [],
       "claim_timestamp": "00:07:26",
-      "investigative_direction": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding."
+      "investigative_direction": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.",
+      "mentions_person_refs": [
+        "N-129",
+        "N-291"
+      ]
     },
     {
       "@type": "Claim",
@@ -817,12 +823,14 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-129",
         "N-1271"
       ],
       "tags": [],
       "claim_timestamp": "00:08:12",
-      "investigative_direction": "Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports."
+      "investigative_direction": "Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports.",
+      "mentions_person_refs": [
+        "N-129"
+      ]
     },
     {
       "@type": "Claim",
@@ -893,12 +901,13 @@
       "anchored_artifacts": [
         "A-1297.1"
       ],
-      "related_nodes": [
-        "N-102"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:18",
-      "investigative_direction": "Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response."
+      "investigative_direction": "Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response.",
+      "mentions_person_refs": [
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -909,14 +918,15 @@
       "anchored_artifacts": [
         "A-1293.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:36",
+      "investigative_direction": "Obtain the full op-ed in original Daily Mail publication; document the \"neutralize\" framing in context.",
+      "mentions_person_refs": [
         "N-42",
         "N-50",
         "N-293"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:31:36",
-      "investigative_direction": "Obtain the full op-ed in original Daily Mail publication; document the \"neutralize\" framing in context."
+      ]
     },
     {
       "@type": "Claim",
@@ -927,13 +937,14 @@
       "anchored_artifacts": [
         "A-1294.1"
       ],
-      "related_nodes": [
-        "N-297",
-        "N-50"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:20",
-      "investigative_direction": "Obtain original X post URL; preserve deletion history and engagement metrics."
+      "investigative_direction": "Obtain original X post URL; preserve deletion history and engagement metrics.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-297"
+      ]
     },
     {
       "@type": "Claim",
@@ -944,16 +955,17 @@
       "anchored_artifacts": [
         "A-1295.1"
       ],
-      "related_nodes": [
-        "N-67",
-        "N-68",
-        "N-50",
-        "N-293",
-        "N-298"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:53",
-      "investigative_direction": "Obtain full unedited Piers Morgan interview; verify clip is unedited."
+      "investigative_direction": "Obtain full unedited Piers Morgan interview; verify clip is unedited.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-67",
+        "N-68",
+        "N-293",
+        "N-298"
+      ]
     },
     {
       "@type": "Claim",
@@ -964,15 +976,16 @@
       "anchored_artifacts": [
         "A-1295.2"
       ],
-      "related_nodes": [
-        "N-67",
-        "N-68",
-        "N-50",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:02",
-      "investigative_direction": "Obtain full unedited interview segment; verify context."
+      "investigative_direction": "Obtain full unedited interview segment; verify context.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-67",
+        "N-68"
+      ]
     },
     {
       "@type": "Claim",
@@ -983,14 +996,15 @@
       "anchored_artifacts": [
         "A-1295.3"
       ],
-      "related_nodes": [
-        "N-67",
-        "N-293",
-        "N-4"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:48:05",
-      "investigative_direction": "Verify specific Fuentes quotes against primary source material; obtain full interview segment."
+      "investigative_direction": "Verify specific Fuentes quotes against primary source material; obtain full interview segment.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-67",
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",
@@ -1002,13 +1016,15 @@
         "A-1296.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-50",
         "N-1272"
       ],
       "tags": [],
       "claim_timestamp": "00:42:04",
-      "investigative_direction": "Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses."
+      "investigative_direction": "Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1019,13 +1035,14 @@
       "anchored_artifacts": [
         "A-1300.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-50"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:40",
-      "investigative_direction": "Verify original source of audio clip (interview, podcast, or other); confirm attribution."
+      "investigative_direction": "Verify original source of audio clip (interview, podcast, or other); confirm attribution.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",

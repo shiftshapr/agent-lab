@@ -446,8 +446,9 @@ Claim Timestamp: 00:38:56–00:41:02
 Claim: The episode presents that Matt Tardio pled no contest in Portland in October 2025 to felony coercion and misdemeanor harassment following an incident at an ICE facility, with surveillance cameras capturing the alleged conduct.
 
 Anchored Artifacts: A-2379.1, A-2380.1
+Mentions: N-2
 
-Related Nodes: N-1216, N-2
+Related Nodes: N-1216
 
 Investigative Direction: Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*
 
@@ -552,8 +553,9 @@ Claim Timestamp: 00:22:24–00:24:49
 Claim: The host asserts as opinion that the placement of ICAC / SVU personnel throughout the investigation reflects a deliberate federal control mechanism related to Epstein-era networks.
 
 Anchored Artifacts: None directly anchoring the conspiracy framing (artifact A-2378.1 and A-2376.2 anchor the underlying placements)
+Mentions: N-1
 
-Related Nodes: N-2321, N-2322, N-1
+Related Nodes: N-2321, N-2322
 
 Investigative Direction: Treat as framing premise — testable only via underlying placements (already inscribed above).*
 

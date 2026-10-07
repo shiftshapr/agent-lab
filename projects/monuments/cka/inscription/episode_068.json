@@ -890,12 +890,14 @@
         "A-1727.1"
       ],
       "related_nodes": [
-        "N-783",
         "N-1550"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
-      "investigative_direction": "Verify against archived Instagram data for Erika Kirk."
+      "investigative_direction": "Verify against archived Instagram data for Erika Kirk.",
+      "mentions_person_refs": [
+        "N-783"
+      ]
     },
     {
       "@type": "Claim",
@@ -907,12 +909,14 @@
         "A-1727.2"
       ],
       "related_nodes": [
-        "N-783",
         "N-1550"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00",
-      "investigative_direction": "Obtain the original post screenshot/metadata and identify the countdown's intended referent."
+      "investigative_direction": "Obtain the original post screenshot/metadata and identify the countdown's intended referent.",
+      "mentions_person_refs": [
+        "N-783"
+      ]
     },
     {
       "@type": "Claim",
@@ -924,14 +928,16 @@
         "A-1728.1"
       ],
       "related_nodes": [
-        "N-783",
-        "N-272",
         "N-1549",
         "N-1553"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00",
-      "investigative_direction": "Locate and quote the exact NYT passage to confirm wording."
+      "investigative_direction": "Locate and quote the exact NYT passage to confirm wording.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-783"
+      ]
     },
     {
       "@type": "Claim",
@@ -943,13 +949,15 @@
         "A-1729.1"
       ],
       "related_nodes": [
-        "N-885",
         "N-1551",
         "N-1555"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
-      "investigative_direction": "Locate Robkea's published work (\"Babylon Rising\" et al.) and verify each factual component independently."
+      "investigative_direction": "Locate Robkea's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
+      "mentions_person_refs": [
+        "N-885"
+      ]
     },
     {
       "@type": "Claim",
@@ -1010,12 +1018,14 @@
         "A-1731.1"
       ],
       "related_nodes": [
-        "N-876",
         "N-1555"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
-      "investigative_direction": "Locate the specific BBC report and confirm date."
+      "investigative_direction": "Locate the specific BBC report and confirm date.",
+      "mentions_person_refs": [
+        "N-876"
+      ]
     },
     {
       "@type": "Claim",
@@ -1026,13 +1036,14 @@
       "anchored_artifacts": [
         "A-1731.2"
       ],
-      "related_nodes": [
-        "N-876",
-        "N-877"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:30",
-      "investigative_direction": "Locate primary publications or institutional releases confirming the timeline."
+      "investigative_direction": "Locate primary publications or institutional releases confirming the timeline.",
+      "mentions_person_refs": [
+        "N-876",
+        "N-877"
+      ]
     },
     {
       "@type": "Claim",
@@ -1043,12 +1054,13 @@
       "anchored_artifacts": [
         "A-1732.1"
       ],
-      "related_nodes": [
-        "N-882"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:03",
-      "investigative_direction": "Reference the UN Security Council record / transcript."
+      "investigative_direction": "Reference the UN Security Council record / transcript.",
+      "mentions_person_refs": [
+        "N-882"
+      ]
     },
     {
       "@type": "Claim",
@@ -1059,12 +1071,13 @@
       "anchored_artifacts": [
         "A-1733.1"
       ],
-      "related_nodes": [
-        "N-133"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:16",
-      "investigative_direction": "Locate the specific All Access clip for verification of exact wording."
+      "investigative_direction": "Locate the specific All Access clip for verification of exact wording.",
+      "mentions_person_refs": [
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -1076,12 +1089,14 @@
         "A-1734.1"
       ],
       "related_nodes": [
-        "N-272",
         "N-1553"
       ],
       "tags": [],
       "claim_timestamp": "00:25:21",
-      "investigative_direction": "Obtain call log records or corroborating witness / phone carrier metadata."
+      "investigative_direction": "Obtain call log records or corroborating witness / phone carrier metadata.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1093,14 +1108,16 @@
         "A-1735.1"
       ],
       "related_nodes": [
-        "N-783",
-        "N-43",
         "N-1549",
         "N-1554"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30",
-      "investigative_direction": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently."
+      "investigative_direction": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.",
+      "mentions_person_refs": [
+        "N-43",
+        "N-783"
+      ]
     },
     {
       "@type": "Claim",
@@ -1111,14 +1128,15 @@
       "anchored_artifacts": [
         "A-1736.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:39",
+      "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage.",
+      "mentions_person_refs": [
         "N-883",
         "N-888",
         "N-889"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:46:39",
-      "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage."
+      ]
     },
     {
       "@type": "Claim",
@@ -1129,12 +1147,13 @@
       "anchored_artifacts": [
         "A-1737.1"
       ],
-      "related_nodes": [
-        "N-884"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:50",
-      "investigative_direction": "Locate the tweet and verify exact wording and date."
+      "investigative_direction": "Locate the tweet and verify exact wording and date.",
+      "mentions_person_refs": [
+        "N-884"
+      ]
     }
   ],
   "memes": []

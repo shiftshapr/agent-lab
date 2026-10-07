@@ -346,8 +346,9 @@ Claim Timestamp: 00:05:20
 Claim: Frank Turek, on his own podcast, stated Erica Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital.
 
 Anchored Artifacts: A-1895.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1633
+Related Nodes: N-1633
 
 Investigative Direction: Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.
 
@@ -442,8 +443,9 @@ Claim Timestamp: 00:28:11
 Claim: Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Tucker Carlson, Joe Kent, and General Flynn.
 
 Anchored Artifacts: A-1896.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1213, N-1636
+Related Nodes: N-1213, N-1636
 
 Investigative Direction: Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits.
 
@@ -454,8 +456,9 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread alleges that within hours of the Kirk assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name. The host rejects this characterization.
 
 Anchored Artifacts: A-1896.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1636
+Related Nodes: N-1636
 
 Investigative Direction: Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.
 
@@ -490,8 +493,9 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread, at "Chapter 3," states that within hours of Kirk's assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name.
 
 Anchored Artifacts: A-1896.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1636
+Related Nodes: N-1636
 
 Investigative Direction: Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.
 
@@ -586,8 +590,9 @@ Claim Timestamp: 00:09:15
 Claim: The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.
 
 Anchored Artifacts: A-1895.1 (reconciliation anchor)
+Mentions: N-2
 
-Related Nodes: N-2, N-1633
+Related Nodes: N-1633
 
 Investigative Direction: Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance.
 

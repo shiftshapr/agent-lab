@@ -370,8 +370,9 @@ Claim Timestamp: 00:04:47
 Claim: A Tim Dillon comedy segment played on air describes Turning Point USA's AmFest event as a "right wing abomination" and "bad reality show."
 
 Anchored Artifacts: A-1568.1
+Mentions: N-443
 
-Related Nodes: N-443, N-1447
+Related Nodes: N-1447
 
 Investigative Direction: Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.
 
@@ -382,8 +383,8 @@ Claim Timestamp: 00:04:47
 Claim: A Tim Dillon comedy segment played on air observes that Erica Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
 
 Anchored Artifacts: A-1568.1
+Mentions: N-2, N-443
 
-Related Nodes: N-443, N-2
 
 Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.
 
@@ -406,8 +407,8 @@ Claim Timestamp: 00:14:17
 Claim: A Tim Dillon comedy segment played on air characterizes RFK Jr. as the least scandal-prone member of the current administration while noting recurring leaked text scandals involving him.
 
 Anchored Artifacts: A-1568.2
+Mentions: N-443
 
-Related Nodes: N-443
 
 Investigative Direction: Verify the segment against the source recording and identify which text leaks are being referenced.
 
@@ -418,8 +419,8 @@ Claim Timestamp: 00:21:38
 Claim: A Tim Dillon comedy segment played on air asserts that contemporary culture is the product of denial of elite pedophilia and that this denial has produced "slop," "nothingness," and "emptiness."
 
 Anchored Artifacts: A-1568.3
+Mentions: N-443
 
-Related Nodes: N-443
 
 Investigative Direction: Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.
 
@@ -430,8 +431,9 @@ Claim Timestamp: 00:17:33
 Claim: A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
 
 Anchored Artifacts: A-1570.1
+Mentions: N-2, N-444, N-614
 
-Related Nodes: N-444, N-614, N-2, N-1448
+Related Nodes: N-1448
 
 Investigative Direction: Verify the spelling "Cosgrove" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.
 
@@ -442,8 +444,8 @@ Claim Timestamp: 00:35:58
 Claim: An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, that Operation Mockingbird 2 is in effect, and that the CIA is actively involved in domestic mind manipulation.
 
 Anchored Artifacts: A-1571.1
+Mentions: N-1, N-621
 
-Related Nodes: N-1, N-621
 
 Investigative Direction: Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.
 
@@ -454,8 +456,8 @@ Claim Timestamp: 00:40:44
 Claim: An Alex Jones InfoWars segment played on air declares war on Candace Owens in connection with her coverage of Mitch Snow and labels her a "globalist agent."
 
 Anchored Artifacts: A-1572.1
+Mentions: N-128
 
-Related Nodes: N-128
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
 
@@ -466,8 +468,9 @@ Claim Timestamp: 00:48:18
 Claim: A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erica Kirk on the morning of September 9, then saying "Sorry Andrew, I screwed that up" after sharing content he was told not to share.
 
 Anchored Artifacts: A-1573.1
+Mentions: N-2, N-42, N-618
 
-Related Nodes: N-618, N-42, N-2, N-1451
+Related Nodes: N-1451
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 
@@ -478,8 +481,9 @@ Claim Timestamp: 00:45:37
 Claim: An interview clip played on air shows Mitch Snow's adult son stating he was contacted on September 9 by military police asking about Mitch Snow as the listed emergency contact, and describing Fort Huachuca access protocols and amenities consistent with Mitch Snow's account of being on post.
 
 Anchored Artifacts: A-1574.1
+Mentions: N-424, N-597
 
-Related Nodes: N-597, N-424, N-1446
+Related Nodes: N-1446
 
 Investigative Direction: Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.
 
@@ -490,8 +494,9 @@ Claim Timestamp: 00:30:51
 Claim: The Daily Wire reactivated Candace Owens' previously privatized YouTube channel and her old Instagram account, and premiered her 2021 joining trailer (with a front card noting the footage was shot in 2021) on those channels.
 
 Anchored Artifacts: A-1575.1
+Mentions: N-631
 
-Related Nodes: N-631, N-1450
+Related Nodes: N-1450
 
 Investigative Direction: Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.
 
@@ -502,8 +507,9 @@ Claim Timestamp: 01:07:04
 Claim: A top fan comment from the prior episode, read aloud on air, characterizes AmFest as a "fake and gay" event featuring a tent recreation and fireworks that read as "a celebration of his death" that "skipped the grieving part."
 
 Anchored Artifacts: A-1576.1
+Mentions: N-1
 
-Related Nodes: N-1447, N-1
+Related Nodes: N-1447
 
 Investigative Direction: Verify the comment against the original top-comments thread and identify the commenter's account.
 
@@ -514,8 +520,9 @@ Claim Timestamp: 01:08:04
 Claim: A top fan comment from the prior episode, read aloud on air, identifies the commenter as retired army law enforcement and characterizes Paramount Tactical Valhalla as "an embarrassment to me as a vet."
 
 Anchored Artifacts: A-1576.2
+Mentions: N-618
 
-Related Nodes: N-618, N-1446
+Related Nodes: N-1446
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 
@@ -526,8 +533,9 @@ Claim Timestamp: 00:49:10
 Claim: The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolbet and the parties attacking Mitch Snow, undermining the prior "Andrew went rogue" narrative.
 
 Anchored Artifacts: A-1573.1
+Mentions: N-42, N-618
 
-Related Nodes: N-42, N-618, N-1449
+Related Nodes: N-1449
 
 Investigative Direction: Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
 

@@ -786,12 +786,14 @@
         "A-1928.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1658"
       ],
       "tags": [],
       "claim_timestamp": "00:11:11–00:11:54",
-      "investigative_direction": "Obtain and review the AmFest event footage to confirm the audio-only nature of the walkout and trace the audio's source."
+      "investigative_direction": "Obtain and review the AmFest event footage to confirm the audio-only nature of the walkout and trace the audio's source.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -803,14 +805,16 @@
         "A-1929.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-1",
         "N-1658",
         "N-1659"
       ],
       "tags": [],
       "claim_timestamp": "00:08:58–00:10:21",
-      "investigative_direction": "Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact."
+      "investigative_direction": "Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -822,12 +826,14 @@
         "A-1930.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1657"
       ],
       "tags": [],
       "claim_timestamp": "00:35:35–00:35:50",
-      "investigative_direction": "Retrieve the original NY Times article and verify the precise language used (hospital room vs. clinic vs. treatment center) and the timestamp."
+      "investigative_direction": "Retrieve the original NY Times article and verify the precise language used (hospital room vs. clinic vs. treatment center) and the timestamp.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -839,12 +845,14 @@
         "A-1931.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1657"
       ],
       "tags": [],
       "claim_timestamp": "00:36:46–00:37:30",
-      "investigative_direction": "Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony."
+      "investigative_direction": "Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -856,12 +864,14 @@
         "A-1932.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1658"
       ],
       "tags": [],
       "claim_timestamp": "00:14:16–00:15:40",
-      "investigative_direction": "Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent."
+      "investigative_direction": "Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -873,12 +883,14 @@
         "A-1932.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1658"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55–00:17:45",
-      "investigative_direction": "Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA."
+      "investigative_direction": "Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -890,12 +902,14 @@
         "A-1933.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1657"
       ],
       "tags": [],
       "claim_timestamp": "00:25:06–00:28:12",
-      "investigative_direction": "Verify the question asked and Erika's full answer; cross-reference with earlier statements about her mother's background (single mother vs. stepfather present)."
+      "investigative_direction": "Verify the question asked and Erika's full answer; cross-reference with earlier statements about her mother's background (single mother vs. stepfather present).",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -907,12 +921,14 @@
         "A-1934.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1657"
       ],
       "tags": [],
       "claim_timestamp": "00:34:02–00:35:00",
-      "investigative_direction": "Obtain the Instagram post directly; verify date, visual content, and any caption."
+      "investigative_direction": "Obtain the Instagram post directly; verify date, visual content, and any caption.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,12 +973,14 @@
         "A-1936.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1658"
       ],
       "tags": [],
       "claim_timestamp": "00:19:47–00:20:41",
-      "investigative_direction": "Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement."
+      "investigative_direction": "Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -974,13 +992,15 @@
         "A-1931.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1210",
         "N-1657"
       ],
       "tags": [],
       "claim_timestamp": "00:40:55–00:44:53",
-      "investigative_direction": "Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels."
+      "investigative_direction": "Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -992,13 +1012,15 @@
         "A-1928.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-1",
         "N-1659"
       ],
       "tags": [],
       "claim_timestamp": "00:12:38–00:13:33",
-      "investigative_direction": "Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings."
+      "investigative_direction": "Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     }
   ],
   "memes": []

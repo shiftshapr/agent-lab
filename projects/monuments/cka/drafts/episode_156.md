@@ -300,8 +300,8 @@ Claim Timestamp: 00:01:40
 Claim: The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.
 
 Anchored Artifacts: A-2416.1
+Mentions: N-36
 
-Related Nodes: N-36
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
 
@@ -384,8 +384,8 @@ Claim Timestamp: 00:33:24
 Claim: During Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.
 
 Anchored Artifacts: A-2422.1, A-2422.2, A-2422.3
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs.
 

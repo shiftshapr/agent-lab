@@ -1025,12 +1025,14 @@
         "A-1917.1"
       ],
       "related_nodes": [
-        "N-1648",
-        "N-57"
+        "N-1648"
       ],
       "tags": [],
       "claim_timestamp": "00:03:21–00:04:22",
-      "investigative_direction": "Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records."
+      "investigative_direction": "Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.",
+      "mentions_person_refs": [
+        "N-57"
+      ]
     },
     {
       "@type": "Claim",
@@ -1216,12 +1218,14 @@
         "A-1923.1"
       ],
       "related_nodes": [
-        "N-1218",
-        "N-2"
+        "N-1218"
       ],
       "tags": [],
       "claim_timestamp": "00:38:57–00:40:20",
-      "investigative_direction": "Obtain full unedited video of the Easter remarks; document any subsequent legal actions filed by Kirk."
+      "investigative_direction": "Obtain full unedited video of the Easter remarks; document any subsequent legal actions filed by Kirk.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1354,12 +1358,13 @@
       "anchored_artifacts": [
         "A-1926.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:25–00:45:16",
-      "investigative_direction": "Obtain copies of the original SMS messages and the timestamp metadata."
+      "investigative_direction": "Obtain copies of the original SMS messages and the timestamp metadata.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1370,12 +1375,13 @@
       "anchored_artifacts": [
         "A-1926.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:25–00:45:16",
-      "investigative_direction": "Obtain the actual mailer from recipients; verify whether the image is from the funeral or another event."
+      "investigative_direction": "Obtain the actual mailer from recipients; verify whether the image is from the funeral or another event.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

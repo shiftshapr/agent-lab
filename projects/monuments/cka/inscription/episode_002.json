@@ -1515,23 +1515,24 @@
       "anchored_artifacts": [
         "A-1081.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1",
-        "N-3",
-        "N-71",
-        "N-74",
-        "N-5",
-        "N-80",
-        "N-81",
-        "N-82",
-        "N-83"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:59",
       "investigative_direction": "Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.",
       "transcript_snippet": "The cries of this widow will echo around the world like a battlecry.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3",
+        "N-5",
+        "N-71",
+        "N-74",
+        "N-80",
+        "N-81",
+        "N-82",
+        "N-83"
+      ]
     },
     {
       "@type": "Claim",
@@ -1543,15 +1544,17 @@
         "A-1082.1"
       ],
       "related_nodes": [
-        "N-65",
-        "N-1071",
-        "N-1"
+        "N-1071"
       ],
       "tags": [],
       "claim_timestamp": "00:07:02",
       "investigative_direction": "Verify timestamps of Netanyahu's two Fox News appearances relative to Kirk's death.",
       "transcript_snippet": "Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1564,15 +1567,17 @@
         "A-1083.1"
       ],
       "related_nodes": [
-        "N-65",
-        "N-1",
         "N-1082"
       ],
       "tags": [],
       "claim_timestamp": "00:07:26",
       "investigative_direction": "Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt.",
       "transcript_snippet": "He said, One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1584,9 +1589,6 @@
         "A-1083.1"
       ],
       "related_nodes": [
-        "N-65",
-        "N-1",
-        "N-3",
         "N-1082"
       ],
       "tags": [],
@@ -1597,6 +1599,11 @@
       "uncertainty_note": "Host's framing is an assertion; full letter text not shown in episode.",
       "contradicts_claim_refs": [
         "C-1125"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-65"
       ]
     },
     {
@@ -1609,17 +1616,19 @@
         "A-1084.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-75",
-        "N-50",
-        "N-68",
         "N-1090"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
       "investigative_direction": "Verify exact date of Megan Kelly interview and guest list complaints.",
       "transcript_snippet": "My moral character is now being put into question… they were threatening to pull out money.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-68",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1631,11 +1640,6 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-66",
-        "N-67",
-        "N-1",
-        "N-3",
-        "N-78",
         "N-1081",
         "N-1092",
         "N-1000"
@@ -1645,7 +1649,14 @@
       "investigative_direction": "Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.",
       "transcript_snippet": "An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.",
       "confidence": "medium",
-      "uncertainty_note": "Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown."
+      "uncertainty_note": "Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-66",
+        "N-67",
+        "N-78"
+      ]
     },
     {
       "@type": "Claim",
@@ -1658,17 +1669,19 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-65",
-        "N-1",
-        "N-66",
-        "N-67",
         "N-1083"
       ],
       "tags": [],
       "claim_timestamp": "00:16:06",
       "investigative_direction": "Cross-reference Netanyahu's Fox News statement with text messages from that period.",
       "transcript_snippet": "It was at this time that BB Netanyahu was called and Charlie was invited to Israel.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-65",
+        "N-66",
+        "N-67"
+      ]
     },
     {
       "@type": "Claim",
@@ -1681,9 +1694,6 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-65",
-        "N-1",
-        "N-3",
         "N-1083"
       ],
       "tags": [],
@@ -1691,7 +1701,12 @@
       "investigative_direction": "Confirm with attendees or document evidence of declined invitation.",
       "transcript_snippet": "I know for a fact that Charlie denied that funding… he declined to go to Israel.",
       "confidence": "medium",
-      "uncertainty_note": "Host asserts she knows factually; no document shown."
+      "uncertainty_note": "Host asserts she knows factually; no document shown.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1703,15 +1718,17 @@
         "A-1085.1"
       ],
       "related_nodes": [
-        "N-73",
-        "N-65",
         "N-1091"
       ],
       "tags": [],
       "claim_timestamp": "00:25:47",
       "investigative_direction": "Verify full interview and surrounding context of the question.",
       "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-65",
+        "N-73"
+      ]
     },
     {
       "@type": "Claim",
@@ -1723,10 +1740,6 @@
         "A-1086.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-35",
-        "N-76",
-        "N-77",
         "N-1080",
         "N-1088"
       ],
@@ -1735,7 +1748,13 @@
       "investigative_direction": "Identify original source clip and verify exact wording of Kirk's commentary.",
       "transcript_snippet": "Epstein with his little friend Galain and Galain's father, Robert Maxwell, who is obviously a spy of the Israeli intelligence agencies.",
       "confidence": "high",
-      "uncertainty_note": "'Galain' transcript variant for Ghislaine; 'MSAD' transcript variant for Mossad."
+      "uncertainty_note": "'Galain' transcript variant for Ghislaine; 'MSAD' transcript variant for Mossad.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-35",
+        "N-76",
+        "N-77"
+      ]
     },
     {
       "@type": "Claim",
@@ -1749,7 +1768,6 @@
       "related_nodes": [
         "N-1076",
         "N-1077",
-        "N-69",
         "N-1093",
         "N-1089"
       ],
@@ -1757,7 +1775,10 @@
       "claim_timestamp": "00:38:50",
       "investigative_direction": "Obtain timestamped original TMZ footage and verify chain of custody.",
       "transcript_snippet": "At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1769,8 +1790,6 @@
         "A-1089.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-69",
         "N-1077",
         "N-1089"
       ],
@@ -1778,7 +1797,11 @@
       "claim_timestamp": "00:39:36",
       "investigative_direction": "Compare Cox's statement against UVU surveillance and TMZ footage for consistency.",
       "transcript_snippet": "Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1791,7 +1814,6 @@
       ],
       "related_nodes": [
         "N-1076",
-        "N-69",
         "N-1084"
       ],
       "tags": [],
@@ -1799,7 +1821,10 @@
       "investigative_direction": "Obtain doorbell camera source and chain of custody; verify timestamp.",
       "transcript_snippet": "At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.",
       "confidence": "medium",
-      "uncertainty_note": "Footage shown but host notes timestamp uncertainty about FBI arrival claim."
+      "uncertainty_note": "Footage shown but host notes timestamp uncertainty about FBI arrival claim.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1809,7 +1834,6 @@
       "claim": "Charlie Kirk was shot at 12:23 PM on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-1089"
       ],
       "tags": [],
@@ -1817,7 +1841,10 @@
       "investigative_direction": "Cross-reference official timeline and autopsy report.",
       "transcript_snippet": "At 12:23 p.m. is when Charlie Kirk is shot.",
       "confidence": "high",
-      "uncertainty_note": "Time universally reported; not anchored to specific shown artifact in this episode (rooftop footage shown but no formal doc)."
+      "uncertainty_note": "Time universally reported; not anchored to specific shown artifact in this episode (rooftop footage shown but no formal doc).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1830,16 +1857,18 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-67",
-        "N-66",
-        "N-3",
         "N-1081"
       ],
       "tags": [],
       "claim_timestamp": "00:18:22",
       "investigative_direction": "Independently verify non-response by reaching out to Seth Dylan and Bill Ackman.",
       "transcript_snippet": "Seth Dylan who was normally very quick with a response has not yet been able to respond.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-66",
+        "N-67"
+      ]
     },
     {
       "@type": "Claim",
@@ -1852,7 +1881,6 @@
       ],
       "related_nodes": [
         "N-1076",
-        "N-69",
         "N-1089"
       ],
       "tags": [],
@@ -1860,7 +1888,10 @@
       "investigative_direction": "Obtain original TMZ footage; verify timestamp and identity of runner.",
       "transcript_snippet": "At 12:29 p.m., TMZ showing us that there's a person running through the backyard.",
       "confidence": "medium",
-      "uncertainty_note": "Host notes footage is grainy; feds have not confirmed it shows Robinson."
+      "uncertainty_note": "Host notes footage is grainy; feds have not confirmed it shows Robinson.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1874,15 +1905,17 @@
       ],
       "related_nodes": [
         "N-1079",
-        "N-69",
-        "N-72",
         "N-1085"
       ],
       "tags": [],
       "claim_timestamp": "00:44:13",
       "investigative_direction": "Obtain FBI evidence photos and chain of custody for recovered rifle.",
       "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-72"
+      ]
     },
     {
       "@type": "Claim",
@@ -1915,15 +1948,17 @@
         "A-1089.2"
       ],
       "related_nodes": [
-        "N-70",
-        "N-69",
         "N-1086"
       ],
       "tags": [],
       "claim_timestamp": "00:50:18",
       "investigative_direction": "Verify Cox's press conference transcript and corroborating FBI disclosure.",
       "transcript_snippet": "His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1935,15 +1970,17 @@
         "A-1089.3"
       ],
       "related_nodes": [
-        "N-70",
-        "N-69",
         "N-1086"
       ],
       "tags": [],
       "claim_timestamp": "00:49:51",
       "investigative_direction": "Verify with subsequent FBI/AG press releases.",
       "transcript_snippet": "He has not confessed to authorities. He is not cooperating.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1956,14 +1993,16 @@
       ],
       "related_nodes": [
         "N-1078",
-        "N-69",
         "N-1089"
       ],
       "tags": [],
       "claim_timestamp": "00:52:53",
       "investigative_direction": "Obtain full Discord statement and any subsequent updates.",
       "transcript_snippet": "Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     }
   ],
   "memes": [

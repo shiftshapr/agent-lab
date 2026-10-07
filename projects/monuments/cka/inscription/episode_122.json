@@ -941,12 +941,14 @@
       "related_nodes": [
         "N-2096",
         "N-1210",
-        "N-1220",
-        "N-2"
+        "N-1220"
       ],
       "tags": [],
       "claim_timestamp": "00:20:08–00:21:31",
-      "investigative_direction": "Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath."
+      "investigative_direction": "Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

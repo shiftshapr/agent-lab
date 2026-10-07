@@ -290,8 +290,9 @@ Claim Timestamp: 00:13:05
 Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military operated a device called Project Looking Glass that could view potential future timelines and was shut down because all timelines converged on December 21, 2012.
 
 Anchored Artifacts: A-1628.2
+Mentions: N-720, N-724
 
-Related Nodes: N-720, N-1484, N-724
+Related Nodes: N-1484
 
 Investigative Direction: Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.
 
@@ -360,8 +361,9 @@ Claim Timestamp: 00:40:52
 Claim: A Daily Wire video dropped on Candace Owens's old social media accounts presents an Egyptian Airways parody using her face and including highlighted text "watched," "followed," and "we will follow," followed by imagery of a plane bursting into flames.
 
 Anchored Artifacts: A-1631.1
+Mentions: N-3
 
-Related Nodes: N-1487, N-3
+Related Nodes: N-1487
 
 Investigative Direction: Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her.
 
@@ -374,8 +376,8 @@ Claim Timestamp: 00:43:34
 Claim: Mike Pompeo is presented stating that future history books must not focus on "the victims of Gaza" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires real-time shaping of how adults talk to children about the war.
 
 Anchored Artifacts: A-1632.1
+Mentions: N-721
 
-Related Nodes: N-721
 
 Investigative Direction: Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.
 
@@ -416,8 +418,8 @@ Claim Timestamp: 00:47:28
 Claim: Read-aloud commenter Carly presents testimony that her father was a Military Police officer stationed with "Lieutenant Aquino" in 1982, was investigating pentagrams on the base, and was forced off a subsequent child-abuse investigation under the rationale "MPs don't investigate felonies."
 
 Anchored Artifacts: A-1634.1
+Mentions: N-726
 
-Related Nodes: N-726
 
 Investigative Direction: Identify the military base, the "Lieutenant Aquino" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.
 
@@ -430,8 +432,8 @@ Claim Timestamp: 00:51:51
 Claim: Read-aloud commenter Marzy presents the claim that ICE agents receive training and recruitment directly from Israel via the IDF.
 
 Anchored Artifacts: A-1634.2
+Mentions: N-727
 
-Related Nodes: N-727
 
 Investigative Direction: Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.
 

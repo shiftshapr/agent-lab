@@ -636,7 +636,8 @@ Claim Timestamp: 00:10:11
 Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman
 Anchored Artifacts: A-1146.1
-Related Nodes: N-110, N-92, N-1125, N-1160, N-1161, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-146
+Mentions: N-92, N-110, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-146
+Related Nodes: N-1125, N-1160, N-1161
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
 
@@ -648,7 +649,8 @@ Claim Timestamp: 00:05:18
 Claim: Nieces L Steel and Mia Grant told GMA they saw the shot hit Charlie's artery.
 Transcript Snippet: I saw blood everywhere and it hit his artery and then I just we fell to the ground
 Anchored Artifacts: A-1146.1
-Related Nodes: N-110, N-111, N-112, N-1162
+Mentions: N-110, N-111, N-112
+Related Nodes: N-1162
 Confidence: high
 Investigative Direction: Compare the children's GMA statements against the video metadata and any device footage.
 
@@ -661,7 +663,8 @@ Claim Timestamp: 00:09:03
 Claim: Per Tiffany Barker's follow-up video, the 'artery' detail was introduced by Tiffany herself during a 1.5-hour car conversation, not from what the children saw.
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
-Related Nodes: N-110, N-111, N-112, N-1162
+Mentions: N-110, N-111, N-112
+Related Nodes: N-1162
 Confidence: high
 Investigative Direction: Obtain the original follow-up video and any car-cam footage; verify Tiffany's stated timeline.
 
@@ -673,7 +676,8 @@ Claim Timestamp: 00:13:41
 Claim: Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
 Transcript Snippet: 40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs
 Anchored Artifacts: A-1148.1, A-1148.3, A-1148.4
-Related Nodes: N-71, N-1163
+Mentions: N-71
+Related Nodes: N-1163
 Confidence: medium
 Investigative Direction: Independently verify the timeline from official police body-cam and security footage.
 
@@ -685,7 +689,8 @@ Claim Timestamp: 00:14:55
 Claim: Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Anchored Artifacts: A-1148.2
-Related Nodes: N-71, N-1163
+Mentions: N-71
+Related Nodes: N-1163
 Confidence: high
 Investigative Direction: Cross-check the walking-clip frame-by-frame against law-enforcement timeline records.
 
@@ -698,7 +703,8 @@ Claim Timestamp: 00:18:31
 Claim: Host says the viral handcuffs photo was first circulated by a Utah-based individual who advertises with Turning Point USA.
 Transcript Snippet: somebody who lived in Utah who advertises with Turning Point USA
 Anchored Artifacts: A-1148.4
-Related Nodes: N-71, N-1000, N-1161
+Mentions: N-71
+Related Nodes: N-1000, N-1161
 Confidence: medium
 Investigative Direction: Identify the original posting account via reverse-image search and archive timestamps.
 
@@ -723,7 +729,8 @@ Claim Timestamp: 00:24:06
 Claim: Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.
 Transcript Snippet: those two numbers were both Chicago based... that's not making sense to me
 Anchored Artifacts: A-1150.1
-Related Nodes: N-136, N-1077, N-1158, N-1164
+Mentions: N-136
+Related Nodes: N-1077, N-1158, N-1164
 Confidence: medium
 Investigative Direction: Subpoena the originating accounts; obtain phone records; verify BYU enrollment of companion.
 
@@ -735,7 +742,8 @@ Claim Timestamp: 00:29:07
 Claim: Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
-Related Nodes: N-69, N-1079, N-1165
+Mentions: N-69
+Related Nodes: N-1079, N-1165
 Supports: C-1254
 Confidence: medium
 Investigative Direction: Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.
@@ -749,7 +757,8 @@ Claim Timestamp: 00:30:37
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
-Related Nodes: N-69, N-1079, N-1165, N-147
+Mentions: N-69, N-147
+Related Nodes: N-1079, N-1165
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
 
@@ -761,7 +770,8 @@ Claim Timestamp: 00:40:47
 Claim: Andrew Kovette told Alex Clark that Charlie was not converting; he loved Catholic mass but remained Protestant.
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Anchored Artifacts: A-1151.1
-Related Nodes: N-42, N-1, N-2, N-1170, N-135
+Mentions: N-1, N-2, N-42, N-135
+Related Nodes: N-1170
 Confidence: high
 Investigative Direction: Cross-check with Charlie's own prior public statements on faith and any church/RCIA enrollment records.
 
@@ -773,7 +783,8 @@ Claim Timestamp: 00:45:12
 Claim: Kovette says he never heard of a $150M Israel offer and that TPUSA has consistently refused foreign money, including cancelling wires.
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Anchored Artifacts: A-1151.2
-Related Nodes: N-42, N-1, N-66, N-134, N-1171
+Mentions: N-1, N-42, N-66, N-134
+Related Nodes: N-1171
 Confidence: high
 Investigative Direction: Audit TPUSA donor records against FARA filings; review cancelled wire correspondence.
 
@@ -785,7 +796,8 @@ Claim Timestamp: 00:51:21
 Claim: Kovette says SD cards were pulled from on-scene cameras to preserve evidence from being stolen during the chaos, not to suppress footage.
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Anchored Artifacts: A-1151.3
-Related Nodes: N-42, N-1000, N-1166
+Mentions: N-42
+Related Nodes: N-1000, N-1166
 Confidence: high
 Investigative Direction: Confirm chain-of-custody; check whether originals were turned over intact to law enforcement.
 
@@ -797,7 +809,8 @@ Claim Timestamp: 00:54:57
 Claim: Kovette recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Anchored Artifacts: A-1151.4, A-1152.1
-Related Nodes: N-42, N-1, N-50, N-3, N-1172
+Mentions: N-1, N-3, N-42, N-50
+Related Nodes: N-1172
 Confidence: high
 Investigative Direction: Identify the donor(s) involved; review any internal TPUSA communications on donor pressure.
 
@@ -809,7 +822,8 @@ Claim Timestamp: 00:56:05
 Claim: In an August Myrtle Beach clip, Charlie Kirk said he does not stop being friends with people because of moral blackmail and named Candace specifically.
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Anchored Artifacts: A-1152.1
-Related Nodes: N-1, N-3, N-1172
+Mentions: N-1, N-3
+Related Nodes: N-1172
 Confidence: high
 Investigative Direction: Verify the clip's date and audience Q&A context.
 
@@ -821,7 +835,7 @@ Claim Timestamp: 01:01:02
 Claim: Trump publicly stated vaccines should not contain mercury or aluminum, MMR should be given as separate shots, and Hepatitis B should wait until age 12.
 Transcript Snippet: The MMR I think should be taken separately... hepatitis B is sexually transmitted... wait till the baby is 12
 Anchored Artifacts: A-1153.1
-Related Nodes: N-5
+Mentions: N-5
 Confidence: high
 Investigative Direction: Verify official White House transcript of the statement.
 
@@ -833,7 +847,7 @@ Claim Timestamp: 00:10:11
 Claim: Host states Tiffany Barker's sister ran as lieutenant governor alongside Phil Leman.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman
 Anchored Artifacts: A-1146.1
-Related Nodes: N-110, N-92
+Mentions: N-92, N-110
 Confidence: medium
 Uncertainty: Host identifies the sister as Tiffany's, but Tiffany's relationship (sister vs. in-law) and exact candidate name should be verified.
 Investigative Direction: Verify Leman's 2024 lt. gov. running mate name and family relation to Tiffany Barker.
@@ -846,7 +860,8 @@ Claim Timestamp: 01:16:47
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
 Transcript Snippet: Cash Patel has signified that that is so in his long message that we spoke about yesterday
 Anchored Artifacts: 
-Related Nodes: N-102, N-69, N-1079, N-1165
+Mentions: N-69, N-102
+Related Nodes: N-1079, N-1165
 Confidence: low
 Investigative Direction: Pull the actual Patel thread and timestamp the posts; verify his role and standing.
 
@@ -858,7 +873,8 @@ Claim Timestamp: 01:15:09
 Claim: Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.
 Transcript Snippet: Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?
 Anchored Artifacts: 
-Related Nodes: N-144, N-1077, N-1173
+Mentions: N-144
+Related Nodes: N-1077, N-1173
 Confidence: low
 Investigative Direction: Request UVU facilities work orders, vendor invoices, and payment records for the post-incident hardscape work.
 
@@ -870,7 +886,8 @@ Claim Timestamp: 01:15:52
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
-Related Nodes: N-145, N-1079, N-1174
+Mentions: N-145
+Related Nodes: N-1079, N-1174
 Confidence: low
 Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.
 

@@ -878,13 +878,18 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-4",
         "N-2330"
       ],
       "tags": [],
       "claim_timestamp": "00:02:15",
-      "investigative_direction": "Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing."
+      "investigative_direction": "Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ],
+      "contradicts_claim_refs": [
+        "C-3493"
+      ]
     },
     {
       "@type": "Claim",
@@ -896,12 +901,14 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2330"
       ],
       "tags": [],
       "claim_timestamp": "00:03:06",
-      "investigative_direction": "Obtain UVU planning documents directly; verify timing of each revision; identify whether any \"1,500\" update exists in any retained form."
+      "investigative_direction": "Obtain UVU planning documents directly; verify timing of each revision; identify whether any \"1,500\" update exists in any retained form.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -913,14 +920,16 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-4",
         "N-2330",
         "N-2333"
       ],
       "tags": [],
       "claim_timestamp": "00:04:04",
-      "investigative_direction": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events."
+      "investigative_direction": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -932,14 +941,16 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-3",
-        "N-4",
         "N-2332"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35",
-      "investigative_direction": "Authenticate the text screenshot metadata; verify whether \"E\" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative."
+      "investigative_direction": "Authenticate the text screenshot metadata; verify whether \"E\" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -952,13 +963,15 @@
         "A-2396.1"
       ],
       "related_nodes": [
-        "N-3",
-        "N-4",
         "N-2332"
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
-      "investigative_direction": "Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum."
+      "investigative_direction": "Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -970,13 +983,15 @@
         "A-2397.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-2331"
       ],
       "tags": [],
       "claim_timestamp": "00:30:10",
-      "investigative_direction": "Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation."
+      "investigative_direction": "Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -989,12 +1004,14 @@
         "A-2403.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2331"
       ],
       "tags": [],
       "claim_timestamp": "00:20:36",
-      "investigative_direction": "Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited."
+      "investigative_direction": "Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1006,12 +1023,14 @@
         "A-2398.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2331"
       ],
       "tags": [],
       "claim_timestamp": "00:20:36",
-      "investigative_direction": "Cross-check TPUSA claim against school attendance records and parent reports."
+      "investigative_direction": "Cross-check TPUSA claim against school attendance records and parent reports.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1023,12 +1042,14 @@
         "A-2403.2"
       ],
       "related_nodes": [
-        "N-4",
         "N-2331"
       ],
       "tags": [],
       "claim_timestamp": "00:24:37",
-      "investigative_direction": "Verify whether the cited \"opt-out\" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies."
+      "investigative_direction": "Verify whether the cited \"opt-out\" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -1040,12 +1061,14 @@
         "A-2403.3"
       ],
       "related_nodes": [
-        "N-4",
         "N-2333"
       ],
       "tags": [],
       "claim_timestamp": "00:25:33",
-      "investigative_direction": "Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops."
+      "investigative_direction": "Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -1057,13 +1080,15 @@
         "A-2400.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-6",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:45:02",
-      "investigative_direction": "Obtain full Politico article and publication date."
+      "investigative_direction": "Obtain full Politico article and publication date.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -1075,12 +1100,14 @@
         "A-2400.2"
       ],
       "related_nodes": [
-        "N-6",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:47:48",
-      "investigative_direction": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff."
+      "investigative_direction": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff.",
+      "mentions_person_refs": [
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -1092,14 +1119,16 @@
         "A-2401.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-5",
-        "N-6",
         "N-2335"
       ],
       "tags": [],
       "claim_timestamp": "00:45:02",
-      "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff."
+      "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-5",
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -1111,12 +1140,14 @@
         "A-2400.1"
       ],
       "related_nodes": [
-        "N-6",
         "N-2335"
       ],
       "tags": [],
       "claim_timestamp": "00:50:04",
-      "investigative_direction": "Confirm full quote and attribution context in Politico article."
+      "investigative_direction": "Confirm full quote and attribution context in Politico article.",
+      "mentions_person_refs": [
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -1161,13 +1192,15 @@
       "claim": "On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2",
-        "N-4",
         "N-2334"
       ],
       "tags": [],
       "claim_timestamp": "00:34:54",
-      "investigative_direction": "Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025."
+      "investigative_direction": "Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -1179,12 +1212,14 @@
         "A-2404.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2330"
       ],
       "tags": [],
       "claim_timestamp": "00:55:56",
-      "investigative_direction": "Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue."
+      "investigative_direction": "Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1195,12 +1230,13 @@
       "anchored_artifacts": [
         "A-2404.2"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:57",
-      "investigative_direction": "Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution."
+      "investigative_direction": "Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

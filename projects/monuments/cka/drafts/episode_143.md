@@ -270,7 +270,8 @@ Claim Timestamp: 00:08:42
 Claim: The host presents footage showing the camera operator removing an SD card from the camera behind Charlie Kirk's head, looking around, and pocketing the card within approximately four to five minutes of Charlie being struck.
 
 Anchored Artifacts: A-2295.1
-Related Nodes: N-9, N-1, N-2207
+Mentions: N-1, N-9
+Related Nodes: N-2207
 Investigative Direction: Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.
 
 ---
@@ -282,7 +283,8 @@ Claim Timestamp: 00:09:43
 Claim: The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, all within roughly ten minutes of the shooting.
 
 Anchored Artifacts: A-2295.1
-Related Nodes: N-9, N-2207
+Mentions: N-9
+Related Nodes: N-2207
 Investigative Direction: Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated "government source" timeline.
 
 ---
@@ -294,7 +296,8 @@ Claim Timestamp: 00:14:47
 Claim: The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera — which had fallen to the floor — rather than retrieving its SD card.
 
 Anchored Artifacts: A-2295.2, A-2295.3, A-2300.1
-Related Nodes: N-9, N-1, N-2208
+Mentions: N-1, N-9
+Related Nodes: N-2208
 Investigative Direction: Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.
 
 ---
@@ -306,7 +309,8 @@ Claim Timestamp: 00:13:38
 Claim: The host presents footage showing the yellow audience-facing camera falling/being knocked down shortly after Charlie Kirk was taken away from the scene.
 
 Anchored Artifacts: A-2295.2, A-2300.1
-Related Nodes: N-1, N-2208
+Mentions: N-1
+Related Nodes: N-2208
 Investigative Direction: Confirm camera-down timestamp via SBI/UPD evidence logs and assess whether the fall was accidental or post-removal disturbance.
 
 ---
@@ -318,7 +322,7 @@ Claim Timestamp: 00:32:32
 Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" — described as a person involved in law enforcement and a minister — recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
 
 Anchored Artifacts: A-2296.1
-Related Nodes: N-176, N-69, N-1
+Mentions: N-1, N-69, N-176
 Investigative Direction: Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.
 
 ---
@@ -330,7 +334,7 @@ Claim Timestamp: 00:33:22
 Claim: Trump's on-air description characterizes the recognizing individual as a person involved in law enforcement and "a person of faith, a minister," which the host maps to Mike Mitchell's known roles.
 
 Anchored Artifacts: A-2296.1
-Related Nodes: N-176
+Mentions: N-176
 Investigative Direction: Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.
 
 ---
@@ -342,7 +346,7 @@ Claim Timestamp: 00:18:07
 Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" — specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data — and that the defense's only substantive challenge is to reliable hearsay.
 
 Anchored Artifacts: A-2294.1
-Related Nodes: N-5, N-69
+Mentions: N-5, N-69
 Investigative Direction: Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact.
 
 ---
@@ -354,7 +358,7 @@ Claim Timestamp: 00:35:00
 Claim: In an audio clip, streamer Hasan Piker calls Candace Owens "a queen" who "successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk," while simultaneously stating his belief that Tyler Robinson likely did it.
 
 Anchored Artifacts: A-2297.1
-Related Nodes: N-176, N-69, N-1
+Mentions: N-1, N-69, N-176
 Investigative Direction: Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.
 
 ---
@@ -366,7 +370,7 @@ Claim Timestamp: 00:34:27
 Claim: Blake Neff's tweet (read in full) states that "the radical pro-violence left knows exactly what a gift Candace and her ilk are to them," framing her investigative work on the Robinson case as materially assisting left-wing political interests.
 
 Anchored Artifacts: A-2298.1
-Related Nodes: N-5, N-176
+Mentions: N-5, N-176
 Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.
 
 ---
@@ -378,7 +382,7 @@ Claim Timestamp: 00:41:34
 Claim: The Where Forbidden X/Instagram account published a short parody video using the Matrix red-pill/blue-pill framing to characterize reactions to the Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
 
 Anchored Artifacts: A-2299.1
-Related Nodes: N-69
+Mentions: N-69
 Investigative Direction: Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous.
 
 ---
@@ -390,7 +394,8 @@ Claim Timestamp: 00:11:42
 Claim: The host states, citing a government source she trusts, that the entire sequence — Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion — occurred within approximately ten minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2295.1
-Related Nodes: N-9, N-2207
+Mentions: N-9
+Related Nodes: N-2207
 Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.
 
 ---

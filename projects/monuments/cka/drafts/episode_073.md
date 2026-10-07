@@ -353,8 +353,9 @@ Claim Timestamp: 00:03:08
 Claim: A wedding photo of Charlie and Erika Kirk was visible in the background of the Charlie Kirk Show home studio broadcast on September 8, 2025.
 
 Anchored Artifacts: A-1773.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1577
+Related Nodes: N-1577
 
 Investigative Direction: Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture.
 
@@ -367,8 +368,9 @@ Claim Timestamp: 00:04:44
 Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office — the same space where it was visible on September 8, 2025.
 
 Anchored Artifacts: A-1774.1, A-1773.1
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364, N-1577
+Related Nodes: N-1577
 
 Investigative Direction: Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.
 
@@ -381,8 +383,8 @@ Claim Timestamp: 00:01:14
 Claim: Laura Loomer posted on X stating "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
 
 Anchored Artifacts: A-1772.1
+Mentions: N-2, N-3, N-91
 
-Related Nodes: N-91, N-2, N-3
 
 Investigative Direction: Verify the post's existence on X, capture the timestamp, and document whether Erika or TPUSA responded.
 
@@ -395,8 +397,9 @@ Claim Timestamp: 00:04:44
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated she had not been in Charlie's home office "for a very long time."
 
 Anchored Artifacts: A-1774.1
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364, N-1577
+Related Nodes: N-1577
 
 Investigative Direction: Compare Erika's "first time back" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.
 
@@ -409,8 +412,9 @@ Claim Timestamp: 00:10:40
 Claim: During a Fox News interview, Erika Kirk stated that Charlie Kirk removed his wedding ring the night before his assassination, left it in the bathroom, and came back the next morning to put it on before leaving.
 
 Anchored Artifacts: A-1775.1
+Mentions: N-2, N-313
 
-Related Nodes: N-2, N-313, N-1580
+Related Nodes: N-1580
 
 Investigative Direction: Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.
 
@@ -423,8 +427,9 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that Charlie Kirk had messaged people the day before saying "I'm going to be murdered" or "they're coming after me."
 
 Anchored Artifacts: A-1774.2
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364, N-1578
+Related Nodes: N-1578
 
 Investigative Direction: Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.
 
@@ -437,8 +442,8 @@ Claim Timestamp: 00:34:48
 Claim: Carrie Prejean Bowler was removed from the White House Religious Liberty Commission, announced by Dan Patrick on X.
 
 Anchored Artifacts: A-1777.1
+Mentions: N-909, N-936
 
-Related Nodes: N-909, N-936
 
 Investigative Direction: Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.
 
@@ -451,8 +456,8 @@ Claim Timestamp: 00:30:14
 Claim: During the Religious Liberty Commission hearing, Carrie Prejean Bowler stated "I'm a Catholic and Catholics do not embrace Zionism."
 
 Anchored Artifacts: A-1776.2
+Mentions: N-909
 
-Related Nodes: N-909
 
 Investigative Direction: Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.
 
@@ -493,8 +498,9 @@ Claim Timestamp: 00:37:45
 Claim: Per informant testimony, Erika Kirk was not present during the TPUSA halftime show filming over either of the two days.
 
 Anchored Artifacts: A-1778.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1581
+Related Nodes: N-1581
 
 Investigative Direction: Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming.
 
@@ -535,8 +541,9 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated "And I have his cell phone" in the context of denying that Charlie sent pre-death messages.
 
 Anchored Artifacts: A-1774.2
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364, N-1578
+Related Nodes: N-1578
 
 Investigative Direction: Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.
 

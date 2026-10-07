@@ -655,12 +655,14 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1509"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27",
-      "investigative_direction": "Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message."
+      "investigative_direction": "Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -671,14 +673,15 @@
       "anchored_artifacts": [
         "A-1669.1"
       ],
-      "related_nodes": [
-        "N-782",
-        "N-2",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:27",
-      "investigative_direction": "Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host."
+      "investigative_direction": "Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-782"
+      ]
     },
     {
       "@type": "Claim",
@@ -689,12 +692,13 @@
       "anchored_artifacts": [
         "A-1670.1"
       ],
-      "related_nodes": [
-        "N-785"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:31",
-      "investigative_direction": "Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details."
+      "investigative_direction": "Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details.",
+      "mentions_person_refs": [
+        "N-785"
+      ]
     },
     {
       "@type": "Claim",
@@ -705,12 +709,13 @@
       "anchored_artifacts": [
         "A-1670.2"
       ],
-      "related_nodes": [
-        "N-785"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:31",
-      "investigative_direction": "Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility."
+      "investigative_direction": "Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility.",
+      "mentions_person_refs": [
+        "N-785"
+      ]
     },
     {
       "@type": "Claim",
@@ -723,16 +728,18 @@
         "A-1672.1"
       ],
       "related_nodes": [
-        "N-783",
-        "N-639",
-        "N-785",
-        "N-786",
         "N-1511",
         "N-1513"
       ],
       "tags": [],
       "claim_timestamp": "00:13:25",
-      "investigative_direction": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments."
+      "investigative_direction": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.",
+      "mentions_person_refs": [
+        "N-639",
+        "N-783",
+        "N-785",
+        "N-786"
+      ]
     },
     {
       "@type": "Claim",
@@ -744,13 +751,15 @@
         "A-1671.2"
       ],
       "related_nodes": [
-        "N-783",
-        "N-639",
         "N-1511"
       ],
       "tags": [],
       "claim_timestamp": "00:16:12",
-      "investigative_direction": "Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description."
+      "investigative_direction": "Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.",
+      "mentions_person_refs": [
+        "N-639",
+        "N-783"
+      ]
     },
     {
       "@type": "Claim",
@@ -761,13 +770,14 @@
       "anchored_artifacts": [
         "A-1673.1"
       ],
-      "related_nodes": [
-        "N-70",
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:30",
-      "investigative_direction": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing."
+      "investigative_direction": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -779,13 +789,15 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-790",
         "N-1510"
       ],
       "tags": [],
       "claim_timestamp": "00:26:45",
-      "investigative_direction": "Obtain the termination documentation referenced in the audio (\"email with social security and links\" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement."
+      "investigative_direction": "Obtain the termination documentation referenced in the audio (\"email with social security and links\" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-790"
+      ]
     },
     {
       "@type": "Claim",
@@ -797,12 +809,14 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-790",
         "N-1510"
       ],
       "tags": [],
       "claim_timestamp": "00:27:24",
-      "investigative_direction": "Cross-check time-tracking or HR records to verify hours worked."
+      "investigative_direction": "Cross-check time-tracking or HR records to verify hours worked.",
+      "mentions_person_refs": [
+        "N-790"
+      ]
     },
     {
       "@type": "Claim",
@@ -814,12 +828,14 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-790",
         "N-1510"
       ],
       "tags": [],
       "claim_timestamp": "00:28:48",
-      "investigative_direction": "Obtain HR personnel file to confirm or refute the absence of any prior negative review."
+      "investigative_direction": "Obtain HR personnel file to confirm or refute the absence of any prior negative review.",
+      "mentions_person_refs": [
+        "N-790"
+      ]
     },
     {
       "@type": "Claim",
@@ -831,13 +847,15 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-789",
         "N-1510"
       ],
       "tags": [],
       "claim_timestamp": "00:22:28",
-      "investigative_direction": "Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred."
+      "investigative_direction": "Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-789"
+      ]
     },
     {
       "@type": "Claim",
@@ -849,13 +867,15 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-789",
-        "N-790",
         "N-1510"
       ],
       "tags": [],
       "claim_timestamp": "00:32:06",
-      "investigative_direction": "Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination."
+      "investigative_direction": "Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.",
+      "mentions_person_refs": [
+        "N-789",
+        "N-790"
+      ]
     }
   ],
   "memes": []

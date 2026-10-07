@@ -280,8 +280,8 @@ Claim Timestamp: 00:02:11
 Claim: Pentagon correspondent Cam Higby asked the Pentagon press secretary whether the Department of Defense had any evidence of a "French military plot to assassinate Candace Owens."
 
 Anchored Artifacts: A-1494.1
+Mentions: N-479
 
-Related Nodes: N-479
 
 Investigative Direction: Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time.
 
@@ -294,8 +294,8 @@ Claim Timestamp: 00:03:51
 Claim: TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 2:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance.
 
 Anchored Artifacts: A-1495.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Confirm original tweet via X/Twitter archive; verify timestamp and wording.
 
@@ -308,8 +308,8 @@ Claim Timestamp: 00:07:19
 Claim: After Candace Owens publicly offered to participate virtually, TPUSA's Blake Neff tweeted that TPUSA would proceed with the December 15 livestream without her.
 
 Anchored Artifacts: A-1495.2
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Confirm original follow-up tweet via X/Twitter archive; compare with Candace's tweet offering virtual attendance.
 
@@ -322,8 +322,9 @@ Claim Timestamp: 00:15:32
 Claim: A Project Constitution X post (read in full on air) reports that the Egyptian presidency website confirms President El-Sisi flew aboard aircraft SU-BTU on April 3, 2023 to Riyadh for a meeting with Saudi Crown Prince Mohammed bin Salman.
 
 Anchored Artifacts: A-1496.1, A-1500.2
+Mentions: N-485
 
-Related Nodes: N-485, N-1381
+Related Nodes: N-1381
 
 Investigative Direction: Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to "SU-BTU" with host's reference to "BTT" / "SUB-TU."
 
@@ -336,8 +337,8 @@ Claim Timestamp: 00:17:13
 Claim: President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
+Mentions: N-484, N-485
 
-Related Nodes: N-484, N-485
 
 Investigative Direction: Locate the original photograph; verify date, location, and participants.
 
@@ -350,8 +351,8 @@ Claim Timestamp: 00:25:13
 Claim: Ben Shapiro appeared on Greg Gutfeld's show and joked that he "called French intelligence and something may or may not have happened to Greg [Gutfeld]."
 
 Anchored Artifacts: A-1497.1
+Mentions: N-483
 
-Related Nodes: N-483
 
 Investigative Direction: Verify clip against original Gutfeld show broadcast; confirm exact wording.
 
@@ -364,8 +365,8 @@ Claim Timestamp: 00:28:02
 Claim: Frank Turk states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's "secret weapon" and "the smartest man I know."
 
 Anchored Artifacts: A-1498.1
+Mentions: N-1, N-16
 
-Related Nodes: N-16, N-1
 
 Investigative Direction: Verify clip against original broadcast; cross-check against other contemporaneous accounts.
 

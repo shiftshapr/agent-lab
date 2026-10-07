@@ -574,8 +574,9 @@ Claim Timestamp: 00:33:00–00:35:40
 Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.
 
 Anchored Artifacts: A-2306.2
+Mentions: N-46
 
-Related Nodes: N-1210, N-1211, N-46
+Related Nodes: N-1210, N-1211
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 

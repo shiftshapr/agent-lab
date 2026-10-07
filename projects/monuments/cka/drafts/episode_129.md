@@ -385,8 +385,8 @@ Claim Timestamp: 00:28:34
 Claim: The Daily Mail article reports that Erika Kirk, upon seeing Tyler Robinson in court, felt compassion and overwhelming sadness rather than anger.
 
 Anchored Artifacts: A-2164.2
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss).
 
@@ -399,8 +399,8 @@ Claim Timestamp: 00:36:27
 Claim: The Daily Mail article reports Erika Kirk's stated position that she will not give Candace Owens any energy and holds Candace in greater contempt than Tyler Robinson.
 
 Anchored Artifacts: A-2164.3
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify quoted statements with original article; identify "family friend" vs. "family member" sourcing distinction.
 
@@ -497,6 +497,7 @@ Claim Timestamp: 00:13:40
 Claim: Blake Neff's recorded account describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, with Blake noting Mikey's lip was quivering.
 
 Anchored Artifacts: A-2168.1
+Contradicts: C-1932, C-3092
 
 Related Nodes: N-2141
 
@@ -639,8 +640,9 @@ Claim Timestamp: 00:50:38
 Claim: A pre-death Charlie Kirk broadcast characterizes the Alex Jones case as "patient zero for lawfare strategies" and warns of precedent being used against others.
 
 Anchored Artifacts: A-2169.5, A-2169.6
+Mentions: N-1
 
-Related Nodes: N-1, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account.
 
@@ -653,8 +655,9 @@ Claim Timestamp: 00:54:20
 Claim: A pre-death Charlie Kirk X post states: "The lawsuits against Jones have always been about finding a way to censor and destroy a person the left hates, and then using that blueprint on everybody else."
 
 Anchored Artifacts: A-2169.6
+Mentions: N-1
 
-Related Nodes: N-1, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Confirm the post against Charlie Kirk's X archive; date the post.
 

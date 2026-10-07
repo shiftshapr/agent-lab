@@ -437,7 +437,7 @@ Investigative Direction: Independent corpus sampling of Robinson's other recorde
 Claim Timestamp: 00:03:50–00:04:50
 Claim: Brooksby stated at his press conference that he received a phone call at 8:02 p.m. on the 11th from a friend who is a retired Washington County detective informing him of the shooter's identity.
 Anchored Artifacts: A-1172.1
-Related Nodes: N-176
+Mentions: N-176
 Investigative Direction: Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a "retired Washington County deputy").
 
 **C-1300** Brooksby attempted to protect the retired detective's identity despite his public-record career
@@ -445,7 +445,7 @@ Investigative Direction: Cross-reference call logs and the court filings already
 Claim Timestamp: 00:15:30–00:16:30
 Claim: Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as "retired law enforcement"; he argued that the court documents were what ultimately revealed the title.
 Anchored Artifacts: A-1172.1, A-1174.1
-Related Nodes: N-176
+Mentions: N-176
 Investigative Direction: Pull the cited court documents and compare Brooksby's public statements with the actual filed text.
 
 **C-1301** Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call
@@ -477,7 +477,7 @@ Investigative Direction: Recover archived versions of Lance's Instagram handle (
 Claim Timestamp: 00:16:00–00:16:30
 Claim: The Washington County Sheriff's Office retirement-celebration post states that Detective Mike Mitchell served for "over 24 years … starting in the jail back in 1999."
 Anchored Artifacts: A-1174.1
-Related Nodes: N-176
+Mentions: N-176
 Investigative Direction: Verify against Washington County personnel records and any prior news coverage of Mitchell's career.
 
 **C-1305** The retirement-celebration post is the only public trace of Mike Mitchell
@@ -485,7 +485,8 @@ Investigative Direction: Verify against Washington County personnel records and 
 Claim Timestamp: 00:16:30–00:16:50
 Claim: Host states she was unable to find any other public news trace of Mike Mitchell despite his 24+ year career, and presents the retirement post as the sole located artifact.
 Anchored Artifacts: A-1174.1
-Related Nodes: N-176, N-1207
+Mentions: N-176
+Related Nodes: N-1207
 Investigative Direction: Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.
 
 **C-1306** The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive
@@ -501,7 +502,8 @@ Investigative Direction: Seek clarification from Brooksby or from the Washington
 Claim Timestamp: 00:28:00–00:29:30
 Claim: In his Kaye McAney interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.
 Anchored Artifacts: A-1176.1, A-1177.1
-Related Nodes: N-92, N-180, N-1210
+Mentions: N-92, N-180
+Related Nodes: N-1210
 Investigative Direction: Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.
 
 **C-1308** Phil Lyman's family owns approximately twelve homes on the relevant street
@@ -509,7 +511,8 @@ Investigative Direction: Timestamp the TMZ footage independently and reconcile w
 Claim Timestamp: 00:29:30–00:30:00
 Claim: In the Kaye McAney interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
 Anchored Artifacts: A-1177.1
-Related Nodes: N-92, N-1210
+Mentions: N-92
+Related Nodes: N-1210
 Investigative Direction: Pull county property records for the relevant street and verify ownership chain.
 
 **C-1309** Phil Lyman publicly described "two goth girls" as unfrightened near the shooting scene on Alex Jones
@@ -517,7 +520,8 @@ Investigative Direction: Pull county property records for the relevant street an
 Claim Timestamp: 00:30:00–00:32:00
 Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, retreating behind retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
 Anchored Artifacts: A-1178.1
-Related Nodes: N-92, N-1210
+Mentions: N-92
+Related Nodes: N-1210
 Investigative Direction: Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.
 
 **C-1310** Phil Lyman stated on local Utah news that he was backstage with Charlie Kirk before the shooting
@@ -525,7 +529,8 @@ Investigative Direction: Obtain the unedited Alex Jones segment and any witness 
 Claim Timestamp: 00:32:30–00:33:15
 Claim: In a local Utah news interview, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to "meet some friends" away from the stage.
 Anchored Artifacts: A-1179.1
-Related Nodes: N-92, N-1210
+Mentions: N-92
+Related Nodes: N-1210
 Investigative Direction: Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.
 
 **C-1311** Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a "200 yard kill shot"
@@ -533,7 +538,8 @@ Investigative Direction: Obtain the unedited local Utah news segment; compare ti
 Claim Timestamp: 00:34:00–00:35:30
 Claim: In his own Instagram video, Phil Lyman stated he was driving from Salt Lake to Blanding on the night of the shooting, stopped by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
 Anchored Artifacts: A-1180.1
-Related Nodes: N-92, N-1210
+Mentions: N-92
+Related Nodes: N-1210
 Investigative Direction: Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.
 
 **C-1312** Shane Lyman publicly retraced the shooter's steps near his grandmother's house
@@ -541,7 +547,8 @@ Investigative Direction: Confirm upload timestamp and metadata on Instagram; obt
 Claim Timestamp: 00:41:00–00:41:30
 Claim: Shane Lyman's Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking "pictures in the exact place that the security cameras caught him"; the image showed Converse-brand footprints.
 Anchored Artifacts: A-1181.1
-Related Nodes: N-179, N-92, N-1210
+Mentions: N-92, N-179
+Related Nodes: N-1210
 Investigative Direction: Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman.
 
 **C-1313** Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals
@@ -549,7 +556,8 @@ Investigative Direction: Recover archived version of Shane Lyman's Instagram pos
 Claim Timestamp: 00:42:00–00:42:30
 Claim: Shane Lyman's Instagram post showed side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host states she could not identify two of the individuals on his friends list.
 Anchored Artifacts: A-1181.2
-Related Nodes: N-179, N-92, N-1210
+Mentions: N-92, N-179
+Related Nodes: N-1210
 Investigative Direction: Identify the two friends via cross-reference with Shane's social graph or via direct outreach.
 
 **C-1314** Phil Lyman showed up at "Nick's" home uninvited and asked questions about the host's investigation
@@ -557,7 +565,8 @@ Investigative Direction: Identify the two friends via cross-reference with Shane
 Claim Timestamp: 00:37:30–00:39:00
 Claim: Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.
 Anchored Artifacts: (Host-relayed source testimony; no video/audio presented in this episode.)
-Related Nodes: N-177, N-92, N-1210
+Mentions: N-92, N-177
+Related Nodes: N-1210
 Investigative Direction: Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
@@ -566,7 +575,8 @@ Investigative Direction: Obtain any corroborating records (Ring/doorbell footage
 Claim Timestamp: 00:38:30–00:39:00
 Claim: Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
 Anchored Artifacts: (Host-relayed source testimony; no artifact presented in this episode.)
-Related Nodes: N-181, N-92, N-1210
+Mentions: N-92, N-181
+Related Nodes: N-1210
 Investigative Direction: Confirm via Ian Carol's own public statements and any travel/timeline records.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
@@ -575,7 +585,8 @@ Investigative Direction: Confirm via Ian Carol's own public statements and any t
 Claim Timestamp: 00:25:00–00:25:20
 Claim: Host states that Nick sent the food-court photo of a person in a black suit and dark sunglasses with a strap hanging from a bag into the tips box early in the investigation.
 Anchored Artifacts: A-1175.1
-Related Nodes: N-177, N-1210
+Mentions: N-177
+Related Nodes: N-1210
 Investigative Direction: Recover the original image and metadata; identify the individual depicted.
 
 **C-1317** Host acknowledges Marzy's keyholing-fragmentation bullet theory as new information

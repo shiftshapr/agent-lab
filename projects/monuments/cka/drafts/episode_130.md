@@ -451,7 +451,8 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Mail article and used it as "rage bait."
 
 Anchored Artifacts: A-2174.1
-Related Nodes: N-8, N-2144
+Mentions: N-8
+Related Nodes: N-2144
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
 
@@ -462,7 +463,8 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk organization a request for comment before publication.
 
 Anchored Artifacts: A-2174.1
-Related Nodes: N-8, N-2144
+Mentions: N-8
+Related Nodes: N-2144
 
 Investigative Direction: Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.
 
@@ -473,7 +475,8 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that the Daily Mail updated the article to retract the claim that the source was a member of the Kirk family.
 
 Anchored Artifacts: A-2174.1
-Related Nodes: N-8, N-2144
+Mentions: N-8
+Related Nodes: N-2144
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
 
@@ -484,7 +487,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Erika has never been heard to swear, privately or publicly.
 
 Anchored Artifacts: A-2174.1
-Related Nodes: N-8, N-2
+Mentions: N-2, N-8
 
 Investigative Direction: Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage).
 
@@ -495,7 +498,8 @@ Claim Timestamp: 00:45:08
 Claim: In an interview clip played on air, Blake Neff describes his actions on 9/10 using the phrasing "I put that phone away," which the host notes is linguistically unusual unless a second phone is implied.
 
 Anchored Artifacts: A-2176.1
-Related Nodes: N-11, N-2145
+Mentions: N-11
+Related Nodes: N-2145
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.
 
@@ -517,7 +521,7 @@ Claim Timestamp: 00:58:13
 Claim: A compilation video played on air shows Charlie Kirk stating that a valued friend is one who tells you where bullets are coming from rather than distracting you from them.
 
 Anchored Artifacts: A-2178.1
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Retrieve the full 15-minute compilation video and identify the original source episode for each clip.
 

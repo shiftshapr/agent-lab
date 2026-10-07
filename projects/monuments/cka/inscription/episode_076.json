@@ -854,13 +854,14 @@
       "anchored_artifacts": [
         "A-1809.1"
       ],
-      "related_nodes": [
-        "N-35",
-        "N-953"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:04–00:07:57",
-      "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text."
+      "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-953"
+      ]
     },
     {
       "@type": "Claim",
@@ -872,13 +873,15 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-272",
         "N-1594"
       ],
       "tags": [],
       "claim_timestamp": "00:12:57–00:13:53",
-      "investigative_direction": "Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio."
+      "investigative_direction": "Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -890,12 +893,14 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1594"
       ],
       "tags": [],
       "claim_timestamp": "00:13:53",
-      "investigative_direction": "Compare the episode's audio/video metadata against the claimed broadcast time."
+      "investigative_direction": "Compare the episode's audio/video metadata against the claimed broadcast time.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -905,12 +910,14 @@
       "claim": "The Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-35",
         "N-1594"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
-      "investigative_direction": "Confirm the official release date of the Epstein files and compare against the documented meeting date."
+      "investigative_direction": "Confirm the official release date of the Epstein files and compare against the documented meeting date.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -922,13 +929,15 @@
         "A-1812.1"
       ],
       "related_nodes": [
-        "N-35",
-        "N-951",
         "N-1596"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
-      "investigative_direction": "Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents."
+      "investigative_direction": "Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-951"
+      ]
     },
     {
       "@type": "Claim",
@@ -940,13 +949,15 @@
         "A-1812.2"
       ],
       "related_nodes": [
-        "N-35",
-        "N-951",
         "N-1596"
       ],
       "tags": [],
       "claim_timestamp": "00:22:57",
-      "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient."
+      "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-951"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,14 +968,15 @@
       "anchored_artifacts": [
         "A-1813.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:39–00:28:26",
+      "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references.",
+      "mentions_person_refs": [
         "N-35",
         "N-952",
         "N-960"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:27:39–00:28:26",
-      "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references."
+      ]
     },
     {
       "@type": "Claim",
@@ -976,12 +988,14 @@
         "A-1814.1"
       ],
       "related_nodes": [
-        "N-952",
         "N-1595"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
-      "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced."
+      "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
+      "mentions_person_refs": [
+        "N-952"
+      ]
     },
     {
       "@type": "Claim",
@@ -993,13 +1007,15 @@
         "A-1815.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-42",
         "N-1591"
       ],
       "tags": [],
       "claim_timestamp": "00:24:35–00:26:09",
-      "investigative_direction": "Confirm the email log; await response or non-response status update."
+      "investigative_direction": "Confirm the email log; await response or non-response status update.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1011,12 +1027,14 @@
         "A-1816.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1593"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
-      "investigative_direction": "Obtain the Jezebel article URL with timestamp metadata; verify publication time."
+      "investigative_direction": "Obtain the Jezebel article URL with timestamp metadata; verify publication time.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1028,12 +1046,14 @@
         "A-1817.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1593"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
-      "investigative_direction": "Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata."
+      "investigative_direction": "Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1045,12 +1065,14 @@
         "A-1818.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1593"
       ],
       "tags": [],
       "claim_timestamp": "00:36:30–00:38:17",
-      "investigative_direction": "Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps."
+      "investigative_direction": "Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1062,13 +1084,15 @@
         "A-1819.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-16",
         "N-1593"
       ],
       "tags": [],
       "claim_timestamp": "00:35:28–00:36:30",
-      "investigative_direction": "Obtain full Turek interview; verify the date and content of the Monday walk."
+      "investigative_direction": "Obtain full Turek interview; verify the date and content of the Monday walk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1079,14 +1103,15 @@
       "anchored_artifacts": [
         "A-1820.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:37–00:34:25",
+      "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.",
+      "mentions_person_refs": [
         "N-1",
         "N-2",
         "N-224"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:33:37–00:34:25",
-      "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context."
+      ]
     },
     {
       "@type": "Claim",
@@ -1098,12 +1123,13 @@
         "A-1821.1",
         "A-1820.1"
       ],
-      "related_nodes": [
-        "N-224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:55:30–00:56:41",
-      "investigative_direction": "Compare the Twitter stream version to the Rumble-hosted version directly."
+      "investigative_direction": "Compare the Twitter stream version to the Rumble-hosted version directly.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1114,12 +1140,13 @@
       "anchored_artifacts": [
         "A-1811.1"
       ],
-      "related_nodes": [
-        "N-954"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:14–00:11:17",
-      "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification."
+      "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification.",
+      "mentions_person_refs": [
+        "N-954"
+      ]
     },
     {
       "@type": "Claim",
@@ -1131,12 +1158,14 @@
         "A-1818.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1593"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
-      "investigative_direction": "Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp."
+      "investigative_direction": "Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,12 +1177,14 @@
         "A-1818.3"
       ],
       "related_nodes": [
-        "N-1",
         "N-1593"
       ],
       "tags": [],
       "claim_timestamp": "00:40:08",
-      "investigative_direction": "Obtain the September 8, 2025 Ingram Angle episode and verify timestamp."
+      "investigative_direction": "Obtain the September 8, 2025 Ingram Angle episode and verify timestamp.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

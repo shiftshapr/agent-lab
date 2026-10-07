@@ -436,12 +436,13 @@
       "anchored_artifacts": [
         "A-1744.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:55–00:01:55",
-      "investigative_direction": "Obtain unedited Gallagher interview footage and compare the played clip to the full broadcast."
+      "investigative_direction": "Obtain unedited Gallagher interview footage and compare the played clip to the full broadcast.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -452,13 +453,14 @@
       "anchored_artifacts": [
         "A-1744.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:56–00:02:48",
-      "investigative_direction": "Compare TPUSA public statements over time against the footage-release history to assess whether Erika's stated goal of transparency aligns with prior organizational behavior."
+      "investigative_direction": "Compare TPUSA public statements over time against the footage-release history to assess whether Erika's stated goal of transparency aligns with prior organizational behavior.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -469,13 +471,14 @@
       "anchored_artifacts": [
         "A-1745.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:50–00:10:21",
-      "investigative_direction": "Locate and verify the original NYT article containing this quote; confirm publication date and surrounding context."
+      "investigative_direction": "Locate and verify the original NYT article containing this quote; confirm publication date and surrounding context.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -486,13 +489,14 @@
       "anchored_artifacts": [
         "A-1746.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:11–00:12:25",
-      "investigative_direction": "Locate unedited Watters interview footage and confirm the bedroom-arrangement quote."
+      "investigative_direction": "Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -504,12 +508,14 @@
         "A-1746.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1565"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42–00:20:30",
-      "investigative_direction": "Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account."
+      "investigative_direction": "Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -520,12 +526,13 @@
       "anchored_artifacts": [
         "A-1747.1"
       ],
-      "related_nodes": [
-        "N-903"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
-      "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records."
+      "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records.",
+      "mentions_person_refs": [
+        "N-903"
+      ]
     },
     {
       "@type": "Claim",
@@ -537,13 +544,15 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-903",
-        "N-789",
         "N-1563"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
-      "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described."
+      "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
+      "mentions_person_refs": [
+        "N-789",
+        "N-903"
+      ]
     },
     {
       "@type": "Claim",
@@ -555,12 +564,14 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-903",
         "N-1563"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
-      "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony."
+      "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
+      "mentions_person_refs": [
+        "N-903"
+      ]
     },
     {
       "@type": "Claim",
@@ -571,13 +582,14 @@
       "anchored_artifacts": [
         "A-1747.1"
       ],
-      "related_nodes": [
-        "N-903",
-        "N-789"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
-      "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records."
+      "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
+      "mentions_person_refs": [
+        "N-789",
+        "N-903"
+      ]
     },
     {
       "@type": "Claim",
@@ -588,12 +600,13 @@
       "anchored_artifacts": [
         "A-1748.1"
       ],
-      "related_nodes": [
-        "N-443"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:22–00:35:00",
-      "investigative_direction": "Identify the source episode of the Dillon clip and capture the full surrounding context."
+      "investigative_direction": "Identify the source episode of the Dillon clip and capture the full surrounding context.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -604,13 +617,14 @@
       "anchored_artifacts": [
         "A-1748.1"
       ],
-      "related_nodes": [
-        "N-443",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:22–00:35:00",
-      "investigative_direction": "Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register."
+      "investigative_direction": "Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",

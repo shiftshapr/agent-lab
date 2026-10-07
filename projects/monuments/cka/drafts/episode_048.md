@@ -326,8 +326,9 @@ Claim Timestamp: 00:03:52
 Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
 
 Anchored Artifacts: A-1552.1
+Mentions: N-281, N-590
 
-Related Nodes: N-590, N-281, N-1429
+Related Nodes: N-1429
 
 Investigative Direction: Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.
 
@@ -340,8 +341,9 @@ Claim Timestamp: 00:27:47
 Claim: Frank Turek states on a podcast that the transport vehicle was roped off as a crime scene and that he could not access it until the FBI cleared it, at which point he retrieved his computer bag.
 
 Anchored Artifacts: A-1553.1
+Mentions: N-16
 
-Related Nodes: N-16, N-1433
+Related Nodes: N-1433
 
 Investigative Direction: Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.
 
@@ -354,8 +356,9 @@ Claim Timestamp: 00:27:47
 Claim: Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that he handed it to a police officer who stated they had been searching for it.
 
 Anchored Artifacts: A-1553.1
+Mentions: N-16
 
-Related Nodes: N-16, N-1433
+Related Nodes: N-1433
 
 Investigative Direction: Verify against any chain-of-custody documentation for Charlie's personal effects.
 
@@ -368,8 +371,9 @@ Claim Timestamp: 00:36:19
 Claim: Baron Coleman states that SAM000 is a rarely used Special Air Mission call sign reserved for highly sensitive passenger manifests where the White House or US Air Force wish to be deliberately vague about who is aboard.
 
 Anchored Artifacts: A-1554.1
+Mentions: N-552
 
-Related Nodes: N-552, N-1434
+Related Nodes: N-1434
 
 Investigative Direction: Cross-check against USAF flight plan records and ATC telephonic call sign logs.
 
@@ -382,8 +386,9 @@ Claim Timestamp: 00:38:14
 Claim: Baron Coleman states that on August 25, 2025, a flight using the SAM000 call sign operated from Joint Base Andrews toward Colorado Springs, the location of the 10th Special Forces Group.
 
 Anchored Artifacts: A-1554.1
+Mentions: N-552
 
-Related Nodes: N-552, N-1434, N-1436
+Related Nodes: N-1434, N-1436
 
 Investigative Direction: Obtain raw flight plan and ATC records to verify origin, call sign, and destination.
 
@@ -396,8 +401,9 @@ Claim Timestamp: 00:39:24
 Claim: Baron Coleman displays a flight log showing an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
 
 Anchored Artifacts: A-1554.1
+Mentions: N-552
 
-Related Nodes: N-552, N-1434, N-1435
+Related Nodes: N-1434, N-1435
 
 Investigative Direction: Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap.
 
@@ -410,8 +416,9 @@ Claim Timestamp: 00:39:24
 Claim: Baron Coleman displays a flight log showing the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
 
 Anchored Artifacts: A-1554.1
+Mentions: N-552
 
-Related Nodes: N-552, N-1435
+Related Nodes: N-1435
 
 Investigative Direction: Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26.
 
@@ -424,8 +431,9 @@ Claim Timestamp: 00:41:47
 Claim: Brian Harpole states in an interview that the intelligence gathering and preparation process for the UVU event began on August 24, with information sharing and conference calls commencing that date.
 
 Anchored Artifacts: A-1555.1
+Mentions: N-424
 
-Related Nodes: N-424, N-1436, N-1437
+Related Nodes: N-1436, N-1437
 
 Investigative Direction: Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.
 

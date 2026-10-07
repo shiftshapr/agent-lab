@@ -1247,14 +1247,16 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-3",
-        "N-411",
         "N-2366",
         "N-2358"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
-      "investigative_direction": "Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains."
+      "investigative_direction": "Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-411"
+      ]
     },
     {
       "@type": "Claim",
@@ -1266,15 +1268,17 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-2367",
-        "N-294",
-        "N-303",
-        "N-2",
-        "N-1"
+        "N-2367"
       ],
       "tags": [],
       "claim_timestamp": "00:09:26",
-      "investigative_direction": "Map amplification graphs (Mace, NY Post, Libs) against UVU-review and Charlie-case news cycles; separate statistical filicide data from narrative framing."
+      "investigative_direction": "Map amplification graphs (Mace, NY Post, Libs) against UVU-review and Charlie-case news cycles; separate statistical filicide data from narrative framing.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-294",
+        "N-303"
+      ]
     },
     {
       "@type": "Claim",
@@ -1285,14 +1289,15 @@
       "anchored_artifacts": [
         "A-2475.1"
       ],
-      "related_nodes": [
-        "N-346",
-        "N-347",
-        "N-181"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:42",
-      "investigative_direction": "Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled."
+      "investigative_direction": "Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled.",
+      "mentions_person_refs": [
+        "N-181",
+        "N-346",
+        "N-347"
+      ]
     },
     {
       "@type": "Claim",
@@ -1304,15 +1309,17 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-318",
-        "N-42",
-        "N-1",
         "N-1632",
         "N-2064"
       ],
       "tags": [],
       "claim_timestamp": "00:08:23",
-      "investigative_direction": "Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis."
+      "investigative_direction": "Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42",
+        "N-318"
+      ]
     },
     {
       "@type": "Claim",
@@ -1324,13 +1331,15 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-2367",
-        "N-294",
-        "N-303"
+        "N-2367"
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
-      "investigative_direction": "Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables."
+      "investigative_direction": "Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables.",
+      "mentions_person_refs": [
+        "N-294",
+        "N-303"
+      ]
     },
     {
       "@type": "Claim",
@@ -1344,14 +1353,16 @@
       "related_nodes": [
         "N-2365",
         "N-2329",
-        "N-1",
-        "N-30",
-        "N-36",
         "N-2350"
       ],
       "tags": [],
       "claim_timestamp": "00:25:48",
-      "investigative_direction": "Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review."
+      "investigative_direction": "Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-30",
+        "N-36"
+      ]
     },
     {
       "@type": "Claim",
@@ -1363,18 +1374,20 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-16",
-        "N-424",
-        "N-309",
         "N-2365",
         "N-2085",
         "N-2097",
-        "N-2136",
-        "N-1"
+        "N-2136"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain."
+      "investigative_direction": "Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16",
+        "N-309",
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1386,12 +1399,14 @@
         "A-2476.2"
       ],
       "related_nodes": [
-        "N-2365",
-        "N-1"
+        "N-2365"
       ],
       "tags": [],
       "claim_timestamp": "00:27:16",
-      "investigative_direction": "Obtain original Provo/Orem dispatch recordings and unit logs for ladder 33 / engine 34 / Station 2 captain assignment."
+      "investigative_direction": "Obtain original Provo/Orem dispatch recordings and unit logs for ladder 33 / engine 34 / Station 2 captain assignment.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1403,15 +1418,17 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-16",
-        "N-435",
-        "N-434",
-        "N-342",
         "N-2329"
       ],
       "tags": [],
       "claim_timestamp": "00:35:11",
-      "investigative_direction": "Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata."
+      "investigative_direction": "Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-342",
+        "N-434",
+        "N-435"
+      ]
     },
     {
       "@type": "Claim",
@@ -1423,17 +1440,19 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-244",
-        "N-230",
-        "N-35",
         "N-1395",
-        "N-2368",
-        "N-5",
-        "N-120"
+        "N-2368"
       ],
       "tags": [],
       "claim_timestamp": "00:40:26",
-      "investigative_direction": "Verify Andre identity, death circumstances, and BBC reporting; document Lutnick's public statements on Epstein island visits."
+      "investigative_direction": "Verify Andre identity, death circumstances, and BBC reporting; document Lutnick's public statements on Epstein island visits.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-35",
+        "N-120",
+        "N-230",
+        "N-244"
+      ]
     },
     {
       "@type": "Claim",
@@ -1445,15 +1464,17 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-244",
-        "N-230",
-        "N-35",
         "N-2368",
         "N-1395"
       ],
       "tags": [],
       "claim_timestamp": "00:41:13",
-      "investigative_direction": "Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status."
+      "investigative_direction": "Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-230",
+        "N-244"
+      ]
     },
     {
       "@type": "Claim",
@@ -1465,13 +1486,15 @@
         "A-2479.1"
       ],
       "related_nodes": [
-        "N-250",
-        "N-279",
         "N-2369"
       ],
       "tags": [],
       "claim_timestamp": "00:45:05",
-      "investigative_direction": "Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark."
+      "investigative_direction": "Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.",
+      "mentions_person_refs": [
+        "N-250",
+        "N-279"
+      ]
     },
     {
       "@type": "Claim",
@@ -1483,13 +1506,15 @@
         "A-2480.1"
       ],
       "related_nodes": [
-        "N-552",
-        "N-3",
         "N-2370"
       ],
       "tags": [],
       "claim_timestamp": "00:47:22",
-      "investigative_direction": "Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging."
+      "investigative_direction": "Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-552"
+      ]
     }
   ],
   "memes": []

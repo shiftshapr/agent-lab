@@ -713,13 +713,15 @@
         "A-1568.1"
       ],
       "related_nodes": [
-        "N-443",
-        "N-1",
         "N-1447"
       ],
       "tags": [],
       "claim_timestamp": "00:04:47",
-      "investigative_direction": "Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases."
+      "investigative_direction": "Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -730,13 +732,14 @@
       "anchored_artifacts": [
         "A-1568.1"
       ],
-      "related_nodes": [
-        "N-443",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:47",
-      "investigative_direction": "Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance."
+      "investigative_direction": "Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -748,12 +751,14 @@
         "A-1569.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1447"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",
-      "investigative_direction": "Identify the reporter and outlet, obtain the original broadcast segment, and verify the timeline of when the tent replica was displayed."
+      "investigative_direction": "Identify the reporter and outlet, obtain the original broadcast segment, and verify the timeline of when the tent replica was displayed.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -764,12 +769,13 @@
       "anchored_artifacts": [
         "A-1568.2"
       ],
-      "related_nodes": [
-        "N-443"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:17",
-      "investigative_direction": "Verify the segment against the source recording and identify which text leaks are being referenced."
+      "investigative_direction": "Verify the segment against the source recording and identify which text leaks are being referenced.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -780,12 +786,13 @@
       "anchored_artifacts": [
         "A-1568.3"
       ],
-      "related_nodes": [
-        "N-443"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:38",
-      "investigative_direction": "Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact."
+      "investigative_direction": "Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -797,15 +804,17 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-444",
-        "N-614",
-        "N-2",
-        "N-1",
         "N-1448"
       ],
       "tags": [],
       "claim_timestamp": "00:17:33",
-      "investigative_direction": "Verify the spelling \"Cosgrove\" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content."
+      "investigative_direction": "Verify the spelling \"Cosgrove\" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-444",
+        "N-614"
+      ]
     },
     {
       "@type": "Claim",
@@ -816,13 +825,14 @@
       "anchored_artifacts": [
         "A-1571.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-621"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:58",
-      "investigative_direction": "Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published."
+      "investigative_direction": "Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-621"
+      ]
     },
     {
       "@type": "Claim",
@@ -833,12 +843,13 @@
       "anchored_artifacts": [
         "A-1572.1"
       ],
-      "related_nodes": [
-        "N-128"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:44",
-      "investigative_direction": "Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement."
+      "investigative_direction": "Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.",
+      "mentions_person_refs": [
+        "N-128"
+      ]
     },
     {
       "@type": "Claim",
@@ -850,14 +861,16 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-618",
-        "N-42",
-        "N-2",
         "N-1451"
       ],
       "tags": [],
       "claim_timestamp": "00:48:18",
-      "investigative_direction": "Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody."
+      "investigative_direction": "Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-42",
+        "N-618"
+      ]
     },
     {
       "@type": "Claim",
@@ -869,13 +882,15 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-597",
-        "N-424",
         "N-1446"
       ],
       "tags": [],
       "claim_timestamp": "00:45:37",
-      "investigative_direction": "Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account."
+      "investigative_direction": "Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -887,12 +902,14 @@
         "A-1575.1"
       ],
       "related_nodes": [
-        "N-631",
         "N-1450"
       ],
       "tags": [],
       "claim_timestamp": "00:30:51",
-      "investigative_direction": "Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date."
+      "investigative_direction": "Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.",
+      "mentions_person_refs": [
+        "N-631"
+      ]
     },
     {
       "@type": "Claim",
@@ -904,12 +921,14 @@
         "A-1576.1"
       ],
       "related_nodes": [
-        "N-1447",
-        "N-1"
+        "N-1447"
       ],
       "tags": [],
       "claim_timestamp": "01:07:04",
-      "investigative_direction": "Verify the comment against the original top-comments thread and identify the commenter's account."
+      "investigative_direction": "Verify the comment against the original top-comments thread and identify the commenter's account.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,12 +940,14 @@
         "A-1576.2"
       ],
       "related_nodes": [
-        "N-618",
         "N-1446"
       ],
       "tags": [],
       "claim_timestamp": "01:08:04",
-      "investigative_direction": "Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism."
+      "investigative_direction": "Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.",
+      "mentions_person_refs": [
+        "N-618"
+      ]
     },
     {
       "@type": "Claim",
@@ -938,13 +959,15 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-618",
         "N-1449"
       ],
       "tags": [],
       "claim_timestamp": "00:49:10",
-      "investigative_direction": "Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the \"rogue\" narrative was authorized at higher TPUSA levels."
+      "investigative_direction": "Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the \"rogue\" narrative was authorized at higher TPUSA levels.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-618"
+      ]
     }
   ],
   "memes": []

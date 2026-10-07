@@ -372,8 +372,8 @@ Claim Timestamp: 00:07:27
 Claim: Host states that Jaco Booyens and Erica Kirk can confirm the text message to Charlie Kirk is real.
 
 Anchored Artifacts: A-1669.1
+Mentions: N-1, N-2, N-782
 
-Related Nodes: N-782, N-2, N-1
 
 Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host.
 
@@ -386,8 +386,8 @@ Claim Timestamp: 00:12:31
 Claim: Lyle Reems was indicted in 1998 for sexual conduct with a minor under the age of 15; he was approximately 41 at the time.
 
 Anchored Artifacts: A-1670.1
+Mentions: N-785
 
-Related Nodes: N-785
 
 Investigative Direction: Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details.
 
@@ -400,8 +400,8 @@ Claim Timestamp: 00:12:31
 Claim: The case against Lyle Reems made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.
 
 Anchored Artifacts: A-1670.2
+Mentions: N-785
 
-Related Nodes: N-785
 
 Investigative Direction: Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility.
 
@@ -414,8 +414,9 @@ Claim Timestamp: 00:13:25
 Claim: In 2017, Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle Reems, and Shelly Reems filed to open a business called Desert Spirit Tech LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.
 
 Anchored Artifacts: A-1671.1, A-1672.1
+Mentions: N-639, N-783, N-785, N-786
 
-Related Nodes: N-783, N-639, N-785, N-786, N-1511, N-1513
+Related Nodes: N-1511, N-1513
 
 Investigative Direction: Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.
 
@@ -428,8 +429,9 @@ Claim Timestamp: 00:16:12
 Claim: The statutory public notice for Desert Spirit Tech LLC was issued in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
 
 Anchored Artifacts: A-1671.2
+Mentions: N-639, N-783
 
-Related Nodes: N-783, N-639, N-1511
+Related Nodes: N-1511
 
 Investigative Direction: Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.
 
@@ -442,8 +444,8 @@ Claim Timestamp: 00:21:30
 Claim: On September 25, 2018, Tyler Bowyer posted that TPUSA "runs everything like a military op" and that "all of our people are from that background."
 
 Anchored Artifacts: A-1673.1
+Mentions: N-37, N-70
 
-Related Nodes: N-70, N-37
 
 Investigative Direction: Retrieve the original post from X/Twitter (including any deletions or edits) and identify which "background" Bowyer was referencing.
 
@@ -456,8 +458,9 @@ Claim Timestamp: 00:26:45
 Claim: A TPUSA employee was terminated by general counsel "Frank" with no specific explanation, repeatedly told only that the organization is "going in a different direction with the team," after working 80–90 hour weeks through AmFest and the period following Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1674.1
+Mentions: N-42, N-790
 
-Related Nodes: N-42, N-790, N-1510
+Related Nodes: N-1510
 
 Investigative Direction: Obtain the termination documentation referenced in the audio ("email with social security and links" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.
 
@@ -470,8 +473,9 @@ Claim Timestamp: 00:27:24
 Claim: The terminated employee stated in the recorded termination meeting that she had worked "80, 90-hour weeks plus for AmFest" without direction or explanation upon return.
 
 Anchored Artifacts: A-1674.1
+Mentions: N-790
 
-Related Nodes: N-790, N-1510
+Related Nodes: N-1510
 
 Investigative Direction: Cross-check time-tracking or HR records to verify hours worked.
 
@@ -484,8 +488,9 @@ Claim Timestamp: 00:28:48
 Claim: The terminated employee stated she had "never had one bad review from Dylan" and "never had one issue with the company."
 
 Anchored Artifacts: A-1674.1
+Mentions: N-790
 
-Related Nodes: N-790, N-1510
+Related Nodes: N-1510
 
 Investigative Direction: Obtain HR personnel file to confirm or refute the absence of any prior negative review.
 
@@ -498,8 +503,9 @@ Claim Timestamp: 00:22:28
 Claim: Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver stated his daughter knew a TPUSA employee who "doesn't like stuff that's going on at the company."
 
 Anchored Artifacts: A-1675.1
+Mentions: N-42, N-789
 
-Related Nodes: N-42, N-789, N-1510
+Related Nodes: N-1510
 
 Investigative Direction: Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.
 
@@ -512,8 +518,9 @@ Claim Timestamp: 00:32:06
 Claim: Marina Minas allegedly received non-stop calls from an unrecognized number while on a Zoom meeting, and upon answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with warning that deletions would be detected).
 
 Anchored Artifacts: A-1675.2
+Mentions: N-789, N-790
 
-Related Nodes: N-789, N-790, N-1510
+Related Nodes: N-1510
 
 Investigative Direction: Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.
 

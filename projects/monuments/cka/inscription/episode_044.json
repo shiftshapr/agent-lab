@@ -694,13 +694,15 @@
         "A-1521.1"
       ],
       "related_nodes": [
-        "N-516",
-        "N-526",
         "N-1399"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09–00:11:14",
-      "investigative_direction": "Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment."
+      "investigative_direction": "Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.",
+      "mentions_person_refs": [
+        "N-516",
+        "N-526"
+      ]
     },
     {
       "@type": "Claim",
@@ -712,13 +714,15 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-516",
-        "N-526",
         "N-1399"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44–00:09:29",
-      "investigative_direction": "FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence."
+      "investigative_direction": "FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence.",
+      "mentions_person_refs": [
+        "N-516",
+        "N-526"
+      ]
     },
     {
       "@type": "Claim",
@@ -730,12 +734,13 @@
         "A-1519.1",
         "A-1519.5"
       ],
-      "related_nodes": [
-        "N-516"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:49",
-      "investigative_direction": "Obtain copy of the NDA via FOIA or congressional inquiry; verify dates and signatories."
+      "investigative_direction": "Obtain copy of the NDA via FOIA or congressional inquiry; verify dates and signatories.",
+      "mentions_person_refs": [
+        "N-516"
+      ]
     },
     {
       "@type": "Claim",
@@ -747,12 +752,13 @@
         "A-1519.1",
         "A-1519.5"
       ],
-      "related_nodes": [
-        "N-516"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:14–00:13:49",
-      "investigative_direction": "Obtain Harry's DD-214, military personnel file, and award writeups through appropriate channels."
+      "investigative_direction": "Obtain Harry's DD-214, military personnel file, and award writeups through appropriate channels.",
+      "mentions_person_refs": [
+        "N-516"
+      ]
     },
     {
       "@type": "Claim",
@@ -765,12 +771,14 @@
         "A-1519.4"
       ],
       "related_nodes": [
-        "N-516",
         "N-1397"
       ],
       "tags": [],
       "claim_timestamp": "00:16:14–00:17:28",
-      "investigative_direction": "Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records."
+      "investigative_direction": "Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records.",
+      "mentions_person_refs": [
+        "N-516"
+      ]
     },
     {
       "@type": "Claim",
@@ -782,12 +790,14 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-516",
         "N-1397"
       ],
       "tags": [],
       "claim_timestamp": "00:18:57–00:20:14",
-      "investigative_direction": "Cross-reference base access logs and incident report 861-1-2025-MPC446."
+      "investigative_direction": "Cross-reference base access logs and incident report 861-1-2025-MPC446.",
+      "mentions_person_refs": [
+        "N-516"
+      ]
     },
     {
       "@type": "Claim",
@@ -799,12 +809,14 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-516",
         "N-1397"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:34:46",
-      "investigative_direction": "Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs."
+      "investigative_direction": "Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.",
+      "mentions_person_refs": [
+        "N-516"
+      ]
     },
     {
       "@type": "Claim",
@@ -816,13 +828,15 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-516",
-        "N-424",
         "N-1400"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:22:18",
-      "investigative_direction": "FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025."
+      "investigative_direction": "FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-516"
+      ]
     },
     {
       "@type": "Claim",
@@ -834,14 +848,16 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-516",
-        "N-518",
-        "N-1397",
-        "N-224"
+        "N-1397"
       ],
       "tags": [],
       "claim_timestamp": "00:22:18–00:24:56",
-      "investigative_direction": "FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster."
+      "investigative_direction": "FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.",
+      "mentions_person_refs": [
+        "N-224",
+        "N-516",
+        "N-518"
+      ]
     },
     {
       "@type": "Claim",
@@ -853,13 +869,15 @@
         "A-1519.3"
       ],
       "related_nodes": [
-        "N-516",
-        "N-518",
         "N-1398"
       ],
       "tags": [],
       "claim_timestamp": "00:28:13",
-      "investigative_direction": "File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446."
+      "investigative_direction": "File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446.",
+      "mentions_person_refs": [
+        "N-516",
+        "N-518"
+      ]
     },
     {
       "@type": "Claim",
@@ -870,12 +888,13 @@
       "anchored_artifacts": [
         "A-1522.1"
       ],
-      "related_nodes": [
-        "N-500"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:20–00:36:24",
-      "investigative_direction": "Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation."
+      "investigative_direction": "Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation.",
+      "mentions_person_refs": [
+        "N-500"
+      ]
     },
     {
       "@type": "Claim",
@@ -886,12 +905,13 @@
       "anchored_artifacts": [
         "A-1522.1"
       ],
-      "related_nodes": [
-        "N-500"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:20–00:36:24",
-      "investigative_direction": "Verify biographical details against public records and prior reporting on Gaydamak."
+      "investigative_direction": "Verify biographical details against public records and prior reporting on Gaydamak.",
+      "mentions_person_refs": [
+        "N-500"
+      ]
     },
     {
       "@type": "Claim",
@@ -903,13 +923,15 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-500",
-        "N-522",
         "N-1401"
       ],
       "tags": [],
       "claim_timestamp": "00:35:46–00:40:46",
-      "investigative_direction": "Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation."
+      "investigative_direction": "Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-522"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,16 +943,18 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-522",
-        "N-523",
-        "N-524",
-        "N-525",
         "N-1401",
         "N-1402"
       ],
       "tags": [],
       "claim_timestamp": "00:36:24–00:40:46",
-      "investigative_direction": "Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications."
+      "investigative_direction": "Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.",
+      "mentions_person_refs": [
+        "N-522",
+        "N-523",
+        "N-524",
+        "N-525"
+      ]
     },
     {
       "@type": "Claim",
@@ -941,12 +965,13 @@
       "anchored_artifacts": [
         "A-1524.1"
       ],
-      "related_nodes": [
-        "N-426"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:41–00:44:11",
-      "investigative_direction": "Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored."
+      "investigative_direction": "Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.",
+      "mentions_person_refs": [
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,12 +982,13 @@
       "anchored_artifacts": [
         "A-1524.1"
       ],
-      "related_nodes": [
-        "N-426"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:32–00:44:11",
-      "investigative_direction": "Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home."
+      "investigative_direction": "Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.",
+      "mentions_person_refs": [
+        "N-426"
+      ]
     }
   ],
   "memes": []

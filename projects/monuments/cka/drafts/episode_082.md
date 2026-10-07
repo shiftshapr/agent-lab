@@ -315,8 +315,9 @@ Claim Timestamp: 00:09:34
 Claim: Per an unverified source tip received by the host, Erica Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.
 
 Anchored Artifacts: A-1886.1, A-1886.2, A-1886.3
+Mentions: N-2
 
-Related Nodes: N-2, N-1212, N-1626, N-1628
+Related Nodes: N-1212, N-1626, N-1628
 
 Investigative Direction: Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.
 
@@ -399,8 +400,9 @@ Claim Timestamp: 00:39:16
 Claim: Per the host, the N40JD plane, registered to Jason Knupp (identified by host as chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
 
 Anchored Artifacts: A-1894.1
+Mentions: N-2
 
-Related Nodes: N-1211, N-1631, N-2
+Related Nodes: N-1211, N-1631
 
 Investigative Direction: Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.
 

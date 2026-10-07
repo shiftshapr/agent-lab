@@ -607,7 +607,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:30
 Claim: Brian Herpolsheimer stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
 Anchored Artifacts: A-1596.1
-Related Nodes: N-424
+Mentions: N-424
 Investigative Direction: Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---
@@ -617,7 +617,8 @@ Investigative Direction: Obtain the full Sean Ryan interview transcript and any 
 Claim Timestamp: 00:12:58
 Claim: Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.
 Anchored Artifacts: A-1597.1
-Related Nodes: N-70, N-1472, N-37
+Mentions: N-37, N-70
+Related Nodes: N-1472
 Investigative Direction: Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.
 
 ---
@@ -627,7 +628,8 @@ Investigative Direction: Obtain the original Instagram post (including screensho
 Claim Timestamp: 00:35:05
 Claim: Per ABC News report, the Liberty Godparent Home maternity home was founded by Jerry Falwell Sr. in the 1980s as part of a pro-life ministry at Thomas Road Baptist Church.
 Anchored Artifacts: A-1598.1
-Related Nodes: N-653, N-660, N-661, N-1463
+Mentions: N-653, N-660, N-661
+Related Nodes: N-1463
 Investigative Direction: Pull original Liberty Godparent Home founding documents and Thomas Road Baptist Church charter materials to confirm founding date and affiliation.
 
 ---
@@ -647,7 +649,8 @@ Investigative Direction: Request the cited city records from Lynchburg, Virginia
 Claim Timestamp: 00:55:11
 Claim: Per the 1997 Washington Post article on the Unification Church, Moon-affiliated entities bailed out Jerry Falwell's "foundering" Liberty University.
 Anchored Artifacts: A-1599.2
-Related Nodes: N-653, N-654, N-1464
+Mentions: N-653, N-654
+Related Nodes: N-1464
 Investigative Direction: Obtain the full 1997 Washington Post article, identify the named entities, and cross-reference against SEC and IRS filings for the named foundations.
 
 ---
@@ -657,7 +660,8 @@ Investigative Direction: Obtain the full 1997 Washington Post article, identify 
 Claim Timestamp: 01:06:32
 Claim: Per the 1997 Washington Post article, the Women's Federation made a $3.5 million grant to the Christian Heritage Foundation in 1995, which later brought a portion of Liberty University's debt.
 Anchored Artifacts: A-1599.3
-Related Nodes: N-653, N-654, N-1464
+Mentions: N-653, N-654
+Related Nodes: N-1464
 Investigative Direction: Verify the $3.5M grant in 1995 IRS Form 990 filings for both the Women's Federation and the Christian Heritage Foundation; identify the recipient of the funds.
 
 ---
@@ -667,7 +671,8 @@ Investigative Direction: Verify the $3.5M grant in 1995 IRS Form 990 filings for
 Claim Timestamp: 01:06:32
 Claim: Per the 1997 Washington Post article, New World Communications (parent of the Washington Times) lent $400,000 to Liberty University at 6% interest per a promissory note.
 Anchored Artifacts: A-1599.4
-Related Nodes: N-653, N-654, N-1464
+Mentions: N-653, N-654
+Related Nodes: N-1464
 Investigative Direction: Obtain the promissory note referenced in the article and cross-reference against Liberty University financial disclosures from 1996–1997.
 
 ---
@@ -677,7 +682,8 @@ Investigative Direction: Obtain the promissory note referenced in the article an
 Claim Timestamp: 01:02:19
 Claim: Per the 1997 Washington Post article, a 1978 congressional investigation concluded that the Unification Church and other religious and secular organizations headed by Sun Moon constitute essentially one international organization that moved money freely among its entities.
 Anchored Artifacts: A-1599.5
-Related Nodes: N-654, N-1470
+Mentions: N-654
+Related Nodes: N-1470
 Investigative Direction: Locate the 1978 House/Senate committee report on Moon organizations and verify the quoted conclusion verbatim.
 
 ---
@@ -687,7 +693,8 @@ Investigative Direction: Locate the 1978 House/Senate committee report on Moon o
 Claim Timestamp: 00:52:37
 Claim: Per the 1997 Washington Post article, the Unification Church's Washington-area investments exceed $300 million in commercial, political, and cultural enterprises.
 Anchored Artifacts: A-1599.1
-Related Nodes: N-654, N-1470
+Mentions: N-654
+Related Nodes: N-1470
 Investigative Direction: Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties.
 
 ---
@@ -697,7 +704,8 @@ Investigative Direction: Cross-reference the $300M estimate against corporate pr
 Claim Timestamp: 01:04:00
 Claim: Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zillioux), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.
 Anchored Artifacts: A-1599.6
-Related Nodes: N-654, N-1470
+Mentions: N-654
+Related Nodes: N-1470
 Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures.
 
 ---
@@ -707,7 +715,8 @@ Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern E
 Claim Timestamp: 01:05:41
 Claim: Per the 1997 Washington Post article, Unificationists provided approximately $5 million and personnel to the American Freedom Coalition, which built popular support for Colonel Oliver North during the Iran-Contra probe.
 Anchored Artifacts: A-1599.7
-Related Nodes: N-654, N-690, N-1470
+Mentions: N-654, N-690
+Related Nodes: N-1470
 Investigative Direction: Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.
 
 ---
@@ -717,7 +726,8 @@ Investigative Direction: Cross-reference against contemporaneous Iran-Contra inv
 Claim Timestamp: 01:04:49
 Claim: Per the 1997 Washington Post article, Japan (not Korea) provides the bulk of Unification Church wealth, estimated at as much as 70% by church observers.
 Anchored Artifacts: A-1599.8
-Related Nodes: N-654, N-1470
+Mentions: N-654
+Related Nodes: N-1470
 Investigative Direction: Identify the named "church observers" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities.
 
 ---
@@ -727,7 +737,8 @@ Investigative Direction: Identify the named "church observers" and the methodolo
 Claim Timestamp: 00:43:30
 Claim: Per an email tip citing *The Israel Lobby* by John Mearsheimer, the Israeli government gave Jerry Falwell Sr. a $2 million jet in 1979 (~$10 million inflation-adjusted), described as seeking evangelical support.
 Anchored Artifacts: A-1601.1
-Related Nodes: N-653, N-655, N-659, N-1464
+Mentions: N-653, N-655, N-659
+Related Nodes: N-1464
 Investigative Direction: Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition.
 
 ---
@@ -737,7 +748,8 @@ Investigative Direction: Locate the cited passage in *The Israel Lobby* (Mearshe
 Claim Timestamp: 00:48:22
 Claim: Per an email tip, Sun Myung Moon and his Unification Church organizations (including CAUSA and The Washington Times) assisted the CIA in Iran-Contra efforts and later bailed out Liberty University in the mid-1990s for approximately $20–40 million.
 Anchored Artifacts: A-1602.1
-Related Nodes: N-654, N-1464, N-1470
+Mentions: N-654
+Related Nodes: N-1464, N-1470
 Investigative Direction: Verify the $20–40 million figure against Liberty University financial disclosures, the Christian Heritage Foundation 990s, and contemporaneous reporting in The Washington Times itself.
 
 ---
@@ -747,7 +759,8 @@ Investigative Direction: Verify the $20–40 million figure against Liberty Univ
 Claim Timestamp: 01:09:02
 Claim: Per Korean Herald, Pastor Yoon Bo-seon was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.
 Anchored Artifacts: A-1603.1
-Related Nodes: N-657, N-1468
+Mentions: N-657
+Related Nodes: N-1468
 Investigative Direction: Obtain Korean court records and primary Korean-language press coverage to verify the arrest date, the specific statutes cited, and the current status of the case.
 
 ---
@@ -757,7 +770,8 @@ Investigative Direction: Obtain Korean court records and primary Korean-language
 Claim Timestamp: 01:10:00
 Claim: Per CBN News clip, Chan Yoon (son of Pastor Yoon Bo-seon) stated that his father was arrested two days after meeting Charlie Kirk in Seoul at the Build Up Korea conference.
 Anchored Artifacts: A-1600.1
-Related Nodes: N-657, N-658, N-1468
+Mentions: N-657, N-658
+Related Nodes: N-1468
 Investigative Direction: Cross-reference the conference attendance records (Build Up Korea, September 4–5) against the arrest warrant timestamp; verify whether the father's meeting with Kirk is documented by other conference attendees.
 
 ---
@@ -767,7 +781,8 @@ Investigative Direction: Cross-reference the conference attendance records (Buil
 Claim Timestamp: 00:24:36
 Claim: Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day with no visitors allowed (other than via collect calls or pay phone) when she was a resident circa 1994.
 Anchored Artifacts: A-1604.1
-Related Nodes: N-662, N-1463
+Mentions: N-662
+Related Nodes: N-1463
 Investigative Direction: Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abby Johnson and others) and any internal Godparent Home policies from the 1990s.
 
 ---
@@ -777,7 +792,8 @@ Investigative Direction: Cross-reference against the *Liberty Lost* podcast test
 Claim Timestamp: 00:29:47
 Claim: Per the recorded phone call, residents of the Liberty Godparent Home were pressured and coerced to place their babies for adoption, with adoption-folder selections presented under time pressure.
 Anchored Artifacts: A-1604.1
-Related Nodes: N-662, N-1463
+Mentions: N-662
+Related Nodes: N-1463
 Investigative Direction: Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period.
 
 ---
@@ -787,7 +803,8 @@ Investigative Direction: Cross-reference against the ABC News report (A-1598.1),
 Claim Timestamp: 00:44:18
 Claim: Per host's citation of Rolling Stone, Jerry Falwell Sr.'s father Carey Hezekiah was a bootlegger, smuggler, and trafficker who shot his brother Garland dead following a fight.
 Anchored Artifacts: A-1605.1
-Related Nodes: N-653, N-656, N-1471
+Mentions: N-653, N-656
+Related Nodes: N-1471
 Investigative Direction: Locate the cited Rolling Stone article and confirm the specific incident, including Garland's full name and any court records from Virginia.
 
 ---
@@ -797,7 +814,8 @@ Investigative Direction: Locate the cited Rolling Stone article and confirm the 
 Claim Timestamp: 00:46:39
 Claim: Per host's citation of Forbes, Carey Hezekiah once threw a man into a bear cage after an argument at one of his restaurants.
 Anchored Artifacts: A-1606.1
-Related Nodes: N-653, N-656, N-1471
+Mentions: N-653, N-656
+Related Nodes: N-1471
 Investigative Direction: Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.
 
 ---
@@ -807,7 +825,8 @@ Investigative Direction: Locate the cited Forbes article and any contemporaneous
 Claim Timestamp: 01:11:09
 Claim: Per Korean Herald, Pastor Yoon Bo-seon shouted during a protest that "Lee Jae-myung has to die for Korea to live" and stated the state is "the same as Hitler and the Nazis."
 Anchored Artifacts: A-1603.1
-Related Nodes: N-657, N-694, N-1468
+Mentions: N-657, N-694
+Related Nodes: N-1468
 Investigative Direction: Verify the exact quote and context against the primary Korean-language reporting and any video of the protest.
 
 ---

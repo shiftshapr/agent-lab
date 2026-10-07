@@ -436,8 +436,9 @@ Claim Timestamp: 00:17:46–00:18:30
 Claim: An FBI press release dated December 5, 2024 includes Director Christopher Wray emphasizing "key partners" and describing partnerships as closer than 5 or 10 years prior.
 
 Anchored Artifacts: A-1440.1
+Mentions: N-423
 
-Related Nodes: N-423, N-1336
+Related Nodes: N-1336
 
 Investigative Direction: Locate and review the FBI press release directly; verify quoted phrases and date.
 
@@ -450,8 +451,9 @@ Claim Timestamp: 00:31:42–00:32:39
 Claim: Frank Turk, on the Megan Kelly Show, stated that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage during the drive-in.
 
 Anchored Artifacts: A-1441.1
+Mentions: N-16
 
-Related Nodes: N-16, N-1338
+Related Nodes: N-1338
 
 Investigative Direction: Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording.
 
@@ -464,8 +466,9 @@ Claim Timestamp: 00:30:52–00:31:42
 Claim: Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he "wasn't allowed to have drones."
 
 Anchored Artifacts: A-1442.1
+Mentions: N-424
 
-Related Nodes: N-424, N-1338
+Related Nodes: N-1338
 
 Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.
 
@@ -478,8 +481,8 @@ Claim Timestamp: 00:33:46–00:36:45
 Claim: Brian Harpole, on the Shawn Ryan interview, repeated the bullet-trajectory description involving entry, C6 vertebra crush, and 3,000 lbs of energy.
 
 Anchored Artifacts: A-1442.2
+Mentions: N-424
 
-Related Nodes: N-424
 
 Investigative Direction: Obtain the full interview clip; confirm exact wording and timestamps.
 
@@ -492,8 +495,8 @@ Claim Timestamp: 00:42:03–00:44:03
 Claim: Tim Pool stated in a video that the narrative from the number one podcast had turned into "conspiracy drama about Charlie Kirk if Turning Point was involved in it," with references to "Jewish donors pulling out" and "Erika knew everything."
 
 Anchored Artifacts: A-1444.1
+Mentions: N-2, N-426
 
-Related Nodes: N-426, N-2
 
 Investigative Direction: Locate Tim Pool's original video and timestamp the quoted language.
 
@@ -506,8 +509,9 @@ Claim Timestamp: 00:44:03–00:44:52
 Claim: Tim Pool stated in a video that he had been told he couldn't come to AmFest, speculating it might be due to his statements on funding Israel and giving money to Ukraine.
 
 Anchored Artifacts: A-1444.2
+Mentions: N-426
 
-Related Nodes: N-426, N-1339
+Related Nodes: N-1339
 
 Investigative Direction: Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.
 
@@ -520,8 +524,8 @@ Claim Timestamp: 00:36:19–00:41:35
 Claim: On The Joe Rogan Experience, Joe Rogan and Theo Von stated that conspiracies are real, common, and especially effective when conducted by people in positions of extreme power running intelligence agencies.
 
 Anchored Artifacts: A-1443.1
+Mentions: N-205, N-427
 
-Related Nodes: N-427, N-205
 
 Investigative Direction: Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.
 

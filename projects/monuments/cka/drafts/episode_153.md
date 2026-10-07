@@ -338,7 +338,7 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 Claim Timestamp: 00:08:00
 Claim: Brian Harpole presented on the Shawn Ryan show that the security team included combat-proven Marines, SEALs, 22-year SWAT veterans, 30-year cop and SWAT commander, and world-renowned jiu-jitsu practitioners.
 Anchored Artifacts: A-2386.1
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.
 
 ---
@@ -348,7 +348,7 @@ Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Ha
 Claim Timestamp: 00:06:24
 Claim: Charlie Kirk had a total of 12 security members at the UVU event.
 Anchored Artifacts: A-2386.1
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Compare against TPUSA's security manifest and the eventual independent review findings.
 
 ---
@@ -518,7 +518,7 @@ Investigative Direction: Verify against UVU PD staffing rosters and Utah public-
 Claim Timestamp: 00:16:22
 Claim: On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" — clearly a transcription error for 2025.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-30, N-1
+Mentions: N-1, N-30
 Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA event-planning emails.
 
 ---
@@ -528,7 +528,8 @@ Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA eve
 Claim Timestamp: 00:22:26
 Claim: UVU's state-certified emergency medical services were present beside the vehicle with medical bags.
 Anchored Artifacts: A-2384.1 (read on air in filing context)
-Related Nodes: N-1, N-2328
+Mentions: N-1
+Related Nodes: N-2328
 Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous dispatch logs.
 
 ---
@@ -548,7 +549,7 @@ Investigative Direction: Monitor UVU press releases and the Utah Attorney Genera
 Claim Timestamp: 00:18:53
 Claim: Members of Charlie's security team arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Compare against UVU PD visitor logs and hotel / travel records of the security detail.
 
 ---
@@ -578,7 +579,9 @@ Investigative Direction: Verify ticket-sales authority and UVU event-permit cond
 Claim Timestamp: 00:34:25
 Claim: The notice of claim concludes that "the UVU party's omissions, actions and misconduct led to Mr. Kirk's death" and asserts both a state-created danger claim under the U.S. Constitution's due process clause and a traditional wrongful death claim under Utah law.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-2323, N-1
+Mentions: N-1
+Contradicts: C-3494
+Related Nodes: N-2323
 Investigative Direction: Track subsequent civil complaint filings with the Utah Attorney General's office.
 
 ---

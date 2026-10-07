@@ -758,12 +758,14 @@
         "A-1440.1"
       ],
       "related_nodes": [
-        "N-423",
         "N-1336"
       ],
       "tags": [],
       "claim_timestamp": "00:17:46–00:18:30",
-      "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date."
+      "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date.",
+      "mentions_person_refs": [
+        "N-423"
+      ]
     },
     {
       "@type": "Claim",
@@ -775,12 +777,14 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-16",
         "N-1338"
       ],
       "tags": [],
       "claim_timestamp": "00:31:42–00:32:39",
-      "investigative_direction": "Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording."
+      "investigative_direction": "Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -792,12 +796,14 @@
         "A-1442.1"
       ],
       "related_nodes": [
-        "N-424",
         "N-1338"
       ],
       "tags": [],
       "claim_timestamp": "00:30:52–00:31:42",
-      "investigative_direction": "Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording."
+      "investigative_direction": "Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -808,12 +814,13 @@
       "anchored_artifacts": [
         "A-1442.2"
       ],
-      "related_nodes": [
-        "N-424"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:46–00:36:45",
-      "investigative_direction": "Obtain the full interview clip; confirm exact wording and timestamps."
+      "investigative_direction": "Obtain the full interview clip; confirm exact wording and timestamps.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -824,13 +831,14 @@
       "anchored_artifacts": [
         "A-1444.1"
       ],
-      "related_nodes": [
-        "N-426",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:03–00:44:03",
-      "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language."
+      "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -842,12 +850,14 @@
         "A-1444.2"
       ],
       "related_nodes": [
-        "N-426",
         "N-1339"
       ],
       "tags": [],
       "claim_timestamp": "00:44:03–00:44:52",
-      "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language."
+      "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.",
+      "mentions_person_refs": [
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -858,13 +868,14 @@
       "anchored_artifacts": [
         "A-1443.1"
       ],
-      "related_nodes": [
-        "N-427",
-        "N-205"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:19–00:41:35",
-      "investigative_direction": "Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment."
+      "investigative_direction": "Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.",
+      "mentions_person_refs": [
+        "N-205",
+        "N-427"
+      ]
     }
   ],
   "memes": []

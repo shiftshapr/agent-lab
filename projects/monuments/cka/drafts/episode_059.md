@@ -569,8 +569,9 @@ Claim Timestamp: 00:06:38
 Claim: The displayed profile of Robert Eugene Flood identifies him as Chief Deputy with 33 years of service at the Texas A&M University Police Department.
 
 Anchored Artifacts: A-1643.1
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through Texas A&M University Police Department public records or alumni directories.
 
@@ -583,8 +584,9 @@ Claim Timestamp: 00:06:38
 Claim: The displayed profile caption states Robert Flood retired after 35 years of law enforcement service in Illinois and Texas.
 
 Anchored Artifacts: A-1643.1
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through official retirement records and state police licensing databases.
 
@@ -597,8 +599,9 @@ Claim Timestamp: 00:06:38
 Claim: The displayed profile states Robert Flood's final assignment was with the Bosque County, Texas Sheriff's Office.
 
 Anchored Artifacts: A-1643.1
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through Bosque County Sheriff's Office public records.
 
@@ -611,8 +614,9 @@ Claim Timestamp: 00:07:23
 Claim: Robert Flood's LinkedIn profile lists graduation from the FBI National Academy.
 
 Anchored Artifacts: A-1643.2
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through FBI National Academy alumni records.
 
@@ -625,8 +629,9 @@ Claim Timestamp: 00:07:23
 Claim: Robert Flood's LinkedIn profile lists Marine staff sergeant service with responsibilities in surveillance, target acquisition, small arms/weapons, tactical radio communications, and aviation ordnance.
 
 Anchored Artifacts: A-1643.2
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through military service records.
 
@@ -639,8 +644,9 @@ Claim Timestamp: 00:07:23
 Claim: Robert Flood's LinkedIn profile lists over a decade of employment in Franklin Park, Illinois, in roles including crime scene technician, SWAT team leader, patrol division supervisor, and criminal investigator.
 
 Anchored Artifacts: A-1643.2
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.
 
@@ -653,8 +659,9 @@ Claim Timestamp: 00:08:36
 Claim: Robert Flood's LinkedIn profile lists lieutenant colonel rank in the Army Reserve.
 
 Anchored Artifacts: A-1643.2
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through Army Reserve official records.
 
@@ -667,8 +674,9 @@ Claim Timestamp: 00:10:23
 Claim: Robert Flood's LinkedIn profile lists membership in the FBI Agent Association.
 
 Anchored Artifacts: A-1643.2
+Mentions: N-748
 
-Related Nodes: N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through FBIA membership rolls.
 
@@ -681,8 +689,9 @@ Claim Timestamp: 00:10:23
 Claim: Host states that both of Dan Flood's mother and father are from Illinois, in the same area Charlie Kirk grew up.
 
 Anchored Artifacts: A-1643.1
+Mentions: N-434, N-748
 
-Related Nodes: N-434, N-748, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.
 
@@ -695,8 +704,9 @@ Claim Timestamp: 00:13:36
 Claim: A social media post from a self-identified childhood friend states he attended middle and high school with Dan Flood in Allen, Texas.
 
 Anchored Artifacts: A-1644.1
+Mentions: N-434
 
-Related Nodes: N-434, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through Allen Independent School District alumni records and the social media poster's identity.
 
@@ -709,8 +719,9 @@ Claim Timestamp: 00:12:43
 Claim: Host states it as a confirmable fact that Dan Flood lives in New Braunfels, Texas.
 
 Anchored Artifacts: A-1644.1
+Mentions: N-434
 
-Related Nodes: N-434, N-1497
+Related Nodes: N-1497
 
 Investigative Direction: Verify through address records, property records, or voter registration.
 
@@ -723,8 +734,9 @@ Claim Timestamp: 00:13:36
 Claim: The childhood friend's social media post states he last saw Dan Flood "doing security for some Dallas billionaire at the Cattleman's Ball."
 
 Anchored Artifacts: A-1644.1
+Mentions: N-434, N-724
 
-Related Nodes: N-434, N-1496, N-724
+Related Nodes: N-1496
 
 Investigative Direction: Identify the billionaire referenced and verify through security firm records or event vendor lists.
 
@@ -737,8 +749,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states in his 2018 interview, "I was born in Denton, Texas."
 
 Anchored Artifacts: A-1645.1
+Mentions: N-750
 
-Related Nodes: N-750, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through public records.
 
@@ -751,8 +764,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states he began his law enforcement career in 1968 with the Texas Department of Public Safety.
 
 Anchored Artifacts: A-1645.1
+Mentions: N-750
 
-Related Nodes: N-750, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through TDPS historical employment records.
 
@@ -765,8 +779,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states he retired from TDPS as a sergeant in highway patrol.
 
 Anchored Artifacts: A-1645.1
+Mentions: N-750
 
-Related Nodes: N-750, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through TDPS records.
 
@@ -779,8 +794,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states he served 12 years at the Erath County Sheriff's Office and retired as captain.
 
 Anchored Artifacts: A-1645.1
+Mentions: N-750
 
-Related Nodes: N-750, N-1496
+Related Nodes: N-1496
 
 Investigative Direction: Verify through Erath County Sheriff's Office records.
 
@@ -793,8 +809,8 @@ Claim Timestamp: 00:21:21
 Claim: TPUSA sent a "Demand to cease and desist defamatory comments" letter to Zack Gregorio of Wolves and Finance; the letter is displayed and read aloud in the episode.
 
 Anchored Artifacts: A-1648.1, A-1648.2
+Mentions: N-753
 
-Related Nodes: N-753
 
 Investigative Direction: Confirm through legal records, TPUSA communications, and Gregorio's public statements.
 
@@ -823,8 +839,9 @@ Claim Timestamp: 00:32:01
 Claim: Per host's paraphrase of an emailed TPUSA official response, Erica Kirk never lived in China and simply visited for 2 weeks.
 
 Anchored Artifacts: A-1650.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1499
+Related Nodes: N-1499
 
 Investigative Direction: Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-2143 and C-2144.
 
@@ -837,8 +854,9 @@ Claim Timestamp: 00:32:51
 Claim: In the debate clip with Ben Corollo, Charlie Kirk states "Unlike you, my wife lived in China for 6 months and she'll show you the videos."
 
 Anchored Artifacts: A-1650.3
+Mentions: N-1, N-2, N-761
 
-Related Nodes: N-1, N-2, N-761, N-1499
+Related Nodes: N-1499
 
 Investigative Direction: Verify against the full debate transcript/recording.
 
@@ -851,8 +869,9 @@ Claim Timestamp: 00:31:02
 Claim: In the on-air clip, Erica Kirk states she was "living in China and doing a lot of work with victims from sex trafficking" via Everyday Heroes Like You.
 
 Anchored Artifacts: A-1650.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1499
+Related Nodes: N-1499
 
 Investigative Direction: Identify the specific China-based charity and verify scope and duration of her work.
 
@@ -865,8 +884,9 @@ Claim Timestamp: 00:34:31
 Claim: A Cornerstone Chapel video announcement by Pastor Gary Ham promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).
 
 Anchored Artifacts: A-1651.1
+Mentions: N-45, N-759, N-760
 
-Related Nodes: N-45, N-759, N-760, N-1500
+Related Nodes: N-1500
 
 Investigative Direction: Verify the event actually occurred and document any public response.
 
@@ -879,8 +899,8 @@ Claim Timestamp: 00:36:24
 Claim: Per Fox News article referenced by host, Israel will honor the late Charlie Kirk with an award for opposing antisemitism.
 
 Anchored Artifacts: A-1652.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify through Israeli government or embassy announcements and locate the original Fox News article.
 
@@ -893,8 +913,8 @@ Claim Timestamp: 00:42:39
 Claim: Viewer "Moderator Marzy" comment states Dan Flood "was still providing security" at a Charlie Kirk Day event and that Kash Patel was invited.
 
 Anchored Artifacts: A-1653.1
+Mentions: N-1, N-434
 
-Related Nodes: N-434, N-1
 
 Investigative Direction: Verify event attendance, security staffing, and Kash Patel's participation through official event records.
 
@@ -907,8 +927,8 @@ Claim Timestamp: 00:10:23
 Claim: Per the FBIA website description read aloud, the FBIA was founded in 1981 and consists of 14,000 current and former FBI special agents.
 
 Anchored Artifacts: A-1647.1
+Mentions: N-748
 
-Related Nodes: N-748
 
 Investigative Direction: Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.
 

@@ -969,12 +969,13 @@
         "A-2327",
         "A-2328"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:24",
-      "investigative_direction": "Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed."
+      "investigative_direction": "Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -987,12 +988,14 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-2225"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
-      "investigative_direction": "Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling."
+      "investigative_direction": "Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1020,12 +1023,14 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-2225"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
-      "investigative_direction": "Obtain the charging document to confirm the textual basis alleged for each count."
+      "investigative_direction": "Obtain the charging document to confirm the textual basis alleged for each count.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1037,12 +1042,14 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-2225"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
-      "investigative_direction": "Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed."
+      "investigative_direction": "Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1053,12 +1060,13 @@
       "anchored_artifacts": [
         "A-2328"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:25",
-      "investigative_direction": "Verify against the court's docket entry; track any subsequent plea amendments."
+      "investigative_direction": "Verify against the court's docket entry; track any subsequent plea amendments.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1069,12 +1077,13 @@
       "anchored_artifacts": [
         "A-2328"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:25",
-      "investigative_direction": "Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information."
+      "investigative_direction": "Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1158,13 +1167,15 @@
       "claim": "Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him — a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
-      "investigative_direction": "Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts)."
+      "investigative_direction": "Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1358,13 +1369,15 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-69",
         "N-2223",
         "N-2224"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
-      "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing."
+      "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1377,12 +1390,14 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-69",
         "N-2224"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
-      "investigative_direction": "Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer."
+      "investigative_direction": "Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1395,13 +1410,15 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-69",
         "N-1228",
         "N-2224"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
-      "investigative_direction": "Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration."
+      "investigative_direction": "Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1413,13 +1430,15 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-69",
         "N-1228",
         "N-2224"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
-      "investigative_direction": "Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript."
+      "investigative_direction": "Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1431,13 +1450,15 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-69",
         "N-1228",
         "N-2224"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
-      "investigative_direction": "Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification."
+      "investigative_direction": "Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1476,7 +1497,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
-      "investigative_direction": "Obtain Erika Kirk's call detail records; verify call timing and duration."
+      "investigative_direction": "Obtain Erika Kirk's call detail records; verify call timing and duration.",
+      "contradicts_claim_refs": [
+        "C-1932",
+        "C-3092"
+      ]
     },
     {
       "@type": "Claim",
@@ -1506,12 +1531,14 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1218",
-        "N-1230",
-        "N-1"
+        "N-1230"
       ],
       "tags": [],
       "claim_timestamp": "01:04:00",
-      "investigative_direction": "Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications."
+      "investigative_direction": "Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1521,12 +1548,14 @@
       "claim": "The host asserts that the narrative that Tyler Robinson \"confessed it to Mike Mitchell\" is a \"foundational lie\" propagated by Pentagon influencers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1227"
       ],
       "tags": [],
       "claim_timestamp": "00:08:25",
-      "investigative_direction": "Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account."
+      "investigative_direction": "Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1536,12 +1565,14 @@
       "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars\" was \"magically dropped\" because \"there was no truth and no substance.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1229",
-        "N-69"
+        "N-1229"
       ],
       "tags": [],
       "claim_timestamp": "00:08:25",
-      "investigative_direction": "Locate the original source of the Ackman offer; obtain Ackman's own statement."
+      "investigative_direction": "Locate the original source of the Ackman offer; obtain Ackman's own statement.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1571,12 +1602,14 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1213",
-        "N-2"
+        "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
-      "investigative_direction": "Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle."
+      "investigative_direction": "Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

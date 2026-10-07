@@ -1182,12 +1182,14 @@
       ],
       "related_nodes": [
         "N-1214",
-        "N-1619",
-        "N-209"
+        "N-1619"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55",
-      "investigative_direction": "Confirm exact text against Budowich's verified X account."
+      "investigative_direction": "Confirm exact text against Budowich's verified X account.",
+      "mentions_person_refs": [
+        "N-209"
+      ]
     },
     {
       "@type": "Claim",
@@ -1214,13 +1216,15 @@
       ],
       "related_nodes": [
         "N-1217",
-        "N-1618",
-        "N-1",
-        "N-2"
+        "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
-      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA."
+      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1267,12 +1271,14 @@
       ],
       "related_nodes": [
         "N-1217",
-        "N-1",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:32:20",
-      "investigative_direction": "Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions."
+      "investigative_direction": "Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1285,12 +1291,14 @@
       ],
       "related_nodes": [
         "N-1217",
-        "N-1",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:33:39",
-      "investigative_direction": "Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants."
+      "investigative_direction": "Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1448,13 +1456,15 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1215",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
-      "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials."
+      "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1467,12 +1477,14 @@
       ],
       "related_nodes": [
         "N-1215",
-        "N-2",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
-      "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office."
+      "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1484,12 +1496,14 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:33:39",
-      "investigative_direction": "Verify exact quotation against the full original audio/video recording."
+      "investigative_direction": "Verify exact quotation against the full original audio/video recording.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1501,13 +1515,15 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1220",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:33:39",
-      "investigative_direction": "Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz."
+      "investigative_direction": "Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

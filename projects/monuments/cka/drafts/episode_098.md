@@ -593,8 +593,8 @@ Claim Timestamp: 00:05:52
 Claim: The Daily Wire issued a statement to Breitbart Media describing layoffs as part of a "restructuring" decision.
 
 Anchored Artifacts: A-2030.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 ---
 
@@ -605,8 +605,8 @@ Claim Timestamp: 00:05:52
 Claim: The Daily Wire's statement said the cuts were largely concentrated at the Nashville production office.
 
 Anchored Artifacts: A-2030.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Cross-check statement against dismissed-employee reporting and prior production staffing rosters.
 
@@ -619,8 +619,8 @@ Claim Timestamp: 00:05:52
 Claim: The Daily Wire's statement said it had added production staff in DC, the Northeast, and Florida over the past year.
 
 Anchored Artifacts: A-2030.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify against LinkedIn/public hiring records and any DC bureau disclosures.
 
@@ -661,8 +661,9 @@ Claim Timestamp: 00:09:45
 Claim: The X analysis stated the host reached 5.5 million YouTube subscribers and generated roughly 805 million views since January 2025.
 
 Anchored Artifacts: A-2031.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1211
+Related Nodes: N-1211
 
 Investigative Direction: Cross-check via YouTube studio public metrics.
 
@@ -675,8 +676,8 @@ Claim Timestamp: 00:22:55
 Claim: An X post listed companies sponsoring the host's podcast and urged boycotts and withdrawal of sponsorships.
 
 Anchored Artifacts: A-2032.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Confirm sponsors listed match actual podcast ad-read sponsors.
 
@@ -689,8 +690,8 @@ Claim Timestamp: 00:24:13
 Claim: An X post described the host's name/face merchandise and stickers, framed mockingly.
 
 Anchored Artifacts: A-2033.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 ---
 
@@ -777,8 +778,9 @@ Claim Timestamp: 00:22:03
 Claim: On his Friday show, Ben Shapiro stated that audience members of the host "foment this sort of evil" by allowing her to monetize it through advertising.
 
 Anchored Artifacts: A-2038.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1726
+Related Nodes: N-1726
 
 ---
 
@@ -843,8 +845,9 @@ Claim Timestamp: 00:44:39
 Claim: The FARA filing names churches targeted for geofencing that overlap with Turning Point USA-affiliated Calvary Chapel churches and Dream City Church in Phoenix (which hosted both Erika Kirk and prior Trump events).
 
 Anchored Artifacts: A-2044.1, A-2040.1
+Mentions: N-2
 
-Related Nodes: N-1728, N-2
+Related Nodes: N-1728
 
 ---
 

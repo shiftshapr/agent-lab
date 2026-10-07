@@ -211,7 +211,8 @@ Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: ART_1.1
-Related Nodes: N-1017, N-23
+Mentions: N-23
+Related Nodes: N-1017
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
@@ -231,7 +232,8 @@ Investigative Direction: Verify via photographic evidence and corroboration from
 Claim Timestamp: 00:06:15
 Claim: Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.
 Anchored Artifacts: ART_2.1
-Related Nodes: N-1017, N-3
+Mentions: N-3
+Related Nodes: N-1017
 Investigative Direction: Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.
 
 ---
@@ -242,7 +244,8 @@ Claim Timestamp: 00:11:03
 Claim: Episode plays audio of Holly Chalmers stating she believes Victor Marx is a trafficker himself.
 Transcript Snippet: I believe that he's a trafficker himself
 Anchored Artifacts: ART_3.1
-Related Nodes: N-1017, N-9
+Mentions: N-9
+Related Nodes: N-1017
 Investigative Direction: Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.
 
 ---
@@ -252,7 +255,8 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
 Anchored Artifacts: ART_4.1
-Related Nodes: N-1017, N-15
+Mentions: N-15
+Related Nodes: N-1017
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
 
 ---
@@ -273,7 +277,8 @@ Claim Timestamp: 01:14:27
 Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: ART_5.2
-Related Nodes: N-1017, N-24
+Mentions: N-24
+Related Nodes: N-1017
 Investigative Direction: Verify archived website content; cross-check against organization's audited reports.
 
 ---
@@ -284,7 +289,8 @@ Claim Timestamp: 00:16:54
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
 Anchored Artifacts: ART_2.1, ART_6.1
-Related Nodes: N-1017, N-3
+Mentions: N-3
+Related Nodes: N-1017
 Investigative Direction: Cross-reference with statements from family members and law enforcement records.
 
 ---
@@ -315,7 +321,8 @@ Investigative Direction: Verify with Turning Point USA personnel and any session
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.
 Anchored Artifacts: ART_6.1
-Related Nodes: N-1017, N-26
+Mentions: N-26
+Related Nodes: N-1017
 Investigative Direction: Cross-reference with IDF/nonprofit invitation records and travel documentation.
 
 ---
@@ -326,7 +333,8 @@ Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: ART_6.1
-Related Nodes: N-1017, N-23
+Mentions: N-23
+Related Nodes: N-1017
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
 ---
@@ -357,7 +365,8 @@ Claim Timestamp: 01:00:27
 Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: ART_5.2, ART_6.1
-Related Nodes: N-1017, N-24
+Mentions: N-24
+Related Nodes: N-1017
 Investigative Direction: Compare original website text against archived snapshots; reconcile with prior show clip.
 
 ---

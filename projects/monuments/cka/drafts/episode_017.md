@@ -628,7 +628,8 @@ Claim Timestamp: 00:06:41
 Claim: Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and added the one-word reply "Based."
 
 Anchored Artifacts: A-1236.1, A-1248.1
-Related Nodes: N-42, N-1240
+Mentions: N-42
+Related Nodes: N-1240
 
 Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.
 
@@ -641,7 +642,8 @@ Claim Timestamp: 00:07:48
 Claim: Yashar Ali posted a quote-tweet asserting the Hammer retweet referenced the Iryna Zhuravska murder and that other conservatives were sharing similar material the day prior.
 
 Anchored Artifacts: A-1237.1
-Related Nodes: N-42, N-226, N-227, N-1245
+Mentions: N-42, N-226, N-227
+Related Nodes: N-1245
 
 Investigative Direction: Verify Yashar Ali's exact post text and timing against X archives; verify whether the "day prior" framing matches the post dates of alleged "many conservatives."
 
@@ -654,7 +656,8 @@ Claim Timestamp: 00:08:44
 Claim: Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arrested the same day; the footage was released and trended on X on September 5, 2025.
 
 Anchored Artifacts: A-1238.1 (Matt Walsh's September 5 tweet is documentary anchor for the September 5 date)
-Related Nodes: N-227, N-228, N-1245
+Mentions: N-227, N-228
+Related Nodes: N-1245
 
 Investigative Direction: Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.
 
@@ -667,7 +670,7 @@ Claim Timestamp: 00:04:50
 Claim: Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Verify the full memorial transcript and locate the segment within the recording.
 
@@ -680,7 +683,7 @@ Claim Timestamp: 00:09:35
 Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.
 
 Anchored Artifacts: A-1250.1
-Related Nodes: N-42, N-227, N-91, N-245
+Mentions: N-42, N-91, N-227, N-245
 
 Investigative Direction: Verify the full segment transcript and any accompanying written material Hammer posted in that window.
 
@@ -693,7 +696,7 @@ Claim Timestamp: 00:13:45
 Claim: Matt Walsh posted on X on September 5, 2025, calling for public execution, hard labor, and long prison terms in a visceral response to the Iryna footage.
 
 Anchored Artifacts: A-1238.1
-Related Nodes: N-228, N-227
+Mentions: N-227, N-228
 
 Investigative Direction: Verify post date and content via X archives.
 
@@ -706,7 +709,8 @@ Claim Timestamp: 00:14:29
 Claim: Prior to September 9, 2025, Josh Hammer's only documented reference to public execution came in a 2022 post discussing the Uvalde shooter (also referencing the Buffalo shooter).
 
 Anchored Artifacts: A-1239.2
-Related Nodes: N-42, N-1240
+Mentions: N-42
+Related Nodes: N-1240
 
 Investigative Direction: Query X archive for "public execution" within Hammer's account history; verify no other prior episodes.
 
@@ -719,7 +723,8 @@ Claim Timestamp: 00:20:50
 Claim: Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.
 
 Anchored Artifacts: A-1241.1
-Related Nodes: N-42, N-1243
+Mentions: N-42
+Related Nodes: N-1243
 
 Investigative Direction: Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.
 
@@ -732,7 +737,8 @@ Claim Timestamp: 00:22:12
 Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
 
 Anchored Artifacts: A-1242.1
-Related Nodes: N-42, N-243, N-1243, N-1244
+Mentions: N-42, N-243
+Related Nodes: N-1243, N-1244
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
 
@@ -745,7 +751,8 @@ Claim Timestamp: 00:29:05
 Claim: In his post-assassination interview, Rabbi Pesach Wolicki stated that Charlie Kirk "certainly had some disagreements with Israeli policy and he criticized Israel where he felt appropriate" and that there were "people around him in the America First movement who were actively working on him to try to get him to turn on Israel."
 
 Anchored Artifacts: A-1243.1
-Related Nodes: N-229, N-1244
+Mentions: N-229
+Related Nodes: N-1244
 
 Investigative Direction: Verify full Wolicki interview; obtain unedited transcript.
 
@@ -758,7 +765,8 @@ Claim Timestamp: 00:30:17
 Claim: Wolicki stated the pre-assassination meeting was called by Charlie, was on the schedule for weeks, and was for the purpose of preparing Israel-related talking points for Charlie's new campus tour starting in Utah.
 
 Anchored Artifacts: A-1243.1
-Related Nodes: N-229, N-1244
+Mentions: N-229
+Related Nodes: N-1244
 
 Investigative Direction: Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.
 
@@ -771,7 +779,7 @@ Claim Timestamp: 00:47:42
 Claim: On the morning of October 8, 2025, Dinesh D'Souza posted on X comparing Candace Owens to a "freak show" and a farmer having sex with a sheep, with the stated intent of discouraging viewership.
 
 Anchored Artifacts: A-1245.1, A-1245.2
-Related Nodes: N-235, N-238
+Mentions: N-235, N-238
 
 Investigative Direction: Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.
 
@@ -784,7 +792,8 @@ Claim Timestamp: 00:53:36
 Claim: Alex Jones, on his show, confirmed that Candace Owens sent a "dead man's switch" / "kill switch" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.
 
 Anchored Artifacts: A-1246.1
-Related Nodes: N-128, N-233, N-68, N-242, N-1242
+Mentions: N-68, N-128, N-233, N-242
+Related Nodes: N-1242
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
 
@@ -797,7 +806,8 @@ Claim Timestamp: 00:54:36
 Claim: Alex Jones cited James O'Keefe's dead-man-switch disclosure in the Prince Andrew case as a comparable precedent for the danger and effectiveness of Candace's kill switch.
 
 Anchored Artifacts: A-1246.1
-Related Nodes: N-128, N-233, N-1242
+Mentions: N-128, N-233
+Related Nodes: N-1242
 
 Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.
 
@@ -810,7 +820,7 @@ Claim Timestamp: 00:03:10
 Claim: A letter to which host was given access asserted that "Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel."
 
 Anchored Artifacts: A-1249.1
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Identify the letter and author; verify authenticity.
 
@@ -823,7 +833,7 @@ Claim Timestamp: 00:16:55
 Claim: Josh Hammer posted on X in 2019 the statement "Jew hatred is inherent in the European DNA," and subsequently deleted the post.
 
 Anchored Artifacts: A-1239.1
-Related Nodes: N-42
+Mentions: N-42
 
 Investigative Direction: Verify via web archives / Wayback Machine or third-party screen captures; verify deletion via X account audit.
 
@@ -836,7 +846,8 @@ Claim Timestamp: 00:11:02
 Claim: On September 9, 2025, Josh Hammer posted nine X items covering Phillies story, Iryna media link, anti-Tucker, pro-Israel/anti-Qatar, anti-Saudi, second anti-Tucker, Hebrew Bible / Western civilization, Supreme Court media appearance, and concluded with the 9:09 p.m. ET public-execution retweet.
 
 Anchored Artifacts: A-1240.1
-Related Nodes: N-42, N-1240
+Mentions: N-42
+Related Nodes: N-1240
 
 Investigative Direction: Verify each timestamp and content against X archive.
 
@@ -849,7 +860,7 @@ Claim Timestamp: 00:07:54
 Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
-Related Nodes: N-70, N-37
+Mentions: N-37, N-70
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 
@@ -894,8 +905,8 @@ Claim Timestamp: 00:58:00–00:59:00
 Claim: Host references Laura Loomer in closing remarks (parody/cartoon antagonist framing).
 
 Anchored Artifacts: A-1245.1
+Mentions: N-3, N-91
 
-Related Nodes: N-91, N-3
 
 Investigative Direction: Locate exact closing-segment timestamp and any on-screen graphic.
 

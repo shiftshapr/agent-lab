@@ -1379,15 +1379,16 @@
       "anchored_artifacts": [
         "A-1461.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:49",
+      "investigative_direction": "Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).",
+      "mentions_person_refs": [
         "N-3",
         "N-4",
         "N-5",
         "N-454"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:02:49",
-      "investigative_direction": "Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible)."
+      ]
     },
     {
       "@type": "Claim",
@@ -1398,14 +1399,15 @@
       "anchored_artifacts": [
         "A-1462.1"
       ],
-      "related_nodes": [
-        "N-461",
-        "N-3",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:41",
-      "investigative_direction": "Locate original Durov X post (date, full context) and verify any prior Durov statements about the 300% tariff framing."
+      "investigative_direction": "Locate original Durov X post (date, full context) and verify any prior Durov statements about the 300% tariff framing.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-461"
+      ]
     },
     {
       "@type": "Claim",
@@ -1418,12 +1420,14 @@
         "A-1464.1"
       ],
       "related_nodes": [
-        "N-455",
         "N-1364"
       ],
       "tags": [],
       "claim_timestamp": "00:11:57",
-      "investigative_direction": "Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations."
+      "investigative_direction": "Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.",
+      "mentions_person_refs": [
+        "N-455"
+      ]
     },
     {
       "@type": "Claim",
@@ -1434,13 +1438,14 @@
       "anchored_artifacts": [
         "A-1466.1"
       ],
-      "related_nodes": [
-        "N-6",
-        "N-5"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:50",
-      "investigative_direction": "Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives."
+      "investigative_direction": "Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -1453,12 +1458,14 @@
         "A-1468.1"
       ],
       "related_nodes": [
-        "N-456",
         "N-1367"
       ],
       "tags": [],
       "claim_timestamp": "00:20:28",
-      "investigative_direction": "Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases."
+      "investigative_direction": "Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.",
+      "mentions_person_refs": [
+        "N-456"
+      ]
     },
     {
       "@type": "Claim",
@@ -1570,12 +1577,14 @@
         "A-1469.3"
       ],
       "related_nodes": [
-        "N-459",
         "N-1358"
       ],
       "tags": [],
       "claim_timestamp": "00:30:13",
-      "investigative_direction": "Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records."
+      "investigative_direction": "Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.",
+      "mentions_person_refs": [
+        "N-459"
+      ]
     },
     {
       "@type": "Claim",
@@ -1588,12 +1597,14 @@
       ],
       "related_nodes": [
         "N-1356",
-        "N-1358",
-        "N-459"
+        "N-1358"
       ],
       "tags": [],
       "claim_timestamp": "00:29:23",
-      "investigative_direction": "Identify the specific Delaware legislation; obtain bill text and legislative history."
+      "investigative_direction": "Identify the specific Delaware legislation; obtain bill text and legislative history.",
+      "mentions_person_refs": [
+        "N-459"
+      ]
     },
     {
       "@type": "Claim",
@@ -1605,12 +1616,14 @@
         "A-1469.4"
       ],
       "related_nodes": [
-        "N-457",
         "N-1357"
       ],
       "tags": [],
       "claim_timestamp": "00:33:11",
-      "investigative_direction": "Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service."
+      "investigative_direction": "Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service.",
+      "mentions_person_refs": [
+        "N-457"
+      ]
     },
     {
       "@type": "Claim",
@@ -1622,12 +1635,14 @@
         "A-1469.5"
       ],
       "related_nodes": [
-        "N-460",
         "N-1359"
       ],
       "tags": [],
       "claim_timestamp": "00:30:58",
-      "investigative_direction": "Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer."
+      "investigative_direction": "Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.",
+      "mentions_person_refs": [
+        "N-460"
+      ]
     },
     {
       "@type": "Claim",
@@ -1671,12 +1686,14 @@
         "A-1475.1"
       ],
       "related_nodes": [
-        "N-5",
         "N-1365"
       ],
       "tags": [],
       "claim_timestamp": "00:39:55",
-      "investigative_direction": "Verify via Paris Design Week official programming and French Ministry of Culture announcements."
+      "investigative_direction": "Verify via Paris Design Week official programming and French Ministry of Culture announcements.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1688,13 +1705,15 @@
         "A-1475.2"
       ],
       "related_nodes": [
-        "N-5",
-        "N-8",
         "N-1365"
       ],
       "tags": [],
       "claim_timestamp": "00:39:55",
-      "investigative_direction": "Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records."
+      "investigative_direction": "Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -1705,13 +1724,14 @@
       "anchored_artifacts": [
         "A-1473.1"
       ],
-      "related_nodes": [
-        "N-451",
-        "N-88"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:39",
-      "investigative_direction": "Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues."
+      "investigative_direction": "Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.",
+      "mentions_person_refs": [
+        "N-88",
+        "N-451"
+      ]
     },
     {
       "@type": "Claim",
@@ -1723,13 +1743,15 @@
         "A-1474.1"
       ],
       "related_nodes": [
-        "N-453",
-        "N-451",
         "N-1368"
       ],
       "tags": [],
       "claim_timestamp": "00:56:17",
-      "investigative_direction": "Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick \"Sam\"; obtain the full original PBD segment context."
+      "investigative_direction": "Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick \"Sam\"; obtain the full original PBD segment context.",
+      "mentions_person_refs": [
+        "N-451",
+        "N-453"
+      ]
     },
     {
       "@type": "Claim",
@@ -1741,12 +1763,14 @@
         "A-1476.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1366"
       ],
       "tags": [],
       "claim_timestamp": "00:53:57",
-      "investigative_direction": "Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim."
+      "investigative_direction": "Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

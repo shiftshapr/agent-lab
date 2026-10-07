@@ -443,8 +443,9 @@ Claim Timestamp: 00:08:45–00:09:33
 Claim: FBI Director Kash Patel posted a public statement asserting that the FBI will no longer partner with the ADL and characterizing prior FBI-ADL cooperation (including under Comey) as disgraceful surveillance operations.
 
 Anchored Artifacts: A-1209.1
+Mentions: N-102, N-206
 
-Related Nodes: N-102, N-206, N-1224
+Related Nodes: N-1224
 
 Investigative Direction: Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.
 
@@ -487,8 +488,9 @@ Claim Timestamp: 00:11:32–00:13:03
 Claim: Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Connecticut office space with the FBI, with ADL offices also reportedly co-located with the United Nations in New York.
 
 Anchored Artifacts: A-1211.1
+Mentions: N-202
 
-Related Nodes: N-202, N-1224, N-1225
+Related Nodes: N-1224, N-1225
 
 Investigative Direction: Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.
 
@@ -501,8 +503,9 @@ Claim Timestamp: 00:11:32–00:13:03
 Claim: Per the Kyle Undercover 2023 review, 63% of ADL regional offices are located within banking institutions, 42% within law firms, and 10% within Jewish institutions.
 
 Anchored Artifacts: A-1211.1
+Mentions: N-202
 
-Related Nodes: N-202, N-1224
+Related Nodes: N-1224
 
 Investigative Direction: Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).
 
@@ -515,8 +518,9 @@ Claim Timestamp: 00:29:07–00:32:15
 Claim: Investigative journalist Elizabeth Lane approached multiple Utah law firms seeking pro bono counsel for Tyler Robinson and reported willingness from at least one reputable firm prior to certification-barrier issues.
 
 Anchored Artifacts: A-1212.1
+Mentions: N-6
 
-Related Nodes: N-6, N-1226
+Related Nodes: N-1226
 
 Investigative Direction: Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications.
 
@@ -529,8 +533,9 @@ Claim Timestamp: 00:32:15
 Claim: Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecutor Skordas asserted that he — not the defense — controls identification of defense counsel for Tyler Robinson.
 
 Anchored Artifacts: A-1212.1
+Mentions: N-6, N-207
 
-Related Nodes: N-6, N-207, N-1226
+Related Nodes: N-1226
 
 Investigative Direction: Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.
 
@@ -545,8 +550,9 @@ Claim Timestamp: 00:17:21–00:18:53
 Claim: Olivia Robertson cub Bishop gave public eyewitness testimony describing a close encounter with the alleged shooter in which she observed him limping, wearing a long-sleeve black shirt on a hot day, and exhibiting an expressionless demeanor.
 
 Anchored Artifacts: A-1213.1
+Mentions: N-203
 
-Related Nodes: N-203, N-1227
+Related Nodes: N-1227
 
 Investigative Direction: Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.
 
@@ -587,8 +593,9 @@ Claim Timestamp: 00:36:30–00:37:30
 Claim: U.S. Representative Marjorie Taylor Greene issued a public statement denying suicidal ideation, affirming religious faith, and warning that any future harm to her should be investigated as foreign-state or powerful-elite action.
 
 Anchored Artifacts: A-1216.1
+Mentions: N-204
 
-Related Nodes: N-204, N-1227
+Related Nodes: N-1227
 
 Investigative Direction: Verify original post and any associated official statements or security reports.
 
@@ -601,8 +608,9 @@ Claim Timestamp: 00:46:40–00:47:20
 Claim: Podcaster Theo Von publicly stated he would never take his own life and addressed the statement to "Israel" in his on-air remarks.
 
 Anchored Artifacts: A-1217.1
+Mentions: N-205
 
-Related Nodes: N-205, N-1227
+Related Nodes: N-1227
 
 Investigative Direction: Verify original source (clip origin, show, date) and check for any associated public commentary.
 

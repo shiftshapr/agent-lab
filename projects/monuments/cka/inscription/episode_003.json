@@ -1258,27 +1258,29 @@
         "A-1095.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1094",
-        "N-1096",
+        "N-1096"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:37",
+      "investigative_direction": "Verify surrender timestamp via sheriff's office records and forensic timeline.",
+      "transcript_snippet": "after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office",
+      "confidence": "high",
+      "mentions_person_refs": [
         "N-3",
+        "N-61",
         "N-68",
+        "N-69",
         "N-88",
         "N-89",
         "N-90",
         "N-92",
         "N-93",
         "N-94",
-        "N-61",
         "N-95",
         "N-96",
         "N-99"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:07:37",
-      "investigative_direction": "Verify surrender timestamp via sheriff's office records and forensic timeline.",
-      "transcript_snippet": "after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office",
-      "confidence": "high"
+      ]
     },
     {
       "@type": "Claim",
@@ -1289,14 +1291,15 @@
       "anchored_artifacts": [
         "A-1095.1"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:55",
       "investigative_direction": "Obtain forensic lab reports for chain of custody and match thresholds.",
       "transcript_snippet": "the DNA was consistent with Robinson that was found on the trigger",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1308,14 +1311,16 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-69",
         "N-1077"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Compare indictment description to actual surveillance video frames; verify gait description against TMZ footage.",
       "transcript_snippet": "at approximately 11:51 a.m., the suspect had entered campus from the north",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1327,14 +1332,16 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-69",
         "N-1077"
       ],
       "tags": [],
       "claim_timestamp": "00:09:18",
       "investigative_direction": "Cross-check roof timestamp against shot-time audio forensics.",
       "transcript_snippet": "crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1345,14 +1352,15 @@
       "anchored_artifacts": [
         "A-1095.3"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:47",
       "investigative_direction": "Obtain crime scene photos and forensic report; verify rifle make/model and serial trace.",
       "transcript_snippet": "investigators found a boltaction rifle wrapped in a towel",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1363,14 +1371,15 @@
       "anchored_artifacts": [
         "A-1095.4"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Request close-up images and chain of custody for the casings.",
       "transcript_snippet": "Hey fascist catch...Oh Bella cow...if you read this you are gay",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1381,15 +1390,16 @@
       "anchored_artifacts": [
         "A-1095.5"
       ],
-      "related_nodes": [
-        "N-69",
-        "N-59"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:00",
       "investigative_direction": "Verify timing of news publication vs. mother's call via phone and interview records.",
       "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-59",
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1400,14 +1410,15 @@
       "anchored_artifacts": [
         "A-1095.6"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Verify gift provenance, family communications, and any self-harm implication statements.",
       "transcript_snippet": "the rifle that was given to his son as a gift",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1418,14 +1429,15 @@
       "anchored_artifacts": [
         "A-1095.7"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:54",
       "investigative_direction": "Confirm retired deputy's identity and role in surrender via sheriff records.",
       "transcript_snippet": "a family friend who happens to be a retired deputy sheriff",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1436,14 +1448,15 @@
       "anchored_artifacts": [
         "A-1095.5"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:45",
       "investigative_direction": "Compare against Robinson's social media history and family interviews.",
       "transcript_snippet": "Robinson had become increasingly more political. He had started to lean more left",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1456,16 +1469,18 @@
         "A-1095.9"
       ],
       "related_nodes": [
-        "N-69",
-        "N-84",
-        "N-1095",
-        "N-2"
+        "N-1095"
       ],
       "tags": [],
       "claim_timestamp": "00:23:31",
       "investigative_direction": "Verify text and note timestamps and original device screenshots.",
       "transcript_snippet": "Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-2",
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1477,15 +1492,17 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-69",
-        "N-84",
         "N-1095"
       ],
       "tags": [],
       "claim_timestamp": "00:22:48",
       "investigative_direction": "Obtain unredacted text logs with metadata from discovery materials.",
       "transcript_snippet": "They're not telling us the time. I don't like that",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1497,15 +1514,16 @@
         "A-1095.5",
         "A-1095.9"
       ],
-      "related_nodes": [
-        "N-69",
-        "N-84"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:00",
       "investigative_direction": "Verify roommate's stated identity and timeline.",
       "transcript_snippet": "Robinson began to date his roommate, which is a biological male who was transitioning",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1518,14 +1536,16 @@
         "A-1097.1"
       ],
       "related_nodes": [
-        "N-71",
         "N-1097"
       ],
       "tags": [],
       "claim_timestamp": "00:03:33",
       "investigative_direction": "Obtain arrest affidavit and court records.",
       "transcript_snippet": "Man arrested for allegedly faking confession to Charlie Kirk's killing",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -1537,14 +1557,16 @@
         "A-1096.1"
       ],
       "related_nodes": [
-        "N-71",
         "N-1097"
       ],
       "tags": [],
       "claim_timestamp": "00:05:10",
       "investigative_direction": "Confirm booking details and court filings; verify device forensic report.",
       "transcript_snippet": "was also booked in connection with images on his cell phone related to child abuse",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -1556,14 +1578,16 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-66",
         "N-1102"
       ],
       "tags": [],
       "claim_timestamp": "00:53:40",
       "investigative_direction": "Verify tweet length, content, and any deletions or follow-up tweets.",
       "transcript_snippet": "Amman's 955word response",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -1577,16 +1601,18 @@
         "A-1102.1"
       ],
       "related_nodes": [
-        "N-66",
-        "N-97",
-        "N-87",
         "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "01:00:46",
       "investigative_direction": "Cross-reference attendee statements with published itinerary.",
       "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-66",
+        "N-87",
+        "N-97"
+      ]
     },
     {
       "@type": "Claim",
@@ -1596,7 +1622,6 @@
       "claim": "Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-66",
         "N-1098"
       ],
       "tags": [],
@@ -1604,7 +1629,10 @@
       "investigative_direction": "Identify and corroborate attendees; request presentation materials.",
       "transcript_snippet": "Bill Aman got up and gave a presentation and told them that they shouldn't own property",
       "confidence": "medium",
-      "uncertainty_note": "Single-source attendee statement relayed by host."
+      "uncertainty_note": "Single-source attendee statement relayed by host.",
+      "mentions_person_refs": [
+        "N-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -1616,16 +1644,18 @@
         "A-1099.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-75",
-        "N-1098",
-        "N-35"
+        "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "01:00:46",
       "investigative_direction": "Verify full clip and dates against Megyn Kelly show archives.",
       "transcript_snippet": "some in the pro-Israel camp are so kneejerk about calling you anti-semitic",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-35",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1637,14 +1667,16 @@
         "A-1099.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "01:05:20",
       "investigative_direction": "Obtain the cited text messages and verify attribution.",
       "transcript_snippet": "I have text messages, Megan, calling me an anti-semite",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1655,17 +1687,18 @@
       "anchored_artifacts": [
         "A-1100.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-65",
-        "N-66"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Locate published or archived version of the May letter.",
       "transcript_snippet": "the letter Charlie wrote him in May was just like a glowing",
       "confidence": "medium",
-      "uncertainty_note": "Letter not shown; only paraphrased by Ackman."
+      "uncertainty_note": "Letter not shown; only paraphrased by Ackman.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-65",
+        "N-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -1676,16 +1709,17 @@
       "anchored_artifacts": [
         "A-1103.1"
       ],
-      "related_nodes": [
-        "N-91",
-        "N-50",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:15:00",
       "investigative_direction": "Retrieve the tweet thread and verify dates.",
       "transcript_snippet": "Charlie Kirk had to distance himself from Tucker Carlson",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1695,7 +1729,6 @@
       "claim": "Per Lance Twigs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-84",
         "N-1099"
       ],
       "tags": [],
@@ -1703,7 +1736,10 @@
       "investigative_direction": "Corroborate with other family members or contemporaneous records.",
       "transcript_snippet": "his parents kicked him out junior year of high school because he was problematic",
       "confidence": "medium",
-      "uncertainty_note": "Family statement relayed by host, not on the record."
+      "uncertainty_note": "Family statement relayed by host, not on the record.",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1713,14 +1749,16 @@
       "claim": "Per family, Lance Twigs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-84",
         "N-1099"
       ],
       "tags": [],
       "claim_timestamp": "00:36:43",
       "investigative_direction": "Request medical/ER records and corroborating family testimony.",
       "transcript_snippet": "He almost overdosed. He drank a bottle of vodka",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1730,14 +1768,16 @@
       "claim": "Per family, Lance Twigs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-84",
         "N-1099"
       ],
       "tags": [],
       "claim_timestamp": "00:37:18",
       "investigative_direction": "Corroborate with multiple family members.",
       "transcript_snippet": "he showed up on drugs and he was spouting out of his mouth about political stuff",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1746,14 +1786,15 @@
       "label": "Lance Twigs turned 22 in August 2025",
       "claim": "Lance Twigs turned 22 in August 2025 according to his family.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-84"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:43",
       "investigative_direction": "Verify against state ID or DOB records.",
       "transcript_snippet": "He turned 22, they told me back in August",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1762,15 +1803,16 @@
       "label": "Lance Twigs lived in townhome owned by his family; Tyler paid rent",
       "claim": "Tyler Robinson lived with Lance Twigs in a townhome owned by Lance's family and paid rent to them via Lance.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-69",
-        "N-84"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:33",
       "investigative_direction": "Verify property ownership via county records; obtain lease or payment records.",
       "transcript_snippet": "the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1780,15 +1822,17 @@
       "claim": "Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
-        "N-84",
         "N-1100"
       ],
       "tags": [],
       "claim_timestamp": "00:40:28",
       "investigative_direction": "Pull traffic camera footage and license plate reader data; interview more neighbors.",
       "transcript_snippet": "there were unusual traffic in the driveway where Tyler Robinson and Lance lived",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1800,15 +1844,16 @@
         "A-1095.1",
         "A-1095.2"
       ],
-      "related_nodes": [
-        "N-70",
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:06",
       "investigative_direction": "Compare Cox's earlier press statements to indictment timeline; review UVU footage for second outfit.",
       "transcript_snippet": "Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1818,8 +1863,6 @@
       "claim": "Attendees report Seth Dylan and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-67",
-        "N-86",
         "N-1098"
       ],
       "tags": [],
@@ -1827,7 +1870,11 @@
       "investigative_direction": "Interview multiple attendees; obtain any recorded retreat discussions.",
       "transcript_snippet": "Seth Dylan...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him",
       "confidence": "medium",
-      "uncertainty_note": "Multiple-source attendee statements, none on the record."
+      "uncertainty_note": "Multiple-source attendee statements, none on the record.",
+      "mentions_person_refs": [
+        "N-67",
+        "N-86"
+      ]
     },
     {
       "@type": "Claim",
@@ -1837,7 +1884,6 @@
       "claim": "Per Candace's contacts, Charlie's top Jewish donors were pulling funding within 48 hours of his death and demanding their name be removed from a Turning Point building; after his death they asked for it to be restored.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-1000",
         "N-1101"
       ],
@@ -1846,7 +1892,10 @@
       "investigative_direction": "Identify donors; obtain internal TPUSA communications; verify building-donor naming history.",
       "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
       "confidence": "medium",
-      "uncertainty_note": "Single-source tip relayed by host."
+      "uncertainty_note": "Single-source tip relayed by host.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": [

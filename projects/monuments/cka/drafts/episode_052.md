@@ -313,8 +313,8 @@ Claim Timestamp: 00:18:17
 Claim: Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).
 
 Anchored Artifacts: A-1578.1 (follow-up contact card only; original redacted text referenced but not displayed in this episode)
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number.
 
@@ -325,8 +325,8 @@ Claim Timestamp: 00:19:30
 Claim: After host's repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.
 
 Anchored Artifacts: A-1578.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.
 
@@ -349,8 +349,8 @@ Claim Timestamp: 00:28:55
 Claim: Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk called him asking how to get involved and that he put her behind President Trump at the 2015 Arizona rally.
 
 Anchored Artifacts: A-1580.1
+Mentions: N-2, N-37
 
-Related Nodes: N-2, N-37
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
 
@@ -361,8 +361,9 @@ Claim Timestamp: 00:33:00
 Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
 
 Anchored Artifacts: A-1581.1
+Mentions: N-632, N-633, N-639
 
-Related Nodes: N-632, N-633, N-639, N-1454
+Related Nodes: N-1454
 
 Investigative Direction: Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).
 
@@ -373,8 +374,8 @@ Claim Timestamp: 00:37:11
 Claim: A CBS News article reports that David Rodsham, a top civilian leader at a US air base in Afghanistan who led a child pornography ring, returned to Fort Huachuca after leaving his post.
 
 Anchored Artifacts: A-1582.1
+Mentions: N-636
 
-Related Nodes: N-636
 
 Investigative Direction: Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.
 
@@ -385,8 +386,9 @@ Claim Timestamp: 00:38:50
 Claim: The Davis-Monthan AFB website announces that the Arizona Commanders Summit kicked off on September 9, 2025, providing a forum for military commanders and Arizona community leaders.
 
 Anchored Artifacts: A-1583.1
+Mentions: N-98
 
-Related Nodes: N-1455, N-1454, N-98
+Related Nodes: N-1454, N-1455
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 
@@ -397,8 +399,8 @@ Claim Timestamp: 00:46:38
 Claim: Daily Wire has launched a show hosted by "Maddie" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.
 
 Anchored Artifacts: A-1584.1
+Mentions: N-638
 
-Related Nodes: N-638
 
 Investigative Direction: Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.
 
@@ -409,8 +411,8 @@ Claim Timestamp: 00:24:56
 Claim: A still image drawn from a longer video of Charlie Kirk from behind shows his St. Michael pendant chain with no visible blood on his back; host concludes this is inconsistent with a through-and-through bullet trajectory.
 
 Anchored Artifacts: A-1585.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory.
 

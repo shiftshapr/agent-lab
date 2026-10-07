@@ -755,13 +755,15 @@
         "A-2246.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-3",
         "N-2179"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35–00:20:10",
-      "investigative_direction": "Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity."
+      "investigative_direction": "Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -774,12 +776,14 @@
         "A-2246.2"
       ],
       "related_nodes": [
-        "N-3",
         "N-2179"
       ],
       "tags": [],
       "claim_timestamp": "00:19:12–00:20:10",
-      "investigative_direction": "Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports."
+      "investigative_direction": "Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -791,13 +795,15 @@
         "A-2247.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2181",
         "N-2182"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35–00:14:00",
-      "investigative_direction": "Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured."
+      "investigative_direction": "Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -812,12 +818,14 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-2180",
-        "N-1"
+        "N-2180"
       ],
       "tags": [],
       "claim_timestamp": "00:23:50–00:25:45",
-      "investigative_direction": "Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster."
+      "investigative_direction": "Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,12 +929,14 @@
         "A-2252.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-3"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54–00:22:30",
-      "investigative_direction": "Obtain the original email with full headers and timestamp; identify what \"sources\" Spearing referenced; cross-check Daily Mail coverage for follow-up."
+      "investigative_direction": "Obtain the original email with full headers and timestamp; identify what \"sources\" Spearing referenced; cross-check Daily Mail coverage for follow-up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -950,13 +960,15 @@
       "claim": "The host asserts that the \"Protecting Mrs. Kirk\" group chat was organized by an individual previously engaged in PR/intelligence work tied to Israel and the Gaza Humanitarian Fund.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2",
-        "N-3",
         "N-2179"
       ],
       "tags": [],
       "claim_timestamp": "00:18:25–00:19:12",
-      "investigative_direction": "Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records."
+      "investigative_direction": "Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -969,12 +981,14 @@
         "A-2253.4"
       ],
       "related_nodes": [
-        "N-3",
         "N-2179"
       ],
       "tags": [],
       "claim_timestamp": "00:54:33–00:55:20",
-      "investigative_direction": "Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure."
+      "investigative_direction": "Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

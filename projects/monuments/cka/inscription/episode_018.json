@@ -736,12 +736,14 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246",
-        "N-42"
+        "N-1246"
       ],
       "tags": [],
       "claim_timestamp": "00:03:37",
-      "investigative_direction": "Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination."
+      "investigative_direction": "Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -753,12 +755,14 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246",
-        "N-42"
+        "N-1246"
       ],
       "tags": [],
       "claim_timestamp": "00:05:03",
-      "investigative_direction": "Compare against autopsy report and forensic pathology images for exact fragment location."
+      "investigative_direction": "Compare against autopsy report and forensic pathology images for exact fragment location.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -770,12 +774,14 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246",
-        "N-42"
+        "N-1246"
       ],
       "tags": [],
       "claim_timestamp": "00:06:02",
-      "investigative_direction": "Obtain a certified copy of the death certificate and the medical examiner's full report."
+      "investigative_direction": "Obtain a certified copy of the death certificate and the medical examiner's full report.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -787,12 +793,14 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1246"
       ],
       "tags": [],
       "claim_timestamp": "00:02:50",
-      "investigative_direction": "Locate original Kolbatz tweet and verify direct quotes and publication date."
+      "investigative_direction": "Locate original Kolbatz tweet and verify direct quotes and publication date.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -804,12 +812,14 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1246"
       ],
       "tags": [],
       "claim_timestamp": "00:03:01",
-      "investigative_direction": "Identify the named surgeon (if given) and confirm statement through independent medical record review."
+      "investigative_direction": "Identify the named surgeon (if given) and confirm statement through independent medical record review.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -821,12 +831,14 @@
         "A-1252.1"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
-      "investigative_direction": "Identify the witness and obtain a signed statement consistent with his on-camera description."
+      "investigative_direction": "Identify the witness and obtain a signed statement consistent with his on-camera description.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -839,12 +851,14 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:12:02",
-      "investigative_direction": "Identify the pusher and verify his institutional affiliation at the time of the event."
+      "investigative_direction": "Identify the pusher and verify his institutional affiliation at the time of the event.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -856,13 +870,15 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-247",
         "N-1254",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
-      "investigative_direction": "Confirm Leadership Institute employment records and verify the organization's claimed coalition roles."
+      "investigative_direction": "Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -874,12 +890,14 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
-      "investigative_direction": "Verify timestamp and full segment via Fox News archives."
+      "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -891,12 +909,14 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:13:58",
-      "investigative_direction": "Verify timestamp and full segment via Fox News archives."
+      "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -908,12 +928,14 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:14:50",
-      "investigative_direction": "Cross-reference event staff logs or volunteer rosters provided by organizers."
+      "investigative_direction": "Cross-reference event staff logs or volunteer rosters provided by organizers.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -925,12 +947,14 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
-      "investigative_direction": "Pull registrar verification or alumni records (subject to FERPA limits)."
+      "investigative_direction": "Pull registrar verification or alumni records (subject to FERPA limits).",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -942,12 +966,14 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-247",
         "N-1248"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
-      "investigative_direction": "Confirm whether the female same-name individual is or is not the same person through independent records."
+      "investigative_direction": "Confirm whether the female same-name individual is or is not the same person through independent records.",
+      "mentions_person_refs": [
+        "N-247"
+      ]
     },
     {
       "@type": "Claim",
@@ -959,13 +985,15 @@
         "A-1254.1"
       ],
       "related_nodes": [
-        "N-248",
         "N-1246",
         "N-1247"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
-      "investigative_direction": "Confirm full segment and any subsequent Chaffetz statements on the topic."
+      "investigative_direction": "Confirm full segment and any subsequent Chaffetz statements on the topic.",
+      "mentions_person_refs": [
+        "N-248"
+      ]
     },
     {
       "@type": "Claim",
@@ -991,12 +1019,14 @@
       "claim": "Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-249",
         "N-1249"
       ],
       "tags": [],
       "claim_timestamp": "00:18:33",
-      "investigative_direction": "Locate Utah state announcement and prior employment records."
+      "investigative_direction": "Locate Utah state announcement and prior employment records.",
+      "mentions_person_refs": [
+        "N-249"
+      ]
     },
     {
       "@type": "Claim",
@@ -1048,12 +1078,14 @@
       "claim": "The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1250",
-        "N-37"
+        "N-1250"
       ],
       "tags": [],
       "claim_timestamp": "00:32:52",
-      "investigative_direction": "Pull Arizona trademark filings and confirm attorney of record."
+      "investigative_direction": "Pull Arizona trademark filings and confirm attorney of record.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -1106,13 +1138,15 @@
       "claim": "A second plane (with \"888\" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252",
-        "N-251",
-        "N-76"
+        "N-1252"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
-      "investigative_direction": "Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell."
+      "investigative_direction": "Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.",
+      "mentions_person_refs": [
+        "N-76",
+        "N-251"
+      ]
     },
     {
       "@type": "Claim",
@@ -1164,12 +1198,14 @@
       "claim": "Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252",
-        "N-251"
+        "N-1252"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
-      "investigative_direction": "Locate Maxwell's original Instagram post and any corroborating ATC logs."
+      "investigative_direction": "Locate Maxwell's original Instagram post and any corroborating ATC logs.",
+      "mentions_person_refs": [
+        "N-251"
+      ]
     },
     {
       "@type": "Claim",
@@ -1211,12 +1247,14 @@
         "A-1256.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1253"
       ],
       "tags": [],
       "claim_timestamp": "00:45:21",
-      "investigative_direction": "Verify release date and source channel."
+      "investigative_direction": "Verify release date and source channel.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1228,12 +1266,14 @@
         "A-1256.1"
       ],
       "related_nodes": [
-        "N-42",
         "N-1253"
       ],
       "tags": [],
       "claim_timestamp": "00:45:21",
-      "investigative_direction": "Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events."
+      "investigative_direction": "Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1258,12 +1298,13 @@
       "anchored_artifacts": [
         "A-1258.1"
       ],
-      "related_nodes": [
-        "N-254"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:13",
-      "investigative_direction": "Verify full Harvard event recording and transcript."
+      "investigative_direction": "Verify full Harvard event recording and transcript.",
+      "mentions_person_refs": [
+        "N-254"
+      ]
     },
     {
       "@type": "Claim",
@@ -1275,12 +1316,14 @@
         "A-1259.1"
       ],
       "related_nodes": [
-        "N-228",
         "N-1253"
       ],
       "tags": [],
       "claim_timestamp": "00:53:09",
-      "investigative_direction": "Verify clip source and full Matt Walsh segment."
+      "investigative_direction": "Verify clip source and full Matt Walsh segment.",
+      "mentions_person_refs": [
+        "N-228"
+      ]
     },
     {
       "@type": "Claim",
@@ -1291,13 +1334,14 @@
       "anchored_artifacts": [
         "A-1252.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-247"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:16",
-      "investigative_direction": "Verify Kolbatz's travel timeline via receipts or communications."
+      "investigative_direction": "Verify Kolbatz's travel timeline via receipts or communications.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-247"
+      ]
     }
   ],
   "memes": []

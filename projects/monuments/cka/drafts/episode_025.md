@@ -445,8 +445,9 @@ Claim Timestamp: 00:02:42–00:05:23
 Claim: Memorial service speakers repeatedly characterized Mikey McCoy with adjectival framing ("hero," "amazing," "brilliant," "wise beyond his years") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.
 
 Anchored Artifacts: A-1321.1
+Mentions: N-45, N-272
 
-Related Nodes: N-272, N-45, N-1288
+Related Nodes: N-1288
 
 Investigative Direction: Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.
 
@@ -459,8 +460,9 @@ Claim Timestamp: 00:05:23–00:07:16
 Claim: On Faith Forward Show, Rob McCoy referenced Charlie Kirk's journaled succession plan extending through 2028 and connected Mikey's institutional future to Erika's "amazing Mikey McCoy" speech at the memorial.
 
 Anchored Artifacts: A-1322.1
+Mentions: N-2, N-45, N-272
 
-Related Nodes: N-45, N-272, N-2, N-1288
+Related Nodes: N-1288
 
 Investigative Direction: Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals.
 
@@ -473,8 +475,9 @@ Claim Timestamp: 00:10:01–00:10:58
 Claim: Mikey McCoy stated on camera that the Asia/Korea trip — which he described as occurring "three, four days before Utah" — was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.
 
 Anchored Artifacts: A-1323.1
+Mentions: N-272
 
-Related Nodes: N-272, N-1289
+Related Nodes: N-1289
 
 Investigative Direction: Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary.
 
@@ -487,8 +490,9 @@ Claim Timestamp: 00:11:45
 Claim: Eliza McCoy's Instagram post states that the McCoy-Kirk joint trip was "our first family trip together."
 
 Anchored Artifacts: A-1324.1
+Mentions: N-1, N-2, N-272, N-326
 
-Related Nodes: N-326, N-272, N-1, N-2, N-1289
+Related Nodes: N-1289
 
 Investigative Direction: Verify Eliza McCoy's Instagram post metadata for date and context; cross-reference against the McCoy-Kirk trip timeline to confirm whether footage (including the "sweet moment" viral clip) was captured during this specific trip.
 
@@ -501,8 +505,9 @@ Claim Timestamp: 00:14:47
 Claim: Per Ventura County Star, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.
 
 Anchored Artifacts: A-1325.1
+Mentions: N-45, N-330
 
-Related Nodes: N-45, N-330, N-1290
+Related Nodes: N-1290
 
 Investigative Direction: Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records.
 
@@ -515,8 +520,9 @@ Claim Timestamp: 00:17:57–00:19:30
 Claim: Per Fox 13 News (Nate Carile), UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.
 
 Anchored Artifacts: A-1326.1
+Mentions: N-331
 
-Related Nodes: N-331, N-1291
+Related Nodes: N-1291
 
 Investigative Direction: File records requests for the full UVU event application, security plan, and any internal communications between UVU and TPUSA; compare against standard UVU event application forms for the 2024–2025 academic year.
 
@@ -529,8 +535,9 @@ Claim Timestamp: 00:15:50
 Claim: Per host's stated confirmation, Rob McCoy placed his Coronado (near San Diego) home on the market on August 24, 2025.
 
 Anchored Artifacts: A-1327.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1290
+Related Nodes: N-1290
 
 Investigative Direction: Verify via Zillow/Redfin/realtor.com listing records for August 24, 2025; cross-reference ownership records with Rob McCoy's name and prior Coronado property references.
 
@@ -543,8 +550,8 @@ Claim Timestamp: 00:33:25–00:35:17
 Claim: On Dave Smith's show, Tucker Carlson asserted that collective punishment (blood guilt) is antithetical to Christianity and to the western tradition, and characterized Israel's position as outside that tradition.
 
 Anchored Artifacts: A-1328.1
+Mentions: N-50, N-68, N-293
 
-Related Nodes: N-50, N-68, N-293
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing.
 
@@ -557,8 +564,8 @@ Claim Timestamp: 00:35:17–00:37:12
 Claim: Tucker Carlson stated that he interviewed Nick Fuentes — despite Fuentes's prior attacks on Tucker's wife, son, and father — to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.
 
 Anchored Artifacts: A-1329.1
+Mentions: N-50, N-68, N-293
 
-Related Nodes: N-50, N-293, N-68
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and any follow-up exchange.
 
@@ -571,8 +578,9 @@ Claim Timestamp: 00:41:52–00:43:00
 Claim: Per host's source statement, George Zinn presented at Utah Valley Hospital after the 9/10 event for treatment of minor injuries sustained during the disruption and told staff he had been paid to engage in disruption but did not know the payment source.
 
 Anchored Artifacts: A-1331.1
+Mentions: N-71
 
-Related Nodes: N-71, N-1293
+Related Nodes: N-1293
 
 Investigative Direction: Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities.
 
@@ -585,8 +593,9 @@ Claim Timestamp: 00:20:12–00:23:48
 Claim: Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.
 
 Anchored Artifacts: A-1330.1 (peripheral — Milo tweet on denial), host on-air confirmation statement
+Mentions: N-334
 
-Related Nodes: N-1292, N-334
+Related Nodes: N-1292
 
 Investigative Direction: Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure.
 

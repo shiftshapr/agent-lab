@@ -285,8 +285,8 @@ Claim Timestamp: 00:26:10–00:37:00
 Claim: Witness "Mitch" states he was subject to a non-disclosure / gag order of approximately 25–35 years following his involvement in a 1990 JTF6 (10th Mountain Division) mission that located a major cross-border drug tunnel between Douglas, Arizona and Mexico.
 
 Anchored Artifacts: A-1558.3
+Mentions: N-597
 
-Related Nodes: N-597
 
 Investigative Direction: Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels.
 
@@ -299,8 +299,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Witness "Mitch" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), as verified by host via EXIF metadata from an 18-minute self-recorded video and matching military ID credentials.
 
 Anchored Artifacts: A-1558.1, A-1558.2, A-1558.3
+Mentions: N-597
 
-Related Nodes: N-597, N-1438
+Related Nodes: N-1438
 
 Investigative Direction: Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.
 
@@ -313,8 +314,9 @@ Claim Timestamp: 00:44:46–00:50:12
 Claim: While at the JTF command building on the morning of September 9, 2025, witness observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel. Witness was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.
 
 Anchored Artifacts: A-1558.3
+Mentions: N-518, N-597
 
-Related Nodes: N-597, N-518, N-1438
+Related Nodes: N-1438
 
 Investigative Direction: Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.
 
@@ -327,8 +329,9 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Witness "Mitch" states that a woman he observed at the Candlewood Inn & Suites lobby on September 8, 2025 with striking blue eyes matched reference photographs of Erika Kirk at 95–99% confidence.
 
 Anchored Artifacts: A-1558.3, A-1559.3
+Mentions: N-2, N-597
 
-Related Nodes: N-2, N-597, N-1438
+Related Nodes: N-1438
 
 Investigative Direction: Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification.
 
@@ -341,8 +344,9 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Witness "Mitch" identified by resemblance (95–99%) the man who walked out of the JTF building on September 9, 2025 as Brian Harpole, citing matching mannerisms, facial features, height, haircut, and gait.
 
 Anchored Artifacts: A-1558.3, A-1559.2
+Mentions: N-597
 
-Related Nodes: N-597, N-1438
+Related Nodes: N-1438
 
 Investigative Direction: Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025.
 
@@ -355,8 +359,9 @@ Claim Timestamp: 01:01:18
 Claim: After viewing a reference photograph of Congressman Mark Amodei (R-NV) on air, witness "Mitch" identified him at approximately 95% confidence as the congressman-style figure seen walking closest to him at the JTF building on September 9, 2025.
 
 Anchored Artifacts: A-1558.3, A-1559.1
+Mentions: N-597, N-599
 
-Related Nodes: N-599, N-597, N-1438
+Related Nodes: N-1438
 
 Investigative Direction: Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration.
 
@@ -369,8 +374,9 @@ Claim Timestamp: 00:14:48–00:17:53
 Claim: A former gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.
 
 Anchored Artifacts: A-1557.2
+Mentions: N-598
 
-Related Nodes: N-598, N-1439
+Related Nodes: N-1439
 
 Investigative Direction: Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students.
 
@@ -383,8 +389,9 @@ Claim Timestamp: 00:16:38–00:17:14
 Claim: Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson — telling lies, maintaining false personas, and avoiding "breaking character" — at bars and public venues, with implications of sexual encounters with targets.
 
 Anchored Artifacts: A-1557.2
+Mentions: N-598
 
-Related Nodes: N-598, N-1439
+Related Nodes: N-1439
 
 Investigative Direction: Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices.
 
@@ -411,8 +418,9 @@ Claim Timestamp: 00:50:12–00:53:59
 Claim: After his identification of personnel exiting the JTF building, witness "Mitch" was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him; a plainclothes woman (described as possibly Secret Service) directed questioning.
 
 Anchored Artifacts: A-1558.3
+Mentions: N-518, N-597
 
-Related Nodes: N-597, N-518, N-1438
+Related Nodes: N-1438
 
 Investigative Direction: Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025.
 

@@ -667,13 +667,14 @@
         "A-2351.3",
         "A-2351.4"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Verify continuity of journal entries against timestamps and corroborating events referenced."
+      "investigative_direction": "Verify continuity of journal entries against timestamps and corroborating events referenced.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -684,12 +685,13 @@
       "anchored_artifacts": [
         "A-2352.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:08",
-      "investigative_direction": "Locate original publication of the open letter and verify signatures."
+      "investigative_direction": "Locate original publication of the open letter and verify signatures.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -700,12 +702,13 @@
       "anchored_artifacts": [
         "A-2352.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:20",
-      "investigative_direction": "Verify letter text and any official response from investigative authorities."
+      "investigative_direction": "Verify letter text and any official response from investigative authorities.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -716,13 +719,14 @@
       "anchored_artifacts": [
         "A-2353.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:30",
-      "investigative_direction": "Verify original text-message record and date against Charlie Kirk's device backups or testimony."
+      "investigative_direction": "Verify original text-message record and date against Charlie Kirk's device backups or testimony.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -734,12 +738,14 @@
         "A-2354.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-3"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:12:55",
-      "investigative_direction": "Verify text record; cross-reference against any public statement from Kanye."
+      "investigative_direction": "Verify text record; cross-reference against any public statement from Kanye.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -751,12 +757,14 @@
         "A-2354.2"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-3"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:12:38",
-      "investigative_direction": "Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*"
+      "investigative_direction": "Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -768,12 +776,14 @@
         "A-2355.1"
       ],
       "related_nodes": [
-        "N-1212",
-        "N-3"
+        "N-1212"
       ],
       "tags": [],
       "claim_timestamp": "00:15:44",
-      "investigative_direction": "Locate the original tweet via archive. *Artifact verbally referenced but not shown in episode.*"
+      "investigative_direction": "Locate the original tweet via archive. *Artifact verbally referenced but not shown in episode.*",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -786,12 +796,14 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1213",
-        "N-3"
+        "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:25:15–00:26:04",
-      "investigative_direction": "Confirm concert date and Kid Cudi's set via tour documentation."
+      "investigative_direction": "Confirm concert date and Kid Cudi's set via tour documentation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -802,14 +814,15 @@
       "anchored_artifacts": [
         "A-2351.2"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:38",
-      "investigative_direction": "Obtain probate records and any will amendments filed in relevant jurisdiction."
+      "investigative_direction": "Obtain probate records and any will amendments filed in relevant jurisdiction.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -820,14 +833,15 @@
       "anchored_artifacts": [
         "A-2351.2"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:38",
-      "investigative_direction": "Verify property records and timeline of acquisition vs. residence."
+      "investigative_direction": "Verify property records and timeline of acquisition vs. residence.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -839,12 +853,14 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-1214",
-        "N-1"
+        "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:03:59–00:05:08",
-      "investigative_direction": "Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*"
+      "investigative_direction": "Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -855,12 +871,13 @@
       "anchored_artifacts": [
         "A-2351.2"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:50",
-      "investigative_direction": "Verify medical or insurance records if relevant to investigation."
+      "investigative_direction": "Verify medical or insurance records if relevant to investigation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -871,12 +888,13 @@
       "anchored_artifacts": [
         "A-2351.2"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Not investigationally material; recorded for biographical record."
+      "investigative_direction": "Not investigationally material; recorded for biographical record.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -887,12 +905,13 @@
       "anchored_artifacts": [
         "A-2351.4"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:38",
-      "investigative_direction": "Not investigationally material; recorded for biographical record."
+      "investigative_direction": "Not investigationally material; recorded for biographical record.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -904,13 +923,15 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-1215",
-        "N-1",
-        "N-3"
+        "N-1215"
       ],
       "tags": [],
       "claim_timestamp": "00:05:08",
-      "investigative_direction": "Verify speaker list and video documentation of memorial event."
+      "investigative_direction": "Verify speaker list and video documentation of memorial event.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,13 +942,14 @@
       "anchored_artifacts": [
         "A-2351.3"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:50",
-      "investigative_direction": "Verify against any contemporaneous recording, communication, or corroborating witness."
+      "investigative_direction": "Verify against any contemporaneous recording, communication, or corroborating witness.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -971,12 +993,13 @@
       "anchored_artifacts": [
         "A-2352.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:18",
-      "investigative_direction": "Verify letter text and signatories."
+      "investigative_direction": "Verify letter text and signatories.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",

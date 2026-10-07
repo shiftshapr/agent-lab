@@ -895,12 +895,14 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-1211",
-        "N-46"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:33:00–00:35:40",
-      "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context."
+      "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",

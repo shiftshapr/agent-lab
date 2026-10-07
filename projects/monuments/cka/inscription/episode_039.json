@@ -907,12 +907,14 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-463",
         "N-1377"
       ],
       "tags": [],
       "claim_timestamp": "00:06:34",
-      "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account."
+      "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.",
+      "mentions_person_refs": [
+        "N-463"
+      ]
     },
     {
       "@type": "Claim",
@@ -924,13 +926,15 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-463",
-        "N-475",
         "N-1377"
       ],
       "tags": [],
       "claim_timestamp": "00:07:45",
-      "investigative_direction": "Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling."
+      "investigative_direction": "Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling.",
+      "mentions_person_refs": [
+        "N-463",
+        "N-475"
+      ]
     },
     {
       "@type": "Claim",
@@ -942,13 +946,15 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-463",
-        "N-464",
         "N-1374"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
-      "investigative_direction": "Cross-reference firm partnership records and Richards family genealogy."
+      "investigative_direction": "Cross-reference firm partnership records and Richards family genealogy.",
+      "mentions_person_refs": [
+        "N-463",
+        "N-464"
+      ]
     },
     {
       "@type": "Claim",
@@ -960,12 +966,14 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-463",
         "N-1377"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
-      "investigative_direction": "Obtain the plea agreement and original charging documents."
+      "investigative_direction": "Obtain the plea agreement and original charging documents.",
+      "mentions_person_refs": [
+        "N-463"
+      ]
     },
     {
       "@type": "Claim",
@@ -977,13 +985,15 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-466",
-        "N-474",
         "N-1377"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
-      "investigative_direction": "Confirm against public court records of the John DuPont criminal case."
+      "investigative_direction": "Confirm against public court records of the John DuPont criminal case.",
+      "mentions_person_refs": [
+        "N-466",
+        "N-474"
+      ]
     },
     {
       "@type": "Claim",
@@ -995,13 +1005,15 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-467",
-        "N-468",
         "N-1377"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
-      "investigative_direction": "Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece."
+      "investigative_direction": "Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.",
+      "mentions_person_refs": [
+        "N-467",
+        "N-468"
+      ]
     },
     {
       "@type": "Claim",
@@ -1012,12 +1024,13 @@
       "anchored_artifacts": [
         "A-1481.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:09",
-      "investigative_direction": "Obtain the original text record or phone screenshot for verification of exact wording."
+      "investigative_direction": "Obtain the original text record or phone screenshot for verification of exact wording.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1028,12 +1041,13 @@
       "anchored_artifacts": [
         "A-1482.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:29",
-      "investigative_direction": "Obtain screenshot of original exchange if preserved."
+      "investigative_direction": "Obtain screenshot of original exchange if preserved.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1058,14 +1072,15 @@
       "anchored_artifacts": [
         "A-1484.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:38–00:59:00",
+      "investigative_direction": "No investigative direction; capture as audience signal.",
+      "mentions_person_refs": [
         "N-1",
         "N-2",
         "N-462"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:54:38–00:59:00",
-      "investigative_direction": "No investigative direction; capture as audience signal."
+      ]
     },
     {
       "@type": "Claim",
@@ -1091,16 +1106,18 @@
         "A-1486.1"
       ],
       "related_nodes": [
-        "N-264",
-        "N-471",
-        "N-43",
         "N-1369",
-        "N-1371",
-        "N-476"
+        "N-1371"
       ],
       "tags": [],
       "claim_timestamp": "00:28:17",
-      "investigative_direction": "Obtain phone records or sworn statements from the named TPUSA sources to identify the called party."
+      "investigative_direction": "Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.",
+      "mentions_person_refs": [
+        "N-43",
+        "N-264",
+        "N-471",
+        "N-476"
+      ]
     },
     {
       "@type": "Claim",
@@ -1112,13 +1129,15 @@
         "A-1486.2"
       ],
       "related_nodes": [
-        "N-264",
-        "N-471",
         "N-1369"
       ],
       "tags": [],
       "claim_timestamp": "00:30:22",
-      "investigative_direction": "Obtain the underlying communications with the named TPUSA sources."
+      "investigative_direction": "Obtain the underlying communications with the named TPUSA sources.",
+      "mentions_person_refs": [
+        "N-264",
+        "N-471"
+      ]
     },
     {
       "@type": "Claim",
@@ -1130,13 +1149,15 @@
         "A-1486.3"
       ],
       "related_nodes": [
-        "N-264",
-        "N-471",
         "N-1369"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
-      "investigative_direction": "Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures."
+      "investigative_direction": "Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.",
+      "mentions_person_refs": [
+        "N-264",
+        "N-471"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,15 +1169,17 @@
         "A-1486.4"
       ],
       "related_nodes": [
-        "N-264",
-        "N-471",
-        "N-70",
-        "N-1372",
-        "N-37"
+        "N-1372"
       ],
       "tags": [],
       "claim_timestamp": "00:47:01",
-      "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials."
+      "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-70",
+        "N-264",
+        "N-471"
+      ]
     },
     {
       "@type": "Claim",

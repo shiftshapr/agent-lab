@@ -835,8 +835,9 @@ Claim Timestamp: 00:02:39
 Claim: Leaked Telegram shows Erika asking who the big hitters are and requesting a full donor list to make notes; staff reply with new six-figure donors sorted by MGO—host treats this as ending the pure grieving-widow narrative.
 
 Anchored Artifacts: A-2466.1
+Mentions: N-2
 
-Related Nodes: N-2360, N-2
+Related Nodes: N-2360
 
 Investigative Direction: Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date.
 
@@ -849,8 +850,9 @@ Claim Timestamp: 00:15:21
 Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$2.25M (payment schedule possibly ~$2.47M) for extensive event, influencer, and branding benefits through early 2026, including a proposed Why Refi Theater. Host names TPUSA sponsorship lead Dylan Erickson, Why Refi CEO Laine Schoneberger (company founded with Dennis Fenstermaker), contracted appearances by Riley Gaines, and criticism from Student Loan Justice founder Alan Collinge.
 
 Anchored Artifacts: A-2467.1
+Mentions: N-47, N-48, N-49, N-51, N-52
 
-Related Nodes: N-2361, N-1459, N-47, N-48, N-49, N-51, N-52
+Related Nodes: N-1459, N-2361
 
 Investigative Direction: Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.
 
@@ -863,8 +865,9 @@ Claim Timestamp: 00:20:10
 Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
 
 Anchored Artifacts: A-2468.1, A-2467.1
+Mentions: N-47, N-134
 
-Related Nodes: N-2361, N-2354, N-2351, N-134, N-47
+Related Nodes: N-2351, N-2354, N-2361
 
 Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.
 
@@ -877,8 +880,9 @@ Claim Timestamp: 00:23:22
 Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together. Host also recalls Mitt Romney and Benjamin Netanyahu meeting as BCG advisers.
 
 Anchored Artifacts: A-2469.1
+Mentions: N-5, N-16, N-57, N-65, N-117, N-898
 
-Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-5, N-898, N-117, N-65, N-16, N-57
+Related Nodes: N-1098, N-2351, N-2354, N-2359, N-2362
 
 Investigative Direction: Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.
 
@@ -891,8 +895,9 @@ Claim Timestamp: 00:29:19
 Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, host lists mid-July and August meetings on Epstein files with JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
 
 Anchored Artifacts: A-2470.1
+Mentions: N-4, N-35, N-58, N-102, N-120, N-178, N-182, N-209, N-213, N-215, N-223, N-225, N-867
 
-Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-58, N-178, N-182, N-209, N-213, N-215, N-223, N-225
+Related Nodes: N-1395, N-2362
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 
@@ -905,8 +910,9 @@ Claim Timestamp: 00:47:17
 Claim: Host, following published interrogation narrative and Tucker parents interview, asserts agents ignored distress/stimming, treated continued denial as a new crime, and extracted a confession after Cole twice denied recognizing the person in video.
 
 Anchored Artifacts: A-2471.1
+Mentions: N-50, N-53
 
-Related Nodes: N-2363, N-50, N-53
+Related Nodes: N-2363
 
 Investigative Direction: Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows.
 
@@ -919,5 +925,6 @@ Claim Timestamp: 00:51:47
 Claim: Host shows Scripps packages in which the same correspondents present minor prior traffic bodycam for Robinson and later for Cole, arguing a federal narrative-management pattern; adds speculative note that Erika attended daycare in a Cincinnati Scripps building.
 
 Anchored Artifacts: A-2472.1
+Mentions: N-2, N-53, N-54, N-69
 
-Related Nodes: N-2364, N-69, N-2, N-53, N-54
+Related Nodes: N-2364

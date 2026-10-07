@@ -505,7 +505,7 @@ Claim Timestamp: 00:14:00
 Claim: Turning Point USA spokesperson Andrew Kovette, on the Charlie Kirk Show, confirmed the text-message screen grab released by Candace Owens is authentic and was originally shared by him with others.
 
 Anchored Artifacts: A-1228.1, A-1227.8
-Related Nodes: N-42, N-1, N-3
+Mentions: N-1, N-3, N-42
 Investigative Direction: Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kovette's stated timeline of sharing with "people in government" against any subsequent investigative filings.
 
 ---
@@ -517,7 +517,7 @@ Claim Timestamp: 00:15:24
 Claim: Andrew Kovette stated he shared the text-message screen grab with "a few people in government" within the first 33 hours after Kirk's death, before the suspect was publicly identified.
 
 Anchored Artifacts: A-1228.2
-Related Nodes: N-42
+Mentions: N-42
 Investigative Direction: Identify which government figures received the screen grab; determine whether any chain-of-custody record exists for the shared image.
 
 ---
@@ -529,7 +529,7 @@ Claim Timestamp: 00:17:46
 Claim: Andrew Kovette characterized Kirk's feelings about Israel as "complicated" and "nuanced," stating a "wrestle" had been ongoing for months, located between the BB Netanyahu letter and the text chain.
 
 Anchored Artifacts: A-1228.4, A-1232.1
-Related Nodes: N-42, N-1
+Mentions: N-1, N-42
 Investigative Direction: Compare Kovette's "wrestle" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.
 
 ---
@@ -541,7 +541,7 @@ Claim Timestamp: 00:16:13
 Claim: Blake, co-host of the Charlie Kirk Show, publicly identified himself as an eyewitness to events and stated he had been advised not to comment publicly to avoid compromising any trial.
 
 Anchored Artifacts: A-1228.3
-Related Nodes: N-224
+Mentions: N-224
 Investigative Direction: Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary.
 
 ---
@@ -553,7 +553,7 @@ Claim Timestamp: 00:28:21
 Claim: Former Navy SEAL Robert J. O'Neill, on the Piers Morgan Show, stated the wound visible in the Charlie Kirk video appeared to be an exit wound rather than an entry wound.
 
 Anchored Artifacts: A-1229.1
-Related Nodes: N-216, N-1
+Mentions: N-1, N-216
 Investigative Direction: Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.
 
 ---
@@ -565,7 +565,7 @@ Claim Timestamp: 00:29:02
 Claim: Robert J. O'Neill questioned why Kirk's shirt moved right to left if shot from a stated rooftop location, citing his own experience with people he had shot.
 
 Anchored Artifacts: A-1229.2
-Related Nodes: N-216, N-1
+Mentions: N-1, N-216
 Investigative Direction: Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location.
 
 ---
@@ -577,7 +577,7 @@ Claim Timestamp: 00:29:51
 Claim: Robert J. O'Neill stated the crime scene was torn down and "paved over" rapidly, with nothing remaining to see.
 
 Anchored Artifacts: A-1229.3
-Related Nodes: N-216
+Mentions: N-216
 Investigative Direction: Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party.
 
 ---
@@ -589,7 +589,7 @@ Claim Timestamp: 00:08:09
 Claim: A user identified as Britta publicly accused Candace Owens of posting fake group-chat screenshots to back her narrative.
 
 Anchored Artifacts: A-1227.1, A-1227.2
-Related Nodes: N-3
+Mentions: N-3
 Investigative Direction: Cross-reference the Britta accusation against the Kovette confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.
 
 ---
@@ -601,7 +601,7 @@ Claim Timestamp: 00:09:26
 Claim: Laura Loomer publicly dismissed Candace Owens's text-messages reporting as "postpartum psychotic rants" and stated that even real texts would not implicate Israel.
 
 Anchored Artifacts: A-1227.4
-Related Nodes: N-91, N-3
+Mentions: N-3, N-91
 Investigative Direction: Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity.
 
 ---
@@ -613,7 +613,7 @@ Claim Timestamp: 00:11:11
 Claim: Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.
 
 Anchored Artifacts: A-1227.6
-Related Nodes: N-3
+Mentions: N-3
 Investigative Direction: Determine the actual interval between Candace's receipt and release of the text chain.
 
 ---
@@ -625,7 +625,7 @@ Claim Timestamp: 00:12:01
 Claim: The Quartering publicly posed the question of what the released texts actually prove beyond the fact that someone close to Kirk leaked them.
 
 Anchored Artifacts: A-1227.7
-Related Nodes: N-221, N-1
+Mentions: N-1, N-221
 Investigative Direction: Evaluate the substance of the "what does it prove" critique against the substantive content of the text chain (C-1382, N-42).
 
 ---
@@ -637,7 +637,7 @@ Claim Timestamp: 00:12:48
 Claim: Per the Misfit Patriot tweet displayed, Community Notes added an update stating Andrew Kovette confirmed the screen grab was real.
 
 Anchored Artifacts: A-1227.8
-Related Nodes: N-42
+Mentions: N-42
 Investigative Direction: Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation.
 
 ---
@@ -649,7 +649,7 @@ Claim Timestamp: 00:43:14
 Claim: TPUSA donors John and Arena Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.
 
 Anchored Artifacts: A-1231.1
-Related Nodes: N-217, N-218, N-3, N-1
+Mentions: N-1, N-3, N-217, N-218
 Investigative Direction: Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership.
 
 ---
@@ -661,7 +661,7 @@ Claim Timestamp: 00:49:54
 Claim: The Mappin letter states the Mappins have been receiving calls from senior Republicans and Turning Point donors who agree with Candace but are "terrified to voice their views publicly."
 
 Anchored Artifacts: A-1231.2
-Related Nodes: N-217, N-218
+Mentions: N-217, N-218
 Investigative Direction: Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record.
 
 ---
@@ -673,7 +673,7 @@ Claim Timestamp: 00:48:30
 Claim: The Mappin letter states "few people following the matter believe the official version" and that a "low minority believe that the current suspect is guilty."
 
 Anchored Artifacts: A-1231.1
-Related Nodes: N-217, N-218
+Mentions: N-217, N-218
 Investigative Direction: Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative.
 
 ---
@@ -685,7 +685,7 @@ Claim Timestamp: 00:44:38
 Claim: Candace identifies John Mappin as the TPUSA donor who helped her and Kirk set up Turning Point UK, identifying him as the donor who made the introductions that enabled the UK launch event where Candace first saw George (Zinn).
 
 Anchored Artifacts: A-1231.1 (context); Candace verbal statement at 00:44:38
-Related Nodes: N-217, N-218
+Mentions: N-217, N-218
 Investigative Direction: Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.
 
 ---
@@ -697,7 +697,7 @@ Claim Timestamp: 00:04:56
 Claim: Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
-Related Nodes: N-220, N-91
+Mentions: N-91, N-220
 Investigative Direction: Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.
 
 ---
@@ -709,7 +709,7 @@ Claim Timestamp: 00:23:52
 Claim: Josh Hammer, on a show the day before the episode, publicly claimed he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, alongside "a couple others," and that they discussed messaging for Kirk's campus tour.
 
 Anchored Artifacts: A-1234.1
-Related Nodes: N-42, N-1
+Mentions: N-1, N-42
 Investigative Direction: Identify the other Zoom call attendees; obtain any contemporaneous notes or call logs; verify whether the call occurred.
 
 ---
@@ -721,7 +721,7 @@ Claim Timestamp: 00:21:25
 Claim: Candace Owens states three unnamed people (two with written communication, one a TPUSA donor) told her that Charlie Kirk expressed "I think they're going to kill me" the day before his death.
 
 Anchored Artifacts: A-1235.1
-Related Nodes: N-3, N-1
+Mentions: N-1, N-3
 Investigative Direction: Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turk) and any other contemporaneous sources for Kirk premonition statements.
 
 ---
@@ -733,7 +733,7 @@ Claim Timestamp: 01:02:44
 Claim: Per a Luna fan comment on the episode, Dr. Frank Turk reported on his podcast that Charlie Kirk, in a conversation about upping his security, said "they want him dead."
 
 Anchored Artifacts: A-1233.1
-Related Nodes: N-16, N-1
+Mentions: N-1, N-16
 Investigative Direction: Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio.
 
 ---
@@ -745,7 +745,7 @@ Claim Timestamp: 00:38:49
 Claim: Per Lance Twiggs's family (via Candace), Lance was "raided," was "angry about that raid," and was "instantly released back into their care within 6 hours."
 
 Anchored Artifacts: A-1235.2
-Related Nodes: N-3
+Mentions: N-3
 Investigative Direction: Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.
 
 ---
@@ -757,7 +757,8 @@ Claim Timestamp: 00:40:07
 Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family's knowledge or consent.
 
 Anchored Artifacts: A-1235.3
-Related Nodes: N-3, N-1237
+Mentions: N-3
+Related Nodes: N-1237
 Investigative Direction: Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).
 
 ---
@@ -769,7 +770,8 @@ Claim Timestamp: 00:41:24
 Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.
 
 Anchored Artifacts: A-1235.4
-Related Nodes: N-3, N-1239
+Mentions: N-3
+Related Nodes: N-1239
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
 ---
@@ -781,7 +783,8 @@ Claim Timestamp: 00:36:11
 Claim: Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.
 
 Anchored Artifacts: A-1235.5
-Related Nodes: N-3, N-1236
+Mentions: N-3
+Related Nodes: N-1236
 Investigative Direction: Identify which federal department is implicated; obtain any employment / family records.
 
 ---

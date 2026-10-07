@@ -597,12 +597,14 @@
         "A-1676.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1514"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
-      "investigative_direction": "Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings."
+      "investigative_direction": "Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -613,12 +615,13 @@
       "anchored_artifacts": [
         "A-1676.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:24",
-      "investigative_direction": "Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim."
+      "investigative_direction": "Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -630,12 +633,14 @@
         "A-1676.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1514"
       ],
       "tags": [],
       "claim_timestamp": "00:15:47",
-      "investigative_direction": "Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial."
+      "investigative_direction": "Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -647,13 +652,15 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-2",
-        "N-792",
         "N-1515"
       ],
       "tags": [],
       "claim_timestamp": "00:20:47",
-      "investigative_direction": "Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements."
+      "investigative_direction": "Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-792"
+      ]
     },
     {
       "@type": "Claim",
@@ -665,12 +672,14 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-2",
         "N-1515"
       ],
       "tags": [],
       "claim_timestamp": "00:20:47",
-      "investigative_direction": "Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel."
+      "investigative_direction": "Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -681,12 +690,13 @@
       "anchored_artifacts": [
         "A-1676.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:29",
-      "investigative_direction": "Determine whether \"TPUSA 2.0\" branding has been formally adopted in organizational materials, IRS filings, or governance documents."
+      "investigative_direction": "Determine whether \"TPUSA 2.0\" branding has been formally adopted in organizational materials, IRS filings, or governance documents.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -697,12 +707,13 @@
       "anchored_artifacts": [
         "A-1679.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:45",
-      "investigative_direction": "Verify full NYT article text and date of publication; compare framing against prior public statements by Erika Kirk regarding the timing of the interview."
+      "investigative_direction": "Verify full NYT article text and date of publication; compare framing against prior public statements by Erika Kirk regarding the timing of the interview.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -713,12 +724,13 @@
       "anchored_artifacts": [
         "A-1677.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:33",
-      "investigative_direction": "Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety."
+      "investigative_direction": "Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -729,13 +741,14 @@
       "anchored_artifacts": [
         "A-1678.1"
       ],
-      "related_nodes": [
-        "N-724",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:27:32",
-      "investigative_direction": "Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives."
+      "investigative_direction": "Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-724"
+      ]
     },
     {
       "@type": "Claim",
@@ -748,12 +761,14 @@
         "A-1681.1"
       ],
       "related_nodes": [
-        "N-793",
         "N-1516"
       ],
       "tags": [],
       "claim_timestamp": "00:39:08",
-      "investigative_direction": "Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates."
+      "investigative_direction": "Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.",
+      "mentions_person_refs": [
+        "N-793"
+      ]
     },
     {
       "@type": "Claim",
@@ -764,12 +779,13 @@
       "anchored_artifacts": [
         "A-1682.1"
       ],
-      "related_nodes": [
-        "N-793"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:47",
-      "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration."
+      "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.",
+      "mentions_person_refs": [
+        "N-793"
+      ]
     },
     {
       "@type": "Claim",
@@ -780,12 +796,13 @@
       "anchored_artifacts": [
         "A-1679.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:44",
-      "investigative_direction": "Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary."
+      "investigative_direction": "Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

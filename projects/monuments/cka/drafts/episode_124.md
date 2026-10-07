@@ -397,8 +397,8 @@ Claim Timestamp: 00:04:24
 Claim: The displayed collage shows multiple influencers using the word "overwhelming" to describe the evidence against Tyler Robinson in the preliminary hearing.
 
 Anchored Artifacts: A-2115.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated.
 
@@ -607,8 +607,9 @@ Claim Timestamp: 01:01:37
 Claim: Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.
 
 Anchored Artifacts: A-2127.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2111
+Related Nodes: N-2111
 
 Investigative Direction: Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis.
 

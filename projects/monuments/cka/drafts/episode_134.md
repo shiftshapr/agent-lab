@@ -388,8 +388,9 @@ Claim Timestamp: 33:25:00
 Claim: The defense memorandum excerpt states the bullet sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of C7 vertebra, and transected the cervical spinal cord.
 
 Anchored Artifacts: A-2207.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2160
+Related Nodes: N-2160
 
 Investigative Direction: Obtain the complete defense memorandum and compare with the medical examiner's full autopsy report and any independent forensic review.
 
@@ -402,8 +403,9 @@ Claim Timestamp: 35:25:00
 Claim: The defense memorandum states the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).
 
 Anchored Artifacts: A-2207.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2160
+Related Nodes: N-2160
 
 Investigative Direction: Obtain complete autopsy findings; consult independent medical expert on whether hemorrhaging is consistent with the described bullet trajectory, post-injury resuscitation, or alternative blunt force trauma.
 
@@ -446,8 +448,9 @@ Claim Timestamp: 15:40:00
 Claim: On 2025-09-11 at approximately 5:27 PM Phoenix time, Sky News broadcast that Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.
 
 Anchored Artifacts: A-2205.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2162
+Related Nodes: N-2162
 
 Investigative Direction: Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records.
 
@@ -474,8 +477,9 @@ Claim Timestamp: 02:44:00
 Claim: An X account called Lisa Knows posted that Candace released footage the judge ordered not be shown to the public, asserted Candace had "docketed a witness" for the prosecution, and called for obstruction charges against Candace.
 
 Anchored Artifacts: A-2208.1
+Mentions: N-3
 
-Related Nodes: N-1210, N-3
+Related Nodes: N-1210
 
 Investigative Direction: Verify original tweet; cross-reference court orders on broadcasting exhibits.
 
@@ -490,8 +494,8 @@ Claim Timestamp: 03:53:00
 Claim: A Community Note applied to the obstruction-accusation tweets clarified that court broadcasting limits apply to courtroom media (not third-party commentators) and that legal obstruction of justice requires corrupt intent to impede proceedings.
 
 Anchored Artifacts: A-2215.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Verify original tweet with Community Note attached; consult legal authority on obstruction statute elements (18 U.S.C. § 1503 et seq.).
 
@@ -548,8 +552,8 @@ Claim Timestamp: 02:44:00
 Claim: An X user posted that if Candace was not charged with obstruction of justice / jury tampering for releasing the rooftop footage, it would prove a two-tiered justice system, and demanded that those responsible go to jail.
 
 Anchored Artifacts: A-2216.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Verify original tweet content; note possible transcription artifacts in quote.
 
@@ -564,8 +568,8 @@ Claim Timestamp: 40:16:00
 Claim: A viewer emailed Candace crediting her Becoming Brigitte series with helping their marriage recover from the husband's emotional affair, leading to renewed conversations and reconnection with the viewer's sister.
 
 Anchored Artifacts: A-2209.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Verify by contacting the viewer with consent; tangential to the Kirk investigation but artifact-anchored.
 

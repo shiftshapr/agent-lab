@@ -498,8 +498,9 @@ Claim Timestamp: 00:36:34
 Claim: According to a Deseret News profile piece, Blake Neff stated he was with members sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and was discussing how podcaster Candace Owens would react to Charlie's death.
 
 Anchored Artifacts: A-2347.1
+Mentions: N-1, N-4, N-9
 
-Related Nodes: N-4, N-1028, N-1, N-9
+Related Nodes: N-1028
 
 Investigative Direction: Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other "members" present.
 
@@ -512,8 +513,9 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated Charlie Kirk was aware of Candace Owens's theories about France's first lady being transgender.
 
 Anchored Artifacts: A-2347.1
+Mentions: N-4, N-9
 
-Related Nodes: N-4, N-1028, N-9
+Related Nodes: N-1028
 
 Investigative Direction: Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.
 
@@ -526,8 +528,9 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff described some of Candace Owens's views as "weird stuff about Jewish cults."
 
 Anchored Artifacts: A-2347.1
+Mentions: N-4, N-9
 
-Related Nodes: N-4, N-1028, N-9
+Related Nodes: N-1028
 
 Investigative Direction: Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.
 
@@ -540,8 +543,9 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated that some of Candace Owens's views were part of the reason Turning Point USA had become less involved with Owens around 2024.
 
 Anchored Artifacts: A-2347.1
+Mentions: N-4, N-9, N-10
 
-Related Nodes: N-4, N-1028, N-10, N-9
+Related Nodes: N-1028
 
 Investigative Direction: Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.
 
@@ -554,8 +558,9 @@ Claim Timestamp: 00:33:48
 Claim: Blake Neff, in an X post read aloud on the episode, called Candace Owens "seven vacations a year Owens" and stated she cannot imagine someone liking work.
 
 Anchored Artifacts: A-2346.1
+Mentions: N-4
 
-Related Nodes: N-4, N-1028
+Related Nodes: N-1028
 
 Investigative Direction: Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.
 
@@ -568,8 +573,8 @@ Claim Timestamp: 00:40:40
 Claim: Erika Kirk published a one-year look back on her grief in an op-ed for The New York Times, with portions read aloud by the host.
 
 Anchored Artifacts: A-2348.1
+Mentions: N-2, N-8
 
-Related Nodes: N-2, N-8
 
 Investigative Direction: Locate the op-ed in NYT archives; verify publication date, paywall status, and full text directly.
 
@@ -582,8 +587,9 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
+Mentions: N-2, N-16
 
-Related Nodes: N-2, N-1028, N-16
+Related Nodes: N-1028
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.
 
@@ -596,8 +602,9 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief — that the worst stretch is like a plane descending with screaming children before landing.
 
 Anchored Artifacts: A-2348.1
+Mentions: N-2, N-16
 
-Related Nodes: N-2, N-1028, N-16
+Related Nodes: N-1028
 
 Investigative Direction: Confirm the quoted analogy in the op-ed directly.
 
@@ -610,8 +617,8 @@ Claim Timestamp: 00:46:35
 Claim: In her NYT op-ed, Erika Kirk writes that she is not angry at God, that her husband was "one of one," that she was "blessed to be his wife," and that she "understood his assignment here on Earth."
 
 Anchored Artifacts: A-2348.1
+Mentions: N-1, N-2
 
-Related Nodes: N-2, N-1
 
 Investigative Direction: Confirm the quoted language in the op-ed directly.
 
@@ -624,8 +631,9 @@ Claim Timestamp: 00:47:27
 Claim: In her NYT op-ed, the closing lines reference "a dear friend" telling the author to "just get through the next 15 minutes," with the "15 minutes" phrase repeated as a refrain.
 
 Anchored Artifacts: A-2348.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1028
+Related Nodes: N-1028
 
 Investigative Direction: Confirm the closing lines directly in the op-ed; identify whether the op-ed identifies the "dear friend" by name.
 
@@ -638,8 +646,9 @@ Claim Timestamp: 00:08:28
 Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.
 
 Anchored Artifacts: A-2349.1
+Mentions: N-5, N-6
 
-Related Nodes: N-1028, N-6, N-5
+Related Nodes: N-1028
 
 Investigative Direction: Verify the footage timestamp and attendees independently; confirm the date and venue.
 
@@ -652,8 +661,8 @@ Claim Timestamp: 00:42:13
 Claim: In a clip played on the episode, Charlie Kirk publicly states he reads The New York Times "so you don't have to."
 
 Anchored Artifacts: A-2345.1
+Mentions: N-1, N-8
 
-Related Nodes: N-1, N-8
 
 Investigative Direction: Identify the original episode and date of the clip; verify the exact wording.
 
@@ -666,8 +675,8 @@ Claim Timestamp: 00:56:42
 Claim: According to a viewer comment read aloud on the episode, Salem Media and "Waterstone" are releasing a Charlie Kirk documentary with an alleged unreleased interview filmed shortly before September 10, titled "Can You Hear Me Now?"
 
 Anchored Artifacts: A-2350.5
+Mentions: N-1, N-18
 
-Related Nodes: N-18, N-1
 
 Investigative Direction: Verify the documentary's existence via official Salem Media and "Waterstone" press releases; confirm the title, release date, and the existence of any unreleased interview footage.
 

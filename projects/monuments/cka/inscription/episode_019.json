@@ -806,13 +806,15 @@
       ],
       "related_nodes": [
         "N-1257",
-        "N-1259",
-        "N-259",
-        "N-260"
+        "N-1259"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34–00:11:27",
-      "investigative_direction": "Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10."
+      "investigative_direction": "Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.",
+      "mentions_person_refs": [
+        "N-259",
+        "N-260"
+      ]
     },
     {
       "@type": "Claim",
@@ -858,12 +860,14 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-256",
         "N-1258"
       ],
       "tags": [],
       "claim_timestamp": "00:24:44–00:25:51",
-      "investigative_direction": "Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody."
+      "investigative_direction": "Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.",
+      "mentions_person_refs": [
+        "N-256"
+      ]
     },
     {
       "@type": "Claim",
@@ -875,12 +879,14 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-256",
         "N-1258"
       ],
       "tags": [],
       "claim_timestamp": "00:24:44–00:25:51",
-      "investigative_direction": "Obtain video and assess whether any medical assessment could have supported such a declaration at that moment."
+      "investigative_direction": "Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.",
+      "mentions_person_refs": [
+        "N-256"
+      ]
     },
     {
       "@type": "Claim",
@@ -892,12 +898,14 @@
         "A-1262.2"
       ],
       "related_nodes": [
-        "N-256",
         "N-1258"
       ],
       "tags": [],
       "claim_timestamp": "00:23:05",
-      "investigative_direction": "Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window."
+      "investigative_direction": "Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.",
+      "mentions_person_refs": [
+        "N-256"
+      ]
     },
     {
       "@type": "Claim",
@@ -909,12 +917,14 @@
         "A-1260.1"
       ],
       "related_nodes": [
-        "N-1260",
-        "N-255"
+        "N-1260"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11",
-      "investigative_direction": "Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation."
+      "investigative_direction": "Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.",
+      "mentions_person_refs": [
+        "N-255"
+      ]
     },
     {
       "@type": "Claim",
@@ -1021,12 +1031,13 @@
       "anchored_artifacts": [
         "A-1267.1"
       ],
-      "related_nodes": [
-        "N-262"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:33",
-      "investigative_direction": "Locate original post URL and timestamp on X."
+      "investigative_direction": "Locate original post URL and timestamp on X.",
+      "mentions_person_refs": [
+        "N-262"
+      ]
     },
     {
       "@type": "Claim",
@@ -1051,13 +1062,14 @@
       "label": "Camera Operator Brought into TPUSA by Tyler Bowyer",
       "claim": "Host states the camera operator was brought into TPUSA by Tyler Bowyer.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-256",
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:56",
-      "investigative_direction": "Obtain TPUSA hiring/contract records for the unnamed AV company operator."
+      "investigative_direction": "Obtain TPUSA hiring/contract records for the unnamed AV company operator.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-256"
+      ]
     },
     {
       "@type": "Claim",
@@ -1066,12 +1078,13 @@
       "label": "Mikey McCoy Brought into TPUSA by Tyler Bowyer",
       "claim": "Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:39",
-      "investigative_direction": "Verify via TPUSA organizational records."
+      "investigative_direction": "Verify via TPUSA organizational records.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -1080,13 +1093,14 @@
       "label": "Stacy Sheridan Brought into TPUSA by Tyler Bowyer",
       "claim": "Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-264",
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:39",
-      "investigative_direction": "Verify via TPUSA organizational records."
+      "investigative_direction": "Verify via TPUSA organizational records.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-264"
+      ]
     },
     {
       "@type": "Claim",
@@ -1107,13 +1121,14 @@
       "label": "Frank Turk's Reaction Described as Normal Post-Shot Behavior",
       "claim": "Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally — dropping to ground and crawling toward Kirk to assist.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-16",
-        "N-181"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:09–00:57:03",
-      "investigative_direction": "Locate video evidence corroborating Turk's specific movements."
+      "investigative_direction": "Locate video evidence corroborating Turk's specific movements.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-181"
+      ]
     },
     {
       "@type": "Claim",
@@ -1124,12 +1139,13 @@
       "anchored_artifacts": [
         "A-1269.1"
       ],
-      "related_nodes": [
-        "N-181"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:43",
-      "investigative_direction": "Locate original comment thread."
+      "investigative_direction": "Locate original comment thread.",
+      "mentions_person_refs": [
+        "N-181"
+      ]
     },
     {
       "@type": "Claim",
@@ -1140,12 +1156,13 @@
       "anchored_artifacts": [
         "A-1269.5"
       ],
-      "related_nodes": [
-        "N-263"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:53:26",
-      "investigative_direction": "Obtain court appearance records and any media coverage of the Zoom appearance."
+      "investigative_direction": "Obtain court appearance records and any media coverage of the Zoom appearance.",
+      "mentions_person_refs": [
+        "N-263"
+      ]
     },
     {
       "@type": "Claim",
@@ -1157,12 +1174,14 @@
         "A-1269.9"
       ],
       "related_nodes": [
-        "N-256",
         "N-1258"
       ],
       "tags": [],
       "claim_timestamp": "00:56:09",
-      "investigative_direction": "Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1."
+      "investigative_direction": "Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.",
+      "mentions_person_refs": [
+        "N-256"
+      ]
     },
     {
       "@type": "Claim",
@@ -1171,12 +1190,13 @@
       "label": "Andrew Kovett Did Not Respond to Comment Request",
       "claim": "Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-42"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:46–00:14:46",
-      "investigative_direction": "Obtain any written correspondence or call records from the outreach attempts."
+      "investigative_direction": "Obtain any written correspondence or call records from the outreach attempts.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1201,12 +1221,13 @@
       "anchored_artifacts": [
         "A-1261.1"
       ],
-      "related_nodes": [
-        "N-261"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:45:00–00:46:00",
-      "investigative_direction": "Cross-reference name spelling against prior episodes and public records."
+      "investigative_direction": "Cross-reference name spelling against prior episodes and public records.",
+      "mentions_person_refs": [
+        "N-261"
+      ]
     },
     {
       "@type": "Claim",
@@ -1217,12 +1238,13 @@
       "anchored_artifacts": [
         "A-1261.1"
       ],
-      "related_nodes": [
-        "N-266"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:00–00:51:00",
-      "investigative_direction": "Locate the referenced Scott Adams video and timestamp the host mention."
+      "investigative_direction": "Locate the referenced Scott Adams video and timestamp the host mention.",
+      "mentions_person_refs": [
+        "N-266"
+      ]
     },
     {
       "@type": "Claim",
@@ -1233,12 +1255,13 @@
       "anchored_artifacts": [
         "A-1261.1"
       ],
-      "related_nodes": [
-        "N-267"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:52:00–00:53:00",
-      "investigative_direction": "Identify primary artifact anchor if a dedicated clip exists in a later pass."
+      "investigative_direction": "Identify primary artifact anchor if a dedicated clip exists in a later pass.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
     }
   ],
   "memes": []

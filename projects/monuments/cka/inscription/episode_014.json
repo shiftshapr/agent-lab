@@ -696,13 +696,15 @@
         "A-1209.1"
       ],
       "related_nodes": [
-        "N-102",
-        "N-206",
         "N-1224"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45–00:09:33",
-      "investigative_direction": "Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship."
+      "investigative_direction": "Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-206"
+      ]
     },
     {
       "@type": "Claim",
@@ -746,13 +748,15 @@
         "A-1211.1"
       ],
       "related_nodes": [
-        "N-202",
         "N-1224",
         "N-1225"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32–00:13:03",
-      "investigative_direction": "Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation."
+      "investigative_direction": "Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.",
+      "mentions_person_refs": [
+        "N-202"
+      ]
     },
     {
       "@type": "Claim",
@@ -764,12 +768,14 @@
         "A-1211.1"
       ],
       "related_nodes": [
-        "N-202",
         "N-1224"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32–00:13:03",
-      "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution)."
+      "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).",
+      "mentions_person_refs": [
+        "N-202"
+      ]
     },
     {
       "@type": "Claim",
@@ -781,12 +787,14 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-6",
         "N-1226"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07–00:32:15",
-      "investigative_direction": "Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications."
+      "investigative_direction": "Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications.",
+      "mentions_person_refs": [
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -798,13 +806,15 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-6",
-        "N-207",
         "N-1226"
       ],
       "tags": [],
       "claim_timestamp": "00:32:15",
-      "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records."
+      "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.",
+      "mentions_person_refs": [
+        "N-6",
+        "N-207"
+      ]
     },
     {
       "@type": "Claim",
@@ -816,12 +826,14 @@
         "A-1213.1"
       ],
       "related_nodes": [
-        "N-203",
         "N-1227"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:53",
-      "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence."
+      "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.",
+      "mentions_person_refs": [
+        "N-203"
+      ]
     },
     {
       "@type": "Claim",
@@ -865,12 +877,14 @@
         "A-1216.1"
       ],
       "related_nodes": [
-        "N-204",
         "N-1227"
       ],
       "tags": [],
       "claim_timestamp": "00:36:30–00:37:30",
-      "investigative_direction": "Verify original post and any associated official statements or security reports."
+      "investigative_direction": "Verify original post and any associated official statements or security reports.",
+      "mentions_person_refs": [
+        "N-204"
+      ]
     },
     {
       "@type": "Claim",
@@ -882,12 +896,14 @@
         "A-1217.1"
       ],
       "related_nodes": [
-        "N-205",
         "N-1227"
       ],
       "tags": [],
       "claim_timestamp": "00:46:40–00:47:20",
-      "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary."
+      "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary.",
+      "mentions_person_refs": [
+        "N-205"
+      ]
     }
   ],
   "memes": []

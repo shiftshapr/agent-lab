@@ -1,6 +1,6 @@
-# CKA epistemic graph (Phase A)
+# CKA epistemic graph (Phase A + Phase B)
 
-**Status:** Draft syntax + preflight + schema only. Neo4j ingest mapping is Phase C (locked). Episode draft backfill is Phase B.
+**Status:** Draft syntax + preflight + schema (Phase A) and modern-draft typed-edge backfill (Phase B) are implemented. Neo4j ingest mapping remains Phase C (locked). No Neo4j write, pack, or BoC promo from this track.
 
 **Principle (Daveed lock 2026-10-06):** Preserve disagreement better than conclusions. A claim is a temporal object: what was aired, at which stamp, with which artifacts. Never mutate or delete a minted claim. Monument = memory in motion.
 
@@ -58,6 +58,15 @@ Investigative Direction: …
 5. On artifact sub-items, add `CapturedAt: N-####` only when the clip/document has a concrete place locus.
 6. Preflight `claim_fork` (P0) fails if the same C-id carries different labels or materially different `Claim:` bodies across episodes. Fix by remint + typed edges, not by editing the old id.
 
+## Phase B backfill (implemented)
+
+On modern CKA drafts (`projects/monuments/cka/drafts/episode_*.md`) and matching inscription claim JSON:
+
+1. **Mentions split:** person-band `N-1..N-999` moved from claim `Related Nodes:` onto `Mentions:`; topic/org/place leftovers stay on `Related Nodes:` (empty Related lines removed).
+2. **Contradicts backfill:** high-confidence explicit-oppose pairs wired (plus pre-existing Contradicts kept). Full-corpus judgment deferred where opposition is narrative-only or lacks a rival C-id.
+3. **Revises:** PR 51 fork remints `C-3630/3631/3632` vs `C-1123/1124/1285` are **different propositions that collided on id only**, so no `Revises:` edge. True host walk-back remints with `Revises:` remain deferred pending clearer same-lineage pairs.
+4. **Locks honored:** no Neo4j write, no pack, no BoC promo. Mark Herman stays `N-98` only (no retired `N-237/407/527`).
+
 ## Preflight
 
 ```bash
@@ -66,9 +75,9 @@ python3 projects/monuments/scripts/dia_preflight.py --monument cka
 
 See `projects/monuments/DIA_PREFLIGHT.md` check `claim_fork`.
 
-## Out of scope (this phase)
+## Out of scope (remaining)
 
-- Phase B: mass backfill of Mentions/Revises/Contradicts on existing episode drafts
 - Phase C: Neo4j edge ingest (`ASSERTS`, `REVISES`, `CONNECTED_TO`, `CAPTURED_AT`, …)
 - Inscription pack promote / Neo4j write
 - BoC promo (BoC is syntax/ingest reference only)
+- Exhaustive corpus-wide `Revises:` / `Supports:` / `Qualifies:` / `Connected:` / `CapturedAt:` judgment

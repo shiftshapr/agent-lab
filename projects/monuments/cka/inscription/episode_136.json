@@ -835,12 +835,14 @@
         "A-2223.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2170"
       ],
       "tags": [],
       "claim_timestamp": "00:03:26",
-      "investigative_direction": "Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody."
+      "investigative_direction": "Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1047,13 +1049,14 @@
       "anchored_artifacts": [
         "A-2231.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:43",
-      "investigative_direction": "Locate the original media appearance (outlet, date, full context) and confirm the quote is unedited."
+      "investigative_direction": "Locate the original media appearance (outlet, date, full context) and confirm the quote is unedited.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1064,12 +1067,13 @@
       "anchored_artifacts": [
         "A-2232.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:45",
-      "investigative_direction": "Locate the original source videos (date, outlet, full clip) to confirm context and that the clips are unedited."
+      "investigative_direction": "Locate the original source videos (date, outlet, full clip) to confirm context and that the clips are unedited.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1080,12 +1084,13 @@
       "anchored_artifacts": [
         "A-2232.2"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:31",
-      "investigative_direction": "Source the original archived segment to verify date, venue, and full context of the statement."
+      "investigative_direction": "Source the original archived segment to verify date, venue, and full context of the statement.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

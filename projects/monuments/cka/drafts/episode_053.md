@@ -428,8 +428,9 @@ Claim Timestamp: 00:06:31
 Claim: A Daily Wire producer contacted Maggie Wagner approximately two days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show to critique both sides of politics but centered on mocking Candace Owens and Tucker Carlson.
 
 Anchored Artifacts: A-1587.1
+Mentions: N-640
 
-Related Nodes: N-640, N-1456
+Related Nodes: N-1456
 
 Investigative Direction: Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.
 
@@ -442,8 +443,9 @@ Claim Timestamp: 00:07:36
 Claim: The audition script and accompanying AI video sample sent to Maggie Wagner were entirely dedicated to making fun of Candace Owens, with the producer explicitly stating the show would mock Candace or Tucker when they "say something crazy."
 
 Anchored Artifacts: A-1587.1, A-1589.1
+Mentions: N-640
 
-Related Nodes: N-640, N-1456
+Related Nodes: N-1456
 
 Investigative Direction: Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.
 
@@ -456,8 +458,9 @@ Claim Timestamp: 00:11:04
 Claim: Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
 
 Anchored Artifacts: A-1588.1
+Mentions: N-640
 
-Related Nodes: N-640, N-1456
+Related Nodes: N-1456
 
 Investigative Direction: Verify the text message thread against phone records and identify the producer's account.
 
@@ -470,8 +473,9 @@ Claim Timestamp: 00:24:45
 Claim: Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:00 PM Pacific, citing the company's handling of Michelle Fields' assault allegations against Corey Lewandowski.
 
 Anchored Artifacts: A-1590.1
+Mentions: N-642, N-644, N-645
 
-Related Nodes: N-642, N-644, N-645, N-1457, N-1462
+Related Nodes: N-1457, N-1462
 
 Investigative Direction: Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.
 
@@ -484,8 +488,9 @@ Claim Timestamp: 00:18:09
 Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitbart," "tried to take over David Horowitz's [organization]," and predicted he "will make a move on Turning Point."
 
 Anchored Artifacts: A-1591.1
+Mentions: N-641, N-642
 
-Related Nodes: N-641, N-642, N-1457
+Related Nodes: N-1457
 
 Investigative Direction: Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.
 
@@ -498,8 +503,9 @@ Claim Timestamp: 00:48:50
 Claim: Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.
 
 Anchored Artifacts: A-1592.1
+Mentions: N-646
 
-Related Nodes: N-646, N-1458, N-1461
+Related Nodes: N-1458, N-1461
 
 Investigative Direction: Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action.
 
@@ -512,8 +518,9 @@ Claim Timestamp: 00:49:14
 Claim: Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.
 
 Anchored Artifacts: A-1592.1
+Mentions: N-646
 
-Related Nodes: N-646, N-1461
+Related Nodes: N-1461
 
 Investigative Direction: Obtain the plea agreement and charging documents from the Arizona court.
 
@@ -526,8 +533,9 @@ Claim Timestamp: 00:44:48
 Claim: Charlie Kirk sent Candace text messages describing an older Jewish man from Chicago (described as having been matched with Charlie through a gifted school) who confirmed Charlie's visions that he would die young and that his death would "save humanity."
 
 Anchored Artifacts: A-1593.1
+Mentions: N-1, N-648
 
-Related Nodes: N-1, N-648, N-1460
+Related Nodes: N-1460
 
 Investigative Direction: Obtain the original text message thread for verification; investigate the identity of the "oracle" figure and his connection to the gifted school.
 
@@ -540,8 +548,9 @@ Claim Timestamp: 00:06:31
 Claim: The Daily Wire producer who contacted Maggie Wagner was described by Maggie as being in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
 
 Anchored Artifacts: A-1587.1
+Mentions: N-640
 
-Related Nodes: N-640, N-1456
+Related Nodes: N-1456
 
 Investigative Direction: Verify the timeline of the show's conception against internal Daily Wire communications if obtainable.
 
@@ -554,8 +563,9 @@ Claim Timestamp: 00:25:28
 Claim: Per Shapiro's own resignation statement, he was hired by Andrew Breitbart as editor-at-large of Breitbart News approximately two weeks before Andrew Breitbart's death on March 1, 2012.
 
 Anchored Artifacts: A-1590.1
+Mentions: N-642
 
-Related Nodes: N-642, N-1457, N-1462
+Related Nodes: N-1457, N-1462
 
 Investigative Direction: Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.
 

@@ -526,8 +526,9 @@ Claim Timestamp: 00:10:34–00:11:27
 Claim: Host's frame-by-frame analysis of event-day footage shows Mikey McCoy raising his phone to his ear approximately 834 milliseconds after the gunshot audio is heard.
 
 Anchored Artifacts: A-1261.1
+Mentions: N-259, N-260
 
-Related Nodes: N-1257, N-1259, N-259, N-260
+Related Nodes: N-1257, N-1259
 
 Investigative Direction: Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.
 
@@ -568,8 +569,9 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: The unnamed camera operator recorded a selfie video within the first minute after the shooting.
 
 Anchored Artifacts: A-1262.1
+Mentions: N-256
 
-Related Nodes: N-256, N-1258
+Related Nodes: N-1258
 
 Investigative Direction: Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.
 
@@ -582,8 +584,9 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: In the selfie video, the camera operator states "He's dead."
 
 Anchored Artifacts: A-1262.1
+Mentions: N-256
 
-Related Nodes: N-256, N-1258
+Related Nodes: N-1258
 
 Investigative Direction: Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.
 
@@ -596,8 +599,9 @@ Claim Timestamp: 00:23:05
 Claim: The camera operator sent Candace Owens a video showing his actions during the four minutes preceding camera takedown.
 
 Anchored Artifacts: A-1262.2
+Mentions: N-256
 
-Related Nodes: N-256, N-1258
+Related Nodes: N-1258
 
 Investigative Direction: Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.
 
@@ -610,8 +614,9 @@ Claim Timestamp: 00:07:11
 Claim: Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, that Kirk had assembled a succession plan and that TPUSA was implementing it.
 
 Anchored Artifacts: A-1260.1
+Mentions: N-255
 
-Related Nodes: N-1260, N-255
+Related Nodes: N-1260
 
 Investigative Direction: Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.
 
@@ -720,8 +725,8 @@ Claim Timestamp: 00:35:33
 Claim: John Miller posted: "They really trying to make us believe this is the good guy. LMAO"
 
 Anchored Artifacts: A-1267.1
+Mentions: N-262
 
-Related Nodes: N-262
 
 Investigative Direction: Locate original post URL and timestamp on X.
 
@@ -748,8 +753,8 @@ Claim Timestamp: 00:23:56
 Claim: Host states the camera operator was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion)
+Mentions: N-37, N-256
 
-Related Nodes: N-256, N-37
 
 Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV company operator.
 
@@ -762,8 +767,8 @@ Claim Timestamp: 00:04:39
 Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
+Mentions: N-37
 
-Related Nodes: N-37
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -776,8 +781,8 @@ Claim Timestamp: 00:04:39
 Claim: Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.
 
 Anchored Artifacts: None (host assertion)
+Mentions: N-37, N-264
 
-Related Nodes: N-264, N-37
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -804,8 +809,8 @@ Claim Timestamp: 00:56:09–00:57:03
 Claim: Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally — dropping to ground and crawling toward Kirk to assist.
 
 Anchored Artifacts: None (assertion; no specific footage cited in episode for Turk's actions)
+Mentions: N-16, N-181
 
-Related Nodes: N-16, N-181
 
 Investigative Direction: Locate video evidence corroborating Turk's specific movements.
 
@@ -818,8 +823,8 @@ Claim Timestamp: 00:51:43
 Claim: Ian Carol commented: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
 
 Anchored Artifacts: A-1269.1
+Mentions: N-181
 
-Related Nodes: N-181
 
 Investigative Direction: Locate original comment thread.
 
@@ -832,8 +837,8 @@ Claim Timestamp: 00:53:26
 Claim: Joshua Steves commenter states Tyler Robinson appeared in court via Zoom "without having to show his face."
 
 Anchored Artifacts: A-1269.5
+Mentions: N-263
 
-Related Nodes: N-263
 
 Investigative Direction: Obtain court appearance records and any media coverage of the Zoom appearance.
 
@@ -846,8 +851,9 @@ Claim Timestamp: 00:56:09
 Claim: David Foster commented he was "more shook up seeing the footage than the camera guy seemed in a selfie video" and that the camera operator "wasn't even shaking."
 
 Anchored Artifacts: A-1269.9
+Mentions: N-256
 
-Related Nodes: N-256, N-1258
+Related Nodes: N-1258
 
 Investigative Direction: Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.
 
@@ -860,8 +866,8 @@ Claim Timestamp: 00:13:46–00:14:46
 Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.
 
 Anchored Artifacts: None (host assertion)
+Mentions: N-42
 
-Related Nodes: N-42
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
 
@@ -888,8 +894,8 @@ Claim Timestamp: 00:45:00–00:46:00
 Claim: Host discusses Zeb Boyin in connection with witness outreach (register anchor).
 
 Anchored Artifacts: A-1261.1
+Mentions: N-261
 
-Related Nodes: N-261
 
 Investigative Direction: Cross-reference name spelling against prior episodes and public records.
 
@@ -902,8 +908,8 @@ Claim Timestamp: 00:50:00–00:51:00
 Claim: Host states she will dig up a Scott Adams video about Kanye West's tweet ripping a hole through the universe.
 
 Anchored Artifacts: A-1261.1
+Mentions: N-266
 
-Related Nodes: N-266
 
 Investigative Direction: Locate the referenced Scott Adams video and timestamp the host mention.
 
@@ -916,8 +922,8 @@ Claim Timestamp: 00:52:00–00:53:00
 Claim: Host discusses Ryan Mata in episode comment-thread context (register anchor).
 
 Anchored Artifacts: A-1261.1
+Mentions: N-267
 
-Related Nodes: N-267
 
 Investigative Direction: Identify primary artifact anchor if a dedicated clip exists in a later pass.
 

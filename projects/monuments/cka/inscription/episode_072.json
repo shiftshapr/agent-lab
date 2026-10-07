@@ -733,13 +733,15 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-917",
         "N-1573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
-      "investigative_direction": "Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran."
+      "investigative_direction": "Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-917"
+      ]
     },
     {
       "@type": "Claim",
@@ -752,13 +754,15 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-916",
-        "N-917",
         "N-1573"
       ],
       "tags": [],
       "claim_timestamp": "00:27:38",
-      "investigative_direction": "Locate the underlying Epstein document entry and verify the document identifier, page, and original source."
+      "investigative_direction": "Locate the underlying Epstein document entry and verify the document identifier, page, and original source.",
+      "mentions_person_refs": [
+        "N-916",
+        "N-917"
+      ]
     },
     {
       "@type": "Claim",
@@ -770,12 +774,14 @@
         "A-1763.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1572"
       ],
       "tags": [],
       "claim_timestamp": "00:31:35",
-      "investigative_direction": "Verify license issuance and expiration dates against New York Department of State records."
+      "investigative_direction": "Verify license issuance and expiration dates against New York Department of State records.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -786,15 +792,16 @@
       "anchored_artifacts": [
         "A-1766.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-70",
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:47",
-      "investigative_direction": "Compare memorial account against contemporaneous text records between Bowyer and host."
+      "investigative_direction": "Compare memorial account against contemporaneous text records between Bowyer and host.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-37",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -805,14 +812,15 @@
       "anchored_artifacts": [
         "A-1767.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:35",
+      "investigative_direction": "Identify and verify the original source of this account and confirm dating against contemporaneous communications.",
+      "mentions_person_refs": [
         "N-1",
         "N-2",
         "N-70"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:29:35",
-      "investigative_direction": "Identify and verify the original source of this account and confirm dating against contemporaneous communications."
+      ]
     },
     {
       "@type": "Claim",
@@ -823,13 +831,14 @@
       "anchored_artifacts": [
         "A-1767.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:20",
-      "investigative_direction": "Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing."
+      "investigative_direction": "Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -840,14 +849,15 @@
       "anchored_artifacts": [
         "A-1768.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.",
+      "mentions_person_refs": [
         "N-1",
         "N-3",
         "N-75"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:19:06",
-      "investigative_direction": "Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications."
+      ]
     },
     {
       "@type": "Claim",
@@ -858,13 +868,14 @@
       "anchored_artifacts": [
         "A-1768.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-75"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:00",
-      "investigative_direction": "Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics."
+      "investigative_direction": "Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -875,13 +886,14 @@
       "anchored_artifacts": [
         "A-1768.1"
       ],
-      "related_nodes": [
-        "N-3",
-        "N-75"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:45",
-      "investigative_direction": "Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign."
+      "investigative_direction": "Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -892,13 +904,14 @@
       "anchored_artifacts": [
         "A-1768.1"
       ],
-      "related_nodes": [
-        "N-3",
-        "N-75"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:02",
-      "investigative_direction": "Verify against Kelly's guest appearance logs."
+      "investigative_direction": "Verify against Kelly's guest appearance logs.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -910,13 +923,15 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-920",
         "N-1573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
-      "investigative_direction": "Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows."
+      "investigative_direction": "Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-920"
+      ]
     },
     {
       "@type": "Claim",
@@ -927,13 +942,14 @@
       "anchored_artifacts": [
         "A-1771.1"
       ],
-      "related_nodes": [
-        "N-903",
-        "N-919"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:32",
-      "investigative_direction": "Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator."
+      "investigative_direction": "Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.",
+      "mentions_person_refs": [
+        "N-903",
+        "N-919"
+      ]
     },
     {
       "@type": "Claim",
@@ -944,13 +960,14 @@
       "anchored_artifacts": [
         "A-1768.1"
       ],
-      "related_nodes": [
-        "N-3",
-        "N-75"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:43",
-      "investigative_direction": "Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position."
+      "investigative_direction": "Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-75"
+      ]
     }
   ],
   "memes": []

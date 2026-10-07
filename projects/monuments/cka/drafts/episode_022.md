@@ -391,7 +391,8 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:02:17
 Claim: FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.
 Anchored Artifacts: A-1290.1
-Related Nodes: N-1269, N-98
+Mentions: N-98
+Related Nodes: N-1269
 Investigative Direction: Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.
 
 **C-1528** Second low dip approximately 26 minutes after the assassination
@@ -407,7 +408,8 @@ Investigative Direction: Corroborate the timing of the second dip against the pu
 Claim Timestamp: 00:05:46
 Claim: Plane N888KG departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.
 Anchored Artifacts: A-1291.1
-Related Nodes: N-129, N-1271
+Mentions: N-129
+Related Nodes: N-1271
 Investigative Direction: Cross-check against FAA departure logs and Provo Airport (PVU) records.
 
 **C-1530** Maxfield statement on crew, passengers, and route
@@ -415,7 +417,8 @@ Investigative Direction: Cross-check against FAA departure logs and Provo Airpor
 Claim Timestamp: 00:07:26
 Claim: Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo.
 Anchored Artifacts: A-1291.1
-Related Nodes: N-129, N-291, N-1271
+Mentions: N-129, N-291
+Related Nodes: N-1271
 Investigative Direction: Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.
 
 **C-1531** Maxfield statement on FAA radar termination
@@ -423,7 +426,8 @@ Investigative Direction: Verify pilot identities and PGA passenger manifest thro
 Claim Timestamp: 00:08:12
 Claim: Derek Maxfield publicly stated that radar services with Denver FAA Center and N888KG were terminated in mutual agreement approximately 10 miles from PGA, consistent with standard practice at non-towered airports.
 Anchored Artifacts: A-1291.1
-Related Nodes: N-129, N-1271
+Mentions: N-129
+Related Nodes: N-1271
 Investigative Direction: Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports.
 
 **C-1532** Egyptian Air Force SU-BTT Provo arrival and departure dates
@@ -431,7 +435,8 @@ Investigative Direction: Verify the FAA termination claim against Denver Center 
 Claim Timestamp: 00:12:53
 Claim: FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
 Anchored Artifacts: A-1292.1
-Related Nodes: N-50, N-1270
+Mentions: N-50
+Related Nodes: N-1270
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
 **C-1533** SU-BTT three-year routing pattern
@@ -465,7 +470,7 @@ Investigative Direction: Verify independently; cross-reference with any joint U.
 Claim Timestamp: 00:21:18
 Claim: The Daily Mail published a headline stating "Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief."
 Anchored Artifacts: A-1297.1
-Related Nodes: N-102
+Mentions: N-102
 Investigative Direction: Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response.
 
 **C-1537** Josh Hammer op-ed "neutralize" language
@@ -473,7 +478,7 @@ Investigative Direction: Obtain the underlying Daily Mail article; identify what
 Claim Timestamp: 00:31:36
 Claim: Josh Hammer published a Daily Mail op-ed calling Tucker's hosting of Nick Fuentes a "war on MAGA and the modern American right," and stating that "unless the fox is neutralized, the victim could be the entire extant GOP coalition itself."
 Anchored Artifacts: A-1293.1
-Related Nodes: N-42, N-50, N-293
+Mentions: N-42, N-50, N-293
 Investigative Direction: Obtain the full op-ed in original Daily Mail publication; document the "neutralize" framing in context.
 
 **C-1538** Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins
@@ -481,7 +486,7 @@ Investigative Direction: Obtain the full op-ed in original Daily Mail publicatio
 Claim Timestamp: 00:34:20
 Claim: The Stop Anti-Semitism X account posted: "CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized."
 Anchored Artifacts: A-1294.1
-Related Nodes: N-297, N-50
+Mentions: N-50, N-297
 Investigative Direction: Obtain original X post URL; preserve deletion history and engagement metrics.
 
 **C-1539** Seth Dillon on Tucker/Fuentes "irresponsibility"
@@ -489,7 +494,7 @@ Investigative Direction: Obtain original X post URL; preserve deletion history a
 Claim Timestamp: 00:35:53
 Claim: On Piers Morgan, Seth Dillon stated that Tucker Carlson hosting Nick Fuentes was "extremely irresponsible," and that it would have been "a responsible thing and a good thing for the conservative movement" for Tucker to be "standing in the way of Nick Fuentes becoming more mainstream."
 Anchored Artifacts: A-1295.1
-Related Nodes: N-67, N-68, N-50, N-293, N-298
+Mentions: N-50, N-67, N-68, N-293, N-298
 Investigative Direction: Obtain full unedited Piers Morgan interview; verify clip is unedited.
 
 **C-1540** Seth Dillon on Tucker and Christian Zionist "heretics" framing
@@ -497,7 +502,7 @@ Investigative Direction: Obtain full unedited Piers Morgan interview; verify cli
 Claim Timestamp: 00:38:02
 Claim: On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions.
 Anchored Artifacts: A-1295.2
-Related Nodes: N-67, N-68, N-50, N-1
+Mentions: N-1, N-50, N-67, N-68
 Investigative Direction: Obtain full unedited interview segment; verify context.
 
 **C-1541** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance
@@ -505,7 +510,7 @@ Investigative Direction: Obtain full unedited interview segment; verify context.
 Claim Timestamp: 00:48:05
 Claim: On Piers Morgan, Seth Dillon characterized Nick Fuentes as having animosity toward Jews, having called J.D. Vance "fat and ugly" with a "brown family," and as having engaged in "glorification of Hitler."
 Anchored Artifacts: A-1295.3
-Related Nodes: N-67, N-293, N-4
+Mentions: N-4, N-67, N-293
 Investigative Direction: Verify specific Fuentes quotes against primary source material; obtain full interview segment.
 
 **C-1542** TPUSA text chain: Jewish donor loss and Candace invitation
@@ -513,7 +518,8 @@ Investigative Direction: Verify specific Fuentes quotes against primary source m
 Claim Timestamp: 00:42:04
 Claim: A TPUSA internal text-chain screenshot shows Charlie Kirk writing that TPUSA "just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker" and that he is "thinking of inviting Candace."
 Anchored Artifacts: A-1296.1
-Related Nodes: N-1, N-50, N-1272
+Mentions: N-1, N-50
+Related Nodes: N-1272
 Investigative Direction: Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses.
 *Note: Requires human verification.*
 
@@ -522,7 +528,7 @@ Investigative Direction: Independently verify the screenshot provenance, timesta
 Claim Timestamp: 00:42:40
 Claim: An audio clip attributed to Josh Hammer was played on air, stating: "It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right."
 Anchored Artifacts: A-1300.1
-Related Nodes: N-42, N-50
+Mentions: N-42, N-50
 Investigative Direction: Verify original source of audio clip (interview, podcast, or other); confirm attribution.
 
 **C-1544** Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns

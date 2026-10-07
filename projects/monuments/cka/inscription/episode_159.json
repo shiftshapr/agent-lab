@@ -1422,12 +1422,14 @@
         "A-2466.1"
       ],
       "related_nodes": [
-        "N-2360",
-        "N-2"
+        "N-2360"
       ],
       "tags": [],
       "claim_timestamp": "00:02:39",
-      "investigative_direction": "Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date."
+      "investigative_direction": "Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1440,16 +1442,18 @@
       ],
       "related_nodes": [
         "N-2361",
-        "N-1459",
+        "N-1459"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:21",
+      "investigative_direction": "Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.",
+      "mentions_person_refs": [
         "N-47",
         "N-48",
         "N-49",
         "N-51",
         "N-52"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:15:21",
-      "investigative_direction": "Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven."
+      ]
     },
     {
       "@type": "Claim",
@@ -1464,13 +1468,15 @@
       "related_nodes": [
         "N-2361",
         "N-2354",
-        "N-2351",
-        "N-134",
-        "N-47"
+        "N-2351"
       ],
       "tags": [],
       "claim_timestamp": "00:20:10",
-      "investigative_direction": "Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU."
+      "investigative_direction": "Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.",
+      "mentions_person_refs": [
+        "N-47",
+        "N-134"
+      ]
     },
     {
       "@type": "Claim",
@@ -1486,17 +1492,19 @@
         "N-2354",
         "N-2351",
         "N-2359",
-        "N-1098",
-        "N-5",
-        "N-898",
-        "N-117",
-        "N-65",
-        "N-16",
-        "N-57"
+        "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
-      "investigative_direction": "Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy."
+      "investigative_direction": "Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-16",
+        "N-57",
+        "N-65",
+        "N-117",
+        "N-898"
+      ]
     },
     {
       "@type": "Claim",
@@ -1509,24 +1517,26 @@
       ],
       "related_nodes": [
         "N-2362",
-        "N-1395",
-        "N-35",
+        "N-1395"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.",
+      "mentions_person_refs": [
         "N-4",
+        "N-35",
+        "N-58",
         "N-102",
         "N-120",
-        "N-867",
-        "N-58",
         "N-178",
         "N-182",
         "N-209",
         "N-213",
         "N-215",
         "N-223",
-        "N-225"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:29:19",
-      "investigative_direction": "Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only."
+        "N-225",
+        "N-867"
+      ]
     },
     {
       "@type": "Claim",
@@ -1538,13 +1548,15 @@
         "A-2471.1"
       ],
       "related_nodes": [
-        "N-2363",
-        "N-50",
-        "N-53"
+        "N-2363"
       ],
       "tags": [],
       "claim_timestamp": "00:47:17",
-      "investigative_direction": "Obtain full interrogation recordings/transcripts and defense filings; Brian Cole Jr. is person N-53."
+      "investigative_direction": "Obtain full interrogation recordings/transcripts and defense filings; Brian Cole Jr. is person N-53.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-53"
+      ]
     },
     {
       "@type": "Claim",
@@ -1556,15 +1568,17 @@
         "A-2472.1"
       ],
       "related_nodes": [
-        "N-2364",
-        "N-69",
-        "N-2",
-        "N-53",
-        "N-54"
+        "N-2364"
       ],
       "tags": [],
       "claim_timestamp": "00:51:47",
-      "investigative_direction": "Archive both Scripps segments; confirm journalist identity; treat daycare link as weak/speculative pending records."
+      "investigative_direction": "Archive both Scripps segments; confirm journalist identity; treat daycare link as weak/speculative pending records.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-53",
+        "N-54",
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1577,14 +1591,16 @@
       ],
       "related_nodes": [
         "N-1121",
-        "N-2",
-        "N-1",
-        "N-2355",
-        "N-46"
+        "N-2355"
       ],
       "tags": [],
       "claim_timestamp": "01:00:00",
-      "investigative_direction": "Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting."
+      "investigative_direction": "Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1597,15 +1613,17 @@
         "A-2466.1"
       ],
       "related_nodes": [
-        "N-2360",
-        "N-42",
-        "N-2",
-        "N-1",
-        "N-46"
+        "N-2360"
       ],
       "tags": [],
       "claim_timestamp": "01:03:21",
-      "investigative_direction": "Forensic Telegram export if ever obtained; until then keep as sourced allegation."
+      "investigative_direction": "Forensic Telegram export if ever obtained; until then keep as sourced allegation.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-42",
+        "N-46"
+      ]
     }
   ],
   "memes": []

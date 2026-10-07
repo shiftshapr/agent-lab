@@ -379,7 +379,8 @@ Claim Timestamp: 00:06:11
 Claim: A hanger is visible in Photo 1; the host infers it is connected to the sports coat Charlie Kirk was not wearing at the event.
 
 Anchored Artifacts: A-2110.1
-Related Nodes: N-1, N-2104
+Mentions: N-1
+Related Nodes: N-2104
 Investigative Direction: Identify hanger; trace jacket chain of custody (see N-2104).
 
 ---
@@ -391,7 +392,8 @@ Claim Timestamp: 00:07:01
 Claim: Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.
 
 Anchored Artifacts: None (verbally referenced but not shown)
-Related Nodes: N-1, N-2104
+Mentions: N-1
+Related Nodes: N-2104
 Investigative Direction: Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return.
 
 ---
@@ -475,7 +477,7 @@ Claim Timestamp: 00:41:51–00:42:26
 Claim: In a prior interview (clip played during episode), Charlie Kirk described how Erika told him God wanted his phone on during a Saturday — relevant to the Butler shooting anecdote.
 
 Anchored Artifacts: A-2113
-Related Nodes: N-1, N-2
+Mentions: N-1, N-2
 Investigative Direction: Identify the original interview (date, outlet); verify transcript; cross-reference with Charlie Kirk's documented phone-use patterns.
 
 ---

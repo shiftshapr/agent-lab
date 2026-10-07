@@ -732,7 +732,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Related Nodes: N-3, N-4, N-5, N-454
+Mentions: N-3, N-4, N-5, N-454
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -744,7 +744,7 @@ Claim Timestamp: 00:10:41
 Claim: Telegram founder Pavel Durov publicly stated that after reviewing Charlie Kirk's prior comments about Macron's France, he finds Candace Owens's information about French involvement in Kirk's death entirely plausible.
 
 Anchored Artifacts: A-1462.1
-Related Nodes: N-461, N-3, N-1
+Mentions: N-1, N-3, N-461
 Investigative Direction: Locate original Durov X post (date, full context) and verify any prior Durov statements about the 300% tariff framing.
 
 ---
@@ -756,7 +756,8 @@ Claim Timestamp: 00:11:57
 Claim: Article author Freddy Ponton argued that the hesitation in dismissing Owens's allegations comes not from trust in her but from documented precedent of multi-state covert operations, citing the 1976 Safari Club intelligence alliance.
 
 Anchored Artifacts: A-1463.1, A-1464.1
-Related Nodes: N-455, N-1364
+Mentions: N-455
+Related Nodes: N-1364
 Investigative Direction: Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.
 
 ---
@@ -768,7 +769,7 @@ Claim Timestamp: 00:18:50
 Claim: The French Ministry of the Armed Forces issued a public statement that Tyler Robinson was never part of the French Foreign Legion and could not have trained with it if he did not serve in an American military unit.
 
 Anchored Artifacts: A-1466.1
-Related Nodes: N-6, N-5
+Mentions: N-5, N-6
 Investigative Direction: Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives.
 
 ---
@@ -780,7 +781,8 @@ Claim Timestamp: 00:20:28
 Claim: A Camp Riley does not exist in Minnesota; Camp Ripley is the correct name, as identified by Andy Parrish on X.
 
 Anchored Artifacts: A-1467.1, A-1468.1
-Related Nodes: N-456, N-1367
+Mentions: N-456
+Related Nodes: N-1367
 Investigative Direction: Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.
 
 ---
@@ -864,7 +866,8 @@ Claim Timestamp: 00:30:13
 Claim: Per the source email, the Longwood Foundation was founded by Pierre S. du Pont, a member of the French-American du Pont family descended from Pierre Samuel du Pont de Nemours.
 
 Anchored Artifacts: A-1469.3
-Related Nodes: N-459, N-1358
+Mentions: N-459
+Related Nodes: N-1358
 Investigative Direction: Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.
 
 ---
@@ -876,7 +879,8 @@ Claim Timestamp: 00:29:23
 Claim: Per the source email, 2024 legislation was passed to provide financial support to the Longwood Foundation to function as an educational center at the Bracebridge Complex.
 
 Anchored Artifacts: A-1469.3
-Related Nodes: N-1356, N-1358, N-459
+Mentions: N-459
+Related Nodes: N-1356, N-1358
 Investigative Direction: Identify the specific Delaware legislation; obtain bill text and legislative history.
 
 ---
@@ -888,7 +892,8 @@ Claim Timestamp: 00:33:11
 Claim: Per the source email, Hervé Hopineau (a French national) served as the long-time CEO of Incyte Corporation before recently transitioning to an advisor role.
 
 Anchored Artifacts: A-1469.4
-Related Nodes: N-457, N-1357
+Mentions: N-457
+Related Nodes: N-1357
 Investigative Direction: Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service.
 
 ---
@@ -900,7 +905,8 @@ Claim Timestamp: 00:30:58
 Claim: Per the source email, T. Coleman du Pont founded the Wilmington Trust, which in 1990 acquired most lower-Delaware branches of Wilmington Savings Fund Society (WSFS).
 
 Anchored Artifacts: A-1469.5
-Related Nodes: N-460, N-1359
+Mentions: N-460
+Related Nodes: N-1359
 Investigative Direction: Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.
 
 ---
@@ -942,7 +948,8 @@ Claim Timestamp: 00:39:55
 Claim: Brigitte Macron opened Paris Design Week on September 4, 2025, with the French Minister of Culture.
 
 Anchored Artifacts: A-1475.1
-Related Nodes: N-5, N-1365
+Mentions: N-5
+Related Nodes: N-1365
 Investigative Direction: Verify via Paris Design Week official programming and French Ministry of Culture announcements.
 
 ---
@@ -954,7 +961,8 @@ Claim Timestamp: 00:39:55
 Claim: Brigitte Macron was photographed with Ukrainian President Zelensky on September 4, 2025, during an interstate meeting that also included a Saudi Arabia orchestra event.
 
 Anchored Artifacts: A-1475.2
-Related Nodes: N-5, N-8, N-1365
+Mentions: N-5, N-8
+Related Nodes: N-1365
 Investigative Direction: Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.
 
 ---
@@ -966,7 +974,7 @@ Claim Timestamp: 00:47:39
 Claim: On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.
 
 Anchored Artifacts: A-1473.1
-Related Nodes: N-451, N-88
+Mentions: N-88, N-451
 Investigative Direction: Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.
 
 ---
@@ -978,7 +986,8 @@ Claim Timestamp: 00:56:17
 Claim: Eric Bolling sent an apology email to Candace Owens's PR in which he blamed "that Alex guy" (identified in the episode as Adam Sosnick) for the on-air conflict and said Bolling did not even know Sosnick's name at the time of recording.
 
 Anchored Artifacts: A-1474.1
-Related Nodes: N-453, N-451, N-1368
+Mentions: N-451, N-453
+Related Nodes: N-1368
 Investigative Direction: Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick "Sam"; obtain the full original PBD segment context.
 
 ---
@@ -990,7 +999,8 @@ Claim Timestamp: 00:53:57
 Claim: Of approximately 24,856 voters in a YouTube live poll asking "Do you think that this lawsuit was an operation against me?", 93% answered Yes.
 
 Anchored Artifacts: A-1476.1
-Related Nodes: N-3, N-1366
+Mentions: N-3
+Related Nodes: N-1366
 Investigative Direction: Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim.
 
 ---

@@ -630,8 +630,9 @@ Claim Timestamp: 00:43:21
 Claim: Bassem Youssef's Piers Morgan appearance displayed a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which Youssef described as "one Israeli for 27 Palestinian."
 
 Anchored Artifacts: A-1690.1
+Mentions: N-298, N-798
 
-Related Nodes: N-798, N-298, N-1524
+Related Nodes: N-1524
 
 Investigative Direction: Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.
 
@@ -644,8 +645,9 @@ Claim Timestamp: 00:00:01
 Claim: Youssef states Candace Owens was nominated for Anti-Semite of the Year 2024 (and did not win).
 
 Anchored Artifacts: A-1691.1
+Mentions: N-798
 
-Related Nodes: N-798, N-1523
+Related Nodes: N-1523
 
 Investigative Direction: Verify with Anti-Semite of the Year award organization records.
 
@@ -672,8 +674,9 @@ Claim Timestamp: 01:21:47
 Claim: Per read-aloud viewer comment, Navy JAG Ward Boston published a notarized statement in the San Diego Union Tribune asserting the USS Liberty investigation was a cover-up and the attack was deliberate.
 
 Anchored Artifacts: A-1694.1
+Mentions: N-800
 
-Related Nodes: N-800, N-1522, N-1534
+Related Nodes: N-1522, N-1534
 
 Investigative Direction: Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.
 
@@ -686,8 +689,9 @@ Claim Timestamp: 01:23:21
 Claim: Per host, her Phil Turney interview received approximately 7 million views, prompting New York Times outreach.
 
 Anchored Artifacts: A-1694.2 (viewer corroboration)
+Mentions: N-45, N-799
 
-Related Nodes: N-799, N-1522, N-1528, N-1535, N-45
+Related Nodes: N-1522, N-1528, N-1535
 
 Investigative Direction: Verify view count via YouTube analytics or platform data.
 
@@ -700,8 +704,8 @@ Claim Timestamp: 00:00:54–00:01:21
 Claim: Youssef states he took his U.S. citizenship pledge of allegiance in December 2019.
 
 Anchored Artifacts: A-1690 (transcript)
+Mentions: N-798
 
-Related Nodes: N-798
 
 Investigative Direction: Verify with public records / naturalization records if available.
 
@@ -714,8 +718,9 @@ Claim Timestamp: 00:15:48
 Claim: Per host and displayed image, the bandaged follow-up photo shows no blood on bandages despite blood on face in the prior photo.
 
 Anchored Artifacts: A-1693.2
+Mentions: N-802
 
-Related Nodes: N-802, N-1529
+Related Nodes: N-1529
 
 Investigative Direction: Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.
 
@@ -728,8 +733,9 @@ Claim Timestamp: 01:27:19
 Claim: Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).
 
 Anchored Artifacts: A-1697.1 (verbally referenced)
+Mentions: N-801
 
-Related Nodes: N-801, N-1532
+Related Nodes: N-1532
 
 Investigative Direction: Verify the book's actual contents against published editions.
 
@@ -742,8 +748,9 @@ Claim Timestamp: 01:28:11
 Claim: Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.
 
 Anchored Artifacts: A-1697.1 (verbally referenced)
+Mentions: N-801
 
-Related Nodes: N-801, N-1531
+Related Nodes: N-1531
 
 Investigative Direction: Verify with publishing industry records and court records.
 
@@ -798,8 +805,9 @@ Claim Timestamp: 01:46:20–01:47:10
 Claim: Youssef announced Belly of the Beast tour dates: Portland March 20, Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.
 
 Anchored Artifacts: A-1695.1
+Mentions: N-798
 
-Related Nodes: N-798, N-1530
+Related Nodes: N-1530
 
 Investigative Direction: Verify with Youssef's official tour pages and ticketing platforms.
 

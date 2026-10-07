@@ -627,13 +627,15 @@
         "A-2111.4"
       ],
       "related_nodes": [
-        "N-1",
         "N-1212",
         "N-2103"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11–00:17:00",
-      "investigative_direction": "Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs."
+      "investigative_direction": "Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -660,12 +662,14 @@
         "A-2110.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2104"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
-      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-2104)."
+      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-2104).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -675,13 +679,15 @@
       "claim": "Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-2104"
       ],
       "tags": [],
       "claim_timestamp": "00:07:01",
-      "investigative_direction": "Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return."
+      "investigative_direction": "Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -780,13 +786,14 @@
       "anchored_artifacts": [
         "A-2113"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:51–00:42:26",
-      "investigative_direction": "Identify the original interview (date, outlet); verify transcript; cross-reference with Charlie Kirk's documented phone-use patterns."
+      "investigative_direction": "Identify the original interview (date, outlet); verify transcript; cross-reference with Charlie Kirk's documented phone-use patterns.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

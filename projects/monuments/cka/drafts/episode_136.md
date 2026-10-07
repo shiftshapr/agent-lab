@@ -471,7 +471,8 @@ Claim Timestamp: 00:03:26
 Claim: Mikey McCoy's arrival footage shows the rear-door pocket of the SUV as empty at the moment Charlie Kirk exited the vehicle, although black gloves were later recovered from that pocket.
 
 Anchored Artifacts: A-2223.1
-Related Nodes: N-1, N-2170
+Mentions: N-1
+Related Nodes: N-2170
 
 Investigative Direction: Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.
 
@@ -640,7 +641,7 @@ Claim Timestamp: 00:37:43
 Claim: In a media clip played during the episode, Erica Kirk stated that her husband is not here to say whether or not the US should be at war with Iran, and that she personally does not want US boots on the ground or American kinetic involvement.
 
 Anchored Artifacts: A-2231.1
-Related Nodes: N-2, N-1
+Mentions: N-1, N-2
 
 Investigative Direction: Locate the original media appearance (outlet, date, full context) and confirm the quote is unedited.
 
@@ -653,7 +654,7 @@ Claim Timestamp: 00:38:45
 Claim: Archived Charlie Kirk video clips played in the episode describe bombing Iranian nuclear facilities and going to war with Iran as "pathologically insane."
 
 Anchored Artifacts: A-2232.1
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Locate the original source videos (date, outlet, full clip) to confirm context and that the clips are unedited.
 
@@ -666,7 +667,7 @@ Claim Timestamp: 00:39:31
 Claim: An archived Charlie Kirk clip lists prior US military interventions and characterizes US confrontation with Iran as "Israel's war."
 
 Anchored Artifacts: A-2232.2
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Source the original archived segment to verify date, venue, and full context of the statement.
 

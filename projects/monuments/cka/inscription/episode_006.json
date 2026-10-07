@@ -1425,20 +1425,22 @@
         "A-1120.2"
       ],
       "related_nodes": [
-        "N-118",
-        "N-1",
-        "N-1142",
-        "N-99",
-        "N-75",
-        "N-50",
-        "N-107",
-        "N-115"
+        "N-1142"
       ],
       "tags": [],
       "claim_timestamp": "00:03:50",
       "investigative_direction": "Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.",
       "transcript_snippet": "that same individual appears alongside another individual and he moves Charlie's chair",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-75",
+        "N-99",
+        "N-107",
+        "N-115",
+        "N-118"
+      ]
     },
     {
       "@type": "Claim",
@@ -1450,15 +1452,17 @@
         "A-1120.1"
       ],
       "related_nodes": [
-        "N-118",
-        "N-1",
         "N-1142"
       ],
       "tags": [],
       "claim_timestamp": "00:03:35",
       "investigative_direction": "Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.",
       "transcript_snippet": "that person appears to be calmly talking into their phone. It's like a circus around them",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-118"
+      ]
     },
     {
       "@type": "Claim",
@@ -1470,14 +1474,16 @@
         "A-1120.3"
       ],
       "related_nodes": [
-        "N-118",
         "N-1142"
       ],
       "tags": [],
       "claim_timestamp": "00:05:55",
       "investigative_direction": "Forensically examine the recovered camera for evidence of card removal and identify any cards removed.",
       "transcript_snippet": "it looks like he removes the SIM card from it or the SD card if you will",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-118"
+      ]
     },
     {
       "@type": "Claim",
@@ -1489,15 +1495,17 @@
         "A-1122.1"
       ],
       "related_nodes": [
-        "N-118",
-        "N-1000",
-        "N-3"
+        "N-1000"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Verify association via TPUSA employee/vendor records and corroborate timeline with other witnesses.",
       "transcript_snippet": "This person's been around Turning Point for quite some time, for years",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3",
+        "N-118"
+      ]
     },
     {
       "@type": "Claim",
@@ -1509,9 +1517,6 @@
         "A-1122.2"
       ],
       "related_nodes": [
-        "N-118",
-        "N-1",
-        "N-2",
         "N-1142"
       ],
       "tags": [
@@ -1521,7 +1526,12 @@
       "investigative_direction": "Obtain the underlying behind-shot footage directly and have independent forensic analysts review it.",
       "transcript_snippet": "there's no blood... there's no blood from the back",
       "confidence": "medium",
-      "uncertainty_note": "Footage itself not shown in episode; claim rests on host's account of FaceTime viewing."
+      "uncertainty_note": "Footage itself not shown in episode; claim rests on host's account of FaceTime viewing.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-118"
+      ]
     },
     {
       "@type": "Claim",
@@ -1533,14 +1543,16 @@
         "A-1121.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1131"
       ],
       "tags": [],
       "claim_timestamp": "00:00:57",
       "investigative_direction": "Locate the resolution text in the Congressional Record and verify vote tally.",
       "transcript_snippet": "the Senate has voted and they have passed a bipartisan resolution to designate October 14th",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1552,14 +1564,16 @@
         "A-1124.1"
       ],
       "related_nodes": [
-        "N-119",
         "N-1135"
       ],
       "tags": [],
       "claim_timestamp": "00:29:03",
       "investigative_direction": "Verify headline and byline on the Daily Mail site and check publication date.",
       "transcript_snippet": "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-119"
+      ]
     },
     {
       "@type": "Claim",
@@ -1570,16 +1584,17 @@
       "anchored_artifacts": [
         "A-1125.1"
       ],
-      "related_nodes": [
-        "N-66",
-        "N-88",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:18",
       "investigative_direction": "Obtain full PBD segment and verify exact quote against published clip.",
       "transcript_snippet": "her credibility, I mean, is going to go down the tubes because she needs to bring receipts",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-66",
+        "N-88"
+      ]
     },
     {
       "@type": "Claim",
@@ -1591,10 +1606,7 @@
         "A-1125.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-88",
-        "N-1000",
-        "N-3"
+        "N-1000"
       ],
       "tags": [],
       "claim_timestamp": "00:30:38",
@@ -1603,6 +1615,11 @@
       "confidence": "high",
       "contradicts_claim_refs": [
         "C-1223"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-42",
+        "N-88"
       ]
     },
     {
@@ -1615,15 +1632,17 @@
         "A-1126.1"
       ],
       "related_nodes": [
-        "N-120",
-        "N-121",
         "N-1145"
       ],
       "tags": [],
       "claim_timestamp": "00:42:14",
       "investigative_direction": "Verify Bondi's exact remarks against full podcast audio and date.",
       "transcript_snippet": "we will absolutely target you, go after you if you are targeting anyone with hate speech",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-120",
+        "N-121"
+      ]
     },
     {
       "@type": "Claim",
@@ -1635,15 +1654,17 @@
         "A-1127.1"
       ],
       "related_nodes": [
-        "N-122",
-        "N-5",
         "N-1141"
       ],
       "tags": [],
       "claim_timestamp": "00:47:39",
       "investigative_direction": "Verify exact quote against full Kimmel episode transcript and date.",
       "transcript_snippet": "He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-5",
+        "N-122"
+      ]
     },
     {
       "@type": "Claim",
@@ -1654,15 +1675,16 @@
       "anchored_artifacts": [
         "A-1127.2"
       ],
-      "related_nodes": [
-        "N-122",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:52",
       "investigative_direction": "Locate original Instagram post and verify date/time.",
       "transcript_snippet": "can we just for one day agree that it's horrible and monstrous to shoot another person",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-2",
+        "N-122"
+      ]
     },
     {
       "@type": "Claim",
@@ -1714,7 +1736,6 @@
       "claim": "Victoria Churchill (Daily Mail) has a connection to APAC, with photos showing her at APAC events including a 2018 DC conference.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-119",
         "N-1139",
         "N-1147"
       ],
@@ -1722,7 +1743,10 @@
       "claim_timestamp": "00:35:46",
       "investigative_direction": "Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.",
       "confidence": "low",
-      "uncertainty_note": "Connection is host's claim based on visible photos; not independently artifact-anchored in this episode."
+      "uncertainty_note": "Connection is host's claim based on visible photos; not independently artifact-anchored in this episode.",
+      "mentions_person_refs": [
+        "N-119"
+      ]
     },
     {
       "@type": "Claim",
@@ -1734,8 +1758,6 @@
         "A-1128.1"
       ],
       "related_nodes": [
-        "N-127",
-        "N-124",
         "N-1136",
         "N-1138",
         "N-1145"
@@ -1744,7 +1766,11 @@
       "claim_timestamp": "00:50:48",
       "investigative_direction": "Locate full Carr interview on Benny Johnson show and verify against FCC official statements.",
       "transcript_snippet": "Brendan Carr... threatened federal action against ABC affiliates who carried the show",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-124",
+        "N-127"
+      ]
     },
     {
       "@type": "Claim",
@@ -1755,16 +1781,17 @@
       "anchored_artifacts": [
         "A-1129.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-125",
-        "N-126"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:44",
       "investigative_direction": "Locate original Charlie Kirk tweet and verify date and content.",
       "transcript_snippet": "these were beautiful people. They had their lives ahead of them",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-125",
+        "N-126"
+      ]
     },
     {
       "@type": "Claim",
@@ -1775,15 +1802,16 @@
       "anchored_artifacts": [
         "A-1129.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:17",
       "investigative_direction": "Verify the text message screenshot metadata and timestamp.",
       "transcript_snippet": "speech censorship is coming to America... the date here is May 22nd of this year",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1796,8 +1824,6 @@
         "A-1130.2"
       ],
       "related_nodes": [
-        "N-3",
-        "N-1",
         "N-1000"
       ],
       "tags": [],
@@ -1807,6 +1833,10 @@
       "confidence": "high",
       "contradicts_claim_refs": [
         "C-1213"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -1819,8 +1849,6 @@
         "A-1131.1"
       ],
       "related_nodes": [
-        "N-69",
-        "N-84",
         "N-1079",
         "N-1143"
       ],
@@ -1828,7 +1856,11 @@
       "claim_timestamp": "00:53:48",
       "investigative_direction": "Verify authenticity of released text chain via independent forensic analysis and metadata.",
       "transcript_snippet": "ridiculous madeup text chain between Tyler Robinson and his lover Lance",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1840,16 +1872,18 @@
         "A-1132.1"
       ],
       "related_nodes": [
-        "N-123",
-        "N-69",
-        "N-84",
         "N-1143"
       ],
       "tags": [],
       "claim_timestamp": "00:54:17",
       "investigative_direction": "Locate original Olsen Instagram post and verify date.",
       "transcript_snippet": "Good day, my love. I have just committed one of the highest sins of the Lord. Murder",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84",
+        "N-123"
+      ]
     },
     {
       "@type": "Claim",
@@ -1860,14 +1894,15 @@
       "anchored_artifacts": [
         "A-1133.1"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:38",
       "investigative_direction": "Verify DQ marketing rollout date for the maple cookie shake and confirm poster appears in the photo.",
       "transcript_snippet": "maple cookie shake... they began advertising on August 31st",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1877,7 +1912,6 @@
       "claim": "Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-65",
         "N-1091",
         "N-1147"
       ],
@@ -1885,7 +1919,10 @@
       "claim_timestamp": "00:43:09",
       "investigative_direction": "Locate the specific Netanyahu clip and verify exact wording and date.",
       "confidence": "low",
-      "uncertainty_note": "Claim referenced as a findable clip but not shown in this episode."
+      "uncertainty_note": "Claim referenced as a findable clip but not shown in this episode.",
+      "mentions_person_refs": [
+        "N-65"
+      ]
     }
   ],
   "memes": [

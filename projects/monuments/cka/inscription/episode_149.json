@@ -963,12 +963,13 @@
       "anchored_artifacts": [
         "A-2426.1"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:19",
-      "investigative_direction": "Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications."
+      "investigative_direction": "Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -979,12 +980,13 @@
       "anchored_artifacts": [
         "A-2426.1"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:11",
-      "investigative_direction": "Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov)."
+      "investigative_direction": "Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -995,12 +997,13 @@
       "anchored_artifacts": [
         "A-2426.1"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:11",
-      "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews."
+      "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1011,12 +1014,13 @@
       "anchored_artifacts": [
         "A-2429.1"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:50",
-      "investigative_direction": "Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio."
+      "investigative_direction": "Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1027,12 +1031,13 @@
       "anchored_artifacts": [
         "A-2428.1"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:07",
-      "investigative_direction": "Compare the Paramount statement with the Shawn Ryan \"car crash\" interview; obtain transcripts and verify continuity."
+      "investigative_direction": "Compare the Paramount statement with the Shawn Ryan \"car crash\" interview; obtain transcripts and verify continuity.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1044,12 +1049,14 @@
         "A-2430.1"
       ],
       "related_nodes": [
-        "N-1214",
-        "N-432"
+        "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:14:55",
-      "investigative_direction": "Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange."
+      "investigative_direction": "Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1061,12 +1068,14 @@
         "A-2431.1"
       ],
       "related_nodes": [
-        "N-1219",
-        "N-432"
+        "N-1219"
       ],
       "tags": [],
       "claim_timestamp": "00:16:39",
-      "investigative_direction": "Locate the original witness video/post; cross-reference with the September 10 security footage of the SUV's hospital arrival."
+      "investigative_direction": "Locate the original witness video/post; cross-reference with the September 10 security footage of the SUV's hospital arrival.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1077,12 +1086,13 @@
       "anchored_artifacts": [
         "A-2432.2"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:42",
-      "investigative_direction": "Obtain higher-resolution frame stills; cross-check with independent footage sources."
+      "investigative_direction": "Obtain higher-resolution frame stills; cross-check with independent footage sources.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1095,12 +1105,14 @@
         "A-2432.2"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-432"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:18:51",
-      "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital."
+      "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1112,12 +1124,14 @@
         "A-2432.3"
       ],
       "related_nodes": [
-        "N-1217",
-        "N-432"
+        "N-1217"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
-      "investigative_direction": "Identify when and where Blake obtained the scrubs; obtain hospital visitor logs."
+      "investigative_direction": "Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1130,12 +1144,14 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1217",
-        "N-432"
+        "N-1217"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
-      "investigative_direction": "Identify scrubs source; obtain hospital records/logs."
+      "investigative_direction": "Identify scrubs source; obtain hospital records/logs.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,12 +1164,14 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-1217",
-        "N-432"
+        "N-1217"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
-      "investigative_direction": "Identify scrubs source; cross-reference with hospital logs."
+      "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1166,12 +1184,14 @@
       ],
       "related_nodes": [
         "N-1212",
-        "N-1217",
-        "N-432"
+        "N-1217"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
-      "investigative_direction": "Identify scrubs source; cross-reference with hospital logs."
+      "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1182,12 +1202,13 @@
       "anchored_artifacts": [
         "A-2432.3"
       ],
-      "related_nodes": [
-        "N-432"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:02",
-      "investigative_direction": "Higher-resolution frame analysis; cross-reference with clothing inventories."
+      "investigative_direction": "Higher-resolution frame analysis; cross-reference with clothing inventories.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1202,12 +1223,14 @@
       "related_nodes": [
         "N-1220",
         "N-1221",
-        "N-1222",
-        "N-432"
+        "N-1222"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
-      "investigative_direction": "Obtain the original receipt, forensic authentication (printing analysis, timestamp verification), and confirmation from the restaurant's point-of-sale system."
+      "investigative_direction": "Obtain the original receipt, forensic authentication (printing analysis, timestamp verification), and confirmation from the restaurant's point-of-sale system.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1220,12 +1243,14 @@
       ],
       "related_nodes": [
         "N-1220",
-        "N-1221",
-        "N-432"
+        "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
-      "investigative_direction": "Obtain the precise timestamp from the receipt/POS system; verify against Tyler Robinson's movements."
+      "investigative_direction": "Obtain the precise timestamp from the receipt/POS system; verify against Tyler Robinson's movements.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1240,12 +1265,14 @@
       ],
       "related_nodes": [
         "N-1227",
-        "N-1228",
-        "N-432"
+        "N-1228"
       ],
       "tags": [],
       "claim_timestamp": "00:35:39",
-      "investigative_direction": "Verify the 3-hour drive time with mapping data; reconcile the text messages' origin with cell tower records."
+      "investigative_direction": "Verify the 3-hour drive time with mapping data; reconcile the text messages' origin with cell tower records.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1259,12 +1286,14 @@
       ],
       "related_nodes": [
         "N-1220",
-        "N-1221",
-        "N-432"
+        "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:39:48",
-      "investigative_direction": "Identify the underlying source(s) raising the host's confidence; obtain evidence admissible in court."
+      "investigative_direction": "Identify the underlying source(s) raising the host's confidence; obtain evidence admissible in court.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1278,12 +1307,14 @@
       "related_nodes": [
         "N-1225",
         "N-1226",
-        "N-1228",
-        "N-432"
+        "N-1228"
       ],
       "tags": [],
       "claim_timestamp": "00:37:12",
-      "investigative_direction": "Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline."
+      "investigative_direction": "Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1295,12 +1326,14 @@
         "A-2433.1"
       ],
       "related_nodes": [
-        "N-1220",
-        "N-432"
+        "N-1220"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
-      "investigative_direction": "Document the review pattern (volume, timing, account origins); consult the restaurant's records."
+      "investigative_direction": "Document the review pattern (volume, timing, account origins); consult the restaurant's records.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1313,12 +1346,14 @@
       ],
       "related_nodes": [
         "N-1220",
-        "N-1221",
-        "N-432"
+        "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
-      "investigative_direction": "Confirm with FBI 302 forms or other official records; interview both owner and server directly."
+      "investigative_direction": "Confirm with FBI 302 forms or other official records; interview both owner and server directly.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1330,12 +1365,14 @@
         "A-2434.1"
       ],
       "related_nodes": [
-        "N-1224",
-        "N-432"
+        "N-1224"
       ],
       "tags": [],
       "claim_timestamp": "00:45:10",
-      "investigative_direction": "Identify who \"Blakey\" refers to; obtain original recording or corroborating testimony; flag the comment as uncorroborated hearsay."
+      "investigative_direction": "Identify who \"Blakey\" refers to; obtain original recording or corroborating testimony; flag the comment as uncorroborated hearsay.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1347,12 +1384,14 @@
         "A-2433.2"
       ],
       "related_nodes": [
-        "N-1222",
-        "N-432"
+        "N-1222"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",
-      "investigative_direction": "Retrieve the original article from the New York Post archive; verify URL and publication date."
+      "investigative_direction": "Retrieve the original article from the New York Post archive; verify URL and publication date.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     },
     {
       "@type": "Claim",
@@ -1364,12 +1403,14 @@
         "A-2433.3"
       ],
       "related_nodes": [
-        "N-1222",
-        "N-432"
+        "N-1222"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",
-      "investigative_direction": "Retrieve the original article from Fox News archives; verify URL and publication date."
+      "investigative_direction": "Retrieve the original article from Fox News archives; verify URL and publication date.",
+      "mentions_person_refs": [
+        "N-432"
+      ]
     }
   ],
   "memes": []

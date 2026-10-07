@@ -487,7 +487,7 @@ Claim Timestamp: 00:07:04–00:07:57
 Claim: A 2012 email exchange between Jeffrey Epstein and Princess Märtha Louise of Norway discussed food and antibiotics suppressing human fertility and concluded that humans could ultimately be "designed in a lab."
 
 Anchored Artifacts: A-1809.1
-Related Nodes: N-35, N-953
+Mentions: N-35, N-953
 Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.
 
 ---
@@ -499,7 +499,8 @@ Claim Timestamp: 00:12:57–00:13:53
 Claim: According to a January 29, 2026 Candace Owens tweet sourced to White House personnel, Andrew Kolvet and Mikey McCoy (allegedly with his wife Elizabeth) were in the West Wing on January 29, 2026 while the Charlie Kirk Show was presenting a pre-recorded interview with Kash Patel as live.
 
 Anchored Artifacts: A-1810.1
-Related Nodes: N-42, N-272, N-1594
+Mentions: N-42, N-272
+Related Nodes: N-1594
 Investigative Direction: Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.
 
 ---
@@ -511,7 +512,8 @@ Claim Timestamp: 00:13:53
 Claim: The Charlie Kirk Show episode in which Kash Patel appeared was pre-recorded on January 28, 2026 (per host, two days before the tweet) rather than broadcast live.
 
 Anchored Artifacts: A-1810.1
-Related Nodes: N-42, N-1594
+Mentions: N-42
+Related Nodes: N-1594
 Investigative Direction: Compare the episode's audio/video metadata against the claimed broadcast time.
 
 ---
@@ -523,7 +525,8 @@ Claim Timestamp: 00:15:55
 Claim: The Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.
 
 Anchored Artifacts: A-1810.1 (provides the date-stamped framing)
-Related Nodes: N-35, N-1594
+Mentions: N-35
+Related Nodes: N-1594
 Investigative Direction: Confirm the official release date of the Epstein files and compare against the documented meeting date.
 
 ---
@@ -535,7 +538,8 @@ Claim Timestamp: 00:22:10
 Claim: Faith Kates appears approximately 4,000 times in Jeffrey Epstein's email correspondence.
 
 Anchored Artifacts: A-1812.1
-Related Nodes: N-35, N-951, N-1596
+Mentions: N-35, N-951
+Related Nodes: N-1596
 Investigative Direction: Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.
 
 ---
@@ -547,7 +551,8 @@ Claim Timestamp: 00:22:57
 Claim: Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.
 
 Anchored Artifacts: A-1812.2
-Related Nodes: N-35, N-951, N-1596
+Mentions: N-35, N-951
+Related Nodes: N-1596
 Investigative Direction: Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.
 
 ---
@@ -559,7 +564,7 @@ Claim Timestamp: 00:27:39–00:28:26
 Claim: The Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.
 
 Anchored Artifacts: A-1813.1
-Related Nodes: N-35, N-952, N-960
+Mentions: N-35, N-952, N-960
 Investigative Direction: Search Epstein-files email corpus for Corcoran/Linda Rothschild references.
 
 ---
@@ -571,7 +576,8 @@ Claim Timestamp: 00:28:26
 Claim: A background document on Linda Rothschild lists her alternate names and identifies her as president of the Corcoran Group; the document is tied to Epstein's files.
 
 Anchored Artifacts: A-1814.1
-Related Nodes: N-952, N-1595
+Mentions: N-952
+Related Nodes: N-1595
 Investigative Direction: Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
 
 ---
@@ -583,7 +589,8 @@ Claim Timestamp: 00:24:35–00:26:09
 Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Colebat, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.
 
 Anchored Artifacts: A-1815.1
-Related Nodes: N-2, N-42, N-1591
+Mentions: N-2, N-42
+Related Nodes: N-1591
 Investigative Direction: Confirm the email log; await response or non-response status update.
 
 ---
@@ -607,7 +614,8 @@ Claim Timestamp: 00:39:30
 Claim: Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been saved through faith") at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after the Jezebel article (A-1816.1) appeared.
 
 Anchored Artifacts: A-1817.1
-Related Nodes: N-2, N-1593
+Mentions: N-2
+Related Nodes: N-1593
 Investigative Direction: Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata.
 
 ---
@@ -631,7 +639,8 @@ Claim Timestamp: 00:35:28–00:36:30
 Claim: Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
 
 Anchored Artifacts: A-1819.1
-Related Nodes: N-16, N-1593
+Mentions: N-16
+Related Nodes: N-1593
 Investigative Direction: Obtain full Turek interview; verify the date and content of the Monday walk.
 
 ---
@@ -643,7 +652,7 @@ Claim Timestamp: 00:33:37–00:34:25
 Claim: On the Todd Chris podcast, Blake Neff stated that Erika said Charlie would not undo what happened because of the "faith revolution" it unleashed.
 
 Anchored Artifacts: A-1820.1
-Related Nodes: N-1, N-224
+Mentions: N-1, N-224
 Investigative Direction: Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.
 
 ---
@@ -655,7 +664,7 @@ Claim Timestamp: 00:55:30–00:56:41
 Claim: A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
 
 Anchored Artifacts: A-1821.1, A-1820.1
-Related Nodes: N-224
+Mentions: N-224
 Investigative Direction: Compare the Twitter stream version to the Rumble-hosted version directly.
 
 ---
@@ -667,7 +676,7 @@ Claim Timestamp: 00:10:14–00:11:17
 Claim: Father Chad Ripberger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.
 
 Anchored Artifacts: A-1811.1
-Related Nodes: N-954
+Mentions: N-954
 Investigative Direction: Obtain the full Ripberger clip and surrounding podcast context for verification.
 
 ---

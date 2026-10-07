@@ -599,7 +599,8 @@ Claim Timestamp: 00:07:37
 Claim: Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
-Related Nodes: N-69, N-1094, N-1096, N-3, N-68, N-88, N-89, N-90, N-92, N-93, N-94, N-61, N-95, N-96, N-99
+Mentions: N-3, N-61, N-68, N-69, N-88, N-89, N-90, N-92, N-93, N-94, N-95, N-96, N-99
+Related Nodes: N-1094, N-1096
 Confidence: high
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
 
@@ -611,7 +612,7 @@ Claim Timestamp: 00:07:55
 Claim: DNA consistent with Robinson was found on the rifle trigger and other parts of the rifle, plus fired cartridge casing and two of three unspent cartridges and the towel.
 Transcript Snippet: the DNA was consistent with Robinson that was found on the trigger
 Anchored Artifacts: A-1095.1
-Related Nodes: N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Obtain forensic lab reports for chain of custody and match thresholds.
 
@@ -623,7 +624,8 @@ Claim Timestamp: 00:10:32
 Claim: UVU surveillance showed the suspect entering campus from the north at approximately 11:51am wearing a black shirt with an American flag, dark cap, large sunglasses.
 Transcript Snippet: at approximately 11:51 a.m., the suspect had entered campus from the north
 Anchored Artifacts: A-1095.2
-Related Nodes: N-69, N-1077
+Mentions: N-69
+Related Nodes: N-1077
 Confidence: high
 Investigative Direction: Compare indictment description to actual surveillance video frames; verify gait description against TMZ footage.
 
@@ -635,7 +637,8 @@ Claim Timestamp: 00:09:18
 Claim: Surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm, eight minutes before the 12:23pm shot.
 Transcript Snippet: crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.
 Anchored Artifacts: A-1095.2
-Related Nodes: N-69, N-1077
+Mentions: N-69
+Related Nodes: N-1077
 Confidence: high
 Investigative Direction: Cross-check roof timestamp against shot-time audio forensics.
 
@@ -647,7 +650,7 @@ Claim Timestamp: 00:13:47
 Claim: Investigators found a bolt-action rifle wrapped in a towel in a wooded area at the northeast end of campus; one spent round and three unspent rounds, no shell casings on the roof.
 Transcript Snippet: investigators found a boltaction rifle wrapped in a towel
 Anchored Artifacts: A-1095.3
-Related Nodes: N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Obtain crime scene photos and forensic report; verify rifle make/model and serial trace.
 
@@ -659,7 +662,7 @@ Claim Timestamp: 00:14:29
 Claim: Inscriptions on cartridge casings read 'Hey fascist catch', 'Oh Bella cow', and 'if you read this you are gay Lmo'.
 Transcript Snippet: Hey fascist catch...Oh Bella cow...if you read this you are gay
 Anchored Artifacts: A-1095.4
-Related Nodes: N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Request close-up images and chain of custody for the casings.
 
@@ -671,7 +674,7 @@ Claim Timestamp: 00:16:00
 Claim: Robinson's mother saw the news photo of the shooter on September 11 and stated it looked like her son; she called her husband to confirm.
 Transcript Snippet: she saw the photo of the shooter in the news and thought that the shooter looked like her son
 Anchored Artifacts: A-1095.5
-Related Nodes: N-69, N-59
+Mentions: N-59, N-69
 Confidence: high
 Investigative Direction: Verify timing of news publication vs. mother's call via phone and interview records.
 
@@ -683,7 +686,7 @@ Claim Timestamp: 00:17:50
 Claim: Robinson's father agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo and Robinson did not respond.
 Transcript Snippet: the rifle that was given to his son as a gift
 Anchored Artifacts: A-1095.6
-Related Nodes: N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Verify gift provenance, family communications, and any self-harm implication statements.
 
@@ -695,7 +698,7 @@ Claim Timestamp: 00:18:54
 Claim: Robinson's family convinced him not to self-harm; a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.
 Transcript Snippet: a family friend who happens to be a retired deputy sheriff
 Anchored Artifacts: A-1095.7
-Related Nodes: N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Confirm retired deputy's identity and role in surrender via sheriff records.
 
@@ -707,7 +710,7 @@ Claim Timestamp: 00:16:45
 Claim: Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.
 Transcript Snippet: Robinson had become increasingly more political. He had started to lean more left
 Anchored Artifacts: A-1095.5
-Related Nodes: N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Compare against Robinson's social media history and family interviews.
 
@@ -719,7 +722,8 @@ Claim Timestamp: 00:23:31
 Claim: Robinson texted his roommate Lance Twigs 'Drop what you are doing and look under my keyboard'; Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
 Transcript Snippet: Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk
 Anchored Artifacts: A-1095.8, A-1095.9
-Related Nodes: N-69, N-84, N-1095, N-2
+Mentions: N-2, N-69, N-84
+Related Nodes: N-1095
 Confidence: high
 Investigative Direction: Verify text and note timestamps and original device screenshots.
 
@@ -731,7 +735,8 @@ Claim Timestamp: 00:22:48
 Claim: The indictment's text-message excerpt provides no time stamps for the September 10, 2025 exchanges, despite references to lockdown and post-shooting events.
 Transcript Snippet: They're not telling us the time. I don't like that
 Anchored Artifacts: A-1095.8
-Related Nodes: N-69, N-84, N-1095
+Mentions: N-69, N-84
+Related Nodes: N-1095
 Confidence: high
 Investigative Direction: Obtain unredacted text logs with metadata from discovery materials.
 
@@ -744,7 +749,7 @@ Claim Timestamp: 00:17:00
 Claim: Robinson began dating his roommate, a biological male transitioning genders, according to his mother.
 Transcript Snippet: Robinson began to date his roommate, which is a biological male who was transitioning
 Anchored Artifacts: A-1095.5, A-1095.9
-Related Nodes: N-69, N-84
+Mentions: N-69, N-84
 Confidence: high
 Investigative Direction: Verify roommate's stated identity and timeline.
 
@@ -756,7 +761,8 @@ Claim Timestamp: 00:03:33
 Claim: George Zinn, a 71-year-old, was arrested after allegedly jumping up and claiming credit for the Kirk shooting; he faces obstruction of justice charges.
 Transcript Snippet: Man arrested for allegedly faking confession to Charlie Kirk's killing
 Anchored Artifacts: A-1096.1, A-1097.1
-Related Nodes: N-71, N-1097
+Mentions: N-71
+Related Nodes: N-1097
 Confidence: high
 Investigative Direction: Obtain arrest affidavit and court records.
 
@@ -768,7 +774,8 @@ Claim Timestamp: 00:05:10
 Claim: George Zinn was booked in connection with images on his cell phone related to child abuse following the obstruction arrest.
 Transcript Snippet: was also booked in connection with images on his cell phone related to child abuse
 Anchored Artifacts: A-1096.1
-Related Nodes: N-71, N-1097
+Mentions: N-71
+Related Nodes: N-1097
 Confidence: high
 Investigative Direction: Confirm booking details and court filings; verify device forensic report.
 
@@ -780,7 +787,8 @@ Claim Timestamp: 00:53:40
 Claim: Bill Ackman published a 955-word tweet response denying that the Hamptons retreat was an intervention or blackmail attempt on Charlie.
 Transcript Snippet: Amman's 955word response
 Anchored Artifacts: A-1098.1
-Related Nodes: N-66, N-1102
+Mentions: N-66
+Related Nodes: N-1102
 Confidence: high
 Investigative Direction: Verify tweet length, content, and any deletions or follow-up tweets.
 
@@ -792,7 +800,8 @@ Claim Timestamp: 01:00:46
 Claim: Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.
 Transcript Snippet: Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
-Related Nodes: N-66, N-97, N-87, N-1098
+Mentions: N-66, N-87, N-97
+Related Nodes: N-1098
 Confidence: high
 Investigative Direction: Cross-reference attendee statements with published itinerary.
 
@@ -805,7 +814,8 @@ Claim Timestamp: 01:18:21
 Claim: Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.
 Transcript Snippet: Bill Aman got up and gave a presentation and told them that they shouldn't own property
 Anchored Artifacts: 
-Related Nodes: N-66, N-1098
+Mentions: N-66
+Related Nodes: N-1098
 Confidence: medium
 Uncertainty: Single-source attendee statement relayed by host.
 Investigative Direction: Identify and corroborate attendees; request presentation materials.
@@ -818,7 +828,8 @@ Claim Timestamp: 01:00:46
 Claim: Charlie Kirk appeared on Megyn Kelly on August 6, 2025 stating he found pro-Israel camp kneejerk anti-Semitism accusations irritating, was receiving texts calling him antisemite, and had raised Mossad/Epstein speculation.
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Anchored Artifacts: A-1099.1
-Related Nodes: N-1, N-75, N-1098, N-35
+Mentions: N-1, N-35, N-75
+Related Nodes: N-1098
 Confidence: high
 Investigative Direction: Verify full clip and dates against Megyn Kelly show archives.
 
@@ -842,7 +853,7 @@ Claim Timestamp: 00:59:24
 Claim: Bill Ackman referenced a May letter from Charlie Kirk to Netanyahu as 'glowing'.
 Transcript Snippet: the letter Charlie wrote him in May was just like a glowing
 Anchored Artifacts: A-1100.1
-Related Nodes: N-1, N-65, N-66
+Mentions: N-1, N-65, N-66
 Confidence: medium
 Uncertainty: Letter not shown; only paraphrased by Ackman.
 Investigative Direction: Locate published or archived version of the May letter.
@@ -855,7 +866,7 @@ Claim Timestamp: 01:15:00
 Claim: Laura Loomer posted a tweet thread the week before Charlie Kirk's death pressuring him to distance himself from Tucker Carlson and warning it would ruin his company.
 Transcript Snippet: Charlie Kirk had to distance himself from Tucker Carlson
 Anchored Artifacts: A-1103.1
-Related Nodes: N-91, N-50, N-1
+Mentions: N-1, N-50, N-91
 Confidence: high
 Investigative Direction: Retrieve the tweet thread and verify dates.
 
@@ -867,7 +878,8 @@ Claim Timestamp: 00:36:19
 Claim: Per Lance Twigs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.
 Transcript Snippet: his parents kicked him out junior year of high school because he was problematic
 Anchored Artifacts: 
-Related Nodes: N-84, N-1099
+Mentions: N-84
+Related Nodes: N-1099
 Confidence: medium
 Uncertainty: Family statement relayed by host, not on the record.
 Investigative Direction: Corroborate with other family members or contemporaneous records.
@@ -880,7 +892,8 @@ Claim Timestamp: 00:36:43
 Claim: Per family, Lance Twigs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.
 Transcript Snippet: He almost overdosed. He drank a bottle of vodka
 Anchored Artifacts: 
-Related Nodes: N-84, N-1099
+Mentions: N-84
+Related Nodes: N-1099
 Confidence: medium
 Investigative Direction: Request medical/ER records and corroborating family testimony.
 
@@ -892,7 +905,8 @@ Claim Timestamp: 00:37:18
 Claim: Per family, Lance Twigs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.
 Transcript Snippet: he showed up on drugs and he was spouting out of his mouth about political stuff
 Anchored Artifacts: 
-Related Nodes: N-84, N-1099
+Mentions: N-84
+Related Nodes: N-1099
 Confidence: medium
 Investigative Direction: Corroborate with multiple family members.
 
@@ -904,7 +918,7 @@ Claim Timestamp: 00:38:43
 Claim: Lance Twigs turned 22 in August 2025 according to his family.
 Transcript Snippet: He turned 22, they told me back in August
 Anchored Artifacts: 
-Related Nodes: N-84
+Mentions: N-84
 Confidence: medium
 Investigative Direction: Verify against state ID or DOB records.
 
@@ -916,7 +930,7 @@ Claim Timestamp: 00:35:33
 Claim: Tyler Robinson lived with Lance Twigs in a townhome owned by Lance's family and paid rent to them via Lance.
 Transcript Snippet: the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent
 Anchored Artifacts: 
-Related Nodes: N-69, N-84
+Mentions: N-69, N-84
 Confidence: medium
 Investigative Direction: Verify property ownership via county records; obtain lease or payment records.
 
@@ -928,7 +942,8 @@ Claim Timestamp: 00:40:28
 Claim: Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.
 Transcript Snippet: there were unusual traffic in the driveway where Tyler Robinson and Lance lived
 Anchored Artifacts: 
-Related Nodes: N-69, N-84, N-1100
+Mentions: N-69, N-84
+Related Nodes: N-1100
 Confidence: medium
 Investigative Direction: Pull traffic camera footage and license plate reader data; interview more neighbors.
 
@@ -940,7 +955,7 @@ Claim Timestamp: 00:12:06
 Claim: Governor Cox previously described a suspect in light shorts and maroon shirt scouting the venue; the indictment describes only a single suspect in a black American-flag outfit, omitting the prior outfit detail.
 Transcript Snippet: Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment
 Anchored Artifacts: A-1095.1, A-1095.2
-Related Nodes: N-70, N-69
+Mentions: N-69, N-70
 Confidence: high
 Investigative Direction: Compare Cox's earlier press statements to indictment timeline; review UVU footage for second outfit.
 
@@ -952,7 +967,8 @@ Claim Timestamp: 00:50:10
 Claim: Attendees report Seth Dylan and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.
 Transcript Snippet: Seth Dylan...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him
 Anchored Artifacts: 
-Related Nodes: N-67, N-86, N-1098
+Mentions: N-67, N-86
+Related Nodes: N-1098
 Confidence: medium
 Uncertainty: Multiple-source attendee statements, none on the record.
 Investigative Direction: Interview multiple attendees; obtain any recorded retreat discussions.

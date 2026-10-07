@@ -799,14 +799,16 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-4",
-        "N-1028",
-        "N-1",
-        "N-9"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
-      "investigative_direction": "Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other \"members\" present."
+      "investigative_direction": "Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other \"members\" present.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-4",
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -818,14 +820,16 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-4",
-        "N-1",
-        "N-1028",
-        "N-9"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
-      "investigative_direction": "Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization."
+      "investigative_direction": "Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-4",
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -837,13 +841,15 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-4",
-        "N-1028",
-        "N-9"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
-      "investigative_direction": "Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing."
+      "investigative_direction": "Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -855,14 +861,16 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-4",
-        "N-1028",
-        "N-10",
-        "N-9"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
-      "investigative_direction": "Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024."
+      "investigative_direction": "Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-9",
+        "N-10"
+      ]
     },
     {
       "@type": "Claim",
@@ -874,12 +882,14 @@
         "A-2346.1"
       ],
       "related_nodes": [
-        "N-4",
         "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:33:48",
-      "investigative_direction": "Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs."
+      "investigative_direction": "Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -890,13 +900,14 @@
       "anchored_artifacts": [
         "A-2348.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-8"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:40",
-      "investigative_direction": "Locate the op-ed in NYT archives; verify publication date, paywall status, and full text directly."
+      "investigative_direction": "Locate the op-ed in NYT archives; verify publication date, paywall status, and full text directly.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -908,14 +919,16 @@
         "A-2348.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-1028",
-        "N-1",
-        "N-16"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:43:25",
-      "investigative_direction": "Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements."
+      "investigative_direction": "Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -927,13 +940,15 @@
         "A-2348.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-1028",
-        "N-16"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:43:25",
-      "investigative_direction": "Confirm the quoted analogy in the op-ed directly."
+      "investigative_direction": "Confirm the quoted analogy in the op-ed directly.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -944,13 +959,14 @@
       "anchored_artifacts": [
         "A-2348.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:35",
-      "investigative_direction": "Confirm the quoted language in the op-ed directly."
+      "investigative_direction": "Confirm the quoted language in the op-ed directly.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -962,12 +978,14 @@
         "A-2348.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:47:27",
-      "investigative_direction": "Confirm the closing lines directly in the op-ed; identify whether the op-ed identifies the \"dear friend\" by name."
+      "investigative_direction": "Confirm the closing lines directly in the op-ed; identify whether the op-ed identifies the \"dear friend\" by name.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -979,13 +997,15 @@
         "A-2349.1"
       ],
       "related_nodes": [
-        "N-1028",
-        "N-6",
-        "N-5"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:08:28",
-      "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue."
+      "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -996,13 +1016,14 @@
       "anchored_artifacts": [
         "A-2345.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-8"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:13",
-      "investigative_direction": "Identify the original episode and date of the clip; verify the exact wording."
+      "investigative_direction": "Identify the original episode and date of the clip; verify the exact wording.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -1013,13 +1034,14 @@
       "anchored_artifacts": [
         "A-2350.5"
       ],
-      "related_nodes": [
-        "N-18",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:42",
-      "investigative_direction": "Verify the documentary's existence via official Salem Media and \"Waterstone\" press releases; confirm the title, release date, and the existence of any unreleased interview footage."
+      "investigative_direction": "Verify the documentary's existence via official Salem Media and \"Waterstone\" press releases; confirm the title, release date, and the existence of any unreleased interview footage.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-18"
+      ]
     }
   ],
   "memes": []

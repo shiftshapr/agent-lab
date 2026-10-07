@@ -464,8 +464,8 @@ Claim Timestamp: 00:01:18
 Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to "Woody and Suni" at their home.
 
 Anchored Artifacts: A-1738.1
+Mentions: N-35, N-897
 
-Related Nodes: N-35, N-897
 
 Investigative Direction: Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.
 
@@ -478,8 +478,8 @@ Claim Timestamp: 00:01:55
 Claim: An Epstein email to "Sultan" asks who "James Miller" is, asserts that Miller is someone "Sultan" built, and references shipping address as Jeffrey's home at 9E71st Street.
 
 Anchored Artifacts: A-1738.2
+Mentions: N-35
 
-Related Nodes: N-35
 
 Investigative Direction: Identify the redacted recipient "Sultan" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain.
 
@@ -492,8 +492,9 @@ Claim Timestamp: 00:05:43
 Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
 
 Anchored Artifacts: A-1739.1
+Mentions: N-45, N-885, N-894
 
-Related Nodes: N-885, N-894, N-1560, N-45
+Related Nodes: N-1560
 
 Investigative Direction: Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).
 
@@ -506,8 +507,8 @@ Claim Timestamp: 00:10:17
 Claim: Robkea states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.
 
 Anchored Artifacts: A-1739.2
+Mentions: N-885
 
-Related Nodes: N-885
 
 Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.
 
@@ -520,8 +521,9 @@ Claim Timestamp: 00:15:37
 Claim: Tom Horn states on Omega Man Radio that a "special operations general" validated that Gilgamesh's remains were in a state of "remarkable preservation" and that the military took possession of the dig site.
 
 Anchored Artifacts: A-1740.1
+Mentions: N-892, N-893
 
-Related Nodes: N-892, N-893, N-1561
+Related Nodes: N-1561
 
 Investigative Direction: Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.
 
@@ -534,8 +536,9 @@ Claim Timestamp: 00:15:55
 Claim: Steve Quail states on Omega Man Radio that "the whole point" of the Iraq dig and the human genome project was to locate genetic markers that would allow disembodied spirits to "reanimate" Nimrod/Gilgamesh's host body.
 
 Anchored Artifacts: A-1740.1
+Mentions: N-893
 
-Related Nodes: N-893, N-1561
+Related Nodes: N-1561
 
 Investigative Direction: Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.
 
@@ -548,8 +551,9 @@ Claim Timestamp: 00:27:48
 Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear friend" of hers for "almost 15 years," that they have "done multiple projects together," that Erika wrote the foreword to Martin's book, and that Martin participated in the Romanian Angels gift-distribution project organized by Erika.
 
 Anchored Artifacts: A-1741.1
+Mentions: N-2, N-890
 
-Related Nodes: N-890, N-2, N-1556
+Related Nodes: N-1556
 
 Investigative Direction: Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.
 
@@ -562,8 +566,8 @@ Claim Timestamp: 00:28:05
 Claim: Tracy Martin states she styled the editorial photograph featuring the "left eye club" cuff that has been circulating, and that the cuff and jewelry pieces pictured are her designs.
 
 Anchored Artifacts: A-1741.1
+Mentions: N-2, N-890
 
-Related Nodes: N-890, N-2
 
 Investigative Direction: Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.
 
@@ -576,8 +580,8 @@ Claim Timestamp: 00:31:49
 Claim: The host states she has reviewed text chains discussing "Mcronone's boyfriend," that she was shown a photo of the boyfriend, and that other emails reference Macron's sexuality.
 
 Anchored Artifacts: A-1742.1
+Mentions: N-35, N-898
 
-Related Nodes: N-898, N-35
 
 Investigative Direction: Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.
 
@@ -590,8 +594,8 @@ Claim Timestamp: 00:36:50
 Claim: A viewer comment (Frey FA) juxtaposes the 9/11 passport-in-mint-condition story with the steel-neck-stopping-bullets reference in the Charlie Kirk assassination coverage.
 
 Anchored Artifacts: A-1743.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2
 
 Investigative Direction: Trace the historical origins of the "passport in mint condition" claim and its media treatment; assess the rhetorical parallel independently.
 
@@ -604,8 +608,8 @@ Claim Timestamp: 00:38:25
 Claim: A viewer comment (Moderator Marzy) recommends jmail.world as a tool for viewing the Epstein files in a Gmail-style user interface. Host confirms receipt of similar tips.
 
 Anchored Artifacts: A-1743.2
+Mentions: N-35
 
-Related Nodes: N-35
 
 Investigative Direction: Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions.
 
@@ -618,8 +622,8 @@ Claim Timestamp: 00:38:55
 Claim: A viewer comment (Tatiana) posits that the current generation will live eternally in flesh and that this is the underlying purpose of an "end human fight." Host flags a possible typo.
 
 Anchored Artifacts: A-1743.3
+Mentions: N-80
 
-Related Nodes: N-80
 
 Investigative Direction: Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.
 
@@ -632,8 +636,8 @@ Claim Timestamp: 00:39:16
 Claim: A viewer comment (Angie) greets "Ben" as part of "team Candace for Life." Host addresses the recipient as "Benjamin" and states he watches every episode.
 
 Anchored Artifacts: A-1743.4
+Mentions: N-902
 
-Related Nodes: N-902
 
 Investigative Direction: Identify the production-staff role, if any, of "Benjamin" referenced by host; resolve the Ben / Benjamin discrepancy.
 
@@ -646,8 +650,9 @@ Claim Timestamp: 00:39:30
 Claim: A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted for DNA collection rather than diagnostic accuracy, and that the collection aimed to identify descendants of Nimrod. Host concurs.
 
 Anchored Artifacts: A-1743.5
+Mentions: N-885
 
-Related Nodes: N-885, N-1562
+Related Nodes: N-1562
 
 Investigative Direction: Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.
 
@@ -660,8 +665,8 @@ Claim Timestamp: 00:39:50
 Claim: A viewer comment (Bobby) states that Satan "has never nor can he ever create anything" and only counterfeits, explaining hostility toward God. Host expands the claim into a general theory of elite imitation.
 
 Anchored Artifacts: A-1743.6
+Mentions: N-80
 
-Related Nodes: N-80
 
 Investigative Direction: This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.
 
@@ -674,8 +679,8 @@ Claim Timestamp: 00:40:23
 Claim: A viewer comment (American Jetet) endorses Robkea's work and frames the underlying conflict as a millennia-long battle over "Babylonian ascension."
 
 Anchored Artifacts: A-1743.7
+Mentions: N-885
 
-Related Nodes: N-885
 
 Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Robkea, Flynn, or earlier esoteric sources.
 

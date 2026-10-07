@@ -301,7 +301,7 @@ Claim Timestamp: 00:03:31
 Claim: Erika Kirk asked the public to allow her family privacy regarding the location where Charlie Kirk is buried, citing the need to protect her children, in-laws, and parents, and announced plans for a "museum style" memorial at Turning Point USA.
 
 Anchored Artifacts: A-1525.1
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.
 
@@ -314,7 +314,7 @@ Claim Timestamp: 00:07:34
 Claim: Erika Kirk defended Turning Point USA staff from criticism using a Nehemiah wall-building analogy, comparing the situation to Nehemiah being called down from building the wall and stating "my silence does not mean that I am complacent" and "I cannot come down. I am busy building."
 
 Anchored Artifacts: A-1525.2
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Compile catalog of identified TPUSA staff statements that have been disputed and assess whether Erika's characterization matches the underlying record.
 
@@ -327,7 +327,7 @@ Claim Timestamp: 00:06:28
 Claim: Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying "I love you, I love you, I love you" with another person responding "God bless you."
 
 Anchored Artifacts: A-1526.1
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.
 
@@ -340,7 +340,7 @@ Claim Timestamp: 00:10:45
 Claim: Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
 
 Anchored Artifacts: A-1527.1
-Related Nodes: N-2, N-44
+Mentions: N-2, N-44
 
 Investigative Direction: Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records.
 
@@ -353,7 +353,7 @@ Claim Timestamp: 00:24:32
 Claim: Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as "factually true."
 
 Anchored Artifacts: A-1528.1
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.
 
@@ -366,7 +366,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -379,7 +379,7 @@ Claim Timestamp: 00:28:46
 Claim: Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.
 
 Anchored Artifacts: A-1528.3
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps.
 
@@ -418,7 +418,8 @@ Claim Timestamp: 00:48:38
 Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to on-air flight analyst Mark indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.
 
 Anchored Artifacts: A-1530.1
-Related Nodes: N-1403, N-98
+Mentions: N-98
+Related Nodes: N-1403
 
 Investigative Direction: Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.
 
@@ -431,7 +432,7 @@ Claim Timestamp: 00:40:00
 Claim: The captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025, has been positively identified as Adam Nef of the U.S. Army's 10th Mountain Division.
 
 Anchored Artifacts: A-1532.2
-Related Nodes: N-518
+Mentions: N-518
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -483,7 +484,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.
 
 Anchored Artifacts: A-1531.2, A-1531.4
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.
 

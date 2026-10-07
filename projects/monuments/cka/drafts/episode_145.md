@@ -232,7 +232,7 @@ Claim Timestamp: 00:07:38
 Claim: The Mappins' October 6, 2025 article describes Charlie Kirk's death as "an assassination with potentially far-reaching political consequences for America and the world," asserts the crime scene was "completely destroyed in days," and states that any conviction reached while doubt remains would be "anathema to all the teachings of Christ."
 
 Anchored Artifacts: A-2311.1
-Related Nodes: N-1, N-2
+Mentions: N-1, N-2
 Investigative Direction: Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source.
 
 ---
@@ -244,7 +244,7 @@ Claim Timestamp: 00:08:27
 Claim: The host concurs with the Mappin article's framing of the situation, calling it "so powerful to reflect on" and endorsing its description of a "black propaganda campaign."
 
 Anchored Artifacts: A-2311.1
-Related Nodes: N-3
+Mentions: N-3
 Investigative Direction: Compare the host's subsequent public statements to the Mappin article's framework for consistency.
 
 ---
@@ -316,7 +316,8 @@ Claim Timestamp: 00:30:13
 Claim: Jenica Pounds (@DataRepublican) posted an X thread asserting that the host and her audience constitute a "permission structure" for someone to "try and kill Erika."
 
 Anchored Artifacts: A-2313.1
-Related Nodes: N-1210, N-2, N-3
+Mentions: N-2, N-3
+Related Nodes: N-1210
 Investigative Direction: Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.
 
 ---

@@ -770,8 +770,8 @@ Claim Timestamp: 00:01:13
 Claim: Brian Harpole filed a 69-page civil complaint against Candace Owens asserting multiple defamation claims.
 
 Anchored Artifacts: A-2015.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.
 
@@ -798,8 +798,9 @@ Claim Timestamp: 00:03:20
 Claim: The lawsuit's first grievance alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.
 
 Anchored Artifacts: A-2015.2
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3, N-1725
+Related Nodes: N-1725
 
 Investigative Direction: Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.
 
@@ -868,8 +869,9 @@ Claim Timestamp: 00:17:25
 Claim: Candace states she never once mentioned Harpole on her podcast prior to his November 17 Sean Ryan appearance; her first mention was November 19.
 
 Anchored Artifacts: A-2015.6, A-2018.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1214, N-1719
+Related Nodes: N-1214, N-1719
 
 Investigative Direction: Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.
 
@@ -882,8 +884,9 @@ Claim Timestamp: 00:22:23
 Claim: Candace sent Harpole three text messages seeking clarification of his whereabouts on September 9; Harpole did not reply to any of them.
 
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
+Mentions: N-3
 
-Related Nodes: N-3, N-1718
+Related Nodes: N-1718
 
 Investigative Direction: Cross-reference the embedded text messages against phone records; verify Harpole's receipt.
 
@@ -910,8 +913,9 @@ Claim Timestamp: 00:18:21
 Claim: Candace texted Andrew Kolvet agreeing to defend the security team and issued a same-day podcast statement defending Harpole and Dan Flood.
 
 Anchored Artifacts: A-2016.1, A-2018.1
+Mentions: N-3
 
-Related Nodes: N-1211, N-3
+Related Nodes: N-1211
 
 Investigative Direction: Locate the September 2025 episode in which Candace defended the security team.
 
@@ -938,8 +942,9 @@ Claim Timestamp: 00:29:59
 Claim: Candace's December 23 X post stated Fort Huachuca was confirmed via metadata and incident report but explicitly stated the team could not confirm Snow's identification of who he saw.
 
 Anchored Artifacts: A-2020.1
+Mentions: N-3
 
-Related Nodes: N-3, N-1210, N-1718
+Related Nodes: N-1210, N-1718
 
 Investigative Direction: Obtain original X post screenshot and verify text against the quoted excerpt.
 
@@ -952,8 +957,9 @@ Claim Timestamp: 00:29:59
 Claim: Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while the lawsuit's own exhibits include Candace's statement that she could not confirm the identification.
 
 Anchored Artifacts: A-2015.9, A-2020.1
+Mentions: N-3
 
-Related Nodes: N-1210, N-3
+Related Nodes: N-1210
 
 Investigative Direction: Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context.
 
@@ -980,8 +986,9 @@ Claim Timestamp: 00:42:15
 Claim: Erika Kirk publicly asserted that Candace accused her of murdering Charlie Kirk; the statement was widely discussed.
 
 Anchored Artifacts: A-2021.1
+Mentions: N-2, N-3
 
-Related Nodes: N-2, N-3, N-1722, N-1218
+Related Nodes: N-1218, N-1722
 
 Investigative Direction: Locate Erika Kirk's original statement on video or social media to verify exact wording and context.
 
@@ -994,8 +1001,9 @@ Claim Timestamp: 00:44:39
 Claim: Candace asserts she has never publicly accused Erika Kirk of murdering Charlie and explicitly disclaims that belief.
 
 Anchored Artifacts: A-2018.1 (defensive statement of position), A-2021.1
+Mentions: N-2, N-3
 
-Related Nodes: N-2, N-3, N-1722
+Related Nodes: N-1722
 
 Investigative Direction: Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.
 
@@ -1008,8 +1016,9 @@ Claim Timestamp: 00:43:04
 Claim: Baron Coleman stated on his show that he had never heard Candace say Erika killed Charlie and questioned why Erika made the claim.
 
 Anchored Artifacts: A-2021.1
+Mentions: N-2, N-3
 
-Related Nodes: N-1218, N-2, N-3, N-1722
+Related Nodes: N-1218, N-1722
 
 Investigative Direction: Locate Coleman's full segment for additional context.
 
@@ -1022,8 +1031,9 @@ Claim Timestamp: 00:50:32
 Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartisan House resolution condemning Candace Owens, among others.
 
 Anchored Artifacts: A-2023.1, A-2024.1
+Mentions: N-3
 
-Related Nodes: N-1216, N-1217, N-3, N-1723
+Related Nodes: N-1216, N-1217, N-1723
 
 Investigative Direction: Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.
 
@@ -1036,8 +1046,9 @@ Claim Timestamp: 00:52:10
 Claim: The resolution text characterizes Candace's rhetoric as accusing Israel of controlling the US government.
 
 Anchored Artifacts: A-2024.1
+Mentions: N-3
 
-Related Nodes: N-1216, N-1217, N-3, N-1723
+Related Nodes: N-1216, N-1217, N-1723
 
 Investigative Direction: Audit Candace's prior commentary for any statement matching the resolution's characterization.
 
@@ -1050,8 +1061,9 @@ Claim Timestamp: 00:52:50
 Claim: The resolution text asserts Candace made an anti-Semitic claim that the United States is controlled by satanic pedophiles who work for Israel.
 
 Anchored Artifacts: A-2024.1
+Mentions: N-3
 
-Related Nodes: N-1216, N-1217, N-3, N-1723
+Related Nodes: N-1216, N-1217, N-1723
 
 Investigative Direction: Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.
 
@@ -1064,8 +1076,9 @@ Claim Timestamp: 00:53:42
 Claim: The resolution text references Candace's July 2024 commentary regarding Josef Mengele and "bizarre propaganda" following the Holocaust.
 
 Anchored Artifacts: A-2024.1
+Mentions: N-3
 
-Related Nodes: N-1216, N-1217, N-3, N-1723
+Related Nodes: N-1216, N-1217, N-1723
 
 Investigative Direction: Locate Candace's July 2024 statements about Mengele and verify exact wording.
 
@@ -1078,8 +1091,9 @@ Claim Timestamp: 00:55:26
 Claim: The official Auschwitz-Birkenau Memorial podcast acknowledged that myths arose around Mengele, including the "sewing twins together" legend that did not occur.
 
 Anchored Artifacts: A-2022.1
+Mentions: N-3
 
-Related Nodes: N-1216, N-1217, N-3, N-1723
+Related Nodes: N-1216, N-1217, N-1723
 
 Investigative Direction: Obtain original Auschwitz Memorial podcast episode for full context.
 
@@ -1092,8 +1106,8 @@ Claim Timestamp: 01:01:07
 Claim: Charlie Kirk wrote on May 2, 2024 that "Hate speech does not exist legally in America."
 
 Anchored Artifacts: A-2027.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify the post's date, persistence, and any replies or context.
 

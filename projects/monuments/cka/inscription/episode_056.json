@@ -801,12 +801,13 @@
       "anchored_artifacts": [
         "A-1617.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:58",
-      "investigative_direction": "Obtain primary recording and timestamp; verify quote against original source; confirm date of recording."
+      "investigative_direction": "Obtain primary recording and timestamp; verify quote against original source; confirm date of recording.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -817,13 +818,14 @@
       "anchored_artifacts": [
         "A-1617.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-716"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:58",
-      "investigative_direction": "Obtain primary recording; verify exact phrasing."
+      "investigative_direction": "Obtain primary recording; verify exact phrasing.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-716"
+      ]
     },
     {
       "@type": "Claim",
@@ -835,13 +837,15 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-706",
-        "N-707",
         "N-1480"
       ],
       "tags": [],
       "claim_timestamp": "00:13:58",
-      "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition."
+      "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.",
+      "mentions_person_refs": [
+        "N-706",
+        "N-707"
+      ]
     },
     {
       "@type": "Claim",
@@ -853,12 +857,14 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-706",
         "N-1480"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
-      "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution."
+      "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution.",
+      "mentions_person_refs": [
+        "N-706"
+      ]
     },
     {
       "@type": "Claim",
@@ -870,13 +876,15 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-707",
-        "N-708",
         "N-1480"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
-      "investigative_direction": "Verify employment records; cross-check TPUSA staff listings; obtain dates of employment."
+      "investigative_direction": "Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.",
+      "mentions_person_refs": [
+        "N-707",
+        "N-708"
+      ]
     },
     {
       "@type": "Claim",
@@ -888,13 +896,15 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-1480",
-        "N-37"
+        "N-1480"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
-      "investigative_direction": "Obtain probate records reflecting beneficiary designations; verify allocation."
+      "investigative_direction": "Obtain probate records reflecting beneficiary designations; verify allocation.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -906,12 +916,14 @@
         "A-1620.1"
       ],
       "related_nodes": [
-        "N-710",
         "N-1481"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
-      "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record."
+      "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.",
+      "mentions_person_refs": [
+        "N-710"
+      ]
     },
     {
       "@type": "Claim",
@@ -923,13 +935,15 @@
         "A-1621.1"
       ],
       "related_nodes": [
-        "N-710",
-        "N-711",
         "N-1481"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
-      "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship."
+      "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship.",
+      "mentions_person_refs": [
+        "N-710",
+        "N-711"
+      ]
     },
     {
       "@type": "Claim",
@@ -941,12 +955,14 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-711",
         "N-1481"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
-      "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives."
+      "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives.",
+      "mentions_person_refs": [
+        "N-711"
+      ]
     },
     {
       "@type": "Claim",
@@ -959,12 +975,14 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-711",
         "N-1481"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
-      "investigative_direction": "Verify founding documents; cross-check Temple of Set records."
+      "investigative_direction": "Verify founding documents; cross-check Temple of Set records.",
+      "mentions_person_refs": [
+        "N-711"
+      ]
     },
     {
       "@type": "Claim",
@@ -976,12 +994,14 @@
         "A-1623.1"
       ],
       "related_nodes": [
-        "N-711",
         "N-1481"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
-      "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason."
+      "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason.",
+      "mentions_person_refs": [
+        "N-711"
+      ]
     },
     {
       "@type": "Claim",
@@ -993,12 +1013,14 @@
         "A-1623.2"
       ],
       "related_nodes": [
-        "N-711",
         "N-1481"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
-      "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available."
+      "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.",
+      "mentions_person_refs": [
+        "N-711"
+      ]
     },
     {
       "@type": "Claim",
@@ -1010,12 +1032,14 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-712",
         "N-1482"
       ],
       "tags": [],
       "claim_timestamp": "00:32:12",
-      "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count."
+      "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count.",
+      "mentions_person_refs": [
+        "N-712"
+      ]
     },
     {
       "@type": "Claim",
@@ -1027,12 +1051,14 @@
         "A-1624.2"
       ],
       "related_nodes": [
-        "N-713",
         "N-1482"
       ],
       "tags": [],
       "claim_timestamp": "00:34:03",
-      "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary)."
+      "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).",
+      "mentions_person_refs": [
+        "N-713"
+      ]
     },
     {
       "@type": "Claim",
@@ -1044,12 +1070,14 @@
         "A-1624.3"
       ],
       "related_nodes": [
-        "N-713",
         "N-1482"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00",
-      "investigative_direction": "Obtain law firm press release; track complaint filings in docket."
+      "investigative_direction": "Obtain law firm press release; track complaint filings in docket.",
+      "mentions_person_refs": [
+        "N-713"
+      ]
     },
     {
       "@type": "Claim",
@@ -1060,12 +1088,13 @@
       "anchored_artifacts": [
         "A-1625.1"
       ],
-      "related_nodes": [
-        "N-266"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:11",
-      "investigative_direction": "Cross-check obituary; verify cause of death and date."
+      "investigative_direction": "Cross-check obituary; verify cause of death and date.",
+      "mentions_person_refs": [
+        "N-266"
+      ]
     },
     {
       "@type": "Claim",
@@ -1077,12 +1106,14 @@
         "A-1626.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1483"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
-      "investigative_direction": "Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts."
+      "investigative_direction": "Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1093,13 +1124,14 @@
       "anchored_artifacts": [
         "A-1618.1"
       ],
-      "related_nodes": [
-        "N-50",
-        "N-716"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:08",
-      "investigative_direction": "Locate original clip; verify date and outlet."
+      "investigative_direction": "Locate original clip; verify date and outlet.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-716"
+      ]
     },
     {
       "@type": "Claim",
@@ -1110,12 +1142,13 @@
       "anchored_artifacts": [
         "A-1627.1"
       ],
-      "related_nodes": [
-        "N-719"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:19",
-      "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals."
+      "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.",
+      "mentions_person_refs": [
+        "N-719"
+      ]
     },
     {
       "@type": "Claim",
@@ -1124,12 +1157,13 @@
       "label": "Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud",
       "claim": "Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-483"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:14",
-      "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**"
+      "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**",
+      "mentions_person_refs": [
+        "N-483"
+      ]
     },
     {
       "@type": "Claim",
@@ -1138,12 +1172,13 @@
       "label": "Host Asserts Iran–Israel 12-Day War Commenced June 13 Following Plane Departures",
       "claim": "Host asserts that the Iran–Israel 12-day war commenced on June 13, immediately following the SUBTU plane's reported departure from Provo on June 2.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-483"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:59",
-      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records."
+      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records.",
+      "mentions_person_refs": [
+        "N-483"
+      ]
     }
   ],
   "memes": []

@@ -331,7 +331,8 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-3, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073
+Mentions: N-1, N-3, N-42, N-56, N-60, N-61, N-62, N-63, N-64
+Related Nodes: N-1069, N-1073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -344,7 +345,8 @@ Claim Timestamp: 00:12:29
 Claim: Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photographed wearing them, per a photo shown in the episode.
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Anchored Artifacts: A-1078.1
-Related Nodes: N-1, N-56, N-1069
+Mentions: N-1, N-56
+Related Nodes: N-1069
 Confidence: medium
 Uncertainty: Photo shown but specific source/date of gift not independently confirmed.
 Investigative Direction: Verify the Yeezys gift claim against Kanye West's public statements or social media.
@@ -357,7 +359,7 @@ Claim Timestamp: 00:13:38
 Claim: When flights were cancelled during a hurricane, Charlie and Candace rented a car and drove 8 hours to reach DC by morning, per a road-trip audio clip shown.
 Transcript Snippet: We got to rent a car. We got to drive eight hours. One of the most fun road trips I've had in my life.
 Anchored Artifacts: A-1077.2
-Related Nodes: N-1, N-3
+Mentions: N-1, N-3
 Confidence: medium
 Investigative Direction: Cross-reference hurricane event dates in NC/SC to narrow the trip timeframe.
 
@@ -370,7 +372,8 @@ Claim Timestamp: 00:14:20
 Claim: While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Anchored Artifacts: A-1080.2
-Related Nodes: N-1, N-3, N-42, N-60, N-61, N-64, N-1073
+Mentions: N-1, N-3, N-42, N-60, N-61, N-64
+Related Nodes: N-1073
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
 
@@ -383,7 +386,8 @@ Claim Timestamp: 00:03:29
 Claim: Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.
 Transcript Snippet: Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.
 Anchored Artifacts: 
-Related Nodes: N-1, N-3, N-1071
+Mentions: N-1, N-3
+Related Nodes: N-1071
 Confidence: medium
 Investigative Direction: Corroborate via TPUSA staff schedules or published Fox booking logs from the cited era.
 
@@ -396,7 +400,8 @@ Claim Timestamp: 00:16:07
 Claim: Charlie Kirk and Candace Owens were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, per a video clip shown.
 Transcript Snippet: We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.
 Anchored Artifacts: A-1077.3
-Related Nodes: N-1, N-3, N-1074
+Mentions: N-1, N-3
+Related Nodes: N-1074
 Confidence: high
 Investigative Direction: Identify the restaurant and date via news reports of the incident.
 
@@ -408,7 +413,8 @@ Claim Timestamp: 00:18:09
 Claim: After a single evening with Candace's then-boyfriend George in the UK, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Anchored Artifacts: A-1079.2
-Related Nodes: N-1, N-3, N-59, N-1068
+Mentions: N-1, N-3, N-59
+Related Nodes: N-1068
 Confidence: high
 Investigative Direction: Verify the UK trip date and the text chain contents against any saved screenshots.
 
@@ -420,7 +426,8 @@ Claim Timestamp: 00:19:23
 Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.
 Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
 Anchored Artifacts: A-1079.3
-Related Nodes: N-1, N-3, N-2, N-1068
+Mentions: N-1, N-2, N-3
+Related Nodes: N-1068
 Confidence: high
 Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.
 
@@ -432,7 +439,8 @@ Claim Timestamp: 00:11:10
 Claim: Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep, per multiple playbacks in the episode.
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
-Related Nodes: N-1, N-3, N-56, N-1069
+Mentions: N-1, N-3, N-56
+Related Nodes: N-1069
 Confidence: medium
 Investigative Direction: Verify through other tour-event footage whether 'Power' was consistently used as hype music.
 
@@ -444,7 +452,8 @@ Claim Timestamp: 00:03:02
 Claim: At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planning session that he planned to take over the RNC.
 Transcript Snippet: Then I'm going to probably take control of the RNC. I mean, he's 23 years old, right?
 Anchored Artifacts: 
-Related Nodes: N-1, N-3, N-1000, N-1072, N-1075
+Mentions: N-1, N-3
+Related Nodes: N-1000, N-1072, N-1075
 Confidence: low
 Uncertainty: No artifact shown backing this anecdote; relies entirely on host recollection.
 Investigative Direction: Cross-reference any other contemporaneous accounts of this stated ambition; flag as self-reported through host.

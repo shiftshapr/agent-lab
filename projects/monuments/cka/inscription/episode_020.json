@@ -948,13 +948,14 @@
       "anchored_artifacts": [
         "A-1270.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-56"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:50",
-      "investigative_direction": "Obtain independent verification of the text exchange (carrier records, device forensics)."
+      "investigative_direction": "Obtain independent verification of the text exchange (carrier records, device forensics).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-56"
+      ]
     },
     {
       "@type": "Claim",
@@ -965,13 +966,14 @@
       "anchored_artifacts": [
         "A-1270.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-56"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:50",
-      "investigative_direction": "Obtain independent verification of the text exchange and any subsequent contact logs between Charlie and Kanye representatives."
+      "investigative_direction": "Obtain independent verification of the text exchange and any subsequent contact logs between Charlie and Kanye representatives.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-56"
+      ]
     },
     {
       "@type": "Claim",
@@ -982,13 +984,14 @@
       "anchored_artifacts": [
         "A-1270.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-56"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:35",
-      "investigative_direction": "Obtain independent verification of the text exchange and corroborating device or carrier records."
+      "investigative_direction": "Obtain independent verification of the text exchange and corroborating device or carrier records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-56"
+      ]
     },
     {
       "@type": "Claim",
@@ -999,13 +1002,14 @@
       "anchored_artifacts": [
         "A-1270.3"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-56"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:20",
-      "investigative_direction": "Obtain independent verification of the text exchange and timestamps."
+      "investigative_direction": "Obtain independent verification of the text exchange and timestamps.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-56"
+      ]
     },
     {
       "@type": "Claim",
@@ -1016,12 +1020,13 @@
       "anchored_artifacts": [
         "A-1271.1"
       ],
-      "related_nodes": [
-        "N-269"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:50",
-      "investigative_direction": "Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating."
+      "investigative_direction": "Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating.",
+      "mentions_person_refs": [
+        "N-269"
+      ]
     },
     {
       "@type": "Claim",
@@ -1032,12 +1037,13 @@
       "anchored_artifacts": [
         "A-1271.1"
       ],
-      "related_nodes": [
-        "N-269"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:50",
-      "investigative_direction": "Identify and timestamp any other contemporaneous public statements or private messages corroborating the \"energy shift\" framing."
+      "investigative_direction": "Identify and timestamp any other contemporaneous public statements or private messages corroborating the \"energy shift\" framing.",
+      "mentions_person_refs": [
+        "N-269"
+      ]
     },
     {
       "@type": "Claim",
@@ -1048,12 +1054,13 @@
       "anchored_artifacts": [
         "A-1272.1"
       ],
-      "related_nodes": [
-        "N-56"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:50",
-      "investigative_direction": "Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export)."
+      "investigative_direction": "Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export).",
+      "mentions_person_refs": [
+        "N-56"
+      ]
     },
     {
       "@type": "Claim",
@@ -1064,12 +1071,13 @@
       "anchored_artifacts": [
         "A-1273.1"
       ],
-      "related_nodes": [
-        "N-266"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:00–00:09:05",
-      "investigative_direction": "Locate and timestamp original Scott Adams video; verify exact wording against played clip."
+      "investigative_direction": "Locate and timestamp original Scott Adams video; verify exact wording against played clip.",
+      "mentions_person_refs": [
+        "N-266"
+      ]
     },
     {
       "@type": "Claim",
@@ -1080,12 +1088,13 @@
       "anchored_artifacts": [
         "A-1274.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:35–00:17:00",
-      "investigative_direction": "Obtain original full Q&A video, confirm context of the audience question and any prior question framing."
+      "investigative_direction": "Obtain original full Q&A video, confirm context of the audience question and any prior question framing.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1096,15 +1105,16 @@
       "anchored_artifacts": [
         "A-1275.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-272",
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:46–00:44:30",
-      "investigative_direction": "Verify whether Mikey McCoy himself has publicly corroborated Kovett's account, and obtain any contemporaneous record of the alleged instruction."
+      "investigative_direction": "Verify whether Mikey McCoy himself has publicly corroborated Kovett's account, and obtain any contemporaneous record of the alleged instruction.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-42",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1115,14 +1125,15 @@
       "anchored_artifacts": [
         "A-1275.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-272",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:46–00:44:30",
-      "investigative_direction": "Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame."
+      "investigative_direction": "Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1133,13 +1144,14 @@
       "anchored_artifacts": [
         "A-1276.1"
       ],
-      "related_nodes": [
-        "N-273",
-        "N-272"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:30–00:48:30",
-      "investigative_direction": "Identify date and outlet of Marlo's full segment; obtain full unedited clip."
+      "investigative_direction": "Identify date and outlet of Marlo's full segment; obtain full unedited clip.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-273"
+      ]
     },
     {
       "@type": "Claim",
@@ -1150,13 +1162,14 @@
       "anchored_artifacts": [
         "A-1277.1"
       ],
-      "related_nodes": [
-        "N-16",
-        "N-272"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:30–00:52:30",
-      "investigative_direction": "Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event."
+      "investigative_direction": "Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1168,13 +1181,15 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-284",
-        "N-1262",
-        "N-1"
+        "N-1262"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
-      "investigative_direction": "Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles."
+      "investigative_direction": "Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-284"
+      ]
     },
     {
       "@type": "Claim",
@@ -1186,12 +1201,14 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-1262",
-        "N-1"
+        "N-1262"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
-      "investigative_direction": "Obtain independent verification from UVU medical staff or institutional records; reconcile with the contemporaneous routing to Timpanogos Regional Hospital."
+      "investigative_direction": "Obtain independent verification from UVU medical staff or institutional records; reconcile with the contemporaneous routing to Timpanogos Regional Hospital.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1204,14 +1221,16 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-45",
-        "N-283",
-        "N-285",
         "N-1263"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",
-      "investigative_direction": "Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources."
+      "investigative_direction": "Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.",
+      "mentions_person_refs": [
+        "N-45",
+        "N-283",
+        "N-285"
+      ]
     },
     {
       "@type": "Claim",
@@ -1223,13 +1242,15 @@
         "A-1279.1"
       ],
       "related_nodes": [
-        "N-45",
-        "N-285",
         "N-1263"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",
-      "investigative_direction": "Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events."
+      "investigative_direction": "Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.",
+      "mentions_person_refs": [
+        "N-45",
+        "N-285"
+      ]
     },
     {
       "@type": "Claim",
@@ -1240,12 +1261,13 @@
       "anchored_artifacts": [
         "A-1280.1"
       ],
-      "related_nodes": [
-        "N-117"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:30–00:59:30",
-      "investigative_direction": "Obtain the original French reporting, the Burme statement, and any tax-form documentation referenced; verify the dating of the records."
+      "investigative_direction": "Obtain the original French reporting, the Burme statement, and any tax-form documentation referenced; verify the dating of the records.",
+      "mentions_person_refs": [
+        "N-117"
+      ]
     },
     {
       "@type": "Claim",
@@ -1256,12 +1278,13 @@
       "anchored_artifacts": [
         "A-1280.1"
       ],
-      "related_nodes": [
-        "N-117"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:30–00:59:30",
-      "investigative_direction": "Identify and obtain the original reporting cited by host; obtain French government statement (if any) addressing the discrepancy."
+      "investigative_direction": "Identify and obtain the original reporting cited by host; obtain French government statement (if any) addressing the discrepancy.",
+      "mentions_person_refs": [
+        "N-117"
+      ]
     },
     {
       "@type": "Claim",
@@ -1272,12 +1295,13 @@
       "anchored_artifacts": [
         "A-1281.1"
       ],
-      "related_nodes": [
-        "N-277"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:55:30–00:56:30",
-      "investigative_direction": "Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record."
+      "investigative_direction": "Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
     },
     {
       "@type": "Claim",
@@ -1288,12 +1312,13 @@
       "anchored_artifacts": [
         "A-1281.1"
       ],
-      "related_nodes": [
-        "N-278"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:00–00:58:00",
-      "investigative_direction": "Tie to primary on-screen artifact in a follow-up pass if needed."
+      "investigative_direction": "Tie to primary on-screen artifact in a follow-up pass if needed.",
+      "mentions_person_refs": [
+        "N-278"
+      ]
     },
     {
       "@type": "Claim",
@@ -1304,12 +1329,13 @@
       "anchored_artifacts": [
         "A-1280.1"
       ],
-      "related_nodes": [
-        "N-217"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:58:00–00:59:00",
-      "investigative_direction": "Obtain on-screen citations from the Macron segment."
+      "investigative_direction": "Obtain on-screen citations from the Macron segment.",
+      "mentions_person_refs": [
+        "N-217"
+      ]
     },
     {
       "@type": "Claim",
@@ -1320,12 +1346,13 @@
       "anchored_artifacts": [
         "A-1278.1"
       ],
-      "related_nodes": [
-        "N-281"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:59:00–01:00:00",
-      "investigative_direction": "Cross-reference hospital message artifacts."
+      "investigative_direction": "Cross-reference hospital message artifacts.",
+      "mentions_person_refs": [
+        "N-281"
+      ]
     },
     {
       "@type": "Claim",
@@ -1336,12 +1363,13 @@
       "anchored_artifacts": [
         "A-1278.1"
       ],
-      "related_nodes": [
-        "N-249"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:00:00–01:01:00",
-      "investigative_direction": "Verify spelling against hospital records if released."
+      "investigative_direction": "Verify spelling against hospital records if released.",
+      "mentions_person_refs": [
+        "N-249"
+      ]
     }
   ],
   "memes": []

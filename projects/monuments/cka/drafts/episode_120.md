@@ -433,8 +433,9 @@ Claim Timestamp: 00:25:38
 Claim: Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing scheduled for the week of July 6.
 
 Anchored Artifacts: A-2092.1
+Mentions: N-4, N-6
 
-Related Nodes: N-4, N-6, N-2077
+Related Nodes: N-2077
 
 Investigative Direction: Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.
 
@@ -447,8 +448,9 @@ Claim Timestamp: 00:26:28
 Claim: Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.
 
 Anchored Artifacts: A-2092.1
+Mentions: N-4, N-6
 
-Related Nodes: N-4, N-6, N-2077
+Related Nodes: N-2077
 
 Investigative Direction: Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript.
 
@@ -461,8 +463,9 @@ Claim Timestamp: 00:13:23
 Claim: A viewer email asserts that white markings visible on the SUV floorboard shards match the design and labeling on a Rode Wireless Pro microphone.
 
 Anchored Artifacts: A-2087.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2076
+Related Nodes: N-2076
 
 Investigative Direction: Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments.
 
@@ -475,8 +478,9 @@ Claim Timestamp: 00:14:51
 Claim: Enhanced still images displayed on the show show white markings on the SUV floorboard shards that visually align with Rode Wireless Pro body design and labeling.
 
 Anchored Artifacts: A-2088.1, A-2089.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2076
+Related Nodes: N-2076
 
 Investigative Direction: Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis.
 
@@ -489,8 +493,9 @@ Claim Timestamp: 00:15:51
 Claim: A YouTube video showing a third party destroying a Rode Wireless Pro produces a shard pattern that visually resembles the shards seen on the SUV floorboard.
 
 Anchored Artifacts: A-2089.2, A-2088.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2076
+Related Nodes: N-2076
 
 Investigative Direction: Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology.
 
@@ -503,8 +508,9 @@ Claim Timestamp: 00:39:46
 Claim: Signatures displayed on the show show Erika's current signature as visually distinct from her Miss Arizona era signature.
 
 Anchored Artifacts: A-2091.1, A-2091.2
+Mentions: N-2
 
-Related Nodes: N-2, N-2078
+Related Nodes: N-2078
 
 Investigative Direction: Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison.
 

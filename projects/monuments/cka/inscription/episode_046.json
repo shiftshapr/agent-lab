@@ -659,14 +659,15 @@
         "A-1533.1",
         "A-1533.2"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:58",
+      "investigative_direction": "Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet.",
+      "mentions_person_refs": [
         "N-2",
         "N-3",
         "N-444"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:07:58",
-      "investigative_direction": "Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet."
+      ]
     },
     {
       "@type": "Claim",
@@ -677,13 +678,14 @@
       "anchored_artifacts": [
         "A-1534.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-364"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:23",
-      "investigative_direction": "Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context."
+      "investigative_direction": "Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -694,13 +696,14 @@
       "anchored_artifacts": [
         "A-1534.3"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-364"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:20",
-      "investigative_direction": "Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial."
+      "investigative_direction": "Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -709,13 +712,14 @@
       "label": "Erika Kirk characterized online skepticism as \"mental illness\"",
       "claim": "In the Glenn Beck interview, Erika Kirk stated: \"I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness.\"",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-2",
-        "N-364"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:04",
-      "investigative_direction": "Verify the exact context of the \"mental illness\" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary."
+      "investigative_direction": "Verify the exact context of the \"mental illness\" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -726,13 +730,14 @@
       "anchored_artifacts": [
         "A-1533.4"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-364"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:04",
-      "investigative_direction": "Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging."
+      "investigative_direction": "Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -743,13 +748,14 @@
       "anchored_artifacts": [
         "A-1534.2"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-364"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:20",
-      "investigative_direction": "Track whether this \"education\" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary."
+      "investigative_direction": "Track whether this \"education\" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -761,12 +767,14 @@
         "A-1535.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1407"
       ],
       "tags": [],
       "claim_timestamp": "00:33:07",
-      "investigative_direction": "Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage."
+      "investigative_direction": "Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -777,13 +785,14 @@
       "anchored_artifacts": [
         "A-1536.1"
       ],
-      "related_nodes": [
-        "N-349",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:58",
-      "investigative_direction": "Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements."
+      "investigative_direction": "Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -794,16 +803,17 @@
       "anchored_artifacts": [
         "A-1537.1"
       ],
-      "related_nodes": [
-        "N-349",
-        "N-135",
-        "N-350",
-        "N-133",
-        "N-42"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:28",
-      "investigative_direction": "Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence."
+      "investigative_direction": "Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-133",
+        "N-135",
+        "N-349",
+        "N-350"
+      ]
     },
     {
       "@type": "Claim",
@@ -814,13 +824,14 @@
       "anchored_artifacts": [
         "A-1536.2"
       ],
-      "related_nodes": [
-        "N-349",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:13",
-      "investigative_direction": "Capture the comment thread for permanent record and identify the original commenter if investigatively relevant."
+      "investigative_direction": "Capture the comment thread for permanent record and identify the original commenter if investigatively relevant.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -832,13 +843,15 @@
         "A-1533.1"
       ],
       "related_nodes": [
-        "N-444",
-        "N-537",
         "N-1405"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production."
+      "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.",
+      "mentions_person_refs": [
+        "N-444",
+        "N-537"
+      ]
     },
     {
       "@type": "Claim",
@@ -848,12 +861,14 @@
       "claim": "The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1406"
       ],
       "tags": [],
       "claim_timestamp": "00:56:27–00:57:53",
-      "investigative_direction": "Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents."
+      "investigative_direction": "Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     }
   ],
   "memes": []

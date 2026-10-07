@@ -698,12 +698,14 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2142"
       ],
       "tags": [],
       "claim_timestamp": "00:26:13",
-      "investigative_direction": "Identify the family friend (host speculates Tracy Martin); obtain confirmation or denial from Turning Point USA."
+      "investigative_direction": "Identify the family friend (host speculates Tracy Martin); obtain confirmation or denial from Turning Point USA.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -715,12 +717,14 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2142"
       ],
       "tags": [],
       "claim_timestamp": "00:27:48",
-      "investigative_direction": "Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications."
+      "investigative_direction": "Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -731,12 +735,13 @@
       "anchored_artifacts": [
         "A-2164.2"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:34",
-      "investigative_direction": "Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss)."
+      "investigative_direction": "Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss).",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -747,12 +752,13 @@
       "anchored_artifacts": [
         "A-2164.3"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:27",
-      "investigative_direction": "Verify quoted statements with original article; identify \"family friend\" vs. \"family member\" sourcing distinction."
+      "investigative_direction": "Verify quoted statements with original article; identify \"family friend\" vs. \"family member\" sourcing distinction.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -864,7 +870,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
-      "investigative_direction": "Reconcile with phone log evidence (which suggests Elizabeth was called first, with Erika added 3 minutes later); assess Neff's recall accuracy versus contemporaneous records."
+      "investigative_direction": "Reconcile with phone log evidence (which suggests Elizabeth was called first, with Erika added 3 minutes later); assess Neff's recall accuracy versus contemporaneous records.",
+      "contradicts_claim_refs": [
+        "C-1932",
+        "C-3092"
+      ]
     },
     {
       "@type": "Claim",
@@ -1023,12 +1033,14 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-1",
         "N-2140"
       ],
       "tags": [],
       "claim_timestamp": "00:50:38",
-      "investigative_direction": "Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account."
+      "investigative_direction": "Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1040,12 +1052,14 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-1",
         "N-2140"
       ],
       "tags": [],
       "claim_timestamp": "00:54:20",
-      "investigative_direction": "Confirm the post against Charlie Kirk's X archive; date the post."
+      "investigative_direction": "Confirm the post against Charlie Kirk's X archive; date the post.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

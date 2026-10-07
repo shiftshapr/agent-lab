@@ -538,13 +538,15 @@
         "A-1628.2"
       ],
       "related_nodes": [
-        "N-720",
-        "N-1484",
-        "N-724"
+        "N-1484"
       ],
       "tags": [],
       "claim_timestamp": "00:13:05",
-      "investigative_direction": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description."
+      "investigative_direction": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.",
+      "mentions_person_refs": [
+        "N-720",
+        "N-724"
+      ]
     },
     {
       "@type": "Claim",
@@ -621,12 +623,14 @@
         "A-1631.1"
       ],
       "related_nodes": [
-        "N-1487",
-        "N-3"
+        "N-1487"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
-      "investigative_direction": "Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her."
+      "investigative_direction": "Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -637,12 +641,13 @@
       "anchored_artifacts": [
         "A-1632.1"
       ],
-      "related_nodes": [
-        "N-721"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:34",
-      "investigative_direction": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited."
+      "investigative_direction": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.",
+      "mentions_person_refs": [
+        "N-721"
+      ]
     },
     {
       "@type": "Claim",
@@ -654,12 +659,14 @@
         "A-1633.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1486"
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
-      "investigative_direction": "Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps."
+      "investigative_direction": "Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -671,12 +678,14 @@
         "A-1633.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1486"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
-      "investigative_direction": "Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death."
+      "investigative_direction": "Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -687,12 +696,13 @@
       "anchored_artifacts": [
         "A-1634.1"
       ],
-      "related_nodes": [
-        "N-726"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:28",
-      "investigative_direction": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims."
+      "investigative_direction": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.",
+      "mentions_person_refs": [
+        "N-726"
+      ]
     },
     {
       "@type": "Claim",
@@ -703,12 +713,13 @@
       "anchored_artifacts": [
         "A-1634.2"
       ],
-      "related_nodes": [
-        "N-727"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:51",
-      "investigative_direction": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements."
+      "investigative_direction": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.",
+      "mentions_person_refs": [
+        "N-727"
+      ]
     }
   ],
   "memes": []

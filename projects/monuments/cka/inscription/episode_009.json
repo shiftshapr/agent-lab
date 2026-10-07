@@ -1254,29 +1254,30 @@
       "anchored_artifacts": [
         "A-1155.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:01",
+      "investigative_direction": "Verify text chain authenticity and timestamp; cross-check flight records.",
+      "transcript_snippet": "Reme $450 in coach or 1,200 in first class.",
+      "confidence": "high",
+      "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-59",
         "N-5",
+        "N-59",
+        "N-80",
+        "N-99",
         "N-149",
         "N-154",
         "N-155",
-        "N-80",
         "N-156",
-        "N-99",
         "N-158",
         "N-160",
         "N-161",
         "N-162",
         "N-163",
         "N-164"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:12:01",
-      "investigative_direction": "Verify text chain authenticity and timestamp; cross-check flight records.",
-      "transcript_snippet": "Reme $450 in coach or 1,200 in first class.",
-      "confidence": "high"
+      ]
     },
     {
       "@type": "Claim",
@@ -1288,8 +1289,6 @@
         "A-1155.1"
       ],
       "related_nodes": [
-        "N-3",
-        "N-59",
         "N-1184",
         "N-1192"
       ],
@@ -1297,7 +1296,11 @@
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Corroborate via marriage records, flight manifests, and Turning Point UK launch date.",
       "transcript_snippet": "I didn't know him. I never even saw his face 18 day 18 days prior.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3",
+        "N-59"
+      ]
     },
     {
       "@type": "Claim",
@@ -1309,16 +1312,18 @@
         "A-1155.2"
       ],
       "related_nodes": [
-        "N-3",
-        "N-59",
-        "N-157",
         "N-1179"
       ],
       "tags": [],
       "claim_timestamp": "00:16:44",
       "investigative_direction": "Verify timestamps against phone records; preserve screenshots for chain-of-custody.",
       "transcript_snippet": "Imminent danger is coming…communist underground…has something to do with bees.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-59",
+        "N-157"
+      ]
     },
     {
       "@type": "Claim",
@@ -1330,14 +1335,16 @@
       "related_nodes": [
         "N-1003",
         "N-1182",
-        "N-1178",
-        "N-148"
+        "N-1178"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
       "investigative_direction": "Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.",
       "transcript_snippet": "…learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-148"
+      ]
     },
     {
       "@type": "Claim",
@@ -1349,7 +1356,6 @@
         "A-1156.1"
       ],
       "related_nodes": [
-        "N-148",
         "N-1177",
         "N-1186",
         "N-1003",
@@ -1359,7 +1365,10 @@
       "claim_timestamp": "00:28:09",
       "investigative_direction": "Obtain full document; forensically authenticate scrape and timestamps.",
       "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-148"
+      ]
     },
     {
       "@type": "Claim",
@@ -1370,14 +1379,15 @@
       "anchored_artifacts": [
         "A-1156.2"
       ],
-      "related_nodes": [
-        "N-148"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:42",
       "investigative_direction": "Confirm via original-platform uploads and metadata.",
       "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-148"
+      ]
     },
     {
       "@type": "Claim",
@@ -1389,14 +1399,16 @@
         "A-1156.3"
       ],
       "related_nodes": [
-        "N-148",
         "N-1186"
       ],
       "tags": [],
       "claim_timestamp": "00:29:27",
       "investigative_direction": "Recover original YouTube comments and timestamps via scrape or platform archives.",
       "transcript_snippet": "Blasting their useless brains out with an AR…heads chopped off and put on stakes.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-148"
+      ]
     },
     {
       "@type": "Claim",
@@ -1408,14 +1420,16 @@
         "A-1156.4"
       ],
       "related_nodes": [
-        "N-148",
         "N-1177"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
       "investigative_direction": "Obtain original search-history logs or corroborating scrape; verify timeline.",
       "transcript_snippet": "Best places for a mass shooting. How to make Molotov cocktails.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-148"
+      ]
     },
     {
       "@type": "Claim",
@@ -1427,8 +1441,6 @@
         "A-1157.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-75",
         "N-1188",
         "N-1189",
         "N-1183"
@@ -1437,7 +1449,11 @@
       "claim_timestamp": "00:42:20",
       "investigative_direction": "Recover Jezebel article and Etsy listings; verify priest consultation with family.",
       "transcript_snippet": "Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-2",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1449,20 +1465,22 @@
         "A-1158.1"
       ],
       "related_nodes": [
-        "N-3",
-        "N-122",
-        "N-150",
-        "N-133",
-        "N-151",
-        "N-152",
-        "N-153",
         "N-1185"
       ],
       "tags": [],
       "claim_timestamp": "00:38:33",
       "investigative_direction": "Verify exact quote against full Kimmel monologue transcript.",
       "transcript_snippet": "People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-122",
+        "N-133",
+        "N-150",
+        "N-151",
+        "N-152",
+        "N-153"
+      ]
     },
     {
       "@type": "Claim",
@@ -1474,14 +1492,16 @@
         "A-1159.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1190"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Confirm authenticity and release date via Riverbend Ranch.",
       "transcript_snippet": "We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1493,7 +1513,6 @@
         "A-1160.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1179",
         "N-1194",
         "N-1181",
@@ -1503,7 +1522,10 @@
       "claim_timestamp": "00:18:56",
       "investigative_direction": "Verify date and obtain full recording.",
       "transcript_snippet": "I'm homeschooling my kids. I'm so excited.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1515,15 +1537,17 @@
         "A-1161.1"
       ],
       "related_nodes": [
-        "N-69",
-        "N-159",
         "N-1176"
       ],
       "tags": [],
       "claim_timestamp": "00:55:36",
       "investigative_direction": "Obtain original video from Natalie; verify identity of woman and chain of custody.",
       "transcript_snippet": "It also shows him changing clothes and he is not alone. There is a woman with him.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69",
+        "N-159"
+      ]
     },
     {
       "@type": "Claim",
@@ -1551,14 +1575,16 @@
       "claim": "Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1176"
       ],
       "tags": [],
       "claim_timestamp": "00:03:40",
       "investigative_direction": "Confirm via court filings, prosecution discovery, and public statements.",
       "transcript_snippet": "There is absolutely no video which shows Tyler Robinson firing the weapon.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1568,14 +1594,16 @@
       "claim": "Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1176"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Obtain forensic ballistics report from court filings.",
       "transcript_snippet": "The bullet…was too fragmented to match Tyler's rifle.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1585,7 +1613,6 @@
       "claim": "Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1079",
         "N-1077",
         "N-1176"
@@ -1594,7 +1621,10 @@
       "claim_timestamp": "00:05:13",
       "investigative_direction": "Verify against indictment and discovery materials.",
       "transcript_snippet": "The feds don't even have any footage that explains how exactly the rifle…got onto the roof.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1604,14 +1634,16 @@
       "claim": "Host's source says prints other than Tyler Robinson's were also on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1176"
       ],
       "tags": [],
       "claim_timestamp": "00:08:59",
       "investigative_direction": "Obtain forensic print report from court filings.",
       "transcript_snippet": "It's not the only set of prints that are on that gun.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1621,14 +1653,16 @@
       "claim": "Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-69",
         "N-1187"
       ],
       "tags": [],
       "claim_timestamp": "00:03:46",
       "investigative_direction": "Identify and interview the eyewitness; obtain his footage.",
       "transcript_snippet": "He was in tactical gear. The person that I saw was in tactical gear.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     }
   ],
   "memes": [

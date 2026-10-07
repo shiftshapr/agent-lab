@@ -1056,15 +1056,16 @@
       "anchored_artifacts": [
         "A-1836.1"
       ],
-      "related_nodes": [
-        "N-973",
-        "N-974",
-        "N-975",
-        "N-254"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:25",
-      "investigative_direction": "Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers."
+      "investigative_direction": "Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.",
+      "mentions_person_refs": [
+        "N-254",
+        "N-973",
+        "N-974",
+        "N-975"
+      ]
     },
     {
       "@type": "Claim",
@@ -1076,13 +1077,15 @@
         "A-1837.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-969",
         "N-1606"
       ],
       "tags": [],
       "claim_timestamp": "00:13:44",
-      "investigative_direction": "Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force."
+      "investigative_direction": "Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-969"
+      ]
     },
     {
       "@type": "Claim",
@@ -1094,13 +1097,15 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-971",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
-      "investigative_direction": "Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania."
+      "investigative_direction": "Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-971"
+      ]
     },
     {
       "@type": "Claim",
@@ -1112,13 +1117,15 @@
         "A-1838.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-971",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:16:04",
-      "investigative_direction": "Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children."
+      "investigative_direction": "Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-971"
+      ]
     },
     {
       "@type": "Claim",
@@ -1130,12 +1137,14 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-972",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
-      "investigative_direction": "Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity."
+      "investigative_direction": "Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.",
+      "mentions_person_refs": [
+        "N-972"
+      ]
     },
     {
       "@type": "Claim",
@@ -1147,13 +1156,15 @@
         "A-1840.1"
       ],
       "related_nodes": [
-        "N-972",
-        "N-982",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:21:19",
-      "investigative_direction": "Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's \"sexual sharing\" directive."
+      "investigative_direction": "Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's \"sexual sharing\" directive.",
+      "mentions_person_refs": [
+        "N-972",
+        "N-982"
+      ]
     },
     {
       "@type": "Claim",
@@ -1166,12 +1177,14 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1609"
       ],
       "tags": [],
       "claim_timestamp": "00:30:45",
-      "investigative_direction": "Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition."
+      "investigative_direction": "Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1184,13 +1197,15 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-1",
         "N-1608",
         "N-1610"
       ],
       "tags": [],
       "claim_timestamp": "00:34:11",
-      "investigative_direction": "Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host)."
+      "investigative_direction": "Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1202,12 +1217,14 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1608"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
-      "investigative_direction": "Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round."
+      "investigative_direction": "Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1219,12 +1236,14 @@
         "A-1842.3"
       ],
       "related_nodes": [
-        "N-1",
         "N-1608"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
-      "investigative_direction": "Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory."
+      "investigative_direction": "Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1236,13 +1255,15 @@
         "A-1843.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-968",
         "N-1611"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41",
-      "investigative_direction": "Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023)."
+      "investigative_direction": "Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-968"
+      ]
     },
     {
       "@type": "Claim",
@@ -1254,13 +1275,15 @@
         "A-1844.1"
       ],
       "related_nodes": [
-        "N-968",
-        "N-70",
         "N-1611"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
-      "investigative_direction": "Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work."
+      "investigative_direction": "Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.",
+      "mentions_person_refs": [
+        "N-70",
+        "N-968"
+      ]
     },
     {
       "@type": "Claim",
@@ -1272,12 +1295,14 @@
         "A-1844.2"
       ],
       "related_nodes": [
-        "N-968",
         "N-1611"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
-      "investigative_direction": "Preserve community note metadata; identify raters and any subsequent updates to the note."
+      "investigative_direction": "Preserve community note metadata; identify raters and any subsequent updates to the note.",
+      "mentions_person_refs": [
+        "N-968"
+      ]
     },
     {
       "@type": "Claim",
@@ -1290,13 +1315,15 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-968",
         "N-1611"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
-      "investigative_direction": "Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each."
+      "investigative_direction": "Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-968"
+      ]
     },
     {
       "@type": "Claim",
@@ -1308,12 +1335,14 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-971",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
-      "investigative_direction": "Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history."
+      "investigative_direction": "Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.",
+      "mentions_person_refs": [
+        "N-971"
+      ]
     },
     {
       "@type": "Claim",
@@ -1325,13 +1354,15 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-971",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
-      "investigative_direction": "Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk."
+      "investigative_direction": "Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-971"
+      ]
     },
     {
       "@type": "Claim",
@@ -1343,12 +1374,14 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1608"
       ],
       "tags": [],
       "claim_timestamp": "00:38:21",
-      "investigative_direction": "Identify the individual referred to as \"Dan\" via displayed video and corroborate identity with official event staff rosters."
+      "investigative_direction": "Identify the individual referred to as \"Dan\" via displayed video and corroborate identity with official event staff rosters.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1361,12 +1394,14 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1609"
       ],
       "tags": [],
       "claim_timestamp": "00:31:14",
-      "investigative_direction": "Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles."
+      "investigative_direction": "Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1378,12 +1413,14 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-968",
         "N-1611"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
-      "investigative_direction": "Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline."
+      "investigative_direction": "Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.",
+      "mentions_person_refs": [
+        "N-968"
+      ]
     },
     {
       "@type": "Claim",
@@ -1395,12 +1432,14 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-972",
         "N-1607"
       ],
       "tags": [],
       "claim_timestamp": "00:19:11",
-      "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members."
+      "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.",
+      "mentions_person_refs": [
+        "N-972"
+      ]
     }
   ],
   "memes": []

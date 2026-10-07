@@ -483,8 +483,9 @@ Claim Timestamp: 00:06:34
 Claim: Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.
 
 Anchored Artifacts: A-1480.1
+Mentions: N-463
 
-Related Nodes: N-463, N-1377
+Related Nodes: N-1377
 
 Investigative Direction: Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.
 
@@ -497,8 +498,9 @@ Claim Timestamp: 00:07:45
 Claim: Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.
 
 Anchored Artifacts: A-1480.1
+Mentions: N-463, N-475
 
-Related Nodes: N-463, N-475, N-1377
+Related Nodes: N-1377
 
 Investigative Direction: Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling.
 
@@ -511,8 +513,9 @@ Claim Timestamp: 00:08:36
 Claim: Robert H. Richards III, father of Robert Richards IV, is identified in the Vanity Fair article as a retired partner at the Richards Layton & Finger law firm.
 
 Anchored Artifacts: A-1480.1
+Mentions: N-463, N-464
 
-Related Nodes: N-463, N-464, N-1374
+Related Nodes: N-1374
 
 Investigative Direction: Cross-reference firm partnership records and Richards family genealogy.
 
@@ -525,8 +528,9 @@ Claim Timestamp: 00:09:20
 Claim: Robert Richards IV also admitted to sexually assaulting his infant son and was initially charged with two counts of second-degree child rape carrying a mandatory 20-year term, before pleading to a reduced charge of fourth-degree rape.
 
 Anchored Artifacts: A-1480.1
+Mentions: N-463
 
-Related Nodes: N-463, N-1377
+Related Nodes: N-1377
 
 Investigative Direction: Obtain the plea agreement and original charging documents.
 
@@ -539,8 +543,9 @@ Claim Timestamp: 00:09:20
 Claim: John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family mansion in 1996, per Vanity Fair account.
 
 Anchored Artifacts: A-1480.1
+Mentions: N-466, N-474
 
-Related Nodes: N-466, N-474, N-1377
+Related Nodes: N-1377
 
 Investigative Direction: Confirm against public court records of the John DuPont criminal case.
 
@@ -553,8 +558,9 @@ Claim Timestamp: 00:10:39
 Claim: Per Vanity Fair, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner; money traced to the DuPont family. Both DuPont and Mosley died in prison.
 
 Anchored Artifacts: A-1480.1
+Mentions: N-467, N-468
 
-Related Nodes: N-467, N-468, N-1377
+Related Nodes: N-1377
 
 Investigative Direction: Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.
 
@@ -567,8 +573,8 @@ Claim Timestamp: 00:42:09
 Claim: Charlie Kirk wrote on April 13, 2018: "In our lifetime, we will experience real war beyond anything that we can fathom. Absolute and total destruction."
 
 Anchored Artifacts: A-1481.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain the original text record or phone screenshot for verification of exact wording.
 
@@ -581,8 +587,8 @@ Claim Timestamp: 00:40:29
 Claim: Charlie Kirk texted Candace Owens asking whether he had to change his shirt before a date; Owens replied "Yes, and throw it away if you can, Charlie"; Kirk replied "Ah, okay."
 
 Anchored Artifacts: A-1482.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain screenshot of original exchange if preserved.
 
@@ -609,8 +615,8 @@ Claim Timestamp: 00:54:38–00:59:00
 Claim: Multiple viewer comments read on air express sustained support for host and reference Charlie Kirk; one comment references "Dupant" name-drop as emotionally significant.
 
 Anchored Artifacts: A-1484.1
+Mentions: N-1, N-2, N-462
 
-Related Nodes: N-1, N-2, N-462
 
 Investigative Direction: No investigative direction; capture as audience signal.
 
@@ -637,8 +643,9 @@ Claim Timestamp: 00:28:17
 Claim: Six people at Turning Point USA reported that Justin Strife placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.
 
 Anchored Artifacts: A-1486.1
+Mentions: N-43, N-264, N-471, N-476
 
-Related Nodes: N-264, N-471, N-43, N-1369, N-1371, N-476
+Related Nodes: N-1369, N-1371
 
 Investigative Direction: Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.
 
@@ -651,8 +658,9 @@ Claim Timestamp: 00:30:22
 Claim: Two TPUSA sources told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion.
 
 Anchored Artifacts: A-1486.2
+Mentions: N-264, N-471
 
-Related Nodes: N-264, N-471, N-1369
+Related Nodes: N-1369
 
 Investigative Direction: Obtain the underlying communications with the named TPUSA sources.
 
@@ -665,8 +673,9 @@ Claim Timestamp: 00:32:01
 Claim: After host mentioned "Pierre Dupont" on Episode 38, the same TPUSA sources confirmed that the donor prospect was Pierre Dupont.
 
 Anchored Artifacts: A-1486.3
+Mentions: N-264, N-471
 
-Related Nodes: N-264, N-471, N-1369
+Related Nodes: N-1369
 
 Investigative Direction: Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.
 
@@ -679,8 +688,9 @@ Claim Timestamp: 00:47:01
 Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.
 
 Anchored Artifacts: A-1486.4
+Mentions: N-37, N-70, N-264, N-471
 
-Related Nodes: N-264, N-471, N-70, N-1372, N-37
+Related Nodes: N-1372
 
 Investigative Direction: Obtain the supporting proof documentation and any internal TPUSA planning materials.
 

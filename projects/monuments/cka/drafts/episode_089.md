@@ -398,7 +398,8 @@ Claim Timestamp: 00:04:12–00:12:28
 Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones and described them as "low IQ," "stupid people," "nutjobs," "troublemakers," and "losers."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: N-1210, N-3, N-1662
+Mentions: N-3
+Related Nodes: N-1210, N-1662
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
 ---
@@ -422,7 +423,7 @@ Claim Timestamp: 00:23:45–00:24:40
 Claim: CNN assembled and aired a montage of past Trump appearances in which he praised Candace Owens, Megyn Kelly, and others as "stars" with "amazing reputations," contradicting his current posture in A-1939.1.
 
 Anchored Artifacts: A-1940.1
-Related Nodes: N-3
+Mentions: N-3
 Investigative Direction: Identify and verify the source clips used in the CNN compilation and their original air dates.
 
 ---
@@ -542,7 +543,8 @@ Claim Timestamp: 00:09:01–00:09:34
 Claim: Trump's Truth Social post stated, verbatim, that the first lady of France is "a far more beautiful woman than Candace" and "it's not even close."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: N-1216, N-1218, N-3
+Mentions: N-3
+Related Nodes: N-1216, N-1218
 Investigative Direction: Verify exact wording against the archived post.
 
 ---

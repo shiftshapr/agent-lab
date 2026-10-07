@@ -479,8 +479,9 @@ Claim Timestamp: 00:03:23–00:05:24
 Claim: Multiple identified members of the *November Renaissance* cast — including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum — have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
 
 Anchored Artifacts: A-1635.1, A-1635.2
+Mentions: N-729, N-733, N-734, N-735, N-736, N-737
 
-Related Nodes: N-729, N-733, N-734, N-735, N-736, N-737, N-1488, N-1489
+Related Nodes: N-1488, N-1489
 
 Investigative Direction: Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.
 
@@ -493,8 +494,9 @@ Claim Timestamp: 00:08:16–00:10:12
 Claim: The publicly described plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.
 
 Anchored Artifacts: A-1635.2, A-1635.3
+Mentions: N-729
 
-Related Nodes: N-729, N-1489
+Related Nodes: N-1489
 
 Investigative Direction: Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.
 
@@ -507,8 +509,9 @@ Claim Timestamp: 00:05:24
 Claim: A remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
 
 Anchored Artifacts: A-1635.2
+Mentions: N-2, N-729
 
-Related Nodes: N-2, N-729, N-1489
+Related Nodes: N-1489
 
 Investigative Direction: Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.
 
@@ -521,8 +524,9 @@ Claim Timestamp: 00:11:15–00:14:14
 Claim: Three individuals with Fort Huachuca affiliation — including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 — report having seen Erika at Fort Huachuca.
 
 Anchored Artifacts: A-1635.1 (poster corroborates familiarity), A-1642.1 (related commenter testimony pattern)
+Mentions: N-2
 
-Related Nodes: N-2, N-1488
+Related Nodes: N-1488
 
 Investigative Direction: Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs.
 
@@ -537,8 +541,9 @@ Claim Timestamp: 00:16:13–00:18:00
 Claim: On a podcast, Erika stated she "was living in China and doing a lot of work with the victims from sex trafficking" before later transitioning to Marine Corps, Army, and Romanian-orphanage work.
 
 Anchored Artifacts: A-1636.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1490
+Related Nodes: N-1490
 
 Investigative Direction: Identify and archive the original podcast episode; obtain dated publication and transcript; verify whether "living" is Erika's exact word or paraphrase.
 
@@ -551,8 +556,9 @@ Claim Timestamp: 00:18:47
 Claim: Turning Point USA executive Justin Stripe replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
 
 Anchored Artifacts: A-1637.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1490
+Related Nodes: N-1490
 
 Investigative Direction: Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
@@ -565,8 +571,9 @@ Claim Timestamp: 00:20:05–00:21:00
 Claim: Karl and Nelda Buckman gave a $10 million gift to Turning Point USA — described as the largest in the organization's history — and the Florida campus was renamed the "Buckman campus" in connection with the donation.
 
 Anchored Artifacts: A-1638.1
+Mentions: N-730, N-731
 
-Related Nodes: N-730, N-731, N-1492
+Related Nodes: N-1492
 
 Investigative Direction: Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives.
 
@@ -579,8 +586,9 @@ Claim Timestamp: 00:21:00–00:22:00
 Claim: In a January 2026 Daily Wire Plus interview, Nelda Buckman described a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and stated that Buckman offered Erika "personal support" about navigating her role as a single mother leading Turning Point.
 
 Anchored Artifacts: A-1638.2
+Mentions: N-2, N-730
 
-Related Nodes: N-2, N-730, N-1492
+Related Nodes: N-1492
 
 Investigative Direction: Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting.
 
@@ -593,8 +601,9 @@ Claim Timestamp: 00:21:46
 Claim: Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.
 
 Anchored Artifacts: A-1639.1
+Mentions: N-730
 
-Related Nodes: N-730, N-1494
+Related Nodes: N-1494
 
 Investigative Direction: Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).
 
@@ -607,8 +616,9 @@ Claim Timestamp: 00:18:20
 Claim: Baron Coleman and a "mommy sleuth" investigator reported that the plane formerly used by Charlie and now appearing to be Erika's has visited New Braunfels, Texas and a location in Idaho; host states these locations correspond to top Turning Point USA donors.
 
 Anchored Artifacts: A-1638.3
+Mentions: N-2, N-413, N-552
 
-Related Nodes: N-2, N-552, N-413, N-1492
+Related Nodes: N-1492
 
 Investigative Direction: Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations.
 
@@ -621,8 +631,9 @@ Claim Timestamp: 00:36:23–00:39:06
 Claim: In a clip aired on the episode, Nick Fuentes stated regarding Jeffrey Epstein that "it isn't really pedophilia" because "they weren't trafficking 5-year-olds, it was like they were technically not legal" and characterized the victims as "barely legal teens."
 
 Anchored Artifacts: A-1641.1
+Mentions: N-293
 
-Related Nodes: N-293, N-1495
+Related Nodes: N-1495
 
 Investigative Direction: Obtain the unedited source clip with timestamp and channel identification to verify wording and context.
 
@@ -635,8 +646,9 @@ Claim Timestamp: 00:42:23–00:44:18
 Claim: In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is "not satanic pedophilia cult stuff" but "run-of-the-mill prostitution and sex trafficking but for an international political purpose" and dismissed it as "Dateline" rather than a "human interest story."
 
 Anchored Artifacts: A-1641.2
+Mentions: N-293
 
-Related Nodes: N-293, N-1495
+Related Nodes: N-1495
 
 Investigative Direction: Obtain unedited source clip and verify the framing in the original Fuentes broadcast context.
 
@@ -649,8 +661,9 @@ Claim Timestamp: 00:53:05–00:55:26
 Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years stationed at Fort Hood, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN — closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
 
 Anchored Artifacts: A-1642.1
+Mentions: N-744
 
-Related Nodes: N-744, N-1493
+Related Nodes: N-1493
 
 Investigative Direction: Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.
 

@@ -393,8 +393,8 @@ Claim Timestamp: 00:18:29 – 00:20:44
 Claim: At AmFest, Ben Shapiro stated that Candace Owens was casting aspersions on TPUSA staff and on Erika Kirk, and that people with microphones had a moral obligation to call her out by name.
 
 Anchored Artifacts: A-1561.1
+Mentions: N-1, N-2, N-3, N-133
 
-Related Nodes: N-133, N-3, N-1, N-2
 
 Investigative Direction: Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Colvin, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.
 
@@ -407,8 +407,8 @@ Claim Timestamp: 00:24:37 – 00:26:29
 Claim: Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point — whom Carlson attributed in part to Ben Shapiro's insistence — pressured Kirk to remove Tucker from the AmFest speaker roster.
 
 Anchored Artifacts: A-1562.1
+Mentions: N-50, N-133
 
-Related Nodes: N-50, N-133
 
 Investigative Direction: Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.
 
@@ -421,8 +421,8 @@ Claim Timestamp: 00:12:45 – 00:15:40
 Claim: The Daily Wire held a "town hall"–style firing event attended by approximately 300 employees in which then-CEO Jeremy Boreing narrated a packaged presentation of Owens's X posts (October 28, 2023 protest repost; November 3, 2023 genocide tweet; pornography tweet; "Christ is King" tweets), with Ben Shapiro joining electronically on screen.
 
 Anchored Artifacts: A-1563.1
+Mentions: N-3, N-133, N-607
 
-Related Nodes: N-3, N-133, N-607
 
 Investigative Direction: Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds.
 
@@ -435,8 +435,9 @@ Claim Timestamp: 00:35:44
 Claim: Mark Amodei publicly asserted via X that on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.
 
 Anchored Artifacts: A-1564.1
+Mentions: N-599
 
-Related Nodes: N-599, N-1442
+Related Nodes: N-1442
 
 Investigative Direction: Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.
 
@@ -449,8 +450,9 @@ Claim Timestamp: 00:36:36
 Claim: Per Diligent Dennison's X post analysis, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C., having missed two morning roll calls.
 
 Anchored Artifacts: A-1565.1
+Mentions: N-599, N-606
 
-Related Nodes: N-599, N-606, N-1442
+Related Nodes: N-1442
 
 Investigative Direction: Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.
 
@@ -463,8 +465,9 @@ Claim Timestamp: 00:41:56 – 00:43:14
 Claim: After being shown a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.
 
 Anchored Artifacts: A-1566.1
+Mentions: N-597, N-605
 
-Related Nodes: N-597, N-605, N-1443
+Related Nodes: N-1443
 
 Investigative Direction: Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.
 
@@ -477,8 +480,9 @@ Claim Timestamp: 00:37:30
 Claim: Travel logs provided to the host indicate that Brian Harpole's flight routing would have allowed him to attend the early-morning Fort Huachuca meeting on September 9.
 
 Anchored Artifacts: A-1567.2
+Mentions: N-424
 
-Related Nodes: N-424, N-1441, N-1444
+Related Nodes: N-1441, N-1444
 
 Investigative Direction: Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.
 
@@ -493,8 +497,9 @@ Claim Timestamp: 00:33:21 – 00:34:20
 Claim: The host reports that Mitch's reported access to Fort Huachuca base, his hotel booking at Candlewood Inn & Suites, and his NDA-related lawsuit paperwork have all been verified by the host's team.
 
 Anchored Artifacts: A-1567.1, A-1567.3
+Mentions: N-597
 
-Related Nodes: N-597, N-1441
+Related Nodes: N-1441
 
 Investigative Direction: Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.
 
@@ -509,8 +514,9 @@ Claim Timestamp: 00:40:44 – 00:45:06
 Claim: The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.
 
 Anchored Artifacts: None directly captured (Erika Kirk's original statement and the cited social-media evidence are referenced only secondhand; host says "I think we can show that" but the transcript captures no on-screen display).
+Mentions: N-2, N-605
 
-Related Nodes: N-2, N-605, N-1445
+Related Nodes: N-1445
 
 Investigative Direction: Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.
 

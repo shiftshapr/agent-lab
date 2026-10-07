@@ -346,8 +346,9 @@ Claim Timestamp: 00:18:36
 Claim: Andrew Wilson's debate opening statement was read aloud from a mobile phone and concerned "never-before-seen messages" from Charlie Kirk to his security team dated September 9, 2025.
 
 Anchored Artifacts: A-2277.1
+Mentions: N-46
 
-Related Nodes: N-2193, N-2194, N-46
+Related Nodes: N-2193, N-2194
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -358,8 +359,8 @@ Claim Timestamp: 00:22:37
 Claim: When asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered 75–85%.
 
 Anchored Artifacts: A-2277.2
+Mentions: N-46
 
-Related Nodes: N-46
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
@@ -370,8 +371,8 @@ Claim Timestamp: 00:44:42
 Claim: When challenged during the debate to name any of the seven charges Tyler Robinson faces, Andrew Wilson could not do so and ultimately named a charge (murder) that Owens stated was not on the list.
 
 Anchored Artifacts: A-2277.4
+Mentions: N-46
 
-Related Nodes: N-46
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
 
@@ -382,8 +383,8 @@ Claim Timestamp: 00:29:04
 Claim: Throughout the debate, Andrew Wilson repeated the phrase "positive evidence" multiple times as his principal rebuttal device.
 
 Anchored Artifacts: A-2277.3
+Mentions: N-46
 
-Related Nodes: N-46
 
 Investigative Direction: Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).
 
@@ -394,8 +395,8 @@ Claim Timestamp: 00:17:24
 Claim: The discussion between Candace Owens and Andrew Wilson was moderated by Patrick Bet-David (PBD).
 
 Anchored Artifacts: A-2277, A-2277.6
+Mentions: N-46
 
-Related Nodes: N-46
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
 
@@ -406,8 +407,8 @@ Claim Timestamp: 01:06:45
 Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew Wilson and asked whether Wilson had been provided hair and makeup services, to which Wilson replied he would have refused them.
 
 Anchored Artifacts: A-2281.1
+Mentions: N-46
 
-Related Nodes: N-46
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
@@ -430,8 +431,9 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
+Mentions: N-46
 
-Related Nodes: N-1210, N-46
+Related Nodes: N-1210
 
 Investigative Direction: Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp.
 
@@ -454,8 +456,9 @@ Claim Timestamp: 00:42:35
 Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed it. The Tyler Robinson dispense defense is on absolute life support" and added the reply "Picked a hell of a week."
 
 Anchored Artifacts: A-2283.1
+Mentions: N-46
 
-Related Nodes: N-2194, N-46
+Related Nodes: N-2194
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -466,8 +469,9 @@ Claim Timestamp: 01:01:26
 Claim: An AI-generated video titled "Jars Wide Shut," depicting Erika Kirk confronting Andrew Wilson, was created by the X account @whereforbidden and circulated as a post-debate reaction.
 
 Anchored Artifacts: A-2278.1
+Mentions: N-46
 
-Related Nodes: N-1211, N-46
+Related Nodes: N-1211
 
 Investigative Direction: Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series.
 
@@ -478,8 +482,9 @@ Claim Timestamp: 01:02:50
 Claim: A five-panel "Stages of Debate Grief" meme, with each stage attributed to Andrew Wilson, was created by the X account @alpha_approved and circulated as a post-debate reaction.
 
 Anchored Artifacts: A-2279.1
+Mentions: N-46
 
-Related Nodes: N-1212, N-46
+Related Nodes: N-1212
 
 Investigative Direction: Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.
 
@@ -490,8 +495,9 @@ Claim Timestamp: 00:19:49
 Claim: During his debate opening, Andrew Wilson asserted that he possessed Charlie Kirk's cell phone.
 
 Anchored Artifacts: A-2277.1
+Mentions: N-46
 
-Related Nodes: N-2193, N-46
+Related Nodes: N-2193
 
 Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193).
 

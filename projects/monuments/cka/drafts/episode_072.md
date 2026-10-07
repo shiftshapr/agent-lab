@@ -417,8 +417,9 @@ Claim Timestamp: 00:26:41
 Claim: A USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
 
 Anchored Artifacts: A-1764.1, A-1769.1
+Mentions: N-2, N-917
 
-Related Nodes: N-2, N-917, N-1573
+Related Nodes: N-1573
 
 Investigative Direction: Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.
 
@@ -431,8 +432,9 @@ Claim Timestamp: 00:27:38
 Claim: An Epstein document performing an official name search for Lynn Forester (a/k/a Lindy Rothschild) lists her as the President of Corcoran Group Inc., with a redacted work email.
 
 Anchored Artifacts: A-1765.1, A-1769.1
+Mentions: N-916, N-917
 
-Related Nodes: N-916, N-917, N-1573
+Related Nodes: N-1573
 
 Investigative Direction: Locate the underlying Epstein document entry and verify the document identifier, page, and original source.
 
@@ -445,8 +447,9 @@ Claim Timestamp: 00:31:35
 Claim: A snapshot of Erika Kirk's New York real estate license displays a validity period ending October 24, 2020.
 
 Anchored Artifacts: A-1763.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1572
+Related Nodes: N-1572
 
 Investigative Direction: Verify license issuance and expiration dates against New York Department of State records.
 
@@ -459,8 +462,8 @@ Claim Timestamp: 00:28:47
 Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, leading to a TPUSA role, and that Charlie Kirk wanted to date her.
 
 Anchored Artifacts: A-1766.1
+Mentions: N-2, N-37, N-70
 
-Related Nodes: N-2, N-70, N-37
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
 
@@ -473,8 +476,8 @@ Claim Timestamp: 00:29:35
 Claim: Erika Kirk publicly recounted that her job interview with Charlie Kirk concluded with him stating "I'm going to date you."
 
 Anchored Artifacts: A-1767.1
+Mentions: N-2, N-70
 
-Related Nodes: N-2, N-70
 
 Investigative Direction: Identify and verify the original source of this account and confirm dating against contemporaneous communications.
 
@@ -487,8 +490,8 @@ Claim Timestamp: 00:30:20
 Claim: Erika Kirk stated on Meghan Kelly's stage that she did not date in Manhattan because she had observed the dating pool through her roommates.
 
 Anchored Artifacts: A-1767.2
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.
 
@@ -501,8 +504,8 @@ Claim Timestamp: 00:19:06
 Claim: Megyn Kelly stated on Piers Morgan's show that Charlie Kirk was starting to have serious questions about Israel, including its influence on American politicians.
 
 Anchored Artifacts: A-1768.1
+Mentions: N-1, N-3, N-75
 
-Related Nodes: N-1, N-3, N-75
 
 Investigative Direction: Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.
 
@@ -515,8 +518,8 @@ Claim Timestamp: 00:21:00
 Claim: Megyn Kelly stated on Piers Morgan's show that she and Charlie Kirk spent hours and hours discussing Israel.
 
 Anchored Artifacts: A-1768.1
+Mentions: N-1, N-75
 
-Related Nodes: N-1, N-75
 
 Investigative Direction: Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.
 
@@ -529,8 +532,8 @@ Claim Timestamp: 00:20:45
 Claim: Megyn Kelly stated on Piers Morgan's show that she was pressured to condemn Candace Owens over Israel-related questions and refused.
 
 Anchored Artifacts: A-1768.1
+Mentions: N-3, N-75
 
-Related Nodes: N-3, N-75
 
 Investigative Direction: Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.
 
@@ -543,8 +546,8 @@ Claim Timestamp: 00:20:02
 Claim: Megyn Kelly stated on Piers Morgan's show that Candace Owens had not appeared on her show in several years.
 
 Anchored Artifacts: A-1768.1
+Mentions: N-3, N-75
 
-Related Nodes: N-3, N-75
 
 Investigative Direction: Verify against Kelly's guest appearance logs.
 
@@ -557,8 +560,9 @@ Claim Timestamp: 00:26:41
 Claim: An unnamed TikToker publicly raised the question of whether Erika Kirk's employment at the Corcoran Group could serve as a vehicle to launder payments.
 
 Anchored Artifacts: A-1769.1
+Mentions: N-2, N-920
 
-Related Nodes: N-2, N-920, N-1573
+Related Nodes: N-1573
 
 Investigative Direction: Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.
 
@@ -571,8 +575,8 @@ Claim Timestamp: 00:37:32
 Claim: An individual identifying himself as "Mike" was video-recorded outside Aubrey Lich's home photographing her vehicle's license plate and the property, stating that a legal firm had asked him to do so.
 
 Anchored Artifacts: A-1771.1
+Mentions: N-903, N-919
 
-Related Nodes: N-903, N-919
 
 Investigative Direction: Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.
 
@@ -585,8 +589,8 @@ Claim Timestamp: 00:21:43
 Claim: The host explicitly concurred with Megyn Kelly's statements, characterizing them as "telling the truth" about Charlie Kirk's evolving position on Israel.
 
 Anchored Artifacts: A-1768.1
+Mentions: N-3, N-75
 
-Related Nodes: N-3, N-75
 
 Investigative Direction: Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.
 

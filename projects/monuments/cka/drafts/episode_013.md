@@ -509,8 +509,9 @@ Claim Timestamp: 00:00:49
 Claim: The episode presents that a woman was captured alongside the shooter in doorbell-camera footage from houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.
 
 Anchored Artifacts: A-1196.1
+Mentions: N-183, N-200
 
-Related Nodes: N-1218, N-183, N-200
+Related Nodes: N-1218
 
 Investigative Direction: Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.
 
@@ -523,8 +524,8 @@ Claim Timestamp: 00:03:00
 Claim: George Zinn was featured as one of approximately twenty endorsers on Phil Lyman's campaign website, with the text present on Wayback Machine no later than 2024-06-06.
 
 Anchored Artifacts: A-1197.1, A-1197.2
+Mentions: N-69, N-71
 
-Related Nodes: N-69, N-71
 
 Investigative Direction: Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.
 
@@ -537,8 +538,8 @@ Claim Timestamp: 00:01:30
 Claim: Turning Point USA did not book State Farm Stadium in advance; the White House placed a personal call to the event coordinator and obtained the date by rescheduling a previously booked RV show.
 
 Anchored Artifacts: A-1198.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Cross-check White House and TPUSA communications logs; verify the RV-show organizer account.
 
@@ -551,8 +552,9 @@ Claim Timestamp: 00:10:44
 Claim: In footage recorded by Shainer Broadick, his aunt (identified as a Lyman family member) states on camera that she wondered if "the girl" had given the shooter items and that there might have been an accomplice.
 
 Anchored Artifacts: A-1196.1
+Mentions: N-69, N-183, N-200
 
-Related Nodes: N-183, N-200, N-69, N-1218
+Related Nodes: N-1218
 
 Investigative Direction: Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.
 
@@ -565,8 +567,9 @@ Claim Timestamp: 00:04:53
 Claim: Multiple senior officials involved in the case were recent appointments at the time of the event — FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
+Mentions: N-191, N-192, N-193
 
-Related Nodes: N-191, N-192, N-193, N-1220, N-1222
+Related Nodes: N-1220, N-1222
 
 Investigative Direction: Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care.
 
@@ -593,8 +596,9 @@ Claim Timestamp: 00:06:17
 Claim: Under Utah law, autopsy reports are kept private; only the immediate family's request can compel public release.
 
 Anchored Artifacts: A-1199.4 (host source)
+Mentions: N-1
 
-Related Nodes: N-1221, N-1
+Related Nodes: N-1221
 
 Investigative Direction: Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office.
 
@@ -607,8 +611,8 @@ Claim Timestamp: 00:27:00
 Claim: Benjamin Netanyahu conducted an on-camera meeting with US influencer Deborah Lee to discuss shaping US opinion, including in the context of Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1200.1
+Mentions: N-197
 
-Related Nodes: N-197
 
 Investigative Direction: Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.
 
@@ -621,8 +625,8 @@ Claim Timestamp: 00:28:34
 Claim: In the influencer meeting, Netanyahu identified TikTok and X as the most important battlegrounds, expressed hope that the TikTok deal would go through, and described Elon Musk as a friend to be spoken with.
 
 Anchored Artifacts: A-1200.1
+Mentions: N-197, N-198
 
-Related Nodes: N-197, N-198
 
 Investigative Direction: Locate the full exchange; verify the exact statements against the unedited clip.
 
@@ -635,8 +639,8 @@ Claim Timestamp: 00:28:34
 Claim: In the meeting, Netanyahu stated, in essence, that the means of fighting must match the battlefield and identified social media as the most important battlefield of the present moment.
 
 Anchored Artifacts: A-1200.1
+Mentions: N-197
 
-Related Nodes: N-197
 
 Investigative Direction: Verify the full quote in its original-language form; identify the context (who prompted the metaphor).
 
@@ -649,8 +653,8 @@ Claim Timestamp: 00:35:01
 Claim: An X account identifying as "Florida Dab" publicly told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
 
 Anchored Artifacts: A-1201.1
+Mentions: N-195
 
-Related Nodes: N-195
 
 Investigative Direction: Archive the original post; identify the account's operator; map its network of similar accounts.
 
@@ -663,8 +667,8 @@ Claim Timestamp: 00:35:51
 Claim: Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.
 
 Anchored Artifacts: A-1202.1, A-1203.2
+Mentions: N-195, N-196, N-200
 
-Related Nodes: N-195, N-196, N-200
 
 Investigative Direction: Capture full thread context including replies not quoted on air.
 
@@ -677,8 +681,8 @@ Claim Timestamp: 00:35:51
 Claim: Constantine Kissen posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
 
 Anchored Artifacts: A-1203.1, A-1203.2
+Mentions: N-196
 
-Related Nodes: N-196
 
 Investigative Direction: Verify the post is from the same handle the host means; identify its operator and pattern of activity.
 
@@ -691,8 +695,8 @@ Claim Timestamp: 00:43:16
 Claim: A producer-supplied note identifies "Erika/Erikica Mindle" as a former IDF soldier and as TikTok's Public Policy Manager of Hate Speech since July 2025.
 
 Anchored Artifacts: A-1204.1
+Mentions: N-194
 
-Related Nodes: N-194
 
 Investigative Direction: Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.
 
@@ -719,8 +723,8 @@ Claim Timestamp: 00:46:36
 Claim: One of Tyler Robinson's defense lawyers, Michael Bert, previously represented Richard Ramirez ("the Nightstalker").
 
 Anchored Artifacts: A-1206.1
+Mentions: N-199
 
-Related Nodes: N-199
 
 Investigative Direction: Verify against state bar records and published case dockets for both Ramirez and Robinson.
 
@@ -733,8 +737,8 @@ Claim Timestamp: 00:41:41
 Claim: An attendee of the TPUSA event at Utah State University on 2025-09-30 wrote to the show characterizing the event as scripted, lacking open dialogue, and not authentic.
 
 Anchored Artifacts: A-1205.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain independent attendee statements; compare against TPUSA's published event format.
 

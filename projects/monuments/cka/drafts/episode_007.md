@@ -493,7 +493,7 @@ Claim Timestamp: 00:00:37
 Claim: Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, framing it as a Christian act of submission.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
-Related Nodes: N-2, N-1, N-71, N-130, N-133, N-66, N-134
+Mentions: N-1, N-2, N-66, N-71, N-130, N-133, N-134
 Investigative Direction: Verify the full text/transcript of Erika's speech against published recording.
 
 ---
@@ -504,7 +504,8 @@ Claim Timestamp: 00:09:45
 Claim: TPUSA spokesperson Andrew Kolvet publicly stated the absence of an exit wound was likely a miracle after speaking with the surgeon.
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Anchored Artifacts: A-1135.1
-Related Nodes: N-42, N-1000, N-1151
+Mentions: N-42
+Related Nodes: N-1000, N-1151
 Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.
 
 ---
@@ -515,7 +516,8 @@ Claim Timestamp: 00:10:25
 Claim: The hospital surgeon told Kolvet the bullet should have passed through Charlie's neck given its caliber and velocity.
 Transcript Snippet: He said the bullet quote absolutely should have gone through.
 Anchored Artifacts: A-1135.1
-Related Nodes: N-42, N-1151
+Mentions: N-42
+Related Nodes: N-1151
 Investigative Direction: Identify the surgeon and request confirmation; review any hospital records.
 
 ---
@@ -526,7 +528,8 @@ Claim Timestamp: 00:14:32
 Claim: Alex Jones publicly disputed the miracle/exit-wound statement on X Live, citing typical 30-06 ballistics.
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Anchored Artifacts: A-1136.1
-Related Nodes: N-128, N-1151
+Mentions: N-128
+Related Nodes: N-1151
 Investigative Direction: Archive the original X Live broadcast.
 
 ---
@@ -537,7 +540,8 @@ Claim Timestamp: 00:17:14
 Claim: FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including alleged accomplices.
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Anchored Artifacts: A-1137.1
-Related Nodes: N-102, N-1079
+Mentions: N-102
+Related Nodes: N-1079
 Investigative Direction: Retrieve the original Patel tweet and archive; cross-reference FBI press releases.
 
 Tags: open_source_investigation
@@ -549,7 +553,8 @@ Claim Timestamp: 00:18:55
 Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost signal; plane owner Derek Maxfield states ATC permission was granted to disable services.
 Transcript Snippet: It can't be both. Can't be.
 Anchored Artifacts: A-1137.1, A-1138.1
-Related Nodes: N-102, N-129, N-1079, N-1150, N-1152
+Mentions: N-102, N-129
+Related Nodes: N-1079, N-1150, N-1152
 Confidence: medium
 Uncertainty: Both sides cited via on-screen/read-aloud artifacts.
 Investigative Direction: Obtain FAA radar logs and ATC recordings for the relevant flight.
@@ -584,7 +589,8 @@ Claim Timestamp: 00:31:11
 Claim: Laura Loomer publicly reported Candace Owens to the CIA via X, alleging the Candace Intelligence Agency merch violated federal law.
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Anchored Artifacts: A-1140.1
-Related Nodes: N-91, N-3, N-1148, N-1154
+Mentions: N-3, N-91
+Related Nodes: N-1148, N-1154
 Investigative Direction: Archive the original Loomer tweet; check whether any formal CIA complaint was filed.
 
 ---
@@ -595,7 +601,8 @@ Claim Timestamp: 00:34:44
 Claim: An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Anchored Artifacts: A-1141.1, A-1141.2
-Related Nodes: N-132, N-1, N-3, N-1155
+Mentions: N-1, N-3, N-132
+Related Nodes: N-1155
 Investigative Direction: Verify the actual date of the messages via metadata or forensic analysis of screenshots.
 
 Tags: open_source_investigation
@@ -607,7 +614,8 @@ Claim Timestamp: 00:36:37
 Claim: Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.
 Transcript Snippet: It's from 2023. He then writes 'It doesn't come natural to her...'
 Anchored Artifacts: A-1141.1, A-1141.2
-Related Nodes: N-1, N-3, N-1155
+Mentions: N-1, N-3
+Related Nodes: N-1155
 Investigative Direction: Cross-reference the content with public 2023 events; obtain metadata from screenshots.
 
 Tags: open_source_investigation
@@ -619,7 +627,7 @@ Claim Timestamp: 00:37:31
 Claim: After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.
 Transcript Snippet: I was being inundated. Charlie was being inundated.
 Anchored Artifacts: A-1142.1, A-1142.2
-Related Nodes: N-3, N-61
+Mentions: N-3, N-61
 Investigative Direction: Archive original tweet and Rubin reply; identify any coordinated pressure campaign participants.
 
 ---
@@ -630,7 +638,8 @@ Claim Timestamp: 00:45:14
 Claim: Charlie Kirk publicly stated that labeling everyone who didn't take a puritanical view of Netanyahu an antisemite was destructive.
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
-Related Nodes: N-1149, N-65
+Mentions: N-65
+Related Nodes: N-1149
 Investigative Direction: Verify the full town hall recording.
 
 ---
@@ -652,7 +661,7 @@ Claim Timestamp: 00:52:47
 Claim: Tucker Carlson publicly stated at the memorial that Charlie Kirk's core mission was gospel repentance, not politics.
 Transcript Snippet: Christianity calls upon you to change. Our core prayer...forgive us our sins.
 Anchored Artifacts: A-1144.1
-Related Nodes: N-50, N-1
+Mentions: N-1, N-50
 Investigative Direction: Obtain the full Carlson memorial speech transcript.
 
 ---
@@ -663,7 +672,8 @@ Claim Timestamp: 01:07:06
 Claim: A viewer reports that authorities claimed a screwdriver was found on the roof, but that tool is not used to disassemble that model of rifle.
 Transcript Snippet: You don't use a screwdriver to take that rifle apart.
 Anchored Artifacts: A-1145.1
-Related Nodes: N-69, N-1156
+Mentions: N-69
+Related Nodes: N-1156
 Investigative Direction: Identify the rifle model and required disassembly tools; locate official inventory of recovered items.
 
 ---
@@ -674,7 +684,8 @@ Claim Timestamp: 01:07:52
 Claim: A viewer reports persistent unease about Dr. Frank Turk following his memorial speech, citing possible guilt over inaction.
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 Anchored Artifacts: A-1145.2
-Related Nodes: N-16, N-1157
+Mentions: N-16
+Related Nodes: N-1157
 Investigative Direction: Obtain the full Frank Turk memorial speech and biographical background.
 
 ---

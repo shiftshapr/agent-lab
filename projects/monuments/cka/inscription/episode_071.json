@@ -688,12 +688,13 @@
       "anchored_artifacts": [
         "A-1750.1"
       ],
-      "related_nodes": [
-        "N-910"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:06",
-      "investigative_direction": "Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures."
+      "investigative_direction": "Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures.",
+      "mentions_person_refs": [
+        "N-910"
+      ]
     },
     {
       "@type": "Claim",
@@ -705,12 +706,14 @@
         "A-1751.1"
       ],
       "related_nodes": [
-        "N-910",
         "N-1570"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37–00:09:39",
-      "investigative_direction": "Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data."
+      "investigative_direction": "Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data.",
+      "mentions_person_refs": [
+        "N-910"
+      ]
     },
     {
       "@type": "Claim",
@@ -722,12 +725,14 @@
         "A-1751.1"
       ],
       "related_nodes": [
-        "N-910",
         "N-1570"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37–00:09:39",
-      "investigative_direction": "Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube."
+      "investigative_direction": "Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube.",
+      "mentions_person_refs": [
+        "N-910"
+      ]
     },
     {
       "@type": "Claim",
@@ -739,12 +744,14 @@
         "A-1751.1"
       ],
       "related_nodes": [
-        "N-910",
         "N-1570"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37–00:09:39",
-      "investigative_direction": "Verify the 20M aggregate figure against partner broadcaster analytics if/when released."
+      "investigative_direction": "Verify the 20M aggregate figure against partner broadcaster analytics if/when released.",
+      "mentions_person_refs": [
+        "N-910"
+      ]
     },
     {
       "@type": "Claim",
@@ -803,12 +810,13 @@
       "anchored_artifacts": [
         "A-1754.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:10",
-      "investigative_direction": "Verify current YouTube view and comment counts on the Charlie Kirk channel."
+      "investigative_direction": "Verify current YouTube view and comment counts on the Charlie Kirk channel.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -819,12 +827,13 @@
       "anchored_artifacts": [
         "A-1755.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:12",
-      "investigative_direction": "Verify current YouTube view and comment counts on Candace Owens' channel."
+      "investigative_direction": "Verify current YouTube view and comment counts on Candace Owens' channel.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -852,12 +861,14 @@
         "A-1757.1"
       ],
       "related_nodes": [
-        "N-907",
         "N-1568"
       ],
       "tags": [],
       "claim_timestamp": "00:20:59",
-      "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories."
+      "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.",
+      "mentions_person_refs": [
+        "N-907"
+      ]
     },
     {
       "@type": "Claim",
@@ -869,12 +880,14 @@
         "A-1757.2"
       ],
       "related_nodes": [
-        "N-907",
         "N-1568"
       ],
       "tags": [],
       "claim_timestamp": "00:22:02",
-      "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records."
+      "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records.",
+      "mentions_person_refs": [
+        "N-907"
+      ]
     },
     {
       "@type": "Claim",
@@ -886,12 +899,14 @@
         "A-1758.1"
       ],
       "related_nodes": [
-        "N-907",
         "N-1568"
       ],
       "tags": [],
       "claim_timestamp": "00:22:02–00:24:12",
-      "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure."
+      "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.",
+      "mentions_person_refs": [
+        "N-907"
+      ]
     },
     {
       "@type": "Claim",
@@ -903,12 +918,14 @@
         "A-1758.1"
       ],
       "related_nodes": [
-        "N-907",
         "N-1568"
       ],
       "tags": [],
       "claim_timestamp": "00:22:02–00:24:12",
-      "investigative_direction": "Obtain full text and verify direct quote attribution."
+      "investigative_direction": "Obtain full text and verify direct quote attribution.",
+      "mentions_person_refs": [
+        "N-907"
+      ]
     },
     {
       "@type": "Claim",
@@ -920,14 +937,16 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-890",
-        "N-908",
-        "N-1569",
-        "N-2"
+        "N-1569"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
-      "investigative_direction": "Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses."
+      "investigative_direction": "Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-890",
+        "N-908"
+      ]
     },
     {
       "@type": "Claim",
@@ -939,13 +958,15 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-890",
-        "N-908",
         "N-1569"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
-      "investigative_direction": "Authenticate text messages; cross-reference with daughter's subsequent statements or activities."
+      "investigative_direction": "Authenticate text messages; cross-reference with daughter's subsequent statements or activities.",
+      "mentions_person_refs": [
+        "N-890",
+        "N-908"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,12 +978,14 @@
         "A-1760.1"
       ],
       "related_nodes": [
-        "N-909",
         "N-1571"
       ],
       "tags": [],
       "claim_timestamp": "00:30:34–00:40:02",
-      "investigative_direction": "Obtain official hearing transcript or recording."
+      "investigative_direction": "Obtain official hearing transcript or recording.",
+      "mentions_person_refs": [
+        "N-909"
+      ]
     },
     {
       "@type": "Claim",
@@ -1006,12 +1029,14 @@
         "A-1760.1"
       ],
       "related_nodes": [
-        "N-1571",
-        "N-1"
+        "N-1571"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:06",
-      "investigative_direction": "Cross-reference with Charlie Kirk's own public statements about the Hamptons meeting."
+      "investigative_direction": "Cross-reference with Charlie Kirk's own public statements about the Hamptons meeting.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1023,12 +1048,14 @@
         "A-1760.2"
       ],
       "related_nodes": [
-        "N-909",
         "N-1571"
       ],
       "tags": [],
       "claim_timestamp": "00:31:24–00:32:50",
-      "investigative_direction": "Obtain full hearing transcript."
+      "investigative_direction": "Obtain full hearing transcript.",
+      "mentions_person_refs": [
+        "N-909"
+      ]
     },
     {
       "@type": "Claim",
@@ -1040,12 +1067,14 @@
         "A-1761.1"
       ],
       "related_nodes": [
-        "N-1570",
-        "N-37"
+        "N-1570"
       ],
       "tags": [],
       "claim_timestamp": "00:17:44",
-      "investigative_direction": "Archive the original tweet and any associated image; verify whether it remains public."
+      "investigative_direction": "Archive the original tweet and any associated image; verify whether it remains public.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -1056,13 +1085,14 @@
       "anchored_artifacts": [
         "A-1762.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:33–00:50:47",
-      "investigative_direction": "Locate the referenced clip of Erika Kirk speaking to Megan Kelly."
+      "investigative_direction": "Locate the referenced clip of Erika Kirk speaking to Megan Kelly.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1073,12 +1103,13 @@
       "anchored_artifacts": [
         "A-1762.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:33–00:50:47",
-      "investigative_direction": "Verify any actual book project matching this description."
+      "investigative_direction": "Verify any actual book project matching this description.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1089,12 +1120,13 @@
       "anchored_artifacts": [
         "A-1762.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:45:37",
-      "investigative_direction": "Verify through any other public statements from Charlie Kirk's parents or family representatives."
+      "investigative_direction": "Verify through any other public statements from Charlie Kirk's parents or family representatives.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []
