@@ -9,10 +9,13 @@ from neo4j_ingest import (
     parse_id_list,
     extract_claims,
     extract_artifacts,
+    extract_nodes,
     extract_org_relationship_lines,
     extract_topic_mention_lines,
+    planned_epistemic_edges,
     resolve_draft_graph_node_id,
     resolve_related_graph_node_ids,
+    uri_looks_like_prod,
 )
 
 
@@ -106,6 +109,58 @@ TopicMention: C-100 N-1000
     assert fuzzy_duplicate_distance("Tony Erpenbeck", "Donna Erpenbeck") is None
     assert fuzzy_duplicate_distance("Gary Erpenbeck", "Donna Erpenbeck") is None
     assert fuzzy_duplicate_distance("Tyler Bowyer", "Tyler Boyer") is not None
+
+    # Connected: on person nodes
+    nmd = """
+## 4. Node Register
+**N-10** Alice Example
+Node Type: Person
+Connected: N-2000
+Description: host figure
+**N-2000** Example Org
+Node Type: Organization
+Description: org
+""".strip()
+    nodes = extract_nodes(nmd, 1)
+    by_id = {n["id"]: n for n in nodes}
+    assert by_id["N-10"]["connected_orgs"] == ["N-2000"]
+
+    # Phase C edge planner from parsed fields
+    episode = {
+        "episode_num": 1,
+        "artifacts": [
+            {"id": "A-10.1", "captured_at_places": ["N-1200"]},
+        ],
+        "nodes": [
+            {"id": "N-10", "connected_orgs": ["N-2000"]},
+        ],
+        "claims": [
+            {
+                "id": "C-100",
+                "anchored_artifacts": ["A-10.1"],
+                "revises_claims": ["C-90"],
+                "contradicts_claims": ["C-101"],
+                "supports_claims": ["C-99"],
+                "qualifies_claims": ["C-102"],
+                "mentions_persons": ["N-1"],
+            }
+        ],
+    }
+    edges = planned_epistemic_edges(episode)
+    rels = {(e["rel"], e["from_id"], e["to_id"]) for e in edges}
+    assert ("APPEARS_IN", "A-10.1", "Episode:1") in rels
+    assert ("CAPTURED_AT", "A-10.1", "N-1200") in rels
+    assert ("CONNECTED_TO", "N-10", "N-2000") in rels
+    assert ("ASSERTS", "Episode:1", "C-100") in rels
+    assert ("SUPPORTED_BY", "C-100", "A-10.1") in rels
+    assert ("REVISES", "C-100", "C-90") in rels
+    assert ("CONTRADICTS", "C-100", "C-101") in rels
+    assert ("SUPPORTS", "C-100", "C-99") in rels
+    assert ("QUALIFIES", "C-100", "C-102") in rels
+    assert ("MENTIONS", "C-100", "N-1") in rels
+
+    assert uri_looks_like_prod("bolt://127.0.0.1:17687")
+    assert not uri_looks_like_prod("bolt://127.0.0.1:27687")
 
     print("OK  neo4j_ingest parse tests passed.")
 

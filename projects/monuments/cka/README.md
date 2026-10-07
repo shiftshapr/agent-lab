@@ -44,7 +44,7 @@ Investigation-adjacent tags for extractors (see `config/claim_lenses.json`). Ful
 
 Claims are **immutable**. Walk-backs and corrections mint a new C-id with `Revises:` (newer → older); explicit oppose also uses `Contradicts:`. Typed draft splits: `Mentions:` (persons), `Connected:` (person→org), `CapturedAt:` (artifact→place). Port BoC `Supports:` / `Qualifies:` as well.
 
-Extractor checklist and Appendix B claim shape: [`docs/EPISTEMIC_GRAPH.md`](docs/EPISTEMIC_GRAPH.md). Preflight gate: `claim_fork` in `projects/monuments/DIA_PREFLIGHT.md`. Phase B backfill and Phase C Neo4j mapping wait on separate unlocks.
+Extractor checklist and Appendix B claim shape: [`docs/EPISTEMIC_GRAPH.md`](docs/EPISTEMIC_GRAPH.md). Preflight gate: `claim_fork` in `projects/monuments/DIA_PREFLIGHT.md`. Phase B backfill is on main. Phase C Neo4j edge ingest mapping: see docs/EPISTEMIC_GRAPH.md (staging smoke on 27687 only).
 
 ## QA
 

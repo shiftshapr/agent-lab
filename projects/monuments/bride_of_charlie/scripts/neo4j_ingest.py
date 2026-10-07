@@ -5,18 +5,21 @@ Parses markdown episode files and loads the investigative graph into Neo4j.
 Node labels: Person, Topic, Organization, Place, InvestigationTarget (legacy),
 LegalMatter, Meme.
 
-Claim graph: CONTRADICTS, SUPPORTS, QUALIFIES; SUPPORTED_BY from claims with
-Sensitive Tags to each anchored artifact. Legal matters, org–org links, roles,
-SAME_AS, provenance (CITES_SOURCE, DERIVED_FROM, RECORDING_OF), MENTIONS_TOPIC,
-meme links (INVOKES_MEME, TARGETS_NODE).
+Claim graph: CONTRADICTS, SUPPORTS, QUALIFIES, REVISES; SUPPORTED_BY from
+Anchored Artifacts (and Sensitive Tags path); Episode ASSERTS Claim (FROM_EPISODE
+kept as alias); Claim MENTIONS Person; Person CONNECTED_TO Org; Artifact
+CAPTURED_AT Place; Artifact APPEARS_IN Episode. Legal matters, org-org links,
+roles, SAME_AS, provenance (CITES_SOURCE, DERIVED_FROM, RECORDING_OF),
+MENTIONS_TOPIC, meme links (INVOKES_MEME, TARGETS_NODE).
 
 Usage:
-    python scripts/neo4j_ingest.py [--drafts-dir drafts/] [--force]
+    python scripts/neo4j_ingest.py [--monument cka|bride_of_charlie] [--drafts-dir DIR] [--force]
 
 Environment:
-    NEO4J_URI (default: bolt://127.0.0.1:17687 — agent-lab docker-compose host port)
+    NEO4J_URI (default: bolt://127.0.0.1:17687 for BoC; prefer bolt://127.0.0.1:27687 staging for CKA)
     NEO4J_USER (default: neo4j)
     NEO4J_PASSWORD (default: openclaw)
+    Writes to prod host port 17687 are refused unless --allow-prod-write is set.
     NEO4J_INGEST_STRICT_CLAIMS (default: 1) — skip placeholder / malformed claims
     NEO4J_INGEST_UNSUBSTANTIATED_CLAIMS (default: 1) — with strict on, ingest claims with no A-* anchor
         when they have ≥1 resolved Related Node (INVOLVES) and/or a TopicMention line to a
@@ -57,10 +60,18 @@ except ImportError:
 
 PROJECT_ROOT = Path(__file__).parent.parent
 DRAFTS_DIR = PROJECT_ROOT / "drafts"
+MONUMENTS_ROOT = Path(__file__).resolve().parents[2]
+MONUMENT_DRAFTS = {
+    "bride_of_charlie": MONUMENTS_ROOT / "bride_of_charlie" / "drafts",
+    "boc": MONUMENTS_ROOT / "bride_of_charlie" / "drafts",
+    "cka": MONUMENTS_ROOT / "cka" / "drafts",
+}
 
 NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
+PROD_BOLT_PORT = "17687"
+STAGING_BOLT_PORT = "27687"
 
 # ---------------------------------------------------------------------------
 # Regex patterns for parsing markdown
@@ -791,6 +802,138 @@ def create_constraints(tx):
             pass
 
 
+
+def uri_looks_like_prod(uri: str) -> bool:
+    """True when URI targets the agent-lab prod Bolt host port (17687)."""
+    u = (uri or "").strip().lower()
+    return f":{PROD_BOLT_PORT}" in u or u.endswith(f"/{PROD_BOLT_PORT}")
+
+
+def planned_epistemic_edges(episode_data: dict[str, Any]) -> list[dict[str, str]]:
+    """Pure planner: Phase C typed edges from parsed episode fields (no Neo4j).
+
+    Each dict has keys: rel, from_id, to_id (and optional from_kind / to_kind hints).
+    Used by unit tests and mirrors what ingest_episode MERGEs.
+    """
+    ep = str(episode_data.get("episode_num"))
+    edges: list[dict[str, str]] = []
+
+    for artifact in episode_data.get("artifacts") or []:
+        aid = artifact.get("id")
+        if not aid:
+            continue
+        edges.append(
+            {
+                "rel": "APPEARS_IN",
+                "from_id": aid,
+                "to_id": f"Episode:{ep}",
+                "from_kind": "Artifact",
+                "to_kind": "Episode",
+            }
+        )
+        for place_id in artifact.get("captured_at_places") or []:
+            edges.append(
+                {
+                    "rel": "CAPTURED_AT",
+                    "from_id": aid,
+                    "to_id": place_id,
+                    "from_kind": "Artifact",
+                    "to_kind": "Place",
+                }
+            )
+
+    for node in episode_data.get("nodes") or []:
+        nid = node.get("id")
+        if not nid:
+            continue
+        for org_id in node.get("connected_orgs") or []:
+            edges.append(
+                {
+                    "rel": "CONNECTED_TO",
+                    "from_id": nid,
+                    "to_id": org_id,
+                    "from_kind": "Person",
+                    "to_kind": "Organization",
+                }
+            )
+
+    for claim in episode_data.get("claims") or []:
+        cid = claim.get("id")
+        if not cid:
+            continue
+        edges.append(
+            {
+                "rel": "ASSERTS",
+                "from_id": f"Episode:{ep}",
+                "to_id": cid,
+                "from_kind": "Episode",
+                "to_kind": "Claim",
+            }
+        )
+        for aid in claim.get("anchored_artifacts") or []:
+            edges.append(
+                {
+                    "rel": "SUPPORTED_BY",
+                    "from_id": cid,
+                    "to_id": aid,
+                    "from_kind": "Claim",
+                    "to_kind": "Artifact",
+                }
+            )
+        for other in claim.get("revises_claims") or []:
+            edges.append(
+                {
+                    "rel": "REVISES",
+                    "from_id": cid,
+                    "to_id": other,
+                    "from_kind": "Claim",
+                    "to_kind": "Claim",
+                }
+            )
+        for other in claim.get("contradicts_claims") or []:
+            edges.append(
+                {
+                    "rel": "CONTRADICTS",
+                    "from_id": cid,
+                    "to_id": other,
+                    "from_kind": "Claim",
+                    "to_kind": "Claim",
+                }
+            )
+        for other in claim.get("supports_claims") or []:
+            edges.append(
+                {
+                    "rel": "SUPPORTS",
+                    "from_id": cid,
+                    "to_id": other,
+                    "from_kind": "Claim",
+                    "to_kind": "Claim",
+                }
+            )
+        for other in claim.get("qualifies_claims") or []:
+            edges.append(
+                {
+                    "rel": "QUALIFIES",
+                    "from_id": cid,
+                    "to_id": other,
+                    "from_kind": "Claim",
+                    "to_kind": "Claim",
+                }
+            )
+        for pid in claim.get("mentions_persons") or []:
+            edges.append(
+                {
+                    "rel": "MENTIONS",
+                    "from_id": cid,
+                    "to_id": pid,
+                    "from_kind": "Claim",
+                    "to_kind": "Person",
+                }
+            )
+
+    return edges
+
+
 def ingest_episode(
     driver,
     episode_data: dict[str, Any],
@@ -836,11 +979,12 @@ def ingest_episode(
             related_ids = artifact.get("related_ids", [])
             family_id = artifact["family_id"]
             
-            # Props for Neo4j (no nulls; omit structural keys)
+            # Props for Neo4j (no nulls; omit structural / edge-source keys)
             props = {
                 k: v
                 for k, v in artifact.items()
-                if k not in ("related_ids", "family_id") and v is not None
+                if k not in ("related_ids", "family_id", "captured_at_places")
+                and v is not None
             }
             
             session.run(
@@ -852,6 +996,13 @@ def ingest_episode(
                 id=artifact["id"],
                 props=props,
                 family_id=family_id,
+            )
+            # Design §2: Artifact -[:APPEARS_IN]-> Episode
+            session.run(
+                "MATCH (a:Artifact {id: $aid}), (e:Episode {episode_num: $ep}) "
+                "MERGE (a)-[:APPEARS_IN]->(e)",
+                aid=artifact["id"],
+                ep=episode_num,
             )
         
         # Ingest nodes (Person, Topic, Organization, Place, legacy InvestigationTarget)
@@ -910,6 +1061,7 @@ def ingest_episode(
                     "episode_num",
                     "declared_aliases",
                     "name",
+                    "connected_orgs",
                 )
                 and v is not None
             }
@@ -932,6 +1084,31 @@ def ingest_episode(
                 episode_num=episode_num_node,
             )
             draft_node_id_to_graph_id[node_id] = node_id
+
+        # Design §2: Person -[:CONNECTED_TO]-> Org from Connected: / connected_orgs
+        for node in episode_data["nodes"]:
+            for org_id in node.get("connected_orgs") or []:
+                pid = resolve_draft_graph_node_id(node["id"], draft_node_id_to_graph_id)
+                oid = resolve_draft_graph_node_id(org_id, draft_node_id_to_graph_id)
+                session.run(
+                    "MATCH (p:Person {id: $pid}), (o {id: $oid}) "
+                    "WHERE o:Organization OR o:InvestigationTarget OR o:Topic "
+                    "MERGE (p)-[:CONNECTED_TO]->(o)",
+                    pid=pid,
+                    oid=oid,
+                )
+
+        # Design §2: Artifact -[:CAPTURED_AT]-> Place (after node id map is ready)
+        for artifact in episode_data["artifacts"]:
+            for place_id in artifact.get("captured_at_places") or []:
+                gplace = resolve_draft_graph_node_id(place_id, draft_node_id_to_graph_id)
+                session.run(
+                    "MATCH (a:Artifact {id: $aid}), (p {id: $pid}) "
+                    "WHERE p:Place OR p:Topic OR p:InvestigationTarget "
+                    "MERGE (a)-[:CAPTURED_AT]->(p)",
+                    aid=artifact["id"],
+                    pid=gplace,
+                )
 
         # Legal matter clusters (artifacts + parties + places)
         for lm in episode_data.get("legal_matters") or []:
@@ -1016,12 +1193,20 @@ def ingest_episode(
             label = claim.get("label")
             anchored_raw = list(claim.get("anchored_artifacts") or [])
             related_raw = list(claim.get("related_nodes") or [])
+            mentions_raw = list(claim.get("mentions_persons") or [])
             resolved_artifacts = [a for a in anchored_raw if a in artifact_id_set]
             resolved_nodes = resolve_related_graph_node_ids(
                 related_raw, draft_node_id_to_graph_id, graph_node_id_set
             )
+            resolved_mentions = resolve_related_graph_node_ids(
+                mentions_raw, draft_node_id_to_graph_id, graph_node_id_set
+            )
             resolved_topic_targets = topic_mention_targets_resolved(claim["id"])
-            has_entity_connectivity = bool(resolved_nodes) or bool(resolved_topic_targets)
+            has_entity_connectivity = (
+                bool(resolved_nodes)
+                or bool(resolved_mentions)
+                or bool(resolved_topic_targets)
+            )
 
             substantiated: bool
             use_artifacts: list[str]
@@ -1034,9 +1219,11 @@ def ingest_episode(
                     )
                     continue
                 if resolved_artifacts:
-                    if not resolved_nodes:
+                    if not resolved_nodes and not resolved_mentions:
                         merge_log.append(
-                            f"  SKIP claim {claim['id']} (no graph entity node in DB for {related_raw!r})"
+                            f"  SKIP claim {claim['id']} "
+                            f"(no graph entity node in DB for related={related_raw!r} "
+                            f"mentions={mentions_raw!r})"
                         )
                         continue
                     substantiated = True
@@ -1088,6 +1275,7 @@ def ingest_episode(
             contradicts = claim.get("contradicts_claims") or []
             supports = claim.get("supports_claims") or []
             qualifies = claim.get("qualifies_claims") or []
+            revises = claim.get("revises_claims") or []
             sens_tags = claim.get("sensitive_topic_tags") or []
 
             # Strip relationship keys and list fields not stored as Neo4j props
@@ -1101,12 +1289,15 @@ def ingest_episode(
                     "contradicts_claims",
                     "supports_claims",
                     "qualifies_claims",
+                    "revises_claims",
+                    "mentions_persons",
                     "sensitive_topic_tags",
                 )
                 and v is not None
             }
             props["anchored_artifact_ids"] = ",".join(resolved_artifacts)
             props["related_node_ids"] = ",".join(use_nodes)
+            props["mentions_person_ids"] = ",".join(resolved_mentions)
             props["substantiated"] = substantiated
             if sens_tags:
                 props["sensitive_topic_tags"] = ",".join(sens_tags)
@@ -1116,7 +1307,8 @@ def ingest_episode(
                 "SET c += $props "
                 "WITH c "
                 "MATCH (e:Episode {episode_num: $episode_num}) "
-                "MERGE (c)-[:FROM_EPISODE]->(e)",
+                "MERGE (c)-[:FROM_EPISODE]->(e) "
+                "MERGE (e)-[:ASSERTS]->(c)",
                 id=claim["id"],
                 props=props,
                 episode_num=claim["episode_num"],
@@ -1163,14 +1355,31 @@ def ingest_episode(
                     from_id=claim["id"],
                     to_id=other_id,
                 )
-            if sens_tags:
-                for artifact_id in use_artifacts:
-                    session.run(
-                        "MATCH (c:Claim {id: $cid}), (a:Artifact {id: $aid}) "
-                        "MERGE (c)-[:SUPPORTED_BY]->(a)",
-                        cid=claim["id"],
-                        aid=artifact_id,
-                    )
+            # Design §2: Anchored Artifacts → SUPPORTED_BY (CKA + BoC; sensitive path included)
+            for artifact_id in use_artifacts:
+                session.run(
+                    "MATCH (c:Claim {id: $cid}), (a:Artifact {id: $aid}) "
+                    "MERGE (c)-[:SUPPORTED_BY]->(a)",
+                    cid=claim["id"],
+                    aid=artifact_id,
+                )
+
+            for other_id in revises:
+                session.run(
+                    "MATCH (c1:Claim {id: $from_id}), (c2:Claim {id: $to_id}) "
+                    "MERGE (c1)-[:REVISES]->(c2)",
+                    from_id=claim["id"],
+                    to_id=other_id,
+                )
+
+            # Claim -[:MENTIONS]-> Person (distinct from MENTIONS_TOPIC)
+            for person_id in resolved_mentions:
+                session.run(
+                    "MATCH (c:Claim {id: $cid}), (p:Person {id: $pid}) "
+                    "MERGE (c)-[:MENTIONS]->(p)",
+                    cid=claim["id"],
+                    pid=person_id,
+                )
 
         # Meme nodes (from Meme Register headers)
         for mn in episode_data.get("meme_nodes") or []:
@@ -1332,32 +1541,70 @@ def ingest_episode(
 def main():
     import argparse
     
-    parser = argparse.ArgumentParser(description="Ingest Bride of Charlie episode drafts into Neo4j")
-    parser.add_argument("--drafts-dir", type=Path, default=DRAFTS_DIR, help="Directory containing episode draft markdown files")
+    parser = argparse.ArgumentParser(
+        description="Ingest monument episode drafts into Neo4j (BoC shared parser; CKA via --monument cka)"
+    )
+    parser.add_argument(
+        "--monument",
+        choices=sorted(MONUMENT_DRAFTS.keys()),
+        default=None,
+        help="Monument slug; sets default --drafts-dir (cka | bride_of_charlie | boc)",
+    )
+    parser.add_argument(
+        "--drafts-dir",
+        type=Path,
+        default=None,
+        help="Directory containing episode draft markdown files",
+    )
     parser.add_argument("--force", action="store_true", help="Clear existing graph before ingesting")
     parser.add_argument("--no-fuzzy-match", action="store_true", help="Disable fuzzy name matching (exact matches only)")
+    parser.add_argument(
+        "--allow-prod-write",
+        action="store_true",
+        help=argparse.SUPPRESS,  # undocumented; agents must not use prod 17687 writes
+    )
     args = parser.parse_args()
     
     fuzzy_match = not args.no_fuzzy_match
-    
-    drafts_dir = args.drafts_dir
+
+    if args.drafts_dir is not None:
+        drafts_dir = args.drafts_dir
+    elif args.monument:
+        drafts_dir = MONUMENT_DRAFTS[args.monument]
+    else:
+        drafts_dir = DRAFTS_DIR
+
     if not drafts_dir.exists():
         print(f"ERROR: Drafts directory not found: {drafts_dir}")
         sys.exit(1)
+
+    uri = NEO4J_URI
+    if uri_looks_like_prod(uri) and not args.allow_prod_write:
+        print(
+            f"ERROR: Refusing write to prod Neo4j URI {uri!r} (host port {PROD_BOLT_PORT}). "
+            f"Set NEO4J_URI=bolt://127.0.0.1:{STAGING_BOLT_PORT} for staging, "
+            "or pass --allow-prod-write only under explicit human unlock."
+        )
+        sys.exit(2)
     
     # Find episode files (exclude cross_episode_analysis)
     episode_files = sorted([f for f in drafts_dir.glob("episode_*.md")])
     if not episode_files:
         print(f"ERROR: No episode_*.md files found in {drafts_dir}")
         sys.exit(1)
-    
-    print(f"[neo4j-ingest] Connecting to {NEO4J_URI}...")
+
+    monument_label = args.monument or ("cka" if "cka" in str(drafts_dir) else "bride_of_charlie")
+    print(f"[neo4j-ingest] monument={monument_label} drafts_dir={drafts_dir}")
+    print(f"[neo4j-ingest] Connecting to {uri}...")
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+        driver = GraphDatabase.driver(uri, auth=(NEO4J_USER, NEO4J_PASSWORD))
         driver.verify_connectivity()
     except Exception as e:
         print(f"ERROR: Could not connect to Neo4j: {e}")
-        print("Make sure Neo4j is running: docker compose up -d")
+        print(
+            f"Staging expected at bolt://127.0.0.1:{STAGING_BOLT_PORT}. "
+            "Do not start openclaw-neo4j / bare 7687 as a substitute."
+        )
         sys.exit(1)
     
     if args.force:

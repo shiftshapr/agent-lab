@@ -1,6 +1,6 @@
-# CKA epistemic graph (Phase A + Phase B)
+# CKA epistemic graph (Phase A + B + C)
 
-**Status:** Draft syntax + preflight + schema (Phase A) and modern-draft typed-edge backfill (Phase B) are implemented. Neo4j ingest mapping remains Phase C (locked). No Neo4j write, pack, or BoC promo from this track.
+**Status:** Draft syntax + preflight + schema (Phase A), modern-draft typed-edge backfill (Phase B), and Neo4j ingest mapping (Phase C) are implemented. Staging smoke harness is ready; run against bolt://127.0.0.1:27687 only. No prod write, no inscription pack, no BoC promo from this track.
 
 **Principle (Daveed lock 2026-10-06):** Preserve disagreement better than conclusions. A claim is a temporal object: what was aired, at which stamp, with which artifacts. Never mutate or delete a minted claim. Monument = memory in motion.
 
@@ -35,19 +35,23 @@ Related Nodes: N-….   # non-person leftovers until further typing
 Investigative Direction: …
 ```
 
-## Draft lines → parser fields
+## Draft lines → parser fields → Neo4j edges (Phase C)
 
-| Draft line | Parser / inscription field | Notes |
-|------------|----------------------------|-------|
-| `Revises: C-…` | `revises_claim_refs` | **New.** Newer claim revises older. |
-| `Contradicts: C-…` | `contradicts_claim_refs` | Port from BoC; mint when airing explicitly opposes. |
-| `Supports: C-…` | `supports_claim_refs` | Port from BoC; host reinforces prior without replacing. |
-| `Qualifies: C-…` | `qualifies_claim_refs` | Port from BoC; host narrows prior. |
-| `Mentions: N-…` | `mentions_person_refs` | Thin typed split of Related (person band). |
-| `Connected: N-…` | `connected_org_refs` | On Person node blocks; org link when known. |
-| `CapturedAt: N-…` | `captured_at_place_refs` | On artifact sub-items; concrete locus only. |
+| Draft line | Parser / inscription field | Neo4j edge |
+|------------|----------------------------|------------|
+| Claim Register membership | claim in episode | `Episode -[:ASSERTS]-> Claim` (keeps `Claim -[:FROM_EPISODE]-> Episode` as alias) |
+| `Anchored Artifacts: A-…` | `anchored_artifacts` | `Claim -[:SUPPORTED_BY]-> Artifact` (+ existing `Artifact -[:ANCHORS]-> Claim`) |
+| `Revises: C-…` | `revises_claim_refs` / `revises_claims` | `Claim -[:REVISES]-> Claim` (newer → older) |
+| `Contradicts: C-…` | `contradicts_claim_refs` / `contradicts_claims` | `Claim -[:CONTRADICTS]-> Claim` |
+| `Supports: C-…` | `supports_claim_refs` / `supports_claims` | `Claim -[:SUPPORTS]-> Claim` |
+| `Qualifies: C-…` | `qualifies_claim_refs` / `qualifies_claims` | `Claim -[:QUALIFIES]-> Claim` |
+| `Mentions: N-…` | `mentions_person_refs` / `mentions_persons` | `Claim -[:MENTIONS]-> Person` (distinct from `MENTIONS_TOPIC`) |
+| `Connected: N-…` | `connected_org_refs` / `connected_orgs` | `Person -[:CONNECTED_TO]-> Org` |
+| `CapturedAt: N-…` | `captured_at_place_refs` / `captured_at_places` | `Artifact -[:CAPTURED_AT]-> Place` |
+| Artifact in episode register | artifact row | `Artifact -[:APPEARS_IN]-> Episode` |
+| Person in Node Register | node row | `Person -[:APPEARS_IN]-> Episode` (unchanged) |
 
-`Related Nodes:` remains valid for topic/org/place leftovers until further typing. `Anchored Artifacts:` stays the evidence spine (Phase C maps to `SUPPORTED_BY`).
+`Related Nodes:` remains valid for topic/org/place leftovers until further typing.
 
 ## Extractor checklist (CKA)
 
@@ -67,6 +71,33 @@ On modern CKA drafts (`projects/monuments/cka/drafts/episode_*.md`) and matching
 3. **Revises:** PR 51 fork remints `C-3630/3631/3632` vs `C-1123/1124/1285` are **different propositions that collided on id only**, so no `Revises:` edge. True host walk-back remints with `Revises:` remain deferred pending clearer same-lineage pairs.
 4. **Locks honored:** no Neo4j write, no pack, no BoC promo. Mark Herman stays `N-98` only (no retired `N-237/407/527`).
 
+## Phase C Neo4j ingest mapping (implemented)
+
+Shared ingest: `projects/monuments/bride_of_charlie/scripts/neo4j_ingest.py`.
+
+```bash
+# Prefer staging. Prod 17687 writes are refused by default.
+NEO4J_URI=bolt://127.0.0.1:27687 \
+  python3 projects/monuments/bride_of_charlie/scripts/neo4j_ingest.py --monument cka
+```
+
+Unit / planner tests:
+
+```bash
+python3 projects/monuments/bride_of_charlie/scripts/test_neo4j_ingest_parse.py
+```
+
+## Staging smoke (§5 query pack)
+
+See `docs/EPISTEMIC_GRAPH_STAGING_SMOKE.md`.
+
+```bash
+NEO4J_URI=bolt://127.0.0.1:27687 \
+  python3 projects/monuments/scripts/epistemic_graph_smoke.py
+```
+
+Defaults to staging **27687**. Refuses prod **17687**. Does not start docker / openclaw-neo4j / bare 7687.
+
 ## Preflight
 
 ```bash
@@ -77,7 +108,6 @@ See `projects/monuments/DIA_PREFLIGHT.md` check `claim_fork`.
 
 ## Out of scope (remaining)
 
-- Phase C: Neo4j edge ingest (`ASSERTS`, `REVISES`, `CONNECTED_TO`, `CAPTURED_AT`, …)
-- Inscription pack promote / Neo4j write
+- Inscription pack promote / prod Neo4j write
 - BoC promo (BoC is syntax/ingest reference only)
 - Exhaustive corpus-wide `Revises:` / `Supports:` / `Qualifies:` / `Connected:` / `CapturedAt:` judgment
