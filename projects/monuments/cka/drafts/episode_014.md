@@ -251,6 +251,17 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ---
 
+**A-2487** CIA / DIA Merch Plug Bundle
+
+**A-2487.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:52:35
+Transcript Snippet: ...u guys. By the way, we had so many people buy our CIA merch. We don't know, but we know. We don't know. Okay. Uh, and soon we are going to know now w...
+Confidence: medium
+*Related: C-3643, N-3*
+
+---
+
+
 ## IV. Node Register
 
 ### People
@@ -615,6 +626,20 @@ Related Nodes: N-1227
 Investigative Direction: Verify original source (clip origin, show, date) and check for any associated public commentary.
 
 ---
+
+**C-3643** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:52:35
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...u guys. By the way, we had so many people buy our CIA merch. We don't know, but we know. We don't know. Okay. Uh, and soon we are going to know now w...
+Anchored Artifacts: A-2487.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## 6. Meme Register
 

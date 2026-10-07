@@ -132,6 +132,17 @@ Confidence Level: High (trend/headline as characterized on air)
 
 ---
 
+**A-2496** CIA / DIA Merch Plug Bundle
+
+**A-2496.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:57:32
+Transcript Snippet: ...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um...
+Confidence: medium
+*Related: C-3679, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -827,6 +838,48 @@ Anchored Artifacts: A-2480.1
 Mentions: N-3, N-552
 Related Nodes: N-2370
 Investigative Direction: Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.
+
+---
+
+**C-3678** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:57:32
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um investigation to stay alive. Couldn't d...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3679** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:57:32
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um...
+Anchored Artifacts: A-2496.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:57:32
+Speaker: N-3
+Quote: ...Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um investigation to stay alive. Couldn't d...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 160).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
 
 ---
 

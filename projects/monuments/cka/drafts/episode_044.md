@@ -610,3 +610,17 @@ Investigative Direction: Verify Tim Pool's statement against the original broadc
 
 ---
 
+
+**C-3653** Host references DCIA tips network
+
+Claim Timestamp: 00:53:18
+Claim: The host references the DCIA (Decentralized Intelligence Agency) tips box / network as a source of viewer-submitted investigative leads.
+Transcript Snippet: ...ow, we need to become our own little CIA units or DCIA units in our own communities and share information. And yeah, I I hope that's what we are pioneerin...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+

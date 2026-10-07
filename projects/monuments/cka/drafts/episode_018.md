@@ -52,6 +52,17 @@ Tags: reuse, pass2
 Confidence: high
 
 ---
+### Occurrence 2
+
+Video Timestamp: 00:28:07
+Speaker: N-3
+Quote: ...ks explain to us what it is that you know in this decentralized intelligent agency, given the information that I am telling you, okay? That it had it unless we have a bulle...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 18).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
 
 ## 3. Artifact Register
 
@@ -899,6 +910,20 @@ Claim: Andrew Kolbatz was not the man in the viral push video; he flew into Utah
 Anchored Artifacts: A-1252.1
 Mentions: N-42, N-247
 Investigative Direction: Verify Kolbatz's travel timeline via receipts or communications.
+
+---
+
+
+**C-3645** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:28:07
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...ks explain to us what it is that you know in this decentralized intelligent agency, given the information that I am telling you, okay? That it had it unless we have a bulle...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
 
 ---
 

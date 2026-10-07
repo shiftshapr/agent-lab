@@ -154,6 +154,17 @@ Confidence: medium
 
 ---
 
+**A-2485** CIA / DIA Merch Plug Bundle
+
+**A-2485.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:47:35
+Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
+Confidence: medium
+*Related: C-3641, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -916,6 +927,20 @@ Confidence: low
 Investigative Direction: Identify and interview the prior vest provider; review any supplier/contract documentation.
 
 ---
+
+**C-3641** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:47:35
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
+Anchored Artifacts: A-2485.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## 6. Meme Register
 

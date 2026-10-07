@@ -183,6 +183,17 @@ Confidence: medium
 
 ---
 
+**A-2481** CIA / DIA Merch Plug Bundle
+
+**A-2481.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 01:11:27
+Transcript Snippet: ...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...
+Confidence: medium
+*Related: C-3634, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -988,6 +999,20 @@ Investigative Direction: Identify donors; obtain internal TPUSA communications; 
 
 Tags: calls_for_tips
 ---
+
+**C-3634** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 01:11:27
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...
+Anchored Artifacts: A-2481.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## 6. Meme Register
 

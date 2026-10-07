@@ -285,6 +285,17 @@ Confidence Level: High (audio played with verbatim material)
 
 ---
 
+**A-2488** CIA / DIA Merch Plug Bundle
+
+**A-2488.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 01:14:50
+Transcript Snippet: ..., if you know someone, somebody get me that green CIA hat cuz it's actually people are tagging me in it, and I don't have it, and it's really nice. Uh other...
+Confidence: medium
+*Related: C-3644, N-3*
+
+---
+
+
 ## IV. Node Register
 
 **N-226** Yashar Ali
@@ -911,6 +922,20 @@ Mentions: N-3, N-91
 Investigative Direction: Locate exact closing-segment timestamp and any on-screen graphic.
 
 ---
+
+**C-3644** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 01:14:50
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ..., if you know someone, somebody get me that green CIA hat cuz it's actually people are tagging me in it, and I don't have it, and it's really nice. Uh other...
+Anchored Artifacts: A-2488.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## VI. Cross-Reference Summary
 

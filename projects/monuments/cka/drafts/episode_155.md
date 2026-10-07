@@ -223,6 +223,17 @@ Optional Flag: Artifact verbally referenced but not shown in this episode
 
 ---
 
+**A-2495** CIA / DIA Merch Plug Bundle
+
+**A-2495.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:54:47
+Transcript Snippet: ...buy a Santa Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of cour...
+Confidence: medium
+*Related: C-3676, N-3*
+
+---
+
+
 ## IV. Node Register
 
 **N-2337** "Waluigi" Unknown Driver
@@ -530,6 +541,59 @@ Related Nodes: N-2340
 Investigative Direction: Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.
 
 Optional Flag: Claim failed admission test (Artifact Anchor) — claim retained with explicit flag for missing artifact; verify against source records before further inscription.
+
+---
+
+**C-3675** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:54:47
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsuits going on and lawsui...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3676** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:54:47
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...buy a Santa Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of cour...
+Anchored Artifacts: A-2495.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:54:47
+Speaker: N-3
+Quote: ...can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsuits going on and lawsui...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 155).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
+### Occurrence 2
+
+Video Timestamp: 00:54:47
+Speaker: N-3
+Quote: ...ta Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsu...
+Context: Additional DIA brand line (CKA seq 155).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
 
 ---
 

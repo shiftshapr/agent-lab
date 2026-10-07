@@ -934,7 +934,35 @@ Investigative Direction: Verify through FBIA official publications, IRS Form 990
 
 ---
 
+**C-3658** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:46:47
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...y more reliable. 10 out of 10 would recommend the decentralized intelligence agency because we don't go after kids, right? We actually defend kids um and protect kids, which should be...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+
 ## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:46:47
+Speaker: N-3
+Quote: ...y more reliable. 10 out of 10 would recommend the decentralized intelligence agency because we don't go after kids, right? We actually defend kids um and protect kids, which should be...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 59).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
 
 **M-56** (meme) Clown World
 

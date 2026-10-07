@@ -732,7 +732,48 @@ Investigative Direction: Verify the UTC-to-local conversion; see flag re dayligh
 
 ---
 
+**C-3648** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:48:53
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...emails and we are going to solve this thing. The decentralized intelligence agency is going to solve this thing and like I said when I tell you what I know tomorrow it it's just we'r...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3649** Host elevates mommy sleuth crowd investigators
+
+Claim Timestamp: 00:09:23
+Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Transcript Snippet: ...tail number S U B N D, the blue plane. A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed. I consi...
+Anchored Artifacts: 
+Mentions: N-3, N-413
+Related Nodes: 
+Confidence: high
+Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+
+
 ## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:48:53
+Speaker: N-3
+Quote: ...emails and we are going to solve this thing. The decentralized intelligence agency is going to solve this thing and like I said when I tell you what I know tomorrow it it's just we'r...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 33).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
 
 **M-34** (meme) Deep State
 

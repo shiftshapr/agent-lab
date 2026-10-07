@@ -399,3 +399,17 @@ Investigative Direction: Locate the full Coleman confrontation clip and the refe
 
 ---
 
+
+**C-3659** Host elevates mommy sleuth crowd investigators
+
+Claim Timestamp: 01:20:45
+Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Transcript Snippet: ...ople are waking up and noticing the fed slop. The mommy sleuths are sleuthing. Candace is going max. Baron is spitting truth. God is on our side. We a...
+Anchored Artifacts: 
+Mentions: N-3, N-413
+Related Nodes: 
+Confidence: high
+Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+

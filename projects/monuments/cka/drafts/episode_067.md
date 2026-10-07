@@ -276,6 +276,17 @@ Confidence Level: Medium (source unnamed)
 
 ---
 
+**A-2489** CIA / DIA Merch Plug Bundle
+
+**A-2489.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:17:50
+Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
+Confidence: medium
+*Related: C-3661, N-3*
+
+---
+
+
 ## IV. Node Register
 
 
@@ -1137,6 +1148,20 @@ Mentions: N-3
 Investigative Direction: Verify against Charleston historical society records; verify "Checkmate" name for the slave market.
 
 ---
+
+**C-3661** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:17:50
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
+Anchored Artifacts: A-2489.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## VI. Optional Flags
 

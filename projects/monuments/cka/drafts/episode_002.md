@@ -1005,6 +1005,20 @@ Investigative Direction: Obtain full Discord statement and any subsequent update
 
 ---
 
+**C-3633** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 01:08:52
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...8:52] com if you want to join our movement of the decentralized uh intelligence agency. Uh you can head on over to support us and our work. We are entirely independent. [01:09...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+
 ## 6. Meme Register
 
 **M-1** (meme) Grieving Widow

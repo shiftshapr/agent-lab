@@ -757,3 +757,62 @@ Investigative Direction: Obtain Utah news reporting on precinct footage handling
 - **Possible transcription error:** Caption source is "yt-dlp-auto-android"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-3507) should be cross-checked against raw audio before downstream use.
 - **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition.
 - **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:04:04
+Speaker: N-3
+Quote: ...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 154).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
+
+
+## III. Artifact Register
+
+**A-2494** CIA / DIA Merch Plug Bundle
+
+**A-2494.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 01:04:04
+Transcript Snippet: ...Okay, I'm accept that. Andrew, um, you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the co...
+Confidence: medium
+*Related: C-3674, N-3*
+
+---
+
+
+## V. Claim Register
+
+**C-3673** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 01:04:04
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3674** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 01:04:04
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...Okay, I'm accept that. Andrew, um, you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the co...
+Anchored Artifacts: A-2494.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
