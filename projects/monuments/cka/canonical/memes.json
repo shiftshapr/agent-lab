@@ -1,8 +1,8 @@
 {
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2014 shared across monuments",
-  "updated": "2026-10-07T15:30:00Z",
-  "next_id": 75,
+  "updated": "2026-10-07T15:45:00Z",
+  "next_id": 74,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -749,17 +749,6 @@
       "first_episode": 161
     },
     "M-72": {
-      "canonical_term": "(meme) Conspiracy Girly",
-      "type": "meme",
-      "aliases": [
-        "Conspiracy girly",
-        "Conspiracy Girl t-shirt"
-      ],
-      "definition": "Merch joke / brand line for Conspiracy Girly shirts and mug",
-      "context": "cka",
-      "first_episode": 161
-    },
-    "M-73": {
       "canonical_term": "(meme) Fresh and Clean Organic",
       "type": "meme",
       "aliases": [
@@ -770,7 +759,7 @@
       "context": "cka",
       "first_episode": 161
     },
-    "M-74": {
+    "M-73": {
       "canonical_term": "(meme) Lose Count After Four",
       "type": "meme",
       "aliases": [

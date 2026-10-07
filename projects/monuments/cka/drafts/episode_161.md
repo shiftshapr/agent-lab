@@ -17,7 +17,7 @@
   - (see registers)
   - Person band: new persons minted into free holes N-447,448,449,450,452,465,469,470,472,473,477 (listed on Reused line like seq160 hole remints; New Nodes Introduced stays ascending topic band only). No person id in the topic band. Mark Herman (N-98) is not named; on-air "Chris" reused as N-144. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
   - Claim/artifact ids start at C-3680 / A-2497 to sit after open PR #56 tip (C-3679 / A-2496) and avoid fork collisions.
-  - Memes dense from tip M-60: new M-61..M-74. Near-DIA tip-line / merch beats get own claims+artifacts; no exact M-12/M-14 brand line in this transcript.
+  - Memes dense from tip M-60: new M-61..M-73 (Conspiracy Girly is M-21 occurrence, not a new id). Near-DIA tip-line / merch beats get own claims+artifacts; no exact M-12/M-14 brand line in this transcript.
 
 # Episode 161 Analysis
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:44:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (as spoken on air)
 
-*Related: C-3694, C-3695, N-3, M-72*
+*Related: C-3694, C-3695, N-3, M-21*
 
 ---
 
@@ -879,8 +879,9 @@ Claim Timestamp: 01:10:26
 Claim: The host plugs Conspiracy Girly shirts/mug and shop support as the clean way to back the show, notes quarterly campaigns listing her sponsors and threatening them over Erika treatment, and refuses to compromise truth-telling for pro-Israel pressure.
 Anchored Artifacts: A-2504.1
 Mentions: N-3, N-2
-Related Nodes: N-1091
+Related Nodes: N-1091, M-21
 Investigative Direction: Archive sponsor-threat posts/accounts; correlate with Elephant Clipping ban/include lists.
+Notes: Conspiracy Girly is existing M-21 (first_episode 55); this episode is an occurrence, not a new meme id.
 
 ---
 
@@ -1096,20 +1097,20 @@ Confidence: high
 
 ---
 
-**M-72** (meme) Conspiracy Girly
+**M-21** (meme) Conspiracy Girly
 
 ### Occurrence 1
 
 Video Timestamp: 01:10:26
 Speaker: N-3
 Quote: Buy yourself I love the Conspiracy girly t-shirts. I don't even think I have one of those. Can somebody get me one of those so I can wear that? I have the mug, but I don't think I even have the Conspiracy Girl t-shirt.
-Context: Merch plug / brand joke after tip-line asks.
-Tags: merch, near_dia, first_seen
+Context: Merch plug / brand joke after tip-line asks. Reuse of M-21 (first_episode 55); not a new meme id.
+Tags: merch, near_dia, reuse
 Confidence: high
 
 ---
 
-**M-73** (meme) Fresh and Clean Organic
+**M-72** (meme) Fresh and Clean Organic
 
 ### Occurrence 1
 
@@ -1122,7 +1123,7 @@ Confidence: high
 
 ---
 
-**M-74** (meme) Lose Count After Four
+**M-73** (meme) Lose Count After Four
 
 ### Occurrence 1
 
@@ -1137,7 +1138,7 @@ Confidence: high
 
 ## 7. Optional Flags
 
-- Near-DIA: no exact Decentralized Intelligence Agency / Candace Intelligence Agency brand line in this corrected transcript, so M-12 / M-14 are not forced as occurrences. Tip solicitation (C-3694 / A-2504), anti-Candace campaign exposure (C-3682..C-3689), and Conspiracy Girly merch (C-3695 / M-72) are the near-DIA beats.
+- Near-DIA: no exact Decentralized Intelligence Agency / Candace Intelligence Agency brand line in this corrected transcript, so M-12 / M-14 are not forced as occurrences. Tip solicitation (C-3694 / A-2504), anti-Candace campaign exposure (C-3682..C-3689), and Conspiracy Girly merch (C-3695 / M-21 occurrence) are the near-DIA beats.
 
 - Sponsor reads (PreBorn, Wellness Company / spike detox, Cozy Earth, Tax Network USA, American Financing) left as non-claim content.
 - Jeff Fargo, Dana White, Steve Witkoff ("Witco"), Edson (clipping-economy interviewer), Jessica Reed Kraus / House in Habit, and assorted commenters appear in prose only (not minted as Person nodes).
@@ -1157,4 +1158,4 @@ Confidence: high
 - [x] No em dashes
 - [x] Claims grounded in corrected transcript timestamps
 - [x] Mentions / Supports / Contradicts wired where Phase B patterns apply
-- [x] Memes dense M-61..M-74 from tip M-60
+- [x] Memes dense M-61..M-73 from tip M-60; Conspiracy Girly wired as M-21 occurrence
