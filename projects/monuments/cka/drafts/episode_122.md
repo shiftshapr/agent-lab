@@ -465,7 +465,7 @@ Claim Timestamp: 00:06:15
 Claim: A video clip displayed during the episode shows David Sprag (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.
 
 Anchored Artifacts: A-2105.1
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Cross-reference the clip with public statements by Rawlinson and with the FBI interview he claims to have given.
 
 ---
@@ -477,7 +477,7 @@ Claim Timestamp: 00:07:09
 Claim: A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
 
 Anchored Artifacts: A-2105.2
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Identify the second individual and confirm umbrellas' purpose and provenance.
 
 ---
@@ -489,7 +489,7 @@ Claim Timestamp: 00:09:46
 Claim: An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a maroon beret.
 
 Anchored Artifacts: A-2106.1
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Verify Rawlinson's military service record against official DoD / National Guard records.
 
 ---
@@ -501,7 +501,7 @@ Claim Timestamp: 00:09:46
 Claim: The same X audio clip contains Rawlinson's statement that he has already talked to the FBI and that he hopes they are "on our side."
 
 Anchored Artifacts: A-2106.1
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Cross-reference with FBI 302 forms, voluntary interview logs, or official acknowledgements.
 
 ---
@@ -513,7 +513,7 @@ Claim Timestamp: 00:09:46
 Claim: The X audio clip contains Rawlinson's claim that there were no ambulances at an event like that and that the high-power rifle sounded like a .22.
 
 Anchored Artifacts: A-2106.1
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Compare against published video, ballistic evidence, and emergency response records.
 
 ---
@@ -525,7 +525,7 @@ Claim Timestamp: 00:13:17
 Claim: An article displayed during the episode identifies Mihail Kogălniceanu air base in Constanta, Romania as a Task Force 82 / joint base location for 82nd Airborne operations.
 
 Anchored Artifacts: A-2107.1
-Related Nodes: N-2095, N-1207
+Related Nodes: N-2095
 Investigative Direction: Confirm article source, date, and unit assignment through DoD public affairs records.
 
 ---
@@ -537,7 +537,7 @@ Claim Timestamp: 00:13:17
 Claim: A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, alongside an unidentified individual on the right.
 
 Anchored Artifacts: A-2107.2
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records.
 
 ---
@@ -561,7 +561,7 @@ Claim Timestamp: 00:32:34
 Claim: A podcast audio clip of Frank Turek, played during the episode, contains his statement that he did not believe there was an exit wound on the back of Charlie Kirk's neck during the car transport.
 
 Anchored Artifacts: A-2109.1
-Related Nodes: N-1208, N-2097
+Related Nodes: N-2097
 Investigative Direction: Compare against the official autopsy report and Brian Harpole's prior podcast statements.
 
 ---
@@ -573,7 +573,7 @@ Claim Timestamp: 00:32:34
 Claim: The same podcast audio clip of Frank Turek contains his statement that he was "sometimes doing CPR" with Charlie "a foot away."
 
 Anchored Artifacts: A-2109.1
-Related Nodes: N-1208, N-2097
+Related Nodes: N-2097
 Investigative Direction: Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound.
 
 ---
@@ -585,7 +585,7 @@ Claim Timestamp: 00:20:08–00:21:31
 Claim: During the episode, the host asserts that multiple people with direct knowledge claim Erica Kirk was in charge of modeling apartments for underaged models at Next Model Management and MC2 during the period when those agencies are defendants in trafficking litigation.
 
 Anchored Artifacts: None displayed in this episode (host assertion referencing prior Epstein-series content)
-Related Nodes: N-2096, N-1209, N-1210, N-1220, N-2
+Related Nodes: N-2096, N-1210, N-1220, N-2
 Investigative Direction: Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.
 *Flag: Claim failed admission test on artifact anchor — host assertion only; underlying lawsuit referenced but not displayed.*
 

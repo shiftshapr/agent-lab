@@ -304,96 +304,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
-      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-505",
-      "ref": "N-505",
-      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-506",
-      "ref": "N-506",
-      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
-      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-509",
-      "ref": "N-509",
-      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-513",
-      "ref": "N-513",
-      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "description": "### People",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -900,11 +810,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-504",
-        "N-505",
-        "N-506"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -956,13 +862,7 @@
         "A-1513.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-504",
-        "N-505",
-        "N-506",
-        "N-508",
-        "N-509",
-        "N-513"
+        "N-1"
       ],
       "tags": [],
       "claim_timestamp": "00:02:03–00:02:43",

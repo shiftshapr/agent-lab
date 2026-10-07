@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-3, N-830, N-831, N-832, N-833, N-835, N-839, N-840, N-841, N-843, N-850, N-851, N-853, N-854, N-855, N-856, N-857, N-858, N-861, N-863, N-864, N-865, N-866, N-867, N-868, N-869, N-870, N-871, N-872, N-873, N-1541, N-1542, N-1543, N-1544, N-1545, N-1546, N-1547
+  - New Nodes Introduced: N-3, N-830, N-833, N-835, N-839, N-840, N-841, N-843, N-850, N-851, N-853, N-854, N-855, N-856, N-857, N-858, N-867, N-1541, N-1542, N-1543, N-1544, N-1545, N-1546, N-1547
   - Reused Nodes Appearing: N-1009, N-1010
   - (see registers)
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:16:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named journalist; specific evidence cited)
 
-*Related: C-2259, C-2260, N-35, N-843, N-260, N-858, N-875*
+*Related: C-2259, C-2260, N-35, N-843, N-260, N-858, *
 
 ---
 
@@ -218,7 +218,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:57:34
 Confidence Level: High
 
-*Related: C-2277, N-857, N-856, N-875*
+*Related: C-2277, N-857, N-856, *
 
 **A-1725.3** Comment from "Shyla" affirming Candace as "ultimate truth seeker" and stating "Christ is king"
 
@@ -278,90 +278,6 @@ Confidence Level: Medium (source unnamed)
 
 ## IV. Node Register
 
-
-**N-831** Node 831
-
-Node Type: person
-
-*Related:*
-
-**N-832** Node 832
-
-Node Type: person
-
-*Related:*
-
-**N-861** Node 861
-
-Node Type: person
-
-*Related:*
-
-**N-863** Node 863
-
-Node Type: person
-
-*Related:*
-
-**N-864** Node 864
-
-Node Type: person
-
-*Related:*
-
-**N-865** Node 865
-
-Node Type: person
-
-*Related:*
-
-**N-866** Node 866
-
-Node Type: person
-
-*Related:*
-
-**N-868** Node 868
-
-Node Type: person
-
-*Related:*
-
-**N-869** Node 869
-
-Node Type: person
-
-*Related:*
-
-**N-870** Node 870
-
-Node Type: person
-
-*Related:*
-
-**N-871** Node 871
-
-Node Type: person
-
-*Related:*
-
-**N-872** Node 872
-
-Node Type: person
-
-*Related:*
-
-**N-873** Node 873
-
-Node Type: person
-
-*Related:*
-
-**N-875** Freud-to-Fliess Letter Quotation Bundle
-
-Node Type: person
-
-*Related:*
 
 ### People Nodes (new in this episode)
 
@@ -662,17 +578,6 @@ Investigative Pressure: Medium
 
 *Related: A-1716.1, N-444, N-374*
 
-**N-42** Andrew Kolvet
-
-Listed alongside Mikey McQuaid as having traveled to meet with the White House the prior Thursday (per host).
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-2275, N-272*
-
 **N-272** Mikey McCoy
 
 Named by host as having traveled to meet the White House alongside Andrew Kolbatz; subject of neighbor sightings reported by host.
@@ -814,7 +719,7 @@ Claim: A letter from Sigmund Freud to Wilhelm Fliess describes a patient recalli
 
 Anchored Artifacts: A-1714.1
 
-Related Nodes: N-80, N-830, N-831, N-832, N-861, N-863, N-864, N-865, N-866, N-868, N-869, N-870, N-871, N-872, N-873
+Related Nodes: N-80, N-830, , , , , , 
 
 Investigative Direction: Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context.
 
@@ -1108,7 +1013,7 @@ Claim: Per Candace Owens's source, the Sept 9 "they're going to kill me" text wa
 
 Anchored Artifacts: A-1726.1
 
-Related Nodes: N-1009, N-42, N-434, N-1544, N-42
+Related Nodes: N-1009, N-42, N-434, N-1544
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.
 

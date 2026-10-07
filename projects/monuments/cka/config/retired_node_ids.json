@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated": "2026-10-06T19:45:00Z",
+  "updated": "2026-10-07T02:32:30Z",
   "description": "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-10": {
@@ -2537,6 +2537,566 @@
       "survives_as": "N-411",
       "canonical_name": "Lisa Nose",
       "reason": "Person remapped into N-411 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-2275": {
+      "survives_as": "N-1207",
+      "canonical_name": "Mike Mitchell Public Record Anomaly",
+      "reason": "Mirror topic remint collapsed onto original N-1207."
+    },
+    "legacy-N-2276": {
+      "survives_as": "N-1208",
+      "canonical_name": "Brooksby Suicide Narrative Discrepancy",
+      "reason": "Mirror topic remint collapsed onto original N-1208."
+    },
+    "legacy-N-2277": {
+      "survives_as": "N-1209",
+      "canonical_name": "Robinson Apartment Staging Allegation",
+      "reason": "Mirror topic remint collapsed onto original N-1209."
+    },
+    "legacy-N-2278": {
+      "survives_as": "N-1210",
+      "canonical_name": "Phil Lyman Proximity and Behavior Investigation",
+      "reason": "Mirror topic remint collapsed onto original N-1210."
+    },
+    "legacy-N-2279": {
+      "survives_as": "N-1211",
+      "canonical_name": "UVU Campus Familiarity Question",
+      "reason": "Mirror topic remint collapsed onto original N-1211."
+    },
+    "legacy-N-2280": {
+      "survives_as": "N-1212",
+      "canonical_name": "Phil Lyman Location Discrepancy",
+      "reason": "Mirror topic remint collapsed onto original N-1212."
+    },
+    "legacy-N-2281": {
+      "survives_as": "N-1213",
+      "canonical_name": "Unidentified Goth Person in Broderick Companion Photo",
+      "reason": "Mirror topic remint collapsed onto original N-1213."
+    },
+    "legacy-N-2282": {
+      "survives_as": "N-1214",
+      "canonical_name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "reason": "Mirror topic remint collapsed onto original N-1214."
+    },
+    "legacy-N-2283": {
+      "survives_as": "N-1215",
+      "canonical_name": "Hospital Routing Discrepancy",
+      "reason": "Mirror topic remint collapsed onto original N-1215."
+    },
+    "legacy-N-2284": {
+      "survives_as": "N-1216",
+      "canonical_name": "Utah FBI Personnel Replacement",
+      "reason": "Mirror topic remint collapsed onto original N-1216."
+    },
+    "legacy-N-2285": {
+      "survives_as": "N-1217",
+      "canonical_name": "Mike Mitchell Undercover Role Verification",
+      "reason": "Mirror topic remint collapsed onto original N-1217."
+    },
+    "legacy-N-2286": {
+      "survives_as": "N-1218",
+      "canonical_name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "reason": "Mirror topic remint collapsed onto original N-1218."
+    },
+    "legacy-N-2287": {
+      "survives_as": "N-1219",
+      "canonical_name": "\"Robbie Hild\" Identity Verification",
+      "reason": "Mirror topic remint collapsed onto original N-1219."
+    },
+    "legacy-N-2288": {
+      "survives_as": "N-1220",
+      "canonical_name": "Case-Personnel Cluster Anomalies",
+      "reason": "Mirror topic remint collapsed onto original N-1220."
+    },
+    "legacy-N-2289": {
+      "survives_as": "N-1221",
+      "canonical_name": "Autopsy Record \u2013 Utah Privacy Statute Application",
+      "reason": "Mirror topic remint collapsed onto original N-1221."
+    },
+    "legacy-N-2290": {
+      "survives_as": "N-1222",
+      "canonical_name": "Hospital Routing Anomaly",
+      "reason": "Mirror topic remint collapsed onto original N-1222."
+    },
+    "legacy-N-2291": {
+      "survives_as": "N-1223",
+      "canonical_name": "TPUSA Faith Packet / Israel References Claim",
+      "reason": "Mirror topic remint collapsed onto original N-1223."
+    },
+    "legacy-N-2292": {
+      "survives_as": "N-1224",
+      "canonical_name": "ADL\u2013FBI Partnership Structure",
+      "reason": "Mirror topic remint collapsed onto original N-1224."
+    },
+    "legacy-N-2293": {
+      "survives_as": "N-1225",
+      "canonical_name": "Connecticut FBI Field Office Deployment Anomaly",
+      "reason": "Mirror topic remint collapsed onto original N-1225."
+    },
+    "legacy-N-2294": {
+      "survives_as": "N-1226",
+      "canonical_name": "Tyler Robinson Defense Selection Anomaly",
+      "reason": "Mirror topic remint collapsed onto original N-1226."
+    },
+    "legacy-N-2295": {
+      "survives_as": "N-1227",
+      "canonical_name": "Witness and Public-Figure Demeanor Anomalies",
+      "reason": "Mirror topic remint collapsed onto original N-1227."
+    },
+    "legacy-N-2296": {
+      "survives_as": "N-1228",
+      "canonical_name": "SD Card Removal Narrative Discrepancy",
+      "reason": "Mirror topic remint collapsed onto original N-1228."
+    },
+    "legacy-N-2297": {
+      "survives_as": "N-1229",
+      "canonical_name": "Pre-Assassination Group Chat Content",
+      "reason": "Mirror topic remint collapsed onto original N-1229."
+    },
+    "legacy-N-2298": {
+      "survives_as": "N-1230",
+      "canonical_name": "Charlie Kirk Catholic Trajectory Verification",
+      "reason": "Mirror topic remint collapsed onto original N-1230."
+    },
+    "legacy-N-2299": {
+      "survives_as": "N-1231",
+      "canonical_name": "Campus Footage Release Strategy Question",
+      "reason": "Mirror topic remint collapsed onto original N-1231."
+    },
+    "legacy-N-2300": {
+      "survives_as": "N-1232",
+      "canonical_name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+      "reason": "Mirror topic remint collapsed onto original N-1232."
+    },
+    "legacy-N-2256": {
+      "survives_as": "N-432",
+      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
+    },
+    "legacy-N-2257": {
+      "survives_as": "N-432",
+      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
+    },
+    "legacy-N-2258": {
+      "survives_as": "N-432",
+      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
+    },
+    "legacy-N-2259": {
+      "survives_as": "N-432",
+      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
+    },
+    "legacy-N-2260": {
+      "survives_as": "N-432",
+      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
+    },
+    "legacy-N-2261": {
+      "survives_as": "N-432",
+      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
+    },
+    "legacy-N-1137": {
+      "survives_as": "N-1079",
+      "canonical_name": "FBI",
+      "reason": "Org dupe collapsed onto N-1079 Federal Bureau of Investigation."
+    },
+    "legacy-N-560": {
+      "survives_as": "N-1197",
+      "canonical_name": "PragerU",
+      "reason": "Person mistype collapsed onto org N-1197 PragerU."
+    },
+    "legacy-N-21": {
+      "survives_as": null,
+      "canonical_name": "Node 21",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-25": {
+      "survives_as": null,
+      "canonical_name": "Node 25",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-29": {
+      "survives_as": null,
+      "canonical_name": "Node 29",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-34": {
+      "survives_as": null,
+      "canonical_name": "Node 34",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-39": {
+      "survives_as": null,
+      "canonical_name": "Node 39",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-317": {
+      "survives_as": null,
+      "canonical_name": "Node 317",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-391": {
+      "survives_as": null,
+      "canonical_name": "Node 391",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-409": {
+      "survives_as": null,
+      "canonical_name": "Flock (Automated License Plate Reader Company)",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-415": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-416": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-417": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-418": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-419": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-420": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-421": {
+      "survives_as": null,
+      "canonical_name": "White 2025 Toyota Camry \u2014 Arizona plate CWN-N9872",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-422": {
+      "survives_as": null,
+      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-429": {
+      "survives_as": null,
+      "canonical_name": "Insider Email Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-430": {
+      "survives_as": null,
+      "canonical_name": "Insider Email Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-431": {
+      "survives_as": null,
+      "canonical_name": "Insider Email Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-448": {
+      "survives_as": null,
+      "canonical_name": "Node 448",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-449": {
+      "survives_as": null,
+      "canonical_name": "Operation Valhalla Press Release Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-450": {
+      "survives_as": null,
+      "canonical_name": "Node 450",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-465": {
+      "survives_as": null,
+      "canonical_name": "Vanity Fair Article Bundle (DuPont Heir)",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-495": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-496": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-504": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-505": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-506": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-508": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-509": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-513": {
+      "survives_as": null,
+      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-595": {
+      "survives_as": null,
+      "canonical_name": "Andrew Colberg X Post Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-649": {
+      "survives_as": null,
+      "canonical_name": "Node 649",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-691": {
+      "survives_as": null,
+      "canonical_name": "Node 691",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-692": {
+      "survives_as": null,
+      "canonical_name": "Node 692",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-693": {
+      "survives_as": null,
+      "canonical_name": "Node 693",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-705": {
+      "survives_as": null,
+      "canonical_name": "Text message from Candace Owens to Andrew Kolbett described Charlie Kirk dream stating he was betrayed and Andrew knew m",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-717": {
+      "survives_as": null,
+      "canonical_name": "Node 717",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-722": {
+      "survives_as": null,
+      "canonical_name": "Node 722",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-723": {
+      "survives_as": null,
+      "canonical_name": "Node 723",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-725": {
+      "survives_as": null,
+      "canonical_name": "Node 725",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-728": {
+      "survives_as": null,
+      "canonical_name": "Be Inspired YouTube Channel Clip Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-739": {
+      "survives_as": null,
+      "canonical_name": "Node 739",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-742": {
+      "survives_as": null,
+      "canonical_name": "Node 742",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-804": {
+      "survives_as": null,
+      "canonical_name": "Piers Morgan Show Clip Bundle (Bassem Youssef appearance)",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-816": {
+      "survives_as": null,
+      "canonical_name": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-828": {
+      "survives_as": null,
+      "canonical_name": "Node 828",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-831": {
+      "survives_as": null,
+      "canonical_name": "Node 831",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-832": {
+      "survives_as": null,
+      "canonical_name": "Node 832",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-861": {
+      "survives_as": null,
+      "canonical_name": "Node 861",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-863": {
+      "survives_as": null,
+      "canonical_name": "Node 863",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-864": {
+      "survives_as": null,
+      "canonical_name": "Node 864",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-865": {
+      "survives_as": null,
+      "canonical_name": "Node 865",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-866": {
+      "survives_as": null,
+      "canonical_name": "Node 866",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-868": {
+      "survives_as": null,
+      "canonical_name": "Node 868",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-869": {
+      "survives_as": null,
+      "canonical_name": "Node 869",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-870": {
+      "survives_as": null,
+      "canonical_name": "Node 870",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-871": {
+      "survives_as": null,
+      "canonical_name": "Node 871",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-872": {
+      "survives_as": null,
+      "canonical_name": "Node 872",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-873": {
+      "survives_as": null,
+      "canonical_name": "Node 873",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-875": {
+      "survives_as": null,
+      "canonical_name": "Freud-to-Fliess Letter Quotation Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-901": {
+      "survives_as": null,
+      "canonical_name": "Epstein 23andMe Email Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-911": {
+      "survives_as": null,
+      "canonical_name": "NY Real Estate License Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-912": {
+      "survives_as": null,
+      "canonical_name": "NY Real Estate License Bundle",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-924": {
+      "survives_as": null,
+      "canonical_name": "Node 924",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-925": {
+      "survives_as": null,
+      "canonical_name": "Node 925",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-927": {
+      "survives_as": null,
+      "canonical_name": "Node 927",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-928": {
+      "survives_as": null,
+      "canonical_name": "Node 928",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-930": {
+      "survives_as": null,
+      "canonical_name": "Node 930",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-931": {
+      "survives_as": null,
+      "canonical_name": "Node 931",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-932": {
+      "survives_as": null,
+      "canonical_name": "Node 932",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-939": {
+      "survives_as": null,
+      "canonical_name": "Node 939",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-976": {
+      "survives_as": null,
+      "canonical_name": "Node 976",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-980": {
+      "survives_as": null,
+      "canonical_name": "Node 980",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-983": {
+      "survives_as": null,
+      "canonical_name": "Node 983",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-984": {
+      "survives_as": null,
+      "canonical_name": "Node 984",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-986": {
+      "survives_as": null,
+      "canonical_name": "Node 986",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
+    },
+    "legacy-N-987": {
+      "survives_as": null,
+      "canonical_name": "Node 987",
+      "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
     }
   }
 }

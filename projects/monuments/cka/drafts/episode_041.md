@@ -351,7 +351,7 @@ Claim: Ben Shapiro appeared on Greg Gutfeld's show and joked that he "called Fre
 
 Anchored Artifacts: A-1497.1
 
-Related Nodes: (no new person node introduced for Shapiro/Gutfeld — referenced by name only), N-483
+Related Nodes: N-483
 
 Investigative Direction: Verify clip against original Gutfeld show broadcast; confirm exact wording.
 
@@ -379,7 +379,7 @@ Claim: Tim Pool states in a video that Candace Owens is a "scumbag" who is divid
 
 Anchored Artifacts: A-1499.1
 
-Related Nodes: (no new person node introduced for Tim Pool — referenced by name only)
+Related Nodes: 
 
 Investigative Direction: Verify clip against original Tim Pool broadcast; capture full context.
 

@@ -35,10 +35,7 @@
           ],
           "related_nodes": [
             "N-1336",
-            "N-1337",
-            "N-429",
-            "N-430",
-            "N-431"
+            "N-1337"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -82,10 +79,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-1001",
-            "N-429",
-            "N-430",
-            "N-431",
+            "N-2",
             "N-70"
           ],
           "tags": [],
@@ -335,7 +329,7 @@
             "C-1756"
           ],
           "related_nodes": [
-            "N-1001",
+            "N-2",
             "N-426"
           ],
           "tags": [],
@@ -370,51 +364,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-429",
-      "ref": "N-429",
-      "name": "Insider Email Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-430",
-      "ref": "N-430",
-      "name": "Insider Email Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-431",
-      "ref": "N-431",
-      "name": "Insider Email Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -433,24 +382,6 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1001",
-      "ref": "N-1001",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Named in flight timeline (A-1436.2) as a passenger; referenced in Tim Pool clip (A-1444.1) as allegedly \"knowing everything.\"",
-      "related_artifacts": [
-        "A-1436.2",
-        "A-1444.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -895,7 +826,7 @@
       ],
       "related_nodes": [
         "N-426",
-        "N-1001"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:42:03–00:44:03",

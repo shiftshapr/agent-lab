@@ -495,7 +495,7 @@ Claim: A CNN segment aired in July 2025 contained on-air characterizations of Ca
 
 Anchored Artifacts: A-1335.1
 
-Related Nodes: (no new people node created for unnamed CNN panelists)
+Related Nodes: 
 
 Investigative Direction: Identify the named CNN panelists and confirm the original broadcast date and full segment.
 

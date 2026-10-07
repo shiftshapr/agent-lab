@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2179, N-2180, N-2181, N-2182, N-2183, N-2184
-  - Reused Nodes Appearing: N-1024, N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: N-2, N-1207, N-1208, N-1209, N-1210, N-1211
   - (see registers)
 
 ## 2. Executive Summary
@@ -59,7 +59,7 @@ Video Timestamp: 00:13:35–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image referenced and described on air)
 
-*Related: C-3224, N-1024, N-2182*
+*Related: C-3224, N-2182*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:50:29–00:51:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-2181, N-1024*
+*Related: N-2181, N-2*
 
 **A-2253.2** Comment: "Blake Nef's anger single-handedly makes the entire TPUSA look completely guilty."
 
@@ -272,19 +272,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1024** Erica Kirk
-
-Widow of Charlie Kirk; referenced as the protected subject of the "Protecting Mrs. Kirk" group chat and as the individual who invited influencers into the courtroom.
-
-Evidence Count: (see series ledger)
-Claim Count: (see series ledger)
-Episode Count: (see series ledger)
-Investigative Pressure: High
-
-*Related: A-2246.1, A-2247.1, C-3222, C-3224, N-2179*
-
----
-
 **N-1207** Mike Mitchell Public Record Anomaly
 
 X account holder who publicly exposed the membership list and activities of the "Protecting Mrs. Kirk" group chat in two posts (A-2246.1, A-2246.2). Investigatively significant as the originating whistleblower for the group-chat thread.
@@ -307,7 +294,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2251.1, A-2251.2, C-3228, C-3229, C-3230, C-3231, N-1024, N-2184*
+*Related: A-2251.1, A-2251.2, C-3228, C-3229, C-3230, C-3231, N-2184*
 
 ---
 
@@ -359,7 +346,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-1207, N-1024, N-3*
+*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-1207, N-2, N-3*
 
 ---
 
@@ -385,7 +372,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2247.1, A-2253.1, A-2253.2, C-3224, N-1024*
+*Related: A-2247.1, A-2253.1, A-2253.2, C-3224, N-2*
 
 ---
 
@@ -438,7 +425,7 @@ Claim: An X-coordinated group chat named "Protecting Mrs. Kirk" contained 92 mem
 
 Anchored Artifacts: A-2246.1
 
-Related Nodes: N-1207, N-1024, N-3, N-2179
+Related Nodes: N-2, N-3, N-2179
 
 Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity.
 
@@ -452,7 +439,7 @@ Claim: Members of the "Protecting Mrs. Kirk" group chat shared Candace Owens' ho
 
 Anchored Artifacts: A-2246.1, A-2246.2
 
-Related Nodes: N-1207, N-3, N-2179
+Related Nodes: N-3, N-2179
 
 Investigative Direction: Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports.
 
@@ -466,7 +453,7 @@ Claim: The phone of Lance (referenced in the Tyler Robinson preliminary-hearing 
 
 Anchored Artifacts: A-2247.1
 
-Related Nodes: N-1024, N-2181, N-2182
+Related Nodes: N-2181, N-2182
 
 Investigative Direction: Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.
 
@@ -494,7 +481,7 @@ Claim: Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-ar
 
 Anchored Artifacts: A-2249.1
 
-Related Nodes: N-1209
+Related Nodes: 
 
 Investigative Direction: Obtain the original Miami-Dade Sheriff's Office email/statement and any incident report; verify timestamp of live stream and platform takedown.
 
@@ -508,7 +495,7 @@ Claim: Following the self-harm response, Perez Hilton was safely recovered and t
 
 Anchored Artifacts: A-2249.1
 
-Related Nodes: N-1209
+Related Nodes: 
 
 Investigative Direction: Confirm hospitalization via hospital records or subsequent official statements; verify family-member statement that he was alone in the residence.
 
@@ -522,7 +509,7 @@ Claim: In his Piers Morgan interview, Victor Marx stated that at age 3, his step
 
 Anchored Artifacts: A-2251.1
 
-Related Nodes: N-1208, N-2184
+Related Nodes: N-2184
 
 Investigative Direction: Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings.
 
@@ -536,7 +523,7 @@ Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his step
 
 Anchored Artifacts: A-2251.2
 
-Related Nodes: N-1208, N-2184
+Related Nodes: N-2184
 
 Investigative Direction: Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible.
 
@@ -550,7 +537,7 @@ Claim: When asked by Piers Morgan whether false memories could account for his c
 
 Anchored Artifacts: A-2251.2
 
-Related Nodes: N-1208, N-2184
+Related Nodes: N-2184
 
 Investigative Direction: Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration.
 
@@ -564,7 +551,7 @@ Claim: Piers Morgan stated during the interview that local law enforcement and s
 
 Anchored Artifacts: A-2251.2
 
-Related Nodes: N-1208, N-2184
+Related Nodes: N-2184
 
 Investigative Direction: Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations.
 
@@ -592,7 +579,7 @@ Claim: On the 2010 Ellen DeGeneres Show, Perez Hilton acknowledged being perceiv
 
 Anchored Artifacts: A-2250.1
 
-Related Nodes: N-1209
+Related Nodes: 
 
 Investigative Direction: Obtain the full 2010 episode recording for complete context; cross-reference with contemporaneous reporting.
 
@@ -606,7 +593,7 @@ Claim: The host asserts that the "Protecting Mrs. Kirk" group chat was organized
 
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
 
-Related Nodes: N-1207, N-1024, N-3, N-2179
+Related Nodes: N-2, N-3, N-2179
 
 Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.
 
@@ -622,7 +609,7 @@ Claim: A commenter on the show acknowledges that Candace Owens' home address has
 
 Anchored Artifacts: A-2246.1, A-2253.4
 
-Related Nodes: N-1207, N-3, N-2179
+Related Nodes: N-3, N-2179
 
 Investigative Direction: Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.
 

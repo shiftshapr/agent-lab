@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-443",
             "N-1",
-            "N-1005",
+            "N-2",
             "N-1447"
           ],
           "tags": [],
@@ -125,7 +125,7 @@
           "related_nodes": [
             "N-444",
             "N-614",
-            "N-1005",
+            "N-2",
             "N-1",
             "N-1448"
           ],
@@ -208,7 +208,7 @@
           "related_nodes": [
             "N-618",
             "N-42",
-            "N-1005",
+            "N-2",
             "N-1451"
           ],
           "tags": [],
@@ -350,32 +350,6 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1447"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1005",
-      "ref": "N-1005",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Subject of artifact-backed claims regarding AmFest pyrotechnic appearance, Paramount Tactical Valhalla alibi instructions, and CBS Hunter Cosgrove question.",
-      "related_artifacts": [
-        "A-1568.1",
-        "A-1570.1",
-        "A-1573.1"
-      ],
-      "related_claims": [
-        "C-1990",
-        "C-1994",
-        "C-1997"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1451"
       ]
     },
     {
@@ -724,7 +698,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1005"
+        "N-2"
       ]
     }
   ],
@@ -758,7 +732,7 @@
       ],
       "related_nodes": [
         "N-443",
-        "N-1005"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:04:47",
@@ -825,7 +799,7 @@
       "related_nodes": [
         "N-444",
         "N-614",
-        "N-1005",
+        "N-2",
         "N-1",
         "N-1448"
       ],
@@ -878,7 +852,7 @@
       "related_nodes": [
         "N-618",
         "N-42",
-        "N-1005",
+        "N-2",
         "N-1451"
       ],
       "tags": [],

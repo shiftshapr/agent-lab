@@ -32,7 +32,7 @@
             "C-3443"
           ],
           "related_nodes": [
-            "N-2275"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -141,7 +141,7 @@
             "C-3442"
           ],
           "related_nodes": [
-            "N-2277",
+            "N-1209",
             "N-2317"
           ],
           "tags": [],
@@ -195,7 +195,7 @@
             "C-3444"
           ],
           "related_nodes": [
-            "N-2276"
+            "N-1208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -223,7 +223,7 @@
             "C-3444"
           ],
           "related_nodes": [
-            "N-2276"
+            "N-1208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-2275"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -339,67 +339,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2275",
-      "ref": "N-2275",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Host of independent commentary show. Matters here because she dropped a 9/10 trailer invoking 2 Timothy 3:6-7 against Candace Owens, characterizing Candace as a \"phenomenon\" comparable to Gnosticism; host rejects this framework.",
-      "related_artifacts": [
-        "A-2362.1"
-      ],
-      "related_claims": [
-        "C-3430",
-        "C-3431",
-        "C-3443"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2276",
-      "ref": "N-2276",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Instagram commentator (@take.naps) whose clip is presented by host as responsive analysis to Frank Turek's interview.",
-      "related_artifacts": [
-        "A-2368.1",
-        "A-2369.1"
-      ],
-      "related_claims": [
-        "C-3434",
-        "C-3444"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2277",
-      "ref": "N-2277",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Arizona politician referenced by name in Andrew Kolvet's tweet demanding a Democratic response to the alleged statue vandalism.",
-      "related_artifacts": [
-        "A-2366.1"
-      ],
-      "related_claims": [
-        "C-3428"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2317",
@@ -504,24 +443,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -550,10 +488,9 @@
         "A-2365.1"
       ],
       "related_nodes": [
-        "N-2317"
-      ,
-            "N-37"
-          ],
+        "N-2317",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:40:50",
       "investigative_direction": "Pull the original tweet with timestamp; confirm author and program URL."
@@ -568,7 +505,6 @@
         "A-2366.1"
       ],
       "related_nodes": [
-        "N-2277",
         "N-2317"
       ],
       "tags": [],
@@ -600,9 +536,7 @@
       "anchored_artifacts": [
         "A-2362.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Pull full Alex Clark episode and verify transcript against the trailer excerpt."
@@ -616,9 +550,7 @@
       "anchored_artifacts": [
         "A-2362.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Pull full Alex Clark episode; verify quotation against the trailer."
@@ -632,9 +564,7 @@
       "anchored_artifacts": [
         "A-2369.1"
       ],
-      "related_nodes": [
-        "N-2276"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:47–00:11:50",
       "investigative_direction": "Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride."
@@ -662,9 +592,7 @@
       "anchored_artifacts": [
         "A-2368.1"
       ],
-      "related_nodes": [
-        "N-2276"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:11",
       "investigative_direction": "Pull original Saucelito clip; verify quotation."
@@ -786,10 +714,9 @@
         "A-2373.1"
       ],
       "related_nodes": [
-        "N-2317"
-      ,
-            "N-37"
-          ],
+        "N-2317",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:37:35–00:43:46",
       "investigative_direction": "Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin."
@@ -803,9 +730,7 @@
       "anchored_artifacts": [
         "A-2362.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:02–00:36:42",
       "investigative_direction": "Note as host stance against displayed source; cross-reference with theological commentary."
@@ -820,9 +745,7 @@
         "A-2368.1",
         "A-2369.1"
       ],
-      "related_nodes": [
-        "N-2276"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:11–00:14:18",
       "investigative_direction": "Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base."

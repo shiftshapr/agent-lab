@@ -571,7 +571,7 @@ Claim: Charlie Kirk wrote in a 2018 message to the host that he dreamed "all the
 
 Anchored Artifacts: A-2045.1
 
-Related Nodes: N-1 (Charlie Kirk)
+Related Nodes: N-1
 
 Investigative Direction: Obtain the original 2018 text record or corroborating screenshots; compare wording to other contemporaneous Kirk statements.
 
@@ -585,7 +585,7 @@ Claim: In a 2018 follow-up text to the host, Charlie Kirk wrote that he was "not
 
 Anchored Artifacts: A-2045.1
 
-Related Nodes: N-1 (Charlie Kirk)
+Related Nodes: N-1
 
 Investigative Direction: Corroborate the second message via original device records or screenshots.
 
@@ -599,7 +599,7 @@ Claim: In an audio clip played on the episode, Baron Coleman stated that those c
 
 Anchored Artifacts: A-2046.1
 
-Related Nodes: N-1219 (Baron Coleman)
+Related Nodes: N-1219
 
 Investigative Direction: Obtain full unedited Coleman segment; verify no other named attribution in original show notes.
 
@@ -613,7 +613,7 @@ Claim: Two days after Charlie Kirk's assassination, Benjamin Netanyahu stated on
 
 Anchored Artifacts: A-2047.1
 
-Related Nodes: N-1208 (Benjamin Netanyahu), N-1209 (Greta Van Susteren)
+Related Nodes: 
 
 Investigative Direction: Obtain full unedited Van Susteren segment and verify whether the question was pre-arranged as host alleges.
 
@@ -627,7 +627,7 @@ Claim: Greta Van Susteren asked Netanyahu to address internet rumors that Israel
 
 Anchored Artifacts: A-2047.1
 
-Related Nodes: N-1208 (Benjamin Netanyahu), N-1209 (Greta Van Susteren)
+Related Nodes: 
 
 Investigative Direction: Cross-check segment against Van Susteren's own post-show statements.
 
@@ -641,7 +641,7 @@ Claim: Show Faith by Works LLC filed a FARA registration on September 18, 2025, 
 
 Anchored Artifacts: A-2048.1, A-2054.1
 
-Related Nodes: N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1737
 
 Investigative Direction: Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties.
 
@@ -655,7 +655,7 @@ Claim: According to its FARA filing, Show Faith by Works LLC is contracted to ge
 
 Anchored Artifacts: A-2048.1, A-2048.2
 
-Related Nodes: N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1737
 
 Investigative Direction: Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings.
 
@@ -669,7 +669,7 @@ Claim: Clock Tower X LLC filed a FARA registration on September 18, 2025, contra
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
-Related Nodes: N-1207 (Brad Parscale), N-1732 (Salem Foreign Agent Status), N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1732, N-1737
 
 Investigative Direction: Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope.
 
@@ -683,7 +683,7 @@ Claim: According to the FARA filing and the host, Clock Tower X LLC is run by Br
 
 Anchored Artifacts: A-2049.1
 
-Related Nodes: N-1207 (Brad Parscale), N-1732 (Salem Foreign Agent Status)
+Related Nodes: N-1732
 
 Investigative Direction: Verify corporate registration records for Clock Tower X LLC.
 
@@ -697,7 +697,7 @@ Claim: The FARA filing for Clock Tower X LLC lists Salem Radio Media Network as 
 
 Anchored Artifacts: A-2049.2
 
-Related Nodes: N-1207 (Brad Parscale), N-1732 (Salem Foreign Agent Status)
+Related Nodes: N-1732
 
 Investigative Direction: Obtain full filing exhibit; verify exact quoted language and listed platforms.
 
@@ -711,7 +711,7 @@ Claim: Brad Parscale became Chief Strategy Officer of Salem Media Network in Jan
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
-Related Nodes: N-1207 (Brad Parscale), N-1732 (Salem Foreign Agent Status)
+Related Nodes: N-1732
 
 Investigative Direction: Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.
 
@@ -725,7 +725,7 @@ Claim: Newsweek page views for the Josh Hammer show display counts of 399, 386, 
 
 Anchored Artifacts: A-2050.1
 
-Related Nodes: N-42 (Josh Hammer), N-1733 (Josh Hammer Audience Anomaly)
+Related Nodes: N-42, N-1733
 
 Investigative Direction: Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.
 
@@ -739,7 +739,7 @@ Claim: In April 2025, Salem Media Group announced a landmark deal with Donald Tr
 
 Anchored Artifacts: A-2051.1
 
-Related Nodes: N-1212 (Donald Trump Jr.), N-1220 (Lara Trump), N-1732 (Salem Foreign Agent Status)
+Related Nodes: N-1212, N-1220, N-1732
 
 Investigative Direction: Obtain Salem's official press release and SEC / corporate disclosures.
 
@@ -753,7 +753,7 @@ Claim: Pursuant to the April 2025 deal, Salem acquired a 30% stake in M-News, a 
 
 Anchored Artifacts: A-2051.1
 
-Related Nodes: N-1212 (Donald Trump Jr.), N-1732 (Salem Foreign Agent Status)
+Related Nodes: N-1212, N-1732
 
 Investigative Direction: Verify M-News corporate filings; confirm 30% acquisition price and structure.
 
@@ -767,7 +767,7 @@ Claim: Pam Bondi, on her first day as Attorney General, signed an order disbandi
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
 
-Related Nodes: N-1211 (Pam Bondi), N-1214 (Ian Carroll), N-1734 (Bondi FARA Disbanding), N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1211, N-1214, N-1734, N-1737
 
 Investigative Direction: Obtain DOJ memorandum directly; confirm effective date and operative language.
 
@@ -781,7 +781,7 @@ Claim: Per the DOJ statement, recourse to criminal charges under FARA and 18 U.S
 
 Anchored Artifacts: A-2053.1
 
-Related Nodes: N-1211 (Pam Bondi), N-1734 (Bondi FARA Disbanding)
+Related Nodes: N-1211, N-1734
 
 Investigative Direction: Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions.
 
@@ -795,7 +795,7 @@ Claim: Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney Gener
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1210 (Harmeet Dhillon), N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1210, N-1737
 
 Investigative Direction: Confirm via DOJ announcement and Senate confirmation records.
 
@@ -809,7 +809,7 @@ Claim: According to the host's timeline, on August 27, 2025, Dhillon Law Group b
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1210 (Harmeet Dhillon), N-1732 (Salem Foreign Agent Status), N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1210, N-1732, N-1737
 
 Investigative Direction: Verify via FARA filing registrant of record and any disclosed outside counsel.
 
@@ -823,7 +823,7 @@ Claim: On September 9, 2025, Charlie Kirk sent a group text declaring he had bee
 
 Anchored Artifacts: A-2060.1
 
-Related Nodes: N-1 (Charlie Kirk), N-42 (Josh Hammer — referenced as group text participant)
+Related Nodes: N-1, N-42
 
 Investigative Direction: Obtain the original group text record; verify the participant list and exact wording.
 
@@ -837,7 +837,7 @@ Claim: Per the host's timeline, Charlie Kirk's memorial on September 21, 2025 wa
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1732 (Salem Foreign Agent Status), N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1732, N-1737
 
 Investigative Direction: Cross-check with FARA activity reports; obtain any device-level data on geofence delivery.
 
@@ -851,7 +851,7 @@ Claim: Project 545 refers to a $545 million State of Israel Ministry of Foreign 
 
 Anchored Artifacts: A-2055.1
 
-Related Nodes: N-1208 (Benjamin Netanyahu), N-1737 (2025 FARA Timeline Convergence)
+Related Nodes: N-1737
 
 Investigative Direction: Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures.
 
@@ -865,7 +865,7 @@ Claim: On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted a
 
 Anchored Artifacts: A-2056.1
 
-Related Nodes: N-1215 (Blake Lively), N-1216 (Justin Baldoni), N-1736 (Blake Lively Lawsuit Outcome)
+Related Nodes: N-1215, N-1216, N-1736
 
 Investigative Direction: Obtain the actual April 2 court order; verify which claims survived and on what grounds.
 
@@ -879,7 +879,7 @@ Claim: Following the April 2 ruling, Blake Lively issued a public statement asse
 
 Anchored Artifacts: A-2056.1
 
-Related Nodes: N-1215 (Blake Lively), N-1736 (Blake Lively Lawsuit Outcome)
+Related Nodes: N-1215, N-1736
 
 Investigative Direction: Verify against Lively's official public statement archive.
 
@@ -893,7 +893,7 @@ Claim: Community Notes appended to Blake Lively's statement characterized her fr
 
 Anchored Artifacts: A-2057.1
 
-Related Nodes: N-1215 (Blake Lively), N-1736 (Blake Lively Lawsuit Outcome)
+Related Nodes: N-1215, N-1736
 
 Investigative Direction: Obtain screenshot of the Community Notes annotation; capture timestamp and full text.
 
@@ -907,7 +907,7 @@ Claim: Deadpool & Wolverine included a "Nice Pool" character and scene mocking J
 
 Anchored Artifacts: A-2058.1
 
-Related Nodes: N-1215 (Blake Lively), N-1216 (Justin Baldoni), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman)
+Related Nodes: N-1215, N-1216, N-1217, N-1218
 
 Investigative Direction: Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.
 
@@ -921,7 +921,7 @@ Claim: Deleted scenes from Deadpool & Wolverine contained additional content moc
 
 Anchored Artifacts: A-2058.2
 
-Related Nodes: N-1216 (Justin Baldoni), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman)
+Related Nodes: N-1216, N-1217, N-1218
 
 Investigative Direction: Obtain deleted scene footage or trade press reporting on cut material.
 
@@ -935,7 +935,7 @@ Claim: At the It Ends With Us premiere, Justin Baldoni was seated in the basemen
 
 Anchored Artifacts: A-2059.1
 
-Related Nodes: N-1215 (Blake Lively), N-1216 (Justin Baldoni), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman)
+Related Nodes: N-1215, N-1216, N-1217, N-1218
 
 Investigative Direction: Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.
 
@@ -949,7 +949,7 @@ Claim: According to the host, Mikey McCoy sent her a message pointing to Andrew 
 
 Anchored Artifacts: A-2061.1
 
-Related Nodes: N-1738 (Mikey McCoy Witness Reliability Question), Andrew Kolvet (existing node)
+Related Nodes: N-1738
 
 Investigative Direction: Obtain the original McCoy message screenshot; verify the exact language and date.
 

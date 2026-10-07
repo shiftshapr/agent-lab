@@ -418,7 +418,7 @@ Claim Timestamp: 00:04:35
 Claim: A 1947 New York Times article attributes to Margaret Truman Daniel's biography an account that the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb using cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.
 
 Anchored Artifacts: A-2171.1
-Related Nodes: N-1209
+Related Nodes: 
 
 Investigative Direction: Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date.
 
@@ -440,7 +440,7 @@ Claim Timestamp: 00:14:54
 Claim: A 1976 Time magazine article titled "The Keepers of the King" states that six Mormon aides, recruited by the Summa Corporation and led by Bill Gay, attended Howard Hughes in 8-hour shifts, were paid up to $110,000 per year, censored his communications, and controlled his public image.
 
 Anchored Artifacts: A-2173.1
-Related Nodes: N-1207, N-1208, N-2146
+Related Nodes: N-2146
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
 

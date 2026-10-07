@@ -280,9 +280,7 @@
           "ref": "A-1634.3",
           "description": "Read-aloud comment from \"Anderson\" (today's episode): personal testimony about sleep paralysis (\"hatman shadow man\"), being in a \"gate\" program as a child, and being given the \"pink drink\" (fluoride)",
           "related_claims": [],
-          "related_nodes": [
-            "N-728"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -294,66 +292,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
-      "name": "Node 722",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-723",
-      "ref": "N-723",
-      "name": "Node 723",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-725",
-      "ref": "N-725",
-      "name": "Node 725",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-728",
-      "ref": "N-728",
-      "name": "Be Inspired YouTube Channel Clip Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "Person",
       "@id": "N-720",
@@ -587,11 +525,7 @@
       "related_nodes": [
         "N-720",
         "N-1484",
-        "N-724",
-        "N-722",
-        "N-723",
-        "N-725",
-        "N-728"
+        "N-724"
       ],
       "tags": [],
       "claim_timestamp": "00:13:05",

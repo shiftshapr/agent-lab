@@ -359,7 +359,7 @@ Claim: Nick Searcy confirmed to the host that Andrew Kolvet's livestream was aut
 
 Anchored Artifacts: A-1898.1
 
-Related Nodes: Andrew Kolvet
+Related Nodes: 
 
 Investigative Direction: Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs.
 
@@ -371,7 +371,7 @@ Claim: Per Elizabeth McCoy's account, she was the first person called after the 
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-1207, N-1208, N-1638
+Related Nodes: N-1638
 
 Investigative Direction: Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.
 
@@ -383,7 +383,7 @@ Claim: Per Elizabeth McCoy's account, Mikey McCoy rang her first after the shoot
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants.
 
@@ -395,7 +395,7 @@ Claim: Per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employe
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-1207, N-1209
+Related Nodes: 
 
 Investigative Direction: Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.
 
@@ -407,7 +407,7 @@ Claim: Per the host's reporting, Stacey Sheridan was not at the Turning Point US
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: Stacey Sheridan, N-1634, N-1638
+Related Nodes: N-1634, N-1638
 
 Investigative Direction: Obtain independent witness sightings or surveillance/phone-location data for September 10.
 
@@ -419,7 +419,7 @@ Claim: Per Elizabeth McCoy's account, Mikey McCoy met them outside at the Utah a
 
 Anchored Artifacts: A-1902.2
 
-Related Nodes: N-1207, N-1208, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Cross-reference with Andrew Kolvet's account and hospital visitor logs.
 

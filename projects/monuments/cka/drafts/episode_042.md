@@ -34,9 +34,9 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
 - Claim Range: C-1839–C-1861
-  - New Nodes Introduced:  N-490, N-491, N-492, N-493, N-494, N-495, N-1382, N-1383, N-1384, N-1385, N-1386
-  - Reused Nodes Appearing: N-1002
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-1002 (Erica Kirk)
+  - New Nodes Introduced:  N-490, N-491, N-492, N-493, N-494, N-1382, N-1383, N-1384, N-1385, N-1386
+  - Reused Nodes Appearing: N-2
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, N-494, N-224, N-1002, N-1384*
+*Related: C-1839, C-1840, N-494, N-224, N-2, N-1384*
 
 **A-1501.2** Segment: Blake Nef response — Erika Kirk direction and in-person rationale
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:05:37–00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, C-1841, N-224, N-1002, N-1384*
+*Related: C-1839, C-1840, C-1841, N-224, N-2, N-1384*
 
 **A-1502** TPUSA Phoenix Live Stream Announcement Bundle
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:11:14–00:11:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1842, N-224, N-1384, N-1002*
+*Related: C-1842, N-224, N-1384, N-2*
 
 **A-1503** The Game Song Bundle
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:34:18–00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1843, N-481, N-1002*
+*Related: C-1843, N-481, N-2*
 
 **A-1504** John McCain Ukraine Speech Clip Bundle
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:18:45–00:19:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-495, N-496, N-1382*
+*Related:  N-1382*
 
 **A-1505** UVU September 10 Footage Bundle
 
@@ -261,18 +261,6 @@ Confidence Level: Medium
 ## IV. Node Register
 
 
-**N-495** Charlie Kirk Show Audio Bundle (12-05 broadcast segment)
-
-Node Type: person
-
-*Related:*
-
-**N-496** Charlie Kirk Show Audio Bundle (12-05 broadcast segment)
-
-Node Type: person
-
-*Related:*
-
 **N-1** Charlie Kirk
 
 Subject of the investigation and central figure of all artifact-backed claims.
@@ -283,17 +271,6 @@ Episode Count: 0 (entry-level carryover from prior episodes)
 Investigative Pressure: High
 
 *Related: A-1501.1, A-1501.2, A-1503.1, A-1507.1, A-1512.1, C-1839, C-1843, C-1855*
-
-**N-1002** Erica Kirk
-
-Spouse of Charlie Kirk; identified in this episode as having directed and approved the TPUSA invitation response. Name spelled "Erika" throughout this episode — see Optional Flags.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 0
-Investigative Pressure: High
-
-*Related: A-1501.2, A-1502.1, C-1839, C-1840, C-1861*
 
 **N-224** Blake Neff
 
@@ -414,7 +391,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-224, N-42, N-494, N-1002*
+*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-224, N-42, N-494, N-2*
 
 **N-1385** Roof Shooter Video Witness Follow-up
 
@@ -450,7 +427,7 @@ Claim: On the Charlie Kirk Show, Blake Nef stated that the invitation-response a
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-224, N-1002, N-1384, N-495, N-496
+Related Nodes: N-224, N-2, N-1384
 
 Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.
 
@@ -464,7 +441,7 @@ Claim: On the Charlie Kirk Show, Blake Nef stated that, given the nature of the 
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-224, N-1384, N-1002
+Related Nodes: N-224, N-1384, N-2
 
 Investigative Direction: Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.
 
@@ -478,7 +455,7 @@ Claim: In his earlier invitation statement (read aloud in this episode), Blake N
 
 Anchored Artifacts: A-1502.1
 
-Related Nodes: N-224, N-1384, N-1002
+Related Nodes: N-224, N-1384, N-2
 
 Investigative Direction: Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition.
 
@@ -534,7 +511,7 @@ Claim: Blake Nef posted on X that the invitation was "not how you book a guest,"
 
 Anchored Artifacts: A-1506.1
 
-Related Nodes: N-224, N-1384, N-1002
+Related Nodes: N-224, N-1384, N-2
 
 Investigative Direction: Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.
 
@@ -744,7 +721,7 @@ Claim: Blake Nef states Erika Kirk "heads this" and host identifies Erika Kirk a
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-1002, N-1384
+Related Nodes: N-2, N-1384
 
 Investigative Direction: Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.
 
@@ -758,7 +735,7 @@ Claim: A TPUSA response live stream was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-224, N-1002, N-1384, N-42
+Related Nodes: N-224, N-2, N-1384, N-42
 
 Investigative Direction: Monitor TPUSA channels for confirmation and document the actual event for artifact capture.
 

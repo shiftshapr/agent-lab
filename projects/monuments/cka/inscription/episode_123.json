@@ -643,8 +643,6 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1207",
-        "N-1208",
         "N-1212",
         "N-2103"
       ],
@@ -662,9 +660,7 @@
         "A-2110.1",
         "A-2111.2"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Obtain original high-resolution image; have forensic analyst examine blood pattern and origin."
@@ -679,7 +675,6 @@
         "A-2110.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1",
         "N-2104"
       ],
@@ -697,7 +692,6 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-1207",
         "N-2104"
       ],
       "tags": [],
@@ -714,10 +708,7 @@
         "A-2110.2",
         "A-2111.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other."
@@ -732,9 +723,7 @@
         "A-2110.4",
         "A-2111.3"
       ],
-      "related_nodes": [
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain higher-resolution images; compare to medical emergency blanket specifications."
@@ -750,7 +739,6 @@
         "A-2114.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1219"
       ],
       "tags": [],
@@ -766,9 +754,7 @@
       "anchored_artifacts": [
         "A-2112"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\""
@@ -781,8 +767,6 @@
       "claim": "Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-2103",
         "N-1212"
       ],
@@ -829,7 +813,6 @@
         "A-2114.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1216",
         "N-2106"
       ],

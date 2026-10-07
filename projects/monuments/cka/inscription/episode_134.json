@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-1022",
+            "N-2",
             "N-2163"
           ],
           "tags": [],
@@ -366,30 +366,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1022",
-      "ref": "N-1022",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Subject of host claims about funeral arrangements; named in pre-recorded Kolvet interview re: religious status.",
-      "related_artifacts": [
-        "A-2206.1"
-      ],
-      "related_claims": [
-        "C-3167"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2158",
-        "N-2159",
-        "N-2163"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1207",
       "ref": "N-1207",
       "name": "Mike Mitchell Public Record Anomaly",
@@ -510,7 +486,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-1022",
+        "N-2",
         "N-2159",
         "N-2162",
         "N-2163"
@@ -531,7 +507,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1022",
+        "N-2",
         "N-2158",
         "N-2162",
         "N-2163"
@@ -628,7 +604,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-1022",
+        "N-2",
         "N-1207",
         "N-2159"
       ]
@@ -695,7 +671,6 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2161"
       ],
       "tags": [],
@@ -711,9 +686,7 @@
       "anchored_artifacts": [
         "A-2210.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "05:44:00",
       "investigative_direction": "Obtain the original tweet thread; verify timing relative to the rooftop footage release."
@@ -745,8 +718,7 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1022",
+        "N-2",
         "N-2163"
       ],
       "tags": [],
@@ -795,9 +767,7 @@
       "anchored_artifacts": [
         "A-2211.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "06:39:00",
       "investigative_direction": "Verify original tweet content and timing."
@@ -812,7 +782,6 @@
         "A-2213.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2161"
       ],
       "tags": [],

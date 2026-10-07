@@ -344,7 +344,7 @@ Claim: The charter company handling the Hawker Beechcraft N8724A told the host b
 
 Anchored Artifacts: A-1887.2
 
-Related Nodes: N-1207, N-1630
+Related Nodes: N-1630
 
 Investigative Direction: Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials.
 
@@ -358,7 +358,7 @@ Claim: ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending b
 
 Anchored Artifacts: A-1888.1
 
-Related Nodes: N-1207, N-1627
+Related Nodes: N-1627
 
 Investigative Direction: Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST.
 
@@ -372,7 +372,7 @@ Claim: Andrew Kolvet sent a text message at 3:26 PM MST on September 10, 2025 st
 
 Anchored Artifacts: A-1889.1
 
-Related Nodes: N-1207, N-1627
+Related Nodes: N-1627
 
 Investigative Direction: Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time.
 
@@ -386,7 +386,7 @@ Claim: Per a text thread with Justin and Aubrey, Andrew Kolvet could not respond
 
 Anchored Artifacts: A-1889.1, A-1889.2
 
-Related Nodes: N-1207, N-1627, N-1630
+Related Nodes: N-1627, N-1630
 
 Investigative Direction: Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on.
 
@@ -414,7 +414,7 @@ Claim: Andrew Kolvet stated in an interview with Ross Douthat (New York Times) t
 
 Anchored Artifacts: A-1890.1
 
-Related Nodes: N-1207, N-1629
+Related Nodes: N-1629
 
 Investigative Direction: Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records.
 
@@ -428,7 +428,7 @@ Claim: Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that
 
 Anchored Artifacts: A-1891.2
 
-Related Nodes: N-1208, N-1632
+Related Nodes: N-1632
 
 Investigative Direction: Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.
 
@@ -456,7 +456,7 @@ Claim: Blake Neff stated on air that if Joe Kent testifies truthfully for the de
 
 Anchored Artifacts: A-1893.1
 
-Related Nodes: N-1207, N-1209, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Obtain full clip with timestamps; document exact wording for evidentiary comparison against later statements.
 
@@ -470,7 +470,7 @@ Claim: A 2020 charter listing for the plane identified as the alleged Santa Barb
 
 Anchored Artifacts: A-1887.3
 
-Related Nodes: N-1207, N-1627
+Related Nodes: N-1627
 
 Investigative Direction: Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020.
 
@@ -484,7 +484,7 @@ Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was 
 
 Anchored Artifacts: A-1890.1
 
-Related Nodes: N-1207, N-1629
+Related Nodes: N-1629
 
 Investigative Direction: Verify the specific guest booked for September 9 interview; cross-check against show archives.
 
@@ -498,7 +498,7 @@ Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane — the
 
 Anchored Artifacts: A-1887.3
 
-Related Nodes: N-1207, N-1627
+Related Nodes: N-1627
 
 Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erica Kirk.
 
@@ -514,7 +514,7 @@ Claim: Baron Coleman (in a clip played on the show) characterized TPUSA's patter
 
 Anchored Artifacts: A-1889.1 (host's read-aloud transcript); however no on-screen clip artifact is registered — flagged.
 
-Related Nodes: N-1212 (Baron Coleman — should be its own person node)
+Related Nodes: N-1212
 
 Investigative Direction: Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.
 
@@ -530,7 +530,7 @@ Claim: Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina 
 
 Anchored Artifacts: A-1889.2 (text thread)
 
-Related Nodes: N-1207, N-1627
+Related Nodes: N-1627
 
 Investigative Direction: Obtain the full text thread; identify timestamp when TPUSA's public statement went out.
 
@@ -570,7 +570,7 @@ Artifact Families Introduced:
 Claim Range: C-2544 – C-2559
 
 New Nodes Introduced:
-- Investigation Targets: N-1626 (Erica Kirk 9/10 Location Investigation), N-1627 (Andrew Kolvet 9/10 Flight Itinerary), N-1628 (Hopkinson Aircrafts Business Verification), N-1629 (Charlie Kirk Live Show 9/10 Liveness Verification), N-1630 (Barbara Plane (N8724A) Operations), N-1631 (N40JD Plane Passenger Manifest), N-1632 (Nick Shirley Background Verification)
+N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
 
 Existing Nodes Reused:
 N-1 (Charlie Kirk), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy)

@@ -723,7 +723,7 @@ Investigative Direction: Verify the five-day media-shift claim against contempor
 Claim Timestamp: 00:08:23
 Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, had done Brazil work she will not revisit, and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
 Anchored Artifacts: A-2475.1
-Related Nodes: N-318, N-42, N-1, N-1632, N-2064
+Related Nodes: N-318, N-42, N-1632, N-2064
 Investigative Direction: Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis.
 
 ---

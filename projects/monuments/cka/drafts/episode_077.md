@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-961, N-962, N-963, N-964, N-965, N-966, N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
-  - Reused Nodes Appearing: N-1, N-1013, N-37
+  - Reused Nodes Appearing: N-1013, N-37
   - (see registers)
 
 ---
@@ -61,7 +61,7 @@ Video Timestamp: 00:04:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2437, N-1, N-1013*
+*Related: C-2437, N-1013*
 
 ---
 

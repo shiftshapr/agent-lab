@@ -645,36 +645,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-986",
-      "ref": "N-986",
-      "name": "Node 986",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-987",
-      "ref": "N-987",
-      "name": "Node 987",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -1260,9 +1230,7 @@
         "N-1",
         "N-3",
         "N-133",
-        "N-1616",
-        "N-986",
-        "N-987"
+        "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:08:50–00:09:46",
@@ -1526,7 +1494,6 @@
         "A-1858.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-50",
         "N-1613"
       ],
@@ -1544,7 +1511,6 @@
         "A-1859.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-50",
         "N-1613"
       ],

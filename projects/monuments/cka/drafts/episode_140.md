@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2190, N-2191, N-2192
-  - Reused Nodes Appearing: N-1025, N-1207, N-46
+  - Reused Nodes Appearing: N-2, N-1207, N-46
   - (see registers)
 
 # Episode 140 — Analysis Record
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: N-1207
-  - Existing Nodes Reused: N-1025, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
   - New Investigation Target Nodes: N-2190, N-2191, N-2192
 
 ---
@@ -57,7 +57,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, C-3261, C-3262, N-1025, Tyler Robinson node, N-2190*
+*Related: C-3260, C-3261, C-3262, N-2, Tyler Robinson node, N-2190*
 
 **A-2267.2** Still showing subject taking phone from left pocket and inserting earpiece in left ear
 
@@ -302,20 +302,7 @@ Claim Count: (cumulative)
 Episode Count: (cumulative)
 Investigative Pressure: High
 
-*Related: A-2275.1, A-2275.5, N-1025*
-
----
-
-**N-1025** Erica Kirk
-
-Subject of the "Protect Erika Kirk" group chat described in this episode. Also referenced in viewer comments and host framing.
-
-Evidence Count: (cumulative)
-Claim Count: (cumulative)
-Episode Count: (cumulative)
-Investigative Pressure: Medium
-
-*Related: A-2267.1, A-2273.3, A-2275.2*
+*Related: A-2275.1, A-2275.5, N-2*
 
 ---
 
@@ -390,7 +377,7 @@ Claim: In the parking-garage stills, the subject is shown retrieving a phone fro
 
 Anchored Artifacts: A-2267.2
 
-Related Nodes: Tyler Robinson node, N-2190, N-2192
+Related Nodes: N-2190, N-2192
 
 Investigative Direction: Obtain the full uncompressed footage and verify the motion-direction sequence; cross-reference against court-documented handedness records for Tyler Robinson and Lance Twigs.
 
@@ -404,7 +391,7 @@ Claim: The stills show the subject with what appears to be high white socks pull
 
 Anchored Artifacts: A-2267.3
 
-Related Nodes: Tyler Robinson node, N-2190
+Related Nodes: N-2190
 
 Investigative Direction: Obtain reference photos of Tyler Robinson's documented leg appearance on 2025-09-10; verify against booking/intake imagery.
 
@@ -418,7 +405,7 @@ Claim: The stills show the subject's hat sitting noticeably above his glasses an
 
 Anchored Artifacts: A-2267.4
 
-Related Nodes: Tyler Robinson node, N-2190
+Related Nodes: N-2190
 
 Investigative Direction: Obtain side-angle or higher-resolution imagery; verify by direct observation of booking photos for any concealed ponytail/headwear anomaly.
 
@@ -432,7 +419,7 @@ Claim: In the period immediately following the public release of Tyler Robinson'
 
 Anchored Artifacts: A-2268.1, A-2268.2
 
-Related Nodes: Tyler Robinson node
+Related Nodes: 
 
 Investigative Direction: Compile the visual catalog used by major outlets on 2025-09-12 through 2025-09-15 and assess the proportion of maroon-shirt imagery vs. available alternatives.
 
@@ -446,7 +433,7 @@ Claim: The host states that a screen-recorded review of the mother's Facebook sh
 
 Anchored Artifacts: A-2268.3
 
-Related Nodes: Tyler Robinson node
+Related Nodes: 
 
 Investigative Direction: Obtain or verify the screen-recorded archive; cross-reference the original Facebook page if accessible.
 
@@ -460,7 +447,7 @@ Claim: The host presents a photo of Lance Twigs eating with his left hand and re
 
 Anchored Artifacts: A-2269.1
 
-Related Nodes: Lance Twigs node, N-2192
+Related Nodes: N-2192
 
 Investigative Direction: Obtain court records or biographical sources documenting Lance Twigs's stated handedness.
 
@@ -474,7 +461,7 @@ Claim: According to Agent Hoole's testimony as played in the episode, the suspec
 
 Anchored Artifacts: A-2270.1
 
-Related Nodes: Agent Hoole node, Tyler Robinson node
+Related Nodes: 
 
 Investigative Direction: Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).
 
@@ -488,7 +475,7 @@ Claim: High-resolution photos from George Zinn's arrest show an unidentified thi
 
 Anchored Artifacts: A-2271.1, A-2272.1
 
-Related Nodes: George Zinn node, N-2191
+Related Nodes: N-2191
 
 Investigative Direction: Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose.
 
@@ -502,7 +489,7 @@ Claim: The host describes a group chat of 92 individuals focused on monitoring a
 
 Anchored Artifacts: (no on-screen artifact displayed in this episode; reported via exiting member)
 
-Related Nodes: N-1025, N-1207
+Related Nodes: N-2
 
 Investigative Direction: Obtain independent verification of membership size, group origin date, and named administrators.
 
@@ -518,7 +505,7 @@ Claim: The account "No Soup For You" / "No Soup For Noels," previously assumed t
 
 Anchored Artifacts: A-2273.1, A-2273.2
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Confirm identity through public records and account-history linkage.
 
@@ -532,7 +519,7 @@ Claim: A tweet-counter account shows that "No Soup For You" sent 4,040 tweets ab
 
 Anchored Artifacts: A-2273.3
 
-Related Nodes: N-1207, N-3 (Candace)
+Related Nodes: N-3
 
 Investigative Direction: Obtain the underlying tweet-counter screenshot and verify date range and account identifier.
 
@@ -546,7 +533,7 @@ Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month
 
 Anchored Artifacts: A-2273.3
 
-Related Nodes: N-1025, N-3 (Candace), N-1207
+Related Nodes: N-2, N-3
 
 Investigative Direction: Obtain the tweet-counter output and verify both figures and their date ranges.
 
@@ -560,7 +547,7 @@ Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel
 
 Anchored Artifacts: A-2274.1
 
-Related Nodes: Andrew Wilson node, Rachel Wilson (referenced), N-46
+Related Nodes: N-46
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
 
@@ -574,7 +561,7 @@ Claim: Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two
 
 Anchored Artifacts: A-2275.1
 
-Related Nodes: N-1, Mikey McQuaid node
+Related Nodes: N-1
 
 Investigative Direction: Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.
 
@@ -588,7 +575,7 @@ Claim: A viewer comment contrasts Candace's stated position with Frank Turick's 
 
 Anchored Artifacts: A-2275.2
 
-Related Nodes: N-1025, Frank Turick (referenced)
+Related Nodes: N-2
 
 Investigative Direction: Verify the quoted Frank Turick statement against its original source.
 
@@ -602,7 +589,7 @@ Claim: The host states that court documents show Tyler Robinson taking notes wit
 
 Anchored Artifacts: A-2275.5 (and underlying court exhibits — not displayed in this episode)
 
-Related Nodes: Tyler Robinson node, N-2192
+Related Nodes: N-2192
 
 Investigative Direction: Obtain the specific court exhibit referenced and confirm the right-hand note-taking image.
 
@@ -631,7 +618,7 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 - Every artifact has a Related line.
 - Every node has a Related line.
 - No episode-wide artifact bundle exists.
-- People nodes use the global people ledger (N-1025, N-3, N-1207, plus reused existing character nodes).
+- People nodes use the global people ledger (N-2, N-3, N-1207, plus reused existing character nodes).
 - Non-person investigation targets use the 1000+ range (N-2190, N-2191, N-2192).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
 - Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
@@ -659,4 +646,4 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **New Investigation Target Nodes:** N-2190, N-2191, N-2192
 
-**Existing Nodes Reused:** N-1025, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node

@@ -415,7 +415,7 @@ Claim: Frank Turek, on a Nicholas Bowling podcast episode airing roughly Aug 3, 
 
 Anchored Artifacts: A-2236.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Obtain the full Nicholas Bowling podcast episode audio/transcript to verify the exact wording and surrounding context.
 
@@ -527,7 +527,7 @@ Claim: The Daily Mail, in a press request received by Candace Owens's team on or
 
 Anchored Artifacts: A-2244.1
 
-Related Nodes: None (institutional)
+Related Nodes: 
 
 Investigative Direction: Confirm via Daily Mail editorial record or correspondence log.
 
@@ -555,7 +555,7 @@ Claim: Candace Owens states that, contrary to Catholic doctrine prohibiting crem
 
 Anchored Artifacts: A-2245.1 (viewer comment prompting the lookup)
 
-Related Nodes: None (doctrinal/institutional claim)
+Related Nodes: 
 
 Investigative Direction: Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes.
 

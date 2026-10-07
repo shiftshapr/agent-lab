@@ -548,7 +548,7 @@ Claim: Per the Department of War website, Bradley Hansel exercises authority, di
 
 Anchored Artifacts: A-2079.1
 
-Related Nodes: N-1207, N-1208, N-2066
+Related Nodes: N-2066
 
 Investigative Direction: Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in.
 
@@ -562,7 +562,7 @@ Claim: Per host, Hansel was nominated by Trump and confirmed by the Senate, then
 
 Anchored Artifacts: A-2076.2, A-2079.1
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Verify Senate roll-call vote and swearing-in date via official Senate records.
 
@@ -576,7 +576,7 @@ Claim: Per host, after serving in the Navy and Army Special Forces Airborne Divi
 
 Anchored Artifacts: A-2079.1
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Verify service record via official DoD / Army Special Forces sources.
 
@@ -590,7 +590,7 @@ Claim: Per host, Hansel was picked to work under Trump's first administration as
 
 Anchored Artifacts: A-2079.1
 
-Related Nodes: N-1207, N-2066
+Related Nodes: N-2066
 
 Investigative Direction: Verify NSC roster for Trump's first term.
 
@@ -604,7 +604,7 @@ Claim: Per host, Hansel worked at the Boston Consulting Group both after his mil
 
 Anchored Artifacts: A-2076.1, A-2079.1
 
-Related Nodes: N-1207, N-2066
+Related Nodes: N-2066
 
 Investigative Direction: Verify BCG alumni records and LinkedIn-style biographies.
 
@@ -842,7 +842,7 @@ Claim: Per host (recapping prior episodes) and per the on-screen connection grap
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-1207, N-1218, N-2066, N-57
+Related Nodes: N-1218, N-2066, N-57
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 

@@ -114,7 +114,7 @@
             "C-3572"
           ],
           "related_nodes": [
-            "N-1004"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "pre-2026",
@@ -481,22 +481,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1004",
-      "ref": "N-1004",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "CEO and Chairman of Turning Point USA; widow of Charlie Kirk; primary subject of host critique in this episode. The episode presents her media appearances (Fox News Harris Faulkner, Bari Weiss town hall referenced), her Nehemiah defense of TPUSA staff, her request for burial privacy, and prior publication of the casket video as the central evidentiary focus.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1009",
       "ref": "N-1009",
       "name": "Charlie Kirk — referenced throughout timeline reconstruction.",
@@ -510,24 +494,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -611,8 +594,8 @@
         "A-2440.1"
       ],
       "related_nodes": [
-            "N-37"
-          ],
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future."

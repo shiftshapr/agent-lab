@@ -294,7 +294,7 @@ Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Jeremy Borin
 
 Anchored Artifacts: A-2180.1
 
-Related Nodes: N-1, N-3, N-Jeremy Boreing (existing)
+Related Nodes: N-1, N-3
 
 Investigative Direction: Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.
 
@@ -308,7 +308,7 @@ Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Marissa Stra
 
 Anchored Artifacts: A-2180.1
 
-Related Nodes: N-1, N-3, N-Marissa Streit (existing)
+Related Nodes: N-1, N-3
 
 Investigative Direction: Verify name spelling against device-extracted SMS records.
 
@@ -364,7 +364,7 @@ Claim: In an audio clip played in the episode, Ben Shapiro states that his secur
 
 Anchored Artifacts: A-2181.1
 
-Related Nodes: N-1, N-Ben Shapiro (existing), N-2147
+Related Nodes: N-1, N-2147
 
 Investigative Direction: Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.
 
@@ -378,7 +378,7 @@ Claim: In an audio clip played in the episode, Ben Shapiro states that at the ti
 
 Anchored Artifacts: A-2181.1
 
-Related Nodes: N-Ben Shapiro (existing), N-2147
+Related Nodes: N-2147
 
 Investigative Direction: Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley).
 
@@ -392,7 +392,7 @@ Claim: In an audio clip from AmFest in December 2025, Steve Bannon states: "Ben 
 
 Anchored Artifacts: A-2182.1
 
-Related Nodes: N-Steve Bannon (existing), N-Ben Shapiro (existing)
+Related Nodes: 
 
 Investigative Direction: Obtain the full AmFest segment; verify exact wording.
 
@@ -406,7 +406,7 @@ Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin
 
 Anchored Artifacts: A-2183.1
 
-Related Nodes: N-1209, N-2
+Related Nodes: N-2
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
 
@@ -420,7 +420,7 @@ Claim: In a Newsmax audio clip, Rob O'Neill states that the screwdriver left on 
 
 Anchored Artifacts: A-2184.1
 
-Related Nodes: N-1208, N-1
+Related Nodes: N-1
 
 Investigative Direction: Obtain full Newsmax segment; cross-reference with official forensic reports on the rooftop.
 
@@ -434,7 +434,7 @@ Claim: In a Newsmax audio clip, Rob O'Neill states that a 30-06 round "would do 
 
 Anchored Artifacts: A-2184.1
 
-Related Nodes: N-1208, N-1
+Related Nodes: N-1
 
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent ballistic-gel comparison data.
 
@@ -448,7 +448,7 @@ Claim: In a Newsmax audio clip, Rob O'Neill states the shot "went left to right,
 
 Anchored Artifacts: A-2184.1
 
-Related Nodes: N-1208, N-1
+Related Nodes: N-1
 
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent forensic analysis.
 
@@ -462,7 +462,7 @@ Claim: In a Newsmax audio clip, Rob O'Neill characterizes the suspect's post-sho
 
 Anchored Artifacts: A-2184.1
 
-Related Nodes: N-1208, N-1
+Related Nodes: N-1
 
 Investigative Direction: Obtain full Newsmax segment; cross-reference with publicly released text message excerpts.
 

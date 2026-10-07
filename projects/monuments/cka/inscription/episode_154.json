@@ -35,7 +35,7 @@
           "related_nodes": [
             "N-1031",
             "N-4",
-            "N-2277",
+            "N-1209",
             "N-2330"
           ],
           "tags": [],
@@ -231,7 +231,7 @@
           "related_nodes": [
             "N-1",
             "N-6",
-            "N-2278"
+            "N-1210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -250,7 +250,7 @@
           ],
           "related_nodes": [
             "N-6",
-            "N-2278"
+            "N-1210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -305,7 +305,7 @@
             "C-3509"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2336"
           ],
           "tags": [],
@@ -324,7 +324,7 @@
             "C-3509"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2336"
           ],
           "tags": [],
@@ -343,7 +343,7 @@
             "C-3509"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2336"
           ],
           "tags": [],
@@ -362,7 +362,7 @@
             "C-3509"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2336"
           ],
           "tags": [],
@@ -381,7 +381,7 @@
             "C-3509"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2336"
           ],
           "tags": [],
@@ -400,7 +400,7 @@
             "C-3509"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2336"
           ],
           "tags": [],
@@ -675,117 +675,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2275",
-      "ref": "N-2275",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Founder of Empress Films; named in Aug 28, 2025 call claim.",
-      "related_artifacts": [
-        "A-2402.1",
-        "A-2402.2",
-        "A-2402.3",
-        "A-2402.4",
-        "A-2402.5",
-        "A-2402.6"
-      ],
-      "related_claims": [
-        "C-3508",
-        "C-3509",
-        "C-3510"
-      ],
-      "tags": [],
-      "evidence_count": 6,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2334",
-        "N-2336"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2276",
-      "ref": "N-2276",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Executive producer at Empress Films (LA office; ex-Paramount Pictures); named in Aug 28, 2025 call claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3510"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2334",
-        "N-2336"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2277",
-      "ref": "N-2277",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Source in ABC News article on UVU event attendance figures.",
-      "related_artifacts": [
-        "A-2393.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2330"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2278",
-      "ref": "N-2278",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Politico author of Blake Neff profile; framed Neff's position as \"maximalist\" on free speech.",
-      "related_artifacts": [
-        "A-2400.2"
-      ],
-      "related_claims": [
-        "C-3505"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-6"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2279",
-      "ref": "N-2279",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Mentioned by host as discussion partner on Empress Films oddity. No artifact-anchored claims.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2334"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2330",
       "ref": "N-2330",
       "name": "UVU Ambulance Denial Discrepancy",
@@ -808,7 +697,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1031",
-        "N-2277"
+        "N-1209"
       ]
     },
     {
@@ -913,9 +802,9 @@
       "related_nodes": [
         "N-1031",
         "N-4",
-        "N-2275",
-        "N-2276",
-        "N-2279",
+        "N-1207",
+        "N-1208",
+        "N-1211",
         "N-2336"
       ]
     },
@@ -970,8 +859,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2275",
-        "N-2276",
+        "N-1207",
+        "N-1208",
         "N-2334"
       ]
     },
@@ -990,24 +879,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-53",
+      "ref": "N-53",
+      "name": "Brian Cole Jr.",
+      "type": "person",
+      "description": "Person Brian Cole Jr. (N-53).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-53",
-        "ref": "N-53",
-        "name": "Brian Cole Jr.",
-        "type": "person",
-        "description": "Person Brian Cole Jr. (N-53).",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1021,7 +909,6 @@
       "related_nodes": [
         "N-1031",
         "N-4",
-        "N-2277",
         "N-2330"
       ],
       "tags": [],
@@ -1201,7 +1088,7 @@
       "related_nodes": [
         "N-1",
         "N-6",
-        "N-2278"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:45:02",
@@ -1218,7 +1105,7 @@
       ],
       "related_nodes": [
         "N-6",
-        "N-2278"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:47:48",
@@ -1268,7 +1155,6 @@
       "claim": "Empress Films is a documentary company founded by Emma Cooper in 2020; Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary \"The Disappearance of Madeleine McCann.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2275",
         "N-2336"
       ],
       "tags": [],
@@ -1290,7 +1176,6 @@
         "A-2402.6"
       ],
       "related_nodes": [
-        "N-2275",
         "N-2336"
       ],
       "tags": [],
@@ -1307,8 +1192,6 @@
       "related_nodes": [
         "N-1031",
         "N-4",
-        "N-2275",
-        "N-2276",
         "N-2334"
       ],
       "tags": [],

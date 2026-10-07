@@ -978,24 +978,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-46",
-        "ref": "N-46",
-        "name": "Andrew Wilson",
-        "type": "person",
-        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1041,11 +1040,9 @@
         "A-2255.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1213"
-      ,
-            "N-46"
-          ],
+        "N-1213",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:12",
       "investigative_direction": "Verify funding source of the $300K offer; obtain any formal documentation or PR communications."
@@ -1060,12 +1057,10 @@
         "A-2255.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2",
-        "N-1213"
-      ,
-            "N-46"
-          ],
+        "N-1213",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:05:52",
       "investigative_direction": "Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses."
@@ -1080,13 +1075,11 @@
         "A-2255.3"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1213",
         "N-1",
-        "N-2"
-      ,
-            "N-46"
-          ],
+        "N-2",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:59",
       "investigative_direction": "Catalogue all Candace Owens public statements and shown evidence; evaluate the \"no evidence\" characterization against documented artifacts."
@@ -1101,11 +1094,9 @@
         "A-2256.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1210"
-      ,
-            "N-46"
-          ],
+        "N-1210",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson."
@@ -1120,11 +1111,9 @@
         "A-2257.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1211"
-      ,
-            "N-46"
-          ],
+        "N-1211",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns."
@@ -1139,11 +1128,9 @@
         "A-2258.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1215"
-      ,
-            "N-46"
-          ],
+        "N-1215",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:10:41–00:13:00",
       "investigative_direction": "Obtain full unedited debate recording to verify context and whether insults were reciprocated."
@@ -1158,7 +1145,6 @@
         "A-2259.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2186"
       ],
       "tags": [],
@@ -1175,7 +1161,6 @@
         "A-2259.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2186"
       ],
       "tags": [],
@@ -1192,7 +1177,6 @@
         "A-2259.4"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2186"
       ],
       "tags": [],
@@ -1229,7 +1213,6 @@
       "related_nodes": [
         "N-2187",
         "N-69",
-        "N-1208",
         "N-2186"
       ],
       "tags": [],
@@ -1377,8 +1360,7 @@
         "A-2265.1"
       ],
       "related_nodes": [
-        "N-2189",
-        "N-1208"
+        "N-2189"
       ],
       "tags": [],
       "claim_timestamp": "00:22:01–00:23:55",
@@ -1394,8 +1376,7 @@
         "A-2265.1"
       ],
       "related_nodes": [
-        "N-2189",
-        "N-1208"
+        "N-2189"
       ],
       "tags": [],
       "claim_timestamp": "00:23:55",
@@ -1411,8 +1392,7 @@
         "A-2266.1"
       ],
       "related_nodes": [
-        "N-2189",
-        "N-1208"
+        "N-2189"
       ],
       "tags": [],
       "claim_timestamp": "00:25:03–00:25:30",

@@ -32,7 +32,7 @@
             "C-3262"
           ],
           "related_nodes": [
-            "N-1025",
+            "N-2",
             "N-2190"
           ],
           "tags": [],
@@ -481,27 +481,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1025"
+        "N-2"
       ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1025",
-      "ref": "N-1025",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Subject of the \"Protect Erika Kirk\" group chat described in this episode. Also referenced in viewer comments and host framing.",
-      "related_artifacts": [
-        "A-2267.1",
-        "A-2273.3",
-        "A-2275.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -592,24 +573,23 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-46",
-        "ref": "N-46",
-        "name": "Andrew Wilson",
-        "type": "person",
-        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -744,8 +724,7 @@
       "claim": "The host describes a group chat of 92 individuals focused on monitoring and opposing Candace Owens's coverage, with toxic elements including interest in the host's residence and family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1025",
-        "N-1207"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:28:34",
@@ -761,9 +740,7 @@
         "A-2273.1",
         "A-2273.2"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:22",
       "investigative_direction": "Confirm identity through public records and account-history linkage."
@@ -777,9 +754,7 @@
       "anchored_artifacts": [
         "A-2273.3"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:27",
       "investigative_direction": "Obtain the underlying tweet-counter screenshot and verify date range and account identifier."
@@ -794,8 +769,7 @@
         "A-2273.3"
       ],
       "related_nodes": [
-        "N-1025",
-        "N-1207"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:34:13",
@@ -811,8 +785,8 @@
         "A-2274.1"
       ],
       "related_nodes": [
-            "N-46"
-          ],
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:39:29",
       "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in."
@@ -843,7 +817,7 @@
         "A-2275.2"
       ],
       "related_nodes": [
-        "N-1025"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:47:55",

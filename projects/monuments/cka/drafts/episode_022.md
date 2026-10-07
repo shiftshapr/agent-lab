@@ -420,7 +420,7 @@ Investigative Direction: Verify the FAA termination claim against Denver Center 
 Claim Timestamp: 00:12:53
 Claim: FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
 Anchored Artifacts: A-1292.1
-Related Nodes: N-50 (referenced as the Egyptian Air Force plane; tail SU-BTT), N-1270
+Related Nodes: N-50, N-1270
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
 **C-1533** SU-BTT three-year routing pattern

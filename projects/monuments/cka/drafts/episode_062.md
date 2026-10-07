@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-782, N-783, N-785, N-786, N-789, N-790, N-1509, N-1510, N-1511, N-1512, N-1513
-  - Reused Nodes Appearing: N-1007, N-37
+  - Reused Nodes Appearing: N-2, N-37
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -38,7 +38,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erica Kirk confirmed authenticity)
 
-*Related: C-2182, C-2183, N-1007, N-782, N-1509*
+*Related: C-2182, C-2183, N-2, N-782, N-1509*
 
 ---
 
@@ -167,20 +167,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1669.1, C-2182, N-1007, N-1509*
-
----
-
-**N-1007** Erica Kirk
-
-Referenced by host as confirming authenticity of A-1669.1; subject of Uber-driver conversation referenced in A-1675.1.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1669.1, A-1675.1, N-1510*
+*Related: A-1669.1, C-2182, N-2, N-1509*
 
 ---
 
@@ -206,7 +193,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-639, N-1007, N-1511, N-1512*
+*Related: A-1671.1, A-1671.2, C-2186, N-639, N-2, N-1511, N-1512*
 
 ---
 
@@ -310,7 +297,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-1007, N-42, N-789, N-790*
+*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-2, N-42, N-789, N-790*
 
 ---
 
@@ -386,7 +373,7 @@ Claim: Host states that Jaco Booyens and Erica Kirk can confirm the text message
 
 Anchored Artifacts: A-1669.1
 
-Related Nodes: N-782, N-1007, N-1
+Related Nodes: N-782, N-2, N-1
 
 Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host.
 

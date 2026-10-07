@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-10-06T19:45:00Z",
+  "updated": "2026-10-07T02:32:30Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432.",
-  "next_person_id": 432,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447.",
+  "next_person_id": 447,
   "next_investigation_id": 2371,
   "nodes": {
     "N-1": {
@@ -78,7 +78,9 @@
       "canonical_name": "Erika Kirk",
       "type": "person",
       "aliases": [
-        "Erika Kolfage"
+        "Erika Kolfage",
+        "Erica Kirk",
+        "Erika Kirk (name spelling uncertain \u2014 see Optional Flags)"
       ],
       "episodes": [
         1,
@@ -91,17 +93,57 @@
         8,
         9,
         10,
+        35,
+        42,
+        45,
         47,
+        51,
+        56,
+        62,
+        63,
+        69,
+        72,
         76,
         85,
+        92,
+        97,
+        129,
+        134,
+        135,
+        138,
+        140,
+        143,
         148,
+        150,
+        153,
+        156,
         157,
         158,
         159,
         160
       ],
       "retired_ids": [
-        "N-539"
+        "N-539",
+        "N-1001",
+        "N-1002",
+        "N-1004",
+        "N-1005",
+        "N-1006",
+        "N-1007",
+        "N-1008",
+        "N-1011",
+        "N-1012",
+        "N-1014",
+        "N-1016",
+        "N-1021",
+        "N-1022",
+        "N-1023",
+        "N-1024",
+        "N-1025",
+        "N-1026",
+        "N-1029",
+        "N-1030",
+        "N-1032"
       ]
     },
     "N-60": {
@@ -699,9 +741,18 @@
     "N-1079": {
       "canonical_name": "Federal Bureau of Investigation",
       "type": "organization",
-      "aliases": [],
+      "aliases": [
+        "FBI"
+      ],
       "episodes": [
-        2
+        2,
+        6,
+        7,
+        8,
+        9
+      ],
+      "retired_ids": [
+        "N-1137"
       ]
     },
     "N-1080": {
@@ -1602,17 +1653,6 @@
       "aliases": [],
       "episodes": [
         6
-      ]
-    },
-    "N-1137": {
-      "canonical_name": "FBI",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        6,
-        7,
-        8,
-        9
       ]
     },
     "N-1138": {
@@ -2544,9 +2584,15 @@
     "N-1197": {
       "canonical_name": "PragerU",
       "type": "organization",
-      "aliases": [],
+      "aliases": [
+        "Prager U"
+      ],
       "episodes": [
-        10
+        10,
+        47
+      ],
+      "retired_ids": [
+        "N-560"
       ]
     },
     "N-1198": {
@@ -2627,10 +2673,12 @@
       "aliases": [],
       "episodes": [
         11,
-        12
+        12,
+        143
       ],
       "retired_ids": [
-        "N-187"
+        "N-187",
+        "N-1027"
       ]
     },
     "N-177": {
@@ -2723,7 +2771,16 @@
         145,
         146,
         147,
-        150
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "retired_ids": [
+        "N-2275"
       ]
     },
     "N-1208": {
@@ -2776,7 +2833,15 @@
         145,
         146,
         147,
-        150
+        150,
+        151,
+        152,
+        154,
+        155,
+        156
+      ],
+      "retired_ids": [
+        "N-2276"
       ]
     },
     "N-1209": {
@@ -2827,7 +2892,16 @@
         145,
         146,
         147,
-        150
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "retired_ids": [
+        "N-2277"
       ]
     },
     "N-1210": {
@@ -2878,7 +2952,15 @@
         144,
         145,
         146,
-        150
+        150,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "retired_ids": [
+        "N-2278"
       ]
     },
     "N-1211": {
@@ -2929,7 +3011,13 @@
         145,
         146,
         147,
-        150
+        150,
+        152,
+        154,
+        155
+      ],
+      "retired_ids": [
+        "N-2279"
       ]
     },
     "N-183": {
@@ -3005,7 +3093,12 @@
         145,
         146,
         147,
-        150
+        150,
+        152,
+        155
+      ],
+      "retired_ids": [
+        "N-2280"
       ]
     },
     "N-1213": {
@@ -3045,7 +3138,12 @@
         145,
         146,
         147,
-        150
+        150,
+        152,
+        155
+      ],
+      "retired_ids": [
+        "N-2281"
       ]
     },
     "N-1214": {
@@ -3084,7 +3182,12 @@
         145,
         146,
         147,
-        150
+        150,
+        152,
+        155
+      ],
+      "retired_ids": [
+        "N-2282"
       ]
     },
     "N-1215": {
@@ -3120,7 +3223,12 @@
         144,
         145,
         147,
-        150
+        150,
+        152,
+        155
+      ],
+      "retired_ids": [
+        "N-2283"
       ]
     },
     "N-1216": {
@@ -3153,7 +3261,12 @@
         142,
         144,
         145,
-        147
+        147,
+        152,
+        155
+      ],
+      "retired_ids": [
+        "N-2284"
       ]
     },
     "N-1217": {
@@ -3186,7 +3299,11 @@
         142,
         144,
         145,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2285"
       ]
     },
     "N-191": {
@@ -3293,7 +3410,11 @@
         137,
         142,
         145,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2286"
       ]
     },
     "N-1219": {
@@ -3318,7 +3439,11 @@
         130,
         142,
         145,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2287"
       ]
     },
     "N-1220": {
@@ -3341,7 +3466,11 @@
         130,
         142,
         145,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2288"
       ]
     },
     "N-1221": {
@@ -3362,7 +3491,11 @@
         128,
         130,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2289"
       ]
     },
     "N-1222": {
@@ -3380,7 +3513,11 @@
         128,
         130,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2290"
       ]
     },
     "N-1223": {
@@ -3398,7 +3535,11 @@
         128,
         130,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2291"
       ]
     },
     "N-202": {
@@ -3493,7 +3634,11 @@
         121,
         128,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2292"
       ]
     },
     "N-1225": {
@@ -3508,7 +3653,11 @@
         102,
         128,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2293"
       ]
     },
     "N-1226": {
@@ -3522,7 +3671,11 @@
         97,
         128,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2294"
       ]
     },
     "N-1227": {
@@ -3535,7 +3688,11 @@
         97,
         128,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2295"
       ]
     },
     "N-1228": {
@@ -3547,7 +3704,11 @@
         90,
         97,
         142,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2296"
       ]
     },
     "N-1229": {
@@ -3558,7 +3719,11 @@
         15,
         90,
         97,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2297"
       ]
     },
     "N-1230": {
@@ -3568,7 +3733,11 @@
       "episodes": [
         15,
         90,
-        147
+        147,
+        152
+      ],
+      "retired_ids": [
+        "N-2298"
       ]
     },
     "N-1231": {
@@ -3577,7 +3746,11 @@
       "aliases": [],
       "episodes": [
         15,
-        90
+        90,
+        152
+      ],
+      "retired_ids": [
+        "N-2299"
       ]
     },
     "N-1232": {
@@ -3586,7 +3759,11 @@
       "aliases": [],
       "episodes": [
         15,
-        90
+        90,
+        152
+      ],
+      "retired_ids": [
+        "N-2300"
       ]
     },
     "N-1233": {
@@ -4533,14 +4710,6 @@
         23
       ]
     },
-    "N-317": {
-      "canonical_name": "Node 317",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        24
-      ]
-    },
     "N-311": {
       "canonical_name": "Michael Starr",
       "type": "person",
@@ -5167,14 +5336,6 @@
         30
       ]
     },
-    "N-391": {
-      "canonical_name": "Node 391",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        31
-      ]
-    },
     "N-1318": {
       "canonical_name": "Node 1318",
       "type": "topic",
@@ -5351,14 +5512,6 @@
         33
       ]
     },
-    "N-409": {
-      "canonical_name": "Flock (Automated License Plate Reader Company)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        33
-      ]
-    },
     "N-410": {
       "canonical_name": "Terrell Farnsworth",
       "type": "person",
@@ -5446,70 +5599,6 @@
         33
       ]
     },
-    "N-415": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-416": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-417": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-418": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-419": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-420": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-421": {
-      "canonical_name": "White 2025 Toyota Camry \u2014 Arizona plate CWN-N9872",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
-    "N-422": {
-      "canonical_name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        34
-      ]
-    },
     "N-1330": {
       "canonical_name": "Duncan Aviation Egyptian Rental Vehicle Network",
       "type": "topic",
@@ -5556,38 +5645,6 @@
       "aliases": [],
       "episodes": [
         34
-      ]
-    },
-    "N-429": {
-      "canonical_name": "Insider Email Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        35
-      ]
-    },
-    "N-430": {
-      "canonical_name": "Insider Email Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        35
-      ]
-    },
-    "N-431": {
-      "canonical_name": "Insider Email Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        35
-      ]
-    },
-    "N-1001": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        35
       ]
     },
     "N-423": {
@@ -5751,30 +5808,6 @@
       "episodes": [
         36,
         157
-      ]
-    },
-    "N-448": {
-      "canonical_name": "Node 448",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        37
-      ]
-    },
-    "N-449": {
-      "canonical_name": "Operation Valhalla Press Release Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        37
-      ]
-    },
-    "N-450": {
-      "canonical_name": "Node 450",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        37
       ]
     },
     "N-439": {
@@ -6151,14 +6184,6 @@
         38
       ]
     },
-    "N-465": {
-      "canonical_name": "Vanity Fair Article Bundle (DuPont Heir)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        39
-      ]
-    },
     "N-462": {
       "canonical_name": "Charles Joseph Bonaparte",
       "type": "person",
@@ -6408,30 +6433,6 @@
         41
       ]
     },
-    "N-495": {
-      "canonical_name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        42
-      ]
-    },
-    "N-496": {
-      "canonical_name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        42
-      ]
-    },
-    "N-1002": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        42
-      ]
-    },
     "N-490": {
       "canonical_name": "Jacob Kasparian",
       "type": "person",
@@ -6510,54 +6511,6 @@
       "aliases": [],
       "episodes": [
         42
-      ]
-    },
-    "N-504": {
-      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-505": {
-      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-506": {
-      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-508": {
-      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-509": {
-      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-513": {
-      "canonical_name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
       ]
     },
     "N-499": {
@@ -6807,14 +6760,6 @@
         44
       ]
     },
-    "N-1004": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        45
-      ]
-    },
     "N-527": {
       "canonical_name": "Mark",
       "type": "person",
@@ -6960,14 +6905,6 @@
     },
     "N-559": {
       "canonical_name": "New York Post",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-560": {
-      "canonical_name": "PragerU",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7206,14 +7143,6 @@
         47
       ]
     },
-    "N-595": {
-      "canonical_name": "Andrew Colberg X Post Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        48
-      ]
-    },
     "N-590": {
       "canonical_name": "Andrew Colberg",
       "type": "person",
@@ -7435,14 +7364,6 @@
         50
       ]
     },
-    "N-1005": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
     "N-614": {
       "canonical_name": "Hunter Cosgrove (UVU student)",
       "type": "person",
@@ -7626,14 +7547,6 @@
         52
       ]
     },
-    "N-649": {
-      "canonical_name": "Node 649",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        53
-      ]
-    },
     "N-640": {
       "canonical_name": "Maggie Wagner",
       "type": "person",
@@ -7761,30 +7674,6 @@
       "aliases": [],
       "episodes": [
         53
-      ]
-    },
-    "N-691": {
-      "canonical_name": "Node 691",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        54
-      ]
-    },
-    "N-692": {
-      "canonical_name": "Node 692",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        54
-      ]
-    },
-    "N-693": {
-      "canonical_name": "Node 693",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        54
       ]
     },
     "N-653": {
@@ -7967,14 +7856,6 @@
         54
       ]
     },
-    "N-705": {
-      "canonical_name": "Text message from Candace Owens to Andrew Kolbett described Charlie Kirk dream stating he was betrayed and Andrew knew m",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        55
-      ]
-    },
     "N-696": {
       "canonical_name": "Johnny Moore",
       "type": "person",
@@ -8096,22 +7977,6 @@
         55
       ]
     },
-    "N-717": {
-      "canonical_name": "Node 717",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        56
-      ]
-    },
-    "N-1006": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        56
-      ]
-    },
     "N-706": {
       "canonical_name": "Alton C. Jennings",
       "type": "person",
@@ -8216,38 +8081,6 @@
         56
       ]
     },
-    "N-722": {
-      "canonical_name": "Node 722",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        57
-      ]
-    },
-    "N-723": {
-      "canonical_name": "Node 723",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        57
-      ]
-    },
-    "N-725": {
-      "canonical_name": "Node 725",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        57
-      ]
-    },
-    "N-728": {
-      "canonical_name": "Be Inspired YouTube Channel Clip Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        57
-      ]
-    },
     "N-720": {
       "canonical_name": "Bill Wood",
       "type": "person",
@@ -8324,22 +8157,6 @@
       "aliases": [],
       "episodes": [
         57
-      ]
-    },
-    "N-739": {
-      "canonical_name": "Node 739",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
-      ]
-    },
-    "N-742": {
-      "canonical_name": "Node 742",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
       ]
     },
     "N-729": {
@@ -8746,14 +8563,6 @@
         61
       ]
     },
-    "N-1007": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        62
-      ]
-    },
     "N-782": {
       "canonical_name": "Jaco Booyens",
       "type": "person",
@@ -8862,14 +8671,6 @@
         62
       ]
     },
-    "N-1008": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        63
-      ]
-    },
     "N-792": {
       "canonical_name": "Justin (TPUSA COO)",
       "type": "person",
@@ -8966,22 +8767,6 @@
       "aliases": [],
       "episodes": [
         64
-      ]
-    },
-    "N-804": {
-      "canonical_name": "Piers Morgan Show Clip Bundle (Bassem Youssef appearance)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        65
-      ]
-    },
-    "N-816": {
-      "canonical_name": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        65
       ]
     },
     "N-798": {
@@ -9144,14 +8929,6 @@
         65
       ]
     },
-    "N-828": {
-      "canonical_name": "Node 828",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        66
-      ]
-    },
     "N-817": {
       "canonical_name": "Dr. Allen Wolft",
       "type": "person",
@@ -9238,118 +9015,6 @@
       "aliases": [],
       "episodes": [
         66
-      ]
-    },
-    "N-831": {
-      "canonical_name": "Node 831",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-832": {
-      "canonical_name": "Node 832",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-861": {
-      "canonical_name": "Node 861",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-863": {
-      "canonical_name": "Node 863",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-864": {
-      "canonical_name": "Node 864",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-865": {
-      "canonical_name": "Node 865",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-866": {
-      "canonical_name": "Node 866",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-868": {
-      "canonical_name": "Node 868",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-869": {
-      "canonical_name": "Node 869",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-870": {
-      "canonical_name": "Node 870",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-871": {
-      "canonical_name": "Node 871",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-872": {
-      "canonical_name": "Node 872",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-873": {
-      "canonical_name": "Node 873",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-875": {
-      "canonical_name": "Freud-to-Fliess Letter Quotation Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
       ]
     },
     "N-830": {
@@ -9721,22 +9386,6 @@
         68
       ]
     },
-    "N-901": {
-      "canonical_name": "Epstein 23andMe Email Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        69
-      ]
-    },
-    "N-1011": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        69
-      ]
-    },
     "N-890": {
       "canonical_name": "Tracy Martin",
       "type": "person",
@@ -9980,86 +9629,6 @@
         71
       ]
     },
-    "N-911": {
-      "canonical_name": "NY Real Estate License Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-912": {
-      "canonical_name": "NY Real Estate License Bundle",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-924": {
-      "canonical_name": "Node 924",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-925": {
-      "canonical_name": "Node 925",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-927": {
-      "canonical_name": "Node 927",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-928": {
-      "canonical_name": "Node 928",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-930": {
-      "canonical_name": "Node 930",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-931": {
-      "canonical_name": "Node 931",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-932": {
-      "canonical_name": "Node 932",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-1012": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
     "N-916": {
       "canonical_name": "Lynn Forester de Rothschild (a/k/a Lindy Rothschild)",
       "type": "person",
@@ -10130,14 +9699,6 @@
       "aliases": [],
       "episodes": [
         72
-      ]
-    },
-    "N-939": {
-      "canonical_name": "Node 939",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        73
       ]
     },
     "N-936": {
@@ -10528,38 +10089,6 @@
         77
       ]
     },
-    "N-976": {
-      "canonical_name": "Node 976",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
-    "N-980": {
-      "canonical_name": "Node 980",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
-    "N-983": {
-      "canonical_name": "Node 983",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
-    "N-984": {
-      "canonical_name": "Node 984",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
     "N-968": {
       "canonical_name": "Thomas Massie",
       "type": "person",
@@ -10694,22 +10223,6 @@
       "aliases": [],
       "episodes": [
         78
-      ]
-    },
-    "N-986": {
-      "canonical_name": "Node 986",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
-      ]
-    },
-    "N-987": {
-      "canonical_name": "Node 987",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
       ]
     },
     "N-5": {
@@ -11343,14 +10856,6 @@
         91
       ]
     },
-    "N-1014": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        92
-      ]
-    },
     "N-4": {
       "canonical_name": "JD Vance",
       "type": "person",
@@ -11636,14 +11141,6 @@
         96
       ]
     },
-    "N-29": {
-      "canonical_name": "Node 29",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        96
-      ]
-    },
     "N-32": {
       "canonical_name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
       "type": "person",
@@ -11654,22 +11151,6 @@
     },
     "N-33": {
       "canonical_name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        96
-      ]
-    },
-    "N-34": {
-      "canonical_name": "Node 34",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        96
-      ]
-    },
-    "N-39": {
-      "canonical_name": "Node 39",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -11722,14 +11203,6 @@
       "aliases": [],
       "episodes": [
         96
-      ]
-    },
-    "N-1016": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        97
       ]
     },
     "N-1718": {
@@ -11941,22 +11414,6 @@
       "aliases": [],
       "episodes": [
         102
-      ]
-    },
-    "N-21": {
-      "canonical_name": "Node 21",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107
-      ]
-    },
-    "N-25": {
-      "canonical_name": "Node 25",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107
       ]
     },
     "N-1017": {
@@ -12738,14 +12195,6 @@
         128
       ]
     },
-    "N-1021": {
-      "canonical_name": "Erika Kirk (name spelling uncertain \u2014 see Optional Flags)",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        129
-      ]
-    },
     "N-2139": {
       "canonical_name": "SUV Interior Anomaly",
       "type": "topic",
@@ -12898,14 +12347,6 @@
         133
       ]
     },
-    "N-1022": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        134
-      ]
-    },
     "N-2158": {
       "canonical_name": "Kirk Burial / Cremation Status",
       "type": "topic",
@@ -12952,14 +12393,6 @@
       "aliases": [],
       "episodes": [
         134
-      ]
-    },
-    "N-1023": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        135
       ]
     },
     "N-2164": {
@@ -13082,14 +12515,6 @@
         137
       ]
     },
-    "N-1024": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        138
-      ]
-    },
     "N-2179": {
       "canonical_name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
       "type": "topic",
@@ -13176,14 +12601,6 @@
       "aliases": [],
       "episodes": [
         139
-      ]
-    },
-    "N-1025": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        140
       ]
     },
     "N-2190": {
@@ -13320,22 +12737,6 @@
       "aliases": [],
       "episodes": [
         142
-      ]
-    },
-    "N-1026": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        143
-      ]
-    },
-    "N-1027": {
-      "canonical_name": "Mike Mitchell",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        143
       ]
     },
     "N-2207": {
@@ -13506,100 +12907,6 @@
         148
       ]
     },
-    "N-2256": {
-      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        149
-      ]
-    },
-    "N-2257": {
-      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        149
-      ]
-    },
-    "N-2258": {
-      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        149
-      ]
-    },
-    "N-2259": {
-      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        149
-      ]
-    },
-    "N-2260": {
-      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        149
-      ]
-    },
-    "N-2261": {
-      "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        149
-      ]
-    },
-    "N-1029": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        150
-      ]
-    },
-    "N-2275": {
-      "canonical_name": "Mike Mitchell Public Record Anomaly",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        151,
-        152,
-        153,
-        154,
-        155,
-        156
-      ]
-    },
-    "N-2276": {
-      "canonical_name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        151,
-        152,
-        154,
-        155,
-        156
-      ]
-    },
-    "N-2277": {
-      "canonical_name": "Robinson Apartment Staging Allegation",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        151,
-        152,
-        153,
-        154,
-        155,
-        156
-      ]
-    },
     "N-2317": {
       "canonical_name": "Statue Vandalism Investigation",
       "type": "topic",
@@ -13632,201 +12939,6 @@
         151
       ]
     },
-    "N-2278": {
-      "canonical_name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        153,
-        154,
-        155,
-        156
-      ]
-    },
-    "N-2279": {
-      "canonical_name": "UVU Campus Familiarity Question",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        154,
-        155
-      ]
-    },
-    "N-2280": {
-      "canonical_name": "Phil Lyman Location Discrepancy",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        155
-      ]
-    },
-    "N-2281": {
-      "canonical_name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        155
-      ]
-    },
-    "N-2282": {
-      "canonical_name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        155
-      ]
-    },
-    "N-2283": {
-      "canonical_name": "Hospital Routing Discrepancy",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        155
-      ]
-    },
-    "N-2284": {
-      "canonical_name": "Utah FBI Personnel Replacement",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152,
-        155
-      ]
-    },
-    "N-2285": {
-      "canonical_name": "Mike Mitchell Undercover Role Verification",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2286": {
-      "canonical_name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2287": {
-      "canonical_name": "\"Robbie Hild\" Identity Verification",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2288": {
-      "canonical_name": "Case-Personnel Cluster Anomalies",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2289": {
-      "canonical_name": "Autopsy Record \u2013 Utah Privacy Statute Application",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2290": {
-      "canonical_name": "Hospital Routing Anomaly",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2291": {
-      "canonical_name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2292": {
-      "canonical_name": "ADL\u2013FBI Partnership Structure",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2293": {
-      "canonical_name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2294": {
-      "canonical_name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2295": {
-      "canonical_name": "Witness and Public-Figure Demeanor Anomalies",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2296": {
-      "canonical_name": "SD Card Removal Narrative Discrepancy",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2297": {
-      "canonical_name": "Pre-Assassination Group Chat Content",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2298": {
-      "canonical_name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2299": {
-      "canonical_name": "Campus Footage Release Strategy Question",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
-    "N-2300": {
-      "canonical_name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        152
-      ]
-    },
     "N-2321": {
       "canonical_name": "Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
       "type": "topic",
@@ -13841,14 +12953,6 @@
       "aliases": [],
       "episodes": [
         152
-      ]
-    },
-    "N-1030": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        153
       ]
     },
     "N-2323": {
@@ -14006,14 +13110,6 @@
       "aliases": [],
       "episodes": [
         155
-      ]
-    },
-    "N-1032": {
-      "canonical_name": "Erica Kirk",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        156
       ]
     },
     "N-2341": {
@@ -14717,6 +13813,26 @@
       "aliases": [],
       "episodes": [
         160
+      ]
+    },
+    "N-432": {
+      "canonical_name": "Derek Pepper Williams",
+      "type": "person",
+      "aliases": [
+        "Pepper Williams",
+        "Derek Pepper",
+        "Chester Barnes"
+      ],
+      "episodes": [
+        149
+      ],
+      "retired_ids": [
+        "N-2256",
+        "N-2257",
+        "N-2258",
+        "N-2259",
+        "N-2260",
+        "N-2261"
       ]
     }
   }

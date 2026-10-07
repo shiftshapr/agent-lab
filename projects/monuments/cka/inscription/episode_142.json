@@ -1126,24 +1126,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-46",
-        "ref": "N-46",
-        "name": "Andrew Wilson",
-        "type": "person",
-        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1155,7 +1154,6 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2196",
         "N-2197"
       ],
@@ -1173,7 +1171,6 @@
         "A-2284.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2196"
       ],
       "tags": [],
@@ -1190,8 +1187,6 @@
         "A-2285.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-2197"
       ],
       "tags": [],
@@ -1226,7 +1221,6 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1207",
         "N-1228"
       ],
       "tags": [],
@@ -1243,7 +1237,6 @@
         "A-2284.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2199"
       ],
       "tags": [],
@@ -1260,7 +1253,6 @@
         "A-2288.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2200"
       ],
       "tags": [],
@@ -1331,7 +1323,6 @@
         "A-2288.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2200"
       ],
       "tags": [],

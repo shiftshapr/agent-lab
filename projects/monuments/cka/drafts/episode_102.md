@@ -602,7 +602,7 @@ Claim: Andrew Kolvet publicly denied divorce rumors via X post, telling Project 
 
 Anchored Artifacts: A-2063.1
 
-Related Nodes: N-1207, N-1210, N-2065
+Related Nodes: N-1210, N-2065
 
 Investigative Direction: Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records.
 
@@ -616,7 +616,7 @@ Claim: An X account identifying as Project Constitution reported that Andrew Kol
 
 Anchored Artifacts: A-2062.1
 
-Related Nodes: N-1210, N-1207, N-2065
+Related Nodes: N-1210, N-2065
 
 Investigative Direction: Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis.
 
@@ -630,7 +630,7 @@ Claim: Tyler Bowyer publicly stated he has had "numerous things like this said a
 
 Anchored Artifacts: A-2064.1
 
-Related Nodes: N-70, N-1207, N-2065, N-37
+Related Nodes: N-70, N-2065, N-37
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 
@@ -644,7 +644,7 @@ Claim: Blake Neff publicly disputed the implication that Andrew Kolvet's wife wa
 
 Anchored Artifacts: A-2065.1
 
-Related Nodes: N-1209, N-1207, N-2065
+Related Nodes: N-2065
 
 Investigative Direction: Verify the original post; check WHCD invitation lists if publicly available.
 
@@ -658,7 +658,7 @@ Claim: Per Candace, donors who were present at the Aspen event assert that the T
 
 Anchored Artifacts: A-2066.1, A-2066.2, A-2069.1
 
-Related Nodes: N-1, N-2, N-1209, N-1214, N-2061
+Related Nodes: N-1, N-2, N-1214, N-2061
 
 Investigative Direction: Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip.
 
@@ -884,7 +884,7 @@ Claim: A photograph allegedly depicting Erika Kirk with her children at Fort Hua
 
 Anchored Artifacts: A-2075.2
 
-Related Nodes: N-1207, N-1218, N-2063
+Related Nodes: N-1218, N-2063
 
 Investigative Direction: Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.
 
@@ -898,7 +898,7 @@ Claim: Paramount Tactical admitted over the weekend that the boy depicted in the
 
 Anchored Artifacts: A-2075.3
 
-Related Nodes: N-1224, N-1207, N-1218, N-2063
+Related Nodes: N-1224, N-1218, N-2063
 
 Investigative Direction: Locate Paramount Tactical's specific admission statement; identify the actual child in the photo.
 
@@ -912,7 +912,7 @@ Claim: Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical
 
 Anchored Artifacts: A-2075.2, A-2075.3
 
-Related Nodes: N-1207, N-1218, N-1224, N-1225, N-2063
+Related Nodes: N-1218, N-1224, N-1225, N-2063
 
 Investigative Direction: Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.
 
@@ -926,7 +926,7 @@ Claim: During Candace's private interview with Erika Kirk, Erika volunteered Bri
 
 Anchored Artifacts: A-2075.1
 
-Related Nodes: N-1218, N-2, N-1207, N-2063
+Related Nodes: N-1218, N-2063
 
 Investigative Direction: Obtain Candace's documented record of the interview; verify the flight records independently.
 

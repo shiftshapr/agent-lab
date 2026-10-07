@@ -469,66 +469,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-976",
-      "ref": "N-976",
-      "name": "Node 976",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-980",
-      "ref": "N-980",
-      "name": "Node 980",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-983",
-      "ref": "N-983",
-      "name": "Node 983",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-984",
-      "ref": "N-984",
-      "name": "Node 984",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-968",
       "ref": "N-968",
       "name": "Thomas Massie",
@@ -1067,11 +1007,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-1604",
-        "N-976",
-        "N-980",
-        "N-983",
-        "N-984"
+        "N-1604"
       ],
       "tags": [],
       "claim_timestamp": "00:03:07",

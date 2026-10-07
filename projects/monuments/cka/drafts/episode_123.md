@@ -361,7 +361,7 @@ Claim Timestamp: 00:06:11–00:17:00
 Claim: Photographs of the vehicle interior show black tempered shattered glass particles concentrated between the front captain chairs, in the area corresponding to Charlie Kirk's chest position, consistent with the host's identification of a broken road/lapel microphone.
 
 Anchored Artifacts: A-2110.3, A-2111.4
-Related Nodes: N-1207, N-1208, N-1212, N-2103
+Related Nodes: N-1212, N-2103
 Investigative Direction: Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.
 
 ---
@@ -373,7 +373,7 @@ Claim Timestamp: 00:06:11
 Claim: Photo 1 shows an Uber-style paper bag with blood marks in the back seat of the vehicle.
 
 Anchored Artifacts: A-2110.1, A-2111.2
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Obtain original high-resolution image; have forensic analyst examine blood pattern and origin.
 
 ---
@@ -385,7 +385,7 @@ Claim Timestamp: 00:06:11
 Claim: A hanger is visible in Photo 1; the host infers it is connected to the sports coat Charlie Kirk was not wearing at the event.
 
 Anchored Artifacts: A-2110.1
-Related Nodes: N-1207, N-1, N-2104
+Related Nodes: N-1, N-2104
 Investigative Direction: Identify hanger; trace jacket chain of custody (see N-2104).
 
 ---
@@ -397,7 +397,7 @@ Claim Timestamp: 00:07:01
 Claim: Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.
 
 Anchored Artifacts: None (verbally referenced but not shown)
-Related Nodes: N-1, N-2, N-1207, N-2104
+Related Nodes: N-1, N-2104
 Investigative Direction: Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return.
 
 ---
@@ -409,7 +409,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Photos show a piece of cardboard-colored, thicker material with brown/burnt appearance, separated from the Uber bags.
 
 Anchored Artifacts: A-2110.2, A-2111.1
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 Investigative Direction: Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other.
 
 ---
@@ -421,7 +421,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Photos show a foil-like, coppery material under the floor mat. Viewer suggestions include emergency/hypothermia blanket.
 
 Anchored Artifacts: A-2110.4, A-2111.3
-Related Nodes: N-1208
+Related Nodes: 
 Investigative Direction: Obtain higher-resolution images; compare to medical emergency blanket specifications.
 
 ---
@@ -433,7 +433,7 @@ Claim Timestamp: 00:15:10
 Claim: A viewer identified the medical bag visible in the photo as a SantaMedical.com product, consistent with equipment Brian Harpole described traveling with Charlie.
 
 Anchored Artifacts: A-2110.2, A-2114.1
-Related Nodes: N-1208, N-1219
+Related Nodes: N-1219
 Investigative Direction: Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.
 
 ---
@@ -445,7 +445,7 @@ Claim Timestamp: 00:33:10
 Claim: A viral clip shows Mikey McCoy appearing physically ill and holding his stomach as Charlie's casket was carried out of the hospital.
 
 Anchored Artifacts: A-2112
-Related Nodes: N-1209
+Related Nodes: 
 Investigative Direction: Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as "amazing" and "snapping into action."
 
 ---
@@ -457,7 +457,7 @@ Claim Timestamp: 00:06:00–00:19:30
 Claim: Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
-Related Nodes: N-1207, N-1208, N-2103, N-1212
+Related Nodes: N-2103, N-1212
 Investigative Direction: Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.
 
 ---
@@ -469,7 +469,7 @@ Claim Timestamp: 00:33:10
 Claim: A viewer sent photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read "Don't worry, your big sister can figure out what happened."
 
 Anchored Artifacts: None (verbally referenced but not shown — flagged for verification)
-Related Nodes: N-2107 (new target — TPUSA Memorial Surveillance; could be added but flag first)
+Related Nodes: N-2107
 Investigative Direction: Obtain original photos from viewer; identify date and location; verify TPUSA staff involvement.
 
 ---
@@ -493,7 +493,7 @@ Claim Timestamp: 00:50:36
 Claim: Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.
 
 Anchored Artifacts: A-2114.2
-Related Nodes: N-1208, N-1216, N-2106
+Related Nodes: N-1216, N-2106
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 
 ---
@@ -517,7 +517,7 @@ Claim Timestamp: 00:29:24
 Claim: The host states she is "in the process of securing more photos" beyond the four shown.
 
 Anchored Artifacts: None (forward-looking statement)
-Related Nodes: None
+Related Nodes: 
 Investigative Direction: Track for future episode disclosures; verify provenance of any additional photos when released.
 
 ---

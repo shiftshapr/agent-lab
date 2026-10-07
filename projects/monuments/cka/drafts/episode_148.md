@@ -32,8 +32,8 @@
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
 - Claim Range: C-3393–C-3405
   - New Nodes Introduced: N-11
-  - Reused Nodes Appearing: N-1, N-2, N-4, N-5, N-6, N-1028, N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19, N-34, N-21
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-1028 Candace Owens, N-4 Blake Neff, N-5 Kanye West (Ye), N-6 Kim Kardashian, N-1028 Usha Vance, N-8 New York Times, N-9 Deseret News, N-10 Turning Point USA (TPUSA), N-11 Danny Philip, N-12 Frank Turek, N-13 Andrew Kolb, N-14 Andrew Cooper, N-15 Tulsi Gabbard, N-16 JD Vance, N-42 Josh Hammer, N-18 Salem Media, N-19 Brad Parscale, N-34 Ebro Darden, N-21 Rabbi Wolicki
+  - Reused Nodes Appearing: N-1, N-2, N-4, N-5, N-6, N-1028, N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-1028 Candace Owens, N-4 Blake Neff, N-5 Kanye West (Ye), N-6 Kim Kardashian, N-1028 Usha Vance, N-8 New York Times, N-9 Deseret News, N-10 Turning Point USA (TPUSA), N-11 Danny Philip, N-12 Frank Turek, N-13 Andrew Kolb, N-14 Andrew Cooper, N-15 Tulsi Gabbard, N-16 JD Vance, N-42 Josh Hammer, N-18 Salem Media, N-19 Brad Parscale,  Ebro Darden,  Rabbi Wolicki
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:28:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1028, N-5, N-34*
+*Related: N-1028, N-5, *
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-12, N-42, N-21, N-15*
+*Related: N-12, N-42, N-15*
 
 **A-2350.3** Ali Comment on Andrew Kolb and Fireworks / Sparkling Pantsuit
 

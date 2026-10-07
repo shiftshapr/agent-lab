@@ -638,7 +638,7 @@ Claim: The episode presents a recording in which Tyler Robinson's grandfather st
 
 Anchored Artifacts: A-1993.1
 
-Related Nodes: N-1207, N-1707
+Related Nodes: N-1707
 
 Investigative Direction: Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions.
 
@@ -652,7 +652,7 @@ Claim: The grandfather states his father (Tyler Robinson's great-grandfather) wa
 
 Anchored Artifacts: A-1993.1
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Verify great-grandfather's law enforcement service in the relevant town and the claimed ballistics instruction.
 
@@ -666,7 +666,7 @@ Claim: The grandfather asserts a .30-06 round would not have produced the wound 
 
 Anchored Artifacts: A-1993.1
 
-Related Nodes: N-1207, N-1707
+Related Nodes: N-1707
 
 Investigative Direction: Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile.
 
@@ -680,7 +680,7 @@ Claim: Defense attorney Richard Novak states the defense has not received the da
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1208, N-1210, N-1698, N-1699
+Related Nodes: N-1210, N-1698, N-1699
 
 Investigative Direction: Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.
 
@@ -694,7 +694,7 @@ Claim: Novak states the defense has DNA reports from September 2025 that Mr. Gra
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1208, N-1211, N-1698
+Related Nodes: N-1211, N-1698
 
 Investigative Direction: Request the September 2025 DNA reports via public records or docket inspection.
 
@@ -708,7 +708,7 @@ Claim: Defense attorney Kathy Nester states she has not been able to look at her
 
 Anchored Artifacts: A-1994.2
 
-Related Nodes: N-1209, N-1217, N-1698
+Related Nodes: N-1217, N-1698
 
 Investigative Direction: Verify chain of custody and forensic examination status of Tyler Robinson's phone.
 
@@ -722,7 +722,7 @@ Claim: Defense attorney Kathy Nester states the defense has never physically see
 
 Anchored Artifacts: A-1994.2
 
-Related Nodes: N-1209, N-1699
+Related Nodes: N-1699
 
 Investigative Direction: Confirm physical location of the firearm and whether defense examination has occurred as of case docket.
 
@@ -736,7 +736,7 @@ Claim: Nester states the firearm is held at Quantico, Virginia.
 
 Anchored Artifacts: A-1994.2
 
-Related Nodes: N-1209, N-1699
+Related Nodes: N-1699
 
 Investigative Direction: Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.
 
@@ -750,7 +750,7 @@ Claim: The prosecution reportedly plans to present 35 exhibits at the probable c
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1208, N-1700
+Related Nodes: N-1700
 
 Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
@@ -764,7 +764,7 @@ Claim: Donald Trump posted on Truth Social stating that Candace Owens, Megyn Kel
 
 Anchored Artifacts: A-1995.1
 
-Related Nodes: (Trump — existing)
+Related Nodes: 
 
 Investigative Direction: Verify post directly on Truth Social; note timestamp and any subsequent deletions.
 
@@ -778,7 +778,7 @@ Claim: A follow-up Trump Truth Social post refers to Candace Owens as mentally i
 
 Anchored Artifacts: A-1995.2
 
-Related Nodes: (Trump — existing)
+Related Nodes: 
 
 Investigative Direction: Locate and verify the exact second post on Truth Social.
 
@@ -960,7 +960,7 @@ Claim: A YouTube commenter (SpidyBear3995) asserts that Charlie Kirk told multip
 
 Anchored Artifacts: A-2005.1
 
-Related Nodes: (Charlie Kirk — existing)
+Related Nodes: 
 
 Investigative Direction: Cross-reference with prior episodes where similar claims have been made; corroborate via documentary sources.
 

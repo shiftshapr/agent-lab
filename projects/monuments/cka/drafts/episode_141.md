@@ -347,7 +347,7 @@ Claim: Andrew Wilson's debate opening statement was read aloud from a mobile pho
 
 Anchored Artifacts: A-2277.1
 
-Related Nodes: N-1207, N-2193, N-2194, N-46
+Related Nodes: N-2193, N-2194, N-46
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -359,7 +359,7 @@ Claim: When asked by the moderator for a 0–100 estimate of the likelihood that
 
 Anchored Artifacts: A-2277.2
 
-Related Nodes: N-1207, N-46
+Related Nodes: N-46
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
@@ -371,7 +371,7 @@ Claim: When challenged during the debate to name any of the seven charges Tyler 
 
 Anchored Artifacts: A-2277.4
 
-Related Nodes: N-1207, N-46
+Related Nodes: N-46
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
 
@@ -383,7 +383,7 @@ Claim: Throughout the debate, Andrew Wilson repeated the phrase "positive eviden
 
 Anchored Artifacts: A-2277.3
 
-Related Nodes: N-1207, N-46
+Related Nodes: N-46
 
 Investigative Direction: Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).
 
@@ -395,7 +395,7 @@ Claim: The discussion between Candace Owens and Andrew Wilson was moderated by P
 
 Anchored Artifacts: A-2277, A-2277.6
 
-Related Nodes: N-1208, N-46
+Related Nodes: N-46
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
 
@@ -407,7 +407,7 @@ Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew 
 
 Anchored Artifacts: A-2281.1
 
-Related Nodes: N-1207, N-1209, N-46
+Related Nodes: N-46
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
@@ -419,7 +419,7 @@ Claim: The Poly Market prediction market odds on a Tyler Robinson conviction fel
 
 Anchored Artifacts: A-2282.1
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window.
 
@@ -455,7 +455,7 @@ Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed i
 
 Anchored Artifacts: A-2283.1
 
-Related Nodes: N-1207, N-2194, N-46
+Related Nodes: N-2194, N-46
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -491,7 +491,7 @@ Claim: During his debate opening, Andrew Wilson asserted that he possessed Charl
 
 Anchored Artifacts: A-2277.1
 
-Related Nodes: N-1207, N-2193, N-46
+Related Nodes: N-2193, N-46
 
 Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193).
 

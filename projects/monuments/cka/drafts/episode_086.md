@@ -344,7 +344,7 @@ Claim: The defense has filed a motion seeking to continue the preliminary hearin
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: Tyler Robinson (existing), UCAO (existing), CASE_1
+Related Nodes: 
 
 Investigative Direction: Obtain certified copy of the filed motion and confirm filing date and assigned judge.
 
@@ -358,7 +358,7 @@ Claim: The ATF was unable to identify the bullet recovered at autopsy to the rif
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-1646, Tyler Robinson (existing), ATF (existing), CASE_1
+Related Nodes: N-1646
 
 Investigative Direction: Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is "inconclusive" or a definitive non-match.
 
@@ -372,7 +372,7 @@ Claim: The state has indicated that the FBI is in the process of conducting a se
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-1642, FBI (existing), Tyler Robinson (existing), CASE_1
+Related Nodes: N-1642
 
 Investigative Direction: Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses.
 
@@ -386,7 +386,7 @@ Claim: The FBI discontinued its comparative bullet lead analysis program in 2005
 
 Anchored Artifacts: A-1914.1
 
-Related Nodes: N-1642, N-1210, N-1211, FBI (existing)
+Related Nodes: N-1642, N-1210, N-1211
 
 Investigative Direction: Cross-reference the FBI's 2005 NAS report and PCast/NIST forensic science reviews; confirm current formal FBI policy position on CBLA use.
 
@@ -400,7 +400,7 @@ Claim: The autopsy report, completed September 16, 2025, was not provided to the
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-1644, Tyler Robinson (existing), CASE_1
+Related Nodes: N-1644
 
 Investigative Direction: Obtain defense correspondence log and prosecution's transmission records to verify dates.
 
@@ -414,7 +414,7 @@ Claim: Autopsy photographs taken on September 10, 2025 were not produced to the 
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-1644, Tyler Robinson (existing), CASE_1
+Related Nodes: N-1644
 
 Investigative Direction: Obtain defense correspondence log and prosecution's transmission records to verify dates.
 
@@ -428,7 +428,7 @@ Claim: At the March 12, 2026 conference, the state provided the defense with a h
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-1644, Tyler Robinson (existing), UCAO (existing), CASE_1
+Related Nodes: N-1644
 
 Investigative Direction: Cross-reference the filing's exhibit list and any hard-drive transmission log.
 
@@ -442,7 +442,7 @@ Claim: Prior to the March 12, 2026 conference, the defense had received approxim
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-1644, Tyler Robinson (existing), CASE_1
+Related Nodes: N-1644
 
 Investigative Direction: Cross-reference with case docket and prosecution's discovery log.
 
@@ -456,7 +456,7 @@ Claim: The state indicated it intends to present at the preliminary hearing thre
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: Tyler Robinson (existing), Matt Robinson (existing), Robinson roommate (existing), CASE_1
+Related Nodes: 
 
 Investigative Direction: Verify witness list filing and prosecution's stated intention to proceed without supporting expert testimony.
 
@@ -470,7 +470,7 @@ Claim: In a September 20, 2025 X/Twitter post, Andrew Kolb wrote that the corone
 
 Anchored Artifacts: A-1913.1
 
-Related Nodes: N-1643, Andrew Kolb (existing), Charlie Kirk (existing)
+Related Nodes: N-1643
 
 Investigative Direction: Obtain and verify the original X post timestamp, account status, and the underlying autopsy report's final disposition language.
 
@@ -484,7 +484,7 @@ Claim: In the same September 20, 2025 post, Andrew Kolb attributed a quote to a 
 
 Anchored Artifacts: A-1913.1
 
-Related Nodes: N-1643, N-1214, Andrew Kolb (existing)
+Related Nodes: N-1643, N-1214
 
 Investigative Direction: Identify and depose the surgeon; compare quote against operative notes and any recorded statements.
 
@@ -512,7 +512,7 @@ Claim: Kim Haven, identifying as a nurse, asserted in a YouTube comment that doc
 
 Anchored Artifacts: A-1916.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Review standard hospital death-disclosure protocols; obtain Frank Turek's original statement context.
 
@@ -526,7 +526,7 @@ Claim: Kim Haven asserted in her YouTube comment that Frank Turek is "absolutely
 
 Anchored Artifacts: A-1916.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Identify and locate Frank Turek's original statement; reconcile with hospital staff logs.
 
@@ -540,7 +540,7 @@ Claim: The host concurs with Kim Haven's assessment that Frank Turek's account o
 
 Anchored Artifacts: A-1916.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Compare timing against typical trauma-team workflow; obtain official timeline from hospital.
 
@@ -554,7 +554,7 @@ Claim: The host concurs that the FBI's planned revival of comparative bullet lea
 
 Anchored Artifacts: A-1912.1, A-1914.1
 
-Related Nodes: N-1642, FBI (existing)
+Related Nodes: N-1642
 
 Investigative Direction: Review any FBI lab protocol authorizing CBLA reintroduction; compare to 2009 NAS forensic science recommendations.
 
@@ -568,7 +568,7 @@ Claim: The host rejects the medical plausibility of Andrew Kolb's "man of steel"
 
 Anchored Artifacts: A-1913.1
 
-Related Nodes: N-1643, N-1214, Andrew Kolb (existing)
+Related Nodes: N-1643, N-1214
 
 Investigative Direction: Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.
 

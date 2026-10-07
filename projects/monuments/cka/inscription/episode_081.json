@@ -932,7 +932,6 @@
         "A-1877.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1620"
       ],
       "tags": [],
@@ -948,9 +947,7 @@
       "anchored_artifacts": [
         "A-1877.2"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:10",
       "investigative_direction": "Verify via West Wing access logs and any corroborating witnesses to the June encounter."
@@ -963,8 +960,6 @@
       "claim": "Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for leaking classified documents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1624"
       ],
       "tags": [],
@@ -981,8 +976,6 @@
         "A-1879.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1209",
         "N-1624"
       ],
       "tags": [],
@@ -999,7 +992,6 @@
         "A-1880.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1210"
       ],
       "tags": [],
@@ -1016,7 +1008,6 @@
         "A-1880.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1211",
         "N-1624"
       ],
@@ -1034,8 +1025,6 @@
         "A-1878.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1624"
       ],
       "tags": [],
@@ -1052,8 +1041,6 @@
         "A-1878.2"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1624"
       ],
       "tags": [],
@@ -1070,7 +1057,6 @@
         "A-1881.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1212",
         "N-1620"
       ],
@@ -1088,7 +1074,6 @@
         "A-1881.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1620"
       ],
       "tags": [],
@@ -1105,7 +1090,6 @@
         "A-1881.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1213",
         "N-1214",
         "N-1620",
@@ -1239,7 +1223,6 @@
       "claim": "Candace Owens states she had never had a single communication with Joe Kent until after Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1207",
         "N-1624"
       ],
       "tags": [],

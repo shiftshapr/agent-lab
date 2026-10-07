@@ -31,7 +31,7 @@ CKA seq 2 presents host commentary on the Charlie Kirk assassination investigati
 **A-1081.1** Brief clip of Erika Kirk's public remarks after Charlie Kirk's death, played on screen.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:00:59–00:01:41
-*Related: C-1123, N-3, N-2, N-1*
+*Related: C-3630, N-3, N-2, N-1*
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Confidence: high
 
@@ -42,7 +42,7 @@ Confidence: high
 **A-1082.1** Clip of Netanyahu on Fox News less than 24 hours after Kirk's death, holding up the May 2 letter and describing a phone call and Israel invitation.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:07:02–00:08:46
-*Related: C-1124, C-1125, C-1129, N-65, N-1071*
+*Related: C-3631, C-1125, C-1129, N-65, N-1071*
 Transcript Snippet: He said he wrote me a letter on May 2nd this year. I called him and I spoke to him and I said, Please come to Israel.
 Confidence: high
 
@@ -231,7 +231,7 @@ Confidence: medium
 Node Type: Person
 Subject of the assassination investigation; central to all claims about pressure, spiritual transformation, and Israel relationship.
 
-*Related: A-1081.1, A-1082.1, A-1083.1, A-1084.1, A-1086.1, A-1091.1, C-1123, C-1125, C-1126, C-1127, C-1130, C-1132, C-1124, C-1128, C-1129, C-1136*
+*Related: A-1081.1, A-1082.1, A-1083.1, A-1084.1, A-1086.1, A-1091.1, C-3630, C-1125, C-1126, C-1127, C-1130, C-1132, C-3631, C-1128, C-1129, C-1136*
 
 Confidence: high
 
@@ -242,7 +242,7 @@ Confidence: high
 Node Type: Person
 Host of the episode; sources many second-hand claims about the Hamptons meeting and family interactions.
 
-*Related: A-1092.1, C-1128, C-1130, C-1137, C-1123, C-1126*
+*Related: A-1092.1, C-1128, C-1130, C-1137, C-3630, C-1126*
 
 Confidence: high
 
@@ -253,7 +253,7 @@ Confidence: high
 Node Type: Person
 Charlie Kirk's widow; subject of the widow remarks clip and quoted recollection of meeting attendees.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: high
 
@@ -264,7 +264,7 @@ Confidence: high
 Node Type: Person
 Israeli PM; subject of Fox News and Greta interview clips; alleged instigator of pressure on Kirk.
 
-*Related: A-1082.1, A-1083.1, A-1085.1, A-1092.1, C-1124, C-1125, C-1126, C-1129, C-1131, C-1130*
+*Related: A-1082.1, A-1083.1, A-1085.1, A-1092.1, C-3631, C-1125, C-1126, C-1129, C-1131, C-1130*
 
 Confidence: high
 
@@ -342,7 +342,7 @@ Confidence: high
 Node Type: Person
 Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: medium
 
@@ -377,7 +377,7 @@ Confidence: high
 Node Type: Person
 Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.
 
-*Related: A-1081.1, A-1089.3, C-1123*
+*Related: A-1081.1, A-1089.3, C-3630*
 
 Confidence: medium
 
@@ -446,7 +446,7 @@ Confidence: high
 Node Type: Person
 President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: high
 
@@ -459,7 +459,7 @@ Confidence: high
 Node Type: Person
 Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: high
 Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
@@ -473,7 +473,7 @@ Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
 Node Type: Person
 Author recommended by host on Freud and Jewish mystical tradition history.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: medium
 
@@ -486,7 +486,7 @@ Confidence: medium
 Node Type: Person
 Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: high
 Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
@@ -500,7 +500,7 @@ Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 Node Type: Person
 Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.
 
-*Related: A-1081.1, C-1123*
+*Related: A-1081.1, C-3630*
 
 Confidence: low
 Uncertainty: Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).
@@ -525,7 +525,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Network where Netanyahu appeared twice within 24 hours of Kirk's death.
 
-*Related: A-1082.1, A-1085.1, C-1124*
+*Related: A-1082.1, A-1085.1, C-3631*
 
 ---
 
@@ -725,7 +725,7 @@ UVU campus in Orem, Utah; site of the September 10, 2025 shooting.
 
 ## 5. Claim Register
 
-**C-1123** Erika Kirk Addressed Nation with Public Remarks
+**C-3630** Erika Kirk Addressed Nation with Public Remarks
 
 Claim Timestamp: 00:00:59
 Claim: Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.
@@ -737,7 +737,7 @@ Investigative Direction: Obtain full unedited version of Erika Kirk's remarks an
 
 ---
 
-**C-1124** Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death
+**C-3631** Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death
 
 Claim Timestamp: 00:07:02
 Claim: Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.

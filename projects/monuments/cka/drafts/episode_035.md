@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-423, N-424, N-426, N-427, N-429, N-430, N-431, N-1336, N-1337, N-1338, N-1339, N-1340
-  - Reused Nodes Appearing: N-1001
+  - New Nodes Introduced: N-423, N-424, N-426, N-427, N-1336, N-1337, N-1338, N-1339, N-1340
+  - Reused Nodes Appearing: N-2
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268
@@ -40,7 +40,7 @@ Video Timestamp: 00:05:32–00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read with stated redactions; source identity withheld)
 
-*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-1336, N-1337, N-429, N-430, N-431*
+*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-1336, N-1337, , *
 
 **A-1436** Flight Pattern Timeline Bundle
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:27:09–00:30:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1001, N-429, N-430, N-431, N-70*
+*Related: N-2, , N-70*
 
 **A-1436.3** SUBTT 2022 flight pattern data — Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:42:03–00:44:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1756, N-1001, N-426*
+*Related: C-1756, N-2, N-426*
 
 **A-1444.2** Tim Pool clip stating he was told he couldn't come to AmFest and speculating it was due to his statements on stopping funding Israel and not giving money to Ukraine
 
@@ -195,24 +195,6 @@ Confidence Level: Medium
 ## 4. Node Register
 
 
-**N-429** Insider Email Bundle
-
-Node Type: person
-
-*Related:*
-
-**N-430** Insider Email Bundle
-
-Node Type: person
-
-*Related:*
-
-**N-431** Insider Email Bundle
-
-Node Type: person
-
-*Related:*
-
 **N-1** Charlie Kirk
 
 Subject of the series; central figure whose death and its investigation structure the episode's claims.
@@ -223,17 +205,6 @@ Episode Count: 35 (across series)
 Investigative Pressure: High
 
 *Related: A-1435.1, A-1436.2, A-1441.1, A-1442.1, A-1442.2*
-
-**N-1001** Erica Kirk
-
-Named in flight timeline (A-1436.2) as a passenger; referenced in Tim Pool clip (A-1444.1) as allegedly "knowing everything."
-
-Evidence Count: 3 (across series)
-Claim Count: 5 (across series)
-Episode Count: 25 (across series)
-Investigative Pressure: High
-
-*Related: A-1436.2, A-1444.1*
 
 **N-423** Christopher Wray
 
@@ -522,7 +493,7 @@ Claim: Tim Pool stated in a video that the narrative from the number one podcast
 
 Anchored Artifacts: A-1444.1
 
-Related Nodes: N-426, N-1001
+Related Nodes: N-426, N-2
 
 Investigative Direction: Locate Tim Pool's original video and timestamp the quoted language.
 

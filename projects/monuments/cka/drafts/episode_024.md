@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-311, N-313, N-314, N-317, N-319, N-320, N-321, N-322, N-323, N-1286, N-1287
+  - New Nodes Introduced: N-311, N-313, N-314, N-319, N-320, N-321, N-322, N-323, N-1286, N-1287
   - Reused Nodes Appearing: 
   - (see registers), N-37
 
@@ -29,7 +29,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320
   - Claim Range: C-1568 – C-1583
-  - New Nodes Introduced (people): N-311, N-313, N-314, N-317, N-319, N-320, N-321
+  - New Nodes Introduced (people): N-311, N-313, N-314, N-319, N-320, N-321
   - New Nodes Introduced (entities): N-1286, N-1287
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Stripe, Adam Lanza, Thomas Matthew Crooks, AIPAC
 
@@ -252,12 +252,6 @@ Confidence Level: Medium
 # Node Register
 
 
-**N-317** Node 317
-
-Node Type: person
-
-*Related:*
-
 **N-311** Michael Starr
 
 Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office "wavered" on the claim.
@@ -420,7 +414,7 @@ Claim: Lindsey Graham stated at the Republican Jewish Coalition that anti-Israel
 
 Anchored Artifacts: A-1313.1
 
-Related Nodes: N-Lindsey Graham, N-317
+Related Nodes: 
 
 Investigative Direction: Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session.
 
@@ -434,7 +428,7 @@ Claim: Randy Fine stated on stage at the Republican Jewish Coalition that "Tucke
 
 Anchored Artifacts: A-1313.2
 
-Related Nodes: N-Randy Fine, N-Tucker Carlson
+Related Nodes: 
 
 Investigative Direction: Verify the full RJC recording for the complete quote and any surrounding context.
 
@@ -448,7 +442,7 @@ Claim: Host characterizes Lindsey Graham's RJC statement as "great messaging" sa
 
 Anchored Artifacts: A-1313.1
 
-Related Nodes: N-Lindsey Graham
+Related Nodes: 
 
 Investigative Direction: This is host concurrence / interpretive stance; verification requires only that A-1313.1 captures the original statement.
 
@@ -462,7 +456,7 @@ Claim: Ben Shapiro stated that Tucker Carlson "knifes [friends] directly between
 
 Anchored Artifacts: A-1314.2
 
-Related Nodes: N-Ben Shapiro, N-Tucker Carlson, N-1 Charlie Kirk
+Related Nodes: N-1
 
 Investigative Direction: Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages).
 
@@ -476,7 +470,7 @@ Claim: Ben Shapiro stated that "Charlie believed that Nick Fuentes was vermin. T
 
 Anchored Artifacts: A-1314.2
 
-Related Nodes: N-Ben Shapiro, N-Nick Fuentes, N-1 Charlie Kirk
+Related Nodes: N-1
 
 Investigative Direction: Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.
 
@@ -490,7 +484,7 @@ Claim: In a 2018 Joe Rogan appearance, Candace Owens referred to him as "the hal
 
 Anchored Artifacts: A-1315.1
 
-Related Nodes: N-3 Candace Owens, N-Ben Shapiro
+Related Nodes: N-3
 
 Investigative Direction: Verify by locating the full original Joe Rogan episode to confirm wording and date.
 
@@ -504,7 +498,7 @@ Claim: A photo displayed in the episode depicts Candace Owens and Charlie Kirk i
 
 Anchored Artifacts: A-1316.1
 
-Related Nodes: N-1 Charlie Kirk, N-3 Candace Owens, N-Ben Shapiro
+Related Nodes: N-1, N-3
 
 Investigative Direction: Verify by locating the source image metadata (date, location, producer of the appearance).
 
@@ -518,7 +512,7 @@ Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk 
 
 Anchored Artifacts: A-1317.1
 
-Related Nodes: N-311 Michael Starr, N-322 Jerusalem Post, N-323 Israeli War Room, N-319 Douglas Murray, N-320 Yael Eckstein, N-321 Jürgen Bühler, N-2 Erica Kirk, N-1286
+Related Nodes: N-311, N-322, N-323, N-319, N-320, N-321, N-2, N-1286
 
 Investigative Direction: Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.
 
@@ -532,7 +526,7 @@ Claim: TPUSA spokesperson Andrew Kolbenschlag posted on X that "this is the firs
 
 Anchored Artifacts: A-1317.2
 
-Related Nodes: N-42 Andrew Kolbenschlag, N-311 Michael Starr, N-2 Erica Kirk, N-1286
+Related Nodes: N-42, N-311, N-2, N-1286
 
 Investigative Direction: Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.
 
@@ -546,7 +540,7 @@ Claim: Michael Starr posted on X that "the Israeli government press office waver
 
 Anchored Artifacts: A-1317.3
 
-Related Nodes: N-311 Michael Starr, N-323 Israeli War Room, N-1286
+Related Nodes: N-311, N-323, N-1286
 
 Investigative Direction: Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.
 
@@ -560,7 +554,7 @@ Claim: In a preview clip of her Jesse Waters interview, Erika Kirk opposed the d
 
 Anchored Artifacts: A-1318.1
 
-Related Nodes: N-2 Erica Kirk, N-313 Jesse Waters, N-1287
+Related Nodes: N-2, N-313, N-1287
 
 Investigative Direction: Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.
 
@@ -574,7 +568,7 @@ Claim: Kash Patel posted an extended X message defending his girlfriend Alexis W
 
 Anchored Artifacts: A-1319.1
 
-Related Nodes: N-102 Kash Patel, N-314 Alexis Wilkins
+Related Nodes: N-102, N-314
 
 Investigative Direction: Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.
 
@@ -588,7 +582,7 @@ Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's AC
 
 Anchored Artifacts: A-1320.5
 
-Related Nodes: N-Tyler Robinson, N-Thomas Matthew Crooks, N-Adam Lanza, N-228
+Related Nodes: N-228
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.
 
@@ -602,7 +596,7 @@ Claim: A viewer (Petal) commented asking Candace Owens to clarify whether she ho
 
 Anchored Artifacts: A-1320.6
 
-Related Nodes: N-3 Candace Owens
+Related Nodes: N-3
 
 Investigative Direction: No investigative direction required — viewer question is recorded as artifact.
 
@@ -616,7 +610,7 @@ Claim: A viewer (TB) commented that being exposed to all perspectives with the r
 
 Anchored Artifacts: A-1320.7
 
-Related Nodes: N-1 Charlie Kirk, N-Nick Fuentes
+Related Nodes: N-1
 
 Investigative Direction: No investigative direction required — viewer comment is recorded as artifact.
 
@@ -630,7 +624,7 @@ Claim: Host characterizes Ben Shapiro's segment attacking Tucker Carlson as "a v
 
 Anchored Artifacts: A-1314.1
 
-Related Nodes: N-Ben Shapiro, N-Tucker Carlson
+Related Nodes: 
 
 Investigative Direction: This is a host interpretive stance; verification is anchored to A-1314.1.
 

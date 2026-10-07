@@ -572,7 +572,7 @@ Claim: A 2012 New York Times article confirms that the friendship between Mitt R
 
 Anchored Artifacts: A-1917.1
 
-Related Nodes: N-1207, N-1208, N-1648, N-57
+Related Nodes: N-1648, N-57
 
 Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.
 
@@ -614,7 +614,7 @@ Claim: The young man detained and released after interrogation is referred to as
 
 Anchored Artifacts: A-1918.1, A-1918.2
 
-Related Nodes: N-1210, N-1209, N-1653
+Related Nodes: N-1210, N-1653
 
 Investigative Direction: Confirm spelling of "Karashy" vs. "Qureshi" against official detention records; the name discrepancy requires resolution.
 
@@ -628,7 +628,7 @@ Claim: Ahmed Qureshi's LinkedIn profile lists him as President/COO of Built Inco
 
 Anchored Artifacts: A-1919.1
 
-Related Nodes: N-1209, N-1652
+Related Nodes: N-1652
 
 Investigative Direction: Verify current rank and command assignment via official military biography.
 
@@ -642,7 +642,7 @@ Claim: Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) an
 
 Anchored Artifacts: A-1919.1, A-1920.1
 
-Related Nodes: N-1209, N-1211, N-1652
+Related Nodes: N-1211, N-1652
 
 Investigative Direction: Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.
 
@@ -656,7 +656,7 @@ Claim: USA Spending records show Built Incorporated received approximately $7.4M
 
 Anchored Artifacts: A-1920.1, A-1920.2
 
-Related Nodes: N-1209, N-1211, N-1652
+Related Nodes: N-1211, N-1652
 
 Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.
 
@@ -670,7 +670,7 @@ Claim: Gina Romney Henderson's LinkedIn profile identifies her as Vice President
 
 Anchored Artifacts: A-1921.1
 
-Related Nodes: N-1212, N-1207, N-1648, N-1211
+Related Nodes: N-1212, N-1648, N-1211
 
 Investigative Direction: Confirm employment and BYU degree via LinkedIn and university alumni records; investigate "Romney" family-tie claim.
 
@@ -740,7 +740,7 @@ Claim: The Qureshi and Henderson families lived in the same house in Keller, Tex
 
 Anchored Artifacts: (host assertion; no public records shown)
 
-Related Nodes: N-1209, N-1211, N-1212, N-1213, N-1652
+Related Nodes: N-1211, N-1212, N-1213, N-1652
 
 Investigative Direction: Pull property records for Keller, Texas to identify ownership/residency history of both families.
 
@@ -880,7 +880,7 @@ Claim: Viewers and social media indicate the Hild family is married into the Rom
 
 Anchored Artifacts: A-1924.2
 
-Related Nodes: N-1219, N-1207, N-1654
+Related Nodes: N-1219, N-1654
 
 Investigative Direction: Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.
 
@@ -894,7 +894,7 @@ Claim: Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 20
 
 Anchored Artifacts: (host assertion)
 
-Related Nodes: N-1220, N-1214, N-1207
+Related Nodes: N-1220, N-1214
 
 Investigative Direction: Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment.
 
@@ -908,7 +908,7 @@ Claim: Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romn
 
 Anchored Artifacts: (host assertion)
 
-Related Nodes: N-1221, N-1214, N-1207
+Related Nodes: N-1221, N-1214
 
 Investigative Direction: Verify via Romney 2012 campaign staff biographies.
 

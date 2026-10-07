@@ -30,7 +30,7 @@
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016
-New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112 (Tyler-Lance Text Message Extraction Source)
+New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Aman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
 ---
@@ -412,7 +412,7 @@ Claim: Josh Hammer stated on Court TV that the preliminary hearing presentation 
 
 Anchored Artifacts: A-2116.1
 
-Related Nodes: (Josh Hammer — existing if prior-registered)
+Related Nodes: 
 
 Investigative Direction: Compare Hammer's stated impression against the actual hearing exhibits.
 
@@ -426,7 +426,7 @@ Claim: Multiple pre-hearing media segments asserted that Tyler Robinson's parent
 
 Anchored Artifacts: A-2117.1, A-2117.2, A-2117.3
 
-Related Nodes: Tyler Robinson (existing), Matt Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Compare pre-hearing narrative claims against actual preliminary hearing testimony transcripts.
 
@@ -440,7 +440,7 @@ Claim: Lance Twigs testified that he could recognize Robinson only by generic cl
 
 Anchored Artifacts: A-2118.1
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Cross-reference Lance's testimony with other witness identifications and the exhibits discussed.
 
@@ -454,7 +454,7 @@ Claim: Lance Twigs testified that Tyler Robinson was not political, had not disc
 
 Anchored Artifacts: A-2118.2
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Compare Lance's testimony against text messages introduced as A-2123.1.
 
@@ -468,7 +468,7 @@ Claim: Witness Miss Noble testified via Ring camera interview that she saw a bal
 
 Anchored Artifacts: A-2119.1
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Obtain Ring camera footage and police interview transcripts for cross-verification.
 
@@ -496,7 +496,7 @@ Claim: Witness testimony confirmed that Exhibit 12.4 compilation video shows mov
 
 Anchored Artifacts: A-2121.1
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Verify whether any other exhibit purports to show the shooting itself.
 
@@ -510,7 +510,7 @@ Claim: Witness testimony confirmed that Exhibit 12.1 differs from Exhibit 12.4 o
 
 Anchored Artifacts: A-2121.2
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Obtain certified copies of both exhibits for direct comparison.
 
@@ -524,7 +524,7 @@ Claim: Court TV's accidentally-leaked footage of the 12.1 enhanced exhibit (at 1
 
 Anchored Artifacts: A-2122.1
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Obtain full Court TV Day 2 footage for independent analysis.
 
@@ -594,7 +594,7 @@ Claim: Benny Johnson claimed in his post-court video that the court displayed "h
 
 Anchored Artifacts: A-2126.1
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Compare Johnson's claim against Court TV leaked footage (A-2122.1) and witness testimony on 12.1 enhancements.
 
@@ -608,7 +608,7 @@ Claim: Ben Shapiro stated on his show that during the approximate 7-minute car r
 
 Anchored Artifacts: A-2127.1
 
-Related Nodes: N-1 (Charlie Kirk), N-2111
+Related Nodes: N-1, N-2111
 
 Investigative Direction: Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis.
 
@@ -622,7 +622,7 @@ Claim: Text messages displayed on-screen between Tyler Robinson and Lance Twigs 
 
 Anchored Artifacts: A-2123.1
 
-Related Nodes: Tyler Robinson (existing)
+Related Nodes: 
 
 Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-2112).
 

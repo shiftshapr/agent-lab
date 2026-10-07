@@ -389,7 +389,7 @@ Claim: Officer Bagley testified that his Axon body-cam footage ended at 12:44 p.
 
 Anchored Artifacts: A-2146.1
 
-Related Nodes: N-1207, N-2124
+Related Nodes: N-2124
 
 Investigative Direction: Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history.
 
@@ -403,7 +403,7 @@ Claim: Officer Bagley testified that he was accompanied on the Losee Center roof
 
 Anchored Artifacts: A-2146.2
 
-Related Nodes: N-1207, N-2125
+Related Nodes: N-2125
 
 Investigative Direction: Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025.
 
@@ -417,7 +417,7 @@ Claim: Officer Bagley testified that he did not review the body-cam or surveilla
 
 Anchored Artifacts: A-2146.2
 
-Related Nodes: N-1207, N-2125
+Related Nodes: N-2125
 
 Investigative Direction: Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window.
 
@@ -431,7 +431,7 @@ Claim: An email from a police officer using the same Axon Body Cam 4 model state
 
 Anchored Artifacts: A-2147.1
 
-Related Nodes: N-1207, N-2124
+Related Nodes: N-2124
 
 Investigative Direction: Identify the email author (host has protected identity), corroborate Axon Body Cam 4 specifications from manufacturer documentation, and request Bagley's device telemetry.
 
@@ -445,7 +445,7 @@ Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified
 
 Anchored Artifacts: A-2148.1
 
-Related Nodes: N-1208, N-2126
+Related Nodes: N-2126
 
 Investigative Direction: Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.
 
@@ -459,7 +459,7 @@ Claim: Sergeant Felomina testified that the seized items were sent to the FBI la
 
 Anchored Artifacts: A-2148.1, A-2148.2
 
-Related Nodes: N-1208, N-2126
+Related Nodes: N-2126
 
 Investigative Direction: Obtain the FBI lab intake documentation for these items and the chain-of-custody record.
 
@@ -473,7 +473,7 @@ Claim: Sergeant Felomina testified that a decision was made to halt further test
 
 Anchored Artifacts: A-2148.2
 
-Related Nodes: N-1208, N-2126
+Related Nodes: N-2126
 
 Investigative Direction: Compare FBI/ATF lab notes to Felomina's communication log and identify the party that actually conveyed the "not probative" determination.
 
@@ -487,7 +487,7 @@ Claim: FBI agent Amanda Baker testified that the backpack (exhibit 9) was determ
 
 Anchored Artifacts: A-2149.1
 
-Related Nodes: N-1209, N-2126
+Related Nodes: N-2126
 
 Investigative Direction: Identify the bystander candidate; obtain the source of the "bystander" classification.
 
@@ -501,7 +501,7 @@ Claim: FBI agent Amanda Baker testified, when confronted with lab notes stating 
 
 Anchored Artifacts: A-2149.2
 
-Related Nodes: N-1209, N-2126
+Related Nodes: N-2126
 
 Investigative Direction: Identify the lab employee who authored/added the "Kirk's detail" attribution; obtain that employee's written communication.
 
@@ -515,7 +515,7 @@ Claim: Host concurs with the implicit inconsistency between Felomina's lack of m
 
 Anchored Artifacts: A-2148.2, A-2149.2
 
-Related Nodes: N-1208, N-1209, N-2126
+Related Nodes: N-2126
 
 Investigative Direction: Locate the original handwritten or digital lab note and trace the attribution chain.
 

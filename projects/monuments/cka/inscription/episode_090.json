@@ -1232,16 +1232,6 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2688",
-      "ref": "C-2688",
-      "label": "(supplemental, omitted — already listed)",
-      "claim": "",
-      "anchored_artifacts": [],
-      "related_nodes": [],
-      "tags": []
-    },
-    {
-      "@type": "Claim",
       "@id": "C-2695",
       "ref": "C-2695",
       "label": "State claims forensic photographs of Lance Twiggs phone contents will be offered in lieu of forensic extraction",

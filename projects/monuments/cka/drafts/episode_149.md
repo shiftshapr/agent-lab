@@ -29,7 +29,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
-  - New Nodes Introduced: N-2256, N-2257, N-2258, N-2259, N-2260, N-2261
+  - New Nodes Introduced: (none)
   - Existing Nodes Reused: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228
 
 ---
@@ -56,7 +56,7 @@ Video Timestamp: 00:01:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3543, C-3544, C-3545, N-1207, N-2256, N-2257*
+*Related: C-3543, C-3544, C-3545, N-1207, N-432*
 
 ### A-2427 Frank Turek Sermon/Clip Bundle
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:06:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3546, N-1207, N-2258*
+*Related: C-3546, N-1207, N-432*
 
 ### A-2428 Brian Harpole Paramount Interview Bundle
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:10:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3547, C-3548, N-1208, N-2258*
+*Related: C-3547, C-3548, N-1208, N-432*
 
 ### A-2429 Frank Turek CPR Account
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3546, N-1207, N-2258*
+*Related: C-3546, N-1207, N-432*
 
 ### A-2430 Frank Turek FaceTime with Pastor Jack Hibbs
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:14:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3548, N-1207, N-1214, N-2256*
+*Related: C-3548, N-1207, N-1214, N-432*
 
 ### A-2431 Hospital Parking Lot Eyewitness Account
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:16:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3549, N-1219, N-2259*
+*Related: C-3549, N-1219, N-432*
 
 ### A-2432 September 10 Security Team Footage Bundle
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-1209, N-1210, N-1211, N-1212, N-1213, N-2256*
+*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-1209, N-1210, N-1211, N-1212, N-1213, N-432*
 
 ### A-2433 Panguitch Cowboy Smokehouse Evidence Bundle
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-1221, N-1222, N-1223, N-1227, N-2257*
+*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-1221, N-1222, N-1223, N-1227, N-432*
 
 ### A-2434 YouTube Comment – Matt Callaway "Blakey" Quote
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:45:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment is uncorroborated hearsay, commenter's identity unknown)
 
-*Related: C-3564, N-1224, N-1210, N-2261*
+*Related: C-3564, N-1224, N-1210, N-432*
 
 ### A-2435 YouTube Top Comments Read-Aloud Bundle
 
@@ -299,42 +299,6 @@ Confidence Level: Low
 ## IV. Node Register
 
 
-**N-2256** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
-
-Node Type: topic
-
-*Related:*
-
-**N-2257** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
-
-Node Type: topic
-
-*Related:*
-
-**N-2258** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
-
-Node Type: topic
-
-*Related:*
-
-**N-2259** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
-
-Node Type: topic
-
-*Related:*
-
-**N-2260** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
-
-Node Type: topic
-
-*Related:*
-
-**N-2261** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
-
-Node Type: topic
-
-*Related:*
-
 **N-46** Andrew Wilson
 
 Node Type: Person
@@ -343,3 +307,16 @@ Online debater. A viewer comment read on this episode references him.
 *Related: A-2435.4*
 
 ---
+
+**N-432** Derek Pepper Williams
+
+Node Type: Person
+TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Host links him to PGL / Perimeter Global Logistics and a freight-family cluster on September 10.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: C-3543, C-3544, C-3545, A-2426.1*
+

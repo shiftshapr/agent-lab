@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-590, N-595, N-596, N-1429, N-1430, N-1431, N-1432, N-1433, N-1434, N-1435, N-1436, N-1437
+  - New Nodes Introduced: N-590, N-596, N-1429, N-1430, N-1431, N-1432, N-1433, N-1434, N-1435, N-1436, N-1437
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -95,12 +95,6 @@ Description: Six photographs held by the host. Host states at ~31:17 that the te
 
 ## 4. Node Register
 
-
-**N-595** Andrew Colberg X Post Bundle
-
-Node Type: person
-
-*Related:*
 
 **N-590** Andrew Colberg
 
@@ -228,7 +222,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-595*
+*Related: *
 
 ---
 
@@ -320,7 +314,7 @@ Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" 
 
 Anchored Artifacts: A-1552.1
 
-Related Nodes: N-590, N-281, N-1429, N-595
+Related Nodes: N-590, N-281, N-1429
 
 Investigative Direction: Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.
 

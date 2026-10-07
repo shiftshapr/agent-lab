@@ -499,7 +499,7 @@ Claim: Joe Kent told Tucker Carlson that the National Counterterrorism Center wa
 
 Anchored Artifacts: A-1877.1
 
-Related Nodes: N-1207, N-1620
+Related Nodes: N-1620
 
 Investigative Direction: Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities.
 
@@ -513,7 +513,7 @@ Claim: Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk 
 
 Anchored Artifacts: A-1877.2
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Verify via West Wing access logs and any corroborating witnesses to the June encounter.
 
@@ -527,7 +527,7 @@ Claim: Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for
 
 Anchored Artifacts: A-1879.1 (related context); direct retweet not separately captured as artifact.
 
-Related Nodes: N-1207, N-1208, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Confirm via archived Kolvet X timeline.
 
@@ -543,7 +543,7 @@ Claim: Alex Clark posted on X that Joe Kent actively participated in or encourag
 
 Anchored Artifacts: A-1879.1
 
-Related Nodes: N-1207, N-1209, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Retrieve Clark's full X thread and any cited evidence.
 
@@ -557,7 +557,7 @@ Claim: Jack Posobiec posted on X that Joe Kent has six bronze star medals with f
 
 Anchored Artifacts: A-1880.1
 
-Related Nodes: N-1207, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Cross-check against DoD / military service records.
 
@@ -571,7 +571,7 @@ Claim: Laura Loomer replied to Posobiec accusing Joe Kent of leaking information
 
 Anchored Artifacts: A-1880.2
 
-Related Nodes: N-1207, N-1211, N-1624
+Related Nodes: N-1211, N-1624
 
 Investigative Direction: Retrieve Loomer's full post; trace whether she cites source for the accusation.
 
@@ -585,7 +585,7 @@ Claim: Andrew Kolvet stated on Charlie Kirk's radio show that he had provided th
 
 Anchored Artifacts: A-1878.1
 
-Related Nodes: N-1207, N-1208, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Obtain full unedited radio segment; verify chain of custody.
 
@@ -599,7 +599,7 @@ Claim: Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made p
 
 Anchored Artifacts: A-1878.2
 
-Related Nodes: N-1207, N-1208, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Verify against any direct messaging logs or third-party corroboration.
 
@@ -613,7 +613,7 @@ Claim: In the Sept 10 PR text chain, Andrew Kolvet had no outgoing message from 
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1208, N-1212, N-1620
+Related Nodes: N-1212, N-1620
 
 Investigative Direction: Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records.
 
@@ -627,7 +627,7 @@ Claim: At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: "S
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1208, N-1620
+Related Nodes: N-1620
 
 Investigative Direction: Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable.
 
@@ -641,7 +641,7 @@ Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aub
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1208, N-1213, N-1214, N-1620, N-1625
+Related Nodes: N-1213, N-1214, N-1620, N-1625
 
 Investigative Direction: Confirm via call detail records and corroborate with Aubrey directly if possible.
 
@@ -757,7 +757,7 @@ Claim: Candace Owens states she had never had a single communication with Joe Ke
 
 Anchored Artifacts: None (host testimony only)
 
-Related Nodes: N-1207, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Verify via message logs, witness statements, or platform records.
 

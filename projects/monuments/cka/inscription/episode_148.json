@@ -133,8 +133,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1028",
-            "N-5",
-            "N-34"
+            "N-5"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -328,7 +327,6 @@
             "N-1",
             "N-12",
             "N-42",
-            "N-21",
             "N-15"
           ],
           "tags": [],
@@ -772,38 +770,6 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-21",
-      "ref": "N-21",
-      "name": "Node 21",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-34",
-      "ref": "N-34",
-      "name": "Node 34",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     },
     {
       "@type": "Person",

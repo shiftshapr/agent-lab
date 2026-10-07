@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-691, N-692, N-693, N-694, N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
+  - New Nodes Introduced:  N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-694, N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
   - Reused Nodes Appearing: 
   - (see registers), N-37
 
@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1596, A-1597, A-1598, A-1599, A-1600, A-1601, A-1602, A-1603, A-1604, A-1605, A-1606
   - Claim Range: C-2026–C-2046
-  - New People Nodes Introduced: N-424, N-70, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-691, N-692, N-693, N-694
+  - New People Nodes Introduced: N-424, N-70, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-694
   - New Investigation Target Nodes Introduced: N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -287,24 +287,6 @@ Confidence Level: Medium (cited but article not read in full)
 
 # Node Register
 
-
-**N-691** Node 691
-
-Node Type: person
-
-*Related:*
-
-**N-692** Node 692
-
-Node Type: person
-
-*Related:*
-
-**N-693** Node 693
-
-Node Type: person
-
-*Related:*
 
 ## People Nodes
 
@@ -625,7 +607,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:30
 Claim: Brian Herpolsheimer stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
 Anchored Artifacts: A-1596.1
-Related Nodes: N-424, N-691, N-692, N-693
+Related Nodes: N-424, 
 Investigative Direction: Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---

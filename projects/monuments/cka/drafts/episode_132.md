@@ -419,7 +419,7 @@ Claim Timestamp: 00:06:57
 Claim: Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an "evil thing" and as Candace "weaponizing" Charlie's private messages.
 
 Anchored Artifacts: A-2189.1
-Related Nodes: Andrew Kolvet (existing node), Charlie Kirk (existing node), Candace Owens (existing node)
+Related Nodes: 
 Investigative Direction: Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.
 
 **C-3139** Twitter Community Note corrected Kolvet's framing about text message timeline
@@ -429,7 +429,7 @@ Claim Timestamp: 00:07:44
 Claim: A Community Note attached to Kolvet's X post stated that the released text messages were from November 2023, falling within 22 months of Charlie Kirk's death on September 10, and observed that Kolvet had moved the goalpost from his prior challenge.
 
 Anchored Artifacts: A-2189.2
-Related Nodes: Andrew Kolvet (existing node), Charlie Kirk (existing node)
+Related Nodes: 
 Investigative Direction: Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.
 
 **C-3140** Blake Neff publicly called Candace a "vile witch" in X post
@@ -439,7 +439,7 @@ Claim Timestamp: 00:09:42
 Claim: Blake Neff, in a public X post, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
 
 Anchored Artifacts: A-2190.1
-Related Nodes: N-1208, N-2150, Candace Owens (existing node), Charlie Kirk (existing node)
+Related Nodes: N-2150
 Investigative Direction: Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.
 
 **C-3141** Erika Kirk publicly requested "one thing" remain sacred about Charlie's burial
@@ -449,7 +449,7 @@ Claim Timestamp: 00:13:20
 Claim: Erika Kirk, in a Fox News interview with Harris Faulkner, publicly requested that the location where Charlie Kirk is laid to rest remain a single sacred exception to the public disclosure she said applied to everything else.
 
 Anchored Artifacts: A-2191.1
-Related Nodes: Erica Kirk (existing node), Harris Faulkner (existing node), Charlie Kirk (existing node), N-2150
+Related Nodes: N-2150
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
 **C-3142** Pastor Russell denounced named political opponents in sermon
@@ -459,7 +459,7 @@ Claim Timestamp: 00:24:17
 Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Related Nodes: N-1210, Charlie Kirk (existing node)
+Related Nodes: N-1210
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
 **C-3143** Erika Kirk referenced heaven focus and eternal life during tour speech
@@ -469,7 +469,7 @@ Claim Timestamp: 00:28:37
 Claim: Erika Kirk, in a Make Heaven Crowded tour speech, stated she was "way more heaven focused" since Charlie's murder and quoted an unnamed source as saying "eternal life begins the moment that you truly know Christ."
 
 Anchored Artifacts: A-2193.1
-Related Nodes: Erica Kirk (existing node), Charlie Kirk (existing node)
+Related Nodes: 
 Investigative Direction: Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source.
 
 **C-3144** Erika Kirk referenced "my kids are watching me" in tour speech
@@ -479,7 +479,7 @@ Claim Timestamp: 00:29:29
 Claim: Erika Kirk, in a Make Heaven Crowded tour speech, framed her refusal to surrender around the claim that "my kids are watching me," "my co-workers are watching me," and a "cloud of witnesses."
 
 Anchored Artifacts: A-2193.2
-Related Nodes: Erica Kirk (existing node), Charlie Kirk (existing node)
+Related Nodes: 
 Investigative Direction: Confirm against the full event recording and verify event date and venue.
 
 **C-3145** Andrew Kolvet publicly denied being in Washington DC with TPUSA team
@@ -489,7 +489,7 @@ Claim Timestamp: 00:32:55
 Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.
 
 Anchored Artifacts: A-2194.1
-Related Nodes: Andrew Kolvet (existing node), N-1209, N-2151, Donald Trump (existing node)
+Related Nodes: N-2151
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
 **C-3146** Devante West Instagram account mocked contemporary Christianese
@@ -509,7 +509,7 @@ Claim Timestamp: 00:01:07
 Claim: Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.
 
 Anchored Artifacts: None displayed in this episode (host verbal assertion only)
-Related Nodes: N-1207, N-2148
+Related Nodes: N-2148
 Investigative Direction: Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
 **C-3148** Host asserts wedding ring observed falling from Charlie Kirk's finger in casket footage
@@ -519,7 +519,7 @@ Claim Timestamp: 00:44:04
 Claim: Candace Owens states, in response to a YouTube comment, that Charlie Kirk's wedding ring had an open clasp, that the ring can be seen falling off his finger in certain footage, and that she has been told the ring was never recovered.
 
 Anchored Artifacts: A-2196.5 (trigger), A-2197.1-derived (host's verbal expansion only)
-Related Nodes: Charlie Kirk (existing node), Erica Kirk (existing node)
+Related Nodes: 
 Investigative Direction: Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the "never recovered" assertion.
 
 **C-3149** Host received tip alleging 911 call from Charlie's security team captured specific phrases
@@ -529,7 +529,7 @@ Claim Timestamp: 00:17:17
 Claim: Candace Owens reports receiving a "solid tip" that a 911 call placed by Charlie's security team during transport to the hospital lasted approximately 3–5 minutes, did not result in operator engagement, and captured the phrases "We got him. We are taking him to the hospital," "Get that off of him," and "Get out of the way."
 
 Anchored Artifacts: A-2197.1
-Related Nodes: N-2149, Brian Harpole (existing node), Rick Cutler (existing node), Justin Davis (existing node), Charlie Kirk (existing node)
+Related Nodes: N-2149
 Investigative Direction: File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
 ---

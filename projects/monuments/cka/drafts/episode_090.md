@@ -661,10 +661,6 @@ Investigative Direction: Identify and contact the donors for recorded testimony;
 
 ---
 
-**C-2688** (supplemental, omitted — already listed)
-
----
-
 **C-2695** State claims forensic photographs of Lance Twiggs phone contents will be offered in lieu of forensic extraction
 
 Claim Timestamp: 00:47:50

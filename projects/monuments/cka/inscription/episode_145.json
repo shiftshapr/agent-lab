@@ -736,8 +736,6 @@
         "A-2311.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1",
         "N-2"
       ],
@@ -755,8 +753,6 @@
         "A-2311.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-3"
       ],
       "tags": [],
@@ -772,9 +768,7 @@
       "anchored_artifacts": [
         "A-2310.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:27",
       "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses."
@@ -788,9 +782,7 @@
       "anchored_artifacts": [
         "A-2310.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives."

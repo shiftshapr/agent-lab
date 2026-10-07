@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-716, N-717, N-719, N-1480, N-1481, N-1482, N-1483
-  - Reused Nodes Appearing: N-1006, N-37
+  - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-716, N-719, N-1480, N-1481, N-1482, N-1483
+  - Reused Nodes Appearing: N-2, N-37
   - (see registers)
 
 # Episode 56 Analysis Record
@@ -33,7 +33,7 @@
   - Claim Range: C-2075 – C-2096
   - New Person Nodes Introduced: N-706 through N-719
   - New Investigation Targets Introduced: N-1480, N-1481, N-1482, N-1483
-  - Existing Nodes Reused: N-1 Charlie Kirk, N-1006 Erica Kirk
+  - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk
 
 ---
 
@@ -176,7 +176,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:24
 Confidence Level: Medium (verbally referenced; host states "we have that somewhere so you can see that")
 
-*Related: C-2091, N-1006, N-1483*
+*Related: C-2091, N-2, N-1483*
 
 **A-1627** Andrew Aguilar Comment Bundle
 
@@ -192,12 +192,6 @@ Confidence Level: Medium
 ## IV. Node Register
 
 
-**N-717** Node 717
-
-Node Type: person
-
-*Related:*
-
 **N-1** Charlie Kirk
 [Existing node reused.] Subject of audio clip and timeline references throughout the episode.
 Evidence Count: (ledger)
@@ -206,15 +200,6 @@ Episode Count: (ledger)
 Investigative Pressure: High
 
 *Related: A-1617.1, C-2075, C-2076*
-
-**N-1006** Erica Kirk
-[Existing node reused.] Subject of Instagram-purge data and PR critique.
-Evidence Count: (ledger)
-Claim Count: (ledger)
-Episode Count: (ledger)
-Investigative Pressure: High
-
-*Related: A-1626.1, C-2091, N-1483*
 
 **N-706** Alton C. Jennings
 
@@ -390,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1626.1, C-2091, N-1006*
+*Related: A-1626.1, C-2091, N-2*
 
 ---
 
@@ -412,7 +397,7 @@ Claim Timestamp: 00:04:58
 Claim: Charlie Kirk, in his own recorded words, argued against broader US military engagement with Iran and against neocon calls for regime change.
 
 Anchored Artifacts: A-1617.1
-Related Nodes: N-1, N-717
+Related Nodes: N-1
 Investigative Direction: Obtain primary recording and timestamp; verify quote against original source; confirm date of recording.
 
 **C-2076** Charlie Kirk Criticized Lindsey Graham's Iran Regime-Change Rhetoric
@@ -572,7 +557,7 @@ Claim Timestamp: 00:12:24
 Claim: Social Blade data records Erica Kirk deleting 126 Instagram posts on June 19.
 
 Anchored Artifacts: A-1626.1
-Related Nodes: N-1006, N-1483
+Related Nodes: N-2, N-1483
 Investigative Direction: Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts.
 
 **C-2092** Tucker Carlson Compared Lindsey Graham's Behavior to a Drunk Girlfriend During DUI Stop

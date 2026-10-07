@@ -533,7 +533,7 @@ Claim: An email from a long-time bulletproof-vest supplier describes contract no
 
 Anchored Artifacts: A-1195.1
 
-Related Nodes: N-1214 (loose — adjacent to pre-event protocol questions)
+Related Nodes: N-1214
 
 Investigative Direction: Obtain the underlying email and supplier invoices; verify whether any alternative armor was actually worn on September 10 and which vendor supplied it.
 

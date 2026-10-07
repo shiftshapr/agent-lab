@@ -382,7 +382,7 @@ Claim Timestamp: 00:01:20–00:03:02
 Claim: Per his LinkedIn profile as reported on the episode, Tour Karashi trained at Fort Huachuca using reconnaissance drones.
 
 Anchored Artifacts: A-1927.1
-Related Nodes: N-1208, N-1209, N-1660
+Related Nodes: N-1660
 Investigative Direction: Preserve and verify Tour Karashi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
 **C-2655** "Built" app co-founded by Akhmed Karashi has 3D mission-prep visualization capability
@@ -392,7 +392,7 @@ Claim Timestamp: 00:01:20–00:03:02
 Claim: The "Built" app co-founded by Akhmed Karashi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
 
 Anchored Artifacts: A-1927.4
-Related Nodes: N-1209, N-1660
+Related Nodes: N-1660
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
 **C-2656** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
@@ -442,7 +442,7 @@ Claim Timestamp: 00:14:16–00:15:40
 Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly said "Erika will take over for me" and that the CEO appointment was not forced by anyone at TPUSA.
 
 Anchored Artifacts: A-1932.2
-Related Nodes: N-1207, N-2, N-1658
+Related Nodes: N-2, N-1658
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
 **C-2661** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
@@ -452,7 +452,7 @@ Claim Timestamp: 00:16:55–00:17:45
 Claim: Blake Neff on X declined to release the Aspen video and accused Candace Owens of being a "psychopathic predator" who would dismiss the video as AI regardless.
 
 Anchored Artifacts: A-1932.1
-Related Nodes: N-1207, N-2, N-1658
+Related Nodes: N-2, N-1658
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
 **C-2662** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit

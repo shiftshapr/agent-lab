@@ -127,7 +127,7 @@
           ],
           "related_nodes": [
             "N-102",
-            "N-1137"
+            "N-1079"
           ],
           "tags": [],
           "video_timestamp": "00:17:14–00:19:21",
@@ -152,7 +152,7 @@
           ],
           "related_nodes": [
             "N-129",
-            "N-1137",
+            "N-1079",
             "N-1150"
           ],
           "tags": [],
@@ -810,28 +810,6 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1137",
-      "ref": "N-1137",
-      "name": "FBI",
-      "type": "organization",
-      "description": "Federal Bureau of Investigation; issued investigation statement.",
-      "related_artifacts": [
-        "A-1137.1",
-        "A-1138.1"
-      ],
-      "related_claims": [
-        "C-1232",
-        "C-1233"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "organization_kind": "government_agency"
-    },
-    {
-      "@type": "Organization",
       "@id": "N-1148",
       "ref": "N-1148",
       "name": "CIA",
@@ -1175,7 +1153,7 @@
       ],
       "related_nodes": [
         "N-102",
-        "N-1137"
+        "N-1079"
       ],
       "tags": [],
       "claim_timestamp": "00:17:14",
@@ -1195,7 +1173,7 @@
       "related_nodes": [
         "N-102",
         "N-129",
-        "N-1137",
+        "N-1079",
         "N-1150",
         "N-1152"
       ],

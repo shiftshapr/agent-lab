@@ -471,7 +471,7 @@ Claim Timestamp: 00:03:26
 Claim: Mikey McCoy's arrival footage shows the rear-door pocket of the SUV as empty at the moment Charlie Kirk exited the vehicle, although black gloves were later recovered from that pocket.
 
 Anchored Artifacts: A-2223.1
-Related Nodes: N-1209, N-1, N-2170
+Related Nodes: N-1, N-2170
 
 Investigative Direction: Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.
 
@@ -497,7 +497,7 @@ Claim Timestamp: 00:12:18
 Claim: Officer Bagley testified that his body cam footage began at the Hall of Flags and ran 27 minutes 35 seconds, ending while he was still on the rooftop and before crime tape was placed.
 
 Anchored Artifacts: A-2224.2, A-2233.1
-Related Nodes: N-1207, N-2172
+Related Nodes: N-2172
 
 Investigative Direction: Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.
 
@@ -510,7 +510,7 @@ Claim Timestamp: 00:10:33
 Claim: Officer Bagley testified at the preliminary hearing that he did not know the identity, agency, or origin of the plainclothes individual wearing a badge and carrying a handgun who accompanied him up the Losi building stairs.
 
 Anchored Artifacts: A-2224.1
-Related Nodes: N-1207, N-2171
+Related Nodes: N-2171
 
 Investigative Direction: Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.
 
@@ -523,7 +523,7 @@ Claim Timestamp: 00:10:33
 Claim: Officer Bagley confirmed under preliminary-hearing questioning that the second individual who accompanied him onto the Losi rooftop appeared to have a badge and was carrying a handgun.
 
 Anchored Artifacts: A-2224.1, A-2233.1
-Related Nodes: N-1207, N-2171
+Related Nodes: N-2171
 
 Investigative Direction: Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.
 
@@ -536,7 +536,7 @@ Claim Timestamp: 00:15:40
 Claim: Bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
 
 Anchored Artifacts: A-2227.1
-Related Nodes: N-1207, N-1208, N-1214, N-2171
+Related Nodes: N-1214, N-2171
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
 
@@ -549,7 +549,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Related Nodes: N-1208, N-1215, N-2171
+Related Nodes: N-1215, N-2171
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
 
@@ -575,7 +575,7 @@ Claim Timestamp: 00:16:47
 Claim: A USU Department of Public Safety Facebook announcement, displayed in the episode, states that Allan Robertson had joined the USU police force the summer prior to the September 2025 shooting.
 
 Anchored Artifacts: A-2228.1
-Related Nodes: N-1208
+Related Nodes: 
 
 Investigative Direction: Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.
 
@@ -588,7 +588,7 @@ Claim Timestamp: 00:19:23
 Claim: Per Robertson's LinkedIn profile (verbally referenced), he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.
 
 Anchored Artifacts: A-2235.1
-Related Nodes: N-1208
+Related Nodes: 
 
 Investigative Direction: Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.
 
@@ -601,7 +601,7 @@ Claim Timestamp: 00:22:55
 Claim: The Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.
 
 Anchored Artifacts: A-2229.1
-Related Nodes: N-1208, N-2173
+Related Nodes: N-2173
 
 Investigative Direction: Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.
 
@@ -632,8 +632,6 @@ Related Nodes: N-2174
 Investigative Direction: Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list.
 
 ---
-
-**C-3194** is already inscribed above. Continuing the register.
 
 **C-3206** Erica Kirk stated she does not know what Charlie Kirk would think about war with Iran
 
@@ -694,7 +692,7 @@ Claim Timestamp: 00:18:43
 Claim: YouTuber Nissi's analysis asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
-Related Nodes: N-1207, N-1216, N-2171, N-2172
+Related Nodes: N-1216, N-2171, N-2172
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
 

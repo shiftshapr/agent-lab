@@ -362,7 +362,7 @@ Claim: Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake 
 
 Anchored Artifacts: A-2133.1
 
-Related Nodes: N-1207, N-1
+Related Nodes: N-1
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
 
@@ -374,7 +374,7 @@ Claim: Blake Neff stated during an X Space that he did not recall where the seco
 
 Anchored Artifacts: A-2133.1
 
-Related Nodes: N-1207, N-2114
+Related Nodes: N-2114
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
@@ -386,7 +386,7 @@ Claim: During the X Space, after prompting, Blake Neff indicated that Danny Phil
 
 Anchored Artifacts: A-2133.1
 
-Related Nodes: N-1207, N-1209, N-2114
+Related Nodes: N-2114
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
@@ -398,7 +398,7 @@ Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Ch
 
 Anchored Artifacts: A-2134.1
 
-Related Nodes: N-1209, N-1211, N-2115
+Related Nodes: N-1211, N-2115
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
@@ -410,7 +410,7 @@ Claim: Danny Phillip's father Stephen Phillip was employed at Bank of America Me
 
 Anchored Artifacts: A-2134.1
 
-Related Nodes: N-1210, N-1209, N-2115
+Related Nodes: N-1210, N-2115
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
@@ -446,7 +446,7 @@ Claim: Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had dec
 
 Anchored Artifacts: A-2135.1
 
-Related Nodes: N-1208, N-1
+Related Nodes: N-1
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.
 

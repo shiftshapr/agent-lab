@@ -427,7 +427,7 @@
           "related_nodes": [
             "N-69",
             "N-84",
-            "N-1137"
+            "N-1079"
           ],
           "tags": [],
           "video_timestamp": "00:53:48–00:55:59",
@@ -1165,26 +1165,6 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1137",
-      "ref": "N-1137",
-      "name": "FBI",
-      "type": "organization",
-      "description": "Agency that released Robinson-Lance text chain later mocked by host",
-      "related_artifacts": [
-        "A-1131.1"
-      ],
-      "related_claims": [
-        "C-1224"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
-    },
-    {
-      "@type": "Organization",
       "@id": "N-1138",
       "ref": "N-1138",
       "name": "FCC",
@@ -1841,7 +1821,7 @@
       "related_nodes": [
         "N-69",
         "N-84",
-        "N-1137",
+        "N-1079",
         "N-1143"
       ],
       "tags": [],

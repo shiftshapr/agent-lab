@@ -390,7 +390,7 @@ Claim: Brian Harpole states in the Sean Ryan interview that he personally cut Ch
 
 Anchored Artifacts: A-2085.1
 
-Related Nodes: N-1207, N-2074
+Related Nodes: N-2074
 
 Investigative Direction: Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.
 
@@ -404,7 +404,7 @@ Claim: In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was sh
 
 Anchored Artifacts: A-2086.1
 
-Related Nodes: N-1208, N-2075
+Related Nodes: N-2075
 
 Investigative Direction: Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.
 
@@ -418,7 +418,7 @@ Claim: Approximately 51 minutes after her first interview, Sarah Tool stated in 
 
 Anchored Artifacts: A-2086.2
 
-Related Nodes: N-1208, N-2075
+Related Nodes: N-2075
 
 Investigative Direction: Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account.
 
@@ -432,7 +432,7 @@ Claim: In her ABC News interview, Sarah Tool stated the shooter was approximatel
 
 Anchored Artifacts: A-2086.3
 
-Related Nodes: N-1208, N-2075
+Related Nodes: N-2075
 
 Investigative Direction: Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
 

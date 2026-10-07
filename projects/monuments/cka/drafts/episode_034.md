@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: fe75ca00c3ec2d7898bbeee433de0d6e98b126fb899e15735450cf108ba10f1b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-415, N-416, N-417, N-418, N-419, N-420, N-421, N-422, N-1330, N-1331, N-1332, N-1333, N-1334, N-1335
+  - New Nodes Introduced: N-1330, N-1331, N-1332, N-1333, N-1334, N-1335
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -32,7 +32,7 @@
 ### Episode 34 Ledger Summary
 - Artifact Families Introduced: A-1425, A-1426, A-1427, A-1428, A-1429, A-1430, A-1431, A-1432, A-1433, A-1434
 - Claim Range: C-1735–C-1744
-- New Nodes Introduced (People): N-415, N-416, N-417, N-418, N-419, N-420, N-421, N-422
+- New Nodes Introduced (People):  
 - New Nodes Introduced (Investigation Targets): N-1330, N-1331, N-1332, N-1333, N-1334, N-1335
 - Existing Nodes Reused (referenced, IDs presumed in earlier episodes): Charlie Kirk, Erika Kirk, Mikey McCoy, Kash Patel, Joe Kent, Tulsi Gabbard, Tim Pool (referred to in transcript as "Tim P"), Ryan Mata, Phil Lyman, Elizabeth Lane, Megan Kelly
 
@@ -122,7 +122,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 23:53
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1737, N-415, N-416, N-421, A-1428.2*
+- *Related: C-1737, , A-1428.2*
 
 **A-1428.2** Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Lozi Center
 - Event Timestamp: Prior to 2025-09-10 (date unspecified in transcript; "on Monday before this correspondence went to Chief Long")
@@ -130,7 +130,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 26:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High (text quoted verbatim)
-- *Related: C-1737, N-415, N-416, A-1428.1*
+- *Related: C-1737, , A-1428.1*
 
 ---
 
@@ -142,7 +142,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 32:53
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1738, N-417, A-1429.2*
+- *Related: C-1738, A-1429.2*
 
 **A-1429.2** Blake Neff phone-call screenshot — call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)
 - Event Timestamp: 2025-09-10 (date of shooting)
@@ -150,7 +150,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 36:37
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High (screenshot displayed)
-- *Related: C-1739, N-417, N-1333, A-1429.1*
+- *Related: C-1739, N-1333, A-1429.1*
 
 ---
 
@@ -162,7 +162,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 38:58
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High
-- *Related: C-1740, N-422, A-1431.1*
+- *Related: C-1740, A-1431.1*
 
 ---
 
@@ -174,7 +174,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 42:02
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High (displayed)
-- *Related: C-1741, N-422, N-1335, A-1430.1*
+- *Related: C-1741, N-1335, A-1430.1*
 
 ---
 
@@ -186,7 +186,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 01:55
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High
-- *Related: C-1742, N-418, A-1425.x*
+- *Related: C-1742, A-1425.x*
 
 ---
 
@@ -198,7 +198,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 03:02
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High
-- *Related: C-1743, N-419, A-1425.x*
+- *Related: C-1743, A-1425.x*
 
 ---
 
@@ -210,60 +210,12 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 20:20
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1744, N-420, N-1334*
+- *Related: C-1744, N-1334*
 
 ---
 
 ## IV. Node Register
 
-
-**N-415** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related: N-421*
-
-**N-416** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related:*
-
-**N-417** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related:*
-
-**N-418** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related:*
-
-**N-419** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related:*
-
-**N-420** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related:*
-
-**N-421** White 2025 Toyota Camry — Arizona plate CWN-N9872
-
-Node Type: person
-
-*Related:*
-
-**N-422** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
-
-Node Type: person
-
-*Related:*
 
 ### People
 
@@ -298,7 +250,7 @@ Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his 
 - Claim Count: 2
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1429.1, A-1429.2, C-1738, C-1739, N-417, N-422*
+- *Related: A-1429.1, A-1429.2, C-1738, C-1739, *
 
 **N-1334** TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery
 The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
@@ -306,7 +258,7 @@ The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assas
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: High
-- *Related: A-1434.1, C-1744, N-420*
+- *Related: A-1434.1, C-1744, *
 
 **N-1335** Calvary Chapel Pro-Israel Coordination
 Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's "Stand with Israel" / "Why Jews are hated" framing (A-1431.1).
@@ -314,7 +266,7 @@ Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magaz
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1430.1, A-1431.1, C-1740, C-1741, N-422*
+- *Related: A-1430.1, A-1431.1, C-1740, C-1741, *
 
 ---
 
@@ -341,7 +293,7 @@ Related Nodes: N-1332
 - Claim Timestamp: 26:12
 - Claim: Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was "I got you covered," and Harpole did not follow up further.
 - Anchored Artifacts: A-1428.1, A-1428.2
-Related Nodes: N-415, N-416, N-421
+Related Nodes:  
 - Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
 **C-1738** Blake Neff was standing next to Mikey McCoy at the moment of the shooting.
@@ -349,7 +301,7 @@ Related Nodes: N-415, N-416, N-421
 - Claim Timestamp: 32:53
 - Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
 - Anchored Artifacts: A-1429.1
-Related Nodes: N-417, N-1333
+Related Nodes:  N-1333
 - Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
 **C-1739** Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.
@@ -357,7 +309,7 @@ Related Nodes: N-417, N-1333
 - Claim Timestamp: 36:37
 - Claim: A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.
 - Anchored Artifacts: A-1429.2
-Related Nodes: N-417, N-1333
+Related Nodes:  N-1333
 - Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
 **C-1740** Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as "essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity."
@@ -365,7 +317,7 @@ Related Nodes: N-417, N-1333
 - Claim Timestamp: 38:58
 - Claim: Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.
 - Anchored Artifacts: A-1430.1
-Related Nodes: N-422, N-1335
+Related Nodes:  N-1335
 - Investigative Direction: Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.
 
 **C-1741** The current issue of Calvary Chapel magazine carries a "Stand with Israel" cover and a "Why Jews are hated" article, with interior content featuring IDF soldiers.
@@ -373,7 +325,7 @@ Related Nodes: N-422, N-1335
 - Claim Timestamp: 42:02
 - Claim: The episode displays the current month's Calvary Chapel magazine cover featuring "Stand with Israel" and a "Why Jews are hated" subtitle; interior content referenced includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
 - Anchored Artifacts: A-1431.1
-Related Nodes: N-422, N-1335
+Related Nodes:  N-1335
 - Investigative Direction: Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.
 
 **C-1742** Aayol Yakobe posted on X that the rental-plate disclosure constitutes "doxing."
@@ -381,7 +333,7 @@ Related Nodes: N-422, N-1335
 - Claim Timestamp: 01:55
 - Claim: Aayol Yakobe posted on X characterizing the rental-plate disclosure as "doxing" and describing it as "unparalleled levels of insanity" and "truly dangerous."
 - Anchored Artifacts: A-1432.1, A-1425.1–A-1425.5
-Related Nodes: N-418, N-1330
+Related Nodes:  N-1330
 - Investigative Direction: Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations.
 
 **C-1743** Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
@@ -389,7 +341,7 @@ Related Nodes: N-418, N-1330
 - Claim Timestamp: 03:02
 - Claim: Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.
 - Anchored Artifacts: A-1433.1
-Related Nodes: N-419
+Related Nodes: 
 - Investigative Direction: Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged "doxing teenagers" claim.
 
 **C-1744** A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.
@@ -397,7 +349,7 @@ Related Nodes: N-419
 - Claim Timestamp: 20:20
 - Claim: The episode identifies a flight from Scottsdale to Provo on the day of the assassination, owned by Turning Point USA donor TWW Lewis (whose foundation lists TPUSA as a recipient).
 - Anchored Artifacts: A-1434.1
-Related Nodes: N-420, N-1334
+Related Nodes:  N-1334
 - Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers.
 
 ---

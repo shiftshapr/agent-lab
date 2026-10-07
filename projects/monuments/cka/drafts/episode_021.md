@@ -246,7 +246,7 @@ Claim: Before the September 11, 2025 update, the TPUSA Wikipedia article contain
 
 Anchored Artifacts: A-1283.1
 
-Related Nodes: N-1 (Charlie Kirk), N-1266
+Related Nodes: N-1266
 
 Investigative Direction: Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text.
 
@@ -288,7 +288,7 @@ Claim: The only Truth Social post by President Trump that could be read as calli
 
 Anchored Artifacts: A-1285.1
 
-Related Nodes: N-4 (Donald Trump, existing), N-1268
+Related Nodes: N-4, N-1268
 
 Investigative Direction: Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly.
 
@@ -330,7 +330,7 @@ Claim: President Trump signed or otherwise established October 14 — Charlie Ki
 
 Anchored Artifacts: A-1289.1
 
-Related Nodes: N-4 (Donald Trump, existing), N-1 (Charlie Kirk)
+Related Nodes: N-4, N-1
 
 Investigative Direction: Locate the relevant proclamation in the Federal Register or White House archive to confirm date, scope, and signing date.
 

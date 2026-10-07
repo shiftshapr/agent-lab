@@ -51,7 +51,7 @@ Video Timestamp: 00:01:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-1002 (Tucker Carlson — reuse if exists, else new)*
+*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-50 (Tucker Carlson — reuse if exists, else new)*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:10:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable in episode; document mailed anonymously)
 
-*Related: C-3571, N-1 (Charlie Kirk), N-1004 (Freemason Bible authentication — reuse if exists)*
+*Related: C-3571, N-1 (Charlie Kirk), N-2347 (Freemason Bible authentication — reuse if exists)*
 
 **A-2439.2** Text excerpt from the document: "It has been correctly stated that symbolism constitutes the very essence of Freemasonry… A symbol or an emblem is an occult representation of something unknown or concealed by a sign or a thing that is known." Section titled "the science of symbolism explained."
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable)
 
-*Related: C-3572, N-1004*
+*Related: C-3572, N-2*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erica Kirk), N-1005 (Tyler Bowyer — reuse if exists), N-37*
+*Related: C-3573, N-2 (Erica Kirk), N-37 (Tyler Bowyer — reuse if exists), N-37*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (dated)
 
-*Related: C-3574, N-2 (Erica Kirk), N-1006 (Frank Turek — reuse if exists)*
+*Related: C-3574, N-2 (Erica Kirk), N-16 (Frank Turek — reuse if exists)*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:21:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (date not given in episode)
 
-*Related: C-3575, N-2 (Erica Kirk), N-1007 (Mikey McQuaid — reuse if exists)*
+*Related: C-3575, N-2 (Erica Kirk), N-272 (Mikey McQuaid — reuse if exists)*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3576, N-1008 (Miriam Adelson — reuse if exists), N-1009 (Donald Trump — reuse if exists)*
+*Related: C-3576,  (Miriam Adelson — reuse if exists), N-1009 (Donald Trump — reuse if exists)*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:41:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3580, N-1009 (Donald Trump), N-1011 (Marco Rubio — reuse if exists)*
+*Related: C-3580, N-1009 (Donald Trump),  (Marco Rubio — reuse if exists)*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:46:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3581, N-1012 (Bibi Netanyahu — reuse if exists), N-1013 (Benny Gantz — reuse if exists)*
+*Related: C-3581, N-65 (Bibi Netanyahu — reuse if exists), N-1013 (Benny Gantz — reuse if exists)*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-1009 (Donald Trump), N-1014 (Karoline Leavitt — reuse if exists)*
+*Related: C-3582, N-1009 (Donald Trump), N-446 (Karoline Leavitt — reuse if exists)*
 
 ---
 
@@ -330,7 +330,7 @@ Claim Timestamp: 00:01:25
 Claim: The episode displays a Tucker Carlson X post reading, in full, "Pray that the spell breaks and the world is saved."
 
 Anchored Artifacts: A-2436.1
-Related Nodes: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-1002 (Tucker Carlson)
+Related Nodes: N-1, N-2
 Investigative Direction: Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent.
 
 ---
@@ -342,7 +342,7 @@ Claim Timestamp: 00:12:25
 Claim: The Wikipedia article on the Seal of Solomon, as read on camera, describes the symbol as depicted "in the shape of either a hexagon or a pentagram" and ties it to King Solomon's ring, "medieval magic and Renaissance magic, occultism, alchemy."
 
 Anchored Artifacts: A-2437.1
-Related Nodes: N-2 (Erica Kirk), N-1003 (host-curated occult reading node)
+Related Nodes: N-2, N-1003
 Investigative Direction: Pull the live Wikipedia article and capture revision history; confirm whether the language is stable.
 
 ---
@@ -354,7 +354,7 @@ Claim Timestamp: 00:15:10
 Claim: Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to "reveal the method" of their operations even while remaining hidden, and that this has a sadistic dimension in which "they still want to show themselves in some way."
 
 Anchored Artifacts: A-2438.1
-Related Nodes: N-2349 (Father Ripperger)
+Related Nodes: N-2349
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -366,7 +366,7 @@ Claim Timestamp: 00:10:30
 Claim: The physical document shown on camera contains, in its first pages, a pentagram with internal illustrations and the label "Place of sacrifice or worship" pointing to its center.
 
 Anchored Artifacts: A-2439.1
-Related Nodes: N-2347 ("Freemason Bible" authentication)
+Related Nodes: N-2347
 Investigative Direction: Obtain the document or high-resolution photograph to verify the label and language; confirm publication origin.
 
 ---
@@ -390,7 +390,7 @@ Claim Timestamp: 00:19:40
 Claim: Tyler Bowyer stated on camera that he had previously had conversations with Charlie in which Charlie said "Erika could be so much bigger and better than me at almost everything" and "believed firmly that Erika was going to be president someday."
 
 Anchored Artifacts: A-2440.1
-Related Nodes: N-2 (Erica Kirk), N-2348 (Erika Kirk presidential viability narrative), N-37
+Related Nodes: N-2348, N-37
 Investigative Direction: Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.
 
 ---
@@ -402,7 +402,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated on camera on October 7 that he "used to say to him the ticket in 2028 is going to be Vance Kirk" and that "between you and me and our listeners, I'm not giving up on the Vance Kirk ticket," and that "Erika would be an amazing president someday."
 
 Anchored Artifacts: A-2441.1
-Related Nodes: N-2 (Erica Kirk), N-2348
+Related Nodes: N-2348
 Investigative Direction: Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced.
 
 ---
@@ -414,7 +414,7 @@ Claim Timestamp: 00:21:50
 Claim: Mikey McQuaid stated on camera that Charlie "left behind these blueprints for her" (Erika) and "for you" (McQuaid).
 
 Anchored Artifacts: A-2442.1
-Related Nodes: N-2 (Erica Kirk), N-2348
+Related Nodes: N-2348
 Investigative Direction: Identify source program and date; determine what McQuaid claims the "blueprints" to be.
 
 ---
@@ -426,7 +426,7 @@ Claim Timestamp: 00:36:50
 Claim: Donald Trump stated on camera, "I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel."
 
 Anchored Artifacts: A-2443.1
-Related Nodes: N-1008 (Miriam Adelson), N-1009 (Donald Trump)
+Related Nodes: N-2, N-1009
 Investigative Direction: Identify the original event and capture full context of Trump's remarks.
 
 ---
@@ -438,7 +438,7 @@ Claim Timestamp: 00:38:50
 Claim: The episode presents the claim (via headline) that "Venezuela sends first oil shipment to Israel in years in signs of relations improving," implying a linkage to the U.S. military operation against Maduro.
 
 Anchored Artifacts: A-2445.1
-Related Nodes: N-1009 (Donald Trump)
+Related Nodes: N-1009
 Investigative Direction: Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action.
 
 ---
@@ -450,7 +450,7 @@ Claim Timestamp: 00:39:30
 Claim: The Washington Post, as read on camera, reported that Trump's February 26 executive order invoking the Defense Production Act boosted glyphosate production and, in a lesser-noted clause, also covered elemental (white) phosphorus manufactured domestically only by Bayer and used in munitions.
 
 Anchored Artifacts: A-2446.1
-Related Nodes: N-1009 (Donald Trump)
+Related Nodes: N-1009
 Investigative Direction: Pull the actual EO text and the WaPo article; confirm the white-phosphorus clause and Bayer's exclusive-domestic-manufacturer status.
 
 ---
@@ -462,7 +462,7 @@ Claim Timestamp: 00:40:50
 Claim: A headline displayed/read on camera asserts "Israel unlawfully using white phosphorus."
 
 Anchored Artifacts: A-2447.1
-Related Nodes: N-1009 (Donald Trump)
+Related Nodes: N-1009
 Investigative Direction: Identify the article source, date, geographic location of alleged use, and any corroborating documentation from NGOs or UN bodies.
 
 ---
@@ -474,7 +474,7 @@ Claim Timestamp: 00:41:40
 Claim: Marco Rubio stated on camera that "we knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties."
 
 Anchored Artifacts: A-2448.1
-Related Nodes: N-1009 (Donald Trump), N-1011 (Marco Rubio)
+Related Nodes: N-1009, N-2
 Investigative Direction: Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements.
 
 ---
@@ -486,7 +486,7 @@ Claim Timestamp: 00:46:50
 Claim: Benny Gantz stated on camera that he "would not exclude" the need for boots on the ground and that "we exclude nothing. We've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals."
 
 Anchored Artifacts: A-2449.1
-Related Nodes: N-1012 (Bibi Netanyahu), N-1013 (Benny Gantz)
+Related Nodes: N-2, N-1013
 Investigative Direction: Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew.
 
 ---
@@ -498,7 +498,7 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Related Nodes: N-1009 (Donald Trump), N-1014 (Karoline Leavitt)
+Related Nodes: N-1009, N-2
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -510,7 +510,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Related Nodes: N-2 (Erica Kirk), N-443 (Tim Dillon)
+Related Nodes: N-2, N-443
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---

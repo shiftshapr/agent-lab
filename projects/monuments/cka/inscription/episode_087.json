@@ -997,24 +997,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-57",
+      "ref": "N-57",
+      "name": "Mitt Romney",
+      "type": "person",
+      "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-57",
-        "ref": "N-57",
-        "name": "Mitt Romney",
-        "type": "person",
-        "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1026,12 +1025,9 @@
         "A-1917.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1648"
-      ,
-            "N-57"
-          ],
+        "N-1648",
+        "N-57"
+      ],
       "tags": [],
       "claim_timestamp": "00:03:21–00:04:22",
       "investigative_direction": "Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records."
@@ -1085,7 +1081,6 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-1209",
         "N-1653"
       ],
       "tags": [],
@@ -1102,7 +1097,6 @@
         "A-1919.1"
       ],
       "related_nodes": [
-        "N-1209",
         "N-1652"
       ],
       "tags": [],
@@ -1120,7 +1114,6 @@
         "A-1920.1"
       ],
       "related_nodes": [
-        "N-1209",
         "N-1211",
         "N-1652"
       ],
@@ -1139,7 +1132,6 @@
         "A-1920.2"
       ],
       "related_nodes": [
-        "N-1209",
         "N-1211",
         "N-1652"
       ],
@@ -1158,7 +1150,6 @@
       ],
       "related_nodes": [
         "N-1212",
-        "N-1207",
         "N-1648",
         "N-1211"
       ],
@@ -1240,7 +1231,6 @@
       "claim": "The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1209",
         "N-1211",
         "N-1212",
         "N-1213",
@@ -1398,7 +1388,6 @@
       ],
       "related_nodes": [
         "N-1219",
-        "N-1207",
         "N-1654"
       ],
       "tags": [],
@@ -1414,8 +1403,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1220",
-        "N-1214",
-        "N-1207"
+        "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:25:43–00:26:30",
@@ -1430,8 +1418,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1221",
-        "N-1214",
-        "N-1207"
+        "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:25:43–00:26:30",

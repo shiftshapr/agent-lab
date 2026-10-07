@@ -664,7 +664,7 @@ Claim: Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen tha
 
 Anchored Artifacts: A-1202.1, A-1203.2
 
-Related Nodes: N-195, N-196, N-200 (Megyn Kelly existing)
+Related Nodes: N-195, N-196, N-200
 
 Investigative Direction: Capture full thread context including replies not quoted on air.
 

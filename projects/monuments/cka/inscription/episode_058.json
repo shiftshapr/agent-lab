@@ -359,36 +359,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-739",
-      "ref": "N-739",
-      "name": "Node 739",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-742",
-      "ref": "N-742",
-      "name": "Node 742",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-729",
       "ref": "N-729",
       "name": "Clayton Haugen",
@@ -1001,9 +971,7 @@
         "N-736",
         "N-737",
         "N-1488",
-        "N-1489",
-        "N-739",
-        "N-742"
+        "N-1489"
       ],
       "tags": [],
       "claim_timestamp": "00:03:23–00:05:24",

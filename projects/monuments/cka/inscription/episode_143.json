@@ -126,7 +126,7 @@
             "C-3306"
           ],
           "related_nodes": [
-            "N-1027",
+            "N-176",
             "N-69",
             "N-1"
           ],
@@ -155,7 +155,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-1027",
+            "N-176",
             "N-1",
             "N-69"
           ],
@@ -185,7 +185,7 @@
           "related_nodes": [
             "N-5",
             "N-1207",
-            "N-1027"
+            "N-176"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -283,21 +283,6 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1026",
-      "ref": "N-1026",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Referenced via Glenn Beck show statement regarding Charlie's pre-event text messages (verbally referenced only, no artifact shown in this episode).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
       "@type": "Person",
       "@id": "N-5",
       "ref": "N-5",
@@ -332,25 +317,6 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1027",
-      "ref": "N-1027",
-      "name": "Mike Mitchell",
-      "type": "investigation_target",
-      "description": "Family friend / former police officer / Mormon minister identified by Trump (A-2296) as the recognition source for Tyler Robinson.",
-      "related_artifacts": [
-        "A-2296.1"
-      ],
-      "related_claims": [
-        "C-3306"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -582,7 +548,7 @@
         "A-2296.1"
       ],
       "related_nodes": [
-        "N-1027",
+        "N-176",
         "N-69",
         "N-1"
       ],
@@ -600,7 +566,7 @@
         "A-2296.1"
       ],
       "related_nodes": [
-        "N-1027"
+        "N-176"
       ],
       "tags": [],
       "claim_timestamp": "00:33:22",
@@ -633,8 +599,7 @@
         "A-2297.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1027",
+        "N-176",
         "N-69",
         "N-1"
       ],
@@ -653,8 +618,7 @@
       ],
       "related_nodes": [
         "N-5",
-        "N-1207",
-        "N-1027"
+        "N-176"
       ],
       "tags": [],
       "claim_timestamp": "00:34:27",
@@ -670,7 +634,6 @@
         "A-2299.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-69"
       ],
       "tags": [],

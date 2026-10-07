@@ -449,7 +449,7 @@ Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it w
 
 Anchored Artifacts: A-2301.1, A-2301.2
 
-Related Nodes: N-1207, N-1208, N-2209, N-2211
+Related Nodes: N-2209, N-2211
 
 Investigative Direction: Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.
 
@@ -463,7 +463,7 @@ Claim: Episode footage shows Terrell Farnsworth displaying content on his laptop
 
 Anchored Artifacts: A-2301.2
 
-Related Nodes: N-1207, N-1208, N-2211
+Related Nodes: N-2211
 
 Investigative Direction: Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.
 
@@ -477,7 +477,7 @@ Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparia
 
 Anchored Artifacts: A-2302.1, A-2304.1
 
-Related Nodes: N-1207, N-1213, N-1215, N-2209
+Related Nodes: N-1213, N-1215, N-2209
 
 Investigative Direction: Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.
 
@@ -561,7 +561,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded th
 
 Anchored Artifacts: A-2306.1
 
-Related Nodes: N-1209, N-1210, N-1211
+Related Nodes: N-1210, N-1211
 
 Investigative Direction: Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.
 
@@ -575,7 +575,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the
 
 Anchored Artifacts: A-2306.2
 
-Related Nodes: N-1209, N-1210, N-1211, N-46
+Related Nodes: N-1210, N-1211, N-46
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 
@@ -589,7 +589,7 @@ Claim: A November 2023 clip of Charlie Kirk shows him saying Candace is "on our 
 
 Anchored Artifacts: A-2307.1
 
-Related Nodes: N-1209, N-1211, N-1216
+Related Nodes: N-1211, N-1216
 
 Investigative Direction: Obtain the full unedited segment; note any surrounding context that may complicate the read.
 
@@ -603,7 +603,7 @@ Claim: Text messages and calls between Candace and Andrew Kolvet from September 
 
 Anchored Artifacts: A-2308.1, A-2308.2
 
-Related Nodes: N-1209, N-2212
+Related Nodes: N-2212
 
 Investigative Direction: Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.
 
@@ -617,7 +617,7 @@ Claim: Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025
 
 Anchored Artifacts: A-2308.1, A-2308.2
 
-Related Nodes: N-1209, N-1217, N-2212
+Related Nodes: N-1217, N-2212
 
 Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.
 

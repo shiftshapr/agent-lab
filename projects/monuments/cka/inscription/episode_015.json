@@ -543,22 +543,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
-      "name": "Andrew Kolvet",
-      "type": "person",
-      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-70",
       "ref": "N-70",
       "name": "Spencer Cox",
@@ -572,24 +556,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -602,10 +585,9 @@
       ],
       "related_nodes": [
         "N-70",
-        "N-1228"
-      ,
-            "N-37"
-          ],
+        "N-1228",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025."
@@ -621,10 +603,9 @@
       ],
       "related_nodes": [
         "N-70",
-        "N-1231"
-      ,
-            "N-37"
-          ],
+        "N-1231",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:26:20",
       "investigative_direction": "FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing."
@@ -639,10 +620,9 @@
         "A-1220.2"
       ],
       "related_nodes": [
-        "N-70"
-      ,
-            "N-37"
-          ],
+        "N-70",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:40:21",
       "investigative_direction": "Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes."
@@ -677,10 +657,9 @@
       "related_nodes": [
         "N-70",
         "N-42",
-        "N-1228"
-      ,
-            "N-37"
-          ],
+        "N-1228",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025."
@@ -827,10 +806,9 @@
       ],
       "related_nodes": [
         "N-135",
-        "N-70"
-      ,
-            "N-37"
-          ],
+        "N-70",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag)."

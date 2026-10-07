@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-649, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
+  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable — Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-37
 
@@ -175,12 +175,6 @@ Confidence Level: High (as displayed text)
 
 ## IV. Node Register
 
-
-**N-649** Node 649
-
-Node Type: person
-
-*Related:*
 
 **N-640** Maggie Wagner
 
@@ -422,7 +416,7 @@ Claim: A Daily Wire producer contacted Maggie Wagner approximately two days afte
 
 Anchored Artifacts: A-1587.1
 
-Related Nodes: N-640, N-1456, N-649
+Related Nodes: N-640, N-1456
 
 Investigative Direction: Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.
 

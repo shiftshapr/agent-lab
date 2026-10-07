@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-792, N-793, N-1514, N-1515, N-1516
-  - Reused Nodes Appearing: N-1008
+  - Reused Nodes Appearing: N-2
   - (see registers)
 
 # Episode 63 — Analysis Record
@@ -36,7 +36,7 @@ Episode 63 Ledger Summary:
 - Claim Range: C-2194–C-2205
 - New Person Nodes Introduced: N-724, N-792, N-793
 - New Investigation Target Nodes Introduced: N-1514, N-1515, N-1516
-- Existing Nodes Reused: N-1008
+- Existing Nodes Reused: N-2
 
 ---
 
@@ -66,7 +66,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:11:24
 
-*Related: C-2194, C-2195, C-2199, N-1008*
+*Related: C-2194, C-2195, C-2199, N-2*
 
 **A-1676.2** Erika Kirk addressing grief — listing counselors, pastors, therapy dogs, paid flights for spouses, and advising employees that paid time off is available through standard channels if more time is needed.
 
@@ -74,7 +74,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:47
 
-*Related: C-2196, N-1008, N-1514*
+*Related: C-2196, N-2, N-1514*
 
 **A-1676.3** Erika Kirk discussing "Vision 2030" — stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is "excited."
 
@@ -82,7 +82,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:47
 
-*Related: C-2197, C-2198, N-1008, N-792, N-1515*
+*Related: C-2197, C-2198, N-2, N-792, N-1515*
 
 ---
 
@@ -118,7 +118,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:45
 
-*Related: C-2200, C-2205, N-1008*
+*Related: C-2200, C-2205, N-2*
 
 ---
 
@@ -192,7 +192,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:45
 
-*Related: C-2203, N-1008*
+*Related: C-2203, N-2*
 
 **A-1685.2** Comment from "Becca" — "When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA."
 
@@ -200,7 +200,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:20
 
-*Related: N-1008*
+*Related: N-2*
 
 **A-1685.3** Comment from "Jay Burgerer" — "Don't forget MLK started college at 15 and had a faith-based movement by the time that he was 21."
 
@@ -224,7 +224,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:25
 
-*Related: N-1008*
+*Related: N-2*
 
 **A-1685.6** Comment from "Joseph Brown" — Incomplete ("Candace Owens, uh, curious").
 
@@ -256,7 +256,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:52:26
 
-*Related: N-1008*
+*Related: N-2*
 
 **A-1685.10** Comment from "Maria Rits / Jolly Valley girl" — "Hey Jolly Valley girl tone excited to be discussing business numbers and goals is super cringe and weird."
 
@@ -264,7 +264,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:45
 
-*Related: N-1008, N-1514*
+*Related: N-2, N-1514*
 
 **A-1685.11** Comment from "Jess Happy" — "And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace."
 
@@ -272,7 +272,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:21
 
-*Related: N-1008*
+*Related: N-2*
 
 ---
 
@@ -286,16 +286,6 @@ Evidence Count: 2
 Claim Count: 2
 Episode Count: 1 (this episode; cumulative higher)
 *Related: A-1677.1, A-1678.1, C-2201, C-2202*
-
-**N-1008** Erica Kirk
-
-Subject of the Zoom call audio (A-1676 series), the NYT profile (A-1679.1), and multiple chat comments. Reused from prior episodes.
-
-Evidence Count: 6
-Claim Count: 7
-Episode Count: 1 (this episode; cumulative higher)
-Investigative Pressure: High
-*Related: A-1676.1, A-1676.2, A-1676.3, A-1679.1, A-1685.1, A-1685.2, A-1685.5, A-1685.9, A-1685.10, A-1685.11, C-2194, C-2195, C-2196, C-2197, C-2198, C-2199, C-2200, C-2205, N-1514, N-1515*
 
 **N-724** Bill Montgomery
 
@@ -335,7 +325,7 @@ Evidence Count: 3
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1676.1, A-1676.2, A-1685.10, C-2194, C-2196, N-1008*
+*Related: A-1676.1, A-1676.2, A-1685.10, C-2194, C-2196, N-2*
 
 **N-1515** TPUSA Vision 2030 Documentation Verification
 
@@ -345,7 +335,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1676.3, C-2197, C-2198, N-1008, N-792*
+*Related: A-1676.3, C-2197, C-2198, N-2, N-792*
 
 **N-1516** Christian Zionist Threat Message Authorship Verification
 
@@ -366,7 +356,7 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:11:24
 Claim: The episode presents that Erika Kirk's opening remarks on the corporate-wide Zoom call included laughter, thanks, and memorial metrics including 275,000 attendees and broadcast reach of "over 100 million."
 Anchored Artifacts: A-1676.1
-Related Nodes: N-1008, N-1514
+Related Nodes: N-2, N-1514
 Investigative Direction: Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.
 
 **C-2195** Erika Kirk stated staff worked 20-hour days during the week of the memorial
@@ -374,7 +364,7 @@ Investigative Direction: Obtain full 15-minute Zoom call audio for content and t
 Claim Timestamp: 00:11:24
 Claim: The episode presents Erika Kirk telling the call that "a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week."
 Anchored Artifacts: A-1676.1
-Related Nodes: N-1008
+Related Nodes: N-2
 Investigative Direction: Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.
 
 **C-2196** Erika Kirk advised employees that paid time off is available if they need more time to grieve
@@ -382,7 +372,7 @@ Investigative Direction: Cross-reference staff schedules, payroll records, and c
 Claim Timestamp: 00:15:47
 Claim: The episode presents Erika Kirk telling employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.
 Anchored Artifacts: A-1676.2
-Related Nodes: N-1008, N-1514
+Related Nodes: N-2, N-1514
 Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.
 
 **C-2197** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
@@ -390,7 +380,7 @@ Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employe
 Claim Timestamp: 00:20:47
 Claim: The episode presents Erika Kirk stating Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
 Anchored Artifacts: A-1676.3
-Related Nodes: N-1008, N-792, N-1515
+Related Nodes: N-2, N-792, N-1515
 Investigative Direction: Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.
 
 **C-2198** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
@@ -398,7 +388,7 @@ Investigative Direction: Obtain TPUSA board minutes, executive announcements reg
 Claim Timestamp: 00:20:47
 Claim: The episode presents Erika Kirk stating: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
 Anchored Artifacts: A-1676.3
-Related Nodes: N-1008, N-1515
+Related Nodes: N-2, N-1515
 Investigative Direction: Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel.
 
 **C-2199** Erika Kirk used the phrase "Turning Point USA 2.0"
@@ -406,7 +396,7 @@ Investigative Direction: Establish provenance, chain of custody, and authenticit
 Claim Timestamp: 00:14:29
 Claim: The episode presents Erika Kirk stating on the call: "we are moving forward turning point USA 2.0 with Charlie in our hearts."
 Anchored Artifacts: A-1676.1
-Related Nodes: N-1008
+Related Nodes: N-2
 Investigative Direction: Determine whether "TPUSA 2.0" branding has been formally adopted in organizational materials, IRS filings, or governance documents.
 
 **C-2200** Erika Kirk described becoming a single mother as "the least traumatizing thing" in a NYT interview
@@ -414,7 +404,7 @@ Investigative Direction: Determine whether "TPUSA 2.0" branding has been formall
 Claim Timestamp: 00:07:45
 Claim: The episode presents a quoted excerpt from the NYT profile in which Erika Kirk, eight days after Charlie's assassination, characterizes single motherhood as "actually the least traumatizing thing for me since she herself has been raised by her mother after their parents divorced when she was young."
 Anchored Artifacts: A-1679.1
-Related Nodes: N-1008
+Related Nodes: N-2
 Investigative Direction: Verify full NYT article text and date of publication; compare framing against prior public statements by Erika Kirk regarding the timing of the interview.
 
 **C-2201** Charlie Kirk texted Candace Owens in 2018 saying he knew from the start of TPUSA he might die
@@ -454,7 +444,7 @@ Investigative Direction: Establish provenance and dating of the romance hotline 
 Claim Timestamp: 00:06:44
 Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 — eight days after Charlie's public assassination.
 Anchored Artifacts: A-1679.1
-Related Nodes: N-1008
+Related Nodes: N-2
 Investigative Direction: Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary.
 
 ---

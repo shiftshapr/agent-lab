@@ -687,24 +687,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -818,10 +817,9 @@
         "A-1828.1"
       ],
       "related_nodes": [
-        "N-1600"
-      ,
-            "N-37"
-          ],
+        "N-1600",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline."
@@ -892,10 +890,9 @@
         "A-1832.1"
       ],
       "related_nodes": [
-        "N-1601"
-      ,
-            "N-37"
-          ],
+        "N-1601",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:38:23",
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted."
@@ -910,10 +907,9 @@
         "A-1833.1"
       ],
       "related_nodes": [
-        "N-1602"
-      ,
-            "N-37"
-          ],
+        "N-1602",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:26:36",
       "investigative_direction": "Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles."

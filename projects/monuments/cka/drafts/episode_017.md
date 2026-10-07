@@ -667,7 +667,7 @@ Claim Timestamp: 00:04:50
 Claim: Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
-Related Nodes: N-1, N-? (Tucker Carlson), N-237
+Related Nodes: N-1, N-237
 
 Investigative Direction: Verify the full memorial transcript and locate the segment within the recording.
 
@@ -771,7 +771,7 @@ Claim Timestamp: 00:47:42
 Claim: On the morning of October 8, 2025, Dinesh D'Souza posted on X comparing Candace Owens to a "freak show" and a farmer having sex with a sheep, with the stated intent of discouraging viewership.
 
 Anchored Artifacts: A-1245.1, A-1245.2
-Related Nodes: N-235, N-238, N-? (Candace Owens)
+Related Nodes: N-235, N-238
 
 Investigative Direction: Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.
 
@@ -784,7 +784,7 @@ Claim Timestamp: 00:53:36
 Claim: Alex Jones, on his show, confirmed that Candace Owens sent a "dead man's switch" / "kill switch" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.
 
 Anchored Artifacts: A-1246.1
-Related Nodes: N-128, N-233, N-68, N-242, N-1242, N-? (Tucker Carlson), N-? (Max Blumenthal), N-? (Candace Owens)
+Related Nodes: N-128, N-233, N-68, N-242, N-1242
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
 
@@ -810,7 +810,7 @@ Claim Timestamp: 00:03:10
 Claim: A letter to which host was given access asserted that "Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel."
 
 Anchored Artifacts: A-1249.1
-Related Nodes: N-1, N-? (Tucker Carlson), N-? (Candace Owens)
+Related Nodes: N-1
 
 Investigative Direction: Identify the letter and author; verify authenticity.
 

@@ -417,7 +417,7 @@ Claim: Corby Hall's written statement documents that Victor Marx expressed inter
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1675
+Related Nodes: N-1675
 
 Investigative Direction: Verify Hall's account against Fold AR business records, communications, and any documented acquisition proposals.
 
@@ -431,7 +431,7 @@ Claim: Corby Hall's written statement documents that on or about December 1, 202
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1209, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Verify travel records, communications, and Fold AR demo logs from December 2023.
 
@@ -445,7 +445,7 @@ Claim: Corby Hall's written statement documents that Victor Marx performed a rit
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1209, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently.
 
@@ -459,7 +459,7 @@ Claim: Corby Hall's written statement documents that on January 24, 2024, Victor
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Verify the marriage through official marriage records.
 
@@ -473,7 +473,7 @@ Claim: Corby Hall's written statement documents that All Things Possible Ministr
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Verify purchase records with Fold AR and Lindale High School administration.
 
@@ -487,7 +487,7 @@ Claim: Corby Hall's written statement documents that in late fall 2024, Victor M
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1677
+Related Nodes: N-1677
 
 Investigative Direction: Verify any related communications, travel records, or follow-up requests; check export-control filings.
 
@@ -501,7 +501,7 @@ Claim: Corby Hall's written statement documents that in October 2024, Victor Mar
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1677
+Related Nodes: N-1677
 
 Investigative Direction: Verify the build of the rifle, related communications, and any video documentation produced.
 
@@ -515,7 +515,7 @@ Claim: Corby Hall's written statement documents that Victor Marx stated his team
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1216, N-1677
+Related Nodes: N-1216, N-1677
 
 Investigative Direction: Cross-reference with subsequent Haiti mission records and CBN News reporting.
 
@@ -529,7 +529,7 @@ Claim: Corby Hall's written statement documents that Victor Marx stated he was d
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1215, N-1675
+Related Nodes: N-1215, N-1675
 
 Investigative Direction: Verify with Sig Sauer corporate communications and Daniel Horner directly.
 
@@ -543,7 +543,7 @@ Claim: Corby Hall's written statement documents that Victor Marx's accountants v
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1675
+Related Nodes: N-1675
 
 Investigative Direction: Verify with any valuation documents, accountants, or formal acquisition proposals.
 
@@ -557,7 +557,7 @@ Claim: Corby Hall's written statement documents that during a walk on his proper
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1676
+Related Nodes: N-1676
 
 Investigative Direction: Verify any related communications, broker contacts, or follow-up activity; cross-check with export-control records.
 
@@ -571,7 +571,7 @@ Claim: Corby Hall's written statement documents that Victor Marx showed Hall a s
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Verify the existence and current status of the structure via public records or satellite imagery.
 
@@ -585,7 +585,7 @@ Claim: Corby Hall's written statement documents that after the deal fell through
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1207, N-1208, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Obtain the original message text if retained.
 
@@ -599,7 +599,7 @@ Claim: Corby Hall's written statement documents that on June 6, 2024, Corby Hall
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1208, N-1678
+Related Nodes: N-1678
 
 Investigative Direction: Verify the sale via Fold AR's bound book / ATF Form 4473 records.
 
@@ -613,7 +613,7 @@ Claim: Corby Hall's written statement documents that on July 4, 2024, the Texas 
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1208, N-1678
+Related Nodes: N-1678
 
 Investigative Direction: Verify with Midland Police Department records and the deputy's agency.
 
@@ -627,7 +627,7 @@ Claim: Per host account of forwarded ATF email, on September 10, 2025, at 9:33 a
 
 Anchored Artifacts: A-1963.1
 
-Related Nodes: N-1208, N-1674, N-1678
+Related Nodes: N-1674, N-1678
 
 Investigative Direction: Independently verify the email via ATF; identify the originating case and underlying crime.
 
@@ -641,7 +641,7 @@ Claim: An Instagram video shows Erika Kirk and Eileen Marx embracing shortly aft
 
 Anchored Artifacts: A-1959.1
 
-Related Nodes: N-1207, N-1209, N-1680, Erika Kirk (existing)
+Related Nodes: N-1680
 
 Investigative Direction: Obtain original Instagram post metadata; verify posting timestamp.
 
@@ -655,7 +655,7 @@ Claim: A photo shows Erika Kirk being comforted by Victor Marx at her residence,
 
 Anchored Artifacts: A-1959.2
 
-Related Nodes: N-1207, N-1680, Erika Kirk (existing)
+Related Nodes: N-1680
 
 Investigative Direction: Obtain original image metadata; verify posting context.
 
@@ -669,7 +669,7 @@ Claim: CBN News aired a report stating that Victor Marx met with Haitian gang le
 
 Anchored Artifacts: A-1960.1
 
-Related Nodes: N-1207, N-1216, N-1677
+Related Nodes: N-1216, N-1677
 
 Investigative Direction: Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.
 
@@ -683,7 +683,7 @@ Claim: During a White House Easter celebration, Donald Trump publicly stated tha
 
 Anchored Artifacts: A-1961.1
 
-Related Nodes: Donald Trump (existing), N-1681
+Related Nodes: N-1681
 
 Investigative Direction: Obtain full transcript of the remarks; verify the operational chain Trump described.
 
@@ -697,7 +697,7 @@ Claim: An audio clip of Victor Marx recounts that at age 7, his stepfather place
 
 Anchored Artifacts: A-1962.1
 
-Related Nodes: N-1207, N-1679
+Related Nodes: N-1679
 
 Investigative Direction: Identify the source recording; verify any underlying events or absence thereof via law enforcement records.
 
@@ -711,7 +711,7 @@ Claim: A viewer named Wonder Woman commented that "Marines only allow a minimum 
 
 Anchored Artifacts: A-1964.1
 
-Related Nodes: N-1207, N-1679
+Related Nodes: N-1679
 
 Investigative Direction: Verify Marine Corps enlistment contract minimums through official Marine Corps publications.
 
@@ -725,7 +725,7 @@ Claim: The host states that she looked into the Marine enlistment question and c
 
 Anchored Artifacts: A-1964.1
 
-Related Nodes: N-1207, N-1679
+Related Nodes: N-1679
 
 Investigative Direction: Verify the host's assertion against Marine Corps enlistment options.
 
@@ -739,7 +739,7 @@ Claim: The host explicitly states she believes Corby Hall's account, has confirm
 
 Anchored Artifacts: A-1958.1, A-1963.1
 
-Related Nodes: N-1208, N-1674, N-1678
+Related Nodes: N-1674, N-1678
 
 Investigative Direction: Independently verify the host's confirmation of the email and the underlying timeline.
 

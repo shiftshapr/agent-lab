@@ -37,7 +37,6 @@
           "related_nodes": [
             "N-463",
             "N-464",
-            "N-465",
             "N-466",
             "N-467",
             "N-468",
@@ -325,21 +324,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-465",
-      "ref": "N-465",
-      "name": "Vanity Fair Article Bundle (DuPont Heir)",
-      "type": "person",
-      "description": "### Person Nodes",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "Person",
       "@id": "N-462",
@@ -895,24 +879,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1168,10 +1151,9 @@
         "N-264",
         "N-471",
         "N-70",
-        "N-1372"
-      ,
-            "N-37"
-          ],
+        "N-1372",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:47:01",
       "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials."

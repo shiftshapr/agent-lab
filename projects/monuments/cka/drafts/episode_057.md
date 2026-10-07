@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-720, N-721, N-722, N-723, N-724, N-725, N-726, N-727, N-728, N-1484, N-1485, N-1486, N-1487
+  - New Nodes Introduced: N-720, N-721, N-724, N-726, N-727, N-1484, N-1485, N-1486, N-1487
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -160,36 +160,12 @@ Video Timestamp: 00:53:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (personal testimony)
 
-*Related: N-728*
+*Related: *
 
 ---
 
 ## 4. Node Register
 
-
-**N-722** Node 722
-
-Node Type: person
-
-*Related:*
-
-**N-723** Node 723
-
-Node Type: person
-
-*Related:*
-
-**N-725** Node 725
-
-Node Type: person
-
-*Related:*
-
-**N-728** Be Inspired YouTube Channel Clip Bundle
-
-Node Type: person
-
-*Related:*
 
 **N-720** Bill Wood
 
@@ -304,7 +280,7 @@ Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's accoun
 
 Anchored Artifacts: A-1628.2
 
-Related Nodes: N-720, N-1484, N-724, N-722, N-723, N-725, N-728
+Related Nodes: N-720, N-1484, N-724, 
 
 Investigative Direction: Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.
 

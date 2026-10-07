@@ -1230,24 +1230,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1259,7 +1258,6 @@
         "A-2063.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1210",
         "N-2065"
       ],
@@ -1278,7 +1276,6 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-1207",
         "N-2065"
       ],
       "tags": [],
@@ -1296,11 +1293,9 @@
       ],
       "related_nodes": [
         "N-70",
-        "N-1207",
-        "N-2065"
-      ,
-            "N-37"
-          ],
+        "N-2065",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors."
@@ -1315,8 +1310,6 @@
         "A-2065.1"
       ],
       "related_nodes": [
-        "N-1209",
-        "N-1207",
         "N-2065"
       ],
       "tags": [],
@@ -1337,7 +1330,6 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-1209",
         "N-1214",
         "N-2061"
       ],
@@ -1625,7 +1617,6 @@
         "A-2075.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1218",
         "N-2",
         "N-2063"
@@ -1645,7 +1636,6 @@
       ],
       "related_nodes": [
         "N-1224",
-        "N-1207",
         "N-1218",
         "N-2",
         "N-2063"
@@ -1665,7 +1655,6 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1218",
         "N-1224",
         "N-1225",
@@ -1687,7 +1676,6 @@
       "related_nodes": [
         "N-1218",
         "N-2",
-        "N-1207",
         "N-2063"
       ],
       "tags": [],

@@ -303,51 +303,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-448",
-      "ref": "N-448",
-      "name": "Node 448",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-449",
-      "ref": "N-449",
-      "name": "Operation Valhalla Press Release Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-450",
-      "ref": "N-450",
-      "name": "Node 450",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -647,8 +602,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-69",
-        "N-449"
+        "N-69"
       ]
     },
     {
@@ -859,10 +813,7 @@
         "N-1344",
         "N-1348",
         "N-1349",
-        "N-1350",
-        "N-448",
-        "N-449",
-        "N-450"
+        "N-1350"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",

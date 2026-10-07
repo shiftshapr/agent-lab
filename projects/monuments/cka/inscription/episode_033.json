@@ -380,7 +380,6 @@
             "C-1733"
           ],
           "related_nodes": [
-            "N-409",
             "N-413",
             "N-1328"
           ],
@@ -532,28 +531,6 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1327"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-409",
-      "ref": "N-409",
-      "name": "Flock (Automated License Plate Reader Company)",
-      "type": "person",
-      "description": "Company operating the LPR network referenced in the viewer comment and producer discussion. Matters because its camera coverage is presented as a potential cross-reference mechanism for the rental vehicles.",
-      "related_artifacts": [
-        "A-1423.1"
-      ],
-      "related_claims": [
-        "C-1733"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1328"
       ]
     },
     {
@@ -770,9 +747,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-409"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -1179,7 +1154,6 @@
         "A-1423.1"
       ],
       "related_nodes": [
-        "N-409",
         "N-1328"
       ],
       "tags": [],

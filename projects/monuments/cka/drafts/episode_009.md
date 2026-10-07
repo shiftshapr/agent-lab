@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161
   - Claim Range: C-1267-C-1285
   - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-158, N-159, N-160, N-161, N-162, N-163, N-164, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1137
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079
 
 ## 2. Executive Summary
 
@@ -530,18 +530,6 @@ Host: eyewitness told her shooter was in tactical gear, gun mismatched.
 
 ---
 
-**N-1137** FBI
-
-Node Type: Organization
-Organization Kind: government_agency
-Host alleges pressuring Utah to close Kirk case as lone-gunman.
-
-*Related: C-1279, C-1282*
-
----
-
----
-
 **N-1003** MK Ultra
 
 Node Type: Organization
@@ -697,7 +685,7 @@ Claim Timestamp: 00:28:09
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
-Related Nodes: N-148, N-1177, N-1186, N-1003, N-1182, N-1003, N-1182
+Related Nodes: N-148, N-1177, N-1186, N-1003, N-1182
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
 
@@ -782,7 +770,7 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Related Nodes: N-3, N-1179, N-1194, N-1181, N-1194, N-1181, N-1193, N-1194, N-1181
+Related Nodes: N-3, N-1179, N-1194, N-1181, N-1193
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
 
@@ -807,7 +795,7 @@ Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
-Related Nodes: N-1137, N-1175, N-1191
+Related Nodes: N-1079, N-1175, N-1191
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
 
@@ -843,7 +831,7 @@ Claim Timestamp: 00:05:13
 Claim: Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.
 Transcript Snippet: The feds don't even have any footage that explains how exactly the rifle…got onto the roof.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1137, N-1077, N-1176
+Related Nodes: N-69, N-1079, N-1077, N-1176
 Confidence: low
 Investigative Direction: Verify against indictment and discovery materials.
 

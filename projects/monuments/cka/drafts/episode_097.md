@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
-  - Reused Nodes Appearing: N-1016, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229
+  - Reused Nodes Appearing: N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229
   - (see registers)
 
 # Episode 97 Analysis: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
@@ -37,7 +37,7 @@
 - Claim Range: C-2810 – C-2833
 - New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229
 - New Investigation Target Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-1016 (Erica Kirk), N-3 (Candace Owens)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:43:04 – 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2825, C-2826, C-2827, N-1218, N-1016, N-3*
+*Related: C-2825, C-2826, C-2827, N-1218, N-2, N-3*
 
 ---
 
@@ -414,17 +414,6 @@ Investigative Pressure: High
 
 *Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-3, N-1725*
 
-**N-1016** Erica Kirk
-
-Subject of Erika Kirk's public claim that Candace accused her of murdering Charlie; pre-existing node.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2021.1, C-2825, C-2826, N-3, N-1722*
-
 **N-1207** Mike Mitchell Public Record Anomaly
 
 Plaintiff; named defendant and central subject of the lawsuit; member of TPUSA security detail on September 10, 2025.
@@ -555,7 +544,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2021.1, C-2827, N-1016, N-3*
+*Related: A-2021.1, C-2827, N-2, N-3*
 
 **N-1219** "Robbie Hild" Identity Verification
 
@@ -735,7 +724,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2021.1, C-2825, C-2826, N-1016, N-3, N-1218*
+*Related: A-2021.1, C-2825, C-2826, N-2, N-3, N-1218*
 
 **N-1723** House Resolution Characterization Accuracy
 
@@ -782,7 +771,7 @@ Claim: Brian Harpole filed a 69-page civil complaint against Candace Owens asser
 
 Anchored Artifacts: A-2015.1
 
-Related Nodes: N-1207, N-1208, N-3
+Related Nodes: N-3
 
 Investigative Direction: Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.
 
@@ -796,7 +785,7 @@ Claim: Harpole's counsel sent an email styled as a retraction demand but stated 
 
 Anchored Artifacts: A-2015.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes: 
 
 Investigative Direction: Obtain the pre-filing email; verify whether it contained a formal retraction request.
 
@@ -810,7 +799,7 @@ Claim: The lawsuit's first grievance alleges Candace accused Harpole and his tea
 
 Anchored Artifacts: A-2015.2
 
-Related Nodes: N-1207, N-1, N-3, N-1725
+Related Nodes: N-1, N-3, N-1725
 
 Investigative Direction: Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.
 
@@ -824,7 +813,7 @@ Claim: The lawsuit alleges Candace's episode implied Harpole's security team had
 
 Anchored Artifacts: A-2015.3
 
-Related Nodes: N-1207, N-1212, N-1213
+Related Nodes: N-1212, N-1213
 
 Investigative Direction: Locate and review the "Charlie's Angels or Demons" episode to verify whether Harpole was named and to identify the actual subjects of the commentary.
 
@@ -838,7 +827,7 @@ Claim: The lawsuit alleges Candace accused Harpole of failing to render effectiv
 
 Anchored Artifacts: A-2015.4
 
-Related Nodes: N-1207, N-1215, N-1720
+Related Nodes: N-1215, N-1720
 
 Investigative Direction: Review "The Great Exodus from Utah" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages.
 
@@ -852,7 +841,7 @@ Claim: The lawsuit's point 29 asserts Harpole is a private individual, not a lim
 
 Anchored Artifacts: A-2015.5
 
-Related Nodes: N-1207, N-1719
+Related Nodes: N-1719
 
 Investigative Direction: Review defamation caselaw on limited-purpose public figure doctrine and assess Harpole's voluntary insertion into the controversy.
 
@@ -866,7 +855,7 @@ Claim: Point 28 of the lawsuit asserts Harpole appeared on Sean Ryan "solely to 
 
 Anchored Artifacts: A-2015.6
 
-Related Nodes: N-1207, N-1214, N-1719
+Related Nodes: N-1214, N-1719
 
 Investigative Direction: Confirm the air date of Harpole's Sean Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.
 
@@ -880,7 +869,7 @@ Claim: Candace states she never once mentioned Harpole on her podcast prior to h
 
 Anchored Artifacts: A-2015.6, A-2018.1
 
-Related Nodes: N-3, N-1207, N-1214, N-1719
+Related Nodes: N-3, N-1214, N-1719
 
 Investigative Direction: Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.
 
@@ -894,7 +883,7 @@ Claim: Candace sent Harpole three text messages seeking clarification of his whe
 
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
 
-Related Nodes: N-1207, N-3, N-1718
+Related Nodes: N-3, N-1718
 
 Investigative Direction: Cross-reference the embedded text messages against phone records; verify Harpole's receipt.
 
@@ -908,7 +897,7 @@ Claim: The lawsuit explains Harpole's non-response to Candace's text messages as
 
 Anchored Artifacts: A-2015.7
 
-Related Nodes: N-1207
+Related Nodes: 
 
 Investigative Direction: Assess credibility of this litigation rationale against the timing (December to April delay) and the lawsuit-filing posture.
 
@@ -922,7 +911,7 @@ Claim: Candace texted Andrew Kolvet agreeing to defend the security team and iss
 
 Anchored Artifacts: A-2016.1, A-2018.1
 
-Related Nodes: N-1207, N-1209, N-1211, N-3
+Related Nodes: N-1211, N-3
 
 Investigative Direction: Locate the September 2025 episode in which Candace defended the security team.
 
@@ -936,7 +925,7 @@ Claim: Although Harpole presented the Sorensen Center rooftop text chain on Sean
 
 Anchored Artifacts: A-2015.* (admission), A-2019.1, A-2019.2
 
-Related Nodes: N-1207, N-1211, N-1221, N-1721
+Related Nodes: N-1211, N-1221, N-1721
 
 Investigative Direction: Compare the original Sean Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.
 
@@ -950,7 +939,7 @@ Claim: Candace's December 23 X post stated Fort Huachuca was confirmed via metad
 
 Anchored Artifacts: A-2020.1
 
-Related Nodes: N-3, N-1210, N-1207, N-1718
+Related Nodes: N-3, N-1210, N-1718
 
 Investigative Direction: Obtain original X post screenshot and verify text against the quoted excerpt.
 
@@ -964,7 +953,7 @@ Claim: Point 63 of the lawsuit accuses Candace of asserting proof that Snow was 
 
 Anchored Artifacts: A-2015.9, A-2020.1
 
-Related Nodes: N-1207, N-1210, N-3
+Related Nodes: N-1210, N-3
 
 Investigative Direction: Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context.
 
@@ -978,7 +967,7 @@ Claim: Harpole's statement that drones could not be flown in Provo airspace conf
 
 Anchored Artifacts: A-2015.4, A-2028.1
 
-Related Nodes: N-1207, N-1215, N-1720
+Related Nodes: N-1215, N-1720
 
 Investigative Direction: Obtain full audio of Turek's drone statements and cross-reference with FAA Part 107 rules for Provo airspace.
 
@@ -992,7 +981,7 @@ Claim: Erika Kirk publicly asserted that Candace accused her of murdering Charli
 
 Anchored Artifacts: A-2021.1
 
-Related Nodes: N-1016, N-3, N-1722, N-1218
+Related Nodes: N-2, N-3, N-1722, N-1218
 
 Investigative Direction: Locate Erika Kirk's original statement on video or social media to verify exact wording and context.
 
@@ -1006,7 +995,7 @@ Claim: Candace asserts she has never publicly accused Erika Kirk of murdering Ch
 
 Anchored Artifacts: A-2018.1 (defensive statement of position), A-2021.1
 
-Related Nodes: N-1016, N-3, N-1722
+Related Nodes: N-2, N-3, N-1722
 
 Investigative Direction: Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.
 
@@ -1020,7 +1009,7 @@ Claim: Baron Coleman stated on his show that he had never heard Candace say Erik
 
 Anchored Artifacts: A-2021.1
 
-Related Nodes: N-1218, N-1016, N-3, N-1722
+Related Nodes: N-1218, N-2, N-3, N-1722
 
 Investigative Direction: Locate Coleman's full segment for additional context.
 

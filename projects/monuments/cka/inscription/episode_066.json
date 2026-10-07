@@ -296,21 +296,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-828",
-      "ref": "N-828",
-      "name": "Node 828",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-817",
       "ref": "N-817",
       "name": "Dr. Allen Wolft",
@@ -673,8 +658,7 @@
       "related_nodes": [
         "N-2",
         "N-817",
-        "N-818",
-        "N-828"
+        "N-818"
       ],
       "tags": [],
       "claim_timestamp": "00:02:51",

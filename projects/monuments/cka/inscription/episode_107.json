@@ -17,36 +17,6 @@
   "artifacts": [],
   "nodes": [
     {
-      "@type": "Person",
-      "@id": "N-21",
-      "ref": "N-21",
-      "name": "Node 21",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-25",
-      "ref": "N-25",
-      "name": "Node 25",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1017",
       "ref": "N-1017",
@@ -342,10 +312,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1017",
-        "N-1017",
-        "N-23",
-        "N-21",
-        "N-25"
+        "N-23"
       ],
       "tags": [],
       "claim_timestamp": "00:01:24",
@@ -360,8 +327,6 @@
       "claim": "Episode presents that Victor Marx and his wife Eileen were among the small circle welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-1018",
         "N-1017",
         "N-1018"
       ],
@@ -378,8 +343,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1017",
-        "N-3",
-        "N-1207"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:06:15",
@@ -455,8 +419,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1017",
-        "N-3",
-        "N-1207"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:16:54",
@@ -487,7 +450,6 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1017",
-        "N-1017",
         "N-1018"
       ],
       "tags": [],
@@ -517,7 +479,6 @@
       "claim": "Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
         "N-1017",
         "N-23"
       ],

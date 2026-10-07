@@ -485,7 +485,7 @@ Claim: Host states JD Vance's plane began circling at 3:53 PM and landed in Athe
 
 Anchored Artifacts: A-1982.2
 
-Related Nodes: N-1208, N-1691
+Related Nodes: N-1691
 
 Investigative Direction: Cross-reference flight tracking data (ADS-B Exchange / FlightRadar24) and White House travel logs.
 
@@ -499,7 +499,7 @@ Claim: JD Vance told Andrew on stage that "about 2 hours ago… I was a little w
 
 Anchored Artifacts: A-1983
 
-Related Nodes: N-1208, N-1691
+Related Nodes: N-1691
 
 Investigative Direction: Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration.
 
@@ -513,7 +513,7 @@ Claim: Victor Marx posted on social media, prior to the public confirmation, tha
 
 Anchored Artifacts: A-1984.1
 
-Related Nodes: N-1207, N-1697
+Related Nodes: N-1697
 
 Investigative Direction: Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source.
 
@@ -527,7 +527,7 @@ Claim: The Victor Marx Group LLC, based in Colorado Springs, holds a Class 1 FFL
 
 Anchored Artifacts: A-1985, A-1986
 
-Related Nodes: N-1207, N-1211
+Related Nodes: N-1211
 
 Investigative Direction: Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type.
 
@@ -541,7 +541,7 @@ Claim: In an interview, Victor Marx acknowledged saying he would "whoop [Corby H
 
 Anchored Artifacts: A-1987.1
 
-Related Nodes: N-1207, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account.
 
@@ -555,7 +555,7 @@ Claim: When asked directly, Victor Marx answered "Of course not. It's illegal" r
 
 Anchored Artifacts: A-1987.2
 
-Related Nodes: N-1207, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx.
 
@@ -569,7 +569,7 @@ Claim: Text messages attributed to Victor Marx state that "The Israeli Defense G
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 
-Related Nodes: N-1207, N-1210, N-1693
+Related Nodes: N-1210, N-1693
 
 Investigative Direction: Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.
 
@@ -583,7 +583,7 @@ Claim: Host states the messages occurred in April 2025 (uncertainty noted: "I wa
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 
-Related Nodes: N-1207, N-1210, N-1693
+Related Nodes: N-1210, N-1693
 
 Investigative Direction: Obtain message timestamps to confirm date precisely.
 
@@ -695,7 +695,7 @@ Claim: Host explicitly endorses Elizabeth Lane's prior post that "Erika Kirk exh
 
 Anchored Artifacts: (verbal reference only to artifact from prior episode — Lane's X post)
 
-Related Nodes: N-1691 (existing Elizabeth Lane node from prior episode)
+Related Nodes: N-1691
 
 Investigative Direction: Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope.
 

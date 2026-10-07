@@ -179,11 +179,7 @@
           "related_claims": [
             "C-1737"
           ],
-          "related_nodes": [
-            "N-415",
-            "N-416",
-            "N-421"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025 (interview date prior to episode)",
           "source_timestamp": "2025-11-18 (referenced on episode)",
@@ -199,10 +195,7 @@
           "related_claims": [
             "C-1737"
           ],
-          "related_nodes": [
-            "N-415",
-            "N-416"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "Prior to 2025-09-10 (date unspecified in transcript; \"on Monday before this correspondence went to Chief Long\")",
           "source_timestamp": "2025-11-18 (read aloud on episode)",
@@ -226,9 +219,7 @@
           "related_claims": [
             "C-1738"
           ],
-          "related_nodes": [
-            "N-417"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025 (interview prior to episode)",
           "source_timestamp": "2025-11-18",
@@ -245,7 +236,6 @@
             "C-1739"
           ],
           "related_nodes": [
-            "N-417",
             "N-1333"
           ],
           "tags": [],
@@ -271,9 +261,7 @@
           "related_claims": [
             "C-1740"
           ],
-          "related_nodes": [
-            "N-422"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025-11-16",
           "source_timestamp": "2025-11-16",
@@ -298,7 +286,6 @@
             "C-1741"
           ],
           "related_nodes": [
-            "N-422",
             "N-1335"
           ],
           "tags": [],
@@ -324,9 +311,7 @@
           "related_claims": [
             "C-1742"
           ],
-          "related_nodes": [
-            "N-418"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025-11 (prior to episode)",
           "source_timestamp": "2025-11-18 (read aloud)",
@@ -350,9 +335,7 @@
           "related_claims": [
             "C-1743"
           ],
-          "related_nodes": [
-            "N-419"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025-11 (prior to episode)",
           "source_timestamp": "2025-11-18 (read aloud)",
@@ -377,7 +360,6 @@
             "C-1744"
           ],
           "related_nodes": [
-            "N-420",
             "N-1334"
           ],
           "tags": [],
@@ -391,129 +373,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-415",
-      "ref": "N-415",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-421"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-416",
-      "ref": "N-416",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-417",
-      "ref": "N-417",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-418",
-      "ref": "N-418",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-419",
-      "ref": "N-419",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-420",
-      "ref": "N-420",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-421",
-      "ref": "N-421",
-      "name": "White 2025 Toyota Camry — Arizona plate CWN-N9872",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-422",
-      "ref": "N-422",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "### People",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1330",
@@ -588,10 +447,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-417",
-        "N-422"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -611,9 +467,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-420"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -635,9 +489,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-422"
-      ]
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -676,11 +528,7 @@
       "label": "Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted \"I got you covered\" as resolution.",
       "claim": "",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-415",
-        "N-416",
-        "N-421"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "26:12",
       "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation."
@@ -693,7 +541,6 @@
       "claim": "",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-417",
         "N-1333"
       ],
       "tags": [],
@@ -708,7 +555,6 @@
       "claim": "",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-417",
         "N-1333"
       ],
       "tags": [],
@@ -723,7 +569,6 @@
       "claim": "",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-422",
         "N-1335"
       ],
       "tags": [],
@@ -738,7 +583,6 @@
       "claim": "",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-422",
         "N-1335"
       ],
       "tags": [],
@@ -753,7 +597,6 @@
       "claim": "",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-418",
         "N-1330"
       ],
       "tags": [],
@@ -767,9 +610,7 @@
       "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
       "claim": "",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-419"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "03:02",
       "investigative_direction": "Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged \"doxing teenagers\" claim."
@@ -782,7 +623,6 @@
       "claim": "",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-420",
         "N-1334"
       ],
       "tags": [],

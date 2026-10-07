@@ -474,7 +474,7 @@ Claim Timestamp: 00:17:32
 Claim: In an interview with Bari Weiss, Erika Kirk stated "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
 
 Anchored Artifacts: A-1904.1
-Related Nodes: N-1, N-2, N-1208
+Related Nodes: N-1, N-2
 Investigative Direction: Cross-check with the published version of the Bari Weiss interview.
 
 ---
@@ -498,7 +498,7 @@ Claim Timestamp: 00:19:47
 Claim: Frank Turek stated he was present when a doctor informed him of Charlie Kirk's death and that he then needed to "talk to Erika."
 
 Anchored Artifacts: A-1905.1
-Related Nodes: N-2, N-1207
+Related Nodes: N-2
 Investigative Direction: Verify against other witness accounts of the moment.
 
 ---
@@ -510,7 +510,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated that Stacy Sheridan and Katherine LaCastro were with Erika Kirk when she was informed of Charlie Kirk's death.
 
 Anchored Artifacts: A-1905.1
-Related Nodes: N-2, N-1207
+Related Nodes: N-2
 Investigative Direction: Verify against other contemporaneous accounts.
 
 ---
@@ -522,7 +522,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated Mikey was on the phone arranging a plane to retrieve Erika.
 
 Anchored Artifacts: A-1905.1
-Related Nodes: N-1207
+Related Nodes: 
 Investigative Direction: Cross-check with other accounts of plane arrangements.
 
 ---
@@ -582,7 +582,7 @@ Claim Timestamp: 00:35:31
 Claim: Sheriff Brooksby stated that at 8:02 PM on September 11th he received a call from a friend who was a retired detective; court documents refer to this individual as a "retired Washington County deputy."
 
 Anchored Artifacts: A-1908.1
-Related Nodes: N-1209, N-1639
+Related Nodes: N-1639
 Investigative Direction: Identify the individual via court filings.
 
 ---
@@ -594,7 +594,7 @@ Claim Timestamp: 00:36:15
 Claim: Sheriff Brooksby stated he was told that Tyler Robinson had potential suicidal ideations and was en route to a remote area in Washington County.
 
 Anchored Artifacts: A-1908.1
-Related Nodes: N-1209, N-1639
+Related Nodes: N-1639
 Investigative Direction: Verify against other sources.
 
 ---
@@ -606,7 +606,7 @@ Claim Timestamp: 00:36:15
 Claim: Sheriff Brooksby stated Robinson's parents convinced him not to go to the remote area and conveyed they would help him surrender peacefully.
 
 Anchored Artifacts: A-1908.1
-Related Nodes: N-1209, N-1639
+Related Nodes: N-1639
 Investigative Direction: Cross-reference with subsequent reporting.
 
 ---
@@ -618,7 +618,7 @@ Claim Timestamp: 00:41:56
 Claim: Sheriff Brooksby stated that within the hour, his friend drove Tyler Robinson and his parents to Brooksby's office, where Robinson was greeted by plainclothes detectives.
 
 Anchored Artifacts: A-1908.2
-Related Nodes: N-1209, N-1210, N-1639
+Related Nodes: N-1210, N-1639
 Investigative Direction: Verify against court records and other accounts.
 
 ---
@@ -630,7 +630,7 @@ Claim Timestamp: 00:42:54
 Claim: Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on his house and fearful of being shot by law enforcement, which was part of the negotiation to bring him in.
 
 Anchored Artifacts: A-1908.2
-Related Nodes: N-1209, N-1639
+Related Nodes: N-1639
 Investigative Direction: Compare with Cox's framing of an outright confession (C-2597).
 
 ---
@@ -666,7 +666,7 @@ Claim Timestamp: 00:28:15
 Claim: Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: N-1209
+Related Nodes: 
 Investigative Direction: Obtain official Washington County Commission statement and any press release explaining the resignation.
 
 ---
@@ -678,7 +678,7 @@ Claim Timestamp: 00:28:15
 Claim: The host states Brooksby's resignation occurred on a Friday and that no public statement was given.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: N-1209
+Related Nodes: 
 Investigative Direction: Confirm exact date via Commission records.
 
 ---
@@ -690,7 +690,7 @@ Claim Timestamp: 00:29:07
 Claim: A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: N-1209
+Related Nodes: 
 Investigative Direction: Obtain the full Commission statement.
 
 ---
@@ -702,7 +702,7 @@ Claim Timestamp: 00:28:15
 Claim: Over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: N-1209
+Related Nodes: 
 Investigative Direction: Capture archived versions of the website and social pages.
 
 ---

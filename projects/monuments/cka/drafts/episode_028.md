@@ -291,7 +291,7 @@ Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker 
 
 Anchored Artifacts: A-1356.1, A-1356.2
 
-Related Nodes: N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Zohran Mamdani (N-340), N-Megyn Kelly (existing)
+Related Nodes: N-340
 
 Investigative Direction: Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.
 
@@ -305,7 +305,7 @@ Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that "what C
 
 Anchored Artifacts: A-1356.1
 
-Related Nodes: N-Ben Shapiro (existing), N-Megyn Kelly (existing), N-Candace Owens (existing)
+Related Nodes: 
 
 Investigative Direction: Compare Shapiro's exact phrasing on stage to prior and subsequent statements to determine whether "evil" was used to characterize Owens' investigation, her rhetoric, or both.
 
@@ -319,7 +319,7 @@ Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is a
 
 Anchored Artifacts: A-1356.1
 
-Related Nodes: N-Ben Shapiro (existing), N-Candace Owens (existing), N-Erika Kirk (N-3), N-1307
+Related Nodes: N-3, N-1307
 
 Investigative Direction: Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative.
 
@@ -333,7 +333,7 @@ Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is a
 
 Anchored Artifacts: A-1356.1
 
-Related Nodes: N-Ben Shapiro (existing), N-Candace Owens (existing), N-Seth Dylan (existing), N-1307
+Related Nodes: N-1307
 
 Investigative Direction: Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.
 
@@ -347,7 +347,7 @@ Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Dai
 
 Anchored Artifacts: A-1358.1, A-1359.1
 
-Related Nodes: N-Jeremy Boring (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)
+Related Nodes: 
 
 Investigative Direction: Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted.
 
@@ -361,7 +361,7 @@ Claim: According to the read-aloud HuffPost article and corresponding audio, Jer
 
 Anchored Artifacts: A-1358.1, A-1359.1
 
-Related Nodes: N-Jeremy Boring (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)
+Related Nodes: 
 
 Investigative Direction: Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation.
 
@@ -375,7 +375,7 @@ Claim: The text messages read aloud between Candace Owens and Charlie Kirk descr
 
 Anchored Artifacts: A-1360.1, A-1360.2
 
-Related Nodes: N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-1307
+Related Nodes: N-1307
 
 Investigative Direction: Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited.
 
@@ -389,7 +389,7 @@ Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern na
 
 Anchored Artifacts: A-1361.1
 
-Related Nodes: N-Candace Owens (existing), N-Ariana (N-362), N-Daily Wire (existing), N-1308
+Related Nodes: N-362, N-1308
 
 Investigative Direction: Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.
 
@@ -403,7 +403,7 @@ Claim: During the aired CNN interview, Candace Owens stated, "America is occupie
 
 Anchored Artifacts: A-1362.1
 
-Related Nodes: N-Candace Owens (existing), N-Elle Reeve (N-360)
+Related Nodes: N-360
 
 Investigative Direction: Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.
 
@@ -417,7 +417,7 @@ Claim: During the aired CNN interview, Elle Reeve stated that themes Owens used 
 
 Anchored Artifacts: A-1362.1
 
-Related Nodes: N-Elle Reeve (N-360), N-Candace Owens (existing)
+Related Nodes: N-360
 
 Investigative Direction: Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.
 
@@ -431,7 +431,7 @@ Claim: Eric and Laura Trump appeared as speakers at a recent Turning Point USA e
 
 Anchored Artifacts: A-1363.1
 
-Related Nodes: N-Eric Trump (existing), N-Laura Trump (existing), N-TPUSA (existing)
+Related Nodes: 
 
 Investigative Direction: Confirm the event date, attendance records, and Turning Point USA's official event listing.
 
@@ -445,7 +445,7 @@ Claim: At the Auburn TPUSA event, a student stated in a question that President 
 
 Anchored Artifacts: A-1363.1
 
-Related Nodes: N-Eric Trump (existing), N-Laura Trump (existing), N-TPUSA (existing)
+Related Nodes: 
 
 Investigative Direction: Trace the $230M figure to its underlying donor records, FEC filings, or AIPAC-adjacent donation disclosures to verify the sum and timeframe.
 
@@ -459,7 +459,7 @@ Claim: Ben Shapiro previously tweeted that any American Jew who is "pro-Israel" 
 
 Anchored Artifacts: A-1355.2
 
-Related Nodes: N-Ben Shapiro (existing), N-Nick Fuentes (existing)
+Related Nodes: 
 
 Investigative Direction: Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended.
 
@@ -473,7 +473,7 @@ Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "lean
 
 Anchored Artifacts: A-1355.3
 
-Related Nodes: N-Ben Shapiro (existing), N-Ron Paul (existing)
+Related Nodes: 
 
 Investigative Direction: Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.
 
@@ -487,7 +487,7 @@ Claim: Ben Shapiro and Tucker Carlson exchanged text messages in which Shapiro p
 
 Anchored Artifacts: A-1357.1
 
-Related Nodes: N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Charlie Kirk (N-1)
+Related Nodes: N-1
 
 Investigative Direction: Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.
 
@@ -501,7 +501,7 @@ Claim: Candace Owens states that the aired CNN interview with Elle Reeve occurre
 
 Anchored Artifacts: A-1362.1
 
-Related Nodes: N-Candace Owens (existing), N-Elle Reeve (N-360), N-Charlie Kirk (N-1)
+Related Nodes: N-360, N-1
 
 Investigative Direction: Confirm the interview date against CNN's published interview records or the original broadcast timestamp.
 

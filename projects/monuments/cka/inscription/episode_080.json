@@ -969,24 +969,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-209",
+      "ref": "N-209",
+      "name": "Taylor Budowich",
+      "type": "person",
+      "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-209",
-        "ref": "N-209",
-        "name": "Taylor Budowich",
-        "type": "person",
-        "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -998,7 +997,6 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1015,7 +1013,6 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1032,7 +1029,6 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1049,7 +1045,6 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1218",
         "N-1619"
       ],
@@ -1067,7 +1062,6 @@
         "A-1862.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1084,7 +1078,6 @@
         "A-1862.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1102,7 +1095,6 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1120,7 +1112,6 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1138,7 +1129,6 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1158,7 +1148,6 @@
         "N-1212",
         "N-1221",
         "N-1218",
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1176,7 +1165,6 @@
       ],
       "related_nodes": [
         "N-1213",
-        "N-1207",
         "N-1619"
       ],
       "tags": [],
@@ -1194,11 +1182,9 @@
       ],
       "related_nodes": [
         "N-1214",
-        "N-1207",
-        "N-1619"
-      ,
-            "N-209"
-          ],
+        "N-1619",
+        "N-209"
+      ],
       "tags": [],
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Confirm exact text against Budowich's verified X account."
@@ -1212,9 +1198,7 @@
       "anchored_artifacts": [
         "A-1868.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:55",
       "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp."
@@ -1318,7 +1302,6 @@
         "A-1873.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1617"
       ],
       "tags": [],
@@ -1335,7 +1318,6 @@
         "A-1873.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1617"
       ],
       "tags": [],

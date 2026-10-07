@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-  - Reused Nodes Appearing: N-1031, N-4, N-5, N-6, N-2275, N-2276, N-2277, N-2278, N-2279, N-53
+  - Reused Nodes Appearing: N-1031, N-4, N-5, N-6, N-1207, N-1208, N-1209, N-1210, N-1211, N-53
 
 ---
 
@@ -32,7 +32,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1031 (Erica Kirk), N-3 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-2275 (Mike Mitchell Public Record Anomaly), N-2276 (Brooksby Suicide Narrative Discrepancy), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation), N-2279 (UVU Campus Familiarity Question)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1031 (Erica Kirk), N-3 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question)
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3494, C-3495, C-3496, C-3511, N-1031, N-4, N-2277, N-2330*
+*Related: C-3494, C-3495, C-3496, C-3511, N-1031, N-4, N-1209, N-2330*
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3504, C-3507, N-1, N-6, N-2278*
+*Related: C-3504, C-3507, N-1, N-6, N-1210*
 
 **A-2400.2** Politico excerpt (Ian Ward): "maximalist position on free speech" framing.
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:47:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3505, N-6, N-2278*
+*Related: C-3505, N-6, N-1210*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:38:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-2275, N-2336*
+*Related: C-3509, N-1207, N-2336*
 
 **A-2402.2** The Mystery of Marilyn Monroe: The Unheard Tapes (Empress Films)
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:40:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-2275, N-2336*
+*Related: C-3509, N-1207, N-2336*
 
 **A-2402.3** Who Killed Jill Dando (Empress Films)
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:41:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-2275, N-2336*
+*Related: C-3509, N-1207, N-2336*
 
 **A-2402.4** Diana / Who Killed Diana (announced 2024)
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:41:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-2275, N-2336*
+*Related: C-3509, N-1207, N-2336*
 
 **A-2402.5** Depp vs Heard (Empress Films)
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:42:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-2275, N-2336*
+*Related: C-3509, N-1207, N-2336*
 
 **A-2402.6** Killing Grounds: Gilgo Beach Murders (Empress Films)
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-2275, N-2336*
+*Related: C-3509, N-1207, N-2336*
 
 ---
 
@@ -374,7 +374,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2393.1, A-2404.1, C-3494, C-3495, C-3496, C-3511, N-1031, N-2277*
+*Related: A-2393.1, A-2404.1, C-3494, C-3495, C-3496, C-3511, N-1031, N-1209*
 
 ---
 
@@ -426,7 +426,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.x, C-3510, N-1031, N-4, N-2275, N-2276, N-2279, N-2336*
+*Related: A-2402.x, C-3510, N-1031, N-4, N-1207, N-1208, N-1211, N-2336*
 
 ---
 
@@ -452,7 +452,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-3508, C-3509, N-2275, N-2276, N-2334*
+*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-3508, C-3509, N-1207, N-1208, N-2334*
 
 ---
 
@@ -477,7 +477,7 @@ Claim: TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the 
 
 Anchored Artifacts: A-2393.1
 
-Related Nodes: N-1031, N-4, N-2277, N-2330
+Related Nodes: N-1031, N-4, N-2330
 
 Investigative Direction: Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.
 
@@ -617,7 +617,7 @@ Claim: Politico published a profile of Blake Neff titled "Blake Neff helped make
 
 Anchored Artifacts: A-2400.1
 
-Related Nodes: N-1, N-6, N-2278
+Related Nodes: N-1, N-6, N-1210
 
 Investigative Direction: Obtain full Politico article and publication date.
 
@@ -631,7 +631,7 @@ Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a 
 
 Anchored Artifacts: A-2400.2
 
-Related Nodes: N-6, N-2278
+Related Nodes: N-6, N-1210
 
 Investigative Direction: Verify direct attribution of the "maximalist" phrase to Ward vs Neff.
 
@@ -673,7 +673,7 @@ Claim: Empress Films is a documentary company founded by Emma Cooper in 2020; Co
 
 Anchored Artifacts: A-2402.1 (Ghislaine Maxwell: Epstein's Shadow, 2021, as company-inception product)
 
-Related Nodes: N-2275, N-2336
+Related Nodes: N-2336
 
 Investigative Direction: Verify corporate filings and Pulse Films tenure via public records.
 
@@ -687,7 +687,7 @@ Claim: Empress Films' production catalog includes true crime / murder mystery do
 
 Anchored Artifacts: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6
 
-Related Nodes: N-2275, N-2336
+Related Nodes: N-2336
 
 Investigative Direction: Verify each production's distribution platform, release date, and reception.
 
@@ -701,7 +701,7 @@ Claim: On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call w
 
 Anchored Artifacts: Host testimonial confirmation only (sourced by host from "people who worked with Andrew"); no displayed documentary source in this episode.
 
-Related Nodes: N-1031, N-4, N-2275, N-2276, N-2334
+Related Nodes: N-1031, N-4, N-2334
 
 Investigative Direction: Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.
 

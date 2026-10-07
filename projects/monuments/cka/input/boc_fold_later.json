@@ -12,7 +12,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 2,
@@ -24,7 +24,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 3,
@@ -36,7 +36,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 4,
@@ -48,7 +48,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 5,
@@ -60,7 +60,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 6,
@@ -72,7 +72,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 7,
@@ -84,7 +84,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     },
     {
       "boc_monument_ep": 8,
@@ -96,7 +96,7 @@
         "boc_series_fold_pending",
         "cka_chronology_fold"
       ],
-      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb\u2013Mar 2026 BoC series."
+      "notes": "Exclude from initial CKA ingest; fold when chronology reaches Feb–Mar 2026 BoC series."
     }
   ]
 }

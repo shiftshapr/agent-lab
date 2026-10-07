@@ -599,7 +599,7 @@ Claim: Judge Graff ruled that the state of Utah met its reliable-hearsay probabl
 
 Anchored Artifacts: A-2327, A-2328
 
-Related Nodes: N-1207, N-69
+Related Nodes: N-69
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
@@ -611,7 +611,7 @@ Claim: Judge Graff declined to dismiss Count 6 (witness tampering for the "ask f
 
 Anchored Artifacts: A-2327, A-2327.1
 
-Related Nodes: N-1207, N-1209, N-69, N-2225
+Related Nodes: N-69, N-2225
 
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
@@ -623,7 +623,7 @@ Claim: The court acknowledged on the record that the text "ask for a lawyer and 
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-1207, N-1209, N-2225
+Related Nodes: N-2225
 
 Investigative Direction: Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.
 
@@ -635,7 +635,7 @@ Claim: Count 5 of the information charges witness tampering based specifically o
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-1207, N-1209, N-69, N-2225
+Related Nodes: N-69, N-2225
 
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
@@ -647,7 +647,7 @@ Claim: The court permitted Count 6 to proceed by reference to Count 5, stating t
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-1207, N-1209, N-69, N-2225
+Related Nodes: N-69, N-2225
 
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
@@ -659,7 +659,7 @@ Claim: On September 1, 2026, Tyler Robinson, through counsel, entered pleas of n
 
 Anchored Artifacts: A-2328
 
-Related Nodes: N-1207, N-1208, N-69
+Related Nodes: N-69
 
 Investigative Direction: Verify against the court's docket entry; track any subsequent plea amendments.
 
@@ -671,7 +671,7 @@ Claim: Defense counsel waived reading of the information at the arraignment hear
 
 Anchored Artifacts: A-2328
 
-Related Nodes: N-1208, N-69
+Related Nodes: N-69
 
 Investigative Direction: Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.
 
@@ -803,7 +803,7 @@ Claim: On September 1, 2026, Matt Walsh posted on X: "We have a lawyer justifyin
 
 Anchored Artifacts: A-2332
 
-Related Nodes: N-1222, N-1208, N-2223
+Related Nodes: N-1222, N-2223
 
 Investigative Direction: Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.
 
@@ -815,7 +815,7 @@ Claim: The host explicitly rejects Walsh's "justifying political assassination" 
 
 Anchored Artifacts: A-2332 (host stance on same artifact)
 
-Related Nodes: N-1222, N-1208, N-2223
+Related Nodes: N-1222, N-2223
 
 Investigative Direction: This is a host-stance claim; verification would require Walsh's reply or retraction.
 
@@ -827,7 +827,7 @@ Claim: Viva Frei sent a tweet echoing the "lawyer justifying political assassina
 
 Anchored Artifacts: A-2333
 
-Related Nodes: N-1223, N-1208, N-2223
+Related Nodes: N-1223, N-2223
 
 Investigative Direction: Locate the specific post; verify timestamp.
 
@@ -839,7 +839,7 @@ Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler 
 
 Anchored Artifacts: A-2334
 
-Related Nodes: N-1224, N-1208, N-2223
+Related Nodes: N-1224, N-2223
 
 Investigative Direction: Confirm the post remains on X; verify timestamp.
 
@@ -851,7 +851,7 @@ Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense at
 
 Anchored Artifacts: A-2335
 
-Related Nodes: N-1213, N-1225, N-1208, N-2223
+Related Nodes: N-1213, N-1225, N-2223
 
 Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
@@ -863,7 +863,7 @@ Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, wa
 
 Anchored Artifacts: A-2336, A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-2223, N-2224
+Related Nodes: N-69, N-2223, N-2224
 
 Investigative Direction: Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
@@ -875,7 +875,7 @@ Claim: The state is pursuing sentence enhancements based on the theory that Kirk
 
 Anchored Artifacts: A-2336, A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-2224
+Related Nodes: N-69, N-2224
 
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
@@ -887,7 +887,7 @@ Claim: The state's filings do not identify which specific statements by Charlie 
 
 Anchored Artifacts: A-2336, A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-1228, N-2224
+Related Nodes: N-69, N-1228, N-2224
 
 Investigative Direction: Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.
 
@@ -899,7 +899,7 @@ Claim: The August 11 defense filing, page 32, asserts that the state is "inferri
 
 Anchored Artifacts: A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-1228, N-2224
+Related Nodes: N-69, N-1228, N-2224
 
 Investigative Direction: Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.
 
@@ -911,7 +911,7 @@ Claim: The state's theory relies in part on the proposition that Lance Twiggs (n
 
 Anchored Artifacts: A-2337
 
-Related Nodes: N-1209, N-69, N-1228, N-2224
+Related Nodes: N-69, N-1228, N-2224
 
 Investigative Direction: Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.
 

@@ -461,21 +461,6 @@
   ],
   "nodes": [
     {
-      "@type": "Person",
-      "@id": "N-391",
-      "ref": "N-391",
-      "name": "Node 391",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
       "@type": "Topic",
       "@id": "N-1318",
       "ref": "N-1318",
@@ -633,8 +618,7 @@
       ],
       "related_nodes": [
         "N-16",
-        "N-1",
-        "N-391"
+        "N-1"
       ],
       "tags": [],
       "claim_timestamp": "00:02:06",

@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
-  - New Nodes Introduced: N-817, N-818, N-821, N-822, N-823, N-825, N-826, N-828, N-1537, N-1538, N-1539, N-1540
+  - New Nodes Introduced: N-817, N-818, N-821, N-822, N-823, N-825, N-826, N-1537, N-1538, N-1539, N-1540
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -193,12 +193,6 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-
-**N-828** Node 828
-
-Node Type: person
-
-*Related:*
 
 **N-817** Dr. Allen Wolft
 
@@ -404,7 +398,7 @@ Claim Timestamp: 00:02:51
 Claim: The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
 
 Anchored Artifacts: A-1704.1
-Related Nodes: N-2, N-817, N-818, N-828
+Related Nodes: N-2, N-817, N-818
 Investigative Direction: Retrieve full Daily Mail article text and verify quotes, attributions, and publication context.
 
 ---

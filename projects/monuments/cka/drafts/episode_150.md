@@ -13,7 +13,9 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: 
   
-  - Reused Nodes Appearing: N-1029, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  
+  - Reused Nodes Appearing: N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
 
 # Episode Analysis – CKA 150
 
@@ -34,7 +36,7 @@
 - **Artifact Families Introduced:** A-2351, A-2352, A-2353, A-2354, A-2355, A-2356, A-2357, A-2358, A-2359, A-2360, A-2361
 - **Claim Range:** C-3406–C-3425
 - **New Nodes Introduced:**
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1029 (Erica Kirk), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy), N-1213 (Unidentified Goth Person in Broderick Companion Photo), N-1214 (Charlie Kirk Pre-Mortem Israel Position Claim), N-1215 (Hospital Routing Discrepancy)
+N-1, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
 
 ---
 
@@ -72,7 +74,7 @@ Video Timestamp: 00:09:50–00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3414, C-3415, C-3417, C-3418, N-1029, N-3*
+*Related: C-3406, C-3414, C-3415, C-3417, C-3418, N-2, N-3*
 
 **A-2351.3** Journal Entry: Power song analysis / 2018 Israel-London retrospective
 
@@ -120,7 +122,7 @@ Video Timestamp: 00:10:30–00:10:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted in full by host)
 
-*Related: C-3409, N-1029*
+*Related: C-3409, N-2*
 
 ---
 
@@ -268,19 +270,6 @@ Episode Count: 1 (this episode)
 Investigative Pressure: High
 
 *Related: A-2351.1, A-2351.2, A-2351.3, A-2353.1, A-2356.1, A-2359.1, A-2359.2, A-2361.1, C-3406, C-3409, C-3416, C-3420, C-3421*
-
----
-
-**N-1029** Erica Kirk
-
-Wife of Charlie Kirk; referenced as "Erika" in A-2351.2. Subject of journal-entry claims regarding a "scheduled will change" and avoidance of a suburban house Charlie purchased.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2351.2, A-2353.1, C-3409, C-3414, C-3415*
 
 ---
 

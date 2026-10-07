@@ -618,8 +618,6 @@
         "A-2322.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1210"
       ],
       "tags": [],
@@ -635,9 +633,7 @@
       "anchored_artifacts": [
         "A-2321.1"
       ],
-      "related_nodes": [
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Identify the specific Israeli outlet(s) referenced; review Israeli media's early reporting timeline; determine whether/how they obtained information before official announcement."
@@ -651,11 +647,7 @@
       "anchored_artifacts": [
         "A-2322.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Obtain Butch Hibbs's phone records for the night of 9/9–9/10 to verify the timing and content of the call to Jack Hibbs."
@@ -670,7 +662,6 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2216"
       ],
       "tags": [],
@@ -686,10 +677,7 @@
       "anchored_artifacts": [
         "A-2322.2"
       ],
-      "related_nodes": [
-        "N-1208",
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:14",
       "investigative_direction": "Cross-reference Mikey McCoy's call logs (previously referenced as covering 12:24–12:44) for any call to a Jack Hibbs number; reconcile with the 12:30 PM prayer-chain claim."
@@ -704,7 +692,6 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2217"
       ],
       "tags": [],
@@ -721,7 +708,6 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2217"
       ],
       "tags": [],
@@ -738,7 +724,6 @@
         "A-2324.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2216"
       ],
       "tags": [],
@@ -755,10 +740,7 @@
         "A-2322.1",
         "A-2325.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Confirm Butch Hibbs's date of birth and verify against any ID or background checks."
@@ -790,9 +772,6 @@
         "A-2324.2"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1209",
         "N-2217"
       ],
       "tags": [],

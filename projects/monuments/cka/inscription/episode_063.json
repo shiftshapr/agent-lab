@@ -32,7 +32,7 @@
             "C-2199"
           ],
           "related_nodes": [
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-2196"
           ],
           "related_nodes": [
-            "N-1008",
+            "N-2",
             "N-1514"
           ],
           "tags": [],
@@ -66,7 +66,7 @@
             "C-2198"
           ],
           "related_nodes": [
-            "N-1008",
+            "N-2",
             "N-792",
             "N-1515"
           ],
@@ -142,7 +142,7 @@
             "C-2205"
           ],
           "related_nodes": [
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -283,7 +283,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -297,7 +297,7 @@
           "description": "Comment from \"Becca\" — \"When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -335,7 +335,7 @@
           "description": "Comment from \"Adriana New Jersey\" — \"Erika plays a role that she thinks men want. She did not have the same values as Charlie … The comment in the New York Times was, 'Who needs a man? Being a single mother is okay.' That is the opposite of Charlie's views.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -386,7 +386,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
           "description": "Comment from \"Maria Rits / Jolly Valley girl\" — \"Hey Jolly Valley girl tone excited to be discussing business numbers and goals is super cringe and weird.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1008",
+            "N-2",
             "N-1514"
           ],
           "tags": [],
@@ -415,7 +415,7 @@
           "description": "Comment from \"Jess Happy\" — \"And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1008"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -446,45 +446,6 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1008",
-      "ref": "N-1008",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Subject of the Zoom call audio (A-1676 series), the NYT profile (A-1679.1), and multiple chat comments. Reused from prior episodes.",
-      "related_artifacts": [
-        "A-1676.1",
-        "A-1676.2",
-        "A-1676.3",
-        "A-1679.1",
-        "A-1685.1",
-        "A-1685.2",
-        "A-1685.5",
-        "A-1685.9",
-        "A-1685.10",
-        "A-1685.11"
-      ],
-      "related_claims": [
-        "C-2194",
-        "C-2195",
-        "C-2196",
-        "C-2197",
-        "C-2198",
-        "C-2199",
-        "C-2200",
-        "C-2205"
-      ],
-      "tags": [],
-      "evidence_count": 10,
-      "claim_count": 8,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1514",
-        "N-1515"
-      ]
     },
     {
       "@type": "Person",
@@ -574,7 +535,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1008"
+        "N-2"
       ]
     },
     {
@@ -597,7 +558,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1008",
+        "N-2",
         "N-792"
       ]
     },
@@ -636,7 +597,7 @@
         "A-1676.1"
       ],
       "related_nodes": [
-        "N-1008",
+        "N-2",
         "N-1514"
       ],
       "tags": [],
@@ -653,7 +614,7 @@
         "A-1676.1"
       ],
       "related_nodes": [
-        "N-1008"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
@@ -669,7 +630,7 @@
         "A-1676.2"
       ],
       "related_nodes": [
-        "N-1008",
+        "N-2",
         "N-1514"
       ],
       "tags": [],
@@ -686,7 +647,7 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-1008",
+        "N-2",
         "N-792",
         "N-1515"
       ],
@@ -704,7 +665,7 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-1008",
+        "N-2",
         "N-1515"
       ],
       "tags": [],
@@ -721,7 +682,7 @@
         "A-1676.1"
       ],
       "related_nodes": [
-        "N-1008"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
@@ -737,7 +698,7 @@
         "A-1679.1"
       ],
       "related_nodes": [
-        "N-1008"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:07:45",
@@ -820,7 +781,7 @@
         "A-1679.1"
       ],
       "related_nodes": [
-        "N-1008"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",

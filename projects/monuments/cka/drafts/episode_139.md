@@ -449,7 +449,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owen
 
 Anchored Artifacts: A-2255.1
 
-Related Nodes: N-1207, N-1213, N-46
+Related Nodes: N-1213, N-46
 
 Investigative Direction: Verify funding source of the $300K offer; obtain any formal documentation or PR communications.
 
@@ -463,7 +463,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to 
 
 Anchored Artifacts: A-2255.2
 
-Related Nodes: N-1207, N-2, N-1213, N-46
+Related Nodes: N-2, N-1213, N-46
 
 Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.
 
@@ -477,7 +477,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has 
 
 Anchored Artifacts: A-2255.3
 
-Related Nodes: N-1207, N-1213, N-1, N-2, N-46
+Related Nodes: N-1213, N-1, N-2, N-46
 
 Investigative Direction: Catalogue all Candace Owens public statements and shown evidence; evaluate the "no evidence" characterization against documented artifacts.
 
@@ -491,7 +491,7 @@ Claim: Andrew Kovac stated on X that Andrew Wilson was paid for one day of debat
 
 Anchored Artifacts: A-2256.1
 
-Related Nodes: N-1207, N-1210, N-46
+Related Nodes: N-1210, N-46
 
 Investigative Direction: Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.
 
@@ -505,7 +505,7 @@ Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, 
 
 Anchored Artifacts: A-2257.1
 
-Related Nodes: N-1207, N-1211, N-46
+Related Nodes: N-1211, N-46
 
 Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior amplification patterns.
 
@@ -519,7 +519,7 @@ Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent n
 
 Anchored Artifacts: A-2258.1
 
-Related Nodes: N-1207, N-1215, N-46
+Related Nodes: N-1215, N-46
 
 Investigative Direction: Obtain full unedited debate recording to verify context and whether insults were reciprocated.
 
@@ -533,7 +533,7 @@ Claim: A displayed snowboarding photo shows Lance Twigs falling onto his left ha
 
 Anchored Artifacts: A-2259.1
 
-Related Nodes: N-1208, N-2186
+Related Nodes: N-2186
 
 Investigative Direction: Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities.
 
@@ -547,7 +547,7 @@ Claim: A displayed photo shows Lance Twigs fueling a vehicle with his left hand 
 
 Anchored Artifacts: A-2259.2
 
-Related Nodes: N-1208, N-2186
+Related Nodes: N-2186
 
 Investigative Direction: Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively.
 
@@ -561,7 +561,7 @@ Claim: A childhood piano recital video of Lance Twigs ("My name is Lance Twigs. 
 
 Anchored Artifacts: A-2259.4
 
-Related Nodes: N-1208, N-2186
+Related Nodes: N-2186
 
 Investigative Direction: Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training.
 
@@ -589,7 +589,7 @@ Claim: Blurry UVU staircase footage shows the maroon-shirt person holding a phon
 
 Anchored Artifacts: A-2261.1
 
-Related Nodes: N-2187, N-69, N-1208, N-2186
+Related Nodes: N-2187, N-69, N-2186
 
 Investigative Direction: Obtain the "4K" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.
 
@@ -715,7 +715,7 @@ Claim: A viewer email to the tip line describes "Luna" from the animated series 
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-2189, N-1208
+Related Nodes: N-2189
 
 Investigative Direction: Cross-reference Helluva Boss character profile and Luna's first appearance date.
 
@@ -729,7 +729,7 @@ Claim: Per the same email, the Luna character from Helluva Boss wears a pentagra
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-2189, N-1208
+Related Nodes: N-2189
 
 Investigative Direction: Obtain canonical Helluva Boss images showing Luna's necklace design.
 
@@ -743,7 +743,7 @@ Claim: Wikipedia describes the Helluva Boss animated series as following the emp
 
 Anchored Artifacts: A-2266.1
 
-Related Nodes: N-2189, N-1208
+Related Nodes: N-2189
 
 Investigative Direction: Verify Wikipedia entry at time of access; check edit history.
 

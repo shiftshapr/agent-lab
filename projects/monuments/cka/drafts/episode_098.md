@@ -594,7 +594,7 @@ Claim: The Daily Wire issued a statement to Breitbart Media describing layoffs a
 
 Anchored Artifacts: A-2030.1
 
-Related Nodes: N-1 (Daily Wire)
+Related Nodes: N-1
 
 ---
 
@@ -606,7 +606,7 @@ Claim: The Daily Wire's statement said the cuts were largely concentrated at the
 
 Anchored Artifacts: A-2030.1
 
-Related Nodes: N-1 (Daily Wire)
+Related Nodes: N-1
 
 Investigative Direction: Cross-check statement against dismissed-employee reporting and prior production staffing rosters.
 
@@ -620,7 +620,7 @@ Claim: The Daily Wire's statement said it had added production staff in DC, the 
 
 Anchored Artifacts: A-2030.1
 
-Related Nodes: N-1 (Daily Wire)
+Related Nodes: N-1
 
 Investigative Direction: Verify against LinkedIn/public hiring records and any DC bureau disclosures.
 
@@ -802,7 +802,7 @@ Claim: The host reported observing on Matt Slauson's X wall that before acknowle
 
 Anchored Artifacts: A-2041.1
 
-Related Nodes: N-1207, N-1726, N-1731
+Related Nodes: N-1726, N-1731
 
 Investigative Direction: Pull archived Slauson X timeline via Wayback Machine to verify.
 
@@ -816,7 +816,7 @@ Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partne
 
 Anchored Artifacts: A-2042.1
 
-Related Nodes: N-1207, N-1208, N-1726
+Related Nodes: N-1726
 
 Investigative Direction: Obtain PACER docket copy of Harpole filing and marriage records.
 
@@ -830,7 +830,7 @@ Claim: Jacob William Roth retweeted the Brian Harpole lawsuit document.
 
 Anchored Artifacts: A-2043.1
 
-Related Nodes: N-1208, N-1726
+Related Nodes: N-1726
 
 Investigative Direction: Pull archived Roth X timeline.
 
@@ -856,7 +856,7 @@ Claim: A live chat donation stated that pursuing the lawsuit to discovery stage 
 
 Anchored Artifacts: A-2040.3
 
-Related Nodes: N-1209, N-1726
+Related Nodes: N-1726
 
 ---
 

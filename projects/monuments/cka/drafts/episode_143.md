@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2207, N-2208
-  - Reused Nodes Appearing: N-1026, N-5, N-6, N-1027, N-8, N-9, N-1207, N-1208
+  - Reused Nodes Appearing: N-2, N-5, N-6, N-176, N-8, N-9, N-1207, N-1208
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -34,7 +34,7 @@
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
 - **New Nodes Introduced:** N-2207, N-2208
-- **Existing Nodes Reused:** N-1026, N-1027, N-69, N-5, N-6, N-8, N-9, N-1207, N-1208
+- **Existing Nodes Reused:** N-2, N-176, N-69, N-5, N-6, N-8, N-9, N-1207, N-1208
 
 ---
 
@@ -42,9 +42,9 @@
 
 The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terrell," and "Terrence" (N-9) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
 
-Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-1027) as the person who recognized Tyler Robinson (N-69) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
+Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-176) as the person who recognized Tyler Robinson (N-69) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
 
-Third, the host reads aloud two tweets by Blake Neff (A-2294, A-2298) characterizing the Robinson defense filings and Candace Owens' (N-1027) public role, then plays audio clips of Hasan Piker (A-2297) praising Owens and a Wear Forbidden Matrix-parody video (A-2299). The episode's structural importance lies in advancing a specific physical-evidence narrative about SD card handling and formally surfacing Trump's prior on-air account of Mike Mitchell as the recognition source.
+Third, the host reads aloud two tweets by Blake Neff (A-2294, A-2298) characterizing the Robinson defense filings and Candace Owens' (N-176) public role, then plays audio clips of Hasan Piker (A-2297) praising Owens and a Wear Forbidden Matrix-parody video (A-2299). The episode's structural importance lies in advancing a specific physical-evidence narrative about SD card handling and formally surfacing Trump's prior on-air account of Mike Mitchell as the recognition source.
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:32:32–00:33:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3306, N-1027, N-69, N-1*
+*Related: C-3306, N-176, N-69, N-1*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:35:00–00:36:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3309, N-1207, N-1027, N-1, N-69*
+*Related: C-3309, N-1207, N-176, N-1, N-69*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:34:27–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3310, N-5, N-1207, N-1027*
+*Related: C-3310, N-5, N-1207, N-176*
 
 ---
 
@@ -183,19 +183,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1026** Erica Kirk
-
-Referenced via Glenn Beck show statement regarding Charlie's pre-event text messages (verbally referenced only, no artifact shown in this episode).
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: Multiple
-Investigative Pressure: Medium
-
-*Related: Optional Flag — referenced, not artifact-shown in Ep 143*
-
----
-
 **N-5** Donald Trump
 
 Recurring writer/commentator whose tweets are read aloud as artifacts in this episode.
@@ -219,19 +206,6 @@ Episode Count: Multiple
 Investigative Pressure: Low
 
 *Related: Optional Flag — referenced, no direct artifact in Ep 143*
-
----
-
-**N-1027** Mike Mitchell
-
-Family friend / former police officer / Mormon minister identified by Trump (A-2296) as the recognition source for Tyler Robinson.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: Multiple
-Investigative Pressure: High
-
-*Related: A-2296.1, C-3306*
 
 ---
 
@@ -344,7 +318,7 @@ Claim Timestamp: 00:32:32
 Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" — described as a person involved in law enforcement and a minister — recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
 
 Anchored Artifacts: A-2296.1
-Related Nodes: N-1027, N-69, N-1
+Related Nodes: N-176, N-69, N-1
 Investigative Direction: Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.
 
 ---
@@ -356,7 +330,7 @@ Claim Timestamp: 00:33:22
 Claim: Trump's on-air description characterizes the recognizing individual as a person involved in law enforcement and "a person of faith, a minister," which the host maps to Mike Mitchell's known roles.
 
 Anchored Artifacts: A-2296.1
-Related Nodes: N-1027
+Related Nodes: N-176
 Investigative Direction: Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.
 
 ---
@@ -380,7 +354,7 @@ Claim Timestamp: 00:35:00
 Claim: In an audio clip, streamer Hasan Piker calls Candace Owens "a queen" who "successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk," while simultaneously stating his belief that Tyler Robinson likely did it.
 
 Anchored Artifacts: A-2297.1
-Related Nodes: N-1207, N-1027, N-69, N-1
+Related Nodes: N-176, N-69, N-1
 Investigative Direction: Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.
 
 ---
@@ -392,7 +366,7 @@ Claim Timestamp: 00:34:27
 Claim: Blake Neff's tweet (read in full) states that "the radical pro-violence left knows exactly what a gift Candace and her ilk are to them," framing her investigative work on the Robinson case as materially assisting left-wing political interests.
 
 Anchored Artifacts: A-2298.1
-Related Nodes: N-5, N-1207, N-1027
+Related Nodes: N-5, N-176
 Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.
 
 ---
@@ -404,7 +378,7 @@ Claim Timestamp: 00:41:34
 Claim: The Where Forbidden X/Instagram account published a short parody video using the Matrix red-pill/blue-pill framing to characterize reactions to the Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
 
 Anchored Artifacts: A-2299.1
-Related Nodes: N-1208, N-69
+Related Nodes: N-69
 Investigative Direction: Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous.
 
 ---
