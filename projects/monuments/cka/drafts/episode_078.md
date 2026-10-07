@@ -841,3 +841,19 @@ Investigative Direction: Cross-reference with documented post-1970s directives f
 - **Transcript ambiguity:** Whether the NY Post article text quoted was read in full or partial — bracketed selection read on air.
 - **Requires human verification:** Identification of building viewer-suggested as matching "white building" description should be cross-checked against 301 East 66th Street ownership records.
 - **Claim failed admission test:** Host framing premises including "I will never buy the narrative that a .30-06 killed Charlie Kirk" (interpretive commentary), "this was a cult" (framing premise), "they are launching a world war" (framing premise), and multiple rhetorical statements about Israeli / Jewish conduct were not inscribed as evidence-backed claims.
+
+## 6. Meme Register
+
+**M-23** (meme) Battle Bun
+
+### Occurrence 1
+
+Video Timestamp: 00:51:02
+Speaker: N-3
+Quote: Battle bun merch. You guys It might be a thing.
+Context: Audience pitches battle-bun merch; host acknowledges the look as a thing.
+Tags: merch, appearance_joke
+Confidence: high
+
+---
+

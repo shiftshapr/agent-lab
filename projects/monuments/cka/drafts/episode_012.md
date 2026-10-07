@@ -576,3 +576,31 @@ Investigative Direction: Verify Bowles's official start date via FBI HR records 
 
 ---
 
+## 6. Meme Register
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:46:56
+Speaker: N-3
+Quote: We don't know no, but we know is the new stand is cup. That just dropped is pretty good. We don't know no, but we know.
+Context: Merch drop productizes the catchphrase on a stand cup.
+Tags: merch, catchphrase
+Confidence: high
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:43:23
+Speaker: N-3
+Quote: No matter what videos I've seen from people on the left or right calling you crazy, I call it fake and gay.
+Context: Viewer comment elevated; host affirms truth-vs-campaign framing.
+Tags: viewer_refrain, catchphrase
+Confidence: high
+
+---
+

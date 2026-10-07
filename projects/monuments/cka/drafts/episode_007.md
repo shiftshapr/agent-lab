@@ -739,3 +739,43 @@ Tags: religious_identity
 Confidence: high
 
 ---
+
+**M-16** (meme) Mommy Sleuth
+
+### Occurrence 1
+
+Video Timestamp: 00:18:20
+Speaker: N-3
+Quote: I would allow the mommy sleuths to take over. That's my opinion.
+Context: Host elevates amateur parent investigators when feds stall.
+Tags: crowd_research, catchphrase
+Confidence: high
+
+---
+
+**M-17** (meme) Hood Rat Stuff
+
+### Occurrence 1
+
+Video Timestamp: 00:59:34
+Speaker: N-3
+Quote: I'll do hood rat stuff, but I want to do it with my friends.
+Context: Comic framing of chaotic investigative energy with friends.
+Tags: merch_adjacent, quip
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:27:08
+Speaker: N-3
+Quote: Candace Owens is selling a CIA line of merchandise that is called the Candace Intelligence Agency
+Context: Laura Loomer complaint clip read on air naming the Candace Intelligence Agency merch line.
+Tags: merch, controversy
+Confidence: high
+
+---
+

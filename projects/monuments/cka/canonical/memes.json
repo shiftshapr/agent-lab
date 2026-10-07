@@ -1,8 +1,8 @@
 {
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes — shared across monuments",
-  "updated": "2026-09-23T21:05:11.092767+00:00",
-  "next_id": 10,
+  "updated": "2026-10-07T06:22:36.735098+00:00",
+  "next_id": 25,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -75,6 +75,175 @@
       "definition": "Recurring commentary on Maricopa County as corrupt political colony",
       "context": "bride_of_charlie",
       "first_episode": 8
+    },
+    "M-10": {
+      "canonical_term": "(meme) Happy Warrior",
+      "type": "meme",
+      "aliases": [
+        "happy warriors",
+        "be a happy warrior"
+      ],
+      "definition": "Charlie Kirk / host refrain to stay cheerful and combative under pressure; recurring closing and memorial frame",
+      "context": "cka",
+      "first_episode": 1
+    },
+    "M-11": {
+      "canonical_term": "(meme) MSAD",
+      "type": "meme",
+      "aliases": [
+        "MSADA",
+        "Mossad (host spelling)"
+      ],
+      "definition": "Host comic misspelling / shorthand for Mossad when listing intel agencies in Epstein and related theories",
+      "context": "cka",
+      "first_episode": 2
+    },
+    "M-12": {
+      "canonical_term": "(meme) Decentralized Intelligence Agency",
+      "type": "meme",
+      "aliases": [
+        "DCIA",
+        "decentralized intelligence agents",
+        "decentralized uh intelligence agency"
+      ],
+      "definition": "Host brand for crowd-sourced tip network opposing centralized intel; merch / tips-box refrain",
+      "context": "cka",
+      "first_episode": 2
+    },
+    "M-13": {
+      "canonical_term": "(meme) Fake and Gay",
+      "type": "meme",
+      "aliases": [
+        "fake & gay",
+        "fakest and gayest"
+      ],
+      "definition": "Host catchphrase dismissing inauthentic, performative, or gaslighting public narratives; elevated viewer refrain",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-14": {
+      "canonical_term": "(meme) Candace Intelligence Agency",
+      "type": "meme",
+      "aliases": [
+        "CIA (Candace)",
+        "CIA merch",
+        "CIA hat",
+        "CIA line"
+      ],
+      "definition": "Merch / brand joke: CIA expands to Candace Intelligence Agency; twin of Decentralized Intelligence Agency",
+      "context": "cka",
+      "first_episode": 5
+    },
+    "M-15": {
+      "canonical_term": "(meme) We Don't Know But We Know",
+      "type": "meme",
+      "aliases": [
+        "don't know no but we know",
+        "we know no but we know",
+        "No but we know"
+      ],
+      "definition": "Host / merch catchphrase for gut certainty without full proof; stand-cup slogan variants",
+      "context": "cka",
+      "first_episode": 6
+    },
+    "M-16": {
+      "canonical_term": "(meme) Mommy Sleuth",
+      "type": "meme",
+      "aliases": [
+        "mommy sleuths",
+        "project mommy sleuth",
+        "decentralized intelligence agents (mommy)"
+      ],
+      "definition": "Host praise for amateur / parent investigators emailing tips; project framing for crowd research",
+      "context": "cka",
+      "first_episode": 7
+    },
+    "M-17": {
+      "canonical_term": "(meme) Hood Rat Stuff",
+      "type": "meme",
+      "aliases": [
+        "hood rat"
+      ],
+      "definition": "Host joke about doing chaotic investigative / street-energy moves with friends; merch-adjacent quip",
+      "context": "cka",
+      "first_episode": 7
+    },
+    "M-18": {
+      "canonical_term": "(meme) Make Him a Sandwich",
+      "type": "meme",
+      "aliases": [
+        "make him a sandwich.com",
+        "Make Him a Sandwich book"
+      ],
+      "definition": "Self-published book / site brand the host plugs as anti-feminist culture joke and support channel",
+      "context": "cka",
+      "first_episode": 19
+    },
+    "M-19": {
+      "canonical_term": "(meme) Go Max",
+      "type": "meme",
+      "aliases": [
+        "going Max",
+        "went Max",
+        "go max"
+      ],
+      "definition": "Charlie Kirk exhortation elevated by host into show battle cry and merch-ready catchphrase",
+      "context": "cka",
+      "first_episode": 30
+    },
+    "M-20": {
+      "canonical_term": "(meme) Bubble Gum Christianity",
+      "type": "meme",
+      "aliases": [
+        "bubblegum Christianity"
+      ],
+      "definition": "Host insult for shallow proof-texting that pressures audiences to accept evil or silence questions",
+      "context": "cka",
+      "first_episode": 51
+    },
+    "M-21": {
+      "canonical_term": "(meme) Conspiracy Girly",
+      "type": "meme",
+      "aliases": [
+        "conspiracy girlie"
+      ],
+      "definition": "Self-label and mug merch affirming open conspiracy talk as feminine / playful brand",
+      "context": "cka",
+      "first_episode": 55
+    },
+    "M-22": {
+      "canonical_term": "(meme) Why Are You Gay",
+      "type": "meme",
+      "aliases": [
+        "Why are you gay Emmanuel Macron",
+        "Emanuel why are you gay"
+      ],
+      "definition": "Merch / refrain questioning Emmanuel Macron's sexuality as comic conspiracy punchline",
+      "context": "cka",
+      "first_episode": 69
+    },
+    "M-23": {
+      "canonical_term": "(meme) Battle Bun",
+      "type": "meme",
+      "aliases": [
+        "battle bun Monday",
+        "battle bun merch"
+      ],
+      "definition": "Audience / host joke about Candace's pulled-back bun as combat-ready look; merch tease",
+      "context": "cka",
+      "first_episode": 78
+    },
+    "M-24": {
+      "canonical_term": "(meme) Yanking and Banking",
+      "type": "meme",
+      "aliases": [
+        "yankin and bankan",
+        "Yankin and Bankan Franken Turk",
+        "yanking bank Tuesdays"
+      ],
+      "definition": "Frank Turek hospital-ride phrase the host weaponizes as running gag and nickname fuel",
+      "context": "cka",
+      "first_episode": 128
     }
   },
   "types": {

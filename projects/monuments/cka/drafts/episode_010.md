@@ -768,3 +768,17 @@ Tags: self_defense, rhetorical_reframe
 Confidence: medium
 
 ---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:12:10
+Speaker: N-3
+Quote: Some of it felt a little cheap and fake and gay
+Context: Host applies Fake and Gay to cheap eulogizing after Charlie Kirk's death.
+Tags: catchphrase, memorial_tone
+Confidence: high
+
+---
+

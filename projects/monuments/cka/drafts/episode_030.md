@@ -607,3 +607,18 @@ Investigative Direction: Obtain the archived original tweet via Wayback Machine 
 
 ---
 
+## 6. Meme Register
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:12:50
+Speaker: N-3
+Quote: Here it is. Go Max. It's quick. It's just happens to be on tape and it backs up what Tucker said.
+Context: Host elevates Charlie Kirk telling Tucker to Go Max into on-air battle cry.
+Tags: catchphrase, charlie_quote
+Confidence: high
+
+---
+

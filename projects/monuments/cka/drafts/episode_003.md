@@ -1051,3 +1051,17 @@ Tags: anticipatory_defense
 Confidence: medium
 
 ---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 01:14:10
+Speaker: N-3
+Quote: It feels a little fake and gay. Got to tell you guys, it feels a little fake and gay.
+Context: Host debut of signature dismissal of inauthentic public narratives.
+Tags: catchphrase, sarcasm
+Confidence: high
+
+---
+

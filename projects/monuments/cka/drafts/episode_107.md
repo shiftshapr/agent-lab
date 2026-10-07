@@ -373,8 +373,8 @@ Investigative Direction: Compare original website text against archived snapshot
 
 ## 6. Meme Register
 
-**?** (meme) 
+_(none — prior placeholder removed; not a meme)_
 
-Summary: Candace describing Victor Marx and wife visiting Erika Kirk's home post-assassination
+---
 
 ---

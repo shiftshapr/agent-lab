@@ -490,6 +490,21 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 
 ---
 
+## 6. Meme Register
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: The more I watch, the more fake and gay things are.
+Context: Viewer Lulu Mallerie comment elevated on air.
+Tags: viewer_refrain
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown**: Erika Kirk's statements at the Bari Weiss CBS town hall ("Stop"; pregnancy denial; photo proof claim; "good things about Jews"; Shabbat dinner references) are paraphrased by the host in the third chapter but no direct clips or on-screen text from the town hall appear in this episode. The town hall was filmed the same day as the episode and broadcast date is uncertain.

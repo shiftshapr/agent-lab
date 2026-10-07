@@ -526,3 +526,18 @@ Investigative Direction: Obtain direct on-record confirmation from Marina Minas;
 
 ---
 
+## 6. Meme Register
+
+**M-9** (meme) Maricopa County corruption
+
+### Occurrence 1
+
+Video Timestamp: 00:44:30
+Speaker: N-3
+Quote: Maricopa County is one of the most corrupt counties in in the nation
+Context: Host reprises Maricopa corruption refrain while discussing TPUSA legal posture.
+Tags: arizona_politics, sarcasm
+Confidence: high
+
+---
+

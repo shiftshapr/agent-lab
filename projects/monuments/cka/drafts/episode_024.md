@@ -642,3 +642,19 @@ Investigative Direction: This is a host interpretive stance; verification is anc
 - Artifact verbally referenced but not confirmed visually shown: A-1313.3 (RJC stage poster); host describes the sign but the transcript does not show it as a displayed image. Confidence Level: Medium.
 - Transcript ambiguity: Candace's recount of Charlie Kirk's "Milo" remark, the photo at Ben Shapiro's set, and the alleged behind-the-scenes text messages from Charlie are NOT presented as artifacts in this episode; the host refers to messages she has but does not display them. Related claims (about Charlie-Ben relations, Ben's alleged "Milo" remark, Candace's 80–150 text messages) are therefore NOT inscribed as claims.
 - Requires human verification: The Tyler Robinson ACT 34 figure (C-1580 / A-1320.5) originates from a viewer comment; no court filing, news report, or record is presented in this episode.
+
+## 6. Meme Register
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:01:09
+Speaker: N-3
+Quote: So obviously, a major theme of this podcast is that everything truly is fake and gay.
+Context: Host declares Fake and Gay a major show theme.
+Tags: catchphrase, show_theme
+Confidence: high
+
+---
+

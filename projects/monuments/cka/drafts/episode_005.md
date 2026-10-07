@@ -886,3 +886,30 @@ Tags: memory_management
 Confidence: medium
 
 ---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:59:03
+Speaker: N-3
+Quote: Uh, just to be clear, the CIA stands for the Candace Intelligence Agency, which you see on the back of that obviously because we consider ourselves to be the decentralized intelligent agency because we get tips from you guys.
+Context: Explicit merch gloss linking CIA branding to Candace Intelligence Agency and DCIA tips.
+Tags: merch, brand_joke
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:59:03
+Speaker: N-3
+Quote: we consider ourselves to be the decentralized intelligent agency because we get tips from you guys.
+Context: Same beat restates DCIA as tip-fed alternative to centralized intel.
+Tags: merch, tips_network
+Confidence: high
+
+---
+
