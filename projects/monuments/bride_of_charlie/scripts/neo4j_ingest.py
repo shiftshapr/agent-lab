@@ -91,6 +91,10 @@ TRANSCRIPT_SNIPPET_PATTERN = re.compile(r"^Transcript Snippet:\s*(.+)$", re.MULT
 CONTRADICTS_PATTERN = re.compile(r"^Contradicts:\s*(.+)$", re.MULTILINE)
 SUPPORTS_PATTERN = re.compile(r"^Supports:\s*(.+)$", re.MULTILINE)
 QUALIFIES_PATTERN = re.compile(r"^Qualifies:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+REVISES_PATTERN = re.compile(r"^Revises:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+MENTIONS_PATTERN = re.compile(r"^Mentions:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+CONNECTED_PATTERN = re.compile(r"^Connected:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+CAPTURED_AT_PATTERN = re.compile(r"^CapturedAt:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
 SENSITIVE_TAGS_PATTERN = re.compile(r"^Sensitive Tags:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
 CLAIM_TEXT_PATTERN = re.compile(r"^Claim:\s*(.+)$", re.MULTILINE)
 # Use horizontal whitespace only after the colon: \s* would swallow newlines and
@@ -303,6 +307,11 @@ def extract_artifacts(text: str, episode_num: int) -> list[dict[str, Any]]:
         rel_match = RELATED_PATTERN.search(section)
         if rel_match:
             related_ids = parse_id_list(rel_match.group(1))
+
+        captured_at_places: list[str] = []
+        cap = CAPTURED_AT_PATTERN.search(section)
+        if cap:
+            captured_at_places = [x for x in parse_id_list(cap.group(1)) if x.startswith("N-")]
         
         artifacts.append({
             "id": artifact_id,
@@ -313,6 +322,7 @@ def extract_artifacts(text: str, episode_num: int) -> list[dict[str, Any]]:
             "uncertainty_note": uncertainty_note,
             "transcript_snippet": transcript_snippet,
             "related_ids": related_ids,
+            "captured_at_places": captured_at_places,
             **timestamps,
         })
     
@@ -383,6 +393,16 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
         if qm:
             qualifies_claims = [x for x in parse_id_list(qm.group(1)) if x.startswith("C-")]
 
+        revises_claims: list[str] = []
+        rm = REVISES_PATTERN.search(section)
+        if rm:
+            revises_claims = [x for x in parse_id_list(rm.group(1)) if x.startswith("C-")]
+
+        mentions_persons: list[str] = []
+        mm = MENTIONS_PATTERN.search(section)
+        if mm:
+            mentions_persons = [x for x in parse_id_list(mm.group(1)) if x.startswith("N-")]
+
         sensitive_topic_tags: list[str] = []
         st = SENSITIVE_TAGS_PATTERN.search(section)
         if st:
@@ -419,6 +439,8 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
             "contradicts_claims": contradicts_claims,
             "supports_claims": supports_claims,
             "qualifies_claims": qualifies_claims,
+            "revises_claims": revises_claims,
+            "mentions_persons": mentions_persons,
             "sensitive_topic_tags": sensitive_topic_tags,
             "confidence": confidence,
             "uncertainty_note": uncertainty_note,
@@ -512,6 +534,13 @@ def extract_nodes(text: str, episode_num: int) -> list[dict[str, Any]]:
             row["organization_kind"] = organization_kind
         if place_kind:
             row["place_kind"] = place_kind
+
+        connected_orgs: list[str] = []
+        conn = CONNECTED_PATTERN.search(section)
+        if conn:
+            connected_orgs = [x for x in parse_id_list(conn.group(1)) if x.startswith("N-")]
+        if connected_orgs:
+            row["connected_orgs"] = connected_orgs
         
         nodes.append(row)
     

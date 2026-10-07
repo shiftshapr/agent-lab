@@ -311,11 +311,30 @@ Claim: One-sentence neutral description.
 
 Anchored Artifacts: A-1000.1, A-1000.2
 
-Related Nodes: N-2, N-1000
+Mentions: N-2
+
+Related Nodes: N-1000
+
+Revises: C-999
+
+Contradicts: C-998
+
+Supports: C-997
+
+Qualifies: C-996
 
 Investigative Direction: One sentence describing what could verify or falsify the claim.
 
+Optional typed lines (omit when empty):
+- `Mentions:` person N-* (thin split of Related)
+- `Revises:` / `Contradicts:` / `Supports:` / `Qualifies:` claim→claim edges (BoC habit; required on CKA for walk-backs and explicit oppose)
+- `Related Nodes:` non-person leftovers until further typing
+
 If Claim Timestamp is unknown, omit it rather than guessing.
+
+## Claim immutability and REVISES
+
+Claims are immutable once minted (label + body frozen). Do not reuse a C-id for a new airing, walk-back, or soft replacement. Mint a new C-* and wire `Revises:` from the newer claim to the older (direction: newer revises older). When the host explicitly opposes the older content, also emit `Contradicts:`. Same C-id with different labels across episodes is a **fork** (preflight P0), not a revision.
 
 ## Claim description rules
 - Neutral wording
@@ -362,7 +381,7 @@ These do not belong in the Claim Register unless the episode presents artifact-b
 
 ---
 
-# VIII. Contradictions
+# VIII. Contradictions and revisions
 
 Only record contradictions when both sides are artifact-anchored.
 
@@ -370,6 +389,10 @@ A contradiction is inscription-worthy if:
 - claim A is backed by an artifact
 - claim B is backed by an artifact
 - both cannot comfortably coexist without clarification
+
+Draft the edge on the newer (or opposing) claim as `Contradicts: C-….` Parser field: `contradicts_claim_refs`.
+
+When the host softens, corrects, or replaces her own prior airing, mint a **new** C-id and add `Revises: C-….` (newer → older). Do not edit or reuse the older id. If she also explicitly opposes the older content, emit both `Revises:` and `Contradicts:`.
 
 Do not inflate every inconsistency into a contradiction.
 
@@ -548,7 +571,9 @@ Claim: The episode presents that Erica’s DOB appears as November 22, 1988 acro
 
 Anchored Artifacts: A-1004.1, A-1004.2
 
-Related Nodes: N-2, N-1000
+Mentions: N-2
+
+Related Nodes: N-1000
 
 Investigative Direction: Obtain certified copies of the filings and compare them against official identity records.
 

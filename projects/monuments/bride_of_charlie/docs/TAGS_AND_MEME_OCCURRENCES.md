@@ -41,8 +41,13 @@ Explicit links between entities in the **same episode** (Phase 2 remaps placehol
 
 | Field | On | Purpose |
 |-------|-----|---------|
-| `contradicts_claim_refs` | Claim | Array of `CLAIM_n` this claim contradicts |
-| `supports_claim_refs` | Claim | Array of `CLAIM_n` this claim supports or reinforces |
+| `contradicts_claim_refs` | Claim | Array of `CLAIM_n` this claim contradicts (`Contradicts:`) |
+| `supports_claim_refs` | Claim | Array of `CLAIM_n` this claim supports or reinforces (`Supports:`) |
+| `qualifies_claim_refs` | Claim | Array of `CLAIM_n` this claim narrows (`Qualifies:`) |
+| `revises_claim_refs` | Claim | Array of older `CLAIM_n` this newer claim revises (`Revises:`; newer → older) |
+| `mentions_person_refs` | Claim | Person `NODE_n` mentions (`Mentions:`; typed split of Related) |
+| `connected_org_refs` | Node (Person) | Org `NODE_n` links (`Connected:`) |
+| `captured_at_place_refs` | Artifact sub_item | Place locus (`CapturedAt:`) |
 | `same_as_artifact_refs` | Artifact sub_item | Array of `ART_n.m` for duplicate display / same underlying document |
 
 ---

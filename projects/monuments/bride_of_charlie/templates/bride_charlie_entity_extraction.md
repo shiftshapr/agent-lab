@@ -150,6 +150,9 @@ Output valid JSON-LD only. No markdown, no commentary.
       "transcript_snippet": "But this other listing says December 6.",
       "contradicts_claim_refs": ["CLAIM_1"],
       "supports_claim_refs": [],
+      "qualifies_claim_refs": [],
+      "revises_claim_refs": [],
+      "mentions_person_refs": [],
       "confidence": "medium",
       "uncertainty_note": "Second document not fully legible on screen."
     }
@@ -185,7 +188,7 @@ Use these when the episode supports them; all cross-refs must point at `nodes` /
 - **`topic_mentions`**: `{ "claim_ref", "topic_node_ref" }` — claim invokes a **Topic** (or legacy thematic node); Neo4j `MENTIONS_TOPIC`.
 - **`meme_links`**: `{ "meme_ref": "M-1", "link_type": "invoked_by_claim"|"invoked_by_speaker"|"targets_node", plus the matching ref field }` — define the meme in **`memes`** first.
 
-**Claim–claim logic:** Populate **`contradicts_claim_refs`** / **`supports_claim_refs`** whenever the episode juxtaposes incompatible or reinforcing statements — do not leave them empty by default when a contradiction is explicit.
+**Claim–claim logic:** Populate **`contradicts_claim_refs`** / **`supports_claim_refs`** / **`qualifies_claim_refs`** / **`revises_claim_refs`** whenever the episode juxtaposes incompatible, reinforcing, narrowing, or walk-back statements — do not leave them empty by default when a contradiction or revision is explicit. Claims are immutable: a walk-back is a new claim with `revises_claim_refs`, never an edit to the old id. Prefer **`mentions_person_refs`** for person mentions (draft `Mentions:`).
 
 ---
 
@@ -207,6 +210,6 @@ Rules:
 - Memes: each occurrence must have episode, video_timestamp, quote (exact transcript snippet), speaker_node_ref (who said it). Add tags when useful.
 - Quote anchoring: Include transcript_snippet on claims and artifacts, and quote (verbatim) on meme occurrences. Enables verification against source.
 - Tags: optional arrays on nodes, artifacts, claims, and meme occurrences. Use suggested tags or add custom ones.
-- Cross-references: On claims, use `contradicts_claim_refs`, `supports_claim_refs`, and `qualifies_claim_refs` (arrays of CLAIM_n in this episode). On artifact sub_items, use `same_as_artifact_refs` (ART_n.m) when the same underlying item appears twice.
+- Cross-references: On claims, use `contradicts_claim_refs`, `supports_claim_refs`, `qualifies_claim_refs`, and `revises_claim_refs` (arrays of CLAIM_n). Prefer `mentions_person_refs` for persons. On nodes, optional `connected_org_refs`. On artifact sub_items, use `same_as_artifact_refs` (ART_n.m) and optional `captured_at_place_refs`.
 - Confidence: Optional `confidence` = `high` | `medium` | `low` on claims, artifact sub_items, nodes, and meme occurrences. Optional `uncertainty_note` (string) when attribution or evidence is ambiguous.
 - Extraction metadata: Pipeline sets `meta.extraction_timestamp` (UTC ISO), `meta.model_version`, and `meta.transcript_sha256` when saving Phase 1; you may omit these in LLM output—they are injected automatically.

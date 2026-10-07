@@ -80,8 +80,15 @@ Investigative Pressure: [Low/Medium/High]
 Claim Timestamp: HH:MM:SS
 Claim: [One-sentence neutral description.]
 Anchored Artifacts: A-XXXX.1, A-XXXX.2
-Related Nodes: N-X, N-1000
+Mentions: N-X
+Related Nodes: N-1000
+Revises: C-YYYY
+Contradicts: C-ZZZZ
+Supports: C-WWWW
+Qualifies: C-VVVV
 Investigative Direction: [What could verify or falsify the claim.]
+
+(Omit empty typed lines. Claims are immutable: remint + Revises/Contradicts instead of editing an old C-id.)
 
 ---
 

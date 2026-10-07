@@ -66,7 +66,7 @@ def check_reference_integrity(data: dict[str, Any], label: str = "") -> list[str
             r = str(r)
             if r not in nodes:
                 bad(f"{cref} related_nodes: unknown node ref {r!r}")
-        for key in ("contradicts_claim_refs", "supports_claim_refs"):
+        for key in ("contradicts_claim_refs", "supports_claim_refs", "qualifies_claim_refs", "revises_claim_refs"):
             for r in claim.get(key, []) or []:
                 r = str(r)
                 if r not in claims:

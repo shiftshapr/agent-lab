@@ -34,9 +34,10 @@ python3 projects/monuments/bride_of_charlie/scripts/dia_preflight.py
 | `person_density` / `topic_band_density` | P0 | Swiss-cheese gaps in N-1..max person or N-1000+ topic band |
 | `intro_order` | P0 | `New Nodes Introduced` ledger order violates ascending id within band |
 | `retired_citation` | P0 | Cites N-* that is not on the active register (tombstone ghost id) |
-| `register_orphan` | P0 | Person in register never on any Claim/Artifact **Related Nodes** line |
+| `register_orphan` | P0 | Person in register never on any Claim/Artifact **Related Nodes** or **Mentions** line |
 | `remap_sync` | P0 | `canonical/nodes.json` or `inscription/` node name ≠ draft register |
 | `meme_reuse` / `meme_global` | P0 | Same M-id, different term (per-episode or global) |
+| `claim_fork` | P0 | Same C-id with different labels (or materially different `Claim:` bodies) across episodes; remint + `Revises:` (and `Contradicts:` if explicit oppose) |
 | `unknown_node` | P1 | Cites N-* absent from Node Register |
 | `stamp_form` | P1 | Claim/Video timestamp bare `M:SS` instead of `HH:MM:SS` |
 | `tip_match` | P0 | `--tip` or pack `TIP.txt` / `MANIFEST` ≠ git HEAD |
