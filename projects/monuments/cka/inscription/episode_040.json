@@ -337,12 +337,14 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-224",
         "N-1378"
       ],
       "tags": [],
       "claim_timestamp": "00:28:38–00:29:32",
-      "investigative_direction": "Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript."
+      "investigative_direction": "Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -353,12 +355,13 @@
       "anchored_artifacts": [
         "A-1489.1"
       ],
-      "related_nodes": [
-        "N-224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:49",
-      "investigative_direction": "Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal."
+      "investigative_direction": "Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -369,12 +372,13 @@
       "anchored_artifacts": [
         "A-1489.1"
       ],
-      "related_nodes": [
-        "N-224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:49",
-      "investigative_direction": "Verify filing history against IRS Form 990 public records."
+      "investigative_direction": "Verify filing history against IRS Form 990 public records.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -385,12 +389,13 @@
       "anchored_artifacts": [
         "A-1489.1"
       ],
-      "related_nodes": [
-        "N-224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:20–00:22:24",
-      "investigative_direction": "Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations."
+      "investigative_direction": "Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -401,13 +406,14 @@
       "anchored_artifacts": [
         "A-1490.1"
       ],
-      "related_nodes": [
-        "N-479",
-        "N-480"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:49",
-      "investigative_direction": "Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange."
+      "investigative_direction": "Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.",
+      "mentions_person_refs": [
+        "N-479",
+        "N-480"
+      ]
     },
     {
       "@type": "Claim",
@@ -418,12 +424,13 @@
       "anchored_artifacts": [
         "A-1490.1"
       ],
-      "related_nodes": [
-        "N-480"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:00",
-      "investigative_direction": "Track any follow-up statement from DoD or law enforcement regarding the underlying allegation."
+      "investigative_direction": "Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.",
+      "mentions_person_refs": [
+        "N-480"
+      ]
     },
     {
       "@type": "Claim",
@@ -434,12 +441,13 @@
       "anchored_artifacts": [
         "A-1491.1"
       ],
-      "related_nodes": [
-        "N-481"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:53–00:51:42",
-      "investigative_direction": "Verify the track listing against the released mixtape; obtain the song lyrics and release date."
+      "investigative_direction": "Verify the track listing against the released mixtape; obtain the song lyrics and release date.",
+      "mentions_person_refs": [
+        "N-481"
+      ]
     },
     {
       "@type": "Claim",
@@ -450,12 +458,13 @@
       "anchored_artifacts": [
         "A-1491.1"
       ],
-      "related_nodes": [
-        "N-481"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:42–00:52:23",
-      "investigative_direction": "Confirm the artist's stated intent against the released song lyrics."
+      "investigative_direction": "Confirm the artist's stated intent against the released song lyrics.",
+      "mentions_person_refs": [
+        "N-481"
+      ]
     },
     {
       "@type": "Claim",
@@ -466,12 +475,13 @@
       "anchored_artifacts": [
         "A-1492.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:20",
-      "investigative_direction": "Locate the Fortune article, capture full byline, and verify publication date."
+      "investigative_direction": "Locate the Fortune article, capture full byline, and verify publication date.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -482,12 +492,13 @@
       "anchored_artifacts": [
         "A-1492.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:25",
-      "investigative_direction": "Verify the quoted phrasing against the original article and identify the named \"experts.\""
+      "investigative_direction": "Verify the quoted phrasing against the original article and identify the named \"experts.\"",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

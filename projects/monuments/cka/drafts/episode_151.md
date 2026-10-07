@@ -299,7 +299,8 @@ Claim Timestamp: 00:40:50
 Claim: Tyler Bowyer, identified by host as running TP Action, posted the Commit 100 / Chase the Ballots program link as the action item in response to the alleged statue vandalism.
 
 Anchored Artifacts: A-2365.1
-Related Nodes: N-2317, N-37
+Mentions: N-37
+Related Nodes: N-2317
 Investigative Direction: Pull the original tweet with timestamp; confirm author and program URL.
 
 ---
@@ -323,7 +324,7 @@ Claim Timestamp: 00:45:08
 Claim: Blake Neff bookmarked Candace Owens's tweet predicting an Erica Kirk Vanity Fair spread with the children ("Save this tweet. It will age well"), and Candace states she has since been contacted by Vanity Fair for comment.
 
 Anchored Artifacts: A-2367.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Pull original bookmark record; await release of Vanity Fair article to verify prediction's accuracy.
 
 ---
@@ -395,7 +396,8 @@ Claim Timestamp: 00:40:10
 Claim: Andrew Kolvet stated that "friends of Charlie and Erika" have posted a $10,000 reward for tips leading to the arrest of the vandals, to be sent to law enforcement.
 
 Anchored Artifacts: A-2363.1
-Related Nodes: N-2317, N-2
+Mentions: N-2
+Related Nodes: N-2317
 Investigative Direction: Identify which "friends" funded the reward; verify any law enforcement bulletin.
 
 ---
@@ -479,7 +481,8 @@ Claim Timestamp: 00:37:35–00:43:46
 Claim: TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026.
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
-Related Nodes: N-2317, N-37
+Mentions: N-37
+Related Nodes: N-2317
 Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.
 
 ---

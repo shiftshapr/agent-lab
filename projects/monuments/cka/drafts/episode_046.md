@@ -356,8 +356,8 @@ Claim Timestamp: 00:07:58
 Claim: During a Bari Weiss CBS town hall, when asked what she wanted to say to Candace Owens and others "putting these lies out into the world," Erika Kirk responded: "Stop. That's it. That's all I have to say. Stop."
 
 Anchored Artifacts: A-1533.1, A-1533.2
+Mentions: N-2, N-3, N-444
 
-Related Nodes: N-2, N-3, N-444
 
 Investigative Direction: Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet.
 
@@ -370,8 +370,8 @@ Claim Timestamp: 00:17:23
 Claim: In a Blaze TV interview with Glenn Beck, Erika Kirk affirmed the host's framing that "the truth is very clear" regarding her husband's assassination.
 
 Anchored Artifacts: A-1534.1
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364
 
 Investigative Direction: Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context.
 
@@ -384,8 +384,8 @@ Claim Timestamp: 00:19:20
 Claim: In the Glenn Beck interview, Erika Kirk stated: "None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us."
 
 Anchored Artifacts: A-1534.3
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364
 
 Investigative Direction: Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial.
 
@@ -398,8 +398,8 @@ Claim Timestamp: 00:23:04
 Claim: In the Glenn Beck interview, Erika Kirk stated: "I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness."
 
 Anchored Artifacts: A-1534.3 (extended context), A-1533.3 (related phrasing)
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364
 
 Investigative Direction: Verify the exact context of the "mental illness" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary.
 
@@ -412,8 +412,8 @@ Claim Timestamp: 00:23:04
 Claim: In the Glenn Beck interview, Erika Kirk stated: "My husband's legacy is not about his murder. My husband's legacy is what he left behind."
 
 Anchored Artifacts: A-1534.3 (context), A-1533.4
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364
 
 Investigative Direction: Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging.
 
@@ -426,8 +426,8 @@ Claim Timestamp: 00:19:20
 Claim: In the Glenn Beck interview, Erika Kirk stated: "A lot of people don't and I think that we need to do a better job of educating our citizens about our court systems. … I don't want a tainted jury pool. I want justice for my husband."
 
 Anchored Artifacts: A-1534.2
+Mentions: N-2, N-364
 
-Related Nodes: N-2, N-364
 
 Investigative Direction: Track whether this "education" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary.
 
@@ -440,8 +440,9 @@ Claim Timestamp: 00:33:07
 Claim: Tyler Robinson appeared in person in a Utah court on December 11, 2025, his first in-person court appearance.
 
 Anchored Artifacts: A-1535.1
+Mentions: N-69
 
-Related Nodes: N-69, N-1407
+Related Nodes: N-1407
 
 Investigative Direction: Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.
 
@@ -454,8 +455,8 @@ Claim Timestamp: 00:35:58
 Claim: In an Instagram post, AllieBeth Stuckey asserted that "Candace has taken a page out of their [BLM's] book," characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.
 
 Anchored Artifacts: A-1536.1
+Mentions: N-3, N-349
 
-Related Nodes: N-349, N-3
 
 Investigative Direction: Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.
 
@@ -468,8 +469,8 @@ Claim Timestamp: 00:43:28
 Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way" or "called out when they're lying."
 
 Anchored Artifacts: A-1537.1
+Mentions: N-42, N-133, N-135, N-349, N-350
 
-Related Nodes: N-349, N-135, N-350, N-133, N-42
 
 Investigative Direction: Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.
 
@@ -482,8 +483,8 @@ Claim Timestamp: 00:40:13
 Claim: In an Instagram comment reply, AllieBeth Stuckey wrote: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
 Anchored Artifacts: A-1536.2
+Mentions: N-3, N-349
 
-Related Nodes: N-349, N-3
 
 Investigative Direction: Capture the comment thread for permanent record and identify the original commenter if investigatively relevant.
 
@@ -496,8 +497,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.
 
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
+Mentions: N-444, N-537
 
-Related Nodes: N-444, N-537, N-1405
+Related Nodes: N-1405
 
 Investigative Direction: Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.
 
@@ -510,8 +512,9 @@ Claim Timestamp: 00:56:27–00:57:53
 Claim: The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.
 
 Anchored Artifacts: Host testimonial confirmation; visual evidence of maroon-shirted attendees (referenced from prior episodes)
+Mentions: N-69
 
-Related Nodes: N-69, N-1406
+Related Nodes: N-1406
 
 Investigative Direction: Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents.
 

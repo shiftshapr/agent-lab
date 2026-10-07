@@ -571,8 +571,8 @@ Claim Timestamp: 00:02:10
 Claim: A Grok-generated summary states that the "Candace" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and attributes growth to criticism, the Macron defamation lawsuit, team resilience, and divine intervention.
 
 Anchored Artifacts: A-1345.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Cross-check Podscribe ranking data independently; verify whether Grok's characterizations of growth causation match primary data.
 
@@ -585,8 +585,8 @@ Claim Timestamp: 00:02:10
 Claim: The host asserts the Grok summary is "fact-checked" and that all of it is "very true."
 
 Anchored Artifacts: A-1345.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Identify which elements of the Grok summary the host is endorsing as primary fact versus host editorialization.
 
@@ -599,8 +599,8 @@ Claim Timestamp: 00:08:12
 Claim: Erika Kirk, in the Fox News interview, states that she has never felt anger toward God over Charlie's death, in contrast to C. S. Lewis in *A Grief Observed*.
 
 Anchored Artifacts: A-1346.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify against full unedited interview audio; identify whether additional context was cut from the broadcast.
 
@@ -613,8 +613,8 @@ Claim Timestamp: 00:12:21
 Claim: When asked directly whether the person in custody pulled the trigger, Erika Kirk responds by stating she trusts her team and has seen the autopsy report, declining a straight yes or no.
 
 Anchored Artifacts: A-1346.2
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain unedited interview transcript; assess whether the non-direct answer is consistent across additional Erika Kirk public statements.
 
@@ -627,8 +627,9 @@ Claim Timestamp: 00:12:21
 Claim: Erika Kirk states she has seen the autopsy report and various "evidence portions" that have been collected.
 
 Anchored Artifacts: A-1346.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1299
+Related Nodes: N-1299
 
 Investigative Direction: Identify the legal pathway by which a non-lawyer spouse obtains access to autopsy and evidence; cross-check public statements by prosecutors and defense counsel.
 
@@ -641,8 +642,9 @@ Claim Timestamp: 00:16:16
 Claim: Erika Kirk states that Charlie loved Saint Michael and that, every time he put on the pendant, he felt it was his armor.
 
 Anchored Artifacts: A-1346.3
+Mentions: N-2
 
-Related Nodes: N-2, N-1300
+Related Nodes: N-1300
 
 Investigative Direction: Obtain photographs of the pendant from TPUSA or family sources; verify the metals described ("bronze" with later additions).
 
@@ -655,8 +657,9 @@ Claim Timestamp: 00:15:23
 Claim: A figure in clerical attire appears in the background of backstage video at the University of Mississippi event featuring Jesse Watters and Erika Kirk; host identifies this as the same priest who accompanied Erika to the hospital after the shooting.
 
 Anchored Artifacts: A-1353.1
+Mentions: N-2, N-313
 
-Related Nodes: N-2, N-313, N-1303, N-1300
+Related Nodes: N-1300, N-1303
 
 Investigative Direction: Obtain original footage to identify the priest and any associated institution.
 
@@ -669,8 +672,8 @@ Claim Timestamp: 00:18:32
 Claim: Erika Kirk publicly requests grace for those who were present the day Charlie was assassinated, citing AI-generated fake images and concerns about her children's future internet exposure.
 
 Anchored Artifacts: A-1346.4
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Catalog the specific AI-generated image claims Erika references; assess the platform-level response to date.
 
@@ -683,8 +686,9 @@ Claim Timestamp: 00:35:13
 Claim: Allie Beth Stuckey tweets that the UVU campus stop was "requested in July" rather than "approved in July," and that Charlie texted her at the end of August about a November campus event approximately 2 months out.
 
 Anchored Artifacts: A-1347.1
+Mentions: N-349
 
-Related Nodes: N-349, N-1298
+Related Nodes: N-1298
 
 Investigative Direction: Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.
 
@@ -697,8 +701,9 @@ Claim Timestamp: 00:36:03
 Claim: Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
 
 Anchored Artifacts: A-1347.2
+Mentions: N-349
 
-Related Nodes: N-349, N-1298
+Related Nodes: N-1298
 
 Investigative Direction: Obtain the underlying text thread to verify Allie's characterization of venue status.
 
@@ -711,8 +716,9 @@ Claim Timestamp: 00:37:49
 Claim: Lila Rose tweets that she was asked to speak at Stanford with the event to be set up within 3 weeks; she notes the event did not materialize.
 
 Anchored Artifacts: A-1348.1
+Mentions: N-350
 
-Related Nodes: N-350, N-1298
+Related Nodes: N-1298
 
 Investigative Direction: Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.
 
@@ -725,8 +731,9 @@ Claim Timestamp: 00:37:49
 Claim: Lila Rose tweets that a recent Yale debate she participated in was planned within 2 months.
 
 Anchored Artifacts: A-1348.1
+Mentions: N-350
 
-Related Nodes: N-350, N-1298
+Related Nodes: N-1298
 
 Investigative Direction: Identify the Yale debate date and verify against Yale Political Union scheduling records.
 
@@ -739,8 +746,8 @@ Claim Timestamp: 00:46:46
 Claim: Alex Clark tweets that Mikey McCoy went to Korea and Japan at the request of TPUSA's production director, who had six children and missed his kids while traveling.
 
 Anchored Artifacts: A-1349.1
+Mentions: N-135, N-272
 
-Related Nodes: N-135, N-272
 
 Investigative Direction: Identify the named production director and verify travel scheduling records.
 
@@ -753,8 +760,8 @@ Claim Timestamp: 00:48:47
 Claim: Alex Clark tweets that on every Charlie tribute episode, she did not run her ad sponsorships, resulting in her team being in debt to her sponsors.
 
 Anchored Artifacts: A-1349.2
+Mentions: N-135
 
-Related Nodes: N-135
 
 Investigative Direction: Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively.
 
@@ -767,8 +774,9 @@ Claim Timestamp: 00:55:21
 Claim: Alyssa Cordova tweets speculation that non-disparagement agreements may be in place between Turning Point USA and Candace Owens due to TPUSA's business arrangement with Blexit.
 
 Anchored Artifacts: A-1350.1
+Mentions: N-353
 
-Related Nodes: N-353, N-1301
+Related Nodes: N-1301
 
 Investigative Direction: Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.
 
@@ -781,8 +789,8 @@ Claim Timestamp: 00:57:25
 Claim: Dinesh D'Souza posts on X that "anyone who follows this freak show is doing it for the entertainment. This is not political commentary. It's bowling."
 
 Anchored Artifacts: A-1351.1
+Mentions: N-235
 
-Related Nodes: N-235
 
 Investigative Direction: Capture original post timestamp and any subsequent D'Souza commentary on the investigation.
 
@@ -795,8 +803,9 @@ Claim Timestamp: 00:25:41
 Claim: Colby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.
 
 Anchored Artifacts: A-1352.1
+Mentions: N-355
 
-Related Nodes: N-355, N-1302
+Related Nodes: N-1302
 
 Investigative Direction: Verify Colby Sessions's UVU student status and the existence of the underlying social media post.
 
@@ -809,8 +818,9 @@ Claim Timestamp: 00:59:56
 Claim: A viewer (Tom Paul) reports that Andrew Klavan, on the Alex Clark show, discussed how Charlie's heart was still beating, posing a question about how Charlie could have "instantly gone to heaven" if he had a pulse.
 
 Anchored Artifacts: A-1354.1
+Mentions: N-2, N-135, N-356, N-358
 
-Related Nodes: N-2, N-135, N-356, N-1304, N-358
+Related Nodes: N-1304
 
 Investigative Direction: Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.
 
@@ -823,8 +833,8 @@ Claim Timestamp: 1:03:27
 Claim: A viewer (Arm Hanna) endorses the host's earlier statement that one cannot forgive until one knows what one is forgiving.
 
 Anchored Artifacts: A-1354.2
+Mentions: N-359
 
-Related Nodes: N-359
 
 Investigative Direction: None — viewer opinion, not an investigative target.
 

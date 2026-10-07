@@ -858,12 +858,14 @@
         "A-1333.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1294"
       ],
       "tags": [],
       "claim_timestamp": "00:03:45–00:04:20",
-      "investigative_direction": "Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours."
+      "investigative_direction": "Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -875,12 +877,14 @@
         "A-1333.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1294"
       ],
       "tags": [],
       "claim_timestamp": "00:02:39–00:03:30",
-      "investigative_direction": "Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates."
+      "investigative_direction": "Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -891,12 +895,13 @@
       "anchored_artifacts": [
         "A-1334.1"
       ],
-      "related_nodes": [
-        "N-340"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:41–00:12:31",
-      "investigative_direction": "Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges."
+      "investigative_direction": "Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges.",
+      "mentions_person_refs": [
+        "N-340"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,13 +926,14 @@
       "anchored_artifacts": [
         "A-1336.1"
       ],
-      "related_nodes": [
-        "N-335",
-        "N-339"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:25–00:18:57",
-      "investigative_direction": "Locate the original Brett Cooper video for full context and identify any subsequent Fine response."
+      "investigative_direction": "Locate the original Brett Cooper video for full context and identify any subsequent Fine response.",
+      "mentions_person_refs": [
+        "N-335",
+        "N-339"
+      ]
     },
     {
       "@type": "Claim",
@@ -938,13 +944,14 @@
       "anchored_artifacts": [
         "A-1336.1"
       ],
-      "related_nodes": [
-        "N-335",
-        "N-339"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:57–00:19:30",
-      "investigative_direction": "N/A — host-stance claim linked to source artifact."
+      "investigative_direction": "N/A — host-stance claim linked to source artifact.",
+      "mentions_person_refs": [
+        "N-335",
+        "N-339"
+      ]
     },
     {
       "@type": "Claim",
@@ -955,13 +962,14 @@
       "anchored_artifacts": [
         "A-1336.2"
       ],
-      "related_nodes": [
-        "N-335",
-        "N-150"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:39–00:20:14",
-      "investigative_direction": "Verify the cited Ted Cruz tweets in their original form and timestamp."
+      "investigative_direction": "Verify the cited Ted Cruz tweets in their original form and timestamp.",
+      "mentions_person_refs": [
+        "N-150",
+        "N-335"
+      ]
     },
     {
       "@type": "Claim",
@@ -972,13 +980,14 @@
       "anchored_artifacts": [
         "A-1336.2"
       ],
-      "related_nodes": [
-        "N-335",
-        "N-150"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:14–00:20:30",
-      "investigative_direction": "N/A — host-stance claim linked to source artifact."
+      "investigative_direction": "N/A — host-stance claim linked to source artifact.",
+      "mentions_person_refs": [
+        "N-150",
+        "N-335"
+      ]
     },
     {
       "@type": "Claim",
@@ -989,13 +998,14 @@
       "anchored_artifacts": [
         "A-1337.1"
       ],
-      "related_nodes": [
-        "N-335",
-        "N-87"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:51–00:21:20",
-      "investigative_direction": "Verify the original Wexler post, account status (active/deleted), and any subsequent responses."
+      "investigative_direction": "Verify the original Wexler post, account status (active/deleted), and any subsequent responses.",
+      "mentions_person_refs": [
+        "N-87",
+        "N-335"
+      ]
     },
     {
       "@type": "Claim",
@@ -1006,12 +1016,13 @@
       "anchored_artifacts": [
         "A-1337.2"
       ],
-      "related_nodes": [
-        "N-335"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:37–00:24:10",
-      "investigative_direction": "Identify the original poster accounts and verify the original posts."
+      "investigative_direction": "Identify the original poster accounts and verify the original posts.",
+      "mentions_person_refs": [
+        "N-335"
+      ]
     },
     {
       "@type": "Claim",
@@ -1022,13 +1033,14 @@
       "anchored_artifacts": [
         "A-1338.1"
       ],
-      "related_nodes": [
-        "N-335",
-        "N-344"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:28–00:25:20",
-      "investigative_direction": "Locate the full Shawn Ryan Show episode for complete context and date verification."
+      "investigative_direction": "Locate the full Shawn Ryan Show episode for complete context and date verification.",
+      "mentions_person_refs": [
+        "N-335",
+        "N-344"
+      ]
     },
     {
       "@type": "Claim",
@@ -1040,15 +1052,17 @@
         "A-1339.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-224",
-        "N-45",
-        "N-1000",
-        "N-1"
+        "N-1000"
       ],
       "tags": [],
       "claim_timestamp": "00:36:07–00:39:39",
-      "investigative_direction": "Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements."
+      "investigative_direction": "Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-45",
+        "N-224",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1061,15 +1075,17 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-224",
-        "N-45",
         "N-1000",
         "N-1296"
       ],
       "tags": [],
       "claim_timestamp": "00:39:39–00:43:20",
-      "investigative_direction": "Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline."
+      "investigative_direction": "Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.",
+      "mentions_person_refs": [
+        "N-45",
+        "N-224",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1080,12 +1096,13 @@
       "anchored_artifacts": [
         "A-1340.1"
       ],
-      "related_nodes": [
-        "N-91"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:44–00:48:10",
-      "investigative_direction": "Verify the original outlet, publication date, and Pentagon confirmation status."
+      "investigative_direction": "Verify the original outlet, publication date, and Pentagon confirmation status.",
+      "mentions_person_refs": [
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1096,13 +1113,14 @@
       "anchored_artifacts": [
         "A-1341.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-340"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:03–00:50:59",
-      "investigative_direction": "Verify the original Josh Hammer segment and identify the outlet."
+      "investigative_direction": "Verify the original Josh Hammer segment and identify the outlet.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-340"
+      ]
     },
     {
       "@type": "Claim",
@@ -1113,13 +1131,14 @@
       "anchored_artifacts": [
         "A-1341.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-340"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:00–00:52:10",
-      "investigative_direction": "N/A — host-stance claim linked to source artifact."
+      "investigative_direction": "N/A — host-stance claim linked to source artifact.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-340"
+      ]
     },
     {
       "@type": "Claim",
@@ -1130,13 +1149,14 @@
       "anchored_artifacts": [
         "A-1342.1"
       ],
-      "related_nodes": [
-        "N-340",
-        "N-98"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:20–00:15:05",
-      "investigative_direction": "Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition."
+      "investigative_direction": "Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.",
+      "mentions_person_refs": [
+        "N-98",
+        "N-340"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,14 +1168,16 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-272",
         "N-1000",
-        "N-1",
         "N-1297"
       ],
       "tags": [],
       "claim_timestamp": "00:45:19–00:46:08",
-      "investigative_direction": "Independently verify YouTube scheduling metadata for the relevant timeframe."
+      "investigative_direction": "Independently verify YouTube scheduling metadata for the relevant timeframe.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1168,14 +1190,16 @@
         "A-1344.2"
       ],
       "related_nodes": [
-        "N-1",
-        "N-272",
         "N-1295",
         "N-1296"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery."
+      "investigative_direction": "Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-272"
+      ]
     }
   ],
   "memes": []

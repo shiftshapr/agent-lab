@@ -719,14 +719,15 @@
       "anchored_artifacts": [
         "A-1379.1"
       ],
-      "related_nodes": [
-        "N-133",
-        "N-75",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "04:04:34",
-      "investigative_direction": "Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context."
+      "investigative_direction": "Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-75",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -737,13 +738,14 @@
       "anchored_artifacts": [
         "A-1379.1"
       ],
-      "related_nodes": [
-        "N-75",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "05:38:00",
-      "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up."
+      "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -754,12 +756,13 @@
       "anchored_artifacts": [
         "A-1381.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "09:38:43",
-      "investigative_direction": "Obtain an unedited recording of Tucker's full statement and any contemporaneous corroborating material."
+      "investigative_direction": "Obtain an unedited recording of Tucker's full statement and any contemporaneous corroborating material.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -770,13 +773,14 @@
       "anchored_artifacts": [
         "A-1382.1"
       ],
-      "related_nodes": [
-        "N-75",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "12:00:29",
-      "investigative_direction": "Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location)."
+      "investigative_direction": "Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -787,13 +791,14 @@
       "anchored_artifacts": [
         "A-1380.1"
       ],
-      "related_nodes": [
-        "N-61",
-        "N-133"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "06:30:25",
-      "investigative_direction": "Obtain the full Dave Rubin segment to verify precise wording and any qualifications."
+      "investigative_direction": "Obtain the full Dave Rubin segment to verify precise wording and any qualifications.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -806,13 +811,15 @@
         "A-1384.1"
       ],
       "related_nodes": [
-        "N-16",
-        "N-382",
         "N-1314"
       ],
       "tags": [],
       "claim_timestamp": "32:57:11",
-      "investigative_direction": "Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event."
+      "investigative_direction": "Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -823,13 +830,14 @@
       "anchored_artifacts": [
         "A-1383.1"
       ],
-      "related_nodes": [
-        "N-382",
-        "N-309"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "33:00:00",
-      "investigative_direction": "Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship."
+      "investigative_direction": "Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.",
+      "mentions_person_refs": [
+        "N-309",
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -840,14 +848,15 @@
       "anchored_artifacts": [
         "A-1383.2"
       ],
-      "related_nodes": [
-        "N-382",
-        "N-16",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "34:09:46",
-      "investigative_direction": "Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp."
+      "investigative_direction": "Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16",
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -891,14 +900,16 @@
         "A-1385.1"
       ],
       "related_nodes": [
-        "N-314",
-        "N-385",
-        "N-102",
         "N-1315"
       ],
       "tags": [],
       "claim_timestamp": "37:38:25",
-      "investigative_direction": "Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought."
+      "investigative_direction": "Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-314",
+        "N-385"
+      ]
     },
     {
       "@type": "Claim",
@@ -909,12 +920,13 @@
       "anchored_artifacts": [
         "A-1385.2"
       ],
-      "related_nodes": [
-        "N-386"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "37:38:25",
-      "investigative_direction": "Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic."
+      "investigative_direction": "Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
+      "mentions_person_refs": [
+        "N-386"
+      ]
     },
     {
       "@type": "Claim",
@@ -925,14 +937,15 @@
       "anchored_artifacts": [
         "A-1385.3"
       ],
-      "related_nodes": [
-        "N-385",
-        "N-314",
-        "N-102"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "37:38:25",
-      "investigative_direction": "Obtain the original Schaefer post and timestamp via archived snapshots."
+      "investigative_direction": "Obtain the original Schaefer post and timestamp via archived snapshots.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-314",
+        "N-385"
+      ]
     },
     {
       "@type": "Claim",
@@ -943,13 +956,14 @@
       "anchored_artifacts": [
         "A-1386.1"
       ],
-      "related_nodes": [
-        "N-102",
-        "N-314"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "37:38:25",
-      "investigative_direction": "Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship."
+      "investigative_direction": "Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-314"
+      ]
     },
     {
       "@type": "Claim",
@@ -960,12 +974,13 @@
       "anchored_artifacts": [
         "A-1389.1"
       ],
-      "related_nodes": [
-        "N-56"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "49:13:25",
-      "investigative_direction": "Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits."
+      "investigative_direction": "Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits.",
+      "mentions_person_refs": [
+        "N-56"
+      ]
     }
   ],
   "memes": []

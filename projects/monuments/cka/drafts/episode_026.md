@@ -493,8 +493,8 @@ Claim Timestamp: 00:11:41–00:12:31
 Claim: In the NYC mayoral debate, Zohran Mamdani stated he would remain in New York City rather than take a first foreign trip as mayor.
 
 Anchored Artifacts: A-1334.1
+Mentions: N-340
 
-Related Nodes: N-340
 
 Investigative Direction: Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges.
 
@@ -521,8 +521,8 @@ Claim Timestamp: 00:18:25–00:18:57
 Claim: Brett Cooper stated on-record that Randy Fine cares more about Israel than free-speech principles, cited his anti-Netanyahu-handshake behavior and his bill introductions, and advised him to move to Israel.
 
 Anchored Artifacts: A-1336.1
+Mentions: N-335, N-339
 
-Related Nodes: N-335, N-339
 
 Investigative Direction: Locate the original Brett Cooper video for full context and identify any subsequent Fine response.
 
@@ -535,8 +535,8 @@ Claim Timestamp: 00:18:57–00:19:30
 Claim: The host explicitly endorses Brett Cooper's characterization of Randy Fine, calling her commentary "pretty sound advice."
 
 Anchored Artifacts: A-1336.1
+Mentions: N-335, N-339
 
-Related Nodes: N-335, N-339
 
 Investigative Direction: N/A — host-stance claim linked to source artifact.
 
@@ -549,8 +549,8 @@ Claim Timestamp: 00:19:39–00:20:14
 Claim: Brett Cooper publicly criticized Ted Cruz for hypocrisy in his treatment of "Nazi" rhetoric, citing specific Cruz tweets.
 
 Anchored Artifacts: A-1336.2
+Mentions: N-150, N-335
 
-Related Nodes: N-335, N-150
 
 Investigative Direction: Verify the cited Ted Cruz tweets in their original form and timestamp.
 
@@ -563,8 +563,8 @@ Claim Timestamp: 00:20:14–00:20:30
 Claim: The host endorses Brett Cooper's criticism of Ted Cruz's tweet behavior.
 
 Anchored Artifacts: A-1336.2
+Mentions: N-150, N-335
 
-Related Nodes: N-335, N-150
 
 Investigative Direction: N/A — host-stance claim linked to source artifact.
 
@@ -577,8 +577,8 @@ Claim Timestamp: 00:20:51–00:21:20
 Claim: An X post attributed to Aaron Wexler referred to Brett Cooper as "white Candace" and questioned the use of the term "Nazi."
 
 Anchored Artifacts: A-1337.1
+Mentions: N-87, N-335
 
-Related Nodes: N-335, N-87
 
 Investigative Direction: Verify the original Wexler post, account status (active/deleted), and any subsequent responses.
 
@@ -591,8 +591,8 @@ Claim Timestamp: 00:23:37–00:24:10
 Claim: Multiple X posts alleged Brett Cooper and her mother engage in witchcraft, citing a prior interview clip as evidence.
 
 Anchored Artifacts: A-1337.2
+Mentions: N-335
 
-Related Nodes: N-335
 
 Investigative Direction: Identify the original poster accounts and verify the original posts.
 
@@ -605,8 +605,8 @@ Claim Timestamp: 00:24:28–00:25:20
 Claim: Brett Cooper appeared on the Shawn Ryan Show and discussed her mother's visits to mediums following the death of her twin brother.
 
 Anchored Artifacts: A-1338.1
+Mentions: N-335, N-344
 
-Related Nodes: N-335, N-344
 
 Investigative Direction: Locate the full Shawn Ryan Show episode for complete context and date verification.
 
@@ -619,8 +619,9 @@ Claim Timestamp: 00:36:07–00:39:39
 Claim: Blake Nef stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.
 
 Anchored Artifacts: A-1339.1
+Mentions: N-1, N-45, N-224, N-272
 
-Related Nodes: N-272, N-224, N-45, N-1000, N-1
+Related Nodes: N-1000
 
 Investigative Direction: Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.
 
@@ -633,8 +634,9 @@ Claim Timestamp: 00:39:39–00:43:20
 Claim: The host asserts that Blake Nef's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.
 
 Anchored Artifacts: A-1339.1, A-1344.1
+Mentions: N-45, N-224, N-272
 
-Related Nodes: N-272, N-224, N-45, N-1000, N-1296
+Related Nodes: N-1000, N-1296
 
 Investigative Direction: Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.
 
@@ -647,8 +649,8 @@ Claim Timestamp: 00:47:44–00:48:10
 Claim: A news headline reports that Laura Loomer, described as a Trump ally, has been issued a new Pentagon press pass.
 
 Anchored Artifacts: A-1340.1
+Mentions: N-91
 
-Related Nodes: N-91
 
 Investigative Direction: Verify the original outlet, publication date, and Pentagon confirmation status.
 
@@ -661,8 +663,8 @@ Claim Timestamp: 00:50:03–00:50:59
 Claim: Josh Hammer stated on-record that the election of a Muslim mayor in New York City less than a quarter century after September 11, 2001 is significant, framing Mamdani's candidacy in those terms.
 
 Anchored Artifacts: A-1341.1
+Mentions: N-42, N-340
 
-Related Nodes: N-42, N-340
 
 Investigative Direction: Verify the original Josh Hammer segment and identify the outlet.
 
@@ -675,8 +677,8 @@ Claim Timestamp: 00:51:00–00:52:10
 Claim: The host publicly rejects Josh Hammer's framing, identifies herself as more fearful of Zionists than Muslims, and refuses the implied call to armed conflict.
 
 Anchored Artifacts: A-1341.1
+Mentions: N-42, N-340
 
-Related Nodes: N-42, N-340
 
 Investigative Direction: N/A — host-stance claim linked to source artifact.
 
@@ -689,8 +691,8 @@ Claim Timestamp: 00:14:20–00:15:05
 Claim: A CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.
 
 Anchored Artifacts: A-1342.1
+Mentions: N-98, N-340
 
-Related Nodes: N-340, N-98
 
 Investigative Direction: Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.
 
@@ -703,8 +705,9 @@ Claim Timestamp: 00:45:19–00:46:08
 Claim: Upon resumption of scheduled uploads to his YouTube page following the memorial event, the first scheduled post featured Mikey McCoy (and his wife), with Erika Kirk's speech scheduled second.
 
 Anchored Artifacts: A-1343.1
+Mentions: N-272
 
-Related Nodes: N-272, N-1000, N-1297
+Related Nodes: N-1000, N-1297
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 
@@ -717,8 +720,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host alleges that Charlie Kirk was positioned on top of an equipment box/suitcase rather than flat on the ground after being lowered, that no first aid was visibly administered, and that Mikey McCoy's phone posture in footage is inconsistent with the official cover-his-ears narrative.
 
 Anchored Artifacts: A-1344.1, A-1344.2
+Mentions: N-1, N-272
 
-Related Nodes: N-1, N-272, N-1295, N-1296
+Related Nodes: N-1295, N-1296
 
 Investigative Direction: Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.
 

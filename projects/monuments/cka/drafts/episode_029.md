@@ -449,8 +449,9 @@ Claim Timestamp: 00:12:07
 Claim: A Facebook post by Lance Wallnau dated November 6, 2020 was read aloud in the episode and stated: "We're going to expose the fraud and stop the steal. The Lord our God is with us, and we were built for this battle. Be strong and courageous."
 
 Anchored Artifacts: A-1364.1
+Mentions: N-367
 
-Related Nodes: N-367, N-1312
+Related Nodes: N-1312
 
 Investigative Direction: Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.
 
@@ -461,8 +462,9 @@ Claim Timestamp: 00:13:31–00:14:22
 Claim: In an audio clip played on the episode, Lance Wallnau defined the seven mountain mandate as covering religion, education, family, government, media, art/entertainment, and business/economics, and described pursuing it either "covert" or "overt."
 
 Anchored Artifacts: A-1365.1
+Mentions: N-367
 
-Related Nodes: N-367, N-1312
+Related Nodes: N-1312
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
@@ -473,8 +475,8 @@ Claim Timestamp: 00:18:06–00:18:30
 Claim: In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an "aberrant" hermeneutic and being "more occult-like than Christian," and characterized NAR as "darker than a cult."
 
 Anchored Artifacts: A-1366.1
+Mentions: N-16
 
-Related Nodes: N-16
 
 Investigative Direction: Retrieve the full source audio/podcast to verify exact wording and full context.
 
@@ -485,8 +487,9 @@ Claim Timestamp: 00:08:09–00:09:40
 Claim: Reporter Steve Baker, interviewed on Glenn Beck's program and played in the episode, stated that a 31-year-old United States Capitol Police officer named Shawnie Ray Kirkup was identified as the person who dropped off the January 6 pipe bombs, and that this was a five-year forensic investigation.
 
 Anchored Artifacts: A-1367.1
+Mentions: N-363, N-364, N-365
 
-Related Nodes: N-363, N-364, N-365, N-1311
+Related Nodes: N-1311
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
@@ -497,8 +500,9 @@ Claim Timestamp: 00:10:32
 Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that "Shawnie Kirkhoff" worked in Capitol Police Campus Security and lived in Alexandria, Virginia.
 
 Anchored Artifacts: A-1368.1
+Mentions: N-365, N-366
 
-Related Nodes: N-365, N-366, N-1311
+Related Nodes: N-1311
 
 Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kirkhoff" and "Kirkup" refer to the same individual.
 
@@ -509,8 +513,8 @@ Claim Timestamp: 00:30:25–00:31:24
 Claim: Frank McCormick posted on X that AI analysis of bubble design, profile placement, header layout, font, spacing, and color balance of the Charlie Kirk text messages displayed by Candace Owens concluded the messages were "digitally fabricated."
 
 Anchored Artifacts: A-1369.1
+Mentions: N-371
 
-Related Nodes: N-371
 
 Investigative Direction: Retrieve the original X post and the underlying AI analysis to assess methodology and reliability.
 
@@ -521,8 +525,8 @@ Claim Timestamp: 00:31:24–00:32:35
 Claim: Text messages displayed on air, presented by the host as authentic messages from Charlie Kirk to Candace Owens, included the passage: "Iron sharpens iron. It's not a dominance partnership. Each hand washes the other."
 
 Anchored Artifacts: A-1370.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification.
 
@@ -533,8 +537,8 @@ Claim Timestamp: 00:28:07
 Claim: Seth Dillon (Babylon Bee) tweeted the Matthew 16:26 verse ("what do you benefit if you gain the whole world but lose your own soul") in response to Candace Owens' podcast hitting number one globally.
 
 Anchored Artifacts: A-1371.1
+Mentions: N-67
 
-Related Nodes: N-67
 
 Investigative Direction: Retrieve and verify the original tweet on Seth Dillon's X account.
 
@@ -545,8 +549,8 @@ Claim Timestamp: 00:29:06
 Claim: Joel Berry (Babylon Bee) tweeted that in the last year Candace and Tucker had given "our side nothing but demoralization, division, confusion, and conflict," calling their impact "devastating" and "pathetic."
 
 Anchored Artifacts: A-1372.1
+Mentions: N-370
 
-Related Nodes: N-370
 
 Investigative Direction: Retrieve and verify the original tweet on Joel Berry's X account.
 
@@ -557,8 +561,8 @@ Claim Timestamp: 00:36:53–00:37:53
 Claim: Grok (X AI) issued a public statement read aloud in the episode claiming that "Candace Owens accused Turning Point USA of Charlie Kirk assassination role" and that she alleged TPUSA orchestrated the October 15, 2025 assassination via former volunteer Marcus Hale.
 
 Anchored Artifacts: A-1373.1
+Mentions: N-373
 
-Related Nodes: N-373
 
 Investigative Direction: Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.
 
@@ -569,8 +573,8 @@ Claim Timestamp: 00:33:55–00:34:48
 Claim: In an audio clip played on the episode, Allie Beth Stuckey told viewers they were "outsourcing your critical thinking" by following the Candace Owens investigation and warned that implicating a real person in a murder required being "100% sure" with "hard evidence."
 
 Anchored Artifacts: A-1374.1
+Mentions: N-349
 
-Related Nodes: N-349
 
 Investigative Direction: Retrieve the full source video to verify exact wording and full context.
 
@@ -581,8 +585,8 @@ Claim Timestamp: 00:39:10–00:41:45
 Claim: In an audio clip played on the episode, Mark Levin responded to Tucker Carlson's debate offer with the text-message reply "My family and I want nothing to do with you," and called Carlson a "Nazi promoter" and "modern-day David Duke," stating he would "rather debate a skunk than" Carlson.
 
 Anchored Artifacts: A-1375.1
+Mentions: N-50, N-374
 
-Related Nodes: N-374, N-50
 
 Investigative Direction: Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.
 
@@ -593,8 +597,8 @@ Claim Timestamp: 00:44:50–00:46:29
 Claim: Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said Candace Owens "is exhibiting several cult tactics" and "a lot of cluster B personality disorder behavior."
 
 Anchored Artifacts: A-1376.1
+Mentions: N-376
 
-Related Nodes: N-376
 
 Investigative Direction: Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning.
 

@@ -521,8 +521,8 @@ Claim Timestamp: 00:11:07
 Claim: According to Brett Cooper (read on air), Lou Taylor began her career working alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.
 
 Anchored Artifacts: A-1399.2
+Mentions: N-392, N-394
 
-Related Nodes: N-392, N-394
 
 Investigative Direction: Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates.
 
@@ -535,8 +535,8 @@ Claim Timestamp: 00:11:07
 Claim: Brett Cooper states Lou Taylor had no financial background and was not an accountant, despite serving as a business manager.
 
 Anchored Artifacts: A-1399.2
+Mentions: N-392
 
-Related Nodes: N-392
 
 Investigative Direction: Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials.
 
@@ -549,8 +549,9 @@ Claim Timestamp: 00:11:07
 Claim: Per Brett Cooper citing a 2010 financial document, Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, "tens of thousands of dollars" in one year.
 
 Anchored Artifacts: A-1399.2, A-1403.1
+Mentions: N-392, N-395
 
-Related Nodes: N-395, N-392, N-1319
+Related Nodes: N-1319
 
 Investigative Direction: Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.
 
@@ -563,8 +564,8 @@ Claim Timestamp: 00:12:02
 Claim: LA Times headline (read on air) reports Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.
 
 Anchored Artifacts: A-1400.1
+Mentions: N-392, N-395
 
-Related Nodes: N-392, N-395
 
 Investigative Direction: Locate and review the LA Times article and underlying email exhibits cited therein.
 
@@ -577,8 +578,8 @@ Claim Timestamp: 00:12:02
 Claim: Per Daily Mail headline read on air, Britney Spears has accused her father Jamie and Lou Taylor of having an affair and of using estate funds for joint travel (Holy Land baptism trip).
 
 Anchored Artifacts: A-1401.1
+Mentions: N-392, N-395
 
-Related Nodes: N-392, N-395
 
 Investigative Direction: Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.
 
@@ -591,8 +592,8 @@ Claim Timestamp: 00:12:38
 Claim: Per host reference, The New Yorker reported that Lou Taylor also attempted to place Courtney Love and Lindsay Lohan into conservatorships.
 
 Anchored Artifacts: A-1402.1
+Mentions: N-392, N-396, N-397
 
-Related Nodes: N-392, N-396, N-397
 
 Investigative Direction: Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts.
 
@@ -605,8 +606,8 @@ Claim Timestamp: 00:13:53
 Claim: Michael Lohan (audio clip) states Lou Taylor and associates leaked to the press information about Lindsay Lohan's rehab, allegedly to redirect her to UCLA.
 
 Anchored Artifacts: A-1404.1
+Mentions: N-392, N-397, N-398
 
-Related Nodes: N-392, N-398, N-397
 
 Investigative Direction: Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation.
 
@@ -619,8 +620,9 @@ Claim Timestamp: 00:14:40
 Claim: Per partially redacted viewer email read on air, the sender alleges the Calvary Chapel associated with Lou Taylor is a front for the Taylors and "Aruse" (uncertain transcription), and that Lou Taylor has alleged ties to CIA, Mossad, Black Cube Security, and a property in Thousand Oaks tied to Tony Blair. Host flags all of this as unverified.
 
 Anchored Artifacts: A-1405.1
+Mentions: N-392, N-394
 
-Related Nodes: N-392, N-394, N-1319
+Related Nodes: N-1319
 
 Investigative Direction: Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.
 
@@ -633,8 +635,9 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages to host (Jan 2025), she was given LSD as a toddler at the Haight-Ashbury Clinic during the era of CIA mass experimentation on hippies.
 
 Anchored Artifacts: A-1406.1
+Mentions: N-396
 
-Related Nodes: N-396, N-1320
+Related Nodes: N-1320
 
 Investigative Direction: Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.
 
@@ -647,8 +650,8 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states she did not kill Kurt Cobain and that his death was a "psychological operation" intended to redirect public attention away from CIA activity.
 
 Anchored Artifacts: A-1406.1
+Mentions: N-396
 
-Related Nodes: N-396
 
 Investigative Direction: Standalone claim only; no corroborating artifact in this episode.
 
@@ -661,8 +664,9 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she alleges a "Mormon mafia" operates above Hollywood and above "many Zionist Jews."
 
 Anchored Artifacts: A-1406.1
+Mentions: N-396
 
-Related Nodes: N-396, N-1320, N-1319
+Related Nodes: N-1319, N-1320
 
 Investigative Direction: Single-source; corroboration required before inscription as fact.
 
@@ -675,8 +679,9 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a "church home" associated with Hillsong / Justin Bieber.
 
 Anchored Artifacts: A-1406.1
+Mentions: N-392
 
-Related Nodes: N-392, N-1319
+Related Nodes: N-1319
 
 Investigative Direction: Review corporate filings of the named "church home" entity; cross-reference any disclosed business relationships.
 
@@ -689,8 +694,8 @@ Claim Timestamp: 00:25:41
 Claim: Per Bob Bryar's public Twitter/X post (October 2024 per host), Lou Taylor was his business manager for 18 years until separation in September (year not stated in transcript).
 
 Anchored Artifacts: A-1407.1
+Mentions: N-392, N-401
 
-Related Nodes: N-401, N-392
 
 Investigative Direction: Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star.
 
@@ -703,8 +708,8 @@ Claim Timestamp: 00:25:41
 Claim: Per People magazine article (read on air), My Chemical Romance drummer Bob Bryar's cause of death was ruled undetermined, with nitrous oxide found near his body.
 
 Anchored Artifacts: A-1408.1
+Mentions: N-401
 
-Related Nodes: N-401
 
 Investigative Direction: Obtain full autopsy / coroner's report; review toxicology findings.
 
@@ -717,8 +722,9 @@ Claim Timestamp: 00:41:29
 Claim: Per host description of viewer-submitted photo and clip, an individual wearing a maroon shirt was partially concealed in shrubbery at the Kirk event; when shots were fired, the crowd ducked but he did not, and he calmly walked away.
 
 Anchored Artifacts: A-1409.1, A-1409.2, A-1411.1
+Mentions: N-1, N-382
 
-Related Nodes: N-1321, N-382, N-1
+Related Nodes: N-1321
 
 Investigative Direction: Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.
 
@@ -731,8 +737,9 @@ Claim Timestamp: 00:44:05
 Claim: Per host, "Samir" publicly posted a photo alongside the maroon shirt individual from the Kirk event and identified them both as BYU alumni.
 
 Anchored Artifacts: A-1410.1
+Mentions: N-402
 
-Related Nodes: N-402, N-1321
+Related Nodes: N-1321
 
 Investigative Direction: Identify the second individual in the Samir photo; confirm BYU attendance.
 
@@ -745,8 +752,8 @@ Claim Timestamp: 00:44:05
 Claim: Per host, "Samir" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.
 
 Anchored Artifacts: A-1410.1 (contextual reference)
+Mentions: N-402
 
-Related Nodes: N-402
 
 Investigative Direction: Locate the published Samir / Tuminez interview and review sourcing/conditions.
 
@@ -759,8 +766,8 @@ Claim Timestamp: 00:45:56
 Claim: Per video clip played on air, Butch Hibbs remained in the background during another individual's media interview at the scene after the Kirk shooting.
 
 Anchored Artifacts: A-1411.1
+Mentions: N-1, N-382
 
-Related Nodes: N-382, N-1
 
 Investigative Direction: Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews.
 
@@ -773,8 +780,8 @@ Claim Timestamp: 00:56:52
 Claim: Per host reference, Daily Mail (Victoria Churchill, APAC reporter) published a headline framing Ali Stucky as TPUSA's "heir" or equivalent.
 
 Anchored Artifacts: A-1412.1
+Mentions: N-2, N-349
 
-Related Nodes: N-349, N-2
 
 Investigative Direction: Obtain the article and verify framing language; host disputes framing on air.
 
@@ -787,8 +794,8 @@ Claim Timestamp: 00:57:40
 Claim: Per host reference, Wall Street Journal repeated the "heir apparent" framing of TPUSA succession.
 
 Anchored Artifacts: A-1413.1
+Mentions: N-2, N-349
 
-Related Nodes: N-349, N-2
 
 Investigative Direction: Locate the WSJ article and verify framing language.
 

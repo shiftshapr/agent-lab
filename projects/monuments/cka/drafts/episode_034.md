@@ -301,7 +301,8 @@ Related Nodes:
 - Claim Timestamp: 32:53
 - Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
 - Anchored Artifacts: A-1429.1
-Related Nodes: N-1333, N-98
+Mentions: N-98
+Related Nodes: N-1333
 - Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
 **C-1739** Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.
@@ -309,7 +310,8 @@ Related Nodes: N-1333, N-98
 - Claim Timestamp: 36:37
 - Claim: A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.
 - Anchored Artifacts: A-1429.2
-Related Nodes: N-1333, N-98
+Mentions: N-98
+Related Nodes: N-1333
 - Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
 **C-1740** Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as "essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity."

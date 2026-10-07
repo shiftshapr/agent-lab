@@ -491,7 +491,8 @@ Claim Timestamp: 00:00:41
 Claim: The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways inconsistent with casual 22-year-old texting, suggesting they are not authentic.
 Transcript Snippet: I played this game with my entire staff… someone used that term. The first was former military, second was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
-Related Nodes: N-69, N-84, N-1103, N-2, N-99, N-68
+Mentions: N-2, N-68, N-69, N-84, N-99
+Related Nodes: N-1103
 Confidence: medium
 Investigative Direction: Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.
 
@@ -503,7 +504,8 @@ Claim Timestamp: 00:03:33
 Claim: The text messages released in the Robinson indictment were stripped of timestamps, preventing independent chronological verification.
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3
-Related Nodes: N-69, N-1104, N-1111
+Mentions: N-69
+Related Nodes: N-1104, N-1111
 Confidence: high
 Investigative Direction: FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.
 
@@ -516,7 +518,8 @@ Claim Timestamp: 00:06:16
 Claim: The note Lance Twigs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.
 Transcript Snippet: even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.
 Anchored Artifacts: A-1104.1
-Related Nodes: N-69, N-84, N-1106
+Mentions: N-69, N-84
+Related Nodes: N-1106
 Confidence: medium
 Investigative Direction: Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.
 
@@ -528,7 +531,8 @@ Claim Timestamp: 00:09:58
 Claim: Because Robinson references 'similar clothing' to a second suspect, the relevant text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing.
 Transcript Snippet: the earliest that that message could have been sent out is after 5:30 p.m.
 Anchored Artifacts: A-1104.2, A-1105.2, A-1110.1
-Related Nodes: N-69, N-71, N-102, N-1105
+Mentions: N-69, N-71, N-102
+Related Nodes: N-1105
 Confidence: medium
 Investigative Direction: Recover device timestamps and confirm Cox press transcript.
 
@@ -540,7 +544,8 @@ Claim Timestamp: 00:11:43
 Claim: Robinson's texts depict him remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.
 Transcript Snippet: I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.
 Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, A-1106.1
-Related Nodes: N-69, N-1105
+Mentions: N-69
+Related Nodes: N-1105
 Confidence: medium
 Investigative Direction: Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.
 
@@ -552,7 +557,8 @@ Claim Timestamp: 00:15:24
 Claim: Robinson's text states he changed outfits and left the rifle (referred to as 'Prince') wrapped in a towel in a bush.
 Transcript Snippet: I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.
 Anchored Artifacts: A-1104.4
-Related Nodes: N-69, N-1107
+Mentions: N-69
+Related Nodes: N-1107
 Confidence: high
 Investigative Direction: Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.
 
@@ -565,7 +571,8 @@ Claim Timestamp: 00:33:19
 Claim: Lance Twigs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.
 Transcript Snippet: Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?
 Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
-Related Nodes: N-84, N-1109
+Mentions: N-84
+Related Nodes: N-1109
 Confidence: medium
 Investigative Direction: Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.
 
@@ -577,7 +584,8 @@ Claim Timestamp: 00:37:45
 Claim: Governor Cox's statement that Robinson wore the same maroon outfit for 33 hours is contradicted by host's source, who alleges a different outfit at pickup.
 Transcript Snippet: for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.
 Anchored Artifacts: A-1105.2, A-1106.2, A-1110.1
-Related Nodes: N-70, N-1107, N-1111
+Mentions: N-70
+Related Nodes: N-1107, N-1111
 Confidence: low
 Uncertainty: Source-based claim; no independent corroboration presented in episode.
 Investigative Direction: Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.
@@ -590,7 +598,8 @@ Claim Timestamp: 00:42:28
 Claim: The person filmed in a maroon t-shirt at 8:07 AM may be a different individual from the person shown walking up the stairs in FBI static images.
 Transcript Snippet: I think the person in the maroon that's walking is different from the person that's walking up the stairs.
 Anchored Artifacts: A-1105.4, A-1106.2, A-1110.1
-Related Nodes: N-69, N-1108, N-1111
+Mentions: N-69
+Related Nodes: N-1108, N-1111
 Confidence: low
 Uncertainty: Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented.
 Investigative Direction: Release full unedited video from both camera angles; forensic gait/posture analysis.
@@ -603,7 +612,8 @@ Claim Timestamp: 00:46:15
 Claim: Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.
 Transcript Snippet: I already don't like that mom… received a bachelor of science from Stanford University in psychology.
 Anchored Artifacts: 
-Related Nodes: N-103, N-1110
+Mentions: N-103
+Related Nodes: N-1110
 Confidence: low
 Uncertainty: Degree claim not independently sourced; presented as host assertion.
 Investigative Direction: Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.
@@ -616,7 +626,8 @@ Claim Timestamp: 00:58:39
 Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
-Related Nodes: N-1, N-65, N-45, N-50, N-75, N-104, N-67, N-86, N-1112, N-3
+Mentions: N-1, N-3, N-45, N-50, N-65, N-67, N-75, N-86, N-104
+Related Nodes: N-1112
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.
 

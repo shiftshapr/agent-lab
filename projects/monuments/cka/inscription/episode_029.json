@@ -803,12 +803,14 @@
         "A-1364.1"
       ],
       "related_nodes": [
-        "N-367",
         "N-1312"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
-      "investigative_direction": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot."
+      "investigative_direction": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.",
+      "mentions_person_refs": [
+        "N-367"
+      ]
     },
     {
       "@type": "Claim",
@@ -820,12 +822,14 @@
         "A-1365.1"
       ],
       "related_nodes": [
-        "N-367",
         "N-1312"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31–00:14:22",
-      "investigative_direction": "Retrieve the full source video to verify exact wording, context, and date."
+      "investigative_direction": "Retrieve the full source video to verify exact wording, context, and date.",
+      "mentions_person_refs": [
+        "N-367"
+      ]
     },
     {
       "@type": "Claim",
@@ -836,12 +840,13 @@
       "anchored_artifacts": [
         "A-1366.1"
       ],
-      "related_nodes": [
-        "N-16"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:06–00:18:30",
-      "investigative_direction": "Retrieve the full source audio/podcast to verify exact wording and full context."
+      "investigative_direction": "Retrieve the full source audio/podcast to verify exact wording and full context.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -853,14 +858,16 @@
         "A-1367.1"
       ],
       "related_nodes": [
-        "N-363",
-        "N-364",
-        "N-365",
         "N-1311"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09–00:09:40",
-      "investigative_direction": "Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting."
+      "investigative_direction": "Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.",
+      "mentions_person_refs": [
+        "N-363",
+        "N-364",
+        "N-365"
+      ]
     },
     {
       "@type": "Claim",
@@ -872,13 +879,15 @@
         "A-1368.1"
       ],
       "related_nodes": [
-        "N-365",
-        "N-366",
         "N-1311"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
-      "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kirkhoff\" and \"Kirkup\" refer to the same individual."
+      "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kirkhoff\" and \"Kirkup\" refer to the same individual.",
+      "mentions_person_refs": [
+        "N-365",
+        "N-366"
+      ]
     },
     {
       "@type": "Claim",
@@ -889,12 +898,13 @@
       "anchored_artifacts": [
         "A-1369.1"
       ],
-      "related_nodes": [
-        "N-371"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:25–00:31:24",
-      "investigative_direction": "Retrieve the original X post and the underlying AI analysis to assess methodology and reliability."
+      "investigative_direction": "Retrieve the original X post and the underlying AI analysis to assess methodology and reliability.",
+      "mentions_person_refs": [
+        "N-371"
+      ]
     },
     {
       "@type": "Claim",
@@ -905,12 +915,13 @@
       "anchored_artifacts": [
         "A-1370.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:24–00:32:35",
-      "investigative_direction": "Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification."
+      "investigative_direction": "Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,12 +932,13 @@
       "anchored_artifacts": [
         "A-1371.1"
       ],
-      "related_nodes": [
-        "N-67"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:07",
-      "investigative_direction": "Retrieve and verify the original tweet on Seth Dillon's X account."
+      "investigative_direction": "Retrieve and verify the original tweet on Seth Dillon's X account.",
+      "mentions_person_refs": [
+        "N-67"
+      ]
     },
     {
       "@type": "Claim",
@@ -937,12 +949,13 @@
       "anchored_artifacts": [
         "A-1372.1"
       ],
-      "related_nodes": [
-        "N-370"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:06",
-      "investigative_direction": "Retrieve and verify the original tweet on Joel Berry's X account."
+      "investigative_direction": "Retrieve and verify the original tweet on Joel Berry's X account.",
+      "mentions_person_refs": [
+        "N-370"
+      ]
     },
     {
       "@type": "Claim",
@@ -953,12 +966,13 @@
       "anchored_artifacts": [
         "A-1373.1"
       ],
-      "related_nodes": [
-        "N-373"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:53–00:37:53",
-      "investigative_direction": "Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show."
+      "investigative_direction": "Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.",
+      "mentions_person_refs": [
+        "N-373"
+      ]
     },
     {
       "@type": "Claim",
@@ -969,12 +983,13 @@
       "anchored_artifacts": [
         "A-1374.1"
       ],
-      "related_nodes": [
-        "N-349"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:55–00:34:48",
-      "investigative_direction": "Retrieve the full source video to verify exact wording and full context."
+      "investigative_direction": "Retrieve the full source video to verify exact wording and full context.",
+      "mentions_person_refs": [
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -985,13 +1000,14 @@
       "anchored_artifacts": [
         "A-1375.1"
       ],
-      "related_nodes": [
-        "N-374",
-        "N-50"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:10–00:41:45",
-      "investigative_direction": "Retrieve the full Mark Levin broadcast to verify exact wording and any additional context."
+      "investigative_direction": "Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-374"
+      ]
     },
     {
       "@type": "Claim",
@@ -1002,12 +1018,13 @@
       "anchored_artifacts": [
         "A-1376.1"
       ],
-      "related_nodes": [
-        "N-376"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:50–00:46:29",
-      "investigative_direction": "Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning."
+      "investigative_direction": "Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning.",
+      "mentions_person_refs": [
+        "N-376"
+      ]
     },
     {
       "@type": "Claim",

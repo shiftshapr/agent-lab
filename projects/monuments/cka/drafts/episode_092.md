@@ -465,8 +465,8 @@ Claim Timestamp: 00:02:28
 Claim: Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event on 2026-04-14.
 
 Anchored Artifacts: A-1965.1, A-1966.1
+Mentions: N-2, N-4, N-5
 
-Related Nodes: N-2, N-4, N-5
 
 Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena booking records, and contemporaneous press releases.
 
@@ -479,8 +479,9 @@ Claim Timestamp: 00:02:28
 Claim: TPUSA UGA event staff (Grant Tyler, Caroline) were not informed of Erika Kirk's absence until approximately 50 minutes before doors opened, as evidenced by their posted promotion video.
 
 Anchored Artifacts: A-1965.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1682
+Related Nodes: N-1682
 
 Investigative Direction: Cross-reference social-media post timestamps against TPUSA internal communication records; obtain statements from named staff.
 
@@ -493,8 +494,10 @@ Claim Timestamp: 00:03:32
 Claim: Andrew Kolvet announced on stage at the UGA event that Erika Kirk was absent due to "very serious threats" against her.
 
 Anchored Artifacts: A-1966.1
+Mentions: N-2, N-5
+Contradicts: C-2744
 
-Related Nodes: N-2, N-5, N-1682, N-1687
+Related Nodes: N-1682, N-1687
 
 Investigative Direction: Obtain audio/video of the announcement; verify whether the announcement was scripted or extemporaneous.
 
@@ -507,8 +510,9 @@ Claim Timestamp: 00:07:17
 Claim: Andrew Kolvet stated on Fox News that TPUSA's security team told the organization "we cannot guarantee your safety" regarding Erika Kirk.
 
 Anchored Artifacts: A-1967.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1682, N-1690
+Related Nodes: N-1682, N-1690
 
 Investigative Direction: Obtain the full Fox News segment; identify which TPUSA security contractor is referenced.
 
@@ -521,8 +525,9 @@ Claim Timestamp: 00:31:13
 Claim: Andrew Kolvet stated on Charlie Kirk's show that the Monday high school event was also cancelled due to "increased online chatter" being monitored by TPUSA security.
 
 Anchored Artifacts: A-1968.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1682, N-1687
+Related Nodes: N-1682, N-1687
 
 Investigative Direction: Compare against the originally issued parent-alert notice (A-1972.1); determine whether the explanation was issued contemporaneously or after public criticism.
 
@@ -535,8 +540,9 @@ Claim Timestamp: 00:08:41
 Claim: The Daily Wire reported, citing a TPUSA official, that Erika Kirk's travel itinerary was being doxed, that multiple direct threats were made, and that the chief security concern was the travel portion.
 
 Anchored Artifacts: A-1969.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1682
+Related Nodes: N-1682
 
 Investigative Direction: Identify the named TPUSA official cited by Daily Wire; verify any law-enforcement reports referenced.
 
@@ -549,8 +555,10 @@ Claim Timestamp: 00:16:03
 Claim: Erika Kirk posted on X that she cancelled because she "takes [her] security team's recommendations extremely seriously."
 
 Anchored Artifacts: A-1970.1
+Mentions: N-2
+Contradicts: C-2744
 
-Related Nodes: N-2, N-1682, N-1686
+Related Nodes: N-1682, N-1686
 
 Investigative Direction: Obtain timestamp of post relative to the on-stage announcement; verify whether the post was authored by Kirk personally.
 
@@ -563,8 +571,9 @@ Claim Timestamp: 00:05:40
 Claim: Erika Kirk stated on Jesse Watters that she does not feel threatened and that any attempt would simply send her "to heaven sooner."
 
 Anchored Artifacts: A-1971.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1686
+Related Nodes: N-1686
 
 Investigative Direction: Confirm full interview date and air date; verify whether the clip presented is representative of the full exchange.
 
@@ -577,8 +586,9 @@ Claim Timestamp: 00:19:16
 Claim: TPUSA cancelled a Monday 2026-04-13 high school event scheduled for Tuesday 2026-04-14, citing "scheduling complications" rather than security threats.
 
 Anchored Artifacts: A-1972.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1687
+Related Nodes: N-1687
 
 Investigative Direction: Obtain the original email/text from TPUSA to the school; interview named administrators.
 
@@ -591,8 +601,9 @@ Claim Timestamp: 00:21:10
 Claim: Parents and at least one teacher are organizing a walkout/boycott of Erika Kirk's appearance at Pinnacle High School in Phoenix, citing safety concerns.
 
 Anchored Artifacts: A-1973.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1685
+Related Nodes: N-1685
 
 Investigative Direction: Confirm event status with Pinnacle High School administration; obtain school district statement.
 
@@ -605,8 +616,9 @@ Claim Timestamp: 00:19:16
 Claim: The parent-alert email canceling the Georgia high school event referenced a scheduled date of "September 14th," inconsistent with the actual event date of April 14, 2026.
 
 Anchored Artifacts: A-1972.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1687
+Related Nodes: N-1687
 
 Investigative Direction: Obtain original email to determine whether "September" is a transcription/OCR artifact or a genuine content error.
 
@@ -619,8 +631,9 @@ Claim Timestamp: 00:14:13
 Claim: MS Now reporter Jake Trailer reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance.
 
 Anchored Artifacts: A-1974.1
+Mentions: N-2, N-4
 
-Related Nodes: N-2, N-4, N-1683
+Related Nodes: N-1683
 
 Investigative Direction: Cross-reference with venue ticket-issuing records and TPUSA promotion metrics.
 
@@ -633,8 +646,9 @@ Claim Timestamp: 00:39:35
 Claim: Victor Marx posted a short video response on Instagram and X in reply to Candace Owens' prior episode, captioned "Well, all righty then. Love you, Candace."
 
 Anchored Artifacts: A-1975.1
+Mentions: N-6
 
-Related Nodes: N-1015, N-6, N-1210, N-1688
+Related Nodes: N-1015, N-1210, N-1688
 
 Investigative Direction: Verify post URL, timestamp, and whether the post has since been deleted or edited.
 
@@ -647,8 +661,9 @@ Claim Timestamp: 00:40:47
 Claim: Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed.
 
 Anchored Artifacts: A-1976.1
+Mentions: N-6
 
-Related Nodes: N-1015, N-6, N-1210, N-1688
+Related Nodes: N-1015, N-1210, N-1688
 
 Investigative Direction: Capture timestamped screenshots of the comment thread before any deletion.
 
@@ -661,8 +676,9 @@ Claim Timestamp: 00:41:36
 Claim: Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed.
 
 Anchored Artifacts: A-1977.1
+Mentions: N-6
 
-Related Nodes: N-1015, N-6, N-1210, N-1688
+Related Nodes: N-1015, N-1210, N-1688
 
 Investigative Direction: Verify DM timestamp; await Marx's response or non-response.
 
@@ -717,8 +733,9 @@ Claim Timestamp: 00:06:30
 Claim: Erika Kirk's stated public position shifted from declaring fearlessness in the earlier Jesse Watters interview to citing her security team's recommendations when canceling the UGA event.
 
 Anchored Artifacts: A-1971.1, A-1970.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1686
+Related Nodes: N-1686
 
 Investigative Direction: Compile chronology of Kirk's public statements on personal safety; identify whether a specific triggering event is documented.
 
@@ -731,8 +748,9 @@ Claim Timestamp: 00:42:41
 Claim: Per unnamed current and former TPUSA employees, Marcus Wada openly discusses past involvement in arms trafficking in Poland and is described as close to Andrew Kolvet.
 
 Anchored Artifacts: A-1980.1
+Mentions: N-5
 
-Related Nodes: N-5, N-1684
+Related Nodes: N-1684
 
 Investigative Direction: Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment.
 
@@ -745,8 +763,9 @@ Claim Timestamp: 00:31:13
 Claim: TPUSA's public explanation of the UGA no-show evolved across at least five artifacts (stage announcement, Fox News interview, Charlie Kirk show interview, Daily Wire tweet, Erika Kirk X post) and contained internal inconsistencies regarding whether the high school event shared the same rationale.
 
 Anchored Artifacts: A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, A-1972.1
+Mentions: N-2, N-5
 
-Related Nodes: N-2, N-5, N-1682, N-1687
+Related Nodes: N-1682, N-1687
 
 Investigative Direction: Construct a chronological explanation map; identify the originator of each stated rationale and any superseding statements.
 
@@ -759,8 +778,8 @@ Claim Timestamp: 00:24:32
 Claim: Vice President JD Vance stated on stage at the UGA event that criticizing Erika Kirk over her grieving was "the most preposterous thing I've seen in a very long time" in politics.
 
 Anchored Artifacts: A-1966.2
+Mentions: N-2, N-4
 
-Related Nodes: N-2, N-4
 
 Investigative Direction: Obtain full transcript of Vance's remarks; verify whether the statement was prepared or responsive to Andrew Kolvet's prompt.
 

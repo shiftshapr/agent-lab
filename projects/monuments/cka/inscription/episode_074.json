@@ -1008,14 +1008,15 @@
         "A-1780.1",
         "A-1781.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:07",
+      "investigative_direction": "Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.",
+      "mentions_person_refs": [
         "N-941",
         "N-942",
         "N-943"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:02:07",
-      "investigative_direction": "Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records."
+      ]
     },
     {
       "@type": "Claim",
@@ -1026,13 +1027,14 @@
       "anchored_artifacts": [
         "A-1780.1"
       ],
-      "related_nodes": [
-        "N-941",
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:40",
-      "investigative_direction": "Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording."
+      "investigative_direction": "Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.",
+      "mentions_person_refs": [
+        "N-941",
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1046,12 +1048,13 @@
         "A-1782.2",
         "A-1782.3"
       ],
-      "related_nodes": [
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:48",
-      "investigative_direction": "Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account."
+      "investigative_direction": "Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.",
+      "mentions_person_refs": [
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1063,12 +1066,13 @@
         "A-1781.4",
         "A-1782.4"
       ],
-      "related_nodes": [
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:48",
-      "investigative_direction": "Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place."
+      "investigative_direction": "Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place.",
+      "mentions_person_refs": [
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1081,13 +1085,15 @@
         "A-1782.4"
       ],
       "related_nodes": [
-        "N-942",
-        "N-948",
         "N-1584"
       ],
       "tags": [],
       "claim_timestamp": "00:15:15",
-      "investigative_direction": "Identify the photographer (name begins with \"R\") and obtain session records, including the date and consent documentation."
+      "investigative_direction": "Identify the photographer (name begins with \"R\") and obtain session records, including the date and consent documentation.",
+      "mentions_person_refs": [
+        "N-942",
+        "N-948"
+      ]
     },
     {
       "@type": "Claim",
@@ -1098,12 +1104,13 @@
       "anchored_artifacts": [
         "A-1781.6"
       ],
-      "related_nodes": [
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:37",
-      "investigative_direction": "Locate the original image file and verify its posting date and source account."
+      "investigative_direction": "Locate the original image file and verify its posting date and source account.",
+      "mentions_person_refs": [
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1115,12 +1122,13 @@
         "A-1781.8",
         "A-1783.1"
       ],
-      "related_nodes": [
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:30",
-      "investigative_direction": "Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison."
+      "investigative_direction": "Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.",
+      "mentions_person_refs": [
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1132,12 +1140,13 @@
         "A-1781.9",
         "A-1782.6"
       ],
-      "related_nodes": [
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:30",
-      "investigative_direction": "Obtain the original screenshot and verify against Jillian's X/Twitter posting history."
+      "investigative_direction": "Obtain the original screenshot and verify against Jillian's X/Twitter posting history.",
+      "mentions_person_refs": [
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,12 +1157,13 @@
       "anchored_artifacts": [
         "A-1784.4"
       ],
-      "related_nodes": [
-        "N-942"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:26",
-      "investigative_direction": "Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records."
+      "investigative_direction": "Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.",
+      "mentions_person_refs": [
+        "N-942"
+      ]
     },
     {
       "@type": "Claim",
@@ -1248,13 +1258,15 @@
         "A-1787.1"
       ],
       "related_nodes": [
-        "N-1583",
-        "N-272",
-        "N-42"
+        "N-1583"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
-      "investigative_direction": "Pull the Newsweek article directly and confirm the exact quote and attribution."
+      "investigative_direction": "Pull the Newsweek article directly and confirm the exact quote and attribution.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1267,12 +1279,14 @@
         "A-1789.1"
       ],
       "related_nodes": [
-        "N-272",
         "N-1583"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36",
-      "investigative_direction": "Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details."
+      "investigative_direction": "Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1285,12 +1299,14 @@
         "A-1789.1"
       ],
       "related_nodes": [
-        "N-272",
         "N-1583"
       ],
       "tags": [],
       "claim_timestamp": "00:38:26",
-      "investigative_direction": "Pull the two interview segments and visually verify the background in each."
+      "investigative_direction": "Pull the two interview segments and visually verify the background in each.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1301,13 +1317,14 @@
       "anchored_artifacts": [
         "A-1791.1"
       ],
-      "related_nodes": [
-        "N-120",
-        "N-946"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:09",
-      "investigative_direction": "Pull the hearing transcript and video to confirm Bondi's exact wording and the hearing date."
+      "investigative_direction": "Pull the hearing transcript and video to confirm Bondi's exact wording and the hearing date.",
+      "mentions_person_refs": [
+        "N-120",
+        "N-946"
+      ]
     }
   ],
   "memes": []

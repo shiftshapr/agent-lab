@@ -455,8 +455,8 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that Tucker Carlson "knifes [friends] directly between the shoulder blades when convenient for him" and specifically "preys on the friendship he proclaims" with Charlie Kirk.
 
 Anchored Artifacts: A-1314.2
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages).
 
@@ -469,8 +469,8 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that "Charlie believed that Nick Fuentes was vermin. That's a direct quote."
 
 Anchored Artifacts: A-1314.2
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.
 
@@ -483,8 +483,8 @@ Claim Timestamp: 00:16:02
 Claim: In a 2018 Joe Rogan appearance, Candace Owens referred to him as "the hall monitor" and joked that he "writes you a pink slip" and sends people to "Saturday school."
 
 Anchored Artifacts: A-1315.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Verify by locating the full original Joe Rogan episode to confirm wording and date.
 
@@ -497,8 +497,8 @@ Claim Timestamp: 00:18:19
 Claim: A photo displayed in the episode depicts Candace Owens and Charlie Kirk in Ben Shapiro's Sherman Oaks studio, standing with puffed chests and standing extra tall, taken in or around June 2018 after they were booked on his show despite prior tension.
 
 Anchored Artifacts: A-1316.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify by locating the source image metadata (date, location, producer of the appearance).
 
@@ -511,8 +511,9 @@ Claim Timestamp: 00:21:26
 Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler.
 
 Anchored Artifacts: A-1317.1
+Mentions: N-2, N-311, N-319, N-320, N-321, N-322, N-323
 
-Related Nodes: N-311, N-322, N-323, N-319, N-320, N-321, N-2, N-1286
+Related Nodes: N-1286
 
 Investigative Direction: Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.
 
@@ -525,8 +526,9 @@ Claim Timestamp: 00:22:13
 Claim: TPUSA spokesperson Andrew Kolbenschlag posted on X that "this is the first we're hearing of this" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.
 
 Anchored Artifacts: A-1317.2
+Mentions: N-2, N-42, N-311
 
-Related Nodes: N-42, N-311, N-2, N-1286
+Related Nodes: N-1286
 
 Investigative Direction: Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.
 
@@ -539,8 +541,9 @@ Claim Timestamp: 00:23:04
 Claim: Michael Starr posted on X that "the Israeli government press office wavered on claims that Erika Kirk would be accepting [the posthumous award]" after TPUSA said it was unaware of the award and that its CEO was not scheduled to participate.
 
 Anchored Artifacts: A-1317.3
+Mentions: N-311, N-323
 
-Related Nodes: N-311, N-323, N-1286
+Related Nodes: N-1286
 
 Investigative Direction: Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.
 
@@ -553,8 +556,9 @@ Claim Timestamp: 00:30:31
 Claim: In a preview clip of her Jesse Waters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating "We deserve to have cameras in there … Let everyone see what true evil is."
 
 Anchored Artifacts: A-1318.1
+Mentions: N-2, N-313
 
-Related Nodes: N-2, N-313, N-1287
+Related Nodes: N-1287
 
 Investigative Direction: Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.
 
@@ -567,8 +571,8 @@ Claim Timestamp: 00:37:40
 Claim: Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism following reporting about his use of an FBI aircraft to travel to her events, asserting she is "a true patriot" and "country music sensation."
 
 Anchored Artifacts: A-1319.1
+Mentions: N-102, N-314
 
-Related Nodes: N-102, N-314
 
 Investigative Direction: Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.
 
@@ -581,8 +585,8 @@ Claim Timestamp: 00:45:55
 Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.
 
 Anchored Artifacts: A-1320.5
+Mentions: N-228
 
-Related Nodes: N-228
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.
 
@@ -595,8 +599,8 @@ Claim Timestamp: 00:46:55
 Claim: A viewer (Petal) commented asking Candace Owens to clarify whether she holds a degree, noting that some people claim she does not.
 
 Anchored Artifacts: A-1320.6
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: No investigative direction required — viewer question is recorded as artifact.
 
@@ -609,8 +613,8 @@ Claim Timestamp: 00:47:40
 Claim: A viewer (TB) commented that being exposed to all perspectives with the right to respectfully disagree is what Charlie Kirk stood for, and that "anyone who is divisive over this right is fake and gay" (per the host's reported phrasing).
 
 Anchored Artifacts: A-1320.7
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: No investigative direction required — viewer comment is recorded as artifact.
 

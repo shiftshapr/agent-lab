@@ -884,12 +884,14 @@
         "A-2138.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2122"
       ],
       "tags": [],
       "claim_timestamp": "00:03:16",
-      "investigative_direction": "Obtain full Megyn Kelly interview and any prior on-record statements by Walker."
+      "investigative_direction": "Obtain full Megyn Kelly interview and any prior on-record statements by Walker.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -971,12 +973,14 @@
         "A-2145.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2122"
       ],
       "tags": [],
       "claim_timestamp": "00:01:37",
-      "investigative_direction": "Identify the vendor/contractor who produced the custom Carhartt shirt and the authorization chain for the custom order."
+      "investigative_direction": "Identify the vendor/contractor who produced the custom Carhartt shirt and the authorization chain for the custom order.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

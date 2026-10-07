@@ -478,12 +478,13 @@
       "anchored_artifacts": [
         "A-1558.3"
       ],
-      "related_nodes": [
-        "N-597"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:10–00:37:00",
-      "investigative_direction": "Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels."
+      "investigative_direction": "Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels.",
+      "mentions_person_refs": [
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -497,12 +498,14 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-597",
         "N-1438"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window."
+      "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.",
+      "mentions_person_refs": [
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -514,13 +517,15 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-597",
-        "N-518",
         "N-1438"
       ],
       "tags": [],
       "claim_timestamp": "00:44:46–00:50:12",
-      "investigative_direction": "Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter."
+      "investigative_direction": "Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.",
+      "mentions_person_refs": [
+        "N-518",
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -533,13 +538,15 @@
         "A-1559.3"
       ],
       "related_nodes": [
-        "N-2",
-        "N-597",
         "N-1438"
       ],
       "tags": [],
       "claim_timestamp": "00:55:09–00:57:28",
-      "investigative_direction": "Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification."
+      "investigative_direction": "Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -552,12 +559,14 @@
         "A-1559.2"
       ],
       "related_nodes": [
-        "N-597",
         "N-1438"
       ],
       "tags": [],
       "claim_timestamp": "00:55:09–00:57:28",
-      "investigative_direction": "Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025."
+      "investigative_direction": "Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025.",
+      "mentions_person_refs": [
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -570,13 +579,15 @@
         "A-1559.1"
       ],
       "related_nodes": [
-        "N-599",
-        "N-597",
         "N-1438"
       ],
       "tags": [],
       "claim_timestamp": "01:01:18",
-      "investigative_direction": "Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration."
+      "investigative_direction": "Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration.",
+      "mentions_person_refs": [
+        "N-597",
+        "N-599"
+      ]
     },
     {
       "@type": "Claim",
@@ -588,12 +599,14 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-598",
         "N-1439"
       ],
       "tags": [],
       "claim_timestamp": "00:14:48–00:17:53",
-      "investigative_direction": "Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students."
+      "investigative_direction": "Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students.",
+      "mentions_person_refs": [
+        "N-598"
+      ]
     },
     {
       "@type": "Claim",
@@ -605,12 +618,14 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-598",
         "N-1439"
       ],
       "tags": [],
       "claim_timestamp": "00:16:38–00:17:14",
-      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices."
+      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices.",
+      "mentions_person_refs": [
+        "N-598"
+      ]
     },
     {
       "@type": "Claim",
@@ -623,12 +638,14 @@
         "A-1560.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-1440"
       ],
       "tags": [],
       "claim_timestamp": "00:01:18–00:02:51",
-      "investigative_direction": "Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components)."
+      "investigative_direction": "Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -640,13 +657,15 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-597",
-        "N-518",
         "N-1438"
       ],
       "tags": [],
       "claim_timestamp": "00:50:12–00:53:59",
-      "investigative_direction": "Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025."
+      "investigative_direction": "Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025.",
+      "mentions_person_refs": [
+        "N-518",
+        "N-597"
+      ]
     }
   ],
   "memes": []

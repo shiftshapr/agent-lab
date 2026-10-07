@@ -914,12 +914,13 @@
       "anchored_artifacts": [
         "A-1320.5"
       ],
-      "related_nodes": [
-        "N-228"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:45:55",
-      "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern."
+      "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern.",
+      "mentions_person_refs": [
+        "N-228"
+      ]
     },
     {
       "@type": "Claim",

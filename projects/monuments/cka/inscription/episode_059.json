@@ -1031,12 +1031,14 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
-      "investigative_direction": "Verify through Texas A&M University Police Department public records or alumni directories."
+      "investigative_direction": "Verify through Texas A&M University Police Department public records or alumni directories.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1048,12 +1050,14 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
-      "investigative_direction": "Verify through official retirement records and state police licensing databases."
+      "investigative_direction": "Verify through official retirement records and state police licensing databases.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1065,12 +1069,14 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
-      "investigative_direction": "Verify through Bosque County Sheriff's Office public records."
+      "investigative_direction": "Verify through Bosque County Sheriff's Office public records.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1082,12 +1088,14 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
-      "investigative_direction": "Verify through FBI National Academy alumni records."
+      "investigative_direction": "Verify through FBI National Academy alumni records.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1099,12 +1107,14 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
-      "investigative_direction": "Verify through military service records."
+      "investigative_direction": "Verify through military service records.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1116,13 +1126,15 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-748",
-        "N-1",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
-      "investigative_direction": "Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area."
+      "investigative_direction": "Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1134,12 +1146,14 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
-      "investigative_direction": "Verify through Army Reserve official records."
+      "investigative_direction": "Verify through Army Reserve official records.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1151,12 +1165,14 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-748",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
-      "investigative_direction": "Verify through FBIA membership rolls."
+      "investigative_direction": "Verify through FBIA membership rolls.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1168,14 +1184,16 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-434",
-        "N-748",
-        "N-1",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
-      "investigative_direction": "Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses."
+      "investigative_direction": "Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-434",
+        "N-748"
+      ]
     },
     {
       "@type": "Claim",
@@ -1187,12 +1205,14 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-434",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
-      "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity."
+      "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity.",
+      "mentions_person_refs": [
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -1204,12 +1224,14 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-434",
         "N-1497"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
-      "investigative_direction": "Verify through address records, property records, or voter registration."
+      "investigative_direction": "Verify through address records, property records, or voter registration.",
+      "mentions_person_refs": [
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -1221,13 +1243,15 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-434",
-        "N-1496",
-        "N-724"
+        "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
-      "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists."
+      "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists.",
+      "mentions_person_refs": [
+        "N-434",
+        "N-724"
+      ]
     },
     {
       "@type": "Claim",
@@ -1239,12 +1263,14 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-750",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
-      "investigative_direction": "Verify through public records."
+      "investigative_direction": "Verify through public records.",
+      "mentions_person_refs": [
+        "N-750"
+      ]
     },
     {
       "@type": "Claim",
@@ -1256,12 +1282,14 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-750",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
-      "investigative_direction": "Verify through TDPS historical employment records."
+      "investigative_direction": "Verify through TDPS historical employment records.",
+      "mentions_person_refs": [
+        "N-750"
+      ]
     },
     {
       "@type": "Claim",
@@ -1273,12 +1301,14 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-750",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
-      "investigative_direction": "Verify through TDPS records."
+      "investigative_direction": "Verify through TDPS records.",
+      "mentions_person_refs": [
+        "N-750"
+      ]
     },
     {
       "@type": "Claim",
@@ -1290,12 +1320,14 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-750",
         "N-1496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
-      "investigative_direction": "Verify through Erath County Sheriff's Office records."
+      "investigative_direction": "Verify through Erath County Sheriff's Office records.",
+      "mentions_person_refs": [
+        "N-750"
+      ]
     },
     {
       "@type": "Claim",
@@ -1307,12 +1339,13 @@
         "A-1648.1",
         "A-1648.2"
       ],
-      "related_nodes": [
-        "N-753"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:21",
-      "investigative_direction": "Confirm through legal records, TPUSA communications, and Gregorio's public statements."
+      "investigative_direction": "Confirm through legal records, TPUSA communications, and Gregorio's public statements.",
+      "mentions_person_refs": [
+        "N-753"
+      ]
     },
     {
       "@type": "Claim",
@@ -1340,12 +1373,14 @@
         "A-1650.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1499"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
-      "investigative_direction": "Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-2143 and C-2144."
+      "investigative_direction": "Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-2143 and C-2144.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1357,14 +1392,16 @@
         "A-1650.3"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-761",
         "N-1499"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
-      "investigative_direction": "Verify against the full debate transcript/recording."
+      "investigative_direction": "Verify against the full debate transcript/recording.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-761"
+      ]
     },
     {
       "@type": "Claim",
@@ -1376,12 +1413,14 @@
         "A-1650.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1499"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
-      "investigative_direction": "Identify the specific China-based charity and verify scope and duration of her work."
+      "investigative_direction": "Identify the specific China-based charity and verify scope and duration of her work.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1393,14 +1432,16 @@
         "A-1651.1"
       ],
       "related_nodes": [
-        "N-45",
-        "N-759",
-        "N-760",
         "N-1500"
       ],
       "tags": [],
       "claim_timestamp": "00:34:31",
-      "investigative_direction": "Verify the event actually occurred and document any public response."
+      "investigative_direction": "Verify the event actually occurred and document any public response.",
+      "mentions_person_refs": [
+        "N-45",
+        "N-759",
+        "N-760"
+      ]
     },
     {
       "@type": "Claim",
@@ -1411,12 +1452,13 @@
       "anchored_artifacts": [
         "A-1652.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:24",
-      "investigative_direction": "Verify through Israeli government or embassy announcements and locate the original Fox News article."
+      "investigative_direction": "Verify through Israeli government or embassy announcements and locate the original Fox News article.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1427,13 +1469,14 @@
       "anchored_artifacts": [
         "A-1653.1"
       ],
-      "related_nodes": [
-        "N-434",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:39",
-      "investigative_direction": "Verify event attendance, security staffing, and Kash Patel's participation through official event records."
+      "investigative_direction": "Verify event attendance, security staffing, and Kash Patel's participation through official event records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -1444,12 +1487,13 @@
       "anchored_artifacts": [
         "A-1647.1"
       ],
-      "related_nodes": [
-        "N-748"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:23",
-      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records."
+      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.",
+      "mentions_person_refs": [
+        "N-748"
+      ]
     }
   ],
   "memes": []

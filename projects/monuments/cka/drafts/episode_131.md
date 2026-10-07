@@ -251,8 +251,8 @@ Claim Timestamp: 00:10:44
 Claim: A thread of SMS messages dated November 15, 2023, between Charlie Kirk and Candace Owens, read aloud in full, documents contemporaneous pressure from the Daily Wire / Ben Shapiro orbit during the "Christ is King" episode.
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Obtain carrier records or device extractions to verify the text thread independently of host narration.
 
@@ -265,8 +265,8 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing to Candace Owens: "Don't resign because it's what they want."
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify exact wording against device-extracted SMS records.
 
@@ -279,8 +279,8 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "This is a C-level hit against you because they think they can provoke you" and "That's why this is all coordinated."
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify exact wording against device-extracted SMS records.
 
@@ -293,8 +293,8 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Jeremy Boring [transcript spelling], who knew exactly what Jeremy was, 100% workshopped this. This is not Ben acting alone. This is a hit."
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.
 
@@ -307,8 +307,8 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Marissa Strait [text spelling], she's part of the tribe. Do not listen to her."
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify name spelling against device-extracted SMS records.
 
@@ -321,8 +321,8 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Thank you. We are on the same team. Screw these people" and later: "Absolutely. We are on the same team. People are waking up and it is finally happening."
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify exact wording against device-extracted SMS records.
 
@@ -335,8 +335,8 @@ Claim Timestamp: 00:11:44
 Claim: The November 15, 2023 thread documents Candace Owens as 40 weeks pregnant and Charlie Kirk assisting her to find a last-second flight ("Btw to the flight work out, okay?").
 
 Anchored Artifacts: A-2180.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify against device-extracted SMS records and any flight manifests or correspondence.
 
@@ -349,8 +349,8 @@ Claim Timestamp: 00:15:27
 Claim: A pre-November 15, 2023 text from Charlie Kirk (or a contemporaneous exchange involving Charlie Kirk) contains the words: "Yep, the war is on. Snakes in the garden, they are not our friends. Time to fight."
 
 Anchored Artifacts: A-2180.2
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Verify date and full context of the exchange against device-extracted SMS records.
 
@@ -363,8 +363,9 @@ Claim Timestamp: 00:18:20
 Claim: In an audio clip played in the episode, Ben Shapiro states that his security (described by host as former IDF members) was on the phone with Charlie Kirk's security "during the critical 7 minutes" while Charlie was fighting for his life.
 
 Anchored Artifacts: A-2181.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2147
+Related Nodes: N-2147
 
 Investigative Direction: Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.
 
@@ -405,8 +406,8 @@ Claim Timestamp: 00:33:45
 Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: "Absolutely not. No, absolutely not" in response to a question about whether she was the person the Daily Mail contacted and provided information from.
 
 Anchored Artifacts: A-2183.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
 
@@ -419,8 +420,8 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill states that the screwdriver left on the rooftop "probably wouldn't have worked to take it apart or put it together in the first place," and questions how the suspect "jumped off the roof and put it back together without the screwdriver."
 
 Anchored Artifacts: A-2184.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain full Newsmax segment; cross-reference with official forensic reports on the rooftop.
 
@@ -433,8 +434,8 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill states that a 30-06 round "would do a lot more than that" against a human spine based on his ballistic gel experience.
 
 Anchored Artifacts: A-2184.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent ballistic-gel comparison data.
 
@@ -447,8 +448,8 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill states the shot "went left to right, not from front to back," and asserts an exit wound on Charlie Kirk's left-hand side.
 
 Anchored Artifacts: A-2184.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent forensic analysis.
 
@@ -461,8 +462,8 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill characterizes the suspect's post-shooting text messages as appearing "like English was a second language," noting the suspect "started texting someone like English was a second language."
 
 Anchored Artifacts: A-2184.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain full Newsmax segment; cross-reference with publicly released text message excerpts.
 
@@ -517,8 +518,9 @@ Claim Timestamp: 00:39:35
 Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1210, N-1211, N-1, N-2
+Related Nodes: N-1210, N-1211
 
 Investigative Direction: Independent verification of each parallel item against documented records in both cases.
 

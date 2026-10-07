@@ -1704,16 +1704,17 @@
       "anchored_artifacts": [
         "A-1539.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:34",
+      "investigative_direction": "Verify meeting date, location, and stated duration against any third-party records.",
+      "mentions_person_refs": [
         "N-2",
         "N-43",
         "N-75",
         "N-588",
         "N-589"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:02:34",
-      "investigative_direction": "Verify meeting date, location, and stated duration against any third-party records."
+      ]
     },
     {
       "@type": "Claim",
@@ -1725,12 +1726,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1411"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
-      "investigative_direction": "Verify Charlie Kirk's actual messaging platforms through device forensics."
+      "investigative_direction": "Verify Charlie Kirk's actual messaging platforms through device forensics.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1742,13 +1745,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-326",
         "N-1411"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
-      "investigative_direction": "Obtain the original message from Andrew Kolvet or his device records."
+      "investigative_direction": "Obtain the original message from Andrew Kolvet or his device records.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -1760,13 +1765,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-45",
         "N-1411"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
-      "investigative_direction": "Obtain original Dan Flood message through his records or testimony."
+      "investigative_direction": "Obtain original Dan Flood message through his records or testimony.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -1779,12 +1786,14 @@
         "A-1540.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1408"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
-      "investigative_direction": "Verify the May probable cause hearing date through Utah court records; compare against public charging documents."
+      "investigative_direction": "Verify the May probable cause hearing date through Utah court records; compare against public charging documents.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1812,12 +1821,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1408"
       ],
       "tags": [],
       "claim_timestamp": "00:21:02",
-      "investigative_direction": "Identify the witness and verify the video and timestamp."
+      "investigative_direction": "Identify the witness and verify the video and timestamp.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1845,13 +1856,15 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-326",
         "N-1409"
       ],
       "tags": [],
       "claim_timestamp": "00:23:53",
-      "investigative_direction": "Obtain the call logs directly from Mikey McCoy or from phone carrier records."
+      "investigative_direction": "Obtain the call logs directly from Mikey McCoy or from phone carrier records.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -1863,15 +1876,17 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-326",
-        "N-45",
-        "N-2",
         "N-1409"
       ],
       "tags": [],
       "claim_timestamp": "00:27:12",
-      "investigative_direction": "Verify the three-way call sequence against carrier records."
+      "investigative_direction": "Verify the three-way call sequence against carrier records.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-45",
+        "N-272",
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -1882,12 +1897,13 @@
       "anchored_artifacts": [
         "A-1539.1"
       ],
-      "related_nodes": [
-        "N-272"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:53",
-      "investigative_direction": "Verify against official identity records."
+      "investigative_direction": "Verify against official identity records.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1900,13 +1916,18 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-224",
         "N-1409"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
-      "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence."
+      "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence.",
+      "mentions_person_refs": [
+        "N-224",
+        "N-272"
+      ],
+      "contradicts_claim_refs": [
+        "C-1932"
+      ]
     },
     {
       "@type": "Claim",
@@ -1918,13 +1939,15 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-326",
-        "N-2",
         "N-1410"
       ],
       "tags": [],
       "claim_timestamp": "00:28:48",
-      "investigative_direction": "Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts."
+      "investigative_direction": "Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -1936,13 +1959,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-65",
         "N-1413"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
-      "investigative_direction": "Identify the three sources and obtain documentary evidence of the offer."
+      "investigative_direction": "Identify the three sources and obtain documentary evidence of the offer.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1954,13 +1979,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-42",
-        "N-65",
         "N-1413"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
-      "investigative_direction": "Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet."
+      "investigative_direction": "Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1972,13 +1999,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-45",
         "N-1419",
         "N-1424"
       ],
       "tags": [],
       "claim_timestamp": "00:11:35",
-      "investigative_direction": "Verify Rob McCoy's formal affiliations independently of his self-presentation."
+      "investigative_direction": "Verify Rob McCoy's formal affiliations independently of his self-presentation.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -1990,13 +2019,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-102",
-        "N-2",
         "N-1417"
       ],
       "tags": [],
       "claim_timestamp": "00:09:23",
-      "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day."
+      "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -2008,12 +2039,14 @@
         "A-1541.1"
       ],
       "related_nodes": [
-        "N-326",
         "N-1412"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
-      "investigative_direction": "Verify the original tweet content and the surgeon's identity."
+      "investigative_direction": "Verify the original tweet content and the surgeon's identity.",
+      "mentions_person_refs": [
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -2026,12 +2059,14 @@
         "A-1541.2"
       ],
       "related_nodes": [
-        "N-326",
         "N-1412"
       ],
       "tags": [],
       "claim_timestamp": "00:13:14",
-      "investigative_direction": "Verify Kolvet's stated communication with the surgeon and HIPAA implications."
+      "investigative_direction": "Verify Kolvet's stated communication with the surgeon and HIPAA implications.",
+      "mentions_person_refs": [
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -2043,12 +2078,14 @@
         "A-1545.1"
       ],
       "related_nodes": [
-        "N-426",
         "N-1415"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36",
-      "investigative_direction": "Verify the earlier Tim Pool statement against his show archive."
+      "investigative_direction": "Verify the earlier Tim Pool statement against his show archive.",
+      "mentions_person_refs": [
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -2060,12 +2097,14 @@
         "A-1545.2"
       ],
       "related_nodes": [
-        "N-426",
         "N-1415"
       ],
       "tags": [],
       "claim_timestamp": "00:45:27",
-      "investigative_direction": "Verify the current claim against any documented security employment records."
+      "investigative_direction": "Verify the current claim against any documented security employment records.",
+      "mentions_person_refs": [
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -2077,13 +2116,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-556",
         "N-1415"
       ],
       "tags": [],
       "claim_timestamp": "00:46:06",
-      "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list."
+      "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-556"
+      ]
     },
     {
       "@type": "Claim",
@@ -2095,12 +2136,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1415"
       ],
       "tags": [],
       "claim_timestamp": "00:46:06",
-      "investigative_direction": "Confirm absence of legal correspondence through counsel records."
+      "investigative_direction": "Confirm absence of legal correspondence through counsel records.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -2111,13 +2154,14 @@
       "anchored_artifacts": [
         "A-1546.1"
       ],
-      "related_nodes": [
-        "N-559",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:01",
-      "investigative_direction": "Verify the cited Daily Wire source and article publication date."
+      "investigative_direction": "Verify the cited Daily Wire source and article publication date.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-559"
+      ]
     },
     {
       "@type": "Claim",
@@ -2128,13 +2172,14 @@
       "anchored_artifacts": [
         "A-1546.1"
       ],
-      "related_nodes": [
-        "N-559",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:47",
-      "investigative_direction": "Verify against Daily Wire security logs or contemporaneous records."
+      "investigative_direction": "Verify against Daily Wire security logs or contemporaneous records.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-559"
+      ]
     },
     {
       "@type": "Claim",
@@ -2146,12 +2191,14 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-559",
         "N-1422"
       ],
       "tags": [],
       "claim_timestamp": "00:41:01",
-      "investigative_direction": "Verify travel and passport records."
+      "investigative_direction": "Verify travel and passport records.",
+      "mentions_person_refs": [
+        "N-559"
+      ]
     },
     {
       "@type": "Claim",
@@ -2162,14 +2209,15 @@
       "anchored_artifacts": [
         "A-1549.1"
       ],
-      "related_nodes": [
-        "N-547",
-        "N-558",
-        "N-310"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:53:11",
-      "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants."
+      "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants.",
+      "mentions_person_refs": [
+        "N-310",
+        "N-547",
+        "N-558"
+      ]
     },
     {
       "@type": "Claim",
@@ -2181,12 +2229,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-71",
         "N-1425"
       ],
       "tags": [],
       "claim_timestamp": "00:56:50",
-      "investigative_direction": "Verify through hospital records, nurse testimony, or police interview of Zin."
+      "investigative_direction": "Verify through hospital records, nurse testimony, or police interview of Zin.",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -2198,14 +2248,16 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-102",
-        "N-550",
-        "N-310",
         "N-1426"
       ],
       "tags": [],
       "claim_timestamp": "00:56:14",
-      "investigative_direction": "Verify through any on-record statements from the named individuals."
+      "investigative_direction": "Verify through any on-record statements from the named individuals.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-310",
+        "N-550"
+      ]
     },
     {
       "@type": "Claim",
@@ -2217,12 +2269,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1421"
       ],
       "tags": [],
       "claim_timestamp": "00:11:35",
-      "investigative_direction": "Verify through parish records and direct corroboration from Erika on the record."
+      "investigative_direction": "Verify through parish records and direct corroboration from Erika on the record.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -2234,13 +2288,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-67",
-        "N-65",
         "N-1416"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16",
-      "investigative_direction": "Verify through any recording or attendee corroboration of the retreat."
+      "investigative_direction": "Verify through any recording or attendee corroboration of the retreat.",
+      "mentions_person_refs": [
+        "N-65",
+        "N-67"
+      ]
     },
     {
       "@type": "Claim",
@@ -2252,12 +2308,14 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-555",
         "N-1414"
       ],
       "tags": [],
       "claim_timestamp": "00:51:02",
-      "investigative_direction": "Verify Andrew Seifer's official TPUSA title."
+      "investigative_direction": "Verify Andrew Seifer's official TPUSA title.",
+      "mentions_person_refs": [
+        "N-555"
+      ]
     },
     {
       "@type": "Claim",
@@ -2269,12 +2327,14 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-555",
         "N-1414"
       ],
       "tags": [],
       "claim_timestamp": "00:51:02",
-      "investigative_direction": "Verify the specific August 27 post referenced."
+      "investigative_direction": "Verify the specific August 27 post referenced.",
+      "mentions_person_refs": [
+        "N-555"
+      ]
     },
     {
       "@type": "Claim",
@@ -2317,12 +2377,13 @@
       "anchored_artifacts": [
         "A-1550.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:56",
-      "investigative_direction": "Verify the quotation against the cited Charlie Kirk source."
+      "investigative_direction": "Verify the quotation against the cited Charlie Kirk source.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

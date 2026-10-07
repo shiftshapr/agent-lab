@@ -420,8 +420,9 @@ Claim Timestamp: 00:00:02–00:00:55
 Claim: A viewer email to Candace's tip line argues that the phrase "pooch" with "bad sniffer" reflects a French calque ("reneneur" / "chien renifleur"), suggesting the Tyler Robinson text messages were translated from French.
 
 Anchored Artifacts: A-2254.1
+Mentions: N-69
 
-Related Nodes: N-2185, N-69
+Related Nodes: N-2185
 
 Investigative Direction: Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis.
 
@@ -434,8 +435,9 @@ Claim Timestamp: 00:00:55
 Claim: Host concurs with the tip-line hypothesis that the texts were translated from French, citing "pooch" as the strongest example of non-native-English phrasing.
 
 Anchored Artifacts: A-2254.1
+Mentions: N-69
 
-Related Nodes: N-2185, N-69
+Related Nodes: N-2185
 
 Investigative Direction: Compare full text-message corpus for additional French calques; identify likely French-speaker demographics.
 
@@ -448,8 +450,9 @@ Claim Timestamp: 00:03:25–00:04:12
 Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owens $300,000 to debate him regarding the Charlie Kirk case.
 
 Anchored Artifacts: A-2255.1
+Mentions: N-46
 
-Related Nodes: N-1213, N-46
+Related Nodes: N-1213
 
 Investigative Direction: Verify funding source of the $300K offer; obtain any formal documentation or PR communications.
 
@@ -462,8 +465,9 @@ Claim Timestamp: 00:04:12–00:05:52
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.
 
 Anchored Artifacts: A-2255.2
+Mentions: N-2, N-46
 
-Related Nodes: N-2, N-1213, N-46
+Related Nodes: N-1213
 
 Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.
 
@@ -476,8 +480,9 @@ Claim Timestamp: 00:03:25–00:04:59
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.
 
 Anchored Artifacts: A-2255.3
+Mentions: N-1, N-2, N-46
 
-Related Nodes: N-1213, N-1, N-2, N-46
+Related Nodes: N-1213
 
 Investigative Direction: Catalogue all Candace Owens public statements and shown evidence; evaluate the "no evidence" characterization against documented artifacts.
 
@@ -490,8 +495,9 @@ Claim Timestamp: 00:13:00
 Claim: Andrew Kovac stated on X that Andrew Wilson was paid for one day of debate training for TPUSA students and the campus debate team, denying he was being "paid" in a broader sense.
 
 Anchored Artifacts: A-2256.1
+Mentions: N-46
 
-Related Nodes: N-1210, N-46
+Related Nodes: N-1210
 
 Investigative Direction: Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.
 
@@ -504,8 +510,9 @@ Claim Timestamp: 00:13:00
 Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson "does a great job" dissecting conspiracy theories and answering Rogan's questions.
 
 Anchored Artifacts: A-2257.1
+Mentions: N-46
 
-Related Nodes: N-1211, N-46
+Related Nodes: N-1211
 
 Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior amplification patterns.
 
@@ -518,8 +525,9 @@ Claim Timestamp: 00:10:41–00:13:00
 Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent named Charlie, using personal insults including calling her "stupid" and denigrating her family.
 
 Anchored Artifacts: A-2258.1
+Mentions: N-46
 
-Related Nodes: N-1215, N-46
+Related Nodes: N-1215
 
 Investigative Direction: Obtain full unedited debate recording to verify context and whether insults were reciprocated.
 
@@ -574,8 +582,9 @@ Claim Timestamp: 00:17:07–00:17:57
 Claim: In a clip from The Benny Johnson Show, Benny Johnson stated that the public has seen only 1–2% of the physically available evidence in the Kirk case.
 
 Anchored Artifacts: A-2260.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1212, N-1, N-2
+Related Nodes: N-1212
 
 Investigative Direction: Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased.
 
@@ -588,8 +597,9 @@ Claim Timestamp: 00:26:49–00:28:00
 Claim: Blurry UVU staircase footage shows the maroon-shirt person holding a phone in their left hand and pocketing it in their left pocket.
 
 Anchored Artifacts: A-2261.1
+Mentions: N-69
 
-Related Nodes: N-2187, N-69, N-2186
+Related Nodes: N-2186, N-2187
 
 Investigative Direction: Obtain the "4K" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.
 

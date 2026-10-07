@@ -1095,12 +1095,13 @@
       "anchored_artifacts": [
         "A-1596.1"
       ],
-      "related_nodes": [
-        "N-424"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:30",
-      "investigative_direction": "Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice."
+      "investigative_direction": "Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1112,12 +1113,14 @@
         "A-1597.1"
       ],
       "related_nodes": [
-        "N-70",
         "N-1472"
       ],
       "tags": [],
       "claim_timestamp": "00:12:58",
-      "investigative_direction": "Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity."
+      "investigative_direction": "Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1129,14 +1132,16 @@
         "A-1598.1"
       ],
       "related_nodes": [
-        "N-653",
-        "N-660",
-        "N-661",
         "N-1463"
       ],
       "tags": [],
       "claim_timestamp": "00:35:05",
-      "investigative_direction": "Pull original Liberty Godparent Home founding documents and Thomas Road Baptist Church charter materials to confirm founding date and affiliation."
+      "investigative_direction": "Pull original Liberty Godparent Home founding documents and Thomas Road Baptist Church charter materials to confirm founding date and affiliation.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-660",
+        "N-661"
+      ]
     },
     {
       "@type": "Claim",
@@ -1164,13 +1169,15 @@
         "A-1599.2"
       ],
       "related_nodes": [
-        "N-653",
-        "N-654",
         "N-1464"
       ],
       "tags": [],
       "claim_timestamp": "00:55:11",
-      "investigative_direction": "Obtain the full 1997 Washington Post article, identify the named entities, and cross-reference against SEC and IRS filings for the named foundations."
+      "investigative_direction": "Obtain the full 1997 Washington Post article, identify the named entities, and cross-reference against SEC and IRS filings for the named foundations.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1182,13 +1189,15 @@
         "A-1599.3"
       ],
       "related_nodes": [
-        "N-653",
-        "N-654",
         "N-1464"
       ],
       "tags": [],
       "claim_timestamp": "01:06:32",
-      "investigative_direction": "Verify the $3.5M grant in 1995 IRS Form 990 filings for both the Women's Federation and the Christian Heritage Foundation; identify the recipient of the funds."
+      "investigative_direction": "Verify the $3.5M grant in 1995 IRS Form 990 filings for both the Women's Federation and the Christian Heritage Foundation; identify the recipient of the funds.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1200,13 +1209,15 @@
         "A-1599.4"
       ],
       "related_nodes": [
-        "N-653",
-        "N-654",
         "N-1464"
       ],
       "tags": [],
       "claim_timestamp": "01:06:32",
-      "investigative_direction": "Obtain the promissory note referenced in the article and cross-reference against Liberty University financial disclosures from 1996–1997."
+      "investigative_direction": "Obtain the promissory note referenced in the article and cross-reference against Liberty University financial disclosures from 1996–1997.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1218,12 +1229,14 @@
         "A-1599.5"
       ],
       "related_nodes": [
-        "N-654",
         "N-1470"
       ],
       "tags": [],
       "claim_timestamp": "01:02:19",
-      "investigative_direction": "Locate the 1978 House/Senate committee report on Moon organizations and verify the quoted conclusion verbatim."
+      "investigative_direction": "Locate the 1978 House/Senate committee report on Moon organizations and verify the quoted conclusion verbatim.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1235,12 +1248,14 @@
         "A-1599.1"
       ],
       "related_nodes": [
-        "N-654",
         "N-1470"
       ],
       "tags": [],
       "claim_timestamp": "00:52:37",
-      "investigative_direction": "Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties."
+      "investigative_direction": "Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1252,12 +1267,14 @@
         "A-1599.6"
       ],
       "related_nodes": [
-        "N-654",
         "N-1470"
       ],
       "tags": [],
       "claim_timestamp": "01:04:00",
-      "investigative_direction": "Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures."
+      "investigative_direction": "Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1269,13 +1286,15 @@
         "A-1599.7"
       ],
       "related_nodes": [
-        "N-654",
-        "N-690",
         "N-1470"
       ],
       "tags": [],
       "claim_timestamp": "01:05:41",
-      "investigative_direction": "Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures."
+      "investigative_direction": "Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-690"
+      ]
     },
     {
       "@type": "Claim",
@@ -1287,12 +1306,14 @@
         "A-1599.8"
       ],
       "related_nodes": [
-        "N-654",
         "N-1470"
       ],
       "tags": [],
       "claim_timestamp": "01:04:49",
-      "investigative_direction": "Identify the named \"church observers\" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities."
+      "investigative_direction": "Identify the named \"church observers\" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1304,14 +1325,16 @@
         "A-1601.1"
       ],
       "related_nodes": [
-        "N-653",
-        "N-655",
-        "N-659",
         "N-1464"
       ],
       "tags": [],
       "claim_timestamp": "00:43:30",
-      "investigative_direction": "Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition."
+      "investigative_direction": "Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-655",
+        "N-659"
+      ]
     },
     {
       "@type": "Claim",
@@ -1323,13 +1346,15 @@
         "A-1602.1"
       ],
       "related_nodes": [
-        "N-654",
         "N-1464",
         "N-1470"
       ],
       "tags": [],
       "claim_timestamp": "00:48:22",
-      "investigative_direction": "Verify the $20–40 million figure against Liberty University financial disclosures, the Christian Heritage Foundation 990s, and contemporaneous reporting in The Washington Times itself."
+      "investigative_direction": "Verify the $20–40 million figure against Liberty University financial disclosures, the Christian Heritage Foundation 990s, and contemporaneous reporting in The Washington Times itself.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
     },
     {
       "@type": "Claim",
@@ -1341,12 +1366,14 @@
         "A-1603.1"
       ],
       "related_nodes": [
-        "N-657",
         "N-1468"
       ],
       "tags": [],
       "claim_timestamp": "01:09:02",
-      "investigative_direction": "Obtain Korean court records and primary Korean-language press coverage to verify the arrest date, the specific statutes cited, and the current status of the case."
+      "investigative_direction": "Obtain Korean court records and primary Korean-language press coverage to verify the arrest date, the specific statutes cited, and the current status of the case.",
+      "mentions_person_refs": [
+        "N-657"
+      ]
     },
     {
       "@type": "Claim",
@@ -1358,13 +1385,15 @@
         "A-1600.1"
       ],
       "related_nodes": [
-        "N-657",
-        "N-658",
         "N-1468"
       ],
       "tags": [],
       "claim_timestamp": "01:10:00",
-      "investigative_direction": "Cross-reference the conference attendance records (Build Up Korea, September 4–5) against the arrest warrant timestamp; verify whether the father's meeting with Kirk is documented by other conference attendees."
+      "investigative_direction": "Cross-reference the conference attendance records (Build Up Korea, September 4–5) against the arrest warrant timestamp; verify whether the father's meeting with Kirk is documented by other conference attendees.",
+      "mentions_person_refs": [
+        "N-657",
+        "N-658"
+      ]
     },
     {
       "@type": "Claim",
@@ -1376,12 +1405,14 @@
         "A-1604.1"
       ],
       "related_nodes": [
-        "N-662",
         "N-1463"
       ],
       "tags": [],
       "claim_timestamp": "00:24:36",
-      "investigative_direction": "Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abby Johnson and others) and any internal Godparent Home policies from the 1990s."
+      "investigative_direction": "Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abby Johnson and others) and any internal Godparent Home policies from the 1990s.",
+      "mentions_person_refs": [
+        "N-662"
+      ]
     },
     {
       "@type": "Claim",
@@ -1393,12 +1424,14 @@
         "A-1604.1"
       ],
       "related_nodes": [
-        "N-662",
         "N-1463"
       ],
       "tags": [],
       "claim_timestamp": "00:29:47",
-      "investigative_direction": "Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period."
+      "investigative_direction": "Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period.",
+      "mentions_person_refs": [
+        "N-662"
+      ]
     },
     {
       "@type": "Claim",
@@ -1410,13 +1443,15 @@
         "A-1605.1"
       ],
       "related_nodes": [
-        "N-653",
-        "N-656",
         "N-1471"
       ],
       "tags": [],
       "claim_timestamp": "00:44:18",
-      "investigative_direction": "Locate the cited Rolling Stone article and confirm the specific incident, including Garland's full name and any court records from Virginia."
+      "investigative_direction": "Locate the cited Rolling Stone article and confirm the specific incident, including Garland's full name and any court records from Virginia.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-656"
+      ]
     },
     {
       "@type": "Claim",
@@ -1428,13 +1463,15 @@
         "A-1606.1"
       ],
       "related_nodes": [
-        "N-653",
-        "N-656",
         "N-1471"
       ],
       "tags": [],
       "claim_timestamp": "00:46:39",
-      "investigative_direction": "Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage."
+      "investigative_direction": "Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.",
+      "mentions_person_refs": [
+        "N-653",
+        "N-656"
+      ]
     },
     {
       "@type": "Claim",
@@ -1446,13 +1483,15 @@
         "A-1603.1"
       ],
       "related_nodes": [
-        "N-657",
-        "N-694",
         "N-1468"
       ],
       "tags": [],
       "claim_timestamp": "01:11:09",
-      "investigative_direction": "Verify the exact quote and context against the primary Korean-language reporting and any video of the protest."
+      "investigative_direction": "Verify the exact quote and context against the primary Korean-language reporting and any video of the protest.",
+      "mentions_person_refs": [
+        "N-657",
+        "N-694"
+      ]
     }
   ],
   "memes": []

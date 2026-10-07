@@ -886,13 +886,15 @@
       ],
       "related_nodes": [
         "N-2355",
-        "N-2350",
-        "N-224",
-        "N-41"
+        "N-2350"
       ],
       "tags": [],
       "claim_timestamp": "00:01:33",
-      "investigative_direction": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log."
+      "investigative_direction": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -904,12 +906,14 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-2356",
-        "N-2"
+        "N-2356"
       ],
       "tags": [],
       "claim_timestamp": "00:06:51",
-      "investigative_direction": "Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window."
+      "investigative_direction": "Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -922,13 +926,15 @@
       ],
       "related_nodes": [
         "N-2356",
-        "N-1121",
-        "N-2",
-        "N-65"
+        "N-1121"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603)."
+      "investigative_direction": "Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603).",
+      "mentions_person_refs": [
+        "N-2",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -940,13 +946,15 @@
         "A-2460.1"
       ],
       "related_nodes": [
-        "N-2357",
-        "N-2",
-        "N-326"
+        "N-2357"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
-      "investigative_direction": "Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons."
+      "investigative_direction": "Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -958,13 +966,15 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-2355",
-        "N-2",
-        "N-444"
+        "N-2355"
       ],
       "tags": [],
       "claim_timestamp": "00:20:37",
-      "investigative_direction": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”"
+      "investigative_direction": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”",
+      "mentions_person_refs": [
+        "N-2",
+        "N-444"
+      ]
     },
     {
       "@type": "Claim",
@@ -977,15 +987,17 @@
       ],
       "related_nodes": [
         "N-1288",
-        "N-796",
-        "N-272",
-        "N-1",
-        "N-2",
         "N-1264"
       ],
       "tags": [],
       "claim_timestamp": "00:26:24",
-      "investigative_direction": "Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy."
+      "investigative_direction": "Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-272",
+        "N-796"
+      ]
     },
     {
       "@type": "Claim",
@@ -997,14 +1009,16 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-50",
-        "N-42",
-        "N-3",
         "N-2355"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
-      "investigative_direction": "Confirm quote context in published piece; note host’s declined-to-comment status."
+      "investigative_direction": "Confirm quote context in published piece; note host’s declined-to-comment status.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1016,14 +1030,16 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-50",
-        "N-2",
         "N-1121",
         "N-2356"
       ],
       "tags": [],
       "claim_timestamp": "00:28:36",
-      "investigative_direction": "Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges."
+      "investigative_direction": "Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1036,13 +1052,15 @@
       ],
       "related_nodes": [
         "N-2358",
-        "N-3",
-        "N-59",
         "N-2329"
       ],
       "tags": [],
       "claim_timestamp": "00:40:02",
-      "investigative_direction": "Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims."
+      "investigative_direction": "Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-59"
+      ]
     },
     {
       "@type": "Claim",
@@ -1056,12 +1074,14 @@
       "related_nodes": [
         "N-2359",
         "N-2351",
-        "N-2354",
-        "N-65"
+        "N-2354"
       ],
       "tags": [],
       "claim_timestamp": "00:47:45",
-      "investigative_direction": "Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional."
+      "investigative_direction": "Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional.",
+      "mentions_person_refs": [
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1073,13 +1093,15 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-66",
-        "N-2359",
-        "N-3"
+        "N-2359"
       ],
       "tags": [],
       "claim_timestamp": "00:50:25",
-      "investigative_direction": "Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs."
+      "investigative_direction": "Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -1092,13 +1114,15 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-796",
-        "N-2",
         "N-1288"
       ],
       "tags": [],
       "claim_timestamp": "00:30:00",
-      "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced."
+      "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-796"
+      ]
     }
   ],
   "memes": []

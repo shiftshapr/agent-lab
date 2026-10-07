@@ -398,7 +398,7 @@ Claim Timestamp: 00:02:51
 Claim: The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
 
 Anchored Artifacts: A-1704.1
-Related Nodes: N-2, N-817, N-818
+Mentions: N-2, N-817, N-818
 Investigative Direction: Retrieve full Daily Mail article text and verify quotes, attributions, and publication context.
 
 ---
@@ -410,7 +410,7 @@ Claim Timestamp: 00:04:11
 Claim: Dr. Allen Wolft characterizes criticism of Kirk as reflecting "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
 Anchored Artifacts: A-1704.1
-Related Nodes: N-817, N-818, N-2
+Mentions: N-2, N-817, N-818
 Investigative Direction: Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities.
 
 ---
@@ -422,7 +422,7 @@ Claim Timestamp: 00:10:38
 Claim: Within ~36–48 hours of Charlie Kirk's assassination, Erica Kirk's memorial speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.
 
 Anchored Artifacts: A-1705.1
-Related Nodes: N-2, N-1
+Mentions: N-1, N-2
 Investigative Direction: Obtain full memorial transcript and compare against TPUSA-comparable speeches given by other political widows to assess normality of organizational messaging density.
 
 ---
@@ -434,7 +434,7 @@ Claim Timestamp: 00:06:32
 Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.
 
 Anchored Artifacts: A-1705.1
-Related Nodes: N-2, N-826, N-825
+Mentions: N-2, N-825, N-826
 Investigative Direction: Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.
 
 ---
@@ -446,7 +446,8 @@ Claim Timestamp: 00:13:09
 Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. Stacy Sheridan was the person who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica.
 
 Anchored Artifacts: A-1706.1
-Related Nodes: N-821, N-264, N-2, N-1538
+Mentions: N-2, N-264, N-821
+Related Nodes: N-1538
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
 ---
@@ -458,7 +459,7 @@ Claim Timestamp: 00:26:40
 Claim: Father Blank texted the donor at 6:30am saying "Hope to see you at mass" and indicating "Erika may be there too."
 
 Anchored Artifacts: A-1707.1, A-1706.1
-Related Nodes: N-821, N-2
+Mentions: N-2, N-821
 Investigative Direction: Obtain phone records or screenshots of the actual text thread; verify whether "may be there" phrasing reflects typical priest communication or pre-coordinated signal.
 
 ---
@@ -470,7 +471,7 @@ Claim Timestamp: 00:17:30
 Claim: The Catholic donor arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.
 
 Anchored Artifacts: A-1706.1
-Related Nodes: N-821, N-2
+Mentions: N-2, N-821
 Investigative Direction: Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.
 
 ---
@@ -482,7 +483,7 @@ Claim Timestamp: 00:23:14
 Claim: Charlie Kirk sent a group-chat text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
 
 Anchored Artifacts: A-1708.1
-Related Nodes: N-1, N-2, N-821
+Mentions: N-1, N-2, N-821
 Investigative Direction: Obtain forensic verification of text message origin, timestamp, and sender device; identify the third group-chat participant's account.
 
 ---
@@ -494,7 +495,8 @@ Claim Timestamp: 00:24:55
 Claim: A text from TPUSA "Blank" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a "large and lucrative RV show" originally scheduled that weekend.
 
 Anchored Artifacts: A-1709.1
-Related Nodes: N-822, N-2, N-1537, N-1540
+Mentions: N-2, N-822
+Related Nodes: N-1537, N-1540
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
 ---
@@ -506,7 +508,7 @@ Claim Timestamp: 00:31:07
 Claim: Father Blank responded to the donor's thank-you message with: "God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you."
 
 Anchored Artifacts: A-1706.1
-Related Nodes: N-821, N-2
+Mentions: N-2, N-821
 Investigative Direction: Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance.
 
 ---
@@ -542,7 +544,7 @@ Claim Timestamp: 00:39:28
 Claim: Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
 
 Anchored Artifacts: A-1710.1
-Related Nodes: N-16, N-2
+Mentions: N-2, N-16
 Investigative Direction: Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context.
 
 ---
@@ -554,7 +556,7 @@ Claim Timestamp: 00:47:00
 Claim: Don Lemon is shown on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
 
 Anchored Artifacts: A-1711.1
-Related Nodes: N-823, N-120
+Mentions: N-120, N-823
 Investigative Direction: Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.
 
 ---

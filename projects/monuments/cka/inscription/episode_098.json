@@ -1144,12 +1144,14 @@
         "A-2031.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:09:45",
-      "investigative_direction": "Cross-check via YouTube studio public metrics."
+      "investigative_direction": "Cross-check via YouTube studio public metrics.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1160,12 +1162,13 @@
       "anchored_artifacts": [
         "A-2032.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:55",
-      "investigative_direction": "Confirm sponsors listed match actual podcast ad-read sponsors."
+      "investigative_direction": "Confirm sponsors listed match actual podcast ad-read sponsors.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1176,11 +1179,12 @@
       "anchored_artifacts": [
         "A-2033.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:24:13"
+      "claim_timestamp": "00:24:13",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1243,12 +1247,14 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1210",
         "N-1727"
       ],
       "tags": [],
-      "claim_timestamp": "00:36:00"
+      "claim_timestamp": "00:36:00",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1261,14 +1267,16 @@
         "A-2044.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1210",
         "N-1727",
         "N-1728"
       ],
       "tags": [],
       "claim_timestamp": "00:36:00",
-      "investigative_direction": "Confirm contract date and counterparty from FARA filing."
+      "investigative_direction": "Confirm contract date and counterparty from FARA filing.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1296,11 +1304,13 @@
         "A-2038.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1726"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:03"
+      "claim_timestamp": "00:22:03",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1378,11 +1388,13 @@
         "A-2040.1"
       ],
       "related_nodes": [
-        "N-1728",
-        "N-2"
+        "N-1728"
       ],
       "tags": [],
-      "claim_timestamp": "00:44:39"
+      "claim_timestamp": "00:44:39",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

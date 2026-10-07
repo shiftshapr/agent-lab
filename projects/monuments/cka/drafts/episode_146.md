@@ -421,8 +421,9 @@ Claim Timestamp: 00:02:52
 Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1212, N-1214
+Related Nodes: N-1212, N-1214
 
 Investigative Direction: Cross-reference courthouse visitor logs; reconcile with official attendee lists if released.
 

@@ -518,8 +518,9 @@ Claim Timestamp: 00:01:33
 Claim: Host asserts Clara Molot’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
 
 Anchored Artifacts: A-2459.1, A-2459.2
+Mentions: N-41, N-224
 
-Related Nodes: N-2355, N-2350, N-224, N-41
+Related Nodes: N-2350, N-2355
 
 Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.
 
@@ -532,8 +533,9 @@ Claim Timestamp: 00:06:51
 Claim: Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; writer later states she deflected political conversation in a way that felt disingenuous or incoherent.
 
 Anchored Artifacts: A-2459.1
+Mentions: N-2
 
-Related Nodes: N-2356, N-2
+Related Nodes: N-2356
 
 Investigative Direction: Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window.
 
@@ -546,8 +548,9 @@ Claim Timestamp: 00:10:44
 Claim: When pressed on Israel/Netanyahu, Erika said she does not sit around thinking about what BB is doing and lacks bandwidth beyond honoring Charlie, kids, and building TPUSA—host argues a political CEO requires an opinion.
 
 Anchored Artifacts: A-2459.1
+Mentions: N-2, N-65
 
-Related Nodes: N-2356, N-1121, N-2, N-65
+Related Nodes: N-1121, N-2356
 
 Investigative Direction: Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603).
 
@@ -560,8 +563,9 @@ Claim Timestamp: 00:17:23
 Claim: The profile states Erika, thinking about Air Force 2 optics and a “heaven is my home” shirt, had a TPUSA staffer buy plain black Aloe clothes the next morning; host contrasts prior Elizabeth McCoy “I went for clothes” narrative and calls the PR-forward mindset abnormal.
 
 Anchored Artifacts: A-2460.1
+Mentions: N-2, N-326
 
-Related Nodes: N-2357, N-2, N-326
+Related Nodes: N-2357
 
 Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.
 
@@ -574,8 +578,9 @@ Claim Timestamp: 00:20:37
 Claim: Host disputes Erika’s profile claim that the Amfest Alice + Olivia sparkly suit was the only thing that fit, citing a string of other televised/public outfits across Sept–Dec 2025.
 
 Anchored Artifacts: A-2461.1
+Mentions: N-2, N-444
 
-Related Nodes: N-2355, N-2, N-444
+Related Nodes: N-2355
 
 Investigative Direction: Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”
 
@@ -588,8 +593,9 @@ Claim Timestamp: 00:26:24
 Claim: Doug DeGroot confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.
 
 Anchored Artifacts: A-2462.1
+Mentions: N-1, N-2, N-272, N-796
 
-Related Nodes: N-1288, N-796, N-272, N-1, N-2, N-1264
+Related Nodes: N-1264, N-1288
 
 Investigative Direction: Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy.
 
@@ -602,8 +608,9 @@ Claim Timestamp: 00:24:52
 Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kovette not to focus on her if they dislike her.
 
 Anchored Artifacts: A-2463.1
+Mentions: N-3, N-42, N-50
 
-Related Nodes: N-50, N-42, N-3, N-2355
+Related Nodes: N-2355
 
 Investigative Direction: Confirm quote context in published piece; note host’s declined-to-comment status.
 
@@ -616,8 +623,9 @@ Claim Timestamp: 00:28:36
 Claim: Per Carlson’s conversations with Erika as relayed in the profile, she was more critical of Israel and interventionist foreign policy than Charlie; host contrasts that with her post-death public silence/glowing partnerships.
 
 Anchored Artifacts: A-2463.1
+Mentions: N-2, N-50
 
-Related Nodes: N-50, N-2, N-1121, N-2356
+Related Nodes: N-1121, N-2356
 
 Investigative Direction: Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.
 
@@ -630,8 +638,9 @@ Claim Timestamp: 00:40:02
 Claim: Host asserts attackers shifted from “jealous of Erika / antisemitic” frames to a deranged “cheating lesbian funded by a Zionist” package seeded by a real 2008 college final and fake adjacent accounts.
 
 Anchored Artifacts: A-2464.1
+Mentions: N-3, N-59
 
-Related Nodes: N-2358, N-3, N-59, N-2329
+Related Nodes: N-2329, N-2358
 
 Investigative Direction: Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.
 
@@ -644,8 +653,9 @@ Claim Timestamp: 00:47:45
 Claim: Host claims Wayback/first-archive of the college project is July 9, 2025—the Netanyahu-in-Washington window—and the next day is the July 10 HQ-driven UVU courtyard request; later August archives feed the smear package.
 
 Anchored Artifacts: A-2465.1
+Mentions: N-65
 
-Related Nodes: N-2359, N-2351, N-2354, N-65
+Related Nodes: N-2351, N-2354, N-2359
 
 Investigative Direction: Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional.
 
@@ -658,8 +668,9 @@ Claim Timestamp: 00:50:25
 Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted tweets after capture.
 
 Anchored Artifacts: A-2465.1
+Mentions: N-3, N-66
 
-Related Nodes: N-66, N-2359, N-3
+Related Nodes: N-2359
 
 Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.
 
@@ -672,8 +683,9 @@ Claim Timestamp: 00:30:00
 Claim: Profile/DeGroot state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
 
 Anchored Artifacts: A-2459.1, A-2462.1
+Mentions: N-2, N-796
 
-Related Nodes: N-796, N-2, N-1288
+Related Nodes: N-1288
 
 Investigative Direction: Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.
 

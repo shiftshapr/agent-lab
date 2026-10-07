@@ -722,12 +722,14 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-3",
         "N-1662"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:12:28",
-      "investigative_direction": "Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading."
+      "investigative_direction": "Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -752,12 +754,13 @@
       "anchored_artifacts": [
         "A-1940.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:40",
-      "investigative_direction": "Identify and verify the source clips used in the CNN compilation and their original air dates."
+      "investigative_direction": "Identify and verify the source clips used in the CNN compilation and their original air dates.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -822,12 +825,14 @@
       "related_nodes": [
         "N-1212",
         "N-1213",
-        "N-1",
         "N-1664"
       ],
       "tags": [],
       "claim_timestamp": "00:29:16–00:31:16",
-      "investigative_direction": "Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable."
+      "investigative_direction": "Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -840,13 +845,15 @@
       ],
       "related_nodes": [
         "N-1212",
-        "N-1",
         "N-1663",
         "N-1664"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06–00:31:16",
-      "investigative_direction": "Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions."
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -892,12 +899,14 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1662"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:21:03",
-      "investigative_direction": "Locate the originating posts and timestamps; assess spread velocity and authorship clustering."
+      "investigative_direction": "Locate the originating posts and timestamps; assess spread velocity and authorship clustering.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -926,12 +935,14 @@
       ],
       "related_nodes": [
         "N-1216",
-        "N-1218",
-        "N-3"
+        "N-1218"
       ],
       "tags": [],
       "claim_timestamp": "00:09:01–00:09:34",
-      "investigative_direction": "Verify exact wording against the archived post."
+      "investigative_direction": "Verify exact wording against the archived post.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

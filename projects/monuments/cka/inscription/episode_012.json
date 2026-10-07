@@ -680,12 +680,14 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1212"
       ],
       "tags": [],
       "claim_timestamp": "00:12:16–00:14:30",
-      "investigative_direction": "Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1322) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation."
+      "investigative_direction": "Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1322) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -697,12 +699,14 @@
         "A-1184.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1212"
       ],
       "tags": [],
       "claim_timestamp": "00:14:45–00:15:55",
-      "investigative_direction": "Cross-reference timestamp of \"ran out\" with the 12:23 video metadata (A-1185.1) to determine whether Phil was inside or approaching at the moment of the shot."
+      "investigative_direction": "Cross-reference timestamp of \"ran out\" with the 12:23 video metadata (A-1185.1) to determine whether Phil was inside or approaching at the moment of the shot.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -714,12 +718,14 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1212"
       ],
       "tags": [],
       "claim_timestamp": "00:16:43",
-      "investigative_direction": "Obtain original file with full EXIF metadata; forensically confirm capture time, device, and chain of custody."
+      "investigative_direction": "Obtain original file with full EXIF metadata; forensically confirm capture time, device, and chain of custody.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -731,12 +737,14 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1212"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:35",
-      "investigative_direction": "Compare visible individuals in A-1185.1 with the two companions in the Broderick photo (A-1192.1); determine whether they are the same individuals."
+      "investigative_direction": "Compare visible individuals in A-1185.1 with the two companions in the Broderick photo (A-1192.1); determine whether they are the same individuals.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -748,12 +756,14 @@
         "A-1186.1"
       ],
       "related_nodes": [
-        "N-184",
         "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39–00:11:29",
-      "investigative_direction": "Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates."
+      "investigative_direction": "Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
     },
     {
       "@type": "Claim",
@@ -764,12 +774,13 @@
       "anchored_artifacts": [
         "A-1193.1"
       ],
-      "related_nodes": [
-        "N-184"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:29–00:12:20",
-      "investigative_direction": "Capture and archive the LinkedIn profile as displayed; verify with JP Morgan Chase HR whether the employment record matches."
+      "investigative_direction": "Capture and archive the LinkedIn profile as displayed; verify with JP Morgan Chase HR whether the employment record matches.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
     },
     {
       "@type": "Claim",
@@ -798,13 +809,14 @@
         "A-1192.1",
         "A-1192.2"
       ],
-      "related_nodes": [
-        "N-92",
-        "N-183"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:43–00:07:30",
-      "investigative_direction": "Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later \"cousin, not nephew\" revision."
+      "investigative_direction": "Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later \"cousin, not nephew\" revision.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-183"
+      ]
     },
     {
       "@type": "Claim",
@@ -816,13 +828,15 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-186",
-        "N-102",
         "N-1216"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
-      "investigative_direction": "Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel."
+      "investigative_direction": "Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-186"
+      ]
     },
     {
       "@type": "Claim",
@@ -834,12 +848,14 @@
         "A-1190.1"
       ],
       "related_nodes": [
-        "N-176",
         "N-1217"
       ],
       "tags": [],
       "claim_timestamp": "00:21:52–00:22:45",
-      "investigative_direction": "Confirm continuity between the 1999 Salt Lake County Sheriff's Office Mitchell and the Mike Mitchell referenced in the Charlie Kirk investigation; obtain his full service record."
+      "investigative_direction": "Confirm continuity between the 1999 Salt Lake County Sheriff's Office Mitchell and the Mike Mitchell referenced in the Charlie Kirk investigation; obtain his full service record.",
+      "mentions_person_refs": [
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -851,12 +867,14 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-65",
         "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37–00:35:21",
-      "investigative_direction": "Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim."
+      "investigative_direction": "Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim.",
+      "mentions_person_refs": [
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -881,12 +899,13 @@
       "anchored_artifacts": [
         "A-1187.1"
       ],
-      "related_nodes": [
-        "N-184"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:47–00:10:39",
-      "investigative_direction": "Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion."
+      "investigative_direction": "Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
     },
     {
       "@type": "Claim",
@@ -898,12 +917,14 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-186",
         "N-1216"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
-      "investigative_direction": "Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10."
+      "investigative_direction": "Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10.",
+      "mentions_person_refs": [
+        "N-186"
+      ]
     }
   ],
   "memes": []

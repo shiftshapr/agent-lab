@@ -402,7 +402,8 @@ Claim Timestamp: 00:11:11–00:11:54
 Claim: TPUSA used only the audio (not video) of the alleged Aspen donor event statement as Erika Kirk's walkout music at AmFest.
 
 Anchored Artifacts: A-1928.2
-Related Nodes: N-2, N-1658
+Mentions: N-2
+Related Nodes: N-1658
 Investigative Direction: Obtain and review the AmFest event footage to confirm the audio-only nature of the walkout and trace the audio's source.
 
 **C-2657** Erika Kirk publicly claimed Charlie told Aspen donors he wanted her to take over TPUSA
@@ -412,7 +413,8 @@ Claim Timestamp: 00:08:58–00:10:21
 Claim: On Megan Kelly (Nov 24, 2025), Erika Kirk described a donor question at the Aspen event and stated Charlie Kirk said Erika would do a great job running TPUSA.
 
 Anchored Artifacts: A-1929.1
-Related Nodes: N-2, N-1658, N-1659
+Mentions: N-2
+Related Nodes: N-1658, N-1659
 Investigative Direction: Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
 **C-2658** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
@@ -422,7 +424,8 @@ Claim Timestamp: 00:35:35–00:35:50
 Claim: The verbatim New York Times passage read on air stated Ms. Kirk was sitting in her mother's hospital room at 11:23 a.m. local Phoenix time when she received the call about the shooting.
 
 Anchored Artifacts: A-1930.1
-Related Nodes: N-2, N-1657
+Mentions: N-2
+Related Nodes: N-1657
 Investigative Direction: Retrieve the original NY Times article and verify the precise language used (hospital room vs. clinic vs. treatment center) and the timestamp.
 
 **C-2659** Erika Kirk told Jesse Watters she was at her mother's doctor's appointment when she got the news
@@ -432,7 +435,8 @@ Claim Timestamp: 00:36:46–00:37:30
 Claim: On Jesse Watters, Erika Kirk stated she was at her mom's doctor's appointment when she received the news of Charlie's shooting; host identified an apparent jump cut in the interview.
 
 Anchored Artifacts: A-1931.1
-Related Nodes: N-2, N-1657
+Mentions: N-2
+Related Nodes: N-1657
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
 **C-2660** Blake Neff publicly insisted Charlie repeatedly said he wanted Erika as his successor
@@ -442,7 +446,8 @@ Claim Timestamp: 00:14:16–00:15:40
 Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly said "Erika will take over for me" and that the CEO appointment was not forced by anyone at TPUSA.
 
 Anchored Artifacts: A-1932.2
-Related Nodes: N-2, N-1658
+Mentions: N-2
+Related Nodes: N-1658
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
 **C-2661** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
@@ -452,7 +457,8 @@ Claim Timestamp: 00:16:55–00:17:45
 Claim: Blake Neff on X declined to release the Aspen video and accused Candace Owens of being a "psychopathic predator" who would dismiss the video as AI regardless.
 
 Anchored Artifacts: A-1932.1
-Related Nodes: N-2, N-1658
+Mentions: N-2
+Related Nodes: N-1658
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
 **C-2662** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit
@@ -462,7 +468,8 @@ Claim Timestamp: 00:25:06–00:28:12
 Claim: At the NYT Book Summit, Erika Kirk described her mother as an entrepreneur blueprint, said her parents divorced when she was five, and described herself as formerly "bought into the boss babe" lifestyle.
 
 Anchored Artifacts: A-1933.1
-Related Nodes: N-2, N-1657
+Mentions: N-2
+Related Nodes: N-1657
 Investigative Direction: Verify the question asked and Erika's full answer; cross-reference with earlier statements about her mother's background (single mother vs. stepfather present).
 
 **C-2663** Erika Kirk posted an Instagram video of her mother in frail state on Sept 8, 2025
@@ -472,7 +479,8 @@ Claim Timestamp: 00:34:02–00:35:00
 Claim: Erika Kirk posted an Instagram video of her mother appearing frail and sick on September 8, 2025, two days before Charlie's death.
 
 Anchored Artifacts: A-1934.1
-Related Nodes: N-2, N-1657
+Mentions: N-2
+Related Nodes: N-1657
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
 **C-2664** Trump fired Pam Bondi via social-media statement
@@ -502,7 +510,8 @@ Claim Timestamp: 00:19:47–00:20:41
 Claim: Approximately 16 days after Charlie's death, Erika Kirk publicly stated TPUSA had "decades worth" of Charlie Kirk's voice, unused speeches, and content ready for release.
 
 Anchored Artifacts: A-1936.1
-Related Nodes: N-2, N-1658
+Mentions: N-2
+Related Nodes: N-1658
 Investigative Direction: Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.
 
 **C-2667** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025
@@ -512,7 +521,8 @@ Claim Timestamp: 00:40:55–00:44:53
 Claim: Per host investigation, multiple sources — including an unnamed Phoenix-area doctor and his wife (with federal political ties), a witness via security guard Derek Niekerk, and a Minnesota woman — allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
 
 Anchored Artifacts: A-1931.1
-Related Nodes: N-2, N-1210, N-1657
+Mentions: N-2
+Related Nodes: N-1210, N-1657
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
 **C-2668** 3 of 4 Aspen event attendees contacted by host investigation did not recall Charlie naming Erika
@@ -522,7 +532,8 @@ Claim Timestamp: 00:12:38–00:13:33
 Claim: Per host outreach to four Aspen event attendees (one of whom was a couple), three did not recall Charlie Kirk stating he wanted Erika to take over TPUSA; the fourth (a couple with TPUSA ties beyond a donor relationship) did recall it.
 
 Anchored Artifacts: A-1928.1
-Related Nodes: N-2, N-1659
+Mentions: N-2
+Related Nodes: N-1659
 Investigative Direction: Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.
 
 ---

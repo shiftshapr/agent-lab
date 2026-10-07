@@ -356,7 +356,8 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:11:24
 Claim: The episode presents that Erika Kirk's opening remarks on the corporate-wide Zoom call included laughter, thanks, and memorial metrics including 275,000 attendees and broadcast reach of "over 100 million."
 Anchored Artifacts: A-1676.1
-Related Nodes: N-2, N-1514
+Mentions: N-2
+Related Nodes: N-1514
 Investigative Direction: Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.
 
 **C-2195** Erika Kirk stated staff worked 20-hour days during the week of the memorial
@@ -364,7 +365,7 @@ Investigative Direction: Obtain full 15-minute Zoom call audio for content and t
 Claim Timestamp: 00:11:24
 Claim: The episode presents Erika Kirk telling the call that "a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week."
 Anchored Artifacts: A-1676.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.
 
 **C-2196** Erika Kirk advised employees that paid time off is available if they need more time to grieve
@@ -372,7 +373,8 @@ Investigative Direction: Cross-reference staff schedules, payroll records, and c
 Claim Timestamp: 00:15:47
 Claim: The episode presents Erika Kirk telling employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.
 Anchored Artifacts: A-1676.2
-Related Nodes: N-2, N-1514
+Mentions: N-2
+Related Nodes: N-1514
 Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.
 
 **C-2197** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
@@ -380,7 +382,8 @@ Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employe
 Claim Timestamp: 00:20:47
 Claim: The episode presents Erika Kirk stating Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
 Anchored Artifacts: A-1676.3
-Related Nodes: N-2, N-792, N-1515
+Mentions: N-2, N-792
+Related Nodes: N-1515
 Investigative Direction: Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.
 
 **C-2198** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
@@ -388,7 +391,8 @@ Investigative Direction: Obtain TPUSA board minutes, executive announcements reg
 Claim Timestamp: 00:20:47
 Claim: The episode presents Erika Kirk stating: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
 Anchored Artifacts: A-1676.3
-Related Nodes: N-2, N-1515
+Mentions: N-2
+Related Nodes: N-1515
 Investigative Direction: Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel.
 
 **C-2199** Erika Kirk used the phrase "Turning Point USA 2.0"
@@ -396,7 +400,7 @@ Investigative Direction: Establish provenance, chain of custody, and authenticit
 Claim Timestamp: 00:14:29
 Claim: The episode presents Erika Kirk stating on the call: "we are moving forward turning point USA 2.0 with Charlie in our hearts."
 Anchored Artifacts: A-1676.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Determine whether "TPUSA 2.0" branding has been formally adopted in organizational materials, IRS filings, or governance documents.
 
 **C-2200** Erika Kirk described becoming a single mother as "the least traumatizing thing" in a NYT interview
@@ -404,7 +408,7 @@ Investigative Direction: Determine whether "TPUSA 2.0" branding has been formall
 Claim Timestamp: 00:07:45
 Claim: The episode presents a quoted excerpt from the NYT profile in which Erika Kirk, eight days after Charlie's assassination, characterizes single motherhood as "actually the least traumatizing thing for me since she herself has been raised by her mother after their parents divorced when she was young."
 Anchored Artifacts: A-1679.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Verify full NYT article text and date of publication; compare framing against prior public statements by Erika Kirk regarding the timing of the interview.
 
 **C-2201** Charlie Kirk texted Candace Owens in 2018 saying he knew from the start of TPUSA he might die
@@ -412,7 +416,7 @@ Investigative Direction: Verify full NYT article text and date of publication; c
 Claim Timestamp: 00:26:33
 Claim: The episode presents a 2018 text message from Charlie Kirk to Candace Owens stating: "Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time … I dream about it all the time … I'm not sure I'm going to live to see the end of this revolution."
 Anchored Artifacts: A-1677.1
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety.
 
 **C-2202** Atlantic article reports Bill Montgomery met Charlie at Benedictine University in May 2012 and co-founded TPUSA
@@ -420,7 +424,7 @@ Investigative Direction: Authenticate the text via metadata (date, device, recip
 Claim Timestamp: 00:27:32
 Claim: The episode presents an Atlantic article excerpt (quoting a National Journal source) reporting Bill Montgomery met Charlie Kirk at Benedictine University in the western Chicago suburb during a youth government day in May 2012 and that TPUSA launched a month later with Montgomery's encouragement.
 Anchored Artifacts: A-1678.1
-Related Nodes: N-724, N-1
+Mentions: N-1, N-724
 Investigative Direction: Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.
 
 **C-2203** Christian Zionist threat message identified as authored by Lorie Cardardoza Moore via audio matching
@@ -428,7 +432,8 @@ Investigative Direction: Locate the full Atlantic article; cross-check Bill Mont
 Claim Timestamp: 00:39:08
 Claim: The episode presents that audio of Lorie Cardardoza Moore ranting in her car matches the content of the previously circulated Christian Zionist threat message, identifying her as its author.
 Anchored Artifacts: A-1680.1, A-1681.1
-Related Nodes: N-793, N-1516
+Mentions: N-793
+Related Nodes: N-1516
 Investigative Direction: Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
 **C-2204** Voice matching identifies Lorie Cardardoza Moore on a 1-900 romance hotline recording
@@ -436,7 +441,7 @@ Investigative Direction: Obtain independent forensic voice comparison; verify Lo
 Claim Timestamp: 00:41:47
 Claim: The episode presents that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement, indicating prior acting/performer work.
 Anchored Artifacts: A-1682.1
-Related Nodes: N-793
+Mentions: N-793
 Investigative Direction: Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.
 
 **C-2205** Erika Kirk gave an in-person NYT interview on September 18, 2025
@@ -444,7 +449,7 @@ Investigative Direction: Establish provenance and dating of the romance hotline 
 Claim Timestamp: 00:06:44
 Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 — eight days after Charlie's public assassination.
 Anchored Artifacts: A-1679.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary.
 
 ---

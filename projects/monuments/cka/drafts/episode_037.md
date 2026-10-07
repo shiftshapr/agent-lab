@@ -442,8 +442,9 @@ Claim Timestamp: 00:08:24
 Claim: A week-long training exercise named Operation Valhalla Strike was conducted by the 891st Squadron from Minot AFB at Camp Ripley Training Center in Minnesota from August 24 to August 29, 2025.
 
 Anchored Artifacts: A-1451.1
+Mentions: N-102
 
-Related Nodes: N-102, N-1344, N-1348, N-1349, N-1350
+Related Nodes: N-1344, N-1348, N-1349, N-1350
 
 Investigative Direction: Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.
 
@@ -484,8 +485,8 @@ Claim Timestamp: 00:01:47
 Claim: In a Prager News Network interview (date unspecified), Charlie Kirk named Jesus Christ first and then Julius Caesar among his favorite historical figures, citing Caesar's military conquests, civil war survival, and assassination by the people he benefited.
 
 Anchored Artifacts: A-1452.1
+Mentions: N-1, N-3
 
-Related Nodes: N-1, N-3
 
 Investigative Direction: Locate original PragerU upload date and full interview context.
 
@@ -498,8 +499,9 @@ Claim Timestamp: 00:09:53
 Claim: At a press conference dated September 12, 2025, FBI Director Kash Patel closed by saying to Charlie Kirk: "Lastly, to my friend Charlie Kirk, rest now, brother. We have the watch and I'll see you in Valhalla."
 
 Anchored Artifacts: A-1453.1
+Mentions: N-102
 
-Related Nodes: N-102, N-1344
+Related Nodes: N-1344
 
 Investigative Direction: Compare to full Patel press conference record on FBI.gov or C-SPAN.
 
@@ -512,8 +514,9 @@ Claim Timestamp: 00:05:34
 Claim: Per a military tipster email, the Egyptian military BTT aircraft stopped for approximately one hour at Minot, North Dakota on September 4, 2025 before continuing to Provo.
 
 Anchored Artifacts: A-1454.1
+Mentions: N-102
 
-Related Nodes: N-102, N-1345, N-1348
+Related Nodes: N-1345, N-1348
 
 Investigative Direction: Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA.
 
@@ -540,8 +543,9 @@ Claim Timestamp: 00:06:30
 Claim: Per the military tipster email, the 891st MSFS had "just come off of" Operation Valhalla, a training exercise in Minnesota from August 24 to 29, immediately prior to BTT's September 4 stopover at Minot.
 
 Anchored Artifacts: A-1454.1
+Mentions: N-102
 
-Related Nodes: N-102, N-1344, N-1345, N-1348, N-1349
+Related Nodes: N-1344, N-1345, N-1348, N-1349
 
 Investigative Direction: Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4.
 
@@ -554,8 +558,9 @@ Claim Timestamp: 00:12:13
 Claim: On or around July 22, 2025, Nebraska Secretary of State Bob Evan announced a trade and investment mission to Egypt scheduled for October 26 through November 2.
 
 Anchored Artifacts: A-1455.1
+Mentions: N-445
 
-Related Nodes: N-445, N-1347
+Related Nodes: N-1347
 
 Investigative Direction: Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates.
 
@@ -568,8 +573,8 @@ Claim Timestamp: 00:26:00
 Claim: Mike Huckabee and former U.S. Ambassador David Friedman performed "Sweet Home Alabama" (variation "Sweet Home Jerusalem") on stage in Jerusalem in October 2025.
 
 Anchored Artifacts: A-1456.1
+Mentions: N-439, N-441
 
-Related Nodes: N-439, N-441
 
 Investigative Direction: Identify the event organizer, venue, and date.
 
@@ -582,8 +587,8 @@ Claim Timestamp: 00:26:15
 Claim: Mike Huckabee met with Jonathan Pollard, a convicted Israeli spy who served 30 years in U.S. prison; Huckabee had previously advocated for Pollard's release.
 
 Anchored Artifacts: A-1457.1
+Mentions: N-439, N-440
 
-Related Nodes: N-439, N-440
 
 Investigative Direction: Identify the headline outlet and obtain the underlying interview/transcript from Pollard.
 
@@ -596,8 +601,8 @@ Claim Timestamp: 00:28:14
 Claim: White House Press Secretary Karoline Leavitt stated at a briefing that the White House was not aware of the Huckabee–Pollard meeting in advance, but that the President stands by the ambassador.
 
 Anchored Artifacts: A-1458.1
+Mentions: N-439, N-440, N-446
 
-Related Nodes: N-439, N-440, N-446
 
 Investigative Direction: Locate full White House briefing transcript or video.
 
@@ -610,8 +615,9 @@ Claim Timestamp: 00:29:33
 Claim: Ashley Rinzberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the "economics of high engagement political content on YouTube and podcast platforms," specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Breit series, along with five business-metric questions.
 
 Anchored Artifacts: A-1459.1
+Mentions: N-3, N-442
 
-Related Nodes: N-3, N-442, N-1351, N-1352
+Related Nodes: N-1351, N-1352
 
 Investigative Direction: Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.
 

@@ -231,8 +231,9 @@ Claim Timestamp: 00:03:03
 Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 — less than 36 hours after Charlie Kirk's death — to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
 
 Anchored Artifacts: A-1283.2
+Mentions: N-45
 
-Related Nodes: N-45, N-1266
+Related Nodes: N-1266
 
 Investigative Direction: Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.
 
@@ -259,8 +260,9 @@ Claim Timestamp: 00:04:30
 Claim: The citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder/co-chairman of TPUSA Faith points to an article dated November 24, 2024, with additional citations dated September 10 and September 2025.
 
 Anchored Artifacts: A-1284.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1266
+Related Nodes: N-1266
 
 Investigative Direction: Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled.
 
@@ -273,8 +275,9 @@ Claim Timestamp: 00:04:30
 Claim: The November 24, 2024 article cited as source for McCoy's "co-founder/co-chairman" status does not, per the host's reading, contain text stating that McCoy was a co-founder or chairman of TPUSA Faith.
 
 Anchored Artifacts: A-1284.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1266
+Related Nodes: N-1266
 
 Investigative Direction: Obtain the cited article directly and check for the phrases "co-founder," "chairman," "co-chairman," and any reference to TPUSA Faith.
 
@@ -287,8 +290,9 @@ Claim Timestamp: 00:15:35
 Claim: The only Truth Social post by President Trump that could be read as calling for "further investigation" into Charlie Kirk's death is, in its actual text, directed at Jack Smith's investigation of Turning Point USA and unrelated to the Kirk murder inquiry.
 
 Anchored Artifacts: A-1285.1
+Mentions: N-4
 
-Related Nodes: N-4, N-1268
+Related Nodes: N-1268
 
 Investigative Direction: Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly.
 
@@ -315,8 +319,9 @@ Claim Timestamp: 00:21:37
 Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
 
 Anchored Artifacts: A-1286.1
+Mentions: N-182
 
-Related Nodes: N-1268, N-182
+Related Nodes: N-1268
 
 Investigative Direction: Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.
 
@@ -329,8 +334,8 @@ Claim Timestamp: 00:13:10
 Claim: President Trump signed or otherwise established October 14 — Charlie Kirk's birthday — as a national day of remembrance for Charlie Kirk.
 
 Anchored Artifacts: A-1289.1
+Mentions: N-1, N-4
 
-Related Nodes: N-4, N-1
 
 Investigative Direction: Locate the relevant proclamation in the Federal Register or White House archive to confirm date, scope, and signing date.
 
@@ -343,8 +348,9 @@ Claim Timestamp: 00:32:12
 Claim: In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.
 
 Anchored Artifacts: A-1287.1
+Mentions: N-75
 
-Related Nodes: N-75, N-1268
+Related Nodes: N-1268
 
 Investigative Direction: Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.
 
@@ -357,8 +363,8 @@ Claim Timestamp: 00:33:50
 Claim: In the same Megyn Kelly interview, Don Trump Jr. did not directly answer the first question about confidence in the FBI investigation, pivoting to remarks about continuing Kirk's work; only after Kelly re-asked the question did he state that he had confidence.
 
 Anchored Artifacts: A-1287.1
+Mentions: N-75
 
-Related Nodes: N-75
 
 Investigative Direction: Confirm sequence of statements in the unedited interview.
 
@@ -371,8 +377,9 @@ Claim Timestamp: 00:03:03
 Claim: The host asserts, as a position, that Rob McCoy was not the founder or co-founder of TPUSA Faith and was at most placed on an advisory board; the host's stated firsthand knowledge (via prior involvement with TPUSA Faith conversations at Liberty University) is offered as the basis.
 
 Anchored Artifacts: A-1283.2
+Mentions: N-45
 
-Related Nodes: N-45, N-1266
+Related Nodes: N-1266
 
 Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.
 
@@ -385,8 +392,9 @@ Claim Timestamp: 00:35:31
 Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account — specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.
 
 Anchored Artifacts: A-1287.1
+Mentions: N-75
 
-Related Nodes: N-75, N-1268
+Related Nodes: N-1268
 
 Investigative Direction: This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.
 
@@ -399,8 +407,8 @@ Claim Timestamp: 00:39:19
 Claim: In a trailer for an upcoming Candace Owens interview, Norman Finkelstein is shown quoting The Economist and a UN official describing Gaza as a "human rubbish heap" / "toxic dump," and asserts that a "billionaire class of Jewish supremacists" uses money as a blackmail weapon to silence critics of an ongoing genocide.
 
 Anchored Artifacts: A-1288.1
+Mentions: N-288
 
-Related Nodes: N-288
 
 Investigative Direction: Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.
 

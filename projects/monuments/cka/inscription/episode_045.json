@@ -512,12 +512,13 @@
       "anchored_artifacts": [
         "A-1525.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:31",
-      "investigative_direction": "Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried."
+      "investigative_direction": "Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -528,12 +529,13 @@
       "anchored_artifacts": [
         "A-1525.2"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:34",
-      "investigative_direction": "Compile catalog of identified TPUSA staff statements that have been disputed and assess whether Erika's characterization matches the underlying record."
+      "investigative_direction": "Compile catalog of identified TPUSA staff statements that have been disputed and assess whether Erika's characterization matches the underlying record.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -544,13 +546,14 @@
       "anchored_artifacts": [
         "A-1526.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:28",
-      "investigative_direction": "Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history."
+      "investigative_direction": "Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -561,13 +564,14 @@
       "anchored_artifacts": [
         "A-1527.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-44"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:45",
-      "investigative_direction": "Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records."
+      "investigative_direction": "Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-44"
+      ]
     },
     {
       "@type": "Claim",
@@ -578,12 +582,13 @@
       "anchored_artifacts": [
         "A-1528.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:32",
-      "investigative_direction": "Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series."
+      "investigative_direction": "Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -594,13 +599,14 @@
       "anchored_artifacts": [
         "A-1528.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:45",
-      "investigative_direction": "Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue."
+      "investigative_direction": "Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -611,12 +617,13 @@
       "anchored_artifacts": [
         "A-1528.3"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:46",
-      "investigative_direction": "Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps."
+      "investigative_direction": "Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -659,12 +666,14 @@
         "A-1530.1"
       ],
       "related_nodes": [
-        "N-1403",
-        "N-98"
+        "N-1403"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
-      "investigative_direction": "Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists."
+      "investigative_direction": "Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.",
+      "mentions_person_refs": [
+        "N-98"
+      ]
     },
     {
       "@type": "Claim",
@@ -675,12 +684,13 @@
       "anchored_artifacts": [
         "A-1532.2"
       ],
-      "related_nodes": [
-        "N-518"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:00",
-      "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters."
+      "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.",
+      "mentions_person_refs": [
+        "N-518"
+      ]
     },
     {
       "@type": "Claim",
@@ -738,13 +748,14 @@
         "A-1531.2",
         "A-1531.4"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis."
+      "investigative_direction": "Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     }
   ],
   "memes": []

@@ -486,8 +486,9 @@ Claim Timestamp: 00:33:31
 Claim: The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025.
 
 Anchored Artifacts: A-1948.1
+Mentions: N-69
 
-Related Nodes: N-69, N-1217, N-1668
+Related Nodes: N-1217, N-1668
 
 Investigative Direction: Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.
 
@@ -500,8 +501,9 @@ Claim Timestamp: 00:33:31
 Claim: During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with attorney Doug Terry and noted Terry's office was closed.
 
 Anchored Artifacts: A-1948.1
+Mentions: N-69
 
-Related Nodes: N-69, N-1217
+Related Nodes: N-1217
 
 Investigative Direction: Verify attorney representation records and the authenticity of the cited interview timestamp.
 
@@ -514,8 +516,9 @@ Claim Timestamp: 00:47:08
 Claim: In a state filing on preliminary-hearing evidence, the prosecution states it does not intend to offer evidence obtained through forensic extractions of electronics seized in the case, while reserving the right to show photographs of text-message contents captured from a device.
 
 Anchored Artifacts: A-1948.2
+Mentions: N-69
 
-Related Nodes: N-69, N-1215, N-1670
+Related Nodes: N-1215, N-1670
 
 Investigative Direction: Obtain the underlying filing directly and confirm language; assess chain-of-custody implications.
 
@@ -528,8 +531,9 @@ Claim Timestamp: 00:12:25
 Claim: An audio recording played in the episode contains the phrase "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job."
 
 Anchored Artifacts: A-1949.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1669
+Related Nodes: N-1669
 
 Investigative Direction: Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA.
 
@@ -556,8 +560,9 @@ Claim Timestamp: 00:21:42
 Claim: An internal Alliance Defending Freedom CEO video played in the episode references working with Erika Kirk's team on litigation strategy concerning Candace Owens.
 
 Anchored Artifacts: A-1951.1
+Mentions: N-2, N-3
 
-Related Nodes: N-1234, N-2, N-3, N-1671
+Related Nodes: N-1234, N-1671
 
 Investigative Direction: Authenticate the internal video; obtain the underlying ADF board materials.
 
@@ -626,8 +631,9 @@ Claim Timestamp: 00:42:44
 Claim: A Discord statement published in The Hill on September 12, 2025, asserts that Discord identified an account associated with the suspect but found no evidence the suspect planned the incident or promoted violence on Discord.
 
 Anchored Artifacts: A-1955.1
+Mentions: N-69
 
-Related Nodes: N-69, N-1215, N-1233, N-1673
+Related Nodes: N-1215, N-1233, N-1673
 
 Investigative Direction: Retrieve the original Discord statement and The Hill article for exact text.
 
@@ -640,8 +646,9 @@ Claim Timestamp: 00:40:19
 Claim: Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents.
 
 Anchored Artifacts: A-1956.1
+Mentions: N-69
 
-Related Nodes: N-69, N-1668
+Related Nodes: N-1668
 
 Investigative Direction: Obtain the search warrant docket entry and verify exact time/date stamps.
 
@@ -654,8 +661,9 @@ Claim Timestamp: 00:12:25–00:16:01
 Claim: Host testifies that two TPUSA donors who attended the Aspen investor retreat contacted her to state that Charlie Kirk did not make the "I appoint my wife" statement at that event, and that Erika Kirk was not mentioned in a smaller follow-up dinner.
 
 Anchored Artifacts: A-1957.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1669
+Related Nodes: N-1669
 
 Investigative Direction: Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists.
 
@@ -668,8 +676,9 @@ Claim Timestamp: 00:47:50
 Claim: Per the filing excerpt read aloud, the state intends to offer two exhibits that used cameras to record the contents of text messages, rather than forensic-extraction evidence.
 
 Anchored Artifacts: A-1948.2
+Mentions: N-69
 
-Related Nodes: N-69, N-1215, N-1670, N-1673
+Related Nodes: N-1215, N-1670, N-1673
 
 Investigative Direction: Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.
 
@@ -696,8 +705,9 @@ Claim Timestamp: 00:43:32
 Claim: Host asserts (based on the Discord statement and subsequent federal characterization) that the federal government initially described the messages as Discord and later revised the description to iMessage.
 
 Anchored Artifacts: A-1955.1
+Mentions: N-69
 
-Related Nodes: N-69, N-1215, N-1233, N-1673
+Related Nodes: N-1215, N-1233, N-1673
 
 Investigative Direction: Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.
 

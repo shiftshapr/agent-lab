@@ -240,7 +240,8 @@ Claim Timestamp: 00:12:20
 Claim: The displayed text exchange documents Charlie Kirk informing Candace Owens that "the White House" asked him to call her, with Kirk characterizing himself as "just the messenger here, but it's important."
 
 Anchored Artifacts: A-1445.1
-Related Nodes: N-1, N-3, N-1341
+Mentions: N-1, N-3
+Related Nodes: N-1341
 Investigative Direction: Authenticate text message metadata; identify the specific White House staffer or office referenced; cross-reference with White House call logs.
 
 ---
@@ -252,7 +253,8 @@ Claim Timestamp: 00:12:20
 Claim: The displayed text exchange documents Charlie Kirk informing host that "The White House just asked for your number FYI. I think POTUS might call you."
 
 Anchored Artifacts: A-1445.1
-Related Nodes: N-1, N-3, N-1341
+Mentions: N-1, N-3
+Related Nodes: N-1341
 Investigative Direction: Cross-reference with the host's separately claimed Feb 26 Trump call; verify call records; confirm POTUS-side initiator.
 
 ---
@@ -264,7 +266,8 @@ Claim Timestamp: 00:18:38
 Claim: Displayed legal-team communication asserts the Macron lawsuit should be moved/dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, Tennessee-based witnesses, and Macron parties not being Delaware citizens.
 
 Anchored Artifacts: A-1446.1
-Related Nodes: N-3, N-1341
+Mentions: N-3
+Related Nodes: N-1341
 Investigative Direction: Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion.
 
 ---
@@ -276,7 +279,8 @@ Claim Timestamp: 00:34:36
 Claim: Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.
 
 Anchored Artifacts: A-1447.1, A-1448.1
-Related Nodes: N-424, N-434, N-435, N-344, N-1343
+Mentions: N-344, N-424, N-434, N-435
+Related Nodes: N-1343
 Investigative Direction: Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.
 
 ---
@@ -288,7 +292,8 @@ Claim Timestamp: 00:34:36
 Claim: The text exchange as read in the episode documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response "I got you covered."
 
 Anchored Artifacts: A-1448.1
-Related Nodes: N-434, N-435, N-1343
+Mentions: N-434, N-435
+Related Nodes: N-1343
 Investigative Direction: Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.
 
 ---
@@ -300,7 +305,8 @@ Claim Timestamp: 00:41:28
 Claim: KUTV investigative report documents that Washington County Sheriff's office responded to records requests stating there were no records responsive to requests for surveillance footage of Tyler Robinson at the facility.
 
 Anchored Artifacts: A-1449.1
-Related Nodes: N-437, N-1342
+Mentions: N-437
+Related Nodes: N-1342
 Investigative Direction: Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.
 
 ---
@@ -312,7 +318,8 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff's office response to the generalized records request, as reported by KUTV, stated that "the surveillance footage is no longer available after the 30-day retention period."
 
 Anchored Artifacts: A-1449.1
-Related Nodes: N-437, N-1342
+Mentions: N-437
+Related Nodes: N-1342
 Investigative Direction: Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.
 
 ---
@@ -324,7 +331,8 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff Nate Brooksby, in his September 17, 2025 press conference as reported by KUTV, stated: "Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives."
 
 Anchored Artifacts: A-1449.1
-Related Nodes: N-437, N-1342
+Mentions: N-437
+Related Nodes: N-1342
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
 ---

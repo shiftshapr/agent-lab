@@ -522,8 +522,9 @@ Claim Timestamp: 00:16:55
 Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "often at the center of national security leaks."
 
 Anchored Artifacts: A-1867.1
+Mentions: N-209
 
-Related Nodes: N-1214, N-1619, N-209
+Related Nodes: N-1214, N-1619
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 
@@ -550,8 +551,9 @@ Claim Timestamp: 00:31:39
 Claim: The Turning Point USA University of Arkansas chapter announced it is disaffiliating from the national organization.
 
 Anchored Artifacts: A-1869.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1217, N-1618, N-1, N-2
+Related Nodes: N-1217, N-1618
 
 Investigative Direction: Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.
 
@@ -746,8 +748,9 @@ Claim Timestamp: 00:31:39
 Claim: Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1215, N-1618
+Related Nodes: N-1215, N-1618
 
 Investigative Direction: Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.
 
@@ -760,8 +763,9 @@ Claim Timestamp: 00:31:39
 Claim: Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
+Mentions: N-2
 
-Related Nodes: N-1215, N-2, N-1618
+Related Nodes: N-1215, N-1618
 
 Investigative Direction: Obtain the actual proclamation text from the Arkansas Secretary of State's office.
 

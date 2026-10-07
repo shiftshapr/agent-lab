@@ -494,8 +494,9 @@ Claim Timestamp: 00:05:20
 Claim: The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
 
 Anchored Artifacts: A-2452.1, A-2451.1
+Mentions: N-30, N-424, N-434
 
-Related Nodes: N-2350, N-2329, N-424, N-434, N-2092, N-30
+Related Nodes: N-2092, N-2329, N-2350
 
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
@@ -508,8 +509,9 @@ Claim Timestamp: 00:04:22
 Claim: Host asserts Erika Kirk / TPUSA public messaging about wanting answers is contradicted by the organization’s documented non-response to the UVU third-party review, while communicators such as Andrew Kovette and Blake Neff continued transparency rhetoric.
 
 Anchored Artifacts: A-2451.1, A-2452.1
+Mentions: N-2, N-42, N-224
 
-Related Nodes: N-2, N-42, N-224, N-2350, N-2329
+Related Nodes: N-2329, N-2350
 
 Investigative Direction: Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review.
 
@@ -522,8 +524,9 @@ Claim Timestamp: 00:14:22
 Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard—characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
+Mentions: N-30
 
-Related Nodes: N-2351, N-2073, N-1291, N-30
+Related Nodes: N-1291, N-2073, N-2351
 
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
@@ -536,8 +539,9 @@ Claim Timestamp: 00:35:31
 Claim: Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.
 
 Anchored Artifacts: A-2451.3
+Mentions: N-30
 
-Related Nodes: N-2351, N-1313, N-2073, N-30
+Related Nodes: N-1313, N-2073, N-2351
 
 Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.
 
@@ -550,8 +554,9 @@ Claim Timestamp: 00:45:34
 Claim: Brian Harpole stated on Shawn Ryan’s podcast that UVU selected the venue and told TPUSA where the event had to be held; the independent review’s interviews indicate UVU expressed concerns about the outdoor location and that TPUSA pushed the courtyard site.
 
 Anchored Artifacts: A-2453.1, A-2451.3
+Mentions: N-344, N-424
 
-Related Nodes: N-2353, N-424, N-344, N-1313, N-2063
+Related Nodes: N-1313, N-2063, N-2353
 
 Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.
 
@@ -564,8 +569,9 @@ Claim Timestamp: 00:47:38
 Claim: Host, following the review, asserts Harpole’s podcast remarks about Provo airport airspace constraints, UVUPD drone unavailability, and federal-law barriers to rooftop counter-snipers are inconsistent with other evidence and with options available had rooftop overwatch been a genuine priority (e.g., Fugal Gateway building unmanned).
 
 Anchored Artifacts: A-2453.1
+Mentions: N-424
 
-Related Nodes: N-2353, N-424, N-1720, N-2063
+Related Nodes: N-1720, N-2063, N-2353
 
 Investigative Direction: Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.
 
@@ -578,8 +584,9 @@ Claim Timestamp: 00:28:35
 Claim: Per the review as read by the host, Chief Jeff Long contacted Utah SIAC on September 10 regarding an anonymous threat referencing an electromagnetic-pulse device that a suspect might use at the event.
 
 Anchored Artifacts: A-2454.1
+Mentions: N-435
 
-Related Nodes: N-2352, N-435
+Related Nodes: N-2352
 
 Investigative Direction: FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.
 
@@ -592,8 +599,9 @@ Claim Timestamp: 00:25:32
 Claim: The review timeline as presented states that around T-minus-7 days TPUSA could not or did not provide ticket totals to campus police, and that Chief Long did not initiate mutual-aid requests partly because external resources were not requested in a context where TPUSA controlled registration/wristbands nationally.
 
 Anchored Artifacts: A-2455.1
+Mentions: N-434, N-435
 
-Related Nodes: N-435, N-434, N-2092, N-2329
+Related Nodes: N-2092, N-2329
 
 Investigative Direction: Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.
 
@@ -606,8 +614,9 @@ Claim Timestamp: 00:56:42
 Claim: Host claims Charlie Kirk’s July 2025 pressures (post–White House/BB confrontation and Instagram purge in June; Epstein-coverage walk-back ~July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; Hamptons retreat) form a suspicious concurrent backdrop to the July 10 HQ-driven UVU courtyard request.
 
 Anchored Artifacts: A-2456.1
+Mentions: N-1
 
-Related Nodes: N-2354, N-1, N-2073, N-2351
+Related Nodes: N-2073, N-2351, N-2354
 
 Investigative Direction: Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference.
 
@@ -620,8 +629,9 @@ Claim Timestamp: 01:12:05
 Claim: Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Maycee Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence—not as proof of UVU-event causation.
 
 Anchored Artifacts: A-2457.1
+Mentions: N-30, N-40
 
-Related Nodes: N-2351, N-30, N-40
+Related Nodes: N-2351
 
 Investigative Direction: Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”
 
@@ -634,8 +644,9 @@ Claim Timestamp: 00:01:46
 Claim: Host asserts the Kirk family’s statement blaming UVU security was a hasty preemptive strike issued with knowledge the independent review was about to become public (crediting Baron Coleman for first reporting the review’s imminence).
 
 Anchored Artifacts: A-2451.1, A-2458.1
+Mentions: N-2
 
-Related Nodes: N-2329, N-2350, N-2
+Related Nodes: N-2329, N-2350
 
 Investigative Direction: Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary.
 
@@ -648,8 +659,9 @@ Claim Timestamp: 01:22:32
 Claim: In responding to a viewer EMP comment, host restates that security cameras went out for a couple of crucial minutes shortly before Charlie Kirk was hit, tying interest in the SIAC EMP-threat tip to that prior observation.
 
 Anchored Artifacts: A-2458.1, A-2454.1
+Mentions: N-1
 
-Related Nodes: N-2352, N-1
+Related Nodes: N-2352
 
 Investigative Direction: Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed.
 

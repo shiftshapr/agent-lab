@@ -508,12 +508,13 @@
       "anchored_artifacts": [
         "A-2416.1"
       ],
-      "related_nodes": [
-        "N-36"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:40",
-      "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction."
+      "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
     },
     {
       "@type": "Claim",
@@ -610,12 +611,13 @@
         "A-2422.2",
         "A-2422.3"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:24",
-      "investigative_direction": "Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs."
+      "investigative_direction": "Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

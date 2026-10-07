@@ -456,6 +456,7 @@ Claim Timestamp: 00:02:09
 Claim: CBS News, citing a person familiar with the matter, reported the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia, including to the Vice President as protectee.
 
 Anchored Artifacts: A-1981.1
+Contradicts: C-2724, C-2728
 
 Related Nodes: N-1212, N-1692, N-1691
 
@@ -708,6 +709,7 @@ Claim Timestamp: 00:02:09–00:13:38
 Claim: Erika Kirk's public cancellation reason (a "credible threat" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.
 
 Anchored Artifacts: A-1981.1 (Secret Service side); A-1991.1 (insider side acknowledging non-security factors)
+Contradicts: C-2744
 
 Related Nodes: N-1691, N-1692
 

@@ -654,12 +654,14 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2074"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
-      "investigative_direction": "Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account."
+      "investigative_direction": "Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -671,12 +673,14 @@
         "A-2086.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2075"
       ],
       "tags": [],
       "claim_timestamp": "00:18:25",
-      "investigative_direction": "Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements."
+      "investigative_direction": "Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -688,12 +692,14 @@
         "A-2086.2"
       ],
       "related_nodes": [
-        "N-1",
         "N-2075"
       ],
       "tags": [],
       "claim_timestamp": "00:20:48",
-      "investigative_direction": "Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account."
+      "investigative_direction": "Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -705,12 +711,14 @@
         "A-2086.3"
       ],
       "related_nodes": [
-        "N-1",
         "N-2075"
       ],
       "tags": [],
       "claim_timestamp": "00:21:43",
-      "investigative_direction": "Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues."
+      "investigative_direction": "Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -722,13 +730,15 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-4",
-        "N-6",
         "N-2077"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38",
-      "investigative_direction": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings."
+      "investigative_direction": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -740,13 +750,15 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-4",
-        "N-6",
         "N-2077"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
-      "investigative_direction": "Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript."
+      "investigative_direction": "Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-6"
+      ]
     },
     {
       "@type": "Claim",
@@ -758,12 +770,14 @@
         "A-2087.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2076"
       ],
       "tags": [],
       "claim_timestamp": "00:13:23",
-      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments."
+      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -776,12 +790,14 @@
         "A-2089.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2076"
       ],
       "tags": [],
       "claim_timestamp": "00:14:51",
-      "investigative_direction": "Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis."
+      "investigative_direction": "Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -794,12 +810,14 @@
         "A-2088.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2076"
       ],
       "tags": [],
       "claim_timestamp": "00:15:51",
-      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology."
+      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -812,12 +830,14 @@
         "A-2091.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-2078"
       ],
       "tags": [],
       "claim_timestamp": "00:39:46",
-      "investigative_direction": "Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison."
+      "investigative_direction": "Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

@@ -629,8 +629,9 @@ Claim Timestamp: 00:02:41
 Claim: Tyler Bowyer publicly stated he has had "numerous things like this said about us" and characterized such reporting as "reckless disregard for truth from people who call themselves investigators."
 
 Anchored Artifacts: A-2064.1
+Mentions: N-37, N-70
 
-Related Nodes: N-70, N-2065, N-37
+Related Nodes: N-2065
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 
@@ -657,8 +658,9 @@ Claim Timestamp: 00:04:12
 Claim: Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying "I appoint my wife to run Turning Point USA if something happens to me" was faked, and that the moment never happened. Candace states this report has been on the desk for 39 days as of this episode.
 
 Anchored Artifacts: A-2066.1, A-2066.2, A-2069.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1214, N-2061
+Related Nodes: N-1214, N-2061
 
 Investigative Direction: Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip.
 
@@ -671,8 +673,9 @@ Claim Timestamp: 00:05:53
 Claim: The audio clip released by Turning Point USA contains Charlie Kirk stating three times "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job."
 
 Anchored Artifacts: A-2066.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2061
+Related Nodes: N-2061
 
 Investigative Direction: Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice.
 
@@ -713,8 +716,9 @@ Claim Timestamp: 00:09:42
 Claim: John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.
 
 Anchored Artifacts: A-2069.1
+Mentions: N-1
 
-Related Nodes: N-1214, N-1, N-2061
+Related Nodes: N-1214, N-2061
 
 Investigative Direction: Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.
 
@@ -741,8 +745,9 @@ Claim Timestamp: 00:14:43
 Claim: Erika Kirk delivered the Hillsdale College commencement address and was awarded an honorary doctorate.
 
 Anchored Artifacts: A-2070.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1221
+Related Nodes: N-1221
 
 Investigative Direction: Obtain Hillsdale College's official press release or commencement program; verify the date and the credentials cited for the award.
 
@@ -757,8 +762,9 @@ Claim Timestamp: 00:16:39
 Claim: Brian Allen publicly argued on X that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as "Diversity, equity and inclusion for me and not for thee."
 
 Anchored Artifacts: A-2070.2
+Mentions: N-2
 
-Related Nodes: N-1213, N-2, N-1221
+Related Nodes: N-1213, N-1221
 
 Investigative Direction: Verify the original post; cross-reference Hillsdale's public statements on DEI.
 
@@ -771,8 +777,9 @@ Claim Timestamp: 00:17:23
 Claim: Erika Kirk's older LinkedIn page (since removed) stated she graduated from Arizona State University magna cum laude, in connection with a Great American Race audition video.
 
 Anchored Artifacts: A-2071.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1223, N-2062
+Related Nodes: N-1223, N-2062
 
 Investigative Direction: Obtain archived versions of the LinkedIn page (Wayback Machine or other captures); verify against ASU graduation records.
 
@@ -785,8 +792,9 @@ Claim Timestamp: 00:18:10
 Claim: Erika Kirk later updated her LinkedIn page to state she graduated summa cum laude with a double degree in political science and international relations.
 
 Anchored Artifacts: A-2071.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1223, N-2062
+Related Nodes: N-1223, N-2062
 
 Investigative Direction: Obtain archived LinkedIn captures showing both versions; verify degree titles and honors with ASU registrar.
 
@@ -813,8 +821,9 @@ Claim Timestamp: 00:18:59
 Claim: Erika Kirk's LinkedIn page lists a Doctor of Education in Christian Leadership from Liberty University, which she did not actually earn (took only a couple of credits toward the goal).
 
 Anchored Artifacts: A-2071.3
+Mentions: N-2
 
-Related Nodes: N-2, N-1222, N-2062
+Related Nodes: N-1222, N-2062
 
 Investigative Direction: Verify Liberty's Ed.D. in Christian Leadership program; obtain Liberty's records on Erika Kirk's actual enrollment.
 

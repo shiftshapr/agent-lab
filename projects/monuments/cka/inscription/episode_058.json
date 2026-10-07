@@ -964,18 +964,20 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-729",
-        "N-733",
-        "N-734",
-        "N-735",
-        "N-736",
-        "N-737",
         "N-1488",
         "N-1489"
       ],
       "tags": [],
       "claim_timestamp": "00:03:23–00:05:24",
-      "investigative_direction": "Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters."
+      "investigative_direction": "Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.",
+      "mentions_person_refs": [
+        "N-729",
+        "N-733",
+        "N-734",
+        "N-735",
+        "N-736",
+        "N-737"
+      ]
     },
     {
       "@type": "Claim",
@@ -988,12 +990,14 @@
         "A-1635.3"
       ],
       "related_nodes": [
-        "N-729",
         "N-1489"
       ],
       "tags": [],
       "claim_timestamp": "00:08:16–00:10:12",
-      "investigative_direction": "Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description."
+      "investigative_direction": "Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.",
+      "mentions_person_refs": [
+        "N-729"
+      ]
     },
     {
       "@type": "Claim",
@@ -1005,13 +1009,15 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-729",
         "N-1489"
       ],
       "tags": [],
       "claim_timestamp": "00:05:24",
-      "investigative_direction": "Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots."
+      "investigative_direction": "Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-729"
+      ]
     },
     {
       "@type": "Claim",
@@ -1021,12 +1027,14 @@
       "claim": "Three individuals with Fort Huachuca affiliation — including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 — report having seen Erika at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2",
         "N-1488"
       ],
       "tags": [],
       "claim_timestamp": "00:11:15–00:14:14",
-      "investigative_direction": "Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs."
+      "investigative_direction": "Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1038,12 +1046,14 @@
         "A-1636.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1490"
       ],
       "tags": [],
       "claim_timestamp": "00:16:13–00:18:00",
-      "investigative_direction": "Identify and archive the original podcast episode; obtain dated publication and transcript; verify whether \"living\" is Erika's exact word or paraphrase."
+      "investigative_direction": "Identify and archive the original podcast episode; obtain dated publication and transcript; verify whether \"living\" is Erika's exact word or paraphrase.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1055,12 +1065,14 @@
         "A-1637.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1490"
       ],
       "tags": [],
       "claim_timestamp": "00:18:47",
-      "investigative_direction": "Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period."
+      "investigative_direction": "Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1072,13 +1084,15 @@
         "A-1638.1"
       ],
       "related_nodes": [
-        "N-730",
-        "N-731",
         "N-1492"
       ],
       "tags": [],
       "claim_timestamp": "00:20:05–00:21:00",
-      "investigative_direction": "Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives."
+      "investigative_direction": "Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives.",
+      "mentions_person_refs": [
+        "N-730",
+        "N-731"
+      ]
     },
     {
       "@type": "Claim",
@@ -1090,13 +1104,15 @@
         "A-1638.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-730",
         "N-1492"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00–00:22:00",
-      "investigative_direction": "Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting."
+      "investigative_direction": "Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-730"
+      ]
     },
     {
       "@type": "Claim",
@@ -1108,12 +1124,14 @@
         "A-1639.1"
       ],
       "related_nodes": [
-        "N-730",
         "N-1494"
       ],
       "tags": [],
       "claim_timestamp": "00:21:46",
-      "investigative_direction": "Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations)."
+      "investigative_direction": "Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).",
+      "mentions_person_refs": [
+        "N-730"
+      ]
     },
     {
       "@type": "Claim",
@@ -1125,14 +1143,16 @@
         "A-1638.3"
       ],
       "related_nodes": [
-        "N-2",
-        "N-552",
-        "N-413",
         "N-1492"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
-      "investigative_direction": "Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations."
+      "investigative_direction": "Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-413",
+        "N-552"
+      ]
     },
     {
       "@type": "Claim",
@@ -1144,12 +1164,14 @@
         "A-1641.1"
       ],
       "related_nodes": [
-        "N-293",
         "N-1495"
       ],
       "tags": [],
       "claim_timestamp": "00:36:23–00:39:06",
-      "investigative_direction": "Obtain the unedited source clip with timestamp and channel identification to verify wording and context."
+      "investigative_direction": "Obtain the unedited source clip with timestamp and channel identification to verify wording and context.",
+      "mentions_person_refs": [
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",
@@ -1161,12 +1183,14 @@
         "A-1641.2"
       ],
       "related_nodes": [
-        "N-293",
         "N-1495"
       ],
       "tags": [],
       "claim_timestamp": "00:42:23–00:44:18",
-      "investigative_direction": "Obtain unedited source clip and verify the framing in the original Fuentes broadcast context."
+      "investigative_direction": "Obtain unedited source clip and verify the framing in the original Fuentes broadcast context.",
+      "mentions_person_refs": [
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",
@@ -1178,12 +1202,14 @@
         "A-1642.1"
       ],
       "related_nodes": [
-        "N-744",
         "N-1493"
       ],
       "tags": [],
       "claim_timestamp": "00:53:05–00:55:26",
-      "investigative_direction": "Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation."
+      "investigative_direction": "Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.",
+      "mentions_person_refs": [
+        "N-744"
+      ]
     }
   ],
   "memes": []

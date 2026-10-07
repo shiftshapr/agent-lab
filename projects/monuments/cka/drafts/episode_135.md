@@ -310,8 +310,9 @@ Claim Timestamp: 00:19:46
 Claim: Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt with scissors, then discussed drug administration with the medical staff, then exited the room and guarded the door.
 
 Anchored Artifacts: A-2219.1
+Mentions: N-1
 
-Related Nodes: N-1210, N-1
+Related Nodes: N-1210
 
 Investigative Direction: Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.
 
@@ -322,8 +323,9 @@ Claim Timestamp: 00:31:16
 Claim: Per the anesthesiologist's email, the observed wound pattern (blood/tissue eruption from left neck) is more consistent with an exit wound from a rear shot, or with a shaped charge originating from the chest area, than with a frontal bullet hit.
 
 Anchored Artifacts: A-2220.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2167
+Related Nodes: N-2167
 
 Investigative Direction: Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds.
 
@@ -334,8 +336,9 @@ Claim Timestamp: 00:32:48
 Claim: Per the anesthesiologist's email, what was recovered and labeled as "bullet fragments" may actually be the casing of a shaped charge that served as the projectile.
 
 Anchored Artifacts: A-2220.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2167
+Related Nodes: N-2167
 
 Investigative Direction: Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials).
 
@@ -346,8 +349,9 @@ Claim Timestamp: 00:33:41
 Claim: Per the anesthesiologist's email, no ambulance with resuscitative equipment or trained personnel was immediately available at the scene (no defibrillators, no IV drugs), and Charlie's neck was not stabilized before transport.
 
 Anchored Artifacts: A-2220.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2167
+Related Nodes: N-2167
 
 Investigative Direction: Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.
 
@@ -358,8 +362,9 @@ Claim Timestamp: 00:35:15
 Claim: Per the nurse's email, the autopsy timeline only supports approximately 3 hours in the morgue given typical body cooling rate (8 hours to reach 40°F), and the medical examiner's protocol appears rushed.
 
 Anchored Artifacts: A-2220.2
+Mentions: N-1
 
-Related Nodes: N-1, N-2166
+Related Nodes: N-2166
 
 Investigative Direction: Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols.
 
@@ -370,8 +375,9 @@ Claim Timestamp: 00:37:04
 Claim: Per the surgeon YouTube comment, the trajectory from a rooftop shooter is incompatible with the wound; to affect up to C2, an upward trajectory from the point of entry on the neck would be required.
 
 Anchored Artifacts: A-2221.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2167
+Related Nodes: N-2167
 
 Investigative Direction: Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.
 
@@ -382,8 +388,9 @@ Claim Timestamp: 00:37:04
 Claim: Per the surgeon YouTube comment, the medical examiner's report states much of Charlie's cervical spine was traumatically gone, with the left side of C2 to C7 obliterated.
 
 Anchored Artifacts: A-2221.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2167
+Related Nodes: N-2167
 
 Investigative Direction: Obtain the official medical examiner's report to verify the cervical spine description.
 
@@ -406,8 +413,9 @@ Claim Timestamp: 00:40:24
 Claim: Per the witness recording played in the episode, the witness observes a person running and getting into position on the Lozi Center rooftop but does not state seeing a firearm.
 
 Anchored Artifacts: A-2222.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2168
+Related Nodes: N-2168
 
 Investigative Direction: Obtain the full witness recording and transcript; identify and interview the witness for confirmation.
 
@@ -418,8 +426,9 @@ Claim Timestamp: 00:37:04
 Claim: Host states she is "team road mic" and concurs with the shaped charge / exploding microphone hypothesis presented in the medical professional communications.
 
 Anchored Artifacts: A-2220.1, A-2221.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2167
+Related Nodes: N-2167
 
 Investigative Direction: Note host stance for cross-referencing future evidentiary developments.
 
@@ -430,8 +439,9 @@ Claim Timestamp: 00:41:24
 Claim: Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Lozi Center rooftop is "narrative, not a fact."
 
 Anchored Artifacts: A-2222.1
+Mentions: N-1
 
-Related Nodes: N-1, N-2168
+Related Nodes: N-2168
 
 Investigative Direction: Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available.
 
@@ -442,8 +452,9 @@ Claim Timestamp: 00:23:00
 Claim: Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at approximately 10:00 a.m. on September 10, 2025.
 
 Anchored Artifacts: None displayed (verbal source only)
+Mentions: N-1
 
-Related Nodes: N-1, N-2164, N-2169
+Related Nodes: N-2164, N-2169
 
 Investigative Direction: Obtain independent verification — shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.
 
@@ -456,8 +467,9 @@ Claim Timestamp: 00:23:00
 Claim: Per host's verbal source, ER patients were subsequently transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. on September 10, 2025.
 
 Anchored Artifacts: None displayed (verbal source only)
+Mentions: N-1
 
-Related Nodes: N-1, N-2164, N-2169
+Related Nodes: N-2164, N-2169
 
 Investigative Direction: Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony.
 
@@ -470,8 +482,9 @@ Claim Timestamp: 00:25:08
 Claim: A patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as originally displayed in an October 28, 2025 episode.
 
 Anchored Artifacts: Referenced from prior episode (originally displayed in earlier episode, not re-displayed here)
+Mentions: N-1
 
-Related Nodes: N-1, N-2169
+Related Nodes: N-2169
 
 Investigative Direction: Re-display the original document or obtain the leaked file independently for forensic verification.
 
@@ -498,8 +511,9 @@ Claim Timestamp: 00:26:02
 Claim: Per host, the Timpanogos hospital Epic electronic medical record system did not communicate with Utah Valley's Intermountain Health system, so Charlie's file appearing at Utah Valley is anomalous.
 
 Anchored Artifacts: None displayed
+Mentions: N-1
 
-Related Nodes: N-1, N-2169
+Related Nodes: N-2169
 
 Investigative Direction: Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events.
 

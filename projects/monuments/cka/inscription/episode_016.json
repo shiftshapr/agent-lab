@@ -889,14 +889,15 @@
         "A-1228.1",
         "A-1227.8"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:00",
-      "investigative_direction": "Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kovette's stated timeline of sharing with \"people in government\" against any subsequent investigative filings."
+      "investigative_direction": "Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kovette's stated timeline of sharing with \"people in government\" against any subsequent investigative filings.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -907,12 +908,13 @@
       "anchored_artifacts": [
         "A-1228.2"
       ],
-      "related_nodes": [
-        "N-42"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:24",
-      "investigative_direction": "Identify which government figures received the screen grab; determine whether any chain-of-custody record exists for the shared image."
+      "investigative_direction": "Identify which government figures received the screen grab; determine whether any chain-of-custody record exists for the shared image.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -924,13 +926,14 @@
         "A-1228.4",
         "A-1232.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:46",
-      "investigative_direction": "Compare Kovette's \"wrestle\" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift."
+      "investigative_direction": "Compare Kovette's \"wrestle\" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -941,12 +944,13 @@
       "anchored_artifacts": [
         "A-1228.3"
       ],
-      "related_nodes": [
-        "N-224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:13",
-      "investigative_direction": "Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary."
+      "investigative_direction": "Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,13 +961,14 @@
       "anchored_artifacts": [
         "A-1229.1"
       ],
-      "related_nodes": [
-        "N-216",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:21",
-      "investigative_direction": "Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment."
+      "investigative_direction": "Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-216"
+      ]
     },
     {
       "@type": "Claim",
@@ -974,13 +979,14 @@
       "anchored_artifacts": [
         "A-1229.2"
       ],
-      "related_nodes": [
-        "N-216",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:02",
-      "investigative_direction": "Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location."
+      "investigative_direction": "Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-216"
+      ]
     },
     {
       "@type": "Claim",
@@ -991,12 +997,13 @@
       "anchored_artifacts": [
         "A-1229.3"
       ],
-      "related_nodes": [
-        "N-216"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:51",
-      "investigative_direction": "Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party."
+      "investigative_direction": "Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party.",
+      "mentions_person_refs": [
+        "N-216"
+      ]
     },
     {
       "@type": "Claim",
@@ -1008,12 +1015,13 @@
         "A-1227.1",
         "A-1227.2"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:09",
-      "investigative_direction": "Cross-reference the Britta accusation against the Kovette confirmation (C-1380) to determine whether Britta publicly retracted or updated her position."
+      "investigative_direction": "Cross-reference the Britta accusation against the Kovette confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1024,13 +1032,14 @@
       "anchored_artifacts": [
         "A-1227.4"
       ],
-      "related_nodes": [
-        "N-91",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:26",
-      "investigative_direction": "Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity."
+      "investigative_direction": "Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1041,12 +1050,13 @@
       "anchored_artifacts": [
         "A-1227.6"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:11",
-      "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain."
+      "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1057,13 +1067,14 @@
       "anchored_artifacts": [
         "A-1227.7"
       ],
-      "related_nodes": [
-        "N-221",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:01",
-      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-42)."
+      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-42).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-221"
+      ]
     },
     {
       "@type": "Claim",
@@ -1074,12 +1085,13 @@
       "anchored_artifacts": [
         "A-1227.8"
       ],
-      "related_nodes": [
-        "N-42"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:48",
-      "investigative_direction": "Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation."
+      "investigative_direction": "Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1090,15 +1102,16 @@
       "anchored_artifacts": [
         "A-1231.1"
       ],
-      "related_nodes": [
-        "N-217",
-        "N-218",
-        "N-3",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:14",
-      "investigative_direction": "Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership."
+      "investigative_direction": "Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-217",
+        "N-218"
+      ]
     },
     {
       "@type": "Claim",
@@ -1109,13 +1122,14 @@
       "anchored_artifacts": [
         "A-1231.2"
       ],
-      "related_nodes": [
-        "N-217",
-        "N-218"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:54",
-      "investigative_direction": "Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record."
+      "investigative_direction": "Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record.",
+      "mentions_person_refs": [
+        "N-217",
+        "N-218"
+      ]
     },
     {
       "@type": "Claim",
@@ -1126,13 +1140,14 @@
       "anchored_artifacts": [
         "A-1231.1"
       ],
-      "related_nodes": [
-        "N-217",
-        "N-218"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:48:30",
-      "investigative_direction": "Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative."
+      "investigative_direction": "Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative.",
+      "mentions_person_refs": [
+        "N-217",
+        "N-218"
+      ]
     },
     {
       "@type": "Claim",
@@ -1141,13 +1156,14 @@
       "label": "Mappin letter: Mappins helped facilitate Turning Point UK",
       "claim": "Candace identifies John Mappin as the TPUSA donor who helped her and Kirk set up Turning Point UK, identifying him as the donor who made the introductions that enabled the UK launch event where Candace first saw George (Zinn).",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-217",
-        "N-218"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:38",
-      "investigative_direction": "Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch."
+      "investigative_direction": "Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.",
+      "mentions_person_refs": [
+        "N-217",
+        "N-218"
+      ]
     },
     {
       "@type": "Claim",
@@ -1158,12 +1174,13 @@
       "anchored_artifacts": [
         "A-1230.1"
       ],
-      "related_nodes": [
-        "N-220"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:56",
-      "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case."
+      "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.",
+      "mentions_person_refs": [
+        "N-220"
+      ]
     },
     {
       "@type": "Claim",
@@ -1174,13 +1191,14 @@
       "anchored_artifacts": [
         "A-1234.1"
       ],
-      "related_nodes": [
-        "N-42",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:52",
-      "investigative_direction": "Identify the other Zoom call attendees; obtain any contemporaneous notes or call logs; verify whether the call occurred."
+      "investigative_direction": "Identify the other Zoom call attendees; obtain any contemporaneous notes or call logs; verify whether the call occurred.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1191,13 +1209,14 @@
       "anchored_artifacts": [
         "A-1235.1"
       ],
-      "related_nodes": [
-        "N-3",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:25",
-      "investigative_direction": "Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turk) and any other contemporaneous sources for Kirk premonition statements."
+      "investigative_direction": "Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turk) and any other contemporaneous sources for Kirk premonition statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1208,13 +1227,14 @@
       "anchored_artifacts": [
         "A-1233.1"
       ],
-      "related_nodes": [
-        "N-16",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:02:44",
-      "investigative_direction": "Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio."
+      "investigative_direction": "Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1225,12 +1245,13 @@
       "anchored_artifacts": [
         "A-1235.2"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:49",
-      "investigative_direction": "Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account."
+      "investigative_direction": "Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1242,12 +1263,14 @@
         "A-1235.3"
       ],
       "related_nodes": [
-        "N-3",
         "N-1237"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
-      "investigative_direction": "Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit)."
+      "investigative_direction": "Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1259,12 +1282,14 @@
         "A-1235.4"
       ],
       "related_nodes": [
-        "N-3",
         "N-1239"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
-      "investigative_direction": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records."
+      "investigative_direction": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1276,12 +1301,14 @@
         "A-1235.5"
       ],
       "related_nodes": [
-        "N-3",
         "N-1236"
       ],
       "tags": [],
       "claim_timestamp": "00:36:11",
-      "investigative_direction": "Identify which federal department is implicated; obtain any employment / family records."
+      "investigative_direction": "Identify which federal department is implicated; obtain any employment / family records.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

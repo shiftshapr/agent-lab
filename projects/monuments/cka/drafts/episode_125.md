@@ -349,8 +349,9 @@ Claim Timestamp: 00:06:36
 Claim: The unidentified burnt object in the backseat of Charlie Kirk's SUV is consistent with melted polyester fabric from a t-shirt, supported by a burn-replication test and viewer expert identifications.
 
 Anchored Artifacts: A-2129.2, A-2130.1, A-2131.1, A-2131.2
+Mentions: N-1
 
-Related Nodes: N-2113, N-1
+Related Nodes: N-2113
 
 Investigative Direction: Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis.
 
@@ -361,8 +362,8 @@ Claim Timestamp: 00:12:33
 Claim: Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
 
 Anchored Artifacts: A-2133.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
 
@@ -421,8 +422,9 @@ Claim Timestamp: 00:24:41
 Claim: Tyler Bowyer's father held a major executive position at Bank of America Merrill Lynch (Chicago), and Tyler Bowyer's first job was at Bank of America.
 
 Anchored Artifacts: A-2134.1
+Mentions: N-37
 
-Related Nodes: N-2115, N-37
+Related Nodes: N-2115
 
 Investigative Direction: Corporate directories, employment records, public board listings would verify the employment claim.
 
@@ -445,8 +447,8 @@ Claim Timestamp: 00:41:46
 Claim: Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had declined to have Netanyahu on his show, while disputing the "offer to take Turning Point to the next level" element of Candace Owens' narrative.
 
 Anchored Artifacts: A-2135.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.
 
@@ -457,8 +459,8 @@ Claim Timestamp: 00:33:25
 Claim: The National Council on Resistance Iran (NCRI) published a focused report titled "Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?" framing Candace Owens' commentary as creating grounds for violence against Erika Kirk.
 
 Anchored Artifacts: A-2136.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning.
 

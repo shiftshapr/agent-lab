@@ -909,12 +909,13 @@
       "anchored_artifacts": [
         "A-1345.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:10",
-      "investigative_direction": "Cross-check Podscribe ranking data independently; verify whether Grok's characterizations of growth causation match primary data."
+      "investigative_direction": "Cross-check Podscribe ranking data independently; verify whether Grok's characterizations of growth causation match primary data.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -925,12 +926,13 @@
       "anchored_artifacts": [
         "A-1345.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:10",
-      "investigative_direction": "Identify which elements of the Grok summary the host is endorsing as primary fact versus host editorialization."
+      "investigative_direction": "Identify which elements of the Grok summary the host is endorsing as primary fact versus host editorialization.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -941,12 +943,13 @@
       "anchored_artifacts": [
         "A-1346.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:12",
-      "investigative_direction": "Verify against full unedited interview audio; identify whether additional context was cut from the broadcast."
+      "investigative_direction": "Verify against full unedited interview audio; identify whether additional context was cut from the broadcast.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,12 +960,13 @@
       "anchored_artifacts": [
         "A-1346.2"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:21",
-      "investigative_direction": "Obtain unedited interview transcript; assess whether the non-direct answer is consistent across additional Erika Kirk public statements."
+      "investigative_direction": "Obtain unedited interview transcript; assess whether the non-direct answer is consistent across additional Erika Kirk public statements.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -974,12 +978,14 @@
         "A-1346.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1299"
       ],
       "tags": [],
       "claim_timestamp": "00:12:21",
-      "investigative_direction": "Identify the legal pathway by which a non-lawyer spouse obtains access to autopsy and evidence; cross-check public statements by prosecutors and defense counsel."
+      "investigative_direction": "Identify the legal pathway by which a non-lawyer spouse obtains access to autopsy and evidence; cross-check public statements by prosecutors and defense counsel.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -991,12 +997,14 @@
         "A-1346.3"
       ],
       "related_nodes": [
-        "N-2",
         "N-1300"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
-      "investigative_direction": "Obtain photographs of the pendant from TPUSA or family sources; verify the metals described (\"bronze\" with later additions)."
+      "investigative_direction": "Obtain photographs of the pendant from TPUSA or family sources; verify the metals described (\"bronze\" with later additions).",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1008,14 +1016,16 @@
         "A-1353.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-313",
         "N-1303",
         "N-1300"
       ],
       "tags": [],
       "claim_timestamp": "00:15:23",
-      "investigative_direction": "Obtain original footage to identify the priest and any associated institution."
+      "investigative_direction": "Obtain original footage to identify the priest and any associated institution.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-313"
+      ]
     },
     {
       "@type": "Claim",
@@ -1026,12 +1036,13 @@
       "anchored_artifacts": [
         "A-1346.4"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:32",
-      "investigative_direction": "Catalog the specific AI-generated image claims Erika references; assess the platform-level response to date."
+      "investigative_direction": "Catalog the specific AI-generated image claims Erika references; assess the platform-level response to date.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1043,12 +1054,14 @@
         "A-1347.1"
       ],
       "related_nodes": [
-        "N-349",
         "N-1298"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
-      "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email."
+      "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.",
+      "mentions_person_refs": [
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -1060,12 +1073,14 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-349",
         "N-1298"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
-      "investigative_direction": "Obtain the underlying text thread to verify Allie's characterization of venue status."
+      "investigative_direction": "Obtain the underlying text thread to verify Allie's characterization of venue status.",
+      "mentions_person_refs": [
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -1077,12 +1092,14 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-350",
         "N-1298"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
-      "investigative_direction": "Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline."
+      "investigative_direction": "Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.",
+      "mentions_person_refs": [
+        "N-350"
+      ]
     },
     {
       "@type": "Claim",
@@ -1094,12 +1111,14 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-350",
         "N-1298"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
-      "investigative_direction": "Identify the Yale debate date and verify against Yale Political Union scheduling records."
+      "investigative_direction": "Identify the Yale debate date and verify against Yale Political Union scheduling records.",
+      "mentions_person_refs": [
+        "N-350"
+      ]
     },
     {
       "@type": "Claim",
@@ -1110,13 +1129,14 @@
       "anchored_artifacts": [
         "A-1349.1"
       ],
-      "related_nodes": [
-        "N-135",
-        "N-272"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:46",
-      "investigative_direction": "Identify the named production director and verify travel scheduling records."
+      "investigative_direction": "Identify the named production director and verify travel scheduling records.",
+      "mentions_person_refs": [
+        "N-135",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -1127,12 +1147,13 @@
       "anchored_artifacts": [
         "A-1349.2"
       ],
-      "related_nodes": [
-        "N-135"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:48:47",
-      "investigative_direction": "Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively."
+      "investigative_direction": "Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively.",
+      "mentions_person_refs": [
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",
@@ -1144,12 +1165,14 @@
         "A-1350.1"
       ],
       "related_nodes": [
-        "N-353",
         "N-1301"
       ],
       "tags": [],
       "claim_timestamp": "00:55:21",
-      "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation."
+      "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.",
+      "mentions_person_refs": [
+        "N-353"
+      ]
     },
     {
       "@type": "Claim",
@@ -1160,12 +1183,13 @@
       "anchored_artifacts": [
         "A-1351.1"
       ],
-      "related_nodes": [
-        "N-235"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:25",
-      "investigative_direction": "Capture original post timestamp and any subsequent D'Souza commentary on the investigation."
+      "investigative_direction": "Capture original post timestamp and any subsequent D'Souza commentary on the investigation.",
+      "mentions_person_refs": [
+        "N-235"
+      ]
     },
     {
       "@type": "Claim",
@@ -1177,12 +1201,14 @@
         "A-1352.1"
       ],
       "related_nodes": [
-        "N-355",
         "N-1302"
       ],
       "tags": [],
       "claim_timestamp": "00:25:41",
-      "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post."
+      "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post.",
+      "mentions_person_refs": [
+        "N-355"
+      ]
     },
     {
       "@type": "Claim",
@@ -1194,15 +1220,17 @@
         "A-1354.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-135",
-        "N-356",
-        "N-1304",
-        "N-358"
+        "N-1304"
       ],
       "tags": [],
       "claim_timestamp": "00:59:56",
-      "investigative_direction": "Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation."
+      "investigative_direction": "Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-135",
+        "N-356",
+        "N-358"
+      ]
     },
     {
       "@type": "Claim",
@@ -1213,12 +1241,13 @@
       "anchored_artifacts": [
         "A-1354.2"
       ],
-      "related_nodes": [
-        "N-359"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "1:03:27",
-      "investigative_direction": "None — viewer opinion, not an investigative target."
+      "investigative_direction": "None — viewer opinion, not an investigative target.",
+      "mentions_person_refs": [
+        "N-359"
+      ]
     }
   ],
   "memes": []

@@ -504,8 +504,9 @@ Claim Timestamp: 00:07:11–00:08:04
 Claim: The host presented a text message she sent to Andrew Kolbett describing a recurring dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolbett "know[s] much more than you've said publicly or privately."
 
 Anchored Artifacts: A-1607.1
+Mentions: N-42
 
-Related Nodes: N-42, N-1475
+Related Nodes: N-1475
 
 Investigative Direction: Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.
 
@@ -518,8 +519,9 @@ Claim Timestamp: 00:08:04
 Claim: The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.
 
 Anchored Artifacts: A-1607.1 (by contextual reference within the same exchange)
+Mentions: N-42
 
-Related Nodes: N-42, N-1475
+Related Nodes: N-1475
 
 Investigative Direction: Verify non-reply independently; cross-check any subsequent communication records between the two parties.
 
@@ -532,8 +534,9 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today published that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
+Mentions: N-696, N-699
 
-Related Nodes: N-696, N-699, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Retrieve the original Christianity Today article; identify author, publication date, and full article context.
 
@@ -546,8 +549,9 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today reported that Moore and his single-mother family briefly lived in Liberty University dorms after his parents' divorce and a temporary stretch of homelessness.
 
 Anchored Artifacts: A-1608.1
+Mentions: N-696
 
-Related Nodes: N-696, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Retrieve original Christianity Today article and corroborate against any independent biographical sources.
 
@@ -560,8 +564,8 @@ Claim Timestamp: 00:12:48–00:13:40
 Claim: The New York Times reported that an internal audit by Japan's Liberal Democratic Party found approximately 180 elected lawmakers (almost half of the party's parliamentary membership) had accepted donations from or attended events of the Unification Church and related organizations.
 
 Anchored Artifacts: A-1609.1
+Mentions: N-654, N-704
 
-Related Nodes: N-704, N-654
 
 Investigative Direction: Locate the cited New York Times article; verify exact figures and any subsequent party responses.
 
@@ -574,8 +578,9 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: In audio played on the episode, Johnny Moore stated he is "a part of the ADL and Aspen Institute civil society… in fellowship."
 
 Anchored Artifacts: A-1610.1
+Mentions: N-696
 
-Related Nodes: N-696, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.
 
@@ -588,8 +593,9 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: Johnny Moore stated in the audio clip that he is on the advisory board for the Aspen Institute and ADL civil society fellowship.
 
 Anchored Artifacts: A-1610.1
+Mentions: N-696
 
-Related Nodes: N-696, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Verify advisory board membership through both organizations' published directories.
 
@@ -602,8 +608,9 @@ Claim Timestamp: 00:22:43–00:23:15
 Claim: Johnny Moore stated in audio that he is committed to "building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism."
 
 Anchored Artifacts: A-1610.2
+Mentions: N-696
 
-Related Nodes: N-696, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Identify the original venue and date of this speech; verify exact wording through primary source.
 
@@ -616,8 +623,9 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation declaring Ron Godwin to be one of three disciples, charged with multiplying their own disciples.
 
 Anchored Artifacts: A-1614.1
+Mentions: N-654, N-697
 
-Related Nodes: N-697, N-654, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.
 
@@ -630,8 +638,9 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation stating: "Each one of you will put yourself in Jesus's position and multiply three disciples of your own."
 
 Anchored Artifacts: A-1614.1
+Mentions: N-654, N-697
 
-Related Nodes: N-697, N-654, N-1473
+Related Nodes: N-1473
 
 Investigative Direction: Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.
 
@@ -644,8 +653,9 @@ Claim Timestamp: 00:34:41–00:35:36
 Claim: An unidentified Likud party member, speaking in the Knesset, declared Tucker Carlson and Candace Owens "a new enemy rising from within" the West and accused them of "intellectual vandalism."
 
 Anchored Artifacts: A-1611.1
+Mentions: N-701
 
-Related Nodes: N-701, N-1478
+Related Nodes: N-1478
 
 Investigative Direction: Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.
 
@@ -714,8 +724,8 @@ Claim Timestamp: 00:47:35–00:48:56
 Claim: A commenter expressed being "heartbroken and filled with rage" and asked "How does Andrew Kovette sleep at night?"
 
 Anchored Artifacts: A-1613.2
+Mentions: N-42
 
-Related Nodes: N-42
 
 Investigative Direction: No investigative direction; comment is rhetorical and emotional, not falsifiable.
 
@@ -827,8 +837,8 @@ Claim Timestamp: 00:19:23–00:20:09
 Claim: The host stated that Johnny Moore went to Hollywood in 2015 to work with Mark Burnett.
 
 Anchored Artifacts: (none — host statement)
+Mentions: N-696, N-700
 
-Related Nodes: N-700, N-696
 
 Investigative Direction: Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
 
@@ -841,8 +851,8 @@ Claim Timestamp: 00:20:09
 Claim: The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.
 
 Anchored Artifacts: (none — host statement)
+Mentions: N-700
 
-Related Nodes: N-700
 
 Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
 

@@ -311,13 +311,15 @@
       "claim": "Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-23"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "00:01:24",
       "investigative_direction": "Verify Instagram timestamp via archived captures; cross-check against family notification logs.",
-      "transcript_snippet": "first that we could find to publicly announce that Charlie Kirk had passed away on September 10th"
+      "transcript_snippet": "first that we could find to publicly announce that Charlie Kirk had passed away on September 10th",
+      "mentions_person_refs": [
+        "N-23"
+      ]
     },
     {
       "@type": "Claim",
@@ -342,12 +344,14 @@
       "claim": "Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-3"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "00:06:15",
-      "investigative_direction": "Cross-reference with documentary content, family corroboration, and Mississippi cold-case records."
+      "investigative_direction": "Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -357,13 +361,15 @@
       "claim": "Episode plays audio of Holly Chalmers stating she believes Victor Marx is a trafficker himself.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-9"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.",
-      "transcript_snippet": "I believe that he's a trafficker himself"
+      "transcript_snippet": "I believe that he's a trafficker himself",
+      "mentions_person_refs": [
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -373,12 +379,14 @@
       "claim": "Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-15"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "00:11:03",
-      "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction."
+      "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction.",
+      "mentions_person_refs": [
+        "N-15"
+      ]
     },
     {
       "@type": "Claim",
@@ -402,13 +410,15 @@
       "claim": "Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-24"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "01:14:27",
       "investigative_direction": "Verify archived website content; cross-check against organization's audited reports.",
-      "transcript_snippet": "a high-risk humanitarian who has rescued more than 45,000 women and children"
+      "transcript_snippet": "a high-risk humanitarian who has rescued more than 45,000 women and children",
+      "mentions_person_refs": [
+        "N-24"
+      ]
     },
     {
       "@type": "Claim",
@@ -418,13 +428,15 @@
       "claim": "During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-3"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "00:16:54",
       "investigative_direction": "Cross-reference with statements from family members and law enforcement records.",
-      "transcript_snippet": "Of course I do"
+      "transcript_snippet": "Of course I do",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -464,12 +476,14 @@
       "claim": "Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-26"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "01:09:11",
-      "investigative_direction": "Cross-reference with IDF/nonprofit invitation records and travel documentation."
+      "investigative_direction": "Cross-reference with IDF/nonprofit invitation records and travel documentation.",
+      "mentions_person_refs": [
+        "N-26"
+      ]
     },
     {
       "@type": "Claim",
@@ -479,13 +493,15 @@
       "claim": "Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-23"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "00:46:02",
       "investigative_direction": "Reconcile timeline of when Marx actually viewed the video relative to announcement timing.",
-      "transcript_snippet": "Charlie wouldn't live from that…there's no way he could have survived that"
+      "transcript_snippet": "Charlie wouldn't live from that…there's no way he could have survived that",
+      "mentions_person_refs": [
+        "N-23"
+      ]
     },
     {
       "@type": "Claim",
@@ -523,13 +539,15 @@
       "claim": "Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1017",
-        "N-24"
+        "N-1017"
       ],
       "tags": [],
       "claim_timestamp": "01:00:27",
       "investigative_direction": "Compare original website text against archived snapshots; reconcile with prior show clip.",
-      "transcript_snippet": "Nowhere…have I ever declared…that I ever rescued 45,000 women or children"
+      "transcript_snippet": "Nowhere…have I ever declared…that I ever rescued 45,000 women or children",
+      "mentions_person_refs": [
+        "N-24"
+      ]
     }
   ],
   "memes": []

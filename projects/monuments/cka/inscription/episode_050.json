@@ -649,16 +649,17 @@
       "anchored_artifacts": [
         "A-1561.1"
       ],
-      "related_nodes": [
-        "N-133",
-        "N-3",
-        "N-1",
-        "N-2",
-        "N-37"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:29 – 00:20:44",
-      "investigative_direction": "Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Colvin, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording."
+      "investigative_direction": "Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Colvin, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3",
+        "N-37",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -669,14 +670,15 @@
       "anchored_artifacts": [
         "A-1562.1"
       ],
-      "related_nodes": [
-        "N-50",
-        "N-1",
-        "N-133"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:37 – 00:26:29",
-      "investigative_direction": "Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications."
+      "investigative_direction": "Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -687,14 +689,15 @@
       "anchored_artifacts": [
         "A-1563.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:45 – 00:15:40",
+      "investigative_direction": "Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds.",
+      "mentions_person_refs": [
         "N-3",
         "N-133",
         "N-607"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:12:45 – 00:15:40",
-      "investigative_direction": "Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds."
+      ]
     },
     {
       "@type": "Claim",
@@ -706,12 +709,14 @@
         "A-1564.1"
       ],
       "related_nodes": [
-        "N-599",
         "N-1442"
       ],
       "tags": [],
       "claim_timestamp": "00:35:44",
-      "investigative_direction": "Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record."
+      "investigative_direction": "Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.",
+      "mentions_person_refs": [
+        "N-599"
+      ]
     },
     {
       "@type": "Claim",
@@ -723,13 +728,15 @@
         "A-1565.1"
       ],
       "related_nodes": [
-        "N-599",
-        "N-606",
         "N-1442"
       ],
       "tags": [],
       "claim_timestamp": "00:36:36",
-      "investigative_direction": "Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call."
+      "investigative_direction": "Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.",
+      "mentions_person_refs": [
+        "N-599",
+        "N-606"
+      ]
     },
     {
       "@type": "Claim",
@@ -741,13 +748,15 @@
         "A-1566.1"
       ],
       "related_nodes": [
-        "N-597",
-        "N-605",
         "N-1443"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56 – 00:43:14",
-      "investigative_direction": "Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach."
+      "investigative_direction": "Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.",
+      "mentions_person_refs": [
+        "N-597",
+        "N-605"
+      ]
     },
     {
       "@type": "Claim",
@@ -759,13 +768,15 @@
         "A-1567.2"
       ],
       "related_nodes": [
-        "N-424",
         "N-1441",
         "N-1444"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30",
-      "investigative_direction": "Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach."
+      "investigative_direction": "Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -778,12 +789,14 @@
         "A-1567.3"
       ],
       "related_nodes": [
-        "N-597",
         "N-1441"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21 – 00:34:20",
-      "investigative_direction": "Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions."
+      "investigative_direction": "Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.",
+      "mentions_person_refs": [
+        "N-597"
+      ]
     },
     {
       "@type": "Claim",
@@ -793,13 +806,15 @@
       "claim": "The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2",
-        "N-605",
         "N-1445"
       ],
       "tags": [],
       "claim_timestamp": "00:40:44 – 00:45:06",
-      "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein."
+      "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-605"
+      ]
     }
   ],
   "memes": []

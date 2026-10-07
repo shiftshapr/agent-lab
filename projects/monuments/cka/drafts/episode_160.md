@@ -693,7 +693,8 @@ X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland at
 Claim Timestamp: 00:01:13
 Claim: On air the host reads a Lisa Nose X post claiming Candace Owens keeps eight nannies (two per child) living in a second mansion, hires nannies who are in the country illegally via an elite Jewish nanny agency, underpays them, and binds them with NDAs so they cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose confirmed via three people who know Candace.
 Anchored Artifacts: A-2474.1
-Related Nodes: N-3, N-411, N-2366, N-2358
+Mentions: N-3, N-411
+Related Nodes: N-2358, N-2366
 Investigative Direction: Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains.
 
 ---
@@ -703,7 +704,8 @@ Investigative Direction: Preserve the original Nose and Kraus posts; seek any pr
 Claim Timestamp: 00:09:26
 Claim: The host argues the Lindsay Clancy-seeded, Nancy Mace / New York Post / Libs of TikTok amplified killer-mom panic is an intentional SCOP that neocons link to women who distrust Erika Kirk, and that its purpose is to justify regulating the internet after bots failed to move the public off Charlie Kirk.
 Anchored Artifacts: A-2475.1
-Related Nodes: N-2367, N-294, N-303, N-2, N-1
+Mentions: N-1, N-2, N-294, N-303
+Related Nodes: N-2367
 Investigative Direction: Map amplification graphs (Mace, NY Post, Libs) against UVU-review and Charlie-case news cycles; separate statistical filicide data from narrative framing.
 
 ---
@@ -713,7 +715,7 @@ Investigative Direction: Map amplification graphs (Mace, NY Post, Libs) against 
 Claim Timestamp: 00:05:42
 Claim: The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carol and others for military/Israel/Saudi conspiracy research she does not develop here.
 Anchored Artifacts: A-2475.1
-Related Nodes: N-346, N-347, N-181
+Mentions: N-181, N-346, N-347
 Investigative Direction: Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled.
 
 ---
@@ -723,7 +725,8 @@ Investigative Direction: Verify the five-day media-shift claim against contempor
 Claim Timestamp: 00:08:23
 Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, had done Brazil work she will not revisit, and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
 Anchored Artifacts: A-2475.1
-Related Nodes: N-318, N-42, N-1632, N-2064
+Mentions: N-42, N-318
+Related Nodes: N-1632, N-2064
 Investigative Direction: Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis.
 
 ---
@@ -733,7 +736,8 @@ Investigative Direction: Confirm Shirley appearance date/booking chain on Charli
 Claim Timestamp: 00:15:48
 Claim: The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality.
 Anchored Artifacts: A-2475.1
-Related Nodes: N-2367, N-294, N-303
+Mentions: N-294, N-303
+Related Nodes: N-2367
 Investigative Direction: Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables.
 
 ---
@@ -743,7 +747,8 @@ Investigative Direction: Pull the NIH / official filicide statistics she paraphr
 Claim Timestamp: 00:25:48
 Claim: The host reads the UVU independent review stating Station 3 radioed the TPUSA SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.
 Anchored Artifacts: A-2476.1
-Related Nodes: N-2365, N-2329, N-1, N-30, N-36, N-2350
+Mentions: N-1, N-30, N-36
+Related Nodes: N-2329, N-2350, N-2365
 Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review.
 
 ---
@@ -753,7 +758,8 @@ Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via offic
 Claim Timestamp: 00:22:00
 Claim: Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.
 Anchored Artifacts: A-2476.1
-Related Nodes: N-16, N-424, N-309, N-2365, N-2085, N-2097, N-2136, N-1
+Mentions: N-1, N-16, N-309, N-424
+Related Nodes: N-2085, N-2097, N-2136, N-2365
 Investigative Direction: Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.
 
 ---
@@ -763,7 +769,8 @@ Investigative Direction: Align Turek, Harpole, and review timelines minute-by-mi
 Claim Timestamp: 00:27:16
 Claim: The host plays fire dispatch audio she times around 12:30 p.m. in which ladder 33 and engine 34 are redirected toward Timpanogos, after radio traffic describing a black SUV with a person hanging out, which she presents as corroboration of the review's Station 2/3 reroute narrative.
 Anchored Artifacts: A-2476.2
-Related Nodes: N-2365, N-1
+Mentions: N-1
+Related Nodes: N-2365
 Investigative Direction: Obtain original Provo/Orem dispatch recordings and unit logs for ladder 33 / engine 34 / Station 2 captain assignment.
 
 ---
@@ -773,7 +780,8 @@ Investigative Direction: Obtain original Provo/Orem dispatch recordings and unit
 Claim Timestamp: 00:35:11
 Claim: In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a Dan Flood text ("I got you covered") as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.
 Anchored Artifacts: A-2477.1
-Related Nodes: N-16, N-435, N-434, N-342, N-2329
+Mentions: N-16, N-342, N-434, N-435
+Related Nodes: N-2329
 Investigative Direction: Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata.
 
 ---
@@ -783,7 +791,8 @@ Investigative Direction: Preserve full Tatum interview; compare Turek's roofs cl
 Claim Timestamp: 00:40:26
 Claim: The host reports that former British banker and BGC Group managing director Simon Andre, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.
 Anchored Artifacts: A-2478.1
-Related Nodes: N-244, N-230, N-35, N-1395, N-2368, N-5, N-120
+Mentions: N-5, N-35, N-120, N-230, N-244
+Related Nodes: N-1395, N-2368
 Investigative Direction: Verify Andre identity, death circumstances, and BBC reporting; document Lutnick's public statements on Epstein island visits.
 
 ---
@@ -793,7 +802,8 @@ Investigative Direction: Verify Andre identity, death circumstances, and BBC rep
 Claim Timestamp: 00:41:13
 Claim: Per the host's BBC-attributed account, Simon Andre said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre cast as Lutnick failing to disclose a business relationship with Epstein after Epstein's Palm Beach conviction.
 Anchored Artifacts: A-2478.1
-Related Nodes: N-244, N-230, N-35, N-2368, N-1395
+Mentions: N-35, N-230, N-244
+Related Nodes: N-1395, N-2368
 Investigative Direction: Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status.
 
 ---
@@ -803,7 +813,8 @@ Investigative Direction: Locate the BBC interview/article and any produced email
 Claim Timestamp: 00:45:05
 Claim: The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; drummer shirt referenced a killed Palestinian child) and broke the stadium attendance record previously held by Ed Sheeran.
 Anchored Artifacts: A-2479.1
-Related Nodes: N-250, N-279, N-2369
+Mentions: N-250, N-279
+Related Nodes: N-2369
 Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.
 
 ---
@@ -813,7 +824,8 @@ Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, 
 Claim Timestamp: 00:47:22
 Claim: After announcing Baron Coleman would take over her show during maternity leave, the host says critics immediately dug up 20-year-old interviews and trended lines casting him as abusive, with headlines such as "Baron Coleman faces online criticism before guest spot on Candace Owens," which she frames as an attempt to get him dropped.
 Anchored Artifacts: A-2480.1
-Related Nodes: N-552, N-3, N-2370
+Mentions: N-3, N-552
+Related Nodes: N-2370
 Investigative Direction: Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.
 
 ---

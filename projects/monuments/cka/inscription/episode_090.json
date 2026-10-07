@@ -1010,13 +1010,15 @@
         "A-1948.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1217",
         "N-1668"
       ],
       "tags": [],
       "claim_timestamp": "00:33:31",
-      "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records."
+      "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1028,12 +1030,14 @@
         "A-1948.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1217"
       ],
       "tags": [],
       "claim_timestamp": "00:33:31",
-      "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp."
+      "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1045,13 +1049,15 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-69",
         "N-1215",
         "N-1670"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08",
-      "investigative_direction": "Obtain the underlying filing directly and confirm language; assess chain-of-custody implications."
+      "investigative_direction": "Obtain the underlying filing directly and confirm language; assess chain-of-custody implications.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1063,13 +1069,15 @@
         "A-1949.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1669"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25",
-      "investigative_direction": "Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA."
+      "investigative_direction": "Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1082,12 +1090,14 @@
       ],
       "related_nodes": [
         "N-1212",
-        "N-1",
         "N-1672"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
-      "investigative_direction": "Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted."
+      "investigative_direction": "Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1100,13 +1110,15 @@
       ],
       "related_nodes": [
         "N-1234",
-        "N-2",
-        "N-3",
         "N-1671"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
-      "investigative_direction": "Authenticate the internal video; obtain the underlying ADF board materials."
+      "investigative_direction": "Authenticate the internal video; obtain the underlying ADF board materials.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1186,14 +1198,16 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1215",
         "N-1233",
         "N-1673"
       ],
       "tags": [],
       "claim_timestamp": "00:42:44",
-      "investigative_direction": "Retrieve the original Discord statement and The Hill article for exact text."
+      "investigative_direction": "Retrieve the original Discord statement and The Hill article for exact text.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1205,12 +1219,14 @@
         "A-1956.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1668"
       ],
       "tags": [],
       "claim_timestamp": "00:40:19",
-      "investigative_direction": "Obtain the search warrant docket entry and verify exact time/date stamps."
+      "investigative_direction": "Obtain the search warrant docket entry and verify exact time/date stamps.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1222,13 +1238,15 @@
         "A-1957.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1669"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25–00:16:01",
-      "investigative_direction": "Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists."
+      "investigative_direction": "Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1240,14 +1258,16 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-69",
         "N-1215",
         "N-1670",
         "N-1673"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
-      "investigative_direction": "Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence."
+      "investigative_direction": "Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1277,14 +1297,16 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1215",
         "N-1233",
         "N-1673"
       ],
       "tags": [],
       "claim_timestamp": "00:43:32",
-      "investigative_direction": "Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings."
+      "investigative_direction": "Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     }
   ],
   "memes": []

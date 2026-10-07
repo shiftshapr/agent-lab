@@ -553,7 +553,8 @@ Claim Timestamp: 00:06:54
 Claim: A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Anchored Artifacts: A-1111.1
-Related Nodes: N-69, N-1116, N-1127, N-1077, N-115, N-116, N-117
+Mentions: N-69, N-115, N-116, N-117
+Related Nodes: N-1077, N-1116, N-1127
 Confidence: medium
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
 
@@ -565,7 +566,8 @@ Claim Timestamp: 00:03:38
 Claim: The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.
 Transcript Snippet: He says to Lance, allegedly, quote, 'I worry about Prince. I had to leave it… changed outfits.'
 Anchored Artifacts: 
-Related Nodes: N-69, N-84, N-1114
+Mentions: N-69, N-84
+Related Nodes: N-1114
 Confidence: low
 Uncertainty: Artifact verbally referenced but not shown on screen; requires human verification against the federal exhibit.
 Investigative Direction: Obtain the original text-message screenshots from the federal exhibit to verify wording and authorship.
@@ -578,7 +580,8 @@ Claim Timestamp: 00:02:42
 Claim: The text exchange between Tyler Robinson and 'Lance' describes seeing a 'squad car' near the rifle, which the host argues is insider language.
 Transcript Snippet: I can get close to it, but there is a squad car parked right by it. Squad car.
 Anchored Artifacts: 
-Related Nodes: N-69, N-84, N-1114
+Mentions: N-69, N-84
+Related Nodes: N-1114
 Confidence: low
 Uncertainty: Artifact verbally referenced but not shown on screen.
 Investigative Direction: Cross-check the original text-message screenshots from the federal exhibit.
@@ -591,7 +594,8 @@ Claim Timestamp: 00:13:13
 Claim: TMZ first aired doorbell-camera footage of a person running on a residential street near UVU on September 10, 2025, attributed to Irwin Steel's home.
 Transcript Snippet: TMZ is the first on September 10th. That tells us that there is doorbell cam footage.
 Anchored Artifacts: A-1112.1, A-1112.2
-Related Nodes: N-108, N-113, N-114, N-1076, N-1127, N-1115, N-1117
+Mentions: N-108, N-113, N-114
+Related Nodes: N-1076, N-1115, N-1117, N-1127
 Confidence: high
 Investigative Direction: Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.
 
@@ -603,7 +607,8 @@ Claim Timestamp: 00:20:50
 Claim: BBC published an account by Sherry Steel describing a large police presence and helicopter activity outside Tyler Robinson's townhouse while she walked her dog in the evening.
 Transcript Snippet: Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.
 Anchored Artifacts: A-1113.1
-Related Nodes: N-109, N-69, N-1123, N-1115
+Mentions: N-69, N-109
+Related Nodes: N-1115, N-1123
 Confidence: high
 Investigative Direction: Confirm Sherry Steel exists in property / building databases; obtain her withheld video from BBC.
 
@@ -615,7 +620,8 @@ Claim Timestamp: 00:23:54
 Claim: Tiffany Barker and her nieces L Steel and Mia Grant stated on Good Morning America that they were roughly 15 feet from Charlie Kirk when he was shot and described a family group of 16.
 Transcript Snippet: We had 16 of us there. So, five adults and like 11 children.
 Anchored Artifacts: A-1114.1
-Related Nodes: N-110, N-111, N-112, N-1077, N-1125, N-1115
+Mentions: N-110, N-111, N-112
+Related Nodes: N-1077, N-1115, N-1125
 Confidence: high
 Investigative Direction: Corroborate the family's UVU attendance, family-of-16 size, and relationship to one another.
 
@@ -627,7 +633,8 @@ Claim Timestamp: 00:40:35
 Claim: Benjamin Netanyahu issued a second video statement denying that Israel had any role in Charlie Kirk's murder and quoted from a letter he attributes to Kirk.
 Transcript Snippet: somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.
 Anchored Artifacts: A-1115.1
-Related Nodes: N-65, N-1121, N-1091
+Mentions: N-65
+Related Nodes: N-1091, N-1121
 Confidence: high
 Investigative Direction: Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.
 
@@ -639,7 +646,8 @@ Claim Timestamp: 00:48:01
 Claim: Eric Bowling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.
 Transcript Snippet: When's the last time she was at a Turning Point event? Uh, not in many years.
 Anchored Artifacts: A-1116.1
-Related Nodes: N-107, N-3, N-1124, N-1000, N-1121, N-1122
+Mentions: N-3, N-107
+Related Nodes: N-1000, N-1121, N-1122, N-1124
 Contradicts: C-1200
 Confidence: high
 Investigative Direction: Compare PBD clip against TPUSA published tour / speaker schedules from 2024–2025.
@@ -652,7 +660,8 @@ Claim Timestamp: 00:46:00
 Claim: Bill Aman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; host notes the messages lack dates and context and do not address her specific assertions.
 Transcript Snippet: Blackman published these private text messages… missing from these messages are like a date, a context.
 Anchored Artifacts: A-1117.1
-Related Nodes: N-66, N-3, N-1092, N-1121
+Mentions: N-3, N-66
+Related Nodes: N-1092, N-1121
 Confidence: medium
 Investigative Direction: Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.
 
@@ -679,7 +688,8 @@ Claim Timestamp: 01:11:30
 Claim: A Utah-based artist posted a song titled 'Charlie Kirk Dead at 31' before Tyler Robinson was publicly identified, drawing speculation about pre-knowledge.
 Transcript Snippet: some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.
 Anchored Artifacts: A-1119.1
-Related Nodes: N-69, N-1113
+Mentions: N-69
+Related Nodes: N-1113
 Confidence: low
 Investigative Direction: Recover the original upload via Wayback / platform archives; confirm upload timestamps and artist identity.
 
@@ -691,7 +701,8 @@ Claim Timestamp: 00:29:50
 Claim: A local source told the host that the rifle was recovered by a chicken coop in a suburban backyard, not in a wooded area as federal accounts suggest.
 Transcript Snippet: the gun was found in the backyard of someone that I know… it was found by a chicken coop.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1077, N-1118
+Mentions: N-69
+Related Nodes: N-1077, N-1118
 Confidence: medium
 Uncertainty: Single anonymous local source relayed by host.
 Investigative Direction: Cross-check federal affidavit language re 'woods'; obtain property records for the chicken-coop site.
@@ -704,7 +715,8 @@ Claim Timestamp: 00:30:30
 Claim: Locals theorise that a vacant house next door to the gun-recovery site is owned by Utah Valley University and served as the real shooter's safe house, with Robinson acting as a decoy.
 Transcript Snippet: the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1077, N-1127, N-1118
+Mentions: N-69
+Related Nodes: N-1077, N-1118, N-1127
 Confidence: low
 Investigative Direction: Pull county property records for the parcel; confirm UVU ownership and occupancy status.
 
@@ -716,7 +728,8 @@ Claim Timestamp: 00:22:56
 Claim: The host's team searched local databases for a 'Sherry Steel' at the apartment complex and contacted Robinson's family; no matching resident was located.
 Transcript Snippet: I cannot find a woman named Sher Steel that lives in that building complex.
 Anchored Artifacts: 
-Related Nodes: N-109, N-1115
+Mentions: N-109
+Related Nodes: N-1115
 Confidence: medium
 Investigative Direction: Independent database search; pull tenant rolls from the property management company.
 
@@ -728,7 +741,8 @@ Claim Timestamp: 00:49:24
 Claim: Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bowling's claim that she has not spoken at TPUSA events.
 Transcript Snippet: I literally went on tour with Turning Point USA on college campuses last year.
 Anchored Artifacts: 
-Related Nodes: N-3, N-1000
+Mentions: N-3
+Related Nodes: N-1000
 Contradicts: C-1193
 Confidence: medium
 Investigative Direction: Pull TPUSA published tour schedules and verify Owens speaking appearances.
@@ -741,7 +755,8 @@ Claim Timestamp: 00:55:35
 Claim: Candace Owens states she was not invited to speak at the Kirk memorial event held in Arizona, and that the event was effectively an open memorial.
 Transcript Snippet: I was not invited to speak alongside President Trump and JD Vance on the stage.
 Anchored Artifacts: 
-Related Nodes: N-3, N-2, N-1122
+Mentions: N-2, N-3
+Related Nodes: N-1122
 Confidence: medium
 Investigative Direction: Verify published speaker list for the Arizona memorial event.
 
@@ -753,7 +768,8 @@ Claim Timestamp: 00:04:37
 Claim: Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.
 Transcript Snippet: the feds told them that they were not allowed to share it at all.
 Anchored Artifacts: 
-Related Nodes: N-3, N-1120, N-1129
+Mentions: N-3
+Related Nodes: N-1120, N-1129
 Confidence: medium
 Investigative Direction: FOIA requests to federal agencies; canvass Orem residents for corroboration.
 
@@ -765,7 +781,8 @@ Claim Timestamp: 00:18:13
 Claim: Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel — not Irwin Steel alone.
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
-Related Nodes: N-108, N-113, N-114, N-1115, N-1117, N-1127
+Mentions: N-108, N-113, N-114
+Related Nodes: N-1115, N-1117, N-1127
 Confidence: medium
 Investigative Direction: Pull county recorder data for the parcel to confirm ownership chain.
 
@@ -777,7 +794,8 @@ Claim Timestamp: 00:48:32
 Claim: Eric Bowling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.
 Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
-Related Nodes: N-107, N-3, N-50, N-42, N-1000, N-1121
+Mentions: N-3, N-42, N-50, N-107
+Related Nodes: N-1000, N-1121
 Contradicts: C-1200
 Confidence: high
 Investigative Direction: Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.

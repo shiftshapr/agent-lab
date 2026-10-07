@@ -681,12 +681,13 @@
       "anchored_artifacts": [
         "A-1822.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:13",
-      "investigative_direction": "Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance."
+      "investigative_direction": "Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -697,13 +698,14 @@
       "anchored_artifacts": [
         "A-1823.1"
       ],
-      "related_nodes": [
-        "N-2",
-        "N-963"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:32",
-      "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings."
+      "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-963"
+      ]
     },
     {
       "@type": "Claim",
@@ -715,12 +717,14 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1599"
       ],
       "tags": [],
       "claim_timestamp": "00:11:25",
-      "investigative_direction": "Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions."
+      "investigative_direction": "Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -732,12 +736,14 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1598"
       ],
       "tags": [],
       "claim_timestamp": "00:15:31",
-      "investigative_direction": "Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records."
+      "investigative_direction": "Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -749,12 +755,14 @@
         "A-1826.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1597"
       ],
       "tags": [],
       "claim_timestamp": "00:19:15",
-      "investigative_direction": "Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records."
+      "investigative_direction": "Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -766,13 +774,15 @@
         "A-1827.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-961",
         "N-1597"
       ],
       "tags": [],
       "claim_timestamp": "00:20:51",
-      "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history."
+      "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-961"
+      ]
     },
     {
       "@type": "Claim",
@@ -784,12 +794,14 @@
         "A-1828.1"
       ],
       "related_nodes": [
-        "N-1600",
-        "N-37"
+        "N-1600"
       ],
       "tags": [],
       "claim_timestamp": "00:23:16",
-      "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline."
+      "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -801,14 +813,16 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-964",
-        "N-966",
         "N-1601"
       ],
       "tags": [],
       "claim_timestamp": "00:29:37",
-      "investigative_direction": "Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism."
+      "investigative_direction": "Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-964",
+        "N-966"
+      ]
     },
     {
       "@type": "Claim",
@@ -820,14 +834,16 @@
         "A-1830.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-964",
-        "N-965",
         "N-1601"
       ],
       "tags": [],
       "claim_timestamp": "00:34:00",
-      "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate."
+      "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-964",
+        "N-965"
+      ]
     },
     {
       "@type": "Claim",
@@ -839,13 +855,15 @@
         "A-1831.1"
       ],
       "related_nodes": [
-        "N-964",
-        "N-965",
         "N-1601"
       ],
       "tags": [],
       "claim_timestamp": "00:34:21",
-      "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited."
+      "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.",
+      "mentions_person_refs": [
+        "N-964",
+        "N-965"
+      ]
     },
     {
       "@type": "Claim",
@@ -857,12 +875,14 @@
         "A-1832.1"
       ],
       "related_nodes": [
-        "N-1601",
-        "N-37"
+        "N-1601"
       ],
       "tags": [],
       "claim_timestamp": "00:38:23",
-      "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted."
+      "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -874,12 +894,14 @@
         "A-1833.1"
       ],
       "related_nodes": [
-        "N-1602",
-        "N-37"
+        "N-1602"
       ],
       "tags": [],
       "claim_timestamp": "00:26:36",
-      "investigative_direction": "Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles."
+      "investigative_direction": "Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles.",
+      "mentions_person_refs": [
+        "N-37"
+      ]
     },
     {
       "@type": "Claim",
@@ -907,12 +929,14 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1599"
       ],
       "tags": [],
       "claim_timestamp": "00:13:41",
-      "investigative_direction": "Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation."
+      "investigative_direction": "Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -924,12 +948,14 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1598"
       ],
       "tags": [],
       "claim_timestamp": "00:14:38",
-      "investigative_direction": "Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive."
+      "investigative_direction": "Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -941,13 +967,15 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-964",
-        "N-966",
         "N-1601"
       ],
       "tags": [],
       "claim_timestamp": "00:31:36",
-      "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities."
+      "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.",
+      "mentions_person_refs": [
+        "N-964",
+        "N-966"
+      ]
     }
   ],
   "memes": []

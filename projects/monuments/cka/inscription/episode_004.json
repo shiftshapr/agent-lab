@@ -1092,18 +1092,20 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-69",
-        "N-84",
-        "N-1103",
-        "N-2",
-        "N-99",
-        "N-68"
+        "N-1103"
       ],
       "tags": [],
       "claim_timestamp": "00:00:41",
       "investigative_direction": "Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.",
       "transcript_snippet": "I played this game with my entire staff… someone used that term. The first was former military, second was a cop.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-2",
+        "N-68",
+        "N-69",
+        "N-84",
+        "N-99"
+      ]
     },
     {
       "@type": "Claim",
@@ -1121,7 +1123,6 @@
         "A-1106.3"
       ],
       "related_nodes": [
-        "N-69",
         "N-1104",
         "N-1111"
       ],
@@ -1129,7 +1130,10 @@
       "claim_timestamp": "00:03:33",
       "investigative_direction": "FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.",
       "transcript_snippet": "the obvious thing, there's no timestamps. Right away, major red flag.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1141,15 +1145,17 @@
         "A-1104.1"
       ],
       "related_nodes": [
-        "N-69",
-        "N-84",
         "N-1106"
       ],
       "tags": [],
       "claim_timestamp": "00:06:16",
       "investigative_direction": "Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.",
       "transcript_snippet": "even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1163,16 +1169,18 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-69",
-        "N-71",
-        "N-102",
         "N-1105"
       ],
       "tags": [],
       "claim_timestamp": "00:09:58",
       "investigative_direction": "Recover device timestamps and confirm Cox press transcript.",
       "transcript_snippet": "the earliest that that message could have been sent out is after 5:30 p.m.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69",
+        "N-71",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -1190,14 +1198,16 @@
         "A-1106.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1105"
       ],
       "tags": [],
       "claim_timestamp": "00:11:43",
       "investigative_direction": "Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.",
       "transcript_snippet": "I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1209,14 +1219,16 @@
         "A-1104.4"
       ],
       "related_nodes": [
-        "N-69",
         "N-1107"
       ],
       "tags": [],
       "claim_timestamp": "00:15:24",
       "investigative_direction": "Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.",
       "transcript_snippet": "I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1230,14 +1242,16 @@
         "A-1105.3"
       ],
       "related_nodes": [
-        "N-84",
         "N-1109"
       ],
       "tags": [],
       "claim_timestamp": "00:33:19",
       "investigative_direction": "Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.",
       "transcript_snippet": "Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1251,7 +1265,6 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-70",
         "N-1107",
         "N-1111"
       ],
@@ -1260,7 +1273,10 @@
       "investigative_direction": "Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.",
       "transcript_snippet": "for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.",
       "confidence": "low",
-      "uncertainty_note": "Source-based claim; no independent corroboration presented in episode."
+      "uncertainty_note": "Source-based claim; no independent corroboration presented in episode.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1274,7 +1290,6 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-1108",
         "N-1111"
       ],
@@ -1283,7 +1298,10 @@
       "investigative_direction": "Release full unedited video from both camera angles; forensic gait/posture analysis.",
       "transcript_snippet": "I think the person in the maroon that's walking is different from the person that's walking up the stairs.",
       "confidence": "low",
-      "uncertainty_note": "Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented."
+      "uncertainty_note": "Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1293,7 +1311,6 @@
       "claim": "Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-103",
         "N-1110"
       ],
       "tags": [],
@@ -1301,7 +1318,10 @@
       "investigative_direction": "Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.",
       "transcript_snippet": "I already don't like that mom… received a bachelor of science from Stanford University in psychology.",
       "confidence": "low",
-      "uncertainty_note": "Degree claim not independently sourced; presented as host assertion."
+      "uncertainty_note": "Degree claim not independently sourced; presented as host assertion.",
+      "mentions_person_refs": [
+        "N-103"
+      ]
     },
     {
       "@type": "Claim",
@@ -1316,22 +1336,24 @@
         "A-1109.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-65",
-        "N-45",
-        "N-50",
-        "N-75",
-        "N-104",
-        "N-67",
-        "N-86",
-        "N-1112",
-        "N-3"
+        "N-1112"
       ],
       "tags": [],
       "claim_timestamp": "00:58:39",
       "investigative_direction": "Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.",
       "transcript_snippet": "two days before he died, he lost a $2 million donation… people are really mad.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-45",
+        "N-50",
+        "N-65",
+        "N-67",
+        "N-75",
+        "N-86",
+        "N-104"
+      ]
     }
   ],
   "memes": [

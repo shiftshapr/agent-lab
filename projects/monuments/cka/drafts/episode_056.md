@@ -397,7 +397,7 @@ Claim Timestamp: 00:04:58
 Claim: Charlie Kirk, in his own recorded words, argued against broader US military engagement with Iran and against neocon calls for regime change.
 
 Anchored Artifacts: A-1617.1
-Related Nodes: N-1
+Mentions: N-1
 Investigative Direction: Obtain primary recording and timestamp; verify quote against original source; confirm date of recording.
 
 **C-2076** Charlie Kirk Criticized Lindsey Graham's Iran Regime-Change Rhetoric
@@ -407,7 +407,7 @@ Claim Timestamp: 00:04:58
 Claim: Charlie Kirk criticized Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
 
 Anchored Artifacts: A-1617.1
-Related Nodes: N-1, N-716
+Mentions: N-1, N-716
 Investigative Direction: Obtain primary recording; verify exact phrasing.
 
 **C-2077** Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
@@ -417,7 +417,8 @@ Claim Timestamp: 00:13:58
 Claim: A court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-706, N-707, N-1480
+Mentions: N-706, N-707
+Related Nodes: N-1480
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
 **C-2078** Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death
@@ -427,7 +428,8 @@ Claim Timestamp: 00:16:20
 Claim: Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 — approximately four months before his death at age 95.
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-706, N-1480
+Mentions: N-706
+Related Nodes: N-1480
 Investigative Direction: Obtain probate court filings; verify valuation and date of will execution.
 
 **C-2079** Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker
@@ -437,7 +439,8 @@ Claim Timestamp: 00:16:20
 Claim: Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-707, N-708, N-1480
+Mentions: N-707, N-708
+Related Nodes: N-1480
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 
 **C-2080** Jennings Estate Reportedly Split Between Turning Point Action and YAF
@@ -447,7 +450,8 @@ Claim Timestamp: 00:17:23
 Claim: The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-70, N-1480, N-37
+Mentions: N-37, N-70
+Related Nodes: N-1480
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
 **C-2081** Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group
@@ -457,7 +461,8 @@ Claim Timestamp: 00:18:40
 Claim: Paul E. Valli (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
 
 Anchored Artifacts: A-1620.1
-Related Nodes: N-710, N-1481
+Mentions: N-710
+Related Nodes: N-1481
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
 **C-2082** Valli and Aquino Co-Authored *Mind War* in 1980
@@ -467,7 +472,8 @@ Claim Timestamp: 00:21:42
 Claim: Paul Valli and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
 Anchored Artifacts: A-1621.1
-Related Nodes: N-710, N-711, N-1481
+Mentions: N-710, N-711
+Related Nodes: N-1481
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
 **C-2083** Michael Aquino Joined the Church of Satan in 1969
@@ -477,7 +483,8 @@ Claim Timestamp: 00:22:47
 Claim: Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.
 
 Anchored Artifacts: A-1622.2
-Related Nodes: N-711, N-1481
+Mentions: N-711
+Related Nodes: N-1481
 Investigative Direction: Cross-check Aquino's published biographical statements; consult Church of Satan archives.
 
 **C-2084** Aquino Founded the Temple of Set in 1975
@@ -487,7 +494,8 @@ Claim Timestamp: 00:22:47
 Claim: Michael Aquino left the Church of Satan in 1975 and founded the Temple of Set after a doctrinal dispute over whether Satan was literal or metaphorical.
 
 Anchored Artifacts: A-1622.1, A-1622.2
-Related Nodes: N-711, N-1481
+Mentions: N-711
+Related Nodes: N-1481
 Investigative Direction: Verify founding documents; cross-check Temple of Set records.
 
 **C-2085** SF Police Investigated Aquino in 1986 re: Army Child Development Center
@@ -497,7 +505,8 @@ Claim Timestamp: 00:27:54
 Claim: In 1986, San Francisco police opened an investigation into Michael Aquino in connection with allegations of sexual abuse at the Army's Child Development Center in San Francisco.
 
 Anchored Artifacts: A-1623.1
-Related Nodes: N-711, N-1481
+Mentions: N-711
+Related Nodes: N-1481
 Investigative Direction: Obtain SFPD case records (case number); verify closure status and stated reason.
 
 **C-2086** 1987 Victim Identified Aquino; Case Closed for Insufficient Evidence
@@ -507,7 +516,8 @@ Claim Timestamp: 00:27:54
 Claim: In 1987, a girl came forward identifying Aquino as the perpetrator, but the case was closed for insufficient evidence, despite the victim reportedly describing the house where abuse occurred.
 
 Anchored Artifacts: A-1623.2
-Related Nodes: N-711, N-1481
+Mentions: N-711
+Related Nodes: N-1481
 Investigative Direction: Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.
 
 **C-2087** Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home
@@ -517,7 +527,8 @@ Claim Timestamp: 00:32:12
 Claim: Twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.
 
 Anchored Artifacts: A-1624.1
-Related Nodes: N-712, N-1482
+Mentions: N-712
+Related Nodes: N-1482
 Investigative Direction: Obtain court filings (case numbers, jurisdiction); verify plaintiff count.
 
 **C-2088** Allegations Include Specific Abuse Categories at Romanian Shelter
@@ -527,7 +538,8 @@ Claim Timestamp: 00:34:03
 Claim: Allegations against Paul Hascgard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.
 
 Anchored Artifacts: A-1624.2
-Related Nodes: N-713, N-1482
+Mentions: N-713
+Related Nodes: N-1482
 Investigative Direction: Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).
 
 **C-2089** Twenty-Three Former Residents Expected to File Complaints
@@ -537,7 +549,8 @@ Claim Timestamp: 00:35:00
 Claim: The law firm representing survivors has stated that twenty-three former residents of the home are expected to bring complaints; most recent complaints were filed in November.
 
 Anchored Artifacts: A-1624.3
-Related Nodes: N-713, N-1482
+Mentions: N-713
+Related Nodes: N-1482
 Investigative Direction: Obtain law firm press release; track complaint filings in docket.
 
 **C-2090** Scott Adams Died at 68 from Prostate Cancer
@@ -547,7 +560,7 @@ Claim Timestamp: 00:38:11
 Claim: Scott Adams, creator of *Dilbert*, died at age 68 from prostate cancer; host states he had said he was "coming to the Lord" before passing.
 
 Anchored Artifacts: A-1625.1
-Related Nodes: N-266
+Mentions: N-266
 Investigative Direction: Cross-check obituary; verify cause of death and date.
 
 **C-2091** Social Blade Records Erica Kirk Deleting 126 Instagram Posts on June 19
@@ -557,7 +570,8 @@ Claim Timestamp: 00:12:24
 Claim: Social Blade data records Erica Kirk deleting 126 Instagram posts on June 19.
 
 Anchored Artifacts: A-1626.1
-Related Nodes: N-2, N-1483
+Mentions: N-2
+Related Nodes: N-1483
 Investigative Direction: Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts.
 
 **C-2092** Tucker Carlson Compared Lindsey Graham's Behavior to a Drunk Girlfriend During DUI Stop
@@ -567,7 +581,7 @@ Claim Timestamp: 00:07:08
 Claim: Tucker Carlson, in his own recorded words, compared Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
 
 Anchored Artifacts: A-1618.1
-Related Nodes: N-50, N-716
+Mentions: N-50, N-716
 Investigative Direction: Locate original clip; verify date and outlet.
 
 **C-2093** Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC
@@ -577,7 +591,7 @@ Claim Timestamp: 00:44:19
 Claim: Andrew (Anthony) Aguilar, self-identified as a Gaza-whistleblower Green Beret, states he was arrested on September 3 at Congress for calling out AIPAC.
 
 Anchored Artifacts: A-1627.1
-Related Nodes: N-719
+Mentions: N-719
 Investigative Direction: Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.
 
 **C-2094** Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud
@@ -587,7 +601,7 @@ Claim Timestamp: 00:09:14
 Claim: Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.
 
 Anchored Artifacts: (no direct artifact displayed in this episode — host references her previously shown timeline)
-Related Nodes: N-483
+Mentions: N-483
 Investigative Direction: Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**
 
 **C-2095** Host Asserts Iran–Israel 12-Day War Commenced June 13 Following Plane Departures
@@ -597,7 +611,7 @@ Claim Timestamp: 00:10:59
 Claim: Host asserts that the Iran–Israel 12-day war commenced on June 13, immediately following the SUBTU plane's reported departure from Provo on June 2.
 
 Anchored Artifacts: (host assertion referencing publicly known conflict dates; no specific artifact shown)
-Related Nodes: N-483
+Mentions: N-483
 Investigative Direction: Verify conflict onset date via public news records; cross-check host's timeline against flight records.
 
 ---

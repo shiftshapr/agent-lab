@@ -570,8 +570,8 @@ Claim Timestamp: 00:03:06
 Claim: Charlie Kirk wrote in a 2018 message to the host that he dreamed "all the time" about being killed and believed he might be "wiped out" at any time.
 
 Anchored Artifacts: A-2045.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain the original 2018 text record or corroborating screenshots; compare wording to other contemporaneous Kirk statements.
 
@@ -584,8 +584,8 @@ Claim Timestamp: 00:03:06
 Claim: In a 2018 follow-up text to the host, Charlie Kirk wrote that he was "not really afraid" of being killed.
 
 Anchored Artifacts: A-2045.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Corroborate the second message via original device records or screenshots.
 
@@ -724,8 +724,9 @@ Claim Timestamp: 00:24:59
 Claim: Newsweek page views for the Josh Hammer show display counts of 399, 386, 665, and 355 across four recent videos, indicating negligible audience reach.
 
 Anchored Artifacts: A-2050.1
+Mentions: N-42
 
-Related Nodes: N-42, N-1733
+Related Nodes: N-1733
 
 Investigative Direction: Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.
 
@@ -822,8 +823,8 @@ Claim Timestamp: 00:22:23
 Claim: On September 9, 2025, Charlie Kirk sent a group text declaring he had been "given no choice but to abandon the pro-Israel cause" due to bullying and financial pressure.
 
 Anchored Artifacts: A-2060.1
+Mentions: N-1, N-42
 
-Related Nodes: N-1, N-42
 
 Investigative Direction: Obtain the original group text record; verify the participant list and exact wording.
 

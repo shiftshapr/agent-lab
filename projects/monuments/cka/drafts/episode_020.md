@@ -555,7 +555,7 @@ Claim Timestamp: 00:03:50
 Claim: In the April 13, 2018 text exchange (A-1270.1), Candace tells Charlie that Kanye West was writing a philosophy book titled "Break the Simulation" and explicitly tags him "Blexit AF."
 
 Anchored Artifacts: A-1270.1
-Related Nodes: N-1, N-56
+Mentions: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange (carrier records, device forensics).
 
@@ -568,7 +568,7 @@ Claim Timestamp: 00:03:50
 Claim: Charlie's reply in the April 13, 2018 text exchange states he loves Kanye and "will find a way to him" with a promise to do so.
 
 Anchored Artifacts: A-1270.1
-Related Nodes: N-1, N-56
+Mentions: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange and any subsequent contact logs between Charlie and Kanye representatives.
 
@@ -581,7 +581,7 @@ Claim Timestamp: 00:05:35
 Claim: Charlie's April 20, 2018 evening text states he is running while blasting Kanye West and that "we're on the brink of something big and like this is our time."
 
 Anchored Artifacts: A-1270.2
-Related Nodes: N-1, N-56
+Mentions: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange and corroborating device or carrier records.
 
@@ -594,7 +594,7 @@ Claim Timestamp: 00:06:20
 Claim: The April 21, 2018 morning text exchange shows Candace "shaking" and Charlie writing "I am freaking the f out."
 
 Anchored Artifacts: A-1270.3
-Related Nodes: N-1, N-56
+Mentions: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange and timestamps.
 
@@ -607,7 +607,7 @@ Claim Timestamp: 00:04:50
 Claim: Mike Cernovich posted a series of tweets around April 16, 2018 stating that high-consciousness people were reporting a paradigm-level energy shift that began two-to-three weeks earlier.
 
 Anchored Artifacts: A-1271.1
-Related Nodes: N-269
+Mentions: N-269
 
 Investigative Direction: Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating.
 
@@ -620,7 +620,7 @@ Claim Timestamp: 00:04:50
 Claim: Host asserts that Cernovich's tweets confirmed her and Charlie's contemporaneous experience of the same shift.
 
 Anchored Artifacts: A-1271.1
-Related Nodes: N-269
+Mentions: N-269
 
 Investigative Direction: Identify and timestamp any other contemporaneous public statements or private messages corroborating the "energy shift" framing.
 
@@ -633,7 +633,7 @@ Claim Timestamp: 00:06:50
 Claim: Kanye West posted "I love the way Candace Owens thinks" on April 21, 2018.
 
 Anchored Artifacts: A-1272.1
-Related Nodes: N-56
+Mentions: N-56
 
 Investigative Direction: Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export).
 
@@ -646,7 +646,7 @@ Claim Timestamp: 00:07:00–00:09:05
 Claim: Scott Adams, in commentary played on air, stated Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
 Anchored Artifacts: A-1273.1
-Related Nodes: N-266
+Mentions: N-266
 
 Investigative Direction: Locate and timestamp original Scott Adams video; verify exact wording against played clip.
 
@@ -659,7 +659,7 @@ Claim Timestamp: 00:14:35–00:17:00
 Claim: In audio played on air, Candace states Hitler "was a national socialist" but argues he was not a nationalist because "he wanted to globalize."
 
 Anchored Artifacts: A-1274.1
-Related Nodes: N-2
+Mentions: N-2
 
 Investigative Direction: Obtain original full Q&A video, confirm context of the audience question and any prior question framing.
 
@@ -672,7 +672,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: In TPUSA audio played on air, Andrew Kovett states Charlie repeatedly instructed Mikey that "If anything ever happens to me, you call Erika," and that Mikey followed that protocol after the shot.
 
 Anchored Artifacts: A-1275.1
-Related Nodes: N-42, N-272, N-1, N-2
+Mentions: N-1, N-2, N-42, N-272
 
 Investigative Direction: Verify whether Mikey McCoy himself has publicly corroborated Kovett's account, and obtain any contemporaneous record of the alleged instruction.
 
@@ -685,7 +685,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: Kovett states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.
 
 Anchored Artifacts: A-1275.1
-Related Nodes: N-42, N-272, N-1
+Mentions: N-1, N-42, N-272
 
 Investigative Direction: Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame.
 
@@ -698,7 +698,7 @@ Claim Timestamp: 00:46:30–00:48:30
 Claim: In Breitbart audio played on air, Alex Marlo characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile" and likens the mindset fueling such claims to drug or pornography addiction.
 
 Anchored Artifacts: A-1276.1
-Related Nodes: N-273, N-272
+Mentions: N-272, N-273
 
 Investigative Direction: Identify date and outlet of Marlo's full segment; obtain full unedited clip.
 
@@ -711,7 +711,7 @@ Claim Timestamp: 00:50:30–00:52:30
 Claim: Frank Turk states there is a "difference between a possibility and evidence for a possibility," tells critics without evidence to "shut up," and characterizes Mikey McCoy's actions on September 10, 2025 as heroic given his age (23) at the time.
 
 Anchored Artifacts: A-1277.1
-Related Nodes: N-16, N-272
+Mentions: N-16, N-272
 
 Investigative Direction: Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.
 
@@ -724,7 +724,8 @@ Claim Timestamp: 00:32:30–00:35:00
 Claim: Host displays a UVU Hospital internal message dated September 10, 2025 (received per host at 20:08) instructing staff that only "Deborah" and "Jacob Blank" are allowed to access the trauma-patient chart.
 
 Anchored Artifacts: A-1278.1
-Related Nodes: N-284, N-1262, N-1
+Mentions: N-1, N-284
+Related Nodes: N-1262
 
 Investigative Direction: Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.
 
@@ -737,7 +738,8 @@ Claim Timestamp: 00:32:30–00:35:00
 Claim: Host asserts that tipsters from UVU medical staff have confirmed that Charlie was admitted/entered into UVU's system, and that the internal memo at A-1278.1 corroborates the file's existence there.
 
 Anchored Artifacts: A-1278.1
-Related Nodes: N-1262, N-1
+Mentions: N-1
+Related Nodes: N-1262
 
 Investigative Direction: Obtain independent verification from UVU medical staff or institutional records; reconcile with the contemporaneous routing to Timpanogos Regional Hospital.
 
@@ -750,7 +752,8 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; host asserts Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
 
 Anchored Artifacts: A-1279.1, A-1282.1
-Related Nodes: N-45, N-283, N-285, N-1263
+Mentions: N-45, N-283, N-285
+Related Nodes: N-1263
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
 
@@ -763,7 +766,8 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy was connected to the New Apostolic Reformation (NAR) donor network Ziklag, described as "$25 million and above" Christian-right donors.
 
 Anchored Artifacts: A-1279.1
-Related Nodes: N-45, N-285, N-1263
+Mentions: N-45, N-285
+Related Nodes: N-1263
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
 
@@ -776,7 +780,7 @@ Claim Timestamp: 00:57:30–00:59:30
 Claim: Host cites reporting, attributed to a French government official named Mr. Burme, that Brigitte Macron's French tax account lists her name as "Jean Michelle" and sex as male.
 
 Anchored Artifacts: A-1280.1
-Related Nodes: N-117
+Mentions: N-117
 
 Investigative Direction: Obtain the original French reporting, the Burme statement, and any tax-form documentation referenced; verify the dating of the records.
 
@@ -789,7 +793,7 @@ Claim Timestamp: 00:57:30–00:59:30
 Claim: Host rejects the public suggestion that the "Jean Michelle" entry was the product of a hacker, arguing the risk/reward of hacking a sitting president's records solely to change a name entry is implausible.
 
 Anchored Artifacts: A-1280.1
-Related Nodes: N-117
+Mentions: N-117
 
 Investigative Direction: Identify and obtain the original reporting cited by host; obtain French government statement (if any) addressing the discrepancy.
 
@@ -802,7 +806,7 @@ Claim Timestamp: 00:55:30–00:56:30
 Claim: Host states Nathan Livingstone ("Milk Bar TV") re-uploaded Book Club content watermarked with his own branding, and after being issued a copyright strike publicly complained that Candace was trying to silence him.
 
 Anchored Artifacts: A-1281.1
-Related Nodes: N-277
+Mentions: N-277
 
 Investigative Direction: Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record.
 
@@ -815,8 +819,8 @@ Claim Timestamp: 00:57:00–00:58:00
 Claim: Host discusses David Horowitz in episode narrative (register anchor).
 
 Anchored Artifacts: A-1281.1
+Mentions: N-278
 
-Related Nodes: N-278
 
 Investigative Direction: Tie to primary on-screen artifact in a follow-up pass if needed.
 
@@ -829,8 +833,8 @@ Claim Timestamp: 00:58:00–00:59:00
 Claim: Host discusses John Mappen (Arena Mappen / Nina variants) in Macron-related segment.
 
 Anchored Artifacts: A-1280.1
+Mentions: N-217
 
-Related Nodes: N-217
 
 Investigative Direction: Obtain on-screen citations from the Macron segment.
 
@@ -843,8 +847,8 @@ Claim Timestamp: 00:59:00–01:00:00
 Claim: Host references Dr. Lee Trotter in medical-report discussion (register anchor).
 
 Anchored Artifacts: A-1278.1
+Mentions: N-281
 
-Related Nodes: N-281
 
 Investigative Direction: Cross-reference hospital message artifacts.
 
@@ -857,8 +861,8 @@ Claim Timestamp: 01:00:00–01:01:00
 Claim: Host references Dr. Deidra Weiss Amaro in UVU trauma-file discussion (register anchor).
 
 Anchored Artifacts: A-1278.1
+Mentions: N-249
 
-Related Nodes: N-249
 
 Investigative Direction: Verify spelling against hospital records if released.
 

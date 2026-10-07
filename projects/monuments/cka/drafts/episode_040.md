@@ -243,7 +243,8 @@ Claim Timestamp: 00:28:38–00:29:32
 Claim: TPUSA, via Blake Nef's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-224, N-1378
+Mentions: N-224
+Related Nodes: N-1378
 Investigative Direction: Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.
 
 ---
@@ -255,7 +256,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-224
+Mentions: N-224
 Investigative Direction: Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.
 
 ---
@@ -267,7 +268,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that the organization has never missed a 990 filing deadline.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-224
+Mentions: N-224
 Investigative Direction: Verify filing history against IRS Form 990 public records.
 
 ---
@@ -279,7 +280,7 @@ Claim Timestamp: 00:21:20–00:22:24
 Claim: In the video statement, TPUSA cited Charlie's "do not feed the trolls" rule and characterized the host's allegations as beneath contempt as justification for prior non-response.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-224
+Mentions: N-224
 Investigative Direction: Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations.
 
 ---
@@ -291,7 +292,7 @@ Claim Timestamp: 00:41:49
 Claim: At the Pentagon briefing on December 3, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.
 
 Anchored Artifacts: A-1490.1
-Related Nodes: N-479, N-480
+Mentions: N-479, N-480
 Investigative Direction: Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.
 
 ---
@@ -303,7 +304,7 @@ Claim Timestamp: 00:43:00
 Claim: Pentagon press secretary Kingsley Wilson responded "not that I'm aware of" to the question of whether DoD had evidence of a French military plot to assassinate Candace Owens, and suggested it might be more of a law enforcement matter.
 
 Anchored Artifacts: A-1490.1
-Related Nodes: N-480
+Mentions: N-480
 Investigative Direction: Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.
 
 ---
@@ -315,7 +316,7 @@ Claim Timestamp: 00:50:53–00:51:42
 Claim: The Game is releasing a mixtape that contains a track titled "The Assassination of Candace Owens."
 
 Anchored Artifacts: A-1491.1
-Related Nodes: N-481
+Mentions: N-481
 Investigative Direction: Verify the track listing against the released mixtape; obtain the song lyrics and release date.
 
 ---
@@ -327,7 +328,7 @@ Claim Timestamp: 00:51:42–00:52:23
 Claim: The Game stated in the interview that the song is not about Candace personally and that he used the title because she "self-admitted" feeling targeted, framing it as a metaphor about "assassination of the character."
 
 Anchored Artifacts: A-1491.1
-Related Nodes: N-481
+Mentions: N-481
 Investigative Direction: Confirm the artist's stated intent against the released song lyrics.
 
 ---
@@ -339,7 +340,7 @@ Claim Timestamp: 00:46:20
 Claim: A Fortune article published December 2 carried the headline "Inside the economics of Candace Owens's media empire and the Macron lawsuit threatening to unravel it."
 
 Anchored Artifacts: A-1492.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Locate the Fortune article, capture full byline, and verify publication date.
 
 ---
@@ -351,7 +352,7 @@ Claim Timestamp: 00:47:25
 Claim: The Fortune article stated that the lawsuit would test whether the "controversy as currency" model that enriched the host and built her media brand could survive what experts described as an immensely costly legal battle.
 
 Anchored Artifacts: A-1492.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Verify the quoted phrasing against the original article and identify the named "experts."
 
 ---

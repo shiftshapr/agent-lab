@@ -552,7 +552,8 @@ Claim Timestamp: 00:03:16
 Claim: Nate Walker, Charlie's executive assistant, told Megyn Kelly that Charlie requested the "freedom shirt" from a small selection brought to the event because it "wasn't controversial"; Walker could not recall other shirt options.
 
 Anchored Artifacts: A-2138.1
-Related Nodes: N-1, N-2122
+Mentions: N-1
+Related Nodes: N-2122
 Investigative Direction: Obtain full Megyn Kelly interview and any prior on-record statements by Walker.
 
 ---
@@ -612,7 +613,8 @@ Claim Timestamp: 00:01:37
 Claim: Host displays a photo showing Charlie Kirk wearing a customized Carhartt shirt (logo visible) on September 10, distinct from the all-cotton "freedom shirts" sold through TPUSA's for-profit arm after the assassination.
 
 Anchored Artifacts: A-2145.1
-Related Nodes: N-1, N-2122
+Mentions: N-1
+Related Nodes: N-2122
 Investigative Direction: Identify the vendor/contractor who produced the custom Carhartt shirt and the authorization chain for the custom order.
 
 ---

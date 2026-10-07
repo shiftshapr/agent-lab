@@ -714,12 +714,14 @@
         "A-1587.1"
       ],
       "related_nodes": [
-        "N-640",
         "N-1456"
       ],
       "tags": [],
       "claim_timestamp": "00:06:31",
-      "investigative_direction": "Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced."
+      "investigative_direction": "Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.",
+      "mentions_person_refs": [
+        "N-640"
+      ]
     },
     {
       "@type": "Claim",
@@ -732,12 +734,14 @@
         "A-1589.1"
       ],
       "related_nodes": [
-        "N-640",
         "N-1456"
       ],
       "tags": [],
       "claim_timestamp": "00:07:36",
-      "investigative_direction": "Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie."
+      "investigative_direction": "Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.",
+      "mentions_person_refs": [
+        "N-640"
+      ]
     },
     {
       "@type": "Claim",
@@ -749,12 +753,14 @@
         "A-1588.1"
       ],
       "related_nodes": [
-        "N-640",
         "N-1456"
       ],
       "tags": [],
       "claim_timestamp": "00:11:04",
-      "investigative_direction": "Verify the text message thread against phone records and identify the producer's account."
+      "investigative_direction": "Verify the text message thread against phone records and identify the producer's account.",
+      "mentions_person_refs": [
+        "N-640"
+      ]
     },
     {
       "@type": "Claim",
@@ -766,15 +772,17 @@
         "A-1590.1"
       ],
       "related_nodes": [
-        "N-642",
-        "N-644",
-        "N-645",
         "N-1457",
         "N-1462"
       ],
       "tags": [],
       "claim_timestamp": "00:24:45",
-      "investigative_direction": "Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications."
+      "investigative_direction": "Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.",
+      "mentions_person_refs": [
+        "N-642",
+        "N-644",
+        "N-645"
+      ]
     },
     {
       "@type": "Claim",
@@ -786,13 +794,15 @@
         "A-1591.1"
       ],
       "related_nodes": [
-        "N-641",
-        "N-642",
         "N-1457"
       ],
       "tags": [],
       "claim_timestamp": "00:18:09",
-      "investigative_direction": "Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro."
+      "investigative_direction": "Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.",
+      "mentions_person_refs": [
+        "N-641",
+        "N-642"
+      ]
     },
     {
       "@type": "Claim",
@@ -804,13 +814,15 @@
         "A-1592.1"
       ],
       "related_nodes": [
-        "N-646",
         "N-1458",
         "N-1461"
       ],
       "tags": [],
       "claim_timestamp": "00:48:50",
-      "investigative_direction": "Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action."
+      "investigative_direction": "Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action.",
+      "mentions_person_refs": [
+        "N-646"
+      ]
     },
     {
       "@type": "Claim",
@@ -822,12 +834,14 @@
         "A-1592.1"
       ],
       "related_nodes": [
-        "N-646",
         "N-1461"
       ],
       "tags": [],
       "claim_timestamp": "00:49:14",
-      "investigative_direction": "Obtain the plea agreement and charging documents from the Arizona court."
+      "investigative_direction": "Obtain the plea agreement and charging documents from the Arizona court.",
+      "mentions_person_refs": [
+        "N-646"
+      ]
     },
     {
       "@type": "Claim",
@@ -839,13 +853,15 @@
         "A-1593.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-648",
         "N-1460"
       ],
       "tags": [],
       "claim_timestamp": "00:44:48",
-      "investigative_direction": "Obtain the original text message thread for verification; investigate the identity of the \"oracle\" figure and his connection to the gifted school."
+      "investigative_direction": "Obtain the original text message thread for verification; investigate the identity of the \"oracle\" figure and his connection to the gifted school.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-648"
+      ]
     },
     {
       "@type": "Claim",
@@ -857,12 +873,14 @@
         "A-1587.1"
       ],
       "related_nodes": [
-        "N-640",
         "N-1456"
       ],
       "tags": [],
       "claim_timestamp": "00:06:31",
-      "investigative_direction": "Verify the timeline of the show's conception against internal Daily Wire communications if obtainable."
+      "investigative_direction": "Verify the timeline of the show's conception against internal Daily Wire communications if obtainable.",
+      "mentions_person_refs": [
+        "N-640"
+      ]
     },
     {
       "@type": "Claim",
@@ -874,13 +892,15 @@
         "A-1590.1"
       ],
       "related_nodes": [
-        "N-642",
         "N-1457",
         "N-1462"
       ],
       "tags": [],
       "claim_timestamp": "00:25:28",
-      "investigative_direction": "Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting."
+      "investigative_direction": "Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.",
+      "mentions_person_refs": [
+        "N-642"
+      ]
     }
   ],
   "memes": []

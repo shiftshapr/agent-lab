@@ -585,7 +585,8 @@ Claim Timestamp: 00:20:08–00:21:31
 Claim: During the episode, the host asserts that multiple people with direct knowledge claim Erica Kirk was in charge of modeling apartments for underaged models at Next Model Management and MC2 during the period when those agencies are defendants in trafficking litigation.
 
 Anchored Artifacts: None displayed in this episode (host assertion referencing prior Epstein-series content)
-Related Nodes: N-2096, N-1210, N-1220, N-2
+Mentions: N-2
+Related Nodes: N-1210, N-1220, N-2096
 Investigative Direction: Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.
 *Flag: Claim failed admission test on artifact anchor — host assertion only; underlying lawsuit referenced but not displayed.*
 

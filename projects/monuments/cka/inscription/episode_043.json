@@ -861,12 +861,13 @@
       "anchored_artifacts": [
         "A-1513.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:03–00:02:43",
-      "investigative_direction": "Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository)."
+      "investigative_direction": "Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -877,13 +878,14 @@
       "anchored_artifacts": [
         "A-1513.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-217"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:03",
-      "investigative_direction": "Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer."
+      "investigative_direction": "Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-217"
+      ]
     },
     {
       "@type": "Claim",
@@ -895,13 +897,15 @@
         "A-1514.1"
       ],
       "related_nodes": [
-        "N-102",
-        "N-75",
         "N-1387"
       ],
       "tags": [],
       "claim_timestamp": "00:07:33–00:08:21",
-      "investigative_direction": "Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions."
+      "investigative_direction": "Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.",
+      "mentions_person_refs": [
+        "N-75",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -913,12 +917,14 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-499",
         "N-1388"
       ],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
-      "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates."
+      "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.",
+      "mentions_person_refs": [
+        "N-499"
+      ]
     },
     {
       "@type": "Claim",
@@ -930,12 +936,14 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-499",
         "N-1388"
       ],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
-      "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed."
+      "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.",
+      "mentions_person_refs": [
+        "N-499"
+      ]
     },
     {
       "@type": "Claim",
@@ -945,12 +953,14 @@
       "claim": "The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-499",
         "N-1388"
       ],
       "tags": [],
       "claim_timestamp": "00:17:26",
-      "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records."
+      "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.",
+      "mentions_person_refs": [
+        "N-499"
+      ]
     },
     {
       "@type": "Claim",
@@ -961,13 +971,14 @@
       "anchored_artifacts": [
         "A-1515.1"
       ],
-      "related_nodes": [
-        "N-500",
-        "N-499"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
-      "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date."
+      "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date.",
+      "mentions_person_refs": [
+        "N-499",
+        "N-500"
+      ]
     },
     {
       "@type": "Claim",
@@ -978,15 +989,16 @@
       "anchored_artifacts": [
         "A-1515.2"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:38–00:17:26",
+      "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings.",
+      "mentions_person_refs": [
         "N-499",
         "N-500",
         "N-501",
         "N-502"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:15:38–00:17:26",
-      "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings."
+      ]
     },
     {
       "@type": "Claim",
@@ -997,14 +1009,15 @@
       "anchored_artifacts": [
         "A-1515.2"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:38–00:17:26",
+      "investigative_direction": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.",
+      "mentions_person_refs": [
         "N-499",
         "N-500",
         "N-501"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:15:38–00:17:26",
-      "investigative_direction": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes."
+      ]
     },
     {
       "@type": "Claim",
@@ -1015,14 +1028,15 @@
       "anchored_artifacts": [
         "A-1515.2"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:38–00:17:26",
+      "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records.",
+      "mentions_person_refs": [
         "N-499",
         "N-501",
         "N-502"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:15:38–00:17:26",
-      "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records."
+      ]
     },
     {
       "@type": "Claim",
@@ -1034,12 +1048,14 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-503",
         "N-1390"
       ],
       "tags": [],
       "claim_timestamp": "00:32:46–00:33:21",
-      "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown."
+      "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.",
+      "mentions_person_refs": [
+        "N-503"
+      ]
     },
     {
       "@type": "Claim",
@@ -1051,12 +1067,14 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-503",
         "N-1390"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21",
-      "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities."
+      "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.",
+      "mentions_person_refs": [
+        "N-503"
+      ]
     },
     {
       "@type": "Claim",
@@ -1067,12 +1085,13 @@
       "anchored_artifacts": [
         "A-1517.1"
       ],
-      "related_nodes": [
-        "N-512"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:16",
-      "investigative_direction": "Obtain the original tweet and confirm the exact text."
+      "investigative_direction": "Obtain the original tweet and confirm the exact text.",
+      "mentions_person_refs": [
+        "N-512"
+      ]
     },
     {
       "@type": "Claim",
@@ -1116,12 +1135,14 @@
         "A-1518.4"
       ],
       "related_nodes": [
-        "N-1003",
-        "N-444"
+        "N-1003"
       ],
       "tags": [],
       "claim_timestamp": "00:40:18–00:41:02",
-      "investigative_direction": "Verify against publicly available event listings and episode announcements."
+      "investigative_direction": "Verify against publicly available event listings and episode announcements.",
+      "mentions_person_refs": [
+        "N-444"
+      ]
     },
     {
       "@type": "Claim",
@@ -1133,13 +1154,15 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-1",
         "N-1003",
         "N-1393"
       ],
       "tags": [],
       "claim_timestamp": "00:41:02–00:41:57",
-      "investigative_direction": "Locate the Daily Mail article and confirm policy details, beneficiary, and amount."
+      "investigative_direction": "Locate the Daily Mail article and confirm policy details, beneficiary, and amount.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1153,14 +1176,16 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-1",
         "N-1003",
-        "N-1391",
-        "N-434"
+        "N-1391"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:41:02",
-      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting."
+      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-434"
+      ]
     }
   ],
   "memes": []

@@ -488,8 +488,8 @@ Claim Timestamp: 00:28:34
 Claim: The host describes a group chat of 92 individuals focused on monitoring and opposing Candace Owens's coverage, with toxic elements including interest in the host's residence and family.
 
 Anchored Artifacts: (no on-screen artifact displayed in this episode; reported via exiting member)
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain independent verification of membership size, group origin date, and named administrators.
 
@@ -518,8 +518,8 @@ Claim Timestamp: 00:33:27
 Claim: A tweet-counter account shows that "No Soup For You" sent 4,040 tweets about Candace Owens between Charlie Kirk's assassination and the date of the count.
 
 Anchored Artifacts: A-2273.3
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Obtain the underlying tweet-counter screenshot and verify date range and account identifier.
 
@@ -532,8 +532,8 @@ Claim Timestamp: 00:34:13
 Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month window — presented as a comparison baseline against the 4,040 tweets by Britta Widener.
 
 Anchored Artifacts: A-2273.3
+Mentions: N-2, N-3
 
-Related Nodes: N-2, N-3
 
 Investigative Direction: Obtain the tweet-counter output and verify both figures and their date ranges.
 
@@ -546,8 +546,8 @@ Claim Timestamp: 00:39:29
 Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.
 
 Anchored Artifacts: A-2274.1
+Mentions: N-46
 
-Related Nodes: N-46
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
 
@@ -560,8 +560,8 @@ Claim Timestamp: 00:46:41
 Claim: Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.
 
 Anchored Artifacts: A-2275.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.
 
@@ -574,8 +574,8 @@ Claim Timestamp: 00:47:55
 Claim: A viewer comment contrasts Candace's stated position with Frank Turick's framing of Erica Kirk as deserving death; host concurs that the latter framing is dark.
 
 Anchored Artifacts: A-2275.2
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify the quoted Frank Turick statement against its original source.
 

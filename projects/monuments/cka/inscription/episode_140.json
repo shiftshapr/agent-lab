@@ -723,12 +723,13 @@
       "label": "\"Protect Erika Kirk\" X group chat had 92 members",
       "claim": "The host describes a group chat of 92 individuals focused on monitoring and opposing Candace Owens's coverage, with toxic elements including interest in the host's residence and family.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:34",
-      "investigative_direction": "Obtain independent verification of membership size, group origin date, and named administrators."
+      "investigative_direction": "Obtain independent verification of membership size, group origin date, and named administrators.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -768,12 +769,13 @@
       "anchored_artifacts": [
         "A-2273.3"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:13",
-      "investigative_direction": "Obtain the tweet-counter output and verify both figures and their date ranges."
+      "investigative_direction": "Obtain the tweet-counter output and verify both figures and their date ranges.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -784,12 +786,13 @@
       "anchored_artifacts": [
         "A-2274.1"
       ],
-      "related_nodes": [
-        "N-46"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:29",
-      "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in."
+      "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -800,12 +803,13 @@
       "anchored_artifacts": [
         "A-2275.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:41",
-      "investigative_direction": "Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting."
+      "investigative_direction": "Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -816,12 +820,13 @@
       "anchored_artifacts": [
         "A-2275.2"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:55",
-      "investigative_direction": "Verify the quoted Frank Turick statement against its original source."
+      "investigative_direction": "Verify the quoted Frank Turick statement against its original source.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

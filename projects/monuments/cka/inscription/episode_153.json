@@ -524,13 +524,15 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-2323"
       ],
       "tags": [],
       "claim_timestamp": "00:01:29",
-      "investigative_direction": "Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents."
+      "investigative_direction": "Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -573,12 +575,13 @@
       "anchored_artifacts": [
         "A-2386.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:00",
-      "investigative_direction": "Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records."
+      "investigative_direction": "Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -589,12 +592,13 @@
       "anchored_artifacts": [
         "A-2386.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:24",
-      "investigative_direction": "Compare against TPUSA's security manifest and the eventual independent review findings."
+      "investigative_direction": "Compare against TPUSA's security manifest and the eventual independent review findings.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -864,13 +868,14 @@
       "anchored_artifacts": [
         "A-2384.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-30"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:22",
-      "investigative_direction": "Recover Microsoft Teams call metadata and any TPUSA event-planning emails."
+      "investigative_direction": "Recover Microsoft Teams call metadata and any TPUSA event-planning emails.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-30"
+      ]
     },
     {
       "@type": "Claim",
@@ -880,12 +885,14 @@
       "claim": "UVU's state-certified emergency medical services were present beside the vehicle with medical bags.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-2328"
       ],
       "tags": [],
       "claim_timestamp": "00:22:26",
-      "investigative_direction": "Review UVU EMS bodycam footage and any contemporaneous dispatch logs."
+      "investigative_direction": "Review UVU EMS bodycam footage and any contemporaneous dispatch logs.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -911,12 +918,13 @@
       "label": "Charlie's Security Arrived at 9:00 AM Morning of Event",
       "claim": "Members of Charlie's security team arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:53",
-      "investigative_direction": "Compare against UVU PD visitor logs and hotel / travel records of the security detail."
+      "investigative_direction": "Compare against UVU PD visitor logs and hotel / travel records of the security detail.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -960,12 +968,17 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2323",
-        "N-1"
+        "N-2323"
       ],
       "tags": [],
       "claim_timestamp": "00:34:25",
-      "investigative_direction": "Track subsequent civil complaint filings with the Utah Attorney General's office."
+      "investigative_direction": "Track subsequent civil complaint filings with the Utah Attorney General's office.",
+      "mentions_person_refs": [
+        "N-1"
+      ],
+      "contradicts_claim_refs": [
+        "C-3494"
+      ]
     }
   ],
   "memes": []

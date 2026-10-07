@@ -407,12 +407,14 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-45",
         "N-1266"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
-      "investigative_direction": "Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns."
+      "investigative_direction": "Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -440,12 +442,14 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-45",
         "N-1266"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
-      "investigative_direction": "Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled."
+      "investigative_direction": "Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -457,12 +461,14 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-45",
         "N-1266"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
-      "investigative_direction": "Obtain the cited article directly and check for the phrases \"co-founder,\" \"chairman,\" \"co-chairman,\" and any reference to TPUSA Faith."
+      "investigative_direction": "Obtain the cited article directly and check for the phrases \"co-founder,\" \"chairman,\" \"co-chairman,\" and any reference to TPUSA Faith.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -536,12 +542,14 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-75",
         "N-1268"
       ],
       "tags": [],
       "claim_timestamp": "00:32:12",
-      "investigative_direction": "Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged."
+      "investigative_direction": "Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -552,12 +560,13 @@
       "anchored_artifacts": [
         "A-1287.1"
       ],
-      "related_nodes": [
-        "N-75"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:50",
-      "investigative_direction": "Confirm sequence of statements in the unedited interview."
+      "investigative_direction": "Confirm sequence of statements in the unedited interview.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -569,12 +578,14 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-45",
         "N-1266"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
-      "investigative_direction": "Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve."
+      "investigative_direction": "Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -586,12 +597,14 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-75",
         "N-1268"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
-      "investigative_direction": "This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question."
+      "investigative_direction": "This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -602,12 +615,13 @@
       "anchored_artifacts": [
         "A-1288.1"
       ],
-      "related_nodes": [
-        "N-288"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:19",
-      "investigative_direction": "Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode."
+      "investigative_direction": "Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.",
+      "mentions_person_refs": [
+        "N-288"
+      ]
     }
   ],
   "memes": []

@@ -536,7 +536,7 @@ Claim Timestamp: 00:02:03–00:02:43
 Claim: In a May 2025 recorded clip, Charlie Kirk stated that more than one person was involved in the JFK assassination and that the lone-Oswald reading was insufficient.
 
 Anchored Artifacts: A-1513.1
-Related Nodes: N-1
+Mentions: N-1
 
 Investigative Direction: Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository).
 
@@ -549,7 +549,7 @@ Claim Timestamp: 00:02:03
 Claim: In the same May 2025 clip, Charlie Kirk named Lyndon Baines Johnson, parts of the US government, and Cubans as actors who wanted JFK dead.
 
 Anchored Artifacts: A-1513.1
-Related Nodes: N-1, N-217
+Mentions: N-1, N-217
 
 Investigative Direction: Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer.
 
@@ -562,7 +562,8 @@ Claim Timestamp: 00:07:33–00:08:21
 Claim: When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.
 
 Anchored Artifacts: A-1514.1
-Related Nodes: N-102, N-75, N-1387
+Mentions: N-75, N-102
+Related Nodes: N-1387
 
 Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.
 
@@ -575,7 +576,8 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud by the host and attributed to "Corruption Tracker," Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.
 
 Anchored Artifacts: A-1515.1
-Related Nodes: N-499, N-1388
+Mentions: N-499
+Related Nodes: N-1388
 
 Investigative Direction: Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.
 
@@ -588,7 +590,8 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Pierre Falcone's original six-year sentence was overturned on appeal and replaced with a 2.5-year sentence.
 
 Anchored Artifacts: A-1515.1
-Related Nodes: N-499, N-1388
+Mentions: N-499
+Related Nodes: N-1388
 
 Investigative Direction: Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.
 
@@ -601,9 +604,10 @@ Claim Timestamp: 00:17:26
 Claim: The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.
 
 Anchored Artifacts: A-1515.2 (host read-aloud of source)
+Mentions: N-499
 
 *Note: This claim is sourced from the host's framing rather than from the read-aloud source text. Capture as host claim tied to read-aloud artifact; requires verification.*
-Related Nodes: N-499, N-1388
+Related Nodes: N-1388
 
 Investigative Direction: Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.
 
@@ -616,7 +620,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering.
 
 Anchored Artifacts: A-1515.1
-Related Nodes: N-500, N-499
+Mentions: N-499, N-500
 
 Investigative Direction: Locate the French court judgment against Gaydamak and confirm the conviction and date.
 
@@ -629,7 +633,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.
 
 Anchored Artifacts: A-1515.2
-Related Nodes: N-499, N-500, N-501, N-502
+Mentions: N-499, N-500, N-501, N-502
 
 Investigative Direction: Cross-reference the March 25 Global Witness report "All the President's Men" with CorpWatch and the original French judicial findings.
 
@@ -642,7 +646,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch article citing a March 25 Global Witness report, Brenco International and the Mitterrand access channel transferred approximately $463 million in arms to Angola.
 
 Anchored Artifacts: A-1515.2
-Related Nodes: N-499, N-500, N-501
+Mentions: N-499, N-500, N-501
 
 Investigative Direction: Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.
 
@@ -655,7 +659,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government.
 
 Anchored Artifacts: A-1515.2
-Related Nodes: N-499, N-501, N-502
+Mentions: N-499, N-501, N-502
 
 Investigative Direction: Verify Jean-Christophe Mitterrand's role via French court records.
 
@@ -668,7 +672,8 @@ Claim Timestamp: 00:32:46–00:33:21
 Claim: In the demonstration shown, a 180gr FMJ .30-06 round penetrated a ballistic dummy, separated its head, and continued through three 5-gallon water jugs placed behind.
 
 Anchored Artifacts: A-1516.1
-Related Nodes: N-503, N-1390
+Mentions: N-503
+Related Nodes: N-1390
 
 Investigative Direction: Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.
 
@@ -681,7 +686,8 @@ Claim Timestamp: 00:33:21
 Claim: The host characterizes the One Shot TV result — that the dummy's head was severed and the round continued through water jugs — as evidence that the official story's depiction of a .30-06 ricochet is implausible.
 
 Anchored Artifacts: A-1516.1
-Related Nodes: N-503, N-1390
+Mentions: N-503
+Related Nodes: N-1390
 
 Investigative Direction: Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.
 
@@ -694,7 +700,7 @@ Claim Timestamp: 00:29:16
 Claim: According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.
 
 Anchored Artifacts: A-1517.1
-Related Nodes: N-512
+Mentions: N-512
 
 Investigative Direction: Obtain the original tweet and confirm the exact text.
 
@@ -733,7 +739,8 @@ Claim Timestamp: 00:40:18–00:41:02
 Claim: A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).
 
 Anchored Artifacts: A-1518.4
-Related Nodes: N-1003, N-444
+Mentions: N-444
+Related Nodes: N-1003
 
 Investigative Direction: Verify against publicly available event listings and episode announcements.
 
@@ -759,7 +766,8 @@ Claim Timestamp: 00:37:36–00:41:02
 Claim: Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
-Related Nodes: N-1003, N-1391, N-434
+Mentions: N-434
+Related Nodes: N-1003, N-1391
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.
 

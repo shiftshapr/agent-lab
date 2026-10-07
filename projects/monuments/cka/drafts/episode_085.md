@@ -474,7 +474,7 @@ Claim Timestamp: 00:17:32
 Claim: In an interview with Bari Weiss, Erika Kirk stated "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
 
 Anchored Artifacts: A-1904.1
-Related Nodes: N-1, N-2
+Mentions: N-1, N-2
 Investigative Direction: Cross-check with the published version of the Bari Weiss interview.
 
 ---
@@ -486,7 +486,7 @@ Claim Timestamp: 00:17:32
 Claim: Erika Kirk stated she had seen the autopsy report and had been in constant contact with her lawyers and the prosecuting team.
 
 Anchored Artifacts: A-1904.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Determine whether such access is procedurally consistent with case status.
 
 ---
@@ -498,7 +498,7 @@ Claim Timestamp: 00:19:47
 Claim: Frank Turek stated he was present when a doctor informed him of Charlie Kirk's death and that he then needed to "talk to Erika."
 
 Anchored Artifacts: A-1905.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Verify against other witness accounts of the moment.
 
 ---
@@ -510,7 +510,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated that Stacy Sheridan and Katherine LaCastro were with Erika Kirk when she was informed of Charlie Kirk's death.
 
 Anchored Artifacts: A-1905.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Verify against other contemporaneous accounts.
 
 ---
@@ -534,7 +534,8 @@ Claim Timestamp: 00:15:25
 Claim: In a November 2025 tweet, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.
 
 Anchored Artifacts: A-1906.1
-Related Nodes: N-3, N-1640
+Mentions: N-3
+Related Nodes: N-1640
 Investigative Direction: Locate the original tweet and any subsequent corroboration or denial.
 
 ---
@@ -642,7 +643,7 @@ Claim Timestamp: 00:50:16
 Claim: A New York Times article reports that Mr. Kirk's chartered plane traveled back to Scottsdale to ferry his wife to Provo, and that he was pronounced dead as she was airborne.
 
 Anchored Artifacts: A-1909.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Verify against other reporting on timing.
 
 ---
@@ -654,7 +655,7 @@ Claim Timestamp: 00:50:16
 Claim: Erika Kirk told the New York Times that during the flight she was looking at "the clouds and the mountains," called the day "gorgeous," and stated she was thinking it was "exactly what he last saw."
 
 Anchored Artifacts: A-1909.1
-Related Nodes: N-2
+Mentions: N-2
 Investigative Direction: Cross-reference against other contemporaneous accounts of Erika's statements.
 
 ---

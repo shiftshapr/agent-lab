@@ -378,8 +378,9 @@ Claim Timestamp: 00:12:16–00:14:30
 Claim: Phil Lyman's on-air account to Alex Jones places him outdoors and characterizes two individuals at the scene as goth and unresponsive.
 
 Anchored Artifacts: A-1183.1
+Mentions: N-92
 
-Related Nodes: N-92, N-1212
+Related Nodes: N-1212
 
 Investigative Direction: Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1322) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.
 
@@ -392,8 +393,9 @@ Claim Timestamp: 00:14:45–00:15:55
 Claim: Phil Lyman's on-air account to NewsNation places him approaching/inside a building at the moment of the shot, then exiting.
 
 Anchored Artifacts: A-1184.1
+Mentions: N-92
 
-Related Nodes: N-92, N-1212
+Related Nodes: N-1212
 
 Investigative Direction: Cross-reference timestamp of "ran out" with the 12:23 video metadata (A-1185.1) to determine whether Phil was inside or approaching at the moment of the shot.
 
@@ -406,8 +408,9 @@ Claim Timestamp: 00:16:43
 Claim: A mobile-phone video provided by Phil Lyman to the host contains embedded metadata placing him inside the Sorenson Center building at 12:23 on September 10, 2025; the video depicts him walking out calmly rather than running.
 
 Anchored Artifacts: A-1185.1
+Mentions: N-92
 
-Related Nodes: N-92, N-1212
+Related Nodes: N-1212
 
 Investigative Direction: Obtain original file with full EXIF metadata; forensically confirm capture time, device, and chain of custody.
 
@@ -420,8 +423,9 @@ Claim Timestamp: 00:17:21–00:18:35
 Claim: Visual review of Phil Lyman's aftermath video shows two individuals in black (one possibly male) behaving normally; the host disputes Phil's Alex Jones characterization of them as "goth" and unfazed.
 
 Anchored Artifacts: A-1185.1
+Mentions: N-92
 
-Related Nodes: N-92, N-1212
+Related Nodes: N-1212
 
 Investigative Direction: Compare visible individuals in A-1185.1 with the two companions in the Broderick photo (A-1192.1); determine whether they are the same individuals.
 
@@ -434,8 +438,9 @@ Claim Timestamp: 00:10:39–00:11:29
 Claim: A face in the companion photo matches an individual shown in a BearingPoint company video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
+Mentions: N-184
 
-Related Nodes: N-184, N-1213
+Related Nodes: N-1213
 
 Investigative Direction: Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates.
 
@@ -448,8 +453,8 @@ Claim Timestamp: 00:11:29–00:12:20
 Claim: The publicly visible LinkedIn profile for Gernot Omer indicates relocation to Utah in May 2024 for employment at JP Morgan Chase.
 
 Anchored Artifacts: A-1193.1
+Mentions: N-184
 
-Related Nodes: N-184
 
 Investigative Direction: Capture and archive the LinkedIn profile as displayed; verify with JP Morgan Chase HR whether the employment record matches.
 
@@ -476,8 +481,8 @@ Claim Timestamp: 00:06:43–00:07:30
 Claim: Public social media posts and a LinkedIn profile connection listed Phil Lyman as Shainer Broderick's uncle prior to the host's coverage.
 
 Anchored Artifacts: A-1192.1, A-1192.2
+Mentions: N-92, N-183
 
-Related Nodes: N-92, N-183
 
 Investigative Direction: Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later "cousin, not nephew" revision.
 
@@ -490,8 +495,9 @@ Claim Timestamp: 00:30:55–00:32:40
 Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of the Utah FBI Bureau and additional personnel and installed Robert Bowles in August 2025.
 
 Anchored Artifacts: A-1189.1
+Mentions: N-102, N-186
 
-Related Nodes: N-186, N-102, N-1216
+Related Nodes: N-1216
 
 Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel.
 
@@ -504,8 +510,9 @@ Claim Timestamp: 00:21:52–00:22:45
 Claim: A 1999 article documents that Detective Mike Mitchell had been investigating internet child-sex crimes for about a year by November 1999, employing an online persona with childlike language.
 
 Anchored Artifacts: A-1190.1
+Mentions: N-176
 
-Related Nodes: N-176, N-1217
+Related Nodes: N-1217
 
 Investigative Direction: Confirm continuity between the 1999 Salt Lake County Sheriff's Office Mitchell and the Mike Mitchell referenced in the Charlie Kirk investigation; obtain his full service record.
 
@@ -518,8 +525,9 @@ Claim Timestamp: 00:34:37–00:35:21
 Claim: A letter written by Charlie Kirk in May 2025 to the Israeli Prime Minister expressing deep love for Israel and strategic suggestions was released by the Prime Minister's office approximately two weeks after the assassination and circulated by the New York Post and Israeli Post.
 
 Anchored Artifacts: A-1191.1
+Mentions: N-65
 
-Related Nodes: N-65, N-1214
+Related Nodes: N-1214
 
 Investigative Direction: Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim.
 
@@ -546,8 +554,8 @@ Claim Timestamp: 00:09:47–00:10:39
 Claim: A German-language blog post on a 10-year hiking anniversary contains photos matching the face of the individual identified as Gernot Omer.
 
 Anchored Artifacts: A-1187.1
+Mentions: N-184
 
-Related Nodes: N-184
 
 Investigative Direction: Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion.
 
@@ -560,8 +568,9 @@ Claim Timestamp: 00:30:55–00:32:40
 Claim: The Daily Mail account places Robert Bowles in his first week on the Utah FBI assignment at the time of the September 10 assassination.
 
 Anchored Artifacts: A-1189.1
+Mentions: N-186
 
-Related Nodes: N-186, N-1216
+Related Nodes: N-1216
 
 Investigative Direction: Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10.
 

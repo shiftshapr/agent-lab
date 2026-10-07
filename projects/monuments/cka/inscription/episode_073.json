@@ -594,13 +594,15 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1577"
       ],
       "tags": [],
       "claim_timestamp": "00:03:08",
-      "investigative_direction": "Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture."
+      "investigative_direction": "Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -613,13 +615,15 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-364",
         "N-1577"
       ],
       "tags": [],
       "claim_timestamp": "00:04:44",
-      "investigative_direction": "Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned."
+      "investigative_direction": "Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -630,14 +634,15 @@
       "anchored_artifacts": [
         "A-1772.1"
       ],
-      "related_nodes": [
-        "N-91",
-        "N-2",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:14",
-      "investigative_direction": "Verify the post's existence on X, capture the timestamp, and document whether Erika or TPUSA responded."
+      "investigative_direction": "Verify the post's existence on X, capture the timestamp, and document whether Erika or TPUSA responded.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -649,13 +654,15 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-364",
         "N-1577"
       ],
       "tags": [],
       "claim_timestamp": "00:04:44",
-      "investigative_direction": "Compare Erika's \"first time back\" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims."
+      "investigative_direction": "Compare Erika's \"first time back\" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -667,14 +674,16 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-313",
-        "N-1",
         "N-1580"
       ],
       "tags": [],
       "claim_timestamp": "00:10:40",
-      "investigative_direction": "Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence."
+      "investigative_direction": "Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-313"
+      ]
     },
     {
       "@type": "Claim",
@@ -686,13 +695,15 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-364",
         "N-1578"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54",
-      "investigative_direction": "Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account."
+      "investigative_direction": "Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     },
     {
       "@type": "Claim",
@@ -703,13 +714,14 @@
       "anchored_artifacts": [
         "A-1777.1"
       ],
-      "related_nodes": [
-        "N-909",
-        "N-936"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:48",
-      "investigative_direction": "Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler."
+      "investigative_direction": "Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.",
+      "mentions_person_refs": [
+        "N-909",
+        "N-936"
+      ]
     },
     {
       "@type": "Claim",
@@ -720,12 +732,13 @@
       "anchored_artifacts": [
         "A-1776.2"
       ],
-      "related_nodes": [
-        "N-909"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:14",
-      "investigative_direction": "Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism."
+      "investigative_direction": "Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.",
+      "mentions_person_refs": [
+        "N-909"
+      ]
     },
     {
       "@type": "Claim",
@@ -769,12 +782,14 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1581"
       ],
       "tags": [],
       "claim_timestamp": "00:37:45",
-      "investigative_direction": "Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming."
+      "investigative_direction": "Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -818,13 +833,15 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-364",
         "N-1578"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54",
-      "investigative_direction": "Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period."
+      "investigative_direction": "Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-364"
+      ]
     }
   ],
   "memes": []

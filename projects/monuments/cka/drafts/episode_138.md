@@ -424,8 +424,9 @@ Claim Timestamp: 00:17:35–00:20:10
 Claim: An X-coordinated group chat named "Protecting Mrs. Kirk" contained 92 members and was used to coordinate opposition to Candace Owens.
 
 Anchored Artifacts: A-2246.1
+Mentions: N-2, N-3
 
-Related Nodes: N-2, N-3, N-2179
+Related Nodes: N-2179
 
 Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity.
 
@@ -438,8 +439,9 @@ Claim Timestamp: 00:19:12–00:20:10
 Claim: Members of the "Protecting Mrs. Kirk" group chat shared Candace Owens' home address within the chat.
 
 Anchored Artifacts: A-2246.1, A-2246.2
+Mentions: N-3
 
-Related Nodes: N-3, N-2179
+Related Nodes: N-2179
 
 Investigative Direction: Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports.
 
@@ -466,8 +468,9 @@ Claim Timestamp: 00:23:50–00:25:45
 Claim: Footage shows Nate Walker present in a bright blue shirt with bag speaking with Dan Flood at approximately 12:15, then at approximately 12:25 near Hall's walkway without bag, putting on sunglasses, and later walking downstairs.
 
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
+Mentions: N-1
 
-Related Nodes: N-1210, N-2180, N-1
+Related Nodes: N-1210, N-2180
 
 Investigative Direction: Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.
 
@@ -564,8 +567,9 @@ Claim Timestamp: 00:21:54–00:22:30
 Claim: Daily Mail journalist Charlie Spearing emailed the Candace Owens show stating that "sources" believe Candace is being used by foreign operatives sending misinformation through her tip line.
 
 Anchored Artifacts: A-2252.1
+Mentions: N-3
 
-Related Nodes: N-1211, N-3
+Related Nodes: N-1211
 
 Investigative Direction: Obtain the original email with full headers and timestamp; identify what "sources" Spearing referenced; cross-check Daily Mail coverage for follow-up.
 
@@ -592,8 +596,9 @@ Claim Timestamp: 00:18:25–00:19:12
 Claim: The host asserts that the "Protecting Mrs. Kirk" group chat was organized by an individual previously engaged in PR/intelligence work tied to Israel and the Gaza Humanitarian Fund.
 
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
+Mentions: N-2, N-3
 
-Related Nodes: N-2, N-3, N-2179
+Related Nodes: N-2179
 
 Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.
 
@@ -608,8 +613,9 @@ Claim Timestamp: 00:54:33–00:55:20
 Claim: A commenter on the show acknowledges that Candace Owens' home address has been shared within a group chat of approximately 91–92 people, framing it as dangerous and ineffective.
 
 Anchored Artifacts: A-2246.1, A-2253.4
+Mentions: N-3
 
-Related Nodes: N-3, N-2179
+Related Nodes: N-2179
 
 Investigative Direction: Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.
 

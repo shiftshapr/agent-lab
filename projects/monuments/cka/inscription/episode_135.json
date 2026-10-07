@@ -581,12 +581,14 @@
         "A-2219.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:19:46",
-      "investigative_direction": "Obtain official preliminary hearing transcript from Utah court records and compare to the played audio."
+      "investigative_direction": "Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -598,12 +600,14 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2167"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16",
-      "investigative_direction": "Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds."
+      "investigative_direction": "Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -615,12 +619,14 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2167"
       ],
       "tags": [],
       "claim_timestamp": "00:32:48",
-      "investigative_direction": "Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials)."
+      "investigative_direction": "Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -632,12 +638,14 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2167"
       ],
       "tags": [],
       "claim_timestamp": "00:33:41",
-      "investigative_direction": "Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol."
+      "investigative_direction": "Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -649,13 +657,15 @@
         "A-2220.2"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-2166"
       ],
       "tags": [],
       "claim_timestamp": "00:35:15",
-      "investigative_direction": "Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols."
+      "investigative_direction": "Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -667,12 +677,14 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2167"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
-      "investigative_direction": "Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics."
+      "investigative_direction": "Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -684,12 +696,14 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2167"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
-      "investigative_direction": "Obtain the official medical examiner's report to verify the cervical spine description."
+      "investigative_direction": "Obtain the official medical examiner's report to verify the cervical spine description.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -715,12 +729,14 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2168"
       ],
       "tags": [],
       "claim_timestamp": "00:40:24",
-      "investigative_direction": "Obtain the full witness recording and transcript; identify and interview the witness for confirmation."
+      "investigative_direction": "Obtain the full witness recording and transcript; identify and interview the witness for confirmation.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -733,12 +749,14 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2167"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
-      "investigative_direction": "Note host stance for cross-referencing future evidentiary developments."
+      "investigative_direction": "Note host stance for cross-referencing future evidentiary developments.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -750,12 +768,14 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2168"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
-      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available."
+      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -765,13 +785,15 @@
       "claim": "Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at approximately 10:00 a.m. on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-2164",
         "N-2169"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
-      "investigative_direction": "Obtain independent verification — shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony."
+      "investigative_direction": "Obtain independent verification — shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -781,13 +803,15 @@
       "claim": "Per host's verbal source, ER patients were subsequently transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-2164",
         "N-2169"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
-      "investigative_direction": "Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony."
+      "investigative_direction": "Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -797,12 +821,14 @@
       "claim": "A patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as originally displayed in an October 28, 2025 episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-2169"
       ],
       "tags": [],
       "claim_timestamp": "00:25:08",
-      "investigative_direction": "Re-display the original document or obtain the leaked file independently for forensic verification."
+      "investigative_direction": "Re-display the original document or obtain the leaked file independently for forensic verification.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -828,12 +854,14 @@
       "claim": "Per host, the Timpanogos hospital Epic electronic medical record system did not communicate with Utah Valley's Intermountain Health system, so Charlie's file appearing at Utah Valley is anomalous.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-2169"
       ],
       "tags": [],
       "claim_timestamp": "00:26:02",
-      "investigative_direction": "Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events."
+      "investigative_direction": "Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

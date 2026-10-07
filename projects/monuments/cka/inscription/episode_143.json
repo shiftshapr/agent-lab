@@ -475,13 +475,15 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-9",
-        "N-1",
         "N-2207"
       ],
       "tags": [],
       "claim_timestamp": "00:08:42",
-      "investigative_direction": "Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question."
+      "investigative_direction": "Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -493,12 +495,14 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-9",
         "N-2207"
       ],
       "tags": [],
       "claim_timestamp": "00:09:43",
-      "investigative_direction": "Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated \"government source\" timeline."
+      "investigative_direction": "Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated \"government source\" timeline.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -512,13 +516,15 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-9",
-        "N-1",
         "N-2208"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
-      "investigative_direction": "Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp."
+      "investigative_direction": "Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -531,12 +537,14 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2208"
       ],
       "tags": [],
       "claim_timestamp": "00:13:38",
-      "investigative_direction": "Confirm camera-down timestamp via SBI/UPD evidence logs and assess whether the fall was accidental or post-removal disturbance."
+      "investigative_direction": "Confirm camera-down timestamp via SBI/UPD evidence logs and assess whether the fall was accidental or post-removal disturbance.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -547,14 +555,15 @@
       "anchored_artifacts": [
         "A-2296.1"
       ],
-      "related_nodes": [
-        "N-176",
-        "N-69",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:32",
-      "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements."
+      "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-69",
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -565,12 +574,13 @@
       "anchored_artifacts": [
         "A-2296.1"
       ],
-      "related_nodes": [
-        "N-176"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:22",
-      "investigative_direction": "Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records."
+      "investigative_direction": "Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.",
+      "mentions_person_refs": [
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -581,13 +591,14 @@
       "anchored_artifacts": [
         "A-2294.1"
       ],
-      "related_nodes": [
-        "N-5",
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:07",
-      "investigative_direction": "Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact."
+      "investigative_direction": "Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -598,14 +609,15 @@
       "anchored_artifacts": [
         "A-2297.1"
       ],
-      "related_nodes": [
-        "N-176",
-        "N-69",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:00",
-      "investigative_direction": "Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references."
+      "investigative_direction": "Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-69",
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -616,13 +628,14 @@
       "anchored_artifacts": [
         "A-2298.1"
       ],
-      "related_nodes": [
-        "N-5",
-        "N-176"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:27",
-      "investigative_direction": "Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action."
+      "investigative_direction": "Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -633,12 +646,13 @@
       "anchored_artifacts": [
         "A-2299.1"
       ],
-      "related_nodes": [
-        "N-69"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:34",
-      "investigative_direction": "Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous."
+      "investigative_direction": "Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -650,12 +664,14 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-9",
         "N-2207"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
-      "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop."
+      "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
     }
   ],
   "memes": []

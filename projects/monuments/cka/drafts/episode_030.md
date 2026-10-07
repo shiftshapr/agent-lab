@@ -402,8 +402,8 @@ Claim Timestamp: 04:04:34
 Claim: During an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.
 
 Anchored Artifacts: A-1379.1
+Mentions: N-2, N-75, N-133
 
-Related Nodes: N-133, N-75, N-2
 
 Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context.
 
@@ -416,8 +416,8 @@ Claim Timestamp: 05:38:00
 Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erica Kirk of murder and that Candace has been specifically defending Erica Kirk.
 
 Anchored Artifacts: A-1379.1
+Mentions: N-2, N-75
 
-Related Nodes: N-75, N-2
 
 Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.
 
@@ -430,8 +430,8 @@ Claim Timestamp: 09:38:43
 Claim: Tucker Carlson publicly described a backstage conversation with Charlie Kirk at the July Student Action Summit in which Kirk encouraged him to address Israel, Iran, and Jeffrey Epstein material.
 
 Anchored Artifacts: A-1381.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Obtain an unedited recording of Tucker's full statement and any contemporaneous corroborating material.
 
@@ -444,8 +444,8 @@ Claim Timestamp: 12:00:29
 Claim: Megyn Kelly released a backstage phone video showing Charlie Kirk saying "Go Max" to Tucker Carlson immediately before Tucker's Student Action Summit speech.
 
 Anchored Artifacts: A-1382.1
+Mentions: N-1, N-75
 
-Related Nodes: N-75, N-1
 
 Investigative Direction: Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location).
 
@@ -458,8 +458,8 @@ Claim Timestamp: 06:30:25
 Claim: Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour — in which Shapiro challenged Megyn on stage — as "almost an act of bravery."
 
 Anchored Artifacts: A-1380.1
+Mentions: N-61, N-133
 
-Related Nodes: N-61, N-133
 
 Investigative Direction: Obtain the full Dave Rubin segment to verify precise wording and any qualifications.
 
@@ -472,8 +472,9 @@ Claim Timestamp: 32:57:11
 Claim: Frank Turk identified the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived as Butch Hibbs.
 
 Anchored Artifacts: A-1383.1, A-1384.1
+Mentions: N-16, N-382
 
-Related Nodes: N-16, N-382, N-1314
+Related Nodes: N-1314
 
 Investigative Direction: Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.
 
@@ -486,8 +487,8 @@ Claim Timestamp: 33:00:00
 Claim: Frank Turk stated that Butch Hibbs is the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1
+Mentions: N-309, N-382
 
-Related Nodes: N-382, N-309
 
 Investigative Direction: Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.
 
@@ -500,8 +501,8 @@ Claim Timestamp: 34:09:46
 Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turk was taken approximately 20 minutes before the shooting of Charlie Kirk.
 
 Anchored Artifacts: A-1383.2
+Mentions: N-1, N-16, N-382
 
-Related Nodes: N-382, N-16, N-1
 
 Investigative Direction: Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp.
 
@@ -542,8 +543,9 @@ Claim Timestamp: 37:38:25
 Claim: Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.
 
 Anchored Artifacts: A-1385.1
+Mentions: N-102, N-314, N-385
 
-Related Nodes: N-314, N-385, N-102, N-1315
+Related Nodes: N-1315
 
 Investigative Direction: Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.
 
@@ -556,8 +558,8 @@ Claim Timestamp: 37:38:25
 Claim: A September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
 Anchored Artifacts: A-1385.2
+Mentions: N-386
 
-Related Nodes: N-386
 
 Investigative Direction: Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.
 
@@ -570,8 +572,8 @@ Claim Timestamp: 37:38:25
 Claim: Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.
 
 Anchored Artifacts: A-1385.3
+Mentions: N-102, N-314, N-385
 
-Related Nodes: N-385, N-314, N-102
 
 Investigative Direction: Obtain the original Schaefer post and timestamp via archived snapshots.
 
@@ -584,8 +586,8 @@ Claim Timestamp: 37:38:25
 Claim: Kash Patel publicly defended Alexis Wilkins on social media, describing her as his "life partner" and demanding content creators leave her alone.
 
 Anchored Artifacts: A-1386.1
+Mentions: N-102, N-314
 
-Related Nodes: N-102, N-314
 
 Investigative Direction: Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.
 
@@ -598,8 +600,8 @@ Claim Timestamp: 49:13:25
 Claim: Kanye West tweeted that he was going "defcon 3 on some Jewish people," which the host interprets as a defensive posture reference rather than a violent threat.
 
 Anchored Artifacts: A-1389.1
+Mentions: N-56
 
-Related Nodes: N-56
 
 Investigative Direction: Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits.
 

@@ -809,14 +809,16 @@
         "A-1321.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-45",
-        "N-1",
         "N-1288"
       ],
       "tags": [],
       "claim_timestamp": "00:02:42–00:05:23",
-      "investigative_direction": "Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly."
+      "investigative_direction": "Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-45",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -828,14 +830,16 @@
         "A-1322.1"
       ],
       "related_nodes": [
-        "N-45",
-        "N-272",
-        "N-2",
         "N-1288"
       ],
       "tags": [],
       "claim_timestamp": "00:05:23–00:07:16",
-      "investigative_direction": "Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals."
+      "investigative_direction": "Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-45",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -847,13 +851,15 @@
         "A-1323.1"
       ],
       "related_nodes": [
-        "N-272",
-        "N-1",
         "N-1289"
       ],
       "tags": [],
       "claim_timestamp": "00:10:01–00:10:58",
-      "investigative_direction": "Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary."
+      "investigative_direction": "Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -865,15 +871,17 @@
         "A-1324.1"
       ],
       "related_nodes": [
-        "N-326",
-        "N-272",
-        "N-1",
-        "N-2",
         "N-1289"
       ],
       "tags": [],
       "claim_timestamp": "00:11:45",
-      "investigative_direction": "Verify Eliza McCoy's Instagram post metadata for date and context; cross-reference against the McCoy-Kirk trip timeline to confirm whether footage (including the \"sweet moment\" viral clip) was captured during this specific trip."
+      "investigative_direction": "Verify Eliza McCoy's Instagram post metadata for date and context; cross-reference against the McCoy-Kirk trip timeline to confirm whether footage (including the \"sweet moment\" viral clip) was captured during this specific trip.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-272",
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -885,13 +893,15 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-45",
-        "N-330",
         "N-1290"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
-      "investigative_direction": "Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records."
+      "investigative_direction": "Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records.",
+      "mentions_person_refs": [
+        "N-45",
+        "N-330"
+      ]
     },
     {
       "@type": "Claim",
@@ -903,12 +913,14 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-331",
         "N-1291"
       ],
       "tags": [],
       "claim_timestamp": "00:17:57–00:19:30",
-      "investigative_direction": "File records requests for the full UVU event application, security plan, and any internal communications between UVU and TPUSA; compare against standard UVU event application forms for the 2024–2025 academic year."
+      "investigative_direction": "File records requests for the full UVU event application, security plan, and any internal communications between UVU and TPUSA; compare against standard UVU event application forms for the 2024–2025 academic year.",
+      "mentions_person_refs": [
+        "N-331"
+      ]
     },
     {
       "@type": "Claim",
@@ -920,12 +932,14 @@
         "A-1327.1"
       ],
       "related_nodes": [
-        "N-45",
         "N-1290"
       ],
       "tags": [],
       "claim_timestamp": "00:15:50",
-      "investigative_direction": "Verify via Zillow/Redfin/realtor.com listing records for August 24, 2025; cross-reference ownership records with Rob McCoy's name and prior Coronado property references."
+      "investigative_direction": "Verify via Zillow/Redfin/realtor.com listing records for August 24, 2025; cross-reference ownership records with Rob McCoy's name and prior Coronado property references.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -936,14 +950,15 @@
       "anchored_artifacts": [
         "A-1328.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:25–00:35:17",
+      "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing.",
+      "mentions_person_refs": [
         "N-50",
         "N-68",
         "N-293"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:33:25–00:35:17",
-      "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing."
+      ]
     },
     {
       "@type": "Claim",
@@ -954,14 +969,15 @@
       "anchored_artifacts": [
         "A-1329.1"
       ],
-      "related_nodes": [
-        "N-50",
-        "N-293",
-        "N-68"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:17–00:37:12",
-      "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and any follow-up exchange."
+      "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and any follow-up exchange.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-68",
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",
@@ -973,12 +989,14 @@
         "A-1331.1"
       ],
       "related_nodes": [
-        "N-71",
         "N-1293"
       ],
       "tags": [],
       "claim_timestamp": "00:41:52–00:43:00",
-      "investigative_direction": "Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities."
+      "investigative_direction": "Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities.",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -988,12 +1006,14 @@
       "claim": "Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1292",
-        "N-334"
+        "N-1292"
       ],
       "tags": [],
       "claim_timestamp": "00:20:12–00:23:48",
-      "investigative_direction": "Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure."
+      "investigative_direction": "Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure.",
+      "mentions_person_refs": [
+        "N-334"
+      ]
     },
     {
       "@type": "Claim",

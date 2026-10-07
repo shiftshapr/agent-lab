@@ -308,8 +308,10 @@ Claim Timestamp: 00:24:03
 Claim: Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards because law enforcement officers asked them to do so before the campus lockdown.
 
 Anchored Artifacts: A-1220.1
+Mentions: N-37, N-70
+Contradicts: C-1369
 
-Related Nodes: N-70, N-1228, N-37
+Related Nodes: N-1228
 
 Investigative Direction: Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025.
 
@@ -320,8 +322,9 @@ Claim Timestamp: 00:26:20
 Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will not be released until trial.
 
 Anchored Artifacts: A-1220.3
+Mentions: N-37, N-70
 
-Related Nodes: N-70, N-1231, N-37
+Related Nodes: N-1231
 
 Investigative Direction: FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing.
 
@@ -332,8 +335,8 @@ Claim Timestamp: 00:40:21
 Claim: Tyler Bowyer publicly stated that TPUSA has audited annually and that the host conflated the audit with a proposed new DoJ department.
 
 Anchored Artifacts: A-1220.2
+Mentions: N-37, N-70
 
-Related Nodes: N-70, N-37
 
 Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.
 
@@ -344,8 +347,10 @@ Claim Timestamp: 00:22:06
 Claim: Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and turned them over to the FBI.
 
 Anchored Artifacts: A-1221.1
+Mentions: N-42
+Contradicts: C-1366
 
-Related Nodes: N-42, N-1228
+Related Nodes: N-1228
 
 Investigative Direction: Obtain full clip; cross-reference against FBI evidentiary custody records.
 
@@ -356,8 +361,9 @@ Claim Timestamp: 00:24:03
 Claim: The host asserts that Kolvet's stated rationale (fear of theft) and Bowyer's stated rationale (law enforcement instruction) for the SD card removal are in conflict.
 
 Anchored Artifacts: A-1220.1, A-1221.1
+Mentions: N-42, N-70
 
-Related Nodes: N-70, N-42, N-1228
+Related Nodes: N-1228
 
 Investigative Direction: Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025.
 
@@ -368,6 +374,7 @@ Claim Timestamp: 00:25:39
 Claim: The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage — not police instruction or theft concerns.
 
 Anchored Artifacts: None displayed
+Contradicts: C-1366, C-1369
 
 Related Nodes: N-1228
 
@@ -380,8 +387,9 @@ Claim Timestamp: 00:37:10
 Claim: A Wall Street Journal article published September 18, 2025 featured Alex Clark at the Charlie Kirk memorial site and quoted her as saying her first thought upon hearing of the shooting was "I'm so glad that Charlie knew Jesus," and her third thought was "Thank God Trump is president."
 
 Anchored Artifacts: A-1222.1
+Mentions: N-135
 
-Related Nodes: N-135, N-1232
+Related Nodes: N-1232
 
 Investigative Direction: Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution.
 
@@ -392,8 +400,9 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
+Mentions: N-135
 
-Related Nodes: N-135, N-1232
+Related Nodes: N-1232
 
 Investigative Direction: Verify quote against the original WSJ article.
 
@@ -404,8 +413,9 @@ Claim Timestamp: 00:13:08
 Claim: Pastor Rob McCoy (TPUSA Faith Division head) published an Instagram post after the host's revelation of the Hamptons meeting, criticizing the host for not behaving as a friend to Charlie during the mourning period.
 
 Anchored Artifacts: A-1224.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1232
+Related Nodes: N-1232
 
 Investigative Direction: Obtain post directly from McCoy's Instagram; verify timestamp and provenance.
 
@@ -440,8 +450,9 @@ Claim Timestamp: 00:17:45
 Claim: The host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.
 
 Anchored Artifacts: A-1225.4 (verbal identification in the context of displayed chat)
+Mentions: N-42
 
-Related Nodes: N-42, N-1229
+Related Nodes: N-1229
 
 Investigative Direction: Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle).
 
@@ -464,8 +475,8 @@ Claim Timestamp: 00:39:45
 Claim: Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DoJ department matter on her Instagram, which the host characterizes as "half-truth PR spin."
 
 Anchored Artifacts: A-1223.1, A-1220.2
+Mentions: N-37, N-70, N-135
 
-Related Nodes: N-135, N-70, N-37
 
 Investigative Direction: Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag).
 

@@ -572,12 +572,14 @@
       "claim": "A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1333",
-        "N-98"
+        "N-1333"
       ],
       "tags": [],
       "claim_timestamp": "36:37",
-      "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy."
+      "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.",
+      "mentions_person_refs": [
+        "N-98"
+      ]
     },
     {
       "@type": "Claim",

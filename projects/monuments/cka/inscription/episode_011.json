@@ -813,12 +813,13 @@
       "anchored_artifacts": [
         "A-1172.1"
       ],
-      "related_nodes": [
-        "N-176"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:50–00:04:50",
-      "investigative_direction": "Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a \"retired Washington County deputy\")."
+      "investigative_direction": "Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a \"retired Washington County deputy\").",
+      "mentions_person_refs": [
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -830,12 +831,13 @@
         "A-1172.1",
         "A-1174.1"
       ],
-      "related_nodes": [
-        "N-176"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:30–00:16:30",
-      "investigative_direction": "Pull the cited court documents and compare Brooksby's public statements with the actual filed text."
+      "investigative_direction": "Pull the cited court documents and compare Brooksby's public statements with the actual filed text.",
+      "mentions_person_refs": [
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -895,12 +897,13 @@
       "anchored_artifacts": [
         "A-1174.1"
       ],
-      "related_nodes": [
-        "N-176"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:00–00:16:30",
-      "investigative_direction": "Verify against Washington County personnel records and any prior news coverage of Mitchell's career."
+      "investigative_direction": "Verify against Washington County personnel records and any prior news coverage of Mitchell's career.",
+      "mentions_person_refs": [
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -912,12 +915,14 @@
         "A-1174.1"
       ],
       "related_nodes": [
-        "N-176",
         "N-1207"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:16:50",
-      "investigative_direction": "Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records."
+      "investigative_direction": "Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.",
+      "mentions_person_refs": [
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -947,13 +952,15 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-92",
-        "N-180",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:29:30",
-      "investigative_direction": "Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time."
+      "investigative_direction": "Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-180"
+      ]
     },
     {
       "@type": "Claim",
@@ -965,12 +972,14 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:00",
-      "investigative_direction": "Pull county property records for the relevant street and verify ownership chain."
+      "investigative_direction": "Pull county property records for the relevant street and verify ownership chain.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -982,12 +991,14 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:30:00–00:32:00",
-      "investigative_direction": "Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described."
+      "investigative_direction": "Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -999,12 +1010,14 @@
         "A-1179.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:33:15",
-      "investigative_direction": "Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account."
+      "investigative_direction": "Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -1016,12 +1029,14 @@
         "A-1180.1"
       ],
       "related_nodes": [
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:34:00–00:35:30",
-      "investigative_direction": "Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available."
+      "investigative_direction": "Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -1033,13 +1048,15 @@
         "A-1181.1"
       ],
       "related_nodes": [
-        "N-179",
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:41:00–00:41:30",
-      "investigative_direction": "Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman."
+      "investigative_direction": "Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-179"
+      ]
     },
     {
       "@type": "Claim",
@@ -1051,13 +1068,15 @@
         "A-1181.2"
       ],
       "related_nodes": [
-        "N-179",
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00–00:42:30",
-      "investigative_direction": "Identify the two friends via cross-reference with Shane's social graph or via direct outreach."
+      "investigative_direction": "Identify the two friends via cross-reference with Shane's social graph or via direct outreach.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-179"
+      ]
     },
     {
       "@type": "Claim",
@@ -1067,13 +1086,15 @@
       "claim": "Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-177",
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30–00:39:00",
-      "investigative_direction": "Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick."
+      "investigative_direction": "Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-177"
+      ]
     },
     {
       "@type": "Claim",
@@ -1083,13 +1104,15 @@
       "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-181",
-        "N-92",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:38:30–00:39:00",
-      "investigative_direction": "Confirm via Ian Carol's own public statements and any travel/timeline records."
+      "investigative_direction": "Confirm via Ian Carol's own public statements and any travel/timeline records.",
+      "mentions_person_refs": [
+        "N-92",
+        "N-181"
+      ]
     },
     {
       "@type": "Claim",
@@ -1101,12 +1124,14 @@
         "A-1175.1"
       ],
       "related_nodes": [
-        "N-177",
         "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00–00:25:20",
-      "investigative_direction": "Recover the original image and metadata; identify the individual depicted."
+      "investigative_direction": "Recover the original image and metadata; identify the individual depicted.",
+      "mentions_person_refs": [
+        "N-177"
+      ]
     },
     {
       "@type": "Claim",

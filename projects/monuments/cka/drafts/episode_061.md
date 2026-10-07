@@ -384,8 +384,9 @@ Claim Timestamp: 00:01:13
 Claim: Turning Point USA, through counsel, sent a cease and desist letter to Candace Owens approximately January 19–20, 2026.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1503
+Related Nodes: N-1503
 
 Investigative Direction: Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.
 
@@ -398,8 +399,9 @@ Claim Timestamp: 00:14:10–00:15:10
 Claim: The TPUSA letter demands that Owens cease stating or implying that TPUSA or its personnel played any part in, knew about beforehand, participated in the day of, or covered up the truth about the Kirk assassination.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1503
+Related Nodes: N-1503
 
 Investigative Direction: Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable.
 
@@ -412,8 +414,9 @@ Claim Timestamp: 00:13:00–00:14:10
 Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "intentionally evasive" about whether Erica Kirk was at "Fort Wuka" in or around an alleged secret meeting Owens has linked to the assassination.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1506
+Related Nodes: N-1506
 
 Investigative Direction: Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented.
 
@@ -426,8 +429,9 @@ Claim Timestamp: 00:12:24–00:13:19
 Claim: The TPUSA letter alleges that Owens claimed there are "not good people" at TPUSA and suggested that TPUSA and TPUSA Faith have been infiltrated by military operatives.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1507
+Related Nodes: N-1507
 
 Investigative Direction: Identify the specific personnel Owens considers "military operatives" and determine whether any verifiable affiliation exists.
 
@@ -496,8 +500,9 @@ Claim Timestamp: 00:04:39
 Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money — specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
 
 Anchored Artifacts: A-1662.1
+Mentions: N-443
 
-Related Nodes: N-443, N-1503, N-1504
+Related Nodes: N-1503, N-1504
 
 Investigative Direction: Identify the original Tim Dylan episode and timestamp for the quoted clip.
 
@@ -510,8 +515,9 @@ Claim Timestamp: 00:04:39–00:06:17
 Claim: Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.
 
 Anchored Artifacts: A-1661.1, A-1662.1
+Mentions: N-443
 
-Related Nodes: N-443, N-1503, N-1504
+Related Nodes: N-1503, N-1504
 
 Investigative Direction: Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.
 
@@ -552,8 +558,9 @@ Claim Timestamp: 00:12:24–00:13:19
 Claim: Owens states that Rob McCoy is "defending somebody who went to prison for molesting kids."
 
 Anchored Artifacts: A-1661.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1507
+Related Nodes: N-1507
 
 Investigative Direction: Identify the specific individual and case to which Owens refers.
 
@@ -566,8 +573,8 @@ Claim Timestamp: 00:34:18
 Claim: Brooklyn Beckham, via Instagram Stories, states "I do not want to reconcile with my family."
 
 Anchored Artifacts: A-1663.1
+Mentions: N-770, N-772
 
-Related Nodes: N-770, N-772
 
 Investigative Direction: Obtain the original Stories frames before deletion if preservation has not yet occurred.
 
@@ -580,8 +587,8 @@ Claim Timestamp: 00:36:14–00:37:33
 Claim: Brooklyn Beckham alleges that his mother cancelled making Nicola Peltz's dress shortly before the wedding, forcing an urgent replacement.
 
 Anchored Artifacts: A-1663.1
+Mentions: N-770, N-771, N-772
 
-Related Nodes: N-770, N-771, N-772
 
 Investigative Direction: Obtain any contemporaneous communications or receipts relevant to the dress commission timeline.
 
@@ -594,8 +601,8 @@ Claim Timestamp: 00:36:14–00:37:33
 Claim: Brooklyn Beckham alleges that his parents "repeatedly pressured and attempted to bribe me into signing away the rights to my name" before his wedding.
 
 Anchored Artifacts: A-1663.1
+Mentions: N-770, N-772, N-773
 
-Related Nodes: N-770, N-772, N-773
 
 Investigative Direction: Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window.
 
@@ -608,8 +615,8 @@ Claim Timestamp: 00:38:22
 Claim: Brooklyn Beckham alleges his mother called him "evil" because he and Nicola chose to seat their nannies' widowed grandparents at the head table.
 
 Anchored Artifacts: A-1663.1
+Mentions: N-770, N-772
 
-Related Nodes: N-770, N-772
 
 Investigative Direction: Identify any wedding guests who can corroborate or rebut the alleged remark.
 
@@ -622,8 +629,8 @@ Claim Timestamp: 00:40:27–00:41:23
 Claim: Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.
 
 Anchored Artifacts: A-1663.1, A-1664.1
+Mentions: N-70, N-770, N-772
 
-Related Nodes: N-770, N-772, N-70
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
 
@@ -636,8 +643,8 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to "Only Fools Rush In," performed by South African artist Lizo.
 
 Anchored Artifacts: A-1664.1
+Mentions: N-770, N-771, N-772, N-773
 
-Related Nodes: N-770, N-771, N-772, N-773
 
 Investigative Direction: Cross-reference with the original Vogue article text and any available wedding video.
 
@@ -650,8 +657,8 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.
 
 Anchored Artifacts: A-1664.1
+Mentions: N-70, N-770, N-771
 
-Related Nodes: N-770, N-771, N-70
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.
 
@@ -664,8 +671,8 @@ Claim Timestamp: 00:28:30–00:29:09
 Claim: Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, "I think he knows something is coming because he's got out his tiny violin."
 
 Anchored Artifacts: A-1665.1
+Mentions: N-774, N-775, N-776
 
-Related Nodes: N-774, N-775, N-776
 
 Investigative Direction: Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket.
 
@@ -678,8 +685,8 @@ Claim Timestamp: 00:29:09
 Claim: Sony executives described Blake Lively as a "terrorist" in text messages supporting Justin Baldoni's account.
 
 Anchored Artifacts: A-1665.1
+Mentions: N-774, N-775
 
-Related Nodes: N-774, N-775
 
 Investigative Direction: Obtain the specific Sony executive text-message exhibits from the litigation record.
 
@@ -692,8 +699,9 @@ Claim Timestamp: 00:58:55
 Claim: The top viewer comment from the prior episode states TPUSA "fired 40 people for leaking info but kept the head of security after the biggest possible failure"; Owens partially corroborates and revises the figure to approximately 15.
 
 Anchored Artifacts: A-1667.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1503
+Related Nodes: N-1503
 
 Investigative Direction: Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.
 
@@ -706,8 +714,9 @@ Claim Timestamp: 00:58:55
 Claim: An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erica Kirk by saying that if something happened, she would know what to do.
 
 Anchored Artifacts: A-1668.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1508
+Related Nodes: N-1508
 
 Investigative Direction: Identify and obtain a recorded statement from the corroborating donor; cross-reference against the previously aired "Baron Coleman" discussion referenced by host.
 

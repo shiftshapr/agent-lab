@@ -770,14 +770,16 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-2",
         "N-1212",
         "N-1626",
         "N-1628"
       ],
       "tags": [],
       "claim_timestamp": "00:09:34",
-      "investigative_direction": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10."
+      "investigative_direction": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -823,12 +825,14 @@
         "A-1888.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1627"
       ],
       "tags": [],
       "claim_timestamp": "00:24:05",
-      "investigative_direction": "Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST."
+      "investigative_direction": "Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -875,12 +879,14 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-1631",
-        "N-2"
+        "N-1631"
       ],
       "tags": [],
       "claim_timestamp": "00:39:16",
-      "investigative_direction": "Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest."
+      "investigative_direction": "Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -972,12 +978,14 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1629"
       ],
       "tags": [],
       "claim_timestamp": "00:31:34",
-      "investigative_direction": "Verify the specific guest booked for September 9 interview; cross-check against show archives."
+      "investigative_direction": "Verify the specific guest booked for September 9 interview; cross-check against show archives.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

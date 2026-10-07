@@ -602,7 +602,7 @@ Investigative Pressure: Low
 Claim Timestamp: 00:02:07
 Claim: Episode presents that Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
 Anchored Artifacts: A-1780.1, A-1781.1
-Related Nodes: N-941, N-942, N-943
+Mentions: N-941, N-942, N-943
 Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.
 
 ---
@@ -612,7 +612,7 @@ Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts d
 Claim Timestamp: 00:03:40
 Claim: Episode presents that Erika and Jillian met when Jillian came to Harrelson's residence for a rent-related matter and exchanged numbers during that interaction, per Jillian's account relayed by the host.
 Anchored Artifacts: A-1780.1
-Related Nodes: N-941, N-942
+Mentions: N-941, N-942
 Investigative Direction: Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.
 
 ---
@@ -622,7 +622,7 @@ Investigative Direction: Re-interview Jillian (now adult) directly and document 
 Claim Timestamp: 00:05:48
 Claim: Episode presents that on or about 2014-03-06, Erika Kirk sent Jillian Falcon text messages including "Sex. Sex, too, but not from you. lol." and "You always make me laugh. I don't bat for the other team just yet."
 Anchored Artifacts: A-1781.3, A-1782.1, A-1782.2, A-1782.3
-Related Nodes: N-942
+Mentions: N-942
 Investigative Direction: Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.
 
 ---
@@ -632,7 +632,7 @@ Investigative Direction: Obtain original screenshots and verify posting metadata
 Claim Timestamp: 00:05:48
 Claim: Episode presents that on or about 2014-03-13, Erika texted Jillian: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
 Anchored Artifacts: A-1781.4, A-1782.4
-Related Nodes: N-942
+Mentions: N-942
 Investigative Direction: Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place.
 
 ---
@@ -642,7 +642,8 @@ Investigative Direction: Compare against the same-day Jillian social-media activ
 Claim Timestamp: 00:15:15
 Claim: Episode presents that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
 Anchored Artifacts: A-1781.4, A-1782.4
-Related Nodes: N-942, N-948, N-1584
+Mentions: N-942, N-948
+Related Nodes: N-1584
 Investigative Direction: Identify the photographer (name begins with "R") and obtain session records, including the date and consent documentation.
 
 ---
@@ -652,7 +653,7 @@ Investigative Direction: Identify the photographer (name begins with "R") and ob
 Claim Timestamp: 00:06:37
 Claim: Episode presents that on or about 2014-03-26, Erika sent Jillian a gnome image bearing the text "I want to be inside your lady garden. Know what I'm saying?", which Jillian then shared publicly.
 Anchored Artifacts: A-1781.6
-Related Nodes: N-942
+Mentions: N-942
 Investigative Direction: Locate the original image file and verify its posting date and source account.
 
 ---
@@ -662,7 +663,7 @@ Investigative Direction: Locate the original image file and verify its posting d
 Claim Timestamp: 00:07:30
 Claim: Episode presents that on or about 2014-04-05, Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a handwritten card reading "Happy sweet 16, beautiful girl… Love you, E."
 Anchored Artifacts: A-1781.8, A-1783.1
-Related Nodes: N-942
+Mentions: N-942
 Investigative Direction: Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.
 
 ---
@@ -672,7 +673,7 @@ Investigative Direction: Obtain the original photo from Jillian's X/Twitter post
 Claim Timestamp: 00:07:30
 Claim: Episode presents that on or about 2014-06-07, Erika texted Jillian: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
 Anchored Artifacts: A-1781.9, A-1782.6
-Related Nodes: N-942
+Mentions: N-942
 Investigative Direction: Obtain the original screenshot and verify against Jillian's X/Twitter posting history.
 
 ---
@@ -682,7 +683,7 @@ Investigative Direction: Obtain the original screenshot and verify against Jilli
 Claim Timestamp: 00:14:26
 Claim: Episode presents that Erika Kirk commented on an Instagram photo of Jillian Falcon standing beside a car, writing "That dime piece beside the car though."
 Anchored Artifacts: A-1784.4
-Related Nodes: N-942
+Mentions: N-942
 Investigative Direction: Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.
 
 ---
@@ -742,7 +743,8 @@ Investigative Direction: Pull the cited DOJ files directly, confirm the count an
 Claim Timestamp: 00:33:02
 Claim: Episode presents that a Turning Point USA spokesperson told Newsweek that Erika moved the wedding photo to a lower shelf "when her daughter asked to see it" so the child could "hold and look at the photo."
 Anchored Artifacts: A-1787.1
-Related Nodes: N-1583, N-272, N-42
+Mentions: N-42, N-272
+Related Nodes: N-1583
 Investigative Direction: Pull the Newsweek article directly and confirm the exact quote and attribution.
 
 ---
@@ -752,7 +754,8 @@ Investigative Direction: Pull the Newsweek article directly and confirm the exac
 Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
 Anchored Artifacts: A-1788.1, A-1789.1
-Related Nodes: N-272, N-1583
+Mentions: N-272
+Related Nodes: N-1583
 Investigative Direction: Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.
 
 ---
@@ -762,7 +765,8 @@ Investigative Direction: Pull the original Real America's Voice and Fox News/Mar
 Claim Timestamp: 00:38:26
 Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per a "mommy sleuth" discovery cited by the host.
 Anchored Artifacts: A-1788.1, A-1789.1
-Related Nodes: N-272, N-1583
+Mentions: N-272
+Related Nodes: N-1583
 Investigative Direction: Pull the two interview segments and visually verify the background in each.
 
 ---
@@ -772,7 +776,7 @@ Investigative Direction: Pull the two interview segments and visually verify the
 Claim Timestamp: 00:46:09
 Claim: Episode presents that Attorney General Pam Bondi, in a House Oversight hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as "the most transparent president in the nation's history."
 Anchored Artifacts: A-1791.1
-Related Nodes: N-120, N-946
+Mentions: N-120, N-946
 Investigative Direction: Pull the hearing transcript and video to confirm Bondi's exact wording and the hearing date.
 
 ---

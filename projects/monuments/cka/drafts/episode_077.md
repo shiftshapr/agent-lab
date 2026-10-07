@@ -423,8 +423,8 @@ Claim Timestamp: 00:04:13
 Claim: A Jeffrey Epstein email to Peter Thiel, recently released, states that Epstein represents the Rothschilds.
 
 Anchored Artifacts: A-1822.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.
 
@@ -437,8 +437,8 @@ Claim Timestamp: 00:09:32
 Claim: A 2017 Instagram post by Erika Kirk refers to Alan Rothstein as "Uncle Allan," describing him as spiritually inspirational and noting his real-estate career.
 
 Anchored Artifacts: A-1823.1
+Mentions: N-2, N-963
 
-Related Nodes: N-2, N-963
 
 Investigative Direction: Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.
 
@@ -451,8 +451,9 @@ Claim Timestamp: 00:11:25
 Claim: Erika Kirk's published real-estate bio describes her as a "multi-dimensional entrepreneur" whose NYC real-estate practice focuses on the "fiduciary relationship" with clients, alongside claims of prior work as an agency-represented model, actress, and casting director.
 
 Anchored Artifacts: A-1824.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1599
+Related Nodes: N-1599
 
 Investigative Direction: Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions.
 
@@ -465,8 +466,9 @@ Claim Timestamp: 00:15:31
 Claim: A relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), issued October 24, 2018, valid through at least 2020, was found on a third-party site.
 
 Anchored Artifacts: A-1825.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1598
+Related Nodes: N-1598
 
 Investigative Direction: Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.
 
@@ -479,8 +481,9 @@ Claim Timestamp: 00:19:15
 Claim: In her audition tape for "The American Race," Erika Kirk stated she had traveled to Romania and "teamed up with the Marine Corps to open up and sustain an orphanage with 75 beautiful children" called "Romanian Angels" through her nonprofit "Everyday Heroes Like You."
 
 Anchored Artifacts: A-1826.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1597
+Related Nodes: N-1597
 
 Investigative Direction: Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records.
 
@@ -493,8 +496,9 @@ Claim Timestamp: 00:20:51
 Claim: An email from "Larissa," a former Antonio Placement Center resident adopted internationally, states that the center is "notorious for corruption and illicit activities such as trafficking children," that Larissa herself was placed there under dubious circumstances, and that Erika Kirk's promotional materials from approximately 2012 to 2014 specifically referenced the Antonio Placement Center as a partner for international efforts.
 
 Anchored Artifacts: A-1827.1
+Mentions: N-2, N-961
 
-Related Nodes: N-2, N-961, N-1597
+Related Nodes: N-1597
 
 Investigative Direction: Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.
 
@@ -507,8 +511,9 @@ Claim Timestamp: 00:23:16
 Claim: In a social-media exchange, Tyler Bowyer stated he studied Romanian in college to complement Russian studies and did a few weeks studying abroad in school.
 
 Anchored Artifacts: A-1828.1
+Mentions: N-37
 
-Related Nodes: N-1600, N-37
+Related Nodes: N-1600
 
 Investigative Direction: Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.
 
@@ -521,8 +526,9 @@ Claim Timestamp: 00:29:37
 Claim: Arizona SB 1439 proposed a "Charlie Kirk Memorial Plate" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of a $25 annual fee directed to a "conservative grassroots network special plate fund."
 
 Anchored Artifacts: A-1829.1
+Mentions: N-1, N-964, N-966
 
-Related Nodes: N-1, N-964, N-966, N-1601
+Related Nodes: N-1601
 
 Investigative Direction: Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.
 
@@ -535,8 +541,9 @@ Claim Timestamp: 00:34:00
 Claim: Governor Katie Hobbs vetoed SB 1439, stating in her veto letter that Charlie Kirk's assassination was tragic, that political violence is harmful to democratic institutions, and that the bill "falls short" by "inserting politics into a function of government that should remain non-partisan."
 
 Anchored Artifacts: A-1830.1
+Mentions: N-1, N-964, N-965
 
-Related Nodes: N-1, N-964, N-965, N-1601
+Related Nodes: N-1601
 
 Investigative Direction: Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.
 
@@ -549,8 +556,9 @@ Claim Timestamp: 00:34:21
 Claim: On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's "nakedly partisan" record, that Hobbs vetoed nine of his bills previously, and that the Charlie Kirk plate would honor a "civil rights leader of our time."
 
 Anchored Artifacts: A-1831.1
+Mentions: N-964, N-965
 
-Related Nodes: N-964, N-965, N-1601
+Related Nodes: N-1601
 
 Investigative Direction: Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.
 
@@ -563,8 +571,9 @@ Claim Timestamp: 00:38:23
 Claim: Tyler Bowyer posted on X: "Every nonprofit in Arizona that has major roots has a license plate. Katie Hobbs vetoed this uh over politics after Charlie was brutally murdered. Disgusting."
 
 Anchored Artifacts: A-1832.1
+Mentions: N-37
 
-Related Nodes: N-1601, N-37
+Related Nodes: N-1601
 
 Investigative Direction: Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.
 
@@ -605,8 +614,9 @@ Claim Timestamp: 00:13:41
 Claim: The host asserts that Erika Kirk's real-estate bio claims of "magna cum laude" graduation and a double major in political science and international relations at Arizona State University cannot be confirmed, and that international relations was not offered as a major in her claimed graduation year.
 
 Anchored Artifacts: A-1824.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1599
+Related Nodes: N-1599
 
 Investigative Direction: Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation.
 
@@ -619,8 +629,9 @@ Claim Timestamp: 00:14:38
 Claim: The host asserts she was unable to independently verify Erika Kirk's NY real-estate license on the New York State Division of Licenses website, finding only a relic on a third-party site, and notes that NY State records should be retained for at least six years from license activity.
 
 Anchored Artifacts: A-1825.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1598
+Related Nodes: N-1598
 
 Investigative Direction: Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive.
 
@@ -633,8 +644,9 @@ Claim Timestamp: 00:31:36
 Claim: Per host reading of SB 1439, the bill's "conservative grassroots network special plate fund" description — a nonprofit founded in 2012 focusing on restoring traditional values, maintaining a grassroots activist network on high school and college campuses in Arizona, and assisting with voter registration and absentee ballots — matches characteristics of Turning Point USA, although TPUSA is not named explicitly in the bill.
 
 Anchored Artifacts: A-1829.1
+Mentions: N-964, N-966
 
-Related Nodes: N-964, N-966, N-1601
+Related Nodes: N-1601
 
 Investigative Direction: Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.
 

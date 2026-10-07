@@ -1292,13 +1292,15 @@
         "A-2064.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-2065",
-        "N-37"
+        "N-2065"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
-      "investigative_direction": "Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors."
+      "investigative_direction": "Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1328,14 +1330,16 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1214",
         "N-2061"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12",
-      "investigative_direction": "Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip."
+      "investigative_direction": "Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1347,13 +1351,15 @@
         "A-2066.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-2061"
       ],
       "tags": [],
       "claim_timestamp": "00:05:53",
-      "investigative_direction": "Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice."
+      "investigative_direction": "Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1402,13 +1408,15 @@
       ],
       "related_nodes": [
         "N-1214",
-        "N-1",
-        "N-2",
         "N-2061"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
-      "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement."
+      "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1421,12 +1429,14 @@
       ],
       "related_nodes": [
         "N-1212",
-        "N-2",
         "N-2061"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
-      "investigative_direction": "Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election."
+      "investigative_direction": "Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1438,12 +1448,14 @@
         "A-2070.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:14:43",
-      "investigative_direction": "Obtain Hillsdale College's official press release or commencement program; verify the date and the credentials cited for the award."
+      "investigative_direction": "Obtain Hillsdale College's official press release or commencement program; verify the date and the credentials cited for the award.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1456,12 +1468,14 @@
       ],
       "related_nodes": [
         "N-1213",
-        "N-2",
         "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:16:39",
-      "investigative_direction": "Verify the original post; cross-reference Hillsdale's public statements on DEI."
+      "investigative_direction": "Verify the original post; cross-reference Hillsdale's public statements on DEI.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1473,13 +1487,15 @@
         "A-2071.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1223",
         "N-2062"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
-      "investigative_direction": "Obtain archived versions of the LinkedIn page (Wayback Machine or other captures); verify against ASU graduation records."
+      "investigative_direction": "Obtain archived versions of the LinkedIn page (Wayback Machine or other captures); verify against ASU graduation records.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1491,13 +1507,15 @@
         "A-2071.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1223",
         "N-2062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:10",
-      "investigative_direction": "Obtain archived LinkedIn captures showing both versions; verify degree titles and honors with ASU registrar."
+      "investigative_direction": "Obtain archived LinkedIn captures showing both versions; verify degree titles and honors with ASU registrar.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1511,12 +1529,14 @@
       "related_nodes": [
         "N-1219",
         "N-1223",
-        "N-2",
         "N-2062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
-      "investigative_direction": "Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list."
+      "investigative_direction": "Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1528,13 +1548,15 @@
         "A-2071.3"
       ],
       "related_nodes": [
-        "N-2",
         "N-1222",
         "N-2062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
-      "investigative_direction": "Verify Liberty's Ed.D. in Christian Leadership program; obtain Liberty's records on Erika Kirk's actual enrollment."
+      "investigative_direction": "Verify Liberty's Ed.D. in Christian Leadership program; obtain Liberty's records on Erika Kirk's actual enrollment.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1600,12 +1622,14 @@
       ],
       "related_nodes": [
         "N-1218",
-        "N-2",
         "N-2063"
       ],
       "tags": [],
       "claim_timestamp": "00:49:33",
-      "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question."
+      "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1618,12 +1642,14 @@
       ],
       "related_nodes": [
         "N-1218",
-        "N-2",
         "N-2063"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
-      "investigative_direction": "Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance."
+      "investigative_direction": "Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1637,12 +1663,14 @@
       "related_nodes": [
         "N-1224",
         "N-1218",
-        "N-2",
         "N-2063"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
-      "investigative_direction": "Locate Paramount Tactical's specific admission statement; identify the actual child in the photo."
+      "investigative_direction": "Locate Paramount Tactical's specific admission statement; identify the actual child in the photo.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1675,12 +1703,14 @@
       ],
       "related_nodes": [
         "N-1218",
-        "N-2",
         "N-2063"
       ],
       "tags": [],
       "claim_timestamp": "00:45:18",
-      "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently."
+      "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

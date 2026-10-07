@@ -720,7 +720,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:09",
-      "investigative_direction": "Obtain the underlying Secret Service statement on the record; identify and corroborate the \"person familiar\" source."
+      "investigative_direction": "Obtain the underlying Secret Service statement on the record; identify and corroborate the \"person familiar\" source.",
+      "contradicts_claim_refs": [
+        "C-2724",
+        "C-2728"
+      ]
     },
     {
       "@type": "Claim",
@@ -1012,7 +1016,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:09–00:13:38",
-      "investigative_direction": "Resolve by obtaining either Erika Kirk's underlying threat intel (if any) or an explicit on-record retraction."
+      "investigative_direction": "Resolve by obtaining either Erika Kirk's underlying threat intel (if any) or an explicit on-record retraction.",
+      "contradicts_claim_refs": [
+        "C-2744"
+      ]
     },
     {
       "@type": "Claim",

@@ -428,7 +428,8 @@ Claim Timestamp: 00:03:37
 Claim: Charlie Kirk was shot from the front, and the bullet did not exit his neck, as verified by the host from multiple sources.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-1246, N-42
+Mentions: N-42
+Related Nodes: N-1246
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
 ---
@@ -440,7 +441,8 @@ Claim Timestamp: 00:05:03
 Claim: A bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-1246, N-42
+Mentions: N-42
+Related Nodes: N-1246
 Investigative Direction: Compare against autopsy report and forensic pathology images for exact fragment location.
 
 ---
@@ -452,7 +454,8 @@ Claim Timestamp: 00:06:02
 Claim: Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-1246, N-42
+Mentions: N-42
+Related Nodes: N-1246
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
 ---
@@ -464,7 +467,8 @@ Claim Timestamp: 00:02:50
 Claim: Andrew Kolbatz posted a tweet claiming to relay a conversation with the surgeon who worked on Charlie, describing the bullet as having been stopped by Charlie's bone density.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-42, N-1246
+Mentions: N-42
+Related Nodes: N-1246
 Investigative Direction: Locate original Kolbatz tweet and verify direct quotes and publication date.
 
 ---
@@ -476,7 +480,8 @@ Claim Timestamp: 00:03:01
 Claim: Per Kolbatz's account, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as "an absolute miracle."
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-42, N-1246
+Mentions: N-42
+Related Nodes: N-1246
 Investigative Direction: Identify the named surgeon (if given) and confirm statement through independent medical record review.
 
 ---
@@ -488,7 +493,8 @@ Claim Timestamp: 00:08:44
 Claim: A witness in the viral clip stated he was in the third row, heard a shot ring out, looked left and right, and saw Charlie slump with blood coming from the left side of his neck.
 
 Anchored Artifacts: A-1252.1
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Identify the witness and obtain a signed statement consistent with his on-camera description.
 
 ---
@@ -500,7 +506,8 @@ Claim Timestamp: 00:12:02
 Claim: The man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but a volunteer.
 
 Anchored Artifacts: A-1252.1, A-1253.1
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Identify the pusher and verify his institutional affiliation at the time of the event.
 
 ---
@@ -512,7 +519,8 @@ Claim Timestamp: 00:13:06
 Claim: Cooper Brown stated on Fox News that he works for the Leadership Institute, which partners with TPUSA, Young Americans for Liberty, and Students for Life on college campuses.
 
 Anchored Artifacts: A-1253.1
-Related Nodes: N-247, N-1254, N-1248
+Mentions: N-247
+Related Nodes: N-1248, N-1254
 Investigative Direction: Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.
 
 ---
@@ -524,7 +532,8 @@ Claim Timestamp: 00:13:06
 Claim: Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting.
 
 Anchored Artifacts: A-1253.1
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
 ---
@@ -536,7 +545,8 @@ Claim Timestamp: 00:13:58
 Claim: Cooper Brown appeared on Fox News again the day after the shooting.
 
 Anchored Artifacts: A-1253.2
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
 ---
@@ -548,7 +558,8 @@ Claim Timestamp: 00:14:50
 Claim: Cooper Brown stated his event responsibility was managing the microphone — raising and lowering it for student questioners.
 
 Anchored Artifacts: A-1253.2
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Cross-reference event staff logs or volunteer rosters provided by organizers.
 
 ---
@@ -560,7 +571,8 @@ Claim Timestamp: 00:16:16
 Claim: Cooper Brown's public resume lists attendance at a small college in New Hampshire (per host: Southern New Hampshire University) with a politics major.
 
 Anchored Artifacts: A-1253.2
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Pull registrar verification or alumni records (subject to FERPA limits).
 
 ---
@@ -572,7 +584,8 @@ Claim Timestamp: 00:16:16
 Claim: A same-name person at the named New Hampshire college graduated in the year Cooper Brown claims, but is female and 32 years old, raising identity-verification concerns.
 
 Anchored Artifacts: A-1253.2
-Related Nodes: N-247, N-1248
+Mentions: N-247
+Related Nodes: N-1248
 Investigative Direction: Confirm whether the female same-name individual is or is not the same person through independent records.
 
 ---
@@ -584,7 +597,8 @@ Claim Timestamp: 00:23:00
 Claim: Jason Chaffetz stated on Fox News that, being within proximity of the venue, the shot appeared to be "in close proximity straight ahead."
 
 Anchored Artifacts: A-1254.1
-Related Nodes: N-248, N-1246, N-1247
+Mentions: N-248
+Related Nodes: N-1246, N-1247
 Investigative Direction: Confirm full segment and any subsequent Chaffetz statements on the topic.
 
 ---
@@ -608,7 +622,8 @@ Claim Timestamp: 00:18:33
 Claim: Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).
 
 Anchored Artifacts: (host-stated; no displayed primary artifact — see Optional Flags)
-Related Nodes: N-249, N-1249
+Mentions: N-249
+Related Nodes: N-1249
 Investigative Direction: Locate Utah state announcement and prior employment records.
 
 ---
@@ -656,7 +671,8 @@ Claim Timestamp: 00:32:52
 Claim: The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed — see Optional Flags)
-Related Nodes: N-1250, N-37
+Mentions: N-37
+Related Nodes: N-1250
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---
@@ -704,7 +720,8 @@ Claim Timestamp: 00:39:09
 Claim: A second plane (with "888" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.
 
 Anchored Artifacts: (host-stated — see Optional Flags)
-Related Nodes: N-1252, N-251, N-76
+Mentions: N-76, N-251
+Related Nodes: N-1252
 Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.
 
 ---
@@ -752,7 +769,8 @@ Claim Timestamp: 00:40:07
 Claim: Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.
 
 Anchored Artifacts: (host-stated; Derek Maxwell Instagram post not displayed — see Optional Flags)
-Related Nodes: N-1252, N-251
+Mentions: N-251
+Related Nodes: N-1252
 Investigative Direction: Locate Maxwell's original Instagram post and any corroborating ATC logs.
 
 ---
@@ -788,7 +806,8 @@ Claim Timestamp: 00:45:21
 Claim: Josh Hammer publicly released text messages between himself and Charlie Kirk following the prior episode's coverage.
 
 Anchored Artifacts: A-1256.1
-Related Nodes: N-42, N-1253
+Mentions: N-42
+Related Nodes: N-1253
 Investigative Direction: Verify release date and source channel.
 
 ---
@@ -800,7 +819,8 @@ Claim Timestamp: 00:45:21
 Claim: The released texts include a "thank you for your help guys" message (attributed to Charlie Kirk) and Josh Hammer's reply asking what Charlie's "first stop tomorrow" was.
 
 Anchored Artifacts: A-1256.1
-Related Nodes: N-42, N-1253
+Mentions: N-42
+Related Nodes: N-1253
 Investigative Direction: Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.
 
 ---
@@ -824,7 +844,7 @@ Claim Timestamp: 00:49:13
 Claim: At a Harvard appearance on February 15, 2024, Jared Kushner referred to Gaza as "waterfront property" and stated he would "move the people out and then clean it up."
 
 Anchored Artifacts: A-1258.1
-Related Nodes: N-254
+Mentions: N-254
 Investigative Direction: Verify full Harvard event recording and transcript.
 
 ---
@@ -836,7 +856,8 @@ Claim Timestamp: 00:53:09
 Claim: Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt "too on the nose" to be authentic, suggesting Charlie had been pushed to that statement.
 
 Anchored Artifacts: A-1259.1
-Related Nodes: N-228, N-1253
+Mentions: N-228
+Related Nodes: N-1253
 Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---
@@ -848,7 +869,7 @@ Claim Timestamp: 00:10:16
 Claim: Andrew Kolbatz was not the man in the viral push video; he flew into Utah after the shooting and was not on the ground.
 
 Anchored Artifacts: A-1252.1
-Related Nodes: N-42, N-247
+Mentions: N-42, N-247
 Investigative Direction: Verify Kolbatz's travel timeline via receipts or communications.
 
 ---

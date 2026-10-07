@@ -1227,14 +1227,16 @@
         "A-1846.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-3",
-        "N-133",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:08:50–00:09:46",
-      "investigative_direction": "Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements."
+      "investigative_direction": "Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -1245,13 +1247,14 @@
       "anchored_artifacts": [
         "A-1846.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:46–00:10:32",
-      "investigative_direction": "Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps."
+      "investigative_direction": "Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1263,14 +1266,16 @@
         "A-1846.3"
       ],
       "related_nodes": [
-        "N-1",
-        "N-3",
-        "N-989",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:21:32–00:21:48",
-      "investigative_direction": "Forensic verification of the message; examine whether Charlie Kirk made comparable public statements."
+      "investigative_direction": "Forensic verification of the message; examine whether Charlie Kirk made comparable public statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-989"
+      ]
     },
     {
       "@type": "Claim",
@@ -1282,15 +1287,17 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-990",
-        "N-5",
         "N-1612",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32–00:13:29",
-      "investigative_direction": "Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics."
+      "investigative_direction": "Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-5",
+        "N-990"
+      ]
     },
     {
       "@type": "Claim",
@@ -1302,14 +1309,16 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-990",
         "N-1612",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38–00:12:38",
-      "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements."
+      "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-990"
+      ]
     },
     {
       "@type": "Claim",
@@ -1321,14 +1330,16 @@
         "A-1848.1"
       ],
       "related_nodes": [
-        "N-334",
-        "N-1",
-        "N-133",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:07:35–00:08:50",
-      "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015."
+      "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-133",
+        "N-334"
+      ]
     },
     {
       "@type": "Claim",
@@ -1339,13 +1350,14 @@
       "anchored_artifacts": [
         "A-1849.1"
       ],
-      "related_nodes": [
-        "N-989",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:00–00:20:51",
-      "investigative_direction": "Direct retrieval of the original X post via archive."
+      "investigative_direction": "Direct retrieval of the original X post via archive.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-989"
+      ]
     },
     {
       "@type": "Claim",
@@ -1357,14 +1369,16 @@
         "A-1850.1"
       ],
       "related_nodes": [
-        "N-224",
-        "N-1",
-        "N-133",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:13:29–00:16:34",
-      "investigative_direction": "Direct retrieval of the original X post via archive."
+      "investigative_direction": "Direct retrieval of the original X post via archive.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-133",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1375,14 +1389,15 @@
       "anchored_artifacts": [
         "A-1851.1"
       ],
-      "related_nodes": [
-        "N-133",
-        "N-993",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:54–00:20:00",
-      "investigative_direction": "Obtain the full unedited video clip; verify date and venue."
+      "investigative_direction": "Obtain the full unedited video clip; verify date and venue.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-133",
+        "N-993"
+      ]
     },
     {
       "@type": "Claim",
@@ -1394,13 +1409,15 @@
         "A-1852.1"
       ],
       "related_nodes": [
-        "N-994",
-        "N-5",
         "N-1614"
       ],
       "tags": [],
       "claim_timestamp": "00:24:34–00:25:35",
-      "investigative_direction": "Obtain the full press exchange transcript and date."
+      "investigative_direction": "Obtain the full press exchange transcript and date.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-994"
+      ]
     },
     {
       "@type": "Claim",
@@ -1412,13 +1429,15 @@
         "A-1853.1"
       ],
       "related_nodes": [
-        "N-5",
-        "N-65",
         "N-1614"
       ],
       "tags": [],
       "claim_timestamp": "00:31:42–00:34:14",
-      "investigative_direction": "Obtain full transcript and verify date."
+      "investigative_direction": "Obtain full transcript and verify date.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1430,13 +1449,15 @@
         "A-1854.1"
       ],
       "related_nodes": [
-        "N-50",
-        "N-5",
         "N-1613"
       ],
       "tags": [],
       "claim_timestamp": "00:41:23–00:43:44",
-      "investigative_direction": "Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists."
+      "investigative_direction": "Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1457,14 +1478,16 @@
         "A-1855.10"
       ],
       "related_nodes": [
-        "N-5",
-        "N-996",
-        "N-898",
         "N-1614"
       ],
       "tags": [],
       "claim_timestamp": "00:26:19–00:28:13",
-      "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates."
+      "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-898",
+        "N-996"
+      ]
     },
     {
       "@type": "Claim",
@@ -1476,13 +1499,15 @@
         "A-1857.1"
       ],
       "related_nodes": [
-        "N-339",
-        "N-50",
         "N-1613"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36–00:45:22",
-      "investigative_direction": "Retrieve original X post via archive."
+      "investigative_direction": "Retrieve original X post via archive.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-339"
+      ]
     },
     {
       "@type": "Claim",
@@ -1494,12 +1519,14 @@
         "A-1858.1"
       ],
       "related_nodes": [
-        "N-50",
         "N-1613"
       ],
       "tags": [],
       "claim_timestamp": "00:45:22–00:46:20",
-      "investigative_direction": "Verify whether the list has ever been published publicly; check DOJ acknowledgment."
+      "investigative_direction": "Verify whether the list has ever been published publicly; check DOJ acknowledgment.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1511,12 +1538,14 @@
         "A-1859.1"
       ],
       "related_nodes": [
-        "N-50",
         "N-1613"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20–00:47:29",
-      "investigative_direction": "Retrieve original X post via archive."
+      "investigative_direction": "Retrieve original X post via archive.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1528,12 +1557,14 @@
         "A-1860.1"
       ],
       "related_nodes": [
-        "N-5",
         "N-1615"
       ],
       "tags": [],
       "claim_timestamp": "00:34:14–00:35:03",
-      "investigative_direction": "Obtain the original news article; verify date and source publication."
+      "investigative_direction": "Obtain the original news article; verify date and source publication.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1545,13 +1576,15 @@
         "A-1856.1"
       ],
       "related_nodes": [
-        "N-3",
-        "N-998",
         "N-1616"
       ],
       "tags": [],
       "claim_timestamp": "00:36:50–00:40:07",
-      "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date."
+      "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-998"
+      ]
     }
   ],
   "memes": []

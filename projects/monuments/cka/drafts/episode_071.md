@@ -354,8 +354,8 @@ Claim Timestamp: 00:05:06
 Claim: Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.
 
 Anchored Artifacts: A-1750.1
+Mentions: N-910
 
-Related Nodes: N-910
 
 Investigative Direction: Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures.
 
@@ -368,8 +368,9 @@ Claim Timestamp: 00:08:37–00:09:39
 Claim: Andrew Kolvet stated the TPUSA halftime show drew 6 million concurrent YouTube viewers.
 
 Anchored Artifacts: A-1751.1
+Mentions: N-910
 
-Related Nodes: N-910, N-1570
+Related Nodes: N-1570
 
 Investigative Direction: Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data.
 
@@ -382,8 +383,9 @@ Claim Timestamp: 00:08:37–00:09:39
 Claim: Andrew Kolvet stated TPUSA saw "over 10 million concurrent views" across all social channels (Rumble plus partners).
 
 Anchored Artifacts: A-1751.1
+Mentions: N-910
 
-Related Nodes: N-910, N-1570
+Related Nodes: N-1570
 
 Investigative Direction: Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube.
 
@@ -396,8 +398,9 @@ Claim Timestamp: 00:08:37–00:09:39
 Claim: Andrew Kolvet stated TPUSA had "over 20 million viewers across just social" for the halftime show.
 
 Anchored Artifacts: A-1751.1
+Mentions: N-910
 
-Related Nodes: N-910, N-1570
+Related Nodes: N-1570
 
 Investigative Direction: Verify the 20M aggregate figure against partner broadcaster analytics if/when released.
 
@@ -452,8 +455,8 @@ Claim Timestamp: 00:15:10
 Claim: Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.
 
 Anchored Artifacts: A-1754.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify current YouTube view and comment counts on the Charlie Kirk channel.
 
@@ -466,8 +469,8 @@ Claim Timestamp: 00:16:12
 Claim: Candace Owens' "Letter to Erika" YouTube video has approximately 3.1 million views and 28,000 comments.
 
 Anchored Artifacts: A-1755.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Verify current YouTube view and comment counts on Candace Owens' channel.
 
@@ -494,8 +497,9 @@ Claim Timestamp: 00:20:59
 Claim: A LinkedIn profile lists Thomas Martin as Director, US Border Patrol, with location in the Greater Tucson area.
 
 Anchored Artifacts: A-1757.1
+Mentions: N-907
 
-Related Nodes: N-907, N-1568
+Related Nodes: N-1568
 
 Investigative Direction: Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.
 
@@ -508,8 +512,9 @@ Claim Timestamp: 00:22:02
 Claim: A ZoomInfo listing shows Thomas Martin as Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.
 
 Anchored Artifacts: A-1757.2
+Mentions: N-907
 
-Related Nodes: N-907, N-1568
+Related Nodes: N-1568
 
 Investigative Direction: Retrieve ZoomInfo archive; cross-check federal personnel records.
 
@@ -522,8 +527,9 @@ Claim Timestamp: 00:22:02–00:24:12
 Claim: A 1985 Times Union article identifies agent Thomas Martin of the Border Patrol in Tucson in the context of the sanctuary movement trial.
 
 Anchored Artifacts: A-1758.1
+Mentions: N-907
 
-Related Nodes: N-907, N-1568
+Related Nodes: N-1568
 
 Investigative Direction: Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.
 
@@ -536,8 +542,9 @@ Claim Timestamp: 00:22:02–00:24:12
 Claim: In the 1985 article, Thomas Martin is quoted writing to superiors about avoiding "border patrol baiting" related to invading churches.
 
 Anchored Artifacts: A-1758.1
+Mentions: N-907
 
-Related Nodes: N-907, N-1568
+Related Nodes: N-1568
 
 Investigative Direction: Obtain full text and verify direct quote attribution.
 
@@ -550,8 +557,9 @@ Claim Timestamp: 00:24:52
 Claim: Per Tracy Martin's text messages from September 11, Tracy's daughter (allegedly Erica Kirk's assistant) was scheduled to attend UVU on September 10, 2025.
 
 Anchored Artifacts: A-1759.1
+Mentions: N-2, N-890, N-908
 
-Related Nodes: N-890, N-908, N-1569, N-2
+Related Nodes: N-1569
 
 Investigative Direction: Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.
 
@@ -564,8 +572,9 @@ Claim Timestamp: 00:24:52
 Claim: Per Tracy Martin's text messages, Tracy had a "bad feeling" about September 10 and stopped her daughter from attending UVU.
 
 Anchored Artifacts: A-1759.1
+Mentions: N-890, N-908
 
-Related Nodes: N-890, N-908, N-1569
+Related Nodes: N-1569
 
 Investigative Direction: Authenticate text messages; cross-reference with daughter's subsequent statements or activities.
 
@@ -578,8 +587,9 @@ Claim Timestamp: 00:30:34–00:40:02
 Claim: Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.
 
 Anchored Artifacts: A-1760.1
+Mentions: N-909
 
-Related Nodes: N-909, N-1571
+Related Nodes: N-1571
 
 Investigative Direction: Obtain official hearing transcript or recording.
 
@@ -620,8 +630,9 @@ Claim Timestamp: 00:35:13–00:36:06
 Claim: Seth Dillon claimed Charlie Kirk himself initiated the Israel discussion at the Hamptons meeting.
 
 Anchored Artifacts: A-1760.1
+Mentions: N-1
 
-Related Nodes: N-1571, N-1
+Related Nodes: N-1571
 
 Investigative Direction: Cross-reference with Charlie Kirk's own public statements about the Hamptons meeting.
 
@@ -634,8 +645,9 @@ Claim Timestamp: 00:31:24–00:32:50
 Claim: Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
 
 Anchored Artifacts: A-1760.2
+Mentions: N-909
 
-Related Nodes: N-909, N-1571
+Related Nodes: N-1571
 
 Investigative Direction: Obtain full hearing transcript.
 
@@ -648,8 +660,9 @@ Claim Timestamp: 00:17:44
 Claim: Tyler Bowyer tweeted that TPUSA ended up with "one of the largest YouTube concurrent live streams in history."
 
 Anchored Artifacts: A-1761.1
+Mentions: N-37
 
-Related Nodes: N-1570, N-37
+Related Nodes: N-1570
 
 Investigative Direction: Archive the original tweet and any associated image; verify whether it remains public.
 
@@ -662,8 +675,8 @@ Claim Timestamp: 00:43:33–00:50:47
 Claim: Commenter "AO" states there is a clip of Erika speaking to Megan Kelly that confirms Candace Owens' recollection of lights flickering near Charlie Kirk.
 
 Anchored Artifacts: A-1762.1
+Mentions: N-1, N-2
 
-Related Nodes: N-2, N-1
 
 Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Megan Kelly.
 
@@ -676,8 +689,8 @@ Claim Timestamp: 00:43:33–00:50:47
 Claim: Commenter GN2176 states that the Charlie Kirk story resembles "a book being written about Charlie Kirk's trial leading up to a September 10th execution like St. Thomas More."
 
 Anchored Artifacts: A-1762.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify any actual book project matching this description.
 
@@ -690,8 +703,8 @@ Claim Timestamp: 00:45:37
 Claim: Per host statement read aloud from comment thread context, Charlie Kirk's parents have not reached out to Candace Owens to validate her investigation, though they have historically been private.
 
 Anchored Artifacts: A-1762.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify through any other public statements from Charlie Kirk's parents or family representatives.
 

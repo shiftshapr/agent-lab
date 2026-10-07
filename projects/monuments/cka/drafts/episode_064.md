@@ -259,8 +259,9 @@ Claim Timestamp: 00:09:08
 Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 — approximately five-and-a-half days after Charlie Kirk's death — with the public board announcement following one day later.
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
+Mentions: N-264, N-797
 
-Related Nodes: N-264, N-797, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
 
@@ -271,8 +272,9 @@ Claim Timestamp: 00:24:46
 Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs up" reactions, Erika Kirk laughing, and her comment "this is a little bit more emotional than probably Charlie would be reacting."
 
 Anchored Artifacts: A-1686.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
 
@@ -283,8 +285,9 @@ Claim Timestamp: 00:17:35
 Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as "family," stating "your family if you want to," "I want our family to stay together," and "this is your chosen family."
 
 Anchored Artifacts: A-1686.2
+Mentions: N-264
 
-Related Nodes: N-264, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
 
@@ -295,8 +298,9 @@ Claim Timestamp: 00:17:35
 Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell to make sure that all of you have a job here" and "I will make sure that I never allow a point to where you have to leave because we cannot financially afford you."
 
 Anchored Artifacts: A-1686.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
 
@@ -307,8 +311,9 @@ Claim Timestamp: 00:22:11
 Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be" — appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
 
 Anchored Artifacts: A-1686.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
 
@@ -319,8 +324,9 @@ Claim Timestamp: 00:27:13
 Claim: During the September 16 call, Erika Kirk told TPUSA employees to "be soft with one another in ways differently" and that "if someone's acting weird, don't read into that… weddings and funerals bring out the weirdest side of people."
 
 Anchored Artifacts: A-1686.3
+Mentions: N-2
 
-Related Nodes: N-2, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
 
@@ -331,8 +337,9 @@ Claim Timestamp: 00:28:01
 Claim: During the September 16 call, Erika Kirk shared an airplane analogy ("15 minutes before landing… you're going to make it through these next 15 minutes") attributed to a person named "Usha."
 
 Anchored Artifacts: A-1686.3
+Mentions: N-2
 
-Related Nodes: N-2, N-1519
+Related Nodes: N-1519
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
@@ -343,8 +350,8 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
 
 Anchored Artifacts: A-1687.1
+Mentions: N-796
 
-Related Nodes: N-796
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
 
@@ -355,8 +362,8 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: "mankind is to be tested by God."
 
 Anchored Artifacts: A-1687.1
+Mentions: N-796
 
-Related Nodes: N-796
 
 Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
 
@@ -367,8 +374,8 @@ Claim Timestamp: 00:39:00
 Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hiring Candace is probably the biggest mistake of my professional life so far."
 
 Anchored Artifacts: A-1688.1
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
 
@@ -379,8 +386,8 @@ Claim Timestamp: 00:40:30
 Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
 
 Anchored Artifacts: A-1688.2
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
 
@@ -391,8 +398,8 @@ Claim Timestamp: 00:41:59
 Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
 
 Anchored Artifacts: A-1688.3
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
 
@@ -403,8 +410,8 @@ Claim Timestamp: 00:44:36
 Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, "I believe what the people believe. I am the voice of the people."
 
 Anchored Artifacts: A-1688.4
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
 
@@ -415,8 +422,9 @@ Claim Timestamp: 00:47:50
 Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
 
 Anchored Artifacts: A-1689.1
+Mentions: N-607
 
-Related Nodes: N-607, N-1520
+Related Nodes: N-1520
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
@@ -427,8 +435,8 @@ Claim Timestamp: 00:16:46
 Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.
 
 Anchored Artifacts: A-1686.1
+Mentions: N-797
 
-Related Nodes: N-797
 
 Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
 
@@ -439,8 +447,8 @@ Claim Timestamp: 00:40:30
 Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her — tied to her willingness to critique Black Lives Matter — is "objectively racist."
 
 Anchored Artifacts: A-1688.2
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
 
@@ -451,8 +459,8 @@ Claim Timestamp: 00:43:46
 Claim: Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.
 
 Anchored Artifacts: A-1688.3
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
 
@@ -463,8 +471,8 @@ Claim Timestamp: 00:44:36
 Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up" and an "amoral statement."
 
 Anchored Artifacts: A-1688.4
+Mentions: N-607
 
-Related Nodes: N-607
 
 Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
 
@@ -475,8 +483,9 @@ Claim Timestamp: 00:48:28
 Claim: Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.
 
 Anchored Artifacts: A-1689.1
+Mentions: N-607
 
-Related Nodes: N-607, N-1520
+Related Nodes: N-1520
 
 Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
 

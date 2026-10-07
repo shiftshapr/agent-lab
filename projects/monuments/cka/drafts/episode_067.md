@@ -718,8 +718,8 @@ Claim Timestamp: 00:03:44
 Claim: A letter from Sigmund Freud to Wilhelm Fliess describes a patient recalling ritual circumcision and concludes with Freud's reference to "a primeval devil religion" and "the harsh therapy of the witches' judges."
 
 Anchored Artifacts: A-1714.1
+Mentions: N-80, N-830
 
-Related Nodes: N-80, N-830
 
 Investigative Direction: Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context.
 
@@ -732,8 +732,8 @@ Claim Timestamp: 00:10:32
 Claim: Per the TikTok contrarian compilation, Israel is mentioned twice as much as Donald Trump across the released Epstein documents.
 
 Anchored Artifacts: A-1715.1
+Mentions: N-35
 
-Related Nodes: N-35
 
 Investigative Direction: Independently count Israel/Trump mentions across DOJ-released documents.
 
@@ -746,8 +746,8 @@ Claim Timestamp: 00:10:32
 Claim: Per the compilation, in a discussion with Jewish-American academic and hedge fund worker Roger Schank, Epstein stated that Jews create vast fortunes by manipulating markets, creating financial speculation, and exploiting labor.
 
 Anchored Artifacts: A-1715.1
+Mentions: N-35
 
-Related Nodes: N-35
 
 Investigative Direction: Locate the underlying email between Epstein and Roger Schank in DOJ releases.
 
@@ -760,8 +760,8 @@ Claim Timestamp: 00:11:37
 Claim: Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of having "no respect for non-Jews" and of seeing them as not human; he also pressured her to have an abortion.
 
 Anchored Artifacts: A-1715.1
+Mentions: N-35
 
-Related Nodes: N-35
 
 Investigative Direction: Obtain the underlying email and any corroborating testimony from Svetlana.
 
@@ -774,8 +774,8 @@ Claim Timestamp: 00:12:20
 Claim: Per Maria Farmer's on-camera statement in the compilation, when Maria Farmer called Ghislaine Maxwell to ask why she could not eat at Epstein's residence, Maxwell told her "It's a Jewish country club. You're not Jewish. They're not going to serve you."
 
 Anchored Artifacts: A-1715.1
+Mentions: N-35, N-76, N-851
 
-Related Nodes: N-851, N-76, N-35
 
 Investigative Direction: Cross-check against Maria Farmer's prior sworn testimony and DOJ documents.
 
@@ -788,8 +788,8 @@ Claim Timestamp: 00:09:45
 Claim: Per host reading, an Epstein email stated "those are my bosses, the Rothschilds."
 
 Anchored Artifacts: A-1715.1 (referenced in compilation context)
+Mentions: N-35, N-833
 
-Related Nodes: N-833, N-35
 
 Investigative Direction: Identify the specific Epstein email in DOJ releases containing the Rothschild reference.
 
@@ -802,8 +802,8 @@ Claim Timestamp: 00:16:29
 Claim: Per James Lee's analysis, an Epstein email poorly redacted but readable as from "Susan Hamblin" contains the line "I give you permission to kill him."
 
 Anchored Artifacts: A-1716.1
+Mentions: N-35, N-260, N-843
 
-Related Nodes: N-843, N-35, N-260
 
 Investigative Direction: Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin.
 
@@ -816,8 +816,8 @@ Claim Timestamp: 00:16:29
 Claim: Per James Lee, Susan Hamblin previously sued News Group Newspapers (publisher of The Sun) over articles alleging she groomed and procured a 16-year-old for Epstein; articles were removed and substantial compensation paid.
 
 Anchored Artifacts: A-1716.1
+Mentions: N-843
 
-Related Nodes: N-843
 
 Investigative Direction: Verify the litigation through court records (UK).
 
@@ -830,8 +830,8 @@ Claim Timestamp: 00:18:35
 Claim: Per Ben Shapiro on camera, the FBI is not releasing Epstein tapes because the tapes are child pornography, not because they document third-party abuse.
 
 Anchored Artifacts: A-1717.1
+Mentions: N-35, N-133
 
-Related Nodes: N-133, N-35
 
 Investigative Direction: Compare Shapiro's claim to DOJ public statements and Todd Blanche's public statements on the tapes.
 
@@ -844,8 +844,8 @@ Claim Timestamp: 00:18:35
 Claim: Per Ben Shapiro on camera, citing his federal government sources, there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.
 
 Anchored Artifacts: A-1717.1
+Mentions: N-35, N-133
 
-Related Nodes: N-133, N-35
 
 Investigative Direction: Cross-check against DOJ/FBI official statements on what documents were released.
 
@@ -858,8 +858,8 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement, former Israeli PM Naftali Bennett stated with "100% certainty" that the accusation Mossad ran an Epstein blackmail ring is "categorically and totally false."
 
 Anchored Artifacts: A-1718.1
+Mentions: N-35, N-841
 
-Related Nodes: N-841, N-35
 
 Investigative Direction: Obtain the full Bennett interview recording.
 
@@ -872,8 +872,8 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
 
 Anchored Artifacts: A-1718.1
+Mentions: N-841, N-867
 
-Related Nodes: N-841, N-867
 
 Investigative Direction: Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.
 
@@ -886,8 +886,8 @@ Claim Timestamp: 00:22:23
 Claim: Nicki Minaj posted on X that "Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God."
 
 Anchored Artifacts: A-1719.1
+Mentions: N-839, N-840
 
-Related Nodes: N-839, N-840
 
 Investigative Direction: Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).
 
@@ -900,8 +900,8 @@ Claim Timestamp: 00:26:09
 Claim: Per Peter Thiel on the Joe Rogan podcast, he was introduced to Jeffrey Epstein by Reid Hoffman in 2014 (after Epstein's 2008 arrest), described as "one of the smartest tax people in the world."
 
 Anchored Artifacts: A-1720.1
+Mentions: N-35, N-835, N-850
 
-Related Nodes: N-835, N-850, N-35
 
 Investigative Direction: Confirm date and circumstances against any released Thiel email metadata with Hoffman.
 
@@ -914,8 +914,8 @@ Claim Timestamp: 00:27:02
 Claim: Per the Rogan exchange, Thiel states "it was probably my moral weakness" that he did not ask more questions about Epstein.
 
 Anchored Artifacts: A-1720.1
+Mentions: N-35, N-835
 
-Related Nodes: N-835, N-35
 
 Investigative Direction: Compare Thiel's Rogan account to the volume and content of his released emails with Epstein.
 
@@ -928,8 +928,9 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 — not September 8 as Candace Owens had stated.
 
 Anchored Artifacts: A-1721.1
+Mentions: N-42
 
-Related Nodes: N-42, N-1009, N-1544
+Related Nodes: N-1009, N-1544
 
 Investigative Direction: Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.
 
@@ -942,8 +943,9 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
 
 Anchored Artifacts: A-1721.1
+Mentions: N-42, N-134
 
-Related Nodes: N-42, N-1009, N-134, N-1544
+Related Nodes: N-1009, N-1544
 
 Investigative Direction: Identify the other Zoom participants; cross-check against calendar records; obtain the "rabbi in Israel" identity.
 
@@ -956,8 +958,9 @@ Claim Timestamp: 00:47:03
 Claim: Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.
 
 Anchored Artifacts: A-1722.1
+Mentions: N-16
 
-Related Nodes: N-16, N-1009, N-1544, N-1547
+Related Nodes: N-1009, N-1544, N-1547
 
 Investigative Direction: Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts.
 
@@ -970,8 +973,9 @@ Claim Timestamp: 00:47:50
 Claim: Per Frank Turek, Charlie Kirk texted that he would be "shortly" out because "GG just got up," and Charlie had to attend to the child before the walk.
 
 Anchored Artifacts: A-1722.1
+Mentions: N-16
 
-Related Nodes: N-16, N-1009, N-1010, N-1544
+Related Nodes: N-1009, N-1010, N-1544
 
 Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.
 
@@ -984,8 +988,8 @@ Claim Timestamp: 00:14:46
 Claim: An email released via WikiLeaks from Katherine Tate to John Podesta references "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs."
 
 Anchored Artifacts: A-1723.1
+Mentions: N-854, N-855, N-856
 
-Related Nodes: N-854, N-855, N-856
 
 Investigative Direction: Verify the email against the WikiLeaks Podesta archive; identify context and any related communications.
 
@@ -998,8 +1002,9 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
+Mentions: N-42, N-434
 
-Related Nodes: N-1010, N-434, N-42, N-1541
+Related Nodes: N-1010, N-1541
 
 Investigative Direction: Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).
 
@@ -1012,8 +1017,9 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source, the Sept 9 "they're going to kill me" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.
 
 Anchored Artifacts: A-1726.1
+Mentions: N-42, N-434
 
-Related Nodes: N-1009, N-42, N-434, N-1544
+Related Nodes: N-1009, N-1544
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.
 
@@ -1026,8 +1032,9 @@ Claim Timestamp: 00:48:34
 Claim: Per Candace Owens's source (a resident of the Kirks' building), a neighbor encountered Charlie Kirk on a walk on September 8 with a tall person who was not Frank Turek; they spoke briefly about her dog and his upcoming tour.
 
 Anchored Artifacts: A-1726.2
+Mentions: N-16
 
-Related Nodes: N-1009, N-16, N-1547
+Related Nodes: N-1009, N-1547
 
 Investigative Direction: Identify the neighbor; obtain written statement; review building security camera footage if available.
 
@@ -1040,8 +1047,8 @@ Claim Timestamp: 00:56:38
 Claim: The top YouTube comment (from user "Truth no matter the consequences") requests a Candace Owens and Kanye West joint episode.
 
 Anchored Artifacts: A-1725.1
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Not applicable (commentary only).
 
@@ -1054,8 +1061,8 @@ Claim Timestamp: 00:57:34
 Claim: A YouTube comment from "I R O" references a $65,000 hot dog party at the White House found in WikiLeaks files, and a Hillary Clinton email to Obama advising caution around Julian Assange.
 
 Anchored Artifacts: A-1725.2
+Mentions: N-856, N-857
 
-Related Nodes: N-856, N-857
 
 Investigative Direction: Verify the underlying WikiLeaks document.
 
@@ -1068,8 +1075,8 @@ Claim Timestamp: 00:58:27
 Claim: A YouTube comment from "Shyla" affirms Candace Owens as "the ultimate truth seeker and right fighter" and affirms "Christ is king."
 
 Anchored Artifacts: A-1725.3
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Not applicable (commentary only).
 
@@ -1082,8 +1089,8 @@ Claim Timestamp: 00:58:27
 Claim: A YouTube comment from "Mahoney" (Catholic) requests an episode on the "true Jewish faith" versus the perverted version, acknowledging that this framing will be called anti-Semitic.
 
 Anchored Artifacts: A-1725.4
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Not applicable (commentary only).
 
@@ -1096,8 +1103,8 @@ Claim Timestamp: 00:58:27
 Claim: A YouTube comment from "Sneako" contains only the letter "W" (interpreted by host as "Win").
 
 Anchored Artifacts: A-1725.5
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Not applicable (commentary only).
 
@@ -1124,8 +1131,8 @@ Claim Timestamp: 01:00:34
 Claim: A YouTube comment from "We woke now" asserts that Charleston, South Carolina — known as "Little Jerusalem" — is home to the very first Jewish lodge, and that the slave market there is called "Checkmate" forming a "literal chessboard."
 
 Anchored Artifacts: A-1725.6
+Mentions: N-3
 
-Related Nodes: N-3
 
 Investigative Direction: Verify against Charleston historical society records; verify "Checkmate" name for the slave market.
 

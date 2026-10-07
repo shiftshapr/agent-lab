@@ -632,12 +632,13 @@
       "anchored_artifacts": [
         "A-2115.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:24",
-      "investigative_direction": "Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated."
+      "investigative_direction": "Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

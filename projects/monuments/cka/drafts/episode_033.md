@@ -460,8 +460,8 @@ Claim Timestamp: 00:02:22–00:03:32
 Claim: Rob McCoy, in a recorded clip played during the episode, read Romans 12:15–16 and urged the audience to mourn with the Kirk family rather than engage in public speculation about Charlie Kirk.
 
 Anchored Artifacts: A-1415.1
+Mentions: N-3, N-45
 
-Related Nodes: N-45, N-3
 
 Investigative Direction: Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.
 
@@ -474,8 +474,8 @@ Claim Timestamp: 00:08:45–00:10:00
 Claim: Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks about Charlie Kirk being "betrayed" effectively accused Erika Kirk of murdering her husband.
 
 Anchored Artifacts: A-1416.1, A-1417.1
+Mentions: N-2, N-3, N-406
 
-Related Nodes: N-406, N-2, N-3
 
 Investigative Direction: Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript.
 
@@ -488,8 +488,8 @@ Claim Timestamp: 00:10:00–00:11:00
 Claim: Candace Owens rejected Crowder's interpretation, stating that her remarks about Charlie being "betrayed" were not directed at Erika Kirk, and characterizing the Crowder narrative as a coordinated talking point deployed after she mentioned the Egyptian planes.
 
 Anchored Artifacts: A-1416.1, A-1417.1
+Mentions: N-2, N-3, N-406
 
-Related Nodes: N-406, N-2, N-3
 
 Investigative Direction: Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation.
 
@@ -502,8 +502,9 @@ Claim Timestamp: 00:19:57–00:21:54
 Claim: ADSB Exchange data, as displayed and narrated by director Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.
 
 Anchored Artifacts: A-1418.1
+Mentions: N-1, N-2, N-98, N-408
 
-Related Nodes: N-1, N-2, N-98, N-408, N-1324
+Related Nodes: N-1324
 
 Investigative Direction: Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time).
 
@@ -516,8 +517,9 @@ Claim Timestamp: 00:14:51–00:18:42
 Claim: A host-prepared spreadsheet displays 68 overlap instances (later expanded to 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.
 
 Anchored Artifacts: A-1419.1, A-1419.2
+Mentions: N-1, N-2, N-413
 
-Related Nodes: N-1, N-2, N-413, N-1324
+Related Nodes: N-1324
 
 Investigative Direction: Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk.
 
@@ -530,8 +532,9 @@ Claim Timestamp: 00:17:49–00:18:42
 Claim: Of the overlap instances documented in the spreadsheet, 29 included Charlie Kirk's presence.
 
 Anchored Artifacts: A-1419.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1324
+Related Nodes: N-1324
 
 Investigative Direction: Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk.
 
@@ -544,8 +547,9 @@ Claim Timestamp: 00:17:49–00:18:42
 Claim: The host claims the documented overlap flights cluster primarily within Kansas, Missouri, Nebraska, Delaware, and Utah.
 
 Anchored Artifacts: A-1419.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1324
+Related Nodes: N-1324
 
 Investigative Direction: Independently geocode the overlap instances and verify the state-level distribution.
 
@@ -558,8 +562,9 @@ Claim Timestamp: 00:18:42
 Claim: The host states that under random distribution models, the probability of these Egyptian aircraft coincidentally landing around Erika Kirk at these times is less than 0.000000001%.
 
 Anchored Artifacts: A-1419.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1324
+Related Nodes: N-1324
 
 Investigative Direction: Request the host's underlying statistical model and assumptions; replicate the calculation independently.
 
@@ -572,7 +577,8 @@ Claim Timestamp: 00:23:51–00:25:54
 Claim: Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a "credible threat" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
-Related Nodes: N-1, N-2, N-349, N-1329, N-414
+Mentions: N-1, N-2, N-349, N-414
+Related Nodes: N-1329
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
 
@@ -599,8 +605,9 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host states that Duncan Aviation's FBO in Provo sourced rental cars for arrivals the host describes as Egyptian, in the days before the September 10 event.
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
+Mentions: N-408
 
-Related Nodes: N-408, N-1327
+Related Nodes: N-1327
 
 Investigative Direction: Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.
 
@@ -613,8 +620,9 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host reads four specific license plates associated with the rental vehicles: T09 2Zs (silver 2025 Toyota RAV4, Utah), CWN N872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), and Z923DA (black 2025 Toyota 4Runner, Utah).
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
+Mentions: N-408
 
-Related Nodes: N-408, N-1327
+Related Nodes: N-1327
 
 Investigative Direction: Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.
 
@@ -627,8 +635,9 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
+Mentions: N-2, N-70
 
-Related Nodes: N-2, N-70, N-1325
+Related Nodes: N-1325
 
 Investigative Direction: Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.
 
@@ -641,8 +650,9 @@ Claim Timestamp: 00:37:29–00:39:37
 Claim: "Wolves and Finance" video cites Schedule I of Turning Point USA's FY2024 Form 990 showing $8,560,625 transferred to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1325
+Related Nodes: N-1325
 
 Investigative Direction: Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.
 
@@ -655,8 +665,9 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: "Wolves and Finance" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
+Mentions: N-1, N-2, N-70, N-412
 
-Related Nodes: N-1, N-2, N-70, N-412, N-1325
+Related Nodes: N-1325
 
 Investigative Direction: Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.
 
@@ -669,8 +680,9 @@ Claim Timestamp: 00:43:57–00:44:30
 Claim: Host states that Turning Point USA's 501(c)(3) arm experienced a 33% staff reduction while salary costs increased.
 
 Anchored Artifacts: A-1420.2
+Mentions: N-2
 
-Related Nodes: N-2, N-1325
+Related Nodes: N-1325
 
 Investigative Direction: Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.
 
@@ -683,8 +695,9 @@ Claim Timestamp: 00:42:57–00:43:57
 Claim: "Wolves and Finance" video and host confirm that Erika Kirk became CEO of Turning Point USA on September 18, 2025, eight days after Charlie Kirk's death.
 
 Anchored Artifacts: A-1420.1
+Mentions: N-1, N-2
 
-Related Nodes: N-1, N-2, N-1325
+Related Nodes: N-1325
 
 Investigative Direction: Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.
 
@@ -711,8 +724,9 @@ Claim Timestamp: 00:21:00–00:21:54
 Claim: Director Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).
 
 Anchored Artifacts: A-1418.1
+Mentions: N-98, N-408
 
-Related Nodes: N-98, N-408, N-1324
+Related Nodes: N-1324
 
 Investigative Direction: Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.
 

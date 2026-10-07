@@ -922,13 +922,15 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-798",
-        "N-298",
         "N-1524"
       ],
       "tags": [],
       "claim_timestamp": "00:43:21",
-      "investigative_direction": "Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures."
+      "investigative_direction": "Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.",
+      "mentions_person_refs": [
+        "N-298",
+        "N-798"
+      ]
     },
     {
       "@type": "Claim",
@@ -940,12 +942,14 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-798",
         "N-1523"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
-      "investigative_direction": "Verify with Anti-Semite of the Year award organization records."
+      "investigative_direction": "Verify with Anti-Semite of the Year award organization records.",
+      "mentions_person_refs": [
+        "N-798"
+      ]
     },
     {
       "@type": "Claim",
@@ -973,13 +977,15 @@
         "A-1694.1"
       ],
       "related_nodes": [
-        "N-800",
         "N-1522",
         "N-1534"
       ],
       "tags": [],
       "claim_timestamp": "01:21:47",
-      "investigative_direction": "Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text."
+      "investigative_direction": "Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.",
+      "mentions_person_refs": [
+        "N-800"
+      ]
     },
     {
       "@type": "Claim",
@@ -989,15 +995,17 @@
       "claim": "Per host, her Phil Turney interview received approximately 7 million views, prompting New York Times outreach.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-799",
         "N-1522",
         "N-1528",
-        "N-1535",
-        "N-45"
+        "N-1535"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
-      "investigative_direction": "Verify view count via YouTube analytics or platform data."
+      "investigative_direction": "Verify view count via YouTube analytics or platform data.",
+      "mentions_person_refs": [
+        "N-45",
+        "N-799"
+      ]
     },
     {
       "@type": "Claim",
@@ -1006,12 +1014,13 @@
       "label": "Bassem Youssef US Citizenship in December 2019",
       "claim": "Youssef states he took his U.S. citizenship pledge of allegiance in December 2019.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-798"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:54–00:01:21",
-      "investigative_direction": "Verify with public records / naturalization records if available."
+      "investigative_direction": "Verify with public records / naturalization records if available.",
+      "mentions_person_refs": [
+        "N-798"
+      ]
     },
     {
       "@type": "Claim",
@@ -1023,12 +1032,14 @@
         "A-1693.2"
       ],
       "related_nodes": [
-        "N-802",
         "N-1529"
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
-      "investigative_direction": "Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration."
+      "investigative_direction": "Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.",
+      "mentions_person_refs": [
+        "N-802"
+      ]
     },
     {
       "@type": "Claim",
@@ -1038,12 +1049,14 @@
       "claim": "Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-801",
         "N-1532"
       ],
       "tags": [],
       "claim_timestamp": "01:27:19",
-      "investigative_direction": "Verify the book's actual contents against published editions."
+      "investigative_direction": "Verify the book's actual contents against published editions.",
+      "mentions_person_refs": [
+        "N-801"
+      ]
     },
     {
       "@type": "Claim",
@@ -1053,12 +1066,14 @@
       "claim": "Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-801",
         "N-1531"
       ],
       "tags": [],
       "claim_timestamp": "01:28:11",
-      "investigative_direction": "Verify with publishing industry records and court records."
+      "investigative_direction": "Verify with publishing industry records and court records.",
+      "mentions_person_refs": [
+        "N-801"
+      ]
     },
     {
       "@type": "Claim",
@@ -1113,12 +1128,14 @@
         "A-1695.1"
       ],
       "related_nodes": [
-        "N-798",
         "N-1530"
       ],
       "tags": [],
       "claim_timestamp": "01:46:20–01:47:10",
-      "investigative_direction": "Verify with Youssef's official tour pages and ticketing platforms."
+      "investigative_direction": "Verify with Youssef's official tour pages and ticketing platforms.",
+      "mentions_person_refs": [
+        "N-798"
+      ]
     }
   ],
   "memes": []

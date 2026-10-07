@@ -637,12 +637,14 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2160"
       ],
       "tags": [],
       "claim_timestamp": "33:25:00",
-      "investigative_direction": "Obtain the complete defense memorandum and compare with the medical examiner's full autopsy report and any independent forensic review."
+      "investigative_direction": "Obtain the complete defense memorandum and compare with the medical examiner's full autopsy report and any independent forensic review.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -654,12 +656,14 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2160"
       ],
       "tags": [],
       "claim_timestamp": "35:25:00",
-      "investigative_direction": "Obtain complete autopsy findings; consult independent medical expert on whether hemorrhaging is consistent with the described bullet trajectory, post-injury resuscitation, or alternative blunt force trauma."
+      "investigative_direction": "Obtain complete autopsy findings; consult independent medical expert on whether hemorrhaging is consistent with the described bullet trajectory, post-injury resuscitation, or alternative blunt force trauma.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -701,12 +705,14 @@
         "A-2205.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2162"
       ],
       "tags": [],
       "claim_timestamp": "15:40:00",
-      "investigative_direction": "Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records."
+      "investigative_direction": "Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -718,12 +724,14 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-2163"
       ],
       "tags": [],
       "claim_timestamp": "18:27:00",
-      "investigative_direction": "Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange."
+      "investigative_direction": "Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -735,12 +743,14 @@
         "A-2208.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-3"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "02:44:00",
-      "investigative_direction": "Verify original tweet; cross-reference court orders on broadcasting exhibits."
+      "investigative_direction": "Verify original tweet; cross-reference court orders on broadcasting exhibits.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -751,12 +761,13 @@
       "anchored_artifacts": [
         "A-2215.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "03:53:00",
-      "investigative_direction": "Verify original tweet with Community Note attached; consult legal authority on obstruction statute elements (18 U.S.C. § 1503 et seq.)."
+      "investigative_direction": "Verify original tweet with Community Note attached; consult legal authority on obstruction statute elements (18 U.S.C. § 1503 et seq.).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -813,12 +824,13 @@
       "anchored_artifacts": [
         "A-2216.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "02:44:00",
-      "investigative_direction": "Verify original tweet content; note possible transcription artifacts in quote."
+      "investigative_direction": "Verify original tweet content; note possible transcription artifacts in quote.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -829,12 +841,13 @@
       "anchored_artifacts": [
         "A-2209.1"
       ],
-      "related_nodes": [
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "40:16:00",
-      "investigative_direction": "Verify by contacting the viewer with consent; tangential to the Kirk investigation but artifact-anchored."
+      "investigative_direction": "Verify by contacting the viewer with consent; tangential to the Kirk investigation but artifact-anchored.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

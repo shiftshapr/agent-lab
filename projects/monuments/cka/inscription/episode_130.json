@@ -929,12 +929,14 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-8",
         "N-2144"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
-      "investigative_direction": "Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported."
+      "investigative_direction": "Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.",
+      "mentions_person_refs": [
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -946,12 +948,14 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-8",
         "N-2144"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
-      "investigative_direction": "Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article."
+      "investigative_direction": "Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.",
+      "mentions_person_refs": [
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -963,12 +967,14 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-8",
         "N-2144"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
-      "investigative_direction": "Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope."
+      "investigative_direction": "Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.",
+      "mentions_person_refs": [
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -979,13 +985,14 @@
       "anchored_artifacts": [
         "A-2174.1"
       ],
-      "related_nodes": [
-        "N-8",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:31",
-      "investigative_direction": "Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage)."
+      "investigative_direction": "Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage).",
+      "mentions_person_refs": [
+        "N-2",
+        "N-8"
+      ]
     },
     {
       "@type": "Claim",
@@ -997,12 +1004,14 @@
         "A-2176.1"
       ],
       "related_nodes": [
-        "N-11",
         "N-2145"
       ],
       "tags": [],
       "claim_timestamp": "00:45:08",
-      "investigative_direction": "Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices."
+      "investigative_direction": "Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
     },
     {
       "@type": "Claim",
@@ -1029,12 +1038,13 @@
       "anchored_artifacts": [
         "A-2178.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:58:13",
-      "investigative_direction": "Retrieve the full 15-minute compilation video and identify the original source episode for each clip."
+      "investigative_direction": "Retrieve the full 15-minute compilation video and identify the original source episode for each clip.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

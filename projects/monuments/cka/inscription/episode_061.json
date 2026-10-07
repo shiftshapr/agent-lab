@@ -742,13 +742,15 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1503"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
-      "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date."
+      "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -760,13 +762,15 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1503"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10–00:15:10",
-      "investigative_direction": "Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable."
+      "investigative_direction": "Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -778,12 +782,14 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1506"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00–00:14:10",
-      "investigative_direction": "Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented."
+      "investigative_direction": "Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -795,12 +801,14 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-45",
         "N-1507"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
-      "investigative_direction": "Identify the specific personnel Owens considers \"military operatives\" and determine whether any verifiable affiliation exists."
+      "investigative_direction": "Identify the specific personnel Owens considers \"military operatives\" and determine whether any verifiable affiliation exists.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -877,13 +885,15 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-443",
         "N-1503",
         "N-1504"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39",
-      "investigative_direction": "Identify the original Tim Dylan episode and timestamp for the quoted clip."
+      "investigative_direction": "Identify the original Tim Dylan episode and timestamp for the quoted clip.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -896,13 +906,15 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-443",
         "N-1503",
         "N-1504"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39–00:06:17",
-      "investigative_direction": "Track whether TPUSA's subsequent filings cite financial damages as a measurable injury."
+      "investigative_direction": "Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
     },
     {
       "@type": "Claim",
@@ -946,12 +958,14 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-45",
         "N-1507"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
-      "investigative_direction": "Identify the specific individual and case to which Owens refers."
+      "investigative_direction": "Identify the specific individual and case to which Owens refers.",
+      "mentions_person_refs": [
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -962,13 +976,14 @@
       "anchored_artifacts": [
         "A-1663.1"
       ],
-      "related_nodes": [
-        "N-770",
-        "N-772"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:18",
-      "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred."
+      "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred.",
+      "mentions_person_refs": [
+        "N-770",
+        "N-772"
+      ]
     },
     {
       "@type": "Claim",
@@ -979,14 +994,15 @@
       "anchored_artifacts": [
         "A-1663.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:14–00:37:33",
+      "investigative_direction": "Obtain any contemporaneous communications or receipts relevant to the dress commission timeline.",
+      "mentions_person_refs": [
         "N-770",
         "N-771",
         "N-772"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:36:14–00:37:33",
-      "investigative_direction": "Obtain any contemporaneous communications or receipts relevant to the dress commission timeline."
+      ]
     },
     {
       "@type": "Claim",
@@ -997,14 +1013,15 @@
       "anchored_artifacts": [
         "A-1663.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:14–00:37:33",
+      "investigative_direction": "Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window.",
+      "mentions_person_refs": [
         "N-770",
         "N-772",
         "N-773"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:36:14–00:37:33",
-      "investigative_direction": "Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window."
+      ]
     },
     {
       "@type": "Claim",
@@ -1015,13 +1032,14 @@
       "anchored_artifacts": [
         "A-1663.1"
       ],
-      "related_nodes": [
-        "N-770",
-        "N-772"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:22",
-      "investigative_direction": "Identify any wedding guests who can corroborate or rebut the alleged remark."
+      "investigative_direction": "Identify any wedding guests who can corroborate or rebut the alleged remark.",
+      "mentions_person_refs": [
+        "N-770",
+        "N-772"
+      ]
     },
     {
       "@type": "Claim",
@@ -1033,14 +1051,15 @@
         "A-1663.1",
         "A-1664.1"
       ],
-      "related_nodes": [
-        "N-770",
-        "N-772",
-        "N-70"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:27–00:41:23",
-      "investigative_direction": "Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to \"Only Fools Rush In\" preceding the alleged late-night incident."
+      "investigative_direction": "Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to \"Only Fools Rush In\" preceding the alleged late-night incident.",
+      "mentions_person_refs": [
+        "N-70",
+        "N-770",
+        "N-772"
+      ]
     },
     {
       "@type": "Claim",
@@ -1051,15 +1070,16 @@
       "anchored_artifacts": [
         "A-1664.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:09–00:43:16",
+      "investigative_direction": "Cross-reference with the original Vogue article text and any available wedding video.",
+      "mentions_person_refs": [
         "N-770",
         "N-771",
         "N-772",
         "N-773"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:42:09–00:43:16",
-      "investigative_direction": "Cross-reference with the original Vogue article text and any available wedding video."
+      ]
     },
     {
       "@type": "Claim",
@@ -1070,14 +1090,15 @@
       "anchored_artifacts": [
         "A-1664.1"
       ],
-      "related_nodes": [
-        "N-770",
-        "N-771",
-        "N-70"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:09–00:43:16",
-      "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees."
+      "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.",
+      "mentions_person_refs": [
+        "N-70",
+        "N-770",
+        "N-771"
+      ]
     },
     {
       "@type": "Claim",
@@ -1088,14 +1109,15 @@
       "anchored_artifacts": [
         "A-1665.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:30–00:29:09",
+      "investigative_direction": "Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket.",
+      "mentions_person_refs": [
         "N-774",
         "N-775",
         "N-776"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:28:30–00:29:09",
-      "investigative_direction": "Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket."
+      ]
     },
     {
       "@type": "Claim",
@@ -1106,13 +1128,14 @@
       "anchored_artifacts": [
         "A-1665.1"
       ],
-      "related_nodes": [
-        "N-774",
-        "N-775"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:09",
-      "investigative_direction": "Obtain the specific Sony executive text-message exhibits from the litigation record."
+      "investigative_direction": "Obtain the specific Sony executive text-message exhibits from the litigation record.",
+      "mentions_person_refs": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",
@@ -1124,13 +1147,15 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1503"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
-      "investigative_direction": "Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated."
+      "investigative_direction": "Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1142,13 +1167,15 @@
         "A-1668.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-2",
         "N-1508"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
-      "investigative_direction": "Identify and obtain a recorded statement from the corroborating donor; cross-reference against the previously aired \"Baron Coleman\" discussion referenced by host."
+      "investigative_direction": "Identify and obtain a recorded statement from the corroborating donor; cross-reference against the previously aired \"Baron Coleman\" discussion referenced by host.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     }
   ],
   "memes": []

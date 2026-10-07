@@ -870,13 +870,15 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-1218",
-        "N-183",
-        "N-200"
+        "N-1218"
       ],
       "tags": [],
       "claim_timestamp": "00:00:49",
-      "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release."
+      "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.",
+      "mentions_person_refs": [
+        "N-183",
+        "N-200"
+      ]
     },
     {
       "@type": "Claim",
@@ -888,13 +890,14 @@
         "A-1197.1",
         "A-1197.2"
       ],
-      "related_nodes": [
-        "N-69",
-        "N-71"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:00",
-      "investigative_direction": "Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window."
+      "investigative_direction": "Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -905,12 +908,13 @@
       "anchored_artifacts": [
         "A-1198.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:30",
-      "investigative_direction": "Cross-check White House and TPUSA communications logs; verify the RV-show organizer account."
+      "investigative_direction": "Cross-check White House and TPUSA communications logs; verify the RV-show organizer account.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -922,14 +926,16 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-183",
-        "N-200",
-        "N-69",
         "N-1218"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained."
+      "investigative_direction": "Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-183",
+        "N-200"
+      ]
     },
     {
       "@type": "Claim",
@@ -944,15 +950,17 @@
         "A-1199.4"
       ],
       "related_nodes": [
-        "N-191",
-        "N-192",
-        "N-193",
         "N-1220",
         "N-1222"
       ],
       "tags": [],
       "claim_timestamp": "00:04:53",
-      "investigative_direction": "Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care."
+      "investigative_direction": "Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care.",
+      "mentions_person_refs": [
+        "N-191",
+        "N-192",
+        "N-193"
+      ]
     },
     {
       "@type": "Claim",
@@ -962,12 +970,14 @@
       "claim": "Despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1",
         "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
-      "investigative_direction": "Verify through official medical examiner channels or court filings."
+      "investigative_direction": "Verify through official medical examiner channels or court filings.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -977,12 +987,14 @@
       "claim": "Under Utah law, autopsy reports are kept private; only the immediate family's request can compel public release.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1221",
-        "N-1"
+        "N-1221"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
-      "investigative_direction": "Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office."
+      "investigative_direction": "Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -993,12 +1005,13 @@
       "anchored_artifacts": [
         "A-1200.1"
       ],
-      "related_nodes": [
-        "N-197"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:27:00",
-      "investigative_direction": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip."
+      "investigative_direction": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.",
+      "mentions_person_refs": [
+        "N-197"
+      ]
     },
     {
       "@type": "Claim",
@@ -1009,13 +1022,14 @@
       "anchored_artifacts": [
         "A-1200.1"
       ],
-      "related_nodes": [
-        "N-197",
-        "N-198"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:34",
-      "investigative_direction": "Locate the full exchange; verify the exact statements against the unedited clip."
+      "investigative_direction": "Locate the full exchange; verify the exact statements against the unedited clip.",
+      "mentions_person_refs": [
+        "N-197",
+        "N-198"
+      ]
     },
     {
       "@type": "Claim",
@@ -1026,12 +1040,13 @@
       "anchored_artifacts": [
         "A-1200.1"
       ],
-      "related_nodes": [
-        "N-197"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:34",
-      "investigative_direction": "Verify the full quote in its original-language form; identify the context (who prompted the metaphor)."
+      "investigative_direction": "Verify the full quote in its original-language form; identify the context (who prompted the metaphor).",
+      "mentions_person_refs": [
+        "N-197"
+      ]
     },
     {
       "@type": "Claim",
@@ -1042,12 +1057,13 @@
       "anchored_artifacts": [
         "A-1201.1"
       ],
-      "related_nodes": [
-        "N-195"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:01",
-      "investigative_direction": "Archive the original post; identify the account's operator; map its network of similar accounts."
+      "investigative_direction": "Archive the original post; identify the account's operator; map its network of similar accounts.",
+      "mentions_person_refs": [
+        "N-195"
+      ]
     },
     {
       "@type": "Claim",
@@ -1059,13 +1075,14 @@
         "A-1202.1",
         "A-1203.2"
       ],
-      "related_nodes": [
-        "N-195",
-        "N-196"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:51",
-      "investigative_direction": "Capture full thread context including replies not quoted on air."
+      "investigative_direction": "Capture full thread context including replies not quoted on air.",
+      "mentions_person_refs": [
+        "N-195",
+        "N-196"
+      ]
     },
     {
       "@type": "Claim",
@@ -1077,12 +1094,13 @@
         "A-1203.1",
         "A-1203.2"
       ],
-      "related_nodes": [
-        "N-196"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:51",
-      "investigative_direction": "Verify the post is from the same handle the host means; identify its operator and pattern of activity."
+      "investigative_direction": "Verify the post is from the same handle the host means; identify its operator and pattern of activity.",
+      "mentions_person_refs": [
+        "N-196"
+      ]
     },
     {
       "@type": "Claim",
@@ -1093,12 +1111,13 @@
       "anchored_artifacts": [
         "A-1204.1"
       ],
-      "related_nodes": [
-        "N-194"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:16",
-      "investigative_direction": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases."
+      "investigative_direction": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
     },
     {
       "@type": "Claim",
@@ -1125,12 +1144,13 @@
       "anchored_artifacts": [
         "A-1206.1"
       ],
-      "related_nodes": [
-        "N-199"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:36",
-      "investigative_direction": "Verify against state bar records and published case dockets for both Ramirez and Robinson."
+      "investigative_direction": "Verify against state bar records and published case dockets for both Ramirez and Robinson.",
+      "mentions_person_refs": [
+        "N-199"
+      ]
     },
     {
       "@type": "Claim",
@@ -1141,12 +1161,13 @@
       "anchored_artifacts": [
         "A-1205.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:41",
-      "investigative_direction": "Obtain independent attendee statements; compare against TPUSA's published event format."
+      "investigative_direction": "Obtain independent attendee statements; compare against TPUSA's published event format.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []

@@ -456,14 +456,16 @@
         "A-1686.3"
       ],
       "related_nodes": [
-        "N-2",
-        "N-264",
-        "N-797",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:09:08",
-      "investigative_direction": "Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1)."
+      "investigative_direction": "Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).",
+      "mentions_person_refs": [
+        "N-2",
+        "N-264",
+        "N-797"
+      ]
     },
     {
       "@type": "Claim",
@@ -475,12 +477,14 @@
         "A-1686.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
-      "investigative_direction": "Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count."
+      "investigative_direction": "Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -492,13 +496,15 @@
         "A-1686.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-264",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35",
-      "investigative_direction": "Compile every instance of \"family\" usage; obtain termination records of named attendees to verify the host's juxtaposition."
+      "investigative_direction": "Compile every instance of \"family\" usage; obtain termination records of named attendees to verify the host's juxtaposition.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-264"
+      ]
     },
     {
       "@type": "Claim",
@@ -510,12 +516,14 @@
         "A-1686.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35",
-      "investigative_direction": "Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment."
+      "investigative_direction": "Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -527,12 +535,14 @@
         "A-1686.2"
       ],
       "related_nodes": [
-        "N-2",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:22:11",
-      "investigative_direction": "Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed."
+      "investigative_direction": "Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -544,12 +554,14 @@
         "A-1686.3"
       ],
       "related_nodes": [
-        "N-2",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:27:13",
-      "investigative_direction": "Verify exact phrasing on unedited recording; trace adoption timeline of the \"everybody grieves differently\" framing across TPUSA communications."
+      "investigative_direction": "Verify exact phrasing on unedited recording; trace adoption timeline of the \"everybody grieves differently\" framing across TPUSA communications.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -561,12 +573,14 @@
         "A-1686.3"
       ],
       "related_nodes": [
-        "N-2",
         "N-1519"
       ],
       "tags": [],
       "claim_timestamp": "00:28:01",
-      "investigative_direction": "Identify the \"Usha\" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes."
+      "investigative_direction": "Identify the \"Usha\" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -577,12 +591,13 @@
       "anchored_artifacts": [
         "A-1687.1"
       ],
-      "related_nodes": [
-        "N-796"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:08",
-      "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance."
+      "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.",
+      "mentions_person_refs": [
+        "N-796"
+      ]
     },
     {
       "@type": "Claim",
@@ -593,12 +608,13 @@
       "anchored_artifacts": [
         "A-1687.1"
       ],
-      "related_nodes": [
-        "N-796"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:08",
-      "investigative_direction": "Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing."
+      "investigative_direction": "Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.",
+      "mentions_person_refs": [
+        "N-796"
+      ]
     },
     {
       "@type": "Claim",
@@ -609,12 +625,13 @@
       "anchored_artifacts": [
         "A-1688.1"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:00",
-      "investigative_direction": "Identify the source podcast and episode date; verify Boreing's full context for the statement."
+      "investigative_direction": "Identify the source podcast and episode date; verify Boreing's full context for the statement.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -625,12 +642,13 @@
       "anchored_artifacts": [
         "A-1688.2"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:30",
-      "investigative_direction": "Identify source podcast and date; verify exact quote and surrounding context."
+      "investigative_direction": "Identify source podcast and date; verify exact quote and surrounding context.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -641,12 +659,13 @@
       "anchored_artifacts": [
         "A-1688.3"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:59",
-      "investigative_direction": "Identify source podcast and date; verify quote against full unedited clip."
+      "investigative_direction": "Identify source podcast and date; verify quote against full unedited clip.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -657,12 +676,13 @@
       "anchored_artifacts": [
         "A-1688.4"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:36",
-      "investigative_direction": "Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization."
+      "investigative_direction": "Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -674,12 +694,14 @@
         "A-1689.1"
       ],
       "related_nodes": [
-        "N-607",
         "N-1520"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
-      "investigative_direction": "Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details."
+      "investigative_direction": "Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -690,12 +712,13 @@
       "anchored_artifacts": [
         "A-1686.1"
       ],
-      "related_nodes": [
-        "N-797"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:46",
-      "investigative_direction": "Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant."
+      "investigative_direction": "Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.",
+      "mentions_person_refs": [
+        "N-797"
+      ]
     },
     {
       "@type": "Claim",
@@ -706,12 +729,13 @@
       "anchored_artifacts": [
         "A-1688.2"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:30",
-      "investigative_direction": "Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing."
+      "investigative_direction": "Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -722,12 +746,13 @@
       "anchored_artifacts": [
         "A-1688.3"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:46",
-      "investigative_direction": "Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each."
+      "investigative_direction": "Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -738,12 +763,13 @@
       "anchored_artifacts": [
         "A-1688.4"
       ],
-      "related_nodes": [
-        "N-607"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:36",
-      "investigative_direction": "Compare Boreing's account against any other contemporaneous documentation of the alleged conversations."
+      "investigative_direction": "Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     },
     {
       "@type": "Claim",
@@ -755,12 +781,14 @@
         "A-1689.1"
       ],
       "related_nodes": [
-        "N-607",
         "N-1520"
       ],
       "tags": [],
       "claim_timestamp": "00:48:28",
-      "investigative_direction": "Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting."
+      "investigative_direction": "Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.",
+      "mentions_person_refs": [
+        "N-607"
+      ]
     }
   ],
   "memes": []

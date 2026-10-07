@@ -330,7 +330,7 @@ Claim Timestamp: 00:01:25
 Claim: The episode displays a Tucker Carlson X post reading, in full, "Pray that the spell breaks and the world is saved."
 
 Anchored Artifacts: A-2436.1
-Related Nodes: N-1, N-2
+Mentions: N-1, N-2
 Investigative Direction: Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent.
 
 ---
@@ -342,7 +342,8 @@ Claim Timestamp: 00:12:25
 Claim: The Wikipedia article on the Seal of Solomon, as read on camera, describes the symbol as depicted "in the shape of either a hexagon or a pentagram" and ties it to King Solomon's ring, "medieval magic and Renaissance magic, occultism, alchemy."
 
 Anchored Artifacts: A-2437.1
-Related Nodes: N-2, N-1003
+Mentions: N-2
+Related Nodes: N-1003
 Investigative Direction: Pull the live Wikipedia article and capture revision history; confirm whether the language is stable.
 
 ---
@@ -390,7 +391,8 @@ Claim Timestamp: 00:19:40
 Claim: Tyler Bowyer stated on camera that he had previously had conversations with Charlie in which Charlie said "Erika could be so much bigger and better than me at almost everything" and "believed firmly that Erika was going to be president someday."
 
 Anchored Artifacts: A-2440.1
-Related Nodes: N-2348, N-37
+Mentions: N-37
+Related Nodes: N-2348
 Investigative Direction: Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.
 
 ---
@@ -426,7 +428,8 @@ Claim Timestamp: 00:36:50
 Claim: Donald Trump stated on camera, "I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel."
 
 Anchored Artifacts: A-2443.1
-Related Nodes: N-2, N-1009
+Mentions: N-2
+Related Nodes: N-1009
 Investigative Direction: Identify the original event and capture full context of Trump's remarks.
 
 ---
@@ -474,7 +477,8 @@ Claim Timestamp: 00:41:40
 Claim: Marco Rubio stated on camera that "we knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties."
 
 Anchored Artifacts: A-2448.1
-Related Nodes: N-1009, N-2
+Mentions: N-2
+Related Nodes: N-1009
 Investigative Direction: Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements.
 
 ---
@@ -498,7 +502,8 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Related Nodes: N-1009, N-2
+Mentions: N-2
+Related Nodes: N-1009
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -510,7 +515,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Related Nodes: N-2, N-443
+Mentions: N-2, N-443
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---

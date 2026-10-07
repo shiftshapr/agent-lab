@@ -486,13 +486,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Obtain carrier records or device extractions to verify the text thread independently of host narration."
+      "investigative_direction": "Obtain carrier records or device extractions to verify the text thread independently of host narration.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -503,13 +504,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Verify exact wording against device-extracted SMS records."
+      "investigative_direction": "Verify exact wording against device-extracted SMS records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -520,13 +522,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Verify exact wording against device-extracted SMS records."
+      "investigative_direction": "Verify exact wording against device-extracted SMS records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -537,13 +540,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing."
+      "investigative_direction": "Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -554,13 +558,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Verify name spelling against device-extracted SMS records."
+      "investigative_direction": "Verify name spelling against device-extracted SMS records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -571,13 +576,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:44",
-      "investigative_direction": "Verify exact wording against device-extracted SMS records."
+      "investigative_direction": "Verify exact wording against device-extracted SMS records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -588,13 +594,14 @@
       "anchored_artifacts": [
         "A-2180.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:44",
-      "investigative_direction": "Verify against device-extracted SMS records and any flight manifests or correspondence."
+      "investigative_direction": "Verify against device-extracted SMS records and any flight manifests or correspondence.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -605,13 +612,14 @@
       "anchored_artifacts": [
         "A-2180.2"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:27",
-      "investigative_direction": "Verify date and full context of the exchange against device-extracted SMS records."
+      "investigative_direction": "Verify date and full context of the exchange against device-extracted SMS records.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -623,12 +631,14 @@
         "A-2181.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-2147"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
-      "investigative_direction": "Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced."
+      "investigative_direction": "Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -669,12 +679,13 @@
       "anchored_artifacts": [
         "A-2183.1"
       ],
-      "related_nodes": [
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:45",
-      "investigative_direction": "Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence."
+      "investigative_direction": "Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -685,12 +696,13 @@
       "anchored_artifacts": [
         "A-2184.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:41",
-      "investigative_direction": "Obtain full Newsmax segment; cross-reference with official forensic reports on the rooftop."
+      "investigative_direction": "Obtain full Newsmax segment; cross-reference with official forensic reports on the rooftop.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -701,12 +713,13 @@
       "anchored_artifacts": [
         "A-2184.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:41",
-      "investigative_direction": "Cross-reference with official autopsy report (if released); obtain independent ballistic-gel comparison data."
+      "investigative_direction": "Cross-reference with official autopsy report (if released); obtain independent ballistic-gel comparison data.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -717,12 +730,13 @@
       "anchored_artifacts": [
         "A-2184.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:41",
-      "investigative_direction": "Cross-reference with official autopsy report (if released); obtain independent forensic analysis."
+      "investigative_direction": "Cross-reference with official autopsy report (if released); obtain independent forensic analysis.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -733,12 +747,13 @@
       "anchored_artifacts": [
         "A-2184.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:41",
-      "investigative_direction": "Obtain full Newsmax segment; cross-reference with publicly released text message excerpts."
+      "investigative_direction": "Obtain full Newsmax segment; cross-reference with publicly released text message excerpts.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -802,13 +817,15 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-1211",
-        "N-1",
-        "N-2"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:39:35",
-      "investigative_direction": "Independent verification of each parallel item against documented records in both cases."
+      "investigative_direction": "Independent verification of each parallel item against documented records in both cases.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",

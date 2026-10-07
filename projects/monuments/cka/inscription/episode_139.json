@@ -1006,12 +1006,14 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-2185",
-        "N-69"
+        "N-2185"
       ],
       "tags": [],
       "claim_timestamp": "00:00:02–00:00:55",
-      "investigative_direction": "Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis."
+      "investigative_direction": "Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1023,12 +1025,14 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-2185",
-        "N-69"
+        "N-2185"
       ],
       "tags": [],
       "claim_timestamp": "00:00:55",
-      "investigative_direction": "Compare full text-message corpus for additional French calques; identify likely French-speaker demographics."
+      "investigative_direction": "Compare full text-message corpus for additional French calques; identify likely French-speaker demographics.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1040,12 +1044,14 @@
         "A-2255.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-46"
+        "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:12",
-      "investigative_direction": "Verify funding source of the $300K offer; obtain any formal documentation or PR communications."
+      "investigative_direction": "Verify funding source of the $300K offer; obtain any formal documentation or PR communications.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1057,13 +1063,15 @@
         "A-2255.2"
       ],
       "related_nodes": [
-        "N-2",
-        "N-1213",
-        "N-46"
+        "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:05:52",
-      "investigative_direction": "Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses."
+      "investigative_direction": "Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1075,14 +1083,16 @@
         "A-2255.3"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1",
-        "N-2",
-        "N-46"
+        "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:59",
-      "investigative_direction": "Catalogue all Candace Owens public statements and shown evidence; evaluate the \"no evidence\" characterization against documented artifacts."
+      "investigative_direction": "Catalogue all Candace Owens public statements and shown evidence; evaluate the \"no evidence\" characterization against documented artifacts.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1094,12 +1104,14 @@
         "A-2256.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-46"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00",
-      "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson."
+      "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1111,12 +1123,14 @@
         "A-2257.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-46"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00",
-      "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns."
+      "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1128,12 +1142,14 @@
         "A-2258.1"
       ],
       "related_nodes": [
-        "N-1215",
-        "N-46"
+        "N-1215"
       ],
       "tags": [],
       "claim_timestamp": "00:10:41–00:13:00",
-      "investigative_direction": "Obtain full unedited debate recording to verify context and whether insults were reciprocated."
+      "investigative_direction": "Obtain full unedited debate recording to verify context and whether insults were reciprocated.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
     },
     {
       "@type": "Claim",
@@ -1193,13 +1209,15 @@
         "A-2260.1"
       ],
       "related_nodes": [
-        "N-1212",
-        "N-1",
-        "N-2"
+        "N-1212"
       ],
       "tags": [],
       "claim_timestamp": "00:17:07–00:17:57",
-      "investigative_direction": "Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased."
+      "investigative_direction": "Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1212,12 +1230,14 @@
       ],
       "related_nodes": [
         "N-2187",
-        "N-69",
         "N-2186"
       ],
       "tags": [],
       "claim_timestamp": "00:26:49–00:28:00",
-      "investigative_direction": "Obtain the \"4K\" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side."
+      "investigative_direction": "Obtain the \"4K\" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",

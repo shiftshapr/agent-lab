@@ -571,8 +571,9 @@ Claim Timestamp: 00:03:21–00:04:22
 Claim: A 2012 New York Times article confirms that the friendship between Mitt Romney and Benjamin Netanyahu dates to 1976 when both worked at the Boston Consulting Group.
 
 Anchored Artifacts: A-1917.1
+Mentions: N-57
 
-Related Nodes: N-1648, N-57
+Related Nodes: N-1648
 
 Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.
 
@@ -725,8 +726,9 @@ Claim Timestamp: 00:38:57–00:40:20
 Claim: At a 2026 White House Easter event, Donald Trump told Erika Kirk that she should sue people mocking her because they are jealous of her.
 
 Anchored Artifacts: A-1923.1
+Mentions: N-2
 
-Related Nodes: N-1218, N-2
+Related Nodes: N-1218
 
 Investigative Direction: Obtain full unedited video of the Easter remarks; document any subsequent legal actions filed by Kirk.
 
@@ -851,8 +853,8 @@ Claim Timestamp: 00:44:25–00:45:16
 Claim: Turning Point USA sent text-message fundraising solicitations from "Erika" within approximately 48 hours of Charlie Kirk's death.
 
 Anchored Artifacts: A-1926.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain copies of the original SMS messages and the timestamp metadata.
 
@@ -865,8 +867,8 @@ Claim Timestamp: 00:44:25–00:45:16
 Claim: Turning Point sent a direct mail piece featuring an image of Erika Kirk walking out at Charlie's funeral in a sparkle suit with fireworks, used as a fundraising solicitation.
 
 Anchored Artifacts: A-1926.1
+Mentions: N-2
 
-Related Nodes: N-2
 
 Investigative Direction: Obtain the actual mailer from recipients; verify whether the image is from the funeral or another event.
 

@@ -616,13 +616,14 @@
       "anchored_artifacts": [
         "A-1391.1"
       ],
-      "related_nodes": [
-        "N-16",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:06",
-      "investigative_direction": "Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series."
+      "investigative_direction": "Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -633,12 +634,13 @@
       "anchored_artifacts": [
         "A-1391.1"
       ],
-      "related_nodes": [
-        "N-16"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:06",
-      "investigative_direction": "Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case."
+      "investigative_direction": "Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -649,12 +651,13 @@
       "anchored_artifacts": [
         "A-1393.1"
       ],
-      "related_nodes": [
-        "N-389"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:22",
-      "investigative_direction": "Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation."
+      "investigative_direction": "Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.",
+      "mentions_person_refs": [
+        "N-389"
+      ]
     },
     {
       "@type": "Claim",
@@ -666,12 +669,14 @@
         "A-1392.1"
       ],
       "related_nodes": [
-        "N-389",
         "N-1317"
       ],
       "tags": [],
       "claim_timestamp": "00:06:39",
-      "investigative_direction": "Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance."
+      "investigative_direction": "Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.",
+      "mentions_person_refs": [
+        "N-389"
+      ]
     },
     {
       "@type": "Claim",
@@ -682,12 +687,13 @@
       "anchored_artifacts": [
         "A-1394.1"
       ],
-      "related_nodes": [
-        "N-389"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:54",
-      "investigative_direction": "Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events."
+      "investigative_direction": "Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.",
+      "mentions_person_refs": [
+        "N-389"
+      ]
     },
     {
       "@type": "Claim",
@@ -699,12 +705,14 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-389",
         "N-1316"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
-      "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints."
+      "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.",
+      "mentions_person_refs": [
+        "N-389"
+      ]
     },
     {
       "@type": "Claim",
@@ -715,12 +723,13 @@
       "anchored_artifacts": [
         "A-1394.2"
       ],
-      "related_nodes": [
-        "N-389"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:55",
-      "investigative_direction": "Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named."
+      "investigative_direction": "Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.",
+      "mentions_person_refs": [
+        "N-389"
+      ]
     },
     {
       "@type": "Claim",
@@ -732,12 +741,14 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-389",
         "N-1316"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
-      "investigative_direction": "Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure."
+      "investigative_direction": "Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.",
+      "mentions_person_refs": [
+        "N-389"
+      ]
     },
     {
       "@type": "Claim",
@@ -748,12 +759,13 @@
       "anchored_artifacts": [
         "A-1395.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:32",
-      "investigative_direction": "Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context."
+      "investigative_direction": "Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -765,12 +777,14 @@
         "A-1396.1"
       ],
       "related_nodes": [
-        "N-314",
         "N-1317"
       ],
       "tags": [],
       "claim_timestamp": "00:46:40",
-      "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster."
+      "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
     },
     {
       "@type": "Claim",
@@ -781,12 +795,13 @@
       "anchored_artifacts": [
         "A-1398.4"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:01",
-      "investigative_direction": "Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene."
+      "investigative_direction": "Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -797,12 +812,13 @@
       "anchored_artifacts": [
         "A-1390.1"
       ],
-      "related_nodes": [
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:01",
-      "investigative_direction": "Identify the original PragerU episode and air date; locate full unedited segment."
+      "investigative_direction": "Identify the original PragerU episode and air date; locate full unedited segment.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

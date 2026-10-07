@@ -469,8 +469,10 @@ Claim Timestamp: 00:02:15
 Claim: TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the EMS section of the school's online event form.
 
 Anchored Artifacts: A-2393.1
+Mentions: N-2, N-4
+Contradicts: C-3493
 
-Related Nodes: N-2, N-4, N-2330
+Related Nodes: N-2330
 
 Investigative Direction: Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.
 
@@ -483,8 +485,9 @@ Claim Timestamp: 00:03:06
 Claim: Per ABC News reporting, the UVU event attendance was initially estimated at 200, revised to 600, then per TPUSA to 1,500 (in undocumented later conversation), with actual attendance ~3,000.
 
 Anchored Artifacts: A-2393.1
+Mentions: N-2
 
-Related Nodes: N-2, N-2330
+Related Nodes: N-2330
 
 Investigative Direction: Obtain UVU planning documents directly; verify timing of each revision; identify whether any "1,500" update exists in any retained form.
 
@@ -497,8 +500,9 @@ Claim Timestamp: 00:04:04
 Claim: Per TPUSA's official statement to ABC News, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events, with no crowd control.
 
 Anchored Artifacts: A-2393.1
+Mentions: N-2, N-4
 
-Related Nodes: N-2, N-4, N-2330, N-2333
+Related Nodes: N-2330, N-2333
 
 Investigative Direction: Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.
 
@@ -511,8 +515,9 @@ Claim Timestamp: 00:13:35
 Claim: A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Candace Owens a message attributed to "E" describing a plan to seed a public feud between Charlie Kirk and Candace Owens ("Operation Greyer X anonymous").
 
 Anchored Artifacts: A-2394.1
+Mentions: N-2, N-3, N-4
 
-Related Nodes: N-2, N-3, N-4, N-2332
+Related Nodes: N-2332
 
 Investigative Direction: Authenticate the text screenshot metadata; verify whether "E" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative.
 
@@ -525,8 +530,9 @@ Claim Timestamp: 00:17:00
 Claim: The 4plebs post allegedly found by "E" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative — ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
 
 Anchored Artifacts: A-2395.1, A-2396.1
+Mentions: N-3, N-4
 
-Related Nodes: N-3, N-4, N-2332
+Related Nodes: N-2332
 
 Investigative Direction: Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum.
 
@@ -539,8 +545,9 @@ Claim Timestamp: 00:30:10
 Claim: In his Aspen donors presentation, Charlie Kirk described the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.
 
 Anchored Artifacts: A-2397.1
+Mentions: N-2
 
-Related Nodes: N-2, N-2331
+Related Nodes: N-2331
 
 Investigative Direction: Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation.
 
@@ -553,8 +560,9 @@ Claim Timestamp: 00:20:36
 Claim: Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, per parent emails and student-to-parent text messages describing students unable to leave and "locked in the gym."
 
 Anchored Artifacts: A-2399.1, A-2403.1
+Mentions: N-2
 
-Related Nodes: N-2, N-2331
+Related Nodes: N-2331
 
 Investigative Direction: Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited.
 
@@ -567,8 +575,9 @@ Claim Timestamp: 00:20:36
 Claim: TPUSA's X post claimed 500+ "outstanding high school student attendees" attended the Nampa Christian School event voluntarily as part of the Club America tour.
 
 Anchored Artifacts: A-2398.1
+Mentions: N-2
 
-Related Nodes: N-2, N-2331
+Related Nodes: N-2331
 
 Investigative Direction: Cross-check TPUSA claim against school attendance records and parent reports.
 
@@ -581,8 +590,9 @@ Claim Timestamp: 00:24:37
 Claim: Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that "over 500 chose to attend" — i.e., nothing was forced.
 
 Anchored Artifacts: A-2403.2
+Mentions: N-4
 
-Related Nodes: N-4, N-2331
+Related Nodes: N-2331
 
 Investigative Direction: Verify whether the cited "opt-out" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies.
 
@@ -595,8 +605,9 @@ Claim Timestamp: 00:25:33
 Claim: Andrew Kolvet replied on X that TPUSA does not market the events publicly for "security reasons" and thanked Candace for "all your help on that."
 
 Anchored Artifacts: A-2403.3
+Mentions: N-4
 
-Related Nodes: N-4, N-2333
+Related Nodes: N-2333
 
 Investigative Direction: Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops.
 
@@ -609,8 +620,9 @@ Claim Timestamp: 00:45:02
 Claim: Politico published a profile of Blake Neff titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed" (author Ian Ward).
 
 Anchored Artifacts: A-2400.1
+Mentions: N-1, N-6
 
-Related Nodes: N-1, N-6, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Obtain full Politico article and publication date.
 
@@ -623,8 +635,9 @@ Claim Timestamp: 00:47:48
 Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" — host notes this is the author's framing, not Neff's verbatim.
 
 Anchored Artifacts: A-2400.2
+Mentions: N-6
 
-Related Nodes: N-6, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Verify direct attribution of the "maximalist" phrase to Ward vs Neff.
 
@@ -637,8 +650,9 @@ Claim Timestamp: 00:45:02
 Claim: Tucker Carlson publicly criticized Blake Neff's framing that "we may have to make our peace with censorship," reading and rejecting the Politico profile's premise.
 
 Anchored Artifacts: A-2401.1
+Mentions: N-1, N-5, N-6
 
-Related Nodes: N-1, N-5, N-6, N-2335
+Related Nodes: N-2335
 
 Investigative Direction: Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.
 
@@ -651,8 +665,9 @@ Claim Timestamp: 00:50:04
 Claim: Blake Neff stated verbatim per Politico: "Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it."
 
 Anchored Artifacts: A-2400.1
+Mentions: N-6
 
-Related Nodes: N-6, N-2335
+Related Nodes: N-2335
 
 Investigative Direction: Confirm full quote and attribution context in Politico article.
 
@@ -693,8 +708,9 @@ Claim Timestamp: 00:34:54
 Claim: On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.
 
 Anchored Artifacts: Host testimonial confirmation only (sourced by host from "people who worked with Andrew"); no displayed documentary source in this episode.
+Mentions: N-2, N-4
 
-Related Nodes: N-2, N-4, N-2334
+Related Nodes: N-2334
 
 Investigative Direction: Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.
 
@@ -709,8 +725,9 @@ Claim Timestamp: 00:55:56
 Claim: Candace concurs with the @spilling the tea observation that holding a Charlie Kirk one-year anniversary event at UVU is inconsistent with TPUSA's UVU-negligence claims.
 
 Anchored Artifacts: A-2404.1
+Mentions: N-2
 
-Related Nodes: N-2, N-2330
+Related Nodes: N-2330
 
 Investigative Direction: Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue.
 
@@ -723,8 +740,8 @@ Claim Timestamp: 00:56:57
 Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a "retention policy" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripts News reporters also released the Brian Cole Jr. pipe-bomb footage.
 
 Anchored Artifacts: A-2404.2
+Mentions: N-53
 
-Related Nodes: N-53
 
 Investigative Direction: Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution.
 

@@ -636,7 +636,7 @@ Claim Timestamp: 00:12:01
 Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
-Related Nodes: N-1, N-3, N-59, N-5, N-149, N-154, N-155, N-80, N-156, N-99, N-158, N-160, N-161, N-162, N-163, N-164
+Mentions: N-1, N-3, N-5, N-59, N-80, N-99, N-149, N-154, N-155, N-156, N-158, N-160, N-161, N-162, N-163, N-164
 Confidence: high
 Investigative Direction: Verify text chain authenticity and timestamp; cross-check flight records.
 
@@ -648,7 +648,8 @@ Claim Timestamp: 00:12:38
 Claim: Candace met her husband for the first time during the UK trip and they were engaged 18 days later.
 Transcript Snippet: I didn't know him. I never even saw his face 18 day 18 days prior.
 Anchored Artifacts: A-1155.1
-Related Nodes: N-3, N-59, N-1184, N-1192
+Mentions: N-3, N-59
+Related Nodes: N-1184, N-1192
 Confidence: medium
 Investigative Direction: Corroborate via marriage records, flight manifests, and Turning Point UK launch date.
 
@@ -660,7 +661,8 @@ Claim Timestamp: 00:16:44
 Claim: Candace exchanged text messages Aug 30–Sep 2 with her husband and sister describing 'imminent danger' and a 'communist underground' at schools using 'bees' as coded language.
 Transcript Snippet: Imminent danger is coming…communist underground…has something to do with bees.
 Anchored Artifacts: A-1155.2
-Related Nodes: N-3, N-59, N-157, N-1179
+Mentions: N-3, N-59, N-157
+Related Nodes: N-1179
 Confidence: high
 Investigative Direction: Verify timestamps against phone records; preserve screenshots for chain-of-custody.
 
@@ -672,7 +674,8 @@ Claim Timestamp: 00:26:59
 Claim: Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.
 Transcript Snippet: …learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.
 Anchored Artifacts: 
-Related Nodes: N-1003, N-1182, N-1178, N-148
+Mentions: N-148
+Related Nodes: N-1003, N-1178, N-1182
 Confidence: low
 Investigative Direction: Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.
 
@@ -685,7 +688,8 @@ Claim Timestamp: 00:28:09
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
-Related Nodes: N-148, N-1177, N-1186, N-1003, N-1182
+Mentions: N-148
+Related Nodes: N-1003, N-1177, N-1182, N-1186
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
 
@@ -697,7 +701,7 @@ Claim Timestamp: 00:28:42
 Claim: Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon in his bedroom.
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Anchored Artifacts: A-1156.2
-Related Nodes: N-148
+Mentions: N-148
 Confidence: high
 Investigative Direction: Confirm via original-platform uploads and metadata.
 
@@ -710,7 +714,8 @@ Claim Timestamp: 00:29:27
 Claim: Crooks posted YouTube comments calling for violence against 'socialist Jews' and for Democrats to be beheaded.
 Transcript Snippet: Blasting their useless brains out with an AR…heads chopped off and put on stakes.
 Anchored Artifacts: A-1156.3
-Related Nodes: N-148, N-1186
+Mentions: N-148
+Related Nodes: N-1186
 Confidence: high
 Investigative Direction: Recover original YouTube comments and timestamps via scrape or platform archives.
 
@@ -722,7 +727,8 @@ Claim Timestamp: 00:31:02
 Claim: Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.
 Transcript Snippet: Best places for a mass shooting. How to make Molotov cocktails.
 Anchored Artifacts: A-1156.4
-Related Nodes: N-148, N-1177
+Mentions: N-148
+Related Nodes: N-1177
 Confidence: medium
 Investigative Direction: Obtain original search-history logs or corroborating scrape; verify timeline.
 
@@ -734,7 +740,8 @@ Claim Timestamp: 00:42:20
 Claim: Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the Kirks consulted a Catholic priest.
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Anchored Artifacts: A-1157.1
-Related Nodes: N-2, N-75, N-1188, N-1189, N-1183
+Mentions: N-2, N-75
+Related Nodes: N-1183, N-1188, N-1189
 Confidence: high
 Investigative Direction: Recover Jezebel article and Etsy listings; verify priest consultation with family.
 
@@ -746,7 +753,8 @@ Claim Timestamp: 00:38:33
 Claim: Jimmy Kimmel's monologue thanked conservatives including Candace Owens, Ted Cruz, Ben Shapiro, Rand Paul, Mitch McConnell, and Clay Travis for defending free speech.
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Anchored Artifacts: A-1158.1
-Related Nodes: N-3, N-122, N-150, N-133, N-151, N-152, N-153, N-1185
+Mentions: N-3, N-122, N-133, N-150, N-151, N-152, N-153
+Related Nodes: N-1185
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel monologue transcript.
 
@@ -770,7 +778,8 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Related Nodes: N-3, N-1179, N-1194, N-1181, N-1193
+Mentions: N-3
+Related Nodes: N-1179, N-1181, N-1193, N-1194
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
 
@@ -782,7 +791,8 @@ Claim Timestamp: 00:55:36
 Claim: Listener Natalie reported that a video of Tyler Robinson walking in a neighborhood also shows him changing clothes and accompanied by a woman.
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Anchored Artifacts: A-1161.1
-Related Nodes: N-69, N-159, N-1176
+Mentions: N-69, N-159
+Related Nodes: N-1176
 Confidence: low
 Investigative Direction: Obtain original video from Natalie; verify identity of woman and chain of custody.
 
@@ -807,7 +817,8 @@ Claim Timestamp: 00:03:40
 Claim: Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.
 Transcript Snippet: There is absolutely no video which shows Tyler Robinson firing the weapon.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1176
+Mentions: N-69
+Related Nodes: N-1176
 Confidence: low
 Investigative Direction: Confirm via court filings, prosecution discovery, and public statements.
 
@@ -819,7 +830,8 @@ Claim Timestamp: 00:06:11
 Claim: Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.
 Transcript Snippet: The bullet…was too fragmented to match Tyler's rifle.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1176
+Mentions: N-69
+Related Nodes: N-1176
 Confidence: low
 Investigative Direction: Obtain forensic ballistics report from court filings.
 
@@ -831,7 +843,8 @@ Claim Timestamp: 00:05:13
 Claim: Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.
 Transcript Snippet: The feds don't even have any footage that explains how exactly the rifle…got onto the roof.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1079, N-1077, N-1176
+Mentions: N-69
+Related Nodes: N-1077, N-1079, N-1176
 Confidence: low
 Investigative Direction: Verify against indictment and discovery materials.
 
@@ -843,7 +856,8 @@ Claim Timestamp: 00:08:59
 Claim: Host's source says prints other than Tyler Robinson's were also on the rifle.
 Transcript Snippet: It's not the only set of prints that are on that gun.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1176
+Mentions: N-69
+Related Nodes: N-1176
 Confidence: low
 Investigative Direction: Obtain forensic print report from court filings.
 
@@ -855,7 +869,8 @@ Claim Timestamp: 00:03:46
 Claim: Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.
 Transcript Snippet: He was in tactical gear. The person that I saw was in tactical gear.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1187
+Mentions: N-69
+Related Nodes: N-1187
 Confidence: low
 Investigative Direction: Identify and interview the eyewitness; obtain his footage.
 

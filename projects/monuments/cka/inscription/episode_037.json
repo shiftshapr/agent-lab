@@ -808,8 +808,6 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-102",
         "N-1344",
         "N-1348",
         "N-1349",
@@ -817,7 +815,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
-      "investigative_direction": "Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive."
+      "investigative_direction": "Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -864,13 +866,14 @@
       "anchored_artifacts": [
         "A-1452.1"
       ],
-      "related_nodes": [
-        "N-1",
-        "N-3"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:47",
-      "investigative_direction": "Locate original PragerU upload date and full interview context."
+      "investigative_direction": "Locate original PragerU upload date and full interview context.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -882,13 +885,15 @@
         "A-1453.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-102",
         "N-1344"
       ],
       "tags": [],
       "claim_timestamp": "00:09:53",
-      "investigative_direction": "Compare to full Patel press conference record on FBI.gov or C-SPAN."
+      "investigative_direction": "Compare to full Patel press conference record on FBI.gov or C-SPAN.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -900,13 +905,15 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-102",
         "N-1345",
         "N-1348"
       ],
       "tags": [],
       "claim_timestamp": "00:05:34",
-      "investigative_direction": "Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA."
+      "investigative_direction": "Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA.",
+      "mentions_person_refs": [
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -934,7 +941,6 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-102",
         "N-1344",
         "N-1345",
         "N-1348",
@@ -942,7 +948,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
-      "investigative_direction": "Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4."
+      "investigative_direction": "Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4.",
+      "mentions_person_refs": [
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -954,12 +963,14 @@
         "A-1455.1"
       ],
       "related_nodes": [
-        "N-445",
         "N-1347"
       ],
       "tags": [],
       "claim_timestamp": "00:12:13",
-      "investigative_direction": "Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates."
+      "investigative_direction": "Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates.",
+      "mentions_person_refs": [
+        "N-445"
+      ]
     },
     {
       "@type": "Claim",
@@ -970,13 +981,14 @@
       "anchored_artifacts": [
         "A-1456.1"
       ],
-      "related_nodes": [
-        "N-439",
-        "N-441"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:00",
-      "investigative_direction": "Identify the event organizer, venue, and date."
+      "investigative_direction": "Identify the event organizer, venue, and date.",
+      "mentions_person_refs": [
+        "N-439",
+        "N-441"
+      ]
     },
     {
       "@type": "Claim",
@@ -987,13 +999,14 @@
       "anchored_artifacts": [
         "A-1457.1"
       ],
-      "related_nodes": [
-        "N-439",
-        "N-440"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:15",
-      "investigative_direction": "Identify the headline outlet and obtain the underlying interview/transcript from Pollard."
+      "investigative_direction": "Identify the headline outlet and obtain the underlying interview/transcript from Pollard.",
+      "mentions_person_refs": [
+        "N-439",
+        "N-440"
+      ]
     },
     {
       "@type": "Claim",
@@ -1004,14 +1017,15 @@
       "anchored_artifacts": [
         "A-1458.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:14",
+      "investigative_direction": "Locate full White House briefing transcript or video.",
+      "mentions_person_refs": [
         "N-439",
         "N-440",
         "N-446"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:28:14",
-      "investigative_direction": "Locate full White House briefing transcript or video."
+      ]
     },
     {
       "@type": "Claim",
@@ -1023,14 +1037,16 @@
         "A-1459.1"
       ],
       "related_nodes": [
-        "N-3",
-        "N-442",
         "N-1351",
         "N-1352"
       ],
       "tags": [],
       "claim_timestamp": "00:29:33",
-      "investigative_direction": "Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead."
+      "investigative_direction": "Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-442"
+      ]
     }
   ],
   "memes": []

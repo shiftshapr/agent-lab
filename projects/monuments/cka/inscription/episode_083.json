@@ -682,12 +682,14 @@
         "A-1895.1"
       ],
       "related_nodes": [
-        "N-2",
         "N-1633"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
-      "investigative_direction": "Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context."
+      "investigative_direction": "Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -808,13 +810,15 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1213",
         "N-1636"
       ],
       "tags": [],
       "claim_timestamp": "00:28:11",
-      "investigative_direction": "Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits."
+      "investigative_direction": "Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -826,12 +830,14 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1636"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
-      "investigative_direction": "Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming."
+      "investigative_direction": "Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -876,12 +882,14 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-3",
         "N-1636"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
-      "investigative_direction": "Compare thread text to Candace's on-air and posted statements from September 10–11, 2025."
+      "investigative_direction": "Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1003,12 +1011,14 @@
       "claim": "The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2",
         "N-1633"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",
-      "investigative_direction": "Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance."
+      "investigative_direction": "Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

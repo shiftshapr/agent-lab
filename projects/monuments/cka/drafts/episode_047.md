@@ -988,8 +988,8 @@ Claim Timestamp: 00:02:34
 Claim: A private meeting between Candace Owens, Erika Kolfage, and Justin Streif, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2, N-43, N-75, N-588, N-589
 
-Related Nodes: N-2, N-43, N-75, N-588, N-589
 
 Investigative Direction: Verify meeting date, location, and stated duration against any third-party records.
 
@@ -1002,8 +1002,9 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage confirmed she has Charlie Kirk's phone and that he primarily used Signal and Telegram for communications.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1411
+Related Nodes: N-1411
 
 Investigative Direction: Verify Charlie Kirk's actual messaging platforms through device forensics.
 
@@ -1016,8 +1017,9 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage acknowledged that Andrew Kolvet received a pre-incident message from Charlie Kirk stating "they're going to kill me."
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2, N-326
 
-Related Nodes: N-2, N-326, N-1411
+Related Nodes: N-1411
 
 Investigative Direction: Obtain the original message from Andrew Kolvet or his device records.
 
@@ -1030,8 +1032,9 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage stated that the message Dan Flood received from Charlie Kirk the night before read "the left is going to kill me."
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2, N-45
 
-Related Nodes: N-2, N-45, N-1411
+Related Nodes: N-1411
 
 Investigative Direction: Obtain original Dan Flood message through his records or testimony.
 
@@ -1044,8 +1047,9 @@ Claim Timestamp: 00:17:03
 Claim: The lawyer involved in the Tyler Robinson prosecution told Candace that they have nothing beyond the affidavit-stage evidence and will not have access to further evidence until the May probable cause hearing.
 
 Anchored Artifacts: A-1539.1, A-1540.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1408
+Related Nodes: N-1408
 
 Investigative Direction: Verify the May probable cause hearing date through Utah court records; compare against public charging documents.
 
@@ -1072,8 +1076,9 @@ Claim Timestamp: 00:21:02
 Claim: Candace Owens spoke with a witness who filmed a person on the roof at 12:23 pm and did not see that person take the shot.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1408
+Related Nodes: N-1408
 
 Investigative Direction: Identify the witness and verify the video and timestamp.
 
@@ -1100,8 +1105,9 @@ Claim Timestamp: 00:23:53
 Claim: Mikey McCoy's call logs show his first post-shooting call was to his wife Elizabeth McCoy and lasted approximately 10 minutes.
 
 Anchored Artifacts: A-1543.1
+Mentions: N-272, N-326
 
-Related Nodes: N-272, N-326, N-1409
+Related Nodes: N-1409
 
 Investigative Direction: Obtain the call logs directly from Mikey McCoy or from phone carrier records.
 
@@ -1114,8 +1120,9 @@ Claim Timestamp: 00:27:12
 Claim: Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.
 
 Anchored Artifacts: A-1543.1
+Mentions: N-2, N-45, N-272, N-326
 
-Related Nodes: N-272, N-326, N-45, N-2, N-1409
+Related Nodes: N-1409
 
 Investigative Direction: Verify the three-way call sequence against carrier records.
 
@@ -1128,8 +1135,8 @@ Claim Timestamp: 00:23:53
 Claim: Mikey McCoy's real first name is Michael; "Mikey" is not a middle-name substitute.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-272
 
-Related Nodes: N-272
 
 Investigative Direction: Verify against official identity records.
 
@@ -1142,8 +1149,10 @@ Claim Timestamp: 00:26:28
 Claim: Blake Neff's interview account — that Mikey's first call after the shooting was to Erika, followed by his mother and father — directly contradicts the call logs provided by TPUSA.
 
 Anchored Artifacts: A-1542.1, A-1543.1
+Mentions: N-224, N-272
+Contradicts: C-1932
 
-Related Nodes: N-272, N-224, N-1409
+Related Nodes: N-1409
 
 Investigative Direction: Cross-reference Blake Neff's recorded statement against the verified call sequence.
 
@@ -1156,8 +1165,9 @@ Claim Timestamp: 00:28:48
 Claim: Elizabeth McCoy was reportedly involved in memorial activity and vacation travel with Erika, yet was removed from the publicly circulated version of the post-shooting call sequence.
 
 Anchored Artifacts: A-1543.1
+Mentions: N-2, N-326
 
-Related Nodes: N-326, N-2, N-1410
+Related Nodes: N-1410
 
 Investigative Direction: Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts.
 
@@ -1170,8 +1180,9 @@ Claim Timestamp: 00:32:14
 Claim: Three sources with knowledge confirmed to Candace that Bibi Netanyahu offered to fund TPUSA to the next level and that Charlie Kirk turned down the offer.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2, N-65
 
-Related Nodes: N-2, N-65, N-1413
+Related Nodes: N-1413
 
 Investigative Direction: Identify the three sources and obtain documentary evidence of the offer.
 
@@ -1184,8 +1195,9 @@ Claim Timestamp: 00:32:14
 Claim: Andrew Kolb (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-42, N-65
 
-Related Nodes: N-42, N-65, N-1413
+Related Nodes: N-1413
 
 Investigative Direction: Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.
 
@@ -1198,8 +1210,9 @@ Claim Timestamp: 00:11:35
 Claim: Rob McCoy does not work with TPUSA in any capacity, contrary to his public conduct at the memorial and his claimed "America's pastor" status.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-45
 
-Related Nodes: N-45, N-1419, N-1424
+Related Nodes: N-1419, N-1424
 
 Investigative Direction: Verify Rob McCoy's formal affiliations independently of his self-presentation.
 
@@ -1212,8 +1225,9 @@ Claim Timestamp: 00:09:23
 Claim: TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2, N-102
 
-Related Nodes: N-102, N-2, N-1417
+Related Nodes: N-1417
 
 Investigative Direction: Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.
 
@@ -1226,8 +1240,9 @@ Claim Timestamp: 00:12:24
 Claim: Andrew Kolvet posted a tweet attributing to a surgeon the claim that Charlie Kirk's bone density was so healthy he was "like the man of steel" and the bullet should have passed through.
 
 Anchored Artifacts: A-1541.1
+Mentions: N-326
 
-Related Nodes: N-326, N-1412
+Related Nodes: N-1412
 
 Investigative Direction: Verify the original tweet content and the surgeon's identity.
 
@@ -1240,8 +1255,9 @@ Claim Timestamp: 00:13:14
 Claim: Per Candace, Andrew Kolvet acknowledged that the surgeon did not know he would write the tweet.
 
 Anchored Artifacts: A-1539.1, A-1541.2
+Mentions: N-326
 
-Related Nodes: N-326, N-1412
+Related Nodes: N-1412
 
 Investigative Direction: Verify Kolvet's stated communication with the surgeon and HIPAA implications.
 
@@ -1254,8 +1270,9 @@ Claim Timestamp: 00:44:36
 Claim: Approximately one week prior, Tim Pool stated Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence.
 
 Anchored Artifacts: A-1545.1
+Mentions: N-426
 
-Related Nodes: N-426, N-1415
+Related Nodes: N-1415
 
 Investigative Direction: Verify the earlier Tim Pool statement against his show archive.
 
@@ -1268,8 +1285,9 @@ Claim Timestamp: 00:45:27
 Claim: Tim Pool currently states Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.
 
 Anchored Artifacts: A-1545.2
+Mentions: N-426
 
-Related Nodes: N-426, N-1415
+Related Nodes: N-1415
 
 Investigative Direction: Verify the current claim against any documented security employment records.
 
@@ -1282,8 +1300,9 @@ Claim Timestamp: 00:46:06
 Claim: Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shafer Security, operated by Greg Shafer, employing Dan Flood and Brian Harpole.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2, N-556
 
-Related Nodes: N-2, N-556, N-1415
+Related Nodes: N-1415
 
 Investigative Direction: Verify Greg Shafer's public statement and Shafer Security's documented client list.
 
@@ -1296,8 +1315,9 @@ Claim Timestamp: 00:46:06
 Claim: Candace has received no cease and desist from Charlie Kirk's security apparatus over security-related claims.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1415
+Related Nodes: N-1415
 
 Investigative Direction: Confirm absence of legal correspondence through counsel records.
 
@@ -1310,8 +1330,8 @@ Claim Timestamp: 00:41:01
 Claim: New York Post article reported an anonymous source claim that Candace threw her car keys at a Daily Wire producer in her first week.
 
 Anchored Artifacts: A-1546.1
+Mentions: N-2, N-559
 
-Related Nodes: N-559, N-2
 
 Investigative Direction: Verify the cited Daily Wire source and article publication date.
 
@@ -1324,8 +1344,8 @@ Claim Timestamp: 00:41:47
 Claim: Candace Owens states she never drove her car to the Daily Wire during her tenure; she had a driver.
 
 Anchored Artifacts: A-1546.1
+Mentions: N-2, N-559
 
-Related Nodes: N-559, N-2
 
 Investigative Direction: Verify against Daily Wire security logs or contemporaneous records.
 
@@ -1338,8 +1358,9 @@ Claim Timestamp: 00:41:01
 Claim: Per Candace, her husband does not have a Qatari passport and has not flown to Qatar.
 
 Anchored Artifacts: A-1546.1
+Mentions: N-559
 
-Related Nodes: N-559, N-1422
+Related Nodes: N-1422
 
 Investigative Direction: Verify travel and passport records.
 
@@ -1352,8 +1373,8 @@ Claim Timestamp: 00:53:11
 Claim: Turkey Tom produced a video asserting that he was in Discord chats with Tyler Robinson and that the published message style is authentic.
 
 Anchored Artifacts: A-1549.1
+Mentions: N-310, N-547, N-558
 
-Related Nodes: N-547, N-558, N-310
 
 Investigative Direction: Verify Turkey Tom's claimed Discord membership through chat logs or other participants.
 
@@ -1366,8 +1387,9 @@ Claim Timestamp: 00:56:50
 Claim: Per Candace, George Zin told nurses at Utah Valley (where he was treated) that he was paid to claim to be the shooter.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-71
 
-Related Nodes: N-71, N-1425
+Related Nodes: N-1425
 
 Investigative Direction: Verify through hospital records, nurse testimony, or police interview of Zin.
 
@@ -1380,8 +1402,9 @@ Claim Timestamp: 00:56:14
 Claim: Per Candace, Kash Patel expressed anger at Tulsi Gabbard and Joe Kent for investigating a potential terrorist angle to the Kirk case.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-102, N-310, N-550
 
-Related Nodes: N-102, N-550, N-310, N-1426
+Related Nodes: N-1426
 
 Investigative Direction: Verify through any on-record statements from the named individuals.
 
@@ -1394,8 +1417,9 @@ Claim Timestamp: 00:11:35
 Claim: Erika Kolfage confirmed Charlie Kirk was attending mass; per third-party information relayed to Candace, he was reportedly planning to begin the Catholic conversion process.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-2
 
-Related Nodes: N-2, N-1421
+Related Nodes: N-1421
 
 Investigative Direction: Verify through parish records and direct corroboration from Erika on the record.
 
@@ -1408,8 +1432,9 @@ Claim Timestamp: 00:31:16
 Claim: Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.
 
 Anchored Artifacts: A-1539.1
+Mentions: N-65, N-67
 
-Related Nodes: N-67, N-65, N-1416
+Related Nodes: N-1416
 
 Investigative Direction: Verify through any recording or attendee corroboration of the retreat.
 
@@ -1422,8 +1447,9 @@ Claim Timestamp: 00:51:02
 Claim: On the Charlie Kirk Show, Andrew Seifer was identified as TPUSA's head of field.
 
 Anchored Artifacts: A-1544.2
+Mentions: N-555
 
-Related Nodes: N-555, N-1414
+Related Nodes: N-1414
 
 Investigative Direction: Verify Andrew Seifer's official TPUSA title.
 
@@ -1436,8 +1462,9 @@ Claim Timestamp: 00:51:02
 Claim: On the Charlie Kirk Show, a speaker stated that TPUSA had posted the UVU courtyard location on its website as early as August 27.
 
 Anchored Artifacts: A-1544.2
+Mentions: N-555
 
-Related Nodes: N-555, N-1414
+Related Nodes: N-1414
 
 Investigative Direction: Verify the specific August 27 post referenced.
 
@@ -1478,8 +1505,8 @@ Claim Timestamp: 01:01:56
 Claim: Candace reads a direct Charlie Kirk quotation: "You better keep asking questions, because it's the only thing that keeps us free."
 
 Anchored Artifacts: A-1550.1
+Mentions: N-1
 
-Related Nodes: N-1
 
 Investigative Direction: Verify the quotation against the cited Charlie Kirk source.
 

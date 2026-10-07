@@ -956,13 +956,14 @@
       "anchored_artifacts": [
         "A-1399.2"
       ],
-      "related_nodes": [
-        "N-392",
-        "N-394"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:07",
-      "investigative_direction": "Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates."
+      "investigative_direction": "Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-394"
+      ]
     },
     {
       "@type": "Claim",
@@ -973,12 +974,13 @@
       "anchored_artifacts": [
         "A-1399.2"
       ],
-      "related_nodes": [
-        "N-392"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:07",
-      "investigative_direction": "Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials."
+      "investigative_direction": "Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials.",
+      "mentions_person_refs": [
+        "N-392"
+      ]
     },
     {
       "@type": "Claim",
@@ -991,13 +993,15 @@
         "A-1403.1"
       ],
       "related_nodes": [
-        "N-395",
-        "N-392",
         "N-1319"
       ],
       "tags": [],
       "claim_timestamp": "00:11:07",
-      "investigative_direction": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood."
+      "investigative_direction": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-395"
+      ]
     },
     {
       "@type": "Claim",
@@ -1008,13 +1012,14 @@
       "anchored_artifacts": [
         "A-1400.1"
       ],
-      "related_nodes": [
-        "N-392",
-        "N-395"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:02",
-      "investigative_direction": "Locate and review the LA Times article and underlying email exhibits cited therein."
+      "investigative_direction": "Locate and review the LA Times article and underlying email exhibits cited therein.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-395"
+      ]
     },
     {
       "@type": "Claim",
@@ -1025,13 +1030,14 @@
       "anchored_artifacts": [
         "A-1401.1"
       ],
-      "related_nodes": [
-        "N-392",
-        "N-395"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:02",
-      "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings."
+      "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-395"
+      ]
     },
     {
       "@type": "Claim",
@@ -1042,14 +1048,15 @@
       "anchored_artifacts": [
         "A-1402.1"
       ],
-      "related_nodes": [
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts.",
+      "mentions_person_refs": [
         "N-392",
         "N-396",
         "N-397"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:12:38",
-      "investigative_direction": "Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts."
+      ]
     },
     {
       "@type": "Claim",
@@ -1060,14 +1067,15 @@
       "anchored_artifacts": [
         "A-1404.1"
       ],
-      "related_nodes": [
-        "N-392",
-        "N-398",
-        "N-397"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:53",
-      "investigative_direction": "Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation."
+      "investigative_direction": "Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-397",
+        "N-398"
+      ]
     },
     {
       "@type": "Claim",
@@ -1079,13 +1087,15 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-392",
-        "N-394",
         "N-1319"
       ],
       "tags": [],
       "claim_timestamp": "00:14:40",
-      "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster."
+      "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-394"
+      ]
     },
     {
       "@type": "Claim",
@@ -1097,12 +1107,14 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-396",
         "N-1320"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
-      "investigative_direction": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records."
+      "investigative_direction": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.",
+      "mentions_person_refs": [
+        "N-396"
+      ]
     },
     {
       "@type": "Claim",
@@ -1113,12 +1125,13 @@
       "anchored_artifacts": [
         "A-1406.1"
       ],
-      "related_nodes": [
-        "N-396"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:30",
-      "investigative_direction": "Standalone claim only; no corroborating artifact in this episode."
+      "investigative_direction": "Standalone claim only; no corroborating artifact in this episode.",
+      "mentions_person_refs": [
+        "N-396"
+      ]
     },
     {
       "@type": "Claim",
@@ -1130,13 +1143,15 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-396",
         "N-1320",
         "N-1319"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
-      "investigative_direction": "Single-source; corroboration required before inscription as fact."
+      "investigative_direction": "Single-source; corroboration required before inscription as fact.",
+      "mentions_person_refs": [
+        "N-396"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,12 +1163,14 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-392",
         "N-1319"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
-      "investigative_direction": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships."
+      "investigative_direction": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships.",
+      "mentions_person_refs": [
+        "N-392"
+      ]
     },
     {
       "@type": "Claim",
@@ -1164,13 +1181,14 @@
       "anchored_artifacts": [
         "A-1407.1"
       ],
-      "related_nodes": [
-        "N-401",
-        "N-392"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:41",
-      "investigative_direction": "Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star."
+      "investigative_direction": "Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star.",
+      "mentions_person_refs": [
+        "N-392",
+        "N-401"
+      ]
     },
     {
       "@type": "Claim",
@@ -1181,12 +1199,13 @@
       "anchored_artifacts": [
         "A-1408.1"
       ],
-      "related_nodes": [
-        "N-401"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:41",
-      "investigative_direction": "Obtain full autopsy / coroner's report; review toxicology findings."
+      "investigative_direction": "Obtain full autopsy / coroner's report; review toxicology findings.",
+      "mentions_person_refs": [
+        "N-401"
+      ]
     },
     {
       "@type": "Claim",
@@ -1200,13 +1219,15 @@
         "A-1411.1"
       ],
       "related_nodes": [
-        "N-1321",
-        "N-382",
-        "N-1"
+        "N-1321"
       ],
       "tags": [],
       "claim_timestamp": "00:41:29",
-      "investigative_direction": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files."
+      "investigative_direction": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -1218,12 +1239,14 @@
         "A-1410.1"
       ],
       "related_nodes": [
-        "N-402",
         "N-1321"
       ],
       "tags": [],
       "claim_timestamp": "00:44:05",
-      "investigative_direction": "Identify the second individual in the Samir photo; confirm BYU attendance."
+      "investigative_direction": "Identify the second individual in the Samir photo; confirm BYU attendance.",
+      "mentions_person_refs": [
+        "N-402"
+      ]
     },
     {
       "@type": "Claim",
@@ -1232,12 +1255,13 @@
       "label": "Samir Was Permitted to Interview Astrid Tuminez",
       "claim": "Per host, \"Samir\" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-402"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:05",
-      "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions."
+      "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions.",
+      "mentions_person_refs": [
+        "N-402"
+      ]
     },
     {
       "@type": "Claim",
@@ -1248,13 +1272,14 @@
       "anchored_artifacts": [
         "A-1411.1"
       ],
-      "related_nodes": [
-        "N-382",
-        "N-1"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:45:56",
-      "investigative_direction": "Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews."
+      "investigative_direction": "Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -1265,13 +1290,14 @@
       "anchored_artifacts": [
         "A-1412.1"
       ],
-      "related_nodes": [
-        "N-349",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:52",
-      "investigative_direction": "Obtain the article and verify framing language; host disputes framing on air."
+      "investigative_direction": "Obtain the article and verify framing language; host disputes framing on air.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -1282,13 +1308,14 @@
       "anchored_artifacts": [
         "A-1413.1"
       ],
-      "related_nodes": [
-        "N-349",
-        "N-2"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:40",
-      "investigative_direction": "Locate the WSJ article and verify framing language."
+      "investigative_direction": "Locate the WSJ article and verify framing language.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-349"
+      ]
     },
     {
       "@type": "Claim",
@@ -1300,12 +1327,14 @@
         "A-1414.1"
       ],
       "related_nodes": [
-        "N-1",
         "N-1322"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29",
-      "investigative_direction": "Verify timestamp/date of original recording; confirm via original footage."
+      "investigative_direction": "Verify timestamp/date of original recording; confirm via original footage.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": []
