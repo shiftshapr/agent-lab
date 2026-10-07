@@ -37,7 +37,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2654, N-1208, N-1209, N-1660*
+*Related: C-2654, N-1660*
 
 **A-1927.2** Reference attributing Navy O-6 reserve status to Akhmed Karashi (via Baron Coleman)
 
@@ -47,7 +47,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2655, N-1209, N-1660*
+*Related: C-2655, N-1660*
 
 **A-1927.3** Mitch Snow observation of a meeting concluding at Fort Huachuca the day before the event, with multiple O-6s present
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1660, N-1209*
+*Related: N-1660*
 
 **A-1927.4** "Built" app description attributed to Akhmed Karashi (co-founded), described as capable of 3D mission-prep visual walk-throughs
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2655, N-1209, N-1660*
+*Related: C-2655, N-1660*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:16:55–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2661, N-1207, N-2, N-1658*
+*Related: C-2661, N-2, N-1658*
 
 **A-1932.2** Blake Neff speech at Arizona State University defending Erika's CEO role and insisting Charlie repeatedly said "Erika will take over for me"
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:14:16–00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2660, N-1207, N-2, N-1658*
+*Related: C-2660, N-2, N-1658*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:22:00–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207, N-2, N-1658*
+*Related: N-2, N-1658*
 
 **A-1938.2** "Chewing the Void" top comment drawing JFK-model parallel
 
@@ -279,7 +279,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1927.1, C-2654, N-1209, N-1660*
+*Related: A-1927.1, C-2654, N-1660*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -290,7 +290,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1927.1, A-1927.2, A-1927.4, C-2654, C-2655, N-1208, N-1660*
+*Related: A-1927.1, A-1927.2, A-1927.4, C-2654, C-2655, N-1660*
 
 **N-1210** Phil Lyman Proximity and Behavior Investigation
 
@@ -336,7 +336,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1928.1, A-1928.2, A-1929.1, A-1932.1, A-1932.2, A-1936.1, C-2656, C-2657, C-2660, C-2661, C-2666, N-2, N-1207*
+*Related: A-1928.1, A-1928.2, A-1929.1, A-1932.1, A-1932.2, A-1936.1, C-2656, C-2657, C-2660, C-2661, C-2666, N-2*
 
 **N-1659** Aspen Donor Event Memory Discrepancy
 
@@ -358,7 +358,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1927.1, A-1927.2, A-1927.3, A-1927.4, C-2654, C-2655, N-1208, N-1209*
+*Related: A-1927.1, A-1927.2, A-1927.3, A-1927.4, C-2654, C-2655*
 
 **N-1661** Pam Bondi Dismissal Context Question
 
@@ -382,7 +382,7 @@ Claim Timestamp: 00:01:20–00:03:02
 Claim: Per his LinkedIn profile as reported on the episode, Tour Karashi trained at Fort Huachuca using reconnaissance drones.
 
 Anchored Artifacts: A-1927.1
-Related Nodes: N-1208, N-1209, N-1660
+Related Nodes: N-1660
 Investigative Direction: Preserve and verify Tour Karashi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
 **C-2655** "Built" app co-founded by Akhmed Karashi has 3D mission-prep visualization capability
@@ -392,7 +392,7 @@ Claim Timestamp: 00:01:20–00:03:02
 Claim: The "Built" app co-founded by Akhmed Karashi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
 
 Anchored Artifacts: A-1927.4
-Related Nodes: N-1209, N-1660
+Related Nodes: N-1660
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
 **C-2656** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
@@ -442,7 +442,7 @@ Claim Timestamp: 00:14:16–00:15:40
 Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly said "Erika will take over for me" and that the CEO appointment was not forced by anyone at TPUSA.
 
 Anchored Artifacts: A-1932.2
-Related Nodes: N-1207, N-2, N-1658
+Related Nodes: N-2, N-1658
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
 **C-2661** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
@@ -452,7 +452,7 @@ Claim Timestamp: 00:16:55–00:17:45
 Claim: Blake Neff on X declined to release the Aspen video and accused Candace Owens of being a "psychopathic predator" who would dismiss the video as AI regardless.
 
 Anchored Artifacts: A-1932.1
-Related Nodes: N-1207, N-2, N-1658
+Related Nodes: N-2, N-1658
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
 **C-2662** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-614, N-618, N-621, N-631, N-1446, N-1447, N-1448, N-1449, N-1450, N-1451
-  - Reused Nodes Appearing: N-1005
+  - Reused Nodes Appearing: N-2
   - (see registers)
 
 ---
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1989, C-1990, N-443, N-1005, N-1447*
+*Related: C-1989, C-1990, N-443, N-2, N-1447*
 
 **A-1568.2** Tim Dillon clip — RFK Jr. / "What's going on" segment
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1994, N-444, N-614, N-1005, N-1448*
+*Related: C-1994, N-444, N-614, N-2, N-1448*
 
 **A-1571** Charlie Kirk / Justice Smith MK Ultra Interview Clip
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:48:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1997, N-618, N-42, N-1005, N-1451*
+*Related: C-1997, N-618, N-42, N-2, N-1451*
 
 **A-1574** Mitch Snow's Son Interview Clip
 
@@ -182,17 +182,6 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: C-1991, C-1994, C-1995, C-2000, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-1447*
-
-**N-1005** Erica Kirk
-
-Subject of artifact-backed claims regarding AmFest pyrotechnic appearance, Paramount Tactical Valhalla alibi instructions, and CBS Hunter Cosgrove question.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: C-1990, C-1994, C-1997, A-1568.1, A-1570.1, A-1573.1, N-1451*
 
 **N-42** Andrew Kolvet
 
@@ -368,7 +357,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-1005*
+*Related: C-1997, A-1573.1, N-2*
 
 ---
 
@@ -394,7 +383,7 @@ Claim: A Tim Dillon comedy segment played on air observes that Erica Kirk walked
 
 Anchored Artifacts: A-1568.1
 
-Related Nodes: N-443, N-1005
+Related Nodes: N-443, N-2
 
 Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.
 
@@ -442,7 +431,7 @@ Claim: A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the
 
 Anchored Artifacts: A-1570.1
 
-Related Nodes: N-444, N-614, N-1005, N-1448
+Related Nodes: N-444, N-614, N-2, N-1448
 
 Investigative Direction: Verify the spelling "Cosgrove" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.
 
@@ -478,7 +467,7 @@ Claim: A Paramount Tactical Valhalla livestream segment played on air shows the 
 
 Anchored Artifacts: A-1573.1
 
-Related Nodes: N-618, N-42, N-1005, N-1451
+Related Nodes: N-618, N-42, N-2, N-1451
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 

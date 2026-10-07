@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244
   - New Nodes Introduced: N-128, N-129, N-130, N-132, N-133, N-134, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156, N-1157
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1137
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1079
 
 ## 2. Executive Summary
 
@@ -66,7 +66,7 @@ Confidence: high
 
 **A-1137.1** Kash Patel tweet: FBI commitment to thorough investigation
 Video Timestamp: 00:17:14–00:19:21
-*Related: C-1232, C-1233, N-102, N-1137*
+*Related: C-1232, C-1233, N-102, N-1079*
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Confidence: high
 
@@ -76,7 +76,7 @@ Confidence: high
 
 **A-1138.1** Derek Maxfield Instagram statement: ATC granted transponder shutdown permission
 Video Timestamp: 00:19:31–00:20:07
-*Related: C-1233, N-129, N-1137, N-1150*
+*Related: C-1233, N-129, N-1079, N-1150*
 Transcript Snippet: We got permission to turn off services which are transponder services from ATC.
 Confidence: medium
 
@@ -361,16 +361,6 @@ Israeli PM alleged to have offered Charlie Kirk funding.
 
 ---
 
-**N-1137** FBI
-
-Node Type: Organization
-Organization Kind: government_agency
-Federal Bureau of Investigation; issued investigation statement.
-
-*Related: A-1137.1, A-1138.1, C-1232, C-1233*
-
----
-
 **N-1148** CIA
 
 Node Type: Organization
@@ -547,7 +537,7 @@ Claim Timestamp: 00:17:14
 Claim: FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including alleged accomplices.
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Anchored Artifacts: A-1137.1
-Related Nodes: N-102, N-1137
+Related Nodes: N-102, N-1079
 Investigative Direction: Retrieve the original Patel tweet and archive; cross-reference FBI press releases.
 
 Tags: open_source_investigation
@@ -559,7 +549,7 @@ Claim Timestamp: 00:18:55
 Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost signal; plane owner Derek Maxfield states ATC permission was granted to disable services.
 Transcript Snippet: It can't be both. Can't be.
 Anchored Artifacts: A-1137.1, A-1138.1
-Related Nodes: N-102, N-129, N-1137, N-1150, N-1152
+Related Nodes: N-102, N-129, N-1079, N-1150, N-1152
 Confidence: medium
 Uncertainty: Both sides cited via on-screen/read-aloud artifacts.
 Investigative Direction: Obtain FAA radar logs and ATC recordings for the relevant flight.

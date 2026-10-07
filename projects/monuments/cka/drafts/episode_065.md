@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-804, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
+  - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
   - Reused Nodes Appearing: 
 
 ---
@@ -36,7 +36,7 @@
 
 - Artifact Families Introduced: A-1690, A-1691, A-1692, A-1693, A-1694, A-1695, A-1696, A-1697, A-1698, A-1699, A-1700, A-1701, A-1702, A-1703
 - Claim Range: C-2225–C-2237
-- New People Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-45, N-804, N-298
+- New People Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-45, N-298
 - New Investigation Target Nodes Introduced: N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
 - Existing Nodes Reused: None identified (new nodes only)
 
@@ -84,7 +84,7 @@ Confidence Level: High
 
 Description: Audio clip played at episode opening. References Candace Owens' 2024 Anti-Semite of the Year nomination; cites Tucker Carlson as the 2025 winner; references "Miss Rachel" and "Mr. Rachel" as also being nominated.
 
-*Related: C-2226, C-2227, N-798, N-816, N-1523*
+*Related: C-2226, C-2227, N-798, N-1523*
 
 ---
 
@@ -335,18 +335,6 @@ Description: Referenced video in which, per Youssef, Hamas officials narrate the
 ## IV. Node Register
 
 
-**N-804** Piers Morgan Show Clip Bundle (Bassem Youssef appearance)
-
-Node Type: person
-
-*Related:*
-
-**N-816** Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27
-
-Node Type: person
-
-*Related:*
-
 **N-798** Bassem Youssef
 
 Egyptian-born comedian, former cardiothoracic surgeon, immigrant who became U.S. citizen in December 2019. Central interview subject of this episode. Source of multiple artifact-backed and testimonial claims regarding Israel, the USS Liberty, and Charlie Kirk.
@@ -460,7 +448,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1691.1, C-2226, C-2227, N-798, N-816*
+*Related: A-1691.1, C-2226, C-2227, N-798*
 
 ---
 
@@ -499,7 +487,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-804*
+*Related:*
 
 ---
 
@@ -643,7 +631,7 @@ Claim: Bassem Youssef's Piers Morgan appearance displayed a chart stating that i
 
 Anchored Artifacts: A-1690.1
 
-Related Nodes: N-798, N-298, N-1524, N-804
+Related Nodes: N-798, N-298, N-1524
 
 Investigative Direction: Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.
 
@@ -671,7 +659,7 @@ Claim: Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per 
 
 Anchored Artifacts: A-1691.1
 
-Related Nodes: N-816, N-1523
+Related Nodes: N-1523
 
 Investigative Direction: Verify with award organization records.
 

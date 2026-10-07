@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19, N-34, N-21, N-25, N-23, N-24, N-26
+  - New Nodes Introduced: N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19, N-23, N-24, N-26
   - Reused Nodes Appearing: N-1017, N-1018, N-3, N-4, N-1019, N-1207
   - (see registers)
 
@@ -59,23 +59,11 @@ Episode profiles Victor Marx, Colorado gubernatorial candidate and Turning Point
 ## 4. Node Register
 
 
-**N-21** Node 21
-
-Node Type: person
-
-*Related:*
-
-**N-25** Node 25
-
-Node Type: person
-
-*Related:*
-
 **N-1017** Victor Marx
 
 Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure
 
-*Related: *
+*Related:*
 
 ---
 
@@ -83,7 +71,7 @@ Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure
 
 Victor's wife; described as second-mother figure to Erika Kirk
 
-*Related: *
+*Related:*
 
 ---
 
@@ -91,7 +79,7 @@ Victor's wife; described as second-mother figure to Erika Kirk
 
 Victor's biological father; described as pimp, drug dealer, martial artist
 
-*Related: *
+*Related:*
 
 ---
 
@@ -99,7 +87,7 @@ Victor's biological father; described as pimp, drug dealer, martial artist
 
 Accuser of Victor Marx; alleges gun-running and IDF arms deal
 
-*Related: *
+*Related:*
 
 ---
 
@@ -107,7 +95,7 @@ Accuser of Victor Marx; alleges gun-running and IDF arms deal
 
 Corby's wife; subject of Victor's prayer ministry claims
 
-*Related: *
+*Related:*
 
 ---
 
@@ -115,7 +103,7 @@ Corby's wife; subject of Victor's prayer ministry claims
 
 Accuser of Victor Marx; alleges kidnapping across state lines and trafficking
 
-*Related: *
+*Related:*
 
 ---
 
@@ -123,7 +111,7 @@ Accuser of Victor Marx; alleges kidnapping across state lines and trafficking
 
 Eileen's brother; attempted to shoot Victor in 2023; later killed his girlfriend
 
-*Related: *
+*Related:*
 
 ---
 
@@ -131,7 +119,7 @@ Eileen's brother; attempted to shoot Victor in 2023; later killed his girlfriend
 
 Victor's half-sister (daughter of Gloyce Kennedy); Victor says she corroborates abuse
 
-*Related: *
+*Related:*
 
 ---
 
@@ -139,7 +127,7 @@ Victor's half-sister (daughter of Gloyce Kennedy); Victor says she corroborates 
 
 Victor's older sister; per Victor, appears in his documentary corroborating abuse
 
-*Related: *
+*Related:*
 
 ---
 
@@ -147,7 +135,7 @@ Victor's older sister; per Victor, appears in his documentary corroborating abus
 
 Wrote letter to board accusing father of abusing him and his sister
 
-*Related: *
+*Related:*
 
 ---
 
@@ -155,7 +143,7 @@ Wrote letter to board accusing father of abusing him and his sister
 
 Posted social media about abuse; later recanted; friends allege pressure
 
-*Related: *
+*Related:*
 
 ---
 
@@ -163,7 +151,7 @@ Posted social media about abuse; later recanted; friends allege pressure
 
 Friend of Victor Marx; mentioned in 9/10 announcement context
 
-*Related: *
+*Related:*
 
 ---
 
@@ -171,7 +159,7 @@ Friend of Victor Marx; mentioned in 9/10 announcement context
 
 Pastor; cited as also posting early about Charlie's death
 
-*Related: *
+*Related:*
 
 ---
 
@@ -179,7 +167,7 @@ Pastor; cited as also posting early about Charlie's death
 
 Person who platformed Corby Hall on Candace show; per Victor filed FBI/statement
 
-*Related: *
+*Related:*
 
 ---
 
@@ -187,7 +175,7 @@ Person who platformed Corby Hall on Candace show; per Victor filed FBI/statement
 
 Discrepancy between claimed childhood abuse history and statements from family members
 
-*Related: *
+*Related:*
 
 ---
 
@@ -195,7 +183,7 @@ Discrepancy between claimed childhood abuse history and statements from family m
 
 Verification of who first knew and announced Charlie Kirk's death on 9/10
 
-*Related: *
+*Related:*
 
 ---
 
@@ -203,7 +191,7 @@ Verification of who first knew and announced Charlie Kirk's death on 9/10
 
 Website (victor2026.com) claimed rescued 45,000 women/children; Victor denied this claim
 
-*Related: *
+*Related:*
 
 ---
 
@@ -211,7 +199,7 @@ Website (victor2026.com) claimed rescued 45,000 women/children; Victor denied th
 
 Corby Hall's claim Victor attempted 50,000-gun deal for IDF
 
-*Related: *
+*Related:*
 
 ---
 
@@ -223,7 +211,7 @@ Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: ART_1.1
-Related Nodes: N-1017, N-23, N-21, N-25
+Related Nodes: N-1017, N-23
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
@@ -233,7 +221,7 @@ Investigative Direction: Verify Instagram timestamp via archived captures; cross
 Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx and his wife Eileen were among the small circle welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
 Anchored Artifacts: ART_1.1
-Related Nodes: N-1017, N-1018, N-1017, N-1018
+Related Nodes: N-1017, N-1018
 Investigative Direction: Verify via photographic evidence and corroboration from family/close associates.
 
 ---
@@ -243,7 +231,7 @@ Investigative Direction: Verify via photographic evidence and corroboration from
 Claim Timestamp: 00:06:15
 Claim: Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.
 Anchored Artifacts: ART_2.1
-Related Nodes: N-1017, N-3, N-1207
+Related Nodes: N-1017, N-3
 Investigative Direction: Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.
 
 ---
@@ -296,7 +284,7 @@ Claim Timestamp: 00:16:54
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
 Anchored Artifacts: ART_2.1, ART_6.1
-Related Nodes: N-1017, N-3, N-1207
+Related Nodes: N-1017, N-3
 Investigative Direction: Cross-reference with statements from family members and law enforcement records.
 
 ---

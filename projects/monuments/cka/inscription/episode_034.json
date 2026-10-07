@@ -179,11 +179,7 @@
           "related_claims": [
             "C-1737"
           ],
-          "related_nodes": [
-            "N-415",
-            "N-416",
-            "N-421"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025 (interview date prior to episode)",
           "source_timestamp": "2025-11-18 (referenced on episode)",
@@ -199,10 +195,7 @@
           "related_claims": [
             "C-1737"
           ],
-          "related_nodes": [
-            "N-415",
-            "N-416"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "Prior to 2025-09-10 (date unspecified in transcript; \"on Monday before this correspondence went to Chief Long\")",
           "source_timestamp": "2025-11-18 (read aloud on episode)",
@@ -226,9 +219,7 @@
           "related_claims": [
             "C-1738"
           ],
-          "related_nodes": [
-            "N-417"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025 (interview prior to episode)",
           "source_timestamp": "2025-11-18",
@@ -245,7 +236,6 @@
             "C-1739"
           ],
           "related_nodes": [
-            "N-417",
             "N-1333"
           ],
           "tags": [],
@@ -271,9 +261,7 @@
           "related_claims": [
             "C-1740"
           ],
-          "related_nodes": [
-            "N-422"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025-11-16",
           "source_timestamp": "2025-11-16",
@@ -298,7 +286,6 @@
             "C-1741"
           ],
           "related_nodes": [
-            "N-422",
             "N-1335"
           ],
           "tags": [],
@@ -324,9 +311,7 @@
           "related_claims": [
             "C-1742"
           ],
-          "related_nodes": [
-            "N-418"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025-11 (prior to episode)",
           "source_timestamp": "2025-11-18 (read aloud)",
@@ -350,9 +335,7 @@
           "related_claims": [
             "C-1743"
           ],
-          "related_nodes": [
-            "N-419"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "2025-11 (prior to episode)",
           "source_timestamp": "2025-11-18 (read aloud)",
@@ -377,7 +360,6 @@
             "C-1744"
           ],
           "related_nodes": [
-            "N-420",
             "N-1334"
           ],
           "tags": [],
@@ -391,129 +373,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-415",
-      "ref": "N-415",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-421"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-416",
-      "ref": "N-416",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-417",
-      "ref": "N-417",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-418",
-      "ref": "N-418",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-419",
-      "ref": "N-419",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-420",
-      "ref": "N-420",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-421",
-      "ref": "N-421",
-      "name": "White 2025 Toyota Camry — Arizona plate CWN-N9872",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-422",
-      "ref": "N-422",
-      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "type": "person",
-      "description": "### People",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1330",
@@ -588,10 +447,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-417",
-        "N-422"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -611,9 +467,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-420"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -635,9 +489,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-422"
-      ]
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -646,7 +498,7 @@
       "@id": "C-1735",
       "ref": "C-1735",
       "label": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
-      "claim": "",
+      "claim": "The episode presents five specific rental vehicles with documented license plates as the verified rental fleet associated with the Duncan Aviation / \"Egyptian\" group.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1330"
@@ -660,7 +512,7 @@
       "@id": "C-1736",
       "ref": "C-1736",
       "label": "A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.",
-      "claim": "",
+      "claim": "A UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1332"
@@ -674,13 +526,9 @@
       "@id": "C-1737",
       "ref": "C-1737",
       "label": "Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted \"I got you covered\" as resolution.",
-      "claim": "",
+      "claim": "Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was \"I got you covered,\" and Harpole did not follow up further.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-415",
-        "N-416",
-        "N-421"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "26:12",
       "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation."
@@ -690,10 +538,9 @@
       "@id": "C-1738",
       "ref": "C-1738",
       "label": "Blake Neff was standing next to Mikey McCoy at the moment of the shooting.",
-      "claim": "",
+      "claim": "Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-417",
         "N-1333"
       ],
       "tags": [],
@@ -705,10 +552,9 @@
       "@id": "C-1739",
       "ref": "C-1739",
       "label": "Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.",
-      "claim": "",
+      "claim": "A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-417",
         "N-1333"
       ],
       "tags": [],
@@ -720,10 +566,9 @@
       "@id": "C-1740",
       "ref": "C-1740",
       "label": "Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as \"essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity.\"",
-      "claim": "",
+      "claim": "Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-422",
         "N-1335"
       ],
       "tags": [],
@@ -735,10 +580,9 @@
       "@id": "C-1741",
       "ref": "C-1741",
       "label": "The current issue of Calvary Chapel magazine carries a \"Stand with Israel\" cover and a \"Why Jews are hated\" article, with interior content featuring IDF soldiers.",
-      "claim": "",
+      "claim": "The episode displays the current month's Calvary Chapel magazine cover featuring \"Stand with Israel\" and a \"Why Jews are hated\" subtitle; interior content referenced includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-422",
         "N-1335"
       ],
       "tags": [],
@@ -750,10 +594,9 @@
       "@id": "C-1742",
       "ref": "C-1742",
       "label": "Aayol Yakobe posted on X that the rental-plate disclosure constitutes \"doxing.\"",
-      "claim": "",
+      "claim": "Aayol Yakobe posted on X characterizing the rental-plate disclosure as \"doxing\" and describing it as \"unparalleled levels of insanity\" and \"truly dangerous.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-418",
         "N-1330"
       ],
       "tags": [],
@@ -765,11 +608,9 @@
       "@id": "C-1743",
       "ref": "C-1743",
       "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
-      "claim": "",
+      "claim": "Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-419"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "03:02",
       "investigative_direction": "Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged \"doxing teenagers\" claim."
@@ -779,10 +620,9 @@
       "@id": "C-1744",
       "ref": "C-1744",
       "label": "A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.",
-      "claim": "",
+      "claim": "The episode identifies a flight from Scottsdale to Provo on the day of the assassination, owned by Turning Point USA donor TWW Lewis (whose foundation lists TPUSA as a recipient).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-420",
         "N-1334"
       ],
       "tags": [],

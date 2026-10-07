@@ -31,7 +31,7 @@ CKA seq 10 advances three threads: (1) TPUSA financial concerns raised by Charli
 **A-1162.1** Internal memo signed by Charlie Kirk dated September 2, 2025, read aloud in episode, elevating Justin Strife to COO and announcing an organizational-wide DOGE efficiency effort
 Event Timestamp: 2025-09-02
 Video Timestamp: 00:25:55–00:27:30
-*Related: C-1285, C-1286, N-1, N-43, N-1000*
+*Related: C-3632, C-1286, N-1, N-43, N-1000*
 Transcript Snippet: In this role, I have empowered Justin, among other priorities, to engage in an organizationalwide Doge effort.
 Confidence: high
 
@@ -78,7 +78,7 @@ Confidence: high
 
 **A-1164.3** Testimonial from second rooftop witness obtained by host, claiming he delivered footage to Orem Police Department on day one and was not contacted by feds until September 15
 Video Timestamp: 00:18:43–00:20:06
-*Related: C-1291, N-1190, N-1195, N-1190*
+*Related: C-1291, N-1190, N-1195*
 Transcript Snippet: He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.
 Confidence: high
 
@@ -170,7 +170,7 @@ Host of the Candace Kirk Archive series and primary investigator of claims prese
 Node Type: Person
 Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.
 
-*Related: A-1162.1, A-1163.2, A-1168.1, C-1285, C-1286, C-1288, C-1292*
+*Related: A-1162.1, A-1163.2, A-1168.1, C-3632, C-1286, C-1288, C-1292*
 
 ---
 
@@ -179,7 +179,7 @@ Deceased founder of Turning Point USA; subject of financial concerns expressed o
 Node Type: Person
 Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 ---
 
@@ -215,7 +215,7 @@ Father of Tyler Robinson; host notes his house was raided and no further updates
 Node Type: Person
 Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 ---
 
@@ -233,7 +233,7 @@ Author of a 959-word essay response defending his role around the Hamptons weeke
 Node Type: Person
 Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -244,7 +244,7 @@ Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on
 Node Type: Person
 Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -264,7 +264,7 @@ Influencer who attended Hamptons weekend, released video addressing the event an
 Node Type: Person
 Named as attendee of Hamptons weekend retreat.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -275,7 +275,7 @@ Named as attendee of Hamptons weekend retreat.
 Node Type: Person
 TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -286,7 +286,7 @@ TPUSA spokesperson who has continued Charlie Kirk's show; host urges against tre
 Node Type: Person
 PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xavier Deruso for Hamptons response video.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -306,7 +306,7 @@ News host on which Netanyahu reportedly lied about contents of a May letter from
 Node Type: Person
 Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about being wrongly labeled anti-Semitic.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -317,7 +317,7 @@ Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about 
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Vivek Ramaswamy.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -328,7 +328,7 @@ Referenced as co-architect of the original federal Department of Government Effi
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Elon Musk.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -348,7 +348,7 @@ US President referenced in connection with DOGE and in context of Netanyahu alle
 Node Type: Person
 Referenced in closing joke about reporting Candace to platform authorities.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -359,7 +359,7 @@ Referenced in closing joke about reporting Candace to platform authorities.
 Node Type: Person
 Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -388,7 +388,7 @@ Influencer whose August 6 Instagram post revealing she was in the Hamptons is ci
 Node Type: Person
 Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tribute segment aired in this episode.
 
-*Related: A-1162.1, A-1168.1, C-1285*
+*Related: A-1162.1, A-1168.1, C-3632*
 
 
 
@@ -408,7 +408,7 @@ Utah Governor Cox, referenced for declaring the investigation concluded and the 
 Node Type: Person
 Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 
 
@@ -420,7 +420,7 @@ Node Type: Organization
 Organization Kind: political_nonprofit
 Subject organization of the financial concerns Charlie Kirk allegedly raised one week before his death; received internal memo elevating Justin Strife to COO and announcing DOGE audit.
 
-*Related: A-1162.1, C-1285, C-1286*
+*Related: A-1162.1, C-3632, C-1286*
 
 ---
 
@@ -440,7 +440,7 @@ Node Type: Organization
 Organization Kind: government_program
 Referenced as federal initiative by Musk/Ramaswamy and as the model for Charlie Kirk's TPUSA-internal DOGE audit announced September 2, 2025.
 
-*Related: A-1162.1, C-1285*
+*Related: A-1162.1, C-3632*
 
 ---
 
@@ -470,7 +470,7 @@ Node Type: Topic
 Topic Kind: investigation_thread
 Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, anchored by the September 2 internal memo and host's receipt of insider leaks.
 
-*Related: A-1162.1, C-1285, C-1286*
+*Related: A-1162.1, C-3632, C-1286*
 
 ---
 
@@ -532,7 +532,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -542,7 +542,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host asserts this is 'a real thing' when discussing financially motivated pastors around Charlie Kirk.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -552,7 +552,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -578,7 +578,7 @@ City where the assassination occurred and where Orem PD received the rooftop foo
 
 ## 5. Claim Register
 
-**C-1285** TPUSA internal memo of September 2, 2025 elevated Justin Strife to COO and announced organizational-wide DOGE efficiency audit
+**C-3632** TPUSA internal memo of September 2, 2025 elevated Justin Strife to COO and announced organizational-wide DOGE efficiency audit
 
 Claim Timestamp: 00:25:55
 Claim: An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.

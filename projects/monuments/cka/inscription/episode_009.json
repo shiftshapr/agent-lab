@@ -1089,25 +1089,6 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1137",
-      "ref": "N-1137",
-      "name": "FBI",
-      "type": "organization",
-      "description": "Host alleges pressuring Utah to close Kirk case as lone-gunman.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1279",
-        "C-1282"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
-    },
-    {
-      "@type": "Organization",
       "@id": "N-1003",
       "ref": "N-1003",
       "name": "MK Ultra",
@@ -1310,8 +1291,6 @@
         "N-3",
         "N-59",
         "N-1184",
-        "N-1192",
-        "N-1192",
         "N-1192"
       ],
       "tags": [],
@@ -1373,8 +1352,6 @@
         "N-148",
         "N-1177",
         "N-1186",
-        "N-1003",
-        "N-1182",
         "N-1003",
         "N-1182"
       ],
@@ -1520,11 +1497,7 @@
         "N-1179",
         "N-1194",
         "N-1181",
-        "N-1194",
-        "N-1181",
-        "N-1193",
-        "N-1194",
-        "N-1181"
+        "N-1193"
       ],
       "tags": [],
       "claim_timestamp": "00:18:56",
@@ -1560,10 +1533,8 @@
       "claim": "Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1137",
+        "N-1079",
         "N-1175",
-        "N-1191",
-        "N-1191",
         "N-1191"
       ],
       "tags": [],
@@ -1615,7 +1586,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-1137",
+        "N-1079",
         "N-1077",
         "N-1176"
       ],

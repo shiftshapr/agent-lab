@@ -42,7 +42,7 @@ Video Timestamp: 00:01:20–00:03:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud in episode)
 
-*Related: C-2525, C-2526, N-1207*
+*Related: C-2525, C-2526*
 
 **A-1877.2** Joe Kent on Tucker Carlson: West Wing encounter with Charlie Kirk re: Iran
 
@@ -51,7 +51,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2526, N-1207*
+*Related: C-2526*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:08:30–00:11:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-2531, N-1208*
+*Related: C-2531*
 
 **A-1878.2** Kolvet states Joe Kent suggested making texts public; Kolvet declined
 
@@ -74,7 +74,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2532, N-1208*
+*Related: C-2532*
 
 ---
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2528, N-1209*
+*Related: C-2528*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:21:46–00:28:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed/read in episode)
 
-*Related: C-2533, C-2534, C-2535, C-2536, N-1208, N-1212, N-1213, N-1214, N-1620*
+*Related: C-2533, C-2534, C-2535, C-2536, N-1212, N-1213, N-1214, N-1620*
 
 **A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay
 
@@ -342,7 +342,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1208, N-1212*
+*Related: N-1212*
 
 ---
 
@@ -420,7 +420,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538, N-1208, N-1212, N-1213, N-1214*
+*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538, N-1212, N-1213, N-1214*
 
 ---
 
@@ -433,7 +433,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1208, N-1620*
+*Related: N-1620*
 
 ---
 
@@ -472,7 +472,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531, N-1207, N-1208, N-1209, N-1211*
+*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531, N-1211*
 
 ---
 
@@ -499,7 +499,7 @@ Claim: Joe Kent told Tucker Carlson that the National Counterterrorism Center wa
 
 Anchored Artifacts: A-1877.1
 
-Related Nodes: N-1207, N-1620
+Related Nodes: N-1620
 
 Investigative Direction: Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities.
 
@@ -513,7 +513,7 @@ Claim: Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk 
 
 Anchored Artifacts: A-1877.2
 
-Related Nodes: N-1207
+Related Nodes:
 
 Investigative Direction: Verify via West Wing access logs and any corroborating witnesses to the June encounter.
 
@@ -527,7 +527,7 @@ Claim: Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for
 
 Anchored Artifacts: A-1879.1 (related context); direct retweet not separately captured as artifact.
 
-Related Nodes: N-1207, N-1208, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Confirm via archived Kolvet X timeline.
 
@@ -543,7 +543,7 @@ Claim: Alex Clark posted on X that Joe Kent actively participated in or encourag
 
 Anchored Artifacts: A-1879.1
 
-Related Nodes: N-1207, N-1209, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Retrieve Clark's full X thread and any cited evidence.
 
@@ -557,7 +557,7 @@ Claim: Jack Posobiec posted on X that Joe Kent has six bronze star medals with f
 
 Anchored Artifacts: A-1880.1
 
-Related Nodes: N-1207, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Cross-check against DoD / military service records.
 
@@ -571,7 +571,7 @@ Claim: Laura Loomer replied to Posobiec accusing Joe Kent of leaking information
 
 Anchored Artifacts: A-1880.2
 
-Related Nodes: N-1207, N-1211, N-1624
+Related Nodes: N-1211, N-1624
 
 Investigative Direction: Retrieve Loomer's full post; trace whether she cites source for the accusation.
 
@@ -585,7 +585,7 @@ Claim: Andrew Kolvet stated on Charlie Kirk's radio show that he had provided th
 
 Anchored Artifacts: A-1878.1
 
-Related Nodes: N-1207, N-1208, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Obtain full unedited radio segment; verify chain of custody.
 
@@ -599,7 +599,7 @@ Claim: Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made p
 
 Anchored Artifacts: A-1878.2
 
-Related Nodes: N-1207, N-1208, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Verify against any direct messaging logs or third-party corroboration.
 
@@ -613,7 +613,7 @@ Claim: In the Sept 10 PR text chain, Andrew Kolvet had no outgoing message from 
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1208, N-1212, N-1620
+Related Nodes: N-1212, N-1620
 
 Investigative Direction: Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records.
 
@@ -627,7 +627,7 @@ Claim: At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: "S
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1208, N-1620
+Related Nodes: N-1620
 
 Investigative Direction: Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable.
 
@@ -641,7 +641,7 @@ Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aub
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1208, N-1213, N-1214, N-1620, N-1625
+Related Nodes: N-1213, N-1214, N-1620, N-1625
 
 Investigative Direction: Confirm via call detail records and corroborate with Aubrey directly if possible.
 
@@ -757,7 +757,7 @@ Claim: Candace Owens states she had never had a single communication with Joe Ke
 
 Anchored Artifacts: None (host testimony only)
 
-Related Nodes: N-1207, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Verify via message logs, witness statements, or platform records.
 

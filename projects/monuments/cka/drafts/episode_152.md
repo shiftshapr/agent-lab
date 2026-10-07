@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2321, N-2322
-  - Reused Nodes Appearing: N-2275, N-2276, N-2277, N-2278, N-2279, N-2280, N-2281, N-2282, N-2283, N-2284, N-2285, N-2286, N-2287, N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-1234, N-37
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230, N-1231, N-1232, N-1233, N-1234, N-37
   - (see registers)
 
 ---
@@ -37,7 +37,7 @@
 
 Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382
 Claim Range: C-3445–C-3464
-New Nodes Introduced: N-2275, N-2276, N-2277, N-2278, N-2279, N-2280, N-2281, N-2282, N-2283, N-2284, N-2285, N-2286, N-2287, N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-2321, N-2322
+New Nodes Introduced: N-2321, N-2322
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -61,7 +61,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:33–00:03:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio confirmed played)
-*Related: C-3445, N-2275*
+*Related: C-3445*
 
 ---
 
@@ -74,7 +74,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:25–00:10:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3446, N-2276*
+*Related: C-3446*
 
 ---
 
@@ -87,7 +87,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:24–00:19:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage aired with description)
-*Related: C-3452, C-3453, N-2277, N-2278, N-2279*
+*Related: C-3452, C-3453, N-1210, N-1211*
 
 **A-2376.2** Continuation of clip showing female officer beginning to take McCoy's statement while wearing ICAC vest
 
@@ -96,7 +96,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:19:17–00:19:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452, N-2277, N-2278*
+*Related: C-3452, N-1210*
 
 ---
 
@@ -109,7 +109,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452, N-2277, N-2279*
+*Related: C-3452, N-1211*
 
 **A-2377.2** Second still: clear view of vest reading "Police" and "Utah ICAC"
 
@@ -118,7 +118,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452, N-2278*
+*Related: C-3452, N-1210*
 
 **A-2377.3** Additional still showing ICAC vest text
 
@@ -127,7 +127,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452, N-2278*
+*Related: C-3452, N-1210*
 
 ---
 
@@ -140,7 +140,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:41–00:15:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by host from document)
-*Related: C-3450, C-3451, N-2280*
+*Related: C-3450, C-3451, N-1212*
 
 ---
 
@@ -153,7 +153,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:17–00:37:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip aired)
-*Related: C-3457, N-2284*
+*Related: C-3457, N-1216*
 
 ---
 
@@ -166,7 +166,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3457, N-2284, N-2*
+*Related: C-3457, N-1216, N-2*
 
 ---
 
@@ -179,7 +179,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:58–00:45:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3458, C-3459, N-2285, N-2286, N-2287*
+*Related: C-3458, C-3459, N-1217, N-1218, N-1219*
 
 ---
 
@@ -192,331 +192,11 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:03:34–00:08:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-categorized compilation; original sourcing per individual row)
-*Related: C-3460, N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-1234*
+*Related: C-3460, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230, N-1231, N-1232, N-1233, N-1234*
 
 ---
 
 ## IV. Node Register
-
-**N-2275** Mike Mitchell Public Record Anomaly
-
-Subject of the Looney Tunes-style clip mocking his evasive behavior; previously flagged as "shady" in series commentary.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2374.1, C-3445*
-
----
-
-**N-2276** Brooksby Suicide Narrative Discrepancy
-
-Newly appointed Utah judge presiding over aspects of the case; per the artifact, self-reports 95% of his work as sex crimes prosecution.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2375.1, C-3446*
-
-*Optional Flag: Name uncertainty — transcript spells "Graph"; likely "Graf" pending verification.*
-
----
-
-**N-2277** Robinson Apartment Staging Allegation
-
-TPUSA staff member present at UVU on September 10, 2025; subject of witness statement taken by ICAC officer per displayed footage.
-
-Evidence Count: 3
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3, C-3452, N-2278, N-2279*
-
----
-
-**N-2278** Phil Lyman Proximity and Behavior Investigation
-
-Officer wearing "Police" / "Utah ICAC" vest who took Mikey McCoy's statement on September 10, 2025.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2376.2, A-2377.2, A-2377.3, C-3452, C-3453, N-2277*
-
----
-
-**N-2279** UVU Campus Familiarity Question
-
-Individual on phone with Mikey McCoy in displayed footage per host's reference to call logs provided by Erica Kirk.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2376.1, C-3452*
-
----
-
-**N-2280** Phil Lyman Location Discrepancy
-
-Police officer who signed the first six search warrants in the Charlie Kirk case, including on George Zinn; primary assignment in Special Victims Unit / ICAC.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-*Related: A-2378.1, C-3450, C-3451*
-
----
-
-**N-2281** Unidentified Goth Person in Broderick Companion Photo
-
-Former undercover detective in internet sex crimes against children (per host); described as the figure who convinced the Robinson household to turn Tyler Robinson in.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: C-3461, N-2321*
-
----
-
-**N-2282** Charlie Kirk Pre-Mortem Israel Position Claim
-
-UVU police officer who found the screwdriver on the rooftop; previously worked child sex crimes at Utah County Sheriff's Office (per host).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: C-3462*
-
----
-
-**N-2283** Hospital Routing Discrepancy
-
-Individual who shouted "I did it" in immediate aftermath; later found to possess child pornography on phone; sentenced for child sex crimes.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: C-3463*
-
----
-
-**N-2284** Utah FBI Personnel Replacement
-
-Former Army Ranger sniper introduced on "Charlie Kirk Show" to debunk footage; pled no contest October 2025 to felony coercion and misdemeanor harassment.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-*Related: A-2379.1, A-2380.1, C-3457*
-
----
-
-**N-2285** Mike Mitchell Undercover Role Verification
-
-Artist who gave "Free Palestine" speech as Ed Sheeran opener; subsequently dropped from the tour.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low (non-case related)
-*Related: A-2381.1, C-3458, N-2286, N-2287*
-
----
-
-**N-2286** Unidentified Female / "Accomplice" in Shooter Footage
-
-Headliner of tour from which Macklemore was dropped; the host calls on him to cancel remaining tour stops.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low (non-case related)
-*Related: A-2381.1, C-3459, N-2285, N-2287*
-
----
-
-**N-2287** "Robbie Hild" Identity Verification
-
-Owner of New England Patriots / Patriot Stadium; identified as leading lobby campaign to remove Macklemore from Ed Sheeran tour.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low (non-case related)
-*Related: C-3459, N-2285, N-2286*
-
----
-
-**N-2288** Case-Personnel Cluster Anomalies
-
-Accused of running brothel with Romanian children 2011–2015 at Romanian military base; worked with "Erika's Romanian angels" (per host).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460, N-2*
-
-*Optional Flag: Name uncertainty — host spelling inconsistent.*
-
----
-
-**N-2289** Autopsy Record – Utah Privacy Statute Application
-
-Civilian commander at Fort Wuka; charged with running child sex abuse ring.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460*
-
-*Optional Flag: Name uncertainty — spelling preserved as transcript.*
-
----
-
-**N-2290** Hospital Routing Anomaly
-
-Listed as headliner of Make Heaven Crowded tour immediately after Charlie Kirk's death; subject of pending trafficking charges per host.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460, N-2*
-
----
-
-**N-2291** TPUSA Faith Packet / Israel References Claim
-
-Founder of Operation Underground (rescuing children from sex trafficking); interviewed by host; lived/worked in China with trafficking victims per Erica Kirk claim.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460, N-2292*
-
----
-
-**N-2292** ADL–FBI Partnership Structure
-
-Funded Operation Underground; media-involved on September 10.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2382.1, C-3460, N-2291*
-
----
-
-**N-2293** Connecticut FBI Field Office Deployment Anomaly
-
-TPUSA adviser; retired; ran psyops; co-wrote book with Michael Aino (per host).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2382.1, C-3460, N-2294*
-
----
-
-**N-2294** Tyler Robinson Defense Selection Anomaly
-
-Co-author of book with Paul Valle; described by host as Satanist / founder of Temple of Set / accused of abusing children at Army Child Development Center.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460, N-2293*
-
-*Optional Flag: Name uncertainty — host spelling may refer to Michael Aquino.*
-
----
-
-**N-2295** Witness and Public-Figure Demeanor Anomalies
-
-Runs supplement company with profits going to All Things Possible (child trafficking charity).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2382.1, C-3460*
-
----
-
-**N-2296** SD Card Removal Narrative Discrepancy
-
-Runs charity for child sex abuse victims (per host).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2382.1, C-3460*
-
----
-
-**N-2297** Pre-Assassination Group Chat Content
-
-Announced as the largest donor to Turning Point USA; involved in rescue of trafficked children.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460*
-
----
-
-**N-2298** Charlie Kirk Catholic Trajectory Verification
-
-Listed as trafficking-related work in Poland.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2382.1, C-3460*
-
----
-
-**N-2299** Campus Footage Release Strategy Question
-
-Rescued children from sex trafficking in South America via Operation Underground.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-2382.1, C-3460, N-2291*
-
----
-
-**N-2300** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
-
-Co-founder of Sofur Global Ministries with Charlie Kirk; provides medical care in Romania, Albania, Ukraine.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-*Related: A-2382.1, C-3460, N-1*
-
----
 
 **N-1233** Tyler Bowyer X Defense Pattern
 
@@ -550,7 +230,7 @@ Evidence Count: 3
 Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-2378.1, A-2376.2, C-3450, C-3451, C-3452, N-2280, N-2278*
+*Related: A-2378.1, A-2376.2, C-3450, C-3451, C-3452, N-1212, N-1210*
 
 ---
 
@@ -585,7 +265,7 @@ Claim: The episode presents that the audio of the Looney Tunes-style clip aired 
 
 Anchored Artifacts: A-2374.1
 
-Related Nodes: N-2275
+Related Nodes:
 
 Investigative Direction: Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*
 
@@ -599,7 +279,7 @@ Claim: The episode presents Judge Graph stating that approximately 95% of his pr
 
 Anchored Artifacts: A-2375.1
 
-Related Nodes: N-2276, N-1234
+Related Nodes: N-1234
 
 Investigative Direction: Locate the full source clip and verify date / context; cross-check with court biographical records.*
 
@@ -613,7 +293,7 @@ Claim: The episode presents that Mike Mitchell's career was as an undercover det
 
 Anchored Artifacts: None in this episode (host assertion only)
 
-Related Nodes: N-2281, N-2321
+Related Nodes: N-1213, N-2321
 
 Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*
 
@@ -629,7 +309,7 @@ Claim: The episode presents that Bagley formerly worked in child sex crimes at t
 
 Anchored Artifacts: None in this episode (host assertion only)
 
-Related Nodes: N-2282, N-2321
+Related Nodes: N-1214, N-2321
 
 Investigative Direction: Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*
 
@@ -645,7 +325,7 @@ Claim: The episode presents that following George Zinn's arrest, child pornograp
 
 Anchored Artifacts: None visible in this episode; New York Post coverage referenced but not displayed
 
-Related Nodes: N-2283
+Related Nodes: N-1215
 
 Investigative Direction: Obtain New York Post article referenced and court records for George Zinn's case.*
 
@@ -661,7 +341,7 @@ Claim: The episode presents that the first six search warrants in the Charlie Ki
 
 Anchored Artifacts: A-2378.1
 
-Related Nodes: N-2280, N-2283, N-1234, N-2321
+Related Nodes: N-1212, N-1215, N-1234, N-2321
 
 Investigative Direction: Pull the search warrant records from Utah court filings to verify signatory.*
 
@@ -675,7 +355,7 @@ Claim: The episode presents that Michael George Carl's documented assignment is 
 
 Anchored Artifacts: A-2378.1
 
-Related Nodes: N-2280, N-2321
+Related Nodes: N-1212, N-2321
 
 Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*
 
@@ -689,7 +369,7 @@ Claim: The episode displays footage and still photographs showing that Mikey McC
 
 Anchored Artifacts: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3
 
-Related Nodes: N-2277, N-2278, N-2279, N-2321
+Related Nodes: N-1210, N-1211, N-2321
 
 Investigative Direction: Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*
 
@@ -703,7 +383,7 @@ Claim: The episode asserts that the Utah ICAC works under the Utah Attorney Gene
 
 Anchored Artifacts: None in this episode (host assertion)
 
-Related Nodes: N-2278, N-2321
+Related Nodes: N-1210, N-2321
 
 Investigative Direction: Verify Utah ICAC administrative structure via Utah AG public materials.*
 
@@ -735,7 +415,7 @@ Claim: The episode presents that in 2020, an HSI whistleblower alleged that vide
 
 Anchored Artifacts: None visible in this episode
 
-Related Nodes: None new (Leavitt referenced but not given node in this episode)
+Related Nodes:
 
 Investigative Direction: Obtain HSI whistleblower complaint / DOJ records pertaining to Leavitt.*
 
@@ -751,7 +431,7 @@ Claim: The episode presents that Utah AG David Leavitt was named in a 151-page v
 
 Anchored Artifacts: None visible in this episode
 
-Related Nodes: None new
+Related Nodes:
 
 Investigative Direction: Obtain the May–June 2022 Utah County Sheriff's Office press materials and any related filings.*
 
@@ -767,7 +447,7 @@ Claim: The episode presents that Matt Tardio pled no contest in Portland in Octo
 
 Anchored Artifacts: A-2379.1, A-2380.1
 
-Related Nodes: N-2284, N-2
+Related Nodes: N-1216, N-2
 
 Investigative Direction: Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*
 
@@ -781,7 +461,7 @@ Claim: The episode plays a clip of Macklemore stating "Free Palestine" and other
 
 Anchored Artifacts: A-2381.1
 
-Related Nodes: N-2285, N-2286
+Related Nodes: N-1217, N-1218
 
 Investigative Direction: Identify the specific tour stop date and verify the full unedited speech.*
 
@@ -795,7 +475,7 @@ Claim: The episode presents that Robert Kraft led a lobbying effort that resulte
 
 Anchored Artifacts: A-2381.1 (corroborating that Macklemore was dropped, per host framing)
 
-Related Nodes: N-2285, N-2286, N-2287
+Related Nodes: N-1217, N-1218, N-1219
 
 Investigative Direction: Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*
 
@@ -811,7 +491,7 @@ Claim: The episode displays a spreadsheet and host narration enumerating over fi
 
 Anchored Artifacts: A-2382.1
 
-Related Nodes: N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-2322
+Related Nodes: N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230, N-1231, N-1232, N-1233, N-2322
 
 Investigative Direction: Verify each row of the spreadsheet against primary court / news records; document the precise nature of each "connection" (e.g., accusation vs. conviction vs. employment).*
 
@@ -825,7 +505,7 @@ Claim: The episode presents that Mike Mitchell convinced Matt Robinson's househo
 
 Anchored Artifacts: None in this episode
 
-Related Nodes: N-2281
+Related Nodes: N-1213
 
 Investigative Direction: Verify Mitchell's role via investigative reporting and Robinson family statements.*
 
@@ -841,7 +521,7 @@ Claim: The episode presents that Bagley's body cam footage stopped approximately
 
 Anchored Artifacts: None visible in this episode
 
-Related Nodes: N-2282
+Related Nodes: N-1214
 
 Investigative Direction: Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*
 
@@ -857,7 +537,7 @@ Claim: The episode presents that George Zinn was sentenced for child sex crimes 
 
 Anchored Artifacts: None visible in this episode
 
-Related Nodes: N-2283
+Related Nodes: N-1215
 
 Investigative Direction: Pull George Zinn's Utah court records for sentencing outcomes.*
 
@@ -883,8 +563,8 @@ Investigative Direction: Treat as framing premise — testable only via underlyi
 
 ## VI. Optional Flags Summary
 
-- **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graph" — likely "Tony Graf" pending verification. (N-2276)
-- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher" (N-2288); "Michael Aino" (N-2294); "David Frausham" (N-2289); "Phil Goldsbury" (N-2300) — spellings preserved as transcript.
+- **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graph" — likely "Tony Graf" pending verification. (N-1208)
+- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher" (N-1220); "Michael Aino" (N-1226); "David Frausham" (N-1221); "Phil Goldsbury" (N-1232) — spellings preserved as transcript.
 - **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-3449); HSI whistleblower case materials (C-3455); 151-page Leavitt victim statement (C-3456); Bagley body cam records (C-3462); George Zinn sentencing (C-3463).
 - **Claim failed admission test (Artifact Anchor)**: C-3447 (Mitchell background), C-3448 (Bagley background), C-3453 (ICAC/AG administrative control), C-3454 (DOJ 1998 ICAC founding), C-3461 (Mitchell's role in surrender). These are captured as host assertions only.
 - **Transcript ambiguity**: Spelling inconsistencies across names of trafficking-era and roster-connected figures preserved exactly.
@@ -899,7 +579,7 @@ Investigative Direction: Treat as framing premise — testable only via underlyi
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle.
-- [x] People nodes use the global people ledger (N-2275+ series for new entries).
+- [x] People nodes use the global people ledger (N-1207+ series for new entries).
 - [x] Non-person investigation targets use the 2230 series.
 - [x] No speculative claims inscribed as evidence-backed.
 - [x] Names preserved exactly or uncertainty noted.

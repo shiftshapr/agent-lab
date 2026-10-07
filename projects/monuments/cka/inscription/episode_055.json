@@ -87,8 +87,7 @@
             "C-2051"
           ],
           "related_nodes": [
-            "N-704",
-            "N-705"
+            "N-704"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -405,9 +404,7 @@
           "@id": "A-1616.1",
           "ref": "A-1616.1",
           "description": "Nimi Skincare host-read ad: \"Consistency matters more than novelty… It's made here in the USA… the subtle Bible verse tucked inside each box… nimiskincare.com, code candace10\"",
-          "related_claims": [
-            "C-2070"
-          ],
+          "related_claims": [],
           "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,21 +417,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-705",
-      "ref": "N-705",
-      "name": "Text message from Candace Owens to Andrew Kolbett described Charlie Kirk dream stating he was betrayed and Andrew knew m",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "Person",
       "@id": "N-42",
@@ -637,7 +619,6 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-704",
-        "N-705",
         "N-654"
       ]
     },
@@ -658,8 +639,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-703",
-        "N-705"
+        "N-703"
       ]
     },
     {
@@ -893,7 +873,6 @@
       ],
       "related_nodes": [
         "N-704",
-        "N-705",
         "N-654"
       ],
       "tags": [],
@@ -1181,20 +1160,6 @@
       "tags": [],
       "claim_timestamp": "00:29:23–00:30:30",
       "investigative_direction": "Verify the cited statistic against peer-reviewed studies on post-abortion emotional outcomes."
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-2070",
-      "ref": "C-2070",
-      "label": "Nimi Skincare sponsorship: US-made, includes Bible verse in box, code candace10",
-      "claim": "A host-read advertisement stated that Nimi Skincare is made in the USA and includes a Bible verse inside each box; promo code \"candace10\" offered.",
-      "anchored_artifacts": [
-        "A-1616.1"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:46:09",
-      "investigative_direction": "No investigative direction; commercial content."
     },
     {
       "@type": "Claim",

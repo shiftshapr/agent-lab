@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2341, N-2342, N-2343, N-2344, N-2345
-  - Reused Nodes Appearing: N-1, N-1032, N-2275, N-2276, N-2277, N-2278, N-36, N-37, N-46
+  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-36, N-37, N-46
   - (see registers)
 
 # Episode 156 Analysis
@@ -37,7 +37,7 @@ Video Timestamp: 00:02:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3531, N-2276*
+*Related: C-3531*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read); Medium (host paraphrase)
 
-*Related: C-3535, N-2278, N-2342*
+*Related: C-3535, N-1210, N-2342*
 
 **A-2421.2** Continuation of read-aloud warrant excerpt stating Agent Drainy (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read)
 
-*Related: C-3534, C-3535, N-2278, N-2342*
+*Related: C-3534, C-3535, N-1210, N-2342*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:40:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (parody exists)
 
-*Related: N-2275*
+*Related:*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-viewer report; requires verification against testimony transcript)
 
-*Related: C-3536, N-2277, N-2344*
+*Related: C-3536, N-2344*
 
 ---
 
@@ -208,70 +208,6 @@ Episode Count: (series-level)
 
 ---
 
-**N-1032** Erica Kirk
-
-Referenced in comments segment regarding Andrew Wilson partnership and characterization of conduct following Charlie Kirk's death.
-
-Evidence Count: (series-level)
-Claim Count: (series-level)
-Episode Count: (series-level)
-
-*Related: A-2423.1, N-46*
-
----
-
-**N-2275** Mike Mitchell Public Record Anomaly
-
-YouTube creator of AI parody videos referenced and played in this episode; relevant as recurring satirical content producer within the series.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2423.1*
-
----
-
-**N-2276** Brooksby Suicide Narrative Discrepancy
-
-UVU club president previously misidentified in an earlier episode as the person standing by the van in the tent footage; correction issued in this episode.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low (correction target, not a primary investigative subject)
-
-*Related: C-3531, A-2416.1*
-
----
-
-**N-2277** Robinson Apartment Staging Allegation
-
-Officer referenced in viewer comment regarding the partial license-plate match process in testimony.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-3536, A-2424.1, N-2344*
-
----
-
-**N-2278** Phil Lyman Proximity and Behavior Investigation
-
-Agent with the Utah State Bureau of Investigations referenced in the read-aloud search-warrant excerpt as having obtained Quick Quack Car Wash records and footage.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-3534, C-3535, A-2421.1, A-2421.2, N-2342*
-
----
-
 **N-2341** Parking Garage Challenger Vehicle Exhaust Discrepancy
 
 Persistent discrepancy between the dual-exhaust configuration of Tyler Robinson's known towed vehicle (per Fox News) and the quad-exhaust configuration of the Dodge Challenger shown entering the parking garage on September 10.
@@ -294,7 +230,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3534, C-3535, A-2421.1, A-2421.2, N-2278*
+*Related: C-3534, C-3535, A-2421.1, A-2421.2, N-1210*
 
 ---
 
@@ -320,7 +256,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3536, A-2424.1, N-2277*
+*Related: C-3536, A-2424.1*
 
 ---
 
@@ -365,7 +301,7 @@ Claim: The wider-format tent footage shows that the person previously identified
 
 Anchored Artifacts: A-2416.1
 
-Related Nodes: N-2276, N-36
+Related Nodes: N-36
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
 
@@ -379,7 +315,7 @@ Claim: A Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger cl
 
 Anchored Artifacts: A-2419.1
 
-Related Nodes: N-2341, N-2345, Tyler Robinson
+Related Nodes: N-2341, N-2345
 
 Investigative Direction: Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records.
 
@@ -407,7 +343,7 @@ Claim: Per the search warrant as read, Agent Drainy (USBI) obtained records and 
 
 Anchored Artifacts: A-2421.2
 
-Related Nodes: N-2278, N-2342
+Related Nodes: N-1210, N-2342
 
 Investigative Direction: File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents.
 
@@ -421,7 +357,7 @@ Claim: A search warrant for Tyler Robinson's cell phone describes a Google Maps 
 
 Anchored Artifacts: A-2421.1
 
-Related Nodes: N-2278, N-2342, Tyler Robinson
+Related Nodes: N-1210, N-2342
 
 Investigative Direction: Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson.
 
@@ -435,7 +371,7 @@ Claim: According to a viewer comment summarizing testimony, Officer Go Forth's t
 
 Anchored Artifacts: A-2424.1
 
-Related Nodes: N-2277, N-2344
+Related Nodes: N-2344
 
 Investigative Direction: Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching.
 
@@ -463,7 +399,7 @@ Claim: A person seen in the post-Big-Bang footage chanting "USA, USA" — and la
 
 Anchored Artifacts: A-2417.1, A-2417.2
 
-Related Nodes: (none beyond unnamed individual)
+Related Nodes:
 
 Investigative Direction: Compare facial recognition / clothing across the post-incident footage and published news interviews of attendees.
 
@@ -477,7 +413,7 @@ Claim: The host proposes as her favored hypothesis that the 6:38 PM timestamp on
 
 Anchored Artifacts: A-2418.1
 
-Related Nodes: N-2343, Tyler Robinson
+Related Nodes: N-2343
 
 Investigative Direction: Subpoena or otherwise obtain the Dairy Queen surveillance system metadata and time-zone configuration; verify against Mountain Shadows Shopping Center sighting at 12:44 PM and Quick Quack arrival at 12:57 PM.
 
@@ -491,7 +427,7 @@ Claim: The host observes that the sneakers worn by Tyler Robinson in the Dairy Q
 
 Anchored Artifacts: A-2418.1
 
-Related Nodes: N-2343, Tyler Robinson
+Related Nodes: N-2343
 
 Investigative Direction: Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory.
 
@@ -505,7 +441,7 @@ Claim: Based on the dual vs. quad exhaust discrepancy between Fox News's image o
 
 Anchored Artifacts: A-2419.1, A-2420.1
 
-Related Nodes: N-2341, N-2345, Tyler Robinson
+Related Nodes: N-2341, N-2345
 
 Investigative Direction: Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata.
 

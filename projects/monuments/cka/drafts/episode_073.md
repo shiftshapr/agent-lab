@@ -34,7 +34,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
   - Claim Range: C-2364–C-2377
-  - New Nodes Introduced:  N-936, N-939, N-940, N-1577, N-1578, N-1579, N-1580, N-1581
+  - New Nodes Introduced:  N-936, N-940, N-1577, N-1578, N-1579, N-1580, N-1581
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
@@ -201,12 +201,6 @@ Confidence Level: High
 ## IV. Node Register
 
 
-**N-939** Node 939
-
-Node Type: person
-
-*Related:*
-
 **N-91** Laura Loomer
 
 Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.
@@ -360,7 +354,7 @@ Claim: A wedding photo of Charlie and Erika Kirk was visible in the background o
 
 Anchored Artifacts: A-1773.1
 
-Related Nodes: N-1, N-2, N-1577, N-939
+Related Nodes: N-1, N-2, N-1577
 
 Investigative Direction: Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture.
 

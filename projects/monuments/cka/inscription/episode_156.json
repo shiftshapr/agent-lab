@@ -30,7 +30,7 @@
             "C-3531"
           ],
           "related_nodes": [
-            "N-2276"
+            "N-1208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -173,7 +173,7 @@
             "C-3535"
           ],
           "related_nodes": [
-            "N-2278",
+            "N-1210",
             "N-2342"
           ],
           "tags": [],
@@ -192,7 +192,7 @@
             "C-3535"
           ],
           "related_nodes": [
-            "N-2278",
+            "N-1210",
             "N-2342"
           ],
           "tags": [],
@@ -269,7 +269,7 @@
           "description": "AI-generated parody video by AtwareForbidden mocking a Blake Neff interview regarding Candace Owens.",
           "related_claims": [],
           "related_nodes": [
-            "N-2275"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -294,7 +294,7 @@
             "C-3536"
           ],
           "related_nodes": [
-            "N-2277",
+            "N-1209",
             "N-2344"
           ],
           "tags": [],
@@ -355,105 +355,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1032",
-      "ref": "N-1032",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Referenced in comments segment regarding Andrew Wilson partnership and characterization of conduct following Charlie Kirk's death.",
-      "related_artifacts": [
-        "A-2423.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2275",
-      "ref": "N-2275",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "YouTube creator of AI parody videos referenced and played in this episode; relevant as recurring satirical content producer within the series.",
-      "related_artifacts": [
-        "A-2423.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2276",
-      "ref": "N-2276",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "UVU club president previously misidentified in an earlier episode as the person standing by the van in the tent footage; correction issued in this episode.",
-      "related_artifacts": [
-        "A-2416.1"
-      ],
-      "related_claims": [
-        "C-3531"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2277",
-      "ref": "N-2277",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Officer referenced in viewer comment regarding the partial license-plate match process in testimony.",
-      "related_artifacts": [
-        "A-2424.1"
-      ],
-      "related_claims": [
-        "C-3536"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2344"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2278",
-      "ref": "N-2278",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Agent with the Utah State Bureau of Investigations referenced in the read-aloud search-warrant excerpt as having obtained Quick Quack Car Wash records and footage.",
-      "related_artifacts": [
-        "A-2421.1",
-        "A-2421.2"
-      ],
-      "related_claims": [
-        "C-3534",
-        "C-3535"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2342"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2341",
       "ref": "N-2341",
       "name": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
@@ -498,7 +399,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2278"
+        "N-1210"
       ]
     },
     {
@@ -540,7 +441,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2277"
+        "N-1209"
       ]
     },
     {
@@ -565,39 +466,38 @@
       "related_nodes": [
         "N-2341"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Caleb Chilcutt",
+      "type": "person",
+      "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-36",
-        "ref": "N-36",
-        "name": "Caleb Chilcutt",
-        "type": "person",
-        "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      },
-      {
-        "@type": "Person",
-        "@id": "N-46",
-        "ref": "N-46",
-        "name": "Andrew Wilson",
-        "type": "person",
-        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -609,10 +509,8 @@
         "A-2416.1"
       ],
       "related_nodes": [
-        "N-2276"
-      ,
-            "N-36"
-          ],
+        "N-36"
+      ],
       "tags": [],
       "claim_timestamp": "00:01:40",
       "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction."
@@ -661,7 +559,7 @@
         "A-2421.2"
       ],
       "related_nodes": [
-        "N-2278",
+        "N-1210",
         "N-2342"
       ],
       "tags": [],
@@ -678,7 +576,7 @@
         "A-2421.1"
       ],
       "related_nodes": [
-        "N-2278",
+        "N-1210",
         "N-2342"
       ],
       "tags": [],
@@ -695,7 +593,6 @@
         "A-2424.1"
       ],
       "related_nodes": [
-        "N-2277",
         "N-2344"
       ],
       "tags": [],

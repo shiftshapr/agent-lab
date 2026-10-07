@@ -57,7 +57,7 @@ Video Timestamp: 00:03:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3036, N-1208, N-1*
+*Related: C-3036, N-1*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:08:30–00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3027, N-1207, N-2116, N-2117*
+*Related: C-3027, N-2116, N-2117*
 
 **A-2139.2** Filomena Testimony on Communication to FBI/ATF Discontinuing Testing
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:09:25–00:11:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3028, N-1207, N-2117*
+*Related: C-3028, N-2117*
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:15:25–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3029, N-1209, N-2116*
+*Related: C-3029, N-2116*
 
 **A-2140.2** Witness Description of Shooter Attire and Firearm
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:18:30–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3030, C-3031, N-1209*
+*Related: C-3030, C-3031*
 
 **A-2140.3** Witness Report to UVU Command Center
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:19:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3034, N-1209, N-2118*
+*Related: C-3034, N-2118*
 
 ---
 
@@ -301,7 +301,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2138.1, N-1208*
+*Related: A-2138.1*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2139.1, N-1207*
+*Related: A-2139.1*
 
 ---
 
@@ -340,7 +340,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2139.1, A-2139.2, C-3027, C-3028, N-1207*
+*Related: A-2139.1, A-2139.2, C-3027, C-3028*
 
 ---
 
@@ -353,7 +353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2140.3, C-3034, N-1209*
+*Related: A-2140.3, C-3034*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2145.1, C-3041, N-1208*
+*Related: A-2145.1, C-3041*
 
 ---
 
@@ -440,7 +440,7 @@ Claim Timestamp: 00:08:30
 Claim: Sergeant Filomena testified that officers canvassing the scene seized unattended items — including a backpack, jacket, and gloves — near the Folsom (Fulton) Library bus stop.
 
 Anchored Artifacts: A-2139.1
-Related Nodes: N-1207, N-2116, N-2117
+Related Nodes: N-2116, N-2117
 Investigative Direction: Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.
 
 ---
@@ -452,7 +452,7 @@ Claim Timestamp: 00:09:25
 Claim: Sergeant Filomena acknowledged that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.
 
 Anchored Artifacts: A-2139.2
-Related Nodes: N-1207, N-2117
+Related Nodes: N-2117
 Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.
 
 ---
@@ -464,7 +464,7 @@ Claim Timestamp: 00:16:09
 Claim: The anonymous eyewitness recorded on September 25 that the rooftop person executed a tactical movement pattern (rising/lowering in 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-1209, N-2116
+Related Nodes: N-2116
 Investigative Direction: Compare witness description to rooftop video exhibits and to expert definitions of Individual Movement Technique (IMT).
 
 ---
@@ -476,7 +476,7 @@ Claim Timestamp: 00:18:26
 Claim: The anonymous eyewitness described the rooftop person as wearing all-black tactical gear with a face mask; could not determine race because skin was covered.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: N-1209, N-2116
+Related Nodes: N-2116
 Investigative Direction: Cross-reference with police scanner descriptions and the 911 call (A-2141.1); obtain witness's filed written report.
 
 ---
@@ -488,7 +488,7 @@ Claim Timestamp: 00:19:53
 Claim: The eyewitness described the rooftop person's rifle as looking smaller than a .30-06 (and specifically as appearing to be a .223), contradicting the recovered Mauser per the witness.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: N-1209
+Related Nodes:
 Investigative Direction: Cross-reference with recovered weapon evidence and any unfired .223 round testimony referenced at 26:40.
 
 ---
@@ -512,7 +512,7 @@ Claim Timestamp: 00:19:08
 Claim: Host states that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with subsequent federal narrative claims of jeans-only attire.
 
 Anchored Artifacts: (verbally referenced police scanner; not displayed as audio artifact in episode)
-Related Nodes: N-2116, N-1209
+Related Nodes: N-2116
 Investigative Direction: Obtain police scanner audio archive and CAD logs from Sept 10 to verify initial dispatch descriptions.
 
 *Note: This claim is supported by host assertion referencing scanner but no displayed audio artifact was shown; recorded as host concurrence claim per read/display rule analog. Flag: requires verification.*
@@ -526,7 +526,7 @@ Claim Timestamp: 00:14:25
 Claim: The eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called as a prosecution witness despite being willing to testify.
 
 Anchored Artifacts: A-2140.3
-Related Nodes: N-1209, N-2118
+Related Nodes: N-2118
 Investigative Direction: Obtain prosecution witness list for Tyler Robinson trial; confirm whether witness was subpoenaed or deposed.
 
 ---
@@ -552,7 +552,7 @@ Claim Timestamp: 00:03:16
 Claim: Nate Walker, Charlie's executive assistant, told Megyn Kelly that Charlie requested the "freedom shirt" from a small selection brought to the event because it "wasn't controversial"; Walker could not recall other shirt options.
 
 Anchored Artifacts: A-2138.1
-Related Nodes: N-1208, N-1, N-2122
+Related Nodes: N-1, N-2122
 Investigative Direction: Obtain full Megyn Kelly interview and any prior on-record statements by Walker.
 
 ---

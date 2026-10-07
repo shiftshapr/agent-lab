@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+  - New Nodes Introduced:  N-406, N-407, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
   - Reused Nodes Appearing: 
   N-70
 
@@ -36,7 +36,7 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734
-- **New Nodes Introduced:** , N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+- **New Nodes Introduced:** N-406, N-407, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-349 (Tucker Carlson, assumed prior), N-70 (Governor Cox)
 
 ---
@@ -235,7 +235,7 @@ Video Timestamp: 00:52:35–00:54:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party tip; producer-asserted camera locations)
 
-*Related: C-1733, N-409, N-413, N-1328*
+*Related: C-1733, N-413, N-1328*
 
 ---
 
@@ -316,19 +316,6 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1719, C-1726, C-1727, N-1327*
-
----
-
-**N-409** Flock (Automated License Plate Reader Company)
-
-Company operating the LPR network referenced in the viewer comment and producer discussion. Matters because its camera coverage is presented as a potential cross-reference mechanism for the rental vehicles.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1423.1, C-1733, N-1328*
 
 ---
 
@@ -447,7 +434,7 @@ Claim Count: 1
 Episode Count: 1 (this episode)
 Investigative Pressure: Medium
 
-*Related: A-1423.1, C-1733, N-409*
+*Related: A-1423.1, C-1733*
 
 ---
 
@@ -585,7 +572,7 @@ Claim Timestamp: 00:23:51–00:25:54
 Claim: Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a "credible threat" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
-Related Nodes: N-1, N-2, N-349 (assumed), N-1329, N-414
+Related Nodes: N-1, N-2, N-349, N-1329, N-414
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
 
@@ -711,7 +698,7 @@ Claim: Producer confirms that Flock automated license plate reader cameras have 
 
 Anchored Artifacts: A-1423.1
 
-Related Nodes: N-409, N-1328
+Related Nodes: N-1328
 
 Investigative Direction: Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data.
 

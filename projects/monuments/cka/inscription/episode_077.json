@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1013"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,7 +57,7 @@
             "C-2438"
           ],
           "related_nodes": [
-            "N-1013",
+            "N-2",
             "N-963"
           ],
           "tags": [],
@@ -85,7 +85,7 @@
             "C-2450"
           ],
           "related_nodes": [
-            "N-1013",
+            "N-2",
             "N-1599"
           ],
           "tags": [],
@@ -113,7 +113,7 @@
             "C-2451"
           ],
           "related_nodes": [
-            "N-1013",
+            "N-2",
             "N-1598"
           ],
           "tags": [],
@@ -140,7 +140,7 @@
             "C-2441"
           ],
           "related_nodes": [
-            "N-1013"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -383,40 +383,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1013"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1013",
-      "ref": "N-1013",
-      "name": "Erica Kirk (episode spelling: \"Erika Kirk\")",
-      "type": "investigation_target",
-      "description": "Primary biographical subject of episode's evidentiary claims regarding Epstein orbit, Next Model Management, real estate bio, NY real estate license, Romanian Angels, and Antonio Placement Center.",
-      "related_artifacts": [
-        "A-1822.1",
-        "A-1823.1",
-        "A-1824.1",
-        "A-1825.1",
-        "A-1826.1"
-      ],
-      "related_claims": [
-        "C-2438",
-        "C-2439",
-        "C-2440",
-        "C-2441",
-        "C-2450",
-        "C-2451"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1597",
-        "N-1598",
-        "N-1599"
+        "N-2"
       ]
     },
     {
@@ -457,7 +424,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-963",
-        "N-1013"
+        "N-2"
       ]
     },
     {
@@ -570,7 +537,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-961"
       ]
     },
@@ -594,7 +561,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1013"
+        "N-2"
       ]
     },
     {
@@ -616,7 +583,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1013"
+        "N-2"
       ]
     },
     {
@@ -687,24 +654,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -716,7 +682,7 @@
         "A-1822.1"
       ],
       "related_nodes": [
-        "N-1013"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:04:13",
@@ -732,7 +698,7 @@
         "A-1823.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-963"
       ],
       "tags": [],
@@ -749,7 +715,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-1599"
       ],
       "tags": [],
@@ -766,7 +732,7 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-1598"
       ],
       "tags": [],
@@ -783,7 +749,7 @@
         "A-1826.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-1597"
       ],
       "tags": [],
@@ -800,7 +766,7 @@
         "A-1827.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-961",
         "N-1597"
       ],
@@ -818,10 +784,9 @@
         "A-1828.1"
       ],
       "related_nodes": [
-        "N-1600"
-      ,
-            "N-37"
-          ],
+        "N-1600",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline."
@@ -892,10 +857,9 @@
         "A-1832.1"
       ],
       "related_nodes": [
-        "N-1601"
-      ,
-            "N-37"
-          ],
+        "N-1601",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:38:23",
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted."
@@ -910,10 +874,9 @@
         "A-1833.1"
       ],
       "related_nodes": [
-        "N-1602"
-      ,
-            "N-37"
-          ],
+        "N-1602",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:26:36",
       "investigative_direction": "Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles."
@@ -944,7 +907,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-1599"
       ],
       "tags": [],
@@ -961,7 +924,7 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-1013",
+        "N-2",
         "N-1598"
       ],
       "tags": [],

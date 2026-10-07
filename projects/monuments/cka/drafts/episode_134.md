@@ -28,8 +28,8 @@
   - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
   - Claim Range: C-3162–C-3174
   - New Nodes Introduced: N-2158, N-2159, N-2160, N-2161, N-2162, N-2163
-  - Reused Nodes Appearing: N-1022, N-1207, N-1208, N-1209, N-1210, N-1211
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-1022 (Erica Kirk), N-3 (Candace Owens)
+  - Reused Nodes Appearing: N-2, N-1207, N-1208, N-1209, N-1210, N-1211
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 18:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3167, N-1207, N-1022, N-2163*
+*Related: C-3167, N-2163*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 05:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3165, N-1207*
+*Related: C-3165*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 06:39:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3170, N-1209*
+*Related: C-3170*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 08:40:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3164, N-1208, N-2161*
+*Related: C-3164, N-2161*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 12:19:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3171, N-1207, N-2161*
+*Related: C-3171, N-2161*
 
 ---
 
@@ -223,19 +223,6 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: C-3162, C-3163, C-3166, A-2205.1, A-2207.1, N-2158, N-2160, N-2163*
-
----
-
-**N-1022** Erica Kirk
-
-Subject of host claims about funeral arrangements; named in pre-recorded Kolvet interview re: religious status.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-3167, A-2206.1, N-2158, N-2159, N-2163*
 
 ---
 
@@ -321,7 +308,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1022, N-2159, N-2162, N-2163*
+*Related: N-2159, N-2162, N-2163*
 
 ---
 
@@ -334,7 +321,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1022, N-2158, N-2162, N-2163*
+*Related: N-2158, N-2162, N-2163*
 
 *Flag: Allegations from unnamed source; referenced text messages not displayed in episode.*
 
@@ -362,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3164, C-3171, A-2212.1, A-2213.1, N-1207, N-1208*
+*Related: C-3164, C-3171, A-2212.1, A-2213.1*
 
 ---
 
@@ -388,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3167, A-2206.1, N-1022, N-1207, N-2159*
+*Related: C-3167, A-2206.1, N-2, N-2159*
 
 ---
 
@@ -430,7 +417,7 @@ Claim: Blake Neff posted that there exists another rooftop video from a differen
 
 Anchored Artifacts: A-2212.1
 
-Related Nodes: N-1208, N-2161
+Related Nodes: N-2161
 
 Investigative Direction: Verify the claim via courtroom exhibit records; determine whether any second rooftop footage was formally entered as evidence in the preliminary hearing.
 
@@ -444,7 +431,7 @@ Claim: At 8:49 PM on 2026-07-29, the evening after Candace's previous episode, A
 
 Anchored Artifacts: A-2210.1
 
-Related Nodes: N-1207
+Related Nodes:
 
 Investigative Direction: Obtain the original tweet thread; verify timing relative to the rooftop footage release.
 
@@ -474,7 +461,7 @@ Claim: On a pre-recorded appearance on Alex Clark's show prior to the Catholic f
 
 Anchored Artifacts: A-2206.1
 
-Related Nodes: N-1207, N-1022, N-2163
+Related Nodes: N-2163
 
 Investigative Direction: Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange.
 
@@ -518,7 +505,7 @@ Claim: Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage 
 
 Anchored Artifacts: A-2211.1
 
-Related Nodes: N-1209
+Related Nodes:
 
 Investigative Direction: Verify original tweet content and timing.
 
@@ -534,7 +521,7 @@ Claim: On a podcast referred to by the host as the "Beavis and Butt-Head show," 
 
 Anchored Artifacts: A-2213.1
 
-Related Nodes: N-1207, N-2161
+Related Nodes: N-2161
 
 Investigative Direction: Identify the actual podcast; obtain the full episode; verify whether any second rooftop footage was formally entered as evidence.
 

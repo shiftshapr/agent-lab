@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-499, N-500, N-501, N-502, N-503, N-504, N-505, N-506, N-508, N-509, N-512, N-513, N-1387, N-1388, N-1389, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
+  - New Nodes Introduced:  N-499, N-500, N-501, N-502, N-503, N-512, N-1387, N-1388, N-1389, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
   - Reused Nodes Appearing: N-1003
   - (see registers)
 
@@ -197,42 +197,6 @@ Confidence Level: High (as referenced comment)
 
 ## IV. Node Register
 
-
-**N-504** Charlie Kirk asserted that more than one person was involved in the JFK assassination
-
-Node Type: person
-
-*Related:*
-
-**N-505** Charlie Kirk asserted that more than one person was involved in the JFK assassination
-
-Node Type: person
-
-*Related:*
-
-**N-506** Charlie Kirk asserted that more than one person was involved in the JFK assassination
-
-Node Type: person
-
-*Related:*
-
-**N-508** Charlie Kirk asserted that more than one person was involved in the JFK assassination
-
-Node Type: person
-
-*Related:*
-
-**N-509** Charlie Kirk asserted that more than one person was involved in the JFK assassination
-
-Node Type: person
-
-*Related:*
-
-**N-513** Charlie Kirk asserted that more than one person was involved in the JFK assassination
-
-Node Type: person
-
-*Related:*
 
 ### People
 
@@ -546,7 +510,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (political-context reference, not artifact-backed as investigative claim)
 
-*Related: N-504, N-505, N-506*
+*Related:*
 
 ---
 
@@ -572,7 +536,7 @@ Claim Timestamp: 00:02:03–00:02:43
 Claim: In a May 2025 recorded clip, Charlie Kirk stated that more than one person was involved in the JFK assassination and that the lone-Oswald reading was insufficient.
 
 Anchored Artifacts: A-1513.1
-Related Nodes: N-1, N-504, N-505, N-506, N-508, N-509, N-513
+Related Nodes: N-1
 
 Investigative Direction: Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository).
 
@@ -824,7 +788,7 @@ A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 **Claim Range:** C-1862–C-1879
 
 **New Nodes Introduced (people):**
-N-102 (Kash Patel), N-75 (Megyn Kelly), N-499 (Pierre Falcone), N-500 (Arcadi Gaydamak), N-501 (Jean-Christophe Mitterrand), N-502 (François Mitterrand), N-503 (Jesse Kege), N-504 (Milo Yiannopoulos), N-505 (Tim Pool), N-506 (George Santos), N-434 (Dan Flood), N-508 (Frank Turek), N-509 (Nick Fuentes), N-217 (John Mappin), N-444 (Bari Weiss), N-512 (Hodge Twins), N-513 (Tucker Carlson), N-97 (Mel / Village Crazy Lady), N-267 (Ryan Matta)
+N-102 (Kash Patel), N-75 (Megyn Kelly), N-499 (Pierre Falcone), N-500 (Arcadi Gaydamak), N-501 (Jean-Christophe Mitterrand), N-502 (François Mitterrand), N-503 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-434 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-217 (John Mappin), N-444 (Bari Weiss), N-512 (Hodge Twins),  (Tucker Carlson), N-97 (Mel / Village Crazy Lady), N-267 (Ryan Matta)
 
 **New Nodes Introduced (investigation targets):**
 N-1387, N-1388, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396

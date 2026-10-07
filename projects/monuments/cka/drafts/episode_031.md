@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-389, N-391, N-1316, N-1317
+  - New Nodes Introduced:  N-389, N-1316, N-1317
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:56:01–00:57:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1692, N-1318 (likely-existing)*
+*Related: C-1692*
 
 **A-1398.5** Today's Comment: "Mint Julip" — Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adlesen"
 
@@ -294,18 +294,6 @@ Confidence Level: High
 ## 4. Node Register
 
 
-**N-391** Node 391
-
-Node Type: person
-
-*Related:*
-
-**N-1318** Node 1318
-
-Node Type: topic
-
-*Related:*
-
 
 **N-16** Frank Turek
 
@@ -381,7 +369,7 @@ Claim Timestamp: 00:02:06
 Claim: In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
 
 Anchored Artifacts: A-1391.1
-Related Nodes: N-16, N-1, N-391
+Related Nodes: N-16, N-1
 Investigative Direction: Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.
 
 ---
@@ -429,7 +417,7 @@ Claim Timestamp: 00:12:54
 Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at "Skyline," and that Camino has "followed the procedures" required of him and "served this community."
 
 Anchored Artifacts: A-1394.1
-Related Nodes: N-389, Rob McCoy (likely-existing node)
+Related Nodes: N-389
 Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
 
 ---
@@ -441,7 +429,7 @@ Claim Timestamp: 00:12:54
 Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel "home fellowship" program, which placed him "inside the homes of children," and that McCoy framed resulting criticism as "gossip and slander."
 
 Anchored Artifacts: A-1394.1
-Related Nodes: N-389, N-1316, Rob McCoy (likely-existing node)
+Related Nodes: N-389, N-1316
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
 ---
@@ -465,7 +453,7 @@ Claim Timestamp: 00:12:54
 Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of placing Camino with children as driven by "gossip and slander" and states he made a personal call to "protect" Camino's family.
 
 Anchored Artifacts: A-1394.1
-Related Nodes: N-389, N-1316, Rob McCoy (likely-existing node)
+Related Nodes: N-389, N-1316
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
 ---
@@ -477,7 +465,7 @@ Claim Timestamp: 00:40:32
 Claim: In the played clip, a reporter asks Tucker Carlson to distance himself from Candace Owens; Carlson refuses, stating he would "die before" playing along, and calls the request a "ritual" without moral authority.
 
 Anchored Artifacts: A-1395.1
-Related Nodes: Tucker Carlson (likely-existing node), Candace Owens (likely-existing node), N-1
+Related Nodes: N-1
 Investigative Direction: Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.
 
 ---
@@ -489,7 +477,7 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Related Nodes: N-314, Tim Dillon (likely-existing node), Kash Patel (likely-existing node), N-1317
+Related Nodes: N-314, N-1317
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
 ---
@@ -513,7 +501,7 @@ Claim Timestamp: 00:00:01
 Claim: The episode plays a throwback clip of Candace Owens and Charlie Kirk co-hosting a PragerU segment in which they discuss the type of allies one wants during crisis ("foxhole" allies), with Kirk stating one should identify "where the bullets are coming from" rather than deny their existence.
 
 Anchored Artifacts: A-1390.1
-Related Nodes: N-1, Candace Owens (likely-existing node)
+Related Nodes: N-1
 Investigative Direction: Identify the original PragerU episode and air date; locate full unedited segment.
 
 ---

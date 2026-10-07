@@ -89,7 +89,7 @@ Video Timestamp: 00:12:48–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2051, N-704, N-705*
+*Related: C-2051, N-704*
 
 ---
 
@@ -267,18 +267,12 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-read advertisement)
 
-*Related: C-2070*
+*Related:*
 
 ---
 
 ## IV. Node Register
 
-
-**N-705** Text message from Candace Owens to Andrew Kolbett described Charlie Kirk dream stating he was betrayed and Andrew knew m
-
-Node Type: person
-
-*Related:*
 
 **N-42** Andrew Kolvet
 
@@ -393,7 +387,7 @@ Claim Count: 0 (host narrative, NYT artifact references the broader pattern)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-704, N-705, N-654*
+*Related: N-704, N-654*
 
 ---
 
@@ -406,7 +400,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1609.1, N-703, N-705*
+*Related: A-1609.1, N-703*
 
 ---
 
@@ -567,7 +561,7 @@ Claim: The New York Times reported that an internal audit by Japan's Liberal Dem
 
 Anchored Artifacts: A-1609.1
 
-Related Nodes: N-704, N-705, N-654
+Related Nodes: N-704, N-654
 
 Investigative Direction: Locate the cited New York Times article; verify exact figures and any subsequent party responses.
 
@@ -651,7 +645,7 @@ Claim: An unidentified Likud party member, speaking in the Knesset, declared Tuc
 
 Anchored Artifacts: A-1611.1
 
-Related Nodes: N-701, N-1478, Tucker Carlson
+Related Nodes: N-701, N-1478
 
 Investigative Direction: Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.
 
@@ -665,7 +659,7 @@ Claim: Megyn Kelly stated in interview that pro-Israel Jewish friends sent her n
 
 Anchored Artifacts: A-1612.1
 
-Related Nodes: N-1477, Megyn Kelly
+Related Nodes: N-1477
 
 Investigative Direction: Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible.
 
@@ -679,7 +673,7 @@ Claim: Megyn Kelly stated in interview that she was accused of anti-Semitism spe
 
 Anchored Artifacts: A-1612.1
 
-Related Nodes: N-1477, Megyn Kelly
+Related Nodes: N-1477
 
 Investigative Direction: Identify accusers; obtain interview transcript.
 
@@ -693,7 +687,7 @@ Claim: Megyn Kelly stated in interview that Ben Shapiro called her a coward at t
 
 Anchored Artifacts: A-1612.1
 
-Related Nodes: N-1477, Megyn Kelly, Ben Shapiro
+Related Nodes: N-1477
 
 Investigative Direction: Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.
 
@@ -707,7 +701,7 @@ Claim: A top comment from a user identified as "count" claimed that "Erika is th
 
 Anchored Artifacts: A-1613.1
 
-Related Nodes: Erica Kirk, N-1474
+Related Nodes: N-1474
 
 Investigative Direction: Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
 
@@ -735,7 +729,7 @@ Claim: A commenter identified as "67" sent a donation from Argentina.
 
 Anchored Artifacts: A-1613.3
 
-Related Nodes: (none)
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -749,7 +743,7 @@ Claim: A commenter posted this endorsement phrase.
 
 Anchored Artifacts: A-1613.4
 
-Related Nodes: (none)
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -763,7 +757,7 @@ Claim: A commenter asked "What the hell is America's law enforcement? Is everybo
 
 Anchored Artifacts: A-1613.5
 
-Related Nodes: (none)
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -777,7 +771,7 @@ Claim: A commenter expressed admiration and concern for children.
 
 Anchored Artifacts: A-1613.6
 
-Related Nodes: (none)
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -791,7 +785,7 @@ Claim: A commenter urged non-voting for congressional Zionism supporters.
 
 Anchored Artifacts: A-1613.7
 
-Related Nodes: (none)
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -805,7 +799,7 @@ Claim: A commenter described being challenged on Facebook by someone mocking the
 
 Anchored Artifacts: A-1613.8
 
-Related Nodes: (none)
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -819,25 +813,12 @@ Claim: A host-read advertisement claimed 7 million American women suffer severe,
 
 Anchored Artifacts: A-1615.1
 
-Related Nodes: (none — sponsor is commercial actor)
+Related Nodes:
 
 Investigative Direction: Verify the cited statistic against peer-reviewed studies on post-abortion emotional outcomes.
 
 ---
 
-**C-2070** Nimi Skincare sponsorship: US-made, includes Bible verse in box, code candace10
-
-Claim Timestamp: 00:46:09
-
-Claim: A host-read advertisement stated that Nimi Skincare is made in the USA and includes a Bible verse inside each box; promo code "candace10" offered.
-
-Anchored Artifacts: A-1616.1
-
-Related Nodes: (none)
-
-Investigative Direction: No investigative direction; commercial content.
-
----
 
 **C-2071** Mark Burnett named as Johnny Moore's Hollywood employer
 

@@ -79,7 +79,7 @@
             "C-3224"
           ],
           "related_nodes": [
-            "N-1024",
+            "N-2",
             "N-2182"
           ],
           "tags": [],
@@ -297,7 +297,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2181",
-            "N-1024"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -465,30 +465,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1024",
-      "ref": "N-1024",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Widow of Charlie Kirk; referenced as the protected subject of the \"Protecting Mrs. Kirk\" group chat and as the individual who invited influencers into the courtroom.",
-      "related_artifacts": [
-        "A-2246.1",
-        "A-2247.1"
-      ],
-      "related_claims": [
-        "C-3222",
-        "C-3224"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2179"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1207",
       "ref": "N-1207",
       "name": "Mike Mitchell Public Record Anomaly",
@@ -536,7 +512,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1024",
+        "N-2",
         "N-2184"
       ]
     },
@@ -635,7 +611,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1207",
-        "N-1024",
+        "N-2",
         "N-3"
       ]
     },
@@ -685,7 +661,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1024"
+        "N-2"
       ]
     },
     {
@@ -779,8 +755,7 @@
         "A-2246.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1024",
+        "N-2",
         "N-3",
         "N-2179"
       ],
@@ -799,7 +774,6 @@
         "A-2246.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-3",
         "N-2179"
       ],
@@ -817,7 +791,7 @@
         "A-2247.1"
       ],
       "related_nodes": [
-        "N-1024",
+        "N-2",
         "N-2181",
         "N-2182"
       ],
@@ -854,9 +828,7 @@
       "anchored_artifacts": [
         "A-2249.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:50–00:37:30",
       "investigative_direction": "Obtain the original Miami-Dade Sheriff's Office email/statement and any incident report; verify timestamp of live stream and platform takedown."
@@ -870,9 +842,7 @@
       "anchored_artifacts": [
         "A-2249.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:00–00:37:30",
       "investigative_direction": "Confirm hospitalization via hospital records or subsequent official statements; verify family-member statement that he was alone in the residence."
@@ -887,7 +857,6 @@
         "A-2251.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2184"
       ],
       "tags": [],
@@ -904,7 +873,6 @@
         "A-2251.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2184"
       ],
       "tags": [],
@@ -921,7 +889,6 @@
         "A-2251.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2184"
       ],
       "tags": [],
@@ -938,7 +905,6 @@
         "A-2251.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2184"
       ],
       "tags": [],
@@ -971,9 +937,7 @@
       "anchored_artifacts": [
         "A-2250.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:46–00:34:05",
       "investigative_direction": "Obtain the full 2010 episode recording for complete context; cross-reference with contemporaneous reporting."
@@ -986,8 +950,7 @@
       "claim": "The host asserts that the \"Protecting Mrs. Kirk\" group chat was organized by an individual previously engaged in PR/intelligence work tied to Israel and the Gaza Humanitarian Fund.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1207",
-        "N-1024",
+        "N-2",
         "N-3",
         "N-2179"
       ],
@@ -1006,7 +969,6 @@
         "A-2253.4"
       ],
       "related_nodes": [
-        "N-1207",
         "N-3",
         "N-2179"
       ],

@@ -30,7 +30,7 @@
 - Claim Range: C-2790–C-2809
   - New Nodes Introduced: N-1712, N-1713, N-1714, N-1715, N-1716, N-1717
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-3, N-8, N-9, N-10, N-11, N-12, N-13, N-14, N-15, N-16, N-34, N-23, N-24, N-27, N-28, N-29, N-32, N-33, N-34, N-39, N-182
+- Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-3, N-8, N-9, N-10, N-11, N-12, N-13, N-14, N-15, N-16, N-23, N-24, N-27, N-28, N-32, N-33, N-182
 
 ---
 
@@ -259,12 +259,6 @@ Node Type: person
 
 *Related:*
 
-**N-29** Node 29
-
-Node Type: person
-
-*Related:*
-
 **N-32** Trump publicly criticized Candace Owens calling her "low IQ"
 
 Node Type: person
@@ -272,18 +266,6 @@ Node Type: person
 *Related:*
 
 **N-33** Trump publicly criticized Candace Owens calling her "low IQ"
-
-Node Type: person
-
-*Related:*
-
-**N-34** Node 34
-
-Node Type: person
-
-*Related:*
-
-**N-39** Node 39
 
 Node Type: person
 
@@ -375,7 +357,7 @@ Claim Timestamp: 00:02:43
 Claim: Trump's Truth Social post called Candace Owens "an extremely low IQ individual" and described her attack on the First Lady of France as "despicable."
 
 Anchored Artifacts: A-2007.1
-Related Nodes: N-3, N-6, N-1715, N-29, N-33, N-34, N-39
+Related Nodes: N-3, N-6, N-1715, N-33
 Investigative Direction: Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.
 
 **C-2791** Washington Post reported Secret Service officers fired at WHCD suspect

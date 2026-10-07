@@ -34,7 +34,7 @@
 
 - Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488
 - Claim Range: C-1803–C-1819
-- New Person Nodes Introduced: N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-476, N-43
+- New Person Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-476, N-43
 - New Investigation Target Nodes Introduced: N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:06:34–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1803, C-1804, C-1805, C-1806, C-1807, C-1808, N-463, N-464, N-465, N-466, N-467, N-468, N-474, N-475, N-1377*
+*Related: C-1803, C-1804, C-1805, C-1806, C-1807, C-1808, N-463, N-464, N-466, N-467, N-468, N-474, N-475, N-1377*
 
 ---
 
@@ -208,12 +208,6 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-
-**N-465** Vanity Fair Article Bundle (DuPont Heir)
-
-Node Type: person
-
-*Related:*
 
 ### Person Nodes
 
@@ -602,7 +596,7 @@ Claim: A viewer commented that the McRonone lawsuit was designed to go nowhere b
 
 Anchored Artifacts: A-1483.1
 
-Related Nodes: None directly
+Related Nodes:
 
 Investigative Direction: Review litigation timing and any sealed filings in the McRonone matter.
 
@@ -630,7 +624,7 @@ Claim: The book "Make Him a Sandwich" by Candace Owens is available for purchase
 
 Anchored Artifacts: A-1485.1
 
-Related Nodes: None
+Related Nodes:
 
 Investigative Direction: Confirm live Amazon listing and stock status.
 

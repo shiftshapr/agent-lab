@@ -17,7 +17,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
   - Claim Range: C-1205-C-1227
-  - New Nodes Introduced: N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-126, N-127, N-1130, N-1131, N-1132, N-1133, N-1134, N-1135, N-1136, N-1137, N-1138, N-1139, N-1140, N-1141, N-1142, N-1143, N-1144, N-1145, N-1146, N-1147
+  - New Nodes Introduced: N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-126, N-127, N-1130, N-1131, N-1132, N-1133, N-1134, N-1135, N-1136, N-1138, N-1139, N-1140, N-1141, N-1142, N-1143, N-1144, N-1145, N-1146, N-1147
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-65, N-66, N-69, N-75, N-5, N-88, N-99, N-84, N-107, N-115, N-1000, N-1077, N-1091
 
 ## 2. Executive Summary
@@ -177,7 +177,7 @@ Confidence: high
 
 **A-1131.1** FBI-released text exchange between accused shooter Tyler Robinson and his partner Lance
 Video Timestamp: 00:53:48–00:55:59
-*Related: C-1224, N-69, N-84, N-1137*
+*Related: C-1224, N-69, N-84, N-1079*
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance... what went wrong? FBI
 Confidence: high
 
@@ -520,16 +520,6 @@ Network whose affiliates were threatened with FCC action over Kimmel
 
 ---
 
-**N-1137** FBI
-
-Node Type: Organization
-Organization Kind: government_agency
-Agency that released Robinson-Lance text chain later mocked by host
-
-*Related: A-1131.1, C-1224*
-
----
-
 **N-1138** FCC
 
 Node Type: Organization
@@ -560,7 +550,7 @@ Node Type: Place
 Place Kind: venue
 University with alleged CIA pipeline mentioned by host
 
-*Related: *
+*Related:*
 
 ---
 
@@ -900,7 +890,7 @@ Claim Timestamp: 00:53:48
 Claim: The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
-Related Nodes: N-69, N-84, N-1137, N-1143
+Related Nodes: N-69, N-84, N-1079, N-1143
 Confidence: high
 Investigative Direction: Verify authenticity of released text chain via independent forensic analysis and metadata.
 

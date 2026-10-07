@@ -251,7 +251,7 @@
             "C-2944"
           ],
           "related_nodes": [
-            "N-1020",
+            "N-2",
             "N-2078"
           ],
           "tags": [],
@@ -270,7 +270,7 @@
             "C-2944"
           ],
           "related_nodes": [
-            "N-1020",
+            "N-2",
             "N-2078"
           ],
           "tags": [],
@@ -365,30 +365,6 @@
         "N-2074",
         "N-2075",
         "N-2076"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1020",
-      "ref": "N-1020",
-      "name": "Erica Kirk (née Frantzve)",
-      "type": "investigation_target",
-      "description": "Subject of signature-comparison artifact and Next Model Management witness thread.",
-      "related_artifacts": [
-        "A-2091.1",
-        "A-2091.2"
-      ],
-      "related_claims": [
-        "C-2944"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2078",
-        "N-2079"
       ]
     },
     {
@@ -647,7 +623,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1020"
+        "N-2"
       ]
     },
     {
@@ -679,7 +655,6 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1207",
         "N-2074"
       ],
       "tags": [],
@@ -697,7 +672,6 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1208",
         "N-2075"
       ],
       "tags": [],
@@ -715,7 +689,6 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1208",
         "N-2075"
       ],
       "tags": [],
@@ -733,7 +706,6 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1208",
         "N-2075"
       ],
       "tags": [],
@@ -840,7 +812,7 @@
         "A-2091.2"
       ],
       "related_nodes": [
-        "N-1020",
+        "N-2",
         "N-2078"
       ],
       "tags": [],

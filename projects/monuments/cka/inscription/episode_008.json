@@ -1054,29 +1054,6 @@
       "organization_kind": "religious_institution"
     },
     {
-      "@type": "Organization",
-      "@id": "N-1137",
-      "ref": "N-1137",
-      "name": "FBI",
-      "type": "organization",
-      "description": "Agency whose public shooter description is contradicted by the rooftop eyewitness.",
-      "related_artifacts": [
-        "A-1154.1"
-      ],
-      "related_claims": [
-        "C-1262",
-        "C-1253",
-        "C-1254",
-        "C-1264"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "organization_kind": "government_agency"
-    },
-    {
       "@type": "Topic",
       "@id": "N-1161",
       "ref": "N-1161",
@@ -1549,7 +1526,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-1137",
+        "N-1079",
         "N-1165"
       ],
       "tags": [],
@@ -1572,7 +1549,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-1137",
+        "N-1079",
         "N-1165",
         "N-147"
       ],
@@ -1737,7 +1714,7 @@
       "related_nodes": [
         "N-102",
         "N-69",
-        "N-1137",
+        "N-1079",
         "N-1165"
       ],
       "tags": [],
@@ -1773,7 +1750,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-145",
-        "N-1137",
+        "N-1079",
         "N-1174"
       ],
       "tags": [],

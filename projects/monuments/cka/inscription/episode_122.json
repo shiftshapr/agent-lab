@@ -733,24 +733,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Person Tyler Bowyer (N-37).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "Person Tyler Bowyer (N-37).",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -793,9 +792,7 @@
       "anchored_artifacts": [
         "A-2105.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Cross-reference the clip with public statements by Rawlinson and with the FBI interview he claims to have given."
@@ -809,9 +806,7 @@
       "anchored_artifacts": [
         "A-2105.2"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:09",
       "investigative_direction": "Identify the second individual and confirm umbrellas' purpose and provenance."
@@ -825,9 +820,7 @@
       "anchored_artifacts": [
         "A-2106.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:46",
       "investigative_direction": "Verify Rawlinson's military service record against official DoD / National Guard records."
@@ -841,9 +834,7 @@
       "anchored_artifacts": [
         "A-2106.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:46",
       "investigative_direction": "Cross-reference with FBI 302 forms, voluntary interview logs, or official acknowledgements."
@@ -857,9 +848,7 @@
       "anchored_artifacts": [
         "A-2106.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:46",
       "investigative_direction": "Compare against published video, ballistic evidence, and emergency response records."
@@ -874,8 +863,7 @@
         "A-2107.1"
       ],
       "related_nodes": [
-        "N-2095",
-        "N-1207"
+        "N-2095"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
@@ -890,9 +878,7 @@
       "anchored_artifacts": [
         "A-2107.2"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:17",
       "investigative_direction": "Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records."
@@ -923,7 +909,6 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2097"
       ],
       "tags": [],
@@ -940,7 +925,6 @@
         "A-2109.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-2097"
       ],
       "tags": [],
@@ -956,7 +940,6 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-2096",
-        "N-1209",
         "N-1210",
         "N-1220",
         "N-2"

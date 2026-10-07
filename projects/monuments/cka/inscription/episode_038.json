@@ -1663,16 +1663,6 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1788",
-      "ref": "C-1788",
-      "label": "Six French Foreign Legion regiments changed command in mid-August 2025",
-      "claim": "",
-      "anchored_artifacts": [],
-      "related_nodes": [],
-      "tags": []
-    },
-    {
-      "@type": "Claim",
       "@id": "C-1798",
       "ref": "C-1798",
       "label": "Brigitte Macron opened Paris Design Week on September 4, 2025",

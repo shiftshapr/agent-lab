@@ -93,7 +93,7 @@ Video Timestamp: 00:10:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207, N-1*
+*Related: N-1*
 
 **A-2133** Blake Neff X Space Audio Bundle
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3018, C-3019, C-3020, N-1207, N-1209, N-2114*
+*Related: C-3018, C-3019, C-3020, N-2114*
 
 **A-2134** Bank of America Merrill Lynch Network Visual Guide Bundle
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:24:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-compiled; underlying claims require separate verification)
 
-*Related: C-3021, C-3022, C-3023, C-3024, N-1209, N-1210, N-1211, N-1213, N-2115, N-37*
+*Related: C-3021, C-3022, C-3023, C-3024, N-1210, N-1211, N-1213, N-2115, N-37*
 
 **A-2135** Andrew Kolvet Tweet Bundle
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:41:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3025, N-1208, N-1*
+*Related: C-3025, N-1*
 
 **A-2136** NCRI Report Bundle
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:52:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207*
+*Related:*
 
 **A-2137.6** Comment from Tony Hill: praising host's investigative work
 
@@ -261,7 +261,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2134.1, C-3022, N-1209, N-2115*
+*Related: A-2134.1, C-3022, N-2115*
 
 **N-1211** UVU Campus Familiarity Question
 
@@ -272,7 +272,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2134.1, C-3021, N-1209, N-2115*
+*Related: A-2134.1, C-3021, N-2115*
 
 **N-1212** Phil Lyman Location Discrepancy
 
@@ -316,7 +316,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2133.1, C-3019, C-3020, N-1207*
+*Related: A-2133.1, C-3019, C-3020*
 
 **N-2115** Bank of America Merrill Lynch Personnel Network
 
@@ -327,7 +327,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-1209, N-1210, N-1211, N-1213, N-37*
+*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-1210, N-1211, N-1213, N-37*
 
 ---
 
@@ -362,7 +362,7 @@ Claim: Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake 
 
 Anchored Artifacts: A-2133.1
 
-Related Nodes: N-1207, N-1
+Related Nodes: N-1
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
 
@@ -374,7 +374,7 @@ Claim: Blake Neff stated during an X Space that he did not recall where the seco
 
 Anchored Artifacts: A-2133.1
 
-Related Nodes: N-1207, N-2114
+Related Nodes: N-2114
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
@@ -386,7 +386,7 @@ Claim: During the X Space, after prompting, Blake Neff indicated that Danny Phil
 
 Anchored Artifacts: A-2133.1
 
-Related Nodes: N-1207, N-1209, N-2114
+Related Nodes: N-2114
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
@@ -398,7 +398,7 @@ Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Ch
 
 Anchored Artifacts: A-2134.1
 
-Related Nodes: N-1209, N-1211, N-2115
+Related Nodes: N-1211, N-2115
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
@@ -410,7 +410,7 @@ Claim: Danny Phillip's father Stephen Phillip was employed at Bank of America Me
 
 Anchored Artifacts: A-2134.1
 
-Related Nodes: N-1210, N-1209, N-2115
+Related Nodes: N-1210, N-2115
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
@@ -446,7 +446,7 @@ Claim: Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had dec
 
 Anchored Artifacts: A-2135.1
 
-Related Nodes: N-1208, N-1
+Related Nodes: N-1
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.
 

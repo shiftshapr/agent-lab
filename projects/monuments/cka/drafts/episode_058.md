@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-729, N-730, N-731, N-733, N-734, N-735, N-736, N-737, N-738, N-739, N-741, N-742, N-744, N-1488, N-1489, N-1490, N-1491, N-1492, N-1493, N-1494, N-1495
+  - New Nodes Introduced: N-729, N-730, N-731, N-733, N-734, N-735, N-736, N-737, N-738, N-741, N-744, N-1488, N-1489, N-1490, N-1491, N-1492, N-1493, N-1494, N-1495
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -201,18 +201,6 @@ Confidence Level: High
 
 ## 4. Node Register
 
-
-**N-739** Node 739
-
-Node Type: person
-
-*Related:*
-
-**N-742** Node 742
-
-Node Type: person
-
-*Related:*
 
 **N-729** Clayton Haugen
 
@@ -492,7 +480,7 @@ Claim: Multiple identified members of the *November Renaissance* cast — includ
 
 Anchored Artifacts: A-1635.1, A-1635.2
 
-Related Nodes: N-729, N-733, N-734, N-735, N-736, N-737, N-1488, N-1489, N-739, N-742
+Related Nodes: N-729, N-733, N-734, N-735, N-736, N-737, N-1488, N-1489
 
 Investigative Direction: Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.
 

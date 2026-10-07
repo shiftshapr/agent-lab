@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2139, N-2140, N-2141, N-2142
-  - Reused Nodes Appearing: N-1, N-1021, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212
+  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,7 +37,7 @@ Video Timestamp: 00:26:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article read/displayed on air; specific quoted phrases)
 
-*Related: C-3083, C-3084, C-3086, C-3089, N-1021, N-2142*
+*Related: C-3083, C-3084, C-3086, C-3089, N-2142*
 
 **A-2164.2** Daily Mail article body — Erika's reported "compassion" and "overwhelming sadness" toward Tyler Robinson at his Utah courtroom appearance
 
@@ -47,7 +47,7 @@ Video Timestamp: 00:28:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3085, N-1021*
+*Related: C-3085, N-2*
 
 **A-2164.3** Daily Mail article body — Erika's reported statements that she will not give Candace "an ounce of her energy"; comparisons to political opponents and to Tyler Robinson
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:36:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3086, N-1021*
+*Related: C-3086, N-2*
 
 **A-2165** SUV Interior Photo Bundle
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-3087, C-3089, C-3104, N-2139, N-1207, N-1209*
+*Related: C-3087, C-3089, C-3104, N-2139*
 
 **A-2165.2** Side-by-side comparison photographs — recreation by host's team of nitrile glove appearance in a comparable door compartment
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3094, C-3095, N-1207, N-1208*
+*Related: C-3094, C-3095*
 
 **A-2166.2** Local news live footage (cited as Fox 5 Atlanta newsroom feed out of Utah) of group walking into Timpanogos Regional Hospital; timing anchored to Donald Trump tweet posted at 1:02 PM local time
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:18:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news segment displayed; Trump tweet quoted)
 
-*Related: C-3094, C-3095, N-1, N-1207*
+*Related: C-3094, C-3095*
 
 **A-2167** Mikey McCoy Call Logs Bundle
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (logs displayed)
 
-*Related: C-3092, C-3093, C-3096, N-2141, N-1208*
+*Related: C-3092, C-3093, C-3096, N-2141*
 
 **A-2168** Blake Neff Audio Bundle
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3092, C-3097, N-1207*
+*Related: C-3092, C-3097*
 
 **A-2169** Sandy Hook Comparison Rhetoric Bundle
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:45:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3101, N-1207, N-2140*
+*Related: C-3101, N-2140*
 
 **A-2169.4** Viva Frei clip on the Charlie Kirk Show invoking "Sandy Hook 2.0" framing of conspiracy theories around Kirk's death
 
@@ -235,17 +235,6 @@ Episode Count: ≥1
 Investigative Pressure: High
 
 *Related: A-2169.5, A-2169.6, C-3103, C-3104*
-
-**N-1021** Erika Kirk (name spelling uncertain — see Optional Flags)
-
-Subject of Daily Mail article quotes (A-2164.1–A-2164.3); reported statements attributed via family friend and family member sources.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: ≥1
-Investigative Pressure: High
-
-*Related: A-2164.1, A-2164.2, A-2164.3, C-3083, C-3085, C-3086*
 
 **N-1207** Mike Mitchell Public Record Anomaly
 
@@ -344,7 +333,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2167.1, A-2168.1, C-3092, C-3093, C-3096, C-3097, N-1207, N-1208*
+*Related: A-2167.1, A-2168.1, C-3092, C-3093, C-3096, C-3097*
 
 **N-2142** Daily Mail Article Source Identity
 
@@ -355,7 +344,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2164.1, A-2164.2, A-2164.3, C-3083, N-1021*
+*Related: A-2164.1, A-2164.2, A-2164.3, C-3083, N-2*
 
 ---
 
@@ -369,7 +358,7 @@ Claim: The Daily Mail article published 2026-07-20 quotes a "family friend" as d
 
 Anchored Artifacts: A-2164.1
 
-Related Nodes: N-1021, N-2142
+Related Nodes: N-2142
 
 Investigative Direction: Identify the family friend (host speculates Tracy Martin); obtain confirmation or denial from Turning Point USA.
 
@@ -383,7 +372,7 @@ Claim: When the Daily Mail reporter reached out to Turning Point USA spokespeopl
 
 Anchored Artifacts: A-2164.1
 
-Related Nodes: N-1021, N-2142
+Related Nodes: N-2142
 
 Investigative Direction: Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications.
 
@@ -397,7 +386,7 @@ Claim: The Daily Mail article reports that Erika Kirk, upon seeing Tyler Robinso
 
 Anchored Artifacts: A-2164.2
 
-Related Nodes: N-1021
+Related Nodes: N-2
 
 Investigative Direction: Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss).
 
@@ -411,7 +400,7 @@ Claim: The Daily Mail article reports Erika Kirk's stated position that she will
 
 Anchored Artifacts: A-2164.3
 
-Related Nodes: N-1021
+Related Nodes: N-2
 
 Investigative Direction: Verify quoted statements with original article; identify "family friend" vs. "family member" sourcing distinction.
 
@@ -425,7 +414,7 @@ Claim: A newly released photograph of the SUV's left rear door compartment shows
 
 Anchored Artifacts: A-2165.1
 
-Related Nodes: N-2139, N-1207, N-1209
+Related Nodes: N-2139
 
 Investigative Direction: Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene.
 
@@ -467,7 +456,7 @@ Claim: The host describes an informal "double-blind" comparison in which multipl
 
 Anchored Artifacts: A-2165.1
 
-Related Nodes: N-2139, N-1209
+Related Nodes: N-2139
 
 Investigative Direction: Methodology is informal and unsystematic; results should not be treated as expert identification.
 
@@ -495,7 +484,7 @@ Claim: Phone records show Mikey McCoy making a call to Rob McCoy, merging the ca
 
 Anchored Artifacts: A-2167.1
 
-Related Nodes: N-2141, N-1208
+Related Nodes: N-2141
 
 Investigative Direction: Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.
 
@@ -509,7 +498,7 @@ Claim: Blake Neff's recorded account describes Mikey McCoy as immediately callin
 
 Anchored Artifacts: A-2168.1
 
-Related Nodes: N-2141, N-1207
+Related Nodes: N-2141
 
 Investigative Direction: Reconcile with phone log evidence (which suggests Elizabeth was called first, with Erika added 3 minutes later); assess Neff's recall accuracy versus contemporaneous records.
 
@@ -523,7 +512,7 @@ Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy
 
 Anchored Artifacts: A-2166.2, A-2166.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes:
 
 Investigative Direction: Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs.
 
@@ -537,7 +526,7 @@ Claim: Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distin
 
 Anchored Artifacts: A-2166.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes:
 
 Investigative Direction: Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments.
 
@@ -551,7 +540,7 @@ Claim: Danny Philip — newly hired Turning Point USA employee — was at the UV
 
 Anchored Artifacts: A-2167.1, A-2166.1
 
-Related Nodes: N-2141, N-1208
+Related Nodes: N-2141
 
 Investigative Direction: Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content.
 
@@ -565,7 +554,7 @@ Claim: Blake Neff describes Mikey McCoy calling his father Rob McCoy and asking 
 
 Anchored Artifacts: A-2168.1
 
-Related Nodes: N-2141, N-1207
+Related Nodes: N-2141
 
 Investigative Direction: Confirm against authenticated phone records.
 
@@ -623,7 +612,7 @@ Claim: In a Twitter Space audio appearance, Blake Neff specifically stated that 
 
 Anchored Artifacts: A-2169.3
 
-Related Nodes: N-1207, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Obtain full unedited Twitter Space audio; document exact quoted text.
 

@@ -30,8 +30,8 @@
             "C-3513"
           ],
           "related_nodes": [
-            "N-2275",
-            "N-2276"
+            "N-1207",
+            "N-1208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-3515"
           ],
           "related_nodes": [
-            "N-2277"
+            "N-1209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,7 +87,7 @@
             "C-3518"
           ],
           "related_nodes": [
-            "N-2275"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -113,7 +113,7 @@
             "C-3519"
           ],
           "related_nodes": [
-            "N-2276"
+            "N-1208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "C-3520"
           ],
           "related_nodes": [
-            "N-2282"
+            "N-1214"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-3521"
           ],
           "related_nodes": [
-            "N-2279"
+            "N-1211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -191,7 +191,7 @@
             "C-3522"
           ],
           "related_nodes": [
-            "N-2283"
+            "N-1215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,7 +217,7 @@
             "C-3523"
           ],
           "related_nodes": [
-            "N-2284"
+            "N-1216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,197 +349,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2275",
-      "ref": "N-2275",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Podcaster/editor identified in the episode as the host of a joint sitdown with Jeremy Boring, framed as fixated on Candace Owens.",
-      "related_artifacts": [
-        "A-2405.1",
-        "A-2407.1"
-      ],
-      "related_claims": [
-        "C-3513",
-        "C-3516",
-        "C-3517",
-        "C-3518"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2276",
-      "ref": "N-2276",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Former Daily Wire CEO identified in the episode as Blake Neff's co-host; cited as host's former employer; subject of an on-air X post read.",
-      "related_artifacts": [
-        "A-2405.1",
-        "A-2408.1"
-      ],
-      "related_claims": [
-        "C-3513",
-        "C-3519"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2277",
-      "ref": "N-2277",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Comedian and political commentator whose pre-release prediction clip about the Neff/Boring podcast was played on air and endorsed by the host.",
-      "related_artifacts": [
-        "A-2406.1"
-      ],
-      "related_claims": [
-        "C-3514",
-        "C-3515"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2278",
-      "ref": "N-2278",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Commenter on the prior day's episode cited in the comments section (\"Are they still talking about those midterms?\").",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2279",
-      "ref": "N-2279",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "X account holder whose post about the GOP being \"genuinely useless\" was read aloud.",
-      "related_artifacts": [
-        "A-2410.1"
-      ],
-      "related_claims": [
-        "C-3521"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2280",
-      "ref": "N-2280",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Named in the episode as co-donor (with Casey Baugh) of $5M to UVU, partial co-owner of the N88 plane (with Chellain and Derek Maxfield), and operator of an entrepreneurship program housed in the Woodbury building. Information presented by host without a displayed source artifact.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2339"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2281",
-      "ref": "N-2281",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Named in the episode as co-donor (with Chelsea Baugh) of $5M to UVU and partial co-owner of the N88 plane. Information presented by host without a displayed source artifact.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2339"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2282",
-      "ref": "N-2282",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "X account holder whose post about the Save America Act and midterms was read aloud.",
-      "related_artifacts": [
-        "A-2409.1"
-      ],
-      "related_claims": [
-        "C-3520"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2283",
-      "ref": "N-2283",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "X account whose post about prediction markets (Democrats at 59% to sweep both chambers) was read aloud.",
-      "related_artifacts": [
-        "A-2411.1"
-      ],
-      "related_claims": [
-        "C-3522"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2284",
-      "ref": "N-2284",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Vice President whose video clip asking voters for \"another chance\" was played on air.",
-      "related_artifacts": [
-        "A-2412.1"
-      ],
-      "related_claims": [
-        "C-3523"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2337",
       "ref": "N-2337",
       "name": "\"Waluigi\" Unknown Driver",
@@ -599,8 +408,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-2280",
-        "N-2281"
+        "N-1212",
+        "N-1213"
       ]
     },
     {
@@ -640,10 +449,7 @@
         "A-2405.1",
         "A-2407.1"
       ],
-      "related_nodes": [
-        "N-2275",
-        "N-2276"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary."
@@ -657,9 +463,7 @@
       "anchored_artifacts": [
         "A-2406.1"
       ],
-      "related_nodes": [
-        "N-2277"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:23–00:36:12",
       "investigative_direction": "Compare Saucelito's specific predictions against the released episode segment-by-segment."
@@ -674,9 +478,7 @@
         "A-2406.1",
         "A-2407.1"
       ],
-      "related_nodes": [
-        "N-2277"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:12",
       "investigative_direction": "Document the host's specific concurrence with each item of Saucelito's prediction list once the full episode is available."
@@ -690,9 +492,7 @@
       "anchored_artifacts": [
         "A-2407.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
       "investigative_direction": "Obtain full Neff/Boring episode to confirm statement context and surrounding statements."
@@ -706,9 +506,7 @@
       "anchored_artifacts": [
         "A-2407.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
       "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode."
@@ -722,9 +520,7 @@
       "anchored_artifacts": [
         "A-2407.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
       "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode."
@@ -738,9 +534,7 @@
       "anchored_artifacts": [
         "A-2408.1"
       ],
-      "related_nodes": [
-        "N-2276"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:47–00:32:21",
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp."
@@ -755,7 +549,7 @@
         "A-2409.1"
       ],
       "related_nodes": [
-        "N-2282"
+        "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:42:43",
@@ -771,7 +565,7 @@
         "A-2410.1"
       ],
       "related_nodes": [
-        "N-2279"
+        "N-1211"
       ],
       "tags": [],
       "claim_timestamp": "00:42:43",
@@ -787,7 +581,7 @@
         "A-2411.1"
       ],
       "related_nodes": [
-        "N-2283"
+        "N-1215"
       ],
       "tags": [],
       "claim_timestamp": "00:44:50",
@@ -803,7 +597,7 @@
         "A-2412.1"
       ],
       "related_nodes": [
-        "N-2284"
+        "N-1216"
       ],
       "tags": [],
       "claim_timestamp": "00:46:45",

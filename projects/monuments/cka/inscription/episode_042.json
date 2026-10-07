@@ -34,7 +34,7 @@
             "N-494",
             "N-224",
             "N-1",
-            "N-1002",
+            "N-2",
             "N-1384"
           ],
           "tags": [],
@@ -56,7 +56,7 @@
           ],
           "related_nodes": [
             "N-224",
-            "N-1002",
+            "N-2",
             "N-1",
             "N-1384"
           ],
@@ -86,7 +86,7 @@
           "related_nodes": [
             "N-224",
             "N-1384",
-            "N-1002"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
           "related_nodes": [
             "N-481",
             "N-1",
-            "N-1002"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -138,8 +138,6 @@
           "description": "John McCain addressing Ukraine protesters (Maidan material)",
           "related_claims": [],
           "related_nodes": [
-            "N-495",
-            "N-496",
             "N-1382"
           ],
           "tags": [],
@@ -470,36 +468,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
-      "name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
-      "name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -519,28 +487,6 @@
       ],
       "tags": [],
       "evidence_count": 5,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1002",
-      "ref": "N-1002",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Spouse of Charlie Kirk; identified in this episode as having directed and approved the TPUSA invitation response. Name spelled \"Erika\" throughout this episode — see Optional Flags.",
-      "related_artifacts": [
-        "A-1501.2",
-        "A-1502.1"
-      ],
-      "related_claims": [
-        "C-1839",
-        "C-1840",
-        "C-1861"
-      ],
-      "tags": [],
-      "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high"
@@ -826,7 +772,7 @@
         "N-224",
         "N-42",
         "N-494",
-        "N-1002"
+        "N-2"
       ]
     },
     {
@@ -885,11 +831,9 @@
       ],
       "related_nodes": [
         "N-224",
-        "N-1002",
+        "N-2",
         "N-1",
-        "N-1384",
-        "N-495",
-        "N-496"
+        "N-1384"
       ],
       "tags": [],
       "claim_timestamp": "00:05:37",
@@ -907,7 +851,7 @@
       "related_nodes": [
         "N-224",
         "N-1384",
-        "N-1002"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",
@@ -925,7 +869,7 @@
       "related_nodes": [
         "N-224",
         "N-1384",
-        "N-1002"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
@@ -993,7 +937,7 @@
       "related_nodes": [
         "N-224",
         "N-1384",
-        "N-1002"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:46:13",
@@ -1243,7 +1187,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-1002",
+        "N-2",
         "N-1384"
       ],
       "tags": [],
@@ -1261,7 +1205,7 @@
       ],
       "related_nodes": [
         "N-224",
-        "N-1002",
+        "N-2",
         "N-1384",
         "N-42"
       ],

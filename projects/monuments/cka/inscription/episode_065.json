@@ -60,7 +60,6 @@
           ],
           "related_nodes": [
             "N-798",
-            "N-816",
             "N-1523"
           ],
           "tags": [],
@@ -439,36 +438,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
-      "name": "Piers Morgan Show Clip Bundle (Bassem Youssef appearance)",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-816",
-      "ref": "N-816",
-      "name": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-798",
       "ref": "N-798",
       "name": "Bassem Youssef",
@@ -674,8 +643,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-798",
-        "N-816"
+        "N-798"
       ]
     },
     {
@@ -734,9 +702,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-804"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -958,8 +924,7 @@
       "related_nodes": [
         "N-798",
         "N-298",
-        "N-1524",
-        "N-804"
+        "N-1524"
       ],
       "tags": [],
       "claim_timestamp": "00:43:21",
@@ -992,7 +957,6 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-816",
         "N-1523"
       ],
       "tags": [],

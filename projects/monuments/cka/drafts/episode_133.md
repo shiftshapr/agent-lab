@@ -329,7 +329,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1208, N-1209*
+*Related:*
 
 ---
 
@@ -433,7 +433,7 @@ Investigative Direction: Obtain the underlying court exhibit / text record image
 Claim Timestamp: 00:35:52–00:38:42
 Claim: The Iranian Lego propaganda video shown contains repeated lyrics/text referencing "Epstein" and "Epstein, Epstein, Epstein."
 Anchored Artifacts: A-2202.1
-Related Nodes: N/A (independent of investigation-target nodes)
+Related Nodes:
 Investigative Direction: Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party.
 
 ---
@@ -443,7 +443,7 @@ Investigative Direction: Confirm by independent review of the video file; verify
 Claim Timestamp: 00:40:55–00:41:40
 Claim: A clip shows Erika Kirk instructing TPUSA chapter leaders, "Be a table," and elaborating that when one's table is destroyed, one should become "a roving table yourself."
 Anchored Artifacts: A-2203.1
-Related Nodes: N/A
+Related Nodes:
 Investigative Direction: Obtain original clip and full context (event, date, audience).
 
 ---
@@ -453,7 +453,7 @@ Investigative Direction: Obtain original clip and full context (event, date, aud
 Claim Timestamp: 00:47:04
 Claim: Viewer Becca proposes that bullet fragments potentially lodged in gauze placed in Charlie Kirk's wound could account for bullet-mismatch findings, asking whether the gloves seen at the door were related. Host acknowledges possibility but suggests a medical-examiner-route alternative.
 Anchored Artifacts: A-2204.4
-Related Nodes: N/A
+Related Nodes:
 Investigative Direction: Review medical examiner reports and chain-of-custody records for any gauze or material handling; verify bullet-fragment provenance.
 
 ---

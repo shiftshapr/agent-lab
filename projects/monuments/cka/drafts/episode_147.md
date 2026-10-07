@@ -61,13 +61,13 @@ Video Timestamp: 00:04:59–00:06:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-1207, N-1208, N-1209, N-1227, N-2225*
+*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-1227, N-2225*
 
 **A-2327.1** Judge Graff Count 6 Ruling Audio (excerpt)
 
 Verbatim: "Standing alone, advising another person to risk request counsel and remain silent is lawful and does not establish witness tampering. The state relies however, on the context of the communication, including defendant's earlier alleged instruction to delete this exchange. Viewed together in the light most favorable to the state, those communications permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators."
 
-*Related: C-3358, C-3359, C-3360, N-1207, N-1209, N-2225*
+*Related: C-3358, C-3359, C-3360, N-2225*
 
 **A-2328** Court Audio – Arraignment / Plea Entry
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:08:15–00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3362, C-3363, N-1207, N-1208, N-69*
+*Related: C-3362, C-3363, N-69*
 
 **A-2329** 9/10 Exclusive Footage Bundle
 
@@ -97,13 +97,13 @@ Confidence Level: Medium (footage provenance not independently authenticated in 
 
 Justin Davis running to and opening the passenger-side door of a vehicle he did not arrive in, alongside Blake Neff (also not a passenger of the vehicle).
 
-*Related: C-3364, C-3371, N-1209, N-1212, N-2221*
+*Related: C-3364, C-3371, N-1212, N-2221*
 
 **A-2329.2** "Dip and Meet" Sequence (Danny / Mikey / Justin)
 
 Footage showing Mikey McCoy and Danny Phillip running, meeting in front of Charlie's vehicle, and ducking down together with Justin Davis, as if in coordination.
 
-*Related: C-3365, C-3366, N-1209, N-69, N-1211, N-2219*
+*Related: C-3365, C-3366, N-69, N-1211, N-2219*
 
 **A-2329.3** Backpack Ejection from Trunk
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:10:41–00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (AI-generated; host acknowledges "we used AI here to demonstrate to you what the vehicles are")
 
-*Related: C-3371, C-3372, N-1209, N-69, N-1211, N-1212, N-1213, N-1214, N-2219, N-2221*
+*Related: C-3371, C-3372, N-69, N-1211, N-1212, N-1213, N-1214, N-2219, N-2221*
 
 **A-2331** Security Team Photo
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:42:00–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3379, C-3380, C-3381, C-3382, N-1208, N-1209, N-69, N-2223, N-2224*
+*Related: C-3379, C-3380, C-3381, C-3382, N-69, N-2223, N-2224*
 
 **A-2337** Court Filing – August 11 Defense Filing (incl. page 32)
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:47:55–00:49:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud; full filing not shown)
 
-*Related: C-3380, C-3381, C-3382, C-3383, N-1208, N-1209, N-69, N-1228, N-2223, N-2224*
+*Related: C-3380, C-3381, C-3382, C-3383, N-69, N-1228, N-2223, N-2224*
 
 **A-2338** Court Audio – Blake Neff Testimony
 
@@ -275,7 +275,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2327.1, A-2328, A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, N-69, N-1209, N-2223, N-2224*
+*Related: A-2327.1, A-2328, A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, N-69, N-2223, N-2224*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -563,7 +563,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-3374, C-3375, C-3376, C-3377, C-3378, N-1208, N-1222, N-1223, N-1224, N-1225, N-1213*
+*Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-3374, C-3375, C-3376, C-3377, C-3378, N-1222, N-1223, N-1224, N-1225, N-1213*
 
 **N-2224** Political Motivation Inference Chain (Hearsay Standard)
 
@@ -574,7 +574,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, C-3383, N-1208, N-1209, N-69, N-1228*
+*Related: A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, C-3383, N-69, N-1228*
 
 **N-2225** Defense Witness Tampering Count 6 Constitutional Question
 
@@ -585,7 +585,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2327, A-2327.1, C-3358, C-3359, C-3360, C-3361, N-1207, N-1209, N-69*
+*Related: A-2327, A-2327.1, C-3358, C-3359, C-3360, C-3361, N-69*
 
 ---
 
@@ -599,7 +599,7 @@ Claim: Judge Graff ruled that the state of Utah met its reliable-hearsay probabl
 
 Anchored Artifacts: A-2327, A-2328
 
-Related Nodes: N-1207, N-69
+Related Nodes: N-69
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
@@ -611,7 +611,7 @@ Claim: Judge Graff declined to dismiss Count 6 (witness tampering for the "ask f
 
 Anchored Artifacts: A-2327, A-2327.1
 
-Related Nodes: N-1207, N-1209, N-69, N-2225
+Related Nodes: N-69, N-2225
 
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
@@ -623,7 +623,7 @@ Claim: The court acknowledged on the record that the text "ask for a lawyer and 
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-1207, N-1209, N-2225
+Related Nodes: N-2225
 
 Investigative Direction: Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.
 
@@ -635,7 +635,7 @@ Claim: Count 5 of the information charges witness tampering based specifically o
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-1207, N-1209, N-69, N-2225
+Related Nodes: N-69, N-2225
 
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
@@ -647,7 +647,7 @@ Claim: The court permitted Count 6 to proceed by reference to Count 5, stating t
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-1207, N-1209, N-69, N-2225
+Related Nodes: N-69, N-2225
 
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
@@ -659,7 +659,7 @@ Claim: On September 1, 2026, Tyler Robinson, through counsel, entered pleas of n
 
 Anchored Artifacts: A-2328
 
-Related Nodes: N-1207, N-1208, N-69
+Related Nodes: N-69
 
 Investigative Direction: Verify against the court's docket entry; track any subsequent plea amendments.
 
@@ -671,7 +671,7 @@ Claim: Defense counsel waived reading of the information at the arraignment hear
 
 Anchored Artifacts: A-2328
 
-Related Nodes: N-1208, N-69
+Related Nodes: N-69
 
 Investigative Direction: Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.
 
@@ -803,7 +803,7 @@ Claim: On September 1, 2026, Matt Walsh posted on X: "We have a lawyer justifyin
 
 Anchored Artifacts: A-2332
 
-Related Nodes: N-1222, N-1208, N-2223
+Related Nodes: N-1222, N-2223
 
 Investigative Direction: Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.
 
@@ -815,7 +815,7 @@ Claim: The host explicitly rejects Walsh's "justifying political assassination" 
 
 Anchored Artifacts: A-2332 (host stance on same artifact)
 
-Related Nodes: N-1222, N-1208, N-2223
+Related Nodes: N-1222, N-2223
 
 Investigative Direction: This is a host-stance claim; verification would require Walsh's reply or retraction.
 
@@ -827,7 +827,7 @@ Claim: Viva Frei sent a tweet echoing the "lawyer justifying political assassina
 
 Anchored Artifacts: A-2333
 
-Related Nodes: N-1223, N-1208, N-2223
+Related Nodes: N-1223, N-2223
 
 Investigative Direction: Locate the specific post; verify timestamp.
 
@@ -839,7 +839,7 @@ Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler 
 
 Anchored Artifacts: A-2334
 
-Related Nodes: N-1224, N-1208, N-2223
+Related Nodes: N-1224, N-2223
 
 Investigative Direction: Confirm the post remains on X; verify timestamp.
 
@@ -851,7 +851,7 @@ Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense at
 
 Anchored Artifacts: A-2335
 
-Related Nodes: N-1213, N-1225, N-1208, N-2223
+Related Nodes: N-1213, N-1225, N-2223
 
 Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
@@ -863,7 +863,7 @@ Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, wa
 
 Anchored Artifacts: A-2336, A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-2223, N-2224
+Related Nodes: N-69, N-2223, N-2224
 
 Investigative Direction: Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
@@ -875,7 +875,7 @@ Claim: The state is pursuing sentence enhancements based on the theory that Kirk
 
 Anchored Artifacts: A-2336, A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-2224
+Related Nodes: N-69, N-2224
 
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
@@ -887,7 +887,7 @@ Claim: The state's filings do not identify which specific statements by Charlie 
 
 Anchored Artifacts: A-2336, A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-1228, N-2224
+Related Nodes: N-69, N-1228, N-2224
 
 Investigative Direction: Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.
 
@@ -899,7 +899,7 @@ Claim: The August 11 defense filing, page 32, asserts that the state is "inferri
 
 Anchored Artifacts: A-2337
 
-Related Nodes: N-1208, N-1209, N-69, N-1228, N-2224
+Related Nodes: N-69, N-1228, N-2224
 
 Investigative Direction: Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.
 
@@ -911,7 +911,7 @@ Claim: The state's theory relies in part on the proposition that Lance Twiggs (n
 
 Anchored Artifacts: A-2337
 
-Related Nodes: N-1209, N-69, N-1228, N-2224
+Related Nodes: N-69, N-1228, N-2224
 
 Investigative Direction: Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.
 

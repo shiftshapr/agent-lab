@@ -714,24 +714,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Person Tyler Bowyer (N-37).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "Person Tyler Bowyer (N-37).",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -743,7 +742,6 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2116",
         "N-2117"
       ],
@@ -761,7 +759,6 @@
         "A-2139.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2117"
       ],
       "tags": [],
@@ -778,7 +775,6 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-1209",
         "N-2116"
       ],
       "tags": [],
@@ -795,7 +791,6 @@
         "A-2140.2"
       ],
       "related_nodes": [
-        "N-1209",
         "N-2116"
       ],
       "tags": [],
@@ -811,9 +806,7 @@
       "anchored_artifacts": [
         "A-2140.2"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:53",
       "investigative_direction": "Cross-reference with recovered weapon evidence and any unfired .223 round testimony referenced at 26:40."
@@ -842,8 +835,7 @@
       "claim": "Host states that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with subsequent federal narrative claims of jeans-only attire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2116",
-        "N-1209"
+        "N-2116"
       ],
       "tags": [],
       "claim_timestamp": "00:19:08",
@@ -859,7 +851,6 @@
         "A-2140.3"
       ],
       "related_nodes": [
-        "N-1209",
         "N-2118"
       ],
       "tags": [],
@@ -893,7 +884,6 @@
         "A-2138.1"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1",
         "N-2122"
       ],

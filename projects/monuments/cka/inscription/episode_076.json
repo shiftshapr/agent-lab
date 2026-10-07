@@ -676,28 +676,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
-      "name": "Andrew Kolvet",
-      "type": "person",
-      "description": "TPUSA spokesperson cc'd on A-1815.1 (Owens' inquiry to Erika). Name transcription uncertain — see Optional Flags.",
-      "related_artifacts": [
-        "A-1815.1"
-      ],
-      "related_claims": [
-        "C-2427"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-960",
       "ref": "N-960",
       "name": "Pam Lehman",
@@ -1117,11 +1095,11 @@
       "label": "Blake Neff Confirms Rumble Version of Todd Chris Episode Uncut",
       "claim": "A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.",
       "anchored_artifacts": [
-        "A-1821.1"
+        "A-1821.1",
+        "A-1820.1"
       ],
       "related_nodes": [
-        "N-224",
-        "A-1820.1"
+        "N-224"
       ],
       "tags": [],
       "claim_timestamp": "00:55:30–00:56:41",

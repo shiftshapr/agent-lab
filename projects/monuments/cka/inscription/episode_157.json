@@ -772,69 +772,68 @@
         "N-2",
         "N-2073"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "Maycee Crofts",
+      "type": "person",
+      "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Caleb Chilcutt",
+      "type": "person",
+      "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Kip Crofts",
+      "type": "person",
+      "description": "Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-30",
-        "ref": "N-30",
-        "name": "Maycee Crofts",
-        "type": "person",
-        "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      },
-      {
-        "@type": "Person",
-        "@id": "N-36",
-        "ref": "N-36",
-        "name": "Caleb Chilcutt",
-        "type": "person",
-        "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      },
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      },
-      {
-        "@type": "Person",
-        "@id": "N-40",
-        "ref": "N-40",
-        "name": "Kip Crofts",
-        "type": "person",
-        "description": "Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -851,10 +850,9 @@
         "N-2329",
         "N-424",
         "N-434",
-        "N-2092"
-      ,
-            "N-30"
-          ],
+        "N-2092",
+        "N-30"
+      ],
       "tags": [],
       "claim_timestamp": "00:05:20",
       "investigative_direction": "Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation."
@@ -893,10 +891,8 @@
         "N-2351",
         "N-2073",
         "N-1291",
-        "N-1"
-      ,
-            "N-30"
-          ],
+        "N-30"
+      ],
       "tags": [],
       "claim_timestamp": "00:14:22",
       "investigative_direction": "Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain."
@@ -913,10 +909,9 @@
       "related_nodes": [
         "N-2351",
         "N-1313",
-        "N-2073"
-      ,
-            "N-30"
-          ],
+        "N-2073",
+        "N-30"
+      ],
       "tags": [],
       "claim_timestamp": "00:35:31",
       "investigative_direction": "Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases."
@@ -1009,7 +1004,6 @@
       "related_nodes": [
         "N-2354",
         "N-1",
-        "N-2",
         "N-2073",
         "N-2351"
       ],
@@ -1027,12 +1021,10 @@
         "A-2457.1"
       ],
       "related_nodes": [
-        "N-2351"
-      ,
-            "N-30"
-          ,
-            "N-40"
-          ],
+        "N-2351",
+        "N-30",
+        "N-40"
+      ],
       "tags": [],
       "claim_timestamp": "01:12:05",
       "investigative_direction": "Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”"

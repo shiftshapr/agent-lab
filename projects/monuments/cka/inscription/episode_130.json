@@ -855,24 +855,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-57",
+      "ref": "N-57",
+      "name": "Mitt Romney",
+      "type": "person",
+      "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-57",
-        "ref": "N-57",
-        "name": "Mitt Romney",
-        "type": "person",
-        "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -883,9 +882,7 @@
       "anchored_artifacts": [
         "A-2171.1"
       ],
-      "related_nodes": [
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:35",
       "investigative_direction": "Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date."
@@ -916,8 +913,6 @@
         "A-2173.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-2146"
       ],
       "tags": [],

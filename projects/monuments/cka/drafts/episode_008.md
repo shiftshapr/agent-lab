@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154
   - Claim Range: C-1245-C-1266
   - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-146, N-147, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-66, N-69, N-71, N-5, N-92, N-102, N-110, N-111, N-112, N-134, N-1000, N-1077, N-1125, N-1137
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-66, N-69, N-71, N-5, N-92, N-102, N-110, N-111, N-112, N-134, N-1000, N-1077, N-1125, N-1079
 
 ## 2. Executive Summary
 
@@ -488,18 +488,6 @@ Family faith tradition tied to the Barkers per Reddit-sleuth research.
 
 ---
 
-**N-1137** FBI
-
-Node Type: Organization
-Organization Kind: government_agency
-Agency whose public shooter description is contradicted by the rooftop eyewitness.
-
-*Related: A-1154.1, C-1262, C-1253, C-1254, C-1264*
-
----
-
----
-
 **N-1161** 9/10 Eyewitness Pattern Investigation
 
 Node Type: Topic
@@ -747,7 +735,7 @@ Claim Timestamp: 00:29:07
 Claim: Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
-Related Nodes: N-69, N-1137, N-1165
+Related Nodes: N-69, N-1079, N-1165
 Supports: C-1254
 Confidence: medium
 Investigative Direction: Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.
@@ -761,7 +749,7 @@ Claim Timestamp: 00:30:37
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
-Related Nodes: N-69, N-1137, N-1165, N-147
+Related Nodes: N-69, N-1079, N-1165, N-147
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
 
@@ -858,7 +846,7 @@ Claim Timestamp: 01:16:47
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
 Transcript Snippet: Cash Patel has signified that that is so in his long message that we spoke about yesterday
 Anchored Artifacts: 
-Related Nodes: N-102, N-69, N-1137, N-1165
+Related Nodes: N-102, N-69, N-1079, N-1165
 Confidence: low
 Investigative Direction: Pull the actual Patel thread and timestamp the posts; verify his role and standing.
 
@@ -882,7 +870,7 @@ Claim Timestamp: 01:15:52
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
-Related Nodes: N-145, N-1137, N-1174
+Related Nodes: N-145, N-1079, N-1174
 Confidence: low
 Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.
 

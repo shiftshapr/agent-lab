@@ -685,7 +685,7 @@ Claim Timestamp: 00:44:38
 Claim: Candace identifies John Mappin as the TPUSA donor who helped her and Kirk set up Turning Point UK, identifying him as the donor who made the introductions that enabled the UK launch event where Candace first saw George (Zinn).
 
 Anchored Artifacts: A-1231.1 (context); Candace verbal statement at 00:44:38
-Related Nodes: N-217, N-218, George Zinn (existing node)
+Related Nodes: N-217, N-218
 Investigative Direction: Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.
 
 ---
@@ -697,7 +697,7 @@ Claim Timestamp: 00:04:56
 Claim: Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
-Related Nodes: N-220, N-91 (Tucker Carlson)
+Related Nodes: N-220, N-91
 Investigative Direction: Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.
 
 ---
@@ -745,7 +745,7 @@ Claim Timestamp: 00:38:49
 Claim: Per Lance Twiggs's family (via Candace), Lance was "raided," was "angry about that raid," and was "instantly released back into their care within 6 hours."
 
 Anchored Artifacts: A-1235.2
-Related Nodes: N-3, Lance Twiggs (existing node)
+Related Nodes: N-3
 Investigative Direction: Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.
 
 ---
@@ -757,7 +757,7 @@ Claim Timestamp: 00:40:07
 Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family's knowledge or consent.
 
 Anchored Artifacts: A-1235.3
-Related Nodes: N-3, Tyler Robinson (existing node), Lance Twiggs (existing node), N-1237
+Related Nodes: N-3, N-1237
 Investigative Direction: Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).
 
 ---
@@ -769,7 +769,7 @@ Claim Timestamp: 00:41:24
 Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.
 
 Anchored Artifacts: A-1235.4
-Related Nodes: N-3, George Zinn (existing node), N-1239
+Related Nodes: N-3, N-1239
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
 ---
@@ -781,14 +781,14 @@ Claim Timestamp: 00:36:11
 Claim: Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.
 
 Anchored Artifacts: A-1235.5
-Related Nodes: N-3, George Zinn (existing node), N-1236
+Related Nodes: N-3, N-1236
 Investigative Direction: Identify which federal department is implicated; obtain any employment / family records.
 
 ---
 
 ## VI. Optional Flags
 
-- **Name uncertainty — N-218 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations — "Arena" (introduction and letter attribution), "Reena" (Candace post-reading), "Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
+- **Name uncertainty — N-218 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations — "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
 - **Artifact verbally referenced but not shown — A-1233.1 / N-16 (Frank Turk podcast):** The Frank Turk podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
 - **Artifact read-aloud but audio playback unverified — A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
 - **Claim failed admission test — none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.

@@ -89,7 +89,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-5, N-58*
+*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-58*
 
 ---
 
@@ -892,7 +892,7 @@ Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, hos
 
 Anchored Artifacts: A-2470.1
 
-Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-5, N-58, N-178, N-182, N-209, N-213, N-215, N-223, N-225
+Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-58, N-178, N-182, N-209, N-213, N-215, N-223, N-225
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 

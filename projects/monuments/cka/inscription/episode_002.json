@@ -31,7 +31,7 @@
           "ref": "A-1081.1",
           "description": "Brief clip of Erika Kirk's public remarks after Charlie Kirk's death, played on screen.",
           "related_claims": [
-            "C-1123"
+            "C-3630"
           ],
           "related_nodes": [
             "N-3",
@@ -58,7 +58,7 @@
           "ref": "A-1082.1",
           "description": "Clip of Netanyahu on Fox News less than 24 hours after Kirk's death, holding up the May 2 letter and describing a phone call and Israel invitation.",
           "related_claims": [
-            "C-1124",
+            "C-3631",
             "C-1125",
             "C-1129"
           ],
@@ -539,13 +539,13 @@
         "A-1091.1"
       ],
       "related_claims": [
-        "C-1123",
+        "C-3630",
         "C-1125",
         "C-1126",
         "C-1127",
         "C-1130",
         "C-1132",
-        "C-1124",
+        "C-3631",
         "C-1128",
         "C-1129",
         "C-1136"
@@ -571,7 +571,7 @@
         "C-1128",
         "C-1130",
         "C-1137",
-        "C-1123",
+        "C-3630",
         "C-1126"
       ],
       "tags": [],
@@ -592,7 +592,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -615,7 +615,7 @@
         "A-1092.1"
       ],
       "related_claims": [
-        "C-1124",
+        "C-3631",
         "C-1125",
         "C-1126",
         "C-1129",
@@ -788,7 +788,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -849,7 +849,7 @@
         "A-1089.3"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -968,7 +968,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -988,7 +988,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1009,7 +1009,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1029,7 +1029,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1050,7 +1050,7 @@
         "A-1081.1"
       ],
       "related_claims": [
-        "C-1123"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1088,7 +1088,7 @@
         "A-1085.1"
       ],
       "related_claims": [
-        "C-1124"
+        "C-3631"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1508,8 +1508,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1123",
-      "ref": "C-1123",
+      "@id": "C-3630",
+      "ref": "C-3630",
       "label": "Erika Kirk Addressed Nation with Public Remarks",
       "claim": "Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.",
       "anchored_artifacts": [
@@ -1535,8 +1535,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1124",
-      "ref": "C-1124",
+      "@id": "C-3631",
+      "ref": "C-3631",
       "label": "Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death",
       "claim": "Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.",
       "anchored_artifacts": [

@@ -61,7 +61,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2885, N-1207, N-1210, N-2065*
+*Related: C-2885, N-1210, N-2065*
 
 **A-2063** Andrew Kolvet Response Bundle
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2884, N-1207, N-2065*
+*Related: C-2884, N-2065*
 
 **A-2064** Tyler Bowyer Response Bundle
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2887, N-1209, N-1207, N-2065*
+*Related: C-2887, N-2065*
 
 **A-2066** Charlie Kirk Aspen Audio Bundle
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:05:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2888, C-2889, N-1, N-2, N-1209, N-2061*
+*Related: C-2888, C-2889, N-1, N-2, N-2061*
 
 **A-2066.2** Host-maintained count: 39 days since first donor-faked report
 
@@ -300,7 +300,7 @@ Video Timestamp: 00:49:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relayed from Erika)
 
-*Related: C-2904, C-2908, N-1218, N-2, N-1207, N-2063*
+*Related: C-2904, C-2908, N-1218, N-2, N-2063*
 
 **A-2075.2** Fort Huachuca alibi photograph provided by Andrew Kolvet
 
@@ -312,7 +312,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2905, C-2907, N-1218, N-1207, N-2063*
+*Related: C-2905, C-2907, N-1218, N-2063*
 
 **A-2075.3** Paramount Tactical admission that Fort Huachuca alibi photo boy is not Erika Kirk's son
 
@@ -322,7 +322,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2906, N-1225, N-1218, N-2, N-1207, N-2063*
+*Related: C-2906, N-1225, N-1218, N-2, N-2063*
 
 ---
 
@@ -348,7 +348,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2065.1, A-2066.1, C-2887, N-1207, N-2061, N-2065*
+*Related: A-2065.1, A-2066.1, C-2887, N-2061, N-2065*
 
 **N-1210** Phil Lyman Proximity and Behavior Investigation
 
@@ -359,7 +359,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2062.1, C-2885, N-1207, N-2065*
+*Related: A-2062.1, C-2885, N-2065*
 
 **N-1211** UVU Campus Familiarity Question
 
@@ -447,7 +447,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2075.1, A-2075.2, A-2075.3, C-2904, C-2905, C-2906, C-2907, C-2908, N-2, N-1207, N-2063*
+*Related: A-2075.1, A-2075.2, A-2075.3, C-2904, C-2905, C-2906, C-2907, C-2908, N-2, N-2063*
 
 **N-1219** "Robbie Hild" Identity Verification
 
@@ -513,7 +513,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2075.3, C-2906, C-2907, N-1207, N-1218, N-2063*
+*Related: A-2075.3, C-2906, C-2907, N-1218, N-2063*
 
 **N-1225** Connecticut FBI Field Office Deployment Anomaly
 
@@ -524,7 +524,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2907, N-1207, N-1218, N-1224, N-2063*
+*Related: C-2907, N-1218, N-1224, N-2063*
 
 **N-2061** Charlie Kirk Aspen Audio Authenticity Question
 
@@ -535,7 +535,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2066.1, A-2066.2, A-2067.1, A-2068.1, A-2068.2, A-2069.1, C-2888, C-2889, C-2890, C-2891, C-2892, C-2893, N-1, N-2, N-1209, N-1211, N-1212, N-1214, N-1220*
+*Related: A-2066.1, A-2066.2, A-2067.1, A-2068.1, A-2068.2, A-2069.1, C-2888, C-2889, C-2890, C-2891, C-2892, C-2893, N-1, N-2, N-1211, N-1212, N-1214, N-1220*
 
 **N-2062** Erika Kirk Educational Credentials Discrepancy
 
@@ -557,7 +557,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2075.1, A-2075.2, A-2075.3, C-2904, C-2905, C-2906, C-2907, C-2908, N-2, N-1207, N-1218, N-1224, N-1225*
+*Related: A-2075.1, A-2075.2, A-2075.3, C-2904, C-2905, C-2906, C-2907, C-2908, N-2, N-1218, N-1224, N-1225*
 
 **N-2064** Nick Shirley Background and Backing Verification
 
@@ -579,7 +579,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-1207, N-70, N-1209, N-1210*
+*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-70, N-1210*
 
 ---
 
@@ -602,7 +602,7 @@ Claim: Andrew Kolvet publicly denied divorce rumors via X post, telling Project 
 
 Anchored Artifacts: A-2063.1
 
-Related Nodes: N-1207, N-1210, N-2065
+Related Nodes: N-1210, N-2065
 
 Investigative Direction: Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records.
 
@@ -616,7 +616,7 @@ Claim: An X account identifying as Project Constitution reported that Andrew Kol
 
 Anchored Artifacts: A-2062.1
 
-Related Nodes: N-1210, N-1207, N-2065
+Related Nodes: N-1210, N-2065
 
 Investigative Direction: Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis.
 
@@ -630,7 +630,7 @@ Claim: Tyler Bowyer publicly stated he has had "numerous things like this said a
 
 Anchored Artifacts: A-2064.1
 
-Related Nodes: N-70, N-1207, N-2065, N-37
+Related Nodes: N-70, N-2065, N-37
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 
@@ -644,7 +644,7 @@ Claim: Blake Neff publicly disputed the implication that Andrew Kolvet's wife wa
 
 Anchored Artifacts: A-2065.1
 
-Related Nodes: N-1209, N-1207, N-2065
+Related Nodes: N-2065
 
 Investigative Direction: Verify the original post; check WHCD invitation lists if publicly available.
 
@@ -658,7 +658,7 @@ Claim: Per Candace, donors who were present at the Aspen event assert that the T
 
 Anchored Artifacts: A-2066.1, A-2066.2, A-2069.1
 
-Related Nodes: N-1, N-2, N-1209, N-1214, N-2061
+Related Nodes: N-1, N-2, N-1214, N-2061
 
 Investigative Direction: Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip.
 
@@ -884,7 +884,7 @@ Claim: A photograph allegedly depicting Erika Kirk with her children at Fort Hua
 
 Anchored Artifacts: A-2075.2
 
-Related Nodes: N-1207, N-1218, N-2063
+Related Nodes: N-1218, N-2063
 
 Investigative Direction: Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.
 
@@ -898,7 +898,7 @@ Claim: Paramount Tactical admitted over the weekend that the boy depicted in the
 
 Anchored Artifacts: A-2075.3
 
-Related Nodes: N-1224, N-1207, N-1218, N-2063
+Related Nodes: N-1224, N-1218, N-2063
 
 Investigative Direction: Locate Paramount Tactical's specific admission statement; identify the actual child in the photo.
 
@@ -912,7 +912,7 @@ Claim: Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical
 
 Anchored Artifacts: A-2075.2, A-2075.3
 
-Related Nodes: N-1207, N-1218, N-1224, N-1225, N-2063
+Related Nodes: N-1218, N-1224, N-1225, N-2063
 
 Investigative Direction: Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.
 
@@ -926,7 +926,7 @@ Claim: During Candace's private interview with Erika Kirk, Erika volunteered Bri
 
 Anchored Artifacts: A-2075.1
 
-Related Nodes: N-1218, N-2, N-1207, N-2063
+Related Nodes: N-1218, N-2063
 
 Investigative Direction: Obtain Candace's documented record of the interview; verify the flight records independently.
 

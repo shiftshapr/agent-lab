@@ -388,21 +388,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-317",
-      "ref": "N-317",
-      "name": "Node 317",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-311",
       "ref": "N-311",
       "name": "Michael Starr",
@@ -726,24 +711,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Person Tyler Bowyer (N-37).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "Person Tyler Bowyer (N-37).",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -754,9 +738,7 @@
       "anchored_artifacts": [
         "A-1313.1"
       ],
-      "related_nodes": [
-        "N-317"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:57",
       "investigative_direction": "Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session."

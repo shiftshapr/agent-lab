@@ -167,7 +167,7 @@ Video Timestamp: 00:11:23–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2562, C-2563, C-2564, C-2565, N-1207, N-1208, N-1209, N-1211, N-1634, N-1638*
+*Related: C-2562, C-2563, C-2564, C-2565, N-1211, N-1634, N-1638*
 
 **A-1902.2** Per McCoy's account: Mikey McCoy met the party at the Utah airport; Elizabeth went in with Erica to see Charlie's body; Katherine LoCastro was sent to retrieve an item from the bloodied car
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:18:09–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2566, N-1207, N-1208, N-1210, N-1634*
+*Related: C-2566, N-1210, N-1634*
 
 ---
 
@@ -192,7 +192,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1902.1, A-1902.2, C-2562, C-2563, C-2564, C-2566, N-1208, N-1634, N-1638*
+*Related: A-1902.1, A-1902.2, C-2562, C-2563, C-2564, C-2566, N-1634, N-1638*
 
 **N-1208** Brooksby Suicide Narrative Discrepancy
 
@@ -203,7 +203,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1902.1, A-1902.2, C-2563, C-2566, N-1207, N-1210*
+*Related: A-1902.1, A-1902.2, C-2563, C-2566, N-1210*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -214,7 +214,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1902.1, C-2564, N-1207*
+*Related: A-1902.1, C-2564*
 
 **N-1210** Phil Lyman Proximity and Behavior Investigation
 
@@ -225,7 +225,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1902.2, C-2566, N-1208*
+*Related: A-1902.2, C-2566*
 
 **N-1211** UVU Campus Familiarity Question
 
@@ -236,7 +236,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1902.1, C-2565, N-1207*
+*Related: A-1902.1, C-2565*
 
 **N-1212** Phil Lyman Location Discrepancy
 
@@ -324,7 +324,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1899.1, A-1902.1, C-2567, C-2565, N-1207, N-1633, N-1634, N-1635*
+*Related: A-1899.1, A-1902.1, C-2567, C-2565, N-1633, N-1634, N-1635*
 
 ---
 
@@ -359,7 +359,7 @@ Claim: Nick Searcy confirmed to the host that Andrew Kolvet's livestream was aut
 
 Anchored Artifacts: A-1898.1
 
-Related Nodes: Andrew Kolvet
+Related Nodes:
 
 Investigative Direction: Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs.
 
@@ -371,7 +371,7 @@ Claim: Per Elizabeth McCoy's account, she was the first person called after the 
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-1207, N-1208, N-1638
+Related Nodes: N-1638
 
 Investigative Direction: Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.
 
@@ -383,7 +383,7 @@ Claim: Per Elizabeth McCoy's account, Mikey McCoy rang her first after the shoot
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-1207, N-1208
+Related Nodes:
 
 Investigative Direction: Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants.
 
@@ -395,7 +395,7 @@ Claim: Per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employe
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-1207, N-1209
+Related Nodes:
 
 Investigative Direction: Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.
 
@@ -407,7 +407,7 @@ Claim: Per the host's reporting, Stacey Sheridan was not at the Turning Point US
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: Stacey Sheridan, N-1634, N-1638
+Related Nodes: N-1634, N-1638
 
 Investigative Direction: Obtain independent witness sightings or surveillance/phone-location data for September 10.
 
@@ -419,7 +419,7 @@ Claim: Per Elizabeth McCoy's account, Mikey McCoy met them outside at the Utah a
 
 Anchored Artifacts: A-1902.2
 
-Related Nodes: N-1207, N-1208, N-1210
+Related Nodes: N-1210
 
 Investigative Direction: Cross-reference with Andrew Kolvet's account and hospital visitor logs.
 

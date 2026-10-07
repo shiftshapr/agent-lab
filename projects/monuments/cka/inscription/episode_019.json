@@ -762,24 +762,23 @@
       "related_nodes": [
         "N-262"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1038,10 +1037,9 @@
       "claim": "Host states the camera operator was brought into TPUSA by Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-256"
-      ,
-            "N-37"
-          ],
+        "N-256",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:23:56",
       "investigative_direction": "Obtain TPUSA hiring/contract records for the unnamed AV company operator."
@@ -1054,8 +1052,8 @@
       "claim": "Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-            "N-37"
-          ],
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Verify via TPUSA organizational records."
@@ -1068,10 +1066,9 @@
       "claim": "Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-264"
-      ,
-            "N-37"
-          ],
+        "N-264",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Verify via TPUSA organizational records."

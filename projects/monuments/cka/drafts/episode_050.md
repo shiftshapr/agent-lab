@@ -31,7 +31,7 @@
   - Claim Range: C-1980–C-1988
   - New Nodes Introduced:  N-605, N-606, N-607, N-1441, N-1442, N-1443, N-1444, N-1445
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1, N-2, N-3, N-37
+  - Existing Nodes Reused: N-1, N-2, N-37
 
 ---
 

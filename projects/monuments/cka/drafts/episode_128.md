@@ -60,7 +60,7 @@ Video Timestamp: 00:03:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3058, C-3059, N-1207, N-1208, N-2133*
+*Related: C-3058, C-3059, N-2133*
 
 **A-2153.2** Brigadier General Blaine Holt segment on Newsmax (spine-impact rejection)
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3059, N-1208, N-2133*
+*Related: C-3059, N-2133*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:08:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3060, C-3061, N-1209, N-1210, N-1211, N-2134*
+*Related: C-3060, C-3061, N-1210, N-1211, N-2134*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3071, N-1211, N-1209, N-2132*
+*Related: C-3071, N-1211, N-2132*
 
 **A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital — August 18, 2025
 
@@ -623,7 +623,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2153.1, A-2153.2, C-3058, C-3059, N-1207, N-1208*
+*Related: A-2153.1, A-2153.2, C-3058, C-3059*
 
 ---
 
@@ -636,7 +636,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2154.1, C-3060, N-1209*
+*Related: A-2154.1, C-3060*
 
 ---
 
@@ -702,7 +702,7 @@ Claim: Robert O'Neill publicly stated that the shirt movement on the published f
 
 Anchored Artifacts: A-2153.1
 
-Related Nodes: N-1207, N-2133
+Related Nodes: N-2133
 
 Investigative Direction: Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics.
 
@@ -716,7 +716,7 @@ Claim: Brigadier General Blaine Holt publicly rejected the explanation that the 
 
 Anchored Artifacts: A-2153.2
 
-Related Nodes: N-1208, N-2133
+Related Nodes: N-2133
 
 Investigative Direction: Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials.
 
@@ -730,7 +730,7 @@ Claim: At the September 12, 2025 FBI briefing, Utah Governor Spencer Cox stated 
 
 Anchored Artifacts: A-2154.1
 
-Related Nodes: N-1209, N-2134
+Related Nodes: N-2134
 
 Investigative Direction: Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim.
 
@@ -744,7 +744,7 @@ Claim: Neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox d
 
 Anchored Artifacts: A-2154.1
 
-Related Nodes: N-1210, N-1211, N-1209
+Related Nodes: N-1210, N-1211
 
 Investigative Direction: Inspect full uncut briefing video for any clarifying remarks made by either official before or after the exchange.
 
@@ -884,7 +884,7 @@ Claim: Beau "Bo" Mason was appointed Commissioner of the Utah Department of Publ
 
 Anchored Artifacts: A-2158.1
 
-Related Nodes: N-1211, N-1209, N-2132
+Related Nodes: N-1211, N-2132
 
 Investigative Direction: Verify appointment through the official Utah governor's office announcement or Senate confirmation record.
 

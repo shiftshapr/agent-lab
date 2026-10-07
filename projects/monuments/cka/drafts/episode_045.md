@@ -35,8 +35,8 @@
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-527, N-1403, N-1404
-  - Reused Nodes Appearing: N-1004, N-44
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-1004 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
+  - Reused Nodes Appearing: N-2, N-44
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
 
@@ -55,14 +55,14 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:03:31
 Confidence Level: High
 
-*Related: C-1897, N-1004*
+*Related: C-1897, N-2*
 
 **A-1525.2** Audio Clip: Erika Kirk defends Turning Point USA staff using a Nehemiah wall-building analogy, calling critics "town's people at the base of the hill"
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:34
 Confidence Level: High
 
-*Related: C-1898, N-1004*
+*Related: C-1898, N-2*
 
 ---
 
@@ -73,7 +73,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28
 Confidence Level: High
 
-*Related: C-1899, N-1004*
+*Related: C-1899, N-2*
 
 ---
 
@@ -84,7 +84,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:45
 Confidence Level: High
 
-*Related: C-1900, N-1004, N-44*
+*Related: C-1900, N-2, N-44*
 
 ---
 
@@ -95,14 +95,14 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:32
 Confidence Level: High
 
-*Related: C-1901, N-1004, Tucker Carlson (existing node)*
+*Related: C-1901, N-2, Tucker Carlson (existing node)*
 
 **A-1528.2** Audio Clip: Tucker Carlson states Candace Owens' claim about a disproportionately large number of foreign-registered cell phones at the event is "also true"
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:45
 Confidence Level: High
 
-*Related: C-1902, N-1004, Tucker Carlson (existing node)*
+*Related: C-1902, N-2, Tucker Carlson (existing node)*
 
 **A-1528.3** Audio Clip: Tucker Carlson states people posted on X predicting Charlie Kirk would be killed on a specific date before the assassination; asks whether those posters have been interviewed by FBI
 Event Timestamp: 00:00:00–00:00:01
@@ -165,7 +165,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:55:36
 Confidence Level: High
 
-*Related: C-1911, N-1004*
+*Related: C-1911, N-2*
 
 **A-1531.3** Comment by Lulu Mallerie: "The more I watch, the more fake and gay things are. We all have been given the light of Christ to discern truth from lies..."
 Event Timestamp: 00:00:00–00:00:01
@@ -179,7 +179,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:58:27
 Confidence Level: High
 
-*Related: C-1911, N-1004*
+*Related: C-1911, N-2*
 
 **A-1531.5** Comment by H Biz: "Who was the woman in the pickup truck?"
 Event Timestamp: 00:00:00–00:00:01
@@ -227,19 +227,6 @@ Episode Count: Multiple
 Investigative Pressure: High
 
 *Related: A-1526.1, A-1528.2, A-1528.3, A-1531.1, A-1531.3, C-1899, C-1902, C-1903*
-
----
-
-**N-1004** Erica Kirk
-
-CEO and Chairman of Turning Point USA; widow of Charlie Kirk; primary subject of host critique in this episode. The episode presents her media appearances (Fox News Harris Faulkner, Bari Weiss town hall referenced), her Nehemiah defense of TPUSA staff, her request for burial privacy, and prior publication of the casket video as the central evidentiary focus.
-
-Evidence Count: 7
-Claim Count: 6
-Episode Count: Multiple
-Investigative Pressure: High
-
-*Related: A-1525.1, A-1525.2, A-1526.1, A-1527.1, A-1528.1, A-1528.2, A-1531.4, C-1897, C-1898, C-1899, C-1900, C-1901, C-1902, C-1911*
 
 ---
 
@@ -313,7 +300,7 @@ Claim Timestamp: 00:03:31
 Claim: Erika Kirk asked the public to allow her family privacy regarding the location where Charlie Kirk is buried, citing the need to protect her children, in-laws, and parents, and announced plans for a "museum style" memorial at Turning Point USA.
 
 Anchored Artifacts: A-1525.1
-Related Nodes: N-1004
+Related Nodes: N-2
 
 Investigative Direction: Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.
 
@@ -326,7 +313,7 @@ Claim Timestamp: 00:07:34
 Claim: Erika Kirk defended Turning Point USA staff from criticism using a Nehemiah wall-building analogy, comparing the situation to Nehemiah being called down from building the wall and stating "my silence does not mean that I am complacent" and "I cannot come down. I am busy building."
 
 Anchored Artifacts: A-1525.2
-Related Nodes: N-1004
+Related Nodes: N-2
 
 Investigative Direction: Compile catalog of identified TPUSA staff statements that have been disputed and assess whether Erika's characterization matches the underlying record.
 
@@ -339,7 +326,7 @@ Claim Timestamp: 00:06:28
 Claim: Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying "I love you, I love you, I love you" with another person responding "God bless you."
 
 Anchored Artifacts: A-1526.1
-Related Nodes: N-1004
+Related Nodes: N-2
 
 Investigative Direction: Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.
 
@@ -352,7 +339,7 @@ Claim Timestamp: 00:10:45
 Claim: Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
 
 Anchored Artifacts: A-1527.1
-Related Nodes: N-1004, N-44
+Related Nodes: N-2, N-44
 
 Investigative Direction: Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records.
 
@@ -365,7 +352,7 @@ Claim Timestamp: 00:24:32
 Claim: Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as "factually true."
 
 Anchored Artifacts: A-1528.1
-Related Nodes: N-1004, Tucker Carlson (existing node), Egyptian Aircraft Investigation (existing node)
+Related Nodes: N-2
 
 Investigative Direction: Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.
 
@@ -378,7 +365,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Related Nodes: N-1004, Tucker Carlson (existing node)
+Related Nodes: N-2
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -391,7 +378,7 @@ Claim Timestamp: 00:28:46
 Claim: Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.
 
 Anchored Artifacts: A-1528.3
-Related Nodes: N-1, Tucker Carlson (existing node)
+Related Nodes: N-1
 
 Investigative Direction: Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps.
 
@@ -404,7 +391,7 @@ Claim Timestamp: 00:29:23
 Claim: Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.
 
 Anchored Artifacts: A-1528.4, A-1528.5
-Related Nodes: Tucker Carlson (existing node)
+Related Nodes:
 
 Investigative Direction: Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.
 
@@ -443,7 +430,7 @@ Claim Timestamp: 00:40:00
 Claim: The captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025, has been positively identified as Adam Nef of the U.S. Army's 10th Mountain Division.
 
 Anchored Artifacts: A-1532.2
-Related Nodes: N-518, Fort Huachuca Meeting Investigation (existing node)
+Related Nodes: N-518
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -456,7 +443,7 @@ Claim Timestamp: 00:40:52
 Claim: Joint Task Force at Fort Huachuca operates out of an unmarked building that has been converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.
 
 Anchored Artifacts: A-1532.1
-Related Nodes: Fort Huachuca Meeting Investigation (existing node)
+Related Nodes:
 
 Investigative Direction: Cross-reference with public DoD facility records, news coverage of SCIF construction at Fort Huachuca, and any base expansion announcements.
 
@@ -482,7 +469,7 @@ Claim Timestamp: 00:46:20
 Claim: According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.
 
 Anchored Artifacts: A-1529.1
-Related Nodes: N-1403, Pam Bondi (existing node)
+Related Nodes: N-1403
 
 Investigative Direction: Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.
 
@@ -495,7 +482,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.
 
 Anchored Artifacts: A-1531.2, A-1531.4
-Related Nodes: N-1004
+Related Nodes: N-2
 
 Investigative Direction: Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.
 
@@ -524,7 +511,7 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] People nodes use global people ledger (N-1004, N-527, N-518)
+- [x] People nodes use global people ledger (N-2, N-527, N-518)
 - [x] Non-person investigation targets use 1000 series (N-1403, N-1404)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Nef, Wuka/Huachuca, Erika/Erica)

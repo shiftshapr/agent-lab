@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
 - **Claim Range:** C-2419–C-2436
-- **New Nodes Introduced:** , N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+- **New Nodes Introduced:** N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -385,19 +385,6 @@ Investigative Pressure: Medium
 
 ---
 
-**N-42** Andrew Kolvet
-
-TPUSA spokesperson cc'd on A-1815.1 (Owens' inquiry to Erika). Name transcription uncertain — see Optional Flags.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1815.1, C-2427, N-2*
-
----
-
 **N-960** Pam Lehman
 
 Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.
@@ -667,8 +654,8 @@ Claim Timestamp: 00:55:30–00:56:41
 
 Claim: A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
 
-Anchored Artifacts: A-1821.1
-Related Nodes: N-224, A-1820.1
+Anchored Artifacts: A-1821.1, A-1820.1
+Related Nodes: N-224
 Investigative Direction: Compare the Twitter stream version to the Rumble-hosted version directly.
 
 ---

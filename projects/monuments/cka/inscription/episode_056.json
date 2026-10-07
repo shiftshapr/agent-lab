@@ -326,7 +326,7 @@
             "C-2091"
           ],
           "related_nodes": [
-            "N-1006",
+            "N-2",
             "N-1483"
           ],
           "tags": [],
@@ -364,21 +364,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-717",
-      "ref": "N-717",
-      "name": "Node 717",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -396,28 +381,6 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1006",
-      "ref": "N-1006",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "[Existing node reused.] Subject of Instagram-purge data and PR critique.",
-      "related_artifacts": [
-        "A-1626.1"
-      ],
-      "related_claims": [
-        "C-2091"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1483"
-      ]
     },
     {
       "@type": "Person",
@@ -793,7 +756,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1006"
+        "N-2"
       ]
     },
     {
@@ -811,24 +774,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -840,8 +802,7 @@
         "A-1617.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-717"
+        "N-1"
       ],
       "tags": [],
       "claim_timestamp": "00:04:58",
@@ -928,10 +889,9 @@
       ],
       "related_nodes": [
         "N-70",
-        "N-1480"
-      ,
-            "N-37"
-          ],
+        "N-1480",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:17:23",
       "investigative_direction": "Obtain probate records reflecting beneficiary designations; verify allocation."
@@ -1117,7 +1077,7 @@
         "A-1626.1"
       ],
       "related_nodes": [
-        "N-1006",
+        "N-2",
         "N-1483"
       ],
       "tags": [],

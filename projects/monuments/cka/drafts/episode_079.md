@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-5, N-986, N-987, N-989, N-990, N-993, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
+  - New Nodes Introduced: N-5, N-989, N-990, N-993, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
   - Reused Nodes Appearing: N-1207, N-1208
   - (see registers)
 
@@ -320,7 +320,7 @@ Video Timestamp: 00:45:22–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2490, N-1207, N-50, N-1613*
+*Related: C-2490, N-50, N-1613*
 
 ---
 
@@ -334,7 +334,7 @@ Video Timestamp: 00:46:20–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2491, N-1208, N-50, N-1613*
+*Related: C-2491, N-50, N-1613*
 
 ---
 
@@ -354,18 +354,6 @@ Confidence Level: Medium (read aloud; original screen not displayed)
 
 ## 4. Node Register
 
-
-**N-986** Node 986
-
-Node Type: person
-
-*Related:*
-
-**N-987** Node 987
-
-Node Type: person
-
-*Related:*
 
 **N-1** Charlie Kirk
 
@@ -637,7 +625,7 @@ Claim: Charlie Kirk privately told Candace Owens that Ben Shapiro was "unhinged"
 
 Anchored Artifacts: A-1846.1
 
-Related Nodes: N-1, N-3, N-133, N-1616, N-986, N-987
+Related Nodes: N-1, N-3, N-133, N-1616
 
 Investigative Direction: Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements.
 
@@ -833,7 +821,7 @@ Claim: Laura Loomer posted on X claiming to have "created a list... Of conservat
 
 Anchored Artifacts: A-1858.1
 
-Related Nodes: N-1207, N-50, N-1613
+Related Nodes: N-50, N-1613
 
 Investigative Direction: Verify whether the list has ever been published publicly; check DOJ acknowledgment.
 
@@ -847,7 +835,7 @@ Claim: Alex Stein posted on X: "America is totally compromised by foreign actors
 
 Anchored Artifacts: A-1859.1
 
-Related Nodes: N-1208, N-50, N-1613
+Related Nodes: N-50, N-1613
 
 Investigative Direction: Retrieve original X post via archive.
 

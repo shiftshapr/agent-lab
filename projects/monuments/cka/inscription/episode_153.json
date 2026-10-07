@@ -36,7 +36,7 @@
             "C-3492"
           ],
           "related_nodes": [
-            "N-1030",
+            "N-2",
             "N-2323",
             "N-2325",
             "N-2326"
@@ -247,7 +247,7 @@
             "C-3482"
           ],
           "related_nodes": [
-            "N-2275",
+            "N-1207",
             "N-2324"
           ],
           "tags": [],
@@ -313,94 +313,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1030",
-      "ref": "N-1030",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Listed as filer / family representative in the wrongful-death notice of claim. **Name uncertainty:** transcript spells \"Erika\" throughout; existing ledger may use \"Erica\" — preserve spelling as appearing in source.",
-      "related_artifacts": [
-        "A-2384.1"
-      ],
-      "related_claims": [
-        "C-3466"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1",
-        "N-2323"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2275",
-      "ref": "N-2275",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Announced on air as fill-in host during Candace Owens' maternity leave. Identified as lawyer.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2277",
-      "ref": "N-2277",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "News outlet which obtained and released the May 31, 2022 Tyler Robinson bodycam footage. **Name uncertainty:** transcript also spells as \"Scriptscripts News\" and \"Scripts Media.\"",
-      "related_artifacts": [
-        "A-2389.2",
-        "A-2391.1"
-      ],
-      "related_claims": [
-        "C-3480",
-        "C-3481"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2324",
-        "N-2327"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2278",
-      "ref": "N-2278",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Agency that recorded the May 31, 2022 Tyler Robinson bodycam footage.",
-      "related_artifacts": [
-        "A-2389.1"
-      ],
-      "related_claims": [
-        "C-3483"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2327"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2323",
       "ref": "N-2323",
       "name": "Notice of Claim Timing Anomaly",
@@ -421,7 +333,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-1030"
+        "N-2"
       ]
     },
     {
@@ -450,8 +362,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2277",
-        "N-2278"
+        "N-1209",
+        "N-1210"
       ]
     },
     {
@@ -520,7 +432,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2278"
+        "N-1210"
       ]
     },
     {
@@ -584,24 +496,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "Maycee Crofts",
+      "type": "person",
+      "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-30",
-        "ref": "N-30",
-        "name": "Maycee Crofts",
-        "type": "person",
-        "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -614,7 +525,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1030",
+        "N-2",
         "N-2323"
       ],
       "tags": [],
@@ -810,8 +721,7 @@
         "A-2389.2"
       ],
       "related_nodes": [
-        "N-2324",
-        "N-2277"
+        "N-2324"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
@@ -845,7 +755,6 @@
         "A-2390.1"
       ],
       "related_nodes": [
-        "N-2277",
         "N-2324"
       ],
       "tags": [],
@@ -862,7 +771,6 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-2277",
         "N-2324"
       ],
       "tags": [],
@@ -895,7 +803,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-2278",
+        "N-1210",
         "N-2324",
         "N-2327"
       ],
@@ -957,10 +865,9 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-1"
-      ,
-            "N-30"
-          ],
+        "N-1",
+        "N-30"
+      ],
       "tags": [],
       "claim_timestamp": "00:16:22",
       "investigative_direction": "Recover Microsoft Teams call metadata and any TPUSA event-planning emails."

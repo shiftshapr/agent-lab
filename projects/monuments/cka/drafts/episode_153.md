@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
-  - Reused Nodes Appearing: N-1030, N-2275, N-2277, N-2278, N-30
+  - Reused Nodes Appearing: N-2, N-1207, N-1209, N-1210, N-30
   - (see registers)
 
 ## I. Meta-Data
@@ -33,7 +33,7 @@
 Artifact Families Introduced: A-2384, A-2385, A-2386, A-2387, A-2388, A-2389, A-2390, A-2391, A-2392
 Claim Range: C-3466–C-3492
 New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
-Existing Nodes Reused: N-1 (Charlie Kirk), N-1030 (Erica Kirk), N-3 (Candace Owens), N-2275 (Mike Mitchell Public Record Anomaly), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-1207 (Mike Mitchell Public Record Anomaly), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 
@@ -56,7 +56,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (filing read on air)
 
-*Related: C-3466, C-3474, C-3475, C-3476, C-3477, C-3491, C-3492, N-1030, N-2323, N-2325, N-2326*
+*Related: C-3466, C-3474, C-3475, C-3476, C-3477, C-3491, C-3492, N-2323, N-2325, N-2326*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:48:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (bio info read on air)
 
-*Related: C-3481, C-3482, N-2275, N-2324*
+*Related: C-3481, C-3482, N-2324*
 
 ---
 
@@ -201,19 +201,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1030** Erica Kirk
-
-Listed as filer / family representative in the wrongful-death notice of claim. **Name uncertainty:** transcript spells "Erika" throughout; existing ledger may use "Erica" — preserve spelling as appearing in source.
-
-Evidence Count: 2+
-Claim Count: 2+
-Episode Count: 153
-Investigative Pressure: High
-
-*Related: A-2384.1, C-3466, N-1, N-2323*
-
----
-
 **N-2323** Notice of Claim Timing Anomaly
 
 Persistent target: the wrongful-death notice of claim was filed approximately one year after the incident and two days before the expected release of UVU's independent review of security failures. Investigating whether the filing is preemptive.
@@ -223,7 +210,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2384.1, A-2385.1, C-3466, C-3489, N-1030, N-? (Jeffrey Long), N-? (Astrid Tuminez)*
+*Related: A-2384.1, A-2385.1, C-3466, C-3489, N-2, N-? (Jeffrey Long), N-? (Astrid Tuminez)*
 
 ---
 
@@ -236,7 +223,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2389.1, A-2389.2, A-2391.1, C-3478, C-3479, C-3480, C-3481, C-3482, C-3483, N-? (Tyler Robinson), N-? (Jim Spencer), N-2277, N-2278*
+*Related: A-2389.1, A-2389.2, A-2391.1, C-3478, C-3479, C-3480, C-3481, C-3482, C-3483, N-? (Tyler Robinson), N-? (Jim Spencer), N-1210*
 
 ---
 
@@ -275,7 +262,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2389.1, C-3487, C-3488, N-? (Tyler Robinson), N-2278*
+*Related: A-2389.1, C-3487, C-3488, N-? (Tyler Robinson), N-1210*
 
 ---
 
@@ -321,7 +308,7 @@ TPUSA senior field representative. The UVU independent review names her as direc
 Claim Timestamp: 00:01:29
 Claim: The Kirk family filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-1030, N-? (Jeffrey Long), N-? (Astrid Tuminez), N-2323
+Related Nodes: N-2323
 Investigative Direction: Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.
 
 ---
@@ -341,7 +328,7 @@ Investigative Direction: Cross-reference UVU board minutes and the AP wire story
 Claim Timestamp: 00:04:55
 Claim: Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
 Anchored Artifacts: A-2385.1
-Related Nodes: N-? (Astrid Tuminez), N-2329
+Related Nodes: N-2329
 Investigative Direction: Retrieve Tuminez's original emailed statement to confirm exact wording.
 
 ---
@@ -351,7 +338,7 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 Claim Timestamp: 00:08:00
 Claim: Brian Harpole presented on the Shawn Ryan show that the security team included combat-proven Marines, SEALs, 22-year SWAT veterans, 30-year cop and SWAT commander, and world-renowned jiu-jitsu practitioners.
 Anchored Artifacts: A-2386.1
-Related Nodes: N-? (Brian Harpole), N-? (Shawn Ryan), N-1
+Related Nodes: N-1
 Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.
 
 ---
@@ -371,7 +358,7 @@ Investigative Direction: Compare against TPUSA's security manifest and the event
 Claim Timestamp: 00:27:11
 Claim: The displayed text message exchange between Dan Flood and Chief Jeffrey Long specifically referenced the Sorenson Student Center staircases providing access to walkways on the roof above where CK would be set up.
 Anchored Artifacts: A-2387.1, A-2388.1
-Related Nodes: N-? (Dan Flood), N-? (Jeffrey Long), N-? (Brian Harpole), N-2325
+Related Nodes: N-2325
 Investigative Direction: Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.
 
 ---
@@ -381,7 +368,7 @@ Investigative Direction: Verify the original text thread metadata (timestamps, s
 Claim Timestamp: 00:30:35
 Claim: Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
 Anchored Artifacts: A-2387.1
-Related Nodes: N-? (Jeffrey Long), N-2325
+Related Nodes: N-2325
 Investigative Direction: Verify against UVU PD records and text-message metadata.
 
 ---
@@ -391,7 +378,7 @@ Investigative Direction: Verify against UVU PD records and text-message metadata
 Claim Timestamp: 00:29:56
 Claim: The notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which materially narrows the rooftop reference to the specific walkway above Charlie's head.
 Anchored Artifacts: A-2384.1, A-2387.1
-Related Nodes: N-? (Dan Flood), N-? (Jeffrey Long), N-? (Officer Baggley), N-? (Richard Bracie), N-2325
+Related Nodes: N-2325
 Investigative Direction: Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.
 
 ---
@@ -421,7 +408,7 @@ Investigative Direction: Compare against UVU venue capacity records, ticketing d
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-? (Jeffrey Long), N-? (Astrid Tuminez), N-2326
+Related Nodes: N-2326
 Investigative Direction: Obtain UVU PD internal communications and presidential approval logs from September 2025.
 
 ---
@@ -431,7 +418,7 @@ Investigative Direction: Obtain UVU PD internal communications and presidential 
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that the request for additional officers was denied.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-? (Astrid Tuminez), N-2326
+Related Nodes: N-2326
 Investigative Direction: Retrieve Tuminez's contemporaneous internal communications and PD shift logs.
 
 ---
@@ -441,7 +428,7 @@ Investigative Direction: Retrieve Tuminez's contemporaneous internal communicati
 Claim Timestamp: 00:40:52
 Claim: The 2022 bodycam footage of Tyler Robinson was released seven days after the public identified Tyler Robinson as the suspect.
 Anchored Artifacts: A-2389.1, A-2389.2
-Related Nodes: N-? (Tyler Robinson), N-2324, N-2277
+Related Nodes: N-2324
 Investigative Direction: Confirm Scripps News publication date and Tyler Robinson's public identification date.
 
 ---
@@ -451,7 +438,7 @@ Investigative Direction: Confirm Scripps News publication date and Tyler Robinso
 Claim Timestamp: 00:43:44
 Claim: The bodycam footage of Tyler Robinson is dated May 31, 2022 — approximately three and a half years prior to release.
 Anchored Artifacts: A-2389.1
-Related Nodes: N-? (Tyler Robinson), N-2324, N-2327
+Related Nodes: N-2324, N-2327
 Investigative Direction: Verify the timestamp metadata on the released footage.
 
 ---
@@ -461,7 +448,7 @@ Investigative Direction: Verify the timestamp metadata on the released footage.
 Claim Timestamp: 00:48:11
 Claim: The 2022 bodycam footage was released by Scripps News under the headline "[Scripps] News obtains video of accused Charlie Kirk shooter after the 2022 car crash." **Name uncertainty:** transcript also spells as "Scriptscripts News" and "Scripts Media."
 Anchored Artifacts: A-2389.2, A-2390.1
-Related Nodes: N-2277, N-2324
+Related Nodes: N-2324
 Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIAA / records-request logs.
 
 ---
@@ -471,7 +458,7 @@ Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIA
 Claim Timestamp: 00:48:11
 Claim: Scripps News became operational the same year as the 2022 incident and was founded by Jim Spencer, who was formerly with Newsy.
 Anchored Artifacts: A-2391.1
-Related Nodes: N-? (Jim Spencer), N-2277, N-2324
+Related Nodes: N-2324
 Investigative Direction: Confirm corporate registration records for Scripps News and Newsy's corporate history.
 
 ---
@@ -481,7 +468,7 @@ Investigative Direction: Confirm corporate registration records for Scripps News
 Claim Timestamp: 00:48:11
 Claim: Jim Spencer teaches digital media and journalism at UT Austin, having done so since 2018.
 Anchored Artifacts: A-2391.1
-Related Nodes: N-? (Jim Spencer), N-? (Nell DeBuckman), N-2324
+Related Nodes: N-2324
 Investigative Direction: Verify Spencer's UT Austin faculty page and Nell DeBuckman / Buckman Center affiliation.
 
 ---
@@ -491,7 +478,7 @@ Investigative Direction: Verify Spencer's UT Austin faculty page and Nell DeBuck
 Claim Timestamp: 00:46:14
 Claim: The May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.
 Anchored Artifacts: A-2389.1
-Related Nodes: N-2278, N-2324, N-2327
+Related Nodes: N-1210, N-2324, N-2327
 Investigative Direction: Confirm agency identification via officer's uniform markings and incident report cross-reference.
 
 ---
@@ -501,7 +488,7 @@ Investigative Direction: Confirm agency identification via officer's uniform mar
 Claim Timestamp: 00:46:14
 Claim: Tyler Robinson was 19 years old at the time of the 2022 traffic incident.
 Anchored Artifacts: A-2389.1
-Related Nodes: N-? (Tyler Robinson), N-2324
+Related Nodes: N-2324
 Investigative Direction: Cross-reference against birth records / official DOB.
 
 ---
@@ -603,7 +590,7 @@ Investigative Direction: Track subsequent civil complaint filings with the Utah 
 - **Name uncertainty — Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
 - **Name uncertainty — Scripps News:** Transcript uses "Scripts Media," "Scriptscripts News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
 - **Transcription error — "August 25th, 20125":** Clear error for 2025.
-- **Name uncertainty — Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new N-2276 since this name may already exist in N-1 to N-339 range.
+- **Name uncertainty — Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new N-1208 since this name may already exist in N-1 to N-339 range.
 - **Artifact verbally referenced but not shown — Nell DeBuckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
 - **Possible transcription error — 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.

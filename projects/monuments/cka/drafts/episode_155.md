@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2337, N-2338, N-2339, N-2340
-  - Reused Nodes Appearing: N-2275, N-2276, N-2277, N-2278, N-2279, N-2280, N-2281, N-2282, N-2283, N-2284
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216
 
 # Episode Analysis — Bride of Charlie 155
 
@@ -32,7 +32,7 @@
 
 - Artifact Families Introduced: A-2405, A-2406, A-2407, A-2408, A-2409, A-2410, A-2411, A-2412, A-2413, A-2414, A-2415
 - Claim Range: C-3513 – C-3530
-- New Nodes Introduced (people): N-2275, N-2276, N-2277, N-2278, N-2279, N-2280, N-2281, N-2282, N-2283, N-2284
+- New Nodes Introduced (people): N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216
 - New Nodes Introduced (investigation targets): N-2337, N-2338, N-2339, N-2340
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Go forth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turk, N-? Andrew Kolvit (transcript variant: "Kulevit")
 
@@ -56,7 +56,7 @@ Video Timestamp: 00:00:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3513, N-2275, N-2276*
+*Related: C-3513*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:33:23–00:36:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3514, C-3515, N-2277*
+*Related: C-3514, C-3515*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:36:51–00:37:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3513, C-3516, C-3517, C-3518, N-2275*
+*Related: C-3513, C-3516, C-3517, C-3518*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:31:47–00:32:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3519, N-2276*
+*Related: C-3519*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3520, N-2282*
+*Related: C-3520, N-1214*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3521, N-2279*
+*Related: C-3521, N-1211*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3522, N-2283*
+*Related: C-3522, N-1215*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:46:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3523, N-2284*
+*Related: C-3523, N-1216*
 
 ---
 
@@ -225,136 +225,6 @@ Optional Flag: Artifact verbally referenced but not shown in this episode
 
 ## IV. Node Register
 
-**N-2275** Mike Mitchell Public Record Anomaly
-
-Podcaster/editor identified in the episode as the host of a joint sitdown with Jeremy Boring, framed as fixated on Candace Owens.
-
-Evidence Count: 3
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2405.1, A-2407.1, C-3513, C-3516, C-3517, C-3518*
-
----
-
-**N-2276** Brooksby Suicide Narrative Discrepancy
-
-Former Daily Wire CEO identified in the episode as Blake Neff's co-host; cited as host's former employer; subject of an on-air X post read.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2405.1, A-2408.1, C-3513, C-3519*
-
----
-
-**N-2277** Robinson Apartment Staging Allegation
-
-Comedian and political commentator whose pre-release prediction clip about the Neff/Boring podcast was played on air and endorsed by the host.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2406.1, C-3514, C-3515*
-
----
-
-**N-2278** Phil Lyman Proximity and Behavior Investigation
-
-Commenter on the prior day's episode cited in the comments section ("Are they still talking about those midterms?").
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: (none artifact-anchored)*
-
----
-
-**N-2279** UVU Campus Familiarity Question
-
-X account holder whose post about the GOP being "genuinely useless" was read aloud.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2410.1, C-3521*
-
----
-
-**N-2280** Phil Lyman Location Discrepancy
-
-Named in the episode as co-donor (with Casey Baugh) of $5M to UVU, partial co-owner of the N88 plane (with Chellain and Derek Maxfield), and operator of an entrepreneurship program housed in the Woodbury building. Information presented by host without a displayed source artifact.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2339*
-
----
-
-**N-2281** Unidentified Goth Person in Broderick Companion Photo
-
-Named in the episode as co-donor (with Chelsea Baugh) of $5M to UVU and partial co-owner of the N88 plane. Information presented by host without a displayed source artifact.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2339*
-
----
-
-**N-2282** Charlie Kirk Pre-Mortem Israel Position Claim
-
-X account holder whose post about the Save America Act and midterms was read aloud.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2409.1, C-3520*
-
----
-
-**N-2283** Hospital Routing Discrepancy
-
-X account whose post about prediction markets (Democrats at 59% to sweep both chambers) was read aloud.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2411.1, C-3522*
-
----
-
-**N-2284** Utah FBI Personnel Replacement
-
-Vice President whose video clip asking voters for "another chance" was played on air.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2412.1, C-3523*
-
----
-
 **N-2337** "Waluigi" Unknown Driver
 
 Code name assigned by the host to the unidentified operator of the second grey Dodge Challenger observed in the UVU admin/admissions lot; distinguished from the "Maroon Boy." Height and clothing shape stated as identifying traits; identity not established.
@@ -390,7 +260,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2280, N-2281*
+*Related: N-1212, N-1213*
 
 ---
 
@@ -417,7 +287,7 @@ Claim: Blake Neff and Jeremy Boring released promotional photo and audio/video p
 
 Anchored Artifacts: A-2405.1, A-2407.1
 
-Related Nodes: N-2275, N-2276
+Related Nodes:
 
 Investigative Direction: Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.
 
@@ -431,7 +301,7 @@ Claim: Bobby Saucelito predicted, prior to release, that the Neff/Boring podcast
 
 Anchored Artifacts: A-2406.1
 
-Related Nodes: N-2277
+Related Nodes:
 
 Investigative Direction: Compare Saucelito's specific predictions against the released episode segment-by-segment.
 
@@ -445,7 +315,7 @@ Claim: The host explicitly concurs that Saucelito's pre-release predictions were
 
 Anchored Artifacts: A-2406.1, A-2407.1
 
-Related Nodes: N-2277
+Related Nodes:
 
 Investigative Direction: Document the host's specific concurrence with each item of Saucelito's prediction list once the full episode is available.
 
@@ -459,7 +329,7 @@ Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens is a 
 
 Anchored Artifacts: A-2407.1
 
-Related Nodes: N-2275
+Related Nodes:
 
 Investigative Direction: Obtain full Neff/Boring episode to confirm statement context and surrounding statements.
 
@@ -473,7 +343,7 @@ Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens "want
 
 Anchored Artifacts: A-2407.1
 
-Related Nodes: N-2275
+Related Nodes:
 
 Investigative Direction: Verify exact quote and context in the full Neff/Boring episode.
 
@@ -487,7 +357,7 @@ Claim: In the Neff/Boring promo clip, Blake Neff stated that Tucker Carlson "has
 
 Anchored Artifacts: A-2407.1
 
-Related Nodes: N-2275
+Related Nodes:
 
 Investigative Direction: Verify exact quote and context in the full Neff/Boring episode.
 
@@ -501,7 +371,7 @@ Claim: Jeremy Boring posted on X that Candace Owens "does this largely on purpos
 
 Anchored Artifacts: A-2408.1
 
-Related Nodes: N-2276
+Related Nodes:
 
 Investigative Direction: Retrieve the original post via web archive to confirm exact wording and timestamp.
 
@@ -515,7 +385,7 @@ Claim: Laura Loomer posted on X that the Save America Act would not pass before 
 
 Anchored Artifacts: A-2409.1
 
-Related Nodes: N-2282
+Related Nodes: N-1214
 
 Investigative Direction: Retrieve the original post via web archive to confirm exact wording and timestamp.
 
@@ -529,7 +399,7 @@ Claim: Jamie Mitchell posted on X that "The GOP is genuinely useless" and that D
 
 Anchored Artifacts: A-2410.1
 
-Related Nodes: N-2279
+Related Nodes: N-1211
 
 Investigative Direction: Retrieve the original post via web archive to confirm exact wording and timestamp.
 
@@ -543,7 +413,7 @@ Claim: Libs of TikTok posted on X that prediction markets project Democrats at a
 
 Anchored Artifacts: A-2411.1
 
-Related Nodes: N-2283
+Related Nodes: N-1215
 
 Investigative Direction: Retrieve the original post via web archive to confirm exact wording, timestamp, and the specific prediction market referenced.
 
@@ -557,7 +427,7 @@ Claim: JD Vance appeared on video asking voters to "give us another chance" and 
 
 Anchored Artifacts: A-2412.1
 
-Related Nodes: N-2284
+Related Nodes: N-1216
 
 Investigative Direction: Identify the original venue/date of the Vance clip to anchor sourcing.
 
@@ -613,7 +483,7 @@ Claim: TMZ surveillance footage timestamped 8:07 AM on Sept 10 shows Tyler Robin
 
 Anchored Artifacts: A-2413.2
 
-Related Nodes: N-? Tyler Robinson
+Related Nodes:
 
 Investigative Direction: Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification.
 
@@ -627,7 +497,7 @@ Claim: The September 15 search warrant narrative (attributed to Agent Mortensson
 
 Anchored Artifacts: A-2414.1
 
-Related Nodes: N-2338, N-? Agent Mortensson
+Related Nodes: N-2338
 
 Investigative Direction: Obtain the actual Sept 15 search warrant filing to verify the quoted language and its full surrounding narrative.
 
@@ -641,7 +511,7 @@ Claim: Agent David Hull's preliminary hearing testimony presented a campus timel
 
 Anchored Artifacts: A-2414.1, A-2415.1
 
-Related Nodes: N-2338, N-? David Hull
+Related Nodes: N-2338
 
 Investigative Direction: Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.
 
@@ -655,7 +525,7 @@ Claim: Neighbor Miss Noble and her husband reported observing a Dodge Challenger
 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
 
-Related Nodes: N-? Miss Noble, N-? Officer Go forth, N-2340
+Related Nodes: N-2340
 
 Investigative Direction: Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.
 
@@ -671,7 +541,7 @@ Optional Flag: Claim failed admission test (Artifact Anchor) — claim retained 
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) — none displayed in this episode; described by host.
 - **Claim failed admission test:** C-3530 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
-- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes N-2280, N-2281, and N-2339 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
+- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes N-1212, N-1213, and N-2339 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
 - **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" — original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.
 - **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Go forth/Goforth" against authoritative sources.

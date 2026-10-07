@@ -30,7 +30,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959
-  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-559, N-560, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
+  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-559, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
   - Reused Nodes Appearing: 
 
 ---, N-37
@@ -591,19 +591,6 @@ Investigative Pressure: Medium
 
 ---
 
-**N-560** PragerU
-
-Organization allegedly paying multiple commentators attacking Candace.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1539.1, N-561*
-
----
-
 **N-561** Marissa
 
 Named PragerU contact (per host).
@@ -613,7 +600,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, N-560*
+*Related: A-1539.1, N-1197*
 
 ---
 

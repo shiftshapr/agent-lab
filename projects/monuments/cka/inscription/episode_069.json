@@ -295,44 +295,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-901",
-      "ref": "N-901",
-      "name": "Epstein 23andMe Email Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1011",
-      "ref": "N-1011",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Subject of the alibi investigation advanced in this episode. Reused from existing ledger.",
-      "related_artifacts": [
-        "A-1741.1"
-      ],
-      "related_claims": [
-        "C-2304",
-        "C-2305"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1556"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-890",
       "ref": "N-890",
       "name": "Tracy Martin",
@@ -698,9 +660,7 @@
       "anchored_artifacts": [
         "A-1738.1"
       ],
-      "related_nodes": [
-        "N-901"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:18",
       "investigative_direction": "Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text."

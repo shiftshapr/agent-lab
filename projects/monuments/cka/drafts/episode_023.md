@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-1301, A-1302, A-1303, A-1304, A-1305, A-1306, A-1307, A-1308, A-1309, A-1310, A-1311, A-1312
 - **Claim Range:** C-1545 – C-1567
-- **New Nodes Introduced:**, N-302, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
+- **New Nodes Introduced:**N-302, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-70 (Governor Cox)
 
 ---

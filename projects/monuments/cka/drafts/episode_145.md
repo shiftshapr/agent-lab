@@ -51,7 +51,7 @@ Video Timestamp: 00:13:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3328, C-3329, N-1209*
+*Related: C-3328, C-3329*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:07:38–00:08:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3326, C-3327, N-1207, N-1208, N-1, N-2*
+*Related: C-3326, C-3327, N-1, N-2*
 
 ---
 
@@ -232,7 +232,7 @@ Claim Timestamp: 00:07:38
 Claim: The Mappins' October 6, 2025 article describes Charlie Kirk's death as "an assassination with potentially far-reaching political consequences for America and the world," asserts the crime scene was "completely destroyed in days," and states that any conviction reached while doubt remains would be "anathema to all the teachings of Christ."
 
 Anchored Artifacts: A-2311.1
-Related Nodes: N-1207, N-1208, N-1, N-2
+Related Nodes: N-1, N-2
 Investigative Direction: Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source.
 
 ---
@@ -244,7 +244,7 @@ Claim Timestamp: 00:08:27
 Claim: The host concurs with the Mappin article's framing of the situation, calling it "so powerful to reflect on" and endorsing its description of a "black propaganda campaign."
 
 Anchored Artifacts: A-2311.1
-Related Nodes: N-1207, N-1208, N-3
+Related Nodes: N-3
 Investigative Direction: Compare the host's subsequent public statements to the Mappin article's framework for consistency.
 
 ---
@@ -256,7 +256,7 @@ Claim Timestamp: 00:13:27
 Claim: The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.
 
 Anchored Artifacts: A-2310.1
-Related Nodes: N-1209
+Related Nodes:
 Investigative Direction: Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.
 
 ---
@@ -268,7 +268,7 @@ Claim Timestamp: 00:14:29
 Claim: Justin Baldoni informed the host he was on a layover from Sweden, where his wife is from, when the encounter occurred.
 
 Anchored Artifacts: A-2310.1
-Related Nodes: N-1209
+Related Nodes:
 Investigative Direction: Verify via flight records or independent statements from Baldoni or his representatives.
 
 ---
@@ -467,7 +467,7 @@ Artifact Families Introduced: A-2310, A-2311, A-2312, A-2313, A-2314, A-2315, A-
 Claim Range: C-3326–C-3344
 
 New Nodes Introduced:
-- Investigation Targets: N-2213, N-2214, N-2215
+N-2213, N-2214, N-2215
 
 Existing Nodes Reused: N-1, N-2, N-3, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220
 

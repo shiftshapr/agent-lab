@@ -58,7 +58,7 @@ Video Timestamp: 00:02:00–00:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (footage shown; SD-card interpretation is host read)
 
-*Related: C-3313, C-3314, N-1207, N-1208*
+*Related: C-3313, C-3314*
 
 **A-2301.2** Footage: Terrell showing his laptop screen to Philip Goldsbury at the crime scene
 
@@ -66,7 +66,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:00–00:04:10
 Confidence Level: Medium
 
-*Related: C-3314, N-1207, N-1208*
+*Related: C-3314*
 
 ---
 
@@ -78,7 +78,7 @@ Source: External interview referenced by host
 Video Timestamp: 00:04:20–00:04:50
 Confidence Level: High
 
-*Related: C-3315, N-1207, N-1215*
+*Related: C-3315, N-1215*
 
 ---
 
@@ -104,7 +104,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-3316, N-1207, N-1215, N-2209*
+*Related: C-3316, N-1215, N-2209*
 
 **A-2304.2** Audio: Sergeant Mark Bricker (SBI) testimony stating the Utah County Attorney's Office created the 20-minute sizzle reel
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:30–00:28:00
 Confidence Level: High
 
-*Related: C-3321, N-1209, N-1210, N-1211*
+*Related: C-3321, N-1210, N-1211*
 
 **A-2306.2** Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism
 
@@ -156,7 +156,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-1209, N-1210, N-1211, N-46*
+*Related: C-3322, N-1210, N-1211, N-46*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -165,7 +165,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:40–00:38:50
 Confidence Level: High
 
-*Related: C-3323, N-1209, N-1210, N-1211*
+*Related: C-3323, N-1210, N-1211*
 
 **A-2306.4** Audio: Andrew Kolvet recounting Candace saying she would "burn down that organization" if the wrong people took over TPUSA
 
@@ -174,7 +174,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:30–00:50:30
 Confidence Level: High
 
-*Related: C-3324, C-3325, N-1209*
+*Related: C-3324, C-3325*
 
 ---
 
@@ -200,7 +200,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:00–00:54:00
 Confidence Level: High
 
-*Related: C-3324, C-3325, N-1209*
+*Related: C-3324, C-3325*
 
 **A-2308.2** Call log showing a 17-minute call between Candace and Andrew Kolvet on September 14, 2025
 
@@ -209,7 +209,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:00–00:52:00
 Confidence Level: High
 
-*Related: C-3325, N-1209*
+*Related: C-3325*
 
 ---
 
@@ -378,7 +378,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2301.1, A-2304.1, A-2304.2, C-3315, C-3316, N-1207, N-1215*
+*Related: A-2301.1, A-2304.1, A-2304.2, C-3315, C-3316, N-1215*
 
 ---
 
@@ -404,7 +404,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2301.1, A-2301.2, C-3314, N-1207, N-1208*
+*Related: A-2301.1, A-2301.2, C-3314*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2308.1, C-3324, C-3325, N-1209*
+*Related: A-2308.1, C-3324, C-3325*
 
 ---
 
@@ -449,7 +449,7 @@ Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it w
 
 Anchored Artifacts: A-2301.1, A-2301.2
 
-Related Nodes: N-1207, N-1208, N-2209, N-2211
+Related Nodes: N-2209, N-2211
 
 Investigative Direction: Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.
 
@@ -463,7 +463,7 @@ Claim: Episode footage shows Terrell Farnsworth displaying content on his laptop
 
 Anchored Artifacts: A-2301.2
 
-Related Nodes: N-1207, N-1208, N-2211
+Related Nodes: N-2211
 
 Investigative Direction: Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.
 
@@ -477,7 +477,7 @@ Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparia
 
 Anchored Artifacts: A-2302.1, A-2304.1
 
-Related Nodes: N-1207, N-1213, N-1215, N-2209
+Related Nodes: N-1213, N-1215, N-2209
 
 Investigative Direction: Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.
 
@@ -561,7 +561,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded th
 
 Anchored Artifacts: A-2306.1
 
-Related Nodes: N-1209, N-1210, N-1211
+Related Nodes: N-1210, N-1211
 
 Investigative Direction: Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.
 
@@ -575,7 +575,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the
 
 Anchored Artifacts: A-2306.2
 
-Related Nodes: N-1209, N-1210, N-1211, N-46
+Related Nodes: N-1210, N-1211, N-46
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 
@@ -589,7 +589,7 @@ Claim: A November 2023 clip of Charlie Kirk shows him saying Candace is "on our 
 
 Anchored Artifacts: A-2307.1
 
-Related Nodes: N-1209, N-1211, N-1216
+Related Nodes: N-1211, N-1216
 
 Investigative Direction: Obtain the full unedited segment; note any surrounding context that may complicate the read.
 
@@ -603,7 +603,7 @@ Claim: Text messages and calls between Candace and Andrew Kolvet from September 
 
 Anchored Artifacts: A-2308.1, A-2308.2
 
-Related Nodes: N-1209, N-2212
+Related Nodes: N-2212
 
 Investigative Direction: Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.
 
@@ -617,7 +617,7 @@ Claim: Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025
 
 Anchored Artifacts: A-2308.1, A-2308.2
 
-Related Nodes: N-1209, N-1217, N-2212
+Related Nodes: N-1217, N-2212
 
 Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.
 

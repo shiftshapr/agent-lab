@@ -35,8 +35,8 @@
 - Artifact Families Introduced: A-2085, A-2086, A-2087, A-2088, A-2089, A-2090, A-2091, A-2092
 - Claim Range: C-2935–C-2944
   - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078
-  - Reused Nodes Appearing: N-1020, N-4, N-6, N-1207, N-1208, N-1209, N-1210
-- Existing Nodes Reused: N-1020, N-4, N-6 (assumed standard assignments from prior episodes)
+  - Reused Nodes Appearing: N-2, N-4, N-6, N-1207, N-1208, N-1209, N-1210
+- Existing Nodes Reused: N-2, N-4, N-6 (assumed standard assignments from prior episodes)
 
 ---
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip clearly played)
 
-*Related: C-2935, N-1207, N-2074*
+*Related: C-2935, N-2074*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:18:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2936, N-1208, N-2075*
+*Related: C-2936, N-2075*
 
 **A-2086.2** Sarah Tool second interview — local media, ~51 minutes later — claims Charlie was shot "in the neck," blood spurted across body
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:20:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2937, N-1208, N-2075*
+*Related: C-2937, N-2075*
 
 **A-2086.3** Sarah Tool ABC News interview — claims shooter was ~200 yards away, shot to left side of neck
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:21:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2938, N-1208, N-2075*
+*Related: C-2938, N-2075*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2944, N-1020, N-2078*
+*Related: C-2944, N-2, N-2078*
 
 **A-2091.2** Erika Miss Arizona era signature — displayed on show as visibly distinct from A-2091.1
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2944, N-1020, N-2078*
+*Related: C-2944, N-2, N-2078*
 
 ---
 
@@ -220,22 +220,10 @@ Claim Count: 9 (cumulative across series)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
 
-*Related: A-2085.1, A-2086.1, A-2086.2, A-2086.3, A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2935, C-2936, C-2937, C-2938, C-2941, C-2942, C-2943, N-1207, N-1208, N-2074, N-2075, N-2076*
+*Related: A-2085.1, A-2086.1, A-2086.2, A-2086.3, A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2935, C-2936, C-2937, C-2938, C-2941, C-2942, C-2943, N-2074, N-2075, N-2076*
 
 ---
 
-**N-1020** Erica Kirk (née Frantzve)
-
-Subject of signature-comparison artifact and Next Model Management witness thread.
-
-Evidence Count: 3
-Claim Count: 2 (this episode)
-Episode Count: 120 (cumulative)
-Investigative Pressure: High
-
-*Related: A-2091.1, A-2091.2, C-2944, N-2078, N-2079*
-
----
 
 **N-4** JD Vance
 
@@ -324,7 +312,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2085.1, C-2935, N-1207*
+*Related: A-2085.1, C-2935*
 
 ---
 
@@ -337,7 +325,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2086.1, A-2086.2, A-2086.3, C-2936, C-2937, C-2938, N-1208*
+*Related: A-2086.1, A-2086.2, A-2086.3, C-2936, C-2937, C-2938*
 
 ---
 
@@ -350,7 +338,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2941, C-2942, C-2943, N-1209*
+*Related: A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2941, C-2942, C-2943*
 
 ---
 
@@ -376,7 +364,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2091.1, A-2091.2, C-2944, N-1020*
+*Related: A-2091.1, A-2091.2, C-2944, N-2*
 
 ---
 
@@ -390,7 +378,7 @@ Claim: Brian Harpole states in the Sean Ryan interview that he personally cut Ch
 
 Anchored Artifacts: A-2085.1
 
-Related Nodes: N-1207, N-2074
+Related Nodes: N-2074
 
 Investigative Direction: Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.
 
@@ -404,7 +392,7 @@ Claim: In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was sh
 
 Anchored Artifacts: A-2086.1
 
-Related Nodes: N-1208, N-2075
+Related Nodes: N-2075
 
 Investigative Direction: Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.
 
@@ -418,7 +406,7 @@ Claim: Approximately 51 minutes after her first interview, Sarah Tool stated in 
 
 Anchored Artifacts: A-2086.2
 
-Related Nodes: N-1208, N-2075
+Related Nodes: N-2075
 
 Investigative Direction: Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account.
 
@@ -432,7 +420,7 @@ Claim: In her ABC News interview, Sarah Tool stated the shooter was approximatel
 
 Anchored Artifacts: A-2086.3
 
-Related Nodes: N-1208, N-2075
+Related Nodes: N-2075
 
 Investigative Direction: Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
 
@@ -516,7 +504,7 @@ Claim: Signatures displayed on the show show Erika's current signature as visual
 
 Anchored Artifacts: A-2091.1, A-2091.2
 
-Related Nodes: N-1020, N-2078
+Related Nodes: N-2, N-2078
 
 Investigative Direction: Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison.
 

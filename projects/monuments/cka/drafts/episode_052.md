@@ -267,7 +267,7 @@ Claim: Tyler Robinson drove approximately three hours from Orem, Utah to Pangitc
 
 Anchored Artifacts: A-1577.1, A-1577.2
 
-Related Nodes: Tyler Robinson node, N-1452
+Related Nodes: N-1452
 
 Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.
 
@@ -279,7 +279,7 @@ Claim: Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo
 
 Anchored Artifacts: A-1577.1
 
-Related Nodes: Tyler Robinson node, N-1452
+Related Nodes: N-1452
 
 Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.
 
@@ -291,7 +291,7 @@ Claim: Turning Point USA clarified to host that the tent at AmeriFest was initia
 
 Anchored Artifacts: None displayed (host verbal reference to TPUSA communication)
 
-Related Nodes: Elizabeth McCoy node (if previously inscribed), Turning Point USA node
+Related Nodes:
 
 Investigative Direction: Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process.
 
@@ -303,7 +303,7 @@ Claim: Erika's first text purportedly showing a conversation with Charlie Kirk a
 
 Anchored Artifacts: A-1578.1 (follow-up contact card only; original redacted text referenced but not displayed in this episode)
 
-Related Nodes: N-2 (Erica Kirk, as "Erika")
+Related Nodes: N-2
 
 Investigative Direction: Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number.
 
@@ -315,7 +315,7 @@ Claim: After host's repeated requests to unblock the contact name, Erika's follo
 
 Anchored Artifacts: A-1578.1
 
-Related Nodes: N-2 (Erica Kirk, as "Erika")
+Related Nodes: N-2
 
 Investigative Direction: Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.
 
@@ -327,7 +327,7 @@ Claim: After personally reviewing a 12-hour House committee video, host conclude
 
 Anchored Artifacts: A-1579.1
 
-Related Nodes: Mark Amodei node, N-1453
+Related Nodes: N-1453
 
 Investigative Direction: Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.
 
@@ -339,7 +339,7 @@ Claim: Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk
 
 Anchored Artifacts: A-1580.1
 
-Related Nodes: Tyler Bowyer node, N-2 (Erica Kirk, as "Erika"), N-37
+Related Nodes: N-2, N-37
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
 
@@ -351,7 +351,7 @@ Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lo
 
 Anchored Artifacts: A-1581.1
 
-Related Nodes: N-632, N-633, N-639, N-1454, Lori Frantzve node
+Related Nodes: N-632, N-633, N-639, N-1454
 
 Investigative Direction: Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).
 
@@ -363,7 +363,7 @@ Claim: A CBS News article reports that David Rodsham, a top civilian leader at a
 
 Anchored Artifacts: A-1582.1
 
-Related Nodes: N-636, Fort Huachuca node
+Related Nodes: N-636
 
 Investigative Direction: Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.
 
@@ -387,7 +387,7 @@ Claim: Daily Wire has launched a show hosted by "Maddie" designed to mock Candac
 
 Anchored Artifacts: A-1584.1
 
-Related Nodes: N-638, Ben Shapiro node
+Related Nodes: N-638
 
 Investigative Direction: Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.
 
@@ -399,7 +399,7 @@ Claim: A still image drawn from a longer video of Charlie Kirk from behind shows
 
 Anchored Artifacts: A-1585.1
 
-Related Nodes: N-1 (Charlie Kirk)
+Related Nodes: N-1
 
 Investigative Direction: Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory.
 
@@ -411,7 +411,7 @@ Claim: Tyler Robinson was employed at Wild Electric in Santa Clara, Utah; this w
 
 Anchored Artifacts: A-1586.1
 
-Related Nodes: Tyler Robinson node
+Related Nodes:
 
 Investigative Direction: Confirm employment dates and identify workplace contacts relevant to the investigation timeline.
 

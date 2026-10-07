@@ -807,7 +807,6 @@
         "A-1887.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1630"
       ],
       "tags": [],
@@ -825,7 +824,6 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1207",
         "N-1627"
       ],
       "tags": [],
@@ -842,7 +840,6 @@
         "A-1889.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1627"
       ],
       "tags": [],
@@ -860,7 +857,6 @@
         "A-1889.2"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1627",
         "N-1630"
       ],
@@ -896,7 +892,6 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1629"
       ],
       "tags": [],
@@ -913,7 +908,6 @@
         "A-1891.2"
       ],
       "related_nodes": [
-        "N-1208",
         "N-1632"
       ],
       "tags": [],
@@ -946,8 +940,6 @@
         "A-1893.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1209",
         "N-1210"
       ],
       "tags": [],
@@ -964,7 +956,6 @@
         "A-1887.3"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1627"
       ],
       "tags": [],
@@ -981,7 +972,6 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1",
         "N-1629"
       ],
@@ -999,7 +989,6 @@
         "A-1887.3"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1627"
       ],
       "tags": [],
@@ -1026,7 +1015,6 @@
       "claim": "Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina was told by another staffer that the statement about Charlie's death required Andrew Kolvet's input before release.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1207",
         "N-1627"
       ],
       "tags": [],

@@ -302,21 +302,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-939",
-      "ref": "N-939",
-      "name": "Node 939",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-91",
       "ref": "N-91",
       "name": "Laura Loomer",
@@ -611,8 +596,7 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-1577",
-        "N-939"
+        "N-1577"
       ],
       "tags": [],
       "claim_timestamp": "00:03:08",

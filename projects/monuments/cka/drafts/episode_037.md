@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-439, N-440, N-441, N-442, N-443, N-444, N-445, N-446, N-448, N-449, N-450, N-1344, N-1345, N-1346, N-1347, N-1348, N-1349, N-1350, N-1351, N-1352, N-1353
+  - New Nodes Introduced:  N-439, N-440, N-441, N-442, N-443, N-444, N-445, N-446, N-1344, N-1345, N-1346, N-1347, N-1348, N-1349, N-1350, N-1351, N-1352, N-1353
   - Reused Nodes Appearing: N-1
   - (see registers)
 
@@ -172,24 +172,6 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-
-**N-448** Node 448
-
-Node Type: person
-
-*Related:*
-
-**N-449** Operation Valhalla Press Release Bundle
-
-Node Type: person
-
-*Related:*
-
-**N-450** Node 450
-
-Node Type: person
-
-*Related:*
 
 **N-1** Charlie Kirk
 
@@ -356,7 +338,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (host-asserted, no documentary anchor)
 
-*Related: N-69, N-449*
+*Related: N-69*
 
 ---
 
@@ -461,7 +443,7 @@ Claim: A week-long training exercise named Operation Valhalla Strike was conduct
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-102, N-1344, N-1348, N-1349, N-1350, N-448, N-449, N-450
+Related Nodes: N-102, N-1344, N-1348, N-1349, N-1350
 
 Investigative Direction: Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.
 

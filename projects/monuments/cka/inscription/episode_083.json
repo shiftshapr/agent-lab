@@ -654,24 +654,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Person Tyler Bowyer (N-37).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "Person Tyler Bowyer (N-37).",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -714,8 +713,6 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1638"
       ],
       "tags": [],
@@ -731,10 +728,7 @@
       "anchored_artifacts": [
         "A-1902.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:23",
       "investigative_direction": "Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants."
@@ -748,10 +742,7 @@
       "anchored_artifacts": [
         "A-1902.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1209"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records."
@@ -783,8 +774,6 @@
         "A-1902.2"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-1210"
       ],
       "tags": [],

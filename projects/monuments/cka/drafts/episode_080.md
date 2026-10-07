@@ -68,7 +68,7 @@ Video Timestamp: 00:04:57–00:06:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2494, C-2495, C-2496, C-2497, N-1207, N-1218, N-1619*
+*Related: C-2494, C-2495, C-2496, C-2497, N-1218, N-1619*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:07:42–00:10:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2498, C-2499, N-? Donald Trump, N-1207*
+*Related: C-2498, C-2499, N-? Donald Trump*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2500, N-1210, N-1207*
+*Related: C-2500, N-1210*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2501, C-2502, N-1211, N-1207*
+*Related: C-2501, C-2502, N-1211*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:15:07–00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2503, N-1212, N-1207, N-1221, N-1218*
+*Related: C-2503, N-1212, N-1221, N-1218*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2504, N-1213, N-1207*
+*Related: C-2504, N-1213*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-1214, N-1207, N-209*
+*Related: C-2505, N-1214, N-209*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:20:55–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2506, N-1209*
+*Related: C-2506*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:47:24–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2512, C-2513, N-1208, N-1617*
+*Related: C-2512, C-2513, N-1617*
 
 ---
 
@@ -320,7 +320,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu, N-1208, N-1216, N-1219*
+*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu, N-1216, N-1219*
 
 ---
 
@@ -346,7 +346,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505, N-1207*
+*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505*
 
 ---
 
@@ -369,7 +369,7 @@ Claim: Joe Kent's letter states he has resigned from the Director of the Nationa
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1207, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.
 
@@ -383,7 +383,7 @@ Claim: Kent's resignation letter asserts that "Iran posed no imminent threat to 
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1207, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period.
 
@@ -397,7 +397,7 @@ Claim: Kent's letter states that the U.S. started the war "due to pressure from 
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1207, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter.
 
@@ -411,7 +411,7 @@ Claim: Kent's letter identifies him as a veteran who deployed to combat 11 times
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1207, N-1218, N-1619
+Related Nodes: N-1218, N-1619
 
 Investigative Direction: Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases.
 
@@ -425,7 +425,7 @@ Claim: In on-camera remarks, President Trump described Joe Kent as "weak on secu
 
 Anchored Artifacts: A-1862.1
 
-Related Nodes: N-? Donald Trump, N-1207, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Confirm exact wording against the full White House transcript or press pool video of the same appearance.
 
@@ -439,7 +439,7 @@ Claim: Trump defended the Iran campaign by referencing his prior termination of 
 
 Anchored Artifacts: A-1862.1
 
-Related Nodes: N-? Donald Trump, N-1207, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Confirm specific language against the official White House transcript of the appearance.
 
@@ -453,7 +453,7 @@ Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not
 
 Anchored Artifacts: A-1863.1
 
-Related Nodes: N-1210, N-1207, N-1619
+Related Nodes: N-1210, N-1619
 
 Investigative Direction: Verify the exact X post text against Graham's verified account at the timestamp indicated.
 
@@ -467,7 +467,7 @@ Claim: Mark Levin publicly speculated that Kent "was about to be fired but quick
 
 Anchored Artifacts: A-1864.1
 
-Related Nodes: N-1211, N-1207, N-1619
+Related Nodes: N-1211, N-1619
 
 Investigative Direction: Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.
 
@@ -481,7 +481,7 @@ Claim: Mark Levin publicly called for the DOJ to open a criminal investigation t
 
 Anchored Artifacts: A-1864.2
 
-Related Nodes: N-1211, N-1207, N-1619
+Related Nodes: N-1211, N-1619
 
 Investigative Direction: Confirm against Levin's verified X account and monitor for any DOJ response.
 
@@ -495,7 +495,7 @@ Claim: Laura Loomer publicly alleged that Kent's wife works for Max Blumenthal a
 
 Anchored Artifacts: A-1865.1
 
-Related Nodes: N-1212, N-1221, N-1218, N-1207, N-1619
+Related Nodes: N-1212, N-1221, N-1218, N-1619
 
 Investigative Direction: Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals.
 
@@ -509,7 +509,7 @@ Claim: Alan Dershowitz publicly referred to Kent as a "neo-Nazi Jew hating Israe
 
 Anchored Artifacts: A-1866.1
 
-Related Nodes: N-1213, N-1207, N-1619
+Related Nodes: N-1213, N-1619
 
 Investigative Direction: Confirm exact text against Dershowitz's verified X account.
 
@@ -523,7 +523,7 @@ Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "
 
 Anchored Artifacts: A-1867.1
 
-Related Nodes: N-1214, N-1207, N-1619, N-209
+Related Nodes: N-1214, N-1619, N-209
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 
@@ -537,7 +537,7 @@ Claim: Theo Von publicly characterized Israeli political leaders as feeling like
 
 Anchored Artifacts: A-1868.1
 
-Related Nodes: N-1209
+Related Nodes:
 
 Investigative Direction: Confirm against the original Theo Von podcast episode and timestamp.
 
@@ -621,7 +621,7 @@ Claim: Treasury Secretary Scott Bessent was pulled mid-interview to attend the S
 
 Anchored Artifacts: A-1873.1
 
-Related Nodes: N-1208, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Confirm against full interview video; identify the original outlet and date of the interview.
 
@@ -635,7 +635,7 @@ Claim: Upon return from the Situation Room, Bessent publicly stated the presiden
 
 Anchored Artifacts: A-1873.1
 
-Related Nodes: N-1208, N-? Donald Trump, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates.
 
@@ -677,7 +677,7 @@ Claim: Following a rumored Iranian missile strike, Benjamin Netanyahu's official
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-? Netanyahu, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis.
 
@@ -691,7 +691,7 @@ Claim: Netanyahu reportedly missed a Security Council meeting, described as unus
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-? Netanyahu, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Verify against official Israeli government / Knesset scheduling records.
 
@@ -705,7 +705,7 @@ Claim: Yair Netanyahu, who normally retweets or tweets about 30 times per day, w
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-1219, N-? Netanyahu, N-1617
+Related Nodes: N-1219, N-1617
 
 Investigative Direction: Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence.
 
@@ -719,7 +719,7 @@ Claim: Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador 
 
 Anchored Artifacts: A-1876.1
 
-Related Nodes: N-? Netanyahu, N-1216, N-1617
+Related Nodes: N-1216, N-1617
 
 Investigative Direction: Confirm posting timestamp against official channels; subject video to production analysis.
 
@@ -733,7 +733,7 @@ Claim: Netanyahu no-showed a critical military council meeting on March 17, repo
 
 Anchored Artifacts: A-1876.1
 
-Related Nodes: N-? Netanyahu, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule.
 

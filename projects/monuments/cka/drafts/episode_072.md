@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-911, N-912, N-916, N-917, N-919, N-920, N-924, N-925, N-927, N-928, N-930, N-931, N-932, N-1572, N-1573, N-1574, N-1575, N-1576
-  - Reused Nodes Appearing: N-1012, N-37
+  - New Nodes Introduced: N-916, N-917, N-919, N-920, N-1572, N-1573, N-1574, N-1575, N-1576
+  - Reused Nodes Appearing: N-2, N-37
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,7 +37,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2353, N-1012, N-1572, N-1574*
+*Related: C-2353, N-2, N-1572, N-1574*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2351, N-1012, N-298, N-1573*
+*Related: C-2351, N-298, N-1573*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2354, N-1012, N-70, N-37*
+*Related: C-2354, N-2, N-70, N-37*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:29:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2355, N-1012, N-70*
+*Related: C-2355, N-2, N-70*
 
 **A-1767.2** Audio Clip: Erika Kirk on Meghan Kelly's Stage Recounting She Did Not Date in Manhattan
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:30:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2356, N-1012*
+*Related: C-2356, N-2*
 
 ---
 
@@ -130,7 +130,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-2361, N-1012, N-298, N-916, N-42, N-1573*
+*Related: C-2361, N-298, N-916, N-42, N-1573*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1012, N-364, N-1576*
+*Related: N-2, N-364, N-1576*
 
 ---
 
@@ -164,73 +164,6 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-
-**N-911** NY Real Estate License Bundle
-
-Node Type: person
-
-*Related:*
-
-**N-912** NY Real Estate License Bundle
-
-Node Type: person
-
-*Related:*
-
-**N-924** Node 924
-
-Node Type: person
-
-*Related:*
-
-**N-925** Node 925
-
-Node Type: person
-
-*Related:*
-
-**N-927** Node 927
-
-Node Type: person
-
-*Related:*
-
-**N-928** Node 928
-
-Node Type: person
-
-*Related:*
-
-**N-930** Node 930
-
-Node Type: person
-
-*Related:*
-
-**N-931** Node 931
-
-Node Type: person
-
-*Related:*
-
-**N-932** Node 932
-
-Node Type: person
-
-*Related:*
-
-**N-1012** Erica Kirk
-
-Primary biographical subject of the episode's evidentiary claims. Documentary support presented for real estate license, Corcoran Group employment, multiple career narratives, and statements about her behavior on September 10.
-
-Evidence Count: 6
-Claim Count: 7
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1763.1, A-1764.1, A-1765.1, A-1766.1, A-1767.1, A-1767.2, A-1769.1, C-2351, C-2353, C-2354, C-2355, C-2356, C-2361, N-1572, N-1573, N-1574*
-
----
 
 **N-1** Charlie Kirk
 
@@ -345,7 +278,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1770.1, N-1012, N-1576*
+*Related: A-1770.1, N-2, N-1576*
 
 ---
 
@@ -358,7 +291,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1012, N-1576*
+*Related: N-2, N-1576*
 
 ---
 
@@ -371,7 +304,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1012, N-1576*
+*Related: N-2, N-1576*
 
 ---
 
@@ -384,7 +317,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1012, N-42, N-1576*
+*Related: N-2, N-42, N-1576*
 
 ---
 
@@ -410,7 +343,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1763.1, C-2353, N-1012*
+*Related: A-1763.1, C-2353, N-2*
 
 ---
 
@@ -423,7 +356,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-1012, N-916, N-917*
+*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-2, N-916, N-917*
 
 ---
 
@@ -436,7 +369,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1012, N-911, N-912*
+*Related: N-2*
 
 ---
 
@@ -449,7 +382,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1012*
+*Related: N-2*
 
 ---
 
@@ -462,7 +395,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1770.1, N-1012, N-42, N-364, N-65, N-281*
+*Related: A-1770.1, N-2, N-42, N-364, N-65, N-281*
 
 ---
 
@@ -485,7 +418,7 @@ Claim: A USA Today article posted shortly after Charlie Kirk's assassination sta
 
 Anchored Artifacts: A-1764.1, A-1769.1
 
-Related Nodes: N-1012, N-917, N-1573, N-911, N-912, N-924, N-925, N-927, N-928, N-930, N-931, N-932
+Related Nodes: N-2, N-917, N-1573
 
 Investigative Direction: Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.
 
@@ -513,7 +446,7 @@ Claim: A snapshot of Erika Kirk's New York real estate license displays a validi
 
 Anchored Artifacts: A-1763.1
 
-Related Nodes: N-1012, N-1572
+Related Nodes: N-2, N-1572
 
 Investigative Direction: Verify license issuance and expiration dates against New York Department of State records.
 
@@ -527,7 +460,7 @@ Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Ariz
 
 Anchored Artifacts: A-1766.1
 
-Related Nodes: N-1012, N-70, N-37
+Related Nodes: N-2, N-70, N-37
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
 
@@ -541,7 +474,7 @@ Claim: Erika Kirk publicly recounted that her job interview with Charlie Kirk co
 
 Anchored Artifacts: A-1767.1
 
-Related Nodes: N-1012, N-70
+Related Nodes: N-2, N-70
 
 Investigative Direction: Identify and verify the original source of this account and confirm dating against contemporaneous communications.
 
@@ -555,7 +488,7 @@ Claim: Erika Kirk stated on Meghan Kelly's stage that she did not date in Manhat
 
 Anchored Artifacts: A-1767.2
 
-Related Nodes: N-1012
+Related Nodes: N-2
 
 Investigative Direction: Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.
 
@@ -625,7 +558,7 @@ Claim: An unnamed TikToker publicly raised the question of whether Erika Kirk's 
 
 Anchored Artifacts: A-1769.1
 
-Related Nodes: N-1012, N-920, N-1573
+Related Nodes: N-2, N-920, N-1573
 
 Investigative Direction: Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.
 

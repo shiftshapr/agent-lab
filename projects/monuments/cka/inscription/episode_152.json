@@ -30,7 +30,7 @@
             "C-3445"
           ],
           "related_nodes": [
-            "N-2275"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,7 +56,7 @@
             "C-3446"
           ],
           "related_nodes": [
-            "N-2276"
+            "N-1208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -83,9 +83,9 @@
             "C-3453"
           ],
           "related_nodes": [
-            "N-2277",
-            "N-2278",
-            "N-2279"
+            "N-1209",
+            "N-1210",
+            "N-1211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -103,8 +103,8 @@
             "C-3452"
           ],
           "related_nodes": [
-            "N-2277",
-            "N-2278"
+            "N-1209",
+            "N-1210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -130,8 +130,8 @@
             "C-3452"
           ],
           "related_nodes": [
-            "N-2277",
-            "N-2279"
+            "N-1209",
+            "N-1211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -149,7 +149,7 @@
             "C-3452"
           ],
           "related_nodes": [
-            "N-2278"
+            "N-1210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
             "C-3452"
           ],
           "related_nodes": [
-            "N-2278"
+            "N-1210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -194,7 +194,7 @@
             "C-3451"
           ],
           "related_nodes": [
-            "N-2280"
+            "N-1212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,7 +220,7 @@
             "C-3457"
           ],
           "related_nodes": [
-            "N-2284"
+            "N-1216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -246,7 +246,7 @@
             "C-3457"
           ],
           "related_nodes": [
-            "N-2284",
+            "N-1216",
             "N-2"
           ],
           "tags": [],
@@ -274,9 +274,9 @@
             "C-3459"
           ],
           "related_nodes": [
-            "N-2285",
-            "N-2286",
-            "N-2287"
+            "N-1217",
+            "N-1218",
+            "N-1219"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -303,19 +303,19 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-2288",
-            "N-2289",
-            "N-2290",
-            "N-2291",
-            "N-2292",
-            "N-2293",
-            "N-2294",
-            "N-2295",
-            "N-2296",
-            "N-2297",
-            "N-2298",
-            "N-2299",
-            "N-2300",
+            "N-1220",
+            "N-1221",
+            "N-1222",
+            "N-1223",
+            "N-1224",
+            "N-1225",
+            "N-1226",
+            "N-1227",
+            "N-1228",
+            "N-1229",
+            "N-1230",
+            "N-1231",
+            "N-1232",
             "N-1233",
             "N-1234"
           ],
@@ -330,548 +330,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2275",
-      "ref": "N-2275",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Subject of the Looney Tunes-style clip mocking his evasive behavior; previously flagged as \"shady\" in series commentary.",
-      "related_artifacts": [
-        "A-2374.1"
-      ],
-      "related_claims": [
-        "C-3445"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2276",
-      "ref": "N-2276",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Newly appointed Utah judge presiding over aspects of the case; per the artifact, self-reports 95% of his work as sex crimes prosecution.",
-      "related_artifacts": [
-        "A-2375.1"
-      ],
-      "related_claims": [
-        "C-3446"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2277",
-      "ref": "N-2277",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA staff member present at UVU on September 10, 2025; subject of witness statement taken by ICAC officer per displayed footage.",
-      "related_artifacts": [
-        "A-2376.1",
-        "A-2376.2",
-        "A-2377.1",
-        "A-2377.2",
-        "A-2377.3"
-      ],
-      "related_claims": [
-        "C-3452"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2278",
-        "N-2279"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2278",
-      "ref": "N-2278",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Officer wearing \"Police\" / \"Utah ICAC\" vest who took Mikey McCoy's statement on September 10, 2025.",
-      "related_artifacts": [
-        "A-2376.2",
-        "A-2377.2",
-        "A-2377.3"
-      ],
-      "related_claims": [
-        "C-3452",
-        "C-3453"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2277"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2279",
-      "ref": "N-2279",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Individual on phone with Mikey McCoy in displayed footage per host's reference to call logs provided by Erica Kirk.",
-      "related_artifacts": [
-        "A-2376.1"
-      ],
-      "related_claims": [
-        "C-3452"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2280",
-      "ref": "N-2280",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Police officer who signed the first six search warrants in the Charlie Kirk case, including on George Zinn; primary assignment in Special Victims Unit / ICAC.",
-      "related_artifacts": [
-        "A-2378.1"
-      ],
-      "related_claims": [
-        "C-3450",
-        "C-3451"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2281",
-      "ref": "N-2281",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Former undercover detective in internet sex crimes against children (per host); described as the figure who convinced the Robinson household to turn Tyler Robinson in.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3461"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2321"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2282",
-      "ref": "N-2282",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "UVU police officer who found the screwdriver on the rooftop; previously worked child sex crimes at Utah County Sheriff's Office (per host).",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3462"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2283",
-      "ref": "N-2283",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Individual who shouted \"I did it\" in immediate aftermath; later found to possess child pornography on phone; sentenced for child sex crimes.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3463"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2284",
-      "ref": "N-2284",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Former Army Ranger sniper introduced on \"Charlie Kirk Show\" to debunk footage; pled no contest October 2025 to felony coercion and misdemeanor harassment.",
-      "related_artifacts": [
-        "A-2379.1",
-        "A-2380.1"
-      ],
-      "related_claims": [
-        "C-3457"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2285",
-      "ref": "N-2285",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Artist who gave \"Free Palestine\" speech as Ed Sheeran opener; subsequently dropped from the tour.",
-      "related_artifacts": [
-        "A-2381.1"
-      ],
-      "related_claims": [
-        "C-3458"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2286",
-        "N-2287"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2286",
-      "ref": "N-2286",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Headliner of tour from which Macklemore was dropped; the host calls on him to cancel remaining tour stops.",
-      "related_artifacts": [
-        "A-2381.1"
-      ],
-      "related_claims": [
-        "C-3459"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2285",
-        "N-2287"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2287",
-      "ref": "N-2287",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Owner of New England Patriots / Patriot Stadium; identified as leading lobby campaign to remove Macklemore from Ed Sheeran tour.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3459"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2285",
-        "N-2286"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2288",
-      "ref": "N-2288",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Accused of running brothel with Romanian children 2011–2015 at Romanian military base; worked with \"Erika's Romanian angels\" (per host).",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2289",
-      "ref": "N-2289",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Civilian commander at Fort Wuka; charged with running child sex abuse ring.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2290",
-      "ref": "N-2290",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Listed as headliner of Make Heaven Crowded tour immediately after Charlie Kirk's death; subject of pending trafficking charges per host.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2291",
-      "ref": "N-2291",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "Founder of Operation Underground (rescuing children from sex trafficking); interviewed by host; lived/worked in China with trafficking victims per Erica Kirk claim.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-2292"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2292",
-      "ref": "N-2292",
-      "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
-      "description": "Funded Operation Underground; media-involved on September 10.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2291"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2293",
-      "ref": "N-2293",
-      "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
-      "description": "TPUSA adviser; retired; ran psyops; co-wrote book with Michael Aino (per host).",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2294"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2294",
-      "ref": "N-2294",
-      "name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "investigation_target",
-      "description": "Co-author of book with Paul Valle; described by host as Satanist / founder of Temple of Set / accused of abusing children at Army Child Development Center.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2293"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2295",
-      "ref": "N-2295",
-      "name": "Witness and Public-Figure Demeanor Anomalies",
-      "type": "investigation_target",
-      "description": "Runs supplement company with profits going to All Things Possible (child trafficking charity).",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2296",
-      "ref": "N-2296",
-      "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Runs charity for child sex abuse victims (per host).",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2297",
-      "ref": "N-2297",
-      "name": "Pre-Assassination Group Chat Content",
-      "type": "investigation_target",
-      "description": "Announced as the largest donor to Turning Point USA; involved in rescue of trafficked children.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2298",
-      "ref": "N-2298",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
-      "description": "Listed as trafficking-related work in Poland.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2299",
-      "ref": "N-2299",
-      "name": "Campus Footage Release Strategy Question",
-      "type": "investigation_target",
-      "description": "Rescued children from sex trafficking in South America via Operation Underground.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2291"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2300",
-      "ref": "N-2300",
-      "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "type": "investigation_target",
-      "description": "Co-founder of Sofur Global Ministries with Charlie Kirk; provides medical care in Romania, Albania, Ukraine.",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1233",
@@ -934,8 +392,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2280",
-        "N-2278"
+        "N-1212",
+        "N-1210"
       ]
     },
     {
@@ -992,24 +450,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1020,9 +477,7 @@
       "anchored_artifacts": [
         "A-2374.1"
       ],
-      "related_nodes": [
-        "N-2275"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:33–00:03:11",
       "investigative_direction": "Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*"
@@ -1037,7 +492,6 @@
         "A-2375.1"
       ],
       "related_nodes": [
-        "N-2276",
         "N-1234"
       ],
       "tags": [],
@@ -1052,7 +506,7 @@
       "claim": "The episode presents that Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was central in the Tyler Robinson surrender process.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2281",
+        "N-1213",
         "N-2321"
       ],
       "tags": [],
@@ -1067,7 +521,7 @@
       "claim": "The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2282",
+        "N-1214",
         "N-2321"
       ],
       "tags": [],
@@ -1082,7 +536,7 @@
       "claim": "The episode presents that following George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2283"
+        "N-1215"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41",
@@ -1098,8 +552,8 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-2280",
-        "N-2283",
+        "N-1212",
+        "N-1215",
         "N-1234",
         "N-2321"
       ],
@@ -1117,7 +571,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-2280",
+        "N-1212",
         "N-2321"
       ],
       "tags": [],
@@ -1138,9 +592,8 @@
         "A-2377.3"
       ],
       "related_nodes": [
-        "N-2277",
-        "N-2278",
-        "N-2279",
+        "N-1210",
+        "N-1211",
         "N-2321"
       ],
       "tags": [],
@@ -1155,7 +608,7 @@
       "claim": "The episode asserts that the Utah ICAC works under the Utah Attorney General's Office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2278",
+        "N-1210",
         "N-2321"
       ],
       "tags": [],
@@ -1211,7 +664,7 @@
         "A-2380.1"
       ],
       "related_nodes": [
-        "N-2284",
+        "N-1216",
         "N-2"
       ],
       "tags": [],
@@ -1228,8 +681,8 @@
         "A-2381.1"
       ],
       "related_nodes": [
-        "N-2285",
-        "N-2286"
+        "N-1217",
+        "N-1218"
       ],
       "tags": [],
       "claim_timestamp": "00:43:58–00:45:32",
@@ -1243,9 +696,9 @@
       "claim": "The episode presents that Robert Kraft led a lobbying effort that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2285",
-        "N-2286",
-        "N-2287"
+        "N-1217",
+        "N-1218",
+        "N-1219"
       ],
       "tags": [],
       "claim_timestamp": "00:47:38–00:48:56",
@@ -1262,19 +715,19 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-2288",
-        "N-2289",
-        "N-2290",
-        "N-2291",
-        "N-2292",
-        "N-2293",
-        "N-2294",
-        "N-2295",
-        "N-2296",
-        "N-2297",
-        "N-2298",
-        "N-2299",
-        "N-2300",
+        "N-1220",
+        "N-1221",
+        "N-1222",
+        "N-1223",
+        "N-1224",
+        "N-1225",
+        "N-1226",
+        "N-1227",
+        "N-1228",
+        "N-1229",
+        "N-1230",
+        "N-1231",
+        "N-1232",
         "N-1233",
         "N-2322"
       ],
@@ -1290,7 +743,7 @@
       "claim": "The episode presents that Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2281"
+        "N-1213"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:09",
@@ -1304,7 +757,7 @@
       "claim": "The episode presents that Bagley's body cam footage stopped approximately 25 minutes after activation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2282"
+        "N-1214"
       ],
       "tags": [],
       "claim_timestamp": "00:11:56",
@@ -1318,7 +771,7 @@
       "claim": "The episode presents that George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2283"
+        "N-1215"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41",

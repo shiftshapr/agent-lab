@@ -30,7 +30,7 @@
             "C-2353"
           ],
           "related_nodes": [
-            "N-1012",
+            "N-2",
             "N-1572",
             "N-1574"
           ],
@@ -58,7 +58,7 @@
             "C-2351"
           ],
           "related_nodes": [
-            "N-1012",
+            "N-2",
             "N-298",
             "N-1573"
           ],
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1012",
+            "N-2",
             "N-70"
           ],
           "tags": [],
@@ -143,7 +143,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1012",
+            "N-2",
             "N-70"
           ],
           "tags": [],
@@ -163,7 +163,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1012"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
             "C-2361"
           ],
           "related_nodes": [
-            "N-1012",
+            "N-2",
             "N-298",
             "N-916",
             "N-42",
@@ -249,7 +249,7 @@
           "description": "Andrew Kolvet's X Post: \"Superman neck\" (referenced but not displayed in this episode)",
           "related_claims": [],
           "related_nodes": [
-            "N-1012",
+            "N-2",
             "N-364",
             "N-1576"
           ],
@@ -292,176 +292,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
-      "name": "NY Real Estate License Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-912",
-      "ref": "N-912",
-      "name": "NY Real Estate License Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-924",
-      "ref": "N-924",
-      "name": "Node 924",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-925",
-      "ref": "N-925",
-      "name": "Node 925",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-927",
-      "ref": "N-927",
-      "name": "Node 927",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-928",
-      "ref": "N-928",
-      "name": "Node 928",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-930",
-      "ref": "N-930",
-      "name": "Node 930",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-931",
-      "ref": "N-931",
-      "name": "Node 931",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-932",
-      "ref": "N-932",
-      "name": "Node 932",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1012",
-      "ref": "N-1012",
-      "name": "Erica Kirk",
-      "type": "investigation_target",
-      "description": "Primary biographical subject of the episode's evidentiary claims. Documentary support presented for real estate license, Corcoran Group employment, multiple career narratives, and statements about her behavior on September 10.",
-      "related_artifacts": [
-        "A-1763.1",
-        "A-1764.1",
-        "A-1765.1",
-        "A-1766.1",
-        "A-1767.1",
-        "A-1767.2",
-        "A-1769.1"
-      ],
-      "related_claims": [
-        "C-2351",
-        "C-2353",
-        "C-2354",
-        "C-2355",
-        "C-2356",
-        "C-2361"
-      ],
-      "tags": [],
-      "evidence_count": 7,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1572",
-        "N-1573",
-        "N-1574"
-      ]
-    },
     {
       "@type": "Person",
       "@id": "N-1",
@@ -654,7 +484,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-1576"
       ]
     },
@@ -673,7 +503,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-1576"
       ]
     },
@@ -692,7 +522,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-1576"
       ]
     },
@@ -711,7 +541,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-42",
         "N-1576"
       ]
@@ -753,7 +583,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1012"
+        "N-2"
       ]
     },
     {
@@ -778,7 +608,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-916",
         "N-917"
       ]
@@ -798,9 +628,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012",
-        "N-911",
-        "N-912"
+        "N-2"
       ]
     },
     {
@@ -818,7 +646,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012"
+        "N-2"
       ]
     },
     {
@@ -838,7 +666,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-42",
         "N-364",
         "N-65",
@@ -876,24 +704,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-37",
-        "ref": "N-37",
-        "name": "Tyler Bowyer",
-        "type": "person",
-        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -906,18 +733,9 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-917",
-        "N-1573",
-        "N-911",
-        "N-912",
-        "N-924",
-        "N-925",
-        "N-927",
-        "N-928",
-        "N-930",
-        "N-931",
-        "N-932"
+        "N-1573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
@@ -952,7 +770,7 @@
         "A-1763.1"
       ],
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-1572"
       ],
       "tags": [],
@@ -970,11 +788,10 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1012",
-        "N-70"
-      ,
-            "N-37"
-          ],
+        "N-2",
+        "N-70",
+        "N-37"
+      ],
       "tags": [],
       "claim_timestamp": "00:28:47",
       "investigative_direction": "Compare memorial account against contemporaneous text records between Bowyer and host."
@@ -990,7 +807,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1012",
+        "N-2",
         "N-70"
       ],
       "tags": [],
@@ -1008,7 +825,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1012"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:30:20",
@@ -1093,7 +910,7 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-1012",
+        "N-2",
         "N-920",
         "N-1573"
       ],

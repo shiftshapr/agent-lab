@@ -525,24 +525,23 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-46",
-        "ref": "N-46",
-        "name": "Andrew Wilson",
-        "type": "person",
-        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -554,12 +553,10 @@
         "A-2277.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2193",
-        "N-2194"
-      ,
-            "N-46"
-          ],
+        "N-2194",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:18:36",
       "investigative_direction": "Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements."
@@ -574,10 +571,8 @@
         "A-2277.2"
       ],
       "related_nodes": [
-        "N-1207"
-      ,
-            "N-46"
-          ],
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:22:37",
       "investigative_direction": "Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is \"overwhelming.\""
@@ -592,10 +587,8 @@
         "A-2277.4"
       ],
       "related_nodes": [
-        "N-1207"
-      ,
-            "N-46"
-          ],
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:44:42",
       "investigative_direction": "Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly."
@@ -610,10 +603,8 @@
         "A-2277.3"
       ],
       "related_nodes": [
-        "N-1207"
-      ,
-            "N-46"
-          ],
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:29:04",
       "investigative_direction": "Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47)."
@@ -629,10 +620,8 @@
         "A-2277.6"
       ],
       "related_nodes": [
-        "N-1208"
-      ,
-            "N-46"
-          ],
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:17:24",
       "investigative_direction": "Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call."
@@ -647,11 +636,8 @@
         "A-2281.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1209"
-      ,
-            "N-46"
-          ],
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "01:06:45",
       "investigative_direction": "Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate."
@@ -665,9 +651,7 @@
       "anchored_artifacts": [
         "A-2282.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:00:00",
       "investigative_direction": "Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window."
@@ -682,10 +666,9 @@
         "A-2280.2"
       ],
       "related_nodes": [
-        "N-1210"
-      ,
-            "N-46"
-          ],
+        "N-1210",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "01:08:14",
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp."
@@ -716,11 +699,9 @@
         "A-2283.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-2194"
-      ,
-            "N-46"
-          ],
+        "N-2194",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:42:35",
       "investigative_direction": "Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate."
@@ -735,10 +716,9 @@
         "A-2278.1"
       ],
       "related_nodes": [
-        "N-1211"
-      ,
-            "N-46"
-          ],
+        "N-1211",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "01:01:26",
       "investigative_direction": "Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series."
@@ -753,10 +733,9 @@
         "A-2279.1"
       ],
       "related_nodes": [
-        "N-1212"
-      ,
-            "N-46"
-          ],
+        "N-1212",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "01:02:50",
       "investigative_direction": "Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series."
@@ -771,11 +750,9 @@
         "A-2277.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-2193"
-      ,
-            "N-46"
-          ],
+        "N-2193",
+        "N-46"
+      ],
       "tags": [],
       "claim_timestamp": "00:19:49",
       "investigative_direction": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193)."

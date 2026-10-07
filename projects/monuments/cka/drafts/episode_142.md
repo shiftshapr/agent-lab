@@ -40,7 +40,7 @@ Video Timestamp: 00:05:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud verbatim by host)
 
-*Related: C-3290, C-3291, C-3292, N-1207, N-2196*
+*Related: C-3290, C-3291, C-3292, N-2196*
 
 **A-2284.2** 1102 Statement — Second Portion (80704 clipped-footage representation)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:17:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud verbatim by host)
 
-*Related: C-3295, N-1207, N-2199*
+*Related: C-3295, N-2199*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:12:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3292, N-1207, N-1208, N-2197*
+*Related: C-3292, N-2197*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:14:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3294, N-1211, N-1207*
+*Related: C-3294, N-1211*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video shown by host)
 
-*Related: C-3296, N-1207, N-2200*
+*Related: C-3296, N-2200*
 
 ---
 
@@ -539,7 +539,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2284.1, C-3290, C-3291, N-1207*
+*Related: A-2284.1, C-3290, C-3291*
 
 ---
 
@@ -552,7 +552,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2285.1, C-3292, N-1207, N-1208*
+*Related: A-2285.1, C-3292*
 
 ---
 
@@ -578,7 +578,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2284.2, C-3295, N-1207, N-1226*
+*Related: A-2284.2, C-3295, N-1226*
 
 ---
 
@@ -591,7 +591,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2288.1, C-3296, N-1207, N-1226*
+*Related: A-2288.1, C-3296, N-1226*
 
 ---
 
@@ -692,7 +692,7 @@ Claim: Farnsworth's 1102 statement asserts he provided SBI with four videos thro
 
 Anchored Artifacts: A-2284.1
 
-Related Nodes: N-1207, N-2196, N-2197
+Related Nodes: N-2196, N-2197
 
 Investigative Direction: Verify the existence and timestamps of the four Google Drive videos referenced in the 1102 statement; obtain authenticated copy of the statement.
 
@@ -706,7 +706,7 @@ Claim: Farnsworth told the host on or about September 18 that he feared Google w
 
 Anchored Artifacts: A-2284.1
 
-Related Nodes: N-1207, N-2196
+Related Nodes: N-2196
 
 Investigative Direction: Obtain the September 18 phone-call recording or contemporaneous notes; compare with the September 10 Google Drive transmission timestamp.
 
@@ -720,7 +720,7 @@ Claim: SBI Agent David Hull testified that Farnsworth originally provided a flas
 
 Anchored Artifacts: A-2285.1
 
-Related Nodes: N-1207, N-1208, N-2197
+Related Nodes: N-2197
 
 Investigative Direction: Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.
 
@@ -748,7 +748,7 @@ Claim: Kulvette stated on Tucker Carlson that Farnsworth removed the SD cards "b
 
 Anchored Artifacts: A-2287.1
 
-Related Nodes: N-1211, N-1207, N-1228
+Related Nodes: N-1211, N-1228
 
 Investigative Direction: Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.
 
@@ -762,7 +762,7 @@ Claim: Farnsworth's 1102 statement describes clip 80704 as a "true and correct r
 
 Anchored Artifacts: A-2284.2
 
-Related Nodes: N-1207, N-2199
+Related Nodes: N-2199
 
 Investigative Direction: Obtain the original four-video files referenced in the 1102; compare lengths and metadata against the 80704 clip to determine clip origin.
 
@@ -776,7 +776,7 @@ Claim: Newly released footage shows Farnsworth placing the SD card in his pocket
 
 Anchored Artifacts: A-2288.1
 
-Related Nodes: N-1207, N-2200
+Related Nodes: N-2200
 
 Investigative Direction: Obtain chain-of-custody for the newly released footage itself; identify the text-message recipient via phone records or subpoena.
 
@@ -832,7 +832,7 @@ Claim: The host claims she has known since October what Farnsworth did after rem
 
 Anchored Artifacts: A-2288.1
 
-Related Nodes: N-1207, N-2200
+Related Nodes: N-2200
 
 Investigative Direction: Identify the source from whom the host obtained the footage in October; verify timing of receipt.
 
@@ -846,7 +846,7 @@ Claim: The host expresses agreement with comments framing her investigation as a
 
 Anchored Artifacts: A-2293.6, A-2293.9
 
-Related Nodes: N-1221 (WearForbidden-related commentary adjacency)
+Related Nodes: N-1221
 
 Investigative Direction: No investigative direction; commentary-concurrence claim.
 

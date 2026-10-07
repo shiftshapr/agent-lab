@@ -514,7 +514,7 @@ Claim: Host's frame-by-frame analysis of event-day footage shows Mikey McCoy rai
 
 Anchored Artifacts: A-1261.1
 
-Related Nodes: N-Mikey McCoy (existing), N-1257, N-1259, N-259, N-260
+Related Nodes: N-1257, N-1259, N-259, N-260
 
 Investigative Direction: Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.
 
@@ -528,7 +528,7 @@ Claim: Event-day footage shows Mikey McCoy on his phone approximately 1 minute 4
 
 Anchored Artifacts: A-1261.3
 
-Related Nodes: N-Mikey McCoy (existing), N-1257, N-1259
+Related Nodes: N-1257, N-1259
 
 Investigative Direction: Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.
 
@@ -542,7 +542,7 @@ Claim: Event-day footage shows Mikey McCoy in the background at Charlie Kirk's w
 
 Anchored Artifacts: A-1261.2
 
-Related Nodes: N-Mikey McCoy (existing), N-1257, N-1259
+Related Nodes: N-1257, N-1259
 
 Investigative Direction: Verify timing continuity and identify any change in phone-use posture during the post-shot interval.
 
@@ -598,7 +598,7 @@ Claim: Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, t
 
 Anchored Artifacts: A-1260.1
 
-Related Nodes: N-Pastor Rob McCoy (existing), N-1260, N-255
+Related Nodes: N-1260, N-255
 
 Investigative Direction: Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.
 
@@ -612,7 +612,7 @@ Claim: Charlie Kirk texted Candace Owens on April 6, 2018 stating he "might not 
 
 Anchored Artifacts: A-1266.1
 
-Related Nodes: N-Charlie Kirk (existing), N-Candace Owens (existing), N-Mikey McCoy (existing)
+Related Nodes:
 
 Investigative Direction: Obtain authenticated message metadata (timestamps, device identifiers, original phone) and corroborate via independent device forensics.
 
@@ -626,7 +626,7 @@ Claim: Charlie Kirk texted that "you were the piece that God meant me to meet th
 
 Anchored Artifacts: A-1266.1
 
-Related Nodes: N-Charlie Kirk (existing), N-Candace Owens (existing)
+Related Nodes:
 
 Investigative Direction: Authenticate message metadata as for C-1468.
 
@@ -640,7 +640,7 @@ Claim: Host asserts Charlie Kirk told her that "Turning Point was going to be th
 
 Anchored Artifacts: A-1266.1
 
-Related Nodes: N-Charlie Kirk (existing), N-Candace Owens (existing)
+Related Nodes:
 
 Investigative Direction: Identify any direct verbatim text within A-1266.1 that matches the precise phrasing "Turning Point was going to be the death of him."
 
@@ -654,7 +654,7 @@ Claim: Trailer presents Charlie Kirk text messages stating "Jewish donors play i
 
 Anchored Artifacts: A-1265.1
 
-Related Nodes: N-Charlie Kirk (existing)
+Related Nodes:
 
 Investigative Direction: Authenticate text message source and timestamp (referenced as having been shown in prior episode; verify against original).
 
@@ -668,7 +668,7 @@ Claim: UVU event clip captures Charlie Kirk responding to a question about frien
 
 Anchored Artifacts: A-1264.1
 
-Related Nodes: N-Charlie Kirk (existing)
+Related Nodes:
 
 Investigative Direction: Identify the date, venue, and full transcript of the UVU exchange.
 
@@ -682,7 +682,7 @@ Claim: Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British
 
 Anchored Artifacts: A-1263.1
 
-Related Nodes: N-Candace Owens (existing), N-Charlie Kirk (existing), N-Donald Trump Jr. (existing)
+Related Nodes:
 
 Investigative Direction: Confirm photograph date and photographer identity.
 
@@ -736,7 +736,7 @@ Claim: Host states the camera operator was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-256, N-Tyler Bowyer (existing), N-37
+Related Nodes: N-256, N-37
 
 Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV company operator.
 
@@ -750,7 +750,7 @@ Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
 
-Related Nodes: N-Mikey McCoy (existing), N-Tyler Bowyer (existing), N-37
+Related Nodes: N-37
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -764,7 +764,7 @@ Claim: Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to hand
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-264, N-Tyler Bowyer (existing), N-37
+Related Nodes: N-264, N-37
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -778,7 +778,7 @@ Claim: Host sarcastically attributes Kirk's last words as "Buy my book. Buy Josh
 
 Anchored Artifacts: None (rhetorical; no documentary record of Kirk's stated final words presented in episode)
 
-Related Nodes: N-Charlie Kirk (existing)
+Related Nodes:
 
 Investigative Direction: Obtain authoritative transcript of Kirk's on-stage remarks immediately prior to being shot.
 
@@ -820,7 +820,7 @@ Claim: Joshua Steves commenter states Tyler Robinson appeared in court via Zoom 
 
 Anchored Artifacts: A-1269.5
 
-Related Nodes: N-263, N-Tyler Robinson (existing)
+Related Nodes: N-263
 
 Investigative Direction: Obtain court appearance records and any media coverage of the Zoom appearance.
 
@@ -848,7 +848,7 @@ Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statemen
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-42, N-Mikey McCoy (existing)
+Related Nodes: N-42
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
 
@@ -862,7 +862,7 @@ Claim: Host states she instructed her team to play devil's advocate for Mikey Mc
 
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
 
-Related Nodes: N-Mikey McCoy (existing), N-1259
+Related Nodes: N-1259
 
 Investigative Direction: Document the scenarios considered and rejected.
 

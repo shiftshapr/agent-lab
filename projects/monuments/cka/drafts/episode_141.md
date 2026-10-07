@@ -67,7 +67,7 @@ Video Timestamp: 00:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3277, C-3289, N-1207, N-2193, N-2194*
+*Related: C-3277, C-3289, N-2193, N-2194*
 
 **A-2277.2** Debate Segment — Wilson's 75–85% Confidence Estimate
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:22:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3278, N-1207*
+*Related: C-3278*
 
 **A-2277.3** Debate Segment — Wilson's Repeated Use of "Positive Evidence"
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3280, N-1207*
+*Related: C-3280*
 
 **A-2277.4** Debate Segment — Wilson Unable to Name Any of Seven Charges
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:44:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3279, N-1207*
+*Related: C-3279*
 
 **A-2277.5** Debate Segment — Screwdriver and Timeline Discussion
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:49:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207, N-2194*
+*Related: N-2194*
 
 **A-2277.6** Debate Segment — 16-Second Silence and Lance DNA Clip Moment
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:39:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3281, N-1207, N-1208*
+*Related: C-3281*
 
 **A-2277.7** Debate Segment — Wilson's False Attribution of "Girl Boss" to Owens
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:24:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207*
+*Related:*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 01:06:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3282, N-1207, N-1209, N-46*
+*Related: C-3282, N-46*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3283, N-1207*
+*Related: C-3283*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3286, N-1207, N-2194, N-46*
+*Related: C-3286, N-2194, N-46*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2277.1, C-3277, N-1207*
+*Related: A-2277.1, C-3277*
 
 **N-2194** Wilson's Promised Release of "Never-Before-Seen Messages"
 
@@ -313,7 +313,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2277.1, A-2283.1, C-3277, C-3286, N-1207*
+*Related: A-2277.1, A-2283.1, C-3277, C-3286*
 
 **N-2195** Turning Point USA Organizational State (Post-Debate)
 
@@ -347,7 +347,7 @@ Claim: Andrew Wilson's debate opening statement was read aloud from a mobile pho
 
 Anchored Artifacts: A-2277.1
 
-Related Nodes: N-1207, N-2193, N-2194, N-46
+Related Nodes: N-2193, N-2194, N-46
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -359,7 +359,7 @@ Claim: When asked by the moderator for a 0–100 estimate of the likelihood that
 
 Anchored Artifacts: A-2277.2
 
-Related Nodes: N-1207, N-46
+Related Nodes: N-46
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
@@ -371,7 +371,7 @@ Claim: When challenged during the debate to name any of the seven charges Tyler 
 
 Anchored Artifacts: A-2277.4
 
-Related Nodes: N-1207, N-46
+Related Nodes: N-46
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
 
@@ -383,7 +383,7 @@ Claim: Throughout the debate, Andrew Wilson repeated the phrase "positive eviden
 
 Anchored Artifacts: A-2277.3
 
-Related Nodes: N-1207, N-46
+Related Nodes: N-46
 
 Investigative Direction: Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).
 
@@ -395,7 +395,7 @@ Claim: The discussion between Candace Owens and Andrew Wilson was moderated by P
 
 Anchored Artifacts: A-2277, A-2277.6
 
-Related Nodes: N-1208, N-46
+Related Nodes: N-46
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
 
@@ -407,7 +407,7 @@ Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew 
 
 Anchored Artifacts: A-2281.1
 
-Related Nodes: N-1207, N-1209, N-46
+Related Nodes: N-46
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
@@ -419,7 +419,7 @@ Claim: The Poly Market prediction market odds on a Tyler Robinson conviction fel
 
 Anchored Artifacts: A-2282.1
 
-Related Nodes: N-1207
+Related Nodes:
 
 Investigative Direction: Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window.
 
@@ -455,7 +455,7 @@ Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed i
 
 Anchored Artifacts: A-2283.1
 
-Related Nodes: N-1207, N-2194, N-46
+Related Nodes: N-2194, N-46
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -491,7 +491,7 @@ Claim: During his debate opening, Andrew Wilson asserted that he possessed Charl
 
 Anchored Artifacts: A-2277.1
 
-Related Nodes: N-1207, N-2193, N-46
+Related Nodes: N-2193, N-46
 
 Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193).
 

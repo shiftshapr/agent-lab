@@ -33,7 +33,7 @@
             "C-3089"
           ],
           "related_nodes": [
-            "N-1021",
+            "N-2",
             "N-2142"
           ],
           "tags": [],
@@ -52,7 +52,7 @@
             "C-3085"
           ],
           "related_nodes": [
-            "N-1021"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
             "C-3086"
           ],
           "related_nodes": [
-            "N-1021"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -445,29 +445,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1021",
-      "ref": "N-1021",
-      "name": "Erika Kirk (name spelling uncertain — see Optional Flags)",
-      "type": "investigation_target",
-      "description": "Subject of Daily Mail article quotes (A-2164.1–A-2164.3); reported statements attributed via family friend and family member sources.",
-      "related_artifacts": [
-        "A-2164.1",
-        "A-2164.2",
-        "A-2164.3"
-      ],
-      "related_claims": [
-        "C-3083",
-        "C-3085",
-        "C-3086"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1207",
       "ref": "N-1207",
       "name": "Mike Mitchell Public Record Anomaly",
@@ -706,7 +683,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1021"
+        "N-2"
       ]
     }
   ],
@@ -721,7 +698,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-1021",
+        "N-2",
         "N-2142"
       ],
       "tags": [],
@@ -738,7 +715,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-1021",
+        "N-2",
         "N-2142"
       ],
       "tags": [],
@@ -755,7 +732,7 @@
         "A-2164.2"
       ],
       "related_nodes": [
-        "N-1021"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:28:34",
@@ -771,7 +748,7 @@
         "A-2164.3"
       ],
       "related_nodes": [
-        "N-1021"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:36:27",
@@ -787,9 +764,7 @@
         "A-2165.1"
       ],
       "related_nodes": [
-        "N-2139",
-        "N-1207",
-        "N-1209"
+        "N-2139"
       ],
       "tags": [],
       "claim_timestamp": "00:03:30",
@@ -837,8 +812,7 @@
         "A-2165.1"
       ],
       "related_nodes": [
-        "N-2139",
-        "N-1209"
+        "N-2139"
       ],
       "tags": [],
       "claim_timestamp": "00:03:30",
@@ -870,8 +844,7 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-2141",
-        "N-1208"
+        "N-2141"
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
@@ -887,8 +860,7 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-2141",
-        "N-1207"
+        "N-2141"
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
@@ -904,10 +876,7 @@
         "A-2166.2",
         "A-2166.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:17",
       "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs."
@@ -921,10 +890,7 @@
       "anchored_artifacts": [
         "A-2166.1"
       ],
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments."
@@ -940,8 +906,7 @@
         "A-2166.1"
       ],
       "related_nodes": [
-        "N-2141",
-        "N-1208"
+        "N-2141"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
@@ -957,8 +922,7 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-2141",
-        "N-1207"
+        "N-2141"
       ],
       "tags": [],
       "claim_timestamp": "00:14:48",
@@ -1025,7 +989,6 @@
         "A-2169.3"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2140"
       ],
       "tags": [],

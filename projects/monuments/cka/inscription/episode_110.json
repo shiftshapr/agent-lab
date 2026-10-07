@@ -911,24 +911,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-57",
+      "ref": "N-57",
+      "name": "Mitt Romney",
+      "type": "person",
+      "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-57",
-        "ref": "N-57",
-        "name": "Mitt Romney",
-        "type": "person",
-        "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -940,8 +939,6 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-1208",
         "N-2066"
       ],
       "tags": [],
@@ -958,9 +955,7 @@
         "A-2076.2",
         "A-2079.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:30",
       "investigative_direction": "Verify Senate roll-call vote and swearing-in date via official Senate records."
@@ -974,9 +969,7 @@
       "anchored_artifacts": [
         "A-2079.1"
       ],
-      "related_nodes": [
-        "N-1207"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:45",
       "investigative_direction": "Verify service record via official DoD / Army Special Forces sources."
@@ -991,7 +984,6 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2066"
       ],
       "tags": [],
@@ -1009,7 +1001,6 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-2066"
       ],
       "tags": [],
@@ -1213,10 +1204,9 @@
       "related_nodes": [
         "N-1219",
         "N-1220",
-        "N-1221"
-      ,
-            "N-57"
-          ],
+        "N-1221",
+        "N-57"
+      ],
       "tags": [],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Cross-check NYT article with contemporaneous French press; verify date."
@@ -1248,10 +1238,9 @@
         "A-2082.1"
       ],
       "related_nodes": [
-        "N-1219"
-      ,
-            "N-57"
-          ],
+        "N-1219",
+        "N-57"
+      ],
       "tags": [],
       "claim_timestamp": "00:46:50",
       "investigative_direction": "Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity."
@@ -1301,12 +1290,10 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1218",
-        "N-2066"
-      ,
-            "N-57"
-          ],
+        "N-2066",
+        "N-57"
+      ],
       "tags": [],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting."
@@ -1322,10 +1309,9 @@
       ],
       "related_nodes": [
         "N-1218",
-        "N-2066"
-      ,
-            "N-57"
-          ],
+        "N-2066",
+        "N-57"
+      ],
       "tags": [],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history."

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-898, N-901, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
-  - Reused Nodes Appearing: N-1011
+  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-898, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
+  - Reused Nodes Appearing: N-2
   - (see registers)
 
 # Meta-Data
@@ -29,9 +29,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - Claim Range: C-2298–C-2311
-  - New Nodes Introduced (people): N-890, N-892, N-893, N-894, N-897, N-898, N-901
+  - New Nodes Introduced (people): N-890, N-892, N-893, N-894, N-897, N-898
   - New Nodes Introduced (investigation targets): N-1556, N-1557, N-1558, N-1559
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-1011 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
 
@@ -131,7 +131,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-2304, C-2305, N-890 (Tracy Martin), N-1011 (Erica Kirk), N-1557 (Tracy Martin Background and Husband Verification), N-1556 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-2304, C-2305, N-890 (Tracy Martin), N-2 (Erica Kirk), N-1557 (Tracy Martin Background and Husband Verification), N-1556 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -163,7 +163,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "A passport in mint condition like a steel neck stopping bullets."*
 
-*Related: C-2307, N-1 (Charlie Kirk), N-1011 (Erica Kirk)*
+*Related: C-2307, N-1 (Charlie Kirk), N-2 (Erica Kirk)*
 
 **A-1743.2** Moderator Marzy comment re: jmail.world
 
@@ -242,23 +242,6 @@ Confidence Level: High (read aloud)
 # Node Register
 
 
-**N-901** Epstein 23andMe Email Bundle
-
-Node Type: person
-
-*Related:*
-
-**N-1011** Erica Kirk
-
-Subject of the alibi investigation advanced in this episode. Reused from existing ledger.
-
-Evidence Count: [track across ledger]
-Claim Count: [track across ledger]
-Episode Count: [track across ledger]
-Investigative Pressure: High
-
-*Related: A-1741.1, C-2304, C-2305, N-1556, N-890 (Tracy Martin)*
-
 **N-890** Tracy Martin
 
 Self-identified friend of Erica Kirk for approximately 15 years; styled the "left eye club" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).
@@ -268,7 +251,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, C-2304, C-2305, N-1011 (Erica Kirk), N-1556, N-1557*
+*Related: A-1741.1, C-2304, C-2305, N-2 (Erica Kirk), N-1556, N-1557*
 
 **N-885** Robkea
 
@@ -323,7 +306,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1011 (Erica Kirk), N-1556, N-890 (Tracy Martin)*
+*Related: N-2 (Erica Kirk), N-1556, N-890 (Tracy Martin)*
 
 **N-35** Jeffrey Epstein
 
@@ -378,7 +361,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1558 (Dream City Church Investigation), N-1011 (Erica Kirk)*
+*Related: N-1558 (Dream City Church Investigation), N-2 (Erica Kirk)*
 
 **N-902** Benjamin
 
@@ -402,7 +385,7 @@ Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, N-1011 (Erica Kirk), N-890 (Tracy Martin), N-783 (Lorie Fonfe)*
+*Related: A-1741.1, N-2 (Erica Kirk), N-890 (Tracy Martin), N-783 (Lorie Fonfe)*
 
 **N-1557** Tracy Martin Background and Husband Verification
 
@@ -424,7 +407,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-890 (Tracy Martin), N-45 (Rob McCoy), N-901 (Pastor Luke)*
+*Related: N-890 (Tracy Martin), N-45 (Rob McCoy), (Pastor Luke)*
 
 **N-1559** Egyptian Plane Communication Investigation
 
@@ -482,7 +465,7 @@ Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and
 
 Anchored Artifacts: A-1738.1
 
-Related Nodes: N-35 (Epstein), N-897 (Woody Allen), N-901
+Related Nodes: N-35, N-897
 
 Investigative Direction: Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.
 
@@ -496,7 +479,7 @@ Claim: An Epstein email to "Sultan" asks who "James Miller" is, asserts that Mil
 
 Anchored Artifacts: A-1738.2
 
-Related Nodes: N-35 (Epstein)
+Related Nodes: N-35
 
 Investigative Direction: Identify the redacted recipient "Sultan" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain.
 
@@ -510,7 +493,7 @@ Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Wa
 
 Anchored Artifacts: A-1739.1
 
-Related Nodes: N-885 (Robkea), N-894 (David Flynn), N-1560 (Mount Hermon 33.33° Coordinate Investigation), N-45
+Related Nodes: N-885, N-894, N-1560, N-45
 
 Investigative Direction: Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).
 
@@ -524,7 +507,7 @@ Claim: Robkea states that Gilgamesh was described as two-thirds God and one-thir
 
 Anchored Artifacts: A-1739.2
 
-Related Nodes: N-885 (Robkea)
+Related Nodes: N-885
 
 Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.
 
@@ -538,7 +521,7 @@ Claim: Tom Horn states on Omega Man Radio that a "special operations general" va
 
 Anchored Artifacts: A-1740.1
 
-Related Nodes: N-892 (Tom Horn), N-893 (Steve Quail), N-1561 (Gilgamesh Remains DNA Extraction Claim)
+Related Nodes: N-892, N-893, N-1561
 
 Investigative Direction: Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.
 
@@ -552,7 +535,7 @@ Claim: Steve Quail states on Omega Man Radio that "the whole point" of the Iraq 
 
 Anchored Artifacts: A-1740.1
 
-Related Nodes: N-893 (Steve Quail), N-1561 (Gilgamesh Remains DNA Extraction Claim)
+Related Nodes: N-893, N-1561
 
 Investigative Direction: Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.
 
@@ -566,7 +549,7 @@ Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear frie
 
 Anchored Artifacts: A-1741.1
 
-Related Nodes: N-890 (Tracy Martin), N-1011 (Erica Kirk), N-1556 (Erika Kirk September 10 Alibi Investigation)
+Related Nodes: N-890, N-2, N-1556
 
 Investigative Direction: Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.
 
@@ -580,7 +563,7 @@ Claim: Tracy Martin states she styled the editorial photograph featuring the "le
 
 Anchored Artifacts: A-1741.1
 
-Related Nodes: N-890 (Tracy Martin), N-1011 (Erica Kirk)
+Related Nodes: N-890, N-2
 
 Investigative Direction: Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.
 
@@ -594,7 +577,7 @@ Claim: The host states she has reviewed text chains discussing "Mcronone's boyfr
 
 Anchored Artifacts: A-1742.1
 
-Related Nodes: N-898 (Emmanuel Macron), N-35 (Epstein)
+Related Nodes: N-898, N-35
 
 Investigative Direction: Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.
 
@@ -608,7 +591,7 @@ Claim: A viewer comment (Frey FA) juxtaposes the 9/11 passport-in-mint-condition
 
 Anchored Artifacts: A-1743.1
 
-Related Nodes: N-1 (Charlie Kirk), N-1011 (Erica Kirk)
+Related Nodes: N-1, N-2
 
 Investigative Direction: Trace the historical origins of the "passport in mint condition" claim and its media treatment; assess the rhetorical parallel independently.
 
@@ -622,7 +605,7 @@ Claim: A viewer comment (Moderator Marzy) recommends jmail.world as a tool for v
 
 Anchored Artifacts: A-1743.2
 
-Related Nodes: N-35 (Epstein)
+Related Nodes: N-35
 
 Investigative Direction: Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions.
 
@@ -636,7 +619,7 @@ Claim: A viewer comment (Tatiana) posits that the current generation will live e
 
 Anchored Artifacts: A-1743.3
 
-Related Nodes: N-80 (Sigmund Freud)
+Related Nodes: N-80
 
 Investigative Direction: Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.
 
@@ -650,7 +633,7 @@ Claim: A viewer comment (Angie) greets "Ben" as part of "team Candace for Life."
 
 Anchored Artifacts: A-1743.4
 
-Related Nodes: N-902 (Benjamin)
+Related Nodes: N-902
 
 Investigative Direction: Identify the production-staff role, if any, of "Benjamin" referenced by host; resolve the Ben / Benjamin discrepancy.
 
@@ -664,7 +647,7 @@ Claim: A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted
 
 Anchored Artifacts: A-1743.5
 
-Related Nodes: N-885 (Robkea), N-1562 (COVID Test DNA Collection Hypothesis)
+Related Nodes: N-885, N-1562
 
 Investigative Direction: Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.
 
@@ -678,7 +661,7 @@ Claim: A viewer comment (Bobby) states that Satan "has never nor can he ever cre
 
 Anchored Artifacts: A-1743.6
 
-Related Nodes: N-80 (Sigmund Freud)
+Related Nodes: N-80
 
 Investigative Direction: This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.
 
@@ -692,7 +675,7 @@ Claim: A viewer comment (American Jetet) endorses Robkea's work and frames the u
 
 Anchored Artifacts: A-1743.7
 
-Related Nodes: N-885 (Robkea)
+Related Nodes: N-885
 
 Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Robkea, Flynn, or earlier esoteric sources.
 

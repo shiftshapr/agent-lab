@@ -52,7 +52,7 @@ Video Timestamp: 00:06:20–00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2946, N-1207, N-2081*
+*Related: C-2946, N-2081*
 
 **A-2094.2** Brian Harpole describes door open, 60–80–100 mph, Rick holding him, Frank praying
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:11:31–00:12:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2947, C-2948, C-2950, C-2951, N-1207, N-1208, N-1209, N-2084*
+*Related: C-2947, C-2948, C-2950, C-2951, N-2084*
 
 **A-2094.3** Brian Harpole describes medical supplies used (36 ft dressing, 4x4s, hemostatic 4x4s)
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:13:09–00:13:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2949, N-1207, N-2093*
+*Related: C-2949, N-2093*
 
 **A-2094.4** Brian Harpole describes opening hemostatic gauze packs with his mouth and packing procedure
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:15:21–00:15:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2957, N-1207, N-2093*
+*Related: C-2957, N-2093*
 
 **A-2095** Frank Turek Interview Audio Bundle
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:28:14–00:29:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2952, C-2953, N-1208, N-2086*
+*Related: C-2952, C-2953, N-2086*
 
 **A-2096** Car Interior Photo Bundle
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:16:18–00:16:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2957, N-1207, N-2083*
+*Related: C-2957, N-2083*
 
 **A-2096.2** Car backseat photo with blood wipe marks on leather
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:22:17–00:23:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2955, N-1208, N-2083*
+*Related: C-2955, N-2083*
 
 **A-2096.3** Brown paper / Uber bag with blood marks
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:51:15–00:51:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2964, N-1223, N-1207, N-2081*
+*Related: C-2964, N-1223, N-2081*
 
 **A-2102.2** Gina Schubert comment (22-year nurse) — Brian Harpole's ER story did not happen
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:51:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2965, N-1224, N-1207, N-2081*
+*Related: C-2965, N-1224, N-2081*
 
 **A-2102.3** Anonymous high-ranking police source email re: DA authorization for evidence release
 
@@ -308,7 +308,7 @@ Video Timestamp: 00:57:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-2084, N-1209 (context only)*
+*Related: N-2084*
 
 **A-2102.10** Palladian comment disputing DID theory
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:19:32–00:20:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2954, N-1208, N-1217, N-2083*
+*Related: C-2954, N-1217, N-2083*
 
 ---
 
@@ -455,7 +455,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2954, A-2103.1, N-1208*
+*Related: C-2954, A-2103.1*
 
 **N-1218** Unidentified Female / "Accomplice" in Shooter Footage
 
@@ -488,7 +488,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2094.x, N-1207*
+*Related: A-2094.x*
 
 **N-1221** Autopsy Record – Utah Privacy Statute Application
 
@@ -499,7 +499,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2094.x, N-1207*
+*Related: A-2094.x*
 
 **N-1222** Hospital Routing Anomaly
 
@@ -556,7 +556,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2946, C-2964, C-2965, A-2094.1, A-2102.1, A-2102.2, N-1207*
+*Related: C-2946, C-2964, C-2965, A-2094.1, A-2102.1, A-2102.2*
 
 **N-2082** Brian Harpole Shirt Removal Event Timing
 
@@ -567,7 +567,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2946, A-2094.1, N-1207*
+*Related: C-2946, A-2094.1*
 
 **N-2083** Car Interior Shards and Blood Evidence Pattern
 
@@ -578,7 +578,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2954, C-2955, C-2956, C-2957, A-2096.1, A-2096.2, A-2096.3, A-2103.1, N-1208*
+*Related: C-2954, C-2955, C-2956, C-2957, A-2096.1, A-2096.2, A-2096.3, A-2103.1*
 
 **N-2084** Hospital Transport Sequence Discrepancy
 
@@ -589,7 +589,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2947, C-2948, C-2950, C-2951, A-2094.2, N-1207, N-1208, N-1209, N-1210, N-1211*
+*Related: C-2947, C-2948, C-2950, C-2951, A-2094.2, N-1210, N-1211*
 
 **N-2085** Frank Turek CPR Claim Verification
 
@@ -600,7 +600,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1208, A-2094.2*
+*Related: A-2094.2*
 
 **N-2086** Frank Turek Clothing Disposal
 
@@ -611,7 +611,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2952, C-2953, A-2095.1, N-1208, N-1212*
+*Related: C-2952, C-2953, A-2095.1, N-1212*
 
 **N-2087** Daily Wire Financial Status and IPO Effort
 
@@ -688,7 +688,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2949, C-2957, A-2094.3, A-2094.4, A-2096.1, A-2097.1, N-1207*
+*Related: C-2949, C-2957, A-2094.3, A-2094.4, A-2096.1, A-2097.1*
 
 ---
 
@@ -711,7 +711,7 @@ Claim Timestamp: 00:06:20–00:07:24
 Claim: Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white "Freedom" shirt off with scissors to enable defibrillator placement.
 
 Anchored Artifacts: A-2094.1
-Related Nodes: N-1207, N-2081, N-2082
+Related Nodes: N-2081, N-2082
 Investigative Direction: Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.
 
 **C-2947** Brian Harpole States Car Door Was Open During Hospital Transport
@@ -721,7 +721,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that the car door behind him remained open during the hospital ride because Charlie's leg was hanging out, and that Rick Cutler physically held Brian in place to prevent him from falling out.
 
 Anchored Artifacts: A-2094.2
-Related Nodes: N-1207, N-1209, N-2084
+Related Nodes: N-2084
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
 **C-2948** Brian Harpole States Speeds of 60–80–100 mph During Transport
@@ -731,7 +731,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states they were traveling "60, 80, 100" mph while weaving through traffic on the way to the hospital.
 
 Anchored Artifacts: A-2094.2
-Related Nodes: N-1207, N-1211, N-2084
+Related Nodes: N-1211, N-2084
 Investigative Direction: Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.
 
 **C-2949** Brian Harpole States He Used 36 ft of Dressing on Charlie's Neck
@@ -741,7 +741,7 @@ Claim Timestamp: 00:13:09–00:13:30
 Claim: Brian Harpole states he applied approximately 36 ft (12 yd) of dressing, four 4x4s, and two hemostatic 4x4s to Charlie's neck wound during the short ride.
 
 Anchored Artifacts: A-2094.3, A-2094.4
-Related Nodes: N-1207, N-2093
+Related Nodes: N-2093
 Investigative Direction: Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.
 
 **C-2950** Brian Harpole States Frank Turek Was Praying in Backseat During Transport
@@ -751,7 +751,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Frank Turek was praying out loud in the backseat during the hospital ride and did not assist with medical care.
 
 Anchored Artifacts: A-2094.2
-Related Nodes: N-1207, N-1208, N-2084, N-2085
+Related Nodes: N-2084, N-2085
 Investigative Direction: Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.
 
 **C-2951** Brian Harpole States Rick Cutler Physically Held Him During Transport
@@ -761,7 +761,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Rick Cutler reached across and held onto him so he would not fall out of the moving SUV while he attended to Charlie.
 
 Anchored Artifacts: A-2094.2
-Related Nodes: N-1207, N-1209, N-2084
+Related Nodes: N-2084
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
 **C-2952** Frank Turek States He Changed into Hospital Scrubs
@@ -771,7 +771,7 @@ Claim Timestamp: 00:28:14–00:29:18
 Claim: Frank Turek states that he changed into scrubs at the hospital and that he did so because he did not want Erika to see any blood on his clothes.
 
 Anchored Artifacts: A-2095.1
-Related Nodes: N-1208, N-2086
+Related Nodes: N-2086
 Investigative Direction: Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned.
 
 **C-2953** Frank Turek States He Disposed of His Original Clothing
@@ -781,7 +781,7 @@ Claim Timestamp: 00:28:14–00:29:18
 Claim: Frank Turek indicates his original clothing was discarded / not retained ("I'm in scrubs because... I didn't want her to see any of that"), and the host asserts he elsewhere admitted to throwing the clothes away.
 
 Anchored Artifacts: A-2095.1
-Related Nodes: N-1208, N-2086
+Related Nodes: N-2086
 Investigative Direction: Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property.
 
 **C-2954** Tara Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
@@ -791,7 +791,7 @@ Claim Timestamp: 00:19:32–00:20:25
 Claim: A video credited to Tara Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
-Related Nodes: N-1208, N-1217, N-2083
+Related Nodes: N-1217, N-2083
 Investigative Direction: Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.
 
 **C-2955** Car Backseat Photos Show Blood Wipe Marks on Leather
@@ -801,7 +801,7 @@ Claim Timestamp: 00:22:17–00:23:11
 Claim: Photographs of the SUV backseat show what appear to be blood wipe or smear marks on the leather seating surface, attributed by the host to the only backseat occupant.
 
 Anchored Artifacts: A-2096.2
-Related Nodes: N-1208, N-2083
+Related Nodes: N-2083
 Investigative Direction: Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.
 
 **C-2956** Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag
@@ -821,7 +821,7 @@ Claim Timestamp: 00:16:18–00:16:50
 Claim: The car floor photos show one opened 4x4 EMS quick clot dressing pack, consistent in size and shape with the product image displayed; no additional opened packs are visible despite Brian Harpole's claimed use of multiple packs.
 
 Anchored Artifacts: A-2094.4, A-2096.1, A-2097.1
-Related Nodes: N-1207, N-2083, N-2093
+Related Nodes: N-2083, N-2093
 Investigative Direction: High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.
 
 **C-2958** Semafor Article Reports Daily Wire Pursuing $100M Strategic Investment and IPO
@@ -891,7 +891,7 @@ Claim Timestamp: 00:51:15–00:51:45
 Claim: Judith Bronco (retired ER nurse, married to a retired ER doctor) submits a comment stating that Brian Harpole's story could not happen in a real ER and that interference from visitors in trauma rooms is strictly forbidden.
 
 Anchored Artifacts: A-2102.1
-Related Nodes: N-1223, N-1207, N-2081
+Related Nodes: N-1223, N-2081
 Investigative Direction: Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.
 
 **C-2965** 22-Year Nurse Comments Brian Harpole's ER Story Did Not Happen
@@ -901,7 +901,7 @@ Claim Timestamp: 00:51:57
 Claim: Gina Schubert (22-year hospital nurse) submits a comment stating that Brian Harpole did not wheel Charlie into a room, jump on him, and cut off his clothes, and that the described events do not occur in any ER.
 
 Anchored Artifacts: A-2102.2
-Related Nodes: N-1224, N-1207, N-2081
+Related Nodes: N-1224, N-2081
 Investigative Direction: Same as C-2964.
 
 **C-2966** NHS Website Describes Observable Eye Changes in Dissociative Disorders
@@ -931,7 +931,7 @@ Claim Timestamp: 00:13:09–00:14:33
 Claim: Brian Harpole states he was unsure if Charlie had a pulse and that his primary focus was bleed control with dressing rather than CPR.
 
 Anchored Artifacts: A-2094.3
-Related Nodes: N-1207, N-2085
+Related Nodes: N-2085
 Investigative Direction: Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.
 
 ---

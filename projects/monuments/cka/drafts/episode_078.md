@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-980, N-982, N-983, N-984, N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610, N-1611
+  - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-982, N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610, N-1611
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845
 - **Claim Range:** C-2453–C-2471
-- **New People Nodes Introduced:** N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-70, N-439, N-254, N-980, N-951, N-982, N-983, N-984
+- **New People Nodes Introduced:** N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-70, N-439, N-254, N-951, N-982
 - **New Investigation Target Nodes Introduced:** N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -279,30 +279,6 @@ Confidence Level: High
 
 # Node Register
 
-
-**N-976** Node 976
-
-Node Type: person
-
-*Related:*
-
-**N-980** Node 980
-
-Node Type: person
-
-*Related:*
-
-**N-983** Node 983
-
-Node Type: person
-
-*Related:*
-
-**N-984** Node 984
-
-Node Type: person
-
-*Related:*
 
 **N-968** Thomas Massie
 
@@ -573,7 +549,7 @@ Claim Timestamp: 00:03:07
 Claim: The displayed New York Post article identifies 301 East 66th Street, a 16-story post-war condo between First and Second Avenues, as a building where Jeffrey Epstein kept underage victims and which functioned as a logistical hub for his operations.
 
 Anchored Artifacts: A-1835.1
-Related Nodes: N-1604, N-976, N-980, N-983, N-984
+Related Nodes: N-1604
 Investigative Direction: Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.
 
 ---

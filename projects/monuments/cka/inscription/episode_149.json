@@ -33,8 +33,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-2256",
-            "N-2257"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -103,7 +102,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-2258"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -131,7 +130,7 @@
           ],
           "related_nodes": [
             "N-1208",
-            "N-2258"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -158,7 +157,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-2258"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +185,7 @@
           "related_nodes": [
             "N-1207",
             "N-1214",
-            "N-2256"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -213,7 +212,7 @@
           ],
           "related_nodes": [
             "N-1219",
-            "N-2259"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -279,7 +278,7 @@
             "N-1211",
             "N-1212",
             "N-1213",
-            "N-2256"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -359,7 +358,7 @@
             "N-1222",
             "N-1223",
             "N-1227",
-            "N-2257"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -387,7 +386,7 @@
           "related_nodes": [
             "N-1224",
             "N-1210",
-            "N-2261"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -539,109 +538,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Topic",
-      "@id": "N-2256",
-      "ref": "N-2256",
-      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-2257",
-      "ref": "N-2257",
-      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-2258",
-      "ref": "N-2258",
-      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-2259",
-      "ref": "N-2259",
-      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-2260",
-      "ref": "N-2260",
-      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-2261",
-      "ref": "N-2261",
-      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
-      "type": "topic",
-      "description": "### N-1207 Frank Turek",
-      "related_artifacts": [
-        "A-2427.1",
-        "A-2427.2",
-        "A-2427.3",
-        "A-2427.4",
-        "A-2429.1",
-        "A-2430.1"
-      ],
-      "related_claims": [
-        "C-3546",
-        "C-3548"
-      ],
-      "tags": [],
-      "evidence_count": 6,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2258"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1207",
@@ -1025,24 +921,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Person Andrew Wilson (N-46).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-432",
+      "ref": "N-432",
+      "name": "Derek Pepper Williams",
+      "type": "person",
+      "description": "TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Linked to PGL / Perimeter Global Logistics.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
-  ,
-      {
-        "@type": "Person",
-        "@id": "N-46",
-        "ref": "N-46",
-        "name": "Andrew Wilson",
-        "type": "person",
-        "description": "Person Andrew Wilson (N-46).",
-        "related_artifacts": [],
-        "related_claims": [],
-        "tags": [],
-        "evidence_count": 1,
-        "claim_count": 1,
-        "episode_count": 1,
-        "investigative_pressure": "medium"
-      }
-    ],
+  ],
   "claims": [
     {
       "@type": "Claim",
@@ -1054,9 +964,7 @@
         "A-2426.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1218",
-        "N-2260"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:01:19",
@@ -1072,9 +980,7 @@
         "A-2426.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1216",
-        "N-2260"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:02:11",
@@ -1090,9 +996,7 @@
         "A-2426.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1216",
-        "N-2260"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:02:11",
@@ -1108,8 +1012,7 @@
         "A-2429.1"
       ],
       "related_nodes": [
-        "N-1207",
-        "N-2258"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:11:50",
@@ -1125,8 +1028,7 @@
         "A-2428.1"
       ],
       "related_nodes": [
-        "N-1208",
-        "N-2258"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:10:07",
@@ -1142,9 +1044,8 @@
         "A-2430.1"
       ],
       "related_nodes": [
-        "N-1207",
         "N-1214",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:14:55",
@@ -1161,8 +1062,7 @@
       ],
       "related_nodes": [
         "N-1219",
-        "N-2259",
-        "N-2261"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:16:39",
@@ -1178,8 +1078,7 @@
         "A-2432.2"
       ],
       "related_nodes": [
-        "N-1209",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
@@ -1196,9 +1095,8 @@
         "A-2432.2"
       ],
       "related_nodes": [
-        "N-1209",
         "N-1210",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:18:51",
@@ -1214,9 +1112,8 @@
         "A-2432.3"
       ],
       "related_nodes": [
-        "N-1209",
         "N-1217",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
@@ -1234,7 +1131,7 @@
       "related_nodes": [
         "N-1211",
         "N-1217",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
@@ -1252,7 +1149,7 @@
       "related_nodes": [
         "N-1210",
         "N-1217",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
@@ -1270,7 +1167,7 @@
       "related_nodes": [
         "N-1212",
         "N-1217",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:20:42",
@@ -1286,8 +1183,7 @@
         "A-2432.3"
       ],
       "related_nodes": [
-        "N-1208",
-        "N-2256"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:25:02",
@@ -1307,7 +1203,7 @@
         "N-1220",
         "N-1221",
         "N-1222",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
@@ -1325,7 +1221,7 @@
       "related_nodes": [
         "N-1220",
         "N-1221",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
@@ -1345,7 +1241,7 @@
       "related_nodes": [
         "N-1227",
         "N-1228",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:35:39",
@@ -1364,7 +1260,7 @@
       "related_nodes": [
         "N-1220",
         "N-1221",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:39:48",
@@ -1383,7 +1279,7 @@
         "N-1225",
         "N-1226",
         "N-1228",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:37:12",
@@ -1400,7 +1296,7 @@
       ],
       "related_nodes": [
         "N-1220",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
@@ -1418,7 +1314,7 @@
       "related_nodes": [
         "N-1220",
         "N-1221",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:33:40",
@@ -1434,9 +1330,8 @@
         "A-2434.1"
       ],
       "related_nodes": [
-        "N-1209",
         "N-1224",
-        "N-2261"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:45:10",
@@ -1453,7 +1348,7 @@
       ],
       "related_nodes": [
         "N-1222",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",
@@ -1470,7 +1365,7 @@
       ],
       "related_nodes": [
         "N-1222",
-        "N-2257"
+        "N-432"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",

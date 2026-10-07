@@ -151,21 +151,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
-      "name": "Andrew Colberg X Post Bundle",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
       "@id": "N-590",
       "ref": "N-590",
       "name": "Andrew Colberg",
@@ -352,9 +337,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-595"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -512,8 +495,7 @@
       "related_nodes": [
         "N-590",
         "N-281",
-        "N-1429",
-        "N-595"
+        "N-1429"
       ],
       "tags": [],
       "claim_timestamp": "00:03:52",
