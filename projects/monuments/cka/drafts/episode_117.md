@@ -25,3 +25,19 @@ Episode advances the microphone rigging theory by identifying Philip Goldsberry 
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-55** (meme) Saying the Quiet Part Out Loud
+
+### Occurrence 1
+
+Video Timestamp: 00:47:15
+Speaker: N-3
+Quote: this bizarre signature? And someone said it. Someone always says the quiet part out loud. ## Comments. All right, you guys. Top comment from yesterda
+Context: Later reuse of Saying the Quiet Part Out Loud in CKA seq 117.
+Tags: admission, roast, clip, reuse
+Confidence: high
+
+---
+

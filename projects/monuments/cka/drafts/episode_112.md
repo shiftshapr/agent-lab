@@ -25,3 +25,19 @@ Episode 112 covers: Dana Loesch's X crashout defending her WLS 'widow' scripture
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-41** (meme) Sock Puppet
+
+### Occurrence 1
+
+Video Timestamp: 00:46:24
+Speaker: N-3
+Quote: to put their name behind something, they have these like they're like sock puppet accounts. So, it's like a a fake name like Paul Leva. Um, and the...
+Context: Later reuse of Sock Puppet in CKA seq 112.
+Tags: bots, astroturf, israel, reuse
+Confidence: high
+
+---
+

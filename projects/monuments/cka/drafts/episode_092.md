@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: N-2, N-5, N-1207, N-1208, N-1209, N-1210, N-6
   - (see registers)
 
+## 6. Meme Register
+
+**M-44** (meme) It's Giving
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: to this." They go, "Oh, no, no, no, never mind. I just want privacy." It's giving Megan Markle. Do you know what I mean? Like, I I want I want to b...
+Context: Later reuse of It's Giving in CKA seq 92.
+Tags: gen_z, chat_elevate, residual, reuse
+Confidence: high
+
+---
+
 ---
 
 # I. Meta-Data

@@ -917,6 +917,19 @@ Confidence: high
 
 ---
 
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:26:41
+Speaker: N-3
+Quote: learning the reality of what happened throughout the 1960s when MK Ultra when that program was running.
+Context: Host anchors modern narrative-ops talk to the MK Ultra precedent.
+Tags: psyop, history, analogy
+Confidence: high
+
+---
+
 ## 7. Legal Matter Register
 
 **** Utah v. Tyler Robinson

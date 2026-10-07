@@ -604,3 +604,16 @@ Confidence: high
 
 ---
 
+**M-40** (meme) Truman Show
+
+### Occurrence 1
+
+Video Timestamp: 00:37:42
+Speaker: N-3
+Quote: wondering whether Charlie's entire life was the Truman Show.
+Context: Host disgust-frame: surrounding behavior feels scripted like Truman Show.
+Tags: staged, metaphor, deferred_pass1
+Confidence: high
+
+---
+

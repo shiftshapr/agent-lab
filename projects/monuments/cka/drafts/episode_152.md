@@ -563,6 +563,21 @@ Investigative Direction: Treat as framing premise — testable only via underlyi
 
 ---
 
+## 6. Meme Register
+
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: about being a source or providing information. And it does seem that iron sharpens iron uh proverbial proverbally and then just bravery inspires ot...
+Context: Later reuse of Iron Sharpens Iron in CKA seq 152.
+Tags: charlie, debate, memorial, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags Summary
 
 - **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graph" — likely "Tony Graf" pending verification. (N-1208)

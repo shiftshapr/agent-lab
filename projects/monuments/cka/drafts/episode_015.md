@@ -23,6 +23,21 @@ The episode raises two primary investigative questions: (1) whether the official
 
 The episode also reasserts prior narrative threads (Charlie Kirk's Catholic trajectory, Hampton's meeting, the DoJ department memo) without displaying new artifacts for them; these are flagged as cross-episode references.
 
+## 6. Meme Register
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:19:31
+Speaker: N-3
+Quote: but I will say unequivocally that you shouldn't grieve by lying or by gaslighting. Is that fair? Can we all agree? You should not grieve by lying a...
+Context: Later reuse of Gaslight in CKA seq 15.
+Tags: media, denial, host_refrain, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

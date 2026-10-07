@@ -732,6 +732,34 @@ Investigative Direction: Verify the UTC-to-local conversion; see flag re dayligh
 
 ---
 
+## 6. Meme Register
+
+**M-34** (meme) Deep State
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: esident JFK in 1963 that the CIA established operation mockingb bird. Deep state assassinations require deep state solutions. They spent an offensi...
+Context: Later reuse of Deep State in CKA seq 33.
+Tags: intel, media, host_refrain, reuse
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:01:35
+Speaker: N-3
+Quote: for which you have no evidence. Challenge accepted. Frank Turk, let's go Max today. Welcome back to Candace. ## Operation-mocking plane. Pastor Rob...
+Context: Go Max battle cry. (CKA seq 33)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** "Andrew Kovat" vs. "Andrew Kovette" — both spellings appear in the transcript. Likely the same individual but spelling is not normalized; preserve as "Andrew Kovat" (more frequent) and flag.

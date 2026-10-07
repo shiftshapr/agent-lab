@@ -857,3 +857,16 @@ Confidence: high
 
 ---
 
+**M-29** (meme) You Can't Make This Up
+
+### Occurrence 1
+
+Video Timestamp: 00:43:29
+Speaker: N-3
+Quote: k's favorite congressman. Just a little note here. Stop stop you just can't make this up. You cannot make up that they are now being fact-checked o...
+Context: Later reuse of You Can't Make This Up in CKA seq 78.
+Tags: incredulity, headline, sarcasm, reuse
+Confidence: high
+
+---
+

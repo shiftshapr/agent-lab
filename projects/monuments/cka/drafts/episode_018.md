@@ -23,6 +23,34 @@ A third strand concerns flight activity on the day of the shooting: a military t
 
 The episode is structurally important as the first episode in the series to present the front-shot / no .30-06 finding as a "verified" assertion, and to introduce the dual-plane line of inquiry.
 
+## 6. Meme Register
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 01:02:48
+Speaker: N-3
+Quote: ub and a loyal fan and we never miss an episode. We love you so much. Christ is king. Tell her thank you. We're definitely a bit wild in the book c...
+Context: Later reuse of Christ is King in CKA seq 18.
+Tags: faith, closing, chat_elevate, reuse
+Confidence: high
+
+---
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:05:14
+Speaker: N-3
+Quote: solved. So, if you'd like to support us, obviously, you can join our decentralized intelligence agency. It is truly because people around the world...
+Context: DIA tip-network refrain. (CKA seq 18)
+Tags: reuse, pass2
+Confidence: high
+
 ---
 
 ## 3. Artifact Register

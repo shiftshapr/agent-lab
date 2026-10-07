@@ -533,3 +533,16 @@ Confidence: high
 
 ---
 
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:12:05
+Speaker: N-3
+Quote: he used to always say, "Iron sharpens iron."
+Context: Host remembers Charlie's debate mantra while describing practice rounds.
+Tags: charlie, debate, memorial
+Confidence: high
+
+---
+

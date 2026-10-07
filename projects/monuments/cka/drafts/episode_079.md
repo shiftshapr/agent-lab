@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: N-1207, N-1208
   - (see registers)
 
+## 6. Meme Register
+
+**M-32** (meme) Hit Piece
+
+### Occurrence 1
+
+Video Timestamp: 00:06:43
+Speaker: N-3
+Quote: ts. He makes phone calls. He asks his fellow Jewish journalists to do hit pieces. Charlie lived this. I was there. It was driven by nothing more th...
+Context: Later reuse of Hit Piece in CKA seq 79.
+Tags: smear, media, intimidation, reuse
+Confidence: high
+
+---
+
 ---
 
 # Episode 79 Analysis – Bride of Charlie Series

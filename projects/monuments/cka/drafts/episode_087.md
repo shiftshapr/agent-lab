@@ -958,6 +958,21 @@ Investigative Direction: Identify the document set being referenced and any pend
 
 ---
 
+## 6. Meme Register
+
+**M-48** (meme) Big Mad
+
+### Occurrence 1
+
+Video Timestamp: 00:41:51
+Speaker: N-3
+Quote: to cut through that illusion with truth. And so they're mad. They're big mad. ## Comments. Anyway, you guys, if you would like to support our show,...
+Context: Later reuse of Big Mad in CKA seq 87.
+Tags: chat_elevate, roast, comedy, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Transcript ambiguity:** The detained subject's name appears in the transcript both as "Zachariah Karashy" (in the host's framing, 06:41) and as "Zacharias Qureshi" / "Zachariah's father" Ahmed Qureshi (10:27 onward). The host equates the two. The spelling discrepancy between "Karashy" and "Qureshi" is not resolved in this episode. Flag: **Name uncertainty — requires verification against detention records.**

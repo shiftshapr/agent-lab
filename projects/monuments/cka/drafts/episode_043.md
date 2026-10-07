@@ -773,6 +773,21 @@ Investigative Direction: Cross-reference against depositions, congressional test
 
 ---
 
+## 6. Meme Register
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:02:43
+Speaker: N-3
+Quote: Remember the first government psyop on the people, MK Ultra?
+Context: Host links modern narrative pressure to classic government psyop.
+Tags: intel, residual, mk_ultra
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Chapter title mismatch:** The chapter at 10:04 is titled "The France update/correction," but the segment introduces new material (Pierre Falcone / Angolagate) rather than correcting any previously inscribed claim. Flag for review.

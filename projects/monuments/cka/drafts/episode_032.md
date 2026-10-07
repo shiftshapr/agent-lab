@@ -815,6 +815,47 @@ Investigative Direction: Verify timestamp/date of original recording; confirm vi
 
 ---
 
+## 6. Meme Register
+
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:02:23
+Speaker: N-3
+Quote: did we leave off on the brit mccron? I was speaking to you guys about MK Ultra. How odd it was that of everything I said in my series, Breijgit Mcr...
+Context: Later reuse of MK Ultra in CKA seq 32.
+Tags: psyop, history, analogy, reuse
+Confidence: high
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:00:44
+Speaker: N-3
+Quote: r way to present that information. It's a fact now that everything is fake and gay and dangerously so. I was freaking out realizing that quite lite...
+Context: Fake and gay dismissal refrain. (CKA seq 32)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:53:14
+Speaker: N-3
+Quote: eep you and your family safe. I love you, sweet girl. Christ is king. Go Max. Go Max. Indeed, we are going Max. Truth accountability writes Candace...
+Context: Go Max battle cry. (CKA seq 32)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty (N-394):** Transcript renders Lou Taylor's husband's name as "Robin," "Rob," and "Luke" Taylor. Treated as single node with flag; primary source required.

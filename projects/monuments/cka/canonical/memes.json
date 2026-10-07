@@ -1,8 +1,8 @@
 {
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes — shared across monuments",
-  "updated": "2026-10-07T06:22:36.735098+00:00",
-  "next_id": 25,
+  "updated": "2026-10-07T06:32:06.358543+00:00",
+  "next_id": 61,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -244,6 +244,389 @@
       "definition": "Frank Turek hospital-ride phrase the host weaponizes as running gag and nickname fuel",
       "context": "cka",
       "first_episode": 128
+    },
+    "M-25": {
+      "canonical_term": "(meme) Iron Sharpens Iron",
+      "type": "meme",
+      "aliases": [
+        "iron sharpens iron"
+      ],
+      "definition": "Charlie / host refrain that debate and pushback refine people; memorial practice frame",
+      "context": "cka",
+      "first_episode": 1
+    },
+    "M-26": {
+      "canonical_term": "(meme) Gaslight",
+      "type": "meme",
+      "aliases": [
+        "gaslighting",
+        "gaslight us",
+        "gas lit"
+      ],
+      "definition": "Host charge that media and allies deny viewers' eyes after public events",
+      "context": "cka",
+      "first_episode": 2
+    },
+    "M-27": {
+      "canonical_term": "(meme) Shill",
+      "type": "meme",
+      "aliases": [
+        "shills"
+      ],
+      "definition": "Host charge that someone is planted to steer an org or narrative for paymasters",
+      "context": "cka",
+      "first_episode": 2
+    },
+    "M-28": {
+      "canonical_term": "(meme) Christ is King",
+      "type": "meme",
+      "aliases": [
+        "Christ is king"
+      ],
+      "definition": "Recurring confession and closing refrain elevated across chat and host commentary",
+      "context": "cka",
+      "first_episode": 2
+    },
+    "M-29": {
+      "canonical_term": "(meme) You Can't Make This Up",
+      "type": "meme",
+      "aliases": [
+        "can't make this up",
+        "cannot make this up"
+      ],
+      "definition": "Host incredulity punchline when headlines or timelines turn absurd",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-30": {
+      "canonical_term": "(meme) Nothing to See Here",
+      "type": "meme",
+      "aliases": [
+        "nothing to see here"
+      ],
+      "definition": "Sarcastic dismissal of official move-along framing after shocking events",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-31": {
+      "canonical_term": "(meme) Buckle Up",
+      "type": "meme",
+      "aliases": [
+        "buckle up"
+      ],
+      "definition": "Host show-energy cue before dumping more facts or receipts",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-32": {
+      "canonical_term": "(meme) Hit Piece",
+      "type": "meme",
+      "aliases": [
+        "hit pieces"
+      ],
+      "definition": "Host label for coordinated smear articles used as intimidation",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-33": {
+      "canonical_term": "(meme) Just Asking Questions",
+      "type": "meme",
+      "aliases": [
+        "just asking questions",
+        "I'm just asking questions"
+      ],
+      "definition": "Host / audience refrain claiming epistemic humility while pressing uncomfortable lines",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-34": {
+      "canonical_term": "(meme) Deep State",
+      "type": "meme",
+      "aliases": [
+        "deep state"
+      ],
+      "definition": "Host shorthand for entrenched intel/media power opposing America-first questioning",
+      "context": "cka",
+      "first_episode": 5
+    },
+    "M-35": {
+      "canonical_term": "(meme) Rabbit Hole",
+      "type": "meme",
+      "aliases": [
+        "rabbit hole",
+        "down the rabbit hole"
+      ],
+      "definition": "Media / critic insult for following uncomfortable research; host wears it as badge",
+      "context": "cka",
+      "first_episode": 5
+    },
+    "M-36": {
+      "canonical_term": "(meme) Play Stupid Games Win Stupid Prizes",
+      "type": "meme",
+      "aliases": [
+        "play stupid games",
+        "win stupid prizes",
+        "Play Stupid Games, Win Stupid Prizes"
+      ],
+      "definition": "Charlie Kirk proverb the host elevates when adversaries blunder",
+      "context": "cka",
+      "first_episode": 5
+    },
+    "M-37": {
+      "canonical_term": "(meme) Grifter",
+      "type": "meme",
+      "aliases": [
+        "grifting",
+        "grift",
+        "grifters"
+      ],
+      "definition": "Host charge that actors monetize tragedy or perform loyalty for cash",
+      "context": "cka",
+      "first_episode": 7
+    },
+    "M-38": {
+      "canonical_term": "(meme) MK Ultra",
+      "type": "meme",
+      "aliases": [
+        "MKUltra",
+        "MK-Ultra"
+      ],
+      "definition": "Host historical psyop frame reused for modern mind-control / narrative ops analogies",
+      "context": "cka",
+      "first_episode": 9
+    },
+    "M-39": {
+      "canonical_term": "(meme) Same Energy",
+      "type": "meme",
+      "aliases": [
+        "same energy"
+      ],
+      "definition": "Host / chat vibe-match joke comparing people, clips, or institutions",
+      "context": "cka",
+      "first_episode": 10
+    },
+    "M-40": {
+      "canonical_term": "(meme) Truman Show",
+      "type": "meme",
+      "aliases": [
+        "the Truman Show"
+      ],
+      "definition": "Host metaphor that Charlie's public life and aftermath feel staged like a TV set",
+      "context": "cka",
+      "first_episode": 12
+    },
+    "M-41": {
+      "canonical_term": "(meme) Sock Puppet",
+      "type": "meme",
+      "aliases": [
+        "sock puppets",
+        "sockpuppet",
+        "sockpuppets"
+      ],
+      "definition": "Host label for fake / military bot accounts pumping a line",
+      "context": "cka",
+      "first_episode": 13
+    },
+    "M-42": {
+      "canonical_term": "(meme) Scripted",
+      "type": "meme",
+      "aliases": [
+        "scripted"
+      ],
+      "definition": "Host charge that events, panels, or responses feel pre-written",
+      "context": "cka",
+      "first_episode": 13
+    },
+    "M-43": {
+      "canonical_term": "(meme) Community Notes for the Win",
+      "type": "meme",
+      "aliases": [
+        "community notes",
+        "community notes for the win"
+      ],
+      "definition": "Host celebration when crowd fact-checks dunk a false post",
+      "context": "cka",
+      "first_episode": 16
+    },
+    "M-44": {
+      "canonical_term": "(meme) It's Giving",
+      "type": "meme",
+      "aliases": [
+        "its giving",
+        "giving Joey"
+      ],
+      "definition": "Chat / host Gen-Z vibe attribution: something is giving X energy",
+      "context": "cka",
+      "first_episode": 17
+    },
+    "M-45": {
+      "canonical_term": "(meme) Spiritual Warfare",
+      "type": "meme",
+      "aliases": [
+        "spiritual warfare"
+      ],
+      "definition": "Host and chat frame casting the fight as spiritual not merely political",
+      "context": "cka",
+      "first_episode": 17
+    },
+    "M-46": {
+      "canonical_term": "(meme) Handler",
+      "type": "meme",
+      "aliases": [
+        "handlers"
+      ],
+      "definition": "Host theory-language for operators managing talent, narratives, or assets",
+      "context": "cka",
+      "first_episode": 19
+    },
+    "M-47": {
+      "canonical_term": "(meme) Megachurches Look Funny",
+      "type": "meme",
+      "aliases": [
+        "mega churches",
+        "megachurches",
+        "megachurch"
+      ],
+      "definition": "Host jab that big evangelical operations look financially and spiritually off",
+      "context": "cka",
+      "first_episode": 23
+    },
+    "M-48": {
+      "canonical_term": "(meme) Big Mad",
+      "type": "meme",
+      "aliases": [
+        "big mad",
+        "haters stay big mad"
+      ],
+      "definition": "Host / chat tease for opponents who are disproportionately angry online",
+      "context": "cka",
+      "first_episode": 27
+    },
+    "M-49": {
+      "canonical_term": "(meme) Nothing Burger",
+      "type": "meme",
+      "aliases": [
+        "nothingburger"
+      ],
+      "definition": "Host dunk that a hyped claim or report delivered nothing substantive",
+      "context": "cka",
+      "first_episode": 27
+    },
+    "M-50": {
+      "canonical_term": "(meme) Honeypot",
+      "type": "meme",
+      "aliases": [
+        "honey pot",
+        "Israeli honeypot"
+      ],
+      "definition": "Host / tip language for seduction or intel entrapment operations, often Israel-linked",
+      "context": "cka",
+      "first_episode": 30
+    },
+    "M-51": {
+      "canonical_term": "(meme) Cringe",
+      "type": "meme",
+      "aliases": [
+        "cringe",
+        "factor of cringe"
+      ],
+      "definition": "Host aesthetic verdict on humiliating public performances",
+      "context": "cka",
+      "first_episode": 37
+    },
+    "M-52": {
+      "canonical_term": "(meme) Patsy",
+      "type": "meme",
+      "aliases": [
+        "patsy"
+      ],
+      "definition": "Host label for the designated fall person who must be protected or sacrificed",
+      "context": "cka",
+      "first_episode": 38
+    },
+    "M-53": {
+      "canonical_term": "(meme) False Flag",
+      "type": "meme",
+      "aliases": [
+        "false flag"
+      ],
+      "definition": "Host possibility-frame that an attack is staged to justify a larger agenda",
+      "context": "cka",
+      "first_episode": 39
+    },
+    "M-54": {
+      "canonical_term": "(meme) Psyop",
+      "type": "meme",
+      "aliases": [
+        "psy-op",
+        "psy op",
+        "psychological operation"
+      ],
+      "definition": "Host shorthand for psychological operations run on the public",
+      "context": "cka",
+      "first_episode": 43
+    },
+    "M-55": {
+      "canonical_term": "(meme) Saying the Quiet Part Out Loud",
+      "type": "meme",
+      "aliases": [
+        "quiet part out loud",
+        "saying the quiet part"
+      ],
+      "definition": "Host praise/roast when someone admits the unspeakable motive on mic",
+      "context": "cka",
+      "first_episode": 51
+    },
+    "M-56": {
+      "canonical_term": "(meme) Clown World",
+      "type": "meme",
+      "aliases": [
+        "clown world"
+      ],
+      "definition": "Host / chat diagnosis that institutional reality has gone absurdly inverted",
+      "context": "cka",
+      "first_episode": 59
+    },
+    "M-57": {
+      "canonical_term": "(meme) Paranoid Schizo",
+      "type": "meme",
+      "aliases": [
+        "paranoid schizo",
+        "schizo"
+      ],
+      "definition": "Host self-aware joke about distrust after too many betrayals",
+      "context": "cka",
+      "first_episode": 62
+    },
+    "M-58": {
+      "canonical_term": "(meme) Useful Idiot",
+      "type": "meme",
+      "aliases": [
+        "useful idiots"
+      ],
+      "definition": "Host label for people amplifying fed or institutional narratives without knowing",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-59": {
+      "canonical_term": "(meme) Sus",
+      "type": "meme",
+      "aliases": [
+        "super sus"
+      ],
+      "definition": "Host / chat shorthand that a person, clip, or timeline looks suspicious",
+      "context": "cka",
+      "first_episode": 83
+    },
+    "M-60": {
+      "canonical_term": "(meme) Crisis Actor",
+      "type": "meme",
+      "aliases": [
+        "crisis actors"
+      ],
+      "definition": "Host / tip language for people cast to sell an official story after trauma",
+      "context": "cka",
+      "first_episode": 120
     }
   },
   "types": {

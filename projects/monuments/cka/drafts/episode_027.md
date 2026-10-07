@@ -869,6 +869,34 @@ The UVU event timeline dispute is the principal artifact-anchored contradiction 
 
 ---
 
+## 6. Meme Register
+
+**M-48** (meme) Big Mad
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: and the haters stay mad. Haters stay big mad on the internet, on X today.
+Context: Host opens #1 podcast celebration by roasting big-mad haters.
+Tags: chat_elevate, roast, comedy
+Confidence: high
+
+---
+
+**M-49** (meme) Nothing Burger
+
+### Occurrence 1
+
+Video Timestamp: 00:59:56
+Speaker: N-3
+Quote: It's just it's it's been one big nothing burger.
+Context: Host dismisses thin case-building as a nothing burger.
+Tags: dismissal, dunk, sarcasm
+Confidence: high
+
+---
+
 ## IX. Optional Flags
 
 - **Name uncertainty:** Episode uses "Erika Kirk" throughout, while prior ledger convention (per Protocol Example) uses "Erica Kirk." Preserve as "Erika Kirk" for this episode and flag for cross-episode normalization review.

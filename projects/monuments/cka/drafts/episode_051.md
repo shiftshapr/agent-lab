@@ -569,3 +569,16 @@ Confidence: high
 
 ---
 
+**M-55** (meme) Saying the Quiet Part Out Loud
+
+### Occurrence 1
+
+Video Timestamp: 00:04:47
+Speaker: N-3
+Quote: He's the person that is saying the quiet part out loud.
+Context: Host points at Tim Dillon clip as quiet-part admission.
+Tags: admission, roast, clip
+Confidence: high
+
+---
+

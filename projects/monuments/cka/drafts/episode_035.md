@@ -26,6 +26,21 @@ The second evidentiary strand introduces a documentary contradiction within TPUS
 
 Structurally, the episode introduces Wilmington, Delaware as a new investigative geography and elevates the insider-email-vetting process as a methodological development in the series.
 
+## 6. Meme Register
+
+**M-35** (meme) Rabbit Hole
+
+### Occurrence 1
+
+Video Timestamp: 00:05:32
+Speaker: N-3
+Quote: ing maybe this was meant to distract us. We're going to run down this rabbit hole and no, that's not the case. We vetted it across multiple governm...
+Context: Later reuse of Rabbit Hole in CKA seq 35.
+Tags: media_insult, badge, research, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

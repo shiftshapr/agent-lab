@@ -990,6 +990,19 @@ Uncertainty: Pattern invoked implicitly; explicit 'conspiracy theorist' label no
 
 ---
 
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:44:12
+Speaker: N-3
+Quote: wed to have it. And you also have to remember Charlie wanted us to be happy warriors. So while we are fighting for truth, while we are fighting for...
+Context: Recurring happy-warrior refrain. (CKA seq 6)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## 8. Organization Network
 
 OrgLink: N-1139 affiliated_with N-1147

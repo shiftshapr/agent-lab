@@ -1002,6 +1002,19 @@ Confidence: high
 
 ---
 
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:47:35
+Speaker: N-3
+Quote: p to candace. com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no merc
+Context: CIA merch / Candace Intelligence Agency bit. (CKA seq 8)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## 8. Organization Network
 
 OrgLink: N-1000 funded_by N-1159

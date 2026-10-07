@@ -538,6 +538,21 @@ Investigative Direction: Obtain the full text thread; identify timestamp when TP
 
 ---
 
+## 6. Meme Register
+
+**M-52** (meme) Patsy
+
+### Occurrence 1
+
+Video Timestamp: 00:57:13
+Speaker: N-3
+Quote: go. Seven Sheets writes, "Why is TPUSA rushing to convict an obvious patsy, mere participant, rather than trying to answer the questions that Canda...
+Context: Later reuse of Patsy in CKA seq 82.
+Tags: fall_guy, case, host_charge, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript — "Kolbet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.

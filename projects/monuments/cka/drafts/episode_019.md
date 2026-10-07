@@ -944,6 +944,19 @@ Confidence: high
 
 ---
 
+**M-46** (meme) Handler
+
+### Occurrence 1
+
+Video Timestamp: 00:52:17
+Speaker: N-3
+Quote: I think handlers were sent out to manage to first and foremost break apart me and Charlie
+Context: Host theorizes handlers were deployed after Kanye contact.
+Tags: intel, operators, theory
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty — Camera Operator (N-256):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.

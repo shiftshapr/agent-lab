@@ -438,6 +438,21 @@ The artifact, node, and claim registers are mutually cross-referenced. Key struc
 
 ---
 
+## 6. Meme Register
+
+**M-40** (meme) Truman Show
+
+### Occurrence 1
+
+Video Timestamp: 00:23:53
+Speaker: N-3
+Quote: ted. I'll ask a broader question. Are all of our lives a bit like The Truman Show? Do we have essentially a cast of characters who are performing a...
+Context: Later reuse of Truman Show in CKA seq 49.
+Tags: staged, metaphor, deferred_pass1, reuse
+Confidence: high
+
+---
+
 ## VII. Optional Flags
 
 - **Artifact verbally referenced but not shown**: A-1559.2 (Brian Harpole reference photo) and A-1559.3 (Erika Kirk reference photo with ponytail) — host references these as identification comparisons but the on-screen display is not detailed in the transcript.

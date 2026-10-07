@@ -1105,3 +1105,42 @@ Confidence: high
 
 ---
 
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:25:05
+Speaker: N-3
+Quote: You're not going to gaslight us and tell us to shut up or call us anti-Semitic for pointing out the fact
+Context: Host rejects narrative pressure after Charlie Kirk death coverage.
+Tags: media, denial, host_refrain
+Confidence: high
+
+---
+
+**M-27** (meme) Shill
+
+### Occurrence 1
+
+Video Timestamp: 00:31:30
+Speaker: N-3
+Quote: You put a shill in Charlie Kirk's chair, in Charlie Kirk's uh company
+Context: Host warns against a planted successor at Turning Point USA.
+Tags: tpusa, planted, host_refrain
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 01:08:31
+Speaker: N-3
+Quote: Christ is king. Praying for you and your family. Thank you very much. Christ is king.
+Context: Viewer tribute read on air elevates the closing confession refrain.
+Tags: faith, closing, chat_elevate
+Confidence: high
+
+---
+

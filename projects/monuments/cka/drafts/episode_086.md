@@ -574,6 +574,21 @@ Investigative Direction: Obtain forensic pathology review of any surgeon communi
 
 ---
 
+## 6. Meme Register
+
+**M-27** (meme) Shill
+
+### Occurrence 1
+
+Video Timestamp: 01:03:59
+Speaker: N-3
+Quote: can go online and appreciate all of the people who are just shameless shills and lying to you about the filing and pretending that it's nothing and...
+Context: Later reuse of Shill in CKA seq 86.
+Tags: tpusa, planted, host_refrain, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown**: Frank Turek's actual hospital statement is referenced via Kim Haven's comment but is not displayed in this episode. (A-1916.1 frames the challenge but does not contain Turek's original text.)

@@ -33,6 +33,21 @@
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk — preserved as N-2 series entry; note: transcript renders "Erika" — see Optional Flags)
 
+## 6. Meme Register
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:50:52
+Speaker: N-3
+Quote: e that we had to do the tough but the moral thing. Well, well, it's a psyop. Like, we just need the money, but they'll realize that we took a moral...
+Context: Later reuse of Psyop in CKA seq 64.
+Tags: intel, residual, mk_ultra, reuse
+Confidence: high
+
+---
+
 ---
 
 # II. EXECUTIVE SUMMARY

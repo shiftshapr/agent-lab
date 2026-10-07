@@ -23,6 +23,21 @@ The second major thread introduces new donor relationships, including a reported
 
 The episode's investigative significance lies in introducing new documentary artifacts (posters, Kickstarter, audio clips) tying Erika to a specific Fort Huachuca-connected film project, and in elevating donor and charity concerns (Courage House Nevada) to the formal record.
 
+## 6. Meme Register
+
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 00:51:27
+Speaker: N-3
+Quote: original signature from me twice if you buy that bundle. And come on, conspiracy girly bugs. They are serving. There's actually another one somewhe...
+Context: Conspiracy girly self-label. (CKA seq 58)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

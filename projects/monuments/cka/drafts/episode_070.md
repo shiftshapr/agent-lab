@@ -21,6 +21,21 @@ Episode 70 is structurally a three-clip episode plus an extended host monologue 
 
 The episode's structural importance is twofold: it converts three separate third-party artifacts (Gallagher interview, Lech video, Dillon clip) into the series' record, and it consolidates a set of open investigative targets that prior episodes had only flagged in passing.
 
+## 6. Meme Register
+
+**M-40** (meme) Truman Show
+
+### Occurrence 1
+
+Video Timestamp: 00:40:26
+Speaker: N-3
+Quote: lready read that. Cory Henry wrote, "Candace, I love you. This is the Truman Show." That's why Andrew said, "Candace, it was supposed to be you." T...
+Context: Later reuse of Truman Show in CKA seq 70.
+Tags: staged, metaphor, deferred_pass1, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

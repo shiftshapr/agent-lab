@@ -25,3 +25,19 @@ Episode 115 alleges a PETN-explosives link between Mark A. Liti's 2022 burn-barr
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-49** (meme) Nothing Burger
+
+### Occurrence 1
+
+Video Timestamp: 00:33:09
+Speaker: N-3
+Quote: ts whatever thing she is looking for, which of course will be a total nothing burger, she'll move on to dismissing it as irrelevant or just stop ta...
+Context: Later reuse of Nothing Burger in CKA seq 115.
+Tags: dismissal, dunk, sarcasm, reuse
+Confidence: high
+
+---
+

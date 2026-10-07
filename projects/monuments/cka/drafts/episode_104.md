@@ -31,6 +31,21 @@ Trump-world operative and later US ambassador to India. Host ties him to Winning
 
 *Related: prose mention in episode*
 
+## 6. Meme Register
+
+**M-42** (meme) Scripted
+
+### Occurrence 1
+
+Video Timestamp: 00:31:30
+Speaker: N-3
+Quote: pable of. In the end, old school pursuit of truth will always outlive scripted trash talk. Are you okay, Nick? Like, are you are we are not trying ...
+Context: Later reuse of Scripted in CKA seq 104.
+Tags: staged, event, host_charge, reuse
+Confidence: high
+
+---
+
 ---
 
 **N-225** Steven Cheung

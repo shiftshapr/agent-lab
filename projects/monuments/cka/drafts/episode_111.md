@@ -25,3 +25,32 @@
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-36** (meme) Play Stupid Games Win Stupid Prizes
+
+### Occurrence 1
+
+Video Timestamp: 00:51:07
+Speaker: N-3
+Quote: o sorry to the boyfriend now fiance for catching strays here. But you play stupid games you win stupid prizes. The truth has to come out. Yeah, she...
+Context: Later reuse of Play Stupid Games Win Stupid Prizes in CKA seq 111.
+Tags: charlie, proverb, merch_adjacent, reuse
+Confidence: high
+
+---
+
+**M-56** (meme) Clown World
+
+### Occurrence 1
+
+Video Timestamp: 00:07:43
+Speaker: N-3
+Quote: lexander Dugin. I don't know what this is other than Cirque du Soleil Clown World. But before we get into why cuz there is a reason why in particul...
+Context: Later reuse of Clown World in CKA seq 111.
+Tags: absurd, residual, institution, reuse
+Confidence: high
+
+---
+

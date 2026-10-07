@@ -909,6 +909,21 @@ Investigative Direction: Verify Phil Riley's CIA and Orbis employment; cross-che
 
 ---
 
+## 6. Meme Register
+
+**M-47** (meme) Megachurches Look Funny
+
+### Occurrence 1
+
+Video Timestamp: 00:52:45
+Speaker: N-3
+Quote: ng and people are waking up uh to the Zionist agenda in many of these mega churches. Ali768 wrote, "Since Blakey slithered into your comments last ...
+Context: Later reuse of Megachurches Look Funny in CKA seq 110.
+Tags: church, sarcasm, money, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 1. **Name uncertainty — "Fort Wuka" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Wuka." Preserved as "Fort Wuka" where quoting host; standard spelling used elsewhere.

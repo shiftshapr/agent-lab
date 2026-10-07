@@ -520,6 +520,21 @@ Investigative Direction: Identify the original podcast episode (Tim Dillon Show)
 
 ---
 
+## 6. Meme Register
+
+**M-46** (meme) Handler
+
+### Occurrence 1
+
+Video Timestamp: 00:26:15
+Speaker: N-3
+Quote: , it's creepy. And there's a very good chance that this woman was his handler. That he was this powerful young guy who raised a lot of money for a ...
+Context: Later reuse of Handler in CKA seq 75.
+Tags: intel, operators, theory, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (Aleister Crowley "Book of Evil Spirits"):** The host mentions Aleister Crowley's writings on pentacles and a book titled "Book of Evil Spirits" with a "star of David" cover but no visual artifact is displayed. Possible transcription error or simply described-by-host. Requires human verification.

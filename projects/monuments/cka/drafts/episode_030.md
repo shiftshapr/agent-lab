@@ -622,3 +622,29 @@ Confidence: high
 
 ---
 
+**M-50** (meme) Honeypot
+
+### Occurrence 1
+
+Video Timestamp: 00:37:38
+Speaker: N-3
+Quote: Because she was called a honeypot, an Israeli honeypot.
+Context: Host recounts $5M suit over Israeli-honeypot allegation.
+Tags: intel, entrapment, residual
+Confidence: high
+
+---
+
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:49:13
+Speaker: N-3
+Quote: It puts me in a good mood every day." And Charlie always said, "Be a happy warrior." So, I am a happy warrior. Uh, the original Polywog writes, "Wa...
+Context: Recurring happy-warrior refrain. (CKA seq 30)
+Tags: reuse, pass2
+Confidence: high
+
+---
+

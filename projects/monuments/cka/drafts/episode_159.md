@@ -24,6 +24,21 @@
 
 Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)—timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam—plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
 
+## 6. Meme Register
+
+**M-60** (meme) Crisis Actor
+
+### Occurrence 1
+
+Video Timestamp: 00:25:31
+Speaker: N-3
+Quote: erican involvement. June 17th, UVU hosts a fake drill simulation with crisis actors for a mass casualty event. On the 18th and the 19th, Charlie ph...
+Context: Later reuse of Crisis Actor in CKA seq 159.
+Tags: staged, media, tip_language, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

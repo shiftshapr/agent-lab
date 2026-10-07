@@ -516,6 +516,21 @@ Investigative Direction: Obtain original Miss Arizona-era signed documents from 
 
 ---
 
+## 6. Meme Register
+
+**M-60** (meme) Crisis Actor
+
+### Occurrence 1
+
+Video Timestamp: 00:17:36
+Speaker: N-3
+Quote: Some people call these people crisis actors.
+Context: Host notes tip/chat language calling early media speakers crisis actors.
+Tags: staged, media, tip_language
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty**: Transcript renders the signature as "Erica Lane" at A-2091.1 reference (39:46). This may be a transcription artifact, a nickname, or an alternative spelling. Host references it as "her new signature, Erica Lane, the one that's scratched out." Preserved verbatim.

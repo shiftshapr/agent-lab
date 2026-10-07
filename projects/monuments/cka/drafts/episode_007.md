@@ -779,3 +779,16 @@ Confidence: high
 
 ---
 
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:27:00
+Speaker: N-3
+Quote: As part of her grift to monetize the murder of her quote unquote best friend
+Context: Host frames Laura Loomer attacks as monetized tragedy-grift.
+Tags: monetize, loyalty_performance, residual
+Confidence: high
+
+---
+

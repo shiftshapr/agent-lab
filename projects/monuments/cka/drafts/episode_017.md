@@ -942,6 +942,34 @@ Both anchors are first-party audio artifacts from named speakers about the same 
 
 ---
 
+## 6. Meme Register
+
+**M-44** (meme) It's Giving
+
+### Occurrence 1
+
+Video Timestamp: 01:09:20
+Speaker: N-3
+Quote: It's giving Joey from Friends. Do they know that we know know?
+Context: Chat donation comment elevated on air: vibe-match meme.
+Tags: gen_z, chat_elevate, residual
+Confidence: high
+
+---
+
+**M-45** (meme) Spiritual Warfare
+
+### Occurrence 1
+
+Video Timestamp: 01:10:16
+Speaker: N-3
+Quote: pulling back the veil on the current spiritual warfare needed to be shown by you on a global stage.
+Context: Chat tribute frames Charlie's death and Candace's stage as spiritual warfare.
+Tags: faith, chat_elevate, frame
+Confidence: high
+
+---
+
 ## VIII. Optional Flags
 
 - **Name uncertainty (Gianmarco Soresi / John Marco Siracusa):** Transcript caption and host referent disagree on spelling. Preserved both, attached to A-1247.1 and N-231.

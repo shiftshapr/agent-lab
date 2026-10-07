@@ -21,6 +21,21 @@ Episode 127 advances the Bride of Charlie series' preliminary-hearing record by 
 
 The episode's investigative contributions are concentrated in three structural questions: (1) who was on the Losee Center rooftop between 12:23 and 12:44 and how that person's badge was verified; (2) the chain of communication by which a backpack found along the shooter route was reclassified as "Kirk's detail" without testing; and (3) the inconsistencies in Frank Turek's account of his FaceTime call during the incident. A separate tip from a verified Timpanogos Regional Hospital source advances the hospital-pre-notification question. No new evidentiary artifacts are introduced in the comments section; that material is non-investigative.
 
+## 6. Meme Register
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:34:40
+Speaker: N-3
+Quote: tch the podcast or something. What are we doing? Like you this is the psyop just has to end. It has to end. It has failed. And I have to be honest ...
+Context: Later reuse of Psyop in CKA seq 127.
+Tags: intel, residual, mk_ultra, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

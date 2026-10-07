@@ -25,3 +25,19 @@ Episode 119 of Bride of Charlie. Shawn Ryan team testimony: Brian Harpole offere
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-55** (meme) Saying the Quiet Part Out Loud
+
+### Occurrence 1
+
+Video Timestamp: 00:41:12
+Speaker: N-3
+Quote: b McCoy's newest sermon...about me. - Tucker Carlson says the quiet part out loud about Charlie's death. - Comments. ## Start. Yes, I'm pregnant. A...
+Context: Later reuse of Saying the Quiet Part Out Loud in CKA seq 119.
+Tags: admission, roast, clip, reuse
+Confidence: high
+
+---
+

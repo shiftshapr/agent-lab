@@ -541,3 +541,16 @@ Confidence: high
 
 ---
 
+**M-57** (meme) Paranoid Schizo
+
+### Occurrence 1
+
+Video Timestamp: 00:32:06
+Speaker: N-3
+Quote: We're a little paranoid schizo right now and we just don't know who to trust.
+Context: Host owns collective paranoia after trust collapses.
+Tags: self_aware, comedy, distrust
+Confidence: high
+
+---
+
