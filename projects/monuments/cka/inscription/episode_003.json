@@ -161,7 +161,8 @@
           "related_nodes": [
             "N-69",
             "N-84",
-            "N-1095"
+            "N-1095",
+            "N-98"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -969,19 +970,16 @@
       "@type": "Person",
       "@id": "N-98",
       "ref": "N-98",
-      "name": "Mark",
+      "name": "Mark Herman (director, Candace show)",
       "type": "person",
-      "description": "Studio contributor commenting on ellipsis formatting in text chain.",
+      "description": "In-house director on Candace Owens' show, called on air by first name (seq 27 roster line: \"Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer\"). Here the host brings him in (\"Go ahead, Mark. Yeah. He's a guy that's always in my ear\") and he points out ellipses above the indictment's Robinson-Lance text exchanges, saying the exchanges look cherry-picked.",
       "related_artifacts": [
-        "A-1095.1",
         "A-1095.8"
       ],
-      "related_claims": [
-        "C-1144"
-      ],
+      "related_claims": [],
       "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
+      "evidence_count": 1,
+      "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "medium"
     },
@@ -1274,7 +1272,6 @@
         "N-61",
         "N-95",
         "N-96",
-        "N-98",
         "N-99"
       ],
       "tags": [],

@@ -204,6 +204,17 @@ Investigative Pressure: Low
 
 *Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-1454*
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he answers the host's geography question about Davis-Monthan AFB relative to Fort Huachuca: "it's a little over an hour north in Tucson."
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: C-2012*
+
 **N-1452** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.
@@ -375,7 +386,7 @@ Claim: The Davis-Monthan AFB website announces that the Arizona Commanders Summi
 
 Anchored Artifacts: A-1583.1
 
-Related Nodes: N-1455, N-1454
+Related Nodes: N-1455, N-1454, N-98
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 

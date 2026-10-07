@@ -589,6 +589,21 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark Herman (director, Candace show)",
+      "type": "person",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, answering a viewer comment about security guards handing something off, the host says she and Mark reviewed the footage slowly and from different angles. No claim anchor; registered for cross-episode continuity.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [

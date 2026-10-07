@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated": "2026-10-07T02:42:46Z",
+  "updated": "2026-10-07T05:15:00Z",
   "description": "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-10": {
@@ -3107,6 +3107,21 @@
       "survives_as": null,
       "canonical_name": "Node 2107",
       "reason": "Objectlike garbage label (Node NNN) retired."
+    },
+    "legacy-N-237": {
+      "survives_as": "N-98",
+      "canonical_name": "Mark Herman (director, Candace show)",
+      "reason": "Duplicate person collapsed into N-98 (Mark Herman (director, Candace show))."
+    },
+    "legacy-N-407": {
+      "survives_as": "N-98",
+      "canonical_name": "Mark Herman (director, Candace show)",
+      "reason": "Duplicate person collapsed into N-98 (Mark Herman (director, Candace show))."
+    },
+    "legacy-N-527": {
+      "survives_as": "N-98",
+      "canonical_name": "Mark Herman (director, Candace show)",
+      "reason": "Duplicate person collapsed into N-98 (Mark Herman (director, Candace show))."
     }
   }
 }

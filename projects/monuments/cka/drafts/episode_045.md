@@ -34,8 +34,8 @@
 ### Episode 45 Ledger Summary
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
-  - New Nodes Introduced: N-527, N-1403, N-1404
-  - Reused Nodes Appearing: N-2, N-44
+  - New Nodes Introduced: N-1403, N-1404
+  - Reused Nodes Appearing: N-2, N-44, N-98
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:38
 Confidence Level: High
 
-*Related: C-1906, N-1403, N-527*
+*Related: C-1906, N-1403, N-98*
 
 ---
 
@@ -230,9 +230,10 @@ Investigative Pressure: High
 
 ---
 
-**N-527** Mark
+**N-98** Mark Herman (director, Candace show)
 
-On-air contributor who provides flight-tracking analysis for USAF C37A 99-044 in this episode, explaining the RCH-to-SAM call sign change after departing Fort Huachuca. Likely a recurring contributor to host's show but not previously introduced as a Bride of Charlie person node.
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in "to mansplain" the logs for USAF C37A 99-044: the transponder goes dark from Tucson, and the call sign switches from RCH (Reach) to SAM (Special Air Mission) after Fort Huachuca, which he reads as a senior official being picked up there.
 
 Evidence Count: 1
 Claim Count: 1
@@ -265,7 +266,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1529.1, A-1530.1, C-1905, C-1906, C-1910, N-527*
+*Related: A-1529.1, A-1530.1, C-1905, C-1906, C-1910, N-98*
 
 ---
 
@@ -417,7 +418,7 @@ Claim Timestamp: 00:48:38
 Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to on-air flight analyst Mark indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.
 
 Anchored Artifacts: A-1530.1
-Related Nodes: N-1403, N-527
+Related Nodes: N-1403, N-98
 
 Investigative Direction: Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.
 
@@ -511,7 +512,7 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] People nodes use global people ledger (N-2, N-527, N-518)
+- [x] People nodes use global people ledger (N-2, N-98, N-518)
 - [x] Non-person investigation targets use 1000 series (N-1403, N-1404)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Nef, Wuka/Huachuca, Erika/Erica)

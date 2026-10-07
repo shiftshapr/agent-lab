@@ -327,6 +327,17 @@ Investigative Pressure: Low
 
 *Related: C-1541, A-1295.3, N-293*
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he explains the FlightRadar chart for the Biggs Army Airfield plane (altitude, airspeed, 3:16 p.m. UTC, minus 6 hours for 9:16 a.m. Utah time); the host later cites his UTC explanation and a correction he gave "in my ear", and in comments he says the N1098L plane was over Idaho, not Provo, when Charlie Kirk was shot.
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: C-1527*
+
 **N-1269** Provo Airport Flight Anomaly Cluster
 
 Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).
@@ -380,7 +391,7 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:02:17
 Claim: FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.
 Anchored Artifacts: A-1290.1
-Related Nodes: N-1269
+Related Nodes: N-1269, N-98
 Investigative Direction: Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.
 
 **C-1528** Second low dip approximately 26 minutes after the assassination

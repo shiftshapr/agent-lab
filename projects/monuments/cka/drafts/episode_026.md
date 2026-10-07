@@ -393,6 +393,19 @@ Investigative Pressure: Medium
 
 ---
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in "in my ear to mansplain" the CNN exit poll, and he says Zohran Mamdani got about 32% of the Jewish vote in a poll of about 4,700 people.
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: C-1614*
+
+---
+
 ### Investigation Target Nodes
 
 **N-1294** UVU Event Approval Timeline Anomaly
@@ -677,7 +690,7 @@ Claim: A CNN exit poll of approximately 4,700 respondents indicates Zohran Mamda
 
 Anchored Artifacts: A-1342.1
 
-Related Nodes: N-340
+Related Nodes: N-340, N-98
 
 Investigative Direction: Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.
 

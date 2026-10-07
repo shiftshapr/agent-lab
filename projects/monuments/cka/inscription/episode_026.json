@@ -828,6 +828,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark Herman (director, Candace show)",
+      "type": "person",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in \"in my ear to mansplain\" the CNN exit poll, and he says Zohran Mamdani got about 32% of the Jewish vote in a poll of about 4,700 people.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1614"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -1114,7 +1131,8 @@
         "A-1342.1"
       ],
       "related_nodes": [
-        "N-340"
+        "N-340",
+        "N-98"
       ],
       "tags": [],
       "claim_timestamp": "00:14:20–00:15:05",

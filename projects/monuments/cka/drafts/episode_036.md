@@ -179,6 +179,19 @@ Investigative Pressure: Medium
 
 ---
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host asks him what classifies someone as a dignitary and he answers that it is a broad term covering senior government figures, aides, and even religious leaders. No claim anchor; registered for cross-episode continuity.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: None*
+
+---
+
 **N-1341** Macron Defamation Lawsuit Delaware Venue Question
 
 Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satis hanger, 920 King Street facility, and the host's broader "France angle."

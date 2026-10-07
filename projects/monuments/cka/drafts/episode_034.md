@@ -301,7 +301,7 @@ Related Nodes:
 - Claim Timestamp: 32:53
 - Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
 - Anchored Artifacts: A-1429.1
-Related Nodes: N-1333
+Related Nodes: N-1333, N-98
 - Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
 **C-1739** Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.
@@ -309,7 +309,7 @@ Related Nodes: N-1333
 - Claim Timestamp: 36:37
 - Claim: A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.
 - Anchored Artifacts: A-1429.2
-Related Nodes: N-1333
+Related Nodes: N-1333, N-98
 - Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
 **C-1740** Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as "essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity."
@@ -363,3 +363,66 @@ Related Nodes: N-1334
 - **Timestamp uncertainty:** Date of the Harpole↔Long text exchange is described as "on Monday before" but no date is given; the day-of-week reference is internal to the host's narration.
 - **Possible transcription error:** Host admits mixing the letter N and the number 9 during prior episodes; some plates (e.g., A-1425.1 "CWN-N9872") may contain N/9 ambiguity by her own acknowledgement.
 - **Requires human verification:** All A-1425.x plate strings require independent confirmation against rental records; A-1434.1 aircraft tail number not given.
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him whether Blake Neff's call screenshot shows when the call began or ended, and he answers "It's when the call is initiated."
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: C-1739*
+
+### People
+
+**N-1330** Duncan Aviation Egyptian Rental Vehicle Network
+Cluster of five rental vehicles identified by plate (A-1425.x); alleged connection to the SU-BTT passengers. Investigative direction: obtain Duncan Aviation rental records; cross-reference plate registration, renter IDs, and timeline against the Sept 4 plane arrival.
+- Evidence Count: 5
+- Claim Count: 1
+- Episode Count: 1
+- Investigative Pressure: High
+- *Related: A-1425.1–A-1425.5, C-1735*
+
+**N-1331** Federal Military Aircraft Escort Protocol Verification
+Claim by host (citing "a high government source") that foreign military jets cannot land on U.S. soil without federal escort and tracking. No documentary artifact supplied.
+- Evidence Count: 0
+- Claim Count: 0 (fails artifact-anchor test)
+- Episode Count: 1
+- Investigative Pressure: Medium
+- *Related: A-1425.x, A-1434.1*
+- **Optional Flag:** Requires human verification; artifact verbally referenced but not shown.
+
+**N-1332** UVU Pre-9/10 Rooftop Sightings
+Reports by a UVU student (and reportedly a professor) of a man on the Lozi Center roof in the week before the shooting (A-1426.1, A-1427.1).
+- Evidence Count: 2
+- Claim Count: 1
+- Episode Count: 1
+- Investigative Pressure: Medium
+- *Related: A-1426.1, A-1427.1, C-1736*
+
+**N-1333** Post-Shooting Phone Call Timing Sequence
+Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his mother (A-1429.2) and his narrative in A-1429.1 about Mikey McCoy's calls to Erika and to Rob McCoy.
+- Evidence Count: 2
+- Claim Count: 2
+- Episode Count: 1
+- Investigative Pressure: Medium
+- *Related: A-1429.1, A-1429.2, C-1738, C-1739*
+
+**N-1334** TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery
+The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
+- Evidence Count: 1
+- Claim Count: 1
+- Episode Count: 1
+- Investigative Pressure: High
+- *Related: A-1434.1, C-1744*
+
+**N-1335** Calvary Chapel Pro-Israel Coordination
+Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's "Stand with Israel" / "Why Jews are hated" framing (A-1431.1).
+- Evidence Count: 2
+- Claim Count: 1
+- Episode Count: 1
+- Investigative Pressure: Medium
+- *Related: A-1430.1, A-1431.1, C-1740, C-1741*
+
+---
