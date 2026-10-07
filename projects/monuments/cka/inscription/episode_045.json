@@ -231,7 +231,7 @@
           ],
           "related_nodes": [
             "N-1403",
-            "N-527"
+            "N-98"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,11 +403,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-527",
-      "ref": "N-527",
-      "name": "Mark",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark Herman (director, Candace show)",
       "type": "person",
-      "description": "On-air contributor who provides flight-tracking analysis for USAF C37A 99-044 in this episode, explaining the RCH-to-SAM call sign change after departing Fort Huachuca. Likely a recurring contributor to host's show but not previously introduced as a Bride of Charlie person node.",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in \"to mansplain\" the logs for USAF C37A 99-044: the transponder goes dark from Tucson, and the call sign switches from RCH (Reach) to SAM (Special Air Mission) after Fort Huachuca, which he reads as a senior official being picked up there.",
       "related_artifacts": [
         "A-1530.1"
       ],
@@ -464,7 +464,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-527"
+        "N-98"
       ]
     },
     {
@@ -660,7 +660,7 @@
       ],
       "related_nodes": [
         "N-1403",
-        "N-527"
+        "N-98"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",

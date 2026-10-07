@@ -1103,7 +1103,7 @@
       "ref": "N-1277",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
       "type": "investigation_target",
-      "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and producer — see Flag on A-1303.1).",
+      "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark - see Flag on A-1303.1).",
       "related_artifacts": [
         "A-1301.4",
         "A-1301.7",
@@ -1227,6 +1227,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark Herman (director, Candace show)",
+      "type": "person",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he corrects the host's timeline in real time (\"Mark is saying that the Lincoln chapter was opened. I had that in the wrong date\"), moving the UNL TPUSA chapter launch to May 2025, and is asked to pull up tail-number flight data.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1548"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -1308,7 +1325,8 @@
       "related_nodes": [
         "N-1",
         "N-272",
-        "N-1277"
+        "N-1277",
+        "N-98"
       ],
       "tags": [],
       "claim_timestamp": "00:20:57",

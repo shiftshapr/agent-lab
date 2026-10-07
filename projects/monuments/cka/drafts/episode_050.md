@@ -297,6 +297,19 @@ Investigative Pressure: High
 
 ---
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host jokes about his travel schedule delaying book club; he answers "I'm going to Fort Huachuca" and she replies "To get your intelligence training." The exchange reads as on-air banter. No claim anchor; registered for cross-episode continuity.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: None*
+
+---
+
 **N-1441** Fort Huachuca Morning Meeting Investigation
 
 Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.

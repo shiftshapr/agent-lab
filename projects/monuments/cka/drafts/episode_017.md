@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-237, N-238, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
+  - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-238, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
   - Reused Nodes Appearing: 
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk — referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-37
@@ -435,16 +435,16 @@ Investigative Pressure: Low
 
 ---
 
-**N-237** Mark (producer)
+**N-98** Mark Herman (director, Candace show)
 
-On-air dialogue partner; provides the trivia fact ("all-points bulletin = APB"). Not artifact-anchored; included as a registered node for cross-episode continuity.
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him what APB stands for and he answers "all-points bulletin" before her UVU footage appeal ("Mark has got a lot of random facts about every subject"). No claim anchor; registered for cross-episode continuity.
 
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: (no artifact anchors)*
+*Related: None*
 
 ---
 
@@ -667,7 +667,7 @@ Claim Timestamp: 00:04:50
 Claim: Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
-Related Nodes: N-1, N-237
+Related Nodes: N-1
 
 Investigative Direction: Verify the full memorial transcript and locate the segment within the recording.
 

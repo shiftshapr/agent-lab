@@ -187,6 +187,19 @@ Investigative Pressure: Low
 
 ---
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host defers to him ("I'm letting you Mark make a decision here") on whether to show one of six photos of the transport vehicle interior on air. No claim anchor; registered for cross-episode continuity.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: None*
+
+---
+
 **N-1429** Surgeon Quotation Authenticity Question
 
 Discrepancy between the quotation attributed to "the surgeon" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.

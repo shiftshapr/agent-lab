@@ -186,6 +186,19 @@ Investigative Pressure: Low
 
 ---
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host names him with Skyler as the small-team members who push back on sources ("Mark will be like I don't know about this") before a story goes out. No claim anchor; registered for cross-episode continuity.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: None*
+
+---
+
 **N-1378** TPUSA Phoenix Livestream Verification Question
 
 Persistent investigable target: whether and when the announced Phoenix livestream actually occurs, who participates, and what is answered.

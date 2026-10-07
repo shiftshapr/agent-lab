@@ -115,7 +115,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-407",
+            "N-98",
             "N-1324"
           ],
           "tags": [],
@@ -485,20 +485,21 @@
     },
     {
       "@type": "Person",
-      "@id": "N-407",
-      "ref": "N-407",
-      "name": "Mark (Producer/Researcher)",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark Herman (director, Candace show)",
       "type": "person",
-      "description": "In-studio researcher who presented the ADSB Exchange data for tail SUBND on September 10. Matters because his presentation is the sole displayed source for the SUBND transponder timing claims.",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he pulls up ADS-B Exchange raw data for Egyptian tail SUBND at the Duncan Aviation FBO in Provo on September 10 and reads the transponder windows, converting from UTC by subtracting seven hours (a viewer later corrects this to UTC minus 6). His presentation is the sole displayed source for the SUBND transponder timing claims.",
       "related_artifacts": [
         "A-1418.1"
       ],
       "related_claims": [
-        "C-1719"
+        "C-1719",
+        "C-1734"
       ],
       "tags": [],
       "evidence_count": 1,
-      "claim_count": 1,
+      "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
@@ -647,7 +648,7 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-407",
+        "N-98",
         "N-413"
       ]
     },
@@ -892,14 +893,14 @@
       "@id": "C-1719",
       "ref": "C-1719",
       "label": "SUBND Transponder Activity at Duncan Aviation FBO on September 10",
-      "claim": "ADSB Exchange data, as displayed and narrated by producer Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.",
+      "claim": "ADSB Exchange data, as displayed and narrated by Mark, the show's director, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.",
       "anchored_artifacts": [
         "A-1418.1"
       ],
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-407",
+        "N-98",
         "N-408",
         "N-1324"
       ],
@@ -1165,12 +1166,12 @@
       "@id": "C-1734",
       "ref": "C-1734",
       "label": "Three Transponder Windows on September 10 Were Specified by ADSB Data",
-      "claim": "Producer Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).",
+      "claim": "Mark, the show's director, specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).",
       "anchored_artifacts": [
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-407",
+        "N-98",
         "N-408",
         "N-1324"
       ],

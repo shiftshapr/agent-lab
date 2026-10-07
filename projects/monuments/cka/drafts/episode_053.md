@@ -306,6 +306,19 @@ Investigative Pressure: Low
 
 ---
 
+**N-98** Mark Herman (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host directs him to take the Daily Wire AI audition video full screen ("Mark, we can actually take this full screen"). Not the "Mark Carlson" named earlier in the episode. No claim anchor; registered for cross-episode continuity.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: None*
+
+---
+
 **N-1456** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Investigation target: the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women.
