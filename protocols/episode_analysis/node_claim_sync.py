@@ -37,6 +37,10 @@ _PHASE1_KEY_ALIASES: dict[str, str] = {
     "Contradicts Claim Refs": "contradicts_claim_refs",
     "Supports Claim Refs": "supports_claim_refs",
     "Qualifies Claim Refs": "qualifies_claim_refs",
+    "Revises Claim Refs": "revises_claim_refs",
+    "Mentions Person Refs": "mentions_person_refs",
+    "Connected Org Refs": "connected_org_refs",
+    "Captured At Place Refs": "captured_at_place_refs",
     "Node Type": "node_type",
     "Org Link": "org_link",
     "Topic Kind": "topic_kind",
@@ -77,6 +81,10 @@ def normalize_phase1_field_names(data: dict[str, Any]) -> None:
         "contradicts_claim_refs",
         "supports_claim_refs",
         "qualifies_claim_refs",
+        "revises_claim_refs",
+        "mentions_person_refs",
+        "connected_org_refs",
+        "captured_at_place_refs",
         "same_as_artifact_refs",
     }
 

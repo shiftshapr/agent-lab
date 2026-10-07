@@ -696,6 +696,9 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
             if same_as:
                 rel_bits.append(f"same_as: {', '.join(same_as)}")
             lines.append(f"*Related: {', '.join(rel_bits)}*")
+            if sub.get("captured_at_place_refs"):
+                cap = [ref_to_id.get(r, r) for r in sub["captured_at_place_refs"]]
+                lines.append(f"CapturedAt: {', '.join(cap)}")
             if sub.get("transcript_snippet"):
                 lines.append(f"Transcript Snippet: {sub['transcript_snippet']}")
             if sub.get("confidence"):
@@ -712,6 +715,9 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         rel_a = [ref_to_id.get(r, r) for r in node.get("related_artifacts", [])]
         rel_c = [ref_to_id.get(r, r) for r in node.get("related_claims", [])]
         lines.append(f"\n*Related: {', '.join(rel_a + rel_c)}*")
+        if node.get("connected_org_refs"):
+            co = [ref_to_id.get(r, r) for r in node["connected_org_refs"]]
+            lines.append(f"Connected: {', '.join(co)}")
         if node.get("confidence"):
             lines.append(f"\nConfidence: {node['confidence']}")
         if node.get("uncertainty_note"):
@@ -735,6 +741,15 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         if claim.get("supports_claim_refs"):
             sc = [ref_to_id.get(r, r) for r in claim["supports_claim_refs"]]
             lines.append(f"Supports: {', '.join(sc)}")
+        if claim.get("qualifies_claim_refs"):
+            qq = [ref_to_id.get(r, r) for r in claim["qualifies_claim_refs"]]
+            lines.append(f"Qualifies: {', '.join(qq)}")
+        if claim.get("revises_claim_refs"):
+            rr = [ref_to_id.get(r, r) for r in claim["revises_claim_refs"]]
+            lines.append(f"Revises: {', '.join(rr)}")
+        if claim.get("mentions_person_refs"):
+            mp = [ref_to_id.get(r, r) for r in claim["mentions_person_refs"]]
+            lines.append(f"Mentions: {', '.join(mp)}")
         if claim.get("confidence"):
             lines.append(f"Confidence: {claim['confidence']}")
         if claim.get("uncertainty_note"):

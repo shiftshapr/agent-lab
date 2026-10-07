@@ -267,7 +267,7 @@ def _prepare_phase1_graph(data: dict) -> None:
         _fallback_sync_placeholder_refs_from_jsonld(data)
     for claim in data.get("claims", []):
         cref = claim.get("ref") or claim.get("@id")
-        for key in ("contradicts_claim_refs", "supports_claim_refs", "qualifies_claim_refs"):
+        for key in ("contradicts_claim_refs", "supports_claim_refs", "qualifies_claim_refs", "revises_claim_refs", "mentions_person_refs"):
             refs = claim.get(key)
             if cref and isinstance(refs, list):
                 claim[key] = [r for r in refs if r != cref]
@@ -432,6 +432,14 @@ def apply_ids_to_json(data: dict, ref_to_id: dict[str, str]) -> dict:
             claim["qualifies_claim_refs"] = [
                 ref_to_id.get(r, r) for r in claim.get("qualifies_claim_refs", [])
             ]
+        if claim.get("revises_claim_refs"):
+            claim["revises_claim_refs"] = [
+                ref_to_id.get(r, r) for r in claim.get("revises_claim_refs", [])
+            ]
+        if claim.get("mentions_person_refs"):
+            claim["mentions_person_refs"] = [
+                ref_to_id.get(r, r) for r in claim.get("mentions_person_refs", [])
+            ]
     for lm in out.get("legal_matters") or []:
         if not isinstance(lm, dict):
             continue
@@ -555,6 +563,9 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
             if same_as:
                 rel_bits.append(f"same_as: {', '.join(same_as)}")
             lines.append(f"*Related: {', '.join(rel_bits)}*")
+            if sub.get("captured_at_place_refs"):
+                cap = [ref_to_id.get(r, r) for r in sub["captured_at_place_refs"]]
+                lines.append(f"CapturedAt: {', '.join(cap)}")
             if sub.get("transcript_snippet"):
                 lines.append(f"Transcript Snippet: {sub['transcript_snippet']}")
             if sub.get("confidence"):
@@ -587,6 +598,9 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         rel_a = [ref_to_id.get(r, r) for r in node.get("related_artifacts", [])]
         rel_c = [ref_to_id.get(r, r) for r in node.get("related_claims", [])]
         lines.append(f"\n*Related: {', '.join(rel_a + rel_c)}*")
+        if node.get("connected_org_refs"):
+            co = [ref_to_id.get(r, r) for r in node["connected_org_refs"]]
+            lines.append(f"Connected: {', '.join(co)}")
         if node.get("confidence"):
             lines.append(f"\nConfidence: {node['confidence']}")
         if node.get("uncertainty_note"):
@@ -614,6 +628,12 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         if claim.get("qualifies_claim_refs"):
             qq = [ref_to_id.get(r, r) for r in claim["qualifies_claim_refs"]]
             lines.append(f"Qualifies: {', '.join(qq)}")
+        if claim.get("revises_claim_refs"):
+            rr = [ref_to_id.get(r, r) for r in claim["revises_claim_refs"]]
+            lines.append(f"Revises: {', '.join(rr)}")
+        if claim.get("mentions_person_refs"):
+            mp = [ref_to_id.get(r, r) for r in claim["mentions_person_refs"]]
+            lines.append(f"Mentions: {', '.join(mp)}")
         stags = claim.get("sensitive_topic_tags") or []
         if stags:
             lines.append(f"Sensitive Tags: {', '.join(str(t) for t in stags)}")

@@ -21,3 +21,7 @@ Do not promote mixed BoC tip **`7e4c948`**. CKA is the long-term corpus path.
 ## Fold-later BoC series
 
 See `input/boc_fold_later.json` for the eight-playlist episodes and planned fold window.
+
+## Epistemic graph (Phase A)
+
+See [`EPISTEMIC_GRAPH.md`](EPISTEMIC_GRAPH.md) for claim immutability, `Revises:` / `Contradicts:` / `Mentions:` draft syntax, and preflight `claim_fork`. Phase B/C wait.

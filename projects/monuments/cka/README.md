@@ -40,6 +40,12 @@ Same convention as BoC / episode analysis protocol:
 
 Investigation-adjacent tags for extractors (see `config/claim_lenses.json`). Full protocol schema wiring may follow in a later PR; tags are documented to match BoC `tags` arrays on claims.
 
+## Epistemic graph (Phase A)
+
+Claims are **immutable**. Walk-backs and corrections mint a new C-id with `Revises:` (newer → older); explicit oppose also uses `Contradicts:`. Typed draft splits: `Mentions:` (persons), `Connected:` (person→org), `CapturedAt:` (artifact→place). Port BoC `Supports:` / `Qualifies:` as well.
+
+Extractor checklist and Appendix B claim shape: [`docs/EPISTEMIC_GRAPH.md`](docs/EPISTEMIC_GRAPH.md). Preflight gate: `claim_fork` in `projects/monuments/DIA_PREFLIGHT.md`. Phase B backfill and Phase C Neo4j mapping wait on separate unlocks.
+
 ## QA
 
 Before merge/promote packs: `dia_preflight.py --monument cka` (scaffold exits clean until drafts exist), `verify_drafts` / Transit + Bill D review, Tessie sample — **no prod Neo4j**.

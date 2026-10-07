@@ -35,9 +35,11 @@ Claim: The claim text.
 Transcript Snippet: Exact words from video.
 Anchored Artifacts: A-100.1
 Related Nodes: N-1
+Mentions: N-1
 Contradicts: C-101
 Supports: C-99
 Qualifies: C-102
+Revises: C-90
 Sensitive Tags: fraud, trafficking
 Confidence: low
 Uncertainty: Might be wrong.
@@ -51,6 +53,8 @@ Investigative Direction: Check sources.
     assert c["contradicts_claims"] == ["C-101"]
     assert c["supports_claims"] == ["C-99"]
     assert c["qualifies_claims"] == ["C-102"]
+    assert c["revises_claims"] == ["C-90"]
+    assert c["mentions_persons"] == ["N-1"]
     assert c["sensitive_topic_tags"] == ["fraud", "trafficking"]
     assert c["confidence"] == "low"
     assert "wrong" in (c.get("uncertainty_note") or "")
@@ -59,6 +63,7 @@ Investigative Direction: Check sources.
 **A-10.1** Newspaper
 Video Timestamp: 2:00
 *Related: C-1, N-2*
+CapturedAt: N-1200
 Transcript Snippet: shown on screen.
 Confidence: medium
 Uncertainty: blurry.
@@ -69,6 +74,7 @@ Uncertainty: blurry.
     assert a["id"] == "A-10.1"
     assert a["transcript_snippet"] == "shown on screen."
     assert a["confidence"] == "medium"
+    assert a["captured_at_places"] == ["N-1200"]
 
     ext = """
 ## 8. Organization Network

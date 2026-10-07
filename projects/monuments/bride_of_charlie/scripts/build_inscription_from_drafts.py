@@ -201,6 +201,8 @@ def _build_artifacts(parsed: dict[str, Any]) -> list[dict[str, Any]]:
             sub["confidence"] = art["confidence"]
         if art.get("uncertainty_note"):
             sub["uncertainty_note"] = art["uncertainty_note"]
+        if art.get("captured_at_places"):
+            sub["captured_at_place_refs"] = art["captured_at_places"]
         if not rel_a and not rel_c and not rel_n:
             pass
         by_family.setdefault(fam, []).append(sub)
@@ -223,6 +225,7 @@ def _collect_node_refs(data: dict[str, Any]) -> set[str]:
     refs: set[str] = set()
     for claim in data.get("claims") or []:
         refs.update(claim.get("related_nodes") or [])
+        refs.update(claim.get("mentions_person_refs") or [])
     for fam in data.get("artifacts") or []:
         for sub in fam.get("sub_items") or []:
             refs.update(sub.get("related_nodes") or [])
@@ -299,6 +302,8 @@ def _build_nodes(parsed: dict[str, Any]) -> list[dict[str, Any]]:
             row["confidence"] = n["confidence"]
         if n.get("uncertainty_note"):
             row["uncertainty_note"] = n["uncertainty_note"]
+        if n.get("connected_orgs"):
+            row["connected_org_refs"] = n["connected_orgs"]
         nodes.append(row)
     return nodes
 
@@ -332,6 +337,10 @@ def _build_claims(parsed: dict[str, Any]) -> list[dict[str, Any]]:
             row["supports_claim_refs"] = c["supports_claims"]
         if c.get("qualifies_claims"):
             row["qualifies_claim_refs"] = c["qualifies_claims"]
+        if c.get("revises_claims"):
+            row["revises_claim_refs"] = c["revises_claims"]
+        if c.get("mentions_persons"):
+            row["mentions_person_refs"] = c["mentions_persons"]
         claims.append(row)
     return claims
 

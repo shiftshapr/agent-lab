@@ -7,33 +7,60 @@
   "definitions": {
     "confidenceLevel": {
       "type": "string",
-      "enum": ["high", "medium", "low"],
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ],
       "description": "Extractor confidence in attribution or reading"
     },
     "uncertaintyNote": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Brief note on ambiguity, overlap, or limits of evidence (null if none)"
     }
   },
-  "required": ["meta", "executive_summary", "artifacts", "nodes", "claims"],
+  "required": [
+    "meta",
+    "executive_summary",
+    "artifacts",
+    "nodes",
+    "claims"
+  ],
   "properties": {
     "@context": {
       "oneOf": [
-        { "type": "string", "const": "https://brc222.org/context/v1" },
+        {
+          "type": "string",
+          "const": "https://brc222.org/context/v1"
+        },
         {
           "type": "object",
           "description": "Inline or extended JSON-LD context"
         }
       ]
     },
-    "@type": { "const": "EpisodeAnalysis" },
-    "@id": { "type": "string", "description": "Optional canonical URI for this analysis" },
+    "@type": {
+      "const": "EpisodeAnalysis"
+    },
+    "@id": {
+      "type": "string",
+      "description": "Optional canonical URI for this analysis"
+    },
     "meta": {
       "type": "object",
       "properties": {
-        "episode": { "type": "integer" },
-        "source": { "type": "string" },
-        "video_timestamp_range": { "type": "string" },
+        "episode": {
+          "type": "integer"
+        },
+        "source": {
+          "type": "string"
+        },
+        "video_timestamp_range": {
+          "type": "string"
+        },
         "extraction_timestamp": {
           "type": "string",
           "description": "UTC ISO 8601 when Phase 1 extraction was written (set by pipeline)"
@@ -49,42 +76,113 @@
         }
       }
     },
-    "executive_summary": { "type": "string" },
+    "executive_summary": {
+      "type": "string"
+    },
     "artifacts": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["family_ref", "bundle_name", "sub_items"],
+        "required": [
+          "family_ref",
+          "bundle_name",
+          "sub_items"
+        ],
         "properties": {
-          "@type": { "const": "ArtifactFamily" },
-          "@id": { "type": "string", "pattern": "^ART_\\d+$" },
-          "family_ref": { "type": "string", "pattern": "^ART_\\d+$" },
-          "bundle_name": { "type": "string" },
+          "@type": {
+            "const": "ArtifactFamily"
+          },
+          "@id": {
+            "type": "string",
+            "pattern": "^ART_\\d+$"
+          },
+          "family_ref": {
+            "type": "string",
+            "pattern": "^ART_\\d+$"
+          },
+          "bundle_name": {
+            "type": "string"
+          },
           "sub_items": {
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["ref", "description"],
+              "required": [
+                "ref",
+                "description"
+              ],
               "properties": {
-                "@type": { "const": "Artifact" },
-                "@id": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
-                "ref": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
-                "description": { "type": "string" },
-                "event_timestamp": { "type": "string" },
-                "source_timestamp": { "type": "string" },
-                "video_timestamp": { "type": "string" },
-                "discovery_timestamp": { "type": "string" },
-                "related_claims": { "type": "array", "items": { "type": "string" } },
-                "related_nodes": { "type": "array", "items": { "type": "string" } },
-                "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. court_filing, social_media, interview, public_record, screenshot, verbal_only" },
-                "transcript_snippet": { "type": "string", "description": "Exact words from transcript where this artifact was referenced (for verification)" },
+                "@type": {
+                  "const": "Artifact"
+                },
+                "@id": {
+                  "type": "string",
+                  "pattern": "^ART_\\d+\\.\\d+$"
+                },
+                "ref": {
+                  "type": "string",
+                  "pattern": "^ART_\\d+\\.\\d+$"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "event_timestamp": {
+                  "type": "string"
+                },
+                "source_timestamp": {
+                  "type": "string"
+                },
+                "video_timestamp": {
+                  "type": "string"
+                },
+                "discovery_timestamp": {
+                  "type": "string"
+                },
+                "related_claims": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "related_nodes": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "description": "e.g. court_filing, social_media, interview, public_record, screenshot, verbal_only"
+                },
+                "transcript_snippet": {
+                  "type": "string",
+                  "description": "Exact words from transcript where this artifact was referenced (for verification)"
+                },
                 "same_as_artifact_refs": {
                   "type": "array",
-                  "items": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
+                  "items": {
+                    "type": "string",
+                    "pattern": "^ART_\\d+\\.\\d+$"
+                  },
                   "description": "Other artifact sub_item refs that are the same underlying document or duplicate display"
                 },
-                "confidence": { "$ref": "#/definitions/confidenceLevel" },
-                "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+                "confidence": {
+                  "$ref": "#/definitions/confidenceLevel"
+                },
+                "uncertainty_note": {
+                  "$ref": "#/definitions/uncertaintyNote"
+                },
+                "captured_at_place_refs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "pattern": "^NODE_(\\d+|1\\d{3})$"
+                  },
+                  "description": "Place locus for this clip/document (draft CapturedAt:; Neo4j CAPTURED_AT)"
+                }
               }
             }
           }
@@ -95,7 +193,12 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["ref", "name", "type", "description"],
+        "required": [
+          "ref",
+          "name",
+          "type",
+          "description"
+        ],
         "properties": {
           "@type": {
             "enum": [
@@ -105,11 +208,19 @@
               "Place",
               "InvestigationTarget"
             ],
-            "description": "Prefer Topic / Organization / Place. InvestigationTarget is legacy (themes → Topic; institutions → Organization)."
+            "description": "Prefer Topic / Organization / Place. InvestigationTarget is legacy (themes \u2192 Topic; institutions \u2192 Organization)."
           },
-          "@id": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "name": { "type": "string" },
+          "@id": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "name": {
+            "type": "string"
+          },
           "type": {
             "enum": [
               "person",
@@ -119,7 +230,7 @@
               "investigation_target",
               "institution"
             ],
-            "description": "Parallel to @type: institution / organization → Organization in Neo4j; investigation_target / thematic rows → Topic; named locations → Place."
+            "description": "Parallel to @type: institution / organization \u2192 Organization in Neo4j; investigation_target / thematic rows \u2192 Topic; named locations \u2192 Place."
           },
           "topic_kind": {
             "type": "string",
@@ -133,46 +244,118 @@
             "type": "string",
             "description": "When @type is Place: e.g. city, region, country, venue, address, other"
           },
-          "description": { "type": "string" },
+          "description": {
+            "type": "string"
+          },
           "also_known_as": {
             "type": "array",
-            "items": { "type": "string" },
-            "description": "Other names for the same entity as `ref` (e.g. Erika Frantzve vs Erika Kirk — maiden/birth vs married; caption spellings). Not a second node."
+            "items": {
+              "type": "string"
+            },
+            "description": "Other names for the same entity as `ref` (e.g. Erika Frantzve vs Erika Kirk \u2014 maiden/birth vs married; caption spellings). Not a second node."
           },
-          "related_artifacts": { "type": "array", "items": { "type": "string" } },
-          "related_claims": { "type": "array", "items": { "type": "string" } },
-          "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. key_figure, witness, institution, discrepancy_target, host, quoted" },
-          "confidence": { "$ref": "#/definitions/confidenceLevel" },
-          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+          "related_artifacts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "related_claims": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "e.g. key_figure, witness, institution, discrepancy_target, host, quoted"
+          },
+          "confidence": {
+            "$ref": "#/definitions/confidenceLevel"
+          },
+          "uncertainty_note": {
+            "$ref": "#/definitions/uncertaintyNote"
+          },
+          "connected_org_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^NODE_(\\d+|1\\d{3})$"
+            },
+            "description": "Org nodes this person is connected to (draft Connected:; Neo4j CONNECTED_TO)"
+          }
         }
       }
     },
     "memes": {
       "type": "array",
-      "description": "Meme/euphemism/code analysis — reference M-N from canonical dictionary. Each occurrence records when, where, who said it.",
+      "description": "Meme/euphemism/code analysis \u2014 reference M-N from canonical dictionary. Each occurrence records when, where, who said it.",
       "items": {
         "type": "object",
         "properties": {
-          "ref": { "type": "string", "pattern": "^M-\\d+$" },
-          "canonical_term": { "type": "string" },
-          "type": { "enum": ["meme", "euphemism", "code"] },
+          "ref": {
+            "type": "string",
+            "pattern": "^M-\\d+$"
+          },
+          "canonical_term": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "meme",
+              "euphemism",
+              "code"
+            ]
+          },
           "occurrences": {
             "type": "array",
             "items": {
               "type": "object",
               "properties": {
-                "episode": { "type": "integer", "description": "Episode number" },
-                "video_timestamp": { "type": "string", "description": "When in video (HH:MM:SS)" },
-                "quote": { "type": "string", "description": "Exact transcript snippet where meme appears (verbatim when possible, for verification)" },
-                "speaker_node_ref": { "type": "string", "pattern": "^NODE_\\d+$", "description": "Who said it (NODE_1, NODE_2, etc.)" },
-                "context": { "type": "string", "description": "Surrounding context or how it's used" },
-                "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. coded_language, euphemism, derogatory, insider, political, religious, historical, ironic" },
-                "confidence": { "$ref": "#/definitions/confidenceLevel" },
-                "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+                "episode": {
+                  "type": "integer",
+                  "description": "Episode number"
+                },
+                "video_timestamp": {
+                  "type": "string",
+                  "description": "When in video (HH:MM:SS)"
+                },
+                "quote": {
+                  "type": "string",
+                  "description": "Exact transcript snippet where meme appears (verbatim when possible, for verification)"
+                },
+                "speaker_node_ref": {
+                  "type": "string",
+                  "pattern": "^NODE_\\d+$",
+                  "description": "Who said it (NODE_1, NODE_2, etc.)"
+                },
+                "context": {
+                  "type": "string",
+                  "description": "Surrounding context or how it's used"
+                },
+                "tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "description": "e.g. coded_language, euphemism, derogatory, insider, political, religious, historical, ironic"
+                },
+                "confidence": {
+                  "$ref": "#/definitions/confidenceLevel"
+                },
+                "uncertainty_note": {
+                  "$ref": "#/definitions/uncertaintyNote"
+                }
               }
             }
           },
-          "context": { "type": "string", "description": "Overall context for this meme in the episode (legacy/summary)" }
+          "context": {
+            "type": "string",
+            "description": "Overall context for this meme in the episode (legacy/summary)"
+          }
         }
       }
     },
@@ -180,41 +363,113 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["ref", "label", "claim", "anchored_artifacts", "related_nodes"],
+        "required": [
+          "ref",
+          "label",
+          "claim",
+          "anchored_artifacts",
+          "related_nodes"
+        ],
         "properties": {
-          "@type": { "const": "Claim" },
-          "@id": { "type": "string", "pattern": "^CLAIM_\\d+$" },
-          "ref": { "type": "string", "pattern": "^CLAIM_\\d+$" },
-          "label": { "type": "string" },
-          "claim_timestamp": { "type": "string" },
-          "claim": { "type": "string" },
-          "anchored_artifacts": { "type": "array", "items": { "type": "string" } },
-          "related_nodes": { "type": "array", "items": { "type": "string" } },
-          "investigative_direction": { "type": "string" },
-          "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. falsifiable, contradiction, timeline, identity, financial, framing_premise" },
-          "transcript_snippet": { "type": "string", "description": "Exact words from transcript that support this claim (for verification)" },
+          "@type": {
+            "const": "Claim"
+          },
+          "@id": {
+            "type": "string",
+            "pattern": "^CLAIM_\\d+$"
+          },
+          "ref": {
+            "type": "string",
+            "pattern": "^CLAIM_\\d+$"
+          },
+          "label": {
+            "type": "string"
+          },
+          "claim_timestamp": {
+            "type": "string"
+          },
+          "claim": {
+            "type": "string"
+          },
+          "anchored_artifacts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "related_nodes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "investigative_direction": {
+            "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "e.g. falsifiable, contradiction, timeline, identity, financial, framing_premise"
+          },
+          "transcript_snippet": {
+            "type": "string",
+            "description": "Exact words from transcript that support this claim (for verification)"
+          },
           "contradicts_claim_refs": {
             "type": "array",
-            "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+            "items": {
+              "type": "string",
+              "pattern": "^CLAIM_\\d+$"
+            },
             "description": "Other claims in this episode this claim contradicts"
           },
           "supports_claim_refs": {
             "type": "array",
-            "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+            "items": {
+              "type": "string",
+              "pattern": "^CLAIM_\\d+$"
+            },
             "description": "Other claims in this episode this claim supports or reinforces"
           },
           "qualifies_claim_refs": {
             "type": "array",
-            "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+            "items": {
+              "type": "string",
+              "pattern": "^CLAIM_\\d+$"
+            },
             "description": "Claims this one narrows, limits, or conditions (Neo4j QUALIFIES)"
           },
           "sensitive_topic_tags": {
             "type": "array",
-            "items": { "type": "string" },
-            "description": "Heavy topics (fraud, trafficking, etc.): must remain anchored to artifacts — at least one anchored_artifact required when non-empty"
+            "items": {
+              "type": "string"
+            },
+            "description": "Heavy topics (fraud, trafficking, etc.): must remain anchored to artifacts \u2014 at least one anchored_artifact required when non-empty"
           },
-          "confidence": { "$ref": "#/definitions/confidenceLevel" },
-          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+          "confidence": {
+            "$ref": "#/definitions/confidenceLevel"
+          },
+          "uncertainty_note": {
+            "$ref": "#/definitions/uncertaintyNote"
+          },
+          "revises_claim_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^CLAIM_\\d+$"
+            },
+            "description": "Older claims this newer claim revises (newer -[:REVISES]-> older); never mutate the older claim"
+          },
+          "mentions_person_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^NODE_(\\d+|1\\d{3})$"
+            },
+            "description": "Person nodes this claim mentions (typed split of Related; draft Mentions:)"
+          }
         }
       }
     },
@@ -223,16 +478,45 @@
       "description": "First-class legal / case clusters linking filings and parties",
       "items": {
         "type": "object",
-        "required": ["ref", "name"],
+        "required": [
+          "ref",
+          "name"
+        ],
         "properties": {
-          "ref": { "type": "string", "pattern": "^CASE_\\d+$" },
-          "name": { "type": "string" },
-          "description": { "type": "string" },
-          "artifact_refs": { "type": "array", "items": { "type": "string" } },
-          "party_node_refs": { "type": "array", "items": { "type": "string" } },
-          "place_node_refs": { "type": "array", "items": { "type": "string" } },
-          "confidence": { "$ref": "#/definitions/confidenceLevel" },
-          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+          "ref": {
+            "type": "string",
+            "pattern": "^CASE_\\d+$"
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "artifact_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "party_node_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "place_node_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "confidence": {
+            "$ref": "#/definitions/confidenceLevel"
+          },
+          "uncertainty_note": {
+            "$ref": "#/definitions/uncertaintyNote"
+          }
         }
       }
     },
@@ -240,10 +524,20 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["from_org_ref", "to_org_ref", "relation"],
+        "required": [
+          "from_org_ref",
+          "to_org_ref",
+          "relation"
+        ],
         "properties": {
-          "from_org_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "to_org_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "from_org_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "to_org_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
           "relation": {
             "enum": [
               "subsidiary_of",
@@ -255,9 +549,18 @@
               "same_enterprise_as"
             ]
           },
-          "source_artifact_refs": { "type": "array", "items": { "type": "string" } },
-          "confidence": { "$ref": "#/definitions/confidenceLevel" },
-          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+          "source_artifact_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "confidence": {
+            "$ref": "#/definitions/confidenceLevel"
+          },
+          "uncertainty_note": {
+            "$ref": "#/definitions/uncertaintyNote"
+          }
         }
       }
     },
@@ -265,14 +568,36 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["person_node_ref", "org_node_ref", "role_edge"],
+        "required": [
+          "person_node_ref",
+          "org_node_ref",
+          "role_edge"
+        ],
         "properties": {
-          "person_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "org_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "role_edge": { "enum": ["holds_role", "member_of", "chair_of"] },
-          "role_title": { "type": "string" },
-          "confidence": { "$ref": "#/definitions/confidenceLevel" },
-          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+          "person_node_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "org_node_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "role_edge": {
+            "enum": [
+              "holds_role",
+              "member_of",
+              "chair_of"
+            ]
+          },
+          "role_title": {
+            "type": "string"
+          },
+          "confidence": {
+            "$ref": "#/definitions/confidenceLevel"
+          },
+          "uncertainty_note": {
+            "$ref": "#/definitions/uncertaintyNote"
+          }
         }
       }
     },
@@ -281,11 +606,22 @@
       "description": "Same real-world org or place across different node rows (merge hints)",
       "items": {
         "type": "object",
-        "required": ["node_ref_a", "node_ref_b"],
+        "required": [
+          "node_ref_a",
+          "node_ref_b"
+        ],
         "properties": {
-          "node_ref_a": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "node_ref_b": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "note": { "type": "string" }
+          "node_ref_a": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "node_ref_b": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "note": {
+            "type": "string"
+          }
         }
       }
     },
@@ -293,12 +629,29 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["from_ref", "to_ref", "relation"],
+        "required": [
+          "from_ref",
+          "to_ref",
+          "relation"
+        ],
         "properties": {
-          "from_ref": { "type": "string" },
-          "to_ref": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
-          "relation": { "enum": ["cites_source", "derived_from", "recording_of"] },
-          "confidence": { "$ref": "#/definitions/confidenceLevel" }
+          "from_ref": {
+            "type": "string"
+          },
+          "to_ref": {
+            "type": "string",
+            "pattern": "^ART_\\d+\\.\\d+$"
+          },
+          "relation": {
+            "enum": [
+              "cites_source",
+              "derived_from",
+              "recording_of"
+            ]
+          },
+          "confidence": {
+            "$ref": "#/definitions/confidenceLevel"
+          }
         }
       }
     },
@@ -307,10 +660,19 @@
       "description": "Claims that invoke a Topic / thematic thread node",
       "items": {
         "type": "object",
-        "required": ["claim_ref", "topic_node_ref"],
+        "required": [
+          "claim_ref",
+          "topic_node_ref"
+        ],
         "properties": {
-          "claim_ref": { "type": "string", "pattern": "^CLAIM_\\d+$" },
-          "topic_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" }
+          "claim_ref": {
+            "type": "string",
+            "pattern": "^CLAIM_\\d+$"
+          },
+          "topic_node_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          }
         }
       }
     },
@@ -319,13 +681,34 @@
       "description": "Graph edges from claims/speakers to memes and memes to targets",
       "items": {
         "type": "object",
-        "required": ["meme_ref", "link_type"],
+        "required": [
+          "meme_ref",
+          "link_type"
+        ],
         "properties": {
-          "meme_ref": { "type": "string", "pattern": "^M-\\d+$" },
-          "link_type": { "enum": ["invoked_by_claim", "invoked_by_speaker", "targets_node"] },
-          "claim_ref": { "type": "string", "pattern": "^CLAIM_\\d+$" },
-          "speaker_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
-          "target_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" }
+          "meme_ref": {
+            "type": "string",
+            "pattern": "^M-\\d+$"
+          },
+          "link_type": {
+            "enum": [
+              "invoked_by_claim",
+              "invoked_by_speaker",
+              "targets_node"
+            ]
+          },
+          "claim_ref": {
+            "type": "string",
+            "pattern": "^CLAIM_\\d+$"
+          },
+          "speaker_node_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          },
+          "target_node_ref": {
+            "type": "string",
+            "pattern": "^NODE_(\\d+|1\\d{3})$"
+          }
         }
       }
     }

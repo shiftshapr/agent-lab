@@ -36,6 +36,13 @@ M_ID_TOKEN_RE = re.compile(r"\bM-(\d+)\b")
 EPISODE_DRAFT_RE = re.compile(r"episode_(\d+)\.md$", re.I)
 NEW_NODES_INTRO_RE = re.compile(r"New Nodes Introduced:\s*(.+)$", re.MULTILINE)
 RELATED_NODES_LINE_RE = re.compile(r"^Related Nodes:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+MENTIONS_LINE_RE = re.compile(r"^Mentions:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+CLAIM_HEADER_RE = re.compile(r"^\*\*(C-\d+)\*\*\s+(.+)$", re.MULTILINE)
+CLAIM_BODY_LINE_RE = re.compile(r"^Claim:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+# Skip non-definition claim headers (continuation / omission notes).
+CLAIM_META_LABEL_RE = re.compile(
+    r"(?i)\b(already\s+listed|omitted|supplemental|continuing\s+the\s+register)\b"
+)
 
 # Timecode: require HH:MM:SS (two colon-separated numeric segments before seconds).
 # Rejects bare M:SS like 5:30 or 22:04 without hour field when only one colon group.
@@ -261,11 +268,14 @@ def load_inscription_node_names(inscription_dir: Path) -> dict[int, str]:
 def collect_claim_artifact_related_n_ids(
     episodes: list[tuple[int, str, Path, str]],
 ) -> set[int]:
-    """N-* cited on Claim/Artifact Related Nodes lines (Lane-class airtime proxy)."""
+    """N-* cited on Claim/Artifact Related Nodes / Mentions lines (Lane-class airtime proxy)."""
     cited: set[int] = set()
     for _ep, _name, _path, content in episodes:
         # Claim register and artifact inline *Related:* (not register section)
         for m in RELATED_NODES_LINE_RE.finditer(content):
+            for nm in N_ID_TOKEN_RE.finditer(m.group(1)):
+                cited.add(int(nm.group(1)))
+        for m in MENTIONS_LINE_RE.finditer(content):
             for nm in N_ID_TOKEN_RE.finditer(m.group(1)):
                 cited.add(int(nm.group(1)))
         for m in re.finditer(r"^\*Related:\s*([^*\n]+)\*", content, re.MULTILINE):
@@ -480,7 +490,99 @@ def check_name_sync(
             )
 
 
+def _claim_register_slice(content: str) -> str:
+    """Return Claim Register body when a section header is present; else full content."""
+    for marker in ("## 5. Claim Register", "## V. Claim Register", "## Claim Register"):
+        if marker in content:
+            reg = content.split(marker, 1)[1]
+            # Stop at next numbered/lettered major section when present.
+            nxt = re.search(r"^##\s+[6VI]\b", reg, re.MULTILINE)
+            if nxt:
+                reg = reg[: nxt.start()]
+            return reg
+    return content
+
+
+def _norm_claim_text(s: str) -> str:
+    return " ".join(s.strip().split())
+
+
+def collect_claim_definitions(
+    episodes: list[tuple[int, str, Path, str]],
+) -> list[tuple[str, int, str, str, str]]:
+    """
+    Return (claim_id, episode, episode_file, label, claim_body) for real claim headers.
+    Skips meta / continuation labels that are not minted definitions.
+    """
+    rows: list[tuple[str, int, str, str, str]] = []
+    for ep, ep_name, _path, content in episodes:
+        if ep == 0:
+            continue
+        reg = _claim_register_slice(content)
+        headers = list(CLAIM_HEADER_RE.finditer(reg))
+        for i, hm in enumerate(headers):
+            cid = hm.group(1)
+            label = _norm_claim_text(hm.group(2))
+            if not label or CLAIM_META_LABEL_RE.search(label):
+                continue
+            start = hm.end()
+            end = headers[i + 1].start() if i + 1 < len(headers) else len(reg)
+            block = reg[start:end]
+            cm = CLAIM_BODY_LINE_RE.search(block)
+            body = _norm_claim_text(cm.group(1)) if cm else ""
+            rows.append((cid, ep, ep_name, label, body))
+    return rows
+
+
+def check_claim_forks(
+    report: PreflightReport,
+    episodes: list[tuple[int, str, Path, str]],
+) -> None:
+    """
+    P0: same C-id must not carry different labels (or materially different Claim: bodies)
+    across episodes. That pattern is a fork / ID collision, not a revision.
+
+    Fix: mint a new C-id and wire Revises: (and Contradicts: when opposition is explicit).
+    Never mutate or reuse the old id for a new airing.
+    """
+    by_cid: dict[str, list[tuple[int, str, str, str]]] = {}
+    for cid, ep, ep_name, label, body in collect_claim_definitions(episodes):
+        by_cid.setdefault(cid, []).append((ep, ep_name, label, body))
+
+    for cid, rows in sorted(by_cid.items(), key=lambda kv: int(kv[0].split("-", 1)[1])):
+        if len(rows) < 2:
+            continue
+        # Compare across distinct episodes (same-ep duplicates still checked if labels differ).
+        labels = {(ep, label) for ep, _fn, label, _body in rows}
+        distinct_labels = {label for _ep, label in labels}
+        bodies = {body for _ep, _fn, _label, body in rows if body}
+        label_fork = len(distinct_labels) > 1
+        body_fork = len(bodies) > 1
+        if not label_fork and not body_fork:
+            continue
+        # Build a short exemplar pair for the message.
+        a = rows[0]
+        b = next((r for r in rows[1:] if r[2] != a[2] or (r[3] and a[3] and r[3] != a[3])), rows[1])
+        reason = []
+        if label_fork:
+            reason.append(f"labels {a[2]!r} vs {b[2]!r}")
+        if body_fork:
+            reason.append("Claim: bodies differ")
+        locs = ", ".join(sorted({f"ep{ep}({fn})" for ep, fn, _l, _b in rows}))
+        report.add(
+            "P0",
+            "claim_fork",
+            (
+                f"{cid} reused with different content across {locs}: {'; '.join(reason)}. "
+                f"Fork / ID collision, not a revision. Remint a new C-id and add "
+                f"Revises: {cid} (and Contradicts: {cid} if the airing explicitly opposes)."
+            ),
+            cid,
+        )
+
+
 def check_memes(report: PreflightReport, episodes: list[tuple[int, str, Path, str]]) -> None:
+
     global_term: dict[int, str] = {}
     per_ep: dict[tuple[int, int], str] = {}
     for ep, ep_name, _path, content in episodes:
@@ -656,6 +758,7 @@ def run_preflight(
         report, ingest_episodes, intro, forbidden_retired, claim_related
     )
     check_stamps(report, ingest_episodes)
+    check_claim_forks(report, ingest_episodes)
     check_memes(report, episodes)
 
     canonical = load_canonical_nodes(monument_dir / "canonical" / "nodes.json")
@@ -726,6 +829,22 @@ Claim Timestamp: 5:30
 Video Timestamp: 00:05:30
 """
         (drafts / "episode_001.md").write_text(md, encoding="utf-8")
+        md2 = """## 4. Node Register
+
+**N-1** Alice
+
+Node Type: Person
+
+*Related: C-1000*
+
+## 5. Claim Register
+**C-1000** different label entirely
+
+Claim: A materially different claim body for the same id.
+Related Nodes: N-1
+Claim Timestamp: 00:01:00
+"""
+        (drafts / "episode_002.md").write_text(md2, encoding="utf-8")
 
         # Patch MONUMENTS_ROOT for test
         slug = "test_mon"
@@ -745,6 +864,7 @@ Video Timestamp: 00:05:30
         checks = {f.check for f in report.findings if f.severity == "P0"}
         assert "person_band" in checks
         assert "retired_citation" in checks
+        assert "claim_fork" in checks
         print("self-test: OK")
         return 0
 

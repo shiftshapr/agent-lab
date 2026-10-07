@@ -67,7 +67,8 @@ Draft markdown in `drafts/` is parsed by `scripts/neo4j_ingest.py`. It now maps:
 |----------------------|--------|
 | `Transcript Snippet:` | `transcript_snippet` on Claim / Artifact |
 | `Confidence:` / `Uncertainty:` | `confidence`, `uncertainty_note` |
-| `Contradicts:` / `Supports:` | `CONTRADICTS` / `SUPPORTS` relationships between Claims |
+| `Contradicts:` / `Supports:` / `Qualifies:` / `Revises:` | `CONTRADICTS` / `SUPPORTS` / `QUALIFIES` / `REVISES` (Phase C for REVISES on CKA) |
+| `Mentions:` / `Connected:` / `CapturedAt:` | `mentions_person_refs` / `connected_org_refs` / `captured_at_place_refs` (Neo4j edges Phase C) |
 | `same_as:` in Related line | IDs parsed correctly on artifacts |
 
 `--force` on ingest clears **all nodes except `NameCorrection`** (aligned with `run_full_workflow`).
