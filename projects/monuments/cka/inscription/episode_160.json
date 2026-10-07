@@ -1,0 +1,1496 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 160,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-00:58:52",
+    "extraction_timestamp": "2026-10-06T18:30:00Z",
+    "model_version": "grok-manual-extract-seq160",
+    "transcript_sha256": "24d90a160bd049729eeb3c14c85fbb5fb98847e2f37c82b3d1ec5cd543177375",
+    "analysis_date": "2026-10-06"
+  },
+  "executive_summary": "Episode 397 opens by framing a new Candace smear package the host nicknames Candyland: a Lisa Nose X post alleging eight illegal nannies under NDA in a second Nashville mansion, attributed originally to Jessica Reed Kraus, which the host satirizes as the latest failed character attack. She then argues a broader distraction SCOP is underway, cycling narratives (dead-internet feel) because Charlie Kirk remains unresolved: she cites Las Vegas 2017 vanishing within five days under MeToo/Harvey Weinstein coverage, then Nick Shirley's Somali-daycare scoop (and Shirley as last Charlie Kirk Show guest, booked by Andrew Kolvet) as a failed distraction, then a killer-mom / Lindsay Clancy / Nancy Mace / New York Post / Libs of TikTok filicide panic that she says neocons link to women who distrust Erika Kirk, aimed at regulating the internet after bots failed.\n\nThe core UVU beat: the independent review names a Station 2 fire captain who assisted CPR at Timpanogos Hospital but leaves him unnamed, while naming non-participants Caleb Chilcutt and Maycee Crofts. Host plays 911 audio (ladder 33 / engine 34 redirected ~12:30) and stresses that neither Frank Turek nor Brian Harpole ever mentioned a fire captain giving CPR. Frank Turek on Brandon Tatum's podcast then doubles down that Jeff Long \"had the roofs,\" citing a Dan Flood text, after the review's release. Closing thirds cover banker whistleblower Simon Andre's reported death after flagging Howard Lutnick's Epstein ties and a 2018 email/startup claim (BBC), Zach Bryan's Free Palestine shirts and Gillette Stadium attendance-record nights after Robert Kraft canceled Macklemore, Baron Coleman under X attack after being announced as guest host during Candace's maternity leave, and comments revisiting Brian Cole Jr., Skyler, Brigitte/France, and smear economics promised for the next show.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2474",
+      "family_ref": "A-2474",
+      "bundle_name": "Candyland Illegal-Nanny Mansion Rumor Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2474.1",
+          "ref": "A-2474.1",
+          "description": "Host read of Lisa Nose X post alleging Candace houses two nannies per child (eight total) in a second mansion, hires illegals via an \"elite Jewish nanny agency,\" underpays them, and binds them with NDAs; Nose credits Jessica Reed Kraus House in Habit as original reporter and claims three-source confirmation.",
+          "related_claims": [
+            "C-3617"
+          ],
+          "related_nodes": [
+            "N-2366",
+            "N-3",
+            "N-411"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2475",
+      "family_ref": "A-2475",
+      "bundle_name": "Killer-Mom Filicide Narrative SCOP Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2475.1",
+          "ref": "A-2475.1",
+          "description": "Host montage of Nancy Mace clips/tweets, New York Post mother-killer headlines, and Libs of TikTok posts framing filicide as an epidemic, including Mace's on-camera lines about moms killing kids and tweets citing Christopher Petray / Tanisha Lache Jones cases.",
+          "related_claims": [
+            "C-3618",
+            "C-3621"
+          ],
+          "related_nodes": [
+            "N-2367",
+            "N-294",
+            "N-303"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2476",
+      "family_ref": "A-2476",
+      "bundle_name": "UVU Independent Review Fire-Captain CPR + 911 Dispatch Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2476.1",
+          "ref": "A-2476.1",
+          "description": "Host read of UVU independent-review passage: Station 3 radioed the TPUSA SUV; Station 2 rerouted to Timpanogos; \"the fire captain from station 2 assisted in providing CPR to Charlie Kirk at the hospital.\" Host notes the captain is unnamed while Caleb Chilcutt and Maycee Crofts are named.",
+          "related_claims": [
+            "C-3622",
+            "C-3623"
+          ],
+          "related_nodes": [
+            "N-2365",
+            "N-2329",
+            "N-1",
+            "N-30",
+            "N-36"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:48",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2476.2",
+          "ref": "A-2476.2",
+          "description": "Host-played 911 / fire dispatch audio: ladder 33 and engine 34 redirected toward Timpanogos around 12:30 p.m.; prior radio describes black SUV northbound with a person hanging out of the vehicle.",
+          "related_claims": [
+            "C-3624"
+          ],
+          "related_nodes": [
+            "N-2365",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2477",
+      "family_ref": "A-2477",
+      "bundle_name": "Frank Turek Brandon Tatum Podcast / Jeff Long Roofs Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2477.1",
+          "ref": "A-2477.1",
+          "description": "Clip of Frank Turek on Brandon Tatum's podcast recounting a March 2026 UVU confrontation with Chief Jeff Long; Turek says Dan Flood showed him a \"I got you covered\" roofs text (then quietly corrects timing to days after the hospital), and insists Long still owed roof coverage post-Butler.",
+          "related_claims": [
+            "C-3625"
+          ],
+          "related_nodes": [
+            "N-16",
+            "N-435",
+            "N-434",
+            "N-342",
+            "N-2329"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2478",
+      "family_ref": "A-2478",
+      "bundle_name": "Simon Andre / Howard Lutnick Epstein Whistleblower Death Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2478.1",
+          "ref": "A-2478.1",
+          "description": "Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andre dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a startup and claims Lutnick visited Epstein's island / temple structure; Lutnick is now U.S. Commerce Secretary.",
+          "related_claims": [
+            "C-3626",
+            "C-3627"
+          ],
+          "related_nodes": [
+            "N-2368",
+            "N-230",
+            "N-244",
+            "N-35",
+            "N-1395"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2479",
+      "family_ref": "A-2479",
+      "bundle_name": "Zach Bryan Free Palestine Gillette Stadium Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2479.1",
+          "ref": "A-2479.1",
+          "description": "Host account that after Robert Kraft canceled Macklemore for a Free Palestine stage remark at Kraft's Gillette Stadium, scheduled shows were weather-canceled, then Zach Bryan performed two nights in Free Palestine shirts (band likewise) and broke the stadium attendance record previously held by Ed Sheeran.",
+          "related_claims": [
+            "C-3628"
+          ],
+          "related_nodes": [
+            "N-2369",
+            "N-250",
+            "N-279"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2480",
+      "family_ref": "A-2480",
+      "bundle_name": "Baron Coleman Pre-Host X Attack Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2480.1",
+          "ref": "A-2480.1",
+          "description": "Host description of trending criticism (\"Baron Coleman faces online criticism before guest spot on Candace Owens\") after she announced Coleman would cover her show during maternity leave; she frames digs into old interviews as an attempt to get him dropped.",
+          "related_claims": [
+            "C-3629"
+          ],
+          "related_nodes": [
+            "N-2370",
+            "N-552",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of UVU review CPR/fire-captain questions, Turek/Harpole conflict, and host thesis that unresolved assassination drives distraction SCOPs.",
+      "related_artifacts": [
+        "A-2476.1",
+        "A-2476.2"
+      ],
+      "related_claims": [
+        "C-3622",
+        "C-3623",
+        "C-3624"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2365"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Referenced as the widow whose grief performance women distrusted early; host says killer-mom SCOP is aimed at women who question her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3618"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2367"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of Candyland nanny/NDA mansion rumor; announces maternity leave and Baron Coleman guest-hosting.",
+      "related_artifacts": [
+        "A-2474.1"
+      ],
+      "related_claims": [
+        "C-3617",
+        "C-3629"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2366"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Referenced regarding Epstein files non-release and prior pressure to move on; host ties Lutnick story to that reluctance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3626"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1395",
+        "N-230"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Prior CPR-in-car claim; on Brandon Tatum podcast doubles down that Jeff Long had the roofs after the UVU review; never mentions fire-captain CPR in host's recounting.",
+      "related_artifacts": [
+        "A-2477.1"
+      ],
+      "related_claims": [
+        "C-3623",
+        "C-3625"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2085",
+        "N-2136"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3626",
+        "C-3627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1395",
+        "N-2368"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Host says Kolvet (who runs Charlie's Twitter) picked Nick Shirley as last guest on the Charlie Kirk Show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-318"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Producer; host asks in comments to cover \"data Republican\" resignation later (\"Skylar\").",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Named in comments as part of FBI corruption critique alongside Dan Bongino.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-117",
+      "ref": "N-117",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Comments return to France/Brigitte as origin-of-ties theme.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-120",
+      "ref": "N-120",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Host cites Bondi saying Epstein-file release would cause global economic catastrophe.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3626"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1395"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-181",
+      "ref": "N-181",
+      "name": "Ian Carol",
+      "type": "person",
+      "description": "Credited for Las Vegas 2017 conspiracy research the host points viewers toward.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3619"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-309",
+      "ref": "N-309",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-16"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Security lead whose long hospital story (no CPR in car) conflicts with Turek and with the review's fire-captain CPR.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2097",
+        "N-2136"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
+      "related_artifacts": [
+        "A-2477.1"
+      ],
+      "related_claims": [
+        "C-3625"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-435",
+      "ref": "N-435",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
+      "related_artifacts": [
+        "A-2477.1"
+      ],
+      "related_claims": [
+        "C-3625"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2329"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [
+        "A-2480.1"
+      ],
+      "related_claims": [
+        "C-3629"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2370"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Mentioned in a viewer comment the host answers dismissively.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "Maycee Crofts",
+      "type": "person",
+      "description": "Named in UVU review (host: headquarters) despite non-participation contrast the host draws with the unnamed fire captain.",
+      "related_artifacts": [
+        "A-2476.1"
+      ],
+      "related_claims": [
+        "C-3622"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Caleb Chilcutt",
+      "type": "person",
+      "description": "UVU TPUSA chapter president named in the review though (per host) he did not want to participate.",
+      "related_artifacts": [
+        "A-2476.1"
+      ],
+      "related_claims": [
+        "C-3622"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-53",
+      "ref": "N-53",
+      "name": "Brian Cole Jr.",
+      "type": "person",
+      "description": "Comments revisit coerced-confession / autistic-suspect framing from prior episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2363"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1395",
+      "ref": "N-1395",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Reused topic for Lutnick/Andre death and Bondi catastrophe framing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3626",
+        "C-3627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2368"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1632",
+      "ref": "N-1632",
+      "name": "Nick Shirley Background Verification",
+      "type": "investigation_target",
+      "description": "Prior Shirley topic; this episode revisits Shirley as last Charlie Kirk Show guest and failed daycare distraction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-318",
+        "N-2064"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2064",
+      "ref": "N-2064",
+      "name": "Nick Shirley Background and Backing Verification",
+      "type": "investigation_target",
+      "description": "Companion Shirley investigation target reused with C-3620.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-318"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2085",
+      "ref": "N-2085",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Prior CPR-claim topic; host restates Turek's back-seat CPR story against Harpole and the unnamed captain.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-16"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2097",
+      "ref": "N-2097",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_target",
+      "description": "Prior contradiction topic continued by fire-captain omission.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-424",
+        "N-16"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2136",
+      "ref": "N-2136",
+      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "type": "investigation_target",
+      "description": "Broader CPR-contradiction topic; fire-captain redaction is the new pressure point.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2365"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2329",
+      "ref": "N-2329",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "Central document for unnamed Station 2 fire captain and for Turek's continued roofs claim after release.",
+      "related_artifacts": [
+        "A-2476.1"
+      ],
+      "related_claims": [
+        "C-3622",
+        "C-3625"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2365"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2350",
+      "ref": "N-2350",
+      "name": "TPUSA Non-Participation in UVU Independent Review",
+      "type": "investigation_target",
+      "description": "Background for host's point that the review still named TPUSA figures who did not want to participate.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3622"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-30",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2358",
+      "ref": "N-2358",
+      "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+      "type": "investigation_target",
+      "description": "Prior smear-package topic; Candyland nanny rumor is the next flip the host satirizes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3617"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2366"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2363",
+      "ref": "N-2363",
+      "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+      "type": "investigation_target",
+      "description": "Reused in comments; host teases further dots next episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-53"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2365",
+      "ref": "N-2365",
+      "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+      "type": "investigation_target",
+      "description": "New topic: Station 2 fire captain who (per review) gave CPR at Timpanogos is unnamed; host seeks identity via tips and plays corroborating dispatch audio.",
+      "related_artifacts": [
+        "A-2476.1",
+        "A-2476.2"
+      ],
+      "related_claims": [
+        "C-3622",
+        "C-3623",
+        "C-3624"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2329",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2366",
+      "ref": "N-2366",
+      "name": "Candyland Illegal-Nanny Mansion NDA Smear",
+      "type": "investigation_target",
+      "description": "New topic: Lisa Nose / Jessica Reed Kraus rumor that Candace warehouses illegal nannies under NDA in a second mansion; host brands the fantasy series Candyland.",
+      "related_artifacts": [
+        "A-2474.1"
+      ],
+      "related_claims": [
+        "C-3617"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3",
+        "N-411",
+        "N-2358"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2367",
+      "ref": "N-2367",
+      "name": "Killer-Mom Filicide Narrative as Internet-Regulation SCOP",
+      "type": "investigation_target",
+      "description": "New topic: Clancy-seeded, Mace/NY Post/Libs-amplified filicide panic that host says lacks statistical basis and aims to regulate women online after Charlie-case bots failed.",
+      "related_artifacts": [
+        "A-2475.1"
+      ],
+      "related_claims": [
+        "C-3618",
+        "C-3621"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-294",
+        "N-303",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2368",
+      "ref": "N-2368",
+      "name": "Howard Lutnick / Simon Andre Epstein Whistleblower Death",
+      "type": "investigation_target",
+      "description": "New topic: Andre's reported death after alleging Lutnick-Epstein business ties and island visits; host flags suicide narrative as suspicious.",
+      "related_artifacts": [
+        "A-2478.1"
+      ],
+      "related_claims": [
+        "C-3626",
+        "C-3627"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-230",
+        "N-244",
+        "N-35",
+        "N-1395"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2369",
+      "ref": "N-2369",
+      "name": "Zach Bryan Free Palestine Gillette Stadium Record",
+      "type": "investigation_target",
+      "description": "New topic: Bryan's Free Palestine shirt nights and claimed attendance-record break after Kraft canceled Macklemore at Gillette.",
+      "related_artifacts": [
+        "A-2479.1"
+      ],
+      "related_claims": [
+        "C-3628"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-250",
+        "N-279"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2370",
+      "ref": "N-2370",
+      "name": "Baron Coleman Pre-Host Character Attack Campaign",
+      "type": "investigation_target",
+      "description": "New topic: coordinated old-interview digs and trending criticism after Candace announced Coleman would guest-host.",
+      "related_artifacts": [
+        "A-2480.1"
+      ],
+      "related_claims": [
+        "C-3629"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-552",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-230",
+      "ref": "N-230",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andre flagged his Epstein island visits and a 2018 startup email chain with Epstein.",
+      "related_artifacts": [
+        "A-2478.1"
+      ],
+      "related_claims": [
+        "C-3626",
+        "C-3627"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2368",
+        "N-35"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-244",
+      "ref": "N-244",
+      "name": "Simon Andre",
+      "type": "person",
+      "description": "Former British banker / BGC managing director reported dead after whistleblowing on Lutnick-Epstein links; host cites BBC attribution and a suicide narrative she calls remarkably suspicious.",
+      "related_artifacts": [
+        "A-2478.1"
+      ],
+      "related_claims": [
+        "C-3626",
+        "C-3627"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2368",
+        "N-230"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-250",
+      "ref": "N-250",
+      "name": "Zach Bryan",
+      "type": "person",
+      "description": "Country singer who (per host) wore Free Palestine shirts with his band for two Gillette Stadium nights and broke the attendance record previously held by Ed Sheeran.",
+      "related_artifacts": [
+        "A-2479.1"
+      ],
+      "related_claims": [
+        "C-3628"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2369"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-279",
+      "ref": "N-279",
+      "name": "Robert Kraft",
+      "type": "person",
+      "description": "Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights.",
+      "related_artifacts": [
+        "A-2479.1"
+      ],
+      "related_claims": [
+        "C-3628"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2369"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-294",
+      "ref": "N-294",
+      "name": "Lindsay Clancy",
+      "type": "person",
+      "description": "Mother whose case the host says seeded the current killer-mom algorithm push; she notes she did not follow the case closely and treats the surrounding TikTok empathy clips as SCOP bait.",
+      "related_artifacts": [
+        "A-2475.1"
+      ],
+      "related_claims": [
+        "C-3618",
+        "C-3621"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2367"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-303",
+      "ref": "N-303",
+      "name": "Nancy Mace",
+      "type": "person",
+      "description": "U.S. Representative shown on air pushing killer-mom epidemic framing in clips and tweets; host notes her AIPAC funding and Israel loyalty as context for SCOP intent.",
+      "related_artifacts": [
+        "A-2475.1"
+      ],
+      "related_claims": [
+        "C-3618",
+        "C-3621"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2367"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-318",
+      "ref": "N-318",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-1632 / N-2064.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1632",
+        "N-2064",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-342",
+      "ref": "N-342",
+      "name": "Brandon Tatum",
+      "type": "person",
+      "description": "Podcast host of the Frank Turek interview clip in which Turek recounts confronting Jeff Long about roof coverage.",
+      "related_artifacts": [
+        "A-2477.1"
+      ],
+      "related_claims": [
+        "C-3625"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-16"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-346",
+      "ref": "N-346",
+      "name": "Steven Paddock",
+      "type": "person",
+      "description": "Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3619"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-347",
+      "ref": "N-347",
+      "name": "Harvey Weinstein",
+      "type": "person",
+      "description": "Subject of the New York Times MeToo explosion the host says displaced Las Vegas coverage within five days of the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3619"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-411",
+      "ref": "N-411",
+      "name": "Lisa Nose",
+      "type": "person",
+      "description": "X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter.",
+      "related_artifacts": [
+        "A-2474.1"
+      ],
+      "related_claims": [
+        "C-3617"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2366"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3617",
+      "ref": "C-3617",
+      "label": "Lisa Nose tweet alleges Candace houses illegal nannies under NDA",
+      "claim": "On air the host reads a Lisa Nose X post claiming Candace Owens keeps eight nannies (two per child) living in a second mansion, hires nannies who are in the country illegally via an elite Jewish nanny agency, underpays them, and binds them with NDAs so they cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose confirmed via three people who know Candace.",
+      "anchored_artifacts": [
+        "A-2474.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-411",
+        "N-2366",
+        "N-2358"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:13",
+      "investigative_direction": "Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3618",
+      "ref": "C-3618",
+      "label": "Host frames killer-mom narrative as SCOP aimed at internet regulation",
+      "claim": "The host argues the Lindsay Clancy-seeded, Nancy Mace / New York Post / Libs of TikTok amplified killer-mom panic is an intentional SCOP that neocons link to women who distrust Erika Kirk, and that its purpose is to justify regulating the internet after bots failed to move the public off Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2475.1"
+      ],
+      "related_nodes": [
+        "N-2367",
+        "N-294",
+        "N-303",
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Map amplification graphs (Mace, NY Post, Libs) against UVU-review and Charlie-case news cycles; separate statistical filicide data from narrative framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3619",
+      "ref": "C-3619",
+      "label": "Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
+      "claim": "The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carol and others for military/Israel/Saudi conspiracy research she does not develop here.",
+      "anchored_artifacts": [
+        "A-2475.1"
+      ],
+      "related_nodes": [
+        "N-346",
+        "N-347",
+        "N-181"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:42",
+      "investigative_direction": "Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3620",
+      "ref": "C-3620",
+      "label": "Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
+      "claim": "The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, had done Brazil work she will not revisit, and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.",
+      "anchored_artifacts": [
+        "A-2475.1"
+      ],
+      "related_nodes": [
+        "N-318",
+        "N-42",
+        "N-1",
+        "N-1632",
+        "N-2064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:23",
+      "investigative_direction": "Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3621",
+      "ref": "C-3621",
+      "label": "U.S. filicide is rare and majority male; epidemic framing lacks statistical basis",
+      "claim": "The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality.",
+      "anchored_artifacts": [
+        "A-2475.1"
+      ],
+      "related_nodes": [
+        "N-2367",
+        "N-294",
+        "N-303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:48",
+      "investigative_direction": "Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3622",
+      "ref": "C-3622",
+      "label": "UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed",
+      "claim": "The host reads the UVU independent review stating Station 3 radioed the TPUSA SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.",
+      "anchored_artifacts": [
+        "A-2476.1"
+      ],
+      "related_nodes": [
+        "N-2365",
+        "N-2329",
+        "N-1",
+        "N-30",
+        "N-36",
+        "N-2350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:48",
+      "investigative_direction": "Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3623",
+      "ref": "C-3623",
+      "label": "Neither Turek nor Harpole mentions a fire captain performing CPR",
+      "claim": "Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.",
+      "anchored_artifacts": [
+        "A-2476.1"
+      ],
+      "related_nodes": [
+        "N-16",
+        "N-424",
+        "N-309",
+        "N-2365",
+        "N-2085",
+        "N-2097",
+        "N-2136",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:00",
+      "investigative_direction": "Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3624",
+      "ref": "C-3624",
+      "label": "Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30",
+      "claim": "The host plays fire dispatch audio she times around 12:30 p.m. in which ladder 33 and engine 34 are redirected toward Timpanogos, after radio traffic describing a black SUV with a person hanging out, which she presents as corroboration of the review's Station 2/3 reroute narrative.",
+      "anchored_artifacts": [
+        "A-2476.2"
+      ],
+      "related_nodes": [
+        "N-2365",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:16",
+      "investigative_direction": "Obtain original Provo/Orem dispatch recordings and unit logs for ladder 33 / engine 34 / Station 2 captain assignment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3625",
+      "ref": "C-3625",
+      "label": "Turek on Tatum podcast doubles down that Jeff Long had the roofs after the review",
+      "claim": "In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a Dan Flood text (\"I got you covered\") as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.",
+      "anchored_artifacts": [
+        "A-2477.1"
+      ],
+      "related_nodes": [
+        "N-16",
+        "N-435",
+        "N-434",
+        "N-342",
+        "N-2329"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:11",
+      "investigative_direction": "Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3626",
+      "ref": "C-3626",
+      "label": "Whistleblower Simon Andre dies after flagging Howard Lutnick Epstein ties",
+      "claim": "The host reports that former British banker and BGC Group managing director Simon Andre, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.",
+      "anchored_artifacts": [
+        "A-2478.1"
+      ],
+      "related_nodes": [
+        "N-244",
+        "N-230",
+        "N-35",
+        "N-1395",
+        "N-2368",
+        "N-5",
+        "N-120"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:26",
+      "investigative_direction": "Verify Andre identity, death circumstances, and BBC reporting; document Lutnick's public statements on Epstein island visits."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3627",
+      "ref": "C-3627",
+      "label": "Andre told BBC he found 2018 Lutnick-Epstein startup email chain",
+      "claim": "Per the host's BBC-attributed account, Simon Andre said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre cast as Lutnick failing to disclose a business relationship with Epstein after Epstein's Palm Beach conviction.",
+      "anchored_artifacts": [
+        "A-2478.1"
+      ],
+      "related_nodes": [
+        "N-244",
+        "N-230",
+        "N-35",
+        "N-2368",
+        "N-1395"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:13",
+      "investigative_direction": "Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3628",
+      "ref": "C-3628",
+      "label": "Zach Bryan Free Palestine shirts and Gillette attendance record",
+      "claim": "The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; drummer shirt referenced a killed Palestinian child) and broke the stadium attendance record previously held by Ed Sheeran.",
+      "anchored_artifacts": [
+        "A-2479.1"
+      ],
+      "related_nodes": [
+        "N-250",
+        "N-279",
+        "N-2369"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:05",
+      "investigative_direction": "Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3629",
+      "ref": "C-3629",
+      "label": "Baron Coleman faces X attacks after Candace announces him as guest host",
+      "claim": "After announcing Baron Coleman would take over her show during maternity leave, the host says critics immediately dug up 20-year-old interviews and trended lines casting him as abusive, with headlines such as \"Baron Coleman faces online criticism before guest spot on Candace Owens,\" which she frames as an attempt to get him dropped.",
+      "anchored_artifacts": [
+        "A-2480.1"
+      ],
+      "related_nodes": [
+        "N-552",
+        "N-3",
+        "N-2370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:22",
+      "investigative_direction": "Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging."
+    }
+  ],
+  "memes": []
+}
