@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-10-07T05:15:00Z",
+  "updated": "2026-10-07T15:30:00Z",
   "monument": "cka",
   "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)).",
-  "next_person_id": 447,
-  "next_investigation_id": 2371,
+  "next_person_id": 478,
+  "next_investigation_id": 2384,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -55,7 +55,8 @@
         157,
         158,
         159,
-        160
+        160,
+        161
       ]
     },
     "N-59": {
@@ -68,7 +69,8 @@
         1,
         3,
         9,
-        158
+        158,
+        161
       ],
       "retired_ids": [
         "N-100"
@@ -80,7 +82,7 @@
       "aliases": [
         "Erika Kolfage",
         "Erica Kirk",
-        "Erika Kirk (name spelling uncertain — see Optional Flags)"
+        "Erika Kirk (name spelling uncertain \u2014 see Optional Flags)"
       ],
       "episodes": [
         1,
@@ -123,7 +125,8 @@
         157,
         158,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-539",
@@ -254,7 +257,8 @@
         157,
         158,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-210",
@@ -334,7 +338,8 @@
         7,
         8,
         10,
-        26
+        26,
+        161
       ]
     },
     "N-1071": {
@@ -515,7 +520,8 @@
         8,
         9,
         10,
-        159
+        159,
+        161
       ]
     },
     "N-70": {
@@ -606,7 +612,8 @@
         47,
         53,
         72,
-        159
+        159,
+        161
       ],
       "retired_ids": [
         "N-287",
@@ -741,7 +748,8 @@
       "type": "organization",
       "aliases": [],
       "episodes": [
-        2
+        2,
+        161
       ]
     },
     "N-1079": {
@@ -856,7 +864,8 @@
       "episodes": [
         2,
         5,
-        6
+        6,
+        161
       ]
     },
     "N-1092": {
@@ -1193,7 +1202,8 @@
         43,
         47,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-188",
@@ -1820,7 +1830,8 @@
         50,
         67,
         68,
-        79
+        79,
+        161
       ],
       "retired_ids": [
         "N-378",
@@ -2012,7 +2023,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        8
+        8,
+        161
       ]
     },
     "N-145": {
@@ -2545,7 +2557,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        161
       ]
     },
     "N-170": {
@@ -2553,7 +2566,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        161
       ]
     },
     "N-171": {
@@ -2713,7 +2727,7 @@
       ]
     },
     "N-177": {
-      "canonical_name": "\"Nick\" (UVU Student — Pseudonym)",
+      "canonical_name": "\"Nick\" (UVU Student \u2014 Pseudonym)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3505,7 +3519,7 @@
       ]
     },
     "N-1221": {
-      "canonical_name": "Autopsy Record – Utah Privacy Statute Application",
+      "canonical_name": "Autopsy Record \u2013 Utah Privacy Statute Application",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -3609,7 +3623,8 @@
       "aliases": [],
       "episodes": [
         14,
-        35
+        35,
+        161
       ],
       "retired_ids": [
         "N-428"
@@ -3653,7 +3668,7 @@
       ]
     },
     "N-1224": {
-      "canonical_name": "ADL–FBI Partnership Structure",
+      "canonical_name": "ADL\u2013FBI Partnership Structure",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -3873,7 +3888,8 @@
         79,
         157,
         158,
-        159
+        159,
+        161
       ],
       "retired_ids": [
         "N-337",
@@ -4023,7 +4039,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        17
+        17,
+        161
       ]
     },
     "N-243": {
@@ -4159,7 +4176,7 @@
       ]
     },
     "N-1249": {
-      "canonical_name": "Medical Examiner Inquiry — Weiss Amaro",
+      "canonical_name": "Medical Examiner Inquiry \u2014 Weiss Amaro",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -4400,7 +4417,8 @@
         74,
         76,
         158,
-        159
+        159,
+        161
       ],
       "retired_ids": [
         "N-301",
@@ -4559,7 +4577,8 @@
       "episodes": [
         22,
         25,
-        58
+        58,
+        161
       ],
       "retired_ids": [
         "N-329",
@@ -4788,7 +4807,7 @@
       ]
     },
     "N-321": {
-      "canonical_name": "Jürgen Bühler",
+      "canonical_name": "J\u00fcrgen B\u00fchler",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5134,7 +5153,7 @@
       ]
     },
     "N-1305": {
-      "canonical_name": "Erika–Charlie 2018 Israel Airport Meeting Question",
+      "canonical_name": "Erika\u2013Charlie 2018 Israel Airport Meeting Question",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -5392,7 +5411,7 @@
       ]
     },
     "N-394": {
-      "canonical_name": "Robin Taylor / \"Rob Taylor\" / \"Luke Taylor\" (Name uncertainty — flagged)",
+      "canonical_name": "Robin Taylor / \"Rob Taylor\" / \"Luke Taylor\" (Name uncertainty \u2014 flagged)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5476,11 +5495,12 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        32
+        32,
+        161
       ]
     },
     "N-1321": {
-      "canonical_name": "Charlie Kirk Event — Maroon Shirt Individual Identification",
+      "canonical_name": "Charlie Kirk Event \u2014 Maroon Shirt Individual Identification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -5508,7 +5528,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        33
+        33,
+        161
       ]
     },
     "N-408": {
@@ -5680,7 +5701,8 @@
         157,
         158,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-433",
@@ -5809,7 +5831,7 @@
       ]
     },
     "N-1343": {
-      "canonical_name": "Harpole–Flood Text Attribution Discrepancy",
+      "canonical_name": "Harpole\u2013Flood Text Attribution Discrepancy",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -5865,7 +5887,8 @@
         51,
         61,
         70,
-        75
+        75,
+        161
       ],
       "retired_ids": [
         "N-610",
@@ -5912,7 +5935,7 @@
       ]
     },
     "N-1344": {
-      "canonical_name": "Operation Valhalla — Charlie Kirk Assassination Timeline Connection",
+      "canonical_name": "Operation Valhalla \u2014 Charlie Kirk Assassination Timeline Connection",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -5936,7 +5959,7 @@
       ]
     },
     "N-1347": {
-      "canonical_name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+      "canonical_name": "Nebraska\u2013Egypt Trade Mission / BTT Plane Overlap",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -6032,7 +6055,7 @@
       ]
     },
     "N-457": {
-      "canonical_name": "Hervé Hopineau",
+      "canonical_name": "Herv\u00e9 Hopineau",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6136,7 +6159,7 @@
       ]
     },
     "N-1362": {
-      "canonical_name": "Operation Bright Star August–September 2025",
+      "canonical_name": "Operation Bright Star August\u2013September 2025",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -6160,7 +6183,7 @@
       ]
     },
     "N-1365": {
-      "canonical_name": "Brigitte Macron Schedule Gap September 4–10, 2025",
+      "canonical_name": "Brigitte Macron Schedule Gap September 4\u201310, 2025",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -6268,7 +6291,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        39
+        39,
+        161
       ]
     },
     "N-1369": {
@@ -6433,7 +6457,7 @@
       ]
     },
     "N-1381": {
-      "canonical_name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
+      "canonical_name": "SU-BTU May 27 \u2013 June 2, 2025 Provo Visit with Wedi Machmood Aboard",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -6549,7 +6573,7 @@
       ]
     },
     "N-502": {
-      "canonical_name": "François Mitterrand",
+      "canonical_name": "Fran\u00e7ois Mitterrand",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6712,7 +6736,7 @@
       ]
     },
     "N-526": {
-      "canonical_name": "El Chapo (Joaquín Guzmán)",
+      "canonical_name": "El Chapo (Joaqu\u00edn Guzm\u00e1n)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6852,7 +6876,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        47
+        47,
+        161
       ]
     },
     "N-552": {
@@ -7269,7 +7294,7 @@
       ]
     },
     "N-1438": {
-      "canonical_name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "canonical_name": "Fort Huachuca September 8\u20139, 2025 Eyewitness Encounter",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -7913,7 +7938,7 @@
       ]
     },
     "N-704": {
-      "canonical_name": "Shinzō Abe",
+      "canonical_name": "Shinz\u014d Abe",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7921,7 +7946,7 @@
       ]
     },
     "N-1473": {
-      "canonical_name": "Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)",
+      "canonical_name": "Unification Church \u2192 Liberty University Lineage (Mooney 2.0 Thesis)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -8049,7 +8074,7 @@
       ]
     },
     "N-1480": {
-      "canonical_name": "Alton C. Jennings Will Challenge — TPUSA / YAF as Recipients",
+      "canonical_name": "Alton C. Jennings Will Challenge \u2014 TPUSA / YAF as Recipients",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -8057,7 +8082,7 @@
       ]
     },
     "N-1481": {
-      "canonical_name": "TPUSA Board Member Military–Satanism Connection",
+      "canonical_name": "TPUSA Board Member Military\u2013Satanism Connection",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -8291,7 +8316,7 @@
       ]
     },
     "N-1492": {
-      "canonical_name": "Buckman–TPUSA Donor Relationship Investigation",
+      "canonical_name": "Buckman\u2013TPUSA Donor Relationship Investigation",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9146,7 +9171,7 @@
       ]
     },
     "N-1009": {
-      "canonical_name": "Charlie Kirk — referenced throughout timeline reconstruction.",
+      "canonical_name": "Charlie Kirk \u2014 referenced throughout timeline reconstruction.",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9154,7 +9179,7 @@
       ]
     },
     "N-1010": {
-      "canonical_name": "Erica Kirk — referenced in alibi and Dan Flood message disputes.",
+      "canonical_name": "Erica Kirk \u2014 referenced in alibi and Dan Flood message disputes.",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9181,7 +9206,8 @@
         157,
         158,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-7"
@@ -9212,7 +9238,7 @@
       ]
     },
     "N-1544": {
-      "canonical_name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
+      "canonical_name": "Charlie Kirk Sept 8\u201310 Timeline Reconstruction",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9220,7 +9246,7 @@
       ]
     },
     "N-1545": {
-      "canonical_name": "Peter Thiel–Epstein Relationship Documentation",
+      "canonical_name": "Peter Thiel\u2013Epstein Relationship Documentation",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9228,7 +9254,7 @@
       ]
     },
     "N-1546": {
-      "canonical_name": "J.D. Vance–Peter Thiel Political Exposure",
+      "canonical_name": "J.D. Vance\u2013Peter Thiel Political Exposure",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9338,7 +9364,7 @@
       ]
     },
     "N-1550": {
-      "canonical_name": "Sept 7, 2025 Erika Instagram Post — Manipulation Question",
+      "canonical_name": "Sept 7, 2025 Erika Instagram Post \u2014 Manipulation Question",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9483,7 +9509,7 @@
       ]
     },
     "N-1560": {
-      "canonical_name": "Mount Hermon 33.33° Coordinate Investigation",
+      "canonical_name": "Mount Hermon 33.33\u00b0 Coordinate Investigation",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9582,7 +9608,8 @@
       "aliases": [],
       "episodes": [
         71,
-        73
+        73,
+        161
       ],
       "retired_ids": [
         "N-935"
@@ -9821,7 +9848,7 @@
       ]
     },
     "N-1585": {
-      "canonical_name": "Erika Kirk September 8–10, 2025 Whereabouts Verification",
+      "canonical_name": "Erika Kirk September 8\u201310, 2025 Whereabouts Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -9977,7 +10004,7 @@
       ]
     },
     "N-1596": {
-      "canonical_name": "Faith Kates – Epstein Relationship Scope",
+      "canonical_name": "Faith Kates \u2013 Epstein Relationship Scope",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -10232,7 +10259,8 @@
         148,
         154,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-79"
@@ -10267,7 +10295,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        79
+        79,
+        161
       ]
     },
     "N-996": {
@@ -10576,7 +10605,7 @@
       ]
     },
     "N-1648": {
-      "canonical_name": "Romney–Netanyahu–Utah Connection Network",
+      "canonical_name": "Romney\u2013Netanyahu\u2013Utah Connection Network",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -10624,7 +10653,7 @@
       ]
     },
     "N-1654": {
-      "canonical_name": "Robbie Hild–Romney Family Tie Verification",
+      "canonical_name": "Robbie Hild\u2013Romney Family Tie Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -10640,7 +10669,7 @@
       ]
     },
     "N-1656": {
-      "canonical_name": "Tyler Robinson Defense — Chain of Custody / Documents",
+      "canonical_name": "Tyler Robinson Defense \u2014 Chain of Custody / Documents",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -10704,7 +10733,7 @@
       ]
     },
     "N-1664": {
-      "canonical_name": "Adelson–West Bank Annexation Meeting Verification",
+      "canonical_name": "Adelson\u2013West Bank Annexation Meeting Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -10832,7 +10861,7 @@
       ]
     },
     "N-1680": {
-      "canonical_name": "Erika Kirk–Victor Marx Relationship Verification",
+      "canonical_name": "Erika Kirk\u2013Victor Marx Relationship Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -10861,7 +10890,8 @@
         120,
         148,
         154,
-        159
+        159,
+        161
       ],
       "retired_ids": [
         "N-299",
@@ -11342,7 +11372,7 @@
       ]
     },
     "N-1736": {
-      "canonical_name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter — CASE_1 / LM-1000 placeholder)",
+      "canonical_name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter \u2014 CASE_1 / LM-1000 placeholder)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -11526,7 +11556,8 @@
         157,
         158,
         159,
-        160
+        160,
+        161
       ],
       "retired_ids": [
         "N-131",
@@ -11630,7 +11661,7 @@
       ]
     },
     "N-2071": {
-      "canonical_name": "Hamptons August 5–7 Intervention Event",
+      "canonical_name": "Hamptons August 5\u20137 Intervention Event",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -11986,7 +12017,7 @@
       ]
     },
     "N-2116": {
-      "canonical_name": "Losee Center–Library Route Discrepancy",
+      "canonical_name": "Losee Center\u2013Library Route Discrepancy",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -12207,7 +12238,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        130
+        130,
+        161
       ]
     },
     "N-2144": {
@@ -12499,7 +12531,7 @@
       ]
     },
     "N-2180": {
-      "canonical_name": "Nate Walker Movement Timeline (12:15–12:27)",
+      "canonical_name": "Nate Walker Movement Timeline (12:15\u201312:27)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -12523,7 +12555,7 @@
       ]
     },
     "N-2183": {
-      "canonical_name": "Officer Bagley — Sex Crimes Unit Background",
+      "canonical_name": "Officer Bagley \u2014 Sex Crimes Unit Background",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -12763,7 +12795,7 @@
       ]
     },
     "N-2213": {
-      "canonical_name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
+      "canonical_name": "Pentagon\u2013State Department\u2013TPUSA Coordinated Messaging Operation",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -12775,7 +12807,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        145
+        145,
+        161
       ]
     },
     "N-2215": {
@@ -13211,7 +13244,7 @@
       ]
     },
     "N-2360": {
-      "canonical_name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+      "canonical_name": "Dominate 2.0 Mar-a-Lago \u201cBig Hitters\u201d Telegram Donor List",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -13227,7 +13260,7 @@
       ]
     },
     "N-2362": {
-      "canonical_name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
+      "canonical_name": "Expanded Feb\u2013Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -13384,7 +13417,8 @@
         149,
         156,
         158,
-        159
+        159,
+        161
       ],
       "retired_ids": [
         "N-10006"
@@ -13451,7 +13485,8 @@
         "Riley Gains"
       ],
       "episodes": [
-        159
+        159,
+        161
       ],
       "retired_ids": [
         "N-10011"
@@ -13739,7 +13774,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        160
+        160,
+        161
       ]
     },
     "N-2366": {
@@ -13747,7 +13783,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        160
+        160,
+        161
       ]
     },
     "N-2367": {
@@ -13800,6 +13837,255 @@
         "N-2259",
         "N-2260",
         "N-2261"
+      ]
+    },
+    "N-447": {
+      "canonical_name": "Jennica Pounds",
+      "type": "person",
+      "aliases": [
+        "data republican",
+        "Data Republican",
+        "Genica",
+        "D Republican"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-448": {
+      "canonical_name": "Matt Servius",
+      "type": "person",
+      "aliases": [
+        "Servas",
+        "Cervius",
+        "Matt Servas",
+        "Matt Servious"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-449": {
+      "canonical_name": "Blake Wynn",
+      "type": "person",
+      "aliases": [
+        "Blake Win",
+        "Blake Wyn"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-450": {
+      "canonical_name": "Steve Wynn",
+      "type": "person",
+      "aliases": [
+        "Steve Wyn",
+        "Steve Wind"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-452": {
+      "canonical_name": "Ali Breland",
+      "type": "person",
+      "aliases": [
+        "Ali Breeland"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-465": {
+      "canonical_name": "Jules Katz",
+      "type": "person",
+      "aliases": [
+        "Cats",
+        "Jules Cats"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-469": {
+      "canonical_name": "Benjamin Goodman",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-470": {
+      "canonical_name": "Jack O'Hara",
+      "type": "person",
+      "aliases": [
+        "Ohara",
+        "O'Hara"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-472": {
+      "canonical_name": "Miriam Adelson",
+      "type": "person",
+      "aliases": [
+        "Miriam Medson",
+        "Miriam Adlesen"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-473": {
+      "canonical_name": "Robert F. Kennedy Jr.",
+      "type": "person",
+      "aliases": [
+        "RFK Jr.",
+        "RFK",
+        "Robert F. Kennedy Junior"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-477": {
+      "canonical_name": "Dean Withers",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2371": {
+      "canonical_name": "Monster Lab / Clippet",
+      "type": "organization",
+      "aliases": [
+        "Monster Labs",
+        "Clipit",
+        "Clippet",
+        "Clipson"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2372": {
+      "canonical_name": "Elephant Clipping Campaign",
+      "type": "topic",
+      "aliases": [
+        "elephant clipping"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2373": {
+      "canonical_name": "Enclave and Key",
+      "type": "organization",
+      "aliases": [
+        "Enclave & Key",
+        "Enclave Key"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2374": {
+      "canonical_name": "Anti-Candace Paid Clipping Campaign",
+      "type": "topic",
+      "aliases": [
+        "anti-Candace clipping"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2375": {
+      "canonical_name": "Wayback Machine Monster Lab September 2025 Wipe",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2376": {
+      "canonical_name": "Jennica Pounds DoD Special Government Employee Thread",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2377": {
+      "canonical_name": "Latvia",
+      "type": "place",
+      "aliases": [
+        "Latafia",
+        "Lafia",
+        "Lapia"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2378": {
+      "canonical_name": "Las Vegas",
+      "type": "place",
+      "aliases": [
+        "Vegas"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2379": {
+      "canonical_name": "Department of War",
+      "type": "organization",
+      "aliases": [
+        "Department of Defense",
+        "DoD",
+        "DoW"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2380": {
+      "canonical_name": "Atlantic Elephant Clipping Expose",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2381": {
+      "canonical_name": "Andrew Tate Hustlers University Clipping Economy",
+      "type": "topic",
+      "aliases": [
+        "Hustlers University"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2382": {
+      "canonical_name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2383": {
+      "canonical_name": "Audacity of the Gaslight Framing",
+      "type": "topic",
+      "aliases": [
+        "audacity of the gaslight"
+      ],
+      "episodes": [
+        161
       ]
     }
   }
