@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: 
   N-1, N-70, N-37
 
+## 6. Meme Register
+
+**M-47** (meme) Megachurches Look Funny
+
+### Occurrence 1
+
+Video Timestamp: 00:28:46
+Speaker: N-3
+Quote: these mega churches are looking a little funny. Okay? They're looking a little funny.
+Context: Host side-eyes megachurch business model mid-investigation talk.
+Tags: church, sarcasm, money
+Confidence: high
+
+---
+
 ---
 
 # I. Meta-Data
@@ -954,6 +969,19 @@ Investigative Direction: Locate any public statement by Rob McCoy identifying hi
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent
 - [x] No IDs reused from prior episodes (starts at A-1301, C-1545, N-45, N-1273 per ledger continuation)
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:02:30
+Speaker: N-3
+Quote: nswer to the centralized intelligence agency, as we have said, is the decentralized intelligence agency. We must decentralize ourselves to plug out...
+Context: DIA tip-network refrain. (CKA seq 23)
+Tags: reuse, pass2
+Confidence: high
 
 ---
 

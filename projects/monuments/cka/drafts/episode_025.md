@@ -615,6 +615,21 @@ Investigative Direction: Independently verify against academic and government so
 
 ---
 
+## 6. Meme Register
+
+**M-31** (meme) Buckle Up
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: lly, some explosive revelations regarding the Charlie Kirk case. Now, buckle up because there's this country that's only the size of New Jersey. It...
+Context: Later reuse of Buckle Up in CKA seq 25.
+Tags: show_energy, receipts, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown:** The "verifiable proof" for the 12 Israeli cell-phone claim (C-1594) is asserted on-air but the underlying documentation is not displayed in the episode. Prior reporting by "Mel" / "village crazy lady" on X is referenced but not quoted. This claim is inscribed with the caveat that its primary artifact is the host's on-air assertion rather than a displayed source.

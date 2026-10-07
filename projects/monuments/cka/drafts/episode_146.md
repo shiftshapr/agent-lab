@@ -429,6 +429,21 @@ Investigative Direction: Cross-reference courthouse visitor logs; reconcile with
 
 ---
 
+## 6. Meme Register
+
+**M-24** (meme) Yanking and Banking
+
+### Occurrence 1
+
+Video Timestamp: 00:08:45
+Speaker: N-3
+Quote: en to Jack explain how that all came together to his dear friend, the Yankin and Bankan Franken Turk. Take a listen. And Charlie took pictures with...
+Context: Yanking and banking gag. (CKA seq 146)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty — "Judge Graph"**: Likely a transcript rendering of the presiding magistrate's name; verify against Utah Fourth District Court records.

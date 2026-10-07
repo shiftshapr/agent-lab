@@ -519,3 +519,30 @@ Tags: spiritual_framing, unspecified_direction
 Confidence: high
 
 ---
+
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:16:05
+Speaker: N-3
+Quote: Be a happy warrior. And he was a happy warrior. And we were happy warriors.
+Context: Host memorializes Charlie Kirk mantra to stay cheerful under pressure.
+Tags: memorial_tone, catchphrase
+Confidence: high
+
+---
+
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:12:05
+Speaker: N-3
+Quote: he used to always say, "Iron sharpens iron."
+Context: Host remembers Charlie's debate mantra while describing practice rounds.
+Tags: charlie, debate, memorial
+Confidence: high
+
+---
+

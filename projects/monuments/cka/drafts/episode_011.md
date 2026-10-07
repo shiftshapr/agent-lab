@@ -627,6 +627,21 @@ Investigative Direction: N/A — rhetorical/statement of self-positioning.
 
 ---
 
+## 6. Meme Register
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: omething's not right. I know it's not&nbsp;&nbsp; right. Okay. Uh, we don't know now, but we know.&nbsp; You know, we don't know, but we know. And ...
+Context: We don't know but we know refrain. (CKA seq 11)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Source testimony without corroborating artifact**: Several host-relayed claims regarding Tyler Robinson (no confession, bewilderment at casings, family disbelief of guilt, fear-of-being-shot motive, federal warning about witness protection, father's prior unawareness of Tyler's sexuality, never setting foot on UVU campus, being nearby the campus) are presented as coming from a single "vetted source" whose communication is not displayed or played in the episode. These claims should not be promoted beyond this episode without independent corroboration. Not inscribed as claims in the present register, per the artifact-first principle.

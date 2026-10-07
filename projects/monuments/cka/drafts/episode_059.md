@@ -934,6 +934,21 @@ Investigative Direction: Verify through FBIA official publications, IRS Form 990
 
 ---
 
+## 6. Meme Register
+
+**M-56** (meme) Clown World
+
+### Occurrence 1
+
+Video Timestamp: 00:19:27
+Speaker: N-3
+Quote: It's it's clown world over there.
+Context: Host diagnoses TPUSA institutional moves as clown world.
+Tags: absurd, residual, institution
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty**: "NDA Buckman" preserved as spoken (first name not provided); "Elizabeth McCoy" mentioned in passing but no artifact backing (omitted from nodes).

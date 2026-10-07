@@ -744,6 +744,47 @@ Investigative Direction: Obtain independent attendee statements; compare against
 
 ---
 
+## 6. Meme Register
+
+**M-41** (meme) Sock Puppet
+
+### Occurrence 1
+
+Video Timestamp: 00:31:58
+Speaker: N-3
+Quote: I call them military bots and they they're just like sock puppets who just say wonderful things about Israel all the time.
+Context: Host describes X bot swarms as military sock puppets.
+Tags: bots, astroturf, israel
+Confidence: high
+
+---
+
+**M-42** (meme) Scripted
+
+### Occurrence 1
+
+Video Timestamp: 00:41:41
+Speaker: N-3
+Quote: There was full agreement that all were disappointed. The event was scripted.
+Context: Audience / host report that a TPUSA campus event felt pre-written.
+Tags: staged, event, host_charge
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:49:37
+Speaker: N-3
+Quote: e um made it happen. We should have done it sooner. Obviously, uh, we don't know, but we know. And soon, ladies and gentlemen, we will know. We wil...
+Context: We don't know but we know refrain. (CKA seq 13)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - Speculation / Framing Premise (failed Claim Admission Test): "I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas." Recorded as framing premise only — no artifact anchor.

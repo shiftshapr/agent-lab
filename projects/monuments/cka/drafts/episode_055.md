@@ -886,6 +886,21 @@ Investigative Direction: Review Turning Point USA's publicly available donation 
 
 ---
 
+## 6. Meme Register
+
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 00:49:54
+Speaker: N-3
+Quote: We can talk about conspiracies and I'm a conspiracy girly and I have the mug to prove it.
+Context: Self-label tied to mug merch affirming open conspiracy talk.
+Tags: merch, self_label
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty — "Sun Myung Moon":** Transcript renders the name as "Sunyong Moon," "Sun Young Moon," and "Sun Myung Moon." Preserved most plausible reading as Sun Myung Moon; flag for verification.

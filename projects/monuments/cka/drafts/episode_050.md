@@ -524,6 +524,21 @@ Flag: Artifact verbally referenced but not shown; transcript ambiguity; requires
 
 ---
 
+## 6. Meme Register
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 00:14:26
+Speaker: N-3
+Quote: who disapprove of her comments. On February 28th of this year Candace just asking questions posted quote, "Time to look into the history and profit...
+Context: Later reuse of Just Asking Questions in CKA seq 50.
+Tags: epistemic, host_refrain, chat_elevate, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty / possible transcription error:** "Jeremy Boring" (A-1563.1, N-607) — public-record name is Jeremy Boreing.

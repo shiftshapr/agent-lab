@@ -768,3 +768,43 @@ Tags: self_defense, rhetorical_reframe
 Confidence: medium
 
 ---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:12:10
+Speaker: N-3
+Quote: Some of it felt a little cheap and fake and gay
+Context: Host applies Fake and Gay to cheap eulogizing after Charlie Kirk's death.
+Tags: catchphrase, memorial_tone
+Confidence: high
+
+---
+
+**M-39** (meme) Same Energy
+
+### Occurrence 1
+
+Video Timestamp: 00:17:18
+Speaker: N-3
+Quote: you're still going to have that same energy behind you.
+Context: Host warns that swapping faces does not keep the same movement energy.
+Tags: vibe, chat_elevate, comparison
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:45:24
+Speaker: N-3
+Quote: k club, learn about vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported ...
+Context: CIA merch / Candace Intelligence Agency bit. (CKA seq 10)
+Tags: reuse, pass2
+Confidence: high
+
+---
+

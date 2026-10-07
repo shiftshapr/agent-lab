@@ -25,3 +25,19 @@
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-56** (meme) Clown World
+
+### Occurrence 1
+
+Video Timestamp: 00:52:19
+Speaker: N-3
+Quote: This is them doing clickbait which I then responded to them. This is clown world. Do you guys remember this? The Department of Justice um with the ...
+Context: Later reuse of Clown World in CKA seq 116.
+Tags: absurd, residual, institution, reuse
+Confidence: high
+
+---
+

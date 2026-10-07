@@ -534,6 +534,21 @@ Investigative Direction: File records requests for the underlying 911 audio and 
 
 ---
 
+## 6. Meme Register
+
+**M-59** (meme) Sus
+
+### Occurrence 1
+
+Video Timestamp: 00:14:12
+Speaker: N-3
+Quote: m that your babies need one thing. Seems a little weird to me, little sus, little over the top. I would just [snorts] answer the question. I'd say,...
+Context: Later reuse of Sus in CKA seq 132.
+Tags: slang, suspicion, comedy, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Claim failed admission test — C-3147:** Host's exclusive report of Dr. Deidra Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.

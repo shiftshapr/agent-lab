@@ -33,6 +33,21 @@ Claim Range: C-3000 – C-3016
 New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Aman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
+## 6. Meme Register
+
+**M-59** (meme) Sus
+
+### Occurrence 1
+
+Video Timestamp: 01:19:42
+Speaker: N-3
+Quote: like how the kid with a limped with the limp switched legs. Lance is sus and he seems like a MK Ultra OP. Keep going, Max. I personally think that ...
+Context: Later reuse of Sus in CKA seq 124.
+Tags: slang, suspicion, comedy, reuse
+Confidence: high
+
+---
+
 ---
 
 # II. Executive Summary

@@ -561,6 +561,21 @@ Investigative Direction: Confirm the underlying church affiliation and ICE relat
 
 ---
 
+## 6. Meme Register
+
+**M-45** (meme) Spiritual Warfare
+
+### Occurrence 1
+
+Video Timestamp: 00:39:28
+Speaker: N-3
+Quote: then we've had slander, accusations, lies, and confusion? That's what spiritual warfare is, ladies and gentlemen. And for people who are slandering...
+Context: Later reuse of Spiritual Warfare in CKA seq 66.
+Tags: faith, chat_elevate, frame, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" — transcript shows multiple spellings for the same TPUSA figure (N-42). Requires human verification against correct spelling.

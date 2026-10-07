@@ -799,6 +799,21 @@ Investigative Direction: Verify exact quotation against the full original record
 
 ---
 
+## 6. Meme Register
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 00:15:07
+Speaker: N-3
+Quote: he was one of the leakers inside of the inside of the administration. Just asking questions. Laura Loomer follows up, "So disrespectful to Presiden...
+Context: Later reuse of Just Asking Questions in CKA seq 80.
+Tags: epistemic, host_refrain, chat_elevate, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** Chapter president appears in transcript as both "Dino Fonte Grassi" and "Dino Fontegrassi" — preserve as "Dino Fonte Grassi" pending verification.

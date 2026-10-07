@@ -21,6 +21,21 @@ This episode is dominated by host commentary on the Daily Wire's announced mass 
 
 The episode advances three principal investigative threads: (a) the alleged coordination between the Dhillon Law Group / Slauson firm, Ben Shapiro, and Laura Loomer in launching the Brian Harpole lawsuit; (b) the alleged overlap between Dhillon Law Group's FARA-registered client Show Faith by Works and the Turning Point USA / Andrew Kolvet geofencing operation at Charlie Kirk's memorial; and (c) the host's framing that the Daily Wire's collapse is materially tied to Ben Shapiro's personal vendetta against her. The episode does not introduce primary documents into the Charlie Kirk assassination timeline, but rather reframes surrounding actors and their relationships.
 
+## 6. Meme Register
+
+**M-51** (meme) Cringe
+
+### Occurrence 1
+
+Video Timestamp: 00:14:55
+Speaker: N-3
+Quote: Nickelodeon girl, like making fun of me, and it was weird, and it was cringe, and also beyond the realm of being stalked by a former employer. Stra...
+Context: Later reuse of Cringe in CKA seq 98.
+Tags: aesthetic, dunk, comedy, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

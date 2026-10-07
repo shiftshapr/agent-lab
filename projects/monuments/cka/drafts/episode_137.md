@@ -561,6 +561,47 @@ Investigative Direction: Cross-reference with the Diocese of Phoenix / Catholic 
 
 ---
 
+## 6. Meme Register
+
+**M-24** (meme) Yanking and Banking
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: Happy Tuesday. It's yanking bank Tuesdays. We're going to do some yanking and banking around a few topics.
+Context: Host elevates the phrase into a show-day motif and audience refrain.
+Tags: running_gag, show_theme
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency.
+Context: Closing merch plug restates DCIA / CIA twin brand.
+Tags: merch, brand_joke
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency.
+Context: Same merch beat names Candace Intelligence Agency hats.
+Tags: merch, brand_joke
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** "Alan Robertson" (USU officer) — host clarifies spelling as A-L-A-N, distinct from "Allen" (A-L-L-E-N) and a verbal slip "Allan Robinson" appears at one point (autocorrected on air). Preservation: "Alan Robertson."

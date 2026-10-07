@@ -628,6 +628,21 @@ Investigative Direction: Verify via FOIA requests, hospital records, contemporan
 
 ---
 
+## 6. Meme Register
+
+**M-8** (meme) Catch all the religious scandals
+
+### Occurrence 1
+
+Video Timestamp: 00:43:05
+Speaker: N-3
+Quote: I've long said that in terms of the names I get called in the media, I feel like I'm I'm playing Pokémon. I just got to catch every single ball.
+Context: CKA reuse of catch-them-all / Pokémon joke about accumulating smear labels (BoC M-8 pattern).
+Tags: pokemon_joke, smear_labels
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty (N-365 / N-1311):** The episode alternates between "Shawnie Ray Kirkup" (Steve Baker / Glenn Beck audio) and "Shawnie Kirkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.

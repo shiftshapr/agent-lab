@@ -813,6 +813,21 @@ Investigative Direction: Verify with Youssef's official tour pages and ticketing
 
 ---
 
+## 6. Meme Register
+
+**M-53** (meme) False Flag
+
+### Occurrence 1
+
+Video Timestamp: 00:13:17
+Speaker: N-3
+Quote: how can you believe a country that is has a very lucrative history of false flags operation right um there's actually two false flags operate there...
+Context: Later reuse of False Flag in CKA seq 65.
+Tags: staged, war, theory, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty**: "Bass Music" / "Bassem Youssef" — name clearly identified throughout but host occasionally uses informal/phonetic spelling in passing. Preserved as written.

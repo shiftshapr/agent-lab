@@ -705,6 +705,21 @@ Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and v
 
 ---
 
+## 6. Meme Register
+
+**M-45** (meme) Spiritual Warfare
+
+### Occurrence 1
+
+Video Timestamp: 00:50:25
+Speaker: N-3
+Quote: at question. Mary Garcia writes, "For many years I have learned about spiritual warfare from Father Ripperger's books and conferences. What I learn...
+Context: Later reuse of Spiritual Warfare in CKA seq 76.
+Tags: faith, chat_elevate, frame, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 ### Name Uncertainty

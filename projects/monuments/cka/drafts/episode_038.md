@@ -23,6 +23,21 @@ The episode advances three investigative questions: (a) whether a French state a
 
 Most of the Wilmington-network claims rest on a single uncorroborated source email; they are inscribed as claim-anchored-to-email rather than as independently verified. The host's broader conspiracy framing (satanic power, gang-states, MK Ultra, federal setup) is not inscribed as claims per the rhetoric-removal test.
 
+## 6. Meme Register
+
+**M-52** (meme) Patsy
+
+### Occurrence 1
+
+Video Timestamp: 00:15:00
+Speaker: N-3
+Quote: Nope, we've got to protect the patsy, right? We've got to protect the patsy in this situation.
+Context: Host suggests the system is protecting a designated patsy.
+Tags: fall_guy, case, host_charge
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

@@ -32,6 +32,34 @@
   - New Nodes Introduced: (none)
   - Existing Nodes Reused: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228
 
+## 6. Meme Register
+
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:52:16
+Speaker: N-3
+Quote: very inspires bravery. Charlie always loved the biblical proverb. are iron sharpens iron and um we've seen that we have seen that on display entire...
+Context: Later reuse of Iron Sharpens Iron in CKA seq 149.
+Tags: charlie, debate, memorial, reuse
+Confidence: high
+
+---
+
+---
+
+**M-24** (meme) Yanking and Banking
+
+### Occurrence 1
+
+Video Timestamp: 00:11:50
+Speaker: N-3
+Quote: f the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there. Yeah. And then he goes on to say that Bria...
+Context: Yanking and banking gag. (CKA seq 149)
+Tags: reuse, pass2
+Confidence: high
+
 ---
 
 ## II. Executive Summary

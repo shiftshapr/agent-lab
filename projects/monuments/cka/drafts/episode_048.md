@@ -21,6 +21,21 @@ This episode advances multiple investigative threads already in motion in the Br
 
 Structurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.
 
+## 6. Meme Register
+
+**M-31** (meme) Buckle Up
+
+### Occurrence 1
+
+Video Timestamp: 00:01:38
+Speaker: N-3
+Quote: d, you should not you should not believe that. Well, get ready, guys. Buckle up. Where do we begin? This is what I would say is clearly a federal d...
+Context: Later reuse of Buckle Up in CKA seq 48.
+Tags: show_energy, receipts, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

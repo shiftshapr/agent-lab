@@ -23,6 +23,21 @@ Two non-TPUSA pop-culture segments introduce additional evidentiary bundles: Bro
 
 The episode advances the Kirk investigation primarily through the TPUSA letter artifact, which constitutes a documentary position by TPUSA legal counsel that materially conflicts with Owens's stated obligations under the contract. Structural importance: high — this is the first on-air production of the TPUSA legal correspondence and creates a formal record of TPUSA's stated scope of prohibited speech.
 
+## 6. Meme Register
+
+**M-32** (meme) Hit Piece
+
+### Occurrence 1
+
+Video Timestamp: 00:29:09
+Speaker: N-3
+Quote: d Blake Lively in early December of 2024 regarding the New York Times hit piece that was coming out and she said, quote, "I think this knows someth...
+Context: Later reuse of Hit Piece in CKA seq 61.
+Tags: smear, media, intimidation, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

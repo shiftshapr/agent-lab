@@ -571,6 +571,21 @@ Investigative Direction: Verify the exact date of Shapiro's hiring through Breit
 
 ---
 
+## 6. Meme Register
+
+**M-35** (meme) Rabbit Hole
+
+### Occurrence 1
+
+Video Timestamp: 00:20:35
+Speaker: N-3
+Quote: there. But enough about that because we're not going to go down that rabbit hole. There's no evidence of foul play ever, according to the media, ev...
+Context: Later reuse of Rabbit Hole in CKA seq 53.
+Tags: media_insult, badge, research, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty — "Maggie Wgner" / "Maggie Wagner":** Episode displays spelling "Wgner" first via text on screen, then Candace spells it aloud as "W-A-G-G-S ... W G NE R." Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads "Mags Wgner."

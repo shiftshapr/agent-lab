@@ -23,6 +23,21 @@ Second, the host introduces documentary material on Victor Marx, including: (a) 
 
 Third, the host reviews the released ATF summary in the Tyler Robinson matter, reading aloud findings on cartridge-case matching and bullet-jacket fragment analysis, and flags upcoming microscopic comparison. A separate Daily Mail article is read aloud containing an attributed TPUSA "insider" statement acknowledging that the cancellation was driven by factors beyond security. A historical Robert Maxwell → Bain Capital investment tie-in is also presented via a 2012 Los Angeles Times reference.
 
+## 6. Meme Register
+
+**M-49** (meme) Nothing Burger
+
+### Occurrence 1
+
+Video Timestamp: 00:00:40
+Speaker: N-3
+Quote: he ATF released their summary, not even really the report, and it's a nothingburger. I want you to know that it is one big nothingburger. Everythin...
+Context: Later reuse of Nothing Burger in CKA seq 93.
+Tags: dismissal, dunk, sarcasm, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

@@ -616,6 +616,21 @@ Investigative Direction: Verify original source (clip origin, show, date) and ch
 
 ---
 
+## 6. Meme Register
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:02:25
+Speaker: N-3
+Quote: te literally, the way that they did this was through the mechanism of gaslighting. That's what he is the father of public gaslighting. Okay, that's...
+Context: Later reuse of Gaslight in CKA seq 14.
+Tags: media, denial, host_refrain, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1218.1):** The Connecticut FBI deployment claim relies on host-described tip content; the proof the host references was not displayed on screen. Independent corroboration required before treating as evidentiary.

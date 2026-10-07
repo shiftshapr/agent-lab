@@ -23,6 +23,21 @@ The episode then advances three other evidentiary threads: (1) a viral TikTok cl
 
 The episode does not advance artifact-backed claims regarding several items the host raises as research questions (Ohio childhood, Loyola Marymount attendance, Batman Colorado theater connection, Erika's whereabouts September 8–10). These are inscribed as investigation targets rather than claims.
 
+## 6. Meme Register
+
+**M-58** (meme) Useful Idiot
+
+### Occurrence 1
+
+Video Timestamp: 00:56:47
+Speaker: N-3
+Quote: do you think that he was just a useful idiot or do you think he knew he was shoveling out fed slop?"
+Context: Chat question elevated: useful idiot vs knowing fed-slop pusher.
+Tags: fed, residual_adjacent, chat_elevate
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

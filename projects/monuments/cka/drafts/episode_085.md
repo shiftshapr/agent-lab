@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
   - (see registers)
 
+## 6. Meme Register
+
+**M-52** (meme) Patsy
+
+### Occurrence 1
+
+Video Timestamp: 00:31:45
+Speaker: N-3
+Quote: Shame on people that are repeating this lie and trying to establish a patsy in this case. I am at the point that with all of the proof that I have,...
+Context: Later reuse of Patsy in CKA seq 85.
+Tags: fall_guy, case, host_charge, reuse
+Confidence: high
+
+---
+
 ---
 
 # Meta-Data

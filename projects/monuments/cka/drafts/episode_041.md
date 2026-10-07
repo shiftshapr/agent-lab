@@ -386,6 +386,21 @@ Investigative Direction: Verify clip against original Tim Pool broadcast; captur
 
 ---
 
+## 6. Meme Register
+
+**M-29** (meme) You Can't Make This Up
+
+### Occurrence 1
+
+Video Timestamp: 00:01:17
+Speaker: N-3
+Quote: ically the transparency of the things that they are doing. Uh you you can't make this up. They are just so obvious so obviously trying to hide some...
+Context: Later reuse of You Can't Make This Up in CKA seq 41.
+Tags: incredulity, headline, sarcasm, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown:** Host's claim that Cam Higby has been on TPUSA payroll since August 2025 (no visible artifact; fails admission test for claim inscription as artifact-anchored).

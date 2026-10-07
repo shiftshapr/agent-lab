@@ -929,6 +929,34 @@ Investigative Direction: Identify primary artifact anchor if a dedicated clip ex
 
 ---
 
+## 6. Meme Register
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:50:32
+Speaker: N-3
+Quote: You guys can go to make him a sandwichand. com if you would like to support me.
+Context: First CKA plugs of self-published Make Him a Sandwich book/site brand.
+Tags: merch, book_brand
+Confidence: high
+
+---
+
+**M-46** (meme) Handler
+
+### Occurrence 1
+
+Video Timestamp: 00:52:17
+Speaker: N-3
+Quote: I think handlers were sent out to manage to first and foremost break apart me and Charlie
+Context: Host theorizes handlers were deployed after Kanye contact.
+Tags: intel, operators, theory
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty — Camera Operator (N-256):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.

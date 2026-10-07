@@ -454,6 +454,34 @@ Investigative Direction: Verify NYT byline, interview location, and publication 
 
 ---
 
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: the DCIA, the decentralized intelligence agency, is moving quicker.
+Context: Host credits DCIA crowd research on Lori Cardoza Moore background.
+Tags: tips_network, brand_joke
+Confidence: high
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:51:25
+Speaker: N-3
+Quote: Geoengineering has become really fake and gay.
+Context: Viewer Joel comment elevated on air using Fake and Gay.
+Tags: viewer_refrain, catchphrase
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown:** A-1683.1 (WSJ Kanye apology ad) and A-1684.1 (Vanity Fair Kanye interview) are cited by the host but neither displayed nor read aloud in this episode.

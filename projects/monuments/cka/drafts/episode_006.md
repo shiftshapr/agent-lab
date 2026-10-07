@@ -990,6 +990,19 @@ Uncertainty: Pattern invoked implicitly; explicit 'conspiracy theorist' label no
 
 ---
 
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:44:12
+Speaker: N-3
+Quote: wed to have it. And you also have to remember Charlie wanted us to be happy warriors. So while we are fighting for truth, while we are fighting for...
+Context: Recurring happy-warrior refrain. (CKA seq 6)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## 8. Organization Network
 
 OrgLink: N-1139 affiliated_with N-1147
@@ -1002,3 +1015,30 @@ RoleLink: N-3 member_of N-1000 title:Former employee / speaker
 RoleLink: N-127 chair_of N-1138 title:Chairman
 RoleLink: N-119 member_of N-1135 title:Journalist (byline)
 RoleLink: N-42 holds_role N-1000 title:Board member (self-claimed)
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:19:08
+Speaker: N-3
+Quote: this is the kind of stuff that like we don't know but we know and that hit
+Context: Host gut-certainty slogan later productized on stand cups.
+Tags: catchphrase, merch
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:52:42
+Speaker: N-3
+Quote: Our CIA line. This is the Canis Intelligence Agency.
+Context: On-air merch plug for CIA / Candace Intelligence Agency line.
+Tags: merch, brand_joke
+Confidence: high
+
+---
+

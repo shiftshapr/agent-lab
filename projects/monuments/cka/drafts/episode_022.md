@@ -542,6 +542,34 @@ Investigative Direction: Verify PEACE 2025 aircraft attendance records; independ
 
 ---
 
+## 6. Meme Register
+
+**M-30** (meme) Nothing to See Here
+
+### Occurrence 1
+
+Video Timestamp: 00:11:14
+Speaker: N-3
+Quote: ke right away, they just got out in front of it and were like there's nothing to see here. And we discovered and I broke the story that there was a...
+Context: Later reuse of Nothing to See Here in CKA seq 22.
+Tags: dismissal, official_line, sarcasm, reuse
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:14:07
+Speaker: N-3
+Quote: ething. Anyways, I was going through the DCIA tips box, you know, our decentralized intelligence agency tips box. And I found a very interesting em...
+Context: DIA tip-network refrain. (CKA seq 22)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown:** C-1534 and C-1535 reference an email received via the "DCIA tips box" from an unnamed foreign individual. The email itself was not displayed on screen, and the host's report of its contents is the sole basis for these claims.

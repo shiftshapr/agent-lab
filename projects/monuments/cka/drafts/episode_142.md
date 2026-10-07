@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-46
   - (see registers)
 
+## 6. Meme Register
+
+**M-43** (meme) Community Notes for the Win
+
+### Occurrence 1
+
+Video Timestamp: 00:47:11
+Speaker: N-3
+Quote: the Crucible account is now um, getting fact checks. What do you call community notes on X? Because they're like, right here it says that they spok...
+Context: Later reuse of Community Notes for the Win in CKA seq 142.
+Tags: x, factcheck, comedy, reuse
+Confidence: high
+
+---
+
 ---
 
 

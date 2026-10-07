@@ -541,3 +541,44 @@ Investigative Direction: Obtain additional communication between Andrew Kolbet a
 
 ---
 
+## 6. Meme Register
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:13:20
+Speaker: N-3
+Quote: That's why I kept saying last year that everything is fake and gay.
+Context: Host recalls Fake and Gay as prior-year thesis; AmFest comments echo it.
+Tags: catchphrase, show_theme
+Confidence: high
+
+---
+
+**M-20** (meme) Bubble Gum Christianity
+
+### Occurrence 1
+
+Video Timestamp: 01:06:25
+Speaker: N-3
+Quote: Bubble gum Christianity. I'm leaving it behind in 2025, guys. I don't want to see it anymore.
+Context: Host rejects shallow proof-texting used to police grief and dissent.
+Tags: religious_critique, catchphrase
+Confidence: high
+
+---
+
+**M-55** (meme) Saying the Quiet Part Out Loud
+
+### Occurrence 1
+
+Video Timestamp: 00:04:47
+Speaker: N-3
+Quote: He's the person that is saying the quiet part out loud.
+Context: Host points at Tim Dillon clip as quiet-part admission.
+Tags: admission, roast, clip
+Confidence: high
+
+---
+

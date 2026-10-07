@@ -25,3 +25,19 @@ Episode presents a multi-pronged investigation: an NSA FOIA response redirecting
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-41** (meme) Sock Puppet
+
+### Occurrence 1
+
+Video Timestamp: 00:13:30
+Speaker: N-3
+Quote: l bots on X. We know the comment section. They're basically just like sock puppets at this point, uh trying to convince you they're real people wit...
+Context: Later reuse of Sock Puppet in CKA seq 109.
+Tags: bots, astroturf, israel, reuse
+Confidence: high
+
+---
+

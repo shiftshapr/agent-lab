@@ -1051,3 +1051,95 @@ Tags: anticipatory_defense
 Confidence: medium
 
 ---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 01:14:10
+Speaker: N-3
+Quote: It feels a little fake and gay. Got to tell you guys, it feels a little fake and gay.
+Context: Host debut of signature dismissal of inauthentic public narratives.
+Tags: catchphrase, sarcasm
+Confidence: high
+
+---
+
+**M-29** (meme) You Can't Make This Up
+
+### Occurrence 1
+
+Video Timestamp: 00:03:53
+Speaker: N-3
+Quote: He has kitty porn. This is the headline. I can't make this up.
+Context: Host reacts to absurd arrest headline tied to the case.
+Tags: incredulity, headline, sarcasm
+Confidence: high
+
+---
+
+**M-30** (meme) Nothing to See Here
+
+### Occurrence 1
+
+Video Timestamp: 00:35:25
+Speaker: N-3
+Quote: watching Charlie Kirk catch a bullet in his neck and then being gas lit and told nothing to see here.
+Context: Host rejects soft-pedal framing of the assassination footage.
+Tags: dismissal, official_line, sarcasm
+Confidence: high
+
+---
+
+**M-31** (meme) Buckle Up
+
+### Occurrence 1
+
+Video Timestamp: 00:41:32
+Speaker: N-3
+Quote: So, let's buckle up for some more indisputable facts.
+Context: Host tees up another fact dump mid-episode.
+Tags: show_energy, receipts
+Confidence: high
+
+---
+
+**M-32** (meme) Hit Piece
+
+### Occurrence 1
+
+Video Timestamp: 01:02:47
+Speaker: N-3
+Quote: we'll just start writing hit pieces about you and we'll destroy you.
+Context: Host describes intimidation playbook of coordinated smear journalism.
+Tags: smear, media, intimidation
+Confidence: high
+
+---
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 01:04:24
+Speaker: N-3
+Quote: I don't know. I'm just asking questions. Are we allowed to do that?
+Context: Host brackets Hamptons-meeting questions as mere inquiry.
+Tags: epistemic, host_refrain, chat_elevate
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:11:27
+Speaker: N-3
+Quote: one who went on to my website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us al...
+Context: CIA merch / Candace Intelligence Agency bit. (CKA seq 3)
+Tags: reuse, pass2
+Confidence: high
+
+---
+

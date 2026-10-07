@@ -607,3 +607,44 @@ Investigative Direction: Obtain the archived original tweet via Wayback Machine 
 
 ---
 
+## 6. Meme Register
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:12:50
+Speaker: N-3
+Quote: Here it is. Go Max. It's quick. It's just happens to be on tape and it backs up what Tucker said.
+Context: Host elevates Charlie Kirk telling Tucker to Go Max into on-air battle cry.
+Tags: catchphrase, charlie_quote
+Confidence: high
+
+---
+
+**M-50** (meme) Honeypot
+
+### Occurrence 1
+
+Video Timestamp: 00:37:38
+Speaker: N-3
+Quote: Because she was called a honeypot, an Israeli honeypot.
+Context: Host recounts $5M suit over Israeli-honeypot allegation.
+Tags: intel, entrapment, residual
+Confidence: high
+
+---
+
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:49:13
+Speaker: N-3
+Quote: It puts me in a good mood every day." And Charlie always said, "Be a happy warrior." So, I am a happy warrior. Uh, the original Polywog writes, "Wa...
+Context: Recurring happy-warrior refrain. (CKA seq 30)
+Tags: reuse, pass2
+Confidence: high
+
+---
+

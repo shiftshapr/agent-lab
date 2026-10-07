@@ -23,6 +23,21 @@ Most evidentiary weight in this episode is carried by the Be Inspired clip and t
 
 The structural importance of this episode lies in: (1) introducing the Project Looking Glass / 2012-bottleneck framework that the host explicitly links to Charlie's death; (2) presenting the CERN ritual claim as further corroboration of a satanic-scientific conspiracy thesis; and (3) flagging the Daily Wire video as part of an alleged ongoing "stalking" pattern.
 
+## 6. Meme Register
+
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 00:02:53
+Speaker: N-3
+Quote: touched upon this uh at the end of last episode. Uh, obviously I'm a conspiracy girly and I'm thrilled that we get to dive a little bit deeper on t...
+Context: Conspiracy girly self-label. (CKA seq 57)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

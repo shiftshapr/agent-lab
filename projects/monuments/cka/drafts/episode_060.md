@@ -25,6 +25,21 @@ Most other substantive investigative claims — including the allegation that Bi
 
 Episode 60 functions structurally as a connective tissue episode. It advances three persistent investigative threads: (1) the timing/sequence discrepancies around Erika Kirk and Andrew Kolvet in the 24–48 hours after September 10, (2) the host's broader theory that the U.S. security/military apparatus is institutionally corrupt at the command level, and (3) ongoing pressure on the official narrative of Charlie Kirk's assassination. The plane-records display is the single most concrete new evidentiary item in this episode.
 
+## 6. Meme Register
+
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 01:23:36
+Speaker: N-3
+Quote: g ghetto. Yeah. Um and we have that gear for you guys. Of course, our conspiracy girly gear, which is my favorite. Buy a mug. Um and I'm sure you w...
+Context: Conspiracy girly self-label. (CKA seq 60)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

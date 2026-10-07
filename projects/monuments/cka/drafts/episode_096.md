@@ -32,6 +32,21 @@
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-3, N-8, N-9, N-10, N-11, N-12, N-13, N-14, N-15, N-16, N-23, N-24, N-27, N-28, N-32, N-33, N-182
 
+## 6. Meme Register
+
+**M-42** (meme) Scripted
+
+### Occurrence 1
+
+Video Timestamp: 00:01:14
+Speaker: N-3
+Quote: And we didn't get that. Instead, we got something horribly scripted. And of course, she lied in my name and on my birthday. Shame on you, Erika. Sh...
+Context: Later reuse of Scripted in CKA seq 96.
+Tags: staged, event, host_charge, reuse
+Confidence: high
+
+---
+
 ---
 
 # Executive Summary

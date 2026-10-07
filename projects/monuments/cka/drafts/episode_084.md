@@ -25,3 +25,19 @@ Episode 84 advances the 'tarmac hug' theory: a Provo police scanner audio allege
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-48** (meme) Big Mad
+
+### Occurrence 1
+
+Video Timestamp: 00:32:05
+Speaker: N-3
+Quote: s inorganic because we're all feeling the same about Erika Kirk. He's big mad cuz he's getting exposed, and the walls are closing in. I That's That...
+Context: Later reuse of Big Mad in CKA seq 84.
+Tags: chat_elevate, roast, comedy, reuse
+Confidence: high
+
+---
+

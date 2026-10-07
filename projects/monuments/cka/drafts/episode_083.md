@@ -33,6 +33,21 @@
   - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-37
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erica Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
+## 6. Meme Register
+
+**M-59** (meme) Sus
+
+### Occurrence 1
+
+Video Timestamp: 00:27:40
+Speaker: N-3
+Quote: The whole thing is like super sus. It just is objectively super sus.
+Context: Host flags a timeline gap as objectively super sus.
+Tags: slang, suspicion, comedy
+Confidence: high
+
+---
+
 ---
 
 # Executive Summary
@@ -609,3 +624,17 @@ Investigative Direction: Obtain manifests for all private flights into Provo on 
 - **Claim failed admission test**: Several host rhetorical statements (e.g., "she's a very shady person," "your boyfriend's butt ugly," "they are lying") are not inscribed as claims per the Rhetoric Removal Test.
 - **Timestamp uncertainty**: Exact times of Mikey McCoy's calls and airport arrivals are inferred from McCoy's narrative rather than verified by records.
 - **Possible transcription error**: Some phonetic rendering of proper names may not match official spellings.
+
+**M-50** (meme) Honeypot
+
+### Occurrence 1
+
+Video Timestamp: 00:29:05
+Speaker: N-3
+Quote: e not familiar with her. And people have been suspecting that she's a honey pot. And that he's an unserious human being. Uh especially like I said,...
+Context: Later reuse of Honeypot in CKA seq 83.
+Tags: intel, entrapment, residual, reuse
+Confidence: high
+
+---
+

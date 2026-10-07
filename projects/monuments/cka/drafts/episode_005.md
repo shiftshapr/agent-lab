@@ -886,3 +886,82 @@ Tags: memory_management
 Confidence: medium
 
 ---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:59:03
+Speaker: N-3
+Quote: Uh, just to be clear, the CIA stands for the Candace Intelligence Agency, which you see on the back of that obviously because we consider ourselves to be the decentralized intelligent agency because we get tips from you guys.
+Context: Explicit merch gloss linking CIA branding to Candace Intelligence Agency and DCIA tips.
+Tags: merch, brand_joke
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:59:03
+Speaker: N-3
+Quote: we consider ourselves to be the decentralized intelligent agency because we get tips from you guys.
+Context: Same beat restates DCIA as tip-fed alternative to centralized intel.
+Tags: merch, tips_network
+Confidence: high
+
+---
+
+**M-34** (meme) Deep State
+
+### Occurrence 1
+
+Video Timestamp: 00:38:47
+Speaker: N-3
+Quote: Outfit of the MSAD uh outfit of the deep deep state ran with it.
+Context: Host ties New York Post framing to deep-state / intel outfits.
+Tags: intel, media, host_refrain
+Confidence: high
+
+---
+
+**M-35** (meme) Rabbit Hole
+
+### Occurrence 1
+
+Video Timestamp: 00:39:34
+Speaker: N-3
+Quote: a very quiet breakup where she got too rabbit hole for him.
+Context: Media breakup narrative paints Candace as too conspiratorial.
+Tags: media_insult, badge, research
+Confidence: high
+
+---
+
+**M-36** (meme) Play Stupid Games Win Stupid Prizes
+
+### Occurrence 1
+
+Video Timestamp: 00:52:24
+Speaker: N-3
+Quote: Charlie said once, "Play stupid games, win stupid prizes."
+Context: Host elevates Charlie proverb after adversaries stumble.
+Tags: charlie, proverb, merch_adjacent
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:52:28
+Speaker: N-3
+Quote: Charlie said once, "Play stupid games, win stupid prizes." We don't know. No know, but we know. So, do not stop asking questions. Yeah, there is a ...
+Context: We don't know but we know refrain. (CKA seq 5)
+Tags: reuse, pass2
+Confidence: high
+
+---
+

@@ -25,3 +25,19 @@
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-47** (meme) Megachurches Look Funny
+
+### Occurrence 1
+
+Video Timestamp: 00:48:42
+Speaker: N-3
+Quote: nd unfortunately, many of them occupy the space of churches, and they mega churches, and they are telling you that they're doing this for God, and ...
+Context: Later reuse of Megachurches Look Funny in CKA seq 103.
+Tags: church, sarcasm, money, reuse
+Confidence: high
+
+---
+

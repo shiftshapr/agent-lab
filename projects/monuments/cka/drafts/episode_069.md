@@ -701,3 +701,19 @@ Investigative Direction: Document the convergence of host and viewer framing; as
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.
 - **Omega Man Radio clip attribution:** Host identifies the speakers as Tom Horn and Steve Quail; the original episode date and full context are not provided. Artifact should be cross-referenced to the source episode before further claim inscription.
 - **Mount Hermon coordinate claim:** Posited by Robkea citing David Flynn; no independent verification cited. Confidence Level for the coordinates themselves: Low.
+
+## 6. Meme Register
+
+**M-22** (meme) Why Are You Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: Emanuel Mcronone is gay. Why are you gay? Emanuel Mcronone.
+Context: Host merch / refrain punchline about Emmanuel Macron.
+Tags: merch, macron_joke
+Confidence: high
+
+---
+

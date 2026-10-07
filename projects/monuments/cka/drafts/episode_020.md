@@ -17,6 +17,34 @@
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-37, N-182
 
+## 6. Meme Register
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: e when I would see Laya kind&nbsp;&nbsp; of jump on the attacking the Christ is king or&nbsp; trying to rationalize why we shouldn't say Christ&nbs...
+Context: Later reuse of Christ is King in CKA seq 20.
+Tags: faith, closing, chat_elevate, reuse
+Confidence: high
+
+---
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: ing up on current events. Let me summarize.&nbsp; Everything is still fake and gay. Please give your&nbsp;&nbsp; husband and kids a huge hug from a...
+Context: Fake and gay dismissal refrain. (CKA seq 20)
+Tags: reuse, pass2
+Confidence: high
+
 ---
 
 ## 3. Artifact Register

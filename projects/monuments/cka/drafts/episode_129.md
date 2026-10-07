@@ -23,6 +23,21 @@ The episode's evidentiary centerpiece is a Daily Mail exclusive article attribut
 
 The Sandy Hook comparison is documented across multiple artifacts (X posts, a Twitter Space, a Charlie Kirk Show segment, and pre-death statements by Charlie Kirk opposing the Alex Jones verdict). The host frames this convergence as "lawfare priming," which is interpretive commentary rather than a factually inscribed claim.
 
+## 6. Meme Register
+
+**M-60** (meme) Crisis Actor
+
+### Occurrence 1
+
+Video Timestamp: 00:43:43
+Speaker: N-3
+Quote: ed the Sandy Hook shooting was staged, that the grieving parents were crisis actors, and that they were knowingly participating in fraud. His false...
+Context: Later reuse of Crisis Actor in CKA seq 129.
+Tags: staged, media, tip_language, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register

@@ -21,6 +21,47 @@ Episode 31 advances two principal evidentiary threads: (1) a documentary case li
 
 The second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.
 
+## 6. Meme Register
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:54:48
+Speaker: N-3
+Quote: e a t-shirt, but then they're going to say like, "Oh, she's trying to grift off of his death even though everyone else sold t-shirts." And so I fee...
+Context: Later reuse of Grifter in CKA seq 31.
+Tags: monetize, loyalty_performance, residual, reuse
+Confidence: high
+
+---
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:58:13
+Speaker: N-3
+Quote: laimed number one fan. Thanks for converting him. Keep outshining the fake and gay. Uh happy birthday, Tim. Hope you have a fantastic day and I'm s...
+Context: Fake and gay dismissal refrain. (CKA seq 31)
+Tags: reuse, pass2
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:29:12
+Speaker: N-3
+Quote: tein and he was pushing back on that. He then tells Tucker Carlson to go max against Jeffrey Epstein. For whatever reason, this guy similar to thes...
+Context: Go Max battle cry. (CKA seq 31)
+Tags: reuse, pass2
+Confidence: high
+
 ---
 
 ## 3. Artifact Register

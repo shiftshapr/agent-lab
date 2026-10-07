@@ -699,6 +699,21 @@ Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in 
 
 ---
 
+## 6. Meme Register
+
+**M-24** (meme) Yanking and Banking
+
+### Occurrence 1
+
+Video Timestamp: 00:06:18
+Speaker: N-3
+Quote: What were they doing when we're pulling into the hospital parking lot and we're yanking and banking our way there? Yeah, you guys were yanking and banking.
+Context: Host pages Frank Turek on gloves while looping the yanking and banking clip.
+Tags: frank_turek, running_gag
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown**: A-2230.1 (CNN article — host paraphrases the headline and email content rather than displaying the article); A-2235.1 (Allan Robertson's LinkedIn — host paraphrases content rather than displaying the profile).

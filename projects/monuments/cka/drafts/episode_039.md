@@ -724,6 +724,21 @@ Investigative Direction: Preserve the written tip; verify Andrew Kolvet's contem
 
 ---
 
+## 6. Meme Register
+
+**M-53** (meme) False Flag
+
+### Occurrence 1
+
+Video Timestamp: 00:43:56
+Speaker: N-3
+Quote: the West and the United States were implicated in part by a false flag attack to justify a larger military justification.
+Context: Host floats false-flag framing around a war-on-Christians thesis.
+Tags: staged, war, theory
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty**: "Andrew Kolvet" / "Andrew Kovette" — host uses both spellings in the same episode; spelling not confirmed against primary source.

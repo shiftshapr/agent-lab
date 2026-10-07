@@ -369,6 +369,21 @@ Investigative Direction: Locate Macron's released public calendar; confirm the t
 
 ---
 
+## 6. Meme Register
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:27:33
+Speaker: N-3
+Quote: You guys continued to do that. You guys wanted to just move on and to grift off of Charlie's legacy. I dedicated myself to figuring out who murdere...
+Context: Later reuse of Grifter in CKA seq 40.
+Tags: monetize, loyalty_performance, residual, reuse
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1493.1)**: Macron public calendar was referenced verbally by host but not directly displayed on air.

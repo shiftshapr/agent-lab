@@ -1078,3 +1078,69 @@ Context: Host links Epstein blackmail pattern to ongoing pressure on conservativ
 Tags: blackmail, deep_state
 
 ---
+
+**M-11** (meme) MSAD
+
+### Occurrence 1
+
+Video Timestamp: 00:30:07
+Speaker: N-3
+Quote: Epstein was a creation of either MSAD, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.
+Context: Host comic spelling of Mossad while listing intel-agency theories about Epstein.
+Tags: intel_joke, spelling_gag
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:08:52
+Speaker: N-3
+Quote: if you want to join our movement of the decentralized uh intelligence agency.
+Context: First CKA pitch inviting viewers into the crowd-sourced tip / merch movement.
+Tags: merch, brand_joke, tips_network
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:25:05
+Speaker: N-3
+Quote: You're not going to gaslight us and tell us to shut up or call us anti-Semitic for pointing out the fact
+Context: Host rejects narrative pressure after Charlie Kirk death coverage.
+Tags: media, denial, host_refrain
+Confidence: high
+
+---
+
+**M-27** (meme) Shill
+
+### Occurrence 1
+
+Video Timestamp: 00:31:30
+Speaker: N-3
+Quote: You put a shill in Charlie Kirk's chair, in Charlie Kirk's uh company
+Context: Host warns against a planted successor at Turning Point USA.
+Tags: tpusa, planted, host_refrain
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 01:08:31
+Speaker: N-3
+Quote: Christ is king. Praying for you and your family. Thank you very much. Christ is king.
+Context: Viewer tribute read on air elevates the closing confession refrain.
+Tags: faith, closing, chat_elevate
+Confidence: high
+
+---
+

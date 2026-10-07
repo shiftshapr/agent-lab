@@ -1044,6 +1044,21 @@ Investigative Direction: Verify the post's text and timestamps; check Andrew Kol
 
 ---
 
+## 6. Meme Register
+
+**M-24** (meme) Yanking and Banking
+
+### Occurrence 1
+
+Video Timestamp: 00:32:13
+Speaker: N-16
+Quote: when we're pulling into the hospital parking lot, and we're yanking and banking our way there.
+Context: Frank Turek clip first supplies the phrase the host later runs as a gag.
+Tags: frank_turek, hospital_ride
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** Spelling of "Faumuina" preserved as used by host; host acknowledges phonetic delivery (A-2160.1). "Sapena" likewise phonetic (A-2160.1).

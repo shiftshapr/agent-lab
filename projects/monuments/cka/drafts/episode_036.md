@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: 
   - (see registers)
 
+## 6. Meme Register
+
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:23:51
+Speaker: N-3
+Quote: hat nobody was pursuing uh was running and that was us discussing the MK Ultra program and Breijit Mcronone strangely and Emanuel mentioning MK Ult...
+Context: Later reuse of MK Ultra in CKA seq 36.
+Tags: psyop, history, analogy, reuse
+Confidence: high
+
+---
+
 ---
 
 # Episode Analysis: Monument 36 / Candace Ep 269

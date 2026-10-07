@@ -25,3 +25,19 @@
 ## 4. Node Register
 
 ## 5. Claim Register
+
+## 6. Meme Register
+
+**M-58** (meme) Useful Idiot
+
+### Occurrence 1
+
+Video Timestamp: 00:51:48
+Speaker: N-3
+Quote: e absolutely no respect for that you think are just deranged but dumb useful idiots that will take your money. And those who might not even know th...
+Context: Later reuse of Useful Idiot in CKA seq 100.
+Tags: fed, residual_adjacent, chat_elevate, reuse
+Confidence: high
+
+---
+

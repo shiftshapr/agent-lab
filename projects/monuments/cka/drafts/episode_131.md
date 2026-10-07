@@ -23,6 +23,21 @@ The November 15, 2023 text thread constitutes the principal evidentiary body of 
 
 The episode advances the Ben Shapiro 9/10 lunch-meeting investigation. The host names Gary Jabitch (described in host narrative as a B'nai B'rith / AIPAC / Chabad Lubavitch Nebraska figure) as the alleged companion; this naming lacks a shown artifact in this episode and is treated as an unresolved target. Rob O'Neill's Newsmax appearance artifact-anchors technical skepticism of the official narrative (screwdriver, bullet trajectory, text-message phrasing). A YouTube comment artifact-anchors a pattern comparison between the Erica Kirk situation and the Allison Holker / Stephen "Twitch" Boss case, with the Holker interview and the Boss-family/Gayle King CBS interview providing the underlying audio artifacts.
 
+## 6. Meme Register
+
+**M-27** (meme) Shill
+
+### Occurrence 1
+
+Video Timestamp: 00:12:34
+Speaker: N-3
+Quote: nal. I'm repulsed by it. For years I was I was called a Jewish Jewish shill. And now they say I am a Hamas agent. Screw them. The game has changed....
+Context: Later reuse of Shill in CKA seq 131.
+Tags: tpusa, planted, host_refrain, reuse
+Confidence: high
+
+---
+
 ---
 
 ## 3. Artifact Register
