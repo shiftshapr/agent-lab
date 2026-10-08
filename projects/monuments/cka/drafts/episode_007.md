@@ -178,13 +178,13 @@ Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 
 ---
 
-**A-2484** CIA / DIA Merch Plug Bundle
+**A-2484** Laura Loomer CIA Merch Accusation Tweet Bundle
 
-**A-2484.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+**A-2484.1** Laura Loomer tweet (read on air by the host) accusing the Candace Intelligence Agency CIA merch line of ripping off the CIA name and logo and of illegal CIA seal use ("a federal felony"), tagging the CIA director (verbally referenced).
 Video Timestamp: 00:27:08
 Transcript Snippet: ...ling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without l...
-Confidence: medium
-*Related: C-3639, N-3*
+Confidence: high
+*Related: C-3639, N-3, N-91*
 
 ---
 
@@ -701,16 +701,16 @@ Investigative Direction: Obtain the full Frank Turk memorial speech and biograph
 
 ---
 
-**C-3639** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3639** Host reads Laura Loomer tweet alleging the Candace Intelligence Agency CIA merch line infringes the CIA seal
 
 Claim Timestamp: 00:27:08
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host reads on air a Laura Loomer tweet asserting that the CIA-branded "Candace Intelligence Agency" merch line rips off the CIA name and logo, that using the CIA seal without license is a federal felony, and that the CIA can sue; the host calls Loomer "our resident psycho," frames the tweet as part of non-stop attacks, and replies that the merch predates Charlie Kirk's assassination and is a legal parody of the CIA.
 Transcript Snippet: ...ling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without l...
 Anchored Artifacts: A-2484.1
-Mentions: N-3
+Mentions: N-3, N-91
 Related Nodes: 
-Confidence: medium
-Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+Confidence: high
+Investigative Direction: Archive the original Loomer tweet (text, date, CIA director tag) and any CIA response; keep the stance as Loomer accusation read on air, not a host merch plug.
 
 ---
 
@@ -720,7 +720,7 @@ Claim Timestamp: 00:18:20
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...bility to the the feds, I would allow the mommy sleuths to take over. That's my opinion. I had to get in touch and allow the internet to do what the intern...
 Anchored Artifacts: 
-Mentions: N-3, N-413
+Mentions: N-3
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.

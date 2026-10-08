@@ -474,7 +474,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:40:07
 Speaker: N-3
 Quote: the DCIA, the decentralized intelligence agency, is moving quicker.
 Context: Host credits DCIA crowd research on Lori Cardoza Moore background.
@@ -482,17 +482,6 @@ Tags: tips_network, brand_joke
 Confidence: high
 
 ---
-### Occurrence 2
-
-Video Timestamp: 00:40:07
-Speaker: N-3
-Quote: ...ernet sloohs aren't playing around. the DCIA, the decentralized intelligence agency, is moving quicker. And they found that, yeah, that's what Lor's background is in acting and for ro...
-Context: DIA / DCIA brand line from corrected transcript (CKA seq 63).
-Tags: tips_network, brand_joke, transcript_backfill
-Confidence: high
-
----
-
 
 **M-13** (meme) Fake and Gay
 

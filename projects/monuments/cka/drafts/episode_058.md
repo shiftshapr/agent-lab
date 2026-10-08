@@ -687,7 +687,7 @@ Investigative Direction: Verify Aspen Education Group corporate lineage; obtain 
 
 **C-3657** Host elevates mommy sleuth crowd investigators
 
-Claim Timestamp: 00:00:00
+Claim Timestamp: 00:16:13
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...nors to Turning Point USA or and shout out to the mommy sleuth who did the work. The way they figured that out, I'm telling you these mommy sleuth hit different....
 Anchored Artifacts: 

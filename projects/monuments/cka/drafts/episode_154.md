@@ -316,6 +316,16 @@ Confidence Level: High
 
 ---
 
+**A-2494** CIA / DIA Merch Plug Bundle
+
+**A-2494.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 01:04:04
+Transcript Snippet: ...Okay, I'm accept that. Andrew, um, you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the co...
+Confidence: medium
+*Related: C-3674, N-3*
+
+---
+
 # IV. NODE REGISTER
 
 ---
@@ -747,49 +757,6 @@ Investigative Direction: Obtain Utah news reporting on precinct footage handling
 
 ---
 
-# XI. OPTIONAL FLAGS
-
-- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings — "Kovette," "Kovat," "Kovatte," "Kolvet" (chapter heading). Primary spelling "Kolvet" used in this record. Actual ledger ID to be verified.
-- **Name uncertainty (Erica/Erika):** Mixed spelling throughout transcript — title uses "Erika," body uses both. "Erica" used to align with established ledger convention; flagged for verification.
-- **Name uncertainty (Neff/Nef):** Mixed spelling in transcript. "Neff" used as primary.
-- **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image ("slay the patriarchy") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.
-- **Requires human verification:** C-3510 (Aug 28, 2025 Empress Films call) — anchor is host testimonial only.
-- **Possible transcription error:** Caption source is "yt-dlp-auto-android"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-3507) should be cross-checked against raw audio before downstream use.
-- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition.
-- **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.
-
-## 6. Meme Register
-
-**M-12** (meme) Decentralized Intelligence Agency
-
-### Occurrence 1
-
-Video Timestamp: 01:04:04
-Speaker: N-3
-Quote: ...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug...
-Context: DIA / DCIA brand line from corrected transcript (CKA seq 154).
-Tags: tips_network, brand_joke, transcript_backfill
-Confidence: high
-
----
-
-
-
-## III. Artifact Register
-
-**A-2494** CIA / DIA Merch Plug Bundle
-
-**A-2494.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
-Video Timestamp: 01:04:04
-Transcript Snippet: ...Okay, I'm accept that. Andrew, um, you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the co...
-Confidence: medium
-*Related: C-3674, N-3*
-
----
-
-
-## V. Claim Register
-
 **C-3673** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 01:04:04
@@ -816,3 +783,28 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+# XI. OPTIONAL FLAGS
+
+- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings — "Kovette," "Kovat," "Kovatte," "Kolvet" (chapter heading). Primary spelling "Kolvet" used in this record. Actual ledger ID to be verified.
+- **Name uncertainty (Erica/Erika):** Mixed spelling throughout transcript — title uses "Erika," body uses both. "Erica" used to align with established ledger convention; flagged for verification.
+- **Name uncertainty (Neff/Nef):** Mixed spelling in transcript. "Neff" used as primary.
+- **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image ("slay the patriarchy") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.
+- **Requires human verification:** C-3510 (Aug 28, 2025 Empress Films call) — anchor is host testimonial only.
+- **Possible transcription error:** Caption source is "yt-dlp-auto-android"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-3507) should be cross-checked against raw audio before downstream use.
+- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition.
+- **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:04:04
+Speaker: N-3
+Quote: ...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 154).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---

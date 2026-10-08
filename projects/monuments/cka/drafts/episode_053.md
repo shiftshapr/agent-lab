@@ -590,7 +590,7 @@ Claim Timestamp: 00:58:32
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...this. Here's a text message chain. Um, here I'm a mommy sleuth and I have access to this. Oh, I work for this department and I can see this. All of us decentraliz...
 Anchored Artifacts: 
-Mentions: N-3, N-413
+Mentions: N-3
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.

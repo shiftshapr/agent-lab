@@ -276,13 +276,13 @@ Confidence Level: Medium (source unnamed)
 
 ---
 
-**A-2489** CIA / DIA Merch Plug Bundle
+**A-2489** James Lee CIA T-Shirt Remark Bundle
 
-**A-2489.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+**A-2489.1** On-air host remark, after the James Lee Epstein email clip, that he is "wearing a CIA t-shirt" (verbal reference to the CIA shirt worn by the featured independent journalist; not a host merch plug).
 Video Timestamp: 00:17:50
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Confidence: medium
-*Related: C-3661, N-3*
+*Related: C-3661, N-3, N-260*
 
 ---
 
@@ -1149,16 +1149,16 @@ Investigative Direction: Verify against Charleston historical society records; v
 
 ---
 
-**C-3661** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3661** Host notes featured independent journalist James Lee wearing a CIA t-shirt
 
 Claim Timestamp: 00:17:50
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says "I love that he's wearing a CIA t-shirt. James, great work," noting the featured journalist wearing a CIA shirt rather than plugging merch herself.
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Anchored Artifacts: A-2489.1
-Mentions: N-3
+Mentions: N-3, N-260
 Related Nodes: 
 Confidence: medium
-Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+Investigative Direction: Confirm in the James Lee clip that the shirt is the show's CIA design; keep as guest-wearing reference, not a host plug.
 
 ---
 

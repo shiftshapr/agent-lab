@@ -586,17 +586,6 @@ Confidence: high
 
 ---
 
-### Occurrence 2
-
-Video Timestamp: 00:54:47
-Speaker: N-3
-Quote: ...ta Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsu...
-Context: Additional DIA brand line (CKA seq 155).
-Tags: tips_network, brand_joke, transcript_backfill
-Confidence: high
-
----
-
 ## VI. Optional Flags
 
 - **Name uncertainty:** Transcript renders the podcaster's name inconsistently — "Blake Neff" in the show title and at 36:51; "Blake Nef" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Saucelito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.

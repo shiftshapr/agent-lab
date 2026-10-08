@@ -3,7 +3,7 @@
   "edge_counts": {
     "contradicts": 18,
     "isCorroboratedBy": 8,
-    "isMemberOf": 6288,
+    "isMemberOf": 6289,
     "isSupportedBy": 2758
   },
   "bridges": [
@@ -43370,6 +43370,14 @@
     {
       "@type": "OrdinalBridge",
       "from": "C-3649",
+      "to": "cka:episode:33",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 33
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3701",
       "to": "cka:episode:33",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",

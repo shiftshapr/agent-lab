@@ -611,16 +611,30 @@ Investigative Direction: Verify Tim Pool's statement against the original broadc
 ---
 
 
-**C-3653** Host references DCIA tips network
+**C-3653** Host urges viewers to become DCIA units in their own communities
 
 Claim Timestamp: 00:53:18
-Claim: The host references the DCIA (Decentralized Intelligence Agency) tips box / network as a source of viewer-submitted investigative leads.
+Claim: The host urges viewers to "become our own little CIA units or DCIA units in our own communities and share information," framing the audience as local Decentralized Intelligence Agency cells because the government cannot be trusted to protect them.
 Transcript Snippet: ...ow, we need to become our own little CIA units or DCIA units in our own communities and share information. And yeah, I I hope that's what we are pioneerin...
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: 
 Confidence: high
-Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+Investigative Direction: Preserve as brand / network framing claim; cross-linked to M-12 meme occurrence (DCIA alias).
 
 ---
 
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:53:18
+Speaker: N-3
+Quote: ...You know, we need to become our own little CIA units or DCIA units in our own communities and share information. And yeah, I I hope that's what we are pioneering here...
+Context: DCIA alias; host urges viewers to become DCIA units in their own communities (CKA seq 44).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---

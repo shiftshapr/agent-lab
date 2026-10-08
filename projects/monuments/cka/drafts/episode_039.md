@@ -730,7 +730,7 @@ Claim Timestamp: 00:29:22
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...I wanted to know more. And I start messaging our mommy sleuths and our daddy's sleuths and all of my sources at Turning Point USA. And I'm saying anything that yo...
 Anchored Artifacts: 
-Mentions: N-3, N-413
+Mentions: N-3
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.

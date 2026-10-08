@@ -747,7 +747,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 **C-3649** Host elevates mommy sleuth crowd investigators
 
-Claim Timestamp: 00:09:23
+Claim Timestamp: 00:14:51
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...tail number S U B N D, the blue plane. A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed. I consi...
 Anchored Artifacts: 
@@ -755,6 +755,19 @@ Mentions: N-3, N-413
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+
+**C-3701** Host calls a tipster and her audience her decentralized intelligence agents
+
+Claim Timestamp: 00:14:51
+Claim: Crediting the pregnant mommy sleuth whose urgent email corrected her plane-tracking analysis, the host says "I consider her obviously and all of you to be my decentralized intelligence agents," casting the tipster and the whole audience as agents of the Decentralized Intelligence Agency.
+Transcript Snippet: ...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...
+Anchored Artifacts: 
+Mentions: N-3, N-413
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim (M-12 alias "decentralized intelligence agents"); identity of the tipster stays protected.
 
 ---
 
@@ -769,6 +782,17 @@ Video Timestamp: 00:48:53
 Speaker: N-3
 Quote: ...emails and we are going to solve this thing. The decentralized intelligence agency is going to solve this thing and like I said when I tell you what I know tomorrow it it's just we'r...
 Context: DIA / DCIA brand line from corrected transcript (CKA seq 33).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
+### Occurrence 2
+
+Video Timestamp: 00:14:51
+Speaker: N-3
+Quote: ...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...
+Context: M-12 alias "decentralized intelligence agents" crediting the mommy sleuth tipster and the audience (CKA seq 33).
 Tags: tips_network, brand_joke, transcript_backfill
 Confidence: high
 

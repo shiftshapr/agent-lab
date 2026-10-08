@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-08T03:12:09Z",
+  "generated_at": "2026-10-08T03:22:24Z",
   "cka_root": "/workspace/cka-dia-meme-cites/projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -20,7 +20,7 @@
   "edge_counts": {
     "contradicts": 18,
     "isCorroboratedBy": 8,
-    "isMemberOf": 6288,
+    "isMemberOf": 6289,
     "isSupportedBy": 2758
   },
   "revises_candidate_count": 16,
@@ -18675,7 +18675,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3639",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host reads Laura Loomer tweet alleging the Candace Intelligence Agency CIA merch line infringes the CIA seal",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18689,7 +18689,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3641",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host jokes that Trump may be watching the show in a CIA hat",
       "node_kind": "claim",
       "episode": 8
     },
@@ -18773,7 +18773,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3653",
-      "label": "Host references DCIA tips network",
+      "label": "Host urges viewers to become DCIA units in their own communities",
       "node_kind": "claim",
       "episode": 44
     },
@@ -18815,7 +18815,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3659",
-      "label": "Host elevates mommy sleuth crowd investigators",
+      "label": "Host reads viewer comment praising mommy sleuths",
       "node_kind": "claim",
       "episode": 60
     },
@@ -18829,7 +18829,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3661",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host notes featured independent journalist James Lee wearing a CIA t-shirt",
       "node_kind": "claim",
       "episode": 67
     },
@@ -19105,6 +19105,13 @@
       "label": "Starve paid clippers of impressions by not engaging",
       "node_kind": "claim",
       "episode": 161
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3701",
+      "label": "Host calls a tipster and her audience her decentralized intelligence agents",
+      "node_kind": "claim",
+      "episode": 33
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -43756,28 +43763,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2484",
-      "label": "CIA / DIA Merch Plug Bundle",
+      "label": "Laura Loomer CIA Merch Accusation Tweet Bundle",
       "node_kind": "artifact",
       "episode": 7
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2484.1",
-      "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+      "label": "Laura Loomer tweet (read on air by the host) accusing the Candace Intelligence Agency CIA merch line of ripping off the CIA name and logo and of illegal CIA seal use (\"a federal felony\"), tagging the CIA director (verbally referenced).",
       "node_kind": "artifact",
       "episode": 7
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2485",
-      "label": "CIA / DIA Merch Plug Bundle",
+      "label": "Trump CIA Hat Joke Bundle",
       "node_kind": "artifact",
       "episode": 8
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2485.1",
-      "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+      "label": "On-air host joke picturing Trump signed up to candace.com and \"wearing um a CIA hat and watching\" (verbal reference to the show's CIA hat; no merch shown or sold in this beat).",
       "node_kind": "artifact",
       "episode": 8
     },
@@ -43826,14 +43833,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2489",
-      "label": "CIA / DIA Merch Plug Bundle",
+      "label": "James Lee CIA T-Shirt Remark Bundle",
       "node_kind": "artifact",
       "episode": 67
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2489.1",
-      "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+      "label": "On-air host remark, after the James Lee Epstein email clip, that he is \"wearing a CIA t-shirt\" (verbal reference to the CIA shirt worn by the featured independent journalist; not a host merch plug).",
       "node_kind": "artifact",
       "episode": 67
     },
@@ -87412,6 +87419,14 @@
     {
       "@type": "OrdinalBridge",
       "from": "C-3649",
+      "to": "cka:episode:33",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 33
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3701",
       "to": "cka:episode:33",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",

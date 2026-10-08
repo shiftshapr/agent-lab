@@ -492,14 +492,3 @@ Confidence: high
 
 ---
 
-### Occurrence 2
-
-Video Timestamp: 00:54:04
-Speaker: N-3
-Quote: ...up, buy a hat, buy a t-shirt, buy a sweatshirt to join the decentralized intelligence agency. Um, that one's my favorite. Conspiracy girly. It's so cute. You can buy thi...
-Context: Additional DIA brand line (CKA seq 156).
-Tags: tips_network, brand_joke, transcript_backfill
-Confidence: high
-
----
-
