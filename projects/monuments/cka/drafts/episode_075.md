@@ -24,7 +24,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-3568 / N-2349 (people) / N-2346 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-3568 / N-572 (people) / N-2346 (targets)
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (clip excerpted; full source not identified in episode)
 
-*Related: C-3570, N-2349 (Father Ripperger)*
+*Related: C-3570, N-572 (Father Ripperger)*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3576, (Miriam Adelson — reuse if exists), N-1009 (Donald Trump — reuse if exists)*
+*Related: C-3576, (Miriam Adelson - reuse if exists), N-5 (Donald Trump - reuse if exists)*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erica Kirk), N-1010 (Tim Dillon — reuse if exists)*
+*Related: C-3583, N-2 (Erica Kirk), N-443 (Tim Dillon - reuse if exists)*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:38:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (headline read but source publication not named in transcript)
 
-*Related: C-3577, N-1009 (Donald Trump)*
+*Related: C-3577, N-5 (Donald Trump)*
 
 ---
 
@@ -189,7 +189,7 @@ Event Timestamp: 2026-02-26 (EO) / article date (not stated)
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (passage read but full article not displayed)
 
-*Related: C-3578, N-1009 (Donald Trump)*
+*Related: C-3578, N-5 (Donald Trump)*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low–Medium (source publication not named in transcript)
 
-*Related: C-3579, N-1009*
+*Related: C-3579, N-5*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:41:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3580, N-1009 (Donald Trump), (Marco Rubio — reuse if exists)*
+*Related: C-3580, N-5 (Donald Trump), (Marco Rubio - reuse if exists)*
 
 ---
 
@@ -241,13 +241,13 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-1009 (Donald Trump), N-446 (Karoline Leavitt — reuse if exists)*
+*Related: C-3582, N-5 (Donald Trump), N-446 (Karoline Leavitt - reuse if exists)*
 
 ---
 
 ## IV. Node Register
 
-**N-2349** Father Ripperger
+**N-572** Father Ripperger
 
 Catholic priest whose audio clip on "the revealing of the method" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.
 
@@ -355,7 +355,7 @@ Claim Timestamp: 00:15:10
 Claim: Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to "reveal the method" of their operations even while remaining hidden, and that this has a sadistic dimension in which "they still want to show themselves in some way."
 
 Anchored Artifacts: A-2438.1
-Related Nodes: N-2349
+Mentions: N-572
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -428,8 +428,7 @@ Claim Timestamp: 00:36:50
 Claim: Donald Trump stated on camera, "I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel."
 
 Anchored Artifacts: A-2443.1
-Mentions: N-2
-Related Nodes: N-1009
+Mentions: N-2, N-5
 Investigative Direction: Identify the original event and capture full context of Trump's remarks.
 
 ---
@@ -441,7 +440,7 @@ Claim Timestamp: 00:38:50
 Claim: The episode presents the claim (via headline) that "Venezuela sends first oil shipment to Israel in years in signs of relations improving," implying a linkage to the U.S. military operation against Maduro.
 
 Anchored Artifacts: A-2445.1
-Related Nodes: N-1009
+Mentions: N-5
 Investigative Direction: Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action.
 
 ---
@@ -453,7 +452,7 @@ Claim Timestamp: 00:39:30
 Claim: The Washington Post, as read on camera, reported that Trump's February 26 executive order invoking the Defense Production Act boosted glyphosate production and, in a lesser-noted clause, also covered elemental (white) phosphorus manufactured domestically only by Bayer and used in munitions.
 
 Anchored Artifacts: A-2446.1
-Related Nodes: N-1009
+Mentions: N-5
 Investigative Direction: Pull the actual EO text and the WaPo article; confirm the white-phosphorus clause and Bayer's exclusive-domestic-manufacturer status.
 
 ---
@@ -465,7 +464,7 @@ Claim Timestamp: 00:40:50
 Claim: A headline displayed/read on camera asserts "Israel unlawfully using white phosphorus."
 
 Anchored Artifacts: A-2447.1
-Related Nodes: N-1009
+Mentions: N-5
 Investigative Direction: Identify the article source, date, geographic location of alleged use, and any corroborating documentation from NGOs or UN bodies.
 
 ---
@@ -477,8 +476,7 @@ Claim Timestamp: 00:41:40
 Claim: Marco Rubio stated on camera that "we knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties."
 
 Anchored Artifacts: A-2448.1
-Mentions: N-2
-Related Nodes: N-1009
+Mentions: N-2, N-5
 Investigative Direction: Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements.
 
 ---
@@ -502,8 +500,7 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Mentions: N-2
-Related Nodes: N-1009
+Mentions: N-2, N-5
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -575,7 +572,7 @@ Confidence: high
 **Claim Range:** C-3568–C-3583
 
 **New Nodes Introduced:**
-- N-2349 Father Ripperger
+- N-572 Father Ripperger
 - N-443 Tim Dillon
 - N-2346 Pentagon Seating Geometry Claim (investigation target)
 - N-2347 "Freemason Bible" Document Authentication (investigation target)

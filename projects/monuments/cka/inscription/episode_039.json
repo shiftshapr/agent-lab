@@ -331,13 +331,13 @@
       "name": "Charles Joseph Bonaparte",
       "type": "person",
       "description": "Reported by host as founder of the FBI; tied in host's narrative to the broader French-American institutional framework. Mentioned without artifact anchor.",
-      "related_artifacts": [
-        "A-1484.1"
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3718"
       ],
-      "related_claims": [],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
@@ -1078,8 +1078,7 @@
       "investigative_direction": "No investigative direction; capture as audience signal.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-462"
+        "N-2"
       ]
     },
     {
@@ -1115,7 +1114,6 @@
       "mentions_person_refs": [
         "N-43",
         "N-264",
-        "N-471",
         "N-476"
       ]
     },
@@ -1135,8 +1133,7 @@
       "claim_timestamp": "00:30:22",
       "investigative_direction": "Obtain the underlying communications with the named TPUSA sources.",
       "mentions_person_refs": [
-        "N-264",
-        "N-471"
+        "N-264"
       ]
     },
     {
@@ -1155,8 +1152,7 @@
       "claim_timestamp": "00:32:01",
       "investigative_direction": "Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.",
       "mentions_person_refs": [
-        "N-264",
-        "N-471"
+        "N-264"
       ]
     },
     {
@@ -1176,7 +1172,6 @@
       "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials.",
       "mentions_person_refs": [
         "N-37",
-        "N-70",
         "N-264",
         "N-471"
       ]
@@ -1213,6 +1208,25 @@
       "tags": [],
       "claim_timestamp": "00:33:15",
       "investigative_direction": "Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3718",
+      "ref": "C-3718",
+      "label": "Candace states the FBI was founded by Charles Joseph Bonaparte",
+      "claim": "Candace states that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte, as part of her claim that the FBI was founded by the French.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1079"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:44",
+      "investigative_direction": "Check Bonaparte's role as Attorney General in creating the Bureau of Investigation (1908) against Justice Department records.",
+      "transcript_snippet": "did you know that our FBI was founded by Charles Joseph Bonapart?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-462"
+      ]
     }
   ],
   "memes": []

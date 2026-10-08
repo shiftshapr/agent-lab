@@ -595,7 +595,7 @@ Claim Timestamp: 00:25:55
 Claim: An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
-Mentions: N-1, N-2, N-42, N-43, N-67, N-75, N-86, N-91, N-167, N-168, N-169, N-170, N-171, N-174, N-175
+Mentions: N-1, N-2, N-42, N-43, N-67, N-75, N-86, N-91, N-167, N-168, N-169, N-171, N-174, N-175
 Related Nodes: N-1000, N-1196, N-1198
 Confidence: high
 Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.

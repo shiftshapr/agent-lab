@@ -298,8 +298,7 @@
             "C-2940"
           ],
           "related_nodes": [
-            "N-4",
-            "N-6",
+            "N-69",
             "N-2077"
           ],
           "tags": [],
@@ -369,9 +368,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-4",
-      "ref": "N-4",
-      "name": "JD Vance",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
       "type": "person",
       "description": "Defendant in preliminary hearing subject to host's hearsay concerns.",
       "related_artifacts": [
@@ -387,31 +386,6 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-6",
-        "N-2077"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-6",
-      "ref": "N-6",
-      "name": "Elizabeth Lane *(reused from Episode 1)*",
-      "type": "person",
-      "description": "Roommate / romantic partner of Tyler Robinson; subject of the denied subpoena.",
-      "related_artifacts": [
-        "A-2092.1"
-      ],
-      "related_claims": [
-        "C-2939",
-        "C-2940"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-4",
         "N-2077"
       ]
     },
@@ -599,8 +573,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-4",
-        "N-6"
+        "N-69"
       ]
     },
     {
@@ -736,8 +709,7 @@
       "claim_timestamp": "00:25:38",
       "investigative_direction": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.",
       "mentions_person_refs": [
-        "N-4",
-        "N-6"
+        "N-69"
       ]
     },
     {
@@ -756,8 +728,7 @@
       "claim_timestamp": "00:26:28",
       "investigative_direction": "Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript.",
       "mentions_person_refs": [
-        "N-4",
-        "N-6"
+        "N-69"
       ]
     },
     {

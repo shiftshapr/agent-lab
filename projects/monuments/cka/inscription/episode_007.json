@@ -658,15 +658,12 @@
       "name": "Jack Posobiec",
       "type": "person",
       "description": "Commentator and former Navy intelligence officer; defended by host.",
-      "related_artifacts": [
-        "A-1134.1",
-        "A-1134.2"
-      ],
+      "related_artifacts": [],
       "related_claims": [
-        "C-1228"
+        "C-3717"
       ],
       "tags": [],
-      "evidence_count": 2,
+      "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
@@ -1082,10 +1079,7 @@
         "N-1",
         "N-2",
         "N-66",
-        "N-71",
-        "N-130",
-        "N-133",
-        "N-134"
+        "N-71"
       ]
     },
     {
@@ -1417,6 +1411,23 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-16"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3717",
+      "ref": "C-3717",
+      "label": "Candace vouches for Jack Posobiec despite viewer doubts about his naval intelligence past",
+      "claim": "Answering a viewer question, Candace says she knows Jack Posobiec, that he has always been solid with her, and that he was a naval intelligence officer who has never denied it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:00",
+      "investigative_direction": "Verify Posobiec's naval intelligence service record and any public statement on his current status.",
+      "transcript_snippet": "I can tell you that I know Jack Bobic. He has always been very solid with with me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-130"
       ]
     }
   ],

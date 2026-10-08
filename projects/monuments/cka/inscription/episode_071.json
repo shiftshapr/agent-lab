@@ -692,9 +692,7 @@
       "tags": [],
       "claim_timestamp": "00:05:06",
       "investigative_direction": "Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures.",
-      "mentions_person_refs": [
-        "N-910"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -712,7 +710,7 @@
       "claim_timestamp": "00:08:37–00:09:39",
       "investigative_direction": "Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data.",
       "mentions_person_refs": [
-        "N-910"
+        "N-42"
       ]
     },
     {
@@ -731,7 +729,7 @@
       "claim_timestamp": "00:08:37–00:09:39",
       "investigative_direction": "Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube.",
       "mentions_person_refs": [
-        "N-910"
+        "N-42"
       ]
     },
     {
@@ -750,7 +748,7 @@
       "claim_timestamp": "00:08:37–00:09:39",
       "investigative_direction": "Verify the 20M aggregate figure against partner broadcaster analytics if/when released.",
       "mentions_person_refs": [
-        "N-910"
+        "N-42"
       ]
     },
     {

@@ -72,7 +72,7 @@ Video Timestamp: 00:36:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3110, C-3111, C-3112, C-3113, N-8*
+*Related: C-3110, C-3111, C-3112, C-3113, N-42*
 
 **A-2175** Daily Mail Comment-Request Email Bundle
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3111, N-8, N-1222*
+*Related: C-3111, N-42, N-1222*
 
 **A-2176** Blake Neff Interview Clip Bundle
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3114, N-11, N-2145*
+*Related: C-3114, N-224, N-2145*
 
 **A-2177** Seamstress Email Bundle
 
@@ -297,7 +297,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-9*
+*Related: *
 
 **N-1219** "Robbie Hild" Identity Verification
 
@@ -374,7 +374,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-8, N-1221, N-1222*
+*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-42, N-1221, N-1222*
 
 **N-2145** 9/10 Phone Discrepancy (Mikey two phones)
 
@@ -385,7 +385,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2176.1, C-3114, N-11*
+*Related: A-2176.1, C-3114, N-224*
 
 **N-2146** TPUSA Inner Circle Composition Question
 
@@ -396,7 +396,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2173.1, N-9*
+*Related: A-2173.1*
 
 ---
 
@@ -451,7 +451,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Mail article and used it as "rage bait."
 
 Anchored Artifacts: A-2174.1
-Mentions: N-8
+Mentions: N-42
 Related Nodes: N-2144
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
@@ -463,7 +463,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk organization a request for comment before publication.
 
 Anchored Artifacts: A-2174.1
-Mentions: N-8
+Mentions: N-42
 Related Nodes: N-2144
 
 Investigative Direction: Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.
@@ -475,7 +475,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that the Daily Mail updated the article to retract the claim that the source was a member of the Kirk family.
 
 Anchored Artifacts: A-2174.1
-Mentions: N-8
+Mentions: N-42
 Related Nodes: N-2144
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
@@ -487,7 +487,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Erika has never been heard to swear, privately or publicly.
 
 Anchored Artifacts: A-2174.1
-Mentions: N-2, N-8
+Mentions: N-2, N-42
 
 Investigative Direction: Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage).
 
@@ -498,7 +498,7 @@ Claim Timestamp: 00:45:08
 Claim: In an interview clip played on air, Blake Neff describes his actions on 9/10 using the phrasing "I put that phone away," which the host notes is linguistically unusual unless a second phone is implied.
 
 Anchored Artifacts: A-2176.1
-Mentions: N-11
+Mentions: N-224
 Related Nodes: N-2145
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-4, N-1015, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
-  - Reused Nodes Appearing: N-2, N-5, N-1207, N-1208, N-1209, N-1210, N-6
+  - New Nodes Introduced: N-4, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
+  - Reused Nodes Appearing: N-2, N-42, N-1207, N-1208, N-1209, N-1210, N-536, N-531
   - (see registers)
 
 ## 6. Meme Register
@@ -52,7 +52,7 @@ Claim Range: C-2722–C-2743
 
 New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-1015 (Tim Ballard), N-4 (JD Vance), N-5 (Andrew Kolvet), N-6 (Victor Marx), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-531 (Tim Ballard), N-4 (JD Vance), N-42 (Andrew Kolvet), N-536 (Victor Marx), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:02:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2722, C-2723, N-2, N-4, N-5, N-1682*
+*Related: C-2722, C-2723, N-2, N-4, N-42, N-1682*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:03:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2722, C-2724, C-2743, N-2, N-4, N-5, N-1682, N-1687*
+*Related: C-2722, C-2724, C-2743, N-2, N-4, N-42, N-1682, N-1687*
 
 **A-1966.2** JD Vance on-stage response defending Erika Kirk against criticism of her grief.
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:07:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2725, C-2729, C-2742, N-2, N-5, N-1682*
+*Related: C-2725, C-2729, C-2742, N-2, N-42, N-1682*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:31:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2726, C-2742, N-2, N-5, N-1682, N-1687*
+*Related: C-2726, C-2742, N-2, N-42, N-1682, N-1687*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:08:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2727, C-2742, N-2, N-5, N-1682*
+*Related: C-2727, C-2742, N-2, N-42, N-1682*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:19:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2730, C-2731, C-2732, N-2, N-5, N-1687*
+*Related: C-2730, C-2731, C-2732, N-2, N-42, N-1687*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2734, C-2735, N-1015, N-6, N-1210, N-1688*
+*Related: C-2734, C-2735, N-531, N-536, N-1210, N-1688*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:40:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2735, C-2736, N-1015, N-6, N-1210, N-1688*
+*Related: C-2735, C-2736, N-531, N-536, N-1210, N-1688*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:41:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2736, N-1015, N-6, N-1210, N-1688*
+*Related: C-2736, N-531, N-536, N-1210, N-1688*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (anonymous sources, no displayed documentation)
 
-*Related: C-2741, N-5, N-1684*
+*Related: C-2741, N-42, N-1684*
 
 ---
 
@@ -311,7 +311,7 @@ Claim Count: 0
 Episode Count: (pre-existing)
 Investigative Pressure: High
 
-*Related: A-1968.1, N-2, N-5, N-1687*
+*Related: A-1968.1, N-2, N-42, N-1687*
 
 ---
 
@@ -328,7 +328,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-5** Donald Trump
+**N-42** Andrew Kolvet
 
 TPUSA official; on-stage announcer (A-1966.1); Fox News interviewee (A-1967.1); Charlie Kirk show interviewee (A-1968.1); referenced as close associate of Marcus Wada (A-1980.1). Name spelling varies across source ("Kovette," "Kovat," "Kolvet"); preserved as "Andrew Kolvet."
 
@@ -341,7 +341,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1015** Tim Ballard
+**N-531** Tim Ballard
 
 Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.
 
@@ -363,7 +363,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1965.1, A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, C-2724, C-2725, C-2726, C-2727, C-2728, C-2742, N-2, N-5*
+*Related: A-1965.1, A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, C-2724, C-2725, C-2726, C-2727, C-2728, C-2742, N-2, N-42*
 
 ---
 
@@ -428,7 +428,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1966.1, A-1968.1, A-1972.1, C-2724, C-2730, C-2732, N-2, N-5*
+*Related: A-1966.1, A-1968.1, A-1972.1, C-2724, C-2730, C-2732, N-2, N-42*
 
 ---
 
@@ -441,7 +441,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-1015, N-6, N-1210*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-531, N-536, N-1210*
 
 ---
 
@@ -454,7 +454,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-1015*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-531*
 
 ---
 
@@ -467,7 +467,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1967.1, C-2725, N-5*
+*Related: A-1967.1, C-2725, N-42*
 
 ---
 
@@ -480,7 +480,7 @@ Claim Timestamp: 00:02:28
 Claim: Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event on 2026-04-14.
 
 Anchored Artifacts: A-1965.1, A-1966.1
-Mentions: N-2, N-4, N-5
+Mentions: N-2, N-4, N-42
 
 
 Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena booking records, and contemporaneous press releases.
@@ -494,7 +494,7 @@ Claim Timestamp: 00:02:28
 Claim: TPUSA UGA event staff (Grant Tyler, Caroline) were not informed of Erika Kirk's absence until approximately 50 minutes before doors opened, as evidenced by their posted promotion video.
 
 Anchored Artifacts: A-1965.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1682
 
@@ -509,7 +509,7 @@ Claim Timestamp: 00:03:32
 Claim: Andrew Kolvet announced on stage at the UGA event that Erika Kirk was absent due to "very serious threats" against her.
 
 Anchored Artifacts: A-1966.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 Contradicts: C-2744
 
 Related Nodes: N-1682, N-1687
@@ -525,7 +525,7 @@ Claim Timestamp: 00:07:17
 Claim: Andrew Kolvet stated on Fox News that TPUSA's security team told the organization "we cannot guarantee your safety" regarding Erika Kirk.
 
 Anchored Artifacts: A-1967.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1682, N-1690
 
@@ -540,7 +540,7 @@ Claim Timestamp: 00:31:13
 Claim: Andrew Kolvet stated on Charlie Kirk's show that the Monday high school event was also cancelled due to "increased online chatter" being monitored by TPUSA security.
 
 Anchored Artifacts: A-1968.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1682, N-1687
 
@@ -555,7 +555,7 @@ Claim Timestamp: 00:08:41
 Claim: The Daily Wire reported, citing a TPUSA official, that Erika Kirk's travel itinerary was being doxed, that multiple direct threats were made, and that the chief security concern was the travel portion.
 
 Anchored Artifacts: A-1969.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1682
 
@@ -601,7 +601,7 @@ Claim Timestamp: 00:19:16
 Claim: TPUSA cancelled a Monday 2026-04-13 high school event scheduled for Tuesday 2026-04-14, citing "scheduling complications" rather than security threats.
 
 Anchored Artifacts: A-1972.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1687
 
@@ -631,7 +631,7 @@ Claim Timestamp: 00:19:16
 Claim: The parent-alert email canceling the Georgia high school event referenced a scheduled date of "September 14th," inconsistent with the actual event date of April 14, 2026.
 
 Anchored Artifacts: A-1972.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1687
 
@@ -661,9 +661,9 @@ Claim Timestamp: 00:39:35
 Claim: Victor Marx posted a short video response on Instagram and X in reply to Candace Owens' prior episode, captioned "Well, all righty then. Love you, Candace."
 
 Anchored Artifacts: A-1975.1
-Mentions: N-6
+Mentions: N-536
 
-Related Nodes: N-1015, N-1210, N-1688
+Related Nodes: N-1210, N-1688
 
 Investigative Direction: Verify post URL, timestamp, and whether the post has since been deleted or edited.
 
@@ -676,9 +676,9 @@ Claim Timestamp: 00:40:47
 Claim: Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed.
 
 Anchored Artifacts: A-1976.1
-Mentions: N-6
+Mentions: N-536, N-570
 
-Related Nodes: N-1015, N-1210, N-1688
+Related Nodes: N-1210, N-1688
 
 Investigative Direction: Capture timestamped screenshots of the comment thread before any deletion.
 
@@ -691,9 +691,9 @@ Claim Timestamp: 00:41:36
 Claim: Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed.
 
 Anchored Artifacts: A-1977.1
-Mentions: N-6
+Mentions: N-536
 
-Related Nodes: N-1015, N-1210, N-1688
+Related Nodes: N-1210, N-1688
 
 Investigative Direction: Verify DM timestamp; await Marx's response or non-response.
 
@@ -763,7 +763,7 @@ Claim Timestamp: 00:42:41
 Claim: Per unnamed current and former TPUSA employees, Marcus Wada openly discusses past involvement in arms trafficking in Poland and is described as close to Andrew Kolvet.
 
 Anchored Artifacts: A-1980.1
-Mentions: N-5
+Mentions: N-42
 
 Related Nodes: N-1684
 
@@ -778,7 +778,7 @@ Claim Timestamp: 00:31:13
 Claim: TPUSA's public explanation of the UGA no-show evolved across at least five artifacts (stage announcement, Fox News interview, Charlie Kirk show interview, Daily Wire tweet, Erika Kirk X post) and contained internal inconsistencies regarding whether the high school event shared the same rationale.
 
 Anchored Artifacts: A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, A-1972.1
-Mentions: N-2, N-5
+Mentions: N-2, N-42
 
 Related Nodes: N-1682, N-1687
 
@@ -820,7 +820,7 @@ Investigative Direction: Obtain full transcript of Vance's remarks; verify wheth
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle; each top-level artifact ID represents one evidentiary family.
-- [x] People nodes use the global people ledger (existing N-1 through N-1015 reused; new people begin at N-1207).
+- [x] People nodes use the global people ledger (Wave 1: Tim Ballard moved out of the topic band to Person N-531; local placeholder ids N-5 and N-6 resolved to N-42 Andrew Kolvet and N-536 Victor Marx).
 - [x] Non-person investigation targets use the 1000-series beginning at N-1682.
 - [x] No speculative claims inscribed as evidence-backed claims; rhetorical framing retained as commentary.
 - [x] Names preserved exactly with uncertainty flagged.

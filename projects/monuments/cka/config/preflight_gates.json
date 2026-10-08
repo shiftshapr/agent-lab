@@ -1,0 +1,12 @@
+{
+  "description": "Monument-specific inputs for dia_preflight Wave 1 gates. mention_grounding.exempt_ids: show host, speaks in first person and is rarely named. mention_grounding.reviewed: human-verified Mentions where the person is referenced by role rather than name; each row is also recorded in audits/wave1/mentions_decisions.csv.",
+  "mention_grounding": {
+    "exempt_ids": ["N-3"],
+    "reviewed": [
+      {"claim": "C-1267", "node": "N-59", "reason": "Candace's husband; transcript 08:46 to 10:37 tells how she met her husband on this UK trip (ep9, eps 1-10 window)"},
+      {"claim": "C-1268", "node": "N-59", "reason": "claim text: 'Candace met her husband for the first time during the UK trip'"},
+      {"claim": "C-1269", "node": "N-59", "reason": "claim text: 'text messages ... with her husband'; transcript 13:27 'I said to my husband'"},
+      {"claim": "C-1269", "node": "N-157", "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"}
+    ]
+  }
+}

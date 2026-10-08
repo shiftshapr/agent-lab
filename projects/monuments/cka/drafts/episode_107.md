@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19, N-23, N-24, N-26
-  - Reused Nodes Appearing: N-1017, N-1018, N-3, N-4, N-1019, N-1207
+  - New Nodes Introduced: none
+  - Reused Nodes Appearing: N-3, N-16, N-309, N-536, N-569, N-570, N-573, N-574, N-575, N-576, N-577, N-578, N-1676, N-1697, N-2384
+  - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Hole-minted persons and the new topic are listed on the Reused line so New Nodes Introduced stays ascending.
   - (see registers)
 
 # Episode Analysis Output Template
-
 
 ## 2. Executive Summary
 
@@ -24,349 +24,341 @@ Episode profiles Victor Marx, Colorado gubernatorial candidate and Turning Point
 
 ## 3. Artifact Register
 
-**A-1000** Victor Marx Deleted Instagram Post Bundle
+**A-2505** Victor Marx Deleted Instagram Post Bundle
+
+**A-2505.1** Host recount of Victor Marx publicly announcing on Instagram that Charlie Kirk had passed away on September 10 (the first such announcement the show could find), and of his presence in Erika Kirk's home afterward.
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:01:24
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium (host recount; post not displayed in transcript)
+
+*Related: C-3702, C-3703, N-536, N-569, N-1697*
 
 ---
 
-**A-1001** Victor Marx Audio Testimony Bundle
+**A-2506** Victor Marx Audio Testimony Bundle
+
+**A-2506.1** Victor Marx audio clip narrating that, at about age 3, his stepfather made him cut the head off a dead cat.
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:06:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High (audio played on air)
+
+*Related: C-3704, C-3709, N-536, N-578*
 
 ---
 
-**A-1002** Holly Chalmers Audio Bundle
+**A-2507** Holly Chalmers Audio Bundle
+
+**A-2507.1** Holly Chalmers audio clip: "I believe that he's a trafficker himself."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:11:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High (audio played on air)
+
+*Related: C-3705, N-574, N-536*
 
 ---
 
-**A-1003** Victor Marx Daughter Social Media Bundle
+**A-2508** Victor Marx Daughter Social Media Bundle
+
+**A-2508.1** Victor Marx's daughter's social media post, read aloud, describing years of abuse and the letter sent to her father's board.
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:11:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High (post read aloud)
+
+*Related: C-3706, N-576, N-575, N-536*
 
 ---
 
-**A-1004** Victor Marx Website Bundle
+**A-2509** Victor Marx Website Bundle
+
+**A-2509.1** Host description of Victor Marx's earlier website text listing him as husband, father, US Marine and pastor, since removed.
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:09
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium (described by host)
+
+*Related: C-3707, N-536*
+
+**A-2509.2** Website text shown on air: "a high-risk humanitarian who has rescued more than 45,000 women and children."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:13:24
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High (text read on air)
+
+*Related: C-3708, C-3716, N-536, N-2384*
 
 ---
 
-**A-1005** Candace/Victor Marx Interview Recording Bundle
+**A-2510** Candace/Victor Marx Interview Recording Bundle
+
+**A-2510.1** Candace Owens on-air interview with Victor Marx (his answers on the abuse narrative, Marine service, prayer sessions, the 9/10 announcement, Gaza, Israel and the 45,000 figure).
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:16:54
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High (live interview audio)
+
+*Related: C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716, N-536*
 
 ---
 
-**A-1006** Victor Marx Documentary References Bundle
+**A-2511** Victor Marx Documentary References Bundle
 
 ---
 
-**A-1007** Victor Marx DD-214 Reference Bundle
+**A-2512** Victor Marx DD-214 Reference Bundle
+
+**A-2512.1** Victor Marx on air citing his DD-214 for three years of Marine Corps service.
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:23:58
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High (stated on air)
+
+*Related: C-3710, N-536*
 
 ---
 
 ## 4. Node Register
 
-
-**N-1017** Victor Marx
-
-Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure
-
-*Related:*
-
----
-
-**N-1018** Eileen Marx
-
-Victor's wife; described as second-mother figure to Erika Kirk
-
-*Related:*
-
----
-
-**N-4** JD Vance
-
-Victor's biological father; described as pimp, drug dealer, martial artist
-
-*Related:*
-
----
-
-**N-1019** Corby Hall
-
-Accuser of Victor Marx; alleges gun-running and IDF arms deal
-
-*Related:*
-
----
-
-**N-8** Melody Hall
-
-Corby's wife; subject of Victor's prayer ministry claims
-
-*Related:*
-
----
-
-**N-9** Holly Chalmers
-
-Accuser of Victor Marx; alleges kidnapping across state lines and trafficking
-
-*Related:*
-
----
-
-**N-10** Kenneth Brining
-
-Eileen's brother; attempted to shoot Victor in 2023; later killed his girlfriend
-
-*Related:*
-
----
-
-**N-12** Charmaine
-
-Victor's half-sister (daughter of Gloyce Kennedy); Victor says she corroborates abuse
-
-*Related:*
-
----
-
-**N-13** Debbie
-
-Victor's older sister; per Victor, appears in his documentary corroborating abuse
-
-*Related:*
-
----
-
-**N-14** Victor Marx's son
-
-Wrote letter to board accusing father of abusing him and his sister
-
-*Related:*
-
----
-
-**N-15** Victor Marx's daughter
-
-Posted social media about abuse; later recanted; friends allege pressure
-
-*Related:*
-
----
-
 **N-16** Frank Turek
 
-Friend of Victor Marx; mentioned in 9/10 announcement context
+Named by Victor Marx in his account of the 9/10 death announcement.
 
-*Related:*
+*Related: C-3713*
 
----
+**N-536** Victor Marx
 
-**N-18** Amir Safari
+Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.
 
-Pastor; cited as also posting early about Charlie's death
+*Related: A-2505.1, A-2506.1, A-2507.1, A-2508.1, A-2509.1, A-2509.2, A-2510.1, A-2512.1, C-3702, C-3703, C-3704, C-3705, C-3706, C-3707, C-3708, C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716*
 
-*Related:*
+**N-569** Eileen Marx
 
----
+Victor's wife; described as second-mother figure to Erika Kirk.
 
-**N-19** Corey Kennedy
+*Related: A-2505.1, C-3703*
 
-Person who platformed Corby Hall on Candace show; per Victor filed FBI/statement
+**N-570** Corby Hall
 
-*Related:*
+Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.
 
----
+*Related: C-3709*
 
-**N-1207** Mike Mitchell Public Record Anomaly
+**N-573** Melody Hall
 
-Discrepancy between claimed childhood abuse history and statements from family members
+Corby Hall's wife; named by Victor Marx as someone he prayed for.
 
-*Related:*
+*Related: C-3711*
 
----
+**N-574** Holly Chalmers
 
-**N-23** Charlie Kirk Death Announcement Timeline
+Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.
 
-Verification of who first knew and announced Charlie Kirk's death on 9/10
+*Related: A-2507.1, C-3705*
 
-*Related:*
+**N-575** Victor Marx's son
 
----
+Wrote a letter to the board accusing his father of abusing him and his sister.
 
-**N-24** 45,000 Rescue Claim Discrepancy
+*Related: A-2508.1, C-3706*
 
-Website (victor2026.com) claimed rescued 45,000 women/children; Victor denied this claim
+**N-576** Victor Marx's daughter
 
-*Related:*
+Posted on social media about abuse; later recanted; friends allege pressure.
 
----
+*Related: A-2508.1, C-3706*
 
-**N-26** Victor Marx IDF Arms Deal Allegations
+**N-577** Amir Safari
 
-Corby Hall's claim Victor attempted 50,000-gun deal for IDF
+Pastor named by the host as also posting early about Charlie Kirk's death.
 
-*Related:*
+*Related: C-3713*
+
+**N-578** Gloyce Dean Kennedy
+
+Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.
+
+*Related: A-2506.1, C-3704, C-3709*
+
+**N-2384** 45,000 Rescue Claim Discrepancy
+
+Node Type: Topic
+Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.
+
+*Related: A-2509.2, C-3708, C-3716*
 
 ---
 
 ## 5. Claim Register
 
-**C-1000** Victor Marx first to announce Kirk death on Instagram ~1.5 hours before president
+**C-3702** Victor Marx first to announce Kirk death on Instagram ~1.5 hours before president
 
 Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
-Anchored Artifacts: ART_1.1
-Mentions: N-23
-Related Nodes: N-1017
+Anchored Artifacts: A-2505.1
+Mentions: N-1, N-536
+Related Nodes: N-1697
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
 
-**C-1001** Victor and Eileen Marx welcomed into Erika Kirk's home after body returned
+**C-3703** Victor and Eileen Marx welcomed into Erika Kirk's home after body returned
 
 Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx and his wife Eileen were among the small circle welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
-Anchored Artifacts: ART_1.1
-Related Nodes: N-1017, N-1018
+Anchored Artifacts: A-2505.1
+Mentions: N-2, N-536, N-569
 Investigative Direction: Verify via photographic evidence and corroboration from family/close associates.
 
 ---
 
-**C-1002** Victor Marx publicly narrated childhood abuse including cat beheading at age 3
+**C-3704** Victor Marx publicly narrated childhood abuse including cat beheading at age 3
 
 Claim Timestamp: 00:06:15
 Claim: Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.
-Anchored Artifacts: ART_2.1
-Mentions: N-3
-Related Nodes: N-1017
+Anchored Artifacts: A-2506.1
+Mentions: N-536, N-578
 Investigative Direction: Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.
 
 ---
 
-**C-1003** Holly Chalmers alleges Victor Marx is a trafficker
+**C-3705** Holly Chalmers alleges Victor Marx is a trafficker
 
 Claim Timestamp: 00:11:03
 Claim: Episode plays audio of Holly Chalmers stating she believes Victor Marx is a trafficker himself.
 Transcript Snippet: I believe that he's a trafficker himself
-Anchored Artifacts: ART_3.1
-Mentions: N-9
-Related Nodes: N-1017
+Anchored Artifacts: A-2507.1
+Mentions: N-536, N-574
 Investigative Direction: Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.
 
 ---
 
-**C-1004** Victor Marx's daughter publicly alleged paternal abuse
+**C-3706** Victor Marx's daughter publicly alleged paternal abuse
 
 Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
-Anchored Artifacts: ART_4.1
-Mentions: N-15
-Related Nodes: N-1017
+Anchored Artifacts: A-2508.1
+Mentions: N-536, N-576, N-575
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
 
 ---
 
-**C-1005** Old Victor Marx website listed him as pastor
+**C-3707** Old Victor Marx website listed him as pastor
 
 Claim Timestamp: 00:10:09
 Claim: Episode presents that Victor Marx's website previously listed him as 'husband, father, US Marine, pastor,' quietly removed.
-Anchored Artifacts: ART_5.1
-Related Nodes: N-1017
+Anchored Artifacts: A-2509.1
+Mentions: N-536
 Investigative Direction: Retrieve archived versions of Victor Marx's website via Wayback Machine.
 
 ---
 
-**C-1006** Victor Marx website claimed rescue of 45,000 women and children
+**C-3708** Victor Marx website claimed rescue of 45,000 women and children
 
 Claim Timestamp: 01:14:27
 Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
-Anchored Artifacts: ART_5.2
-Mentions: N-24
-Related Nodes: N-1017
+Anchored Artifacts: A-2509.2
+Mentions: N-536
+Related Nodes: N-2384
 Investigative Direction: Verify archived website content; cross-check against organization's audited reports.
 
 ---
 
-**C-1007** Victor Marx stands by childhood abuse narrative on-air
+**C-3709** Victor Marx stands by childhood abuse narrative on-air
 
 Claim Timestamp: 00:16:54
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
-Anchored Artifacts: ART_2.1, ART_6.1
-Mentions: N-3
-Related Nodes: N-1017
+Anchored Artifacts: A-2506.1, A-2510.1
+Mentions: N-536, N-578, N-570
 Investigative Direction: Cross-reference with statements from family members and law enforcement records.
 
 ---
 
-**C-1008** Victor Marx asserts 3-year Marine Corps service on DD-214
+**C-3710** Victor Marx asserts 3-year Marine Corps service on DD-214
 
 Claim Timestamp: 00:23:58
 Claim: Victor Marx states he served 3 years in the Marine Corps, correcting prior '2 years' framing, citing his DD-214.
 Transcript Snippet: it was three years and it was on the DD-214
-Anchored Artifacts: ART_6.1, ART_8.1
-Related Nodes: N-1017
+Anchored Artifacts: A-2510.1, A-2512.1
+Mentions: N-536
 Investigative Direction: Obtain certified DD-214 to verify service length and dates.
 
 ---
 
-**C-1009** Victor Marx prayed for Charlie Kirk and others at TPUSA HQ
+**C-3711** Victor Marx prayed for Charlie Kirk and others at TPUSA HQ
 
 Claim Timestamp: 00:42:11
 Claim: Victor Marx confirms he prayed for Charlie Kirk and three other people at Turning Point USA HQ offices.
-Anchored Artifacts: ART_6.1
-Related Nodes: N-1017, N-1018
+Anchored Artifacts: A-2510.1
+Mentions: N-1, N-536, N-573
 Investigative Direction: Verify with Turning Point USA personnel and any session records or correspondence.
 
 ---
 
-**C-1010** Victor Marx states he entered Gaza via special operations teams
+**C-3712** Victor Marx states he entered Gaza via special operations teams
 
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.
-Anchored Artifacts: ART_6.1
-Mentions: N-26
-Related Nodes: N-1017
+Anchored Artifacts: A-2510.1
+Mentions: N-536
+Related Nodes: N-1676
 Investigative Direction: Cross-reference with IDF/nonprofit invitation records and travel documentation.
 
 ---
 
-**C-1011** Victor Marx claims he determined Kirk dead from a single viewing of shooting video
+**C-3713** Victor Marx claims he determined Kirk dead from a single viewing of shooting video
 
 Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
-Anchored Artifacts: ART_6.1
-Mentions: N-23
-Related Nodes: N-1017
+Anchored Artifacts: A-2510.1
+Mentions: N-1, N-536, N-16, N-577, N-309
+Related Nodes: N-1697
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
 ---
 
-**C-1012** Victor Marx cites 6-hour IDF reinforcement delay on Oct 7
+**C-3714** Victor Marx cites 6-hour IDF reinforcement delay on Oct 7
 
 Claim Timestamp: 01:09:11
 Claim: Victor Marx states that IDF friends told him the Israeli government took six hours to send reinforcements during Oct 7 attacks.
-Anchored Artifacts: ART_6.1
-Related Nodes: N-1017
+Anchored Artifacts: A-2510.1
+Mentions: N-536
 Investigative Direction: Verify against official Israeli inquiry findings and IDF operational records.
 
 ---
 
-**C-1013** Victor Marx states he helped 6,000 children in Israel post-Oct 7
+**C-3715** Victor Marx states he helped 6,000 children in Israel post-Oct 7
 
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts his team helped 6,000 children affected by the Hamas-Israel war via invitation from an Israel-based nonprofit.
-Anchored Artifacts: ART_6.1
-Related Nodes: N-1017
+Anchored Artifacts: A-2510.1
+Mentions: N-536
 Investigative Direction: Verify against partner nonprofit documentation and beneficiary records.
 
 ---
 
-**C-1014** Victor Marx denies ever declaring 45,000 rescued, calls wording 'helped'
+**C-3716** Victor Marx denies ever declaring 45,000 rescued, calls wording 'helped'
 
 Claim Timestamp: 01:00:27
 Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
-Anchored Artifacts: ART_5.2, ART_6.1
-Mentions: N-24
-Related Nodes: N-1017
+Anchored Artifacts: A-2509.2, A-2510.1
+Mentions: N-536
+Related Nodes: N-2384
 Investigative Direction: Compare original website text against archived snapshots; reconcile with prior show clip.
 
 ---

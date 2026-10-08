@@ -571,14 +571,12 @@
       "name": "Thomas Sowell",
       "type": "person",
       "description": "Author of 'Inside the American Education System' recommended by host.",
-      "related_artifacts": [
-        "A-1155.1"
-      ],
+      "related_artifacts": [],
       "related_claims": [
-        "C-1267"
+        "C-1277"
       ],
       "tags": [],
-      "evidence_count": 1,
+      "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
@@ -590,14 +588,12 @@
       "name": "Margarethe Schurz",
       "type": "person",
       "description": "Credited by host with establishing kindergarten in US (1848 communists).",
-      "related_artifacts": [
-        "A-1155.1"
-      ],
+      "related_artifacts": [],
       "related_claims": [
-        "C-1267"
+        "C-1277"
       ],
       "tags": [],
-      "evidence_count": 1,
+      "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
@@ -1268,8 +1264,6 @@
         "N-80",
         "N-99",
         "N-149",
-        "N-154",
-        "N-155",
         "N-156",
         "N-158",
         "N-160",
@@ -1524,7 +1518,9 @@
       "transcript_snippet": "I'm homeschooling my kids. I'm so excited.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-154",
+        "N-155"
       ]
     },
     {

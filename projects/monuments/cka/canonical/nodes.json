@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-10-07T15:30:00Z",
+  "updated": "2026-10-08T04:18:27Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)).",
-  "next_person_id": 478,
-  "next_investigation_id": 2384,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)). 2026-10-07 Wave 1 adversarial: topic-band persons moved into person holes (N-1015->N-531 Tim Ballard, N-1017->N-536 Victor Marx, N-1018->N-569 Eileen Marx, N-1019->N-570 Corby Hall, N-1028->N-571 Usha Vance, N-2349->N-572 Father Ripperger; N-1009->N-1, N-1010->N-2); ep107 placeholder persons resolved (N-8->N-573, N-9->N-574, N-14->N-575, N-15->N-576, N-18->N-577; new N-578 Gloyce Dean Kennedy; N-10/N-11/N-12/N-13/N-19 retired without survivor; N-23->N-1697, N-24->N-2384, N-26->N-1676); ep161 tombstone collisions re-minted (N-448/449/450/452/465/469/470/473 -> N-579..N-586). next_person_id=587, next_investigation_id=2385.",
+  "next_person_id": 587,
+  "next_investigation_id": 2385,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -33,6 +33,7 @@
         56,
         62,
         63,
+        67,
         72,
         76,
         77,
@@ -57,6 +58,9 @@
         159,
         160,
         161
+      ],
+      "retired_ids": [
+        "N-1009"
       ]
     },
     "N-59": {
@@ -103,6 +107,7 @@
         56,
         62,
         63,
+        67,
         69,
         72,
         76,
@@ -152,7 +157,8 @@
         "N-1032",
         "N-1013",
         "N-1020",
-        "N-1031"
+        "N-1031",
+        "N-1010"
       ]
     },
     "N-60": {
@@ -203,7 +209,8 @@
         1,
         17,
         20,
-        30
+        30,
+        148
       ],
       "retired_ids": [
         "N-234",
@@ -226,7 +233,9 @@
         "Andrew Kovat (name uncertainty flagged)",
         "Andrew Kolvet (also spelled Kolvetz in transcript)",
         "Andrew Kolvet (also rendered \"Andrew Kolb\" in this episode)",
-        "Andrew Colebat"
+        "Andrew Colebat",
+        "Andrew Kova",
+        "Andrew Kovit"
       ],
       "episodes": [
         1,
@@ -254,6 +263,8 @@
         72,
         74,
         76,
+        92,
+        154,
         157,
         158,
         159,
@@ -474,6 +485,7 @@
         56,
         67,
         79,
+        154,
         158,
         159
       ],
@@ -520,6 +532,7 @@
         8,
         9,
         10,
+        120,
         159,
         161
       ]
@@ -927,7 +940,9 @@
     "N-88": {
       "canonical_name": "Patrick Bet-David",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "PBD"
+      ],
       "episodes": [
         3,
         6,
@@ -1227,7 +1242,9 @@
     "N-104": {
       "canonical_name": "Matt Gaetz",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Matt Gates"
+      ],
       "episodes": [
         4
       ]
@@ -1392,7 +1409,9 @@
     "N-116": {
       "canonical_name": "Joseph Goebbels",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Joseph Gerbles"
+      ],
       "episodes": [
         5
       ]
@@ -1805,7 +1824,11 @@
     "N-130": {
       "canonical_name": "Jack Posobiec",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Jack Pobic",
+        "Jack Bobic",
+        "Jack Pobiac"
+      ],
       "episodes": [
         7
       ]
@@ -1846,7 +1869,8 @@
       "canonical_name": "Bob Shulman",
       "type": "person",
       "aliases": [
-        "Bob Shaman"
+        "Bob Shaman",
+        "Bob Schman"
       ],
       "episodes": [
         7,
@@ -2242,7 +2266,9 @@
     "N-154": {
       "canonical_name": "Thomas Sowell",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Thomas Soul"
+      ],
       "episodes": [
         9
       ]
@@ -2250,7 +2276,9 @@
     "N-155": {
       "canonical_name": "Margarethe Schurz",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Margaret Schzes"
+      ],
       "episodes": [
         9
       ]
@@ -2787,7 +2815,6 @@
         98,
         99,
         102,
-        107,
         110,
         120,
         121,
@@ -3660,11 +3687,7 @@
       "aliases": [],
       "episodes": [
         14,
-        92,
-        120,
-        143,
-        148,
-        154
+        92
       ]
     },
     "N-1224": {
@@ -3886,6 +3909,9 @@
         47,
         76,
         79,
+        143,
+        148,
+        154,
         157,
         158,
         159,
@@ -5545,7 +5571,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        33
+        33,
+        143
       ]
     },
     "N-412": {
@@ -6217,7 +6244,9 @@
     "N-462": {
       "canonical_name": "Charles Joseph Bonaparte",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Charles Joseph Bonapart"
+      ],
       "episodes": [
         39
       ]
@@ -7940,7 +7969,9 @@
     "N-704": {
       "canonical_name": "Shinz\u014d Abe",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Shinszo Abbe"
+      ],
       "episodes": [
         55
       ]
@@ -8052,7 +8083,9 @@
     "N-713": {
       "canonical_name": "Paul Hascgard (Habsgard)",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Paul Habsgard"
+      ],
       "episodes": [
         56
       ]
@@ -9170,22 +9203,6 @@
         159
       ]
     },
-    "N-1009": {
-      "canonical_name": "Charlie Kirk \u2014 referenced throughout timeline reconstruction.",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-1010": {
-      "canonical_name": "Erica Kirk \u2014 referenced in alibi and Dan Flood message disputes.",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
     "N-3": {
       "canonical_name": "Candace Owens",
       "type": "person",
@@ -9887,14 +9904,6 @@
         74
       ]
     },
-    "N-2349": {
-      "canonical_name": "Father Ripperger",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        75
-      ]
-    },
     "N-2346": {
       "canonical_name": "Pentagon Seating Geometry Claim (Investigation Target)",
       "type": "topic",
@@ -10254,10 +10263,6 @@
         9,
         10,
         79,
-        92,
-        143,
-        148,
-        154,
         159,
         160,
         161
@@ -10834,6 +10839,9 @@
       "aliases": [],
       "episodes": [
         91
+      ],
+      "retired_ids": [
+        "N-26"
       ]
     },
     "N-1677": {
@@ -10886,24 +10894,13 @@
         22,
         67,
         92,
-        107,
-        120,
         148,
-        154,
         159,
         161
       ],
       "retired_ids": [
         "N-299",
         "N-836"
-      ]
-    },
-    "N-1015": {
-      "canonical_name": "Tim Ballard",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        92
       ]
     },
     "N-1682": {
@@ -11032,6 +11029,9 @@
       "aliases": [],
       "episodes": [
         93
+      ],
+      "retired_ids": [
+        "N-23"
       ]
     },
     "N-1698": {
@@ -11437,95 +11437,6 @@
         102
       ]
     },
-    "N-1017": {
-      "canonical_name": "Victor Marx",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        107
-      ]
-    },
-    "N-1018": {
-      "canonical_name": "Eileen Marx",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        107
-      ]
-    },
-    "N-1019": {
-      "canonical_name": "Corby Hall",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        107
-      ]
-    },
-    "N-8": {
-      "canonical_name": "Melody Hall",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        143,
-        148
-      ]
-    },
-    "N-9": {
-      "canonical_name": "Holly Chalmers",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        143,
-        148
-      ]
-    },
-    "N-10": {
-      "canonical_name": "Kenneth Brining",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
-    "N-12": {
-      "canonical_name": "Charmaine",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
-    "N-13": {
-      "canonical_name": "Debbie",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
-    "N-14": {
-      "canonical_name": "Victor Marx's son",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
-    "N-15": {
-      "canonical_name": "Victor Marx's daughter",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
     "N-16": {
       "canonical_name": "Frank Turek",
       "type": "person",
@@ -11576,48 +11487,6 @@
         "N-846",
         "N-887",
         "N-958"
-      ]
-    },
-    "N-18": {
-      "canonical_name": "Amir Safari",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
-    "N-19": {
-      "canonical_name": "Corey Kennedy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107,
-        148
-      ]
-    },
-    "N-23": {
-      "canonical_name": "Charlie Kirk Death Announcement Timeline",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107
-      ]
-    },
-    "N-24": {
-      "canonical_name": "45,000 Rescue Claim Discrepancy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107
-      ]
-    },
-    "N-26": {
-      "canonical_name": "Victor Marx IDF Arms Deal Allegations",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        107
       ]
     },
     "N-2066": {
@@ -12899,22 +12768,6 @@
         147
       ]
     },
-    "N-1028": {
-      "canonical_name": "Usha Vance",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        148
-      ]
-    },
-    "N-11": {
-      "canonical_name": "Danny Philip",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        148
-      ]
-    },
     "N-2317": {
       "canonical_name": "Statue Vandalism Investigation",
       "type": "topic",
@@ -13852,99 +13705,12 @@
         161
       ]
     },
-    "N-448": {
-      "canonical_name": "Matt Servius",
-      "type": "person",
-      "aliases": [
-        "Servas",
-        "Cervius",
-        "Matt Servas",
-        "Matt Servious"
-      ],
-      "episodes": [
-        161
-      ]
-    },
-    "N-449": {
-      "canonical_name": "Blake Wynn",
-      "type": "person",
-      "aliases": [
-        "Blake Win",
-        "Blake Wyn"
-      ],
-      "episodes": [
-        161
-      ]
-    },
-    "N-450": {
-      "canonical_name": "Steve Wynn",
-      "type": "person",
-      "aliases": [
-        "Steve Wyn",
-        "Steve Wind"
-      ],
-      "episodes": [
-        161
-      ]
-    },
-    "N-452": {
-      "canonical_name": "Ali Breland",
-      "type": "person",
-      "aliases": [
-        "Ali Breeland"
-      ],
-      "episodes": [
-        161
-      ]
-    },
-    "N-465": {
-      "canonical_name": "Jules Katz",
-      "type": "person",
-      "aliases": [
-        "Cats",
-        "Jules Cats"
-      ],
-      "episodes": [
-        161
-      ]
-    },
-    "N-469": {
-      "canonical_name": "Benjamin Goodman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        161
-      ]
-    },
-    "N-470": {
-      "canonical_name": "Jack O'Hara",
-      "type": "person",
-      "aliases": [
-        "Ohara",
-        "O'Hara"
-      ],
-      "episodes": [
-        161
-      ]
-    },
     "N-472": {
       "canonical_name": "Miriam Adelson",
       "type": "person",
       "aliases": [
         "Miriam Medson",
         "Miriam Adlesen"
-      ],
-      "episodes": [
-        161
-      ]
-    },
-    "N-473": {
-      "canonical_name": "Robert F. Kennedy Jr.",
-      "type": "person",
-      "aliases": [
-        "RFK Jr.",
-        "RFK",
-        "Robert F. Kennedy Junior"
       ],
       "episodes": [
         161
@@ -14086,6 +13852,235 @@
       ],
       "episodes": [
         161
+      ]
+    },
+    "N-531": {
+      "canonical_name": "Tim Ballard",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        92
+      ],
+      "retired_ids": [
+        "N-1015"
+      ]
+    },
+    "N-536": {
+      "canonical_name": "Victor Marx",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-1017"
+      ]
+    },
+    "N-569": {
+      "canonical_name": "Eileen Marx",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-1018"
+      ]
+    },
+    "N-570": {
+      "canonical_name": "Corby Hall",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-1019"
+      ]
+    },
+    "N-571": {
+      "canonical_name": "Usha Vance",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        148
+      ],
+      "retired_ids": [
+        "N-1028"
+      ]
+    },
+    "N-572": {
+      "canonical_name": "Father Ripperger",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        75
+      ],
+      "retired_ids": [
+        "N-2349"
+      ]
+    },
+    "N-573": {
+      "canonical_name": "Melody Hall",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-8"
+      ]
+    },
+    "N-574": {
+      "canonical_name": "Holly Chalmers",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-9"
+      ]
+    },
+    "N-575": {
+      "canonical_name": "Victor Marx's son",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-14"
+      ]
+    },
+    "N-576": {
+      "canonical_name": "Victor Marx's daughter",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-15"
+      ]
+    },
+    "N-577": {
+      "canonical_name": "Amir Safari",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-18"
+      ]
+    },
+    "N-578": {
+      "canonical_name": "Gloyce Dean Kennedy",
+      "type": "person",
+      "aliases": [
+        "Gloyce"
+      ],
+      "episodes": [
+        107
+      ]
+    },
+    "N-579": {
+      "canonical_name": "Matt Servius",
+      "type": "person",
+      "aliases": [
+        "Servas",
+        "Cervius",
+        "Matt Servas",
+        "Matt Servious"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-580": {
+      "canonical_name": "Blake Wynn",
+      "type": "person",
+      "aliases": [
+        "Blake Win",
+        "Blake Wyn"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-581": {
+      "canonical_name": "Steve Wynn",
+      "type": "person",
+      "aliases": [
+        "Steve Wyn",
+        "Steve Wind"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-582": {
+      "canonical_name": "Ali Breland",
+      "type": "person",
+      "aliases": [
+        "Ali Breeland"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-583": {
+      "canonical_name": "Jules Katz",
+      "type": "person",
+      "aliases": [
+        "Cats",
+        "Jules Cats"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-584": {
+      "canonical_name": "Benjamin Goodman",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        161
+      ]
+    },
+    "N-585": {
+      "canonical_name": "Jack O'Hara",
+      "type": "person",
+      "aliases": [
+        "Ohara",
+        "O'Hara"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-586": {
+      "canonical_name": "Robert F. Kennedy Jr.",
+      "type": "person",
+      "aliases": [
+        "RFK Jr.",
+        "RFK",
+        "Robert F. Kennedy Junior"
+      ],
+      "episodes": [
+        161
+      ]
+    },
+    "N-2384": {
+      "canonical_name": "45,000 Rescue Claim Discrepancy",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        107
+      ],
+      "retired_ids": [
+        "N-24"
       ]
     }
   }

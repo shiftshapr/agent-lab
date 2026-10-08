@@ -611,10 +611,10 @@
       "type": "person",
       "description": "Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.",
       "related_artifacts": [
-        "A-1111.1"
+        "A-1115.1"
       ],
       "related_claims": [
-        "C-1186"
+        "C-1192"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1160,9 +1160,9 @@
         "A-1111.1"
       ],
       "related_nodes": [
+        "N-1077",
         "N-1116",
-        "N-1127",
-        "N-1077"
+        "N-1127"
       ],
       "tags": [],
       "claim_timestamp": "00:06:54",
@@ -1171,9 +1171,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-69",
-        "N-115",
-        "N-116",
-        "N-117"
+        "N-115"
       ]
     },
     {
@@ -1313,8 +1311,8 @@
       "transcript_snippet": "somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1",
-        "N-65"
+        "N-65",
+        "N-116"
       ]
     },
     {

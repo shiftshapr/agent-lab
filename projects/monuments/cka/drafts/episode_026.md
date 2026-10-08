@@ -663,7 +663,7 @@ Claim Timestamp: 00:50:03–00:50:59
 Claim: Josh Hammer stated on-record that the election of a Muslim mayor in New York City less than a quarter century after September 11, 2001 is significant, framing Mamdani's candidacy in those terms.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-42, N-340
+Mentions: N-86, N-340
 
 
 Investigative Direction: Verify the original Josh Hammer segment and identify the outlet.
@@ -677,7 +677,7 @@ Claim Timestamp: 00:51:00–00:52:10
 Claim: The host publicly rejects Josh Hammer's framing, identifies herself as more fearful of Zionists than Muslims, and refuses the implied call to armed conflict.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-42, N-340
+Mentions: N-86, N-340
 
 
 Investigative Direction: N/A — host-stance claim linked to source artifact.

@@ -354,7 +354,6 @@ Claim Timestamp: 00:05:06
 Claim: Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.
 
 Anchored Artifacts: A-1750.1
-Mentions: N-910
 
 
 Investigative Direction: Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures.
@@ -368,7 +367,7 @@ Claim Timestamp: 00:08:37–00:09:39
 Claim: Andrew Kolvet stated the TPUSA halftime show drew 6 million concurrent YouTube viewers.
 
 Anchored Artifacts: A-1751.1
-Mentions: N-910
+Mentions: N-42
 
 Related Nodes: N-1570
 
@@ -383,7 +382,7 @@ Claim Timestamp: 00:08:37–00:09:39
 Claim: Andrew Kolvet stated TPUSA saw "over 10 million concurrent views" across all social channels (Rumble plus partners).
 
 Anchored Artifacts: A-1751.1
-Mentions: N-910
+Mentions: N-42
 
 Related Nodes: N-1570
 
@@ -398,7 +397,7 @@ Claim Timestamp: 00:08:37–00:09:39
 Claim: Andrew Kolvet stated TPUSA had "over 20 million viewers across just social" for the halftime show.
 
 Anchored Artifacts: A-1751.1
-Mentions: N-910
+Mentions: N-42
 
 Related Nodes: N-1570
 

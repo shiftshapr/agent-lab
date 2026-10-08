@@ -462,7 +462,7 @@ Claim Timestamp: 00:28:47
 Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, leading to a TPUSA role, and that Charlie Kirk wanted to date her.
 
 Anchored Artifacts: A-1766.1
-Mentions: N-2, N-37, N-70
+Mentions: N-2, N-37
 
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
@@ -476,7 +476,7 @@ Claim Timestamp: 00:29:35
 Claim: Erika Kirk publicly recounted that her job interview with Charlie Kirk concluded with him stating "I'm going to date you."
 
 Anchored Artifacts: A-1767.1
-Mentions: N-2, N-70
+Mentions: N-2
 
 
 Investigative Direction: Identify and verify the original source of this account and confirm dating against contemporaneous communications.

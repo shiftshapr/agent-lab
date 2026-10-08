@@ -840,7 +840,7 @@ Investigative Direction: Obtain the Tucker Carlson TPUSA July 11, 2025 speech (v
 Claim Timestamp: 00:32:39
 Claim: The host states that immediately after Tucker's July 11, 2025 speech, a female donor began yelling at Charlie Kirk about not being allowed to be anti-Israel, and that broader donor pressure subsequently warned Charlie that TPUSA "can never" tolerate that posture.
 Anchored Artifacts: A-1312.1
-Mentions: N-1, N-50, N-70
+Mentions: N-1, N-50
 Related Nodes: N-1275
 Investigative Direction: Locate first-person testimony, contemporaneous social-media posts, or insider accounts corroborating the immediate post-speech confrontation.
 

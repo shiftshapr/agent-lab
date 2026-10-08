@@ -323,7 +323,7 @@ Claim Timestamp: 00:24:03
 Claim: Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards because law enforcement officers asked them to do so before the campus lockdown.
 
 Anchored Artifacts: A-1220.1
-Mentions: N-37, N-70
+Mentions: N-37
 Contradicts: C-1369
 
 Related Nodes: N-1228
@@ -337,7 +337,7 @@ Claim Timestamp: 00:26:20
 Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will not be released until trial.
 
 Anchored Artifacts: A-1220.3
-Mentions: N-37, N-70
+Mentions: N-37
 
 Related Nodes: N-1231
 
@@ -350,7 +350,7 @@ Claim Timestamp: 00:40:21
 Claim: Tyler Bowyer publicly stated that TPUSA has audited annually and that the host conflated the audit with a proposed new DoJ department.
 
 Anchored Artifacts: A-1220.2
-Mentions: N-37, N-70
+Mentions: N-37
 
 
 Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.
@@ -376,7 +376,7 @@ Claim Timestamp: 00:24:03
 Claim: The host asserts that Kolvet's stated rationale (fear of theft) and Bowyer's stated rationale (law enforcement instruction) for the SD card removal are in conflict.
 
 Anchored Artifacts: A-1220.1, A-1221.1
-Mentions: N-42, N-70
+Mentions: N-42, N-37
 
 Related Nodes: N-1228
 
@@ -490,7 +490,7 @@ Claim Timestamp: 00:39:45
 Claim: Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DoJ department matter on her Instagram, which the host characterizes as "half-truth PR spin."
 
 Anchored Artifacts: A-1223.1, A-1220.2
-Mentions: N-37, N-70, N-135
+Mentions: N-37, N-135
 
 
 Investigative Direction: Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag).

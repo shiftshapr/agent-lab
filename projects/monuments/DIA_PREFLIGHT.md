@@ -41,6 +41,12 @@ python3 projects/monuments/bride_of_charlie/scripts/dia_preflight.py
 | `unknown_node` | P1 | Cites N-* absent from Node Register |
 | `stamp_form` | P1 | Claim/Video timestamp bare `M:SS` instead of `HH:MM:SS` |
 | `tip_match` | P0 | `--tip` or pack `TIP.txt` / `MANIFEST` ≠ git HEAD |
+| `person_like_topic` | P1 | Topic-band node (N-1000..N-9999) whose name is a person: matches a Person name or alias, honorific plus name, or first-name plus surname shared with a Person; also canonical topic-band ids typed person |
+| `mention_grounding` | P1 | Mentions person whose name (full name, alias, or distinctive name word) is absent from both the claim text and the episode transcript. Host ids and human-reviewed role references go in `config/preflight_gates.json` |
+| `claim_ts_past_end` | P1 | Claim Timestamp after the episode end (`config/yt_durations.json`, else last transcript marker); monuments without `yt_durations.json` opt out |
+| `claim_missing_from_drafts` | P1 | Claim minted in `inscription/` but not defined in any draft |
+| `duplicate_claim_header` | P1 | Same C-id header more than once, including residue headers like `**C-1 / C-2**` |
+| `tombstone_collision` | P1 | Active canonical id listed in another node's `retired_ids` |
 
 Grounding, transcript SHA, and name web-search remain in `scripts/verify_drafts.py` and `pipeline_gates.py`; run those in the analysis pipeline. Preflight focuses on ledger/remap/inscription class bugs from the BOC eps 1–8 cycle.
 

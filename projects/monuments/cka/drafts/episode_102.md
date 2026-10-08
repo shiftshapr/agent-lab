@@ -629,7 +629,7 @@ Claim Timestamp: 00:02:41
 Claim: Tyler Bowyer publicly stated he has had "numerous things like this said about us" and characterized such reporting as "reckless disregard for truth from people who call themselves investigators."
 
 Anchored Artifacts: A-2064.1
-Mentions: N-37, N-70
+Mentions: N-37
 
 Related Nodes: N-2065
 

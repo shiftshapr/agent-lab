@@ -297,7 +297,7 @@ Individual located in crowd whose path host found suspicious.
 Node Type: Person
 Commentator and former Navy intelligence officer; defended by host.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: C-3717*
 
 
 
@@ -504,7 +504,7 @@ Claim Timestamp: 00:00:37
 Claim: Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, framing it as a Christian act of submission.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
-Mentions: N-1, N-2, N-66, N-71, N-130, N-133, N-134
+Mentions: N-1, N-2, N-66, N-71
 Investigative Direction: Verify the full text/transcript of Erika's speech against published recording.
 
 ---
@@ -727,6 +727,16 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
+**C-3717** Candace vouches for Jack Posobiec despite viewer doubts about his naval intelligence past
+
+Claim Timestamp: 00:49:00
+Claim: Answering a viewer question, Candace says she knows Jack Posobiec, that he has always been solid with her, and that he was a naval intelligence officer who has never denied it.
+Transcript Snippet: I can tell you that I know Jack Bobic. He has always been very solid with with me.
+Anchored Artifacts: 
+Mentions: N-3, N-130
+Investigative Direction: Verify Posobiec's naval intelligence service record and any public statement on his current status.
+
+---
 
 ## 6. Meme Register
 

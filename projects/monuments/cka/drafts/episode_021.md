@@ -44,7 +44,7 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced:  N-288, N-1266, N-1267, N-1268
+  - New Nodes Introduced: N-288, N-1266, N-1267, N-1268
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-182
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:15:35–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud verbatim)
 
-*Related: C-1518, N-4 (Donald Trump, existing), N-1268*
+*Related: C-1518, N-5 (Donald Trump, existing), N-1268*
 
 **A-1286** New York Times Article Bundle (verbally referenced, not shown)
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:13:10–00:15:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-1521, N-4 (Donald Trump, existing), N-1*
+*Related: C-1521, N-5 (Donald Trump, existing), N-1*
 
 ---
 
@@ -305,7 +305,7 @@ Claim Timestamp: 00:15:35
 Claim: The only Truth Social post by President Trump that could be read as calling for "further investigation" into Charlie Kirk's death is, in its actual text, directed at Jack Smith's investigation of Turning Point USA and unrelated to the Kirk murder inquiry.
 
 Anchored Artifacts: A-1285.1
-Mentions: N-4
+Mentions: N-5
 
 Related Nodes: N-1268
 
@@ -349,7 +349,7 @@ Claim Timestamp: 00:13:10
 Claim: President Trump signed or otherwise established October 14 — Charlie Kirk's birthday — as a national day of remembrance for Charlie Kirk.
 
 Anchored Artifacts: A-1289.1
-Mentions: N-1, N-4
+Mentions: N-1, N-5
 
 
 Investigative Direction: Locate the relevant proclamation in the Federal Register or White House archive to confirm date, scope, and signing date.

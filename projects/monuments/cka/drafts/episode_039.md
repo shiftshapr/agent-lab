@@ -220,7 +220,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1374, A-1484.1*
+*Related: C-3718, N-1079*
 
 **N-464** Robert H. Richards III
 
@@ -615,7 +615,7 @@ Claim Timestamp: 00:54:38–00:59:00
 Claim: Multiple viewer comments read on air express sustained support for host and reference Charlie Kirk; one comment references "Dupant" name-drop as emotionally significant.
 
 Anchored Artifacts: A-1484.1
-Mentions: N-1, N-2, N-462
+Mentions: N-1, N-2
 
 
 Investigative Direction: No investigative direction; capture as audience signal.
@@ -643,7 +643,7 @@ Claim Timestamp: 00:28:17
 Claim: Six people at Turning Point USA reported that Justin Strife placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.
 
 Anchored Artifacts: A-1486.1
-Mentions: N-43, N-264, N-471, N-476
+Mentions: N-43, N-264, N-476
 
 Related Nodes: N-1369, N-1371
 
@@ -658,7 +658,7 @@ Claim Timestamp: 00:30:22
 Claim: Two TPUSA sources told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion.
 
 Anchored Artifacts: A-1486.2
-Mentions: N-264, N-471
+Mentions: N-264
 
 Related Nodes: N-1369
 
@@ -673,7 +673,7 @@ Claim Timestamp: 00:32:01
 Claim: After host mentioned "Pierre Dupont" on Episode 38, the same TPUSA sources confirmed that the donor prospect was Pierre Dupont.
 
 Anchored Artifacts: A-1486.3
-Mentions: N-264, N-471
+Mentions: N-264
 
 Related Nodes: N-1369
 
@@ -688,7 +688,7 @@ Claim Timestamp: 00:47:01
 Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.
 
 Anchored Artifacts: A-1486.4
-Mentions: N-37, N-70, N-264, N-471
+Mentions: N-37, N-264, N-471
 
 Related Nodes: N-1372
 
@@ -737,6 +737,17 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
+**C-3718** Candace states the FBI was founded by Charles Joseph Bonaparte
+
+Claim Timestamp: 00:03:44
+Claim: Candace states that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte, as part of her claim that the FBI was founded by the French.
+Transcript Snippet: did you know that our FBI was founded by Charles Joseph Bonapart?
+Anchored Artifacts: 
+Mentions: N-3, N-462
+Related Nodes: N-1079
+Investigative Direction: Check Bonaparte's role as Attorney General in creating the Bureau of Investigation (1908) against Justice Department records.
+
+---
 
 ## 6. Meme Register
 

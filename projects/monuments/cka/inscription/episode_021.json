@@ -430,7 +430,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
-      "investigative_direction": "Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text."
+      "investigative_direction": "Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -484,7 +485,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:35",
-      "investigative_direction": "Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly."
+      "investigative_direction": "Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -500,7 +504,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:44",
-      "investigative_direction": "Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry."
+      "investigative_direction": "Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -516,7 +521,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:37",
-      "investigative_direction": "Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items."
+      "investigative_direction": "Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -530,7 +536,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:10",
-      "investigative_direction": "Locate the relevant proclamation in the Federal Register or White House archive to confirm date, scope, and signing date."
+      "investigative_direction": "Locate the relevant proclamation in the Federal Register or White House archive to confirm date, scope, and signing date.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",

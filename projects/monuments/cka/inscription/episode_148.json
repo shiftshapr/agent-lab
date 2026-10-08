@@ -28,7 +28,7 @@
           "description": "Crowd Singing \"Heartless\" at Ye's Chicago Show",
           "related_claims": [],
           "related_nodes": [
-            "N-5"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -44,7 +44,7 @@
           "description": "\"Famous\" Crowd Performance Clip",
           "related_claims": [],
           "related_nodes": [
-            "N-5"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,7 +60,7 @@
           "description": "\"Runaway\" Closing Piano Moment",
           "related_claims": [],
           "related_nodes": [
-            "N-5"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
           "description": "Kanye West 2013 BBC Interview Segment on Fans and Self-Esteem",
           "related_claims": [],
           "related_nodes": [
-            "N-5"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -108,7 +108,7 @@
           "description": "Fan-made \"Avengers Assemble\" Meme Shared by Ye",
           "related_claims": [],
           "related_nodes": [
-            "N-5"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,8 +132,8 @@
           "description": "TMZ Clip of Ye Introducing Candace Owens (Ebro FaceTime Story)",
           "related_claims": [],
           "related_nodes": [
-            "N-1028",
-            "N-5"
+            "N-3",
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,8 +160,7 @@
             "C-3405"
           ],
           "related_nodes": [
-            "N-1",
-            "N-8"
+            "N-1"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -187,8 +186,8 @@
             "C-3397"
           ],
           "related_nodes": [
-            "N-4",
-            "N-1028"
+            "N-224",
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,11 +216,10 @@
             "C-3396"
           ],
           "related_nodes": [
-            "N-4",
+            "N-224",
             "N-1",
-            "N-1028",
-            "N-10",
-            "N-9"
+            "N-3",
+            "N-1000"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -253,9 +251,8 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-1028",
-            "N-8",
-            "N-10"
+            "N-571",
+            "N-1000"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -281,9 +278,8 @@
             "C-3403"
           ],
           "related_nodes": [
-            "N-1028",
-            "N-6",
-            "N-5"
+            "N-3",
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -325,9 +321,9 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-12",
+            "N-16",
             "N-42",
-            "N-15"
+            "N-550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +340,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-13"
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -360,7 +356,7 @@
           "description": "M. Sanders Comment on Pre-Recording Shows for Maternity Leave",
           "related_claims": [],
           "related_nodes": [
-            "N-1028"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -378,9 +374,7 @@
             "C-3405"
           ],
           "related_nodes": [
-            "N-18",
-            "N-1",
-            "N-19"
+            "N-1"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -412,7 +406,7 @@
           "description": "\"Don't Give a Dom\" Comment Mocking Blake Neff",
           "related_claims": [],
           "related_nodes": [
-            "N-4"
+            "N-224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -428,7 +422,7 @@
           "description": "Jessica Coach Comment: Checked Out of Hospital to Watch Show",
           "related_claims": [],
           "related_nodes": [
-            "N-1028"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -495,9 +489,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-4",
-      "ref": "N-4",
-      "name": "JD Vance",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Author of X post (A-2346); subject of Deseret News profile (A-2347).",
       "related_artifacts": [
@@ -520,9 +514,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-5",
-      "ref": "N-5",
-      "name": "Donald Trump",
+      "@id": "N-56",
+      "ref": "N-56",
+      "name": "Kanye West",
       "type": "person",
       "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
       "related_artifacts": [
@@ -543,29 +537,10 @@
     },
     {
       "@type": "Person",
-      "@id": "N-6",
-      "ref": "N-6",
-      "name": "Elizabeth Lane *(reused from Episode 1)*",
-      "type": "person",
-      "description": "Counterparty in hotel-lobby video (A-2349).",
-      "related_artifacts": [
-        "A-2349.1"
-      ],
-      "related_claims": [
-        "C-3403"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1028",
-      "ref": "N-1028",
+      "@id": "N-571",
+      "ref": "N-571",
       "name": "Usha Vance",
-      "type": "investigation_target",
+      "type": "person",
       "description": "Referenced in Erika Kirk op-ed (A-2348) as \"second lady\" and as source of \"15 minutes\" analogy.",
       "related_artifacts": [
         "A-2348.1"
@@ -579,197 +554,6 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-8",
-      "ref": "N-8",
-      "name": "Melody Hall",
-      "type": "person",
-      "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
-      "related_artifacts": [
-        "A-2345.1",
-        "A-2348.1"
-      ],
-      "related_claims": [
-        "C-3398",
-        "C-3404",
-        "C-3405"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-9",
-      "ref": "N-9",
-      "name": "Holly Chalmers",
-      "type": "person",
-      "description": "Publisher of Blake Neff profile article (A-2347).",
-      "related_artifacts": [
-        "A-2347.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-10",
-      "ref": "N-10",
-      "name": "Kenneth Brining",
-      "type": "person",
-      "description": "Named by Neff (A-2347) as having reduced involvement with Owens around 2024; subject of op-ed publisher critique (A-2348).",
-      "related_artifacts": [
-        "A-2347.1",
-        "A-2348.1"
-      ],
-      "related_claims": [
-        "C-3396"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-11",
-      "ref": "N-11",
-      "name": "Danny Philip",
-      "type": "person",
-      "description": "Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-12",
-      "ref": "N-12",
-      "name": "Charmaine",
-      "type": "person",
-      "description": "Referenced as terming Israeli officials on the September 9 Zoom call.",
-      "related_artifacts": [
-        "A-2350.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-13",
-      "ref": "N-13",
-      "name": "Debbie",
-      "type": "person",
-      "description": "Named by viewer comment (A-2350.3) in connection with fireworks and Erika's pantsuit.",
-      "related_artifacts": [
-        "A-2350.3"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-14",
-      "ref": "N-14",
-      "name": "Victor Marx's son",
-      "type": "person",
-      "description": "Referenced by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-15",
-      "ref": "N-15",
-      "name": "Victor Marx's daughter",
-      "type": "person",
-      "description": "Referenced as the office to which the Zoom-call conversation was delivered.",
-      "related_artifacts": [
-        "A-2350.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
-      "name": "Frank Turek",
-      "type": "person",
-      "description": "Family referenced via Usha Vance in Erika op-ed (A-2348).",
-      "related_artifacts": [
-        "A-2348.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-18",
-      "ref": "N-18",
-      "name": "Amir Safari",
-      "type": "person",
-      "description": "Referenced by viewer comment (A-2350.5) as involved in \"Can You Hear Me Now?\" documentary; prior-episode context referenced by host.",
-      "related_artifacts": [
-        "A-2350.5"
-      ],
-      "related_claims": [
-        "C-3405"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-19",
-      "ref": "N-19",
-      "name": "Corey Kennedy",
-      "type": "person",
-      "description": "Referenced by host as Salem Media executive tied to early post-death filings.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
     },
     {
       "@type": "Person",
@@ -798,16 +582,14 @@
       "anchored_artifacts": [
         "A-2347.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other \"members\" present.",
       "mentions_person_refs": [
         "N-1",
-        "N-4",
-        "N-9"
+        "N-224",
+        "N-3"
       ]
     },
     {
@@ -819,16 +601,13 @@
       "anchored_artifacts": [
         "A-2347.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.",
       "mentions_person_refs": [
-        "N-1",
-        "N-4",
-        "N-9"
+        "N-224",
+        "N-3"
       ]
     },
     {
@@ -840,15 +619,13 @@
       "anchored_artifacts": [
         "A-2347.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.",
       "mentions_person_refs": [
-        "N-4",
-        "N-9"
+        "N-224",
+        "N-3"
       ]
     },
     {
@@ -861,15 +638,14 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-1028"
+        "N-1000"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.",
       "mentions_person_refs": [
-        "N-4",
-        "N-9",
-        "N-10"
+        "N-224",
+        "N-3"
       ]
     },
     {
@@ -881,14 +657,13 @@
       "anchored_artifacts": [
         "A-2346.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:48",
       "investigative_direction": "Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.",
       "mentions_person_refs": [
-        "N-4"
+        "N-224",
+        "N-3"
       ]
     },
     {
@@ -905,8 +680,7 @@
       "claim_timestamp": "00:40:40",
       "investigative_direction": "Locate the op-ed in NYT archives; verify publication date, paywall status, and full text directly.",
       "mentions_person_refs": [
-        "N-2",
-        "N-8"
+        "N-2"
       ]
     },
     {
@@ -918,16 +692,14 @@
       "anchored_artifacts": [
         "A-2348.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:25",
       "investigative_direction": "Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.",
       "mentions_person_refs": [
-        "N-1",
         "N-2",
-        "N-16"
+        "N-4",
+        "N-571"
       ]
     },
     {
@@ -939,15 +711,14 @@
       "anchored_artifacts": [
         "A-2348.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:25",
       "investigative_direction": "Confirm the quoted analogy in the op-ed directly.",
       "mentions_person_refs": [
         "N-2",
-        "N-16"
+        "N-4",
+        "N-571"
       ]
     },
     {
@@ -977,9 +748,7 @@
       "anchored_artifacts": [
         "A-2348.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:27",
       "investigative_direction": "Confirm the closing lines directly in the op-ed; identify whether the op-ed identifies the \"dear friend\" by name.",
@@ -996,15 +765,13 @@
       "anchored_artifacts": [
         "A-2349.1"
       ],
-      "related_nodes": [
-        "N-1028"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:28",
       "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue.",
       "mentions_person_refs": [
-        "N-5",
-        "N-6"
+        "N-56",
+        "N-3"
       ]
     },
     {
@@ -1021,8 +788,7 @@
       "claim_timestamp": "00:42:13",
       "investigative_direction": "Identify the original episode and date of the clip; verify the exact wording.",
       "mentions_person_refs": [
-        "N-1",
-        "N-8"
+        "N-1"
       ]
     },
     {
@@ -1039,8 +805,7 @@
       "claim_timestamp": "00:56:42",
       "investigative_direction": "Verify the documentary's existence via official Salem Media and \"Waterstone\" press releases; confirm the title, release date, and the existence of any unreleased interview footage.",
       "mentions_person_refs": [
-        "N-1",
-        "N-18"
+        "N-1"
       ]
     }
   ],

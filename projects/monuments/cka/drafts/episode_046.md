@@ -469,7 +469,7 @@ Claim Timestamp: 00:43:28
 Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way" or "called out when they're lying."
 
 Anchored Artifacts: A-1537.1
-Mentions: N-42, N-133, N-135, N-349, N-350
+Mentions: N-86, N-133, N-135, N-349, N-350
 
 
 Investigative Direction: Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.

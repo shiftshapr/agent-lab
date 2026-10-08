@@ -288,7 +288,7 @@ Canadian subject of prior Owens research whose family is in the piping/valve bus
 Node Type: Person
 Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.
 
-*Related: A-1111.1, C-1186*
+*Related: A-1115.1, C-1192*
 
 
 
@@ -564,7 +564,7 @@ Claim Timestamp: 00:06:54
 Claim: A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Anchored Artifacts: A-1111.1
-Mentions: N-69, N-115, N-116, N-117
+Mentions: N-69, N-115
 Related Nodes: N-1077, N-1116, N-1127
 Confidence: medium
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
@@ -644,7 +644,7 @@ Claim Timestamp: 00:40:35
 Claim: Benjamin Netanyahu issued a second video statement denying that Israel had any role in Charlie Kirk's murder and quoted from a letter he attributes to Kirk.
 Transcript Snippet: somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.
 Anchored Artifacts: A-1115.1
-Mentions: N-65
+Mentions: N-65, N-116
 Related Nodes: N-1091, N-1121
 Confidence: high
 Investigative Direction: Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.

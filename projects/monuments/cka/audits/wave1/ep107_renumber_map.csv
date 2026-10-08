@@ -1,0 +1,50 @@
+kind,old_id,new_id,note
+claim,C-1000,C-3702,
+claim,C-1001,C-3703,
+claim,C-1002,C-3704,
+claim,C-1003,C-3705,
+claim,C-1004,C-3706,
+claim,C-1005,C-3707,
+claim,C-1006,C-3708,
+claim,C-1007,C-3709,
+claim,C-1008,C-3710,
+claim,C-1009,C-3711,
+claim,C-1010,C-3712,
+claim,C-1011,C-3713,
+claim,C-1012,C-3714,
+claim,C-1013,C-3715,
+claim,C-1014,C-3716,
+artifact_family,A-1000,A-2505,
+artifact_family,A-1001,A-2506,
+artifact_family,A-1002,A-2507,
+artifact_family,A-1003,A-2508,
+artifact_family,A-1004,A-2509,
+artifact_family,A-1005,A-2510,
+artifact_family,A-1006,A-2511,A-2511 kept as family header only (no sub-items in draft)
+artifact_family,A-1007,A-2512,
+artifact_anchor,ART_1.1,A-2505.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_2.1,A-2506.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_3.1,A-2507.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_4.1,A-2508.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_5.1,A-2509.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_5.2,A-2509.2,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_6.1,A-2510.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+artifact_anchor,ART_8.1,A-2512.1,draft cited placeholder anchors ART_n.m; sub-item written from transcript
+node,N-1017,N-536,Victor Marx
+node,N-1018,N-569,Eileen Marx
+node,N-1019,N-570,Corby Hall
+node,N-8,N-573,Melody Hall
+node,N-9,N-574,Holly Chalmers
+node,N-14,N-575,Victor Marx's son
+node,N-15,N-576,Victor Marx's daughter
+node,N-18,N-577,Amir Safari
+node,N-3 (stepfather),N-578,Gloyce Dean Kennedy
+node,N-23,N-1697,Early-Death-Announcement Timeline Verification
+node,N-24,N-2384,"45,000 Rescue Claim Discrepancy"
+node,N-26,N-1676,"Victor Marx IDF 50,000 Guns Request"
+node_register_row_dropped,N-4,,JD Vance: not cited by any ep107 claim
+node_register_row_dropped,N-10,,Kenneth Brining: not cited by any ep107 claim
+node_register_row_dropped,N-12,,Charmaine: not cited by any ep107 claim
+node_register_row_dropped,N-13,,Debbie: not cited by any ep107 claim
+node_register_row_dropped,N-19,,Corey Kennedy: not cited by any ep107 claim
+node_register_row_dropped,N-1207,,Mike Mitchell Public Record Anomaly: not cited by any ep107 claim

@@ -635,7 +635,7 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-2, N-70
+Mentions: N-2
 
 Related Nodes: N-1325
 
@@ -665,7 +665,7 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: "Wolves and Finance" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
-Mentions: N-1, N-2, N-70, N-412
+Mentions: N-1, N-2, N-412
 
 Related Nodes: N-1325
 

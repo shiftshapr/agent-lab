@@ -450,7 +450,7 @@ Claim Timestamp: 00:17:23
 Claim: The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
 
 Anchored Artifacts: A-1619.1
-Mentions: N-37, N-70
+Mentions: N-37
 Related Nodes: N-1480
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 

@@ -257,7 +257,7 @@ Cited by Kimmel.
 Node Type: Person
 Author of 'Inside the American Education System' recommended by host.
 
-*Related: A-1155.1, C-1267*
+*Related: C-1277*
 
 
 
@@ -268,7 +268,7 @@ Author of 'Inside the American Education System' recommended by host.
 Node Type: Person
 Credited by host with establishing kindergarten in US (1848 communists).
 
-*Related: A-1155.1, C-1267*
+*Related: C-1277*
 
 
 
@@ -636,7 +636,7 @@ Claim Timestamp: 00:12:01
 Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
-Mentions: N-1, N-3, N-5, N-59, N-80, N-99, N-149, N-154, N-155, N-156, N-158, N-160, N-161, N-162, N-163, N-164
+Mentions: N-1, N-3, N-5, N-59, N-80, N-99, N-149, N-156, N-158, N-160, N-161, N-162, N-163, N-164
 Confidence: high
 Investigative Direction: Verify text chain authenticity and timestamp; cross-check flight records.
 
@@ -778,7 +778,7 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Mentions: N-3
+Mentions: N-3, N-154, N-155
 Related Nodes: N-1179, N-1181, N-1193, N-1194
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
