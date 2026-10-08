@@ -1,0 +1,114 @@
+{
+  "version": "2.0.0",
+  "dateModified": "2026-10-07",
+  "namespace": "https://brc222.org/schema#",
+  "about": "BRC-222 relationship vocabulary. The single source of truth: brc222.org's schema and page are generated from it (tools/build-vocabulary.py), and the Bridge Registry and Canopi vendor a copy. Each entry is an inverse pair, or a symmetric relationship that is its own inverse (symmetric: true, no inverse fields). 'A <name> B' and 'B <inverse> A' are the same bridge; it is stored in the canonical form, the entry's name, with the claim or described thing as the source. A symmetric relationship reads the same from either end. Aliases are accepted on input only (matching ignores case and punctuation) and are never output.",
+  "relationships": [
+    {
+      "name": "cites",
+      "label": "cites",
+      "definition": "The source quotes or references the target.",
+      "inverse": "isCitedBy",
+      "inverseLabel": "cited by",
+      "inverseDefinition": "The source is quoted or referenced by the target.",
+      "iri": "http://purl.org/spar/cito/cites",
+      "inverseIri": "http://purl.org/spar/cito/isCitedBy",
+      "aliases": [],
+      "inverseAliases": [
+        "citedBy"
+      ]
+    },
+    {
+      "name": "isSupportedBy",
+      "label": "supported by",
+      "definition": "The target gives evidence or argument in favour of the source, which is typically a claim. The target need not be independent of it.",
+      "inverse": "supports",
+      "inverseLabel": "supports",
+      "inverseDefinition": "The source gives evidence or argument in favour of the target. The source need not be independent of it.",
+      "iri": "http://purl.org/spar/cito/isSupportedBy",
+      "inverseIri": "http://purl.org/spar/cito/supports",
+      "aliases": [
+        "supportedBy"
+      ],
+      "inverseAliases": []
+    },
+    {
+      "name": "isCorroboratedBy",
+      "label": "corroborated by",
+      "definition": "The target independently confirms the source: a separate account, dataset or investigation reaching the same result.",
+      "inverse": "corroborates",
+      "inverseLabel": "corroborates",
+      "inverseDefinition": "The source independently confirms the target: a separate account, dataset or investigation reaching the same result.",
+      "iri": "https://brc222.org/schema#isCorroboratedBy",
+      "inverseIri": "https://brc222.org/schema#corroborates",
+      "aliases": [
+        "corroboratedBy"
+      ],
+      "inverseAliases": []
+    },
+    {
+      "name": "contradicts",
+      "symmetric": true,
+      "label": "contradicts",
+      "definition": "The source and the target are in tension, or inconsistent with each other. It does not say which of the two is right. It reads the same from either end.",
+      "iri": "https://brc222.org/schema#contradicts",
+      "aliases": []
+    },
+    {
+      "name": "isRefutedBy",
+      "label": "refuted by",
+      "definition": "The target shows the source to be false, with evidence.",
+      "inverse": "refutes",
+      "inverseLabel": "refutes",
+      "inverseDefinition": "The source shows the target to be false, with evidence.",
+      "iri": "http://purl.org/spar/cito/isRefutedBy",
+      "inverseIri": "http://purl.org/spar/cito/refutes",
+      "aliases": [
+        "refutedBy"
+      ],
+      "inverseAliases": []
+    },
+    {
+      "name": "isQualifiedBy",
+      "label": "qualified by",
+      "definition": "The target limits, conditions or distinguishes the source: it holds, but not as broadly or as simply as stated.",
+      "inverse": "qualifies",
+      "inverseLabel": "qualifies",
+      "inverseDefinition": "The source limits, conditions or distinguishes the target: it holds, but not as broadly or as simply as stated.",
+      "iri": "http://purl.org/spar/cito/isQualifiedBy",
+      "inverseIri": "http://purl.org/spar/cito/qualifies",
+      "aliases": [
+        "qualifiedBy"
+      ],
+      "inverseAliases": []
+    },
+    {
+      "name": "extends",
+      "label": "extends",
+      "definition": "The source builds on the target, taking its idea, method or finding further.",
+      "inverse": "isExtendedBy",
+      "inverseLabel": "extended by",
+      "inverseDefinition": "The source's idea, method or finding is taken further by the target.",
+      "iri": "http://purl.org/spar/cito/extends",
+      "inverseIri": "http://purl.org/spar/cito/isExtendedBy",
+      "aliases": [],
+      "inverseAliases": [
+        "extendedBy"
+      ]
+    },
+    {
+      "name": "isMemberOf",
+      "label": "is a member of",
+      "definition": "The source belongs to the collection, series, set or group the target describes.",
+      "inverse": "hasMember",
+      "inverseLabel": "has member",
+      "inverseDefinition": "The source is a collection, series, set or group that includes the target.",
+      "iri": "https://brc222.org/schema#isMemberOf",
+      "inverseIri": "https://brc222.org/schema#hasMember",
+      "aliases": [
+        "memberOf"
+      ],
+      "inverseAliases": []
+    }
+  ]
+}
