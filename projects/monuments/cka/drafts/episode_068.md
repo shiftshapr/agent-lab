@@ -229,7 +229,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1731.1, A-1731.2, C-2290, C-2291*
 
-**N-877** Helmet Becker (transcript spelling; see Optional Flags)
+**N-877** Helmut Becker
 German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.
 Evidence Count: 1
 Claim Count: 1

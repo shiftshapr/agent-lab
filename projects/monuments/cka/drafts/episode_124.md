@@ -212,7 +212,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:14:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 

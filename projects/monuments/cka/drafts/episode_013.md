@@ -330,7 +330,7 @@ Investigative Pressure: Medium-High (involves routing question)
 
 ---
 
-**N-193** Judge Tony F. Graph Jr.
+**N-193** Judge Tony F. Graf Jr.
 Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.
 
 Evidence Count: 1

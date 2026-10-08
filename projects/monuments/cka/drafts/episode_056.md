@@ -267,7 +267,7 @@ Investigative Pressure: Medium
 
 *Related: A-1624.1, C-2087, N-713, N-1482*
 
-**N-713** Paul Hascgard (Habsgard)
+**N-713** Paul Havsgaard
 
 Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.
 
@@ -622,7 +622,7 @@ Investigative Direction: Verify conflict onset date via public news records; cro
 - **A-1624.1** – *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
 - **C-2094** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
 - **N-483** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
-- **N-713** Paul Hascgard (Habsgard) – *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
+- **N-713** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
 - **N-710** Paul Valli – *Name uncertainty*: Host spells name both as "Vali" and "Valerie"; flag for verification.
 
 ---

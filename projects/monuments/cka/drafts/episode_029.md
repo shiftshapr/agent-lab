@@ -260,7 +260,7 @@ Investigative Pressure: Low
 
 *Related: A-1367.1, C-1655*
 
-**N-365** Shawnie Ray Kirkup / Kirkhoff
+**N-365** Shauni Kerkhoff
 
 Person identified by Steve Baker (as "Kirkup") and by CIA spokesperson Liz Lyons (as "Kirkhoff") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.
 

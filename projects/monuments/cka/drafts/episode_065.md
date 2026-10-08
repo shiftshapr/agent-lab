@@ -261,7 +261,7 @@ Description: Referenced by host. Claims Auschwitz Museum revised story about Jos
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-1525, N-1536*
+*Related: N-1525, N-1536, N-630*
 
 ---
 
