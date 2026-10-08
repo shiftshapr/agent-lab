@@ -454,13 +454,27 @@ Investigative Direction: Verify NYT byline, interview location, and publication 
 
 ---
 
+**C-3660** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:40:07
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...ernet sloohs aren't playing around. the DCIA, the decentralized intelligence agency, is moving quicker. And they found that, yeah, that's what Lor's background is in acting and for ro...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+
 ## 6. Meme Register
 
 **M-12** (meme) Decentralized Intelligence Agency
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:40:07
 Speaker: N-3
 Quote: the DCIA, the decentralized intelligence agency, is moving quicker.
 Context: Host credits DCIA crowd research on Lori Cardoza Moore background.

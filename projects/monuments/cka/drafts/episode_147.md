@@ -251,6 +251,17 @@ Confidence Level: High
 
 ---
 
+**A-2492** CIA / DIA Merch Plug Bundle
+
+**A-2492.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 01:03:55
+Transcript Snippet: ...e on the website. Also, while you're there, buy a CIA hat. It's great. I love when I see people out and they have the CIA hat out. Um and it is we know actua...
+Confidence: medium
+*Related: C-3668, N-3*
+
+---
+
+
 ## IV. Node Register
 
 ### People
@@ -1036,6 +1047,61 @@ Anchored Artifacts: A-2338
 Related Nodes: N-1212, N-1213, N-2222
 
 Investigative Direction: Cross-reference against his prior and subsequent statements; verify which SUV he is referring to.
+
+---
+
+**C-3667** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 01:03:55
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...he CIA hat out. Um and it is we know actually the decentralized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3668** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 01:03:55
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...e on the website. Also, while you're there, buy a CIA hat. It's great. I love when I see people out and they have the CIA hat out. Um and it is we know actua...
+Anchored Artifacts: A-2492.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
+**C-3669** Host says DIA / crowd intel has no nucleus
+
+Claim Timestamp: 01:03:55
+Claim: The host claims the decentralized / crowd intelligence effort has "no nucleus," emphasizing distributed tip-gathering rather than a central cell.
+Transcript Snippet: ...ized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully discussing when we should drop cert...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Keep as DIA structure metaphor claim alongside M-12 brand cites.
+
+---
+
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:03:55
+Speaker: N-3
+Quote: ...he CIA hat out. Um and it is we know actually the decentralized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 147).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
 
 ---
 

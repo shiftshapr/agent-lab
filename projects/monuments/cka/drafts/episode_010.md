@@ -154,6 +154,17 @@ Uncertainty: Essay referenced verbally with word count but not displayed in epis
 
 ---
 
+**A-2486** CIA / DIA Merch Plug Bundle
+
+**A-2486.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:45:24
+Transcript Snippet: ...vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported by Laura Loomer. Um, bey...
+Confidence: medium
+*Related: C-3642, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -739,6 +750,20 @@ Uncertainty: Claim not directly artifact-anchored within this episode; tweets an
 Investigative Direction: Obtain timestamped tweet records from Netanyahu and the US President account on September 10, 2025; review the May letter and Netanyahu's on-air characterizations.
 
 ---
+
+**C-3642** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:45:24
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported by Laura Loomer. Um, bey...
+Anchored Artifacts: A-2486.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## 6. Meme Register
 

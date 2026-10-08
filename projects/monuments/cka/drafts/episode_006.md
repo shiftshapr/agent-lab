@@ -203,6 +203,17 @@ Confidence: medium
 
 ---
 
+**A-2483** CIA / DIA Merch Plug Bundle
+
+**A-2483.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:52:42
+Transcript Snippet: ...Buy yourself this. This is pretty bomb. Yep. Our CIA line. This is the Canis Intelligence Agency. Some people think that it actually says like CIA, t...
+Confidence: medium
+*Related: C-3638, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -948,7 +959,48 @@ Investigative Direction: Locate the specific Netanyahu clip and verify exact wor
 
 ---
 
+**C-3637** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:52:48
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...people think that it actually says like CIA, the Decentralized Intelligent Agency. I love it. Our products are great. Uh, and that's way that you can just show support and s...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3638** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:52:42
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...Buy yourself this. This is pretty bomb. Yep. Our CIA line. This is the Canis Intelligence Agency. Some people think that it actually says like CIA, t...
+Anchored Artifacts: A-2483.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
+
 ## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:52:48
+Speaker: N-3
+Quote: ...people think that it actually says like CIA, the Decentralized Intelligent Agency. I love it. Our products are great. Uh, and that's way that you can just show support and s...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 6).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
 
 **M-3** (meme) Trust the Science
 

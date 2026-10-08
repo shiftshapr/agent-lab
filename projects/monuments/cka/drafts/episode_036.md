@@ -364,3 +364,17 @@ Investigative Direction: Obtain full speech transcript and video; verify exact d
 
 ---
 
+
+**C-3650** Host invokes decentralized intelligence (near-DIA framing)
+
+Claim Timestamp: 00:51:14
+Claim: The host uses near-DIA wording ("decentralized intelligence") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat.
+Transcript Snippet: ...cause that's what it's going to take. We have the decentralized intelligence. Um, Adra writes, "Thank you for not giving up and showing no mercy to the elite. We support you. T...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+

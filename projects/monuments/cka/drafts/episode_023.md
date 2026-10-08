@@ -985,6 +985,20 @@ Confidence: high
 
 ---
 
+**C-3647** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:02:30
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...ized intelligence agency, as we have said, is the decentralized intelligence agency. We must decentralize ourselves to plug out of this utterly demonic system. Anyway, what happened y...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+
 ## Final Rule Applied
 
 Where host assertions lacked a displayed documentary anchor (e.g., Tyler Bowyer biography, framing premises of foreign-actor involvement and "hostile takeover," the alleged September 8 Israeli Google search), they were preserved on relevant nodes as investigative pressure but were not inscribed as artifact-backed claims, per the Claim Admission Test. Where the host referenced an artifact in her possession without showing it (Mikey McCoy promotion email, Netanyahu funding offer, Kolb confirmation), the Optional Flag "Artifact verbally referenced but not shown" was applied so the gap is preserved in the record rather than collapsed into rhetoric.

@@ -34,6 +34,20 @@
 
 ## 6. Meme Register
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:51:15
+Speaker: N-3
+Quote: ...ellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that because there is no nucleus that can be hit. Everyone's working o...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 149).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
+
 **M-25** (meme) Iron Sharpens Iron
 
 ### Occurrence 1
@@ -324,6 +338,17 @@ Confidence Level: Low
 
 ---
 
+**A-2493** CIA / DIA Merch Plug Bundle
+
+**A-2493.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:51:15
+Transcript Snippet: ...bsite. Of course, one of our bests sellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that bec...
+Confidence: medium
+*Related: C-3671, N-3*
+
+---
+
+
 ## IV. Node Register
 
 
@@ -347,4 +372,46 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: C-3543, C-3544, C-3545, A-2426.1*
+
+
+## V. Claim Register
+
+**C-3670** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:51:15
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...ellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that because there is no nucleus that can be hit. Everyone's working o...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3671** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:51:15
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...bsite. Of course, one of our bests sellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that bec...
+Anchored Artifacts: A-2493.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
+**C-3672** Host says DIA / crowd intel has no nucleus
+
+Claim Timestamp: 00:51:15
+Claim: The host claims the decentralized / crowd intelligence effort has "no nucleus," emphasizing distributed tip-gathering rather than a central cell.
+Transcript Snippet: ...There's a lot of comfort in that because there is no nucleus that can be hit. Everyone's working on it. Everyone's contributing. And there's never been an inves...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Keep as DIA structure metaphor claim alongside M-12 brand cites.
+
+---
 

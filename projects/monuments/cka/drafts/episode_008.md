@@ -154,6 +154,17 @@ Confidence: medium
 
 ---
 
+**A-2485** Trump CIA Hat Joke Bundle
+
+**A-2485.1** On-air host joke picturing Trump signed up to candace.com and "wearing um a CIA hat and watching" (verbal reference to the show's CIA hat; no merch shown or sold in this beat).
+Video Timestamp: 00:47:35
+Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
+Confidence: medium
+*Related: C-3641, N-3, N-5*
+
+---
+
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -916,6 +927,20 @@ Confidence: low
 Investigative Direction: Identify and interview the prior vest provider; review any supplier/contract documentation.
 
 ---
+
+**C-3641** Host jokes that Trump may be watching the show in a CIA hat
+
+Claim Timestamp: 00:47:35
+Claim: Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is "wearing um a CIA hat and watching," a passing reference to the show's CIA hat rather than a merch plug.
+Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
+Anchored Artifacts: A-2485.1
+Mentions: N-3, N-5
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Preserve as joke reference to CIA hat brand; no factual claim that Trump owns or wears the hat.
+
+---
+
 
 ## 6. Meme Register
 

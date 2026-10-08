@@ -23,6 +23,20 @@ The episode's structural importance is twofold: it converts three separate third
 
 ## 6. Meme Register
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:42:45
+Speaker: N-3
+Quote: ..., you guys were strong. So I want to say that the decentralized intelligence agency has brought us to this moment. This was not the work of me. It was the work of everybody....
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 70).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
+
 **M-40** (meme) Truman Show
 
 ### Occurrence 1
@@ -350,6 +364,20 @@ Claim: The host describes an active GoFundMe campaign titled "Purge Fallout Fund
 Anchored Artifacts: A-1749.1
 Related Nodes: N-1563
 Investigative Direction: Verify the GoFundMe campaign directly; identify the eight named beneficiaries; confirm termination circumstances for each.
+
+---
+
+
+**C-3662** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:42:45
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ..., you guys were strong. So I want to say that the decentralized intelligence agency has brought us to this moment. This was not the work of me. It was the work of everybody....
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
 
 ---
 

@@ -468,3 +468,17 @@ Investigative Direction: Establish chain of custody for the photographs and veri
 
 ---
 
+
+**C-3654** Host elevates mommy sleuth crowd investigators
+
+Claim Timestamp: 00:31:17
+Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Transcript Snippet: ...vestigators When I say investigators, I mean like mommy sleuths and investigators on the ground who have been looking into this story and not accepting the feds fl...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+

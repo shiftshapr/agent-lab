@@ -542,6 +542,20 @@ Investigative Direction: Verify PEACE 2025 aircraft attendance records; independ
 
 ---
 
+**C-3646** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:14:07
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...as going through the DCIA tips box, you know, our decentralized intelligence agency tips box. And I found a very interesting email. I'm going to be very careful here to make sure I do...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+
 ## 6. Meme Register
 
 **M-30** (meme) Nothing to See Here

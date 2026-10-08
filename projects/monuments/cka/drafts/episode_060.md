@@ -399,3 +399,17 @@ Investigative Direction: Locate the full Coleman confrontation clip and the refe
 
 ---
 
+
+**C-3659** Host reads viewer comment praising mommy sleuths
+
+Claim Timestamp: 01:20:45
+Claim: The host reads on air a comment from viewer Cody saying people are waking up to the "fed slop" and "the mommy sleuths are sleuthing," framing crowd investigators as active; the line is the viewer's, not the host's own statement.
+Transcript Snippet: ...ople are waking up and noticing the fed slop. The mommy sleuths are sleuthing. Candace is going max. Baron is spitting truth. God is on our side. We a...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as viewer comment read on air; cross-link M-16 Mommy Sleuth meme when register present.
+
+---
+

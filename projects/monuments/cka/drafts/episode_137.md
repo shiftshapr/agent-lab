@@ -195,6 +195,17 @@ Confidence Level: High (read-aloud)
 
 ---
 
+**A-2491** CIA / DIA Merch Plug Bundle
+
+**A-2491.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:52:11
+Transcript Snippet: ...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...
+Confidence: medium
+*Related: C-3666, N-3*
+
+---
+
+
 ## IV. Node Register
 
 **N-1207** Mike Mitchell Public Record Anomaly
@@ -560,6 +571,33 @@ Related Nodes:
 Investigative Direction: Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes.
 
 ---
+
+**C-3665** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:52:11
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...lligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my favorite. The hunter green one is the one that I wear around to...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3666** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:52:11
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...
+Anchored Artifacts: A-2491.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## 6. Meme Register
 

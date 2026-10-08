@@ -571,6 +571,33 @@ Investigative Direction: Verify the exact date of Shapiro's hiring through Breit
 
 ---
 
+**C-3655** Host invokes decentralized intelligence (near-DIA framing)
+
+Claim Timestamp: 00:58:32
+Claim: The host uses near-DIA wording ("decentralized intelligence") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat.
+Transcript Snippet: ...for this department and I can see this. All of us decentralizing intelligence and me just being willing to share what you guys are sharing with me is what is solving the mystery...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3656** Host elevates mommy sleuth crowd investigators
+
+Claim Timestamp: 00:58:32
+Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Transcript Snippet: ...this. Here's a text message chain. Um, here I'm a mommy sleuth and I have access to this. Oh, I work for this department and I can see this. All of us decentraliz...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+
+
 ## 6. Meme Register
 
 **M-35** (meme) Rabbit Hole

@@ -28,6 +28,20 @@ Structurally, the episode is a connector episode — it does not introduce a new
 
 ## 6. Meme Register
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:41:12
+Speaker: N-3
+Quote: ...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, "We needed a hoodie that says go Max." The get me out of here write...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 37).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+
+
 **M-51** (meme) Cringe
 
 ### Occurrence 1
@@ -635,6 +649,20 @@ Mentions: N-3, N-442
 Related Nodes: N-1351, N-1352
 
 Investigative Direction: Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.
+
+---
+
+
+**C-3651** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:41:12
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, "We needed a hoodie that says go Max." The get me out of here write...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
 
 ---
 

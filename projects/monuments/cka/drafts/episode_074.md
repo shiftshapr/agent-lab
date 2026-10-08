@@ -796,3 +796,17 @@ Investigative Direction: Pull the hearing transcript and video to confirm Bondi'
 
 ---
 
+
+**C-3663** Host elevates mommy sleuth crowd investigators
+
+Claim Timestamp: 00:37:36
+Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Transcript Snippet: ...body knows. So, uh well, yeah, anyway, one of our mommy sleuths did find Mikey McCoy the amazing the marvelous Mikey on November 8th giving an interview to Real Am...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+

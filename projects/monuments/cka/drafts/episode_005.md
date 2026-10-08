@@ -133,6 +133,17 @@ Confidence: low
 
 ---
 
+**A-2482** CIA / DIA Merch Plug Bundle
+
+**A-2482.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 00:59:03
+Transcript Snippet: ...:03] Uh, just to be clear, the CIA stands for the Candace Intelligence Agency, which you see on the back of that obviously because we consider ourselves to be the decentralized...
+Confidence: medium
+*Related: C-3636, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -801,6 +812,33 @@ Confidence: high
 Investigative Direction: Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.
 
 ---
+
+**C-3635** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:59:03
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...obviously because we consider ourselves to be the decentralized intelligent agency because we get tips from you guys. Um, and we're willing to research and I wish I had a big...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+**C-3636** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 00:59:03
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...:03] Uh, just to be clear, the CIA stands for the Candace Intelligence Agency, which you see on the back of that obviously because we consider ourselves to be the decentralized...
+Anchored Artifacts: A-2482.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
+
+---
+
 
 ## 6. Meme Register
 

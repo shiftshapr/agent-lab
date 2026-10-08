@@ -461,3 +461,34 @@ Investigative Direction: Verify tipster claim via Google Earth / aerial imagery 
 
 ---
 
+
+
+**C-3677** Host identifies show community as Decentralized Intelligence Agency
+
+Claim Timestamp: 00:54:04
+Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Transcript Snippet: ...hat, buy a t-shirt, buy a sweatshirt to join the decentralized intelligence agency. Um, that one's my favorite. Conspiracy girly. It's so cute. You can buy this mug. The MSADA is lis...
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Confidence: high
+Investigative Direction: Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.
+
+---
+
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:54:04
+Speaker: N-3
+Quote: ...hat, buy a t-shirt, buy a sweatshirt to join the decentralized intelligence agency. Um, that one's my favorite. Conspiracy girly. It's so cute. You can buy this mug. The MSADA is lis...
+Context: DIA / DCIA brand line from corrected transcript (CKA seq 156).
+Tags: tips_network, brand_joke, transcript_backfill
+Confidence: high
+
+---
+

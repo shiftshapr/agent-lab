@@ -164,6 +164,17 @@ Confidence Level: Low (anonymous source)
 
 ---
 
+**A-2490** CIA / DIA Merch Plug Bundle
+
+**A-2490.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).
+Video Timestamp: 01:00:06
+Transcript Snippet: ...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...
+Confidence: medium
+*Related: C-3664, N-3*
+
+---
+
+
 ## 4. Node Register
 
 **N-1207** Mike Mitchell Public Record Anomaly
@@ -552,6 +563,20 @@ Anchored Artifacts: A-2188.1
 Related Nodes: N-1210
 
 Investigative Direction: Independent verification against public records or alumni databases.
+
+---
+
+
+**C-3664** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+
+Claim Timestamp: 01:00:06
+Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Transcript Snippet: ...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...
+Anchored Artifacts: A-2490.1
+Mentions: N-3
+Related Nodes: 
+Confidence: medium
+Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
 
 ---
 
