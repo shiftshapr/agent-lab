@@ -29,7 +29,14 @@ M-74..M-84 minted, numbered densely by first introduction within the batch (`mem
 6. Family-only inscription `bundle_name` overruns fixed (20 entries).
 
 ### Companion
-Rebuilt `cka/companion/brc222-2.0.0/`: **9288 bridges** vs main 9209 (**+79**; +36 vs b558034's 9252). Edges: isMemberOf 6405 (+50 vs main), isSupportedBy 2842 (+19), isQualifiedBy 13 (+9), isCorroboratedBy 9 (+1), contradicts 19 (+0). The b558034 round added: isSupportedBy C-3764←A-2127.2 and the new claim anchors; isCorroboratedBy C-3764←C-3767; isQualifiedBy C-3126←C-3767; and the six Revises C-3771..C-3776, ruled isQualifiedBy in `config/companion_revises_rulings.json`.
+Rebuilt `cka/companion/brc222-2.0.0/`: **9288 bridges** vs main 9209 (**+79**). The total is the same as baa2ed9 (+36 vs b558034's 9252), but one edge changed type: C-3772 is now `contradicts` C-1212 instead of an isQualifiedBy Revises.
+
+Edges: isMemberOf 6405 (+50 vs main), isSupportedBy 2842 (+19), isQualifiedBy 12 (+8), isCorroboratedBy 9 (+1), contradicts 20 (+1).
+
+Revises provenance (Transit baa2ed9 G5):
+- Only C-3737..C-3740 are `transit_ruled` (confidence 1.0). The ruling behind them is real: Transit's PR 60 re-audit at 62442e7, P2-1, "pick isQualifiedBy for all 4 and suppress extends". Each of those bridges cites it in `metadata.ruling_source`.
+- The PR 62 Revises (C-3742, C-3743, C-3771, C-3773..C-3776) have no ruling. They carry the normal derived `pending_transit` status, heuristic isQualifiedBy, confidence 0.35.
+- The companion now rejects a ruling row that has no `source`.
 
 ## Resubmission after Transit FAIL at 73d663b
 Every fixes.csv row and finding is resolved in `fixes_resolution.csv`. Per-row triage (decision + reason on every row):
@@ -72,12 +79,12 @@ Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fix
   - M-12 occurrences at 00:19:05 and 00:26:05.
   - C-3764 is now anchored by A-2127.2 (ep124 01:07:02).
   - "bounty" is added to `config/dia_scan_terms.json`. The corpus re-scan adds 9 `dia_bounty_rescan` rows to `dia_gaps_triage.csv`.
-- **Viewer handles.** 17 viewer/commenter handles moved DEFER → REJECT. Real persons waiting for band capacity: **95** (112 − 17). This push adds two new DEFERs, Matt Robinson (ep124) and Gary Jabitch (ep131), for **97** in total. General Holt is a same-person DEFER for Blaine Holt and is not counted as waiting.
+- **Viewer handles.** 17 viewer/commenter handles moved DEFER → REJECT. Real persons waiting for band capacity: **95** (112 − 17). This push adds two new DEFERs, Matt Robinson (ep124) and Gary Javitch (caption: Jabitch/Jabach; ep131), for **97** in total. General Holt is a same-person DEFER for Blaine Holt and is not counted as waiting.
 - **Triage reasons.** 14 false REJECTs → KNOWN (incl. Gernot N-184, Pastor Hibbs/Hibs N-309, Danny Danny N-611, Theo Vaughn N-205). Project Looking Glass and its short form "Looking Glass" → KNOWN N-1484. The remaining org/work DEFERs are relabelled kind organization (98) / topic (29). Placeholder-timestamp KNOWNs re-checked:
   - ep80 rows → REJECT and KNOWN C-2507;
   - ep94 → KNOWN C-2773;
   - A-2121.1 timestamp set to 00:14:07.
-- **Bill Ackman.** A-2117.1 relabelled, now with Related N-66. Pledge claim C-3770 + A-2117.4 (ep124 00:06:50); Matt Robinson has no node and is DEFER "person band full, awaiting Daveed". Revises (isQualifiedBy) claims: C-3771→C-1194, C-3772→C-1212, C-3773→C-1295, C-3774→C-3324, C-3775→C-3680, C-3776→C-3696.
+- **Bill Ackman.** A-2117.1 relabelled, now with Related N-66. Pledge claim C-3770 + A-2117.4 (ep124 00:06:50); Matt Robinson has no node and is DEFER "person band full, awaiting Daveed". Revises claims (companion: isQualifiedBy, pending_transit): C-3771→C-1194, C-3773→C-1295, C-3774→C-3324, C-3775→C-3680, C-3776→C-3696. C-3772 Contradicts C-1212 on attribution (see the baa2ed9 section).
 - **Klacik and Mengele.**
   - N-687 Kimberly Klacik added to `transcript_before_graph.csv`.
   - A-1699.1 now has Related N-630.
@@ -86,8 +93,49 @@ Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fix
   - N-161 retired (`legacy-N-161`, no survivor; not reused while the person band lock is in force, pending Daveed). C-3730 and A-2519.3 keep N-1 only.
   - Canonical names cleaned: N-877 Helmut Becker, N-713 Paul Havsgaard, N-365 Shauni Kerkhoff, N-193 Judge Tony F. Graf Jr. The old spellings are kept as aliases.
   - C-3743 has a transcript snippet.
-- **Person band lock** (until Daveed rules). N-1..N-999 is full. While it is in force, retired or tombstoned ids are not reused and no person is minted at N-1000 or above (the reuse policy itself is pending with Daveed); new persons are DEFER "person band full, awaiting Daveed". This is written in `config/preflight_gates.json` (`person_band_lock`), `cka/README.md` and `docs/DAY0.md`, and is enforced by the new P1 preflight gate `person_band_lock` (2 tests).
+- **Person band lock** (until Daveed rules). N-1..N-999 is full. While it is in force, retired or tombstoned ids are not reused and no person is minted at N-1000 or above (the reuse policy itself is pending with Daveed); new persons are DEFER "person band full, awaiting Daveed". This is written in `config/preflight_gates.json` (`person_band_lock`), `cka/README.md` and `docs/DAY0.md`, and is enforced by the new P1 preflight gate `person_band_lock` (hardened after baa2ed9, see below).
 - **Wave 4 debt.** F10 (named_before_intro debt) and F4 (skeletons) are logged in `wave4_event_thing_debt.md`.
+
+## Resubmission after Transit FAIL at baa2ed9 (0 P0 / 1 P1 / 9 P2)
+Transit accepted F4 (skeletons) and F10 (named_before_intro debt) as Wave 4 debt. Every G1–G11 row has a `baa2ed9:` row in `fixes_resolution.csv`.
+
+- **G1 (P1): person_band_lock no longer fails open.**
+  - `config/person_band_snapshot.json` pins the whole band: live 607 + tombstoned 382 + reserved 10 = 999, with a sha256.
+  - The gate fails (P1) if any of these happens:
+    - a pinned tombstone or reservation is removed from `config/retired_node_ids.json` (both are append-only);
+    - an id that is not pinned live becomes a live node;
+    - a pinned live id vanishes without a tombstone;
+    - a live id changes identity (its pinned name is neither the canonical name nor an alias);
+    - the snapshot fails its integrity check, is missing, or is unreadable.
+  - For CKA a missing `person_band_lock` key, or an unreadable config, leaves the lock ON. `"enabled": false` needs `"lifted_by"` citing Daveed's ruling.
+  - The snapshot is refreshed only with `dia_preflight.py --monument cka --refresh-band-snapshot`. The refresh is append-only and refuses removals.
+  - Transit's two mutations now fail. Deleting `legacy-N-161` and minting at N-161 gives 2 × P1. Removing the key with `next_person_id` = 630 gives a P1 and a WARN. Tests:
+    - `test_person_band_lock_deleted_tombstone_and_reuse_fails`
+    - `test_cka_mutation_e_delete_tombstone_and_mint_fails`
+    - `test_person_band_lock_missing_key_is_on`
+    - `test_cka_mutation_g_remove_key_fails`
+- **G2: malformed JSON fails closed.** A config, canonical or inscription JSON file that does not parse is a clean P0 `config_unreadable`. The loaders fall back instead of raising, and any other unexpected error becomes P0 `preflight_error` instead of a traceback. Tests: `test_band_lock_malformed_config_fails_closed`, `test_malformed_config_run_reports_p0_without_traceback`.
+- **G3: reuse wording.** "Never reused" is now scoped to "while the person band lock is in force (pending Daveed)". This covers the gate messages, the reasons on `legacy-N-952`, `legacy-N-161` and `legacy-N-165`, this README, the `fixes_resolution.csv` b558034 rows dup_person_rothschild, person_hygiene_preexisting and F9 (Transit's rows 2, 9 and 19 before the baa2ed9 rows were added on top), the `nodes.json` remap_note, `preflight_gates.json`, `cka/README.md` and `docs/DAY0.md`. The prose-naming rule (a claim may name a DEFERred person with no Mentions id) is labelled temporary, until Daveed rules. Wording older than PR 62 was left as it is on main (the `load_forbidden_retired_citations` docstring, the reserved-id description, wave1 README).
+- **G4: C-3772 is now a Contradicts claim on attribution.**
+  - Timestamp: ep6 00:25:49.
+  - Label: The "bring receipts" line C-1212 attributes to Bill Aman is the PBD guest's; the guest cites Bill Ackman as having brought receipts.
+  - Snippet (verbatim): "Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room."
+  - It carries `Contradicts: C-1212` and no Revises. C-1212 is unchanged.
+- **G5:** see the Companion section above.
+- **G6: Gary's surname.** The DEFER row is now "Gary Javitch (caption: Jabitch/Jabach)". C-3767, A-2524.1, the executive summary and the N-2147 description now say "Gary Javitch (caption: Jabitch/Jabach; spelling unverified)" or give the transcript surname with that hedge. C-3768's Uncertainty says no surname is asserted. Quotes are unchanged, and the video spelling check comes before any id.
+- **G7: N-165 "Lance Robinson" retired.**
+  - It is now `legacy-N-165` with **no survivor**. Its only refs (the C-1294 Mention and the Related lines on C-1294 / A-1167.1) are the doorbell tip, which is not about Lance Twiggs, so they are dropped rather than repointed to N-84.
+  - No alias is kept, and it is not repointed to Matt Robinson.
+- **G8:** the C-1971 timestamp change (placeholder → 00:19:30, ep49 [19:30]) has a row in `draft_inscription_reconcile.csv`.
+- **G9:** M-16 ep33 occurrences are in ascending order in the inscription, matching the draft.
+- **G10:** N-84 canonical name is "Lance Twiggs", with "Lance Twigs" kept as an alias. The ep6 heading and the inscription stubs are synced. The ep120 inscription gains the N-84 stub its draft already had.
+- **G11 (drift):** recorded in `wave4_event_thing_debt.md`, not fixed:
+  - 58 claim-anchor drifts;
+  - 161 meme blocks (from PRs #54 and #56);
+  - 26 draft-only DIA meme entries;
+  - the non-verbatim M-24 ep136 quote.
+  
+  The inscriptions must be regenerated before any pack.
 
 ## Explicit non-goals
 - No Neo4j / pack / BoC deploy
@@ -104,5 +152,5 @@ Wave 3 → Wave 4 → Ties edges PR → PR 55 rebase.
 - BoC preflight: PASS
 - dia_preflight --self-test: OK
 - hostile_hard_gates: CLEAR
-- pytest scripts/: 72 passed
-- inscription orphan refs: 0; draft vs inscription Mentions/Related on claims: 0 (pre-existing residuals unchanged from main: 181 sub-artifact Related, C-1377/C-2229 anchors, 6 claim-text drifts, A-2470.1 description)
+- pytest scripts/: 86 passed
+- inscription orphan refs: 0; draft vs inscription Mentions/Related on claims: 0 (pre-existing drift unchanged from main; full list in `wave4_event_thing_debt.md`)

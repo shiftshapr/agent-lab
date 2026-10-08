@@ -81,3 +81,4 @@ episode,claim,field,inscription_before,draft_value,action
 150,C-3416,mentions_person_refs,N-1,N-1; N-133,inscription set to draft value (draft is the source of truth; pre-existing mismatch from before Wave 3)
 150,C-3417,mentions_person_refs,N-3,N-3; N-1,inscription set to draft value (draft is the source of truth; pre-existing mismatch from before Wave 3)
 150,C-3419,mentions_person_refs,N-3,N-3; N-1,inscription set to draft value (draft is the source of truth; pre-existing mismatch from before Wave 3)
+49,C-1971,claim_timestamp,00:00:00–00:00:01,00:19:30,"placeholder timestamp filled from the transcript in draft and inscription (Wave 3 commit 067953e; recorded after Transit baa2ed9 G8): ep49 [19:30] the host brings on ""Mitch"" (""this is his new name, Mitch""), the witness the claim is about; claim text, label and snippet unchanged"
