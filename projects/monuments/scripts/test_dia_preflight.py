@@ -869,3 +869,183 @@ def test_person_band_lock_clean_and_disabled(tmp_path):
     report = dp.PreflightReport("t", str(d2))
     dp.check_person_band_lock(report, d2, bad)
     assert report.findings == []
+
+
+
+# --- person_band_lock hardening (Transit baa2ed9 G1/G2) -----------------------
+
+CKA_DIR = Path(__file__).resolve().parents[1] / "cka"
+
+
+def _band_fixture(tmp_path, *, gates=None):
+    """Synthetic full band: live N-1..N-5, tombstoned N-6..N-998, reserved N-999, pinned snapshot."""
+    d = tmp_path / "band"
+    (d / "config").mkdir(parents=True)
+    (d / "canonical").mkdir(parents=True)
+    nodes = {f"N-{i}": {"canonical_name": f"Person {i}", "type": "person", "aliases": []} for i in range(1, 6)}
+    retired = {f"legacy-N-{i}": {"survives_as": None} for i in range(6, 999)}
+    (d / "canonical" / "nodes.json").write_text(json.dumps({"next_person_id": None, "nodes": nodes}))
+    (d / "config" / "retired_node_ids.json").write_text(json.dumps(
+        {"retired": retired, "reserved_baseline_ids": {"ids": ["N-999"]}}))
+    (d / "config" / "preflight_gates.json").write_text(json.dumps(
+        gates if gates is not None else {"person_band_lock": {"enabled": True, "snapshot": "config/person_band_snapshot.json"}}))
+    snap, errors = dp.build_band_snapshot(d, nodes, None)
+    assert errors == [] and snap["counts"]["total"] == 999
+    (d / "config" / "person_band_snapshot.json").write_text(json.dumps(snap))
+    return d, nodes
+
+
+def _band_report(d, nodes):
+    report = dp.PreflightReport("t", str(d))
+    dp.check_person_band_lock(report, d, nodes)
+    return report
+
+
+def _lock_p1(report):
+    return sorted(f.location for f in report.findings if f.check == "person_band_lock" and f.severity == "P1")
+
+
+def test_person_band_lock_snapshot_clean(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    assert _band_report(d, nodes).findings == []
+
+
+def test_person_band_lock_deleted_tombstone_and_reuse_fails(tmp_path):
+    """Transit baa2ed9 mutation E: delete legacy-N-161 from the ledger and mint a new person at N-161."""
+    d, nodes = _band_fixture(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    del data["retired"]["legacy-N-161"]
+    rpath.write_text(json.dumps(data))
+    nodes = dict(nodes, **{"N-161": {"canonical_name": "New Person", "type": "person"}})
+    p1 = _lock_p1(_band_report(d, nodes))
+    assert p1.count("N-161") == 2  # pinned tombstone removed + id not live in the snapshot
+
+
+def test_person_band_lock_deleted_tombstone_alone_fails(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    del data["retired"]["legacy-N-7"]
+    data["reserved_baseline_ids"]["ids"] = []
+    rpath.write_text(json.dumps(data))
+    assert _lock_p1(_band_report(d, nodes)) == ["N-7", "N-999"]
+
+
+def test_person_band_lock_missing_key_is_on(tmp_path):
+    """Transit baa2ed9 mutation G: remove the person_band_lock key and set next_person_id = 630."""
+    d, nodes = _band_fixture(tmp_path, gates={"dash_rule": {}})
+    npath = d / "canonical" / "nodes.json"
+    data = json.loads(npath.read_text())
+    data["next_person_id"] = 630
+    npath.write_text(json.dumps(data))
+    report = _band_report(d, nodes)
+    assert _lock_p1(report) == ["next_person_id"]
+    assert any(f.severity == "WARN" and f.check == "person_band_lock" for f in report.findings)
+
+
+def test_person_band_lock_disable_needs_cited_ruling(tmp_path):
+    d, nodes = _band_fixture(tmp_path, gates={"person_band_lock": {"enabled": False}})
+    nodes = dict(nodes, **{"N-1200": {"canonical_name": "High", "type": "person"}})
+    p1 = _lock_p1(_band_report(d, nodes))
+    assert "person_band_lock" in p1 and "N-1200" in p1
+    d2, nodes2 = _band_fixture(tmp_path / "lifted", gates={"person_band_lock": {"enabled": False, "lifted_by": "Daveed ruling (doc, date)"}})
+    assert _band_report(d2, nodes2).findings == []
+
+
+def test_person_band_lock_snapshot_missing_tampered_or_identity_change(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    spath = d / "config" / "person_band_snapshot.json"
+    snap = json.loads(spath.read_text())
+    snap["tombstoned"].remove("N-161")  # hand edit without a valid digest
+    spath.write_text(json.dumps(snap))
+    assert _lock_p1(_band_report(d, nodes)) == ["config/person_band_snapshot.json"]
+    spath.unlink()
+    assert _lock_p1(_band_report(d, nodes)) == ["config/person_band_snapshot.json"]
+    d2, nodes2 = _band_fixture(tmp_path / "ident")
+    nodes2 = dict(nodes2, **{"N-3": {"canonical_name": "Someone Else", "type": "person", "aliases": []}})
+    assert _lock_p1(_band_report(d2, nodes2)) == ["N-3"]
+    renamed = dict(nodes2, **{"N-3": {"canonical_name": "Person Three", "type": "person", "aliases": ["Person 3"]}})
+    assert _band_report(d2, renamed).findings == []
+
+
+def test_person_band_lock_retirement_is_append_only(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    data["retired"]["legacy-N-5"] = {"survives_as": None}
+    rpath.write_text(json.dumps(data))
+    nodes = {k: v for k, v in nodes.items() if k != "N-5"}
+    report = _band_report(d, nodes)
+    assert _lock_p1(report) == [] and [f.severity for f in report.findings] == ["P2"]  # stale snapshot
+    prev = json.loads((d / "config" / "person_band_snapshot.json").read_text())
+    snap, errors = dp.build_band_snapshot(d, nodes, prev)
+    assert errors == [] and snap["counts"] == {"live": 4, "tombstoned": 994, "reserved": 1, "total": 999}
+    del data["retired"]["legacy-N-6"]
+    rpath.write_text(json.dumps(data))
+    snap, errors = dp.build_band_snapshot(d, nodes, prev)
+    assert snap is None and any("N-6" in e for e in errors)
+
+
+def test_band_lock_malformed_config_fails_closed(tmp_path):
+    """G2: malformed preflight_gates.json / retired_node_ids.json give clean findings, never a traceback."""
+    d, nodes = _band_fixture(tmp_path)
+    (d / "config" / "preflight_gates.json").write_text("{not json")
+    (d / "config" / "retired_node_ids.json").write_text("{\"retired\": ")
+    report = _band_report(d, nodes)
+    p1 = _lock_p1(report)
+    assert "retired_node_ids.json" in p1 and p1.count("N-7") == 1  # lock stays on, pinned tombstones now missing
+    readable = dp.PreflightReport("t", str(d))
+    bad = dp.check_json_readable(readable, d)
+    assert bad == {"config/preflight_gates.json", "config/retired_node_ids.json"}
+    assert {f.severity for f in readable.findings} == {"P0"}
+
+
+def test_malformed_config_run_reports_p0_without_traceback(tmp_path):
+    root = tmp_path / "wave1_fixture"
+    dp.build_wave1_fixture(root)
+    (root / "config" / "preflight_gates.json").write_text("{broken")
+    (root / "config" / "retired_node_ids.json").write_text("[1, 2")
+    report = dp._run_fixture("test_mon_g2_pytest", root, skip_inscription=False)
+    locs = {f.location for f in report.findings if f.check == "config_unreadable" and f.severity == "P0"}
+    assert {"config/preflight_gates.json", "config/retired_node_ids.json"} <= locs
+
+
+def _cka_copy(tmp_path):
+    import shutil
+
+    d = tmp_path / "cka"
+    shutil.copytree(CKA_DIR / "config", d / "config")
+    shutil.copytree(CKA_DIR / "canonical", d / "canonical")
+    nodes = dp.load_canonical_nodes(d / "canonical" / "nodes.json")
+    return d, nodes
+
+
+def test_cka_band_lock_clean_and_snapshot_covers_999(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    snap = json.loads((d / "config" / "person_band_snapshot.json").read_text())
+    assert snap["counts"]["total"] == 999
+    assert _lock_p1(_band_report(d, nodes)) == []
+
+
+def test_cka_mutation_e_delete_tombstone_and_mint_fails(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    del data["retired"]["legacy-N-161"]
+    rpath.write_text(json.dumps(data))
+    nodes = dict(nodes, **{"N-161": {"canonical_name": "New Person", "type": "person"}})
+    assert _lock_p1(_band_report(d, nodes)).count("N-161") == 2
+
+
+def test_cka_mutation_g_remove_key_fails(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    gpath = d / "config" / "preflight_gates.json"
+    gates = json.loads(gpath.read_text())
+    del gates["person_band_lock"]
+    gpath.write_text(json.dumps(gates))
+    npath = d / "canonical" / "nodes.json"
+    data = json.loads(npath.read_text())
+    data["next_person_id"] = 630
+    npath.write_text(json.dumps(data))
+    assert _lock_p1(_band_report(d, nodes)) == ["next_person_id"]

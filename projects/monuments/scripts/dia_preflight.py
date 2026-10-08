@@ -208,6 +208,48 @@ def first_introduction_meta(
     return seen
 
 
+def read_json_file(path: Path) -> tuple[Any, str | None]:
+    """Parse a JSON file without raising. Returns (data, None) or (None, error text).
+
+    Wave 3 (Transit baa2ed9 G2): config loaders used bare json.loads, so a malformed config crashed the
+    run with a traceback. Callers fall back to a default and check_json_readable reports a clean P0.
+    """
+    try:
+        return json.loads(path.read_text(encoding="utf-8")), None
+    except (OSError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+        return None, f"{type(exc).__name__}: {exc}"
+
+
+def _json_or(path: Path, default: Any) -> Any:
+    if not path.is_file():
+        return default
+    data, err = read_json_file(path)
+    if err is not None or not isinstance(data, type(default)):
+        return default
+    return data
+
+
+def check_json_readable(report: PreflightReport, monument_dir: Path) -> set[str]:
+    """P0 config_unreadable (fail closed): a config/, canonical/ or inscription/ JSON file that does not parse.
+
+    The gates that read the file fall back to an empty default instead of crashing, so the run still
+    reports every other finding. Returns the relative paths that failed.
+    """
+    bad: set[str] = set()
+    for sub in ("config", "canonical", "inscription"):
+        d = monument_dir / sub
+        if not d.is_dir():
+            continue
+        for jp in sorted(d.glob("*.json")):
+            _data, err = read_json_file(jp)
+            if err is not None:
+                rel = f"{sub}/{jp.name}"
+                bad.add(rel)
+                report.add("P0", "config_unreadable",
+                           f"{rel}: not readable as JSON ({err}); gates that need it fail closed", rel)
+    return bad
+
+
 def load_forbidden_retired_citations(config_path: Path, active_ids: set[int]) -> set[int]:
     """
     Tombstone keys legacy-N-X document history. A tombstoned X is never reclaimed for a new
@@ -215,9 +257,7 @@ def load_forbidden_retired_citations(config_path: Path, active_ids: set[int]) ->
     same entity (survivor collapse onto the lowest id). Forbid citing N-X when X is not on the
     active register (unmapped ghost ids).
     """
-    if not config_path.is_file():
-        return set()
-    data = json.loads(config_path.read_text(encoding="utf-8"))
+    data = _json_or(config_path, {})
     forbidden: set[int] = set()
     for key, meta in (data.get("retired") or {}).items():
         m = re.match(r"legacy-N-(\d+)$", key, re.I)
@@ -230,9 +270,7 @@ def load_forbidden_retired_citations(config_path: Path, active_ids: set[int]) ->
 
 
 def load_canonical_nodes(path: Path) -> dict[str, dict[str, Any]]:
-    if not path.is_file():
-        return {}
-    data = json.loads(path.read_text(encoding="utf-8"))
+    data = _json_or(path, {})
     return dict(data.get("nodes") or {})
 
 
@@ -244,7 +282,7 @@ def load_density_baseline(monument_dir: Path) -> tuple[set[int], set[int]]:
     path = monument_dir / "config" / "preflight_ledger_baseline.json"
     if not path.is_file():
         return set(), set()
-    data = json.loads(path.read_text(encoding="utf-8"))
+    data = _json_or(path, {})
     person = {int(x) for x in data.get("person_node_ids") or []}
     topic = {int(x) for x in data.get("topic_node_ids") or []}
     return person, topic
@@ -255,7 +293,7 @@ def load_inscription_node_names(inscription_dir: Path) -> dict[int, str]:
     for jpath in sorted(inscription_dir.glob("episode_*.json")):
         if not re.match(r"episode_\d{3}\.json$", jpath.name):
             continue
-        data = json.loads(jpath.read_text(encoding="utf-8"))
+        data = _json_or(jpath, {})
         for node in data.get("nodes") or []:
             ref = node.get("@id") or node.get("ref") or ""
             m = re.match(r"N-(\d+)$", str(ref))
@@ -954,9 +992,7 @@ def grounding_keys(names: list[str]) -> tuple[set[str], set[str]]:
 
 def load_gate_config(monument_dir: Path) -> dict[str, Any]:
     path = monument_dir / "config" / "preflight_gates.json"
-    if not path.is_file():
-        return {}
-    return json.loads(path.read_text(encoding="utf-8"))
+    return _json_or(path, {})
 
 
 def transcript_segments(raw: str) -> list[tuple[int, int, str]]:
@@ -1120,7 +1156,7 @@ def check_claim_ts_past_end(
     dpath = monument_dir / "config" / "yt_durations.json"
     if not dpath.is_file():
         return  # gate needs authoritative durations; monuments without yt_durations.json opt out
-    durations = dict(json.loads(dpath.read_text(encoding="utf-8")).get("by_youtube_id") or {})
+    durations = dict(_json_or(dpath, {}).get("by_youtube_id") or {})
     for ep, ep_name, _path, content in episodes:
         end, source = _episode_end_seconds(monument_dir, ep, content, durations)
         if end is None:
@@ -1156,7 +1192,7 @@ def check_claims_missing_from_drafts(
     for jpath in sorted(ins_dir.glob("episode_*.json")):
         if not re.match(r"episode_\d{3}\.json$", jpath.name):
             continue
-        data = json.loads(jpath.read_text(encoding="utf-8"))
+        data = _json_or(jpath, {})
         for claim in data.get("claims") or []:
             cid = str(claim.get("@id") or claim.get("ref") or "")
             if re.match(r"C-\d+$", cid) and cid not in defined:
@@ -1194,7 +1230,7 @@ def check_inscription_missing(
         if not jpath.is_file():
             report.add("P1", "inscription_missing", f"{ep_name}: no inscription/{jpath.name} for {len(drafted)} drafted ids", ep_name)
             continue
-        data = json.loads(jpath.read_text(encoding="utf-8"))
+        data = _json_or(jpath, {})
         have: set[str] = {str(c.get("@id") or c.get("ref") or "") for c in data.get("claims") or []}
         for fam in data.get("artifacts") or []:
             have.add(str(fam.get("@id") or fam.get("ref") or ""))
@@ -1248,51 +1284,256 @@ def check_tombstone_collision(report: PreflightReport, canonical: dict[str, dict
                 )
 
 
-def check_person_band_lock(report: PreflightReport, monument_dir: Path, canonical: dict[str, dict[str, Any]]) -> None:
-    """P1 (Wave 3, Transit b558034): person band lock until Daveed rules on capacity.
+PERSON_BAND_MAX = 999
+BAND_SNAPSHOT_REL = "config/person_band_snapshot.json"
+BAND_LOCK_SCOPE = "while the person band lock is in force (pending Daveed)"
 
-    Enabled by config/preflight_gates.json person_band_lock.enabled. While the person band N-1..N-999 is full,
-    no new person may be minted: canonical next_person_id must stay null, no active node may sit on a
-    tombstoned id (legacy-N-X in config/retired_node_ids.json) or a reserved episode_000 baseline id, and no
-    person node may use an id at N-1000 or above. A new person goes into the audit triage as DEFER
-    ("person band full, awaiting Daveed") instead.
-    """
-    cfg = load_gate_config(monument_dir).get("person_band_lock") or {}
-    if not cfg.get("enabled"):
-        return
-    npath = monument_dir / "canonical" / "nodes.json"
-    if npath.is_file():
-        nxt = json.loads(npath.read_text(encoding="utf-8")).get("next_person_id")
-        if nxt is not None:
-            report.add("P1", "person_band_lock",
-                       f"canonical/nodes.json: next_person_id is {nxt!r}; the person band is locked (full) until Daveed rules, so it must stay null",
-                       "next_person_id")
-    tomb: set[str] = set()
-    reserved: set[str] = set()
+
+def _band_num(ref: Any) -> int | None:
+    m = re.match(r"N-(\d+)$", str(ref))
+    return int(m.group(1)) if m else None
+
+
+def band_ledger_state(monument_dir: Path) -> tuple[set[int] | None, set[int] | None]:
+    """(tombstoned, reserved) band ids from config/retired_node_ids.json, or (None, None) if missing/unreadable."""
     rpath = monument_dir / "config" / "retired_node_ids.json"
-    if rpath.is_file():
-        rdata = json.loads(rpath.read_text(encoding="utf-8"))
-        for key in (rdata.get("retired") or {}):
-            km = re.match(r"legacy-(N-\d+)$", key)
-            if km:
-                tomb.add(km.group(1))
-        reserved = {str(x) for x in ((rdata.get("reserved_baseline_ids") or {}).get("ids") or [])}
+    if not rpath.is_file():
+        return None, None
+    rdata, err = read_json_file(rpath)
+    if err is not None or not isinstance(rdata, dict):
+        return None, None
+    tomb: set[int] = set()
+    for key in (rdata.get("retired") or {}):
+        km = re.match(r"legacy-N-(\d+)$", str(key))
+        if km and 1 <= int(km.group(1)) <= PERSON_BAND_MAX:
+            tomb.add(int(km.group(1)))
+    reserved = {n for n in (_band_num(x) for x in ((rdata.get("reserved_baseline_ids") or {}).get("ids") or [])) if n}
+    return tomb, reserved
+
+
+def band_snapshot_digest(live: dict[str, str], tombstoned: list[str], reserved: list[str]) -> str:
+    import hashlib
+
+    payload = json.dumps({"live": live, "reserved": reserved, "tombstoned": tombstoned},
+                         sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+    return hashlib.sha256(payload.encode("utf-8")).hexdigest()
+
+
+def build_band_snapshot(
+    monument_dir: Path, canonical: dict[str, dict[str, Any]], previous: dict[str, Any] | None
+) -> tuple[dict[str, Any] | None, list[str]]:
+    """Build the pinned N-1..N-999 snapshot (live + tombstoned + reserved = 999).
+
+    Append-only against `previous`: a pinned tombstone or reservation must still be in the ledger, a pinned
+    live id may only leave by becoming a tombstone, and no id outside the pinned live set may become live.
+    Returns (snapshot, errors); snapshot is None when there are errors.
+    """
+    errors: list[str] = []
+    tomb, reserved = band_ledger_state(monument_dir)
+    if tomb is None or reserved is None:
+        return None, ["config/retired_node_ids.json is missing or unreadable"]
+    live_ids = {n for n in (_band_num(k) for k in canonical) if n and n <= PERSON_BAND_MAX}
+    for n in sorted(live_ids & tomb):
+        errors.append(f"N-{n} is both live and tombstoned")
+    for n in sorted(live_ids & reserved):
+        errors.append(f"N-{n} is both live and reserved")
+    if previous:
+        p_live = {_band_num(k) for k in (previous.get("live") or {})}
+        p_tomb = {_band_num(k) for k in (previous.get("tombstoned") or [])}
+        p_res = {_band_num(k) for k in (previous.get("reserved") or [])}
+        for n in sorted(p_tomb - tomb):
+            errors.append(f"pinned tombstone N-{n} is no longer in the ledger (tombstones can only be added)")
+        for n in sorted(p_res - reserved):
+            errors.append(f"pinned reservation N-{n} is no longer reserved (reservations can only be added)")
+        for n in sorted(live_ids - p_live):
+            errors.append(f"N-{n} is live but was not live in the pinned snapshot (no new persons {BAND_LOCK_SCOPE})")
+        for n in sorted(p_live - live_ids - tomb):
+            errors.append(f"pinned live N-{n} is gone without a tombstone")
+    covered = live_ids | tomb | reserved
+    missing = sorted(set(range(1, PERSON_BAND_MAX + 1)) - covered)
+    if missing:
+        errors.append(f"{len(missing)} band ids are neither live, tombstoned nor reserved (first: N-{missing[0]})")
+    if errors:
+        return None, errors
+    live = {f"N-{n}": str(canonical[f"N-{n}"].get("canonical_name") or "") for n in sorted(live_ids)}
+    tl = [f"N-{n}" for n in sorted(tomb)]
+    rl = [f"N-{n}" for n in sorted(reserved)]
+    snap = {
+        "version": 1,
+        "band": "N-1..N-999",
+        "description": (
+            "Pinned person band for the person_band_lock gate (Daveed via Transit, 2026-10-08; in force until "
+            "Daveed rules on band capacity). Every id N-1..N-999 is live, tombstoned or reserved. The gate fails "
+            "if a pinned tombstone or reservation is removed from config/retired_node_ids.json, if an id that is "
+            "not live here becomes a live node, if a pinned live id disappears without a tombstone, or if a live "
+            "id changes identity (its pinned name is neither the canonical name nor an alias). Refresh only with "
+            "`dia_preflight.py --monument cka --refresh-band-snapshot`, which is append-only and refuses removals."
+        ),
+        "counts": {"live": len(live), "tombstoned": len(tl), "reserved": len(rl), "total": len(live) + len(tl) + len(rl)},
+        "sha256": band_snapshot_digest(live, tl, rl),
+        "live": live,
+        "tombstoned": tl,
+        "reserved": rl,
+    }
+    return snap, []
+
+
+def refresh_band_snapshot(monument_slug: str) -> int:
+    monument_dir = MONUMENTS_ROOT / monument_slug
+    spath = monument_dir / BAND_SNAPSHOT_REL
+    previous = None
+    if spath.is_file():
+        previous, err = read_json_file(spath)
+        if err is not None or not isinstance(previous, dict):
+            print(f"refuse: {BAND_SNAPSHOT_REL} unreadable ({err}); fix it before refreshing", file=sys.stderr)
+            return 2
+    canonical = load_canonical_nodes(monument_dir / "canonical" / "nodes.json")
+    snap, errors = build_band_snapshot(monument_dir, canonical, previous)
+    if errors:
+        for e in errors:
+            print(f"refuse: {e}", file=sys.stderr)
+        return 2
+    spath.write_text(json.dumps(snap, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    c = snap["counts"]
+    print(f"wrote {spath}: live {c['live']} + tombstoned {c['tombstoned']} + reserved {c['reserved']} = {c['total']}")
+    return 0
+
+
+def check_person_band_lock(report: PreflightReport, monument_dir: Path, canonical: dict[str, dict[str, Any]]) -> None:
+    """P1 person_band_lock (Wave 3; Transit b558034, hardened after Transit baa2ed9 G1/G2).
+
+    In force until Daveed rules on band capacity. N-1..N-999 is full: no new person is minted, no retired,
+    tombstoned or reserved id is reused, and no person is minted at N-1000 or above. New persons go into the
+    audit triage as DEFER ("person band full, awaiting Daveed").
+
+    Fails closed:
+    - For a monument with config/person_band_snapshot.json or person_band_lock.snapshot set (CKA), or the cka
+      monument itself, the lock is ON
+      when the preflight_gates.json key is missing or the config is unreadable. Turning it off needs
+      `"enabled": false` plus `"lifted_by"` citing Daveed's ruling.
+    - The pinned snapshot (live + tombstoned + reserved = 999) is append-only: removing a pinned tombstone or
+      reservation from the ledger, making a non-live id live, or dropping a live id without a tombstone fails.
+    - A missing or unreadable retired ledger, nodes.json or snapshot is a finding, never a silent skip.
+    """
+    spath = monument_dir / BAND_SNAPSHOT_REL
+    gates_path = monument_dir / "config" / "preflight_gates.json"
+    gates, gerr = (read_json_file(gates_path) if gates_path.is_file() else ({}, None))
+    if gerr is not None or not isinstance(gates, dict):
+        gates = {}
+    cfg = gates.get("person_band_lock")
+    pinned = (spath.is_file() or monument_dir.name == "cka"
+              or (isinstance(cfg, dict) and bool(cfg.get("snapshot"))))
+    if cfg is None or not isinstance(cfg, dict):
+        if not pinned:
+            return
+        if gerr is None:
+            report.add("WARN", "person_band_lock",
+                       "config/preflight_gates.json has no person_band_lock key; the lock is treated as ON (fail closed)",
+                       "person_band_lock")
+        cfg = {}
+    if cfg.get("enabled", True) is False:
+        if not pinned:
+            return
+        if not str(cfg.get("lifted_by") or "").strip():
+            report.add("P1", "person_band_lock",
+                       "person_band_lock.enabled is false but no lifted_by cites Daveed's ruling; the lock stays in force",
+                       "person_band_lock")
+        else:
+            return
+
+    npath = monument_dir / "canonical" / "nodes.json"
+    ndata, nerr = (read_json_file(npath) if npath.is_file() else (None, "missing"))
+    if nerr is not None or not isinstance(ndata, dict):
+        report.add("P1", "person_band_lock",
+                   f"canonical/nodes.json is missing or unreadable ({nerr}); the lock fails closed", "nodes.json")
+    elif ndata.get("next_person_id") is not None:
+        report.add("P1", "person_band_lock",
+                   f"canonical/nodes.json: next_person_id is {ndata.get('next_person_id')!r}; the person band is locked (full) until Daveed rules, so it must stay null",
+                   "next_person_id")
+
+    tomb, reserved = band_ledger_state(monument_dir)
+    if tomb is None or reserved is None:
+        report.add("P1", "person_band_lock",
+                   "config/retired_node_ids.json is missing or unreadable; tombstones and reservations cannot be checked, so the lock fails closed",
+                   "retired_node_ids.json")
+        tomb, reserved = set(), set()
+
     for key, meta in sorted(canonical.items()):
-        km = re.match(r"N-(\d+)$", key)
-        if not km:
+        n = _band_num(key)
+        if n is None:
             continue
         name = meta.get("canonical_name")
-        if key in tomb:
+        if n in tomb:
             report.add("P1", "person_band_lock",
-                       f"canonical/nodes.json: active {key} ({name}) reuses a tombstoned id (legacy-{key}); retired ids are never reused",
+                       f"canonical/nodes.json: active {key} ({name}) reuses a tombstoned id (legacy-{key}); tombstoned ids are not reused {BAND_LOCK_SCOPE}",
                        key)
-        if key in reserved:
+        if n in reserved:
             report.add("P1", "person_band_lock",
                        f"canonical/nodes.json: active {key} ({name}) sits on a reserved episode_000 baseline id",
                        key)
-        if str(meta.get("type", "")).lower() == "person" and int(km.group(1)) >= 1000:
+        if str(meta.get("type", "")).lower() == "person" and n > PERSON_BAND_MAX:
             report.add("P1", "person_band_lock",
-                       f"canonical/nodes.json: person {key} ({name}) is at N-1000 or above; while the band is locked new persons are DEFER, never minted outside N-1..N-999",
+                       f"canonical/nodes.json: person {key} ({name}) is at N-1000 or above; {BAND_LOCK_SCOPE} new persons are DEFER, never minted outside N-1..N-999",
+                       key)
+
+    if not pinned:
+        return
+    if not spath.is_file():
+        report.add("P1", "person_band_lock",
+                   f"{BAND_SNAPSHOT_REL} is missing; the pinned band is required while the lock is in force (fails closed)",
+                   BAND_SNAPSHOT_REL)
+        return
+    snap, serr = read_json_file(spath)
+    if serr is not None or not isinstance(snap, dict):
+        report.add("P1", "person_band_lock", f"{BAND_SNAPSHOT_REL} is unreadable ({serr}); the lock fails closed", BAND_SNAPSHOT_REL)
+        return
+    live = {str(k): str(v) for k, v in (snap.get("live") or {}).items()}
+    s_tomb = [str(x) for x in (snap.get("tombstoned") or [])]
+    s_res = [str(x) for x in (snap.get("reserved") or [])]
+    ids = [_band_num(k) for k in list(live) + s_tomb + s_res]
+    if (None in ids or len(ids) != PERSON_BAND_MAX or set(ids) != set(range(1, PERSON_BAND_MAX + 1))
+            or snap.get("sha256") != band_snapshot_digest(live, s_tomb, s_res)):
+        report.add("P1", "person_band_lock",
+                   f"{BAND_SNAPSHOT_REL} fails its integrity check (must pin each of N-1..N-999 exactly once with a matching sha256); refresh it with --refresh-band-snapshot, never by hand",
+                   BAND_SNAPSHOT_REL)
+        return
+    p_tomb = {_band_num(x) for x in s_tomb}
+    p_res = {_band_num(x) for x in s_res}
+    for n in sorted(p_tomb - tomb):
+        report.add("P1", "person_band_lock",
+                   f"pinned tombstone N-{n} was removed from config/retired_node_ids.json; tombstones can only be added {BAND_LOCK_SCOPE}",
+                   f"N-{n}")
+    for n in sorted(p_res - reserved):
+        report.add("P1", "person_band_lock",
+                   f"pinned reservation N-{n} was removed from reserved_baseline_ids; reservations can only be added {BAND_LOCK_SCOPE}",
+                   f"N-{n}")
+    for key, meta in sorted(canonical.items(), key=lambda kv: _band_num(kv[0]) or 0):
+        n = _band_num(key)
+        if n is None or n > PERSON_BAND_MAX:
+            continue
+        if key not in live:
+            status = "tombstoned" if n in p_tomb else "reserved"
+            report.add("P1", "person_band_lock",
+                       f"canonical/nodes.json: {key} ({meta.get('canonical_name')}) is live but pinned as {status} in {BAND_SNAPSHOT_REL}; no new persons {BAND_LOCK_SCOPE}",
+                       key)
+            continue
+        pinned_name = live[key].strip().lower()
+        names = {str(meta.get("canonical_name") or "").strip().lower()} | {str(a).strip().lower() for a in meta.get("aliases") or []}
+        if pinned_name and pinned_name not in names:
+            report.add("P1", "person_band_lock",
+                       f"canonical/nodes.json: {key} is now {meta.get('canonical_name')!r} but is pinned as {live[key]!r}; a renamed node keeps its old name as an alias, and a live id is never given to a different person",
+                       key)
+    for key in sorted(live, key=lambda k: _band_num(k) or 0):
+        if key in canonical:
+            continue
+        n = _band_num(key)
+        if n in tomb:
+            report.add("P2", "person_band_lock",
+                       f"{key} ({live[key]}) was retired after the snapshot; refresh with --refresh-band-snapshot so the new tombstone is pinned",
+                       key)
+        else:
+            report.add("P1", "person_band_lock",
+                       f"pinned live {key} ({live[key]}) is gone from canonical/nodes.json without a tombstone",
                        key)
 
 
@@ -1477,7 +1718,7 @@ def check_hole_minted(
     tombstoned: set[int] = set()
     rpath = monument_dir / "config" / "retired_node_ids.json"
     if rpath.is_file():
-        for key in (json.loads(rpath.read_text(encoding="utf-8")).get("retired") or {}):
+        for key in (_json_or(rpath, {}).get("retired") or {}):
             km = re.search(r"N-(\d+)$", key)
             if km:
                 tombstoned.add(int(km.group(1)))
@@ -2086,6 +2327,9 @@ def run_preflight(
     if not episodes:
         report.add("P0", "monument", "No episode_*.md drafts found")
         return report
+    unreadable = check_json_readable(report, monument_dir)
+    if any(u.startswith("inscription/") for u in unreadable):
+        skip_inscription = True
 
     register = collect_register_entries(episodes)
     intro = first_introduction_meta(register)
@@ -2449,6 +2693,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--pack", type=Path, help="DIA pack dir containing TIP.txt or MANIFEST")
     ap.add_argument("--skip-inscription", action="store_true", help="Skip inscription name sync")
     ap.add_argument("--self-test", action="store_true", help="Run built-in fixture checks")
+    ap.add_argument("--refresh-band-snapshot", action="store_true",
+                    help="Rewrite config/person_band_snapshot.json (append-only; refuses removals)")
     args = ap.parse_args(argv)
 
     if args.self_test:
@@ -2456,13 +2702,19 @@ def main(argv: list[str] | None = None) -> int:
 
     if not args.monument:
         ap.error("--monument is required unless --self-test")
+    if args.refresh_band_snapshot:
+        return refresh_band_snapshot(args.monument)
 
-    report = run_preflight(
-        args.monument,
-        tip_sha=args.tip_sha,
-        pack_path=args.pack,
-        skip_inscription=args.skip_inscription,
-    )
+    try:
+        report = run_preflight(
+            args.monument,
+            tip_sha=args.tip_sha,
+            pack_path=args.pack,
+            skip_inscription=args.skip_inscription,
+        )
+    except Exception as exc:  # fail closed with a clean finding, never a bare traceback
+        report = PreflightReport(monument=args.monument, monument_dir=str(MONUMENTS_ROOT / args.monument))
+        report.add("P0", "preflight_error", f"preflight stopped on {type(exc).__name__}: {exc}")
     print_human(report)
     if args.json:
         payload = {
