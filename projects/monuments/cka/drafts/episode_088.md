@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1657, N-1658, N-1659, N-1660, N-1661
+  - Hole-minted Nodes (wave3): N-671
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -259,6 +260,13 @@ Confidence Level: High
 
 ### People
 
+**N-671** Derek Niekerk
+
+First named by the host at 00:42:15 in episode 88.
+
+*Related: C-2667*
+
+
 ### Investigation Targets
 
 **N-1657** Erika Kirk September 10 Whereabouts Verification
@@ -468,7 +476,7 @@ Claim Timestamp: 00:40:55–00:44:53
 Claim: Per host investigation, multiple sources – including an unnamed Phoenix-area doctor and his wife (with federal political ties), a witness via security guard Derek Niekerk, and a Minnesota woman – allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2
+Mentions: N-2, N-671
 Related Nodes: N-1657
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
@@ -484,4 +492,6 @@ Related Nodes: N-1659
 Investigative Direction: Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.
 
 ---
+
+
 

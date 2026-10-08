@@ -875,7 +875,7 @@
       "ref": "N-1535",
       "name": "Candace Phil Turney Interview View Count",
       "type": "investigation_target",
-      "description": "Approximately 7 million views cited by host, partially corroborated by Project Constitution viewer comment.",
+      "description": "Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).",
       "related_artifacts": [
         "A-1694.2",
         "A-1696.1"
@@ -1157,7 +1157,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:53",
-      "investigative_direction": "Obtain the documentary and verify the specific clips and their context."
+      "investigative_direction": "Obtain the documentary and verify the specific clips and their context.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

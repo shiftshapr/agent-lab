@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
 
 - **Episode Ledger Summary**:
-  - (see registers)
+ - (see registers)
 
 # Episode Analysis: Monument Ep 82 – "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315"
 
@@ -29,11 +29,11 @@
 - Analyst / Agent Name: Investigative Analysis Agent
 - Analysis Date: 2026-03-24
 - Ledger Continuation Summary:
-  - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894
-  - Claim Range: C-2544 – C-2559
-  - New Nodes Introduced: N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+ - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894
+ - Claim Range: C-2544 – C-2559
+ - New Nodes Introduced: N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
+ - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
 
@@ -601,7 +601,7 @@ New Nodes Introduced:
 N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
 
 Existing Nodes Reused:
-N-1 (Charlie Kirk), former local id 1207 (Mike Mitchell Public Record Anomaly), former local id 1208 (Brooksby Suicide Narrative Discrepancy), former local id 1209 (Robinson Apartment Staging Allegation), former local id 1210 (Phil Lyman Proximity and Behavior Investigation), former local id 1211 (UVU Campus Familiarity Question), former local id 1212 (Phil Lyman Location Discrepancy)
+N-1 (Charlie Kirk), (Mike Mitchell Public Record Anomaly), (Brooksby Suicide Narrative Discrepancy), (Robinson Apartment Staging Allegation), (Phil Lyman Proximity and Behavior Investigation), (UVU Campus Familiarity Question), (Phil Lyman Location Discrepancy)
 - N-2 (Erica Kirk)
 
 Cross-Episode Reconciliation Required:

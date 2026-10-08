@@ -69,7 +69,6 @@
             "C-3140"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2150"
           ],
           "tags": [],
@@ -196,7 +195,6 @@
             "C-3145"
           ],
           "related_nodes": [
-            "N-1209",
             "N-2151"
           ],
           "tags": [],
@@ -457,9 +455,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -479,9 +475,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -578,6 +572,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-810",
+      "ref": "N-810",
+      "name": "Pastor Russell",
+      "type": "person",
+      "description": "First named by the host at 00:23:26 in episode 132.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -672,7 +683,8 @@
       "investigative_direction": "Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-810"
       ]
     },
     {

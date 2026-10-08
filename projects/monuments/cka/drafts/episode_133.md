@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
-  - (see registers)
+ - New Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
+ - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - (see registers)
 
 # Episode 133 Analysis Record
 
@@ -29,11 +29,11 @@
 - **Analyst / Agent:** OpenClaw Investigative Analysis Agent
 - **Analysis Date:** 2026-07-30
 - **Ledger Continuation Summary:**
-  - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204
-  - Claim Range: C-3150–C-3161
-  - New People Nodes Introduced: none (Wave 2: local ids removed)
-  - New Investigation Target Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
-  - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.
+ - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204
+ - Claim Range: C-3150–C-3161
+ - New People Nodes Introduced: none (Wave 2: local ids removed)
+ - New Investigation Target Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
+ - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.
 
 ---
 
@@ -411,9 +411,9 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 
 ## VI. Optional Flags
 
-- **Name uncertainty (former local id 1207):** Transcript spells Andrew Kovette as "Kovette" / "Kovett" / "Coette." Preserved as host used.
-- **Name uncertainty (former local id 1210):** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
-- **Name uncertainty (former local id 1211):** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
+- **Name uncertainty:** Transcript spells Andrew Kovette as "Kovette" / "Kovett" / "Coette." Preserved as host used.
+- **Name uncertainty:** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
+- **Name uncertainty:** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
 - **Name spelling variance:** Host consistently uses "Erika Kirk"; existing ledger node is "Erica Kirk." Preserved as host used; cross-reference to existing node retained.
 - **Possible transcription error:** "Marina Minez" (likely Marina Linarte or similar TPUSA staff – unverified); "Justin Strife" (likely Justin Streifel or similar TPUSA COO – unverified); "Frank" (in-house legal counsel).
 - **Artifact provenance unverified:** A-2198 family – host asserts she has held the footage since October 2025; chain of custody not displayed.

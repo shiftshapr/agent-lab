@@ -202,7 +202,7 @@ Video Timestamp: 00:08:54–01:21:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced but not shown in this episode)
 
-Description: Referenced previous episode featuring USS Liberty survivor Phil Turney. Per viewer comment A-1694.2, the interview received approximately 7 million views.
+Description: Referenced previous episode featuring USS Liberty survivor Phil Turney. Host notes at 01:21:47 that the interview received approximately 7 million views.
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -597,7 +597,7 @@ Investigative Pressure: Low
 
 **N-1535** Candace Phil Turney Interview View Count
 
-Approximately 7 million views cited by host, partially corroborated by Project Constitution viewer comment.
+Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).
 
 Evidence Count: 2
 Claim Count: 1

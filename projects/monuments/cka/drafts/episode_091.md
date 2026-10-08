@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1674, N-1675, N-1676, N-1677, N-1678, N-1679, N-1680, N-1681
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
-  - (see registers)
+ - New Nodes Introduced: N-1674, N-1675, N-1676, N-1677, N-1678, N-1679, N-1680, N-1681
+ - Hole-minted Nodes (wave3): N-675, N-676
+ - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - (see registers)
 
 ## I. Meta-Data
 
@@ -159,6 +160,21 @@ Discovery Timestamp: 00:00:00–00:00:01
 ---
 
 ## IV. Node Register
+
+**N-675** Jimmy Barbecue
+
+First named by the host at 00:27:14 in episode 91.
+
+*Related: C-2705, C-2716*
+
+**N-676** Daniel Horner
+
+First named by the host at 00:32:24 in episode 91.
+
+*Related: C-2706*
+
+
+
 
 **N-1674** ATF Trace on Fold AR SN 02735 (September 10, 2025)
 
@@ -371,6 +387,7 @@ Claim Timestamp: 00:27:14
 Claim: Corby Hall's written statement documents that Victor Marx stated his team was going to capture or execute Jimmy Barbecue, then the top gang leader of Haiti.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-675
 
 Related Nodes: N-1677
 
@@ -385,6 +402,7 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that Victor Marx stated he was discussing the acquisition of Fold AR with Sig Sauer, and that Sig Sauer's top shooter Daniel Horner had tested the Fold AR and given a "thumbs up."
 
 Anchored Artifacts: A-1958.1
+Mentions: N-676
 
 Related Nodes: N-1675
 
@@ -527,6 +545,7 @@ Claim Timestamp: 00:28:28
 Claim: CBN News aired a report stating that Victor Marx met with Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; Marx is shown praying with him and the FAA is reported to have banned US flights to Haiti after three planes were hit by gunfire.
 
 Anchored Artifacts: A-1960.1
+Mentions: N-675
 
 Related Nodes: N-1677
 
@@ -622,10 +641,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" – host notes the military record may show "Vo" without "n." Flag retained on former local id 1207 and N-1679.
+- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" – host notes the military record may show "Vo" without "n." Flag retained on and N-1679.
 - **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) – host describes it as forwarded and confirmed but does not directly display it in the episode.
 - **Possible transcription error**: A-1960.1 – gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
 - **Name transcription oddity**: Host spells "Corey Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-1217.
-- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions (former local id 1207, former local id 1212, former local id 1213, former local id 1214, N-1679).
+- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions,,,, N-1679).
 - **Timestamp uncertainty**: A-1960.1 – exact event date for the CBN News segment is not stated; only inferable from clip context.
 - **Requires human verification**: All N-1675, N-1676, N-1677, N-1678 nodes require independent verification beyond Corby Hall's written statement.

@@ -1220,6 +1220,59 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3648",
+      "ref": "C-3648",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:53",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...emails and we are going to solve this thing. The decentralized intelligence agency is going to solve this thing and like I said when I tell you what I know tomorrow it it's just we'r...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3649",
+      "ref": "C-3649",
+      "label": "Host elevates mommy sleuth crowd investigators",
+      "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:51",
+      "investigative_direction": "Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.",
+      "transcript_snippet": "...tail number S U B N D, the blue plane. A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed. I consi...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-413"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3701",
+      "ref": "C-3701",
+      "label": "Host calls a tipster and her audience her decentralized intelligence agents",
+      "claim": "Crediting the pregnant mommy sleuth whose urgent email corrected her plane-tracking analysis, the host says \"I consider her obviously and all of you to be my decentralized intelligence agents,\" casting the tipster and the whole audience as agents of the Decentralized Intelligence Agency.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:51",
+      "investigative_direction": "Preserve as brand / network framing claim (M-12 alias \"decentralized intelligence agents\"); identity of the tipster stays protected.",
+      "transcript_snippet": "...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-413"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-3735",
       "ref": "C-3735",
       "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",

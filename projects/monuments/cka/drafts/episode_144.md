@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
-  - Reused Nodes Appearing: N-37, N-46
-  - (see registers)
+ - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
+ - Hole-minted Nodes (wave3): N-812
+ - Reused Nodes Appearing: N-37, N-46
+ - (see registers)
 
 # Episode 144 Analysis
 
@@ -226,6 +227,14 @@ Confidence Level: High
 
 ## IV. Node Register
 
+**N-812** Mark Bricker
+
+First named by the host at 00:18:29 in episode 144.
+
+*Related: C-3317, C-3320*
+
+
+
 **N-2209** SD Card Chain-of-Custody Investigation
 
 Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.
@@ -364,6 +373,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
+Mentions: N-812
 
 Related Nodes: N-2209, N-2210
 
@@ -406,6 +416,7 @@ Claim Timestamp: 00:19:30–00:20:30
 Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
 
 Anchored Artifacts: A-2304.2, A-2305.1
+Mentions: N-812
 
 Related Nodes: N-2210
 
@@ -497,7 +508,7 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207..former local id 1217 never denoted these people and claim references were retargeted.
+- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-2209 (SD card chain of custody), N-2210 (aspect ratio modification), N-2211 (Terrell handling), N-2212 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

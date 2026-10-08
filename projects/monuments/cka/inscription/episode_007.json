@@ -438,6 +438,31 @@
           "transcript_snippet": "Candace, is Jack Pobiac trustworthy? I find it odd that a Navy intelligence officer"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2484",
+      "family_ref": "A-2484",
+      "bundle_name": "Laura Loomer CIA Merch Accusation Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2484.1",
+          "ref": "A-2484.1",
+          "description": "Laura Loomer tweet (read on air by the host) accusing the Candace Intelligence Agency CIA merch line of ripping off the CIA name and logo and of illegal CIA seal use (\"a federal felony\"), tagging the CIA director (verbally referenced).",
+          "related_claims": [
+            "C-3639"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-91"
+          ],
+          "tags": [],
+          "video_timestamp": "00:27:08",
+          "transcript_snippet": "...ling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without l...",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1468,6 +1493,23 @@
         "N-3",
         "N-91",
         "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3640",
+      "ref": "C-3640",
+      "label": "Host elevates mommy sleuth crowd investigators",
+      "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:20",
+      "investigative_direction": "Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.",
+      "transcript_snippet": "...bility to the the feds, I would allow the mommy sleuths to take over. That's my opinion. I had to get in touch and allow the internet to do what the intern...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
       ]
     },
     {

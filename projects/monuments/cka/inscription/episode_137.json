@@ -29,10 +29,7 @@
           "related_claims": [
             "C-3211"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -280,6 +277,30 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2491",
+      "family_ref": "A-2491",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2491.1",
+          "ref": "A-2491.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3666"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "00:52:11",
+          "transcript_snippet": "...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -297,9 +318,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -430,6 +449,22 @@
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -625,6 +660,42 @@
       "tags": [],
       "claim_timestamp": "00:49:05",
       "investigative_direction": "Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3665",
+      "ref": "C-3665",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:11",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...lligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my favorite. The hunter green one is the one that I wear around to...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3666",
+      "ref": "C-3666",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2491.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:11",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...",
+      "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
       ]

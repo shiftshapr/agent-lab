@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2170, N-2171, N-2172, N-2173, N-2174
+  - Hole-minted Nodes (wave3): N-811
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -254,6 +255,14 @@ Confidence Level: Medium (verbally referenced; not directly displayed)
 
 ## IV. Node Register
 
+**N-811** Christopher Hawk
+
+First named by the host at 00:17:52 in episode 136.
+
+*Related: C-3198, C-3199, C-3200*
+
+
+
 **N-2170** Missing Gloves Origin in SUV Door
 
 Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.
@@ -395,6 +404,7 @@ Claim Timestamp: 00:15:40
 Claim: Bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
 
 Anchored Artifacts: A-2227.1
+Mentions: N-811
 Related Nodes: N-2171
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
@@ -408,6 +418,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
+Mentions: N-811
 Related Nodes: N-2171
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
@@ -421,6 +432,7 @@ Claim Timestamp: 00:18:43
 Claim: Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.
 
 Anchored Artifacts: A-2234.1, A-2227.1
+Mentions: N-811
 Related Nodes: N-2171
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.

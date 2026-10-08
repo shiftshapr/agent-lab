@@ -517,7 +517,7 @@
         "N-1438"
       ],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:19:30",
       "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.",
       "mentions_person_refs": [
         "N-597"
@@ -685,5 +685,23 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "Meme",
+      "@id": "M-75",
+      "ref": "M-75",
+      "term": "(meme) I'll Say Allegedly",
+      "type": "meme",
+      "definition": "Host hedge stacking allegedly when relaying tipster claims",
+      "occurrences": [
+        {
+          "video_timestamp": "00:13:59",
+          "speaker": "N-3",
+          "quote": "",
+          "context": "Wave 3 mint – first transcript introduction.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
 }

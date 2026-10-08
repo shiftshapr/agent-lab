@@ -14,6 +14,7 @@
   - New Nodes Introduced: N-2113, N-2114, N-2115
   - Reused Nodes Appearing: N-37
   - Hole-minted Nodes (wave1b): N-611
+  - Hole-minted Nodes (wave3): N-688
   - (see registers)
 
 ## 2. Executive Summary
@@ -220,6 +221,13 @@ Confidence Level: High
 
 ## 4. Node Register
 
+**N-688** Eliot Spitzer
+
+First named by the host at 00:21:23 in episode 125.
+
+*Related: C-3021*
+
+
 **N-2113** Unidentified Burnt Object in Charlie Kirk's SUV
 
 Persistent investigative target. Object left in backseat of SUV used to transport Charlie Kirk to hospital. Multiple expert viewer tips (fashion industry, plastic surgery nurse, mother of 10) identify object as melted polyester shirt/burnt fabric. Host performed burn-replication experiment with 50% polyester shirt.
@@ -337,7 +345,7 @@ Claim Timestamp: 00:24:41
 Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-611
+Mentions: N-611, N-688
 
 Related Nodes: N-2115
 
@@ -407,4 +415,6 @@ Mentions: N-2, N-3
 Investigative Direction: Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning.
 
 ---
+
+
 

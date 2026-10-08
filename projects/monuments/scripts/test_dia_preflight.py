@@ -599,6 +599,7 @@ def test_cka_has_no_wave1_people_regressions():
             "dangling_claim_ref",
             "prose_em_dash",
             "quote_dash_fidelity",
+            "inscription_missing",
         )
     ]
     assert bad == [], bad
@@ -720,3 +721,53 @@ def test_cka_ep119_m55_quote_is_verbatim():
     tp = dp.find_transcript(dp.MONUMENTS_ROOT / "cka", 119)
     assert quote in tp.read_text(encoding="utf-8")
     assert " - " not in quote and "##" not in quote
+
+
+def test_cited_before_intro_covers_topics_in_strict_mode(tmp_path):
+    """Wave 3 / Transit 820af0d P2-2: a topic on a Reused line before its New line must fail."""
+    drafts = tmp_path / "drafts"
+    drafts.mkdir()
+    (drafts / "episode_001.md").write_text(
+        "## 4. Node Register\n\n**N-1282** Some Topic\n\n"
+        "- **Reused Nodes Appearing:** N-1282\n",
+        encoding="utf-8",
+    )
+    (drafts / "episode_002.md").write_text(
+        "## 4. Node Register\n\n**N-1282** Some Topic\n\n"
+        "- **New Nodes Introduced:** N-1282\n",
+        encoding="utf-8",
+    )
+    eps = [
+        (1, "episode_001.md", drafts / "episode_001.md", (drafts / "episode_001.md").read_text()),
+        (2, "episode_002.md", drafts / "episode_002.md", (drafts / "episode_002.md").read_text()),
+    ]
+    report = dp.PreflightReport("t", "t")
+    dp.check_cited_before_intro(report, eps, strict=True)
+    assert any(f.check == "cited_before_intro" and f.location == "N-1282" for f in report.findings)
+    report2 = dp.PreflightReport("t", "t")
+    dp.check_cited_before_intro(report2, eps, strict=False)
+    assert report2.findings == []
+
+
+def test_inscription_missing_flags_draft_only_ids(tmp_path):
+    drafts = tmp_path / "drafts"
+    drafts.mkdir()
+    text = (
+        "## 5. Claim Register\n\n**C-9001** Draft only claim\n\nClaim: x\n\n"
+        "## 3. Artifact Register\n\n**A-9001** Family\n\n**A-9001.1** Sub\n\n"
+        "Description: y\n"
+    )
+    (drafts / "episode_001.md").write_text(text, encoding="utf-8")
+    ins = tmp_path / "inscription"
+    ins.mkdir()
+    (ins / "episode_001.json").write_text(
+        json.dumps({"claims": [{"@id": "C-1", "label": "other"}], "artifacts": []}),
+        encoding="utf-8",
+    )
+    eps = [(1, "episode_001.md", drafts / "episode_001.md", text)]
+    report = dp.PreflightReport("t", "t")
+    dp.check_inscription_missing(report, tmp_path, eps)
+    locs = sorted(f.location for f in report.findings)
+    assert locs == ["A-9001", "A-9001.1", "C-9001"]
+    assert all(f.severity == "P1" and f.check == "inscription_missing" for f in report.findings)
+

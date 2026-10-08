@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-10-08T04:18:27Z",
+  "updated": "2026-10-08T19:42:34Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)). 2026-10-07 Wave 1 adversarial: topic-band persons moved into person holes (N-1015->N-536 Tim Ballard, N-1017->N-569 Victor Marx, N-1018->N-571 Eileen Marx, N-1019->N-570 Corby Hall, N-1028->N-578 Usha Vance, N-2349->N-531 Father Ripperger; N-1009->N-1, N-1010->N-2); ep107 placeholder persons resolved (N-8->N-572, N-9->N-573, N-14->N-574, N-15->N-575, N-18->N-576; new N-577 Gloyce Dean Kennedy; N-10/N-11/N-12/N-13/N-19 retired without survivor; N-23->N-1697, N-24->N-2384, N-26->N-1676); ep161 tombstone collisions re-minted (N-448/449/450/452/465/469/470/473 -> N-579..N-586). 2026-10-07 Wave 1 Transit fix-all: hole mints renumbered to compact first-introduction order (N-531 Father Ripperger ep75; N-536 Tim Ballard, N-569 Victor Marx, N-570 Corby Hall ep92; N-571..N-577 ep107; N-578 Usha Vance ep148; N-579..N-586 ep161) and listed on Hole-minted ledger lines; new persons N-587 Kim Kardashian (ep32) and N-611 Danny Philip (ep125, survivor of legacy-N-11); alias Lance Twiggs on N-84. next_person_id=612, next_investigation_id=2385. Transit re-audit of ab20e61: 12 viewer-handle persons (N-139..N-143, N-146, N-147, N-158, N-160, N-162..N-164) retired without survivor; N-993 Michael Knowles (ep79) collapsed onto N-138 (ep8 ASR \"Michael Nolles\"); ASR canonical names corrected (N-83, N-95, N-138, N-167, N-171) with the ASR spelling kept as alias. Wave 2.1 (PR 60): N-898 Emmanuel Macron renumbered to N-628 (hole mint at his first appearance, ep38; tombstone legacy-N-898); next_person_id=629.",
-  "next_person_id": 629,
-  "next_investigation_id": 2393,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)). 2026-10-07 Wave 1 adversarial: topic-band persons moved into person holes (N-1015->N-536 Tim Ballard, N-1017->N-569 Victor Marx, N-1018->N-571 Eileen Marx, N-1019->N-570 Corby Hall, N-1028->N-578 Usha Vance, N-2349->N-531 Father Ripperger; N-1009->N-1, N-1010->N-2); ep107 placeholder persons resolved (N-8->N-572, N-9->N-573, N-14->N-574, N-15->N-575, N-18->N-576; new N-577 Gloyce Dean Kennedy; N-10/N-11/N-12/N-13/N-19 retired without survivor; N-23->N-1697, N-24->N-2384, N-26->N-1676); ep161 tombstone collisions re-minted (N-448/449/450/452/465/469/470/473 -> N-579..N-586). 2026-10-07 Wave 1 Transit fix-all: hole mints renumbered to compact first-introduction order (N-531 Father Ripperger ep75; N-536 Tim Ballard, N-569 Victor Marx, N-570 Corby Hall ep92; N-571..N-577 ep107; N-578 Usha Vance ep148; N-579..N-586 ep161) and listed on Hole-minted ledger lines; new persons N-587 Kim Kardashian (ep32) and N-611 Danny Philip (ep125, survivor of legacy-N-11); alias Lance Twiggs on N-84. next_person_id=612, next_investigation_id=2385. Transit re-audit of ab20e61: 12 viewer-handle persons (N-139..N-143, N-146, N-147, N-158, N-160, N-162..N-164) retired without survivor; N-993 Michael Knowles (ep79) collapsed onto N-138 (ep8 ASR \"Michael Nolles\"); ASR canonical names corrected (N-83, N-95, N-138, N-167, N-171) with the ASR spelling kept as alias. Wave 2.1 (PR 60): N-898 Emmanuel Macron renumbered to N-628 (hole mint at his first appearance, ep38; tombstone legacy-N-898); next_person_id=629. Wave 3: N-525 Root Brands (person-band org) tip-minted to N-2393 (organization) at ep44. Wave 3 orphan persons: 41 hole mints N-629..N-813 in first-introduction order (audits/wave3/orphan_mint_map.csv); aliases Medvin/Medias->N-789, Zenger->N-192, Sarfati/Safadi->N-576, Frei->N-558, Graff->N-193; Beau/Bo Mason one person; Tara/Taro/Teo Farnsworth collapsed onto N-410 (tombstone legacy-N-797); viewer/social commenters not minted; next_person_id=814.",
+  "next_person_id": 814,
+  "next_investigation_id": 2394,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -205,7 +205,9 @@
     "N-56": {
       "canonical_name": "Kanye West",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Ye"
+      ],
       "episodes": [
         1,
         17,
@@ -2726,20 +2728,7 @@
       "aliases": [],
       "episodes": [
         11,
-        79,
-        82,
-        92,
-        139,
-        143,
-        145,
-        146,
-        150,
-        151,
-        152,
-        153,
-        154,
-        155,
-        156
+        152
       ],
       "retired_ids": [
         "N-2275"
@@ -2750,20 +2739,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        11,
-        79,
-        82,
-        92,
-        139,
-        143,
-        145,
-        146,
-        150,
-        151,
-        152,
-        154,
-        155,
-        156
+        11
       ],
       "retired_ids": [
         "N-2276"
@@ -2774,19 +2750,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        11,
-        80,
-        82,
-        92,
-        145,
-        146,
-        150,
-        151,
-        152,
-        153,
-        154,
-        155,
-        156
+        11
       ],
       "retired_ids": [
         "N-2277"
@@ -2797,19 +2761,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        11,
-        80,
-        82,
-        92,
-        139,
-        145,
-        146,
-        150,
-        152,
-        153,
-        154,
-        155,
-        156
+        11
       ],
       "retired_ids": [
         "N-2278"
@@ -2820,16 +2772,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        11,
-        80,
-        82,
-        139,
-        145,
-        146,
-        150,
-        152,
-        154,
-        155
+        11
       ],
       "retired_ids": [
         "N-2279"
@@ -2870,15 +2813,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        12,
-        80,
-        82,
-        139,
-        145,
-        146,
-        150,
-        152,
-        155
+        12
       ],
       "retired_ids": [
         "N-2280"
@@ -2889,14 +2824,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        12,
-        80,
-        139,
-        145,
-        146,
-        150,
-        152,
-        155
+        12
       ],
       "retired_ids": [
         "N-2281"
@@ -2907,14 +2835,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        12,
-        80,
-        139,
-        145,
-        146,
-        150,
-        152,
-        155
+        12
       ],
       "retired_ids": [
         "N-2282"
@@ -2925,13 +2846,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        12,
-        80,
-        139,
-        145,
-        150,
-        152,
-        155
+        12
       ],
       "retired_ids": [
         "N-2283"
@@ -2942,12 +2857,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        12,
-        80,
-        139,
-        145,
-        152,
-        155
+        12
       ],
       "retired_ids": [
         "N-2284"
@@ -2958,11 +2868,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        12,
-        80,
-        139,
-        145,
-        152
+        12
       ],
       "retired_ids": [
         "N-2285"
@@ -2979,17 +2885,24 @@
     "N-192": {
       "canonical_name": "Andrew Zanger",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Andrew Zenger"
+      ],
       "episodes": [
-        13
+        13,
+        87
       ]
     },
     "N-193": {
       "canonical_name": "Judge Tony F. Graph Jr.",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Judge Tony Graff",
+        "Tony Graff"
+      ],
       "episodes": [
-        13
+        13,
+        128
       ]
     },
     "N-194": {
@@ -3053,10 +2966,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        13,
-        80,
-        145,
-        152
+        13
       ],
       "retired_ids": [
         "N-2286"
@@ -3067,10 +2977,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        13,
-        80,
-        145,
-        152
+        13
       ],
       "retired_ids": [
         "N-2287"
@@ -3081,10 +2988,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        13,
-        80,
-        145,
-        152
+        13
       ],
       "retired_ids": [
         "N-2288"
@@ -3095,9 +2999,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        13,
-        80,
-        152
+        13
       ],
       "retired_ids": [
         "N-2289"
@@ -3108,9 +3010,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        13,
-        81,
-        152
+        13
       ],
       "retired_ids": [
         "N-2290"
@@ -3121,9 +3021,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        13,
-        81,
-        152
+        13
       ],
       "retired_ids": [
         "N-2291"
@@ -3210,9 +3108,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        14,
-        81,
-        152
+        14
       ],
       "retired_ids": [
         "N-2292"
@@ -3223,9 +3119,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        14,
-        81,
-        152
+        14
       ],
       "retired_ids": [
         "N-2293"
@@ -3236,9 +3130,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        14,
-        81,
-        152
+        14
       ],
       "retired_ids": [
         "N-2294"
@@ -3249,9 +3141,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        14,
-        90,
-        152
+        14
       ],
       "retired_ids": [
         "N-2295"
@@ -3262,9 +3152,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        15,
-        90,
-        152
+        15
       ],
       "retired_ids": [
         "N-2296"
@@ -3275,9 +3163,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        15,
-        90,
-        152
+        15
       ],
       "retired_ids": [
         "N-2297"
@@ -3288,9 +3174,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        15,
-        90,
-        152
+        15
       ],
       "retired_ids": [
         "N-2298"
@@ -3301,9 +3185,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        15,
-        90,
-        152
+        15
       ],
       "retired_ids": [
         "N-2299"
@@ -3314,9 +3196,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        15,
-        90,
-        152
+        15
       ],
       "retired_ids": [
         "N-2300"
@@ -5040,9 +4920,18 @@
     "N-410": {
       "canonical_name": "Terrell Farnsworth",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Tara Farnsworth",
+        "Taro Farnsworth",
+        "Teo Farnsworth",
+        "Terryl Farnsworth"
+      ],
       "episodes": [
         33,
+        46,
+        64,
+        116,
+        121,
         143
       ]
     },
@@ -6211,14 +6100,6 @@
         44
       ]
     },
-    "N-525": {
-      "canonical_name": "Root Brands",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        44
-      ]
-    },
     "N-526": {
       "canonical_name": "El Chapo (Joaqu\u00edn Guzm\u00e1n)",
       "type": "person",
@@ -6390,9 +6271,13 @@
     "N-558": {
       "canonical_name": "Viva Frey",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Viva Frei"
+      ],
       "episodes": [
-        47
+        47,
+        129,
+        147
       ]
     },
     "N-561": {
@@ -8081,14 +7966,17 @@
       "canonical_name": "Marina (TPUSA CMO)",
       "type": "person",
       "aliases": [
+        "Marina Meanes",
+        "Marina Medias",
+        "Marina Medvin",
         "Marina Minas",
-        "Marina Munz",
-        "Marina Meanes"
+        "Marina Munz"
       ],
       "episodes": [
         62,
         70,
-        72
+        72,
+        81
       ],
       "retired_ids": [
         "N-904",
@@ -8191,14 +8079,6 @@
         64,
         158,
         159
-      ]
-    },
-    "N-797": {
-      "canonical_name": "Teo Farnsworth",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        64
       ]
     },
     "N-1517": {
@@ -12877,7 +12757,9 @@
     "N-279": {
       "canonical_name": "Robert Kraft",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Robert Craft"
+      ],
       "episodes": [
         160
       ],
@@ -13314,7 +13196,10 @@
     "N-576": {
       "canonical_name": "Amir Safari",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Amir Safadi",
+        "Amir Sarfati"
+      ],
       "episodes": [
         107
       ],
@@ -13634,6 +13519,357 @@
       ],
       "episodes": [
         99
+      ]
+    },
+    "N-629": {
+      "canonical_name": "Jean-Luc Baguer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        85
+      ]
+    },
+    "N-630": {
+      "canonical_name": "Frederick Vaglio",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        85
+      ]
+    },
+    "N-652": {
+      "canonical_name": "Daniel Balou",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        85
+      ]
+    },
+    "N-663": {
+      "canonical_name": "Zachariah Karashy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-664": {
+      "canonical_name": "Ahmed Qureshi",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-665": {
+      "canonical_name": "Nathan Henderson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-666": {
+      "canonical_name": "Gina Romney Henderson",
+      "type": "person",
+      "aliases": [
+        "Gina Romney"
+      ],
+      "episodes": [
+        87
+      ]
+    },
+    "N-667": {
+      "canonical_name": "Connor Henderson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-668": {
+      "canonical_name": "Jeffrey Knuckles",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-669": {
+      "canonical_name": "Caleb Cunningham",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-670": {
+      "canonical_name": "Michael Shawn Covey",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87
+      ]
+    },
+    "N-671": {
+      "canonical_name": "Derek Niekerk",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        88
+      ]
+    },
+    "N-672": {
+      "canonical_name": "Monica Lewinsky",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        89
+      ]
+    },
+    "N-673": {
+      "canonical_name": "Pope Leo XIV",
+      "type": "person",
+      "aliases": [
+        "Pope Leo",
+        "Pope Leo the 14th",
+        "His Holiness Pope Leo"
+      ],
+      "episodes": [
+        90
+      ]
+    },
+    "N-674": {
+      "canonical_name": "Doug Terry",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        90
+      ]
+    },
+    "N-675": {
+      "canonical_name": "Jimmy Barbecue",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        91
+      ]
+    },
+    "N-676": {
+      "canonical_name": "Daniel Horner",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        91
+      ]
+    },
+    "N-677": {
+      "canonical_name": "Richard Novak",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        94
+      ]
+    },
+    "N-678": {
+      "canonical_name": "Alan Jacoby",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        94
+      ]
+    },
+    "N-679": {
+      "canonical_name": "Mike Lawler",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        97
+      ]
+    },
+    "N-680": {
+      "canonical_name": "Josh Gottheimer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        97
+      ]
+    },
+    "N-681": {
+      "canonical_name": "Josef Mengele",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        97
+      ]
+    },
+    "N-682": {
+      "canonical_name": "Chad Schnitker",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        98
+      ]
+    },
+    "N-683": {
+      "canonical_name": "John Amanchukwu",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        102
+      ]
+    },
+    "N-684": {
+      "canonical_name": "Kimberly Klacik",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        102
+      ]
+    },
+    "N-685": {
+      "canonical_name": "Kristoff Schweizer",
+      "type": "person",
+      "aliases": [
+        "Kristoff Schweiser"
+      ],
+      "episodes": [
+        110
+      ]
+    },
+    "N-686": {
+      "canonical_name": "Leola Anderson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        110
+      ]
+    },
+    "N-687": {
+      "canonical_name": "Rick Cutler",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        123
+      ]
+    },
+    "N-688": {
+      "canonical_name": "Eliot Spitzer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        125
+      ]
+    },
+    "N-689": {
+      "canonical_name": "Brad Parscale",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        126
+      ]
+    },
+    "N-709": {
+      "canonical_name": "Dan Bongino",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        127,
+        128
+      ]
+    },
+    "N-777": {
+      "canonical_name": "Beau Mason",
+      "type": "person",
+      "aliases": [
+        "Bo Mason",
+        "Beau \"Bo\" Mason"
+      ],
+      "episodes": [
+        128
+      ]
+    },
+    "N-787": {
+      "canonical_name": "Jennifer Faumuina",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        128
+      ]
+    },
+    "N-806": {
+      "canonical_name": "Sapena Faumuina",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        128
+      ]
+    },
+    "N-807": {
+      "canonical_name": "Misiona Faumuina",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        128
+      ]
+    },
+    "N-808": {
+      "canonical_name": "Sid Rosen",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        128
+      ]
+    },
+    "N-809": {
+      "canonical_name": "Gayle King",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        131
+      ]
+    },
+    "N-810": {
+      "canonical_name": "Pastor Russell",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        132
+      ]
+    },
+    "N-811": {
+      "canonical_name": "Christopher Hawk",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        136
+      ]
+    },
+    "N-812": {
+      "canonical_name": "Mark Bricker",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        144
+      ]
+    },
+    "N-813": {
+      "canonical_name": "Justin Davis",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        147
+      ]
+    },
+    "N-2393": {
+      "canonical_name": "Root Brands",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        44
+      ],
+      "retired_ids": [
+        "N-525"
       ]
     }
   }

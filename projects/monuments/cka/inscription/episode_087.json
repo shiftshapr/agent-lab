@@ -31,7 +31,6 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-1208",
             "N-1648"
           ],
           "tags": [],
@@ -692,6 +691,204 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-192",
+      "ref": "N-192",
+      "name": "Andrew Zanger",
+      "type": "person",
+      "description": "Andrew Zanger (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2639",
+        "C-2640",
+        "C-2641",
+        "C-2642",
+        "C-2644",
+        "C-2649",
+        "C-2650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-663",
+      "ref": "N-663",
+      "name": "Zachariah Karashy",
+      "type": "person",
+      "description": "First named by the host at 00:06:41 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2627",
+        "C-2628",
+        "C-2629"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-664",
+      "ref": "N-664",
+      "name": "Ahmed Qureshi",
+      "type": "person",
+      "description": "First named by the host at 00:09:45 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2627",
+        "C-2628",
+        "C-2629",
+        "C-2631",
+        "C-2632",
+        "C-2633",
+        "C-2634",
+        "C-2638"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-665",
+      "ref": "N-665",
+      "name": "Nathan Henderson",
+      "type": "person",
+      "description": "First named by the host at 00:16:55 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2631",
+        "C-2632",
+        "C-2633",
+        "C-2634",
+        "C-2638"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-667",
+      "ref": "N-667",
+      "name": "Connor Henderson",
+      "type": "person",
+      "description": "First named by the host at 00:17:51 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2631",
+        "C-2632",
+        "C-2633",
+        "C-2634",
+        "C-2638"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-666",
+      "ref": "N-666",
+      "name": "Gina Romney Henderson",
+      "type": "person",
+      "description": "First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2631",
+        "C-2632",
+        "C-2633",
+        "C-2634",
+        "C-2638"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-669",
+      "ref": "N-669",
+      "name": "Caleb Cunningham",
+      "type": "person",
+      "description": "First named by the host at 00:25:43 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2639",
+        "C-2640",
+        "C-2641",
+        "C-2642",
+        "C-2644",
+        "C-2649",
+        "C-2650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-668",
+      "ref": "N-668",
+      "name": "Jeffrey Knuckles",
+      "type": "person",
+      "description": "First named by the host at 00:25:43 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2639",
+        "C-2640",
+        "C-2641",
+        "C-2642",
+        "C-2644",
+        "C-2649",
+        "C-2650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-670",
+      "ref": "N-670",
+      "name": "Michael Shawn Covey",
+      "type": "person",
+      "description": "First named by the host at 00:27:39 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2639",
+        "C-2640",
+        "C-2641",
+        "C-2642",
+        "C-2644",
+        "C-2649",
+        "C-2650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -732,7 +929,9 @@
       "investigative_direction": "Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records.",
       "mentions_person_refs": [
         "N-1",
-        "N-102"
+        "N-102",
+        "N-663",
+        "N-664"
       ]
     },
     {
@@ -751,7 +950,9 @@
       "claim_timestamp": "00:09:01",
       "investigative_direction": "Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of \"Zachariah Karashy.\"",
       "mentions_person_refs": [
-        "N-102"
+        "N-102",
+        "N-663",
+        "N-664"
       ]
     },
     {
@@ -769,7 +970,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:41–00:09:45",
-      "investigative_direction": "Confirm spelling of \"Karashy\" vs. \"Qureshi\" against official detention records; the name discrepancy requires resolution."
+      "investigative_direction": "Confirm spelling of \"Karashy\" vs. \"Qureshi\" against official detention records; the name discrepancy requires resolution.",
+      "mentions_person_refs": [
+        "N-663",
+        "N-664"
+      ]
     },
     {
       "@type": "Claim",
@@ -785,7 +990,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:27–00:12:44",
-      "investigative_direction": "Verify current rank and command assignment via official military biography."
+      "investigative_direction": "Verify current rank and command assignment via official military biography.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -802,7 +1008,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date."
+      "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.",
+      "mentions_person_refs": [
+        "N-664",
+        "N-665",
+        "N-667",
+        "N-666"
+      ]
     },
     {
       "@type": "Claim",
@@ -819,7 +1031,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:43–00:16:05",
-      "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline."
+      "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.",
+      "mentions_person_refs": [
+        "N-664",
+        "N-665",
+        "N-667",
+        "N-666"
+      ]
     },
     {
       "@type": "Claim",
@@ -835,7 +1053,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:51",
-      "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim."
+      "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim.",
+      "mentions_person_refs": [
+        "N-664",
+        "N-665",
+        "N-667",
+        "N-666"
+      ]
     },
     {
       "@type": "Claim",
@@ -851,7 +1075,11 @@
       "claim_timestamp": "00:17:51–00:19:43",
       "investigative_direction": "Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-664",
+        "N-665",
+        "N-667",
+        "N-666"
       ]
     },
     {
@@ -868,7 +1096,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:26–00:33:30",
-      "investigative_direction": "Retrieve the 2004 NAS report and 2007 WaPo article in full; verify FBI's formal abandonment date."
+      "investigative_direction": "Retrieve the 2004 NAS report and 2007 WaPo article in full; verify FBI's formal abandonment date.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -919,7 +1148,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:55–00:17:51",
-      "investigative_direction": "Pull property records for Keller, Texas to identify ownership/residency history of both families."
+      "investigative_direction": "Pull property records for Keller, Texas to identify ownership/residency history of both families.",
+      "mentions_person_refs": [
+        "N-664",
+        "N-665",
+        "N-667",
+        "N-666"
+      ]
     },
     {
       "@type": "Claim",
@@ -933,7 +1168,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:46",
-      "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings."
+      "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -945,7 +1186,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:46–00:24:39",
-      "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history."
+      "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history.",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -959,7 +1206,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:39",
-      "investigative_direction": "Confirm via BYU Jerusalem Center enrollment records or alumni directory."
+      "investigative_direction": "Confirm via BYU Jerusalem Center enrollment records or alumni directory.",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -973,7 +1226,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:39–00:25:43",
-      "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record."
+      "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record.",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -988,7 +1247,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:30",
-      "investigative_direction": "Identify Metro One Talent corporate records and any government contract listings."
+      "investigative_direction": "Identify Metro One Talent corporate records and any government contract listings.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1002,7 +1262,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:39",
-      "investigative_direction": "Verify any government contract records for \"Michael Shawn Covey.\""
+      "investigative_direction": "Verify any government contract records for \"Michael Shawn Covey.\"",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -1018,7 +1284,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:18",
-      "investigative_direction": "Confirm via BYU athletics records and class roster."
+      "investigative_direction": "Confirm via BYU athletics records and class roster.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1070,7 +1337,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:43–00:30:18",
-      "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation."
+      "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1082,7 +1350,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:43–00:26:30",
-      "investigative_direction": "Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment."
+      "investigative_direction": "Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment.",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -1094,7 +1368,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:43–00:26:30",
-      "investigative_direction": "Verify via Romney 2012 campaign staff biographies."
+      "investigative_direction": "Verify via Romney 2012 campaign staff biographies.",
+      "mentions_person_refs": [
+        "N-192",
+        "N-669",
+        "N-668",
+        "N-670"
+      ]
     },
     {
       "@type": "Claim",
@@ -1108,7 +1388,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:47:08–00:48:01",
-      "investigative_direction": "Identify any open-source reporting on BYU recruitment ties."
+      "investigative_direction": "Identify any open-source reporting on BYU recruitment ties.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1124,7 +1405,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:01",
-      "investigative_direction": "Retrieve the actual 2009 paper and verify the journal of publication and peer review status."
+      "investigative_direction": "Retrieve the actual 2009 paper and verify the journal of publication and peer review status.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

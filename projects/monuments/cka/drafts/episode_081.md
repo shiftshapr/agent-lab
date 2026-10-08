@@ -216,6 +216,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
+
 **N-1620** September 10 Plane Logistics Discrepancy
 
 Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and "on the plane" during the 1:30–3:25 p.m. Utah window.
@@ -455,6 +456,7 @@ Claim Timestamp: 00:24:14
 Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.
 
 Anchored Artifacts: A-1881.1
+Mentions: N-789
 
 Related Nodes: N-1620, N-1625
 
@@ -469,6 +471,7 @@ Claim Timestamp: 00:25:31
 Claim: Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
+Mentions: N-789
 
 Related Nodes: N-1625
 
@@ -584,4 +587,6 @@ Investigative Direction: Verify via message logs, witness statements, or platfor
 *[Flag: Claim failed admission test – no artifact anchor in this episode]*
 
 ---
+
+
 

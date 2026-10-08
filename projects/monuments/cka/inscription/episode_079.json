@@ -573,7 +573,6 @@
             "C-2490"
           ],
           "related_nodes": [
-            "N-1207",
             "N-50",
             "N-1613"
           ],
@@ -601,7 +600,6 @@
             "C-2491"
           ],
           "related_nodes": [
-            "N-1208",
             "N-50",
             "N-1613"
           ],
@@ -986,52 +984,6 @@
       ],
       "related_claims": [
         "C-2489"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-50",
-        "N-1613"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Author of X post A-1858.1 claiming existence of a list of foreign-money recipients.",
-      "related_artifacts": [
-        "A-1858.1"
-      ],
-      "related_claims": [
-        "C-2490"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-50",
-        "N-1613"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Author of X post A-1859.1 comparing Tucker Carlson prosecution risk to Epstein list.",
-      "related_artifacts": [
-        "A-1859.1"
-      ],
-      "related_claims": [
-        "C-2491"
       ],
       "tags": [],
       "evidence_count": 1,

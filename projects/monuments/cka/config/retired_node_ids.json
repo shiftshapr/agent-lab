@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated": "2026-10-08T04:18:27Z",
+  "updated": "2026-10-08T19:42:34Z",
   "description": "CKA tombstone ledger, rebuilt in Wave 1 from CKA history: Batch 1 remap entries that differ from BoC, PR47-PR51 and PR48 collapses, and Wave 1 moves. Verbatim Bride of Charlie copies were removed. Keys legacy-N-X are enforced by dia_preflight (X may not be cited unless active); wave1-N-X keys document a second event on an id that already has a legacy key. Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-1001": {
@@ -1401,7 +1401,7 @@
     "legacy-N-997": {
       "survives_as": "N-628",
       "canonical_name": "Emmanuel Macron",
-      "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron)."
+      "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron); survives as N-628 after Wave 2.1 renumber of N-898."
     },
     "legacy-N-999": {
       "survives_as": "N-339",
@@ -2442,6 +2442,16 @@
       "survives_as": "N-628",
       "canonical_name": "Emmanuel Macron",
       "reason": "Wave 2.1 (PR 60 full adversarial P0): Reused in ep38 but listed New in ep69. Introduced at his first appearance (ep38) as a hole mint at the lowest free person id N-628; N-898 tombstoned and not reused."
+    },
+    "legacy-N-525": {
+      "survives_as": "N-2393",
+      "canonical_name": "Root Brands",
+      "reason": "Wave 3: company typed as person in the person band; tip-minted to org band as N-2393 at ep44."
+    },
+    "legacy-N-797": {
+      "survives_as": "N-410",
+      "canonical_name": "Teo Farnsworth",
+      "reason": "Wave 3 Farnsworth ASR collapse: Teo Farnsworth is the same AV/SD-card operator as Terrell Farnsworth (N-410)."
     }
   },
   "reserved_baseline_ids": {

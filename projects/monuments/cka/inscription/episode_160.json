@@ -230,6 +230,30 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2496",
+      "family_ref": "A-2496",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2496.1",
+          "ref": "A-2496.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3679"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "00:57:32",
+          "transcript_snippet": "...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um...",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1514,6 +1538,42 @@
       "mentions_person_refs": [
         "N-3",
         "N-552"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3678",
+      "ref": "C-3678",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:32",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um investigation to stay alive. Couldn't d...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3679",
+      "ref": "C-3679",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2496.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:32",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
       ]
     }
   ],

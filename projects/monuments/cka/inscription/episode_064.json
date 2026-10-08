@@ -34,7 +34,7 @@
           "related_nodes": [
             "N-2",
             "N-264",
-            "N-797"
+            "N-410"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -304,25 +304,6 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Person",
-      "@id": "N-797",
-      "ref": "N-797",
-      "name": "Teo Farnsworth",
-      "type": "person",
-      "description": "Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.",
-      "related_artifacts": [
-        "A-1686.1"
-      ],
-      "related_claims": [
-        "C-2220"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1517",
       "ref": "N-1517",
@@ -473,6 +454,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2220"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -754,7 +752,7 @@
       "claim_timestamp": "00:16:46",
       "investigative_direction": "Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.",
       "mentions_person_refs": [
-        "N-797"
+        "N-410"
       ]
     },
     {

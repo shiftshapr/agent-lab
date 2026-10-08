@@ -736,6 +736,22 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1066,6 +1082,23 @@
       "tags": [],
       "claim_timestamp": "00:55:55",
       "investigative_direction": "Verify PEACE 2025 aircraft attendance records; independently confirm N1098L ownership, registration history, and any ties to Israeli defense manufacturers."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3646",
+      "ref": "C-3646",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:07",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...as going through the DCIA tips box, you know, our decentralized intelligence agency tips box. And I found a very interesting email. I'm going to be very careful here to make sure I do...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

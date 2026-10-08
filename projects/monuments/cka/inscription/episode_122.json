@@ -73,9 +73,7 @@
           "related_claims": [
             "C-2971"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -91,9 +89,7 @@
           "related_claims": [
             "C-2972"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -119,9 +115,7 @@
             "C-2974",
             "C-2975"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -146,8 +140,7 @@
             "C-2976"
           ],
           "related_nodes": [
-            "N-2095",
-            "N-1207"
+            "N-2095"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,9 +157,7 @@
           "related_claims": [
             "C-2977"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -218,7 +209,6 @@
             "C-2980"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2097"
           ],
           "tags": [],
@@ -315,9 +305,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",

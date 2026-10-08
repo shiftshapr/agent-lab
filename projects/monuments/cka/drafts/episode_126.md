@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
-  - Reused Nodes Appearing: N-37
-  - (see registers)
+ - New Nodes Introduced: N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
+ - Hole-minted Nodes (wave3): N-689
+ - Reused Nodes Appearing: N-37
+ - (see registers)
 
 ---
 
@@ -29,11 +30,11 @@
 - **Analyst / Agent Name:** Episode Analysis Agent
 - **Analysis Date:** 2026-07-15
 - **Ledger Continuation Summary:**
-  - Artifact Families Introduced: A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
-  - Claim Range: C-3027–C-3041
-  - New Nodes Introduced (People): none (Wave 2: local ids removed)
-  - New Nodes Introduced (Investigation Targets): N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+ - Artifact Families Introduced: A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
+ - Claim Range: C-3027–C-3041
+ - New Nodes Introduced (People): none (Wave 2: local ids removed)
+ - New Nodes Introduced (Investigation Targets): N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
+ - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
 
@@ -200,6 +201,13 @@ Confidence Level: High
 ---
 
 # V. Node Register
+
+**N-689** Brad Parscale
+
+First named by the host at 00:34:37 in episode 126.
+
+*Related: C-3039, C-3040*
+
 
 **N-2116** Losee Center–Library Route Discrepancy
 
@@ -473,6 +481,7 @@ Claim Timestamp: 00:34:37
 Claim: Time magazine reported that the Brad Parscale / Clock Tower X digital influence campaign on behalf of the Israeli foreign ministry backfired and failed to achieve its intended impact.
 
 Anchored Artifacts: A-2144.1
+Mentions: N-689
 Related Nodes: N-2121
 Investigative Direction: Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).
 
@@ -485,6 +494,7 @@ Claim Timestamp: 00:35:39
 Claim: Per Time article reporting, the Israeli foreign ministry's contracted digital campaign via Clock Tower X was reportedly spending approximately $1.5 million per day.
 
 Anchored Artifacts: A-2144.1
+Mentions: N-689
 Related Nodes: N-2121
 Investigative Direction: Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.
 
@@ -511,7 +521,7 @@ Investigative Direction: Identify the vendor/contractor who produced the custom 
 - **Building name variations – Losee Center / Lozi / Loews / Eloise Center:** Transcript contains multiple variants; the canonical UVU building name is "Losee Center." Preserve transcript spellings where artifact-bound.
 - **Building name variations – Folsom / Fulton / Foltin Library:** Transcript variants; canonical UVU name is "Fulton Library." Preserve transcript spellings.
 - **Artifact verbally referenced but not shown (C-3033):** Police scanner description of "face mask and tactical gear" is asserted by host; no scanner audio artifact was displayed. Flagged for verification.
-- **Possible transcription error (former local id 1212):** See Frank Cherico/Turek note above.
+- **Possible transcription error:** See Frank Cherico/Turek note above.
 - **Requires human verification:** All four name-spelling flags above and the C-3033 police-scanner assertion.
 - **Timestamp uncertainty:** Artifact C-3033 has no video artifact timestamp; claim is host-paraphrased.
 

@@ -1398,5 +1398,23 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "Meme",
+      "@id": "M-74",
+      "ref": "M-74",
+      "term": "(meme) Make That Make Sense",
+      "type": "meme",
+      "definition": "Host rhetorical challenge demanding coherence from an official narrative",
+      "occurrences": [
+        {
+          "video_timestamp": "00:42:20",
+          "speaker": "N-3",
+          "quote": "",
+          "context": "Wave 3 mint – first transcript introduction.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
 }

@@ -33,8 +33,6 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1207",
-            "N-1208",
             "N-2104"
           ],
           "tags": [],
@@ -53,10 +51,7 @@
             "C-2990",
             "C-2992"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -75,8 +70,6 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1207",
-            "N-1208",
             "N-2103"
           ],
           "tags": [],
@@ -94,9 +87,7 @@
           "related_claims": [
             "C-2991"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -120,10 +111,7 @@
           "related_claims": [
             "C-2990"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -139,9 +127,7 @@
           "related_claims": [
             "C-2987"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -157,9 +143,7 @@
           "related_claims": [
             "C-2991"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -178,8 +162,6 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1207",
-            "N-1208",
             "N-2103"
           ],
           "tags": [],
@@ -190,6 +172,47 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2112",
+      "family_ref": "A-2112",
+      "bundle_name": "Mikey McCoy Hospital Casket Clip",
+      "description": "",
+      "related_claims": [
+        "C-2993"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:33:10",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2113",
+      "family_ref": "A-2113",
+      "bundle_name": "Charlie Kirk Interview Clip – Shabbat / Erika \"God wants your phone on\"",
+      "description": "",
+      "related_claims": [
+        "C-2996"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:41:51–00:42:26",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High (clip played in full)"
     },
     {
       "@type": "ArtifactFamily",
@@ -205,9 +228,7 @@
           "related_claims": [
             "C-2992"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -223,9 +244,7 @@
           "related_claims": [
             "C-2997"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -459,6 +478,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-687",
+      "ref": "N-687",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "First named by the host at 00:12:02 in episode 123.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2997"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -495,7 +531,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:11",
-      "investigative_direction": "Obtain original high-resolution image; have forensic analyst examine blood pattern and origin."
+      "investigative_direction": "Obtain original high-resolution image; have forensic analyst examine blood pattern and origin.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -547,7 +584,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other."
+      "investigative_direction": "Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -562,7 +600,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain higher-resolution images; compare to medical emergency blanket specifications."
+      "investigative_direction": "Obtain higher-resolution images; compare to medical emergency blanket specifications.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -668,7 +707,8 @@
       "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.",
       "mentions_person_refs": [
         "N-424",
-        "N-552"
+        "N-552",
+        "N-687"
       ]
     },
     {
@@ -699,7 +739,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:24",
-      "investigative_direction": "Track for future episode disclosures; verify provenance of any additional photos when released."
+      "investigative_direction": "Track for future episode disclosures; verify provenance of any additional photos when released.",
+      "mentions_person_refs": []
     }
   ],
   "memes": []

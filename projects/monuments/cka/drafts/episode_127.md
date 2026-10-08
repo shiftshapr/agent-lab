@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2124, N-2125, N-2126, N-2127, N-2128, N-2129, N-2130
+  - Hole-minted Nodes (wave3): N-709
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -169,6 +170,13 @@ Confidence Level: Medium (host described content; clip not replayed on air)
 ---
 
 ## 4. Node Register
+
+**N-709** Dan Bongino
+
+First named by the host at 00:45:58 in episode 127.
+
+*Related: C-3054*
+
 
 **N-2124** Officer Bagley Body-Cam Battery Anomaly
 
@@ -428,7 +436,7 @@ Claim Timestamp: 00:46:07–00:47:07
 Claim: Host describes watching Dan Bongino state on Megyn Kelly's show on September 15, 2025, that the screwdriver rooftop footage was too grainy for the FBI's tools to clarify, establishing a baseline against later influencer characterizations of the same footage as "crystal clear."
 
 Anchored Artifacts: A-2152.1
-Mentions: N-75
+Mentions: N-75, N-709
 
 Related Nodes: N-2130
 
@@ -484,4 +492,6 @@ Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records 
 *Failed Admission Test flag: Artifact-Anchor Test is partial – host references Harpole's prior statements but the specific clip is not replayed in this episode.*
 
 ---
+
+
 

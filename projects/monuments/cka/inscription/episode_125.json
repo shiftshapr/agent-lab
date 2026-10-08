@@ -143,7 +143,6 @@
           "description": "Blake Neff tweet responding to prior episode's UVU MASH student-hub discussion",
           "related_claims": [],
           "related_nodes": [
-            "N-1207",
             "N-1"
           ],
           "tags": [],
@@ -172,8 +171,6 @@
             "C-3020"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1209",
             "N-2114"
           ],
           "tags": [],
@@ -230,7 +227,6 @@
             "C-3025"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1"
           ],
           "tags": [],
@@ -345,9 +341,7 @@
           "ref": "A-2137.5",
           "description": "Comment from Ranin: 12-year-old's reaction that \"they're not even good at lying\"",
           "related_claims": [],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -435,9 +429,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -581,6 +573,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-688",
+      "ref": "N-688",
+      "name": "Eliot Spitzer",
+      "type": "person",
+      "description": "First named by the host at 00:21:23 in episode 125.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3021"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -679,7 +688,8 @@
       "claim_timestamp": "00:24:41",
       "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.",
       "mentions_person_refs": [
-        "N-611"
+        "N-611",
+        "N-688"
       ]
     },
     {

@@ -157,7 +157,7 @@ Confidence: medium
 **A-2485** Trump CIA Hat Joke Bundle
 
 **A-2485.1** On-air host joke picturing Trump signed up to candace.com and "wearing um a CIA hat and watching" (verbal reference to the show's CIA hat; no merch shown or sold in this beat).
-Video Timestamp: 00:47:33
+Video Timestamp: 00:47:35
 Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
 Confidence: medium
 *Related: C-3641, N-3, N-5*

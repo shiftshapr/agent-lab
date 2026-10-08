@@ -30,8 +30,6 @@
             "C-2654"
           ],
           "related_nodes": [
-            "N-1208",
-            "N-1209",
             "N-1660"
           ],
           "tags": [],
@@ -50,7 +48,6 @@
             "C-2655"
           ],
           "related_nodes": [
-            "N-1209",
             "N-1660"
           ],
           "tags": [],
@@ -67,8 +64,7 @@
           "description": "Mitch Snow observation of a meeting concluding at Fort Huachuca the day before the event, with multiple O-6s present",
           "related_claims": [],
           "related_nodes": [
-            "N-1660",
-            "N-1209"
+            "N-1660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,7 +82,6 @@
             "C-2655"
           ],
           "related_nodes": [
-            "N-1209",
             "N-1660"
           ],
           "tags": [],
@@ -247,7 +242,6 @@
             "C-2661"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2",
             "N-1658"
           ],
@@ -267,7 +261,6 @@
             "C-2660"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2",
             "N-1658"
           ],
@@ -426,7 +419,6 @@
           "description": "Sean X-post responding to Blake Neff's \"psychopathic predator\" subway framing",
           "related_claims": [],
           "related_nodes": [
-            "N-1207",
             "N-2",
             "N-1658"
           ],
@@ -515,8 +507,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2",
-        "N-1207"
+        "N-2"
       ]
     },
     {
@@ -566,10 +557,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -734,6 +722,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-671",
+      "ref": "N-671",
+      "name": "Derek Niekerk",
+      "type": "person",
+      "description": "First named by the host at 00:42:15 in episode 88.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2667"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -751,7 +756,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:20–00:03:02",
-      "investigative_direction": "Preserve and verify Tour Karashi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records."
+      "investigative_direction": "Preserve and verify Tour Karashi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -767,7 +773,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:20–00:03:02",
-      "investigative_direction": "Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups."
+      "investigative_direction": "Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1001,7 +1008,8 @@
       "claim_timestamp": "00:40:55–00:44:53",
       "investigative_direction": "Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-671"
       ]
     },
     {

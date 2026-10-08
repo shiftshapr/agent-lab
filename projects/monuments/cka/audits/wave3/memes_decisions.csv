@@ -1,0 +1,17 @@
+action,name,new_id,reuse_id,first_episode,first_transcript_time,aliases,reason
+REUSE,Yanking and Banking,,M-24,128,00:31:07,,Already minted as M-24
+REJECT,Frank Turek,,,27,01:00:34,,"Person name, not a meme; do not mint"
+MINT,Make That Make Sense,M-74,,16,00:42:20,make that make sense,MINT
+MINT,I'll Say Allegedly,M-75,,49,00:13:59,allegedly allegedly allegedly;I'm going to cushion this with allegedly,Audit first-hit ep3 was weak; first stacked-allegedly at ep49
+MINT,Pass the Sniff Test,M-76,,67,00:42:15,does not pass the sniff test;pass the sniff test,Audit ep7 miss; first transcript hit ep67
+MINT,Believe Your Own Eyes,M-77,,45,00:19:15,believe your own eyes,MINT
+MINT,Lo and Behold,M-78,,23,00:14:15,lo and behold,MINT
+MINT,Jog Your Memory,M-79,,15,00:09:29,jog your memory,MINT
+MINT,Silence Is Not Kindness,M-80,,23,00:44:14,silence is not kindness,MINT
+MINT,Genocide Is Always Wrong,M-81,,13,00:35:51,genocide is always wrong,MINT
+MINT,Bend the Knee,M-82,,40,00:47:25,bow the knee;bend the knee,MINT
+MINT,Operation Mocking Pastor,M-83,,13,00:47:19,operation mocking pastor;mocking pastor,MINT
+MINT,Bibi Net and Yahoo,M-84,,13,00:31:58,Net and Yahoo;Bibi Net and Yahoo,MINT
+MINT,Bride of Charlie,M-85,,75,00:00:00,Bride of Charlie,MINT
+REUSE,We Don't Know But We Know,,M-15,6,00:19:08,,Already minted as M-15
+DEFER,Something Is Not Right,,,11,00:49:16,Something's not right;something is not right,Overlaps M-15 quote territory; confirm distinct coinage before mint

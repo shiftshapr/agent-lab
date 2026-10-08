@@ -1539,50 +1539,6 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3630",
-      "ref": "C-3630",
-      "label": "Erika Kirk Addressed Nation with Public Remarks",
-      "claim": "Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.",
-      "anchored_artifacts": [
-        "A-1081.1"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:01:41",
-      "investigative_direction": "Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.",
-      "transcript_snippet": "The cries of this widow will echo around the world like a battlecry.",
-      "confidence": "high",
-      "mentions_person_refs": [
-        "N-1",
-        "N-2",
-        "N-3",
-        "N-5"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3631",
-      "ref": "C-3631",
-      "label": "Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death",
-      "claim": "Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.",
-      "anchored_artifacts": [
-        "A-1082.1"
-      ],
-      "related_nodes": [
-        "N-1071"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:07:05",
-      "investigative_direction": "Verify timestamps of Netanyahu's two Fox News appearances relative to Kirk's death.",
-      "transcript_snippet": "Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.",
-      "confidence": "high",
-      "mentions_person_refs": [
-        "N-1",
-        "N-65"
-      ]
-    },
-    {
-      "@type": "Claim",
       "@id": "C-1125",
       "ref": "C-1125",
       "label": "Kirk Wrote Netanyahu a Letter on May 2",
@@ -2024,6 +1980,67 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3630",
+      "ref": "C-3630",
+      "label": "Erika Kirk Addressed Nation with Public Remarks",
+      "claim": "Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.",
+      "anchored_artifacts": [
+        "A-1081.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:41",
+      "investigative_direction": "Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.",
+      "transcript_snippet": "The cries of this widow will echo around the world like a battlecry.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3631",
+      "ref": "C-3631",
+      "label": "Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death",
+      "claim": "Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.",
+      "anchored_artifacts": [
+        "A-1082.1"
+      ],
+      "related_nodes": [
+        "N-1071"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:05",
+      "investigative_direction": "Verify timestamps of Netanyahu's two Fox News appearances relative to Kirk's death.",
+      "transcript_snippet": "Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-65"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3633",
+      "ref": "C-3633",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:08:52",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...8:52] com if you want to join our movement of the decentralized uh intelligence agency. Uh you can head on over to support us and our work. We are entirely independent. [01:09...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
       ]
     },
     {

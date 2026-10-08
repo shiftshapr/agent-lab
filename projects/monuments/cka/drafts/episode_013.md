@@ -747,6 +747,42 @@ Investigative Direction: Obtain independent attendee statements; compare against
 
 ## 6. Meme Register
 
+**M-84** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:31:58
+Speaker: N-3
+Quote: 
+Context: Wave 3 mint – first transcript introduction. Host punning nickname for Netanyahu
+Tags: wave3
+Confidence: medium
+
+
+**M-83** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:47:19
+Speaker: N-3
+Quote: 
+Context: Wave 3 mint – first transcript introduction. Host coinage for alleged pastor/influence ops
+Tags: wave3
+Confidence: medium
+
+
+**M-81** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:35:51
+Speaker: N-3
+Quote: 
+Context: Wave 3 mint – first transcript introduction. Host categorical moral claim used as a recurring line
+Tags: wave3
+Confidence: medium
+
+
 **M-41** (meme) Sock Puppet
 
 ### Occurrence 1

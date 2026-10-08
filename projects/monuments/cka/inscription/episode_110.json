@@ -160,7 +160,6 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-1208",
             "N-2066"
           ],
           "tags": [],
@@ -398,8 +397,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1207",
-        "N-1209"
+        "N-1207"
       ]
     },
     {
@@ -602,6 +600,47 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-685",
+      "ref": "N-685",
+      "name": "Kristoff Schweizer",
+      "type": "person",
+      "description": "First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweiser.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2919",
+        "C-2920",
+        "C-2921",
+        "C-2922",
+        "C-2923",
+        "C-2932",
+        "C-2934"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-686",
+      "ref": "N-686",
+      "name": "Leola Anderson",
+      "type": "person",
+      "description": "First named by the host at 00:37:13 in episode 110.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2925",
+        "C-2926"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -619,7 +658,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:30",
-      "investigative_direction": "Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in."
+      "investigative_direction": "Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -634,7 +674,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:30",
-      "investigative_direction": "Verify Senate roll-call vote and swearing-in date via official Senate records."
+      "investigative_direction": "Verify Senate roll-call vote and swearing-in date via official Senate records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -648,7 +689,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:45",
-      "investigative_direction": "Verify service record via official DoD / Army Special Forces sources."
+      "investigative_direction": "Verify service record via official DoD / Army Special Forces sources.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -664,7 +706,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:00",
-      "investigative_direction": "Verify NSC roster for Trump's first term."
+      "investigative_direction": "Verify NSC roster for Trump's first term.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -681,7 +724,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:10",
-      "investigative_direction": "Verify BCG alumni records and LinkedIn-style biographies."
+      "investigative_direction": "Verify BCG alumni records and LinkedIn-style biographies.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -698,7 +742,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
-      "investigative_direction": "Retrieve original Financial Times article and Project Aurora documents."
+      "investigative_direction": "Retrieve original Financial Times article and Project Aurora documents.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -714,7 +759,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
-      "investigative_direction": "Confirm $4M figure against leaked internal documents referenced by Financial Times."
+      "investigative_direction": "Confirm $4M figure against leaked internal documents referenced by Financial Times.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -730,7 +776,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
-      "investigative_direction": "Verify model parameters against FT-published leaked documents."
+      "investigative_direction": "Verify model parameters against FT-published leaked documents.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -746,7 +793,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
-      "investigative_direction": "Verify model parameters against FT-published leaked documents."
+      "investigative_direction": "Verify model parameters against FT-published leaked documents.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -762,7 +810,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:10",
-      "investigative_direction": "Verify cost ranges against FT-published leaked documents."
+      "investigative_direction": "Verify cost ranges against FT-published leaked documents.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -778,7 +827,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
-      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting."
+      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -794,7 +846,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
-      "investigative_direction": "Locate Schweizer's original statement in Financial Times coverage."
+      "investigative_direction": "Locate Schweizer's original statement in Financial Times coverage.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -813,7 +868,8 @@
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\").",
       "mentions_person_refs": [
-        "N-696"
+        "N-696",
+        "N-685"
       ]
     },
     {
@@ -830,7 +886,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:00",
-      "investigative_direction": "Verify Jake Wood's resignation date and public statement."
+      "investigative_direction": "Verify Jake Wood's resignation date and public statement.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -847,7 +906,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
-      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents."
+      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -863,7 +925,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:20",
-      "investigative_direction": "Identify primary outlet (host references \"elsewhere\"); confirm Fort Huachuca stationing date."
+      "investigative_direction": "Identify primary outlet (host references \"elsewhere\"); confirm Fort Huachuca stationing date.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -879,7 +942,8 @@
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Cross-check NYT article with contemporaneous French press; verify date.",
       "mentions_person_refs": [
-        "N-57"
+        "N-57",
+        "N-686"
       ]
     },
     {
@@ -894,7 +958,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:00",
-      "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\""
+      "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\"",
+      "mentions_person_refs": [
+        "N-686"
+      ]
     },
     {
       "@type": "Claim",
@@ -949,8 +1016,7 @@
       "claim_timestamp": "00:31:50",
       "investigative_direction": "Obtain the actual UVU event submission paperwork; identify the requesting student organization.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -1008,7 +1074,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents."
+      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -1024,7 +1093,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify the existence and nature of the Tacit/Taclith Institute; flag uncertain spelling."
+      "investigative_direction": "Verify the existence and nature of the Tacit/Taclith Institute; flag uncertain spelling.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1040,7 +1110,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting."
+      "investigative_direction": "Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     }
   ],
   "memes": []

@@ -599,6 +599,7 @@ Claim Timestamp: 00:48:02
 Claim: A Charlie Kirk Show segment features Viva Frei explicitly invoking "Sandy Hook 2.0" as a comparison for current conspiracy theories around Kirk's death.
 
 Anchored Artifacts: A-2169.4
+Mentions: N-558
 
 Related Nodes: N-2140
 

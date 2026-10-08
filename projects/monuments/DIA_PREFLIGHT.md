@@ -50,6 +50,7 @@ python3 projects/monuments/bride_of_charlie/scripts/dia_preflight.py
 | `claim_ts_past_end` | P1 | Claim Timestamp after the episode end (`config/yt_durations.json`, else last transcript marker); monuments without `yt_durations.json` opt out |
 | `dangling_claim_ref` | P1 | C-id on a `*Related:*` line or a claim relation field (`Related Claims`, `Contradicts`, `Supports`, `Revises`, `Qualifies`, `Refutes`) with no claim header anywhere in the drafts. Prose notes are not scanned |
 | `claim_missing_from_drafts` | P1 | Claim minted in `inscription/` but not defined in any draft |
+| `inscription_missing` | P1 | Claim or artifact defined in a draft (bold `**C-n**`, `**A-n**` or `**A-n.m**` header) but absent from that episode's `inscription/` JSON (claims, artifact families or their `sub_items`), or a drafted episode with no inscription file |
 | `duplicate_claim_header` | P1 | Same C-id header more than once, including residue headers like `**C-1 / C-2**` |
 | `tombstone_collision` | P1 | Active canonical id listed in another node's `retired_ids` |
 | `name_annotation_mismatch` | P1 | Inline `N-x (Name)` annotation whose Name is not node x (canonical name or alias, else any register row); descriptive labels such as `(verbal reference)` are ignored. For a person node a multi-word label must share the surname (last word) with a name or alias, so a shared first name alone fails. A one-word alias or name variant of a person never satisfies a multi-word label unless that word is the label's surname (last word) |

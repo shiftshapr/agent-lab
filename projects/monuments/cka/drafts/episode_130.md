@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2143, N-2144, N-2145, N-2146
-  - Reused Nodes Appearing: N-57
-  - (see registers)
+ - New Nodes Introduced: N-2143, N-2144, N-2145, N-2146
+ - Reused Nodes Appearing: N-57
+ - (see registers)
 
 ## 2. Executive Summary
 
@@ -180,7 +180,7 @@ Investigative Pressure: Low
 
 **N-2144** Daily Mail Article Sourcing Question
 
-Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" (former local id 1221) as her guess; Kolvet disputes origin via A-2174.1.
+Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" as her guess; Kolvet disputes origin via A-2174.1.
 
 Evidence Count: 2
 Claim Count: 4

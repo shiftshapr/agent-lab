@@ -1048,6 +1048,23 @@
         "N-442",
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3651",
+      "ref": "C-3651",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:33",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, \"We needed a hoodie that says go Max.\" The get me out of here write...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

@@ -336,6 +336,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
+
 **N-2080** USB Logo on Glass Shard Identification
 
 Persistent question of whether the white on shattered glass shards in the SUV matches the Rode Road Mic USB icon.
@@ -599,7 +600,7 @@ Claim Timestamp: 00:19:32–00:20:25
 Claim: A video credited to Tara Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-16
+Mentions: N-16, N-410
 Related Nodes: N-2083
 Investigative Direction: Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.
 
@@ -752,4 +753,6 @@ Related Nodes: N-2085
 Investigative Direction: Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.
 
 ---
+
+
 

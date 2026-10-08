@@ -1276,6 +1276,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1421,9 +1437,7 @@
       "tags": [],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Cross-reference Provo airport manifest or charter operator records; locate and contact the referenced overseas source for further detail.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1496,9 +1510,7 @@
       "tags": [],
       "claim_timestamp": "00:43:20",
       "investigative_direction": "Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1742,7 +1754,59 @@
         "N-45",
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3647",
+      "ref": "C-3647",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:30",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...ized intelligence agency, as we have said, is the decentralized intelligence agency. We must decentralize ourselves to plug out of this utterly demonic system. Anyway, what happened y...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "Meme",
+      "@id": "M-78",
+      "ref": "M-78",
+      "term": "(meme) Lo and Behold",
+      "type": "meme",
+      "definition": "Host ironic reveal marker",
+      "occurrences": [
+        {
+          "video_timestamp": "00:14:15",
+          "speaker": "N-3",
+          "quote": "",
+          "context": "Wave 3 mint – first transcript introduction.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "Meme",
+      "@id": "M-80",
+      "ref": "M-80",
+      "term": "(meme) Silence Is Not Kindness",
+      "type": "meme",
+      "definition": "Host moral framing that withholding truth is not merciful",
+      "occurrences": [
+        {
+          "video_timestamp": "00:44:14",
+          "speaker": "N-3",
+          "quote": "",
+          "context": "Wave 3 mint – first transcript introduction.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
 }

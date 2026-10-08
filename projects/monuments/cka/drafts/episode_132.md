@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2148, N-2149, N-2150, N-2151, N-2152
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
-  - (see registers)
+ - New Nodes Introduced: N-2148, N-2149, N-2150, N-2151, N-2152
+ - Hole-minted Nodes (wave3): N-810
+ - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - (see registers)
 
 ## I. Meta-Data
 
@@ -27,11 +28,11 @@
 - **Analyst / agent name:** Investigative analysis agent
 - **Analysis date:** 2026-07-27
 - **Episode Ledger Summary:**
-  - Artifact Families Introduced: A-2189, A-2190, A-2191, A-2192, A-2193, A-2194, A-2195, A-2196, A-2197
-  - Claim Range: C-3138–C-3149
-  - New People Nodes: none (Wave 2: local ids removed)
-  - New Investigation Target Nodes: N-2148, N-2149, N-2150, N-2151
-  - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erica Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
+ - Artifact Families Introduced: A-2189, A-2190, A-2191, A-2192, A-2193, A-2194, A-2195, A-2196, A-2197
+ - Claim Range: C-3138–C-3149
+ - New People Nodes: none (Wave 2: local ids removed)
+ - New Investigation Target Nodes: N-2148, N-2149, N-2150, N-2151
+ - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erica Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
 
 ---
 
@@ -302,6 +303,12 @@ Excerpt: "The call did in fact take place… it lasted anywhere from 3 to 5 minu
 
 ## IV. Node Register
 
+**N-810** Pastor Russell
+
+First named by the host at 00:23:26 in episode 132.
+
+*Related: C-3142*
+
 
 **N-2152** Andrew Kolvet X Post and Community Note Bundle
 
@@ -408,7 +415,7 @@ Claim Timestamp: 00:24:17
 Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-810
 Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
@@ -510,9 +517,9 @@ Confidence: high
 
 - **Claim failed admission test – C-3147:** Host's exclusive report of Dr. Deidra Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
 - **Artifact verbally referenced but not shown – A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
-- **Name uncertainty – former local id 1210 "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
-- **Name variant preserved – former local id 1207:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
-- **Name variant preserved – former local id 1209:** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
+- **Name uncertainty – "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
+- **Name variant preserved –:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
+- **Name variant preserved –:** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
 - **Artifact verbally referenced but not shown – Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
 - **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
 - **Transcript ambiguity – A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.

@@ -33,7 +33,6 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-1209",
             "N-2225"
           ],
           "tags": [],
@@ -44,6 +43,28 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2328",
+      "family_ref": "A-2328",
+      "bundle_name": "Court Audio – Arraignment / Plea Entry",
+      "description": "Verbatim audio of Tyler Robinson's arraignment, in which defense counsel waives reading of the information and enters pleas of not guilty on Mr. Robinson's behalf to all counts.",
+      "related_claims": [
+        "C-3362",
+        "C-3363"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:08:15–00:08:25",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
     },
     {
       "@type": "ArtifactFamily",
@@ -108,6 +129,278 @@
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:10:41–00:15:34",
           "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2330",
+      "family_ref": "A-2330",
+      "bundle_name": "Vehicle Positioning Diagram (UVU 9/10)",
+      "description": "AI-generated diagram shown to illustrate the arrangement of five relevant vehicles on the UVU lot on September 10, including two security vehicles on the left, two Yukon Denalis in the middle (one carrying Charlie Kirk, one carrying Danny Phillip and Blake Neff), and a Hyundai Palisade on the far right (TPUSA vehicle).",
+      "related_claims": [
+        "C-3371",
+        "C-3372"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-2219",
+        "N-2221"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:10:41–00:15:34",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium (AI-generated; host acknowledges \"we used AI here to demonstrate to you what the vehicles are\")"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2331",
+      "family_ref": "A-2331",
+      "bundle_name": "Security Team Photo",
+      "description": "Photograph of the Charlie Kirk security team shown to the audience, used by the host to request identification of two unidentified members (one in a short-sleeve bright blue shirt at front-right, one in a hat with a beard in the middle).",
+      "related_claims": [
+        "C-3373"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-2219"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:11:32–00:12:13",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2332",
+      "family_ref": "A-2332",
+      "bundle_name": "Matt Walsh X Post",
+      "description": "X post read aloud on air: \"We have a lawyer justifying political assassination in one court case, and another lawyer justifying the mass murder of children in another. Very dark times in America.\" Host identifies the second sentence as referring to the Lindsay Clancy case.",
+      "related_claims": [
+        "C-3374",
+        "C-3375"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-2223"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:39:42",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2333",
+      "family_ref": "A-2333",
+      "bundle_name": "Viva Frei X Post",
+      "description": "X post referenced by host in same outrage cluster as Walsh's, no verbatim text quoted. Host states she has blocked Viva Frei.",
+      "related_claims": [
+        "C-3376"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-2223"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:40:25",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium (post not quoted verbatim; artifact verbally referenced)"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2334",
+      "family_ref": "A-2334",
+      "bundle_name": "Graham Allen X Post",
+      "description": "X post quoted by host: \"Are you kidding me? Are you kidding me? Tyler Robin's defense attorney attacked Charlie Kirk in court. This man is a lunatic.\"",
+      "related_claims": [
+        "C-3377"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-2223"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:40:36",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2335",
+      "family_ref": "A-2335",
+      "bundle_name": "Blake Neff / Brandon Tatum Identical X Post",
+      "description": "X post (host states it was sent identically by both Blake Neff and Brandon Tatum, but \"not at the same time\"): \"Outrageous moment in court as defense attorney Richard Novac starts trashing Charlie declaring that it is true Charlie spoke hatefully about people who were not heterosexual or had sex outside of marriage.\"",
+      "related_claims": [
+        "C-3378"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-2223"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:40:50",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2336",
+      "family_ref": "A-2336",
+      "bundle_name": "Court Audio – Defense Counsel Richard Novac Argument",
+      "description": "Verbatim audio of Richard Novac's probable-cause-hearing argument, stating that \"It is true that Mr. Kirk spoke hatefully of certain groups of people,\" and arguing that the state's political-motivation theory relies on inferring upon an inference regarding the relationship between Tyler Robinson and Lance Twiggs.",
+      "related_claims": [
+        "C-3379",
+        "C-3380",
+        "C-3381",
+        "C-3382"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-2223",
+        "N-2224"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:42:00–00:43:30",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2337",
+      "family_ref": "A-2337",
+      "bundle_name": "Court Filing – August 11 Defense Filing (incl. page 32)",
+      "description": "Court filing referenced by host; specifically page 32, fourth paragraph, addressing the state's political-motivation enhancement theory. Verbatim text read aloud includes: \"Ironically, it is the state that argues that because Mr. Robinson and Mr. Twiggs are two men who love each other and or it speculates because Mr. Twiggs and not Mr. Robinson was at least intermittently identifying as a female to his close friends…\"",
+      "related_claims": [
+        "C-3380",
+        "C-3381",
+        "C-3382",
+        "C-3383"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-2223",
+        "N-2224"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:47:55–00:49:25",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High (text read aloud; full filing not shown)"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2338",
+      "family_ref": "A-2338",
+      "bundle_name": "Court Audio – Blake Neff Testimony",
+      "description": "Verbatim audio of Blake Neff's prior testimony describing the moment of the shot, his and Mikey's decision to run, the ~20-second window in which he concluded no further shooter was present, and his observation of Mikey's emotional state and subsequent phone calls (to \"Erika\" and to Robin McCoy).",
+      "related_claims": [
+        "C-3384",
+        "C-3385",
+        "C-3386"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-2222"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:28:14–00:31:39",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2339",
+      "family_ref": "A-2339",
+      "bundle_name": "Read-Aloud Comments – Episode 146",
+      "description": "User comments read aloud from the prior episode's comment section, including a YouTube user named \"I made cake\" attributing a \"so much blood\" quote to Mikey McCoy via Pastor Jack Hibbs.",
+      "related_claims": [
+        "C-3386"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-2222"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:54:25–00:55:08",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2340",
+      "family_ref": "A-2340",
+      "bundle_name": "Read-Aloud Comments – Episode 147",
+      "description": "User comments read aloud during this episode, including: Zammit (\"No one for a moment should underestimate Candace Owens' resolve to return to the foxhole to protect her little brother's memory\"); Seven sheets (\"The liars' lies will expose them…\"); Very Scary Mary; Brooke; Patio (\"New shirt idea. We don't know how they know, but they knew\"); I don't give a damn; Rosario; Kelly Martini; Lola Wildy.",
+      "related_claims": [],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "01:04:00",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2492",
+      "family_ref": "A-2492",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2492.1",
+          "ref": "A-2492.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3668"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "01:03:55",
+          "transcript_snippet": "...e on the website. Also, while you're there, buy a CIA hat. It's great. I love when I see people out and they have the CIA hat out. Um and it is we know actua...",
           "confidence": "medium"
         }
       ]
@@ -287,7 +580,6 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1207",
-        "N-1209",
         "N-69"
       ]
     },
@@ -518,6 +810,60 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-558",
+      "ref": "N-558",
+      "name": "Viva Frey",
+      "type": "person",
+      "description": "Viva Frey (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3376"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-813",
+      "ref": "N-813",
+      "name": "Justin Davis",
+      "type": "person",
+      "description": "First named by the host at 00:12:13 in episode 147.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3364",
+        "C-3365",
+        "C-3367",
+        "C-3368",
+        "C-3372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -574,7 +920,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
-      "investigative_direction": "Compare this on-record concession against the state's preserved theory of the case and any superseding indictment."
+      "investigative_direction": "Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -665,7 +1012,8 @@
       "claim_timestamp": "00:20:06",
       "investigative_direction": "Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.",
       "mentions_person_refs": [
-        "N-224"
+        "N-224",
+        "N-813"
       ]
     },
     {
@@ -685,7 +1033,8 @@
       "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.",
       "mentions_person_refs": [
         "N-611",
-        "N-272"
+        "N-272",
+        "N-813"
       ]
     },
     {
@@ -721,7 +1070,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:38",
-      "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any."
+      "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any.",
+      "mentions_person_refs": [
+        "N-813"
+      ]
     },
     {
       "@type": "Claim",
@@ -736,7 +1088,8 @@
       "investigative_direction": "Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts).",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-813"
       ]
     },
     {
@@ -753,7 +1106,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
-      "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose."
+      "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -770,7 +1124,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
-      "investigative_direction": "Cross-reference against security radio logs and Christopher's own timeline."
+      "investigative_direction": "Cross-reference against security radio logs and Christopher's own timeline.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -788,7 +1143,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:16",
-      "investigative_direction": "Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements."
+      "investigative_direction": "Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -804,7 +1160,8 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-813"
       ]
     },
     {
@@ -857,7 +1214,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
-      "investigative_direction": "This is a host-stance claim; verification would require Walsh's reply or retraction."
+      "investigative_direction": "This is a host-stance claim; verification would require Walsh's reply or retraction.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -873,7 +1231,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
-      "investigative_direction": "Locate the specific post; verify timestamp."
+      "investigative_direction": "Locate the specific post; verify timestamp.",
+      "mentions_person_refs": [
+        "N-558"
+      ]
     },
     {
       "@type": "Claim",
@@ -1183,6 +1544,59 @@
       "investigative_direction": "Cross-reference against his prior and subsequent statements; verify which SUV he is referring to.",
       "mentions_person_refs": [
         "N-224"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3667",
+      "ref": "C-3667",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:03:55",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...he CIA hat out. Um and it is we know actually the decentralized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3668",
+      "ref": "C-3668",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2492.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:03:55",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...e on the website. Also, while you're there, buy a CIA hat. It's great. I love when I see people out and they have the CIA hat out. Um and it is we know actua...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3669",
+      "ref": "C-3669",
+      "label": "Host says DIA / crowd intel has no nucleus",
+      "claim": "The host claims the decentralized / crowd intelligence effort has \"no nucleus,\" emphasizing distributed tip-gathering rather than a central cell.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:03:55",
+      "investigative_direction": "Keep as DIA structure metaphor claim alongside M-12 brand cites.",
+      "transcript_snippet": "...ized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully discussing when we should drop cert...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
       ]
     }
   ],

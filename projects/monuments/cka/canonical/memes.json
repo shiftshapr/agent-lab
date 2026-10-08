@@ -1,8 +1,8 @@
 {
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
-  "updated": "2026-10-07T15:45:00Z",
-  "next_id": 74,
+  "updated": "2026-10-08T19:40:19Z",
+  "next_id": 86,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -770,6 +770,131 @@
       "definition": "Host joke about losing count of which baby number she is on",
       "context": "cka",
       "first_episode": 161
+    },
+    "M-74": {
+      "canonical_term": "(meme) Make That Make Sense",
+      "type": "meme",
+      "aliases": [
+        "make that make sense"
+      ],
+      "definition": "Host rhetorical challenge demanding coherence from an official narrative",
+      "context": "cka",
+      "first_episode": 16
+    },
+    "M-75": {
+      "canonical_term": "(meme) I'll Say Allegedly",
+      "type": "meme",
+      "aliases": [
+        "allegedly allegedly allegedly",
+        "I'm going to cushion this with allegedly"
+      ],
+      "definition": "Host hedge stacking allegedly when relaying tipster claims",
+      "context": "cka",
+      "first_episode": 49
+    },
+    "M-76": {
+      "canonical_term": "(meme) Pass the Sniff Test",
+      "type": "meme",
+      "aliases": [
+        "does not pass the sniff test",
+        "pass the sniff test"
+      ],
+      "definition": "Host judgment that a claim smells wrong / fails basic plausibility",
+      "context": "cka",
+      "first_episode": 67
+    },
+    "M-77": {
+      "canonical_term": "(meme) Believe Your Own Eyes",
+      "type": "meme",
+      "aliases": [
+        "believe your own eyes"
+      ],
+      "definition": "Host exhortation to trust visible evidence over gaslighting",
+      "context": "cka",
+      "first_episode": 45
+    },
+    "M-78": {
+      "canonical_term": "(meme) Lo and Behold",
+      "type": "meme",
+      "aliases": [
+        "lo and behold"
+      ],
+      "definition": "Host ironic reveal marker",
+      "context": "cka",
+      "first_episode": 23
+    },
+    "M-79": {
+      "canonical_term": "(meme) Jog Your Memory",
+      "type": "meme",
+      "aliases": [
+        "jog your memory"
+      ],
+      "definition": "Host prompt recalling prior evidence for the audience",
+      "context": "cka",
+      "first_episode": 15
+    },
+    "M-80": {
+      "canonical_term": "(meme) Silence Is Not Kindness",
+      "type": "meme",
+      "aliases": [
+        "silence is not kindness"
+      ],
+      "definition": "Host moral framing that withholding truth is not merciful",
+      "context": "cka",
+      "first_episode": 23
+    },
+    "M-81": {
+      "canonical_term": "(meme) Genocide Is Always Wrong",
+      "type": "meme",
+      "aliases": [
+        "genocide is always wrong"
+      ],
+      "definition": "Host categorical moral claim used as a recurring line",
+      "context": "cka",
+      "first_episode": 13
+    },
+    "M-82": {
+      "canonical_term": "(meme) Bend the Knee",
+      "type": "meme",
+      "aliases": [
+        "bow the knee",
+        "bend the knee"
+      ],
+      "definition": "Host refusal to submit to pressure / evil",
+      "context": "cka",
+      "first_episode": 40
+    },
+    "M-83": {
+      "canonical_term": "(meme) Operation Mocking Pastor",
+      "type": "meme",
+      "aliases": [
+        "operation mocking pastor",
+        "mocking pastor"
+      ],
+      "definition": "Host coinage for alleged pastor/influence ops",
+      "context": "cka",
+      "first_episode": 13
+    },
+    "M-84": {
+      "canonical_term": "(meme) Bibi Net and Yahoo",
+      "type": "meme",
+      "aliases": [
+        "Net and Yahoo",
+        "Bibi Net and Yahoo"
+      ],
+      "definition": "Host punning nickname for Netanyahu",
+      "context": "cka",
+      "first_episode": 13
+    },
+    "M-85": {
+      "canonical_term": "(meme) Bride of Charlie",
+      "type": "meme",
+      "aliases": [
+        "Bride of Charlie"
+      ],
+      "definition": "Series title used as in-show meme/brand",
+      "context": "cka",
+      "first_episode": 75
     }
   },
   "types": {

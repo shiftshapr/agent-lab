@@ -31,8 +31,7 @@
             "C-3314"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,8 +48,7 @@
             "C-3314"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,9 +256,7 @@
             "C-3324",
             "C-3325"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -310,9 +306,7 @@
             "C-3324",
             "C-3325"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -327,9 +321,7 @@
           "related_claims": [
             "C-3325"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -428,8 +420,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1207",
-        "N-1208"
+        "N-1207"
       ]
     },
     {
@@ -451,9 +442,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -580,6 +569,79 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Charlie Kirk (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3313",
+        "C-3314",
+        "C-3323",
+        "C-3324"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3325"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3321",
+        "C-3322"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-812",
+      "ref": "N-812",
+      "name": "Mark Bricker",
+      "type": "person",
+      "description": "First named by the host at 00:18:29 in episode 144.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3317",
+        "C-3320"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -678,7 +740,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
-      "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel."
+      "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
+      "mentions_person_refs": [
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -695,7 +760,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:17:30",
-      "investigative_direction": "Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift."
+      "investigative_direction": "Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -711,7 +777,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:30–00:18:30",
-      "investigative_direction": "Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification."
+      "investigative_direction": "Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -728,7 +795,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:30–00:20:30",
-      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit."
+      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
+      "mentions_person_refs": [
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",

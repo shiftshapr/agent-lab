@@ -31,8 +31,6 @@
             "C-2811"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
             "N-3"
           ],
           "tags": [],
@@ -51,7 +49,6 @@
             "C-2812"
           ],
           "related_nodes": [
-            "N-1207",
             "N-3"
           ],
           "tags": [],
@@ -102,7 +99,6 @@
             "C-2815"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1719"
           ],
           "tags": [],
@@ -137,9 +133,7 @@
           "related_claims": [
             "C-2819"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -156,7 +150,6 @@
             "C-2818"
           ],
           "related_nodes": [
-            "N-1207",
             "N-3"
           ],
           "tags": [],
@@ -229,7 +222,6 @@
             "C-2819"
           ],
           "related_nodes": [
-            "N-1207",
             "N-3"
           ],
           "tags": [],
@@ -248,7 +240,6 @@
             "C-2818"
           ],
           "related_nodes": [
-            "N-1207",
             "N-3",
             "N-1718"
           ],
@@ -269,7 +260,6 @@
             "C-2819"
           ],
           "related_nodes": [
-            "N-1207",
             "N-3"
           ],
           "tags": [],
@@ -595,7 +585,6 @@
           "description": "Selected comments including Michael Jester's note about malicious-prosecution exposure for SLAPP suits and Jen Common's note on UVU drone authorization form",
           "related_claims": [],
           "related_nodes": [
-            "N-1207",
             "N-1720"
           ],
           "tags": [],
@@ -920,6 +909,88 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2825",
+        "C-2826",
+        "C-2827"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-680",
+      "ref": "N-680",
+      "name": "Josh Gottheimer",
+      "type": "person",
+      "description": "First named by the host at 00:50:06 in episode 97.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2828",
+        "C-2829",
+        "C-2830",
+        "C-2831",
+        "C-2832"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-679",
+      "ref": "N-679",
+      "name": "Mike Lawler",
+      "type": "person",
+      "description": "First named by the host at 00:50:06 in episode 97.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2828",
+        "C-2829",
+        "C-2830",
+        "C-2831",
+        "C-2832"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-681",
+      "ref": "N-681",
+      "name": "Josef Mengele",
+      "type": "person",
+      "description": "First named by the host at 00:53:42 in episode 97.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2828",
+        "C-2829",
+        "C-2830",
+        "C-2831",
+        "C-2832"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -953,7 +1024,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:23",
-      "investigative_direction": "Obtain the pre-filing email; verify whether it contained a formal retraction request."
+      "investigative_direction": "Obtain the pre-filing email; verify whether it contained a formal retraction request.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -987,7 +1059,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:04",
-      "investigative_direction": "Locate and review the \"Charlie's Angels or Demons\" episode to verify whether Harpole was named and to identify the actual subjects of the commentary."
+      "investigative_direction": "Locate and review the \"Charlie's Angels or Demons\" episode to verify whether Harpole was named and to identify the actual subjects of the commentary.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1003,7 +1076,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:16",
-      "investigative_direction": "Review \"The Great Exodus from Utah\" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages."
+      "investigative_direction": "Review \"The Great Exodus from Utah\" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1019,7 +1093,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:44",
-      "investigative_direction": "Review defamation caselaw on limited-purpose public figure doctrine and assess Harpole's voluntary insertion into the controversy."
+      "investigative_direction": "Review defamation caselaw on limited-purpose public figure doctrine and assess Harpole's voluntary insertion into the controversy.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1035,7 +1110,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:29",
-      "investigative_direction": "Confirm the air date of Harpole's Sean Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole."
+      "investigative_direction": "Confirm the air date of Harpole's Sean Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1092,7 +1168,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:23:57",
-      "investigative_direction": "Assess credibility of this litigation rationale against the timing (December to April delay) and the lawsuit-filing posture."
+      "investigative_direction": "Assess credibility of this litigation rationale against the timing (December to April delay) and the lawsuit-filing posture.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1271,7 +1348,10 @@
       "claim_timestamp": "00:50:32",
       "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-680",
+        "N-679",
+        "N-681"
       ]
     },
     {
@@ -1290,7 +1370,10 @@
       "claim_timestamp": "00:52:10",
       "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-680",
+        "N-679",
+        "N-681"
       ]
     },
     {
@@ -1309,7 +1392,10 @@
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-680",
+        "N-679",
+        "N-681"
       ]
     },
     {
@@ -1328,7 +1414,10 @@
       "claim_timestamp": "00:53:42",
       "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-680",
+        "N-679",
+        "N-681"
       ]
     },
     {
@@ -1347,7 +1436,10 @@
       "claim_timestamp": "00:55:26",
       "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-680",
+        "N-679",
+        "N-681"
       ]
     },
     {

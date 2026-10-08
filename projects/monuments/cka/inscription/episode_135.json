@@ -30,9 +30,7 @@
             "C-3175",
             "C-3176"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -56,9 +54,7 @@
           "related_claims": [
             "C-3184"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -280,8 +276,6 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1207",
-        "N-1209",
         "N-2"
       ]
     },

@@ -32,7 +32,6 @@
             "C-3292"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2196"
           ],
           "tags": [],
@@ -51,7 +50,6 @@
             "C-3295"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2199"
           ],
           "tags": [],
@@ -78,8 +76,6 @@
             "C-3292"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
             "N-2197"
           ],
           "tags": [],
@@ -156,7 +152,6 @@
             "C-3296"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2200"
           ],
           "tags": [],
@@ -470,9 +465,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -492,10 +485,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",

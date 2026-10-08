@@ -25,6 +25,18 @@ The episode also reasserts prior narrative threads (Charlie Kirk's Catholic traj
 
 ## 6. Meme Register
 
+**M-79** (meme) Jog Your Memory
+
+### Occurrence 1
+
+Video Timestamp: 00:09:29
+Speaker: N-3
+Quote: 
+Context: Wave 3 mint – first transcript introduction. Host prompt recalling prior evidence for the audience
+Tags: wave3
+Confidence: medium
+
+
 **M-26** (meme) Gaslight
 
 ### Occurrence 1

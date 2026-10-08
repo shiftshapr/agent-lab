@@ -98,9 +98,7 @@
             "C-3104"
           ],
           "related_nodes": [
-            "N-2139",
-            "N-1207",
-            "N-1209"
+            "N-2139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,10 +161,7 @@
             "C-3094",
             "C-3095"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -184,8 +179,7 @@
             "C-3095"
           ],
           "related_nodes": [
-            "N-1",
-            "N-1207"
+            "N-1"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -213,8 +207,7 @@
             "C-3096"
           ],
           "related_nodes": [
-            "N-2141",
-            "N-1208"
+            "N-2141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -240,9 +233,7 @@
             "C-3092",
             "C-3097"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -304,7 +295,6 @@
             "C-3101"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2140"
           ],
           "tags": [],
@@ -520,10 +510,7 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -749,6 +736,42 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3083",
+        "C-3085",
+        "C-3086"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-558",
+      "ref": "N-558",
+      "name": "Viva Frey",
+      "type": "person",
+      "description": "Viva Frey (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3102"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -787,9 +810,7 @@
       "tags": [],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -857,7 +878,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:21",
-      "investigative_direction": "Treat as illustrative comparison only; not independent forensic evidence."
+      "investigative_direction": "Treat as illustrative comparison only; not independent forensic evidence.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -873,7 +895,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:20",
-      "investigative_direction": "Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence."
+      "investigative_direction": "Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -904,7 +927,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:02",
-      "investigative_direction": "Forensic image analysis; chain-of-custody verification; determine whether object is fabric remnant consistent with the freedom shirt."
+      "investigative_direction": "Forensic image analysis; chain-of-custody verification; determine whether object is fabric remnant consistent with the freedom shirt.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1129,7 +1153,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:02",
-      "investigative_direction": "Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt."
+      "investigative_direction": "Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt.",
+      "mentions_person_refs": [
+        "N-558"
+      ]
     },
     {
       "@type": "Claim",
@@ -1184,7 +1211,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:22",
-      "investigative_direction": "Viewer speculation; not investigative evidence; useful only as a hypothesis to be tested against forensic evidence."
+      "investigative_direction": "Viewer speculation; not investigative evidence; useful only as a hypothesis to be tested against forensic evidence.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1198,7 +1226,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:03:13",
-      "investigative_direction": "Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination."
+      "investigative_direction": "Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination.",
+      "mentions_person_refs": []
     }
   ],
   "memes": []

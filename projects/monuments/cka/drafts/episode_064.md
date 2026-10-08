@@ -29,9 +29,9 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced:  N-796, N-797, N-1517, N-1518, N-1519, N-1520, N-1521
+  - New Nodes Introduced:  N-796, N-1517, N-1518, N-1519, N-1520, N-1521
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-410 (Terrell Farnsworth)
 
 ## 6. Meme Register
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:24:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2207, C-2220, N-264, N-797*
+*Related: C-2206, C-2207, C-2220, N-264, N-410*
 
 **A-1686.2** Main Address – "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
 
@@ -197,7 +197,7 @@ Investigative Pressure: Low
 
 *Related: A-1687.1, C-2213, C-2214*
 
-**N-797** Teo Farnsworth
+**N-410** Terrell Farnsworth
 
 Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.
 
@@ -450,7 +450,7 @@ Claim Timestamp: 00:16:46
 Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.
 
 Anchored Artifacts: A-1686.1
-Mentions: N-797
+Mentions: N-410
 
 
 Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.

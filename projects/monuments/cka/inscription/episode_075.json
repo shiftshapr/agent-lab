@@ -625,7 +625,9 @@
       "tags": [],
       "claim_timestamp": "00:12:25",
       "investigative_direction": "Pull the live Wikipedia article and capture revision history; confirm whether the language is stable.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -871,5 +873,23 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "Meme",
+      "@id": "M-85",
+      "ref": "M-85",
+      "term": "(meme) Bride of Charlie",
+      "type": "meme",
+      "definition": "Series title used as in-show meme/brand",
+      "occurrences": [
+        {
+          "video_timestamp": "00:00:00",
+          "speaker": "N-3",
+          "quote": "",
+          "context": "Wave 3 mint – first transcript introduction.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
 }

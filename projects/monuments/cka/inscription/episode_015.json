@@ -899,5 +899,23 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "Meme",
+      "@id": "M-79",
+      "ref": "M-79",
+      "term": "(meme) Jog Your Memory",
+      "type": "meme",
+      "definition": "Host prompt recalling prior evidence for the audience",
+      "occurrences": [
+        {
+          "video_timestamp": "00:09:29",
+          "speaker": "N-3",
+          "quote": "",
+          "context": "Wave 3 mint – first transcript introduction.",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
 }

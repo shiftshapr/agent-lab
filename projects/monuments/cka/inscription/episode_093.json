@@ -31,7 +31,6 @@
             "C-2758"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1691",
             "N-1692"
           ],
@@ -78,7 +77,6 @@
             "C-2746"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1691"
           ],
           "tags": [],
@@ -89,6 +87,27 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1983",
+      "family_ref": "A-1983",
+      "bundle_name": "JD Vance On-Stage Audio Clip",
+      "description": "JD Vance speaking on stage at UGA rally referencing \"2 hours ago\" worry about cancellation.",
+      "related_claims": [
+        "C-2747"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-1691"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:11:54–00:12:49",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "High"
     },
     {
       "@type": "ArtifactFamily",
@@ -113,6 +132,44 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1985",
+      "family_ref": "A-1985",
+      "bundle_name": "Victor Marx FFL License Records",
+      "description": "Public website records identifying \"The Victor Marx Group LLC\" in Colorado Springs as holding a Class 1 FFL (Federal Firearms License).",
+      "related_claims": [
+        "C-2749"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:29:30–00:30:28",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium (one host-cited website shown; other websites referenced)"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1986",
+      "family_ref": "A-1986",
+      "bundle_name": "Baron Coleman Audio Clip",
+      "description": "Audio from Baron Coleman show discussing Victor Marx's FFL Class 1 license.",
+      "related_claims": [
+        "C-2749"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:29:30–00:30:28",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium"
     },
     {
       "@type": "ArtifactFamily",
@@ -219,6 +276,51 @@
     },
     {
       "@type": "ArtifactFamily",
+      "@id": "A-1989",
+      "family_ref": "A-1989",
+      "bundle_name": "Los Angeles Times Article (Bain Capital / Robert Maxwell)",
+      "description": "2012 Los Angeles Times piece reporting that Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund raise.",
+      "related_claims": [
+        "C-2754"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-1695"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:39:18–00:41:12",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium (article referenced but not displayed in full)"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1990",
+      "family_ref": "A-1990",
+      "bundle_name": "ATF Summary Report",
+      "description": "ATF summary findings regarding cartridge cases (matched to exhibit 1 rifle) and bullet jacket fragments (could not be identified or excluded based on class characteristics). States upcoming microscopic comparison.",
+      "related_claims": [
+        "C-2755",
+        "C-2756",
+        "C-2757"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-1694",
+        "N-1696"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:41:38–00:45:48",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Medium"
+    },
+    {
+      "@type": "ArtifactFamily",
       "@id": "A-1991",
       "family_ref": "A-1991",
       "bundle_name": "Daily Mail Article Bundle (TPUSA Insider)",
@@ -261,6 +363,27 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1992",
+      "family_ref": "A-1992",
+      "bundle_name": "Email Tip Bundle (Verbal Reference)",
+      "description": "Viewer email tip suggesting \"Amir Safadi\" (or \"Amir Sarfati\") may have been the first to learn of Charlie Kirk's shooting. Host states she does not know if this is correct and requests verification.",
+      "related_claims": [
+        "C-2760"
+      ],
+      "related_artifacts": [],
+      "related_nodes": [
+        "N-1697"
+      ],
+      "tags": [],
+      "sub_items": [],
+      "event_timestamp": "00:00:00–00:00:01",
+      "source_timestamp": "00:00:00–00:00:01",
+      "video_timestamp": "00:28:57–00:29:30",
+      "discovery_timestamp": "00:00:00–00:00:01",
+      "confidence": "Low"
     }
   ],
   "nodes": [
@@ -545,7 +668,8 @@
       "contradicts_claim_refs": [
         "C-2724",
         "C-2728"
-      ]
+      ],
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -715,7 +839,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:17–00:38:02",
-      "investigative_direction": "Obtain message timestamps to confirm date precisely."
+      "investigative_direction": "Obtain message timestamps to confirm date precisely.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -750,7 +875,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:38–00:45:48",
-      "investigative_direction": "Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report."
+      "investigative_direction": "Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -766,7 +892,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:51–00:44:37",
-      "investigative_direction": "Obtain forensic report details on which class characteristics were matched and the exclusion criteria."
+      "investigative_direction": "Obtain forensic report details on which class characteristics were matched and the exclusion criteria.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -782,7 +909,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:37–00:45:48",
-      "investigative_direction": "Track subsequent filings and any defense challenges to microscopic comparison methodology under Daubert/Frye standards."
+      "investigative_direction": "Track subsequent filings and any defense challenges to microscopic comparison methodology under Daubert/Frye standards.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -798,7 +926,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:55–00:22:20",
-      "investigative_direction": "Identify the insider source; obtain the full Daily Mail article and any corroborating reporting."
+      "investigative_direction": "Identify the insider source; obtain the full Daily Mail article and any corroborating reporting.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -814,7 +943,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:34–00:22:20",
-      "investigative_direction": "Cross-reference with venue ticketing data and corroborate insider attribution."
+      "investigative_direction": "Cross-reference with venue ticketing data and corroborate insider attribution.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -883,7 +1013,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:42:19–00:43:08",
-      "investigative_direction": "Obtain canine unit deployment records, ATF chain-of-custody documentation, and any residue-testing results for the recovered rifle."
+      "investigative_direction": "Obtain canine unit deployment records, ATF chain-of-custody documentation, and any residue-testing results for the recovered rifle.",
+      "mentions_person_refs": []
     }
   ],
   "memes": []

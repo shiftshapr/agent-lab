@@ -17,6 +17,30 @@
 
 ## 6. Meme Register
 
+**M-80** (meme) Silence Is Not Kindness
+
+### Occurrence 1
+
+Video Timestamp: 00:44:14
+Speaker: N-3
+Quote: 
+Context: Wave 3 mint – first transcript introduction. Host moral framing that withholding truth is not merciful
+Tags: wave3
+Confidence: medium
+
+
+**M-78** (meme) Lo and Behold
+
+### Occurrence 1
+
+Video Timestamp: 00:14:15
+Speaker: N-3
+Quote: 
+Context: Wave 3 mint – first transcript introduction. Host ironic reveal marker
+Tags: wave3
+Confidence: medium
+
+
 **M-47** (meme) Megachurches Look Funny
 
 ### Occurrence 1

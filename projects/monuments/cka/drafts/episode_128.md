@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2131, N-2132, N-2133, N-2134, N-2135, N-2136, N-2137, N-2138
-  - Reused Nodes Appearing: N-1215
-  - (see registers)
+ - New Nodes Introduced: N-2131, N-2132, N-2133, N-2134, N-2135, N-2136, N-2137, N-2138
+ - Hole-minted Nodes (wave3): N-777, N-787, N-806, N-807, N-808
+ - Reused Nodes Appearing: N-1215
+ - (see registers)
 
 ---
 
@@ -315,6 +316,44 @@ Confidence Level: High (read aloud on air)
 
 ## IV. Node Register
 
+**N-709** Dan Bongino
+
+Reused from ep127 Hole-minted (wave3).
+
+
+**N-777** Beau Mason
+
+First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau "Bo" Mason.
+
+*Related: C-3061, C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076*
+
+**N-787** Jennifer Faumuina
+
+First named by the host at 00:15:24 in episode 128.
+
+*Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076, C-3077*
+
+**N-807** Misiona Faumuina
+
+First named by the host at 00:23:06 in episode 128.
+
+*Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077, C-3078*
+
+**N-806** Sapena Faumuina
+
+First named by the host at 00:23:06 in episode 128.
+
+*Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077*
+
+**N-808** Sid Rosen
+
+First named by the host at 00:24:14 in episode 128.
+
+*Related: C-3078*
+
+
+
+
 **N-2131** Salt Lake City Hotel Identification Gap
 
 Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.
@@ -473,7 +512,7 @@ Claim Timestamp: 00:09:39
 Claim: Neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.
 
 Anchored Artifacts: A-2154.1
-Mentions: N-70, N-102
+Mentions: N-70, N-102, N-777
 
 Related Nodes:
 
@@ -488,7 +527,7 @@ Claim Timestamp: 00:12:43
 Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was "very grainy" and cited lab enhancement as ongoing.
 
 Anchored Artifacts: A-2155.1
-Mentions: N-75
+Mentions: N-75, N-709
 
 Related Nodes: N-2135
 
@@ -503,6 +542,7 @@ Claim Timestamp: 00:16:37
 Claim: Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst Roommate Ever* stating she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
 
 Anchored Artifacts: A-2156.1
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes: N-2137
 
@@ -517,6 +557,7 @@ Claim Timestamp: 00:17:38
 Claim: A 2003 image shows Jennifer Faumuina playing basketball at a private school in Hawaii.
 
 Anchored Artifacts: A-2157.1
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -531,6 +572,7 @@ Claim Timestamp: 00:17:38
 Claim: Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
 
 Anchored Artifacts: A-2157.2
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -545,6 +587,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.
 
 Anchored Artifacts: A-2157.3
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -559,6 +602,7 @@ Claim Timestamp: 00:18:29
 Claim: A 2016 article lists Jennifer Faumuina among volunteer Utah troopers who provided crowd control at the Republican National Convention in Ohio.
 
 Anchored Artifacts: A-2157.4
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -573,6 +617,7 @@ Claim Timestamp: 00:18:29
 Claim: Public records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward.
 
 Anchored Artifacts: A-2157.5
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -587,6 +632,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.
 
 Anchored Artifacts: A-2157.3
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -601,6 +647,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina and Bo Mason appear together in a 2023 photograph marking Faumuina's promotion to sergeant.
 
 Anchored Artifacts: A-2157.5
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -615,7 +662,7 @@ Claim Timestamp: 00:19:15
 Claim: Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
 
 Anchored Artifacts: A-2158.1
-Mentions: N-70
+Mentions: N-70, N-777, N-787
 
 Related Nodes: N-2132
 
@@ -630,8 +677,9 @@ Claim Timestamp: 00:21:14
 Claim: Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, approximately three weeks before the assassination.
 
 Anchored Artifacts: A-2158.2
+Mentions: N-192
 
-Related Nodes: N-1215, N-2132
+Related Nodes: N-2132
 
 Investigative Direction: Confirm via hospital press releases and board minutes.
 
@@ -644,6 +692,7 @@ Claim Timestamp: 00:21:14
 Claim: Tony Graff received a judicial appointment in May 2025.
 
 Anchored Artifacts: A-2158.3
+Mentions: N-193
 
 Related Nodes: N-2132
 
@@ -688,6 +737,7 @@ Claim Timestamp: 00:24:14
 Claim: Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
 
 Anchored Artifacts: A-2160.1
+Mentions: N-777, N-787, N-807, N-806
 
 Related Nodes:
 
@@ -702,6 +752,7 @@ Claim Timestamp: 00:24:14
 Claim: The 1995 press coverage of Misiona Faumuina's death described him as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
+Mentions: N-787, N-807, N-806
 
 Related Nodes:
 
@@ -716,6 +767,7 @@ Claim Timestamp: 00:25:35
 Claim: A 1995 article names Sid Rosen as the head of "Adult Friends for Youth," an organization referenced in coverage of Misiona Faumuina's death.
 
 Anchored Artifacts: A-2160.2
+Mentions: N-807, N-808
 
 Related Nodes:
 
@@ -804,7 +856,7 @@ Confidence: high
 - **Name uncertainty:** Host uses both "Jennifer Faumina/Faumuina/Fahlman" interchangeably; spelling preserved with original spelling per protocol – flag noted.
 - **Artifact verbally referenced but not shown:** The 2003 Hawaii basketball photo (A-2157.1), 2008 Weber State graduation record (A-2157.2), 2016 RNC article (A-2157.4), 2004 Provo PD article (A-2159.1), and 1995 Hawaii homicide articles (A-2160.1, A-2160.2) are described by the host and displayed on air but full text/transcription is not provided in the source transcript.
 - **Timestamp uncertainty:** The 2023 swearing-in date (A-2157.5) is given narratively but without precise day/month.
-- **Transcript ambiguity:** Reference to "Frank Cherik," "Frank Cheric," and "Frank Czernecki" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person (former local id 1221).
+- **Transcript ambiguity:** Reference to "Frank Cherik," "Frank Cheric," and "Frank Czernecki" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person.
 - **Claim failed admission test:** Host's framing of the Utah appointments as "getting the old gang back together" and the explicit framing of an "Israeli" or "Mormon mafia" connection – these are interpretive commentary, not artifact-backed claims, and are not inscribed.
 
 ---

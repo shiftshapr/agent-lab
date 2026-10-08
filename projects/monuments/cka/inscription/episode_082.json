@@ -93,7 +93,6 @@
             "C-2546"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1630"
           ],
           "tags": [],
@@ -113,7 +112,6 @@
             "C-2549"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1630"
           ],
           "tags": [],
@@ -132,7 +130,6 @@
             "C-2555"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1630"
           ],
           "tags": [],
@@ -160,8 +157,7 @@
             "C-2548"
           ],
           "related_nodes": [
-            "N-1",
-            "N-1207"
+            "N-1"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -187,9 +183,7 @@
             "C-2548",
             "C-2547"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -205,9 +199,7 @@
           "related_claims": [
             "C-2549"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -233,7 +225,6 @@
             "C-2556"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1629"
           ],
           "tags": [],
@@ -252,7 +243,6 @@
             "C-2552"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1629"
           ],
           "tags": [],
@@ -277,7 +267,6 @@
           "description": "Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
           "related_claims": [],
           "related_nodes": [
-            "N-1208",
             "N-1629",
             "N-1632"
           ],
@@ -297,7 +286,6 @@
             "C-2552"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1632"
           ],
           "tags": [],
@@ -387,91 +375,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Spelling varies across transcript (Kolbet, Kolvert, Colvin, Colvert, Kolvet). Central figure in 9/10 flight itinerary investigation. Claimed to be on a plane without Wi-Fi at 3:26 PM MST; admitted to hosting Charlie Kirk Live Show first hour on 9/10; co-spokesperson with Blake Neff against Joe Kent's potential testimony.",
-      "related_artifacts": [
-        "A-1887.1",
-        "A-1887.2",
-        "A-1887.3",
-        "A-1888.1",
-        "A-1889.1",
-        "A-1889.2",
-        "A-1890.1",
-        "A-1890.2",
-        "A-1893.1"
-      ],
-      "related_claims": [
-        "C-2546",
-        "C-2548",
-        "C-2549",
-        "C-2551",
-        "C-2554",
-        "C-2555",
-        "C-2556"
-      ],
-      "tags": [],
-      "evidence_count": 9,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1627",
-        "N-1629"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Independent journalist; 23 years old; LDS Church member; from Utah; interviewed by Andrew Kolvet on first hour of Charlie Kirk Live Show 9/10; claims Comando Vermelho infiltration in 48 hours.",
-      "related_artifacts": [
-        "A-1890.2",
-        "A-1891.1",
-        "A-1891.2"
-      ],
-      "related_claims": [
-        "C-2552"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1629",
-        "N-1632"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "On-air co-respondent with Andrew Kolvet characterizing Joe Kent's potential truthful testimony as \"betrayal.\"",
-      "related_artifacts": [
-        "A-1893.1"
-      ],
-      "related_claims": [
-        "C-2554"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1210"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1626",
       "ref": "N-1626",
       "name": "Erica Kirk 9/10 Location Investigation",
@@ -522,9 +425,7 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -568,10 +469,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -593,9 +491,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -637,9 +533,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",

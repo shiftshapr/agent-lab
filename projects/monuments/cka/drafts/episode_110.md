@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
+  - Hole-minted Nodes (wave3): N-685, N-686
   - Reused Nodes Appearing: N-57
   - (see registers)
 
@@ -203,6 +204,21 @@ Confidence Level: Low (host acknowledges no independent confirmation)
 ---
 
 ## IV. Node Register
+
+**N-685** Kristoff Schweizer
+
+First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweiser.
+
+*Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
+
+**N-686** Leola Anderson
+
+First named by the host at 00:37:13 in episode 110.
+
+*Related: C-2925, C-2926*
+
+
+
 
 **N-2066** Boston Consulting Group Government Pipeline
 
@@ -466,6 +482,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG dismissed two partners and launched an external audit in July 2025 after the Financial Times story.
 
 Anchored Artifacts: A-2077.1
+Mentions: N-685
 
 Related Nodes: N-2067
 
@@ -480,6 +497,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as "reputationally very damaging."
 
 Anchored Artifacts: A-2077.1
+Mentions: N-685
 
 Related Nodes: N-2067
 
@@ -494,7 +512,7 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
-Mentions: N-696
+Mentions: N-696, N-685
 
 Related Nodes: N-2068
 
@@ -509,6 +527,7 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake Wood quit prior to BCG's withdrawal from the project.
 
 Anchored Artifacts: A-2078.1
+Mentions: N-685
 
 Related Nodes: N-2068
 
@@ -523,6 +542,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host, BCG helped develop the logistics, the organizational structure, and the pricing for paying and equipping private security contractors to operate the food distribution hubs in Gaza for the GHF.
 
 Anchored Artifacts: A-2076.1, A-2077.1
+Mentions: N-685
 
 Related Nodes: N-2068
 
@@ -551,7 +571,7 @@ Claim Timestamp: 00:37:50
 Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-57
+Mentions: N-57, N-686
 
 Related Nodes:
 
@@ -566,6 +586,7 @@ Claim Timestamp: 00:39:00
 Claim: Per NYT article, the driver of the car that struck Romney's was a 46-year-old man, Albert Marie, a Catholic priest.
 
 Anchored Artifacts: A-2081.1
+Mentions: N-686
 
 Related Nodes:
 
@@ -655,6 +676,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, Orbis – a Washington-area security contractor – initially engaged BCG to help with a feasibility study for a new aid project.
 
 Anchored Artifacts: A-2076.1
+Mentions: N-685
 
 Related Nodes: N-2068
 
@@ -683,6 +705,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Riley, an ex-CIA operative who worked for Orbis.
 
 Anchored Artifacts: A-2076.1
+Mentions: N-685
 
 Related Nodes: N-2068
 

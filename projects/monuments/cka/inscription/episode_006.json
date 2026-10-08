@@ -483,6 +483,30 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2483",
+      "family_ref": "A-2483",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2483.1",
+          "ref": "A-2483.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3638"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "00:52:42",
+          "transcript_snippet": "...Buy yourself this. This is pretty bomb. Yep. Our CIA line. This is the Canis Intelligence Agency. Some people think that it actually says like CIA, t...",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1922,6 +1946,43 @@
       "uncertainty_note": "Claim referenced as a findable clip but not shown in this episode.",
       "mentions_person_refs": [
         "N-65"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3637",
+      "ref": "C-3637",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:48",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...people think that it actually says like CIA, the Decentralized Intelligent Agency. I love it. Our products are great. Uh, and that's way that you can just show support and s...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3638",
+      "ref": "C-3638",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2483.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:42",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...Buy yourself this. This is pretty bomb. Yep. Our CIA line. This is the Canis Intelligence Agency. Some people think that it actually says like CIA, t...",
+      "confidence": "medium",
+      "uncertainty_note": "Pattern invoked implicitly; explicit 'conspiracy theorist' label not directly stated.",
+      "mentions_person_refs": [
+        "N-3"
       ]
     }
   ],

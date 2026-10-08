@@ -413,6 +413,30 @@
     },
     {
       "@type": "ArtifactFamily",
+      "@id": "A-2481",
+      "family_ref": "A-2481",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2481.1",
+          "ref": "A-2481.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3634"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "01:11:27",
+          "transcript_snippet": "...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
       "@id": "A-2516",
       "family_ref": "A-2516",
       "bundle_name": "Host Verbal References and Viewer Comment Bundle",
@@ -1988,6 +2012,25 @@
       "uncertainty_note": "Single-source tip relayed by host.",
       "mentions_person_refs": [
         "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3634",
+      "ref": "C-3634",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2481.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:11:27",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
       ]
     },
     {

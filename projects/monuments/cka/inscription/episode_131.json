@@ -135,7 +135,6 @@
             "C-3128"
           ],
           "related_nodes": [
-            "N-1209",
             "N-2"
           ],
           "tags": [],
@@ -165,7 +164,6 @@
             "C-3132"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1"
           ],
           "tags": [],
@@ -253,6 +251,30 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2490",
+      "family_ref": "A-2490",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2490.1",
+          "ref": "A-2490.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3664"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "01:00:06",
+          "transcript_snippet": "...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -272,9 +294,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -419,6 +439,26 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-809",
+      "ref": "N-809",
+      "name": "Gayle King",
+      "type": "person",
+      "description": "First named by the host at 00:43:01 in episode 131.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3133",
+        "C-3134",
+        "C-3135",
+        "C-3136"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -726,7 +766,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:38",
-      "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings."
+      "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings.",
+      "mentions_person_refs": [
+        "N-809"
+      ]
     },
     {
       "@type": "Claim",
@@ -740,7 +783,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:07",
-      "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand."
+      "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.",
+      "mentions_person_refs": [
+        "N-809"
+      ]
     },
     {
       "@type": "Claim",
@@ -754,7 +800,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:07",
-      "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements."
+      "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.",
+      "mentions_person_refs": [
+        "N-809"
+      ]
     },
     {
       "@type": "Claim",
@@ -771,7 +820,8 @@
       "investigative_direction": "Independent verification of each parallel item against documented records in both cases.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-809"
       ]
     },
     {
@@ -786,7 +836,27 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:35",
-      "investigative_direction": "Independent verification against public records or alumni databases."
+      "investigative_direction": "Independent verification against public records or alumni databases.",
+      "mentions_person_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3664",
+      "ref": "C-3664",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2490.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:00:06",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

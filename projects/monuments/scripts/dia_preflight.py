@@ -1168,6 +1168,51 @@ def check_claims_missing_from_drafts(
                 )
 
 
+ARTIFACT_HEADER_RE = re.compile(r"^\*\*(A-\d+(?:\.\d+)?)\*\*\s+\S", re.MULTILINE)
+
+
+def check_inscription_missing(
+    report: PreflightReport,
+    monument_dir: Path,
+    episodes: list[tuple[int, str, Path, str]],
+) -> None:
+    """P1 inscription_missing: a claim or artifact defined in a draft (bold `**C-n**` / `**A-n**` /
+    `**A-n.m**` header with a label) but absent from that episode's inscription JSON (claims,
+    artifact families or their sub_items). Wave 3 (Transit 820af0d P2-3): 99 draft-only ids had
+    accumulated with no gate."""
+    ins_dir = monument_dir / "inscription"
+    if not ins_dir.is_dir():
+        return
+    for ep, ep_name, _path, content in episodes:
+        if ep <= 0:
+            continue
+        jpath = ins_dir / f"episode_{ep:03d}.json"
+        drafted = [m.group(1) for m in CLAIM_HEADER_RE.finditer(content)]
+        drafted += [m.group(1) for m in ARTIFACT_HEADER_RE.finditer(content)]
+        if not drafted:
+            continue
+        if not jpath.is_file():
+            report.add("P1", "inscription_missing", f"{ep_name}: no inscription/{jpath.name} for {len(drafted)} drafted ids", ep_name)
+            continue
+        data = json.loads(jpath.read_text(encoding="utf-8"))
+        have: set[str] = {str(c.get("@id") or c.get("ref") or "") for c in data.get("claims") or []}
+        for fam in data.get("artifacts") or []:
+            have.add(str(fam.get("@id") or fam.get("ref") or ""))
+            for sub in fam.get("sub_items") or []:
+                have.add(str(sub.get("@id") or sub.get("ref") or ""))
+        seen: set[str] = set()
+        for iid in drafted:
+            if iid in have or iid in seen:
+                continue
+            seen.add(iid)
+            report.add(
+                "P1",
+                "inscription_missing",
+                f"{ep_name}: {iid} is defined in the draft but absent from inscription/{jpath.name}",
+                iid,
+            )
+
+
 def check_duplicate_claim_headers(
     report: PreflightReport,
     episodes: list[tuple[int, str, Path, str]],
@@ -1503,7 +1548,9 @@ def check_cited_before_intro(
     """P0 first-introduction lock for citations (PR 60 re-audit P0-1, extended in Wave 2.1).
 
     A person (N-1..N-999, not on the episode_000 baseline) may not appear in an episode earlier than
-    the episode whose New / Hole-minted / Tip-minted ledger line introduces it. Appearances checked:
+    the episode whose New / Hole-minted / Tip-minted ledger line introduces it. With strict=True
+    (ledger_intro.strict, e.g. CKA) the same order check covers topic/org ids N-1000+ (Wave 3,
+    Transit 820af0d P2-2: N-1282 on an ep22 Reused line used to pass). Appearances checked:
     claim Mentions and Related Nodes lines, any *Related:* line, Reused Nodes Appearing and Existing
     Nodes Reused ledger lines (Reused-before-New), and node register rows. With strict=False the
     introduction episode is the earlier of the first register row and the ledger line.
@@ -1523,15 +1570,18 @@ def check_cited_before_intro(
         for label, toks in groups:
             for tok in toks:
                 nid = int(tok)
-                if nid >= 1000 or nid in baseline or (nid, label) in seen:
+                if nid in baseline or (nid, label) in seen:
+                    continue
+                if nid >= 1000 and not strict:
                     continue
                 first = intro_ep.get(nid)
                 if first is not None and first > ep:
                     seen.add((nid, label))
+                    kind = "person" if nid < 1000 else "topic/org"
                     report.add(
                         "P0",
                         "cited_before_intro",
-                        f"{ep_name}: person N-{nid} appears on a {label} line in ep{ep} but its New/Hole-minted/Tip-minted ledger line is in ep{first}",
+                        f"{ep_name}: {kind} N-{nid} appears on a {label} line in ep{ep} but its New/Hole-minted/Tip-minted ledger line is in ep{first}",
                         f"N-{nid}",
                     )
 
@@ -1935,6 +1985,7 @@ def run_preflight(
     check_claim_ts_past_end(report, monument_dir, ingest_episodes)
     if not skip_inscription:
         check_claims_missing_from_drafts(report, monument_dir, ingest_episodes)
+        check_inscription_missing(report, monument_dir, ingest_episodes)
     check_duplicate_claim_headers(report, ingest_episodes)
     check_tombstone_collision(report, canonical)
     check_name_annotation_mismatch(report, ingest_episodes, register, canonical)

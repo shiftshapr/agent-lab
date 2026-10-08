@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1662, N-1663, N-1664, N-1665, N-1666, N-1667
+  - Hole-minted Nodes (wave3): N-672
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -155,6 +156,13 @@ Confidence Level: Medium (referenced but not displayed)
 
 ## 4. Node Register
 
+**N-672** Monica Lewinsky
+
+First named by the host at 00:26:31 in episode 89.
+
+*Related: C-2672, C-2673*
+
+
 **N-1662** Trump Truth Social Post Pattern Question
 
 Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.
@@ -279,7 +287,7 @@ Claim Timestamp: 00:25:38–00:26:31
 Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stated that Trump sat at the side of the situation-room table while Benjamin Netanyahu sat across from him as an equal, and that senior U.S. advisers subsequently informed Trump the stated Iran objectives were unattainable.
 
 Anchored Artifacts: A-1941.1
-Mentions: N-65, N-298, N-75
+Mentions: N-65, N-298, N-75, N-672
 Related Nodes: N-1667
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
@@ -292,7 +300,7 @@ Claim Timestamp: 00:26:31–00:28:46
 Claim: A letter/newsletter from Tucker Carlson, read in full on air, alleged that Israel has a "storied history of blackmailing US presidents," including the claim that recordings of Bill Clinton–Monica Lewinsky phone-sex sessions were used as leverage to obtain Jonathan Pollard's release.
 
 Anchored Artifacts: A-1942.1
-Mentions: N-440, N-50
+Mentions: N-440, N-50, N-672
 Related Nodes:
 Investigative Direction: Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.
 
@@ -399,4 +407,6 @@ Related Nodes:
 Investigative Direction: Verify exact wording against the archived post.
 
 ---
+
+
 
