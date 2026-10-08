@@ -655,7 +655,7 @@ Investigative Direction: Confirm whether the article was published and whether R
 
 **C-3651** Host identifies show community as Decentralized Intelligence Agency
 
-Claim Timestamp: 00:41:12
+Claim Timestamp: 00:39:33
 Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
 Transcript Snippet: ...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, "We needed a hoodie that says go Max." The get me out of here write...
 Anchored Artifacts: 

@@ -78,3 +78,6 @@ episode,id,action,new_id,reason
 4,C-3736,DROP_MENTION,C-3736,N-3 dropped from Mentions (not grounded in the transcript window); Contradicts C-1185 kept
 47,C-1924..C-1929,REMOVE_EDGE,,PR 60 re-audit P1-2: removed from the A-1551.8 Related line (spray)
 15..152,(74 rows),HOLD_MENTIONS,,PR 60 re-audit P0-1: 74 Mentions of persons cited before their introduction episode held; see wave3_id_order_debt.csv
+27,C-3740,ADD_FIELDS,C-3740,"Wave 2.1: Transcript Snippet (00:36:03, verbatim) and Confidence high added"
+150,C-3418,REANCHOR,C-3418,"Wave 2.1: A-2351.2 (a journal entry read at 00:09:50) did not carry the 00:00:02 remark; no artifact covers it, so the anchor is now the verbatim transcript snippet and C-3418 is off the A-2351.2 Related line"
+58,C-2121; C-2123,FIX_DIRECTION,,"Wave 2.1: Investigative Direction no longer names January 5 or January 6 (not spoken); wording follows the transcript (Capitol breach, the night before)"

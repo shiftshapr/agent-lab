@@ -110,7 +110,7 @@ Description: Aerial footage of destroyed Gaza cityscape shown on screen during h
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:15:48
+Video Timestamp: 00:15:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
@@ -146,7 +146,7 @@ Description: Read aloud by host. Viewer states: "Ward Boston was a Navy judge ad
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 01:23:21
+Video Timestamp: 01:25:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer-sourced)
 
@@ -156,7 +156,7 @@ Description: Read aloud by host. Viewer states: "I agree with Phil Turney of the
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 01:25:27
+Video Timestamp: 01:24:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer-sourced)
 
@@ -198,7 +198,7 @@ Description: Youssef announces tour dates: Portland March 20, Seattle March 21, 
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:08:54–01:23:21
+Video Timestamp: 00:08:54–01:21:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced but not shown in this episode)
 
@@ -234,7 +234,7 @@ Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, describ
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:22:53
+Video Timestamp: 00:21:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbal description only)
 

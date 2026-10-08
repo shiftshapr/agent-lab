@@ -10,7 +10,7 @@ Wave 2 closes the rest of the Transit full adversarial audit (everything Wave 1 
 | `hostile_hard_gates --monument cka` | P1 9 (NODE_NOT_IN_LEDGER) / P2 1 (CA_DEBT_CALLOUT) | CLEAR 0 / 0 / 0 |
 | `dia_preflight --self-test` | OK | OK |
 | BoC preflight | PASS | PASS |
-| BRC-222 2.0.0 companion bridges | 9165 | 9214 after the re-audit fixes (isMemberOf 6355, isSupportedBy 2824, contradicts 19, isCorroboratedBy 8, extends 4, isQualifiedBy 4); 9193 at 56cc8d2 |
+| BRC-222 2.0.0 companion bridges | 9165 | 9209 after Wave 2.1 (isMemberOf 6355, isSupportedBy 2823, contradicts 19, isCorroboratedBy 8, isQualifiedBy 4); 9214 at 62442e7, 9193 at 56cc8d2 |
 
 CA_DEBT_CALLOUT is accepted in `config/hostile_accepted.json` (the callout is deliberate documentation of carried debt, not a defect).
 
@@ -33,6 +33,8 @@ All CSVs use CRLF line endings.
 | `wave3_id_order_debt.csv` | The 74 Mentions held because the person is cited before the episode that introduces its id (PR 60 re-audit P0-1). Wave 3 work |
 | `wave3_orphaned_persons.csv` | 62 transcript-named persons left without a node when the spray rows were removed, with episode, claims and first transcript time. Wave 3 mint candidates; not minted here |
 | `handle_debt.csv` | Super-chat handles in the ep47 person band (N-561..N-563, N-565..N-568 kept as debt; N-564 retired) |
+| `ts_check_62442e7.csv` | Resolution of the 48 timestamp misses in Transit's full adversarial on 62442e7: 19 restamped, 28 verified, 1 deferred |
+| `wave3_timestamp_debt.csv` | Timestamps left for Wave 3: the deferred B-roll artifact and 14 placeholder claim stamps carried from main |
 
 ## Items
 
@@ -66,6 +68,19 @@ N-27, N-28, N-32 and N-33 are protocol-example ids on the episode_000 baseline. 
 
 Gates after the fixes: dia_preflight cka P0 0 / P1 0 / P2 0, hostile CLEAR (accepted: CA_DEBT_CALLOUT), BoC preflight PASS, self-test OK, pytest 48 passed.
 
+## Wave 2.1 (Transit full adversarial on 62442e7)
+
+Transit cleared the re-audit at 62442e7 and ruled that C-3741 Marissa stays: she is named in Candace's own monologue at 32:14 and is not a handle.
+
+1. **P0 Macron intro ledger.** N-898 Emmanuel Macron first appears in ep38 (Reused line, register row, C-1781 Mentions) but was listed New in ep69. He is now introduced at his first appearance in the graph, ep38, as a hole mint at the lowest free person id, N-628 (`Hole-minted Nodes (w2_1)`). A New line in ep38 at N-898 would break first-introduction order, and a hole mint at N-898 would leave free person ids below it. ep69, ep79 and ep159 reuse N-628; N-898 is tombstoned (legacy-N-898 survives_as N-628; legacy-N-997 repointed). The transcript also names Emmanuel Macron in ep24 (10:44) and ep27 (02:10), where no claim cites him; any Wave 3 citation there is id-order debt.
+2. **Gate.** `cited_before_intro` now also covers Reused / Existing Nodes Reused lines and register rows, and with `ledger_intro.strict` (CKA) uses the New / Hole-minted / Tip-minted line as the introduction. New P0 `intro_missing` flags registered ids that no such line introduces. On 62442e7 the extended gate finds 29 rows (Macron plus 25 ids never introduced on a ledger line). Fixed: 19 persons and 6 topics now sit on New or Hole-minted lines in the episode of their first appearance (see `ledger.csv`). The 2026-10-06 remap and seq160 ids were not minted in first-introduction order, so they use per-episode batches (remap-ep20, remap-ep80, remap-ep104, fixall-ep149, remap-ep159, seq160, w2_1-ep75) instead of a renumber. BoC keeps the non-strict mode and passes.
+3. **C-1909 and A-1531.6** 00:60:00 restamped to 00:59:22. `stamp_form` now flags minutes or seconds above 59. C-1318 moved from past the end to 00:49:16.
+4. **Companion.** C-3737..C-3740 emit isQualifiedBy only, pinned in `config/companion_revises_rulings.json`. Each Revises edge now emits one bridge, and the no-cue default is isQualifiedBy, not extends.
+5. **Small fixes.** Five orphan rows corrected (Baron Coleman N-552, Sheriff Brooksby N-437, Asher Adams is a hotel, Pierre Deleto is Romney's N-57 burner, Helen Comperatore has no transcript hit), leaving 57 Wave 3 mint candidates. N-561 marked NOT_A_HANDLE. The C-3736 / N-3 backfill row marked dropped. C-3740 has its snippet and confidence. C-3418 no longer anchors on A-2351.2; no artifact covers the 00:00:02 remark, so it is grounded by its verbatim transcript snippet. The ep58 directions no longer name January 5 or 6.
+6. **ts_check.** 19 restamped, 28 verified at their current stamp, 1 deferred (A-1692.1, on-screen B-roll). 14 placeholder claim stamps from main are logged as Wave 3 debt.
+
+Gates after Wave 2.1: dia_preflight cka P0 0 / P1 0 / P2 0, hostile CLEAR (accepted: CA_DEBT_CALLOUT), BoC preflight PASS, self-test OK, pytest 53 passed.
+
 ## Next ids
 
-Person N-628 (no free hole below it), topic or org N-2393, claim C-3742, artifact A-2521.
+Person N-629 (no free hole below it), topic or org N-2393, claim C-3742, artifact A-2521.

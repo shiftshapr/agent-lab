@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-451, N-453, N-454, N-455, N-456, N-457, N-458, N-459, N-460, N-461, N-1354, N-1355, N-1356, N-1357, N-1358, N-1359, N-1360, N-1361, N-1362, N-1363, N-1364, N-1365, N-1366, N-1367, N-1368
-  - Reused Nodes Appearing: N-898
+  - Reused Nodes Appearing: none
+  - Hole-minted Nodes (w2_1): N-628
   - (see registers)
 
 ## 2. Executive Summary
@@ -52,7 +53,7 @@ Video Timestamp: 00:02:49–00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1781, C-1784, C-1786, N-3, N-898, N-117, N-69, N-454*
+*Related: C-1781, C-1784, C-1786, N-3, N-628, N-117, N-69, N-454*
 
 ---
 
@@ -66,7 +67,7 @@ Video Timestamp: 00:10:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-1782, N-898, N-3, N-1*
+*Related: C-1782, N-628, N-3, N-1*
 
 ---
 
@@ -543,7 +544,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-898** Emmanuel Macron
+**N-628** Emmanuel Macron
 
 French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).
 
@@ -760,7 +761,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-898, N-117, N-454, N-1
+Mentions: N-3, N-628, N-117, N-454, N-1
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---

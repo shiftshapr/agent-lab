@@ -694,7 +694,7 @@ Anchored Artifacts:
 Mentions: N-293
 Related Nodes: N-1495
 Confidence: medium
-Investigative Direction: Obtain January 6 footage and charging records for Fuentes; document whether he entered restricted grounds and why no charge followed.
+Investigative Direction: Obtain footage of the Capitol breach the host describes and charging records for Fuentes; document whether he entered restricted grounds and why no charge followed.
 
 ---
 
@@ -720,7 +720,7 @@ Anchored Artifacts:
 Mentions: N-293, N-334
 Related Nodes: N-1495
 Confidence: medium
-Investigative Direction: Locate Yiannopoulos's own statement about the January 5 warning and any messages corroborating it.
+Investigative Direction: Locate Yiannopoulos's own statement about the warning the host says he gave Fuentes the night before, and any messages corroborating it.
 
 ---
 

@@ -7,7 +7,7 @@ episode,claim,person,name,action,matched_text,evidence
 3,C-1163,N-75,Megyn Kelly,added,Megyn Kelly,"name ""Megan Kelly"" in transcript within the claim window at 50:29"
 4,C-1178,N-70,Spencer Cox,added,Governor Cox,"name ""Governor Cox"" in transcript within the claim window at 08:03"
 4,C-1184,N-84,Lance Twigs,added,Lance Twigs,"name ""Lance Twigs"" in transcript within the claim window at 36:17"
-4,C-3736,N-3,Candace Owens,added,Candace Owens,"name ""Candace Owens"" in transcript elsewhere in the episode at 01:03:06"
+4,C-3736,N-3,Candace Owens,dropped,Candace Owens,"name ""Candace Owens"" in transcript elsewhere in the episode at 01:03:06; dropped in the PR 60 re-audit fix (N-3 not grounded in the claim window; Contradicts C-1185 kept)"
 5,C-1191,N-1,Charlie Kirk,added,Charlie Kirk,"name ""Charlie Kirk"" in transcript within the claim window at 13:15"
 5,C-1192,N-1,Charlie Kirk,added,Charlie Kirk,"name ""Charlie Kirk"" in transcript within the claim window at 25:22"
 5,C-1194,N-1,Charlie Kirk,added,Charlie Kirk,"name ""Charlie Kirk"" in transcript within the claim window at 32:02"

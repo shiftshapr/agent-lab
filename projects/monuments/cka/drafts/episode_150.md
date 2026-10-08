@@ -74,7 +74,7 @@ Video Timestamp: 00:09:50–00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3414, C-3415, C-3417, C-3418, N-2, N-3*
+*Related: C-3406, C-3414, C-3415, C-3417, N-2, N-3*
 
 **A-2351.3** Journal Entry: Power song analysis / 2018 Israel-London retrospective
 
@@ -404,7 +404,8 @@ Investigative Direction: Verify medical or insurance records if relevant to inve
 
 Claim Timestamp: 00:00:02
 Claim: Host states she is "8 months pregnant" at the time of recording.
-Anchored Artifacts: A-2351.2
+Transcript Snippet: And obviously I wish I also wasn't 8 months pregnant doing this when I'm already in a heightened emotional state.
+Anchored Artifacts:
 Mentions: N-3
 Investigative Direction: Not investigationally material; recorded for biographical record.
 

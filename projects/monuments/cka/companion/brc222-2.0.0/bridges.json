@@ -2,11 +2,10 @@
   "vocabulary_version": "2.0.0",
   "edge_counts": {
     "contradicts": 19,
-    "extends": 4,
     "isCorroboratedBy": 8,
     "isMemberOf": 6355,
     "isQualifiedBy": 4,
-    "isSupportedBy": 2824
+    "isSupportedBy": 2823
   },
   "bridges": [
     {
@@ -4654,29 +4653,14 @@
       "from": "C-1292",
       "to": "C-3737",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "explanation": "REVISES (transit_ruling)",
       "episode": 10,
-      "review_status": "pending_transit",
+      "review_status": "transit_ruled",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.35
-      }
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3737",
-      "to": "C-1292",
-      "relationship": "extends",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
-      "episode": 10,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.35
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
       }
     },
     {
@@ -4732,29 +4716,14 @@
       "from": "C-1293",
       "to": "C-3738",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "explanation": "REVISES (transit_ruling)",
       "episode": 10,
-      "review_status": "pending_transit",
+      "review_status": "transit_ruled",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.35
-      }
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3738",
-      "to": "C-1293",
-      "relationship": "extends",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
-      "episode": 10,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.35
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
       }
     },
     {
@@ -4834,29 +4803,14 @@
       "from": "C-3731",
       "to": "C-3739",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "explanation": "REVISES (transit_ruling)",
       "episode": 10,
-      "review_status": "pending_transit",
+      "review_status": "transit_ruled",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.35
-      }
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3739",
-      "to": "C-3731",
-      "relationship": "extends",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
-      "episode": 10,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.35
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
       }
     },
     {
@@ -10272,29 +10226,14 @@
       "from": "C-1626",
       "to": "C-3740",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=1)",
+      "explanation": "REVISES (transit_ruling)",
       "episode": 27,
-      "review_status": "pending_transit",
+      "review_status": "transit_ruled",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.65
-      }
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3740",
-      "to": "C-1626",
-      "relationship": "extends",
-      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=1)",
-      "episode": 27,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "extends",
-        "confidence": 0.65
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
       }
     },
     {
@@ -41159,14 +41098,6 @@
       "to": "cka:episode:150",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",
-      "episode": 150
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3418",
-      "to": "A-2351.2",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
       "episode": 150
     },
     {

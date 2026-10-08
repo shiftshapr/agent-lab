@@ -51,3 +51,4 @@ RELABEL_TIP,99,N-2392,N-2392,Havas Media,organization,"PR 60 re-audit P2-2: band
 RELABEL_TIP,24;33;41;47;51,N-2385..N-2391,N-2385..N-2391,band-end org retypes,organization,PR 60 re-audit P2-2: Hole-minted (wave2) lines relabelled Tip-minted (wave2),
 RELABEL_TIP,107,N-2384,N-2384,(wave1 topic),topic,Consistency with P2-2: band-end id split off the wave1 Hole-minted line onto Tip-minted (wave1) (judgement call),
 KEEP_HANDLES,47,N-561..N-563; N-565..N-568,,super-chat handles,handle,PR 60 re-audit P1-2: logged in handle_debt.csv; no replacements minted from handles; N-648 Oracle and N-822 Blank kept,
+RENUMBER_PERSON,38,N-898,N-628,Emmanuel Macron,person,"Wave 2.1 P0 (Transit full-62442e7): first appears in ep38 (Reused line, register row, C-1781 Mentions) but was listed New in ep69. Hole mint N-628 on the ep38 Hole-minted (w2_1) line; ep69, ep79, ep159 reuse it; tombstone legacy-N-898 survives_as N-628 (legacy-N-997 repointed)","eps 38, 69, 79, 159"

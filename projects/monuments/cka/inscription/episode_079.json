@@ -490,7 +490,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-898",
+            "N-628",
             "N-1614"
           ],
           "tags": [],
@@ -954,28 +954,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
-      "name": "Emmanuel Macron",
-      "type": "person",
-      "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
-      "related_artifacts": [
-        "A-1855.10"
-      ],
-      "related_claims": [
-        "C-2488"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1614"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-998",
       "ref": "N-998",
       "name": "Jordan Peterson",
@@ -1230,6 +1208,28 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-628",
+      "ref": "N-628",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
+      "related_artifacts": [
+        "A-1855.10"
+      ],
+      "related_claims": [
+        "C-2488"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1614"
+      ]
     }
   ],
   "claims": [
@@ -1490,7 +1490,7 @@
       "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
       "mentions_person_refs": [
         "N-5",
-        "N-898",
+        "N-628",
         "N-996"
       ]
     },

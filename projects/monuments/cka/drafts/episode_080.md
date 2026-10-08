@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1617, N-1618, N-1619
-  - Reused Nodes Appearing: N-209
+  - Reused Nodes Appearing: none
+  - Hole-minted Nodes (remap-ep80): N-209
   - (see registers)
 
 ## Episode 80 Ledger Summary

@@ -44,3 +44,17 @@ episode,id,action,reason
 48,N-224,ADD_REUSED,N-596.5 (note) replaced by the N-224 reuse
 47,N-564,REMOVE_NEW,retired handle
 160;161,N-279; N-318; N-342; N-447; N-472; N-586,HOLE_LINES_TRUE,"after the P0-1 hold no person is cited before its ep160/161 introduction, so the hole-mint lines are true; enforced by the cited_before_intro gate"
+38,N-628,HOLE_MINT,Wave 2.1: Macron introduced at first appearance; removed from the Reused line
+69,N-628,MOVE_NEW_TO_REUSED,Wave 2.1: N-898 dropped from the New and People lines; N-628 on Reused and Existing Nodes Reused
+79,N-628,ADD_REUSED,Wave 2.1: Macron cited but missing from the ledger
+159,N-628,RENAME_REUSED,Wave 2.1: N-898 to N-628 on the Reused line
+20,N-182,HOLE_MINT,Wave 2.1 intro_missing: registered with no introducing ledger line (2026-10-06 remap of N-10017); batch remap-ep20
+80,N-209,HOLE_MINT,Wave 2.1 intro_missing: was only on the Reused line (remap of N-10018); batch remap-ep80
+104,N-225,HOLE_MINT,Wave 2.1 intro_missing: no ledger line (remap of N-10022); batch remap-ep104
+149,N-432,HOLE_MINT,Wave 2.1 intro_missing: no ledger line (2026-10-06 fix-all collapse of N-2256..N-2261); batch fixall-ep149
+159,N-178; N-213; N-215; N-223,HOLE_MINT,"Wave 2.1 intro_missing: were only on the Reused line (remap of N-10016, N-10019..N-10021); batch remap-ep159"
+160,N-230; N-244; N-250; N-279; N-294; N-303; N-318; N-342; N-346; N-347; N-411,HOLE_MINT,Wave 2.1 intro_missing: seq160 hole mints were listed on the Reused line; batch seq160
+23,N-1282,ADD_NEW,Wave 2.1 intro_missing: topic missing from the New line
+120,N-2079,ADD_NEW,Wave 2.1 intro_missing
+132,N-2152,ADD_NEW,Wave 2.1 intro_missing
+75,N-2346; N-2347; N-2348,HOLE_MINT,Wave 2.1 intro_missing: topic ids below the frontier with no ledger line; batch w2_1-ep75

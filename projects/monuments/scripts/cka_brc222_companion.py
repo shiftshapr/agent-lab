@@ -434,9 +434,9 @@ def classify_revises(
     1. Count QUALIFY_CUES vs EXTEND_CUES in label+body.
     2. If qualify_score > extend_score -> propose softening term.
     3. If extend_score > qualify_score -> propose builds-on term.
-    4. Tie / no cues -> default to builds-on term at low confidence,
-       because CKA remints that continue a thread more often add detail than
-       narrow; Transit must confirm.
+    4. Tie / no cues -> default to the softening term at low confidence
+       (Transit ruling, PR 60 Wave 2.1: a Revises correction qualifies the prior
+       claim; there is no builds-on default). Transit must confirm.
 
     Returns (primary_lookup_key, evidence_snippet, confidence, rationale).
     """
@@ -459,10 +459,10 @@ def classify_revises(
             f"qualify_cues={q} extend_cues={e}",
         )
     return (
-        "revises_builds_on",
+        "revises_softening",
         snippet,
         0.35,
-        f"qualify_cues={q} extend_cues={e}; default builds-on pending Transit",
+        f"qualify_cues={q} extend_cues={e}; default softening pending Transit",
     )
 
 
@@ -482,7 +482,11 @@ def build_package(
     artifacts: dict[str, ArtifactRec],
     episode_ids: dict[int, str],
     show_id: str = "cka:show:candace",
+    revises_rulings: dict[str, str] | None = None,
 ) -> BuildResult:
+    """revises_rulings: claim id -> ledger lookup key ('revises_softening' or 'revises_builds_on')
+    fixed by Transit for that claim's Revises edges (config/companion_revises_rulings.json)."""
+    revises_rulings = revises_rulings or {}
     # Resolve all ledger lookup keys once; emitted strings come from vocab.
     terms = {k: vocab.require(v) for k, v in LEDGER_LOOKUP_KEYS.items()}
 
@@ -591,24 +595,29 @@ def build_package(
                 )
             )
 
-        # REVISES: emit BOTH candidates for Transit review; CSV carries heuristic pick
+        # REVISES: one bridge per edge. A Transit ruling fixes the term; otherwise the
+        # heuristic primary is emitted pending review. The CSV keeps both candidates.
         for prior in c.revises:
             primary_key, snippet, confidence, rationale = classify_revises(c, prior)
             soft = terms["revises_softening"]
             ext = terms["revises_builds_on"]
-            # Emit both candidate bridges (pending review)
+            ruled = revises_rulings.get(c.claim_id)
+            if ruled:
+                primary_key, confidence, rationale = ruled, 1.0, "transit_ruling"
             for lookup_key, term in (
                 ("revises_softening", soft),
                 ("revises_builds_on", ext),
             ):
+                if lookup_key != primary_key:
+                    continue
                 add_edge(
                     Edge(
                         source=c.claim_id if lookup_key == "revises_builds_on" else prior,
                         target=prior if lookup_key == "revises_builds_on" else c.claim_id,
                         relationship=term,
                         episode=ep,
-                        explanation=f"REVISES candidate ({rationale})",
-                        review_status="pending_transit",
+                        explanation=f"REVISES ({rationale})",
+                        review_status="transit_ruled" if ruled else "pending_transit",
                         extra={
                             "ledger": "REVISES",
                             "candidate_of": "revises_split",
@@ -643,7 +652,7 @@ def build_package(
         # corroboration or should be reminted as REVISES (softening vs builds-on).
         if c.supports and not c.revises:
             primary_key, snippet, confidence, rationale = classify_revises(c, "")
-            # Without cue hits, classify_revises defaults builds-on at 0.35; keep that.
+            # Without cue hits, classify_revises defaults to softening at 0.35.
             for prior in c.supports:
                 term = terms[primary_key]
                 other = terms[
@@ -834,18 +843,20 @@ No `direction` field. Retired terms rejected: amplifies, contextualizes, timelin
 
 ## REVISES split heuristic
 
-For each ledger `Revises:` edge the builder emits **both** candidate terms for Transit review
-(package bridges with `review_status: pending_transit`, plus CSV rows).
+For each ledger `Revises:` edge the builder emits **one** bridge. Edges whose newer claim has a
+Transit ruling in `config/companion_revises_rulings.json` use the ruled term
+(`review_status: transit_ruled`); other edges use the heuristic primary
+(`review_status: pending_transit`). The CSV keeps both candidate terms per edge.
 
 Primary pick rule:
 1. Score QUALIFY_CUES vs EXTEND_CUES in claim label+body.
 2. Higher qualify score -> softening term as primary.
 3. Higher extend score -> builds-on term as primary.
-4. Tie / no cues -> default builds-on term at low confidence.
+4. Tie / no cues -> default softening term at low confidence (no builds-on default).
 
 Latent rows (`source=supports_latent`) come from every `Supports:` edge that lacks a
 minted `Revises:` line. Cue hits raise confidence; otherwise primary defaults to the
-builds-on term at low confidence. Those rows do **not** change the firm corroboration
+softening term at low confidence. Those rows do **not** change the firm corroboration
 bridge; they are CSV-only hints because the live CKA tip still has few minted `Revises:` lines.
 
 Transit confirms the final term per edge before any deploy.
@@ -867,6 +878,21 @@ Transit confirms the final term per edge before any deploy.
     )
 
 
+def load_revises_rulings(cka_root: Path) -> dict[str, str]:
+    """config/companion_revises_rulings.json: {"rulings": {"C-x": {"term_key": "revises_softening", ...}}}."""
+    path = cka_root / "config" / "companion_revises_rulings.json"
+    if not path.is_file():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    out: dict[str, str] = {}
+    for cid, row in (data.get("rulings") or {}).items():
+        key = row.get("term_key") if isinstance(row, dict) else row
+        if key not in ("revises_softening", "revises_builds_on"):
+            raise ValueError(f"{path}: {cid} has unknown term_key {key!r}")
+        out[cid] = key
+    return out
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="Build CKA BRC-222 2.0.0 companion package")
     ap.add_argument("--cka-root", type=Path, default=DEFAULT_CKA_ROOT)
@@ -884,7 +910,7 @@ def main(argv: list[str] | None = None) -> int:
         vocab.require(name)
 
     claims, artifacts, episode_ids = load_cka_corpus(args.cka_root)
-    result = build_package(vocab, claims, artifacts, episode_ids)
+    result = build_package(vocab, claims, artifacts, episode_ids, revises_rulings=load_revises_rulings(args.cka_root))
     write_package(args.out, result, vocab, args.cka_root)
 
     primary = Counter(

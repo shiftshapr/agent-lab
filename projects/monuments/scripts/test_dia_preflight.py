@@ -476,6 +476,44 @@ def test_cited_before_intro_flags_mentions_and_related(tmp_path):
     assert report.findings == []
 
 
+def test_cited_before_intro_flags_reused_before_new(tmp_path):
+    """Wave 2.1 (N-898 Macron): Reused (and registered) in an earlier episode than its New line is P0."""
+    base = (0, "episode_000.md", Path("b"), "baseline N-1\n")
+    eps = [
+        base,
+        (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n  - Reused Nodes Appearing: N-5\n", _reg(2, 5))),
+        (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+    ]
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_cited_before_intro(report, eps)
+    got = sorted((f.check, f.location, f.message.split(" line")[0].split("on a ")[-1]) for f in report.findings)
+    assert got == [("cited_before_intro", "N-5", "Reused"), ("cited_before_intro", "N-5", "register row")]
+    # Clean control: introduced first, reused later.
+    eps = [
+        base,
+        (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+        (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-6\n  - Reused Nodes Appearing: N-5\n", _reg(5, 6))),
+    ]
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_cited_before_intro(report, eps)
+    assert report.findings == []
+
+
+def test_ledger_intro_flags_ids_only_ever_reused(tmp_path):
+    base = (0, "episode_000.md", Path("b"), "baseline N-1, N-1000\n")
+    eps = [
+        base,
+        (1, "episode_001.md", Path("x"), _ep_draft("  - Reused Nodes Appearing: N-1, N-7\n", _reg(7))),
+        (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-8\n  - Hole-minted Nodes (b): N-9\n", _reg(8, 9) + _reg(1500, kind="Topic"))),
+    ]
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_ledger_intro(report, eps)
+    assert sorted((f.severity, f.check, f.location) for f in report.findings) == [
+        ("P0", "intro_missing", "N-1500"),
+        ("P0", "intro_missing", "N-7"),
+    ]
+
+
 def test_tip_mint_order_accepts_band_tip_and_flags_holes(tmp_path):
     def run(ep2_ledger: str, reg2: str) -> list[tuple[str, str, str]]:
         eps = [
@@ -553,6 +591,7 @@ def test_cka_has_no_wave1_people_regressions():
             "hole_mint_order",
             "tip_mint_order",
             "cited_before_intro",
+            "intro_missing",
             "dangling_claim_ref",
         )
     ]
@@ -576,3 +615,11 @@ def test_hostile_wrapper_prints_accepted_codes():
         cwd=ROOT,
     ).stdout
     assert '"accepted"' in out and "CA_DEBT_CALLOUT" in out
+
+
+def test_stamp_form_flags_minutes_above_59(tmp_path):
+    """Wave 2.1 (C-1909 00:60:00)."""
+    content = "**C-1** x\n\nClaim Timestamp: 00:60:00\nVideo Timestamp: 00:59:22\n"
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_stamps(report, [(1, "episode_001.md", Path("x"), content)])
+    assert [(f.severity, f.check) for f in report.findings] == [("P1", "stamp_form")]

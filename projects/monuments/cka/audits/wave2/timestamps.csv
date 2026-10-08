@@ -387,3 +387,25 @@ episode,kind,id,old,new,delta_s,match_score,basis,reason
 134,claim,C-3164,00:10:30,00:09:40,50,,transcript,rechecked; the Neff post is read at 9:40
 150,claim,C-3406,00:00:00–00:00:01,00:00:42–00:27:35,,,transcript,PR 60 re-audit P2-10: restored-claim placeholder replaced with the real span
 150,claim,C-3418,00:00:00–00:00:01,00:00:02,,,transcript,P2-10: placeholder replaced with the real marker
+45,claim,C-1909,00:60:00,00:59:22,,,transcript,Wave 2.1: malformed stamp (minutes 60); Candlewood Suites comment is read in the 00:59:22 segment
+45,artifact,A-1531.6,00:60:00,00:59:22,,,transcript,Wave 2.1: same malformed stamp as C-1909
+11,claim,C-1318,00:49:50,00:49:16,,,transcript,Wave 2.1: past the last marker; Caitlyn Derrian comment at 00:49:16
+2,claim,C-3631,00:07:02,00:07:05,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+2,claim,C-1128,00:15:01,00:15:24,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+2,claim,C-1125,00:07:26,00:07:45,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+8,artifact,A-2485.1,00:47:35,00:47:33,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+48,artifact,A-1553.1,00:27:47,00:26:46,,,transcript,"Wave 2.1 ts_check_62442e7: Turek clip ""They roped off the vehicle"" at 00:26:46"
+37,claim,C-3651,00:41:12,00:39:33,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+15,artifact,A-1226.1,00:45:52,00:45:02,,,transcript,"Wave 2.1 ts_check_62442e7: sermon title ""what has defiled you"" at 00:45:02"
+15,artifact,A-1221.1,00:22:06,00:21:03,,,transcript,"Wave 2.1 ts_check_62442e7: Kolvet clip ""Because I know people can be evil"" at 00:21:03"
+33,claim,C-3735,00:13:12–00:14:51,00:10:59–00:14:51,,,transcript,Wave 2.1 ts_check_62442e7: snippet is spoken at 00:10:59; the range now covers the snippet and the flew-into-Salt-Lake passage (00:13:12 to 00:14:51)
+65,artifact,A-1696.1,00:08:54–01:23:21,00:08:54–01:21:47,,,transcript,"Wave 2.1 ts_check_62442e7: end of range moved to 01:21:47, where the 7 million views remark is spoken (the description credits viewer comment A-1694.2; left as is, Wave 3 wording check)"
+65,artifact,A-1698.1,00:22:53,00:21:32,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+67,claim,C-3661,00:17:50,00:16:29,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+65,artifact,A-1693.1,00:15:48,00:15:00,,,transcript,Wave 2.1 ts_check_62442e7: selfie on the floor described at 00:15:00
+70,claim,C-3662,00:42:45,00:40:26,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+67,artifact,A-2489.1,00:17:50,00:16:29,,,transcript,Wave 2.1 ts_check_62442e7: restamped to the transcript marker of the located quote
+65,artifact,A-1694.2,01:23:21,01:25:27,,,transcript,Wave 2.1 ts_check_62442e7: Phil Turney comment read at 01:25:27 (was swapped with A-1694.3)
+65,artifact,A-1694.3,01:25:27,01:24:41,,,transcript,Wave 2.1 ts_check_62442e7: Lioness comment read at 01:24:41 (was swapped with A-1694.2)
+107,claim,C-3716,01:00:27,00:56:05,,,transcript,"Wave 2.1 ts_check_62442e7: ""Nowhere, including the Shawn Ryan show, have I ever declared"" at 00:56:05"
+107,claim,C-3709,00:16:54,00:23:09,,,transcript,"Wave 2.1 ts_check_62442e7: ""Of course I do"" (cat story) at 00:23:09"

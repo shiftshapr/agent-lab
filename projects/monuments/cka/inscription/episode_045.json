@@ -331,7 +331,7 @@
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "00:60:00",
+          "video_timestamp": "00:59:22",
           "confidence": "high"
         }
       ]
@@ -776,7 +776,7 @@
         "N-1404"
       ],
       "tags": [],
-      "claim_timestamp": "00:60:00",
+      "claim_timestamp": "00:59:22",
       "investigative_direction": "Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records."
     },
     {

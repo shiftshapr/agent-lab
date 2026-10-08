@@ -279,7 +279,7 @@ Confidence Level: Medium (source unnamed)
 **A-2489** James Lee CIA T-Shirt Remark Bundle
 
 **A-2489.1** On-air host remark, after the James Lee Epstein email clip, that he is "wearing a CIA t-shirt" (verbal reference to the CIA shirt worn by the featured independent journalist; not a host merch plug).
-Video Timestamp: 00:17:50
+Video Timestamp: 00:16:29
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Confidence: medium
 *Related: C-3661, N-3, N-260*
@@ -1158,7 +1158,7 @@ Investigative Direction: Verify against Charleston historical society records; v
 
 **C-3661** Host notes featured independent journalist James Lee wearing a CIA t-shirt
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:16:29
 Claim: After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says "I love that he's wearing a CIA t-shirt. James, great work," noting the featured journalist wearing a CIA shirt rather than plugging merch herself.
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Anchored Artifacts: A-2489.1

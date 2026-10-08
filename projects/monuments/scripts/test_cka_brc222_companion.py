@@ -271,6 +271,31 @@ Qualifies: C-100
         self.assertTrue(c101_primary)
         self.assertEqual(c101_primary[0]["proposed_term"], term_qual)
 
+    def test_revises_emits_one_bridge_and_honours_rulings(self):
+        """PR 60 Wave 2.1: one bridge per Revises edge; a Transit ruling pins the term."""
+        v = mod.Vocabulary(VOCAB_PATH)
+        term_qual = v.require(mod.LEDGER_LOOKUP_KEYS["revises_softening"])
+        term_ext = v.require(mod.LEDGER_LOOKUP_KEYS["revises_builds_on"])
+        claims, artifacts, episode_ids = mod.load_cka_corpus(self.cka)
+
+        def revises_rels(result):
+            return sorted(
+                (e.source, e.target, e.relationship)
+                for e in result.edges
+                if e.relationship in (term_qual, term_ext) and e.source.startswith("C-") and e.target.startswith("C-")
+            )
+
+        plain = mod.build_package(v, claims, artifacts, episode_ids)
+        # C-100 (extend cues) -> extends only; C-101 (qualify cues) -> isQualifiedBy only.
+        self.assertEqual(revises_rels(plain), [("C-100", "C-101", term_qual), ("C-100", "C-99", term_ext)])
+        ruled = mod.build_package(v, claims, artifacts, episode_ids, revises_rulings={"C-100": "revises_softening"})
+        self.assertEqual(revises_rels(ruled), [("C-100", "C-101", term_qual), ("C-99", "C-100", term_qual)])
+
+    def test_cka_rulings_file_pins_corrections_to_qualified_by(self):
+        rulings = mod.load_revises_rulings(mod.DEFAULT_CKA_ROOT)
+        for cid in ("C-3737", "C-3738", "C-3739", "C-3740"):
+            self.assertEqual(rulings.get(cid), "revises_softening")
+
     def test_hardcode_guard_fails_on_synthetic_bad_source(self):
         """Sanity: scanner would catch a direct relationship literal emit."""
         bad_src = 'x = "isSupportedBy"\n'

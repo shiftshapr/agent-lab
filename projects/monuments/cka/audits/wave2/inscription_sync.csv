@@ -1116,3 +1116,17 @@ canonical,N-1234,episodes removed 152
 152,N-279,reaudit:removed
 canonical,N-564,reaudit:node removed (retired)
 canonical,N-224,reaudit:episodes gain 48
+8,A-2485.1,wave2.1:skipped(not in inscription)
+37,C-3651,wave2.1:skipped(not in inscription)
+38,N-628,wave2.1:added
+38,N-898,wave2.1:removed
+67,C-3661,wave2.1:skipped(not in inscription)
+67,A-2489.1,wave2.1:skipped(not in inscription)
+69,N-628,wave2.1:added
+69,N-898,wave2.1:removed
+70,C-3662,wave2.1:skipped(not in inscription)
+79,N-628,wave2.1:added
+79,N-898,wave2.1:removed
+159,N-628,wave2.1:added
+159,N-898,wave2.1:removed
+canonical,N-628,"wave2.1:N-898 renumbered to N-628 (retired_ids N-997, N-898); next_person_id 629"

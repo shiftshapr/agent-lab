@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd
 
 - **Episode Ledger Summary**:
+  - Hole-minted Nodes (fixall-ep149): N-432
   - (see registers)
 
 # Episode Analysis: Bride of Charlie Episode 149

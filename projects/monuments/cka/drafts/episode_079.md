@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-989, N-990, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
-  - Reused Nodes Appearing: N-138, N-5
+  - Reused Nodes Appearing: N-138, N-5, N-628
   - (see registers)
 
 ## 6. Meme Register
@@ -293,7 +293,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-898, N-1614*
+*Related: C-2488, N-628, N-1614*
 
 ---
 
@@ -526,7 +526,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-898** Emmanuel Macron
+**N-628** Emmanuel Macron
 
 Speaker attributed with statement (A-1855.10) regarding French navy escort.
 
@@ -816,7 +816,7 @@ Claim Timestamp: 00:26:19–00:28:13
 Claim: Multiple allied-nation statements, as read by the host, decline or condition participation in US-led Strait of Hormuz escort operations. Italy's Meloni described the war as outside international law; France conditioned participation on stabilization.
 
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
-Mentions: N-5, N-898, N-996
+Mentions: N-5, N-628, N-996
 
 Related Nodes: N-1614
 

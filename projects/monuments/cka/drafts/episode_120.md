@@ -34,7 +34,7 @@
 
 - Artifact Families Introduced: A-2085, A-2086, A-2087, A-2088, A-2089, A-2090, A-2091, A-2092
 - Claim Range: C-2935–C-2944
-  - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078
+  - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078, N-2079
   - Reused Nodes Appearing: N-2, N-69
 - Existing Nodes Reused: N-2, N-69
 

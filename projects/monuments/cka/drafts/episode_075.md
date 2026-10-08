@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (wave1): N-531
+  - Hole-minted Nodes (w2_1-ep75): N-2346, N-2347, N-2348
   - (see registers)
 
 ## I. Meta-Data

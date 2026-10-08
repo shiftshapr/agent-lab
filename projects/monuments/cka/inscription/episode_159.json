@@ -491,7 +491,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-898"
+        "N-628"
       ]
     },
     {
@@ -748,26 +748,6 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
-      "name": "Emmanuel Macron",
-      "type": "person",
-      "description": "Feb 24 White House ask that Candace stop Brigitte coverage (via Charlie).",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3611"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-117"
-      ]
     },
     {
       "@type": "Person",
@@ -1425,6 +1405,26 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-628",
+      "ref": "N-628",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Feb 24 White House ask that Candace stop Brigitte coverage (via Charlie).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-117"
+      ]
     }
   ],
   "claims": [
@@ -1519,7 +1519,7 @@
         "N-57",
         "N-65",
         "N-117",
-        "N-898"
+        "N-628"
       ]
     },
     {

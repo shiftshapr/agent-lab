@@ -1,5 +1,6 @@
 {
   "description": "Monument-specific inputs for dia_preflight Wave 1 gates. mention_grounding.exempt_ids: show host, speaks in first person and is rarely named. mention_grounding.reviewed: human-verified Mentions where the person is referenced by role rather than name; each row is also recorded in audits/wave1/mentions_decisions.csv. first_name_ok: ids that may ground on the first name alone (Charlie, Erika). window_seconds: grounding window in seconds around the claim timestamp; window_seconds_early applies to episodes up to early_max_episode (coarser early drafts). A placeholder 00:00:00 to 00:00:01 timestamp falls back to episode-wide grounding.",
+  "ledger_intro": {"strict": true, "note": "Wave 2.1: a node is introduced by the New, Hole-minted or Tip-minted ledger line of its first appearance; Reused-before-New and register rows without such a line fail (cited_before_intro, intro_missing)."},
   "mention_grounding": {
     "exempt_ids": ["N-3"],
     "reviewed": [

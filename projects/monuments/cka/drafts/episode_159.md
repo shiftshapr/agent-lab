@@ -13,7 +13,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364
-  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-898, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-36, N-41, N-46, N-30, N-47, N-48, N-49, N-51, N-52, N-53, N-54, N-57, N-58, N-178, N-182, N-209, N-213, N-215, N-223, N-225
+  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-628, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-36, N-41, N-46, N-30, N-47, N-48, N-49, N-51, N-52, N-53, N-54, N-57, N-58, N-182, N-209, N-225
+  - Hole-minted Nodes (remap-ep159): N-178, N-213, N-215, N-223
   - (see registers)
   - Person band: persons minted in this quality pass use N-30+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-443. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
 
@@ -289,7 +290,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-898*
+*Related: C-3611, N-628*
 
 ---
 
@@ -449,7 +450,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-898** Emmanuel Macron
+**N-628** Emmanuel Macron
 
 Feb 24 White House ask that Candace stop Brigitte coverage (via Charlie).
 
@@ -895,7 +896,7 @@ Claim Timestamp: 00:23:22
 Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together. Host also recalls Mitt Romney and Benjamin Netanyahu meeting as BCG advisers.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-5, N-16, N-57, N-65, N-117, N-898
+Mentions: N-5, N-16, N-57, N-65, N-117, N-628
 
 Related Nodes: N-1098, N-2351, N-2354, N-2359, N-2362
 

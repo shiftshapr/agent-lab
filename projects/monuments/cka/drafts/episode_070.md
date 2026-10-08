@@ -370,7 +370,7 @@ Investigative Direction: Verify the GoFundMe campaign directly; identify the eig
 
 **C-3662** Host identifies show community as Decentralized Intelligence Agency
 
-Claim Timestamp: 00:42:45
+Claim Timestamp: 00:40:26
 Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
 Transcript Snippet: ..., you guys were strong. So I want to say that the decentralized intelligence agency has brought us to this moment. This was not the work of me. It was the work of everybody....
 Anchored Artifacts: 

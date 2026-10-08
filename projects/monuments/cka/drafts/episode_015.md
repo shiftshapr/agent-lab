@@ -86,7 +86,7 @@ Description: Bowyer tweet asserting "there is camera footage all over that campu
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:22:06
+Video Timestamp: 00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio/video clip referenced as played on air)
 
@@ -192,7 +192,7 @@ Description: Host verbally identifies Josh Hammer as a participant on the pre-as
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:45:52
+Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio/video clip played on air)
 

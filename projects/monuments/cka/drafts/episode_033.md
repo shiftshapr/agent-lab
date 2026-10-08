@@ -778,7 +778,7 @@ Investigative Direction: Preserve as brand / network framing claim (M-12 alias "
 
 **C-3735** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
 
-Claim Timestamp: 00:13:12–00:14:51
+Claim Timestamp: 00:10:59–00:14:51
 
 Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10 because of a morning "restaurantology" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.
 

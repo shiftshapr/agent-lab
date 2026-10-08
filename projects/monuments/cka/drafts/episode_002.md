@@ -749,7 +749,7 @@ Investigative Direction: Obtain full unedited version of Erika Kirk's remarks an
 
 **C-3631** Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death
 
-Claim Timestamp: 00:07:02
+Claim Timestamp: 00:07:05
 Claim: Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.
 Transcript Snippet: Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.
 Anchored Artifacts: A-1082.1
@@ -762,7 +762,7 @@ Investigative Direction: Verify timestamps of Netanyahu's two Fox News appearanc
 
 **C-1125** Kirk Wrote Netanyahu a Letter on May 2
 
-Claim Timestamp: 00:07:26
+Claim Timestamp: 00:07:45
 Claim: Netanyahu claimed on Fox News that Charlie Kirk wrote him a letter on May 2 expressing support for Israel.
 Transcript Snippet: He said, One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.
 Anchored Artifacts: A-1082.1, A-1083.1
@@ -803,7 +803,7 @@ Investigative Direction: Verify exact date of Megan Kelly interview and guest li
 
 **C-1128** Bill Ackman Staged Intervention Against Kirk in Hamptons
 
-Claim Timestamp: 00:15:01
+Claim Timestamp: 00:15:24
 Claim: Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
 Transcript Snippet: An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
 Anchored Artifacts: A-1092.1

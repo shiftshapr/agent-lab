@@ -51,8 +51,7 @@
             "C-3406",
             "C-3414",
             "C-3415",
-            "C-3417",
-            "C-3418"
+            "C-3417"
           ],
           "related_nodes": [
             "N-2",
@@ -843,16 +842,15 @@
       "ref": "C-3418",
       "label": "Host reports being approximately eight months pregnant at time of recording",
       "claim": "Host states she is \"8 months pregnant\" at the time of recording.",
-      "anchored_artifacts": [
-        "A-2351.2"
-      ],
+      "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:02",
       "investigative_direction": "Not investigationally material; recorded for biographical record.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "transcript_snippet": "And obviously I wish I also wasn't 8 months pregnant doing this when I'm already in a heightened emotional state."
     },
     {
       "@type": "Claim",

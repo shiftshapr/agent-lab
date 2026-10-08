@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2148, N-2149, N-2150, N-2151
+  - New Nodes Introduced: N-2148, N-2149, N-2150, N-2151, N-2152
   - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 

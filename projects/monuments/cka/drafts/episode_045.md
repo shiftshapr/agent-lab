@@ -190,7 +190,7 @@ Confidence Level: High
 
 **A-1531.6** Comment by servant of Yahweh: "Who was the young woman in the Candlewood Suites hotel with the special ops guy? They left in the green truck on September 8th..."
 Event Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:60:00
+Video Timestamp: 00:59:22
 Confidence Level: High
 
 *Related: C-1909, N-1404*
@@ -454,7 +454,7 @@ Investigative Direction: Cross-reference with public DoD facility records, news 
 
 **C-1909** Candlewood Suites security footage preservation requested for September 8, 2025
 
-Claim Timestamp: 00:60:00
+Claim Timestamp: 00:59:22
 
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 

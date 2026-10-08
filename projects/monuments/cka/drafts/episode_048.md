@@ -58,7 +58,7 @@ Description: Read aloud on air by the host. Contains attributed quotation: "Abso
 
 **A-1553.1** Turek interview audio describing vehicle being roped off as crime scene, FBI clearance, his computer bag between bucket seats below Charlie, and Charlie's cross/medallion necklace draped over the bag
 
-Video Timestamp: 00:27:47
+Video Timestamp: 00:26:46
 Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Turek states: "They roped off the vehicle that we took out of there as a crime scene... we couldn't get into the vehicle until the FBI cleared it... draped over my bag was Charlie's necklace that had a cross and medallions on it."

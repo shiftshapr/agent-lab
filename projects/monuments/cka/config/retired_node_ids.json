@@ -1399,7 +1399,7 @@
       "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
     },
     "legacy-N-997": {
-      "survives_as": "N-898",
+      "survives_as": "N-628",
       "canonical_name": "Emmanuel Macron",
       "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron)."
     },
@@ -2437,6 +2437,11 @@
       "survives_as": null,
       "canonical_name": "Central848",
       "reason": "Wave 2 re-audit (PR 60 P1-2, PPL-P1-2): super-chat viewer handle, not spoken in the transcript, Claim Count 0. Retired with no survivor; no replacement minted from the handle."
+    },
+    "legacy-N-898": {
+      "survives_as": "N-628",
+      "canonical_name": "Emmanuel Macron",
+      "reason": "Wave 2.1 (PR 60 full adversarial P0): Reused in ep38 but listed New in ep69. Introduced at his first appearance (ep38) as a hole mint at the lowest free person id N-628; N-898 tombstoned and not reused."
     }
   },
   "reserved_baseline_ids": {

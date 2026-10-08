@@ -605,7 +605,7 @@ Investigative Direction: Independent forensic review of recovered bullet(s) for 
 
 **C-1318** Host concurs with Caitlyn Derrian's characterization of her journalism
 
-Claim Timestamp: 00:49:50
+Claim Timestamp: 00:49:16
 Claim: Host expresses gratitude for Caitlyn Derrian's supportive comment and concurs with the framing.
 Anchored Artifacts: A-1182.2
 Related Nodes:

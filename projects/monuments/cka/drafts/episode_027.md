@@ -713,10 +713,12 @@ Investigative Direction: Obtain the underlying text thread to verify Allie's cha
 
 Claim Timestamp: 00:36:03
 Claim: C-1626's title says the venue was confirmed two months out, which inverts its own body. Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
+Transcript Snippet: She says, "Since some of you guys are struggling, no venue yet, 2 months out."
 Anchored Artifacts: A-1347.2
 Mentions: N-349
 Related Nodes: N-1298
 Revises: C-1626
+Confidence: high
 Investigative Direction: Read with C-1626; obtain the underlying text thread to verify Allie's characterization of venue status.
 
 ---
