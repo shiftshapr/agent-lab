@@ -15,9 +15,9 @@
 - **Transcript SHA-256**: 24ae4dc831837ca22c3049f10c8b14e92c9e52b19a72a332213431c35e47c3bb
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154
-  - Claim Range: C-1245-C-1266
-  - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-146, N-147, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
+  - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154, A-2518
+  - Claim Range: C-1245-C-1266, C-3727
+  - New Nodes Introduced: N-135, N-136, N-137, N-138, N-144, N-145, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-66, N-69, N-71, N-5, N-92, N-102, N-110, N-111, N-112, N-134, N-1000, N-1077, N-1125, N-1079
 
 ## 2. Executive Summary
@@ -165,6 +165,16 @@ Confidence: medium
 ---
 
 
+**A-2518** Catholic Mass Debate Reference Bundle
+
+**A-2518.1** Andrew Kolvet clip: verbal reference to videos of Charlie Kirk debating Michael Knowles (verbal reference; no displayed artifact)
+Video Timestamp: 00:34:07–00:34:23
+*Related: C-3727, N-1, N-42, N-138*
+Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -226,7 +236,7 @@ Arrested shortly after the shooting; timeline and location analyzed by host.
 Node Type: Person
 PR agent for Turning Point USA; sat down with Alex Clark to address rumors.
 
-*Related: A-1151.1, A-1151.2, A-1151.3, A-1151.4, C-1255, C-1256, C-1257, C-1258*
+*Related: A-1151.1, A-1151.2, A-1151.3, A-1151.4, A-2518.1, C-1255, C-1256, C-1257, C-1258, C-3727*
 
 ---
 
@@ -295,12 +305,12 @@ Referenced via prior tweet suggesting more parties involved than Robinson alone.
 
 ---
 
-**N-138** Michael Nolles
+**N-138** Michael Knowles
 
 Node Type: Person
 Catholic debate partner of Charlie Kirk referenced by Kovette.
 
-*Related: A-1146.1, A-1151.1, C-1245*
+*Related: A-2518.1, C-3727*
 
 
 
@@ -312,61 +322,6 @@ Node Type: Person
 President; audio statement on MMR separation and Hepatitis B delay played in the episode.
 
 *Related: A-1153.1, C-1260*
-
----
-
-**N-139** John Heinchell
-
-Node Type: Person
-Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.
-
-*Related: A-1146.1, C-1245*
-
-
-
----
-
-**N-140** Jenna V
-
-Node Type: Person
-Commenter thanking host and recalling mutual support with Charlie.
-
-*Related: A-1146.1, C-1245*
-
-
-
----
-
-**N-141** Tempes
-
-Node Type: Person
-Commenter on Charlie's spiritual status.
-
-*Related: A-1146.1, C-1245*
-
-
-
----
-
-**N-142** Carl
-
-Node Type: Person
-Commenter thanking host for questioning the establishment.
-
-*Related: A-1146.1, C-1245*
-
-
-
----
-
-**N-143** Mary Kelly
-
-Node Type: Person
-Commenter praying via Flame of Love rosaries.
-
-*Related: A-1146.1, C-1245*
-
-
 
 ---
 
@@ -385,26 +340,6 @@ Node Type: Person
 Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).
 
 *Related: C-1264*
-
----
-
-**N-146** Milana
-
-Node Type: Person
-Commenter asking about homeschooling curriculum.
-
-*Related: A-1146.1, C-1245*
-
-
-
----
-
-**N-147** Lover of Light
-
-Node Type: Person
-Commenter asking host to share personal stories.
-
-*Related: A-1154.1, C-1254*
 
 ---
 
@@ -647,7 +582,7 @@ Claim Timestamp: 00:10:11
 Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman
 Anchored Artifacts: A-1146.1
-Mentions: N-92, N-110, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-146
+Mentions: N-92, N-110, N-137
 Related Nodes: N-1125, N-1160, N-1161
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
@@ -768,7 +703,7 @@ Claim Timestamp: 00:30:37
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
-Mentions: N-69, N-147
+Mentions: N-69
 Related Nodes: N-1079, N-1165
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
@@ -941,6 +876,18 @@ Investigative Direction: Preserve as joke reference to CIA hat brand; no factual
 
 ---
 
+
+**C-3727** Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology
+
+Claim Timestamp: 00:34:12
+Claim: Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as "Andrew's response to the Catholic question"), says Charlie Kirk debated Michael Knowles (transcript: "Michael Nolles") in good fun on Protestant versus Catholic theology and that they were dear friends.
+Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
+Anchored Artifacts: A-2518.1
+Mentions: N-1, N-42, N-138
+Confidence: medium
+Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate videos.
+
+---
 
 ## 6. Meme Register
 

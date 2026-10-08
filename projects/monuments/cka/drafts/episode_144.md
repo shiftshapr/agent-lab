@@ -78,7 +78,7 @@ Source: External interview referenced by host
 Video Timestamp: 00:04:20–00:04:50
 Confidence Level: High
 
-*Related: C-3315, N-1215*
+*Related: C-3315*
 
 ---
 
@@ -104,7 +104,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-3316, N-1215, N-2209*
+*Related: C-3316, N-2209*
 
 **A-2304.2** Audio: Sergeant Mark Bricker (SBI) testimony stating the Utah County Attorney's Office created the 20-minute sizzle reel
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:30–00:28:00
 Confidence Level: High
 
-*Related: C-3321, N-1210, N-1211*
+*Related: C-3321, N-1210, N-224*
 
 **A-2306.2** Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism
 
@@ -156,7 +156,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-1210, N-1211, N-46*
+*Related: C-3322, N-1210, N-224, N-46*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -165,7 +165,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:40–00:38:50
 Confidence Level: High
 
-*Related: C-3323, N-1210, N-1211*
+*Related: C-3323, N-1210, N-224*
 
 **A-2306.4** Audio: Andrew Kolvet recounting Candace saying she would "burn down that organization" if the wrong people took over TPUSA
 
@@ -187,7 +187,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:50–00:41:00
 Confidence Level: High
 
-*Related: C-3323, N-1216, N-1217*
+*Related: C-3323, N-1, N-2*
 
 ---
 
@@ -477,7 +477,7 @@ Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparia
 
 Anchored Artifacts: A-2302.1, A-2304.1
 
-Related Nodes: N-1213, N-1215, N-2209
+Related Nodes: N-1213, N-2209
 
 Investigative Direction: Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.
 
@@ -491,7 +491,7 @@ Claim: Lead investigator David Hull testified at the preliminary hearing that he
 
 Anchored Artifacts: A-2304.1
 
-Related Nodes: N-1215, N-2209
+Related Nodes: N-2209
 
 Investigative Direction: Obtain the preliminary-hearing transcript and confirm testimony verbatim.
 
@@ -560,8 +560,9 @@ Claim Timestamp: 00:25:30–00:28:00
 Claim: On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded the debate early and repeatedly and predicted the loss would "age well" for him.
 
 Anchored Artifacts: A-2306.1
+Mentions: N-224
 
-Related Nodes: N-1210, N-1211
+Related Nodes: N-1210
 
 Investigative Direction: Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.
 
@@ -574,9 +575,9 @@ Claim Timestamp: 00:33:00–00:35:40
 Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.
 
 Anchored Artifacts: A-2306.2
-Mentions: N-46
+Mentions: N-46, N-224
 
-Related Nodes: N-1210, N-1211
+Related Nodes: N-1210
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 
@@ -589,8 +590,9 @@ Claim Timestamp: 00:39:50–00:41:00
 Claim: A November 2023 clip of Charlie Kirk shows him saying Candace is "on our team" and telling a critic asking about her AmFest appearance to "lose my number."
 
 Anchored Artifacts: A-2307.1
+Mentions: N-1
 
-Related Nodes: N-1211, N-1216
+Related Nodes:
 
 Investigative Direction: Obtain the full unedited segment; note any surrounding context that may complicate the read.
 
@@ -617,8 +619,9 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025 that the TPUSA board had already voted in Erica Kirk to take over the organization, and asked her not to announce it yet.
 
 Anchored Artifacts: A-2308.1, A-2308.2
+Mentions: N-2
 
-Related Nodes: N-1217, N-2212
+Related Nodes: N-2212
 
 Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.
 
@@ -633,7 +636,7 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger — requires human verification.
-- **Likely-existing nodes flagged for verification:** N-1207 (Terrell Farnsworth), N-1208 (Philip Goldsbury), N-1209 (Andrew Kolvet), N-1211 (Blake Neff), N-1215 (David Hull), N-1216 (Charlie Kirk), N-1217 (Erica Kirk) — these figures have appeared in prior Bride of Charlie episodes and may already have lower N-IDs in the global ledger. If so, the cross-reference IDs in this analysis must be remapped. No renumbering of new artifacts/claims.
+- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207..N-1217 never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-2209 (SD card chain of custody), N-2210 (aspect ratio modification), N-2211 (Terrell handling), N-2212 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

@@ -274,7 +274,7 @@ Claim Timestamp: 00:09:08
 Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 — approximately five-and-a-half days after Charlie Kirk's death — with the public board announcement following one day later.
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
-Mentions: N-264, N-797
+Mentions: N-264
 
 Related Nodes: N-1519
 

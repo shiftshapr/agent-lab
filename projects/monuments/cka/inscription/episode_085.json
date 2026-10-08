@@ -156,7 +156,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1211",
+            "N-70",
             "N-1639"
           ],
           "tags": [],
@@ -869,12 +869,14 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1639"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
-      "investigative_direction": "Cross-reference with Brooksby's account."
+      "investigative_direction": "Cross-reference with Brooksby's account.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -886,12 +888,14 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1639"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
-      "investigative_direction": "Cross-reference with Brooksby's account."
+      "investigative_direction": "Cross-reference with Brooksby's account.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -903,12 +907,14 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1639"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
-      "investigative_direction": "Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim."
+      "investigative_direction": "Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",

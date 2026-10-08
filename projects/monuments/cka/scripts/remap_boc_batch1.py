@@ -404,7 +404,8 @@ def main() -> int:
             meta["kind"] = row.get("kind")
         path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    shutil.copy2(BOC / "config" / "retired_node_ids.json", CKA / "config" / "retired_node_ids.json")
+    # Wave 1 (audit PPL-P1-4): the CKA tombstone ledger is CKA-native (config/retired_node_ids.json v5).
+    # Do not overwrite it with the Bride of Charlie ledger.
     _build_canonical()
 
     scaffold = CKA / "config" / "scaffold_only.json"

@@ -491,7 +491,7 @@ Claim Timestamp: 00:00:41
 Claim: The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways inconsistent with casual 22-year-old texting, suggesting they are not authentic.
 Transcript Snippet: I played this game with my entire staff… someone used that term. The first was former military, second was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
-Mentions: N-2, N-68, N-69, N-84, N-99
+Mentions: N-2, N-69, N-84, N-99
 Related Nodes: N-1103
 Confidence: medium
 Investigative Direction: Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.
@@ -626,7 +626,7 @@ Claim Timestamp: 00:58:39
 Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
-Mentions: N-1, N-3, N-45, N-50, N-65, N-67, N-75, N-86, N-104
+Mentions: N-1, N-3, N-45, N-50, N-65, N-75, N-104, N-67, N-86
 Related Nodes: N-1112
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.

@@ -808,7 +808,7 @@
       "claim_timestamp": "00:43:28",
       "investigative_direction": "Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.",
       "mentions_person_refs": [
-        "N-42",
+        "N-86",
         "N-133",
         "N-135",
         "N-349",
@@ -866,9 +866,7 @@
       "tags": [],
       "claim_timestamp": "00:56:27–00:57:53",
       "investigative_direction": "Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents.",
-      "mentions_person_refs": [
-        "N-69"
-      ]
+      "mentions_person_refs": []
     }
   ],
   "memes": []

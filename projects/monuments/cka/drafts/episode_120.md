@@ -35,8 +35,8 @@
 - Artifact Families Introduced: A-2085, A-2086, A-2087, A-2088, A-2089, A-2090, A-2091, A-2092
 - Claim Range: C-2935–C-2944
   - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078
-  - Reused Nodes Appearing: N-2, N-4, N-6, N-1207, N-1208, N-1209, N-1210
-- Existing Nodes Reused: N-2, N-4, N-6 (assumed standard assignments from prior episodes)
+  - Reused Nodes Appearing: N-2, N-69, N-1207, N-1208, N-1209, N-1210
+- Existing Nodes Reused: N-2, N-69
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:47:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1210 (Tim Dillon), N-3*
+*Related: N-443 (Tim Dillon), N-3*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:25:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (asserted by host; underlying ruling not displayed)
 
-*Related: C-2939, C-2940, N-4, N-6, N-2077*
+*Related: C-2939, C-2940, N-69, N-2077*
 
 ---
 
@@ -225,7 +225,7 @@ Investigative Pressure: High
 ---
 
 
-**N-4** JD Vance
+**N-69** Tyler Robinson
 
 Defendant in preliminary hearing subject to host's hearsay concerns.
 
@@ -234,20 +234,7 @@ Claim Count: 2 (this episode)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
 
-*Related: A-2092.1, C-2939, C-2940, N-6, N-2077*
-
----
-
-**N-6** Elizabeth Lane *(reused from Episode 1)*
-
-Roommate / romantic partner of Tyler Robinson; subject of the denied subpoena.
-
-Evidence Count: 1 (this episode)
-Claim Count: 2 (this episode)
-Episode Count: 120 (cumulative)
-Investigative Pressure: High
-
-*Related: A-2092.1, C-2939, C-2940, N-4, N-2077*
+*Related: A-2092.1, C-2939, C-2940, N-2077*
 
 ---
 
@@ -351,7 +338,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2092.1, C-2939, C-2940, N-4, N-6*
+*Related: A-2092.1, C-2939, C-2940, N-69*
 
 ---
 
@@ -433,7 +420,7 @@ Claim Timestamp: 00:25:38
 Claim: Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing scheduled for the week of July 6.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-4, N-6
+Mentions: N-69, N-84
 
 Related Nodes: N-2077
 
@@ -448,7 +435,7 @@ Claim Timestamp: 00:26:28
 Claim: Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-4, N-6
+Mentions: N-69, N-84
 
 Related Nodes: N-2077
 

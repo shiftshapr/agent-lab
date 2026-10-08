@@ -723,7 +723,7 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed Turning Point Action tweet, the organization characterized Massie as a "rhino" who needed to be replaced.
 
 Anchored Artifacts: A-1844.1
-Mentions: N-70, N-968
+Mentions: N-968
 Related Nodes: N-1611
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 

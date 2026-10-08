@@ -113,7 +113,6 @@
             "C-3168"
           ],
           "related_nodes": [
-            "N-1210",
             "N-3"
           ],
           "tags": [],
@@ -742,9 +741,7 @@
       "anchored_artifacts": [
         "A-2208.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "02:44:00",
       "investigative_direction": "Verify original tweet; cross-reference court orders on broadcasting exhibits.",

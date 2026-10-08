@@ -73,10 +73,7 @@
           "related_claims": [
             "C-3315"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1215"
-          ],
+          "related_nodes": [],
           "tags": [],
           "video_timestamp": "00:04:20–00:04:50",
           "confidence": "high"
@@ -123,8 +120,6 @@
             "C-3316"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1215",
             "N-2209"
           ],
           "tags": [],
@@ -212,9 +207,8 @@
             "C-3321"
           ],
           "related_nodes": [
-            "N-1209",
             "N-1210",
-            "N-1211"
+            "N-224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,9 +225,9 @@
             "C-3322"
           ],
           "related_nodes": [
-            "N-1209",
             "N-1210",
-            "N-1211"
+            "N-224",
+            "N-46"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -250,9 +244,8 @@
             "C-3323"
           ],
           "related_nodes": [
-            "N-1209",
             "N-1210",
-            "N-1211"
+            "N-224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,8 +288,8 @@
             "C-3323"
           ],
           "related_nodes": [
-            "N-1216",
-            "N-1217"
+            "N-1",
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -774,12 +767,12 @@
       ],
       "related_nodes": [
         "N-1213",
-        "N-1215",
         "N-2209"
       ],
       "tags": [],
       "claim_timestamp": "00:04:20–00:04:50",
-      "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists."
+      "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -791,12 +784,12 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-2209"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
-      "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim."
+      "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -877,12 +870,14 @@
         "A-2306.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1211"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:25:30–00:28:00",
-      "investigative_direction": "Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged."
+      "investigative_direction": "Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -894,14 +889,14 @@
         "A-2306.2"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1211"
+        "N-1210"
       ],
       "tags": [],
       "claim_timestamp": "00:33:00–00:35:40",
       "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-224"
       ]
     },
     {
@@ -913,13 +908,13 @@
       "anchored_artifacts": [
         "A-2307.1"
       ],
-      "related_nodes": [
-        "N-1211",
-        "N-1216"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:50–00:41:00",
-      "investigative_direction": "Obtain the full unedited segment; note any surrounding context that may complicate the read."
+      "investigative_direction": "Obtain the full unedited segment; note any surrounding context that may complicate the read.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -949,12 +944,14 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-1217",
         "N-2212"
       ],
       "tags": [],
       "claim_timestamp": "00:51:00–00:54:00",
-      "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition."
+      "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

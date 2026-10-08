@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
-  - Claim Range: C-1228-C-1244
+  - Claim Range: C-1228-C-1244, C-3717
   - New Nodes Introduced: N-128, N-129, N-130, N-132, N-133, N-134, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156, N-1157
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1079
 
@@ -176,6 +176,11 @@ Video Timestamp: 01:07:52–01:08:49
 *Related: C-1244, N-16*
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 
+**A-1145.3** Comment asking whether Jack Posobiec is trustworthy given his Navy intelligence background, read on air and answered by the host
+Video Timestamp: 00:48:31–00:49:57
+*Related: C-3717, N-3, N-130*
+Transcript Snippet: Candace, is Jack Pobiac trustworthy? I find it odd that a Navy intelligence officer
+
 ---
 
 **A-2484** Laura Loomer CIA Merch Accusation Tweet Bundle
@@ -297,7 +302,7 @@ Individual located in crowd whose path host found suspicious.
 Node Type: Person
 Commentator and former Navy intelligence officer; defended by host.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: C-3717*
 
 
 
@@ -504,7 +509,7 @@ Claim Timestamp: 00:00:37
 Claim: Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, framing it as a Christian act of submission.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
-Mentions: N-1, N-2, N-66, N-71, N-130, N-133, N-134
+Mentions: N-1, N-2, N-71
 Investigative Direction: Verify the full text/transcript of Erika's speech against published recording.
 
 ---
@@ -727,6 +732,16 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
+**C-3717** Candace vouches for Jack Posobiec despite viewer doubts about his naval intelligence past
+
+Claim Timestamp: 00:49:00
+Claim: Answering a viewer question, Candace says she knows Jack Posobiec, that he has always been solid with her, and that he was a naval intelligence officer who has never denied it.
+Transcript Snippet: I can tell you that I know Jack Bobic. He has always been very solid with with me.
+Anchored Artifacts: A-1145.3
+Mentions: N-3, N-130
+Investigative Direction: Verify Posobiec's naval intelligence service record and any public statement on his current status.
+
+---
 
 ## 6. Meme Register
 

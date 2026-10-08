@@ -31,9 +31,10 @@
 
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
 - Claim Range: C-3393–C-3405
-  - New Nodes Introduced: N-11
-  - Reused Nodes Appearing: N-1, N-2, N-4, N-5, N-6, N-1028, N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-1028 Candace Owens, N-4 Blake Neff, N-5 Kanye West (Ye), N-6 Kim Kardashian, N-1028 Usha Vance, N-8 New York Times, N-9 Deseret News, N-10 Turning Point USA (TPUSA), N-11 Danny Philip, N-12 Frank Turek, N-13 Andrew Kolb, N-14 Andrew Cooper, N-15 Tulsi Gabbard, N-16 JD Vance, N-42 Josh Hammer, N-18 Salem Media, N-19 Brad Parscale,  Ebro Darden,  Rabbi Wolicki
+  - New Nodes Introduced: none
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-16, N-42, N-56, N-224, N-550, N-1000, N-587
+  - Hole-minted Nodes (wave1): N-578
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-224 Blake Neff, N-56 Kanye West (Ye), N-1000 Turning Point USA (TPUSA), N-16 Frank Turek, N-42 Andrew Kolvet (aired as Andrew Kolb), N-550 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
 ---
 
@@ -59,7 +60,7 @@ Video Timestamp: 00:03:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393 (host narrative framing only — no inscribed investigative claim), N-5*
+*Related: C-3393 (host narrative framing only - no inscribed investigative claim), N-56*
 
 **A-2341.2** "Famous" Crowd Performance Clip
 
@@ -69,7 +70,7 @@ Video Timestamp: 00:04:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-5*
+*Related: N-56*
 
 **A-2341.3** "Runaway" Closing Piano Moment
 
@@ -79,7 +80,7 @@ Video Timestamp: 00:05:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-5*
+*Related: N-56*
 
 ---
 
@@ -95,7 +96,7 @@ Video Timestamp: 00:11:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-5*
+*Related: N-56*
 
 ---
 
@@ -111,7 +112,7 @@ Video Timestamp: 00:24:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-5*
+*Related: N-56*
 
 ---
 
@@ -127,7 +128,7 @@ Video Timestamp: 00:28:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1028, N-5*
+*Related: N-3, N-56*
 
 ---
 
@@ -143,7 +144,7 @@ Video Timestamp: 00:42:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3404, C-3405, N-1, N-8*
+*Related: C-3404, C-3405, N-1*
 
 ---
 
@@ -159,7 +160,7 @@ Video Timestamp: 00:33:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3397, N-4, N-1028*
+*Related: C-3397, N-224, N-3*
 
 ---
 
@@ -175,7 +176,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393, C-3394, C-3395, C-3396, N-4, N-1028, N-10, N-9*
+*Related: C-3393, C-3394, C-3395, C-3396, N-224, N-3, N-1000*
 
 ---
 
@@ -191,7 +192,7 @@ Video Timestamp: 00:40:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-1028, N-8, N-10*
+*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-578, N-1000*
 
 ---
 
@@ -207,7 +208,7 @@ Video Timestamp: 00:08:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3403, N-1028, N-6, N-5*
+*Related: C-3403, N-3, N-56*
 
 ---
 
@@ -233,7 +234,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-12, N-42, N-15*
+*Related: N-16, N-42, N-550*
 
 **A-2350.3** Ali Comment on Andrew Kolb and Fireworks / Sparkling Pantsuit
 
@@ -243,7 +244,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2, N-13*
+*Related: N-2, N-42*
 
 **A-2350.4** M. Sanders Comment on Pre-Recording Shows for Maternity Leave
 
@@ -253,7 +254,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1028*
+*Related: N-3*
 
 **A-2350.5** Viewer Comment on Salem Media / "Waterstone" Documentary "Can You Hear Me Now?"
 
@@ -265,7 +266,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3405, N-18, N-19*
+*Related: C-3405*
 
 **A-2350.6** Lynn Marie Comment: "Charlie Kirk is finally free."
 
@@ -285,7 +286,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-4*
+*Related: N-224*
 
 **A-2350.8** Jessica Coach Comment: Checked Out of Hospital to Watch Show
 
@@ -295,7 +296,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1028*
+*Related: N-3*
 
 ---
 
@@ -323,7 +324,7 @@ Investigative Pressure: High
 
 *Related: A-2348.1, A-2350.1, A-2350.3, C-3398, C-3399, C-3400, C-3401, C-3402*
 
-**N-4** JD Vance
+**N-224** Blake Neff
 
 Author of X post (A-2346); subject of Deseret News profile (A-2347).
 
@@ -334,7 +335,7 @@ Investigative Pressure: High
 
 *Related: A-2346.1, A-2347.1, A-2350.7, C-3393, C-3394, C-3395, C-3396, C-3397*
 
-**N-5** Donald Trump
+**N-56** Kanye West
 
 Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).
 
@@ -345,18 +346,20 @@ Investigative Pressure: Low
 
 *Related: A-2341.1, A-2341.2, A-2341.3, A-2342.1, A-2343.1, A-2344.1, A-2349.1*
 
-**N-6** Elizabeth Lane *(reused from Episode 1)*
+**N-587** Kim Kardashian
 
-Counterparty in hotel-lobby video (A-2349).
+The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
-Investigative Pressure: Low
+Investigative Pressure: Medium
 
 *Related: A-2349.1, C-3403*
 
-**N-1028** Usha Vance
+---
+
+**N-578** Usha Vance
 
 Referenced in Erika Kirk op-ed (A-2348) as "second lady" and as source of "15 minutes" analogy.
 
@@ -367,128 +370,6 @@ Investigative Pressure: Medium
 
 *Related: A-2348.1, C-3399, C-3400*
 
-**N-8** Melody Hall
-
-Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: many
-Investigative Pressure: Medium
-
-*Related: A-2345.1, A-2348.1, C-3398, C-3404, C-3405*
-
-**N-9** Holly Chalmers
-
-Publisher of Blake Neff profile article (A-2347).
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2347.1*
-
-**N-10** Kenneth Brining
-
-Named by Neff (A-2347) as having reduced involvement with Owens around 2024; subject of op-ed publisher critique (A-2348).
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: many
-Investigative Pressure: High
-
-*Related: A-2347.1, A-2348.1, C-3396*
-
-**N-11** Danny Philip
-
-Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: High
-
-*Related: A-2347.1 (context)*
-
-**N-12** Charmaine
-
-Referenced as terming Israeli officials on the September 9 Zoom call.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: Medium
-
-*Related: A-2350.2*
-
-**N-13** Debbie
-
-Named by viewer comment (A-2350.3) in connection with fireworks and Erika's pantsuit.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: Medium
-
-*Related: A-2350.3*
-
-**N-14** Victor Marx's son
-
-Referenced by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: High
-
-*Related: A-2350.2 (context)*
-
-**N-15** Victor Marx's daughter
-
-Referenced as the office to which the Zoom-call conversation was delivered.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: Medium
-
-*Related: A-2350.2*
-
-**N-16** Frank Turek
-
-Family referenced via Usha Vance in Erika op-ed (A-2348).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: Low
-
-*Related: A-2348.1*
-
-**N-18** Amir Safari
-
-Referenced by viewer comment (A-2350.5) as involved in "Can You Hear Me Now?" documentary; prior-episode context referenced by host.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: many
-Investigative Pressure: Medium
-
-*Related: A-2350.5, C-3405*
-
-**N-19** Corey Kennedy
-
-Referenced by host as Salem Media executive tied to early post-death filings.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: many
-Investigative Pressure: Low
-
-*Related: A-2350.5 (context)*
-
-
 ## V. Claim Register
 
 **C-3393** Blake Neff Reported Discussing Candace Owens's Anticipated Reaction in Hospital Waiting Room on September 10
@@ -498,9 +379,8 @@ Claim Timestamp: 00:36:34
 Claim: According to a Deseret News profile piece, Blake Neff stated he was with members sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and was discussing how podcaster Candace Owens would react to Charlie's death.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-1, N-4, N-9
+Mentions: N-1, N-224, N-3
 
-Related Nodes: N-1028
 
 Investigative Direction: Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other "members" present.
 
@@ -513,9 +393,8 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated Charlie Kirk was aware of Candace Owens's theories about France's first lady being transgender.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-4, N-9
+Mentions: N-224, N-3
 
-Related Nodes: N-1028
 
 Investigative Direction: Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.
 
@@ -528,9 +407,8 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff described some of Candace Owens's views as "weird stuff about Jewish cults."
 
 Anchored Artifacts: A-2347.1
-Mentions: N-4, N-9
+Mentions: N-224, N-3
 
-Related Nodes: N-1028
 
 Investigative Direction: Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.
 
@@ -543,9 +421,9 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated that some of Candace Owens's views were part of the reason Turning Point USA had become less involved with Owens around 2024.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-4, N-9, N-10
+Mentions: N-224, N-3
 
-Related Nodes: N-1028
+Related Nodes: N-1000
 
 Investigative Direction: Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.
 
@@ -558,9 +436,8 @@ Claim Timestamp: 00:33:48
 Claim: Blake Neff, in an X post read aloud on the episode, called Candace Owens "seven vacations a year Owens" and stated she cannot imagine someone liking work.
 
 Anchored Artifacts: A-2346.1
-Mentions: N-4
+Mentions: N-224, N-3
 
-Related Nodes: N-1028
 
 Investigative Direction: Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.
 
@@ -573,7 +450,7 @@ Claim Timestamp: 00:40:40
 Claim: Erika Kirk published a one-year look back on her grief in an op-ed for The New York Times, with portions read aloud by the host.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-8
+Mentions: N-2
 
 
 Investigative Direction: Locate the op-ed in NYT archives; verify publication date, paywall status, and full text directly.
@@ -587,9 +464,8 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-16
+Mentions: N-2, N-4, N-578
 
-Related Nodes: N-1028
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.
 
@@ -602,9 +478,8 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief — that the worst stretch is like a plane descending with screaming children before landing.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-16
+Mentions: N-2, N-4, N-578
 
-Related Nodes: N-1028
 
 Investigative Direction: Confirm the quoted analogy in the op-ed directly.
 
@@ -633,7 +508,6 @@ Claim: In her NYT op-ed, the closing lines reference "a dear friend" telling the
 Anchored Artifacts: A-2348.1
 Mentions: N-2
 
-Related Nodes: N-1028
 
 Investigative Direction: Confirm the closing lines directly in the op-ed; identify whether the op-ed identifies the "dear friend" by name.
 
@@ -646,9 +520,8 @@ Claim Timestamp: 00:08:28
 Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.
 
 Anchored Artifacts: A-2349.1
-Mentions: N-5, N-6
+Mentions: N-56, N-3, N-587
 
-Related Nodes: N-1028
 
 Investigative Direction: Verify the footage timestamp and attendees independently; confirm the date and venue.
 
@@ -661,7 +534,7 @@ Claim Timestamp: 00:42:13
 Claim: In a clip played on the episode, Charlie Kirk publicly states he reads The New York Times "so you don't have to."
 
 Anchored Artifacts: A-2345.1
-Mentions: N-1, N-8
+Mentions: N-1
 
 
 Investigative Direction: Identify the original episode and date of the clip; verify the exact wording.
@@ -675,7 +548,7 @@ Claim Timestamp: 00:56:42
 Claim: According to a viewer comment read aloud on the episode, Salem Media and "Waterstone" are releasing a Charlie Kirk documentary with an alleged unreleased interview filmed shortly before September 10, titled "Can You Hear Me Now?"
 
 Anchored Artifacts: A-2350.5
-Mentions: N-1, N-18
+Mentions: N-1
 
 
 Investigative Direction: Verify the documentary's existence via official Salem Media and "Waterstone" press releases; confirm the title, release date, and the existence of any unreleased interview footage.

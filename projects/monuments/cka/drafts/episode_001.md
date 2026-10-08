@@ -14,8 +14,8 @@
 - **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
-  - Claim Range: C-1115-C-1124
+  - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
+  - Claim Range: C-1115-C-1124, C-3719
   - New Nodes Introduced: N-1, N-2, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
   - Reused Nodes Appearing: 
 
@@ -107,6 +107,16 @@ Confidence: high
 
 ---
 
+**A-2514** Trump Sons Suit Gift Anecdote Bundle
+
+**A-2514.1** Host anecdote that Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate (verbal reference; no displayed artifact)
+Video Timestamp: 00:08:00–00:08:34
+*Related: C-3719, N-1, N-62, N-63*
+Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -184,7 +194,7 @@ Mentioned as having pressed Charlie to buy better-fitting suits along with Eric 
 Node Type: Person
 Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-2514.1, C-3719*
 
 
 
@@ -331,7 +341,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Mentions: N-1, N-3, N-42, N-56, N-60, N-61, N-62, N-63, N-64
+Mentions: N-1, N-3, N-42, N-56, N-61, N-64
 Related Nodes: N-1069, N-1073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
@@ -372,7 +382,7 @@ Claim Timestamp: 00:14:20
 Claim: While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Anchored Artifacts: A-1080.2
-Mentions: N-1, N-3, N-42, N-60, N-61, N-64
+Mentions: N-1, N-3, N-42, N-61, N-64
 Related Nodes: N-1073
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
@@ -459,6 +469,18 @@ Uncertainty: No artifact shown backing this anecdote; relies entirely on host re
 Investigative Direction: Cross-reference any other contemporaneous accounts of this stated ambition; flag as self-reported through host.
 
 Tags: open_source_investigation
+---
+
+**C-3719** Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate
+
+Claim Timestamp: 00:08:10
+Claim: The host recounts that Don Jr. and Eric Trump teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.
+Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
+Anchored Artifacts: A-2514.1
+Mentions: N-1, N-62, N-63
+Confidence: medium
+Investigative Direction: Corroborate the gift anecdote with any public statement from Donald Trump Jr. or Eric Trump.
+
 ---
 
 ## 6. Meme Register

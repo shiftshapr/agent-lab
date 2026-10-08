@@ -95,7 +95,7 @@ Video Timestamp: 02:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3168, N-1210, N-3*
+*Related: C-3168, N-3*
 
 ---
 
@@ -479,7 +479,7 @@ Claim: An X account called Lisa Knows posted that Candace released footage the j
 Anchored Artifacts: A-2208.1
 Mentions: N-3
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Verify original tweet; cross-reference court orders on broadcasting exhibits.
 
@@ -582,7 +582,7 @@ Investigative Direction: Verify by contacting the viewer with consent; tangentia
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-2159) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Existing N-numbers uncertain**: N-1207 (Kolvet), N-1208 (Neff), N-1209 (Pool), N-1210 (Lisa Knows) likely have earlier IDs in the series ledger prior to N-1207; verification recommended.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-1207..N-1210 never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

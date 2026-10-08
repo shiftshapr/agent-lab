@@ -685,6 +685,31 @@
       "related_nodes": [
         "N-2"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-611",
+      "ref": "N-611",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Newly hired Turning Point USA employee at the UVU event; phone records show a 10-minute call with Mikey McCoy after the shooting, and he arrived at Timpanogos in the same SUV as Blake Neff.",
+      "related_artifacts": [
+        "A-2167.1",
+        "A-2166.2",
+        "A-2166.1"
+      ],
+      "related_claims": [
+        "C-3092",
+        "C-3094",
+        "C-3095",
+        "C-3096"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -854,7 +879,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
-      "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV."
+      "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",
@@ -889,7 +917,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:17",
-      "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs."
+      "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",
@@ -903,7 +934,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:36",
-      "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments."
+      "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",
@@ -920,7 +954,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
-      "investigative_direction": "Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content."
+      "investigative_direction": "Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",

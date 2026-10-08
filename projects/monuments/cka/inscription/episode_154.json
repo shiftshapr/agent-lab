@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-4",
+            "N-42",
             "N-1209",
             "N-2330"
           ],
@@ -64,7 +64,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-4",
+            "N-42",
             "N-2332"
           ],
           "tags": [],
@@ -91,7 +91,7 @@
             "C-3498"
           ],
           "related_nodes": [
-            "N-4",
+            "N-42",
             "N-2332"
           ],
           "tags": [],
@@ -230,7 +230,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-6",
+            "N-224",
             "N-1210"
           ],
           "tags": [],
@@ -249,7 +249,7 @@
             "C-3505"
           ],
           "related_nodes": [
-            "N-6",
+            "N-224",
             "N-1210"
           ],
           "tags": [],
@@ -277,8 +277,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-5",
-            "N-6",
+            "N-50",
+            "N-224",
             "N-2335"
           ],
           "tags": [],
@@ -429,7 +429,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-4",
+            "N-42",
             "N-2331"
           ],
           "tags": [],
@@ -448,7 +448,7 @@
             "C-3502"
           ],
           "related_nodes": [
-            "N-4",
+            "N-42",
             "N-2331"
           ],
           "tags": [],
@@ -467,7 +467,7 @@
             "C-3503"
           ],
           "related_nodes": [
-            "N-4",
+            "N-42",
             "N-2333"
           ],
           "tags": [],
@@ -484,7 +484,7 @@
           "description": "Andrew Kolvet X reply: \"Did you actually never attend a school assembly in high school? These are distinct from our regular chapter meetings.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-4",
+            "N-42",
             "N-2331"
           ],
           "tags": [],
@@ -569,9 +569,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-4",
-      "ref": "N-4",
-      "name": "JD Vance",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
       "related_artifacts": [
@@ -600,9 +600,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-5",
-      "ref": "N-5",
-      "name": "Donald Trump",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
       "type": "person",
       "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
       "related_artifacts": [
@@ -619,9 +619,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-6",
-      "ref": "N-6",
-      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
       "related_artifacts": [
@@ -700,7 +700,7 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -727,7 +727,7 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -751,7 +751,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -772,7 +772,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-4",
+        "N-42",
         "N-1207",
         "N-1208",
         "N-1211",
@@ -801,8 +801,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-5",
-        "N-6"
+        "N-50",
+        "N-224"
       ]
     },
     {
@@ -884,8 +884,7 @@
       "claim_timestamp": "00:02:15",
       "investigative_direction": "Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.",
       "mentions_person_refs": [
-        "N-2",
-        "N-4"
+        "N-2"
       ],
       "contradicts_claim_refs": [
         "C-3493"
@@ -927,8 +926,7 @@
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.",
       "mentions_person_refs": [
-        "N-2",
-        "N-4"
+        "N-2"
       ]
     },
     {
@@ -949,7 +947,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -970,7 +968,7 @@
       "investigative_direction": "Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum.",
       "mentions_person_refs": [
         "N-3",
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -1048,7 +1046,7 @@
       "claim_timestamp": "00:24:37",
       "investigative_direction": "Verify whether the cited \"opt-out\" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies.",
       "mentions_person_refs": [
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -1067,7 +1065,7 @@
       "claim_timestamp": "00:25:33",
       "investigative_direction": "Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops.",
       "mentions_person_refs": [
-        "N-4"
+        "N-42"
       ]
     },
     {
@@ -1087,7 +1085,7 @@
       "investigative_direction": "Obtain full Politico article and publication date.",
       "mentions_person_refs": [
         "N-1",
-        "N-6"
+        "N-224"
       ]
     },
     {
@@ -1106,7 +1104,7 @@
       "claim_timestamp": "00:47:48",
       "investigative_direction": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff.",
       "mentions_person_refs": [
-        "N-6"
+        "N-224"
       ]
     },
     {
@@ -1126,8 +1124,8 @@
       "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.",
       "mentions_person_refs": [
         "N-1",
-        "N-5",
-        "N-6"
+        "N-50",
+        "N-224"
       ]
     },
     {
@@ -1146,7 +1144,7 @@
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Confirm full quote and attribution context in Politico article.",
       "mentions_person_refs": [
-        "N-6"
+        "N-224"
       ]
     },
     {
@@ -1161,7 +1159,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:28",
-      "investigative_direction": "Verify corporate filings and Pulse Films tenure via public records."
+      "investigative_direction": "Verify corporate filings and Pulse Films tenure via public records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1182,7 +1181,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:28",
-      "investigative_direction": "Verify each production's distribution platform, release date, and reception."
+      "investigative_direction": "Verify each production's distribution platform, release date, and reception.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1199,7 +1199,7 @@
       "investigative_direction": "Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.",
       "mentions_person_refs": [
         "N-2",
-        "N-4"
+        "N-42"
       ]
     },
     {

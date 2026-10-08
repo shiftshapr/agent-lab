@@ -15,9 +15,9 @@
 - **Transcript SHA-256**: 7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161
-  - Claim Range: C-1267-C-1285
-  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-158, N-159, N-160, N-161, N-162, N-163, N-164, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
+  - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
+  - Claim Range: C-1267-C-1285, C-3728-C-3730
+  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-161, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
   - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079
 
 ## 2. Executive Summary
@@ -120,6 +120,28 @@ Confidence: low
 
 ---
 
+**A-2519** Host Verbal References and Viewer Tip Bundle
+
+**A-2519.1** Host reference to Corey Comperatore's death at the Butler rally (verbal reference; no displayed artifact)
+Video Timestamp: 00:20:33–00:20:55
+*Related: C-3728, N-5, N-149*
+Transcript Snippet: A 50-year-old firefighter named Corey Comparator lost his life um trying to save his children.
+Confidence: medium
+
+**A-2519.2** Host reference to C.S. Lewis on scientism (verbal reference; no displayed artifact)
+Video Timestamp: 00:37:04–00:37:13
+*Related: C-3729, N-156*
+Transcript Snippet: Like we are now in this culture of what CS Lewis refers to as scientism.
+Confidence: medium
+
+**A-2519.3** Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:44:43–00:44:59
+*Related: C-3730, N-1, N-161*
+Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -183,7 +205,7 @@ Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 Node Type: Person
 Firefighter killed shielding family at July 13, 2024 Trump rally.
 
-*Related: A-1155.1, C-1267*
+*Related: A-2519.1, C-3728*
 
 
 
@@ -257,7 +279,7 @@ Cited by Kimmel.
 Node Type: Person
 Author of 'Inside the American Education System' recommended by host.
 
-*Related: A-1155.1, C-1267*
+*Related: C-1277*
 
 
 
@@ -268,7 +290,7 @@ Author of 'Inside the American Education System' recommended by host.
 Node Type: Person
 Credited by host with establishing kindergarten in US (1848 communists).
 
-*Related: A-1155.1, C-1267*
+*Related: C-1277*
 
 
 
@@ -290,7 +312,7 @@ Referenced in book-club discussion of psychoanalytic community origins.
 Node Type: Person
 Referenced for concept of 'scientism'.
 
-*Related: A-1155.1, C-1267*
+*Related: A-2519.2, C-3729*
 
 
 
@@ -325,17 +347,6 @@ Producer who corrects promo code on-air (Blackout15).
 
 ---
 
-**N-158** Warwick Spiller
-
-Node Type: Person
-Commenter correcting Church name; explains beehive = work-for-Christ.
-
-*Related: A-1155.1, C-1267*
-
-
-
----
-
 **N-159** Natalie
 
 Node Type: Person
@@ -345,56 +356,12 @@ Listener who tipped unverified video of Tyler Robinson with a woman.
 
 ---
 
-**N-160** Reagan (commenter)
-
-Node Type: Person
-Former teacher; requests education-system reading recommendations.
-
-*Related: A-1155.1, C-1267*
-
-
-
----
-
 **N-161** Recovery Recon (commenter)
 
 Node Type: Person
 Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.
 
-*Related: A-1155.1, C-1267*
-
-
-
----
-
-**N-162** Aravik (commenter)
-
-Node Type: Person
-Commenter praising host's investigation.
-
-*Related: A-1155.1, C-1267*
-
-
-
----
-
-**N-163** Lighthouse (commenter)
-
-Node Type: Person
-Commenter defending Erika Kirk's grief response.
-
-*Related: A-1155.1, C-1267*
-
-
-
----
-
-**N-164** Brooke Rice (commenter)
-
-Node Type: Person
-Commenter noting grandparents' 3-day engagement, 67-yr marriage.
-
-*Related: A-1155.1, C-1267*
+*Related: A-2519.3, C-3730*
 
 
 
@@ -636,7 +603,7 @@ Claim Timestamp: 00:12:01
 Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
-Mentions: N-1, N-3, N-5, N-59, N-80, N-99, N-149, N-154, N-155, N-156, N-158, N-160, N-161, N-162, N-163, N-164
+Mentions: N-1, N-3, N-59, N-99
 Confidence: high
 Investigative Direction: Verify text chain authenticity and timestamp; cross-check flight records.
 
@@ -778,7 +745,7 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Mentions: N-3
+Mentions: N-3, N-154, N-155
 Related Nodes: N-1179, N-1181, N-1193, N-1194
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
@@ -876,6 +843,42 @@ Investigative Direction: Identify and interview the eyewitness; obtain his foota
 
 ---
 
+**C-3728** Corey Comperatore killed at the Butler rally
+
+Claim Timestamp: 00:20:44
+Claim: Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: "Corey Comparator") lost his life trying to save his children and that the public was told virtually nothing afterward.
+Transcript Snippet: A 50-year-old firefighter named Corey Comparator lost his life um trying to save his children.
+Anchored Artifacts: A-2519.1
+Mentions: N-5, N-149
+Confidence: medium
+Investigative Direction: Compare official Butler investigation disclosures with the host's characterization.
+
+---
+
+**C-3729** Host invokes C.S. Lewis on scientism
+
+Claim Timestamp: 00:37:04
+Claim: The host says the culture is in what C.S. Lewis called scientism, where anything labeled science is not questioned, and argues spiritual forces are at work.
+Transcript Snippet: Like we are now in this culture of what CS Lewis refers to as scientism.
+Anchored Artifacts: A-2519.2
+Mentions: N-156
+Confidence: medium
+Investigative Direction: None; rhetorical framing.
+
+---
+
+**C-3730** Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case
+
+Claim Timestamp: 00:44:43
+Claim: Viewer Recovery Recon, in a comment read on air, contrasts the FBI quickly posting ammunition and window photos after the Dallas ICE facility shooting with nothing comparable released for Charlie.
+Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
+Anchored Artifacts: A-2519.3
+Mentions: N-1, N-161
+Confidence: medium
+Investigative Direction: Compare FBI evidence releases in the Dallas ICE facility shooting and the Kirk case.
+
+---
+
 ## 6. Meme Register
 
 **M-5** (meme) happy coincidence
@@ -908,10 +911,10 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:53:15–00:53:40
-Speaker: N-158
-Quote: The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.
-Context: Listener correction as host oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.
+Video Timestamp: 00:41:58–00:42:08
+Speaker: N-3
+Quote: At different times, it says Mormon. Other times, it says Church of Jesus Christ of Latter-day Saints
+Context: Answering a viewer correction (viewer handle not noded), the host concedes she oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.
 Tags: denominational_naming
 Confidence: high
 
@@ -965,4 +968,4 @@ TopicMention: C-1275 N-1185
 
 MemeLink: M-5 invoked_by_claim C-1268
 MemeLink: M-6 invoked_by_speaker N-3
-MemeLink: M-7 invoked_by_speaker N-158
+MemeLink: M-7 invoked_by_speaker N-3

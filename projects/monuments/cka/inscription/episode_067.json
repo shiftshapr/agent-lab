@@ -234,7 +234,7 @@
             "C-2269"
           ],
           "related_nodes": [
-            "N-1009",
+            "N-1",
             "N-42",
             "N-1544"
           ],
@@ -263,7 +263,7 @@
             "C-2271"
           ],
           "related_nodes": [
-            "N-1009",
+            "N-1",
             "N-16",
             "N-1544"
           ],
@@ -319,7 +319,7 @@
             "C-2281"
           ],
           "related_nodes": [
-            "N-1009",
+            "N-1",
             "N-1544"
           ],
           "tags": [],
@@ -453,7 +453,7 @@
             "C-2274"
           ],
           "related_nodes": [
-            "N-1010",
+            "N-2",
             "N-434",
             "N-1541"
           ],
@@ -472,7 +472,7 @@
             "C-2275"
           ],
           "related_nodes": [
-            "N-1009",
+            "N-1",
             "N-16",
             "N-1547"
           ],
@@ -818,7 +818,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1009",
+        "N-1",
         "N-1544",
         "N-1547"
       ]
@@ -843,7 +843,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-434",
-        "N-1009",
+        "N-1",
         "N-1544"
       ]
     },
@@ -867,7 +867,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1010",
+        "N-2",
         "N-42",
         "N-1541",
         "N-1544"
@@ -890,7 +890,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1009",
+        "N-1",
         "N-1544"
       ]
     },
@@ -1162,11 +1162,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1009",
-      "ref": "N-1009",
-      "name": "Charlie Kirk — referenced throughout timeline reconstruction.",
-      "type": "investigation_target",
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
       "description": "",
       "related_artifacts": [],
       "related_claims": [],
@@ -1177,11 +1177,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1010",
-      "ref": "N-1010",
-      "name": "Erica Kirk — referenced in alibi and Dan Flood message disputes.",
-      "type": "investigation_target",
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
       "description": "",
       "related_artifacts": [],
       "related_claims": [],
@@ -1226,7 +1226,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1010",
+        "N-2",
         "N-434"
       ]
     },
@@ -1249,7 +1249,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1010",
+        "N-2",
         "N-1543"
       ]
     },
@@ -1268,7 +1268,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1010",
+        "N-2",
         "N-1542"
       ]
     },
@@ -1300,7 +1300,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1009",
+        "N-1",
         "N-42",
         "N-16",
         "N-434",
@@ -1376,7 +1376,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1009",
+        "N-1",
         "N-16"
       ]
     }
@@ -1590,8 +1590,7 @@
       "claim_timestamp": "00:20:38",
       "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.",
       "mentions_person_refs": [
-        "N-841",
-        "N-867"
+        "N-841"
       ]
     },
     {
@@ -1659,14 +1658,14 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-1009",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:39:29",
       "investigative_direction": "Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.",
       "mentions_person_refs": [
-        "N-42"
+        "N-86",
+        "N-1"
       ]
     },
     {
@@ -1679,15 +1678,15 @@
         "A-1721.1"
       ],
       "related_nodes": [
-        "N-1009",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:39:29",
       "investigative_direction": "Identify the other Zoom participants; cross-check against calendar records; obtain the \"rabbi in Israel\" identity.",
       "mentions_person_refs": [
-        "N-42",
-        "N-134"
+        "N-86",
+        "N-134",
+        "N-1"
       ]
     },
     {
@@ -1700,7 +1699,6 @@
         "A-1722.1"
       ],
       "related_nodes": [
-        "N-1009",
         "N-1544",
         "N-1547"
       ],
@@ -1708,7 +1706,8 @@
       "claim_timestamp": "00:47:03",
       "investigative_direction": "Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts.",
       "mentions_person_refs": [
-        "N-16"
+        "N-16",
+        "N-1"
       ]
     },
     {
@@ -1721,15 +1720,15 @@
         "A-1722.1"
       ],
       "related_nodes": [
-        "N-1009",
-        "N-1010",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
       "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.",
       "mentions_person_refs": [
-        "N-16"
+        "N-16",
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -1761,7 +1760,6 @@
         "A-1726.1"
       ],
       "related_nodes": [
-        "N-1010",
         "N-1541"
       ],
       "tags": [],
@@ -1769,7 +1767,8 @@
       "investigative_direction": "Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).",
       "mentions_person_refs": [
         "N-42",
-        "N-434"
+        "N-434",
+        "N-2"
       ]
     },
     {
@@ -1782,7 +1781,6 @@
         "A-1726.1"
       ],
       "related_nodes": [
-        "N-1009",
         "N-1544"
       ],
       "tags": [],
@@ -1790,7 +1788,8 @@
       "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.",
       "mentions_person_refs": [
         "N-42",
-        "N-434"
+        "N-434",
+        "N-1"
       ]
     },
     {
@@ -1803,14 +1802,14 @@
         "A-1726.2"
       ],
       "related_nodes": [
-        "N-1009",
         "N-1547"
       ],
       "tags": [],
       "claim_timestamp": "00:48:34",
       "investigative_direction": "Identify the neighbor; obtain written statement; review building security camera footage if available.",
       "mentions_person_refs": [
-        "N-16"
+        "N-16",
+        "N-1"
       ]
     },
     {
@@ -1907,12 +1906,14 @@
       "claim": "Per host reference, a Jezebel article regarding a witch's curse / Etsy spell against Charlie Kirk is cited as the context for Charlie's reported priest dinner the evening of September 9.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1009",
         "N-1544"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
-      "investigative_direction": "Locate the Jezebel article; verify date and content."
+      "investigative_direction": "Locate the Jezebel article; verify date and content.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

@@ -216,7 +216,7 @@
           ],
           "related_nodes": [
             "N-133",
-            "N-993",
+            "N-138",
             "N-3"
           ],
           "tags": [],
@@ -857,8 +857,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-993",
-      "ref": "N-993",
+      "@id": "N-138",
+      "ref": "N-138",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.",
@@ -1396,7 +1396,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-133",
-        "N-993"
+        "N-138"
       ]
     },
     {
@@ -1455,7 +1455,6 @@
       "claim_timestamp": "00:41:23–00:43:44",
       "investigative_direction": "Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.",
       "mentions_person_refs": [
-        "N-5",
         "N-50"
       ]
     },

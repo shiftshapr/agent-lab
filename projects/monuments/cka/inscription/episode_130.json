@@ -111,7 +111,7 @@
             "C-3113"
           ],
           "related_nodes": [
-            "N-8"
+            "N-42"
           ],
           "tags": [],
           "video_timestamp": "00:36:31",
@@ -135,7 +135,7 @@
             "C-3111"
           ],
           "related_nodes": [
-            "N-8",
+            "N-42",
             "N-1222"
           ],
           "tags": [],
@@ -160,7 +160,7 @@
             "C-3114"
           ],
           "related_nodes": [
-            "N-11",
+            "N-224",
             "N-2145"
           ],
           "tags": [],
@@ -563,8 +563,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1207",
-        "N-9"
+        "N-1207"
       ]
     },
     {
@@ -712,7 +711,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-8",
+        "N-42",
         "N-1221",
         "N-1222"
       ]
@@ -736,7 +735,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11"
+        "N-224"
       ]
     },
     {
@@ -756,7 +755,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-9",
         "N-1208"
       ]
     },
@@ -810,9 +808,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-8",
-      "ref": "N-8",
-      "name": "Melody Hall",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
       "related_artifacts": [],
@@ -826,25 +824,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-9",
-      "ref": "N-9",
-      "name": "Holly Chalmers",
-      "type": "person",
-      "description": "Publisher of Blake Neff profile article (A-2347).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-11",
-      "ref": "N-11",
-      "name": "Danny Philip",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.",
       "related_artifacts": [],
@@ -885,7 +867,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:35",
-      "investigative_direction": "Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date."
+      "investigative_direction": "Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -901,7 +884,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:31",
-      "investigative_direction": "Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement."
+      "investigative_direction": "Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -917,7 +901,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
-      "investigative_direction": "Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants."
+      "investigative_direction": "Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -935,7 +920,7 @@
       "claim_timestamp": "00:36:31",
       "investigative_direction": "Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.",
       "mentions_person_refs": [
-        "N-8"
+        "N-42"
       ]
     },
     {
@@ -954,7 +939,7 @@
       "claim_timestamp": "00:36:31",
       "investigative_direction": "Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.",
       "mentions_person_refs": [
-        "N-8"
+        "N-42"
       ]
     },
     {
@@ -973,7 +958,7 @@
       "claim_timestamp": "00:36:31",
       "investigative_direction": "Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.",
       "mentions_person_refs": [
-        "N-8"
+        "N-42"
       ]
     },
     {
@@ -991,7 +976,7 @@
       "investigative_direction": "Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage).",
       "mentions_person_refs": [
         "N-2",
-        "N-8"
+        "N-42"
       ]
     },
     {
@@ -1010,7 +995,7 @@
       "claim_timestamp": "00:45:08",
       "investigative_direction": "Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.",
       "mentions_person_refs": [
-        "N-11"
+        "N-224"
       ]
     },
     {
@@ -1027,7 +1012,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:58",
-      "investigative_direction": "Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image."
+      "investigative_direction": "Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

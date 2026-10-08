@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2219, N-2220, N-2221, N-2222, N-2223, N-2224, N-2225
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230, N-611
   - (see registers)
 
 ---
@@ -519,6 +519,19 @@ Investigative Pressure: Low
 
 *Related: A-2329.4, C-3369, N-1214, N-1215*
 
+**N-611** Danny Philip
+
+Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-2329.2, C-3365*
+
+---
+
 ### Investigation Targets
 
 **N-2219** 9/10 Vehicle Positioning Discrepancy
@@ -708,6 +721,7 @@ Claim Timestamp: 00:21:00
 Claim: Footage shows Mikey McCoy and Danny Phillip running, meeting, and "ducking down" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.
 
 Anchored Artifacts: A-2329.2
+Mentions: N-611
 
 Related Nodes: N-1211, N-1212, N-1213, N-1219, N-2219
 

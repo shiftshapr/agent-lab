@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-3, N-830, N-833, N-835, N-839, N-840, N-841, N-843, N-850, N-851, N-853, N-854, N-855, N-856, N-857, N-858, N-867, N-1541, N-1542, N-1543, N-1544, N-1545, N-1546, N-1547
-  - Reused Nodes Appearing: N-1009, N-1010
+  - Reused Nodes Appearing: N-1, N-2
   - (see registers)
 
 ## I. Meta-Data
@@ -33,7 +33,7 @@
   - Claim Range: C-2253–C-2282
   - New People Nodes Introduced: N-80 through N-77
   - New Investigation Target Nodes Introduced: N-1541 through N-1547
-  - Existing Nodes Reused: N-1009, N-1010, N-3
+  - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Hammer on camera; direct claim)
 
-*Related: C-2268, C-2269, N-1009, N-42, N-1544*
+*Related: C-2268, C-2269, N-1, N-42, N-1544*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:47:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Turek on camera; named show)
 
-*Related: C-2270, C-2271, N-1009, N-16, N-1544*
+*Related: C-2270, C-2271, N-1, N-16, N-1544*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced; not shown)
 
-*Related: C-2281, N-1009, N-1544*
+*Related: C-2281, N-1, N-1544*
 
 ---
 
@@ -263,7 +263,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:45
 Confidence Level: Medium (source unnamed; testimony attributed)
 
-*Related: C-2273, C-2274, N-1010, N-434, N-1541*
+*Related: C-2273, C-2274, N-2, N-434, N-1541*
 
 **A-1726.2** Host-testimony claim that a neighbor resident confirmed seeing Charlie Kirk on a walk with a tall unrecognized person (not Frank Turek), and confirmed seeing Charlie in an elevator on September 9
 
@@ -272,7 +272,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:34
 Confidence Level: Medium (source unnamed)
 
-*Related: C-2275, N-1009, N-16, N-1547*
+*Related: C-2275, N-1, N-16, N-1547*
 
 ---
 
@@ -455,7 +455,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High (directly affects Charlie Kirk timeline)
 
-*Related: A-1722.1, C-2270, C-2271, N-1009, N-1544, N-1547*
+*Related: A-1722.1, C-2270, C-2271, N-1, N-1544, N-1547*
 
 **N-42** Andrew Kolvet
 
@@ -466,7 +466,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-2274, N-434, N-1009, N-1544*
+*Related: A-1726.1, C-2274, N-434, N-1, N-1544*
 
 **N-434** Dan Flood
 
@@ -477,7 +477,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-2273, C-2274, N-1010, N-42, N-1541, N-1544*
+*Related: A-1726.1, C-2273, C-2274, N-2, N-42, N-1541, N-1544*
 
 **N-134** Bob Shulman
 
@@ -488,7 +488,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2269, N-1009, N-1544*
+*Related: C-2269, N-1, N-1544*
 
 **N-850** Reid Hoffman
 
@@ -635,8 +635,14 @@ Investigative Pressure: Low
 
 ### Existing Nodes Reused
 
-**N-1009** Charlie Kirk — referenced throughout timeline reconstruction.
-**N-1010** Erica Kirk — referenced in alibi and Dan Flood message disputes.
+**N-1** Charlie Kirk
+
+Referenced throughout timeline reconstruction.
+
+**N-2** Erika Kirk
+
+Referenced in alibi and Dan Flood message disputes.
+
 **N-3** Candace Owens
 
 ### Investigation Target Nodes (new)
@@ -650,7 +656,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-2273, C-2274, N-1010, N-434*
+*Related: A-1726.1, C-2273, C-2274, N-2, N-434*
 
 **N-1542** Erica Kirk Sept 10 Alibi Verification
 
@@ -661,7 +667,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.2, C-2275, N-1010, N-1543*
+*Related: A-1726.2, C-2275, N-2, N-1543*
 
 **N-1543** Fort Huachuca Alibi Investigation
 
@@ -672,7 +678,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1010, N-1542*
+*Related: N-2, N-1542*
 
 **N-1544** Charlie Kirk Sept 8–10 Timeline Reconstruction
 
@@ -683,7 +689,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1721.1, A-1722.1, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1009, N-42, N-16, N-434, N-134*
+*Related: A-1721.1, A-1722.1, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1, N-42, N-16, N-434, N-134*
 
 **N-1545** Peter Thiel–Epstein Relationship Documentation
 
@@ -716,7 +722,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1722.1, A-1726.2, C-2270, C-2275, N-1009, N-16*
+*Related: A-1722.1, A-1726.2, C-2270, C-2275, N-1, N-16*
 
 ---
 
@@ -883,7 +889,7 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
 
 Anchored Artifacts: A-1718.1
-Mentions: N-841, N-867
+Mentions: N-841
 
 
 Investigative Direction: Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.
@@ -939,9 +945,9 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 — not September 8 as Candace Owens had stated.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-42
+Mentions: N-86, N-1
 
-Related Nodes: N-1009, N-1544
+Related Nodes: N-1544
 
 Investigative Direction: Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.
 
@@ -954,9 +960,9 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-42, N-134
+Mentions: N-86, N-134, N-1
 
-Related Nodes: N-1009, N-1544
+Related Nodes: N-1544
 
 Investigative Direction: Identify the other Zoom participants; cross-check against calendar records; obtain the "rabbi in Israel" identity.
 
@@ -969,9 +975,9 @@ Claim Timestamp: 00:47:03
 Claim: Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.
 
 Anchored Artifacts: A-1722.1
-Mentions: N-16
+Mentions: N-16, N-1
 
-Related Nodes: N-1009, N-1544, N-1547
+Related Nodes: N-1544, N-1547
 
 Investigative Direction: Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts.
 
@@ -984,9 +990,9 @@ Claim Timestamp: 00:47:50
 Claim: Per Frank Turek, Charlie Kirk texted that he would be "shortly" out because "GG just got up," and Charlie had to attend to the child before the walk.
 
 Anchored Artifacts: A-1722.1
-Mentions: N-16
+Mentions: N-16, N-1, N-2
 
-Related Nodes: N-1009, N-1010, N-1544
+Related Nodes: N-1544
 
 Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.
 
@@ -1013,9 +1019,9 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-42, N-434
+Mentions: N-42, N-434, N-2
 
-Related Nodes: N-1010, N-1541
+Related Nodes: N-1541
 
 Investigative Direction: Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).
 
@@ -1028,9 +1034,9 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source, the Sept 9 "they're going to kill me" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-42, N-434
+Mentions: N-42, N-434, N-1
 
-Related Nodes: N-1009, N-1544
+Related Nodes: N-1544
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.
 
@@ -1043,9 +1049,9 @@ Claim Timestamp: 00:48:34
 Claim: Per Candace Owens's source (a resident of the Kirks' building), a neighbor encountered Charlie Kirk on a walk on September 8 with a tall person who was not Frank Turek; they spoke briefly about her dog and his upcoming tour.
 
 Anchored Artifacts: A-1726.2
-Mentions: N-16
+Mentions: N-16, N-1
 
-Related Nodes: N-1009, N-1547
+Related Nodes: N-1547
 
 Investigative Direction: Identify the neighbor; obtain written statement; review building security camera footage if available.
 
@@ -1128,8 +1134,9 @@ Claim Timestamp: 00:42:15
 Claim: Per host reference, a Jezebel article regarding a witch's curse / Etsy spell against Charlie Kirk is cited as the context for Charlie's reported priest dinner the evening of September 9.
 
 Anchored Artifacts: A-1724.1 (verbally referenced; not displayed)
+Mentions: N-1
 
-Related Nodes: N-1009, N-1544
+Related Nodes: N-1544
 
 Investigative Direction: Locate the Jezebel article; verify date and content.
 

@@ -130,7 +130,7 @@ Video Timestamp: 00:40:25–00:41:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2595, C-2596, C-2597, N-1, N-2, N-1211, N-1639*
+*Related: C-2595, C-2596, C-2597, N-1, N-2, N-70, N-1639*
 
 ---
 
@@ -562,7 +562,8 @@ Claim Timestamp: 00:40:25
 Claim: Governor Cox stated that on the evening of September 11th, a family member of Tyler Robinson reached out to a family friend.
 
 Anchored Artifacts: A-1907.1
-Related Nodes: N-1211, N-1639
+Mentions: N-70
+Related Nodes: N-1639
 Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
@@ -574,7 +575,8 @@ Claim Timestamp: 00:40:25
 Claim: Governor Cox stated the family friend contacted the Washington County Sheriff's Office with information about Robinson.
 
 Anchored Artifacts: A-1907.1
-Related Nodes: N-1211, N-1639
+Mentions: N-70
+Related Nodes: N-1639
 Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
@@ -586,7 +588,8 @@ Claim Timestamp: 00:40:25
 Claim: Governor Cox stated that Robinson had "confessed to them or implied that he had committed the incident."
 
 Anchored Artifacts: A-1907.1
-Related Nodes: N-1211, N-1639
+Mentions: N-70
+Related Nodes: N-1639
 Investigative Direction: Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim.
 
 ---
@@ -739,7 +742,7 @@ These two artifact-anchored accounts cannot comfortably coexist. Cox's framing p
 - **Possible transcription error:** Transcript uses both "Frank Churik" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek (N-1207).
 - **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erica Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
 - **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox (N-1211).
-- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. New N-1209 (Brooksby) and N-1211 (Cox) are created here for analytical clarity but may need to be merged with earlier entries. This record flags the need for cross-episode reconciliation.
+- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-437 and Spencer Cox is N-70; the draft placeholders N-1209 and N-1211 never denoted these people and were retargeted.
 - **Artifact verbally referenced but not shown:** The host references several items without showing or reading them in this episode, including: Joe Kent's statements about Kash Patel blocking international investigation; Kash Patel's press conference using "33"; the "witch article" from the Philippines; the DeMolay club historical background; the "tunnels at Disney" stories; the "spell" website. None are inscribed as claims because they are not artifact-presented in this episode.
 - **Host assertion lacking artifact:** The host asserts that Erika Kirk's lawyer admitted they had no more evidence than the public has seen. This claim is not anchored to any artifact in this episode and is therefore not inscribed as a Claim. Flagging as Host Assertion Without Artifact.
 - **Host assertion lacking artifact:** The host asserts that "the feds planted the gun" and that the bomb dogs could not locate it. This claim is sourced only to anonymous "people with first-hand intimate knowledge"; no artifact supports it in this episode. Flagging as Host Assertion Without Artifact.

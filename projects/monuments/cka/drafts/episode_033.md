@@ -35,9 +35,9 @@
 ### Episode 33 Ledger Summary
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
-- **Claim Range:** C-1716 – C-1734
+- **Claim Range:** C-1716 – C-1734, C-3735
 - **New Nodes Introduced:** N-406, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-349 (Tucker Carlson, assumed prior), N-70 (Governor Cox)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk; preserved as Erika per transcript), N-3 (Candace Owens), N-50 (Tucker Carlson), N-70 (Governor Cox)
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:13:12–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbal reference; no displayed artifact)
 
-*Related: N-1, N-414, N-1324 (context only — not inscribed as claim due to absence of displayed artifact)*
+*Related: C-3735, N-1, N-414, N-1324*
 
 ---
 
@@ -367,7 +367,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1424.2, N-1*
+*Related: A-1424.2, C-3735, N-1*
 
 ---
 
@@ -577,7 +577,7 @@ Claim Timestamp: 00:23:51–00:25:54
 Claim: Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a "credible threat" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
-Mentions: N-1, N-2, N-349, N-414
+Mentions: N-1, N-2, N-50, N-42
 Related Nodes: N-1329
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
@@ -635,7 +635,7 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-2, N-70
+Mentions: N-2
 
 Related Nodes: N-1325
 
@@ -665,7 +665,7 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: "Wolves and Finance" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
-Mentions: N-1, N-2, N-70, N-412
+Mentions: N-1, N-2
 
 Related Nodes: N-1325
 
@@ -771,6 +771,23 @@ Investigative Direction: Preserve as brand / network framing claim (M-12 alias "
 
 ---
 
+
+**C-3735** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
+
+Claim Timestamp: 00:13:12–00:14:51
+
+Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10 because of a morning "restaurantology" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.
+
+Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smith, out of nowhere does this restauranttology interview with Charlie.
+
+Anchored Artifacts: A-1424.2
+Mentions: N-1, N-414
+Related Nodes: N-1324
+Confidence: low
+
+Investigative Direction: Locate the Andrew K. Smith interview recording and its scheduling; confirm Charlie Kirk's September 10 flight arrival airport.
+
+---
 
 ## 6. Meme Register
 

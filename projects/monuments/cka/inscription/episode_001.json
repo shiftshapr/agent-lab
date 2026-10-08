@@ -237,6 +237,32 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2514",
+      "family_ref": "A-2514",
+      "bundle_name": "Trump Sons Suit Gift Anecdote Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2514.1",
+          "ref": "A-2514.1",
+          "description": "Host anecdote that Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3719"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-62",
+            "N-63"
+          ],
+          "tags": [],
+          "video_timestamp": "00:08:00–00:08:34",
+          "transcript_snippet": "Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -414,18 +440,17 @@
       "type": "person",
       "description": "Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.",
       "related_artifacts": [
-        "A-1077.1",
-        "A-1078.1",
-        "A-1080.1"
+        "A-2514.1"
       ],
       "related_claims": [
-        "C-1115"
+        "C-3719"
       ],
       "tags": [],
-      "evidence_count": 3,
+      "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -718,10 +743,7 @@
         "N-3",
         "N-42",
         "N-56",
-        "N-60",
         "N-61",
-        "N-62",
-        "N-63",
         "N-64"
       ]
     },
@@ -789,7 +811,6 @@
         "N-1",
         "N-3",
         "N-42",
-        "N-60",
         "N-61",
         "N-64"
       ]
@@ -927,6 +948,27 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3719",
+      "ref": "C-3719",
+      "label": "Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
+      "claim": "The host recounts that Don Jr. and Eric Trump teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.",
+      "anchored_artifacts": [
+        "A-2514.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:10",
+      "investigative_direction": "Corroborate the gift anecdote with any public statement from Donald Trump Jr. or Eric Trump.",
+      "transcript_snippet": "Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-62",
+        "N-63"
       ]
     }
   ],

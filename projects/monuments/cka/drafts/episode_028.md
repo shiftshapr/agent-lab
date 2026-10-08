@@ -34,7 +34,7 @@
 - Claim Range: C-1636 – C-1651
   - New Nodes Introduced: N-360, N-362, N-1306, N-1307, N-1308
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Candace Owens), N-3 (Erika Kirk), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
 
 ---
 

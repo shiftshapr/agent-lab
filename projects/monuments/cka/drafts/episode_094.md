@@ -313,7 +313,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:00:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1215 (Victor Marx reference), N-1711*
+*Related: N-569 (Victor Marx), N-1711*
 
 **A-2005.10** Comment by user "Queen Saxi" raising Tyler Robinson's roommate as potential suspect
 

@@ -31,7 +31,9 @@
             "C-2835",
             "C-2836"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-631"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -350,7 +352,9 @@
           "ref": "A-2040.4",
           "description": "Mike Michaela donation in honor of Theo Von (Russian Blue Cat)",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-205"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:52:02",
@@ -1072,7 +1076,8 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:05:52"
+      "claim_timestamp": "00:05:52",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1086,7 +1091,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:52",
-      "investigative_direction": "Cross-check statement against dismissed-employee reporting and prior production staffing rosters."
+      "investigative_direction": "Cross-check statement against dismissed-employee reporting and prior production staffing rosters.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1100,7 +1106,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:52",
-      "investigative_direction": "Verify against LinkedIn/public hiring records and any DC bureau disclosures."
+      "investigative_direction": "Verify against LinkedIn/public hiring records and any DC bureau disclosures.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

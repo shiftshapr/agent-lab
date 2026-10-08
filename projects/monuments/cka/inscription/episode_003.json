@@ -410,6 +410,102 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2516",
+      "family_ref": "A-2516",
+      "bundle_name": "Host Verbal References and Viewer Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2516.1",
+          "ref": "A-2516.1",
+          "description": "Host statement that her genocide tweet referred to Brian Mast's remarks (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3721"
+          ],
+          "related_nodes": [
+            "N-95"
+          ],
+          "tags": [],
+          "video_timestamp": "00:56:04–00:56:22",
+          "transcript_snippet": "I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2516.2",
+          "ref": "A-2516.2",
+          "description": "Host statement that Netanyahu appeared on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3722"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-65",
+            "N-88",
+            "N-89",
+            "N-90"
+          ],
+          "tags": [],
+          "video_timestamp": "00:57:59–00:58:24",
+          "transcript_snippet": "He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2516.3",
+          "ref": "A-2516.3",
+          "description": "Host recollection of the Sarah Stockton ring debate among Hamptons attendees (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3723"
+          ],
+          "related_nodes": [
+            "N-94",
+            "N-1000"
+          ],
+          "tags": [],
+          "video_timestamp": "01:00:23–01:00:56",
+          "transcript_snippet": "I think her name was Sarah Stockton.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2516.4",
+          "ref": "A-2516.4",
+          "description": "Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Mutosos, read on air (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3724"
+          ],
+          "related_nodes": [
+            "N-70",
+            "N-71",
+            "N-92",
+            "N-93"
+          ],
+          "tags": [],
+          "video_timestamp": "01:12:13–01:12:37",
+          "transcript_snippet": "Eric Mutosos was the LEO and has dealt with Zinn in the past.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2516.5",
+          "ref": "A-2516.5",
+          "description": "Host reference to Jamie Lee Curtis crying over the assassination (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3725"
+          ],
+          "related_nodes": [
+            "N-96"
+          ],
+          "tags": [],
+          "video_timestamp": "01:15:12–01:15:31",
+          "transcript_snippet": "I'm going to show you guys tomorrow like Jamie Lee Curtis,",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -747,16 +843,17 @@
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
       "related_artifacts": [
-        "A-1095.1"
+        "A-2516.2"
       ],
       "related_claims": [
-        "C-1144"
+        "C-3722"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -766,16 +863,17 @@
       "type": "person",
       "description": "Podcast Netanyahu appeared on.",
       "related_artifacts": [
-        "A-1095.1"
+        "A-2516.2"
       ],
       "related_claims": [
-        "C-1144"
+        "C-3722"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -823,16 +921,17 @@
       "type": "person",
       "description": "LEO commenter noted to have dealt with Zinn in the past.",
       "related_artifacts": [
-        "A-1095.1"
+        "A-2516.4"
       ],
       "related_claims": [
-        "C-1144"
+        "C-3724"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -862,16 +961,17 @@
       "type": "person",
       "description": "Hamptons attendee whose engagement ring generated drama.",
       "related_artifacts": [
-        "A-1095.1"
+        "A-2516.3"
       ],
       "related_claims": [
-        "C-1144"
+        "C-3723"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -896,20 +996,21 @@
       "@type": "Person",
       "@id": "N-95",
       "ref": "N-95",
-      "name": "Brian Mass",
+      "name": "Brian Mast",
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
       "related_artifacts": [
-        "A-1095.1"
+        "A-2516.1"
       ],
       "related_claims": [
-        "C-1144"
+        "C-3721"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -919,16 +1020,17 @@
       "type": "person",
       "description": "Mentioned as left-leaning figure moved by Kirk's death.",
       "related_artifacts": [
-        "A-1095.1"
+        "A-2516.5"
       ],
       "related_claims": [
-        "C-1144"
+        "C-3725"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -1268,18 +1370,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-61",
-        "N-68",
-        "N-69",
-        "N-88",
-        "N-89",
-        "N-90",
-        "N-92",
-        "N-93",
-        "N-94",
-        "N-95",
-        "N-96",
-        "N-99"
+        "N-69"
       ]
     },
     {
@@ -1397,7 +1488,6 @@
       "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-59",
         "N-69"
       ]
     },
@@ -1610,8 +1700,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-66",
-        "N-87",
-        "N-97"
+        "N-97",
+        "N-87"
       ]
     },
     {
@@ -1895,6 +1985,110 @@
       "uncertainty_note": "Single-source tip relayed by host.",
       "mentions_person_refs": [
         "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3721",
+      "ref": "C-3721",
+      "label": "Host says her genocide tweet referred to Brian Mast remarks",
+      "claim": "The host says her tweet that genocide is always wrong referred to Brian Mast's remarks (transcript: \"Brian Mass\"), and that the statement stands even if it had not.",
+      "anchored_artifacts": [
+        "A-2516.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:16",
+      "investigative_direction": "Locate the Brian Mast remarks the tweet responded to and the tweet itself.",
+      "transcript_snippet": "I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-95"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3722",
+      "ref": "C-3722",
+      "label": "Netanyahu podcast blitz skipped the Charlie Kirk Show",
+      "claim": "The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.",
+      "anchored_artifacts": [
+        "A-2516.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:04",
+      "investigative_direction": "Build a timeline of Netanyahu's 2025 US podcast appearances and any Charlie Kirk Show invitation.",
+      "transcript_snippet": "He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-65",
+        "N-88",
+        "N-89",
+        "N-90"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3723",
+      "ref": "C-3723",
+      "label": "Hamptons attendee ring debate around Sarah Stockton",
+      "claim": "The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton, whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.",
+      "anchored_artifacts": [
+        "A-2516.3"
+      ],
+      "related_nodes": [
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:30",
+      "investigative_direction": "Identify the attendee's posts from the Hamptons weekend and whether a Turning Point event was disclosed.",
+      "transcript_snippet": "I think her name was Sarah Stockton.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-94"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3724",
+      "ref": "C-3724",
+      "label": "Viewer comment: Eric Mutosos was the LEO who dealt with Zinn",
+      "claim": "A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Mutosos was the LEO and has dealt with Zinn in the past.",
+      "anchored_artifacts": [
+        "A-2516.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:12:24",
+      "investigative_direction": "Verify any law enforcement record linking Eric Mutosos to George Zinn.",
+      "transcript_snippet": "Eric Mutosos was the LEO and has dealt with Zinn in the past.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-70",
+        "N-71",
+        "N-92",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3725",
+      "ref": "C-3725",
+      "label": "Jamie Lee Curtis cited as cross-partisan mourner",
+      "claim": "The host says the global response crossed political lines and that she will show Jamie Lee Curtis, whom she describes as on the left, crying over it.",
+      "anchored_artifacts": [
+        "A-2516.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:15:23",
+      "investigative_direction": "Locate the Jamie Lee Curtis clip the host promised to show.",
+      "transcript_snippet": "I'm going to show you guys tomorrow like Jamie Lee Curtis,",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-96"
       ]
     }
   ],

@@ -76,7 +76,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3125, C-3126, N-1 (assumed Ben Shapiro node), N-2147*
+*Related: C-3125, C-3126, N-133 (Ben Shapiro), N-2147*
 
 ---
 

@@ -590,8 +590,7 @@
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025.",
       "mentions_person_refs": [
-        "N-37",
-        "N-70"
+        "N-37"
       ],
       "contradicts_claim_refs": [
         "C-1369"
@@ -613,8 +612,7 @@
       "claim_timestamp": "00:26:20",
       "investigative_direction": "FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing.",
       "mentions_person_refs": [
-        "N-37",
-        "N-70"
+        "N-37"
       ]
     },
     {
@@ -631,8 +629,7 @@
       "claim_timestamp": "00:40:21",
       "investigative_direction": "Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.",
       "mentions_person_refs": [
-        "N-37",
-        "N-70"
+        "N-37"
       ]
     },
     {
@@ -674,9 +671,8 @@
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025.",
       "mentions_person_refs": [
-        "N-37",
         "N-42",
-        "N-70"
+        "N-37"
       ]
     },
     {
@@ -800,7 +796,9 @@
       "ref": "C-1377",
       "label": "Josh Hammer identified as group chat participant",
       "claim": "The host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1225.4"
+      ],
       "related_nodes": [
         "N-1229"
       ],
@@ -808,7 +806,7 @@
       "claim_timestamp": "00:17:45",
       "investigative_direction": "Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle).",
       "mentions_person_refs": [
-        "N-42"
+        "N-86"
       ]
     },
     {
@@ -841,7 +839,6 @@
       "investigative_direction": "Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag).",
       "mentions_person_refs": [
         "N-37",
-        "N-70",
         "N-135"
       ]
     }

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-  - Reused Nodes Appearing: N-2, N-4, N-5, N-6, N-1207, N-1208, N-1209, N-1210, N-1211, N-53
+  - Reused Nodes Appearing: N-2, N-42, N-50, N-224, N-1207, N-1208, N-1209, N-1210, N-1211, N-53
 
 ---
 
@@ -32,7 +32,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-42 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-50 (Tucker Carlson), N-224 (Blake Neff (variant: Nef) - actual ledger IDs to be verified against global ledger), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question)
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3494, C-3495, C-3496, C-3511, N-2, N-4, N-2330*
+*Related: C-3494, C-3495, C-3496, C-3511, N-2, N-42, N-2330*
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:13:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3497, N-2, N-3, N-4, N-2332*
+*Related: C-3497, N-2, N-3, N-42, N-2332*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3498, A-2394.1, A-2396.1, N-4, N-2332*
+*Related: C-3498, A-2394.1, A-2396.1, N-42, N-2332*
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3504, C-3507, N-1, N-6, N-1210*
+*Related: C-3504, C-3507, N-1, N-224, N-1210*
 
 **A-2400.2** Politico excerpt (Ian Ward): "maximalist position on free speech" framing.
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:47:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3505, N-6, N-1210*
+*Related: C-3505, N-224, N-1210*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3506, N-1, N-5, N-6, N-2335*
+*Related: C-3506, N-1, N-50, N-224, N-2335*
 
 ---
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3500, N-2, N-3, N-4, N-2331*
+*Related: C-3500, N-2, N-3, N-42, N-2331*
 
 **A-2403.2** Andrew Kolvet X reply: "Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced."
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:24:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3502, N-4, N-2331*
+*Related: C-3502, N-42, N-2331*
 
 **A-2403.3** Andrew Kolvet X reply: "Yeah, we don't market the event publicly for security reasons. Thanks for all your help on that, by the way."
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:25:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3503, N-4, N-2333*
+*Related: C-3503, N-42, N-2333*
 
 **A-2403.4** Andrew Kolvet X reply: "Did you actually never attend a school assembly in high school? These are distinct from our regular chapter meetings."
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-4, N-2331*
+*Related: N-42, N-2331*
 
 ---
 
@@ -344,7 +344,7 @@ Investigative Pressure: High
 ---
 
 
-**N-4** JD Vance
+**N-42** Andrew Kolvet
 
 Existing; PR figure under multiple artifact-anchored claims in this episode.
 
@@ -352,7 +352,7 @@ Existing; PR figure under multiple artifact-anchored claims in this episode.
 
 ---
 
-**N-5** Donald Trump
+**N-50** Tucker Carlson
 
 Existing; called out Blake Neff via audio artifact (A-2401.1).
 
@@ -360,7 +360,7 @@ Existing; called out Blake Neff via audio artifact (A-2401.1).
 
 ---
 
-**N-6** Elizabeth Lane *(reused from Episode 1)*
+**N-224** Blake Neff
 
 Existing; subject of Politico profile and Tucker Carlson criticism.
 
@@ -390,7 +390,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-3499, C-3500, C-3501, C-3502, N-2, N-4*
+*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-3499, C-3500, C-3501, C-3502, N-2, N-42*
 
 ---
 
@@ -403,7 +403,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2394.1, A-2395.1, A-2396.1, C-3497, C-3498, N-2, N-3, N-4*
+*Related: A-2394.1, A-2395.1, A-2396.1, C-3497, C-3498, N-2, N-3, N-42*
 
 ---
 
@@ -416,7 +416,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2393.1, A-2403.3, C-3496, C-3503, N-4*
+*Related: A-2393.1, A-2403.3, C-3496, C-3503, N-42*
 
 ---
 
@@ -429,7 +429,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.x, C-3510, N-2, N-4, N-1211, N-2336*
+*Related: A-2402.x, C-3510, N-2, N-42, N-1211, N-2336*
 
 ---
 
@@ -442,7 +442,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2400.1, A-2401.1, C-3506, C-3507, N-1, N-5, N-6*
+*Related: A-2400.1, A-2401.1, C-3506, C-3507, N-1, N-50, N-224*
 
 ---
 
@@ -479,7 +479,7 @@ Claim Timestamp: 00:02:15
 Claim: TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the EMS section of the school's online event form.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-2, N-4
+Mentions: N-2
 Contradicts: C-3493
 
 Related Nodes: N-2330
@@ -510,7 +510,7 @@ Claim Timestamp: 00:04:04
 Claim: Per TPUSA's official statement to ABC News, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events, with no crowd control.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-2, N-4
+Mentions: N-2
 
 Related Nodes: N-2330, N-2333
 
@@ -525,7 +525,7 @@ Claim Timestamp: 00:13:35
 Claim: A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Candace Owens a message attributed to "E" describing a plan to seed a public feud between Charlie Kirk and Candace Owens ("Operation Greyer X anonymous").
 
 Anchored Artifacts: A-2394.1
-Mentions: N-2, N-3, N-4
+Mentions: N-2, N-3, N-42
 
 Related Nodes: N-2332
 
@@ -540,7 +540,7 @@ Claim Timestamp: 00:17:00
 Claim: The 4plebs post allegedly found by "E" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative — ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
 
 Anchored Artifacts: A-2395.1, A-2396.1
-Mentions: N-3, N-4
+Mentions: N-3, N-42
 
 Related Nodes: N-2332
 
@@ -600,7 +600,7 @@ Claim Timestamp: 00:24:37
 Claim: Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that "over 500 chose to attend" — i.e., nothing was forced.
 
 Anchored Artifacts: A-2403.2
-Mentions: N-4
+Mentions: N-42
 
 Related Nodes: N-2331
 
@@ -615,7 +615,7 @@ Claim Timestamp: 00:25:33
 Claim: Andrew Kolvet replied on X that TPUSA does not market the events publicly for "security reasons" and thanked Candace for "all your help on that."
 
 Anchored Artifacts: A-2403.3
-Mentions: N-4
+Mentions: N-42
 
 Related Nodes: N-2333
 
@@ -630,7 +630,7 @@ Claim Timestamp: 00:45:02
 Claim: Politico published a profile of Blake Neff titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed" (author Ian Ward).
 
 Anchored Artifacts: A-2400.1
-Mentions: N-1, N-6
+Mentions: N-1, N-224
 
 Related Nodes: N-1210
 
@@ -645,7 +645,7 @@ Claim Timestamp: 00:47:48
 Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" — host notes this is the author's framing, not Neff's verbatim.
 
 Anchored Artifacts: A-2400.2
-Mentions: N-6
+Mentions: N-224
 
 Related Nodes: N-1210
 
@@ -660,7 +660,7 @@ Claim Timestamp: 00:45:02
 Claim: Tucker Carlson publicly criticized Blake Neff's framing that "we may have to make our peace with censorship," reading and rejecting the Politico profile's premise.
 
 Anchored Artifacts: A-2401.1
-Mentions: N-1, N-5, N-6
+Mentions: N-1, N-50, N-224
 
 Related Nodes: N-2335
 
@@ -675,7 +675,7 @@ Claim Timestamp: 00:50:04
 Claim: Blake Neff stated verbatim per Politico: "Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it."
 
 Anchored Artifacts: A-2400.1
-Mentions: N-6
+Mentions: N-224
 
 Related Nodes: N-2335
 
@@ -718,7 +718,7 @@ Claim Timestamp: 00:34:54
 Claim: On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.
 
 Anchored Artifacts: Host testimonial confirmation only (sourced by host from "people who worked with Andrew"); no displayed documentary source in this episode.
-Mentions: N-2, N-4
+Mentions: N-2, N-42
 
 Related Nodes: N-2334
 
@@ -791,7 +791,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 - **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image ("slay the patriarchy") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.
 - **Requires human verification:** C-3510 (Aug 28, 2025 Empress Films call) — anchor is host testimonial only.
 - **Possible transcription error:** Caption source is "yt-dlp-auto-android"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-3507) should be cross-checked against raw audio before downstream use.
-- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition.
+- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition. Wave 1 resolved them: N-4 to N-42 (Andrew Kolvet), N-5 to N-50 (Tucker Carlson), N-6 to N-224 (Blake Neff).
 - **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.
 
 ## 6. Meme Register

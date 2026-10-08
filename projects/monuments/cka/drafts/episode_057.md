@@ -305,7 +305,7 @@ Claim Timestamp: 00:13:05
 Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military operated a device called Project Looking Glass that could view potential future timelines and was shut down because all timelines converged on December 21, 2012.
 
 Anchored Artifacts: A-1628.2
-Mentions: N-720, N-724
+Mentions: N-720
 
 Related Nodes: N-1484
 

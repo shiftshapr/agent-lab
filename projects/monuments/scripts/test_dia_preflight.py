@@ -2,12 +2,16 @@
 """Smoke tests for DIA preflight (run from repo root)."""
 from __future__ import annotations
 
+import json
 import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
 PREFLIGHT = ROOT / "projects" / "monuments" / "scripts" / "dia_preflight.py"
+sys.path.insert(0, str(PREFLIGHT.parent))
+
+import dia_preflight as dp  # noqa: E402
 
 
 def test_self_test_exits_zero():
@@ -29,6 +33,391 @@ def test_bride_of_charlie_main_tip_passes():
     )
     assert proc.returncode == 0, proc.stderr + proc.stdout
     assert "RESULT: PASS" in proc.stdout
+
+
+# ---------------------------------------------------------------------------
+# Wave 1 gates (unit tests on synthetic inputs)
+# ---------------------------------------------------------------------------
+
+
+def _episode(tmp_path: Path, text: str, ep: int = 1) -> list[tuple[int, str, Path, str]]:
+    drafts = tmp_path / "drafts"
+    drafts.mkdir(parents=True, exist_ok=True)
+    path = drafts / f"episode_{ep:03d}.md"
+    path.write_text(text, encoding="utf-8")
+    return [(ep, path.name, path, text)]
+
+
+def _checks(report: dp.PreflightReport, sev: str = "P1") -> list[str]:
+    return [f.check for f in report.findings if f.severity == sev]
+
+
+def test_person_like_topic_flags_topic_band_person_and_honorific():
+    content = "## 4. Node Register\n\n**N-1009** Charlie Kirk \u2014 referenced throughout.\n\n**N-2349** Father Ripperger\n\n**N-1018** Eileen Marx\n"
+    intro = dp.first_introduction_meta(dp.collect_register_entries([(1, "episode_001.md", Path("x"), content)]))
+    canonical = {
+        "N-1": {"canonical_name": "Charlie Kirk", "type": "person"},
+        "N-14": {"canonical_name": "Victor Marx's son", "type": "person"},
+    }
+    report = dp.PreflightReport("t", "t")
+    dp.check_person_like_topic(report, intro, canonical)
+    flagged = {f.location for f in report.findings if f.check == "person_like_topic"}
+    assert flagged == {"N-1009", "N-2349", "N-1018"}
+
+
+def test_person_like_topic_ignores_topics_about_people():
+    content = (
+        "## 4. Node Register\n\n**N-2183** Officer Bagley \u2014 Sex Crimes Unit Background\n\n"
+        "**N-1391** Charlie Kirk's Pre-Death Messages\n\n**N-1135** Daily Mail\n\n**N-1092** The Hamptons\n"
+    )
+    intro = dp.first_introduction_meta(dp.collect_register_entries([(1, "episode_001.md", Path("x"), content)]))
+    canonical = {"N-1": {"canonical_name": "Charlie Kirk", "type": "person"}}
+    report = dp.PreflightReport("t", "t")
+    dp.check_person_like_topic(report, intro, canonical)
+    assert report.findings == []
+
+
+def test_person_like_topic_flags_canonical_person_type_in_topic_band():
+    report = dp.PreflightReport("t", "t")
+    dp.check_person_like_topic(report, {}, {"N-24": {"canonical_name": "x", "type": "person"}, "N-1500": {"canonical_name": "Someone", "type": "person"}})
+    assert [f.location for f in report.findings] == ["N-1500"]
+
+
+CLAIM_DRAFT = """## 4. Node Register
+
+**N-1** Alice Smith
+
+**N-2** Bob Jones
+
+**N-3** Host Person
+
+## 5. Claim Register
+
+**C-1** Alice speaks on the PBD show
+
+Claim Timestamp: 00:00:10
+Claim: Alice Smith describes the event.
+Mentions: {mentions}
+
+---
+"""
+
+
+def _grounding_report(tmp_path: Path, mentions: str, canonical: dict, transcript: str, gates: dict | None = None):
+    eps = _episode(tmp_path, CLAIM_DRAFT.format(mentions=mentions))
+    (tmp_path / "transcripts_corrected").mkdir(exist_ok=True)
+    (tmp_path / "transcripts_corrected" / "episode_001_vid.txt").write_text(transcript, encoding="utf-8")
+    if gates is not None:
+        (tmp_path / "config").mkdir(exist_ok=True)
+        (tmp_path / "config" / "preflight_gates.json").write_text(json.dumps(gates), encoding="utf-8")
+    intro = dp.first_introduction_meta(dp.collect_register_entries(eps))
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_mention_grounding(report, tmp_path, eps, intro, canonical)
+    return report
+
+
+CANON = {
+    "N-1": {"canonical_name": "Alice Smith", "type": "person"},
+    "N-2": {"canonical_name": "Bob Jones", "type": "person", "aliases": []},
+    "N-3": {"canonical_name": "Host Person", "type": "person"},
+    "N-4": {"canonical_name": "Patrick Bet-David", "type": "person", "aliases": ["PBD"]},
+}
+
+
+def test_mention_grounding_flags_name_absent_from_claim_and_transcript(tmp_path):
+    report = _grounding_report(tmp_path, "N-1, N-2", CANON, "[00:00:05] Alice Smith talks.")
+    assert [f.location for f in report.findings] == ["C-1:N-2"]
+    assert _checks(report) == ["mention_grounding"]
+
+
+def test_mention_grounding_accepts_transcript_surname_alias_and_acronym(tmp_path):
+    canon = {**CANON, "N-2": {"canonical_name": "Bob Jones", "type": "person", "aliases": ["Bobby Jonez"]}}
+    report = _grounding_report(tmp_path, "N-1, N-2, N-4", canon, "[00:09:00] and later Jonez said hello.")
+    assert report.findings == []
+
+
+def test_mention_grounding_respects_exempt_and_reviewed(tmp_path):
+    gates = {"mention_grounding": {"exempt_ids": ["N-3"], "reviewed": [{"claim": "C-1", "node": "N-2", "reason": "her husband"}]}}
+    report = _grounding_report(tmp_path, "N-1, N-2, N-3", CANON, "[00:00:05] Alice Smith talks.", gates)
+    assert report.findings == []
+
+
+TS_DRAFT = """- **YouTube id**: vid
+
+## 5. Claim Register
+
+**C-1** In range
+
+Claim Timestamp: 00:01:30
+Claim: ok
+
+---
+
+**C-2** Past end
+
+Claim Timestamp: 00:05:00
+Claim: late
+
+---
+"""
+
+
+def test_claim_ts_past_end_uses_youtube_duration(tmp_path):
+    eps = _episode(tmp_path, TS_DRAFT)
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config" / "yt_durations.json").write_text(json.dumps({"by_youtube_id": {"vid": 180}}), encoding="utf-8")
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_claim_ts_past_end(report, tmp_path, eps)
+    assert [f.location for f in report.findings] == ["C-2"]
+
+
+def test_claim_ts_past_end_falls_back_to_last_marker_and_skips_without_durations(tmp_path):
+    eps = _episode(tmp_path, TS_DRAFT)
+    (tmp_path / "transcripts_corrected").mkdir()
+    (tmp_path / "transcripts_corrected" / "episode_001_vid.txt").write_text("[00:00:01] a [00:02:00] b", encoding="utf-8")
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_claim_ts_past_end(report, tmp_path, eps)
+    assert report.findings == []  # no yt_durations.json: gate opts out
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config" / "yt_durations.json").write_text(json.dumps({"by_youtube_id": {}}), encoding="utf-8")
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_claim_ts_past_end(report, tmp_path, eps)
+    assert [f.location for f in report.findings] == ["C-2"]
+
+
+def test_claims_missing_from_drafts(tmp_path):
+    eps = _episode(tmp_path, TS_DRAFT)
+    (tmp_path / "inscription").mkdir()
+    (tmp_path / "inscription" / "episode_001.json").write_text(
+        json.dumps({"claims": [{"@id": "C-1"}, {"@id": "C-2"}, {"@id": "C-77"}]}), encoding="utf-8"
+    )
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_claims_missing_from_drafts(report, tmp_path, eps)
+    assert [f.location for f in report.findings] == ["C-77"]
+
+
+def test_duplicate_claim_headers_including_residue_headers(tmp_path):
+    text = TS_DRAFT + "\n**C-1 / C-9** residue header\n\nClaim: junk\n"
+    eps = _episode(tmp_path, text)
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_duplicate_claim_headers(report, eps)
+    assert [f.location for f in report.findings] == ["C-1"]
+    assert _checks(report) == ["duplicate_claim_header"]
+
+
+def test_tombstone_collision():
+    report = dp.PreflightReport("t", "t")
+    dp.check_tombstone_collision(
+        report,
+        {"N-88": {"canonical_name": "PBD", "retired_ids": ["N-452", "N-999"]}, "N-452": {"canonical_name": "Ali Breland"}},
+    )
+    assert [f.location for f in report.findings] == ["N-452"]
+
+
+def test_wave1_fixture_trips_every_gate(tmp_path):
+    root = tmp_path / "wave1_fixture"
+    dp.build_wave1_fixture(root)
+    report = dp._run_fixture("test_mon_w1_pytest", root, skip_inscription=False)
+    p1 = set(_checks(report))
+    assert set(dp.WAVE1_CHECKS) <= p1
+    assert set(dp.WAVE1_P0_CHECKS) <= set(_checks(report, "P0"))
+    locs = {f.location for f in report.findings if f.check == "mention_grounding"}
+    assert set(dp.WAVE1_FIXTURE_LOCATIONS) <= locs
+
+
+# --- .md transcripts and windowed grounding ---------------------------------
+
+WIN_DRAFT = """## 4. Node Register
+
+**N-1** Alice Smith
+
+**N-2** Bob Jones
+
+## 5. Claim Register
+
+**C-1** Alice speaks
+
+Claim Timestamp: {ts}
+Claim: Alice Smith describes the event.
+Mentions: N-1, N-2
+
+---
+"""
+
+WIN_TRANSCRIPT = "[00:00:05] Alice Smith talks. [00:01:00] Other topics. [00:05:00] Bob Jones arrives. [00:06:00] Bye."
+WIN_GATES = {"mention_grounding": {"window_seconds": 60}}
+
+
+def _win_report(tmp_path: Path, ts: str, transcript: str = WIN_TRANSCRIPT, gates: dict | None = None, ext: str = ".txt", ep: int = 1):
+    eps = _episode(tmp_path, WIN_DRAFT.format(ts=ts), ep=ep)
+    tdir = tmp_path / "transcripts_corrected"
+    tdir.mkdir(exist_ok=True)
+    (tdir / f"episode_{ep:03d}_vid{ext}").write_text(transcript, encoding="utf-8")
+    (tmp_path / "config").mkdir(exist_ok=True)
+    (tmp_path / "config" / "preflight_gates.json").write_text(json.dumps(gates if gates is not None else WIN_GATES), encoding="utf-8")
+    intro = dp.first_introduction_meta(dp.collect_register_entries(eps))
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_mention_grounding(report, tmp_path, eps, intro, CANON)
+    return report
+
+
+def test_find_transcript_reads_md(tmp_path):
+    report = _win_report(tmp_path, "00:04:50", ext=".md")
+    assert dp.find_transcript(tmp_path, 1).suffix == ".md"
+    assert report.findings == []
+    report = _win_report(tmp_path / "b", "00:00:10", ext=".md")
+    assert [f.location for f in report.findings] == ["C-1:N-2"]
+
+
+def test_windowed_grounding_fails_outside_window(tmp_path):
+    report = _win_report(tmp_path, "00:00:10")
+    assert [f.location for f in report.findings] == ["C-1:N-2"]
+    assert "within +-60s" in report.findings[0].message
+
+
+def test_windowed_grounding_passes_inside_window(tmp_path):
+    assert _win_report(tmp_path, "00:04:30").findings == []
+
+
+def test_windowed_grounding_early_episodes_use_wider_window(tmp_path):
+    gates = {"mention_grounding": {"window_seconds": 60, "window_seconds_early": 300, "early_max_episode": 10}}
+    assert _win_report(tmp_path, "00:01:30", gates=gates, ep=5).findings == []
+    assert [f.location for f in _win_report(tmp_path / "b", "00:01:30", gates=gates, ep=11).findings] == ["C-1:N-2"]
+
+
+def test_windowed_grounding_placeholder_timestamp_falls_back_to_episode(tmp_path):
+    assert _win_report(tmp_path, "00:00:00\u201300:00:01").findings == []
+
+
+def test_windowed_grounding_first_name_ok(tmp_path):
+    transcript = "[00:00:05] Alice Smith talks and Bob waves. [00:01:00] Bye."
+    report = _win_report(tmp_path, "00:00:10", transcript=transcript)
+    assert [f.location for f in report.findings] == ["C-1:N-2"]
+    gates = {"mention_grounding": {"window_seconds": 60, "first_name_ok": ["N-2"]}}
+    assert _win_report(tmp_path / "b", "00:00:10", transcript=transcript, gates=gates).findings == []
+
+
+# --- name_annotation_mismatch --------------------------------------------------
+
+
+def test_name_annotation_mismatch_flags_wrong_person_only():
+    content = (
+        "## 4. Node Register\n\n**N-1** Alice Smith\n\n**N-2** Bob Jones\n\n"
+        "## 5. Claim Register\n\nReused: N-1 (Alice Smith), N-2 (Bobby Jones), N-1 (verbal reference)\n"
+        "Context: N-2 (Alice Smith) spoke.\n"
+    )
+    eps = [(1, "episode_001.md", Path("x"), content)]
+    register = dp.collect_register_entries(eps)
+    report = dp.PreflightReport("t", "t")
+    dp.check_name_annotation_mismatch(report, eps, register, {})
+    assert [f.location for f in report.findings] == ["episode_001.md:10:N-2"]
+    assert _checks(report) == ["name_annotation_mismatch"]
+
+
+# --- hole_mint_order ----------------------------------------------------------------
+
+
+def test_annotation_person_requires_surname_match():
+    m = dp.annotation_name_matches
+    # Wrong person who only shares a first name: rejected for persons.
+    assert not m("Blake Wynn", ["Blake Neff"], person=True)
+    assert not m("Josh Hawley", ["Josh Hammer"], person=True)
+    assert not m("Andrew Tate", ["Andrew Kolvet"], person=True)
+    assert not m("Charlie Skyler", ["Charlie Kirk"], person=True)
+    # Single-token, nickname and title references stay accepted.
+    assert m("Charlie", ["Charlie Kirk"], person=True)
+    assert m("Don Jr", ["Donald Trump Jr.", "Don Jr"], person=True)
+    assert m("Governor Cox", ["Spencer Cox"], person=True)
+    assert m("Michael Knowles", ["Michael Knowles", "Michael Nolles"], person=True)
+    # Topics keep the shared-word rule.
+    assert m("Blake Wynn", ["Blake Neff"], person=False)
+    assert m("Butler rally timeline", ["Butler Rally Security"], person=False)
+
+
+def test_name_annotation_mismatch_flags_first_name_only_person_match():
+    content = "## 5. Claim Register\n\n**C-1** T\n\nMentions: N-224 (Blake Wynn), N-1 (Charlie)\n"
+    eps = [(1, "episode_001.md", Path("x"), content)]
+    canonical = {"N-224": {"canonical_name": "Blake Neff", "type": "person", "aliases": []},
+                 "N-1": {"canonical_name": "Charlie Kirk", "type": "person", "aliases": []}}
+    report = dp.PreflightReport("t", "x")
+    dp.check_name_annotation_mismatch(report, eps, [], canonical)
+    assert [f.location for f in report.findings] == ["episode_001.md:5:N-224"]
+
+
+def _hole_eps(ep1_ledger: str, ep2_ledger: str = "", ep2_register: str = "") -> list[tuple[int, str, Path, str]]:
+    def draft(ledger: str, register: str) -> str:
+        return f"## 1. Meta-Data\n\n- **Episode Ledger Summary**:\n{ledger}\n## 4. Node Register\n\n{register}\n## 5. Claim Register\n"
+    reg1 = "".join(f"**N-{n}** Person {n}\n\nNode Type: Person\n\n" for n in (1, 2, 3, 4))
+    eps = [(1, "episode_001.md", Path("x"), draft(ep1_ledger, reg1))]
+    if ep2_ledger or ep2_register:
+        eps.append((2, "episode_002.md", Path("y"), draft(ep2_ledger, ep2_register)))
+    return eps
+
+
+def _hole_report(tmp_path: Path, eps) -> dp.PreflightReport:
+    intro = dp.first_introduction_meta(dp.collect_register_entries(eps))
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_hole_minted(report, tmp_path, eps, intro, {})
+    return report
+
+
+def test_hole_mint_order_accepts_ascending_compact_batch(tmp_path):
+    eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Reused Nodes Appearing:\n  - Hole-minted Nodes (b): N-3, N-4\n")
+    assert _hole_report(tmp_path, eps).findings == []
+
+
+def test_hole_mint_order_flags_descending_ids(tmp_path):
+    eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Hole-minted Nodes (b): N-4, N-3\n")
+    report = _hole_report(tmp_path, eps)
+    assert [(f.severity, f.check, f.location) for f in report.findings] == [("P0", "hole_mint_order", "N-3")]
+
+
+def test_hole_mint_order_flags_id_hidden_on_reused_line(tmp_path):
+    eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Reused Nodes Appearing: N-3\n  - Hole-minted Nodes (b): N-3, N-4\n")
+    assert [f.location for f in _hole_report(tmp_path, eps).findings] == ["N-3"]
+
+
+def test_hole_mint_order_flags_id_hidden_on_existing_nodes_reused_line(tmp_path):
+    for line in ("Existing Nodes Reused: N-3 (Person 3)\n", "- **Existing Nodes Reused:** N-3\n"):
+        eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Hole-minted Nodes (b): N-3, N-4\n" + line)
+        assert [f.location for f in _hole_report(tmp_path, eps).findings] == ["N-3"]
+
+
+def test_hole_mint_order_flags_gap_below_batch_max(tmp_path):
+    eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Hole-minted Nodes (b): N-3, N-4\n", "  - Hole-minted Nodes (b): N-9\n",
+                    "**N-9** Person 9\n\nNode Type: Person\n\n")
+    report = _hole_report(tmp_path, eps)
+    assert [f.location for f in report.findings] == ["N-9"]
+    assert "free person ids remain below it: N-5" in report.findings[0].message
+
+
+def test_hole_mint_order_flags_wrong_episode(tmp_path):
+    eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Hole-minted Nodes (b): N-3\n", "  - Hole-minted Nodes (b): N-4\n")
+    report = _hole_report(tmp_path, eps)
+    assert [f.location for f in report.findings] == ["N-4"]
+    assert "first registered in episode_001.md" in report.findings[0].message
+
+
+def test_cka_has_no_wave1_people_regressions():
+    """Wave 1 cleared these classes on CKA; they must stay at zero."""
+    report = dp.run_preflight("cka")
+    bad = [
+        f
+        for f in report.findings
+        if f.check
+        in (
+            "person_like_topic",
+            "mention_grounding",
+            "tombstone_collision",
+            "person_band",
+            "register_orphan",
+            "retired_citation",
+            "unknown_node",
+            "name_annotation_mismatch",
+            "hole_mint_order",
+        )
+    ]
+    assert bad == [], bad
 
 
 if __name__ == "__main__":

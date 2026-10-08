@@ -444,7 +444,7 @@ Claim Timestamp: 00:21:30
 Claim: On September 25, 2018, Tyler Bowyer posted that TPUSA "runs everything like a military op" and that "all of our people are from that background."
 
 Anchored Artifacts: A-1673.1
-Mentions: N-37, N-70
+Mentions: N-37
 
 
 Investigative Direction: Retrieve the original post from X/Twitter (including any deletions or edits) and identify which "background" Bowyer was referencing.

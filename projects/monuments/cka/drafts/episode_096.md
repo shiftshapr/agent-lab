@@ -30,7 +30,7 @@
 - Claim Range: C-2790–C-2809
   - New Nodes Introduced: N-1712, N-1713, N-1714, N-1715, N-1716, N-1717
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-3, N-8, N-9, N-10, N-11, N-12, N-13, N-14, N-15, N-16, N-23, N-24, N-27, N-28, N-32, N-33, N-182
+- Existing Nodes Reused: N-1, N-2, N-3, N-42, N-91, N-5, N-444, N-133, N-552, N-410, N-122, N-27, N-28, N-32, N-33, N-182
 
 ## 6. Meme Register
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:02:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2790, N-3, N-6, N-1715*
+*Related: C-2790, N-3, N-5, N-1715*
 
 ## A-2008 White House Correspondents Dinner Incident Coverage Bundle
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2791, N-2, N-11, N-1712*
+*Related: C-2791, N-2, N-1712*
 
 **A-2008.2** Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2792, N-11, N-12, N-1712*
+*Related: C-2792, N-1712*
 
 **A-2008.3** Sarah Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (original recording source unverified)
 
-*Related: C-2793, N-2, N-13, N-1713*
+*Related: C-2793, N-2, N-1713*
 
 **A-2008.4** Baron Coleman commentary clip on WHCD media frenzy
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:33:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2794, N-2, N-14, N-1712*
+*Related: C-2794, N-2, N-552, N-1712*
 
 ## A-2009 Erika Kirk Pre-Recorded Statement Bundle
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:45:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2799, N-2, N-3, N-16, N-1714*
+*Related: C-2799, N-2, N-3, N-122, N-1714*
 
 **A-2009.4** Erika Kirk pre-recorded statement — claim that Candace Owens accused her of murdering her husband
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2800, N-15*
+*Related: C-2800, N-410*
 
 ## A-2011 Andrew Kolvet Text Message Bundle
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:51:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (screenshot); Medium (full chain context unverified)
 
-*Related: C-2801, C-2802, C-2803, N-2, N-3, N-4, N-1716*
+*Related: C-2801, C-2802, C-2803, N-2, N-3, N-42, N-1716*
 
 ## A-2012 Laura Loomer Content Bundle
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:18:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2804, N-3, N-5*
+*Related: C-2804, N-3, N-91*
 
 **A-2012.2** Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points
 
@@ -201,7 +201,7 @@ Video Timestamp: 01:03:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2805, N-3, N-5*
+*Related: C-2805, N-3, N-91*
 
 **A-2012.3** Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch
 
@@ -211,7 +211,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2806, N-3, N-5, N-27, N-28, N-32*
+*Related: C-2806, N-3, N-91, N-27, N-28, N-32*
 
 **A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome
 
@@ -221,7 +221,7 @@ Video Timestamp: 01:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (acknowledged as AI)
 
-*Related: C-2806, N-3, N-5, N-32*
+*Related: C-2806, N-3, N-91, N-32*
 
 ## A-2013 Candace Owens Prior Public Statements Bundle
 
@@ -295,7 +295,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.1, A-2008.2, A-2008.4, C-2791, C-2792, C-2794, N-11*
+*Related: A-2008.1, A-2008.2, A-2008.4, C-2791, C-2792, C-2794*
 
 **N-1713** Sarah Sidner Original Video Source Verification
 
@@ -306,7 +306,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.3, C-2793, N-13, N-2*
+*Related: A-2008.3, C-2793, N-2*
 
 **N-1714** Erika Kirk Pre-Recorded Statement Authorship and Authenticity
 
@@ -317,7 +317,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2009.1, A-2009.2, A-2009.3, A-2009.4, C-2795, C-2796, C-2797, C-2798, C-2799, N-2, N-9*
+*Related: A-2009.1, A-2009.2, A-2009.3, A-2009.4, C-2795, C-2796, C-2797, C-2798, C-2799, N-2*
 
 **N-1715** Trump Truth Social Tweet Authorship/Origin
 
@@ -328,7 +328,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2007.1, C-2790, N-6*
+*Related: A-2007.1, C-2790, N-5*
 
 **N-1716** Andrew Kolvet Text Message Full Context Verification
 
@@ -339,7 +339,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2011.1, C-2801, C-2802, C-2803, N-2, N-3, N-4*
+*Related: A-2011.1, C-2801, C-2802, C-2803, N-2, N-3, N-42*
 
 **N-1717** Erika Kirk Murder Claim Accuracy
 
@@ -372,7 +372,7 @@ Claim Timestamp: 00:02:43
 Claim: Trump's Truth Social post called Candace Owens "an extremely low IQ individual" and described her attack on the First Lady of France as "despicable."
 
 Anchored Artifacts: A-2007.1
-Mentions: N-3, N-6, N-33
+Mentions: N-3, N-5, N-33
 Related Nodes: N-1715
 Investigative Direction: Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.
 
@@ -383,7 +383,6 @@ Claim Timestamp: 00:29:53
 Claim: The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.
 
 Anchored Artifacts: A-2008.1
-Mentions: N-11
 Related Nodes: N-1712
 Investigative Direction: Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.
 
@@ -394,7 +393,6 @@ Claim Timestamp: 00:29:53
 Claim: Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident.
 
 Anchored Artifacts: A-2008.2
-Mentions: N-11, N-12
 Related Nodes: N-1712
 Investigative Direction: Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.
 
@@ -405,7 +403,7 @@ Claim Timestamp: 00:31:35
 Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sarah Sidner.
 
 Anchored Artifacts: A-2008.3
-Mentions: N-2, N-13
+Mentions: N-2
 Related Nodes: N-1713
 Investigative Direction: Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.
 
@@ -416,7 +414,7 @@ Claim Timestamp: 00:33:09
 Claim: Baron Coleman publicly commented on the WHCD media coverage, noting Erika Kirk's emergence as a focal point of the event alongside the ballroom announcement.
 
 Anchored Artifacts: A-2008.4
-Mentions: N-2, N-14
+Mentions: N-2, N-552
 Related Nodes: N-1712
 Investigative Direction: Pull Baron Coleman's clip or post directly for full context.
 
@@ -471,7 +469,7 @@ Claim Timestamp: 00:45:38
 Claim: In her pre-recorded statement, Erika Kirk criticized Jimmy Kimmel's joke about Melania Trump having "the glow of an expected widow."
 
 Anchored Artifacts: A-2009.3
-Mentions: N-2, N-3, N-16
+Mentions: N-2, N-3, N-122
 Related Nodes: N-1714
 Investigative Direction: Verify Kimmel's original monologue; confirm Erika's quotation is accurate.
 
@@ -482,7 +480,7 @@ Claim Timestamp: 00:43:54
 Claim: Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
-Mentions: N-15
+Mentions: N-410
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
 **C-2801** Andrew Kolvet presented a text message screenshot
@@ -492,7 +490,7 @@ Claim Timestamp: 00:51:23
 Claim: Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-4
+Mentions: N-2, N-3, N-42
 Related Nodes: N-1716
 Investigative Direction: Verify the screenshot; obtain the full conversation thread; host has publicly authorized release of the entire chain.
 
@@ -503,7 +501,7 @@ Claim Timestamp: 00:52:52
 Claim: The text message presented by Andrew Kolvet contained the phrase "why did you murder your husband?" with cry emojis, framed as Candace's planned first question for Erika.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-4
+Mentions: N-2, N-3, N-42
 Related Nodes: N-1716
 Investigative Direction: Verify the exact text against the screenshot; obtain the surrounding messages for context.
 
@@ -514,7 +512,7 @@ Claim Timestamp: 00:52:52
 Claim: Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-4, N-8, N-10
+Mentions: N-2, N-3, N-42, N-444, N-133
 Related Nodes: N-1716
 Investigative Direction: Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing.
 
@@ -525,7 +523,7 @@ Claim Timestamp: 00:18:50
 Claim: Laura Loomer appeared in an audio recording making comments about Candace Owens including racial characterizations and descriptions of personal history.
 
 Anchored Artifacts: A-2012.1
-Mentions: N-3, N-5
+Mentions: N-3, N-91
 Investigative Direction: Verify the source recording; identify context and any other parties present.
 
 **C-2805** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points
@@ -535,7 +533,7 @@ Claim Timestamp: 01:03:21
 Claim: Laura Loomer tweeted that the Southern Poverty Law Center was paying Candace Owens $500K per year to communicate David Duke talking points.
 
 Anchored Artifacts: A-2012.2
-Mentions: N-3, N-5
+Mentions: N-3, N-91
 Investigative Direction: Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship.
 
 **C-2806** Laura Loomer claimed Candace was at anti-Trump summit in Rome
@@ -545,7 +543,7 @@ Claim Timestamp: 01:04:56
 Claim: Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a "secret anti-Trump summit," with implied funding from Qatar.
 
 Anchored Artifacts: A-2012.3, A-2012.4
-Mentions: N-3, N-5, N-27, N-28, N-32
+Mentions: N-3, N-91, N-27, N-28, N-32
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
 **C-2807** Candace traveled to Rome with her family for confirmation
@@ -565,7 +563,7 @@ Claim Timestamp: 00:05:12
 Claim: Candace stated the photo of her that Trump used in his Truth Social post was originally shared by Candace herself on her Twitter account in August 2019.
 
 Anchored Artifacts: A-2013.1
-Mentions: N-3, N-6
+Mentions: N-3, N-5
 Investigative Direction: Verify the original August 2019 tweet directly on Candace's Twitter/X account.
 
 **C-2809** Candace was sick in 2016 from toxic mold exposure in her apartment

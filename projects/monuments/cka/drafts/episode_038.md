@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-451, N-453, N-454, N-455, N-456, N-457, N-458, N-459, N-460, N-461, N-1354, N-1355, N-1356, N-1357, N-1358, N-1359, N-1360, N-1361, N-1362, N-1363, N-1364, N-1365, N-1366, N-1367, N-1368
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-898
   - (see registers)
 
 ## 2. Executive Summary
@@ -52,7 +52,7 @@ Video Timestamp: 00:02:49–00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1781, C-1784, C-1786, N-3, N-4, N-5, N-6, N-454*
+*Related: C-1781, C-1784, C-1786, N-3, N-898, N-117, N-69, N-454*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:10:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-1782, N-9, N-3, N-1*
+*Related: C-1782, N-898, N-3, N-1*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific units, dates, and host-cited source)
 
-*Related: C-1783, N-1361, N-6*
+*Related: C-1783, N-1361, N-69*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:18:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted verbatim)
 
-*Related: C-1784, N-6, N-5*
+*Related: C-1784, N-69*
 
 ---
 
@@ -328,7 +328,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air; specific photo not displayed)
 
-*Related: C-1798, N-5, N-1365*
+*Related: C-1798, N-117, N-1365*
 
 **A-1475.2** Photograph of Brigitte Macron with Zelensky at an interstate meeting (September 4, 2025); separately a daytime photo of Brigitte with a Saudi Arabia orchestra event.
 
@@ -338,7 +338,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air)
 
-*Related: C-1799, N-5, N-8, N-1365*
+*Related: C-1799, N-117, N-1365*
 
 ---
 
@@ -543,6 +543,19 @@ Investigative Pressure: Medium
 
 ---
 
+**N-898** Emmanuel Macron
+
+French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).
+
+Evidence Count: 2
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1461.1, A-1462.1, C-1781, N-117, N-3*
+
+---
+
 **N-1354** French Street Wilmington Historical Cluster
 
 Persistent claim that Wilmington's North French Street originated as Willing Street in Thomas Willing's grid and was renamed after 1790s Haitian/French Revolution refugee settlement; central to the alleged "French network" narrative.
@@ -695,7 +708,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1475.1, A-1475.2, C-1798, C-1799, N-5*
+*Related: A-1475.1, A-1475.2, C-1798, C-1799, N-117*
 
 ---
 
@@ -747,7 +760,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-4, N-5, N-454
+Mentions: N-3, N-898, N-117, N-454
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -784,7 +797,7 @@ Claim Timestamp: 00:18:50
 Claim: The French Ministry of the Armed Forces issued a public statement that Tyler Robinson was never part of the French Foreign Legion and could not have trained with it if he did not serve in an American military unit.
 
 Anchored Artifacts: A-1466.1
-Mentions: N-5, N-6
+Mentions: N-69
 Investigative Direction: Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives.
 
 ---
@@ -963,7 +976,7 @@ Claim Timestamp: 00:39:55
 Claim: Brigitte Macron opened Paris Design Week on September 4, 2025, with the French Minister of Culture.
 
 Anchored Artifacts: A-1475.1
-Mentions: N-5
+Mentions: N-117
 Related Nodes: N-1365
 Investigative Direction: Verify via Paris Design Week official programming and French Ministry of Culture announcements.
 
@@ -976,7 +989,7 @@ Claim Timestamp: 00:39:55
 Claim: Brigitte Macron was photographed with Ukrainian President Zelensky on September 4, 2025, during an interstate meeting that also included a Saudi Arabia orchestra event.
 
 Anchored Artifacts: A-1475.2
-Mentions: N-5, N-8
+Mentions: N-117
 Related Nodes: N-1365
 Investigative Direction: Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.
 

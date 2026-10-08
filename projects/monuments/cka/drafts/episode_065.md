@@ -689,7 +689,7 @@ Claim Timestamp: 01:23:21
 Claim: Per host, her Phil Turney interview received approximately 7 million views, prompting New York Times outreach.
 
 Anchored Artifacts: A-1694.2 (viewer corroboration)
-Mentions: N-45, N-799
+Mentions: N-799
 
 Related Nodes: N-1522, N-1528, N-1535
 

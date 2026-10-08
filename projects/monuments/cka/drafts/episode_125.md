@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2113, N-2114, N-2115
   - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-37
+  - Hole-minted Nodes (wave1b): N-611
   - (see registers)
 
 ## 2. Executive Summary
@@ -331,6 +332,19 @@ Investigative Pressure: High
 
 ---
 
+**N-611** Danny Philip
+
+Turning Point USA employee (transcript spelling Danny Phillip). During an X Space Blake Neff indicated Danny may have been in the second SUV with him; the host traces his family ties to Merrill Lynch and Bank of America.
+
+Evidence Count: 2
+Claim Count: 3
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-2133.1, A-2134.1, C-3020, C-3021, C-3022*
+
+---
+
 **N-37** Tyler Bowyer
 
 Node Type: Person
@@ -386,6 +400,7 @@ Claim Timestamp: 00:15:25
 Claim: During the X Space, after prompting, Blake Neff indicated that Danny Phillip might have been in the second SUV with him.
 
 Anchored Artifacts: A-2133.1
+Mentions: N-611
 
 Related Nodes: N-2114
 
@@ -398,6 +413,7 @@ Claim Timestamp: 00:24:41
 Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.
 
 Anchored Artifacts: A-2134.1
+Mentions: N-611
 
 Related Nodes: N-1211, N-2115
 
@@ -410,6 +426,7 @@ Claim Timestamp: 00:24:41
 Claim: Danny Phillip's father Stephen Phillip was employed at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, with Russian studies educational background.
 
 Anchored Artifacts: A-2134.1
+Mentions: N-611
 
 Related Nodes: N-1210, N-2115
 

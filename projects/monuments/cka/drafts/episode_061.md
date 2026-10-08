@@ -644,7 +644,7 @@ Claim Timestamp: 00:40:27–00:41:23
 Claim: Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.
 
 Anchored Artifacts: A-1663.1, A-1664.1
-Mentions: N-70, N-770, N-772
+Mentions: N-770, N-772
 
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
@@ -672,7 +672,7 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-70, N-770, N-771
+Mentions: N-770, N-771
 
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.

@@ -33,9 +33,9 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-4",
-            "N-5",
-            "N-6",
+            "N-898",
+            "N-117",
+            "N-69",
             "N-454"
           ],
           "tags": [],
@@ -62,7 +62,7 @@
             "C-1782"
           ],
           "related_nodes": [
-            "N-9",
+            "N-898",
             "N-3",
             "N-1"
           ],
@@ -145,7 +145,7 @@
           ],
           "related_nodes": [
             "N-1361",
-            "N-6"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -171,8 +171,7 @@
             "C-1784"
           ],
           "related_nodes": [
-            "N-6",
-            "N-5"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -557,7 +556,7 @@
             "C-1798"
           ],
           "related_nodes": [
-            "N-5",
+            "N-117",
             "N-1365"
           ],
           "tags": [],
@@ -576,8 +575,7 @@
             "C-1799"
           ],
           "related_nodes": [
-            "N-5",
-            "N-8",
+            "N-117",
             "N-1365"
           ],
           "tags": [],
@@ -928,6 +926,30 @@
       "investigative_pressure": "medium"
     },
     {
+      "@type": "Person",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).",
+      "related_artifacts": [
+        "A-1461.1",
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-117",
+        "N-3"
+      ]
+    },
+    {
       "@type": "InvestigationTarget",
       "@id": "N-1354",
       "ref": "N-1354",
@@ -1186,7 +1208,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-5"
+        "N-117"
       ]
     },
     {
@@ -1290,25 +1312,33 @@
     },
     {
       "@type": "Person",
-      "@id": "N-4",
-      "ref": "N-4",
-      "name": "JD Vance",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Emmanuel Macron",
       "type": "person",
       "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1461.1",
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [
+        "N-117",
+        "N-3"
+      ]
     },
     {
       "@type": "Person",
-      "@id": "N-5",
-      "ref": "N-5",
-      "name": "Donald Trump",
+      "@id": "N-117",
+      "ref": "N-117",
+      "name": "Brigitte Macron",
       "type": "person",
       "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
       "related_artifacts": [],
@@ -1322,9 +1352,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-6",
-      "ref": "N-6",
-      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
       "type": "person",
       "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
       "related_artifacts": [],
@@ -1338,35 +1368,27 @@
     },
     {
       "@type": "Person",
-      "@id": "N-8",
-      "ref": "N-8",
-      "name": "Melody Hall",
-      "type": "person",
-      "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-9",
-      "ref": "N-9",
-      "name": "Holly Chalmers",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Emmanuel Macron",
       "type": "person",
       "description": "Publisher of Blake Neff profile article (A-2347).",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1461.1",
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [
+        "N-117",
+        "N-3"
+      ]
     }
   ],
   "claims": [
@@ -1385,8 +1407,8 @@
       "investigative_direction": "Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).",
       "mentions_person_refs": [
         "N-3",
-        "N-4",
-        "N-5",
+        "N-898",
+        "N-117",
         "N-454"
       ]
     },
@@ -1443,8 +1465,7 @@
       "claim_timestamp": "00:18:50",
       "investigative_direction": "Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives.",
       "mentions_person_refs": [
-        "N-5",
-        "N-6"
+        "N-69"
       ]
     },
     {
@@ -1483,7 +1504,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:45",
-      "investigative_direction": "Locate original France 24 article; verify whether the Ministry's denial extends to any Camp Ripley exercise or only to \"Camp Riley\" as named."
+      "investigative_direction": "Locate original France 24 article; verify whether the Ministry's denial extends to any Camp Ripley exercise or only to \"Camp Riley\" as named.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1499,7 +1521,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:39",
-      "investigative_direction": "Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units."
+      "investigative_direction": "Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1515,7 +1538,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:30",
-      "investigative_direction": "Locate original article; obtain official command-change notices; identify the six regiments and whether any are the 2nd Foreign Infantry Regiment."
+      "investigative_direction": "Locate original article; obtain official command-change notices; identify the six regiments and whether any are the 2nd Foreign Infantry Regiment.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1531,7 +1555,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:55",
-      "investigative_direction": "Verify via Wilmington city historical archives; corroborate the Thomas Willing grid and 1790s French/Haitian refugee settlement pattern with academic historical sources."
+      "investigative_direction": "Verify via Wilmington city historical archives; corroborate the Thomas Willing grid and 1790s French/Haitian refugee settlement pattern with academic historical sources.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1547,7 +1572,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:24",
-      "investigative_direction": "Identify the specific federal agencies at 920 North King Street via public lease records; verify the attorneys-of-record for the Macron v. Owens Delaware filing and their physical address."
+      "investigative_direction": "Identify the specific federal agencies at 920 North King Street via public lease records; verify the attorneys-of-record for the Macron v. Owens Delaware filing and their physical address.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1565,7 +1591,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
-      "investigative_direction": "Verify Bank of America's Bracebridge exit via Wilmington business filings or news archives; obtain Miriam Deed comment context (which public meeting or hearing)."
+      "investigative_direction": "Verify Bank of America's Bracebridge exit via Wilmington business filings or news archives; obtain Miriam Deed comment context (which public meeting or hearing).",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1658,7 +1685,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:58",
-      "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location."
+      "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1674,7 +1702,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:00",
-      "investigative_direction": "Verify the current Ace Partners portfolio and confirm Satys as a portfolio company; cross-reference Israeli corporate registry."
+      "investigative_direction": "Verify the current Ace Partners portfolio and confirm Satys as a portfolio company; cross-reference Israeli corporate registry.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1692,7 +1721,7 @@
       "claim_timestamp": "00:39:55",
       "investigative_direction": "Verify via Paris Design Week official programming and French Ministry of Culture announcements.",
       "mentions_person_refs": [
-        "N-5"
+        "N-117"
       ]
     },
     {
@@ -1711,8 +1740,7 @@
       "claim_timestamp": "00:39:55",
       "investigative_direction": "Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.",
       "mentions_person_refs": [
-        "N-5",
-        "N-8"
+        "N-117"
       ]
     },
     {

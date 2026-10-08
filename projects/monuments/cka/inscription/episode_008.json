@@ -353,6 +353,32 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2518",
+      "family_ref": "A-2518",
+      "bundle_name": "Catholic Mass Debate Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2518.1",
+          "ref": "A-2518.1",
+          "description": "Andrew Kolvet clip: verbal reference to videos of Charlie Kirk debating Michael Knowles (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3727"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-42",
+            "N-138"
+          ],
+          "tags": [],
+          "video_timestamp": "00:34:07–00:34:23",
+          "transcript_snippet": "You can go check the videos out him debating with uh Michael Nolles, you know,",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -512,19 +538,22 @@
         "A-1151.1",
         "A-1151.2",
         "A-1151.3",
-        "A-1151.4"
+        "A-1151.4",
+        "A-2518.1"
       ],
       "related_claims": [
         "C-1255",
         "C-1256",
         "C-1257",
-        "C-1258"
+        "C-1258",
+        "C-3727"
       ],
       "tags": [],
-      "evidence_count": 4,
-      "claim_count": 4,
+      "evidence_count": 5,
+      "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -666,21 +695,21 @@
       "@type": "Person",
       "@id": "N-138",
       "ref": "N-138",
-      "name": "Michael Nolles",
+      "name": "Michael Knowles",
       "type": "person",
       "description": "Catholic debate partner of Charlie Kirk referenced by Kovette.",
       "related_artifacts": [
-        "A-1146.1",
-        "A-1151.1"
+        "A-2518.1"
       ],
       "related_claims": [
-        "C-1245"
+        "C-3727"
       ],
       "tags": [],
-      "evidence_count": 2,
+      "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -694,101 +723,6 @@
       ],
       "related_claims": [
         "C-1260"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-139",
-      "ref": "N-139",
-      "name": "John Heinchell",
-      "type": "person",
-      "description": "Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.",
-      "related_artifacts": [
-        "A-1146.1"
-      ],
-      "related_claims": [
-        "C-1245"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-140",
-      "ref": "N-140",
-      "name": "Jenna V",
-      "type": "person",
-      "description": "Commenter thanking host and recalling mutual support with Charlie.",
-      "related_artifacts": [
-        "A-1146.1"
-      ],
-      "related_claims": [
-        "C-1245"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-141",
-      "ref": "N-141",
-      "name": "Tempes",
-      "type": "person",
-      "description": "Commenter on Charlie's spiritual status.",
-      "related_artifacts": [
-        "A-1146.1"
-      ],
-      "related_claims": [
-        "C-1245"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-142",
-      "ref": "N-142",
-      "name": "Carl",
-      "type": "person",
-      "description": "Commenter thanking host for questioning the establishment.",
-      "related_artifacts": [
-        "A-1146.1"
-      ],
-      "related_claims": [
-        "C-1245"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-143",
-      "ref": "N-143",
-      "name": "Mary Kelly",
-      "type": "person",
-      "description": "Commenter praying via Flame of Love rosaries.",
-      "related_artifacts": [
-        "A-1146.1"
-      ],
-      "related_claims": [
-        "C-1245"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -826,44 +760,6 @@
       ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
-      "name": "Milana",
-      "type": "person",
-      "description": "Commenter asking about homeschooling curriculum.",
-      "related_artifacts": [
-        "A-1146.1"
-      ],
-      "related_claims": [
-        "C-1245"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
-      "name": "Lover of Light",
-      "type": "person",
-      "description": "Commenter asking host to share personal stories.",
-      "related_artifacts": [
-        "A-1154.1"
-      ],
-      "related_claims": [
-        "C-1254"
-      ],
-      "tags": [],
-      "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
@@ -1363,14 +1259,7 @@
       "mentions_person_refs": [
         "N-92",
         "N-110",
-        "N-137",
-        "N-138",
-        "N-139",
-        "N-140",
-        "N-141",
-        "N-142",
-        "N-143",
-        "N-146"
+        "N-137"
       ]
     },
     {
@@ -1573,8 +1462,7 @@
       "transcript_snippet": "the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-69",
-        "N-147"
+        "N-69"
       ]
     },
     {
@@ -1831,6 +1719,27 @@
       "confidence": "low",
       "mentions_person_refs": [
         "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3727",
+      "ref": "C-3727",
+      "label": "Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology",
+      "claim": "Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as \"Andrew's response to the Catholic question\"), says Charlie Kirk debated Michael Knowles (transcript: \"Michael Nolles\") in good fun on Protestant versus Catholic theology and that they were dear friends.",
+      "anchored_artifacts": [
+        "A-2518.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:12",
+      "investigative_direction": "Locate the Charlie Kirk and Michael Knowles debate videos.",
+      "transcript_snippet": "You can go check the videos out him debating with uh Michael Nolles, you know,",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42",
+        "N-138"
       ]
     }
   ],

@@ -293,6 +293,30 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2517",
+      "family_ref": "A-2517",
+      "bundle_name": "Harley Pastnic Genealogy Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2517.1",
+          "ref": "A-2517.1",
+          "description": "Host genealogy reference to Harley Pastnic's family business in piping and valves (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3726"
+          ],
+          "related_nodes": [
+            "N-115"
+          ],
+          "tags": [],
+          "video_timestamp": "00:15:56–00:16:21",
+          "transcript_snippet": "when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -592,16 +616,17 @@
       "type": "person",
       "description": "Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.",
       "related_artifacts": [
-        "A-1111.1"
+        "A-2517.1"
       ],
       "related_claims": [
-        "C-1186"
+        "C-3726"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -611,10 +636,10 @@
       "type": "person",
       "description": "Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.",
       "related_artifacts": [
-        "A-1111.1"
+        "A-1115.1"
       ],
       "related_claims": [
-        "C-1186"
+        "C-1192"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1160,9 +1185,9 @@
         "A-1111.1"
       ],
       "related_nodes": [
+        "N-1077",
         "N-1116",
-        "N-1127",
-        "N-1077"
+        "N-1127"
       ],
       "tags": [],
       "claim_timestamp": "00:06:54",
@@ -1170,10 +1195,7 @@
       "transcript_snippet": "a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-69",
-        "N-115",
-        "N-116",
-        "N-117"
+        "N-69"
       ]
     },
     {
@@ -1313,8 +1335,8 @@
       "transcript_snippet": "somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1",
-        "N-65"
+        "N-65",
+        "N-116"
       ]
     },
     {
@@ -1584,6 +1606,25 @@
         "N-42",
         "N-50",
         "N-107"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3726",
+      "ref": "C-3726",
+      "label": "Host notes Harley Pastnic family was in piping and valves",
+      "claim": "The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pastnic, his family was in piping and valves.",
+      "anchored_artifacts": [
+        "A-2517.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:08",
+      "investigative_direction": "Check whether the valve business the host refers to connects to Harley Pastnic's family.",
+      "transcript_snippet": "when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-115"
       ]
     }
   ],

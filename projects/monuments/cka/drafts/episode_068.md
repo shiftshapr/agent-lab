@@ -531,7 +531,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 Claim Timestamp: 00:46:39
 Claim: William Stevenson, 77, of Wilmington, Delaware — ex-husband of Jill Biden (married 1970–1975) — was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
 Anchored Artifacts: A-1736.1
-Mentions: N-883, N-888, N-889
+Mentions: N-883, N-889
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
 
 ---

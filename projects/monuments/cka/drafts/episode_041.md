@@ -351,7 +351,7 @@ Claim Timestamp: 00:25:13
 Claim: Ben Shapiro appeared on Greg Gutfeld's show and joked that he "called French intelligence and something may or may not have happened to Greg [Gutfeld]."
 
 Anchored Artifacts: A-1497.1
-Mentions: N-483
+Mentions:
 
 
 Investigative Direction: Verify clip against original Gutfeld show broadcast; confirm exact wording.

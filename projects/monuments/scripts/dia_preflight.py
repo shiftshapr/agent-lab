@@ -209,8 +209,10 @@ def first_introduction_meta(
 
 def load_forbidden_retired_citations(config_path: Path, active_ids: set[int]) -> set[int]:
     """
-    Tombstone keys legacy-N-X document history; X may be reclaimed on the active ledger.
-    Forbid citing N-X only when X is not on the active register (unmapped ghost ids).
+    Tombstone keys legacy-N-X document history. A tombstoned X is never reclaimed for a new
+    entity (one person, one node); X stays citable only while it is still the active id of the
+    same entity (survivor collapse onto the lowest id). Forbid citing N-X when X is not on the
+    active register (unmapped ghost ids).
     """
     if not config_path.is_file():
         return set()
@@ -701,6 +703,699 @@ def _git_head(monument_dir: Path) -> str | None:
         return None
 
 
+# ---------------------------------------------------------------------------
+# Wave 1 adversarial gates (CKA audit 9f16249: PPL-P0-1, PPL-P1-3, MEN-P1-1,
+# CLM-P1-1, CLM-P1-2, CLM-P1-5). All are merge-blocking (P1).
+# ---------------------------------------------------------------------------
+
+HONORIFIC_RE = re.compile(
+    r"^(?:Father|Fr\.|Pastor|Rev\.|Reverend|Dr\.|Mr\.|Mrs\.|Ms\.|Sen\.|Senator|Rep\.|Judge|Bishop|Rabbi|Sheriff|Officer|Detective)\s+[A-Z]"
+)
+NAME_SUFFIX_RE = re.compile(r"^(?:Jr\.?|Sr\.?|II|III|IV|V)$")
+TRANSCRIPT_MARKER_RE = re.compile(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\]")
+CLAIM_TS_LINE_RE = re.compile(r"^Claim Timestamp:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+CLAIM_HEADER_ANY_RE = re.compile(r"^\*\*(C-\d+)\b[^*\n]*\*\*", re.MULTILINE)
+YOUTUBE_ID_META_RE = re.compile(r"^\s*-\s*\*\*YouTube id\*\*:\s*(\S+)", re.MULTILINE | re.IGNORECASE)
+END_TOLERANCE_SECONDS = 60
+TRANSCRIPT_EXTS = (".txt", ".md")  # CKA: eps 1-10 are .txt, eps 11+ are .md
+HOLE_MINTED_RE = re.compile(r"^[ \t]*-[ \t]*Hole-minted Nodes \(([A-Za-z0-9_.\-]+)\):[ \t]*(.*)$", re.MULTILINE)
+REUSED_NODES_RE = re.compile(r"^[ \t]*-[ \t]*Reused Nodes Appearing:[ \t]*(.*)$", re.MULTILINE)
+# Secondary reuse lines (for example "Existing Nodes Reused: ...", with or without a leading "- " or bold).
+EXISTING_REUSED_RE = re.compile(r"^[ \t]*(?:-[ \t]*)?(?:\*\*)?Existing Nodes Reused:(?:\*\*)?[ \t]*(.*)$", re.MULTILINE)
+NEW_NODES_LINE_RE = re.compile(r"New Nodes Introduced:[ \t]*(.*)$", re.MULTILINE)
+
+
+def _hms_seconds(raw: str) -> int | None:
+    m = re.search(r"(\d{1,2}):(\d{2}):(\d{2})", raw)
+    if not m:
+        return None
+    h, mi, s = (int(x) for x in m.groups())
+    return h * 3600 + mi * 60 + s
+
+
+def _marker_seconds(tok: str) -> int:
+    parts = [int(x) for x in tok.split(":")]
+    if len(parts) == 2:
+        return parts[0] * 60 + parts[1]
+    return parts[0] * 3600 + parts[1] * 60 + parts[2]
+
+
+def find_transcript(monument_dir: Path, ep: int) -> Path | None:
+    for sub in ("transcripts_corrected", "transcripts"):
+        d = monument_dir / sub
+        if not d.is_dir():
+            continue
+        for ext in TRANSCRIPT_EXTS:
+            hits = sorted(d.glob(f"episode_{ep:03d}_*{ext}")) or sorted(d.glob(f"episode_{ep:03d}{ext}"))
+            if hits:
+                return hits[0]
+    return None
+
+
+def iter_claim_blocks(content: str) -> list[tuple[str, str, str]]:
+    """(claim_id, label, block_text) for claim definitions in the Claim Register."""
+    reg = _claim_register_slice(content)
+    headers = list(CLAIM_HEADER_RE.finditer(reg))
+    out: list[tuple[str, str, str]] = []
+    for i, hm in enumerate(headers):
+        label = _norm_claim_text(hm.group(2))
+        if not label or CLAIM_META_LABEL_RE.search(label):
+            continue
+        end = headers[i + 1].start() if i + 1 < len(headers) else len(reg)
+        out.append((hm.group(1), label, reg[hm.start():end]))
+    return out
+
+
+ORG_TOPIC_WORDS = frozenset(
+    """inc llc ltd corp corporation company church chapel university college school academy institute foundation
+    ministries ministry media news network group party center centre department dept office agency bureau police
+    county city state association society committee council club fund trust project program programme act bill court
+    hotel ranch street road park lake valley airport base army navy force forces command unit team staff podcast show
+    channel magazine times post journal tribune press radio tv records report timeline question anomaly allegation
+    allegations claim claims discrepancy issue theory narrative case video footage clip photo statement memo letter
+    timeline verification connection relationship scope position background identification review evidence""".split()
+)
+NAME_STOPWORDS = frozenset("the a an daily new old north south east west great saint".split())
+RELATION_WORDS = frozenset(
+    "son daughter wife husband brother sister mother father family friend team staff unknown unidentified".split()
+)
+
+
+def _norm_text(s: str) -> str:
+    s = s.lower().replace("\u2019", "'").replace("\u2018", "'")
+    s = re.sub(r"[^a-z0-9' ]", " ", s)
+    return " ".join(s.split())
+
+
+def _strip_name(name: str) -> str:
+    n = re.sub(r"\([^)]*\)|\*[^*]*\*", " ", name).replace('"', " ")
+    return _norm_name(n)
+
+
+def _split_qualifier(name: str) -> tuple[str, str]:
+    """Split 'Head - rest' on a spaced dash or colon; return (head, rest)."""
+    parts = re.split(r"\s+[\u2014\u2013-]\s+|:\s", name, maxsplit=1)
+    return parts[0].strip(), (parts[1].strip() if len(parts) > 1 else "")
+
+
+def _person_name_index(canonical: dict[str, dict[str, Any]]) -> tuple[dict[str, int], set[str], set[str]]:
+    full: dict[str, int] = {}
+    firsts: set[str] = set()
+    lasts: set[str] = set()
+    for key, meta in canonical.items():
+        m = re.match(r"N-(\d+)$", key)
+        if not m:
+            continue
+        nid = int(m.group(1))
+        if nid >= 1000 and nid < PERSON_HIGH_MIN:
+            continue
+        if str(meta.get("type") or "person").lower() not in PERSON_TYPES:
+            continue
+        for raw in [meta.get("canonical_name") or "", *(meta.get("aliases") or [])]:
+            nm = _split_qualifier(_strip_name(str(raw)))[0]
+            nm = re.split(r"'s\b|\u2019s\b", nm)[0].strip()
+            if not nm:
+                continue
+            full.setdefault(_norm_text(nm), nid)
+            toks = [t for t in re.findall(r"[A-Za-z][A-Za-z'.\-]*", nm) if not NAME_SUFFIX_RE.match(t)]
+            caps = [t for t in toks if t[0].isupper()]
+            if len(caps) >= 2:
+                if len(caps[0]) >= 3 and caps[0].lower() not in RELATION_WORDS:
+                    firsts.add(caps[0].lower())
+                if len(caps[-1]) >= 3 and caps[-1].lower() not in RELATION_WORDS:
+                    lasts.add(caps[-1].lower())
+    return full, firsts, lasts
+
+
+def person_like_reason(name: str, full: dict[str, int], firsts: set[str], lasts: set[str]) -> str:
+    """Return a reason string when a topic-band name looks like a person, else ''.
+
+    A capitalised qualifier after a dash ("Officer X - Body-Cam Anomaly") marks a topic about a
+    person, not a person; a lower-case description ("Charlie Kirk - referenced throughout") does not.
+    """
+    head, rest = _split_qualifier(_strip_name(name))
+    if not head or (rest and rest[:1].isupper()):
+        return ""
+    nh = _norm_text(head)
+    if nh in full:
+        return f"name matches Person N-{full[nh]}"
+    toks = head.split()
+    if HONORIFIC_RE.match(head) and 2 <= len(toks) <= 3:
+        return "honorific plus personal name"
+    words = [w.strip(".,") for w in toks]
+    if len(words) == 2 and all(re.fullmatch(r"[A-Z][a-z][a-zA-Z'\-]*", w) for w in words):
+        low = [w.lower() for w in words]
+        if any(w in ORG_TOPIC_WORDS or w in NAME_STOPWORDS for w in low):
+            return ""
+        if low[0] in firsts:
+            return "first-name plus surname shape (first name shared with a Person node)"
+        if low[1] in lasts:
+            return "first-name plus surname shape (surname shared with a Person node)"
+    return ""
+
+
+def check_person_like_topic(
+    report: PreflightReport,
+    intro: dict[int, RegisterEntry],
+    canonical: dict[str, dict[str, Any]],
+) -> None:
+    """P1: a person minted in the topic band (N-1000..N-9999) under a non-person type."""
+    full, firsts, lasts = _person_name_index(canonical)
+    candidates: list[tuple[int, str, str, str]] = []
+    for nid, ent in intro.items():
+        if 1000 <= nid <= TOPIC_BAND_MAX:
+            candidates.append((nid, ent.name, ent.node_type, ent.episode_file))
+    for key, meta in canonical.items():
+        m = re.match(r"N-(\d+)$", key)
+        if m and 1000 <= int(m.group(1)) <= TOPIC_BAND_MAX:
+            candidates.append(
+                (int(m.group(1)), str(meta.get("canonical_name") or ""), str(meta.get("type") or "").lower(), "canonical/nodes.json")
+            )
+    seen: set[int] = set()
+    for nid, name, ntype, where in candidates:
+        if nid in seen:
+            continue
+        if ntype in PERSON_TYPES:
+            if where == "canonical/nodes.json":
+                seen.add(nid)
+                report.add(
+                    "P1",
+                    "person_like_topic",
+                    f"{where}: N-{nid} ({name}) is typed person in the topic band; persons live in N-1..N-999",
+                    f"N-{nid}",
+                )
+            continue  # register rows typed person are already P0 person_band
+        reason = person_like_reason(name, full, firsts, lasts)
+        if reason:
+            seen.add(nid)
+            report.add(
+                "P1",
+                "person_like_topic",
+                f"{where}: N-{nid} ({name}) typed {ntype or 'untyped'!r} in topic band but looks like a person ({reason}); "
+                "move into a Person hole N-1..N-999 or collapse onto the existing Person",
+                f"N-{nid}",
+            )
+
+
+GROUNDING_COMMON = frozenset(
+    """the and of mr mrs ms dr jr sr st de la van von al el bin ben john james michael david robert mark paul peter chris
+    jack mike matt tom tim joe dan bob bill steve scott ryan josh andrew kevin brian eric sam nick alex adam jason
+    justin tyler lance charlie erika candace donald george thomas william richard joseph charles daniel jennifer mary
+    elizabeth anna sarah amy lisa laura karen susan emily jessica host director father mother son daughter brother
+    sister wife husband pastor reverend anonymous unknown unnamed producer caller resident victim operator camera
+    event""".split()
+)
+
+
+def grounding_keys(names: list[str]) -> tuple[set[str], set[str]]:
+    """Normalized full names (>=4 chars) and distinctive name words (>=4 chars, not common first names)."""
+    full: set[str] = set()
+    parts: set[str] = set()
+    for raw in names:
+        if not raw:
+            continue
+        nm = re.sub(r"\([^)]*\)|\*[^*]*\*", " ", str(raw)).replace('"', " ")
+        nn = _norm_text(nm)
+        if len(nn) >= 4 or re.fullmatch(r"\s*[A-Z]{3}\s*", nm):
+            full.add(nn)  # 3-letter all-caps aliases (PBD, RFK) are distinctive
+        for w in nn.split():
+            if len(w) >= 4 and w not in GROUNDING_COMMON:
+                parts.add(w)
+    return full, parts
+
+
+def load_gate_config(monument_dir: Path) -> dict[str, Any]:
+    path = monument_dir / "config" / "preflight_gates.json"
+    if not path.is_file():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def transcript_segments(raw: str) -> list[tuple[int, int, str]]:
+    """(start_s, end_s, normalized text) per transcript marker, in file order.
+
+    A segment runs from its marker to the next marker; an out-of-order marker (chapter list in the
+    header) covers only its own second.
+    """
+    marks = list(TRANSCRIPT_MARKER_RE.finditer(raw))
+    out: list[tuple[int, int, str]] = []
+    for i, m in enumerate(marks):
+        start = _marker_seconds(m.group(1))
+        nxt = marks[i + 1] if i + 1 < len(marks) else None
+        nsec = _marker_seconds(nxt.group(1)) if nxt else start + 60
+        end = nsec if nsec >= start else start
+        text = raw[m.end(): nxt.start() if nxt else len(raw)]
+        out.append((start, end, _norm_text(text)))
+    return out
+
+
+def claim_window(block: str, ep: int, cfg: dict[str, Any]) -> tuple[int, int, int] | None:
+    """(start - w, end + w, w) around the Claim Timestamp, or None when windowing is off / no timestamp."""
+    w = cfg.get("window_seconds")
+    if not w:
+        return None
+    if ep <= int(cfg.get("early_max_episode") or 0):
+        w = cfg.get("window_seconds_early") or w
+    tm = CLAIM_TS_LINE_RE.search(block)
+    if not tm:
+        return None
+    secs = [int(h) * 3600 + int(mi) * 60 + int(sec) for h, mi, sec in re.findall(r"(\d{1,2}):(\d{2}):(\d{2})", tm.group(1))]
+    if not secs or max(secs) <= 1:
+        return None  # missing or placeholder stamp (00:00:00-00:00:01): ground on the whole episode
+    return min(secs) - int(w), max(secs) + int(w), int(w)
+
+
+def check_mention_grounding(
+    report: PreflightReport,
+    monument_dir: Path,
+    episodes: list[tuple[int, str, Path, str]],
+    intro: dict[int, RegisterEntry],
+    canonical: dict[str, dict[str, Any]],
+) -> None:
+    """P1: a Mentions person whose name is absent from the claim text and the transcript near the claim.
+
+    Optional config/preflight_gates.json:
+      {"mention_grounding": {"exempt_ids": ["N-3"],
+                             "first_name_ok": ["N-1", "N-2"],
+                             "window_seconds": 240, "window_seconds_early": 480, "early_max_episode": 10,
+                             "reviewed": [{"claim": "C-1", "node": "N-2", "reason": "..."}]}}
+    exempt_ids covers the show host; first_name_ok lets the principals ground on a first name
+    ("Charlie", "Erika"); reviewed rows are human-verified role references (e.g. "her husband").
+    With window_seconds set, the transcript is searched only within +-window of the Claim
+    Timestamp (the early value applies to episodes <= early_max_episode). Claims with no timestamp,
+    a placeholder 00:00:00-00:00:01 stamp, or a timestamp past the last transcript marker fall
+    back to the whole episode transcript.
+    """
+    cfg = load_gate_config(monument_dir).get("mention_grounding") or {}
+    exempt = {str(x) for x in cfg.get("exempt_ids") or []}
+    first_ok = {str(x) for x in cfg.get("first_name_ok") or []}
+    reviewed = {(str(r.get("claim")), str(r.get("node"))) for r in cfg.get("reviewed") or []}
+    keys_by_nid: dict[int, tuple[set[str], set[str]]] = {}
+
+    def keys(nid: int) -> tuple[set[str], set[str]]:
+        if nid not in keys_by_nid:
+            meta = canonical.get(f"N-{nid}") or {}
+            names = [str(meta.get("canonical_name") or ""), *(str(a) for a in meta.get("aliases") or [])]
+            ent = intro.get(nid)
+            if ent:
+                names.append(ent.name)
+            full, parts = grounding_keys(names)
+            if f"N-{nid}" in first_ok:
+                for nm in names:
+                    toks = _norm_text(re.sub(r"\([^)]*\)", " ", nm)).split()
+                    if toks and len(toks[0]) >= 3:
+                        parts.add(toks[0])
+            keys_by_nid[nid] = (full, parts)
+        return keys_by_nid[nid]
+
+    def hit(text: str, ks: tuple[set[str], set[str]]) -> bool:
+        return any(re.search(r"\b" + re.escape(k) + r"\b", text) for k in ks[0] | ks[1])
+
+    for ep, ep_name, _path, content in episodes:
+        tpath = find_transcript(monument_dir, ep)
+        if tpath is None:
+            continue
+        raw = tpath.read_text(encoding="utf-8", errors="replace")
+        transcript = _norm_text(TRANSCRIPT_MARKER_RE.sub(" ", raw))
+        segments = transcript_segments(raw)
+        last_mark = max((seg[0] for seg in segments), default=None)
+        cache: dict[int, bool] = {}
+        for cid, _label, block in iter_claim_blocks(content):
+            mm = MENTIONS_LINE_RE.search(block)
+            if not mm:
+                continue
+            text = _norm_text(block)
+            win = claim_window(block, ep, cfg)
+            if win is not None and (last_mark is None or win[0] + win[2] > last_mark + END_TOLERANCE_SECONDS):
+                win = None  # past the end: claim_ts_past_end reports it; ground on the whole episode
+            wtext = None
+            if win is not None:
+                wtext = " ".join(t for a, b, t in segments if b >= win[0] and a <= win[1])
+            for tok in N_ID_TOKEN_RE.finditer(mm.group(1)):
+                nid = int(tok.group(1))
+                key = f"N-{nid}"
+                if 1000 <= nid < PERSON_HIGH_MIN or key in exempt or (cid, key) in reviewed:
+                    continue
+                ks = keys(nid)
+                if not ks[0] and not ks[1]:
+                    continue
+                if hit(text, ks):
+                    continue
+                if wtext is not None:
+                    if hit(wtext, ks):
+                        continue
+                    where = f"the transcript within +-{win[2]}s of the claim timestamp"
+                else:
+                    if nid not in cache:
+                        cache[nid] = hit(transcript, ks)
+                    if cache[nid]:
+                        continue
+                    where = "the episode transcript"
+                name = (canonical.get(key) or {}).get("canonical_name") or (intro[nid].name if nid in intro else "?")
+                report.add(
+                    "P1",
+                    "mention_grounding",
+                    f"{ep_name}: {cid} Mentions {key} ({name}) but the name is absent from the claim text and {where}",
+                    f"{cid}:{key}",
+                )
+
+
+def _episode_end_seconds(monument_dir: Path, ep: int, content: str, durations: dict[str, int]) -> tuple[int | None, str]:
+    yt = None
+    m = YOUTUBE_ID_META_RE.search(content)
+    if m:
+        yt = m.group(1).strip()
+    tpath = find_transcript(monument_dir, ep)
+    if not yt and tpath is not None:
+        tm = re.match(rf"episode_{ep:03d}_(.+)\.(?:txt|md)$", tpath.name)
+        if tm:
+            yt = tm.group(1)
+    if yt and yt in durations:
+        return int(durations[yt]), f"YouTube duration ({yt})"
+    if tpath is not None:
+        marks = TRANSCRIPT_MARKER_RE.findall(tpath.read_text(encoding="utf-8", errors="replace"))
+        if marks:
+            return max(_marker_seconds(x) for x in marks), "last transcript marker"
+    return None, ""
+
+
+def check_claim_ts_past_end(
+    report: PreflightReport,
+    monument_dir: Path,
+    episodes: list[tuple[int, str, Path, str]],
+) -> None:
+    """P1: Claim Timestamp after the end of the episode.
+
+    End = config/yt_durations.json duration for the episode YouTube id, else the last transcript
+    marker. Monuments without yt_durations.json skip this gate.
+    """
+    dpath = monument_dir / "config" / "yt_durations.json"
+    if not dpath.is_file():
+        return  # gate needs authoritative durations; monuments without yt_durations.json opt out
+    durations = dict(json.loads(dpath.read_text(encoding="utf-8")).get("by_youtube_id") or {})
+    for ep, ep_name, _path, content in episodes:
+        end, source = _episode_end_seconds(monument_dir, ep, content, durations)
+        if end is None:
+            continue
+        for cid, _label, block in iter_claim_blocks(content):
+            tm = CLAIM_TS_LINE_RE.search(block)
+            if not tm:
+                continue
+            start = _hms_seconds(tm.group(1))
+            if start is None:
+                continue
+            if start > end + END_TOLERANCE_SECONDS:
+                report.add(
+                    "P1",
+                    "claim_ts_past_end",
+                    f"{ep_name}: {cid} Claim Timestamp {tm.group(1).strip()!r} is past the episode end ({end // 3600:02d}:{end % 3600 // 60:02d}:{end % 60:02d}, {source})",
+                    cid,
+                )
+
+
+def check_claims_missing_from_drafts(
+    report: PreflightReport,
+    monument_dir: Path,
+    episodes: list[tuple[int, str, Path, str]],
+) -> None:
+    """P1: claim minted in the inscription ledger but not defined in any draft."""
+    ins_dir = monument_dir / "inscription"
+    if not ins_dir.is_dir():
+        return
+    defined: set[str] = set()
+    for _ep, _name, _path, content in episodes:
+        defined.update(m.group(1) for m in CLAIM_HEADER_RE.finditer(content))
+    for jpath in sorted(ins_dir.glob("episode_*.json")):
+        if not re.match(r"episode_\d{3}\.json$", jpath.name):
+            continue
+        data = json.loads(jpath.read_text(encoding="utf-8"))
+        for claim in data.get("claims") or []:
+            cid = str(claim.get("@id") or claim.get("ref") or "")
+            if re.match(r"C-\d+$", cid) and cid not in defined:
+                report.add(
+                    "P1",
+                    "claim_missing_from_drafts",
+                    f"inscription/{jpath.name}: {cid} is minted in the inscription but not defined in any draft",
+                    cid,
+                )
+
+
+def check_duplicate_claim_headers(
+    report: PreflightReport,
+    episodes: list[tuple[int, str, Path, str]],
+) -> None:
+    """P1: the same C-id header appears more than once (including residue headers like **C-1 / C-2**)."""
+    seen: dict[str, list[str]] = {}
+    for _ep, ep_name, _path, content in episodes:
+        reg = _claim_register_slice(content)
+        base = content.find(reg) if reg else 0
+        for m in CLAIM_HEADER_ANY_RE.finditer(reg):
+            line_no = content.count("\n", 0, max(base, 0) + m.start()) + 1
+            seen.setdefault(m.group(1), []).append(f"{ep_name}:{line_no}")
+    for cid, locs in sorted(seen.items(), key=lambda kv: int(kv[0][2:])):
+        if len(locs) > 1:
+            report.add(
+                "P1",
+                "duplicate_claim_header",
+                f"{cid} header defined {len(locs)} times ({', '.join(locs)}); no id may be defined twice",
+                cid,
+            )
+
+
+def check_tombstone_collision(report: PreflightReport, canonical: dict[str, dict[str, Any]]) -> None:
+    """P1: an active canonical id listed in another node's retired_ids."""
+    for key, meta in canonical.items():
+        for rid in meta.get("retired_ids") or []:
+            if rid in canonical and rid != key:
+                report.add(
+                    "P1",
+                    "tombstone_collision",
+                    f"canonical/nodes.json: active {rid} ({canonical[rid].get('canonical_name')}) is also a retired id of {key} ({meta.get('canonical_name')})",
+                    rid,
+                )
+
+
+ANNOT_RE = re.compile(r"\b(N-\d+)\s*\(([^()\n]{2,160})\)")
+ANNOT_FILLER = frozenset(
+    "assumed reference ref node entity if exists existing new prior likely possibly aka the de del da van von la le jr sr ii iii iv and or also".split()
+)
+ANNOT_DESCRIPTOR_CAPS = frozenset(
+    "existing new context topic person people investigation referenced see cross host guest none tbd unknown unidentified verification note".split()
+)
+ANNOT_STOP = frozenset("the a an of and for with from".split())
+
+
+def annotation_label_name(label: str) -> str:
+    """Personal-name head of an 'N-x (Label)' annotation, or '' when the label is descriptive.
+
+    The head is the text before a spaced dash, comma, semicolon, colon, ' / ' or 'vs'. Every word
+    must be Capitalised (or filler such as 'existing', 'assumed', 'node'); any lower-case word or
+    number marks a description ("verbal reference", "2 claims"), which is not checked.
+    """
+    head = re.split(r"\s+[\u2014\u2013-]\s+|,|;|:|\s/\s|\s+vs\.?\s+", label, maxsplit=1)[0]
+    head = head.strip().strip('"\u201c\u201d')
+    caps: list[str] = []
+    for tok in head.split():
+        w = tok.strip('.,"\u201c\u201d\'')
+        if not w or w.lower() in ANNOT_FILLER:
+            continue
+        if re.fullmatch(r"[A-Z][A-Za-z'.\-]*|[A-Z]\.?", w):
+            caps.append(w)
+            continue
+        return ""
+    if not caps or (len(caps) == 1 and caps[0].lower() in ANNOT_DESCRIPTOR_CAPS):
+        return ""
+    return " ".join(caps)
+
+
+def _annot_tokens(text: str) -> list[str]:
+    return [t for t in _norm_text(text).split() if t not in ANNOT_STOP and t not in ANNOT_FILLER]
+
+
+def annotation_name_matches(label: str, names: list[str], *, person: bool = False) -> bool:
+    """Label agrees with one of the node names.
+
+    Accepted: equal or contained, acronym, or a shared word (>=3 chars). For a person node a
+    multi-word label must also share the surname: its last word must equal the last word of one of
+    the names (so "Blake Wynn" does not pass on Blake Neff). A one-word label ("Charlie", "Cox")
+    may match any name word. Parenthetical parts of a name ("Donald Trump Jr. (Don Jr.)") count as
+    extra names.
+    """
+    nl = _norm_text(label)
+    ltoks = _annot_tokens(label)
+    lt = {t for t in ltoks if len(t) >= 3}
+    variants: list[str] = []
+    for n in names:
+        variants.append(re.sub(r"\([^)]*\)", " ", n))
+        variants.extend(re.findall(r"\(([^)]*)\)", n))
+    for n in variants:
+        nn = _norm_text(n)
+        if not nn:
+            continue
+        if nl == nn or nl in nn or nn in nl:
+            return True
+        acr = "".join(w[0] for w in re.findall(r"[A-Za-z]+", n) if w[0].isupper()).lower()
+        if len(nl.replace(" ", "")) >= 2 and nl.replace(" ", "") == acr:
+            return True
+        ntoks = _annot_tokens(n)
+        if not (lt & {t for t in ntoks if len(t) >= 3}):
+            continue
+        if person and len(ltoks) >= 2 and ntoks and ltoks[-1] != ntoks[-1]:
+            continue
+        return True
+    return False
+
+
+def _is_person_node(key: str, meta: dict[str, Any] | None, reg_types: dict[int, set[str]]) -> bool:
+    """Person band id, canonical type person, or a register row typed Person."""
+    nid = int(key[2:])
+    if meta is not None and str(meta.get("type") or "").lower() == "person":
+        return True
+    if nid < 1000 or nid >= PERSON_HIGH_MIN:
+        return True
+    return "person" in reg_types.get(nid, set())
+
+
+def check_name_annotation_mismatch(
+    report: PreflightReport,
+    episodes: list[tuple[int, str, Path, str]],
+    register: list[RegisterEntry],
+    canonical: dict[str, dict[str, Any]],
+) -> None:
+    """P1: an inline 'N-x (Name)' annotation whose Name is not node x (wrong-person id use).
+
+    Names come from canonical/nodes.json (canonical_name + aliases) when the id is there, else from
+    every register row for the id. Descriptive labels ("verbal reference") are ignored. For person
+    nodes a multi-word label must share the surname (see annotation_name_matches).
+    """
+    reg_names: dict[int, list[str]] = {}
+    reg_types: dict[int, set[str]] = {}
+    for e in register:
+        reg_names.setdefault(e.nid, []).append(e.name)
+        reg_types.setdefault(e.nid, set()).add(str(getattr(e, "node_type", "") or "").lower())
+    for _ep, ep_name, _path, content in episodes:
+        for line_no, line in enumerate(content.splitlines(), 1):
+            for m in ANNOT_RE.finditer(line):
+                label = annotation_label_name(m.group(2))
+                if not label:
+                    continue
+                key = m.group(1)
+                meta = canonical.get(key)
+                names = (
+                    [str(meta.get("canonical_name") or ""), *(str(a) for a in meta.get("aliases") or [])]
+                    if meta
+                    else reg_names.get(int(key[2:]), [])
+                )
+                if not names:
+                    report.add(
+                        "P1",
+                        "name_annotation_mismatch",
+                        f"{ep_name}:{line_no}: {key} ({m.group(2)}) annotates an id with no node",
+                        f"{ep_name}:{line_no}:{key}",
+                    )
+                elif not annotation_name_matches(label, names, person=_is_person_node(key, meta, reg_types)):
+                    report.add(
+                        "P1",
+                        "name_annotation_mismatch",
+                        f"{ep_name}:{line_no}: {key} is annotated as {label!r} but node {key} is {names[0]!r}; retarget to the right id or drop it",
+                        f"{ep_name}:{line_no}:{key}",
+                    )
+
+
+def collect_hole_minted(episodes: list[tuple[int, str, Path, str]]) -> list[tuple[int, str, str, int, int]]:
+    """(episode, episode_file, batch, index, nid) for every 'Hole-minted Nodes (batch): ...' ledger line."""
+    out: list[tuple[int, str, str, int, int]] = []
+    for ep, ep_name, _path, content in episodes:
+        for m in HOLE_MINTED_RE.finditer(content):
+            for idx, tok in enumerate(re.findall(r"N-(\d+)", m.group(2))):
+                out.append((ep, ep_name, m.group(1), idx, int(tok)))
+    return out
+
+
+def check_hole_minted(
+    report: PreflightReport,
+    monument_dir: Path,
+    episodes: list[tuple[int, str, Path, str]],
+    intro: dict[int, RegisterEntry],
+    canonical: dict[str, dict[str, Any]],
+) -> None:
+    """P0 order lock for ids minted into free holes below the band frontier.
+
+    Hole mints cannot sit on 'New Nodes Introduced' (that line must ascend) and must not hide on
+    'Reused Nodes Appearing' or a secondary 'Existing Nodes Reused' line. They go on '  - Hole-minted Nodes (<batch>): N-a, N-b' in the episode
+    where each id gets its first register row. Per batch and band, ids must ascend in episode
+    order (compact first-introduction order), and person-band batches must be compact: no free
+    person id (not active, not tombstoned, not on the episode_000 baseline ledger) may remain
+    below the batch maximum.
+    """
+    minted = collect_hole_minted(episodes)
+    if not minted:
+        return
+    new_ids: dict[int, set[int]] = {}
+    reused_ids: dict[int, set[int]] = {}
+    baseline: set[int] = set()
+    for ep, _name, _path, content in episodes:
+        m = NEW_NODES_LINE_RE.search(content)
+        new_ids[ep] = {int(x) for x in re.findall(r"N-(\d+)", m.group(1))} if m else set()
+        reused_ids[ep] = set()
+        for rx in (REUSED_NODES_RE, EXISTING_REUSED_RE):
+            for rm in rx.finditer(content):
+                reused_ids[ep] |= {int(x) for x in re.findall(r"N-(\d+)", rm.group(1))}
+        if ep == 0:
+            for lm in re.finditer(r"N-(\d+)", content):
+                baseline.add(int(lm.group(1)))
+    tombstoned: set[int] = set()
+    rpath = monument_dir / "config" / "retired_node_ids.json"
+    if rpath.is_file():
+        for key in (json.loads(rpath.read_text(encoding="utf-8")).get("retired") or {}):
+            km = re.search(r"N-(\d+)$", key)
+            if km:
+                tombstoned.add(int(km.group(1)))
+    active = set(intro) | {int(k[2:]) for k in canonical if re.match(r"N-\d+$", k)}
+    seq: dict[tuple[str, str], list[tuple[int, str, int]]] = {}
+    for ep, ep_name, batch, _idx, nid in minted:
+        ent = intro.get(nid)
+        if ent is None:
+            report.add("P0", "hole_mint_order", f"{ep_name}: Hole-minted N-{nid} ({batch}) has no register row", f"N-{nid}")
+        elif ent.episode != ep:
+            report.add(
+                "P0",
+                "hole_mint_order",
+                f"{ep_name}: Hole-minted N-{nid} ({ent.name}) is first registered in {ent.episode_file}; list it there",
+                f"N-{nid}",
+            )
+        if nid in new_ids.get(ep, set()) or nid in reused_ids.get(ep, set()):
+            report.add(
+                "P0",
+                "hole_mint_order",
+                f"{ep_name}: Hole-minted N-{nid} is also on a New, Reused or Existing Nodes Reused line of the same episode",
+                f"N-{nid}",
+            )
+        seq.setdefault((batch, nid_band(nid)), []).append((ep, ep_name, nid))
+    for (batch, band), items in seq.items():
+        prev = None
+        for ep, ep_name, nid in items:
+            if prev is not None and nid < prev[2]:
+                report.add(
+                    "P0",
+                    "hole_mint_order",
+                    f"{ep_name}: Hole-minted N-{nid} (batch {batch}) is introduced after N-{prev[2]} ({prev[1]}) but has a lower id; renumber to first-introduction order",
+                    f"N-{nid}",
+                )
+            prev = (ep, ep_name, nid)
+        if band == "person":
+            top = max(nid for _e, _n, nid in items)
+            free = [x for x in range(1, top) if x not in active and x not in tombstoned and x not in baseline]
+            if free:
+                report.add(
+                    "P0",
+                    "hole_mint_order",
+                    f"Hole-minted batch {batch} reaches N-{top} but free person ids remain below it: "
+                    + ", ".join(f"N-{x}" for x in free[:10]),
+                    f"N-{top}",
+                )
+
+
 def run_preflight(
     monument_slug: str,
     *,
@@ -771,6 +1466,17 @@ def run_preflight(
             report.add("P1", "remap_sync", f"Missing inscription/ at {ins_dir}")
     check_name_sync(report, draft_names, canonical, inscription_names)
 
+    # Wave 1 adversarial gates (P1, merge-blocking).
+    check_person_like_topic(report, intro, canonical)
+    check_mention_grounding(report, monument_dir, ingest_episodes, intro, canonical)
+    check_claim_ts_past_end(report, monument_dir, ingest_episodes)
+    if not skip_inscription:
+        check_claims_missing_from_drafts(report, monument_dir, ingest_episodes)
+    check_duplicate_claim_headers(report, ingest_episodes)
+    check_tombstone_collision(report, canonical)
+    check_name_annotation_mismatch(report, ingest_episodes, register, canonical)
+    check_hole_minted(report, monument_dir, episodes, intro, canonical)
+
     check_tip(report, monument_dir, tip_sha, pack_path)
     return report
 
@@ -795,6 +1501,183 @@ def print_human(report: PreflightReport) -> None:
         print("\nRESULT: FAIL (merge-blocking)")
     else:
         print("\nRESULT: PASS (no P0/P1)")
+
+
+WAVE1_FIXTURE_DRAFT = """## 1. Meta-Data
+
+- **YouTube id**: vid001
+- **Episode Ledger Summary**:
+  - New Nodes Introduced: N-1, N-2, N-1001
+  - Reused Nodes Appearing: none
+
+## 4. Node Register
+
+**N-1** Alice Smith
+
+Node Type: Person
+
+*Related: C-1*
+
+**N-2** Bob Jones
+
+Node Type: Person
+
+*Related: C-1*
+
+**N-1001** Alice Smith
+
+*Related: C-1*
+
+## 5. Claim Register
+
+**C-1** Alice speaks
+
+Claim Timestamp: 00:00:10
+Claim: Alice Smith describes the event.
+Mentions: N-1, N-2
+Related Nodes: N-1001
+
+---
+
+**C-2** Late claim
+
+Claim Timestamp: 00:30:00
+Claim: Alice Smith adds a detail after the show ended.
+Mentions: N-1
+
+---
+
+**C-1** Alice speaks
+
+Claim Timestamp: 00:00:10
+Claim: Alice Smith describes the event.
+Mentions: N-1
+
+---
+"""
+
+
+WAVE1_FIXTURE_DRAFT_EP2 = """## 1. Meta-Data
+
+- **YouTube id**: vid002
+- **Episode Ledger Summary**:
+  - New Nodes Introduced: N-5
+  - Reused Nodes Appearing: N-1
+  - Hole-minted Nodes (fx): N-4, N-3
+
+## 4. Node Register
+
+**N-5** Carol King
+
+Node Type: Person
+
+*Related: C-3*
+
+**N-4** Dan Brown
+
+Node Type: Person
+
+*Related: C-3*
+
+**N-3** Eve Adams
+
+Node Type: Person
+
+*Related: C-3*
+
+## 5. Claim Register
+
+**C-3** Carol King on the radio
+
+Claim Timestamp: 00:20:00
+Claim: Carol King says Eve Adams staged the event; N-1 (Bob Jones) is cited for context.
+Mentions: N-3, N-4, N-5
+Related Nodes: N-1
+
+---
+"""
+
+
+def build_wave1_fixture(root: Path) -> None:
+    """Fixture monument that trips every Wave 1 gate (used by --self-test and pytest).
+
+    Episode 2 uses a .md transcript, a +-240 s grounding window (Dan Brown is named only at
+    00:00:30, far from the 00:20:00 claim), a wrong-person 'N-1 (Bob Jones)' annotation, and a
+    Hole-minted line out of first-introduction order (N-4 before N-3).
+    """
+    for sub in ("drafts", "config", "canonical", "inscription", "transcripts_corrected"):
+        (root / sub).mkdir(parents=True, exist_ok=True)
+    (root / "drafts" / "episode_001.md").write_text(WAVE1_FIXTURE_DRAFT, encoding="utf-8")
+    (root / "drafts" / "episode_002.md").write_text(WAVE1_FIXTURE_DRAFT_EP2, encoding="utf-8")
+    (root / "transcripts_corrected" / "episode_001_vid001.txt").write_text(
+        "[00:00:05] Alice Smith speaks about the event. [00:01:50] Thanks for watching.\n", encoding="utf-8"
+    )
+    (root / "transcripts_corrected" / "episode_002_vid002.md").write_text(
+        "# Episode 2\n\n[00:00:30] Dan Brown said hello.\n\n[00:01:00] Other topics.\n\n[00:19:50] Carol King is on air with Eve Adams.\n\n[00:30:00] Bye.\n",
+        encoding="utf-8",
+    )
+    (root / "config" / "preflight_gates.json").write_text(
+        json.dumps({"mention_grounding": {"window_seconds": 240}}), encoding="utf-8"
+    )
+    (root / "config" / "yt_durations.json").write_text(
+        json.dumps({"by_youtube_id": {"vid001": 120}}), encoding="utf-8"
+    )
+    (root / "config" / "retired_node_ids.json").write_text(json.dumps({"retired": {}}), encoding="utf-8")
+    (root / "canonical" / "nodes.json").write_text(
+        json.dumps(
+            {
+                "nodes": {
+                    "N-1": {"canonical_name": "Alice Smith", "type": "person", "retired_ids": ["N-2"]},
+                    "N-2": {"canonical_name": "Bob Jones", "type": "person"},
+                    "N-1001": {"canonical_name": "Alice Smith", "type": "topic"},
+                }
+            }
+        ),
+        encoding="utf-8",
+    )
+    (root / "inscription" / "episode_001.json").write_text(
+        json.dumps(
+            {
+                "claims": [{"@id": "C-1"}, {"@id": "C-2"}, {"@id": "C-9"}],
+                "nodes": [
+                    {"@id": "N-1", "name": "Alice Smith"},
+                    {"@id": "N-2", "name": "Bob Jones"},
+                    {"@id": "N-1001", "name": "Alice Smith"},
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+
+
+WAVE1_CHECKS = (
+    "person_like_topic",
+    "mention_grounding",
+    "claim_ts_past_end",
+    "claim_missing_from_drafts",
+    "duplicate_claim_header",
+    "tombstone_collision",
+    "name_annotation_mismatch",
+)
+
+# Wave 1 P0 gates the fixture must trip.
+WAVE1_P0_CHECKS = ("hole_mint_order",)
+
+# Fixture findings that prove .md transcripts are read and grounding is windowed.
+WAVE1_FIXTURE_LOCATIONS = ("C-3:N-4",)
+
+
+def _run_fixture(slug: str, root: Path, *, skip_inscription: bool) -> PreflightReport:
+    link = MONUMENTS_ROOT / slug
+    made_link = False
+    if not link.exists():
+        link.symlink_to(root)
+        made_link = True
+    try:
+        return run_preflight(slug, skip_inscription=skip_inscription)
+    finally:
+        if made_link:
+            link.unlink()
 
 
 def _self_test() -> int:
@@ -865,8 +1748,24 @@ Claim Timestamp: 00:01:00
         assert "person_band" in checks
         assert "retired_citation" in checks
         assert "claim_fork" in checks
-        print("self-test: OK")
-        return 0
+
+    # Wave 1 gates: each must fire as P1 on its fixture.
+    with tempfile.TemporaryDirectory() as tmp:
+        root = Path(tmp) / "test_mon_w1"
+        build_wave1_fixture(root)
+        report = _run_fixture("test_mon_w1", root, skip_inscription=False)
+        assert report.hard_fail(), report.findings
+        p1 = {f.check for f in report.findings if f.severity == "P1"}
+        missing = [c for c in WAVE1_CHECKS if c not in p1]
+        assert not missing, (missing, report.findings)
+        p0 = {f.check for f in report.findings if f.severity == "P0"}
+        missing = [c for c in WAVE1_P0_CHECKS if c not in p0]
+        assert not missing, (missing, report.findings)
+        locs = {f.location for f in report.findings if f.check == "mention_grounding"}
+        assert set(WAVE1_FIXTURE_LOCATIONS) <= locs, (locs, report.findings)
+        assert "C-3:N-3" not in locs and "C-3:N-5" not in locs, locs
+    print("self-test: OK")
+    return 0
 
 
 def main(argv: list[str] | None = None) -> int:

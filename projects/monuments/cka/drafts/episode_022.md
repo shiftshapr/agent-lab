@@ -435,7 +435,7 @@ Investigative Direction: Verify the FAA termination claim against Denver Center 
 Claim Timestamp: 00:12:53
 Claim: FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
 Anchored Artifacts: A-1292.1
-Mentions: N-50
+Mentions:
 Related Nodes: N-1270
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
@@ -478,7 +478,7 @@ Investigative Direction: Obtain the underlying Daily Mail article; identify what
 Claim Timestamp: 00:31:36
 Claim: Josh Hammer published a Daily Mail op-ed calling Tucker's hosting of Nick Fuentes a "war on MAGA and the modern American right," and stating that "unless the fox is neutralized, the victim could be the entire extant GOP coalition itself."
 Anchored Artifacts: A-1293.1
-Mentions: N-42, N-50, N-293
+Mentions: N-86, N-50, N-293
 Investigative Direction: Obtain the full op-ed in original Daily Mail publication; document the "neutralize" framing in context.
 
 **C-1538** Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins
@@ -528,7 +528,7 @@ Investigative Direction: Independently verify the screenshot provenance, timesta
 Claim Timestamp: 00:42:40
 Claim: An audio clip attributed to Josh Hammer was played on air, stating: "It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right."
 Anchored Artifacts: A-1300.1
-Mentions: N-42, N-50
+Mentions: N-86, N-50
 Investigative Direction: Verify original source of audio clip (interview, podcast, or other); confirm attribution.
 
 **C-1544** Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns

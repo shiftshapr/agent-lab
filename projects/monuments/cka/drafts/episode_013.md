@@ -166,7 +166,7 @@ Video Timestamp: 00:35:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1347, N-195, N-200 (Megyn Kelly, existing)*
+*Related: C-1347, N-195, N-75 (Megyn Kelly)*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-200 (Megyn Kelly, existing), N-195*
+*Related: C-1348, N-75 (Megyn Kelly), N-195*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1349, N-196, N-200 (Megyn Kelly, existing)*
+*Related: C-1349, N-196, N-75 (Megyn Kelly)*
 
 **A-1203.2** X reply by Megyn Kelly to Constantine Kissen: "The more one insists that I say what one demands me to, the more committed I get in my refusal." (and follow-up: "Your response proves the opposite of what it purports to.")
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:38:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-200 (Megyn Kelly, existing), N-196*
+*Related: C-1348, N-75 (Megyn Kelly), N-196*
 
 ---
 
@@ -509,7 +509,7 @@ Claim Timestamp: 00:00:49
 Claim: The episode presents that a woman was captured alongside the shooter in doorbell-camera footage from houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.
 
 Anchored Artifacts: A-1196.1
-Mentions: N-183, N-200
+Mentions: N-200
 
 Related Nodes: N-1218
 
@@ -667,7 +667,7 @@ Claim Timestamp: 00:35:51
 Claim: Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.
 
 Anchored Artifacts: A-1202.1, A-1203.2
-Mentions: N-195, N-196, N-200
+Mentions: N-195, N-196, N-75
 
 
 Investigative Direction: Capture full thread context including replies not quoted on air.

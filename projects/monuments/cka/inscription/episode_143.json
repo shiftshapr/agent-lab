@@ -30,7 +30,7 @@
             "C-3308"
           ],
           "related_nodes": [
-            "N-5",
+            "N-224",
             "N-69"
           ],
           "tags": [],
@@ -52,14 +52,13 @@
           "@type": "Artifact",
           "@id": "A-2295.1",
           "ref": "A-2295.1",
-          "description": "Video segment showing the camera operator (Taral/Terrell/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger (N-8) is visible at the side washing his hands.",
+          "description": "Video segment showing the camera operator (Taral/Terrell/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.",
           "related_claims": [
             "C-3302",
             "C-3303"
           ],
           "related_nodes": [
-            "N-9",
-            "N-8",
+            "N-410",
             "N-1"
           ],
           "tags": [],
@@ -79,7 +78,7 @@
             "C-3304"
           ],
           "related_nodes": [
-            "N-9",
+            "N-410",
             "N-1"
           ],
           "tags": [],
@@ -99,7 +98,7 @@
             "C-3305"
           ],
           "related_nodes": [
-            "N-9",
+            "N-410",
             "N-1"
           ],
           "tags": [],
@@ -183,7 +182,7 @@
             "C-3310"
           ],
           "related_nodes": [
-            "N-5",
+            "N-224",
             "N-1207",
             "N-176"
           ],
@@ -239,7 +238,7 @@
             "C-3305"
           ],
           "related_nodes": [
-            "N-9",
+            "N-410",
             "N-1"
           ],
           "tags": [],
@@ -284,9 +283,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-5",
-      "ref": "N-5",
-      "name": "Donald Trump",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Recurring writer/commentator whose tweets are read aloud as artifacts in this episode.",
       "related_artifacts": [
@@ -305,41 +304,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-6",
-      "ref": "N-6",
-      "name": "Elizabeth Lane *(reused from Episode 1)*",
-      "type": "person",
-      "description": "TPUSA-affiliated figure referenced regarding SD card narrative, debate context, and \"1102 statement.\" Not artifact-anchored in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-8",
-      "ref": "N-8",
-      "name": "Melody Hall",
-      "type": "person",
-      "description": "TPUSA staff member visible in A-2295.1 washing his hands at the scene; host notes he helped carry Charlie into the car.",
-      "related_artifacts": [
-        "A-2295.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-9",
-      "ref": "N-9",
-      "name": "Holly Chalmers",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [
@@ -419,7 +386,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-9"
+        "N-410"
       ]
     },
     {
@@ -444,7 +411,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-9"
+        "N-410"
       ]
     },
     {
@@ -482,7 +449,7 @@
       "investigative_direction": "Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.",
       "mentions_person_refs": [
         "N-1",
-        "N-9"
+        "N-410"
       ]
     },
     {
@@ -501,7 +468,7 @@
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated \"government source\" timeline.",
       "mentions_person_refs": [
-        "N-9"
+        "N-410"
       ]
     },
     {
@@ -523,7 +490,7 @@
       "investigative_direction": "Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-9"
+        "N-410"
       ]
     },
     {
@@ -596,7 +563,7 @@
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact.",
       "mentions_person_refs": [
-        "N-5",
+        "N-224",
         "N-69"
       ]
     },
@@ -633,7 +600,7 @@
       "claim_timestamp": "00:34:27",
       "investigative_direction": "Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.",
       "mentions_person_refs": [
-        "N-5",
+        "N-224",
         "N-176"
       ]
     },
@@ -670,7 +637,7 @@
       "claim_timestamp": "00:11:42",
       "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.",
       "mentions_person_refs": [
-        "N-9"
+        "N-410"
       ]
     }
   ],

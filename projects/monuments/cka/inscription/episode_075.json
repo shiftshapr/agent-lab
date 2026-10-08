@@ -299,7 +299,7 @@
             "C-3579"
           ],
           "related_nodes": [
-            "N-1009"
+            "N-5"
           ],
           "tags": [],
           "event_timestamp": "2025–2026 (specific date not given)",
@@ -381,11 +381,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-2349",
-      "ref": "N-2349",
+      "@type": "Person",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Father Ripperger",
-      "type": "investigation_target",
+      "type": "person",
       "description": "Catholic priest whose audio clip on \"the revealing of the method\" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.",
       "related_artifacts": [
         "A-2438.1"
@@ -480,11 +480,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1009",
-      "ref": "N-1009",
-      "name": "Charlie Kirk — referenced throughout timeline reconstruction.",
-      "type": "investigation_target",
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
       "description": "",
       "related_artifacts": [],
       "related_claims": [],
@@ -524,7 +524,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:25",
-      "investigative_direction": "Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent."
+      "investigative_direction": "Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -538,7 +539,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:25",
-      "investigative_direction": "Pull the live Wikipedia article and capture revision history; confirm whether the language is stable."
+      "investigative_direction": "Pull the live Wikipedia article and capture revision history; confirm whether the language is stable.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -552,7 +554,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:10",
-      "investigative_direction": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt."
+      "investigative_direction": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt.",
+      "mentions_person_refs": [
+        "N-531"
+      ]
     },
     {
       "@type": "Claim",
@@ -566,7 +571,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:30",
-      "investigative_direction": "Obtain the document or high-resolution photograph to verify the label and language; confirm publication origin."
+      "investigative_direction": "Obtain the document or high-resolution photograph to verify the label and language; confirm publication origin.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -582,7 +588,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:55",
-      "investigative_direction": "Verify the text matches a published Masonic source or whether it is idiosyncratic to this copy; consult Masonic historians."
+      "investigative_direction": "Verify the text matches a published Masonic source or whether it is idiosyncratic to this copy; consult Masonic historians.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -615,7 +622,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:50",
-      "investigative_direction": "Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced."
+      "investigative_direction": "Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -631,7 +639,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:50",
-      "investigative_direction": "Identify source program and date; determine what McQuaid claims the \"blueprints\" to be."
+      "investigative_direction": "Identify source program and date; determine what McQuaid claims the \"blueprints\" to be.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -645,7 +654,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:50",
-      "investigative_direction": "Identify the original event and capture full context of Trump's remarks."
+      "investigative_direction": "Identify the original event and capture full context of Trump's remarks.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -659,7 +672,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:50",
-      "investigative_direction": "Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action."
+      "investigative_direction": "Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -673,7 +689,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:30",
-      "investigative_direction": "Pull the actual EO text and the WaPo article; confirm the white-phosphorus clause and Bayer's exclusive-domestic-manufacturer status."
+      "investigative_direction": "Pull the actual EO text and the WaPo article; confirm the white-phosphorus clause and Bayer's exclusive-domestic-manufacturer status.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -687,7 +706,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:50",
-      "investigative_direction": "Identify the article source, date, geographic location of alleged use, and any corroborating documentation from NGOs or UN bodies."
+      "investigative_direction": "Identify the article source, date, geographic location of alleged use, and any corroborating documentation from NGOs or UN bodies.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -701,7 +723,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:40",
-      "investigative_direction": "Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements."
+      "investigative_direction": "Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -715,7 +741,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:50",
-      "investigative_direction": "Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew."
+      "investigative_direction": "Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -729,7 +756,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:48:30",
-      "investigative_direction": "Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground."
+      "investigative_direction": "Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -743,7 +773,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:00",
-      "investigative_direction": "Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited."
+      "investigative_direction": "Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.",
+      "mentions_person_refs": []
     }
   ],
   "memes": []

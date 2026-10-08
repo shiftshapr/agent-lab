@@ -846,7 +846,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:53",
-      "investigative_direction": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications."
+      "investigative_direction": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -923,7 +924,7 @@
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Obtain the full op-ed in original Daily Mail publication; document the \"neutralize\" framing in context.",
       "mentions_person_refs": [
-        "N-42",
+        "N-86",
         "N-50",
         "N-293"
       ]
@@ -1040,7 +1041,7 @@
       "claim_timestamp": "00:42:40",
       "investigative_direction": "Verify original source of audio clip (interview, podcast, or other); confirm attribution.",
       "mentions_person_refs": [
-        "N-42",
+        "N-86",
         "N-50"
       ]
     },

@@ -221,7 +221,7 @@ Video Timestamp: 00:53:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1416, C-1417, N-128, N-233, N-42 (Candace), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
+*Related: C-1416, C-1417, N-128, N-233, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
 
 ---
 
@@ -563,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1422, C-1423, N-42 (Charlie Kirk)*
+*Related: C-1422, C-1423, N-1 (Charlie Kirk)*
 
 ---
 
@@ -639,7 +639,7 @@ Claim Timestamp: 00:06:41
 Claim: Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and added the one-word reply "Based."
 
 Anchored Artifacts: A-1236.1, A-1248.1
-Mentions: N-42
+Mentions: N-86
 Related Nodes: N-1240
 
 Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.
@@ -653,7 +653,7 @@ Claim Timestamp: 00:07:48
 Claim: Yashar Ali posted a quote-tweet asserting the Hammer retweet referenced the Iryna Zhuravska murder and that other conservatives were sharing similar material the day prior.
 
 Anchored Artifacts: A-1237.1
-Mentions: N-42, N-226, N-227
+Mentions: N-86, N-226, N-227
 Related Nodes: N-1245
 
 Investigative Direction: Verify Yashar Ali's exact post text and timing against X archives; verify whether the "day prior" framing matches the post dates of alleged "many conservatives."
@@ -694,7 +694,7 @@ Claim Timestamp: 00:09:35
 Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.
 
 Anchored Artifacts: A-1250.1
-Mentions: N-42, N-91, N-227, N-245
+Mentions: N-86, N-227, N-245
 
 Investigative Direction: Verify the full segment transcript and any accompanying written material Hammer posted in that window.
 
@@ -720,7 +720,7 @@ Claim Timestamp: 00:14:29
 Claim: Prior to September 9, 2025, Josh Hammer's only documented reference to public execution came in a 2022 post discussing the Uvalde shooter (also referencing the Buffalo shooter).
 
 Anchored Artifacts: A-1239.2
-Mentions: N-42
+Mentions: N-86
 Related Nodes: N-1240
 
 Investigative Direction: Query X archive for "public execution" within Hammer's account history; verify no other prior episodes.
@@ -734,7 +734,7 @@ Claim Timestamp: 00:20:50
 Claim: Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.
 
 Anchored Artifacts: A-1241.1
-Mentions: N-42
+Mentions: N-86
 Related Nodes: N-1243
 
 Investigative Direction: Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.
@@ -748,7 +748,7 @@ Claim Timestamp: 00:22:12
 Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
 
 Anchored Artifacts: A-1242.1
-Mentions: N-42, N-243
+Mentions: N-86, N-243
 Related Nodes: N-1243, N-1244
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
@@ -844,7 +844,7 @@ Claim Timestamp: 00:16:55
 Claim: Josh Hammer posted on X in 2019 the statement "Jew hatred is inherent in the European DNA," and subsequently deleted the post.
 
 Anchored Artifacts: A-1239.1
-Mentions: N-42
+Mentions: N-86
 
 Investigative Direction: Verify via web archives / Wayback Machine or third-party screen captures; verify deletion via X account audit.
 
@@ -857,7 +857,7 @@ Claim Timestamp: 00:11:02
 Claim: On September 9, 2025, Josh Hammer posted nine X items covering Phillies story, Iryna media link, anti-Tucker, pro-Israel/anti-Qatar, anti-Saudi, second anti-Tucker, Hebrew Bible / Western civilization, Supreme Court media appearance, and concluded with the 9:09 p.m. ET public-execution retweet.
 
 Anchored Artifacts: A-1240.1
-Mentions: N-42
+Mentions: N-86
 Related Nodes: N-1240
 
 Investigative Direction: Verify each timestamp and content against X archive.
@@ -871,7 +871,7 @@ Claim Timestamp: 00:07:54
 Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
-Mentions: N-37, N-70
+Mentions: N-37
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 

@@ -53,7 +53,9 @@
           "related_claims": [
             "C-2858"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-552"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -180,7 +182,9 @@
           "related_claims": [
             "C-2867"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-86"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -204,7 +208,9 @@
             "C-2868",
             "C-2869"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-62"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -228,7 +234,9 @@
             "C-2870",
             "C-2871"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-120"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -252,7 +260,9 @@
             "C-2870",
             "C-2871"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-120"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -281,7 +291,9 @@
             "C-2873",
             "C-2875"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-120"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -328,7 +340,10 @@
             "C-2877",
             "C-2878"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-774",
+            "N-775"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -351,7 +366,9 @@
           "related_claims": [
             "C-2879"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-774"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -374,7 +391,10 @@
           "related_claims": [
             "C-2880"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-775",
+            "N-774"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -389,7 +409,9 @@
           "related_claims": [
             "C-2881"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-775"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -412,7 +434,10 @@
           "related_claims": [
             "C-2882"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-775",
+            "N-774"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -435,7 +460,10 @@
           "related_claims": [
             "C-2874"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-1",
+            "N-86"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -610,7 +638,10 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-120"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -635,7 +666,11 @@
       "evidence_count": 5,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-775",
+        "N-1736"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -660,7 +695,10 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-774"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -681,7 +719,11 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -704,7 +746,11 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -742,7 +788,10 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-62"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -767,7 +816,10 @@
       "evidence_count": 3,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1737"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -786,7 +838,11 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-86",
+        "N-1732"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -807,7 +863,11 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-120",
+        "N-1737"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -844,7 +904,11 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -875,7 +939,13 @@
       "evidence_count": 6,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-120",
+        "N-62",
+        "N-1732",
+        "N-1734"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -938,7 +1008,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:41",
-      "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes."
+      "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes.",
+      "mentions_person_refs": [
+        "N-552"
+      ]
     },
     {
       "@type": "Claim",
@@ -1065,10 +1138,15 @@
       "anchored_artifacts": [
         "A-2050.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1733"
+      ],
       "tags": [],
       "claim_timestamp": "00:24:59",
-      "investigative_direction": "Capture live Newsweek view counts at multiple points in time; compare to alternative analytics."
+      "investigative_direction": "Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.",
+      "mentions_person_refs": [
+        "N-86"
+      ]
     },
     {
       "@type": "Claim",
@@ -1079,10 +1157,15 @@
       "anchored_artifacts": [
         "A-2051.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732"
+      ],
       "tags": [],
       "claim_timestamp": "00:31:21",
-      "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures."
+      "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures.",
+      "mentions_person_refs": [
+        "N-62"
+      ]
     },
     {
       "@type": "Claim",
@@ -1093,10 +1176,15 @@
       "anchored_artifacts": [
         "A-2051.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732"
+      ],
       "tags": [],
       "claim_timestamp": "00:32:23",
-      "investigative_direction": "Verify M-News corporate filings; confirm 30% acquisition price and structure."
+      "investigative_direction": "Verify M-News corporate filings; confirm 30% acquisition price and structure.",
+      "mentions_person_refs": [
+        "N-62"
+      ]
     },
     {
       "@type": "Claim",
@@ -1109,10 +1197,16 @@
         "A-2053.1",
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1734",
+        "N-1737"
+      ],
       "tags": [],
       "claim_timestamp": "00:34:17",
-      "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language."
+      "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language.",
+      "mentions_person_refs": [
+        "N-120"
+      ]
     },
     {
       "@type": "Claim",
@@ -1123,10 +1217,15 @@
       "anchored_artifacts": [
         "A-2053.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1734"
+      ],
       "tags": [],
       "claim_timestamp": "00:34:17",
-      "investigative_direction": "Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions."
+      "investigative_direction": "Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions.",
+      "mentions_person_refs": [
+        "N-120"
+      ]
     },
     {
       "@type": "Claim",
@@ -1137,10 +1236,13 @@
       "anchored_artifacts": [
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1737"
+      ],
       "tags": [],
       "claim_timestamp": "00:36:54",
-      "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records."
+      "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1151,10 +1253,14 @@
       "anchored_artifacts": [
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732",
+        "N-1737"
+      ],
       "tags": [],
       "claim_timestamp": "00:36:54",
-      "investigative_direction": "Verify via FARA filing registrant of record and any disclosed outside counsel."
+      "investigative_direction": "Verify via FARA filing registrant of record and any disclosed outside counsel.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1168,7 +1274,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:23",
-      "investigative_direction": "Obtain the original group text record; verify the participant list and exact wording."
+      "investigative_direction": "Obtain the original group text record; verify the participant list and exact wording.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-86"
+      ]
     },
     {
       "@type": "Claim",
@@ -1207,10 +1317,16 @@
       "anchored_artifacts": [
         "A-2056.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1736"
+      ],
       "tags": [],
       "claim_timestamp": "00:47:29",
-      "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds."
+      "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds.",
+      "mentions_person_refs": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",
@@ -1221,10 +1337,15 @@
       "anchored_artifacts": [
         "A-2056.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1736"
+      ],
       "tags": [],
       "claim_timestamp": "00:47:29",
-      "investigative_direction": "Verify against Lively's official public statement archive."
+      "investigative_direction": "Verify against Lively's official public statement archive.",
+      "mentions_person_refs": [
+        "N-774"
+      ]
     },
     {
       "@type": "Claim",
@@ -1235,10 +1356,15 @@
       "anchored_artifacts": [
         "A-2057.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1736"
+      ],
       "tags": [],
       "claim_timestamp": "00:48:28",
-      "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text."
+      "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text.",
+      "mentions_person_refs": [
+        "N-774"
+      ]
     },
     {
       "@type": "Claim",
@@ -1252,7 +1378,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:04",
-      "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing."
+      "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
+      "mentions_person_refs": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",
@@ -1266,7 +1396,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:30",
-      "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material."
+      "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material.",
+      "mentions_person_refs": [
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",
@@ -1280,7 +1413,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:57",
-      "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement."
+      "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
+      "mentions_person_refs": [
+        "N-774",
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",

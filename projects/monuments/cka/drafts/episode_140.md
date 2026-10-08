@@ -642,7 +642,7 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **Claim Range:** C-3260–C-3276
 
-**New People Nodes Introduced:** N-1207 (Britta Widener)
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-1207 is a topic id; Britta Widener has no CKA person node.
 
 **New Investigation Target Nodes:** N-2190, N-2191, N-2192
 
