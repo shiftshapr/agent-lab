@@ -115,7 +115,7 @@ C-3719..C-3727 and families A-2514..A-2520 keep their ids. Next claim C-3736, ne
 
 - C-3727 names its speaker, Andrew Kolvet N-42, in the Alex Clark interview clip played at 32:47 to 34:22
   (cued at 32:43 "Andrew's response to the Catholic question"); N-42 on Mentions and A-2518.1.
-- C-3731 (old C-3743) adds N-166 Xavier Deruso ("Xavier Daruso" 03:46, "Xavier" 05:39).
+- C-3731 (old C-3743) adds N-166 Xaviaer DuRousseau ("Xavier Daruso" 03:46, "Xavier" 05:39).
 - C-3735 (old C-3747) carries Confidence: low, matching A-1424.2.
 - Hole-minted ids removed from secondary lines (ep92 N-536, N-569; ep148 N-578). `hole_mint_order` now
   also reads `Existing Nodes Reused` lines.

@@ -394,6 +394,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Listed among figures appearing in Elephant Clipping campaign charts the host displays.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-62",
+      "ref": "N-62",
+      "name": "Donald Trump Jr. (Don Jr.)",
+      "type": "person",
+      "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -413,7 +477,8 @@
       "claim_timestamp": "00:03:03",
       "investigative_direction": "Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.",
       "mentions_person_refs": [
-        "N-45"
+        "N-45",
+        "N-1"
       ]
     },
     {
@@ -431,7 +496,10 @@
       "tags": [],
       "claim_timestamp": "00:05:35",
       "investigative_direction": "Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1",
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -480,14 +548,13 @@
       "anchored_artifacts": [
         "A-1285.1"
       ],
-      "related_nodes": [
-        "N-1268"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:35",
       "investigative_direction": "Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly.",
       "mentions_person_refs": [
-        "N-5"
+        "N-5",
+        "N-1"
       ]
     },
     {
@@ -505,7 +572,10 @@
       "tags": [],
       "claim_timestamp": "00:20:44",
       "investigative_direction": "Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -522,7 +592,11 @@
       "tags": [],
       "claim_timestamp": "00:21:37",
       "investigative_direction": "Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-182",
+        "N-102",
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -551,14 +625,14 @@
       "anchored_artifacts": [
         "A-1287.1"
       ],
-      "related_nodes": [
-        "N-1268"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.",
       "mentions_person_refs": [
-        "N-75"
+        "N-75",
+        "N-62",
+        "N-1"
       ]
     },
     {
@@ -606,14 +680,13 @@
       "anchored_artifacts": [
         "A-1287.1"
       ],
-      "related_nodes": [
-        "N-1268"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:31",
       "investigative_direction": "This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.",
       "mentions_person_refs": [
-        "N-75"
+        "N-75",
+        "N-1"
       ]
     },
     {
@@ -630,7 +703,8 @@
       "claim_timestamp": "00:39:19",
       "investigative_direction": "Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.",
       "mentions_person_refs": [
-        "N-288"
+        "N-288",
+        "N-3"
       ]
     }
   ],

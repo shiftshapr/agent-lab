@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
 # Episode 133 Analysis Record
@@ -31,7 +31,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204
   - Claim Range: C-3150–C-3161
-  - New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211
+  - New People Nodes Introduced: none (Wave 2: local ids removed)
   - New Investigation Target Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
   - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.
 
@@ -104,21 +104,21 @@ Wikipedia article displayed and read aloud in episode, including the "Relationsh
 - Video Timestamp: 29:26–31:35
 - Discovery Timestamp: 2026-07-29
 - Confidence Level: Medium (live Wikipedia content subject to revision)
-- *Related: C-3154, N-1210, N-1211, N-2157*
+- *Related: C-3154, N-2157*
 
 **A-2200.2** Wikipedia reference to February 27, 2006 flight (JFK International → London Luton) on Epstein's plane
 - Event Timestamp: 2006-02-27
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee (per host reading)
 - Video Timestamp: ~30:00–30:41
 - Discovery Timestamp: 2026-07-29
-- *Related: C-3155, N-1210, N-2157*
+- *Related: C-3155, N-2157*
 
 **A-2200.3** Wikipedia reference to March 3, 2006 flight (London → New York) on Epstein's plane, naming Jean-Luc Brunel as one of 12 other passengers
 - Event Timestamp: 2006-03-03
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee
 - Video Timestamp: ~30:41–31:35
 - Discovery Timestamp: 2026-07-29
-- *Related: C-3156, N-1210, N-1211, N-2157*
+- *Related: C-3156, N-2157*
 
 ---
 
@@ -214,71 +214,6 @@ Comments read aloud from previous episode's comment section.
 
 ### People Nodes
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Host identifies as Turning Point USA chief marketing officer; subject of host's allegations regarding a White House meeting claim and alleged misrepresentation. Transcript spelling inconsistent ("Kovette" / "Kovett" / "Coette"). Name uncertainty flagged.
-
-Evidence Count: 0 displayed artifacts in this episode
-Claim Count: 0 (host allegations not artifact-backed in this episode)
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2204.10*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Identified by host as a Pleasant Grove Police officer, reported 2025 UVU graduate, said to have recovered Tyler Robinson's weapon in the field. Biographical claims not artifact-displayed in this episode.
-
-Evidence Count: 0 displayed artifacts
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2156*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Identified by host as Mitchell Curtis's father; reported as 21-year NCIS veteran ending as division chief, Office of Inspector General; reported to have left NCIS June 2, 2025 for Richmond, Virginia interim inspector general position. Biographical claims not artifact-displayed in this episode.
-
-Evidence Count: 0 displayed artifacts
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2156*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Identified by host as Trump's Secretary of the Navy appointee; subject of Wikipedia reading re: Epstein flight manifests.
-
-Evidence Count: 1 (Wikipedia artifact family)
-Claim Count: 3 (C-3154, C-3155, C-3156)
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2200.1, A-2200.2, A-2200.3, C-3154, C-3155, C-3156, N-1211, N-2157*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Named in Wikipedia reading as Epstein associate and modeling agent; alleged by host to have ties to a modeling firm where "Erika" (Erica Kirk) worked. Transcript spells "Jean Luke Brunell" / "John Luke Bernell."
-
-Evidence Count: 1
-Claim Count: 1 (C-3156)
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2200.3, C-3156, N-1210, N-2157*
-
----
-
 ### Investigation Target Nodes
 
 **N-2153** Rooftop Movement Tactical Analysis
@@ -342,7 +277,7 @@ Claim Count: 3 (C-3154, C-3155, C-3156)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2200.1, A-2200.2, A-2200.3, C-3154, C-3155, C-3156, N-1210, N-1211*
+*Related: A-2200.1, A-2200.2, A-2200.3, C-3154, C-3155, C-3156*
 
 ---
 
@@ -393,6 +328,7 @@ Investigative Direction: Slow-motion forensic review of original footage to dete
 Claim Timestamp: 00:29:26
 Claim: The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled "Relationship with Jeffrey Epstein."
 Anchored Artifacts: A-2200.1
+Mentions: N-35
 Related Nodes: N-2157
 Investigative Direction: Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.
 
@@ -403,6 +339,7 @@ Investigative Direction: Verify current Wikipedia article state at archive.org s
 Claim Timestamp: 00:30:00–00:30:41
 Claim: The Wikipedia article states that Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport, per passenger manifests released by the U.S. House Committee in October 2025.
 Anchored Artifacts: A-2200.2
+Mentions: N-35
 Related Nodes: N-2157
 Investigative Direction: Verify against the released October 2025 House Committee manifest documents.
 
@@ -424,6 +361,7 @@ Investigative Direction: Verify against released October 2025 House Committee ma
 Claim Timestamp: 00:19:07–00:20:08
 Claim: Tyler Robinson sent a text message stating, "When I checked the area about 3 hours ago, there was an officer with a canine walking nearby the area. I'm hoping that pooch has a bad sniffer."
 Anchored Artifacts: A-2201.1
+Mentions: N-69
 Related Nodes: N-2155
 Investigative Direction: Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp.
 
@@ -444,6 +382,7 @@ Investigative Direction: Confirm by independent review of the video file; verify
 Claim Timestamp: 00:40:55–00:41:40
 Claim: A clip shows Erika Kirk instructing TPUSA chapter leaders, "Be a table," and elaborating that when one's table is destroyed, one should become "a roving table yourself."
 Anchored Artifacts: A-2203.1
+Mentions: N-2
 Related Nodes:
 Investigative Direction: Obtain original clip and full context (event, date, audience).
 
@@ -454,6 +393,7 @@ Investigative Direction: Obtain original clip and full context (event, date, aud
 Claim Timestamp: 00:47:04
 Claim: Viewer Becca proposes that bullet fragments potentially lodged in gauze placed in Charlie Kirk's wound could account for bullet-mismatch findings, asking whether the gloves seen at the door were related. Host acknowledges possibility but suggests a medical-examiner-route alternative.
 Anchored Artifacts: A-2204.4
+Mentions: N-1
 Related Nodes:
 Investigative Direction: Review medical examiner reports and chain-of-custody records for any gauze or material handling; verify bullet-fragment provenance.
 
@@ -471,9 +411,9 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-1207):** Transcript spells Andrew Kovette as "Kovette" / "Kovett" / "Coette." Preserved as host used.
-- **Name uncertainty (N-1210):** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
-- **Name uncertainty (N-1211):** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
+- **Name uncertainty (former local id 1207):** Transcript spells Andrew Kovette as "Kovette" / "Kovett" / "Coette." Preserved as host used.
+- **Name uncertainty (former local id 1210):** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
+- **Name uncertainty (former local id 1211):** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
 - **Name spelling variance:** Host consistently uses "Erika Kirk"; existing ledger node is "Erica Kirk." Preserved as host used; cross-reference to existing node retained.
 - **Possible transcription error:** "Marina Minez" (likely Marina Linarte or similar TPUSA staff — unverified); "Justin Strife" (likely Justin Streifel or similar TPUSA COO — unverified); "Frank" (in-house legal counsel).
 - **Artifact provenance unverified:** A-2198 family — host asserts she has held the footage since October 2025; chain of custody not displayed.

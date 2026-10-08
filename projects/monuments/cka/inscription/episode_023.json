@@ -1244,6 +1244,38 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Referenced in SAS/Tucker wealth-question and prior smear-amplification context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1543,7 +1575,9 @@
       "investigative_direction": "Obtain the Tucker Carlson TPUSA July 11, 2025 speech (video / transcript) and verify each cited claim against his actual statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-50"
+        "N-50",
+        "N-35",
+        "N-66"
       ]
     },
     {
@@ -1644,7 +1678,8 @@
       "claim_timestamp": "00:59:11",
       "investigative_direction": "Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.",
       "mentions_person_refs": [
-        "N-309"
+        "N-309",
+        "N-1"
       ]
     },
     {
@@ -1663,9 +1698,31 @@
       "claim_timestamp": "01:01:33",
       "investigative_direction": "Verify the existence and details of any announced \"Courageous Christianity Tour\" through TPUSA Faith announcements, ticketing sites, or insider confirmations.",
       "mentions_person_refs": [
-        "N-1",
         "N-45",
-        "N-302"
+        "N-302",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1566",
+      "ref": "C-1566",
+      "label": "NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership",
+      "claim": "The host asserts — citing X researcher Village Crazy Lady — that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.",
+      "anchored_artifacts": [
+        "A-1307.1"
+      ],
+      "related_nodes": [
+        "N-1275",
+        "N-1276"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:18",
+      "investigative_direction": "Pull and analyze Village Crazy Lady's pinned NAR research thread; cross-check Sean Feucht's biographical and ministry affiliations against NAR church networks and apostle affiliations.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-302",
+        "N-45"
       ]
     },
     {
@@ -1682,7 +1739,8 @@
       "claim_timestamp": "00:14:58",
       "investigative_direction": "Locate any public statement by Rob McCoy identifying himself as Charlie Kirk's pastor; verify the nature and duration of any pastoral relationship.",
       "mentions_person_refs": [
-        "N-45"
+        "N-45",
+        "N-1"
       ]
     }
   ],

@@ -32,7 +32,7 @@
   - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894
   - Claim Range: C-2544 – C-2559
   - New Nodes Introduced: N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -197,7 +197,7 @@ Video Timestamp: 00:43:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip referenced)
 
-*Related: C-2553, N-1210*
+*Related: C-2553*
 
 **A-1893** Blake Neff / Andrew Kolvet Response Bundle
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:45:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2554, N-1210*
+*Related: C-2554*
 
 **A-1894** N40JD Plane Information Bundle
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (registration data shown; host's identification of Knupp's role requires verification)
 
-*Related: C-2550, N-1211, N-1631*
+*Related: C-2550, N-1631*
 
 ---
 
@@ -236,7 +236,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, N-2, N-1212, N-1628*
+*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, N-2, N-1628*
 
 **N-1627** Andrew Kolvet 9/10 Flight Itinerary
 
@@ -258,7 +258,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, C-2545, N-1212*
+*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, C-2545*
 
 **N-1629** Charlie Kirk Live Show 9/10 Liveness Verification
 
@@ -291,7 +291,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1894.1, C-2550, N-1211, N-2*
+*Related: A-1894.1, C-2550, N-2*
 
 **N-1632** Nick Shirley Background Verification
 
@@ -315,9 +315,9 @@ Claim Timestamp: 00:09:34
 Claim: Per an unverified source tip received by the host, Erica Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.
 
 Anchored Artifacts: A-1886.1, A-1886.2, A-1886.3
-Mentions: N-2
+Mentions: N-2, N-1
 
-Related Nodes: N-1212, N-1626, N-1628
+Related Nodes: N-1626, N-1628
 
 Investigative Direction: Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.
 
@@ -331,7 +331,7 @@ Claim: Per the host's anonymous outreach to Atlantic Aviation, Hopkinson Aircraf
 
 Anchored Artifacts: A-1886.2, A-1886.3
 
-Related Nodes: N-1212, N-1628
+Related Nodes: N-1628
 
 Investigative Direction: Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records.
 
@@ -358,6 +358,7 @@ Claim Timestamp: 00:24:05
 Claim: ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending below 7,500 feet, minutes from touching down at Provo.
 
 Anchored Artifacts: A-1888.1
+Mentions: N-1
 
 Related Nodes: N-1627
 
@@ -372,6 +373,7 @@ Claim Timestamp: 00:22:10
 Claim: Andrew Kolvet sent a text message at 3:26 PM MST on September 10, 2025 stating "Sorry, on the plane. This just loaded," referencing a 1:30 PM MST message he had not previously answered.
 
 Anchored Artifacts: A-1889.1
+Mentions: N-42
 
 Related Nodes: N-1627
 
@@ -386,6 +388,7 @@ Claim Timestamp: 00:20:35
 Claim: Per a text thread with Justin and Aubrey, Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi; Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is "on the ground."
 
 Anchored Artifacts: A-1889.1, A-1889.2
+Mentions: N-42
 
 Related Nodes: N-1627, N-1630
 
@@ -400,9 +403,9 @@ Claim Timestamp: 00:39:16
 Claim: Per the host, the N40JD plane, registered to Jason Knupp (identified by host as chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
 
 Anchored Artifacts: A-1894.1
-Mentions: N-2
+Mentions: N-2, N-1
 
-Related Nodes: N-1211, N-1631
+Related Nodes: N-1631
 
 Investigative Direction: Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.
 
@@ -415,6 +418,7 @@ Claim Timestamp: 00:31:34
 Claim: Andrew Kolvet stated in an interview with Ross Douthat (New York Times) that he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025, because Charlie was focusing on the tour.
 
 Anchored Artifacts: A-1890.1
+Mentions: N-42, N-1
 
 Related Nodes: N-1629
 
@@ -429,6 +433,7 @@ Claim Timestamp: 00:36:47
 Claim: Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that within 48 hours he gained access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers who could not leave the favela.
 
 Anchored Artifacts: A-1891.2
+Mentions: N-1
 
 Related Nodes: N-1632
 
@@ -443,8 +448,9 @@ Claim Timestamp: 00:43:38
 Claim: Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.
 
 Anchored Artifacts: A-1892.1
+Mentions: N-1, N-310
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Obtain the full Shellenberger-Kent interview; cross-reference Kent's stated investigation recommendations against DOJ / FBI disclosures.
 
@@ -457,8 +463,9 @@ Claim Timestamp: 00:45:31
 Claim: Blake Neff stated on air that if Joe Kent testifies truthfully for the defense that federal investigation was not thorough, it would be a "level of betrayal" against Charlie Kirk.
 
 Anchored Artifacts: A-1893.1
+Mentions: N-1, N-224, N-310
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Obtain full clip with timestamps; document exact wording for evidentiary comparison against later statements.
 
@@ -485,6 +492,7 @@ Claim Timestamp: 00:31:34
 Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was "not super pleased" about an interview booking Kolvet had made the day before September 10, prompting Charlie to hand guest-host duties to Kolvet.
 
 Anchored Artifacts: A-1890.1
+Mentions: N-42, N-1
 
 Related Nodes: N-1629
 
@@ -499,6 +507,7 @@ Claim Timestamp: 00:38:35
 Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane — the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.
 
 Anchored Artifacts: A-1887.3
+Mentions: N-42, N-2
 
 Related Nodes: N-1627
 
@@ -515,8 +524,9 @@ Claim Timestamp: 00:03:02
 Claim: Baron Coleman (in a clip played on the show) characterized TPUSA's pattern of ignoring major inconsistencies while responding only to minor debunkable details as Gish gallop and bad-faith debating.
 
 Anchored Artifacts: A-1889.1 (host's read-aloud transcript); however no on-screen clip artifact is registered — flagged.
+Mentions: N-552
 
-Related Nodes: N-1212
+Related Nodes:
 
 Investigative Direction: Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.
 
@@ -531,6 +541,7 @@ Claim Timestamp: 00:23:03
 Claim: Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina was told by another staffer that the statement about Charlie's death required Andrew Kolvet's input before release.
 
 Anchored Artifacts: A-1889.2 (text thread)
+Mentions: N-42, N-1
 
 Related Nodes: N-1627
 
@@ -590,7 +601,7 @@ New Nodes Introduced:
 N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
 
 Existing Nodes Reused:
-N-1 (Charlie Kirk), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy)
+N-1 (Charlie Kirk), former local id 1207 (Mike Mitchell Public Record Anomaly), former local id 1208 (Brooksby Suicide Narrative Discrepancy), former local id 1209 (Robinson Apartment Staging Allegation), former local id 1210 (Phil Lyman Proximity and Behavior Investigation), former local id 1211 (UVU Campus Familiarity Question), former local id 1212 (Phil Lyman Location Discrepancy)
 - N-2 (Erica Kirk)
 
 Cross-Episode Reconciliation Required:

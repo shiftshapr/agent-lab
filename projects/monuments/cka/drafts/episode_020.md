@@ -13,7 +13,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-269, N-272, N-273, N-277, N-278, N-281, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: none
+  - Hole-minted Nodes (remap-ep20): N-182
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-37, N-182
 
@@ -23,9 +24,9 @@ The episode advances several investigative threads already active in the series 
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:22:32
 Speaker: N-3
-Quote: e when I would see Laya kind&nbsp;&nbsp; of jump on the attacking the Christ is king or&nbsp; trying to rationalize why we shouldn't say Christ&nbs...
+Quote: when I would see Laya kind of jump on the attacking the Christ is king or trying to rationalize why we shouldn't say Christ&nbs...
 Context: Later reuse of Christ is King in CKA seq 20.
 Tags: faith, closing, chat_elevate, reuse
 Confidence: high
@@ -38,9 +39,9 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 01:03:39
 Speaker: N-3
-Quote: ing up on current events. Let me summarize.&nbsp; Everything is still fake and gay. Please give your&nbsp;&nbsp; husband and kids a huge hug from a...
+Quote: catching up on current events. Let me summarize. Everything is still fake and gay. Please give your husband and kids a huge hug from a...
 Context: Fake and gay dismissal refrain. (CKA seq 20)
 Tags: reuse, pass2
 Confidence: high
@@ -661,7 +662,7 @@ Claim Timestamp: 00:06:50
 Claim: Kanye West posted "I love the way Candace Owens thinks" on April 21, 2018.
 
 Anchored Artifacts: A-1272.1
-Mentions: N-56
+Mentions: N-56, N-3
 
 Investigative Direction: Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export).
 

@@ -723,6 +723,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-92",
+      "ref": "N-92",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -742,7 +806,8 @@
       "claim_timestamp": "00:03:37",
       "investigative_direction": "Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-1"
       ]
     },
     {
@@ -780,7 +845,8 @@
       "claim_timestamp": "00:06:02",
       "investigative_direction": "Obtain a certified copy of the death certificate and the medical examiner's full report.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-1"
       ]
     },
     {
@@ -1009,7 +1075,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:27",
-      "investigative_direction": "Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata."
+      "investigative_direction": "Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     },
     {
       "@type": "Claim",
@@ -1188,7 +1257,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
-      "investigative_direction": "Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording."
+      "investigative_direction": "Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.",
+      "mentions_person_refs": [
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -1253,7 +1325,8 @@
       "claim_timestamp": "00:45:21",
       "investigative_direction": "Verify release date and source channel.",
       "mentions_person_refs": [
-        "N-86"
+        "N-86",
+        "N-1"
       ]
     },
     {
@@ -1272,7 +1345,8 @@
       "claim_timestamp": "00:45:21",
       "investigative_direction": "Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.",
       "mentions_person_refs": [
-        "N-86"
+        "N-86",
+        "N-1"
       ]
     },
     {
@@ -1287,7 +1361,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:48:09",
-      "investigative_direction": "Verify exact post text and time stamp via Trump's Truth Social archive."
+      "investigative_direction": "Verify exact post text and time stamp via Trump's Truth Social archive.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1322,7 +1399,8 @@
       "claim_timestamp": "00:53:09",
       "investigative_direction": "Verify clip source and full Matt Walsh segment.",
       "mentions_person_refs": [
-        "N-228"
+        "N-228",
+        "N-1"
       ]
     },
     {

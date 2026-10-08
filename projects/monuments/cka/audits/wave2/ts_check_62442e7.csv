@@ -1,0 +1,49 @@
+episode,kind,id,old,new,resolution,basis
+7,artifact,A-1137.1,00:15:24–00:17:31,,VERIFIED_OK,located at 00:15:24 (score 100)
+2,claim,C-3631,00:07:02,00:07:05,RESTAMPED,located at 00:07:05 (score 100)
+4,artifact,A-1105.3,00:27:18,,VERIFIED_OK,located at 00:27:18 (score 100)
+2,claim,C-1128,00:15:01,00:15:24,RESTAMPED,located at 00:15:24 (score 98)
+2,claim,C-1125,00:07:26,00:07:45,RESTAMPED,located at 00:07:45 (score 100)
+8,artifact,A-2485.1,00:47:35,00:47:33,RESTAMPED,located at 00:47:33 (score 100)
+1,artifact,A-1077.1,00:10:29–00:10:44,,VERIFIED_OK,located at 00:10:29 (score 96)
+15,artifact,A-1225.3,00:16:50,,VERIFIED_OK,located at 00:16:50 (score 100)
+15,artifact,A-1225.2,00:16:50,,VERIFIED_OK,located at 00:16:50 (score 100)
+15,artifact,A-1220.3,00:26:20,,VERIFIED_OK,located at 00:26:20 (score 100)
+15,artifact,A-1223.1,00:39:45,,VERIFIED_OK,"verified: ""Alex has decided to share a total half-truth PR spin"" at 00:39:45"
+48,artifact,A-1553.1,00:27:47,00:26:46,RESTAMPED,"Turek clip ""They roped off the vehicle"" at 00:26:46"
+15,artifact,A-1224.1,00:13:08,,VERIFIED_OK,located at 00:13:08 (score 90)
+37,claim,C-3651,00:41:12,00:39:33,RESTAMPED,located at 00:39:33 (score 100)
+15,artifact,A-1220.1,00:24:03,,VERIFIED_OK,located at 00:24:03 (score 100)
+15,artifact,A-1226.1,00:45:52,00:45:02,RESTAMPED,"sermon title ""what has defiled you"" at 00:45:02"
+14,claim,C-3643,00:52:35,,VERIFIED_OK,located at 00:52:35 (score 100)
+15,artifact,A-1221.1,00:22:06,00:21:03,RESTAMPED,"Kolvet clip ""Because I know people can be evil"" at 00:21:03"
+48,artifact,A-1556.1,00:30:33,,VERIFIED_OK,"verified: ""I have six photos of the inside of that vehicle"" at 00:30:33"
+48,artifact,A-1555.1,00:41:47,,VERIFIED_OK,"verified: ""the 24th of the month prior"" at 00:41:47"
+14,artifact,A-2487.1,00:52:35,,VERIFIED_OK,located at 00:52:35 (score 100)
+15,artifact,A-1225.4,00:17:45,,VERIFIED_OK,"verified: ""Let's just throw in Josh Hammer"" at 00:17:45"
+33,claim,C-3735,00:13:12–00:14:51,00:10:59–00:14:51,RESTAMPED,snippet is spoken at 00:10:59; the range now covers the snippet and the flew-into-Salt-Lake passage (00:13:12 to 00:14:51)
+65,artifact,A-1696.1,00:08:54–01:23:21,00:08:54–01:21:47,RESTAMPED,"end of range moved to 01:21:47, where the 7 million views remark is spoken (the description credits viewer comment A-1694.2; left as is, Wave 3 wording check)"
+65,artifact,A-1695.1,01:46:20–01:47:10,,VERIFIED_OK,verified: Belly of the Beast tour at 01:46:20
+60,claim,C-3659,01:20:45,,VERIFIED_OK,located at 01:20:45 (score 100)
+65,artifact,A-1698.1,00:22:53,00:21:32,RESTAMPED,located at 00:21:32 (score 100)
+67,claim,C-3661,00:17:50,00:16:29,RESTAMPED,located at 00:16:29 (score 100)
+65,artifact,A-1703.1,00:05:56,,VERIFIED_OK,"verified: ""this clip had an arabic narration"" at 00:05:56"
+65,artifact,A-1700.1,01:21:47,,VERIFIED_OK,verified: Breaking the Silence ex-IDF movement at 01:21:47
+65,artifact,A-1690.1,00:43:21–00:45:10,,VERIFIED_OK,located at 00:43:21 (score 100)
+65,artifact,A-1692.1,00:20:46,,DEFERRED_WAVE3,on-screen B-roll with no spoken cue; cannot be checked from the transcript
+65,artifact,A-1694.1,01:21:47,,VERIFIED_OK,located at 01:21:47 (score 100)
+65,artifact,A-1693.2,00:15:48,,VERIFIED_OK,located at 00:15:48 (score 99)
+65,artifact,A-1701.1,00:04:32,,VERIFIED_OK,"start verified: the USS Liberty compensation passage (""tooth and nail"") starts in the 00:04:32 segment"
+70,claim,C-3662,00:42:45,00:40:26,RESTAMPED,located at 00:40:26 (score 100)
+58,claim,C-2123,00:39:06,,VERIFIED_OK,located at 00:39:06 (score 100)
+65,artifact,A-1694.4,01:21:04,,VERIFIED_OK,located at 01:21:04 (score 92)
+65,artifact,A-1702.1,00:05:56,,VERIFIED_OK,"verified: ""The next day Media Hassan came on the show"" at 00:05:56"
+65,artifact,A-1697.1,01:27:19–01:28:50,,VERIFIED_OK,verified: Ostrovsky book named at 01:27:19
+65,artifact,A-1691.1,00:00:01–00:00:54,,VERIFIED_OK,verified: anti-semite of the year segment at 00:00:01
+65,artifact,A-1699.1,00:38:13,,VERIFIED_OK,located at 00:38:13 (score 100)
+67,artifact,A-2489.1,00:17:50,00:16:29,RESTAMPED,located at 00:16:29 (score 100)
+65,artifact,A-1694.2,01:23:21,01:25:27,RESTAMPED,Phil Turney comment read at 01:25:27 (was swapped with A-1694.3)
+65,artifact,A-1694.3,01:25:27,01:24:41,RESTAMPED,Lioness comment read at 01:24:41 (was swapped with A-1694.2)
+65,artifact,A-1693.1,00:15:48,00:15:00,RESTAMPED,selfie on the floor described at 00:15:00
+107,claim,C-3716,01:00:27,00:56:05,RESTAMPED,"""Nowhere, including the Shawn Ryan show, have I ever declared"" at 00:56:05"
+107,claim,C-3709,00:16:54,00:23:09,RESTAMPED,"""Of course I do"" (cat story) at 00:23:09"

@@ -454,7 +454,7 @@ Claim Timestamp: 00:15:10
 Claim: Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.
 
 Anchored Artifacts: A-1754.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 
 Investigative Direction: Verify current YouTube view and comment counts on the Charlie Kirk channel.
@@ -468,7 +468,7 @@ Claim Timestamp: 00:16:12
 Claim: Candace Owens' "Letter to Erika" YouTube video has approximately 3.1 million views and 28,000 comments.
 
 Anchored Artifacts: A-1755.1
-Mentions: N-2
+Mentions: N-2, N-3
 
 
 Investigative Direction: Verify current YouTube view and comment counts on Candace Owens' channel.
@@ -586,7 +586,7 @@ Claim Timestamp: 00:30:34–00:40:02
 Claim: Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.
 
 Anchored Artifacts: A-1760.1
-Mentions: N-909
+Mentions: N-909, N-67
 
 Related Nodes: N-1571
 
@@ -601,6 +601,7 @@ Claim Timestamp: 00:33:44–00:36:06
 Claim: Seth Dillon characterized the Hamptons retreat as having a "save the West" theme with primary focus on "the threat of Islam."
 
 Anchored Artifacts: A-1760.1
+Mentions: N-67
 
 Related Nodes: N-1571
 
@@ -615,6 +616,7 @@ Claim Timestamp: 00:35:13–00:36:06
 Claim: Seth Dillon admitted the Hamptons meeting included "heated and spirited debate about the issue of Israel."
 
 Anchored Artifacts: A-1760.1
+Mentions: N-67
 
 Related Nodes: N-1571
 
@@ -629,7 +631,7 @@ Claim Timestamp: 00:35:13–00:36:06
 Claim: Seth Dillon claimed Charlie Kirk himself initiated the Israel discussion at the Hamptons meeting.
 
 Anchored Artifacts: A-1760.1
-Mentions: N-1
+Mentions: N-1, N-67
 
 Related Nodes: N-1571
 
@@ -644,7 +646,7 @@ Claim Timestamp: 00:31:24–00:32:50
 Claim: Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-909
+Mentions: N-909, N-67
 
 Related Nodes: N-1571
 
@@ -674,7 +676,7 @@ Claim Timestamp: 00:43:33–00:50:47
 Claim: Commenter "AO" states there is a clip of Erika speaking to Megan Kelly that confirms Candace Owens' recollection of lights flickering near Charlie Kirk.
 
 Anchored Artifacts: A-1762.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-3, N-75
 
 
 Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Megan Kelly.
@@ -702,7 +704,7 @@ Claim Timestamp: 00:45:37
 Claim: Per host statement read aloud from comment thread context, Charlie Kirk's parents have not reached out to Candace Owens to validate her investigation, though they have historically been private.
 
 Anchored Artifacts: A-1762.1
-Mentions: N-1
+Mentions: N-1, N-3
 
 
 Investigative Direction: Verify through any other public statements from Charlie Kirk's parents or family representatives.

@@ -37,15 +37,10 @@
             "C-2934"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1211",
-            "N-1213",
-            "N-1214",
-            "N-1218",
             "N-2066",
             "N-2067",
-            "N-2068"
+            "N-2068",
+            "N-57"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -69,13 +64,6 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1210",
-            "N-1211",
-            "N-1215",
-            "N-1216",
-            "N-1217",
-            "N-1222",
-            "N-1223",
             "N-42",
             "N-2069",
             "N-2070",
@@ -113,7 +101,6 @@
             "C-2920"
           ],
           "related_nodes": [
-            "N-1213",
             "N-2067",
             "N-2068"
           ],
@@ -142,8 +129,6 @@
             "C-2922"
           ],
           "related_nodes": [
-            "N-1211",
-            "N-1212",
             "N-2068"
           ],
           "tags": [],
@@ -228,11 +213,7 @@
             "C-2925",
             "C-2926"
           ],
-          "related_nodes": [
-            "N-1219",
-            "N-1220",
-            "N-1221"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -257,7 +238,7 @@
             "C-2927"
           ],
           "related_nodes": [
-            "N-1219"
+            "N-57"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,358 +305,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Newly identified VIP aboard Air Force designation SAM702 on September 9, 2025; serves as Under Secretary of War for Intelligence and Security (sworn in July 25, 2025); previously served in Navy and Army Special Forces Airborne Division; worked at Boston Consulting Group; served as Special Assistant to President Trump on National Security Affairs in Trump's first term.",
-      "related_artifacts": [
-        "A-2076.1",
-        "A-2076.2",
-        "A-2079.1"
-      ],
-      "related_claims": [
-        "C-2909",
-        "C-2910",
-        "C-2911",
-        "C-2912",
-        "C-2913"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-2066",
-        "N-2069"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Secretary of War; Bradley Hansel's direct superior per DoW website description.",
-      "related_artifacts": [
-        "A-2079.1"
-      ],
-      "related_claims": [
-        "C-2909"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Referenced as person who allegedly was seen at Fort Huachuca on September 9, 2025 morning; host states he has been \"extremely reticent\" to confirm or deny his presence.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2069"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Person aboard Egyptian plane SUBTU/SUBTV; host reports he was in Provo on June 2, 2025 and later departed Wilmington on the day of Charlie Kirk's assassination.",
-      "related_artifacts": [
-        "A-2076.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2070"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "US Evangelical leader; appointed executive chairman of the Gaza Humanitarian Foundation per Times of Israel; previously part of the Cyrus Company duo with Andrew Kovac; abandoned the GHF chairmanship in November.",
-      "related_artifacts": [
-        "A-2076.1",
-        "A-2076.2",
-        "A-2078.1"
-      ],
-      "related_claims": [
-        "C-2921"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1212",
-        "N-2068"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Former CEO of Gaza Humanitarian Foundation; resigned prior to BCG withdrawal per Times of Israel article.",
-      "related_artifacts": [
-        "A-2078.1"
-      ],
-      "related_claims": [
-        "C-2922"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1211",
-        "N-2068"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "CEO of Boston Consulting Group; described Project Aurora episode as \"reputationally very damaging\" per Financial Times reporting.",
-      "related_artifacts": [
-        "A-2076.1",
-        "A-2077.1"
-      ],
-      "related_claims": [
-        "C-2920"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2066",
-        "N-2067"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Ex-CIA operative who worked for Orbis; per displayed graphic, BCG was chosen for Project Aurora due to \"long-standing relationship\" with Riley.",
-      "related_artifacts": [
-        "A-2076.1"
-      ],
-      "related_claims": [
-        "C-2934"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Per host, had no prior writing profile before publishing first article for Jezebel in June 2025; per host, her Etsy witchcraft activity targeting Charlie Kirk has not been investigated by the press.",
-      "related_artifacts": [
-        "A-2076.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Heads Turning Point USA faith department; pastor at Calvary Chapel Long Beach where Erika Kirk spoke on July 14, 2025.",
-      "related_artifacts": [
-        "A-2076.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Former lead pastor of Calvary Church; resigned July 2, 2025 and announced move to Arizona per host.",
-      "related_artifacts": [
-        "A-2076.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Per host: Israeli spy; father of Ghislaine Maxwell (host spells \"Elaine Maxwell\"); one of the seed investors in Bain Capital at founding per host.",
-      "related_artifacts": [
-        "A-2076.1"
-      ],
-      "related_claims": [
-        "C-2931"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Per NYT article, was the 46-year-old driver of the car that struck Romney; host notes name not specified on-air but is given in NYT text as Albert Marie.",
-      "related_artifacts": [
-        "A-2081.1"
-      ],
-      "related_claims": [
-        "C-2926"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1220"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Killed in June 16, 1968 car crash in France; wife of H. Dwayne Anderson (Mormon mission president); passenger in vehicle driven by Mitt Romney.",
-      "related_artifacts": [
-        "A-2081.1"
-      ],
-      "related_claims": [
-        "C-2925"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1221"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "President of the Mormon mission to France in 1968; husband of Leola Anderson (deceased).",
-      "related_artifacts": [
-        "A-2081.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1220"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Per host, new CEO of a flight training school connected to a Tucson–Fort Huachuca flight; linked to \"Rathon and North Brunman\" (Raytheon and Northrop Grumman) per host.",
-      "related_artifacts": [
-        "A-2076.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "Per host, source confirming Charlie Kirk's June 18 White House meeting date.",
-      "related_artifacts": [
-        "A-2076.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2072"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2066",
       "ref": "N-2066",
       "name": "Boston Consulting Group Government Pipeline",
@@ -695,12 +324,7 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1213",
-        "N-1218"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -725,10 +349,7 @@
       "evidence_count": 1,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1213"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -755,12 +376,7 @@
       "evidence_count": 4,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-1212",
-        "N-1214"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -802,10 +418,7 @@
       "evidence_count": 2,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1210"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -841,7 +454,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1223",
         "N-42"
       ]
     },
@@ -926,6 +538,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-76",
+      "ref": "N-76",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Epstein associate; quoted saying Epstein's residence was \"a Jewish country club.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-77",
+      "ref": "N-77",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-696",
+      "ref": "N-696",
+      "name": "Johnny Moore",
+      "type": "person",
+      "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kovette/Chyros partnership.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1098,7 +774,6 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2067"
       ],
       "tags": [],
@@ -1115,7 +790,6 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2067"
       ],
       "tags": [],
@@ -1133,13 +807,14 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-1212",
         "N-2068"
       ],
       "tags": [],
       "claim_timestamp": "00:20:00",
-      "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\")."
+      "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\").",
+      "mentions_person_refs": [
+        "N-696"
+      ]
     },
     {
       "@type": "Claim",
@@ -1151,8 +826,6 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-1212",
         "N-2068"
       ],
       "tags": [],
@@ -1201,11 +874,7 @@
       "anchored_artifacts": [
         "A-2081.1"
       ],
-      "related_nodes": [
-        "N-1219",
-        "N-1220",
-        "N-1221"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Cross-check NYT article with contemporaneous French press; verify date.",
@@ -1222,10 +891,7 @@
       "anchored_artifacts": [
         "A-2081.1"
       ],
-      "related_nodes": [
-        "N-1219",
-        "N-1220"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\""
@@ -1239,9 +905,7 @@
       "anchored_artifacts": [
         "A-2082.1"
       ],
-      "related_nodes": [
-        "N-1219"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:50",
       "investigative_direction": "Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity.",
@@ -1265,6 +929,7 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Obtain archived screenshots of Erika Kirk's Instagram account as of June 18–19, 2025.",
       "mentions_person_refs": [
+        "N-1",
         "N-2"
       ]
     },
@@ -1298,14 +963,14 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-1218",
         "N-2066"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.",
       "mentions_person_refs": [
-        "N-57"
+        "N-57",
+        "N-65"
       ]
     },
     {
@@ -1318,14 +983,15 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-1218",
         "N-2066"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.",
       "mentions_person_refs": [
-        "N-57"
+        "N-57",
+        "N-76",
+        "N-77"
       ]
     },
     {
@@ -1370,7 +1036,6 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-2068"
       ],
       "tags": [],

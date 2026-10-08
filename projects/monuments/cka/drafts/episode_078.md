@@ -549,6 +549,7 @@ Claim Timestamp: 00:03:07
 Claim: The displayed New York Post article identifies 301 East 66th Street, a 16-story post-war condo between First and Second Avenues, as a building where Jeffrey Epstein kept underage victims and which functioned as a logistical hub for his operations.
 
 Anchored Artifacts: A-1835.1
+Mentions: N-35
 Related Nodes: N-1604
 Investigative Direction: Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.
 
@@ -561,6 +562,7 @@ Claim Timestamp: 00:04:48
 Claim: Per the displayed NY Post article, some apartments in the 301 East 66th Street building were labeled in Jeffrey Epstein's address book as "apartments for models."
 
 Anchored Artifacts: A-1835.1
+Mentions: N-35
 Related Nodes: N-1604, N-1605
 Investigative Direction: Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses.
 
@@ -649,7 +651,7 @@ Claim Timestamp: 00:21:19
 Claim: Per the displayed Megyn Kelly interview clip, Christina Babin described being taken by an adult couple in the night as a child and shown how to have sex, attributing the instruction to a letter sent by cult leader David Berg.
 
 Anchored Artifacts: A-1840.1
-Mentions: N-972, N-982
+Mentions: N-972, N-982, N-75
 Related Nodes: N-1607
 Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's "sexual sharing" directive.
 
@@ -674,6 +676,7 @@ Claim Timestamp: 00:34:11
 Claim: Per the displayed video, the necklace worn by Charlie Kirk is shown moving/whipping upward after impact with the magnet clasp still attached to the chain.
 
 Anchored Artifacts: A-1842.1, A-1842.4
+Mentions: N-1
 Related Nodes: N-1608, N-1610
 Investigative Direction: Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host).
 
@@ -686,6 +689,7 @@ Claim Timestamp: 00:36:56
 Claim: Per the displayed video, no blood is visible traveling backward from Charlie Kirk after he is hit, contrary to what a high-velocity projectile striking the head would be expected to produce.
 
 Anchored Artifacts: A-1842.2
+Mentions: N-1
 Related Nodes: N-1608
 Investigative Direction: Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round.
 
@@ -698,6 +702,7 @@ Claim Timestamp: 00:39:06
 Claim: Per the displayed video, when Charlie Kirk's hands first make contact with the table, he does not grasp or take any object from it.
 
 Anchored Artifacts: A-1842.3
+Mentions: N-1
 Related Nodes: N-1608
 Investigative Direction: Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory.
 
@@ -736,7 +741,7 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed X community note, the Massie tweet from Turning Point Action was fact-checked with the statement: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman."
 
 Anchored Artifacts: A-1844.2
-Mentions: N-968
+Mentions: N-968, N-1
 Related Nodes: N-1611
 Investigative Direction: Preserve community note metadata; identify raters and any subsequent updates to the note.
 
@@ -788,6 +793,7 @@ Claim Timestamp: 00:38:21
 Claim: Per the displayed video, an individual the host identifies as "Dan" is observed pushing Charlie Kirk to the ground after he is hit.
 
 Anchored Artifacts: A-1842.2
+Mentions: N-1
 Related Nodes: N-1608
 Investigative Direction: Identify the individual referred to as "Dan" via displayed video and corroborate identity with official event staff rosters.
 
@@ -800,6 +806,7 @@ Claim Timestamp: 00:31:14
 Claim: Per the host's framing of the displayed van photos (corroborating analysis by Baron Coleman referenced by host), the photos do not depict the circumstances in which Brian Harpole was described as "hanging out of the SUV."
 
 Anchored Artifacts: A-1841.1, A-1841.2
+Mentions: N-424, N-552
 Related Nodes: N-1609
 Investigative Direction: Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.
 

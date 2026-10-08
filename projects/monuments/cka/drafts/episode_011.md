@@ -420,6 +420,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:45–00:03:25
 Claim: The 2022 police bodycam audio presented in the episode shows Tyler Robinson referring to "his car" and his mother "shuttling over from her car," contrasting with the federal text messages' vocabulary.
 Anchored Artifacts: A-1171.1
+Mentions: N-69
 Related Nodes:
 Investigative Direction: Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.
 
@@ -428,6 +429,7 @@ Investigative Direction: Obtain the original 2022 bodycam video and full transcr
 Claim Timestamp: 00:03:25
 Claim: Host states (via commentary on A-1171.1) that Robinson's everyday use of "car" rather than "vehicle" is typical of ordinary American English speakers.
 Anchored Artifacts: A-1171.1
+Mentions: N-69
 Related Nodes:
 Investigative Direction: Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage.
 *Note: This is a host interpretive claim layered on the same artifact.*
@@ -453,6 +455,7 @@ Investigative Direction: Pull the cited court documents and compare Brooksby's p
 Claim Timestamp: 00:04:50–00:05:30
 Claim: Brooksby stated that during the initial 8:02 p.m. call, the retired detective reported that Tyler had "suicidal ideations" and was being directed to a remote area in Washington County.
 Anchored Artifacts: A-1172.2
+Mentions: N-69
 Related Nodes: N-1208
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
 
@@ -461,6 +464,7 @@ Investigative Direction: Obtain the full unedited press-conference audio and any
 Claim Timestamp: 00:05:30–00:06:15
 Claim: Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated "delicate and as soft as possible" reception because he was "fearful of a SWAT team hit" and being shot by law enforcement.
 Anchored Artifacts: A-1172.3
+Mentions: N-69
 Related Nodes: N-1208
 Investigative Direction: Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.
 
@@ -469,6 +473,7 @@ Investigative Direction: Obtain any negotiated-surrender documentation; reconcil
 Claim Timestamp: 00:07:30–00:08:10
 Claim: Host presents Lance's Halloween-era Instagram caption ("I forgot to post my boyfriend is the best. Love you.") and a photo of Tyler with a mustache as evidence that Tyler and Lance were in a romantic relationship.
 Anchored Artifacts: A-1173.1, A-1173.2
+Mentions: N-69
 Related Nodes: N-1209
 Investigative Direction: Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.
 
@@ -511,7 +516,7 @@ Investigative Direction: Timestamp the TMZ footage independently and reconcile w
 Claim Timestamp: 00:29:30–00:30:00
 Claim: In the Kaye McAney interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
 Anchored Artifacts: A-1177.1
-Mentions: N-92
+Mentions: N-92, N-180
 Related Nodes: N-1210
 Investigative Direction: Pull county property records for the relevant street and verify ownership chain.
 
@@ -520,7 +525,7 @@ Investigative Direction: Pull county property records for the relevant street an
 Claim Timestamp: 00:30:00–00:32:00
 Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, retreating behind retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
 Anchored Artifacts: A-1178.1
-Mentions: N-92
+Mentions: N-92, N-128
 Related Nodes: N-1210
 Investigative Direction: Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.
 
@@ -529,7 +534,7 @@ Investigative Direction: Obtain the unedited Alex Jones segment and any witness 
 Claim Timestamp: 00:32:30–00:33:15
 Claim: In a local Utah news interview, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to "meet some friends" away from the stage.
 Anchored Artifacts: A-1179.1
-Mentions: N-92
+Mentions: N-92, N-1
 Related Nodes: N-1210
 Investigative Direction: Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.
 
@@ -538,7 +543,7 @@ Investigative Direction: Obtain the unedited local Utah news segment; compare ti
 Claim Timestamp: 00:34:00–00:35:30
 Claim: In his own Instagram video, Phil Lyman stated he was driving from Salt Lake to Blanding on the night of the shooting, stopped by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
 Anchored Artifacts: A-1180.1
-Mentions: N-92
+Mentions: N-92, N-1
 Related Nodes: N-1210
 Investigative Direction: Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.
 
@@ -586,7 +591,7 @@ Claim Timestamp: 00:25:00–00:25:20
 Claim: Host states that Nick sent the food-court photo of a person in a black suit and dark sunglasses with a strap hanging from a bag into the tips box early in the investigation.
 Anchored Artifacts: A-1175.1
 Mentions: N-177
-Related Nodes: N-1210
+Related Nodes:
 Investigative Direction: Recover the original image and metadata; identify the individual depicted.
 
 **C-1317** Host acknowledges Marzy's keyholing-fragmentation bullet theory as new information
@@ -600,7 +605,7 @@ Investigative Direction: Independent forensic review of recovered bullet(s) for 
 
 **C-1318** Host concurs with Caitlyn Derrian's characterization of her journalism
 
-Claim Timestamp: 00:49:50
+Claim Timestamp: 00:49:16
 Claim: Host expresses gratitude for Caitlyn Derrian's supportive comment and concurs with the framing.
 Anchored Artifacts: A-1182.2
 Related Nodes:
@@ -612,6 +617,7 @@ Investigative Direction: N/A — rhetorical/statement of self-positioning, recor
 Claim Timestamp: 00:00:00–00:00:01
 Claim: Host concurs with Kristen Theoret's, Cassie's, and Kaya's comments that the people closest to Charlie Kirk have not been asking questions about the shooting.
 Anchored Artifacts: A-1182.3, A-1182.6, A-1182.7
+Mentions: N-1
 Related Nodes:
 Investigative Direction: Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk.
 *Note: Host concurrence claims on viewer-comment artifacts.*
@@ -621,6 +627,7 @@ Investigative Direction: Inventory public statements/actions (or silence) by nam
 Claim Timestamp: 00:00:00–00:00:01
 Claim: Host concurs with Bitsy's comment about a "stage" narrative; concurs with Miranda Allen's prayer request and reports that she also prays for protection over investigators.
 Anchored Artifacts: A-1182.4, A-1182.5
+Mentions: N-92
 Related Nodes:
 Investigative Direction: N/A — rhetorical/statement of self-positioning.
 *Optional Flag: Claim failed admission test for investigation; inscribed as concurrence only.*
@@ -633,9 +640,9 @@ Investigative Direction: N/A — rhetorical/statement of self-positioning.
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:49:16
 Speaker: N-3
-Quote: omething's not right. I know it's not&nbsp;&nbsp; right. Okay. Uh, we don't know now, but we know.&nbsp; You know, we don't know, but we know. And ...
+Quote: Something's not right. I know it's not right. Okay. Uh, we don't know now, but we know. You know, we don't know, but we know. And ...
 Context: We don't know but we know refrain. (CKA seq 11)
 Tags: reuse, pass2
 Confidence: high

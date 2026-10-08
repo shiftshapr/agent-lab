@@ -469,7 +469,7 @@ Claim Timestamp: 00:43:28
 Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way" or "called out when they're lying."
 
 Anchored Artifacts: A-1537.1
-Mentions: N-86, N-133, N-135, N-349, N-350
+Mentions: N-86, N-133, N-135, N-349, N-350, N-3
 
 
 Investigative Direction: Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.
@@ -497,7 +497,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.
 
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
-Mentions: N-444, N-537
+Mentions: N-444, N-537, N-2
 
 Related Nodes: N-1405
 

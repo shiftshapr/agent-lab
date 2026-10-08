@@ -204,7 +204,6 @@
             "C-3053"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2129"
           ],
           "tags": [],
@@ -230,9 +229,7 @@
           "related_claims": [
             "C-3055"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -257,8 +254,6 @@
             "C-3054"
           ],
           "related_nodes": [
-            "N-1214",
-            "N-1215",
             "N-2130"
           ],
           "tags": [],
@@ -272,287 +267,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "UVU police officer who reached the Losee Center rooftop at 12:44 p.m. and whose body cam footage is alleged to have terminated mid-rooftop. Central to multiple testimony claims.",
-      "related_artifacts": [
-        "A-2146.1",
-        "A-2146.2",
-        "A-2147.1"
-      ],
-      "related_claims": [
-        "C-3042",
-        "C-3043",
-        "C-3044"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2124",
-        "N-2125"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Utah Bureau of Investigations state agent who authored reports documenting the abandoned backpack/jacket/gloves at the Fulton Library bus stop and acknowledged the FBI testing reversal.",
-      "related_artifacts": [
-        "A-2148.1",
-        "A-2148.2"
-      ],
-      "related_claims": [
-        "C-3046",
-        "C-3047",
-        "C-3048"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2126"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "FBI agent who testified that the backpack was determined to be a bystander's and that lab notes attributed it to Kirk's detail via another lab employee's communication.",
-      "related_artifacts": [
-        "A-2149.1",
-        "A-2149.2"
-      ],
-      "related_claims": [
-        "C-3049",
-        "C-3050",
-        "C-3051"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2126"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Christian apologist present at the September 10 event; his FaceTime call and post-event statements are the subject of inquiry.",
-      "related_artifacts": [
-        "A-2150.1",
-        "A-2151.1"
-      ],
-      "related_claims": [
-        "C-3052",
-        "C-3053",
-        "C-3055"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-1212",
-        "N-2129"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Frank Turek's adult son reported as serving at the Pentagon (deputy division chief of the Joint Staff); co-author with Frank of \"Hollywood Heroes.\"",
-      "related_artifacts": [
-        "A-2150.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-2129"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Frank Turek's adult son reported as an Air Force branch chief pilot; identified by Frank as the FaceTime participant on September 10.",
-      "related_artifacts": [
-        "A-2150.1"
-      ],
-      "related_claims": [
-        "C-3052"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1210",
-        "N-2129"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Identified by host as the source who flagged the preliminary-hearing backpack testimony exchange over the prior weekend.",
-      "related_artifacts": [
-        "A-2148.1",
-        "A-2148.2",
-        "A-2149.1",
-        "A-2149.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "FBI assistant director whose September 15 on-air statement about the screwdriver footage's graininess is cited as a baseline against which later \"crystal clear\" influencer claims are measured.",
-      "related_artifacts": [
-        "A-2152.1"
-      ],
-      "related_claims": [
-        "C-3054"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2130"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Host of the September 15 interview in which Bongino described the screwdriver footage as too grainy; subject of host commentary on influencer trust.",
-      "related_artifacts": [
-        "A-2152.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1214",
-        "N-2130"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Verified hospital employee who told host that the hospital was not pre-informed of Charlie Kirk's arrival.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3056"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2127"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Sept. 10 attendee whose recorded statements about gauze, the 911 call, and brother Brian are referenced for the 911-call identification gap.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3057"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2128"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "TPUSA spokesperson whose initial Sept. 10 tweet (\"Even in death, Charlie saved lives\") is cited by host as the first \"Superman neck\" framing artifact.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Host of the prior 5-hour interview referenced via comment section; not directly tied to investigation claims.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2124",
@@ -645,10 +359,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1216"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -665,10 +376,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1217"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -688,12 +396,7 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1211",
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -712,11 +415,87 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1214",
-        "N-1215"
-      ]
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -892,13 +671,14 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1212",
         "N-2129"
       ],
       "tags": [],
       "claim_timestamp": "00:35:42–00:36:38",
-      "investigative_direction": "Obtain call-detail records (timestamps, duration, devices) for the FaceTime session."
+      "investigative_direction": "Obtain call-detail records (timestamps, duration, devices) for the FaceTime session.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -910,12 +690,14 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2129"
       ],
       "tags": [],
       "claim_timestamp": "00:35:42–00:38:14",
-      "investigative_direction": "Obtain the full unedited interview recordings and any prior statements Turek made on this point."
+      "investigative_direction": "Obtain the full unedited interview recordings and any prior statements Turek made on this point.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -927,13 +709,14 @@
         "A-2152.1"
       ],
       "related_nodes": [
-        "N-1214",
-        "N-1215",
         "N-2130"
       ],
       "tags": [],
       "claim_timestamp": "00:46:07–00:47:07",
-      "investigative_direction": "Obtain the original Megyn Kelly / Bongino Sept. 15 broadcast and any FBI enhancement documentation released between Sept. 15 and the influencer court-day coverage."
+      "investigative_direction": "Obtain the original Megyn Kelly / Bongino Sept. 15 broadcast and any FBI enhancement documentation released between Sept. 15 and the influencer court-day coverage.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -944,12 +727,14 @@
       "anchored_artifacts": [
         "A-2151.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:48–00:34:40",
-      "investigative_direction": "Note as Frank Turek show content artifact; not investigation-relevant. Preserve for record only."
+      "investigative_direction": "Note as Frank Turek show content artifact; not investigation-relevant. Preserve for record only.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -959,12 +744,14 @@
       "claim": "A source verified by host as a Timpanogos Regional Hospital employee told the host that the hospital was not informed ahead of time that Charlie Kirk was en route, contrary to the official 911-call-and-pre-notification narrative.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1216",
         "N-2127"
       ],
       "tags": [],
       "claim_timestamp": "00:25:23–00:27:13",
-      "investigative_direction": "Obtain independent corroboration from hospital intake records, EMS radio traffic, and any 911-call recordings reflecting pre-arrival coordination."
+      "investigative_direction": "Obtain independent corroboration from hospital intake records, EMS radio traffic, and any 911-call recordings reflecting pre-arrival coordination.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -974,12 +761,14 @@
       "claim": "Brian Harpole, in on-record statements, references a 911 call collectively (\"we called 911\") without identifying the specific individual who placed the call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1217",
         "N-2128"
       ],
       "tags": [],
       "claim_timestamp": "00:26:17–00:27:13",
-      "investigative_direction": "Obtain the 911-call audio and CPD/EMS dispatch records for Sept. 10, 2025 between 12:23 and 12:30 p.m."
+      "investigative_direction": "Obtain the 911-call audio and CPD/EMS dispatch records for Sept. 10, 2025 between 12:23 and 12:30 p.m.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     }
   ],
   "memes": []

@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - Claim Range: C-3236–C-3258
   - New Nodes Introduced: N-2185, N-2186, N-2187, N-2188, N-2189
-  - Reused Nodes Appearing: N-1207, N-1208, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-69, N-46
+  - Reused Nodes Appearing: N-69, N-46
   - Existing Nodes Reused: N-1, N-2
 
 ---
@@ -67,7 +67,7 @@ Video Timestamp: 00:03:25–00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3237, C-3238, N-1213*
+*Related: C-3237, C-3238*
 
 **A-2255.2** Wilson states he hugged Erika Kirk at TPUSA HQ
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3241, N-1210*
+*Related: C-3241*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3242, N-1211*
+*Related: C-3242*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:17:07–00:17:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3247, N-1212, N-1*
+*Related: C-3247, N-1*
 
 ---
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:42:30–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3254, N-1211, N-2188*
+*Related: C-3254, N-2188*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:49:52–00:51:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3256, N-1217*
+*Related: C-3256*
 
 ---
 
@@ -450,9 +450,9 @@ Claim Timestamp: 00:03:25–00:04:12
 Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owens $300,000 to debate him regarding the Charlie Kirk case.
 
 Anchored Artifacts: A-2255.1
-Mentions: N-46
+Mentions: N-46, N-3, N-1, N-427
 
-Related Nodes: N-1213
+Related Nodes:
 
 Investigative Direction: Verify funding source of the $300K offer; obtain any formal documentation or PR communications.
 
@@ -465,9 +465,9 @@ Claim Timestamp: 00:04:12–00:05:52
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.
 
 Anchored Artifacts: A-2255.2
-Mentions: N-2, N-46
+Mentions: N-2, N-46, N-427
 
-Related Nodes: N-1213
+Related Nodes:
 
 Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.
 
@@ -480,9 +480,9 @@ Claim Timestamp: 00:03:25–00:04:59
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-1, N-2, N-46
+Mentions: N-1, N-2, N-46, N-3, N-427
 
-Related Nodes: N-1213
+Related Nodes:
 
 Investigative Direction: Catalogue all Candace Owens public statements and shown evidence; evaluate the "no evidence" characterization against documented artifacts.
 
@@ -497,7 +497,7 @@ Claim: Andrew Kovac stated on X that Andrew Wilson was paid for one day of debat
 Anchored Artifacts: A-2256.1
 Mentions: N-46
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.
 
@@ -510,9 +510,9 @@ Claim Timestamp: 00:13:00
 Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson "does a great job" dissecting conspiracy theories and answering Rogan's questions.
 
 Anchored Artifacts: A-2257.1
-Mentions: N-46
+Mentions: N-46, N-224, N-427
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior amplification patterns.
 
@@ -527,7 +527,7 @@ Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent n
 Anchored Artifacts: A-2258.1
 Mentions: N-46
 
-Related Nodes: N-1215
+Related Nodes:
 
 Investigative Direction: Obtain full unedited debate recording to verify context and whether insults were reciprocated.
 
@@ -540,6 +540,7 @@ Claim Timestamp: 00:28:00–00:30:00
 Claim: A displayed snowboarding photo shows Lance Twigs falling onto his left hand, consistent with left-handedness or ambidextercy.
 
 Anchored Artifacts: A-2259.1
+Mentions: N-84
 
 Related Nodes: N-2186
 
@@ -554,6 +555,7 @@ Claim Timestamp: 00:29:04
 Claim: A displayed photo shows Lance Twigs fueling a vehicle with his left hand at a Texas gas station.
 
 Anchored Artifacts: A-2259.2
+Mentions: N-84
 
 Related Nodes: N-2186
 
@@ -568,6 +570,7 @@ Claim Timestamp: 00:30:09–00:30:33
 Claim: A childhood piano recital video of Lance Twigs ("My name is Lance Twigs. I am playing country concert for young pianists") shows him wearing a watch on his right hand and turning the page with his left hand.
 
 Anchored Artifacts: A-2259.4
+Mentions: N-84
 
 Related Nodes: N-2186
 
@@ -582,9 +585,9 @@ Claim Timestamp: 00:17:07–00:17:57
 Claim: In a clip from The Benny Johnson Show, Benny Johnson stated that the public has seen only 1–2% of the physically available evidence in the Kirk case.
 
 Anchored Artifacts: A-2260.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-124
 
-Related Nodes: N-1212
+Related Nodes:
 
 Investigative Direction: Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased.
 
@@ -612,6 +615,7 @@ Claim Timestamp: 00:36:34
 Claim: Matt Walsh posted on X that grocery prices are insane and still rising, calling it the number one priority for elected leaders.
 
 Anchored Artifacts: A-2262.1
+Mentions: N-228
 
 Related Nodes: N-2188
 
@@ -654,6 +658,7 @@ Claim Timestamp: 00:38:00–00:39:30
 Claim: Matt Walsh replied to Joel Barry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
 
 Anchored Artifacts: A-2262.4
+Mentions: N-228
 
 Related Nodes: N-2188
 
@@ -682,8 +687,9 @@ Claim Timestamp: 00:42:30–00:43:30
 Claim: Blake Nef shared a World Economic Forum chart on X claiming Americans spend less of their income on food than any other country on the planet.
 
 Anchored Artifacts: A-2262.6
+Mentions: N-224
 
-Related Nodes: N-2188, N-1211
+Related Nodes: N-2188
 
 Investigative Direction: Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison.
 
@@ -697,7 +703,7 @@ Claim: Ben Shapiro introduced a Daily Wire film trailer on X claiming Hollywood 
 
 Anchored Artifacts: A-2263.1, A-2263.2
 
-Related Nodes: N-2188, N-1216
+Related Nodes: N-2188
 
 Investigative Direction: Verify release date, distribution, and producer credits.
 
@@ -711,7 +717,7 @@ Claim: A video posted by Rabbi Schmoolie shows a couple in Iceland confronting h
 
 Anchored Artifacts: A-2264.1
 
-Related Nodes: N-1217
+Related Nodes:
 
 Investigative Direction: Verify participants' identities and location.
 
@@ -765,9 +771,9 @@ Investigative Direction: Verify Wikipedia entry at time of access; check edit hi
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:39:26
 Speaker: N-3
-Quote: 's problematic when when Matt Walsh says the same thing and keeps the same energy no matter who's in office, which is authentic. You're just going ...
+Quote: it's problematic when when Matt Walsh says the same thing and keeps the same energy no matter who's in office, which is authentic. You're just going
 Context: Later reuse of Same Energy in CKA seq 139.
 Tags: vibe, chat_elevate, comparison, reuse
 Confidence: high
@@ -796,4 +802,4 @@ Confidence: high
 - **Artifact Families Introduced:** A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265, A-2266
 - **Claim Range:** C-3236–C-3259
 - **New Nodes Introduced:** N-2185, N-2186, N-2187, N-2188, N-2189
-- **Existing Nodes Reused:** N-1, N-2, N-1207, N-1208, N-69, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+- **Existing Nodes Reused:** N-1, N-2, N-69

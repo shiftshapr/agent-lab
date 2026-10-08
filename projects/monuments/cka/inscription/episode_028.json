@@ -417,6 +417,102 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-67",
+      "ref": "N-67",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -433,7 +529,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
-      "investigative_direction": "Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing."
+      "investigative_direction": "Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.",
+      "mentions_person_refs": [
+        "N-340",
+        "N-50",
+        "N-75",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -447,7 +549,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
-      "investigative_direction": "Compare Shapiro's exact phrasing on stage to prior and subsequent statements to determine whether \"evil\" was used to characterize Owens' investigation, her rhetoric, or both."
+      "investigative_direction": "Compare Shapiro's exact phrasing on stage to prior and subsequent statements to determine whether \"evil\" was used to characterize Owens' investigation, her rhetoric, or both.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-75",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -463,7 +570,14 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
-      "investigative_direction": "Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative."
+      "investigative_direction": "Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-75",
+        "N-133",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -479,7 +593,14 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
-      "investigative_direction": "Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie."
+      "investigative_direction": "Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-75",
+        "N-133",
+        "N-67"
+      ]
     },
     {
       "@type": "Claim",
@@ -494,7 +615,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:04",
-      "investigative_direction": "Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted."
+      "investigative_direction": "Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted.",
+      "mentions_person_refs": [
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",
@@ -509,7 +633,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:04–00:15:45",
-      "investigative_direction": "Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation."
+      "investigative_direction": "Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation.",
+      "mentions_person_refs": [
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",
@@ -526,7 +653,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:27–00:17:50",
-      "investigative_direction": "Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited."
+      "investigative_direction": "Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -542,7 +674,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:16–00:27:36",
-      "investigative_direction": "Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings."
+      "investigative_direction": "Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.",
+      "mentions_person_refs": [
+        "N-362",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -556,7 +692,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:44–00:35:14",
-      "investigative_direction": "Pull the full CNN interview transcript to verify the exact phrasing and surrounding context."
+      "investigative_direction": "Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.",
+      "mentions_person_refs": [
+        "N-360",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -584,7 +724,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:12–00:41:34",
-      "investigative_direction": "Confirm the event date, attendance records, and Turning Point USA's official event listing."
+      "investigative_direction": "Confirm the event date, attendance records, and Turning Point USA's official event listing.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -612,7 +755,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:12",
-      "investigative_direction": "Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended."
+      "investigative_direction": "Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended.",
+      "mentions_person_refs": [
+        "N-293",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -626,7 +773,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:12",
-      "investigative_direction": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology."
+      "investigative_direction": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.",
+      "mentions_person_refs": [
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -640,7 +790,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:34–00:05:23",
-      "investigative_direction": "Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date."
+      "investigative_direction": "Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -654,7 +809,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:44–00:33:57",
-      "investigative_direction": "Confirm the interview date against CNN's published interview records or the original broadcast timestamp."
+      "investigative_direction": "Confirm the interview date against CNN's published interview records or the original broadcast timestamp.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-360",
+        "N-3"
+      ]
     }
   ],
   "memes": []

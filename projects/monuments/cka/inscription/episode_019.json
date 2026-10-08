@@ -792,6 +792,118 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-56",
+      "ref": "N-56",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-62",
+      "ref": "N-62",
+      "name": "Donald Trump Jr. (Don Jr.)",
+      "type": "person",
+      "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-86",
+      "ref": "N-86",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -848,7 +960,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
-      "investigative_direction": "Verify timing continuity and identify any change in phone-use posture during the post-shot interval."
+      "investigative_direction": "Verify timing continuity and identify any change in phone-use posture during the post-shot interval.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -885,7 +1000,8 @@
       "claim_timestamp": "00:24:44–00:25:51",
       "investigative_direction": "Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.",
       "mentions_person_refs": [
-        "N-256"
+        "N-256",
+        "N-1"
       ]
     },
     {
@@ -904,7 +1020,8 @@
       "claim_timestamp": "00:23:05",
       "investigative_direction": "Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.",
       "mentions_person_refs": [
-        "N-256"
+        "N-256",
+        "N-3"
       ]
     },
     {
@@ -923,7 +1040,9 @@
       "claim_timestamp": "00:07:11",
       "investigative_direction": "Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.",
       "mentions_person_refs": [
-        "N-255"
+        "N-255",
+        "N-1",
+        "N-45"
       ]
     },
     {
@@ -938,7 +1057,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:21–00:39:19",
-      "investigative_direction": "Obtain authenticated message metadata (timestamps, device identifiers, original phone) and corroborate via independent device forensics."
+      "investigative_direction": "Obtain authenticated message metadata (timestamps, device identifiers, original phone) and corroborate via independent device forensics.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -952,7 +1075,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:21–00:39:19",
-      "investigative_direction": "Authenticate message metadata as for C-1468."
+      "investigative_direction": "Authenticate message metadata as for C-1468.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -966,7 +1093,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:21",
-      "investigative_direction": "Identify any direct verbatim text within A-1266.1 that matches the precise phrasing \"Turning Point was going to be the death of him.\""
+      "investigative_direction": "Identify any direct verbatim text within A-1266.1 that matches the precise phrasing \"Turning Point was going to be the death of him.\"",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -980,7 +1110,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:49–00:35:33",
-      "investigative_direction": "Authenticate text message source and timestamp (referenced as having been shown in prior episode; verify against original)."
+      "investigative_direction": "Authenticate text message source and timestamp (referenced as having been shown in prior episode; verify against original).",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -994,7 +1127,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:42",
-      "investigative_direction": "Identify the date, venue, and full transcript of the UVU exchange."
+      "investigative_direction": "Identify the date, venue, and full transcript of the UVU exchange.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1008,7 +1144,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:02",
-      "investigative_direction": "Confirm photograph date and photographer identity."
+      "investigative_direction": "Confirm photograph date and photographer identity.",
+      "mentions_person_refs": [
+        "N-62",
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1020,7 +1161,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:16–00:17:08",
-      "investigative_direction": "Cross-reference against TPUSA event records and tour itineraries to verify six-year span and event count."
+      "investigative_direction": "Cross-reference against TPUSA event records and tour itineraries to verify six-year span and event count.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1036,7 +1181,8 @@
       "claim_timestamp": "00:35:33",
       "investigative_direction": "Locate original post URL and timestamp on X.",
       "mentions_person_refs": [
-        "N-262"
+        "N-262",
+        "N-86"
       ]
     },
     {
@@ -1053,7 +1199,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:49–00:35:33",
-      "investigative_direction": "Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing."
+      "investigative_direction": "Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing.",
+      "mentions_person_refs": [
+        "N-86"
+      ]
     },
     {
       "@type": "Claim",
@@ -1112,7 +1261,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:40",
-      "investigative_direction": "Obtain authoritative transcript of Kirk's on-stage remarks immediately prior to being shot."
+      "investigative_direction": "Obtain authoritative transcript of Kirk's on-stage remarks immediately prior to being shot.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-86"
+      ]
     },
     {
       "@type": "Claim",
@@ -1161,7 +1314,8 @@
       "claim_timestamp": "00:53:26",
       "investigative_direction": "Obtain court appearance records and any media coverage of the Zoom appearance.",
       "mentions_person_refs": [
-        "N-263"
+        "N-263",
+        "N-69"
       ]
     },
     {
@@ -1243,7 +1397,8 @@
       "claim_timestamp": "00:50:00–00:51:00",
       "investigative_direction": "Locate the referenced Scott Adams video and timestamp the host mention.",
       "mentions_person_refs": [
-        "N-266"
+        "N-266",
+        "N-56"
       ]
     },
     {

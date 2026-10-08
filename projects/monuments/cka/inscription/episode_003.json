@@ -76,7 +76,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:13:47–00:14:21",
+          "video_timestamp": "00:11:57–00:12:31",
           "transcript_snippet": "investigators found a boltaction rifle wrapped in a towel",
           "confidence": "high"
         },
@@ -93,7 +93,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:14:29–00:14:47",
+          "video_timestamp": "00:12:40–00:12:58",
           "transcript_snippet": "Hey fascist catch...Oh Bella cow...if you read this you are gay",
           "confidence": "high"
         },
@@ -111,7 +111,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:15:48–00:16:38",
+          "video_timestamp": "00:13:50–00:14:40",
           "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
           "confidence": "high"
         },
@@ -128,7 +128,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:17:28–00:18:34",
+          "video_timestamp": "00:15:07–00:16:13",
           "transcript_snippet": "he agreed that it looked like their son...the rifle that was given to his son as a gift",
           "confidence": "high"
         },
@@ -145,7 +145,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:18:34–00:19:11",
+          "video_timestamp": "00:16:00–00:16:37",
           "transcript_snippet": "convince Robinson to speak with a family friend who happens to be a retired deputy sheriff",
           "confidence": "high"
         },
@@ -166,7 +166,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:22:43–00:29:40",
+          "video_timestamp": "00:20:02–00:26:59",
           "transcript_snippet": "Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk",
           "confidence": "high",
           "uncertainty_note": "Indictment does not give timestamps; host flags this as conspicuous."
@@ -186,7 +186,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:22:27–00:22:48",
+          "video_timestamp": "00:19:03–00:19:24",
           "transcript_snippet": "Police interviewed Robinson's roommate, a biological male who was involved in a romantic relationship",
           "confidence": "high"
         }
@@ -268,7 +268,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "00:53:34–00:57:15",
+          "video_timestamp": "00:45:41–00:51:31",
           "transcript_snippet": "Amman's 955word response...this was not an intervention to blackmail Charlie into adopting certain views",
           "confidence": "high"
         }
@@ -296,7 +296,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-08-06",
-          "video_timestamp": "01:00:46–01:05:39",
+          "video_timestamp": "00:51:10–00:56:03",
           "transcript_snippet": "some in the pro-Israel camp are so kneejerk about calling you anti-semitic",
           "confidence": "high"
         }
@@ -323,7 +323,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-05",
-          "video_timestamp": "00:59:24–00:59:33",
+          "video_timestamp": "00:49:19–00:49:28",
           "transcript_snippet": "the letter Charlie wrote him in May was just like a glowing",
           "confidence": "medium",
           "uncertainty_note": "Letter content not shown; only referenced."
@@ -351,7 +351,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "01:00:25–01:01:08",
+          "video_timestamp": "00:50:24–00:51:07",
           "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
           "confidence": "high"
         }
@@ -378,7 +378,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-08-04",
-          "video_timestamp": "00:50:01–00:50:31",
+          "video_timestamp": "00:41:59–00:42:29",
           "transcript_snippet": "Aaron Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings",
           "confidence": "medium"
         }
@@ -405,7 +405,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "01:15:00–01:15:29",
+          "video_timestamp": "01:01:54–01:02:23",
           "transcript_snippet": "she tweeted this whole thread about how Charlie Kirk had to distance himself from Tucker Carlson",
           "confidence": "medium"
         }
@@ -1384,7 +1384,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:07:55",
+      "claim_timestamp": "00:12:50",
       "investigative_direction": "Obtain forensic lab reports for chain of custody and match thresholds.",
       "transcript_snippet": "the DNA was consistent with Robinson that was found on the trigger",
       "confidence": "high",
@@ -1405,7 +1405,7 @@
         "N-1077"
       ],
       "tags": [],
-      "claim_timestamp": "00:10:32",
+      "claim_timestamp": "00:09:27",
       "investigative_direction": "Compare indictment description to actual surveillance video frames; verify gait description against TMZ footage.",
       "transcript_snippet": "at approximately 11:51 a.m., the suspect had entered campus from the north",
       "confidence": "high",
@@ -1426,7 +1426,7 @@
         "N-1077"
       ],
       "tags": [],
-      "claim_timestamp": "00:09:18",
+      "claim_timestamp": "00:08:11",
       "investigative_direction": "Cross-check roof timestamp against shot-time audio forensics.",
       "transcript_snippet": "crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.",
       "confidence": "high",
@@ -1445,7 +1445,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:13:47",
+      "claim_timestamp": "00:11:57",
       "investigative_direction": "Obtain crime scene photos and forensic report; verify rifle make/model and serial trace.",
       "transcript_snippet": "investigators found a boltaction rifle wrapped in a towel",
       "confidence": "high",
@@ -1464,7 +1464,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:14:29",
+      "claim_timestamp": "00:12:40",
       "investigative_direction": "Request close-up images and chain of custody for the casings.",
       "transcript_snippet": "Hey fascist catch...Oh Bella cow...if you read this you are gay",
       "confidence": "high",
@@ -1483,7 +1483,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:16:00",
+      "claim_timestamp": "00:13:50",
       "investigative_direction": "Verify timing of news publication vs. mother's call via phone and interview records.",
       "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
       "confidence": "high",
@@ -1502,7 +1502,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:50",
+      "claim_timestamp": "00:15:07",
       "investigative_direction": "Verify gift provenance, family communications, and any self-harm implication statements.",
       "transcript_snippet": "the rifle that was given to his son as a gift",
       "confidence": "high",
@@ -1521,7 +1521,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:18:54",
+      "claim_timestamp": "00:16:00",
       "investigative_direction": "Confirm retired deputy's identity and role in surrender via sheriff records.",
       "transcript_snippet": "a family friend who happens to be a retired deputy sheriff",
       "confidence": "high",
@@ -1540,7 +1540,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:16:45",
+      "claim_timestamp": "00:14:26",
       "investigative_direction": "Compare against Robinson's social media history and family interviews.",
       "transcript_snippet": "Robinson had become increasingly more political. He had started to lean more left",
       "confidence": "high",
@@ -1562,14 +1562,15 @@
         "N-1095"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:31",
+      "claim_timestamp": "00:20:02",
       "investigative_direction": "Verify text and note timestamps and original device screenshots.",
       "transcript_snippet": "Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk",
       "confidence": "high",
       "mentions_person_refs": [
         "N-2",
         "N-69",
-        "N-84"
+        "N-84",
+        "N-1"
       ]
     },
     {
@@ -1585,7 +1586,7 @@
         "N-1095"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:48",
+      "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain unredacted text logs with metadata from discovery materials.",
       "transcript_snippet": "They're not telling us the time. I don't like that",
       "confidence": "high",
@@ -1606,7 +1607,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:00",
+      "claim_timestamp": "00:14:33",
       "investigative_direction": "Verify roommate's stated identity and timeline.",
       "transcript_snippet": "Robinson began to date his roommate, which is a biological male who was transitioning",
       "confidence": "high",
@@ -1650,7 +1651,7 @@
         "N-1097"
       ],
       "tags": [],
-      "claim_timestamp": "00:05:10",
+      "claim_timestamp": "00:04:04",
       "investigative_direction": "Confirm booking details and court filings; verify device forensic report.",
       "transcript_snippet": "was also booked in connection with images on his cell phone related to child abuse",
       "confidence": "high",
@@ -1671,7 +1672,7 @@
         "N-1102"
       ],
       "tags": [],
-      "claim_timestamp": "00:53:40",
+      "claim_timestamp": "00:45:41",
       "investigative_direction": "Verify tweet length, content, and any deletions or follow-up tweets.",
       "transcript_snippet": "Amman's 955word response",
       "confidence": "high",
@@ -1694,14 +1695,15 @@
         "N-1098"
       ],
       "tags": [],
-      "claim_timestamp": "01:00:46",
+      "claim_timestamp": "00:50:24",
       "investigative_direction": "Cross-reference attendee statements with published itinerary.",
       "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
       "confidence": "high",
       "mentions_person_refs": [
         "N-66",
         "N-97",
-        "N-87"
+        "N-87",
+        "N-1"
       ]
     },
     {
@@ -1715,7 +1717,7 @@
         "N-1098"
       ],
       "tags": [],
-      "claim_timestamp": "01:18:21",
+      "claim_timestamp": "01:03:58",
       "investigative_direction": "Identify and corroborate attendees; request presentation materials.",
       "transcript_snippet": "Bill Aman got up and gave a presentation and told them that they shouldn't own property",
       "confidence": "medium",
@@ -1737,7 +1739,7 @@
         "N-1098"
       ],
       "tags": [],
-      "claim_timestamp": "01:00:46",
+      "claim_timestamp": "00:51:10",
       "investigative_direction": "Verify full clip and dates against Megyn Kelly show archives.",
       "transcript_snippet": "some in the pro-Israel camp are so kneejerk about calling you anti-semitic",
       "confidence": "high",
@@ -1760,12 +1762,13 @@
         "N-1098"
       ],
       "tags": [],
-      "claim_timestamp": "01:05:20",
+      "claim_timestamp": "00:54:16",
       "investigative_direction": "Obtain the cited text messages and verify attribution.",
       "transcript_snippet": "I have text messages, Megan, calling me an anti-semite",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-75"
       ]
     },
     {
@@ -1779,7 +1782,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:59:24",
+      "claim_timestamp": "00:49:19",
       "investigative_direction": "Locate published or archived version of the May letter.",
       "transcript_snippet": "the letter Charlie wrote him in May was just like a glowing",
       "confidence": "medium",
@@ -1801,7 +1804,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "01:15:00",
+      "claim_timestamp": "01:01:54",
       "investigative_direction": "Retrieve the tweet thread and verify dates.",
       "transcript_snippet": "Charlie Kirk had to distance himself from Tucker Carlson",
       "confidence": "high",
@@ -1822,7 +1825,7 @@
         "N-1099"
       ],
       "tags": [],
-      "claim_timestamp": "00:36:19",
+      "claim_timestamp": "00:30:35",
       "investigative_direction": "Corroborate with other family members or contemporaneous records.",
       "transcript_snippet": "his parents kicked him out junior year of high school because he was problematic",
       "confidence": "medium",
@@ -1842,7 +1845,7 @@
         "N-1099"
       ],
       "tags": [],
-      "claim_timestamp": "00:36:43",
+      "claim_timestamp": "00:31:02",
       "investigative_direction": "Request medical/ER records and corroborating family testimony.",
       "transcript_snippet": "He almost overdosed. He drank a bottle of vodka",
       "confidence": "medium",
@@ -1861,7 +1864,7 @@
         "N-1099"
       ],
       "tags": [],
-      "claim_timestamp": "00:37:18",
+      "claim_timestamp": "00:31:31",
       "investigative_direction": "Corroborate with multiple family members.",
       "transcript_snippet": "he showed up on drugs and he was spouting out of his mouth about political stuff",
       "confidence": "medium",
@@ -1878,7 +1881,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:38:43",
+      "claim_timestamp": "00:32:39",
       "investigative_direction": "Verify against state ID or DOB records.",
       "transcript_snippet": "He turned 22, they told me back in August",
       "confidence": "medium",
@@ -1895,7 +1898,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:35:33",
+      "claim_timestamp": "00:29:52",
       "investigative_direction": "Verify property ownership via county records; obtain lease or payment records.",
       "transcript_snippet": "the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent",
       "confidence": "medium",
@@ -1915,9 +1918,9 @@
         "N-1100"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:28",
+      "claim_timestamp": "00:34:04",
       "investigative_direction": "Pull traffic camera footage and license plate reader data; interview more neighbors.",
-      "transcript_snippet": "there were unusual traffic in the driveway where Tyler Robinson and Lance lived",
+      "transcript_snippet": "there were unusual uh unusual traffic in the driveway where Tyler Robinson and Lance lived",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-69",
@@ -1936,7 +1939,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:12:06",
+      "claim_timestamp": "00:10:40",
       "investigative_direction": "Compare Cox's earlier press statements to indictment timeline; review UVU footage for second outfit.",
       "transcript_snippet": "Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment",
       "confidence": "high",
@@ -1956,7 +1959,7 @@
         "N-1098"
       ],
       "tags": [],
-      "claim_timestamp": "00:50:10",
+      "claim_timestamp": "00:42:46",
       "investigative_direction": "Interview multiple attendees; obtain any recorded retreat discussions.",
       "transcript_snippet": "Seth Dylan...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him",
       "confidence": "medium",
@@ -1978,7 +1981,7 @@
         "N-1101"
       ],
       "tags": [],
-      "claim_timestamp": "01:09:21",
+      "claim_timestamp": "00:57:19",
       "investigative_direction": "Identify donors; obtain internal TPUSA communications; verify building-donor naming history.",
       "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
       "confidence": "medium",
@@ -2122,7 +2125,7 @@
       "occurrences": [
         {
           "episode": 3,
-          "video_timestamp": "00:34:48",
+          "video_timestamp": "00:29:16",
           "speaker_node_ref": "N-3",
           "quote": "Obviously, I was in a very agrieved state and I was not prepared to even accept that Charlie Kirk was not on this earth",
           "context": "Candace explains why she was not initially available to Lance Twigs family.",
@@ -2133,7 +2136,7 @@
         },
         {
           "episode": 3,
-          "video_timestamp": "00:42:13",
+          "video_timestamp": "00:35:25",
           "speaker_node_ref": "N-3",
           "quote": "Somebody said something to you're unstable...I have been destabilized by watching Charlie Kirk catch a bullet in his neck and then being gas lit",
           "context": "Host defends emotional state while pressing for transparency.",
@@ -2153,7 +2156,7 @@
       "occurrences": [
         {
           "episode": 3,
-          "video_timestamp": "01:09:21",
+          "video_timestamp": "00:57:19",
           "speaker_node_ref": "N-3",
           "quote": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
           "context": "Host cites donor identity (Jewish) as relevant to pressure narrative; identity is foregrounded as causal.",
@@ -2173,7 +2176,7 @@
       "occurrences": [
         {
           "episode": 3,
-          "video_timestamp": "01:41:51",
+          "video_timestamp": "00:35:20",
           "speaker_node_ref": "N-3",
           "quote": "And am I emotionally invested in this? Yes. Somebody said something to you're unstable.",
           "context": "Host anticipates accusation of instability/conspiracy framing, asserts it as accurate reading.",

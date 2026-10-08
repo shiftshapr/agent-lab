@@ -423,7 +423,7 @@ Claim Timestamp: 00:02:06
 Claim: In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
 
 Anchored Artifacts: A-1391.1
-Mentions: N-1, N-16
+Mentions: N-1, N-16, N-3
 Investigative Direction: Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.
 
 ---
@@ -472,7 +472,7 @@ Claim Timestamp: 00:12:54
 Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at "Skyline," and that Camino has "followed the procedures" required of him and "served this community."
 
 Anchored Artifacts: A-1394.1
-Mentions: N-389
+Mentions: N-389, N-45
 Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
 
 ---
@@ -484,7 +484,7 @@ Claim Timestamp: 00:12:54
 Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel "home fellowship" program, which placed him "inside the homes of children," and that McCoy framed resulting criticism as "gossip and slander."
 
 Anchored Artifacts: A-1394.1
-Mentions: N-389
+Mentions: N-389, N-45
 Related Nodes: N-1316
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
@@ -509,7 +509,7 @@ Claim Timestamp: 00:12:54
 Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of placing Camino with children as driven by "gossip and slander" and states he made a personal call to "protect" Camino's family.
 
 Anchored Artifacts: A-1394.1
-Mentions: N-389
+Mentions: N-389, N-45
 Related Nodes: N-1316
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
@@ -522,7 +522,7 @@ Claim Timestamp: 00:40:32
 Claim: In the played clip, a reporter asks Tucker Carlson to distance himself from Candace Owens; Carlson refuses, stating he would "die before" playing along, and calls the request a "ritual" without moral authority.
 
 Anchored Artifacts: A-1395.1
-Mentions: N-1
+Mentions: N-1, N-50, N-3
 Investigative Direction: Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.
 
 ---
@@ -534,7 +534,7 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Mentions: N-314
+Mentions: N-314, N-102
 Related Nodes: N-1317
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
@@ -559,7 +559,7 @@ Claim Timestamp: 00:00:01
 Claim: The episode plays a throwback clip of Candace Owens and Charlie Kirk co-hosting a PragerU segment in which they discuss the type of allies one wants during crisis ("foxhole" allies), with Kirk stating one should identify "where the bullets are coming from" rather than deny their existence.
 
 Anchored Artifacts: A-1390.1
-Mentions: N-1
+Mentions: N-1, N-3
 Investigative Direction: Identify the original PragerU episode and air date; locate full unedited segment.
 
 ---

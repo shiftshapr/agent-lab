@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-590, N-596, N-1429, N-1430, N-1431, N-1432, N-1433, N-1434, N-1435, N-1436, N-1437
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-224
   - (see registers)
 
 ## 2. Executive Summary
@@ -58,7 +58,7 @@ Description: Read aloud on air by the host. Contains attributed quotation: "Abso
 
 **A-1553.1** Turek interview audio describing vehicle being roped off as crime scene, FBI clearance, his computer bag between bucket seats below Charlie, and Charlie's cross/medallion necklace draped over the bag
 
-Video Timestamp: 00:27:47
+Video Timestamp: 00:26:46
 Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Turek states: "They roped off the vehicle that we took out of there as a crime scene... we couldn't get into the vehicle until the FBI cleared it... draped over my bag was Charlie's necklace that had a cross and medallions on it."
@@ -189,9 +189,9 @@ Investigative Pressure: Low
 
 ---
 
-**N-596.5 (note)** Blake Neff
+**N-224** Blake Neff
 
-Writer referenced in comments section as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.
+Person the host names while answering a super chat, as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.
 
 Evidence Count: 0
 Claim Count: 0
@@ -341,7 +341,7 @@ Claim Timestamp: 00:03:52
 Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
 
 Anchored Artifacts: A-1552.1
-Mentions: N-281, N-590
+Mentions: N-281, N-590, N-1
 
 Related Nodes: N-1429
 
@@ -461,6 +461,7 @@ Claim Timestamp: 00:30:33
 Claim: Candace Owens states that she is in possession of six photographs depicting the interior of the vehicle used to transport Charlie Kirk to Timpanogos Regional Hospital, and that the team considered displaying one on the broadcast.
 
 Anchored Artifacts: A-1556.1
+Mentions: N-3, N-1
 
 Related Nodes: N-1433
 

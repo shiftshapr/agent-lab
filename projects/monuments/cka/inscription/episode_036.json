@@ -417,6 +417,38 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -538,7 +570,8 @@
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.",
       "mentions_person_refs": [
-        "N-437"
+        "N-437",
+        "N-69"
       ]
     },
     {
@@ -576,7 +609,8 @@
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.",
       "mentions_person_refs": [
-        "N-437"
+        "N-437",
+        "N-69"
       ]
     },
     {
@@ -591,7 +625,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:15",
-      "investigative_direction": "Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials."
+      "investigative_direction": "Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
     }
   ],
   "memes": []

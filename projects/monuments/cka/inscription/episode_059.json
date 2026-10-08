@@ -1018,6 +1018,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1190,9 +1222,9 @@
       "claim_timestamp": "00:10:23",
       "investigative_direction": "Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.",
       "mentions_person_refs": [
-        "N-1",
         "N-434",
-        "N-748"
+        "N-748",
+        "N-1"
       ]
     },
     {
@@ -1440,7 +1472,9 @@
       "mentions_person_refs": [
         "N-45",
         "N-759",
-        "N-760"
+        "N-760",
+        "N-50",
+        "N-3"
       ]
     },
     {
@@ -1475,7 +1509,8 @@
       "investigative_direction": "Verify event attendance, security staffing, and Kash Patel's participation through official event records.",
       "mentions_person_refs": [
         "N-1",
-        "N-434"
+        "N-434",
+        "N-102"
       ]
     },
     {

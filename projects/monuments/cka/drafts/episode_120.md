@@ -34,8 +34,8 @@
 
 - Artifact Families Introduced: A-2085, A-2086, A-2087, A-2088, A-2089, A-2090, A-2091, A-2092
 - Claim Range: C-2935–C-2944
-  - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078
-  - Reused Nodes Appearing: N-2, N-69, N-1207, N-1208, N-1209, N-1210
+  - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078, N-2079
+  - Reused Nodes Appearing: N-2, N-69
 - Existing Nodes Reused: N-2, N-69
 
 ---
@@ -238,58 +238,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Individual who joined the Sean Ryan show and described cutting Charlie Kirk's shirt off at the hospital. New person node introduced this episode.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2085.1, C-2935, N-1, N-2074*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Front-row witness whose successive statements about wound location and shooter distance shifted across three media interviews.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2086.1, A-2086.2, A-2086.3, C-2936, C-2937, C-2938, N-1, N-2075*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Identified by host as analyst pursuing ABS glass shard identification with respect to the SUV.
-
-Evidence Count: 1
-Claim Count: 0 (referenced, no direct artifact in this episode)
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1, N-2076*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Comedian whose parody reading of a JD Vance book excerpt was played on air.
-
-Evidence Count: 1
-Claim Count: 0 (no investigation-direction claim)
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2090.1*
-
----
-
 **N-2074** Charlie Kirk Shirt Disposal Verification
 
 Persistent target: whether Charlie's "freedom shirt" — predicted to retain explosive residue under the mic-explosion hypothesis — was preserved as evidence or otherwise disposed of.
@@ -364,6 +312,7 @@ Claim Timestamp: 00:05:20
 Claim: Brian Harpole states in the Sean Ryan interview that he personally cut Charlie Kirk's white "freedom shirt" off at the hospital.
 
 Anchored Artifacts: A-2085.1
+Mentions: N-424, N-1
 
 Related Nodes: N-2074
 
@@ -378,6 +327,7 @@ Claim Timestamp: 00:18:25
 Claim: In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.
 
 Anchored Artifacts: A-2086.1
+Mentions: N-1
 
 Related Nodes: N-2075
 
@@ -392,6 +342,7 @@ Claim Timestamp: 00:20:48
 Claim: Approximately 51 minutes after her first interview, Sarah Tool stated in local media that Charlie Kirk was shot in the neck.
 
 Anchored Artifacts: A-2086.2
+Mentions: N-1
 
 Related Nodes: N-2075
 
@@ -406,6 +357,7 @@ Claim Timestamp: 00:21:43
 Claim: In her ABC News interview, Sarah Tool stated the shooter was approximately 200 yards away and that the shot struck Charlie Kirk in the left side of the neck.
 
 Anchored Artifacts: A-2086.3
+Mentions: N-1
 
 Related Nodes: N-2075
 

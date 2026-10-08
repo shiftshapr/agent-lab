@@ -417,7 +417,7 @@ Claim Timestamp: 00:26:41
 Claim: A USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
 
 Anchored Artifacts: A-1764.1, A-1769.1
-Mentions: N-2, N-917
+Mentions: N-2, N-917, N-1
 
 Related Nodes: N-1573
 
@@ -462,7 +462,7 @@ Claim Timestamp: 00:28:47
 Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, leading to a TPUSA role, and that Charlie Kirk wanted to date her.
 
 Anchored Artifacts: A-1766.1
-Mentions: N-2, N-37
+Mentions: N-2, N-37, N-1
 
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
@@ -476,7 +476,7 @@ Claim Timestamp: 00:29:35
 Claim: Erika Kirk publicly recounted that her job interview with Charlie Kirk concluded with him stating "I'm going to date you."
 
 Anchored Artifacts: A-1767.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 
 Investigative Direction: Identify and verify the original source of this account and confirm dating against contemporaneous communications.
@@ -504,7 +504,7 @@ Claim Timestamp: 00:19:06
 Claim: Megyn Kelly stated on Piers Morgan's show that Charlie Kirk was starting to have serious questions about Israel, including its influence on American politicians.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-1, N-3, N-75
+Mentions: N-1, N-3, N-75, N-298
 
 
 Investigative Direction: Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.
@@ -518,7 +518,7 @@ Claim Timestamp: 00:21:00
 Claim: Megyn Kelly stated on Piers Morgan's show that she and Charlie Kirk spent hours and hours discussing Israel.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-1, N-75
+Mentions: N-1, N-75, N-298
 
 
 Investigative Direction: Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.
@@ -532,7 +532,7 @@ Claim Timestamp: 00:20:45
 Claim: Megyn Kelly stated on Piers Morgan's show that she was pressured to condemn Candace Owens over Israel-related questions and refused.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-75
+Mentions: N-3, N-75, N-298
 
 
 Investigative Direction: Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.
@@ -546,7 +546,7 @@ Claim Timestamp: 00:20:02
 Claim: Megyn Kelly stated on Piers Morgan's show that Candace Owens had not appeared on her show in several years.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-75
+Mentions: N-3, N-75, N-298
 
 
 Investigative Direction: Verify against Kelly's guest appearance logs.
@@ -589,7 +589,7 @@ Claim Timestamp: 00:21:43
 Claim: The host explicitly concurred with Megyn Kelly's statements, characterizing them as "telling the truth" about Charlie Kirk's evolving position on Israel.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-75
+Mentions: N-3, N-75, N-1
 
 
 Investigative Direction: Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.

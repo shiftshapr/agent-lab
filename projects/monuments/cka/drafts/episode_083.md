@@ -30,7 +30,7 @@
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
 - Claim Range: C-2560–C-2580
   - New Nodes Introduced: N-1633, N-1634, N-1635, N-1636, N-1637, N-1638
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-37
+  - Reused Nodes Appearing: N-37
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erica Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
@@ -80,7 +80,7 @@ Video Timestamp: 00:28:11–00:39:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2568, C-2569, C-2570, C-2571, C-2572, C-2573, N-3, N-1213, N-1636*
+*Related: C-2568, C-2569, C-2570, C-2571, C-2572, C-2573, N-3, N-1636*
 
 **A-1896.2** Yair Netanyahu retweet of Alexis Wilkins thread
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:21:05–00:24:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2567, N-1212, N-1635*
+*Related: C-2567, N-1635*
 
 **A-1900** Catholic Growth News Articles Bundle
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:11:23–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2562, C-2563, C-2564, C-2565, N-1211, N-1634, N-1638*
+*Related: C-2562, C-2563, C-2564, C-2565, N-1634, N-1638*
 
 **A-1902.2** Per McCoy's account: Mikey McCoy met the party at the Utah airport; Elizabeth went in with Erica to see Charlie's body; Katherine LoCastro was sent to retrieve an item from the bloodied car
 
@@ -192,88 +192,11 @@ Video Timestamp: 00:18:09–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2566, N-1210, N-1634*
+*Related: C-2566, N-1634*
 
 ---
 
 # Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-New first-person source for September 10 events at TPUSA Scottsdale offices and transport to Utah. Her account places her as recipient of the first call from the scene and presents a sequence not previously documented in the series.
-
-Evidence Count: 1
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1902.1, A-1902.2, C-2562, C-2563, C-2564, C-2566, N-1634, N-1638*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Husband of Elizabeth Kravchuk McCoy; per Elizabeth's account, placed the first call to her after the shooting and met the party at the Utah airport.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1902.1, A-1902.2, C-2563, C-2566, N-1210*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-TPUSA long-time employee ("OG") who per Elizabeth McCoy's account volunteered to drive Elizabeth to Scottsdale airport on September 10.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1902.1, C-2564*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Mikey McCoy's assistant who per Elizabeth McCoy's account was part of the team transporting Erica to the airport and to Utah, and who was sent to retrieve an item from the bloodied car at the hospital.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1902.2, C-2566*
-
-**N-1211** UVU Campus Familiarity Question
-
-TPUSA staff member present in Frank (TPUSA counsel)'s office when Elizabeth McCoy arrived to alert them of the shooting.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1902.1, C-2565*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Unmarked building/company where Erica reportedly had a "second collapse of the day." A contacted employee would neither confirm nor deny seeing Erica on September 10.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1899.1, C-2567, N-1635*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Organization cited in Alexis Wilkins's thread as listing General Michael Flynn as a senior advisor; identified by Wilkins as a node in the alleged network.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1896.1, C-2570, N-1636*
 
 **N-1633** Tarmac Hug Timeline Reconciliation Question
 
@@ -306,7 +229,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1899.1, C-2567, N-1212*
+*Related: A-1899.1, C-2567*
 
 **N-1636** Alexis Wilkins 13-Part Thread Analysis
 
@@ -361,7 +284,7 @@ Claim Timestamp: 00:05:20
 Claim: Frank Turek, on his own podcast, stated Erica Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital.
 
 Anchored Artifacts: A-1895.1
-Mentions: N-2
+Mentions: N-2, N-16
 
 Related Nodes: N-1633
 
@@ -374,6 +297,7 @@ Claim Timestamp: 00:03:30
 Claim: Nick Searcy confirmed to the host that Andrew Kolvet's livestream was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.
 
 Anchored Artifacts: A-1898.1
+Mentions: N-42
 
 Related Nodes:
 
@@ -386,6 +310,7 @@ Claim Timestamp: 00:11:23
 Claim: Per Elizabeth McCoy's account, she was the first person called after the 12:23 p.m. MST shooting.
 
 Anchored Artifacts: A-1902.1
+Mentions: N-326
 
 Related Nodes: N-1638
 
@@ -398,6 +323,7 @@ Claim Timestamp: 00:11:23
 Claim: Per Elizabeth McCoy's account, Mikey McCoy rang her first after the shooting and then conferenced in Erika.
 
 Anchored Artifacts: A-1902.1
+Mentions: N-326, N-272
 
 Related Nodes:
 
@@ -410,6 +336,7 @@ Claim Timestamp: 00:14:00
 Claim: Per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employee, volunteered to drive her approximately 30 minutes to Scottsdale airport.
 
 Anchored Artifacts: A-1902.1
+Mentions: N-326
 
 Related Nodes:
 
@@ -434,8 +361,9 @@ Claim Timestamp: 00:18:09
 Claim: Per Elizabeth McCoy's account, Mikey McCoy met them outside at the Utah airport, and Elizabeth went in with Erica to see Charlie's body for the first time.
 
 Anchored Artifacts: A-1902.2
+Mentions: N-326, N-272
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Cross-reference with Andrew Kolvet's account and hospital visitor logs.
 
@@ -446,8 +374,9 @@ Claim Timestamp: 00:21:05–00:24:24
 Claim: A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erica Kirk at their offices on September 10, 2025.
 
 Anchored Artifacts: A-1899.1
+Mentions: N-2
 
-Related Nodes: N-1212, N-1635, N-1638
+Related Nodes: N-1635, N-1638
 
 Investigative Direction: Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10.
 
@@ -458,9 +387,9 @@ Claim Timestamp: 00:28:11
 Claim: Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Tucker Carlson, Joe Kent, and General Flynn.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3
+Mentions: N-3, N-50, N-314, N-310
 
-Related Nodes: N-1213, N-1636
+Related Nodes: N-1636
 
 Investigative Direction: Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits.
 
@@ -471,7 +400,7 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread alleges that within hours of the Kirk assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name. The host rejects this characterization.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3
+Mentions: N-3, N-314
 
 Related Nodes: N-1636
 
@@ -484,8 +413,9 @@ Claim Timestamp: 00:32:58
 Claim: The Alexis Wilkins thread identifies General Michael Flynn as the "anchor of a digital infrastructure" repeatedly activated at major Republican fracture points, via his listed role at Catholics for Catholics.
 
 Anchored Artifacts: A-1896.1
+Mentions: N-314
 
-Related Nodes: N-1213, N-1636
+Related Nodes: N-1636
 
 Investigative Direction: Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim.
 
@@ -496,6 +426,7 @@ Claim Timestamp: 00:33:48
 Claim: The Alexis Wilkins thread cites Russia Today retweeting certain accounts as evidence of foreign coordination.
 
 Anchored Artifacts: A-1896.1
+Mentions: N-314
 
 Related Nodes: N-1636
 
@@ -508,7 +439,7 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread, at "Chapter 3," states that within hours of Kirk's assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3
+Mentions: N-3, N-314
 
 Related Nodes: N-1636
 
@@ -521,6 +452,7 @@ Claim Timestamp: 00:35:30
 Claim: The Alexis Wilkins thread treats Joe Kent's resignation as further evidence of the alleged network, citing Russia Today coverage.
 
 Anchored Artifacts: A-1896.1
+Mentions: N-314, N-310
 
 Related Nodes: N-1636
 
@@ -533,6 +465,7 @@ Claim Timestamp: 00:39:43
 Claim: The first retweet of Alexis Wilkins's thread was by Yair Netanyahu.
 
 Anchored Artifacts: A-1896.2
+Mentions: N-314
 
 Related Nodes: N-1636
 
@@ -605,7 +538,7 @@ Claim Timestamp: 00:09:15
 Claim: The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.
 
 Anchored Artifacts: A-1895.1 (reconciliation anchor)
-Mentions: N-2
+Mentions: N-2, N-42, N-1, N-16
 
 Related Nodes: N-1633
 

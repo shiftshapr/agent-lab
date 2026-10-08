@@ -138,9 +138,7 @@
           "related_claims": [
             "C-3520"
           ],
-          "related_nodes": [
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -164,9 +162,7 @@
           "related_claims": [
             "C-3521"
           ],
-          "related_nodes": [
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -190,9 +186,7 @@
           "related_claims": [
             "C-3522"
           ],
-          "related_nodes": [
-            "N-1215"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -216,9 +210,7 @@
           "related_claims": [
             "C-3523"
           ],
-          "related_nodes": [
-            "N-1216"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -406,11 +398,7 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1212",
-        "N-1213"
-      ]
+      "investigative_pressure": "low"
     },
     {
       "@type": "InvestigationTarget",
@@ -436,6 +424,134 @@
       "related_nodes": [
         "N-2337"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Listed among figures appearing in Elephant Clipping campaign charts the host displays.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -452,7 +568,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary."
+      "investigative_direction": "Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -466,7 +585,14 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:23–00:36:12",
-      "investigative_direction": "Compare Saucelito's specific predictions against the released episode segment-by-segment."
+      "investigative_direction": "Compare Saucelito's specific predictions against the released episode segment-by-segment.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3",
+        "N-272",
+        "N-2",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -495,7 +621,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
-      "investigative_direction": "Obtain full Neff/Boring episode to confirm statement context and surrounding statements."
+      "investigative_direction": "Obtain full Neff/Boring episode to confirm statement context and surrounding statements.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -509,7 +639,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
-      "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode."
+      "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -523,7 +657,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
-      "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode."
+      "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -537,7 +676,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:47–00:32:21",
-      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp."
+      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -548,12 +690,13 @@
       "anchored_artifacts": [
         "A-2409.1"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:43",
-      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp."
+      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
+      "mentions_person_refs": [
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -564,9 +707,7 @@
       "anchored_artifacts": [
         "A-2410.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:43",
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp."
@@ -580,9 +721,7 @@
       "anchored_artifacts": [
         "A-2411.1"
       ],
-      "related_nodes": [
-        "N-1215"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:50",
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording, timestamp, and the specific prediction market referenced."
@@ -596,12 +735,13 @@
       "anchored_artifacts": [
         "A-2412.1"
       ],
-      "related_nodes": [
-        "N-1216"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:45",
-      "investigative_direction": "Identify the original venue/date of the Vance clip to anchor sourcing."
+      "investigative_direction": "Identify the original venue/date of the Vance clip to anchor sourcing.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -666,7 +806,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:44",
-      "investigative_direction": "Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification."
+      "investigative_direction": "Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",

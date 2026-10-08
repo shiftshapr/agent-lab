@@ -297,7 +297,7 @@
             "C-1948"
           ],
           "related_nodes": [
-            "N-559",
+            "N-2389",
             "N-1422"
           ],
           "tags": [],
@@ -427,7 +427,9 @@
           "ref": "A-1551.1",
           "description": "Curbster super chat: prayer-support message",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-563"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -453,7 +455,9 @@
           "ref": "A-1551.3",
           "description": "Zachary Loft super chat: questions on lack of livestream and Brandon Tatum IG follow",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-565"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -466,7 +470,9 @@
           "ref": "A-1551.4",
           "description": "Mr. Bruce Lee super chat: botted chat observation",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-566"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -479,7 +485,9 @@
           "ref": "A-1551.5",
           "description": "Will Wallace super chat: security-support donation",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-567"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -505,7 +513,9 @@
           "ref": "A-1551.7",
           "description": "Isabella Mazzone super chat: request for elaboration on Charlie's Catholicism journey",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-562"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -517,22 +527,8 @@
           "@id": "A-1551.8",
           "ref": "A-1551.8",
           "description": "Lamp super chat: question on Qatar's role in media criticism",
-          "related_claims": [
-            "C-1924",
-            "C-1925",
-            "C-1926",
-            "C-1927",
-            "C-1928",
-            "C-1929"
-          ],
+          "related_claims": [],
           "related_nodes": [
-            "N-561",
-            "N-562",
-            "N-563",
-            "N-564",
-            "N-565",
-            "N-566",
-            "N-567",
             "N-568"
           ],
           "tags": [],
@@ -545,36 +541,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "Person",
-      "@id": "N-588",
-      "ref": "N-588",
-      "name": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-589",
-      "ref": "N-589",
-      "name": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
-      "type": "person",
-      "description": "### People",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "Person",
       "@id": "N-2",
@@ -1036,44 +1002,20 @@
     },
     {
       "@type": "Person",
-      "@id": "N-559",
-      "ref": "N-559",
-      "name": "New York Post",
-      "type": "person",
-      "description": "Published profile article on Candace Owens referenced in episode.",
-      "related_artifacts": [
-        "A-1546.1"
-      ],
-      "related_claims": [
-        "C-1946",
-        "C-1947",
-        "C-1948"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1422"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-561",
       "ref": "N-561",
       "name": "Marissa",
       "type": "person",
       "description": "Named PragerU contact (per host).",
-      "related_artifacts": [
-        "A-1539.1"
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3741"
       ],
-      "related_claims": [],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "related_nodes": [
         "N-1197"
       ]
@@ -1114,26 +1056,6 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-564",
-      "ref": "N-564",
-      "name": "Central848",
-      "type": "person",
-      "description": "Donor; proposed electrocution theory.",
-      "related_artifacts": [
-        "A-1551.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1423"
-      ]
     },
     {
       "@type": "Person",
@@ -1538,7 +1460,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-559"
+        "N-2389"
       ]
     },
     {
@@ -1558,8 +1480,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-552",
-        "N-564"
+        "N-552"
       ]
     },
     {
@@ -1692,6 +1613,128 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2389",
+      "ref": "N-2389",
+      "name": "New York Post",
+      "type": "organization",
+      "description": "Published profile article on Candace Owens referenced in episode.",
+      "related_artifacts": [
+        "A-1546.1"
+      ],
+      "related_claims": [
+        "C-1946",
+        "C-1947",
+        "C-1948"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1422"
+      ],
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Comments satire about Oxford Hebrew class shame and House in Habit spin.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1197",
+      "ref": "N-1197",
+      "name": "PragerU",
+      "type": "organization",
+      "description": "Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Strait.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "media_org",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1710,9 +1753,9 @@
       "investigative_direction": "Verify meeting date, location, and stated duration against any third-party records.",
       "mentions_person_refs": [
         "N-2",
+        "N-3",
         "N-43",
-        "N-588",
-        "N-589"
+        "N-59"
       ]
     },
     {
@@ -1731,7 +1774,8 @@
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Verify Charlie Kirk's actual messaging platforms through device forensics.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -1751,7 +1795,8 @@
       "investigative_direction": "Obtain the original message from Andrew Kolvet or his device records.",
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-42",
+        "N-1"
       ]
     },
     {
@@ -1771,7 +1816,8 @@
       "investigative_direction": "Obtain original Dan Flood message through his records or testimony.",
       "mentions_person_refs": [
         "N-2",
-        "N-434"
+        "N-434",
+        "N-1"
       ]
     },
     {
@@ -1791,7 +1837,8 @@
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Verify the May probable cause hearing date through Utah court records; compare against public charging documents.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-69"
       ]
     },
     {
@@ -1826,7 +1873,8 @@
       "claim_timestamp": "00:21:02",
       "investigative_direction": "Identify the witness and verify the video and timestamp.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -1965,7 +2013,8 @@
       "investigative_direction": "Identify the three sources and obtain documentary evidence of the offer.",
       "mentions_person_refs": [
         "N-2",
-        "N-65"
+        "N-65",
+        "N-1"
       ]
     },
     {
@@ -1986,6 +2035,26 @@
       "mentions_person_refs": [
         "N-42",
         "N-65"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3741",
+      "ref": "C-3741",
+      "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
+      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-561) there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:14",
+      "investigative_direction": "Identify the named paid accounts and any PragerU or PR-firm payment records the host says she holds.",
+      "transcript_snippet": "too many are being paid by PragerU, which is upsetting to me because I know Marissa, and it's just dirty.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3",
+        "N-561"
       ]
     },
     {
@@ -2024,7 +2093,8 @@
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-410"
       ]
     },
     {
@@ -2043,7 +2113,9 @@
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Verify the original tweet content and the surgeon's identity.",
       "mentions_person_refs": [
-        "N-326"
+        "N-326",
+        "N-42",
+        "N-1"
       ]
     },
     {
@@ -2063,7 +2135,8 @@
       "claim_timestamp": "00:13:14",
       "investigative_direction": "Verify Kolvet's stated communication with the surgeon and HIPAA implications.",
       "mentions_person_refs": [
-        "N-326"
+        "N-326",
+        "N-42"
       ]
     },
     {
@@ -2082,7 +2155,8 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Verify the earlier Tim Pool statement against his show archive.",
       "mentions_person_refs": [
-        "N-426"
+        "N-426",
+        "N-3"
       ]
     },
     {
@@ -2101,7 +2175,10 @@
       "claim_timestamp": "00:45:27",
       "investigative_direction": "Verify the current claim against any documented security employment records.",
       "mentions_person_refs": [
-        "N-426"
+        "N-426",
+        "N-3",
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -2121,7 +2198,11 @@
       "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list.",
       "mentions_person_refs": [
         "N-2",
-        "N-556"
+        "N-556",
+        "N-424",
+        "N-3",
+        "N-1",
+        "N-434"
       ]
     },
     {
@@ -2140,7 +2221,8 @@
       "claim_timestamp": "00:46:06",
       "investigative_direction": "Confirm absence of legal correspondence through counsel records.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2152,13 +2234,14 @@
       "anchored_artifacts": [
         "A-1546.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-2389"
+      ],
       "tags": [],
       "claim_timestamp": "00:41:01",
       "investigative_direction": "Verify the cited Daily Wire source and article publication date.",
       "mentions_person_refs": [
-        "N-2",
-        "N-559"
+        "N-2"
       ]
     },
     {
@@ -2170,13 +2253,15 @@
       "anchored_artifacts": [
         "A-1546.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-2389"
+      ],
       "tags": [],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Verify against Daily Wire security logs or contemporaneous records.",
       "mentions_person_refs": [
         "N-2",
-        "N-559"
+        "N-3"
       ]
     },
     {
@@ -2189,13 +2274,14 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-1422"
+        "N-1422",
+        "N-2389"
       ],
       "tags": [],
       "claim_timestamp": "00:41:01",
       "investigative_direction": "Verify travel and passport records.",
       "mentions_person_refs": [
-        "N-559"
+        "N-59"
       ]
     },
     {
@@ -2214,7 +2300,8 @@
       "mentions_person_refs": [
         "N-310",
         "N-547",
-        "N-558"
+        "N-558",
+        "N-69"
       ]
     },
     {
@@ -2273,7 +2360,8 @@
       "claim_timestamp": "00:11:35",
       "investigative_direction": "Verify through parish records and direct corroboration from Erika on the record.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2293,7 +2381,8 @@
       "investigative_direction": "Verify through any recording or attendee corroboration of the retreat.",
       "mentions_person_refs": [
         "N-65",
-        "N-67"
+        "N-67",
+        "N-1"
       ]
     },
     {

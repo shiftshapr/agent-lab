@@ -109,7 +109,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "00:15:48",
+          "video_timestamp": "00:15:00",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         },
@@ -164,7 +164,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "01:23:21",
+          "video_timestamp": "01:25:27",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         },
@@ -178,7 +178,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "01:25:27",
+          "video_timestamp": "01:24:41",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         },
@@ -255,7 +255,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "00:08:54–01:23:21",
+          "video_timestamp": "00:08:54–01:21:47",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -311,7 +311,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "00:22:53",
+          "video_timestamp": "00:21:32",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         }
@@ -909,6 +909,70 @@
       "related_nodes": [
         "N-45"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -948,7 +1012,8 @@
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Verify with Anti-Semite of the Year award organization records.",
       "mentions_person_refs": [
-        "N-798"
+        "N-798",
+        "N-3"
       ]
     },
     {
@@ -965,7 +1030,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
-      "investigative_direction": "Verify with award organization records."
+      "investigative_direction": "Verify with award organization records.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -1005,7 +1073,8 @@
       "claim_timestamp": "01:23:21",
       "investigative_direction": "Verify view count via YouTube analytics or platform data.",
       "mentions_person_refs": [
-        "N-799"
+        "N-799",
+        "N-3"
       ]
     },
     {
@@ -1102,7 +1171,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:06",
-      "investigative_direction": "Cross-check with Turning Point USA published guest lists and Netanyahu media tour records."
+      "investigative_direction": "Cross-check with Turning Point USA published guest lists and Netanyahu media tour records.",
+      "mentions_person_refs": [
+        "N-65",
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1117,7 +1191,10 @@
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
-      "investigative_direction": "Monitor NYT for upcoming USS Liberty coverage."
+      "investigative_direction": "Monitor NYT for upcoming USS Liberty coverage.",
+      "mentions_person_refs": [
+        "N-799"
+      ]
     },
     {
       "@type": "Claim",

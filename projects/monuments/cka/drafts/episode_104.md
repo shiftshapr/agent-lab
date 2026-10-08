@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: ccf10ed3135945b4632fcb8875e55be10686f8a85b8369476b094195759b7066
 
 - **Episode Ledger Summary**:
+  - Hole-minted Nodes (remap-ep104): N-225
   - (see registers)
 
 # Episode Analysis Output Template

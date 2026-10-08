@@ -729,6 +729,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -749,7 +765,8 @@
       "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -913,7 +930,8 @@
       "claim_timestamp": "00:04:39–00:06:17",
       "investigative_direction": "Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.",
       "mentions_person_refs": [
-        "N-443"
+        "N-443",
+        "N-3"
       ]
     },
     {

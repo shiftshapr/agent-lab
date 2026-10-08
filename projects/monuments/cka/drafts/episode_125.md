@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2113, N-2114, N-2115
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-37
+  - Reused Nodes Appearing: N-37
   - Hole-minted Nodes (wave1b): N-611
   - (see registers)
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:06:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (informal replication; not forensic match)
 
-*Related: C-3017, N-2113, N-1212*
+*Related: C-3017, N-2113*
 
 **A-2131** Viewer Tip Bundle (T-Shirt Identification)
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:24:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-compiled; underlying claims require separate verification)
 
-*Related: C-3021, C-3022, C-3023, C-3024, N-1210, N-1211, N-1213, N-2115, N-37*
+*Related: C-3021, C-3022, C-3023, C-3024, N-2115, N-37*
 
 **A-2135** Andrew Kolvet Tweet Bundle
 
@@ -220,83 +220,6 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Turning Point USA-affiliated radio personality. Former Marine Corps war-gaming support contractor removed for racist commentary. Was aboard private jet carrying Charlie Kirk to Salt Lake City on morning of September 10th. Rode in second SUV and was unable to recall destination, driver, or passengers during X Space audio. Active on social media responding to host's investigation.
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2132.1, A-2133.1, C-3018, C-3019, C-3020, N-2114*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Charlie Kirk's spokesperson/PR representative. Public statements partially concede Candace Owens' Netanyahu-call narrative while disputing the "offer to take Turning Point to the next level" element.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2135.1, C-3025, N-1*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Charlie Kirk's personal assistant, hired May 2025 directly out of Ohio State University (Turning Point chapter alumnus). Flew private to Salt Lake City September 10th. Identified by Blake Neff as a possible passenger in the second SUV. Grandson of Thomas Patrick (former Merrill Lynch executive).
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2133.1, A-2134.1, C-3020, C-3021, N-1210, N-1211, N-2115*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Danny Phillip's father. Worked at Bank of America Merrill Lynch in Chicago per host's visual guide. Russian studies educational background per host.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2134.1, C-3022, N-2115*
-
-**N-1211** UVU Campus Familiarity Question
-
-Danny Phillip's grandfather. Former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure). Departed 2003 following Eliot Spitzer-related scandal. Major Turning Point donor. Personally emailed Candace Owens claiming Charlie Kirk was lying to her about money matters.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2134.1, C-3021, N-2115*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Visitor at host's residence who identified Charlie Kirk's shirt as 100% polyester.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2113, A-2130.1*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Erica Kirk's cousin. Per host's visual guide, worked at Bank of America Merrill Lynch in Chicago. Previously referenced as escort for Erica around Romania / Black Sea Rotational Force.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2134.1, C-3024, N-2115*
-
 **N-2113** Unidentified Burnt Object in Charlie Kirk's SUV
 
 Persistent investigative target. Object left in backseat of SUV used to transport Charlie Kirk to hospital. Multiple expert viewer tips (fashion industry, plastic surgery nurse, mother of 10) identify object as melted polyester shirt/burnt fabric. Host performed burn-replication experiment with 50% polyester shirt.
@@ -328,7 +251,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-1210, N-1211, N-1213, N-37*
+*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-37*
 
 ---
 
@@ -376,7 +299,7 @@ Claim Timestamp: 00:12:33
 Claim: Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-1
+Mentions: N-1, N-224
 
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
@@ -388,6 +311,7 @@ Claim Timestamp: 00:14:07
 Claim: Blake Neff stated during an X Space that he did not recall where the second SUV went, who drove it, or who was in the car during the morning gap between landing at Salt Lake City and the UVU event.
 
 Anchored Artifacts: A-2133.1
+Mentions: N-224
 
 Related Nodes: N-2114
 
@@ -400,7 +324,7 @@ Claim Timestamp: 00:15:25
 Claim: During the X Space, after prompting, Blake Neff indicated that Danny Phillip might have been in the second SUV with him.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-611
+Mentions: N-611, N-224
 
 Related Nodes: N-2114
 
@@ -415,7 +339,7 @@ Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Ch
 Anchored Artifacts: A-2134.1
 Mentions: N-611
 
-Related Nodes: N-1211, N-2115
+Related Nodes: N-2115
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
@@ -428,7 +352,7 @@ Claim: Danny Phillip's father Stephen Phillip was employed at Bank of America Me
 Anchored Artifacts: A-2134.1
 Mentions: N-611
 
-Related Nodes: N-1210, N-2115
+Related Nodes: N-2115
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
@@ -452,8 +376,9 @@ Claim Timestamp: 00:24:41
 Claim: Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, after his military service.
 
 Anchored Artifacts: A-2134.1
+Mentions: N-2
 
-Related Nodes: N-1213, N-2115
+Related Nodes: N-2115
 
 Investigative Direction: Employment records, military transition records, and public corporate directories would verify the claim.
 
@@ -464,7 +389,7 @@ Claim Timestamp: 00:41:46
 Claim: Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had declined to have Netanyahu on his show, while disputing the "offer to take Turning Point to the next level" element of Candace Owens' narrative.
 
 Anchored Artifacts: A-2135.1
-Mentions: N-1
+Mentions: N-1, N-42, N-3
 
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.
@@ -476,7 +401,7 @@ Claim Timestamp: 00:33:25
 Claim: The National Council on Resistance Iran (NCRI) published a focused report titled "Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?" framing Candace Owens' commentary as creating grounds for violence against Erika Kirk.
 
 Anchored Artifacts: A-2136.1
-Mentions: N-2
+Mentions: N-2, N-3
 
 
 Investigative Direction: Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning.

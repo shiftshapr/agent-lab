@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-499, N-500, N-501, N-502, N-503, N-512, N-1387, N-1388, N-1389, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
-  - Reused Nodes Appearing: N-1003
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
 ---
@@ -35,7 +35,7 @@
   - Claim Range: C-1862–C-1879
   - New Nodes Introduced (people):  through 
   - New Nodes Introduced (investigation targets): N-1387 through N-1396
-  - Existing Nodes Reused: N-1003, N-3
+  - Existing Nodes Reused: N-3
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:37:36–00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1879, N-1003*
+*Related: C-1879*
 
 **A-1518.2** Viewer comment from "Assad O Bros": testimony that watching the "Brigitte series" led to purchasing a first Bible
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:39:37–00:40:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1879, N-1003*
+*Related: C-1879*
 
 **A-1518.4** Viewer comment from "AZ Master Baker": dates given for Erika with Bari Weiss (13th), TPUSA podcast (15th), TPUSA AmFest (18th)
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:40:18–00:41:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (dates as stated by commenter)
 
-*Related: C-1877, N-1003, N-444*
+*Related: C-1877, N-444*
 
 **A-1518.5** Viewer comment from "CCXX": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:41:02–00:41:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (existence of Daily Mail story as cited)
 
-*Related: C-1878, C-1879, N-1003, N-1393*
+*Related: C-1878, C-1879, N-1393*
 
 **A-1518.6** Viewer comment from "Laughing Cats Music World" — referenced but contents not read in full (request for post to TPUSA asking specific questions)
 
@@ -210,19 +210,6 @@ Episode Count: (existing)
 Investigative Pressure: (existing)
 
 *Related: A-1513.1, A-1518.1, A-1518.3, A-1518.5, C-1862, C-1863*
-
----
-
-**N-1003** MK Ultra
-
-Spouse of Charlie Kirk. Referenced in viewer comments as appearing with Bari Weiss on the 13th.
-
-Evidence Count: (existing)
-Claim Count: (existing)
-Episode Count: (existing)
-Investigative Pressure: (existing)
-
-*Related: A-1518.4, A-1518.5, C-1877, C-1878, C-1879*
 
 ---
 
@@ -352,7 +339,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1518.4, C-1877, N-1003*
+*Related: A-1518.4, C-1877*
 
 ---
 
@@ -484,7 +471,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1518.5, C-1878, N-1003*
+*Related: A-1518.5, C-1878*
 
 ---
 
@@ -562,7 +549,7 @@ Claim Timestamp: 00:07:33–00:08:21
 Claim: When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.
 
 Anchored Artifacts: A-1514.1
-Mentions: N-75, N-102
+Mentions: N-75, N-102, N-1
 Related Nodes: N-1387
 
 Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.
@@ -739,8 +726,8 @@ Claim Timestamp: 00:40:18–00:41:02
 Claim: A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).
 
 Anchored Artifacts: A-1518.4
-Mentions: N-444
-Related Nodes: N-1003
+Mentions: N-444, N-2
+Related Nodes:
 
 Investigative Direction: Verify against publicly available event listings and episode announcements.
 
@@ -753,7 +740,8 @@ Claim Timestamp: 00:41:02–00:41:57
 Claim: A viewer comment references a Daily Mail story on the life insurance policy on Charlie Kirk's life; the host acknowledges the report.
 
 Anchored Artifacts: A-1518.5
-Related Nodes: N-1003, N-1393
+Mentions: N-1
+Related Nodes: N-1393
 
 Investigative Direction: Locate the Daily Mail article and confirm policy details, beneficiary, and amount.
 
@@ -767,7 +755,7 @@ Claim: Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUS
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
 Mentions:
-Related Nodes: N-1003, N-1391
+Related Nodes: N-1391
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.
 
@@ -816,4 +804,4 @@ N-102 (Kash Patel), N-75 (Megyn Kelly), N-499 (Pierre Falcone), N-500 (Arcadi Ga
 **New Nodes Introduced (investigation targets):**
 N-1387, N-1388, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
 
-**Existing Nodes Reused:** N-1003, N-3
+**Existing Nodes Reused:** N-3

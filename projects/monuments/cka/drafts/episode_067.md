@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-3, N-830, N-833, N-835, N-839, N-840, N-841, N-843, N-850, N-851, N-853, N-854, N-855, N-856, N-857, N-858, N-867, N-1541, N-1542, N-1543, N-1544, N-1545, N-1546, N-1547
-  - Reused Nodes Appearing: N-1, N-2
+  - New Nodes Introduced: N-830, N-833, N-835, N-839, N-840, N-841, N-843, N-850, N-851, N-853, N-854, N-855, N-856, N-857, N-858, N-867, N-1541, N-1542, N-1543, N-1544, N-1545, N-1546, N-1547
+  - Reused Nodes Appearing: N-1, N-2, N-3
   - (see registers)
 
 ## I. Meta-Data
@@ -279,7 +279,7 @@ Confidence Level: Medium (source unnamed)
 **A-2489** James Lee CIA T-Shirt Remark Bundle
 
 **A-2489.1** On-air host remark, after the James Lee Epstein email clip, that he is "wearing a CIA t-shirt" (verbal reference to the CIA shirt worn by the featured independent journalist; not a host merch plug).
-Video Timestamp: 00:17:50
+Video Timestamp: 00:16:29
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Confidence: medium
 *Related: C-3661, N-3, N-260*
@@ -455,7 +455,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High (directly affects Charlie Kirk timeline)
 
-*Related: A-1722.1, C-2270, C-2271, N-1, N-1544, N-1547*
+*Related: A-1722.2, C-2270, C-2271, N-1, N-1544, N-1547*
 
 **N-42** Andrew Kolvet
 
@@ -689,7 +689,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1721.1, A-1722.1, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1, N-42, N-16, N-434, N-134*
+*Related: A-1721.1, A-1722.2, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1, N-42, N-16, N-434, N-134*
 
 **N-1545** Peter Thiel–Epstein Relationship Documentation
 
@@ -722,7 +722,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1722.1, A-1726.2, C-2270, C-2275, N-1, N-16*
+*Related: A-1722.2, A-1726.2, C-2270, C-2275, N-1, N-16*
 
 ---
 
@@ -749,7 +749,7 @@ Claim Timestamp: 00:10:32
 Claim: Per the TikTok contrarian compilation, Israel is mentioned twice as much as Donald Trump across the released Epstein documents.
 
 Anchored Artifacts: A-1715.1
-Mentions: N-35
+Mentions: N-35, N-5
 
 
 Investigative Direction: Independently count Israel/Trump mentions across DOJ-released documents.
@@ -833,7 +833,7 @@ Claim Timestamp: 00:16:29
 Claim: Per James Lee, Susan Hamblin previously sued News Group Newspapers (publisher of The Sun) over articles alleging she groomed and procured a 16-year-old for Epstein; articles were removed and substantial compensation paid.
 
 Anchored Artifacts: A-1716.1
-Mentions: N-843
+Mentions: N-843, N-260
 
 
 Investigative Direction: Verify the litigation through court records (UK).
@@ -889,7 +889,7 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
 
 Anchored Artifacts: A-1718.1
-Mentions: N-841
+Mentions: N-841, N-440
 
 
 Investigative Direction: Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.
@@ -917,7 +917,7 @@ Claim Timestamp: 00:26:09
 Claim: Per Peter Thiel on the Joe Rogan podcast, he was introduced to Jeffrey Epstein by Reid Hoffman in 2014 (after Epstein's 2008 arrest), described as "one of the smartest tax people in the world."
 
 Anchored Artifacts: A-1720.1
-Mentions: N-35, N-835, N-850
+Mentions: N-35, N-835, N-850, N-427
 
 
 Investigative Direction: Confirm date and circumstances against any released Thiel email metadata with Hoffman.
@@ -945,7 +945,7 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 — not September 8 as Candace Owens had stated.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-86, N-1
+Mentions: N-86, N-1, N-3
 
 Related Nodes: N-1544
 
@@ -974,7 +974,7 @@ Claim Timestamp: 00:47:03
 
 Claim: Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.
 
-Anchored Artifacts: A-1722.1
+Anchored Artifacts: A-1722.2
 Mentions: N-16, N-1
 
 Related Nodes: N-1544, N-1547
@@ -989,7 +989,7 @@ Claim Timestamp: 00:47:50
 
 Claim: Per Frank Turek, Charlie Kirk texted that he would be "shortly" out because "GG just got up," and Charlie had to attend to the child before the walk.
 
-Anchored Artifacts: A-1722.1
+Anchored Artifacts: A-1722.2
 Mentions: N-16, N-1, N-2
 
 Related Nodes: N-1544
@@ -1019,7 +1019,7 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-42, N-434, N-2
+Mentions: N-42, N-434, N-2, N-3
 
 Related Nodes: N-1541
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source, the Sept 9 "they're going to kill me" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-42, N-434, N-1
+Mentions: N-42, N-434, N-1, N-3
 
 Related Nodes: N-1544
 
@@ -1049,7 +1049,7 @@ Claim Timestamp: 00:48:34
 Claim: Per Candace Owens's source (a resident of the Kirks' building), a neighbor encountered Charlie Kirk on a walk on September 8 with a tall person who was not Frank Turek; they spoke briefly about her dog and his upcoming tour.
 
 Anchored Artifacts: A-1726.2
-Mentions: N-16, N-1
+Mentions: N-16, N-1, N-3
 
 Related Nodes: N-1547
 
@@ -1064,7 +1064,7 @@ Claim Timestamp: 00:56:38
 Claim: The top YouTube comment (from user "Truth no matter the consequences") requests a Candace Owens and Kanye West joint episode.
 
 Anchored Artifacts: A-1725.1
-Mentions: N-3
+Mentions: N-3, N-56
 
 
 Investigative Direction: Not applicable (commentary only).
@@ -1158,7 +1158,7 @@ Investigative Direction: Verify against Charleston historical society records; v
 
 **C-3661** Host notes featured independent journalist James Lee wearing a CIA t-shirt
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:16:29
 Claim: After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says "I love that he's wearing a CIA t-shirt. James, great work," noting the featured journalist wearing a CIA shirt rather than plugging merch herself.
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Anchored Artifacts: A-2489.1

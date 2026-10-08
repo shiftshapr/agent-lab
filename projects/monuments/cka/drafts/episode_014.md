@@ -12,8 +12,8 @@
 - **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-6, N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-1224, N-1225, N-1226, N-1227
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-1224, N-1225, N-1226, N-1227
+  - Reused Nodes Appearing: N-6
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
 - Source used for analysis: Transcript (cleaned YouTube captions, video context)
@@ -470,7 +470,7 @@ Claim: The ADL issued a public response statement affirming respect for the FBI 
 
 Anchored Artifacts: A-1210.1
 
-Related Nodes: N-1224
+Related Nodes:
 
 Investigative Direction: Confirm the ADL statement verbatim from primary source and assess whether operational cooperation with FBI entities continues despite the announced split.
 
@@ -483,6 +483,7 @@ Claim Timestamp: 00:13:03–00:14:10
 Claim: The FBI's Connecticut field office — rather than a closer regional bureau — was dispatched to UVU to assist in the Charlie Kirk assassination investigation.
 
 Anchored Artifacts: A-1218.1
+Mentions: N-1
 
 Related Nodes: N-1225
 
@@ -501,7 +502,7 @@ Claim: Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Conne
 Anchored Artifacts: A-1211.1
 Mentions: N-202
 
-Related Nodes: N-1224, N-1225
+Related Nodes: N-1225
 
 Investigative Direction: Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.
 
@@ -516,7 +517,7 @@ Claim: Per the Kyle Undercover 2023 review, 63% of ADL regional offices are loca
 Anchored Artifacts: A-1211.1
 Mentions: N-202
 
-Related Nodes: N-1224
+Related Nodes:
 
 Investigative Direction: Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).
 
@@ -529,7 +530,7 @@ Claim Timestamp: 00:29:07–00:32:15
 Claim: Investigative journalist Elizabeth Lane approached multiple Utah law firms seeking pro bono counsel for Tyler Robinson and reported willingness from at least one reputable firm prior to certification-barrier issues.
 
 Anchored Artifacts: A-1212.1
-Mentions: N-6
+Mentions: N-6, N-69
 
 Related Nodes: N-1226
 
@@ -544,7 +545,7 @@ Claim Timestamp: 00:32:15
 Claim: Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecutor Skordas asserted that he — not the defense — controls identification of defense counsel for Tyler Robinson.
 
 Anchored Artifacts: A-1212.1
-Mentions: N-6, N-207
+Mentions: N-6, N-207, N-69
 
 Related Nodes: N-1226
 
@@ -577,7 +578,7 @@ Claim: A Lyman family member, in a public clip, identified a timing anomaly in t
 
 Anchored Artifacts: A-1214.1
 
-Related Nodes: N-1227
+Related Nodes:
 
 Investigative Direction: Identify the Lyman family member; obtain any case-file references to a female accomplice; request any footage referenced by host as showing a person assisting the shooter with a clothing change.
 
@@ -606,7 +607,7 @@ Claim: U.S. Representative Marjorie Taylor Greene issued a public statement deny
 Anchored Artifacts: A-1216.1
 Mentions: N-204
 
-Related Nodes: N-1227
+Related Nodes:
 
 Investigative Direction: Verify original post and any associated official statements or security reports.
 
@@ -621,7 +622,7 @@ Claim: Podcaster Theo Von publicly stated he would never take his own life and a
 Anchored Artifacts: A-1217.1
 Mentions: N-205
 
-Related Nodes: N-1227
+Related Nodes:
 
 Investigative Direction: Verify original source (clip origin, show, date) and check for any associated public commentary.
 

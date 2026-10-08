@@ -104,9 +104,7 @@
           "related_claims": [
             "C-3210"
           ],
-          "related_nodes": [
-            "N-1212"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -130,9 +128,7 @@
           "related_claims": [
             "C-3194"
           ],
-          "related_nodes": [
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -159,10 +155,6 @@
             "C-3200"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1214",
-            "N-1215",
             "N-2171"
           ],
           "tags": [],
@@ -340,8 +332,6 @@
             "C-3195"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1216",
             "N-2171",
             "N-2172"
           ],
@@ -369,11 +359,7 @@
             "C-3199",
             "C-3200"
           ],
-          "related_nodes": [
-            "N-1208",
-            "N-1214",
-            "N-1215"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -413,262 +399,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "UVU police officer who testified at preliminary hearing that he could not identify the plainclothes man who accompanied him to the Losi rooftop where the screwdriver was recovered; his body cam footage ended on the rooftop.",
-      "related_artifacts": [
-        "A-2224.1",
-        "A-2224.2",
-        "A-2227.1",
-        "A-2233.1"
-      ],
-      "related_claims": [
-        "C-3195",
-        "C-3196",
-        "C-3197",
-        "C-3198"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2171",
-        "N-2172"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Officer at USU PD identified by X user Muppet Masher as the plainclothes man on the Losi rooftop at 12:47 PM; previously USMC marksmanship instructor at Camp Pendleton (2009–2014) and San Bernardino PD officer; subject of a Brady List entry.",
-      "related_artifacts": [
-        "A-2227.1",
-        "A-2228.1",
-        "A-2229.1",
-        "A-2234.1",
-        "A-2235.1"
-      ],
-      "related_claims": [
-        "C-3199",
-        "C-3201",
-        "C-3202",
-        "C-3203"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2171",
-        "N-2173"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Filmmaker who recorded Kirk's final weeks, including the SUV arrival footage used to show the empty glove pocket in A-2223.1.",
-      "related_artifacts": [
-        "A-2223.1"
-      ],
-      "related_claims": [
-        "C-3193"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1",
-        "N-2170"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Security operative described by host as the individual allegedly performing medical intervention (cutting shirt, jumping on gurney) in the SUV and ER; subject of host's questioning of Frank Turk in this episode.",
-      "related_artifacts": [
-        "A-2225.1"
-      ],
-      "related_claims": [
-        "C-3210"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1211",
-        "N-1212",
-        "N-2170"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Security operative described as the individual whose door pocket allegedly contained the recovered black gloves; described as holding Brian Harpole during the car ride.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-1212",
-        "N-2170"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Pastor and security-team member whose interview clip supplies the term \"yanking and banking\"; host pages him with unanswered questions about the gloves and Brian Harpole's actions.",
-      "related_artifacts": [
-        "A-2225.1"
-      ],
-      "related_claims": [
-        "C-3210"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1210",
-        "N-1211"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "FBI Director (per host framing) whose public statement supplies the 12:39 PM / 16-minute FBI arrival figure.",
-      "related_artifacts": [
-        "A-2226.1"
-      ],
-      "related_claims": [
-        "C-3194"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Individual identified by Muppet Masher as the blue-shirt man walking near the Losi rooftop alongside Allan Robertson.",
-      "related_artifacts": [
-        "A-2227.1",
-        "A-2234.1"
-      ],
-      "related_claims": [
-        "C-3200"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215",
-        "N-2171"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "X account credited by host with first positively identifying the red-hat and blue-shirt men in the bystander rooftop footage.",
-      "related_artifacts": [
-        "A-2234.1"
-      ],
-      "related_claims": [
-        "C-3199",
-        "C-3200"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1214"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "YouTuber whose analysis questions Officer Bagley's preliminary-hearing testimony regarding body cam duration and the red-hat man's role.",
-      "related_artifacts": [
-        "A-2233.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-2171",
-        "N-2172"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Turning Point USA figure referenced in host's \"pregnancy brain\" framing; host also teases tomorrow's segment about hotel accommodations shared with Andrew Kovat and TPUSA staff.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2170",
       "ref": "N-2170",
       "name": "Missing Gloves Origin in SUV Door",
@@ -685,12 +415,7 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1209",
-        "N-1210",
-        "N-1211"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -716,14 +441,7 @@
       "evidence_count": 4,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1214",
-        "N-1215",
-        "N-1216"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -743,11 +461,7 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1216"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -822,6 +536,54 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -841,7 +603,8 @@
       "claim_timestamp": "00:03:26",
       "investigative_direction": "Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-272"
       ]
     },
     {
@@ -853,12 +616,13 @@
       "anchored_artifacts": [
         "A-2226.1"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:11",
-      "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts."
+      "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.",
+      "mentions_person_refs": [
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -920,7 +684,6 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-2171"
       ],
       "tags": [],
@@ -938,7 +701,6 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-2171"
       ],
       "tags": [],
@@ -956,8 +718,6 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-1214",
-        "N-1215",
         "N-2171"
       ],
       "tags": [],
@@ -1101,12 +861,13 @@
       "anchored_artifacts": [
         "A-2225.1"
       ],
-      "related_nodes": [
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:18",
-      "investigative_direction": "Obtain the full Frank Turk interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression)."
+      "investigative_direction": "Obtain the full Frank Turk interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression).",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1118,7 +879,6 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-1216",
         "N-2171",
         "N-2172"
       ],

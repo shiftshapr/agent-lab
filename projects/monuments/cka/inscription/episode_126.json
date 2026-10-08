@@ -195,7 +195,6 @@
             "C-3035"
           ],
           "related_nodes": [
-            "N-1212",
             "N-2119"
           ],
           "tags": [],
@@ -220,8 +219,6 @@
           "description": "Comperatore Statement on \"Inside Job\" Belief Regarding Butler",
           "related_claims": [],
           "related_nodes": [
-            "N-1210",
-            "N-1211",
             "N-2123"
           ],
           "tags": [],
@@ -240,7 +237,6 @@
             "C-3038"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2123"
           ],
           "tags": [],
@@ -268,7 +264,6 @@
             "C-3040"
           ],
           "related_nodes": [
-            "N-1213",
             "N-2121"
           ],
           "tags": [],
@@ -309,210 +304,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "UVU Department of Public Safety officer who testified in the Tyler Robinson hearing regarding abandoned items and FBI lab communications.",
-      "related_artifacts": [
-        "A-2139.1",
-        "A-2139.2"
-      ],
-      "related_claims": [
-        "C-3027",
-        "C-3028"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2117"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Charlie Kirk's executive assistant at Turning Point USA; interviewed by Megyn Kelly regarding shirt selection.",
-      "related_artifacts": [
-        "A-2138.1"
-      ],
-      "related_claims": [
-        "C-3036"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Witness who recorded video of person on rooftop, described shooter in all-black tactical gear, and filed report with UVU command center. Identity deliberately withheld by host.",
-      "related_artifacts": [
-        "A-2140.1",
-        "A-2140.2",
-        "A-2140.3"
-      ],
-      "related_claims": [
-        "C-3029",
-        "C-3030",
-        "C-3031",
-        "C-3034"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2118"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Widow of Corey Comperatore (Butler, PA shooting fatality, 2024). Spoke on NewsNation asserting \"inside job\" belief.",
-      "related_artifacts": [
-        "A-2143.1",
-        "A-2143.2"
-      ],
-      "related_claims": [
-        "C-3037",
-        "C-3038"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-2123"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Only fatality in the 2024 Butler, PA shooting. Note: transcript renders name as \"Comparetor\" / \"Comstocker\"; preserve uncertainty.",
-      "related_artifacts": [
-        "A-2143.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-2123"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Christian consultant; fired from Bank of America in 2011 per Christian Post article. Transcript records host as stating \"Frank Cherico\" — possible transcription error.",
-      "related_artifacts": [
-        "A-2142.1"
-      ],
-      "related_claims": [
-        "C-3035"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2119"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Former Trump campaign manager; partner at Clock Tower X (Israeli foreign ministry digital influence firm) and co-owner of Influencable.",
-      "related_artifacts": [
-        "A-2144.1"
-      ],
-      "related_claims": [
-        "C-3039",
-        "C-3040"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2121"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Interviewer in A-2138 segment with Nate Walker.",
-      "related_artifacts": [
-        "A-2138.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Present with host on couch in Spain during hearing observation; confirmed host's reaction.",
-      "related_artifacts": [
-        "A-2139.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2116",
@@ -601,7 +392,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1212"
+        "N-37"
       ]
     },
     {
@@ -623,7 +414,6 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1210",
         "N-2123"
       ]
     },
@@ -645,10 +435,7 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1213"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -694,8 +481,6 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1210",
-        "N-1211",
         "N-2120"
       ]
     },
@@ -729,6 +514,38 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -867,12 +684,14 @@
         "A-2142.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2119"
       ],
       "tags": [],
       "claim_timestamp": "00:07:20",
-      "investigative_direction": "Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason."
+      "investigative_direction": "Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -890,7 +709,8 @@
       "claim_timestamp": "00:03:16",
       "investigative_direction": "Obtain full Megyn Kelly interview and any prior on-record statements by Walker.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-75"
       ]
     },
     {
@@ -903,8 +723,6 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1211",
         "N-2120",
         "N-2123"
       ],
@@ -922,7 +740,6 @@
         "A-2143.2"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2123"
       ],
       "tags": [],
@@ -939,7 +756,6 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2121"
       ],
       "tags": [],
@@ -956,7 +772,6 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2121"
       ],
       "tags": [],

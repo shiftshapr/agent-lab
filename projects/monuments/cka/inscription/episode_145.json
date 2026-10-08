@@ -114,10 +114,7 @@
             "C-3334",
             "C-3335"
           ],
-          "related_nodes": [
-            "N-1210",
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:30:13–00:31:33",
@@ -142,7 +139,6 @@
             "C-3337"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2213"
           ],
           "tags": [],
@@ -169,8 +165,6 @@
             "C-3339"
           ],
           "related_nodes": [
-            "N-1211",
-            "N-1212",
             "N-2213"
           ],
           "tags": [],
@@ -196,7 +190,6 @@
             "C-3335"
           ],
           "related_nodes": [
-            "N-1213",
             "N-2213"
           ],
           "tags": [],
@@ -246,11 +239,7 @@
           "related_claims": [
             "C-3341"
           ],
-          "related_nodes": [
-            "N-1218",
-            "N-1219",
-            "N-1220"
-          ],
+          "related_nodes": [],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:37:33",
@@ -274,10 +263,7 @@
             "C-3342",
             "C-3343"
           ],
-          "related_nodes": [
-            "N-1214",
-            "N-1217"
-          ],
+          "related_nodes": [],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:17:34–00:18:39",
@@ -362,132 +348,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "X commentator (@DataRepublican); Utah-based software engineer; publicly admitted Special Government Employee status at the Department of War since July 2025; produced X thread alleging host creates permission structure for violence against Erika Kirk.",
-      "related_artifacts": [
-        "A-2313.1",
-        "A-2314.1"
-      ],
-      "related_claims": [
-        "C-3333",
-        "C-3336",
-        "C-3337",
-        "C-3340"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-2213"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Confirmed and sworn in as Under Secretary for Public Diplomacy at the U.S. State Department; publicly described by Blake Neff as \"one of Charlie's favorite Trump nominees\"; alleged by host to have leaked information to Jenica Pounds.",
-      "related_artifacts": [
-        "A-2315.1"
-      ],
-      "related_claims": [
-        "C-3338",
-        "C-3339",
-        "C-3340"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1212",
-        "N-2213"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Turning Point USA communications figure; publicly described Sarah Rogers as a personal friend and Trump nominee; publicly thanked Data Republican and endorsed her thread accusing the host of creating a \"permission structure\" for violence against Erika Kirk.",
-      "related_artifacts": [
-        "A-2315.1",
-        "A-2317.1"
-      ],
-      "related_claims": [
-        "C-3334",
-        "C-3338"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-2213"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Financier; publicly promoted Data Republican's content regarding Charlie Kirk and the host; flagged by host as a recurring figure in the Charlie Kirk assassination discourse.",
-      "related_artifacts": [
-        "A-2316.1"
-      ],
-      "related_claims": [
-        "C-3335"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2213"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Actor; plaintiff in Lively v. Baldoni CCRD complaint; subject of multiple host allegations regarding conduct toward Baldoni and his team.",
-      "related_artifacts": [
-        "A-2319.1"
-      ],
-      "related_claims": [
-        "C-3342",
-        "C-3343"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1209",
-        "N-1215",
-        "N-1216",
-        "N-1217"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1215",
       "ref": "N-1215",
       "name": "Hospital Routing Discrepancy",
@@ -525,87 +385,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Wayfarer Studios partner (Justin Baldoni's business partner); subject of CCRD filing allegations regarding on-set video incident.",
-      "related_artifacts": [
-        "A-2319.1"
-      ],
-      "related_claims": [
-        "C-3342",
-        "C-3343"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1209",
-        "N-1214"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Daily Wire personality referenced by host as \"Matt Nuclear\"; described as newly hired and slated for TPUSA \"Love It or Leave It\" tour.",
-      "related_artifacts": [
-        "A-2318.1"
-      ],
-      "related_claims": [
-        "C-3341"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Daily Wire personality; announced by TPUSA as participant in \"Love It or Leave It\" tour; criticized by host for prior public denial of friendship with Charlie Kirk.",
-      "related_artifacts": [
-        "A-2318.1"
-      ],
-      "related_claims": [
-        "C-3341"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Commentator; announced by TPUSA as participant in \"Love It or Leave It\" tour.",
-      "related_artifacts": [
-        "A-2318.1"
-      ],
-      "related_claims": [
-        "C-3341"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2213",
       "ref": "N-2213",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
@@ -629,13 +408,7 @@
       "evidence_count": 5,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1211",
-        "N-1212",
-        "N-1213"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -723,6 +496,150 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Referenced in SAS/Tucker wealth-question and prior smear-amplification context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-135",
+      "ref": "N-135",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-138",
+      "ref": "N-138",
+      "name": "Michael Knowles",
+      "type": "person",
+      "description": "Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-774",
+      "ref": "N-774",
+      "name": "Blake Lively",
+      "type": "person",
+      "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-775",
+      "ref": "N-775",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -773,7 +690,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:27",
-      "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses."
+      "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.",
+      "mentions_person_refs": [
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",
@@ -787,7 +707,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:29",
-      "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives."
+      "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives.",
+      "mentions_person_refs": [
+        "N-775"
+      ]
     },
     {
       "@type": "Claim",
@@ -803,7 +726,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
-      "investigative_direction": "Obtain the full NCRI report; verify authorship, publication date, and exact wording."
+      "investigative_direction": "Obtain the full NCRI report; verify authorship, publication date, and exact wording.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -819,7 +745,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
-      "investigative_direction": "Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos."
+      "investigative_direction": "Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -835,7 +764,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
-      "investigative_direction": "Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing."
+      "investigative_direction": "Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -846,9 +778,7 @@
       "anchored_artifacts": [
         "A-2313.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:13",
       "investigative_direction": "Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.",
@@ -867,12 +797,14 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2213"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
-      "investigative_direction": "Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live)."
+      "investigative_direction": "Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -884,12 +816,15 @@
         "A-2316.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2213"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
-      "investigative_direction": "Retrieve the specific Bill Ackman post; verify date and quoted text."
+      "investigative_direction": "Retrieve the specific Bill Ackman post; verify date and quoted text.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-66"
+      ]
     },
     {
       "@type": "Claim",
@@ -901,7 +836,6 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2213"
       ],
       "tags": [],
@@ -918,7 +852,6 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2213"
       ],
       "tags": [],
@@ -934,13 +867,13 @@
       "anchored_artifacts": [
         "A-2315.1"
       ],
-      "related_nodes": [
-        "N-1212",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:25",
-      "investigative_direction": "Retrieve the Blake Neff post directly; verify quoted text."
+      "investigative_direction": "Retrieve the Blake Neff post directly; verify quoted text.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -951,9 +884,7 @@
       "anchored_artifacts": [
         "A-2315.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Cross-reference Senate confirmation records and State Department announcement archives."
@@ -968,8 +899,6 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1211",
         "N-2213"
       ],
       "tags": [],
@@ -985,14 +914,15 @@
       "anchored_artifacts": [
         "A-2318.1"
       ],
-      "related_nodes": [
-        "N-1218",
-        "N-1219",
-        "N-1220"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:33",
-      "investigative_direction": "Retrieve TPUSA's official tour announcement; verify lineup and dates."
+      "investigative_direction": "Retrieve TPUSA's official tour announcement; verify lineup and dates.",
+      "mentions_person_refs": [
+        "N-138",
+        "N-133",
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",
@@ -1003,13 +933,13 @@
       "anchored_artifacts": [
         "A-2319.1"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1217"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:34",
-      "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context."
+      "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context.",
+      "mentions_person_refs": [
+        "N-774"
+      ]
     },
     {
       "@type": "Claim",
@@ -1020,10 +950,7 @@
       "anchored_artifacts": [
         "A-2319.1"
       ],
-      "related_nodes": [
-        "N-1217",
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings."
@@ -1042,15 +969,17 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-2213",
-        "N-1210",
-        "N-1211",
-        "N-1212",
-        "N-1213"
+        "N-2213"
       ],
       "tags": [],
       "claim_timestamp": "00:35:45",
-      "investigative_direction": "Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War."
+      "investigative_direction": "Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-1",
+        "N-66",
+        "N-224"
+      ]
     }
   ],
   "memes": []

@@ -639,7 +639,7 @@ Claim Timestamp: 00:06:41
 Claim: Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and added the one-word reply "Based."
 
 Anchored Artifacts: A-1236.1, A-1248.1
-Mentions: N-86
+Mentions: N-86, N-1, N-5
 Related Nodes: N-1240
 
 Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.
@@ -681,7 +681,7 @@ Claim Timestamp: 00:04:50
 Claim: Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
-Mentions: N-1
+Mentions: N-1, N-50
 
 Investigative Direction: Verify the full memorial transcript and locate the segment within the recording.
 
@@ -734,7 +734,7 @@ Claim Timestamp: 00:20:50
 Claim: Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.
 
 Anchored Artifacts: A-1241.1
-Mentions: N-86
+Mentions: N-86, N-1
 Related Nodes: N-1243
 
 Investigative Direction: Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.
@@ -748,7 +748,7 @@ Claim Timestamp: 00:22:12
 Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
 
 Anchored Artifacts: A-1242.1
-Mentions: N-86, N-243
+Mentions: N-86, N-243, N-1
 Related Nodes: N-1243, N-1244
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
@@ -762,7 +762,7 @@ Claim Timestamp: 00:29:05
 Claim: In his post-assassination interview, Rabbi Pesach Wolicki stated that Charlie Kirk "certainly had some disagreements with Israeli policy and he criticized Israel where he felt appropriate" and that there were "people around him in the America First movement who were actively working on him to try to get him to turn on Israel."
 
 Anchored Artifacts: A-1243.1
-Mentions: N-229
+Mentions: N-229, N-1
 Related Nodes: N-1244
 
 Investigative Direction: Verify full Wolicki interview; obtain unedited transcript.
@@ -790,7 +790,7 @@ Claim Timestamp: 00:47:42
 Claim: On the morning of October 8, 2025, Dinesh D'Souza posted on X comparing Candace Owens to a "freak show" and a farmer having sex with a sheep, with the stated intent of discouraging viewership.
 
 Anchored Artifacts: A-1245.1, A-1245.2
-Mentions: N-235, N-238
+Mentions: N-235, N-238, N-3
 
 Investigative Direction: Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.
 
@@ -803,7 +803,7 @@ Claim Timestamp: 00:53:36
 Claim: Alex Jones, on his show, confirmed that Candace Owens sent a "dead man's switch" / "kill switch" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.
 
 Anchored Artifacts: A-1246.1
-Mentions: N-68, N-128, N-233, N-242
+Mentions: N-68, N-128, N-233, N-242, N-50, N-78, N-3
 Related Nodes: N-1242
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
@@ -871,7 +871,7 @@ Claim Timestamp: 00:07:54
 Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
-Mentions: N-37
+Mentions: N-37, N-3
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 

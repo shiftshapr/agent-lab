@@ -499,7 +499,7 @@ Claim Timestamp: 00:12:57–00:13:53
 Claim: According to a January 29, 2026 Candace Owens tweet sourced to White House personnel, Andrew Kolvet and Mikey McCoy (allegedly with his wife Elizabeth) were in the West Wing on January 29, 2026 while the Charlie Kirk Show was presenting a pre-recorded interview with Kash Patel as live.
 
 Anchored Artifacts: A-1810.1
-Mentions: N-42, N-272
+Mentions: N-42, N-272, N-3, N-102
 Related Nodes: N-1594
 Investigative Direction: Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.
 
@@ -512,7 +512,7 @@ Claim Timestamp: 00:13:53
 Claim: The Charlie Kirk Show episode in which Kash Patel appeared was pre-recorded on January 28, 2026 (per host, two days before the tweet) rather than broadcast live.
 
 Anchored Artifacts: A-1810.1
-Mentions: N-42
+Mentions: N-42, N-102
 Related Nodes: N-1594
 Investigative Direction: Compare the episode's audio/video metadata against the claimed broadcast time.
 
@@ -589,7 +589,7 @@ Claim Timestamp: 00:24:35–00:26:09
 Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Colebat, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.
 
 Anchored Artifacts: A-1815.1
-Mentions: N-2, N-42
+Mentions: N-2, N-42, N-3
 Related Nodes: N-1591
 Investigative Direction: Confirm the email log; await response or non-response status update.
 
@@ -602,6 +602,7 @@ Claim Timestamp: 00:38:58
 Claim: A Jezebel.com article regarding a "witch's curse" on Charlie Kirk's life was published at 9:49 AM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1816.1
+Mentions: N-1
 Related Nodes: N-1593
 Investigative Direction: Obtain the Jezebel article URL with timestamp metadata; verify publication time.
 
@@ -627,6 +628,7 @@ Claim Timestamp: 00:36:30–00:38:17
 Claim: On September 8, 2025, Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home, as evidenced by his show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions).
 
 Anchored Artifacts: A-1818.2
+Mentions: N-1
 Related Nodes: N-1593
 Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps.
 
@@ -639,7 +641,7 @@ Claim Timestamp: 00:35:28–00:36:30
 Claim: Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
 
 Anchored Artifacts: A-1819.1
-Mentions: N-16
+Mentions: N-16, N-1
 Related Nodes: N-1593
 Investigative Direction: Obtain full Turek interview; verify the date and content of the Monday walk.
 
@@ -676,7 +678,7 @@ Claim Timestamp: 00:10:14–00:11:17
 Claim: Father Chad Ripberger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.
 
 Anchored Artifacts: A-1811.1
-Mentions: N-954
+Mentions: N-954, N-344
 Investigative Direction: Obtain the full Ripberger clip and surrounding podcast context for verification.
 
 ---
@@ -688,6 +690,7 @@ Claim Timestamp: 00:38:58
 Claim: Charlie Kirk appeared on the Charlie Kirk Show from his home studio at 10:00 AM Arizona time on September 8, 2025 (separate appearance from A-1818.2).
 
 Anchored Artifacts: A-1818.1
+Mentions: N-1
 Related Nodes: N-1593
 Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp.
 
@@ -700,6 +703,7 @@ Claim Timestamp: 00:40:08
 Claim: Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1818.3
+Mentions: N-1
 Related Nodes: N-1593
 Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and verify timestamp.
 

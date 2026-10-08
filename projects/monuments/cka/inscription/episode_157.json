@@ -127,7 +127,7 @@
             "N-424",
             "N-344",
             "N-1720",
-            "N-2063"
+            "N-1444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -553,26 +553,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2063",
-      "ref": "N-2063",
-      "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
-      "description": "Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3588"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2353"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2073",
       "ref": "N-2073",
       "name": "Turning Point UVU Event Submission Chain",
@@ -746,7 +726,7 @@
       "related_nodes": [
         "N-424",
         "N-344",
-        "N-2063"
+        "N-1444"
       ]
     },
     {
@@ -832,6 +812,42 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1444",
+      "ref": "N-1444",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3588"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2353"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -900,7 +916,8 @@
       "claim_timestamp": "00:14:22",
       "investigative_direction": "Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.",
       "mentions_person_refs": [
-        "N-30"
+        "N-30",
+        "N-1"
       ]
     },
     {
@@ -921,7 +938,8 @@
       "claim_timestamp": "00:35:31",
       "investigative_direction": "Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.",
       "mentions_person_refs": [
-        "N-30"
+        "N-30",
+        "N-1"
       ]
     },
     {
@@ -935,9 +953,9 @@
         "A-2451.3"
       ],
       "related_nodes": [
-        "N-2353",
         "N-1313",
-        "N-2063"
+        "N-1444",
+        "N-2353"
       ],
       "tags": [],
       "claim_timestamp": "00:45:34",
@@ -957,9 +975,9 @@
         "A-2453.1"
       ],
       "related_nodes": [
-        "N-2353",
         "N-1720",
-        "N-2063"
+        "N-1444",
+        "N-2353"
       ],
       "tags": [],
       "claim_timestamp": "00:47:38",
@@ -1067,7 +1085,8 @@
       "claim_timestamp": "00:01:46",
       "investigative_direction": "Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-552"
       ]
     },
     {

@@ -191,10 +191,7 @@
           "related_claims": [
             "C-3133"
           ],
-          "related_nodes": [
-            "N-1210",
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -219,10 +216,7 @@
             "C-3134",
             "C-3135"
           ],
-          "related_nodes": [
-            "N-1211",
-            "N-1212"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -248,8 +242,6 @@
             "C-3137"
           ],
           "related_nodes": [
-            "N-1210",
-            "N-1211",
             "N-1",
             "N-2"
           ],
@@ -264,149 +256,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Person newly identified in this episode as the individual alleged to have been with Ben Shapiro on September 10, 2025, when Charlie Kirk was shot. Host narrative (no shown artifact) describes roles including executive director of B'nai B'rith International, AIPAC Nebraska chapter president, and Chabad Lubavitch of Nebraska director. Central to an open investigation; no artifact-anchored claims about his identity or roles are inscribed in this episode.",
-      "related_artifacts": [
-        "A-2181.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2147"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Former SEAL Team 6 sniper who publicly questioned elements of the official Charlie Kirk assassination narrative on Newsmax (artifact A-2184.1). Identified himself in the clip as \"SEAL Team 6 sniper from the sniper school in 1998.\"",
-      "related_artifacts": [
-        "A-2184.1"
-      ],
-      "related_claims": [
-        "C-3129",
-        "C-3130",
-        "C-3131",
-        "C-3132"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Family friend of Erica Kirk, identified by host as the alleged Daily Mail source. Publicly denied being the source on Paramount Tactical.",
-      "related_artifacts": [
-        "A-2183.1"
-      ],
-      "related_claims": [
-        "C-3128"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Widow of Stephen \"Twitch\" Boss. Gave an interview (A-2185.1) in which she described finding hidden substances in the home after her husband's death; subject of YouTube-comment comparison to Erica Kirk.",
-      "related_artifacts": [
-        "A-2185.1",
-        "A-2188.1"
-      ],
-      "related_claims": [
-        "C-3133",
-        "C-3136",
-        "C-3137"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Deceased DJ (died 2022 per host correction within the same sentence). Source of the parallel pattern asserted in the YouTube comment artifact and subject of the family NDA interview on CBS.",
-      "related_artifacts": [
-        "A-2185.1",
-        "A-2186.1",
-        "A-2188.1"
-      ],
-      "related_claims": [
-        "C-3134",
-        "C-3135",
-        "C-3136",
-        "C-3137"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1212"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Mother of Stephen \"Twitch\" Boss; appears as the named family interviewee in the CBS / Gayle King audio artifact describing NDA pressure.",
-      "related_artifacts": [
-        "A-2186.1"
-      ],
-      "related_claims": [
-        "C-3134",
-        "C-3135"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2147",
@@ -474,6 +323,102 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-168",
+      "ref": "N-168",
+      "name": "Marissa Strait",
+      "type": "person",
+      "description": "PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xaviaer DuRousseau for Hamptons response video.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-278",
+      "ref": "N-278",
+      "name": "David Horowitz",
+      "type": "person",
+      "description": "Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Mentioned in a viewer comment the host answers dismissively.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-641",
+      "ref": "N-641",
+      "name": "Steve Bannon",
+      "type": "person",
+      "description": "Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-890",
+      "ref": "N-890",
+      "name": "Tracy Martin",
+      "type": "person",
+      "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -492,7 +437,8 @@
       "investigative_direction": "Obtain carrier records or device extractions to verify the text thread independently of host narration.",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-133"
       ]
     },
     {
@@ -546,7 +492,8 @@
       "investigative_direction": "Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-607"
       ]
     },
     {
@@ -564,7 +511,8 @@
       "investigative_direction": "Verify name spelling against device-extracted SMS records.",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-168"
       ]
     },
     {
@@ -637,7 +585,8 @@
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-133"
       ]
     },
     {
@@ -654,7 +603,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
-      "investigative_direction": "Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley)."
+      "investigative_direction": "Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -668,7 +621,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:03",
-      "investigative_direction": "Obtain the full AmFest segment; verify exact wording."
+      "investigative_direction": "Obtain the full AmFest segment; verify exact wording.",
+      "mentions_person_refs": [
+        "N-278",
+        "N-641",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -684,7 +642,8 @@
       "claim_timestamp": "00:33:45",
       "investigative_direction": "Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-890"
       ]
     },
     {
@@ -764,10 +723,7 @@
       "anchored_artifacts": [
         "A-2185.1"
       ],
-      "related_nodes": [
-        "N-1210",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings."
@@ -781,10 +737,7 @@
       "anchored_artifacts": [
         "A-2186.1"
       ],
-      "related_nodes": [
-        "N-1211",
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand."
@@ -798,10 +751,7 @@
       "anchored_artifacts": [
         "A-2186.1"
       ],
-      "related_nodes": [
-        "N-1211",
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements."
@@ -815,10 +765,7 @@
       "anchored_artifacts": [
         "A-2188.1"
       ],
-      "related_nodes": [
-        "N-1210",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Independent verification of each parallel item against documented records in both cases.",
@@ -836,9 +783,7 @@
       "anchored_artifacts": [
         "A-2188.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Independent verification against public records or alumni databases."

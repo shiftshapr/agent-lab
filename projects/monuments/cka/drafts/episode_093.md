@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1691, N-1692, N-1693, N-1694, N-1695, N-1696, N-1697
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
 ## 2. Executive Summary
@@ -104,7 +104,7 @@ Video Timestamp: 00:24:00–00:25:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2748, N-1217*
+*Related: C-2748*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:29:30–00:30:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2749, N-1213*
+*Related: C-2749*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:31:20–00:32:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2750, N-1210*
+*Related: C-2750*
 
 **A-1987.2** Victor Marx interview clip denying arms trafficking: "Of course not. It's illegal. How would I even be where I am today?"
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:33:46–00:34:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2751, N-1210*
+*Related: C-2751*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:35:00–00:36:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host invites Victor Marx to dispute authenticity)
 
-*Related: C-2752, C-2753, N-1210, N-1693*
+*Related: C-2752, C-2753, N-1693*
 
 **A-1988.2** Corby Hall reply: "Why so much focus on the IDF and not as much on domestic schools?… I would hate to send 1,000 units to the IDF and have an unprotected school get shot up here."
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:36:10–00:37:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-1210, N-1693*
+*Related: C-2752, N-1693*
 
 **A-1988.3** Victor Marx reply: "You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure."
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:37:17–00:38:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-1210, N-1693*
+*Related: C-2752, N-1693*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:39:18–00:41:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article referenced but not displayed in full)
 
-*Related: C-2754, N-1214, N-1695*
+*Related: C-2754, N-1695*
 
 ---
 
@@ -256,132 +256,11 @@ Video Timestamp: 00:28:57–00:29:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2760, N-1217, N-1697*
+*Related: C-2760, N-1697*
 
 ---
 
 ## 4. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Subject of new documentary material in this episode: FFL license, social-media post, interview clips, and text messages referencing IDF/SOCOM ties.
-
-Evidence Count: 4
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1984.1, A-1985, A-1986, A-1987.1, A-1987.2, A-1988.1, A-1988.3, C-2748, C-2749, C-2750, C-2751, C-2752, C-2753, N-1210, N-1693*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Vice President; on-stage at UGA rally; subject of host analysis regarding manipulation by Erika.
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1982.2, A-1983, C-2746, C-2747, N-1691*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-TPUSA spokesperson referenced in host's timeline reconstruction (variable host spellings: "Kolvet," "Kolburt," "Kolodziej," "Tate Coburn"). Uncertainty noted.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1983, N-1691*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Witness to alleged interaction with Victor Marx; provided text messages. Variable host spelling "Corby"/"Colby" noted.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1987.1, A-1987.2, A-1988.1, A-1988.2, A-1988.3, C-2750, C-2751, C-2752, C-2753*
-
-**N-1211** UVU Campus Familiarity Question
-
-Host of referenced show; source for FFL finding and venue presence interpretation.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1986, C-2749*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-CBS News journalist, attributed author of A-1981.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1981.1, C-2744, N-1692*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Historical figure (deceased); subject of Bain Capital investment claim.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1989, C-2754, N-1695*
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Roommate of Tyler Robinson; subject of host speculation about federal-asset status (host speculation not inscribed as claim).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1696*
-
-**N-1215** Hospital Routing Discrepancy
-
-Security detail referenced by host as having failed to protect Charlie Kirk; host states he was later offered a raise/bonus from Erika. (Host assertion only — no artifact in this episode.)
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1696*
-
-**N-1216** Utah FBI Personnel Replacement
-
-Creator of viral video mocking Erika Kirk's behavior. Variable host spelling "Drewski"/"Druski."
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1991.1, A-1991.2, N-1691*
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Subject of viewer email tip regarding early knowledge of Charlie Kirk's shooting. Name spelling uncertain; verification requested.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1992, C-2760, N-1697*
 
 **N-1691** UGA Rally Cancellation Discrepancy
 
@@ -392,7 +271,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-2744, C-2745, C-2746, C-2747, C-2758, C-2759, N-1216*
+*Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-2744, C-2745, C-2746, C-2747, C-2758, C-2759*
 
 **N-1692** Secret Service Statement Verification
 
@@ -403,7 +282,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1981.1, C-2744, N-1212*
+*Related: A-1981.1, C-2744*
 
 **N-1693** Victor Marx IDF / Israeli Defense Group Connection
 
@@ -414,7 +293,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1988.1, A-1988.2, A-1988.3, C-2752, C-2753, N-1210*
+*Related: A-1988.1, A-1988.2, A-1988.3, C-2752, C-2753*
 
 **N-1694** Bain Capital Foreign Investment Line
 
@@ -425,7 +304,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1989, C-2754, N-1213*
+*Related: A-1989, C-2754*
 
 **N-1695** ATF Bullet Comparison Methodology
 
@@ -447,7 +326,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1990, N-1214, N-1215*
+*Related: A-1990*
 
 **N-1697** Early-Death-Announcement Timeline Verification
 
@@ -458,7 +337,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1984.1, A-1992, C-2748, C-2760, N-1217*
+*Related: A-1984.1, A-1992, C-2748, C-2760*
 
 ---
 
@@ -473,7 +352,7 @@ Claim: CBS News, citing a person familiar with the matter, reported the US Secre
 Anchored Artifacts: A-1981.1
 Contradicts: C-2724, C-2728
 
-Related Nodes: N-1212, N-1692, N-1691
+Related Nodes: N-1692, N-1691
 
 Investigative Direction: Obtain the underlying Secret Service statement on the record; identify and corroborate the "person familiar" source.
 
@@ -486,6 +365,7 @@ Claim Timestamp: 00:07:27–00:13:38
 Claim: Host presents a timeline in which Erika departed West Palm Beach at 1:27 PM, landed in Athens at 2:40 PM, and remained until departing at 6:39 PM.
 
 Anchored Artifacts: A-1982.1
+Mentions: N-2
 
 Related Nodes: N-1691
 
@@ -500,6 +380,7 @@ Claim Timestamp: 00:08:44–00:09:45
 Claim: Host states JD Vance's plane began circling at 3:53 PM and landed in Athens at 4:34 PM.
 
 Anchored Artifacts: A-1982.2
+Mentions: N-4
 
 Related Nodes: N-1691
 
@@ -514,6 +395,7 @@ Claim Timestamp: 00:11:54–00:12:49
 Claim: JD Vance told Andrew on stage that "about 2 hours ago… I was a little worried that we were going to have to cancel the event because Erika was not going to come."
 
 Anchored Artifacts: A-1983
+Mentions: N-4
 
 Related Nodes: N-1691
 
@@ -528,6 +410,7 @@ Claim Timestamp: 00:24:00–00:25:01
 Claim: Victor Marx posted on social media, prior to the public confirmation, that Charlie was "in heaven" at 1:13 PM Mountain Time.
 
 Anchored Artifacts: A-1984.1
+Mentions: N-1, N-569
 
 Related Nodes: N-1697
 
@@ -542,8 +425,9 @@ Claim Timestamp: 00:29:30–00:30:28
 Claim: The Victor Marx Group LLC, based in Colorado Springs, holds a Class 1 FFL according to public lookup websites and Baron Coleman's research.
 
 Anchored Artifacts: A-1985, A-1986
+Mentions: N-552, N-569
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type.
 
@@ -556,8 +440,9 @@ Claim Timestamp: 00:31:20–00:32:44
 Claim: In an interview, Victor Marx acknowledged saying he would "whoop [Corby Hall's] ass," placing the incident at his training facility during a walk-through.
 
 Anchored Artifacts: A-1987.1
+Mentions: N-569, N-570
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account.
 
@@ -570,8 +455,9 @@ Claim Timestamp: 00:33:46–00:34:57
 Claim: When asked directly, Victor Marx answered "Of course not. It's illegal" regarding trafficking rifles to Haiti, Israel, or Iran.
 
 Anchored Artifacts: A-1987.2
+Mentions: N-569
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx.
 
@@ -584,8 +470,9 @@ Claim Timestamp: 00:35:00–00:38:02
 Claim: Text messages attributed to Victor Marx state that "The Israeli Defense Group we are connected with is ready to review the patent and possible deal" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
+Mentions: N-569
 
-Related Nodes: N-1210, N-1693
+Related Nodes: N-1693
 
 Investigative Direction: Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.
 
@@ -599,7 +486,7 @@ Claim: Host states the messages occurred in April 2025 (uncertainty noted: "I wa
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 
-Related Nodes: N-1210, N-1693
+Related Nodes: N-1693
 
 Investigative Direction: Obtain message timestamps to confirm date precisely.
 
@@ -612,8 +499,9 @@ Claim Timestamp: 00:39:18–00:41:12
 Claim: A 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors.
 
 Anchored Artifacts: A-1989
+Mentions: N-77
 
-Related Nodes: N-1213, N-1694
+Related Nodes: N-1694
 
 Investigative Direction: Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors.
 
@@ -696,8 +584,9 @@ Claim Timestamp: 00:28:57–00:29:30
 Claim: A viewer email tip suggests Amir Sarfati (or "Safadi") may have been the first to know of Charlie Kirk's shooting; host requests verification.
 
 Anchored Artifacts: A-1992
+Mentions: N-1
 
-Related Nodes: N-1217, N-1697
+Related Nodes: N-1697
 
 Investigative Direction: Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role.
 
@@ -710,6 +599,7 @@ Claim Timestamp: 00:15:01–00:17:09
 Claim: Host explicitly endorses Elizabeth Lane's prior post that "Erika Kirk exhibits the attributes of a psychopath," characterizing Erika's pattern of public blame-shifting as "malevolent."
 
 Anchored Artifacts: (verbal reference only to artifact from prior episode — Lane's X post)
+Mentions: N-2
 
 Related Nodes: N-1691
 
@@ -724,6 +614,7 @@ Claim Timestamp: 00:02:09–00:13:38
 Claim: Erika Kirk's public cancellation reason (a "credible threat" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.
 
 Anchored Artifacts: A-1981.1 (Secret Service side); A-1991.1 (insider side acknowledging non-security factors)
+Mentions: N-2
 Contradicts: C-2744
 
 Related Nodes: N-1691, N-1692

@@ -1,0 +1,9 @@
+{
+  "description": "Transit rulings on the BRC-222 term for ledger Revises edges, keyed by the newer (revising) claim. term_key is a companion ledger lookup key: revises_softening resolves to isQualifiedBy, revises_builds_on to extends. Ruled edges emit only the ruled term.",
+  "rulings": {
+    "C-3737": {"term_key": "revises_softening", "revises": "C-1292", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
+    "C-3738": {"term_key": "revises_softening", "revises": "C-1293", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
+    "C-3739": {"term_key": "revises_softening", "revises": "C-3731", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
+    "C-3740": {"term_key": "revises_softening", "revises": "C-1626", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"}
+  }
+}

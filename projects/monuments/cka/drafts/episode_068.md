@@ -407,7 +407,7 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:23:15
 Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
-Mentions: N-783
+Mentions: N-783, N-2
 Related Nodes: N-1550
 Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
@@ -417,7 +417,7 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 Claim Timestamp: 00:24:00
 Claim: On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
-Mentions: N-783
+Mentions: N-783, N-2
 Related Nodes: N-1550
 Investigative Direction: Obtain the original post screenshot/metadata and identify the countdown's intended referent.
 
@@ -427,7 +427,7 @@ Investigative Direction: Obtain the original post screenshot/metadata and identi
 Claim Timestamp: 00:25:00
 Claim: The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened "within seconds" of the shooting.
 Anchored Artifacts: A-1728.1
-Mentions: N-272, N-783
+Mentions: N-272, N-783, N-2
 Related Nodes: N-1549, N-1553
 Investigative Direction: Locate and quote the exact NYT passage to confirm wording.
 
@@ -511,7 +511,7 @@ Investigative Direction: Locate the specific All Access clip for verification of
 Claim Timestamp: 00:25:21
 Claim: According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife.
 Anchored Artifacts: A-1734.1
-Mentions: N-272
+Mentions: N-272, N-2
 Related Nodes: N-1553
 Investigative Direction: Obtain call log records or corroborating witness / phone carrier metadata.
 

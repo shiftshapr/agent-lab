@@ -439,7 +439,7 @@ Claim Timestamp: 00:16:20
 Claim: Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-707, N-708
+Mentions: N-707, N-708, N-1
 Related Nodes: N-1480
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 

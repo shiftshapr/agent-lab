@@ -190,7 +190,7 @@ Confidence Level: High
 
 **A-1531.6** Comment by servant of Yahweh: "Who was the young woman in the Candlewood Suites hotel with the special ops guy? They left in the green truck on September 8th..."
 Event Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:60:00
+Video Timestamp: 00:59:22
 Confidence Level: High
 
 *Related: C-1909, N-1404*
@@ -301,7 +301,7 @@ Claim Timestamp: 00:03:31
 Claim: Erika Kirk asked the public to allow her family privacy regarding the location where Charlie Kirk is buried, citing the need to protect her children, in-laws, and parents, and announced plans for a "museum style" memorial at Turning Point USA.
 
 Anchored Artifacts: A-1525.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Investigative Direction: Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.
 
@@ -327,7 +327,7 @@ Claim Timestamp: 00:06:28
 Claim: Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying "I love you, I love you, I love you" with another person responding "God bless you."
 
 Anchored Artifacts: A-1526.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Investigative Direction: Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.
 
@@ -353,7 +353,7 @@ Claim Timestamp: 00:24:32
 Claim: Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as "factually true."
 
 Anchored Artifacts: A-1528.1
-Mentions: N-2
+Mentions: N-2, N-50, N-205
 
 Investigative Direction: Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.
 
@@ -366,7 +366,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Mentions: N-2
+Mentions: N-2, N-50, N-1, N-205
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -379,7 +379,7 @@ Claim Timestamp: 00:28:46
 Claim: Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.
 
 Anchored Artifacts: A-1528.3
-Mentions: N-1
+Mentions: N-1, N-50
 
 Investigative Direction: Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps.
 
@@ -392,6 +392,7 @@ Claim Timestamp: 00:29:23
 Claim: Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.
 
 Anchored Artifacts: A-1528.4, A-1528.5
+Mentions: N-50
 Related Nodes:
 
 Investigative Direction: Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.
@@ -453,7 +454,7 @@ Investigative Direction: Cross-reference with public DoD facility records, news 
 
 **C-1909** Candlewood Suites security footage preservation requested for September 8, 2025
 
-Claim Timestamp: 00:60:00
+Claim Timestamp: 00:59:22
 
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 
@@ -471,6 +472,7 @@ Claim Timestamp: 00:46:20
 Claim: According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.
 
 Anchored Artifacts: A-1529.1
+Mentions: N-120
 Related Nodes: N-1403
 
 Investigative Direction: Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.
@@ -496,9 +498,9 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:55:36
 Speaker: N-3
-Quote: The more I watch, the more fake and gay things are.
+Quote: The more I watch, the more fake and gay things are
 Context: Viewer Lulu Mallerie comment elevated on air.
 Tags: viewer_refrain
 Confidence: high

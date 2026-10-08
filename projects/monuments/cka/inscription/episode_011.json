@@ -773,6 +773,54 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-128",
+      "ref": "N-128",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -788,7 +836,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:45–00:03:25",
-      "investigative_direction": "Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages."
+      "investigative_direction": "Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -802,7 +853,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:25",
-      "investigative_direction": "Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage."
+      "investigative_direction": "Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -853,7 +907,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:50–00:05:30",
-      "investigative_direction": "Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call."
+      "investigative_direction": "Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -869,7 +926,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:30–00:06:15",
-      "investigative_direction": "Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim."
+      "investigative_direction": "Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -886,7 +946,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:07:30–00:08:10",
-      "investigative_direction": "Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file."
+      "investigative_direction": "Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -978,7 +1041,8 @@
       "claim_timestamp": "00:29:30–00:30:00",
       "investigative_direction": "Pull county property records for the relevant street and verify ownership chain.",
       "mentions_person_refs": [
-        "N-92"
+        "N-92",
+        "N-180"
       ]
     },
     {
@@ -997,7 +1061,8 @@
       "claim_timestamp": "00:30:00–00:32:00",
       "investigative_direction": "Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.",
       "mentions_person_refs": [
-        "N-92"
+        "N-92",
+        "N-128"
       ]
     },
     {
@@ -1016,7 +1081,8 @@
       "claim_timestamp": "00:32:30–00:33:15",
       "investigative_direction": "Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.",
       "mentions_person_refs": [
-        "N-92"
+        "N-92",
+        "N-1"
       ]
     },
     {
@@ -1035,7 +1101,8 @@
       "claim_timestamp": "00:34:00–00:35:30",
       "investigative_direction": "Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.",
       "mentions_person_refs": [
-        "N-92"
+        "N-92",
+        "N-1"
       ]
     },
     {
@@ -1123,9 +1190,7 @@
       "anchored_artifacts": [
         "A-1175.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:00–00:25:20",
       "investigative_direction": "Recover the original image and metadata; identify the individual depicted.",
@@ -1158,7 +1223,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:49:50",
+      "claim_timestamp": "00:49:16",
       "investigative_direction": "N/A — rhetorical/statement of self-positioning, recorded for traceability only."
     },
     {
@@ -1175,7 +1240,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk."
+      "investigative_direction": "Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1190,8 +1258,33 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "N/A — rhetorical/statement of self-positioning."
+      "investigative_direction": "N/A — rhetorical/statement of self-positioning.",
+      "mentions_person_refs": [
+        "N-92"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 11,
+          "video_timestamp": "00:49:16",
+          "speaker_node_ref": "N-3",
+          "quote": "Something's not right. I know it's not right. Okay. Uh, we don't know now, but we know. You know, we don't know, but we know. And ...",
+          "context": "We don't know but we know refrain. (CKA seq 11)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    }
+  ]
 }

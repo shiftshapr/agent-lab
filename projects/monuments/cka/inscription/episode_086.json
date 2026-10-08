@@ -67,7 +67,7 @@
             "C-2625"
           ],
           "related_nodes": [
-            "N-1643"
+            "N-1151"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,9 +93,7 @@
             "C-2612"
           ],
           "related_nodes": [
-            "N-1642",
-            "N-1210",
-            "N-1211"
+            "N-1642"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,167 +193,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Alleged witness at hospital; subject of Kim Haven's on-air challenge that his account of publicly announcing Charlie Kirk's death is implausible.",
-      "related_artifacts": [
-        "A-1916.1"
-      ],
-      "related_claims": [
-        "C-2621",
-        "C-2622",
-        "C-2623"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Nurse commenting on Frank Turek's hospital account in prior episode; comment read aloud in this episode.",
-      "related_artifacts": [
-        "A-1916.1"
-      ],
-      "related_claims": [
-        "C-2621",
-        "C-2622"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Independent researcher/organizer named by host and viewer as candidate to organize and analyze discovery files.",
-      "related_artifacts": [
-        "A-1916.3"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "National investigative reporter identified within the played Atlanta news clip on FBI bullet lead analysis.",
-      "related_artifacts": [
-        "A-1914.1"
-      ],
-      "related_claims": [
-        "C-2612"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Subject of 1991 murder case discussed in Atlanta news clip; convicted in 1997 using FBI bullet lead analysis; released 2021.",
-      "related_artifacts": [
-        "A-1914.1"
-      ],
-      "related_claims": [
-        "C-2612"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Independent YouTuber named by host as resource on collusion dynamics among co-conspirators.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Author of *The Secret Founding of America*, cited by host as current book club reading illuminating Freemasonry origins.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Surgeon identified in Andrew Kolb's September 20, 2025 tweet as source of the \"man of steel\" bone-density quote; subject of Erika Kirk's later assertion that he violated HIPAA.",
-      "related_artifacts": [
-        "A-1913.1"
-      ],
-      "related_claims": [
-        "C-2619",
-        "C-2625"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "X commentator referenced by host as discussing the \"other hospital and the strange lockdown\"; post is referenced but not shown in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1642",
       "ref": "N-1642",
       "name": "Comparative Bullet Lead Analysis Revival",
@@ -378,32 +215,11 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1643",
-      "ref": "N-1643",
-      "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
-      "description": "Persistent inconsistency between Andrew Kolb's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolb's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).",
-      "related_artifacts": [
-        "A-1913.1"
-      ],
-      "related_claims": [
-        "C-2618",
-        "C-2619",
-        "C-2625"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1644",
       "ref": "N-1644",
       "name": "Defense Discovery Dumping Strategy",
       "type": "investigation_target",
-      "description": "Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 — two months before the scheduled May 2026 preliminary hearing.",
+      "description": "Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026, two months before the scheduled May 2026 preliminary hearing.",
       "related_artifacts": [
         "A-1912.1"
       ],
@@ -464,17 +280,14 @@
       "ref": "N-1647",
       "name": "Timpanogos Hospital Evidence Question",
       "type": "investigation_target",
-      "description": "Investigation target referenced at episode end — host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.",
+      "description": "Investigation target referenced at episode end, host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1215"
-      ]
+      "investigative_pressure": "low"
     },
     {
       "@type": "Person",
@@ -483,6 +296,91 @@
       "name": "Erika Kirk",
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1151",
+      "ref": "N-1151",
+      "name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between Andrew Kolb's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolb's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).",
+      "related_artifacts": [
+        "A-1913.1"
+      ],
+      "related_claims": [
+        "C-2618",
+        "C-2619",
+        "C-2625"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -522,7 +420,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:11",
-      "investigative_direction": "Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is \"inconclusive\" or a definitive non-match."
+      "investigative_direction": "Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is \"inconclusive\" or a definitive non-match.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -550,9 +451,7 @@
         "A-1914.1"
       ],
       "related_nodes": [
-        "N-1642",
-        "N-1210",
-        "N-1211"
+        "N-1642"
       ],
       "tags": [],
       "claim_timestamp": "00:41:49",
@@ -634,7 +533,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:35",
-      "investigative_direction": "Verify witness list filing and prosecution's stated intention to proceed without supporting expert testimony."
+      "investigative_direction": "Verify witness list filing and prosecution's stated intention to proceed without supporting expert testimony.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -646,11 +548,15 @@
         "A-1913.1"
       ],
       "related_nodes": [
-        "N-1643"
+        "N-1151"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
-      "investigative_direction": "Obtain and verify the original X post timestamp, account status, and the underlying autopsy report's final disposition language."
+      "investigative_direction": "Obtain and verify the original X post timestamp, account status, and the underlying autopsy report's final disposition language.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -662,12 +568,15 @@
         "A-1913.1"
       ],
       "related_nodes": [
-        "N-1643",
-        "N-1214"
+        "N-1151"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
-      "investigative_direction": "Identify and depose the surgeon; compare quote against operative notes and any recorded statements."
+      "investigative_direction": "Identify and depose the surgeon; compare quote against operative notes and any recorded statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -711,7 +620,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:59:52",
-      "investigative_direction": "Identify and locate Frank Turek's original statement; reconcile with hospital staff logs."
+      "investigative_direction": "Identify and locate Frank Turek's original statement; reconcile with hospital staff logs.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -725,7 +637,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:59:52",
-      "investigative_direction": "Compare timing against typical trauma-team workflow; obtain official timeline from hospital."
+      "investigative_direction": "Compare timing against typical trauma-team workflow; obtain official timeline from hospital.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -742,7 +657,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
-      "investigative_direction": "Review any FBI lab protocol authorizing CBLA reintroduction; compare to 2009 NAS forensic science recommendations."
+      "investigative_direction": "Review any FBI lab protocol authorizing CBLA reintroduction; compare to 2009 NAS forensic science recommendations.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -754,12 +672,14 @@
         "A-1913.1"
       ],
       "related_nodes": [
-        "N-1643",
-        "N-1214"
+        "N-1151"
       ],
       "tags": [],
       "claim_timestamp": "00:09:57",
-      "investigative_direction": "Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested."
+      "investigative_direction": "Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     }
   ],
   "memes": []

@@ -63,7 +63,6 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1213",
             "N-1636"
           ],
           "tags": [],
@@ -158,7 +157,6 @@
             "C-2567"
           ],
           "related_nodes": [
-            "N-1212",
             "N-1635"
           ],
           "tags": [],
@@ -276,10 +274,6 @@
             "C-2565"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1209",
-            "N-1211",
             "N-1634",
             "N-1638"
           ],
@@ -299,9 +293,6 @@
             "C-2566"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1210",
             "N-1634"
           ],
           "tags": [],
@@ -315,169 +306,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "New first-person source for September 10 events at TPUSA Scottsdale offices and transport to Utah. Her account places her as recipient of the first call from the scene and presents a sequence not previously documented in the series.",
-      "related_artifacts": [
-        "A-1902.1",
-        "A-1902.2"
-      ],
-      "related_claims": [
-        "C-2562",
-        "C-2563",
-        "C-2564",
-        "C-2566"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1634",
-        "N-1638"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Husband of Elizabeth Kravchuk McCoy; per Elizabeth's account, placed the first call to her after the shooting and met the party at the Utah airport.",
-      "related_artifacts": [
-        "A-1902.1",
-        "A-1902.2"
-      ],
-      "related_claims": [
-        "C-2563",
-        "C-2566"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1210"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA long-time employee (\"OG\") who per Elizabeth McCoy's account volunteered to drive Elizabeth to Scottsdale airport on September 10.",
-      "related_artifacts": [
-        "A-1902.1"
-      ],
-      "related_claims": [
-        "C-2564"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Mikey McCoy's assistant who per Elizabeth McCoy's account was part of the team transporting Erica to the airport and to Utah, and who was sent to retrieve an item from the bloodied car at the hospital.",
-      "related_artifacts": [
-        "A-1902.2"
-      ],
-      "related_claims": [
-        "C-2566"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1208"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "TPUSA staff member present in Frank (TPUSA counsel)'s office when Elizabeth McCoy arrived to alert them of the shooting.",
-      "related_artifacts": [
-        "A-1902.1"
-      ],
-      "related_claims": [
-        "C-2565"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Unmarked building/company where Erica reportedly had a \"second collapse of the day.\" A contacted employee would neither confirm nor deny seeing Erica on September 10.",
-      "related_artifacts": [
-        "A-1899.1"
-      ],
-      "related_claims": [
-        "C-2567"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1635"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Organization cited in Alexis Wilkins's thread as listing General Michael Flynn as a senior advisor; identified by Wilkins as a node in the alleged network.",
-      "related_artifacts": [
-        "A-1896.1"
-      ],
-      "related_claims": [
-        "C-2570"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1636"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1633",
@@ -538,10 +366,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1212"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -669,6 +494,134 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-310",
+      "ref": "N-310",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-314",
+      "ref": "N-314",
+      "name": "Alexis Wilkins",
+      "type": "person",
+      "description": "Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Joined Maine vacation; final-footage context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -688,7 +641,8 @@
       "claim_timestamp": "00:05:20",
       "investigative_direction": "Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-16"
       ]
     },
     {
@@ -703,7 +657,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:30",
-      "investigative_direction": "Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs."
+      "investigative_direction": "Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -719,7 +676,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:23",
-      "investigative_direction": "Compare McCoy's account with phone records and call detail records from Mikey McCoy's device."
+      "investigative_direction": "Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.",
+      "mentions_person_refs": [
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -733,7 +693,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:23",
-      "investigative_direction": "Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants."
+      "investigative_direction": "Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants.",
+      "mentions_person_refs": [
+        "N-326",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -747,7 +711,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:00",
-      "investigative_direction": "Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records."
+      "investigative_direction": "Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.",
+      "mentions_person_refs": [
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -775,12 +742,14 @@
       "anchored_artifacts": [
         "A-1902.2"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:09",
-      "investigative_direction": "Cross-reference with Andrew Kolvet's account and hospital visitor logs."
+      "investigative_direction": "Cross-reference with Andrew Kolvet's account and hospital visitor logs.",
+      "mentions_person_refs": [
+        "N-326",
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -792,13 +761,15 @@
         "A-1899.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1635",
         "N-1638"
       ],
       "tags": [],
       "claim_timestamp": "00:21:05–00:24:24",
-      "investigative_direction": "Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10."
+      "investigative_direction": "Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -810,14 +781,16 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-1636"
       ],
       "tags": [],
       "claim_timestamp": "00:28:11",
       "investigative_direction": "Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-50",
+        "N-314",
+        "N-310"
       ]
     },
     {
@@ -836,7 +809,8 @@
       "claim_timestamp": "00:34:40",
       "investigative_direction": "Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-314"
       ]
     },
     {
@@ -849,12 +823,14 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-1636"
       ],
       "tags": [],
       "claim_timestamp": "00:32:58",
-      "investigative_direction": "Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim."
+      "investigative_direction": "Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
     },
     {
       "@type": "Claim",
@@ -870,7 +846,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:48",
-      "investigative_direction": "Verify RT coverage and assess whether RT retweets constitute evidence of foreign coordination."
+      "investigative_direction": "Verify RT coverage and assess whether RT retweets constitute evidence of foreign coordination.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
     },
     {
       "@type": "Claim",
@@ -888,7 +867,8 @@
       "claim_timestamp": "00:34:40",
       "investigative_direction": "Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-314"
       ]
     },
     {
@@ -905,7 +885,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:35:30",
-      "investigative_direction": "Verify the cited Russia Today coverage and assess the inferential link."
+      "investigative_direction": "Verify the cited Russia Today coverage and assess the inferential link.",
+      "mentions_person_refs": [
+        "N-314",
+        "N-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -921,7 +905,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:43",
-      "investigative_direction": "Verify via direct archive of the thread's early engagement."
+      "investigative_direction": "Verify via direct archive of the thread's early engagement.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
     },
     {
       "@type": "Claim",
@@ -1017,7 +1004,10 @@
       "claim_timestamp": "00:09:15",
       "investigative_direction": "Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-42",
+        "N-1",
+        "N-16"
       ]
     }
   ],

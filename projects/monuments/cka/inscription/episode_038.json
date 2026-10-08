@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-898",
+            "N-628",
             "N-117",
             "N-69",
             "N-454"
@@ -62,7 +62,7 @@
             "C-1782"
           ],
           "related_nodes": [
-            "N-898",
+            "N-628",
             "N-3",
             "N-1"
           ],
@@ -926,30 +926,6 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
-      "name": "Emmanuel Macron",
-      "type": "person",
-      "description": "French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).",
-      "related_artifacts": [
-        "A-1461.1",
-        "A-1462.1"
-      ],
-      "related_claims": [
-        "C-1781"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-117",
-        "N-3"
-      ]
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1354",
       "ref": "N-1354",
@@ -1312,30 +1288,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
-      "name": "Emmanuel Macron",
-      "type": "person",
-      "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
-      "related_artifacts": [
-        "A-1461.1",
-        "A-1462.1"
-      ],
-      "related_claims": [
-        "C-1781"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-117",
-        "N-3"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-117",
       "ref": "N-117",
       "name": "Brigitte Macron",
@@ -1368,11 +1320,27 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
+      "@id": "N-406",
+      "ref": "N-406",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-628",
+      "ref": "N-628",
       "name": "Emmanuel Macron",
       "type": "person",
-      "description": "Publisher of Blake Neff profile article (A-2347).",
+      "description": "French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).",
       "related_artifacts": [
         "A-1461.1",
         "A-1462.1"
@@ -1381,10 +1349,10 @@
         "C-1781"
       ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "related_nodes": [
         "N-117",
         "N-3"
@@ -1407,9 +1375,10 @@
       "investigative_direction": "Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).",
       "mentions_person_refs": [
         "N-3",
-        "N-898",
+        "N-628",
         "N-117",
-        "N-454"
+        "N-454",
+        "N-1"
       ]
     },
     {
@@ -1522,7 +1491,9 @@
       "tags": [],
       "claim_timestamp": "00:21:39",
       "investigative_direction": "Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1758,7 +1729,10 @@
       "investigative_direction": "Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.",
       "mentions_person_refs": [
         "N-88",
-        "N-451"
+        "N-451",
+        "N-406",
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -1778,7 +1752,8 @@
       "investigative_direction": "Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick \"Sam\"; obtain the full original PBD segment context.",
       "mentions_person_refs": [
         "N-451",
-        "N-453"
+        "N-453",
+        "N-3"
       ]
     },
     {

@@ -542,6 +542,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Joined Maine vacation; final-footage context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -560,7 +624,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:43",
-      "investigative_direction": "Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route."
+      "investigative_direction": "Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -576,7 +643,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:45",
-      "investigative_direction": "Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs."
+      "investigative_direction": "Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -588,7 +658,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:20",
-      "investigative_direction": "Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process."
+      "investigative_direction": "Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process.",
+      "mentions_person_refs": [
+        "N-326"
+      ]
     },
     {
       "@type": "Claim",
@@ -600,7 +673,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:17",
-      "investigative_direction": "Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number."
+      "investigative_direction": "Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -614,7 +691,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:30",
-      "investigative_direction": "Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible."
+      "investigative_direction": "Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -646,7 +727,9 @@
       "claim_timestamp": "00:28:55",
       "investigative_direction": "Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.",
       "mentions_person_refs": [
-        "N-37"
+        "N-2",
+        "N-37",
+        "N-1"
       ]
     },
     {
@@ -721,7 +804,9 @@
       "claim_timestamp": "00:46:38",
       "investigative_direction": "Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.",
       "mentions_person_refs": [
-        "N-638"
+        "N-638",
+        "N-50",
+        "N-3"
       ]
     },
     {
@@ -750,7 +835,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:50",
-      "investigative_direction": "Confirm employment dates and identify workplace contacts relevant to the investigation timeline."
+      "investigative_direction": "Confirm employment dates and identify workplace contacts relevant to the investigation timeline.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     }
   ],
   "memes": []

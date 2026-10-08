@@ -137,8 +137,6 @@
             "C-3154"
           ],
           "related_nodes": [
-            "N-1210",
-            "N-1211",
             "N-2157"
           ],
           "tags": [],
@@ -157,7 +155,6 @@
             "C-3155"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2157"
           ],
           "tags": [],
@@ -175,8 +172,6 @@
             "C-3156"
           ],
           "related_nodes": [
-            "N-1210",
-            "N-1211",
             "N-2157"
           ],
           "tags": [],
@@ -377,109 +372,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Host identifies as Turning Point USA chief marketing officer; subject of host's allegations regarding a White House meeting claim and alleged misrepresentation. Transcript spelling inconsistent (\"Kovette\" / \"Kovett\" / \"Coette\"). Name uncertainty flagged.",
-      "related_artifacts": [
-        "A-2204.10"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Identified by host as a Pleasant Grove Police officer, reported 2025 UVU graduate, said to have recovered Tyler Robinson's weapon in the field. Biographical claims not artifact-displayed in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2156"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Identified by host as Mitchell Curtis's father; reported as 21-year NCIS veteran ending as division chief, Office of Inspector General; reported to have left NCIS June 2, 2025 for Richmond, Virginia interim inspector general position. Biographical claims not artifact-displayed in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2156"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Identified by host as Trump's Secretary of the Navy appointee; subject of Wikipedia reading re: Epstein flight manifests.",
-      "related_artifacts": [
-        "A-2200.1",
-        "A-2200.2",
-        "A-2200.3"
-      ],
-      "related_claims": [
-        "C-3154",
-        "C-3155",
-        "C-3156"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-2157"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Named in Wikipedia reading as Epstein associate and modeling agent; alleged by host to have ties to a modeling firm where \"Erika\" (Erica Kirk) worked. Transcript spells \"Jean Luke Brunell\" / \"John Luke Bernell.\"",
-      "related_artifacts": [
-        "A-2200.3"
-      ],
-      "related_claims": [
-        "C-3156"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1210",
-        "N-2157"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2153",
       "ref": "N-2153",
       "name": "Rooftop Movement Tactical Analysis",
@@ -581,11 +473,71 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1211"
-      ]
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -673,7 +625,9 @@
       "tags": [],
       "claim_timestamp": "00:29:26",
       "investigative_direction": "Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -690,7 +644,9 @@
       "tags": [],
       "claim_timestamp": "00:30:00–00:30:41",
       "investigative_direction": "Verify against the released October 2025 House Committee manifest documents.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -725,7 +681,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:07–00:20:08",
-      "investigative_direction": "Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp."
+      "investigative_direction": "Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -753,7 +712,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:55–00:41:40",
-      "investigative_direction": "Obtain original clip and full context (event, date, audience)."
+      "investigative_direction": "Obtain original clip and full context (event, date, audience).",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -767,7 +729,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:04",
-      "investigative_direction": "Review medical examiner reports and chain-of-custody records for any gauze or material handling; verify bullet-fragment provenance."
+      "investigative_direction": "Review medical examiner reports and chain-of-custody records for any gauze or material handling; verify bullet-fragment provenance.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

@@ -257,243 +257,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Security/pastor figure present in the transport vehicle with Charlie Kirk. Repeated retellings of events in the car are central to the host's evidentiary contradictions.",
-      "related_artifacts": [
-        "A-2110.1",
-        "A-2110.2",
-        "A-2110.3",
-        "A-2110.4",
-        "A-2111.4"
-      ],
-      "related_claims": [
-        "C-2986",
-        "C-2988",
-        "C-2989",
-        "C-2994"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-2103"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Security figure who traveled with Charlie Kirk; has given multiple interviews about events in the car. Subject of contradictions noted by the host.",
-      "related_artifacts": [
-        "A-2110.1",
-        "A-2110.2",
-        "A-2110.3",
-        "A-2110.4",
-        "A-2111.3",
-        "A-2111.4",
-        "A-2114.1",
-        "A-2114.2"
-      ],
-      "related_claims": [
-        "C-2986",
-        "C-2991",
-        "C-2992",
-        "C-2994",
-        "C-2997"
-      ],
-      "tags": [],
-      "evidence_count": 8,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-2103",
-        "N-2106"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA figure reported present at hospital. Viral clip displayed shows him appearing physically ill during casket removal.",
-      "related_artifacts": [
-        "A-2112"
-      ],
-      "related_claims": [
-        "C-2993"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "TPUSA spokesperson. Name spelling inconsistency in transcript (Kovat vs. Kovette). Direct addressee of host's demands for public explanation.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2998"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Investigative collaborator who advised host to release evidence before two-week break.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Investigative contributor who developed microphone-rigging/explosive theory. Host affirms his theory now has more physical evidence than official accounts.",
-      "related_artifacts": [
-        "A-2110.3",
-        "A-2111.4"
-      ],
-      "related_claims": [
-        "C-2986",
-        "C-2994"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2103"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "TPUSA-aligned commentator; host identifies as part of commentary apparatus defending the official story.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "TPUSA-aligned commentator; grouped with Blake Nef in host critique.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Security figure described as having something on his back during the carry to the car; reportedly held onto Brian Harpole in the vehicle.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2997"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Referenced as having meetings with Mikey McCoy regarding post-incident TPUSA direction.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Referenced as someone the host consults when running theories; no artifact-backed claims yet.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Brand identified via live viewer comment as matching the medical equipment visible in car photo.",
-      "related_artifacts": [
-        "A-2110.2",
-        "A-2114.1"
-      ],
-      "related_claims": [
-        "C-2992"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2103",
       "ref": "N-2103",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
@@ -512,13 +275,7 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-1207",
-        "N-1208",
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -554,10 +311,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1210"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -576,11 +330,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1208",
-        "N-1216"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -613,6 +363,102 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -627,7 +473,6 @@
         "A-2111.4"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2103"
       ],
       "tags": [],
@@ -729,12 +574,13 @@
         "A-2110.2",
         "A-2114.1"
       ],
-      "related_nodes": [
-        "N-1219"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:10",
-      "investigative_direction": "Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements."
+      "investigative_direction": "Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -748,7 +594,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\""
+      "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\"",
+      "mentions_person_refs": [
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -758,12 +607,15 @@
       "claim": "Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2103",
-        "N-1212"
+        "N-2103"
       ],
       "tags": [],
       "claim_timestamp": "00:06:00–00:19:30",
-      "investigative_direction": "Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory."
+      "investigative_direction": "Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -775,7 +627,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Obtain original photos from viewer; identify date and location; verify TPUSA staff involvement."
+      "investigative_direction": "Obtain original photos from viewer; identify date and location; verify TPUSA staff involvement.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -805,12 +661,15 @@
         "A-2114.2"
       ],
       "related_nodes": [
-        "N-1216",
         "N-2106"
       ],
       "tags": [],
       "claim_timestamp": "00:50:36",
-      "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation."
+      "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-552"
+      ]
     },
     {
       "@type": "Claim",
@@ -820,13 +679,15 @@
       "claim": "As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1210",
         "N-2103",
         "N-2105"
       ],
       "tags": [],
       "claim_timestamp": "00:29:24–00:30:20",
-      "investigative_direction": "Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target."
+      "investigative_direction": "Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",

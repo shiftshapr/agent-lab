@@ -62,7 +62,7 @@
             "N-1433"
           ],
           "tags": [],
-          "video_timestamp": "00:27:47",
+          "video_timestamp": "00:26:46",
           "discovery_timestamp": "00:00:00–00:00:01"
         }
       ]
@@ -495,6 +495,40 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Person the host names while answering a super chat, as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -515,7 +549,8 @@
       "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
       "mentions_person_refs": [
         "N-281",
-        "N-590"
+        "N-590",
+        "N-1"
       ]
     },
     {
@@ -672,6 +707,7 @@
       "claim_timestamp": "00:30:33",
       "investigative_direction": "Establish chain of custody for the photographs and verify provenance and date of capture.",
       "mentions_person_refs": [
+        "N-3",
         "N-1"
       ]
     }

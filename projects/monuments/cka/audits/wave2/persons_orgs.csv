@@ -1,0 +1,54 @@
+action,episode,old_id,new_id,name,kind,reason,refs
+MINT_PERSON,96,,N-612,Evan Hill,person,first spoken 28:18; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2792; A-2008.2
+MINT_PERSON,96,,N-617,Cole Allen,person,first spoken 28:18; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2791; C-2792; A-2008.1; A-2008.2
+MINT_PERSON,96,,N-619,Sarah Sidner,person,first spoken 31:35; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2793; A-2008.3
+MINT_PERSON,96,,N-622,David Axelrod,person,first spoken 01:04:56; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2806; A-2012.3
+REMOVE_BASELINE_MISUSE,96,N-27,,"Trump publicly criticized Candace Owens calling her ""low IQ""",junk row,"episode_000 baseline id reused for a junk row whose header is a claim sentence; row and ledger refs removed, id stays a baseline id (no tombstone); real people re-pointed to N-612/617/619/622 and N-293/N-903",
+REMOVE_BASELINE_MISUSE,96,N-28,,"Trump publicly criticized Candace Owens calling her ""low IQ""",junk row,"episode_000 baseline id reused for a junk row whose header is a claim sentence; row and ledger refs removed, id stays a baseline id (no tombstone); real people re-pointed to N-612/617/619/622 and N-293/N-903",
+REMOVE_BASELINE_MISUSE,96,N-32,,"Trump publicly criticized Candace Owens calling her ""low IQ""",junk row,"episode_000 baseline id reused for a junk row whose header is a claim sentence; row and ledger refs removed, id stays a baseline id (no tombstone); real people re-pointed to N-612/617/619/622 and N-293/N-903",
+REMOVE_BASELINE_MISUSE,96,N-33,,"Trump publicly criticized Candace Owens calling her ""low IQ""",junk row,"episode_000 baseline id reused for a junk row whose header is a claim sentence; row and ledger refs removed, id stays a baseline id (no tombstone); real people re-pointed to N-612/617/619/622 and N-293/N-903",
+RETIRE_NO_SURVIVOR,47,N-588,,Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes,junk row,junk person row whose header is a claim sentence; tombstoned legacy-N-588 with survives_as null,C-1924
+RETIRE_NO_SURVIVOR,47,N-589,,Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes,junk row,junk person row whose header is a claim sentence; tombstoned legacy-N-589 with survives_as null,C-1924
+ORG_MENTION_TO_RELATED,24,N-322,N-2385,Jerusalem Post,organization,organization moved off Mentions onto Related Nodes,C-1575
+ORG_MENTION_TO_RELATED,24,N-323,N-2386,Israeli War Room,organization,organization moved off Mentions onto Related Nodes,C-1575
+ORG_MENTION_TO_RELATED,24,N-323,N-2386,Israeli War Room,organization,organization moved off Mentions onto Related Nodes,C-1577
+ORG_MENTION_TO_RELATED,41,N-485,N-2388,Project Constitution,organization,organization moved off Mentions onto Related Nodes,C-1834
+ORG_MENTION_TO_RELATED,41,N-485,N-2388,Project Constitution,organization,organization moved off Mentions onto Related Nodes,C-1835
+ORG_MENTION_TO_RELATED,47,N-559,N-2389,New York Post,organization,organization moved off Mentions onto Related Nodes,C-1947
+ORG_MENTION_TO_RELATED,47,N-559,N-2389,New York Post,organization,organization moved off Mentions onto Related Nodes,C-1948
+ORG_MENTION_TO_RELATED,47,N-559,N-2389,New York Post,organization,organization moved off Mentions onto Related Nodes,C-1949
+ORG_MENTION_TO_RELATED,51,N-618,N-2390,Paramount Tactical Valhalla,organization,organization moved off Mentions onto Related Nodes,C-1997
+ORG_MENTION_TO_RELATED,51,N-631,N-2391,Daily Wire,organization,organization moved off Mentions onto Related Nodes,C-1999
+ORG_MENTION_TO_RELATED,51,N-618,N-2390,Paramount Tactical Valhalla,organization,organization moved off Mentions onto Related Nodes,C-2001
+ORG_MENTION_TO_RELATED,51,N-618,N-2390,Paramount Tactical Valhalla,organization,organization moved off Mentions onto Related Nodes,C-2002
+ORG_REUSED,98,N-631,N-2391,Daily Wire,organization,reuse repointed,
+MINT_PERSON,99,,N-623,Harmeet Dhillon,person,first spoken 19:09; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2872; A-2054.1
+MINT_PERSON,99,,N-624,Lara Trump,person,first spoken 31:21; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2868; A-2051.1
+MINT_PERSON,99,,N-625,Ian Carroll,person,first spoken 33:16; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2870; A-2052.1
+MINT_PERSON,99,,N-626,Ryan Reynolds,person,first spoken 46:25; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2880
+MINT_PERSON,99,,N-627,Hugh Jackman,person,first spoken 49:08; duplicate check against every person name and alias found no match; lowest free hole under 1000 in first-introduction order,C-2880; C-2882
+MINT_ORG,99,,N-2392,Havas Media,organization,"alias Habas Media (ASR); organization, not a person; topic band",C-2861; C-2863; C-2873; A-2048.1; A-2049.1
+RENAME_N4,10,N-166,N-166,Xavier Deruso -> Xaviaer DuRousseau,person,"display name corrected; aliases Xavier Deruso, Xavier Daruso, Xavier Duso kept; Transcript Snippet and Quote lines left as spoken",
+RETYPE_ORG,24,N-322,N-2385,Jerusalem Post,organization,organization typed as person moved to the topic band; tombstone legacy-N-322 survives_as N-2385,
+RETYPE_ORG,24,N-323,N-2386,Israeli War Room,organization,organization typed as person moved to the topic band; tombstone legacy-N-323 survives_as N-2386,
+RETYPE_ORG,33,N-412,N-2387,Baker Tilly,organization,organization typed as person moved to the topic band; tombstone legacy-N-412 survives_as N-2387,
+RETYPE_ORG,41,N-485,N-2388,Project Constitution,organization,organization typed as person moved to the topic band; tombstone legacy-N-485 survives_as N-2388,
+RETYPE_ORG,47,N-559,N-2389,New York Post,organization,organization typed as person moved to the topic band; tombstone legacy-N-559 survives_as N-2389,
+RETYPE_ORG,51,N-618,N-2390,Paramount Tactical Valhalla,organization,organization typed as person moved to the topic band; tombstone legacy-N-618 survives_as N-2390,
+RETYPE_ORG,51,N-631,N-2391,Daily Wire,organization,organization typed as person moved to the topic band; tombstone legacy-N-631 survives_as N-2391,
+COLLAPSE_TOPIC,86,N-1643,N-1151,,topic,duplicate topic collapsed onto the earliest id; tombstone added,
+COLLAPSE_TOPIC,102,N-2063,N-1444,,topic,duplicate topic collapsed onto the earliest id; tombstone added,
+COLLAPSE_TOPIC,157,N-2063,N-1444,,topic,duplicate topic collapsed onto the earliest id; tombstone added,
+COLLAPSE_TOPIC,87,N-1651,N-1642,,topic,duplicate topic collapsed onto the earliest id; tombstone added,
+ALIAS_ADD,33,N-753,N-753,Wolves and Finance,person,alias added (grounds Mentions in ep33),
+ALIAS_ADD,96,N-903,N-903,Aubrey Laitsch / Aubrey Leitch / Aubrey Leach,person,ASR spellings added as aliases,
+KEEP_PERSON,,N-564,N-564,Central848,person,superchat viewer handle; kept as a person (judgement call),
+KEEP_PERSON,,N-648,N-648,Oracle,person,unidentified real individual; kept as an anonymous person (judgement call),
+KEEP_PERSON,,N-822,N-822,"TPUSA ""Blank""",person,unidentified real individual; kept as an anonymous person (judgement call),
+RETIRE,47,N-564,,Central848,handle,"PR 60 re-audit P1-2: super-chat handle, no transcript grounding; tombstone legacy-N-564 in config/retired_node_ids.json",A-1551.8 (removed)
+REUSE_PERSON,48,N-596.5,N-224,Blake Neff,person,"PR 60 re-audit P2: malformed N-596.5 (note) row; Neff is spoken in ep48 (three-way call remark), so the row is the existing N-224 reused; canonical episodes gain 48",Reused line ep48
+RELABEL_TIP,99,N-2392,N-2392,Havas Media,organization,"PR 60 re-audit P2-2: band-end tip mint, not a hole; moved to a Tip-minted Nodes (wave2) line",
+RELABEL_TIP,24;33;41;47;51,N-2385..N-2391,N-2385..N-2391,band-end org retypes,organization,PR 60 re-audit P2-2: Hole-minted (wave2) lines relabelled Tip-minted (wave2),
+RELABEL_TIP,107,N-2384,N-2384,(wave1 topic),topic,Consistency with P2-2: band-end id split off the wave1 Hole-minted line onto Tip-minted (wave1) (judgement call),
+KEEP_HANDLES,47,N-561..N-563; N-565..N-568,,super-chat handles,handle,PR 60 re-audit P1-2: logged in handle_debt.csv; no replacements minted from handles; N-648 Oracle and N-822 Blank kept,
+RENUMBER_PERSON,38,N-898,N-628,Emmanuel Macron,person,"Wave 2.1 P0 (Transit full-62442e7): first appears in ep38 (Reused line, register row, C-1781 Mentions) but was listed New in ep69. Hole mint N-628 on the ep38 Hole-minted (w2_1) line; ep69, ep79, ep159 reuse it; tombstone legacy-N-898 survives_as N-628 (legacy-N-997 repointed)","eps 38, 69, 79, 159"

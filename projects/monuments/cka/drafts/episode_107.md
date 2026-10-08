@@ -13,7 +13,8 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: none
   - Reused Nodes Appearing: N-3, N-16, N-309, N-569, N-570, N-1676, N-1697
-  - Hole-minted Nodes (wave1): N-571, N-572, N-573, N-574, N-575, N-576, N-577, N-2384
+  - Hole-minted Nodes (wave1): N-571, N-572, N-573, N-574, N-575, N-576, N-577
+  - Tip-minted Nodes (wave1): N-2384
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
 
@@ -288,7 +289,7 @@ Investigative Direction: Verify archived website content; cross-check against or
 
 **C-3709** Victor Marx stands by childhood abuse narrative on-air
 
-Claim Timestamp: 00:16:54
+Claim Timestamp: 00:23:09
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
 Anchored Artifacts: A-2506.1, A-2510.1, A-2511.1
@@ -363,7 +364,7 @@ Investigative Direction: Verify against partner nonprofit documentation and bene
 
 **C-3716** Victor Marx denies ever declaring 45,000 rescued, calls wording 'helped'
 
-Claim Timestamp: 01:00:27
+Claim Timestamp: 00:56:05
 Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: A-2509.2, A-2510.1

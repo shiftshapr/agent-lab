@@ -173,7 +173,6 @@
             "C-3535"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2342"
           ],
           "tags": [],
@@ -192,7 +191,6 @@
             "C-3535"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2342"
           ],
           "tags": [],
@@ -397,10 +395,7 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -496,6 +491,22 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -531,7 +542,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
-      "investigative_direction": "Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records."
+      "investigative_direction": "Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -560,12 +574,14 @@
         "A-2421.2"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2342"
       ],
       "tags": [],
       "claim_timestamp": "00:18:05",
-      "investigative_direction": "File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents."
+      "investigative_direction": "File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -577,12 +593,14 @@
         "A-2421.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2342"
       ],
       "tags": [],
       "claim_timestamp": "00:18:05",
-      "investigative_direction": "Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson."
+      "investigative_direction": "Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -664,7 +682,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:31",
-      "investigative_direction": "Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory."
+      "investigative_direction": "Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -682,7 +703,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
-      "investigative_direction": "Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata."
+      "investigative_direction": "Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -698,7 +722,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
-      "investigative_direction": "Verify tipster claim via Google Earth / aerial imagery or on-site inspection; cross-reference with any cemetery surveillance that might exist."
+      "investigative_direction": "Verify tipster claim via Google Earth / aerial imagery or on-site inspection; cross-reference with any cemetery surveillance that might exist.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     }
   ],
   "memes": []

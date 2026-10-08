@@ -38,7 +38,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "04:04:34",
+          "video_timestamp": "00:04:04",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -65,7 +65,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "06:30:25",
+          "video_timestamp": "00:06:30",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -91,7 +91,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "09:38:43",
+          "video_timestamp": "00:09:38",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -118,7 +118,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "12:00:29",
+          "video_timestamp": "00:12:00",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -147,7 +147,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "32:57:11",
+          "video_timestamp": "00:32:57",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         },
@@ -168,7 +168,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "34:09:46",
+          "video_timestamp": "00:32:57",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -195,7 +195,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "32:02:54",
+          "video_timestamp": "00:32:02",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         }
@@ -223,7 +223,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "37:38:25",
+          "video_timestamp": "00:37:38",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         },
@@ -241,7 +241,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "37:38:25",
+          "video_timestamp": "00:37:38",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         },
@@ -261,7 +261,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "37:38:25",
+          "video_timestamp": "00:37:38",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -288,7 +288,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "37:38:25",
+          "video_timestamp": "00:37:38",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -314,7 +314,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "19:14:21",
+          "video_timestamp": "00:19:14",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -336,7 +336,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "45:59:01",
+          "video_timestamp": "00:45:59",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         }
@@ -362,7 +362,7 @@
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
-          "video_timestamp": "49:13:25",
+          "video_timestamp": "00:49:13",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -707,6 +707,54 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -721,12 +769,14 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "04:04:34",
+      "claim_timestamp": "00:04:04",
       "investigative_direction": "Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context.",
       "mentions_person_refs": [
         "N-2",
         "N-75",
-        "N-133"
+        "N-133",
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -740,11 +790,12 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "05:38:00",
+      "claim_timestamp": "00:05:38",
       "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.",
       "mentions_person_refs": [
         "N-2",
-        "N-75"
+        "N-75",
+        "N-3"
       ]
     },
     {
@@ -758,10 +809,12 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "09:38:43",
+      "claim_timestamp": "00:09:38",
       "investigative_direction": "Obtain an unedited recording of Tucker's full statement and any contemporaneous corroborating material.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-35",
+        "N-50"
       ]
     },
     {
@@ -775,11 +828,12 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "12:00:29",
+      "claim_timestamp": "00:12:00",
       "investigative_direction": "Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location).",
       "mentions_person_refs": [
         "N-1",
-        "N-75"
+        "N-75",
+        "N-50"
       ]
     },
     {
@@ -793,11 +847,12 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "06:30:25",
+      "claim_timestamp": "00:06:30",
       "investigative_direction": "Obtain the full Dave Rubin segment to verify precise wording and any qualifications.",
       "mentions_person_refs": [
         "N-61",
-        "N-133"
+        "N-133",
+        "N-75"
       ]
     },
     {
@@ -814,11 +869,12 @@
         "N-1314"
       ],
       "tags": [],
-      "claim_timestamp": "32:57:11",
+      "claim_timestamp": "00:32:57",
       "investigative_direction": "Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.",
       "mentions_person_refs": [
         "N-16",
-        "N-382"
+        "N-382",
+        "N-1"
       ]
     },
     {
@@ -832,11 +888,12 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "33:00:00",
+      "claim_timestamp": "00:33:00",
       "investigative_direction": "Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.",
       "mentions_person_refs": [
         "N-309",
-        "N-382"
+        "N-382",
+        "N-16"
       ]
     },
     {
@@ -850,7 +907,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "34:09:46",
+      "claim_timestamp": "00:32:57",
       "investigative_direction": "Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp.",
       "mentions_person_refs": [
         "N-1",
@@ -871,8 +928,11 @@
         "N-1313"
       ],
       "tags": [],
-      "claim_timestamp": "19:14:21",
-      "investigative_direction": "Obtain the underlying local Utah news article and any UVU/Turning Point USA correspondence regarding the request date."
+      "claim_timestamp": "00:19:14",
+      "investigative_direction": "Obtain the underlying local Utah news article and any UVU/Turning Point USA correspondence regarding the request date.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -887,7 +947,7 @@
         "N-1313"
       ],
       "tags": [],
-      "claim_timestamp": "19:14:21",
+      "claim_timestamp": "00:19:14",
       "investigative_direction": "Obtain UVU event-services correspondence and any internal Turning Point USA event-planning records reflecting the recommendation and override."
     },
     {
@@ -903,7 +963,7 @@
         "N-1315"
       ],
       "tags": [],
-      "claim_timestamp": "37:38:25",
+      "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.",
       "mentions_person_refs": [
         "N-102",
@@ -922,7 +982,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "37:38:25",
+      "claim_timestamp": "00:37:38",
       "investigative_direction": "Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
       "mentions_person_refs": [
         "N-386"
@@ -939,12 +999,13 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "37:38:25",
+      "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the original Schaefer post and timestamp via archived snapshots.",
       "mentions_person_refs": [
         "N-102",
         "N-314",
-        "N-385"
+        "N-385",
+        "N-386"
       ]
     },
     {
@@ -958,7 +1019,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "37:38:25",
+      "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.",
       "mentions_person_refs": [
         "N-102",
@@ -976,7 +1037,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "49:13:25",
+      "claim_timestamp": "00:49:13",
       "investigative_direction": "Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits.",
       "mentions_person_refs": [
         "N-56"

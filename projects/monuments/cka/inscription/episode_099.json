@@ -103,7 +103,9 @@
             "C-2861",
             "C-2862"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-2392"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -144,7 +146,9 @@
             "C-2865",
             "C-2866"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-2392"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -209,7 +213,7 @@
             "C-2869"
           ],
           "related_nodes": [
-            "N-62"
+            "N-624"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,7 +239,7 @@
             "C-2871"
           ],
           "related_nodes": [
-            "N-120"
+            "N-625"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -292,7 +296,7 @@
             "C-2875"
           ],
           "related_nodes": [
-            "N-120"
+            "N-623"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -499,302 +503,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Trump's former 2020 campaign manager; named head of Clock Tower X LLC and Chief Strategy Officer of Salem Media Network per FARA filings and contemporaneous reporting.",
-      "related_artifacts": [
-        "A-2049.1",
-        "A-2049.2",
-        "A-2054.1"
-      ],
-      "related_claims": [
-        "C-2864",
-        "C-2865",
-        "C-2866"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Prime Minister of Israel; subject of Greta Van Susteren denial interview and architect (per host) of Project 545 foreign propaganda structure.",
-      "related_artifacts": [
-        "A-2047.1",
-        "A-2055.1"
-      ],
-      "related_claims": [
-        "C-2859"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Journalist who interviewed Netanyahu on September 12, 2025; host alleges her team received a request from Netanyahu's office to raise the Israel-Kirk question.",
-      "related_artifacts": [
-        "A-2047.1"
-      ],
-      "related_claims": [
-        "C-2860"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Civil Rights Assistant Attorney General; principal of Dhillon Law Group, which drafted FARA paperwork for Havas Media / Clock Tower X / Show Faith by Works.",
-      "related_artifacts": [
-        "A-2049.1",
-        "A-2054.1"
-      ],
-      "related_claims": [
-        "C-2872",
-        "C-2873"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "U.S. Attorney General; signed February 5, 2025 order disbanding DOJ Foreign Influence Task Force and limiting FARA criminal enforcement.",
-      "related_artifacts": [
-        "A-2052.1",
-        "A-2053.1"
-      ],
-      "related_claims": [
-        "C-2870",
-        "C-2871"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Acquired 30% stake in M-News app via Salem Media Group deal (April 2025); entered long-term services agreement with Salem.",
-      "related_artifacts": [
-        "A-2051.1"
-      ],
-      "related_claims": [
-        "C-2868",
-        "C-2869"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Independent journalist whose audio segment is played discussing Pam Bondi's Foreign Influence Task Force disbanding.",
-      "related_artifacts": [
-        "A-2052.1"
-      ],
-      "related_claims": [
-        "C-2870"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-120"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Plaintiff in Lively v. Baldoni; issued post-ruling statement flagged as misleading by Community Notes.",
-      "related_artifacts": [
-        "A-2056.1",
-        "A-2057.1",
-        "A-2058.1",
-        "A-2058.2",
-        "A-2059.1"
-      ],
-      "related_claims": [
-        "C-2877",
-        "C-2878",
-        "C-2879"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-775",
-        "N-1736"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Defendant in Lively v. Baldoni; subject of Deadpool parody and basement-premiere footage; host claims public vindication via settlement.",
-      "related_artifacts": [
-        "A-2056.1",
-        "A-2058.1",
-        "A-2058.2",
-        "A-2059.1"
-      ],
-      "related_claims": [
-        "C-2877",
-        "C-2880",
-        "C-2881",
-        "C-2882"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-774"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Actor and Lively's husband; co-appeared in Deadpool & Wolverine parody content targeting Baldoni.",
-      "related_artifacts": [
-        "A-2058.1",
-        "A-2058.2"
-      ],
-      "related_claims": [
-        "C-2880",
-        "C-2881"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-774",
-        "N-775"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Actor who co-appeared in Deadpool & Wolverine parody and attended It Ends With Us premiere upstairs while Baldoni watched from basement.",
-      "related_artifacts": [
-        "A-2058.1",
-        "A-2058.2",
-        "A-2059.1"
-      ],
-      "related_claims": [
-        "C-2880",
-        "C-2881",
-        "C-2882"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-774",
-        "N-775"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Independent commentator; played audio clip characterizing the Charlie Kirk assassination as part of a spiritual/demonic war.",
-      "related_artifacts": [
-        "A-2046.1"
-      ],
-      "related_claims": [
-        "C-2858"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Entered long-term strategic services agreement with Salem Media Group (April 2025) alongside Donald Trump Jr. deal.",
-      "related_artifacts": [
-        "A-2051.1"
-      ],
-      "related_claims": [
-        "C-2868"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-62"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1732",
       "ref": "N-1732",
       "name": "Salem Media Foreign Agent Registration Status",
@@ -965,6 +673,185 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-623",
+      "ref": "N-623",
+      "name": "Harmeet Dhillon",
+      "type": "person",
+      "description": "Assistant Attorney General for Civil Rights, sworn in April 7, 2025 per the host's timeline (36:54); the host says both FARA-registered companies worked with \"Harmeet Dhillon's Dhillon Law Group firm\" (19:09).",
+      "related_artifacts": [
+        "A-2054.1"
+      ],
+      "related_claims": [
+        "C-2872"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-624",
+      "ref": "N-624",
+      "name": "Lara Trump",
+      "type": "person",
+      "description": "Named (31:21) in the Salem Media announcement of a landmark deal with Donald Trump Jr. and Lara Trump (\"that's Eric Trump's wife\").",
+      "related_artifacts": [
+        "A-2051.1"
+      ],
+      "related_claims": [
+        "C-2868"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-625",
+      "ref": "N-625",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Commentator whose show segment on Pam Bondi disbanding the FBI Foreign Influence Task Force is played (33:16).",
+      "related_artifacts": [
+        "A-2052.1"
+      ],
+      "related_claims": [
+        "C-2870"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-626",
+      "ref": "N-626",
+      "name": "Ryan Reynolds",
+      "type": "person",
+      "description": "Actor, Blake Lively's husband; named (46:25, 49:08) as having developed the Deadpool character that mocks Justin Baldoni.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2880"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-627",
+      "ref": "N-627",
+      "name": "Hugh Jackman",
+      "type": "person",
+      "description": "Actor in Deadpool & Wolverine; named by the host (49:08, 51:02), including arriving at the It Ends With Us premiere.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2880",
+        "C-2882"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2392",
+      "ref": "N-2392",
+      "name": "Havas Media",
+      "type": "organization",
+      "description": "French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it \"Habas Media\" at 16:50 and 36:54.",
+      "related_artifacts": [
+        "A-2048.1",
+        "A-2049.1"
+      ],
+      "related_claims": [
+        "C-2861",
+        "C-2863",
+        "C-2873"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "company"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-73",
+      "ref": "N-73",
+      "name": "Greta Van Susteren",
+      "type": "person",
+      "description": "News host on which Netanyahu reportedly lied about contents of a May letter from Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1010,7 +897,8 @@
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes.",
       "mentions_person_refs": [
-        "N-552"
+        "N-552",
+        "N-1"
       ]
     },
     {
@@ -1025,7 +913,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:44",
-      "investigative_direction": "Obtain full unedited Van Susteren segment and verify whether the question was pre-arranged as host alleges."
+      "investigative_direction": "Obtain full unedited Van Susteren segment and verify whether the question was pre-arranged as host alleges.",
+      "mentions_person_refs": [
+        "N-65",
+        "N-73",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1039,7 +932,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:44",
-      "investigative_direction": "Cross-check segment against Van Susteren's own post-show statements."
+      "investigative_direction": "Cross-check segment against Van Susteren's own post-show statements.",
+      "mentions_person_refs": [
+        "N-73",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1051,7 +948,10 @@
         "A-2048.1",
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1737",
+        "N-2392"
+      ],
       "tags": [],
       "claim_timestamp": "00:14:54",
       "investigative_direction": "Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties."
@@ -1081,7 +981,11 @@
         "A-2049.1",
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732",
+        "N-1737",
+        "N-2392"
+      ],
       "tags": [],
       "claim_timestamp": "00:15:34",
       "investigative_direction": "Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope."
@@ -1164,7 +1068,8 @@
       "claim_timestamp": "00:31:21",
       "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures.",
       "mentions_person_refs": [
-        "N-62"
+        "N-62",
+        "N-624"
       ]
     },
     {
@@ -1205,7 +1110,8 @@
       "claim_timestamp": "00:34:17",
       "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language.",
       "mentions_person_refs": [
-        "N-120"
+        "N-120",
+        "N-625"
       ]
     },
     {
@@ -1242,7 +1148,9 @@
       "tags": [],
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-623"
+      ]
     },
     {
       "@type": "Claim",
@@ -1255,7 +1163,8 @@
       ],
       "related_nodes": [
         "N-1732",
-        "N-1737"
+        "N-1737",
+        "N-2392"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -1292,7 +1201,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:54",
-      "investigative_direction": "Cross-check with FARA activity reports; obtain any device-level data on geofence delivery."
+      "investigative_direction": "Cross-check with FARA activity reports; obtain any device-level data on geofence delivery.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1381,7 +1293,9 @@
       "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
       "mentions_person_refs": [
         "N-774",
-        "N-775"
+        "N-775",
+        "N-626",
+        "N-627"
       ]
     },
     {
@@ -1416,7 +1330,8 @@
       "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
       "mentions_person_refs": [
         "N-774",
-        "N-775"
+        "N-775",
+        "N-627"
       ]
     },
     {
@@ -1431,7 +1346,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:03",
-      "investigative_direction": "Obtain the original McCoy message screenshot; verify the exact language and date."
+      "investigative_direction": "Obtain the original McCoy message screenshot; verify the exact language and date.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-272"
+      ]
     }
   ],
   "memes": []

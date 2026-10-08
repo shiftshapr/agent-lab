@@ -1399,7 +1399,7 @@
       "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
     },
     "legacy-N-997": {
-      "survives_as": "N-898",
+      "survives_as": "N-628",
       "canonical_name": "Emmanuel Macron",
       "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron)."
     },
@@ -2372,6 +2372,85 @@
       "survives_as": "N-138",
       "canonical_name": "Michael Knowles",
       "reason": "Wave 1 (Transit re-audit of ab20e61): duplicate person; ep8 N-138 \"Michael Nolles\" is ASR for Michael Knowles, so the ep79 N-993 row collapsed onto N-138 (one person one node)."
+    },
+    "legacy-N-588": {
+      "survives_as": null,
+      "canonical_name": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
+      "reason": "Wave 2: junk person row in ep47 named with a claim sentence; no person behind it (C-1924 names Candace, Erika, Justin Streif and George, now cited as N-3, N-2, N-43 and N-59). Retired without survivor."
+    },
+    "legacy-N-589": {
+      "survives_as": null,
+      "canonical_name": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
+      "reason": "Wave 2: junk person row in ep47 named with a claim sentence; no person behind it (C-1924 names Candace, Erika, Justin Streif and George, now cited as N-3, N-2, N-43 and N-59). Retired without survivor."
+    },
+    "legacy-N-322": {
+      "survives_as": "N-2385",
+      "canonical_name": "Jerusalem Post",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2385 in the topic band (one entity one node)."
+    },
+    "legacy-N-323": {
+      "survives_as": "N-2386",
+      "canonical_name": "Israeli War Room",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2386 in the topic band (one entity one node)."
+    },
+    "legacy-N-412": {
+      "survives_as": "N-2387",
+      "canonical_name": "Baker Tilly",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2387 in the topic band (one entity one node)."
+    },
+    "legacy-N-485": {
+      "survives_as": "N-2388",
+      "canonical_name": "Project Constitution",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2388 in the topic band (one entity one node)."
+    },
+    "legacy-N-559": {
+      "survives_as": "N-2389",
+      "canonical_name": "New York Post",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2389 in the topic band (one entity one node)."
+    },
+    "legacy-N-618": {
+      "survives_as": "N-2390",
+      "canonical_name": "Paramount Tactical Valhalla",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2390 in the topic band (one entity one node)."
+    },
+    "legacy-N-631": {
+      "survives_as": "N-2391",
+      "canonical_name": "Daily Wire",
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2391 in the topic band (one entity one node)."
+    },
+    "legacy-N-1643": {
+      "survives_as": "N-1151",
+      "canonical_name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-1643 \"Exit Wound / Bullet Trajectory Discrepancy\" collapsed onto the earlier id N-1151."
+    },
+    "legacy-N-2063": {
+      "survives_as": "N-1444",
+      "canonical_name": "Brian Harpole Fort Huachuca Presence Verification",
+      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-2063 \"Brian Harpole Fort Huachuca Presence Verification\" collapsed onto the earlier id N-1444."
+    },
+    "legacy-N-1651": {
+      "survives_as": "N-1642",
+      "canonical_name": "Comparative Bullet Lead Analysis Revival",
+      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-1651 \"Comparative Bullet Lead Analysis (CBLA) Revival\" collapsed onto the earlier id N-1642."
+    },
+    "legacy-N-564": {
+      "survives_as": null,
+      "canonical_name": "Central848",
+      "reason": "Wave 2 re-audit (PR 60 P1-2, PPL-P1-2): super-chat viewer handle, not spoken in the transcript, Claim Count 0. Retired with no survivor; no replacement minted from the handle."
+    },
+    "legacy-N-898": {
+      "survives_as": "N-628",
+      "canonical_name": "Emmanuel Macron",
+      "reason": "Wave 2.1 (PR 60 full adversarial P0): Reused in ep38 but listed New in ep69. Introduced at his first appearance (ep38) as a hole mint at the lowest free person id N-628; N-898 tombstoned and not reused."
     }
+  },
+  "reserved_baseline_ids": {
+    "description": "episode_000 baseline ids that count as occupied in the person band. They are reserved (never reclaimed as holes) and are not tombstones. Wave 2 removed ep96 junk rows that misused N-27, N-28, N-32 and N-33; the ids stay reserved baseline ids.",
+    "ids": [
+      "N-27",
+      "N-28",
+      "N-32",
+      "N-33"
+    ]
   }
 }

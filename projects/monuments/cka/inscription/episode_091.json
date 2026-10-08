@@ -45,13 +45,6 @@
             "C-2721"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1209",
-            "N-1210",
-            "N-1211",
-            "N-1215",
-            "N-1216",
             "N-1675",
             "N-1676",
             "N-1677",
@@ -125,8 +118,6 @@
             "C-2716"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1216",
             "N-1677"
           ],
           "tags": [],
@@ -177,8 +168,6 @@
             "C-2718"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1212",
             "N-1679"
           ],
           "tags": [],
@@ -259,306 +248,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Marine veteran and pastor affiliated with Turning Point Faith; founder of All Things Possible Ministries; subject of Corby Hall's first-person testimony; 2026 Colorado gubernatorial candidate. Central figure of this episode.",
-      "related_artifacts": [
-        "A-1958.1",
-        "A-1959.1",
-        "A-1959.2",
-        "A-1960.1",
-        "A-1962.1",
-        "A-1964.1"
-      ],
-      "related_claims": [
-        "C-2698",
-        "C-2699",
-        "C-2700",
-        "C-2701",
-        "C-2702",
-        "C-2703",
-        "C-2704",
-        "C-2705",
-        "C-2706",
-        "C-2707",
-        "C-2708",
-        "C-2709",
-        "C-2710",
-        "C-2714",
-        "C-2715",
-        "C-2716",
-        "C-2718",
-        "C-2719",
-        "C-2720"
-      ],
-      "tags": [],
-      "evidence_count": 6,
-      "claim_count": 19,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1209",
-        "N-1211",
-        "N-1212",
-        "N-1216",
-        "N-1675",
-        "N-1676",
-        "N-1677",
-        "N-1679",
-        "N-1680"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Manufacturer of Fold AR rifles; primary witness and source of written statement regarding Victor Marx interactions; recipient of ATF trace email.",
-      "related_artifacts": [
-        "A-1958.1",
-        "A-1963.1"
-      ],
-      "related_claims": [
-        "C-2698",
-        "C-2699",
-        "C-2700",
-        "C-2701",
-        "C-2702",
-        "C-2703",
-        "C-2704",
-        "C-2705",
-        "C-2706",
-        "C-2707",
-        "C-2708",
-        "C-2709",
-        "C-2710",
-        "C-2711",
-        "C-2712",
-        "C-2713",
-        "C-2721"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 17,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1210",
-        "N-1211",
-        "N-1215",
-        "N-1216",
-        "N-1674",
-        "N-1675",
-        "N-1676",
-        "N-1677",
-        "N-1678",
-        "N-1679"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Wife of Victor Marx; present during the Fold AR demo, marriage of Corby Hall and Melody, and post-assassination visit to Erika Kirk.",
-      "related_artifacts": [
-        "A-1958.1",
-        "A-1959.1"
-      ],
-      "related_claims": [
-        "C-2699",
-        "C-2700",
-        "C-2714"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Corby Hall's then-girlfriend (later wife); COO of Fold AR; participated in demo, retooling prayer, and marriage ceremony performed by Victor Marx.",
-      "related_artifacts": [
-        "A-1958.1"
-      ],
-      "related_claims": [
-        "C-2699",
-        "C-2700",
-        "C-2701",
-        "C-2710"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "COO of Victor Marx's operation; accompanied Marx to Haiti; present at dinner meeting with Corby Hall, wearing bulletproof vest.",
-      "related_artifacts": [
-        "A-1958.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1677"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Victor Marx's stepfather (\"Mr. K\"). Per host narration only — no artifact shown in episode supporting the criminal allegations. Noted as biographical context subject to verification.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Victor Marx's brother; per host narration, pled guilty as co-conspirator in the Gloyce Dean Kennedy case. Per host narration only — no artifact shown.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-1212",
-        "N-1679"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Victor Marx's biological father; per host narration, described as a pimp, drug dealer, and martial arts expert who spent time in a mental hospital. Per host narration only — no artifact shown.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-1679"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Competitive shooter for Sig Sauer; per Corby Hall's statement, allegedly tested and approved Fold AR for Sig Sauer's potential acquisition.",
-      "related_artifacts": [
-        "A-1958.1"
-      ],
-      "related_claims": [
-        "C-2706"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Haitian gang leader; subject of CBN News report regarding Victor Marx's visit and claimed evangelism; named target of alleged capture/execution plan.",
-      "related_artifacts": [
-        "A-1958.1",
-        "A-1960.1"
-      ],
-      "related_claims": [
-        "C-2705",
-        "C-2716"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1677"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Independent researcher who has conducted deep dives on Victor Marx across X and Facebook; cited by host as having identified background inconsistencies. Note: host spells name as \"Cori\" then \"Corey\"; transcription oddity flagged.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-1679"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1674",
       "ref": "N-1674",
       "name": "ATF Trace on Fold AR SN 02735 (September 10, 2025)",
@@ -600,12 +289,7 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1215"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -651,12 +335,7 @@
       "evidence_count": 2,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1211",
-        "N-1216"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -705,14 +384,7 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1212",
-        "N-1213",
-        "N-1214",
-        "N-1217"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -755,6 +427,54 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -783,9 +503,7 @@
       "anchored_artifacts": [
         "A-1958.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:21",
       "investigative_direction": "Verify travel records, communications, and Fold AR demo logs from December 2023."
@@ -799,9 +517,7 @@
       "anchored_artifacts": [
         "A-1958.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:29",
       "investigative_direction": "Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently."
@@ -815,9 +531,7 @@
       "anchored_artifacts": [
         "A-1958.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:43",
       "investigative_direction": "Verify the marriage through official marriage records."
@@ -878,7 +592,6 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1216",
         "N-1677"
       ],
       "tags": [],
@@ -895,7 +608,6 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1675"
       ],
       "tags": [],
@@ -957,9 +669,7 @@
       "anchored_artifacts": [
         "A-1958.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:14",
       "investigative_direction": "Obtain the original message text if retained."
@@ -1027,7 +737,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:06",
-      "investigative_direction": "Obtain original Instagram post metadata; verify posting timestamp."
+      "investigative_direction": "Obtain original Instagram post metadata; verify posting timestamp.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1043,7 +757,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:03",
-      "investigative_direction": "Obtain original image metadata; verify posting context."
+      "investigative_direction": "Obtain original image metadata; verify posting context.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1055,7 +773,6 @@
         "A-1960.1"
       ],
       "related_nodes": [
-        "N-1216",
         "N-1677"
       ],
       "tags": [],
@@ -1076,7 +793,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:08",
-      "investigative_direction": "Obtain full transcript of the remarks; verify the operational chain Trump described."
+      "investigative_direction": "Obtain full transcript of the remarks; verify the operational chain Trump described.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",

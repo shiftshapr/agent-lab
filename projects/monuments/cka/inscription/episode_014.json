@@ -683,6 +683,38 @@
         "N-204",
         "N-205"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -715,9 +747,7 @@
       "anchored_artifacts": [
         "A-1210.1"
       ],
-      "related_nodes": [
-        "N-1224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:33–00:10:00",
       "investigative_direction": "Confirm the ADL statement verbatim from primary source and assess whether operational cooperation with FBI entities continues despite the announced split."
@@ -736,7 +766,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:03–00:14:10",
-      "investigative_direction": "Obtain DOJ/FBI deployment records, on-scene credentialing logs, or official case-file documentation identifying which field offices contributed personnel to the UVU investigation."
+      "investigative_direction": "Obtain DOJ/FBI deployment records, on-scene credentialing logs, or official case-file documentation identifying which field offices contributed personnel to the UVU investigation.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -748,7 +781,6 @@
         "A-1211.1"
       ],
       "related_nodes": [
-        "N-1224",
         "N-1225"
       ],
       "tags": [],
@@ -767,9 +799,7 @@
       "anchored_artifacts": [
         "A-1211.1"
       ],
-      "related_nodes": [
-        "N-1224"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).",
@@ -793,7 +823,8 @@
       "claim_timestamp": "00:29:07–00:32:15",
       "investigative_direction": "Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications.",
       "mentions_person_refs": [
-        "N-6"
+        "N-6",
+        "N-69"
       ]
     },
     {
@@ -813,7 +844,8 @@
       "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.",
       "mentions_person_refs": [
         "N-6",
-        "N-207"
+        "N-207",
+        "N-69"
       ]
     },
     {
@@ -844,9 +876,7 @@
       "anchored_artifacts": [
         "A-1214.1"
       ],
-      "related_nodes": [
-        "N-1227"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:52–00:17:00",
       "investigative_direction": "Identify the Lyman family member; obtain any case-file references to a female accomplice; request any footage referenced by host as showing a person assisting the shooter with a clothing change."
@@ -876,9 +906,7 @@
       "anchored_artifacts": [
         "A-1216.1"
       ],
-      "related_nodes": [
-        "N-1227"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:30–00:37:30",
       "investigative_direction": "Verify original post and any associated official statements or security reports.",
@@ -895,9 +923,7 @@
       "anchored_artifacts": [
         "A-1217.1"
       ],
-      "related_nodes": [
-        "N-1227"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:40–00:47:20",
       "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary.",

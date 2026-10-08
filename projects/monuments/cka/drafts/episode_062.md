@@ -358,6 +358,7 @@ Claim Timestamp: 00:07:27
 Claim: Charlie Kirk received a text message from a female Christian Zionist donor warning him that platforming Candace Owens and Tucker Carlson placed him "in violation of the Ninth Commandment" and warning of biblical curses on those who "curse Israel."
 
 Anchored Artifacts: A-1669.1
+Mentions: N-50, N-3, N-1
 
 Related Nodes: N-1509
 
@@ -458,7 +459,7 @@ Claim Timestamp: 00:26:45
 Claim: A TPUSA employee was terminated by general counsel "Frank" with no specific explanation, repeatedly told only that the organization is "going in a different direction with the team," after working 80–90 hour weeks through AmFest and the period following Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-42, N-790
+Mentions: N-42, N-790, N-1
 
 Related Nodes: N-1510
 

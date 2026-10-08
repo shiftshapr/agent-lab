@@ -399,7 +399,7 @@ Claim Timestamp: 00:01:13
 Claim: Turning Point USA, through counsel, sent a cease and desist letter to Candace Owens approximately January 19–20, 2026.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-3
 
 Related Nodes: N-1503
 
@@ -530,7 +530,7 @@ Claim Timestamp: 00:04:39–00:06:17
 Claim: Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.
 
 Anchored Artifacts: A-1661.1, A-1662.1
-Mentions: N-443
+Mentions: N-443, N-3
 
 Related Nodes: N-1503, N-1504
 

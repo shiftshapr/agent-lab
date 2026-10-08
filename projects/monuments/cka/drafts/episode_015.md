@@ -86,7 +86,7 @@ Description: Bowyer tweet asserting "there is camera footage all over that campu
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:22:06
+Video Timestamp: 00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio/video clip referenced as played on air)
 
@@ -192,7 +192,7 @@ Description: Host verbally identifies Josh Hammer as a participant on the pre-as
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:45:52
+Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio/video clip played on air)
 
@@ -239,7 +239,7 @@ Investigative Pressure: Medium
 
 **N-1228** SD Card Removal Narrative Discrepancy
 
-Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact — flagged).
+Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact, flagged).
 
 Evidence Count: 3
 Claim Count: 3
@@ -362,7 +362,7 @@ Claim Timestamp: 00:22:06
 Claim: Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and turned them over to the FBI.
 
 Anchored Artifacts: A-1221.1
-Mentions: N-42
+Mentions: N-42, N-50
 Contradicts: C-1366
 
 Related Nodes: N-1228
@@ -402,7 +402,7 @@ Claim Timestamp: 00:37:10
 Claim: A Wall Street Journal article published September 18, 2025 featured Alex Clark at the Charlie Kirk memorial site and quoted her as saying her first thought upon hearing of the shooting was "I'm so glad that Charlie knew Jesus," and her third thought was "Thank God Trump is president."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-135
+Mentions: N-135, N-1
 
 Related Nodes: N-1232
 
@@ -415,7 +415,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-135
+Mentions: N-135, N-102
 
 Related Nodes: N-1232
 
@@ -441,6 +441,7 @@ Claim Timestamp: 00:16:50
 Claim: A group chat dated 2 days before Charlie Kirk's assassination contained a message attributed to Charlie Kirk stating he had lost a $2 million/year Jewish donor over TPUSA's refusal to cancel Tucker Carlson, and that he was considering inviting Candace Owens.
 
 Anchored Artifacts: A-1225.1
+Mentions: N-50, N-3, N-1
 
 Related Nodes: N-1229, N-1230
 
@@ -453,6 +454,7 @@ Claim Timestamp: 00:16:50
 Claim: The same group chat contained a message attributed to Charlie Kirk stating "I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause."
 
 Anchored Artifacts: A-1225.2
+Mentions: N-1
 
 Related Nodes: N-1229, N-1230
 
@@ -478,6 +480,7 @@ Claim Timestamp: 00:45:52
 Claim: An unnamed "Judeo-Christian" pastor delivered a sermon on September 21, 2025, using 2 Corinthians 7:1 to characterize Candace Owens and Nick Fuentes as "defiled" by the issue of the modern state of Israel.
 
 Anchored Artifacts: A-1226.1
+Mentions: N-3
 
 Related Nodes:
 

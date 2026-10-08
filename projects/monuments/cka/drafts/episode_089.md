@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1662, N-1663, N-1664, N-1665, N-1666, N-1667
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218
+  - Reused Nodes Appearing: 
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,7 +37,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2669, C-2670, C-2680, C-2681, N-1210, N-1216, N-1218, N-3, N-1662*
+*Related: C-2669, C-2670, C-2680, C-2681, N-3, N-1662*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:25:38–00:26:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2672, N-1214, N-1217, N-1667*
+*Related: C-2672, N-1667*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:26:31–00:28:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2673, N-1214*
+*Related: C-2673*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:33:58–00:35:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2674, N-1211, N-1665*
+*Related: C-2674, N-1665*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-2675, C-2676, N-1212, N-1213, N-1663, N-1664*
+*Related: C-2675, C-2676, N-1663, N-1664*
 
 ---
 
@@ -149,167 +149,11 @@ Video Timestamp: 00:31:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-2677, N-1215, N-1663*
+*Related: C-2677, N-1663*
 
 ---
 
 ## 4. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Principal subject of the episode's evidentiary material; author of A-1939.1.
-
-Evidence Count: 5
-Claim Count: 7
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1939.1, A-1940.1, A-1943.1, A-1944.1, A-1947.1, C-2669, C-2670, C-2671, C-2674, C-2676, C-2677, C-2678, C-2680, C-2681*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Named target of A-1939.1; author of A-1942.1.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1939.1, A-1942.1, A-1943.1, C-2669, C-2673, C-2674*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Named target of A-1939.1; speaker in A-1940.1 and A-1941.1.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1939.1, A-1940.1, A-1941.1, C-2669, C-2671, C-2672*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Named target of A-1939.1; subject of Trump's reference to Sandy Hook litigation.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1939.1, C-2669*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Self-identified instigator of A-1939.1; speaker in A-1943.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1943.1, C-2674, N-1665*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Alleged donor and meeting participant per A-1944.1; named in connection with $100 million contribution.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1944.1, C-2675, C-2676, N-1664*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Alleged corroborating witness to the meeting described in A-1944.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1944.1, C-2675, N-1664*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Named in A-1941.1 and A-1942.1; described as participant in situation-room meeting and as subject of blackmail allegations.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1941.1, A-1942.1, C-2672, C-2673*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Speaker in A-1947.1; made statements about Butler investigation closure.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1947.1, C-2677, N-1663*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Subject of comparison in A-1939.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1939.1, C-2681*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Host of interview in A-1941.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1941.1, C-2672*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Spouse of N-1216; referenced in A-1939.1 context.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1939.1, C-2681, N-1216*
-
----
 
 **N-1662** Trump Truth Social Post Pattern Question
 
@@ -346,7 +190,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1944.1, C-2675, C-2676, N-1212, N-1213*
+*Related: A-1944.1, C-2675, C-2676*
 
 ---
 
@@ -359,7 +203,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1943.1, C-2674, N-1211*
+*Related: A-1943.1, C-2674*
 
 ---
 
@@ -398,8 +242,8 @@ Claim Timestamp: 00:04:12–00:12:28
 Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones and described them as "low IQ," "stupid people," "nutjobs," "troublemakers," and "losers."
 
 Anchored Artifacts: A-1939.1
-Mentions: N-3
-Related Nodes: N-1210, N-1662
+Mentions: N-3, N-50, N-75, N-128
+Related Nodes: N-1662
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
 ---
@@ -423,7 +267,7 @@ Claim Timestamp: 00:23:45–00:24:40
 Claim: CNN assembled and aired a montage of past Trump appearances in which he praised Candace Owens, Megyn Kelly, and others as "stars" with "amazing reputations," contradicting his current posture in A-1939.1.
 
 Anchored Artifacts: A-1940.1
-Mentions: N-3
+Mentions: N-3, N-75
 Investigative Direction: Identify and verify the source clips used in the CNN compilation and their original air dates.
 
 ---
@@ -435,7 +279,8 @@ Claim Timestamp: 00:25:38–00:26:31
 Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stated that Trump sat at the side of the situation-room table while Benjamin Netanyahu sat across from him as an equal, and that senior U.S. advisers subsequently informed Trump the stated Iran objectives were unattainable.
 
 Anchored Artifacts: A-1941.1
-Related Nodes: N-1214, N-1217, N-1667
+Mentions: N-65, N-298, N-75
+Related Nodes: N-1667
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
 ---
@@ -447,7 +292,8 @@ Claim Timestamp: 00:26:31–00:28:46
 Claim: A letter/newsletter from Tucker Carlson, read in full on air, alleged that Israel has a "storied history of blackmailing US presidents," including the claim that recordings of Bill Clinton–Monica Lewinsky phone-sex sessions were used as leverage to obtain Jonathan Pollard's release.
 
 Anchored Artifacts: A-1942.1
-Related Nodes: N-1214
+Mentions: N-440, N-50
+Related Nodes:
 Investigative Direction: Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.
 
 ---
@@ -459,7 +305,8 @@ Claim Timestamp: 00:33:58–00:35:23
 Claim: In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the person who "knifed him from the front" via the resulting Truth Social post.
 
 Anchored Artifacts: A-1943.1
-Related Nodes: N-1211, N-1665
+Mentions: N-50, N-91
+Related Nodes: N-1665
 Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.
 
 ---
@@ -471,7 +318,8 @@ Claim Timestamp: 00:29:16–00:31:16
 Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolb named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.
 
 Anchored Artifacts: A-1944.1
-Related Nodes: N-1212, N-1213, N-1664
+Mentions: N-3, N-1, N-42
+Related Nodes: N-1664
 Investigative Direction: Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
 ---
@@ -483,7 +331,8 @@ Claim Timestamp: 00:30:06–00:31:16
 Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump stated during the meeting described in C-2675 that he intended to "take her money and then I'll f her over."
 
 Anchored Artifacts: A-1944.1
-Related Nodes: N-1212, N-1663, N-1664
+Mentions: N-3, N-1, N-5
+Related Nodes: N-1663, N-1664
 Investigative Direction: Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
 ---
@@ -495,7 +344,8 @@ Claim Timestamp: 00:31:16–00:32:11
 Claim: Donald Trump Jr. stated on stage that he was not satisfied with the conclusion of the Butler, Pennsylvania investigation but that his father was satisfied and the matter was closed.
 
 Anchored Artifacts: A-1947.1
-Related Nodes: N-1215, N-1663
+Mentions: N-62
+Related Nodes: N-1663
 Investigative Direction: Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.
 
 ---
@@ -519,6 +369,7 @@ Claim Timestamp: 00:20:14–00:21:03
 Claim: Candace Owens highlighted as the most "brutal" recurring response a claim, posted by multiple users, that Charlie Kirk would have been on Trump's target list in A-1939.1 had he not been killed.
 
 Anchored Artifacts: A-1946.1
+Mentions: N-3, N-1
 Related Nodes: N-1662
 Investigative Direction: Locate the originating posts and timestamps; assess spread velocity and authorship clustering.
 
@@ -543,8 +394,8 @@ Claim Timestamp: 00:09:01–00:09:34
 Claim: Trump's Truth Social post stated, verbatim, that the first lady of France is "a far more beautiful woman than Candace" and "it's not even close."
 
 Anchored Artifacts: A-1939.1
-Mentions: N-3
-Related Nodes: N-1216, N-1218
+Mentions: N-3, N-117
+Related Nodes:
 Investigative Direction: Verify exact wording against the archived post.
 
 ---

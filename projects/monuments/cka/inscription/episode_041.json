@@ -100,7 +100,7 @@
             "C-1834"
           ],
           "related_nodes": [
-            "N-485",
+            "N-2388",
             "N-1381"
           ],
           "tags": [],
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-484",
-            "N-485"
+            "N-2388"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,7 +220,7 @@
             "C-1834"
           ],
           "related_nodes": [
-            "N-485"
+            "N-2388"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,28 +290,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-485"
+        "N-2388"
       ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-485",
-      "ref": "N-485",
-      "name": "Project Constitution (X account / researcher)",
-      "type": "person",
-      "description": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023.",
-      "related_artifacts": [
-        "A-1496.1",
-        "A-1500.2"
-      ],
-      "related_claims": [
-        "C-1834"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -388,6 +368,91 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2388",
+      "ref": "N-2388",
+      "name": "Project Constitution",
+      "type": "organization",
+      "description": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023.",
+      "related_artifacts": [
+        "A-1496.1",
+        "A-1500.2"
+      ],
+      "related_claims": [
+        "C-1834"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-426",
+      "ref": "N-426",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Made two contradictory statements about Candace's security within one week.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -405,7 +470,8 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time.",
       "mentions_person_refs": [
-        "N-479"
+        "N-479",
+        "N-3"
       ]
     },
     {
@@ -422,7 +488,8 @@
       "claim_timestamp": "00:03:51",
       "investigative_direction": "Confirm original tweet via X/Twitter archive; verify timestamp and wording.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-224"
       ]
     },
     {
@@ -439,7 +506,9 @@
       "claim_timestamp": "00:07:19",
       "investigative_direction": "Confirm original follow-up tweet via X/Twitter archive; compare with Candace's tweet offering virtual attendance.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-3",
+        "N-224"
       ]
     },
     {
@@ -453,13 +522,14 @@
         "A-1500.2"
       ],
       "related_nodes": [
-        "N-1381"
+        "N-1381",
+        "N-2388"
       ],
       "tags": [],
       "claim_timestamp": "00:15:32",
       "investigative_direction": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\"",
       "mentions_person_refs": [
-        "N-485"
+        "N-2388"
       ]
     },
     {
@@ -469,13 +539,14 @@
       "label": "El-Sisi Photographed in Egypt on September 10, 2025",
       "claim": "President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-2388"
+      ],
       "tags": [],
       "claim_timestamp": "00:17:13",
       "investigative_direction": "Locate the original photograph; verify date, location, and participants.",
       "mentions_person_refs": [
-        "N-484",
-        "N-485"
+        "N-484"
       ]
     },
     {
@@ -491,7 +562,9 @@
       "tags": [],
       "claim_timestamp": "00:25:13",
       "investigative_direction": "Verify clip against original Gutfeld show broadcast; confirm exact wording.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -508,7 +581,8 @@
       "investigative_direction": "Verify clip against original broadcast; cross-check against other contemporaneous accounts.",
       "mentions_person_refs": [
         "N-1",
-        "N-16"
+        "N-16",
+        "N-224"
       ]
     },
     {
@@ -523,7 +597,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:39",
-      "investigative_direction": "Verify clip against original Tim Pool broadcast; capture full context."
+      "investigative_direction": "Verify clip against original Tim Pool broadcast; capture full context.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-426"
+      ]
     }
   ],
   "memes": []

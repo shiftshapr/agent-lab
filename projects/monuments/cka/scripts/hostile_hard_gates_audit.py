@@ -37,6 +37,12 @@ AD_PATTERNS = [
     re.compile(r"(?i)\buse\s+code\b"),
 ]
 TOPIC_ORG_TYPES = frozenset({"organization", "organisation", "org", "place"})
+LEDGER_EXTRA_RE = re.compile(
+    r"^[ \t]*(?:-[ \t]*)?(?:\*\*)?(?:Reused Nodes Appearing|Existing Nodes Reused|(?:Hole|Tip)-minted Nodes \([^)]*\)):(?:\*\*)?(.*)$",
+    re.MULTILINE,
+)
+MENTIONS_RE = re.compile(r"^Mentions:(.*)$", re.MULTILINE)
+RELATED_NODES_RE = re.compile(r"^Related Nodes:(.*)$", re.MULTILINE)
 
 
 @dataclass
@@ -96,6 +102,16 @@ def _wired_on_claim_or_artifact(content: str, nid: str) -> bool:
     return bool(re.search(rf"^\*Related:.*\b{re.escape(nid)}\b", pre, re.MULTILINE))
 
 
+def cited_not_on_ledger(text: str, ledger: set[str]) -> list[tuple[str, str]]:
+    """(N-id, field) for ids cited on claim Mentions / Related Nodes lines that are absent from ledger."""
+    cited: dict[str, str] = {}
+    for field_re, label in ((MENTIONS_RE, "Mentions"), (RELATED_NODES_RE, "Related Nodes")):
+        for cm in field_re.finditer(text):
+            for nid in re.findall(r"\bN-\d+\b(?!\.\d)", cm.group(1)):
+                cited.setdefault(nid, label)
+    return [(nid, cited[nid]) for nid in sorted(set(cited) - ledger, key=lambda x: int(x[2:]))]
+
+
 def _register_first_intro() -> dict[str, int]:
     first: dict[str, int] = {}
     for path in sorted(DRAFTS.glob("episode_*.md")):
@@ -148,6 +164,8 @@ def run_audit() -> list[Finding]:
         for line in (new_line, reused_line):
             if line:
                 ledger.update(x.strip() for x in line.group(1).split(",") if x.strip())
+        for lm in LEDGER_EXTRA_RE.finditer(text):
+            ledger.update(re.findall(r"\bN-\d+\b", lm.group(1)))
         if new_line:
             for nid in [x.strip() for x in new_line.group(1).split(",") if x.strip()]:
                 fep = first_intro.get(nid, ep)
@@ -162,6 +180,12 @@ def run_audit() -> list[Finding]:
         for nid in reg_ids - ledger:
             findings.append(
                 Finding("P1", "NODE_NOT_IN_LEDGER", ep, nid, "register row not on New/Reused ledger")
+            )
+        # Wave 2 re-audit (P2-11): every node cited on a claim Mentions or Related Nodes line must also
+        # sit on this episode's ledger (New, Reused, Existing Nodes Reused, Hole-minted or Tip-minted).
+        for nid, label in cited_not_on_ledger(text, ledger | reg_ids):
+            findings.append(
+                Finding("P1", "NODE_NOT_IN_LEDGER", ep, nid, f"cited on a claim {label} line but not on the episode ledger")
             )
 
         tx = _transcript_for_ep(ep)

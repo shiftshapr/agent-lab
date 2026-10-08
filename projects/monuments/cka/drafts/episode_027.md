@@ -30,7 +30,7 @@
 - **Analysis Date:** 2025-11-06
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
-  - Claim Range: C-1617–C-1634
+  - Claim Range: C-1617–C-1634, C-3740
   - New Nodes Introduced (people):  N-2, N-349, N-350, N-353, N-355, N-356, N-358, N-359
   - New Nodes Introduced (investigation targets): N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
@@ -141,7 +141,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Since some of you guys are struggling, no venue yet, 2 months out." (Host notes: "There's clearly a venue because Charlie is saying in this chat, 'November 3rd at 6:30 p.m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.'")
 
-*Related: C-1626, N-349, N-1298*
+*Related: C-1626, C-3740, N-349, N-1298*
 
 ---
 
@@ -709,6 +709,20 @@ Investigative Direction: Obtain the underlying text thread to verify Allie's cha
 
 ---
 
+**C-3740** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out (revises C-1626 title)
+
+Claim Timestamp: 00:36:03
+Claim: C-1626's title says the venue was confirmed two months out, which inverts its own body. Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
+Transcript Snippet: She says, "Since some of you guys are struggling, no venue yet, 2 months out."
+Anchored Artifacts: A-1347.2
+Mentions: N-349
+Related Nodes: N-1298
+Revises: C-1626
+Confidence: high
+Investigative Direction: Read with C-1626; obtain the underlying text thread to verify Allie's characterization of venue status.
+
+---
+
 **C-1627** Lila Rose Reports Stanford Event Was to Be Set Up in Three Weeks
 
 Claim Timestamp: 00:37:49
@@ -774,7 +788,7 @@ Claim Timestamp: 00:55:21
 Claim: Alyssa Cordova tweets speculation that non-disparagement agreements may be in place between Turning Point USA and Candace Owens due to TPUSA's business arrangement with Blexit.
 
 Anchored Artifacts: A-1350.1
-Mentions: N-353
+Mentions: N-353, N-3
 
 Related Nodes: N-1301
 

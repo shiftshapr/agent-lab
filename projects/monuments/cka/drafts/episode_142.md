@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2196, N-2197, N-2198, N-2199, N-2200, N-2201, N-2202, N-2203, N-2204, N-2205, N-2206
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-46
+  - Reused Nodes Appearing: N-1228, N-46
   - (see registers)
 
 ## 6. Meme Register
@@ -93,7 +93,7 @@ Video Timestamp: 00:09:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3293, N-1212, N-2198*
+*Related: C-3293, N-2198*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:14:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3294, N-1211*
+*Related: C-3294*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:30:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3297, N-1213, N-1214, N-2201*
+*Related: C-3297, N-2201*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:34:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3298, N-1216, N-1217, N-1218, N-1219, N-2202*
+*Related: C-3298, N-2202*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3299, N-1221*
+*Related: C-3299*
 
 ---
 
@@ -176,7 +176,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1211, N-2203, N-46*
+*Related: N-2203, N-46*
 
 **A-2292.2** Comment by Nikki — $100,000/hour humiliation
 
@@ -185,7 +185,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:20
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1211, N-2203*
+*Related: N-2203*
 
 **A-2292.3** Comment by Trillion — TPUSA PR strategy disaster
 
@@ -207,7 +207,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:51
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1225*
+*Related:*
 
 **A-2293.2** Comment by Alicia Switzer — Ian Carol 6-hour reaction video
 
@@ -216,7 +216,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:18
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1222*
+*Related:*
 
 **A-2293.3** Comment by James Gray — Woman-hating man paid 300K
 
@@ -225,7 +225,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:05
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1211*
+*Related:*
 
 **A-2293.4** Comment by TJ Palo — "Because I know people can be evil"
 
@@ -234,7 +234,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:38
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1211, A-2287.1*
+*Related: A-2287.1*
 
 **A-2293.5** Comment by Blackest Panther — Israel focus claim
 
@@ -261,7 +261,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1215, N-2205*
+*Related: N-2205*
 
 **A-2293.8** Comment by Joey D. April — "Debategate" timeline entry
 
@@ -284,266 +284,6 @@ Discovery Timestamp: 00:00:00–00:00:01
 ---
 
 ## 4. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-TPUSA audio-visual lead; operator of Visual Impulse; submitted 1102 statement dated May 6, 2026; allegedly lied to host about Google-hacking fears.
-
-Evidence Count: 4
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2284.1, A-2284.2, A-2285.1, A-2287.1, A-2288.1, C-3290, C-3291, C-3292, C-3294, C-3295, C-3296, N-2196, N-2197, N-2199, N-2200*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-SBI lead investigator; testified in preliminary hearing regarding Visual Impulse video chain of custody.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2285.1, C-3292, N-2197*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Camera operator; yellow-camera position (front-left of Charlie, facing questioner).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2284.1*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Camera operator; blue-camera position (Charlie uplose critical shot).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2284.1*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-TPUSA-associated figure who publicly defended Terrell Farnsworth's SD-card removal on Tucker Carlson. Name spelling varies across the transcript — flagged for uncertainty.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2287.1, A-2292.1, A-2292.2, A-2293.3, A-2293.4, C-3294*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Independent YouTube investigator; produced comparison video of back-camera angles across tour stops.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2286.1, C-3293, N-2198*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Former CIA officer; appeared on Danny Jones podcast questioning FBI jurisdiction in the case. Name spelling varies — flagged.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2289.1, C-3297, N-2201*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Podcast host; JRE panel discussed Tyler Robinson photo distortion.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2290.1, C-3298, N-2202*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Comedian panelist on Rogan discussion clip.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2290.1, C-3298*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Comedian panelist on Rogan discussion clip.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2290.1, C-3298*
-
----
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Comedian panelist on Rogan discussion clip.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2290.1, C-3298*
-
----
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Podcast host of the show on which Kirraou appeared.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2289.1*
-
----
-
-**N-1221** Autopsy Record – Utah Privacy Statute Application
-
-Content creator; produced Erika Kirk "positive evidence" / Pickle Pup parody.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2291.1, C-3299*
-
----
-
-**N-1222** Hospital Routing Anomaly
-
-Reaction-video creator; produced 6-hour reaction video referenced in comments.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2293.2*
-
----
-
-**N-1223** TPUSA Faith Packet / Israel References Claim
-
-Independent investigator referenced by host as collaborator.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2206*
-
----
-
-**N-1224** ADL–FBI Partnership Structure
-
-Independent investigator referenced by host as collaborator.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2206*
-
----
-
-**N-1225** Connecticut FBI Field Office Deployment Anomaly
-
-TPUSA-associated figure referenced alongside Andrew Kulvette in host's outreach offer.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2293.1*
-
----
-
-**N-1226** Tyler Robinson Defense Selection Anomaly
-
-Figure referenced by host regarding questioning whether back-camera footage was edited. Spelling flagged.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2199, N-2200*
-
----
-
-**N-1227** Witness and Public-Figure Demeanor Anomalies
-
-Plaintiff in lawsuit referenced by host as motivating her interest in obtaining the back-camera footage.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2198, N-2199*
-
----
-
-**N-1228** SD Card Removal Narrative Discrepancy
-
-Interview host on which Andrew Kulvette explained the SD-card removal.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2287.1, N-1211*
-
----
 
 **N-2196** Terrell Farnsworth Google-Hack Contradiction
 
@@ -580,7 +320,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2286.1, C-3293, N-1212, N-1227*
+*Related: A-2286.1, C-3293*
 
 ---
 
@@ -593,7 +333,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2284.2, C-3295, N-1226*
+*Related: A-2284.2, C-3295*
 
 ---
 
@@ -606,7 +346,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2288.1, C-3296, N-1226*
+*Related: A-2288.1, C-3296*
 
 ---
 
@@ -619,7 +359,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2289.1, C-3297, N-1213, N-1214*
+*Related: A-2289.1, C-3297*
 
 ---
 
@@ -632,7 +372,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2290.1, C-3298, N-1216*
+*Related: A-2290.1, C-3298*
 
 ---
 
@@ -671,7 +411,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2293.7, N-1215*
+*Related: A-2293.7*
 
 ---
 
@@ -684,7 +424,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1212, N-1222, N-1223, N-1224*
+*Related:*
 
 ---
 
@@ -706,6 +446,7 @@ Claim Timestamp: 00:05:47
 Claim: Farnsworth's 1102 statement asserts he provided SBI with four videos through a Google Drive on September 10, 2025.
 
 Anchored Artifacts: A-2284.1
+Mentions: N-410
 
 Related Nodes: N-2196, N-2197
 
@@ -720,6 +461,7 @@ Claim Timestamp: 00:04:56
 Claim: Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.
 
 Anchored Artifacts: A-2284.1
+Mentions: N-410
 
 Related Nodes: N-2196
 
@@ -749,7 +491,7 @@ Claim: YouTuber Nissi compared the back-camera shot at UVU on September 10 again
 
 Anchored Artifacts: A-2286.1
 
-Related Nodes: N-1212, N-2198
+Related Nodes: N-2198
 
 Investigative Direction: Obtain original uncropped September 10 back-camera footage; obtain Nissi's source clips from other tour stops for direct frame comparison.
 
@@ -762,8 +504,9 @@ Claim Timestamp: 00:14:25
 Claim: Kulvette stated on Tucker Carlson that Farnsworth removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
 Anchored Artifacts: A-2287.1
+Mentions: N-50
 
-Related Nodes: N-1211, N-1228
+Related Nodes: N-1228
 
 Investigative Direction: Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.
 
@@ -805,7 +548,7 @@ Claim: John Kirraou stated on the Danny Jones podcast that no element of the Sep
 
 Anchored Artifacts: A-2289.1
 
-Related Nodes: N-1213, N-1214, N-2201
+Related Nodes: N-2201
 
 Investigative Direction: Obtain full Danny Jones podcast segment; verify whether FBI has filed any federal charges or maintains any formal federal nexus.
 
@@ -818,8 +561,9 @@ Claim Timestamp: 00:34:33
 Claim: Rogan and panelists discussed that the published photo of Tyler Robinson appeared to have a wider man "shrunken" into Robinson's proportions, with distorted car-hood proportions behind him.
 
 Anchored Artifacts: A-2290.1
+Mentions: N-69, N-427
 
-Related Nodes: N-1216, N-1217, N-1218, N-1219, N-2202
+Related Nodes: N-2202
 
 Investigative Direction: Identify the original source of the published Robinson photo; obtain metadata and EXIF data; compare with independently sourced photographs of Robinson.
 
@@ -832,8 +576,9 @@ Claim Timestamp: 00:39:46
 Claim: Account WearForbidden released a parody video featuring an Erika Kirk-style character with "Shabbat shalom," "I CHOOSE YOU. PICKLE PUP," and a repeated "positive evidence" refrain.
 
 Anchored Artifacts: A-2291.1
+Mentions: N-2
 
-Related Nodes: N-1221
+Related Nodes:
 
 Investigative Direction: Locate the WearForbidden source video for direct verification of framing and content.
 
@@ -861,7 +606,7 @@ Claim: The host expresses agreement with comments framing her investigation as a
 
 Anchored Artifacts: A-2293.6, A-2293.9
 
-Related Nodes: N-1221
+Related Nodes:
 
 Investigative Direction: No investigative direction; commentary-concurrence claim.
 

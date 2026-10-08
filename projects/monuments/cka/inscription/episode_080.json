@@ -33,8 +33,6 @@
             "C-2497"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1218",
             "N-1619"
           ],
           "tags": [],
@@ -87,10 +85,7 @@
           "related_claims": [
             "C-2500"
           ],
-          "related_nodes": [
-            "N-1210",
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -124,10 +119,7 @@
             "C-2501",
             "C-2502"
           ],
-          "related_nodes": [
-            "N-1211",
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -151,12 +143,7 @@
           "related_claims": [
             "C-2503"
           ],
-          "related_nodes": [
-            "N-1212",
-            "N-1207",
-            "N-1221",
-            "N-1218"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -180,10 +167,7 @@
           "related_claims": [
             "C-2504"
           ],
-          "related_nodes": [
-            "N-1213",
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -208,8 +192,7 @@
             "C-2505"
           ],
           "related_nodes": [
-            "N-1214",
-            "N-1207"
+            "N-209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -264,9 +247,7 @@
             "C-2522"
           ],
           "related_nodes": [
-            "N-1217",
             "N-2",
-            "N-1215",
             "N-1618"
           ],
           "tags": [],
@@ -294,8 +275,6 @@
             "C-2510"
           ],
           "related_nodes": [
-            "N-1217",
-            "N-1",
             "N-1618"
           ],
           "tags": [],
@@ -323,11 +302,7 @@
             "C-2523",
             "C-2524"
           ],
-          "related_nodes": [
-            "N-1",
-            "N-1217",
-            "N-1220"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -433,7 +408,6 @@
             "C-2518"
           ],
           "related_nodes": [
-            "N-1219",
             "N-1617"
           ],
           "tags": [],
@@ -461,7 +435,6 @@
             "C-2520"
           ],
           "related_nodes": [
-            "N-1216",
             "N-1617"
           ],
           "tags": [],
@@ -475,70 +448,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Resigned Director of the National Counterterrorism Center; principal documentary subject of the episode's lead segment.",
-      "related_artifacts": [
-        "A-1861.1",
-        "A-1862.1",
-        "A-1863.1",
-        "A-1864.1",
-        "A-1864.2",
-        "A-1865.1",
-        "A-1866.1",
-        "A-1867.1"
-      ],
-      "related_claims": [
-        "C-2494",
-        "C-2495",
-        "C-2496",
-        "C-2497",
-        "C-2498",
-        "C-2499",
-        "C-2500",
-        "C-2501",
-        "C-2502",
-        "C-2503",
-        "C-2504",
-        "C-2505"
-      ],
-      "tags": [],
-      "evidence_count": 8,
-      "claim_count": 12,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1218",
-        "N-1619"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "U.S. Secretary of the Treasury; on-camera subject pulled to the Situation Room on March 12.",
-      "related_artifacts": [
-        "A-1873.1"
-      ],
-      "related_claims": [
-        "C-2512",
-        "C-2513"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1617"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1209",
@@ -557,283 +466,6 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "U.S. Senator (South Carolina); public responder to Kent's resignation.",
-      "related_artifacts": [
-        "A-1863.1"
-      ],
-      "related_claims": [
-        "C-2500"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Conservative commentator; issued two separate X posts on Kent's resignation.",
-      "related_artifacts": [
-        "A-1864.1",
-        "A-1864.2"
-      ],
-      "related_claims": [
-        "C-2501",
-        "C-2502"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Conservative commentator; alleged Kent's wife worked for Max Blumenthal.",
-      "related_artifacts": [
-        "A-1865.1"
-      ],
-      "related_claims": [
-        "C-2503"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1218",
-        "N-1221"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Lawyer/commentator; publicly referred to Kent as a \"neo-Nazi Jew hating Israel basher.\"",
-      "related_artifacts": [
-        "A-1866.1"
-      ],
-      "related_claims": [
-        "C-2504"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Former Deputy White House Chief of Staff; publicly described Kent as a \"crazed egomaniac.\"",
-      "related_artifacts": [
-        "A-1867.1"
-      ],
-      "related_claims": [
-        "C-2505"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Governor of Arkansas; signed proclamation endorsing TPUSA chapters in schools; appeared with Erica Kirk.",
-      "related_artifacts": [
-        "A-1869.1"
-      ],
-      "related_claims": [
-        "C-2521",
-        "C-2522"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2",
-        "N-1217"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "U.S. Ambassador to Israel; on-camera in Netanyahu video of March 15.",
-      "related_artifacts": [
-        "A-1876.1"
-      ],
-      "related_claims": [
-        "C-2519"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1617"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "President of the TPUSA University of Arkansas chapter; author of disaffiliation letter; participant in Charlie Kirk's July 2025 Israel/Gaza discussion.",
-      "related_artifacts": [
-        "A-1869.1",
-        "A-1870.1",
-        "A-1871.1"
-      ],
-      "related_claims": [
-        "C-2509",
-        "C-2510",
-        "C-2511"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-1618"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Deceased U.S. service member and spouse of Joe Kent; referenced in resignation letter as having died in Syria.",
-      "related_artifacts": [
-        "A-1861.1",
-        "A-1865.1"
-      ],
-      "related_claims": [
-        "C-2497"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Son of Benjamin Netanyahu; subject of host-asserted 7-day social media silence observation.",
-      "related_artifacts": [
-        "A-1875.1"
-      ],
-      "related_claims": [
-        "C-2518"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1617"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "U.S. Senator (Texas); subject of Charlie Kirk's July 2025 on-camera critique of using the Bible to justify aid to Israel.",
-      "related_artifacts": [
-        "A-1871.1"
-      ],
-      "related_claims": [
-        "C-2524"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Journalist/editor; named in Laura Loomer post as alleged employer of Kent's wife.",
-      "related_artifacts": [
-        "A-1865.1"
-      ],
-      "related_claims": [
-        "C-2503"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1212",
-        "N-1218"
-      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -864,12 +496,7 @@
       "evidence_count": 5,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1216",
-        "N-1219"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -897,9 +524,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-2",
-        "N-1217",
-        "N-1215"
+        "N-2"
       ]
     },
     {
@@ -984,6 +609,183 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-78",
+      "ref": "N-78",
+      "name": "Max Blumenthal",
+      "type": "person",
+      "description": "Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "confidence": "high",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-150",
+      "ref": "N-150",
+      "name": "Ted Cruz",
+      "type": "person",
+      "description": "Subject of Brett Cooper criticism and host commentary.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-310",
+      "ref": "N-310",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-374",
+      "ref": "N-374",
+      "name": "Mark Levin",
+      "type": "person",
+      "description": "Conservative commentator; named as defender of Alan Dershowitz.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-439",
+      "ref": "N-439",
+      "name": "Mike Huckabee",
+      "type": "person",
+      "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-716",
+      "ref": "N-716",
+      "name": "Lindsey Graham",
+      "type": "person",
+      "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-858",
+      "ref": "N-858",
+      "name": "Alan Dershowitz",
+      "type": "person",
+      "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Barry Weiss.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-969",
+      "ref": "N-969",
+      "name": "Sarah Huckabee Sanders",
+      "type": "person",
+      "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1001,7 +803,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:57",
-      "investigative_direction": "Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline."
+      "investigative_direction": "Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.",
+      "mentions_person_refs": [
+        "N-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -1045,7 +850,6 @@
         "A-1861.1"
       ],
       "related_nodes": [
-        "N-1218",
         "N-1619"
       ],
       "tags": [],
@@ -1066,7 +870,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:07:42",
-      "investigative_direction": "Confirm exact wording against the full White House transcript or press pool video of the same appearance."
+      "investigative_direction": "Confirm exact wording against the full White House transcript or press pool video of the same appearance.",
+      "mentions_person_refs": [
+        "N-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -1094,12 +901,14 @@
         "A-1863.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1619"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
-      "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated."
+      "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated.",
+      "mentions_person_refs": [
+        "N-716"
+      ]
     },
     {
       "@type": "Claim",
@@ -1111,12 +920,14 @@
         "A-1864.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1619"
       ],
       "tags": [],
       "claim_timestamp": "00:15:07",
-      "investigative_direction": "Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation."
+      "investigative_direction": "Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.",
+      "mentions_person_refs": [
+        "N-374"
+      ]
     },
     {
       "@type": "Claim",
@@ -1128,12 +939,14 @@
         "A-1864.2"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1619"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55",
-      "investigative_direction": "Confirm against Levin's verified X account and monitor for any DOJ response."
+      "investigative_direction": "Confirm against Levin's verified X account and monitor for any DOJ response.",
+      "mentions_person_refs": [
+        "N-374"
+      ]
     },
     {
       "@type": "Claim",
@@ -1145,14 +958,15 @@
         "A-1865.1"
       ],
       "related_nodes": [
-        "N-1212",
-        "N-1221",
-        "N-1218",
         "N-1619"
       ],
       "tags": [],
       "claim_timestamp": "00:15:07–00:15:58",
-      "investigative_direction": "Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals."
+      "investigative_direction": "Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals.",
+      "mentions_person_refs": [
+        "N-78",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1164,12 +978,14 @@
         "A-1866.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-1619"
       ],
       "tags": [],
       "claim_timestamp": "00:15:58",
-      "investigative_direction": "Confirm exact text against Dershowitz's verified X account."
+      "investigative_direction": "Confirm exact text against Dershowitz's verified X account.",
+      "mentions_person_refs": [
+        "N-858"
+      ]
     },
     {
       "@type": "Claim",
@@ -1181,7 +997,6 @@
         "A-1867.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-1619"
       ],
       "tags": [],
@@ -1203,7 +1018,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:55",
-      "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp."
+      "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp.",
+      "mentions_person_refs": [
+        "N-205"
+      ]
     },
     {
       "@type": "Claim",
@@ -1215,7 +1033,6 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1618"
       ],
       "tags": [],
@@ -1236,7 +1053,6 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1618"
       ],
       "tags": [],
@@ -1253,7 +1069,6 @@
         "A-1870.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1618"
       ],
       "tags": [],
@@ -1270,7 +1085,6 @@
         "A-1870.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1618"
       ],
       "tags": [],
@@ -1290,7 +1104,6 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1618"
       ],
       "tags": [],
@@ -1378,7 +1191,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:50:05",
-      "investigative_direction": "Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis."
+      "investigative_direction": "Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis.",
+      "mentions_person_refs": [
+        "N-65"
+      ]
     },
     {
       "@type": "Claim",
@@ -1406,7 +1222,6 @@
         "A-1875.1"
       ],
       "related_nodes": [
-        "N-1219",
         "N-1617"
       ],
       "tags": [],
@@ -1423,12 +1238,15 @@
         "A-1876.1"
       ],
       "related_nodes": [
-        "N-1216",
         "N-1617"
       ],
       "tags": [],
       "claim_timestamp": "00:53:23",
-      "investigative_direction": "Confirm posting timestamp against official channels; subject video to production analysis."
+      "investigative_direction": "Confirm posting timestamp against official channels; subject video to production analysis.",
+      "mentions_person_refs": [
+        "N-65",
+        "N-439"
+      ]
     },
     {
       "@type": "Claim",
@@ -1456,14 +1274,14 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-969"
       ]
     },
     {
@@ -1476,14 +1294,14 @@
         "A-1869.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-969"
       ]
     },
     {
@@ -1515,14 +1333,14 @@
         "A-1871.1"
       ],
       "related_nodes": [
-        "N-1220",
         "N-1618"
       ],
       "tags": [],
       "claim_timestamp": "00:33:39",
       "investigative_direction": "Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-150"
       ]
     }
   ],

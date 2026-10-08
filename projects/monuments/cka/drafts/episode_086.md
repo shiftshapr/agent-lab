@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1642, N-1643, N-1644, N-1645, N-1646, N-1647
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  - New Nodes Introduced: N-1642, N-1644, N-1645, N-1646, N-1647
+  - Reused Nodes Appearing: N-1151
   - (see registers)
 
 ## I. Meta-Data
@@ -31,8 +31,8 @@
 ### Episode 86 Ledger Summary
 - Artifact Families Introduced: A-1912, A-1913, A-1914, A-1915, A-1916
 - Claim Range: C-2609–C-2625
-- New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
-- New Investigation Target Nodes Introduced: N-1642, N-1643, N-1644, N-1645, N-1646
+- New People Nodes Introduced: none (Wave 2: local ids removed)
+- New Investigation Target Nodes Introduced: N-1642, N-1644, N-1645, N-1646
 - Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolb, Dr. Lee Trotter, Justin Strife, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
@@ -73,7 +73,7 @@ Video Timestamp: 00:11:24–00:12:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-2618, C-2619, C-2625, N-1643*
+*Related: C-2618, C-2619, C-2625, N-1151*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:41:49–00:43:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript captured; network/station not specified)
 
-*Related: C-2612, N-1642, N-1210, N-1211*
+*Related: C-2612, N-1642*
 
 ---
 
@@ -139,123 +139,6 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Alleged witness at hospital; subject of Kim Haven's on-air challenge that his account of publicly announcing Charlie Kirk's death is implausible.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1916.1, C-2621, C-2622, C-2623*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Nurse commenting on Frank Turek's hospital account in prior episode; comment read aloud in this episode.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1916.1, C-2621, C-2622*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Independent researcher/organizer named by host and viewer as candidate to organize and analyze discovery files.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1916.3*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-National investigative reporter identified within the played Atlanta news clip on FBI bullet lead analysis.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1914.1, C-2612*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Subject of 1991 murder case discussed in Atlanta news clip; convicted in 1997 using FBI bullet lead analysis; released 2021.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1914.1, C-2612*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Independent YouTuber named by host as resource on collusion dynamics among co-conspirators.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N/A*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Author of *The Secret Founding of America*, cited by host as current book club reading illuminating Freemasonry origins.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N/A*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Surgeon identified in Andrew Kolb's September 20, 2025 tweet as source of the "man of steel" bone-density quote; subject of Erika Kirk's later assertion that he violated HIPAA.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1913.1, C-2619, C-2625*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-X commentator referenced by host as discussing the "other hospital and the strange lockdown"; post is referenced but not shown in this episode.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1647 (referenced context)*
-
----
-
 **N-1642** Comparative Bullet Lead Analysis Revival
 
 Persistent question regarding the FBI's planned use of a forensic technique (CBLA/comparative bullet lead analysis) that the FBI discontinued in 2005 due to flawed scientific, statistical, and interpretive validity.
@@ -269,7 +152,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1643** Exit Wound / Bullet Trajectory Discrepancy
+**N-1151** Exit Wound / Bullet Trajectory Discrepancy
 
 Persistent inconsistency between Andrew Kolb's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolb's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).
 
@@ -284,7 +167,7 @@ Investigative Pressure: High
 
 **N-1644** Defense Discovery Dumping Strategy
 
-Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 — two months before the scheduled May 2026 preliminary hearing.
+Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026, two months before the scheduled May 2026 preliminary hearing.
 
 Evidence Count: 1
 Claim Count: 4
@@ -323,14 +206,14 @@ Investigative Pressure: High
 
 **N-1647** Timpanogos Hospital Evidence Question
 
-Investigation target referenced at episode end — host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.
+Investigation target referenced at episode end, host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.
 
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1215*
+*Related:*
 
 ---
 
@@ -357,6 +240,7 @@ Claim Timestamp: 00:37:11
 Claim: The ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense.
 
 Anchored Artifacts: A-1912.1
+Mentions: N-69
 
 Related Nodes: N-1646
 
@@ -386,7 +270,7 @@ Claim: The FBI discontinued its comparative bullet lead analysis program in 2005
 
 Anchored Artifacts: A-1914.1
 
-Related Nodes: N-1642, N-1210, N-1211
+Related Nodes: N-1642
 
 Investigative Direction: Cross-reference the FBI's 2005 NAS report and PCast/NIST forensic science reviews; confirm current formal FBI policy position on CBLA use.
 
@@ -455,6 +339,7 @@ Claim Timestamp: 00:20:35
 Claim: The state indicated it intends to present at the preliminary hearing three categories of evidence: conclusory forensic DNA and ballistics reports authored by the FBI and ATF; phone and social media data testimony; and testimony by Tyler Robinson's parents and roommate.
 
 Anchored Artifacts: A-1912.1
+Mentions: N-69
 
 Related Nodes:
 
@@ -469,8 +354,9 @@ Claim Timestamp: 00:11:24
 Claim: In a September 20, 2025 X/Twitter post, Andrew Kolb wrote that the coroner found the bullet just beneath Charlie Kirk's skin.
 
 Anchored Artifacts: A-1913.1
+Mentions: N-1, N-42
 
-Related Nodes: N-1643
+Related Nodes: N-1151
 
 Investigative Direction: Obtain and verify the original X post timestamp, account status, and the underlying autopsy report's final disposition language.
 
@@ -483,8 +369,9 @@ Claim Timestamp: 00:12:07
 Claim: In the same September 20, 2025 post, Andrew Kolb attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was "like the man of steel" and that it was a miracle no one behind Kirk was struck.
 
 Anchored Artifacts: A-1913.1
+Mentions: N-1, N-42
 
-Related Nodes: N-1643, N-1214
+Related Nodes: N-1151
 
 Investigative Direction: Identify and depose the surgeon; compare quote against operative notes and any recorded statements.
 
@@ -525,6 +412,7 @@ Claim Timestamp: 00:59:52
 Claim: Kim Haven asserted in her YouTube comment that Frank Turek is "absolutely a liar" regarding his hospital account.
 
 Anchored Artifacts: A-1916.1
+Mentions: N-16
 
 Related Nodes:
 
@@ -539,6 +427,7 @@ Claim Timestamp: 00:59:52
 Claim: The host concurs with Kim Haven's assessment that Frank Turek's account of announcing "He's dead. He's dead" within ~30 minutes of hospital arrival is implausible.
 
 Anchored Artifacts: A-1916.1
+Mentions: N-16
 
 Related Nodes:
 
@@ -553,6 +442,7 @@ Claim Timestamp: 00:40:25
 Claim: The host concurs that the FBI's planned revival of comparative bullet lead analysis — a technique discontinued in 2005 — in the Tyler Robinson case is indicative of federal corruption.
 
 Anchored Artifacts: A-1912.1, A-1914.1
+Mentions: N-69
 
 Related Nodes: N-1642
 
@@ -567,8 +457,9 @@ Claim Timestamp: 00:09:57
 Claim: The host rejects the medical plausibility of Andrew Kolb's "man of steel"/bone-density framing in the September 20, 2025 tweet, asserting it is not how serious trauma surgeons communicate.
 
 Anchored Artifacts: A-1913.1
+Mentions: N-42
 
-Related Nodes: N-1643, N-1214
+Related Nodes: N-1151
 
 Investigative Direction: Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.
 

@@ -70,7 +70,7 @@
           "tags": [],
           "event_timestamp": "2025-09-11",
           "video_timestamp": "00:07:02–00:08:46",
-          "transcript_snippet": "He said he wrote me a letter on May 2nd this year. I called him and I spoke to him and I said, Please come to Israel.",
+          "transcript_snippet": "he said he wrote me a letter on on May 2nd this year. ... A few weeks before the tragedy yesterday, I I called him and I spoke to him and I said, \"Please come to Israel.\"",
           "confidence": "high"
         }
       ]
@@ -152,7 +152,7 @@
           "tags": [],
           "event_timestamp": "2025-09",
           "video_timestamp": "00:25:47–00:27:10",
-          "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.",
+          "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk um murder. ... I want you to, you know, make a statement.",
           "confidence": "high"
         }
       ]
@@ -180,7 +180,7 @@
           ],
           "tags": [],
           "event_timestamp": "pre-2025-09-10",
-          "video_timestamp": "00:28:14–00:29:54",
+          "video_timestamp": "00:30:28–00:32:08",
           "transcript_snippet": "Epstein was playing a part. Epstein was a larer… Members of Congress are actively being blackmailed.",
           "confidence": "high"
         }
@@ -236,8 +236,8 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T08:07",
-          "video_timestamp": "00:38:50–00:39:08",
-          "transcript_snippet": "At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.",
+          "video_timestamp": "00:39:49–00:40:07",
+          "transcript_snippet": "which shows a man at 8:07 a. m., so hours before the shooting, wearing a maroon t-shirt and light shorts, ... hands in his pockets, that is just walking outside of university grounds.",
           "confidence": "high"
         },
         {
@@ -255,8 +255,8 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T11:49",
-          "video_timestamp": "00:40:27–00:40:56",
-          "transcript_snippet": "At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.",
+          "video_timestamp": "00:41:53–00:42:22",
+          "transcript_snippet": "So, this is 11:49 a. m. Charlie Kirk has not yet been shot. ... you are going to see someone who appears to be limping.",
           "confidence": "high"
         },
         {
@@ -274,8 +274,8 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T12:29",
-          "video_timestamp": "00:43:37–00:43:56",
-          "transcript_snippet": "At 12:29 p.m., TMZ showing us that there's a person running through the backyard.",
+          "video_timestamp": "00:45:00–00:45:19",
+          "transcript_snippet": "Then at 12:29 p. m., um, we have TMZ showing us that the there's a person running through the backyard.",
           "confidence": "medium",
           "uncertainty_note": "Footage described as very grainy; feds have not confirmed it shows Robinson."
         }
@@ -303,7 +303,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
-          "video_timestamp": "00:39:36–00:39:55",
+          "video_timestamp": "00:40:45–00:41:04",
           "transcript_snippet": "Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
           "confidence": "high"
         },
@@ -322,7 +322,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "00:49:31–00:50:29",
+          "video_timestamp": "00:51:19–00:52:17",
           "transcript_snippet": "His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.",
           "confidence": "high"
         },
@@ -342,8 +342,8 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "00:49:51–00:49:59",
-          "transcript_snippet": "He has not confessed to authorities. He is not cooperating.",
+          "video_timestamp": "00:51:02–00:51:10",
+          "transcript_snippet": "he has not confessed to um to authorities. He he is he is uh he is not cooperating.",
           "confidence": "high"
         },
         {
@@ -362,8 +362,8 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "00:51:09–00:52:13",
-          "transcript_snippet": "Messages including a need to retrieve a rifle from a drop point, leaving the rifle in a bush, wrapped in a towel.",
+          "video_timestamp": "00:53:03–00:54:07",
+          "transcript_snippet": "a need to retrieve a rifle from a drop point, leaving the rifle in a bush, ... a message referring to having left the rifle wrapped in a towel.",
           "confidence": "high"
         }
       ]
@@ -388,7 +388,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09",
-          "video_timestamp": "00:52:53–00:53:10",
+          "video_timestamp": "00:54:19–00:54:36",
           "transcript_snippet": "Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.",
           "confidence": "high"
         }
@@ -473,7 +473,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:44:13–00:44:32",
+          "video_timestamp": "00:45:42–00:46:01",
           "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
           "confidence": "medium"
         },
@@ -491,7 +491,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:44:41–00:44:58",
+          "video_timestamp": "00:46:15–00:46:32",
           "transcript_snippet": "A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.",
           "confidence": "medium"
         }
@@ -516,7 +516,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:45:04–00:45:38",
+          "video_timestamp": "00:46:38–00:47:12",
           "transcript_snippet": "We get photos that are the shooter. This is when the FBI came out and said he's in a stairwell.",
           "confidence": "medium"
         }
@@ -1548,7 +1548,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:59",
+      "claim_timestamp": "00:01:41",
       "investigative_direction": "Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.",
       "transcript_snippet": "The cries of this widow will echo around the world like a battlecry.",
       "confidence": "high",
@@ -1572,7 +1572,7 @@
         "N-1071"
       ],
       "tags": [],
-      "claim_timestamp": "00:07:02",
+      "claim_timestamp": "00:07:05",
       "investigative_direction": "Verify timestamps of Netanyahu's two Fox News appearances relative to Kirk's death.",
       "transcript_snippet": "Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.",
       "confidence": "high",
@@ -1595,13 +1595,13 @@
         "N-1082"
       ],
       "tags": [],
-      "claim_timestamp": "00:07:26",
+      "claim_timestamp": "00:07:45",
       "investigative_direction": "Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt.",
       "transcript_snippet": "He said, One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1",
-        "N-65"
+        "N-65",
+        "N-1"
       ]
     },
     {
@@ -1617,7 +1617,7 @@
         "N-1082"
       ],
       "tags": [],
-      "claim_timestamp": "00:09:48",
+      "claim_timestamp": "00:10:35",
       "investigative_direction": "Compare full letter text against Netanyahu's quoted excerpt to determine actual content.",
       "transcript_snippet": "Charlie was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs.",
       "confidence": "medium",
@@ -1644,7 +1644,7 @@
         "N-1090"
       ],
       "tags": [],
-      "claim_timestamp": "00:10:51",
+      "claim_timestamp": "00:11:53",
       "investigative_direction": "Verify exact date of Megan Kelly interview and guest list complaints.",
       "transcript_snippet": "My moral character is now being put into question… they were threatening to pull out money.",
       "confidence": "high",
@@ -1670,7 +1670,7 @@
         "N-1000"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:01",
+      "claim_timestamp": "00:15:24",
       "investigative_direction": "Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.",
       "transcript_snippet": "An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.",
       "confidence": "medium",
@@ -1746,9 +1746,9 @@
         "N-1091"
       ],
       "tags": [],
-      "claim_timestamp": "00:25:47",
+      "claim_timestamp": "00:26:45",
       "investigative_direction": "Verify full interview and surrounding context of the question.",
-      "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.",
+      "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk um murder. ... I want you to, you know, make a statement.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-65",
@@ -1769,7 +1769,7 @@
         "N-1088"
       ],
       "tags": [],
-      "claim_timestamp": "00:28:14",
+      "claim_timestamp": "00:29:11",
       "investigative_direction": "Identify original source clip and verify exact wording of Kirk's commentary.",
       "transcript_snippet": "Epstein with his little friend Galain and Galain's father, Robert Maxwell, who is obviously a spy of the Israeli intelligence agencies.",
       "confidence": "high",
@@ -1793,13 +1793,12 @@
       "related_nodes": [
         "N-1076",
         "N-1077",
-        "N-1093",
-        "N-1089"
+        "N-1093"
       ],
       "tags": [],
-      "claim_timestamp": "00:38:50",
+      "claim_timestamp": "00:39:49",
       "investigative_direction": "Obtain timestamped original TMZ footage and verify chain of custody.",
-      "transcript_snippet": "At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.",
+      "transcript_snippet": "which shows a man at 8:07 a. m., so hours before the shooting, wearing a maroon t-shirt and light shorts, ... hands in his pockets, that is just walking outside of university grounds.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-69"
@@ -1815,11 +1814,10 @@
         "A-1089.1"
       ],
       "related_nodes": [
-        "N-1077",
-        "N-1089"
+        "N-1077"
       ],
       "tags": [],
-      "claim_timestamp": "00:39:36",
+      "claim_timestamp": "00:40:45",
       "investigative_direction": "Compare Cox's statement against UVU surveillance and TMZ footage for consistency.",
       "transcript_snippet": "Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
       "confidence": "high",
@@ -1842,9 +1840,9 @@
         "N-1084"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:27",
+      "claim_timestamp": "00:41:53",
       "investigative_direction": "Obtain doorbell camera source and chain of custody; verify timestamp.",
-      "transcript_snippet": "At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.",
+      "transcript_snippet": "So, this is 11:49 a. m. Charlie Kirk has not yet been shot. ... you are going to see someone who appears to be limping.",
       "confidence": "medium",
       "uncertainty_note": "Footage shown but host notes timestamp uncertainty about FBI arrival claim.",
       "mentions_person_refs": [
@@ -1862,7 +1860,7 @@
         "N-1089"
       ],
       "tags": [],
-      "claim_timestamp": "00:41:35",
+      "claim_timestamp": "00:42:47",
       "investigative_direction": "Cross-reference official timeline and autopsy report.",
       "transcript_snippet": "At 12:23 p.m. is when Charlie Kirk is shot.",
       "confidence": "high",
@@ -1905,13 +1903,12 @@
         "A-1088.3"
       ],
       "related_nodes": [
-        "N-1076",
-        "N-1089"
+        "N-1076"
       ],
       "tags": [],
-      "claim_timestamp": "00:43:37",
+      "claim_timestamp": "00:45:00",
       "investigative_direction": "Obtain original TMZ footage; verify timestamp and identity of runner.",
-      "transcript_snippet": "At 12:29 p.m., TMZ showing us that there's a person running through the backyard.",
+      "transcript_snippet": "Then at 12:29 p. m., um, we have TMZ showing us that the there's a person running through the backyard.",
       "confidence": "medium",
       "uncertainty_note": "Host notes footage is grainy; feds have not confirmed it shows Robinson.",
       "mentions_person_refs": [
@@ -1933,7 +1930,7 @@
         "N-1085"
       ],
       "tags": [],
-      "claim_timestamp": "00:44:13",
+      "claim_timestamp": "00:45:42",
       "investigative_direction": "Obtain FBI evidence photos and chain of custody for recovered rifle.",
       "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
       "confidence": "high",
@@ -1958,7 +1955,7 @@
         "N-1078"
       ],
       "tags": [],
-      "claim_timestamp": "00:44:41",
+      "claim_timestamp": "00:46:15",
       "investigative_direction": "Confirm with FBI evidence inventory and forensics report.",
       "transcript_snippet": "A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.",
       "confidence": "high"
@@ -1976,7 +1973,7 @@
         "N-1086"
       ],
       "tags": [],
-      "claim_timestamp": "00:50:18",
+      "claim_timestamp": "00:51:19",
       "investigative_direction": "Verify Cox's press conference transcript and corroborating FBI disclosure.",
       "transcript_snippet": "His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.",
       "confidence": "high",
@@ -1998,9 +1995,9 @@
         "N-1086"
       ],
       "tags": [],
-      "claim_timestamp": "00:49:51",
+      "claim_timestamp": "00:51:02",
       "investigative_direction": "Verify with subsequent FBI/AG press releases.",
-      "transcript_snippet": "He has not confessed to authorities. He is not cooperating.",
+      "transcript_snippet": "he has not confessed to um to authorities. He he is he is uh he is not cooperating.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-69",
@@ -2018,11 +2015,10 @@
         "A-1090.1"
       ],
       "related_nodes": [
-        "N-1078",
-        "N-1089"
+        "N-1078"
       ],
       "tags": [],
-      "claim_timestamp": "00:52:53",
+      "claim_timestamp": "00:54:19",
       "investigative_direction": "Obtain full Discord statement and any subsequent updates.",
       "transcript_snippet": "Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.",
       "confidence": "high",
@@ -2114,7 +2110,7 @@
         },
         {
           "episode": 2,
-          "video_timestamp": "00:21:07",
+          "video_timestamp": "00:21:38",
           "speaker_node_ref": "N-3",
           "quote": "Just take the last step, Charlie… you're too smart to be a Protestant.",
           "context": "Host recounts joking with Kirk about converting to Catholicism.",
@@ -2125,7 +2121,7 @@
         },
         {
           "episode": 2,
-          "video_timestamp": "00:21:15",
+          "video_timestamp": "00:21:51",
           "speaker_node_ref": "N-3",
           "quote": "You stop referring to yourself as I did as a Judeo-Christian.",
           "context": "Host notes that the 'Judeo-Christian' label is dropped as one converts.",
@@ -2145,7 +2141,7 @@
       "occurrences": [
         {
           "episode": 2,
-          "video_timestamp": "00:27:24",
+          "video_timestamp": "00:28:14",
           "speaker_node_ref": "N-3",
           "quote": "Guess we can't prod the narrative any further, guys. Holocaust.",
           "context": "Host frames Netanyahu's invocation of the Holocaust as a conversation-stopper that should not be heeded.",
@@ -2156,7 +2152,7 @@
         },
         {
           "episode": 2,
-          "video_timestamp": "00:29:39",
+          "video_timestamp": "00:30:41",
           "speaker_node_ref": "N-3",
           "quote": "The Epstein playbook is being used on a daily basis.",
           "context": "Host links Epstein blackmail pattern to ongoing pressure on conservative figures.",

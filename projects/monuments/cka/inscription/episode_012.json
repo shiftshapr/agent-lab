@@ -667,6 +667,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-128",
+      "ref": "N-128",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -686,7 +718,8 @@
       "claim_timestamp": "00:12:16–00:14:30",
       "investigative_direction": "Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1322) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.",
       "mentions_person_refs": [
-        "N-92"
+        "N-92",
+        "N-128"
       ]
     },
     {
@@ -743,7 +776,8 @@
       "claim_timestamp": "00:17:21–00:18:35",
       "investigative_direction": "Compare visible individuals in A-1185.1 with the two companions in the Broderick photo (A-1192.1); determine whether they are the same individuals.",
       "mentions_person_refs": [
-        "N-92"
+        "N-92",
+        "N-128"
       ]
     },
     {
@@ -762,7 +796,8 @@
       "claim_timestamp": "00:10:39–00:11:29",
       "investigative_direction": "Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates.",
       "mentions_person_refs": [
-        "N-184"
+        "N-184",
+        "N-183"
       ]
     },
     {
@@ -835,7 +870,8 @@
       "investigative_direction": "Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel.",
       "mentions_person_refs": [
         "N-102",
-        "N-186"
+        "N-186",
+        "N-1"
       ]
     },
     {
@@ -873,7 +909,8 @@
       "claim_timestamp": "00:34:37–00:35:21",
       "investigative_direction": "Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim.",
       "mentions_person_refs": [
-        "N-65"
+        "N-65",
+        "N-1"
       ]
     },
     {
@@ -888,7 +925,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:21–00:29:10",
-      "investigative_direction": "Obtain the underlying email and supplier invoices; verify whether any alternative armor was actually worn on September 10 and which vendor supplied it."
+      "investigative_direction": "Obtain the underlying email and supplier invoices; verify whether any alternative armor was actually worn on September 10 and which vendor supplied it.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -922,6 +962,26 @@
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
       "investigative_direction": "Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10.",
+      "mentions_person_refs": [
+        "N-186",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1335",
+      "ref": "C-1335",
+      "label": "Host calls Robert Bowles's move from decades in Washington to the Utah FBI post an unusual placement",
+      "claim": "The host says Robert Bowles, installed at the Utah FBI office in August 2025, had been in Washington DC for decades, and calls his relocation to Utah an unusual placement that adds to everything feeling \"a little too brand new.\"",
+      "anchored_artifacts": [
+        "A-1189.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:56–00:32:40",
+      "investigative_direction": "Confirm Robert Bowles's prior postings and the date of his Utah assignment from FBI announcements.",
+      "transcript_snippet": "he's somebody who has been in DC for decades. So, seems to me to be an unusual placement to then want to re-up your entire life",
+      "confidence": "medium",
       "mentions_person_refs": [
         "N-186"
       ]

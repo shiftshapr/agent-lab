@@ -428,7 +428,7 @@ Claim Timestamp: 00:06:31
 Claim: A Daily Wire producer contacted Maggie Wagner approximately two days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show to critique both sides of politics but centered on mocking Candace Owens and Tucker Carlson.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-640
+Mentions: N-640, N-50, N-3, N-133
 
 Related Nodes: N-1456
 
@@ -443,7 +443,7 @@ Claim Timestamp: 00:07:36
 Claim: The audition script and accompanying AI video sample sent to Maggie Wagner were entirely dedicated to making fun of Candace Owens, with the producer explicitly stating the show would mock Candace or Tucker when they "say something crazy."
 
 Anchored Artifacts: A-1587.1, A-1589.1
-Mentions: N-640
+Mentions: N-640, N-3
 
 Related Nodes: N-1456
 
@@ -473,7 +473,7 @@ Claim Timestamp: 00:24:45
 Claim: Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:00 PM Pacific, citing the company's handling of Michelle Fields' assault allegations against Corey Lewandowski.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-642, N-644, N-645
+Mentions: N-642, N-644, N-645, N-133
 
 Related Nodes: N-1457, N-1462
 
@@ -488,7 +488,7 @@ Claim Timestamp: 00:18:09
 Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitbart," "tried to take over David Horowitz's [organization]," and predicted he "will make a move on Turning Point."
 
 Anchored Artifacts: A-1591.1
-Mentions: N-641, N-642
+Mentions: N-641, N-642, N-278, N-133
 
 Related Nodes: N-1457
 
@@ -563,7 +563,7 @@ Claim Timestamp: 00:25:28
 Claim: Per Shapiro's own resignation statement, he was hired by Andrew Breitbart as editor-at-large of Breitbart News approximately two weeks before Andrew Breitbart's death on March 1, 2012.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-642
+Mentions: N-642, N-133
 
 Related Nodes: N-1457, N-1462
 

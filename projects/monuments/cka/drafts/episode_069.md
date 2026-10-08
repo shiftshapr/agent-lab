@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-898, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
-  - Reused Nodes Appearing: N-2
+  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
+  - Reused Nodes Appearing: N-2, N-628
   - (see registers)
 
 # Meta-Data
@@ -29,9 +29,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - Claim Range: C-2298–C-2311
-  - New Nodes Introduced (people): N-890, N-892, N-893, N-894, N-897, N-898
+  - New Nodes Introduced (people): N-890, N-892, N-893, N-894, N-897
   - New Nodes Introduced (investigation targets): N-1556, N-1557, N-1558, N-1559
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-628 (Emmanuel Macron)
 
 ---
 
@@ -147,7 +147,7 @@ Confidence Level: Low (verbally referenced; not visually confirmed as displayed 
 
 *Display/Read content: Host states she has reviewed text chains discussing "Mcronone's boyfriend" and that she was "shown a photo of Mcronone's boyfriend"; states additional emails reference Macron's sexuality; host references a Steve Bannon chat in the same set.*
 
-*Related: C-2306, N-898 (Emmanuel Macron)*
+*Related: C-2306, N-628 (Emmanuel Macron)*
 
 ---
 
@@ -317,7 +317,7 @@ Claim Count: 0 (as subject, not author of any claim in this episode)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1738.1, A-1738.2, A-1743.2, N-897 (Woody Allen), N-898 (Emmanuel Macron)*
+*Related: A-1738.1, A-1738.2, A-1743.2, N-897 (Woody Allen), N-628 (Emmanuel Macron)*
 
 **N-897** Woody Allen
 
@@ -330,7 +330,7 @@ Investigative Pressure: Low
 
 *Related: A-1738.1, N-35 (Epstein)*
 
-**N-898** Emmanuel Macron
+**N-628** Emmanuel Macron
 
 Subject of Epstein-files text chains cited by host; host asserts he has a "boyfriend" and is gay. Host consistently renders name as "Mcronone."
 
@@ -580,7 +580,7 @@ Claim Timestamp: 00:31:49
 Claim: The host states she has reviewed text chains discussing "Mcronone's boyfriend," that she was shown a photo of the boyfriend, and that other emails reference Macron's sexuality.
 
 Anchored Artifacts: A-1742.1
-Mentions: N-35, N-898
+Mentions: N-35, N-628
 
 
 Investigative Direction: Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.

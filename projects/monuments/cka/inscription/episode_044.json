@@ -679,6 +679,22 @@
         "N-524",
         "N-525"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -835,7 +851,8 @@
       "investigative_direction": "FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.",
       "mentions_person_refs": [
         "N-424",
-        "N-516"
+        "N-516",
+        "N-1"
       ]
     },
     {
@@ -970,7 +987,8 @@
       "claim_timestamp": "00:42:41–00:44:11",
       "investigative_direction": "Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.",
       "mentions_person_refs": [
-        "N-426"
+        "N-426",
+        "N-3"
       ]
     },
     {
@@ -987,7 +1005,28 @@
       "claim_timestamp": "00:43:32–00:44:11",
       "investigative_direction": "Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.",
       "mentions_person_refs": [
-        "N-426"
+        "N-426",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1896",
+      "ref": "C-1896",
+      "label": "Tim Pool says bullets were fired at his property and strangers broke into his Maryland house",
+      "claim": "In the same audio clip, Tim Pool contrasts his own situation with Candace Owens', saying bullets were fired at his property, that he had to go live in the middle of nowhere, and that strangers broke into his house in Maryland.",
+      "anchored_artifacts": [
+        "A-1524.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:32–00:44:11",
+      "investigative_direction": "Check police reports or public statements for the shooting and break-in incidents Tim Pool describes at his Maryland property.",
+      "transcript_snippet": "Meanwhile, I get bullets fired at my property and I have to go live in the middle of nowhere and I got strangers coming up to my house in in in Maryland breaking in.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-426",
+        "N-3"
       ]
     }
   ],

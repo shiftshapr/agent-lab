@@ -669,6 +669,38 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-835",
+      "ref": "N-835",
+      "name": "Peter Thiel",
+      "type": "person",
+      "description": "Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -686,7 +718,9 @@
       "claim_timestamp": "00:04:13",
       "investigative_direction": "Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-35",
+        "N-835"
       ]
     },
     {
@@ -862,7 +896,8 @@
       "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.",
       "mentions_person_refs": [
         "N-964",
-        "N-965"
+        "N-965",
+        "N-1"
       ]
     },
     {
@@ -881,7 +916,8 @@
       "claim_timestamp": "00:38:23",
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.",
       "mentions_person_refs": [
-        "N-37"
+        "N-37",
+        "N-965"
       ]
     },
     {

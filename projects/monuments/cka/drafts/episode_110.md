@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-57
+  - Reused Nodes Appearing: N-57
   - (see registers)
 
 ## I. Meta-Data
@@ -29,7 +29,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2076, A-2077, A-2078, A-2079, A-2080, A-2081, A-2082, A-2083, A-2084
   - Claim Range: C-2909–C-2933
-  - New Nodes Introduced (people): N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-42
+  - New Nodes Introduced (people): N-42
   - New Nodes Introduced (investigation targets): N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
 
 ---
@@ -58,7 +58,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068, N-57*
+*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-2066, N-2067, N-2068, N-57*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:25:40–00:36:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-curated; no underlying documents shown for most entries)
 
-*Related: C-2910, C-2921, C-2924, C-2928, C-2929, C-2930, N-2, N-1210, N-1211, N-1215, N-1216, N-1217, N-1222, N-1223, N-42, N-2069, N-2070, N-2071, N-2072, N-2073*
+*Related: C-2910, C-2921, C-2924, C-2928, C-2929, C-2930, N-2, N-42, N-2069, N-2070, N-2071, N-2072, N-2073*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:15:30–00:19:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (summarized on a third-party site by host; FT primary not directly shown)
 
-*Related: C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920, N-1213, N-2067, N-2068*
+*Related: C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920, N-2067, N-2068*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:19:30–00:20:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2921, C-2922, N-1211, N-1212, N-2068*
+*Related: C-2921, C-2922, N-2068*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:37:15–00:39:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (NYT)
 
-*Related: C-2925, C-2926, N-1219, N-1220, N-1221*
+*Related: C-2925, C-2926*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:46:40–00:47:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-sourced reference; primary X account not displayed)
 
-*Related: C-2927, N-1219, N-57*
+*Related: C-2927, N-57*
 
 ---
 
@@ -204,227 +204,6 @@ Confidence Level: Low (host acknowledges no independent confirmation)
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Newly identified VIP aboard Air Force designation SAM702 on September 9, 2025; serves as Under Secretary of War for Intelligence and Security (sworn in July 25, 2025); previously served in Navy and Army Special Forces Airborne Division; worked at Boston Consulting Group; served as Special Assistant to President Trump on National Security Affairs in Trump's first term.
-
-Evidence Count: 2
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2076.1, A-2076.2, A-2079.1, C-2909, C-2910, C-2911, C-2912, C-2913, N-2066, N-2069*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Secretary of War; Bradley Hansel's direct superior per DoW website description.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2079.1, C-2909*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Referenced as person who allegedly was seen at Fort Huachuca on September 9, 2025 morning; host states he has been "extremely reticent" to confirm or deny his presence.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2069*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Person aboard Egyptian plane SUBTU/SUBTV; host reports he was in Provo on June 2, 2025 and later departed Wilmington on the day of Charlie Kirk's assassination.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2076.2, N-2070*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-US Evangelical leader; appointed executive chairman of the Gaza Humanitarian Foundation per Times of Israel; previously part of the Cyrus Company duo with Andrew Kovac; abandoned the GHF chairmanship in November.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2076.1, A-2076.2, A-2078.1, C-2921, N-1212, N-2068*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Former CEO of Gaza Humanitarian Foundation; resigned prior to BCG withdrawal per Times of Israel article.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2078.1, C-2922, N-1211, N-2068*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-CEO of Boston Consulting Group; described Project Aurora episode as "reputationally very damaging" per Financial Times reporting.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2076.1, A-2077.1, C-2920, N-2066, N-2067*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Ex-CIA operative who worked for Orbis; per displayed graphic, BCG was chosen for Project Aurora due to "long-standing relationship" with Riley.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2076.1, C-2934*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Per host, had no prior writing profile before publishing first article for Jezebel in June 2025; per host, her Etsy witchcraft activity targeting Charlie Kirk has not been investigated by the press.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2076.2*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Heads Turning Point USA faith department; pastor at Calvary Chapel Long Beach where Erika Kirk spoke on July 14, 2025.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2076.2*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Former lead pastor of Calvary Church; resigned July 2, 2025 and announced move to Arizona per host.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2076.2*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Per host: Israeli spy; father of Ghislaine Maxwell (host spells "Elaine Maxwell"); one of the seed investors in Bain Capital at founding per host.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2076.1, C-2931*
-
----
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Per NYT article, was the 46-year-old driver of the car that struck Romney; host notes name not specified on-air but is given in NYT text as Albert Marie.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2081.1, C-2926, N-1220*
-
----
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Killed in June 16, 1968 car crash in France; wife of H. Dwayne Anderson (Mormon mission president); passenger in vehicle driven by Mitt Romney.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2081.1, C-2925, N-1221, N-57*
-
----
-
-**N-1221** Autopsy Record – Utah Privacy Statute Application
-
-President of the Mormon mission to France in 1968; husband of Leola Anderson (deceased).
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2081.1, N-1220*
-
----
-
-**N-1222** Hospital Routing Anomaly
-
-Per host, new CEO of a flight training school connected to a Tucson–Fort Huachuca flight; linked to "Rathon and North Brunman" (Raytheon and Northrop Grumman) per host.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2076.2*
-
----
-
-**N-1223** TPUSA Faith Packet / Israel References Claim
-
-Per host, source confirming Charlie Kirk's June 18 White House meeting date.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2076.2, N-2072*
-
----
-
 **N-2066** Boston Consulting Group Government Pipeline
 
 Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity ("who are they consulting for?").
@@ -434,7 +213,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.1, A-2077.1, A-2079.1, C-2913, C-2930, C-2931, N-1213, N-1218*
+*Related: A-2076.1, A-2077.1, A-2079.1, C-2913, C-2930, C-2931*
 
 ---
 
@@ -447,7 +226,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2077.1, C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920, N-1213*
+*Related: A-2077.1, C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920*
 
 ---
 
@@ -460,7 +239,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.1, A-2076.2, A-2077.1, A-2078.1, C-2921, C-2922, C-2923, C-2932, C-2933, C-2934, N-1211, N-1212, N-1214*
+*Related: A-2076.1, A-2076.2, A-2077.1, A-2078.1, C-2921, C-2922, C-2923, C-2932, C-2933, C-2934*
 
 ---
 
@@ -486,7 +265,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.2, A-2083.1, N-1210*
+*Related: A-2076.2, A-2083.1*
 
 ---
 
@@ -512,7 +291,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.2, N-1223, N-42*
+*Related: A-2076.2, N-42*
 
 ---
 
@@ -688,7 +467,7 @@ Claim: Per host reading, BCG dismissed two partners and launched an external aud
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-1213, N-2067
+Related Nodes: N-2067
 
 Investigative Direction: Confirm dismissals and audit via BCG press releases or FT follow-up reporting.
 
@@ -702,7 +481,7 @@ Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-1213, N-2067
+Related Nodes: N-2067
 
 Investigative Direction: Locate Schweizer's original statement in Financial Times coverage.
 
@@ -715,8 +494,9 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
+Mentions: N-696
 
-Related Nodes: N-1211, N-1212, N-2068
+Related Nodes: N-2068
 
 Investigative Direction: Verify appointment date and tenure length (host states Moore "eventually abandoned the project November").
 
@@ -730,7 +510,7 @@ Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake W
 
 Anchored Artifacts: A-2078.1
 
-Related Nodes: N-1211, N-1212, N-2068
+Related Nodes: N-2068
 
 Investigative Direction: Verify Jake Wood's resignation date and public statement.
 
@@ -773,7 +553,7 @@ Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in south
 Anchored Artifacts: A-2081.1
 Mentions: N-57
 
-Related Nodes: N-1219, N-1220, N-1221
+Related Nodes:
 
 Investigative Direction: Cross-check NYT article with contemporaneous French press; verify date.
 
@@ -787,7 +567,7 @@ Claim: Per NYT article, the driver of the car that struck Romney's was a 46-year
 
 Anchored Artifacts: A-2081.1
 
-Related Nodes: N-1219, N-1220
+Related Nodes:
 
 Investigative Direction: Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but "that assertion could not be confirmed."
 
@@ -802,7 +582,7 @@ Claim: Per viewer comment read on-air and host concurrence, Mitt Romney operated
 Anchored Artifacts: A-2082.1
 Mentions: N-57
 
-Related Nodes: N-1219
+Related Nodes:
 
 Investigative Direction: Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity.
 
@@ -815,6 +595,7 @@ Claim Timestamp: 00:28:30
 Claim: Per host's displayed working timeline, on June 19 — the second day Charlie Kirk was at the White House arguing against Iran involvement — Erika Kirk purged her Instagram, deleting 126 posts.
 
 Anchored Artifacts: A-2076.2
+Mentions: N-1, N-2
 
 Related Nodes: N-2072
 
@@ -844,9 +625,9 @@ Claim Timestamp: 00:10:30
 Claim: Per host (recapping prior episodes) and per the on-screen connection graphic, Mitt Romney and Benjamin Netanyahu both worked at the Boston Consulting Group.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-57
+Mentions: N-57, N-65
 
-Related Nodes: N-1218, N-2066
+Related Nodes: N-2066
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 
@@ -859,9 +640,9 @@ Claim Timestamp: 00:10:30
 Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital with Israeli spy Robert Maxwell (father of Ghislaine Maxwell, host spelling) as one of his seed investors.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-57
+Mentions: N-57, N-76, N-77
 
-Related Nodes: N-1218, N-2066
+Related Nodes: N-2066
 
 Investigative Direction: Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.
 
@@ -903,7 +684,7 @@ Claim: Per the displayed on-screen graphic and host description, BCG was chosen 
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-1214, N-2068
+Related Nodes: N-2068
 
 Investigative Direction: Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.
 

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2190, N-2191, N-2192
-  - Reused Nodes Appearing: N-2, N-1207, N-46
+  - Reused Nodes Appearing: N-2, N-46
   - (see registers)
 
 # Episode 140 — Analysis Record
@@ -33,7 +33,7 @@
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
-  - New People Nodes Introduced: N-1207
+  - New People Nodes Introduced: none (Wave 2: local ids removed)
   - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
   - New Investigation Target Nodes: N-2190, N-2191, N-2192
 
@@ -306,19 +306,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Newly identified individual in this episode. Linked to the "No Soup For You" / "No Soup For Noels" X account and to the "Protect Erika Kirk" 92-member group chat. Cited as approximately 45 years old with a prior-year DUI on record.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2273.1, A-2273.2, A-2273.3, C-3269, C-3270, C-3271*
-
----
-
 **N-2190** Parking-Garage Subject Identity Discrepancy
 
 Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).
@@ -418,6 +405,7 @@ Claim Timestamp: 00:06:12
 Claim: In the period immediately following the public release of Tyler Robinson's name, news outlets globally used photos of him in maroon shirts, including childhood images, as the primary visual identifier.
 
 Anchored Artifacts: A-2268.1, A-2268.2
+Mentions: N-69
 
 Related Nodes:
 
@@ -432,6 +420,7 @@ Claim Timestamp: 00:07:34
 Claim: The host states that a screen-recorded review of the mother's Facebook showed many photos of Tyler Robinson in blue, white, and green shirts, contradicting the maroon-only impression seeded by media selection.
 
 Anchored Artifacts: A-2268.3
+Mentions: N-69
 
 Related Nodes:
 
@@ -446,6 +435,7 @@ Claim Timestamp: 00:11:14
 Claim: The host presents a photo of Lance Twigs eating with his left hand and references prior observations (gas pumping, snowboarding, watch-wearing on piano) as consistent with left-handedness.
 
 Anchored Artifacts: A-2269.1
+Mentions: N-84
 
 Related Nodes: N-2192
 
@@ -460,6 +450,7 @@ Claim Timestamp: 00:18:42
 Claim: According to Agent Hoole's testimony as played in the episode, the suspect vehicle "made contact with an officer that was doing security detail," identified as Officer Goforth.
 
 Anchored Artifacts: A-2270.1
+Mentions: N-69
 
 Related Nodes:
 
@@ -474,6 +465,7 @@ Claim Timestamp: 00:27:34
 Claim: High-resolution photos from George Zinn's arrest show an unidentified thicker device that appears to be a walkie-talkie-style or satellite-phone-style device hanging or fallen near his pants/ankle.
 
 Anchored Artifacts: A-2271.1, A-2272.1
+Mentions: N-71
 
 Related Nodes: N-2191
 
@@ -488,7 +480,7 @@ Claim Timestamp: 00:28:34
 Claim: The host describes a group chat of 92 individuals focused on monitoring and opposing Candace Owens's coverage, with toxic elements including interest in the host's residence and family.
 
 Anchored Artifacts: (no on-screen artifact displayed in this episode; reported via exiting member)
-Mentions: N-2
+Mentions: N-2, N-3
 
 
 Investigative Direction: Obtain independent verification of membership size, group origin date, and named administrators.
@@ -518,7 +510,7 @@ Claim Timestamp: 00:33:27
 Claim: A tweet-counter account shows that "No Soup For You" sent 4,040 tweets about Candace Owens between Charlie Kirk's assassination and the date of the count.
 
 Anchored Artifacts: A-2273.3
-Mentions: N-3
+Mentions: N-3, N-1
 
 
 Investigative Direction: Obtain the underlying tweet-counter screenshot and verify date range and account identifier.
@@ -560,7 +552,7 @@ Claim Timestamp: 00:46:41
 Claim: Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.
 
 Anchored Artifacts: A-2275.1
-Mentions: N-1
+Mentions: N-1, N-272
 
 
 Investigative Direction: Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.
@@ -588,6 +580,7 @@ Claim Timestamp: 00:52:51
 Claim: The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.
 
 Anchored Artifacts: A-2275.5 (and underlying court exhibits — not displayed in this episode)
+Mentions: N-69
 
 Related Nodes: N-2192
 

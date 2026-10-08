@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1726, N-1727, N-1728, N-1729, N-1730, N-1731
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218
+  - Reused Nodes Appearing: N-2391
   - (see registers)
 
 ## 2. Executive Summary
@@ -50,7 +50,7 @@ Video Timestamp: 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2834, C-2835, C-2836, N-631 (Daily Wire)*
+*Related: C-2834, C-2835, C-2836, N-2391*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:09:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2837, C-2838, C-2839, C-2840, N-1211*
+*Related: C-2837, C-2838, C-2839, C-2840*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:37:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2844, C-2845, N-1210, N-1727, N-1728*
+*Related: C-2844, C-2845, N-1727, N-1728*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2845, C-2846, C-2847, C-2851, N-1210, N-1727*
+*Related: C-2845, C-2846, C-2847, C-2851, N-1727*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:40:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2848, N-1213, N-1728*
+*Related: C-2848, N-1728*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2850, N-1212, N-1731*
+*Related: C-2850, N-1731*
 
 ---
 
@@ -228,7 +228,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:54:14
 Confidence Level: High
 
-*Related: N-1215, N-1216, N-1726*
+*Related: N-1726*
 
 **A-2040.7** Arcole $100 donation
 
@@ -359,167 +359,11 @@ Video Timestamp: 00:44:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2846, N-1210, N-1728*
+*Related: C-2846, N-1728*
 
 ---
 
 ## 4. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Lawyer for the firm representing Brian Harpole in current lawsuit; previously represented Ben Shapiro in arbitration against Candace Owens for ~2 years. Slauson's X wall displayed heavy retweeting of Laura Loomer attacks before posting the lawsuit.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2041.1, A-2042.1, C-2851, C-2852, N-1726*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Partner at the firm representing Brian Harpole; reportedly Ben Shapiro's brother-in-law (married to Shapiro's sister since 2018 per host).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2042.1, A-2043.1, C-2852, C-2853, N-1726*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Plaintiff in lawsuit against Candace Owens that arrived at the Charlotte airport in the week prior. Lawsuit filed via Slauson/Roth firm.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2042.1, A-2040.3, C-2852, C-2855, N-1726, N-1731*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Principal of Show Faith by Works LLC; prominent Christian conservative activist in California; the FARA-registered entity executing Israel's Christian geofencing campaign.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2035.1, A-2036.1, C-2844, C-2845, N-1727, N-1728*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-X user who authored the read-aloud business analysis of Daily Wire's collapse (170M → 22M monthly YouTube views; ~60% workforce reduction; comparison to Tucker Carlson / Megyn Kelly exits).
-
-Evidence Count: 1
-Claim Count: 0 (the post itself is A-2031.1; claim anchors derive from it)
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2031.1, C-2837, C-2838, C-2839, C-2840*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Host of a separate show whose on-air reading of a viewer comment allegedly documenting Laura Loomer coordination at the Charlotte airport is displayed in this episode.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2039.1, C-2850, N-1731*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Turning Point USA figure who publicly stated partners geotagged 277,000 devices at the State Farm Stadium memorial. Reportedly seated with Harmeet Dhillon at the White House Correspondents Dinner.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2037.1, C-2848, N-1728*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Ben Shapiro's reported uncle; host alleges (with stated uncertainty) that he transferred uranium to Israel; host suggests prior "anti-Semitism" defense shielded him from prosecution.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1729*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Attorney for Justin Baldoni in the Blake Lively case referenced in A-2040.6.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2040.6*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-PR team member for Justin Baldoni in the Blake Lively case, cited alongside Friedman.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2040.6*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Individual referenced in accusations against the host's husband of a hit-and-run incident, denied by the host.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N/A*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Security figure mentioned by host as having been cooperatively worked with; named alongside Brian Harpole as a potential target for subpoena discovery if the Harpole case proceeds.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1726*
-
----
 
 **N-1726** Brian Harpole Lawsuit Coordination Question
 
@@ -530,7 +374,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2042.1, A-2041.1, A-2043.1, A-2040.3, A-2038.1, A-2034.1, C-2851, C-2852, C-2853, C-2855, N-1218*
+*Related: A-2042.1, A-2041.1, A-2043.1, A-2040.3, A-2038.1, A-2034.1, C-2851, C-2852, C-2853, C-2855*
 
 ---
 
@@ -543,7 +387,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2036.1, A-2035.1, A-2040.8, C-2847, C-2851, N-1210*
+*Related: A-2036.1, A-2035.1, A-2040.8, C-2847, C-2851*
 
 ---
 
@@ -556,7 +400,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2036.1, A-2037.1, A-2044.1, A-2040.1, C-2846, C-2848, N-1210, N-1213*
+*Related: A-2036.1, A-2037.1, A-2044.1, A-2040.1, C-2846, C-2848*
 
 ---
 
@@ -569,7 +413,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1214*
+*Related:*
 
 ---
 
@@ -595,7 +439,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2039.1, A-2034.1, A-2041.1, C-2843, C-2850, N-1212*
+*Related: A-2039.1, A-2034.1, A-2041.1, C-2843, C-2850*
 
 ---
 
@@ -649,7 +493,7 @@ Claim: An X analysis by Akash Gupta quantified Shapiro's YouTube monthly viewers
 
 Anchored Artifacts: A-2031.1
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Verify via third-party YouTube analytics services (e.g., Social Blade).
 
@@ -663,7 +507,7 @@ Claim: The X analysis cited LayoffHedge.com estimates of cumulative Daily Wire w
 
 Anchored Artifacts: A-2031.1
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Independently query LayoffHedge.com archive and corroborate with WARN Act filings in Tennessee.
 
@@ -678,7 +522,7 @@ Claim: The X analysis stated the host reached 5.5 million YouTube subscribers an
 Anchored Artifacts: A-2031.1
 Mentions: N-3
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Cross-check via YouTube studio public metrics.
 
@@ -717,6 +561,7 @@ Claim Timestamp: 00:32:50
 Claim: Laura Loomer tweeted the host was "having a bad week almost like she got ambushed."
 
 Anchored Artifacts: A-2034.1
+Mentions: N-3, N-91
 
 Related Nodes: N-1726, N-1731
 
@@ -730,7 +575,7 @@ Claim: A Times of Israel article reported Israel's Foreign Ministry plans to spe
 
 Anchored Artifacts: A-2035.1
 
-Related Nodes: N-1210, N-1727, N-1728
+Related Nodes: N-1727, N-1728
 
 Investigative Direction: Cross-check against the original FARA filing in DOJ FARA database.
 
@@ -744,7 +589,7 @@ Claim: The FARA registration for Show Faith by Works LLC identifies Chad Schnitk
 
 Anchored Artifacts: A-2035.1, A-2036.1
 
-Related Nodes: N-1210, N-1727
+Related Nodes: N-1727
 
 ---
 
@@ -755,8 +600,9 @@ Claim Timestamp: 00:36:00
 Claim: Show Faith by Works LLC began its FARA contracting registration approximately eight days after Charlie Kirk's assassination.
 
 Anchored Artifacts: A-2036.1
+Mentions: N-1
 
-Related Nodes: N-1210, N-1727
+Related Nodes: N-1727
 
 ---
 
@@ -767,8 +613,9 @@ Claim Timestamp: 00:36:00
 Claim: Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], followed by the public funeral of Charlie Kirk.
 
 Anchored Artifacts: A-2036.1, A-2044.1
+Mentions: N-1
 
-Related Nodes: N-1210, N-1727, N-1728
+Related Nodes: N-1727, N-1728
 
 Investigative Direction: Confirm contract date and counterparty from FARA filing.
 
@@ -781,8 +628,9 @@ Claim Timestamp: 00:40:12
 Claim: Andrew Kolvet announced on Jesse's program that partners geotagged over 277,000 devices in the vicinity of State Farm Stadium during the memorial.
 
 Anchored Artifacts: A-2037.1
+Mentions: N-42
 
-Related Nodes: N-1213, N-1728
+Related Nodes: N-1728
 
 ---
 
@@ -793,7 +641,7 @@ Claim Timestamp: 00:22:03
 Claim: On his Friday show, Ben Shapiro stated that audience members of the host "foment this sort of evil" by allowing her to monetize it through advertising.
 
 Anchored Artifacts: A-2038.1
-Mentions: N-3
+Mentions: N-3, N-133
 
 Related Nodes: N-1726
 
@@ -806,8 +654,9 @@ Claim Timestamp: 00:31:50
 Claim: On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was contacted by "Larry L" to photograph the host at the Charlotte airport at the moment the lawsuit email arrived.
 
 Anchored Artifacts: A-2039.1
+Mentions: N-552, N-91
 
-Related Nodes: N-1212, N-1731
+Related Nodes: N-1731
 
 ---
 
@@ -818,6 +667,7 @@ Claim Timestamp: 00:33:10
 Claim: The host reported observing on Matt Slauson's X wall that before acknowledging the lawsuit he had heavily retweeted Laura Loomer and her attacks on the host's family.
 
 Anchored Artifacts: A-2041.1
+Mentions: N-91
 
 Related Nodes: N-1726, N-1731
 
@@ -832,6 +682,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; host states Roth has been married to Ben Shapiro's sister since 2018.
 
 Anchored Artifacts: A-2042.1
+Mentions: N-424, N-133
 
 Related Nodes: N-1726
 
@@ -846,6 +697,7 @@ Claim Timestamp: 00:33:10
 Claim: Jacob William Roth retweeted the Brian Harpole lawsuit document.
 
 Anchored Artifacts: A-2043.1
+Mentions: N-424
 
 Related Nodes: N-1726
 
@@ -873,6 +725,7 @@ Claim Timestamp: 00:49:43
 Claim: A live chat donation stated that pursuing the lawsuit to discovery stage could enable access to underlying evidence in the Charlie Kirk matter.
 
 Anchored Artifacts: A-2040.3
+Mentions: N-1
 
 Related Nodes: N-1726
 

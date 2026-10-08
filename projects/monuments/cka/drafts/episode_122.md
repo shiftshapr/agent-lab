@@ -29,7 +29,7 @@
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
   - New Nodes Introduced: N-2094, N-2095, N-2096, N-2097, N-2098, N-2099, N-2100, N-2101, N-2102
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1219, N-1220, N-1221, N-37
+  - Reused Nodes Appearing: N-37
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
 
 ---
@@ -164,162 +164,6 @@ Confidence Level: High
 
 ## People
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Audience attendee identified post-event; subject of host's investigative focus due to claimed military background and alleged Romania deployment.
-
-Evidence Count: 5
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2105.1, A-2105.2, A-2106.1, A-2107.1, A-2107.2, C-2971, C-2972, C-2973, C-2974, C-2975, C-2976, C-2977*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Listed as having been in the car transporting Charlie Kirk; now contradicting Brian Harpole's account of CPR and wound observations.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2109.1, C-2979, C-2980, N-2097*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Founder of MC2 modeling agency; alleged co-founder of Next Model Corporation; deceased subject of trafficking investigations.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1220, N-2096*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Operator of Next Model Management; alleged co-founder with Jean-Luc Brunel.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2096*
-
-**N-1211** UVU Campus Familiarity Question
-
-Identified as Nevada National Guard lieutenant colonel (military police); deployed to Romania in same timeframe as Rawlinson.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1212, N-2095*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Identified as brother of Curtis Colvett.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1211*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Witness whose account of wound location shifted; family identified as connected to 911 dispatch services and Carbyne (Ehud Barak).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2098*
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Identified as having been in the Executive Office Building (Washington, D.C.) during apparent Charlie Kirk Show appearance.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2099*
-
-**N-1215** Hospital Routing Discrepancy
-
-Tyler Robinson's alleged roommate; suspected by host of being the maroon-shirted individual in audience footage; suspected by host of having set up Tyler Robinson.
-
-Evidence Count: 0
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: C-2983, C-2984, N-2100, N-2101*
-
-**N-1216** Utah FBI Personnel Replacement
-
-Subject of FOIA request for travel schedule September 7-10.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2098*
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Former "senior consultant to the Department of War"; identified by host as having moved to Arizona to work with Turning Point USA on information warfare.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2102*
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Identified as last person to mic Charlie Kirk; father's global ministry in Romania referenced.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2095*
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Identified as Jean-Luc Brunel's brother and co-founder of Next Model Corporation.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2096*
-
-**N-1221** Autopsy Record – Utah Privacy Statute Application
-
-Host cites his show as source for the maroon beret / Rawlinson connection.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related:*
-
----
-
 ## Investigation Targets
 
 **N-2094** Maroon Shirt Audience Identification
@@ -342,7 +186,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-1211, N-70, N-1219, N-37*
+*Related: A-2107.1, C-2976, N-70, N-37*
 
 **N-2096** Next Model Management / MC2 Trafficking Connection to Erica Kirk
 
@@ -353,7 +197,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2981, N-1210, N-1220, N-2*
+*Related: C-2981, N-2*
 
 **N-2097** Brian Harpole vs Frank Turek CPR Contradiction
 
@@ -375,7 +219,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2982, N-1213, N-1216*
+*Related: C-2982*
 
 **N-2099** Andrew Kolbenschlag EEOB Presence / Kash Patel Connection
 
@@ -386,7 +230,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2985, N-1214*
+*Related: C-2985*
 
 **N-2100** Lance Twiggs Maroon Shirt Identification
 
@@ -397,7 +241,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2983, N-1215*
+*Related: C-2983*
 
 **N-2101** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
@@ -408,7 +252,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2984, N-1215*
+*Related: C-2984*
 
 **N-2102** Mossad "Truman Show" Analogy Application
 
@@ -419,7 +263,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (interpretive framing)
 
-*Related: A-2108.1, C-2978, N-1217*
+*Related: A-2108.1, C-2978*
 
 ---
 
@@ -441,6 +285,7 @@ Claim Timestamp: 00:02:03
 Claim: A series of photographs displayed during the episode depicts multiple young men in maroon shirts standing alone in the Charlie Kirk event audience on September 10.
 
 Anchored Artifacts: A-2104.1
+Mentions: N-1
 Related Nodes: N-2094
 Investigative Direction: Cross-reference photographs with attendee registration, social media, and military records to identify individuals.
 
@@ -477,6 +322,7 @@ Claim Timestamp: 00:07:09
 Claim: A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
 
 Anchored Artifacts: A-2105.2
+Mentions: N-1
 Related Nodes:
 Investigative Direction: Identify the second individual and confirm umbrellas' purpose and provenance.
 
@@ -561,6 +407,7 @@ Claim Timestamp: 00:32:34
 Claim: A podcast audio clip of Frank Turek, played during the episode, contains his statement that he did not believe there was an exit wound on the back of Charlie Kirk's neck during the car transport.
 
 Anchored Artifacts: A-2109.1
+Mentions: N-1, N-16
 Related Nodes: N-2097
 Investigative Direction: Compare against the official autopsy report and Brian Harpole's prior podcast statements.
 
@@ -573,6 +420,7 @@ Claim Timestamp: 00:32:34
 Claim: The same podcast audio clip of Frank Turek contains his statement that he was "sometimes doing CPR" with Charlie "a foot away."
 
 Anchored Artifacts: A-2109.1
+Mentions: N-1, N-16
 Related Nodes: N-2097
 Investigative Direction: Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound.
 
@@ -586,7 +434,7 @@ Claim: During the episode, the host asserts that multiple people with direct kno
 
 Anchored Artifacts: None displayed in this episode (host assertion referencing prior Epstein-series content)
 Mentions: N-2
-Related Nodes: N-1210, N-1220, N-2096
+Related Nodes: N-2096
 Investigative Direction: Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.
 *Flag: Claim failed admission test on artifact anchor — host assertion only; underlying lawsuit referenced but not displayed.*
 
@@ -599,7 +447,8 @@ Claim Timestamp: 00:43:06–00:45:23
 Claim: The host states the team has filed FOIA requests to the NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erica), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
 
 Anchored Artifacts: None displayed
-Related Nodes: N-2098, N-1216, N-1213
+Mentions: N-102
+Related Nodes: N-2098
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
 *Flag: Claim failed admission test on artifact anchor — host assertion only.*
 
@@ -612,7 +461,8 @@ Claim Timestamp: 01:00:41
 Claim: During the episode, the host identifies Lance Twiggs as the individual walking in a maroon shirt in audience footage from the same day.
 
 Anchored Artifacts: None displayed (referenced footage from prior episode)
-Related Nodes: N-1215, N-2100
+Mentions: N-84
+Related Nodes: N-2100
 Investigative Direction: Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses.
 *Flag: Claim failed admission test on artifact anchor — host assertion referencing footage from prior episode.*
 
@@ -625,7 +475,8 @@ Claim Timestamp: 01:00:41
 Claim: During the episode, the host states her belief, based on evidence presented thus far, that Tyler Robinson did not kill Charlie Kirk and was set up by Lance Twiggs.
 
 Anchored Artifacts: None displayed in this episode
-Related Nodes: N-1215, N-2101
+Mentions: N-69, N-1, N-84
+Related Nodes: N-2101
 Investigative Direction: Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint.
 *Flag: Claim failed admission test on artifact anchor — host belief/interpretation.*
 
@@ -638,7 +489,8 @@ Claim Timestamp: 00:44:23–00:46:13
 Claim: The host states Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.
 
 Anchored Artifacts: None displayed
-Related Nodes: N-1214, N-2099
+Mentions: N-42, N-102
+Related Nodes: N-2099
 Investigative Direction: Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline.
 *Flag: Claim failed admission test on artifact anchor — host assertion only.*
 

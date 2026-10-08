@@ -1066,6 +1066,55 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-78",
+      "ref": "N-78",
+      "name": "Max Blumenthal",
+      "type": "person",
+      "description": "Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "confidence": "high",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1086,7 +1135,9 @@
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.",
       "mentions_person_refs": [
-        "N-86"
+        "N-86",
+        "N-1",
+        "N-5"
       ]
     },
     {
@@ -1142,7 +1193,8 @@
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Verify the full memorial transcript and locate the segment within the recording.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-50"
       ]
     },
     {
@@ -1217,7 +1269,8 @@
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.",
       "mentions_person_refs": [
-        "N-86"
+        "N-86",
+        "N-1"
       ]
     },
     {
@@ -1238,7 +1291,8 @@
       "investigative_direction": "Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.",
       "mentions_person_refs": [
         "N-86",
-        "N-243"
+        "N-243",
+        "N-1"
       ]
     },
     {
@@ -1257,8 +1311,8 @@
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Verify full Wolicki interview; obtain unedited transcript.",
       "mentions_person_refs": [
-        "N-1",
-        "N-229"
+        "N-229",
+        "N-1"
       ]
     },
     {
@@ -1297,7 +1351,8 @@
       "investigative_direction": "Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.",
       "mentions_person_refs": [
         "N-235",
-        "N-238"
+        "N-238",
+        "N-3"
       ]
     },
     {
@@ -1319,7 +1374,10 @@
         "N-68",
         "N-128",
         "N-233",
-        "N-242"
+        "N-242",
+        "N-50",
+        "N-78",
+        "N-3"
       ]
     },
     {
@@ -1407,7 +1465,8 @@
       "claim_timestamp": "00:07:54",
       "investigative_direction": "Capture and verify direct screenshots of Bowyer's X posts.",
       "mentions_person_refs": [
-        "N-37"
+        "N-37",
+        "N-3"
       ]
     },
     {

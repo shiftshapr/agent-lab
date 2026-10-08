@@ -33,7 +33,6 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-1218",
             "N-1668"
           ],
           "tags": [],
@@ -109,9 +108,6 @@
             "C-2687"
           ],
           "related_nodes": [
-            "N-1212",
-            "N-1",
-            "N-1211",
             "N-1672"
           ],
           "tags": [],
@@ -140,7 +136,6 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-1234",
             "N-1671"
           ],
           "tags": [],
@@ -159,8 +154,6 @@
             "C-2688"
           ],
           "related_nodes": [
-            "N-1216",
-            "N-1234",
             "N-1671"
           ],
           "tags": [],
@@ -186,10 +179,7 @@
           "related_claims": [
             "C-2689"
           ],
-          "related_nodes": [
-            "N-1214",
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -213,10 +203,7 @@
           "related_claims": [
             "C-2690"
           ],
-          "related_nodes": [
-            "N-1213",
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -240,9 +227,7 @@
           "related_claims": [
             "C-2691"
           ],
-          "related_nodes": [
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -268,7 +253,6 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-1233",
             "N-1673"
           ],
           "tags": [],
@@ -337,300 +321,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Subject of Kolvet interview artifact (admission of forcing Ben interview) and host claims about ADF involvement.",
-      "related_artifacts": [
-        "A-1950.1"
-      ],
-      "related_claims": [
-        "C-2687"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1671"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Speaker in artifact A-1950.1; admitted receipt of Charlie GPT pitches.",
-      "related_artifacts": [
-        "A-1950.1"
-      ],
-      "related_claims": [
-        "C-2686"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1672"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Subject of Trump Truth Social post and papal response video.",
-      "related_artifacts": [
-        "A-1952.1",
-        "A-1953.1"
-      ],
-      "related_claims": [
-        "C-2689",
-        "C-2690"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1214"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Subject of Truth Social artifact, papal response artifact, and press-conference artifact.",
-      "related_artifacts": [
-        "A-1952.1",
-        "A-1953.1",
-        "A-1954.1"
-      ],
-      "related_claims": [
-        "C-2689",
-        "C-2690",
-        "C-2691"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Robinson's roommate; referenced in court-filing artifact and Discord statement.",
-      "related_artifacts": [
-        "A-1948.2",
-        "A-1955.1"
-      ],
-      "related_claims": [
-        "C-2684"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1670",
-        "N-1673"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Daily Wire CEO; artifact-anchored as holding ADF board seat.",
-      "related_artifacts": [
-        "A-1951.2"
-      ],
-      "related_claims": [
-        "C-2688"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1671"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Utah attorney named by Tyler Robinson during Mirandization in A-1948.1.",
-      "related_artifacts": [
-        "A-1948.1"
-      ],
-      "related_claims": [
-        "C-2683"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1668"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Investigative source whose filing discovery is referenced by host; no displayed artifact.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Referenced by host as ADF-connected (per insider emails); no direct artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Subject of host's personal anecdote; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "TPUSA figure referenced as press officer / video gatekeeper; no direct artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Referenced as Trump advisor; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "Referenced as Trump advisor; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1224",
-      "ref": "N-1224",
-      "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
-      "description": "Referenced in connection with Paula White prayer; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1225",
-      "ref": "N-1225",
-      "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
-      "description": "Referenced as giving press conference about 9 p.m. arrival; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1226",
-      "ref": "N-1226",
-      "name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "investigation_target",
-      "description": "Referenced as claiming \"33rd hour\" booking; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1227",
@@ -723,56 +413,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1233",
-      "ref": "N-1233",
-      "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
-      "description": "Institutional subject of A-1955.1 statement.",
-      "related_artifacts": [
-        "A-1955.1"
-      ],
-      "related_claims": [
-        "C-2692"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-69",
-        "N-1673"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1234",
-      "ref": "N-1234",
-      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
-      "description": "Institutional subject of A-1951.1 and A-1951.2.",
-      "related_artifacts": [
-        "A-1951.1",
-        "A-1951.2"
-      ],
-      "related_claims": [
-        "C-2687",
-        "C-2688"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-1216",
-        "N-1219",
-        "N-1671"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1235",
       "ref": "N-1235",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
@@ -807,8 +447,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-69",
-        "N-1217"
+        "N-69"
       ]
     },
     {
@@ -855,8 +494,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-69",
-        "N-1215"
+        "N-69"
       ]
     },
     {
@@ -878,13 +516,7 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-1216",
-        "N-1219",
-        "N-1234"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -905,7 +537,6 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1212",
         "N-1"
       ]
     },
@@ -929,9 +560,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-69",
-        "N-1215",
-        "N-1233"
+        "N-69"
       ]
     },
     {
@@ -997,6 +626,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1010,7 +671,6 @@
         "A-1948.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1668"
       ],
       "tags": [],
@@ -1029,9 +689,7 @@
       "anchored_artifacts": [
         "A-1948.1"
       ],
-      "related_nodes": [
-        "N-1217"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:31",
       "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp.",
@@ -1049,7 +707,6 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1670"
       ],
       "tags": [],
@@ -1089,14 +746,13 @@
         "A-1950.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1672"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
       "investigative_direction": "Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.",
       "mentions_person_refs": [
-        "N-1"
+        "N-42"
       ]
     },
     {
@@ -1109,7 +765,6 @@
         "A-1951.1"
       ],
       "related_nodes": [
-        "N-1234",
         "N-1671"
       ],
       "tags": [],
@@ -1130,8 +785,6 @@
         "A-1951.2"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1234",
         "N-1671"
       ],
       "tags": [],
@@ -1147,10 +800,7 @@
       "anchored_artifacts": [
         "A-1952.1"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:52:54",
       "investigative_direction": "Retrieve the original Truth Social post and engagement metrics."
@@ -1164,10 +814,7 @@
       "anchored_artifacts": [
         "A-1953.1"
       ],
-      "related_nodes": [
-        "N-1213",
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:23",
       "investigative_direction": "Obtain the original Vatican source video and transcript."
@@ -1181,9 +828,7 @@
       "anchored_artifacts": [
         "A-1954.1"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Verify clip against White House press transcript."
@@ -1198,8 +843,6 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-1215",
-        "N-1233",
         "N-1673"
       ],
       "tags": [],
@@ -1258,7 +901,6 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1670",
         "N-1673"
       ],
@@ -1266,7 +908,8 @@
       "claim_timestamp": "00:47:50",
       "investigative_direction": "Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.",
       "mentions_person_refs": [
-        "N-69"
+        "N-69",
+        "N-84"
       ]
     },
     {
@@ -1279,10 +922,7 @@
         "A-1952.1",
         "A-1953.1"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:46–00:58:29",
       "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps."
@@ -1297,8 +937,6 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-1215",
-        "N-1233",
         "N-1673"
       ],
       "tags": [],

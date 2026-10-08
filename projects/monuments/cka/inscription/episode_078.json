@@ -994,6 +994,70 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1011,7 +1075,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:07",
-      "investigative_direction": "Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims."
+      "investigative_direction": "Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -1028,7 +1095,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
-      "investigative_direction": "Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses."
+      "investigative_direction": "Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -1163,7 +1233,8 @@
       "investigative_direction": "Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's \"sexual sharing\" directive.",
       "mentions_person_refs": [
         "N-972",
-        "N-982"
+        "N-982",
+        "N-75"
       ]
     },
     {
@@ -1300,7 +1371,8 @@
       "claim_timestamp": "00:43:29",
       "investigative_direction": "Preserve community note metadata; identify raters and any subsequent updates to the note.",
       "mentions_person_refs": [
-        "N-968"
+        "N-968",
+        "N-1"
       ]
     },
     {
@@ -1399,7 +1471,8 @@
       "claim_timestamp": "00:31:14",
       "investigative_direction": "Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.",
       "mentions_person_refs": [
-        "N-1"
+        "N-424",
+        "N-552"
       ]
     },
     {

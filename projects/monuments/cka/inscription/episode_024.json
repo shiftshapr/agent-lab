@@ -175,6 +175,10 @@
             "C-1575"
           ],
           "related_nodes": [
+            "N-2386",
+            "N-2385",
+            "N-311",
+            "N-2",
             "N-1286"
           ],
           "tags": [],
@@ -211,6 +215,8 @@
             "C-1577"
           ],
           "related_nodes": [
+            "N-311",
+            "N-2386",
             "N-1286"
           ],
           "tags": [],
@@ -407,8 +413,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-322",
-        "N-323",
+        "N-2385",
+        "N-2386",
         "N-2",
         "N-1286"
       ]
@@ -584,52 +590,6 @@
       ]
     },
     {
-      "@type": "Person",
-      "@id": "N-322",
-      "ref": "N-322",
-      "name": "Jerusalem Post",
-      "type": "person",
-      "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.",
-      "related_artifacts": [
-        "A-1317.1"
-      ],
-      "related_claims": [
-        "C-1575"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-311",
-        "N-1286"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-323",
-      "ref": "N-323",
-      "name": "Israeli War Room",
-      "type": "person",
-      "description": "X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award.",
-      "related_artifacts": [
-        "A-1317.1"
-      ],
-      "related_claims": [
-        "C-1575"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-322",
-        "N-1286"
-      ]
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1286",
       "ref": "N-1286",
@@ -654,8 +614,8 @@
       "related_nodes": [
         "N-311",
         "N-42",
-        "N-322",
-        "N-323",
+        "N-2385",
+        "N-2386",
         "N-2"
       ]
     },
@@ -726,6 +686,134 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2385",
+      "ref": "N-2385",
+      "name": "Jerusalem Post",
+      "type": "organization",
+      "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-311",
+        "N-1286"
+      ],
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2386",
+      "ref": "N-2386",
+      "name": "Israeli War Room",
+      "type": "organization",
+      "description": "X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award.",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2385",
+        "N-1286"
+      ],
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-148",
+      "ref": "N-148",
+      "name": "Thomas Matthew Crooks",
+      "type": "person",
+      "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -755,7 +843,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:07",
-      "investigative_direction": "Verify the full RJC recording for the complete quote and any surrounding context."
+      "investigative_direction": "Verify the full RJC recording for the complete quote and any surrounding context.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -783,7 +874,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:12",
-      "investigative_direction": "Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages)."
+      "investigative_direction": "Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -797,7 +893,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:12",
-      "investigative_direction": "Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context."
+      "investigative_direction": "Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-293",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -811,7 +912,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:02",
-      "investigative_direction": "Verify by locating the full original Joe Rogan episode to confirm wording and date."
+      "investigative_direction": "Verify by locating the full original Joe Rogan episode to confirm wording and date.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -825,7 +929,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:19",
-      "investigative_direction": "Verify by locating the source image metadata (date, location, producer of the appearance)."
+      "investigative_direction": "Verify by locating the source image metadata (date, location, producer of the appearance).",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -837,11 +946,20 @@
         "A-1317.1"
       ],
       "related_nodes": [
-        "N-1286"
+        "N-1286",
+        "N-2385",
+        "N-2386"
       ],
       "tags": [],
       "claim_timestamp": "00:21:26",
-      "investigative_direction": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed."
+      "investigative_direction": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-311",
+        "N-319",
+        "N-320",
+        "N-321"
+      ]
     },
     {
       "@type": "Claim",
@@ -869,11 +987,16 @@
         "A-1317.3"
       ],
       "related_nodes": [
-        "N-1286"
+        "N-1286",
+        "N-2386"
       ],
       "tags": [],
       "claim_timestamp": "00:23:04",
-      "investigative_direction": "Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction."
+      "investigative_direction": "Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.",
+      "mentions_person_refs": [
+        "N-311",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -918,7 +1041,10 @@
       "tags": [],
       "claim_timestamp": "00:45:55",
       "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-148",
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -961,7 +1087,11 @@
       "tags": [],
       "claim_timestamp": "00:10:00",
       "investigative_direction": "This is a host interpretive stance; verification is anchored to A-1314.1.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-50",
+        "N-133"
+      ]
     }
   ],
   "memes": []

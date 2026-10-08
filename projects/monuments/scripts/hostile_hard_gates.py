@@ -145,16 +145,30 @@ def _p2_findings(monument_dir: Path) -> list[Finding]:
                 )
             )
 
-    out.append(
-        Finding(
-            "P2",
-            "CA_DEBT_CALLOUT",
-            None,
-            None,
-            "C/A numbering continues BoC remap bands; leading holes expected in Batch 1.",
+    if "CA_DEBT_CALLOUT" not in _accepted_codes(monument_dir):
+        out.append(
+            Finding(
+                "P2",
+                "CA_DEBT_CALLOUT",
+                None,
+                None,
+                "C/A numbering continues BoC remap bands; leading holes expected in Batch 1.",
+            )
         )
-    )
     return out
+
+
+def _accepted_codes(monument_dir: Path) -> dict[str, str]:
+    """Informational codes accepted with a written rationale in config/hostile_accepted.json.
+
+    Only codes listed here with a non-empty rationale are suppressed; the rationale is echoed in the
+    report meta so the exception stays visible.
+    """
+    p = monument_dir / "config" / "hostile_accepted.json"
+    if not p.is_file():
+        return {}
+    data = json.loads(p.read_text(encoding="utf-8")).get("accepted") or {}
+    return {k: str(v) for k, v in data.items() if str(v).strip()}
 
 
 def run(monument: str) -> tuple[list[Finding], dict]:
@@ -186,6 +200,7 @@ def run(monument: str) -> tuple[list[Finding], dict]:
             "total": len(findings),
         },
         "by_code": dict(sorted(by_code.items())),
+        "accepted": _accepted_codes(monument_dir),
     }
     return findings, meta
 
@@ -200,7 +215,17 @@ def main() -> int:
     report = {**meta, "findings": [asdict(f) for f in findings]}
     if args.json:
         args.json.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({"verdict": meta["verdict"], "counts": meta["counts"], "by_code": meta["by_code"]}, indent=2))
+    print(
+        json.dumps(
+            {
+                "verdict": meta["verdict"],
+                "counts": meta["counts"],
+                "by_code": meta["by_code"],
+                "accepted": meta["accepted"],
+            },
+            indent=2,
+        )
+    )
     hard_fail = meta["counts"]["P0"] + meta["counts"]["P1"] > 0
     return 1 if hard_fail else 0
 

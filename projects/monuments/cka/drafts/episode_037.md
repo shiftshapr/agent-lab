@@ -528,7 +528,7 @@ Claim Timestamp: 00:09:53
 Claim: At a press conference dated September 12, 2025, FBI Director Kash Patel closed by saying to Charlie Kirk: "Lastly, to my friend Charlie Kirk, rest now, brother. We have the watch and I'll see you in Valhalla."
 
 Anchored Artifacts: A-1453.1
-Mentions: N-102
+Mentions: N-102, N-1
 
 Related Nodes: N-1344
 
@@ -644,7 +644,7 @@ Claim Timestamp: 00:29:33
 Claim: Ashley Rinzberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the "economics of high engagement political content on YouTube and podcast platforms," specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Breit series, along with five business-metric questions.
 
 Anchored Artifacts: A-1459.1
-Mentions: N-3, N-442
+Mentions: N-3, N-442, N-1
 
 Related Nodes: N-1351, N-1352
 
@@ -655,7 +655,7 @@ Investigative Direction: Confirm whether the article was published and whether R
 
 **C-3651** Host identifies show community as Decentralized Intelligence Agency
 
-Claim Timestamp: 00:41:12
+Claim Timestamp: 00:39:33
 Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
 Transcript Snippet: ...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, "We needed a hoodie that says go Max." The get me out of here write...
 Anchored Artifacts: 

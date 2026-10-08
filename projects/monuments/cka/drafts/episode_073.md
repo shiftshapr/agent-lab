@@ -368,7 +368,7 @@ Claim Timestamp: 00:04:44
 Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office — the same space where it was visible on September 8, 2025.
 
 Anchored Artifacts: A-1774.1, A-1773.1
-Mentions: N-2, N-364
+Mentions: N-2, N-364, N-1
 
 Related Nodes: N-1577
 
@@ -412,7 +412,7 @@ Claim Timestamp: 00:10:40
 Claim: During a Fox News interview, Erika Kirk stated that Charlie Kirk removed his wedding ring the night before his assassination, left it in the bathroom, and came back the next morning to put it on before leaving.
 
 Anchored Artifacts: A-1775.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-1580
 
@@ -427,7 +427,7 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that Charlie Kirk had messaged people the day before saying "I'm going to be murdered" or "they're coming after me."
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-364
+Mentions: N-2, N-364, N-1
 
 Related Nodes: N-1578
 
@@ -513,6 +513,7 @@ Claim Timestamp: 00:42:01
 Claim: A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background — not the TPUSA show.
 
 Anchored Artifacts: A-1779.1
+Mentions: N-5
 
 Related Nodes: N-1581
 
@@ -541,7 +542,7 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated "And I have his cell phone" in the context of denying that Charlie sent pre-death messages.
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-364
+Mentions: N-2, N-364, N-1
 
 Related Nodes: N-1578
 

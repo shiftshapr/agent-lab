@@ -75,8 +75,7 @@
             "C-3017"
           ],
           "related_nodes": [
-            "N-2113",
-            "N-1212"
+            "N-2113"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,11 +203,8 @@
             "C-3024"
           ],
           "related_nodes": [
-            "N-1209",
-            "N-1210",
-            "N-1211",
-            "N-1213",
-            "N-2115"
+            "N-2115",
+            "N-37"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -397,168 +393,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Turning Point USA-affiliated radio personality. Former Marine Corps war-gaming support contractor removed for racist commentary. Was aboard private jet carrying Charlie Kirk to Salt Lake City on morning of September 10th. Rode in second SUV and was unable to recall destination, driver, or passengers during X Space audio. Active on social media responding to host's investigation.",
-      "related_artifacts": [
-        "A-2132.1",
-        "A-2133.1"
-      ],
-      "related_claims": [
-        "C-3018",
-        "C-3019",
-        "C-3020"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2114"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Charlie Kirk's spokesperson/PR representative. Public statements partially concede Candace Owens' Netanyahu-call narrative while disputing the \"offer to take Turning Point to the next level\" element.",
-      "related_artifacts": [
-        "A-2135.1"
-      ],
-      "related_claims": [
-        "C-3025"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Charlie Kirk's personal assistant, hired May 2025 directly out of Ohio State University (Turning Point chapter alumnus). Flew private to Salt Lake City September 10th. Identified by Blake Neff as a possible passenger in the second SUV. Grandson of Thomas Patrick (former Merrill Lynch executive).",
-      "related_artifacts": [
-        "A-2133.1",
-        "A-2134.1"
-      ],
-      "related_claims": [
-        "C-3020",
-        "C-3021"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1211",
-        "N-2115"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Danny Phillip's father. Worked at Bank of America Merrill Lynch in Chicago per host's visual guide. Russian studies educational background per host.",
-      "related_artifacts": [
-        "A-2134.1"
-      ],
-      "related_claims": [
-        "C-3022"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1209",
-        "N-2115"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Danny Phillip's grandfather. Former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure). Departed 2003 following Eliot Spitzer-related scandal. Major Turning Point donor. Personally emailed Candace Owens claiming Charlie Kirk was lying to her about money matters.",
-      "related_artifacts": [
-        "A-2134.1"
-      ],
-      "related_claims": [
-        "C-3021"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1209",
-        "N-2115"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Visitor at host's residence who identified Charlie Kirk's shirt as 100% polyester.",
-      "related_artifacts": [
-        "A-2130.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2113"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Erica Kirk's cousin. Per host's visual guide, worked at Bank of America Merrill Lynch in Chicago. Previously referenced as escort for Erica around Romania / Black Sea Rotational Force.",
-      "related_artifacts": [
-        "A-2134.1"
-      ],
-      "related_claims": [
-        "C-3024"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-2115"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2113",
       "ref": "N-2113",
       "name": "Unidentified Burnt Object in Charlie Kirk's SUV",
@@ -627,10 +461,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1209",
-        "N-1210",
-        "N-1211",
-        "N-1213"
+        "N-37"
       ]
     },
     {
@@ -718,6 +549,38 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -757,7 +620,8 @@
       "claim_timestamp": "00:12:33",
       "investigative_direction": "Flight manifests, airport records, and witness corroboration would verify the passenger list.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-224"
       ]
     },
     {
@@ -774,7 +638,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:07",
-      "investigative_direction": "Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route."
+      "investigative_direction": "Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -792,7 +659,8 @@
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.",
       "mentions_person_refs": [
-        "N-611"
+        "N-611",
+        "N-224"
       ]
     },
     {
@@ -805,7 +673,6 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-2115"
       ],
       "tags": [],
@@ -825,7 +692,6 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2115"
       ],
       "tags": [],
@@ -864,7 +730,6 @@
         "A-2134.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2115"
       ],
       "tags": [],
@@ -888,7 +753,9 @@
       "claim_timestamp": "00:41:46",
       "investigative_direction": "Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-42",
+        "N-3"
       ]
     },
     {
@@ -905,7 +772,8 @@
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     }
   ],

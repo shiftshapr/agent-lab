@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1620, N-1621, N-1622, N-1623, N-1624, N-1625
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226
+  - Reused Nodes Appearing: 
   - (see registers)
 
 # Episode 81 Analysis
@@ -102,7 +102,7 @@ Video Timestamp: 00:06:26–00:07:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2529, N-1210*
+*Related: C-2529*
 
 **A-1880.2** Laura Loomer X reply accusing Kent of leaking to Candace to harm Erika
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:07:00–00:07:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2530, N-1211*
+*Related: C-2530*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:21:46–00:28:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed/read in episode)
 
-*Related: C-2533, C-2534, C-2535, C-2536, N-1212, N-1213, N-1214, N-1620*
+*Related: C-2533, C-2534, C-2535, C-2536, N-1620*
 
 **A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:33:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-2539, N-1215, N-1623*
+*Related: C-2539, N-1623*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:40:59–00:43:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2540, N-1218*
+*Related: C-2540*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2541, N-1219*
+*Related: C-2541*
 
 **A-1884.2** Eton Fishberger X post calling Joe Rogan's segment "sick stuff"
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:43:46–00:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2542, N-1220*
+*Related: C-2542*
 
 ---
 
@@ -216,201 +216,6 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Former Director of the National Counterterrorism Center; resigned and gave Tucker Carlson interview claiming FBI halted NCTC investigation into Charlie Kirk's assassination. Subject of attacks from TPUSA-aligned voices after the interview.
-
-Evidence Count: 4
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1877.1, A-1877.2, A-1878.1, A-1878.2, A-1879.1, A-1880.1, A-1880.2, C-2525, C-2526, C-2528, C-2529, C-2530, C-2531, C-2532, N-1624*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-TPUSA spokesman; on-air admitted providing private text-chain to Joe Kent; named in Sept 10 PR chat chain as being "on a plane" and unavailable during death-statement drafting.
-
-Evidence Count: 3
-Claim Count: 5
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1878.1, A-1878.2, A-1881.1, C-2531, C-2532, C-2533, C-2534, C-2535, N-1620, N-1621*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Commentator named in episode as having posted against Joe Kent on X shortly after Charlie Kirk's assassination.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1879.1, C-2528*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Commentator who posted Joe Kent's military credentials on X, drawing hostile replies.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1880.1, C-2529*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Commentator who accused Joe Kent of leaking to Candace Owens to harm Erika Kirk.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1880.2, C-2530*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-TPUSA Chief Operating Officer (promoted 7 days before Sept 10 per episode); appears in Sept 10 PR chat chain; told Candace he booked the planes.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1881.1, C-2533, C-2535, N-1620*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-TPUSA chief marketing officer; per host, called Aubrey to draft death statement because Andrew was on a plane; later cited as the figure behind Aubrey's firing over Uber-driver conversation.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1881.1, C-2535, C-2536, N-1625*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-TPUSA employee (surname not provided in episode); per host, drafted death statement on Sept 10 and was later fired following Uber-driver conversation overheard by Marina.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1881.1, C-2535, C-2536, N-1625*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Defender of Mikey McCoy; audio excerpt cited for phrasing "I put that phone away," which host flags as implying a second device.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1882.1, C-2539, N-1623, N-1222*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Named by host as having a phone call with Justin Streif and Andrew Kolvet on Sept 5 while Charlie was in Asia.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1212*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Event sponsor whose plane is described as landing in Provo, then routing Santa Barbara–Scottsdale. Host identifies "Wyre" as the person walking over in the on-site video.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1881.2, C-2538*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Podcaster; episode cites his on-air discussion of Erika Kirk's CIA-documentary appearance and pageant history.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1883.1, C-2540*
-
----
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Commentator; tweeted critical of Erika's CIA-related video.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1884.1, C-2541*
-
----
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Commentator; tweeted critical of Joe Rogan segment.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1884.2, C-2542*
-
----
-
-**N-1221** Autopsy Record – Utah Privacy Statute Application
-
-Named in Blake Neff's audio excerpt as the person called by Mikey McCoy after the shot.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1882.1, N-1222*
-
----
-
 **N-1620** September 10 Plane Logistics Discrepancy
 
 Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and "on the plane" during the 1:30–3:25 p.m. Utah window.
@@ -420,7 +225,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538, N-1212, N-1213, N-1214*
+*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538*
 
 ---
 
@@ -459,7 +264,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1882.1, C-2539, N-1215*
+*Related: A-1882.1, C-2539*
 
 ---
 
@@ -472,7 +277,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531, N-1211*
+*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531*
 
 ---
 
@@ -485,7 +290,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1881.1, C-2535, C-2536, N-1213, N-1214*
+*Related: A-1881.1, C-2535, C-2536*
 
 ---
 
@@ -498,6 +303,7 @@ Claim Timestamp: 00:02:10
 Claim: Joe Kent told Tucker Carlson that the National Counterterrorism Center was stopped by the FBI from investigating the Charlie Kirk assassination.
 
 Anchored Artifacts: A-1877.1
+Mentions: N-50, N-1, N-310
 
 Related Nodes: N-1620
 
@@ -512,6 +318,7 @@ Claim Timestamp: 00:02:10
 Claim: Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly that he had "stopped us from getting into a war with Iran."
 
 Anchored Artifacts: A-1877.2
+Mentions: N-1, N-310
 
 Related Nodes:
 
@@ -526,6 +333,7 @@ Claim Timestamp: 00:00:42
 Claim: Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for leaking classified documents.
 
 Anchored Artifacts: A-1879.1 (related context); direct retweet not separately captured as artifact.
+Mentions: N-42, N-310
 
 Related Nodes: N-1624
 
@@ -542,6 +350,7 @@ Claim Timestamp: 00:05:36
 Claim: Alex Clark posted on X that Joe Kent actively participated in or encouraged behind-the-scenes degradation of Erika Kirk.
 
 Anchored Artifacts: A-1879.1
+Mentions: N-2, N-135, N-310
 
 Related Nodes: N-1624
 
@@ -556,8 +365,9 @@ Claim Timestamp: 00:06:26
 Claim: Jack Posobiec posted on X that Joe Kent has six bronze star medals with five oak leaf clusters across 11 combat deployments as a Green Beret.
 
 Anchored Artifacts: A-1880.1
+Mentions: N-130, N-310
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Cross-check against DoD / military service records.
 
@@ -570,8 +380,9 @@ Claim Timestamp: 00:07:00
 Claim: Laura Loomer replied to Posobiec accusing Joe Kent of leaking information to Candace Owens for the purpose of attacking Erika Kirk.
 
 Anchored Artifacts: A-1880.2
+Mentions: N-3, N-91, N-2, N-310
 
-Related Nodes: N-1211, N-1624
+Related Nodes: N-1624
 
 Investigative Direction: Retrieve Loomer's full post; trace whether she cites source for the accusation.
 
@@ -584,6 +395,7 @@ Claim Timestamp: 00:09:30
 Claim: Andrew Kolvet stated on Charlie Kirk's radio show that he had provided the group-chat screengrabs to Joe Kent in the immediate aftermath of Charlie's death.
 
 Anchored Artifacts: A-1878.1
+Mentions: N-42, N-1, N-310
 
 Related Nodes: N-1624
 
@@ -598,6 +410,7 @@ Claim Timestamp: 00:11:16
 Claim: Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made public; Kolvet declined because of concern for innocent group-chat members.
 
 Anchored Artifacts: A-1878.2
+Mentions: N-42, N-310
 
 Related Nodes: N-1624
 
@@ -612,8 +425,9 @@ Claim Timestamp: 00:21:46
 Claim: In the Sept 10 PR text chain, Andrew Kolvet had no outgoing message from 1:30 p.m. until 3:25 p.m. Utah time, despite being the principal PR contact during the active crisis.
 
 Anchored Artifacts: A-1881.1
+Mentions: N-42
 
-Related Nodes: N-1212, N-1620
+Related Nodes: N-1620
 
 Investigative Direction: Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records.
 
@@ -626,6 +440,7 @@ Claim Timestamp: 00:23:16
 Claim: At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: "Sorry, on the plane, this just loaded."
 
 Anchored Artifacts: A-1881.1
+Mentions: N-42
 
 Related Nodes: N-1620
 
@@ -641,7 +456,7 @@ Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aub
 
 Anchored Artifacts: A-1881.1
 
-Related Nodes: N-1213, N-1214, N-1620, N-1625
+Related Nodes: N-1620, N-1625
 
 Investigative Direction: Confirm via call detail records and corroborate with Aubrey directly if possible.
 
@@ -655,7 +470,7 @@ Claim: Aubrey, who drafted the Sept 10 death statement, was later terminated in 
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
 
-Related Nodes: N-1213, N-1214, N-1625
+Related Nodes: N-1625
 
 Investigative Direction: Verify with Aubrey or HR/witness records.
 
@@ -685,7 +500,7 @@ Claim: The Wyre-sponsored plane is shown on the on-screen calendar as routing Sc
 
 Anchored Artifacts: A-1881.2
 
-Related Nodes: N-1217, N-1620, N-1622
+Related Nodes: N-1620, N-1622
 
 Investigative Direction: Verify against FAA flight plan / tail-number tracking.
 
@@ -698,8 +513,9 @@ Claim Timestamp: 00:33:30
 Claim: Blake Neff, describing his call to his mother after the shooting, used the phrasing "I put that phone away," which host interprets as implying possession of two phones.
 
 Anchored Artifacts: A-1882.1
+Mentions: N-224
 
-Related Nodes: N-1215, N-1623
+Related Nodes: N-1623
 
 Investigative Direction: Direct verification only possible via Blake Neff or device forensics.
 
@@ -714,8 +530,9 @@ Claim Timestamp: 00:40:59
 Claim: On his podcast, Joe Rogan discussed Erika Kirk's appearance in what he characterized as a CIA documentary, her pageant background, and speculation she was "Charlie's handler."
 
 Anchored Artifacts: A-1883.1
+Mentions: N-2, N-427
 
-Related Nodes: N-1218
+Related Nodes:
 
 Investigative Direction: Verify CIA documentary provenance and Erika's pageant participation against public records.
 
@@ -728,8 +545,9 @@ Claim Timestamp: 00:43:46
 Claim: Mark Levin tweeted asking whether Erika's video was "some AI production" and, if not, called it "a total disgrace."
 
 Anchored Artifacts: A-1884.1
+Mentions: N-374
 
-Related Nodes: N-1219
+Related Nodes:
 
 Investigative Direction: Retrieve full tweet and any subsequent clarification.
 
@@ -742,8 +560,9 @@ Claim Timestamp: 00:43:46
 Claim: Eton Fishberger tweeted that Joe Rogan's segment was "some sick stuff" given what Erika "hasn't been through already."
 
 Anchored Artifacts: A-1884.2
+Mentions: N-427
 
-Related Nodes: N-1220
+Related Nodes:
 
 Investigative Direction: Retrieve original tweet.
 
@@ -756,6 +575,7 @@ Claim Timestamp: 00:45:46
 Claim: Candace Owens states she had never had a single communication with Joe Kent until after Charlie Kirk's assassination.
 
 Anchored Artifacts: None (host testimony only)
+Mentions: N-3, N-1, N-310
 
 Related Nodes: N-1624
 

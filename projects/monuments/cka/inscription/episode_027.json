@@ -158,7 +158,8 @@
           "ref": "A-1347.2",
           "description": "Allie Beth Stuckey follow-up tweet clarifying venue status",
           "related_claims": [
-            "C-1626"
+            "C-1626",
+            "C-3740"
           ],
           "related_nodes": [
             "N-349",
@@ -1084,6 +1085,30 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3740",
+      "ref": "C-3740",
+      "label": "Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out (revises C-1626 title)",
+      "claim": "C-1626's title says the venue was confirmed two months out, which inverts its own body. Allie Beth Stuckey follows up that \"no venue yet, 2 months out\" was the status of the event at the time of her texts.",
+      "anchored_artifacts": [
+        "A-1347.2"
+      ],
+      "related_nodes": [
+        "N-1298"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:03",
+      "investigative_direction": "Read with C-1626; obtain the underlying text thread to verify Allie's characterization of venue status.",
+      "revises_claim_refs": [
+        "C-1626"
+      ],
+      "mentions_person_refs": [
+        "N-349"
+      ],
+      "transcript_snippet": "She says, \"Since some of you guys are struggling, no venue yet, 2 months out.\"",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
       "@id": "C-1627",
       "ref": "C-1627",
       "label": "Lila Rose Reports Stanford Event Was to Be Set Up in Three Weeks",
@@ -1171,7 +1196,8 @@
       "claim_timestamp": "00:55:21",
       "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.",
       "mentions_person_refs": [
-        "N-353"
+        "N-353",
+        "N-3"
       ]
     },
     {

@@ -119,9 +119,7 @@
           "related_claims": [
             "C-3142"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -136,9 +134,7 @@
           "related_claims": [
             "C-3142"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -225,9 +221,7 @@
           "related_claims": [
             "C-3146"
           ],
-          "related_nodes": [
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -274,10 +268,7 @@
           "ref": "A-2196.3",
           "description": "Comment from Robin Phillips",
           "related_claims": [],
-          "related_nodes": [
-            "N-1208",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -318,9 +309,7 @@
           "ref": "A-2196.6",
           "description": "Comment from Alaska Dog Lady",
           "related_claims": [],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -413,107 +402,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Utah Chief Medical Examiner whose tenure began 2024-07-01 and whose resignation is reported in this episode without primary documentation. Name variant \"Deirdra\" appears once in transcript; canonical form preserved as \"Deidra\" per first mention.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2148"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "TPUSA-affiliated communicator who publicly used a hostile epithet (\"vile witch\") in an X post responding to a question about whether Charlie Kirk was cremated.",
-      "related_artifacts": [
-        "A-2190.1"
-      ],
-      "related_claims": [
-        "C-3140"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2150"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA Chief Marketing Officer named in Kolvet's X denial as part of the Washington DC team the host claimed was traveling to meet with White House officials. Spelling variant \"Marina Medias\" appears once in transcript; canonical form preserved.",
-      "related_artifacts": [
-        "A-2194.1"
-      ],
-      "related_claims": [
-        "C-3145"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2151"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Sermon speaker at Pursuit Church (Washington state) whose address included politically-charged denunciations of named opponents and praise for Charlie Kirk's legacy. Only first name given; full identity not established.",
-      "related_artifacts": [
-        "A-2192.1",
-        "A-2192.2"
-      ],
-      "related_claims": [
-        "C-3142"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Holder of an Instagram account whose posted video content mocked contemporary Christianese speaking patterns. Mentioned in connection with Erika Kirk's tour speech rhetoric.",
-      "related_artifacts": [
-        "A-2195.1"
-      ],
-      "related_claims": [
-        "C-3146"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2148",
       "ref": "N-2148",
       "name": "Amaro Resignation Cause",
@@ -594,6 +482,102 @@
       "related_nodes": [
         "N-1209"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -609,7 +593,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:57",
-      "investigative_direction": "Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm."
+      "investigative_direction": "Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -623,7 +611,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:44",
-      "investigative_direction": "Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post."
+      "investigative_direction": "Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -639,7 +630,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
-      "investigative_direction": "Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions."
+      "investigative_direction": "Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -655,7 +651,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:20",
-      "investigative_direction": "Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial."
+      "investigative_direction": "Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -666,12 +666,14 @@
       "anchored_artifacts": [
         "A-2192.2"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:17",
-      "investigative_direction": "Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith."
+      "investigative_direction": "Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -685,7 +687,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:37",
-      "investigative_direction": "Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source."
+      "investigative_direction": "Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -699,7 +704,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:29",
-      "investigative_direction": "Confirm against the full event recording and verify event date and venue."
+      "investigative_direction": "Confirm against the full event recording and verify event date and venue.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -715,7 +723,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:55",
-      "investigative_direction": "Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration."
+      "investigative_direction": "Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -726,12 +738,13 @@
       "anchored_artifacts": [
         "A-2195.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:59",
-      "investigative_direction": "Verify the original Instagram post remains accessible and identify the target of the mockery if specified."
+      "investigative_direction": "Verify the original Instagram post remains accessible and identify the target of the mockery if specified.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -745,7 +758,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:07",
-      "investigative_direction": "Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\""
+      "investigative_direction": "Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -757,7 +773,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:04",
-      "investigative_direction": "Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the \"never recovered\" assertion."
+      "investigative_direction": "Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the \"never recovered\" assertion.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -773,7 +793,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:17",
-      "investigative_direction": "File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\""
+      "investigative_direction": "File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

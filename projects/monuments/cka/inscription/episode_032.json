@@ -964,6 +964,38 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-119",
+      "ref": "N-119",
+      "name": "Victoria Churchill",
+      "type": "person",
+      "description": "Daily Mail journalist who authored Kirk memorial snub article; alleged APAC connection",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -982,7 +1014,8 @@
       "investigative_direction": "Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates.",
       "mentions_person_refs": [
         "N-392",
-        "N-394"
+        "N-394",
+        "N-335"
       ]
     },
     {
@@ -999,7 +1032,8 @@
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials.",
       "mentions_person_refs": [
-        "N-392"
+        "N-392",
+        "N-335"
       ]
     },
     {
@@ -1020,7 +1054,8 @@
       "investigative_direction": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.",
       "mentions_person_refs": [
         "N-392",
-        "N-395"
+        "N-395",
+        "N-335"
       ]
     },
     {
@@ -1114,7 +1149,8 @@
       "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.",
       "mentions_person_refs": [
         "N-392",
-        "N-394"
+        "N-394",
+        "N-45"
       ]
     },
     {
@@ -1190,7 +1226,8 @@
       "investigative_direction": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships.",
       "mentions_person_refs": [
         "N-392",
-        "N-587"
+        "N-587",
+        "N-396"
       ]
     },
     {
@@ -1317,7 +1354,8 @@
       "investigative_direction": "Obtain the article and verify framing language; host disputes framing on air.",
       "mentions_person_refs": [
         "N-2",
-        "N-349"
+        "N-349",
+        "N-119"
       ]
     },
     {

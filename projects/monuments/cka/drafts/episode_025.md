@@ -445,7 +445,7 @@ Claim Timestamp: 00:02:42–00:05:23
 Claim: Memorial service speakers repeatedly characterized Mikey McCoy with adjectival framing ("hero," "amazing," "brilliant," "wise beyond his years") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.
 
 Anchored Artifacts: A-1321.1
-Mentions: N-45, N-272
+Mentions: N-45, N-272, N-1
 
 Related Nodes: N-1288
 
@@ -460,7 +460,7 @@ Claim Timestamp: 00:05:23–00:07:16
 Claim: On Faith Forward Show, Rob McCoy referenced Charlie Kirk's journaled succession plan extending through 2028 and connected Mikey's institutional future to Erika's "amazing Mikey McCoy" speech at the memorial.
 
 Anchored Artifacts: A-1322.1
-Mentions: N-2, N-45, N-272
+Mentions: N-2, N-45, N-272, N-1
 
 Related Nodes: N-1288
 
@@ -475,7 +475,7 @@ Claim Timestamp: 00:10:01–00:10:58
 Claim: Mikey McCoy stated on camera that the Asia/Korea trip — which he described as occurring "three, four days before Utah" — was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.
 
 Anchored Artifacts: A-1323.1
-Mentions: N-272
+Mentions: N-272, N-1
 
 Related Nodes: N-1289
 
@@ -593,7 +593,7 @@ Claim Timestamp: 00:20:12–00:23:48
 Claim: Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.
 
 Anchored Artifacts: A-1330.1 (peripheral — Milo tweet on denial), host on-air confirmation statement
-Mentions: N-334
+Mentions: N-334, N-102
 
 Related Nodes: N-1292
 

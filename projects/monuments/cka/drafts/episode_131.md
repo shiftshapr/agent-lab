@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2147
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212
+  - Reused Nodes Appearing: 
   - (see registers)
 
 ## 2. Executive Summary
@@ -132,7 +132,7 @@ Video Timestamp: 00:41:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3133, N-1210, N-1211*
+*Related: C-3133*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:44:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3134, C-3135, N-1211, N-1212*
+*Related: C-3134, C-3135*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous source)
 
-*Related: C-3136, C-3137, N-1210, N-1211, N-1, N-2*
+*Related: C-3136, C-3137, N-1, N-2*
 
 ---
 
@@ -176,84 +176,6 @@ Confidence: medium
 
 
 ## 4. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Person newly identified in this episode as the individual alleged to have been with Ben Shapiro on September 10, 2025, when Charlie Kirk was shot. Host narrative (no shown artifact) describes roles including executive director of B'nai B'rith International, AIPAC Nebraska chapter president, and Chabad Lubavitch of Nebraska director. Central to an open investigation; no artifact-anchored claims about his identity or roles are inscribed in this episode.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2181.1, N-2147*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Former SEAL Team 6 sniper who publicly questioned elements of the official Charlie Kirk assassination narrative on Newsmax (artifact A-2184.1). Identified himself in the clip as "SEAL Team 6 sniper from the sniper school in 1998."
-
-Evidence Count: 1
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2184.1, C-3129, C-3130, C-3131, C-3132, N-1*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Family friend of Erica Kirk, identified by host as the alleged Daily Mail source. Publicly denied being the source on Paramount Tactical.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2183.1, C-3128, N-2*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Widow of Stephen "Twitch" Boss. Gave an interview (A-2185.1) in which she described finding hidden substances in the home after her husband's death; subject of YouTube-comment comparison to Erica Kirk.
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2185.1, A-2188.1, C-3133, C-3136, C-3137, N-1211*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Deceased DJ (died 2022 per host correction within the same sentence). Source of the parallel pattern asserted in the YouTube comment artifact and subject of the family NDA interview on CBS.
-
-Evidence Count: 3
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2185.1, A-2186.1, A-2188.1, C-3134, C-3135, C-3136, C-3137, N-1210, N-1212*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Mother of Stephen "Twitch" Boss; appears as the named family interviewee in the CBS / Gayle King audio artifact describing NDA pressure.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2186.1, C-3134, C-3135, N-1211*
-
----
 
 **N-2147** Ben Shapiro 9/10 Lunch Meeting Identification
 
@@ -277,7 +199,7 @@ Claim Timestamp: 00:10:44
 Claim: A thread of SMS messages dated November 15, 2023, between Charlie Kirk and Candace Owens, read aloud in full, documents contemporaneous pressure from the Daily Wire / Ben Shapiro orbit during the "Christ is King" episode.
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-133
 
 
 Investigative Direction: Obtain carrier records or device extractions to verify the text thread independently of host narration.
@@ -319,7 +241,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Jeremy Boring [transcript spelling], who knew exactly what Jeremy was, 100% workshopped this. This is not Ben acting alone. This is a hit."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-607
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.
@@ -333,7 +255,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Marissa Strait [text spelling], she's part of the tribe. Do not listen to her."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-168
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records.
@@ -389,7 +311,7 @@ Claim Timestamp: 00:18:20
 Claim: In an audio clip played in the episode, Ben Shapiro states that his security (described by host as former IDF members) was on the phone with Charlie Kirk's security "during the critical 7 minutes" while Charlie was fighting for his life.
 
 Anchored Artifacts: A-2181.1
-Mentions: N-1
+Mentions: N-1, N-133
 
 Related Nodes: N-2147
 
@@ -404,6 +326,7 @@ Claim Timestamp: 00:18:20
 Claim: In an audio clip played in the episode, Ben Shapiro states that at the time Charlie Kirk was shot, he was in Los Angeles at a "sort of a breakfast/lunch meeting with somebody."
 
 Anchored Artifacts: A-2181.1
+Mentions: N-1, N-133
 
 Related Nodes: N-2147
 
@@ -418,6 +341,7 @@ Claim Timestamp: 00:06:03
 Claim: In an audio clip from AmFest in December 2025, Steve Bannon states: "Ben Shapiro is like a cancer and that cancer spreads … He tried to take over Breitbart and I ran him out of there. He tried to take over David Horowitz's who was his mentor."
 
 Anchored Artifacts: A-2182.1
+Mentions: N-278, N-641, N-133
 
 Related Nodes:
 
@@ -432,7 +356,7 @@ Claim Timestamp: 00:33:45
 Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: "Absolutely not. No, absolutely not" in response to a question about whether she was the person the Daily Mail contacted and provided information from.
 
 Anchored Artifacts: A-2183.1
-Mentions: N-2
+Mentions: N-2, N-890
 
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
@@ -503,7 +427,7 @@ Claim: In an audio clip played in the episode, Allison Holker states that while 
 
 Anchored Artifacts: A-2185.1
 
-Related Nodes: N-1210, N-1211
+Related Nodes:
 
 Investigative Direction: Obtain the full Holker interview segment; cross-reference with official autopsy findings.
 
@@ -517,7 +441,7 @@ Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they
 
 Anchored Artifacts: A-2186.1
 
-Related Nodes: N-1211, N-1212
+Related Nodes:
 
 Investigative Direction: Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.
 
@@ -531,7 +455,7 @@ Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you 
 
 Anchored Artifacts: A-2186.1
 
-Related Nodes: N-1211, N-1212
+Related Nodes:
 
 Investigative Direction: Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.
 
@@ -546,7 +470,7 @@ Claim: A YouTube comment posted on the prior day's episode lists parallels betwe
 Anchored Artifacts: A-2188.1
 Mentions: N-1, N-2
 
-Related Nodes: N-1210, N-1211
+Related Nodes:
 
 Investigative Direction: Independent verification of each parallel item against documented records in both cases.
 
@@ -560,7 +484,7 @@ Claim: A YouTube comment posted on the prior day's episode states that Allison H
 
 Anchored Artifacts: A-2188.1
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Independent verification against public records or alumni databases.
 

@@ -424,6 +424,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-313",
+      "ref": "N-313",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -495,7 +527,8 @@
       "investigative_direction": "Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-313"
       ]
     },
     {
@@ -514,7 +547,8 @@
       "claim_timestamp": "00:19:42–00:20:30",
       "investigative_direction": "Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-313"
       ]
     },
     {
@@ -551,7 +585,8 @@
       "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
       "mentions_person_refs": [
         "N-789",
-        "N-903"
+        "N-903",
+        "N-42"
       ]
     },
     {
@@ -570,7 +605,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
       "mentions_person_refs": [
-        "N-903"
+        "N-903",
+        "N-1"
       ]
     },
     {
@@ -588,7 +624,8 @@
       "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
       "mentions_person_refs": [
         "N-789",
-        "N-903"
+        "N-903",
+        "N-42"
       ]
     },
     {

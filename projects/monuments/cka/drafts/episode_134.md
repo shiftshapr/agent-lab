@@ -28,7 +28,7 @@
   - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
   - Claim Range: C-3162–C-3174
   - New Nodes Introduced: N-2158, N-2159, N-2160, N-2161, N-2162, N-2163
-  - Reused Nodes Appearing: N-2, N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: N-2
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
@@ -49,7 +49,7 @@ Structurally, the episode is significant for advancing the autopsy-injury invest
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 15:40:00
+Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -63,7 +63,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 18:27:00
+Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -77,7 +77,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 33:25:00
+Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -91,7 +91,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 02:44:00
+Video Timestamp: 00:02:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -105,7 +105,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 40:16:00
+Video Timestamp: 00:40:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
@@ -119,7 +119,7 @@ Confidence Level: Medium
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 05:44:00
+Video Timestamp: 00:05:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -133,7 +133,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 06:39:00
+Video Timestamp: 00:06:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -147,7 +147,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 08:40:00
+Video Timestamp: 00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -161,7 +161,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 12:19:00
+Video Timestamp: 00:12:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
@@ -175,11 +175,11 @@ Confidence Level: Medium
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 07:33:00
+Video Timestamp: 00:07:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3172, N-1211*
+*Related: C-3172*
 
 ---
 
@@ -189,7 +189,7 @@ Confidence Level: Medium
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 03:53:00
+Video Timestamp: 00:03:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -203,7 +203,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 02:44:00
+Video Timestamp: 00:02:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -223,79 +223,6 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: C-3162, C-3163, C-3166, A-2205.1, A-2207.1, N-2158, N-2160, N-2163*
-
----
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Turning Point USA spokesperson; posted mispronunciation list in response to Candace; appeared on Alex Clark show denying Catholic conversion; discussed "other angle" footage on podcast.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-3165, C-3167, C-3171, A-2206.1, A-2210.1, A-2213.1, N-2161, N-2163*
-
-*Flag: Existing series ID unknown; likely has earlier N-number — verification recommended.*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Turning Point USA figure; asserted another rooftop angle exists showing rifle pulled from pants.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-3164, A-2212.1, N-2161*
-
-*Flag: Existing series ID unknown — verification recommended.*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Independent commentator; tweeted that Lozi footage counters "exploding mic" claims.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: C-3170, A-2211.1*
-
-*Flag: Existing series ID unknown — verification recommended.*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-X account; accused Candace of releasing restricted footage; called for obstruction charges.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: C-3168, A-2208.1*
-
-*Flag: Existing series ID unknown — verification recommended.*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Host figure; shared baby-crawling photo to argue rooftop figure was not trained/tactical.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: C-3172, A-2214.1*
 
 ---
 
@@ -383,7 +310,7 @@ Investigative Pressure: Medium
 
 **C-3162** Defense Memo: Bullet Perforated Left Neck Structures and C7 Vertebra
 
-Claim Timestamp: 33:25:00
+Claim Timestamp: 00:33:25
 
 Claim: The defense memorandum excerpt states the bullet sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of C7 vertebra, and transected the cervical spinal cord.
 
@@ -398,7 +325,7 @@ Investigative Direction: Obtain the complete defense memorandum and compare with
 
 **C-3163** Defense Memo: Hemorrhaging Around Heart and Both Lungs Observed
 
-Claim Timestamp: 35:25:00
+Claim Timestamp: 00:34:21
 
 Claim: The defense memorandum states the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).
 
@@ -413,11 +340,12 @@ Investigative Direction: Obtain complete autopsy findings; consult independent m
 
 **C-3164** Blake Neff Asserts Existence of Another Rooftop Angle
 
-Claim Timestamp: 10:30:00
+Claim Timestamp: 00:09:40
 
 Claim: Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Lozi rooftop video.
 
 Anchored Artifacts: A-2212.1
+Mentions: N-224
 
 Related Nodes: N-2161
 
@@ -427,11 +355,12 @@ Investigative Direction: Verify the claim via courtroom exhibit records; determi
 
 **C-3165** Andrew Kolvet Responds With Pronunciation List Tweet
 
-Claim Timestamp: 05:44:00
+Claim Timestamp: 00:05:44
 
 Claim: At 8:49 PM on 2026-07-29, the evening after Candace's previous episode, Andrew Kolvet posted tweets containing a list of words Candace has mispronounced across 367+ hours of podcasting.
 
 Anchored Artifacts: A-2210.1
+Mentions: N-42
 
 Related Nodes:
 
@@ -443,7 +372,7 @@ Investigative Direction: Obtain the original tweet thread; verify timing relativ
 
 **C-3166** Sky News Reports Kirk's Body En Route to Hansen Mortuary
 
-Claim Timestamp: 15:40:00
+Claim Timestamp: 00:15:40
 
 Claim: On 2025-09-11 at approximately 5:27 PM Phoenix time, Sky News broadcast that Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.
 
@@ -458,11 +387,12 @@ Investigative Direction: Cross-reference Sky News broadcast archive; confirm mor
 
 **C-3167** Andrew Kolvet States Charlie Was Not Becoming Catholic
 
-Claim Timestamp: 18:27:00
+Claim Timestamp: 00:18:27
 
 Claim: On a pre-recorded appearance on Alex Clark's show prior to the Catholic funeral mass, Andrew Kolvet stated Charlie was not becoming Catholic, described Erika as a cradle Catholic who followed a non-denominational path, and cited a prior social media exchange in which Erika herself denied conversion.
 
 Anchored Artifacts: A-2206.1
+Mentions: N-42, N-135
 
 Related Nodes: N-2163
 
@@ -472,7 +402,7 @@ Investigative Direction: Obtain the full Alex Clark interview recording; verify 
 
 **C-3168** Lisa Knows Accuses Candace of Releasing Restricted Footage
 
-Claim Timestamp: 02:44:00
+Claim Timestamp: 00:02:44
 
 Claim: An X account called Lisa Knows posted that Candace released footage the judge ordered not be shown to the public, asserted Candace had "docketed a witness" for the prosecution, and called for obstruction charges against Candace.
 
@@ -489,7 +419,7 @@ Investigative Direction: Verify original tweet; cross-reference court orders on 
 
 **C-3169** Community Note Clarifies Broadcasting Limits and Obstruction Standard
 
-Claim Timestamp: 03:53:00
+Claim Timestamp: 00:03:53
 
 Claim: A Community Note applied to the obstruction-accusation tweets clarified that court broadcasting limits apply to courtroom media (not third-party commentators) and that legal obstruction of justice requires corrupt intent to impede proceedings.
 
@@ -503,11 +433,12 @@ Investigative Direction: Verify original tweet with Community Note attached; con
 
 **C-3170** Tim Pool Characterizes Lozi Footage as Counter to Exploding Mic Claims
 
-Claim Timestamp: 06:39:00
+Claim Timestamp: 00:06:39
 
 Claim: Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage "serves as a counter to the exploding Mike claims."
 
 Anchored Artifacts: A-2211.1
+Mentions: N-128, N-426
 
 Related Nodes:
 
@@ -519,7 +450,7 @@ Investigative Direction: Verify original tweet content and timing.
 
 **C-3171** Podcast Describes Another Angle Showing Weapon Handling
 
-Claim Timestamp: 12:19:00
+Claim Timestamp: 00:12:19
 
 Claim: On a podcast referred to by the host as the "Beavis and Butt-Head show," a participant identified as Andrew described another rooftop video angle in which the shooter rolls over the railing, appears to assemble or pull a weapon from his pants, there is a brief blind spot, and then the visible Lozi footage shows him running and taking a prone position.
 
@@ -533,13 +464,13 @@ Investigative Direction: Identify the actual podcast; obtain the full episode; v
 
 **C-3172** Media Siege Shares Baby Photo to Argue Untrained Reflex
 
-Claim Timestamp: 07:33:00
+Claim Timestamp: 00:07:33
 
 Claim: A Media Siege host known as "Paramount Not So Tactical" shared a photo of a baby crawling, presented as proof that the rooftop figure's behavior was untrained human reflex rather than tactical training.
 
 Anchored Artifacts: A-2214.1
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Verify the original tweet; identify the posting account; confirm image attribution.
 
@@ -547,7 +478,7 @@ Investigative Direction: Verify the original tweet; identify the posting account
 
 **C-3173** X User Calls for Candace's Arrest on Obstruction Charges
 
-Claim Timestamp: 02:44:00
+Claim Timestamp: 00:02:44
 
 Claim: An X user posted that if Candace was not charged with obstruction of justice / jury tampering for releasing the rooftop footage, it would prove a two-tiered justice system, and demanded that those responsible go to jail.
 
@@ -563,7 +494,7 @@ Investigative Direction: Verify original tweet content; note possible transcript
 
 **C-3174** Viewer Email Credits Candace's Series With Helping Marriage
 
-Claim Timestamp: 40:16:00
+Claim Timestamp: 00:40:16
 
 Claim: A viewer emailed Candace crediting her Becoming Brigitte series with helping their marriage recover from the husband's emotional affair, leading to renewed conversations and reconnection with the viewer's sister.
 
@@ -582,7 +513,7 @@ Investigative Direction: Verify by contacting the viewer with consent; tangentia
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-2159) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-1207..N-1210 never denoted these people.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-1207..former local id 1210 never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

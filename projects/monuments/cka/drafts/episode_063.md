@@ -416,7 +416,7 @@ Investigative Direction: Verify full NYT article text and date of publication; c
 Claim Timestamp: 00:26:33
 Claim: The episode presents a 2018 text message from Charlie Kirk to Candace Owens stating: "Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time … I dream about it all the time … I'm not sure I'm going to live to see the end of this revolution."
 Anchored Artifacts: A-1677.1
-Mentions: N-1
+Mentions: N-1, N-3
 Investigative Direction: Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety.
 
 **C-2202** Atlantic article reports Bill Montgomery met Charlie at Benedictine University in May 2012 and co-founded TPUSA

@@ -281,12 +281,25 @@ def collect_claim_artifact_related_n_ids(
             for nm in N_ID_TOKEN_RE.finditer(m.group(1)):
                 cited.add(int(nm.group(1)))
         for m in re.finditer(r"^\*Related:\s*([^*\n]+)\*", content, re.MULTILINE):
-            # Skip node-register blocks: only count lines with C- or A- refs
+            # Skip node-register blocks: count lines with C- or A- refs, and any *Related:* line that
+            # belongs to an artifact sub-item (nearest preceding bold header is **A-x.n**), e.g. a
+            # super-chat artifact that names only its author node.
             chunk = m.group(1)
-            if re.search(r"\b[CA]-\d", chunk):
+            if re.search(r"\b[CA]-\d", chunk) or _related_line_owner(content, m.start()).startswith("A-"):
                 for nm in N_ID_TOKEN_RE.finditer(chunk):
                     cited.add(int(nm.group(1)))
     return cited
+
+
+_BOLD_ID_HEADER_RE = re.compile(r"^\*\*([NCAM]-[\d.]+)\*\*", re.MULTILINE)
+
+
+def _related_line_owner(content: str, pos: int) -> str:
+    """Id of the nearest bold **X-n** header before pos ('' if none)."""
+    owner = ""
+    for hm in _BOLD_ID_HEADER_RE.finditer(content, 0, pos):
+        owner = hm.group(1)
+    return owner
 
 
 def collect_intro_order_from_ledger(
@@ -629,6 +642,15 @@ def check_stamps(report: PreflightReport, episodes: list[tuple[int, str, Path, s
                 continue  # often dates, not HMS
             if not re.search(r"\d:\d", raw):
                 continue
+            bad_field = re.search(r"\b\d{1,2}:(\d{2}):(\d{2})\b", raw)
+            if bad_field and (int(bad_field.group(1)) > 59 or int(bad_field.group(2)) > 59):
+                report.add(
+                    "P1",
+                    "stamp_form",
+                    f"{ep_name}: {field_name} has minutes or seconds above 59: {raw!r}",
+                    ep_name,
+                )
+                continue
             if VALID_HMS_RE.match(raw):
                 continue
             if BARE_MS_RE.match(raw):
@@ -718,6 +740,11 @@ CLAIM_HEADER_ANY_RE = re.compile(r"^\*\*(C-\d+)\b[^*\n]*\*\*", re.MULTILINE)
 YOUTUBE_ID_META_RE = re.compile(r"^\s*-\s*\*\*YouTube id\*\*:\s*(\S+)", re.MULTILINE | re.IGNORECASE)
 END_TOLERANCE_SECONDS = 60
 TRANSCRIPT_EXTS = (".txt", ".md")  # CKA: eps 1-10 are .txt, eps 11+ are .md
+TIP_MINTED_RE = re.compile(r"^[ \t]*-[ \t]*Tip-minted Nodes \(([A-Za-z0-9_.\-]+)\):[ \t]*(.*)$", re.MULTILINE)
+CLAIM_REF_LINE_RE = re.compile(
+    r"^[ \t]*(?:-[ \t]*)?(?:\*Related:[^*\n]*\*|(?:Related Claims|Contradicts|Supports|Revises|Qualifies|Refutes):[^\n]*)$",
+    re.MULTILINE,
+)
 HOLE_MINTED_RE = re.compile(r"^[ \t]*-[ \t]*Hole-minted Nodes \(([A-Za-z0-9_.\-]+)\):[ \t]*(.*)$", re.MULTILINE)
 REUSED_NODES_RE = re.compile(r"^[ \t]*-[ \t]*Reused Nodes Appearing:[ \t]*(.*)$", re.MULTILINE)
 # Secondary reuse lines (for example "Existing Nodes Reused: ...", with or without a leading "- " or bold).
@@ -1218,8 +1245,10 @@ def annotation_name_matches(label: str, names: list[str], *, person: bool = Fals
     Accepted: equal or contained, acronym, or a shared word (>=3 chars). For a person node a
     multi-word label must also share the surname: its last word must equal the last word of one of
     the names (so "Blake Wynn" does not pass on Blake Neff). A one-word label ("Charlie", "Cox")
-    may match any name word. Parenthetical parts of a name ("Donald Trump Jr. (Don Jr.)") count as
-    extra names.
+    may match any name word. A one-word alias (a bare first name such as "Blake") cannot satisfy a
+    multi-word person label unless that word is the label's surname (its last word), so the alias
+    "Blake" does not let "Blake Wynn" pass on Blake Neff while "Cox" still grounds "Governor Cox".
+    Parenthetical parts of a name ("Donald Trump Jr. (Don Jr.)") count as extra names.
     """
     nl = _norm_text(label)
     ltoks = _annot_tokens(label)
@@ -1232,6 +1261,12 @@ def annotation_name_matches(label: str, names: list[str], *, person: bool = Fals
         nn = _norm_text(n)
         if not nn:
             continue
+        if person and len(ltoks) >= 2:
+            ntoks1 = _annot_tokens(n)
+            if len(ntoks1) == 1 and nl != nn:
+                if ntoks1[0] == ltoks[-1]:
+                    return True
+                continue
         if nl == nn or nl in nn or nn in nl:
             return True
         acr = "".join(w[0] for w in re.findall(r"[A-Za-z]+", n) if w[0].isupper()).lower()
@@ -1323,7 +1358,8 @@ def check_hole_minted(
 
     Hole mints cannot sit on 'New Nodes Introduced' (that line must ascend) and must not hide on
     'Reused Nodes Appearing' or a secondary 'Existing Nodes Reused' line. They go on '  - Hole-minted Nodes (<batch>): N-a, N-b' in the episode
-    where each id gets its first register row. Per batch and band, ids must ascend in episode
+    where each id gets its first register row, and no earlier episode may list the id on any ledger
+    line (New, Reused, Existing Nodes Reused or Hole-minted). Per batch and band, ids must ascend in episode
     order (compact first-introduction order), and person-band batches must be compact: no free
     person id (not active, not tombstoned, not on the episode_000 baseline ledger) may remain
     below the batch maximum.
@@ -1352,6 +1388,9 @@ def check_hole_minted(
             if km:
                 tombstoned.add(int(km.group(1)))
     active = set(intro) | {int(k[2:]) for k in canonical if re.match(r"N-\d+$", k)}
+    hole_by_ep: dict[int, set[int]] = {}
+    for ep, _name, _batch, _idx, nid in minted:
+        hole_by_ep.setdefault(ep, set()).add(nid)
     seq: dict[tuple[str, str], list[tuple[int, str, int]]] = {}
     for ep, ep_name, batch, _idx, nid in minted:
         ent = intro.get(nid)
@@ -1369,6 +1408,18 @@ def check_hole_minted(
                 "P0",
                 "hole_mint_order",
                 f"{ep_name}: Hole-minted N-{nid} is also on a New, Reused or Existing Nodes Reused line of the same episode",
+                f"N-{nid}",
+            )
+        earlier = sorted(
+            e for e in set(new_ids) | set(reused_ids)
+            if e < ep and (nid in new_ids.get(e, set()) or nid in reused_ids.get(e, set()) or nid in hole_by_ep.get(e, set()))
+        )
+        if earlier:
+            report.add(
+                "P0",
+                "hole_mint_order",
+                f"{ep_name}: Hole-minted N-{nid} already appears on a ledger line of an earlier episode "
+                f"(ep{earlier[0]}); the hole mint must sit in the first episode that lists it",
                 f"N-{nid}",
             )
         seq.setdefault((batch, nid_band(nid)), []).append((ep, ep_name, nid))
@@ -1394,6 +1445,218 @@ def check_hole_minted(
                     + ", ".join(f"N-{x}" for x in free[:10]),
                     f"N-{top}",
                 )
+
+
+def _ledger_line_ids(content: str) -> tuple[set[int], set[int], set[int], set[int]]:
+    """(new, reused/existing, hole-minted, tip-minted) N-ids on one episode's ledger lines."""
+    m = NEW_NODES_LINE_RE.search(content)
+    new = {int(x) for x in re.findall(r"N-(\d+)", m.group(1))} if m else set()
+    reused: set[int] = set()
+    for rx in (REUSED_NODES_RE, EXISTING_REUSED_RE):
+        for rm in rx.finditer(content):
+            reused |= {int(x) for x in re.findall(r"N-(\d+)", rm.group(1))}
+    hole: set[int] = set()
+    for hm in HOLE_MINTED_RE.finditer(content):
+        hole |= {int(x) for x in re.findall(r"N-(\d+)", hm.group(2))}
+    tip: set[int] = set()
+    for tm in TIP_MINTED_RE.finditer(content):
+        tip |= {int(x) for x in re.findall(r"N-(\d+)", tm.group(2))}
+    return new, reused, hole, tip
+
+
+def person_intro_episodes(episodes: list[tuple[int, str, Path, str]], *, strict: bool = True) -> dict[int, int]:
+    """Episode that introduces each id.
+
+    strict (monuments with ledger_intro.strict in config/preflight_gates.json, e.g. CKA): the earliest
+    New, Hole-minted or Tip-minted line; ids that never sit on such a line fall back to their first
+    register row (check_ledger_intro reports those as intro_missing). Not strict: the earliest of
+    the first register row and those ledger lines (legacy ledgers that lag the register).
+    """
+    ledger_ep: dict[int, int] = {}
+    register_ep: dict[int, int] = {}
+    for ep, _name, _path, content in episodes:
+        if ep == 0:
+            continue
+        new, _reused, hole, tip = _ledger_line_ids(content)
+        for nid in new | hole | tip:
+            ledger_ep.setdefault(nid, ep)
+        for m in NODE_HEADER_RE.finditer(content):
+            register_ep.setdefault(int(m.group(1)), ep)
+    intro_ep = dict(register_ep)
+    for nid, ep in ledger_ep.items():
+        intro_ep[nid] = ep if strict else min(ep, intro_ep.get(nid, ep))
+    return intro_ep
+
+
+def _baseline_ids(episodes: list[tuple[int, str, Path, str]]) -> set[int]:
+    out: set[int] = set()
+    for ep, _name, _path, content in episodes:
+        if ep == 0:
+            out |= {int(x) for x in re.findall(r"N-(\d+)", content)}
+    return out
+
+
+def check_cited_before_intro(
+    report: PreflightReport, episodes: list[tuple[int, str, Path, str]], *, strict: bool = True
+) -> None:
+    """P0 first-introduction lock for citations (PR 60 re-audit P0-1, extended in Wave 2.1).
+
+    A person (N-1..N-999, not on the episode_000 baseline) may not appear in an episode earlier than
+    the episode whose New / Hole-minted / Tip-minted ledger line introduces it. Appearances checked:
+    claim Mentions and Related Nodes lines, any *Related:* line, Reused Nodes Appearing and Existing
+    Nodes Reused ledger lines (Reused-before-New), and node register rows. With strict=False the
+    introduction episode is the earlier of the first register row and the ledger line.
+    """
+    baseline = _baseline_ids(episodes)
+    intro_ep = person_intro_episodes(episodes, strict=strict)
+    for ep, ep_name, _path, content in episodes:
+        if ep == 0:
+            continue
+        seen: set[tuple[int, str]] = set()
+        groups: list[tuple[str, list[str]]] = []
+        for label, rx in (("Mentions", MENTIONS_LINE_RE), ("Related Nodes", RELATED_NODES_LINE_RE), ("*Related*", NODE_RELATED_RE)):
+            groups.append((label, [tok for m in rx.finditer(content) for tok in N_ID_TOKEN_RE.findall(m.group(1))]))
+        _new, reused, _hole, _tip = _ledger_line_ids(content)
+        groups.append(("Reused", [str(n) for n in sorted(reused)]))
+        groups.append(("register row", [m.group(1) for m in NODE_HEADER_RE.finditer(content)]))
+        for label, toks in groups:
+            for tok in toks:
+                nid = int(tok)
+                if nid >= 1000 or nid in baseline or (nid, label) in seen:
+                    continue
+                first = intro_ep.get(nid)
+                if first is not None and first > ep:
+                    seen.add((nid, label))
+                    report.add(
+                        "P0",
+                        "cited_before_intro",
+                        f"{ep_name}: person N-{nid} appears on a {label} line in ep{ep} but its New/Hole-minted/Tip-minted ledger line is in ep{first}",
+                        f"N-{nid}",
+                    )
+
+
+def check_ledger_intro(report: PreflightReport, episodes: list[tuple[int, str, Path, str]]) -> None:
+    """P0: every registered node (any band, not on the episode_000 baseline) must be introduced on a
+    New, Hole-minted or Tip-minted ledger line, and no later than its first register row or ledger
+    appearance. Catches ids that only ever sit on Reused lines (Wave 2.1)."""
+    baseline = _baseline_ids(episodes)
+    ledger_ep: dict[int, int] = {}
+    first_seen: dict[int, int] = {}
+    for ep, _name, _path, content in episodes:
+        if ep == 0:
+            continue
+        new, reused, hole, tip = _ledger_line_ids(content)
+        for nid in new | hole | tip:
+            ledger_ep.setdefault(nid, ep)
+        for nid in reused | {int(m.group(1)) for m in NODE_HEADER_RE.finditer(content)}:
+            first_seen.setdefault(nid, ep)
+    names = {ep: name for ep, name, _p, _c in episodes}
+    for nid, ep in sorted(first_seen.items()):
+        if nid in baseline:
+            continue
+        led = ledger_ep.get(nid)
+        if led is None:
+            report.add(
+                "P0",
+                "intro_missing",
+                f"{names[ep]}: N-{nid} first appears in ep{ep} (register row or Reused line) but no New, Hole-minted or Tip-minted line introduces it",
+                f"N-{nid}",
+            )
+
+
+def check_tip_minted(
+    report: PreflightReport,
+    episodes: list[tuple[int, str, Path, str]],
+    intro: dict[int, RegisterEntry],
+) -> None:
+    """P0 lock for ids minted at the band tip ('  - Tip-minted Nodes (<batch>): N-a, N-b').
+
+    Each id must get its first register row in that episode, must not also sit on a New, Reused,
+    Existing Nodes Reused or Hole-minted line, must not appear on any ledger line of an earlier
+    episode, must ascend in episode order per batch and band, and must sit above every id of its band
+    that is introduced any other way (otherwise it is a hole mint, not a tip mint).
+    """
+    tips: list[tuple[int, str, str, int]] = []
+    lines: dict[int, tuple[set[int], set[int], set[int], set[int]]] = {}
+    for ep, ep_name, _path, content in episodes:
+        lines[ep] = _ledger_line_ids(content)
+        for tm in TIP_MINTED_RE.finditer(content):
+            for tok in re.findall(r"N-(\d+)", tm.group(2)):
+                tips.append((ep, ep_name, tm.group(1), int(tok)))
+    if not tips:
+        return
+    tip_ids = {nid for _e, _n, _b, nid in tips}
+    frontier: dict[str, int] = {}
+    for nid in intro:
+        if nid not in tip_ids:
+            b = nid_band(nid)
+            frontier[b] = max(frontier.get(b, 0), nid)
+    seq: dict[tuple[str, str], list[tuple[int, str, int]]] = {}
+    for ep, ep_name, batch, nid in tips:
+        ent = intro.get(nid)
+        if ent is None:
+            report.add("P0", "tip_mint_order", f"{ep_name}: Tip-minted N-{nid} ({batch}) has no register row", f"N-{nid}")
+        elif ent.episode != ep:
+            report.add(
+                "P0",
+                "tip_mint_order",
+                f"{ep_name}: Tip-minted N-{nid} ({ent.name}) is first registered in {ent.episode_file}; list it there",
+                f"N-{nid}",
+            )
+        new, reused, hole, _tip = lines[ep]
+        if nid in new or nid in reused or nid in hole:
+            report.add(
+                "P0",
+                "tip_mint_order",
+                f"{ep_name}: Tip-minted N-{nid} is also on a New, Reused, Existing Nodes Reused or Hole-minted line",
+                f"N-{nid}",
+            )
+        earlier = sorted(e for e, ids in lines.items() if e < ep and any(nid in s for s in ids))
+        if earlier:
+            report.add(
+                "P0",
+                "tip_mint_order",
+                f"{ep_name}: Tip-minted N-{nid} already appears on a ledger line of an earlier episode (ep{earlier[0]})",
+                f"N-{nid}",
+            )
+        b = nid_band(nid)
+        if nid <= frontier.get(b, 0):
+            report.add(
+                "P0",
+                "tip_mint_order",
+                f"{ep_name}: Tip-minted N-{nid} is below the {b} band frontier N-{frontier[b]}; it is a hole mint, list it on a Hole-minted line",
+                f"N-{nid}",
+            )
+        seq.setdefault((batch, b), []).append((ep, ep_name, nid))
+    for (batch, _b), items in seq.items():
+        prev = None
+        for ep, ep_name, nid in items:
+            if prev is not None and nid < prev[2]:
+                report.add(
+                    "P0",
+                    "tip_mint_order",
+                    f"{ep_name}: Tip-minted N-{nid} (batch {batch}) is introduced after N-{prev[2]} ({prev[1]}) but has a lower id",
+                    f"N-{nid}",
+                )
+            prev = (ep, ep_name, nid)
+
+
+def check_dangling_claim_refs(report: PreflightReport, episodes: list[tuple[int, str, Path, str]]) -> None:
+    """P1: every C-id on a *Related:* line or a claim relation field (Contradicts, Supports, Revises,
+    Qualifies, Refutes, Related Claims) must have a claim header somewhere in the drafts."""
+    defined: set[str] = set()
+    for ep, _name, _path, content in episodes:
+        if ep > 0:
+            defined |= {m.group(1) for m in CLAIM_HEADER_ANY_RE.finditer(content)}
+    for ep, ep_name, _path, content in episodes:
+        if ep == 0:
+            continue
+        flagged: set[str] = set()
+        for m in CLAIM_REF_LINE_RE.finditer(content):
+            for cid in re.findall(r"\bC-\d+\b", m.group(0)):
+                if cid not in defined and cid not in flagged:
+                    flagged.add(cid)
+                    report.add("P1", "dangling_claim_ref", f"{ep_name}: {cid} is referenced but never defined", cid)
 
 
 def run_preflight(
@@ -1476,6 +1739,12 @@ def run_preflight(
     check_tombstone_collision(report, canonical)
     check_name_annotation_mismatch(report, ingest_episodes, register, canonical)
     check_hole_minted(report, monument_dir, episodes, intro, canonical)
+    check_tip_minted(report, episodes, intro)
+    strict_intro = bool((load_gate_config(monument_dir).get("ledger_intro") or {}).get("strict"))
+    check_cited_before_intro(report, episodes, strict=strict_intro)
+    if strict_intro:
+        check_ledger_intro(report, episodes)
+    check_dangling_claim_refs(report, ingest_episodes)
 
     check_tip(report, monument_dir, tip_sha, pack_path)
     return report

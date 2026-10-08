@@ -123,7 +123,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:07:15–00:08:48",
-          "transcript_snippet": "I was sitting right to the left of Charlie... I better secure the footage... hand it to the feds",
+          "transcript_snippet": "I was sitting right to the left or or to the left of Charlie when Charlie got shot ... I better secure the footage. ... hand that footage over to the feds.",
           "confidence": "high"
         },
         {
@@ -140,7 +140,7 @@
             "N-1"
           ],
           "tags": [],
-          "video_timestamp": "00:11:47–00:15:27",
+          "video_timestamp": "00:10:33–00:14:13",
           "transcript_snippet": "he will get onto a FaceTime call with me and he will show me the footage on his computer",
           "confidence": "medium",
           "uncertainty_note": "Underlying footage not shown in episode; relies on host's account."
@@ -169,8 +169,8 @@
             "N-1134"
           ],
           "tags": [],
-          "video_timestamp": "00:19:25–00:21:25",
-          "transcript_snippet": "Valves as critical infrastructure assets... intelligence agencies, CISA, NSA, FERC monitor valve networks",
+          "video_timestamp": "00:17:21–00:19:21",
+          "transcript_snippet": "Valves as critical infrastructure assets. ... intelligence and regulatory agencies, the uh CISA, NSA, PH, MSA, FERC monitor valve networks",
           "confidence": "high"
         }
       ]
@@ -195,7 +195,7 @@
             "N-1135"
           ],
           "tags": [],
-          "video_timestamp": "00:28:50–00:29:03",
+          "video_timestamp": "00:24:46–00:24:59",
           "transcript_snippet": "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster",
           "confidence": "high"
         }
@@ -223,7 +223,7 @@
             "N-1000"
           ],
           "tags": [],
-          "video_timestamp": "00:29:57–00:31:32",
+          "video_timestamp": "00:25:57–00:27:32",
           "transcript_snippet": "When's the last time you saw Candace Owens in person? 2015, 2016... she's not even invited",
           "confidence": "high"
         }
@@ -249,7 +249,7 @@
             "N-1145"
           ],
           "tags": [],
-          "video_timestamp": "00:41:44–00:42:14",
+          "video_timestamp": "00:35:09–00:35:39",
           "transcript_snippet": "we will absolutely target you, go after you if you are targeting anyone with hate speech",
           "confidence": "high"
         }
@@ -274,7 +274,7 @@
             "N-5"
           ],
           "tags": [],
-          "video_timestamp": "00:46:28–00:47:52",
+          "video_timestamp": "00:39:31–00:40:55",
           "transcript_snippet": "He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish",
           "confidence": "high"
         },
@@ -291,7 +291,7 @@
             "N-2"
           ],
           "tags": [],
-          "video_timestamp": "00:49:31–00:49:58",
+          "video_timestamp": "00:41:12–00:41:39",
           "transcript_snippet": "can we just for one day agree that it's horrible and monstrous to shoot another person",
           "confidence": "high"
         }
@@ -318,7 +318,7 @@
             "N-1145"
           ],
           "tags": [],
-          "video_timestamp": "00:50:41–00:51:35",
+          "video_timestamp": "00:42:01–00:42:55",
           "transcript_snippet": "Brendan Carr... threatened federal action against ABC affiliates who carried the show",
           "confidence": "high"
         }
@@ -344,7 +344,7 @@
             "N-126"
           ],
           "tags": [],
-          "video_timestamp": "00:39:19–00:39:44",
+          "video_timestamp": "00:32:43–00:33:08",
           "transcript_snippet": "after the assassination of Sarah Mgram and Yuron Lachinsky... these were beautiful people",
           "confidence": "medium"
         },
@@ -361,7 +361,7 @@
             "N-3"
           ],
           "tags": [],
-          "video_timestamp": "00:39:01–00:40:17",
+          "video_timestamp": "00:32:59–00:34:15",
           "transcript_snippet": "speech censorship is coming to America... the date here is May 22nd of this year",
           "confidence": "medium"
         }
@@ -386,7 +386,7 @@
             "N-1000"
           ],
           "tags": [],
-          "video_timestamp": "00:33:03–00:34:36",
+          "video_timestamp": "00:27:53–00:29:26",
           "transcript_snippet": "Here is me speaking on Turning Point USA's stage last year... America first. First name America, last name first",
           "confidence": "high"
         },
@@ -404,7 +404,7 @@
             "N-1000"
           ],
           "tags": [],
-          "video_timestamp": "00:35:07–00:35:20",
+          "video_timestamp": "00:29:24–00:29:37",
           "transcript_snippet": "Live free tour. Charlie Kirk and Candace Owens",
           "confidence": "high"
         }
@@ -430,7 +430,7 @@
             "N-1079"
           ],
           "tags": [],
-          "video_timestamp": "00:53:48–00:55:59",
+          "video_timestamp": "00:44:30–00:46:41",
           "transcript_snippet": "ridiculous madeup text chain between Tyler Robinson and his lover Lance... what went wrong? FBI",
           "confidence": "high"
         }
@@ -454,7 +454,7 @@
             "N-123"
           ],
           "tags": [],
-          "video_timestamp": "00:54:17–00:54:55",
+          "video_timestamp": "00:44:52–00:45:30",
           "transcript_snippet": "Good day, my love. I have just committed one of the highest sins of the Lord. Murder",
           "confidence": "high"
         }
@@ -478,8 +478,8 @@
             "N-69"
           ],
           "tags": [],
-          "video_timestamp": "00:56:34–01:01:53",
-          "transcript_snippet": "maple cookie shake... they began advertising on August 31st... absolutely earliest is August 31st",
+          "video_timestamp": "00:50:29–00:55:48",
+          "transcript_snippet": "So, the absolute earliest that could have been taken is August 31st ... Yes, the maple cookie shake. That's what it was. Um, they began advertising on August 31st,",
           "confidence": "medium"
         }
       ]
@@ -1434,7 +1434,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-99",
-        "N-118"
+        "N-118",
+        "N-1"
       ]
     },
     {
@@ -1493,7 +1494,7 @@
         "N-1000"
       ],
       "tags": [],
-      "claim_timestamp": "00:06:11",
+      "claim_timestamp": "00:06:44",
       "investigative_direction": "Verify association via TPUSA employee/vendor records and corroborate timeline with other witnesses.",
       "transcript_snippet": "This person's been around Turning Point for quite some time, for years",
       "confidence": "medium",
@@ -1517,7 +1518,7 @@
       "tags": [
         "crime_scene_evidence"
       ],
-      "claim_timestamp": "00:12:45",
+      "claim_timestamp": "00:11:36",
       "investigative_direction": "Obtain the underlying behind-shot footage directly and have independent forensic analysts review it.",
       "transcript_snippet": "there's no blood... there's no blood from the back",
       "confidence": "medium",
@@ -1562,12 +1563,14 @@
         "N-1135"
       ],
       "tags": [],
-      "claim_timestamp": "00:29:03",
+      "claim_timestamp": "00:24:46",
       "investigative_direction": "Verify headline and byline on the Daily Mail site and check publication date.",
       "transcript_snippet": "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-119"
+        "N-119",
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -1581,7 +1584,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:30:18",
+      "claim_timestamp": "00:25:42",
       "investigative_direction": "Obtain full PBD segment and verify exact quote against published clip.",
       "transcript_snippet": "her credibility, I mean, is going to go down the tubes because she needs to bring receipts",
       "confidence": "high",
@@ -1604,7 +1607,7 @@
         "N-1000"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:38",
+      "claim_timestamp": "00:25:57",
       "investigative_direction": "Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.",
       "transcript_snippet": "When's the last time you saw Candace Owens in person? 2015, 2016",
       "confidence": "high",
@@ -1630,13 +1633,14 @@
         "N-1145"
       ],
       "tags": [],
-      "claim_timestamp": "00:42:14",
+      "claim_timestamp": "00:35:09",
       "investigative_direction": "Verify Bondi's exact remarks against full podcast audio and date.",
       "transcript_snippet": "we will absolutely target you, go after you if you are targeting anyone with hate speech",
       "confidence": "high",
       "mentions_person_refs": [
         "N-120",
-        "N-121"
+        "N-121",
+        "N-1"
       ]
     },
     {
@@ -1652,7 +1656,7 @@
         "N-1141"
       ],
       "tags": [],
-      "claim_timestamp": "00:47:39",
+      "claim_timestamp": "00:39:31",
       "investigative_direction": "Verify exact quote against full Kimmel episode transcript and date.",
       "transcript_snippet": "He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish",
       "confidence": "high",
@@ -1672,7 +1676,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:49:52",
+      "claim_timestamp": "00:41:12",
       "investigative_direction": "Locate original Instagram post and verify date/time.",
       "transcript_snippet": "can we just for one day agree that it's horrible and monstrous to shoot another person",
       "confidence": "high",
@@ -1698,7 +1702,7 @@
         "N-1146"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:18",
+      "claim_timestamp": "00:17:47",
       "investigative_direction": "Verify public statements and contracts from each named agency regarding valve/SCADA monitoring.",
       "transcript_snippet": "intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks",
       "confidence": "medium"
@@ -1718,7 +1722,7 @@
         "N-1146"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:03",
+      "claim_timestamp": "00:18:34",
       "investigative_direction": "Verify company registration, address, and project portfolio via Utah business filings and the company website.",
       "transcript_snippet": "companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems",
       "confidence": "medium"
@@ -1758,13 +1762,14 @@
         "N-1145"
       ],
       "tags": [],
-      "claim_timestamp": "00:50:48",
+      "claim_timestamp": "00:42:01",
       "investigative_direction": "Locate full Carr interview on Benny Johnson show and verify against FCC official statements.",
       "transcript_snippet": "Brendan Carr... threatened federal action against ABC affiliates who carried the show",
       "confidence": "high",
       "mentions_person_refs": [
         "N-124",
-        "N-127"
+        "N-127",
+        "N-122"
       ]
     },
     {
@@ -1778,14 +1783,14 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:39:44",
+      "claim_timestamp": "00:32:52",
       "investigative_direction": "Locate original Charlie Kirk tweet and verify date and content.",
       "transcript_snippet": "these were beautiful people. They had their lives ahead of them",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-1",
         "N-125",
-        "N-126"
+        "N-126",
+        "N-1"
       ]
     },
     {
@@ -1799,7 +1804,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:40:17",
+      "claim_timestamp": "00:32:59",
       "investigative_direction": "Verify the text message screenshot metadata and timestamp.",
       "transcript_snippet": "speech censorship is coming to America... the date here is May 22nd of this year",
       "confidence": "medium",
@@ -1822,7 +1827,7 @@
         "N-1000"
       ],
       "tags": [],
-      "claim_timestamp": "00:33:03",
+      "claim_timestamp": "00:27:53",
       "investigative_direction": "Cross-reference TPUSA website archive and event recordings; verify dates.",
       "transcript_snippet": "Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens",
       "confidence": "high",
@@ -1830,8 +1835,8 @@
         "C-1213"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -1848,7 +1853,7 @@
         "N-1143"
       ],
       "tags": [],
-      "claim_timestamp": "00:53:48",
+      "claim_timestamp": "00:44:30",
       "investigative_direction": "Verify authenticity of released text chain via independent forensic analysis and metadata.",
       "transcript_snippet": "ridiculous madeup text chain between Tyler Robinson and his lover Lance",
       "confidence": "high",
@@ -1870,7 +1875,7 @@
         "N-1143"
       ],
       "tags": [],
-      "claim_timestamp": "00:54:17",
+      "claim_timestamp": "00:44:52",
       "investigative_direction": "Locate original Olsen Instagram post and verify date.",
       "transcript_snippet": "Good day, my love. I have just committed one of the highest sins of the Lord. Murder",
       "confidence": "high",
@@ -1891,7 +1896,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "01:01:38",
+      "claim_timestamp": "00:50:29",
       "investigative_direction": "Verify DQ marketing rollout date for the maple cookie shake and confirm poster appears in the photo.",
       "transcript_snippet": "maple cookie shake... they began advertising on August 31st",
       "confidence": "medium",
@@ -1930,7 +1935,7 @@
       "occurrences": [
         {
           "episode": 6,
-          "video_timestamp": "00:26:54",
+          "video_timestamp": "00:23:05",
           "speaker_node_ref": "N-3",
           "quote": "according to the CDC's own data, the flu shot is only moderately effective at best, and that's not even accounting for vaccine injuries",
           "context": "Host subverts Trust the Science meme by citing CDC data against flu shot efficacy",
@@ -1971,7 +1976,7 @@
       "occurrences": [
         {
           "episode": 6,
-          "video_timestamp": "00:22:45",
+          "video_timestamp": "00:20:02",
           "speaker_node_ref": "N-3",
           "quote": "obscene lies that are just so easily fact checked... everyone people that I thought I was friends with are coming after me",
           "context": "Host describes coordinated media smears against her investigation, consistent with 'conspiracy theorist' dismissal pattern",

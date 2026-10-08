@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2350, N-2351, N-2352, N-2353, N-2354
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-435, N-344, N-424, N-16, N-434, N-224, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330, N-30, N-36, N-37, N-40
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-435, N-344, N-424, N-16, N-434, N-224, N-1291, N-1313, N-1720, N-1444, N-2073, N-2092, N-2329, N-2330, N-30, N-36, N-37, N-40
   - (see registers)
   - Person band: persons minted in this quality pass use N-30+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:45:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (document vs podcast as characterized by host)
 
-*Related: C-3588, C-3589, N-2353, N-424, N-344, N-1720, N-2063*
+*Related: C-3588, C-3589, N-2353, N-424, N-344, N-1720, N-1444*
 
 ---
 
@@ -339,7 +339,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2063** Brian Harpole Fort Huachuca Presence Verification
+**N-1444** Brian Harpole Fort Huachuca Presence Verification
 
 Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.
 
@@ -447,7 +447,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3588, C-3589, A-2453.1, N-424, N-344, N-2063*
+*Related: C-3588, C-3589, A-2453.1, N-424, N-344, N-1444*
 
 ---
 
@@ -539,7 +539,7 @@ Claim Timestamp: 00:14:22
 Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard—characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
-Mentions: N-30
+Mentions: N-30, N-1
 
 Related Nodes: N-1291, N-2073, N-2351
 
@@ -554,7 +554,7 @@ Claim Timestamp: 00:35:31
 Claim: Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.
 
 Anchored Artifacts: A-2451.3
-Mentions: N-30
+Mentions: N-30, N-1
 
 Related Nodes: N-1313, N-2073, N-2351
 
@@ -571,7 +571,7 @@ Claim: Brian Harpole stated on Shawn Ryan’s podcast that UVU selected the venu
 Anchored Artifacts: A-2453.1, A-2451.3
 Mentions: N-344, N-424
 
-Related Nodes: N-1313, N-2063, N-2353
+Related Nodes: N-1313, N-1444, N-2353
 
 Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.
 
@@ -586,7 +586,7 @@ Claim: Host, following the review, asserts Harpole’s podcast remarks about Pro
 Anchored Artifacts: A-2453.1
 Mentions: N-424
 
-Related Nodes: N-1720, N-2063, N-2353
+Related Nodes: N-1720, N-1444, N-2353
 
 Investigative Direction: Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.
 
@@ -659,7 +659,7 @@ Claim Timestamp: 00:01:46
 Claim: Host asserts the Kirk family’s statement blaming UVU security was a hasty preemptive strike issued with knowledge the independent review was about to become public (crediting Baron Coleman for first reporting the review’s imminence).
 
 Anchored Artifacts: A-2451.1, A-2458.1
-Mentions: N-2
+Mentions: N-2, N-552
 
 Related Nodes: N-2329, N-2350
 

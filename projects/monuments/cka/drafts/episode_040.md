@@ -292,7 +292,7 @@ Claim Timestamp: 00:41:49
 Claim: At the Pentagon briefing on December 3, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-479, N-480
+Mentions: N-479, N-480, N-3
 Investigative Direction: Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.
 
 ---
@@ -304,7 +304,7 @@ Claim Timestamp: 00:43:00
 Claim: Pentagon press secretary Kingsley Wilson responded "not that I'm aware of" to the question of whether DoD had evidence of a French military plot to assassinate Candace Owens, and suggested it might be more of a law enforcement matter.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-480
+Mentions: N-480, N-3
 Investigative Direction: Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.
 
 ---
@@ -316,7 +316,7 @@ Claim Timestamp: 00:50:53–00:51:42
 Claim: The Game is releasing a mixtape that contains a track titled "The Assassination of Candace Owens."
 
 Anchored Artifacts: A-1491.1
-Mentions: N-481
+Mentions: N-481, N-3
 Investigative Direction: Verify the track listing against the released mixtape; obtain the song lyrics and release date.
 
 ---
@@ -340,7 +340,7 @@ Claim Timestamp: 00:46:20
 Claim: A Fortune article published December 2 carried the headline "Inside the economics of Candace Owens's media empire and the Macron lawsuit threatening to unravel it."
 
 Anchored Artifacts: A-1492.1
-Mentions: N-2
+Mentions: N-2, N-3
 Investigative Direction: Locate the Fortune article, capture full byline, and verify publication date.
 
 ---
@@ -364,6 +364,7 @@ Claim Timestamp: 00:49:59
 Claim: Per host reference, Emmanuel Macron's public calendar records a phone call with Donald Trump at 6:45 PM French time (10:45 AM Utah time) on September 10, 2025.
 
 Anchored Artifacts: A-1493.1
+Mentions: N-5
 Related Nodes: N-1379
 Investigative Direction: Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.
 

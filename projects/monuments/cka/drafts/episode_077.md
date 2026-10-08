@@ -423,7 +423,7 @@ Claim Timestamp: 00:04:13
 Claim: A Jeffrey Epstein email to Peter Thiel, recently released, states that Epstein represents the Rothschilds.
 
 Anchored Artifacts: A-1822.1
-Mentions: N-2
+Mentions: N-2, N-35, N-835
 
 
 Investigative Direction: Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.
@@ -556,7 +556,7 @@ Claim Timestamp: 00:34:21
 Claim: On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's "nakedly partisan" record, that Hobbs vetoed nine of his bills previously, and that the Charlie Kirk plate would honor a "civil rights leader of our time."
 
 Anchored Artifacts: A-1831.1
-Mentions: N-964, N-965
+Mentions: N-964, N-965, N-1
 
 Related Nodes: N-1601
 
@@ -571,7 +571,7 @@ Claim Timestamp: 00:38:23
 Claim: Tyler Bowyer posted on X: "Every nonprofit in Arizona that has major roots has a license plate. Katie Hobbs vetoed this uh over politics after Charlie was brutally murdered. Disgusting."
 
 Anchored Artifacts: A-1832.1
-Mentions: N-37
+Mentions: N-37, N-965
 
 Related Nodes: N-1601
 

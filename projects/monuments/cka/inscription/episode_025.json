@@ -796,6 +796,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -815,9 +831,9 @@
       "claim_timestamp": "00:02:42–00:05:23",
       "investigative_direction": "Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.",
       "mentions_person_refs": [
-        "N-1",
         "N-45",
-        "N-272"
+        "N-272",
+        "N-1"
       ]
     },
     {
@@ -838,7 +854,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-45",
-        "N-272"
+        "N-272",
+        "N-1"
       ]
     },
     {
@@ -857,8 +874,8 @@
       "claim_timestamp": "00:10:01–00:10:58",
       "investigative_direction": "Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary.",
       "mentions_person_refs": [
-        "N-1",
-        "N-272"
+        "N-272",
+        "N-1"
       ]
     },
     {
@@ -1012,7 +1029,8 @@
       "claim_timestamp": "00:20:12–00:23:48",
       "investigative_direction": "Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure.",
       "mentions_person_refs": [
-        "N-334"
+        "N-334",
+        "N-102"
       ]
     },
     {

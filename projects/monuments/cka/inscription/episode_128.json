@@ -77,9 +77,6 @@
             "C-3061"
           ],
           "related_nodes": [
-            "N-1209",
-            "N-1210",
-            "N-1211",
             "N-2134"
           ],
           "tags": [],
@@ -106,8 +103,6 @@
             "C-3062"
           ],
           "related_nodes": [
-            "N-1212",
-            "N-1213",
             "N-2135"
           ],
           "tags": [],
@@ -134,7 +129,6 @@
             "C-3063"
           ],
           "related_nodes": [
-            "N-1214",
             "N-2137"
           ],
           "tags": [],
@@ -160,9 +154,7 @@
           "related_claims": [
             "C-3064"
           ],
-          "related_nodes": [
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -178,9 +170,7 @@
           "related_claims": [
             "C-3065"
           ],
-          "related_nodes": [
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -197,10 +187,7 @@
             "C-3066",
             "C-3069"
           ],
-          "related_nodes": [
-            "N-1214",
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -216,9 +203,7 @@
           "related_claims": [
             "C-3067"
           ],
-          "related_nodes": [
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -235,10 +220,7 @@
             "C-3068",
             "C-3070"
           ],
-          "related_nodes": [
-            "N-1214",
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -263,8 +245,6 @@
             "C-3071"
           ],
           "related_nodes": [
-            "N-1211",
-            "N-1209",
             "N-2132"
           ],
           "tags": [],
@@ -283,7 +263,6 @@
             "C-3072"
           ],
           "related_nodes": [
-            "N-1215",
             "N-2132"
           ],
           "tags": [],
@@ -302,7 +281,6 @@
             "C-3073"
           ],
           "related_nodes": [
-            "N-1216",
             "N-2132"
           ],
           "tags": [],
@@ -337,7 +315,6 @@
             "C-3074"
           ],
           "related_nodes": [
-            "N-1217",
             "N-2132"
           ],
           "tags": [],
@@ -363,9 +340,7 @@
           "related_claims": [
             "C-3075"
           ],
-          "related_nodes": [
-            "N-1217"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -390,11 +365,7 @@
             "C-3076",
             "C-3077"
           ],
-          "related_nodes": [
-            "N-1214",
-            "N-1218",
-            "N-1219"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -410,9 +381,7 @@
           "related_claims": [
             "C-3078"
           ],
-          "related_nodes": [
-            "N-1220"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -437,8 +406,6 @@
             "C-3079"
           ],
           "related_nodes": [
-            "N-1221",
-            "N-1222",
             "N-2136"
           ],
           "tags": [],
@@ -465,7 +432,6 @@
             "C-3080"
           ],
           "related_nodes": [
-            "N-1223",
             "N-2131"
           ],
           "tags": [],
@@ -485,7 +451,6 @@
             "C-3081"
           ],
           "related_nodes": [
-            "N-1223",
             "N-2131"
           ],
           "tags": [],
@@ -512,8 +477,6 @@
             "C-3082"
           ],
           "related_nodes": [
-            "N-1224",
-            "N-1225",
             "N-2138"
           ],
           "tags": [],
@@ -529,474 +492,19 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Former U.S. Navy SEAL Team Six sniper; in this episode presents on-camera critique of the federal ballistics narrative regarding Charlie Kirk's shooting.",
-      "related_artifacts": [
-        "A-2153.1"
-      ],
-      "related_claims": [
-        "C-3058"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2133"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Air Force Brigadier General who joined Robert O'Neill on Newsmax; rejected the \"spine impact\" explanation for the bullet wound.",
-      "related_artifacts": [
-        "A-2153.2"
-      ],
-      "related_claims": [
-        "C-3059"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2133"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Governor of Utah; made the public statement at the September 12, 2025 FBI briefing that the assassin changed clothes on the rooftop.",
-      "related_artifacts": [
-        "A-2154.1",
-        "A-2158.1"
-      ],
-      "related_claims": [
-        "C-3060"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2134"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "FBI Director; visibly present at the September 12, 2025 press conference and did not intervene during the governor's rooftop-clothing statement.",
-      "related_artifacts": [
-        "A-2154.1"
-      ],
-      "related_claims": [
-        "C-3061"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Commissioner of Utah Department of Public Safety (appointed June 19, 2025 by Gov. Cox); previously photographed with Jennifer Faumuina in 2013 post-training and in 2023 swearing-in.",
-      "related_artifacts": [
-        "A-2157.3",
-        "A-2157.5",
-        "A-2158.1"
-      ],
-      "related_claims": [
-        "C-3069",
-        "C-3070",
-        "C-3071"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1214",
-        "N-2132"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "FBI Deputy Director; appeared on Megyn Kelly on September 15, 2025 and described the rooftop footage as \"very grainy.\"",
-      "related_artifacts": [
-        "A-2155.1"
-      ],
-      "related_claims": [
-        "C-3062"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Host of the September 15, 2025 interview in which Dan Bongino described the rooftop footage as grainy.",
-      "related_artifacts": [
-        "A-2155.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Sergeant with the Utah State Bureau of Investigation; appeared on Netflix's *Worst Roommate Ever* S2E1 referencing FBI JTTF assignment; subject of an extensive biographical reconstruction in this episode.",
-      "related_artifacts": [
-        "A-2156.1",
-        "A-2157.1",
-        "A-2157.2",
-        "A-2157.3",
-        "A-2157.4",
-        "A-2157.5",
-        "A-2160.1"
-      ],
-      "related_claims": [
-        "C-3063",
-        "C-3064",
-        "C-3065",
-        "C-3066",
-        "C-3067",
-        "C-3068"
-      ],
-      "tags": [],
-      "evidence_count": 7,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-1218",
-        "N-1219",
-        "N-2137"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1215",
       "ref": "N-1215",
       "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
-      "description": "Appointed CEO of Timpanogos Hospital on August 18, 2025 — weeks before the assassination.",
-      "related_artifacts": [
-        "A-2158.2"
-      ],
-      "related_claims": [
-        "C-3072"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2132"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Judge; appointed May 2025.",
-      "related_artifacts": [
-        "A-2158.3"
-      ],
-      "related_claims": [
-        "C-3073"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2132"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Special Agent; assumed leadership of FBI Salt Lake City Field Office on September 2, 2025; began career at Provo Police Department in the early 2000s.",
-      "related_artifacts": [
-        "A-2158.5",
-        "A-2159.1"
-      ],
-      "related_claims": [
-        "C-3074",
-        "C-3075"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2132"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Father of Sgt. Jennifer Faumuina; quoted in 1995 Honolulu-area news articles about his brother's homicide.",
-      "related_artifacts": [
-        "A-2160.1"
-      ],
-      "related_claims": [
-        "C-3076"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1214",
-        "N-1219"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Uncle of Sgt. Jennifer Faumuina; died in 1995 in Hawaii following a gang-related beating; described in press as a devout Mormon attending the Maquilo Ward.",
-      "related_artifacts": [
-        "A-2160.1"
-      ],
-      "related_claims": [
-        "C-3076",
-        "C-3077"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1214",
-        "N-1218"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Head of \"Adult Friends for Youth\" organization referenced in the 1995 article covering Misiona Faumuina's death.",
-      "related_artifacts": [
-        "A-2160.2"
-      ],
-      "related_claims": [
-        "C-3078"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Identified by host as present in the vehicle transporting Charlie Kirk to the hospital; appeared on the Shawn Ryan Show podcast and addressed the CPR discrepancy with Brian Harpole.",
-      "related_artifacts": [
-        "A-2161.1"
-      ],
-      "related_claims": [
-        "C-3079"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1222",
-        "N-1226",
-        "N-2136"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Identified by host as in the same vehicle with Frank Turek; asserted CPR was not performed, a claim Turek partially contradicted.",
-      "related_artifacts": [
-        "A-2161.1"
-      ],
-      "related_claims": [
-        "C-3079"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1221",
-        "N-2136"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "Turning Point USA staffer; gave conflicting on-record statements about the hotel location on the night of September 10, 2025 and could not recall the hotel name.",
-      "related_artifacts": [
-        "A-2162.1",
-        "A-2162.2"
-      ],
-      "related_claims": [
-        "C-3080",
-        "C-3081"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2131"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1224",
-      "ref": "N-1224",
-      "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
-      "description": "Turning Point USA figure referenced by host as directing communications; subject of an X defense by his brother regarding Fort Huachuca.",
-      "related_artifacts": [
-        "A-2163.1"
-      ],
-      "related_claims": [
-        "C-3082"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1225",
-        "N-2138"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1225",
-      "ref": "N-1225",
-      "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
-      "description": "Brother of Andrew Kolvet; active-duty Lieutenant Colonel who publicly defended his brother on X regarding Fort Huachuca.",
-      "related_artifacts": [
-        "A-2163.1"
-      ],
-      "related_claims": [
-        "C-3082"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1224",
-        "N-2138"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1226",
-      "ref": "N-1226",
-      "name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "investigation_target",
-      "description": "Host of the podcast on which Frank Turek appeared to address the CPR discrepancy.",
-      "related_artifacts": [
-        "A-2161.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1221"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1227",
-      "ref": "N-1227",
-      "name": "Witness and Public-Figure Demeanor Anomalies",
-      "type": "investigation_target",
-      "description": "Referenced by host as having previously described a \"Mormon mafia\" in private conversation prior to Charlie Kirk's assassination.",
+      "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -1017,10 +525,7 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1223"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1045,13 +550,7 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1211",
-        "N-1215",
-        "N-1216",
-        "N-1217"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1117,10 +616,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1212"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -1139,11 +635,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1221",
-        "N-1222"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -1162,10 +654,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1214"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -1184,11 +673,151 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1224",
-        "N-1225"
-      ]
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-186",
+      "ref": "N-186",
+      "name": "Robert Bowles",
+      "type": "person",
+      "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1206,7 +835,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:29",
-      "investigative_direction": "Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics."
+      "investigative_direction": "Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1222,7 +854,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:31",
-      "investigative_direction": "Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials."
+      "investigative_direction": "Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1238,7 +873,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
-      "investigative_direction": "Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim."
+      "investigative_direction": "Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1249,13 +887,14 @@
       "anchored_artifacts": [
         "A-2154.1"
       ],
-      "related_nodes": [
-        "N-1210",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:39",
-      "investigative_direction": "Inspect full uncut briefing video for any clarifying remarks made by either official before or after the exchange."
+      "investigative_direction": "Inspect full uncut briefing video for any clarifying remarks made by either official before or after the exchange.",
+      "mentions_person_refs": [
+        "N-70",
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -1267,12 +906,14 @@
         "A-2155.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2135"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
-      "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency."
+      "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1284,7 +925,6 @@
         "A-2156.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-2137"
       ],
       "tags": [],
@@ -1300,9 +940,7 @@
       "anchored_artifacts": [
         "A-2157.1"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records."
@@ -1316,9 +954,7 @@
       "anchored_artifacts": [
         "A-2157.2"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Confirm against Weber State graduation records or alumni listings."
@@ -1332,10 +968,7 @@
       "anchored_artifacts": [
         "A-2157.3"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify through DPS academy records and class photographs."
@@ -1349,9 +982,7 @@
       "anchored_artifacts": [
         "A-2157.4"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Confirm the original article, deployment list, and credentialing records."
@@ -1365,9 +996,7 @@
       "anchored_artifacts": [
         "A-2157.5"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression."
@@ -1381,10 +1010,7 @@
       "anchored_artifacts": [
         "A-2157.3"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify the photograph and underlying academy/class record."
@@ -1398,10 +1024,7 @@
       "anchored_artifacts": [
         "A-2157.5"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases."
@@ -1416,12 +1039,14 @@
         "A-2158.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-2132"
       ],
       "tags": [],
       "claim_timestamp": "00:19:15",
-      "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record."
+      "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record.",
+      "mentions_person_refs": [
+        "N-70"
+      ]
     },
     {
       "@type": "Claim",
@@ -1450,7 +1075,6 @@
         "A-2158.3"
       ],
       "related_nodes": [
-        "N-1216",
         "N-2132"
       ],
       "tags": [],
@@ -1467,12 +1091,14 @@
         "A-2158.5"
       ],
       "related_nodes": [
-        "N-1217",
         "N-2132"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
-      "investigative_direction": "Confirm via FBI press releases and internal personnel announcements."
+      "investigative_direction": "Confirm via FBI press releases and internal personnel announcements.",
+      "mentions_person_refs": [
+        "N-186"
+      ]
     },
     {
       "@type": "Claim",
@@ -1483,12 +1109,13 @@
       "anchored_artifacts": [
         "A-2159.1"
       ],
-      "related_nodes": [
-        "N-1217"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:12",
-      "investigative_direction": "Cross-reference Provo PD rosters and 2004 article content."
+      "investigative_direction": "Cross-reference Provo PD rosters and 2004 article content.",
+      "mentions_person_refs": [
+        "N-186"
+      ]
     },
     {
       "@type": "Claim",
@@ -1499,11 +1126,7 @@
       "anchored_artifacts": [
         "A-2160.1"
       ],
-      "related_nodes": [
-        "N-1214",
-        "N-1218",
-        "N-1219"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case."
@@ -1517,9 +1140,7 @@
       "anchored_artifacts": [
         "A-2160.1"
       ],
-      "related_nodes": [
-        "N-1219"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records."
@@ -1533,9 +1154,7 @@
       "anchored_artifacts": [
         "A-2160.2"
       ],
-      "related_nodes": [
-        "N-1220"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:35",
       "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings."
@@ -1550,13 +1169,15 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-1221",
-        "N-1222",
         "N-2136"
       ],
       "tags": [],
       "claim_timestamp": "00:31:07",
-      "investigative_direction": "Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment."
+      "investigative_direction": "Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1569,12 +1190,14 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-1223",
         "N-2131"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
-      "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records."
+      "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1586,12 +1209,14 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-1223",
         "N-2131"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
-      "investigative_direction": "Cross-check with travel booking records, expense reports, and any hotel worker testimony."
+      "investigative_direction": "Cross-check with travel booking records, expense reports, and any hotel worker testimony.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1603,13 +1228,14 @@
         "A-2163.1"
       ],
       "related_nodes": [
-        "N-1224",
-        "N-1225",
         "N-2138"
       ],
       "tags": [],
       "claim_timestamp": "00:41:03",
-      "investigative_direction": "Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references."
+      "investigative_direction": "Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     }
   ],
   "memes": []

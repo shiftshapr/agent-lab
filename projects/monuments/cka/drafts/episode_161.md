@@ -768,7 +768,7 @@ Investigative Direction: Align Discord timestamps with TPUSA public denial state
 Claim Timestamp: 00:14:10
 Claim: Per Ali Breland's Atlantic investigation as read on air, Matt Servius in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.
 Anchored Artifacts: A-2499.1
-Mentions: N-582, N-579, N-586, N-75, N-293, N-52, N-170, N-550, N-133, N-406
+Mentions: N-582, N-579, N-586, N-75, N-293, N-52, N-170, N-550, N-133, N-406, N-50
 Related Nodes: N-2380, N-2377, N-2372, N-2371, N-1078
 Investigative Direction: Preserve Atlantic article + Servius promo videos; map budget months to Candace harassment windows.
 

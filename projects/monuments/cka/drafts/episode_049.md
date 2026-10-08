@@ -344,7 +344,7 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Witness "Mitch" identified by resemblance (95–99%) the man who walked out of the JTF building on September 9, 2025 as Brian Harpole, citing matching mannerisms, facial features, height, haircut, and gait.
 
 Anchored Artifacts: A-1558.3, A-1559.2
-Mentions: N-597
+Mentions: N-597, N-424
 
 Related Nodes: N-1438
 
@@ -404,6 +404,7 @@ Claim Timestamp: 00:01:18–00:02:51
 Claim: Host confirms visual observation, prompted by viewer email, of black plastic-like or tempered-glass-like fragments distributed across the rear floor of Charlie Kirk's SUV in post-shooting photographs, noting distinction from surrounding blood.
 
 Anchored Artifacts: A-1560.1, A-1560.2
+Mentions: N-1
 
 Related Nodes: N-1440
 

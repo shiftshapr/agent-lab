@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
   - Claim Range: C-3211–C-3221
   - New Nodes Introduced: N-2175, N-2176, N-2177, N-2178
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218
+  - Reused Nodes Appearing: 
   - Existing Nodes Reused: None in this episode beyond standard references
 
 ---
@@ -83,7 +83,7 @@ Video Timestamp: 00:17:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed headline excerpt)
 
-*Related: C-3213, N-2176, N-1215*
+*Related: C-3213, N-2176*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:37:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played clip)
 
-*Related: C-3216, N-1213*
+*Related: C-3216*
 
 **A-2239.2** Iranian state-linked news agency footage showing Tomahawk tail fins
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:38:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played clip)
 
-*Related: C-3216, N-1213*
+*Related: C-3216*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:43:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played audio)
 
-*Related: C-3217, N-1214*
+*Related: C-3217*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:34:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed screenshot)
 
-*Related: C-3215, N-1211, N-1212*
+*Related: C-3215*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played audio)
 
-*Related: C-3214, N-1215, N-2177*
+*Related: C-3214, N-2177*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:13:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-3218, N-1216*
+*Related: C-3218*
 
 ---
 
@@ -208,162 +208,6 @@ Confidence: medium
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Christian commentator cited by host for invoking Exodus 22:22 / Deuteronomy 19 against Candace Owens; host alleges pattern of similar rhetoric.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2236.1, C-3211*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Host of podcast on which Frank Turek made the cited remarks.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2236.1, C-3211*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Senator cited as the alleged cover identity used by an unidentified individual scoping UVU campus on Sept 9, 2025. Host explicitly exonerates him of wrongdoing.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2175*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-USU police officer formerly of San Bernardino PD; subject of Brady list inquiry and exoneration update. Spelling: A-L-A-N per host clarification (distinct from A-L-L-E-N / A-L-L-A-N).
-
-Evidence Count: 0 (verbal source emails not displayed)
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2176*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Turning Point USA staff member identified via Benny Johnson show still at Asher Adams Hotel in Salt Lake City on Sept 11, 2025.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2241.1, C-3215, N-1212*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Host of show on which Andrew Kovat appeared Sept 11, 2025; source for hotel screenshot artifact.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2241.1, C-3215, N-1211*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-US Defense Secretary; subject of Sky News exchange on Iran school bombing investigation.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2239.1, A-2239.2, C-3216*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Commentator whose audio clip on arming Iranian protesters was played; referenced as advisor influencing presidential posture.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2240.1, C-3217*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-UVU Police Officer whose trial testimony on rooftop video review is questioned by host.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2238.1, A-2242.1, C-3214, N-2176, N-2177*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Turning Point USA figure; subject of X post artifact criticizing Candace.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2243.1, C-3218*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Referenced by Blake Neff (per host) as companion in Salt Lake City whose whereabouts Neff reportedly could not recall.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1216*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-President of Preborn; sponsor content reference, not investigation.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: None (sponsor only)*
-
----
-
 **N-2175** UVU Campus Sept 9 Scoping Incident
 
 Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's "source from UVU"), not artifact-documented.
@@ -386,7 +230,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2238.1, C-3213, N-1215, N-1210*
+*Related: A-2238.1, C-3213*
 
 ---
 
@@ -399,7 +243,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2242.1, C-3214, N-1215*
+*Related: A-2242.1, C-3214*
 
 ---
 
@@ -425,6 +269,7 @@ Claim Timestamp: 00:03:17
 Claim: Frank Turek, on a Nicholas Bowling podcast episode airing roughly Aug 3, 2026, cited Exodus 22:22 and Deuteronomy 19 in commentary accusing Candace Owens of falsely accusing people.
 
 Anchored Artifacts: A-2236.1
+Mentions: N-3, N-16
 
 Related Nodes:
 
@@ -439,6 +284,7 @@ Claim Timestamp: 00:07:24
 Claim: A woodworker email received by Candace Owens's production states that black nitrile gloves are the most resistant to CA glue (super glue) and spray activator adhesive.
 
 Anchored Artifacts: A-2237.1
+Mentions: N-3
 
 Related Nodes: N-2178
 
@@ -453,8 +299,9 @@ Claim Timestamp: 00:17:01
 Claim: A CNN article dated September 11, 2025 stated that authorities recovered a screwdriver near the rifle believed used in the Charlie Kirk shooting, framing the screwdriver as evidence the shooter may have disassembled/reassembled the firearm.
 
 Anchored Artifacts: A-2238.1
+Mentions: N-1
 
-Related Nodes: N-2176, N-1215
+Related Nodes: N-2176
 
 Investigative Direction: Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full.
 
@@ -468,7 +315,7 @@ Claim: During cross-examination, Officer Christopher Bagley testified that he di
 
 Anchored Artifacts: A-2242.1
 
-Related Nodes: N-1215, N-2177
+Related Nodes: N-2177
 
 Investigative Direction: Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.
 
@@ -481,8 +328,9 @@ Claim Timestamp: 00:34:29
 Claim: A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kovat broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.
 
 Anchored Artifacts: A-2241.1
+Mentions: N-124, N-42
 
-Related Nodes: N-1211, N-1212
+Related Nodes:
 
 Investigative Direction: Confirm via hotel guest logs (subject to availability) or via further visual artifacts.
 
@@ -496,7 +344,7 @@ Claim: A Sky News investigation, drawing on Iranian state-linked news agency foo
 
 Anchored Artifacts: A-2239.1, A-2239.2
 
-Related Nodes: N-1213
+Related Nodes:
 
 Investigative Direction: Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases.
 
@@ -510,7 +358,7 @@ Claim: Mark Levin, in a played audio segment, urged arming Iranian protesters an
 
 Anchored Artifacts: A-2240.1
 
-Related Nodes: N-1214
+Related Nodes:
 
 Investigative Direction: Identify the original Levin broadcast (date, program) for full context.
 
@@ -523,8 +371,9 @@ Claim Timestamp: 00:13:19
 Claim: Blake Neff posted on X accusing Candace Owens of harassing "another random Utah police officer," accusing her of seeking dirt on him via former Marines, and characterizing her work as harassment for her "grift."
 
 Anchored Artifacts: A-2243.1
+Mentions: N-3, N-224
 
-Related Nodes: N-1216
+Related Nodes:
 
 Investigative Direction: Locate Neff's exact X post URL to confirm timestamp and surrounding context.
 
@@ -537,6 +386,7 @@ Claim Timestamp: 00:14:31
 Claim: The Daily Mail, in a press request received by Candace Owens's team on or about Aug 3, 2026, asked what steps she is taking "if the worst happens and you are raided by law enforcement."
 
 Anchored Artifacts: A-2244.1
+Mentions: N-3
 
 Related Nodes:
 
@@ -551,6 +401,7 @@ Claim Timestamp: 00:08:14
 Claim: Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the standard resistance to CA glue/spray activator, characterizing it as "100% true."
 
 Anchored Artifacts: A-2237.1
+Mentions: N-3
 
 Related Nodes: N-2178
 
@@ -565,6 +416,7 @@ Claim Timestamp: 00:49:05
 Claim: Candace Owens states that, contrary to Catholic doctrine prohibiting cremation, certain Catholic funeral homes in Arizona do in fact offer cremation services; she confirmed this via her own lookup.
 
 Anchored Artifacts: A-2245.1 (viewer comment prompting the lookup)
+Mentions: N-3
 
 Related Nodes:
 
@@ -618,9 +470,9 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:52:11
 Speaker: N-3
-Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency.
+Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency
 Context: Closing merch plug restates DCIA / CIA twin brand.
 Tags: merch, brand_joke
 Confidence: high
@@ -631,9 +483,9 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:52:11
 Speaker: N-3
-Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency.
+Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency
 Context: Same merch beat names Candace Intelligence Agency hats.
 Tags: merch, brand_joke
 Confidence: high

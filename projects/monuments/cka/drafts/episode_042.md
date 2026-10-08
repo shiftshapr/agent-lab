@@ -456,7 +456,7 @@ Claim Timestamp: 00:11:14
 Claim: In his earlier invitation statement (read aloud in this episode), Blake Nef said TPUSA would "sincerely welcome" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.
 
 Anchored Artifacts: A-1502.1
-Mentions: N-2, N-224
+Mentions: N-2, N-224, N-3
 
 Related Nodes: N-1384
 
@@ -471,7 +471,7 @@ Claim Timestamp: 00:34:18
 Claim: The Game's song "The Assassination of Candace Owens" (audio excerpt and lyric read) includes the line "Who really killed Charlie Kirk?"
 
 Anchored Artifacts: A-1503.1
-Mentions: N-1, N-481
+Mentions: N-1, N-481, N-3
 
 
 Investigative Direction: Obtain the full released track and verify publication date, distribution platform, and producer credits.
@@ -648,6 +648,7 @@ Claim Timestamp: 00:28:44
 Claim: Tyler Robinson, the alleged shooter, was wearing a maroon shirt at the UVU event.
 
 Anchored Artifacts: A-1505.1 (referenced as background fact)
+Mentions: N-69
 
 Related Nodes: N-1382
 
@@ -704,6 +705,7 @@ Claim Timestamp: 00:45:11
 Claim: The roof video caller stated that Tyler Robinson's defense lawyer had not reached out, and that federal authorities had not reached out since the host's prior contact.
 
 Anchored Artifacts: A-1509.1
+Mentions: N-69
 
 Related Nodes: N-1385
 
@@ -732,7 +734,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Blake Nef states Erika Kirk "heads this" and host identifies Erika Kirk as CEO of TPUSA.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2
+Mentions: N-2, N-224
 
 Related Nodes: N-1384
 

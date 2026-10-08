@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-  - Reused Nodes Appearing: N-2, N-42, N-50, N-224, N-1207, N-1208, N-1209, N-1210, N-1211, N-53
+  - Reused Nodes Appearing: N-2, N-42, N-50, N-224, N-53
 
 ---
 
@@ -32,7 +32,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-42 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-50 (Tucker Carlson), N-224 (Blake Neff (variant: Nef) - actual ledger IDs to be verified against global ledger), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-42 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-50 (Tucker Carlson), N-224 (Blake Neff (variant: Nef) - actual ledger IDs to be verified against global ledger)
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3504, C-3507, N-1, N-224, N-1210*
+*Related: C-3504, C-3507, N-1, N-224*
 
 **A-2400.2** Politico excerpt (Ian Ward): "maximalist position on free speech" framing.
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:47:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3505, N-224, N-1210*
+*Related: C-3505, N-224*
 
 ---
 
@@ -429,7 +429,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.x, C-3510, N-2, N-42, N-1211, N-2336*
+*Related: A-2402.x, C-3510, N-2, N-42, N-2336*
 
 ---
 
@@ -525,7 +525,7 @@ Claim Timestamp: 00:13:35
 Claim: A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Candace Owens a message attributed to "E" describing a plan to seed a public feud between Charlie Kirk and Candace Owens ("Operation Greyer X anonymous").
 
 Anchored Artifacts: A-2394.1
-Mentions: N-2, N-3, N-42
+Mentions: N-2, N-3, N-42, N-1
 
 Related Nodes: N-2332
 
@@ -555,7 +555,7 @@ Claim Timestamp: 00:30:10
 Claim: In his Aspen donors presentation, Charlie Kirk described the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.
 
 Anchored Artifacts: A-2397.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-2331
 
@@ -630,9 +630,9 @@ Claim Timestamp: 00:45:02
 Claim: Politico published a profile of Blake Neff titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed" (author Ian Ward).
 
 Anchored Artifacts: A-2400.1
-Mentions: N-1, N-224
+Mentions: N-1, N-224, N-50
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Obtain full Politico article and publication date.
 
@@ -647,7 +647,7 @@ Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a 
 Anchored Artifacts: A-2400.2
 Mentions: N-224
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Verify direct attribution of the "maximalist" phrase to Ward vs Neff.
 
@@ -704,6 +704,7 @@ Claim Timestamp: 00:38:28
 Claim: Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders.
 
 Anchored Artifacts: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6
+Mentions: N-76
 
 Related Nodes: N-2336
 
@@ -735,7 +736,7 @@ Claim Timestamp: 00:55:56
 Claim: Candace concurs with the @spilling the tea observation that holding a Charlie Kirk one-year anniversary event at UVU is inconsistent with TPUSA's UVU-negligence claims.
 
 Anchored Artifacts: A-2404.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-2330
 
@@ -750,7 +751,7 @@ Claim Timestamp: 00:56:57
 Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a "retention policy" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripts News reporters also released the Brian Cole Jr. pipe-bomb footage.
 
 Anchored Artifacts: A-2404.2
-Mentions: N-53
+Mentions: N-53, N-69
 
 
 Investigative Direction: Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution.

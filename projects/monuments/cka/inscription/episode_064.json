@@ -441,6 +441,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -462,7 +494,9 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).",
       "mentions_person_refs": [
-        "N-264"
+        "N-264",
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -500,8 +534,8 @@
       "claim_timestamp": "00:17:35",
       "investigative_direction": "Compile every instance of \"family\" usage; obtain termination records of named attendees to verify the host's juxtaposition.",
       "mentions_person_refs": [
-        "N-2",
-        "N-264"
+        "N-264",
+        "N-2"
       ]
     },
     {
@@ -539,7 +573,8 @@
       "claim_timestamp": "00:22:11",
       "investigative_direction": "Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -594,7 +629,8 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.",
       "mentions_person_refs": [
-        "N-796"
+        "N-796",
+        "N-2"
       ]
     },
     {
@@ -628,7 +664,8 @@
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Identify the source podcast and episode date; verify Boreing's full context for the statement.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     },
     {
@@ -645,7 +682,8 @@
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Identify source podcast and date; verify exact quote and surrounding context.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     },
     {
@@ -662,7 +700,8 @@
       "claim_timestamp": "00:41:59",
       "investigative_direction": "Identify source podcast and date; verify quote against full unedited clip.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     },
     {
@@ -732,7 +771,8 @@
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     },
     {
@@ -749,7 +789,8 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     },
     {
@@ -766,7 +807,8 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     },
     {
@@ -785,7 +827,8 @@
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.",
       "mentions_person_refs": [
-        "N-607"
+        "N-607",
+        "N-3"
       ]
     }
   ],

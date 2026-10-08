@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1674, N-1675, N-1676, N-1677, N-1678, N-1679, N-1680, N-1681
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
 ## I. Meta-Data
@@ -31,7 +31,7 @@ Episode X Ledger Summary
 
 - Artifact Families Introduced: A-1958, A-1959, A-1960, A-1961, A-1962, A-1963, A-1964
 - Claim Range: C-2698–C-2721
-- New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+- New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-1674, N-1675, N-1676, N-1677, N-1678, N-1679, N-1680, N-1681
 - Existing Nodes Reused: Erika Kirk, Charlie Kirk, Donald Trump, Sebastian Gorka
 
@@ -58,7 +58,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:21:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-1210, N-1211, N-1215, N-1216, N-1675, N-1676, N-1677, N-1678*
+*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-1675, N-1676, N-1677, N-1678*
 
 ---
 
@@ -93,7 +93,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2716, N-1216, N-1677*
+*Related: C-2716, N-1677*
 
 ---
 
@@ -119,7 +119,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2718, N-1212, N-1679*
+*Related: C-2718, N-1679*
 
 ---
 
@@ -160,149 +160,6 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Marine veteran and pastor affiliated with Turning Point Faith; founder of All Things Possible Ministries; subject of Corby Hall's first-person testimony; 2026 Colorado gubernatorial candidate. Central figure of this episode.
-
-Evidence Count: 7 (A-1958.1, A-1959.2, A-1960.1, A-1962.1, A-1963.1 [via C-2713], A-1964.1, plus inferences across artifacts)
-Claim Count: 15
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1958.1, A-1959.1, A-1959.2, A-1960.1, A-1962.1, A-1964.1, C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2714, C-2715, C-2716, C-2718, C-2719, C-2720, N-1211, N-1212, N-1216, N-1675, N-1676, N-1677, N-1679, N-1680*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Manufacturer of Fold AR rifles; primary witness and source of written statement regarding Victor Marx interactions; recipient of ATF trace email.
-
-Evidence Count: 2 (A-1958.1, A-1963.1)
-Claim Count: 14
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1958.1, A-1963.1, C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2713, C-2721, N-1210, N-1211, N-1215, N-1216, N-1674, N-1675, N-1676, N-1677, N-1678, N-1679*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Wife of Victor Marx; present during the Fold AR demo, marriage of Corby Hall and Melody, and post-assassination visit to Erika Kirk.
-
-Evidence Count: 2 (A-1958.1, A-1959.1)
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1958.1, A-1959.1, C-2699, C-2700, C-2714*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Corby Hall's then-girlfriend (later wife); COO of Fold AR; participated in demo, retooling prayer, and marriage ceremony performed by Victor Marx.
-
-Evidence Count: 1 (A-1958.1)
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1958.1, C-2699, C-2700, C-2701, C-2710*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-COO of Victor Marx's operation; accompanied Marx to Haiti; present at dinner meeting with Corby Hall, wearing bulletproof vest.
-
-Evidence Count: 1 (A-1958.1)
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1958.1, N-1677*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Victor Marx's stepfather ("Mr. K"). Per host narration only — no artifact shown in episode supporting the criminal allegations. Noted as biographical context subject to verification.
-
-Evidence Count: 0 (host narration, no artifact anchor)
-Claim Count: 0 (not inscribed; failed admission test)
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1679 (verification target only)*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Victor Marx's brother; per host narration, pled guilty as co-conspirator in the Gloyce Dean Kennedy case. Per host narration only — no artifact shown.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1212, N-1679*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Victor Marx's biological father; per host narration, described as a pimp, drug dealer, and martial arts expert who spent time in a mental hospital. Per host narration only — no artifact shown.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1679*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Competitive shooter for Sig Sauer; per Corby Hall's statement, allegedly tested and approved Fold AR for Sig Sauer's potential acquisition.
-
-Evidence Count: 1 (A-1958.1)
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1958.1, C-2706*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Haitian gang leader; subject of CBN News report regarding Victor Marx's visit and claimed evangelism; named target of alleged capture/execution plan.
-
-Evidence Count: 2 (A-1958.1, A-1960.1)
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1958.1, A-1960.1, C-2705, C-2716, N-1677*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Independent researcher who has conducted deep dives on Victor Marx across X and Facebook; cited by host as having identified background inconsistencies. Note: host spells name as "Cori" then "Corey"; transcription oddity flagged.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1679*
-
----
-
 **N-1674** ATF Trace on Fold AR SN 02735 (September 10, 2025)
 
 Persistent question regarding the timing, target crime, and follow-up (or absence thereof) of the ATF trace initiated on the morning of Charlie Kirk's assassination.
@@ -325,7 +182,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, C-2706, C-2707, C-2709, N-1215*
+*Related: A-1958.1, C-2706, C-2707, C-2709*
 
 ---
 
@@ -351,7 +208,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1960.1, C-2703, C-2704, C-2705, C-2716, N-1211, N-1216*
+*Related: A-1958.1, A-1960.1, C-2703, C-2704, C-2705, C-2716*
 
 ---
 
@@ -377,7 +234,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1962.1, A-1964.1, C-2718, C-2719, C-2720, N-1212, N-1213, N-1214, N-1217*
+*Related: A-1958.1, A-1962.1, A-1964.1, C-2718, C-2719, C-2720*
 
 ---
 
@@ -431,7 +288,7 @@ Claim: Corby Hall's written statement documents that on or about December 1, 202
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Verify travel records, communications, and Fold AR demo logs from December 2023.
 
@@ -445,7 +302,7 @@ Claim: Corby Hall's written statement documents that Victor Marx performed a rit
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently.
 
@@ -459,7 +316,7 @@ Claim: Corby Hall's written statement documents that on January 24, 2024, Victor
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Verify the marriage through official marriage records.
 
@@ -515,7 +372,7 @@ Claim: Corby Hall's written statement documents that Victor Marx stated his team
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1216, N-1677
+Related Nodes: N-1677
 
 Investigative Direction: Cross-reference with subsequent Haiti mission records and CBN News reporting.
 
@@ -529,7 +386,7 @@ Claim: Corby Hall's written statement documents that Victor Marx stated he was d
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1215, N-1675
+Related Nodes: N-1675
 
 Investigative Direction: Verify with Sig Sauer corporate communications and Daniel Horner directly.
 
@@ -585,7 +442,7 @@ Claim: Corby Hall's written statement documents that after the deal fell through
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Obtain the original message text if retained.
 
@@ -640,6 +497,7 @@ Claim Timestamp: 00:09:06
 Claim: An Instagram video shows Erika Kirk and Eileen Marx embracing shortly after Charlie Kirk's assassination, with impassioned music ("Held" by Natalie Grant) added, posted by Victor Marx.
 
 Anchored Artifacts: A-1959.1
+Mentions: N-1, N-2
 
 Related Nodes: N-1680
 
@@ -654,6 +512,7 @@ Claim Timestamp: 00:10:03
 Claim: A photo shows Erika Kirk being comforted by Victor Marx at her residence, approximately 72 hours after Charlie Kirk's assassination; Erika is holding her phone.
 
 Anchored Artifacts: A-1959.2
+Mentions: N-1, N-2
 
 Related Nodes: N-1680
 
@@ -669,7 +528,7 @@ Claim: CBN News aired a report stating that Victor Marx met with Haitian gang le
 
 Anchored Artifacts: A-1960.1
 
-Related Nodes: N-1216, N-1677
+Related Nodes: N-1677
 
 Investigative Direction: Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.
 
@@ -682,6 +541,7 @@ Claim Timestamp: 00:43:08
 Claim: During a White House Easter celebration, Donald Trump publicly stated that the US had sent guns to Iranian protesters and expressed frustration that intermediaries had kept them rather than distributing them.
 
 Anchored Artifacts: A-1961.1
+Mentions: N-5
 
 Related Nodes: N-1681
 
@@ -762,10 +622,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" — host notes the military record may show "Vo" without "n." Flag retained on N-1207 and N-1679.
+- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo", host notes the military record may show "Vo" without "n." Flag retained on former local id 1207 and N-1679.
 - **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) — host describes it as forwarded and confirmed but does not directly display it in the episode.
 - **Possible transcription error**: A-1960.1 — gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
 - **Name transcription oddity**: Host spells "Corey Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-1217.
-- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions (N-1207, N-1212, N-1213, N-1214, N-1679).
+- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions (former local id 1207, former local id 1212, former local id 1213, former local id 1214, N-1679).
 - **Timestamp uncertainty**: A-1960.1 — exact event date for the CBN News segment is not stated; only inferable from clip context.
 - **Requires human verification**: All N-1675, N-1676, N-1677, N-1678 nodes require independent verification beyond Corby Hall's written statement.

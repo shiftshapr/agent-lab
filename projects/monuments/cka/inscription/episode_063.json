@@ -729,7 +729,8 @@
       "claim_timestamp": "00:26:33",
       "investigative_direction": "Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {

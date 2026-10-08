@@ -1,0 +1,60 @@
+episode,id,action,reason
+1,N-1,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-2,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-42,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-56,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-1000,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-3,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+2,N-35,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+2,N-50,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+2,N-5,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+3,N-3,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+3,N-59,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+3,N-70,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+4,N-45,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+4,N-67,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+4,N-70,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+5,N-84,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+7,N-16,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+9,N-1003,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+10,N-43,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+14,N-6,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+67,N-3,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+79,N-5,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+92,N-4,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+96,"N-612, N-617, N-619, N-622",HOLE_MINTED_WAVE2,"persons minted into free holes, first-introduction order"
+99,"N-623..N-627, N-2392",HOLE_MINTED_WAVE2,persons minted into free holes; Havas Media org
+24,"N-2385, N-2386",HOLE_MINTED_WAVE2,retyped orgs
+33,N-2387,HOLE_MINTED_WAVE2,retyped org
+41,N-2388,HOLE_MINTED_WAVE2,retyped org
+47,N-2389,HOLE_MINTED_WAVE2,retyped org
+51,"N-2390, N-2391",HOLE_MINTED_WAVE2,retyped orgs
+80+,spray/local ids,LEDGER_STRIP,uncited spray ids and local ids removed from New/Reused/Existing ledger lines (see related_spray.csv ledger_reuse_removed)
+24,N-2385; N-2386,RELABEL_TIP,Hole-minted (wave2) line relabelled Tip-minted (wave2) (P2-2)
+33,N-2387,RELABEL_TIP,P2-2
+41,N-2388,RELABEL_TIP,P2-2
+47,N-2389,RELABEL_TIP,P2-2
+51,N-2390; N-2391,RELABEL_TIP,P2-2
+99,N-2392,RELABEL_TIP,split off the Hole-minted (wave2) line onto Tip-minted (wave2) (P2-2)
+107,N-2384,RELABEL_TIP,split off the Hole-minted (wave1) line onto Tip-minted (wave1) (consistency)
+99,N-42; N-623..N-627,FIX_SECONDARY_LINE,"New Nodes Introduced (People) listed reused N-42; now lists N-623..N-627, plus an Organizations line for N-2392"
+147,N-69,FIX_SECONDARY_LINE,"N-69 Tyler Robinson is reused, not new; line now says none"
+6,N-1079,ADD_REUSED,cited on a claim but missing from the ledger (extended hostile ledger check)
+7,N-95,ADD_REUSED,cited on a claim but missing from the ledger (extended hostile ledger check)
+48,N-224,ADD_REUSED,N-596.5 (note) replaced by the N-224 reuse
+47,N-564,REMOVE_NEW,retired handle
+160;161,N-279; N-318; N-342; N-447; N-472; N-586,HOLE_LINES_TRUE,"after the P0-1 hold no person is cited before its ep160/161 introduction, so the hole-mint lines are true; enforced by the cited_before_intro gate"
+38,N-628,HOLE_MINT,Wave 2.1: Macron introduced at first appearance; removed from the Reused line
+69,N-628,MOVE_NEW_TO_REUSED,Wave 2.1: N-898 dropped from the New and People lines; N-628 on Reused and Existing Nodes Reused
+79,N-628,ADD_REUSED,Wave 2.1: Macron cited but missing from the ledger
+159,N-628,RENAME_REUSED,Wave 2.1: N-898 to N-628 on the Reused line
+20,N-182,HOLE_MINT,Wave 2.1 intro_missing: registered with no introducing ledger line (2026-10-06 remap of N-10017); batch remap-ep20
+80,N-209,HOLE_MINT,Wave 2.1 intro_missing: was only on the Reused line (remap of N-10018); batch remap-ep80
+104,N-225,HOLE_MINT,Wave 2.1 intro_missing: no ledger line (remap of N-10022); batch remap-ep104
+149,N-432,HOLE_MINT,Wave 2.1 intro_missing: no ledger line (2026-10-06 fix-all collapse of N-2256..N-2261); batch fixall-ep149
+159,N-178; N-213; N-215; N-223,HOLE_MINT,"Wave 2.1 intro_missing: were only on the Reused line (remap of N-10016, N-10019..N-10021); batch remap-ep159"
+160,N-230; N-244; N-250; N-279; N-294; N-303; N-318; N-342; N-346; N-347; N-411,HOLE_MINT,Wave 2.1 intro_missing: seq160 hole mints were listed on the Reused line; batch seq160
+23,N-1282,ADD_NEW,Wave 2.1 intro_missing: topic missing from the New line
+120,N-2079,ADD_NEW,Wave 2.1 intro_missing
+132,N-2152,ADD_NEW,Wave 2.1 intro_missing
+75,N-2346; N-2347; N-2348,HOLE_MINT,Wave 2.1 intro_missing: topic ids below the frontier with no ledger line; batch w2_1-ep75

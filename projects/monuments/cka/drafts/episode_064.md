@@ -274,7 +274,7 @@ Claim Timestamp: 00:09:08
 Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 — approximately five-and-a-half days after Charlie Kirk's death — with the public board announcement following one day later.
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
-Mentions: N-264
+Mentions: N-264, N-1, N-2
 
 Related Nodes: N-1519
 
@@ -300,7 +300,7 @@ Claim Timestamp: 00:17:35
 Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as "family," stating "your family if you want to," "I want our family to stay together," and "this is your chosen family."
 
 Anchored Artifacts: A-1686.2
-Mentions: N-264
+Mentions: N-264, N-2
 
 Related Nodes: N-1519
 
@@ -326,7 +326,7 @@ Claim Timestamp: 00:22:11
 Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be" — appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
 
 Anchored Artifacts: A-1686.2
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-1519
 
@@ -365,7 +365,7 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
 
 Anchored Artifacts: A-1687.1
-Mentions: N-796
+Mentions: N-796, N-2
 
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
@@ -389,7 +389,7 @@ Claim Timestamp: 00:39:00
 Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hiring Candace is probably the biggest mistake of my professional life so far."
 
 Anchored Artifacts: A-1688.1
-Mentions: N-607
+Mentions: N-607, N-3
 
 
 Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
@@ -401,7 +401,7 @@ Claim Timestamp: 00:40:30
 Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
 
 Anchored Artifacts: A-1688.2
-Mentions: N-607
+Mentions: N-607, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
@@ -413,7 +413,7 @@ Claim Timestamp: 00:41:59
 Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
 
 Anchored Artifacts: A-1688.3
-Mentions: N-607
+Mentions: N-607, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
@@ -462,7 +462,7 @@ Claim Timestamp: 00:40:30
 Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her — tied to her willingness to critique Black Lives Matter — is "objectively racist."
 
 Anchored Artifacts: A-1688.2
-Mentions: N-607
+Mentions: N-607, N-3
 
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
@@ -474,7 +474,7 @@ Claim Timestamp: 00:43:46
 Claim: Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.
 
 Anchored Artifacts: A-1688.3
-Mentions: N-607
+Mentions: N-607, N-3
 
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
@@ -486,7 +486,7 @@ Claim Timestamp: 00:44:36
 Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up" and an "amoral statement."
 
 Anchored Artifacts: A-1688.4
-Mentions: N-607
+Mentions: N-607, N-3
 
 
 Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
@@ -498,7 +498,7 @@ Claim Timestamp: 00:48:28
 Claim: Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.
 
 Anchored Artifacts: A-1689.1
-Mentions: N-607
+Mentions: N-607, N-3
 
 Related Nodes: N-1520
 

@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
   - Claim Range: C-1267-C-1285, C-3728-C-3730
-  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-161, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079
+  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-161, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079, N-1003
 
 ## 2. Executive Summary
 
@@ -29,13 +29,13 @@ Episode presses two investigative threads. First, FBI pressure on Utah authoriti
 **A-1155** Text Message Bundle (shown on-screen)
 
 **A-1155.1** Text chain between Candace and Charlie Kirk re: UK flight booking ($450 coach / $1,200 first class)
-Video Timestamp: 00:12:01–00:12:38
+Video Timestamp: 00:10:23–00:11:00
 *Related: C-1267, C-1268, N-1, N-3, N-59*
 Transcript Snippet: Reme $450 in coach or 1,200 in first class. And he's like, "Wow, let's book it."
 Confidence: high
 
 **A-1155.2** Texts to sister/husband Aug 30–Sep 2 re: 'imminent danger', 'communist underground' at schools, bees as code
-Video Timestamp: 00:16:44–00:17:54
+Video Timestamp: 00:13:36–00:14:46
 *Related: C-1269, N-3, N-59, N-157, N-1179*
 Transcript Snippet: I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.
 Confidence: high
@@ -45,27 +45,27 @@ Confidence: high
 **A-1156** Thomas Matthew Crooks Online-History Document Bundle
 
 **A-1156.1** 80-page scraped online-history document (referenced; partial on-screen)
-Video Timestamp: 00:28:09–00:32:11
+Video Timestamp: 00:22:24–00:26:26
 *Related: C-1270, N-148, N-1186, N-1177*
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Confidence: medium
 
 **A-1156.2** Video of Crooks practicing firing weapon in bedroom (no bullets, blurred)
-Video Timestamp: 00:28:42–00:29:15
+Video Timestamp: 00:22:45–00:23:18
 *Related: C-1271, N-148*
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Confidence: high
 
 **A-1156.3** YouTube comments by Crooks: violent rhetoric about socialists, Democrats
-Video Timestamp: 00:29:27–00:30:19
+Video Timestamp: 00:23:37–00:24:29
 *Related: C-1272, N-148, N-1186*
 Transcript Snippet: Lining up a bunch of socialist Jews…blasting their useless brains out with an AR.
 Confidence: high
 
 **A-1156.4** Crooks Google search history: mass shooting research, molotov cocktails, fertilizer bomb
-Video Timestamp: 00:31:02–00:31:54
+Video Timestamp: 00:24:53–00:25:45
 *Related: C-1273, N-148, N-1177*
-Transcript Snippet: Best places for a mass shooting. How to make Molotov cocktails, mixing gasoline with styrofoam.
+Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Confidence: high
 
 ---
@@ -73,7 +73,7 @@ Confidence: high
 **A-1157** Megyn Kelly Curse Segment
 
 **A-1157.1** Megyn Kelly clip reporting Jezebel mission to curse Charlie Kirk via Etsy witch services
-Video Timestamp: 00:42:20–00:43:58
+Video Timestamp: 00:34:05–00:35:43
 *Related: C-1274, N-2, N-75, N-1188, N-1189, N-1183*
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Confidence: high
@@ -83,7 +83,7 @@ Confidence: high
 **A-1158** Jimmy Kimmel Monologue Clip
 
 **A-1158.1** Jimmy Kimmel monologue thanking right-wing free-speech defenders including Candace Owens
-Video Timestamp: 00:38:33–00:40:25
+Video Timestamp: 00:31:04–00:32:56
 *Related: C-1275, N-3, N-122, N-150, N-133, N-151, N-152, N-153, N-1185*
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Confidence: high
@@ -93,7 +93,7 @@ Confidence: high
 **A-1159** Riverbend Ranch Tribute Audio
 
 **A-1159.1** Riverbend Ranch audio tribute honoring Charlie Kirk
-Video Timestamp: 00:34:37–00:35:17
+Video Timestamp: 00:27:59–00:28:39
 *Related: C-1276, N-1190*
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Confidence: high
@@ -103,7 +103,7 @@ Confidence: high
 **A-1160** Book Club Recording
 
 **A-1160.1** Sept 9 book club recording of Candace committing to homeschooling children
-Video Timestamp: 00:18:56–00:21:07
+Video Timestamp: 00:15:00–00:17:11
 *Related: C-1277, N-3, N-1179*
 Transcript Snippet: I'm homeschooling my kids. I'm so excited…a weight got lift off of my shoulders.
 Confidence: high
@@ -113,7 +113,7 @@ Confidence: high
 **A-1161** Listener Comments Bundle
 
 **A-1161.1** Natalie comment read on-air: neighbor's daughter has Tyler Robinson video showing a woman with him
-Video Timestamp: 00:55:36–00:56:18
+Video Timestamp: 00:43:41–00:44:23
 *Related: C-1278, N-69, N-159, N-1176*
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Confidence: low
@@ -599,7 +599,7 @@ Host cites 1848 communist uprising; kindergarten-establishment origin.
 
 **C-1267** Candace-Charlie text exchange re: UK flights
 
-Claim Timestamp: 00:12:01
+Claim Timestamp: 00:10:23
 Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
@@ -611,7 +611,7 @@ Investigative Direction: Verify text chain authenticity and timestamp; cross-che
 
 **C-1268** UK trip led to meeting husband within 18 days
 
-Claim Timestamp: 00:12:38
+Claim Timestamp: 00:09:13
 Claim: Candace met her husband for the first time during the UK trip and they were engaged 18 days later.
 Transcript Snippet: I didn't know him. I never even saw his face 18 day 18 days prior.
 Anchored Artifacts: A-1155.1
@@ -624,7 +624,7 @@ Investigative Direction: Corroborate via marriage records, flight manifests, and
 
 **C-1269** Bee-code school danger premonition texts (Aug 30–Sep 2)
 
-Claim Timestamp: 00:16:44
+Claim Timestamp: 00:14:15
 Claim: Candace exchanged text messages Aug 30–Sep 2 with her husband and sister describing 'imminent danger' and a 'communist underground' at schools using 'bees' as coded language.
 Transcript Snippet: Imminent danger is coming…communist underground…has something to do with bees.
 Anchored Artifacts: A-1155.2
@@ -651,7 +651,7 @@ Tags: open_source_investigation
 
 **C-1270** Existence of 80-page Crooks online-history document
 
-Claim Timestamp: 00:28:09
+Claim Timestamp: 00:22:24
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
@@ -664,7 +664,7 @@ Investigative Direction: Obtain full document; forensically authenticate scrape 
 
 **C-1271** Crooks posted bedroom firing-practice videos
 
-Claim Timestamp: 00:28:42
+Claim Timestamp: 00:22:45
 Claim: Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon in his bedroom.
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Anchored Artifacts: A-1156.2
@@ -677,7 +677,7 @@ Tags: open_source_investigation
 
 **C-1272** Crooks posted violent YouTube comments
 
-Claim Timestamp: 00:29:27
+Claim Timestamp: 00:23:37
 Claim: Crooks posted YouTube comments calling for violence against 'socialist Jews' and for Democrats to be beheaded.
 Transcript Snippet: Blasting their useless brains out with an AR…heads chopped off and put on stakes.
 Anchored Artifacts: A-1156.3
@@ -690,9 +690,9 @@ Investigative Direction: Recover original YouTube comments and timestamps via sc
 
 **C-1273** Crooks Google-searched mass-attack research
 
-Claim Timestamp: 00:31:02
+Claim Timestamp: 00:24:53
 Claim: Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.
-Transcript Snippet: Best places for a mass shooting. How to make Molotov cocktails.
+Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Anchored Artifacts: A-1156.4
 Mentions: N-148
 Related Nodes: N-1177
@@ -703,11 +703,11 @@ Investigative Direction: Obtain original search-history logs or corroborating sc
 
 **C-1274** Megyn Kelly: Jezebel/Etsy curse on Kirk
 
-Claim Timestamp: 00:42:20
+Claim Timestamp: 00:34:05
 Claim: Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the Kirks consulted a Catholic priest.
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Anchored Artifacts: A-1157.1
-Mentions: N-2, N-75
+Mentions: N-2, N-75, N-1
 Related Nodes: N-1183, N-1188, N-1189
 Confidence: high
 Investigative Direction: Recover Jezebel article and Etsy listings; verify priest consultation with family.
@@ -716,7 +716,7 @@ Investigative Direction: Recover Jezebel article and Etsy listings; verify pries
 
 **C-1275** Kimmel thanked right-wing free-speech defenders
 
-Claim Timestamp: 00:38:33
+Claim Timestamp: 00:31:04
 Claim: Jimmy Kimmel's monologue thanked conservatives including Candace Owens, Ted Cruz, Ben Shapiro, Rand Paul, Mitch McConnell, and Clay Travis for defending free speech.
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Anchored Artifacts: A-1158.1
@@ -729,10 +729,11 @@ Investigative Direction: Verify exact quote against full Kimmel monologue transc
 
 **C-1276** Riverbend Ranch tribute audio aired
 
-Claim Timestamp: 00:34:37
+Claim Timestamp: 00:27:59
 Claim: Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk's life and principles.
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Anchored Artifacts: A-1159.1
+Mentions: N-1
 Related Nodes: N-1190
 Confidence: high
 Investigative Direction: Confirm authenticity and release date via Riverbend Ranch.
@@ -741,7 +742,7 @@ Investigative Direction: Confirm authenticity and release date via Riverbend Ran
 
 **C-1277** Book club: Candace committed to homeschooling
 
-Claim Timestamp: 00:18:56
+Claim Timestamp: 00:15:00
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
@@ -754,7 +755,7 @@ Investigative Direction: Verify date and obtain full recording.
 
 **C-1278** Natalie tip: Tyler Robinson seen with a woman
 
-Claim Timestamp: 00:55:36
+Claim Timestamp: 00:43:41
 Claim: Listener Natalie reported that a video of Tyler Robinson walking in a neighborhood also shows him changing clothes and accompanied by a woman.
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Anchored Artifacts: A-1161.1
@@ -772,6 +773,7 @@ Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
+Mentions: N-1
 Related Nodes: N-1079, N-1175, N-1191
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
@@ -784,7 +786,7 @@ Claim Timestamp: 00:03:40
 Claim: Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.
 Transcript Snippet: There is absolutely no video which shows Tyler Robinson firing the weapon.
 Anchored Artifacts: 
-Mentions: N-69
+Mentions: N-69, N-1
 Related Nodes: N-1176
 Confidence: low
 Investigative Direction: Confirm via court filings, prosecution discovery, and public statements.
@@ -819,7 +821,7 @@ Investigative Direction: Verify against indictment and discovery materials.
 
 **C-1283** Multiple sets of prints on Robinson rifle
 
-Claim Timestamp: 00:08:59
+Claim Timestamp: 00:07:58
 Claim: Host's source says prints other than Tyler Robinson's were also on the rifle.
 Transcript Snippet: It's not the only set of prints that are on that gun.
 Anchored Artifacts: 
@@ -885,7 +887,7 @@ Investigative Direction: Compare FBI evidence releases in the Dallas ICE facilit
 
 ### Occurrence 1
 
-Video Timestamp: 00:12:38
+Video Timestamp: 00:10:29
 Speaker: N-3
 Quote: I just realized the reason that I had this overwhelming feeling to be there was because I was supposed to be my husband.
 Context: Candace recasts 'intuition/premonition' as God-guided happy coincidence leading to husband meeting.
@@ -898,24 +900,11 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:10:42
+Video Timestamp: 00:09:06
 Speaker: N-3
 Quote: I get all the conspiracies online when people were like there's no way she her and her husband got engaged after 18 days.
 Context: Host pre-emptively cites conspiracy-theorist mockery of her 18-day engagement; uses term to dismiss critics.
 Tags: self_reference
-Confidence: high
-
----
-
-**M-7** (meme) Catholic/Evangelical/Jewish identity flip
-
-### Occurrence 1
-
-Video Timestamp: 00:41:58–00:42:08
-Speaker: N-3
-Quote: At different times, it says Mormon. Other times, it says Church of Jesus Christ of Latter-day Saints
-Context: Answering a viewer correction (viewer handle not noded), the host concedes she oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.
-Tags: denominational_naming
 Confidence: high
 
 ---
@@ -968,4 +957,3 @@ TopicMention: C-1275 N-1185
 
 MemeLink: M-5 invoked_by_claim C-1268
 MemeLink: M-6 invoked_by_speaker N-3
-MemeLink: M-7 invoked_by_speaker N-3

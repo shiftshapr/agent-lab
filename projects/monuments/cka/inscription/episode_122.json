@@ -234,281 +234,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Audience attendee identified post-event; subject of host's investigative focus due to claimed military background and alleged Romania deployment.",
-      "related_artifacts": [
-        "A-2105.1",
-        "A-2105.2",
-        "A-2106.1",
-        "A-2107.1",
-        "A-2107.2"
-      ],
-      "related_claims": [
-        "C-2971",
-        "C-2972",
-        "C-2973",
-        "C-2974",
-        "C-2975",
-        "C-2976",
-        "C-2977"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Listed as having been in the car transporting Charlie Kirk; now contradicting Brian Harpole's account of CPR and wound observations.",
-      "related_artifacts": [
-        "A-2109.1"
-      ],
-      "related_claims": [
-        "C-2979",
-        "C-2980"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2097"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Founder of MC2 modeling agency; alleged co-founder of Next Model Corporation; deceased subject of trafficking investigations.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1220",
-        "N-2096"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Operator of Next Model Management; alleged co-founder with Jean-Luc Brunel.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2096"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Identified as Nevada National Guard lieutenant colonel (military police); deployed to Romania in same timeframe as Rawlinson.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1212",
-        "N-2095"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Identified as brother of Curtis Colvett.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1211"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Witness whose account of wound location shifted; family identified as connected to 911 dispatch services and Carbyne (Ehud Barak).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2098"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Identified as having been in the Executive Office Building (Washington, D.C.) during apparent Charlie Kirk Show appearance.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2099"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Tyler Robinson's alleged roommate; suspected by host of being the maroon-shirted individual in audience footage; suspected by host of having set up Tyler Robinson.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2983",
-        "C-2984"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2100",
-        "N-2101"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Subject of FOIA request for travel schedule September 7-10.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2098"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Former \"senior consultant to the Department of War\"; identified by host as having moved to Arizona to work with Turning Point USA on information warfare.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2102"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Identified as last person to mic Charlie Kirk; father's global ministry in Romania referenced.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2095"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Identified as Jean-Luc Brunel's brother and co-founder of Next Model Corporation.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1209",
-        "N-2096"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Host cites his show as source for the maroon beret / Rawlinson connection.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2094",
       "ref": "N-2094",
       "name": "Maroon Shirt Audience Identification",
@@ -547,10 +272,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1207",
-        "N-1211",
         "N-70",
-        "N-1219"
+        "N-37"
       ]
     },
     {
@@ -570,9 +293,6 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1209",
-        "N-1210",
-        "N-1220",
         "N-2"
       ]
     },
@@ -614,11 +334,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1213",
-        "N-1216"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -635,10 +351,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1214"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -655,10 +368,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -675,10 +385,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -697,10 +404,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1217"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -748,6 +452,102 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -765,7 +565,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:03",
-      "investigative_direction": "Cross-reference photographs with attendee registration, social media, and military records to identify individuals."
+      "investigative_direction": "Cross-reference photographs with attendee registration, social media, and military records to identify individuals.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -809,7 +612,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:09",
-      "investigative_direction": "Identify the second individual and confirm umbrellas' purpose and provenance."
+      "investigative_direction": "Identify the second individual and confirm umbrellas' purpose and provenance.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -913,7 +719,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:34",
-      "investigative_direction": "Compare against the official autopsy report and Brian Harpole's prior podcast statements."
+      "investigative_direction": "Compare against the official autopsy report and Brian Harpole's prior podcast statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -929,7 +739,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:34",
-      "investigative_direction": "Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound."
+      "investigative_direction": "Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -939,9 +753,7 @@
       "claim": "During the episode, the host asserts that multiple people with direct knowledge claim Erica Kirk was in charge of modeling apartments for underaged models at Next Model Management and MC2 during the period when those agencies are defendants in trafficking litigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2096",
-        "N-1210",
-        "N-1220"
+        "N-2096"
       ],
       "tags": [],
       "claim_timestamp": "00:20:08–00:21:31",
@@ -958,13 +770,14 @@
       "claim": "The host states the team has filed FOIA requests to the NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erica), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2098",
-        "N-1216",
-        "N-1213"
+        "N-2098"
       ],
       "tags": [],
       "claim_timestamp": "00:43:06–00:45:23",
-      "investigative_direction": "Verify FOIA request submissions via the agencies' tracking portals and any responses."
+      "investigative_direction": "Verify FOIA request submissions via the agencies' tracking portals and any responses.",
+      "mentions_person_refs": [
+        "N-102"
+      ]
     },
     {
       "@type": "Claim",
@@ -974,12 +787,14 @@
       "claim": "During the episode, the host identifies Lance Twiggs as the individual walking in a maroon shirt in audience footage from the same day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1215",
         "N-2100"
       ],
       "tags": [],
       "claim_timestamp": "01:00:41",
-      "investigative_direction": "Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses."
+      "investigative_direction": "Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses.",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -989,12 +804,16 @@
       "claim": "During the episode, the host states her belief, based on evidence presented thus far, that Tyler Robinson did not kill Charlie Kirk and was set up by Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1215",
         "N-2101"
       ],
       "tags": [],
       "claim_timestamp": "01:00:41",
-      "investigative_direction": "Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint."
+      "investigative_direction": "Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-1",
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1004,12 +823,15 @@
       "claim": "The host states Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1214",
         "N-2099"
       ],
       "tags": [],
       "claim_timestamp": "00:44:23–00:46:13",
-      "investigative_direction": "Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline."
+      "investigative_direction": "Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-102"
+      ]
     }
   ],
   "memes": []

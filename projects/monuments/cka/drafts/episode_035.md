@@ -481,7 +481,7 @@ Claim Timestamp: 00:30:52–00:31:42
 Claim: Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he "wasn't allowed to have drones."
 
 Anchored Artifacts: A-1442.1
-Mentions: N-424
+Mentions: N-424, N-344
 
 Related Nodes: N-1338
 
@@ -496,7 +496,7 @@ Claim Timestamp: 00:33:46–00:36:45
 Claim: Brian Harpole, on the Shawn Ryan interview, repeated the bullet-trajectory description involving entry, C6 vertebra crush, and 3,000 lbs of energy.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-424
+Mentions: N-424, N-344
 
 
 Investigative Direction: Obtain the full interview clip; confirm exact wording and timestamps.
@@ -510,7 +510,7 @@ Claim Timestamp: 00:42:03–00:44:03
 Claim: Tim Pool stated in a video that the narrative from the number one podcast had turned into "conspiracy drama about Charlie Kirk if Turning Point was involved in it," with references to "Jewish donors pulling out" and "Erika knew everything."
 
 Anchored Artifacts: A-1444.1
-Mentions: N-2, N-426
+Mentions: N-2, N-426, N-3, N-1
 
 
 Investigative Direction: Locate Tim Pool's original video and timestamp the quoted language.

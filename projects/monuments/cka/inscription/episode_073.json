@@ -581,6 +581,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -622,7 +638,8 @@
       "investigative_direction": "Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-364",
+        "N-1"
       ]
     },
     {
@@ -680,7 +697,8 @@
       "claim_timestamp": "00:10:40",
       "investigative_direction": "Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -700,7 +718,8 @@
       "investigative_direction": "Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-364",
+        "N-1"
       ]
     },
     {
@@ -803,7 +822,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
-      "investigative_direction": "Confirm photograph provenance and timestamp; cross-reference with Trump's public schedule for the evening."
+      "investigative_direction": "Confirm photograph provenance and timestamp; cross-reference with Trump's public schedule for the evening.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -838,7 +860,8 @@
       "investigative_direction": "Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-364",
+        "N-1"
       ]
     }
   ],

@@ -268,7 +268,6 @@
             "C-3099"
           ],
           "related_nodes": [
-            "N-1211",
             "N-2140"
           ],
           "tags": [],
@@ -287,7 +286,6 @@
             "C-3100"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2140"
           ],
           "tags": [],
@@ -325,7 +323,6 @@
             "C-3102"
           ],
           "related_nodes": [
-            "N-1212",
             "N-2140"
           ],
           "tags": [],
@@ -442,140 +439,6 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Audio source describing Mikey McCoy's reaction and phone calls (A-2168.1); made Sandy Hook comparison in Twitter Space audio (A-2169.3); arrived at Timpanogos in SUV with Danny Philip (A-2166.1).",
-      "related_artifacts": [
-        "A-2165.1",
-        "A-2166.1",
-        "A-2168.1",
-        "A-2169.3"
-      ],
-      "related_claims": [
-        "C-3087",
-        "C-3092",
-        "C-3094",
-        "C-3097",
-        "C-3101"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Newly identified Turning Point USA employee; sat in second SUV with Blake Neff (A-2166.1); party to 10-minute phone call with Mikey McCoy (A-2167.1).",
-      "related_artifacts": [
-        "A-2166.1",
-        "A-2167.1"
-      ],
-      "related_claims": [
-        "C-3093",
-        "C-3096"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Among multiple independent observers identifying the SUV door object as a glove (A-2165.1); cited as covering the hospital arrival news segment.",
-      "related_artifacts": [
-        "A-2165.1"
-      ],
-      "related_claims": [
-        "C-3087",
-        "C-3104"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Author of X post comparing current social-media amplification to Alex Jones/Sandy Hook (A-2169.2).",
-      "related_artifacts": [
-        "A-2169.2"
-      ],
-      "related_claims": [
-        "C-3100"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2140"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Author of X post distinguishing Alex Jones liability grounds (A-2169.1).",
-      "related_artifacts": [
-        "A-2169.1"
-      ],
-      "related_claims": [
-        "C-3098",
-        "C-3099"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2140"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Speaker on the Charlie Kirk Show invoking \"Sandy Hook 2.0\" framing (A-2169.4).",
-      "related_artifacts": [
-        "A-2169.4"
-      ],
-      "related_claims": [
-        "C-3102"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2140"
-      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -710,6 +573,182 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-67",
+      "ref": "N-67",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-128",
+      "ref": "N-128",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Joined Maine vacation; final-footage context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-426",
+      "ref": "N-426",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Made two contradictory statements about Candace's security within one week.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -729,6 +768,7 @@
       "claim_timestamp": "00:26:13",
       "investigative_direction": "Identify the family friend (host speculates Tracy Martin); obtain confirmation or denial from Turning Point USA.",
       "mentions_person_refs": [
+        "N-3",
         "N-2"
       ]
     },
@@ -765,7 +805,8 @@
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss).",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-69"
       ]
     },
     {
@@ -782,7 +823,9 @@
       "claim_timestamp": "00:36:27",
       "investigative_direction": "Verify quoted statements with original article; identify \"family friend\" vs. \"family member\" sourcing distinction.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-69",
+        "N-3"
       ]
     },
     {
@@ -794,12 +837,13 @@
       "anchored_artifacts": [
         "A-2165.1"
       ],
-      "related_nodes": [
-        "N-2139"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:30",
-      "investigative_direction": "Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene."
+      "investigative_direction": "Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene.",
+      "mentions_person_refs": [
+        "N-552"
+      ]
     },
     {
       "@type": "Claim",
@@ -810,9 +854,7 @@
       "anchored_artifacts": [
         "A-2165.2"
       ],
-      "related_nodes": [
-        "N-2139"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:21",
       "investigative_direction": "Treat as illustrative comparison only; not independent forensic evidence."
@@ -842,12 +884,13 @@
       "anchored_artifacts": [
         "A-2165.1"
       ],
-      "related_nodes": [
-        "N-2139"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:30",
-      "investigative_direction": "Methodology is informal and unsystematic; results should not be treated as expert identification."
+      "investigative_direction": "Methodology is informal and unsystematic; results should not be treated as expert identification.",
+      "mentions_person_refs": [
+        "N-552"
+      ]
     },
     {
       "@type": "Claim",
@@ -858,9 +901,7 @@
       "anchored_artifacts": [
         "A-2165.3"
       ],
-      "related_nodes": [
-        "N-2139"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:02",
       "investigative_direction": "Forensic image analysis; chain-of-custody verification; determine whether object is fabric remnant consistent with the freedom shirt."
@@ -881,7 +922,10 @@
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.",
       "mentions_person_refs": [
-        "N-611"
+        "N-611",
+        "N-326",
+        "N-272",
+        "N-45"
       ]
     },
     {
@@ -902,6 +946,10 @@
       "contradicts_claim_refs": [
         "C-1932",
         "C-3092"
+      ],
+      "mentions_person_refs": [
+        "N-272",
+        "N-224"
       ]
     },
     {
@@ -919,7 +967,10 @@
       "claim_timestamp": "00:18:17",
       "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs.",
       "mentions_person_refs": [
-        "N-611"
+        "N-611",
+        "N-5",
+        "N-272",
+        "N-224"
       ]
     },
     {
@@ -936,7 +987,9 @@
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments.",
       "mentions_person_refs": [
-        "N-611"
+        "N-611",
+        "N-1",
+        "N-224"
       ]
     },
     {
@@ -956,7 +1009,8 @@
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content.",
       "mentions_person_refs": [
-        "N-611"
+        "N-611",
+        "N-272"
       ]
     },
     {
@@ -973,7 +1027,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:48",
-      "investigative_direction": "Confirm against authenticated phone records."
+      "investigative_direction": "Confirm against authenticated phone records.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-224",
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -985,12 +1044,15 @@
         "A-2169.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-2140"
       ],
       "tags": [],
       "claim_timestamp": "00:42:49",
-      "investigative_direction": "Verify the precise quoted text against Seth Dillon's X account; assess legal accuracy."
+      "investigative_direction": "Verify the precise quoted text against Seth Dillon's X account; assess legal accuracy.",
+      "mentions_person_refs": [
+        "N-67",
+        "N-128"
+      ]
     },
     {
       "@type": "Claim",
@@ -1002,12 +1064,14 @@
         "A-2169.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-2140"
       ],
       "tags": [],
       "claim_timestamp": "00:42:49",
-      "investigative_direction": "Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default)."
+      "investigative_direction": "Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default).",
+      "mentions_person_refs": [
+        "N-67"
+      ]
     },
     {
       "@type": "Claim",
@@ -1019,12 +1083,16 @@
         "A-2169.2"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2140"
       ],
       "tags": [],
       "claim_timestamp": "00:43:43",
-      "investigative_direction": "Verify quoted text against Tim Pool's X account; assess whether framing is consistent with prior Tim Pool statements."
+      "investigative_direction": "Verify quoted text against Tim Pool's X account; assess whether framing is consistent with prior Tim Pool statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-128",
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -1040,7 +1108,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:45:35",
-      "investigative_direction": "Obtain full unedited Twitter Space audio; document exact quoted text."
+      "investigative_direction": "Obtain full unedited Twitter Space audio; document exact quoted text.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-128",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1052,7 +1125,6 @@
         "A-2169.4"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2140"
       ],
       "tags": [],
@@ -1076,7 +1148,8 @@
       "claim_timestamp": "00:50:38",
       "investigative_direction": "Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-128"
       ]
     },
     {
@@ -1095,7 +1168,8 @@
       "claim_timestamp": "00:54:20",
       "investigative_direction": "Confirm the post against Charlie Kirk's X archive; date the post.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-128"
       ]
     },
     {
@@ -1107,9 +1181,7 @@
       "anchored_artifacts": [
         "A-2170.1"
       ],
-      "related_nodes": [
-        "N-2139"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:22",
       "investigative_direction": "Viewer speculation; not investigative evidence; useful only as a hypothesis to be tested against forensic evidence."
@@ -1123,9 +1195,7 @@
       "anchored_artifacts": [
         "A-2170.2"
       ],
-      "related_nodes": [
-        "N-2139"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:03:13",
       "investigative_direction": "Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination."

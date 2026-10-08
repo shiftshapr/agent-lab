@@ -30,7 +30,8 @@
 - Claim Range: C-2790–C-2809
   - New Nodes Introduced: N-1712, N-1713, N-1714, N-1715, N-1716, N-1717
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1, N-2, N-3, N-42, N-91, N-5, N-444, N-133, N-552, N-410, N-122, N-27, N-28, N-32, N-33, N-182
+  - Hole-minted Nodes (wave2): N-612, N-617, N-619, N-622
+- Existing Nodes Reused: N-1, N-2, N-3, N-42, N-91, N-5, N-444, N-133, N-552, N-410, N-122, N-182, N-293, N-903
 
 ## 6. Meme Register
 
@@ -83,7 +84,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2791, N-2, N-1712*
+*Related: C-2791, N-2, N-1712, N-617*
 
 **A-2008.2** Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon
 
@@ -93,7 +94,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2792, N-1712*
+*Related: C-2792, N-1712, N-612, N-617*
 
 **A-2008.3** Sarah Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
 
@@ -103,7 +104,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (original recording source unverified)
 
-*Related: C-2793, N-2, N-1713*
+*Related: C-2793, N-2, N-1713, N-619*
 
 **A-2008.4** Baron Coleman commentary clip on WHCD media frenzy
 
@@ -211,7 +212,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2806, N-3, N-91, N-27, N-28, N-32*
+*Related: C-2806, N-3, N-91, N-293, N-622, N-903*
 
 **A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome
 
@@ -221,7 +222,7 @@ Video Timestamp: 01:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (acknowledged as AI)
 
-*Related: C-2806, N-3, N-91, N-32*
+*Related: C-2806, N-3, N-91, N-903*
 
 ## A-2013 Candace Owens Prior Public Statements Bundle
 
@@ -262,29 +263,65 @@ Confidence Level: Medium (viewer comments)
 # Node Register
 
 
-**N-27** Trump publicly criticized Candace Owens calling her "low IQ"
+**N-612** Evan Hill
 
-Node Type: person
+Node Type: Person
 
-*Related:*
+Washington Post investigative reporter; per the host (28:18), wrote on X that a Secret Service officer fired four times at Cole Allen and that the surveillance footage showed no indication Allen fired his weapon.
 
-**N-28** Trump publicly criticized Candace Owens calling her "low IQ"
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
 
-Node Type: person
+*Related: A-2008.2, C-2792*
 
-*Related:*
+---
 
-**N-32** Trump publicly criticized Candace Owens calling her "low IQ"
+**N-617** Cole Allen
 
-Node Type: person
+Node Type: Person
 
-*Related:*
+Suspect in the White House Correspondents Dinner incident; per Evan Hill's X post read at 28:18, a Secret Service officer fired four times at him as he charged a security checkpoint.
 
-**N-33** Trump publicly criticized Candace Owens calling her "low IQ"
+Evidence Count: 2
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: Medium
 
-Node Type: person
+*Related: A-2008.1, A-2008.2, C-2791, C-2792*
 
-*Related:*
+---
+
+**N-619** Sarah Sidner
+
+Node Type: Person
+
+CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying "I just want to go home." The host could not confirm she recorded it herself.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-2008.3, C-2793, N-1713*
+
+---
+
+**N-622** David Axelrod
+
+Node Type: Person
+
+Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-2012.3, C-2806*
+
+---
 
 **N-1712** WHCD Incident Reconstruction
 
@@ -306,7 +343,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.3, C-2793, N-2*
+*Related: A-2008.3, C-2793, N-2, N-619*
 
 **N-1714** Erika Kirk Pre-Recorded Statement Authorship and Authenticity
 
@@ -372,7 +409,7 @@ Claim Timestamp: 00:02:43
 Claim: Trump's Truth Social post called Candace Owens "an extremely low IQ individual" and described her attack on the First Lady of France as "despicable."
 
 Anchored Artifacts: A-2007.1
-Mentions: N-3, N-5, N-33
+Mentions: N-3, N-5
 Related Nodes: N-1715
 Investigative Direction: Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.
 
@@ -383,6 +420,7 @@ Claim Timestamp: 00:29:53
 Claim: The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.
 
 Anchored Artifacts: A-2008.1
+Mentions: N-617
 Related Nodes: N-1712
 Investigative Direction: Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.
 
@@ -393,6 +431,7 @@ Claim Timestamp: 00:29:53
 Claim: Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident.
 
 Anchored Artifacts: A-2008.2
+Mentions: N-612, N-617
 Related Nodes: N-1712
 Investigative Direction: Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.
 
@@ -403,7 +442,7 @@ Claim Timestamp: 00:31:35
 Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sarah Sidner.
 
 Anchored Artifacts: A-2008.3
-Mentions: N-2
+Mentions: N-2, N-619
 Related Nodes: N-1713
 Investigative Direction: Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.
 
@@ -425,7 +464,7 @@ Claim Timestamp: 00:37:46
 Claim: Erika Kirk published a 9-minute pre-recorded video statement, with the remaining portion of her show consisting of Charlie Kirk clips.
 
 Anchored Artifacts: A-2009.1, A-2009.2, A-2009.3, A-2009.4
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes: N-1714
 Investigative Direction: Verify the video directly on Erika Kirk's platforms; review production metadata if available.
 
@@ -480,7 +519,7 @@ Claim Timestamp: 00:43:54
 Claim: Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
-Mentions: N-410
+Mentions: N-410, N-1
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
 **C-2801** Andrew Kolvet presented a text message screenshot
@@ -543,7 +582,7 @@ Claim Timestamp: 01:04:56
 Claim: Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a "secret anti-Trump summit," with implied funding from Qatar.
 
 Anchored Artifacts: A-2012.3, A-2012.4
-Mentions: N-3, N-91, N-27, N-28, N-32
+Mentions: N-3, N-91, N-293, N-622, N-903
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
 **C-2807** Candace traveled to Rome with her family for confirmation
@@ -599,7 +638,7 @@ Investigative Direction: Verify via medical records; the underlying photo is the
 
 # Optional Flags
 
-- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-33).
+- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-446).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).

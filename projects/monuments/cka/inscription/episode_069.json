@@ -464,25 +464,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
-      "name": "Emmanuel Macron",
-      "type": "person",
-      "description": "Subject of Epstein-files text chains cited by host; host asserts he has a \"boyfriend\" and is gay. Host consistently renders name as \"Mcronone.\"",
-      "related_artifacts": [
-        "A-1742.1"
-      ],
-      "related_claims": [
-        "C-2306"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
       "@id": "N-80",
       "ref": "N-80",
       "name": "Sigmund Freud",
@@ -648,6 +629,25 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-628",
+      "ref": "N-628",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Subject of Epstein-files text chains cited by host; host asserts he has a \"boyfriend\" and is gay. Host consistently renders name as \"Mcronone.\"",
+      "related_artifacts": [
+        "A-1742.1"
+      ],
+      "related_claims": [
+        "C-2306"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -781,7 +781,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:49",
-      "investigative_direction": "Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner."
+      "investigative_direction": "Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-628"
+      ]
     },
     {
       "@type": "Claim",

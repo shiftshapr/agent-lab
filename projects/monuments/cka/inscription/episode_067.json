@@ -806,7 +806,7 @@
       "type": "person",
       "description": "Christian apologist and Charlie Kirk mentor; described the Sept 8 walk with Charlie on Megyn Kelly Show.",
       "related_artifacts": [
-        "A-1722.1"
+        "A-1722.2"
       ],
       "related_claims": [
         "C-2270",
@@ -1281,7 +1281,7 @@
       "description": "Persistent target for assembling verified public statements about Charlie Kirk's whereabouts Sept 8–10. Affected by Josh Hammer correction (Sept 9 text vs Sept 8), Sept 9 Zoom call, dinner with priest, \"kill me\" text, and Frank Turek's Sept 8 walk account.",
       "related_artifacts": [
         "A-1721.1",
-        "A-1722.1",
+        "A-1722.2",
         "A-1724.1",
         "A-1726.2"
       ],
@@ -1363,7 +1363,7 @@
       "type": "investigation_target",
       "description": "Persistent target: whether Charlie Kirk's Sept 8 walk at ~8 PM was with Frank Turek, an unrecognized tall person, or both (sequentially). Neighbor testimony to host suggests second possibility.",
       "related_artifacts": [
-        "A-1722.1",
+        "A-1722.2",
         "A-1726.2"
       ],
       "related_claims": [
@@ -1379,6 +1379,70 @@
         "N-1",
         "N-16"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-56",
+      "ref": "N-56",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-427",
+      "ref": "N-427",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-440",
+      "ref": "N-440",
+      "name": "Jonathan Pollard",
+      "type": "person",
+      "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1414,7 +1478,8 @@
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Independently count Israel/Trump mentions across DOJ-released documents.",
       "mentions_person_refs": [
-        "N-35"
+        "N-35",
+        "N-5"
       ]
     },
     {
@@ -1519,7 +1584,8 @@
       "claim_timestamp": "00:16:29",
       "investigative_direction": "Verify the litigation through court records (UK).",
       "mentions_person_refs": [
-        "N-843"
+        "N-843",
+        "N-260"
       ]
     },
     {
@@ -1590,7 +1656,8 @@
       "claim_timestamp": "00:20:38",
       "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.",
       "mentions_person_refs": [
-        "N-841"
+        "N-841",
+        "N-440"
       ]
     },
     {
@@ -1627,7 +1694,8 @@
       "mentions_person_refs": [
         "N-35",
         "N-835",
-        "N-850"
+        "N-850",
+        "N-427"
       ]
     },
     {
@@ -1665,7 +1733,8 @@
       "investigative_direction": "Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.",
       "mentions_person_refs": [
         "N-86",
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -1696,7 +1765,7 @@
       "label": "Frank Turek Describes Sept 8 Walk With Charlie Kirk Around 8:00 PM",
       "claim": "Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.",
       "anchored_artifacts": [
-        "A-1722.1"
+        "A-1722.2"
       ],
       "related_nodes": [
         "N-1544",
@@ -1717,7 +1786,7 @@
       "label": "Frank Turek States GG (Child) Got Up During the Sept 8 Walk",
       "claim": "Per Frank Turek, Charlie Kirk texted that he would be \"shortly\" out because \"GG just got up,\" and Charlie had to attend to the child before the walk.",
       "anchored_artifacts": [
-        "A-1722.1"
+        "A-1722.2"
       ],
       "related_nodes": [
         "N-1544"
@@ -1768,7 +1837,8 @@
       "mentions_person_refs": [
         "N-42",
         "N-434",
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -1789,7 +1859,8 @@
       "mentions_person_refs": [
         "N-42",
         "N-434",
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -1809,7 +1880,8 @@
       "investigative_direction": "Identify the neighbor; obtain written statement; review building security camera footage if available.",
       "mentions_person_refs": [
         "N-16",
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -1826,7 +1898,8 @@
       "claim_timestamp": "00:56:38",
       "investigative_direction": "Not applicable (commentary only).",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-56"
       ]
     },
     {

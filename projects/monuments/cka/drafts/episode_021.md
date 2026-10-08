@@ -246,7 +246,7 @@ Claim Timestamp: 00:03:03
 Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 — less than 36 hours after Charlie Kirk's death — to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
 
 Anchored Artifacts: A-1283.2
-Mentions: N-45
+Mentions: N-45, N-1
 
 Related Nodes: N-1266
 
@@ -261,6 +261,7 @@ Claim Timestamp: 00:05:35
 Claim: Before the September 11, 2025 update, the TPUSA Wikipedia article contained a long-standing section stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.
 
 Anchored Artifacts: A-1283.1
+Mentions: N-1, N-45
 
 Related Nodes: N-1266
 
@@ -305,9 +306,9 @@ Claim Timestamp: 00:15:35
 Claim: The only Truth Social post by President Trump that could be read as calling for "further investigation" into Charlie Kirk's death is, in its actual text, directed at Jack Smith's investigation of Turning Point USA and unrelated to the Kirk murder inquiry.
 
 Anchored Artifacts: A-1285.1
-Mentions: N-5
+Mentions: N-5, N-1
 
-Related Nodes: N-1268
+Related Nodes:
 
 Investigative Direction: Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly.
 
@@ -320,6 +321,7 @@ Claim Timestamp: 00:20:44
 Claim: A New York Times article published the day prior to this episode reported that FBI Director Kash Patel was alarmed when Joe Kent of Tulsi Gabbard's office inquired about details of the Charlie Kirk investigation, including possible foreign involvement.
 
 Anchored Artifacts: A-1286.1
+Mentions: N-1, N-102
 
 Related Nodes: N-1268
 
@@ -334,7 +336,7 @@ Claim Timestamp: 00:21:37
 Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-182
+Mentions: N-182, N-102, N-4
 
 Related Nodes: N-1268
 
@@ -363,9 +365,9 @@ Claim Timestamp: 00:32:12
 Claim: In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-75
+Mentions: N-75, N-62, N-1
 
-Related Nodes: N-1268
+Related Nodes:
 
 Investigative Direction: Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.
 
@@ -407,9 +409,9 @@ Claim Timestamp: 00:35:31
 Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account — specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-75
+Mentions: N-75, N-1
 
-Related Nodes: N-1268
+Related Nodes:
 
 Investigative Direction: This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.
 
@@ -422,7 +424,7 @@ Claim Timestamp: 00:39:19
 Claim: In a trailer for an upcoming Candace Owens interview, Norman Finkelstein is shown quoting The Economist and a UN official describing Gaza as a "human rubbish heap" / "toxic dump," and asserts that a "billionaire class of Jewish supremacists" uses money as a blackmail weapon to silence critics of an ongoing genocide.
 
 Anchored Artifacts: A-1288.1
-Mentions: N-288
+Mentions: N-288, N-3
 
 
 Investigative Direction: Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.

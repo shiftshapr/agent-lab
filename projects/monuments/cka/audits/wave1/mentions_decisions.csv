@@ -442,7 +442,7 @@ TRANSIT_WINDOW,62,C-2192,Mentions,N-789,Marina (TPUSA CMO),,KEEP,,,"reviewed: ro
 TRANSIT_WINDOW,161,C-3686,Mentions,N-59,George (Candace's husband),,KEEP,,,reviewed: role ref: 'my husband' at 18:40 (ep161); recorded in config/preflight_gates.json
 TRANSIT_WINDOW,161,C-3698,Mentions,N-1,Charlie Kirk,,KEEP,,,reviewed: role ref: 'a body reportedly dead' is Charlie Kirk (ep161); recorded in config/preflight_gates.json
 TRANSIT_REAUDIT,8,C-3727,Mentions,,,,ADD,N-42,Andrew Kolvet,"speaker of the Alex Clark interview clip cued at 32:43 (""Andrew's response to the Catholic question""); the Knowles line at 34:12 is inside the clip"
-TRANSIT_REAUDIT,10,C-3731,Mentions,,,,ADD,N-166,Xavier Deruso,"named in claim text; transcript ""Xavier Daruso"" at 03:46 and ""Xavier"" at 05:39"
+TRANSIT_REAUDIT,10,C-3731,Mentions,,,,ADD,N-166,Xaviaer DuRousseau,"named in claim text; transcript ""Xavier Daruso"" at 03:46 and ""Xavier"" at 05:39"
 TRANSIT_REAUDIT,79,C-2484,Mentions,N-993,Michael Knowles,,REPLACE,N-138,Michael Knowles,duplicate person collapsed onto N-138 (one person one node)
 TRANSIT_REAUDIT,8,,Register,N-139,John Heinchell,viewer handle,RETIRE,,,"fan-mail claim pulled (no investigative beat); person retired without survivor, tombstone legacy-N-139"
 TRANSIT_REAUDIT,8,,Register,N-140,Jenna V,viewer handle,RETIRE,,,"fan-mail claim pulled (no investigative beat); person retired without survivor, tombstone legacy-N-140"

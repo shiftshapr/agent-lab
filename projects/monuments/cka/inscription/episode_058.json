@@ -920,12 +920,13 @@
       "related_claims": [
         "C-2118",
         "C-2119",
+        "C-2121",
         "C-2122",
         "C-2123"
       ],
       "tags": [],
       "evidence_count": 2,
-      "claim_count": 4,
+      "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
@@ -942,6 +943,38 @@
       "name": "Erika Kirk",
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1071,7 +1104,8 @@
       "claim_timestamp": "00:18:47",
       "investigative_direction": "Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -1130,7 +1164,8 @@
       "claim_timestamp": "00:21:46",
       "investigative_direction": "Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).",
       "mentions_person_refs": [
-        "N-730"
+        "N-730",
+        "N-133"
       ]
     },
     {
@@ -1170,7 +1205,8 @@
       "claim_timestamp": "00:36:23–00:39:06",
       "investigative_direction": "Obtain the unedited source clip with timestamp and channel identification to verify wording and context.",
       "mentions_person_refs": [
-        "N-293"
+        "N-293",
+        "N-35"
       ]
     },
     {
@@ -1209,6 +1245,65 @@
       "investigative_direction": "Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.",
       "mentions_person_refs": [
         "N-744"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2121",
+      "ref": "C-2121",
+      "label": "Host Asserts Nick Fuentes Led People Into the Capitol With a Bullhorn and Was Not Arrested",
+      "claim": "The host asserts that Nick Fuentes led people into the Capitol with a bullhorn, told them to ignore police and storm the barriers as if acting on federal instructions, and was not arrested, which she offers as evidence that he is a federal informant.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1495"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:06",
+      "investigative_direction": "Obtain footage of the Capitol breach the host describes and charging records for Fuentes; document whether he entered restricted grounds and why no charge followed.",
+      "transcript_snippet": "He led people into a capital with a bullhorn and said ignore police storm the barriers as if he had fed like he he had fed instructions",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-293"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2122",
+      "ref": "C-2122",
+      "label": "Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Ferris Wilks' Partner",
+      "claim": "The host says Nick Fuentes took a meeting with Defend Texas Liberty and Ferris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1495"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:06",
+      "investigative_direction": "Identify the reporter and obtain the documents; confirm the meeting date, attendees and the data-sale pitch.",
+      "transcript_snippet": "he took a meeting with Defend Texas Liberty and Ferris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-293",
+        "N-741"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2123",
+      "ref": "C-2123",
+      "label": "Host Says Milo Yiannopoulos Told Nick Fuentes the Night Before the Capitol Breach That a Federal Trap Was Planned",
+      "claim": "The host says it is known \"for a fact\" that Milo Yiannopoulos informed Nick Fuentes the night before he led people into the Capitol that a federal trap was happening, and that Fuentes still went with a bullhorn.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1495"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:06",
+      "investigative_direction": "Locate Yiannopoulos's own statement about the warning the host says he gave Fuentes the night before, and any messages corroborating it.",
+      "transcript_snippet": "we know for a fact he was informed the night before the night before by Milo Yiannopoulos. That the feds were going to be that there was there was some fed trap happening",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-293",
+        "N-334"
       ]
     }
   ],
