@@ -1575,6 +1575,31 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3773",
+      "ref": "C-3773",
+      "label": "Bill Ackman is the person C-1295 calls 'Bill Aman' (revises C-1295)",
+      "claim": "C-1295 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.",
+      "anchored_artifacts": [
+        "A-1170.1"
+      ],
+      "related_nodes": [
+        "N-1200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:05",
+      "investigative_direction": "Read with C-1295; obtain the 959-word essay under the corrected spelling Bill Ackman.",
+      "transcript_snippet": "And Bill Ackman replies with an essay, college essay.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-1295"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-1296",
       "ref": "C-1296",
       "label": "Netanyahu tweeted about Charlie Kirk's death before the US President",

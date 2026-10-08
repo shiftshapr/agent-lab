@@ -204,7 +204,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-916** Lynn Forester de Rothschild (a/k/a Lindy Rothschild)
+**N-916** Lynn Forester de Rothschild
 
 Subject of Epstein document entry listing her as Corcoran Group Inc. President.
 

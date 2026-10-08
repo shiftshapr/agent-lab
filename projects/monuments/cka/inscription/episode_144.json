@@ -899,6 +899,32 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3774",
+      "ref": "C-3774",
+      "label": "Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)",
+      "claim": "C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
+      "anchored_artifacts": [
+        "A-2308.1",
+        "A-2308.2"
+      ],
+      "related_nodes": [
+        "N-2212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:09",
+      "investigative_direction": "Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.",
+      "transcript_snippet": "on the 12th, you were the one that was telling me about the Bill Aman summit.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3324"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-3325",
       "ref": "C-3325",
       "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk",

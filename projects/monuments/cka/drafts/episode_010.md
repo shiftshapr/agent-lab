@@ -795,6 +795,23 @@ Investigative Direction: Obtain the full 959-word essay, confirm word count, and
 
 ---
 
+**C-3773** Bill Ackman is the person C-1295 calls 'Bill Aman' (revises C-1295)
+
+Claim Timestamp: 00:03:05
+
+Claim: C-1295 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
+
+Transcript Snippet: And Bill Ackman replies with an essay, college essay.
+
+Anchored Artifacts: A-1170.1
+Mentions: N-66, N-3
+Related Nodes: N-1200
+Revises: C-1295
+Confidence: medium
+Investigative Direction: Read with C-1295; obtain the 959-word essay under the corrected spelling Bill Ackman.
+
+---
+
 **C-1296** Netanyahu tweeted about Charlie Kirk's death before the US President
 
 Claim Timestamp: 00:01:53

@@ -2457,6 +2457,11 @@
       "survives_as": "N-66",
       "canonical_name": "Bill Aman",
       "reason": "Wave 3: \"Bill Aman\" is the auto-caption form of Bill Ackman (transcripts_corrected read \"Bill Ackman\" at the same beats, e.g. ep2 [15:24], ep3 [50:24], ep10 [25:04]); one person, one N-id, so N-476 collapses onto N-66 with \"Bill Aman\" kept as an alias."
+    },
+    "legacy-N-952": {
+      "survives_as": "N-916",
+      "canonical_name": "Linda Rothschild",
+      "reason": "Wave 3 Transit re-audit of b558034: ep72 [26:41] \"Lynn Forester, aka Lindy Rothschild … Corcoran Group Inc. President\" and ep76 [27:39] \"the president of the Corcoran Group is actually Linda Rothschild\" are the same woman in the same Epstein-document thread; one person, one N-id, so N-952 collapses onto N-916 (earlier intro, ep72) with \"Linda Rothschild\" and \"Lindy Rothschild\" kept as aliases. Tombstone: never reused."
     }
   },
   "reserved_baseline_ids": {

@@ -75,11 +75,13 @@
           "@type": "Artifact",
           "@id": "A-2117.1",
           "ref": "A-2117.1",
-          "description": "Audio clip of commentator (Bill Aman-adjacent) praising Matt Robinson for the \"brave act\" of turning in his son.",
+          "description": "Audio clip of a commentator (not named in the transcript) describing, \"just as a father,\" Tyler Robinson's parents turning in their son; played right after the host's account of Bill Ackman's $1 million pledge to Matt Robinson (A-2117.4).",
           "related_claims": [
             "C-3002"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-66"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -118,6 +120,25 @@
           "video_timestamp": "00:08:31",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2117.4",
+          "ref": "A-2117.4",
+          "description": "Host's on-air account that Bill Ackman (\"Bill Aman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3770"
+          ],
+          "related_nodes": [
+            "N-66",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
         }
       ]
     },
@@ -449,6 +470,26 @@
           "video_timestamp": "01:01:37",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2127.2",
+          "ref": "A-2127.2",
+          "description": "Host's on-air $10,000 bounty for who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot, with tips to candaceowens.com (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3764"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-133",
+            "N-2111"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:07:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
         }
       ]
     },
@@ -773,6 +814,22 @@
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Mentioned in a viewer comment the host answers dismissively.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1111,7 +1168,9 @@
       "ref": "C-3764",
       "label": "Host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot",
       "claim": "After asking who on Ben Shapiro's security team was receiving updates on Charlie Kirk's condition, the host asks who he (caption: \"Bench Crew\") was at lunch with in LA when the shooting happened, says she has a hunch, and offers a $10,000 bounty for evidence, sent to the tip line.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-2127.2"
+      ],
       "related_nodes": [
         "N-2111"
       ],
@@ -1122,6 +1181,28 @@
       "mentions_person_refs": [
         "N-3",
         "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3770",
+      "ref": "C-3770",
+      "label": "Host says Bill Ackman immediately pledged $1 million to Tyler Robinson's father, Matt Robinson",
+      "claim": "Recapping the pre-hearing narrative that Tyler Robinson's parents turned him in, the host says Bill Ackman (\"Bill Aman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for \"the brave act\" of turning in his son, and says someone should check on that $1 million.",
+      "anchored_artifacts": [
+        "A-2117.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Locate Bill Ackman's original pledge post and any record of payment to Matt Robinson.",
+      "transcript_snippet": "In fact, Bill Aman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.",
+      "confidence": "medium",
+      "uncertainty_note": "Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).",
+      "mentions_person_refs": [
+        "N-3",
+        "N-66",
+        "N-69"
       ]
     }
   ],
@@ -1140,6 +1221,7 @@
           "quote": "I will put up $10,000 bounty on that piece of information. Tips at candace. com.",
           "context": "DIA tip-line call: host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with (C-3764).",
           "confidence": "high",
+          "uncertainty_note": "Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).",
           "tags": [
             "tips_network",
             "dia_tip_line",

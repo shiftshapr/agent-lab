@@ -1579,6 +1579,32 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3775",
+      "ref": "C-3775",
+      "label": "Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)",
+      "claim": "C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.",
+      "anchored_artifacts": [
+        "A-2497.1"
+      ],
+      "related_nodes": [
+        "N-2376"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:42",
+      "investigative_direction": "Read with C-3680; archive the boosting posts under the corrected spelling Bill Ackman.",
+      "transcript_snippet": "her thread was instantly boosted by the likes of Andrew Kovette and Bill Aman pretending to have casually stumbled upon it.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3680"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-42",
+        "N-447"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-3681",
       "ref": "C-3681",
       "label": "Jennica Pounds announces resignation from Department of War",
@@ -1953,6 +1979,31 @@
         "N-102",
         "N-472",
         "N-581"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3776",
+      "ref": "C-3776",
+      "label": "Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)",
+      "claim": "C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-2378"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:30",
+      "investigative_direction": "Read with C-3696; confirm Bill Ackman's Howard Hughes board role from corporate filings.",
+      "transcript_snippet": "You had I told you Bill Aman who was on the board of Howard Hughes Inc. today.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3696"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-102"
       ]
     },
     {

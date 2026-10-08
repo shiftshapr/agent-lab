@@ -524,6 +524,8 @@ Claim Timestamp: 00:14:25
 
 Claim: C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-42). He stated on Tucker Carlson that Farnsworth (N-410) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
+Transcript Snippet: He said, "Because I know people can be evil."
+
 Anchored Artifacts: A-2287.1
 Mentions: N-42, N-50, N-410
 Related Nodes: N-1228

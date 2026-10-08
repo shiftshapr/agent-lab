@@ -717,6 +717,23 @@ Investigative Direction: Archive the thread + employment paperwork dates; compar
 
 ---
 
+**C-3775** Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)
+
+Claim Timestamp: 00:01:42
+
+Claim: C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.
+
+Transcript Snippet: her thread was instantly boosted by the likes of Andrew Kovette and Bill Aman pretending to have casually stumbled upon it.
+
+Anchored Artifacts: A-2497.1
+Mentions: N-66, N-42, N-447
+Related Nodes: N-2376
+Revises: C-3680
+Confidence: medium
+Investigative Direction: Read with C-3680; archive the boosting posts under the corrected spelling Bill Ackman.
+
+---
+
 **C-3681** Jennica Pounds announces resignation from Department of War
 
 Claim Timestamp: 00:04:02
@@ -895,6 +912,23 @@ Anchored Artifacts: A-2500.1
 Mentions: N-580, N-66, N-102, N-472, N-581
 Related Nodes: N-2378, N-1320, N-2143, N-2373
 Investigative Direction: Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.
+
+---
+
+**C-3776** Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)
+
+Claim Timestamp: 00:46:30
+
+Claim: C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.
+
+Transcript Snippet: You had I told you Bill Aman who was on the board of Howard Hughes Inc. today.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-66, N-102
+Related Nodes: N-2378
+Revises: C-3696
+Confidence: medium
+Investigative Direction: Read with C-3696; confirm Bill Ackman's Howard Hughes board role from corporate filings.
 
 ---
 

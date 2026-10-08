@@ -37,6 +37,26 @@ Context: Later reuse of Shill in CKA seq 131.
 Tags: tpusa, planted, host_refrain, reuse
 Confidence: high
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:19:05
+Speaker: N-3
+Quote: So, what did we do? We put out a bounty.
+Context: DIA tip-line payoff: the lunch bounty from ep124 (C-3764) is answered with a tip on who Ben Shapiro was with (C-3767, A-2524.1).
+Tags: tips_network, dia_tip_line, bounty, transcript_backfill
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:26:05
+Speaker: N-3
+Quote: But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.
+Context: DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-3769, A-2524.3).
+Tags: tips_network, dia_tip_line, bounty, transcript_backfill
+Confidence: high
+
 ---
 
 ---
@@ -175,6 +195,40 @@ Confidence: medium
 
 ---
 
+
+**A-2524** Ben Shapiro Lunch-Bounty Payoff and $25,000 Security-Call Bounty (host on air)
+
+**A-2524.1** Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary Jabitch (transcript spelling) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:19:05
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Low (tip described, source not shown)
+
+*Related: C-3767, N-3, N-133, N-2147*
+
+**A-2524.2** Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:25:07
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Low (biography cited, not shown)
+
+*Related: C-3768, N-3, N-133, N-2147*
+
+**A-2524.3** Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:26:05
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: C-3769, N-3, N-1, N-133, N-2147*
+
+---
 
 ## 4. Node Register
 
@@ -515,5 +569,54 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+**C-3767** Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot
 
+Claim Timestamp: 00:19:05
 
+Claim: The host says the bounty she put out on who Ben Shapiro was with at "breakfast or lunch" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Jabitch (transcript spelling), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.
+
+Transcript Snippet: So, what did we do? We put out a bounty.
+
+Anchored Artifacts: A-2524.1
+Mentions: N-3, N-133, N-1
+Related Nodes: N-2147
+Supports: C-3764
+Qualifies: C-3126
+Confidence: low
+Uncertainty: Single anonymous tip as relayed by the host; the host says "allegedly" and could not confirm the meal itself. The named companion has no person node (person band full, awaiting Daveed).
+Investigative Direction: Corroborate the companion's Los Angeles whereabouts on September 10, 2025 against the canceled Reagan Library event schedule and any public sightings.
+
+---
+
+**C-3768** Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha
+
+Claim Timestamp: 00:25:07
+
+Claim: Reading from what she calls his professional biography, the host says the alleged companion served on the National Council of AIPAC, was president of the Nebraska chapter of AIPAC, and has a twin brother on the AIPAC board. She adds that Ben Shapiro and his wife have donated a "life and legacy" amount to the Jewish Federation of Omaha for years, an organization where the companion is a host and donor.
+
+Transcript Snippet: Gary was the president of the Nebraska chapter of AIPAC.
+
+Anchored Artifacts: A-2524.2
+Mentions: N-3, N-133
+Related Nodes: N-2147
+Confidence: low
+Uncertainty: Biography and donation records cited but not shown on air.
+Investigative Direction: Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.
+
+---
+
+**C-3769** Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team
+
+Claim Timestamp: 00:26:05
+
+Claim: The host announces a second bounty of $25,000 for anyone who can tell her who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, promises to protect the source's identity, and directs tips to moretips@candaceowens.com.
+
+Transcript Snippet: But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.
+
+Anchored Artifacts: A-2524.3
+Mentions: N-3, N-1, N-133
+Related Nodes: N-2147
+Confidence: high
+Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).
+
+---

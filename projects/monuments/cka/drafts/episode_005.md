@@ -687,6 +687,24 @@ Confidence: medium
 Investigative Direction: Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.
 
 Tags: open_source_investigation
+
+---
+
+**C-3771** Bill Ackman is the person C-1194 calls 'Bill Aman' (revises C-1194)
+
+Claim Timestamp: 00:38:26
+
+Claim: C-1194 spells the name 'Bill Aman' (auto-caption form; the transcript at this beat reads 'Blackman'). The person is Bill Ackman (N-66). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; the host notes the messages lack dates and context.
+
+Transcript Snippet: But anyways, Blackman published these private text messages
+
+Anchored Artifacts: A-1117.1
+Mentions: N-66, N-1, N-3
+Related Nodes: N-1092, N-1121
+Revises: C-1194
+Confidence: medium
+Investigative Direction: Read with C-1194; obtain the text exchange as published by Bill Ackman.
+
 ---
 
 **C-1195** Amazon listed Kirk-assassination book before event

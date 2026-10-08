@@ -30,7 +30,7 @@
 
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
-Claim Range: C-3000 – C-3016, C-3761
+Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
 New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
@@ -102,7 +102,7 @@ Confidence Level: High
 
 **A-2117** Parents Turned-In Narrative Audio Bundle
 
-**A-2117.1** Audio clip of commentator (Bill Aman-adjacent) praising Matt Robinson for the "brave act" of turning in his son.
+**A-2117.1** Audio clip of a commentator (not named in the transcript) describing, "just as a father," Tyler Robinson's parents turning in their son; played right after the host's account of Bill Ackman's $1 million pledge to Matt Robinson (A-2117.4).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -110,7 +110,7 @@ Video Timestamp: 00:07:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3002*
+*Related: C-3002, N-66*
 
 **A-2117.2** Audio clip of commentator stating Tyler Robinson's parents identified him from a news photo and began questioning him about his grandfather's gun.
 
@@ -131,6 +131,16 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: C-3002*
+
+**A-2117.4** Host's on-air account that Bill Ackman ("Bill Aman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:06:50
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Medium (host account; pledge not shown)
+
+*Related: C-3770, N-66, N-69*
 
 ---
 
@@ -321,6 +331,16 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: C-3015, N-2111, N-1*
+
+**A-2127.2** Host's on-air $10,000 bounty for who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot, with tips to candaceowens.com (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 01:07:02
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: C-3764, N-3, N-133, N-2111*
 
 ---
 
@@ -695,10 +715,27 @@ Claim: After asking who on Ben Shapiro's security team was receiving updates on 
 
 Transcript Snippet: I will put up $10,000 bounty on that piece of information.
 
-Anchored Artifacts: 
+Anchored Artifacts: A-2127.2
 Mentions: N-3, N-133
 Related Nodes: N-2111
 Investigative Direction: Collect tip-line submissions on the lunch; corroborate any named attendee against location data or witnesses.
+
+---
+
+**C-3770** Host says Bill Ackman immediately pledged $1 million to Tyler Robinson's father, Matt Robinson
+
+Claim Timestamp: 00:06:50
+
+Claim: Recapping the pre-hearing narrative that Tyler Robinson's parents turned him in, the host says Bill Ackman ("Bill Aman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for "the brave act" of turning in his son, and says someone should check on that $1 million.
+
+Transcript Snippet: In fact, Bill Aman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.
+
+Anchored Artifacts: A-2117.4
+Mentions: N-3, N-66, N-69
+Related Nodes:
+Confidence: medium
+Uncertainty: Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).
+Investigative Direction: Locate Bill Ackman's original pledge post and any record of payment to Matt Robinson.
 
 ---
 

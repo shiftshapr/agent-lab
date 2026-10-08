@@ -349,13 +349,6 @@
         "reason": "Hillary Clinton (intro ep67): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-952",
-        "episodes": [
-          72
-        ],
-        "reason": "Linda Rothschild (intro ep76): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
-      },
-      {
         "id": "N-962",
         "episodes": [
           50

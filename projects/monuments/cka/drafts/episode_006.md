@@ -764,6 +764,23 @@ Investigative Direction: Obtain full PBD segment and verify exact quote against 
 
 ---
 
+**C-3772** Bill Ackman is the person C-1212 calls 'Bill Aman' (revises C-1212)
+
+Claim Timestamp: 00:25:42
+
+Claim: C-1212 names 'Bill Aman' as the speaker. In the PBD clip the speaker says Candace Owens' credibility is going 'down the tubes' because she needs to bring receipts and then says 'Bill Ackman brought receipts', so Bill Ackman (N-66) is the person cited as having brought receipts, not the speaker.
+
+Transcript Snippet: Bill Ackman brought receipts. How long was that tweet?
+
+Anchored Artifacts: A-1125.1
+Mentions: N-66, N-3, N-88
+Related Nodes: 
+Revises: C-1212
+Confidence: medium
+Investigative Direction: Read with C-1212; identify the PBD speaker from the full segment.
+
+---
+
 **C-1213** Andrew Kovit claims last saw Candace at TPUSA in 2015/2016
 
 Claim Timestamp: 00:25:57

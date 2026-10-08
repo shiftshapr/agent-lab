@@ -485,6 +485,23 @@ Investigative Direction: Preserve the original text-message exports with metadat
 
 ---
 
+**C-3774** Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)
+
+Claim Timestamp: 00:50:09
+
+Claim: C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.
+
+Transcript Snippet: on the 12th, you were the one that was telling me about the Bill Aman summit.
+
+Anchored Artifacts: A-2308.1, A-2308.2
+Mentions: N-66, N-42
+Related Nodes: N-2212
+Revises: C-3324
+Confidence: medium
+Investigative Direction: Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.
+
+---
+
 **C-3325** Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk
 
 Claim Timestamp: 00:51:00–00:54:00
