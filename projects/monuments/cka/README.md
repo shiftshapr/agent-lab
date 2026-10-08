@@ -6,10 +6,10 @@ Greenfield monument for **Candace Owens** numbered show episodes (`@RealCandaceO
 
 | Monument | Role |
 |----------|------|
-| **BoC** (`projects/monuments/bride_of_charlie/`) | **Demonstration only** — protocol and workflow reference. |
-| **CKA** (this tree) | **Production Candace corpus** — numbered show + Kirk specials; BoC series folds in when chronology reaches Feb–Mar 2026. |
+| **BoC** (`projects/monuments/bride_of_charlie/`) | **Demonstration only** – protocol and workflow reference. |
+| **CKA** (this tree) | **Production Candace corpus** – numbered show + Kirk specials; BoC series folds in when chronology reaches Feb–Mar 2026. |
 
-**Daveed lock (2026-09-25):** Freeze further Candace ingest into BoC. Do **not** treat mixed BoC tip `7e4c948` as the long-term promote target. Former BoC monument slots **9–18** (Kirk tribute + Candace Ep **235–243**) are **remap** targets in CKA — see manifest notes; do not re-extract.
+**Daveed lock (2026-09-25):** Freeze further Candace ingest into BoC. Do **not** treat mixed BoC tip `7e4c948` as the long-term promote target. Former BoC monument slots **9–18** (Kirk tribute + Candace Ep **235–243**) are **remap** targets in CKA – see manifest notes; do not re-extract.
 
 ## ID bands (ledger)
 
@@ -48,7 +48,7 @@ Extractor checklist and Appendix B claim shape: [`docs/EPISTEMIC_GRAPH.md`](docs
 
 ## QA
 
-Before merge/promote packs: `dia_preflight.py --monument cka` (scaffold exits clean until drafts exist), `verify_drafts` / Transit + Bill D review, Tessie sample — **no prod Neo4j**.
+Before merge/promote packs: `dia_preflight.py --monument cka` (scaffold exits clean until drafts exist), `verify_drafts` / Transit + Bill D review, Tessie sample – **no prod Neo4j**.
 
 ## Manifest maintenance
 

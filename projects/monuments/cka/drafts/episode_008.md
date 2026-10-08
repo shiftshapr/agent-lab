@@ -568,7 +568,7 @@ Open lead: who paid for the unusually quick paver replacement at the venue.
 
 Node Type: Topic
 Topic Kind: discrepancy
-Scanner reportedly described jeans/black shirt/mask/vest/rifle — never made public.
+Scanner reportedly described jeans/black shirt/mask/vest/rifle – never made public.
 
 *Related: C-1264*
 

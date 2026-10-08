@@ -25,7 +25,7 @@
 - **Channel / Creator:** Candace Owens (@RealCandaceO)
 - **Episode Date:** 2026-08-19
 - **Source Used:** Transcript (yt-dlp-auto-android; cleaned)
-- **Transcript Completeness Status:** Partial — ad-read passages [26:27–29:42] and [43:11–45:10] truncated; mid-segment gap at [06:40]
+- **Transcript Completeness Status:** Partial – ad-read passages [26:27–29:42] and [43:11–45:10] truncated; mid-segment gap at [06:40]
 - **Analyst:** Episode Analysis Agent
 - **Analysis Date:** 2026-08-19
 
@@ -156,7 +156,7 @@ Confidence Level: High
 
 **A-2300** Camera Position Diagram (Display Visual)
 
-**A-2300.1** Host-produced on-screen diagram labeling camera positions at the event — "red camera behind his head" and a "yellow" camera that fell — referenced as having been previously shown and re-displayed in this episode.
+**A-2300.1** Host-produced on-screen diagram labeling camera positions at the event – "red camera behind his head" and a "yellow" camera that fell – referenced as having been previously shown and re-displayed in this episode.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -267,7 +267,7 @@ Investigative Direction: Recover laptop forensic artifacts (connection logs, fil
 
 Claim Timestamp: 00:14:47
 
-Claim: The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera — which had fallen to the floor — rather than retrieving its SD card.
+Claim: The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.
 
 Anchored Artifacts: A-2295.2, A-2295.3, A-2300.1
 Mentions: N-1, N-410
@@ -293,7 +293,7 @@ Investigative Direction: Confirm camera-down timestamp via SBI/UPD evidence logs
 
 Claim Timestamp: 00:32:32
 
-Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" — described as a person involved in law enforcement and a minister — recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
+Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" – described as a person involved in law enforcement and a minister – recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
 
 Anchored Artifacts: A-2296.1
 Mentions: N-1, N-69, N-176, N-5
@@ -317,7 +317,7 @@ Investigative Direction: Verify Mike Mitchell's documented roles (Mormon ministe
 
 Claim Timestamp: 00:18:07
 
-Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" — specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data — and that the defense's only substantive challenge is to reliable hearsay.
+Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" – specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data – and that the defense's only substantive challenge is to reliable hearsay.
 
 Anchored Artifacts: A-2294.1
 Mentions: N-224, N-69
@@ -365,7 +365,7 @@ Investigative Direction: Confirm the original post URL and capture it before any
 
 Claim Timestamp: 00:11:42
 
-Claim: The host states, citing a government source she trusts, that the entire sequence — Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion — occurred within approximately ten minutes of Charlie Kirk being shot.
+Claim: The host states, citing a government source she trusts, that the entire sequence – Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2295.1
 Mentions: N-410, N-1

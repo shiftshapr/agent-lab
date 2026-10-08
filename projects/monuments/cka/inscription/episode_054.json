@@ -71,7 +71,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1598",
       "family_ref": "A-1598",
-      "bundle_name": "ABC News Report Bundle — Liberty Godparent Home",
+      "bundle_name": "ABC News Report Bundle – Liberty Godparent Home",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -101,7 +101,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1599",
       "family_ref": "A-1599",
-      "bundle_name": "Washington Post 1997 Article Bundle — Moon Inc./Unification Church",
+      "bundle_name": "Washington Post 1997 Article Bundle – Moon Inc./Unification Church",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -265,7 +265,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1600",
       "family_ref": "A-1600",
-      "bundle_name": "CBN News Clip Bundle — Chan Yoon at TPUSA",
+      "bundle_name": "CBN News Clip Bundle – Chan Yoon at TPUSA",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -293,7 +293,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1601",
       "family_ref": "A-1601",
-      "bundle_name": "Email Tip Bundle — The Israel Lobby / Falwell Jet",
+      "bundle_name": "Email Tip Bundle – The Israel Lobby / Falwell Jet",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -322,7 +322,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1602",
       "family_ref": "A-1602",
-      "bundle_name": "Email Tip Bundle — Iran-Contra / Liberty University",
+      "bundle_name": "Email Tip Bundle – Iran-Contra / Liberty University",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -350,7 +350,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1603",
       "family_ref": "A-1603",
-      "bundle_name": "Korean Herald Article Bundle — Pastor Yoon Arrest",
+      "bundle_name": "Korean Herald Article Bundle – Pastor Yoon Arrest",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -379,7 +379,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1604",
       "family_ref": "A-1604",
-      "bundle_name": "Recorded Phone Call Bundle — Anonymous Godparent Home Resident",
+      "bundle_name": "Recorded Phone Call Bundle – Anonymous Godparent Home Resident",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -406,13 +406,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1605",
       "family_ref": "A-1605",
-      "bundle_name": "Rolling Stone Reference Bundle — Carey Hezekiah",
+      "bundle_name": "Rolling Stone Reference Bundle – Carey Hezekiah",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1605.1",
           "ref": "A-1605.1",
-          "description": "Host cites Rolling Stone on Jerry Falwell Sr.'s father Carey Hezekiah — bootlegger/smuggler/trafficker who shot his brother Garland dead",
+          "description": "Host cites Rolling Stone on Jerry Falwell Sr.'s father Carey Hezekiah – bootlegger/smuggler/trafficker who shot his brother Garland dead",
           "related_claims": [
             "C-2044"
           ],
@@ -434,7 +434,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1606",
       "family_ref": "A-1606",
-      "bundle_name": "Forbes Reference Bundle — Falwell Father Bear Cage",
+      "bundle_name": "Forbes Reference Bundle – Falwell Father Bear Cage",
       "sub_items": [
         {
           "@type": "Artifact",

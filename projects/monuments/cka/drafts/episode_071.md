@@ -47,9 +47,9 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 This episode presents two distinct content strands: (1) commentary on the Super Bowl halftime wars between TPUSA and the NFL, including a direct critique of TPUSA's claimed viewership metrics, and (2) ongoing investigative material including the Thomas Martin identification lead, Tracy Martin's text messages, and Seth Dillon's Religious Liberty Commission testimony regarding the Hamptons meeting.
 
-Episode 71 advances several persistent investigative threads. The most significant new artifact-anchored material concerns a possible identification of Tracy Martin's husband Thomas Martin with a senior US Border Patrol figure based in Tucson since at least 1985, supported by a 1985 Times Union newspaper article in which the agent is named. The episode also introduces a new tip (text messages from September 11) suggesting that Tracy Martin's daughter — allegedly Erica Kirk's assistant — was scheduled to attend UVU on September 10 but was kept home due to Tracy's stated bad feeling.
+Episode 71 advances several persistent investigative threads. The most significant new artifact-anchored material concerns a possible identification of Tracy Martin's husband Thomas Martin with a senior US Border Patrol figure based in Tucson since at least 1985, supported by a 1985 Times Union newspaper article in which the agent is named. The episode also introduces a new tip (text messages from September 11) suggesting that Tracy Martin's daughter – allegedly Erica Kirk's assistant – was scheduled to attend UVU on September 10 but was kept home due to Tracy's stated bad feeling.
 
-The Seth Dillon testimony artifact is structurally important because it contains a live, on-the-record admission from a Hamptons participant that the meeting included "heated and spirited debate" about Israel — a characterization that appears to differ from earlier public statements by Hamptons participants. The TPUSA halftime viewership artifact serves a secondary analogical function: the host uses YouTube comment-to-view ratios as a falsifiability test for the claimed metrics.
+The Seth Dillon testimony artifact is structurally important because it contains a live, on-the-record admission from a Hamptons participant that the meeting included "heated and spirited debate" about Israel – a characterization that appears to differ from earlier public statements by Hamptons participants. The TPUSA halftime viewership artifact serves a secondary analogical function: the host uses YouTube comment-to-view ratios as a falsifiability test for the claimed metrics.
 
 ---
 
@@ -713,10 +713,10 @@ Investigative Direction: Verify through any other public statements from Charlie
 
 ## VI. Optional Flags
 
-- **Name uncertainty (A-1758.1, A-1760.1, A-1760.2)**: Transcript renders "Seth Dylan" / "Dylan" — most likely Seth Dillon (Babylon Bee). Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Peen Bowler" — most likely Carrie Prejean Bowler. Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Neielson" — most likely Nielsen. Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kovvat" / "Andrew Coat" — most likely Andrew Kolvet. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1758.1, A-1760.1, A-1760.2)**: Transcript renders "Seth Dylan" / "Dylan" – most likely Seth Dillon (Babylon Bee). Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Peen Bowler" – most likely Carrie Prejean Bowler. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Neielson" – most likely Nielsen. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kovvat" / "Andrew Coat" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.
 - **Artifact verbally referenced but not shown**: The Instagram purge (June 19, 126 posts deleted) and the June 18 White House visit are referenced but not displayed as new artifacts in this episode; treated as historical context only.
 - **Requires human verification**: N-907 Thomas Martin identification requires confirmation against multiple federal personnel directories; the 1985 article attribution and the husband-of-Tracy identification both warrant independent verification.
 - **Requires human verification**: N-908 Tracy's daughter and the Erika assistant claim rely on text message authentication that has not been independently confirmed.

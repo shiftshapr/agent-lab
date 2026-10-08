@@ -17,7 +17,7 @@
 
 ---
 
-# Episode 145 — Analysis Record
+# Episode 145 – Analysis Record
 
 ## I. Meta-Data
 
@@ -36,7 +36,7 @@
 
 The episode opens with the host recounting a personal 7th-anniversary fishing trip to Iceland, during which she unexpectedly encountered Justin Baldoni and his family at the airport. The encounter is presented as the emotional closure of the host's prior investigative work on the Lively v. Baldoni litigation and is grounded by an on-screen photograph. The host then transitions into a lengthy historical reflection on the support she received from John and Arina Mappin following the Charlie Kirk assassination, reading aloud an extended excerpt from their October 6, 2025 article, "Candace Owens, Charlie Kirk, and the Pursuit of Truth."
 
-The second half of the episode advances a new investigative thesis: that a coordinated state-level messaging operation — involving the Department of War (Pentagon), the State Department (specifically Under Secretary Sarah Rogers), Turning Point USA figures (Blake Neff, Andrew Kolvet), and financier Bill Ackman — is being directed against the host's investigation into the Charlie Kirk assassination. The host anchors this claim to a chain of read-aloud or displayed artifacts: Jenica Pounds / Data Republican's X thread and her subsequent admission of Special Government Employee (SGE) status at the Department of War; Blake Neff's confirmation post about Sarah Rogers; Andrew Kolvet's endorsement of Data Republican; and Bill Ackman's amplification of Data Republican's content. The NCRI report "Permission to Kill" is also referenced.
+The second half of the episode advances a new investigative thesis: that a coordinated state-level messaging operation – involving the Department of War (Pentagon), the State Department (specifically Under Secretary Sarah Rogers), Turning Point USA figures (Blake Neff, Andrew Kolvet), and financier Bill Ackman – is being directed against the host's investigation into the Charlie Kirk assassination. The host anchors this claim to a chain of read-aloud or displayed artifacts: Jenica Pounds / Data Republican's X thread and her subsequent admission of Special Government Employee (SGE) status at the Department of War; Blake Neff's confirmation post about Sarah Rogers; Andrew Kolvet's endorsement of Data Republican; and Bill Ackman's amplification of Data Republican's content. The NCRI report "Permission to Kill" is also referenced.
 
 The structural importance of the episode lies in its consolidation of public statements from named individuals into a single artifact-anchored narrative about coordinated institutional action against the host's investigation, and its public framing of those statements as themselves constituting the propaganda operation. The Lively v. Baldoni CCRD filing is also read aloud in a brief excerpt.
 
@@ -57,7 +57,7 @@ Confidence Level: High
 
 **A-2311** John & Arina Mappin Article Bundle
 
-**A-2311.1** "Candace Owens, Charlie Kirk, and the Pursuit of Truth" — October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt
+**A-2311.1** "Candace Owens, Charlie Kirk, and the Pursuit of Truth" – October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

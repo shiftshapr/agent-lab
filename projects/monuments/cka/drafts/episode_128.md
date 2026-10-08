@@ -89,7 +89,7 @@ Confidence Level: High
 
 **A-2155** Dan Bongino / Megyn Kelly Interview Bundle (September 15, 2025)
 
-**A-2155.1** Dan Bongino on Megyn Kelly — "the video is very grainy" segment
+**A-2155.1** Dan Bongino on Megyn Kelly – "the video is very grainy" segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -147,7 +147,7 @@ Confidence Level: Medium
 
 *Related: C-3066, C-3069*
 
-**A-2157.4** 2016 RNC convention article — Jennifer Faumuina as volunteer trooper (Ohio)
+**A-2157.4** 2016 RNC convention article – Jennifer Faumuina as volunteer trooper (Ohio)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -171,7 +171,7 @@ Confidence Level: Medium
 
 **A-2158** Utah Pre-Event Personnel Appointments Bundle
 
-**A-2158.1** Bo Mason appointed Commissioner of Utah DPS — June 19, 2025 (by Gov. Cox)
+**A-2158.1** Bo Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -181,7 +181,7 @@ Confidence Level: Medium
 
 *Related: C-3071, N-2132*
 
-**A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital — August 18, 2025
+**A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital – August 18, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -191,7 +191,7 @@ Confidence Level: Medium
 
 *Related: C-3072, N-2132*
 
-**A-2158.3** Judge Tony Graff appointed — May 2025
+**A-2158.3** Judge Tony Graff appointed – May 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -201,7 +201,7 @@ Confidence Level: Medium
 
 *Related: C-3073, N-2132*
 
-**A-2158.4** Utah medical examiner appointment — July 2024
+**A-2158.4** Utah medical examiner appointment – July 2024
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -211,7 +211,7 @@ Confidence Level: Low (named only)
 
 *Related: N-2132*
 
-**A-2158.5** Robert Bowles assumes leadership of FBI Salt Lake City Field Office — September 2, 2025
+**A-2158.5** Robert Bowles assumes leadership of FBI Salt Lake City Field Office – September 2, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -277,7 +277,7 @@ Confidence Level: High
 
 **A-2162** Blake Neff Interview Bundle
 
-**A-2162.1** First Blake Neff statement — overnight stay attributed to Orem, UT
+**A-2162.1** First Blake Neff statement – overnight stay attributed to Orem, UT
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -287,7 +287,7 @@ Confidence Level: High (read aloud on air)
 
 *Related: C-3080, N-2131*
 
-**A-2162.2** Second Blake Neff statement — revised to Salt Lake City, no hotel name recalled
+**A-2162.2** Second Blake Neff statement – revised to Salt Lake City, no hotel name recalled
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -655,7 +655,7 @@ Investigative Direction: Verify the appointment date, court, and appointing auth
 
 Claim Timestamp: 00:21:14
 
-Claim: Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 — eight days before the assassination.
+Claim: Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 – eight days before the assassination.
 
 Anchored Artifacts: A-2158.5
 Mentions: N-186
@@ -801,11 +801,11 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty:** Spelling of "Faumuina" preserved as used by host; host acknowledges phonetic delivery (A-2160.1). "Sapena" likewise phonetic (A-2160.1).
-- **Name uncertainty:** Host uses both "Jennifer Faumina/Faumuina/Fahlman" interchangeably; spelling preserved with original spelling per protocol — flag noted.
+- **Name uncertainty:** Host uses both "Jennifer Faumina/Faumuina/Fahlman" interchangeably; spelling preserved with original spelling per protocol – flag noted.
 - **Artifact verbally referenced but not shown:** The 2003 Hawaii basketball photo (A-2157.1), 2008 Weber State graduation record (A-2157.2), 2016 RNC article (A-2157.4), 2004 Provo PD article (A-2159.1), and 1995 Hawaii homicide articles (A-2160.1, A-2160.2) are described by the host and displayed on air but full text/transcription is not provided in the source transcript.
 - **Timestamp uncertainty:** The 2023 swearing-in date (A-2157.5) is given narratively but without precise day/month.
 - **Transcript ambiguity:** Reference to "Frank Cherik," "Frank Cheric," and "Frank Czernecki" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person (former local id 1221).
-- **Claim failed admission test:** Host's framing of the Utah appointments as "getting the old gang back together" and the explicit framing of an "Israeli" or "Mormon mafia" connection — these are interpretive commentary, not artifact-backed claims, and are not inscribed.
+- **Claim failed admission test:** Host's framing of the Utah appointments as "getting the old gang back together" and the explicit framing of an "Israeli" or "Mormon mafia" connection – these are interpretive commentary, not artifact-backed claims, and are not inscribed.
 
 ---
 

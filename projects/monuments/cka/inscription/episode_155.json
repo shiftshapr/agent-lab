@@ -266,7 +266,7 @@
           "@type": "Artifact",
           "@id": "A-2413.3",
           "ref": "A-2413.3",
-          "description": "Admin (\"admissions\") lot footage of the second grey Dodge Challenger (operated by the figure code-named \"Waluigi\") making multiple parking attempts in an empty lot — referenced from prior-episode display",
+          "description": "Admin (\"admissions\") lot footage of the second grey Dodge Challenger (operated by the figure code-named \"Waluigi\") making multiple parking attempts in an empty lot – referenced from prior-episode display",
           "related_claims": [
             "C-3524",
             "C-3525"
@@ -294,7 +294,7 @@
           "@type": "Artifact",
           "@id": "A-2414.1",
           "ref": "A-2414.1",
-          "description": "Narrative portion of the September 15 search warrant (Agent Mortensson), stating that Robinson's Challenger entered the UVU parking structure at ~8:28 AM and that Robinson visited a wooded area between 8:28 AM and 9:24 AM — not displayed in this episode; described by host",
+          "description": "Narrative portion of the September 15 search warrant (Agent Mortensson), stating that Robinson's Challenger entered the UVU parking structure at ~8:28 AM and that Robinson visited a wooded area between 8:28 AM and 9:24 AM – not displayed in this episode; described by host",
           "related_claims": [
             "C-3528",
             "C-3529"
@@ -321,7 +321,7 @@
           "@type": "Artifact",
           "@id": "A-2415.1",
           "ref": "A-2415.1",
-          "description": "Lead SBI Agent David Hull's preliminary hearing testimony, presenting a revised campus timeline in which the \"Maroon Boy\" interacts with a TPUSA rep, departs, and returns on foot, omitting the 8-minute top-of-structure stop — not displayed in this episode; described by host",
+          "description": "Lead SBI Agent David Hull's preliminary hearing testimony, presenting a revised campus timeline in which the \"Maroon Boy\" interacts with a TPUSA rep, departs, and returns on foot, omitting the 8-minute top-of-structure stop – not displayed in this episode; described by host",
           "related_claims": [
             "C-3529"
           ],
@@ -832,7 +832,7 @@
       "@id": "C-3529",
       "ref": "C-3529",
       "label": "Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline",
-      "claim": "Agent David Hull's preliminary hearing testimony presented a campus timeline in which the \"Maroon Boy\" interacts with a TPUSA representative, departs, and returns on foot — omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.",
+      "claim": "Agent David Hull's preliminary hearing testimony presented a campus timeline in which the \"Maroon Boy\" interacts with a TPUSA representative, departs, and returns on foot – omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.",
       "anchored_artifacts": [
         "A-2414.1",
         "A-2415.1"

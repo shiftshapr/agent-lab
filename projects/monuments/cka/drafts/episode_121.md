@@ -220,7 +220,7 @@ Confidence Level: Medium
 
 **A-2102** Read-Aloud Comments and Emails Bundle
 
-**A-2102.1** Judith Bronco comment (retired ER nurse) — Brian Harpole's ER story implausible
+**A-2102.1** Judith Bronco comment (retired ER nurse) – Brian Harpole's ER story implausible
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -230,7 +230,7 @@ Confidence Level: Medium
 
 *Related: C-2964, N-2081*
 
-**A-2102.2** Gina Schubert comment (22-year nurse) — Brian Harpole's ER story did not happen
+**A-2102.2** Gina Schubert comment (22-year nurse) – Brian Harpole's ER story did not happen
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

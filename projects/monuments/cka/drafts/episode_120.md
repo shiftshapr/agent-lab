@@ -42,7 +42,7 @@
 
 ## II. Executive Summary
 
-This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Sean Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt — a likely explosive-residue carrier — has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graff has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
+This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Sean Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graff has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
 
 The episode also re-runs the Next Model Management / Erika Frantzve apartment-management thread with reference to a newly reported (but not on-camera) second witness, presents a viewer email and enhanced shard images supporting the exploding-microphone hypothesis, and includes a Tim Dillon parody reading of a JD Vance book excerpt. A signature-comparison visual is presented as evidence that Erika Kirk's signature has fundamentally changed since her Miss Arizona years, which the host interprets as symptomology consistent with dissociative identity disorder (interpretive, not inscribed as artifact-backed claim).
 
@@ -66,7 +66,7 @@ Confidence Level: High (clip clearly played)
 
 **A-2086** Sarah Tool Media Interview Bundle
 
-**A-2086.1** Sarah Tool first interview — Fox 13 — claims Charlie was shot "directly in his heart," shooter to her right, single shot
+**A-2086.1** Sarah Tool first interview – Fox 13 – claims Charlie was shot "directly in his heart," shooter to her right, single shot
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -76,7 +76,7 @@ Confidence Level: High
 
 *Related: C-2936, N-2075*
 
-**A-2086.2** Sarah Tool second interview — local media, ~51 minutes later — claims Charlie was shot "in the neck," blood spurted across body
+**A-2086.2** Sarah Tool second interview – local media, ~51 minutes later – claims Charlie was shot "in the neck," blood spurted across body
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -86,7 +86,7 @@ Confidence Level: High
 
 *Related: C-2937, N-2075*
 
-**A-2086.3** Sarah Tool ABC News interview — claims shooter was ~200 yards away, shot to left side of neck
+**A-2086.3** Sarah Tool ABC News interview – claims shooter was ~200 yards away, shot to left side of neck
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -152,7 +152,7 @@ Confidence Level: High
 
 **A-2090** Tim Dillon Comedy Reading Bundle
 
-**A-2090.1** Tim Dillon clip — parody reading titled "God chose me by J. D. Vance," with Baal-sacrifice framing
+**A-2090.1** Tim Dillon clip – parody reading titled "God chose me by J. D. Vance," with Baal-sacrifice framing
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -166,7 +166,7 @@ Confidence Level: High
 
 **A-2091** Erika Signature Comparison Bundle
 
-**A-2091.1** Erika current signature (post-Charlie era) — displayed on show as "Erica Lane" (transcript spelling, see Optional Flags)
+**A-2091.1** Erika current signature (post-Charlie era) – displayed on show as "Erica Lane" (transcript spelling, see Optional Flags)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -176,7 +176,7 @@ Confidence Level: High
 
 *Related: C-2944, N-2, N-2078*
 
-**A-2091.2** Erika Miss Arizona era signature — displayed on show as visibly distinct from A-2091.1
+**A-2091.2** Erika Miss Arizona era signature – displayed on show as visibly distinct from A-2091.1
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -229,7 +229,7 @@ Investigative Pressure: High
 
 Defendant in preliminary hearing subject to host's hearsay concerns.
 
-Evidence Count: 1 (this episode — references ruling)
+Evidence Count: 1 (this episode – references ruling)
 Claim Count: 2 (this episode)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
@@ -240,7 +240,7 @@ Investigative Pressure: High
 
 **N-2074** Charlie Kirk Shirt Disposal Verification
 
-Persistent target: whether Charlie's "freedom shirt" — predicted to retain explosive residue under the mic-explosion hypothesis — was preserved as evidence or otherwise disposed of.
+Persistent target: whether Charlie's "freedom shirt" – predicted to retain explosive residue under the mic-explosion hypothesis – was preserved as evidence or otherwise disposed of.
 
 Evidence Count: 2
 Claim Count: 1
@@ -475,9 +475,9 @@ Confidence: high
 - **Name uncertainty**: Transcript renders the signature as "Erica Lane" at A-2091.1 reference (39:46). This may be a transcription artifact, a nickname, or an alternative spelling. Host references it as "her new signature, Erica Lane, the one that's scratched out." Preserved verbatim.
 - **Name uncertainty**: Host uses both "Shawn Ryan" and "Sean Ryan" for the same podcast host. Preserved both spellings as appearing.
 - **Name uncertainty**: Host uses both "Frank Cheric" and "Frank Turik" in reference to the same individual traveling with Charlie. Preserved both as appearing.
-- **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graff ruling) — host summarizes the ruling but the underlying court document is not displayed on screen.
+- **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graff ruling) – host summarizes the ruling but the underlying court document is not displayed on screen.
 - **Witness not shown in episode**: Host reports that "another person has come forward and confirmed" Erika Frantzve's role as apartment contact at Next Model Management; this witness is not shown speaking on this episode. Not inscribed as artifact-backed claim.
-- **Claim failed admission test**: Host's interpretation of Erika Kirk's behavior as consistent with dissociative identity disorder — fails Rhetoric Removal Test; treated as interpretive commentary.
+- **Claim failed admission test**: Host's interpretation of Erika Kirk's behavior as consistent with dissociative identity disorder – fails Rhetoric Removal Test; treated as interpretive commentary.
 - **Transcript ambiguity**: Chapter marker at [47:07] references "JD Vance's new book"; the played clip refers to a fictional work titled "God chose me by J. D. Vance." Whether this is a real published excerpt or entirely fabricated parody material should be verified.
 - **Possible transcription error**: "Frank Turik" likely intended as "Frank Turik" but may correspond to a person whose surname has been variously rendered across episodes.
 

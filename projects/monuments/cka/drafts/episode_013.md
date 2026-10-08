@@ -38,7 +38,7 @@
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
-Fourth, a video clip of Benjamin Netanyahu meeting influencer Deborah Lee is read/played, with Netanyahu naming TikTok and X — and Elon Musk — as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Constantine Kissen are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
+Fourth, a video clip of Benjamin Netanyahu meeting influencer Deborah Lee is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Constantine Kissen are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
 
 The episode also contains extensive speculation about overseas "military operation" framing, "Robbie Hild" identity skepticism, and a rumored Tyler Robinson / Mike Mitchell connection; these are recorded here only under Optional Flags for failure to meet the Claim Admission Test.
 
@@ -86,7 +86,7 @@ Confidence Level: High
 
 ### A-1198 State Farm Stadium Booking Report
 
-**A-1198.1** Host testimonial — sourced from "many sources at Turning Point USA" — confirming State Farm Stadium for Charlie Kirk's memorial was secured via direct White House call to the event coordinator; the displaced booking was an RV show.
+**A-1198.1** Host testimonial – sourced from "many sources at Turning Point USA" – confirming State Farm Stadium for Charlie Kirk's memorial was secured via direct White House call to the event coordinator; the displaced booking was an RV show.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -564,7 +564,7 @@ Investigative Direction: Identify and interview the female speaker; obtain the o
 
 Claim Timestamp: 00:04:53
 
-Claim: Multiple senior officials involved in the case were recent appointments at the time of the event — FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
+Claim: Multiple senior officials involved in the case were recent appointments at the time of the event – FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
 Mentions: N-191, N-192, N-193, N-70, N-102
@@ -788,12 +788,12 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- Speculation / Framing Premise (failed Claim Admission Test): "I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas." Recorded as framing premise only — no artifact anchor.
-- Speculation / Framing Premise: "Tyler Robinson … we can't confirm that this is Mike Mitchell" — speculation on identity substitution; no artifact anchor.
-- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity — labeled N-1219 for tracking, but not inscribed as a claim.
+- Speculation / Framing Premise (failed Claim Admission Test): "I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas." Recorded as framing premise only – no artifact anchor.
+- Speculation / Framing Premise: "Tyler Robinson … we can't confirm that this is Mike Mitchell" – speculation on identity substitution; no artifact anchor.
+- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-1219 for tracking, but not inscribed as a claim.
 - Artifact verbally referenced but not shown: Russian-language translated article about "White Lotus sect" training fighters (article cited but not displayed in the transcript).
-- Transcript ambiguity: The "FBI" new head is referred to by host as "Robert BS" (possibly phonetic / partial nickname); spelling uncertain — preserved exactly.
-- Transcript ambiguity: "Erika Mindle" / "Erikica Mindle" — spelling varies within the host's own narration.
+- Transcript ambiguity: The "FBI" new head is referred to by host as "Robert BS" (possibly phonetic / partial nickname); spelling uncertain – preserved exactly.
+- Transcript ambiguity: "Erika Mindle" / "Erikica Mindle" – spelling varies within the host's own narration.
 - Transcript ambiguity: AI-generated subtitles in A-1196.1 were flagged by host as incorrect ("is" instead of "if"); content captured from corrected play-back.
 - Transcript ambiguity: "Andrew Zanger" spelling not independently verified in this episode.
 - Name uncertainty: The "Lyman family member" speaker in A-1196.1 is not named; flagged for verification.

@@ -41,11 +41,11 @@
 
 ## II. Executive Summary
 
-This episode centers on an extended interview with an eyewitness pseudonymized as "Mitch," who claims to have visited Fort Huachuca, Arizona on September 8–9, 2025 — the day before Charlie Kirk was shot — and to have inadvertently stumbled upon a meeting involving individuals he identifies by resemblance as Erika Kirk (N-2), Brian Harpole, and Congressman Mark Amodei. Candace Owens states that she independently corroborated Mitch's physical location at Fort Huachuca during the relevant window via EXIF metadata from an 18-minute video he recorded on base, and via his military ID cards.
+This episode centers on an extended interview with an eyewitness pseudonymized as "Mitch," who claims to have visited Fort Huachuca, Arizona on September 8–9, 2025 – the day before Charlie Kirk was shot – and to have inadvertently stumbled upon a meeting involving individuals he identifies by resemblance as Erika Kirk (N-2), Brian Harpole, and Congressman Mark Amodei. Candace Owens states that she independently corroborated Mitch's physical location at Fort Huachuca during the relevant window via EXIF metadata from an 18-minute video he recorded on base, and via his military ID cards.
 
 Prior to the interview, Owens reads aloud two emails she received: one characterizing Fort Huachuca as an Army Military Intelligence (MIT) training installation, and a second, longer email from former gym owners in Sierra Vista describing a class taught at Fort Huachuca by a man identified as Bruce Bevins (N-598) which allegedly trained military personnel to infiltrate Christian organizations through covert psychological operations. Two corroborating military students are described as recounting overnight deception exercises targeting civilians in Tucson.
 
-Owens also revisits prior "data points" from earlier episodes — the rooftop eyewitness, the bomb-dog failure to locate the weapon, the federal direction to local officers, the multiple prints on the weapon, and the missing Tyler Robinson surrender footage. These recap points reference artifacts previously inscribed in earlier episodes and are not re-anchored with new artifacts here. A new viewer question regarding black plastic-like fragments visible in photos of Charlie Kirk's SUV interior is also aired and flagged as requiring further analysis.
+Owens also revisits prior "data points" from earlier episodes – the rooftop eyewitness, the bomb-dog failure to locate the weapon, the federal direction to local officers, the multiple prints on the weapon, and the missing Tyler Robinson surrender footage. These recap points reference artifacts previously inscribed in earlier episodes and are not re-anchored with new artifacts here. A new viewer question regarding black plastic-like fragments visible in photos of Charlie Kirk's SUV interior is also aired and flagged as requiring further analysis.
 
 The episode advances the structural thesis that the investigation has been infiltrated or compromised by intelligence-affiliated actors, and introduces Fort Huachuca as both a physical location and a potential institutional nexus.
 
@@ -53,7 +53,7 @@ The episode advances the structural thesis that the investigation has been infil
 
 ## III. Artifact Register
 
-**A-1557** Email Bundle — Fort Huachuca Intelligence Operations Allegations
+**A-1557** Email Bundle – Fort Huachuca Intelligence Operations Allegations
 
 **A-1557.1** Viewer Email Describing Fort Huachuca as Army Military Intelligence (MIT) Training Base
 
@@ -65,7 +65,7 @@ Confidence Level: Medium (single email, paraphrased on air)
 
 *Related: C-1969, N-1439*
 
-**A-1557.2** Viewer Email — Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups
+**A-1557.2** Viewer Email – Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -77,7 +77,7 @@ Confidence Level: Low (single uncorroborated email, host uses "allegedly" qualif
 
 ---
 
-**A-1558** Eyewitness Documentation Bundle — Mitch's September 2025 Fort Huachuca Visit
+**A-1558** Eyewitness Documentation Bundle – Mitch's September 2025 Fort Huachuca Visit
 
 **A-1558.1** 18-Minute Selfie Video with EXIF Metadata Verifying Location and Time at Fort Huachuca on September 9, 2025
 
@@ -111,7 +111,7 @@ Confidence Level: High (full interview segment)
 
 ---
 
-**A-1559** Photo Identification Bundle — Eyewitness Resemblance Comparisons
+**A-1559** Photo Identification Bundle – Eyewitness Resemblance Comparisons
 
 **A-1559.1** Photograph of Congressman Mark Amodei Displayed On-Screen and Shown to Mitch for Identification
 
@@ -145,7 +145,7 @@ Confidence Level: Low (referenced by witness; display not detailed in transcript
 
 ---
 
-**A-1560** Viewer Correspondence Bundle — Charlie Kirk SUV Interior Photographs
+**A-1560** Viewer Correspondence Bundle – Charlie Kirk SUV Interior Photographs
 
 **A-1560.1** Viewer Email Asking About Black Plastic-Like Fragmentation Visible in Photos of Charlie Kirk's SUV Interior
 
@@ -386,7 +386,7 @@ Investigative Direction: Identify Bruce Bevins's official military role and cour
 
 Claim Timestamp: 00:16:38–00:17:14
 
-Claim: Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson — telling lies, maintaining false personas, and avoiding "breaking character" — at bars and public venues, with implications of sexual encounters with targets.
+Claim: Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson – telling lies, maintaining false personas, and avoiding "breaking character" – at bars and public venues, with implications of sexual encounters with targets.
 
 Anchored Artifacts: A-1557.2
 Mentions: N-598
@@ -456,10 +456,10 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Artifact verbally referenced but not shown**: A-1559.2 (Brian Harpole reference photo) and A-1559.3 (Erika Kirk reference photo with ponytail) — host references these as identification comparisons but the on-screen display is not detailed in the transcript.
-- **Transcript ambiguity**: A-1560.2 (Charlie Kirk SUV photos) — host announces intent to display at ~02:51 but the transcript does not include transcriptions of any photo contents.
-- **Single-source testimony**: A-1557.2 (gym owner email) — sole source for claims C-1976 and C-1977; host explicitly qualifies as "allegedly."
-- **Host-conducted verification only**: C-1971 — EXIF metadata verification was performed by host and her team, not by an independent forensic source within this episode.
+- **Artifact verbally referenced but not shown**: A-1559.2 (Brian Harpole reference photo) and A-1559.3 (Erika Kirk reference photo with ponytail) – host references these as identification comparisons but the on-screen display is not detailed in the transcript.
+- **Transcript ambiguity**: A-1560.2 (Charlie Kirk SUV photos) – host announces intent to display at ~02:51 but the transcript does not include transcriptions of any photo contents.
+- **Single-source testimony**: A-1557.2 (gym owner email) – sole source for claims C-1976 and C-1977; host explicitly qualifies as "allegedly."
+- **Host-conducted verification only**: C-1971 – EXIF metadata verification was performed by host and her team, not by an independent forensic source within this episode.
 - **Requires human verification**: Identification confidence percentages for C-1973, C-1974, and C-1975 are witness self-assessments and should be treated as testimonial rather than forensic identification.
 - **Name preservation**: "Bruce Bevins" preserved exactly as named in email; "Mitch" preserved as host-assigned pseudonym; "Captain Neff" preserved exactly as named in witness testimony; "Mark Amodei" identified from host's on-air correction via production staff.
 - **Previously inscribed data points (recap only)**: References to the rooftop eyewitness not contacted, bomb-dog failure, federal direction to local officers regarding the weapon, multiple sets of prints on the weapon, and missing Tyler Robinson surrender footage were re-stated in this episode but are anchored to artifacts previously inscribed in earlier episodes and are not re-anchored here.

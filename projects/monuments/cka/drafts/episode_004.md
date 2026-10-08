@@ -35,7 +35,7 @@ Video Timestamp: 00:04:59
 Transcript Snippet: Drop what you are doing. Look under my keyboard.
 Confidence: high
 
-**A-1104.2** Sept 10 text referencing 'some crazy old dude' interrogated and 'someone in similar clothing' — enables 5:30 PM timeline placement.
+**A-1104.2** Sept 10 text referencing 'some crazy old dude' interrogated and 'someone in similar clothing' – enables 5:30 PM timeline placement.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:06:51
 *Related: C-1178, C-1179, N-69, N-84, N-71*

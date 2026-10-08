@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode centers on 'cameragate' - post-shooting footage of two unidentified men at the scene, with one removing a camera and apparent SD/SIM card. Host claims personal contact with the camera-handler and FaceTime viewing of behind-shot footage showing no blood. Threads: Senate resolution for Charlie Kirk Remembrance Day, Pam Bondi hate-speech remarks, Jimmy Kimmel suspension and FCC threat, alleged Israel-linked media campaign against Owens, and TPUSA financial apparatus investigation.
+Episode centers on 'cameragate' – post-shooting footage of two unidentified men at the scene, with one removing a camera and apparent SD/SIM card. Host claims personal contact with the camera-handler and FaceTime viewing of behind-shot footage showing no blood. Threads: Senate resolution for Charlie Kirk Remembrance Day, Pam Bondi hate-speech remarks, Jimmy Kimmel suspension and FCC threat, alleged Israel-linked media campaign against Owens, and TPUSA financial apparatus investigation.
 
 ## 3. Artifact Register
 

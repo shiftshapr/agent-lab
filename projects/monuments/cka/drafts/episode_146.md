@@ -42,7 +42,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ## II. Executive Summary
 
-This episode centers on two principal evidentiary threads. The first is the introduction of exclusive, never-before-seen UVU footage depicting Butch (Burton) Hibbs Jr. — brother of Calvary Chapel Chino Hills pastor Jack Hibbs — recorded immediately after the September 10th shooting. Host Candace Owens presents the footage as showing Hibbs calmly opening his camera app and filming multiple angles rather than rendering aid, fleeing, or making emergency calls. She also presents stills showing Hibbs on a phone call roughly five minutes after the shot, not visibly distressed, and walking behind news interviewees. Owens connects this footage to public statements by Jack Hibbs, including a Facebook video in which Jack claims to have learned of Charlie Kirk's death "from Israeli news service," and audio interviews Jack gave to Frank Churik and to Fox News' Todd Starns about his brother's last-minute UVU attendance and the post-shooting call sequence. Owens highlights apparent inconsistencies in Jack Hibbs's account, including his confusion between Charlie Kirk and "cousin Charlie," and the implausibly tight timeline between the shooting and the reported 12:30 PM FaceTime prayer chain.
+This episode centers on two principal evidentiary threads. The first is the introduction of exclusive, never-before-seen UVU footage depicting Butch (Burton) Hibbs Jr. – brother of Calvary Chapel Chino Hills pastor Jack Hibbs – recorded immediately after the September 10th shooting. Host Candace Owens presents the footage as showing Hibbs calmly opening his camera app and filming multiple angles rather than rendering aid, fleeing, or making emergency calls. She also presents stills showing Hibbs on a phone call roughly five minutes after the shot, not visibly distressed, and walking behind news interviewees. Owens connects this footage to public statements by Jack Hibbs, including a Facebook video in which Jack claims to have learned of Charlie Kirk's death "from Israeli news service," and audio interviews Jack gave to Frank Churik and to Fox News' Todd Starns about his brother's last-minute UVU attendance and the post-shooting call sequence. Owens highlights apparent inconsistencies in Jack Hibbs's account, including his confusion between Charlie Kirk and "cousin Charlie," and the implausibly tight timeline between the shooting and the reported 12:30 PM FaceTime prayer chain.
 
 The second thread addresses the Tyler Robinson preliminary hearing decision day, where Judge Graph was expected to rule on the defense's motion to dismiss charges 1, 6, and 7 (aggravated murder, witness-tampering-via-Miranda-advice, and violent-offense-in-presence-of-a-child). Owens reviews the prosecution's reliance on Pennsylvania aggravated-murder jurisprudence despite Pennsylvania's active death-penalty moratorium. Courthouse attendee footage is presented identifying Andrew Kovat, Pastor James Cadis, Charlie Kirk's parents, Stacy Sheridan, and Tracy Martin arriving at the hearing. Erika Kirk was present but not captured on camera. The host also identifies an unidentified individual in a pink hat and blue shirt visible in UVU 9/10 photos and asks the audience to help identify them.
 
@@ -80,7 +80,7 @@ Confidence Level: High
 
 ### A-2322 Jack Hibbs / Frank Churik Interview Bundle
 
-**A-2322.1** Jack Hibbs interview with Frank Churik — brother Butch's night-before UVU ticket request and pre-event photo
+**A-2322.1** Jack Hibbs interview with Frank Churik – brother Butch's night-before UVU ticket request and pre-event photo
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -90,7 +90,7 @@ Confidence Level: High
 
 *Related: C-3347, C-3355*
 
-**A-2322.2** Jack Hibbs interview with Frank Churik — FaceTime sequence, Mikey McCoy call, "cousin Charlie" confusion, 12:30 PM prayer chain claim
+**A-2322.2** Jack Hibbs interview with Frank Churik – FaceTime sequence, Mikey McCoy call, "cousin Charlie" confusion, 12:30 PM prayer chain claim
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -104,7 +104,7 @@ Confidence Level: High
 
 ### A-2323 Jack Hibbs / Todd Starns Fox News Audio Bundle
 
-**A-2323.1** Jack Hibbs audio interview with Todd Starns (Fox News) — brother Butch's front-row seat and post-shooting call
+**A-2323.1** Jack Hibbs audio interview with Todd Starns (Fox News) – brother Butch's front-row seat and post-shooting call
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -339,7 +339,7 @@ Investigative Direction: Cross-reference Mikey McCoy's call logs (previously ref
 
 Claim Timestamp: 00:16:13
 
-Claim: During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie — not Charlie Kirk — had been shot.
+Claim: During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie – not Charlie Kirk – had been shot.
 
 Anchored Artifacts: A-2322.2
 Mentions: N-1, N-309
@@ -457,14 +457,14 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty — "Judge Graph"**: Likely a transcript rendering of the presiding magistrate's name; verify against Utah Fourth District Court records.
-- **Name uncertainty — "Frank Churik" / "Frank Turk"**: Transcript alternates between "Churik" and "Turk"; host also references him as "the Yankin and Bankan Franken Turk." Confirm full legal name.
-- **Name uncertainty — "Marissa Strait"**: Likely intended reference to a PragerU executive publicly associated with Unit 8200 background; preserve as transcribed.
-- **Name uncertainty — "James Cadis" / "Cadiz"**: Transcript primarily renders as "Cadis"; verify against Calvary Chapel Signal Hill staff listings.
-- **Name uncertainty — "Todd Starns"**: Possibly intended as "Todd Starnes" (Fox News contributor); preserve as transcribed.
-- **Name uncertainty — "Lance Twigs"**: Short reference in transcript; likely a transcript rendering error of a different surname; verify.
-- **Possible transcription error — "FAR filing docks"**: Likely refers to "FARA" (Foreign Agents Registration Act) filings; flag for verification.
-- **Name uncertainty — "Bill Aman"**: Likely refers to Bill Ackman; preserve as transcribed.
+- **Name uncertainty – "Judge Graph"**: Likely a transcript rendering of the presiding magistrate's name; verify against Utah Fourth District Court records.
+- **Name uncertainty – "Frank Churik" / "Frank Turk"**: Transcript alternates between "Churik" and "Turk"; host also references him as "the Yankin and Bankan Franken Turk." Confirm full legal name.
+- **Name uncertainty – "Marissa Strait"**: Likely intended reference to a PragerU executive publicly associated with Unit 8200 background; preserve as transcribed.
+- **Name uncertainty – "James Cadis" / "Cadiz"**: Transcript primarily renders as "Cadis"; verify against Calvary Chapel Signal Hill staff listings.
+- **Name uncertainty – "Todd Starns"**: Possibly intended as "Todd Starnes" (Fox News contributor); preserve as transcribed.
+- **Name uncertainty – "Lance Twigs"**: Short reference in transcript; likely a transcript rendering error of a different surname; verify.
+- **Possible transcription error – "FAR filing docks"**: Likely refers to "FARA" (Foreign Agents Registration Act) filings; flag for verification.
+- **Name uncertainty – "Bill Aman"**: Likely refers to Bill Ackman; preserve as transcribed.
 - **Artifact referenced but not shown**: The dismissal motion and prosecution response filings in the Tyler Robinson preliminary hearing are referenced and discussed by host but not displayed in this episode.
 - **Artifact referenced but not shown**: Mikey McCoy's call logs (12:24–12:44 window) are referenced but were presented in a prior episode, not displayed here.
 - **Unsupported Allegation (not inscribed)**: Host's claims that the Wilks brothers fund Calvary Chapel, PragerU, Daily Wire, and Ted Cruz, and fly Israeli flags in Texas, are stated as "just facts" without displayed artifacts in this episode.

@@ -303,7 +303,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1409",
       "family_ref": "A-1409",
-      "bundle_name": "Charlie Kirk Event — Bush Activity Photo Bundle",
+      "bundle_name": "Charlie Kirk Event – Bush Activity Photo Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -544,7 +544,7 @@
       "@type": "Person",
       "@id": "N-394",
       "ref": "N-394",
-      "name": "Robin Taylor / \"Rob Taylor\" / \"Luke Taylor\" (Name uncertainty — flagged)",
+      "name": "Robin Taylor / \"Rob Taylor\" / \"Luke Taylor\" (Name uncertainty – flagged)",
       "type": "person",
       "description": "Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.",
       "related_artifacts": [
@@ -848,7 +848,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1321",
       "ref": "N-1321",
-      "name": "Charlie Kirk Event — Maroon Shirt Individual Identification",
+      "name": "Charlie Kirk Event – Maroon Shirt Individual Identification",
       "type": "investigation_target",
       "description": "Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.",
       "related_artifacts": [

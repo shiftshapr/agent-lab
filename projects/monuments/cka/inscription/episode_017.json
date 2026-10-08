@@ -112,7 +112,7 @@
           "@type": "Artifact",
           "@id": "A-1239.1",
           "ref": "A-1239.1",
-          "description": "Hammer X post (displayed and read aloud): \"Jew hatred is inherent in the European DNA\" — shown as 2019 post; host states Hammer subsequently deleted it",
+          "description": "Hammer X post (displayed and read aloud): \"Jew hatred is inherent in the European DNA\" – shown as 2019 post; host states Hammer subsequently deleted it",
           "related_claims": [
             "C-1419"
           ],
@@ -572,7 +572,7 @@
       "ref": "N-231",
       "name": "Gianmarco Soresi",
       "type": "person",
-      "description": "Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both \"Gianmarco Soresi\" (host) and \"John Marco Siracusa\" (caption) — flag.",
+      "description": "Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both \"Gianmarco Soresi\" (host) and \"John Marco Siracusa\" (caption) – flag.",
       "related_artifacts": [
         "A-1247.1"
       ],
@@ -653,7 +653,7 @@
       "ref": "N-235",
       "name": "Dinesh D'Souza",
       "type": "person",
-      "description": "X author of A-1245.1 — the \"freak show\" / farmer-sex-with-sheep post about Candace Owens.",
+      "description": "X author of A-1245.1 – the \"freak show\" / farmer-sex-with-sheep post about Candace Owens.",
       "related_artifacts": [
         "A-1245.1"
       ],
@@ -899,7 +899,7 @@
       "ref": "N-1242",
       "name": "Candace Kill Switch / Dead Man Switch",
       "type": "investigation_target",
-      "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" — confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
+      "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
       "related_artifacts": [
         "A-1246.1"
       ],
@@ -1165,7 +1165,7 @@
       "@type": "Claim",
       "@id": "C-1406",
       "ref": "C-1406",
-      "label": "Iryna Zhuravska Murder Timeline — Murder August 22, Footage Released and Trended September 5",
+      "label": "Iryna Zhuravska Murder Timeline – Murder August 22, Footage Released and Trended September 5",
       "claim": "Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arrested the same day; the footage was released and trended on X on September 5, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1202,7 +1202,7 @@
       "@id": "C-1408",
       "ref": "C-1408",
       "label": "Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty",
-      "claim": "In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.",
+      "claim": "In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety – but did not call for or reference the death penalty.",
       "anchored_artifacts": [
         "A-1250.1"
       ],
@@ -1487,7 +1487,7 @@
       "@type": "Claim",
       "@id": "C-1423",
       "ref": "C-1423",
-      "label": "UVU Had a Specific Suspect Profile Sought by Host — Older Males with Long Hair Tied in Ponytail or Bun",
+      "label": "UVU Had a Specific Suspect Profile Sought by Host – Older Males with Long Hair Tied in Ponytail or Bun",
       "claim": "Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [

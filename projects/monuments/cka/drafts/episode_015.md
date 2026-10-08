@@ -19,7 +19,7 @@
 
 This episode advances the Bride of Charlie investigation by focusing on Turning Point USA's (TPUSA) defensive public posture following the Charlie Kirk assassination. The host introduces six discrete evidentiary families: Tyler Bowyer's (COO, TP Action) X/Twitter responses defending SD card handling, audit history, and campus footage release; Andrew Kolvet's Tucker Carlson interview explaining the SD card removal; the September 18, 2025 Wall Street Journal profile of Alex Clark; Rob McCoy's (TPUSA Faith Division) Instagram post responding to the Hampton's meeting reveal; a purported group chat dated 2 days before the assassination, on which Candace identifies Charlie Kirk, Rob McCoy, and Josh Hammer as participants; and an unnamed pastor's September 21, 2025 sermon attacking Candace and Nick Fuentes.
 
-The episode raises two primary investigative questions: (1) whether the official SD card removal explanation is internally consistent (Kolvet's theft-prevention account vs. Bowyer's law-enforcement-instruction account vs. the host's undisclosed-source account), and (2) the verifiable content of the pre-assassination group chat including Charlie Kirk's stated intention to leave the pro-Israel cause. The structural importance is the introduction of conflicting artifact-anchored accounts of post-assassidence camera handling — a discrepancy ripe for cross-referencing with FBI/DoJ record releases.
+The episode raises two primary investigative questions: (1) whether the official SD card removal explanation is internally consistent (Kolvet's theft-prevention account vs. Bowyer's law-enforcement-instruction account vs. the host's undisclosed-source account), and (2) the verifiable content of the pre-assassination group chat including Charlie Kirk's stated intention to leave the pro-Israel cause. The structural importance is the introduction of conflicting artifact-anchored accounts of post-assassidence camera handling – a discrepancy ripe for cross-referencing with FBI/DoJ record releases.
 
 The episode also reasserts prior narrative threads (Charlie Kirk's Catholic trajectory, Hampton's meeting, the DoJ department memo) without displaying new artifacts for them; these are flagged as cross-episode references.
 
@@ -44,7 +44,7 @@ Confidence: high
 
 **A-1220** Tyler Bowyer X Post Bundle
 
-**A-1220.1** Tyler Bowyer X post — SD card removal defense
+**A-1220.1** Tyler Bowyer X post – SD card removal defense
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -56,7 +56,7 @@ Description: Bowyer tweet responding to claim that staff "tampered with cameras,
 
 *Related: C-1366, C-1370, C-1371, N-70, N-1228, N-37*
 
-**A-1220.2** Tyler Bowyer X post — DoJ department / audit denial
+**A-1220.2** Tyler Bowyer X post – DoJ department / audit denial
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -68,7 +68,7 @@ Description: Bowyer tweet stating "She took a sentence and made something up. TP
 
 *Related: C-1368, C-1379, N-70, N-37*
 
-**A-1220.3** Tyler Bowyer X post — campus footage release
+**A-1220.3** Tyler Bowyer X post – campus footage release
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -94,7 +94,7 @@ Description: Kolvet on Tucker Carlson show defending the TPUSA staffer who remov
 
 *Related: C-1369, C-1370, N-42, N-1228*
 
-**A-1222** Wall Street Journal Article — Alex Clark Profile
+**A-1222** Wall Street Journal Article – Alex Clark Profile
 
 **A-1222.1** WSJ article published September 18, 2025
 
@@ -138,7 +138,7 @@ Description: Rob McCoy Instagram post stating: "Charlie Kirk was my friend and I
 
 **A-1225** Pre-Assassination Group Chat Bundle
 
-**A-1225.1** Charlie Kirk message — lost $2M/year Jewish donor
+**A-1225.1** Charlie Kirk message – lost $2M/year Jewish donor
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -150,7 +150,7 @@ Description: Text attributed to Charlie Kirk in a 9-person group chat: "Just los
 
 *Related: C-1375, C-1376, N-1229*
 
-**A-1225.2** Charlie Kirk message — refusing to be bullied
+**A-1225.2** Charlie Kirk message – refusing to be bullied
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -162,7 +162,7 @@ Description: Text attributed to Charlie Kirk: "Jewish donors play into all of th
 
 *Related: C-1376, N-1229, N-1230*
 
-**A-1225.3** Donor reply — counsel against inviting Candace
+**A-1225.3** Donor reply – counsel against inviting Candace
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -228,7 +228,7 @@ Investigative Pressure: Medium
 
 **N-45** Rob McCoy
 
-TPUSA Faith Division head; pastor who publicly responded to Hampton's meeting reveal with criticism of Candace. His son and daughter-in-law reportedly work for TPUSA (host assertion, no artifact — flagged).
+TPUSA Faith Division head; pastor who publicly responded to Hampton's meeting reveal with criticism of Candace. His son and daughter-in-law reportedly work for TPUSA (host assertion, no artifact – flagged).
 
 Evidence Count: 1
 Claim Count: 1
@@ -239,7 +239,7 @@ Investigative Pressure: Medium
 
 **N-1228** SD Card Removal Narrative Discrepancy
 
-Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact, flagged).
+Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).
 
 Evidence Count: 3
 Claim Count: 3
@@ -272,7 +272,7 @@ Investigative Pressure: Medium
 
 **N-1231** Campus Footage Release Strategy Question
 
-Bowyer's assertion that extensive campus footage exists but will not be released until trial — and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.
+Bowyer's assertion that extensive campus footage exists but will not be released until trial – and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.
 
 Evidence Count: 1
 Claim Count: 1
@@ -283,7 +283,7 @@ Investigative Pressure: High
 
 **N-1232** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
-Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only — no artifact in this episode.
+Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only – no artifact in this episode.
 
 Evidence Count: 0
 Claim Count: 0
@@ -316,7 +316,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ## 5. Claim Register
 
-**C-1366** Bowyer SD card removal account — law enforcement instruction
+**C-1366** Bowyer SD card removal account – law enforcement instruction
 
 Claim Timestamp: 00:24:03
 
@@ -355,7 +355,7 @@ Mentions: N-37
 
 Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.
 
-**C-1369** Kolvet SD card removal account — theft prevention
+**C-1369** Kolvet SD card removal account – theft prevention
 
 Claim Timestamp: 00:22:06
 
@@ -382,18 +382,18 @@ Related Nodes: N-1228
 
 Investigative Direction: Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025.
 
-**C-1371** Unflagged host assertion — phone call with TPUSA SD card individual
+**C-1371** Unflagged host assertion – phone call with TPUSA SD card individual
 
 Claim Timestamp: 00:25:39
 
-Claim: The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage — not police instruction or theft concerns.
+Claim: The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage – not police instruction or theft concerns.
 
 Anchored Artifacts: None displayed
 Contradicts: C-1366, C-1369
 
 Related Nodes: N-1228
 
-Investigative Direction: Independent corroboration required; flag for human verification. (Failed admission test — artifact anchor absent in this episode.)
+Investigative Direction: Independent corroboration required; flag for human verification. (Failed admission test – artifact anchor absent in this episode.)
 
 **C-1372** Wall Street Journal article quotes Alex Clark
 
@@ -408,7 +408,7 @@ Related Nodes: N-1232
 
 Investigative Direction: Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution.
 
-**C-1373** WSJ article — Clark praise of Patel and Bongino
+**C-1373** WSJ article – Clark praise of Patel and Bongino
 
 Claim Timestamp: 00:38:03
 
@@ -434,7 +434,7 @@ Related Nodes: N-1232
 
 Investigative Direction: Obtain post directly from McCoy's Instagram; verify timestamp and provenance.
 
-**C-1375** Charlie Kirk group chat statement — lost $2M/year Jewish donor
+**C-1375** Charlie Kirk group chat statement – lost $2M/year Jewish donor
 
 Claim Timestamp: 00:16:50
 
@@ -445,9 +445,9 @@ Mentions: N-50, N-3, N-1
 
 Related Nodes: N-1229, N-1230
 
-Investigative Direction: Independent forensic authentication of chat metadata and participant identities; flag — original chat provenance not independently confirmed.
+Investigative Direction: Independent forensic authentication of chat metadata and participant identities; flag – original chat provenance not independently confirmed.
 
-**C-1376** Charlie Kirk group chat statement — refusing to be bullied / leaving pro-Israel cause
+**C-1376** Charlie Kirk group chat statement – refusing to be bullied / leaving pro-Israel cause
 
 Claim Timestamp: 00:16:50
 
@@ -473,7 +473,7 @@ Related Nodes: N-1229
 
 Investigative Direction: Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle).
 
-**C-1378** Pastor sermon clip — Candace / Fuentes defiled framing
+**C-1378** Pastor sermon clip – Candace / Fuentes defiled framing
 
 Claim Timestamp: 00:45:52
 

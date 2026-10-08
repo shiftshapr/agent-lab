@@ -83,7 +83,7 @@
           "@type": "Artifact",
           "@id": "A-1323.1",
           "ref": "A-1323.1",
-          "description": "Mikey McCoy on-camera statement that he brought the camera for the first time on the Asia/Korea trip and mic'd Charlie up — described by Mikey as occurring \"three, four days before Utah\"",
+          "description": "Mikey McCoy on-camera statement that he brought the camera for the first time on the Asia/Korea trip and mic'd Charlie up – described by Mikey as occurring \"three, four days before Utah\"",
           "related_claims": [
             "C-1586"
           ],
@@ -217,7 +217,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1328",
       "family_ref": "A-1328",
-      "bundle_name": "Audio Clip Bundle: Tucker Carlson on Dave Smith — Theological Frame",
+      "bundle_name": "Audio Clip Bundle: Tucker Carlson on Dave Smith – Theological Frame",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -245,13 +245,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1329",
       "family_ref": "A-1329",
-      "bundle_name": "Audio Clip Bundle: Tucker Carlson on Dave Smith — Nick Fuentes Explanation",
+      "bundle_name": "Audio Clip Bundle: Tucker Carlson on Dave Smith – Nick Fuentes Explanation",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1329.1",
           "ref": "A-1329.1",
-          "description": "Tucker Carlson explaining that he interviewed Nick Fuentes — who had attacked Tucker's wife, son, and father — to demonstrate the Christian principle of forgiveness and the capacity for personal change",
+          "description": "Tucker Carlson explaining that he interviewed Nick Fuentes – who had attacked Tucker's wife, son, and father – to demonstrate the Christian principle of forgiveness and the capacity for personal change",
           "related_claims": [
             "C-1592"
           ],
@@ -863,7 +863,7 @@
       "@id": "C-1586",
       "ref": "C-1586",
       "label": "Mikey McCoy First Mic'd Charlie on the Final Asia Trip, Four Days Before 9/10",
-      "claim": "Mikey McCoy stated on camera that the Asia/Korea trip — which he described as occurring \"three, four days before Utah\" — was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.",
+      "claim": "Mikey McCoy stated on camera that the Asia/Korea trip – which he described as occurring \"three, four days before Utah\" – was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.",
       "anchored_artifacts": [
         "A-1323.1"
       ],
@@ -982,7 +982,7 @@
       "@id": "C-1592",
       "ref": "C-1592",
       "label": "Tucker Carlson Cited Forgiveness as His Reason for Interviewing Nick Fuentes",
-      "claim": "Tucker Carlson stated that he interviewed Nick Fuentes — despite Fuentes's prior attacks on Tucker's wife, son, and father — to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.",
+      "claim": "Tucker Carlson stated that he interviewed Nick Fuentes – despite Fuentes's prior attacks on Tucker's wife, son, and father – to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.",
       "anchored_artifacts": [
         "A-1329.1"
       ],

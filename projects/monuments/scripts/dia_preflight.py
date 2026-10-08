@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-DIA monument preflight — merge-blocking gates for episode drafts + inscription sync.
+DIA monument preflight – merge-blocking gates for episode drafts + inscription sync.
 
 Exit 0 only when no P0/P1 findings. See projects/monuments/DIA_PREFLIGHT.md.
 
@@ -18,6 +18,7 @@ import re
 import subprocess
 import sys
 import tempfile
+from collections import defaultdict
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any, Literal
@@ -51,9 +52,9 @@ TIMESTAMP_FIELD_RE = re.compile(
     re.MULTILINE | re.IGNORECASE,
 )
 VALID_HMS_RE = re.compile(
-    r"^\s*(\d{1,2}):(\d{2}):(\d{2})(?:\s*[–\-—]\s*(\d{1,2}):(\d{2}):(\d{2}))?\s*$"
+    r"^\s*(\d{1,2}):(\d{2}):(\d{2})(?:\s*[–\-\u2014]\s*(\d{1,2}):(\d{2}):(\d{2}))?\s*$"
 )
-BARE_MS_RE = re.compile(r"^\s*\d{1,2}:\d{2}(?:\s*[–\-—]\s*\d{1,2}:\d{2})?\s*$")
+BARE_MS_RE = re.compile(r"^\s*\d{1,2}:\d{2}(?:\s*[–\-\u2014]\s*\d{1,2}:\d{2})?\s*$")
 
 PERSON_TYPES = frozenset({"person", "investigationtarget"})
 TOPIC_BAND_TYPES = frozenset({"topic", "organization", "organisation", "place", "org"})
@@ -1659,6 +1660,205 @@ def check_dangling_claim_refs(report: PreflightReport, episodes: list[tuple[int,
                     report.add("P1", "dangling_claim_ref", f"{ep_name}: {cid} is referenced but never defined", cid)
 
 
+# --- Dash rule gates (Daveed, 8 Oct 2026) -------------------------------------------------
+# In prose an em dash (U+2014) becomes an en dash (U+2013); a dash is never rewritten as other
+# punctuation. Quote fields stay exact to the transcript, em dashes included. Opt-in per monument
+# via config/preflight_gates.json {"dash_rule": {"prose_em_dash": true, "quote_dash_fidelity": true}}.
+
+EM_DASH = "\u2014"
+DASH_CHARS = "\u2012\u2013\u2014\u2015"
+# Labels whose value is a quote (kept exact, em dashes included).
+QUOTE_FIELD_LINE_RE = re.compile(
+    r"^\s*(?:[-*]\s*)*\**\s*(Transcript Snippet|Quote|Quoted(?: [A-Za-z]+)*|Verbatim(?: [A-Za-z]+)*|Excerpts?|Headline)\s*\**\s*:\s*(.*)$",
+    re.IGNORECASE,
+)
+# Spoken-quote fields checked against the transcript.
+TRANSCRIPT_QUOTE_LINE_RE = re.compile(r"^\s*(?:[-*]\s*)*\**\s*(Transcript Snippet|Quote)\s*\**\s*:\s*(.*)$")
+QUOTE_JSON_KEYS = frozenset({"transcript_snippet", "quote"})
+QUOTED_SPAN_RE = re.compile(r'"[^"\n]*"|\u201c[^\u201d\n]*\u201d')
+DASH_TOKEN_RE = re.compile(r"[\w']+|[\u2012\u2013\u2014\u2015]|(?<!\S)--?(?!\S)")
+ELLIPSIS_SPLIT_RE = re.compile(r"\.{3,}|\u2026")
+
+
+def _em_outside_quoted_spans(text: str) -> int:
+    spans = [m.span() for m in QUOTED_SPAN_RE.finditer(text)]
+    n = 0
+    for i, ch in enumerate(text):
+        if ch == EM_DASH and not any(a < i < b for a, b in spans):
+            n += 1
+    return n
+
+
+def check_prose_em_dash(report: PreflightReport, monument_dir: Path, episodes: list[tuple[int, str, Path, str]]) -> None:
+    """P2 prose_em_dash: an em dash outside a quote field or quoted span (should be an en dash)."""
+    for _ep, ep_name, _path, content in episodes:
+        for ln, line in enumerate(content.split("\n"), 1):
+            if EM_DASH not in line or QUOTE_FIELD_LINE_RE.match(line):
+                continue
+            n = _em_outside_quoted_spans(line)
+            if n:
+                report.add("P2", "prose_em_dash", f"{ep_name}:{ln}: {n} em dash(es) in prose (use an en dash): {line.strip()[:120]!r}", f"{ep_name}:{ln}")
+
+    def walk(o: Any, rel: str, path: str, key: str | None) -> None:
+        if isinstance(o, dict):
+            for k, v in o.items():
+                walk(v, rel, f"{path}/{k}", k)
+        elif isinstance(o, list):
+            for i, v in enumerate(o):
+                walk(v, rel, f"{path}/{i}", key)
+        elif isinstance(o, str) and EM_DASH in o and key not in QUOTE_JSON_KEYS:
+            n = _em_outside_quoted_spans(o)
+            if n:
+                report.add("P2", "prose_em_dash", f"{rel}{path}: {n} em dash(es) in prose (use an en dash): {o[:120]!r}", f"{rel}{path}")
+
+    for sub in ("inscription", "canonical", "config"):
+        d = monument_dir / sub
+        if not d.is_dir():
+            continue
+        for jp in sorted(d.glob("*.json")):
+            raw = jp.read_text(encoding="utf-8")
+            if EM_DASH not in raw and "\\u2014" not in raw:
+                continue
+            try:
+                data = json.loads(raw)
+            except json.JSONDecodeError:
+                continue
+            walk(data, f"{sub}/{jp.name}", "", None)
+
+
+def _dash_tokens(text: str) -> list[str]:
+    """Words (lower-cased) and dash tokens; a spaced hyphen ' - ' / ' -- ' counts as a dash."""
+    return [t.lower() for t in DASH_TOKEN_RE.findall(text.replace("\u2019", "'").replace("\u2018", "'"))]
+
+
+def _is_dash(tok: str) -> bool:
+    return tok in ("-", "--") or (len(tok) == 1 and tok in DASH_CHARS)
+
+
+def _transcript_tokens(raw: str) -> list[str]:
+    # Markdown list bullets (the chapter list) are layout, not spoken dashes.
+    body = re.sub(r"(?m)^[ \t]*[-*+][ \t]+", " ", raw)
+    body = TRANSCRIPT_MARKER_RE.sub(" ", body)
+    return _dash_tokens(body)
+
+
+def quote_dash_mismatch(quote: str, transcript_tokens: list[str], word_index: dict[str, list[int]]) -> str | None:
+    """Reason string when the quote's dashes differ from the transcript, else None.
+
+    Each ellipsis-separated segment is located in the transcript by its word sequence (dashes
+    ignored); the dash tokens between those words must then be identical. A segment that cannot be
+    located is only checked for dashes the quote itself carries: each must occur in the transcript
+    between the same two words.
+    """
+    for seg in ELLIPSIS_SPLIT_RE.split(quote):
+        q = _dash_tokens(seg)
+        qwords = [t for t in q if not _is_dash(t)]
+        if not qwords:
+            if any(_is_dash(t) for t in q):
+                return f"dash-only segment {seg.strip()[:40]!r}"
+            continue
+        located = None
+        for start in word_index.get(qwords[0], []):
+            j, k, span = start, 0, []
+            while j < len(transcript_tokens) and k < len(qwords):
+                tok = transcript_tokens[j]
+                span.append(tok)
+                if _is_dash(tok):
+                    j += 1
+                    continue
+                if tok != qwords[k]:
+                    break
+                j += 1
+                k += 1
+            if k == len(qwords):
+                located = span
+                break
+        if located is not None:
+            qseq = [t for t in q if t in qwords or _is_dash(t)]
+            # Drop dashes at the very edges of the quote segment (outside the located words).
+            while qseq and _is_dash(qseq[0]):
+                qseq.pop(0)
+            while qseq and _is_dash(qseq[-1]):
+                qseq.pop()
+            if qseq != located:
+                qd = sum(_is_dash(t) for t in qseq)
+                td = sum(_is_dash(t) for t in located)
+                return f"quote has {qd} dash(es), transcript span has {td} at {' '.join(located[:8])!r}"
+            continue
+        for i, tok in enumerate(q):
+            if not _is_dash(tok):
+                continue
+            prev = next((q[x] for x in range(i - 1, -1, -1) if not _is_dash(q[x])), None)
+            nxt = next((q[x] for x in range(i + 1, len(q)) if not _is_dash(q[x])), None)
+            ok = False
+            for p in word_index.get(prev, []) if prev else range(len(transcript_tokens)):
+                if p + 2 < len(transcript_tokens) and transcript_tokens[p + 1] == tok and (nxt is None or transcript_tokens[p + 2] == nxt):
+                    ok = True
+                    break
+            if not ok:
+                return f"dash {tok!r} between {prev!r} and {nxt!r} not in transcript"
+    return None
+
+
+def check_quote_dash_fidelity(report: PreflightReport, monument_dir: Path, episodes: list[tuple[int, str, Path, str]]) -> None:
+    """P1 quote_dash_fidelity: a Transcript Snippet / Quote whose dashes differ from the transcript."""
+    cache: dict[int, tuple[list[str], dict[str, list[int]]] | None] = {}
+
+    def tokens_for(ep: int):
+        if ep not in cache:
+            tp = find_transcript(monument_dir, ep)
+            if tp is None:
+                cache[ep] = None
+            else:
+                toks = _transcript_tokens(tp.read_text(encoding="utf-8", errors="replace"))
+                idx: dict[str, list[int]] = defaultdict(list)
+                for i, tok in enumerate(toks):
+                    if not _is_dash(tok):
+                        idx[tok].append(i)
+                cache[ep] = (toks, idx)
+        return cache[ep]
+
+    def check(ep: int, where: str, quote: str) -> None:
+        tt = tokens_for(ep)
+        q = quote.strip().strip('"\u201c\u201d')
+        if tt is None:
+            if any(_is_dash(t) for t in _dash_tokens(q)):
+                report.add("P1", "quote_dash_fidelity", f"{where}: quote carries a dash but no transcript was found", where)
+            return
+        why = quote_dash_mismatch(q, tt[0], tt[1])
+        if why:
+            report.add("P1", "quote_dash_fidelity", f"{where}: {why}: {q[:100]!r}", where)
+
+    for ep, ep_name, _path, content in episodes:
+        if ep <= 0:
+            continue
+        for ln, line in enumerate(content.split("\n"), 1):
+            m = TRANSCRIPT_QUOTE_LINE_RE.match(line)
+            if m and m.group(2).strip():
+                check(ep, f"{ep_name}:{ln}", m.group(2))
+    ins = monument_dir / "inscription"
+    if ins.is_dir():
+        for jp in sorted(ins.glob("episode_*.json")):
+            mm = re.search(r"episode_(\d+)", jp.name)
+            if not mm or int(mm.group(1)) <= 0:
+                continue
+            ep = int(mm.group(1))
+            try:
+                data = json.loads(jp.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                continue
+            stack: list[tuple[Any, str, str | None]] = [(data, "", None)]
+            while stack:
+                o, path, key = stack.pop()
+                if isinstance(o, dict):
+                    stack.extend((v, f"{path}/{k}", k) for k, v in o.items())
+                elif isinstance(o, list):
+                    stack.extend((v, f"{path}/{i}", key) for i, v in enumerate(o))
+                elif isinstance(o, str) and key in QUOTE_JSON_KEYS and o.strip():
+                    if any(_is_dash(t) for t in _dash_tokens(o)):
+                        check(ep, f"inscription/{jp.name}{path}", o)
+
+
 def run_preflight(
     monument_slug: str,
     *,
@@ -1745,6 +1945,11 @@ def run_preflight(
     if strict_intro:
         check_ledger_intro(report, episodes)
     check_dangling_claim_refs(report, ingest_episodes)
+    dash_cfg = load_gate_config(monument_dir).get("dash_rule") or {}
+    if dash_cfg.get("prose_em_dash"):
+        check_prose_em_dash(report, monument_dir, episodes)
+    if dash_cfg.get("quote_dash_fidelity"):
+        check_quote_dash_fidelity(report, monument_dir, episodes)
 
     check_tip(report, monument_dir, tip_sha, pack_path)
     return report
@@ -1752,7 +1957,7 @@ def run_preflight(
 
 def print_human(report: PreflightReport) -> None:
     counts = report.counts()
-    print(f"DIA preflight — {report.monument} ({report.monument_dir})")
+    print(f"DIA preflight – {report.monument} ({report.monument_dir})")
     if report.git_head:
         print(f"  git HEAD: {report.git_head[:12]}")
     print(

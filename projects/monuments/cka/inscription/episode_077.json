@@ -135,7 +135,7 @@
           "@type": "Artifact",
           "@id": "A-1826.1",
           "ref": "A-1826.1",
-          "description": "Audio Excerpt: \"The American Race\" audition tape — Erika Kirk describing Romanian Angels / Marine Corps orphanage partnership",
+          "description": "Audio Excerpt: \"The American Race\" audition tape – Erika Kirk describing Romanian Angels / Marine Corps orphanage partnership",
           "related_claims": [
             "C-2441"
           ],
@@ -613,7 +613,7 @@
       "ref": "N-1601",
       "name": "SB 1439 Charlie Kirk Memorial Plate Fund Routing",
       "type": "investigation_target",
-      "description": "Persistent target: SB 1439's \"conservative grassroots network special plate fund\" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) — descriptors matching Turning Point USA per host.",
+      "description": "Persistent target: SB 1439's \"conservative grassroots network special plate fund\" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.",
       "related_artifacts": [
         "A-1829.1",
         "A-1830.1",
@@ -998,7 +998,7 @@
       "@id": "C-2452",
       "ref": "C-2452",
       "label": "SB 1439 Recipient Description Matches Turning Point USA Characteristics",
-      "claim": "Per host reading of SB 1439, the bill's \"conservative grassroots network special plate fund\" description — a nonprofit founded in 2012 focusing on restoring traditional values, maintaining a grassroots activist network on high school and college campuses in Arizona, and assisting with voter registration and absentee ballots — matches characteristics of Turning Point USA, although TPUSA is not named explicitly in the bill.",
+      "claim": "Per host reading of SB 1439, the bill's \"conservative grassroots network special plate fund\" description – a nonprofit founded in 2012 focusing on restoring traditional values, maintaining a grassroots activist network on high school and college campuses in Arizona, and assisting with voter registration and absentee ballots – matches characteristics of Turning Point USA, although TPUSA is not named explicitly in the bill.",
       "anchored_artifacts": [
         "A-1829.1"
       ],

@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on the newly released UVU third-party independent security review (Lake Force Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Maycee Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilcutt did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Maycee Crofts directing the club president—an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Maycee Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.
+This episode centers on the newly released UVU third-party independent security review (Lake Force Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Maycee Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilcutt did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Maycee Crofts directing the club president–an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Maycee Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.
 
 ## 6. Meme Register
 
@@ -150,7 +150,7 @@ Confidence Level: Medium (composite host timeline)
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:12:05
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: High (clip as aired); Low (any causal link to UVU event—host presents as background context only)
+Confidence Level: High (clip as aired); Low (any causal link to UVU event–host presents as background context only)
 
 *Related: C-3593, N-2351, N-30*
 
@@ -536,7 +536,7 @@ Investigative Direction: Archive contemporaneous TPUSA / Erika statements on coo
 
 Claim Timestamp: 00:14:22
 
-Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard—characterized by the host as a reversal of normal TPUSA chapter event-request practice.
+Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard–characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
 Mentions: N-30, N-1
@@ -641,7 +641,7 @@ Investigative Direction: Build a sourced chronology with primary citations for e
 
 Claim Timestamp: 01:12:05
 
-Claim: Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Maycee Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence—not as proof of UVU-event causation.
+Claim: Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Maycee Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence–not as proof of UVU-event causation.
 
 Anchored Artifacts: A-2457.1
 Mentions: N-30, N-40

@@ -12,7 +12,7 @@ Wave 1 covers the people-integrity items only. Transcript-driven only (no video)
 | `ep107_renumber_map.csv` | 49 | ep107 claim, artifact, anchor and node renumbering. |
 | `retired_ledger_rebuild.csv` | 666 | Per-key action for the `config/retired_node_ids.json` rebuild. |
 
-Em dashes inside quoted legacy names are rendered as hyphens in these CSVs.
+Dashes inside quoted legacy names are written as en dashes (U+2013) in these CSVs, per Daveed's dash rule of 8 Oct 2026: en dash in prose, never a hyphen, comma or other punctuation in place of a dash; quotes stay exact to the transcript.
 
 ## Decision rule for Mentions
 

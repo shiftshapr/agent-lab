@@ -840,12 +840,12 @@ Investigative Direction: Cross-reference with documented post-1970s directives f
 
 # Optional Flags
 
-- **Artifact verbally referenced but not shown (video clip fully displayed):** A-1840.1 (Megyn Kelly/Babin) and A-1838.2 (Erica interview about orphans) — both played on air; transcript reflects captions.
-- **Name uncertainty:** "Taral" (A/V operative referenced by host) — spelling may be "Talal"; preserved as transcribed.
-- **Name uncertainty:** "Frank" (Erica's father referenced as necklace-witness) — not otherwise identified in transcript.
-- **Name uncertainty:** "Erika Fronsve" — host uses this spelling for a person described as related to real-estate dealings; may be alternative spelling of Erica's maiden name. Preserved exactly as spoken.
-- **Name uncertainty:** "Dan" (individual shown pushing Charlie in video) — host identifies verbally; identity not independently confirmed.
-- **Transcript ambiguity:** Whether the NY Post article text quoted was read in full or partial — bracketed selection read on air.
+- **Artifact verbally referenced but not shown (video clip fully displayed):** A-1840.1 (Megyn Kelly/Babin) and A-1838.2 (Erica interview about orphans) – both played on air; transcript reflects captions.
+- **Name uncertainty:** "Taral" (A/V operative referenced by host) – spelling may be "Talal"; preserved as transcribed.
+- **Name uncertainty:** "Frank" (Erica's father referenced as necklace-witness) – not otherwise identified in transcript.
+- **Name uncertainty:** "Erika Fronsve" – host uses this spelling for a person described as related to real-estate dealings; may be alternative spelling of Erica's maiden name. Preserved exactly as spoken.
+- **Name uncertainty:** "Dan" (individual shown pushing Charlie in video) – host identifies verbally; identity not independently confirmed.
+- **Transcript ambiguity:** Whether the NY Post article text quoted was read in full or partial – bracketed selection read on air.
 - **Requires human verification:** Identification of building viewer-suggested as matching "white building" description should be cross-checked against 301 East 66th Street ownership records.
 - **Claim failed admission test:** Host framing premises including "I will never buy the narrative that a .30-06 killed Charlie Kirk" (interpretive commentary), "this was a cult" (framing premise), "they are launching a world war" (framing premise), and multiple rhetorical statements about Israeli / Jewish conduct were not inscribed as evidence-backed claims.
 

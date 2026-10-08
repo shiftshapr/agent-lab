@@ -124,7 +124,7 @@ Confidence Level: High
 
 ---
 
-**A-2036** FARA Filing — Show Faith by Works LLC Bundle
+**A-2036** FARA Filing – Show Faith by Works LLC Bundle
 
 **A-2036.1** FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havoc Media; legal representative: Dhillon Law Group
 
@@ -349,9 +349,9 @@ Optional Flags: Artifact verbally referenced but not shown
 
 ---
 
-**A-2044** Show Faith by Works — Calvary Chapel / Dream City Church Targeting List Bundle
+**A-2044** Show Faith by Works – Calvary Chapel / Dream City Church Targeting List Bundle
 
-**A-2044.1** FARA filing naming churches targeted for geofencing; list overlaps with Turning Point USA-affiliated churches (Calvary Chapel churches; Dream City Church in Phoenix — same venue as Erika Kirk hosting and prior Trump event)
+**A-2044.1** FARA filing naming churches targeted for geofencing; list overlaps with Turning Point USA-affiliated churches (Calvary Chapel churches; Dream City Church in Phoenix – same venue as Erika Kirk hosting and prior Trump event)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

@@ -275,7 +275,7 @@ Related Nodes: N-2321
 
 Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*
 
-*Optional Flag: Claim failed admission test (Artifact Anchor) — host assertion only; do not inscribe as artifact-anchored. Inscribed as host-asserted background with flag.*
+*Optional Flag: Claim failed admission test (Artifact Anchor) – host assertion only; do not inscribe as artifact-anchored. Inscribed as host-asserted background with flag.*
 
 ---
 
@@ -291,7 +291,7 @@ Related Nodes: N-2321
 
 Investigative Direction: Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*
 
-*Optional Flag: Claim failed admission test (Artifact Anchor) — host assertion only.*
+*Optional Flag: Claim failed admission test (Artifact Anchor) – host assertion only.*
 
 ---
 
@@ -368,7 +368,7 @@ Related Nodes: N-2321
 
 Investigative Direction: Verify Utah ICAC administrative structure via Utah AG public materials.*
 
-*Optional Flag: Claim failed admission test (Artifact Anchor) — host assertion only.*
+*Optional Flag: Claim failed admission test (Artifact Anchor) – host assertion only.*
 
 ---
 
@@ -384,7 +384,7 @@ Related Nodes: N-2321
 
 Investigative Direction: Verify DOJ / OJJDP documentation of the 1998 ICAC program founding.*
 
-*Optional Flag: Claim failed admission test (Artifact Anchor) — factual background assertion by host.*
+*Optional Flag: Claim failed admission test (Artifact Anchor) – factual background assertion by host.*
 
 ---
 
@@ -493,7 +493,7 @@ Related Nodes:
 
 Investigative Direction: Verify Mitchell's role via investigative reporting and Robinson family statements.*
 
-*Optional Flag: Claim failed admission test (Artifact Anchor) — host assertion only.*
+*Optional Flag: Claim failed admission test (Artifact Anchor) – host assertion only.*
 
 ---
 
@@ -541,9 +541,9 @@ Mentions: N-1
 
 Related Nodes: N-2321, N-2322
 
-Investigative Direction: Treat as framing premise — testable only via underlying placements (already inscribed above).*
+Investigative Direction: Treat as framing premise – testable only via underlying placements (already inscribed above).*
 
-*Optional Flag: Framing Premise — not inscribed as evidence-backed claim; captured for completeness.*
+*Optional Flag: Framing Premise – not inscribed as evidence-backed claim; captured for completeness.*
 
 ---
 
@@ -564,8 +564,8 @@ Confidence: high
 
 ## VI. Optional Flags Summary
 
-- **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graph", likely "Tony Graf" pending verification. (former local id 1208)
-- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher" (former local id 1220); "Michael Aino" (former local id 1226); "David Frausham" (former local id 1221); "Phil Goldsbury" (former local id 1232), spellings preserved as transcript.
+- **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graph" – likely "Tony Graf" pending verification. (former local id 1208)
+- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher" (former local id 1220); "Michael Aino" (former local id 1226); "David Frausham" (former local id 1221); "Phil Goldsbury" (former local id 1232) – spellings preserved as transcript.
 - **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-3449); HSI whistleblower case materials (C-3455); 151-page Leavitt victim statement (C-3456); Bagley body cam records (C-3462); George Zinn sentencing (C-3463).
 - **Claim failed admission test (Artifact Anchor)**: C-3447 (Mitchell background), C-3448 (Bagley background), C-3453 (ICAC/AG administrative control), C-3454 (DOJ 1998 ICAC founding), C-3461 (Mitchell's role in surrender). These are captured as host assertions only.
 - **Transcript ambiguity**: Spelling inconsistencies across names of trafficking-era and roster-connected figures preserved exactly.

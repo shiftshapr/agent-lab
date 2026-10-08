@@ -62,15 +62,15 @@ P1,56,C-2080,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (
 P1,61,C-2177,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,61,C-2175,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,62,C-2188,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (Tyler Bowyer) already tagged (named in claim text)
-PHASE_B,67,C-2281,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2275,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2274,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in transcript at 41:12
-PHASE_B,67,C-2273,Related Nodes,N-1010,Erica Kirk - referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
-PHASE_B,67,C-2271,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2271,Related Nodes,N-1010,Erica Kirk - referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 44:45
-PHASE_B,67,C-2270,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2269,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2268,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2281,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2275,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2274,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in transcript at 41:12
+PHASE_B,67,C-2273,Related Nodes,N-1010,Erica Kirk – referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+PHASE_B,67,C-2271,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2271,Related Nodes,N-1010,Erica Kirk – referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 44:45
+PHASE_B,67,C-2270,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2269,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2268,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
 P1,68,C-2296,Mentions,N-888,Amber Thurman (Victim in Stevenson case),,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,71,C-2329,Mentions,N-910,Brian Kilmeade,,REPLACE,N-42,Andrew Kolvet,named in claim text
 P1,71,C-2328,Mentions,N-910,Brian Kilmeade,,REPLACE,N-42,Andrew Kolvet,named in claim text
@@ -78,12 +78,12 @@ P1,71,C-2327,Mentions,N-910,Brian Kilmeade,,REPLACE,N-42,Andrew Kolvet,named in 
 P1,71,C-2326,Mentions,N-910,Brian Kilmeade,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,72,C-2355,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,72,C-2354,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (Tyler Bowyer) already tagged (named in claim text)
-PHASE_B,75,C-3582,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
-PHASE_B,75,C-3580,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 38:28
-PHASE_B,75,C-3579,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 37:23
-PHASE_B,75,C-3578,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
-PHASE_B,75,C-3577,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 35:06
-PHASE_B,75,C-3576,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
+PHASE_B,75,C-3582,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
+PHASE_B,75,C-3580,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 38:28
+PHASE_B,75,C-3579,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 37:23
+PHASE_B,75,C-3578,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
+PHASE_B,75,C-3577,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 35:06
+PHASE_B,75,C-3576,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
 PHASE_B,75,C-3570,Related Nodes,N-2349,Father Ripperger,Father Ripperger,MOVE_TO_MENTIONS,N-531,Father Ripperger,named in claim text
 P1,78,C-2467,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 EXTRA,92,C-2742,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 32:09

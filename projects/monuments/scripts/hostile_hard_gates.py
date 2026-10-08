@@ -95,7 +95,7 @@ def _ledger_claim_extra(drafts_dir: Path, first: dict[int, int]) -> list[Finding
 def _p2_findings(monument_dir: Path) -> list[Finding]:
     out: list[Finding] = []
     drafts = monument_dir / "drafts"
-    # ORPHAN_NODE N-1193 — place with register but no Related on claim/artifact
+    # ORPHAN_NODE N-1193 – place with register but no Related on claim/artifact
     ep9 = drafts / "episode_009.md"
     if ep9.is_file():
         t = ep9.read_text(encoding="utf-8")

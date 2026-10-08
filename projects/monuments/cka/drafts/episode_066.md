@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - (see registers)
 
-# Episode Analysis: Bride of Charlie — Monument Episode 66
+# Episode Analysis: Bride of Charlie – Monument Episode 66
 
 ## I. Meta-Data
 
@@ -45,7 +45,7 @@ This episode advances the investigation along three evidentiary tracks. First, t
 
 Second, the host introduces a new donor-targeting narrative supported by a first-person email from a Catholic attendee of the memorial and mass. The email, read aloud, supplies artifact-anchored details about Father Blank (the priest who flew with Erica to Utah, prayed at the hospital, and delivered the homily at the private funeral), including a 6:30am text mentioning "Erika may be there too" and a follow-up reply stating "God's fingerprints are all over" the donor's connection to Erica. A separately introduced TPUSA text references a $6 million memorial cost tied to a displaced "lucrative RV show" at Cardinal Stadium; the host claims she checked the Wayback Machine and found no such RV show on the calendar.
 
-Third, the host introduces a September 9 group-chat text attributed to Charlie Kirk quoting 1 Corinthians 16:9 ("…there are many adversaries"), and plays two on-air clips — a Frank Turek sermon excerpt calling the host's claims satanic, and Don Lemon video at a Minnesota church protest. Structural importance: this episode pivots from prior Zoom/audio coverage into donor-intelligence narrative and adds an artifact class (donor email + threaded texts) that maps alleged TPUSA fundraising conduct.
+Third, the host introduces a September 9 group-chat text attributed to Charlie Kirk quoting 1 Corinthians 16:9 ("…there are many adversaries"), and plays two on-air clips – a Frank Turek sermon excerpt calling the host's claims satanic, and Don Lemon video at a Minnesota church protest. Structural importance: this episode pivots from prior Zoom/audio coverage into donor-intelligence narrative and adds an artifact class (donor email + threaded texts) that maps alleged TPUSA fundraising conduct.
 
 ---
 
@@ -109,7 +109,7 @@ Confidence Level: Medium
 
 **A-1708** Charlie Kirk September 9 Text Bundle
 
-**A-1708.1** Charlie Kirk group-chat text (with Erica and Father Blank), September 9: 1 Corinthians 16:9 — "for a wide door for effective work has opened to me and there are many adversaries"
+**A-1708.1** Charlie Kirk group-chat text (with Erica and Father Blank), September 9: 1 Corinthians 16:9 – "for a wide door for effective work has opened to me and there are many adversaries"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -578,8 +578,8 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" — transcript shows multiple spellings for the same TPUSA figure (N-42). Requires human verification against correct spelling.
-- **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) — referenced verbally but not displayed on-screen. Marked Low confidence.
+- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" – transcript shows multiple spellings for the same TPUSA figure (N-42). Requires human verification against correct spelling.
+- **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.
 - **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-2242 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.
 - **Host claim without artifact anchor:** N-1539 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.

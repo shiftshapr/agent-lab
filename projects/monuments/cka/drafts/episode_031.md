@@ -134,7 +134,7 @@ Confidence Level: High
 
 *Related: C-1686, C-1687, C-1689, N-389, Rob McCoy (likely-existing node), N-1317*
 
-**A-1394.2** Thomas Camino Narrative on Bryce Eddie Show — Claims of False Conviction
+**A-1394.2** Thomas Camino Narrative on Bryce Eddie Show – Claims of False Conviction
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -176,7 +176,7 @@ Confidence Level: High
 
 **A-1397** Episode 30 Top Comments Bundle (Yesterday's Top 3)
 
-**A-1397.1** Top Comment #1 (Yesterday): "Terra Observer" — Question on Jewish Donor Funding of Christian Organizations; Names "Bob Showman"
+**A-1397.1** Top Comment #1 (Yesterday): "Terra Observer" – Question on Jewish Donor Funding of Christian Organizations; Names "Bob Showman"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -186,7 +186,7 @@ Confidence Level: Medium (auto-caption; spelling uncertain)
 
 *Related: Rob McCoy (likely-existing node), N-1316*
 
-**A-1397.2** Top Comment #2 (Yesterday): "Lobo Gray" — Vietnam Veteran Comment on Owens' Courage
+**A-1397.2** Top Comment #2 (Yesterday): "Lobo Gray" – Vietnam Veteran Comment on Owens' Courage
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -196,7 +196,7 @@ Confidence Level: High
 
 *Related: N-1*
 
-**A-1397.3** Top Comment #3 (Yesterday): "Think before you type" — Mark Twain Quotation on Fooling People
+**A-1397.3** Top Comment #3 (Yesterday): "Think before you type" – Mark Twain Quotation on Fooling People
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -204,13 +204,13 @@ Video Timestamp: 00:53:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: (none — purely rhetorical; not anchored to claims)*
+*Related: (none – purely rhetorical; not anchored to claims)*
 
 ---
 
 **A-1398** Episode 31 Comments Bundle
 
-**A-1398.1** Today's Comment: "Jennifer" — Praise for Owens' Book *Make Him a Sandwich*
+**A-1398.1** Today's Comment: "Jennifer" – Praise for Owens' Book *Make Him a Sandwich*
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -220,7 +220,7 @@ Confidence Level: High
 
 *Related: Candace Owens (likely-existing node)*
 
-**A-1398.2** Today's Comment: "Key" — Praise for *Make Him a Sandwich*
+**A-1398.2** Today's Comment: "Key" – Praise for *Make Him a Sandwich*
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -230,7 +230,7 @@ Confidence Level: High
 
 *Related: Candace Owens (likely-existing node)*
 
-**A-1398.3** Today's Comment: "Corey Henry" — Commentary on Kanye West's Communication Style
+**A-1398.3** Today's Comment: "Corey Henry" – Commentary on Kanye West's Communication Style
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -240,7 +240,7 @@ Confidence Level: High
 
 *Related: (rhetorical; not anchored to claims)*
 
-**A-1398.4** Today's Comment: "Modern Realy" — Allegation of Security-Guard Coordination at Kirk Event
+**A-1398.4** Today's Comment: "Modern Realy" – Allegation of Security-Guard Coordination at Kirk Event
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -250,7 +250,7 @@ Confidence Level: High
 
 *Related: C-1692*
 
-**A-1398.5** Today's Comment: "Mint Julip" — Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adlesen"
+**A-1398.5** Today's Comment: "Mint Julip" – Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adlesen"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -260,7 +260,7 @@ Confidence Level: Medium (Miriam Adlesen spelling preserved; "Adelson" spelling 
 
 *Related: N-1*
 
-**A-1398.6** Today's Comment: "Bub" — Commentary on Zionist Influence in Government
+**A-1398.6** Today's Comment: "Bub" – Commentary on Zionist Influence in Government
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -270,7 +270,7 @@ Confidence Level: High
 
 *Related: (rhetorical; not anchored to claims)*
 
-**A-1398.7** Today's Comment: "Black Swan Revelations" — Generic Praise
+**A-1398.7** Today's Comment: "Black Swan Revelations" – Generic Praise
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -280,7 +280,7 @@ Confidence Level: High
 
 *Related: (rhetorical; not anchored to claims)*
 
-**A-1398.8** Today's Comment: "Midrunner" — Commentary on Eli Reeves Interview of Tim Dillon
+**A-1398.8** Today's Comment: "Midrunner" – Commentary on Eli Reeves Interview of Tim Dillon
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -290,7 +290,7 @@ Confidence Level: High
 
 *Related: Tim Dillon (likely-existing node)*
 
-**A-1398.9** Today's Comment: "Tim Hester" — Birthday Wish for Tim and Praise for Owens
+**A-1398.9** Today's Comment: "Tim Hester" – Birthday Wish for Tim and Praise for Owens
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -300,7 +300,7 @@ Confidence Level: High
 
 *Related: Tim Dillon (likely-existing node), Candace Owens (likely-existing node)*
 
-**A-1398.10** Today's Comment: "Nicole Howlett" — Calls for Listener to Switch Churches if Pastor Criticizes Owens
+**A-1398.10** Today's Comment: "Nicole Howlett" – Calls for Listener to Switch Churches if Pastor Criticizes Owens
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -310,7 +310,7 @@ Confidence Level: High
 
 *Related: Candace Owens (likely-existing node), Jack Hibbs (likely-existing node)*
 
-**A-1398.11** Today's Comment: "Mama Diaz" — Calvary Chapel Pastor Allegedly Called for Burning Bibles with Palestine Maps
+**A-1398.11** Today's Comment: "Mama Diaz" – Calvary Chapel Pastor Allegedly Called for Burning Bibles with Palestine Maps
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -320,7 +320,7 @@ Confidence Level: Medium (alt content present in transcript; preserves spelling)
 
 *Related: C-1691, N-1317*
 
-**A-1398.12** Today's Comment: "Silicon Valley" — Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club
+**A-1398.12** Today's Comment: "Silicon Valley" – Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

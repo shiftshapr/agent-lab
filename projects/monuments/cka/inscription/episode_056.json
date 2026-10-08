@@ -70,7 +70,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1619",
       "family_ref": "A-1619",
-      "bundle_name": "Court Filing Bundle — Alton C. Jennings Will Challenge",
+      "bundle_name": "Court Filing Bundle – Alton C. Jennings Will Challenge",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -347,7 +347,7 @@
           "@type": "Artifact",
           "@id": "A-1627.1",
           "ref": "A-1627.1",
-          "description": "Comment from Andrew (Anthony) Aguilar — self-identified Gaza whistleblower Green Beret — stating he was arrested on September 3 in Congress for calling out AIPAC and offering to appear on the show.",
+          "description": "Comment from Andrew (Anthony) Aguilar – self-identified Gaza whistleblower Green Beret – stating he was arrested on September 3 in Congress for calling out AIPAC and offering to appear on the show.",
           "related_claims": [
             "C-2093"
           ],
@@ -654,7 +654,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1480",
       "ref": "N-1480",
-      "name": "Alton C. Jennings Will Challenge — TPUSA / YAF as Recipients",
+      "name": "Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients",
       "type": "investigation_target",
       "description": "Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.",
       "related_artifacts": [
@@ -852,7 +852,7 @@
       "@id": "C-2078",
       "ref": "C-2078",
       "label": "Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death",
-      "claim": "Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 — approximately four months before his death at age 95.",
+      "claim": "Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 – approximately four months before his death at age 95.",
       "anchored_artifacts": [
         "A-1619.1"
       ],

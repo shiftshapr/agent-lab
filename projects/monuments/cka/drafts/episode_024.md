@@ -610,7 +610,7 @@ Anchored Artifacts: A-1320.6
 Mentions: N-3
 
 
-Investigative Direction: No investigative direction required — viewer question is recorded as artifact.
+Investigative Direction: No investigative direction required – viewer question is recorded as artifact.
 
 ---
 
@@ -624,7 +624,7 @@ Anchored Artifacts: A-1320.7
 Mentions: N-1
 
 
-Investigative Direction: No investigative direction required — viewer comment is recorded as artifact.
+Investigative Direction: No investigative direction required – viewer comment is recorded as artifact.
 
 ---
 
@@ -646,8 +646,8 @@ Investigative Direction: This is a host interpretive stance; verification is anc
 # Optional Flags
 
 - Name uncertainty: "Jesse Waters" appears verbatim in the transcript; the Fox News host's standard spelling is "Jesse Watters." Preserved as transcript renders.
-- Name uncertainty: "Andrew Kolb" mentioned in the body of the podcast and "Andrew Kolbenschlag" mentioned as TPUSA spokesperson — unclear whether the same person. Inscribed node uses Kolbenschlag form to match the X handle cited.
-- Name uncertainty: "Jürgen Bühler" — preserved verbatim from the Israeli War Room / Jerusalem Post citation; commonly appears as "Juergen Bühler."
+- Name uncertainty: "Andrew Kolb" mentioned in the body of the podcast and "Andrew Kolbenschlag" mentioned as TPUSA spokesperson – unclear whether the same person. Inscribed node uses Kolbenschlag form to match the X handle cited.
+- Name uncertainty: "Jürgen Bühler" – preserved verbatim from the Israeli War Room / Jerusalem Post citation; commonly appears as "Juergen Bühler."
 - Artifact verbally referenced but not confirmed visually shown: A-1313.3 (RJC stage poster); host describes the sign but the transcript does not show it as a displayed image. Confidence Level: Medium.
 - Transcript ambiguity: Candace's recount of Charlie Kirk's "Milo" remark, the photo at Ben Shapiro's set, and the alleged behind-the-scenes text messages from Charlie are NOT presented as artifacts in this episode; the host refers to messages she has but does not display them. Related claims (about Charlie-Ben relations, Ben's alleged "Milo" remark, Candace's 80–150 text messages) are therefore NOT inscribed as claims.
 - Requires human verification: The Tyler Robinson ACT 34 figure (C-1580 / A-1320.5) originates from a viewer comment; no court filing, news report, or record is presented in this episode.

@@ -13,7 +13,7 @@
     "transcript_sha256": "bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "The episode advances two principal investigative threads. The first concerns the identity, biography, and affiliations of Dr. Andrew Guajardo, identified by the host as the deputy chief medical examiner who signed off on Charlie Kirk's autopsy, and his marriage to Dr. Ashley Brown Guajardo, a sociologist specializing in gamer and furry community research. The host juxtaposes Dr. Ashley's academic profile with online culture associated with the alleged shooter Tyler Robinson and his boyfriend Lance Twiggs. The second thread concerns an unverified source tip asserting that Timpanogos Hospital's emergency room was evacuated to a different wing at roughly 10:00 a.m. on September 10 — over two hours before the shooting — and that patients were subsequently shuttled to Intermountain/Utah Valley Hospital. The host bridges this tip to a previously surfaced hospital file showing Charlie Kirk's record in the Intermountain system, originally disclosed in an October 28, 2025 episode.\n\nThe episode also reads aloud three artifact-anchored medical professional communications (an anesthesiologist email, a transplant coordinator email, and a surgeon YouTube comment) advancing the shaped-charge / exploding-microphone alternative theory of Charlie's neck wound and questioning the unusually short autopsy timeline.",
+  "executive_summary": "The episode advances two principal investigative threads. The first concerns the identity, biography, and affiliations of Dr. Andrew Guajardo, identified by the host as the deputy chief medical examiner who signed off on Charlie Kirk's autopsy, and his marriage to Dr. Ashley Brown Guajardo, a sociologist specializing in gamer and furry community research. The host juxtaposes Dr. Ashley's academic profile with online culture associated with the alleged shooter Tyler Robinson and his boyfriend Lance Twiggs. The second thread concerns an unverified source tip asserting that Timpanogos Hospital's emergency room was evacuated to a different wing at roughly 10:00 a.m. on September 10 – over two hours before the shooting – and that patients were subsequently shuttled to Intermountain/Utah Valley Hospital. The host bridges this tip to a previously surfaced hospital file showing Charlie Kirk's record in the Intermountain system, originally disclosed in an October 28, 2025 episode.\n\nThe episode also reads aloud three artifact-anchored medical professional communications (an anesthesiologist email, a transplant coordinator email, and a surgeon YouTube comment) advancing the shaped-charge / exploding-microphone alternative theory of Charlie's neck wound and questioning the unusually short autopsy timeline.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -228,7 +228,7 @@
       "ref": "N-2164",
       "name": "Timpanogos Hospital Evacuation Tip",
       "type": "investigation_target",
-      "description": "Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. — over two hours before Charlie Kirk's shooting.",
+      "description": "Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.",
       "related_artifacts": [],
       "related_claims": [
         "C-3188",
@@ -536,7 +536,7 @@
       "@id": "C-3184",
       "ref": "C-3184",
       "label": "Erotic role play vs cybersex academic explanation",
-      "claim": "Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role play involves playing a character different from oneself, while cybersex involves engaging as oneself — both use a keyboard for erotic expression but differ in character embodiment.",
+      "claim": "Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role play involves playing a character different from oneself, while cybersex involves engaging as oneself – both use a keyboard for erotic expression but differ in character embodiment.",
       "anchored_artifacts": [
         "A-2218.1"
       ],
@@ -616,7 +616,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
-      "investigative_direction": "Obtain independent verification — shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.",
+      "investigative_direction": "Obtain independent verification – shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.",
       "mentions_person_refs": [
         "N-1"
       ]

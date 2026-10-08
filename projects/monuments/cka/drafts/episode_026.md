@@ -60,7 +60,7 @@ Confidence Level: High
 
 *Related: C-1598, C-1599, N-1294*
 
-**A-1333.2** UVU event request email (mid-July 2025) — referenced verbally by host; shown on screen per host narration but content not transcribed in captions
+**A-1333.2** UVU event request email (mid-July 2025) – referenced verbally by host; shown on screen per host narration but content not transcribed in captions
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -235,7 +235,7 @@ Confidence Level: High
 
 **A-1344** UVU Scene Footage Bundle
 
-**A-1344.1** Back/side footage of Mikey McCoy movement pattern after shooting — verbal description with on-screen playback per host narration
+**A-1344.1** Back/side footage of Mikey McCoy movement pattern after shooting – verbal description with on-screen playback per host narration
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -246,7 +246,7 @@ Optional Flag: Artifact verbally referenced; full visual content not captured in
 
 *Related: C-1616, N-272, N-1295, N-1296*
 
-**A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground — verbal description with on-screen playback per host narration
+**A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -264,7 +264,7 @@ Optional Flag: Artifact verbally referenced; full visual content not captured in
 ### People Nodes
 
 **N-1** Charlie Kirk
-*(Existing — referenced as subject of investigation updates)*
+*(Existing – referenced as subject of investigation updates)*
 Evidence Count: 1
 Claim Count: 4
 Episode Count: 1
@@ -273,7 +273,7 @@ Investigative Pressure: High
 *Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-1598, C-1599, C-1615, N-1294, N-1295*
 
 **N-1000** Turning Point USA
-*(Existing — referenced in scheduling and phone call discussion)*
+*(Existing – referenced in scheduling and phone call discussion)*
 Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
@@ -540,7 +540,7 @@ Anchored Artifacts: A-1336.1
 Mentions: N-335, N-339
 
 
-Investigative Direction: N/A — host-stance claim linked to source artifact.
+Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 ---
 
@@ -568,7 +568,7 @@ Anchored Artifacts: A-1336.2
 Mentions: N-150, N-335
 
 
-Investigative Direction: N/A — host-stance claim linked to source artifact.
+Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 ---
 
@@ -682,7 +682,7 @@ Anchored Artifacts: A-1341.1
 Mentions: N-86
 
 
-Investigative Direction: N/A — host-stance claim linked to source artifact.
+Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 ---
 
@@ -747,13 +747,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **A-1333.2** — Artifact verbally referenced; visual email content not captured in caption transcript. Requires human verification against video.
-- **A-1344.1** — Artifact verbally referenced; visual content described by host but not fully captured in caption transcript. Requires human verification against video.
-- **A-1344.2** — Artifact verbally referenced; visual content described by host but not fully captured in caption transcript. Requires human verification against video.
-- **A-1339.1** — Interview outlet, publication date, and full context require verification against the original published segment.
-- **A-1341.1** — Original outlet, full segment, and surrounding context require verification.
-- **Multiple A-1336 / A-1337 references** — Brett Cooper referenced as "23 years old" and "Gen Z" but date-of-birth not artifact-anchored.
-- **N-1295, N-1296, N-1297** — Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
+- **A-1333.2** – Artifact verbally referenced; visual email content not captured in caption transcript. Requires human verification against video.
+- **A-1344.1** – Artifact verbally referenced; visual content described by host but not fully captured in caption transcript. Requires human verification against video.
+- **A-1344.2** – Artifact verbally referenced; visual content described by host but not fully captured in caption transcript. Requires human verification against video.
+- **A-1339.1** – Interview outlet, publication date, and full context require verification against the original published segment.
+- **A-1341.1** – Original outlet, full segment, and surrounding context require verification.
+- **Multiple A-1336 / A-1337 references** – Brett Cooper referenced as "23 years old" and "Gen Z" but date-of-birth not artifact-anchored.
+- **N-1295, N-1296, N-1297** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
 
 ---
 

@@ -55,7 +55,7 @@ def _normalize_timestamps(text: str) -> str:
         if VALID_HMS.match(val):
             return val
         # bare MM:SS -> 00:MM:SS
-        m = re.match(r"^(\d{1,2}):(\d{2})(?:\s*[–\-—]\s*(\d{1,2}):(\d{2}))?$", val)
+        m = re.match(r"^(\d{1,2}):(\d{2})(?:\s*[–\-\u2014]\s*(\d{1,2}):(\d{2}))?$", val)
         if m:
             a = f"00:{int(m.group(1)):02d}:{m.group(2)}"
             if m.group(3):
@@ -80,7 +80,7 @@ TS_FIELD = re.compile(
     re.I,
 )
 VALID_HMS = re.compile(
-    r"^\s*(\d{1,2}):(\d{2}):(\d{2})(?:\s*[–\-—]\s*(\d{1,2}):(\d{2}):(\d{2}))?\s*$"
+    r"^\s*(\d{1,2}):(\d{2}):(\d{2})(?:\s*[–\-\u2014]\s*(\d{1,2}):(\d{2}):(\d{2}))?\s*$"
 )
 
 SECTION_MAP = {
@@ -128,7 +128,7 @@ def normalize_draft(path: Path) -> None:
 - **Monument**: cka
 - **CKA seq**: {ep}
 - **YouTube id**: {yt_id}
-- **Candace Ep**: {row.get('candace_ep_number', '—')}
+- **Candace Ep**: {row.get('candace_ep_number', '–')}
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: {vrange}
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
@@ -136,7 +136,7 @@ def normalize_draft(path: Path) -> None:
 - **Transcript SHA-256**: {sha}
 
 """
-    # Ledger summary lives after old meta — find and keep
+    # Ledger summary lives after old meta – find and keep
     ledger_m = re.search(
         r"(### Episode Ledger Summary| - \*\*Episode Ledger Summary\*\*|\n- Artifact Families Introduced:.*?(?=\n## 2\.))",
         text,

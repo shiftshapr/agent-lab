@@ -145,7 +145,7 @@ Confidence Level: High
 
 ---
 
-**A-1265** HBO-Style Miniseries Trailer — Charlie Kirk / Israel Donors
+**A-1265** HBO-Style Miniseries Trailer – Charlie Kirk / Israel Donors
 
 **A-1265.1** Produced trailer segment narrated by host referencing Charlie Kirk text messages, including: "Jewish donors play into all the stereotypes. I cannot and will not be bullied like this." Trailer indicates a follow-up segment about a lawyer (Josh Hammer) discussing potential defamation claims.
 
@@ -289,7 +289,7 @@ Investigative Pressure: High
 
 **N-16** Frank Turek
 
-Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally — dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.
+Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally – dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.
 
 Evidence Count: 1
 Claim Count: 1
@@ -683,7 +683,7 @@ Investigative Direction: Authenticate text message source and timestamp (referen
 
 ---
 
-**C-1472** Charlie Kirk UVU Event Clip — Friendship Exchange
+**C-1472** Charlie Kirk UVU Event Clip – Friendship Exchange
 
 Claim Timestamp: 00:15:42
 
@@ -797,7 +797,7 @@ Investigative Direction: Verify via TPUSA organizational records.
 
 ---
 
-**C-1480** Charlie Kirk's Stated Final Words — Book Promotion
+**C-1480** Charlie Kirk's Stated Final Words – Book Promotion
 
 Claim Timestamp: 00:33:40
 
@@ -816,7 +816,7 @@ Investigative Direction: Obtain authoritative transcript of Kirk's on-stage rema
 
 Claim Timestamp: 00:56:09–00:57:03
 
-Claim: Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally — dropping to ground and crawling toward Kirk to assist.
+Claim: Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.
 
 Anchored Artifacts: None (assertion; no specific footage cited in episode for Turk's actions)
 Mentions: N-16, N-181
@@ -969,16 +969,16 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty — Camera Operator (N-256):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.
-- **Artifact verbally referenced but not directly viewable in transcript — Mikey McCoy Event-Day Footage (A-1261 family):** Host describes analyzing the footage frame-by-frame and tracking Mikey McCoy across angles; transcript captures the host's narration and verbal time markers but the underlying video is not embedded in the transcript medium.
-- **Artifact verbally referenced but not directly shown — Scott Adams video:** Host references a Scott Adams video about Kanye West's tweet "ripping a hole through the universe" and states she will "dig that up"; video not displayed in this episode.
-- **Timestamp uncertainty — A-1263.1 (British Columbia fishing photo):** Date and exact photographer identity (Donald Trump Jr. vs. Cory Lundowski) not definitively confirmed.
-- **Possible transcription error — A-1268.1: "irishbaldwin" vs. "Ireland Baldwin" spelling; "Roseanne Bar" vs. "Roseanne Barr"; reference to Alec Baldwin as father is correct but spelling variations noted.**
-- **Host inference treated as candidate investigation — "Mikey was already on a phone call at 12:23 p.m." (C-1462 framing):** The 12:23 p.m. figure is introduced by host as her own inference based on footage; the timestamp itself should be authenticated against the original footage's metadata clock.
-- **Claim failed admission test — C-1474:** Six-year college tour assertion is host testimonial without documentary anchor; inscribed as claim but with no artifact and low confidence.
-- **Claim failed admission test — C-1480:** "Charlie Kirk's last words" framed sarcastically; no documentary record provided; should not be treated as factual claim.
-- **Claim failed admission test — C-1481:** Frank Turk characterization is assertion based on host/Ian Carol recollection; no specific footage cited.
-- **Requires human verification — Charlie Kirk text messages (A-1266 family):** Authentication of message metadata, device origin, and chain of custody has not been independently established in this episode. Host notes Mikey McCoy has access to all of Kirk's messages and could verify; this remains a host assertion.
+- **Name uncertainty – Camera Operator (N-256):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.
+- **Artifact verbally referenced but not directly viewable in transcript – Mikey McCoy Event-Day Footage (A-1261 family):** Host describes analyzing the footage frame-by-frame and tracking Mikey McCoy across angles; transcript captures the host's narration and verbal time markers but the underlying video is not embedded in the transcript medium.
+- **Artifact verbally referenced but not directly shown – Scott Adams video:** Host references a Scott Adams video about Kanye West's tweet "ripping a hole through the universe" and states she will "dig that up"; video not displayed in this episode.
+- **Timestamp uncertainty – A-1263.1 (British Columbia fishing photo):** Date and exact photographer identity (Donald Trump Jr. vs. Cory Lundowski) not definitively confirmed.
+- **Possible transcription error – A-1268.1: "irishbaldwin" vs. "Ireland Baldwin" spelling; "Roseanne Bar" vs. "Roseanne Barr"; reference to Alec Baldwin as father is correct but spelling variations noted.**
+- **Host inference treated as candidate investigation – "Mikey was already on a phone call at 12:23 p.m." (C-1462 framing):** The 12:23 p.m. figure is introduced by host as her own inference based on footage; the timestamp itself should be authenticated against the original footage's metadata clock.
+- **Claim failed admission test – C-1474:** Six-year college tour assertion is host testimonial without documentary anchor; inscribed as claim but with no artifact and low confidence.
+- **Claim failed admission test – C-1480:** "Charlie Kirk's last words" framed sarcastically; no documentary record provided; should not be treated as factual claim.
+- **Claim failed admission test – C-1481:** Frank Turk characterization is assertion based on host/Ian Carol recollection; no specific footage cited.
+- **Requires human verification – Charlie Kirk text messages (A-1266 family):** Authentication of message metadata, device origin, and chain of custody has not been independently established in this episode. Host notes Mikey McCoy has access to all of Kirk's messages and could verify; this remains a host assertion.
 
 ---
 

@@ -183,7 +183,7 @@ Confidence Level: High (headline read aloud)
 
 ---
 
-**A-1409** Charlie Kirk Event — Bush Activity Photo Bundle
+**A-1409** Charlie Kirk Event – Bush Activity Photo Bundle
 
 **A-1409.1** Viewer-submitted photo: person in maroon shirt partially concealed in bush at event; appears standing while crowd ducks
 
@@ -303,7 +303,7 @@ Investigative Pressure: Low (as source only)
 
 ---
 
-**N-394** Robin Taylor / "Rob Taylor" / "Luke Taylor" (Name uncertainty — flagged)
+**N-394** Robin Taylor / "Rob Taylor" / "Luke Taylor" (Name uncertainty – flagged)
 
 Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.
 
@@ -487,7 +487,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1321** Charlie Kirk Event — Maroon Shirt Individual Identification
+**N-1321** Charlie Kirk Event – Maroon Shirt Individual Identification
 
 Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.
 
@@ -874,9 +874,9 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty (N-394):** Transcript renders Lou Taylor's husband's name as "Robin," "Rob," and "Luke" Taylor. Treated as single node with flag; primary source required.
-- **Name uncertainty (N-399):** Transcript uses "Bob Koy" — likely phonetic. Preserved as written.
-- **Possible transcription error (A-1405.1):** Sender email references "Aruse" — unclear transcription; possibly a name. Verify against raw email.
-- **Possible transcription error (A-1406.1):** "Nsign and NGO" — uncertain. Possibly "Ensign" or other proper noun. Verify against raw screenshot.
+- **Name uncertainty (N-399):** Transcript uses "Bob Koy" – likely phonetic. Preserved as written.
+- **Possible transcription error (A-1405.1):** Sender email references "Aruse" – unclear transcription; possibly a name. Verify against raw email.
+- **Possible transcription error (A-1406.1):** "Nsign and NGO" – uncertain. Possibly "Ensign" or other proper noun. Verify against raw screenshot.
 - **Artifact verbally referenced but not shown (A-1405.1, A-1406.1):** Both artifacts were displayed in partially redacted form; raw verification pending.
 - **Transcript ambiguity:** [32:07]–[52:28] contain no transcript content; segment likely included visuals, music, or untranscribed dialogue.
 - **Claim requires human verification (C-1702, C-1703, C-1704, C-1705, C-1706):** All claims sourced solely from single unredacted/redacted communications; flagged for corroboration.

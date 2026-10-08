@@ -61,7 +61,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-4 (JD Vance), N-4
 
 Episode 92 advances three principal lines of investigation. First, it scrutinizes the public-explanation sequence surrounding Erika Kirk's no-show at a University of Georgia Turning Point USA event alongside Vice President JD Vance, presenting the original on-stage explanation by Andrew Kolvet, subsequent Fox News and Daily Wire corroborating statements, Erika Kirk's own X post, and the host's counter-evidence in the form of a separately issued high-school cancellation notice citing "scheduling complications" rather than security. Second, it expands the "connecting themes" framework linking Turning Point USA personnel and adjacent faith/charity figures to trafficking, sex-abuse, and military-affiliated biographies, anchored in this episode primarily to the published TPUSA bio and reported insider accounts regarding Marcus Wada. Third, it introduces a new friction point involving Pastor Victor Marx's social-media response to the host and the host's attempt to convene a joint on-air interview with Marx and Corby Hall.
 
-The episode is structurally important because it converts multiple independent rumor clusters (low event turnout, "security threat" announcements, biography patterns of faith-department associates) into artifact-anchored comparison points, while also registering a direct attempt by a previously scrutinized figure (Marx) to engage on-air — creating an open verification window for a future episode.
+The episode is structurally important because it converts multiple independent rumor clusters (low event turnout, "security threat" announcements, biography patterns of faith-department associates) into artifact-anchored comparison points, while also registering a direct attempt by a previously scrutinized figure (Marx) to engage on-air – creating an open verification window for a future episode.
 
 ---
 
@@ -829,14 +829,14 @@ Investigative Direction: Obtain full transcript of Vance's remarks; verify wheth
 
 # VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kolvet" — host uses "Kovette," "Kovat," "Kovet," and "Kolvet" inconsistently. Preserved as "Andrew Kolvet" pending ledger confirmation.
-- **Name uncertainty:** "Victor Marx" vs. "Victor Marks" — host uses both; preserved as "Victor Marx."
-- **Name uncertainty:** "Derek Kirk" — host congratulates "Derek Kirk" at the opening; relationship to Erica Kirk unclear from this episode.
-- **Name uncertainty / transcription error:** "Sapria Colonel Otto Busher" — appears in connecting-themes list; likely transcription artifact (possibly "Sephora" or unrelated name).
+- **Name uncertainty:** "Andrew Kolvet" – host uses "Kovette," "Kovat," "Kovet," and "Kolvet" inconsistently. Preserved as "Andrew Kolvet" pending ledger confirmation.
+- **Name uncertainty:** "Victor Marx" vs. "Victor Marks" – host uses both; preserved as "Victor Marx."
+- **Name uncertainty:** "Derek Kirk" – host congratulates "Derek Kirk" at the opening; relationship to Erica Kirk unclear from this episode.
+- **Name uncertainty / transcription error:** "Sapria Colonel Otto Busher" – appears in connecting-themes list; likely transcription artifact (possibly "Sephora" or unrelated name).
 - **Transcript ambiguity:** "September 14th" referenced in the UGA high school cancellation email (A-1972.1) is inconsistent with the April 2026 event timeline; either OCR/transcription artifact or genuine content error in the original email.
-- **Artifact verbally referenced but not shown:** Marcus Wada brother's consulting website (A-1979.1) — industry areas are read aloud but full page not verified as on-screen.
-- **Requires human verification:** A-1980.1 (anonymous insider claims regarding Marcus Wada arms-trafficking history) — anonymous sourcing requires independent corroboration.
-- **Artifact verbally referenced but not shown:** Kolvet's Fox News interview B-roll splicing (A-1967.1 → C-2725) — host describes analysis but underlying B-roll frames were not independently captured.
+- **Artifact verbally referenced but not shown:** Marcus Wada brother's consulting website (A-1979.1) – industry areas are read aloud but full page not verified as on-screen.
+- **Requires human verification:** A-1980.1 (anonymous insider claims regarding Marcus Wada arms-trafficking history) – anonymous sourcing requires independent corroboration.
+- **Artifact verbally referenced but not shown:** Kolvet's Fox News interview B-roll splicing (A-1967.1 → C-2725) – host describes analysis but underlying B-roll frames were not independently captured.
 
 ---
 

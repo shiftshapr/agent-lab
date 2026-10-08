@@ -1157,7 +1157,7 @@ Confidence: high
 - [x] No episode-wide artifact bundle
 - [x] New persons use person-band free holes (N-447+); zero Person nodes in topic band
 - [x] Topics/orgs/places use N-2371..N-2383
-- [x] No em dashes
+- [x] En dashes in prose, no em dashes outside quotes
 - [x] Claims grounded in corrected transcript timestamps
 - [x] Mentions / Supports / Contradicts wired where Phase B patterns apply
 - [x] Memes dense M-61..M-73 from tip M-60; Conspiracy Girly wired as M-21 occurrence

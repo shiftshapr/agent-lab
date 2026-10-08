@@ -19,6 +19,6 @@ python3 -m yt_dlp --cookies-from-browser chrome --flat-playlist \
   --print "%(upload_date)s|%(id)s|%(title)s" "https://www.youtube.com/@RealCandaceO/streams"
 ```
 
-- **missing_upload_date**: 1 video (`ZkDO-MRLUco`, Candace Ep 381) — manifest uses **inferred** `2026-09-01` between Ep 380/382 until Invidious/yt-dlp backfill succeeds.
+- **missing_upload_date**: 1 video (`ZkDO-MRLUco`, Candace Ep 381) – manifest uses **inferred** `2026-09-01` between Ep 380/382 until Invidious/yt-dlp backfill succeeds.
 - **date_fetch_errors**: intermittent Invidious 403/rate limits; re-run builder with `--sleep 0.5` if needed.
 - **episode_number_gaps**: Candace ep slots **329, 375, 383, 390, 392** not matched in `/streams` titles (may be unlisted, renamed, or non-`| Ep N` / `Candace Ep N` titles). Reconcile manually after full channel scrape.

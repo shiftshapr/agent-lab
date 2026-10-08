@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2284.1",
           "ref": "A-2284.1",
-          "description": "1102 Statement — First Portion (four videos via Google Drive)",
+          "description": "1102 Statement – First Portion (four videos via Google Drive)",
           "related_claims": [
             "C-3290",
             "C-3291",
@@ -46,7 +46,7 @@
           "@type": "Artifact",
           "@id": "A-2284.2",
           "ref": "A-2284.2",
-          "description": "1102 Statement — Second Portion (80704 clipped-footage representation)",
+          "description": "1102 Statement – Second Portion (80704 clipped-footage representation)",
           "related_claims": [
             "C-3295"
           ],
@@ -73,7 +73,7 @@
           "@type": "Artifact",
           "@id": "A-2285.1",
           "ref": "A-2285.1",
-          "description": "Hull Preliminary-Hearing Audio Clip — Visual Impulse Video Chain of Custody",
+          "description": "Hull Preliminary-Hearing Audio Clip – Visual Impulse Video Chain of Custody",
           "related_claims": [
             "C-3292"
           ],
@@ -101,7 +101,7 @@
           "@type": "Artifact",
           "@id": "A-2286.1",
           "ref": "A-2286.1",
-          "description": "Nissi Video Analysis — Wide-Angle vs Zoomed Back Camera Across Tour Stops",
+          "description": "Nissi Video Analysis – Wide-Angle vs Zoomed Back Camera Across Tour Stops",
           "related_claims": [
             "C-3293"
           ],
@@ -127,7 +127,7 @@
           "@type": "Artifact",
           "@id": "A-2287.1",
           "ref": "A-2287.1",
-          "description": "Kulvette Audio Clip — \"Because I know people can be evil\" Explanation",
+          "description": "Kulvette Audio Clip – \"Because I know people can be evil\" Explanation",
           "related_claims": [
             "C-3294"
           ],
@@ -178,7 +178,7 @@
           "@type": "Artifact",
           "@id": "A-2289.1",
           "ref": "A-2289.1",
-          "description": "Kirraou Audio Clip — FBI Involvement in State-Case Question",
+          "description": "Kirraou Audio Clip – FBI Involvement in State-Case Question",
           "related_claims": [
             "C-3297"
           ],
@@ -204,7 +204,7 @@
           "@type": "Artifact",
           "@id": "A-2290.1",
           "ref": "A-2290.1",
-          "description": "Rogan Panel Audio Clip — Tyler Robinson Photo Distortion Discussion",
+          "description": "Rogan Panel Audio Clip – Tyler Robinson Photo Distortion Discussion",
           "related_claims": [
             "C-3298"
           ],
@@ -230,7 +230,7 @@
           "@type": "Artifact",
           "@id": "A-2291.1",
           "ref": "A-2291.1",
-          "description": "WearForbidden Parody Video — \"Positive Evidence\" / Pickle Pup Erika Kirk Skit",
+          "description": "WearForbidden Parody Video – \"Positive Evidence\" / Pickle Pup Erika Kirk Skit",
           "related_claims": [
             "C-3299"
           ],
@@ -254,7 +254,7 @@
           "@type": "Artifact",
           "@id": "A-2292.1",
           "ref": "A-2292.1",
-          "description": "Comment by K. — Andrew Wilson debate at 1.75x speed",
+          "description": "Comment by K. – Andrew Wilson debate at 1.75x speed",
           "related_claims": [],
           "related_nodes": [
             "N-2203",
@@ -270,7 +270,7 @@
           "@type": "Artifact",
           "@id": "A-2292.2",
           "ref": "A-2292.2",
-          "description": "Comment by Nikki — $100,000/hour humiliation",
+          "description": "Comment by Nikki – $100,000/hour humiliation",
           "related_claims": [],
           "related_nodes": [
             "N-2203"
@@ -285,7 +285,7 @@
           "@type": "Artifact",
           "@id": "A-2292.3",
           "ref": "A-2292.3",
-          "description": "Comment by Trillion — TPUSA PR strategy disaster",
+          "description": "Comment by Trillion – TPUSA PR strategy disaster",
           "related_claims": [],
           "related_nodes": [
             "N-2203"
@@ -308,7 +308,7 @@
           "@type": "Artifact",
           "@id": "A-2293.1",
           "ref": "A-2293.1",
-          "description": "Comment by \"the one you feed\" — Bug-sweep of Candace's house",
+          "description": "Comment by \"the one you feed\" – Bug-sweep of Candace's house",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -321,7 +321,7 @@
           "@type": "Artifact",
           "@id": "A-2293.2",
           "ref": "A-2293.2",
-          "description": "Comment by Alicia Switzer — Ian Carol 6-hour reaction video",
+          "description": "Comment by Alicia Switzer – Ian Carol 6-hour reaction video",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -334,7 +334,7 @@
           "@type": "Artifact",
           "@id": "A-2293.3",
           "ref": "A-2293.3",
-          "description": "Comment by James Gray — Woman-hating man paid 300K",
+          "description": "Comment by James Gray – Woman-hating man paid 300K",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -347,7 +347,7 @@
           "@type": "Artifact",
           "@id": "A-2293.4",
           "ref": "A-2293.4",
-          "description": "Comment by TJ Palo — \"Because I know people can be evil\"",
+          "description": "Comment by TJ Palo – \"Because I know people can be evil\"",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -360,7 +360,7 @@
           "@type": "Artifact",
           "@id": "A-2293.5",
           "ref": "A-2293.5",
-          "description": "Comment by Blackest Panther — Israel focus claim",
+          "description": "Comment by Blackest Panther – Israel focus claim",
           "related_claims": [],
           "related_nodes": [
             "N-2204"
@@ -375,7 +375,7 @@
           "@type": "Artifact",
           "@id": "A-2293.6",
           "ref": "A-2293.6",
-          "description": "Comment by Zamut — \"Burden bestowed on Candace Owens is a blessing\"",
+          "description": "Comment by Zamut – \"Burden bestowed on Candace Owens is a blessing\"",
           "related_claims": [
             "C-3301"
           ],
@@ -390,7 +390,7 @@
           "@type": "Artifact",
           "@id": "A-2293.7",
           "ref": "A-2293.7",
-          "description": "Comment by Anna — Text-message \"left\" contradiction",
+          "description": "Comment by Anna – Text-message \"left\" contradiction",
           "related_claims": [],
           "related_nodes": [
             "N-2205"
@@ -405,7 +405,7 @@
           "@type": "Artifact",
           "@id": "A-2293.8",
           "ref": "A-2293.8",
-          "description": "Comment by Joey D. April — \"Debategate\" timeline entry",
+          "description": "Comment by Joey D. April – \"Debategate\" timeline entry",
           "related_claims": [],
           "related_nodes": [
             "N-2203"
@@ -420,7 +420,7 @@
           "@type": "Artifact",
           "@id": "A-2293.9",
           "ref": "A-2293.9",
-          "description": "Comment by Golf/Cadence — Kanye \"Stars\" reference",
+          "description": "Comment by Golf/Cadence – Kanye \"Stars\" reference",
           "related_claims": [
             "C-3301"
           ],
@@ -441,7 +441,7 @@
       "ref": "N-1228",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact, flagged).",
+      "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -802,7 +802,7 @@
       "@id": "C-3292",
       "ref": "C-3292",
       "label": "TPUSA Initially Provided a Flash Drive and Google Links, Not Original SD Cards",
-      "claim": "SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 — not the SD cards.",
+      "claim": "SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.",
       "anchored_artifacts": [
         "A-2285.1"
       ],

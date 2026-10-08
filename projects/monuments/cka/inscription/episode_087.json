@@ -127,7 +127,7 @@
           "@type": "Artifact",
           "@id": "A-1920.1",
           "ref": "A-1920.1",
-          "description": "USA Spending Records for Built Inc. — Contract Timeline",
+          "description": "USA Spending Records for Built Inc. – Contract Timeline",
           "related_claims": [
             "C-2631",
             "C-2632"
@@ -146,7 +146,7 @@
           "@type": "Artifact",
           "@id": "A-1920.2",
           "ref": "A-1920.2",
-          "description": "Baron Coleman Audio Clip — Built Inc. Contract Analysis",
+          "description": "Baron Coleman Audio Clip – Built Inc. Contract Analysis",
           "related_claims": [
             "C-2631",
             "C-2632"
@@ -226,7 +226,7 @@
           "@type": "Artifact",
           "@id": "A-1923.1",
           "ref": "A-1923.1",
-          "description": "Trump at White House Easter Event — Tells Erika Kirk to Sue Critics",
+          "description": "Trump at White House Easter Event – Tells Erika Kirk to Sue Critics",
           "related_claims": [
             "C-2637"
           ],
@@ -252,7 +252,7 @@
           "@type": "Artifact",
           "@id": "A-1924.1",
           "ref": "A-1924.1",
-          "description": "Phil Lyman Family Instagram Posts — Tracing Killer's Footprint",
+          "description": "Phil Lyman Family Instagram Posts – Tracing Killer's Footprint",
           "related_claims": [
             "C-2641"
           ],
@@ -293,7 +293,7 @@
           "@type": "Artifact",
           "@id": "A-1925.1",
           "ref": "A-1925.1",
-          "description": "Elizabeth Lane X Post — Locked-Down Hospitals",
+          "description": "Elizabeth Lane X Post – Locked-Down Hospitals",
           "related_claims": [
             "C-2627"
           ],
@@ -317,7 +317,7 @@
           "@type": "Artifact",
           "@id": "A-1926.1",
           "ref": "A-1926.1",
-          "description": "Yoshi Comment — Turning Point Funeral Mailer",
+          "description": "Yoshi Comment – Turning Point Funeral Mailer",
           "related_claims": [
             "C-2646",
             "C-2647"
@@ -336,7 +336,7 @@
           "@type": "Artifact",
           "@id": "A-1926.2",
           "ref": "A-1926.2",
-          "description": "\"007\" Comment — 2012 RNC Delegate Rule Change",
+          "description": "\"007\" Comment – 2012 RNC Delegate Rule Change",
           "related_claims": [
             "C-2626"
           ],
@@ -355,7 +355,7 @@
           "@type": "Artifact",
           "@id": "A-1926.3",
           "ref": "A-1926.3",
-          "description": "Amar Ramusa Comment — BYU Physicist Steven Jones / 9/11 Thermite Study",
+          "description": "Amar Ramusa Comment – BYU Physicist Steven Jones / 9/11 Thermite Study",
           "related_claims": [
             "C-2638"
           ],
@@ -373,7 +373,7 @@
           "@type": "Artifact",
           "@id": "A-1926.4",
           "ref": "A-1926.4",
-          "description": "Seven Sheets Comment — Praise for Investigative Team",
+          "description": "Seven Sheets Comment – Praise for Investigative Team",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -547,7 +547,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1656",
       "ref": "N-1656",
-      "name": "Tyler Robinson Defense — Chain of Custody / Documents",
+      "name": "Tyler Robinson Defense – Chain of Custody / Documents",
       "type": "investigation_target",
       "description": "Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.",
       "related_artifacts": [

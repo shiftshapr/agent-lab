@@ -44,7 +44,7 @@ Confidence Level: High (host states Jaco Booyens and Erica Kirk confirmed authen
 
 **A-1670** Lyle Reems Legal Records Bundle
 
-**A-1670.1** 1998 Indictment: State v. Lyle Reems — Sexual conduct with minor under 15
+**A-1670.1** 1998 Indictment: State v. Lyle Reems – Sexual conduct with minor under 15
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -54,7 +54,7 @@ Confidence Level: High (host displays case on screen)
 
 *Related: C-2184, N-785, N-1509*
 
-**A-1670.2** 1999 Dismissal Without Prejudice — victim had given victim impact statement
+**A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -68,7 +68,7 @@ Confidence Level: High
 
 **A-1671** Desert Spirit Tech LLC Filing Bundle
 
-**A-1671.1** Arizona LLC formation documents — Desert Spirit Tech LLC, filed 2017, Sacaton, AZ
+**A-1671.1** Arizona LLC formation documents – Desert Spirit Tech LLC, filed 2017, Sacaton, AZ
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -92,7 +92,7 @@ Confidence Level: High (notarized filing displayed)
 
 **A-1672** Generation Seven Farms Reference Bundle
 
-**A-1672.1** Business registration — Generation Seven Farms, 21 Rose and Thobe, Sacaton, AZ (Lyle and Shelly Reems)
+**A-1672.1** Business registration – Generation Seven Farms, 21 Rose and Thobe, Sacaton, AZ (Lyle and Shelly Reems)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -106,7 +106,7 @@ Confidence Level: Medium
 
 **A-1673** Tyler Bowyer X/Twitter Post Bundle
 
-**A-1673.1** Tyler Bowyer post dated September 25, 2018 — "We run everything like a military op. All of our people are from that background."
+**A-1673.1** Tyler Bowyer post dated September 25, 2018 – "We run everything like a military op. All of our people are from that background."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

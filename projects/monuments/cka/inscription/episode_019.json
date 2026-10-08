@@ -192,7 +192,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1265",
       "family_ref": "A-1265",
-      "bundle_name": "HBO-Style Miniseries Trailer — Charlie Kirk / Israel Donors",
+      "bundle_name": "HBO-Style Miniseries Trailer – Charlie Kirk / Israel Donors",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -453,7 +453,7 @@
       "ref": "N-16",
       "name": "Frank Turek",
       "type": "person",
-      "description": "Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally — dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.",
+      "description": "Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally – dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.",
       "related_artifacts": [],
       "related_claims": [
         "C-1481"
@@ -1119,7 +1119,7 @@
       "@type": "Claim",
       "@id": "C-1472",
       "ref": "C-1472",
-      "label": "Charlie Kirk UVU Event Clip — Friendship Exchange",
+      "label": "Charlie Kirk UVU Event Clip – Friendship Exchange",
       "claim": "UVU event clip captures Charlie Kirk responding to a question about friendship with the line \"Find out\" regarding whether Kirk was the questioner's friend.",
       "anchored_artifacts": [
         "A-1264.1"
@@ -1255,7 +1255,7 @@
       "@type": "Claim",
       "@id": "C-1480",
       "ref": "C-1480",
-      "label": "Charlie Kirk's Stated Final Words — Book Promotion",
+      "label": "Charlie Kirk's Stated Final Words – Book Promotion",
       "claim": "Host sarcastically attributes Kirk's last words as \"Buy my book. Buy Josh Hammer's book,\" referencing Hammer's same-day book promotion after Kirk's death.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -1272,7 +1272,7 @@
       "@id": "C-1481",
       "ref": "C-1481",
       "label": "Frank Turk's Reaction Described as Normal Post-Shot Behavior",
-      "claim": "Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally — dropping to ground and crawling toward Kirk to assist.",
+      "claim": "Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],

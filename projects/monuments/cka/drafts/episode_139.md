@@ -787,12 +787,12 @@ Confidence: high
 - **Timestamp uncertainty**: Several X posts displayed without explicit post dates; some inferred as same-day, others referenced as 2024 (Joel Barry affordability tweet).
 - **Transcript ambiguity**: Auto-generated English captions cleaned but no ground-truth transcript; verify exact wording of displayed tweets against original posts.
 - **Requires human verification**: Tyler Robinson's right-handedness claim from legal filings – filing not displayed in this episode. Prior-episode artifact reference required.
-- **Claim failed admission test (not inscribed)**: Host assertion that Lance Twigs's DNA was more prominent than Tyler Robinson's on the rifle — referenced from prior coverage, no artifact displayed in this episode.
-- **Claim failed admission test (not inscribed)**: Host assertion that the Dremel used to carve bullets belonged to Lance Twigs — referenced from prior coverage, no artifact displayed.
-- **Claim failed admission test (not inscribed)**: Host assertion that Lance Twigs was offered a ride home by FBI after questioning and then moved to a safe house with his father paid by the feds — host assertion, no displayed artifact.
-- **Claim failed admission test (not inscribed)**: Host assertion that UVU students confirmed no cameras exist outside the parking garage — referenced from prior interviews, no interview clip shown in this episode.
-- **Claim failed admission test (not inscribed)**: Host speculation that "Breit"/"Brietje" is the author of the disputed text messages — rhetorical, not artifact-backed.
-- **Claim failed admission test (not inscribed)**: Apartment resident timeline (Lance moved in July 2022, Tyler in August 2023, Bradley out end of 2024) — host investigative finding without displayed artifact in this episode.
+- **Claim failed admission test (not inscribed)**: Host assertion that Lance Twigs's DNA was more prominent than Tyler Robinson's on the rifle – referenced from prior coverage, no artifact displayed in this episode.
+- **Claim failed admission test (not inscribed)**: Host assertion that the Dremel used to carve bullets belonged to Lance Twigs – referenced from prior coverage, no artifact displayed.
+- **Claim failed admission test (not inscribed)**: Host assertion that Lance Twigs was offered a ride home by FBI after questioning and then moved to a safe house with his father paid by the feds – host assertion, no displayed artifact.
+- **Claim failed admission test (not inscribed)**: Host assertion that UVU students confirmed no cameras exist outside the parking garage – referenced from prior interviews, no interview clip shown in this episode.
+- **Claim failed admission test (not inscribed)**: Host speculation that "Breit"/"Brietje" is the author of the disputed text messages – rhetorical, not artifact-backed.
+- **Claim failed admission test (not inscribed)**: Apartment resident timeline (Lance moved in July 2022, Tyler in August 2023, Bradley out end of 2024) – host investigative finding without displayed artifact in this episode.
 - **Requires human verification**: Wikipedia Helluva Boss description (live Wikipedia – may differ from current version).
 
 ---

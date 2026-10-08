@@ -17,7 +17,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on Candace Owens's presentation of three external source bundles — a YouTube channel called "Be Inspired" discussing Project Looking Glass / Y2K / Mandela Effect / The Matrix parallels; a written article plus accompanying video about a purported "satanic human sacrifice" staged at CERN's Large Hadron Collider grounds (with CERN's "prank" response); and a Daily Wire parody video dropped on Candace's old social media accounts that she characterizes as gangstalking. A short Mike Pompeo interview clip on framing history books regarding Gaza is also presented. The host uses these artifacts to advance a broader interpretive thesis about pre-2012 timeline convergence, the spiritual nature of elite conflict, and Charlie Kirk's apparent foreknowledge of his own death.
+This episode centers on Candace Owens's presentation of three external source bundles – a YouTube channel called "Be Inspired" discussing Project Looking Glass / Y2K / Mandela Effect / The Matrix parallels; a written article plus accompanying video about a purported "satanic human sacrifice" staged at CERN's Large Hadron Collider grounds (with CERN's "prank" response); and a Daily Wire parody video dropped on Candace's old social media accounts that she characterizes as gangstalking. A short Mike Pompeo interview clip on framing history books regarding Gaza is also presented. The host uses these artifacts to advance a broader interpretive thesis about pre-2012 timeline convergence, the spiritual nature of elite conflict, and Charlie Kirk's apparent foreknowledge of his own death.
 
 Most evidentiary weight in this episode is carried by the Be Inspired clip and the CERN coverage; the Pompeo clip and Daily Wire video are presented as secondary supporting material. The episode references (but does not display in this episode) prior text-message artifacts involving Charlie Kirk that were shown in earlier episodes.
 
@@ -44,7 +44,7 @@ Confidence: high
 
 **A-1628** Be Inspired YouTube Channel Clip Bundle
 
-**A-1628.1** Be Inspired clip — Y2K intro and Mandela Effect segment
+**A-1628.1** Be Inspired clip – Y2K intro and Mandela Effect segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -54,7 +54,7 @@ Confidence Level: Medium
 
 *Related: C-2097, C-2098, C-2099, N-1484, N-720*
 
-**A-1628.2** Be Inspired clip — Project Looking Glass segment with Bill Wood testimony
+**A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -64,7 +64,7 @@ Confidence Level: Medium
 
 *Related: C-2097, C-2098, N-1484, N-720*
 
-**A-1628.3** Be Inspired clip — The Matrix / 2012 convergence / CIA document segment
+**A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -215,7 +215,7 @@ Investigative Pressure: Low (requires verification of identity and TPUSA co-foun
 
 *Related: A-1633 family context*
 
-*Optional Flag: Name uncertainty — host identifies him as a Turning Point USA co-founder; this role attribution requires verification against public TPUSA founding records.*
+*Optional Flag: Name uncertainty – host identifies him as a Turning Point USA co-founder; this role attribution requires verification against public TPUSA founding records.*
 
 **N-726** Carly
 

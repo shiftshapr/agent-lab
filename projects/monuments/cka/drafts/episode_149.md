@@ -400,7 +400,7 @@ Investigative Direction: Confirm employment history via LinkedIn, PGL corporate 
 **C-3545** Four TPUSA team members on September 10 had families in global freight/trucking/shipping
 
 Claim Timestamp: 00:02:11
-Claim: Pepper Williams is described as one of four TPUSA team members on the ground September 10 whose families were involved in the same industry — global freight, trucking, and global shipping.
+Claim: Pepper Williams is described as one of four TPUSA team members on the ground September 10 whose families were involved in the same industry – global freight, trucking, and global shipping.
 Anchored Artifacts: A-2426.1
 Mentions: N-432
 Investigative Direction: Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.
@@ -571,7 +571,7 @@ Investigative Direction: Identify the underlying source(s) raising the host's co
 **C-3561** If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM
 
 Claim Timestamp: 00:37:12
-Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM — which would make multiple subsequent events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
+Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM – which would make multiple subsequent events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
 Anchored Artifacts: A-2433.1
 Mentions: N-69
 Related Nodes:

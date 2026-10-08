@@ -25,7 +25,7 @@
 - **Channel / Creator:** @RealCandaceO / Candace Owens
 - **Episode Date:** 2025-11-06
 - **Source Used for Analysis:** YouTube transcript (yt-dlp-manual caption source) + video context; transcript reported as cleaned (lexicon + paragraph merge, music cues dropped, no invented words)
-- **Transcript Completeness Status:** Complete — full 1:07:17 runtime captured
+- **Transcript Completeness Status:** Complete – full 1:07:17 runtime captured
 - **Analyst / Agent:** Investigative Analysis Agent (Episode Analysis Protocol)
 - **Analysis Date:** 2025-11-06
 - **Ledger Continuation Summary:**
@@ -279,7 +279,7 @@ Verbatim excerpt: "Candace, that was such a wise statement. I cannot forgive unt
 
 *Related: C-1635, N-359*
 
-*(Note: see Claim Register for C-1635 — this claim is included to maintain artifact linkage for A-1354.2)*
+*(Note: see Claim Register for C-1635 – this claim is included to maintain artifact linkage for A-1354.2)*
 
 ---
 
@@ -850,7 +850,7 @@ Anchored Artifacts: A-1354.2
 Mentions: N-359
 
 
-Investigative Direction: None — viewer opinion, not an investigative target.
+Investigative Direction: None – viewer opinion, not an investigative target.
 
 ---
 

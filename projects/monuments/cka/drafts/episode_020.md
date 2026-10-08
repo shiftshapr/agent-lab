@@ -60,7 +60,7 @@ Video Timestamp: 00:03:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-Contents (read on air): Candace — "Yo, Kanye West writing a philosophy book called Break the Simulation. We need him, Charlie. He is Blexit AF." Charlie — "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to."
+Contents (read on air): Candace – "Yo, Kanye West writing a philosophy book called Break the Simulation. We need him, Charlie. He is Blexit AF." Charlie – "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to."
 
 *Related: C-1490, C-1491, N-1, N-56*
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-Contents (read on air): Charlie — "I'm on a run and I'm blasting Kanye West and we're on the brink of something big and like this is our time." Candace — "So exciting. It's our time." Charlie — "Yes."
+Contents (read on air): Charlie – "I'm on a run and I'm blasting Kanye West and we're on the brink of something big and like this is our time." Candace – "So exciting. It's our time." Charlie – "Yes."
 
 *Related: C-1492, N-1, N-56*
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:06:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-Contents (read on air): Candace — "Please pick up because I was shaking." Charlie — "I am freaking the f out."
+Contents (read on air): Candace – "Please pick up because I was shaking." Charlie – "I am freaking the f out."
 
 *Related: C-1493, N-1, N-56*
 

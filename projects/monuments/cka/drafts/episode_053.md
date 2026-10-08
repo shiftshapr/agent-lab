@@ -31,7 +31,7 @@
   - Claim Range: C-2016–C-2025
   - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable — Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-37
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-37
 
 ---
 
@@ -615,13 +615,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty — "Maggie Wgner" / "Maggie Wagner":** Episode displays spelling "Wgner" first via text on screen, then Candace spells it aloud as "W-A-G-G-S ... W G NE R." Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads "Mags Wgner."
-- **Artifact verbally referenced but not shown — Michael Cormier arsenic poisoning claim:** Host asserts forensic technician Michael Cormier died from "military-grade arsenic poisoning" following involvement in Andrew Breitbart's autopsy. No artifact displayed; only host recounting. Requires human verification.
-- **Artifact verbally referenced but not shown — Jamie Weinstein / Michelle Fields husband relationship and alleged co-conspiracy:** Host asserts Weinstein was Fields' husband and co-conspirator with Shapiro in manufacturing the 2016 scandal. No artifact displayed; source described only as "executives over at Breitbart News." Requires human verification.
-- **Artifact verbally referenced but not shown — Charlie Kirk's giftedness school ("X-Men school"):** Host references a gifted school in Chicago through which Charlie met the "oracle" figure. No artifact displayed; no school identified by name. Requires human verification.
-- **Name uncertainty — "Charlie Kirk's oracle":** Identity of the older Jewish man from Chicago is not disclosed. Name preserved exactly as described: "oracle"/"oracle" figure.
-- **Timestamp uncertainty — Amfest speech date:** The Amfest speech referenced as occurring "2 days" before the producer's call is not dated precisely in the episode; year implied by context to be late 2025.
-- **Transcript ambiguity — producer identity:** The Daily Wire producer who recruited Maggie Wagner is described as "nothing but kind" and Candace states she is protecting the producer's name. Producer identity remains unknown.
+- **Name uncertainty – "Maggie Wgner" / "Maggie Wagner":** Episode displays spelling "Wgner" first via text on screen, then Candace spells it aloud as "W-A-G-G-S ... W G NE R." Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads "Mags Wgner."
+- **Artifact verbally referenced but not shown – Michael Cormier arsenic poisoning claim:** Host asserts forensic technician Michael Cormier died from "military-grade arsenic poisoning" following involvement in Andrew Breitbart's autopsy. No artifact displayed; only host recounting. Requires human verification.
+- **Artifact verbally referenced but not shown – Jamie Weinstein / Michelle Fields husband relationship and alleged co-conspiracy:** Host asserts Weinstein was Fields' husband and co-conspirator with Shapiro in manufacturing the 2016 scandal. No artifact displayed; source described only as "executives over at Breitbart News." Requires human verification.
+- **Artifact verbally referenced but not shown – Charlie Kirk's giftedness school ("X-Men school"):** Host references a gifted school in Chicago through which Charlie met the "oracle" figure. No artifact displayed; no school identified by name. Requires human verification.
+- **Name uncertainty – "Charlie Kirk's oracle":** Identity of the older Jewish man from Chicago is not disclosed. Name preserved exactly as described: "oracle"/"oracle" figure.
+- **Timestamp uncertainty – Amfest speech date:** The Amfest speech referenced as occurring "2 days" before the producer's call is not dated precisely in the episode; year implied by context to be late 2025.
+- **Transcript ambiguity – producer identity:** The Daily Wire producer who recruited Maggie Wagner is described as "nothing but kind" and Candace states she is protecting the producer's name. Producer identity remains unknown.
 
 ---
 

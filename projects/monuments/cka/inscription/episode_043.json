@@ -189,7 +189,7 @@
           "@type": "Artifact",
           "@id": "A-1518.1",
           "ref": "A-1518.1",
-          "description": "Viewer comment from \"Jo Ann\": \"we hoped it would go away\" — referenced as first truthful statement made by TPUSA",
+          "description": "Viewer comment from \"Jo Ann\": \"we hoped it would go away\" – referenced as first truthful statement made by TPUSA",
           "related_claims": [
             "C-1879"
           ],
@@ -274,7 +274,7 @@
           "@type": "Artifact",
           "@id": "A-1518.6",
           "ref": "A-1518.6",
-          "description": "Viewer comment from \"Laughing Cats Music World\" — referenced but contents not read in full (request for post to TPUSA asking specific questions)",
+          "description": "Viewer comment from \"Laughing Cats Music World\" – referenced but contents not read in full (request for post to TPUSA asking specific questions)",
           "related_claims": [
             "C-1875",
             "C-1876"
@@ -1040,7 +1040,7 @@
       "@id": "C-1873",
       "ref": "C-1873",
       "label": "The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative",
-      "claim": "The host characterizes the One Shot TV result — that the dummy's head was severed and the round continued through water jugs — as evidence that the official story's depiction of a .30-06 ricochet is implausible.",
+      "claim": "The host characterizes the One Shot TV result – that the dummy's head was severed and the round continued through water jugs – as evidence that the official story's depiction of a .30-06 ricochet is implausible.",
       "anchored_artifacts": [
         "A-1516.1"
       ],

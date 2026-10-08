@@ -7,6 +7,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import pytest
+
 ROOT = Path(__file__).resolve().parents[3]
 PREFLIGHT = ROOT / "projects" / "monuments" / "scripts" / "dia_preflight.py"
 sys.path.insert(0, str(PREFLIGHT.parent))
@@ -52,8 +54,9 @@ def _checks(report: dp.PreflightReport, sev: str = "P1") -> list[str]:
     return [f.check for f in report.findings if f.severity == sev]
 
 
-def test_person_like_topic_flags_topic_band_person_and_honorific():
-    content = "## 4. Node Register\n\n**N-1009** Charlie Kirk \u2014 referenced throughout.\n\n**N-2349** Father Ripperger\n\n**N-1018** Eileen Marx\n"
+@pytest.mark.parametrize("dash", ["\u2013", "\u2014"], ids=["en_dash", "legacy_em_dash"])
+def test_person_like_topic_flags_topic_band_person_and_honorific(dash):
+    content = f"## 4. Node Register\n\n**N-1009** Charlie Kirk {dash} referenced throughout.\n\n**N-2349** Father Ripperger\n\n**N-1018** Eileen Marx\n"
     intro = dp.first_introduction_meta(dp.collect_register_entries([(1, "episode_001.md", Path("x"), content)]))
     canonical = {
         "N-1": {"canonical_name": "Charlie Kirk", "type": "person"},
@@ -65,9 +68,10 @@ def test_person_like_topic_flags_topic_band_person_and_honorific():
     assert flagged == {"N-1009", "N-2349", "N-1018"}
 
 
-def test_person_like_topic_ignores_topics_about_people():
+@pytest.mark.parametrize("dash", ["\u2013", "\u2014"], ids=["en_dash", "legacy_em_dash"])
+def test_person_like_topic_ignores_topics_about_people(dash):
     content = (
-        "## 4. Node Register\n\n**N-2183** Officer Bagley \u2014 Sex Crimes Unit Background\n\n"
+        f"## 4. Node Register\n\n**N-2183** Officer Bagley {dash} Sex Crimes Unit Background\n\n"
         "**N-1391** Charlie Kirk's Pre-Death Messages\n\n**N-1135** Daily Mail\n\n**N-1092** The Hamptons\n"
     )
     intro = dp.first_introduction_meta(dp.collect_register_entries([(1, "episode_001.md", Path("x"), content)]))
@@ -593,6 +597,8 @@ def test_cka_has_no_wave1_people_regressions():
             "cited_before_intro",
             "intro_missing",
             "dangling_claim_ref",
+            "prose_em_dash",
+            "quote_dash_fidelity",
         )
     ]
     assert bad == [], bad
@@ -623,3 +629,94 @@ def test_stamp_form_flags_minutes_above_59(tmp_path):
     report = dp.PreflightReport("t", str(tmp_path))
     dp.check_stamps(report, [(1, "episode_001.md", Path("x"), content)])
     assert [(f.severity, f.check) for f in report.findings] == [("P1", "stamp_form")]
+
+
+# ---------------------------------------------------------------------------
+# Dash rule gates (Daveed, 8 Oct 2026)
+# ---------------------------------------------------------------------------
+
+EM, EN = "\u2014", "\u2013"
+
+
+def test_prose_em_dash_flags_prose_but_not_quotes(tmp_path):
+    text = (
+        f"**A-1.1** Bowyer SD card account {EM} law enforcement instruction\n"
+        f"**A-1.2** Bowyer SD card account {EN} law enforcement instruction\n"
+        f"Transcript Snippet: wait {EM} no\n"
+        f"Quote: they knew {EM} they knew\n"
+        f'Contents (read on air): Candace {EN} "Not now {EM} not ever"\n'
+        f"Claim: Host says X {EM} not Y.\n"
+    )
+    eps = _episode(tmp_path, text)
+    ins = tmp_path / "inscription"
+    ins.mkdir()
+    (ins / "episode_001.json").write_text(
+        json.dumps({"artifacts": [{"description": f"a {EM} b", "transcript_snippet": f"c {EM} d"}]}, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    can = tmp_path / "canonical"
+    can.mkdir()
+    (can / "nodes.json").write_text(json.dumps({"nodes": {"N-1": {"canonical_name": f"X {EM} Y"}}}), encoding="utf-8")
+    report = dp.PreflightReport("t", "t")
+    dp.check_prose_em_dash(report, tmp_path, eps)
+    locs = sorted(f.location for f in report.findings)
+    assert all(f.severity == "P2" and f.check == "prose_em_dash" for f in report.findings)
+    assert locs == sorted(["episode_001.md:1", "episode_001.md:6", "inscription/episode_001.json/artifacts/0/description", "canonical/nodes.json/nodes/N-1/canonical_name"])
+
+
+def _transcript(tmp_path: Path, body: str, ep: int = 1) -> None:
+    d = tmp_path / "transcripts_corrected"
+    d.mkdir(parents=True, exist_ok=True)
+    (d / f"episode_{ep:03d}_abc.md").write_text(body, encoding="utf-8")
+
+
+def test_quote_dash_fidelity_matches_transcript_dashes(tmp_path):
+    _transcript(
+        tmp_path,
+        "# Title\n\n- [0:00] Intro\n- [41:12] Tucker says the quiet part\n\n[00:10]\n"
+        f"I said wait {EN} no, they knew. And then about me. Tucker says the quiet part out loud.\n",
+    )
+    text = "\n".join(
+        [
+            f"Transcript Snippet: I said wait {EN} no, they knew.",  # exact: pass
+            f"Quote: I said wait {EM} no",  # em where transcript has en: fail
+            "Quote: I said wait no, they knew.",  # dash dropped: fail
+            "Quote: about me. - Tucker says the quiet part",  # pasted chapter bullet: fail
+            "Transcript Snippet: Tucker says the quiet part out loud.",  # no dashes either side: pass
+            f"Quote: they knew...about me {EM} Tucker",  # ellipsis segment, dash not in transcript: fail
+        ]
+    )
+    eps = _episode(tmp_path, text)
+    report = dp.PreflightReport("t", "t")
+    dp.check_quote_dash_fidelity(report, tmp_path, eps)
+    assert all(f.severity == "P1" and f.check == "quote_dash_fidelity" for f in report.findings)
+    assert sorted(f.location for f in report.findings) == ["episode_001.md:2", "episode_001.md:3", "episode_001.md:4", "episode_001.md:6"]
+
+
+def test_quote_dash_fidelity_checks_inscription_quotes(tmp_path):
+    _transcript(tmp_path, "[00:01]\nno dashes here at all\n")
+    ins = tmp_path / "inscription"
+    ins.mkdir()
+    (ins / "episode_001.json").write_text(
+        json.dumps({"memes": [{"quote": f"no {EM} dashes"}], "claims": [{"transcript_snippet": "no dashes here"}]}, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    report = dp.PreflightReport("t", "t")
+    dp.check_quote_dash_fidelity(report, tmp_path, [])
+    assert [f.location for f in report.findings] == ["inscription/episode_001.json/memes/0/quote"]
+
+
+def test_dash_gates_are_opt_in_per_monument():
+    cka = dp.load_gate_config(dp.MONUMENTS_ROOT / "cka").get("dash_rule") or {}
+    assert cka.get("prose_em_dash") and cka.get("quote_dash_fidelity")
+    boc = dp.load_gate_config(dp.MONUMENTS_ROOT / "bride_of_charlie").get("dash_rule") or {}
+    assert not boc
+
+
+def test_cka_ep119_m55_quote_is_verbatim():
+    text = (dp.MONUMENTS_ROOT / "cka" / "drafts" / "episode_119.md").read_text(encoding="utf-8")
+    line = next(l for l in text.splitlines() if l.startswith("Quote:") and "quiet part" in l)
+    quote = line.split(":", 1)[1].strip()
+    tp = dp.find_transcript(dp.MONUMENTS_ROOT / "cka", 119)
+    assert quote in tp.read_text(encoding="utf-8")
+    assert " - " not in quote and "##" not in quote

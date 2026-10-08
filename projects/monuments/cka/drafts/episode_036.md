@@ -123,7 +123,7 @@ Video Timestamp: 00:14:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1767, N-existing (Tucker Carlson — existing series node)*
+*Related: C-1767, N-existing (Tucker Carlson – existing series node)*
 
 ---
 

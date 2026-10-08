@@ -35,9 +35,9 @@
 
 ## II. Executive Summary
 
-Episode 134 advances three substantive threads. First, the host responds to public reactions to the previous episode's rooftop footage release, presenting artifact-anchored responses from Andrew Kolvet (a tweet listing her mispronounced words), Blake Neff (a post asserting another rooftop angle exists showing the rifle pulled from the shooter's pants), Tim Pool (a tweet characterizing the Lozi footage as a counter to "exploding mic" claims), and the "Media Siege" host (a baby-crawling photo arguing the rooftop figure was untrained). Second, the host reads aloud an excerpt from the defense memorandum describing Charlie Kirk's autopsy injuries, including sequential perforation of the left neck (strap muscles, common carotid, jugulars), C7 vertebra obliteration, cervical spinal cord transection, and hemorrhaging around the heart and both lungs. Third, the host presents an unsourced "mock burial" allegation concerning Kirk's funeral arrangements — that Hansen Mortuary declined participation, prompting relocation to a Catholic church, that the casket was closed, and that close family and friends were asked to leave before disposition. These mock-burial claims rest on a tip and referenced-but-undisplayed text messages; they are not inscribed as evidence-backed claims.
+Episode 134 advances three substantive threads. First, the host responds to public reactions to the previous episode's rooftop footage release, presenting artifact-anchored responses from Andrew Kolvet (a tweet listing her mispronounced words), Blake Neff (a post asserting another rooftop angle exists showing the rifle pulled from the shooter's pants), Tim Pool (a tweet characterizing the Lozi footage as a counter to "exploding mic" claims), and the "Media Siege" host (a baby-crawling photo arguing the rooftop figure was untrained). Second, the host reads aloud an excerpt from the defense memorandum describing Charlie Kirk's autopsy injuries, including sequential perforation of the left neck (strap muscles, common carotid, jugulars), C7 vertebra obliteration, cervical spinal cord transection, and hemorrhaging around the heart and both lungs. Third, the host presents an unsourced "mock burial" allegation concerning Kirk's funeral arrangements – that Hansen Mortuary declined participation, prompting relocation to a Catholic church, that the casket was closed, and that close family and friends were asked to leave before disposition. These mock-burial claims rest on a tip and referenced-but-undisplayed text messages; they are not inscribed as evidence-backed claims.
 
-Structurally, the episode is significant for advancing the autopsy-injury investigation via a directly read defense-memorandum excerpt, surfacing a new "other angle" rooftop footage claim from Blake Neff, and opening the Kirk burial-status investigative target — though the latter currently lacks artifact support.
+Structurally, the episode is significant for advancing the autopsy-injury investigation via a directly read defense-memorandum excerpt, surfacing a new "other angle" rooftop footage claim from Blake Neff, and opening the Kirk burial-status investigative target – though the latter currently lacks artifact support.
 
 ---
 
@@ -256,7 +256,7 @@ Investigative Pressure: High
 
 **N-2160** Kirk Autopsy Heart/Lung Hemorrhage Causation
 
-Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs — bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).
+Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs – bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).
 
 Evidence Count: 1
 Claim Count: 2
@@ -508,7 +508,7 @@ Investigative Direction: Verify by contacting the viewer with consent; tangentia
 
 ## VI. Optional Flags
 
-- **Transcription artifacts**: "judge graph" (A-2216.1 / C-3173), "docked a witness" (A-2208.1 / C-3168), "Mike" for "mic" (A-2211.1 / C-3170) — likely auto-caption errors.
+- **Transcription artifacts**: "judge graph" (A-2216.1 / C-3173), "docked a witness" (A-2208.1 / C-3168), "Mike" for "mic" (A-2211.1 / C-3170) – likely auto-caption errors.
 - **Verbally referenced, not displayed verbatim**: A-2210.1 (Kolvet pronunciation list content summarized rather than read aloud).
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-2159) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.

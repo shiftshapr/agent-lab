@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: N-37, N-1444
   - (see registers)
 
-# Episode Analysis: Monument Episode 102 — "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
+# Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
 
 ---
 
@@ -206,7 +206,7 @@ Confidence Level: High
 
 **A-2071** Erika Kirk LinkedIn Bundle
 
-**A-2071.1** Erika Kirk old LinkedIn page (now removed) — claimed ASU magna cum laude graduation
+**A-2071.1** Erika Kirk old LinkedIn page (now removed) – claimed ASU magna cum laude graduation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -216,7 +216,7 @@ Confidence Level: High (archived/captured before removal)
 
 *Related: C-2896, N-2062*
 
-**A-2071.2** Erika Kirk LinkedIn page — claimed summa cum laude with double degree (political science and international relations)
+**A-2071.2** Erika Kirk LinkedIn page – claimed summa cum laude with double degree (political science and international relations)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -226,7 +226,7 @@ Confidence Level: High (archived/captured before removal)
 
 *Related: C-2897, N-2062*
 
-**A-2071.3** Erika Kirk LinkedIn page — claimed Doctor of Education in Christian Leadership from Liberty University
+**A-2071.3** Erika Kirk LinkedIn page – claimed Doctor of Education in Christian Leadership from Liberty University
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -684,7 +684,7 @@ Investigative Direction: Verify the original post and Alex Clark's relationship 
 
 Claim Timestamp: 00:49:33
 
-Claim: According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City — a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.
+Claim: According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City – a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.
 
 Anchored Artifacts: A-2075.1
 Mentions: N-424
@@ -744,7 +744,7 @@ Investigative Direction: Obtain direct evidence of coordination (emails, DMs, co
 
 Claim Timestamp: 00:45:18
 
-Claim: During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi — which Candace notes did not actually cover the timeframe of Mitch's sighting.
+Claim: During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi – which Candace notes did not actually cover the timeframe of Mitch's sighting.
 
 Anchored Artifacts: A-2075.1
 Mentions: N-424, N-2
@@ -772,18 +772,18 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Artifact verbally referenced but not shown** — A-2070.1 (Hillsdale College honorary doctorate announcement): Cited as fact by host but no press release, news article, or Hillsdale College source was displayed in the episode.
-- **Source-based testimony without on-record statement** — A-2068.1, A-2068.2: Marcus Wada AI voice services claim is attributed to "a source which came forward" with no named on-record source displayed.
-- **Transcript ambiguity** — Reference to "a friend ban" writing a comment at [40:55] appears to be a transcription artifact for "Friend Ban" (likely a username).
-- **Possible transcription error** — Several host colloquialisms ("Drewski," "Drew Ski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
-- **Claim failed admission test** — Several host assertions in this episode are framing premises rather than evidence-backed claims, including:
+- **Artifact verbally referenced but not shown** – A-2070.1 (Hillsdale College honorary doctorate announcement): Cited as fact by host but no press release, news article, or Hillsdale College source was displayed in the episode.
+- **Source-based testimony without on-record statement** – A-2068.1, A-2068.2: Marcus Wada AI voice services claim is attributed to "a source which came forward" with no named on-record source displayed.
+- **Transcript ambiguity** – Reference to "a friend ban" writing a comment at [40:55] appears to be a transcription artifact for "Friend Ban" (likely a username).
+- **Possible transcription error** – Several host colloquialisms ("Drewski," "Drew Ski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
+- **Claim failed admission test** – Several host assertions in this episode are framing premises rather than evidence-backed claims, including:
   - "Erika would be a confirmed ruthless psychopath"
   - "She is capable of real harm"
   - "She is dangerous and I would extend that to every person around her"
   - "We would be looking at a psychological profile of people that I would suggest are very much capable of cold-blooded murder"
   - "We all deep down spiritually know that is untrue" (re: AI audio)
   These were not inscribed in the Claim Register as they fail the falsifiability test and/or the rhetoric removal test.
-- **Transcript-era transcription note** — Reference to "Nick Fuentes" at [25:20] appears within the host's discussion of "Nick Shirley" and may be a verbal slip or transcription artifact. Preserved as it appears.
+- **Transcript-era transcription note** – Reference to "Nick Fuentes" at [25:20] appears within the host's discussion of "Nick Shirley" and may be a verbal slip or transcription artifact. Preserved as it appears.
 
 ---
 

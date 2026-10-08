@@ -376,7 +376,7 @@ Investigative Direction: Compare original website text against archived snapshot
 
 ## 6. Meme Register
 
-_(none — prior placeholder removed; not a meme)_
+_(none – prior placeholder removed; not a meme)_
 
 ---
 

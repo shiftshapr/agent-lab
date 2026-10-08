@@ -73,7 +73,7 @@
           "@type": "Artifact",
           "@id": "A-2322.1",
           "ref": "A-2322.1",
-          "description": "Jack Hibbs interview with Frank Churik — brother Butch's night-before UVU ticket request and pre-event photo",
+          "description": "Jack Hibbs interview with Frank Churik – brother Butch's night-before UVU ticket request and pre-event photo",
           "related_claims": [
             "C-3347",
             "C-3355"
@@ -94,7 +94,7 @@
           "@type": "Artifact",
           "@id": "A-2322.2",
           "ref": "A-2322.2",
-          "description": "Jack Hibbs interview with Frank Churik — FaceTime sequence, Mikey McCoy call, \"cousin Charlie\" confusion, 12:30 PM prayer chain claim",
+          "description": "Jack Hibbs interview with Frank Churik – FaceTime sequence, Mikey McCoy call, \"cousin Charlie\" confusion, 12:30 PM prayer chain claim",
           "related_claims": [
             "C-3349",
             "C-3350",
@@ -124,7 +124,7 @@
           "@type": "Artifact",
           "@id": "A-2323.1",
           "ref": "A-2323.1",
-          "description": "Jack Hibbs audio interview with Todd Starns (Fox News) — brother Butch's front-row seat and post-shooting call",
+          "description": "Jack Hibbs audio interview with Todd Starns (Fox News) – brother Butch's front-row seat and post-shooting call",
           "related_claims": [
             "C-3345",
             "C-3355"
@@ -753,7 +753,7 @@
       "@id": "C-3350",
       "ref": "C-3350",
       "label": "Jack Hibbs initially confused Charlie Kirk with a relative named \"cousin Charlie\"",
-      "claim": "During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie — not Charlie Kirk — had been shot.",
+      "claim": "During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie – not Charlie Kirk – had been shot.",
       "anchored_artifacts": [
         "A-2322.2"
       ],

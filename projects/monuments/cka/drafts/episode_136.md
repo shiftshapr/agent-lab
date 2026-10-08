@@ -575,16 +575,16 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Artifact verbally referenced but not shown**: A-2230.1 (CNN article — host paraphrases the headline and email content rather than displaying the article); A-2235.1 (Allan Robertson's LinkedIn — host paraphrases content rather than displaying the profile).
+- **Artifact verbally referenced but not shown**: A-2230.1 (CNN article – host paraphrases the headline and email content rather than displaying the article); A-2235.1 (Allan Robertson's LinkedIn – host paraphrases content rather than displaying the profile).
 - **Name uncertainty**: "Losi" / "Loy" / "Lozi" rooftop appears repeatedly; transcript is inconsistent but host uses "Loy" most often. Preserved as "Losi/Loy" pending verification against UVU building records (commonly the Losee Center).
 - **Name inconsistency**: Host alternates between "Erica Kirk" and "Erika Kirk"; preserved as "Erica Kirk" (standard convention).
 - **Name inconsistency**: Host alternates between "Allan Robertson" and "Alan Robertson"; preserved as "Allan Robertson" per the more frequent transcript usage.
 - **Name inconsistency**: Host uses both "Brian Harpole" and "Brian Harpool"; preserved as "Harpole."
 - **Requires human verification**: Several testimony audio clips (A-2224.1, A-2224.2) require human re-listening to confirm exact wording.
-- **Possible transcription error**: "Lance Twigs's DNA" — name unusual; possibly "Lance Twiggs" or similar. Flagged.
-- **Claim failed admission test — not inscribed**: Host's assertion that "whoever he was with had to have had some rank" and that "this guy is maybe more important than Officer Bagley is letting on" — interpretive commentary, not artifact-anchored as a freestanding claim.
-- **Claim failed admission test — not inscribed**: Host's assertion that "the public isn't really buying some elements of the story" regarding Brian Harpole's gurney account — narrative framing, no artifact in this episode.
-- **Claim failed admission test — not inscribed**: Host's broader political commentary regarding Trump, Israel, Iran, Christian Zionism, and the "Epstein class" — framing / worldview statements without artifact anchors.
+- **Possible transcription error**: "Lance Twigs's DNA" – name unusual; possibly "Lance Twiggs" or similar. Flagged.
+- **Claim failed admission test – not inscribed**: Host's assertion that "whoever he was with had to have had some rank" and that "this guy is maybe more important than Officer Bagley is letting on" – interpretive commentary, not artifact-anchored as a freestanding claim.
+- **Claim failed admission test – not inscribed**: Host's assertion that "the public isn't really buying some elements of the story" regarding Brian Harpole's gurney account – narrative framing, no artifact in this episode.
+- **Claim failed admission test – not inscribed**: Host's broader political commentary regarding Trump, Israel, Iran, Christian Zionism, and the "Epstein class" – framing / worldview statements without artifact anchors.
 
 ---
 

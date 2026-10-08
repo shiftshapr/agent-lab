@@ -330,7 +330,7 @@ Investigative Pressure: Medium
 
 **N-1697** Early-Death-Announcement Timeline Verification
 
-Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source — including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.
+Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.
 
 Evidence Count: 2
 Claim Count: 2
@@ -598,7 +598,7 @@ Claim Timestamp: 00:15:01–00:17:09
 
 Claim: Host explicitly endorses Elizabeth Lane's prior post that "Erika Kirk exhibits the attributes of a psychopath," characterizing Erika's pattern of public blame-shifting as "malevolent."
 
-Anchored Artifacts: (verbal reference only to artifact from prior episode — Lane's X post)
+Anchored Artifacts: (verbal reference only to artifact from prior episode – Lane's X post)
 Mentions: N-2
 
 Related Nodes: N-1691
@@ -607,7 +607,7 @@ Investigative Direction: Cross-reference the prior episode's Elizabeth Lane arti
 
 ---
 
-**C-2762** Contradiction — Erika Kirk claimed credible threat vs Secret Service finding of none
+**C-2762** Contradiction – Erika Kirk claimed credible threat vs Secret Service finding of none
 
 Claim Timestamp: 00:02:09–00:13:38
 
@@ -623,7 +623,7 @@ Investigative Direction: Resolve by obtaining either Erika Kirk's underlying thr
 
 ---
 
-**C-2763** Contradiction — Bomb dogs reportedly did not detect recent firing on recovered rifle
+**C-2763** Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle
 
 Claim Timestamp: 00:42:19–00:43:08
 

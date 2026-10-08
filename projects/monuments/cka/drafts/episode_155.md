@@ -14,7 +14,7 @@
   - New Nodes Introduced: N-2337, N-2338, N-2339, N-2340
   - Reused Nodes Appearing: none (Wave 2: local ids removed)
 
-# Episode Analysis — Bride of Charlie 155
+# Episode Analysis – Bride of Charlie 155
 
 ## I. Meta-Data
 
@@ -180,7 +180,7 @@ Confidence Level: High
 
 *Related: C-3527*
 
-**A-2413.3** Admin ("admissions") lot footage of the second grey Dodge Challenger (operated by the figure code-named "Waluigi") making multiple parking attempts in an empty lot — referenced from prior-episode display
+**A-2413.3** Admin ("admissions") lot footage of the second grey Dodge Challenger (operated by the figure code-named "Waluigi") making multiple parking attempts in an empty lot – referenced from prior-episode display
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -195,7 +195,7 @@ Optional Flag: Artifact verbally referenced but not shown in this episode
 
 **A-2414** Sept 15 UVU Search Warrant Narrative Bundle
 
-**A-2414.1** Narrative portion of the September 15 search warrant (Agent Mortensson), stating that Robinson's Challenger entered the UVU parking structure at ~8:28 AM and that Robinson visited a wooded area between 8:28 AM and 9:24 AM — not displayed in this episode; described by host
+**A-2414.1** Narrative portion of the September 15 search warrant (Agent Mortensson), stating that Robinson's Challenger entered the UVU parking structure at ~8:28 AM and that Robinson visited a wooded area between 8:28 AM and 9:24 AM – not displayed in this episode; described by host
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -210,7 +210,7 @@ Optional Flag: Artifact verbally referenced but not shown in this episode
 
 **A-2415** Agent David Hull Preliminary Hearing Testimony Bundle
 
-**A-2415.1** Lead SBI Agent David Hull's preliminary hearing testimony, presenting a revised campus timeline in which the "Maroon Boy" interacts with a TPUSA rep, departs, and returns on foot, omitting the 8-minute top-of-structure stop — not displayed in this episode; described by host
+**A-2415.1** Lead SBI Agent David Hull's preliminary hearing testimony, presenting a revised campus timeline in which the "Maroon Boy" interacts with a TPUSA rep, departs, and returns on foot, omitting the 8-minute top-of-structure stop – not displayed in this episode; described by host
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -527,7 +527,7 @@ Investigative Direction: Obtain the actual Sept 15 search warrant filing to veri
 
 Claim Timestamp: 00:19:42–00:21:12
 
-Claim: Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot — omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.
+Claim: Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot – omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.
 
 Anchored Artifacts: A-2414.1, A-2415.1
 
@@ -549,7 +549,7 @@ Related Nodes: N-2340
 
 Investigative Direction: Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.
 
-Optional Flag: Claim failed admission test (Artifact Anchor) — claim retained with explicit flag for missing artifact; verify against source records before further inscription.
+Optional Flag: Claim failed admission test (Artifact Anchor) – claim retained with explicit flag for missing artifact; verify against source records before further inscription.
 
 ---
 
@@ -597,13 +597,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Transcript renders the podcaster's name inconsistently — "Blake Neff" in the show title and at 36:51; "Blake Nef" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Saucelito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
+- **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Nef" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Saucelito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
 - **Name uncertainty:** "Erica Kirk" appears as "Erika Kirk" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.
 - **Name uncertainty:** "Officer Go forth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
-- **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) — none displayed in this episode; described by host.
+- **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.
 - **Claim failed admission test:** C-3530 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
 - **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes former local id 1212, former local id 1213, and N-2339 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
-- **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" — original posting/publication dates not stated on air.
+- **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" – original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.
 - **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Go forth/Goforth" against authoritative sources.

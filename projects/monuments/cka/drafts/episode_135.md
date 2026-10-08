@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-The episode advances two principal investigative threads. The first concerns the identity, biography, and affiliations of Dr. Andrew Guajardo, identified by the host as the deputy chief medical examiner who signed off on Charlie Kirk's autopsy, and his marriage to Dr. Ashley Brown Guajardo, a sociologist specializing in gamer and furry community research. The host juxtaposes Dr. Ashley's academic profile with online culture associated with the alleged shooter Tyler Robinson and his boyfriend Lance Twiggs. The second thread concerns an unverified source tip asserting that Timpanogos Hospital's emergency room was evacuated to a different wing at roughly 10:00 a.m. on September 10 — over two hours before the shooting — and that patients were subsequently shuttled to Intermountain/Utah Valley Hospital. The host bridges this tip to a previously surfaced hospital file showing Charlie Kirk's record in the Intermountain system, originally disclosed in an October 28, 2025 episode.
+The episode advances two principal investigative threads. The first concerns the identity, biography, and affiliations of Dr. Andrew Guajardo, identified by the host as the deputy chief medical examiner who signed off on Charlie Kirk's autopsy, and his marriage to Dr. Ashley Brown Guajardo, a sociologist specializing in gamer and furry community research. The host juxtaposes Dr. Ashley's academic profile with online culture associated with the alleged shooter Tyler Robinson and his boyfriend Lance Twiggs. The second thread concerns an unverified source tip asserting that Timpanogos Hospital's emergency room was evacuated to a different wing at roughly 10:00 a.m. on September 10 – over two hours before the shooting – and that patients were subsequently shuttled to Intermountain/Utah Valley Hospital. The host bridges this tip to a previously surfaced hospital file showing Charlie Kirk's record in the Intermountain system, originally disclosed in an October 28, 2025 episode.
 
 The episode also reads aloud three artifact-anchored medical professional communications (an anesthesiologist email, a transplant coordinator email, and a surgeon YouTube comment) advancing the shaped-charge / exploding-microphone alternative theory of Charlie's neck wound and questioning the unusually short autopsy timeline.
 
@@ -125,7 +125,7 @@ Investigative Pressure: High
 
 **N-2164** Timpanogos Hospital Evacuation Tip
 
-Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. — over two hours before Charlie Kirk's shooting.
+Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.
 
 Evidence Count: 0
 Claim Count: 3
@@ -310,7 +310,7 @@ Investigative Direction: Obtain the official medical examiner's report to verify
 
 Claim Timestamp: 00:10:36
 
-Claim: Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role play involves playing a character different from oneself, while cybersex involves engaging as oneself — both use a keyboard for erotic expression but differ in character embodiment.
+Claim: Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role play involves playing a character different from oneself, while cybersex involves engaging as oneself – both use a keyboard for erotic expression but differ in character embodiment.
 
 Anchored Artifacts: A-2218.1
 
@@ -368,7 +368,7 @@ Mentions: N-1
 
 Related Nodes: N-2164, N-2169
 
-Investigative Direction: Obtain independent verification — shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.
+Investigative Direction: Obtain independent verification – shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -429,5 +429,5 @@ Related Nodes: N-2169
 
 Investigative Direction: Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events.
 
-*Flag: Claim failed admission test — host assertion, no artifact anchor in this episode*
+*Flag: Claim failed admission test – host assertion, no artifact anchor in this episode*
 

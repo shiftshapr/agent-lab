@@ -46,9 +46,9 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ## III. Artifact Register
 
-### A-1425 — Duncan Aviation Rental Plate Bundle (5 vehicles)
+### A-1425 – Duncan Aviation Rental Plate Bundle (5 vehicles)
 
-**A-1425.1** White 2025 Toyota Camry — Arizona plate CWN-N9872
+**A-1425.1** White 2025 Toyota Camry – Arizona plate CWN-N9872
 - Event Timestamp: 2025 (rental period)
 - Source Timestamp: 2025-11-18 (revealed on episode)
 - Video Timestamp: 07:12
@@ -56,7 +56,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1735, N-1330, A-1425.2–A-1425.5*
 
-**A-1425.2** Silver 2025 Toyota RAV4 — Utah plate T09-2Zs
+**A-1425.2** Silver 2025 Toyota RAV4 – Utah plate T09-2Zs
 - Event Timestamp: 2025 (rental period)
 - Source Timestamp: 2025-11-18
 - Video Timestamp: 07:12
@@ -64,7 +64,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1735, N-1330, A-1425.1, A-1425.3*
 
-**A-1425.3** White 2023 Toyota RAV4 — Utah plate T9-12-KM
+**A-1425.3** White 2023 Toyota RAV4 – Utah plate T9-12-KM
 - Event Timestamp: 2025
 - Source Timestamp: 2025-11-18
 - Video Timestamp: 07:12
@@ -72,7 +72,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1735, N-1330, A-1425.2, A-1425.4*
 
-**A-1425.4** Black 2025 Toyota 4Runner — Utah plate Z-923-DA
+**A-1425.4** Black 2025 Toyota 4Runner – Utah plate Z-923-DA
 - Event Timestamp: 2025
 - Source Timestamp: 2025-11-18
 - Video Timestamp: 07:12
@@ -80,7 +80,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1735, N-1330, A-1425.3, A-1425.5*
 
-**A-1425.5** Gray/silver 2025 Toyota 4Runner — Utah plate Z349-AAA
+**A-1425.5** Gray/silver 2025 Toyota 4Runner – Utah plate Z349-AAA
 - Event Timestamp: 2025
 - Source Timestamp: 2025-11-18
 - Video Timestamp: 07:12
@@ -90,7 +90,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1426 — CNN Article Bundle (UVU rooftop sighting)
+### A-1426 – CNN Article Bundle (UVU rooftop sighting)
 
 **A-1426.1** CNN article: "Utah Valley University student recalls seeing man walking on or near the Lozi Center roof twice in two weeks"
 - Event Timestamp: 2025-09-11 (published day after assassination)
@@ -102,7 +102,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1427 — Student Witness Audio Recording
+### A-1427 – Student Witness Audio Recording
 
 **A-1427.1** UVU student interview recording (approx. 3 minutes), recorded 2025-09-11
 - Event Timestamp: 2025-09-11
@@ -114,7 +114,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1428 — Brian Harpole / Shawn Bryan Interview Bundle
+### A-1428 – Brian Harpole / Shawn Bryan Interview Bundle
 
 **A-1428.1** Brian Harpole interview with Shawn Bryan (segment covering rooftop access responsibility and drone coverage)
 - Event Timestamp: 2025 (interview date prior to episode)
@@ -134,7 +134,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1429 — Blake Neff Statement Bundle
+### A-1429 – Blake Neff Statement Bundle
 
 **A-1429.1** Blake Neff interview recounting events immediately after the shooting (position relative to Mikey McCoy; observation of "quivering lip"; subsequent phone calls)
 - Event Timestamp: 2025 (interview prior to episode)
@@ -144,7 +144,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1738, A-1429.2*
 
-**A-1429.2** Blake Neff phone-call screenshot — call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)
+**A-1429.2** Blake Neff phone-call screenshot – call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)
 - Event Timestamp: 2025-09-10 (date of shooting)
 - Source Timestamp: 2025-11-18 (posted on X prior to episode)
 - Video Timestamp: 36:37
@@ -154,9 +154,9 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1430 — Rob McCoy Jerusalem Speech Bundle
+### A-1430 – Rob McCoy Jerusalem Speech Bundle
 
-**A-1430.1** Rob McCoy remarks at Jerusalem event on 2025-11-16 (framed as a celebration of Charlie Kirk's life) — Q&A excerpt addressing Tucker Carlson and Candace Owens
+**A-1430.1** Rob McCoy remarks at Jerusalem event on 2025-11-16 (framed as a celebration of Charlie Kirk's life) – Q&A excerpt addressing Tucker Carlson and Candace Owens
 - Event Timestamp: 2025-11-16
 - Source Timestamp: 2025-11-16
 - Video Timestamp: 38:58
@@ -166,7 +166,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1431 — Calvary Chapel Magazine Bundle
+### A-1431 – Calvary Chapel Magazine Bundle
 
 **A-1431.1** Calvary Chapel magazine cover (current month per host) featuring "Stand with Israel" headline and "Why Jews are hated" subtitle; interior photo referenced as IDF soldiers wearing yarmulkes
 - Event Timestamp: 2025 (publication month)
@@ -178,7 +178,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1432 — Aayol Yakobe X Post
+### A-1432 – Aayol Yakobe X Post
 
 **A-1432.1** Aayol Yakobe X post: "This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous."
 - Event Timestamp: 2025-11 (prior to episode)
@@ -190,7 +190,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1433 — Aaron Wexler X Post
+### A-1433 – Aaron Wexler X Post
 
 **A-1433.1** Aaron Wexler X post: "Candace started her career by doxing teenagers. Old habits die hard."
 - Event Timestamp: 2025-11 (prior to episode)
@@ -202,7 +202,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1434 — TWW Lewis Flight Information Bundle
+### A-1434 – TWW Lewis Flight Information Bundle
 
 **A-1434.1** Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor TWW Lewis
 - Event Timestamp: 2025-09-10
@@ -344,7 +344,7 @@ Investigative Direction: Verify the post URL; document whether the post remains 
 **C-1743** Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
 
 Claim Timestamp: 00:03:02
-Claim: Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.
+Claim: Aaron Wexler – identified by host as the woman at the Hamptons retreat – posted the quoted line on X.
 Anchored Artifacts: A-1433.1
 Mentions: N-3, N-87
 Related Nodes:
@@ -362,9 +362,9 @@ Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obt
 
 ## VI. Optional Flags
 
-- **Claim failed admission test — C-uninscribed:** Host assertion that "a foreign military jet actually can't just land on American soil without the federal government paying attention" and "an escort is required" is sourced to an unnamed "high government source" with no documentary artifact. Not inscribed as a claim; retained as research target under N-1331. Artifact verbally referenced but not shown.
+- **Claim failed admission test – C-uninscribed:** Host assertion that "a foreign military jet actually can't just land on American soil without the federal government paying attention" and "an escort is required" is sourced to an unnamed "high government source" with no documentary artifact. Not inscribed as a claim; retained as research target under N-1331. Artifact verbally referenced but not shown.
 - **Name uncertainty:** "Tim P" appears verbatim in transcript; full name not expanded. Preserved as written.
-- **Name uncertainty:** "Erika" / "Erica" Kirk — transcript inconsistently uses both spellings. Preserved as written in each instance.
+- **Name uncertainty:** "Erika" / "Erica" Kirk – transcript inconsistently uses both spellings. Preserved as written in each instance.
 - **Transcript ambiguity:** License plates as read aloud contain ambiguous letter/number substitutions (e.g., "T09 2Zs," "T9 1 2 KM"); plates as inscribed match the host's oral reading rather than a verified written source. Plate strings should be re-verified against rental records before downstream use.
 - **Timestamp uncertainty:** Date of the Harpole↔Long text exchange is described as "on Monday before" but no date is given; the day-of-week reference is internal to the host's narration.
 - **Possible transcription error:** Host admits mixing the letter N and the number 9 during prior episodes; some plates (e.g., A-1425.1 "CWN-N9872") may contain N/9 ambiguity by her own acknowledgement.

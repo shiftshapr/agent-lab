@@ -21,7 +21,7 @@ Episode 60 is a long-form live studio collaboration with independent researcher 
 
 The artifacts include a Dave Rubin X post regarding Candace's past comments about Charlie Kirk, an archived Miss Arizona USA–era tweet from Erika Kirk about the 2012 Aurora theater shooting, a 1980s interview clip of Katherine Pollard Griggs describing the U.S. military as a "mind control operation," displayed flight records (Flightradar24-style) of the planes that carried Erika Kirk and Andrew Kolvet from Arizona to Utah after the assassination, a prior Baron Coleman confrontation clip with a commenter named "Joe," a displayed list of free online logic courses, and a Jerusalem Post headline tying World Jewish Congress President Ronald Lauder to Trump's Greenland push.
 
-Most other substantive investigative claims — including the allegation that Bibi Netanyahu offered to "take Turning Point to the next level," the "what happens when you die" question allegedly posed at an August Aspen donor retreat, Andrew Kolvet's account of tarmac crying, the alleged PragerU employee grooming story, and the priest's pre-assassination visit — are advanced verbally by the host or guest and are not anchored to a displayed artifact in this episode.
+Most other substantive investigative claims – including the allegation that Bibi Netanyahu offered to "take Turning Point to the next level," the "what happens when you die" question allegedly posed at an August Aspen donor retreat, Andrew Kolvet's account of tarmac crying, the alleged PragerU employee grooming story, and the priest's pre-assassination visit – are advanced verbally by the host or guest and are not anchored to a displayed artifact in this episode.
 
 Episode 60 functions structurally as a connective tissue episode. It advances three persistent investigative threads: (1) the timing/sequence discrepancies around Erika Kirk and Andrew Kolvet in the 24–48 hours after September 10, (2) the host's broader theory that the U.S. security/military apparatus is institutionally corrupt at the command level, and (3) ongoing pressure on the official narrative of Charlie Kirk's assassination. The plane-records display is the single most concrete new evidentiary item in this episode.
 
@@ -88,7 +88,7 @@ Confidence Level: High
 
 **A-1657** Flight Records Display Bundle
 
-**A-1657.1** Flight tracking display (Flightradar24-style) showing two planes — Andrew Kolvet's plane and Erika Kirk's plane (N102DZ) — including departure times and arrival at Provo at 4:36 PM, with an approximately 1 hour 5 minute gap between the two flights.
+**A-1657.1** Flight tracking display (Flightradar24-style) showing two planes – Andrew Kolvet's plane and Erika Kirk's plane (N102DZ) – including departure times and arrival at Provo at 4:36 PM, with an approximately 1 hour 5 minute gap between the two flights.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

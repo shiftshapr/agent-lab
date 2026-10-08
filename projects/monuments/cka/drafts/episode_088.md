@@ -19,7 +19,7 @@
 
 Episode 88 advances two distinct investigative threads inside the Bride of Charlie series. The first centers on the provenance and integrity of the audio artifact TPUSA played as Erika Kirk's walkout music at the AmFest year-end event, purporting to be Charlie Kirk naming his wife as his successor at an August 15–17, 2025 Aspen donor event. The host plays the audio, identifies what she characterizes as editing artifacts, reports outreach to four attendees (three of whom, including a couple, do not recall the statement), and reads in full Blake Neff's X-post response declining to release the corresponding video.
 
-The second thread concerns the host's investigation into Erika Kirk's claimed whereabouts on September 10, 2025. The host contrasts the verbatim New York Times account ("hospital room" at 11:23 a.m. local Phoenix time) with Erika's Jesse Watters account ("mom's doctor's appointment"), plays both, notes an apparent jump cut in the latter, and reports multiple witnesses who allegedly place Erika without her mother on that day — including a security-guard Derek Niekerk account and a Minnesota woman who reportedly said she, not Erika, was with Erika's mother when the news arrived. The episode also documents the Trump social-media statement firing Pam Bondi and naming Todd Blanche as Acting Attorney General.
+The second thread concerns the host's investigation into Erika Kirk's claimed whereabouts on September 10, 2025. The host contrasts the verbatim New York Times account ("hospital room" at 11:23 a.m. local Phoenix time) with Erika's Jesse Watters account ("mom's doctor's appointment"), plays both, notes an apparent jump cut in the latter, and reports multiple witnesses who allegedly place Erika without her mother on that day – including a security-guard Derek Niekerk account and a Minnesota woman who reportedly said she, not Erika, was with Erika's mother when the news arrived. The episode also documents the Trump social-media statement firing Pam Bondi and naming Todd Blanche as Acting Attorney General.
 
 Structural importance: the episode elevates the previously-mentioned Karashi family thread with a named Fort Huachuca–trained family member (Tour Karashi) and an attributed LinkedIn reference; it also begins to harden the Erika CEO succession audio narrative as a distinct investigable target rather than host rhetoric.
 
@@ -465,7 +465,7 @@ Investigative Direction: Obtain the original interview clip in full; cross-refer
 
 Claim Timestamp: 00:40:55–00:44:53
 
-Claim: Per host investigation, multiple sources — including an unnamed Phoenix-area doctor and his wife (with federal political ties), a witness via security guard Derek Niekerk, and a Minnesota woman — allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
+Claim: Per host investigation, multiple sources – including an unnamed Phoenix-area doctor and his wife (with federal political ties), a witness via security guard Derek Niekerk, and a Minnesota woman – allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - (see registers)
 
-# Bride of Charlie — Episode 47 Analysis
+# Bride of Charlie – Episode 47 Analysis
 
 ## I. Meta-Data
 
@@ -114,7 +114,7 @@ Confidence Level: High
 
 **A-1543** Mikey McCoy Call Logs Bundle
 
-**A-1543.1** Mikey McCoy phone call logs provided by TPUSA during meeting — first call to wife Elizabeth McCoy (10 min), three-way with Erika at +3 min, three-way with father Rob McCoy 2 min later, brother callback 10 min
+**A-1543.1** Mikey McCoy phone call logs provided by TPUSA during meeting – first call to wife Elizabeth McCoy (10 min), three-way with Erika at +3 min, three-way with father Rob McCoy 2 min later, brother callback 10 min
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1135,7 +1135,7 @@ Investigative Direction: Verify against official identity records.
 
 Claim Timestamp: 00:26:28
 
-Claim: Blake Neff's interview account — that Mikey's first call after the shooting was to Erika, followed by his mother and father — directly contradicts the call logs provided by TPUSA.
+Claim: Blake Neff's interview account – that Mikey's first call after the shooting was to Erika, followed by his mother and father – directly contradicts the call logs provided by TPUSA.
 
 Anchored Artifacts: A-1542.1, A-1543.1
 Mentions: N-224, N-272
@@ -1547,5 +1547,5 @@ Investigative Direction: Verify the quotation against the cited Charlie Kirk sou
 - **Name inconsistency:** "Justin Streif" and "Justin Stripe" both appear; presumed same individual.
 - **Name inconsistency:** "Wachuka" and "Wa Chuka" both appear; presumed same location.
 - **Artifact verbally referenced but not shown:** A-1547.1, A-1548.1, A-1549.1 are referenced by host but not displayed in episode.
-- **Transcript ambiguity:** Danny McCoy reference initially made, then corrected on air to a different "Danny" who is a Charlie Kirk assistant — flagged for downstream review.
+- **Transcript ambiguity:** Danny McCoy reference initially made, then corrected on air to a different "Danny" who is a Charlie Kirk assistant – flagged for downstream review.
 - **Requires human verification:** The Mikey McCoy call logs (A-1543.1) were described to Candace but their actual provenance beyond "TPUSA brought paperwork" is unconfirmed in this episode.

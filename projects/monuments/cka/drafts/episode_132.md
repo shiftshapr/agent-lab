@@ -236,7 +236,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "His wedding ring isn't on his finger in the casket."
 
-*Related: C-3148, Charlie Kirk (existing node), N-2152 (wedding ring recovery status — to be inscribed if introduced as investigation target)*
+*Related: C-3148, Charlie Kirk (existing node), N-2152 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
 
 **A-2196.6** Comment from Alaska Dog Lady
 
@@ -508,17 +508,17 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Claim failed admission test — C-3147:** Host's exclusive report of Dr. Deidra Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
-- **Artifact verbally referenced but not shown — A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
-- **Name uncertainty (former local id 1210 "Pastor Russell"):** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
-- **Name variant preserved (former local id 1207):** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
-- **Name variant preserved (former local id 1209):** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
-- **Artifact verbally referenced but not shown — Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
-- **Artifact verbally referenced but not shown — Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
-- **Transcript ambiguity — A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.
-- **Possible transcription error — A-2196.3:** Comment "Andrew Colvin" likely refers to Andrew Kolvet; transcription preserved verbatim with flag for reconciliation.
-- **Requires human verification — N-2149:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
-- **Requires human verification — N-2151:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
+- **Claim failed admission test – C-3147:** Host's exclusive report of Dr. Deidra Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
+- **Artifact verbally referenced but not shown – A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
+- **Name uncertainty – former local id 1210 "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
+- **Name variant preserved – former local id 1207:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
+- **Name variant preserved – former local id 1209:** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
+- **Artifact verbally referenced but not shown – Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
+- **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
+- **Transcript ambiguity – A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.
+- **Possible transcription error – A-2196.3:** Comment "Andrew Colvin" likely refers to Andrew Kolvet; transcription preserved verbatim with flag for reconciliation.
+- **Requires human verification – N-2149:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
+- **Requires human verification – N-2151:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
 
 ---
 

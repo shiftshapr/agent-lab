@@ -98,7 +98,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1113",
       "family_ref": "A-1113",
-      "bundle_name": "BBC Article - Sherry Steel Bundle",
+      "bundle_name": "BBC Article – Sherry Steel Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -614,7 +614,7 @@
       "ref": "N-115",
       "name": "Harley Pastnic",
       "type": "person",
-      "description": "Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.",
+      "description": "Canadian subject of prior Owens research whose family is in the piping/valve business – cited as a pattern match.",
       "related_artifacts": [
         "A-2517.1"
       ],
@@ -1562,7 +1562,7 @@
       "@id": "C-1203",
       "ref": "C-1203",
       "label": "Steele family owns the doorbell-camera house",
-      "claim": "Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel — not Irwin Steel alone.",
+      "claim": "Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel – not Irwin Steel alone.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1115",
@@ -1724,7 +1724,7 @@
           "video_timestamp": "00:33:18",
           "speaker_node_ref": "N-65",
           "quote": "while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
-          "context": "Netanyahu labels the rumor 'insane / monstrous big lie' — canonical conspiracy-theorist deflection deployed against Owens and others.",
+          "context": "Netanyahu labels the rumor 'insane / monstrous big lie' – canonical conspiracy-theorist deflection deployed against Owens and others.",
           "confidence": "medium",
           "tags": [
             "rhetoric_label"

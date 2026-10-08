@@ -58,7 +58,7 @@ This episode presents evidentiary and testimonial material advancing three paral
 
 # Artifact Register
 
-**A-1895** Frank Turek Podcast Audio Clip — Hospital Arrival Estimate
+**A-1895** Frank Turek Podcast Audio Clip – Hospital Arrival Estimate
 
 **A-1895.1** Frank Turek's podcast stating Erica Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital
 
@@ -92,7 +92,7 @@ Confidence Level: Medium
 
 *Related: C-2574, N-1636*
 
-**A-1897** Daily Wire Article — Catholic Convert Boom
+**A-1897** Daily Wire Article – Catholic Convert Boom
 
 **A-1897.1** Daily Wire article titled "The Catholic convert boom is real, but a trouble pattern is emerging," stating the Catholic Church does not require faithful to be committed Zionists
 
@@ -104,7 +104,7 @@ Confidence Level: High
 
 *Related: C-2575, N-1637*
 
-**A-1898** Nick Searcy Confirmation — Andrew Kolvet Livestream
+**A-1898** Nick Searcy Confirmation – Andrew Kolvet Livestream
 
 **A-1898.1** Nick Searcy confirming Andrew Kolvet's livestream was authentically live in the 9–10 a.m. Pacific block
 

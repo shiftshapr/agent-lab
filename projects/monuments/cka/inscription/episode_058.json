@@ -220,7 +220,7 @@
           "@type": "Artifact",
           "@id": "A-1639.1",
           "ref": "A-1639.1",
-          "description": "Identity Crisis Documentary (2024) Announcement — Ben Shapiro / Daily Wire + Turning Point USA Collaboration",
+          "description": "Identity Crisis Documentary (2024) Announcement – Ben Shapiro / Daily Wire + Turning Point USA Collaboration",
           "related_claims": [
             "C-2116"
           ],
@@ -247,7 +247,7 @@
           "@type": "Artifact",
           "@id": "A-1640.1",
           "ref": "A-1640.1",
-          "description": "Courage House Nevada Information / Website — 40-Acre Washoe County Property, Psychiatric Residential Treatment Facility, Capacity 18, Confidential Location",
+          "description": "Courage House Nevada Information / Website – 40-Acre Washoe County Property, Psychiatric Residential Treatment Facility, Capacity 18, Confidential Location",
           "related_claims": [
             "C-2118",
             "C-2119"
@@ -559,7 +559,7 @@
       "ref": "N-737",
       "name": "Priscilla Ann Nu'ul",
       "type": "person",
-      "description": "Name flagged as uncertainty — referenced in same sentence as \"Miss Teen USA 2006\" in cast discussion; relationship to other cast members unclear from transcript.",
+      "description": "Name flagged as uncertainty – referenced in same sentence as \"Miss Teen USA 2006\" in cast discussion; relationship to other cast members unclear from transcript.",
       "related_artifacts": [
         "A-1635.1"
       ],
@@ -991,7 +991,7 @@
       "@id": "C-2108",
       "ref": "C-2108",
       "label": "November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections",
-      "claim": "Multiple identified members of the *November Renaissance* cast — including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum — have documented connections to Fort Huachuca, U.S. military service, or defense contracting.",
+      "claim": "Multiple identified members of the *November Renaissance* cast – including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum – have documented connections to Fort Huachuca, U.S. military service, or defense contracting.",
       "anchored_artifacts": [
         "A-1635.1",
         "A-1635.2"
@@ -1057,7 +1057,7 @@
       "@id": "C-2111",
       "ref": "C-2111",
       "label": "Three Independently-Sourced Fort Huachuca-Affiliated Individuals Report Having Seen Erika at the Base",
-      "claim": "Three individuals with Fort Huachuca affiliation — including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 — report having seen Erika at Fort Huachuca.",
+      "claim": "Three individuals with Fort Huachuca affiliation – including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 – report having seen Erika at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1488"
@@ -1113,7 +1113,7 @@
       "@id": "C-2114",
       "ref": "C-2114",
       "label": "Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus",
-      "claim": "Karl and Nelda Buckman gave a $10 million gift to Turning Point USA — described as the largest in the organization's history — and the Florida campus was renamed the \"Buckman campus\" in connection with the donation.",
+      "claim": "Karl and Nelda Buckman gave a $10 million gift to Turning Point USA – described as the largest in the organization's history – and the Florida campus was renamed the \"Buckman campus\" in connection with the donation.",
       "anchored_artifacts": [
         "A-1638.1"
       ],
@@ -1233,7 +1233,7 @@
       "@id": "C-2120",
       "ref": "C-2120",
       "label": "Nika Commenter Reports Memory Blackout Ages 4–10 at Fort Hood and Attendance at Schools Linked via Aspen Education Group",
-      "claim": "A commenter identifying as \"Nika\" and as a \"gate kid\" reports a \"total memory blackout from ages 4 to 10,\" the exact years stationed at Fort Hood, and that after the Army she was \"shuffled through four different schools\" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN — closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.",
+      "claim": "A commenter identifying as \"Nika\" and as a \"gate kid\" reports a \"total memory blackout from ages 4 to 10,\" the exact years stationed at Fort Hood, and that after the Army she was \"shuffled through four different schools\" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN – closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.",
       "anchored_artifacts": [
         "A-1642.1"
       ],

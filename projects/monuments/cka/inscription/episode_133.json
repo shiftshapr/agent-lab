@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2198.1",
           "ref": "A-2198.1",
-          "description": "Full uninterrupted rooftop sequence — individual running onto rooftop, descending into crawl, lateral movement, brief flash, \"throw forward\" motion, final positioning, and exit",
+          "description": "Full uninterrupted rooftop sequence – individual running onto rooftop, descending into crawl, lateral movement, brief flash, \"throw forward\" motion, final positioning, and exit",
           "related_claims": [
             "C-3150",
             "C-3151",
@@ -81,7 +81,7 @@
           "@type": "Artifact",
           "@id": "A-2198.4",
           "ref": "A-2198.4",
-          "description": "Pre-recoil segment — extended 50-second hold immediately preceding shooter's rise and sprint",
+          "description": "Pre-recoil segment – extended 50-second hold immediately preceding shooter's rise and sprint",
           "related_claims": [
             "C-3152"
           ],
@@ -420,7 +420,7 @@
       "ref": "N-2155",
       "name": "K9 Scent Tracking Discrepancy",
       "type": "investigation_target",
-      "description": "Host reports two dogs — Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.",
+      "description": "Host reports two dogs – Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.",
       "related_artifacts": [
         "A-2201.1"
       ],

@@ -42,7 +42,7 @@
 
 ## II. Executive Summary
 
-This episode is built around an artifact-anchored discrepancy: a wedding photo visibly present in the background of Charlie Kirk's home studio during his September 8, 2025 broadcast is missing from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Candace Owens walks through possible explanations (Kolvet moved it, Erika moved it, Charlie moved it on Sept 9, deliberate staging), ultimately positing that Charlie himself removed the photo on September 9, 2025 — which she ties to other allegedly suspicious activity that night (sleep swap, wedding ring removal, priest visit).
+This episode is built around an artifact-anchored discrepancy: a wedding photo visibly present in the background of Charlie Kirk's home studio during his September 8, 2025 broadcast is missing from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Candace Owens walks through possible explanations (Kolvet moved it, Erika moved it, Charlie moved it on Sept 9, deliberate staging), ultimately positing that Charlie himself removed the photo on September 9, 2025 – which she ties to other allegedly suspicious activity that night (sleep swap, wedding ring removal, priest visit).
 
 The second major evidentiary block concerns Carrie Prejean Bowler's removal from the White House Religious Liberty Commission. Artifacts include the hearing clip and Dan Patrick's removal announcement on X. The third block presents informant testimony about the TPUSA All-American Halftime Show's production (pre-filmed, 180 audience, multiple takes, $250 stipends, Erika not present), with a counter-artifact photograph of Trump watching the Bad Bunny halftime show at Mar-a-Lago.
 
@@ -108,7 +108,7 @@ Confidence Level: High
 
 ### A-1775 Fox News / Jesse Watters Interview with Erika Kirk Clip Bundle
 
-**A-1775.1** Segment: Erika describing the night before — 2:45 a.m. wake-up, snack, daughter's room swap, Charlie retrieving wedding ring and necklace from bathroom the next morning
+**A-1775.1** Segment: Erika describing the night before – 2:45 a.m. wake-up, snack, daughter's room swap, Charlie retrieving wedding ring and necklace from bathroom the next morning
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -320,7 +320,7 @@ Investigative Pressure: High
 
 **N-1580** September 9, 2025 Night Activity Reconstruction Question
 
-Investigation target: reconciliation of competing accounts of what occurred the night before the assassination — specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.
+Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.
 
 Evidence Count: 3
 Claim Count: 1
@@ -365,7 +365,7 @@ Investigative Direction: Compare the September 8, 2025 broadcast frame against p
 
 Claim Timestamp: 00:04:44
 
-Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office — the same space where it was visible on September 8, 2025.
+Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.
 
 Anchored Artifacts: A-1774.1, A-1773.1
 Mentions: N-2, N-364, N-1
@@ -510,7 +510,7 @@ Investigative Direction: Confirm via TPUSA production schedules, attendee lists,
 
 Claim Timestamp: 00:42:01
 
-Claim: A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background — not the TPUSA show.
+Claim: A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background – not the TPUSA show.
 
 Anchored Artifacts: A-1779.1
 Mentions: N-5
@@ -589,7 +589,7 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown in full:** A-1774.2 (Glenn Beck segment on phone denial) and A-1775.1 (Fox News segment on wedding ring) are played in part but the full interview is not shown; characterization is therefore limited to the portions that aired.
 
-- **Possible transcription error:** "Bassam Yousef" referenced in viewer comment at 46:33 — preserved as it appears.
+- **Possible transcription error:** "Bassam Yousef" referenced in viewer comment at 46:33 – preserved as it appears.
 
 - **Requires human verification:** All informant-based claims (C-2372, C-2373, C-2374, C-2376) rest on Candace Owens' secondhand reporting from unidentified informants present at the TPUSA halftime filming. Source identity, number of informants, and corroboration status are not disclosed in this episode.
 

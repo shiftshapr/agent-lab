@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - (see registers)
 
-# Episode 45 — Analysis Record
+# Episode 45 – Analysis Record
 
 ## 1. Meta-Data
 

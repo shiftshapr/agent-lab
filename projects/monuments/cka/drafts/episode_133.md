@@ -39,7 +39,7 @@
 
 ## II. Executive Summary
 
-The episode centers on two pieces of artifact-anchored material presented as exclusive: (1) rooftop footage the host says she has held since October 2025 depicting the alleged shooter, which the host frames as showing a "lateral/military crawl," a flash during the crawl, a "throw forward" motion, and the absence of a visible muzzle flash or weapon recoil before the shooter rises to flee; and (2) a reading of the Wikipedia entry for Secretary of the Navy John C. Phelan, specifically the "Relationship with Jeffrey Epstein" subsection, which references two Phelan flights on Epstein's plane in February–March 2006 alongside Jean-Luc Brunel. The host additionally identifies, by name, two rookie officers said to have recovered the weapon — Mitchell Curtis (a 2025 UVU graduate) and his father Foster Curtis (a reported 21-year NCIS division chief) — but provides no displayed source for these biographical claims. An Iranian Lego propaganda video referencing Epstein and an Erika Kirk "be a table" clip are also shown. The episode advances investigative questions around the recovery-officer chain, NCIS proximity to the gun search, and Epstein-network overlaps with current Trump-administration officials.
+The episode centers on two pieces of artifact-anchored material presented as exclusive: (1) rooftop footage the host says she has held since October 2025 depicting the alleged shooter, which the host frames as showing a "lateral/military crawl," a flash during the crawl, a "throw forward" motion, and the absence of a visible muzzle flash or weapon recoil before the shooter rises to flee; and (2) a reading of the Wikipedia entry for Secretary of the Navy John C. Phelan, specifically the "Relationship with Jeffrey Epstein" subsection, which references two Phelan flights on Epstein's plane in February–March 2006 alongside Jean-Luc Brunel. The host additionally identifies, by name, two rookie officers said to have recovered the weapon – Mitchell Curtis (a 2025 UVU graduate) and his father Foster Curtis (a reported 21-year NCIS division chief) – but provides no displayed source for these biographical claims. An Iranian Lego propaganda video referencing Epstein and an Erika Kirk "be a table" clip are also shown. The episode advances investigative questions around the recovery-officer chain, NCIS proximity to the gun search, and Epstein-network overlaps with current Trump-administration officials.
 
 ---
 
@@ -49,7 +49,7 @@ The episode centers on two pieces of artifact-anchored material presented as exc
 
 Footage displayed in episode depicting an individual on the Losee Center rooftop, captured by an iPhone-wielding witness. Held by host since October 2025 per on-air statement.
 
-**A-2198.1** Full uninterrupted rooftop sequence — individual running onto rooftop, descending into crawl, lateral movement, brief flash, "throw forward" motion, final positioning, and exit
+**A-2198.1** Full uninterrupted rooftop sequence – individual running onto rooftop, descending into crawl, lateral movement, brief flash, "throw forward" motion, final positioning, and exit
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10 (date of original capture)
 - Video Timestamp: 09:55–16:22
@@ -71,7 +71,7 @@ Footage displayed in episode depicting an individual on the Losee Center rooftop
 - Discovery Timestamp: 2025-10
 - *Related: C-3150, N-2153*
 
-**A-2198.4** Pre-recoil segment — extended 50-second hold immediately preceding shooter's rise and sprint
+**A-2198.4** Pre-recoil segment – extended 50-second hold immediately preceding shooter's rise and sprint
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 13:37–15:53
@@ -94,7 +94,7 @@ Side-by-side reference clip displayed in episode to compare the rooftop crawl mo
 
 ---
 
-### A-2200 Wikipedia Article Bundle — John C. Phelan (Secretary of the Navy)
+### A-2200 Wikipedia Article Bundle – John C. Phelan (Secretary of the Navy)
 
 Wikipedia article displayed and read aloud in episode, including the "Relationship with Jeffrey Epstein" subsection.
 
@@ -244,7 +244,7 @@ Investigative Pressure: Medium
 
 **N-2155** K9 Scent Tracking Discrepancy
 
-Host reports two dogs — Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.
+Host reports two dogs – Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.
 
 Evidence Count: 1 (Tyler Robinson text artifact)
 Claim Count: 1 (C-3157)
@@ -415,9 +415,9 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 - **Name uncertainty (former local id 1210):** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
 - **Name uncertainty (former local id 1211):** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
 - **Name spelling variance:** Host consistently uses "Erika Kirk"; existing ledger node is "Erica Kirk." Preserved as host used; cross-reference to existing node retained.
-- **Possible transcription error:** "Marina Minez" (likely Marina Linarte or similar TPUSA staff — unverified); "Justin Strife" (likely Justin Streifel or similar TPUSA COO — unverified); "Frank" (in-house legal counsel).
-- **Artifact provenance unverified:** A-2198 family — host asserts she has held the footage since October 2025; chain of custody not displayed.
-- **Artifact provenance unverified:** A-2199 family — side-by-side lateral-crawl reference clip source unstated.
+- **Possible transcription error:** "Marina Minez" (likely Marina Linarte or similar TPUSA staff – unverified); "Justin Strife" (likely Justin Streifel or similar TPUSA COO – unverified); "Frank" (in-house legal counsel).
+- **Artifact provenance unverified:** A-2198 family – host asserts she has held the footage since October 2025; chain of custody not displayed.
+- **Artifact provenance unverified:** A-2199 family – side-by-side lateral-crawl reference clip source unstated.
 - **Transcript ambiguity:** "the eene amount of gauze" in A-2204.4 appears to be a transcription error for "the immense amount of gauze."
 - **Requires human verification:** All Wikipedia-derived claims (C-3154, C-3155, C-3156) require verification against live article at episode air date, as Wikipedia content is mutable.
 
@@ -428,7 +428,7 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 **Artifact Families Introduced:**
 - A-2198 (Rooftop Footage Bundle)
 - A-2199 (Lateral Crawl Reference Clip Bundle)
-- A-2200 (Wikipedia Article Bundle — John C. Phelan)
+- A-2200 (Wikipedia Article Bundle – John C. Phelan)
 - A-2201 (Tyler Robinson Text Message Bundle)
 - A-2202 (Iranian Lego Propaganda Video Bundle)
 - A-2203 (Erika Kirk Speech Clip Bundle)

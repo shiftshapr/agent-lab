@@ -782,12 +782,12 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Andrew Kolvet" / "Andrew Kovette" — host uses both spellings in the same episode; spelling not confirmed against primary source.
-- **Artifact verbally referenced but not shown**: TPUSA sources' communications, federal source tip, Andrew Kolvet family friend written tip, "proof" of Tyler Bowyer real-estate conversation — claimed by host but not displayed on screen.
+- **Name uncertainty**: "Andrew Kolvet" / "Andrew Kovette" – host uses both spellings in the same episode; spelling not confirmed against primary source.
+- **Artifact verbally referenced but not shown**: TPUSA sources' communications, federal source tip, Andrew Kolvet family friend written tip, "proof" of Tyler Bowyer real-estate conversation – claimed by host but not displayed on screen.
 - **Source timestamp uncertainty**: Vanity Fair article publication date not stated by host; described as a current article but exact date unspecified.
 - **Requires human verification**: All TPUSA insider tips and the Pierre Dupont donor identification depend on host's secondary characterization of her sources; primary documentation not yet published.
-- **Identity unclear**: "BB" / "BB Net and Yahoo" — referenced by name in host narrative and in Andrew Kolvet tip; identity not confirmed against any artifact.
-- **Vanity Fair article spelling variants**: Article as read contains "DuPont," "Dupont," "Dupant" — preserving all variants as they appear; canonical spelling not assumed.
+- **Identity unclear**: "BB" / "BB Net and Yahoo" – referenced by name in host narrative and in Andrew Kolvet tip; identity not confirmed against any artifact.
+- **Vanity Fair article spelling variants**: Article as read contains "DuPont," "Dupont," "Dupant" – preserving all variants as they appear; canonical spelling not assumed.
 
 ---
 

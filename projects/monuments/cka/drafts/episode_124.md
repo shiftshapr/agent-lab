@@ -186,7 +186,7 @@ Confidence Level: High
 
 **A-2121** Court Exhibit Video Bundle (Exhibits 12.4 and 12.1)
 
-**A-2121.1** Exhibit 12.4 — compilation video shown in preliminary hearing depicting movements of a believed-to-be Robinson around UVU campus (Loy Center, parking garage, rooftop area), with witness confirmation it does not contain footage of the alleged shooting.
+**A-2121.1** Exhibit 12.4 – compilation video shown in preliminary hearing depicting movements of a believed-to-be Robinson around UVU campus (Loy Center, parking garage, rooftop area), with witness confirmation it does not contain footage of the alleged shooting.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -395,7 +395,7 @@ Investigative Pressure: High
 The investigative question of which Tel Aviv-based company extracted the Tyler-Lance text messages introduced at the preliminary hearing.
 
 Evidence Count: 1
-Claim Count: 0 (claim failed admission test — host reference only, not artifact-anchored)
+Claim Count: 0 (claim failed admission test – host reference only, not artifact-anchored)
 Episode Count: 1
 Investigative Pressure: Low
 

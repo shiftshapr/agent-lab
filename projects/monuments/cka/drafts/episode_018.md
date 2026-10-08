@@ -15,7 +15,7 @@
   - New Nodes Introduced:  N-247, N-248, N-249, N-251, N-254, N-1246, N-1247, N-1248, N-1249, N-1250, N-1251, N-1252, N-1253, N-1254, N-1255, N-1256
   - Reused Nodes Appearing: 
 
-This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts — as a fact-checked finding — that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-37
+This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts – as a fact-checked finding – that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-37
 
 A second investigative strand focuses on the on-the-ground witnesses: the viral clip of a witness being physically prevented from speaking, Fox News interviews with event volunteer Cooper Brown (affiliated with the Leadership Institute), and Jason Chaffetz's eyewitness statement locating the shot close and ahead of Charlie. The host additionally raises questions about Caldera Engineering's staffing and corporate history.
 
@@ -345,7 +345,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1249** Medical Examiner Inquiry — Weiss Amaro
+**N-1249** Medical Examiner Inquiry – Weiss Amaro
 
 Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.
 
@@ -594,7 +594,7 @@ Investigative Direction: Verify timestamp and full segment via Fox News archives
 
 Claim Timestamp: 00:14:50
 
-Claim: Cooper Brown stated his event responsibility was managing the microphone — raising and lowering it for student questioners.
+Claim: Cooper Brown stated his event responsibility was managing the microphone – raising and lowering it for student questioners.
 
 Anchored Artifacts: A-1253.2
 Mentions: N-247
@@ -603,7 +603,7 @@ Investigative Direction: Cross-reference event staff logs or volunteer rosters p
 
 ---
 
-**C-1436** Cooper Brown Resume — Southern New Hampshire University
+**C-1436** Cooper Brown Resume – Southern New Hampshire University
 
 Claim Timestamp: 00:16:16
 
@@ -629,7 +629,7 @@ Investigative Direction: Confirm whether the female same-name individual is or i
 
 ---
 
-**C-1438** Jason Chaffetz Eyewitness — Close, Ahead
+**C-1438** Jason Chaffetz Eyewitness – Close, Ahead
 
 Claim Timestamp: 00:23:00
 
@@ -642,7 +642,7 @@ Investigative Direction: Confirm full segment and any subsequent Chaffetz statem
 
 ---
 
-**C-1439** Two-Shot Witness Account — Lyman Footage
+**C-1439** Two-Shot Witness Account – Lyman Footage
 
 Claim Timestamp: 00:27:27
 
@@ -661,7 +661,7 @@ Claim Timestamp: 00:18:33
 
 Claim: Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).
 
-Anchored Artifacts: (host-stated; no displayed primary artifact — see Optional Flags)
+Anchored Artifacts: (host-stated; no displayed primary artifact – see Optional Flags)
 Mentions: N-249
 Related Nodes: N-1249
 Investigative Direction: Locate Utah state announcement and prior employment records.
@@ -674,7 +674,7 @@ Claim Timestamp: 00:30:39
 
 Claim: A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.
 
-Anchored Artifacts: (host-stated; web link referenced but full artifact not displayed — see Optional Flags)
+Anchored Artifacts: (host-stated; web link referenced but full artifact not displayed – see Optional Flags)
 Related Nodes: N-1250
 Investigative Direction: Obtain Utah LLC formation records (pre-digitization, requires in-person request) and Israeli business registries.
 
@@ -686,7 +686,7 @@ Claim Timestamp: 00:31:26
 
 Claim: Caldera Engineering was established in 1997.
 
-Anchored Artifacts: (host-stated; no primary artifact displayed — see Optional Flags)
+Anchored Artifacts: (host-stated; no primary artifact displayed – see Optional Flags)
 Related Nodes: N-1250
 Investigative Direction: Verify via Utah Division of Corporations records and trademark filings.
 
@@ -698,131 +698,131 @@ Claim Timestamp: 00:30:39
 
 Claim: A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.
 
-Anchored Artifacts: (host-stated; resume referenced but not displayed — see Optional Flags)
+Anchored Artifacts: (host-stated; resume referenced but not displayed – see Optional Flags)
 Related Nodes: N-1250
 Investigative Direction: Verify via LinkedIn / professional profile cross-checks.
 
 ---
 
-**C-1444** Caldera Early Trademark Lawyer — Tyler Bowyer Connection
+**C-1444** Caldera Early Trademark Lawyer – Tyler Bowyer Connection
 
 Claim Timestamp: 00:32:52
 
 Claim: The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.
 
-Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed — see Optional Flags)
+Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed – see Optional Flags)
 Mentions: N-37
 Related Nodes: N-1250
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---
 
-**C-1445** Plane N1098L — Military Aircraft
+**C-1445** Plane N1098L – Military Aircraft
 
 Claim Timestamp: 00:37:31
 
 Claim: A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.
 
-Anchored Artifacts: (host-stated; flight tracking not displayed — see Optional Flags)
+Anchored Artifacts: (host-stated; flight tracking not displayed – see Optional Flags)
 Related Nodes: N-1251
 Investigative Direction: Pull FAA registry for N1098L and prior military tail assignments.
 
 ---
 
-**C-1446** Plane N1098L — Las Vegas Aviation LLC
+**C-1446** Plane N1098L – Las Vegas Aviation LLC
 
 Claim Timestamp: 00:37:31
 
 Claim: Plane N1098L was owned/contracted by Las Vegas Aviation LLC.
 
-Anchored Artifacts: (host-stated — see Optional Flags)
+Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-1251, N-1255
 Investigative Direction: Confirm ownership via FAA registry and Nevada Secretary of State filings for Las Vegas Aviation LLC.
 
 ---
 
-**C-1447** Plane N1098L — Texas to Utah Routing
+**C-1447** Plane N1098L – Texas to Utah Routing
 
 Claim Timestamp: 00:37:31
 
 Claim: Plane N1098L departed Texas and routed to Utah around the time of the shooting.
 
-Anchored Artifacts: (host-stated — see Optional Flags)
+Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-1251
 Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for N1098L on the date.
 
 ---
 
-**C-1448** Plane 888 — Maxwell Affiliation
+**C-1448** Plane 888 – Maxwell Affiliation
 
 Claim Timestamp: 00:39:09
 
 Claim: A second plane (with "888" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.
 
-Anchored Artifacts: (host-stated — see Optional Flags)
+Anchored Artifacts: (host-stated – see Optional Flags)
 Mentions: N-76, N-251
 Related Nodes: N-1252
 Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.
 
 ---
 
-**C-1449** Plane 888 — Page, Arizona Destination
+**C-1449** Plane 888 – Page, Arizona Destination
 
 Claim Timestamp: 00:39:09
 
 Claim: Plane 888's intended destination was Page, Arizona.
 
-Anchored Artifacts: (host-stated — see Optional Flags)
+Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-1252
 Investigative Direction: Verify via filed flight plan and FBO records.
 
 ---
 
-**C-1450** Plane 888 — ADSB Transponder Turned Off
+**C-1450** Plane 888 – ADSB Transponder Turned Off
 
 Claim Timestamp: 00:39:09
 
 Claim: The ADSB transponder on plane 888 appeared to turn off during the flight.
 
-Anchored Artifacts: (host-stated — see Optional Flags)
+Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-1252
 Investigative Direction: Pull historical ADSB / radar track for the aircraft on the date.
 
 ---
 
-**C-1451** Kash Patel — Plane Never Stopped Transponding
+**C-1451** Kash Patel – Plane Never Stopped Transponding
 
 Claim Timestamp: 00:40:07
 
 Claim: Kash Patel publicly stated that plane 888 never stopped transponding.
 
-Anchored Artifacts: (host-stated; Kash Patel public statement not displayed — see Optional Flags)
+Anchored Artifacts: (host-stated; Kash Patel public statement not displayed – see Optional Flags)
 Mentions: N-102
 Related Nodes: N-1252
 Investigative Direction: Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.
 
 ---
 
-**C-1452** Derek Maxwell — ATC Approval to Stop Transponding
+**C-1452** Derek Maxwell – ATC Approval to Stop Transponding
 
 Claim Timestamp: 00:40:07
 
 Claim: Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.
 
-Anchored Artifacts: (host-stated; Derek Maxwell Instagram post not displayed — see Optional Flags)
+Anchored Artifacts: (host-stated; Derek Maxwell Instagram post not displayed – see Optional Flags)
 Mentions: N-251
 Related Nodes: N-1252
 Investigative Direction: Locate Maxwell's original Instagram post and any corroborating ATC logs.
 
 ---
 
-**C-1453** Plane 888 — FBO Change Millionaire to Signature
+**C-1453** Plane 888 – FBO Change Millionaire to Signature
 
 Claim Timestamp: 00:40:53
 
 Claim: Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.
 
-Anchored Artifacts: (host-stated — see Optional Flags)
+Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-1252, N-1256
 Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire and Signature).
 
@@ -834,7 +834,7 @@ Claim Timestamp: 00:41:40
 
 Claim: A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.
 
-Anchored Artifacts: (host-stated; secondhand report — see Optional Flags)
+Anchored Artifacts: (host-stated; secondhand report – see Optional Flags)
 Related Nodes: N-1252, N-1256
 Investigative Direction: Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs.
 
@@ -853,7 +853,7 @@ Investigative Direction: Verify release date and source channel.
 
 ---
 
-**C-1456** Text Message Content — Standard Exchange
+**C-1456** Text Message Content – Standard Exchange
 
 Claim Timestamp: 00:45:21
 
@@ -866,7 +866,7 @@ Investigative Direction: Obtain the full thread (including timestamps and any pr
 
 ---
 
-**C-1457** Trump Truth Social — Israel/Hamas Phase One Announcement
+**C-1457** Trump Truth Social – Israel/Hamas Phase One Announcement
 
 Claim Timestamp: 00:48:09
 
@@ -879,7 +879,7 @@ Investigative Direction: Verify exact post text and time stamp via Trump's Truth
 
 ---
 
-**C-1458** Jared Kushner Harvard Speech — Gaza "Waterfront Property"
+**C-1458** Jared Kushner Harvard Speech – Gaza "Waterfront Property"
 
 Claim Timestamp: 00:49:13
 
@@ -891,7 +891,7 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 ---
 
-**C-1459** Matt Walsh — "Too on the Nose" Comment
+**C-1459** Matt Walsh – "Too on the Nose" Comment
 
 Claim Timestamp: 00:53:09
 

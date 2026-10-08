@@ -13,7 +13,7 @@
     "transcript_sha256": "b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode is artifact-dense on two fronts: a long, previously-undisclosed SMS thread between Charlie Kirk and Candace Owens dated November 15, 2023 (read aloud), and a series of audio clips (Ben Shapiro, Steve Bannon, Tracy Martin, Rob O'Neill, Allison Holker, and Twitch's family via Gayle King on CBS).\n\nThe November 15, 2023 text thread constitutes the principal evidentiary body of the episode, documenting in Charlie Kirk's own words his contemporaneous assessment of the Daily Wire pressure campaign against Candace Owens — naming Jeremy Boreing and Marissa Streit (\"Strait\" in the text), characterizing the effort as \"a hit\" and a \"C-level\" operation, advising her not to resign, and explicitly stating \"We are on the same team. Screw these people.\" An older Charlie Kirk text (\"the war is on. Snakes in the garden, they are not our friends. Time to fight.\") is also read aloud.\n\nThe episode advances the Ben Shapiro 9/10 lunch-meeting investigation. The host names Gary Jabitch (described in host narrative as a B'nai B'rith / AIPAC / Chabad Lubavitch Nebraska figure) as the alleged companion; this naming lacks a shown artifact in this episode and is treated as an unresolved target. Rob O'Neill's Newsmax appearance artifact-anchors technical skepticism of the official narrative (screwdriver, bullet trajectory, text-message phrasing). A YouTube comment artifact-anchors a pattern comparison between the Erica Kirk situation and the Allison Holker / Stephen \"Twitch\" Boss case, with the Holker interview and the Boss-family/Gayle King CBS interview providing the underlying audio artifacts.\n\n---",
+  "executive_summary": "This episode is artifact-dense on two fronts: a long, previously-undisclosed SMS thread between Charlie Kirk and Candace Owens dated November 15, 2023 (read aloud), and a series of audio clips (Ben Shapiro, Steve Bannon, Tracy Martin, Rob O'Neill, Allison Holker, and Twitch's family via Gayle King on CBS).\n\nThe November 15, 2023 text thread constitutes the principal evidentiary body of the episode, documenting in Charlie Kirk's own words his contemporaneous assessment of the Daily Wire pressure campaign against Candace Owens – naming Jeremy Boreing and Marissa Streit (\"Strait\" in the text), characterizing the effort as \"a hit\" and a \"C-level\" operation, advising her not to resign, and explicitly stating \"We are on the same team. Screw these people.\" An older Charlie Kirk text (\"the war is on. Snakes in the garden, they are not our friends. Time to fight.\") is also read aloud.\n\nThe episode advances the Ben Shapiro 9/10 lunch-meeting investigation. The host names Gary Jabitch (described in host narrative as a B'nai B'rith / AIPAC / Chabad Lubavitch Nebraska figure) as the alleged companion; this naming lacks a shown artifact in this episode and is treated as an unresolved target. Rob O'Neill's Newsmax appearance artifact-anchors technical skepticism of the official narrative (screwdriver, bullet trajectory, text-message phrasing). A YouTube comment artifact-anchors a pattern comparison between the Erica Kirk situation and the Allison Holker / Stephen \"Twitch\" Boss case, with the Holker interview and the Boss-family/Gayle King CBS interview providing the underlying audio artifacts.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2180.1",
           "ref": "A-2180.1",
-          "description": "November 15, 2023 Thread — Daily Wire / Christ is King Pressure Campaign",
+          "description": "November 15, 2023 Thread – Daily Wire / Christ is King Pressure Campaign",
           "related_claims": [
             "C-3117",
             "C-3118",
@@ -51,7 +51,7 @@
           "@type": "Artifact",
           "@id": "A-2180.2",
           "ref": "A-2180.2",
-          "description": "Older Charlie Kirk Text — \"The War Is On / Snakes in the Garden\"",
+          "description": "Older Charlie Kirk Text – \"The War Is On / Snakes in the Garden\"",
           "related_claims": [
             "C-3124"
           ],
@@ -106,7 +106,7 @@
           "@type": "Artifact",
           "@id": "A-2182.1",
           "ref": "A-2182.1",
-          "description": "Steve Bannon at AmFest — \"Ben Shapiro Is Like a Cancer\"",
+          "description": "Steve Bannon at AmFest – \"Ben Shapiro Is Like a Cancer\"",
           "related_claims": [
             "C-3127"
           ],
@@ -130,7 +130,7 @@
           "@type": "Artifact",
           "@id": "A-2183.1",
           "ref": "A-2183.1",
-          "description": "Tracy Martin on Paramount Tactical — Denial of Daily Mail Source",
+          "description": "Tracy Martin on Paramount Tactical – Denial of Daily Mail Source",
           "related_claims": [
             "C-3128"
           ],
@@ -157,7 +157,7 @@
           "@type": "Artifact",
           "@id": "A-2184.1",
           "ref": "A-2184.1",
-          "description": "Rob O'Neill on Newsmax — Screwdriver, Bullet Trajectory, and Text-Message Analysis",
+          "description": "Rob O'Neill on Newsmax – Screwdriver, Bullet Trajectory, and Text-Message Analysis",
           "related_claims": [
             "C-3129",
             "C-3130",
@@ -187,7 +187,7 @@
           "@type": "Artifact",
           "@id": "A-2185.1",
           "ref": "A-2185.1",
-          "description": "Allison Holker Interview — Discovery of Hidden Substances After Husband's Death",
+          "description": "Allison Holker Interview – Discovery of Hidden Substances After Husband's Death",
           "related_claims": [
             "C-3133"
           ],
@@ -211,7 +211,7 @@
           "@type": "Artifact",
           "@id": "A-2186.1",
           "ref": "A-2186.1",
-          "description": "Twitch Family Interview — NDA Requirement to Attend Memorial",
+          "description": "Twitch Family Interview – NDA Requirement to Attend Memorial",
           "related_claims": [
             "C-3134",
             "C-3135"
@@ -445,7 +445,7 @@
       "@type": "Claim",
       "@id": "C-3118",
       "ref": "C-3118",
-      "label": "Charlie Kirk Text — \"Don't Resign Because It's What They Want\"",
+      "label": "Charlie Kirk Text – \"Don't Resign Because It's What They Want\"",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing to Candace Owens: \"Don't resign because it's what they want.\"",
       "anchored_artifacts": [
         "A-2180.1"
@@ -463,7 +463,7 @@
       "@type": "Claim",
       "@id": "C-3119",
       "ref": "C-3119",
-      "label": "Charlie Kirk Text — \"C-Level Hit\" Characterization",
+      "label": "Charlie Kirk Text – \"C-Level Hit\" Characterization",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing: \"This is a C-level hit against you because they think they can provoke you\" and \"That's why this is all coordinated.\"",
       "anchored_artifacts": [
         "A-2180.1"
@@ -519,7 +519,7 @@
       "@type": "Claim",
       "@id": "C-3122",
       "ref": "C-3122",
-      "label": "Charlie Kirk Text — \"We Are on the Same Team. Screw These People\"",
+      "label": "Charlie Kirk Text – \"We Are on the Same Team. Screw These People\"",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing: \"Thank you. We are on the same team. Screw these people\" and later: \"Absolutely. We are on the same team. People are waking up and it is finally happening.\"",
       "anchored_artifacts": [
         "A-2180.1"
@@ -555,7 +555,7 @@
       "@type": "Claim",
       "@id": "C-3124",
       "ref": "C-3124",
-      "label": "Older Charlie Kirk Text — \"The War Is On / Snakes in the Garden\"",
+      "label": "Older Charlie Kirk Text – \"The War Is On / Snakes in the Garden\"",
       "claim": "A pre-November 15, 2023 text from Charlie Kirk (or a contemporaneous exchange involving Charlie Kirk) contains the words: \"Yep, the war is on. Snakes in the garden, they are not our friends. Time to fight.\"",
       "anchored_artifacts": [
         "A-2180.2"
@@ -719,7 +719,7 @@
       "@id": "C-3133",
       "ref": "C-3133",
       "label": "Allison Holker Claims Discovery of Hidden Substances After Husband's Death",
-      "claim": "In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things I did not know existed\" hidden in the home, including substances — even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.",
+      "claim": "In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things I did not know existed\" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.",
       "anchored_artifacts": [
         "A-2185.1"
       ],

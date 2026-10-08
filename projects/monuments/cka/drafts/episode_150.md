@@ -144,7 +144,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: Medium — *verbally referenced but not shown*
+Confidence Level: Medium – *verbally referenced but not shown*
 
 *Related: C-3411, N-3*
 
@@ -158,7 +158,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:44
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: Medium — *verbally referenced but not shown*
+Confidence Level: Medium – *verbally referenced but not shown*
 
 *Related: C-3412, N-3*
 
@@ -180,7 +180,7 @@ Confidence Level: High (audio played)
 
 **A-2357** "Power" Song Audio Bundle (Kanye West)
 
-**A-2357.1** Kanye West "Power" — verse 3 audio excerpt recited in host's analysis
+**A-2357.1** Kanye West "Power" – verse 3 audio excerpt recited in host's analysis
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -194,7 +194,7 @@ Confidence Level: High
 
 **A-2358** Movie 300 Audio Bundle
 
-**A-2358.1** Movie 300 audio excerpt — Spartan "beautiful death" speech (Leonidas / Arcadian exchange)
+**A-2358.1** Movie 300 audio excerpt – Spartan "beautiful death" speech (Leonidas / Arcadian exchange)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -232,7 +232,7 @@ Confidence Level: High
 
 **A-2360** Ye Concert Audio Bundle
 
-**A-2360.1** Audio / description of Ye's Chicago concert during anniversary week — Kid Cudi on stage performing "Ghost Town"
+**A-2360.1** Audio / description of Ye's Chicago concert during anniversary week – Kid Cudi on stage performing "Ghost Town"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -246,7 +246,7 @@ Confidence Level: High (concert footage referenced)
 
 **A-2361** Old Friendship Audio Bundle
 
-**A-2361.1** Older audio clip — Candace and Charlie: "if you think you're going to outwork Candace Owens and Charlie Kirk, you're wrong"
+**A-2361.1** Older audio clip – Candace and Charlie: "if you think you're going to outwork Candace Owens and Charlie Kirk, you're wrong"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

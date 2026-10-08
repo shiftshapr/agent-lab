@@ -521,8 +521,8 @@ Investigative Direction: Confirm the interview date against CNN's published inte
 
 - **A-1355.1, A-1355.2, A-1355.3, A-1360.2**: Artifacts verbally referenced but not shown on screen.
 - **A-1361.1**: Event Timestamp "2024" not specific to month/day; requires human verification of exact YWLS event date.
-- **A-1362.1**: Event Timestamp described as "a couple of days after Charlie was killed" — actual broadcast date requires confirmation via CNN records.
-- **N-362**: Name uncertainty — only first name "Ariana" given; full name and spelling unverified.
+- **A-1362.1**: Event Timestamp described as "a couple of days after Charlie was killed" – actual broadcast date requires confirmation via CNN records.
+- **N-362**: Name uncertainty – only first name "Ariana" given; full name and spelling unverified.
 - **N-360, N-340**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
 - **A-1356.2**: Exact event date for the Tucker Carlson / Marjorie Taylor Greene stage appearance not stated; estimated as recent to upload.
 

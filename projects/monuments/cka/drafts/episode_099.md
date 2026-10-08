@@ -439,7 +439,7 @@ Investigative Pressure: High
 
 Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had "no neck left," and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.
 
-Evidence Count: 0 (within this episode — host recollection only)
+Evidence Count: 0 (within this episode – host recollection only)
 Claim Count: 0 (no claim inscribed; fails artifact anchor test for this episode)
 Episode Count: 1
 Investigative Pressure: Medium
@@ -448,7 +448,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1736** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter — CASE_1 / LM-1000 placeholder)
+**N-1736** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.
 
@@ -478,7 +478,7 @@ Investigative Pressure: High
 
 Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible "weak link" among Kirk's inner circle.
 
-Evidence Count: 0 (within this episode — message referenced, not displayed)
+Evidence Count: 0 (within this episode – message referenced, not displayed)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
@@ -902,7 +902,7 @@ Investigative Direction: Obtain the original McCoy message screenshot; verify th
 
 - **Possible transcription error:** "Dylan Law Group" in transcript (13:14, 18:09, 19:56, 20:45, 21:45) appears to refer to **Dhillon Law Group** (Harmeet Dhillon's firm), as corroborated by host elsewhere and by FARA filings.
 - **Possible transcription error:** "Habas Media" in transcript (16:50) appears to refer to **Havas Media**, a French multinational advertising group.
-- **Name uncertainty:** Transcript uses both "Andrew Kolbe" (29:32, 30:23) and "Andrew Kolvet" (28:36, 57:03) — **Andrew Kolvet** is the correct name per prior episodes.
+- **Name uncertainty:** Transcript uses both "Andrew Kolbe" (29:32, 30:23) and "Andrew Kolvet" (28:36, 57:03) – **Andrew Kolvet** is the correct name per prior episodes.
 - **Name uncertainty:** Transcript uses "Erica Kirk" once (07:55); **Erika Kirk** is the canonical name.
 - **Artifact verbally referenced but not shown:** A-2060.1 (Charlie Kirk Sept 9 group text) and A-2061.1 (Mikey McCoy message) are referenced by the host but not displayed in this episode.
 - **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-1735) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Strife organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
@@ -927,4 +927,4 @@ New Nodes Introduced (Organizations): N-2392
 
 Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Tara Farnsworth, Justin Strife
 
-Legal Matter Placeholders: CASE_1 / LM-1000 (Blake Lively v. Justin Baldoni) — pending Phase 2 assignment
+Legal Matter Placeholders: CASE_1 / LM-1000 (Blake Lively v. Justin Baldoni) – pending Phase 2 assignment

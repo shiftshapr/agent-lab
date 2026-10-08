@@ -53,7 +53,7 @@
           "@type": "Artifact",
           "@id": "A-2086.1",
           "ref": "A-2086.1",
-          "description": "Sarah Tool first interview — Fox 13 — claims Charlie was shot \"directly in his heart,\" shooter to her right, single shot",
+          "description": "Sarah Tool first interview – Fox 13 – claims Charlie was shot \"directly in his heart,\" shooter to her right, single shot",
           "related_claims": [
             "C-2936"
           ],
@@ -73,7 +73,7 @@
           "@type": "Artifact",
           "@id": "A-2086.2",
           "ref": "A-2086.2",
-          "description": "Sarah Tool second interview — local media, ~51 minutes later — claims Charlie was shot \"in the neck,\" blood spurted across body",
+          "description": "Sarah Tool second interview – local media, ~51 minutes later – claims Charlie was shot \"in the neck,\" blood spurted across body",
           "related_claims": [
             "C-2937"
           ],
@@ -93,7 +93,7 @@
           "@type": "Artifact",
           "@id": "A-2086.3",
           "ref": "A-2086.3",
-          "description": "Sarah Tool ABC News interview — claims shooter was ~200 yards away, shot to left side of neck",
+          "description": "Sarah Tool ABC News interview – claims shooter was ~200 yards away, shot to left side of neck",
           "related_claims": [
             "C-2938"
           ],
@@ -222,7 +222,7 @@
           "@type": "Artifact",
           "@id": "A-2090.1",
           "ref": "A-2090.1",
-          "description": "Tim Dillon clip — parody reading titled \"God chose me by J. D. Vance,\" with Baal-sacrifice framing",
+          "description": "Tim Dillon clip – parody reading titled \"God chose me by J. D. Vance,\" with Baal-sacrifice framing",
           "related_claims": [],
           "related_nodes": [
             "N-443",
@@ -247,7 +247,7 @@
           "@type": "Artifact",
           "@id": "A-2091.1",
           "ref": "A-2091.1",
-          "description": "Erika current signature (post-Charlie era) — displayed on show as \"Erica Lane\" (transcript spelling, see Optional Flags)",
+          "description": "Erika current signature (post-Charlie era) – displayed on show as \"Erica Lane\" (transcript spelling, see Optional Flags)",
           "related_claims": [
             "C-2944"
           ],
@@ -266,7 +266,7 @@
           "@type": "Artifact",
           "@id": "A-2091.2",
           "ref": "A-2091.2",
-          "description": "Erika Miss Arizona era signature — displayed on show as visibly distinct from A-2091.1",
+          "description": "Erika Miss Arizona era signature – displayed on show as visibly distinct from A-2091.1",
           "related_claims": [
             "C-2944"
           ],
@@ -396,7 +396,7 @@
       "ref": "N-2074",
       "name": "Charlie Kirk Shirt Disposal Verification",
       "type": "investigation_target",
-      "description": "Persistent target: whether Charlie's \"freedom shirt\" — predicted to retain explosive residue under the mic-explosion hypothesis — was preserved as evidence or otherwise disposed of.",
+      "description": "Persistent target: whether Charlie's \"freedom shirt\" – predicted to retain explosive residue under the mic-explosion hypothesis – was preserved as evidence or otherwise disposed of.",
       "related_artifacts": [
         "A-2085.1"
       ],

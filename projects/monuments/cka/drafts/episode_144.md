@@ -37,7 +37,7 @@ Episode 144 Ledger Summary:
 - Claim Range: C-3313–C-3325
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-2209, N-2210, N-2211, N-2212
-- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terrell Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) — see Optional Flags
+- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terrell Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
 
@@ -361,7 +361,7 @@ Investigative Direction: Obtain the preliminary-hearing transcript and confirm t
 
 Claim Timestamp: 00:18:30–00:19:30
 
-Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office — not the court — created the 20-minute sizzle reel shown in court.
+Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
 
@@ -403,7 +403,7 @@ Investigative Direction: Verify the email's authenticity through metadata; corro
 
 Claim Timestamp: 00:19:30–00:20:30
 
-Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party — but not the court itself.
+Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
 
 Anchored Artifacts: A-2304.2, A-2305.1
 
@@ -496,7 +496,7 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger — requires human verification.
+- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
 - **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207..former local id 1217 never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-2209 (SD card chain of custody), N-2210 (aspect ratio modification), N-2211 (Terrell handling), N-2212 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.

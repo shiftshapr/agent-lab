@@ -119,7 +119,7 @@ Confidence Level: Medium (statement read aloud; full interview context not displ
 
 **A-1719** Nicki Minaj X Post Bundle
 
-**A-1719.1** Host-read X post from Nicki Minaj stating "Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God" — issued in context of Jay-Z being named in Epstein emails
+**A-1719.1** Host-read X post from Nicki Minaj stating "Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God" – issued in context of Jay-Z being named in Epstein emails
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -189,7 +189,7 @@ Confidence Level: High (verbatim quote; verifiable WikiLeaks archive)
 
 **A-1724** Jezebel Article Reference
 
-**A-1724.1** Referenced Jezebel article concerning a witch's curse against Charlie Kirk (reportedly involving an Etsy spell) — verbally referenced but not displayed
+**A-1724.1** Referenced Jezebel article concerning a witch's curse against Charlie Kirk (reportedly involving an Etsy spell) – verbally referenced but not displayed
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -236,7 +236,7 @@ Confidence Level: High
 
 *Related: C-2279, N-3*
 
-**A-1725.5** Comment from "Sneako" — single letter "W" (Win)
+**A-1725.5** Comment from "Sneako" – single letter "W" (Win)
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:58:27
@@ -942,7 +942,7 @@ Investigative Direction: Compare Thiel's Rogan account to the volume and content
 
 Claim Timestamp: 00:39:29
 
-Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 — not September 8 as Candace Owens had stated.
+Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 – not September 8 as Candace Owens had stated.
 
 Anchored Artifacts: A-1721.1
 Mentions: N-86, N-1, N-3
@@ -1146,7 +1146,7 @@ Investigative Direction: Locate the Jezebel article; verify date and content.
 
 Claim Timestamp: 01:00:34
 
-Claim: A YouTube comment from "We woke now" asserts that Charleston, South Carolina — known as "Little Jerusalem" — is home to the very first Jewish lodge, and that the slave market there is called "Checkmate" forming a "literal chessboard."
+Claim: A YouTube comment from "We woke now" asserts that Charleston, South Carolina – known as "Little Jerusalem" – is home to the very first Jewish lodge, and that the slave market there is called "Checkmate" forming a "literal chessboard."
 
 Anchored Artifacts: A-1725.6
 Mentions: N-3
@@ -1172,10 +1172,10 @@ Investigative Direction: Confirm in the James Lee clip that the shirt is the sho
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kolvet" / "Andrew Kolvetz" / "Kolbatz" — transcript shows multiple spellings across instances. Original TPUSA communications should be consulted to determine canonical spelling. N-42 (Kolvet) and N-42 (Kolbatz) are preserved as separate node identifiers pending resolution; this may indicate transcription error or two separate individuals.
-- **Artifact verbally referenced but not shown:** A-1724.1 (Jezebel article) — referenced by host as context for Charlie Kirk's behavior but not displayed on screen.
-- **Source unnamed:** A-1726.1, A-1726.2 — host's "source" with access to Dan Flood's messages and the building-neighbor sighting are referenced without on-air identification. Requires human verification.
-- **Transcript ambiguity:** C-2268 / C-2269 — host states Hammer confirmed Sept 9 for the text message but does not specify whether Hammer cited the screenshot timestamp directly or relied on memory.
+- **Name uncertainty:** "Andrew Kolvet" / "Andrew Kolvetz" / "Kolbatz" – transcript shows multiple spellings across instances. Original TPUSA communications should be consulted to determine canonical spelling. N-42 (Kolvet) and N-42 (Kolbatz) are preserved as separate node identifiers pending resolution; this may indicate transcription error or two separate individuals.
+- **Artifact verbally referenced but not shown:** A-1724.1 (Jezebel article) – referenced by host as context for Charlie Kirk's behavior but not displayed on screen.
+- **Source unnamed:** A-1726.1, A-1726.2 – host's "source" with access to Dan Flood's messages and the building-neighbor sighting are referenced without on-air identification. Requires human verification.
+- **Transcript ambiguity:** C-2268 / C-2269 – host states Hammer confirmed Sept 9 for the text message but does not specify whether Hammer cited the screenshot timestamp directly or relied on memory.
 - **Possible transcription error:** "Kolbatz" (likely "Kolvet" / "Kolvetz") appears in the chapter "Andrew Kolbatz and alleged Mikey McQuaid"; appears again later as "Andrew Kolvetz." N-42 records "Kolvet" as canonical; N-42 records "Kolbatz" as transcribed.
 - **Claim failed admission test:** Multiple host-stated claims about Freemasons, B'nai B'rith, Khazarian Empire, Baal worship, ritual sacrifice by "them," Star of David origins, CERN ritual activity, and WikiLeaks pizza code words (the latter asserted without artifact display) have not been inscribed as evidentiary claims per the Framing Premise and Rhetoric Removal tests. They appear in the source commentary but not in the Claim Register.
 - **Spelling preservation:** "Alaouite" dynasty spelling preserved exactly as in transcript (host acknowledged uncertainty).

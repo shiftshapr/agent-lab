@@ -44,7 +44,7 @@ Confidence: high
 
 **A-2164** Daily Mail Article Bundle
 
-**A-2164.1** Daily Mail article (headline and lede): "Erika hates Candace Owens… widow's private tirades… 'that B'… 'ugliest person in the world'… 'soulless ghoul'" — attributed to "a family friend"
+**A-2164.1** Daily Mail article (headline and lede): "Erika hates Candace Owens… widow's private tirades… 'that B'… 'ugliest person in the world'… 'soulless ghoul'" – attributed to "a family friend"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -54,7 +54,7 @@ Confidence Level: High (article read/displayed on air; specific quoted phrases)
 
 *Related: C-3083, C-3084, C-3086, C-3089, N-2142*
 
-**A-2164.2** Daily Mail article body — Erika's reported "compassion" and "overwhelming sadness" toward Tyler Robinson at his Utah courtroom appearance
+**A-2164.2** Daily Mail article body – Erika's reported "compassion" and "overwhelming sadness" toward Tyler Robinson at his Utah courtroom appearance
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -64,7 +64,7 @@ Confidence Level: High
 
 *Related: C-3085, N-2*
 
-**A-2164.3** Daily Mail article body — Erika's reported statements that she will not give Candace "an ounce of her energy"; comparisons to political opponents and to Tyler Robinson
+**A-2164.3** Daily Mail article body – Erika's reported statements that she will not give Candace "an ounce of her energy"; comparisons to political opponents and to Tyler Robinson
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -86,7 +86,7 @@ Confidence Level: High (image displayed)
 
 *Related: C-3087, C-3089, C-3104, N-2139*
 
-**A-2165.2** Side-by-side comparison photographs — recreation by host's team of nitrile glove appearance in a comparable door compartment
+**A-2165.2** Side-by-side comparison photographs – recreation by host's team of nitrile glove appearance in a comparable door compartment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -398,7 +398,7 @@ Investigative Direction: Treat as illustrative comparison only; not independent 
 
 ---
 
-**C-3089** The glove-like object in A-2165.1 is located on the left rear door — the same side where the host identifies Rick Cutler's seating position
+**C-3089** The glove-like object in A-2165.1 is located on the left rear door – the same side where the host identifies Rick Cutler's seating position
 
 Claim Timestamp: 00:06:20
 
@@ -506,7 +506,7 @@ Investigative Direction: Verify rental records for both SUVs (previously describ
 
 Claim Timestamp: 00:11:37
 
-Claim: Danny Philip — newly hired Turning Point USA employee — was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
+Claim: Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
 
 Anchored Artifacts: A-2167.1, A-2166.1
 Mentions: N-611, N-272

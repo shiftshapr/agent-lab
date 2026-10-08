@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - (see registers)
 
-# Episode 151 Analysis — "More Exclusive Footage! For Whatever It's Farnsworth… | Ep 386"
+# Episode 151 Analysis – "More Exclusive Footage! For Whatever It's Farnsworth… | Ep 386"
 
 ## I. Meta-Data
 
@@ -31,7 +31,7 @@
   - Claim Range: C-3426–C-3444
   - New Nodes Introduced: N-2317, N-2318, N-2319, N-2320
   - Reused Nodes Appearing: N-37
-  - Existing Nodes Reused (by name — IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
+  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3435, C-3436, C-3442, N-2317, Andrew Kolvet (existing node — ID resolution required)*
+*Related: C-3435, C-3436, C-3442, N-2317, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3427, N-2317, Tyler Bowyer (existing node — ID resolution required), N-37*
+*Related: C-3427, N-2317, Tyler Bowyer (existing node – ID resolution required), N-37*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3428, C-3442, N-2317, Andrew Kolvet (existing node — ID resolution required)*
+*Related: C-3428, C-3442, N-2317, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3429, N-2, Blake Neff (existing node — ID resolution required)*
+*Related: C-3429, N-2, Blake Neff (existing node – ID resolution required)*
 
 ---
 
@@ -155,13 +155,13 @@ Video Timestamp: 00:09:47–00:12:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3432, C-3433, C-3444, Frank Turek (existing node — ID resolution required), Brian Harpole (existing node — ID resolution required), Jeremy Boreing (existing node — ID resolution required)*
+*Related: C-3432, C-3433, C-3444, Frank Turek (existing node – ID resolution required), Brian Harpole (existing node – ID resolution required), Jeremy Boreing (existing node – ID resolution required)*
 
 ---
 
 ### A-2370 Terrell Farnsworth Sprinter Van Footage (enhanced)
 
-**A-2370.1** Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 — roughly 30 minutes after the event.
+**A-2370.1** Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 – roughly 30 minutes after the event.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -169,7 +169,7 @@ Video Timestamp: 00:19:51–00:20:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; footage provenance unverified in episode)
 
-*Related: C-3440, Terrell Farnsworth (existing node — ID resolution required)*
+*Related: C-3440, Terrell Farnsworth (existing node – ID resolution required)*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:16:28–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; host's frame-by-frame interpretations are interpretive)
 
-*Related: C-3437, C-3438, C-3439, C-3441, Officer Bagley (existing node — ID resolution required)*
+*Related: C-3437, C-3438, C-3439, C-3441, Officer Bagley (existing node – ID resolution required)*
 
 ---
 
@@ -374,7 +374,7 @@ Investigative Direction: Pull the full Boreing/Turek episode and reconcile with 
 
 Claim Timestamp: 00:11:54
 
-Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds" — shifting his account in the same interview segment.
+Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds" – shifting his account in the same interview segment.
 
 Anchored Artifacts: A-2369.1
 Mentions: N-16
@@ -462,7 +462,7 @@ Investigative Direction: Gait analysis of unenhanced source footage; consultatio
 
 Claim Timestamp: 00:19:51–00:20:41
 
-Claim: Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 — roughly 30 minutes after the event.
+Claim: Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 – roughly 30 minutes after the event.
 
 Anchored Artifacts: A-2370.1
 Mentions: N-410
@@ -525,6 +525,6 @@ Investigative Direction: Preserve both artifacts; treat host concurrence as sepa
 
 - Name uncertainty: "Blake Harif" vs "Blake Hariff" used inconsistently within the same segment; "Temponogus Hospital" / "Tempenogos" / "Tempenogo PD" appear interchangeably; "Erica Kirk" vs "Erika Kirk" used interchangeably by host.
 - Artifact verbally referenced but not shown: the Tempenogos nurse's email regarding a chest saw request; the viewer emails identifying the matching security-detail shoes as electrical-hazard models; the unnamed doctor's recusal referenced as carry-over from prior episode; the original SD-card / thumb-drive chain-of-custody record.
-- Transcript ambiguity: host repeatedly references "agencies" and "the feds" without specifying FBI vs ATF vs other; "SBI" referenced in prior episodes — not re-identified in this episode.
+- Transcript ambiguity: host repeatedly references "agencies" and "the feds" without specifying FBI vs ATF vs other; "SBI" referenced in prior episodes – not re-identified in this episode.
 - Requires human verification: timestamps on displayed footage (e.g., ~11:53 AM, ~1:00 PM) are host characterizations; provenance and metadata of the "enhanced" footage was not disclosed in this episode.
 - Claim failed admission test (flagged, not inscribed): host statements characterizing TPUSA as "grifting," "fundraising off vandalism," or "lying" were not inscribed as claims because they are framing/interpretive commentary; the host's rejection of the partisan attribution is captured under C-3428 / C-3436 / C-3442 as the specific content being rejected rather than as a separate rhetorical claim.

@@ -19,7 +19,7 @@ REPO = Path(__file__).resolve().parents[4]
 BOC = REPO / "projects" / "monuments" / "bride_of_charlie"
 CKA = REPO / "projects" / "monuments" / "cka"
 
-# BoC monument ep → (CKA seq, youtube_id) — locked to episode_manifest.json
+# BoC monument ep → (CKA seq, youtube_id) – locked to episode_manifest.json
 REMAP_ROWS: list[tuple[int, int, str]] = [
     (9, 1, "_dRaEO47-co"),
     (10, 2, "czVBmqZP6Ss"),
@@ -235,7 +235,7 @@ _(none)_
 
 ## 4. Node Register
 
-_(none — density via config/preflight_ledger_baseline.json)_
+_(none – density via config/preflight_ledger_baseline.json)_
 
 ## 5. Claim Register
 

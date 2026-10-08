@@ -455,7 +455,7 @@ Investigative Direction: Locate and preserve the original Megyn Kelly video and 
 
 Claim Timestamp: 00:06:30
 
-Claim: Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour — in which Shapiro challenged Megyn on stage — as "almost an act of bravery."
+Claim: Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour – in which Shapiro challenged Megyn on stage – as "almost an act of bravery."
 
 Anchored Artifacts: A-1380.1
 Mentions: N-61, N-133, N-75

@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1494.1",
           "ref": "A-1494.1",
-          "description": "Pentagon press briefing clip — Cam Higby asks Pentagon press secretary about a \"French military plot to assassinate Candace Owens\"",
+          "description": "Pentagon press briefing clip – Cam Higby asks Pentagon press secretary about a \"French military plot to assassinate Candace Owens\"",
           "related_claims": [
             "C-1831"
           ],
@@ -122,7 +122,7 @@
           "@type": "Artifact",
           "@id": "A-1497.1",
           "ref": "A-1497.1",
-          "description": "Ben Shapiro audio/video clip from Greg Gutfeld's show — French intelligence joke regarding Greg",
+          "description": "Ben Shapiro audio/video clip from Greg Gutfeld's show – French intelligence joke regarding Greg",
           "related_claims": [
             "C-1836"
           ],
@@ -321,7 +321,7 @@
       "ref": "N-1380",
       "name": "Wedi Machmood Identity Verification Question",
       "type": "investigation_target",
-      "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" — possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
+      "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],

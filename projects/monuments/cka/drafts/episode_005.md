@@ -55,7 +55,7 @@ Confidence: high
 
 ---
 
-**A-1113** BBC Article - Sherry Steel Bundle
+**A-1113** BBC Article – Sherry Steel Bundle
 
 **A-1113.1** BBC news article in which Sherry Steel describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.
 Event Timestamp: 2025-09-10 (evening)
@@ -285,7 +285,7 @@ Wife of Samuel Steele per host; co-owner of the doorbell-camera house.
 **N-115** Harley Pastnic
 
 Node Type: Person
-Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.
+Canadian subject of prior Owens research whose family is in the piping/valve business – cited as a pattern match.
 
 *Related: A-2517.1, C-3726*
 
@@ -800,7 +800,7 @@ Investigative Direction: FOIA requests to federal agencies; canvass Orem residen
 **C-1203** Steele family owns the doorbell-camera house
 
 Claim Timestamp: 00:14:59
-Claim: Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel — not Irwin Steel alone.
+Claim: Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel – not Irwin Steel alone.
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
 Mentions: N-108, N-113, N-114
@@ -929,7 +929,7 @@ Confidence: high
 Video Timestamp: 00:33:18
 Speaker: N-65
 Quote: while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.
-Context: Netanyahu labels the rumor 'insane / monstrous big lie' — canonical conspiracy-theorist deflection deployed against Owens and others.
+Context: Netanyahu labels the rumor 'insane / monstrous big lie' – canonical conspiracy-theorist deflection deployed against Owens and others.
 Tags: rhetoric_label
 Confidence: medium
 

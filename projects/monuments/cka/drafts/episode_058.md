@@ -140,7 +140,7 @@ Confidence Level: Medium
 
 **A-1639** Identity Crisis Documentary Bundle
 
-**A-1639.1** Identity Crisis Documentary (2024) Announcement — Ben Shapiro / Daily Wire + Turning Point USA Collaboration
+**A-1639.1** Identity Crisis Documentary (2024) Announcement – Ben Shapiro / Daily Wire + Turning Point USA Collaboration
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -154,7 +154,7 @@ Confidence Level: High
 
 **A-1640** Courage House Nevada Bundle
 
-**A-1640.1** Courage House Nevada Information / Website — 40-Acre Washoe County Property, Psychiatric Residential Treatment Facility, Capacity 18, Confidential Location
+**A-1640.1** Courage House Nevada Information / Website – 40-Acre Washoe County Property, Psychiatric Residential Treatment Facility, Capacity 18, Confidential Location
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -307,7 +307,7 @@ Investigative Pressure: Low
 
 **N-737** Priscilla Ann Nu'ul
 
-Name flagged as uncertainty — referenced in same sentence as "Miss Teen USA 2006" in cast discussion; relationship to other cast members unclear from transcript.
+Name flagged as uncertainty – referenced in same sentence as "Miss Teen USA 2006" in cast discussion; relationship to other cast members unclear from transcript.
 
 Evidence Count: 1
 Claim Count: 1
@@ -491,7 +491,7 @@ Investigative Pressure: Medium
 
 Claim Timestamp: 00:03:23–00:05:24
 
-Claim: Multiple identified members of the *November Renaissance* cast — including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum — have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
+Claim: Multiple identified members of the *November Renaissance* cast – including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum – have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
 
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-729, N-733, N-734, N-735, N-736, N-737
@@ -536,7 +536,7 @@ Investigative Direction: Archive the Kickstarter remnant directly and verify the
 
 Claim Timestamp: 00:11:15–00:14:14
 
-Claim: Three individuals with Fort Huachuca affiliation — including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 — report having seen Erika at Fort Huachuca.
+Claim: Three individuals with Fort Huachuca affiliation – including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 – report having seen Erika at Fort Huachuca.
 
 Anchored Artifacts: A-1635.1 (poster corroborates familiarity), A-1642.1 (related commenter testimony pattern)
 Mentions: N-2
@@ -545,7 +545,7 @@ Related Nodes: N-1488
 
 Investigative Direction: Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs.
 
-*Flag: Artifact verbally referenced but not shown — chain-of-custody description is host-paraphrased.*
+*Flag: Artifact verbally referenced but not shown – chain-of-custody description is host-paraphrased.*
 
 ---
 
@@ -583,7 +583,7 @@ Investigative Direction: Obtain the direct message or email text from Justin Str
 
 Claim Timestamp: 00:20:05–00:21:00
 
-Claim: Karl and Nelda Buckman gave a $10 million gift to Turning Point USA — described as the largest in the organization's history — and the Florida campus was renamed the "Buckman campus" in connection with the donation.
+Claim: Karl and Nelda Buckman gave a $10 million gift to Turning Point USA – described as the largest in the organization's history – and the Florida campus was renamed the "Buckman campus" in connection with the donation.
 
 Anchored Artifacts: A-1638.1
 Mentions: N-730, N-731
@@ -673,7 +673,7 @@ Investigative Direction: Obtain unedited source clip and verify the framing in t
 
 Claim Timestamp: 00:53:05–00:55:26
 
-Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years stationed at Fort Hood, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN — closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
+Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years stationed at Fort Hood, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN – closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
 
 Anchored Artifacts: A-1642.1
 Mentions: N-744

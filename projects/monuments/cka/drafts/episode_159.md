@@ -23,7 +23,7 @@
 
 ## 2. Executive Summary
 
-Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)—timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam—plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
+Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
 
 ## 6. Meme Register
 
@@ -72,7 +72,7 @@ Confidence Level: High (document as shown); Medium (payment-total discrepancy in
 
 **A-2468** Why Refi July 25 2025 Fall-Tour Addendum Bundle
 
-**A-2468.1** One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)—Laine Schoneberger spoke ~5 minutes at UVU pre-show per host.
+**A-2468.1** One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)–Laine Schoneberger spoke ~5 minutes at UVU pre-show per host.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:10
@@ -124,12 +124,12 @@ Confidence Level: High (transcript-as-read); Medium (full context beyond excerpt
 
 **A-2472** Scripps Media Dual Bodycam Release Bundle
 
-**A-2472.1** Same Scripps journalists (Lori Jane Gliha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash—host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.
+**A-2472.1** Same Scripps journalists (Lori Jane Gliha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash–host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link—host speculation)
+Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link–host speculation)
 
 *Related: C-3614, N-2364, N-69, N-2, N-53, N-54*
 
@@ -848,7 +848,7 @@ Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in th
 
 Claim Timestamp: 00:02:39
 
-Claim: Leaked Telegram shows Erika asking who the big hitters are and requesting a full donor list to make notes; staff reply with new six-figure donors sorted by MGO—host treats this as ending the pure grieving-widow narrative.
+Claim: Leaked Telegram shows Erika asking who the big hitters are and requesting a full donor list to make notes; staff reply with new six-figure donors sorted by MGO–host treats this as ending the pure grieving-widow narrative.
 
 Anchored Artifacts: A-2466.1
 Mentions: N-2
@@ -878,7 +878,7 @@ Investigative Direction: Hash/store contract PDFs; verify signatories and whethe
 
 Claim Timestamp: 00:20:10
 
-Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
+Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot–host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
 
 Anchored Artifacts: A-2468.1, A-2467.1
 Mentions: N-47, N-134
@@ -961,7 +961,7 @@ Investigative Direction: Continue pairing Vanity Fair private-criticism quotes w
 **C-3616** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
 
 Claim Timestamp: 01:03:21
-Claim: Viewer note + host source claim that Charlie had two Telegram accounts—one American-flag shared account and one personal—and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
+Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
 Anchored Artifacts: A-2473.1, A-2466.1
 Mentions: N-1, N-2, N-42, N-46
 Related Nodes: N-2360

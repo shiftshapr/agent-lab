@@ -13,7 +13,7 @@
     "transcript_sha256": "9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode centers on Candace Owens's presentation of three external source bundles — a YouTube channel called \"Be Inspired\" discussing Project Looking Glass / Y2K / Mandela Effect / The Matrix parallels; a written article plus accompanying video about a purported \"satanic human sacrifice\" staged at CERN's Large Hadron Collider grounds (with CERN's \"prank\" response); and a Daily Wire parody video dropped on Candace's old social media accounts that she characterizes as gangstalking. A short Mike Pompeo interview clip on framing history books regarding Gaza is also presented. The host uses these artifacts to advance a broader interpretive thesis about pre-2012 timeline convergence, the spiritual nature of elite conflict, and Charlie Kirk's apparent foreknowledge of his own death.\n\nMost evidentiary weight in this episode is carried by the Be Inspired clip and the CERN coverage; the Pompeo clip and Daily Wire video are presented as secondary supporting material. The episode references (but does not display in this episode) prior text-message artifacts involving Charlie Kirk that were shown in earlier episodes.\n\nThe structural importance of this episode lies in: (1) introducing the Project Looking Glass / 2012-bottleneck framework that the host explicitly links to Charlie's death; (2) presenting the CERN ritual claim as further corroboration of a satanic-scientific conspiracy thesis; and (3) flagging the Daily Wire video as part of an alleged ongoing \"stalking\" pattern.\n\n---",
+  "executive_summary": "This episode centers on Candace Owens's presentation of three external source bundles – a YouTube channel called \"Be Inspired\" discussing Project Looking Glass / Y2K / Mandela Effect / The Matrix parallels; a written article plus accompanying video about a purported \"satanic human sacrifice\" staged at CERN's Large Hadron Collider grounds (with CERN's \"prank\" response); and a Daily Wire parody video dropped on Candace's old social media accounts that she characterizes as gangstalking. A short Mike Pompeo interview clip on framing history books regarding Gaza is also presented. The host uses these artifacts to advance a broader interpretive thesis about pre-2012 timeline convergence, the spiritual nature of elite conflict, and Charlie Kirk's apparent foreknowledge of his own death.\n\nMost evidentiary weight in this episode is carried by the Be Inspired clip and the CERN coverage; the Pompeo clip and Daily Wire video are presented as secondary supporting material. The episode references (but does not display in this episode) prior text-message artifacts involving Charlie Kirk that were shown in earlier episodes.\n\nThe structural importance of this episode lies in: (1) introducing the Project Looking Glass / 2012-bottleneck framework that the host explicitly links to Charlie's death; (2) presenting the CERN ritual claim as further corroboration of a satanic-scientific conspiracy thesis; and (3) flagging the Daily Wire video as part of an alleged ongoing \"stalking\" pattern.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1628.1",
           "ref": "A-1628.1",
-          "description": "Be Inspired clip — Y2K intro and Mandela Effect segment",
+          "description": "Be Inspired clip – Y2K intro and Mandela Effect segment",
           "related_claims": [
             "C-2097",
             "C-2098",
@@ -46,7 +46,7 @@
           "@type": "Artifact",
           "@id": "A-1628.2",
           "ref": "A-1628.2",
-          "description": "Be Inspired clip — Project Looking Glass segment with Bill Wood testimony",
+          "description": "Be Inspired clip – Project Looking Glass segment with Bill Wood testimony",
           "related_claims": [
             "C-2097",
             "C-2098"
@@ -66,7 +66,7 @@
           "@type": "Artifact",
           "@id": "A-1628.3",
           "ref": "A-1628.3",
-          "description": "Be Inspired clip — The Matrix / 2012 convergence / CIA document segment",
+          "description": "Be Inspired clip – The Matrix / 2012 convergence / CIA document segment",
           "related_claims": [
             "C-2098",
             "C-2099"

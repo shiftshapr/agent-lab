@@ -21,7 +21,7 @@ This episode centers on a cease-and-desist letter sent to Candace Owens by Turni
 
 Two non-TPUSA pop-culture segments introduce additional evidentiary bundles: Brooklyn Beckham's Instagram Stories (read aloud) blasting his family over Nicola Peltz's wedding dress and brand-rights dispute, paired with excerpts from a Vogue wedding article read aloud to contest Beckham's "hijacked first dance" claim; and Taylor Swift's December 2024 text messages to Blake Lively concerning Justin Baldoni, read aloud in the context of the Lively–Baldoni litigation. A brief Aspen donor-recall update is also presented.
 
-The episode advances the Kirk investigation primarily through the TPUSA letter artifact, which constitutes a documentary position by TPUSA legal counsel that materially conflicts with Owens's stated obligations under the contract. Structural importance: high — this is the first on-air production of the TPUSA legal correspondence and creates a formal record of TPUSA's stated scope of prohibited speech.
+The episode advances the Kirk investigation primarily through the TPUSA letter artifact, which constitutes a documentary position by TPUSA legal counsel that materially conflicts with Owens's stated obligations under the contract. Structural importance: high – this is the first on-air production of the TPUSA legal correspondence and creates a formal record of TPUSA's stated scope of prohibited speech.
 
 ## 6. Meme Register
 
@@ -275,7 +275,7 @@ Investigative Pressure: Low
 
 **N-42** Andrew Kolvet
 
-Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain — transcript shows "Kovat," "Kovette," and "Kovat" variants.
+Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain – transcript shows "Kovat," "Kovette," and "Kovat" variants.
 
 Evidence Count: 0
 Claim Count: 0
@@ -366,7 +366,7 @@ Investigative Pressure: High
 
 **N-1507** TPUSA Faith Military Infiltration Claim
 
-Allegation cited in the TPUSA letter — that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.
+Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.
 
 Evidence Count: 1
 Claim Count: 2
@@ -512,7 +512,7 @@ Investigative Direction: Obtain the December 15, 2025 communication and any prio
 
 Claim Timestamp: 00:04:39
 
-Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money — specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
+Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money – specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
 
 Anchored Artifacts: A-1662.1
 Mentions: N-443

@@ -14,7 +14,7 @@
   - New Nodes Introduced:  N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
   - Reused Nodes Appearing: N-1, N-2
 
-# Episode Analysis: Monument Episode 76 — "Did Erika Kirk Know Jeffrey Epstein?"
+# Episode Analysis: Monument Episode 76 – "Did Erika Kirk Know Jeffrey Epstein?"
 
 ## I. Meta-Data
 
@@ -24,7 +24,7 @@
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2026-03-10
 - **Source Used for Analysis:** Transcript (cleaned via lexicon + paragraph merge; YouTube captions with video context) + Video (YouTube ID: ZzAT2xijKGQ)
-- **Transcript Completeness Status:** Complete — cleaned; music cues dropped; no invented words
+- **Transcript Completeness Status:** Complete – cleaned; music cues dropped; no invented words
 - **Analyst / Agent:** Investigative Analysis Agent
 - **Analysis Date:** 2026-03-11
 - **Duration:** 57:03
@@ -166,7 +166,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 
 ### **A-1817** Erika Kirk September 8 Tweet Bundle
 
-**A-1817.1** Erika Kirk tweet quoting Ephesians 4:5 ("By grace you have been saved through faith"), posted at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after A-1816.1 per host.
+**A-1817.1** Erika Kirk tweet quoting Ephesians 4:5 ("By grace you have been saved through faith"), posted at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after A-1816.1 per host.
 
 - Event Timestamp: 2025-09-08 10:49 AZ
 - Source Timestamp: 2025-09-08
@@ -226,7 +226,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 
 ### **A-1821** Blake Neff Producer Correction Bundle
 
-**A-1821.1** Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut — only the Twitter stream version was trimmed; the Rumble version remains intact.
+**A-1821.1** Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut – only the Twitter stream version was trimmed; the Rumble version remains intact.
 
 - Event Timestamp: 2026-03-10
 - Source Timestamp: 2026-03-10
@@ -270,7 +270,7 @@ Investigative Pressure: High
 
 **N-35** Jeffrey Epstein
 
-Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID — cross-reference required.
+Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID – cross-reference required.
 
 Evidence Count: 4
 Claim Count: 3
@@ -335,7 +335,7 @@ Investigative Pressure: Low
 
 **N-42** Andrew Kolvet
 
-Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID — cross-reference required.
+Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID – cross-reference required.
 
 Evidence Count: 1
 Claim Count: 2
@@ -348,7 +348,7 @@ Investigative Pressure: Medium
 
 **N-272** Mikey McCoy
 
-Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name "McCoy" in one instance and "McVoy" in another — see Optional Flags.
+Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name "McCoy" in one instance and "McVoy" in another – see Optional Flags.
 
 Evidence Count: 1
 Claim Count: 1
@@ -441,7 +441,7 @@ Investigative Pressure: High
 
 **N-1594** January 29 West Wing Meeting Subject
 
-Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 — the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?
+Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 – the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?
 
 Evidence Count: 1
 Claim Count: 2
@@ -612,7 +612,7 @@ Investigative Direction: Obtain the Jezebel article URL with timestamp metadata;
 
 Claim Timestamp: 00:39:30
 
-Claim: Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been saved through faith") at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after the Jezebel article (A-1816.1) appeared.
+Claim: Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been saved through faith") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.
 
 Anchored Artifacts: A-1817.1
 Mentions: N-2
@@ -737,8 +737,8 @@ Confidence: high
 ### Artifact Verbally Referenced but Not Displayed
 - 1997 pageant lawsuit referencing Epstein's presence at a meeting (C-1997-lawsuit not inscribed due to no anchor; flagged for human verification).
 - Text messages between Erika Kirk and Charlie Kirk on September 8 (alleged dinner texts) referenced but not shown. Flag for human verification.
-- "Someone read a background on Linda Rothschild" (A-1814.1) — underlying background document not displayed; only cited.
-- Specific Epstein–Kates emails (A-1812.1, A-1812.2) — referenced but not displayed; sample email containing the bar mitzvah invitation not shown.
+- "Someone read a background on Linda Rothschild" (A-1814.1) – underlying background document not displayed; only cited.
+- Specific Epstein–Kates emails (A-1812.1, A-1812.2) – referenced but not displayed; sample email containing the bar mitzvah invitation not shown.
 - Tip about Erika at Next Model Management (referred to but the underlying tip correspondence not shown).
 
 ### Timestamp Uncertainty
@@ -749,12 +749,12 @@ Confidence: high
 - "Frank Turick" likely "Frank Turek."
 
 ### Claim Failed Admission Test (Not Inscribed)
-- Host statement that Erika "pathologically lies" (00:44:00) — no per-claim artifact anchor; framing.
-- Host assertion that "something is not right with Erika" (00:29:14) — framing premise, not artifact-anchored.
-- Host's "vibes"/"spidey senses" framing re: September 8 presence (00:44:53) — interpretive commentary.
-- Host speculation re: Frank Turek being present during the Laura Ingram recording (00:40:08) — speculation, not artifact-anchored.
-- Host speculation re: Charlie having a "crisis" requiring a rabbi/pastor/priest within 48 hours (00:41:03) — speculation.
-- Host inference that Frank Turek was at the home with Charlie on September 8 (not in the Monday-night walk) — speculation.
+- Host statement that Erika "pathologically lies" (00:44:00) – no per-claim artifact anchor; framing.
+- Host assertion that "something is not right with Erika" (00:29:14) – framing premise, not artifact-anchored.
+- Host's "vibes"/"spidey senses" framing re: September 8 presence (00:44:53) – interpretive commentary.
+- Host speculation re: Frank Turek being present during the Laura Ingram recording (00:40:08) – speculation, not artifact-anchored.
+- Host speculation re: Charlie having a "crisis" requiring a rabbi/pastor/priest within 48 hours (00:41:03) – speculation.
+- Host inference that Frank Turek was at the home with Charlie on September 8 (not in the Monday-night walk) – speculation.
 
 ### Requires Human Verification
 - Verification that the September 8, 2025 Bears–Vikings game second half timing aligns with the Bears Show commentary timestamps.
