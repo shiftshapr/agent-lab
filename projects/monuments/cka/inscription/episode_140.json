@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2267.1",
           "ref": "A-2267.1",
-          "description": "Clarified still of parking-garage subject — clearer, uncompressed frame described as showing a \"broad\" individual",
+          "description": "Clarified still of parking-garage subject – clearer, uncompressed frame described as showing a \"broad\" individual",
           "related_claims": [
             "C-3260",
             "C-3261",
@@ -447,7 +447,7 @@
           "@type": "Artifact",
           "@id": "A-2276.1",
           "ref": "A-2276.1",
-          "description": "Audio excerpt from Dane Cook's 2006 Vicious Cycle HBO special — \"B&E\" skit, \"favorite shirt\" passage, \"chain-link fence\" passage",
+          "description": "Audio excerpt from Dane Cook's 2006 Vicious Cycle HBO special – \"B&E\" skit, \"favorite shirt\" passage, \"chain-link fence\" passage",
           "related_claims": [
             "C-3276"
           ],
@@ -826,7 +826,7 @@
       "@id": "C-3271",
       "ref": "C-3271",
       "label": "Candace Owens sent 104 tweets about Erica Kirk in the same period (per same tweet-counter source)",
-      "claim": "The host states she sent 104 tweets about Erica Kirk in the same 11-month window — presented as a comparison baseline against the 4,040 tweets by Britta Widener.",
+      "claim": "The host states she sent 104 tweets about Erica Kirk in the same 11-month window – presented as a comparison baseline against the 4,040 tweets by Britta Widener.",
       "anchored_artifacts": [
         "A-2273.3"
       ],

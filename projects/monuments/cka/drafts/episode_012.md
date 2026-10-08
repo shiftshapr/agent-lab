@@ -460,7 +460,7 @@ Investigative Direction: Capture and archive the LinkedIn profile as displayed; 
 
 ---
 
-**C-1327** A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah — on the "Buzzard and Bees" gothic-prom page.
+**C-1327** A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the "Buzzard and Bees" gothic-prom page.
 
 Claim Timestamp: 00:19:14–00:19:58
 

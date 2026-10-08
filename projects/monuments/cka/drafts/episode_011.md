@@ -34,7 +34,7 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 This episode advances the host's investigation into the Charlie Kirk shooting by introducing a vetted anonymous source who provides alternative narrative claims about Tyler Robinson's conduct around the time of his surrender. The host presents video artifacts including 2022 police bodycam footage of Tyler Robinson (used to challenge the authenticity of the "vehicle" language in the federal text messages), Brooksby's press-conference statements (used to identify an internal contradiction regarding Robinson's purported suicidality), and Lance's Instagram posts (used to substantiate the romantic relationship).
 
-The episode also introduces a new investigative thread centered on Utah politician Phil Lyman. Citing Phil Lyman's on-camera statements to Kaye McAney, Alex Jones, a local Utah outlet, and his own Instagram video, the host documents his repeated proximity to the scene and engages a new source — a 20-year-old UVU student ("Nick") who worked on Lyman's gubernatorial campaign — to recount an in-person visit by Lyman to Nick's home and a subsequent refusal to share imagery.
+The episode also introduces a new investigative thread centered on Utah politician Phil Lyman. Citing Phil Lyman's on-camera statements to Kaye McAney, Alex Jones, a local Utah outlet, and his own Instagram video, the host documents his repeated proximity to the scene and engages a new source – a 20-year-old UVU student ("Nick") who worked on Lyman's gubernatorial campaign – to recount an in-person visit by Lyman to Nick's home and a subsequent refusal to share imagery.
 
 A separate artifact family is opened around former Washington County Detective Mike Mitchell, whose identity Brooksby declined to disclose at press conference but who was located via a single retirement-celebration post from the Washington County Sheriff's Office. The host flags this as an investigative anomaly given the official's 24+ year career.
 
@@ -46,7 +46,7 @@ Structurally, the episode pivots from the Robinson family narrative into a new L
 
 ### A-1171 Police Bodycam Footage Bundle
 
-**A-1171.1** 2022 police bodycam footage of Tyler Robinson making a vehicle crash report; Robinson uses "my car" and his mother "shuttles" — contrasted with the federal text messages' use of "vehicle."
+**A-1171.1** 2022 police bodycam footage of Tyler Robinson making a vehicle crash report; Robinson uses "my car" and his mother "shuttles" – contrasted with the federal text messages' use of "vehicle."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -58,7 +58,7 @@ Confidence Level: High
 
 ### A-1172 Brooksby Press Conference Clip Bundle
 
-**A-1172.1** Brooksby press-conference audio clip — phone call from retired detective friend at 8:02 p.m. on the 11th.
+**A-1172.1** Brooksby press-conference audio clip – phone call from retired detective friend at 8:02 p.m. on the 11th.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -68,7 +68,7 @@ Confidence Level: High
 
 *Related: C-1299, C-1300, N-176, Nate Brooksby node*
 
-**A-1172.2** Brooksby press-conference audio clip — statement that during the call Tyler had "suicidal ideations" and was being directed to a remote Washington County area; parents convinced him otherwise.
+**A-1172.2** Brooksby press-conference audio clip – statement that during the call Tyler had "suicidal ideations" and was being directed to a remote Washington County area; parents convinced him otherwise.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -78,7 +78,7 @@ Confidence Level: High
 
 *Related: C-1301, C-1306, Nate Brooksby node*
 
-**A-1172.3** Brooksby press-conference audio clip — statement that Tyler came in willingly because he was "fearful of a SWAT team hit" and being shot by law enforcement; negotiation included a "delicate and as soft as possible" reception.
+**A-1172.3** Brooksby press-conference audio clip – statement that Tyler came in willingly because he was "fearful of a SWAT team hit" and being shot by law enforcement; negotiation included a "delicate and as soft as possible" reception.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -303,7 +303,7 @@ Investigative Pressure: High
 
 *Related: A-1174.1, C-1304, C-1305, Nate Brooksby node, Tyler Robinson node*
 
-**N-177** "Nick" (UVU Student — Pseudonym)
+**N-177** "Nick" (UVU Student – Pseudonym)
 
 Anonymous 20-year-old UVU student who worked on Phil Lyman's gubernatorial campaign and served as host's boots-on-the-ground contact; name withheld.
 
@@ -360,7 +360,7 @@ Investigative Pressure: High
 
 **N-1208** Brooksby Suicide Narrative Discrepancy
 
-Persistent discrepancy between Brooksby's claim that Tyler Robinson had "suicidal ideations" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot — two states that the host argues cannot coexist.
+Persistent discrepancy between Brooksby's claim that Tyler Robinson had "suicidal ideations" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot – two states that the host argues cannot coexist.
 
 Evidence Count: 2
 Claim Count: 3
@@ -393,7 +393,7 @@ Investigative Pressure: High
 
 **N-1211** UVU Campus Familiarity Question
 
-Persistent question (raised by host's source) regarding how Tyler Robinson — accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus — would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.
+Persistent question (raised by host's source) regarding how Tyler Robinson – accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus – would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.
 
 Evidence Count: 0
 Claim Count: 2
@@ -497,7 +497,7 @@ Investigative Direction: Conduct independent newspaper archive search (local Uta
 **C-1306** The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive
 
 Claim Timestamp: 00:06:15–00:06:30
-Claim: Host argues that the two Brooksby statements — that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot — cannot both be true simultaneously.
+Claim: Host argues that the two Brooksby statements – that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot – cannot both be true simultaneously.
 Anchored Artifacts: A-1172.2, A-1172.3
 Related Nodes: N-1208
 Investigative Direction: Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.
@@ -609,7 +609,7 @@ Claim Timestamp: 00:49:16
 Claim: Host expresses gratitude for Caitlyn Derrian's supportive comment and concurs with the framing.
 Anchored Artifacts: A-1182.2
 Related Nodes:
-Investigative Direction: N/A — rhetorical/statement of self-positioning, recorded for traceability only.
+Investigative Direction: N/A – rhetorical/statement of self-positioning, recorded for traceability only.
 *Optional Flag: Claim failed admission test for investigation; inscribed as a concurrence artifact only.*
 
 **C-1319** Host concurs with multiple commenters that the people closest to Charlie are not investigating
@@ -629,7 +629,7 @@ Claim: Host concurs with Bitsy's comment about a "stage" narrative; concurs with
 Anchored Artifacts: A-1182.4, A-1182.5
 Mentions: N-92
 Related Nodes:
-Investigative Direction: N/A — rhetorical/statement of self-positioning.
+Investigative Direction: N/A – rhetorical/statement of self-positioning.
 *Optional Flag: Claim failed admission test for investigation; inscribed as concurrence only.*
 
 ---
@@ -655,15 +655,15 @@ Confidence: high
 
 - **Nick's account of Phil Lyman visit**: Anchored only to host-relayed source testimony. Flagged at C-1314 and C-1315. Requires independent corroboration (doorbell footage, text logs, written statement from Nick).
 
-- **Transcript ambiguity — "L0y Center"**: Host refers to the UVU "Loy Center" (the building from which the alleged shot was taken). Name uncertain (likely "Losee Center" per common references; preserved as transcribed).
+- **Transcript ambiguity – "L0y Center"**: Host refers to the UVU "Loy Center" (the building from which the alleged shot was taken). Name uncertain (likely "Losee Center" per common references; preserved as transcribed).
 
-- **Transcript ambiguity — "Kaye Mcaney" / "Kaya"**: Phil Lyman's interviewer is transcribed as "Kaye Mcaney" (likely "Kaye McAnney" or a similar proper name). Preserved as transcribed. A commenter named "Kaya" is a separate individual later in the episode.
+- **Transcript ambiguity – "Kaye Mcaney" / "Kaya"**: Phil Lyman's interviewer is transcribed as "Kaye Mcaney" (likely "Kaye McAnney" or a similar proper name). Preserved as transcribed. A commenter named "Kaya" is a separate individual later in the episode.
 
-- **Transcript ambiguity — "Shamway"**: A person on the same street is transcribed as "Shamway." Name uncertain; preserved as transcribed.
+- **Transcript ambiguity – "Shamway"**: A person on the same street is transcribed as "Shamway." Name uncertain; preserved as transcribed.
 
-- **Transcript ambiguity — "Ian Carol"**: Likely refers to independent journalist Ian Caroll. Name preserved as transcribed; flagged as a possible transcription variant.
+- **Transcript ambiguity – "Ian Carol"**: Likely refers to independent journalist Ian Caroll. Name preserved as transcribed; flagged as a possible transcription variant.
 
-- **Transcript ambiguity — "Tiffany Peterson Barker"**: Witness referenced as such in the transcript; preserved exactly.
+- **Transcript ambiguity – "Tiffany Peterson Barker"**: Witness referenced as such in the transcript; preserved exactly.
 
 - **Nick identity protection**: Per protocol and host's stated intent, "Nick" is pseudonymized. Identity not yet warranted for inscription as a node field beyond the pseudonym.
 

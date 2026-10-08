@@ -273,7 +273,7 @@
           "@type": "Artifact",
           "@id": "A-2357.1",
           "ref": "A-2357.1",
-          "description": "Kanye West \"Power\" — verse 3 audio excerpt recited in host's analysis",
+          "description": "Kanye West \"Power\" – verse 3 audio excerpt recited in host's analysis",
           "related_claims": [
             "C-3425"
           ],
@@ -297,7 +297,7 @@
           "@type": "Artifact",
           "@id": "A-2358.1",
           "ref": "A-2358.1",
-          "description": "Movie 300 audio excerpt — Spartan \"beautiful death\" speech (Leonidas / Arcadian exchange)",
+          "description": "Movie 300 audio excerpt – Spartan \"beautiful death\" speech (Leonidas / Arcadian exchange)",
           "related_claims": [
             "C-3425"
           ],
@@ -363,7 +363,7 @@
           "@type": "Artifact",
           "@id": "A-2360.1",
           "ref": "A-2360.1",
-          "description": "Audio / description of Ye's Chicago concert during anniversary week — Kid Cudi on stage performing \"Ghost Town\"",
+          "description": "Audio / description of Ye's Chicago concert during anniversary week – Kid Cudi on stage performing \"Ghost Town\"",
           "related_claims": [
             "C-3413",
             "C-3422",
@@ -389,7 +389,7 @@
           "@type": "Artifact",
           "@id": "A-2361.1",
           "ref": "A-2361.1",
-          "description": "Older audio clip — Candace and Charlie: \"if you think you're going to outwork Candace Owens and Charlie Kirk, you're wrong\"",
+          "description": "Older audio clip – Candace and Charlie: \"if you think you're going to outwork Candace Owens and Charlie Kirk, you're wrong\"",
           "related_claims": [],
           "related_nodes": [
             "N-1",
@@ -484,7 +484,7 @@
       "ref": "N-1209",
       "name": "Robinson Apartment Staging Allegation",
       "type": "investigation_target",
-      "description": "Co-author of open letter (A-2352.1); native Russian speaker who reported an unusually high number of Russian-speaking attendees at Charlie's Arizona memorial. Relationship to Mappins not clarified in episode — flag name uncertainty.",
+      "description": "Co-author of open letter (A-2352.1); native Russian speaker who reported an unusually high number of Russian-speaking attendees at Charlie's Arizona memorial. Relationship to Mappins not clarified in episode – flag name uncertainty.",
       "related_artifacts": [
         "A-2352.1"
       ],
@@ -503,7 +503,7 @@
       "ref": "N-1210",
       "name": "Phil Lyman Proximity and Behavior Investigation",
       "type": "investigation_target",
-      "description": "Priest/spiritual advisor to host; present with her in Wyoming in mid-October; confirmed Charlie's death to her. Role identity based on host's phrase \"my priest tells me\" — partial identification only.",
+      "description": "Priest/spiritual advisor to host; present with her in Wyoming in mid-October; confirmed Charlie's death to her. Role identity based on host's phrase \"my priest tells me\" – partial identification only.",
       "related_artifacts": [
         "A-2351.1"
       ],

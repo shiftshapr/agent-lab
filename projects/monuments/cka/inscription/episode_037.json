@@ -13,7 +13,7 @@
     "transcript_sha256": "616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode develops the \"Operation Valhalla\" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking \"Valhalla\" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.\n\nThe episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dylan audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.\n\nStructurally, the episode is a connector episode — it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.\n\n---",
+  "executive_summary": "This episode develops the \"Operation Valhalla\" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking \"Valhalla\" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.\n\nThe episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dylan audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.\n\nStructurally, the episode is a connector episode – it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -58,7 +58,7 @@
           "@type": "Artifact",
           "@id": "A-1452.1",
           "ref": "A-1452.1",
-          "description": "Prager News Network Interview Segment — Charlie Kirk on Favorite Historical Figures",
+          "description": "Prager News Network Interview Segment – Charlie Kirk on Favorite Historical Figures",
           "related_claims": [
             "C-1771"
           ],
@@ -85,7 +85,7 @@
           "@type": "Artifact",
           "@id": "A-1453.1",
           "ref": "A-1453.1",
-          "description": "Kash Patel Press Conference Closing — \"See you in Valhalla\"",
+          "description": "Kash Patel Press Conference Closing – \"See you in Valhalla\"",
           "related_claims": [
             "C-1772"
           ],
@@ -145,7 +145,7 @@
           "@type": "Artifact",
           "@id": "A-1455.1",
           "ref": "A-1455.1",
-          "description": "News Clip — Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission",
+          "description": "News Clip – Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission",
           "related_claims": [
             "C-1776"
           ],
@@ -172,7 +172,7 @@
           "@type": "Artifact",
           "@id": "A-1456.1",
           "ref": "A-1456.1",
-          "description": "Video — Mike Huckabee and David Friedman Performing \"Sweet Home Alabama/Jerusalem\"",
+          "description": "Video – Mike Huckabee and David Friedman Performing \"Sweet Home Alabama/Jerusalem\"",
           "related_claims": [
             "C-1777"
           ],
@@ -199,7 +199,7 @@
           "@type": "Artifact",
           "@id": "A-1457.1",
           "ref": "A-1457.1",
-          "description": "Headline — \"American who spied for Israel says he met Ambassador Mike Huckabee\"",
+          "description": "Headline – \"American who spied for Israel says he met Ambassador Mike Huckabee\"",
           "related_claims": [
             "C-1778"
           ],
@@ -282,7 +282,7 @@
           "@type": "Artifact",
           "@id": "A-1460.1",
           "ref": "A-1460.1",
-          "description": "Audio Clip — Tim Dylan on Bari Weiss at CBS News",
+          "description": "Audio Clip – Tim Dylan on Bari Weiss at CBS News",
           "related_claims": [],
           "related_nodes": [
             "N-3",
@@ -540,7 +540,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1344",
       "ref": "N-1344",
-      "name": "Operation Valhalla — Charlie Kirk Assassination Timeline Connection",
+      "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
       "type": "investigation_target",
       "description": "Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel \"see you in Valhalla\" press conference statement.",
       "related_artifacts": [

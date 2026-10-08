@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: 
   - (see registers)
 
-# Episode 25 Analysis — Bride of Charlie Investigation
+# Episode 25 Analysis – Bride of Charlie Investigation
 
 ## I. Meta-Data
 
@@ -75,7 +75,7 @@ Confidence Level: High
 
 **A-1323** Audio Clip Bundle: Mikey McCoy on Asia Trip Documentation
 
-**A-1323.1** Mikey McCoy on-camera statement that he brought the camera for the first time on the Asia/Korea trip and mic'd Charlie up — described by Mikey as occurring "three, four days before Utah"
+**A-1323.1** Mikey McCoy on-camera statement that he brought the camera for the first time on the Asia/Korea trip and mic'd Charlie up – described by Mikey as occurring "three, four days before Utah"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -143,7 +143,7 @@ Confidence Level: Medium (underlying listing not displayed)
 
 ---
 
-**A-1328** Audio Clip Bundle: Tucker Carlson on Dave Smith — Theological Frame
+**A-1328** Audio Clip Bundle: Tucker Carlson on Dave Smith – Theological Frame
 
 **A-1328.1** Tucker Carlson on Dave Smith's show stating that collective punishment / blood guilt is antithetical to Christianity and to the western tradition, and that Israel (per Tucker's framing) does not hold a western position on this question
 
@@ -157,9 +157,9 @@ Confidence Level: High
 
 ---
 
-**A-1329** Audio Clip Bundle: Tucker Carlson on Dave Smith — Nick Fuentes Explanation
+**A-1329** Audio Clip Bundle: Tucker Carlson on Dave Smith – Nick Fuentes Explanation
 
-**A-1329.1** Tucker Carlson explaining that he interviewed Nick Fuentes — who had attacked Tucker's wife, son, and father — to demonstrate the Christian principle of forgiveness and the capacity for personal change
+**A-1329.1** Tucker Carlson explaining that he interviewed Nick Fuentes – who had attacked Tucker's wife, son, and father – to demonstrate the Christian principle of forgiveness and the capacity for personal change
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -219,7 +219,7 @@ Confidence Level: Medium (AI-generated; secondary)
 
 Chief of Staff of Turning Point USA; subject of repeated adjectival framing ("hero," "amazing," "brilliant") in post-9/10 memorial and TPUSA orbit coverage; alleged by host to have been positioned as Charlie Kirk's successor.
 
-Evidence Count: 3 (A-1321.1, A-1322.1, A-1323.1, A-1324.1 — note A-1324.1 involves Eliza but contextualizes Mikey)
+Evidence Count: 3 (A-1321.1, A-1322.1, A-1323.1, A-1324.1 – note A-1324.1 involves Eliza but contextualizes Mikey)
 Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
@@ -414,7 +414,7 @@ Investigative Pressure: High
 
 Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.
 
-Evidence Count: 1 (A-1330.1 — peripheral; A-1332.1 — tangential)
+Evidence Count: 1 (A-1330.1 – peripheral; A-1332.1 – tangential)
 Claim Count: 2 (C-1594, C-1595)
 Episode Count: 1
 Investigative Pressure: High (claim prominence) / Low (artifact strength)
@@ -472,7 +472,7 @@ Investigative Direction: Obtain the original Faith Forward Show episode; obtain 
 
 Claim Timestamp: 00:10:01–00:10:58
 
-Claim: Mikey McCoy stated on camera that the Asia/Korea trip — which he described as occurring "three, four days before Utah" — was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.
+Claim: Mikey McCoy stated on camera that the Asia/Korea trip – which he described as occurring "three, four days before Utah" – was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.
 
 Anchored Artifacts: A-1323.1
 Mentions: N-272, N-1
@@ -561,7 +561,7 @@ Investigative Direction: Obtain the full Dave Smith episode audio; verify the pr
 
 Claim Timestamp: 00:35:17–00:37:12
 
-Claim: Tucker Carlson stated that he interviewed Nick Fuentes — despite Fuentes's prior attacks on Tucker's wife, son, and father — to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.
+Claim: Tucker Carlson stated that he interviewed Nick Fuentes – despite Fuentes's prior attacks on Tucker's wife, son, and father – to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.
 
 Anchored Artifacts: A-1329.1
 Mentions: N-50, N-68, N-293
@@ -592,7 +592,7 @@ Claim Timestamp: 00:20:12–00:23:48
 
 Claim: Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.
 
-Anchored Artifacts: A-1330.1 (peripheral — Milo tweet on denial), host on-air confirmation statement
+Anchored Artifacts: A-1330.1 (peripheral – Milo tweet on denial), host on-air confirmation statement
 Mentions: N-334, N-102
 
 Related Nodes: N-1292
@@ -639,7 +639,7 @@ Confidence: high
 - **Requires human verification:** The Ventura County Star article on Rob McCoy's transition is read aloud from host's prepared material; original article text and publication date should be independently confirmed.
 - **Requires human verification:** The Eliza McCoy Instagram post (A-1324.1) is read aloud from host's prepared material; original post should be independently confirmed against the live Instagram account.
 - **Requires human verification:** The George Zinn hospital statement (A-1331.1, C-1593) rests on a single anonymous source per host; corroborating documentation is not displayed.
-- **Possible transcription error:** "Mira Epstein" — name does not appear in this transcript and may be a confusion with another reference; not inscribed as a node.
+- **Possible transcription error:** "Mira Epstein" – name does not appear in this transcript and may be a confusion with another reference; not inscribed as a node.
 - **Possible transcription error:** "Bill Aman" (likely Bill Ackman) referenced at 15:47; preserved as it appears in transcript.
 - **Name uncertainty:** "Sam Parker" (N-259) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
 - **AI-generated source:** Grock response (A-1332.1) is AI-generated and should be treated as secondary; primary corroboration required.

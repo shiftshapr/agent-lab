@@ -38,7 +38,7 @@
 
 This episode presents the host's announcement that Bradley Hansel, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Wuka") for El Paso, Texas. Hansel's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
 
-The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" — a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) — and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Deleto" burner X account is read.
+The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Deleto" burner X account is read.
 
 The episode's central investigative advance is the SAM702/Hansel identification. Its central investigative weakness is the absence of any on-air primary artifact (manifest, flight record image, or third-party confirmation) supporting that identification, which is flagged below.
 
@@ -592,7 +592,7 @@ Investigative Direction: Locate the @PierreDeleto account or its archived screen
 
 Claim Timestamp: 00:28:30
 
-Claim: Per host's displayed working timeline, on June 19 — the second day Charlie Kirk was at the White House arguing against Iran involvement — Erika Kirk purged her Instagram, deleting 126 posts.
+Claim: Per host's displayed working timeline, on June 19 – the second day Charlie Kirk was at the White House arguing against Iran involvement – Erika Kirk purged her Instagram, deleting 126 posts.
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-2
@@ -652,7 +652,7 @@ Investigative Direction: Verify Bain Capital founding investors list; cross-chec
 
 Claim Timestamp: 00:22:00
 
-Claim: Per the displayed on-screen graphic and host description, Orbis — a Washington-area security contractor — initially engaged BCG to help with a feasibility study for a new aid project.
+Claim: Per the displayed on-screen graphic and host description, Orbis – a Washington-area security contractor – initially engaged BCG to help with a feasibility study for a new aid project.
 
 Anchored Artifacts: A-2076.1
 
@@ -707,53 +707,53 @@ Confidence: high
 
 ## VI. Optional Flags
 
-1. **Name uncertainty — "Fort Wuka" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Wuka." Preserved as "Fort Wuka" where quoting host; standard spelling used elsewhere.
+1. **Name uncertainty – "Fort Wuka" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Wuka." Preserved as "Fort Wuka" where quoting host; standard spelling used elsewhere.
 
-2. **Name uncertainty — "Pete Hexath" / "Pete Hexths":** Host transcribes Pete Hegseth as "Pete Hexath" / "Pete Hexths." Preserved with flag; standard spelling Pete Hegseth used for node name with notation.
+2. **Name uncertainty – "Pete Hexath" / "Pete Hexths":** Host transcribes Pete Hegseth as "Pete Hexath" / "Pete Hexths." Preserved with flag; standard spelling Pete Hegseth used for node name with notation.
 
-3. **Name uncertainty — "Wedad Makmoud":** Host transcribes as "Wed Makmoud"; standard Arabic name likely "Wedad Mahmoud." Preserved as "Wedad Makmoud" per host; flag for transcription.
+3. **Name uncertainty – "Wedad Makmoud":** Host transcribes as "Wed Makmoud"; standard Arabic name likely "Wedad Mahmoud." Preserved as "Wedad Makmoud" per host; flag for transcription.
 
-4. **Name uncertainty — "Kristoff Schweizer":** Likely standard spelling "Kristoff Schweizer" (BCG CEO); preserved per host.
+4. **Name uncertainty – "Kristoff Schweizer":** Likely standard spelling "Kristoff Schweizer" (BCG CEO); preserved per host.
 
-5. **Name uncertainty — "James Catis":** Possibly "James Catis" or "James Kitis" or similar; preserved as host spelling.
+5. **Name uncertainty – "James Catis":** Possibly "James Catis" or "James Kitis" or similar; preserved as host spelling.
 
-6. **Name uncertainty — "Tacit Institute" / "Taclith Institute":** Host uses both; uncertain spelling; preserved as "Tacit/Taclith Institute."
+6. **Name uncertainty – "Tacit Institute" / "Taclith Institute":** Host uses both; uncertain spelling; preserved as "Tacit/Taclith Institute."
 
-7. **Name uncertainty — "Eric Stacleback" / "Eric Stelbach":** Host uncertain of spelling; likely TBN host; preserved as host spelling.
+7. **Name uncertainty – "Eric Stacleback" / "Eric Stelbach":** Host uncertain of spelling; likely TBN host; preserved as host spelling.
 
-8. **Name uncertainty — "Refi":** Host refers to "#1 sponsor" as "Refi"; meaning unclear.
+8. **Name uncertainty – "Refi":** Host refers to "#1 sponsor" as "Refi"; meaning unclear.
 
-9. **Name uncertainty — "SUBTU" / "SUBT, BTV" / "SUBTV":** Host uses inconsistent spellings for Egyptian plane designation; preserved.
+9. **Name uncertainty – "SUBTU" / "SUBT, BTV" / "SUBTV":** Host uses inconsistent spellings for Egyptian plane designation; preserved.
 
-10. **Artifact verbally referenced but not shown — SAM702 passenger manifest:** The episode's central investigative claim — that Bradley Hansel was aboard SAM702 on September 9, 2025 — is presented as host investigative finding based on flight tracking analysis. No manifest, document, screenshot, or third-party confirmation is shown on-air. **This claim failed the Artifact Anchor Test and was not inscribed in the Claim Register.**
+10. **Artifact verbally referenced but not shown – SAM702 passenger manifest:** The episode's central investigative claim – that Bradley Hansel was aboard SAM702 on September 9, 2025 – is presented as host investigative finding based on flight tracking analysis. No manifest, document, screenshot, or third-party confirmation is shown on-air. **This claim failed the Artifact Anchor Test and was not inscribed in the Claim Register.**
 
-11. **Requires human verification — Hansel-SAM702 identification:** Independent verification via DoD/DoW sources, public flight records, or third-party reporting required.
+11. **Requires human verification – Hansel-SAM702 identification:** Independent verification via DoD/DoW sources, public flight records, or third-party reporting required.
 
-12. **Possible transcription error — "Elaine Maxwell":** Almost certainly Ghislaine Maxwell; preserved per host with flag.
+12. **Possible transcription error – "Elaine Maxwell":** Almost certainly Ghislaine Maxwell; preserved per host with flag.
 
-13. **Possible transcription error — "Bina and Yahoo":** Auto-captions show "Bina and Yahoo" where context (chapter title "Charlie & Bibi's podcast circuit," reference to Netanyahu) indicates "Bibi Netanyahu."
+13. **Possible transcription error – "Bina and Yahoo":** Auto-captions show "Bina and Yahoo" where context (chapter title "Charlie & Bibi's podcast circuit," reference to Netanyahu) indicates "Bibi Netanyahu."
 
-14. **Possible transcription error — "Bane Capital":** Should be "Bain Capital"; preserved per host.
+14. **Possible transcription error – "Bane Capital":** Should be "Bain Capital"; preserved per host.
 
-15. **Possible transcription error — "Neelk Boys":** Should be "Nelk Boys"; preserved per host.
+15. **Possible transcription error – "Neelk Boys":** Should be "Nelk Boys"; preserved per host.
 
-16. **Possible transcription error — "BBNet and Yahoo":** Likely "Bibi Netanyahu"; preserved per transcript.
+16. **Possible transcription error – "BBNet and Yahoo":** Likely "Bibi Netanyahu"; preserved per transcript.
 
-17. **Possible transcription error — "Palunteer":** Should be "Palantir"; preserved per host.
+17. **Possible transcription error – "Palunteer":** Should be "Palantir"; preserved per host.
 
-18. **Possible transcription error — "Kier Starmer":** Should be "Keir Starmer"; preserved per host.
+18. **Possible transcription error – "Kier Starmer":** Should be "Keir Starmer"; preserved per host.
 
-19. **Possible transcription error — "Lex Freriedman" / "Lex Freedman":** Should be "Lex Fridman"; preserved per host.
+19. **Possible transcription error – "Lex Freriedman" / "Lex Freedman":** Should be "Lex Fridman"; preserved per host.
 
-20. **Possible transcription error — "Rathon and North Brunman":** Should be "Raytheon and Northrop Grumman"; preserved per host.
+20. **Possible transcription error – "Rathon and North Brunman":** Should be "Raytheon and Northrop Grumman"; preserved per host.
 
-21. **Timestamp uncertainty — A-2077.1 source publication date:** Host places Financial Times article on July 4, 2025 in his internal timeline (A-2076.2); FT's actual publication date not specified on-air.
+21. **Timestamp uncertainty – A-2077.1 source publication date:** Host places Financial Times article on July 4, 2025 in his internal timeline (A-2076.2); FT's actual publication date not specified on-air.
 
-22. **Transcript ambiguity — A-2076.1 visual content:** Host describes on-screen connection graphic in detail, but actual visual content cannot be independently confirmed from transcript alone.
+22. **Transcript ambiguity – A-2076.1 visual content:** Host describes on-screen connection graphic in detail, but actual visual content cannot be independently confirmed from transcript alone.
 
-23. **Requires human verification — TPUSA July 18 UVU submission (A-2084.1):** Host explicitly states she has not been able to independently confirm this; underlying paperwork not shown.
+23. **Requires human verification – TPUSA July 18 UVU submission (A-2084.1):** Host explicitly states she has not been able to independently confirm this; underlying paperwork not shown.
 
-24. **Requires human verification — Internal timeline entries (A-2076.2):** Most dated entries on the displayed timeline lack shown primary sources; require independent verification for each.
+24. **Requires human verification – Internal timeline entries (A-2076.2):** Most dated entries on the displayed timeline lack shown primary sources; require independent verification for each.
 
 ---
 

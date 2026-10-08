@@ -65,7 +65,7 @@ Secondary evidentiary material includes a documented N102DZ private jet movement
 
 **A-1301** SUBTT Flightradar Tracking Bundle (Yellow Plane)
 
-**A-1301.1** SUBTT — Falcon 7X (Egypt) arrival February 25, 2023, St. Louis, MO, via Paris from Cairo
+**A-1301.1** SUBTT – Falcon 7X (Egypt) arrival February 25, 2023, St. Louis, MO, via Paris from Cairo
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -145,7 +145,7 @@ Confidence Level: Medium
 
 *Related: C-1545, N-1273, N-1277*
 
-**A-1301.9** SUBTT arrival September 4, 2025, Provo, UT (12:46 PM local) — described as "full plane"
+**A-1301.9** SUBTT arrival September 4, 2025, Provo, UT (12:46 PM local) – described as "full plane"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -159,7 +159,7 @@ Confidence Level: Medium
 
 **A-1302** SUBND Flightradar Tracking Bundle (Blue Plane)
 
-**A-1302.1** SUBND — Gulfstream 4 (Egypt) arrival February 21, 2023, St. Louis, MO; remains until May 9, 2023
+**A-1302.1** SUBND – Gulfstream 4 (Egypt) arrival February 21, 2023, St. Louis, MO; remains until May 9, 2023
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -179,7 +179,7 @@ Confidence Level: Medium
 
 *Related: C-1546, N-1274*
 
-**A-1302.3** SUBND arrival May 23, 2025, Provo, UT — described by host as possible maintenance stop
+**A-1302.3** SUBND arrival May 23, 2025, Provo, UT – described by host as possible maintenance stop
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -607,7 +607,7 @@ Investigative Pressure: Medium
 
 **N-1277** Lincoln, Nebraska TPUSA Chapter Origin Question
 
-Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark - see Flag on A-1303.1).
+Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark – see Flag on A-1303.1).
 
 Evidence Count: 2
 Claim Count: 2
@@ -914,7 +914,7 @@ Investigative Direction: Verify the existence and details of any announced "Cour
 **C-1566** NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership
 
 Claim Timestamp: 00:13:18
-Claim: The host asserts — citing X researcher Village Crazy Lady — that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
+Claim: The host asserts – citing X researcher Village Crazy Lady – that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
 Anchored Artifacts: A-1307.1
 Mentions: N-97, N-302, N-45
 Related Nodes: N-1275, N-1276
@@ -937,24 +937,24 @@ Investigative Direction: Locate any public statement by Rob McCoy identifying hi
 
 # VI. Optional Flags
 
-**Flag — Artifact verbally referenced but not shown:**
+**Flag – Artifact verbally referenced but not shown:**
 - A-1304.1 (Mikey McCoy promotion email): Host states she possesses the email but does not display it.
 - A-1311.1 (Netanyahu public statement): Referenced as public, but specific video clip / transcript not displayed in this episode.
 
-**Flag — Transcript ambiguity / date conflict:**
+**Flag – Transcript ambiguity / date conflict:**
 - A-1303.1: Host displays a TPUSA UNL Instagram post and dates it February 11, 2024; director Mark corrects to May 2025 in the live segment. Both positions recorded in C-1548.
 
-**Flag — Possible transcription error / verbal correction in real time:**
+**Flag – Possible transcription error / verbal correction in real time:**
 - Initial host claim that SUBND departed "3 hours after Charlie was assassinated" was corrected in real time by producer Marcus to "3 days after." The 3-day figure is inscribed in C-1552.
 
-**Flag — Poster name not captured in transcript:**
+**Flag – Poster name not captured in transcript:**
 - A-1306.6: The live-chat comment reporting that Charlie flew into SLC for "Restaurantology Summit" was attributed by the host to "somebody made a comment" without naming the poster.
 
-**Flag — Requires human verification:**
+**Flag – Requires human verification:**
 - C-1553 (tail-number Google search from Israel on September 8, 2025): Source of host's claim not displayed; independent reproduction from Google Trends archives advisable.
 - C-1554 / C-1555 / C-1561 (N102DZ chain): Reconciliation between N102DZ passenger identity and Charlie Kirk's actual SLC itinerary on September 10, 2025 still partially unresolved pending verification of the "Restaurantology Summit" interview.
 
-**Flag — Claim failed admission test (not inscribed as artifact-backed claim):**
+**Flag – Claim failed admission test (not inscribed as artifact-backed claim):**
 - Host's framing claims that "foreign actors" killed Charlie Kirk, that TPUSA has been subjected to a "hostile takeover," that Christian Zionists are "at the helm" of an "infiltration," and that Turning Point was "taken out by something much bigger than Turning Point USA" are framing premises not anchored to displayed artifacts within this episode. Recorded in investigative pressure on N-1275 but not inscribed as artifact-backed claims.
 - Host's claim that "Tyler Bowyer majored in Soviet studies and is a fluent Russian speaker" and that he had workplace-misconduct allegations are biographical allegations not anchored to a displayed documentary artifact in this episode. Recorded on N-70 with an Episode-Count-only flag.
 

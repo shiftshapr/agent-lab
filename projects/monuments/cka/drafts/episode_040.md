@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: 
   - (see registers), N-37
 
-# Episode 40 — Ledger Summary
+# Episode 40 – Ledger Summary
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-1820–C-1830
@@ -70,7 +70,7 @@ Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first 
 
 **A-1490** Pentagon Press Briefing Bundle
 
-**A-1490.1** Pentagon press briefing clip — Cam Higby question and Kingsley Wilson response
+**A-1490.1** Pentagon press briefing clip – Cam Higby question and Kingsley Wilson response
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -102,7 +102,7 @@ Interviewer questions The Game about a track titled "The Assassination of Candac
 
 **A-1492** Fortune Article Bundle
 
-**A-1492.1** Fortune article — headline and direct quotation read aloud on air
+**A-1492.1** Fortune article – headline and direct quotation read aloud on air
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -118,7 +118,7 @@ Headline: "Inside the economics of Candace Owens's media empire and the Macron l
 
 **A-1493** Macron Public Calendar Reference
 
-**A-1493.1** Emmanuel Macron public calendar entry — phone call with Donald Trump on September 10, 2025
+**A-1493.1** Emmanuel Macron public calendar entry – phone call with Donald Trump on September 10, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -388,6 +388,6 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1493.1)**: Macron public calendar was referenced verbally by host but not directly displayed on air.
-- **Name uncertainty**: Host says "Andrew Kulvette" and later "Andrew Kovette" — preserve as heard; spelling not verified.
-- **Transcript ambiguity**: Host transcript contains "Project Veraritoss" — likely "Project Veritas" but preserved as written.
+- **Name uncertainty**: Host says "Andrew Kulvette" and later "Andrew Kovette" – preserve as heard; spelling not verified.
+- **Transcript ambiguity**: Host transcript contains "Project Veraritoss" – likely "Project Veritas" but preserved as written.
 - **Requires human verification**: The Fortune article (A-1492.1) needs full-text retrieval beyond the headline and one quoted passage.

@@ -48,7 +48,7 @@
           "@type": "Artifact",
           "@id": "A-1501.2",
           "ref": "A-1501.2",
-          "description": "Segment: Blake Nef response — Erika Kirk direction and in-person rationale",
+          "description": "Segment: Blake Nef response – Erika Kirk direction and in-person rationale",
           "related_claims": [
             "C-1839",
             "C-1840",
@@ -525,7 +525,7 @@
       "ref": "N-42",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "TPUSA figure referenced in connection with the live stream; spelling varies in transcript (\"Andrew Kovat,\" \"Andrew Kovette,\" \"Andrew Kovac\") — see Optional Flags.",
+      "description": "TPUSA figure referenced in connection with the live stream; spelling varies in transcript (\"Andrew Kovat,\" \"Andrew Kovette,\" \"Andrew Kovac\") – see Optional Flags.",
       "related_artifacts": [
         "A-1501.1",
         "A-1501.2"
@@ -569,7 +569,7 @@
       "ref": "N-490",
       "name": "Jacob Kasparian",
       "type": "person",
-      "description": "Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled \"Jordan Kasparian\" once in transcript — see Optional Flags.",
+      "description": "Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled \"Jordan Kasparian\" once in transcript – see Optional Flags.",
       "related_artifacts": [
         "A-1505.2",
         "A-1505.3",
@@ -1181,7 +1181,7 @@
       "@id": "C-1856",
       "ref": "C-1856",
       "label": "Only two videos of the alleged shooter on the roof exist",
-      "claim": "Per host recollection, there are only two videos showing the alleged shooter on the roof — one from the side showing a crouched figure holding a gun.",
+      "claim": "Per host recollection, there are only two videos showing the alleged shooter on the roof – one from the side showing a crouched figure holding a gun.",
       "anchored_artifacts": [
         "A-1509.1"
       ],

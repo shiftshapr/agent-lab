@@ -20,7 +20,7 @@
 
 ## 2. Executive Summary
 
-Episode 90 advances two distinct investigative threads within the Bride of Charlie series while devoting the latter third to non-investigative commentary on U.S. presidential rhetoric toward Pope Leo XIV. On the Tyler Robinson track, host Candace Owens presents and reads aloud from two court filings — the defense's Motion to Exclude Still Photography (filed March 30, 2026) and a state filing on forensic extractions of electronics — to argue that the federal arrest and booking timeline presented publicly is internally inconsistent with documentary timestamps. Specifically, the defense motion is read as showing Robinson being Mirandized at 6:25 p.m. on September 11, 2025, with attorney Doug Terry named, before the official public timeline indicates police had identified a suspect. A second filing excerpt is read aloud in which the state concedes it does not intend to offer forensic-extraction evidence from seized electronics at the preliminary hearing.
+Episode 90 advances two distinct investigative threads within the Bride of Charlie series while devoting the latter third to non-investigative commentary on U.S. presidential rhetoric toward Pope Leo XIV. On the Tyler Robinson track, host Candace Owens presents and reads aloud from two court filings – the defense's Motion to Exclude Still Photography (filed March 30, 2026) and a state filing on forensic extractions of electronics – to argue that the federal arrest and booking timeline presented publicly is internally inconsistent with documentary timestamps. Specifically, the defense motion is read as showing Robinson being Mirandized at 6:25 p.m. on September 11, 2025, with attorney Doug Terry named, before the official public timeline indicates police had identified a suspect. A second filing excerpt is read aloud in which the state concedes it does not intend to offer forensic-extraction evidence from seized electronics at the preliminary hearing.
 
 On the Turning Point USA / Erika Kirk track, the episode re-plays the Aspen audio clip of "I appoint my wife to run Turning Point USA" and presents host testimony that two Aspen-event donors contacted her to deny the statement occurred. The host also reads an Andrew Kolvet interview clip in which Kolvet admits pitches were received for a "Charlie GPT" product, and plays an internal Alliance Defending Freedom CEO video plus references an internal ADF board slide showing Daily Wire CEO Caleb Robinson on the board. Pope Leo XIV and Donald Trump are treated through artifact-anchored Truth Social posts, a papal video response, and a Trump press-conference clip defending an AI image. Structural importance: this episode formalizes the Tyler Robinson filing-timeline discrepancy as an artifact-anchored claim rather than a host inference and adds the federal forensic-extraction question to the registry.
 
@@ -41,7 +41,7 @@ Confidence Level: High
 
 *Related: C-2682, C-2683, C-2684, N-69, N-1668*
 
-**A-1948.2** State Filing — Preliminary Hearing Evidence Notice (re: forensic extractions)
+**A-1948.2** State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -55,7 +55,7 @@ Confidence Level: High
 
 **A-1949** Aspen Audio Bundle
 
-**A-1949.1** Audio recording — "I appoint my wife to run Turning Point USA if something happens to me"
+**A-1949.1** Audio recording – "I appoint my wife to run Turning Point USA if something happens to me"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -69,7 +69,7 @@ Confidence Level: Medium (audio-only; video withheld)
 
 **A-1950** Andrew Kolvet Interview Bundle
 
-**A-1950.1** Andrew Kolvet interview clip — "Charlie GPT" pitches & forcing Ben Shapiro interview
+**A-1950.1** Andrew Kolvet interview clip – "Charlie GPT" pitches & forcing Ben Shapiro interview
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -83,7 +83,7 @@ Confidence Level: Medium
 
 **A-1951** Alliance Defending Freedom Internal Materials Bundle
 
-**A-1951.1** ADF CEO internal video — discussing Candace Owens litigation coordination with Erika Kirk
+**A-1951.1** ADF CEO internal video – discussing Candace Owens litigation coordination with Erika Kirk
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -93,7 +93,7 @@ Confidence Level: Medium
 
 *Related: C-2687, N-2, N-3, N-1671*
 
-**A-1951.2** ADF internal board presentation slide — Caleb Robinson board seat
+**A-1951.2** ADF internal board presentation slide – Caleb Robinson board seat
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -121,7 +121,7 @@ Confidence Level: High
 
 **A-1953** Pope Leo XIV Response Bundle
 
-**A-1953.1** Pope Leo XIV video response — "Blessed are the peacemakers"
+**A-1953.1** Pope Leo XIV video response – "Blessed are the peacemakers"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -149,7 +149,7 @@ Confidence Level: High
 
 **A-1955** Discord Statement Bundle
 
-**A-1955.1** Discord statement published in The Hill — September 12, 2025
+**A-1955.1** Discord statement published in The Hill – September 12, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -183,7 +183,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:44–00:16:01
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: Low (verbally referenced only — no recording displayed)
+Confidence Level: Low (verbally referenced only – no recording displayed)
 
 *Related: C-2694, N-1, N-2, N-1669*
 

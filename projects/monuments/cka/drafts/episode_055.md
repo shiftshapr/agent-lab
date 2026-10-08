@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: 
   - (see registers)
 
-# Episode 55 — Analysis Record
+# Episode 55 – Analysis Record
 
 ## I. Meta-Data
 
@@ -840,7 +840,7 @@ Claim Timestamp: 00:19:23–00:20:09
 
 Claim: The host stated that Johnny Moore went to Hollywood in 2015 to work with Mark Burnett.
 
-Anchored Artifacts: (none — host statement)
+Anchored Artifacts: (none – host statement)
 Mentions: N-696, N-700
 
 
@@ -854,7 +854,7 @@ Claim Timestamp: 00:20:09
 
 Claim: The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.
 
-Anchored Artifacts: (none — host statement)
+Anchored Artifacts: (none – host statement)
 Mentions: N-700
 
 
@@ -908,13 +908,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty — "Sun Myung Moon":** Transcript renders the name as "Sunyong Moon," "Sun Young Moon," and "Sun Myung Moon." Preserved most plausible reading as Sun Myung Moon; flag for verification.
-- **Name uncertainty — "Andrew Kolbett":** Transcript renders the name as "Andrew Colbett's," "Andrew Kovette," "Andrew Kovac," "Andrew Kovat," and "Andrew Kovvet." Preserved as "Andrew Kolbett" as most plausible reading; flag.
-- **Name uncertainty — "Falwell Center":** Transcript renders the name as "Fall Kirk Center," "Falerk Center," and "Fallerk Center." Preserved as "Falwell Center" as most plausible reading; flag.
-- **Name uncertainty — "Jerry Falwell Jr.":** Transcript renders as "Jerry Fwell Jr." Preserved as Jerry Falwell Jr.; flag.
-- **Artifact verbally referenced but not shown:** Pre-born PSA statistics (A-1615.1), Nimi Skincare product claims (A-1616.1) — both shown via host read-aloud only; primary documents not presented.
-- **Requires human verification:** C-2073 (September 10 plot against Candace Owens) — serious allegation with no presented artifact; no corroborating court record cited.
-- **Requires human verification:** C-2071, C-2072 (Mark Burnett Hollywood employment and MGM chairmanship) — host assertions without supporting artifact.
-- **Requires human verification:** C-2074 (Turning Point USA estate solicitation) — host assertion without supporting artifact; comparison to Japan Unification Church pattern is interpretive.
-- **Claim failed admission test — interpretive commentary:** Multiple host framing claims about Moonies lineage (C-2055/C-2056) are anchored to a single read-aloud quote; full lineage interpretation remains interpretive, even with the artifact.
-- **Claim failed admission test — unsupported allegation:** C-2061 (Erica Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.
+- **Name uncertainty – "Sun Myung Moon":** Transcript renders the name as "Sunyong Moon," "Sun Young Moon," and "Sun Myung Moon." Preserved most plausible reading as Sun Myung Moon; flag for verification.
+- **Name uncertainty – "Andrew Kolbett":** Transcript renders the name as "Andrew Colbett's," "Andrew Kovette," "Andrew Kovac," "Andrew Kovat," and "Andrew Kovvet." Preserved as "Andrew Kolbett" as most plausible reading; flag.
+- **Name uncertainty – "Falwell Center":** Transcript renders the name as "Fall Kirk Center," "Falerk Center," and "Fallerk Center." Preserved as "Falwell Center" as most plausible reading; flag.
+- **Name uncertainty – "Jerry Falwell Jr.":** Transcript renders as "Jerry Fwell Jr." Preserved as Jerry Falwell Jr.; flag.
+- **Artifact verbally referenced but not shown:** Pre-born PSA statistics (A-1615.1), Nimi Skincare product claims (A-1616.1) – both shown via host read-aloud only; primary documents not presented.
+- **Requires human verification:** C-2073 (September 10 plot against Candace Owens) – serious allegation with no presented artifact; no corroborating court record cited.
+- **Requires human verification:** C-2071, C-2072 (Mark Burnett Hollywood employment and MGM chairmanship) – host assertions without supporting artifact.
+- **Requires human verification:** C-2074 (Turning Point USA estate solicitation) – host assertion without supporting artifact; comparison to Japan Unification Church pattern is interpretive.
+- **Claim failed admission test – interpretive commentary:** Multiple host framing claims about Moonies lineage (C-2055/C-2056) are anchored to a single read-aloud quote; full lineage interpretation remains interpretive, even with the artifact.
+- **Claim failed admission test – unsupported allegation:** C-2061 (Erica Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.

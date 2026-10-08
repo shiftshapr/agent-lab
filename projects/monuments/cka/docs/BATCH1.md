@@ -1,10 +1,10 @@
-# CKA Batch 1 — BoC remap (seq 1–10)
+# CKA Batch 1 – BoC remap (seq 1–10)
 
 ## Mapping (BoC monument ep → CKA seq)
 
 | BoC ep | CKA seq | kind | Candace Ep | YouTube id |
 |--------|---------|------|------------|------------|
-| 9 | 1 | kirk_special | — | `_dRaEO47-co` |
+| 9 | 1 | kirk_special | – | `_dRaEO47-co` |
 | 10 | 2 | numbered_show | 235 | `czVBmqZP6Ss` |
 | 11 | 3 | numbered_show | 236 | `q7f8r-THr84` |
 | 12 | 4 | numbered_show | 237 | `2WEHTk0Xewg` |
@@ -26,7 +26,7 @@ YouTube ids match `input/episode_manifest.json` and BoC transcript filenames. No
 | `drafts/.transcript_sha/episode_XXX.sha256` | Copied from BoC sidecars |
 | `drafts/episode_001–010.md` | Remapped metadata (monument `cka`, seq, YouTube id, Candace Ep); series label → Candace Kirk Archive; claim lens tags added where existing claim text matched `config/claim_lenses.json` |
 | `drafts/episode_000.md` | **New** ledger-only baseline (BoC eps 1–8 `New Nodes Introduced` order) for preflight intro order |
-| `config/preflight_ledger_baseline.json` | **New** density baseline (BoC 1–8 N-ids) — no duplicate register rows |
+| `config/preflight_ledger_baseline.json` | **New** density baseline (BoC 1–8 N-ids) – no duplicate register rows |
 | `inscription/episode_001–010.json` | Regenerated from CKA drafts via BoC `build_inscription_from_drafts.py` (meta patched for CKA) |
 | `inscription/episode_*_transcript*.txt` | Copied from BoC inscription twins (renamed to CKA seq) |
 | `canonical/nodes.json` | Filtered from BoC canonical for active register nodes; episode lists remapped to CKA seq |

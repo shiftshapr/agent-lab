@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1425.1",
           "ref": "A-1425.1",
-          "description": "White 2025 Toyota Camry — Arizona plate CWN-N9872",
+          "description": "White 2025 Toyota Camry – Arizona plate CWN-N9872",
           "related_claims": [
             "C-1735"
           ],
@@ -43,7 +43,7 @@
           "@type": "Artifact",
           "@id": "A-1425.2",
           "ref": "A-1425.2",
-          "description": "Silver 2025 Toyota RAV4 — Utah plate T09-2Zs",
+          "description": "Silver 2025 Toyota RAV4 – Utah plate T09-2Zs",
           "related_claims": [
             "C-1735"
           ],
@@ -61,7 +61,7 @@
           "@type": "Artifact",
           "@id": "A-1425.3",
           "ref": "A-1425.3",
-          "description": "White 2023 Toyota RAV4 — Utah plate T9-12-KM",
+          "description": "White 2023 Toyota RAV4 – Utah plate T9-12-KM",
           "related_claims": [
             "C-1735"
           ],
@@ -79,7 +79,7 @@
           "@type": "Artifact",
           "@id": "A-1425.4",
           "ref": "A-1425.4",
-          "description": "Black 2025 Toyota 4Runner — Utah plate Z-923-DA",
+          "description": "Black 2025 Toyota 4Runner – Utah plate Z-923-DA",
           "related_claims": [
             "C-1735"
           ],
@@ -97,7 +97,7 @@
           "@type": "Artifact",
           "@id": "A-1425.5",
           "ref": "A-1425.5",
-          "description": "Gray/silver 2025 Toyota 4Runner — Utah plate Z349-AAA",
+          "description": "Gray/silver 2025 Toyota 4Runner – Utah plate Z349-AAA",
           "related_claims": [
             "C-1735"
           ],
@@ -231,7 +231,7 @@
           "@type": "Artifact",
           "@id": "A-1429.2",
           "ref": "A-1429.2",
-          "description": "Blake Neff phone-call screenshot — call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)",
+          "description": "Blake Neff phone-call screenshot – call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)",
           "related_claims": [
             "C-1739"
           ],
@@ -257,7 +257,7 @@
           "@type": "Artifact",
           "@id": "A-1430.1",
           "ref": "A-1430.1",
-          "description": "Rob McCoy remarks at Jerusalem event on 2025-11-16 (framed as a celebration of Charlie Kirk's life) — Q&A excerpt addressing Tucker Carlson and Candace Owens",
+          "description": "Rob McCoy remarks at Jerusalem event on 2025-11-16 (framed as a celebration of Charlie Kirk's life) – Q&A excerpt addressing Tucker Carlson and Candace Owens",
           "related_claims": [
             "C-1740"
           ],
@@ -796,7 +796,7 @@
       "@id": "C-1743",
       "ref": "C-1743",
       "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
-      "claim": "Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.",
+      "claim": "Aaron Wexler – identified by host as the woman at the Hamptons retreat – posted the quoted line on X.",
       "anchored_artifacts": [
         "A-1433.1"
       ],

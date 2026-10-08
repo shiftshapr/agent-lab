@@ -95,7 +95,7 @@ Confidence Level: High
 
 *Related: C-2814*
 
-**A-2015.5** Point 29 — assertion that Harpole is a private citizen and not a limited-purpose public figure
+**A-2015.5** Point 29 – assertion that Harpole is a private citizen and not a limited-purpose public figure
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -105,7 +105,7 @@ Confidence Level: High
 
 *Related: C-2815, N-1719*
 
-**A-2015.6** Point 28 — citation of Harpole's November 17 Sean Ryan appearance as defensive response to "Owens and other conspiracy theorists"
+**A-2015.6** Point 28 – citation of Harpole's November 17 Sean Ryan appearance as defensive response to "Owens and other conspiracy theorists"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -115,7 +115,7 @@ Confidence Level: High
 
 *Related: C-2816, C-2817*
 
-**A-2015.7** Point 50/59 — explanation that Harpole did not respond to Candace's texts to avoid giving her exclusive content
+**A-2015.7** Point 50/59 – explanation that Harpole did not respond to Candace's texts to avoid giving her exclusive content
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -125,7 +125,7 @@ Confidence Level: High
 
 *Related: C-2819*
 
-**A-2015.8** Points 54-55 — embedded text messages from Candace Owens to Brian Harpole
+**A-2015.8** Points 54-55 – embedded text messages from Candace Owens to Brian Harpole
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -135,7 +135,7 @@ Confidence Level: High
 
 *Related: C-2818, N-3*
 
-**A-2015.9** Point 63 — allegation that Candace's "Fort Huachuca confirmed" X post claimed proof that Snow was telling the truth about Harpole
+**A-2015.9** Point 63 – allegation that Candace's "Fort Huachuca confirmed" X post claimed proof that Snow was telling the truth about Harpole
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -199,7 +199,7 @@ Confidence Level: High
 
 ---
 
-### **A-2018** Candace Podcast Episode — September Defense of Security Bundle
+### **A-2018** Candace Podcast Episode – September Defense of Security Bundle
 
 Audio of Candace's contemporaneous September 2025 podcast episode in which she defended the TPUSA security team (including Dan Flood) against hand-signal conspiracy theories.
 
@@ -241,7 +241,7 @@ Confidence Level: High
 
 ---
 
-### **A-2020** Candace X Post — Fort Huachuca Confirmed Bundle
+### **A-2020** Candace X Post – Fort Huachuca Confirmed Bundle
 
 X post made by Candace Owens on December 23, 2025 stating Fort Huachuca was confirmed but explicitly not confirming Snow's identification.
 
@@ -407,9 +407,9 @@ Confidence Level: Medium
 
 Subject of the broader investigation; pre-existing node from prior episodes.
 
-Evidence Count: (reused — not recounted)
-Claim Count: (reused — not recounted)
-Episode Count: (reused — not recounted)
+Evidence Count: (reused – not recounted)
+Claim Count: (reused – not recounted)
+Episode Count: (reused – not recounted)
 Investigative Pressure: High
 
 *Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-3, N-1725*
@@ -495,7 +495,7 @@ Investigative Pressure: Medium
 
 **N-1725** Charlie Kirk September 9 Pre-Event Threat Text
 
-Claimed text from Charlie Kirk to security the night before the September 10 event stating "I think I'm going to be killed" — referenced by Candace in arguing Harpole's incompetence claim.
+Claimed text from Charlie Kirk to security the night before the September 10 event stating "I think I'm going to be killed" – referenced by Candace in arguing Harpole's incompetence claim.
 
 Evidence Count: 1
 Claim Count: 1
@@ -862,12 +862,12 @@ Investigative Direction: Verify the post's date, persistence, and any replies or
 
 ## VI. Optional Flags
 
-- **Name uncertainty — Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpold" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
-- **Name uncertainty — Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
-- **Name uncertainty (Matt Slauson vs. Matt Christiansen):** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes (former local id 1208, former local id 1229) pending verification of whether they refer to the same individual.
-- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk — including the McCoy-to-Kolvet recommendation — is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-1724).
+- **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpold" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
+- **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
+- **Name uncertainty – Matt Slauson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes (former local id 1208, former local id 1229) pending verification of whether they refer to the same individual.
+- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-1724).
 - **Timestamp estimation:** Some artifact timestamps were approximated where the host transitions between quoted passages without discrete visual cues.
-- **Transcript ambiguity — "the morning of September 9":** Harpole's alleged Fort Huachuca presence is repeatedly dated to "the morning of September 9" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.
+- **Transcript ambiguity – "the morning of September 9":** Harpole's alleged Fort Huachuca presence is repeatedly dated to "the morning of September 9" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.
 - **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-1718.
 - **Lawsuit characterization caveat:** Host assertions regarding the lawsuit's strategic intent (PR-booth theory) are interpretive commentary and have not been inscribed as artifact-backed claims.
 

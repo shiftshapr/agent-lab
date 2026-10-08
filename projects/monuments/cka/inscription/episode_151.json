@@ -244,7 +244,7 @@
           "@type": "Artifact",
           "@id": "A-2370.1",
           "ref": "A-2370.1",
-          "description": "Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 — roughly 30 minutes after the event.",
+          "description": "Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 – roughly 30 minutes after the event.",
           "related_claims": [
             "C-3440"
           ],
@@ -740,7 +740,7 @@
       "@id": "C-3433",
       "ref": "C-3433",
       "label": "Frank Turek partially backtracked on CPR claim",
-      "claim": "Frank Turek conceded \"Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds\" — shifting his account in the same interview segment.",
+      "claim": "Frank Turek conceded \"Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds\" – shifting his account in the same interview segment.",
       "anchored_artifacts": [
         "A-2369.1"
       ],
@@ -855,7 +855,7 @@
       "@id": "C-3440",
       "ref": "C-3440",
       "label": "Terrell Farnsworth observed on laptop in Mercedes Sprinter van at ~1:00 PM",
-      "claim": "Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 — roughly 30 minutes after the event.",
+      "claim": "Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 – roughly 30 minutes after the event.",
       "anchored_artifacts": [
         "A-2370.1"
       ],

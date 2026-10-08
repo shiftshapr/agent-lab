@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1283.1",
           "ref": "A-1283.1",
-          "description": "Pre-existing 2021 TPUSA Wikipedia section — \"Charlie Kirk founded TPUSA Faith\"",
+          "description": "Pre-existing 2021 TPUSA Wikipedia section – \"Charlie Kirk founded TPUSA Faith\"",
           "related_claims": [
             "C-1515"
           ],
@@ -44,7 +44,7 @@
           "@type": "Artifact",
           "@id": "A-1283.2",
           "ref": "A-1283.2",
-          "description": "Updated TPUSA Wikipedia entry — Rob McCoy as TPUSA Faith co-founder",
+          "description": "Updated TPUSA Wikipedia entry – Rob McCoy as TPUSA Faith co-founder",
           "related_claims": [
             "C-1514",
             "C-1524"
@@ -100,7 +100,7 @@
           "@type": "Artifact",
           "@id": "A-1285.1",
           "ref": "A-1285.1",
-          "description": "Trump's Truth Social post about TPUSA being investigated by \"deranged Jack Smith\" — only post found in search related to \"investigation\"",
+          "description": "Trump's Truth Social post about TPUSA being investigated by \"deranged Jack Smith\" – only post found in search related to \"investigation\"",
           "related_claims": [
             "C-1518"
           ],
@@ -153,7 +153,7 @@
           "@type": "Artifact",
           "@id": "A-1287.1",
           "ref": "A-1287.1",
-          "description": "Audio clip — Don Trump Jr. on Megyn Kelly initially deflecting, then expressing confidence in FBI investigation",
+          "description": "Audio clip – Don Trump Jr. on Megyn Kelly initially deflecting, then expressing confidence in FBI investigation",
           "related_claims": [
             "C-1522",
             "C-1523",
@@ -182,7 +182,7 @@
           "@type": "Artifact",
           "@id": "A-1288.1",
           "ref": "A-1288.1",
-          "description": "Trailer audio clip — Finkelstein quotes The Economist describing Gaza as \"a human rubbish heap,\" UN official \"toxic dump,\" and discusses \"billionaire class of Jewish supremacists\" using money to silence critics",
+          "description": "Trailer audio clip – Finkelstein quotes The Economist describing Gaza as \"a human rubbish heap,\" UN official \"toxic dump,\" and discusses \"billionaire class of Jewish supremacists\" using money to silence critics",
           "related_claims": [
             "C-1526"
           ],
@@ -466,7 +466,7 @@
       "@id": "C-1514",
       "ref": "C-1514",
       "label": "TPUSA Wikipedia Entry Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith",
-      "claim": "The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 — less than 36 hours after Charlie Kirk's death — to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.",
+      "claim": "The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 – less than 36 hours after Charlie Kirk's death – to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.",
       "anchored_artifacts": [
         "A-1283.2"
       ],
@@ -603,7 +603,7 @@
       "@id": "C-1521",
       "ref": "C-1521",
       "label": "Trump Established October 14 as a National Day of Remembrance for Charlie Kirk",
-      "claim": "President Trump signed or otherwise established October 14 — Charlie Kirk's birthday — as a national day of remembrance for Charlie Kirk.",
+      "claim": "President Trump signed or otherwise established October 14 – Charlie Kirk's birthday – as a national day of remembrance for Charlie Kirk.",
       "anchored_artifacts": [
         "A-1289.1"
       ],
@@ -676,7 +676,7 @@
       "@id": "C-1525",
       "ref": "C-1525",
       "label": "Host Characterizes Don Trump Jr.'s Confidence Statement as Inconsistent With What He Would Say If He Believed the Official Narrative",
-      "claim": "The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account — specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.",
+      "claim": "The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account – specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.",
       "anchored_artifacts": [
         "A-1287.1"
       ],

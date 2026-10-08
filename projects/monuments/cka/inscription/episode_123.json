@@ -13,7 +13,7 @@
     "transcript_sha256": "93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown — a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" — directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
+  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2110.1",
           "ref": "A-2110.1",
-          "description": "Photo 1 — Uber bag with blood (back seat) and coat hanger",
+          "description": "Photo 1 – Uber bag with blood (back seat) and coat hanger",
           "related_claims": [
             "C-2986",
             "C-2987",
@@ -48,7 +48,7 @@
           "@type": "Artifact",
           "@id": "A-2110.2",
           "ref": "A-2110.2",
-          "description": "Photo 2 — Cardboard-colored piece and adjacent black bag (back seat)",
+          "description": "Photo 2 – Cardboard-colored piece and adjacent black bag (back seat)",
           "related_claims": [
             "C-2990",
             "C-2992"
@@ -68,7 +68,7 @@
           "@type": "Artifact",
           "@id": "A-2110.3",
           "ref": "A-2110.3",
-          "description": "Photo 3 — Shattered tempered glass between front captain chairs",
+          "description": "Photo 3 – Shattered tempered glass between front captain chairs",
           "related_claims": [
             "C-2986",
             "C-2994"
@@ -90,7 +90,7 @@
           "@type": "Artifact",
           "@id": "A-2110.4",
           "ref": "A-2110.4",
-          "description": "Photo 4 — Foil-like material visible under floor mat",
+          "description": "Photo 4 – Foil-like material visible under floor mat",
           "related_claims": [
             "C-2991"
           ],
@@ -116,7 +116,7 @@
           "@type": "Artifact",
           "@id": "A-2111.1",
           "ref": "A-2111.1",
-          "description": "Closeup — Cardboard-colored piece, brown/burnt appearance",
+          "description": "Closeup – Cardboard-colored piece, brown/burnt appearance",
           "related_claims": [
             "C-2990"
           ],
@@ -135,7 +135,7 @@
           "@type": "Artifact",
           "@id": "A-2111.2",
           "ref": "A-2111.2",
-          "description": "Closeup — Black bag (Uber bag area)",
+          "description": "Closeup – Black bag (Uber bag area)",
           "related_claims": [
             "C-2987"
           ],
@@ -153,7 +153,7 @@
           "@type": "Artifact",
           "@id": "A-2111.3",
           "ref": "A-2111.3",
-          "description": "Closeup — Foil-like material, described as coppery",
+          "description": "Closeup – Foil-like material, described as coppery",
           "related_claims": [
             "C-2991"
           ],
@@ -171,7 +171,7 @@
           "@type": "Artifact",
           "@id": "A-2111.4",
           "ref": "A-2111.4",
-          "description": "Closeup — Black tempered glass particles in center of vehicle",
+          "description": "Closeup – Black tempered glass particles in center of vehicle",
           "related_claims": [
             "C-2986",
             "C-2994"
@@ -219,7 +219,7 @@
           "@type": "Artifact",
           "@id": "A-2114.2",
           "ref": "A-2114.2",
-          "description": "Viewer comment (Vicky Blair) — \"nearly impossible to drive 60, 80, 100 miles and still have the car door open\"",
+          "description": "Viewer comment (Vicky Blair) – \"nearly impossible to drive 60, 80, 100 miles and still have the car door open\"",
           "related_claims": [
             "C-2997"
           ],
@@ -237,7 +237,7 @@
           "@type": "Artifact",
           "@id": "A-2114.3",
           "ref": "A-2114.3",
-          "description": "Viewer comment (Joe Philly / \"Phyisetti\") — ground cleanup theory",
+          "description": "Viewer comment (Joe Philly / \"Phyisetti\") – ground cleanup theory",
           "related_claims": [
             "C-2994"
           ],
@@ -638,7 +638,7 @@
       "@id": "C-2996",
       "ref": "C-2996",
       "label": "Charlie Kirk Stated in Prior Interview That Erika Told Him \"God Wants You to Have Your Phone On\"",
-      "claim": "In a prior interview (clip played during episode), Charlie Kirk described how Erika told him God wanted his phone on during a Saturday — relevant to the Butler shooting anecdote.",
+      "claim": "In a prior interview (clip played during episode), Charlie Kirk described how Erika told him God wanted his phone on during a Saturday – relevant to the Butler shooting anecdote.",
       "anchored_artifacts": [
         "A-2113"
       ],

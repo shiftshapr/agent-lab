@@ -42,7 +42,7 @@
 
 Episode 148 is positioned two days before the one-year anniversary of Charlie Kirk's death and bundles two artifact-anchored investigative threads with a large Ye/Kanye cultural segment. The first thread is a Deseret News profile piece on Blake Neff that the host reads into the record, in which Neff describes being in the Orem, Utah hospital waiting room on September 10, 2025, and reports that he and others were discussing how Candace Owens would react to Charlie's death. Neff additionally characterizes some of Candace's views, including her theories about France's first lady and "weird stuff about Jewish cults," and attributes TPUSA's reduced involvement with Owens around 2024 to those views. The second thread is Erika Kirk's New York Times op-ed reflecting on her grief one year later; the host quotes the op-ed at length and observes multiple Usha Vance references and a recurring "15 minutes" refrain.
 
-Secondary evidentiary material includes a Blake Neff X post calling the host "seven vacations a year Owens," a brief hotel-lobby video involving the host and Kim Kardashian, a 2013 Kanye West BBC interview clip on self-esteem, a TMZ clip of Ye introducing Candace, a Charlie Kirk clip criticizing the New York Times, and read-aloud viewer comments — including one flagging a forthcoming Salem Media / "Waterstone" documentary titled "Can You Hear Me Now?" The episode is structurally important as a pre-anniversary consolidation of discrepancies surrounding the September 10 hospital sequence and Erika Kirk's evolving public posture.
+Secondary evidentiary material includes a Blake Neff X post calling the host "seven vacations a year Owens," a brief hotel-lobby video involving the host and Kim Kardashian, a 2013 Kanye West BBC interview clip on self-esteem, a TMZ clip of Ye introducing Candace, a Charlie Kirk clip criticizing the New York Times, and read-aloud viewer comments – including one flagging a forthcoming Salem Media / "Waterstone" documentary titled "Can You Hear Me Now?" The episode is structurally important as a pre-anniversary consolidation of discrepancies surrounding the September 10 hospital sequence and Erika Kirk's evolving public posture.
 
 ---
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:03:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393 (host narrative framing only - no inscribed investigative claim), N-56*
+*Related: C-3393 (host narrative framing only – no inscribed investigative claim), N-56*
 
 **A-2341.2** "Famous" Crowd Performance Clip
 
@@ -475,7 +475,7 @@ Investigative Direction: Confirm the quoted sentence in the op-ed directly; cros
 
 Claim Timestamp: 00:43:25
 
-Claim: In her NYT op-ed, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief — that the worst stretch is like a plane descending with screaming children before landing.
+Claim: In her NYT op-ed, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief – that the worst stretch is like a plane descending with screaming children before landing.
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-4, N-578
@@ -557,11 +557,11 @@ Investigative Direction: Verify the documentary's existence via official Salem M
 
 ## VI. Optional Flags
 
-- **Name uncertainty (Erika Kirk vs. Erica Kirk):** The transcript consistently spells "Erika Kirk." Prior ledger entry may use "Erica Kirk" — preserved here exactly as the transcript presents it. Cross-episode ledger IDs are presumed stable.
+- **Name uncertainty (Erika Kirk vs. Erica Kirk):** The transcript consistently spells "Erika Kirk." Prior ledger entry may use "Erica Kirk" – preserved here exactly as the transcript presents it. Cross-episode ledger IDs are presumed stable.
 - **Possible transcription error (Frank Turek / Frank Turak):** The host says "as Frank Turak termed them" when referring to Israeli officials. The likely correct name is Frank Turek. Flagged for human verification.
 - **Name uncertainty ("Salem Media Waterstone" / "Waterstone"):** The viewer's comment reads "Salem Media Waterstone." The host interprets this as Water<|>stone (or a similarly named entity) acquiring Salem Media. Entity identification requires verification.
-- **Entity ambiguity (Andrew Kolb vs. Andrew Cooper):** These are treated as distinct persons in the transcript — Andrew Kolb is referenced via viewer comment regarding funeral fireworks, while Andrew Cooper is named by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office. Flagged for confirmation against prior ledger entries.
+- **Entity ambiguity (Andrew Kolb vs. Andrew Cooper):** These are treated as distinct persons in the transcript – Andrew Kolb is referenced via viewer comment regarding funeral fireworks, while Andrew Cooper is named by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office. Flagged for confirmation against prior ledger entries.
 - **Artifact verbally referenced but not visually shown (A-2341.1, A-2341.2, A-2341.3):** The host explicitly states she is "borrowing this footage of people on Instagram" and did not record any video herself. The clips are played but original source URLs are not provided in the transcript.
-- **Transcript ambiguity (A-2347.1 quote):** The host's read of the Deseret News article includes the phrase "Neff read a I guess it's supposed to be like a profile piece. Neff from members sitting in the waiting room..." — this transcription is garbled and the precise structure of Neff's quoted statement ("read from members" vs. "recounted to members") should be verified against the original article.
-- **Claim failed admission test — "Ye had not been back on stage in his hometown in over 6 years":** Host assertion without artifact support; not inscribed.
+- **Transcript ambiguity (A-2347.1 quote):** The host's read of the Deseret News article includes the phrase "Neff read a I guess it's supposed to be like a profile piece. Neff from members sitting in the waiting room..." – this transcription is garbled and the precise structure of Neff's quoted statement ("read from members" vs. "recounted to members") should be verified against the original article.
+- **Claim failed admission test – "Ye had not been back on stage in his hometown in over 6 years":** Host assertion without artifact support; not inscribed.
 - **Episode-anniversary timing note:** The episode airs two days before the one-year anniversary (September 10, 2026); the Deseret News article and Erika Kirk NYT op-ed are positioned as anniversary-cycle artifacts.

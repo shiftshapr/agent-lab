@@ -24,7 +24,7 @@ This episode develops the "Operation Valhalla" thread of the investigation. The 
 
 The episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dylan audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.
 
-Structurally, the episode is a connector episode — it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.
+Structurally, the episode is a connector episode – it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.
 
 ## 6. Meme Register
 
@@ -75,7 +75,7 @@ Confidence Level: High
 
 **A-1452** Charlie Kirk PragerU Interview Clip Bundle
 
-**A-1452.1** Prager News Network Interview Segment — Charlie Kirk on Favorite Historical Figures
+**A-1452.1** Prager News Network Interview Segment – Charlie Kirk on Favorite Historical Figures
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -89,7 +89,7 @@ Confidence Level: Medium (video played from prior interview; original air date n
 
 **A-1453** Kash Patel Press Conference Clip Bundle
 
-**A-1453.1** Kash Patel Press Conference Closing — "See you in Valhalla"
+**A-1453.1** Kash Patel Press Conference Closing – "See you in Valhalla"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -117,7 +117,7 @@ Confidence Level: Medium (sender identity redacted by host; content verbally rea
 
 **A-1455** Nebraska Secretary of State Press Conference Bundle
 
-**A-1455.1** News Clip — Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission
+**A-1455.1** News Clip – Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -131,7 +131,7 @@ Confidence Level: Medium (news clip played; exact source outlet not specified)
 
 **A-1456** Huckabee–Friedman Jerusalem Performance Bundle
 
-**A-1456.1** Video — Mike Huckabee and David Friedman Performing "Sweet Home Alabama/Jerusalem"
+**A-1456.1** Video – Mike Huckabee and David Friedman Performing "Sweet Home Alabama/Jerusalem"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -145,7 +145,7 @@ Confidence Level: Medium
 
 **A-1457** Jonathan Pollard–Huckabee Meeting Headline Bundle
 
-**A-1457.1** Headline — "American who spied for Israel says he met Ambassador Mike Huckabee"
+**A-1457.1** Headline – "American who spied for Israel says he met Ambassador Mike Huckabee"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -187,7 +187,7 @@ Confidence Level: High (email content read verbatim)
 
 **A-1460** Tim Dylan Bari Weiss Commentary Bundle
 
-**A-1460.1** Audio Clip — Tim Dylan on Bari Weiss at CBS News
+**A-1460.1** Audio Clip – Tim Dylan on Bari Weiss at CBS News
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -332,7 +332,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1344** Operation Valhalla — Charlie Kirk Assassination Timeline Connection
+**N-1344** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
 
 Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel "see you in Valhalla" press conference statement.
 

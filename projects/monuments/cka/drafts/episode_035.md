@@ -79,7 +79,7 @@ Confidence Level: Medium
 
 *Related: N-2, N-70*
 
-**A-1436.3** SUBTT 2022 flight pattern data — Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)
+**A-1436.3** SUBTT 2022 flight pattern data – Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

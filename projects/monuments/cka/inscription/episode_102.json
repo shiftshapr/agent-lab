@@ -325,7 +325,7 @@
           "@type": "Artifact",
           "@id": "A-2071.1",
           "ref": "A-2071.1",
-          "description": "Erika Kirk old LinkedIn page (now removed) — claimed ASU magna cum laude graduation",
+          "description": "Erika Kirk old LinkedIn page (now removed) – claimed ASU magna cum laude graduation",
           "related_claims": [
             "C-2896"
           ],
@@ -344,7 +344,7 @@
           "@type": "Artifact",
           "@id": "A-2071.2",
           "ref": "A-2071.2",
-          "description": "Erika Kirk LinkedIn page — claimed summa cum laude with double degree (political science and international relations)",
+          "description": "Erika Kirk LinkedIn page – claimed summa cum laude with double degree (political science and international relations)",
           "related_claims": [
             "C-2897"
           ],
@@ -363,7 +363,7 @@
           "@type": "Artifact",
           "@id": "A-2071.3",
           "ref": "A-2071.3",
-          "description": "Erika Kirk LinkedIn page — claimed Doctor of Education in Christian Leadership from Liberty University",
+          "description": "Erika Kirk LinkedIn page – claimed Doctor of Education in Christian Leadership from Liberty University",
           "related_claims": [
             "C-2899"
           ],
@@ -1239,7 +1239,7 @@
       "@id": "C-2904",
       "ref": "C-2904",
       "label": "Brian Harpole's alibi flights were 1:49 PM Dallas to Salt Lake City on the 9th",
-      "claim": "According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City — a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.",
+      "claim": "According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City – a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.",
       "anchored_artifacts": [
         "A-2075.1"
       ],
@@ -1318,7 +1318,7 @@
       "@id": "C-2908",
       "ref": "C-2908",
       "label": "Erika Kirk provided Candace with Brian Harpole's alibi during their private interview",
-      "claim": "During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi — which Candace notes did not actually cover the timeframe of Mitch's sighting.",
+      "claim": "During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi – which Candace notes did not actually cover the timeframe of Mitch's sighting.",
       "anchored_artifacts": [
         "A-2075.1"
       ],

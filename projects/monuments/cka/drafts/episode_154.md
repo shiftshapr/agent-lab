@@ -32,7 +32,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-42 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-50 (Tucker Carlson), N-224 (Blake Neff (variant: Nef) - actual ledger IDs to be verified against global ledger)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-42 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-50 (Tucker Carlson), N-224 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
 
 ---
 
@@ -92,7 +92,7 @@ Confidence Level: Medium
 
 **A-2396** 4plebs Post Bundle
 
-**A-2396.1** 4plebs.com post titled "Operation Greyer X anonymous" — text describes plan to have "greyers" ask Charlie questions about Candace Owens and to "fluff" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.
+**A-2396.1** 4plebs.com post titled "Operation Greyer X anonymous" – text describes plan to have "greyers" ask Charlie questions about Candace Owens and to "fluff" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -537,7 +537,7 @@ Investigative Direction: Authenticate the text screenshot metadata; verify wheth
 
 Claim Timestamp: 00:17:00
 
-Claim: The 4plebs post allegedly found by "E" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative — ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
+Claim: The 4plebs post allegedly found by "E" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative – ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
 
 Anchored Artifacts: A-2395.1, A-2396.1
 Mentions: N-3, N-42
@@ -597,7 +597,7 @@ Investigative Direction: Cross-check TPUSA claim against school attendance recor
 
 Claim Timestamp: 00:24:37
 
-Claim: Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that "over 500 chose to attend" — i.e., nothing was forced.
+Claim: Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that "over 500 chose to attend" – i.e., nothing was forced.
 
 Anchored Artifacts: A-2403.2
 Mentions: N-42
@@ -642,7 +642,7 @@ Investigative Direction: Obtain full Politico article and publication date.
 
 Claim Timestamp: 00:47:48
 
-Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" — host notes this is the author's framing, not Neff's verbatim.
+Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" – host notes this is the author's framing, not Neff's verbatim.
 
 Anchored Artifacts: A-2400.2
 Mentions: N-224
@@ -725,7 +725,7 @@ Related Nodes: N-2334
 
 Investigative Direction: Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.
 
-*Optional Flag: Requires human verification — anchor is host testimony, not displayed artifact.*
+*Optional Flag: Requires human verification – anchor is host testimony, not displayed artifact.*
 
 ---
 
@@ -786,11 +786,11 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 # XI. OPTIONAL FLAGS
 
-- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings — "Kovette," "Kovat," "Kovatte," "Kolvet" (chapter heading). Primary spelling "Kolvet" used in this record. Actual ledger ID to be verified.
-- **Name uncertainty (Erica/Erika):** Mixed spelling throughout transcript — title uses "Erika," body uses both. "Erica" used to align with established ledger convention; flagged for verification.
+- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings – "Kovette," "Kovat," "Kovatte," "Kolvet" (chapter heading). Primary spelling "Kolvet" used in this record. Actual ledger ID to be verified.
+- **Name uncertainty (Erica/Erika):** Mixed spelling throughout transcript – title uses "Erika," body uses both. "Erica" used to align with established ledger convention; flagged for verification.
 - **Name uncertainty (Neff/Nef):** Mixed spelling in transcript. "Neff" used as primary.
 - **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image ("slay the patriarchy") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.
-- **Requires human verification:** C-3510 (Aug 28, 2025 Empress Films call) — anchor is host testimonial only.
+- **Requires human verification:** C-3510 (Aug 28, 2025 Empress Films call) – anchor is host testimonial only.
 - **Possible transcription error:** Caption source is "yt-dlp-auto-android"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-3507) should be cross-checked against raw audio before downstream use.
 - **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition. Wave 1 resolved them: N-4 to N-42 (Andrew Kolvet), N-5 to N-50 (Tucker Carlson), N-6 to N-224 (Blake Neff).
 - **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.

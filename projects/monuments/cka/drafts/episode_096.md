@@ -118,7 +118,7 @@ Confidence Level: High
 
 ## A-2009 Erika Kirk Pre-Recorded Statement Bundle
 
-**A-2009.1** Erika Kirk pre-recorded statement — WHCD attendance justification
+**A-2009.1** Erika Kirk pre-recorded statement – WHCD attendance justification
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -128,7 +128,7 @@ Confidence Level: High
 
 *Related: C-2796, N-2, N-1714*
 
-**A-2009.2** Erika Kirk pre-recorded statement — criticism of journalists filming during active shooter
+**A-2009.2** Erika Kirk pre-recorded statement – criticism of journalists filming during active shooter
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -138,7 +138,7 @@ Confidence Level: High
 
 *Related: C-2798, N-2, N-1714*
 
-**A-2009.3** Erika Kirk pre-recorded statement — criticism of Jimmy Kimmel's Melania joke
+**A-2009.3** Erika Kirk pre-recorded statement – criticism of Jimmy Kimmel's Melania joke
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -148,7 +148,7 @@ Confidence Level: High
 
 *Related: C-2799, N-2, N-3, N-122, N-1714*
 
-**A-2009.4** Erika Kirk pre-recorded statement — claim that Candace Owens accused her of murdering her husband
+**A-2009.4** Erika Kirk pre-recorded statement – claim that Candace Owens accused her of murdering her husband
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -643,4 +643,4 @@ Investigative Direction: Verify via medical records; the underlying photo is the
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).
 - **Artifact verbally referenced but not displayed in full**: Multiple Laura Loomer tweets are read aloud in the episode; full visual capture not confirmed.
-- **Claim failed admission test**: Host assertions not artifact-anchored in this episode include — (1) Trump's tweet was the fourth attack on Candace in two weeks, (2) Susie Wiles opposed the Truth Social post, (3) Charlie Kirk never attended the White House Correspondents Dinner, (4) Laura Loomer has blackmail on Trump, (5) the Trump Truth Social tweet was driven by Laura Loomer's demands.
+- **Claim failed admission test**: Host assertions not artifact-anchored in this episode include – (1) Trump's tweet was the fourth attack on Candace in two weeks, (2) Susie Wiles opposed the Truth Social post, (3) Charlie Kirk never attended the White House Correspondents Dinner, (4) Laura Loomer has blackmail on Trump, (5) the Trump Truth Social tweet was driven by Laura Loomer's demands.

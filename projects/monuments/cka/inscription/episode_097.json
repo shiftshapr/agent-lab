@@ -97,7 +97,7 @@
           "@type": "Artifact",
           "@id": "A-2015.5",
           "ref": "A-2015.5",
-          "description": "Point 29 — assertion that Harpole is a private citizen and not a limited-purpose public figure",
+          "description": "Point 29 – assertion that Harpole is a private citizen and not a limited-purpose public figure",
           "related_claims": [
             "C-2815"
           ],
@@ -116,7 +116,7 @@
           "@type": "Artifact",
           "@id": "A-2015.6",
           "ref": "A-2015.6",
-          "description": "Point 28 — citation of Harpole's November 17 Sean Ryan appearance as defensive response to \"Owens and other conspiracy theorists\"",
+          "description": "Point 28 – citation of Harpole's November 17 Sean Ryan appearance as defensive response to \"Owens and other conspiracy theorists\"",
           "related_claims": [
             "C-2816",
             "C-2817"
@@ -133,7 +133,7 @@
           "@type": "Artifact",
           "@id": "A-2015.7",
           "ref": "A-2015.7",
-          "description": "Point 50/59 — explanation that Harpole did not respond to Candace's texts to avoid giving her exclusive content",
+          "description": "Point 50/59 – explanation that Harpole did not respond to Candace's texts to avoid giving her exclusive content",
           "related_claims": [
             "C-2819"
           ],
@@ -151,7 +151,7 @@
           "@type": "Artifact",
           "@id": "A-2015.8",
           "ref": "A-2015.8",
-          "description": "Points 54-55 — embedded text messages from Candace Owens to Brian Harpole",
+          "description": "Points 54-55 – embedded text messages from Candace Owens to Brian Harpole",
           "related_claims": [
             "C-2818"
           ],
@@ -170,7 +170,7 @@
           "@type": "Artifact",
           "@id": "A-2015.9",
           "ref": "A-2015.9",
-          "description": "Point 63 — allegation that Candace's \"Fort Huachuca confirmed\" X post claimed proof that Snow was telling the truth about Harpole",
+          "description": "Point 63 – allegation that Candace's \"Fort Huachuca confirmed\" X post claimed proof that Snow was telling the truth about Harpole",
           "related_claims": [
             "C-2822",
             "C-2823"
@@ -793,7 +793,7 @@
       "ref": "N-1725",
       "name": "Charlie Kirk September 9 Pre-Event Threat Text",
       "type": "investigation_target",
-      "description": "Claimed text from Charlie Kirk to security the night before the September 10 event stating \"I think I'm going to be killed\" — referenced by Candace in arguing Harpole's incompetence claim.",
+      "description": "Claimed text from Charlie Kirk to security the night before the September 10 event stating \"I think I'm going to be killed\" – referenced by Candace in arguing Harpole's incompetence claim.",
       "related_artifacts": [
         "A-2015.2"
       ],

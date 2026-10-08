@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2384.1",
           "ref": "A-2384.1",
-          "description": "Notice of Claim — Kirk Family v. State of Utah, UVU Police Department, Chief Jeffrey Long, Astrid Tuminez, and Presently Unknown Others",
+          "description": "Notice of Claim – Kirk Family v. State of Utah, UVU Police Department, Chief Jeffrey Long, Astrid Tuminez, and Presently Unknown Others",
           "related_claims": [
             "C-3466",
             "C-3474",
@@ -60,7 +60,7 @@
           "@type": "Artifact",
           "@id": "A-2385.1",
           "ref": "A-2385.1",
-          "description": "Associated Press article — \"Utah Valley University is launching an independent external review of the fatal shooting of prominent conservative activist Charlie Kirk on its campus earlier this month.\"",
+          "description": "Associated Press article – \"Utah Valley University is launching an independent external review of the fatal shooting of prominent conservative activist Charlie Kirk on its campus earlier this month.\"",
           "related_claims": [
             "C-3467",
             "C-3468",
@@ -88,7 +88,7 @@
           "@type": "Artifact",
           "@id": "A-2386.1",
           "ref": "A-2386.1",
-          "description": "Clip — Brian Harpole reading security team credentials on the Shawn Ryan show (Blake, combat-proven Marine; SEALs; world-renowned jiu-jitsu people; 22 years SWAT; 30-year cop and SWAT commander; 20-year Marine; professional athletes with tactical careers)",
+          "description": "Clip – Brian Harpole reading security team credentials on the Shawn Ryan show (Blake, combat-proven Marine; SEALs; world-renowned jiu-jitsu people; 22 years SWAT; 30-year cop and SWAT commander; 20-year Marine; professional athletes with tactical careers)",
           "related_claims": [
             "C-3469",
             "C-3470"
@@ -167,7 +167,7 @@
           "@type": "Artifact",
           "@id": "A-2389.1",
           "ref": "A-2389.1",
-          "description": "Bodycam footage dated May 31, 2022 — Tyler Robinson traffic-stop interaction, St. George Police Department",
+          "description": "Bodycam footage dated May 31, 2022 – Tyler Robinson traffic-stop interaction, St. George Police Department",
           "related_claims": [
             "C-3478",
             "C-3479",
@@ -190,7 +190,7 @@
           "@type": "Artifact",
           "@id": "A-2389.2",
           "ref": "A-2389.2",
-          "description": "Scripps News headline — \"Scriptscripts News obtains video of accused Charlie Kirk shooter after the 2022 car crash\"",
+          "description": "Scripps News headline – \"Scriptscripts News obtains video of accused Charlie Kirk shooter after the 2022 car crash\"",
           "related_claims": [
             "C-3480"
           ],
@@ -217,7 +217,7 @@
           "@type": "Artifact",
           "@id": "A-2390.1",
           "ref": "A-2390.1",
-          "description": "Sky News / NY Post article — Tyler Robinson described as wearing \"an eerily similar hat and sunglasses\" as in the 2022 footage",
+          "description": "Sky News / NY Post article – Tyler Robinson described as wearing \"an eerily similar hat and sunglasses\" as in the 2022 footage",
           "related_claims": [
             "C-3480"
           ],
@@ -241,7 +241,7 @@
           "@type": "Artifact",
           "@id": "A-2391.1",
           "ref": "A-2391.1",
-          "description": "Bio information — Jim Spencer, founder of Scripps News (formerly Newsy, founded 2022), teaches digital media and journalism at UT Austin since 2018",
+          "description": "Bio information – Jim Spencer, founder of Scripps News (formerly Newsy, founded 2022), teaches digital media and journalism at UT Austin since 2018",
           "related_claims": [
             "C-3481",
             "C-3482"
@@ -269,7 +269,7 @@
           "@type": "Artifact",
           "@id": "A-2392.1",
           "ref": "A-2392.1",
-          "description": "Information regarding Nell DeBuckman's 2022 donation of a 2,300 sq ft building — Buckman Center — to UT Austin for mixed media and artists",
+          "description": "Information regarding Nell DeBuckman's 2022 donation of a 2,300 sq ft building – Buckman Center – to UT Austin for mixed media and artists",
           "related_claims": [
             "C-3485",
             "C-3486"
@@ -828,7 +828,7 @@
       "@id": "C-3479",
       "ref": "C-3479",
       "label": "Bodycam Footage Dated May 31, 2022",
-      "claim": "The bodycam footage of Tyler Robinson is dated May 31, 2022 — approximately three and a half years prior to release.",
+      "claim": "The bodycam footage of Tyler Robinson is dated May 31, 2022 – approximately three and a half years prior to release.",
       "anchored_artifacts": [
         "A-2389.1"
       ],
@@ -964,7 +964,7 @@
       "@id": "C-3487",
       "ref": "C-3487",
       "label": "Event Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
-      "claim": "On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as \"20125\" — clearly a transcription error for 2025.",
+      "claim": "On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as \"20125\" – clearly a transcription error for 2025.",
       "anchored_artifacts": [
         "A-2384.1"
       ],

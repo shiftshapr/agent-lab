@@ -338,7 +338,7 @@ Investigative Pressure: High
 
 **N-2224** Political Motivation Inference Chain (Hearsay Standard)
 
-Investigation into whether the state's chain of inferences — Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged "some hate just can't be negotiated" message → political-motivation enhancement — satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.
+Investigation into whether the state's chain of inferences – Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged "some hate just can't be negotiated" message → political-motivation enhancement – satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.
 
 Evidence Count: 3
 Claim Count: 4
@@ -479,7 +479,7 @@ Investigative Direction: Obtain original footage for frame-by-frame analysis; ob
 
 Claim Timestamp: 00:21:22
 
-Claim: Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear — a gesture that prior narratives have attributed to noise-canceling rather than a phone call.
+Claim: Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear – a gesture that prior narratives have attributed to noise-canceling rather than a phone call.
 
 Anchored Artifacts: A-2329.2
 Mentions: N-272
@@ -504,7 +504,7 @@ Investigative Direction: Identify the bag's owner; obtain receipt / loss-propert
 
 Claim Timestamp: 00:16:16
 
-Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him — a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
+Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
 
 Anchored Artifacts: A-2329 (host narration; no audio or document displayed in this episode presenting the prior communication)
 Mentions: N-1, N-2
@@ -747,7 +747,7 @@ Investigative Direction: Obtain McCoy's complete media appearances; obtain Hibbs
 
 Claim Timestamp: 01:04:00
 
-Claim: Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 — a statement the host identifies as in tension with Kirk's prior-night communication of fear.
+Claim: Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 – a statement the host identifies as in tension with Kirk's prior-night communication of fear.
 
 Anchored Artifacts: A-2340 (host narrative; Shawn Ryan interview not displayed in this episode)
 Mentions: N-1, N-424, N-344
@@ -799,7 +799,7 @@ Investigative Direction: Obtain McCoy's own account; obtain contemporaneous vide
 
 Claim Timestamp: 00:31:39
 
-Claim: Blake Neff testified that Mikey McCoy, after the phone calls, "got total mastery of himself" and began "directing a battle" — assigning tasks, including instructions that "none of you can say anything" until Erika Kirk had been told directly by McCoy.
+Claim: Blake Neff testified that Mikey McCoy, after the phone calls, "got total mastery of himself" and began "directing a battle" – assigning tasks, including instructions that "none of you can say anything" until Erika Kirk had been told directly by McCoy.
 
 Anchored Artifacts: A-2338
 Mentions: N-2, N-272, N-224
@@ -880,17 +880,17 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (A-2329.1)**: "Danny Phillip" vs "Danny Philip" — both spellings appear in the transcript. Preserve as appearing; do not normalize.
-- **Name uncertainty (former local id 1211)**: "Mikey McCoy" vs "Mikey McQuaid", both appear in the transcript. The "McQuaid" spelling appears once and may be a transcription error.
+- **Name uncertainty (A-2329.1)**: "Danny Phillip" vs "Danny Philip" – both spellings appear in the transcript. Preserve as appearing; do not normalize.
+- **Name uncertainty (former local id 1211)**: "Mikey McCoy" vs "Mikey McQuaid" – both appear in the transcript. The "McQuaid" spelling appears once and may be a transcription error.
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twigs" in one location within the judge's bench ruling. Preserve as appearing.
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twiggs" in most locations; treat Twiggs / Twiggs as the same person.
 - **Transcript ambiguity (A-2327.1)**: The bench ruling transcript includes the phrase "to risk request counsel" which appears to be a transcription artifact for "to [a person to] request counsel" or similar. Flag for verification against the official court transcript.
 - **Artifact verbally referenced but not shown (A-2333)**: Viva Frei X post referenced by host but not quoted verbatim in the episode.
 - **Artifact verbally referenced but not shown (C-3387)**: Shawn Ryan interview with Brian Harpole is referenced by host in closing remarks but the relevant clip is not displayed in this episode.
 - **Artifact verbally referenced but not shown (C-3388, C-3389)**: "Mike Mitchell confession" and "Bill Ackman million dollars" narratives are characterized as lies by the host but the original source documents / posts are not displayed.
-- **Possible transcription error (A-2328)**: Transcript includes "I'm sorry. Waive reading of the information" — possible stutter or transcription artifact; preserve as appears.
+- **Possible transcription error (A-2328)**: Transcript includes "I'm sorry. Waive reading of the information" – possible stutter or transcription artifact; preserve as appears.
 - **Claim failed admission test (C-3388, C-3389)**: These claims assert the negative ("there is no truth to that narrative") without an artifact in this episode displaying the original narrative. They are inscribed as host-stance claims anchored to host narration, not to displayed artifacts. Investigative verification needed.
-- **Requires human verification (A-2329)**: Footage provenance — host states clips are "exclusive" and "never-before-seen" but does not in this episode provide authentication metadata.
+- **Requires human verification (A-2329)**: Footage provenance – host states clips are "exclusive" and "never-before-seen" but does not in this episode provide authentication metadata.
 - **Requires human verification (A-2330)**: Vehicle diagram is acknowledged as AI-generated; positions should be cross-checked against original photos / video of the UVU lot.
 - **Timestamp uncertainty (A-2329)**: "T minus 5" labeling referenced by host but full timestamp chain not provided.
 - **Possibly requires human verification (A-2328)**: Whether the transcript accurately represents the September 1, 2026 arraignment requires cross-reference against the official court record.

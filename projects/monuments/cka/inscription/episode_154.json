@@ -113,7 +113,7 @@
           "@type": "Artifact",
           "@id": "A-2396.1",
           "ref": "A-2396.1",
-          "description": "4plebs.com post titled \"Operation Greyer X anonymous\" — text describes plan to have \"greyers\" ask Charlie questions about Candace Owens and to \"fluff\" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.",
+          "description": "4plebs.com post titled \"Operation Greyer X anonymous\" – text describes plan to have \"greyers\" ask Charlie questions about Candace Owens and to \"fluff\" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.",
           "related_claims": [
             "C-3498"
           ],
@@ -983,7 +983,7 @@
       "@id": "C-3498",
       "ref": "C-3498",
       "label": "4plebs Post Mirrors The Forwarded \"Operation\" Plan",
-      "claim": "The 4plebs post allegedly found by \"E\" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative — ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.",
+      "claim": "The 4plebs post allegedly found by \"E\" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative – ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.",
       "anchored_artifacts": [
         "A-2395.1",
         "A-2396.1"
@@ -1063,7 +1063,7 @@
       "@id": "C-3502",
       "ref": "C-3502",
       "label": "Andrew Kolvet Cited Three Opt-Outs As Evidence Of Voluntary Participation",
-      "claim": "Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that \"over 500 chose to attend\" — i.e., nothing was forced.",
+      "claim": "Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that \"over 500 chose to attend\" – i.e., nothing was forced.",
       "anchored_artifacts": [
         "A-2403.2"
       ],
@@ -1120,7 +1120,7 @@
       "@id": "C-3505",
       "ref": "C-3505",
       "label": "Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
-      "claim": "The Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" — host notes this is the author's framing, not Neff's verbatim.",
+      "claim": "The Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" – host notes this is the author's framing, not Neff's verbatim.",
       "anchored_artifacts": [
         "A-2400.2"
       ],

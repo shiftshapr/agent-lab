@@ -397,7 +397,7 @@
       "ref": "N-1697",
       "name": "Early-Death-Announcement Timeline Verification",
       "type": "investigation_target",
-      "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source — including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.",
+      "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.",
       "related_artifacts": [
         "A-1984.1",
         "A-1992"
@@ -854,7 +854,7 @@
       "@type": "Claim",
       "@id": "C-2762",
       "ref": "C-2762",
-      "label": "Contradiction — Erika Kirk claimed credible threat vs Secret Service finding of none",
+      "label": "Contradiction – Erika Kirk claimed credible threat vs Secret Service finding of none",
       "claim": "Erika Kirk's public cancellation reason (a \"credible threat\" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -875,7 +875,7 @@
       "@type": "Claim",
       "@id": "C-2763",
       "ref": "C-2763",
-      "label": "Contradiction — Bomb dogs reportedly did not detect recent firing on recovered rifle",
+      "label": "Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle",
       "claim": "Host states bomb dogs and canines brought to the scene did not detect that the recovered weapon had been recently fired, which would be expected if fired within approximately seven days.",
       "anchored_artifacts": [],
       "related_nodes": [

@@ -37,9 +37,9 @@
 
 # Executive Summary
 
-This episode is bifurcated into two evidentiary streams. The first stream introduces documentary material associated with Jeffrey Epstein — two 23andMe-kit emails (one to "Woody," one to a redacted "Sultan" referencing 9E71st Street), text-chain references involving Emmanuel Macron's "boyfriend," and a viewer-flagged Gmail-style interface (jmail.world) for reviewing the Epstein files. The second stream advances the Erika Kirk September 10 alibi investigation by playing a video clip from Tracy Martin, in which Martin confirms a roughly 15-year friendship with Erika, their joint "Romanian Angels" project, and Martin's role in styling the "left eye club" editorial photograph and designing the cuff Erika wears.
+This episode is bifurcated into two evidentiary streams. The first stream introduces documentary material associated with Jeffrey Epstein – two 23andMe-kit emails (one to "Woody," one to a redacted "Sultan" referencing 9E71st Street), text-chain references involving Emmanuel Macron's "boyfriend," and a viewer-flagged Gmail-style interface (jmail.world) for reviewing the Epstein files. The second stream advances the Erika Kirk September 10 alibi investigation by playing a video clip from Tracy Martin, in which Martin confirms a roughly 15-year friendship with Erika, their joint "Romanian Angels" project, and Martin's role in styling the "left eye club" editorial photograph and designing the cuff Erika wears.
 
-The episode's largest evidentiary block, however, is geopolitical-occult lecture material: clips from a lecture by a figure consistently named "Robkea" (likely Tom Robkea / Ronkea — see Optional Flags), plus an Omega Man Radio snippet with Tom Horn and Steve Quail, advancing the proposition that Gilgamesh's remains were recovered in Iraq and that the human genome project was oriented toward reanimating Nimrod/Gilgamesh. This material is presented as commentary, not directly tied to the Charlie Kirk case, but the host reads viewer comments that fuse the two threads (COVID tests as DNA collection for Nimrod-descendant identification; Babylonian ascension framing).
+The episode's largest evidentiary block, however, is geopolitical-occult lecture material: clips from a lecture by a figure consistently named "Robkea" (likely Tom Robkea / Ronkea – see Optional Flags), plus an Omega Man Radio snippet with Tom Horn and Steve Quail, advancing the proposition that Gilgamesh's remains were recovered in Iraq and that the human genome project was oriented toward reanimating Nimrod/Gilgamesh. This material is presented as commentary, not directly tied to the Charlie Kirk case, but the host reads viewer comments that fuse the two threads (COVID tests as DNA collection for Nimrod-descendant identification; Babylonian ascension framing).
 
 Structurally, the episode continues the alibi line of investigation begun in prior episodes while opening a parallel Babylon/Gilgamesh/CERN research line. No direct artifact anchors the host's central alibi claim (that Erika was with Tracy Martin, not Lorie Fonfe, on September 10); the claim rests on tips and on Tracy Martin's video statement about the friendship's existence and duration.
 
@@ -187,7 +187,7 @@ Confidence Level: Medium (host flags possible typo)
 
 *Display/Read content: "Am I the only one who thinks that this generation will live eternal in flesh and that's why end human fight is all about?"*
 
-*Related: C-2309, N-80 (Sigmund Freud — referenced in host response)*
+*Related: C-2309, N-80 (Sigmund Freud – referenced in host response)*
 
 **A-1743.4** Angie comment addressed to "Ben" / "Benjamin"
 
@@ -199,7 +199,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Hi Ben, team Candace for Life."*
 
-*Related: C-2310, N-902 (Benjamin — flag)*
+*Related: C-2310, N-902 (Benjamin – flag)*
 
 **A-1743.5** AZ Masterbaker comment re: COVID tests as DNA collection for Nimrod descendants
 
@@ -223,7 +223,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Satan is the great counterfeitterter. He has never nor can he ever create anything. That is why he hates God so much."*
 
-*Related: C-2312, N-80 (Sigmund Freud — host's elaboration)*
+*Related: C-2312, N-80 (Sigmund Freud – host's elaboration)*
 
 **A-1743.7** American Jetet comment re: Rob / Babylonian ascension
 
@@ -380,7 +380,7 @@ Investigative Pressure: Low
 
 Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.
 
-Evidence Count: 1 (A-1741.1 — supports friendship, not alibi location)
+Evidence Count: 1 (A-1741.1 – supports friendship, not alibi location)
 Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High

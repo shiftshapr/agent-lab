@@ -133,7 +133,7 @@ Confidence Level: High
 
 **A-1518** Viewer Comments Read-Aloud Bundle
 
-**A-1518.1** Viewer comment from "Jo Ann": "we hoped it would go away" — referenced as first truthful statement made by TPUSA
+**A-1518.1** Viewer comment from "Jo Ann": "we hoped it would go away" – referenced as first truthful statement made by TPUSA
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -183,7 +183,7 @@ Confidence Level: Medium (existence of Daily Mail story as cited)
 
 *Related: C-1878, C-1879, N-1393*
 
-**A-1518.6** Viewer comment from "Laughing Cats Music World" — referenced but contents not read in full (request for post to TPUSA asking specific questions)
+**A-1518.6** Viewer comment from "Laughing Cats Music World" – referenced but contents not read in full (request for post to TPUSA asking specific questions)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -313,7 +313,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1864 (Patel) — adjacent, N-1391*
+*Related: C-1864 (Patel) – adjacent, N-1391*
 
 ---
 
@@ -417,7 +417,7 @@ Host framing premise comparing current media posture regarding the Kirk assassin
 Evidence Count: 0
 Claim Count: 0
 Episode Count: (existing)
-Investigative Pressure: (framing — does not meet admission test)
+Investigative Pressure: (framing – does not meet admission test)
 
 *Related: N-3*
 
@@ -670,7 +670,7 @@ Investigative Direction: Obtain the full One Shot TV video, including any second
 
 Claim Timestamp: 00:33:21
 
-Claim: The host characterizes the One Shot TV result — that the dummy's head was severed and the round continued through water jugs — as evidence that the official story's depiction of a .30-06 ricochet is implausible.
+Claim: The host characterizes the One Shot TV result – that the dummy's head was severed and the round continued through water jugs – as evidence that the official story's depiction of a .30-06 ricochet is implausible.
 
 Anchored Artifacts: A-1516.1
 Mentions: N-503
@@ -781,9 +781,9 @@ Confidence: high
 - **Chapter title mismatch:** The chapter at 10:04 is titled "The France update/correction," but the segment introduces new material (Pierre Falcone / Angolagate) rather than correcting any previously inscribed claim. Flag for review.
 - **Read-aloud vs. displayed:** The "Corruption Tracker" and "CorpWatch" sources are read aloud by the host but not visually displayed in the transcript. Capture is anchored to read-aloud content; original URLs not verified in this episode.
 - **Tip status:** The Pierre Falcone / Turning Point USA meeting tip is explicitly described as unverified by the host.
-- **Name uncertainty:** "Pierre Falcone" — spelled consistently in source excerpts; preserved.
-- **Name uncertainty:** "Arcadi Gaydamak" — spelled as shown in source excerpts; preserved.
-- **Name uncertainty:** "Milo Yiannopoulos" — spelled consistently; preserved.
+- **Name uncertainty:** "Pierre Falcone" – spelled consistently in source excerpts; preserved.
+- **Name uncertainty:** "Arcadi Gaydamak" – spelled as shown in source excerpts; preserved.
+- **Name uncertainty:** "Milo Yiannopoulos" – spelled consistently; preserved.
 - **Host framing claims excluded:** The host's "Operation Mockingbird 2.0" framing, "deep state is involved," and "Kash Patel knows I am telling the truth" are framing premises and are not inscribed as artifact-backed claims.
 - **Commenter claim artifact status:** Viewer comments are captured as artifacts (per the read/display rule) only when the host reads them aloud in full or quotes them substantively. Comments merely referenced in passing without quotation are excluded.
 

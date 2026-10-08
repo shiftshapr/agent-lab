@@ -167,7 +167,7 @@
           "@type": "Artifact",
           "@id": "A-1543.1",
           "ref": "A-1543.1",
-          "description": "Mikey McCoy phone call logs provided by TPUSA during meeting — first call to wife Elizabeth McCoy (10 min), three-way with Erika at +3 min, three-way with father Rob McCoy 2 min later, brother callback 10 min",
+          "description": "Mikey McCoy phone call logs provided by TPUSA during meeting – first call to wife Elizabeth McCoy (10 min), three-way with Erika at +3 min, three-way with father Rob McCoy 2 min later, brother callback 10 min",
           "related_claims": [
             "C-1931",
             "C-1932",
@@ -1957,7 +1957,7 @@
       "@id": "C-1935",
       "ref": "C-1935",
       "label": "Blake Neff's account contradicts the call logs",
-      "claim": "Blake Neff's interview account — that Mikey's first call after the shooting was to Erika, followed by his mother and father — directly contradicts the call logs provided by TPUSA.",
+      "claim": "Blake Neff's interview account – that Mikey's first call after the shooting was to Erika, followed by his mother and father – directly contradicts the call logs provided by TPUSA.",
       "anchored_artifacts": [
         "A-1542.1",
         "A-1543.1"

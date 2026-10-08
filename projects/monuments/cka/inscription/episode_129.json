@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2164.1",
           "ref": "A-2164.1",
-          "description": "Daily Mail article (headline and lede): \"Erika hates Candace Owens… widow's private tirades… 'that B'… 'ugliest person in the world'… 'soulless ghoul'\" — attributed to \"a family friend\"",
+          "description": "Daily Mail article (headline and lede): \"Erika hates Candace Owens… widow's private tirades… 'that B'… 'ugliest person in the world'… 'soulless ghoul'\" – attributed to \"a family friend\"",
           "related_claims": [
             "C-3083",
             "C-3084",
@@ -47,7 +47,7 @@
           "@type": "Artifact",
           "@id": "A-2164.2",
           "ref": "A-2164.2",
-          "description": "Daily Mail article body — Erika's reported \"compassion\" and \"overwhelming sadness\" toward Tyler Robinson at his Utah courtroom appearance",
+          "description": "Daily Mail article body – Erika's reported \"compassion\" and \"overwhelming sadness\" toward Tyler Robinson at his Utah courtroom appearance",
           "related_claims": [
             "C-3085"
           ],
@@ -65,7 +65,7 @@
           "@type": "Artifact",
           "@id": "A-2164.3",
           "ref": "A-2164.3",
-          "description": "Daily Mail article body — Erika's reported statements that she will not give Candace \"an ounce of her energy\"; comparisons to political opponents and to Tyler Robinson",
+          "description": "Daily Mail article body – Erika's reported statements that she will not give Candace \"an ounce of her energy\"; comparisons to political opponents and to Tyler Robinson",
           "related_claims": [
             "C-3086"
           ],
@@ -113,7 +113,7 @@
           "@type": "Artifact",
           "@id": "A-2165.2",
           "ref": "A-2165.2",
-          "description": "Side-by-side comparison photographs — recreation by host's team of nitrile glove appearance in a comparable door compartment",
+          "description": "Side-by-side comparison photographs – recreation by host's team of nitrile glove appearance in a comparable door compartment",
           "related_claims": [
             "C-3088",
             "C-3090"
@@ -863,7 +863,7 @@
       "@type": "Claim",
       "@id": "C-3089",
       "ref": "C-3089",
-      "label": "The glove-like object in A-2165.1 is located on the left rear door — the same side where the host identifies Rick Cutler's seating position",
+      "label": "The glove-like object in A-2165.1 is located on the left rear door – the same side where the host identifies Rick Cutler's seating position",
       "claim": "The unidentified glove-like object is in the door compartment on the side of the vehicle the host associates with Rick Cutler's seating.",
       "anchored_artifacts": [
         "A-2165.1"
@@ -997,7 +997,7 @@
       "@id": "C-3096",
       "ref": "C-3096",
       "label": "Danny Philip and Mikey McCoy were both present at the September 10 event and were party to a 10-minute phone call in the immediate aftermath",
-      "claim": "Danny Philip — newly hired Turning Point USA employee — was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.",
+      "claim": "Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.",
       "anchored_artifacts": [
         "A-2167.1",
         "A-2166.1"

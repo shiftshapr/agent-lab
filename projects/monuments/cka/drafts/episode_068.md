@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: 
   - (see registers)
 
-# Episode 68 Analysis — Bride of Charlie
+# Episode 68 Analysis – Bride of Charlie
 
 ## I. Meta-Data
 
@@ -351,7 +351,7 @@ Episode Count: 1
 Investigative Pressure: High
 *Related: A-1728.1, A-1735.1, C-2285, C-2295, N-783, N-272, N-43*
 
-**N-1550** Sept 7, 2025 Erika Instagram Post — Manipulation Question
+**N-1550** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.
 Evidence Count: 1
 Claim Count: 1
@@ -529,7 +529,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 
 **C-2296** William Stevenson Indicted for First-Degree Murder of His Ex-Wife
 Claim Timestamp: 00:46:39
-Claim: William Stevenson, 77, of Wilmington, Delaware — ex-husband of Jill Biden (married 1970–1975) — was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
+Claim: William Stevenson, 77, of Wilmington, Delaware – ex-husband of Jill Biden (married 1970–1975) – was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
 Anchored Artifacts: A-1736.1
 Mentions: N-883, N-889
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
@@ -559,11 +559,11 @@ Investigative Direction: Locate the tweet and verify exact wording and date.
 
 - **Name uncertainty:** "Gorg Fastbinder" likely transcription of "Georg Fastbinder"; "Helmet Becker" likely transcription of "Helmut Becker."
 - **Name uncertainty:** "Justin Strife" appears in the transcript; may be a phonetic capture of "Justin Stiefel" or similar.
-- **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article — name only, no image), A-1731.2 (German geophysicists headline — host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
-- **Transcript ambiguity:** Several instances of "Frank Turk" — context suggests it may be "Frank Turek" but preserved as "Frank Turk" per transcript.
+- **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
+- **Transcript ambiguity:** Several instances of "Frank Turk" – context suggests it may be "Frank Turek" but preserved as "Frank Turk" per transcript.
 - **Possible transcription error:** "Air base," "so State Arm," "Fastinder" vs. "Fastbinder" (BBC report vs. German geophysicist name); preserved as appearing in transcript.
 - **Name uncertainty:** "Robkea" preserved verbatim per viewer email as read; could be a pseudonym or phonetic capture.
-- **Requires human verification:** A-1736.1 — host reads a viewer comment that initially contains a wrong name ("Bill Richardson") and then corrects to "William Stevenson"; the underlying article was located on-air but not externally verified within this analysis.
+- **Requires human verification:** A-1736.1 – host reads a viewer comment that initially contains a wrong name ("Bill Richardson") and then corrects to "William Stevenson"; the underlying article was located on-air but not externally verified within this analysis.
 
 ---
 

@@ -17,7 +17,7 @@
 
 ---
 
-# Episode Analysis: Monument Ep 87 — "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320"
+# Episode Analysis: Monument Ep 87 – "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320"
 
 ---
 
@@ -51,9 +51,9 @@
 
 This episode is the second installment of a two-part series on the alleged Romney–Netanyahu–Utah network and the institutional ties Candace Owens is building between BYU, the CIA, and the September 10 events. The host advances a "Romney/Provo/Bibi" investigative axis, drawing on a 2012 New York Times article confirming a 1976-dating friendship between Mitt Romney and Benjamin Netanyahu as the anchoring evidentiary artifact.
 
-The bulk of the episode's new evidentiary material concerns Zachariah "Zack" Qureshi (also called "Zachariah Karashy"), who the host labels "decoy boy number two" — a young man briefly detained and released hours after the shooting. The host reads Kash Patel's 4:21 PM "subject in custody" tweet and his 5:59 PM walk-back, then links Zack's father Ahmed Qureshi (a Navy O6) to a defense-contracting startup called Built Incorporated that received approximately $7.4M in Air Force contracts in June 2025, citing USA Spending data played in a Baron Coleman audio clip. Ahmed Qureshi's co-founder Nathan Henderson, his wife Gina Romney Henderson (a Built VP), and their son Connor (a former ER scribe at Timpanogos) are introduced as a network of related actors.
+The bulk of the episode's new evidentiary material concerns Zachariah "Zack" Qureshi (also called "Zachariah Karashy"), who the host labels "decoy boy number two" – a young man briefly detained and released hours after the shooting. The host reads Kash Patel's 4:21 PM "subject in custody" tweet and his 5:59 PM walk-back, then links Zack's father Ahmed Qureshi (a Navy O6) to a defense-contracting startup called Built Incorporated that received approximately $7.4M in Air Force contracts in June 2025, citing USA Spending data played in a Baron Coleman audio clip. Ahmed Qureshi's co-founder Nathan Henderson, his wife Gina Romney Henderson (a Built VP), and their son Connor (a former ER scribe at Timpanogos) are introduced as a network of related actors.
 
-The episode also surfaces a Washington Post 2007 article on the FBI's abandoned comparative bullet lead analysis technique — the host reads excerpts showing the technique was used after the JFK assassination and formally abandoned in 2005 — and plays a Trump Easter clip in which Trump tells Erika Kirk to "sue" critics. Several speculative claims (Metro One Talent as CIA recruiter, BYU Jerusalem as CIA recruitment site, Michael Shawn Covey as a CIA contractor) are presented as certain but lack artifacts shown in the episode.
+The episode also surfaces a Washington Post 2007 article on the FBI's abandoned comparative bullet lead analysis technique – the host reads excerpts showing the technique was used after the JFK assassination and formally abandoned in 2005 – and plays a Trump Easter clip in which Trump tells Erika Kirk to "sue" critics. Several speculative claims (Metro One Talent as CIA recruiter, BYU Jerusalem as CIA recruitment site, Michael Shawn Covey as a CIA contractor) are presented as certain but lack artifacts shown in the episode.
 
 ---
 
@@ -121,7 +121,7 @@ Confidence Level: Medium
 
 **A-1920** USA Spending / Built Inc. Federal Contracts Bundle
 
-**A-1920.1** USA Spending Records for Built Inc. — Contract Timeline
+**A-1920.1** USA Spending Records for Built Inc. – Contract Timeline
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -133,7 +133,7 @@ Confidence Level: Medium
 
 *Related: C-2631, C-2632, N-1652*
 
-**A-1920.2** Baron Coleman Audio Clip — Built Inc. Contract Analysis
+**A-1920.2** Baron Coleman Audio Clip – Built Inc. Contract Analysis
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -179,7 +179,7 @@ Confidence Level: High
 
 **A-1923** Trump Easter Remarks Audio/Video Bundle
 
-**A-1923.1** Trump at White House Easter Event — Tells Erika Kirk to Sue Critics
+**A-1923.1** Trump at White House Easter Event – Tells Erika Kirk to Sue Critics
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -195,7 +195,7 @@ Confidence Level: High
 
 **A-1924** Lyman Family / Robbie Hild Instagram Bundle
 
-**A-1924.1** Phil Lyman Family Instagram Posts — Tracing Killer's Footprint
+**A-1924.1** Phil Lyman Family Instagram Posts – Tracing Killer's Footprint
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -219,7 +219,7 @@ Confidence Level: Low
 
 **A-1925** Elizabeth Lane X Post Bundle
 
-**A-1925.1** Elizabeth Lane X Post — Locked-Down Hospitals
+**A-1925.1** Elizabeth Lane X Post – Locked-Down Hospitals
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -233,7 +233,7 @@ Confidence Level: Low (referenced but not directly displayed/quoted)
 
 **A-1926** Episode Comments Bundle (Read Aloud)
 
-**A-1926.1** Yoshi Comment — Turning Point Funeral Mailer
+**A-1926.1** Yoshi Comment – Turning Point Funeral Mailer
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -245,7 +245,7 @@ Confidence Level: Medium
 
 *Related: C-2646, C-2647, N-2*
 
-**A-1926.2** "007" Comment — 2012 RNC Delegate Rule Change
+**A-1926.2** "007" Comment – 2012 RNC Delegate Rule Change
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -257,7 +257,7 @@ Confidence Level: Medium
 
 *Related: C-2626, N-1*
 
-**A-1926.3** Amar Ramusa Comment — BYU Physicist Steven Jones / 9/11 Thermite Study
+**A-1926.3** Amar Ramusa Comment – BYU Physicist Steven Jones / 9/11 Thermite Study
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -269,7 +269,7 @@ Confidence Level: Medium
 
 *Related: C-2638, N-1649*
 
-**A-1926.4** Seven Sheets Comment — Praise for Investigative Team
+**A-1926.4** Seven Sheets Comment – Praise for Investigative Team
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -375,7 +375,7 @@ Investigative Pressure: Medium
 
 *Related: C-2643, C-2644*
 
-**N-1656** Tyler Robinson Defense — Chain of Custody / Documents
+**N-1656** Tyler Robinson Defense – Chain of Custody / Documents
 
 Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.
 
@@ -815,13 +815,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Transcript ambiguity:** The detained subject's name appears in the transcript both as "Zachariah Karashy" (in the host's framing, 06:41) and as "Zacharias Qureshi" / "Zachariah's father" Ahmed Qureshi (10:27 onward). The host equates the two. The spelling discrepancy between "Karashy" and "Qureshi" is not resolved in this episode. Flag: **Name uncertainty — requires verification against detention records.**
+- **Transcript ambiguity:** The detained subject's name appears in the transcript both as "Zachariah Karashy" (in the host's framing, 06:41) and as "Zacharias Qureshi" / "Zachariah's father" Ahmed Qureshi (10:27 onward). The host equates the two. The spelling discrepancy between "Karashy" and "Qureshi" is not resolved in this episode. Flag: **Name uncertainty – requires verification against detention records.**
 
 - **Artifact verbally referenced but not shown:** Multiple artifacts are referenced by the host without on-screen display, including: Ahmed Qureshi's full LinkedIn page (URL not captured), Gina Romney Henderson's LinkedIn (URL not captured), USA Spending portal pages (specific entries not pinned), Andrew Zenger's appointment announcement, BYU Jerusalem Center program documentation, Metro One Talent corporate filings. Flag: **Artifact verbally referenced but not shown.**
 
 - **Unanchored claims:** C-2642 (BYU Jerusalem CIA recruitment), C-2643 (Metro One Talent as CIA vendor), C-2644 (Michael Shawn Covey CIA contractor), C-2639 (Andrew Zenger CEO appointment date), C-2640 (Andrew Zenger COO at Medical City), C-2641 (Andrew Zenger BYU Jerusalem attendance), C-2638 (cohabitation in Keller, Texas), C-2649 (Caleb Cunningham Jerusalem), C-2650 (Jeffrey Knuckles Jerusalem). These claims appear in the claim register only with "host assertion; no displayed evidence" notes and should be treated as **Requires human verification** until anchored.
 
-- **Single-source attribution:** The BYU Jerusalem CIA recruitment thesis (C-2642, C-2651) is presented by the host as certain ("I am saying this with 100% certainty, it is not a conspiracy") but is attributed in the transcript only to "someone told me." Flag: **Single-source attribution — high fragility.**
+- **Single-source attribution:** The BYU Jerusalem CIA recruitment thesis (C-2642, C-2651) is presented by the host as certain ("I am saying this with 100% certainty, it is not a conspiracy") but is attributed in the transcript only to "someone told me." Flag: **Single-source attribution – high fragility.**
 
 - **Funeral image attribution:** C-2647 cites a comment claiming the direct mail piece used a "funeral" image of Erika Kirk in a sparkle suit; the host does not independently confirm the funeral framing and asks the audience to weigh in. Flag: **Source event context unverified.**
 

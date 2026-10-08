@@ -45,7 +45,7 @@
           "@type": "Artifact",
           "@id": "A-1333.2",
           "ref": "A-1333.2",
-          "description": "UVU event request email (mid-July 2025) — referenced verbally by host; shown on screen per host narration but content not transcribed in captions",
+          "description": "UVU event request email (mid-July 2025) – referenced verbally by host; shown on screen per host narration but content not transcribed in captions",
           "related_claims": [
             "C-1599"
           ],
@@ -381,7 +381,7 @@
           "@type": "Artifact",
           "@id": "A-1344.1",
           "ref": "A-1344.1",
-          "description": "Back/side footage of Mikey McCoy movement pattern after shooting — verbal description with on-screen playback per host narration",
+          "description": "Back/side footage of Mikey McCoy movement pattern after shooting – verbal description with on-screen playback per host narration",
           "related_claims": [
             "C-1616"
           ],
@@ -401,7 +401,7 @@
           "@type": "Artifact",
           "@id": "A-1344.2",
           "ref": "A-1344.2",
-          "description": "Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground — verbal description with on-screen playback per host narration",
+          "description": "Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration",
           "related_claims": [
             "C-1616"
           ],
@@ -426,7 +426,7 @@
       "ref": "N-1",
       "name": "Charlie Kirk",
       "type": "person",
-      "description": "*(Existing — referenced as subject of investigation updates)*",
+      "description": "*(Existing – referenced as subject of investigation updates)*",
       "related_artifacts": [
         "A-1333.1",
         "A-1339.1",
@@ -454,7 +454,7 @@
       "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "investigation_target",
-      "description": "*(Existing — referenced in scheduling and phone call discussion)*",
+      "description": "*(Existing – referenced in scheduling and phone call discussion)*",
       "related_artifacts": [
         "A-1339.1",
         "A-1343.1"
@@ -966,7 +966,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:57–00:19:30",
-      "investigative_direction": "N/A — host-stance claim linked to source artifact.",
+      "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
         "N-335",
         "N-339"
@@ -1002,7 +1002,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:14–00:20:30",
-      "investigative_direction": "N/A — host-stance claim linked to source artifact.",
+      "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
         "N-150",
         "N-335"
@@ -1152,7 +1152,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:00–00:52:10",
-      "investigative_direction": "N/A — host-stance claim linked to source artifact.",
+      "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
         "N-86"
       ]

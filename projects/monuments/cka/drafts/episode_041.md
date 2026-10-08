@@ -47,7 +47,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk)
 
 ## II. Executive Summary
 
-Episode 41 advances two of the series' core threads. First, the TPUSA/Candace debate exchange: Candace presents and reads in full two successive tweets from Blake Neff (TPUSA) — one issuing a midnight debate announcement with a 24-hour countdown for December 15 in Phoenix, and one declaring that TPUSA will "proceed without" Candace after she offered virtual participation. A shown text exchange with executive producer Skyler establishes the timeline of her learning about the announcement. Second, the "Egyptian planes" investigation advances materially: Candace introduces a new individual — "Wedi Machmood" — alleged to have been one of four passengers on the "yellow plane" SU-BND on September 10, 2025, and to have flown on a separate Egyptian military plane (SU-BTU) into Provo on May 27, 2025. She cites a tweet from researcher "Project Constitution" (read in its entirety) reporting that the Egyptian presidency website confirms President El-Sisi flew SU-BTU on April 3, 2023, and verbally references photographic evidence placing El-Sisi in Egypt on September 10 (ruling him out as the September 10 passenger).
+Episode 41 advances two of the series' core threads. First, the TPUSA/Candace debate exchange: Candace presents and reads in full two successive tweets from Blake Neff (TPUSA) – one issuing a midnight debate announcement with a 24-hour countdown for December 15 in Phoenix, and one declaring that TPUSA will "proceed without" Candace after she offered virtual participation. A shown text exchange with executive producer Skyler establishes the timeline of her learning about the announcement. Second, the "Egyptian planes" investigation advances materially: Candace introduces a new individual – "Wedi Machmood" – alleged to have been one of four passengers on the "yellow plane" SU-BND on September 10, 2025, and to have flown on a separate Egyptian military plane (SU-BTU) into Provo on May 27, 2025. She cites a tweet from researcher "Project Constitution" (read in its entirety) reporting that the Egyptian presidency website confirms President El-Sisi flew SU-BTU on April 3, 2023, and verbally references photographic evidence placing El-Sisi in Egypt on September 10 (ruling him out as the September 10 passenger).
 
 Secondary threads include: an audio clip of Pentagon correspondent Cam Higby asking the Pentagon press secretary about a French military plot to assassinate Candace (asserted by host to be on TPUSA payroll since August 2025); an audio clip of Ben Shapiro making a French-intelligence joke on Greg Gutfeld's show; an audio clip of Frank Turk asserting Charlie called Blake Neff "the smartest man I know"; and a Tim Pool clip calling Candace a "scumbag" and warning of midterm losses. The episode structurally consolidates the host's framing of TPUSA as engaged in a coordinated cover-up, while pressing the Egyptian-planes line toward a specific identity attribution question (Wedi Machmood).
 
@@ -57,7 +57,7 @@ Secondary threads include: an audio clip of Pentagon correspondent Cam Higby ask
 
 ### A-1494 Pentagon Press Conference Audio Bundle
 
-**A-1494.1** Pentagon press briefing clip — Cam Higby asks Pentagon press secretary about a "French military plot to assassinate Candace Owens"
+**A-1494.1** Pentagon press briefing clip – Cam Higby asks Pentagon press secretary about a "French military plot to assassinate Candace Owens"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -109,7 +109,7 @@ Confidence Level: High (tweet read in its entirety on air)
 
 ### A-1497 Ben Shapiro / Gutfeld Show Clip Bundle
 
-**A-1497.1** Ben Shapiro audio/video clip from Greg Gutfeld's show — French intelligence joke regarding Greg
+**A-1497.1** Ben Shapiro audio/video clip from Greg Gutfeld's show – French intelligence joke regarding Greg
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -245,7 +245,7 @@ Investigative Pressure: Low
 
 **N-1380** Wedi Machmood Identity Verification Question
 
-Persistent unresolved target: who is the person using the name "Wedi Machmood" — possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.
+Persistent unresolved target: who is the person using the name "Wedi Machmood" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.
 
 Evidence Count: 2 (manifest reference; flight reference)
 Claim Count: 0
@@ -413,7 +413,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** Host's claim that "Wedi Machmood" was one of the four passengers on yellow plane SU-BND on September 10, 2025 (manifest/passenger list not displayed).
 - **Artifact verbally referenced but not shown:** Host's claim that SU-BTU flew into Provo on May 27, 2025 with Wedi Machmood aboard and departed June 2, 2025 without transponder data (no flight-tracking artifact displayed; "verbally referenced").
 - **Artifact verbally referenced but not shown:** Photograph of El-Sisi with PM Zaafarani on September 10, 2025 (see A-1500.1).
-- **Name uncertainty:** "Wedi Machmood" / "Wi Makmood" / "Wed Makmoud" — host uses multiple spellings. Spelling preserved as host uttered.
+- **Name uncertainty:** "Wedi Machmood" / "Wi Makmood" / "Wed Makmoud" – host uses multiple spellings. Spelling preserved as host uttered.
 - **Tail-number inconsistency:** Host alternates between "BTT," "BTU," and "SUB-TU" / "SU-BTU" within the episode and acknowledges Project Constitution's possible confusion between BTT and BTU. Treat as same evidentiary family (A-1496.1) but flag for cross-episode reconciliation.
 - **Transcript ambiguity:** Several name spellings for the mystery individual ("Wedi Machmood," "Wi Makmood," "Wed Makmoud," "Wid Makmoud") appear across the transcript and may reflect host pronunciation rather than verified spelling.
 - **Possible transcription error:** "BTU" and "BTT" tail-number inconsistency may be transcription artifact or genuine host/source confusion.

@@ -22,7 +22,7 @@
 - Episode title: "CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289"
 - Series title: Bride of Charlie (Monument Ep 56 · Batch 36)
 - Episode number: Monument Ep 56 / Batch 36 / Candace Ep 289
-- Channel / creator: @RealCandaceO — Candace Owens
+- Channel / creator: @RealCandaceO – Candace Owens
 - Episode date: 2026-01-13
 - Source used for analysis: YouTube captions (yt-dlp-manual), cleaned with video context
 - Transcript completeness status: Full transcript provided; chapter markers present; some audio clips played on show (Charlie Kirk, Tucker Carlson, Michael Aquino)
@@ -39,7 +39,7 @@
 
 ## II. Executive Summary
 
-Episode 56 presents three discrete evidentiary blocks. First, a re-presentation of Charlie Kirk's pre-death audio arguing against broader US military involvement in Iran, framed against current tensions and alleged flight/timeline anomalies involving a plane (SUBTU) linked to a "Wed Mahmoud." Second, a court petition filed in December 2024 challenging the will of Alton C. Jennings — a 95-year-old decedent whose $25M estate was reportedly redirected to Turning Point Action and YAF — introduced through host narration citing the underlying filing. Third, a profile of TPUSA board member Paul E. Valli (Valerie), former commander of the 7th Psychological Operations Group, and his co-authorship with Michael Aquino of *Mind War* (1980), tied to an audio interview clip of Aquino discussing the Temple of Set. A fourth block presents a public news reference to twelve lawsuits against Harvest Christian Fellowship/Greg Laurie alleging abuse at a Romanian children's home.
+Episode 56 presents three discrete evidentiary blocks. First, a re-presentation of Charlie Kirk's pre-death audio arguing against broader US military involvement in Iran, framed against current tensions and alleged flight/timeline anomalies involving a plane (SUBTU) linked to a "Wed Mahmoud." Second, a court petition filed in December 2024 challenging the will of Alton C. Jennings – a 95-year-old decedent whose $25M estate was reportedly redirected to Turning Point Action and YAF – introduced through host narration citing the underlying filing. Third, a profile of TPUSA board member Paul E. Valli (Valerie), former commander of the 7th Psychological Operations Group, and his co-authorship with Michael Aquino of *Mind War* (1980), tied to an audio interview clip of Aquino discussing the Temple of Set. A fourth block presents a public news reference to twelve lawsuits against Harvest Christian Fellowship/Greg Laurie alleging abuse at a Romanian children's home.
 
 The episode's structural importance lies in expanding the investigation into TPUSA institutional architecture (board composition, estate-acquisition patterns, faith-division partnerships) and into alleged Romanian/US-military trafficking corridors.
 
@@ -67,7 +67,7 @@ Confidence Level: High
 
 *Related: C-2092, N-50, N-716*
 
-**A-1619** Court Filing Bundle — Alton C. Jennings Will Challenge
+**A-1619** Court Filing Bundle – Alton C. Jennings Will Challenge
 
 **A-1619.1** Court petition filed December 2024 challenging the last will and testament and trust of Alton C. Jennings, naming Turning Point USA and Young America's Foundation as recipients of a redirected estate.
 
@@ -180,7 +180,7 @@ Confidence Level: Medium (verbally referenced; host states "we have that somewhe
 
 **A-1627** Andrew Aguilar Comment Bundle
 
-**A-1627.1** Comment from Andrew (Anthony) Aguilar — self-identified Gaza whistleblower Green Beret — stating he was arrested on September 3 in Congress for calling out AIPAC and offering to appear on the show.
+**A-1627.1** Comment from Andrew (Anthony) Aguilar – self-identified Gaza whistleblower Green Beret – stating he was arrested on September 3 in Congress for calling out AIPAC and offering to appear on the show.
 
 Video Timestamp: 00:44:19
 Confidence Level: Medium
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 *Related: A-1627.1, C-2093*
 
-**N-1480** Alton C. Jennings Will Challenge — TPUSA / YAF as Recipients
+**N-1480** Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients
 
 Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.
 
@@ -425,7 +425,7 @@ Investigative Direction: Obtain docket records (case number, court, jurisdiction
 
 Claim Timestamp: 00:16:20
 
-Claim: Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 — approximately four months before his death at age 95.
+Claim: Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 – approximately four months before his death at age 95.
 
 Anchored Artifacts: A-1619.1
 Mentions: N-706
@@ -600,7 +600,7 @@ Claim Timestamp: 00:09:14
 
 Claim: Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.
 
-Anchored Artifacts: (no direct artifact displayed in this episode — host references her previously shown timeline)
+Anchored Artifacts: (no direct artifact displayed in this episode – host references her previously shown timeline)
 Mentions: N-483
 Investigative Direction: Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**
 
@@ -618,12 +618,12 @@ Investigative Direction: Verify conflict onset date via public news records; cro
 
 ## VI. Optional Flags
 
-- **A-1626.1** — *Artifact verbally referenced but not shown*: Host states "according to social blade and we have that somewhere so you can see that" without displaying Social Blade screenshot in the transcript.
-- **A-1624.1** — *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
-- **C-2094** — *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
-- **N-483** Wed Mahmoud — *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
-- **N-713** Paul Hascgard (Habsgard) — *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
-- **N-710** Paul Valli — *Name uncertainty*: Host spells name both as "Vali" and "Valerie"; flag for verification.
+- **A-1626.1** – *Artifact verbally referenced but not shown*: Host states "according to social blade and we have that somewhere so you can see that" without displaying Social Blade screenshot in the transcript.
+- **A-1624.1** – *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
+- **C-2094** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
+- **N-483** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
+- **N-713** Paul Hascgard (Habsgard) – *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
+- **N-710** Paul Valli – *Name uncertainty*: Host spells name both as "Vali" and "Valerie"; flag for verification.
 
 ---
 

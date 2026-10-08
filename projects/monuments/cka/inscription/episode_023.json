@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1301.1",
           "ref": "A-1301.1",
-          "description": "SUBTT — Falcon 7X (Egypt) arrival February 25, 2023, St. Louis, MO, via Paris from Cairo",
+          "description": "SUBTT – Falcon 7X (Egypt) arrival February 25, 2023, St. Louis, MO, via Paris from Cairo",
           "related_claims": [
             "C-1545"
           ],
@@ -186,7 +186,7 @@
           "@type": "Artifact",
           "@id": "A-1301.9",
           "ref": "A-1301.9",
-          "description": "SUBTT arrival September 4, 2025, Provo, UT (12:46 PM local) — described as \"full plane\"",
+          "description": "SUBTT arrival September 4, 2025, Provo, UT (12:46 PM local) – described as \"full plane\"",
           "related_claims": [
             "C-1545",
             "C-1551"
@@ -214,7 +214,7 @@
           "@type": "Artifact",
           "@id": "A-1302.1",
           "ref": "A-1302.1",
-          "description": "SUBND — Gulfstream 4 (Egypt) arrival February 21, 2023, St. Louis, MO; remains until May 9, 2023",
+          "description": "SUBND – Gulfstream 4 (Egypt) arrival February 21, 2023, St. Louis, MO; remains until May 9, 2023",
           "related_claims": [
             "C-1546"
           ],
@@ -253,7 +253,7 @@
           "@type": "Artifact",
           "@id": "A-1302.3",
           "ref": "A-1302.3",
-          "description": "SUBND arrival May 23, 2025, Provo, UT — described by host as possible maintenance stop",
+          "description": "SUBND arrival May 23, 2025, Provo, UT – described by host as possible maintenance stop",
           "related_claims": [
             "C-1546",
             "C-1550"
@@ -1103,7 +1103,7 @@
       "ref": "N-1277",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
       "type": "investigation_target",
-      "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark - see Flag on A-1303.1).",
+      "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark – see Flag on A-1303.1).",
       "related_artifacts": [
         "A-1301.4",
         "A-1301.7",
@@ -1708,7 +1708,7 @@
       "@id": "C-1566",
       "ref": "C-1566",
       "label": "NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership",
-      "claim": "The host asserts — citing X researcher Village Crazy Lady — that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.",
+      "claim": "The host asserts – citing X researcher Village Crazy Lady – that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.",
       "anchored_artifacts": [
         "A-1307.1"
       ],

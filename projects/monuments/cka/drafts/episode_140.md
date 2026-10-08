@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: N-2, N-46
   - (see registers)
 
-# Episode 140 — Analysis Record
+# Episode 140 – Analysis Record
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## II. Executive Summary
 
-This episode centers on the presenter's review of newly obtained "4K HD" stills said to be derived from the same parking-garage surveillance footage previously shown to influencers in court. The host argues that the subject of the footage presents physical discrepancies with Tyler Robinson — apparent left-hand dominance, high white socks possibly masking tattoos or scars, and a hat worn above the head as if accommodating a ponytail. The host argues that media outlets deliberately seeded a "Tyler loves maroon" framing by selectively releasing photos from the mother's Facebook while suppressing other-colored shirt photos. Additional segments cover an unidentified device visible during George Zinn's arrest, an update on the 92-member "Protect Erika Kirk" X group chat (with one member identified as Britta Widener a.k.a. "No Soup For You"), and debate-prep conflicts with Andrew Wilson and his wife Rachel Wilson. The episode's structural importance is the consolidation of the "patsy" hypothesis around physical-trait evidence from the parking-garage footage and the introduction of comparative tweet-count data.
+This episode centers on the presenter's review of newly obtained "4K HD" stills said to be derived from the same parking-garage surveillance footage previously shown to influencers in court. The host argues that the subject of the footage presents physical discrepancies with Tyler Robinson – apparent left-hand dominance, high white socks possibly masking tattoos or scars, and a hat worn above the head as if accommodating a ponytail. The host argues that media outlets deliberately seeded a "Tyler loves maroon" framing by selectively releasing photos from the mother's Facebook while suppressing other-colored shirt photos. Additional segments cover an unidentified device visible during George Zinn's arrest, an update on the 92-member "Protect Erika Kirk" X group chat (with one member identified as Britta Widener a.k.a. "No Soup For You"), and debate-prep conflicts with Andrew Wilson and his wife Rachel Wilson. The episode's structural importance is the consolidation of the "patsy" hypothesis around physical-trait evidence from the parking-garage footage and the introduction of comparative tweet-count data.
 
 ---
 
@@ -49,7 +49,7 @@ This episode centers on the presenter's review of newly obtained "4K HD" stills 
 
 **A-2267** Parking Garage Surveillance Stills Bundle
 
-**A-2267.1** Clarified still of parking-garage subject — clearer, uncompressed frame described as showing a "broad" individual
+**A-2267.1** Clarified still of parking-garage subject – clearer, uncompressed frame described as showing a "broad" individual
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -279,7 +279,7 @@ Confidence Level: High (read aloud)
 
 **A-2276** Dane Cook Vicious Cycle Audio Bundle
 
-**A-2276.1** Audio excerpt from Dane Cook's 2006 Vicious Cycle HBO special — "B&E" skit, "favorite shirt" passage, "chain-link fence" passage
+**A-2276.1** Audio excerpt from Dane Cook's 2006 Vicious Cycle HBO special – "B&E" skit, "favorite shirt" passage, "chain-link fence" passage
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -485,7 +485,7 @@ Mentions: N-2, N-3
 
 Investigative Direction: Obtain independent verification of membership size, group origin date, and named administrators.
 
-*Optional flag: Transcript ambiguity — host's source is an exiting member; no screenshot displayed in this episode.*
+*Optional flag: Transcript ambiguity – host's source is an exiting member; no screenshot displayed in this episode.*
 
 ---
 
@@ -521,7 +521,7 @@ Investigative Direction: Obtain the underlying tweet-counter screenshot and veri
 
 Claim Timestamp: 00:34:13
 
-Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month window — presented as a comparison baseline against the 4,040 tweets by Britta Widener.
+Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month window – presented as a comparison baseline against the 4,040 tweets by Britta Widener.
 
 Anchored Artifacts: A-2273.3
 Mentions: N-2, N-3
@@ -579,7 +579,7 @@ Claim Timestamp: 00:52:51
 
 Claim: The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.
 
-Anchored Artifacts: A-2275.5 (and underlying court exhibits — not displayed in this episode)
+Anchored Artifacts: A-2275.5 (and underlying court exhibits – not displayed in this episode)
 Mentions: N-69
 
 Related Nodes: N-2192
@@ -621,8 +621,8 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 ## VII. Optional Flags
 
 - **Artifact verbally referenced but not shown:** Court exhibits cited for Tyler Robinson's right-handedness (C-3275); the original court's body-cam footage for the Tyler Robinson / Officer Goforth encounter (C-3266).
-- **Transcript ambiguity:** C-3268 — membership count of the "Protect Erika Kirk" group is reported by the host via an exiting member; no screenshot of the group or its roster is displayed in this episode.
-- **Name uncertainty:** "No Soup For Noels" vs. "No Soup For You" — host uses both forms interchangeably to refer to the same X account; flagged here for cross-episode consistency.
+- **Transcript ambiguity:** C-3268 – membership count of the "Protect Erika Kirk" group is reported by the host via an exiting member; no screenshot of the group or its roster is displayed in this episode.
+- **Name uncertainty:** "No Soup For Noels" vs. "No Soup For You" – host uses both forms interchangeably to refer to the same X account; flagged here for cross-episode consistency.
 - **Host reading aloud / displaying source material:** All viewer comments in A-2275 are explicitly read aloud; treated as artifacts under the read/display rule.
 - **Audio played as artifact:** A-2270.1 (Agent Hoole testimony), A-2274.1 (Andrew Wilson debate clip), A-2276.1 (Dane Cook Vicious Cycle).
 

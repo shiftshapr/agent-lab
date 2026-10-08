@@ -41,7 +41,7 @@
 
 ## II. Executive Summary
 
-This episode advances the Epstein-orbit / Next Model Management investigation introduced in Episode 76 and introduces two new lines: (1) Erika Kirk's alleged New York real-estate activities connected to modeling-agency housing for Eastern European models, and (2) the trajectory of Arizona SB 1439 — a proposed "Charlie Kirk Memorial" specialty license plate — through legislative passage to gubernatorial veto. The host displays and reads several documentary artifacts, including an Epstein email to Peter Thiel referencing Rothschild representation, a 2017 Erika Kirk Instagram tribute to "Uncle Allan" Rothstein, Erika Kirk's real-estate bio, a relic of her NY real-estate license, an audio excerpt from her "American Race" audition tape, an email from a former Antonio Placement Center resident, Tyler Bowyer social-media statements, Jake Hoffman's Fox News comments, Tyler Bowyer's X post on the plate veto, and the Katie Hobbs veto letter. The episode also raises an Arizona-to-Romania pipeline question (honorary Romanian consulate at ASU, Arizona-Romania trade office).
+This episode advances the Epstein-orbit / Next Model Management investigation introduced in Episode 76 and introduces two new lines: (1) Erika Kirk's alleged New York real-estate activities connected to modeling-agency housing for Eastern European models, and (2) the trajectory of Arizona SB 1439 – a proposed "Charlie Kirk Memorial" specialty license plate – through legislative passage to gubernatorial veto. The host displays and reads several documentary artifacts, including an Epstein email to Peter Thiel referencing Rothschild representation, a 2017 Erika Kirk Instagram tribute to "Uncle Allan" Rothstein, Erika Kirk's real-estate bio, a relic of her NY real-estate license, an audio excerpt from her "American Race" audition tape, an email from a former Antonio Placement Center resident, Tyler Bowyer social-media statements, Jake Hoffman's Fox News comments, Tyler Bowyer's X post on the plate veto, and the Katie Hobbs veto letter. The episode also raises an Arizona-to-Romania pipeline question (honorary Romanian consulate at ASU, Arizona-Romania trade office).
 
 The host advances interpretive claims about Faith Kates's relationship to Epstein, the Rothstein family's possible introduction of Erika to New York real estate, unverifiable elements of her real-estate bio, and inability to independently verify her NY real-estate license. These interpretive claims are linked back to artifacts but extend beyond what the artifacts alone prove.
 
@@ -109,7 +109,7 @@ Confidence Level: High
 
 **A-1826** American Race Audition Tape Bundle
 
-**A-1826.1** Audio Excerpt: "The American Race" audition tape — Erika Kirk describing Romanian Angels / Marine Corps orphanage partnership
+**A-1826.1** Audio Excerpt: "The American Race" audition tape – Erika Kirk describing Romanian Angels / Marine Corps orphanage partnership
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -381,7 +381,7 @@ Investigative Pressure: Medium
 
 **N-1601** SB 1439 Charlie Kirk Memorial Plate Fund Routing
 
-Persistent target: SB 1439's "conservative grassroots network special plate fund" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) — descriptors matching Turning Point USA per host.
+Persistent target: SB 1439's "conservative grassroots network special plate fund" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.
 
 Evidence Count: 3
 Claim Count: 3
@@ -641,7 +641,7 @@ Investigative Direction: Conduct direct NY Department of State licensee search b
 
 Claim Timestamp: 00:31:36
 
-Claim: Per host reading of SB 1439, the bill's "conservative grassroots network special plate fund" description — a nonprofit founded in 2012 focusing on restoring traditional values, maintaining a grassroots activist network on high school and college campuses in Arizona, and assisting with voter registration and absentee ballots — matches characteristics of Turning Point USA, although TPUSA is not named explicitly in the bill.
+Claim: Per host reading of SB 1439, the bill's "conservative grassroots network special plate fund" description – a nonprofit founded in 2012 focusing on restoring traditional values, maintaining a grassroots activist network on high school and college campuses in Arizona, and assisting with voter registration and absentee ballots – matches characteristics of Turning Point USA, although TPUSA is not named explicitly in the bill.
 
 Anchored Artifacts: A-1829.1
 Mentions: N-964, N-966
@@ -672,8 +672,8 @@ Confidence: high
 - **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erica Kirk" (N-2). Preserved as N-2 with episode spelling noted.
 - **Name uncertainty:** Real-estate bio and various references use "Erika Fronsve" / "Erika Franve" / "Erika Franceway"; standard spelling appears to be "Erika Frantzve." Preserved exactly as transcribed in A-1824.1 and A-1825.1.
 - **Name uncertainty:** Transcript shows "Fran Rothschild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
-- **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" — standard spelling used in node references.
-- **Artifact verbally referenced but not shown:** A-1822.1, A-1831.1, A-1833.1, A-1834.1 — host references or quotes content without visible on-screen display in the cleaned transcript; treated as artifacts because host reads or directly describes their content.
+- **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" – standard spelling used in node references.
+- **Artifact verbally referenced but not shown:** A-1822.1, A-1831.1, A-1833.1, A-1834.1 – host references or quotes content without visible on-screen display in the cleaned transcript; treated as artifacts because host reads or directly describes their content.
 - **Requires human verification:** Claims of internal bill-text descriptors (C-2452) should be re-checked against full SB 1439 text rather than host paraphrase.
 - **Claim failed admission test (recorded but excluded):** Host's interpretation that Fran Rothschild co-founding Wilhelmina Models is meaningfully connected to Epstein's Rothschild representation claim; treated as interpretive commentary rather than artifact-anchored claim.
 - **Claim failed admission test (recorded but excluded):** Host's inference that Erika's "real estate deals with family" referenced the Rothstein family rather than her Scottsdale family; treated as speculation.

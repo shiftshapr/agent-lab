@@ -47,7 +47,7 @@ Structurally, this episode functions as evidence-chain and chain-of-custody cons
 
 **A-2284** Terrell Farnsworth 1102 Statement Bundle
 
-**A-2284.1** 1102 Statement — First Portion (four videos via Google Drive)
+**A-2284.1** 1102 Statement – First Portion (four videos via Google Drive)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -57,7 +57,7 @@ Confidence Level: High (read aloud verbatim by host)
 
 *Related: C-3290, C-3291, C-3292, N-2196*
 
-**A-2284.2** 1102 Statement — Second Portion (80704 clipped-footage representation)
+**A-2284.2** 1102 Statement – Second Portion (80704 clipped-footage representation)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -71,7 +71,7 @@ Confidence Level: High (read aloud verbatim by host)
 
 **A-2285** SBI Agent David Hull Testimony Bundle
 
-**A-2285.1** Hull Preliminary-Hearing Audio Clip — Visual Impulse Video Chain of Custody
+**A-2285.1** Hull Preliminary-Hearing Audio Clip – Visual Impulse Video Chain of Custody
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -85,7 +85,7 @@ Confidence Level: High (audio clip played by host)
 
 **A-2286** Nissi Back-Camera Comparison Bundle
 
-**A-2286.1** Nissi Video Analysis — Wide-Angle vs Zoomed Back Camera Across Tour Stops
+**A-2286.1** Nissi Video Analysis – Wide-Angle vs Zoomed Back Camera Across Tour Stops
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -99,7 +99,7 @@ Confidence Level: High (audio clip played by host)
 
 **A-2287** Andrew Kulvette Tucker Carlson Interview Bundle
 
-**A-2287.1** Kulvette Audio Clip — "Because I know people can be evil" Explanation
+**A-2287.1** Kulvette Audio Clip – "Because I know people can be evil" Explanation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -127,7 +127,7 @@ Confidence Level: High (video shown by host)
 
 **A-2289** John Kirraou Danny Jones Podcast Bundle
 
-**A-2289.1** Kirraou Audio Clip — FBI Involvement in State-Case Question
+**A-2289.1** Kirraou Audio Clip – FBI Involvement in State-Case Question
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -141,7 +141,7 @@ Confidence Level: High (audio clip played by host)
 
 **A-2290** Joe Rogan Experience Episode Bundle
 
-**A-2290.1** Rogan Panel Audio Clip — Tyler Robinson Photo Distortion Discussion
+**A-2290.1** Rogan Panel Audio Clip – Tyler Robinson Photo Distortion Discussion
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -155,7 +155,7 @@ Confidence Level: High (audio clip played by host)
 
 **A-2291** WearForbidden Video Bundle
 
-**A-2291.1** WearForbidden Parody Video — "Positive Evidence" / Pickle Pup Erika Kirk Skit
+**A-2291.1** WearForbidden Parody Video – "Positive Evidence" / Pickle Pup Erika Kirk Skit
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -169,7 +169,7 @@ Confidence Level: High (audio clip played by host)
 
 **A-2292** Top Comments From Yesterday's Episode Bundle
 
-**A-2292.1** Comment by K. — Andrew Wilson debate at 1.75x speed
+**A-2292.1** Comment by K. – Andrew Wilson debate at 1.75x speed
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -178,7 +178,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: N-2203, N-46*
 
-**A-2292.2** Comment by Nikki — $100,000/hour humiliation
+**A-2292.2** Comment by Nikki – $100,000/hour humiliation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -187,7 +187,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: N-2203*
 
-**A-2292.3** Comment by Trillion — TPUSA PR strategy disaster
+**A-2292.3** Comment by Trillion – TPUSA PR strategy disaster
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -200,7 +200,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 **A-2293** Comments From Today's Episode Bundle
 
-**A-2293.1** Comment by "the one you feed" — Bug-sweep of Candace's house
+**A-2293.1** Comment by "the one you feed" – Bug-sweep of Candace's house
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -209,7 +209,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related:*
 
-**A-2293.2** Comment by Alicia Switzer — Ian Carol 6-hour reaction video
+**A-2293.2** Comment by Alicia Switzer – Ian Carol 6-hour reaction video
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -218,7 +218,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related:*
 
-**A-2293.3** Comment by James Gray — Woman-hating man paid 300K
+**A-2293.3** Comment by James Gray – Woman-hating man paid 300K
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -227,7 +227,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related:*
 
-**A-2293.4** Comment by TJ Palo — "Because I know people can be evil"
+**A-2293.4** Comment by TJ Palo – "Because I know people can be evil"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -236,7 +236,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: A-2287.1*
 
-**A-2293.5** Comment by Blackest Panther — Israel focus claim
+**A-2293.5** Comment by Blackest Panther – Israel focus claim
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -245,7 +245,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: N-2204*
 
-**A-2293.6** Comment by Zamut — "Burden bestowed on Candace Owens is a blessing"
+**A-2293.6** Comment by Zamut – "Burden bestowed on Candace Owens is a blessing"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -254,7 +254,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: C-3301*
 
-**A-2293.7** Comment by Anna — Text-message "left" contradiction
+**A-2293.7** Comment by Anna – Text-message "left" contradiction
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -263,7 +263,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: N-2205*
 
-**A-2293.8** Comment by Joey D. April — "Debategate" timeline entry
+**A-2293.8** Comment by Joey D. April – "Debategate" timeline entry
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -272,7 +272,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: N-2203*
 
-**A-2293.9** Comment by Golf/Cadence — Kanye "Stars" reference
+**A-2293.9** Comment by Golf/Cadence – Kanye "Stars" reference
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -473,7 +473,7 @@ Investigative Direction: Obtain the September 18 phone-call recording or contemp
 
 Claim Timestamp: 00:12:35
 
-Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 — not the SD cards.
+Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.
 
 Anchored Artifacts: A-2285.1
 

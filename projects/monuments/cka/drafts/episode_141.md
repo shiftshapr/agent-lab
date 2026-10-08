@@ -59,7 +59,7 @@ The episode advances two open investigative threads: the September 9, 2025 messa
 
 *Moderated by Patrick Bet-David (PBD). Single evidentiary source: the published debate recording.*
 
-**A-2277.1** Debate Segment — Wilson's Opening Statement Read From Phone
+**A-2277.1** Debate Segment – Wilson's Opening Statement Read From Phone
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -69,7 +69,7 @@ Confidence Level: High
 
 *Related: C-3277, C-3289, N-2193, N-2194*
 
-**A-2277.2** Debate Segment — Wilson's 75–85% Confidence Estimate
+**A-2277.2** Debate Segment – Wilson's 75–85% Confidence Estimate
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -79,7 +79,7 @@ Confidence Level: High
 
 *Related: C-3278*
 
-**A-2277.3** Debate Segment — Wilson's Repeated Use of "Positive Evidence"
+**A-2277.3** Debate Segment – Wilson's Repeated Use of "Positive Evidence"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -89,7 +89,7 @@ Confidence Level: High
 
 *Related: C-3280*
 
-**A-2277.4** Debate Segment — Wilson Unable to Name Any of Seven Charges
+**A-2277.4** Debate Segment – Wilson Unable to Name Any of Seven Charges
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -99,7 +99,7 @@ Confidence Level: High
 
 *Related: C-3279*
 
-**A-2277.5** Debate Segment — Screwdriver and Timeline Discussion
+**A-2277.5** Debate Segment – Screwdriver and Timeline Discussion
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -109,7 +109,7 @@ Confidence Level: High
 
 *Related: N-2194*
 
-**A-2277.6** Debate Segment — 16-Second Silence and Lance DNA Clip Moment
+**A-2277.6** Debate Segment – 16-Second Silence and Lance DNA Clip Moment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -119,7 +119,7 @@ Confidence Level: High
 
 *Related: C-3281*
 
-**A-2277.7** Debate Segment — Wilson's False Attribution of "Girl Boss" to Owens
+**A-2277.7** Debate Segment – Wilson's False Attribution of "Girl Boss" to Owens
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -161,7 +161,7 @@ Confidence Level: High
 
 **A-2280** Rachel Wilson X Post Bundle
 
-**A-2280.1** Rachel Wilson X Post — In-Ear Monitor Question
+**A-2280.1** Rachel Wilson X Post – In-Ear Monitor Question
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -171,7 +171,7 @@ Confidence Level: High
 
 *Related: C-3285*
 
-**A-2280.2** Rachel Wilson X Post — Acknowledging Owens Knew Case Details Better
+**A-2280.2** Rachel Wilson X Post – Acknowledging Owens Knew Case Details Better
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -185,7 +185,7 @@ Confidence Level: High
 
 **A-2281** Steven Crowder Post-Debate Phone Call
 
-**A-2281.1** Audio Clip — Steven Crowder Asking Andrew Wilson Whether He Was Provided Hair and Makeup
+**A-2281.1** Audio Clip – Steven Crowder Asking Andrew Wilson Whether He Was Provided Hair and Makeup
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -441,11 +441,11 @@ Investigative Direction: Verify whether the cell phone referenced matches the de
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kulvette" / "Andrew Kovette" / "Andrew Kolvet" — same individual spelled three different ways in the transcript. Preserve as appears in each instance.
-- **Name uncertainty:** "Blake Nef" / "Blake Neff" — single individual with spelling variation in transcript.
-- **Name uncertainty:** "Michael Nolles" / "Michael Noles" — single individual with spelling variation in transcript.
+- **Name uncertainty:** "Andrew Kulvette" / "Andrew Kovette" / "Andrew Kolvet" – same individual spelled three different ways in the transcript. Preserve as appears in each instance.
+- **Name uncertainty:** "Blake Nef" / "Blake Neff" – single individual with spelling variation in transcript.
+- **Name uncertainty:** "Michael Nolles" / "Michael Noles" – single individual with spelling variation in transcript.
 - **Possible transcription error:** "Breijit Mcronone" appears at 05:54 in the context of a "prosecution team"; likely a transcription error for a real named individual. Flag for human verification.
-- **Transcript ambiguity:** "Tyler Robinson dispense defense" at 00:42:35 — likely intended as "defense" or "dispensability"; flag for human verification.
+- **Transcript ambiguity:** "Tyler Robinson dispense defense" at 00:42:35 – likely intended as "defense" or "dispensability"; flag for human verification.
 - **Narrative claims not artifact-backed:** The pre-debate negotiation narrative (Andrew Wilson demanding public X negotiation; Joe Rogan hosting offer; "Crucible team" anonymous emails; 90-minute deposition demand; contract signed Thursday; Steven Crowder-affiliated team members arriving without prior identification) is narrated in detail by the host but no email screenshots, contract pages, or other documentary artifacts are displayed in this episode. These claims fail the Artifact Anchor Test and were not inscribed in the Claim Register.
 - **Artifact verbally referenced but not shown:** The "Tyler Robinson dismissal filing" referenced at 00:42:35 is described as containing compelling arguments but the filing itself is not displayed in this episode.
 - **Artifact verbally referenced but not shown:** Andrew Wilson's previously stated assertion (per the host) that Erika Kirk was "too [afraid] to kill her husband" is mentioned at 00:33:11 but no underlying X post or recording is displayed.

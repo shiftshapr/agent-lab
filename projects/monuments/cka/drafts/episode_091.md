@@ -39,7 +39,7 @@ Episode X Ledger Summary
 
 ## II. Executive Summary
 
-Episode 91 introduces Corby Hall, manufacturer of Fold AR rifles, who provides a first-person written timeline alleging that Victor Marx — a Turning Point Faith-affiliated pastor and 2026 Colorado gubernatorial candidate — sought to acquire a controlling stake in Fold AR and requested large-scale weapons transfers. Hall's statement alleges Marx requested 50 rifles for a Haiti mission (including a long-range rifle intended to execute intruders at an orphanage) and stated that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria. The episode also documents the disappearance of Fold AR SN 02735 from a Texas deputy's vehicle in July 2024 and a subsequent ATF trace request for that exact serial number dated the morning of Charlie Kirk's assassination (September 10, 2025).
+Episode 91 introduces Corby Hall, manufacturer of Fold AR rifles, who provides a first-person written timeline alleging that Victor Marx – a Turning Point Faith-affiliated pastor and 2026 Colorado gubernatorial candidate – sought to acquire a controlling stake in Fold AR and requested large-scale weapons transfers. Hall's statement alleges Marx requested 50 rifles for a Haiti mission (including a long-range rifle intended to execute intruders at an orphanage) and stated that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria. The episode also documents the disappearance of Fold AR SN 02735 from a Texas deputy's vehicle in July 2024 and a subsequent ATF trace request for that exact serial number dated the morning of Charlie Kirk's assassination (September 10, 2025).
 
 The evidentiary basis is substantial: Hall's written statement is read in full; an Instagram video of Erika Kirk being embraced by Eileen Marx shortly after the assassination is shown; a CBN News clip documents Marx's Haiti meeting with gang leader Jimmy Barbecue (Cherizier); a Trump White House Easter clip captures Trump publicly acknowledging US arms shipments to Iranian protesters; an audio clip of Marx recounting an alleged coerced killing at age 7 is played; and the ATF trace email is described as forwarded and verified by the host.
 
@@ -240,7 +240,7 @@ Investigative Pressure: High
 
 **N-1680** Erika Kirk–Victor Marx Relationship Verification
 
-Persistent question regarding the nature, depth, and timing of Erika Kirk's relationship with Victor Marx — including the proximity and recording of the post-assassination contact window.
+Persistent question regarding the nature, depth, and timing of Erika Kirk's relationship with Victor Marx – including the proximity and recording of the post-assassination contact window.
 
 Evidence Count: 2 (A-1958.1, A-1959.2)
 Claim Count: 2
@@ -424,7 +424,7 @@ Investigative Direction: Verify any related communications, broker contacts, or 
 
 Claim Timestamp: 00:34:23
 
-Claim: Corby Hall's written statement documents that Victor Marx showed Hall a structure behind his house that included a large underground bunker, a front-facing firearm port, and an indoor shooting range — described as intended for "spiritual retooling" of officers working child sex trafficking cases.
+Claim: Corby Hall's written statement documents that Victor Marx showed Hall a structure behind his house that included a large underground bunker, a front-facing firearm port, and an indoor shooting range – described as intended for "spiritual retooling" of officers working child sex trafficking cases.
 
 Anchored Artifacts: A-1958.1
 
@@ -622,10 +622,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo", host notes the military record may show "Vo" without "n." Flag retained on former local id 1207 and N-1679.
-- **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) — host describes it as forwarded and confirmed but does not directly display it in the episode.
-- **Possible transcription error**: A-1960.1 — gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
+- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" – host notes the military record may show "Vo" without "n." Flag retained on former local id 1207 and N-1679.
+- **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) – host describes it as forwarded and confirmed but does not directly display it in the episode.
+- **Possible transcription error**: A-1960.1 – gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
 - **Name transcription oddity**: Host spells "Corey Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-1217.
 - **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions (former local id 1207, former local id 1212, former local id 1213, former local id 1214, N-1679).
-- **Timestamp uncertainty**: A-1960.1 — exact event date for the CBN News segment is not stated; only inferable from clip context.
+- **Timestamp uncertainty**: A-1960.1 – exact event date for the CBN News segment is not stated; only inferable from clip context.
 - **Requires human verification**: All N-1675, N-1676, N-1677, N-1678 nodes require independent verification beyond Corby Hall's written statement.

@@ -36,7 +36,7 @@ This episode is a pause from the Bride of Charlie primary investigation, used by
 
 The episode presents an array of evidentiary material. Most consequential are read-aloud audio/video artifacts: a Tucker Carlson X post about "the spell," a Wikipedia entry on the Seal of Solomon, an audio clip of Father Ripperger discussing "revealing of the method," an audio clip of three pro-Kirk media figures (Tyler Bowyer, Frank Turek, Mikey McQuaid) discussing Erika Kirk's presidential viability in the weeks following the assassination, and a clip of President Trump publicly questioning Miriam Adelson's loyalty between the U.S. and Israel. The host also displays a physical document she characterizes as a "33rd degree Freemason Bible" mailed to her by an anonymous viewer, which contains illustrations and text she reads aloud.
 
-Secondary artifact material includes headlines and report excerpts: a Venezuela-to-Israel oil shipment headline following the U.S. operation against Maduro, a Washington Post passage regarding glyphosate/white phosphorus production under a Defense Production Act invocation, and a headline on Israeli use of white phosphorus. Three on-camera interview clips — Marco Rubio (justifying the Iran bombing as preemptive of an Israeli strike), Benny Gantz (not excluding boots on the ground), and Karoline Leavitt (saying Trump keeps "options on the table") — anchor the policy-betrayal argument.
+Secondary artifact material includes headlines and report excerpts: a Venezuela-to-Israel oil shipment headline following the U.S. operation against Maduro, a Washington Post passage regarding glyphosate/white phosphorus production under a Defense Production Act invocation, and a headline on Israeli use of white phosphorus. Three on-camera interview clips – Marco Rubio (justifying the Iran bombing as preemptive of an Israeli strike), Benny Gantz (not excluding boots on the ground), and Karoline Leavitt (saying Trump keeps "options on the table") – anchor the policy-betrayal argument.
 
 Structurally, the episode advances the Bride of Charlie series by hardening the host's claim that TPUSA is grooming Erika Kirk for a presidential run, and by tying that grooming to a broader occultic-influence thesis in which Israel-policy alignment functions as evidence of cabal control. The episode does not introduce any new direct evidence about Charlie Kirk's assassination itself; all artifact-anchored claims about the killing remain either previously established or framed (the host's "pentagon seating" assertion, for example, is host inference not anchored to an in-episode artifact depicting Charlie's actual seating geometry).
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:01:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-50 (Tucker Carlson — reuse if exists, else new)*
+*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-50 (Tucker Carlson – reuse if exists, else new)*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:12:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (Wikipedia, paraphrased on-screen)
 
-*Related: C-3569, N-2 (Erica Kirk), N-1003 (host-curated occult reading node — reuse if exists)*
+*Related: C-3569, N-2 (Erica Kirk), N-1003 (host-curated occult reading node – reuse if exists)*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:10:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable in episode; document mailed anonymously)
 
-*Related: C-3571, N-1 (Charlie Kirk), N-2347 (Freemason Bible authentication — reuse if exists)*
+*Related: C-3571, N-1 (Charlie Kirk), N-2347 (Freemason Bible authentication – reuse if exists)*
 
 **A-2439.2** Text excerpt from the document: "It has been correctly stated that symbolism constitutes the very essence of Freemasonry… A symbol or an emblem is an occult representation of something unknown or concealed by a sign or a thing that is known." Section titled "the science of symbolism explained."
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erica Kirk), N-37 (Tyler Bowyer — reuse if exists)*
+*Related: C-3573, N-2 (Erica Kirk), N-37 (Tyler Bowyer – reuse if exists)*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (dated)
 
-*Related: C-3574, N-2 (Erica Kirk), N-16 (Frank Turek — reuse if exists)*
+*Related: C-3574, N-2 (Erica Kirk), N-16 (Frank Turek – reuse if exists)*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:21:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (date not given in episode)
 
-*Related: C-3575, N-2 (Erica Kirk), N-272 (Mikey McQuaid — reuse if exists)*
+*Related: C-3575, N-2 (Erica Kirk), N-272 (Mikey McQuaid – reuse if exists)*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3576, (Miriam Adelson - reuse if exists), N-5 (Donald Trump - reuse if exists)*
+*Related: C-3576, (Miriam Adelson – reuse if exists), N-5 (Donald Trump – reuse if exists)*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erica Kirk), N-443 (Tim Dillon - reuse if exists)*
+*Related: C-3583, N-2 (Erica Kirk), N-443 (Tim Dillon – reuse if exists)*
 
 ---
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:41:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3580, N-5 (Donald Trump), (Marco Rubio - reuse if exists)*
+*Related: C-3580, N-5 (Donald Trump), (Marco Rubio – reuse if exists)*
 
 ---
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:46:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3581, N-65 (Bibi Netanyahu — reuse if exists), Benny Gantz (no node)*
+*Related: C-3581, N-65 (Bibi Netanyahu – reuse if exists), Benny Gantz (no node)*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-5 (Donald Trump), N-446 (Karoline Leavitt - reuse if exists)*
+*Related: C-3582, N-5 (Donald Trump), N-446 (Karoline Leavitt – reuse if exists)*
 
 ---
 
@@ -544,13 +544,13 @@ Confidence: high
 - **Artifact verbally referenced but not shown (Matier Fecal Paris Fashion Show):** Host mentions a Paris Fashion Show collection but no image or clip is shown.
 - **Transcript ambiguity (Kash Patel "33 hours"):** Host claims Kash Patel "continually stressing 33 hours" but no clip or post artifact is presented. Possible transcription error or simply narrated. Requires human verification.
 - **Name uncertainty (Lenty Gram):** Host references "Lenty Gram" in passing; appears to refer to Senator Lindsey Graham, but no clear identification is made. Flag for transcription error / name uncertainty.
-- **Possible transcription error (Frank Turek quote):** The line "I used to say to him the ticket in 2028 is going to be Vance Kirk" reads as "I will employ every reason" earlier in the Trump chapter — that prior line ("I will employ every reason No…") appears garbled and may be a transcription artifact. Requires human verification against episode audio.
+- **Possible transcription error (Frank Turek quote):** The line "I used to say to him the ticket in 2028 is going to be Vance Kirk" reads as "I will employ every reason" earlier in the Trump chapter – that prior line ("I will employ every reason No…") appears garbled and may be a transcription artifact. Requires human verification against episode audio.
 - **Timestamp uncertainty (event dates for several clips):** Specific dates are not given in the transcript for A-2443.1 (Trump/Adelson clip), A-2444.1 (Tim Dillon), A-2445.1 (Venezuela headline), A-2447.1 (white phosphorus headline), A-2448.1 (Rubio clip), A-2449.1 (Gantz clip), or A-2450.1 (Levitt briefing). These are noted in the artifact register as undated within the episode.
-- **Claim failed admission test — Framing Premise:** "I believe that Charlie Kirk was the first casualty of the war in Iran" (host framing premise, not artifact-anchored in this episode).
-- **Claim failed admission test — Framing Premise:** "He was betrayed. Charlie Kirk was the first casualty of the war in Iran. I'm certain of that" (host framing premise).
-- **Claim failed admission test — Framing Premise:** "It's my belief… that he was intentionally sacrificed" (host framing premise, supported only by analogy to A-2439.1, not by direct evidence).
-- **Claim failed admission test — Speculation / Interpretive Commentary:** "Charlie was indeed seated in the center of a pentagon when he was killed" (host inference; no in-episode artifact depicting actual seating geometry — flagged under investigation target N-2346).
-- **Claim failed admission test — Speculation:** "Only a psychopath could… offer a raise to Dan Flood… and give an in-home interview to the New York Times" (host psychological inference; no artifact shown in this episode).
+- **Claim failed admission test – Framing Premise:** "I believe that Charlie Kirk was the first casualty of the war in Iran" (host framing premise, not artifact-anchored in this episode).
+- **Claim failed admission test – Framing Premise:** "He was betrayed. Charlie Kirk was the first casualty of the war in Iran. I'm certain of that" (host framing premise).
+- **Claim failed admission test – Framing Premise:** "It's my belief… that he was intentionally sacrificed" (host framing premise, supported only by analogy to A-2439.1, not by direct evidence).
+- **Claim failed admission test – Speculation / Interpretive Commentary:** "Charlie was indeed seated in the center of a pentagon when he was killed" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-2346).
+- **Claim failed admission test – Speculation:** "Only a psychopath could… offer a raise to Dan Flood… and give an in-home interview to the New York Times" (host psychological inference; no artifact shown in this episode).
 
 ---
 
@@ -585,4 +585,4 @@ Confidence: high
 **Existing Nodes Reused (illustrative):**
 - N-1 Charlie Kirk
 - N-2 Erica Kirk
-- (And any existing nodes for: Tucker Carlson, Donald Trump, Tyler Bowyer, Frank Turek, Mikey McQuaid, Miriam Adelson, Marco Rubio, Bibi Netanyahu, Benny Gantz, Karoline Leavitt, Aleister Crowley, Marina Abramović, Elizabeth Lane, Dan Flood, Jesse Watters, Tyler Robinson, Bill Ackman, Randy Fine, Paula White, Norm Finkelstein, Kash Patel, etc. — exact IDs not visible in this analysis window and should be reconciled against the global ledger.)
+- (And any existing nodes for: Tucker Carlson, Donald Trump, Tyler Bowyer, Frank Turek, Mikey McQuaid, Miriam Adelson, Marco Rubio, Bibi Netanyahu, Benny Gantz, Karoline Leavitt, Aleister Crowley, Marina Abramović, Elizabeth Lane, Dan Flood, Jesse Watters, Tyler Robinson, Bill Ackman, Randy Fine, Paula White, Norm Finkelstein, Kash Patel, etc. – exact IDs not visible in this analysis window and should be reconciled against the global ledger.)

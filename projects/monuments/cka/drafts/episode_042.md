@@ -64,7 +64,7 @@ Confidence Level: High
 
 *Related: C-1839, C-1840, N-494, N-224, N-2, N-1384*
 
-**A-1501.2** Segment: Blake Nef response — Erika Kirk direction and in-person rationale
+**A-1501.2** Segment: Blake Nef response – Erika Kirk direction and in-person rationale
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -285,7 +285,7 @@ Investigative Pressure: Medium
 
 **N-42** Andrew Kolvet
 
-TPUSA figure referenced in connection with the live stream; spelling varies in transcript ("Andrew Kovat," "Andrew Kovette," "Andrew Kovac") — see Optional Flags.
+TPUSA figure referenced in connection with the live stream; spelling varies in transcript ("Andrew Kovat," "Andrew Kovette," "Andrew Kovac") – see Optional Flags.
 
 Evidence Count: 0
 Claim Count: 0
@@ -307,7 +307,7 @@ Investigative Pressure: Low
 
 **N-490** Jacob Kasparian
 
-Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled "Jordan Kasparian" once in transcript — see Optional Flags.
+Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled "Jordan Kasparian" once in transcript – see Optional Flags.
 
 Evidence Count: 0
 Claim Count: 0
@@ -674,7 +674,7 @@ Investigative Direction: Cross-reference the email assertions against publicly a
 
 Claim Timestamp: 00:44:21
 
-Claim: Per host recollection, there are only two videos showing the alleged shooter on the roof — one from the side showing a crouched figure holding a gun.
+Claim: Per host recollection, there are only two videos showing the alleged shooter on the roof – one from the side showing a crouched figure holding a gun.
 
 Anchored Artifacts: A-1509.1
 
@@ -763,9 +763,9 @@ Investigative Direction: Monitor TPUSA channels for confirmation and document th
 - Name uncertainty: "Andrew Kovat," "Andrew Kovette," "Andrew Kovac" appear in this transcript for what appears to be the same individual. Spelling not normalized.
 - Transcript ambiguity / possible transcription error: "Jacob Kasparian" appears consistently in this episode, but one reference reads "Jordan Kasparian" (at approximately 27:51, in context of Carrie Bartholomew's location). Treat as transcription error pending verification.
 - Artifact verbally referenced but not shown: Some UVU footage stills (A-1505.3, A-1505.4, A-1505.6) were verbally described and superimposed rather than shown as clean still frames. Requires human verification.
-- Timestamp uncertainty: Side-angle roof video shooter's follow-up call (A-1509.1) — exact date not specified in transcript.
-- Timestamp uncertainty: A-1507.1 (Apple Podcasts ranking tweet) — original publication timestamp not specified.
+- Timestamp uncertainty: Side-angle roof video shooter's follow-up call (A-1509.1) – exact date not specified in transcript.
+- Timestamp uncertainty: A-1507.1 (Apple Podcasts ranking tweet) – original publication timestamp not specified.
 - Transcript ambiguity: The Game's "Zion and Nasam" lyric may be a transcription artifact; the precise lyric should be verified against the released track.
-- Claim failed admission test: "Maroon boys were tasked with taking footage from predetermined angles" (host's theory) — not inscribed; classified as Speculation.
-- Claim failed admission test: "None of [Jacob Kasparian's] family members posted anything about Charlie's assassination" — not inscribed as artifact-anchored claim; classified as Investigative Observation pending social media audit.
-- Claim failed admission test: Host framing premises ("this is a deep state assassination," "they are lying") — not inscribed.
+- Claim failed admission test: "Maroon boys were tasked with taking footage from predetermined angles" (host's theory) – not inscribed; classified as Speculation.
+- Claim failed admission test: "None of [Jacob Kasparian's] family members posted anything about Charlie's assassination" – not inscribed as artifact-anchored claim; classified as Investigative Observation pending social media audit.
+- Claim failed admission test: Host framing premises ("this is a deep state assassination," "they are lying") – not inscribed.

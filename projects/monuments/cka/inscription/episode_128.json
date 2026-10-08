@@ -98,7 +98,7 @@
           "@type": "Artifact",
           "@id": "A-2155.1",
           "ref": "A-2155.1",
-          "description": "Dan Bongino on Megyn Kelly — \"the video is very grainy\" segment",
+          "description": "Dan Bongino on Megyn Kelly – \"the video is very grainy\" segment",
           "related_claims": [
             "C-3062"
           ],
@@ -199,7 +199,7 @@
           "@type": "Artifact",
           "@id": "A-2157.4",
           "ref": "A-2157.4",
-          "description": "2016 RNC convention article — Jennifer Faumuina as volunteer trooper (Ohio)",
+          "description": "2016 RNC convention article – Jennifer Faumuina as volunteer trooper (Ohio)",
           "related_claims": [
             "C-3067"
           ],
@@ -240,7 +240,7 @@
           "@type": "Artifact",
           "@id": "A-2158.1",
           "ref": "A-2158.1",
-          "description": "Bo Mason appointed Commissioner of Utah DPS — June 19, 2025 (by Gov. Cox)",
+          "description": "Bo Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)",
           "related_claims": [
             "C-3071"
           ],
@@ -258,7 +258,7 @@
           "@type": "Artifact",
           "@id": "A-2158.2",
           "ref": "A-2158.2",
-          "description": "Andrew Zenger appointed CEO of Timpanogos Hospital — August 18, 2025",
+          "description": "Andrew Zenger appointed CEO of Timpanogos Hospital – August 18, 2025",
           "related_claims": [
             "C-3072"
           ],
@@ -276,7 +276,7 @@
           "@type": "Artifact",
           "@id": "A-2158.3",
           "ref": "A-2158.3",
-          "description": "Judge Tony Graff appointed — May 2025",
+          "description": "Judge Tony Graff appointed – May 2025",
           "related_claims": [
             "C-3073"
           ],
@@ -294,7 +294,7 @@
           "@type": "Artifact",
           "@id": "A-2158.4",
           "ref": "A-2158.4",
-          "description": "Utah medical examiner appointment — July 2024",
+          "description": "Utah medical examiner appointment – July 2024",
           "related_claims": [],
           "related_nodes": [
             "N-2132"
@@ -310,7 +310,7 @@
           "@type": "Artifact",
           "@id": "A-2158.5",
           "ref": "A-2158.5",
-          "description": "Robert Bowles assumes leadership of FBI Salt Lake City Field Office — September 2, 2025",
+          "description": "Robert Bowles assumes leadership of FBI Salt Lake City Field Office – September 2, 2025",
           "related_claims": [
             "C-3074"
           ],
@@ -427,7 +427,7 @@
           "@type": "Artifact",
           "@id": "A-2162.1",
           "ref": "A-2162.1",
-          "description": "First Blake Neff statement — overnight stay attributed to Orem, UT",
+          "description": "First Blake Neff statement – overnight stay attributed to Orem, UT",
           "related_claims": [
             "C-3080"
           ],
@@ -445,7 +445,7 @@
           "@type": "Artifact",
           "@id": "A-2162.2",
           "ref": "A-2162.2",
-          "description": "Second Blake Neff statement — revised to Salt Lake City, no hotel name recalled",
+          "description": "Second Blake Neff statement – revised to Salt Lake City, no hotel name recalled",
           "related_claims": [
             "C-3080",
             "C-3081"
@@ -1086,7 +1086,7 @@
       "@id": "C-3074",
       "ref": "C-3074",
       "label": "Robert Bowles assumed leadership of FBI Salt Lake City on September 2, 2025",
-      "claim": "Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 — eight days before the assassination.",
+      "claim": "Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 – eight days before the assassination.",
       "anchored_artifacts": [
         "A-2158.5"
       ],

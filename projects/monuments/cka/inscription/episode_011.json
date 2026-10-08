@@ -24,7 +24,7 @@
           "@type": "Artifact",
           "@id": "A-1171.1",
           "ref": "A-1171.1",
-          "description": "2022 police bodycam footage of Tyler Robinson making a vehicle crash report; Robinson uses \"my car\" and his mother \"shuttles\" — contrasted with the federal text messages' use of \"vehicle.\"",
+          "description": "2022 police bodycam footage of Tyler Robinson making a vehicle crash report; Robinson uses \"my car\" and his mother \"shuttles\" – contrasted with the federal text messages' use of \"vehicle.\"",
           "related_claims": [
             "C-1297",
             "C-1298"
@@ -49,7 +49,7 @@
           "@type": "Artifact",
           "@id": "A-1172.1",
           "ref": "A-1172.1",
-          "description": "Brooksby press-conference audio clip — phone call from retired detective friend at 8:02 p.m. on the 11th.",
+          "description": "Brooksby press-conference audio clip – phone call from retired detective friend at 8:02 p.m. on the 11th.",
           "related_claims": [
             "C-1299",
             "C-1300"
@@ -68,7 +68,7 @@
           "@type": "Artifact",
           "@id": "A-1172.2",
           "ref": "A-1172.2",
-          "description": "Brooksby press-conference audio clip — statement that during the call Tyler had \"suicidal ideations\" and was being directed to a remote Washington County area; parents convinced him otherwise.",
+          "description": "Brooksby press-conference audio clip – statement that during the call Tyler had \"suicidal ideations\" and was being directed to a remote Washington County area; parents convinced him otherwise.",
           "related_claims": [
             "C-1301",
             "C-1306"
@@ -87,7 +87,7 @@
           "@type": "Artifact",
           "@id": "A-1172.3",
           "ref": "A-1172.3",
-          "description": "Brooksby press-conference audio clip — statement that Tyler came in willingly because he was \"fearful of a SWAT team hit\" and being shot by law enforcement; negotiation included a \"delicate and as soft as possible\" reception.",
+          "description": "Brooksby press-conference audio clip – statement that Tyler came in willingly because he was \"fearful of a SWAT team hit\" and being shot by law enforcement; negotiation included a \"delicate and as soft as possible\" reception.",
           "related_claims": [
             "C-1302",
             "C-1306"
@@ -538,7 +538,7 @@
       "@type": "Person",
       "@id": "N-177",
       "ref": "N-177",
-      "name": "\"Nick\" (UVU Student — Pseudonym)",
+      "name": "\"Nick\" (UVU Student – Pseudonym)",
       "type": "person",
       "description": "Anonymous 20-year-old UVU student who worked on Phil Lyman's gubernatorial campaign and served as host's boots-on-the-ground contact; name withheld.",
       "related_artifacts": [
@@ -657,7 +657,7 @@
       "ref": "N-1208",
       "name": "Brooksby Suicide Narrative Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent discrepancy between Brooksby's claim that Tyler Robinson had \"suicidal ideations\" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot — two states that the host argues cannot coexist.",
+      "description": "Persistent discrepancy between Brooksby's claim that Tyler Robinson had \"suicidal ideations\" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot – two states that the host argues cannot coexist.",
       "related_artifacts": [
         "A-1172.2",
         "A-1172.3"
@@ -732,7 +732,7 @@
       "ref": "N-1211",
       "name": "UVU Campus Familiarity Question",
       "type": "investigation_target",
-      "description": "Persistent question (raised by host's source) regarding how Tyler Robinson — accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus — would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.",
+      "description": "Persistent question (raised by host's source) regarding how Tyler Robinson – accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus – would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.",
       "related_artifacts": [],
       "related_claims": [
         "C-1302"
@@ -992,7 +992,7 @@
       "@id": "C-1306",
       "ref": "C-1306",
       "label": "The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive",
-      "claim": "Host argues that the two Brooksby statements — that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot — cannot both be true simultaneously.",
+      "claim": "Host argues that the two Brooksby statements – that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot – cannot both be true simultaneously.",
       "anchored_artifacts": [
         "A-1172.2",
         "A-1172.3"
@@ -1224,7 +1224,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:16",
-      "investigative_direction": "N/A — rhetorical/statement of self-positioning, recorded for traceability only."
+      "investigative_direction": "N/A – rhetorical/statement of self-positioning, recorded for traceability only."
     },
     {
       "@type": "Claim",
@@ -1258,7 +1258,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "N/A — rhetorical/statement of self-positioning.",
+      "investigative_direction": "N/A – rhetorical/statement of self-positioning.",
       "mentions_person_refs": [
         "N-92"
       ]

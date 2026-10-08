@@ -64,7 +64,7 @@ Third, the episode includes the host's spiritual and interpretive commentary (pr
 
 **A-1283** TPUSA Wikipedia Entry Bundle
 
-**A-1283.1** Pre-existing 2021 TPUSA Wikipedia section — "Charlie Kirk founded TPUSA Faith"
+**A-1283.1** Pre-existing 2021 TPUSA Wikipedia section – "Charlie Kirk founded TPUSA Faith"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -74,7 +74,7 @@ Confidence Level: High (content read aloud by host)
 
 *Related: C-1515, N-1266*
 
-**A-1283.2** Updated TPUSA Wikipedia entry — Rob McCoy as TPUSA Faith co-founder
+**A-1283.2** Updated TPUSA Wikipedia entry – Rob McCoy as TPUSA Faith co-founder
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -98,7 +98,7 @@ Confidence Level: Medium (host describes having clicked and read the article; no
 
 **A-1285** Trump Truth Social Post Bundle
 
-**A-1285.1** Trump's Truth Social post about TPUSA being investigated by "deranged Jack Smith" — only post found in search related to "investigation"
+**A-1285.1** Trump's Truth Social post about TPUSA being investigated by "deranged Jack Smith" – only post found in search related to "investigation"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -122,7 +122,7 @@ Confidence Level: Medium (content paraphrased; not read or displayed)
 
 **A-1287** Megyn Kelly / Donald Trump Jr. Interview Clip Bundle
 
-**A-1287.1** Audio clip — Don Trump Jr. on Megyn Kelly initially deflecting, then expressing confidence in FBI investigation
+**A-1287.1** Audio clip – Don Trump Jr. on Megyn Kelly initially deflecting, then expressing confidence in FBI investigation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -134,7 +134,7 @@ Confidence Level: High (audio played in episode)
 
 **A-1288** Norman Finkelstein Interview Trailer Bundle
 
-**A-1288.1** Trailer audio clip — Finkelstein quotes The Economist describing Gaza as "a human rubbish heap," UN official "toxic dump," and discusses "billionaire class of Jewish supremacists" using money to silence critics
+**A-1288.1** Trailer audio clip – Finkelstein quotes The Economist describing Gaza as "a human rubbish heap," UN official "toxic dump," and discusses "billionaire class of Jewish supremacists" using money to silence critics
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -209,7 +209,7 @@ Investigative Pressure: Medium
 Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.
 
 Evidence Count: 0 (on-episode)
-Claim Count: 0 (inscribed; host claim failed admission test — see Optional Flags)
+Claim Count: 0 (inscribed; host claim failed admission test – see Optional Flags)
 Episode Count: 1
 Investigative Pressure: Low (pending verification)
 
@@ -243,7 +243,7 @@ White House chief of staff. Host questions her as a Kirk eulogist and names her 
 
 Claim Timestamp: 00:03:03
 
-Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 — less than 36 hours after Charlie Kirk's death — to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
+Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 – less than 36 hours after Charlie Kirk's death – to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
 
 Anchored Artifacts: A-1283.2
 Mentions: N-45, N-1
@@ -348,7 +348,7 @@ Investigative Direction: Confirm via the NYT article whether these named officia
 
 Claim Timestamp: 00:13:10
 
-Claim: President Trump signed or otherwise established October 14 — Charlie Kirk's birthday — as a national day of remembrance for Charlie Kirk.
+Claim: President Trump signed or otherwise established October 14 – Charlie Kirk's birthday – as a national day of remembrance for Charlie Kirk.
 
 Anchored Artifacts: A-1289.1
 Mentions: N-1, N-5
@@ -406,7 +406,7 @@ Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents,
 
 Claim Timestamp: 00:35:31
 
-Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account — specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.
+Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account – specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.
 
 Anchored Artifacts: A-1287.1
 Mentions: N-75, N-1
@@ -433,19 +433,19 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 # VI. Optional Flags
 
-- **Claim failed admission test** — The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-1267** for external verification.
+- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-1267** for external verification.
 
-- **Artifact verbally referenced but not shown** — **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1519, C-1520, C-1521) depend on these references and carry the same flag.
+- **Artifact verbally referenced but not shown** – **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1519, C-1520, C-1521) depend on these references and carry the same flag.
 
-- **Artifact verbally referenced but not displayed in full** — **A-1284.1** (the November 24, 2024 Wikipedia citation source article) is described by the host as having been clicked and read, but its text is not displayed or read aloud in the episode. C-1517 depends on the host's characterization of its content.
+- **Artifact verbally referenced but not displayed in full** – **A-1284.1** (the November 24, 2024 Wikipedia citation source article) is described by the host as having been clicked and read, but its text is not displayed or read aloud in the episode. C-1517 depends on the host's characterization of its content.
 
-- **Name uncertainty** — The transcript spells "Susie Wiles" (likely Susie Wiles, Trump's chief of staff), "Kovette" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
+- **Name uncertainty** – The transcript spells "Susie Wiles" (likely Susie Wiles, Trump's chief of staff), "Kovette" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
 
-- **Possible transcription error** — "Norman Finkelestein" / "Finkelstein" appears twice with inconsistent spelling; preserved as in source.
+- **Possible transcription error** – "Norman Finkelestein" / "Finkelstein" appears twice with inconsistent spelling; preserved as in source.
 
-- **Timestamp uncertainty** — Specific signing date of the Charlie Kirk Day proclamation and the date of Trump's "Jack Smith" Truth Social post are not given in the episode; omitted from artifacts rather than guessed.
+- **Timestamp uncertainty** – Specific signing date of the Charlie Kirk Day proclamation and the date of Trump's "Jack Smith" Truth Social post are not given in the episode; omitted from artifacts rather than guessed.
 
-- **Transcript ambiguity** — A passage at ~33:00 in the Megyn Kelly clip transcript reads "guys like JD like, hey, he believes we have to keep this going" — JD appears to refer to JD Vance based on context, but the transcript is ambiguous.
+- **Transcript ambiguity** – A passage at ~33:00 in the Megyn Kelly clip transcript reads "guys like JD like, hey, he believes we have to keep this going" – JD appears to refer to JD Vance based on context, but the transcript is ambiguous.
 
 ---
 

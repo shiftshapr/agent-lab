@@ -33,7 +33,7 @@ Structurally, the episode advances several investigative threads: the approval c
 
 **A-1568** Tim Dillon Comedy Segment Bundle
 
-**A-1568.1** Tim Dillon clip — AmFest / Turning Point "abomination" segment
+**A-1568.1** Tim Dillon clip – AmFest / Turning Point "abomination" segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -43,7 +43,7 @@ Confidence Level: High
 
 *Related: C-1989, C-1990, N-443, N-2, N-1447*
 
-**A-1568.2** Tim Dillon clip — RFK Jr. / "What's going on" segment
+**A-1568.2** Tim Dillon clip – RFK Jr. / "What's going on" segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -53,7 +53,7 @@ Confidence Level: High
 
 *Related: C-1992, N-443*
 
-**A-1568.3** Tim Dillon clip — "satanic pedophiles" / apartment monologue segment
+**A-1568.3** Tim Dillon clip – "satanic pedophiles" / apartment monologue segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

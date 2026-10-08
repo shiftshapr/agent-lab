@@ -18,7 +18,7 @@
 
 ## 2. Executive Summary
 
-Episode 84 advances the 'tarmac hug' theory: a Provo police scanner audio allegedly shows Sergeant Dupey en route to pick up Erika Kirk at Provo Airport at 3:30 PM on Sept 10, undermining Erika's claim she waited on the tarmac until ~4:30 PM. Host argues Andrew Kolb was on the Santa Barbara-to-Scottsdale flight and that the hug occurred in Scottsdale, not Provo. Erika's NY Times interview and Elizabeth McCord's October Instagram post are cited as evidence Erika was 'airborne' when Charlie died — contradicting later statements. Fort Huachuca reappears via a TPUSA-associated plane (N582MM) tracked to Fort Huachuca on Oct 4 then Kalispell, MT. Druski's viral Erika-sketch and Grok's mistaken identification of Erika as the actress are featured. Host calls for public tips on Charlie's pilot 'Jamie.'
+Episode 84 advances the 'tarmac hug' theory: a Provo police scanner audio allegedly shows Sergeant Dupey en route to pick up Erika Kirk at Provo Airport at 3:30 PM on Sept 10, undermining Erika's claim she waited on the tarmac until ~4:30 PM. Host argues Andrew Kolb was on the Santa Barbara-to-Scottsdale flight and that the hug occurred in Scottsdale, not Provo. Erika's NY Times interview and Elizabeth McCord's October Instagram post are cited as evidence Erika was 'airborne' when Charlie died – contradicting later statements. Fort Huachuca reappears via a TPUSA-associated plane (N582MM) tracked to Fort Huachuca on Oct 4 then Kalispell, MT. Druski's viral Erika-sketch and Grok's mistaken identification of Erika as the actress are featured. Host calls for public tips on Charlie's pilot 'Jamie.'
 
 ## 3. Artifact Register
 

@@ -14,7 +14,7 @@ TS = re.compile(
     re.M | re.I,
 )
 HMS = re.compile(
-    r"^(\d{1,2}):(\d{2}):(\d{2})(?:\s*[–\-—]\s*(\d{1,2}):(\d{2}):(\d{2}))?\s*$"
+    r"^(\d{1,2}):(\d{2}):(\d{2})(?:\s*[–\-\u2014]\s*(\d{1,2}):(\d{2}):(\d{2}))?\s*$"
 )
 
 
@@ -22,7 +22,7 @@ def _fix(body: str) -> str:
     body = body.strip()
     body = re.sub(r"\s*\([^)]*\)\s*", " ", body).strip()
     body = body.replace("~", "").strip()
-    m = re.match(r"^(\d{1,2}):(\d{2})(?:\s*[–\-—]\s*(\d{1,2}):(\d{2}))?$", body)
+    m = re.match(r"^(\d{1,2}):(\d{2})(?:\s*[–\-\u2014]\s*(\d{1,2}):(\d{2}))?$", body)
     if m:
         a = f"00:{int(m.group(1)):02d}:{m.group(2)}"
         if m.group(3):

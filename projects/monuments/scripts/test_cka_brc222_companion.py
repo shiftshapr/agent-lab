@@ -332,5 +332,68 @@ class TestClassifyRevises(unittest.TestCase):
         self.assertEqual(key2, "revises_builds_on")
 
 
+
+class TestDashRule(unittest.TestCase):
+    """Dash rule (Daveed, 8 Oct 2026): no dash is flattened to a hyphen in staged output."""
+
+    EN = "\u2013"
+    EM = "\u2014"
+
+    def _build(self, claims, artifacts):
+        v = mod.Vocabulary(VOCAB_PATH)
+        return mod.build_package(v, claims, artifacts, {1: "cka:episode:1"})
+
+    def test_claim_and_artifact_labels_pass_through_exactly(self):
+        claim_label = f"Phil Lyman's vehicle 10{self.EN}19 minutes before {self.EN} per TMZ"
+        art_label = f"Bowyer SD card removal account {self.EN} law enforcement instruction"
+        claims = {"C-1": mod.ClaimRec(claim_id="C-1", label=claim_label, body="b", episode=1, anchored_artifacts=["A-1.1"])}
+        artifacts = {"A-1.1": mod.ArtifactRec(artifact_id="A-1.1", label=art_label, episode=1)}
+        res = self._build(claims, artifacts)
+        labels = {n["identifier"]: n["label"] for n in res.nodes}
+        self.assertEqual(labels["C-1"], claim_label)
+        self.assertEqual(labels["A-1.1"], art_label)
+
+    def test_quoted_em_dash_is_not_rewritten(self):
+        # A quote-derived label keeps whatever dash the source stored, em dash included.
+        quoted = f'Headline: "Not now {self.EM} not ever"'
+        artifacts = {"A-1.1": mod.ArtifactRec(artifact_id="A-1.1", label=quoted, episode=1)}
+        res = self._build({}, artifacts)
+        labels = {n["identifier"]: n["label"] for n in res.nodes}
+        self.assertEqual(labels["A-1.1"], quoted)
+
+    def test_revises_evidence_snippet_passes_through(self):
+        body = f"Host qualifies the prior claim {self.EN} a caveat, softening it."
+        claims = {
+            "C-1": mod.ClaimRec(claim_id="C-1", label="Prior", body="p", episode=1),
+            "C-2": mod.ClaimRec(claim_id="C-2", label="Later", body=body, episode=1, revises=["C-1"]),
+        }
+        res = self._build(claims, {})
+        snippets = [r["evidence_snippet"] for r in res.revises_candidates]
+        self.assertTrue(snippets)
+        for s in snippets:
+            self.assertEqual(s, body)
+
+    def test_prose_dashes_em_becomes_en_and_never_hyphen(self):
+        self.assertEqual(mod._prose_dashes(f"a {self.EM} b"), f"a {self.EN} b")
+        self.assertEqual(mod._prose_dashes(f"a {self.EN} b"), f"a {self.EN} b")
+        self.assertEqual(mod._prose_dashes(""), "")
+        edge = mod.Edge(source="C-1", target="C-2", relationship="isSupportedBy", explanation=f"x {self.EM} y")
+        self.assertEqual(edge.to_bridge()["explanation"], f"x {self.EN} y")
+
+    def test_no_ascii_dash_flattening_left_in_builder(self):
+        src = (SCRIPT_DIR / "cka_brc222_companion.py").read_text(encoding="utf-8")
+        self.assertNotIn("_ascii_dashes", src)
+        self.assertNotIn("\u2014", src.replace("\\u2014", ""))
+
+    def test_staged_package_labels_match_source_dashes(self):
+        """Committed package: no label carries an em dash and none was flattened from a dash."""
+        pkg = json.loads((REPO_ROOT / "projects/monuments/cka/companion/brc222-2.0.0/package.json").read_text(encoding="utf-8"))
+        claims, artifacts, _ = mod.load_cka_corpus(mod.DEFAULT_CKA_ROOT)
+        src = {**{k: c.label for k, c in claims.items()}, **{k: a.label for k, a in artifacts.items()}}
+        for n in pkg["nodes"]:
+            if n["identifier"] in src:
+                self.assertEqual(n["label"], src[n["identifier"]], n["identifier"])
+
+
 if __name__ == "__main__":
     unittest.main()

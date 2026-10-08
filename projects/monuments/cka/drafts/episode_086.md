@@ -65,7 +65,7 @@ Confidence Level: High (filing is shown on screen and read aloud at length)
 
 **A-1913** Andrew Kolb Tweet Bundle
 
-**A-1913.1** Andrew Kolb X/Twitter Post, September 20, 2025 — "I want to address some of the discussion about the lack of an exit wound with Charlie..."
+**A-1913.1** Andrew Kolb X/Twitter Post, September 20, 2025 – "I want to address some of the discussion about the lack of an exit wound with Charlie..."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -107,7 +107,7 @@ Confidence Level: Medium (read aloud; sender identity not disclosed)
 
 **A-1916** YouTube Comments Bundle (read aloud in comments chapter)
 
-**A-1916.1** Kim Haven Comment (top comment from prior episode) — asserts doctors do not publicly announce patient deaths and labels Frank Turek "absolutely a liar"
+**A-1916.1** Kim Haven Comment (top comment from prior episode) – asserts doctors do not publicly announce patient deaths and labels Frank Turek "absolutely a liar"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -117,7 +117,7 @@ Confidence Level: High (text read aloud)
 
 *Related: C-2621, C-2622, C-2623*
 
-**A-1916.2** Han Solo Comment — asks investigative questions about pressure points, Andrew Kolb's role, and end-state of the case
+**A-1916.2** Han Solo Comment – asks investigative questions about pressure points, Andrew Kolb's role, and end-state of the case
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -126,7 +126,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: N-2, Andrew Kolb (existing)*
 
-**A-1916.3** Natty Nicole Comment — suggests defense utilize Ian Carroll to organize discovery files
+**A-1916.3** Natty Nicole Comment – suggests defense utilize Ian Carroll to organize discovery files
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -167,7 +167,7 @@ Investigative Pressure: High
 
 **N-1644** Defense Discovery Dumping Strategy
 
-Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026, two months before the scheduled May 2026 preliminary hearing.
+Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 – two months before the scheduled May 2026 preliminary hearing.
 
 Evidence Count: 1
 Claim Count: 4
@@ -206,7 +206,7 @@ Investigative Pressure: High
 
 **N-1647** Timpanogos Hospital Evidence Question
 
-Investigation target referenced at episode end, host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.
+Investigation target referenced at episode end – host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.
 
 Evidence Count: 0
 Claim Count: 0
@@ -439,7 +439,7 @@ Investigative Direction: Compare timing against typical trauma-team workflow; ob
 
 Claim Timestamp: 00:40:25
 
-Claim: The host concurs that the FBI's planned revival of comparative bullet lead analysis — a technique discontinued in 2005 — in the Tyler Robinson case is indicative of federal corruption.
+Claim: The host concurs that the FBI's planned revival of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case is indicative of federal corruption.
 
 Anchored Artifacts: A-1912.1, A-1914.1
 Mentions: N-69

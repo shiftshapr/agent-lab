@@ -19,7 +19,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2138",
       "family_ref": "A-2138",
-      "bundle_name": "Megyn Kelly Interview Segment — Nate Walker",
+      "bundle_name": "Megyn Kelly Interview Segment – Nate Walker",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -46,7 +46,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2139",
       "family_ref": "A-2139",
-      "bundle_name": "Tyler Robinson Hearing — Sergeant Jennifer Filomena Testimony",
+      "bundle_name": "Tyler Robinson Hearing – Sergeant Jennifer Filomena Testimony",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -158,7 +158,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2141",
       "family_ref": "A-2141",
-      "bundle_name": "911 Call Recording — Library Vicinity",
+      "bundle_name": "911 Call Recording – Library Vicinity",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -184,7 +184,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2142",
       "family_ref": "A-2142",
-      "bundle_name": "Christian Post Article (2011) — Dr. Frank Turek / Bank of America",
+      "bundle_name": "Christian Post Article (2011) – Dr. Frank Turek / Bank of America",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -210,7 +210,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2143",
       "family_ref": "A-2143",
-      "bundle_name": "NewsNation Interview — Helen Comperatore",
+      "bundle_name": "NewsNation Interview – Helen Comperatore",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -252,7 +252,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2144",
       "family_ref": "A-2144",
-      "bundle_name": "Time Magazine Article — Israeli PR Campaign via Clock Tower X",
+      "bundle_name": "Time Magazine Article – Israeli PR Campaign via Clock Tower X",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -279,7 +279,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2145",
       "family_ref": "A-2145",
-      "bundle_name": "Charlie Kirk Photo — Carhartt Shirt (Sept 10)",
+      "bundle_name": "Charlie Kirk Photo – Carhartt Shirt (Sept 10)",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -554,7 +554,7 @@
       "@id": "C-3027",
       "ref": "C-3027",
       "label": "Unattended Items Seized Near Library Bus Stop",
-      "claim": "Sergeant Filomena testified that officers canvassing the scene seized unattended items — including a backpack, jacket, and gloves — near the Folsom (Fulton) Library bus stop.",
+      "claim": "Sergeant Filomena testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.",
       "anchored_artifacts": [
         "A-2139.1"
       ],

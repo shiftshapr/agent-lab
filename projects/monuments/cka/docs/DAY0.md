@@ -1,4 +1,4 @@
-# CKA — Day 0 plan
+# CKA – Day 0 plan
 
 ## Month plan
 

@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1886.1",
           "ref": "A-1886.1",
-          "description": "Hopkinson Aircrafts public website — \"Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise\"",
+          "description": "Hopkinson Aircrafts public website – \"Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise\"",
           "related_claims": [
             "C-2545",
             "C-2544"
@@ -44,7 +44,7 @@
           "@type": "Artifact",
           "@id": "A-1886.2",
           "ref": "A-1886.2",
-          "description": "Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale — showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address",
+          "description": "Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address",
           "related_claims": [
             "C-2545"
           ],
@@ -88,7 +88,7 @@
           "@type": "Artifact",
           "@id": "A-1887.1",
           "ref": "A-1887.1",
-          "description": "Image of Hawker Beechcraft (the \"Barbara plane,\" tail N8724A) — small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST",
+          "description": "Image of Hawker Beechcraft (the \"Barbara plane,\" tail N8724A) – small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST",
           "related_claims": [
             "C-2546"
           ],
@@ -127,7 +127,7 @@
           "@type": "Artifact",
           "@id": "A-1887.3",
           "ref": "A-1887.3",
-          "description": "2020 charter listing for the alleged \"Wi-Refi\" plane (Santa Barbara → Scottsdale leg) — listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
+          "description": "2020 charter listing for the alleged \"Wi-Refi\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
           "related_claims": [
             "C-2555"
           ],
@@ -201,7 +201,7 @@
           "@type": "Artifact",
           "@id": "A-1889.2",
           "ref": "A-1889.2",
-          "description": "Text thread reference — Justin to Aubrey at 4:18 PM MST: Andrew must be \"on the ground\" before responding",
+          "description": "Text thread reference – Justin to Aubrey at 4:18 PM MST: Andrew must be \"on the ground\" before responding",
           "related_claims": [
             "C-2549"
           ],
@@ -274,7 +274,7 @@
           "@type": "Artifact",
           "@id": "A-1891.1",
           "ref": "A-1891.1",
-          "description": "Nick Shirley self-introduction clip — 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
+          "description": "Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
           "related_claims": [],
           "related_nodes": [
             "N-1208",
@@ -319,7 +319,7 @@
           "@type": "Artifact",
           "@id": "A-1892.1",
           "ref": "A-1892.1",
-          "description": "Joe Kent interview (Michael Shellenberger, referenced) — Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says \"the truth doesn't play offense or defense. It's just the truth.\"",
+          "description": "Joe Kent interview (Michael Shellenberger, referenced) – Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says \"the truth doesn't play offense or defense. It's just the truth.\"",
           "related_claims": [
             "C-2553"
           ],
@@ -343,7 +343,7 @@
           "@type": "Artifact",
           "@id": "A-1893.1",
           "ref": "A-1893.1",
-          "description": "Blake Neff / Andrew Kolvet on-air response — characterizes Joe Kent potentially testifying truthfully as a \"betrayal\"; asserts evidence against Tyler Robinson is \"overwhelming\" and a \"mountain\"; references May evidentiary hearing",
+          "description": "Blake Neff / Andrew Kolvet on-air response – characterizes Joe Kent potentially testifying truthfully as a \"betrayal\"; asserts evidence against Tyler Robinson is \"overwhelming\" and a \"mountain\"; references May evidentiary hearing",
           "related_claims": [
             "C-2554"
           ],
@@ -367,7 +367,7 @@
           "@type": "Artifact",
           "@id": "A-1894.1",
           "ref": "A-1894.1",
-          "description": "N40JD plane data — registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
+          "description": "N40JD plane data – registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
           "related_claims": [
             "C-2550"
           ],
@@ -603,7 +603,7 @@
       "ref": "N-1631",
       "name": "N40JD Plane Passenger Manifest",
       "type": "investigation_target",
-      "description": "Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) — passenger manifest not confirmed.",
+      "description": "Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed.",
       "related_artifacts": [
         "A-1894.1"
       ],
@@ -991,7 +991,7 @@
       "@id": "C-2557",
       "ref": "C-2557",
       "label": "\"Wi-Refi\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
-      "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane — the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.",
+      "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane – the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.",
       "anchored_artifacts": [
         "A-1887.3"
       ],

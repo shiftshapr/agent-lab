@@ -1,4 +1,4 @@
-// Read-only post-promote checklist (staging 27687 or prod 17687 — query only on prod).
+// Read-only post-promote checklist (staging 27687 or prod 17687 – query only on prod).
 // Run via cypher-shell / Browser; set $PersonBandMax to current dense person ceiling (58 on ep1–8 tip).
 
 // 1) No Person label with id >= 1000

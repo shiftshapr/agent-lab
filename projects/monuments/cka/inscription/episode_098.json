@@ -181,7 +181,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2036",
       "family_ref": "A-2036",
-      "bundle_name": "FARA Filing — Show Faith by Works LLC Bundle",
+      "bundle_name": "FARA Filing – Show Faith by Works LLC Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -581,13 +581,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2044",
       "family_ref": "A-2044",
-      "bundle_name": "Show Faith by Works — Calvary Chapel / Dream City Church Targeting List Bundle",
+      "bundle_name": "Show Faith by Works – Calvary Chapel / Dream City Church Targeting List Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2044.1",
           "ref": "A-2044.1",
-          "description": "FARA filing naming churches targeted for geofencing; list overlaps with Turning Point USA-affiliated churches (Calvary Chapel churches; Dream City Church in Phoenix — same venue as Erika Kirk hosting and prior Trump event)",
+          "description": "FARA filing naming churches targeted for geofencing; list overlaps with Turning Point USA-affiliated churches (Calvary Chapel churches; Dream City Church in Phoenix – same venue as Erika Kirk hosting and prior Trump event)",
           "related_claims": [
             "C-2846"
           ],

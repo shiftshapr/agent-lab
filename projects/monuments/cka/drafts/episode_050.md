@@ -39,11 +39,11 @@
 
 This installment is bifurcated between a lengthy personal attack on Ben Shapiro and incremental advancement of the Fort Huachuca investigation.
 
-The first half of the episode replays and quotes (1) Ben Shapiro's AmFest speech demanding that Candace Owens be called out by name for her commentary on TPUSA and Erika Kirk, and (2) Tucker Carlson's AmFest speech stating that Charlie Kirk faced donor pressure — which Carlson attributes in part to Ben Shapiro — to remove Tucker from the AmFest speaker roster. A "town hall" style firing video from the Daily Wire (Jeremy Boreing, then-CEO) is also replayed; it cites Owens's October–November 2023 X posts about genocide and "Christ is King," and a February 2024 X post about pornography, as the publicized grounds for her firing.
+The first half of the episode replays and quotes (1) Ben Shapiro's AmFest speech demanding that Candace Owens be called out by name for her commentary on TPUSA and Erika Kirk, and (2) Tucker Carlson's AmFest speech stating that Charlie Kirk faced donor pressure – which Carlson attributes in part to Ben Shapiro – to remove Tucker from the AmFest speaker roster. A "town hall" style firing video from the Daily Wire (Jeremy Boreing, then-CEO) is also replayed; it cites Owens's October–November 2023 X posts about genocide and "Christ is King," and a February 2024 X post about pornography, as the publicized grounds for her firing.
 
 The second half advances the investigation in two artifact-anchored ways. First, it presents (via read-aloud) Mark Amodei's own X post asserting a 12-hour House floor alibi for September 9, and a counter-post by Diligent Dennison arguing Amodei missed the morning roll calls. Second, it introduces a new person-of-interest: Cabot Phillips (Daily Wire / Morning Wire), whom Mitch identified from a photo (without contextual prompting) as someone he saw at Fort Huachuca on the morning of September 9.
 
-The episode also raises — but does not artifact-display — a claim that Erika Kirk publicly stated she had never dated anyone before Charlie Kirk, contrary to social media evidence of her with Cabot Phillips. No direct screenshot of her statement or of the social media is captured in the transcript.
+The episode also raises – but does not artifact-display – a claim that Erika Kirk publicly stated she had never dated anyone before Charlie Kirk, contrary to social media evidence of her with Cabot Phillips. No direct screenshot of her statement or of the social media is captured in the transcript.
 
 ---
 
@@ -404,7 +404,7 @@ Investigative Direction: Obtain the full unedited AmFest video and timestamp; ve
 
 Claim Timestamp: 00:24:37 – 00:26:29
 
-Claim: Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point — whom Carlson attributed in part to Ben Shapiro's insistence — pressured Kirk to remove Tucker from the AmFest speaker roster.
+Claim: Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point – whom Carlson attributed in part to Ben Shapiro's insistence – pressured Kirk to remove Tucker from the AmFest speaker roster.
 
 Anchored Artifacts: A-1562.1
 Mentions: N-50, N-133, N-1
@@ -541,9 +541,9 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty / possible transcription error:** "Jeremy Boring" (A-1563.1, N-607) — public-record name is Jeremy Boreing.
+- **Name uncertainty / possible transcription error:** "Jeremy Boring" (A-1563.1, N-607) – public-record name is Jeremy Boreing.
 - **Artifact verbally referenced but not shown:** A-1566.1, A-1567.1, A-1567.2, A-1567.3.
 - **Transcript ambiguity:** The phrase "Uh yes, we're that couple who gets painting lessons together" (around 00:44:30) appears to be transcriptions of on-screen social media not fully captured in the transcript.
-- **Claim failed admission test (artifact anchor):** C-1988 — Erika Kirk's original statement and the supporting social-media evidence are referenced but not directly captured in the transcript as displayed artifacts; claim inscribed with flag for human verification.
+- **Claim failed admission test (artifact anchor):** C-1988 – Erika Kirk's original statement and the supporting social-media evidence are referenced but not directly captured in the transcript as displayed artifacts; claim inscribed with flag for human verification.
 - **Requires human verification:** All A-1567.* items; Cabot Phillips and Brian Harpole responses to host's messages; identification of "Nicole Rothstein" as Erika Kirk's cousin.
-- **Host claim without artifact:** Host's assertion that "Fort Huachuca has ties to Liberty University and that you can attend classes there and achieve your degree at Liberty University. Still working to verify that." — host explicitly flags as unverified; not inscribed as a claim.
+- **Host claim without artifact:** Host's assertion that "Fort Huachuca has ties to Liberty University and that you can attend classes there and achieve your degree at Liberty University. Still working to verify that." – host explicitly flags as unverified; not inscribed as a claim.

@@ -85,7 +85,7 @@
           "@type": "Artifact",
           "@id": "A-1463.1",
           "ref": "A-1463.1",
-          "description": "\"Past as Prologue, Safari Club Illuminates Candace Owens' allegations\" — Ponton's framing paragraph characterizing Candace's allegation as resonating because of prior covert-operation history rather than trust in Owens; references Safari Club precedent.",
+          "description": "\"Past as Prologue, Safari Club Illuminates Candace Owens' allegations\" – Ponton's framing paragraph characterizing Candace's allegation as resonating because of prior covert-operation history rather than trust in Owens; references Safari Club precedent.",
           "related_claims": [
             "C-1783"
           ],
@@ -107,7 +107,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1464",
       "family_ref": "A-1464",
-      "bundle_name": "Wikipedia Entry — Safari Club (referenced as displayed on screen)",
+      "bundle_name": "Wikipedia Entry – Safari Club (referenced as displayed on screen)",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -160,7 +160,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1466",
       "family_ref": "A-1466",
-      "bundle_name": "French Ministry of the Armed Forces — Official Statement",
+      "bundle_name": "French Ministry of the Armed Forces – Official Statement",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -246,7 +246,7 @@
           "@type": "Artifact",
           "@id": "A-1469.1",
           "ref": "A-1469.1",
-          "description": "Section: French Street history — North French Street is the northern stretch of the original French Street, laid out as Willing Street in Thomas Willing's grid; renamed in the 1790s after a cluster of French-speaking refugees (many from Haiti and the French Revolution) settled along it.",
+          "description": "Section: French Street history – North French Street is the northern stretch of the original French Street, laid out as Willing Street in Thomas Willing's grid; renamed in the 1790s after a cluster of French-speaking refugees (many from Haiti and the French Revolution) settled along it.",
           "related_claims": [
             "C-1789"
           ],
@@ -264,7 +264,7 @@
           "@type": "Artifact",
           "@id": "A-1469.2",
           "ref": "A-1469.2",
-          "description": "Section: 920 North King Street, Wilmington — claim that three federal agencies work together in one building; identified in connection with a foreign dignitary escort and the attorneys filing the host's Brigitte-lawsuit paperwork.",
+          "description": "Section: 920 North King Street, Wilmington – claim that three federal agencies work together in one building; identified in connection with a foreign dignitary escort and the attorneys filing the host's Brigitte-lawsuit paperwork.",
           "related_claims": [
             "C-1790"
           ],
@@ -282,7 +282,7 @@
           "@type": "Artifact",
           "@id": "A-1469.3",
           "ref": "A-1469.3",
-          "description": "Section: Bracebridge Complex at 1100 North King Street — originally built as Maryland Bank headquarters 1995; Bank of America acquired 2006 and pulled out of the buildings in 2018; in 2024 legislation was passed to provide financial support to the Longwood Foundation (founded by Pierre S. du Pont) to operate it as an educational center; complex spans six buildings connected to both French Street and King Street.",
+          "description": "Section: Bracebridge Complex at 1100 North King Street – originally built as Maryland Bank headquarters 1995; Bank of America acquired 2006 and pulled out of the buildings in 2018; in 2024 legislation was passed to provide financial support to the Longwood Foundation (founded by Pierre S. du Pont) to operate it as an educational center; complex spans six buildings connected to both French Street and King Street.",
           "related_claims": [
             "C-1791",
             "C-1792",
@@ -305,7 +305,7 @@
           "@type": "Artifact",
           "@id": "A-1469.4",
           "ref": "A-1469.4",
-          "description": "Section: Incyte Corporation — claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: \"Hervé Hope No, Hopineau\"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.",
+          "description": "Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: \"Hervé Hope No, Hopineau\"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.",
           "related_claims": [
             "C-1794"
           ],
@@ -324,7 +324,7 @@
           "@type": "Artifact",
           "@id": "A-1469.5",
           "ref": "A-1469.5",
-          "description": "Section: Wilmington Savings Fund Society / Wilmington Trust — claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.",
+          "description": "Section: Wilmington Savings Fund Society / Wilmington Trust – claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.",
           "related_claims": [
             "C-1795"
           ],
@@ -344,7 +344,7 @@
           "@type": "Artifact",
           "@id": "A-1469.6",
           "ref": "A-1469.6",
-          "description": "Section: 500 North Delaware Avenue — claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.",
+          "description": "Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.",
           "related_claims": [
             "C-1796"
           ],
@@ -362,7 +362,7 @@
           "@type": "Artifact",
           "@id": "A-1469.7",
           "ref": "A-1469.7",
-          "description": "Section: Wilmington LGBT/transgender services inventory — proximity list (Theater, \"The Queen,\" Wilmington University LGBTQ programs, Transition Delaware LLC, plastic surgeons).",
+          "description": "Section: Wilmington LGBT/transgender services inventory – proximity list (Theater, \"The Queen,\" Wilmington University LGBTQ programs, Transition Delaware LLC, plastic surgeons).",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -420,13 +420,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1471",
       "family_ref": "A-1471",
-      "bundle_name": "Local Coverage Article — Bank of America Vacates Wilmington Complex",
+      "bundle_name": "Local Coverage Article – Bank of America Vacates Wilmington Complex",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1471.1",
           "ref": "A-1471.1",
-          "description": "Article (referenced but URL not displayed): \"It leaves the Wilmington office space empty\" — confirms Bank of America vacated the Bracebridge Complex in 2018.",
+          "description": "Article (referenced but URL not displayed): \"It leaves the Wilmington office space empty\" – confirms Bank of America vacated the Bracebridge Complex in 2018.",
           "related_claims": [
             "C-1791"
           ],
@@ -491,7 +491,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1473",
       "family_ref": "A-1473",
-      "bundle_name": "PBD Podcast Clip — Adam Sosnick Segment",
+      "bundle_name": "PBD Podcast Clip – Adam Sosnick Segment",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -597,7 +597,7 @@
           "@type": "Artifact",
           "@id": "A-1476.1",
           "ref": "A-1476.1",
-          "description": "Live poll: \"Do you think that this lawsuit was an operation against me?\" — Result at time of reading: 24,856 votes, 93% Yes.",
+          "description": "Live poll: \"Do you think that this lawsuit was an operation against me?\" – Result at time of reading: 24,856 votes, 93% Yes.",
           "related_claims": [
             "C-1802"
           ],
@@ -677,7 +677,7 @@
           "@type": "Artifact",
           "@id": "A-1479.1",
           "ref": "A-1479.1",
-          "description": "Article published August 20, 2025 (transcribed as \"In 2000 2025\" — transcription error for 2025): reports a change of command across six French Foreign Legion regiments.",
+          "description": "Article published August 20, 2025 (transcribed as \"In 2000 2025\" – transcription error for 2025): reports a change of command across six French Foreign Legion regiments.",
           "related_claims": [
             "C-1788"
           ],
@@ -1481,7 +1481,7 @@
       "@id": "C-1787",
       "ref": "C-1787",
       "label": "Operation Bright Star timing spans August 29 to September 10, 2025",
-      "claim": "Operation Bright Star, a bi-annual US-Egypt joint military operation in Cairo, ran August 29 through September 10, 2025 — ending the day of the Charlie Kirk assassination.",
+      "claim": "Operation Bright Star, a bi-annual US-Egypt joint military operation in Cairo, ran August 29 through September 10, 2025 – ending the day of the Charlie Kirk assassination.",
       "anchored_artifacts": [
         "A-1478.1"
       ],
@@ -1534,7 +1534,7 @@
       "@id": "C-1790",
       "ref": "C-1790",
       "label": "Three federal agencies operate at 920 North King Street, Wilmington",
-      "claim": "A source email asserts that three federal agencies work together at 920 North King Street, Wilmington, Delaware — the same address connected to the foreign-dignitary escort and to the attorneys filing the Macron-lawsuit paperwork.",
+      "claim": "A source email asserts that three federal agencies work together at 920 North King Street, Wilmington, Delaware – the same address connected to the foreign-dignitary escort and to the attorneys filing the Macron-lawsuit paperwork.",
       "anchored_artifacts": [
         "A-1469.2"
       ],

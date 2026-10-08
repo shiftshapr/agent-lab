@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: 
   - (see registers)
 
-# Episode 29 Analysis — Bride of Charlie / Monument Ep 29
+# Episode 29 Analysis – Bride of Charlie / Monument Ep 29
 
 ## I. Meta-Data
 
@@ -44,7 +44,7 @@
 
 This episode presents the host's framing that a coordinated "crash out" is occurring across Christian Zionist commentators, right-wing media figures, and AI platforms in response to her ongoing Charlie Kirk assassination investigation series. The evidentiary core of the show consists of eleven external artifacts played or read aloud: six audio clips (Glenn Beck/Steve Baker, Lance Wallnau, Frank Turek, Allie Beth Stuckey, Mark Levin, Keri Smith), one live display of text messages allegedly from Charlie Kirk, and four social-media statements (Seth Dillon, Joel Berry, Frank McCormick, Grok). These artifacts collectively document the public-facing reaction pattern rather than introducing new primary evidence on the Kirk case itself.
 
-The episode advances two substantive investigative vectors. First, it introduces a "Christian Zionist pastors connection" thesis that links NAR (New Apostolic Reformation) figures — most prominently Lance Wallnau — to Turning Point USA Faith via alleged financial and operational ties, situating this within a broader "faith-military constellation" claim. Second, it relays the Steve Baker / Glenn Beck report identifying Shawnie Ray Kirkup/Kirkhoff as the alleged January 6 pipe-bomb dropper, tying that revelation to the broader "feds behind major events" framing. The episode also advances a single unverified tip-based claim that federal agents seized Timpanogos Hospital footage.
+The episode advances two substantive investigative vectors. First, it introduces a "Christian Zionist pastors connection" thesis that links NAR (New Apostolic Reformation) figures – most prominently Lance Wallnau – to Turning Point USA Faith via alleged financial and operational ties, situating this within a broader "faith-military constellation" claim. Second, it relays the Steve Baker / Glenn Beck report identifying Shawnie Ray Kirkup/Kirkhoff as the alleged January 6 pipe-bomb dropper, tying that revelation to the broader "feds behind major events" framing. The episode also advances a single unverified tip-based claim that federal agents seized Timpanogos Hospital footage.
 
 Structurally, Episode 29 functions as a reaction-aggregation and pattern-naming installment: it does not directly advance the Kirk forensic case but accumulates the response artifacts needed to support the host's "panic" and "coordinated pushback" thesis across future episodes.
 
@@ -651,7 +651,7 @@ Confidence: high
 - **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.
 - **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother "storms" the Borderline Bar (host-corrected herself mid-sentence to "that Marine's mother"); (f) the claim that Charlie Kirk had established "DOAJ"; (g) the claim that Kash Patel "injected himself" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.
 - **Reading-aloud reliability (A-1369, A-1371, A-1372, A-1373):** X / Twitter posts and the Grok statement were quoted or paraphrased by the host; original post URLs and exact text were not displayed on screen in this transcript.
-- **Possible transcription error (A-1365):** Transcript spells "Jehovah Rofey" — likely intended as "Jehovah Rapha"; preserved verbatim with flag.
+- **Possible transcription error (A-1365):** Transcript spells "Jehovah Rofey" – likely intended as "Jehovah Rapha"; preserved verbatim with flag.
 - **Requires human verification (multiple):** The Steve Baker / Glenn Beck identification of "Shawnie Ray Kirkup" should be cross-checked against federal court filings and Blaze News reporting to confirm spelling and charges.
 
 ---

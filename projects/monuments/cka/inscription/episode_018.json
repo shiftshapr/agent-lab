@@ -537,7 +537,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1249",
       "ref": "N-1249",
-      "name": "Medical Examiner Inquiry — Weiss Amaro",
+      "name": "Medical Examiner Inquiry – Weiss Amaro",
       "type": "investigation_target",
       "description": "Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.",
       "related_artifacts": [],
@@ -989,7 +989,7 @@
       "@id": "C-1435",
       "ref": "C-1435",
       "label": "Cooper Brown Microphone Role",
-      "claim": "Cooper Brown stated his event responsibility was managing the microphone — raising and lowering it for student questioners.",
+      "claim": "Cooper Brown stated his event responsibility was managing the microphone – raising and lowering it for student questioners.",
       "anchored_artifacts": [
         "A-1253.2"
       ],
@@ -1007,7 +1007,7 @@
       "@type": "Claim",
       "@id": "C-1436",
       "ref": "C-1436",
-      "label": "Cooper Brown Resume — Southern New Hampshire University",
+      "label": "Cooper Brown Resume – Southern New Hampshire University",
       "claim": "Cooper Brown's public resume lists attendance at a small college in New Hampshire (per host: Southern New Hampshire University) with a politics major.",
       "anchored_artifacts": [
         "A-1253.2"
@@ -1045,7 +1045,7 @@
       "@type": "Claim",
       "@id": "C-1438",
       "ref": "C-1438",
-      "label": "Jason Chaffetz Eyewitness — Close, Ahead",
+      "label": "Jason Chaffetz Eyewitness – Close, Ahead",
       "claim": "Jason Chaffetz stated on Fox News that, being within proximity of the venue, the shot appeared to be \"in close proximity straight ahead.\"",
       "anchored_artifacts": [
         "A-1254.1"
@@ -1065,7 +1065,7 @@
       "@type": "Claim",
       "@id": "C-1439",
       "ref": "C-1439",
-      "label": "Two-Shot Witness Account — Lyman Footage",
+      "label": "Two-Shot Witness Account – Lyman Footage",
       "claim": "Two women shown in Phil Lyman's footage of the building exterior stated they heard two shots.",
       "anchored_artifacts": [
         "A-1255.1"
@@ -1143,7 +1143,7 @@
       "@type": "Claim",
       "@id": "C-1444",
       "ref": "C-1444",
-      "label": "Caldera Early Trademark Lawyer — Tyler Bowyer Connection",
+      "label": "Caldera Early Trademark Lawyer – Tyler Bowyer Connection",
       "claim": "The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1160,7 +1160,7 @@
       "@type": "Claim",
       "@id": "C-1445",
       "ref": "C-1445",
-      "label": "Plane N1098L — Military Aircraft",
+      "label": "Plane N1098L – Military Aircraft",
       "claim": "A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1174,7 +1174,7 @@
       "@type": "Claim",
       "@id": "C-1446",
       "ref": "C-1446",
-      "label": "Plane N1098L — Las Vegas Aviation LLC",
+      "label": "Plane N1098L – Las Vegas Aviation LLC",
       "claim": "Plane N1098L was owned/contracted by Las Vegas Aviation LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1189,7 +1189,7 @@
       "@type": "Claim",
       "@id": "C-1447",
       "ref": "C-1447",
-      "label": "Plane N1098L — Texas to Utah Routing",
+      "label": "Plane N1098L – Texas to Utah Routing",
       "claim": "Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1203,7 +1203,7 @@
       "@type": "Claim",
       "@id": "C-1448",
       "ref": "C-1448",
-      "label": "Plane 888 — Maxwell Affiliation",
+      "label": "Plane 888 – Maxwell Affiliation",
       "claim": "A second plane (with \"888\" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1221,7 +1221,7 @@
       "@type": "Claim",
       "@id": "C-1449",
       "ref": "C-1449",
-      "label": "Plane 888 — Page, Arizona Destination",
+      "label": "Plane 888 – Page, Arizona Destination",
       "claim": "Plane 888's intended destination was Page, Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1235,7 +1235,7 @@
       "@type": "Claim",
       "@id": "C-1450",
       "ref": "C-1450",
-      "label": "Plane 888 — ADSB Transponder Turned Off",
+      "label": "Plane 888 – ADSB Transponder Turned Off",
       "claim": "The ADSB transponder on plane 888 appeared to turn off during the flight.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1249,7 +1249,7 @@
       "@type": "Claim",
       "@id": "C-1451",
       "ref": "C-1451",
-      "label": "Kash Patel — Plane Never Stopped Transponding",
+      "label": "Kash Patel – Plane Never Stopped Transponding",
       "claim": "Kash Patel publicly stated that plane 888 never stopped transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1266,7 +1266,7 @@
       "@type": "Claim",
       "@id": "C-1452",
       "ref": "C-1452",
-      "label": "Derek Maxwell — ATC Approval to Stop Transponding",
+      "label": "Derek Maxwell – ATC Approval to Stop Transponding",
       "claim": "Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1283,7 +1283,7 @@
       "@type": "Claim",
       "@id": "C-1453",
       "ref": "C-1453",
-      "label": "Plane 888 — FBO Change Millionaire to Signature",
+      "label": "Plane 888 – FBO Change Millionaire to Signature",
       "claim": "Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1333,7 +1333,7 @@
       "@type": "Claim",
       "@id": "C-1456",
       "ref": "C-1456",
-      "label": "Text Message Content — Standard Exchange",
+      "label": "Text Message Content – Standard Exchange",
       "claim": "The released texts include a \"thank you for your help guys\" message (attributed to Charlie Kirk) and Josh Hammer's reply asking what Charlie's \"first stop tomorrow\" was.",
       "anchored_artifacts": [
         "A-1256.1"
@@ -1353,7 +1353,7 @@
       "@type": "Claim",
       "@id": "C-1457",
       "ref": "C-1457",
-      "label": "Trump Truth Social — Israel/Hamas Phase One Announcement",
+      "label": "Trump Truth Social – Israel/Hamas Phase One Announcement",
       "claim": "Donald Trump posted on Truth Social announcing that Israel and Hamas had signed off on the first phase of a peace plan, including hostage release and partial troop withdrawal.",
       "anchored_artifacts": [
         "A-1257.1"
@@ -1370,7 +1370,7 @@
       "@type": "Claim",
       "@id": "C-1458",
       "ref": "C-1458",
-      "label": "Jared Kushner Harvard Speech — Gaza \"Waterfront Property\"",
+      "label": "Jared Kushner Harvard Speech – Gaza \"Waterfront Property\"",
       "claim": "At a Harvard appearance on February 15, 2024, Jared Kushner referred to Gaza as \"waterfront property\" and stated he would \"move the people out and then clean it up.\"",
       "anchored_artifacts": [
         "A-1258.1"
@@ -1387,7 +1387,7 @@
       "@type": "Claim",
       "@id": "C-1459",
       "ref": "C-1459",
-      "label": "Matt Walsh — \"Too on the Nose\" Comment",
+      "label": "Matt Walsh – \"Too on the Nose\" Comment",
       "claim": "Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt \"too on the nose\" to be authentic, suggesting Charlie had been pushed to that statement.",
       "anchored_artifacts": [
         "A-1259.1"

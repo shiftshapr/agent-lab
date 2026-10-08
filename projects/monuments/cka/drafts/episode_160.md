@@ -899,5 +899,5 @@ Confidence: high
 - [x] No episode-wide artifact bundle
 - [x] New persons use low-band person holes (N-230+); zero Person nodes at or above ten thousand
 - [x] Topics use the topic band (N-2365+)
-- [x] No em dashes
+- [x] En dashes in prose, no em dashes outside quotes
 - [x] Claims grounded in corrected transcript timestamps

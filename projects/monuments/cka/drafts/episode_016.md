@@ -36,7 +36,7 @@
 
 The episode is anchored by a major confirmation event: Turning Point USA spokesperson **Andrew Kovette**, appearing on the Charlie Kirk Show, publicly stated that the text-message chain previously released by Candace Owens is authentic and consistent with Kirk's private frustrations about Israel. Kovette's statement upgrades a previously contested private artifact to a TPUSA-internally-confirmed record, while also opening an internal contradiction: Kovette's "complicated/wrestle" framing of Kirk's Israel position directly conflicts with public statements from Josh Hammer, Laura Loomer, and Nick Fuentes asserting Kirk was firmly pro-Israel to his death.
 
-A second evidentiary track is introduced through a **Piers Morgan interview with former Navy SEAL Robert J. O'Neill**, who questions the visible wound (exit vs. entry), the right-to-left shirt movement, and the rapid teardown/paving of the crime scene — three independent forensic-flag claims audio-anchored in the episode.
+A second evidentiary track is introduced through a **Piers Morgan interview with former Navy SEAL Robert J. O'Neill**, who questions the visible wound (exit vs. entry), the right-to-left shirt movement, and the rapid teardown/paving of the crime scene – three independent forensic-flag claims audio-anchored in the episode.
 
 A third track is the **John and Arena Mappin public letter** (TPUSA donors who helped launch Turning Point UK), read in full on air. The letter functions both as documentary evidence of donor-level dissent from TPUSA's public posture and as an artifact-anchored claim that senior Republicans and TPUSA donors privately agree with Candace but are afraid to speak publicly.
 
@@ -116,7 +116,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ---
 
-**A-1228** Andrew Kovette — Charlie Kirk Show Audio (2025-10-07)
+**A-1228** Andrew Kovette – Charlie Kirk Show Audio (2025-10-07)
 
 **A-1228.1** Kovette confirms the text-message screen grab is authentic ("a text grab…that I had shared with people. So it is authentic")
 
@@ -152,7 +152,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ---
 
-**A-1229** Robert J. O'Neill — Piers Morgan Show Audio
+**A-1229** Robert J. O'Neill – Piers Morgan Show Audio
 
 **A-1229.1** O'Neill states the visible wound appeared to be an exit wound, not an entry wound ("we saw an exit wound")
 
@@ -806,11 +806,11 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty — N-218 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations — "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
-- **Artifact verbally referenced but not shown — A-1233.1 / N-16 (Frank Turk podcast):** The Frank Turk podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
-- **Artifact read-aloud but audio playback unverified — A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
-- **Claim failed admission test — none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.
-- **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides — (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kovette "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.
-- **Transcript ambiguity — "Jed Arena":** Candace later jokes "you can be angry at Jed Arena for writing that"; appears to be wordplay on "Arena." Flagged for potential transcription or rhetorical confusion.
+- **Name uncertainty – N-218 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations – "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
+- **Artifact verbally referenced but not shown – A-1233.1 / N-16 (Frank Turk podcast):** The Frank Turk podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
+- **Artifact read-aloud but audio playback unverified – A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
+- **Claim failed admission test – none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.
+- **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides – (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kovette "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.
+- **Transcript ambiguity – "Jed Arena":** Candace later jokes "you can be angry at Jed Arena for writing that"; appears to be wordplay on "Arena." Flagged for potential transcription or rhetorical confusion.
 
 ---

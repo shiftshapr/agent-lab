@@ -60,7 +60,7 @@
           "@type": "Artifact",
           "@id": "A-1913.1",
           "ref": "A-1913.1",
-          "description": "Andrew Kolb X/Twitter Post, September 20, 2025 — \"I want to address some of the discussion about the lack of an exit wound with Charlie...\"",
+          "description": "Andrew Kolb X/Twitter Post, September 20, 2025 – \"I want to address some of the discussion about the lack of an exit wound with Charlie...\"",
           "related_claims": [
             "C-2618",
             "C-2619",
@@ -140,7 +140,7 @@
           "@type": "Artifact",
           "@id": "A-1916.1",
           "ref": "A-1916.1",
-          "description": "Kim Haven Comment (top comment from prior episode) — asserts doctors do not publicly announce patient deaths and labels Frank Turek \"absolutely a liar\"",
+          "description": "Kim Haven Comment (top comment from prior episode) – asserts doctors do not publicly announce patient deaths and labels Frank Turek \"absolutely a liar\"",
           "related_claims": [
             "C-2621",
             "C-2622",
@@ -161,7 +161,7 @@
           "@type": "Artifact",
           "@id": "A-1916.2",
           "ref": "A-1916.2",
-          "description": "Han Solo Comment — asks investigative questions about pressure points, Andrew Kolb's role, and end-state of the case",
+          "description": "Han Solo Comment – asks investigative questions about pressure points, Andrew Kolb's role, and end-state of the case",
           "related_claims": [],
           "related_nodes": [
             "N-2"
@@ -176,7 +176,7 @@
           "@type": "Artifact",
           "@id": "A-1916.3",
           "ref": "A-1916.3",
-          "description": "Natty Nicole Comment — suggests defense utilize Ian Carroll to organize discovery files",
+          "description": "Natty Nicole Comment – suggests defense utilize Ian Carroll to organize discovery files",
           "related_claims": [],
           "related_nodes": [
             "N-1209"
@@ -219,7 +219,7 @@
       "ref": "N-1644",
       "name": "Defense Discovery Dumping Strategy",
       "type": "investigation_target",
-      "description": "Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026, two months before the scheduled May 2026 preliminary hearing.",
+      "description": "Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 – two months before the scheduled May 2026 preliminary hearing.",
       "related_artifacts": [
         "A-1912.1"
       ],
@@ -280,7 +280,7 @@
       "ref": "N-1647",
       "name": "Timpanogos Hospital Evidence Question",
       "type": "investigation_target",
-      "description": "Investigation target referenced at episode end, host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.",
+      "description": "Investigation target referenced at episode end – host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -647,7 +647,7 @@
       "@id": "C-2624",
       "ref": "C-2624",
       "label": "Host Concurs That FBI CBLA Revival Is Suspicious",
-      "claim": "The host concurs that the FBI's planned revival of comparative bullet lead analysis — a technique discontinued in 2005 — in the Tyler Robinson case is indicative of federal corruption.",
+      "claim": "The host concurs that the FBI's planned revival of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case is indicative of federal corruption.",
       "anchored_artifacts": [
         "A-1912.1",
         "A-1914.1"

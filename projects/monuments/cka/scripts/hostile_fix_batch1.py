@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CKA Batch 1 — Bill D hostile hard-gates fix pass (drafts, transcripts, inscription, canonical).
+CKA Batch 1 – Bill D hostile hard-gates fix pass (drafts, transcripts, inscription, canonical).
 
 Usage (from agent-lab root):
   python3 projects/monuments/cka/scripts/hostile_fix_batch1.py --apply

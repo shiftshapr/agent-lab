@@ -56,7 +56,7 @@ The episode introduces artifact-backed material across multiple evidentiary fami
 
 The episode advances investigative questions regarding the source of Liberty University's financial rescue in the 1990s, the relationship between Liberty University and the Unification Church, the conduct of the Liberty Godparent Home in the 1990s, the security protocol discrepancy regarding the September 11 Charis Bible College event following the assassination, and the South Korean trip immediately preceding Charlie Kirk's death.
 
-Structurally, the episode aggregates four recurring themes — Liberty University, Eastern Europe, trafficking/child sex abuse, and military — into a single analytical matrix. It also advances the host's framing (presented as host speculation) that Charlie Kirk declined an offer to scale Turning Point USA along the lines of Moon Inc. That framing is host interpretation and is not inscribed as an evidence-backed claim.
+Structurally, the episode aggregates four recurring themes – Liberty University, Eastern Europe, trafficking/child sex abuse, and military – into a single analytical matrix. It also advances the host's framing (presented as host speculation) that Charlie Kirk declined an offer to scale Turning Point USA along the lines of Moon Inc. That framing is host interpretation and is not inscribed as an evidence-backed claim.
 
 ---
 
@@ -90,7 +90,7 @@ Confidence Level: High (post text read aloud verbatim)
 
 ---
 
-**A-1598** ABC News Report Bundle — Liberty Godparent Home
+**A-1598** ABC News Report Bundle – Liberty Godparent Home
 
 **A-1598.1** ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abby Johnson, Raphael)
 
@@ -104,7 +104,7 @@ Confidence Level: High (audio clip played)
 
 ---
 
-**A-1599** Washington Post 1997 Article Bundle — Moon Inc./Unification Church
+**A-1599** Washington Post 1997 Article Bundle – Moon Inc./Unification Church
 
 **A-1599.1** Excerpt: Washington-area Moon-controlled enterprises exceed $300 million in commercial, political, and cultural holdings
 
@@ -202,7 +202,7 @@ Confidence Level: High
 
 ---
 
-**A-1600** CBN News Clip Bundle — Chan Yoon at TPUSA
+**A-1600** CBN News Clip Bundle – Chan Yoon at TPUSA
 
 **A-1600.1** CBN News segment featuring Chan Yoon (son of Pastor Yoon Bo-seon) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul
 
@@ -216,7 +216,7 @@ Confidence Level: High
 
 ---
 
-**A-1601** Email Tip Bundle — The Israel Lobby / Falwell Jet
+**A-1601** Email Tip Bundle – The Israel Lobby / Falwell Jet
 
 **A-1601.1** Email to host quoting *The Israel Lobby* by John Mearsheimer: Israeli government gave Jerry Falwell Sr. a $2 million jet in 1979 (~ $10 million inflation-adjusted), described as seeking evangelical support
 
@@ -230,7 +230,7 @@ Confidence Level: Medium (third-party email tip; book passage not independently 
 
 ---
 
-**A-1602** Email Tip Bundle — Iran-Contra / Liberty University
+**A-1602** Email Tip Bundle – Iran-Contra / Liberty University
 
 **A-1602.1** Email to host: Sun Myung Moon assisted the CIA in Iran-Contra through Unification Church/CAUSA logistics and Washington Times PR; Unification entities later bailed out Liberty University in the mid-1990s (~$20–40 million, per tipster)
 
@@ -244,7 +244,7 @@ Confidence Level: Medium (third-party email tip)
 
 ---
 
-**A-1603** Korean Herald Article Bundle — Pastor Yoon Arrest
+**A-1603** Korean Herald Article Bundle – Pastor Yoon Arrest
 
 **A-1603.1** Korean Herald headline: pro-union pastor arrested for breaking election law; quotes attributed to Pastor Yoon including "Lee Jae-myung has to die for Korea to live" during protest
 
@@ -258,7 +258,7 @@ Confidence Level: High (headline displayed)
 
 ---
 
-**A-1604** Recorded Phone Call Bundle — Anonymous Godparent Home Resident
+**A-1604** Recorded Phone Call Bundle – Anonymous Godparent Home Resident
 
 **A-1604.1** Host's recorded phone interview (with permission) with an anonymous woman recounting her stay at the Liberty Godparent Home circa 1994 while pregnant at age 13–14
 
@@ -272,9 +272,9 @@ Confidence Level: High (recorded with subject's permission; subject anonymous)
 
 ---
 
-**A-1605** Rolling Stone Reference Bundle — Carey Hezekiah
+**A-1605** Rolling Stone Reference Bundle – Carey Hezekiah
 
-**A-1605.1** Host cites Rolling Stone on Jerry Falwell Sr.'s father Carey Hezekiah — bootlegger/smuggler/trafficker who shot his brother Garland dead
+**A-1605.1** Host cites Rolling Stone on Jerry Falwell Sr.'s father Carey Hezekiah – bootlegger/smuggler/trafficker who shot his brother Garland dead
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -286,7 +286,7 @@ Confidence Level: Medium (cited but article not read in full)
 
 ---
 
-**A-1606** Forbes Reference Bundle — Falwell Father Bear Cage
+**A-1606** Forbes Reference Bundle – Falwell Father Bear Cage
 
 **A-1606.1** Host cites Forbes article on Carey Hezekiah Falwell throwing a man into a bear cage after an argument at one of his restaurants
 
@@ -849,10 +849,10 @@ Investigative Direction: Verify the exact quote and context against the primary 
 # Optional Flags
 
 - **Name uncertainty**: Host uses "Harpole" in narration but the on-screen interview subject reads "Herpolsheimer." Preserved both spellings; node uses the artifact spelling. Flag N-1465.
-- **Email tip — requires verification**: A-1601.1 and A-1602.1 are third-party email tips read aloud by the host; underlying book passages and historical claims have not been independently verified within the episode. Flag A-1601.1, A-1602.1.
+- **Email tip – requires verification**: A-1601.1 and A-1602.1 are third-party email tips read aloud by the host; underlying book passages and historical claims have not been independently verified within the episode. Flag A-1601.1, A-1602.1.
 - **Cited but not read in full**: A-1605.1 (Rolling Stone) and A-1606.1 (Forbes) are referenced by the host but the underlying article text is not displayed or read aloud. Flag A-1605.1, A-1606.1.
-- **Transcript ambiguity — care of "Wilkes brothers"**: Host refers to "the Wilkes brothers" funding PragerU and Daily Wire; spelling preserved as transcript renders it. Flag for verification.
-- **Transcript ambiguity — "Lori Francev" / "Lori Frandsen"**: Erika Kirk's mother is referred to with both spellings in the transcript. Preserved both; node uses "Lori Frandsen." Flag.
+- **Transcript ambiguity – care of "Wilkes brothers"**: Host refers to "the Wilkes brothers" funding PragerU and Daily Wire; spelling preserved as transcript renders it. Flag for verification.
+- **Transcript ambiguity – "Lori Francev" / "Lori Frandsen"**: Erika Kirk's mother is referred to with both spellings in the transcript. Preserved both; node uses "Lori Frandsen." Flag.
 - **Host speculation (claim-admission test failure)**: Host's "best guess" framing that Charlie Kirk was offered to become "the next Moon" and declined is recorded as host speculation and is not inscribed as an evidence-backed claim. Flagged for transparency.
 - **Host speculation (claim-admission test failure)**: Host's framing that Charlie Kirk was assassinated due to his refusal to scale TPUSA into a Moon Inc.-style operation is host interpretive commentary, not artifact-backed in this episode. Flagged.
 - **Hosts dream about "Wilkes brothers"**: Host references a personal dream as investigatively meaningful; this is host personal testimony and is not inscribed as a claim per rhetoric-removal test.

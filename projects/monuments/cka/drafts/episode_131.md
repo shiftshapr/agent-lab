@@ -19,7 +19,7 @@
 
 This episode is artifact-dense on two fronts: a long, previously-undisclosed SMS thread between Charlie Kirk and Candace Owens dated November 15, 2023 (read aloud), and a series of audio clips (Ben Shapiro, Steve Bannon, Tracy Martin, Rob O'Neill, Allison Holker, and Twitch's family via Gayle King on CBS).
 
-The November 15, 2023 text thread constitutes the principal evidentiary body of the episode, documenting in Charlie Kirk's own words his contemporaneous assessment of the Daily Wire pressure campaign against Candace Owens — naming Jeremy Boreing and Marissa Streit ("Strait" in the text), characterizing the effort as "a hit" and a "C-level" operation, advising her not to resign, and explicitly stating "We are on the same team. Screw these people." An older Charlie Kirk text ("the war is on. Snakes in the garden, they are not our friends. Time to fight.") is also read aloud.
+The November 15, 2023 text thread constitutes the principal evidentiary body of the episode, documenting in Charlie Kirk's own words his contemporaneous assessment of the Daily Wire pressure campaign against Candace Owens – naming Jeremy Boreing and Marissa Streit ("Strait" in the text), characterizing the effort as "a hit" and a "C-level" operation, advising her not to resign, and explicitly stating "We are on the same team. Screw these people." An older Charlie Kirk text ("the war is on. Snakes in the garden, they are not our friends. Time to fight.") is also read aloud.
 
 The episode advances the Ben Shapiro 9/10 lunch-meeting investigation. The host names Gary Jabitch (described in host narrative as a B'nai B'rith / AIPAC / Chabad Lubavitch Nebraska figure) as the alleged companion; this naming lacks a shown artifact in this episode and is treated as an unresolved target. Rob O'Neill's Newsmax appearance artifact-anchors technical skepticism of the official narrative (screwdriver, bullet trajectory, text-message phrasing). A YouTube comment artifact-anchors a pattern comparison between the Erica Kirk situation and the Allison Holker / Stephen "Twitch" Boss case, with the Holker interview and the Boss-family/Gayle King CBS interview providing the underlying audio artifacts.
 
@@ -44,7 +44,7 @@ Confidence: high
 
 **A-2180** Text Message Bundle (Charlie Kirk / Candace Owens)
 
-**A-2180.1** November 15, 2023 Thread — Daily Wire / Christ is King Pressure Campaign
+**A-2180.1** November 15, 2023 Thread – Daily Wire / Christ is King Pressure Campaign
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -54,7 +54,7 @@ Confidence Level: High
 
 *Related: C-3117, C-3118, C-3119, C-3120, C-3121, C-3122, C-3123, N-1, N-2, N-3*
 
-**A-2180.2** Older Charlie Kirk Text — "The War Is On / Snakes in the Garden"
+**A-2180.2** Older Charlie Kirk Text – "The War Is On / Snakes in the Garden"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -82,7 +82,7 @@ Confidence Level: High
 
 **A-2182** Steve Bannon Audio Clip
 
-**A-2182.1** Steve Bannon at AmFest — "Ben Shapiro Is Like a Cancer"
+**A-2182.1** Steve Bannon at AmFest – "Ben Shapiro Is Like a Cancer"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -96,7 +96,7 @@ Confidence Level: High
 
 **A-2183** Tracy Martin Audio Clip
 
-**A-2183.1** Tracy Martin on Paramount Tactical — Denial of Daily Mail Source
+**A-2183.1** Tracy Martin on Paramount Tactical – Denial of Daily Mail Source
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -110,7 +110,7 @@ Confidence Level: High
 
 **A-2184** Rob O'Neill Audio Clip
 
-**A-2184.1** Rob O'Neill on Newsmax — Screwdriver, Bullet Trajectory, and Text-Message Analysis
+**A-2184.1** Rob O'Neill on Newsmax – Screwdriver, Bullet Trajectory, and Text-Message Analysis
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -124,7 +124,7 @@ Confidence Level: High
 
 **A-2185** Allison Holker Audio Clip
 
-**A-2185.1** Allison Holker Interview — Discovery of Hidden Substances After Husband's Death
+**A-2185.1** Allison Holker Interview – Discovery of Hidden Substances After Husband's Death
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -138,7 +138,7 @@ Confidence Level: High
 
 **A-2186** Twitch Family Audio Clip (CBS / Gayle King)
 
-**A-2186.1** Twitch Family Interview — NDA Requirement to Attend Memorial
+**A-2186.1** Twitch Family Interview – NDA Requirement to Attend Memorial
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -206,7 +206,7 @@ Investigative Direction: Obtain carrier records or device extractions to verify 
 
 ---
 
-**C-3118** Charlie Kirk Text — "Don't Resign Because It's What They Want"
+**C-3118** Charlie Kirk Text – "Don't Resign Because It's What They Want"
 
 Claim Timestamp: 00:10:44
 
@@ -220,7 +220,7 @@ Investigative Direction: Verify exact wording against device-extracted SMS recor
 
 ---
 
-**C-3119** Charlie Kirk Text — "C-Level Hit" Characterization
+**C-3119** Charlie Kirk Text – "C-Level Hit" Characterization
 
 Claim Timestamp: 00:10:44
 
@@ -262,7 +262,7 @@ Investigative Direction: Verify name spelling against device-extracted SMS recor
 
 ---
 
-**C-3122** Charlie Kirk Text — "We Are on the Same Team. Screw These People"
+**C-3122** Charlie Kirk Text – "We Are on the Same Team. Screw These People"
 
 Claim Timestamp: 00:10:44
 
@@ -290,7 +290,7 @@ Investigative Direction: Verify against device-extracted SMS records and any fli
 
 ---
 
-**C-3124** Older Charlie Kirk Text — "The War Is On / Snakes in the Garden"
+**C-3124** Older Charlie Kirk Text – "The War Is On / Snakes in the Garden"
 
 Claim Timestamp: 00:15:27
 
@@ -423,7 +423,7 @@ Investigative Direction: Obtain full Newsmax segment; cross-reference with publi
 
 Claim Timestamp: 00:41:38
 
-Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances — even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
+Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
 

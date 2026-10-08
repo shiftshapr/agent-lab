@@ -257,7 +257,7 @@
           "@type": "Artifact",
           "@id": "A-1817.1",
           "ref": "A-1817.1",
-          "description": "Erika Kirk tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\"), posted at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after A-1816.1 per host.",
+          "description": "Erika Kirk tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\"), posted at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after A-1816.1 per host.",
           "related_claims": [
             "C-2429"
           ],
@@ -387,7 +387,7 @@
           "@type": "Artifact",
           "@id": "A-1821.1",
           "ref": "A-1821.1",
-          "description": "Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut — only the Twitter stream version was trimmed; the Rumble version remains intact.",
+          "description": "Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut – only the Twitter stream version was trimmed; the Rumble version remains intact.",
           "related_claims": [
             "C-2433"
           ],
@@ -472,7 +472,7 @@
       "ref": "N-35",
       "name": "Jeffrey Epstein",
       "type": "person",
-      "description": "Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID — cross-reference required.",
+      "description": "Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID – cross-reference required.",
       "related_artifacts": [
         "A-1809.1",
         "A-1812.1",
@@ -587,7 +587,7 @@
       "ref": "N-42",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID — cross-reference required.",
+      "description": "Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID – cross-reference required.",
       "related_artifacts": [
         "A-1810.1"
       ],
@@ -610,7 +610,7 @@
       "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
-      "description": "Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name \"McCoy\" in one instance and \"McVoy\" in another — see Optional Flags.",
+      "description": "Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name \"McCoy\" in one instance and \"McVoy\" in another – see Optional Flags.",
       "related_artifacts": [
         "A-1810.1"
       ],
@@ -777,7 +777,7 @@
       "ref": "N-1594",
       "name": "January 29 West Wing Meeting Subject",
       "type": "investigation_target",
-      "description": "Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 — the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?",
+      "description": "Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 – the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?",
       "related_artifacts": [
         "A-1810.1"
       ],
@@ -1093,7 +1093,7 @@
       "@id": "C-2429",
       "ref": "C-2429",
       "label": "Erika Kirk Tweet Ephesians 4:5 Posted One Hour After Jezebel Article",
-      "claim": "Erika Kirk posted a tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\") at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after the Jezebel article (A-1816.1) appeared.",
+      "claim": "Erika Kirk posted a tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.",
       "anchored_artifacts": [
         "A-1817.1"
       ],

@@ -17,9 +17,9 @@
 
 ## 2. Executive Summary
 
-Episode 123 is structured as an "emergency update" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown — a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.
+Episode 123 is structured as an "emergency update" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.
 
-The episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him "God wants you to have your phone on" — directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.
+The episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him "God wants you to have your phone on" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.
 
 Structurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.
 
@@ -29,7 +29,7 @@ Structurally, this episode advances the evidentiary record by introducing specif
 
 **A-2110** Charlie Kirk Transport Vehicle Interior Photo Bundle
 
-**A-2110.1** Photo 1 — Uber bag with blood (back seat) and coat hanger
+**A-2110.1** Photo 1 – Uber bag with blood (back seat) and coat hanger
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -39,7 +39,7 @@ Confidence Level: Medium
 
 *Related: C-2986, C-2987, C-2988, N-2104*
 
-**A-2110.2** Photo 2 — Cardboard-colored piece and adjacent black bag (back seat)
+**A-2110.2** Photo 2 – Cardboard-colored piece and adjacent black bag (back seat)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -49,7 +49,7 @@ Confidence Level: Medium
 
 *Related: C-2990, C-2992*
 
-**A-2110.3** Photo 3 — Shattered tempered glass between front captain chairs
+**A-2110.3** Photo 3 – Shattered tempered glass between front captain chairs
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -59,7 +59,7 @@ Confidence Level: Medium
 
 *Related: C-2986, C-2994, N-2103*
 
-**A-2110.4** Photo 4 — Foil-like material visible under floor mat
+**A-2110.4** Photo 4 – Foil-like material visible under floor mat
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -71,7 +71,7 @@ Confidence Level: Medium
 
 **A-2111** Charlie Kirk Transport Vehicle Interior Closeup Bundle
 
-**A-2111.1** Closeup — Cardboard-colored piece, brown/burnt appearance
+**A-2111.1** Closeup – Cardboard-colored piece, brown/burnt appearance
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -81,7 +81,7 @@ Confidence Level: Medium
 
 *Related: C-2990*
 
-**A-2111.2** Closeup — Black bag (Uber bag area)
+**A-2111.2** Closeup – Black bag (Uber bag area)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -91,7 +91,7 @@ Confidence Level: Medium
 
 *Related: C-2987*
 
-**A-2111.3** Closeup — Foil-like material, described as coppery
+**A-2111.3** Closeup – Foil-like material, described as coppery
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -101,7 +101,7 @@ Confidence Level: Medium
 
 *Related: C-2991*
 
-**A-2111.4** Closeup — Black tempered glass particles in center of vehicle
+**A-2111.4** Closeup – Black tempered glass particles in center of vehicle
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -121,7 +121,7 @@ Confidence Level: Medium
 
 *Related: C-2993*
 
-**A-2113** Charlie Kirk Interview Clip — Shabbat / Erika "God wants your phone on"
+**A-2113** Charlie Kirk Interview Clip – Shabbat / Erika "God wants your phone on"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -143,7 +143,7 @@ Confidence Level: Medium
 
 *Related: C-2992*
 
-**A-2114.2** Viewer comment (Vicky Blair) — "nearly impossible to drive 60, 80, 100 miles and still have the car door open"
+**A-2114.2** Viewer comment (Vicky Blair) – "nearly impossible to drive 60, 80, 100 miles and still have the car door open"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -153,7 +153,7 @@ Confidence Level: Low (viewer opinion, not authoritative)
 
 *Related: C-2997*
 
-**A-2114.3** Viewer comment (Joe Philly / "Phyisetti") — ground cleanup theory
+**A-2114.3** Viewer comment (Joe Philly / "Phyisetti") – ground cleanup theory
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -183,7 +183,7 @@ Investigative Pressure: High
 
 Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.
 
-Evidence Count: 0 (artifact verbally referenced but not shown — flagged)
+Evidence Count: 0 (artifact verbally referenced but not shown – flagged)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
@@ -336,7 +336,7 @@ Claim Timestamp: 00:33:10
 
 Claim: A viewer sent photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read "Don't worry, your big sister can figure out what happened."
 
-Anchored Artifacts: None (verbally referenced but not shown — flagged for verification)
+Anchored Artifacts: None (verbally referenced but not shown – flagged for verification)
 Mentions: N-3, N-1
 Related Nodes:
 Investigative Direction: Obtain original photos from viewer; identify date and location; verify TPUSA staff involvement.
@@ -347,7 +347,7 @@ Investigative Direction: Obtain original photos from viewer; identify date and l
 
 Claim Timestamp: 00:41:51–00:42:26
 
-Claim: In a prior interview (clip played during episode), Charlie Kirk described how Erika told him God wanted his phone on during a Saturday — relevant to the Butler shooting anecdote.
+Claim: In a prior interview (clip played during episode), Charlie Kirk described how Erika told him God wanted his phone on during a Saturday – relevant to the Butler shooting anecdote.
 
 Anchored Artifacts: A-2113
 Mentions: N-1, N-2

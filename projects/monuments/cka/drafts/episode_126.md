@@ -47,7 +47,7 @@ Secondary artifacts include a Megyn Kelly interview segment with Charlie Kirk's 
 
 # III. Artifact Register
 
-**A-2138** Megyn Kelly Interview Segment — Nate Walker
+**A-2138** Megyn Kelly Interview Segment – Nate Walker
 
 **A-2138.1** Nate Walker Segment on the "Freedom Shirt" Selection
 
@@ -61,7 +61,7 @@ Confidence Level: High
 
 ---
 
-**A-2139** Tyler Robinson Hearing — Sergeant Jennifer Filomena Testimony
+**A-2139** Tyler Robinson Hearing – Sergeant Jennifer Filomena Testimony
 
 **A-2139.1** Filomena Testimony on Unattended Items at Folsom Library Bus Stop
 
@@ -119,7 +119,7 @@ Confidence Level: High
 
 ---
 
-**A-2141** 911 Call Recording — Library Vicinity
+**A-2141** 911 Call Recording – Library Vicinity
 
 **A-2141.1** Caller Report of Person on Building Near Library in Tactical Attire
 
@@ -133,7 +133,7 @@ Confidence Level: High
 
 ---
 
-**A-2142** Christian Post Article (2011) — Dr. Frank Turek / Bank of America
+**A-2142** Christian Post Article (2011) – Dr. Frank Turek / Bank of America
 
 **A-2142.1** Article on Dr. Frank Turek Termination from Bank of America
 
@@ -147,7 +147,7 @@ Confidence Level: High
 
 ---
 
-**A-2143** NewsNation Interview — Helen Comperatore
+**A-2143** NewsNation Interview – Helen Comperatore
 
 **A-2143.1** Comperatore Statement on "Inside Job" Belief Regarding Butler
 
@@ -171,7 +171,7 @@ Confidence Level: High
 
 ---
 
-**A-2144** Time Magazine Article — Israeli PR Campaign via Clock Tower X
+**A-2144** Time Magazine Article – Israeli PR Campaign via Clock Tower X
 
 **A-2144.1** Time Report on Brad Parscale / Clock Tower X Campaign Failure
 
@@ -185,7 +185,7 @@ Confidence Level: High
 
 ---
 
-**A-2145** Charlie Kirk Photo — Carhartt Shirt (Sept 10)
+**A-2145** Charlie Kirk Photo – Carhartt Shirt (Sept 10)
 
 **A-2145.1** Carhartt Logo Visible in Right-Hand Corner
 
@@ -320,7 +320,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Claim Timestamp: 00:08:30
 
-Claim: Sergeant Filomena testified that officers canvassing the scene seized unattended items — including a backpack, jacket, and gloves — near the Folsom (Fulton) Library bus stop.
+Claim: Sergeant Filomena testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.
 
 Anchored Artifacts: A-2139.1
 Related Nodes: N-2116, N-2117
@@ -425,7 +425,7 @@ Mentions: N-16
 Related Nodes: N-2119
 Investigative Direction: Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.
 
-*Flag: Transcript records host as stating "Frank Cherico" while the read article names "Dr. Frank Turek" — possible transcription error or verbal name mix.*
+*Flag: Transcript records host as stating "Frank Cherico" while the read article names "Dr. Frank Turek" – possible transcription error or verbal name mix.*
 
 ---
 
@@ -505,11 +505,11 @@ Investigative Direction: Identify the vendor/contractor who produced the custom 
 
 # VI. Optional Flags
 
-- **Name uncertainty — Frank Cherico vs. Frank Turek:** Transcript renders the host as saying "Frank Cherico" repeatedly while the read Christian Post article (A-2142.1) explicitly names "Dr. Frank Turek." Possible auto-caption transcription error for the spoken "Turek," or possible verbal mix by host. Requires verification against audio.
-- **Name uncertainty — Helen Comperatore:** Transcript renders "Helen Compator" (A-2143) and "Helen Gambadoro" (31:50 narration) for the same person. Both are likely auto-caption errors for "Helen Comperatore."
-- **Name uncertainty — Corey Comperatore:** Transcript renders "Corey Comparetor" and "Corey Comstocker." Both likely auto-caption errors for "Corey Comperatore."
-- **Building name variations — Losee Center / Lozi / Loews / Eloise Center:** Transcript contains multiple variants; the canonical UVU building name is "Losee Center." Preserve transcript spellings where artifact-bound.
-- **Building name variations — Folsom / Fulton / Foltin Library:** Transcript variants; canonical UVU name is "Fulton Library." Preserve transcript spellings.
+- **Name uncertainty – Frank Cherico vs. Frank Turek:** Transcript renders the host as saying "Frank Cherico" repeatedly while the read Christian Post article (A-2142.1) explicitly names "Dr. Frank Turek." Possible auto-caption transcription error for the spoken "Turek," or possible verbal mix by host. Requires verification against audio.
+- **Name uncertainty – Helen Comperatore:** Transcript renders "Helen Compator" (A-2143) and "Helen Gambadoro" (31:50 narration) for the same person. Both are likely auto-caption errors for "Helen Comperatore."
+- **Name uncertainty – Corey Comperatore:** Transcript renders "Corey Comparetor" and "Corey Comstocker." Both likely auto-caption errors for "Corey Comperatore."
+- **Building name variations – Losee Center / Lozi / Loews / Eloise Center:** Transcript contains multiple variants; the canonical UVU building name is "Losee Center." Preserve transcript spellings where artifact-bound.
+- **Building name variations – Folsom / Fulton / Foltin Library:** Transcript variants; canonical UVU name is "Fulton Library." Preserve transcript spellings.
 - **Artifact verbally referenced but not shown (C-3033):** Police scanner description of "face mask and tactical gear" is asserted by host; no scanner audio artifact was displayed. Flagged for verification.
 - **Possible transcription error (former local id 1212):** See Frank Cherico/Turek note above.
 - **Requires human verification:** All four name-spelling flags above and the C-3033 police-scanner assertion.

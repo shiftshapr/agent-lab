@@ -38,7 +38,7 @@
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734, C-3735
 - **New Nodes Introduced:** N-406, N-408, N-410, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk; preserved as Erika per transcript), N-3 (Candace Owens), N-50 (Tucker Carlson), N-70 (Governor Cox)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk – preserved as Erika per transcript), N-3 (Candace Owens), N-50 (Tucker Carlson), N-70 (Governor Cox)
 
 ---
 
@@ -48,7 +48,7 @@ Episode 33 advances the "Operation Mocking-Plane" thread by presenting what the 
 
 The episode also contains a Steven Crowder clip the host characterizes as a manufactured interpretation, and a Rob McCoy pastoral clip framed by the host as a "pre-bunking" psychological operation. The episode's structural importance is that it escalates the investigative pressure on Turning Point USA financial filings, raises specific licensing-plate and rental-vehicle identification requests to the public, and directs sustained skepticism toward the absence of organizational acknowledgment of the aircraft.
 
-The transcript contains numerous rhetorical and interpretive passages — including speculation about motives and references to foreign-state actors — that do not meet the artifact-anchored standard for inscription and have not been inscribed as claims.
+The transcript contains numerous rhetorical and interpretive passages – including speculation about motives and references to foreign-state actors – that do not meet the artifact-anchored standard for inscription and have not been inscribed as claims.
 
 ---
 
@@ -170,7 +170,7 @@ Confidence Level: High
 
 **A-1421** Rental Vehicle License Plate Bundle
 
-**A-1421.1** Utah license plate T09 2Zs — silver 2025 Toyota RAV4 rented at Duncan Aviation FBO
+**A-1421.1** Utah license plate T09 2Zs – silver 2025 Toyota RAV4 rented at Duncan Aviation FBO
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -180,7 +180,7 @@ Confidence Level: Medium (host-stated; requires verification against rental reco
 
 *Related: C-1726, C-1727, N-408, N-1327*
 
-**A-1421.2** Arizona license plate CWN N872 — white 2025 Toyota Camry rented at Duncan Aviation FBO
+**A-1421.2** Arizona license plate CWN N872 – white 2025 Toyota Camry rented at Duncan Aviation FBO
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -190,7 +190,7 @@ Confidence Level: Medium
 
 *Related: C-1726, C-1727, N-408, N-1327*
 
-**A-1421.3** Utah license plate TN12KM — white 2023 Toyota RAV4 rented at Duncan Aviation FBO
+**A-1421.3** Utah license plate TN12KM – white 2023 Toyota RAV4 rented at Duncan Aviation FBO
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -200,7 +200,7 @@ Confidence Level: Medium
 
 *Related: C-1726, C-1727, N-408, N-1327*
 
-**A-1421.4** Utah license plate Z923DA — black 2025 Toyota 4Runner rented at Duncan Aviation FBO
+**A-1421.4** Utah license plate Z923DA – black 2025 Toyota 4Runner rented at Duncan Aviation FBO
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -250,7 +250,7 @@ Video Timestamp: 00:12:50–00:13:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbal reference; no artifact displayed)
 
-*Related: C-1724 (informational context only — not inscribed as separate claim), N-410, N-1*
+*Related: C-1724 (informational context only – not inscribed as separate claim), N-410, N-1*
 
 **A-1424.2** Host's verbal account that Andrew K. Smith, "managing director of a restaurant fund," conducted a "restaurantology" interview with Charlie Kirk the morning of September 10, cited as the reason Charlie flew into Salt Lake City rather than Provo
 
@@ -446,7 +446,7 @@ Investigative Pressure: Medium
 
 Investigation target tracking host's verbal claim that Andrew Kovat disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.
 
-Evidence Count: 0 (verbal reference only — no displayed artifact)
+Evidence Count: 0 (verbal reference only – no displayed artifact)
 Claim Count: 1
 Episode Count: 1 (this episode)
 Investigative Pressure: Medium
@@ -848,13 +848,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kovat" vs. "Andrew Kovette" — both spellings appear in the transcript. Likely the same individual but spelling is not normalized; preserve as "Andrew Kovat" (more frequent) and flag.
+- **Name uncertainty:** "Andrew Kovat" vs. "Andrew Kovette" – both spellings appear in the transcript. Likely the same individual but spelling is not normalized; preserve as "Andrew Kovat" (more frequent) and flag.
 - **Name uncertainty:** "Charlie Kirk Boulevard" reference appears in host's book club clip and is referenced for context only; not artifact-anchored as claim.
-- **Name uncertainty:** "Candace" / "Candice" / "Canowens" — multiple transcription variants of "candaceowens.com" appear in the transcript; flagged as possible transcription error.
+- **Name uncertainty:** "Candace" / "Candice" / "Canowens" – multiple transcription variants of "candaceowens.com" appear in the transcript; flagged as possible transcription error.
 - **Possible transcription error:** UTC offset calculation. Host converts UTC to local time using UTC − 7. A viewer comment in the episode notes that September falls within daylight saving time (MDT), which would be UTC − 6, not UTC − 7. This affects the transponder timing claims (C-1719, C-1734) by one hour. Flagged for verification.
 - **Artifact verbally referenced but not shown:** "Mommy sleuth" email (A-1419.2), N560TW flight (A-1422.1), Andrew Kovat hospital threat disclosure (C-1724), Terrell Farnsworth presence (A-1424.1), Andrew K. Smith interview (A-1424.2), Ben Shapiro commentary on Erika.
-- **Transcript ambiguity:** "restaurantology" / "restauranttology" — appears twice with different spellings.
-- **Requires human verification:** All four license plate assignments (A-1421.1–4) — host-stated, requires independent rental-records confirmation.
+- **Transcript ambiguity:** "restaurantology" / "restauranttology" – appears twice with different spellings.
+- **Requires human verification:** All four license plate assignments (A-1421.1–4) – host-stated, requires independent rental-records confirmation.
 - **Requires human verification:** Host's claim that "no federal agency has since contacted me directly about those credible threats" (C-1724) is host testimony; cannot be verified absent federal disclosure or testimony from Andrew Kovat.
 - **Claim failed admission test:** Host statements regarding Israel's role in USS Liberty, Israeli threats against the host and Tucker Carlson, Netanyahu "namechecking" the host, and spiritual/dream-based assertions about Charlie Kirk all lack artifact anchors in this episode and have been excluded from the Claim Register.
 - **Claim failed admission test:** Host's characterizations of Rob McCoy's family background ("spawn of naval psychological intelligence"), of Steven Crowder as a "pathological liar," and of Erika Kirk's planning/intent all lack artifact anchors and have been excluded.

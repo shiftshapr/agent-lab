@@ -16,7 +16,7 @@
 
 ---
 
-# Bride of Charlie — Episode 65 Analysis
+# Bride of Charlie – Episode 65 Analysis
 
 ## I. Meta-Data
 
@@ -72,7 +72,7 @@ Description: Clip displayed on screen with full spoken transcript. Youssef cites
 
 ---
 
-**A-1691** Bassem Youssef Show Opening Clip — Anti-Semite of the Year Segment
+**A-1691** Bassem Youssef Show Opening Clip – Anti-Semite of the Year Segment
 
 **A-1691.1** Anti-Semite of Year 2024/2025 Segment from Youssef's Show
 
@@ -106,7 +106,7 @@ Description: Aerial footage of destroyed Gaza cityscape shown on screen during h
 
 **A-1693** Arstrovski October 7th Photo Set
 
-**A-1693.1** Arson Arstrovki Selfie — On Floor with Blood
+**A-1693.1** Arson Arstrovki Selfie – On Floor with Blood
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -114,7 +114,7 @@ Video Timestamp: 00:15:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-Description: First photo — Arstrovski shown lying on the floor with visible blood on face. Host remarks it "obviously looks fake."
+Description: First photo – Arstrovski shown lying on the floor with visible blood on face. Host remarks it "obviously looks fake."
 
 **A-1693.2** Arstrovski Bandaged Photo
 
@@ -132,7 +132,7 @@ Description: Second photo showing Arstrovski with bandages. Host notes there is 
 
 **A-1694** Viewer Comment Bundle (Read Aloud by Host)
 
-**A-1694.1** Amma Musa Comment — Ward Boston Notarized Statement
+**A-1694.1** Amma Musa Comment – Ward Boston Notarized Statement
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -142,7 +142,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud by host. Viewer states: "Ward Boston was a Navy judge advocate general who investigated Liberty, USS Liberty. Before he died, he published a notarized statement in San Diego Union Tribune that the investigation was a cover up and the attack was deliberate."
 
-**A-1694.2** Project Constitution Comment — Phil Turney Interview
+**A-1694.2** Project Constitution Comment – Phil Turney Interview
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -152,7 +152,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud by host. Viewer states: "I agree with Phil Turney of the US Liberty. I interviewed him on my channel, too. His story is so powerful."
 
-**A-1694.3** Katya Comment — Bassem in TV Show Lioness
+**A-1694.3** Katya Comment – Bassem in TV Show Lioness
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -162,7 +162,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud. Viewer references Youssef's role as "Rohi Amroi" in the TV show *Lioness*.
 
-**A-1694.4** Walter Midi Hunter Comment — IDF Soldier Suicide Rate
+**A-1694.4** Walter Midi Hunter Comment – IDF Soldier Suicide Rate
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -220,7 +220,7 @@ Video Timestamp: 01:27:19–01:28:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host/guest verbal account)
 
-Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, described as "a Musad agent," authored the book; (2) the book alleged Mossad knew in advance about the 1982 Beirut barracks bombing of U.S. Marines and withheld information; (3) a 24-hour gag order was placed on the book in 1992 — allegedly the "first and last ever gag order on an American book"; (4) Hollywood Babylon also had a prior gag order.
+Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, described as "a Musad agent," authored the book; (2) the book alleged Mossad knew in advance about the 1982 Beirut barracks bombing of U.S. Marines and withheld information; (3) a 24-hour gag order was placed on the book in 1992 – allegedly the "first and last ever gag order on an American book"; (4) Hollywood Babylon also had a prior gag order.
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -282,7 +282,7 @@ Description: Referenced movement of ex-IDF soldiers speaking about atrocities in
 
 ---
 
-**A-1701** Ben Shapiro at Turning Point USA — USS Liberty Debate Clip
+**A-1701** Ben Shapiro at Turning Point USA – USS Liberty Debate Clip
 
 **A-1701.1** Ben Shapiro Debating Young Questioner on USS Liberty at TPUSA
 
@@ -402,7 +402,7 @@ Investigative Pressure: Low
 
 **N-45** Rob McCoy
 
-Pastor at Calvary Chapel (per host). Host claims he was purportedly close to Charlie Kirk but that Charlie "couldn't stand him toward the end." Host also claims his father ran psychological operations for the Navy. (Host claim about father is host opinion — not artifact-backed in this episode.)
+Pastor at Calvary Chapel (per host). Host claims he was purportedly close to Charlie Kirk but that Charlie "couldn't stand him toward the end." Host also claims his father ran psychological operations for the Navy. (Host claim about father is host opinion – not artifact-backed in this episode.)
 
 Evidence Count: 0
 Claim Count: 0
@@ -610,7 +610,7 @@ Investigative Pressure: Low
 
 **N-1536** Calvary Chapel Church CIA Connection Question
 
-Host claim that Calvary Chapel is "a CIA story" and that Rob McCoy's father ran Navy psychological operations. (Host claim — not artifact-anchored in this episode beyond host testimony.)
+Host claim that Calvary Chapel is "a CIA story" and that Rob McCoy's father ran Navy psychological operations. (Host claim – not artifact-anchored in this episode beyond host testimony.)
 
 Evidence Count: 0
 Claim Count: 0
@@ -833,12 +833,12 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Bass Music" / "Bassem Youssef" — name clearly identified throughout but host occasionally uses informal/phonetic spelling in passing. Preserved as written.
-- **Name uncertainty**: "Charman the God" — appears to be a YouTube show/personality name; spelling preserved as appears in transcript.
-- **Name uncertainty**: "Phil Turney" vs. "Phil Turny" — both spellings appear; "Phil Turney" used consistently in main references.
-- **Name uncertainty**: "Andrew Kovette" / "Andrew Kolvet" — both spellings used by host; preserved as spoken.
-- **Name uncertainty**: "Arson Arstrovski" — spelled phonetically; possible alternate spellings may exist. Flag: requires human verification.
-- **Name uncertainty**: "Aishlime" — Iraqi Jewish author referenced by Youssef; unclear if this is correct spelling. Flag: requires human verification.
+- **Name uncertainty**: "Bass Music" / "Bassem Youssef" – name clearly identified throughout but host occasionally uses informal/phonetic spelling in passing. Preserved as written.
+- **Name uncertainty**: "Charman the God" – appears to be a YouTube show/personality name; spelling preserved as appears in transcript.
+- **Name uncertainty**: "Phil Turney" vs. "Phil Turny" – both spellings appear; "Phil Turney" used consistently in main references.
+- **Name uncertainty**: "Andrew Kovette" / "Andrew Kolvet" – both spellings used by host; preserved as spoken.
+- **Name uncertainty**: "Arson Arstrovski" – spelled phonetically; possible alternate spellings may exist. Flag: requires human verification.
+- **Name uncertainty**: "Aishlime" – Iraqi Jewish author referenced by Youssef; unclear if this is correct spelling. Flag: requires human verification.
 - **Artifact verbally referenced but not shown**: A-1696.1, A-1697.1, A-1698.1, A-1699.1, A-1700.1, A-1701.1, A-1702.1, A-1703.1
 - **Claim failed admission test**: Several claims fail the artifact anchor test for this episode, including: ICE office location in Tel Aviv (C-2238 was considered and excluded), claims about specific Mossad false flag operations (Baghdad 1950-51 bombings, Lavon Affair, London embassy 1994, Mexican parliament 2001), and the Auschwitz Museum Joseph Mengele revision specifics.
 - **Host opinion not artifact-backed**: Host's claim that Rob McCoy's father ran Navy psychological operations is host opinion without external artifact support in this episode.

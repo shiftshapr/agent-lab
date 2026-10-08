@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - (see registers)
 
-# Episode Analysis: Monument Ep 82 — "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315"
+# Episode Analysis: Monument Ep 82 – "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315"
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## II. Executive Summary
 
-This episode presents a new artifact-anchored data point regarding Erica Kirk's whereabouts on September 10, 2025: an unverified source claim that she was inside the offices of Hopkinson Aircrafts — a luxury aircraft brokerage in Scottsdale — when she received the call informing her of Charlie Kirk's death. The host and her team describe Hopkinson as occupying a separate unmarked building that shares Atlantic Aviation's address (14600 North Aircraft Drive) but accepts mail at Atlantic's office. The episode develops two investigative threads: (1) Wi-Fi analysis of the alleged "Barbara" plane (N8724A), which the host claims she confirmed by phone call has Wi-Fi, thereby complicating Andrew Kolvet's claimed plane blackout; and (2) the timing of Andrew Kolvet's 3:26 PM MST text message ("Sorry, on the plane. This just loaded") against ADSB Exchange data showing Charlie's plane descending below 7,500 ft near Provo at the same minute. The episode also introduces Andrew Kolvet's admitted hosting of the first hour of Charlie Kirk Live Show on September 10 as a potential alibi, and presents a critical reading of Nick Shirley's background and his booking on that episode. The latter half addresses Joe Kent's Shellenberger interview and Blake Neff / Andrew Kolvet's on-air reaction characterizing truthful testimony as "betrayal." The episode's evidentiary contribution is primarily the Hopkinson location claim, the Wi-Fi phone confirmation, and the ADSB-time correlation to Andrew Kolvet's 3:26 PM message.
+This episode presents a new artifact-anchored data point regarding Erica Kirk's whereabouts on September 10, 2025: an unverified source claim that she was inside the offices of Hopkinson Aircrafts – a luxury aircraft brokerage in Scottsdale – when she received the call informing her of Charlie Kirk's death. The host and her team describe Hopkinson as occupying a separate unmarked building that shares Atlantic Aviation's address (14600 North Aircraft Drive) but accepts mail at Atlantic's office. The episode develops two investigative threads: (1) Wi-Fi analysis of the alleged "Barbara" plane (N8724A), which the host claims she confirmed by phone call has Wi-Fi, thereby complicating Andrew Kolvet's claimed plane blackout; and (2) the timing of Andrew Kolvet's 3:26 PM MST text message ("Sorry, on the plane. This just loaded") against ADSB Exchange data showing Charlie's plane descending below 7,500 ft near Provo at the same minute. The episode also introduces Andrew Kolvet's admitted hosting of the first hour of Charlie Kirk Live Show on September 10 as a potential alibi, and presents a critical reading of Nick Shirley's background and his booking on that episode. The latter half addresses Joe Kent's Shellenberger interview and Blake Neff / Andrew Kolvet's on-air reaction characterizing truthful testimony as "betrayal." The episode's evidentiary contribution is primarily the Hopkinson location claim, the Wi-Fi phone confirmation, and the ADSB-time correlation to Andrew Kolvet's 3:26 PM message.
 
 ---
 
@@ -47,7 +47,7 @@ This episode presents a new artifact-anchored data point regarding Erica Kirk's 
 
 **A-1886** Hopkinson Aircrafts Location Bundle
 
-**A-1886.1** Hopkinson Aircrafts public website — "Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise"
+**A-1886.1** Hopkinson Aircrafts public website – "Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -57,7 +57,7 @@ Confidence Level: High (shown on screen)
 
 *Related: C-2545, C-2544, N-1628*
 
-**A-1886.2** Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale — showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address
+**A-1886.2** Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -79,7 +79,7 @@ Confidence Level: Medium (single anonymous call; not independently verified)
 
 **A-1887** Plane Documentation Bundle
 
-**A-1887.1** Image of Hawker Beechcraft (the "Barbara plane," tail N8724A) — small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST
+**A-1887.1** Image of Hawker Beechcraft (the "Barbara plane," tail N8724A) – small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -99,7 +99,7 @@ Confidence Level: Medium (single phone call, not recorded)
 
 *Related: C-2546, C-2549, N-1630*
 
-**A-1887.3** 2020 charter listing for the alleged "Wi-Refi" plane (Santa Barbara → Scottsdale leg) — listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
+**A-1887.3** 2020 charter listing for the alleged "Wi-Refi" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -133,7 +133,7 @@ Confidence Level: High (read on air)
 
 *Related: C-2548, C-2547*
 
-**A-1889.2** Text thread reference — Justin to Aubrey at 4:18 PM MST: Andrew must be "on the ground" before responding
+**A-1889.2** Text thread reference – Justin to Aubrey at 4:18 PM MST: Andrew must be "on the ground" before responding
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -167,7 +167,7 @@ Confidence Level: High (audio clip)
 
 **A-1891** Nick Shirley Background Bundle
 
-**A-1891.1** Nick Shirley self-introduction clip — 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs
+**A-1891.1** Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -189,7 +189,7 @@ Confidence Level: High (claim stated on audio)
 
 **A-1892** Joe Kent Shellenberger Interview Bundle
 
-**A-1892.1** Joe Kent interview (Michael Shellenberger, referenced) — Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says "the truth doesn't play offense or defense. It's just the truth."
+**A-1892.1** Joe Kent interview (Michael Shellenberger, referenced) – Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says "the truth doesn't play offense or defense. It's just the truth."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -201,7 +201,7 @@ Confidence Level: High (audio clip referenced)
 
 **A-1893** Blake Neff / Andrew Kolvet Response Bundle
 
-**A-1893.1** Blake Neff / Andrew Kolvet on-air response — characterizes Joe Kent potentially testifying truthfully as a "betrayal"; asserts evidence against Tyler Robinson is "overwhelming" and a "mountain"; references May evidentiary hearing
+**A-1893.1** Blake Neff / Andrew Kolvet on-air response – characterizes Joe Kent potentially testifying truthfully as a "betrayal"; asserts evidence against Tyler Robinson is "overwhelming" and a "mountain"; references May evidentiary hearing
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -213,7 +213,7 @@ Confidence Level: High (audio clip)
 
 **A-1894** N40JD Plane Information Bundle
 
-**A-1894.1** N40JD plane data — registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST
+**A-1894.1** N40JD plane data – registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -284,7 +284,7 @@ Investigative Pressure: Medium
 
 **N-1631** N40JD Plane Passenger Manifest
 
-Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) — passenger manifest not confirmed.
+Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed.
 
 Evidence Count: 1
 Claim Count: 1
@@ -504,7 +504,7 @@ Investigative Direction: Verify the specific guest booked for September 9 interv
 
 Claim Timestamp: 00:38:35
 
-Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane — the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.
+Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane – the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.
 
 Anchored Artifacts: A-1887.3
 Mentions: N-42, N-2
@@ -513,7 +513,7 @@ Related Nodes: N-1627
 
 Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erica Kirk.
 
-*Optional Flag: Transcript ambiguity — possible transcription error of aircraft operator name.*
+*Optional Flag: Transcript ambiguity – possible transcription error of aircraft operator name.*
 
 ---
 
@@ -523,14 +523,14 @@ Claim Timestamp: 00:03:02
 
 Claim: Baron Coleman (in a clip played on the show) characterized TPUSA's pattern of ignoring major inconsistencies while responding only to minor debunkable details as Gish gallop and bad-faith debating.
 
-Anchored Artifacts: A-1889.1 (host's read-aloud transcript); however no on-screen clip artifact is registered — flagged.
+Anchored Artifacts: A-1889.1 (host's read-aloud transcript); however no on-screen clip artifact is registered – flagged.
 Mentions: N-552
 
 Related Nodes:
 
 Investigative Direction: Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.
 
-*Optional Flag: Artifact verbally referenced but not formally captured as bundle — Baron Coleman clip should be its own artifact family.*
+*Optional Flag: Artifact verbally referenced but not formally captured as bundle – Baron Coleman clip should be its own artifact family.*
 
 ---
 
@@ -566,7 +566,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript — "Kolbet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.
+- **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript – "Kolbet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.
 
 - **Possible transcription error**: "Wi-Refi" / "RY Reef air" / "wife Reef air" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.
 

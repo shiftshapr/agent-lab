@@ -31,7 +31,7 @@
 - Claim Range: C-2206–C-2224
   - New Nodes Introduced:  N-796, N-797, N-1517, N-1518, N-1519, N-1520, N-1521
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk — preserved as N-2 series entry; note: transcript renders "Erika" — see Optional Flags)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags)
 
 ## 6. Meme Register
 
@@ -52,11 +52,11 @@ Confidence: high
 
 # II. EXECUTIVE SUMMARY
 
-This episode centers on two principal evidentiary presentations. The first is the public release, in three segments, of a corporate-wide Zoom call hosted by Erika Kirk to Turning Point USA staff on September 16, 2025 — approximately five-and-a-half days after Charlie Kirk's death. The host plays and contextualizes Erika's "family" framing, job-safety assurances, self-correction around the word "happy," introduction of the "everybody grieves differently" phrase, and an airplane analogy attributed to a person named "Usha." The host juxtaposes this call with subsequent employee terminations she alleges she learned about from ex-staff.
+This episode centers on two principal evidentiary presentations. The first is the public release, in three segments, of a corporate-wide Zoom call hosted by Erika Kirk to Turning Point USA staff on September 16, 2025 – approximately five-and-a-half days after Charlie Kirk's death. The host plays and contextualizes Erika's "family" framing, job-safety assurances, self-correction around the word "happy," introduction of the "everybody grieves differently" phrase, and an airplane analogy attributed to a person named "Usha." The host juxtaposes this call with subsequent employee terminations she alleges she learned about from ex-staff.
 
 The second evidentiary presentation is a podcast interview with Jeremy Boreing (former Daily Wire CEO), in which Boreing characterizes hiring Candace Owens as his "biggest professional mistake," analogizes her to "nuclear energy" that can "flatten a city," compares her show to "rhetorical pornography," and claims she told him "I believe what the people believe." The host rejects these characterizations. The episode supplements Boreing with a Bulwark podcast clip on Daily Wire's Hungarian production (extras in a marsh, travel to Italy, bulls imported from Spain).
 
-Standing discrepancies from earlier episodes — the Hamptons summit / Netanyahu funding offer, the three-way surgeon call / "Superman neck" HIPAA framing, and the Fort Huachuca PR response — are referenced but no new artifacts are introduced for those threads.
+Standing discrepancies from earlier episodes – the Hamptons summit / Netanyahu funding offer, the three-way surgeon call / "Superman neck" HIPAA framing, and the Fort Huachuca PR response – are referenced but no new artifacts are introduced for those threads.
 
 ---
 
@@ -64,7 +64,7 @@ Standing discrepancies from earlier episodes — the Hamptons summit / Netanyahu
 
 **A-1686** TPUSA Corporate Zoom Call Bundle (2025-09-16)
 
-**A-1686.1** Opening Segment — Laughter, Zoom "Thumbs Up," Initial Grief Expression
+**A-1686.1** Opening Segment – Laughter, Zoom "Thumbs Up," Initial Grief Expression
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -74,7 +74,7 @@ Confidence Level: High
 
 *Related: C-2206, C-2207, C-2220, N-264, N-797*
 
-**A-1686.2** Main Address — "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
+**A-1686.2** Main Address – "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -84,7 +84,7 @@ Confidence Level: High
 
 *Related: C-2206, C-2208, C-2209, C-2210, N-264, N-1519*
 
-**A-1686.3** Closing Segment — "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
+**A-1686.3** Closing Segment – "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -150,7 +150,7 @@ Confidence Level: Medium
 
 **A-1689** The Bulwark Podcast Clip Bundle
 
-**A-1689.1** Bulwark Segment on Daily Wire Hungary Production — Extras in a Marsh, Travel to Italy, Bulls Imported From Spain
+**A-1689.1** Bulwark Segment on Daily Wire Hungary Production – Extras in a Marsh, Travel to Italy, Bulls Imported From Spain
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -271,7 +271,7 @@ Investigative Pressure: Medium
 
 Claim Timestamp: 00:09:08
 
-Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 — approximately five-and-a-half days after Charlie Kirk's death — with the public board announcement following one day later.
+Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 – approximately five-and-a-half days after Charlie Kirk's death – with the public board announcement following one day later.
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
 Mentions: N-264, N-1, N-2
@@ -323,7 +323,7 @@ Investigative Direction: Cross-reference against TPUSA termination data from Q4 
 
 Claim Timestamp: 00:22:11
 
-Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be" — appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
+Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be" – appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
 
 Anchored Artifacts: A-1686.2
 Mentions: N-2, N-1
@@ -459,7 +459,7 @@ Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at 
 
 Claim Timestamp: 00:40:30
 
-Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her — tied to her willingness to critique Black Lives Matter — is "objectively racist."
+Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her – tied to her willingness to critique Black Lives Matter – is "objectively racist."
 
 Anchored Artifacts: A-1688.2
 Mentions: N-607, N-3
@@ -515,10 +515,10 @@ Investigative Direction: Identify any public Daily Wire financial disclosures or
 - **Timestamp uncertainty:** Exact event date for The Bulwark podcast clip (A-1689.1) is unknown.
 - **Artifact verbally referenced but not shown:** Andrew Kolvet's tweet/post stating "Just got off the phone with the surgeon" is referenced by host but not displayed; treated as narration rather than artifact.
 - **Artifact verbally referenced but not shown:** Andrew Klavan's Daily Wire episode allegedly reviewed by Boreing pre-publication is referenced but not played.
-- **Possible transcription error / correction noted on air:** "Bob Flood" (Chicago) vs. "Bob Ferguson" (Iowa) — host issued an on-air correction at 01:26 distinguishing these as separate individuals and noting the corrected image from the prior episode was removed.
-- **Identity uncertainty:** "Usha" referenced in the September 16 Zoom call airplane analogy — identity unclear.
-- **Identity uncertainty:** "Mitchell" identified by host as her PR agent — full name not given.
+- **Possible transcription error / correction noted on air:** "Bob Flood" (Chicago) vs. "Bob Ferguson" (Iowa) – host issued an on-air correction at 01:26 distinguishing these as separate individuals and noting the corrected image from the prior episode was removed.
+- **Identity uncertainty:** "Usha" referenced in the September 16 Zoom call airplane analogy – identity unclear.
+- **Identity uncertainty:** "Mitchell" identified by host as her PR agent – full name not given.
 - **Identity uncertainty:** "Justin" referenced by Erika during the September 16 call without further context.
-- **Identity uncertainty:** "Dr. Lee Trotter" — the surgeon referenced in the three-way call dispute is named in prior episodes but not anchored to a new artifact in this episode.
+- **Identity uncertainty:** "Dr. Lee Trotter" – the surgeon referenced in the three-way call dispute is named in prior episodes but not anchored to a new artifact in this episode.
 - **Claim failed admission test (host narrative, not inscribed):** Host's interpretive claims that Erika "orchestrated this entire PR campaign from the back" and "made moves behind the scenes" are framing premises rather than artifact-backed claims in this episode; left out of the Claim Register.
 - **Claim failed admission test (host narration, not inscribed):** Host's specific $67 million figure for the Daily Wire Hungary production is cited from host's prior reporting, not from the displayed Bulwark clip; left out of the Claim Register as not artifact-anchored here.

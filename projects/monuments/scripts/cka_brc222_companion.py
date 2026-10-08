@@ -196,7 +196,7 @@ class Edge:
             "relationship": self.relationship,
         }
         if self.explanation:
-            row["explanation"] = _ascii_dashes(self.explanation)
+            row["explanation"] = _prose_dashes(self.explanation)
         if self.episode is not None:
             row["episode"] = self.episode
         if self.review_status != "accepted":
@@ -207,17 +207,17 @@ class Edge:
         return row
 
 
-def _ascii_dashes(s: str) -> str:
-    """Normalize unicode dashes to ASCII hyphen (no em dashes in staged output)."""
+def _prose_dashes(s: str) -> str:
+    """Dash rule (Daveed, 8 Oct 2026) for builder-authored prose only.
+
+    An em dash (U+2014) becomes an en dash (U+2013). No dash is ever turned
+    into a hyphen or other punctuation. Quote-derived and claim-derived text
+    (labels, evidence snippets) is NOT passed through here: it is emitted
+    exactly as stored in the drafts / inscription.
+    """
     if not s:
         return s
-    return (
-        s.replace("—", "-")
-        .replace("–", "-")
-        .replace("‒", "-")
-        .replace("―", "-")
-        .replace("−", "-")
-    )
+    return s.replace("\u2014", "\u2013")
 
 
 def _split_id_list(raw: str) -> list[str]:
@@ -638,7 +638,7 @@ def build_package(
                         "prior_claim_id": prior,
                         "episode": ep if ep is not None else "",
                         "proposed_term": term,
-                        "evidence_snippet": _ascii_dashes(snippet.replace("\n", " ").strip()),
+                        "evidence_snippet": snippet.replace("\n", " ").strip(),
                         "confidence": f"{confidence if is_primary else max(0.1, confidence - 0.25):.2f}",
                         "is_heuristic_primary": "yes" if is_primary else "no",
                         "rationale": rationale,
@@ -667,7 +667,7 @@ def build_package(
                             "prior_claim_id": prior,
                             "episode": ep if ep is not None else "",
                             "proposed_term": proposed,
-                            "evidence_snippet": _ascii_dashes(snippet.replace("\n", " ").strip()),
+                            "evidence_snippet": snippet.replace("\n", " ").strip(),
                             "confidence": f"{confidence if is_primary else max(0.1, confidence - 0.25):.2f}",
                             "is_heuristic_primary": "yes" if is_primary else "no",
                             "rationale": rationale + "; latent_from=Supports",
@@ -715,7 +715,7 @@ def build_package(
             {
                 "@type": "KnowledgeGraphNode",
                 "identifier": c.claim_id,
-                "label": _ascii_dashes(c.label),
+                "label": c.label,
                 "node_kind": "claim",
                 "episode": c.episode,
             }
@@ -725,7 +725,7 @@ def build_package(
             {
                 "@type": "KnowledgeGraphNode",
                 "identifier": a.artifact_id,
-                "label": _ascii_dashes(a.label),
+                "label": a.label,
                 "node_kind": "artifact",
                 "episode": a.episode,
             }

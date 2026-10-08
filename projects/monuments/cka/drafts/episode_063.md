@@ -15,7 +15,7 @@
   - Reused Nodes Appearing: N-2
   - (see registers)
 
-# Episode 63 — Analysis Record
+# Episode 63 – Analysis Record
 
 ## I. Meta-Data
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:11:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-**A-1676.1** Erika Kirk opening the call — thanking staff and citing memorial attendance (over 275,000), broadcast reach (over 100 million), merchandise sales, and voter registrations; noting staff "20our" (20-hour) days during memorial prep; introducing the phrase "Turning Point USA 2.0."
+**A-1676.1** Erika Kirk opening the call – thanking staff and citing memorial attendance (over 275,000), broadcast reach (over 100 million), merchandise sales, and voter registrations; noting staff "20our" (20-hour) days during memorial prep; introducing the phrase "Turning Point USA 2.0."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -68,7 +68,7 @@ Video Timestamp: 00:11:24
 
 *Related: C-2194, C-2195, C-2199, N-2*
 
-**A-1676.2** Erika Kirk addressing grief — listing counselors, pastors, therapy dogs, paid flights for spouses, and advising employees that paid time off is available through standard channels if more time is needed.
+**A-1676.2** Erika Kirk addressing grief – listing counselors, pastors, therapy dogs, paid flights for spouses, and advising employees that paid time off is available through standard channels if more time is needed.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -76,7 +76,7 @@ Video Timestamp: 00:15:47
 
 *Related: C-2196, N-2, N-1514*
 
-**A-1676.3** Erika Kirk discussing "Vision 2030" — stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is "excited."
+**A-1676.3** Erika Kirk discussing "Vision 2030" – stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is "excited."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -88,7 +88,7 @@ Video Timestamp: 00:20:47
 
 **A-1677** Charlie Kirk Text Message Bundle
 
-**A-1677.1** Text message from Charlie Kirk to Candace Owens (dated by host to 2018) — "Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time. Like all the time. Not really afraid of it, but I'm just telling you what I know to be true. I'm not sure I'm going to live to see the end of this revolution."
+**A-1677.1** Text message from Charlie Kirk to Candace Owens (dated by host to 2018) – "Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time. Like all the time. Not really afraid of it, but I'm just telling you what I know to be true. I'm not sure I'm going to live to see the end of this revolution."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -168,7 +168,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:39
 
-*Related: Optional Flag — Artifact verbally referenced but not shown*
+*Related: Optional Flag – Artifact verbally referenced but not shown*
 
 ---
 
@@ -180,13 +180,13 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:40
 
-*Related: Optional Flag — Artifact verbally referenced but not shown*
+*Related: Optional Flag – Artifact verbally referenced but not shown*
 
 ---
 
 **A-1685** Live Chat Comments Read on Air Bundle
 
-**A-1685.1** Comment from "Comic Nick" — "I said this last week … why wouldn't Charlie Kirk tell Erika Kirk that they were going to kill him unless he was scared that she was a part of it."
+**A-1685.1** Comment from "Comic Nick" – "I said this last week … why wouldn't Charlie Kirk tell Erika Kirk that they were going to kill him unless he was scared that she was a part of it."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -194,7 +194,7 @@ Video Timestamp: 00:53:45
 
 *Related: C-2203, N-2*
 
-**A-1685.2** Comment from "Becca" — "When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA."
+**A-1685.2** Comment from "Becca" – "When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -202,7 +202,7 @@ Video Timestamp: 00:48:20
 
 *Related: N-2*
 
-**A-1685.3** Comment from "Jay Burgerer" — "Don't forget MLK started college at 15 and had a faith-based movement by the time that he was 21."
+**A-1685.3** Comment from "Jay Burgerer" – "Don't forget MLK started college at 15 and had a faith-based movement by the time that he was 21."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -210,7 +210,7 @@ Video Timestamp: 00:49:45
 
 *Related: N/A (commentary only)*
 
-**A-1685.4** Comment from "Coffee addicted Mama Bear" — "I ordered your book the second you said you were shipping to Canada."
+**A-1685.4** Comment from "Coffee addicted Mama Bear" – "I ordered your book the second you said you were shipping to Canada."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -218,7 +218,7 @@ Video Timestamp: 00:49:45
 
 *Related: N/A (commentary only)*
 
-**A-1685.5** Comment from "Adriana New Jersey" — "Erika plays a role that she thinks men want. She did not have the same values as Charlie … The comment in the New York Times was, 'Who needs a man? Being a single mother is okay.' That is the opposite of Charlie's views."
+**A-1685.5** Comment from "Adriana New Jersey" – "Erika plays a role that she thinks men want. She did not have the same values as Charlie … The comment in the New York Times was, 'Who needs a man? Being a single mother is okay.' That is the opposite of Charlie's views."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -226,7 +226,7 @@ Video Timestamp: 00:51:25
 
 *Related: N-2*
 
-**A-1685.6** Comment from "Joseph Brown" — Incomplete ("Candace Owens, uh, curious").
+**A-1685.6** Comment from "Joseph Brown" – Incomplete ("Candace Owens, uh, curious").
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -234,7 +234,7 @@ Video Timestamp: 00:51:25
 
 *Related: N/A*
 
-**A-1685.7** Comment from "Joel" — "Geoengineering has become really fake and gay. The sidewalks at my apartments were covered in ice. It was like styrofoam … HAARP must be drunk."
+**A-1685.7** Comment from "Joel" – "Geoengineering has become really fake and gay. The sidewalks at my apartments were covered in ice. It was like styrofoam … HAARP must be drunk."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -242,7 +242,7 @@ Video Timestamp: 00:51:25
 
 *Related: N/A*
 
-**A-1685.8** Comment from "Dagert Ar Jonah" — Birthday request for wife Cresenda Arjona / Arona.
+**A-1685.8** Comment from "Dagert Ar Jonah" – Birthday request for wife Cresenda Arjona / Arona.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -250,7 +250,7 @@ Video Timestamp: 00:51:25
 
 *Related: N/A*
 
-**A-1685.9** Comment from "Seven Sheets" — "I didn't know that much about CK before this, but could tell a man of integrity. I feel like I mourned him longer than EK or TPUSA did."
+**A-1685.9** Comment from "Seven Sheets" – "I didn't know that much about CK before this, but could tell a man of integrity. I feel like I mourned him longer than EK or TPUSA did."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -258,7 +258,7 @@ Video Timestamp: 00:52:26
 
 *Related: N-2*
 
-**A-1685.10** Comment from "Maria Rits / Jolly Valley girl" — "Hey Jolly Valley girl tone excited to be discussing business numbers and goals is super cringe and weird."
+**A-1685.10** Comment from "Maria Rits / Jolly Valley girl" – "Hey Jolly Valley girl tone excited to be discussing business numbers and goals is super cringe and weird."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -266,7 +266,7 @@ Video Timestamp: 00:53:45
 
 *Related: N-2, N-1514*
 
-**A-1685.11** Comment from "Jess Happy" — "And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace."
+**A-1685.11** Comment from "Jess Happy" – "And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -447,7 +447,7 @@ Investigative Direction: Establish provenance and dating of the romance hotline 
 **C-2205** Erika Kirk gave an in-person NYT interview on September 18, 2025
 
 Claim Timestamp: 00:06:44
-Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 — eight days after Charlie's public assassination.
+Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 – eight days after Charlie's public assassination.
 Anchored Artifacts: A-1679.1
 Mentions: N-2
 Investigative Direction: Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary.
@@ -502,8 +502,8 @@ Confidence: high
 - **Artifact referenced from previous episode:** A-1680.1 (Christian Zionist threat message) was displayed in an earlier episode and is referenced here only via audio match. Its original artifact ID from that earlier episode should be cross-referenced.
 - **Possible transcription error:** "20our days" in A-1676.1 captioning; interpreted as "20-hour days" by host and consistent with audio context.
 - **Possible transcription error:** "Benedict Dy University" / "Benedictton University" appears in the transcript; standard spelling is Benedictine University, located in Lisle, Illinois. Transcript shows "Lyall, Illinois" which is the auto-caption's rendering of "Lisle."
-- **Name uncertainty:** "Andrew Kovat" vs "Andrew Kovette" — host uses both renderings ("caught Andrew Kovette" then "Andrew Kovat didn't tell her"); spelling should be verified.
-- **Name uncertainty:** Host introduces "Robert Flood who is in Dan Flood's family" — the familial relationship and exact identity of each should be verified.
+- **Name uncertainty:** "Andrew Kovat" vs "Andrew Kovette" – host uses both renderings ("caught Andrew Kovette" then "Andrew Kovat didn't tell her"); spelling should be verified.
+- **Name uncertainty:** Host introduces "Robert Flood who is in Dan Flood's family" – the familial relationship and exact identity of each should be verified.
 - **Host research claims without displayed artifact:** Host asserts as fact that (a) Creative Children's Academy was founded 1982 and renamed Quest Academy in 1999, (b) Helen Barts founded the academy, (c) Helen Barts ran the Shaklee Center in Arlington Heights, (d) the Shaklee Corporation held a 25-year NASA contract, (e) Edith Walker Montgomery was a psychiatric nurse, (f) Edith Walker immigrated from Germany after WWII, and (g) the academy is near Northrop Grumman. None of these assertions are anchored by a displayed artifact in this episode; they are flagged as Requires Human Verification and may be inscribe-worthy in a future episode where the supporting source is shown.
 - **Claim failed admission test (not inscribed):** Host's interpretive characterization that Erika Kirk is "orchestrating a lot behind the scenes and keeping her hands clean" (at 48:20) is host opinion and was not inscribed as a claim.
 - **Transcript ambiguity:** Several live chat comments are read with only partial content or unclear attribution; comment IDs A-1685.3, A-1685.4, A-1685.6, A-1685.7, A-1685.8 do not anchor any claims in this episode.

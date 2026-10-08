@@ -42,7 +42,7 @@ Confidence: high
 
 ## 3. Artifact Register
 
-**A-1780** Nicey YouTube Video Clip — Erika/Jillian Background
+**A-1780** Nicey YouTube Video Clip – Erika/Jillian Background
 
 **A-1780.1** Nicey narration on background of Erika Kirk–Jillian Falcon meeting
 
@@ -372,7 +372,7 @@ Confidence Level: Medium
 
 ---
 
-**A-1790** Jared Moskowitz House Oversight Remarks — Epstein File Release
+**A-1790** Jared Moskowitz House Oversight Remarks – Epstein File Release
 
 **A-1790.1** Rep. Jared Moskowitz remarks recapping the Trump administration's handling of the Epstein files, including: (i) Kash Patel under-oath statement that the FBI had no credible evidence Epstein trafficked girls to anyone but himself; (ii) later disclosures of Epstein's worldwide trafficking network; (iii) Patel under-oath claim that Trump's name appears fewer than 100 times in the files, contradicted by later counts.
 
@@ -386,7 +386,7 @@ Confidence Level: High
 
 ---
 
-**A-1791** Pam Bondi House Oversight Response — Epstein File Release
+**A-1791** Pam Bondi House Oversight Response – Epstein File Release
 
 **A-1791.1** Pam Bondi verbal response defending the Trump administration's Epstein file release, asserting over 3 million pages of documents have been released and that President Trump signed the law releasing them, characterizing him as "the most transparent president in the nation's history."
 

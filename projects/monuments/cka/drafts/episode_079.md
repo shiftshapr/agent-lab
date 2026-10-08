@@ -651,7 +651,7 @@ Investigative Direction: Obtain device-level forensic verification of the text m
 
 Claim Timestamp: 00:09:46–00:10:32
 
-Claim: Charlie Kirk privately told Candace Owens there were "some verses in the Talmud that will blow your mind" and that the Talmud is "rabbinical interpretations of Judaism" — a text exchange the host presents as evidence Charlie was critical of certain Talmudic content.
+Claim: Charlie Kirk privately told Candace Owens there were "some verses in the Talmud that will blow your mind" and that the Talmud is "rabbinical interpretations of Judaism" – a text exchange the host presents as evidence Charlie was critical of certain Talmudic content.
 
 Anchored Artifacts: A-1846.2
 Mentions: N-1, N-3

@@ -19,7 +19,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1557",
       "family_ref": "A-1557",
-      "bundle_name": "Email Bundle — Fort Huachuca Intelligence Operations Allegations",
+      "bundle_name": "Email Bundle – Fort Huachuca Intelligence Operations Allegations",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -43,7 +43,7 @@
           "@type": "Artifact",
           "@id": "A-1557.2",
           "ref": "A-1557.2",
-          "description": "Viewer Email — Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups",
+          "description": "Viewer Email – Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups",
           "related_claims": [
             "C-1976",
             "C-1977"
@@ -65,7 +65,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1558",
       "family_ref": "A-1558",
-      "bundle_name": "Eyewitness Documentation Bundle — Mitch's September 2025 Fort Huachuca Visit",
+      "bundle_name": "Eyewitness Documentation Bundle – Mitch's September 2025 Fort Huachuca Visit",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -135,7 +135,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1559",
       "family_ref": "A-1559",
-      "bundle_name": "Photo Identification Bundle — Eyewitness Resemblance Comparisons",
+      "bundle_name": "Photo Identification Bundle – Eyewitness Resemblance Comparisons",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -199,7 +199,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1560",
       "family_ref": "A-1560",
-      "bundle_name": "Viewer Correspondence Bundle — Charlie Kirk SUV Interior Photographs",
+      "bundle_name": "Viewer Correspondence Bundle – Charlie Kirk SUV Interior Photographs",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -630,7 +630,7 @@
       "@id": "C-1977",
       "ref": "C-1977",
       "label": "Fort Huachuca Military Students Described Overnight Deception Training Exercises Against Civilians in Tucson",
-      "claim": "Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson — telling lies, maintaining false personas, and avoiding \"breaking character\" — at bars and public venues, with implications of sexual encounters with targets.",
+      "claim": "Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson – telling lies, maintaining false personas, and avoiding \"breaking character\" – at bars and public venues, with implications of sexual encounters with targets.",
       "anchored_artifacts": [
         "A-1557.2"
       ],

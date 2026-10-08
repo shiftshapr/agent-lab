@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convenience wrapper — same as shared monuments preflight with default monument cka."""
+"""Convenience wrapper – same as shared monuments preflight with default monument cka."""
 from __future__ import annotations
 
 import runpy

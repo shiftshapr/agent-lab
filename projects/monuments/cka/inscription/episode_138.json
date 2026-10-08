@@ -13,7 +13,7 @@
     "transcript_sha256": "9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named \"Protecting Mrs. Kirk\" is presented via screenshots/quotes from X user \"Shady Lady Katie,\" which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged \"lies and omissions\" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips — Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx — are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.\n\nStructurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-2179), introduces a fresh movement-timeline target on Nate Walker (N-2180), and consolidates Tyler Robinson case-claim tracking under N-2181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).\n\n---",
+  "executive_summary": "This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named \"Protecting Mrs. Kirk\" is presented via screenshots/quotes from X user \"Shady Lady Katie,\" which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged \"lies and omissions\" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips – Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx – are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.\n\nStructurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-2179), introduces a fresh movement-timeline target on Nate Walker (N-2180), and consolidates Tyler Robinson case-claim tracking under N-2181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -184,7 +184,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2250",
       "family_ref": "A-2250",
-      "bundle_name": "Perez Hilton — Ellen DeGeneres Show 2010 Interview Clip",
+      "bundle_name": "Perez Hilton – Ellen DeGeneres Show 2010 Interview Clip",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -210,7 +210,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2251",
       "family_ref": "A-2251",
-      "bundle_name": "Piers Morgan — Victor Marx Interview Bundle",
+      "bundle_name": "Piers Morgan – Victor Marx Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -560,7 +560,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-2183",
       "ref": "N-2183",
-      "name": "Officer Bagley — Sex Crimes Unit Background",
+      "name": "Officer Bagley – Sex Crimes Unit Background",
       "type": "investigation_target",
       "description": "Persistent investigative target: host's verbal disclosure that Officer Bagley, previously a subject in the series, was employed by the Utah County Sheriff's Office in the sex crimes detective unit prior to his UVU role. Presented verbally in this episode without an attached documentary artifact.",
       "related_artifacts": [],

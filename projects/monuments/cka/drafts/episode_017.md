@@ -15,7 +15,7 @@
   - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-238, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
   - Reused Nodes Appearing: 
 
-**Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk — referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-37
+**Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-37
 
 ---
 
@@ -95,7 +95,7 @@ Confidence Level: High (text captured verbatim in transcript)
 
 **A-1239** Josh Hammer Prior Statements Bundle
 
-**A-1239.1** Hammer X post (displayed and read aloud): "Jew hatred is inherent in the European DNA" — shown as 2019 post; host states Hammer subsequently deleted it
+**A-1239.1** Hammer X post (displayed and read aloud): "Jew hatred is inherent in the European DNA" – shown as 2019 post; host states Hammer subsequently deleted it
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -237,7 +237,7 @@ Confidence Level: Medium (transcript caption identifies performer as "John Marco
 
 *Related: C-1417, N-231*
 
-*Optional Flag: Name uncertainty — transcript caption vs. host referent.*
+*Optional Flag: Name uncertainty – transcript caption vs. host referent.*
 
 ---
 
@@ -267,7 +267,7 @@ Confidence Level: Medium for verbatim quote; Low for source attribution (letter 
 
 *Related: C-1418, N-1, N-? (Tucker Carlson), N-? (Candace Owens)*
 
-*Optional Flag: Artifact verbally referenced but not shown — author and full letter not identified in episode.*
+*Optional Flag: Artifact verbally referenced but not shown – author and full letter not identified in episode.*
 
 ---
 
@@ -355,7 +355,7 @@ Investigative Pressure: High
 
 **N-231** Gianmarco Soresi
 
-Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both "Gianmarco Soresi" (host) and "John Marco Siracusa" (caption) — flag.
+Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both "Gianmarco Soresi" (host) and "John Marco Siracusa" (caption) – flag.
 
 Evidence Count: 1
 Claim Count: 1
@@ -364,7 +364,7 @@ Investigative Pressure: Low
 
 *Related: A-1247.1, C-1417*
 
-*Optional Flag: Name uncertainty — caption vs. host referent.*
+*Optional Flag: Name uncertainty – caption vs. host referent.*
 
 ---
 
@@ -409,7 +409,7 @@ Investigative Pressure: Low
 
 **N-235** Dinesh D'Souza
 
-X author of A-1245.1 — the "freak show" / farmer-sex-with-sheep post about Candace Owens.
+X author of A-1245.1 – the "freak show" / farmer-sex-with-sheep post about Candace Owens.
 
 Evidence Count: 1
 Claim Count: 1
@@ -470,7 +470,7 @@ Investigative Pressure: Low
 
 *Related: A-1245.2, N-235*
 
-*Optional Flag: Name uncertainty — "Yishai" alone; fuller handle not captured.*
+*Optional Flag: Name uncertainty – "Yishai" alone; fuller handle not captured.*
 
 ---
 
@@ -537,7 +537,7 @@ Investigative Pressure: Low
 
 *Related: A-1242.1, N-42*
 
-*Optional Flag: Name uncertainty — "Ali" only.*
+*Optional Flag: Name uncertainty – "Ali" only.*
 
 ---
 
@@ -569,7 +569,7 @@ Investigative Pressure: High
 
 **N-1242** Candace Kill Switch / Dead Man Switch
 
-Investigation target / verification node: the existence, recipients, and content of Candace Owens's "kill switch" — confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.
+Investigation target / verification node: the existence, recipients, and content of Candace Owens's "kill switch" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.
 
 Evidence Count: 1
 Claim Count: 2
@@ -660,7 +660,7 @@ Investigative Direction: Verify Yashar Ali's exact post text and timing against 
 
 ---
 
-**C-1406** Iryna Zhuravska Murder Timeline — Murder August 22, Footage Released and Trended September 5
+**C-1406** Iryna Zhuravska Murder Timeline – Murder August 22, Footage Released and Trended September 5
 
 Claim Timestamp: 00:08:44
 
@@ -691,7 +691,7 @@ Investigative Direction: Verify the full memorial transcript and locate the segm
 
 Claim Timestamp: 00:09:35
 
-Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.
+Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety – but did not call for or reference the death penalty.
 
 Anchored Artifacts: A-1250.1
 Mentions: N-86, N-227, N-245
@@ -875,7 +875,7 @@ Mentions: N-37, N-3
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 
-*Optional Flag: Claim failed admission test — Artifact Anchor Test.*
+*Optional Flag: Claim failed admission test – Artifact Anchor Test.*
 
 ---
 
@@ -890,11 +890,11 @@ Related Nodes: N-1241
 
 Investigative Direction: Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable.
 
-*Optional Flag: Claim failed admission test — Artifact Anchor Test.*
+*Optional Flag: Claim failed admission test – Artifact Anchor Test.*
 
 ---
 
-**C-1423** UVU Had a Specific Suspect Profile Sought by Host — Older Males with Long Hair Tied in Ponytail or Bun
+**C-1423** UVU Had a Specific Suspect Profile Sought by Host – Older Males with Long Hair Tied in Ponytail or Bun
 
 Claim Timestamp: 00:42:00
 
@@ -905,7 +905,7 @@ Related Nodes: N-1241
 
 Investigative Direction: Tip-line intake processing and review of footage submitted to tips@candaceowens.com.
 
-*Optional Flag: Claim failed admission test — Artifact Anchor Test.*
+*Optional Flag: Claim failed admission test – Artifact Anchor Test.*
 
 ---
 
@@ -958,12 +958,12 @@ Cross-references are embedded in each artifact, claim, and node entry above. Net
 
 ## VII. Contradictions Register (artifact-anchored only)
 
-**Contradiction 1 — Charlie's Direction on Israel**
+**Contradiction 1 – Charlie's Direction on Israel**
 
 - **Side A (JTV / Josh Hammer, A-1242.1):** Charlie was "unflinching"; his last words were about helping Hammer's book and preparing Israel-talking points.
 - **Side B (Wolicki, A-1243.1):** Charlie "had some disagreements with Israeli policy and he criticized Israel where he felt appropriate"; people were actively working on him to turn him against Israel; the meeting was called by Charlie because he was uncomfortable answering Israel questions on tour and felt pigeonholed as Israel's defender.
 
-Both anchors are first-party audio artifacts from named speakers about the same meeting. The two narratives — "calling the meeting because he was having trouble answering pro-Israel campus questions and wanted help" vs. "Charlie was actively shifting away from Israel and people were trying to influence him" — cannot both describe a single uninterrupted state of affairs without further clarification.
+Both anchors are first-party audio artifacts from named speakers about the same meeting. The two narratives – "calling the meeting because he was having trouble answering pro-Israel campus questions and wanted help" vs. "Charlie was actively shifting away from Israel and people were trying to influence him" – cannot both describe a single uninterrupted state of affairs without further clarification.
 
 ---
 
@@ -1001,9 +1001,9 @@ Confidence: high
 - **Name uncertainty (Yishai):** A-1245.2 attributed to "Yishai" only; full handle not captured.
 - **Name uncertainty (Ali):** JTV host in A-1242.1 referred to only by first name "Ali." N-243 created with that exact spelling.
 - **Name uncertainty (Sam Parker):** Referenced by Yashar Ali (A-1237.1) as "notorious neo-Nazi Sam Parker." Not anchored independently in this episode.
-- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) — author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host — see N-1243, C-1411 through C-1414 adjacency); the John and Arena Mapel letter (referenced in comments but not displayed).
-- **Claim failed admission test:** C-1421 (Tyler Bowyer), C-1422 (UVU footage black hole), C-1423 (UVU suspect profile bulletin) — no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.
-- **Transcript ambiguity (Trump quote wording):** Host reads "Should be public execution for all to see. You will end this bull fast." — word "bull" preserved as is; may be a transcription artifact of a stronger word.
+- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-1243, C-1411 through C-1414 adjacency); the John and Arena Mapel letter (referenced in comments but not displayed).
+- **Claim failed admission test:** C-1421 (Tyler Bowyer), C-1422 (UVU footage black hole), C-1423 (UVU suspect profile bulletin) – no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.
+- **Transcript ambiguity (Trump quote wording):** Host reads "Should be public execution for all to see. You will end this bull fast." – word "bull" preserved as is; may be a transcription artifact of a stronger word.
 - **Timestamp uncertainty:** The JTV segment (A-1242.1) is described as "a few days after Charlie's death" but not dated explicitly; the Gabriel media appearance (A-1250.1) is undated; the Wolicki interview (A-1243.1) is undated. Best-effort anchor dates preserved only as "post-Sept-10."
 - **Possible transcription error:** Iryna Zhuravska spelled "Arena Zhuravskaya" in some transcript locations; both spellings preserved as they appear.
 
@@ -1015,7 +1015,7 @@ Confidence: high
 - [x] Every claim has at least one node.
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
-- [x] No episode-wide artifact bundle — every top-level ID represents a distinct evidentiary family.
+- [x] No episode-wide artifact bundle – every top-level ID represents a distinct evidentiary family.
 - [x] People nodes use the global people ledger; investigation targets use the 1000 series.
 - [x] Speculative content (e.g., trans-community retaliation theory, speculation about who Charlie meant by "they") flagged and not inscribed as evidence-backed claims.
 - [x] Names preserved exactly as they appear; uncertainty noted.

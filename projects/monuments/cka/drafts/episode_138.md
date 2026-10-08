@@ -17,7 +17,7 @@
 
 ## 2. Executive Summary
 
-This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named "Protecting Mrs. Kirk" is presented via screenshots/quotes from X user "Shady Lady Katie," which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged "lies and omissions" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips — Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx — are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.
+This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named "Protecting Mrs. Kirk" is presented via screenshots/quotes from X user "Shady Lady Katie," which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged "lies and omissions" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips – Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx – are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.
 
 Structurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-2179), introduces a fresh movement-timeline target on Nate Walker (N-2180), and consolidates Tyler Robinson case-claim tracking under N-2181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).
 
@@ -111,7 +111,7 @@ Confidence Level: High (statement read on air)
 
 ---
 
-**A-2250** Perez Hilton — Ellen DeGeneres Show 2010 Interview Clip
+**A-2250** Perez Hilton – Ellen DeGeneres Show 2010 Interview Clip
 
 **A-2250.1** Ellen DeGeneres Show clip in which Perez Hilton acknowledges being perceived as a "hypocrite and a bully," apologizes for past behavior including nicknaming, inappropriate doodling, and outing people, and pledges to change his website's approach
 
@@ -125,7 +125,7 @@ Confidence Level: High (clip played on air)
 
 ---
 
-**A-2251** Piers Morgan — Victor Marx Interview Bundle
+**A-2251** Piers Morgan – Victor Marx Interview Bundle
 
 **A-2251.1** Segment in which Piers Morgan questions Victor Marx about decapitating a cat at age 3; Marx states his stepfather put his hand over Victor's hand on a knife to decapitate a dead cat
 
@@ -324,7 +324,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2183** Officer Bagley — Sex Crimes Unit Background
+**N-2183** Officer Bagley – Sex Crimes Unit Background
 
 Persistent investigative target: host's verbal disclosure that Officer Bagley, previously a subject in the series, was employed by the Utah County Sheriff's Office in the sex crimes detective unit prior to his UVU role. Presented verbally in this episode without an attached documentary artifact.
 
@@ -542,7 +542,7 @@ Related Nodes: N-2179
 
 Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.
 
-**Claim failed full admission test — organizer identification is host characterization not present in the artifact. Inscribed with caveat in Investigative Direction.**
+**Claim failed full admission test – organizer identification is host characterization not present in the artifact. Inscribed with caveat in Investigative Direction.**
 
 ---
 

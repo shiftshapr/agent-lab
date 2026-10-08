@@ -242,7 +242,7 @@
       "ref": "N-2224",
       "name": "Political Motivation Inference Chain (Hearsay Standard)",
       "type": "investigation_target",
-      "description": "Investigation into whether the state's chain of inferences — Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged \"some hate just can't be negotiated\" message → political-motivation enhancement — satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.",
+      "description": "Investigation into whether the state's chain of inferences – Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged \"some hate just can't be negotiated\" message → political-motivation enhancement – satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.",
       "related_artifacts": [
         "A-2336",
         "A-2337"
@@ -693,7 +693,7 @@
       "@id": "C-3366",
       "ref": "C-3366",
       "label": "Mikey McCoy's hand remained at his ear throughout the post-shot sequence",
-      "claim": "Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear — a gesture that prior narratives have attributed to noise-canceling rather than a phone call.",
+      "claim": "Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear – a gesture that prior narratives have attributed to noise-canceling rather than a phone call.",
       "anchored_artifacts": [
         "A-2329.2"
       ],
@@ -728,7 +728,7 @@
       "@id": "C-3368",
       "ref": "C-3368",
       "label": "Kirk communicated the night before 9/10 that he feared for his life",
-      "claim": "Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him — a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.",
+      "claim": "Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1085,7 +1085,7 @@
       "@id": "C-3387",
       "ref": "C-3387",
       "label": "Brian Harpole stated there were no threats the night before 9/10",
-      "claim": "Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 — a statement the host identifies as in tension with Kirk's prior-night communication of fear.",
+      "claim": "Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 – a statement the host identifies as in tension with Kirk's prior-night communication of fear.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1152,7 +1152,7 @@
       "@id": "C-3391",
       "ref": "C-3391",
       "label": "McCoy made a \"general directing a battle\" pivot per Neff",
-      "claim": "Blake Neff testified that Mikey McCoy, after the phone calls, \"got total mastery of himself\" and began \"directing a battle\" — assigning tasks, including instructions that \"none of you can say anything\" until Erika Kirk had been told directly by McCoy.",
+      "claim": "Blake Neff testified that Mikey McCoy, after the phone calls, \"got total mastery of himself\" and began \"directing a battle\" – assigning tasks, including instructions that \"none of you can say anything\" until Erika Kirk had been told directly by McCoy.",
       "anchored_artifacts": [
         "A-2338"
       ],

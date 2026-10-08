@@ -33,13 +33,13 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth L
 
 ## II. Executive Summary
 
-Episode 14 advances several investigative threads anchored primarily to (a) publicly posted source material read aloud by the host and (b) news and podcast clips played in-episode. The dominant evidentiary thread concerns the announced split between the FBI and the Anti-Defamation League, introduced through a posted statement from FBI Director Kash Patel (A-1209.1) and a corresponding ADL response statement (A-1210.1). The host correlates this announcement with a previously published X thread by investigator Kyle Undercover documenting that the ADL shares Connecticut office space with the FBI (A-1211.1), and links it to a tip that the FBI's Connecticut field office — rather than a geographically closer bureau — was dispatched to UVU post-assassination (A-1218.1, verbally referenced only).
+Episode 14 advances several investigative threads anchored primarily to (a) publicly posted source material read aloud by the host and (b) news and podcast clips played in-episode. The dominant evidentiary thread concerns the announced split between the FBI and the Anti-Defamation League, introduced through a posted statement from FBI Director Kash Patel (A-1209.1) and a corresponding ADL response statement (A-1210.1). The host correlates this announcement with a previously published X thread by investigator Kyle Undercover documenting that the ADL shares Connecticut office space with the FBI (A-1211.1), and links it to a tip that the FBI's Connecticut field office – rather than a geographically closer bureau – was dispatched to UVU post-assassination (A-1218.1, verbally referenced only).
 
 The episode continues the "witness tree" line of inquiry with two artifact-backed contributions: a news interview in which Orem resident Olivia Robertson cub Bishop describes seeing the alleged shooter limping (A-1213.1), and a witness clip from a member of the Lyman family discussing a possible female accomplice (A-1214.1). A USA Today/AP compilation clip of multiple witnesses is also played (A-1215.1).
 
-The Tyler Robinson defense-selection thread is advanced through an audio clip of journalist Elizabeth Lane on the Redacted podcast (A-1212.1), in which Lane describes her pro bono outreach efforts and the unusual involvement of Utah state prosecutor Skordas in identifying defense counsel. The episode concludes with two display artifacts — a public denial of suicidal intent from Marjorie Taylor Greene (A-1216.1) and a clip of podcaster Theo Von making a similar statement (A-1217.1) — used by the host as a connective thread across multiple public figures.
+The Tyler Robinson defense-selection thread is advanced through an audio clip of journalist Elizabeth Lane on the Redacted podcast (A-1212.1), in which Lane describes her pro bono outreach efforts and the unusual involvement of Utah state prosecutor Skordas in identifying defense counsel. The episode concludes with two display artifacts – a public denial of suicidal intent from Marjorie Taylor Greene (A-1216.1) and a clip of podcaster Theo Von making a similar statement (A-1217.1) – used by the host as a connective thread across multiple public figures.
 
-Structural importance: Episode 14 is the first episode in the analyzed sequence to introduce FBI-ADL structural allegations via displayed primary sources, and to bring forward an explicit claim that the Connecticut field office (rather than a local one) was deployed to UVU — a logistical claim that, if corroborated, would extend the witness-tree anomalies into federal-deployment anomalies.
+Structural importance: Episode 14 is the first episode in the analyzed sequence to introduce FBI-ADL structural allegations via displayed primary sources, and to bring forward an explicit claim that the Connecticut field office (rather than a local one) was deployed to UVU – a logistical claim that, if corroborated, would extend the witness-tree anomalies into federal-deployment anomalies.
 
 ---
 
@@ -294,7 +294,7 @@ Investigative Pressure: Low
 
 **N-203** Olivia Robertson cub Bishop
 
-Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only — no displayed source for employment claim).
+Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only – no displayed source for employment claim).
 
 Evidence Count: 1
 Claim Count: 1
@@ -480,7 +480,7 @@ Investigative Direction: Confirm the ADL statement verbatim from primary source 
 
 Claim Timestamp: 00:13:03–00:14:10
 
-Claim: The FBI's Connecticut field office — rather than a closer regional bureau — was dispatched to UVU to assist in the Charlie Kirk assassination investigation.
+Claim: The FBI's Connecticut field office – rather than a closer regional bureau – was dispatched to UVU to assist in the Charlie Kirk assassination investigation.
 
 Anchored Artifacts: A-1218.1
 Mentions: N-1
@@ -542,7 +542,7 @@ Investigative Direction: Independently confirm Lane's account with the firms she
 
 Claim Timestamp: 00:32:15
 
-Claim: Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecutor Skordas asserted that he — not the defense — controls identification of defense counsel for Tyler Robinson.
+Claim: Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecutor Skordas asserted that he – not the defense – controls identification of defense counsel for Tyler Robinson.
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-207, N-69
@@ -660,12 +660,12 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1218.1):** The Connecticut FBI deployment claim relies on host-described tip content; the proof the host references was not displayed on screen. Independent corroboration required before treating as evidentiary.
-- **Name uncertainty:** "Skordas" / "Squortis" / "Scordies" appears inconsistently in transcript for the Utah state prosecutor (canonical spelling unknown). "Olivia Robertson cub Bishop" preserved as read; possible transcription error (e.g., "cub" likely a YouTube auto-caption artifact for an unstated middle component — possibly "Robertson Cobb Bishop" or similar).
-- **Name uncertainty:** "Squortis" / "Scordies" / "Skordas" — same entity.
-- **Name uncertainty:** "Brderick Lyman" — preserved as transcribed; canonical spelling of witness name uncertain.
+- **Name uncertainty:** "Skordas" / "Squortis" / "Scordies" appears inconsistently in transcript for the Utah state prosecutor (canonical spelling unknown). "Olivia Robertson cub Bishop" preserved as read; possible transcription error (e.g., "cub" likely a YouTube auto-caption artifact for an unstated middle component – possibly "Robertson Cobb Bishop" or similar).
+- **Name uncertainty:** "Squortis" / "Scordies" / "Skordas" – same entity.
+- **Name uncertainty:** "Brderick Lyman" – preserved as transcribed; canonical spelling of witness name uncertain.
 - **Name uncertainty:** "Emma(nuel)" witness and "Gauer" witness referenced in passing; no artifact anchor established.
-- **Transcript ambiguity:** "The FBI and the ADL had a partnership sharing intel. They were training Asians" — likely "agents" rather than "Asians"; flagged as possible transcription error.
-- **Claim failed admission test (host-only assertions, not inscribed):** Several substantive host claims — including that ADL was founded by B'nai B'rith to defend Leo Frank, that Sigmund Freud was a member of B'nai B'rith, that the Leo Frank case ended in conviction in 1913, that ADL labeled Charlie Kirk and TPUSA as extremist, that Olivia Bishop is an Orem Police Department records specialist, that Emmanuel works at Domo Incorporated, that Gauer is an Austrian software engineer, that Scott Robbins ran for Utah governor in 2024, that Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website, that Tiffany Barker is Phil Lyman's running mate and spoke to Good Morning America, that Robbie Hild has connections to the Cayman Islands and Spain, that Marjorie Taylor Greene has been "very loud" against Epstein-files non-disclosure, that Israel is committing an "international crime" before host's eyes — are not artifact-anchored within this episode and have been excluded from the Claim Register.
+- **Transcript ambiguity:** "The FBI and the ADL had a partnership sharing intel. They were training Asians" – likely "agents" rather than "Asians"; flagged as possible transcription error.
+- **Claim failed admission test (host-only assertions, not inscribed):** Several substantive host claims – including that ADL was founded by B'nai B'rith to defend Leo Frank, that Sigmund Freud was a member of B'nai B'rith, that the Leo Frank case ended in conviction in 1913, that ADL labeled Charlie Kirk and TPUSA as extremist, that Olivia Bishop is an Orem Police Department records specialist, that Emmanuel works at Domo Incorporated, that Gauer is an Austrian software engineer, that Scott Robbins ran for Utah governor in 2024, that Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website, that Tiffany Barker is Phil Lyman's running mate and spoke to Good Morning America, that Robbie Hild has connections to the Cayman Islands and Spain, that Marjorie Taylor Greene has been "very loud" against Epstein-files non-disclosure, that Israel is committing an "international crime" before host's eyes – are not artifact-anchored within this episode and have been excluded from the Claim Register.
 - **Existing-node reuse uncertainty:** Phil Lyman, Tyler Robinson, Tiffany Barker, Robbie Hild, and several others likely appear as nodes in prior episodes; this analysis assigns new IDs only where clearly first-introduced and references known prior IDs (N-1, N-3, N-6) where confident. Cross-episode reconciliation may be required.
 - **Host interpretive framing (not inscribed):** Host's characterizations of the ADL response as "BS" / "slave slop" and of the Patel announcement as "performative" / "acting" were excluded as failing the rhetoric-removal test.
 

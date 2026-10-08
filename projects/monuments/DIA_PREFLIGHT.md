@@ -53,6 +53,17 @@ python3 projects/monuments/bride_of_charlie/scripts/dia_preflight.py
 | `duplicate_claim_header` | P1 | Same C-id header more than once, including residue headers like `**C-1 / C-2**` |
 | `tombstone_collision` | P1 | Active canonical id listed in another node's `retired_ids` |
 | `name_annotation_mismatch` | P1 | Inline `N-x (Name)` annotation whose Name is not node x (canonical name or alias, else any register row); descriptive labels such as `(verbal reference)` are ignored. For a person node a multi-word label must share the surname (last word) with a name or alias, so a shared first name alone fails. A one-word alias or name variant of a person never satisfies a multi-word label unless that word is the label's surname (last word) |
+| `quote_dash_fidelity` | P1 | Only with `dash_rule.quote_dash_fidelity` (CKA): a **Transcript Snippet** or **Quote** field (draft, or `transcript_snippet` / `quote` in `inscription/`) whose dashes differ from the transcript. Each ellipsis-separated segment is located in the transcript by its words and the dash tokens between them must be identical (em dash, en dash, figure dash, horizontal bar, spaced hyphen). Markdown list bullets in the transcript chapter list are layout, not dashes, so a pasted chapter list (for example `about me. - Tucker ...`) fails |
+
+## Dash rule (Daveed, 8 Oct 2026)
+
+- In prose, an em dash (U+2014) becomes an en dash (U+2013). This covers every field agents write, claim titles and claim bodies included (punctuation-only, no `Revises:` claim).
+- Never rewrite a dash as a comma, period, colon, semicolon, parentheses or a spaced hyphen ( - ).
+- Quote fields (**Transcript Snippet**, **Quote**, meme quotes, quoted spans and verbatim transcript lines) stay exact to the transcript, em dashes included.
+- Draft checklists say `En dashes in prose, no em dashes outside quotes`, not `No em dashes`.
+- Soft gate: `prose_em_dash` (P2, only with `dash_rule.prose_em_dash`) flags an em dash in a draft line, an `inscription/`, `canonical/` or `config/` JSON string outside a quote field or a quoted span.
+- Hard gate: `quote_dash_fidelity` (P1, table above).
+- The BRC-222 companion builder no longer flattens dashes: labels and evidence snippets are emitted exactly as stored; builder-written prose uses en dashes.
 
 Hostile gate (`scripts/hostile_hard_gates.py --monument cka`, eps 1-10 via `cka/scripts/hostile_hard_gates_audit.py`): `NODE_NOT_IN_LEDGER` now also flags any N-id cited on a claim **Mentions** or **Related Nodes** line that is not on that episode's ledger (New, Reused, `Existing Nodes Reused`, Hole-minted or Tip-minted line). The console JSON prints the `accepted` codes taken from `config/hostile_accepted.json` next to the counts.
 
@@ -63,19 +74,19 @@ Grounding, transcript SHA, and name web-search remain in `scripts/verify_drafts.
 ## Compressed review loop (Daveed lock)
 
 1. **No CLEAR / no merge-ask** unless `dia_preflight` exits **0** on the **exact tip SHA** under review (`--tip <sha>`).
-2. **One fix-all PR per cycle** — hard P0/P1 fixes and soft P2 hygiene in the same PR; no separate “cleanup-only” PR that forces a second hostile pass.
-3. **Hostile once on the pack tip only** — do not CLEAR tip A and ship tip B in one review window.
-4. **Remap contract** — any N-id change in one PR must include: draft `Related Nodes`, register `*Related*`, `config/retired_node_ids.json`, regenerated `inscription/`, and `canonical/nodes.json`. Preflight `remap_sync` enforces draft ↔ canonical ↔ inscription names.
+2. **One fix-all PR per cycle** – hard P0/P1 fixes and soft P2 hygiene in the same PR; no separate “cleanup-only” PR that forces a second hostile pass.
+3. **Hostile once on the pack tip only** – do not CLEAR tip A and ship tip B in one review window.
+4. **Remap contract** – any N-id change in one PR must include: draft `Related Nodes`, register `*Related*`, `config/retired_node_ids.json`, regenerated `inscription/`, and `canonical/nodes.json`. Preflight `remap_sync` enforces draft ↔ canonical ↔ inscription names.
 
 ## Neo4j promote (staging → prod)
 
-- Staging: port **27687** — team promote after preflight + ingest validation.
-- Prod: port **17687** — **query-only** for Bill D / Transit; no `--force` ingest on prod from agents.
+- Staging: port **27687** – team promote after preflight + ingest validation.
+- Prod: port **17687** – **query-only** for Bill D / Transit; no `--force` ingest on prod from agents.
 - After promote, run read-only asserts: `projects/monuments/scripts/neo4j_post_promote_assert.cypher` (adjust `$PersonBandMax` if ledger grows).
 
 ## CI
 
-No monument workflow in-repo yet — **manual gate** before CLEAR. Wire `dia_preflight.py --monument <slug>` into Actions when a monument PR workflow exists.
+No monument workflow in-repo yet – **manual gate** before CLEAR. Wire `dia_preflight.py --monument <slug>` into Actions when a monument PR workflow exists.
 
 ## Current `main` (`bride_of_charlie`)
 

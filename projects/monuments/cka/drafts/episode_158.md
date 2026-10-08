@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions—contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
+This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
 
 ---
 
@@ -515,7 +515,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 Claim Timestamp: 00:01:33
 
-Claim: Host asserts Clara Molot’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
+Claim: Host asserts Clara Molot’s Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
 
 Anchored Artifacts: A-2459.1, A-2459.2
 Mentions: N-41, N-224, N-2
@@ -545,7 +545,7 @@ Investigative Direction: Extract all on-record political Q&A from the profile; c
 
 Claim Timestamp: 00:10:44
 
-Claim: When pressed on Israel/Netanyahu, Erika said she does not sit around thinking about what BB is doing and lacks bandwidth beyond honoring Charlie, kids, and building TPUSA—host argues a political CEO requires an opinion.
+Claim: When pressed on Israel/Netanyahu, Erika said she does not sit around thinking about what BB is doing and lacks bandwidth beyond honoring Charlie, kids, and building TPUSA–host argues a political CEO requires an opinion.
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-65
@@ -650,7 +650,7 @@ Investigative Direction: Archive primary smear posts/headlines; separate real 20
 
 Claim Timestamp: 00:47:45
 
-Claim: Host claims Wayback/first-archive of the college project is July 9, 2025—the Netanyahu-in-Washington window—and the next day is the July 10 HQ-driven UVU courtyard request; later August archives feed the smear package.
+Claim: Host claims Wayback/first-archive of the college project is July 9, 2025–the Netanyahu-in-Washington window–and the next day is the July 10 HQ-driven UVU courtyard request; later August archives feed the smear package.
 
 Anchored Artifacts: A-2465.1
 Mentions: N-65

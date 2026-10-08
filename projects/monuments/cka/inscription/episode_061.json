@@ -13,7 +13,7 @@
     "transcript_sha256": "736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode centers on a cease-and-desist letter sent to Candace Owens by Turning Point USA, dated approximately January 19–20, 2026, which she reads aloud on air. The letter asserts that Owens remains bound by a 12-month non-disparagement clause following termination of her speaking agreement on December 2, 2025, and demands she cease stating or implying TPUSA or its personnel played any part in, knew about, or covered up the Kirk assassination. The letter also cites her allegations of \"financial impropriety,\" claims that TPUSA Faith was \"infiltrated by military operatives,\" and a request to retract \"disparaging\" statements. Owens frames the letter as confirmation of a money motive, citing a prior on-air remark by Tim Dylan read into the record.\n\nTwo non-TPUSA pop-culture segments introduce additional evidentiary bundles: Brooklyn Beckham's Instagram Stories (read aloud) blasting his family over Nicola Peltz's wedding dress and brand-rights dispute, paired with excerpts from a Vogue wedding article read aloud to contest Beckham's \"hijacked first dance\" claim; and Taylor Swift's December 2024 text messages to Blake Lively concerning Justin Baldoni, read aloud in the context of the Lively–Baldoni litigation. A brief Aspen donor-recall update is also presented.\n\nThe episode advances the Kirk investigation primarily through the TPUSA letter artifact, which constitutes a documentary position by TPUSA legal counsel that materially conflicts with Owens's stated obligations under the contract. Structural importance: high — this is the first on-air production of the TPUSA legal correspondence and creates a formal record of TPUSA's stated scope of prohibited speech.\n\n---",
+  "executive_summary": "This episode centers on a cease-and-desist letter sent to Candace Owens by Turning Point USA, dated approximately January 19–20, 2026, which she reads aloud on air. The letter asserts that Owens remains bound by a 12-month non-disparagement clause following termination of her speaking agreement on December 2, 2025, and demands she cease stating or implying TPUSA or its personnel played any part in, knew about, or covered up the Kirk assassination. The letter also cites her allegations of \"financial impropriety,\" claims that TPUSA Faith was \"infiltrated by military operatives,\" and a request to retract \"disparaging\" statements. Owens frames the letter as confirmation of a money motive, citing a prior on-air remark by Tim Dylan read into the record.\n\nTwo non-TPUSA pop-culture segments introduce additional evidentiary bundles: Brooklyn Beckham's Instagram Stories (read aloud) blasting his family over Nicola Peltz's wedding dress and brand-rights dispute, paired with excerpts from a Vogue wedding article read aloud to contest Beckham's \"hijacked first dance\" claim; and Taylor Swift's December 2024 text messages to Blake Lively concerning Justin Baldoni, read aloud in the context of the Lively–Baldoni litigation. A brief Aspen donor-recall update is also presented.\n\nThe episode advances the Kirk investigation primarily through the TPUSA letter artifact, which constitutes a documentary position by TPUSA legal counsel that materially conflicts with Owens's stated obligations under the contract. Structural importance: high – this is the first on-air production of the TPUSA legal correspondence and creates a formal record of TPUSA's stated scope of prohibited speech.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -477,7 +477,7 @@
       "ref": "N-42",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain — transcript shows \"Kovat,\" \"Kovette,\" and \"Kovat\" variants.",
+      "description": "Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain – transcript shows \"Kovat,\" \"Kovette,\" and \"Kovat\" variants.",
       "related_artifacts": [
         "A-1661.1"
       ],
@@ -642,7 +642,7 @@
       "ref": "N-1507",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
-      "description": "Allegation cited in the TPUSA letter — that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.",
+      "description": "Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.",
       "related_artifacts": [
         "A-1661.1"
       ],
@@ -897,7 +897,7 @@
       "@id": "C-2166",
       "ref": "C-2166",
       "label": "Tim Dylan assessed TPUSA as primarily motivated by money",
-      "claim": "Tim Dylan stated on-air that TPUSA is primarily motivated by money — specifically, that they are \"mad\" because Owens told her audience not to give TPUSA money.",
+      "claim": "Tim Dylan stated on-air that TPUSA is primarily motivated by money – specifically, that they are \"mad\" because Owens told her audience not to give TPUSA money.",
       "anchored_artifacts": [
         "A-1662.1"
       ],

@@ -20,7 +20,7 @@
 
 ## 2. Executive Summary
 
-Episode 94 centers on an audio recording of Tyler Robinson's grandfather — the original owner of the rifle linked to the Charlie Kirk case — speaking with reporter Elizabeth Lane during a break at Tyler Robinson's continuance hearing. The grandfather is heard supporting his grandson and asserting that a .30-06 round would not produce the kind of damage reported. This directly contradicts the prior public framing that the Robinson family supports the prosecution.
+Episode 94 centers on an audio recording of Tyler Robinson's grandfather – the original owner of the rifle linked to the Charlie Kirk case – speaking with reporter Elizabeth Lane during a break at Tyler Robinson's continuance hearing. The grandfather is heard supporting his grandson and asserting that a .30-06 round would not produce the kind of damage reported. This directly contradicts the prior public framing that the Robinson family supports the prosecution.
 
 The episode then pivots to evidentiary disputes aired at the continuance hearing. Defense attorneys Richard Novak and Kathy Nester are quoted stating that the defense has not received data files from ATF/FBI forensic testing, has not had access to Tyler Robinson's phone, and has never physically examined the firearm (reportedly held at Quantico). The host characterizes the prosecution's posture as a push for a "show trial."
 
@@ -206,7 +206,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ---
 
-**A-2003** Insurance / Court Payment Record — Tracy Robinson
+**A-2003** Insurance / Court Payment Record – Tracy Robinson
 
 **A-2003.1** Insurance payment record showing $6,987 paid to Tracy Robinson
 
@@ -334,7 +334,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:23–00:18:39
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: Low — Artifact verbally referenced but not shown
+Confidence Level: Low – Artifact verbally referenced but not shown
 
 *Related: C-2789, N-1701*
 
@@ -477,7 +477,7 @@ Investigative Pressure: High
 Host speculation that multiple Tyler Robinson look-alikes were present; footages remain grainy.
 
 Evidence Count: 0 (host speculation, no artifact)
-Claim Count: 0 (failed admission test — framing premise)
+Claim Count: 0 (failed admission test – framing premise)
 Episode Count: 1
 Investigative Pressure: Low
 
@@ -503,7 +503,7 @@ Investigative Pressure: Low
 Host reference to alleged absence of CCTV footage from days leading up to September 10.
 
 Evidence Count: 0 (host reports rumor, no artifact)
-Claim Count: 0 (failed admission test — unverified rumor)
+Claim Count: 0 (failed admission test – unverified rumor)
 Episode Count: 1
 Investigative Pressure: Low
 

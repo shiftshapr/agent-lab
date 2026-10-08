@@ -47,7 +47,7 @@ This episode centers on the Kirk family's notice of claim against the State of U
 
 **A-2384** Notice of Claim Bundle
 
-**A-2384.1** Notice of Claim — Kirk Family v. State of Utah, UVU Police Department, Chief Jeffrey Long, Astrid Tuminez, and Presently Unknown Others
+**A-2384.1** Notice of Claim – Kirk Family v. State of Utah, UVU Police Department, Chief Jeffrey Long, Astrid Tuminez, and Presently Unknown Others
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -62,7 +62,7 @@ Confidence Level: High (filing read on air)
 
 **A-2385** UVU Independent Review Article Bundle
 
-**A-2385.1** Associated Press article — "Utah Valley University is launching an independent external review of the fatal shooting of prominent conservative activist Charlie Kirk on its campus earlier this month."
+**A-2385.1** Associated Press article – "Utah Valley University is launching an independent external review of the fatal shooting of prominent conservative activist Charlie Kirk on its campus earlier this month."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -77,7 +77,7 @@ Confidence Level: High (article read on air)
 
 **A-2386** Brian Harpole / Shawn Ryan Interview Clip Bundle
 
-**A-2386.1** Clip — Brian Harpole reading security team credentials on the Shawn Ryan show (Blake, combat-proven Marine; SEALs; world-renowned jiu-jitsu people; 22 years SWAT; 30-year cop and SWAT commander; 20-year Marine; professional athletes with tactical careers)
+**A-2386.1** Clip – Brian Harpole reading security team credentials on the Shawn Ryan show (Blake, combat-proven Marine; SEALs; world-renowned jiu-jitsu people; 22 years SWAT; 30-year cop and SWAT commander; 20-year Marine; professional athletes with tactical careers)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -121,7 +121,7 @@ Confidence Level: High (image displayed)
 
 **A-2389** Tyler Robinson 2022 Bodycam Bundle
 
-**A-2389.1** Bodycam footage dated May 31, 2022 — Tyler Robinson traffic-stop interaction, St. George Police Department
+**A-2389.1** Bodycam footage dated May 31, 2022 – Tyler Robinson traffic-stop interaction, St. George Police Department
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -132,7 +132,7 @@ Confidence Level: High (clip played on air)
 
 *Related: C-3478, C-3479, C-3480, C-3483, C-3484, N-? (Tyler Robinson), N-2324, N-2327*
 
-**A-2389.2** Scripps News headline — "Scriptscripts News obtains video of accused Charlie Kirk shooter after the 2022 car crash"
+**A-2389.2** Scripps News headline – "Scriptscripts News obtains video of accused Charlie Kirk shooter after the 2022 car crash"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -146,7 +146,7 @@ Confidence Level: High (headline shown)
 
 **A-2390** NY Post / Sky News Tyler Robinson Hat & Sunglasses Bundle
 
-**A-2390.1** Sky News / NY Post article — Tyler Robinson described as wearing "an eerily similar hat and sunglasses" as in the 2022 footage
+**A-2390.1** Sky News / NY Post article – Tyler Robinson described as wearing "an eerily similar hat and sunglasses" as in the 2022 footage
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -160,7 +160,7 @@ Confidence Level: High (read on air)
 
 **A-2391** Jim Spencer / Scripps News Bio Bundle
 
-**A-2391.1** Bio information — Jim Spencer, founder of Scripps News (formerly Newsy, founded 2022), teaches digital media and journalism at UT Austin since 2018
+**A-2391.1** Bio information – Jim Spencer, founder of Scripps News (formerly Newsy, founded 2022), teaches digital media and journalism at UT Austin since 2018
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -174,7 +174,7 @@ Confidence Level: High (bio info read on air)
 
 **A-2392** Nell DeBuckman / Buckman Center Bundle
 
-**A-2392.1** Information regarding Nell DeBuckman's 2022 donation of a 2,300 sq ft building — Buckman Center — to UT Austin for mixed media and artists
+**A-2392.1** Information regarding Nell DeBuckman's 2022 donation of a 2,300 sq ft building – Buckman Center – to UT Austin for mixed media and artists
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -443,7 +443,7 @@ Investigative Direction: Confirm Scripps News publication date and Tyler Robinso
 **C-3479** Bodycam Footage Dated May 31, 2022
 
 Claim Timestamp: 00:43:44
-Claim: The bodycam footage of Tyler Robinson is dated May 31, 2022 — approximately three and a half years prior to release.
+Claim: The bodycam footage of Tyler Robinson is dated May 31, 2022 – approximately three and a half years prior to release.
 Anchored Artifacts: A-2389.1
 Mentions: N-69
 Related Nodes: N-2324, N-2327
@@ -526,7 +526,7 @@ Investigative Direction: Verify against UVU PD staffing rosters and Utah public-
 **C-3487** Event Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025
 
 Claim Timestamp: 00:16:22
-Claim: On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" — clearly a transcription error for 2025.
+Claim: On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" – clearly a transcription error for 2025.
 Anchored Artifacts: A-2384.1
 Mentions: N-1, N-30
 Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA event-planning emails.
@@ -598,14 +598,14 @@ Investigative Direction: Track subsequent civil complaint filings with the Utah 
 
 ## VI. Optional Flags
 
-- **Name uncertainty — Astrid Tuminez:** Transcript displays "Astra Timunes," "Astred Tum Tuminez," "Astred Tumz," "Astrid Tuminez," and "Astred Humanez" for the same person. Preserve spelling as appears in each artifact.
-- **Name uncertainty — Richard Bracie / Bracley:** Transcript spells as both "Bracie" and "Bracley." Preserve spelling as appears.
-- **Name uncertainty — Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
-- **Name uncertainty — Scripps News:** Transcript uses "Scripts Media," "Scriptscripts News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
-- **Transcription error — "August 25th, 20125":** Clear error for 2025.
-- **Name uncertainty (Nell DeBuckman):** Possibly existing node; verification recommended. Not created as new former local id 1208 since this name may already exist in N-1 to N-339 range.
-- **Artifact verbally referenced but not shown — Nell DeBuckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
-- **Possible transcription error — 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
+- **Name uncertainty – Astrid Tuminez:** Transcript displays "Astra Timunes," "Astred Tum Tuminez," "Astred Tumz," "Astrid Tuminez," and "Astred Humanez" for the same person. Preserve spelling as appears in each artifact.
+- **Name uncertainty – Richard Bracie / Bracley:** Transcript spells as both "Bracie" and "Bracley." Preserve spelling as appears.
+- **Name uncertainty – Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
+- **Name uncertainty – Scripps News:** Transcript uses "Scripts Media," "Scriptscripts News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
+- **Transcription error – "August 25th, 20125":** Clear error for 2025.
+- **Name uncertainty – Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new former local id 1208 since this name may already exist in N-1 to N-339 range.
+- **Artifact verbally referenced but not shown – Nell DeBuckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
+- **Possible transcription error – 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.
 - **Claim C-3485 / C-3486 (UVU student count and officer count):** Host presented these as factual but the artifacts do not directly anchor the specific numbers; included as claims with weaker artifact anchoring (A-2384.1 referenced indirectly).
 

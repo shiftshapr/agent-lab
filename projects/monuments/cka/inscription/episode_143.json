@@ -232,7 +232,7 @@
           "@type": "Artifact",
           "@id": "A-2300.1",
           "ref": "A-2300.1",
-          "description": "Host-produced on-screen diagram labeling camera positions at the event — \"red camera behind his head\" and a \"yellow\" camera that fell — referenced as having been previously shown and re-displayed in this episode.",
+          "description": "Host-produced on-screen diagram labeling camera positions at the event – \"red camera behind his head\" and a \"yellow\" camera that fell – referenced as having been previously shown and re-displayed in this episode.",
           "related_claims": [
             "C-3304",
             "C-3305"
@@ -508,7 +508,7 @@
       "@id": "C-3304",
       "ref": "C-3304",
       "label": "Terrell/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
-      "claim": "The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera — which had fallen to the floor — rather than retrieving its SD card.",
+      "claim": "The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.",
       "anchored_artifacts": [
         "A-2295.2",
         "A-2295.3",
@@ -550,7 +550,7 @@
       "@id": "C-3306",
       "ref": "C-3306",
       "label": "Trump Publicly Identified Mike Mitchell as the Person Who Recognized Tyler Robinson From the Stairwell Photo",
-      "claim": "In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that \"somebody that's close\" — described as a person involved in law enforcement and a minister — recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.",
+      "claim": "In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that \"somebody that's close\" – described as a person involved in law enforcement and a minister – recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.",
       "anchored_artifacts": [
         "A-2296.1"
       ],
@@ -587,7 +587,7 @@
       "@id": "C-3308",
       "ref": "C-3308",
       "label": "Blake Neff Publicly Asserted the Robinson Defense Does Not Contest Core Evidence",
-      "claim": "Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is \"very conspicuously not contesting any of the core evidence\" — specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data — and that the defense's only substantive challenge is to reliable hearsay.",
+      "claim": "Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is \"very conspicuously not contesting any of the core evidence\" – specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data – and that the defense's only substantive challenge is to reliable hearsay.",
       "anchored_artifacts": [
         "A-2294.1"
       ],
@@ -661,7 +661,7 @@
       "@id": "C-3312",
       "ref": "C-3312",
       "label": "Host's Government Source Places All SD Card and Laptop Activity Within ~10 Minutes of Charlie Kirk Being Struck",
-      "claim": "The host states, citing a government source she trusts, that the entire sequence — Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion — occurred within approximately ten minutes of Charlie Kirk being shot.",
+      "claim": "The host states, citing a government source she trusts, that the entire sequence – Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.",
       "anchored_artifacts": [
         "A-2295.1"
       ],

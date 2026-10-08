@@ -581,7 +581,7 @@ Related Nodes: N-1624
 
 Investigative Direction: Verify via message logs, witness statements, or platform records.
 
-*[Flag: Claim failed admission test — no artifact anchor in this episode]*
+*[Flag: Claim failed admission test – no artifact anchor in this episode]*
 
 ---
 

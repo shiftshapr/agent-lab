@@ -22,7 +22,7 @@
 
 This episode is structured as a "return to the beginning" review of previously aired investigative claims, prompted by the host's stated intent to consolidate evidence prior to maternity leave. Three evidentiary anchors carry the bulk of the investigative content: (1) a corrected/restored wider-format tent footage clip from the day of the incident, (2) a vehicle-exhaust analysis comparing Fox News's still image of Tyler Robinson's towed 2013 Dodge Challenger against multiple-floor footage of a quad-exhaust Challenger seen entering the parking garage on September 10, and (3) a read-aloud search-warrant excerpt attributing a Google Maps route (from Mountain Shadows Shopping Center to Quick Quack Car Wash) to Tyler Robinson's cell phone. The host also revisits the Dairy Queen surveillance-photo timestamp (6:38 PM) and explicitly proposes for the record that the timestamp may have been UTC, which would place the sighting at 12:38 PM. The host reopens the Quick Quack Car Wash question, noting that the car-wash footage was seized but never publicly released. A separate segment features the host playing clip(s) of Netanyahu addressing the UN, including the walkout and a clip of him holding a pager; and a short AI parody video by AtwareForbidden about Blake Neff's interview. The episode closes with a viewer-comment block, including a comment from "Face" questioning whether the license-plate match process described in Officer Go Forth's testimony was a partial-plate match.
 
-The episode's structural importance is that it consolidates previously aired evidentiary items into the host's claim that **two different Dodge Challengers** exist in the case file — the host asserts that Tyler Robinson's vehicle is not the same vehicle shown entering the parking garage. It also formalizes (in host commentary) the Quick Quack Car Wash stop as an open investigative item to revisit.
+The episode's structural importance is that it consolidates previously aired evidentiary items into the host's claim that **two different Dodge Challengers** exist in the case file – the host asserts that Tyler Robinson's vehicle is not the same vehicle shown entering the parking garage. It also formalizes (in host commentary) the Quick Quack Car Wash stop as an open investigative item to revisit.
 
 ---
 
@@ -223,7 +223,7 @@ Investigative Pressure: High
 
 **N-2342** Quick Quack Car Wash Footage Release Question
 
-Question of why the Quick Quack Car Wash surveillance footage — seized by law enforcement — was never publicly released, including questions of what the footage actually depicts.
+Question of why the Quick Quack Car Wash surveillance footage – seized by law enforcement – was never publicly released, including questions of what the footage actually depicts.
 
 Evidence Count: 2
 Claim Count: 2
@@ -355,7 +355,7 @@ Investigative Direction: File FOIA/public-records requests for the Quick Quack C
 
 Claim Timestamp: 00:18:05
 
-Claim: A search warrant for Tyler Robinson's cell phone describes a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC) — approximately 23 minutes after the shooting.
+Claim: A search warrant for Tyler Robinson's cell phone describes a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC) – approximately 23 minutes after the shooting.
 
 Anchored Artifacts: A-2421.1
 Mentions: N-69
@@ -398,7 +398,7 @@ Investigative Direction: Cross-reference UN press records, AP/Reuters coverage, 
 
 Claim Timestamp: 00:04:47
 
-Claim: A person seen in the post-Big-Bang footage chanting "USA, USA" — and later returning to take a hat — is the same person who subsequently spoke to news media.
+Claim: A person seen in the post-Big-Bang footage chanting "USA, USA" – and later returning to take a hat – is the same person who subsequently spoke to news media.
 
 Anchored Artifacts: A-2417.1, A-2417.2
 

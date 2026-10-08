@@ -311,7 +311,7 @@ Investigative Direction: Identify the email author (host has protected identity)
 
 Claim Timestamp: 00:15:19–00:16:23
 
-Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items — a backpack, jacket, and gloves — at the Fulton Library bus stop, which was determined to be on the shooter's route.
+Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items – a backpack, jacket, and gloves – at the Fulton Library bus stop, which was determined to be on the shooter's route.
 
 Anchored Artifacts: A-2148.1
 
@@ -410,7 +410,7 @@ Investigative Direction: Obtain call-detail records (timestamps, duration, devic
 
 Claim Timestamp: 00:35:42–00:38:14
 
-Claim: Frank Turek gave two differing on-record accounts of where the FaceTime call ended — first stating "hotel," then correcting to "hospital" — during the same played interview segment, with the host flagging the inconsistency on air.
+Claim: Frank Turek gave two differing on-record accounts of where the FaceTime call ended – first stating "hotel," then correcting to "hospital" – during the same played interview segment, with the host flagging the inconsistency on air.
 
 Anchored Artifacts: A-2150.1
 Mentions: N-16
@@ -464,7 +464,7 @@ Related Nodes: N-2127
 
 Investigative Direction: Obtain independent corroboration from hospital intake records, EMS radio traffic, and any 911-call recordings reflecting pre-arrival coordination.
 
-*Failed Admission Test flag: Artifact-Anchor Test is partial — host describes the source's statement but no recorded/displayed artifact (email, recording, screenshot) of the source's words is presented in this episode.*
+*Failed Admission Test flag: Artifact-Anchor Test is partial – host describes the source's statement but no recorded/displayed artifact (email, recording, screenshot) of the source's words is presented in this episode.*
 
 ---
 
@@ -481,7 +481,7 @@ Related Nodes: N-2128
 
 Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records for Sept. 10, 2025 between 12:23 and 12:30 p.m.
 
-*Failed Admission Test flag: Artifact-Anchor Test is partial — host references Harpole's prior statements but the specific clip is not replayed in this episode.*
+*Failed Admission Test flag: Artifact-Anchor Test is partial – host references Harpole's prior statements but the specific clip is not replayed in this episode.*
 
 ---
 

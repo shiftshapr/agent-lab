@@ -212,7 +212,7 @@ Investigative Pressure: Medium
 
 **N-2098** Pending FOIA Requests
 
-Investigative target: cluster of FOIA requests filed by host's team — NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries), FBI (Kash Patel schedule), FBI plane flight logs, Bradley Hansell travel schedule September 7-10.
+Investigative target: cluster of FOIA requests filed by host's team – NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries), FBI (Kash Patel schedule), FBI plane flight logs, Bradley Hansell travel schedule September 7-10.
 
 Evidence Count: 0
 Claim Count: 1
@@ -436,7 +436,7 @@ Anchored Artifacts: None displayed in this episode (host assertion referencing p
 Mentions: N-2
 Related Nodes: N-2096
 Investigative Direction: Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.
-*Flag: Claim failed admission test on artifact anchor — host assertion only; underlying lawsuit referenced but not displayed.*
+*Flag: Claim failed admission test on artifact anchor – host assertion only; underlying lawsuit referenced but not displayed.*
 
 ---
 
@@ -450,7 +450,7 @@ Anchored Artifacts: None displayed
 Mentions: N-102
 Related Nodes: N-2098
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
-*Flag: Claim failed admission test on artifact anchor — host assertion only.*
+*Flag: Claim failed admission test on artifact anchor – host assertion only.*
 
 ---
 
@@ -464,7 +464,7 @@ Anchored Artifacts: None displayed (referenced footage from prior episode)
 Mentions: N-84
 Related Nodes: N-2100
 Investigative Direction: Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses.
-*Flag: Claim failed admission test on artifact anchor — host assertion referencing footage from prior episode.*
+*Flag: Claim failed admission test on artifact anchor – host assertion referencing footage from prior episode.*
 
 ---
 
@@ -478,7 +478,7 @@ Anchored Artifacts: None displayed in this episode
 Mentions: N-69, N-1, N-84
 Related Nodes: N-2101
 Investigative Direction: Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint.
-*Flag: Claim failed admission test on artifact anchor — host belief/interpretation.*
+*Flag: Claim failed admission test on artifact anchor – host belief/interpretation.*
 
 ---
 
@@ -492,19 +492,19 @@ Anchored Artifacts: None displayed
 Mentions: N-42, N-102
 Related Nodes: N-2099
 Investigative Direction: Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline.
-*Flag: Claim failed admission test on artifact anchor — host assertion only.*
+*Flag: Claim failed admission test on artifact anchor – host assertion only.*
 
 ---
 
 # VI. Optional Flags
 
-- **Artifact verbally referenced but not shown:** "Erika emotional asset email" — referenced as "that email we shared with you was real" from prior episode, not displayed in this episode.
-- **Artifact verbally referenced but not shown:** Class action lawsuit against Next Model Management / MC2 / Jean-Luc Brunel — referenced and host mentions intent to display, but document not shown in the transcribed segment.
+- **Artifact verbally referenced but not shown:** "Erika emotional asset email" – referenced as "that email we shared with you was real" from prior episode, not displayed in this episode.
+- **Artifact verbally referenced but not shown:** Class action lawsuit against Next Model Management / MC2 / Jean-Luc Brunel – referenced and host mentions intent to display, but document not shown in the transcribed segment.
 - **Possible transcription error:** "[ __ ]" placeholder appears in the transcript under the "Holly" comment block; final name redacted.
-- **Name uncertainty:** "James Rawlinson" vs "James Norman Rawlinson Jr." vs "David L. Rawlinson" — host uses inconsistent constructions; original birth name stated as "James Norman Rawlinson Jr."
-- **Name uncertainty:** "Andrew Kolbenschlag" vs "Andrew Kolvet" — both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Colvett's brother. Treat as the same person pending confirmation.
+- **Name uncertainty:** "James Rawlinson" vs "James Norman Rawlinson Jr." vs "David L. Rawlinson" – host uses inconsistent constructions; original birth name stated as "James Norman Rawlinson Jr."
+- **Name uncertainty:** "Andrew Kolbenschlag" vs "Andrew Kolvet" – both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Colvett's brother. Treat as the same person pending confirmation.
 - **Timestamp uncertainty:** Several artifact video timestamps estimated from chapter markers; precise frame times not confirmed.
-- **Claim failed admission test:** C-2981, C-2982, C-2983, C-2984, C-2985 — host assertions, beliefs, or interpretive claims without artifact anchors displayed in this episode.
+- **Claim failed admission test:** C-2981, C-2982, C-2983, C-2984, C-2985 – host assertions, beliefs, or interpretive claims without artifact anchors displayed in this episode.
 
 ---
 

@@ -61,7 +61,7 @@ def _load_yt_durations() -> dict[str, int]:
 
 
 def _range_end_seconds(raw: str) -> int | None:
-    raw = raw.strip().replace("—", "-").replace("–", "-")
+    raw = raw.strip().replace("\u2014", "-").replace("–", "-")
     m = re.search(r"00:00:00-(\d{2}):(\d{2}):(\d{2})", raw)
     if not m:
         m = re.search(r"-(\d{2}):(\d{2}):(\d{2})\s*$", raw)

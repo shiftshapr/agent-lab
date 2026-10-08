@@ -131,7 +131,7 @@
           "@type": "Artifact",
           "@id": "A-1775.1",
           "ref": "A-1775.1",
-          "description": "Segment: Erika describing the night before — 2:45 a.m. wake-up, snack, daughter's room swap, Charlie retrieving wedding ring and necklace from bathroom the next morning",
+          "description": "Segment: Erika describing the night before – 2:45 a.m. wake-up, snack, daughter's room swap, Charlie retrieving wedding ring and necklace from bathroom the next morning",
           "related_claims": [
             "C-2368"
           ],
@@ -489,7 +489,7 @@
       "ref": "N-1580",
       "name": "September 9, 2025 Night Activity Reconstruction Question",
       "type": "investigation_target",
-      "description": "Investigation target: reconciliation of competing accounts of what occurred the night before the assassination — specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.",
+      "description": "Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.",
       "related_artifacts": [
         "A-1775.1",
         "A-1775.2"
@@ -625,7 +625,7 @@
       "@id": "C-2365",
       "ref": "C-2365",
       "label": "Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview",
-      "claim": "The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office — the same space where it was visible on September 8, 2025.",
+      "claim": "The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.",
       "anchored_artifacts": [
         "A-1774.1",
         "A-1773.1"
@@ -813,7 +813,7 @@
       "@id": "C-2375",
       "ref": "C-2375",
       "label": "Trump was watching Bad Bunny halftime show at Mar-a-Lago during Super Bowl broadcast",
-      "claim": "A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background — not the TPUSA show.",
+      "claim": "A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background – not the TPUSA show.",
       "anchored_artifacts": [
         "A-1779.1"
       ],
