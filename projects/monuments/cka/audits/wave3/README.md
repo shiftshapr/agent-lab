@@ -36,7 +36,7 @@ Every fixes.csv row and finding is resolved in `fixes_resolution.csv`. Per-row t
 
 | File | Rows | MINT | ALIAS | KNOWN | FIXED | REJECT | DEFER |
 |------|------|------|-------|-------|-------|--------|-------|
-| missing_nodes_triage.csv | 531 | 55 | 11 | 31 | 0 | 208 | 226 |
+| missing_nodes_triage.csv | 531 | 55 | 11 | 32 | 0 | 208 | 225 |
 | missing_claims_triage.csv | 223 | 23 | 0 | 41 | 0 | 115 | 44 |
 | missing_artifacts_triage.csv | 85 | 3 | 0 | 32 | 0 | 18 | 32 |
 | missing_memelinks_triage.csv | 30 | 0 | 0 | 1 | 24 | 5 | 0 |
@@ -73,7 +73,7 @@ Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fix
   - C-3764 is now anchored by A-2127.2 (ep124 01:07:02).
   - "bounty" is added to `config/dia_scan_terms.json`. The corpus re-scan adds 9 `dia_bounty_rescan` rows to `dia_gaps_triage.csv`.
 - **Viewer handles.** 17 viewer/commenter handles moved DEFER → REJECT. Real persons waiting for band capacity: **95** (112 − 17). This push adds two new DEFERs, Matt Robinson (ep124) and Gary Jabitch (ep131), for **97** in total. General Holt is a same-person DEFER for Blaine Holt and is not counted as waiting.
-- **Triage reasons.** 14 false REJECTs → KNOWN (incl. Gernot N-184, Pastor Hibbs/Hibs N-309, Danny Danny N-611, Theo Vaughn N-205). Project Looking Glass → KNOWN N-1484. 129 org/work DEFERs relabelled kind organization/topic. Placeholder-timestamp KNOWNs re-checked:
+- **Triage reasons.** 14 false REJECTs → KNOWN (incl. Gernot N-184, Pastor Hibbs/Hibs N-309, Danny Danny N-611, Theo Vaughn N-205). Project Looking Glass and its short form "Looking Glass" → KNOWN N-1484. The remaining org/work DEFERs are relabelled kind organization (98) / topic (29). Placeholder-timestamp KNOWNs re-checked:
   - ep80 rows → REJECT and KNOWN C-2507;
   - ep94 → KNOWN C-2773;
   - A-2121.1 timestamp set to 00:14:07.
