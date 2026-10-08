@@ -15,8 +15,8 @@
 - **Transcript SHA-256**: 67ab3083b0404df7c9507cf5fc4bd6362c3ea15854f1bf7fc1d747721c83de9f
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170
-  - Claim Range: C-1286-C-1296
+  - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170, A-2520
+  - Claim Range: C-1286-C-1296, C-3743-C-3746
   - New Nodes Introduced: N-43, N-165, N-166, N-167, N-168, N-169, N-170, N-171, N-172, N-173, N-174, N-175, N-1195, N-1196, N-1197, N-1198, N-1199, N-1200, N-1201, N-1202, N-1203, N-1204, N-1205, N-1206
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-65, N-66, N-67, N-69, N-73, N-75, N-5, N-70, N-86, N-91, N-1000, N-1092, N-1127, N-1190
 
@@ -165,6 +165,34 @@ Confidence: medium
 ---
 
 
+**A-2520** Host Verbal References Bundle
+
+**A-2520.1** Host statement naming Natasha Housedorf, Seth Dillon and Josh Hammer as Hamptons weekend attendees (verbal reference; no displayed artifact)
+Video Timestamp: 00:05:05–00:05:25
+*Related: C-3743, N-1, N-67, N-86, N-167, N-1000*
+Transcript Snippet: Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
+Confidence: medium
+
+**A-2520.2** Host identification of Marissa Strait in the PragerU video (verbal reference; no displayed artifact)
+Video Timestamp: 00:08:02–00:08:25
+*Related: C-3744, N-168*
+Transcript Snippet: I know Marissa Strait. This is I am looking at Marissa Strait right there.
+Confidence: medium
+
+**A-2520.3** Host shout out to Taylor Lorent (verbal reference; no displayed artifact)
+Video Timestamp: 00:39:29–00:39:42
+*Related: C-3745, N-3, N-171*
+Transcript Snippet: Actually, a shout out to Taylor Lorent.
+Confidence: medium
+
+**A-2520.4** Host comparison to Nikki Haley signing bombs, in reply to a viewer comment (verbal reference; no displayed artifact)
+Video Timestamp: 00:41:46–00:42:03
+*Related: C-3746, N-175*
+Transcript Snippet: Like Nikki Haley signing bombs.
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -275,7 +303,7 @@ Influencer who attended Hamptons weekend, released video addressing the event an
 Node Type: Person
 Named as attendee of Hamptons weekend retreat.
 
-*Related: A-1162.1, C-3632*
+*Related: A-2520.1, C-3743*
 
 
 
@@ -297,7 +325,7 @@ TPUSA spokesperson who has continued Charlie Kirk's show; host urges against tre
 Node Type: Person
 PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xavier Deruso for Hamptons response video.
 
-*Related: A-1162.1, C-3632*
+*Related: A-2520.2, C-3744*
 
 
 
@@ -370,7 +398,7 @@ Referenced in closing joke about reporting Candace to platform authorities.
 Node Type: Person
 Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.
 
-*Related: A-1162.1, C-3632*
+*Related: A-2520.3, C-3745*
 
 
 
@@ -419,7 +447,7 @@ Utah Governor Cox, referenced for declaring the investigation concluded and the 
 Node Type: Person
 Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.
 
-*Related: A-1162.1, C-3632*
+*Related: A-2520.4, C-3746*
 
 
 
@@ -595,7 +623,7 @@ Claim Timestamp: 00:25:55
 Claim: An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
-Mentions: N-1, N-2, N-42, N-43, N-67, N-75, N-86, N-91, N-167, N-168, N-169, N-171, N-174, N-175
+Mentions: N-1, N-2, N-43, N-169, N-174
 Related Nodes: N-1000, N-1196, N-1198
 Confidence: high
 Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.
@@ -764,6 +792,55 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+
+**C-3743** Host names Hamptons attendees Natasha Housedorf, Seth Dillon and Josh Hammer
+
+Claim Timestamp: 00:05:13
+Claim: Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Housedorf and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
+Transcript Snippet: Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
+Anchored Artifacts: A-2520.1
+Mentions: N-1, N-67, N-86, N-167
+Related Nodes: N-1000
+Confidence: medium
+Investigative Direction: Corroborate the attendee list and the exchange with other Hamptons weekend accounts.
+
+---
+
+**C-3744** Host identifies Marissa Strait in the PragerU video
+
+Claim Timestamp: 00:08:07
+Claim: The host, who previously worked for PragerU, says she knows Marissa Strait, identifies her in the PragerU video, and calls the video a PR operation that addresses the points without addressing them.
+Transcript Snippet: I know Marissa Strait. This is I am looking at Marissa Strait right there.
+Anchored Artifacts: A-2520.2
+Mentions: N-168
+Confidence: medium
+Investigative Direction: Confirm Marissa Strait's role in the PragerU video and her stated IDF intelligence background.
+
+---
+
+**C-3745** Host credits Taylor Lorent for noting her isolation
+
+Claim Timestamp: 00:39:29
+Claim: The host gives a shout out to Taylor Lorent (transcript also "Taylor Ren"), who she says asked on X why Candace seemed to be the only one speaking out.
+Transcript Snippet: Actually, a shout out to Taylor Lorent.
+Anchored Artifacts: A-2520.3
+Mentions: N-3, N-171
+Confidence: medium
+Investigative Direction: Locate the Taylor Lorent post on X.
+
+---
+
+**C-3746** Host likens signed bullets to Nikki Haley signing bombs
+
+Claim Timestamp: 00:41:58
+Claim: Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that were dropped and killed children.
+Transcript Snippet: Like Nikki Haley signing bombs.
+Anchored Artifacts: A-2520.4
+Mentions: N-175
+Confidence: medium
+Investigative Direction: None; rhetorical comparison.
+
+---
 
 ## 6. Meme Register
 

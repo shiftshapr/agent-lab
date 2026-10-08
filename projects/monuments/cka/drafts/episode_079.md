@@ -801,7 +801,7 @@ Claim Timestamp: 00:41:23–00:43:44
 Claim: Tucker Carlson stated in a video that "the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice on the basis of a supposed crime I committed... talking to people in Iran before the war... under... the Foreign Agent Act."
 
 Anchored Artifacts: A-1854.1
-Mentions: N-5, N-50
+Mentions: N-50
 
 Related Nodes: N-1613
 

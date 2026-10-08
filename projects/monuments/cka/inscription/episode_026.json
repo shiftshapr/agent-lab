@@ -251,7 +251,7 @@
             "N-272",
             "N-224",
             "N-45",
-            "N-1000",
+            "N-2",
             "N-1"
           ],
           "tags": [],
@@ -359,7 +359,7 @@
           ],
           "related_nodes": [
             "N-272",
-            "N-1000",
+            "N-2",
             "N-1"
           ],
           "tags": [],
@@ -530,7 +530,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-45",
-        "N-1000",
+        "N-2",
         "N-1295",
         "N-1296",
         "N-1297"
@@ -558,7 +558,7 @@
       "related_nodes": [
         "N-272",
         "N-45",
-        "N-1000"
+        "N-2"
       ]
     },
     {
@@ -787,7 +787,7 @@
         "N-272",
         "N-224",
         "N-45",
-        "N-1000"
+        "N-2"
       ]
     },
     {
@@ -810,7 +810,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-272",
-        "N-1000"
+        "N-2"
       ]
     },
     {
@@ -1051,9 +1051,7 @@
       "anchored_artifacts": [
         "A-1339.1"
       ],
-      "related_nodes": [
-        "N-1000"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:07–00:39:39",
       "investigative_direction": "Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.",
@@ -1061,7 +1059,8 @@
         "N-1",
         "N-45",
         "N-224",
-        "N-272"
+        "N-272",
+        "N-2"
       ]
     },
     {
@@ -1075,7 +1074,6 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-1000",
         "N-1296"
       ],
       "tags": [],
@@ -1084,7 +1082,8 @@
       "mentions_person_refs": [
         "N-45",
         "N-224",
-        "N-272"
+        "N-272",
+        "N-2"
       ]
     },
     {
@@ -1136,8 +1135,7 @@
       "claim_timestamp": "00:51:00–00:52:10",
       "investigative_direction": "N/A — host-stance claim linked to source artifact.",
       "mentions_person_refs": [
-        "N-86",
-        "N-340"
+        "N-86"
       ]
     },
     {
@@ -1168,15 +1166,14 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-1000",
         "N-1297"
       ],
       "tags": [],
       "claim_timestamp": "00:45:19–00:46:08",
       "investigative_direction": "Independently verify YouTube scheduling metadata for the relevant timeframe.",
       "mentions_person_refs": [
-        "N-1",
-        "N-272"
+        "N-272",
+        "N-2"
       ]
     },
     {

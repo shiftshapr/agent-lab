@@ -31,6 +31,7 @@
   - Claim Range: C-1695–C-1715
   - New Nodes Introduced: N-392, N-394, N-395, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-1319, N-1320, N-1321, N-1322, N-1323
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave1b): N-587
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -445,6 +446,19 @@ Investigative Pressure: Low (framing dispute; not asserted by host as fact)
 
 ---
 
+**N-587** Kim Kardashian
+
+Named in Courtney Love's January 2025 text messages, read on air, as connected to Lou Taylor.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1406.1, C-1706*
+
+---
+
 ### Investigation Targets
 
 **N-1319** Calvary Chapel Network Infiltration Question
@@ -679,7 +693,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a "church home" associated with Hillsong / Justin Bieber.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-392
+Mentions: N-392, N-587
 
 Related Nodes: N-1319
 

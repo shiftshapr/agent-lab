@@ -2174,19 +2174,19 @@
       "reason": "Wave 1: ep67 topic-band person row collapsed onto person N-2. ep75 used N-1010 locally for Tim Dillon; those cites retargeted to N-443."
     },
     "legacy-N-1015": {
-      "survives_as": "N-531",
+      "survives_as": "N-536",
       "canonical_name": "Tim Ballard",
-      "reason": "Wave 1: person minted in the topic band (N-1015); moved to person hole N-531."
+      "reason": "Wave 1: person minted in the topic band (N-1015); moved to person hole N-536."
     },
     "legacy-N-1017": {
-      "survives_as": "N-536",
+      "survives_as": "N-569",
       "canonical_name": "Victor Marx",
-      "reason": "Wave 1: person minted in the topic band (N-1017); moved to person hole N-536."
+      "reason": "Wave 1: person minted in the topic band (N-1017); moved to person hole N-569."
     },
     "legacy-N-1018": {
-      "survives_as": "N-569",
+      "survives_as": "N-571",
       "canonical_name": "Eileen Marx",
-      "reason": "Wave 1: person minted in the topic band (N-1018); moved to person hole N-569."
+      "reason": "Wave 1: person minted in the topic band (N-1018); moved to person hole N-571."
     },
     "legacy-N-1019": {
       "survives_as": "N-570",
@@ -2194,39 +2194,39 @@
       "reason": "Wave 1: person minted in the topic band (N-1019); moved to person hole N-570."
     },
     "legacy-N-1028": {
-      "survives_as": "N-571",
+      "survives_as": "N-578",
       "canonical_name": "Usha Vance",
-      "reason": "Wave 1: person minted in the topic band (N-1028); moved to person hole N-571. ep148 also used N-1028 locally for Candace Owens; those cites retargeted to N-3."
+      "reason": "Wave 1: person minted in the topic band (N-1028); moved to person hole N-578. ep148 also used N-1028 locally for Candace Owens; those cites retargeted to N-3."
     },
     "legacy-N-2349": {
-      "survives_as": "N-572",
+      "survives_as": "N-531",
       "canonical_name": "Father Ripperger",
-      "reason": "Wave 1: person minted in the topic band (N-2349); moved to person hole N-572."
+      "reason": "Wave 1: person minted in the topic band (N-2349); moved to person hole N-531."
     },
     "legacy-N-8": {
-      "survives_as": "N-573",
+      "survives_as": "N-572",
       "canonical_name": "Melody Hall",
-      "reason": "Wave 1: ep107 protocol-example id N-8 (collides with ep000 baseline range); re-minted at person hole N-573. Other episodes that reused N-8 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
+      "reason": "Wave 1: ep107 protocol-example id N-8 (collides with ep000 baseline range); re-minted at person hole N-572. Other episodes that reused N-8 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
     },
     "legacy-N-9": {
-      "survives_as": "N-574",
+      "survives_as": "N-573",
       "canonical_name": "Holly Chalmers",
-      "reason": "Wave 1: ep107 protocol-example id N-9 (collides with ep000 baseline range); re-minted at person hole N-574. Other episodes that reused N-9 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
+      "reason": "Wave 1: ep107 protocol-example id N-9 (collides with ep000 baseline range); re-minted at person hole N-573. Other episodes that reused N-9 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
     },
     "legacy-N-14": {
-      "survives_as": "N-575",
+      "survives_as": "N-574",
       "canonical_name": "Victor Marx's son",
-      "reason": "Wave 1: ep107 protocol-example id N-14 (collides with ep000 baseline range); re-minted at person hole N-575. Other episodes that reused N-14 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
+      "reason": "Wave 1: ep107 protocol-example id N-14 (collides with ep000 baseline range); re-minted at person hole N-574. Other episodes that reused N-14 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
     },
     "legacy-N-15": {
-      "survives_as": "N-576",
+      "survives_as": "N-575",
       "canonical_name": "Victor Marx's daughter",
-      "reason": "Wave 1: ep107 protocol-example id N-15 (collides with ep000 baseline range); re-minted at person hole N-576. Other episodes that reused N-15 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
+      "reason": "Wave 1: ep107 protocol-example id N-15 (collides with ep000 baseline range); re-minted at person hole N-575. Other episodes that reused N-15 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
     },
     "legacy-N-18": {
-      "survives_as": "N-577",
+      "survives_as": "N-576",
       "canonical_name": "Amir Safari",
-      "reason": "Wave 1: ep107 protocol-example id N-18 (collides with ep000 baseline range); re-minted at person hole N-577. Other episodes that reused N-18 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
+      "reason": "Wave 1: ep107 protocol-example id N-18 (collides with ep000 baseline range); re-minted at person hole N-576. Other episodes that reused N-18 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv)."
     },
     "legacy-N-10": {
       "survives_as": null,
@@ -2234,9 +2234,9 @@
       "reason": "Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor."
     },
     "legacy-N-11": {
-      "survives_as": null,
+      "survives_as": "N-611",
       "canonical_name": "Danny Philip",
-      "reason": "Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor."
+      "reason": "Wave 1 retired this ep000-baseline placeholder; Transit fix-all minted Danny Philip at the clean hole N-611 (cited on C-3020..C-3022, C-3092, C-3094..C-3096, C-3365), so the tombstone survives as N-611. N-11 itself stays reserved."
     },
     "legacy-N-12": {
       "survives_as": null,

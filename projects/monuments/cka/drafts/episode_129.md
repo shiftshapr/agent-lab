@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2139, N-2140, N-2141, N-2142
-  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212
+  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-611
   - (see registers)
 
 ## 2. Executive Summary
@@ -250,6 +250,19 @@ Episode Count: ≥1
 Investigative Pressure: High
 
 *Related: A-2169.5, A-2169.6, C-3103, C-3104*
+
+**N-611** Danny Philip
+
+Newly hired Turning Point USA employee at the UVU event; phone records show a 10-minute call with Mikey McCoy after the shooting, and he arrived at Timpanogos in the same SUV as Blake Neff.
+
+Evidence Count: 3
+Claim Count: 4
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-2167.1, A-2166.2, A-2166.1, C-3092, C-3094, C-3095, C-3096*
+
+---
 
 **N-1207** Mike Mitchell Public Record Anomaly
 
@@ -498,6 +511,7 @@ Claim Timestamp: 00:13:40
 Claim: Phone records show Mikey McCoy making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.
 
 Anchored Artifacts: A-2167.1
+Mentions: N-611
 
 Related Nodes: N-2141
 
@@ -527,6 +541,7 @@ Claim Timestamp: 00:18:17
 Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
+Mentions: N-611
 
 Related Nodes:
 
@@ -541,6 +556,7 @@ Claim Timestamp: 00:10:36
 Claim: Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.
 
 Anchored Artifacts: A-2166.1
+Mentions: N-611
 
 Related Nodes:
 
@@ -555,6 +571,7 @@ Claim Timestamp: 00:11:37
 Claim: Danny Philip — newly hired Turning Point USA employee — was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
 
 Anchored Artifacts: A-2167.1, A-2166.1
+Mentions: N-611
 
 Related Nodes: N-2141
 

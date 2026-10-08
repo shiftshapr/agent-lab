@@ -758,7 +758,7 @@ Investigative Direction: Pull the cited DOJ files directly, confirm the count an
 Claim Timestamp: 00:33:02
 Claim: Episode presents that a Turning Point USA spokesperson told Newsweek that Erika moved the wedding photo to a lower shelf "when her daughter asked to see it" so the child could "hold and look at the photo."
 Anchored Artifacts: A-1787.1
-Mentions: N-42, N-272
+Mentions: N-42
 Related Nodes: N-1583
 Investigative Direction: Pull the Newsweek article directly and confirm the exact quote and attribution.
 

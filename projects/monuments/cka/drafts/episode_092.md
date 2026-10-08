@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-4, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
-  - Reused Nodes Appearing: N-2, N-42, N-1207, N-1208, N-1209, N-1210, N-536, N-531
+  - Reused Nodes Appearing: N-2, N-42, N-1207, N-1208, N-1209, N-1210
+  - Hole-minted Nodes (wave1): N-536, N-569, N-570
   - (see registers)
 
 ## 6. Meme Register
@@ -52,7 +53,7 @@ Claim Range: C-2722–C-2743
 
 New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-531 (Tim Ballard), N-4 (JD Vance), N-42 (Andrew Kolvet), N-536 (Victor Marx), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-536 (Tim Ballard), N-4 (JD Vance), N-42 (Andrew Kolvet), N-569 (Victor Marx), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 
@@ -226,7 +227,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2734, C-2735, N-531, N-536, N-1210, N-1688*
+*Related: C-2734, C-2735, N-536, N-569, N-1210, N-1688*
 
 ---
 
@@ -240,7 +241,7 @@ Video Timestamp: 00:40:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2735, C-2736, N-531, N-536, N-1210, N-1688*
+*Related: C-2735, C-2736, N-536, N-569, N-1210, N-1688, N-570*
 
 ---
 
@@ -254,7 +255,7 @@ Video Timestamp: 00:41:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2736, N-531, N-536, N-1210, N-1688*
+*Related: C-2736, N-536, N-569, N-1210, N-1688, N-570*
 
 ---
 
@@ -341,7 +342,7 @@ Investigative Pressure: High
 
 ---
 
-**N-531** Tim Ballard
+**N-536** Tim Ballard
 
 Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.
 
@@ -351,6 +352,32 @@ Episode Count: (pre-existing)
 Investigative Pressure: Medium
 
 *Related: N-1689*
+
+---
+
+**N-569** Victor Marx
+
+Pastor Victor Marx replied to the host on X; the host reads and disputes the reply and proposes an on-air interview with him and Corby Hall (transcript 00:56, 37:09 to 40:47).
+
+Evidence Count: 3
+Claim Count: 3
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-570, N-1688*
+
+---
+
+**N-570** Corby Hall
+
+Corby Hall (FAR) raised the point that Victor Marx has no church; the host read his statement in full and he agreed to appear on the show with Victor Marx (transcript 38:52 to 40:47).
+
+Evidence Count: 2
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1976.1, A-1977.1, C-2735, N-569, N-1688*
 
 ---
 
@@ -441,7 +468,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-531, N-536, N-1210*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-536, N-569, N-1210*
 
 ---
 
@@ -454,7 +481,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-531*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-536*
 
 ---
 
@@ -661,7 +688,7 @@ Claim Timestamp: 00:39:35
 Claim: Victor Marx posted a short video response on Instagram and X in reply to Candace Owens' prior episode, captioned "Well, all righty then. Love you, Candace."
 
 Anchored Artifacts: A-1975.1
-Mentions: N-536
+Mentions: N-569
 
 Related Nodes: N-1210, N-1688
 
@@ -676,7 +703,7 @@ Claim Timestamp: 00:40:47
 Claim: Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed.
 
 Anchored Artifacts: A-1976.1
-Mentions: N-536, N-570
+Mentions: N-569, N-570
 
 Related Nodes: N-1210, N-1688
 
@@ -691,7 +718,7 @@ Claim Timestamp: 00:41:36
 Claim: Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed.
 
 Anchored Artifacts: A-1977.1
-Mentions: N-536
+Mentions: N-569
 
 Related Nodes: N-1210, N-1688
 
@@ -820,7 +847,7 @@ Investigative Direction: Obtain full transcript of Vance's remarks; verify wheth
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle; each top-level artifact ID represents one evidentiary family.
-- [x] People nodes use the global people ledger (Wave 1: Tim Ballard moved out of the topic band to Person N-531; local placeholder ids N-5 and N-6 resolved to N-42 Andrew Kolvet and N-536 Victor Marx).
+- [x] People nodes use the global people ledger (Wave 1: Tim Ballard moved out of the topic band to Person N-536; local placeholder ids N-5 and N-6 resolved to N-42 Andrew Kolvet and N-569 Victor Marx).
 - [x] Non-person investigation targets use the 1000-series beginning at N-1682.
 - [x] No speculative claims inscribed as evidence-backed claims; rhetorical framing retained as commentary.
 - [x] Names preserved exactly with uncertainty flagged.

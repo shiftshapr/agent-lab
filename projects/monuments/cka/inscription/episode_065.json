@@ -993,7 +993,9 @@
       "ref": "C-2229",
       "label": "Candace Owens Phil Turney Interview Received Approximately 7 Million Views",
       "claim": "Per host, her Phil Turney interview received approximately 7 million views, prompting New York Times outreach.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1694.2"
+      ],
       "related_nodes": [
         "N-1522",
         "N-1528",
@@ -1003,7 +1005,6 @@
       "claim_timestamp": "01:23:21",
       "investigative_direction": "Verify view count via YouTube analytics or platform data.",
       "mentions_person_refs": [
-        "N-45",
         "N-799"
       ]
     },

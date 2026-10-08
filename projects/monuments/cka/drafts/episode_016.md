@@ -697,7 +697,7 @@ Claim Timestamp: 00:04:56
 Claim: Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
-Mentions: N-91, N-220
+Mentions: N-220
 Investigative Direction: Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.
 
 ---
@@ -709,7 +709,7 @@ Claim Timestamp: 00:23:52
 Claim: Josh Hammer, on a show the day before the episode, publicly claimed he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, alongside "a couple others," and that they discussed messaging for Kirk's campus tour.
 
 Anchored Artifacts: A-1234.1
-Mentions: N-1, N-42
+Mentions: N-1, N-86
 Investigative Direction: Identify the other Zoom call attendees; obtain any contemporaneous notes or call logs; verify whether the call occurred.
 
 ---

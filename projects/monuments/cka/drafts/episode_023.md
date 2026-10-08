@@ -673,7 +673,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:05:35
 Claim: The episode presents Flightradar tracking data showing the Egyptian-registered Falcon 7X tail number SUBTT making multiple U.S. arrivals between 2022 and September 2025 in locations including St. Louis, Kansas, Lincoln (NE), Wichita, and Provo, in temporal proximity to TPUSA, TPUSA Faith, or Charlie Kirk events.
 Anchored Artifacts: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9
-Mentions: N-1, N-45, N-302, N-310
+Mentions: N-1, N-45
 Related Nodes: N-1273
 Investigative Direction: Pull official Flightradar / ADS-B archives for SUBTT across the cited dates; verify whether route and timing correlate with documented TPUSA / TPUSA Faith events as claimed.
 
@@ -684,7 +684,7 @@ Investigative Direction: Pull official Flightradar / ADS-B archives for SUBTT ac
 Claim Timestamp: 00:09:38
 Claim: The episode presents Flightradar tracking data showing the Egyptian-registered Gulfstream 4 tail number SUBND arriving in St. Louis on February 21, 2023 (remaining until May), arriving in Provo on April 19, 2024, arriving in Provo on May 23, 2025, and departing Provo on September 13, 2025 via Canada and Paris back to Cairo.
 Anchored Artifacts: A-1302.1, A-1302.2, A-1302.3, A-1302.4
-Mentions: N-1, N-310
+Mentions: N-1
 Related Nodes: N-1274
 Investigative Direction: Verify Flightradar archive for SUBND on each cited date; cross-reference ground-time anomalies with TPUSA / TPUSA Faith event timing.
 

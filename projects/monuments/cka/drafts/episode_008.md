@@ -15,8 +15,8 @@
 - **Transcript SHA-256**: 24ae4dc831837ca22c3049f10c8b14e92c9e52b19a72a332213431c35e47c3bb
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154
-  - Claim Range: C-1245-C-1266
+  - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154, A-2518
+  - Claim Range: C-1245-C-1266, C-3727-C-3734
   - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-146, N-147, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-66, N-69, N-71, N-5, N-92, N-102, N-110, N-111, N-112, N-134, N-1000, N-1077, N-1125, N-1079
 
@@ -165,6 +165,58 @@ Confidence: medium
 ---
 
 
+**A-2518** Catholic Mass Debate Reference and Viewer Comments Bundle
+
+**A-2518.1** Verbal reference to videos of Charlie Kirk debating Michael Nolles (verbal reference; no displayed artifact)
+Video Timestamp: 00:34:07–00:34:23
+*Related: C-3727, N-1, N-138*
+Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
+Confidence: medium
+
+**A-2518.2** Viewer comment from John Heinchell read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:53:42–00:53:58
+*Related: C-3728, N-1, N-139*
+Transcript Snippet: The question I have is why now from an LGBTQ person?
+Confidence: medium
+
+**A-2518.3** Viewer comment from Jenna V read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:55:10–00:55:14
+*Related: C-3729, N-1, N-140*
+Transcript Snippet: Thank you for fighting so hard for that precious human being,
+Confidence: medium
+
+**A-2518.4** Viewer comment from Tempes read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:56:45–00:56:57
+*Related: C-3730, N-1, N-141*
+Transcript Snippet: They didn't kill Charlie, only his physical form.
+Confidence: medium
+
+**A-2518.5** Viewer comment from Carl read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:57:24–00:57:37
+*Related: C-3731, N-142*
+Transcript Snippet: My wife and I love your show,
+Confidence: medium
+
+**A-2518.6** Viewer comment from Mary Kelly read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:57:55–00:58:00
+*Related: C-3732, N-143*
+Transcript Snippet: You are my Jon of Arc.
+Confidence: medium
+
+**A-2518.7** Viewer comment from Milana read on air (verbal reference; no displayed artifact)
+Video Timestamp: 00:59:42–00:59:53
+*Related: C-3733, N-146*
+Transcript Snippet: What curriculum do you recommend if I were to homeschool my kids?
+Confidence: medium
+
+**A-2518.8** Viewer comment from Lover of Light read on air (verbal reference; no displayed artifact)
+Video Timestamp: 01:01:04–01:01:14
+*Related: C-3734, N-147*
+Transcript Snippet: don't forget to share some of those funny personal stories
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-3** Candace Owens
@@ -300,7 +352,7 @@ Referenced via prior tweet suggesting more parties involved than Robinson alone.
 Node Type: Person
 Catholic debate partner of Charlie Kirk referenced by Kovette.
 
-*Related: A-1146.1, A-1151.1, C-1245*
+*Related: A-2518.1, C-3727*
 
 
 
@@ -320,7 +372,7 @@ President; audio statement on MMR separation and Hepatitis B delay played in the
 Node Type: Person
 Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.
 
-*Related: A-1146.1, C-1245*
+*Related: A-2518.2, C-3728*
 
 
 
@@ -331,7 +383,7 @@ Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assass
 Node Type: Person
 Commenter thanking host and recalling mutual support with Charlie.
 
-*Related: A-1146.1, C-1245*
+*Related: A-2518.3, C-3729*
 
 
 
@@ -342,7 +394,7 @@ Commenter thanking host and recalling mutual support with Charlie.
 Node Type: Person
 Commenter on Charlie's spiritual status.
 
-*Related: A-1146.1, C-1245*
+*Related: A-2518.4, C-3730*
 
 
 
@@ -353,7 +405,7 @@ Commenter on Charlie's spiritual status.
 Node Type: Person
 Commenter thanking host for questioning the establishment.
 
-*Related: A-1146.1, C-1245*
+*Related: A-2518.5, C-3731*
 
 
 
@@ -364,7 +416,7 @@ Commenter thanking host for questioning the establishment.
 Node Type: Person
 Commenter praying via Flame of Love rosaries.
 
-*Related: A-1146.1, C-1245*
+*Related: A-2518.6, C-3732*
 
 
 
@@ -393,7 +445,7 @@ Commenter quoting police scanner description (jeans, black shirt, mask, vest, ri
 Node Type: Person
 Commenter asking about homeschooling curriculum.
 
-*Related: A-1146.1, C-1245*
+*Related: A-2518.7, C-3733*
 
 
 
@@ -404,7 +456,7 @@ Commenter asking about homeschooling curriculum.
 Node Type: Person
 Commenter asking host to share personal stories.
 
-*Related: A-1154.1, C-1254*
+*Related: A-2518.8, C-3734*
 
 ---
 
@@ -647,7 +699,7 @@ Claim Timestamp: 00:10:11
 Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman
 Anchored Artifacts: A-1146.1
-Mentions: N-92, N-110, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-146
+Mentions: N-92, N-110, N-137
 Related Nodes: N-1125, N-1160, N-1161
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
@@ -768,7 +820,7 @@ Claim Timestamp: 00:30:37
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
-Mentions: N-69, N-147
+Mentions: N-69
 Related Nodes: N-1079, N-1165
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
@@ -941,6 +993,102 @@ Investigative Direction: Preserve as joke reference to CIA hat brand; no factual
 
 ---
 
+
+**C-3727** Charlie Kirk debated Michael Nolles on Protestant versus Catholic theology
+
+Claim Timestamp: 00:34:12
+Claim: In the discussion of Charlie Kirk attending Catholic mass, the speaker says Charlie debated Michael Nolles in good fun on Protestant versus Catholic theology and that they were dear friends.
+Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
+Anchored Artifacts: A-2518.1
+Mentions: N-1, N-138
+Confidence: medium
+Investigative Direction: Locate the Charlie Kirk and Michael Nolles debate videos.
+
+---
+
+**C-3728** Viewer John Heinchell questions the timing of the LGBTQ donation
+
+Claim Timestamp: 00:53:42
+Claim: Viewer John Heinchell, in a comment read on air, asks why the donation came now from an LGBTQ person and says Charlie's public views on the genocide and Netanyahu were what changed before his assassination.
+Transcript Snippet: The question I have is why now from an LGBTQ person?
+Anchored Artifacts: A-2518.2
+Mentions: N-1, N-139
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
+
+**C-3729** Viewer Jenna V thanks the host for fighting for Charlie Kirk
+
+Claim Timestamp: 00:55:10
+Claim: Viewer Jenna V, in a comment read on air, thanks the host for fighting so hard for Charlie Kirk.
+Transcript Snippet: Thank you for fighting so hard for that precious human being,
+Anchored Artifacts: A-2518.3
+Mentions: N-1, N-140
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
+
+**C-3730** Viewer Tempes says Charlie Kirk lives on
+
+Claim Timestamp: 00:56:45
+Claim: Viewer Tempes, in a comment read on air, says they did not kill Charlie, only his physical form, and that he lives on with God.
+Transcript Snippet: They didn't kill Charlie, only his physical form.
+Anchored Artifacts: A-2518.4
+Mentions: N-1, N-141
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
+
+**C-3731** Viewer Carl thanks the host for asking questions
+
+Claim Timestamp: 00:57:24
+Claim: Viewer Carl, in a comment read on air, says he and his wife love the show and that it has opened people's eyes to the lying going on around them.
+Transcript Snippet: My wife and I love your show,
+Anchored Artifacts: A-2518.5
+Mentions: N-142
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
+
+**C-3732** Viewer Mary Kelly calls the host her Joan of Arc
+
+Claim Timestamp: 00:57:55
+Claim: Viewer Mary Kelly, in a comment read on air, calls the host her Joan of Arc and offers prayers for her family.
+Transcript Snippet: You are my Jon of Arc.
+Anchored Artifacts: A-2518.6
+Mentions: N-143
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
+
+**C-3733** Viewer Milana asks for a homeschool curriculum
+
+Claim Timestamp: 00:59:42
+Claim: Viewer Milana, in a comment read on air, asks what curriculum the host recommends for homeschooling; the host says she is trialing a classical and Montessori approach.
+Transcript Snippet: What curriculum do you recommend if I were to homeschool my kids?
+Anchored Artifacts: A-2518.7
+Mentions: N-146
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
+
+**C-3734** Viewer Lover of Light asks for personal stories
+
+Claim Timestamp: 01:01:04
+Claim: Viewer Lover of Light, in a comment read on air, thanks the host and asks her to keep sharing funny personal stories.
+Transcript Snippet: don't forget to share some of those funny personal stories
+Anchored Artifacts: A-2518.8
+Mentions: N-147
+Confidence: medium
+Investigative Direction: None; viewer comment context.
+
+---
 
 ## 6. Meme Register
 

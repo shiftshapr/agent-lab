@@ -15,8 +15,8 @@
 - **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103
-  - Claim Range: C-1144-C-1174
+  - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103, A-2516
+  - Claim Range: C-1144-C-1174, C-3721-C-3725
   - New Nodes Introduced: N-84, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-93, N-94, N-95, N-96, N-97, N-98, N-99, N-1094, N-1095, N-1096, N-1097, N-1098, N-1099, N-1100, N-1101, N-1102
   - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-61, N-65, N-66, N-67, N-68, N-69, N-71, N-75, N-1000, N-1077
 
@@ -194,6 +194,40 @@ Confidence: medium
 ---
 
 
+**A-2516** Host Verbal References and Viewer Comment Bundle
+
+**A-2516.1** Host statement that her genocide tweet referred to Brian Mass's remarks (verbal reference; no displayed artifact)
+Video Timestamp: 00:56:04–00:56:22
+*Related: C-3721, N-95*
+Transcript Snippet: I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
+Confidence: medium
+
+**A-2516.2** Host statement that Netanyahu appeared on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)
+Video Timestamp: 00:57:59–00:58:24
+*Related: C-3722, N-1, N-65, N-88, N-89, N-90*
+Transcript Snippet: He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.
+Confidence: medium
+
+**A-2516.3** Host recollection of the Sarah Stockton ring debate among Hamptons attendees (verbal reference; no displayed artifact)
+Video Timestamp: 01:00:23–01:00:56
+*Related: C-3723, N-94, N-1000*
+Transcript Snippet: I think her name was Sarah Stockton.
+Confidence: medium
+
+**A-2516.4** Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Mutosos, read on air (verbal reference; no displayed artifact)
+Video Timestamp: 01:12:13–01:12:37
+*Related: C-3724, N-70, N-71, N-92, N-93*
+Transcript Snippet: Eric Mutosos was the LEO and has dealt with Zinn in the past.
+Confidence: medium
+
+**A-2516.5** Host reference to Jamie Lee Curtis crying over the assassination (verbal reference; no displayed artifact)
+Video Timestamp: 01:15:12–01:15:31
+*Related: C-3725, N-96*
+Transcript Snippet: I'm going to show you guys tomorrow like Jamie Lee Curtis,
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -342,7 +376,7 @@ Podcaster Netanyahu appeared on.
 Node Type: Person
 Podcaster Netanyahu appeared on.
 
-*Related: A-1095.1, C-1144*
+*Related: A-2516.2, C-3722*
 
 
 
@@ -353,7 +387,7 @@ Podcaster Netanyahu appeared on.
 Node Type: Person
 Podcast Netanyahu appeared on.
 
-*Related: A-1095.1, C-1144*
+*Related: A-2516.2, C-3722*
 
 
 
@@ -384,7 +418,7 @@ Republican candidate chosen by delegates who ran against Cox.
 Node Type: Person
 LEO commenter noted to have dealt with Zinn in the past.
 
-*Related: A-1095.1, C-1144*
+*Related: A-2516.4, C-3724*
 
 
 
@@ -404,7 +438,7 @@ Charlie's widow; one of two people Candace cites as able to silence her.
 Node Type: Person
 Hamptons attendee whose engagement ring generated drama.
 
-*Related: A-1095.1, C-1144*
+*Related: A-2516.3, C-3723*
 
 
 
@@ -426,7 +460,7 @@ Subject of Candace's prior Israel-pressure recollection.
 Node Type: Person
 Subject of a tweet Candace referenced about genocide.
 
-*Related: A-1095.1, C-1144*
+*Related: A-2516.1, C-3721*
 
 
 
@@ -437,7 +471,7 @@ Subject of a tweet Candace referenced about genocide.
 Node Type: Person
 Mentioned as left-leaning figure moved by Kirk's death.
 
-*Related: A-1095.1, C-1144*
+*Related: A-2516.5, C-3725*
 
 
 
@@ -610,7 +644,7 @@ Claim Timestamp: 00:07:37
 Claim: Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
-Mentions: N-3, N-61, N-68, N-69, N-88, N-89, N-90, N-92, N-93, N-94, N-95, N-96, N-99
+Mentions: N-3, N-69
 Related Nodes: N-1094, N-1096
 Confidence: high
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
@@ -685,7 +719,7 @@ Claim Timestamp: 00:16:00
 Claim: Robinson's mother saw the news photo of the shooter on September 11 and stated it looked like her son; she called her husband to confirm.
 Transcript Snippet: she saw the photo of the shooter in the news and thought that the shooter looked like her son
 Anchored Artifacts: A-1095.5
-Mentions: N-59, N-69
+Mentions: N-69
 Confidence: high
 Investigative Direction: Verify timing of news publication vs. mother's call via phone and interview records.
 
@@ -811,7 +845,7 @@ Claim Timestamp: 01:00:46
 Claim: Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.
 Transcript Snippet: Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
-Mentions: N-66, N-87, N-97
+Mentions: N-66, N-97
 Related Nodes: N-1098
 Confidence: high
 Investigative Direction: Cross-reference attendee statements with published itinerary.
@@ -1013,6 +1047,67 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+
+**C-3721** Host says her genocide tweet referred to Brian Mass remarks
+
+Claim Timestamp: 00:56:16
+Claim: The host says her tweet that genocide is always wrong referred to Brian Mass's remarks, and that the statement stands even if it had not.
+Transcript Snippet: I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
+Anchored Artifacts: A-2516.1
+Mentions: N-95
+Confidence: medium
+Investigative Direction: Locate the Brian Mass remarks the tweet responded to and the tweet itself.
+
+---
+
+**C-3722** Netanyahu podcast blitz skipped the Charlie Kirk Show
+
+Claim Timestamp: 00:58:04
+Claim: The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.
+Transcript Snippet: He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.
+Anchored Artifacts: A-2516.2
+Mentions: N-1, N-65, N-88, N-89, N-90
+Confidence: medium
+Investigative Direction: Build a timeline of Netanyahu's 2025 US podcast appearances and any Charlie Kirk Show invitation.
+
+---
+
+**C-3723** Hamptons attendee ring debate around Sarah Stockton
+
+Claim Timestamp: 01:00:30
+Claim: The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton, whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.
+Transcript Snippet: I think her name was Sarah Stockton.
+Anchored Artifacts: A-2516.3
+Mentions: N-94
+Related Nodes: N-1000
+Confidence: medium
+Investigative Direction: Identify the attendee's posts from the Hamptons weekend and whether a Turning Point event was disclosed.
+
+---
+
+**C-3724** Viewer comment: Eric Mutosos was the LEO who dealt with Zinn
+
+Claim Timestamp: 01:12:24
+Claim: A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Mutosos was the LEO and has dealt with Zinn in the past.
+Transcript Snippet: Eric Mutosos was the LEO and has dealt with Zinn in the past.
+Anchored Artifacts: A-2516.4
+Mentions: N-70, N-71, N-92, N-93
+Confidence: medium
+Investigative Direction: Verify any law enforcement record linking Eric Mutosos to George Zinn.
+
+---
+
+**C-3725** Jamie Lee Curtis cited as cross-partisan mourner
+
+Claim Timestamp: 01:15:23
+Claim: The host says the global response crossed political lines and that she will show Jamie Lee Curtis, whom she describes as on the left, crying over it.
+Transcript Snippet: I'm going to show you guys tomorrow like Jamie Lee Curtis,
+Anchored Artifacts: A-2516.5
+Mentions: N-96
+Confidence: medium
+Investigative Direction: Locate the Jamie Lee Curtis clip the host promised to show.
+
+---
 
 ## 6. Meme Register
 

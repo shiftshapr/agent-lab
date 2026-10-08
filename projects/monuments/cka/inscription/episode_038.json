@@ -926,6 +926,30 @@
       "investigative_pressure": "medium"
     },
     {
+      "@type": "Person",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).",
+      "related_artifacts": [
+        "A-1461.1",
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-117",
+        "N-3"
+      ]
+    },
+    {
       "@type": "InvestigationTarget",
       "@id": "N-1354",
       "ref": "N-1354",
@@ -1293,14 +1317,22 @@
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1461.1",
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [
+        "N-117",
+        "N-3"
+      ]
     },
     {
       "@type": "Person",
@@ -1341,14 +1373,22 @@
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Publisher of Blake Neff profile article (A-2347).",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1461.1",
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [
+        "N-117",
+        "N-3"
+      ]
     }
   ],
   "claims": [

@@ -846,7 +846,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:53",
-      "investigative_direction": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications."
+      "investigative_direction": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

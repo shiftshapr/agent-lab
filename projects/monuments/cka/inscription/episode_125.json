@@ -695,6 +695,29 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-611",
+      "ref": "N-611",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Turning Point USA employee (transcript spelling Danny Phillip). During an X Space Blake Neff indicated Danny may have been in the second SUV with him; the host traces his family ties to Merrill Lynch and Bank of America.",
+      "related_artifacts": [
+        "A-2133.1",
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3020",
+        "C-3021",
+        "C-3022"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -767,7 +790,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:25",
-      "investigative_direction": "Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification."
+      "investigative_direction": "Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",
@@ -784,7 +810,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
-      "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship."
+      "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",
@@ -801,7 +830,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:41",
-      "investigative_direction": "Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim."
+      "investigative_direction": "Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",

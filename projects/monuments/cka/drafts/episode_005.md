@@ -15,8 +15,8 @@
 - **Transcript SHA-256**: b704370251f8857dac366787278287738cc424dfb3e336d044bdb3646f0f1310
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119
-  - Claim Range: C-1186-C-1204
+  - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119, A-2517
+  - Claim Range: C-1186-C-1204, C-3726
   - New Nodes Introduced:  N-107, N-108, N-109, N-110, N-111, N-112, N-113, N-114, N-115, N-116, N-117, N-1113, N-1114, N-1115, N-1116, N-1117, N-1118, N-1119, N-1120, N-1121, N-1122, N-1123, N-1124, N-1125, N-1126, N-1127, N-1128, N-1129
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-65, N-66, N-69, N-1000, N-1076, N-1077, N-1091, N-1092
 
@@ -143,6 +143,16 @@ Confidence: medium
 
 ---
 
+
+**A-2517** Harley Pastnic Genealogy Reference Bundle
+
+**A-2517.1** Host genealogy reference to Harley Pastnic's family business in piping and valves (verbal reference; no displayed artifact)
+Video Timestamp: 00:15:56–00:16:21
+*Related: C-3726, N-115*
+Transcript Snippet: when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.
+Confidence: medium
+
+---
 
 ## 4. Node Register
 
@@ -277,7 +287,7 @@ Wife of Samuel Steele per host; co-owner of the doorbell-camera house.
 Node Type: Person
 Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.
 
-*Related: A-1111.1, C-1186*
+*Related: A-2517.1, C-3726*
 
 
 
@@ -564,7 +574,7 @@ Claim Timestamp: 00:06:54
 Claim: A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Anchored Artifacts: A-1111.1
-Mentions: N-69, N-115
+Mentions: N-69
 Related Nodes: N-1077, N-1116, N-1127
 Confidence: medium
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
@@ -839,6 +849,18 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+
+**C-3726** Host notes Harley Pastnic family was in piping and valves
+
+Claim Timestamp: 00:16:08
+Claim: The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pastnic, his family was in piping and valves.
+Transcript Snippet: when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.
+Anchored Artifacts: A-2517.1
+Mentions: N-115
+Confidence: medium
+Investigative Direction: Check whether the valve business the host refers to connects to Harley Pastnic's family.
+
+---
 
 ## 6. Meme Register
 

@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:38:11",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5",
@@ -31,8 +31,8 @@
             "C-3703"
           ],
           "related_nodes": [
-            "N-536",
             "N-569",
+            "N-571",
             "N-1697"
           ],
           "tags": [],
@@ -60,8 +60,8 @@
             "C-3709"
           ],
           "related_nodes": [
-            "N-536",
-            "N-578"
+            "N-569",
+            "N-577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -87,8 +87,8 @@
             "C-3705"
           ],
           "related_nodes": [
-            "N-574",
-            "N-536"
+            "N-573",
+            "N-569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -114,9 +114,9 @@
             "C-3706"
           ],
           "related_nodes": [
-            "N-576",
             "N-575",
-            "N-536"
+            "N-574",
+            "N-569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -142,7 +142,7 @@
             "C-3707"
           ],
           "related_nodes": [
-            "N-536"
+            "N-569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -161,7 +161,7 @@
             "C-3716"
           ],
           "related_nodes": [
-            "N-536",
+            "N-569",
             "N-2384"
           ],
           "tags": [],
@@ -195,7 +195,7 @@
             "C-3716"
           ],
           "related_nodes": [
-            "N-536"
+            "N-569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -211,7 +211,26 @@
       "@id": "A-2511",
       "family_ref": "A-2511",
       "bundle_name": "Victor Marx Documentary References Bundle",
-      "sub_items": []
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2511.1",
+          "ref": "A-2511.1",
+          "description": "Victor Marx on air citing his documentary film, The Victor Marx Story (transcript: \"The Victor Marc Story\"), on YouTube, in which his sister appears, as corroboration of his childhood abuse account (verbal reference; film not shown).",
+          "related_claims": [
+            "C-3709"
+          ],
+          "related_nodes": [
+            "N-569"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "source_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     },
     {
       "@type": "ArtifactFamily",
@@ -228,7 +247,7 @@
             "C-3710"
           ],
           "related_nodes": [
-            "N-536"
+            "N-569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -260,8 +279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-536",
-      "ref": "N-536",
+      "@id": "N-569",
+      "ref": "N-569",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -300,8 +319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-571",
+      "ref": "N-571",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Victor's wife; described as second-mother figure to Erika Kirk.",
@@ -336,8 +355,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-573",
-      "ref": "N-573",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "Melody Hall",
       "type": "person",
       "description": "Corby Hall's wife; named by Victor Marx as someone he prayed for.",
@@ -353,8 +372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-573",
+      "ref": "N-573",
       "name": "Holly Chalmers",
       "type": "person",
       "description": "Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.",
@@ -372,8 +391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-575",
-      "ref": "N-575",
+      "@id": "N-574",
+      "ref": "N-574",
       "name": "Victor Marx's son",
       "type": "person",
       "description": "Wrote a letter to the board accusing his father of abusing him and his sister.",
@@ -391,8 +410,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "Victor Marx's daughter",
       "type": "person",
       "description": "Posted on social media about abuse; later recanted; friends allege pressure.",
@@ -410,8 +429,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-577",
-      "ref": "N-577",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Amir Safari",
       "type": "person",
       "description": "Pastor named by the host as also posting early about Charlie Kirk's death.",
@@ -427,8 +446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-578",
-      "ref": "N-578",
+      "@id": "N-577",
+      "ref": "N-577",
       "name": "Gloyce Dean Kennedy",
       "type": "person",
       "description": "Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.",
@@ -485,7 +504,7 @@
       "transcript_snippet": "first that we could find to publicly announce that Charlie Kirk had passed away on September 10th",
       "mentions_person_refs": [
         "N-1",
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -503,8 +522,8 @@
       "investigative_direction": "Verify via photographic evidence and corroboration from family/close associates.",
       "mentions_person_refs": [
         "N-2",
-        "N-536",
-        "N-569"
+        "N-569",
+        "N-571"
       ]
     },
     {
@@ -521,8 +540,8 @@
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.",
       "mentions_person_refs": [
-        "N-536",
-        "N-578"
+        "N-569",
+        "N-577"
       ]
     },
     {
@@ -540,8 +559,8 @@
       "investigative_direction": "Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.",
       "transcript_snippet": "I believe that he's a trafficker himself",
       "mentions_person_refs": [
-        "N-536",
-        "N-574"
+        "N-569",
+        "N-573"
       ]
     },
     {
@@ -558,9 +577,9 @@
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction.",
       "mentions_person_refs": [
-        "N-536",
-        "N-576",
-        "N-575"
+        "N-569",
+        "N-575",
+        "N-574"
       ]
     },
     {
@@ -577,7 +596,7 @@
       "claim_timestamp": "00:10:09",
       "investigative_direction": "Retrieve archived versions of Victor Marx's website via Wayback Machine.",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -597,7 +616,7 @@
       "investigative_direction": "Verify archived website content; cross-check against organization's audited reports.",
       "transcript_snippet": "a high-risk humanitarian who has rescued more than 45,000 women and children",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -608,7 +627,8 @@
       "claim": "During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.",
       "anchored_artifacts": [
         "A-2506.1",
-        "A-2510.1"
+        "A-2510.1",
+        "A-2511.1"
       ],
       "related_nodes": [],
       "tags": [],
@@ -616,8 +636,8 @@
       "investigative_direction": "Cross-reference with statements from family members and law enforcement records.",
       "transcript_snippet": "Of course I do",
       "mentions_person_refs": [
-        "N-536",
-        "N-578",
+        "N-569",
+        "N-577",
         "N-570"
       ]
     },
@@ -637,7 +657,7 @@
       "investigative_direction": "Obtain certified DD-214 to verify service length and dates.",
       "transcript_snippet": "it was three years and it was on the DD-214",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -655,8 +675,8 @@
       "investigative_direction": "Verify with Turning Point USA personnel and any session records or correspondence.",
       "mentions_person_refs": [
         "N-1",
-        "N-536",
-        "N-573"
+        "N-569",
+        "N-572"
       ]
     },
     {
@@ -675,7 +695,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Cross-reference with IDF/nonprofit invitation records and travel documentation.",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -696,9 +716,9 @@
       "transcript_snippet": "Charlie wouldn't live from that…there's no way he could have survived that",
       "mentions_person_refs": [
         "N-1",
-        "N-536",
+        "N-569",
         "N-16",
-        "N-577",
+        "N-576",
         "N-309"
       ]
     },
@@ -716,7 +736,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Verify against official Israeli inquiry findings and IDF operational records.",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -733,7 +753,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Verify against partner nonprofit documentation and beneficiary records.",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -754,7 +774,7 @@
       "investigative_direction": "Compare original website text against archived snapshots; reconcile with prior show clip.",
       "transcript_snippet": "Nowhere…have I ever declared…that I ever rescued 45,000 women or children",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     }
   ],

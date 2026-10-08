@@ -688,12 +688,15 @@
       "anchored_artifacts": [
         "A-1739.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1560"
+      ],
       "tags": [],
       "claim_timestamp": "00:05:43",
       "investigative_direction": "Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).",
       "mentions_person_refs": [
-        "N-45"
+        "N-885",
+        "N-894"
       ]
     },
     {

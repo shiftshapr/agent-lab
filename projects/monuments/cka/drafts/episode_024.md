@@ -585,7 +585,7 @@ Claim Timestamp: 00:45:55
 Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.
 
 Anchored Artifacts: A-1320.5
-Mentions: N-228
+Mentions:
 
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.

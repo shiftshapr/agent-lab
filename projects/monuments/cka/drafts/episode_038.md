@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-451, N-453, N-454, N-455, N-456, N-457, N-458, N-459, N-460, N-461, N-1354, N-1355, N-1356, N-1357, N-1358, N-1359, N-1360, N-1361, N-1362, N-1363, N-1364, N-1365, N-1366, N-1367, N-1368
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-898
   - (see registers)
 
 ## 2. Executive Summary
@@ -540,6 +540,19 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1462.1, C-1782*
+
+---
+
+**N-898** Emmanuel Macron
+
+French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).
+
+Evidence Count: 2
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1461.1, A-1462.1, C-1781, N-117, N-3*
 
 ---
 

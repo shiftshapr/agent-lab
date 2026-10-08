@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-335, N-339, N-340, N-344, N-1294, N-1295, N-1296, N-1297
-  - Reused Nodes Appearing: N-1000
+  - Reused Nodes Appearing: N-2, N-1000
   - (see registers)
 
 # Episode Analysis Record
@@ -36,7 +36,7 @@
 - **Claim Range:** C-1598–C-1616
 - **New People Nodes Introduced:** N-335, N-272, N-224, N-150, N-339, N-340, N-91, N-42, N-87, N-344, N-45
 - **New Investigation Target Nodes Introduced:** N-1294, N-1295, N-1296, N-1297
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1000 (Erica Kirk)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:36:07–00:39:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1609, C-1610, N-272, N-224, N-45, N-1000, N-1*
+*Related: C-1609, C-1610, N-272, N-224, N-45, N-2, N-1*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:45:19–00:46:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1615, N-272, N-1000, N-1*
+*Related: C-1615, N-272, N-2, N-1*
 
 ---
 
@@ -301,7 +301,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-45, N-1000, N-1295, N-1296, N-1297*
+*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-45, N-2, N-1295, N-1296, N-1297*
 
 **N-224** Blake Neff
 
@@ -312,7 +312,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, C-1609, C-1610, N-272, N-45, N-1000*
+*Related: A-1339.1, C-1609, C-1610, N-272, N-45, N-2*
 
 **N-150** Ted Cruz
 
@@ -439,7 +439,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1344.1, C-1610, N-272, N-224, N-45, N-1000*
+*Related: A-1339.1, A-1344.1, C-1610, N-272, N-224, N-45, N-2*
 
 **N-1297** YouTube Scheduling Order Anomaly
 
@@ -450,7 +450,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1343.1, C-1615, N-272, N-1000*
+*Related: A-1343.1, C-1615, N-272, N-2*
 
 ---
 
@@ -619,9 +619,9 @@ Claim Timestamp: 00:36:07–00:39:39
 Claim: Blake Nef stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.
 
 Anchored Artifacts: A-1339.1
-Mentions: N-1, N-45, N-224, N-272
+Mentions: N-1, N-45, N-224, N-272, N-2
 
-Related Nodes: N-1000
+Related Nodes:
 
 Investigative Direction: Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.
 
@@ -634,9 +634,9 @@ Claim Timestamp: 00:39:39–00:43:20
 Claim: The host asserts that Blake Nef's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.
 
 Anchored Artifacts: A-1339.1, A-1344.1
-Mentions: N-45, N-224, N-272
+Mentions: N-45, N-224, N-272, N-2
 
-Related Nodes: N-1000, N-1296
+Related Nodes: N-1296
 
 Investigative Direction: Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.
 
@@ -677,7 +677,7 @@ Claim Timestamp: 00:51:00–00:52:10
 Claim: The host publicly rejects Josh Hammer's framing, identifies herself as more fearful of Zionists than Muslims, and refuses the implied call to armed conflict.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-86, N-340
+Mentions: N-86
 
 
 Investigative Direction: N/A — host-stance claim linked to source artifact.
@@ -705,9 +705,9 @@ Claim Timestamp: 00:45:19–00:46:08
 Claim: Upon resumption of scheduled uploads to his YouTube page following the memorial event, the first scheduled post featured Mikey McCoy (and his wife), with Erika Kirk's speech scheduled second.
 
 Anchored Artifacts: A-1343.1
-Mentions: N-272
+Mentions: N-272, N-2
 
-Related Nodes: N-1000, N-1297
+Related Nodes: N-1297
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 

@@ -6,8 +6,8 @@
 |-------|-------|
 | vocabulary | 2.0.0 (2026-10-07) |
 | vocab source | https://brc222.org/vocabulary.json |
-| generated_at (UTC) | 2026-10-08T04:19:07Z |
-| bridges | 9101 |
+| generated_at (UTC) | 2026-10-08T05:00:09Z |
+| bridges | 9201 |
 | revises candidate rows | 16 (both terms per edge) |
 | revises heuristic primary | {'extends': 8} |
 
@@ -17,8 +17,8 @@
 {
   "contradicts": 18,
   "isCorroboratedBy": 8,
-  "isMemberOf": 6299,
-  "isSupportedBy": 2776
+  "isMemberOf": 6367,
+  "isSupportedBy": 2808
 }
 ```
 

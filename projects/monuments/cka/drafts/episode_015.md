@@ -465,7 +465,7 @@ Claim Timestamp: 00:17:45
 Claim: The host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.
 
 Anchored Artifacts: A-1225.4 (verbal identification in the context of displayed chat)
-Mentions: N-42
+Mentions: N-86
 
 Related Nodes: N-1229
 

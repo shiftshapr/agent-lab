@@ -1,16 +1,16 @@
 old_id,new_id,name,kind,note
-N-1015,N-531,Tim Ballard,topic_band_person_moved,
-N-1017,N-536,Victor Marx,topic_band_person_moved,
-N-1018,N-569,Eileen Marx,topic_band_person_moved,
+N-1015,N-536,Tim Ballard,topic_band_person_moved,
+N-1017,N-569,Victor Marx,topic_band_person_moved,
+N-1018,N-571,Eileen Marx,topic_band_person_moved,
 N-1019,N-570,Corby Hall,topic_band_person_moved,
-N-1028,N-571,Usha Vance,topic_band_person_moved,
-N-2349,N-572,Father Ripperger,topic_band_person_moved,
-N-8,N-573,Melody Hall,ep107_placeholder_person_reminted,
-N-9,N-574,Holly Chalmers,ep107_placeholder_person_reminted,
-N-14,N-575,Victor Marx's son,ep107_placeholder_person_reminted,
-N-15,N-576,Victor Marx's daughter,ep107_placeholder_person_reminted,
-N-18,N-577,Amir Safari,ep107_placeholder_person_reminted,
-,N-578,Gloyce Dean Kennedy,new_person,"ep107 cited ""his stepfather"" with N-3 (Candace Owens); transcript 02:31 and 13:38 names him"
+N-1028,N-578,Usha Vance,topic_band_person_moved,
+N-2349,N-531,Father Ripperger,topic_band_person_moved,
+N-8,N-572,Melody Hall,ep107_placeholder_person_reminted,
+N-9,N-573,Holly Chalmers,ep107_placeholder_person_reminted,
+N-14,N-574,Victor Marx's son,ep107_placeholder_person_reminted,
+N-15,N-575,Victor Marx's daughter,ep107_placeholder_person_reminted,
+N-18,N-576,Amir Safari,ep107_placeholder_person_reminted,
+,N-577,Gloyce Dean Kennedy,new_person,"ep107 cited ""his stepfather"" with N-3 (Candace Owens); transcript 02:31 and 13:38 names him"
 N-448,N-579,Matt Servius,ep161_tombstone_collision_reminted,
 N-449,N-580,Blake Wynn,ep161_tombstone_collision_reminted,
 N-450,N-581,Steve Wynn,ep161_tombstone_collision_reminted,
@@ -25,7 +25,8 @@ N-23,N-1697,Early-Death-Announcement Timeline Verification,collapse,claim-senten
 N-24,N-2384,"45,000 Rescue Claim Discrepancy",collapse,claim-sentence node typed person; re-minted as topic
 N-26,N-1676,"Victor Marx IDF 50,000 Guns Request",collapse,claim-sentence node typed person; collapsed onto existing topic
 N-10,,Kenneth Brining,retired_no_survivor,no grounded citation after Mentions repair
-N-11,,Danny Philip,retired_no_survivor,no grounded citation after Mentions repair
+N-11,N-611,Danny Philip,reminted_at_hole,"Transit fix-all: Danny Philip is grounded on C-3020..C-3022, C-3092, C-3094..C-3096, C-3365; minted at clean hole N-611 (N-11 is an ep000 baseline id)"
 N-12,,Charmaine,retired_no_survivor,no grounded citation after Mentions repair
 N-13,,Debbie,retired_no_survivor,no grounded citation after Mentions repair
 N-19,,Corey Kennedy,retired_no_survivor,no grounded citation after Mentions repair
+,N-587,Kim Kardashian,new_person_hole,Transit fix-all: grounded on C-1706 (ep32) and C-3403 (ep148)

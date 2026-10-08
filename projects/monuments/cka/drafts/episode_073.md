@@ -412,7 +412,7 @@ Claim Timestamp: 00:10:40
 Claim: During a Fox News interview, Erika Kirk stated that Charlie Kirk removed his wedding ring the night before his assassination, left it in the bathroom, and came back the next morning to put it on before leaving.
 
 Anchored Artifacts: A-1775.1
-Mentions: N-2, N-313
+Mentions: N-2
 
 Related Nodes: N-1580
 

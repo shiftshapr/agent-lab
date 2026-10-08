@@ -251,7 +251,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-571",
+            "N-578",
             "N-1000"
           ],
           "tags": [],
@@ -537,8 +537,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-571",
-      "ref": "N-571",
+      "@id": "N-578",
+      "ref": "N-578",
       "name": "Usha Vance",
       "type": "person",
       "description": "Referenced in Erika Kirk op-ed (A-2348) as \"second lady\" and as source of \"15 minutes\" analogy.",
@@ -569,6 +569,26 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-587",
+      "ref": "N-587",
+      "name": "Kim Kardashian",
+      "type": "person",
+      "description": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert.",
+      "related_artifacts": [
+        "A-2349.1"
+      ],
+      "related_claims": [
+        "C-3403"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
       "related_nodes": []
     }
   ],
@@ -699,7 +719,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-4",
-        "N-571"
+        "N-578"
       ]
     },
     {
@@ -718,7 +738,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-4",
-        "N-571"
+        "N-578"
       ]
     },
     {
@@ -771,7 +791,8 @@
       "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue.",
       "mentions_person_refs": [
         "N-56",
-        "N-3"
+        "N-3",
+        "N-587"
       ]
     },
     {

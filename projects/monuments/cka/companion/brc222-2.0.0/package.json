@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-08T04:19:07Z",
+  "generated_at": "2026-10-08T05:00:09Z",
   "cka_root": "/workspace/cka-adv-wave1/projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -20,8 +20,8 @@
   "edge_counts": {
     "contradicts": 18,
     "isCorroboratedBy": 8,
-    "isMemberOf": 6299,
-    "isSupportedBy": 2776
+    "isMemberOf": 6367,
+    "isSupportedBy": 2808
   },
   "revises_candidate_count": 16,
   "nodes": [
@@ -19129,6 +19129,209 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-3719",
+      "label": "Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
+      "node_kind": "claim",
+      "episode": 1
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3720",
+      "label": "Host recommends David Bakan, Shlomo Sand and Abraham Polokoff to viewers",
+      "node_kind": "claim",
+      "episode": 2
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3721",
+      "label": "Host says her genocide tweet referred to Brian Mass remarks",
+      "node_kind": "claim",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3722",
+      "label": "Netanyahu podcast blitz skipped the Charlie Kirk Show",
+      "node_kind": "claim",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3723",
+      "label": "Hamptons attendee ring debate around Sarah Stockton",
+      "node_kind": "claim",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3724",
+      "label": "Viewer comment: Eric Mutosos was the LEO who dealt with Zinn",
+      "node_kind": "claim",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3725",
+      "label": "Jamie Lee Curtis cited as cross-partisan mourner",
+      "node_kind": "claim",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3726",
+      "label": "Host notes Harley Pastnic family was in piping and valves",
+      "node_kind": "claim",
+      "episode": 5
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3727",
+      "label": "Charlie Kirk debated Michael Nolles on Protestant versus Catholic theology",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3728",
+      "label": "Viewer John Heinchell questions the timing of the LGBTQ donation",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3729",
+      "label": "Viewer Jenna V thanks the host for fighting for Charlie Kirk",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3730",
+      "label": "Viewer Tempes says Charlie Kirk lives on",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3731",
+      "label": "Viewer Carl thanks the host for asking questions",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3732",
+      "label": "Viewer Mary Kelly calls the host her Joan of Arc",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3733",
+      "label": "Viewer Milana asks for a homeschool curriculum",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3734",
+      "label": "Viewer Lover of Light asks for personal stories",
+      "node_kind": "claim",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3735",
+      "label": "Corey Comperatore killed at the Butler rally",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3736",
+      "label": "Host invokes C.S. Lewis on scientism",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3737",
+      "label": "Viewer Warwick Spiller corrects the LDS church name",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3738",
+      "label": "Viewer Lighthouse defends Erika Kirk grief response",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3739",
+      "label": "Viewer Reagan asks for education system resources",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3740",
+      "label": "Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3741",
+      "label": "Viewer Aravik praises the host investigations",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3742",
+      "label": "Viewer Brooke Rice shares a quick-engagement family story",
+      "node_kind": "claim",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3743",
+      "label": "Host names Hamptons attendees Natasha Housedorf, Seth Dillon and Josh Hammer",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3744",
+      "label": "Host identifies Marissa Strait in the PragerU video",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3745",
+      "label": "Host credits Taylor Lorent for noting her isolation",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3746",
+      "label": "Host likens signed bullets to Nikki Haley signing bombs",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3747",
+      "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
+      "node_kind": "claim",
+      "episode": 33
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "A-1077",
       "label": "Video and Audio Clip Bundle",
       "node_kind": "artifact",
@@ -20440,6 +20643,13 @@
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1145.2",
       "label": "Comment expressing suspicion re Dr. Frank Turk",
+      "node_kind": "artifact",
+      "episode": 7
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-1145.3",
+      "label": "Comment asking whether Jack Posobiec is trustworthy given his Navy intelligence background, read on air and answered by the host",
       "node_kind": "artifact",
       "episode": 7
     },
@@ -44112,6 +44322,13 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "A-2511.1",
+      "label": "Victor Marx on air citing his documentary film, The Victor Marx Story (transcript: \"The Victor Marc Story\"), on YouTube, in which his sister appears, as corroboration of his childhood abuse account (v",
+      "node_kind": "artifact",
+      "episode": 107
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "A-2512",
       "label": "Victor Marx DD-214 Reference Bundle",
       "node_kind": "artifact",
@@ -44123,6 +44340,265 @@
       "label": "Victor Marx on air citing his DD-214 for three years of Marine Corps service.",
       "node_kind": "artifact",
       "episode": 107
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2513",
+      "label": "FBI Founder Reference Bundle",
+      "node_kind": "artifact",
+      "episode": 39
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2513.1",
+      "label": "Host statement that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 39
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2514",
+      "label": "Trump Sons Suit Gift Anecdote Bundle",
+      "node_kind": "artifact",
+      "episode": 1
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2514.1",
+      "label": "Host anecdote that Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 1
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2515",
+      "label": "Host Reading Recommendations Bundle",
+      "node_kind": "artifact",
+      "episode": 2
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2515.1",
+      "label": "Host reading recommendations: David Bakan, Shlomo Sand and Abraham Polokoff (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 2
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2516",
+      "label": "Host Verbal References and Viewer Comment Bundle",
+      "node_kind": "artifact",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2516.1",
+      "label": "Host statement that her genocide tweet referred to Brian Mass's remarks (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2516.2",
+      "label": "Host statement that Netanyahu appeared on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2516.3",
+      "label": "Host recollection of the Sarah Stockton ring debate among Hamptons attendees (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2516.4",
+      "label": "Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Mutosos, read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2516.5",
+      "label": "Host reference to Jamie Lee Curtis crying over the assassination (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 3
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2517",
+      "label": "Harley Pastnic Genealogy Reference Bundle",
+      "node_kind": "artifact",
+      "episode": 5
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2517.1",
+      "label": "Host genealogy reference to Harley Pastnic's family business in piping and valves (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 5
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518",
+      "label": "Catholic Mass Debate Reference and Viewer Comments Bundle",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.1",
+      "label": "Verbal reference to videos of Charlie Kirk debating Michael Nolles (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.2",
+      "label": "Viewer comment from John Heinchell read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.3",
+      "label": "Viewer comment from Jenna V read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.4",
+      "label": "Viewer comment from Tempes read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.5",
+      "label": "Viewer comment from Carl read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.6",
+      "label": "Viewer comment from Mary Kelly read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.7",
+      "label": "Viewer comment from Milana read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2518.8",
+      "label": "Viewer comment from Lover of Light read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 8
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519",
+      "label": "Host Verbal References and Viewer Comments Bundle",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.1",
+      "label": "Host reference to Corey Comperatore's death at the Butler rally (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.2",
+      "label": "Host reference to C.S. Lewis on scientism (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.3",
+      "label": "Viewer comment from Warwick Spiller read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.4",
+      "label": "Viewer comment from Lighthouse read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.5",
+      "label": "Viewer comment from Reagan read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.6",
+      "label": "Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.7",
+      "label": "Viewer comment from Aravik read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2519.8",
+      "label": "Viewer comment from Brooke Rice read on air (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 9
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2520",
+      "label": "Host Verbal References Bundle",
+      "node_kind": "artifact",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2520.1",
+      "label": "Host statement naming Natasha Housedorf, Seth Dillon and Josh Hammer as Hamptons weekend attendees (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2520.2",
+      "label": "Host identification of Marissa Strait in the PragerU video (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2520.3",
+      "label": "Host shout out to Taylor Lorent (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2520.4",
+      "label": "Host comparison to Nikki Haley signing bombs, in reply to a viewer comment (verbal reference; no displayed artifact)",
+      "node_kind": "artifact",
+      "episode": 10
     }
   ],
   "bridges": [
@@ -45592,6 +46068,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3719",
+      "to": "cka:episode:1",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 1
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3719",
+      "to": "A-2514.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 1
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3630",
       "to": "cka:episode:2",
       "relationship": "isMemberOf",
@@ -45970,6 +46462,22 @@
       "@type": "OrdinalBridge",
       "from": "C-1143",
       "to": "A-1090.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3720",
+      "to": "cka:episode:2",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3720",
+      "to": "A-2515.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 2
@@ -46444,6 +46952,86 @@
       "to": "cka:episode:3",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3721",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3721",
+      "to": "A-2516.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3722",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3722",
+      "to": "A-2516.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3723",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3723",
+      "to": "A-2516.3",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3724",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3724",
+      "to": "A-2516.4",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3725",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3725",
+      "to": "A-2516.5",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
       "episode": 3
     },
     {
@@ -47060,6 +47648,22 @@
       "to": "C-1200",
       "relationship": "contradicts",
       "explanation": "Airing opposes or is inconsistent with other claim",
+      "episode": 5
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3726",
+      "to": "cka:episode:5",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 5
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3726",
+      "to": "A-2517.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
       "episode": 5
     },
     {
@@ -47760,6 +48364,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3717",
+      "to": "A-1145.3",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 7
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1245",
       "to": "cka:episode:8",
       "relationship": "isMemberOf",
@@ -48104,6 +48716,134 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3727",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3727",
+      "to": "A-2518.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3728",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3728",
+      "to": "A-2518.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3729",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3729",
+      "to": "A-2518.3",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3730",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3730",
+      "to": "A-2518.4",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3731",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3731",
+      "to": "A-2518.5",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3732",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3732",
+      "to": "A-2518.6",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3733",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3733",
+      "to": "A-2518.7",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3734",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3734",
+      "to": "A-2518.8",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1267",
       "to": "cka:episode:9",
       "relationship": "isMemberOf",
@@ -48352,6 +49092,134 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3735",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3735",
+      "to": "A-2519.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3736",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3736",
+      "to": "A-2519.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "A-2519.3",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "A-2519.4",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "A-2519.5",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3740",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3740",
+      "to": "A-2519.6",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3741",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3741",
+      "to": "A-2519.7",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3742",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3742",
+      "to": "A-2519.8",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3632",
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
@@ -48564,6 +49432,70 @@
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3743",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3743",
+      "to": "A-2520.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3744",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3744",
+      "to": "A-2520.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3745",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3745",
+      "to": "A-2520.3",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3746",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3746",
+      "to": "A-2520.4",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
       "episode": 10
     },
     {
@@ -55752,6 +56684,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3747",
+      "to": "cka:episode:33",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 33
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3747",
+      "to": "A-1424.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 33
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1735",
       "to": "cka:episode:34",
       "relationship": "isMemberOf",
@@ -57116,6 +58064,14 @@
       "to": "cka:episode:39",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",
+      "episode": 39
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3718",
+      "to": "A-2513.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
       "episode": 39
     },
     {
@@ -75288,6 +76244,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3709",
+      "to": "A-2511.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 107
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3710",
       "to": "cka:episode:107",
       "relationship": "isMemberOf",
@@ -88480,6 +89444,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-2514",
+      "to": "cka:episode:1",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 1
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2514.1",
+      "to": "cka:episode:1",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 1
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-1081",
       "to": "cka:episode:2",
       "relationship": "isMemberOf",
@@ -88752,6 +89732,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-2515",
+      "to": "cka:episode:2",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2515.1",
+      "to": "cka:episode:2",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-1095",
       "to": "cka:episode:3",
       "relationship": "isMemberOf",
@@ -88953,6 +89949,54 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-1103.1",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2516",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2516.1",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2516.2",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2516.3",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2516.4",
+      "to": "cka:episode:3",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 3
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2516.5",
       "to": "cka:episode:3",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -89345,6 +90389,22 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-1119.1",
+      "to": "cka:episode:5",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 5
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2517",
+      "to": "cka:episode:5",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 5
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2517.1",
       "to": "cka:episode:5",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -89872,6 +90932,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-1145.3",
+      "to": "cka:episode:7",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 7
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-1146",
       "to": "cka:episode:8",
       "relationship": "isMemberOf",
@@ -90064,6 +91132,78 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-2518",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.1",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.2",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.3",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.4",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.5",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.6",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.7",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2518.8",
+      "to": "cka:episode:8",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 8
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-1155",
       "to": "cka:episode:9",
       "relationship": "isMemberOf",
@@ -90201,6 +91341,78 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-1161.1",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.1",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.2",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.3",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.4",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.5",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.6",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.7",
+      "to": "cka:episode:9",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 9
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2519.8",
       "to": "cka:episode:9",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -90385,6 +91597,46 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-1170.1",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2520",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2520.1",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2520.2",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2520.3",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2520.4",
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -96713,6 +97965,22 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-1488.1",
+      "to": "cka:episode:39",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 39
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2513",
+      "to": "cka:episode:39",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 39
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2513.1",
       "to": "cka:episode:39",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -108433,6 +109701,14 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-2511",
+      "to": "cka:episode:107",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 107
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2511.1",
       "to": "cka:episode:107",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",

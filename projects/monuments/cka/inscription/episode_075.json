@@ -382,8 +382,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-572",
-      "ref": "N-572",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Father Ripperger",
       "type": "person",
       "description": "Catholic priest whose audio clip on \"the revealing of the method\" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.",
@@ -556,7 +556,7 @@
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt.",
       "mentions_person_refs": [
-        "N-572"
+        "N-531"
       ]
     },
     {
@@ -758,7 +758,6 @@
       "claim_timestamp": "00:48:30",
       "investigative_direction": "Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.",
       "mentions_person_refs": [
-        "N-2",
         "N-5"
       ]
     },

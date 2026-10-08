@@ -45,7 +45,7 @@ P1,33,C-1728,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anyw
 EXTRA,38,C-1799,Mentions,N-5,Donald Trump,Brigitte Macron,REPLACE,N-117,Brigitte Macron,named in claim text
 P1,38,C-1799,Mentions,N-8,Melody Hall,Volodymyr Zelensky (no CKA node),REMOVE,,,local placeholder id; person has no CKA node or is not a person
 EXTRA,38,C-1798,Mentions,N-5,Donald Trump,Brigitte Macron,REPLACE,N-117,Brigitte Macron,named in claim text
-EXTRA,38,C-1784,Mentions,N-5,Donald Trump,Brigitte Macron,REMOVE,,,local placeholder id; person has no CKA node or is not a person
+EXTRA,38,C-1784,Mentions,N-5,Donald Trump,Brigitte Macron,REMOVE,,,"Brigitte Macron has a CKA node (N-117) but is not named in this claim (French Ministry statement on Tyler Robinson); she stays on the A-1475 artifacts, so the placeholder is removed rather than retargeted"
 P1,38,C-1784,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Tyler Robinson,REPLACE,N-69,Tyler Robinson,named in claim text
 P1,38,C-1781,Mentions,N-4,JD Vance,"Emmanuel Macron (""the Macrons"")",REPLACE,N-898,Emmanuel Macron,named in claim text
 EXTRA,38,C-1781,Mentions,N-5,Donald Trump,Brigitte Macron,REPLACE,N-117,Brigitte Macron,named in claim text
@@ -84,17 +84,17 @@ PHASE_B,75,C-3579,Related Nodes,N-1009,Charlie Kirk - referenced throughout time
 PHASE_B,75,C-3578,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
 PHASE_B,75,C-3577,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 35:06
 PHASE_B,75,C-3576,Related Nodes,N-1009,Charlie Kirk - referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
-PHASE_B,75,C-3570,Related Nodes,N-2349,Father Ripperger,Father Ripperger,MOVE_TO_MENTIONS,N-572,Father Ripperger,named in claim text
+PHASE_B,75,C-3570,Related Nodes,N-2349,Father Ripperger,Father Ripperger,MOVE_TO_MENTIONS,N-531,Father Ripperger,named in claim text
 P1,78,C-2467,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 EXTRA,92,C-2742,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 32:09
 EXTRA,92,C-2741,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in claim text
-EXTRA,92,C-2736,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-536,Victor Marx,named in claim text
-PHASE_B,92,C-2736,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-531 (Tim Ballard) not named in claim or within +-4 min
-EXTRA,92,C-2735,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-536,Victor Marx,named in claim text
-PHASE_B,92,C-2735,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-531 (Tim Ballard) not named in claim or within +-4 min
+EXTRA,92,C-2736,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-569,Victor Marx,named in claim text
+PHASE_B,92,C-2736,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
+EXTRA,92,C-2735,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-569,Victor Marx,named in claim text
+PHASE_B,92,C-2735,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
 PHASE_B,92,C-2735,Mentions,,,,ADD,N-570,Corby Hall,named in claim text
-EXTRA,92,C-2734,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-536,Victor Marx,named in claim text
-PHASE_B,92,C-2734,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-531 (Tim Ballard) not named in claim or within +-4 min
+EXTRA,92,C-2734,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-569,Victor Marx,named in claim text
+PHASE_B,92,C-2734,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
 EXTRA,92,C-2732,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 16:03
 EXTRA,92,C-2730,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 16:03
 EXTRA,92,C-2727,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 07:17
@@ -122,9 +122,9 @@ P1,96,C-2791,Mentions,N-11,Danny Philip,Cole Allen (no CKA node),REMOVE,,,local 
 P1,96,C-2790,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Donald Trump,REPLACE,N-5,Donald Trump,named in claim text
 P1,102,C-2886,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (Tyler Bowyer) already tagged (named in claim text)
 EXTRA,120,C-2940,Mentions,N-4,JD Vance,Tyler Robinson (register: defendant in preliminary hearing),REPLACE,N-69,Tyler Robinson,named in claim text
-EXTRA,120,C-2940,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Lance Twiggs (no CKA node),REMOVE,,,local placeholder id; person has no CKA node or is not a person
+EXTRA,120,C-2940,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Lance Twiggs (transcript spelling of N-84 Lance Twigs),REPLACE,N-84,Lance Twigs,named in claim text; canonical N-84 Lance Twigs (alias Lance Twiggs added)
 EXTRA,120,C-2939,Mentions,N-4,JD Vance,Tyler Robinson (register: defendant in preliminary hearing),REPLACE,N-69,Tyler Robinson,named in transcript at 22:45
-EXTRA,120,C-2939,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Lance Twiggs (no CKA node),REMOVE,,,local placeholder id; person has no CKA node or is not a person
+EXTRA,120,C-2939,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Lance Twiggs (transcript spelling of N-84 Lance Twigs),REPLACE,N-84,Lance Twigs,named in claim text; canonical N-84 Lance Twigs (alias Lance Twiggs added)
 P1,130,C-3114,Mentions,N-11,Danny Philip,Blake Neff,REPLACE,N-224,Blake Neff,named in claim text
 P1,130,C-3113,Mentions,N-8,Melody Hall,Andrew Kolvet,REPLACE,N-42,Andrew Kolvet,named in claim text
 P1,130,C-3112,Mentions,N-8,Melody Hall,Andrew Kolvet,REPLACE,N-42,Andrew Kolvet,named in claim text
@@ -139,13 +139,13 @@ P1,143,C-3302,Mentions,N-9,Holly Chalmers,Terrell Farnsworth (camera operator),R
 P1,148,C-3405,Mentions,N-18,Amir Safari,Salem Media (organization),REMOVE,,,local placeholder id; person has no CKA node or is not a person
 P1,148,C-3404,Mentions,N-8,Melody Hall,New York Times (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
 EXTRA,148,C-3403,Mentions,N-5,Donald Trump,Kanye West / Ye (legend),REPLACE,N-56,Kanye West,named in claim text
-P1,148,C-3403,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Kim Kardashian (no CKA node),REMOVE,,,local placeholder id; person has no CKA node or is not a person
+P1,148,C-3403,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Kim Kardashian,REPLACE,N-587,Kim Kardashian,named in claim text; new person N-587 minted at a clean hole
 PHASE_B,148,C-3403,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
 EXTRA,148,C-3402,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),REMOVE,,,local placeholder id with no CKA node
 EXTRA,148,C-3400,Mentions,N-16,Frank Turek,JD Vance (legend),REPLACE,N-4,JD Vance,named in transcript at 43:25
-PHASE_B,148,C-3400,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-571,Usha Vance,named in claim text
+PHASE_B,148,C-3400,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-578,Usha Vance,named in claim text
 EXTRA,148,C-3399,Mentions,N-16,Frank Turek,JD Vance (legend),REPLACE,N-4,JD Vance,named in transcript at 43:25
-PHASE_B,148,C-3399,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-571,Usha Vance,named in claim text
+PHASE_B,148,C-3399,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-578,Usha Vance,named in claim text
 P1,148,C-3398,Mentions,N-8,Melody Hall,New York Times (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
 EXTRA,148,C-3397,Mentions,N-4,JD Vance,Blake Neff (legend line 36),REPLACE,N-224,Blake Neff,named in claim text
 PHASE_B,148,C-3397,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
@@ -200,38 +200,260 @@ ORPHAN_FIX,9,C-1277,Mentions,,,,ADD,N-155,Margarethe Schurz,"transcript 18:16 ""
 ORPHAN_FIX,7,C-3717 (new),Mentions,,,,ADD,N-130,Jack Posobiec,"new transcript-driven claim at 49:00 (""Jack Bobic"", ASR) so the person keeps a grounded cite after the wrong C-1228 cite was removed"
 ORPHAN_FIX,39,C-3718 (new),Mentions,,,,ADD,N-462,Charles Joseph Bonaparte,"new transcript-driven claim at 03:44 (""Charles Joseph Bonapart"", ASR) so the person keeps a grounded cite after the wrong C-1812 cite was removed"
 EP107,107,C-3702 (was C-1000),Mentions,N-23,Charlie Kirk Death Announcement Timeline,,MOVE_TO_RELATED,N-1697,Early-Death-Announcement Timeline Verification,claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3702 (was C-1000),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3702 (was C-1000),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3702 (was C-1000),Mentions,,,,ADD,N-1,Charlie Kirk,named in claim text (Charlie Kirk)
-EP107,107,C-3703 (was C-1001),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3703 (was C-1001),Related Nodes,N-1018,Eileen Marx,,MOVE_TO_MENTIONS,N-569,Eileen Marx,"named in claim text (""his wife Eileen""; moved from Related Nodes N-1018)"
+EP107,107,C-3703 (was C-1001),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3703 (was C-1001),Related Nodes,N-1018,Eileen Marx,,MOVE_TO_MENTIONS,N-571,Eileen Marx,"named in claim text (""his wife Eileen""; moved from Related Nodes N-1018)"
 EP107,107,C-3703 (was C-1001),Mentions,,,,ADD,N-2,Erika Kirk,named in claim text (Erika Kirk's home); transcript 01:24
-EP107,107,C-3704 (was C-1002),Mentions,N-3,Candace Owens,stepfather (N-3 is Candace Owens),REPLACE,N-578,Gloyce Dean Kennedy,"claim names ""his stepfather""; transcript 02:31 names stepfather Gloyce Dean Kennedy (replaces wrong N-3)"
-EP107,107,C-3704 (was C-1002),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3705 (was C-1003),Mentions,N-9,Holly Chalmers,,REPLACE,N-574,Holly Chalmers,named in claim text (was ep107 placeholder N-9)
-EP107,107,C-3705 (was C-1003),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3706 (was C-1004),Mentions,N-15,Victor Marx's daughter,,REPLACE,N-576,Victor Marx's daughter,named in claim text (was ep107 placeholder N-15)
-EP107,107,C-3706 (was C-1004),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3706 (was C-1004),Mentions,,,,ADD,N-575,Victor Marx's son,transcript 11:03 same passage: Victor Marx's son wrote the board letter the daughter's post describes
-EP107,107,C-3707 (was C-1005),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3704 (was C-1002),Mentions,N-3,Candace Owens,stepfather (N-3 is Candace Owens),REPLACE,N-577,Gloyce Dean Kennedy,"claim names ""his stepfather""; transcript 02:31 names stepfather Gloyce Dean Kennedy (replaces wrong N-3)"
+EP107,107,C-3704 (was C-1002),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3705 (was C-1003),Mentions,N-9,Holly Chalmers,,REPLACE,N-573,Holly Chalmers,named in claim text (was ep107 placeholder N-9)
+EP107,107,C-3705 (was C-1003),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3706 (was C-1004),Mentions,N-15,Victor Marx's daughter,,REPLACE,N-575,Victor Marx's daughter,named in claim text (was ep107 placeholder N-15)
+EP107,107,C-3706 (was C-1004),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3706 (was C-1004),Mentions,,,,ADD,N-574,Victor Marx's son,transcript 11:03 same passage: Victor Marx's son wrote the board letter the daughter's post describes
+EP107,107,C-3707 (was C-1005),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3708 (was C-1006),Mentions,N-24,"45,000 Rescue Claim Discrepancy",,MOVE_TO_RELATED,N-2384,"45,000 Rescue Claim Discrepancy",claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3708 (was C-1006),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3709 (was C-1007),Mentions,N-3,Candace Owens,stepfather (N-3 is Candace Owens),REPLACE,N-578,Gloyce Dean Kennedy,"cat narrative about the stepfather; transcript 13:38 names ""his stepfather, Gloyce"" (replaces wrong N-3)"
-EP107,107,C-3709 (was C-1007),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3708 (was C-1006),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3709 (was C-1007),Mentions,N-3,Candace Owens,stepfather (N-3 is Candace Owens),REPLACE,N-577,Gloyce Dean Kennedy,"cat narrative about the stepfather; transcript 13:38 names ""his stepfather, Gloyce"" (replaces wrong N-3)"
+EP107,107,C-3709 (was C-1007),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3709 (was C-1007),Mentions,,,,ADD,N-570,Corby Hall,"transcript 16:54: Candace raises ""the latest accusations by your last guest, Corby"" immediately before the question"
-EP107,107,C-3710 (was C-1008),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3711 (was C-1009),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3710 (was C-1008),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3711 (was C-1009),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3711 (was C-1009),Related Nodes,N-1018,Eileen Marx,,REMOVE,,,"not named in claim text; Eileen is named at 50:07, outside the +-240 s window of this 42:11 claim"
 EP107,107,C-3711 (was C-1009),Mentions,,,,ADD,N-1,Charlie Kirk,named in claim text (Charlie Kirk); transcript 42:11
-EP107,107,C-3711 (was C-1009),Mentions,,,,ADD,N-573,Melody Hall,"transcript 41:09 same prayer exchange: ""Corby's wife, Melody"""
+EP107,107,C-3711 (was C-1009),Mentions,,,,ADD,N-572,Melody Hall,"transcript 41:09 same prayer exchange: ""Corby's wife, Melody"""
 EP107,107,C-3712 (was C-1010),Mentions,N-26,Victor Marx IDF Arms Deal Allegations,,MOVE_TO_RELATED,N-1676,"Victor Marx IDF 50,000 Guns Request",claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3712 (was C-1010),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3712 (was C-1010),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3713 (was C-1011),Mentions,N-23,Charlie Kirk Death Announcement Timeline,,MOVE_TO_RELATED,N-1697,Early-Death-Announcement Timeline Verification,claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3713 (was C-1011),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3713 (was C-1011),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-1,Charlie Kirk,named in claim text (Charlie Kirk shooting video)
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-16,Frank Turek,"transcript 46:02 same answer: ""Of course, I know Frank Turek"""
-EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-577,Amir Safari,"transcript 47:56 follow-up on early posters: ""Jack Hibbs, Amir Safari"""
+EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-576,Amir Safari,"transcript 47:56 follow-up on early posters: ""Jack Hibbs, Amir Safari"""
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-309,Jack Hibbs,"transcript 47:56 follow-up on early posters: ""Jack Hibbs, Amir Safari"""
-EP107,107,C-3714 (was C-1012),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
-EP107,107,C-3715 (was C-1013),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3714 (was C-1012),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3715 (was C-1013),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3716 (was C-1014),Mentions,N-24,"45,000 Rescue Claim Discrepancy",,MOVE_TO_RELATED,N-2384,"45,000 Rescue Claim Discrepancy",claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3716 (was C-1014),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-536,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3716 (was C-1014),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+TRANSIT_FIXALL,15,C-1377,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,16,C-1397,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,18,C-1455,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,18,C-1456,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,67,C-2268,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,67,C-2269,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,99,C-2867,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
+TRANSIT_FIXALL,99,C-2874,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in transcript at 21:45
+TRANSIT_FIXALL,13,C-1348,Mentions,N-200,Unidentified Lyman-Family Woman (Shainer's aunt),Megyn Kelly,REPLACE,N-75,Megyn Kelly,named in claim text
+TRANSIT_FIXALL,54,C-2027,Mentions,N-70,Spencer Cox,Spencer Cox (never named in ep54),REMOVE,,,ep54 transcript never names Cox; no CKA person node
+TRANSIT_FIXALL,26,C-1609,Related Nodes,N-1000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+TRANSIT_FIXALL,26,C-1610,Related Nodes,N-1000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 37:39
+TRANSIT_FIXALL,26,C-1615,Related Nodes,N-1000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+TRANSIT_FIXALL,33,C-1724,Mentions,N-349,Allie Beth Stuckey,Tucker Carlson (ep33 legend),REPLACE,N-50,Tucker Carlson,named in claim text
+TRANSIT_FIXALL,85,C-2595,Related Nodes,N-1211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
+TRANSIT_FIXALL,85,C-2596,Related Nodes,N-1211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
+TRANSIT_FIXALL,85,C-2597,Related Nodes,N-1211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
+TRANSIT_FIXALL,99,C-2858,Related Nodes,N-1219,"""Robbie Hild"" Identity Verification",Baron Coleman,MOVE_TO_MENTIONS,N-552,Baron Coleman,named in claim text
+TRANSIT_FIXALL,99,C-2868,Related Nodes,N-1212,Phil Lyman Location Discrepancy,Donald Trump Jr.,MOVE_TO_MENTIONS,N-62,Donald Trump Jr. (Don Jr.),named in claim text
+TRANSIT_FIXALL,99,C-2868,Related Nodes,N-1220,Case-Personnel Cluster Anomalies,Lara Trump,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2869,Related Nodes,N-1212,Phil Lyman Location Discrepancy,Donald Trump Jr.,MOVE_TO_MENTIONS,N-62,Donald Trump Jr. (Don Jr.),named in claim text
+TRANSIT_FIXALL,99,C-2870,Related Nodes,N-1211,UVU Campus Familiarity Question,Pam Bondi,MOVE_TO_MENTIONS,N-120,Pam Bondi,named in claim text
+TRANSIT_FIXALL,99,C-2870,Related Nodes,N-1214,Charlie Kirk Pre-Mortem Israel Position Claim,Ian Carroll,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2871,Related Nodes,N-1211,UVU Campus Familiarity Question,Pam Bondi,MOVE_TO_MENTIONS,N-120,Pam Bondi,named in transcript at 32:23
+TRANSIT_FIXALL,99,C-2872,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,Harmeet Dhillon,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2873,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,Harmeet Dhillon,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2877,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2877,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2878,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2879,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2881,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2881,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2881,Related Nodes,N-1218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in transcript at 48:28
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3154,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3155,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3156,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3156,Related Nodes,N-1211,UVU Campus Familiarity Question,Jean-Luc Brunel (ep133 legend),MOVE_TO_MENTIONS,N-853,Jean-Luc Brunel,named in claim text
+TRANSIT_FIXALL,134,C-3168,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,Lisa Knows (ep134 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,144,C-3315,Related Nodes,N-1215,Hospital Routing Discrepancy,David Hull,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,144,C-3316,Related Nodes,N-1215,Hospital Routing Discrepancy,David Hull,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,144,C-3321,Related Nodes,N-1211,UVU Campus Familiarity Question,Blake Neff,MOVE_TO_MENTIONS,N-224,Blake Neff,named in claim text
+TRANSIT_FIXALL,144,C-3322,Related Nodes,N-1211,UVU Campus Familiarity Question,Blake Neff,MOVE_TO_MENTIONS,N-224,Blake Neff,named in claim text
+TRANSIT_FIXALL,144,C-3323,Related Nodes,N-1211,UVU Campus Familiarity Question,Blake Neff,REMOVE,,,Blake Neff (N-224) not named in claim or within +-4 min
+TRANSIT_FIXALL,144,C-3323,Related Nodes,N-1216,Utah FBI Personnel Replacement,Charlie Kirk,MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+TRANSIT_FIXALL,144,C-3325,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Erica Kirk,MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+TRANSIT_FIXALL,32,C-1706,Mentions,,,Kim Kardashian,ADD,N-587,,named in claim text; new person N-587 minted at a clean hole
+TRANSIT_FIXALL,125,C-3020,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,125,C-3021,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,125,C-3022,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,129,C-3092,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,129,C-3094,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,129,C-3095,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,129,C-3096,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_FIXALL,147,C-3365,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
+TRANSIT_WINDOW,1,C-1115,Mentions,N-60,Rush Limbaugh,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 495s away)
+TRANSIT_WINDOW,1,C-1115,Mentions,N-62,Donald Trump Jr. (Don Jr.),,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 505s away)
+TRANSIT_WINDOW,1,C-1115,Mentions,N-63,Eric Trump,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 505s away)
+TRANSIT_WINDOW,1,C-1123,Mentions,N-60,Rush Limbaugh,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 663s away)
+TRANSIT_WINDOW,2,C-3630,Mentions,N-71,George Zinn,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2604s away)
+TRANSIT_WINDOW,2,C-3630,Mentions,N-74,Matt Gutman,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2963s away)
+TRANSIT_WINDOW,2,C-3630,Mentions,N-80,Sigmund Freud,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3657s away)
+TRANSIT_WINDOW,2,C-3630,Mentions,N-81,David Bakan,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3690s away)
+TRANSIT_WINDOW,2,C-3630,Mentions,N-82,Shlomo Sand,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3718s away)
+TRANSIT_WINDOW,2,C-3630,Mentions,N-83,Abraham Polokoff,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3969s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-61,Dave Rubin,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1994s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-68,Dave Smith,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1994s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-88,Patrick Bet-David,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3027s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-89,Brendan Tatum,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3032s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-90,Nelk Boys,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3032s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-92,Phil Lyman,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3887s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-93,Eric Mutosos,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3887s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-94,Sarah Stockton,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3177s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-95,Brian Mass,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2919s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-96,Jamie Lee Curtis,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 4066s away)
+TRANSIT_WINDOW,3,C-1144,Mentions,N-99,Skyler,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 3257s away)
+TRANSIT_WINDOW,3,C-1150,Mentions,N-59,George (Candace's husband),,REMOVE,,,"the husband in the claim is Robinson's father, not Candace's husband George"
+TRANSIT_WINDOW,3,C-1160,Mentions,N-87,Aaron Wexler,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1154s away)
+TRANSIT_WINDOW,4,C-1175,Mentions,N-68,Dave Smith,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2193s away)
+TRANSIT_WINDOW,4,C-1185,Mentions,N-67,Seth Dillon,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 668s away)
+TRANSIT_WINDOW,4,C-1185,Mentions,N-86,Josh Hammer,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 521s away)
+TRANSIT_WINDOW,5,C-1186,Mentions,N-115,Harley Pastnic,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 554s away)
+TRANSIT_WINDOW,6,C-1205,Mentions,N-50,Tucker Carlson,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1782s away)
+TRANSIT_WINDOW,6,C-1205,Mentions,N-75,Megyn Kelly,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1782s away)
+TRANSIT_WINDOW,6,C-1205,Mentions,N-107,Eric Bowling,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1006s away)
+TRANSIT_WINDOW,6,C-1205,Mentions,N-115,Harley Pastnic,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 702s away)
+TRANSIT_WINDOW,7,C-1228,Mentions,N-66,Bill Ackman,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1723s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-138,Michael Nolles,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1441s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-139,John Heinchell,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2611s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-140,Jenna V,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2699s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-141,Tempes,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2794s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-142,Carl,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2833s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-143,Mary Kelly,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2864s away)
+TRANSIT_WINDOW,8,C-1245,Mentions,N-146,Milana,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2971s away)
+TRANSIT_WINDOW,8,C-1254,Mentions,N-147,Lover of Light,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1099s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-5,Donald Trump,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 512s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-80,Sigmund Freud,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1992s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-149,Corey Comperatore,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 523s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-156,C.S. Lewis,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1503s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-158,Warwick Spiller,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1791s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-160,Reagan (commenter),,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1931s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-161,Recovery Recon (commenter),,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1962s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-162,Aravik (commenter),,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2027s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-163,Lighthouse (commenter),,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1817s away)
+TRANSIT_WINDOW,9,C-1267,Mentions,N-164,Brooke Rice (commenter),,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 2061s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-42,Andrew Kolvet,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 921s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-67,Seth Dillon,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1236s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-75,Megyn Kelly,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 709s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-86,Josh Hammer,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1236s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-91,Laura Loomer,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1169s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-167,Natasha Housedorf,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1242s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-168,Marissa Strait,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 1057s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-171,Taylor Lorent,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 814s away)
+TRANSIT_WINDOW,10,C-3632,Mentions,N-175,Nikki Haley,,REMOVE,,,not named in claim text or in the transcript within +-480s of the claim timestamp (nearest mention 963s away)
+TRANSIT_WINDOW,13,C-1337,Mentions,N-183,Shainer Broderick,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 406s away)
+TRANSIT_WINDOW,16,C-1396,Mentions,N-91,Laura Loomer,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 270s away)
+TRANSIT_WINDOW,17,C-1408,Mentions,N-91,Laura Loomer,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 3915s away)
+TRANSIT_WINDOW,22,C-1532,Mentions,N-50,Tucker Carlson,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 620s away)
+TRANSIT_WINDOW,23,C-1545,Mentions,N-302,Sean Feucht,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 243s away)
+TRANSIT_WINDOW,23,C-1545,Mentions,N-310,Joe Kent,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1157s away)
+TRANSIT_WINDOW,23,C-1546,Mentions,N-310,Joe Kent,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 914s away)
+TRANSIT_WINDOW,24,C-1580,Mentions,N-228,Matt Walsh,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1528s away)
+TRANSIT_WINDOW,26,C-1613,Mentions,N-340,Zohran Mamdani,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 2515s away)
+TRANSIT_WINDOW,33,C-1724,Mentions,N-414,Andrew K. Smith,Andrew Kolvet (named in claim),REPLACE,N-42,Andrew Kolvet,named in claim text; wrong person surfaced by windowed grounding
+TRANSIT_WINDOW,33,C-1730,Mentions,N-412,Baker Tilly (Accounting Firm),,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 360s away)
+TRANSIT_WINDOW,39,C-1814,Mentions,N-264,Stacy Sheridan,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 894s away)
+TRANSIT_WINDOW,39,C-1814,Mentions,N-476,Bill Aman,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 461s away)
+TRANSIT_WINDOW,39,C-1815,Mentions,N-264,Stacy Sheridan,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1019s away)
+TRANSIT_WINDOW,39,C-1816,Mentions,N-264,Stacy Sheridan,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1118s away)
+TRANSIT_WINDOW,39,C-1817,Mentions,N-264,Stacy Sheridan,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 2018s away)
+TRANSIT_WINDOW,41,C-1836,Mentions,N-483,Wed Mahmoud,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 698s away)
+TRANSIT_WINDOW,42,C-1844,Mentions,N-491,Adam Bartholomew,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 327s away)
+TRANSIT_WINDOW,43,C-1863,Mentions,N-217,John Mappin,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 2180s away)
+TRANSIT_WINDOW,43,C-1879,Mentions,N-434,Dan Flood,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1058s away)
+TRANSIT_WINDOW,46,C-1923,Mentions,N-69,Tyler Robinson,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1320s away)
+TRANSIT_WINDOW,47,C-1924,Mentions,N-75,Megyn Kelly,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 3256s away)
+TRANSIT_WINDOW,47,C-1926,Mentions,N-326,Eliza McCoy,Andrew Kolvet (named in claim),REPLACE,N-42,Andrew Kolvet,named in claim text; wrong person surfaced by windowed grounding
+TRANSIT_WINDOW,47,C-1927,Mentions,N-45,Rob McCoy,Dan Flood (named in claim),REPLACE,N-434,Dan Flood,named in claim text; wrong person surfaced by windowed grounding
+TRANSIT_WINDOW,47,C-1940,Mentions,N-102,Kash Patel,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 2811s away)
+TRANSIT_WINDOW,57,C-2097,Mentions,N-724,Bill Montgomery,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 612s away)
+TRANSIT_WINDOW,64,C-2206,Mentions,N-797,Teo Farnsworth,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 458s away)
+TRANSIT_WINDOW,65,C-2229,Mentions,N-45,Rob McCoy,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 3628s away)
+TRANSIT_WINDOW,67,C-2264,Mentions,N-867,Todd Blanche,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 306s away)
+TRANSIT_WINDOW,69,C-2300,Mentions,N-45,Rob McCoy,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 1089s away)
+TRANSIT_WINDOW,73,C-2368,Mentions,N-313,Jesse Watters,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 312s away)
+TRANSIT_WINDOW,74,C-2392,Mentions,N-272,Mikey McCoy,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 274s away)
+TRANSIT_WINDOW,75,C-3582,Mentions,N-2,Erika Kirk,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 424s away)
+TRANSIT_WINDOW,79,C-2487,Mentions,N-5,Donald Trump,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 344s away)
+TRANSIT_WINDOW,98,C-2834,Mentions,N-1,Charlie Kirk,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 639s away)
+TRANSIT_WINDOW,98,C-2835,Mentions,N-1,Charlie Kirk,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 639s away)
+TRANSIT_WINDOW,98,C-2836,Mentions,N-1,Charlie Kirk,,REMOVE,,,not named in claim text or in the transcript within +-240s of the claim timestamp (nearest mention 639s away)
+TRANSIT_WINDOW,1,C-3719,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3719 anchored to A-2514.1; named in claim text and transcript at 00:08:10
+TRANSIT_WINDOW,1,C-3719,Mentions,,,,ADD,N-62,Donald Trump Jr. (Don Jr.),new transcript-driven claim C-3719 anchored to A-2514.1; named in claim text and transcript at 00:08:10
+TRANSIT_WINDOW,1,C-3719,Mentions,,,,ADD,N-63,Eric Trump,register orphan after windowed grounding; new transcript-driven claim C-3719 anchored to A-2514.1; named in claim text and transcript at 00:08:10
+TRANSIT_WINDOW,2,C-3720,Mentions,,,,ADD,N-80,Sigmund Freud,new transcript-driven claim C-3720 anchored to A-2515.1; named in claim text and transcript at 01:02:29
+TRANSIT_WINDOW,2,C-3720,Mentions,,,,ADD,N-81,David Bakan,register orphan after windowed grounding; new transcript-driven claim C-3720 anchored to A-2515.1; named in claim text and transcript at 01:02:29
+TRANSIT_WINDOW,2,C-3720,Mentions,,,,ADD,N-82,Shlomo Sand,register orphan after windowed grounding; new transcript-driven claim C-3720 anchored to A-2515.1; named in claim text and transcript at 01:02:29
+TRANSIT_WINDOW,2,C-3720,Mentions,,,,ADD,N-83,Abraham Polokoff,register orphan after windowed grounding; new transcript-driven claim C-3720 anchored to A-2515.1; named in claim text and transcript at 01:02:29
+TRANSIT_WINDOW,3,C-3721,Mentions,,,,ADD,N-95,Brian Mass,register orphan after windowed grounding; new transcript-driven claim C-3721 anchored to A-2516.1; named in claim text and transcript at 00:56:16
+TRANSIT_WINDOW,3,C-3722,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3722 anchored to A-2516.2; named in claim text and transcript at 00:58:04
+TRANSIT_WINDOW,3,C-3722,Mentions,,,,ADD,N-65,Benjamin Netanyahu,new transcript-driven claim C-3722 anchored to A-2516.2; named in claim text and transcript at 00:58:04
+TRANSIT_WINDOW,3,C-3722,Mentions,,,,ADD,N-88,Patrick Bet-David,new transcript-driven claim C-3722 anchored to A-2516.2; named in claim text and transcript at 00:58:04
+TRANSIT_WINDOW,3,C-3722,Mentions,,,,ADD,N-89,Brendan Tatum,register orphan after windowed grounding; new transcript-driven claim C-3722 anchored to A-2516.2; named in claim text and transcript at 00:58:04
+TRANSIT_WINDOW,3,C-3722,Mentions,,,,ADD,N-90,Nelk Boys,register orphan after windowed grounding; new transcript-driven claim C-3722 anchored to A-2516.2; named in claim text and transcript at 00:58:04
+TRANSIT_WINDOW,3,C-3723,Mentions,,,,ADD,N-94,Sarah Stockton,register orphan after windowed grounding; new transcript-driven claim C-3723 anchored to A-2516.3; named in claim text and transcript at 01:00:30
+TRANSIT_WINDOW,3,C-3724,Mentions,,,,ADD,N-70,Spencer Cox,new transcript-driven claim C-3724 anchored to A-2516.4; named in claim text and transcript at 01:12:24
+TRANSIT_WINDOW,3,C-3724,Mentions,,,,ADD,N-71,George Zinn,new transcript-driven claim C-3724 anchored to A-2516.4; named in claim text and transcript at 01:12:24
+TRANSIT_WINDOW,3,C-3724,Mentions,,,,ADD,N-92,Phil Lyman,new transcript-driven claim C-3724 anchored to A-2516.4; named in claim text and transcript at 01:12:24
+TRANSIT_WINDOW,3,C-3724,Mentions,,,,ADD,N-93,Eric Mutosos,register orphan after windowed grounding; new transcript-driven claim C-3724 anchored to A-2516.4; named in claim text and transcript at 01:12:24
+TRANSIT_WINDOW,3,C-3725,Mentions,,,,ADD,N-96,Jamie Lee Curtis,register orphan after windowed grounding; new transcript-driven claim C-3725 anchored to A-2516.5; named in claim text and transcript at 01:15:23
+TRANSIT_WINDOW,5,C-3726,Mentions,,,,ADD,N-115,Harley Pastnic,register orphan after windowed grounding; new transcript-driven claim C-3726 anchored to A-2517.1; named in claim text and transcript at 00:16:08
+TRANSIT_WINDOW,8,C-3727,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3727 anchored to A-2518.1; named in claim text and transcript at 00:34:12
+TRANSIT_WINDOW,8,C-3727,Mentions,,,,ADD,N-138,Michael Nolles,register orphan after windowed grounding; new transcript-driven claim C-3727 anchored to A-2518.1; named in claim text and transcript at 00:34:12
+TRANSIT_WINDOW,8,C-3728,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3728 anchored to A-2518.2; named in claim text and transcript at 00:53:42
+TRANSIT_WINDOW,8,C-3728,Mentions,,,,ADD,N-139,John Heinchell,register orphan after windowed grounding; new transcript-driven claim C-3728 anchored to A-2518.2; named in claim text and transcript at 00:53:42
+TRANSIT_WINDOW,8,C-3729,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3729 anchored to A-2518.3; named in claim text and transcript at 00:55:10
+TRANSIT_WINDOW,8,C-3729,Mentions,,,,ADD,N-140,Jenna V,register orphan after windowed grounding; new transcript-driven claim C-3729 anchored to A-2518.3; named in claim text and transcript at 00:55:10
+TRANSIT_WINDOW,8,C-3730,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3730 anchored to A-2518.4; named in claim text and transcript at 00:56:45
+TRANSIT_WINDOW,8,C-3730,Mentions,,,,ADD,N-141,Tempes,register orphan after windowed grounding; new transcript-driven claim C-3730 anchored to A-2518.4; named in claim text and transcript at 00:56:45
+TRANSIT_WINDOW,8,C-3731,Mentions,,,,ADD,N-142,Carl,register orphan after windowed grounding; new transcript-driven claim C-3731 anchored to A-2518.5; named in claim text and transcript at 00:57:24
+TRANSIT_WINDOW,8,C-3732,Mentions,,,,ADD,N-143,Mary Kelly,register orphan after windowed grounding; new transcript-driven claim C-3732 anchored to A-2518.6; named in claim text and transcript at 00:57:55
+TRANSIT_WINDOW,8,C-3733,Mentions,,,,ADD,N-146,Milana,register orphan after windowed grounding; new transcript-driven claim C-3733 anchored to A-2518.7; named in claim text and transcript at 00:59:42
+TRANSIT_WINDOW,8,C-3734,Mentions,,,,ADD,N-147,Lover of Light,register orphan after windowed grounding; new transcript-driven claim C-3734 anchored to A-2518.8; named in claim text and transcript at 01:01:04
+TRANSIT_WINDOW,9,C-3735,Mentions,,,,ADD,N-5,Donald Trump,new transcript-driven claim C-3735 anchored to A-2519.1; named in claim text and transcript at 00:20:44
+TRANSIT_WINDOW,9,C-3735,Mentions,,,,ADD,N-149,Corey Comperatore,register orphan after windowed grounding; new transcript-driven claim C-3735 anchored to A-2519.1; named in claim text and transcript at 00:20:44
+TRANSIT_WINDOW,9,C-3736,Mentions,,,,ADD,N-156,C.S. Lewis,register orphan after windowed grounding; new transcript-driven claim C-3736 anchored to A-2519.2; named in claim text and transcript at 00:37:04
+TRANSIT_WINDOW,9,C-3737,Mentions,,,,ADD,N-158,Warwick Spiller,register orphan after windowed grounding; new transcript-driven claim C-3737 anchored to A-2519.3; named in claim text and transcript at 00:41:52
+TRANSIT_WINDOW,9,C-3738,Mentions,,,,ADD,N-2,Erika Kirk,new transcript-driven claim C-3738 anchored to A-2519.4; named in claim text and transcript at 00:42:18
+TRANSIT_WINDOW,9,C-3738,Mentions,,,,ADD,N-163,Lighthouse (commenter),register orphan after windowed grounding; new transcript-driven claim C-3738 anchored to A-2519.4; named in claim text and transcript at 00:42:18
+TRANSIT_WINDOW,9,C-3739,Mentions,,,,ADD,N-160,Reagan (commenter),register orphan after windowed grounding; new transcript-driven claim C-3739 anchored to A-2519.5; named in claim text and transcript at 00:44:12
+TRANSIT_WINDOW,9,C-3740,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3740 anchored to A-2519.6; named in claim text and transcript at 00:44:43
+TRANSIT_WINDOW,9,C-3740,Mentions,,,,ADD,N-161,Recovery Recon (commenter),register orphan after windowed grounding; new transcript-driven claim C-3740 anchored to A-2519.6; named in claim text and transcript at 00:44:43
+TRANSIT_WINDOW,9,C-3741,Mentions,,,,ADD,N-162,Aravik (commenter),register orphan after windowed grounding; new transcript-driven claim C-3741 anchored to A-2519.7; named in claim text and transcript at 00:45:48
+TRANSIT_WINDOW,9,C-3742,Mentions,,,,ADD,N-164,Brooke Rice (commenter),register orphan after windowed grounding; new transcript-driven claim C-3742 anchored to A-2519.8; named in claim text and transcript at 00:46:22
+TRANSIT_WINDOW,10,C-3743,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3743 anchored to A-2520.1; named in claim text and transcript at 00:05:13
+TRANSIT_WINDOW,10,C-3743,Mentions,,,,ADD,N-67,Seth Dillon,new transcript-driven claim C-3743 anchored to A-2520.1; named in claim text and transcript at 00:05:13
+TRANSIT_WINDOW,10,C-3743,Mentions,,,,ADD,N-86,Josh Hammer,new transcript-driven claim C-3743 anchored to A-2520.1; named in claim text and transcript at 00:05:13
+TRANSIT_WINDOW,10,C-3743,Mentions,,,,ADD,N-167,Natasha Housedorf,register orphan after windowed grounding; new transcript-driven claim C-3743 anchored to A-2520.1; named in claim text and transcript at 00:05:13
+TRANSIT_WINDOW,10,C-3744,Mentions,,,,ADD,N-168,Marissa Strait,register orphan after windowed grounding; new transcript-driven claim C-3744 anchored to A-2520.2; named in claim text and transcript at 00:08:07
+TRANSIT_WINDOW,10,C-3745,Mentions,,,,ADD,N-3,Candace Owens,new transcript-driven claim C-3745 anchored to A-2520.3; named in claim text and transcript at 00:39:29
+TRANSIT_WINDOW,10,C-3745,Mentions,,,,ADD,N-171,Taylor Lorent,register orphan after windowed grounding; new transcript-driven claim C-3745 anchored to A-2520.3; named in claim text and transcript at 00:39:29
+TRANSIT_WINDOW,10,C-3746,Mentions,,,,ADD,N-175,Nikki Haley,register orphan after windowed grounding; new transcript-driven claim C-3746 anchored to A-2520.4; named in claim text and transcript at 00:41:58
+TRANSIT_WINDOW,33,C-3747,Mentions,,,,ADD,N-1,Charlie Kirk,new transcript-driven claim C-3747 anchored to A-1424.2; named in claim text and transcript at 00:13:12–00:14:51
+TRANSIT_WINDOW,33,C-3747,Mentions,,,,ADD,N-414,Andrew K. Smith,register orphan after windowed grounding; new transcript-driven claim C-3747 anchored to A-1424.2; named in claim text and transcript at 00:13:12–00:14:51
+TRANSIT_WINDOW,2,C-1142,Mentions,,,,ADD,N-74,Matt Gutman,register orphan after windowed grounding; Cox's statement in C-1142 answers 'that report by Matt Gutman' (transcript 50:22)
+TRANSIT_WINDOW,4,C-1183,Mentions,N-69,Tyler Robinson,,KEEP,,,"reviewed: role ref: the person in the FBI static images is the suspect, Tyler Robinson (ep4); claim text refers to the suspect; recorded in config/preflight_gates.json"
+TRANSIT_WINDOW,5,C-1204,Mentions,N-42,Andrew Kolvet,,KEEP,,,reviewed: Transit ruling on PR 59: 'Andrew Kovit' at 39:14 is outside the window only because of the known ep5 +9 min drift (quoted lines 39:14 to 44:19); recorded in config/preflight_gates.json
+TRANSIT_WINDOW,10,C-1296,Mentions,N-5,Donald Trump,,KEEP,,,reviewed: role ref: claim text 'the President of the United States' (ep10); recorded in config/preflight_gates.json
+TRANSIT_WINDOW,11,C-1299,Mentions,N-176,Mike Mitchell,,KEEP,,,"reviewed: role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11); recorded in config/preflight_gates.json"
+TRANSIT_WINDOW,11,C-1300,Mentions,N-176,Mike Mitchell,,KEEP,,,"reviewed: role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11); recorded in config/preflight_gates.json"
+TRANSIT_WINDOW,40,C-1821,Mentions,N-224,Blake Neff,,KEEP,,,"reviewed: role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40); recorded in config/preflight_gates.json"
+TRANSIT_WINDOW,40,C-1822,Mentions,N-224,Blake Neff,,KEEP,,,"reviewed: role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40); recorded in config/preflight_gates.json"
+TRANSIT_WINDOW,62,C-2192,Mentions,N-789,Marina (TPUSA CMO),,KEEP,,,"reviewed: role ref: claim and transcript refer to 'the CMO', Marina (ep62); recorded in config/preflight_gates.json"
+TRANSIT_WINDOW,161,C-3686,Mentions,N-59,George (Candace's husband),,KEEP,,,reviewed: role ref: 'my husband' at 18:40 (ep161); recorded in config/preflight_gates.json
+TRANSIT_WINDOW,161,C-3698,Mentions,N-1,Charlie Kirk,,KEEP,,,reviewed: role ref: 'a body reportedly dead' is Charlie Kirk (ep161); recorded in config/preflight_gates.json

@@ -343,8 +343,8 @@
             "C-2735"
           ],
           "related_nodes": [
-            "N-531",
             "N-536",
+            "N-569",
             "N-1210",
             "N-1688"
           ],
@@ -373,10 +373,11 @@
             "C-2736"
           ],
           "related_nodes": [
-            "N-531",
             "N-536",
+            "N-569",
             "N-1210",
-            "N-1688"
+            "N-1688",
+            "N-570"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -402,10 +403,11 @@
             "C-2736"
           ],
           "related_nodes": [
-            "N-531",
             "N-536",
+            "N-569",
             "N-1210",
-            "N-1688"
+            "N-1688",
+            "N-570"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -579,11 +581,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-536",
-      "ref": "N-536",
+      "@id": "N-569",
+      "ref": "N-569",
       "name": "Victor Marx",
       "type": "person",
-      "description": "Pastor; subject of prior biographical scrutiny; author of video response (A-1975.1) and recipient of Candace's reply (A-1976.1) and DM (A-1977.1).",
+      "description": "Pastor Victor Marx replied to the host on X; the host reads and disputes the reply and proposes an on-air interview with him and Corby Hall (transcript 00:56, 37:09 to 40:47).",
       "related_artifacts": [
         "A-1975.1",
         "A-1976.1",
@@ -598,16 +600,16 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
+      "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1210",
+        "N-570",
         "N-1688"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-531",
-      "ref": "N-531",
+      "@id": "N-536",
+      "ref": "N-536",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.",
@@ -620,6 +622,30 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1689"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-570",
+      "ref": "N-570",
+      "name": "Corby Hall",
+      "type": "person",
+      "description": "Corby Hall (FAR) raised the point that Victor Marx has no church; the host read his statement in full and he agreed to appear on the show with Victor Marx (transcript 38:52 to 40:47).",
+      "related_artifacts": [
+        "A-1976.1",
+        "A-1977.1"
+      ],
+      "related_claims": [
+        "C-2735"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-569",
+        "N-1688"
       ]
     },
     {
@@ -713,7 +739,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-536",
+        "N-569",
         "N-1688"
       ]
     },
@@ -897,8 +923,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-531",
         "N-536",
+        "N-569",
         "N-1210"
       ]
     },
@@ -925,7 +951,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-531",
+        "N-536",
         "N-1207"
       ]
     },
@@ -1217,7 +1243,7 @@
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Verify post URL, timestamp, and whether the post has since been deleted or edited.",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {
@@ -1237,7 +1263,7 @@
       "claim_timestamp": "00:40:47",
       "investigative_direction": "Capture timestamped screenshots of the comment thread before any deletion.",
       "mentions_person_refs": [
-        "N-536",
+        "N-569",
         "N-570"
       ]
     },
@@ -1258,7 +1284,7 @@
       "claim_timestamp": "00:41:36",
       "investigative_direction": "Verify DM timestamp; await Marx's response or non-response.",
       "mentions_person_refs": [
-        "N-536"
+        "N-569"
       ]
     },
     {

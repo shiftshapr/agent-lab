@@ -160,7 +160,7 @@ Video Timestamp: 00:47:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1210 (Tim Dillon), N-3*
+*Related: N-443 (Tim Dillon), N-3*
 
 ---
 
@@ -420,7 +420,7 @@ Claim Timestamp: 00:25:38
 Claim: Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing scheduled for the week of July 6.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-69
+Mentions: N-69, N-84
 
 Related Nodes: N-2077
 
@@ -435,7 +435,7 @@ Claim Timestamp: 00:26:28
 Claim: Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-69
+Mentions: N-69, N-84
 
 Related Nodes: N-2077
 

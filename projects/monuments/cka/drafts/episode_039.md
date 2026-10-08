@@ -32,8 +32,8 @@
 
 ### Episode 39 Ledger Summary
 
-- Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488
-- Claim Range: C-1803–C-1819
+- Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488, A-2513
+- Claim Range: C-1803–C-1819, C-3718
 - New Person Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-476, N-43
 - New Investigation Target Nodes Introduced: N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
@@ -203,6 +203,20 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
 *Related: C-1819, N-1373, N-1376*
+
+---
+
+**A-2513** FBI Founder Reference Bundle
+
+**A-2513.1** Host statement that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:03:44–00:04:36
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Medium
+
+*Related: C-3718, N-462, N-1079*
 
 ---
 
@@ -643,7 +657,7 @@ Claim Timestamp: 00:28:17
 Claim: Six people at Turning Point USA reported that Justin Strife placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.
 
 Anchored Artifacts: A-1486.1
-Mentions: N-43, N-264, N-476
+Mentions: N-43
 
 Related Nodes: N-1369, N-1371
 
@@ -658,7 +672,7 @@ Claim Timestamp: 00:30:22
 Claim: Two TPUSA sources told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion.
 
 Anchored Artifacts: A-1486.2
-Mentions: N-264
+Mentions:
 
 Related Nodes: N-1369
 
@@ -673,7 +687,7 @@ Claim Timestamp: 00:32:01
 Claim: After host mentioned "Pierre Dupont" on Episode 38, the same TPUSA sources confirmed that the donor prospect was Pierre Dupont.
 
 Anchored Artifacts: A-1486.3
-Mentions: N-264
+Mentions:
 
 Related Nodes: N-1369
 
@@ -688,7 +702,7 @@ Claim Timestamp: 00:47:01
 Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.
 
 Anchored Artifacts: A-1486.4
-Mentions: N-37, N-264, N-471
+Mentions: N-37, N-471
 
 Related Nodes: N-1372
 
@@ -742,7 +756,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 Claim Timestamp: 00:03:44
 Claim: Candace states that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte, as part of her claim that the FBI was founded by the French.
 Transcript Snippet: did you know that our FBI was founded by Charles Joseph Bonapart?
-Anchored Artifacts: 
+Anchored Artifacts: A-2513.1
 Mentions: N-3, N-462
 Related Nodes: N-1079
 Investigative Direction: Check Bonaparte's role as Attorney General in creating the Bureau of Investigation (1908) against Justice Department records.

@@ -845,7 +845,7 @@ Claim Timestamp: 00:45:21
 Claim: Josh Hammer publicly released text messages between himself and Charlie Kirk following the prior episode's coverage.
 
 Anchored Artifacts: A-1256.1
-Mentions: N-42
+Mentions: N-86
 Related Nodes: N-1253
 Investigative Direction: Verify release date and source channel.
 
@@ -858,7 +858,7 @@ Claim Timestamp: 00:45:21
 Claim: The released texts include a "thank you for your help guys" message (attributed to Charlie Kirk) and Josh Hammer's reply asking what Charlie's "first stop tomorrow" was.
 
 Anchored Artifacts: A-1256.1
-Mentions: N-42
+Mentions: N-86
 Related Nodes: N-1253
 Investigative Direction: Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.
 

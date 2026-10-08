@@ -32,8 +32,9 @@
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
 - Claim Range: C-3393–C-3405
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-16, N-42, N-56, N-224, N-550, N-1000, N-571
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-224 Blake Neff, N-56 Kanye West (Ye), N-571 Usha Vance, N-1000 Turning Point USA (TPUSA), N-16 Frank Turek, N-42 Andrew Kolvet (aired as Andrew Kolb), N-550 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-16, N-42, N-56, N-224, N-550, N-1000, N-587
+  - Hole-minted Nodes (wave1): N-578
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-224 Blake Neff, N-56 Kanye West (Ye), N-578 Usha Vance, N-1000 Turning Point USA (TPUSA), N-16 Frank Turek, N-42 Andrew Kolvet (aired as Andrew Kolb), N-550 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
 ---
 
@@ -191,7 +192,7 @@ Video Timestamp: 00:40:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-571, N-1000*
+*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-578, N-1000*
 
 ---
 
@@ -345,7 +346,20 @@ Investigative Pressure: Low
 
 *Related: A-2341.1, A-2341.2, A-2341.3, A-2342.1, A-2343.1, A-2344.1, A-2349.1*
 
-**N-571** Usha Vance
+**N-587** Kim Kardashian
+
+The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-2349.1, C-3403*
+
+---
+
+**N-578** Usha Vance
 
 Referenced in Erika Kirk op-ed (A-2348) as "second lady" and as source of "15 minutes" analogy.
 
@@ -450,7 +464,7 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-571
+Mentions: N-2, N-4, N-578
 
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.
@@ -464,7 +478,7 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief — that the worst stretch is like a plane descending with screaming children before landing.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-571
+Mentions: N-2, N-4, N-578
 
 
 Investigative Direction: Confirm the quoted analogy in the op-ed directly.
@@ -506,7 +520,7 @@ Claim Timestamp: 00:08:28
 Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.
 
 Anchored Artifacts: A-2349.1
-Mentions: N-56, N-3
+Mentions: N-56, N-3, N-587
 
 
 Investigative Direction: Verify the footage timestamp and attendees independently; confirm the date and venue.

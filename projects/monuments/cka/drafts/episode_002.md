@@ -15,8 +15,8 @@
 - **Transcript SHA-256**: 818e179fe5957d7201c93616a5845536cad30d2182c1c2b188bf22e92d275abd
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094
-  - Claim Range: C-1125-C-1143
+  - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094, A-2515
+  - Claim Range: C-1125-C-1143, C-3720
   - New Nodes Introduced: N-35, N-50, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-80, N-81, N-82, N-83, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090, N-1091, N-1092, N-1093
   - Reused Nodes Appearing: N-1, N-2, N-3, N-1000, N-1070, N-1071
 
@@ -148,7 +148,7 @@ Confidence: high
 **A-1089.3** Governor Cox statement that Robinson has not confessed and is not cooperating with authorities.
 Event Timestamp: 2025-09
 Video Timestamp: 00:49:51–00:49:59
-*Related: C-1142, N-69, N-70, N-1086*
+*Related: C-1142, N-69, N-70, N-74, N-1086*
 Transcript Snippet: He has not confessed to authorities. He is not cooperating.
 Confidence: high
 
@@ -220,6 +220,16 @@ Event Timestamp: 2025-09-10
 Video Timestamp: 00:45:04–00:45:38
 *Related: N-1079, N-69, N-1084*
 Transcript Snippet: We get photos that are the shooter. This is when the FBI came out and said he's in a stairwell.
+Confidence: medium
+
+---
+
+**A-2515** Host Reading Recommendations Bundle
+
+**A-2515.1** Host reading recommendations: David Bakan, Shlomo Sand and Abraham Polokoff (verbal reference; no displayed artifact)
+Video Timestamp: 01:02:29–01:07:08
+*Related: C-3720, N-80, N-81, N-82, N-83*
+Transcript Snippet: I would recommend you read David Bakan,
 Confidence: medium
 
 ---
@@ -377,7 +387,7 @@ Confidence: high
 Node Type: Person
 Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.
 
-*Related: A-1081.1, A-1089.3, C-3630*
+*Related: A-1089.3, C-1142*
 
 Confidence: medium
 
@@ -473,7 +483,7 @@ Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
 Node Type: Person
 Author recommended by host on Freud and Jewish mystical tradition history.
 
-*Related: A-1081.1, C-3630*
+*Related: A-2515.1, C-3720*
 
 Confidence: medium
 
@@ -486,7 +496,7 @@ Confidence: medium
 Node Type: Person
 Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.
 
-*Related: A-1081.1, C-3630*
+*Related: A-2515.1, C-3720*
 
 Confidence: high
 Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
@@ -500,7 +510,7 @@ Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 Node Type: Person
 Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.
 
-*Related: A-1081.1, C-3630*
+*Related: A-2515.1, C-3720*
 
 Confidence: low
 Uncertainty: Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).
@@ -731,7 +741,7 @@ Claim Timestamp: 00:00:59
 Claim: Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Anchored Artifacts: A-1081.1
-Mentions: N-1, N-2, N-3, N-5, N-71, N-74, N-80, N-81, N-82, N-83
+Mentions: N-1, N-2, N-3, N-5
 Confidence: high
 Investigative Direction: Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.
 
@@ -985,7 +995,7 @@ Claim Timestamp: 00:49:51
 Claim: Governor Cox stated that Robinson has not confessed to authorities and is not cooperating.
 Transcript Snippet: He has not confessed to authorities. He is not cooperating.
 Anchored Artifacts: A-1089.3
-Mentions: N-69, N-70
+Mentions: N-69, N-70, N-74
 Related Nodes: N-1086
 Confidence: high
 Investigative Direction: Verify with subsequent FBI/AG press releases.
@@ -1018,6 +1028,18 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
+
+**C-3720** Host recommends David Bakan, Shlomo Sand and Abraham Polokoff to viewers
+
+Claim Timestamp: 01:02:29
+Claim: The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Polokoff (transcript: "Abraham Pollock"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.
+Transcript Snippet: I would recommend you read David Bakan,
+Anchored Artifacts: A-2515.1
+Mentions: N-80, N-81, N-82, N-83
+Confidence: medium
+Investigative Direction: Confirm the titles and authors recommended and the awards attributed to Abraham Polokoff.
+
+---
 
 ## 6. Meme Register
 

@@ -1,12 +1,27 @@
 {
-  "description": "Monument-specific inputs for dia_preflight Wave 1 gates. mention_grounding.exempt_ids: show host, speaks in first person and is rarely named. mention_grounding.reviewed: human-verified Mentions where the person is referenced by role rather than name; each row is also recorded in audits/wave1/mentions_decisions.csv.",
+  "description": "Monument-specific inputs for dia_preflight Wave 1 gates. mention_grounding.exempt_ids: show host, speaks in first person and is rarely named. mention_grounding.reviewed: human-verified Mentions where the person is referenced by role rather than name; each row is also recorded in audits/wave1/mentions_decisions.csv. first_name_ok: ids that may ground on the first name alone (Charlie, Erika). window_seconds: grounding window in seconds around the claim timestamp; window_seconds_early applies to episodes up to early_max_episode (coarser early drafts). A placeholder 00:00:00 to 00:00:01 timestamp falls back to episode-wide grounding.",
   "mention_grounding": {
     "exempt_ids": ["N-3"],
     "reviewed": [
       {"claim": "C-1267", "node": "N-59", "reason": "Candace's husband; transcript 08:46 to 10:37 tells how she met her husband on this UK trip (ep9, eps 1-10 window)"},
       {"claim": "C-1268", "node": "N-59", "reason": "claim text: 'Candace met her husband for the first time during the UK trip'"},
       {"claim": "C-1269", "node": "N-59", "reason": "claim text: 'text messages ... with her husband'; transcript 13:27 'I said to my husband'"},
-      {"claim": "C-1269", "node": "N-157", "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"}
-    ]
+      {"claim": "C-1269", "node": "N-157", "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"},
+      {"claim": "C-1817", "node": "N-471", "reason": "Transit ruling on PR 59: accepted as a reviewed reference (ep39)"},
+      {"claim": "C-1183", "node": "N-69", "reason": "role ref: the person in the FBI static images is the suspect, Tyler Robinson (ep4); claim text refers to the suspect"},
+      {"claim": "C-1204", "node": "N-42", "reason": "Transit ruling on PR 59: 'Andrew Kovit' at 39:14 is outside the window only because of the known ep5 +9 min drift (quoted lines 39:14 to 44:19)"},
+      {"claim": "C-1296", "node": "N-5", "reason": "role ref: claim text 'the President of the United States' (ep10)"},
+      {"claim": "C-1299", "node": "N-176", "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"},
+      {"claim": "C-1300", "node": "N-176", "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"},
+      {"claim": "C-1821", "node": "N-224", "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"},
+      {"claim": "C-1822", "node": "N-224", "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"},
+      {"claim": "C-2192", "node": "N-789", "reason": "role ref: claim and transcript refer to 'the CMO', Marina (ep62)"},
+      {"claim": "C-3686", "node": "N-59", "reason": "role ref: 'my husband' at 18:40 (ep161)"},
+      {"claim": "C-3698", "node": "N-1", "reason": "role ref: 'a body reportedly dead' is Charlie Kirk (ep161)"}
+    ],
+    "first_name_ok": ["N-1", "N-2"],
+    "window_seconds": 240,
+    "window_seconds_early": 480,
+    "early_max_episode": 10
   }
 }

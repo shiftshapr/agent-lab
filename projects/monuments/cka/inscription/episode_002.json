@@ -337,6 +337,7 @@
           "related_nodes": [
             "N-69",
             "N-70",
+            "N-74",
             "N-1086"
           ],
           "tags": [],
@@ -517,6 +518,33 @@
           "event_timestamp": "2025-09-10",
           "video_timestamp": "00:45:04–00:45:38",
           "transcript_snippet": "We get photos that are the shooter. This is when the FBI came out and said he's in a stairwell.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2515",
+      "family_ref": "A-2515",
+      "bundle_name": "Host Reading Recommendations Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2515.1",
+          "ref": "A-2515.1",
+          "description": "Host reading recommendations: David Bakan, Shlomo Sand and Abraham Polokoff (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3720"
+          ],
+          "related_nodes": [
+            "N-80",
+            "N-81",
+            "N-82",
+            "N-83"
+          ],
+          "tags": [],
+          "video_timestamp": "01:02:29–01:07:08",
+          "transcript_snippet": "I would recommend you read David Bakan,",
           "confidence": "medium"
         }
       ]
@@ -845,18 +873,18 @@
       "type": "person",
       "description": "Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.",
       "related_artifacts": [
-        "A-1081.1",
         "A-1089.3"
       ],
       "related_claims": [
-        "C-3630"
+        "C-1142"
       ],
       "tags": [],
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "confidence": "medium"
+      "confidence": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -1006,17 +1034,18 @@
       "type": "person",
       "description": "Author recommended by host on Freud and Jewish mystical tradition history.",
       "related_artifacts": [
-        "A-1081.1"
+        "A-2515.1"
       ],
       "related_claims": [
-        "C-3630"
+        "C-3720"
       ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "confidence": "medium"
+      "confidence": "medium",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -1026,10 +1055,10 @@
       "type": "person",
       "description": "Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.",
       "related_artifacts": [
-        "A-1081.1"
+        "A-2515.1"
       ],
       "related_claims": [
-        "C-3630"
+        "C-3720"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1037,7 +1066,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "confidence": "high",
-      "uncertainty_note": "Transcript spells 'Schlommo'; canonical Shlomo Sand."
+      "uncertainty_note": "Transcript spells 'Schlommo'; canonical Shlomo Sand.",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -1047,10 +1077,10 @@
       "type": "person",
       "description": "Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.",
       "related_artifacts": [
-        "A-1081.1"
+        "A-2515.1"
       ],
       "related_claims": [
-        "C-3630"
+        "C-3720"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1058,7 +1088,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "confidence": "low",
-      "uncertainty_note": "Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar)."
+      "uncertainty_note": "Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).",
+      "related_nodes": []
     },
     {
       "@type": "Organization",
@@ -1525,13 +1556,7 @@
         "N-1",
         "N-2",
         "N-3",
-        "N-5",
-        "N-71",
-        "N-74",
-        "N-80",
-        "N-81",
-        "N-82",
-        "N-83"
+        "N-5"
       ]
     },
     {
@@ -1979,7 +2004,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-69",
-        "N-70"
+        "N-70",
+        "N-74"
       ]
     },
     {
@@ -2002,6 +2028,28 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3720",
+      "ref": "C-3720",
+      "label": "Host recommends David Bakan, Shlomo Sand and Abraham Polokoff to viewers",
+      "claim": "The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Polokoff (transcript: \"Abraham Pollock\"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.",
+      "anchored_artifacts": [
+        "A-2515.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:02:29",
+      "investigative_direction": "Confirm the titles and authors recommended and the awards attributed to Abraham Polokoff.",
+      "transcript_snippet": "I would recommend you read David Bakan,",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-80",
+        "N-81",
+        "N-82",
+        "N-83"
       ]
     }
   ],

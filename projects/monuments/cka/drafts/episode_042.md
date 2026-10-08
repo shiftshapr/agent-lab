@@ -499,7 +499,7 @@ Claim Timestamp: 00:20:45–00:21:55
 Claim: Footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
 
 Anchored Artifacts: A-1505.1, A-1505.6
-Mentions: N-490, N-491
+Mentions: N-490
 
 Related Nodes: N-1382
 

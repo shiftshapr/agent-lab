@@ -549,7 +549,7 @@ Claim Timestamp: 00:02:03
 Claim: In the same May 2025 clip, Charlie Kirk named Lyndon Baines Johnson, parts of the US government, and Cubans as actors who wanted JFK dead.
 
 Anchored Artifacts: A-1513.1
-Mentions: N-1, N-217
+Mentions: N-1
 
 Investigative Direction: Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer.
 
@@ -766,7 +766,7 @@ Claim Timestamp: 00:37:36–00:41:02
 Claim: Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
-Mentions: N-434
+Mentions:
 Related Nodes: N-1003, N-1391
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.

@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1596, A-1597, A-1598, A-1599, A-1600, A-1601, A-1602, A-1603, A-1604, A-1605, A-1606
   - Claim Range: C-2026–C-2046
-  - New People Nodes Introduced: N-424, N-70, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-694
+  - New People Nodes Introduced: N-424, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-694
   - New Investigation Target Nodes Introduced: N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:12:58–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (post text read aloud verbatim)
 
-*Related: C-2027, N-70, N-1472*
+*Related: C-2027, N-1472*
 
 ---
 
@@ -524,7 +524,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-70, N-1472, N-37*
+*Related: N-1472, N-37*
 
 ---
 
@@ -602,7 +602,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1597.1, C-2027, N-70, N-1466, N-37*
+*Related: A-1597.1, C-2027, N-1466, N-37*
 
 ---
 
@@ -632,7 +632,7 @@ Investigative Direction: Obtain the full Sean Ryan interview transcript and any 
 Claim Timestamp: 00:12:58
 Claim: Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.
 Anchored Artifacts: A-1597.1
-Mentions: N-37, N-70
+Mentions: N-37
 Related Nodes: N-1472
 Investigative Direction: Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.
 

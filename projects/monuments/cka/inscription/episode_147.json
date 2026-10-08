@@ -956,6 +956,26 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-611",
+      "ref": "N-611",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.",
+      "related_artifacts": [
+        "A-2329.2"
+      ],
+      "related_claims": [
+        "C-3365"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1122,7 +1142,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:00",
-      "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement."
+      "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.",
+      "mentions_person_refs": [
+        "N-611"
+      ]
     },
     {
       "@type": "Claim",

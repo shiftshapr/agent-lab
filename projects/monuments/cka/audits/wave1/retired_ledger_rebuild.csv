@@ -625,19 +625,19 @@ legacy-N-407,kept_cka_native,N-98,"Mark Herman (director, Candace show)","Duplic
 legacy-N-527,kept_cka_native,N-98,"Mark Herman (director, Candace show)","Duplicate person collapsed into N-98 (Mark Herman (director, Candace show))."
 legacy-N-1009,added_wave1,N-1,Charlie Kirk,Wave 1: ep67 topic-band person row collapsed onto person N-1. ep75 used N-1009 locally for Donald Trump; those cites retargeted to N-5.
 legacy-N-1010,added_wave1,N-2,Erika Kirk,Wave 1: ep67 topic-band person row collapsed onto person N-2. ep75 used N-1010 locally for Tim Dillon; those cites retargeted to N-443.
-legacy-N-1015,added_wave1,N-531,Tim Ballard,Wave 1: person minted in the topic band (N-1015); moved to person hole N-531.
-legacy-N-1017,added_wave1,N-536,Victor Marx,Wave 1: person minted in the topic band (N-1017); moved to person hole N-536.
-legacy-N-1018,added_wave1,N-569,Eileen Marx,Wave 1: person minted in the topic band (N-1018); moved to person hole N-569.
+legacy-N-1015,added_wave1,N-536,Tim Ballard,Wave 1: person minted in the topic band (N-1015); moved to person hole N-536.
+legacy-N-1017,added_wave1,N-569,Victor Marx,Wave 1: person minted in the topic band (N-1017); moved to person hole N-569.
+legacy-N-1018,added_wave1,N-571,Eileen Marx,Wave 1: person minted in the topic band (N-1018); moved to person hole N-571.
 legacy-N-1019,added_wave1,N-570,Corby Hall,Wave 1: person minted in the topic band (N-1019); moved to person hole N-570.
-legacy-N-1028,added_wave1,N-571,Usha Vance,Wave 1: person minted in the topic band (N-1028); moved to person hole N-571. ep148 also used N-1028 locally for Candace Owens; those cites retargeted to N-3.
-legacy-N-2349,added_wave1,N-572,Father Ripperger,Wave 1: person minted in the topic band (N-2349); moved to person hole N-572.
-legacy-N-8,added_wave1,N-573,Melody Hall,Wave 1: ep107 protocol-example id N-8 (collides with ep000 baseline range); re-minted at person hole N-573. Other episodes that reused N-8 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
-legacy-N-9,added_wave1,N-574,Holly Chalmers,Wave 1: ep107 protocol-example id N-9 (collides with ep000 baseline range); re-minted at person hole N-574. Other episodes that reused N-9 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
-legacy-N-14,added_wave1,N-575,Victor Marx's son,Wave 1: ep107 protocol-example id N-14 (collides with ep000 baseline range); re-minted at person hole N-575. Other episodes that reused N-14 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
-legacy-N-15,added_wave1,N-576,Victor Marx's daughter,Wave 1: ep107 protocol-example id N-15 (collides with ep000 baseline range); re-minted at person hole N-576. Other episodes that reused N-15 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
-legacy-N-18,added_wave1,N-577,Amir Safari,Wave 1: ep107 protocol-example id N-18 (collides with ep000 baseline range); re-minted at person hole N-577. Other episodes that reused N-18 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
+legacy-N-1028,added_wave1,N-578,Usha Vance,Wave 1: person minted in the topic band (N-1028); moved to person hole N-578. ep148 also used N-1028 locally for Candace Owens; those cites retargeted to N-3.
+legacy-N-2349,added_wave1,N-531,Father Ripperger,Wave 1: person minted in the topic band (N-2349); moved to person hole N-531.
+legacy-N-8,added_wave1,N-572,Melody Hall,Wave 1: ep107 protocol-example id N-8 (collides with ep000 baseline range); re-minted at person hole N-572. Other episodes that reused N-8 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
+legacy-N-9,added_wave1,N-573,Holly Chalmers,Wave 1: ep107 protocol-example id N-9 (collides with ep000 baseline range); re-minted at person hole N-573. Other episodes that reused N-9 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
+legacy-N-14,added_wave1,N-574,Victor Marx's son,Wave 1: ep107 protocol-example id N-14 (collides with ep000 baseline range); re-minted at person hole N-574. Other episodes that reused N-14 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
+legacy-N-15,added_wave1,N-575,Victor Marx's daughter,Wave 1: ep107 protocol-example id N-15 (collides with ep000 baseline range); re-minted at person hole N-575. Other episodes that reused N-15 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
+legacy-N-18,added_wave1,N-576,Amir Safari,Wave 1: ep107 protocol-example id N-18 (collides with ep000 baseline range); re-minted at person hole N-576. Other episodes that reused N-18 as a local placeholder were resolved per claim (see audits/wave1/mentions_decisions.csv).
 legacy-N-10,added_wave1,,Kenneth Brining,Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor.
-legacy-N-11,added_wave1,,Danny Philip,Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor.
+legacy-N-11,added_wave1,N-611,Danny Philip,"Wave 1 retired this ep000-baseline placeholder; Transit fix-all minted Danny Philip at the clean hole N-611, so the tombstone survives as N-611."
 legacy-N-12,added_wave1,,Charmaine,Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor.
 legacy-N-13,added_wave1,,Debbie,Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor.
 legacy-N-19,added_wave1,,Corey Kennedy,Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor.

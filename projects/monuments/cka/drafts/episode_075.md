@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
 
 - **Episode Ledger Summary**:
+  - Hole-minted Nodes (wave1): N-531
   - (see registers)
 
 ## I. Meta-Data
@@ -24,7 +25,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-3568 / N-572 (people) / N-2346 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-3568 / N-531 (people) / N-2346 (targets)
 
 ---
 
@@ -77,7 +78,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (clip excerpted; full source not identified in episode)
 
-*Related: C-3570, N-572 (Father Ripperger)*
+*Related: C-3570, N-531 (Father Ripperger)*
 
 ---
 
@@ -247,7 +248,7 @@ Confidence Level: High (clearly attributed)
 
 ## IV. Node Register
 
-**N-572** Father Ripperger
+**N-531** Father Ripperger
 
 Catholic priest whose audio clip on "the revealing of the method" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.
 
@@ -355,7 +356,7 @@ Claim Timestamp: 00:15:10
 Claim: Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to "reveal the method" of their operations even while remaining hidden, and that this has a sadistic dimension in which "they still want to show themselves in some way."
 
 Anchored Artifacts: A-2438.1
-Mentions: N-572
+Mentions: N-531
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -500,7 +501,7 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Mentions: N-2, N-5
+Mentions: N-5
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -572,7 +573,7 @@ Confidence: high
 **Claim Range:** C-3568–C-3583
 
 **New Nodes Introduced:**
-- N-572 Father Ripperger
+- N-531 Father Ripperger
 - N-443 Tim Dillon
 - N-2346 Pentagon Seating Geometry Claim (investigation target)
 - N-2347 "Freemason Bible" Document Authentication (investigation target)

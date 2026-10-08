@@ -2,8 +2,8 @@
   "version": 1,
   "updated": "2026-10-08T04:18:27Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)). 2026-10-07 Wave 1 adversarial: topic-band persons moved into person holes (N-1015->N-531 Tim Ballard, N-1017->N-536 Victor Marx, N-1018->N-569 Eileen Marx, N-1019->N-570 Corby Hall, N-1028->N-571 Usha Vance, N-2349->N-572 Father Ripperger; N-1009->N-1, N-1010->N-2); ep107 placeholder persons resolved (N-8->N-573, N-9->N-574, N-14->N-575, N-15->N-576, N-18->N-577; new N-578 Gloyce Dean Kennedy; N-10/N-11/N-12/N-13/N-19 retired without survivor; N-23->N-1697, N-24->N-2384, N-26->N-1676); ep161 tombstone collisions re-minted (N-448/449/450/452/465/469/470/473 -> N-579..N-586). next_person_id=587, next_investigation_id=2385.",
-  "next_person_id": 587,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)). 2026-10-07 Wave 1 adversarial: topic-band persons moved into person holes (N-1015->N-536 Tim Ballard, N-1017->N-569 Victor Marx, N-1018->N-571 Eileen Marx, N-1019->N-570 Corby Hall, N-1028->N-578 Usha Vance, N-2349->N-531 Father Ripperger; N-1009->N-1, N-1010->N-2); ep107 placeholder persons resolved (N-8->N-572, N-9->N-573, N-14->N-574, N-15->N-575, N-18->N-576; new N-577 Gloyce Dean Kennedy; N-10/N-11/N-12/N-13/N-19 retired without survivor; N-23->N-1697, N-24->N-2384, N-26->N-1676); ep161 tombstone collisions re-minted (N-448/449/450/452/465/469/470/473 -> N-579..N-586). 2026-10-07 Wave 1 Transit fix-all: hole mints renumbered to compact first-introduction order (N-531 Father Ripperger ep75; N-536 Tim Ballard, N-569 Victor Marx, N-570 Corby Hall ep92; N-571..N-577 ep107; N-578 Usha Vance ep148; N-579..N-586 ep161) and listed on Hole-minted ledger lines; new persons N-587 Kim Kardashian (ep32) and N-611 Danny Philip (ep125, survivor of legacy-N-11); alias Lance Twiggs on N-84. next_person_id=612, next_investigation_id=2385.",
+  "next_person_id": 612,
   "next_investigation_id": 2385,
   "nodes": {
     "N-1": {
@@ -903,7 +903,8 @@
       "canonical_name": "Lance Twigs",
       "type": "person",
       "aliases": [
-        "Lance"
+        "Lance",
+        "Lance Twiggs"
       ],
       "episodes": [
         3,
@@ -9477,6 +9478,7 @@
       "type": "person",
       "aliases": [],
       "episodes": [
+        38,
         69,
         79,
         159
@@ -13854,7 +13856,7 @@
         161
       ]
     },
-    "N-531": {
+    "N-536": {
       "canonical_name": "Tim Ballard",
       "type": "person",
       "aliases": [],
@@ -13865,18 +13867,19 @@
         "N-1015"
       ]
     },
-    "N-536": {
+    "N-569": {
       "canonical_name": "Victor Marx",
       "type": "person",
       "aliases": [],
       "episodes": [
+        92,
         107
       ],
       "retired_ids": [
         "N-1017"
       ]
     },
-    "N-569": {
+    "N-571": {
       "canonical_name": "Eileen Marx",
       "type": "person",
       "aliases": [],
@@ -13892,13 +13895,14 @@
       "type": "person",
       "aliases": [],
       "episodes": [
+        92,
         107
       ],
       "retired_ids": [
         "N-1019"
       ]
     },
-    "N-571": {
+    "N-578": {
       "canonical_name": "Usha Vance",
       "type": "person",
       "aliases": [],
@@ -13909,7 +13913,7 @@
         "N-1028"
       ]
     },
-    "N-572": {
+    "N-531": {
       "canonical_name": "Father Ripperger",
       "type": "person",
       "aliases": [],
@@ -13920,7 +13924,7 @@
         "N-2349"
       ]
     },
-    "N-573": {
+    "N-572": {
       "canonical_name": "Melody Hall",
       "type": "person",
       "aliases": [],
@@ -13931,7 +13935,7 @@
         "N-8"
       ]
     },
-    "N-574": {
+    "N-573": {
       "canonical_name": "Holly Chalmers",
       "type": "person",
       "aliases": [],
@@ -13942,7 +13946,7 @@
         "N-9"
       ]
     },
-    "N-575": {
+    "N-574": {
       "canonical_name": "Victor Marx's son",
       "type": "person",
       "aliases": [],
@@ -13953,7 +13957,7 @@
         "N-14"
       ]
     },
-    "N-576": {
+    "N-575": {
       "canonical_name": "Victor Marx's daughter",
       "type": "person",
       "aliases": [],
@@ -13964,7 +13968,7 @@
         "N-15"
       ]
     },
-    "N-577": {
+    "N-576": {
       "canonical_name": "Amir Safari",
       "type": "person",
       "aliases": [],
@@ -13975,7 +13979,7 @@
         "N-18"
       ]
     },
-    "N-578": {
+    "N-577": {
       "canonical_name": "Gloyce Dean Kennedy",
       "type": "person",
       "aliases": [
@@ -14070,6 +14074,31 @@
       ],
       "episodes": [
         161
+      ]
+    },
+    "N-587": {
+      "canonical_name": "Kim Kardashian",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        32,
+        148
+      ],
+      "retired_ids": []
+    },
+    "N-611": {
+      "canonical_name": "Danny Philip",
+      "type": "person",
+      "aliases": [
+        "Danny Phillip"
+      ],
+      "episodes": [
+        125,
+        129,
+        147
+      ],
+      "retired_ids": [
+        "N-11"
       ]
     },
     "N-2384": {

@@ -1272,9 +1272,7 @@
       "investigative_direction": "Pull official Flightradar / ADS-B archives for SUBTT across the cited dates; verify whether route and timing correlate with documented TPUSA / TPUSA Faith events as claimed.",
       "mentions_person_refs": [
         "N-1",
-        "N-45",
-        "N-302",
-        "N-310"
+        "N-45"
       ]
     },
     {
@@ -1296,8 +1294,7 @@
       "claim_timestamp": "00:09:38",
       "investigative_direction": "Verify Flightradar archive for SUBND on each cited date; cross-reference ground-time anomalies with TPUSA / TPUSA Faith event timing.",
       "mentions_person_refs": [
-        "N-1",
-        "N-310"
+        "N-1"
       ]
     },
     {

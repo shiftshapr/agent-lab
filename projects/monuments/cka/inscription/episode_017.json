@@ -352,6 +352,7 @@
           "related_nodes": [
             "N-128",
             "N-233",
+            "N-3",
             "N-1242"
           ],
           "tags": [],
@@ -887,7 +888,10 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -1156,7 +1160,6 @@
       "investigative_direction": "Verify the full segment transcript and any accompanying written material Hammer posted in that window.",
       "mentions_person_refs": [
         "N-86",
-        "N-91",
         "N-227",
         "N-245"
       ]

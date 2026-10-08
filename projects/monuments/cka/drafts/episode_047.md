@@ -988,7 +988,7 @@ Claim Timestamp: 00:02:34
 Claim: A private meeting between Candace Owens, Erika Kolfage, and Justin Streif, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-43, N-75, N-588, N-589
+Mentions: N-2, N-43, N-588, N-589
 
 
 Investigative Direction: Verify meeting date, location, and stated duration against any third-party records.
@@ -1017,7 +1017,7 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage acknowledged that Andrew Kolvet received a pre-incident message from Charlie Kirk stating "they're going to kill me."
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-326
+Mentions: N-2, N-42
 
 Related Nodes: N-1411
 
@@ -1032,7 +1032,7 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage stated that the message Dan Flood received from Charlie Kirk the night before read "the left is going to kill me."
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-45
+Mentions: N-2, N-434
 
 Related Nodes: N-1411
 
@@ -1225,7 +1225,7 @@ Claim Timestamp: 00:09:23
 Claim: TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-102
+Mentions: N-2
 
 Related Nodes: N-1417
 

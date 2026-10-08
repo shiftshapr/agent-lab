@@ -889,7 +889,7 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
 
 Anchored Artifacts: A-1718.1
-Mentions: N-841, N-867
+Mentions: N-841
 
 
 Investigative Direction: Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.
@@ -945,7 +945,7 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 — not September 8 as Candace Owens had stated.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-42, N-1
+Mentions: N-86, N-1
 
 Related Nodes: N-1544
 
@@ -960,7 +960,7 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-42, N-134, N-1
+Mentions: N-86, N-134, N-1
 
 Related Nodes: N-1544
 

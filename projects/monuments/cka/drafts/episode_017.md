@@ -221,7 +221,7 @@ Video Timestamp: 00:53:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1416, C-1417, N-128, N-233, N-42 (Candace), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
+*Related: C-1416, C-1417, N-128, N-233, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
 
 ---
 
@@ -563,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1422, C-1423, N-42 (Charlie Kirk)*
+*Related: C-1422, C-1423, N-1 (Charlie Kirk)*
 
 ---
 
@@ -694,7 +694,7 @@ Claim Timestamp: 00:09:35
 Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.
 
 Anchored Artifacts: A-1250.1
-Mentions: N-86, N-91, N-227, N-245
+Mentions: N-86, N-227, N-245
 
 Investigative Direction: Verify the full segment transcript and any accompanying written material Hammer posted in that window.
 

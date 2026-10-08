@@ -69,7 +69,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2858, N-1219 (Baron Coleman)*
+*Related: C-2858, N-552 (Baron Coleman)*
 
 ---
 
@@ -95,7 +95,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2862, N-1221 (Havas Media — to be assigned if needed)*
+*Related: C-2861, C-2862*
 
 **A-2048.2** Church list contained within FARA filing
 
@@ -117,7 +117,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2863, C-2864, C-2865, C-2866, N-1210 (Harmeet Dhillon)*
+*Related: C-2863, C-2864, C-2865, C-2866*
 
 **A-2049.2** Salem Radio Media Network listing within Clock Tower X FARA filing
 
@@ -139,7 +139,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:59
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2867, N-42 (Josh Hammer)*
+*Related: C-2867, N-86 (Josh Hammer)*
 
 ---
 
@@ -152,7 +152,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:31:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2868, C-2869, N-1212 (Donald Trump Jr.), N-1220 (Lara Trump)*
+*Related: C-2868, C-2869, N-62 (Donald Trump Jr.)*
 
 ---
 
@@ -165,7 +165,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-1214 (Ian Carroll), N-1211 (Pam Bondi)*
+*Related: C-2870, C-2871, N-120 (Pam Bondi)*
 
 ---
 
@@ -178,7 +178,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-1211 (Pam Bondi)*
+*Related: C-2870, C-2871, N-120 (Pam Bondi)*
 
 ---
 
@@ -191,7 +191,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-1210 (Harmeet Dhillon), N-1211 (Pam Bondi)*
+*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-120 (Pam Bondi)*
 
 ---
 
@@ -217,7 +217,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2877, C-2878, N-1215 (Blake Lively), N-1216 (Justin Baldoni)*
+*Related: C-2877, C-2878, N-774 (Blake Lively), N-775 (Justin Baldoni)*
 
 ---
 
@@ -230,7 +230,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2879, N-1215 (Blake Lively)*
+*Related: C-2879, N-774 (Blake Lively)*
 
 ---
 
@@ -243,7 +243,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2880, N-1216 (Justin Baldoni), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman), N-1215 (Blake Lively)*
+*Related: C-2880, N-775 (Justin Baldoni), N-774 (Blake Lively)*
 
 **A-2058.2** Deadpool & Wolverine deleted scenes with continued Baldoni mockery (podcast-hosting character)
 
@@ -252,7 +252,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:30
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2881, N-1216 (Justin Baldoni), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman)*
+*Related: C-2881, N-775 (Justin Baldoni)*
 
 ---
 
@@ -265,7 +265,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:57
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2882, N-1216 (Justin Baldoni), N-1215 (Blake Lively), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman)*
+*Related: C-2882, N-775 (Justin Baldoni), N-774 (Blake Lively)*
 
 ---
 
@@ -278,7 +278,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2874, N-1 (Charlie Kirk), N-42 (Josh Hammer — referenced as group text participant)*
+*Related: C-2874, N-1 (Charlie Kirk), N-86 (Josh Hammer)*
 
 ---
 
@@ -386,7 +386,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2052.1, C-2870, N-1211 (Pam Bondi)*
+*Related: A-2052.1, C-2870, N-120 (Pam Bondi)*
 
 ---
 
@@ -399,7 +399,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2056.1, A-2057.1, A-2058.1, A-2058.2, A-2059.1, C-2877, C-2878, C-2879, N-1216 (Justin Baldoni), N-1736 (Blake Lively Lawsuit Outcome)*
+*Related: A-2056.1, A-2057.1, A-2058.1, A-2058.2, A-2059.1, C-2877, C-2878, C-2879, N-775 (Justin Baldoni), N-1736 (Blake Lively Lawsuit Outcome)*
 
 ---
 
@@ -412,7 +412,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2056.1, A-2058.1, A-2058.2, A-2059.1, C-2877, C-2880, C-2881, C-2882, N-1215 (Blake Lively), N-1217 (Ryan Reynolds), N-1218 (Hugh Jackman)*
+*Related: A-2056.1, A-2058.1, A-2058.2, A-2059.1, C-2877, C-2880, C-2881, C-2882, N-774 (Blake Lively)*
 
 ---
 
@@ -425,7 +425,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2058.1, A-2058.2, C-2880, C-2881, N-1215 (Blake Lively), N-1216 (Justin Baldoni)*
+*Related: A-2058.1, A-2058.2, C-2880, C-2881, N-774 (Blake Lively), N-775 (Justin Baldoni)*
 
 ---
 
@@ -438,7 +438,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2058.1, A-2058.2, A-2059.1, C-2880, C-2881, C-2882, N-1215 (Blake Lively), N-1216 (Justin Baldoni)*
+*Related: A-2058.1, A-2058.2, A-2059.1, C-2880, C-2881, C-2882, N-774 (Blake Lively), N-775 (Justin Baldoni)*
 
 ---
 
@@ -464,7 +464,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2051.1, C-2868, N-1212 (Donald Trump Jr.)*
+*Related: A-2051.1, C-2868, N-62 (Donald Trump Jr.)*
 
 ---
 
@@ -479,7 +479,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-1210 (Harmeet Dhillon), N-1737 (2025 FARA Timeline Convergence)*
+*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-1737 (2025 FARA Timeline Convergence)*
 
 ---
 
@@ -492,7 +492,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2050.1, C-2867, N-42 (Josh Hammer), N-1732 (Salem Foreign Agent Status)*
+*Related: A-2050.1, C-2867, N-86 (Josh Hammer), N-1732 (Salem Foreign Agent Status)*
 
 ---
 
@@ -505,7 +505,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2052.1, A-2053.1, C-2870, C-2871, N-1211 (Pam Bondi), N-1737 (2025 FARA Timeline Convergence)*
+*Related: A-2052.1, A-2053.1, C-2870, C-2871, N-120 (Pam Bondi), N-1737 (2025 FARA Timeline Convergence)*
 
 ---
 
@@ -531,7 +531,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-1215 (Blake Lively), N-1216 (Justin Baldoni)*
+*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-774 (Blake Lively), N-775 (Justin Baldoni)*
 
 ---
 
@@ -544,7 +544,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-1210 (Harmeet Dhillon), N-1211 (Pam Bondi), N-1212 (Donald Trump Jr.), N-1732 (Salem Foreign Agent Status), N-1734 (Bondi FARA Disbanding)*
+*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-120 (Pam Bondi), N-62 (Donald Trump Jr.), N-1732 (Salem Foreign Agent Status), N-1734 (Bondi FARA Disbanding)*
 
 ---
 
@@ -598,8 +598,9 @@ Claim Timestamp: 00:06:41
 Claim: In an audio clip played on the episode, Baron Coleman stated that those co-opting Christian language do not answer to a human and that the events around Charlie Kirk's death constitute a "spiritual war" with demonic authorship.
 
 Anchored Artifacts: A-2046.1
+Mentions: N-552
 
-Related Nodes: N-1219
+Related Nodes:
 
 Investigative Direction: Obtain full unedited Coleman segment; verify no other named attribution in original show notes.
 
@@ -724,7 +725,7 @@ Claim Timestamp: 00:24:59
 Claim: Newsweek page views for the Josh Hammer show display counts of 399, 386, 665, and 355 across four recent videos, indicating negligible audience reach.
 
 Anchored Artifacts: A-2050.1
-Mentions: N-42
+Mentions: N-86
 
 Related Nodes: N-1733
 
@@ -739,8 +740,9 @@ Claim Timestamp: 00:31:21
 Claim: In April 2025, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
 
 Anchored Artifacts: A-2051.1
+Mentions: N-62
 
-Related Nodes: N-1212, N-1220, N-1732
+Related Nodes: N-1732
 
 Investigative Direction: Obtain Salem's official press release and SEC / corporate disclosures.
 
@@ -753,8 +755,9 @@ Claim Timestamp: 00:32:23
 Claim: Pursuant to the April 2025 deal, Salem acquired a 30% stake in M-News, a mobile news aggregation app co-owned by Donald Trump Jr.
 
 Anchored Artifacts: A-2051.1
+Mentions: N-62
 
-Related Nodes: N-1212, N-1732
+Related Nodes: N-1732
 
 Investigative Direction: Verify M-News corporate filings; confirm 30% acquisition price and structure.
 
@@ -767,8 +770,9 @@ Claim Timestamp: 00:34:17
 Claim: Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force.
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
+Mentions: N-120
 
-Related Nodes: N-1211, N-1214, N-1734, N-1737
+Related Nodes: N-1734, N-1737
 
 Investigative Direction: Obtain DOJ memorandum directly; confirm effective date and operative language.
 
@@ -781,8 +785,9 @@ Claim Timestamp: 00:34:17
 Claim: Per the DOJ statement, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.
 
 Anchored Artifacts: A-2053.1
+Mentions: N-120
 
-Related Nodes: N-1211, N-1734
+Related Nodes: N-1734
 
 Investigative Direction: Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions.
 
@@ -796,7 +801,7 @@ Claim: Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney Gener
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1210, N-1737
+Related Nodes: N-1737
 
 Investigative Direction: Confirm via DOJ announcement and Senate confirmation records.
 
@@ -810,7 +815,7 @@ Claim: According to the host's timeline, on August 27, 2025, Dhillon Law Group b
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1210, N-1732, N-1737
+Related Nodes: N-1732, N-1737
 
 Investigative Direction: Verify via FARA filing registrant of record and any disclosed outside counsel.
 
@@ -823,7 +828,7 @@ Claim Timestamp: 00:22:23
 Claim: On September 9, 2025, Charlie Kirk sent a group text declaring he had been "given no choice but to abandon the pro-Israel cause" due to bullying and financial pressure.
 
 Anchored Artifacts: A-2060.1
-Mentions: N-1, N-42
+Mentions: N-1, N-86
 
 
 Investigative Direction: Obtain the original group text record; verify the participant list and exact wording.
@@ -865,8 +870,9 @@ Claim Timestamp: 00:47:29
 Claim: On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.
 
 Anchored Artifacts: A-2056.1
+Mentions: N-774, N-775
 
-Related Nodes: N-1215, N-1216, N-1736
+Related Nodes: N-1736
 
 Investigative Direction: Obtain the actual April 2 court order; verify which claims survived and on what grounds.
 
@@ -879,8 +885,9 @@ Claim Timestamp: 00:47:29
 Claim: Following the April 2 ruling, Blake Lively issued a public statement asserting that the ruling "allows the heart of my case to be presented to a jury next month."
 
 Anchored Artifacts: A-2056.1
+Mentions: N-774
 
-Related Nodes: N-1215, N-1736
+Related Nodes: N-1736
 
 Investigative Direction: Verify against Lively's official public statement archive.
 
@@ -893,8 +900,9 @@ Claim Timestamp: 00:48:28
 Claim: Community Notes appended to Blake Lively's statement characterized her framing as "misleading the public and lying by omission with this truncated cherry-picked snippets."
 
 Anchored Artifacts: A-2057.1
+Mentions: N-774
 
-Related Nodes: N-1215, N-1736
+Related Nodes: N-1736
 
 Investigative Direction: Obtain screenshot of the Community Notes annotation; capture timestamp and full text.
 
@@ -907,8 +915,9 @@ Claim Timestamp: 00:50:04
 Claim: Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool."
 
 Anchored Artifacts: A-2058.1
+Mentions: N-774, N-775
 
-Related Nodes: N-1215, N-1216, N-1217, N-1218
+Related Nodes:
 
 Investigative Direction: Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.
 
@@ -921,8 +930,9 @@ Claim Timestamp: 00:50:30
 Claim: Deleted scenes from Deadpool & Wolverine contained additional content mocking Justin Baldoni, including a "podcast that monetizes the women's movement" line.
 
 Anchored Artifacts: A-2058.2
+Mentions: N-775
 
-Related Nodes: N-1216, N-1217, N-1218
+Related Nodes:
 
 Investigative Direction: Obtain deleted scene footage or trade press reporting on cut material.
 
@@ -935,8 +945,9 @@ Claim Timestamp: 00:51:57
 Claim: At the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs, per footage displayed on the episode.
 
 Anchored Artifacts: A-2059.1
+Mentions: N-774, N-775
 
-Related Nodes: N-1215, N-1216, N-1217, N-1218
+Related Nodes:
 
 Investigative Direction: Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.
 

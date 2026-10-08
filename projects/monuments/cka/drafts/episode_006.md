@@ -663,7 +663,7 @@ Claim Timestamp: 00:03:50
 Claim: Two unidentified men appeared in the immediate aftermath of the shooting and moved Charlie Kirk's chair and the camera positioned above his head.
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
-Mentions: N-50, N-75, N-99, N-107, N-115, N-118
+Mentions: N-99, N-118
 Related Nodes: N-1142
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.

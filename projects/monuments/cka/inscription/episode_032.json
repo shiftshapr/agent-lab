@@ -944,6 +944,26 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-587",
+      "ref": "N-587",
+      "name": "Kim Kardashian",
+      "type": "person",
+      "description": "Named in Courtney Love's January 2025 text messages, read on air, as connected to Lou Taylor.",
+      "related_artifacts": [
+        "A-1406.1"
+      ],
+      "related_claims": [
+        "C-1706"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1169,7 +1189,8 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships.",
       "mentions_person_refs": [
-        "N-392"
+        "N-392",
+        "N-587"
       ]
     },
     {

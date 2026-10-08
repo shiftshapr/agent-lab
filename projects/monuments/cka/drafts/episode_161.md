@@ -13,9 +13,11 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2371, N-2372, N-2373, N-2374, N-2375, N-2376, N-2377, N-2378, N-2379, N-2380, N-2381, N-2382, N-2383
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-16, N-42, N-46, N-52, N-59, N-69, N-75, N-102, N-133, N-144, N-169, N-170, N-205, N-224, N-242, N-272, N-293, N-406, N-424, N-443, N-476, N-550, N-909, N-994, N-1000, N-1078, N-1091, N-1320, N-2143, N-2214, N-2365, N-2366, N-447, N-579, N-580, N-581, N-582, N-583, N-584, N-585, N-472, N-586, N-477
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-16, N-42, N-46, N-52, N-59, N-69, N-75, N-102, N-133, N-144, N-169, N-170, N-205, N-224, N-242, N-272, N-293, N-406, N-424, N-443, N-476, N-550, N-909, N-994, N-1000, N-1078, N-1091, N-1320, N-2143, N-2214, N-2365, N-2366
+  - Hole-minted Nodes (seq161): N-447, N-472, N-477
+  - Hole-minted Nodes (wave1): N-579, N-580, N-581, N-582, N-583, N-584, N-585, N-586
   - (see registers)
-  - Person band: new persons minted into free holes N-447,448,449,450,452,465,469,470,472,473,477 (listed on Reused line like seq160 hole remints; New Nodes Introduced stays ascending topic band only). No person id in the topic band. Mark Herman (N-98) is not named; on-air "Chris" reused as N-144. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
+  - Person band: new persons were minted into free holes N-447, N-472 and N-477 (Hole-minted line, batch seq161); the other eight were re-minted in Wave 1 at N-579..N-586 (Hole-minted line, batch wave1). New Nodes Introduced lists the topic band only. No person id in the topic band. Mark Herman (N-98) is not named; on-air "Chris" reused as N-144. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
   - Claim/artifact ids start at C-3680 / A-2497 to sit after open PR #56 tip (C-3679 / A-2496) and avoid fork collisions.
   - Memes dense from tip M-60: new M-61..M-73 (Conspiracy Girly is M-21 occurrence, not a new id). Near-DIA tip-line / merch beats get own claims+artifacts; no exact M-12/M-14 brand line in this transcript.
 
@@ -855,8 +857,8 @@ Investigative Direction: Preserve full Fargo Talks episode; map Blake-Erika publ
 Claim Timestamp: 00:49:58
 Claim: Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links) later imitated by political clipping ops including the Erika/TPUSA-adjacent machine.
 Anchored Artifacts: A-2503.1
-Mentions: N-242
-Related Nodes: N-2381, N-293
+Mentions: N-242, N-293
+Related Nodes: N-2381
 Investigative Direction: Document Hustlers University affiliate mechanics vs Monster Lab Discord payout rules.
 
 ---

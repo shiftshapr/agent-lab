@@ -393,7 +393,7 @@ Investigative Direction: Slow-motion forensic review of original footage to dete
 Claim Timestamp: 00:29:26
 Claim: The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled "Relationship with Jeffrey Epstein."
 Anchored Artifacts: A-2200.1
-Related Nodes: N-1210, N-2157
+Related Nodes: N-2157
 Investigative Direction: Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.
 
 ---
@@ -403,7 +403,7 @@ Investigative Direction: Verify current Wikipedia article state at archive.org s
 Claim Timestamp: 00:30:00–00:30:41
 Claim: The Wikipedia article states that Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport, per passenger manifests released by the U.S. House Committee in October 2025.
 Anchored Artifacts: A-2200.2
-Related Nodes: N-1210, N-2157
+Related Nodes: N-2157
 Investigative Direction: Verify against the released October 2025 House Committee manifest documents.
 
 ---
@@ -413,7 +413,8 @@ Investigative Direction: Verify against the released October 2025 House Committe
 Claim Timestamp: 00:30:41–00:31:35
 Claim: The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.
 Anchored Artifacts: A-2200.3
-Related Nodes: N-1210, N-1211, N-2157
+Mentions: N-853
+Related Nodes: N-2157
 Investigative Direction: Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.
 
 ---
@@ -495,7 +496,7 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 
 **Claim Range:** C-3150–C-3161
 
-**New People Nodes Introduced:** N-1207 (Andrew Kovette), N-1208 (Mitchell Curtis), N-1209 (Foster Curtis), N-1210 (John C. Phelan), N-1211 (Jean-Luc Brunel)
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-1207..N-1211 are topic ids, not these people. Andrew Kolvet is N-42 and Jean-Luc Brunel is N-853; Mitchell Curtis, Foster Curtis and John C. Phelan have no CKA person node.
 
 **New Investigation Target Nodes Introduced:** N-2153 (Rooftop Movement Tactical Analysis), N-2154 (Weapon Discharge Visual Indicators), N-2155 (K9 Scent Tracking Discrepancy), N-2156 (Weapon Recovery Officer Chain and NCIS Connection), N-2157 (Secretary of the Navy Phelan Epstein Flight Connection)
 

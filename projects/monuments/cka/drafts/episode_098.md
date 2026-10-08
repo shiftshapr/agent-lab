@@ -50,7 +50,7 @@ Video Timestamp: 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2834, C-2835, C-2836, N-1 (Daily Wire entity if exists; else N-1726)*
+*Related: C-2834, C-2835, C-2836, N-631 (Daily Wire)*
 
 ---
 
@@ -212,7 +212,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:52:02
 Confidence Level: High
 
-*Related: N-3 (Theo Von node)*
+*Related: N-205 (Theo Von)*
 
 **A-2040.5** Legally Blonde comment offering freelance paralegal research
 
@@ -608,7 +608,7 @@ Claim Timestamp: 00:05:52
 Claim: The Daily Wire issued a statement to Breitbart Media describing layoffs as part of a "restructuring" decision.
 
 Anchored Artifacts: A-2030.1
-Mentions: N-1
+Mentions:
 
 
 ---
@@ -620,7 +620,7 @@ Claim Timestamp: 00:05:52
 Claim: The Daily Wire's statement said the cuts were largely concentrated at the Nashville production office.
 
 Anchored Artifacts: A-2030.1
-Mentions: N-1
+Mentions:
 
 
 Investigative Direction: Cross-check statement against dismissed-employee reporting and prior production staffing rosters.
@@ -634,7 +634,7 @@ Claim Timestamp: 00:05:52
 Claim: The Daily Wire's statement said it had added production staff in DC, the Northeast, and Florida over the past year.
 
 Anchored Artifacts: A-2030.1
-Mentions: N-1
+Mentions:
 
 
 Investigative Direction: Verify against LinkedIn/public hiring records and any DC bureau disclosures.

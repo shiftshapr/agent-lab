@@ -492,7 +492,7 @@ Claim Timestamp: 00:05:43
 Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-45, N-885, N-894
+Mentions: N-885, N-894
 
 Related Nodes: N-1560
 

@@ -512,7 +512,7 @@ Claim Timestamp: 00:56:27–00:57:53
 Claim: The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.
 
 Anchored Artifacts: Host testimonial confirmation; visual evidence of maroon-shirted attendees (referenced from prior episodes)
-Mentions: N-69
+Mentions:
 
 Related Nodes: N-1406
 

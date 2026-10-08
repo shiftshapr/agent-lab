@@ -245,7 +245,8 @@
             "C-1347"
           ],
           "related_nodes": [
-            "N-195"
+            "N-195",
+            "N-75"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -271,6 +272,7 @@
             "C-1348"
           ],
           "related_nodes": [
+            "N-75",
             "N-195"
           ],
           "tags": [],
@@ -297,7 +299,8 @@
             "C-1349"
           ],
           "related_nodes": [
-            "N-196"
+            "N-196",
+            "N-75"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,6 +318,7 @@
             "C-1348"
           ],
           "related_nodes": [
+            "N-75",
             "N-196"
           ],
           "tags": [],
@@ -876,7 +880,6 @@
       "claim_timestamp": "00:00:49",
       "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.",
       "mentions_person_refs": [
-        "N-183",
         "N-200"
       ]
     },
@@ -1081,7 +1084,8 @@
       "investigative_direction": "Capture full thread context including replies not quoted on air.",
       "mentions_person_refs": [
         "N-195",
-        "N-196"
+        "N-196",
+        "N-75"
       ]
     },
     {
