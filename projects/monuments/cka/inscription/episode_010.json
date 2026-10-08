@@ -343,14 +343,15 @@
           "@type": "Artifact",
           "@id": "A-2520.1",
           "ref": "A-2520.1",
-          "description": "Host statement naming Natasha Housedorf, Seth Dillon and Josh Hammer as Hamptons weekend attendees (verbal reference; no displayed artifact)",
+          "description": "Host statement naming Natasha Hausdorff, Seth Dillon and Josh Hammer as Hamptons weekend attendees (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3743"
+            "C-3731"
           ],
           "related_nodes": [
             "N-1",
             "N-67",
             "N-86",
+            "N-166",
             "N-167",
             "N-1000"
           ],
@@ -365,7 +366,7 @@
           "ref": "A-2520.2",
           "description": "Host identification of Marissa Strait in the PragerU video (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3744"
+            "C-3732"
           ],
           "related_nodes": [
             "N-168"
@@ -379,9 +380,9 @@
           "@type": "Artifact",
           "@id": "A-2520.3",
           "ref": "A-2520.3",
-          "description": "Host shout out to Taylor Lorent (verbal reference; no displayed artifact)",
+          "description": "Host shout out to Taylor Lorenz (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3745"
+            "C-3733"
           ],
           "related_nodes": [
             "N-3",
@@ -398,7 +399,7 @@
           "ref": "A-2520.4",
           "description": "Host comparison to Nikki Haley signing bombs, in reply to a viewer comment (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3746"
+            "C-3734"
           ],
           "related_nodes": [
             "N-175"
@@ -614,30 +615,33 @@
       "related_artifacts": [
         "A-1165.1",
         "A-1165.2",
-        "A-1169.1"
+        "A-1169.1",
+        "A-2520.1"
       ],
       "related_claims": [
         "C-1292",
-        "C-1293"
+        "C-1293",
+        "C-3731"
       ],
       "tags": [],
-      "evidence_count": 3,
-      "claim_count": 2,
+      "evidence_count": 4,
+      "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": []
     },
     {
       "@type": "Person",
       "@id": "N-167",
       "ref": "N-167",
-      "name": "Natasha Housedorf",
+      "name": "Natasha Hausdorff",
       "type": "person",
       "description": "Named as attendee of Hamptons weekend retreat.",
       "related_artifacts": [
         "A-2520.1"
       ],
       "related_claims": [
-        "C-3743"
+        "C-3731"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -676,7 +680,7 @@
         "A-2520.2"
       ],
       "related_claims": [
-        "C-3744"
+        "C-3732"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -799,14 +803,14 @@
       "@type": "Person",
       "@id": "N-171",
       "ref": "N-171",
-      "name": "Taylor Lorent",
+      "name": "Taylor Lorenz",
       "type": "person",
       "description": "Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.",
       "related_artifacts": [
         "A-2520.3"
       ],
       "related_claims": [
-        "C-3745"
+        "C-3733"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -905,7 +909,7 @@
         "A-2520.4"
       ],
       "related_claims": [
-        "C-3746"
+        "C-3734"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1510,10 +1514,10 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3743",
-      "ref": "C-3743",
-      "label": "Host names Hamptons attendees Natasha Housedorf, Seth Dillon and Josh Hammer",
-      "claim": "Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Housedorf and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "@id": "C-3731",
+      "ref": "C-3731",
+      "label": "Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer",
+      "claim": "Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Housedorf\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
       "anchored_artifacts": [
         "A-2520.1"
       ],
@@ -1529,13 +1533,14 @@
         "N-1",
         "N-67",
         "N-86",
+        "N-166",
         "N-167"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-3744",
-      "ref": "C-3744",
+      "@id": "C-3732",
+      "ref": "C-3732",
       "label": "Host identifies Marissa Strait in the PragerU video",
       "claim": "The host, who previously worked for PragerU, says she knows Marissa Strait, identifies her in the PragerU video, and calls the video a PR operation that addresses the points without addressing them.",
       "anchored_artifacts": [
@@ -1553,17 +1558,17 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3745",
-      "ref": "C-3745",
-      "label": "Host credits Taylor Lorent for noting her isolation",
-      "claim": "The host gives a shout out to Taylor Lorent (transcript also \"Taylor Ren\"), who she says asked on X why Candace seemed to be the only one speaking out.",
+      "@id": "C-3733",
+      "ref": "C-3733",
+      "label": "Host credits Taylor Lorenz for noting her isolation",
+      "claim": "The host gives a shout out to Taylor Lorenz (transcript: \"Taylor Lorent\", also \"Taylor Ren\"), who she says asked on X why Candace seemed to be the only one speaking out.",
       "anchored_artifacts": [
         "A-2520.3"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:29",
-      "investigative_direction": "Locate the Taylor Lorent post on X.",
+      "investigative_direction": "Locate the Taylor Lorenz post on X.",
       "transcript_snippet": "Actually, a shout out to Taylor Lorent.",
       "confidence": "medium",
       "mentions_person_refs": [
@@ -1573,8 +1578,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3746",
-      "ref": "C-3746",
+      "@id": "C-3734",
+      "ref": "C-3734",
       "label": "Host likens signed bullets to Nikki Haley signing bombs",
       "claim": "Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that were dropped and killed children.",
       "anchored_artifacts": [

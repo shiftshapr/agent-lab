@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-5, N-989, N-990, N-993, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
-  - Reused Nodes Appearing: N-1207, N-1208
+  - New Nodes Introduced: N-5, N-989, N-990, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
+  - Reused Nodes Appearing: N-138, N-1207, N-1208
   - (see registers)
 
 ## 6. Meme Register
@@ -147,7 +147,7 @@ Video Timestamp: 00:18:54–00:20:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2484, N-133, N-993, N-3*
+*Related: C-2484, N-133, N-138, N-3*
 
 ---
 
@@ -474,7 +474,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-993** Michael Knowles
+**N-138** Michael Knowles
 
 Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.
 
@@ -757,7 +757,7 @@ Claim Timestamp: 00:18:54–00:20:00
 Claim: An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state "the sentence with her name in it" regarding Candace Owens allegedly attacking "Erika Curren," with Knowles refusing.
 
 Anchored Artifacts: A-1851.1
-Mentions: N-3, N-133, N-993
+Mentions: N-3, N-133, N-138
 
 
 Investigative Direction: Obtain the full unedited video clip; verify date and venue.

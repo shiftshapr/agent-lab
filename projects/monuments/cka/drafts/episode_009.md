@@ -16,8 +16,8 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
-  - Claim Range: C-1267-C-1285, C-3735-C-3742
-  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-158, N-159, N-160, N-161, N-162, N-163, N-164, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
+  - Claim Range: C-1267-C-1285, C-3728-C-3730
+  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-161, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
   - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079
 
 ## 2. Executive Summary
@@ -120,54 +120,24 @@ Confidence: low
 
 ---
 
-**A-2519** Host Verbal References and Viewer Comments Bundle
+**A-2519** Host Verbal References and Viewer Tip Bundle
 
 **A-2519.1** Host reference to Corey Comperatore's death at the Butler rally (verbal reference; no displayed artifact)
 Video Timestamp: 00:20:33–00:20:55
-*Related: C-3735, N-5, N-149*
+*Related: C-3728, N-5, N-149*
 Transcript Snippet: A 50-year-old firefighter named Corey Comparator lost his life um trying to save his children.
 Confidence: medium
 
 **A-2519.2** Host reference to C.S. Lewis on scientism (verbal reference; no displayed artifact)
 Video Timestamp: 00:37:04–00:37:13
-*Related: C-3736, N-156*
+*Related: C-3729, N-156*
 Transcript Snippet: Like we are now in this culture of what CS Lewis refers to as scientism.
 Confidence: medium
 
-**A-2519.3** Viewer comment from Warwick Spiller read on air (verbal reference; no displayed artifact)
-Video Timestamp: 00:41:52–00:42:03
-*Related: C-3737, N-158*
-Transcript Snippet: The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.
-Confidence: medium
-
-**A-2519.4** Viewer comment from Lighthouse read on air (verbal reference; no displayed artifact)
-Video Timestamp: 00:42:18–00:42:34
-*Related: C-3738, N-2, N-163*
-Transcript Snippet: Some feel that Erika is faking her emotions.
-Confidence: medium
-
-**A-2519.5** Viewer comment from Reagan read on air (verbal reference; no displayed artifact)
-Video Timestamp: 00:44:12–00:44:31
-*Related: C-3739, N-160*
-Transcript Snippet: I'm a former teacher who quit halfway through year five.
-Confidence: medium
-
-**A-2519.6** Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)
+**A-2519.3** Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)
 Video Timestamp: 00:44:43–00:44:59
-*Related: C-3740, N-1, N-161*
+*Related: C-3730, N-1, N-161*
 Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
-Confidence: medium
-
-**A-2519.7** Viewer comment from Aravik read on air (verbal reference; no displayed artifact)
-Video Timestamp: 00:45:48–00:45:55
-*Related: C-3741, N-162*
-Transcript Snippet: I truly admire you, not just for your courage,
-Confidence: medium
-
-**A-2519.8** Viewer comment from Brooke Rice read on air (verbal reference; no displayed artifact)
-Video Timestamp: 00:46:22–00:46:31
-*Related: C-3742, N-164*
-Transcript Snippet: My grandparents met and were engaged three days later.
 Confidence: medium
 
 ---
@@ -235,7 +205,7 @@ Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 Node Type: Person
 Firefighter killed shielding family at July 13, 2024 Trump rally.
 
-*Related: A-2519.1, C-3735*
+*Related: A-2519.1, C-3728*
 
 
 
@@ -342,7 +312,7 @@ Referenced in book-club discussion of psychoanalytic community origins.
 Node Type: Person
 Referenced for concept of 'scientism'.
 
-*Related: A-2519.2, C-3736*
+*Related: A-2519.2, C-3729*
 
 
 
@@ -377,17 +347,6 @@ Producer who corrects promo code on-air (Blackout15).
 
 ---
 
-**N-158** Warwick Spiller
-
-Node Type: Person
-Commenter correcting Church name; explains beehive = work-for-Christ.
-
-*Related: A-2519.3, C-3737*
-
-
-
----
-
 **N-159** Natalie
 
 Node Type: Person
@@ -397,56 +356,12 @@ Listener who tipped unverified video of Tyler Robinson with a woman.
 
 ---
 
-**N-160** Reagan (commenter)
-
-Node Type: Person
-Former teacher; requests education-system reading recommendations.
-
-*Related: A-2519.5, C-3739*
-
-
-
----
-
 **N-161** Recovery Recon (commenter)
 
 Node Type: Person
 Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.
 
-*Related: A-2519.6, C-3740*
-
-
-
----
-
-**N-162** Aravik (commenter)
-
-Node Type: Person
-Commenter praising host's investigation.
-
-*Related: A-2519.7, C-3741*
-
-
-
----
-
-**N-163** Lighthouse (commenter)
-
-Node Type: Person
-Commenter defending Erika Kirk's grief response.
-
-*Related: A-2519.4, C-3738*
-
-
-
----
-
-**N-164** Brooke Rice (commenter)
-
-Node Type: Person
-Commenter noting grandparents' 3-day engagement, 67-yr marriage.
-
-*Related: A-2519.8, C-3742*
+*Related: A-2519.3, C-3730*
 
 
 
@@ -928,7 +843,7 @@ Investigative Direction: Identify and interview the eyewitness; obtain his foota
 
 ---
 
-**C-3735** Corey Comperatore killed at the Butler rally
+**C-3728** Corey Comperatore killed at the Butler rally
 
 Claim Timestamp: 00:20:44
 Claim: Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: "Corey Comparator") lost his life trying to save his children and that the public was told virtually nothing afterward.
@@ -940,7 +855,7 @@ Investigative Direction: Compare official Butler investigation disclosures with 
 
 ---
 
-**C-3736** Host invokes C.S. Lewis on scientism
+**C-3729** Host invokes C.S. Lewis on scientism
 
 Claim Timestamp: 00:37:04
 Claim: The host says the culture is in what C.S. Lewis called scientism, where anything labeled science is not questioned, and argues spiritual forces are at work.
@@ -952,75 +867,15 @@ Investigative Direction: None; rhetorical framing.
 
 ---
 
-**C-3737** Viewer Warwick Spiller corrects the LDS church name
-
-Claim Timestamp: 00:41:52
-Claim: Viewer Warwick Spiller, in a comment read on air, says the name of the Mormon church is the Church of Jesus Christ of Latter-day Saints, and the host accepts the correction.
-Transcript Snippet: The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.
-Anchored Artifacts: A-2519.3
-Mentions: N-158
-Confidence: medium
-Investigative Direction: None; viewer comment context.
-
----
-
-**C-3738** Viewer Lighthouse defends Erika Kirk grief response
-
-Claim Timestamp: 00:42:18
-Claim: Viewer Lighthouse, in a comment read on air, responds to claims that Erika is faking her emotions by describing numbness after losing a son, and the host urges grace.
-Transcript Snippet: Some feel that Erika is faking her emotions.
-Anchored Artifacts: A-2519.4
-Mentions: N-2, N-163
-Confidence: medium
-Investigative Direction: None; viewer comment context.
-
----
-
-**C-3739** Viewer Reagan asks for education system resources
-
-Claim Timestamp: 00:44:12
-Claim: Viewer Reagan, a former teacher, in a comment read on air, asks what resources to use to explain the school system to former colleagues; the host recommends Inside the American Education System.
-Transcript Snippet: I'm a former teacher who quit halfway through year five.
-Anchored Artifacts: A-2519.5
-Mentions: N-160
-Confidence: medium
-Investigative Direction: None; viewer comment context.
-
----
-
-**C-3740** Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case
+**C-3730** Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case
 
 Claim Timestamp: 00:44:43
 Claim: Viewer Recovery Recon, in a comment read on air, contrasts the FBI quickly posting ammunition and window photos after the Dallas ICE facility shooting with nothing comparable released for Charlie.
 Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
-Anchored Artifacts: A-2519.6
+Anchored Artifacts: A-2519.3
 Mentions: N-1, N-161
 Confidence: medium
 Investigative Direction: Compare FBI evidence releases in the Dallas ICE facility shooting and the Kirk case.
-
----
-
-**C-3741** Viewer Aravik praises the host investigations
-
-Claim Timestamp: 00:45:48
-Claim: Viewer Aravik, in a comment read on air, praises the host for investigating truths others ignore and calls her the only voice they fully trust.
-Transcript Snippet: I truly admire you, not just for your courage,
-Anchored Artifacts: A-2519.7
-Mentions: N-162
-Confidence: medium
-Investigative Direction: None; viewer comment context.
-
----
-
-**C-3742** Viewer Brooke Rice shares a quick-engagement family story
-
-Claim Timestamp: 00:46:22
-Claim: Viewer Brooke Rice, in a comment read on air, says her grandparents met and were engaged three days later and stayed married 67 years.
-Transcript Snippet: My grandparents met and were engaged three days later.
-Anchored Artifacts: A-2519.8
-Mentions: N-164
-Confidence: medium
-Investigative Direction: None; viewer comment context.
 
 ---
 
@@ -1056,10 +911,10 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:53:15–00:53:40
-Speaker: N-158
-Quote: The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.
-Context: Listener correction as host oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.
+Video Timestamp: 00:41:58–00:42:08
+Speaker: N-3
+Quote: At different times, it says Mormon. Other times, it says Church of Jesus Christ of Latter-day Saints
+Context: Answering a viewer correction (viewer handle not noded), the host concedes she oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.
 Tags: denominational_naming
 Confidence: high
 
@@ -1113,4 +968,4 @@ TopicMention: C-1275 N-1185
 
 MemeLink: M-5 invoked_by_claim C-1268
 MemeLink: M-6 invoked_by_speaker N-3
-MemeLink: M-7 invoked_by_speaker N-158
+MemeLink: M-7 invoked_by_speaker N-3

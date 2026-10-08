@@ -358,138 +358,24 @@
       "@type": "ArtifactFamily",
       "@id": "A-2518",
       "family_ref": "A-2518",
-      "bundle_name": "Catholic Mass Debate Reference and Viewer Comments Bundle",
+      "bundle_name": "Catholic Mass Debate Reference Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2518.1",
           "ref": "A-2518.1",
-          "description": "Verbal reference to videos of Charlie Kirk debating Michael Nolles (verbal reference; no displayed artifact)",
+          "description": "Andrew Kolvet clip: verbal reference to videos of Charlie Kirk debating Michael Knowles (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3727"
           ],
           "related_nodes": [
             "N-1",
+            "N-42",
             "N-138"
           ],
           "tags": [],
           "video_timestamp": "00:34:07–00:34:23",
           "transcript_snippet": "You can go check the videos out him debating with uh Michael Nolles, you know,",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.2",
-          "ref": "A-2518.2",
-          "description": "Viewer comment from John Heinchell read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3728"
-          ],
-          "related_nodes": [
-            "N-1",
-            "N-139"
-          ],
-          "tags": [],
-          "video_timestamp": "00:53:42–00:53:58",
-          "transcript_snippet": "The question I have is why now from an LGBTQ person?",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.3",
-          "ref": "A-2518.3",
-          "description": "Viewer comment from Jenna V read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3729"
-          ],
-          "related_nodes": [
-            "N-1",
-            "N-140"
-          ],
-          "tags": [],
-          "video_timestamp": "00:55:10–00:55:14",
-          "transcript_snippet": "Thank you for fighting so hard for that precious human being,",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.4",
-          "ref": "A-2518.4",
-          "description": "Viewer comment from Tempes read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3730"
-          ],
-          "related_nodes": [
-            "N-1",
-            "N-141"
-          ],
-          "tags": [],
-          "video_timestamp": "00:56:45–00:56:57",
-          "transcript_snippet": "They didn't kill Charlie, only his physical form.",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.5",
-          "ref": "A-2518.5",
-          "description": "Viewer comment from Carl read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3731"
-          ],
-          "related_nodes": [
-            "N-142"
-          ],
-          "tags": [],
-          "video_timestamp": "00:57:24–00:57:37",
-          "transcript_snippet": "My wife and I love your show,",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.6",
-          "ref": "A-2518.6",
-          "description": "Viewer comment from Mary Kelly read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3732"
-          ],
-          "related_nodes": [
-            "N-143"
-          ],
-          "tags": [],
-          "video_timestamp": "00:57:55–00:58:00",
-          "transcript_snippet": "You are my Jon of Arc.",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.7",
-          "ref": "A-2518.7",
-          "description": "Viewer comment from Milana read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3733"
-          ],
-          "related_nodes": [
-            "N-146"
-          ],
-          "tags": [],
-          "video_timestamp": "00:59:42–00:59:53",
-          "transcript_snippet": "What curriculum do you recommend if I were to homeschool my kids?",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2518.8",
-          "ref": "A-2518.8",
-          "description": "Viewer comment from Lover of Light read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3734"
-          ],
-          "related_nodes": [
-            "N-147"
-          ],
-          "tags": [],
-          "video_timestamp": "01:01:04–01:01:14",
-          "transcript_snippet": "don't forget to share some of those funny personal stories",
           "confidence": "medium"
         }
       ]
@@ -652,19 +538,22 @@
         "A-1151.1",
         "A-1151.2",
         "A-1151.3",
-        "A-1151.4"
+        "A-1151.4",
+        "A-2518.1"
       ],
       "related_claims": [
         "C-1255",
         "C-1256",
         "C-1257",
-        "C-1258"
+        "C-1258",
+        "C-3727"
       ],
       "tags": [],
-      "evidence_count": 4,
-      "claim_count": 4,
+      "evidence_count": 5,
+      "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -806,7 +695,7 @@
       "@type": "Person",
       "@id": "N-138",
       "ref": "N-138",
-      "name": "Michael Nolles",
+      "name": "Michael Knowles",
       "type": "person",
       "description": "Catholic debate partner of Charlie Kirk referenced by Kovette.",
       "related_artifacts": [
@@ -843,106 +732,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-139",
-      "ref": "N-139",
-      "name": "John Heinchell",
-      "type": "person",
-      "description": "Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.",
-      "related_artifacts": [
-        "A-2518.2"
-      ],
-      "related_claims": [
-        "C-3728"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-140",
-      "ref": "N-140",
-      "name": "Jenna V",
-      "type": "person",
-      "description": "Commenter thanking host and recalling mutual support with Charlie.",
-      "related_artifacts": [
-        "A-2518.3"
-      ],
-      "related_claims": [
-        "C-3729"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-141",
-      "ref": "N-141",
-      "name": "Tempes",
-      "type": "person",
-      "description": "Commenter on Charlie's spiritual status.",
-      "related_artifacts": [
-        "A-2518.4"
-      ],
-      "related_claims": [
-        "C-3730"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-142",
-      "ref": "N-142",
-      "name": "Carl",
-      "type": "person",
-      "description": "Commenter thanking host for questioning the establishment.",
-      "related_artifacts": [
-        "A-2518.5"
-      ],
-      "related_claims": [
-        "C-3731"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-143",
-      "ref": "N-143",
-      "name": "Mary Kelly",
-      "type": "person",
-      "description": "Commenter praying via Flame of Love rosaries.",
-      "related_artifacts": [
-        "A-2518.6"
-      ],
-      "related_claims": [
-        "C-3732"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-144",
       "ref": "N-144",
       "name": "Chris",
@@ -974,46 +763,6 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
-      "name": "Milana",
-      "type": "person",
-      "description": "Commenter asking about homeschooling curriculum.",
-      "related_artifacts": [
-        "A-2518.7"
-      ],
-      "related_claims": [
-        "C-3733"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
-      "name": "Lover of Light",
-      "type": "person",
-      "description": "Commenter asking host to share personal stories.",
-      "related_artifacts": [
-        "A-2518.8"
-      ],
-      "related_claims": [
-        "C-3734"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -1976,156 +1725,21 @@
       "@type": "Claim",
       "@id": "C-3727",
       "ref": "C-3727",
-      "label": "Charlie Kirk debated Michael Nolles on Protestant versus Catholic theology",
-      "claim": "In the discussion of Charlie Kirk attending Catholic mass, the speaker says Charlie debated Michael Nolles in good fun on Protestant versus Catholic theology and that they were dear friends.",
+      "label": "Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology",
+      "claim": "Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as \"Andrew's response to the Catholic question\"), says Charlie Kirk debated Michael Knowles (transcript: \"Michael Nolles\") in good fun on Protestant versus Catholic theology and that they were dear friends.",
       "anchored_artifacts": [
         "A-2518.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:12",
-      "investigative_direction": "Locate the Charlie Kirk and Michael Nolles debate videos.",
+      "investigative_direction": "Locate the Charlie Kirk and Michael Knowles debate videos.",
       "transcript_snippet": "You can go check the videos out him debating with uh Michael Nolles, you know,",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1",
+        "N-42",
         "N-138"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3728",
-      "ref": "C-3728",
-      "label": "Viewer John Heinchell questions the timing of the LGBTQ donation",
-      "claim": "Viewer John Heinchell, in a comment read on air, asks why the donation came now from an LGBTQ person and says Charlie's public views on the genocide and Netanyahu were what changed before his assassination.",
-      "anchored_artifacts": [
-        "A-2518.2"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:53:42",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "The question I have is why now from an LGBTQ person?",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-1",
-        "N-139"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3729",
-      "ref": "C-3729",
-      "label": "Viewer Jenna V thanks the host for fighting for Charlie Kirk",
-      "claim": "Viewer Jenna V, in a comment read on air, thanks the host for fighting so hard for Charlie Kirk.",
-      "anchored_artifacts": [
-        "A-2518.3"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:55:10",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "Thank you for fighting so hard for that precious human being,",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-1",
-        "N-140"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3730",
-      "ref": "C-3730",
-      "label": "Viewer Tempes says Charlie Kirk lives on",
-      "claim": "Viewer Tempes, in a comment read on air, says they did not kill Charlie, only his physical form, and that he lives on with God.",
-      "anchored_artifacts": [
-        "A-2518.4"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:56:45",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "They didn't kill Charlie, only his physical form.",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-1",
-        "N-141"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3731",
-      "ref": "C-3731",
-      "label": "Viewer Carl thanks the host for asking questions",
-      "claim": "Viewer Carl, in a comment read on air, says he and his wife love the show and that it has opened people's eyes to the lying going on around them.",
-      "anchored_artifacts": [
-        "A-2518.5"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:57:24",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "My wife and I love your show,",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-142"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3732",
-      "ref": "C-3732",
-      "label": "Viewer Mary Kelly calls the host her Joan of Arc",
-      "claim": "Viewer Mary Kelly, in a comment read on air, calls the host her Joan of Arc and offers prayers for her family.",
-      "anchored_artifacts": [
-        "A-2518.6"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:57:55",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "You are my Jon of Arc.",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-143"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3733",
-      "ref": "C-3733",
-      "label": "Viewer Milana asks for a homeschool curriculum",
-      "claim": "Viewer Milana, in a comment read on air, asks what curriculum the host recommends for homeschooling; the host says she is trialing a classical and Montessori approach.",
-      "anchored_artifacts": [
-        "A-2518.7"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:59:42",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "What curriculum do you recommend if I were to homeschool my kids?",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-146"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3734",
-      "ref": "C-3734",
-      "label": "Viewer Lover of Light asks for personal stories",
-      "claim": "Viewer Lover of Light, in a comment read on air, thanks the host and asks her to keep sharing funny personal stories.",
-      "anchored_artifacts": [
-        "A-2518.8"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "01:01:04",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "don't forget to share some of those funny personal stories",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-147"
       ]
     }
   ],

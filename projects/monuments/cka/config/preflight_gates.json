@@ -7,7 +7,7 @@
       {"claim": "C-1268", "node": "N-59", "reason": "claim text: 'Candace met her husband for the first time during the UK trip'"},
       {"claim": "C-1269", "node": "N-59", "reason": "claim text: 'text messages ... with her husband'; transcript 13:27 'I said to my husband'"},
       {"claim": "C-1269", "node": "N-157", "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"},
-      {"claim": "C-1817", "node": "N-471", "reason": "Transit ruling on PR 59: accepted as a reviewed reference (ep39)"},
+      {"claim": "C-1817", "node": "N-471", "reason": "ep39 47:01 \"Tyler Bowyer has a younger brother\" (Transit ruling on PR 59)"},
       {"claim": "C-1183", "node": "N-69", "reason": "role ref: the person in the FBI static images is the suspect, Tyler Robinson (ep4); claim text refers to the suspect"},
       {"claim": "C-1204", "node": "N-42", "reason": "Transit ruling on PR 59: 'Andrew Kovit' at 39:14 is outside the window only because of the known ep5 +9 min drift (quoted lines 39:14 to 44:19)"},
       {"claim": "C-1296", "node": "N-5", "reason": "role ref: claim text 'the President of the United States' (ep10)"},
@@ -17,7 +17,10 @@
       {"claim": "C-1822", "node": "N-224", "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"},
       {"claim": "C-2192", "node": "N-789", "reason": "role ref: claim and transcript refer to 'the CMO', Marina (ep62)"},
       {"claim": "C-3686", "node": "N-59", "reason": "role ref: 'my husband' at 18:40 (ep161)"},
-      {"claim": "C-3698", "node": "N-1", "reason": "role ref: 'a body reportedly dead' is Charlie Kirk (ep161)"}
+      {"claim": "C-3698", "node": "N-1", "reason": "role ref: 'a body reportedly dead' is Charlie Kirk (ep161)"},
+      {"claim": "C-1185", "node": "N-67", "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Seth Dillon named at 47:14 to 47:37"},
+      {"claim": "C-1185", "node": "N-86", "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Josh Hammer named at 49:58"},
+      {"claim": "C-1160", "node": "N-87", "reason": "anchored artifact A-1102.1 is the Aaron Wexler-sent Hamptons invitations; ep3 41:32 'Aaron Wexler sent out some of the invitations'"}
     ],
     "first_name_ok": ["N-1", "N-2"],
     "window_seconds": 240,

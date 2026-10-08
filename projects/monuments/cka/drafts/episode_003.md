@@ -196,7 +196,7 @@ Confidence: medium
 
 **A-2516** Host Verbal References and Viewer Comment Bundle
 
-**A-2516.1** Host statement that her genocide tweet referred to Brian Mass's remarks (verbal reference; no displayed artifact)
+**A-2516.1** Host statement that her genocide tweet referred to Brian Mast's remarks (verbal reference; no displayed artifact)
 Video Timestamp: 00:56:04–00:56:22
 *Related: C-3721, N-95*
 Transcript Snippet: I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
@@ -455,7 +455,7 @@ Subject of Candace's prior Israel-pressure recollection.
 
 ---
 
-**N-95** Brian Mass
+**N-95** Brian Mast
 
 Node Type: Person
 Subject of a tweet Candace referenced about genocide.
@@ -845,7 +845,7 @@ Claim Timestamp: 01:00:46
 Claim: Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.
 Transcript Snippet: Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
-Mentions: N-66, N-97
+Mentions: N-66, N-97, N-87
 Related Nodes: N-1098
 Confidence: high
 Investigative Direction: Cross-reference attendee statements with published itinerary.
@@ -1048,15 +1048,15 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 ---
 
 
-**C-3721** Host says her genocide tweet referred to Brian Mass remarks
+**C-3721** Host says her genocide tweet referred to Brian Mast remarks
 
 Claim Timestamp: 00:56:16
-Claim: The host says her tweet that genocide is always wrong referred to Brian Mass's remarks, and that the statement stands even if it had not.
+Claim: The host says her tweet that genocide is always wrong referred to Brian Mast's remarks (transcript: "Brian Mass"), and that the statement stands even if it had not.
 Transcript Snippet: I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
 Anchored Artifacts: A-2516.1
 Mentions: N-95
 Confidence: medium
-Investigative Direction: Locate the Brian Mass remarks the tweet responded to and the tweet itself.
+Investigative Direction: Locate the Brian Mast remarks the tweet responded to and the tweet itself.
 
 ---
 

@@ -280,7 +280,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2519",
       "family_ref": "A-2519",
-      "bundle_name": "Host Verbal References and Viewer Comments Bundle",
+      "bundle_name": "Host Verbal References and Viewer Tip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -288,7 +288,7 @@
           "ref": "A-2519.1",
           "description": "Host reference to Corey Comperatore's death at the Butler rally (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3735"
+            "C-3728"
           ],
           "related_nodes": [
             "N-5",
@@ -305,7 +305,7 @@
           "ref": "A-2519.2",
           "description": "Host reference to C.S. Lewis on scientism (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3736"
+            "C-3729"
           ],
           "related_nodes": [
             "N-156"
@@ -319,58 +319,9 @@
           "@type": "Artifact",
           "@id": "A-2519.3",
           "ref": "A-2519.3",
-          "description": "Viewer comment from Warwick Spiller read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3737"
-          ],
-          "related_nodes": [
-            "N-158"
-          ],
-          "tags": [],
-          "video_timestamp": "00:41:52–00:42:03",
-          "transcript_snippet": "The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2519.4",
-          "ref": "A-2519.4",
-          "description": "Viewer comment from Lighthouse read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3738"
-          ],
-          "related_nodes": [
-            "N-2",
-            "N-163"
-          ],
-          "tags": [],
-          "video_timestamp": "00:42:18–00:42:34",
-          "transcript_snippet": "Some feel that Erika is faking her emotions.",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2519.5",
-          "ref": "A-2519.5",
-          "description": "Viewer comment from Reagan read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3739"
-          ],
-          "related_nodes": [
-            "N-160"
-          ],
-          "tags": [],
-          "video_timestamp": "00:44:12–00:44:31",
-          "transcript_snippet": "I'm a former teacher who quit halfway through year five.",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2519.6",
-          "ref": "A-2519.6",
           "description": "Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3740"
+            "C-3730"
           ],
           "related_nodes": [
             "N-1",
@@ -379,38 +330,6 @@
           "tags": [],
           "video_timestamp": "00:44:43–00:44:59",
           "transcript_snippet": "Is it not weird that within minutes the FBI posted pics of the ammo",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2519.7",
-          "ref": "A-2519.7",
-          "description": "Viewer comment from Aravik read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3741"
-          ],
-          "related_nodes": [
-            "N-162"
-          ],
-          "tags": [],
-          "video_timestamp": "00:45:48–00:45:55",
-          "transcript_snippet": "I truly admire you, not just for your courage,",
-          "confidence": "medium"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-2519.8",
-          "ref": "A-2519.8",
-          "description": "Viewer comment from Brooke Rice read on air (verbal reference; no displayed artifact)",
-          "related_claims": [
-            "C-3742"
-          ],
-          "related_nodes": [
-            "N-164"
-          ],
-          "tags": [],
-          "video_timestamp": "00:46:22–00:46:31",
-          "transcript_snippet": "My grandparents met and were engaged three days later.",
           "confidence": "medium"
         }
       ]
@@ -562,7 +481,7 @@
         "A-2519.1"
       ],
       "related_claims": [
-        "C-3735"
+        "C-3728"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -768,7 +687,7 @@
         "A-2519.2"
       ],
       "related_claims": [
-        "C-3736"
+        "C-3729"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -839,26 +758,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
-      "name": "Warwick Spiller",
-      "type": "person",
-      "description": "Commenter correcting Church name; explains beehive = work-for-Christ.",
-      "related_artifacts": [
-        "A-2519.3"
-      ],
-      "related_claims": [
-        "C-3737"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-159",
       "ref": "N-159",
       "name": "Natalie",
@@ -878,96 +777,16 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
-      "name": "Reagan (commenter)",
-      "type": "person",
-      "description": "Former teacher; requests education-system reading recommendations.",
-      "related_artifacts": [
-        "A-2519.5"
-      ],
-      "related_claims": [
-        "C-3739"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-161",
       "ref": "N-161",
       "name": "Recovery Recon (commenter)",
       "type": "person",
       "description": "Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.",
       "related_artifacts": [
-        "A-2519.6"
+        "A-2519.3"
       ],
       "related_claims": [
-        "C-3740"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
-      "name": "Aravik (commenter)",
-      "type": "person",
-      "description": "Commenter praising host's investigation.",
-      "related_artifacts": [
-        "A-2519.7"
-      ],
-      "related_claims": [
-        "C-3741"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-163",
-      "ref": "N-163",
-      "name": "Lighthouse (commenter)",
-      "type": "person",
-      "description": "Commenter defending Erika Kirk's grief response.",
-      "related_artifacts": [
-        "A-2519.4"
-      ],
-      "related_claims": [
-        "C-3738"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
-      "name": "Brooke Rice (commenter)",
-      "type": "person",
-      "description": "Commenter noting grandparents' 3-day engagement, 67-yr marriage.",
-      "related_artifacts": [
-        "A-2519.8"
-      ],
-      "related_claims": [
-        "C-3742"
+        "C-3730"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1799,8 +1618,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3735",
-      "ref": "C-3735",
+      "@id": "C-3728",
+      "ref": "C-3728",
       "label": "Corey Comperatore killed at the Butler rally",
       "claim": "Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: \"Corey Comparator\") lost his life trying to save his children and that the public was told virtually nothing afterward.",
       "anchored_artifacts": [
@@ -1819,8 +1638,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3736",
-      "ref": "C-3736",
+      "@id": "C-3729",
+      "ref": "C-3729",
       "label": "Host invokes C.S. Lewis on scientism",
       "claim": "The host says the culture is in what C.S. Lewis called scientism, where anything labeled science is not questioned, and argues spiritual forces are at work.",
       "anchored_artifacts": [
@@ -1838,70 +1657,12 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3737",
-      "ref": "C-3737",
-      "label": "Viewer Warwick Spiller corrects the LDS church name",
-      "claim": "Viewer Warwick Spiller, in a comment read on air, says the name of the Mormon church is the Church of Jesus Christ of Latter-day Saints, and the host accepts the correction.",
-      "anchored_artifacts": [
-        "A-2519.3"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:41:52",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-158"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3738",
-      "ref": "C-3738",
-      "label": "Viewer Lighthouse defends Erika Kirk grief response",
-      "claim": "Viewer Lighthouse, in a comment read on air, responds to claims that Erika is faking her emotions by describing numbness after losing a son, and the host urges grace.",
-      "anchored_artifacts": [
-        "A-2519.4"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:42:18",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "Some feel that Erika is faking her emotions.",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-2",
-        "N-163"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3739",
-      "ref": "C-3739",
-      "label": "Viewer Reagan asks for education system resources",
-      "claim": "Viewer Reagan, a former teacher, in a comment read on air, asks what resources to use to explain the school system to former colleagues; the host recommends Inside the American Education System.",
-      "anchored_artifacts": [
-        "A-2519.5"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:44:12",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "I'm a former teacher who quit halfway through year five.",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-160"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3740",
-      "ref": "C-3740",
+      "@id": "C-3730",
+      "ref": "C-3730",
       "label": "Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case",
       "claim": "Viewer Recovery Recon, in a comment read on air, contrasts the FBI quickly posting ammunition and window photos after the Dallas ICE facility shooting with nothing comparable released for Charlie.",
       "anchored_artifacts": [
-        "A-2519.6"
+        "A-2519.3"
       ],
       "related_nodes": [],
       "tags": [],
@@ -1912,44 +1673,6 @@
       "mentions_person_refs": [
         "N-1",
         "N-161"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3741",
-      "ref": "C-3741",
-      "label": "Viewer Aravik praises the host investigations",
-      "claim": "Viewer Aravik, in a comment read on air, praises the host for investigating truths others ignore and calls her the only voice they fully trust.",
-      "anchored_artifacts": [
-        "A-2519.7"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:45:48",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "I truly admire you, not just for your courage,",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-162"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3742",
-      "ref": "C-3742",
-      "label": "Viewer Brooke Rice shares a quick-engagement family story",
-      "claim": "Viewer Brooke Rice, in a comment read on air, says her grandparents met and were engaged three days later and stayed married 67 years.",
-      "anchored_artifacts": [
-        "A-2519.8"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:46:22",
-      "investigative_direction": "None; viewer comment context.",
-      "transcript_snippet": "My grandparents met and were engaged three days later.",
-      "confidence": "medium",
-      "mentions_person_refs": [
-        "N-164"
       ]
     }
   ],
@@ -2004,10 +1727,10 @@
       "occurrences": [
         {
           "episode": 9,
-          "video_timestamp": "00:53:15–00:53:40",
-          "speaker_node_ref": "N-158",
-          "quote": "The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.",
-          "context": "Listener correction as host oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.",
+          "video_timestamp": "00:41:58–00:42:08",
+          "speaker_node_ref": "N-3",
+          "quote": "At different times, it says Mormon. Other times, it says Church of Jesus Christ of Latter-day Saints",
+          "context": "Answering a viewer correction (viewer handle not noded), the host concedes she oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.",
           "confidence": "high",
           "tags": [
             "denominational_naming"

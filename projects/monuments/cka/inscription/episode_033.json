@@ -421,7 +421,7 @@
           "ref": "A-1424.2",
           "description": "Host's verbal account that Andrew K. Smith, \"managing director of a restaurant fund,\" conducted a \"restaurantology\" interview with Charlie Kirk the morning of September 10, cited as the reason Charlie flew into Salt Lake City rather than Provo",
           "related_claims": [
-            "C-3747"
+            "C-3735"
           ],
           "related_nodes": [
             "N-1",
@@ -614,7 +614,7 @@
         "A-1424.2"
       ],
       "related_claims": [
-        "C-3747"
+        "C-3735"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1217,8 +1217,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3747",
-      "ref": "C-3747",
+      "@id": "C-3735",
+      "ref": "C-3735",
       "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
       "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10 because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.",
       "anchored_artifacts": [

@@ -317,6 +317,33 @@ def test_name_annotation_mismatch_flags_wrong_person_only():
 # --- hole_mint_order ----------------------------------------------------------------
 
 
+def test_annotation_person_requires_surname_match():
+    m = dp.annotation_name_matches
+    # Wrong person who only shares a first name: rejected for persons.
+    assert not m("Blake Wynn", ["Blake Neff"], person=True)
+    assert not m("Josh Hawley", ["Josh Hammer"], person=True)
+    assert not m("Andrew Tate", ["Andrew Kolvet"], person=True)
+    assert not m("Charlie Skyler", ["Charlie Kirk"], person=True)
+    # Single-token, nickname and title references stay accepted.
+    assert m("Charlie", ["Charlie Kirk"], person=True)
+    assert m("Don Jr", ["Donald Trump Jr.", "Don Jr"], person=True)
+    assert m("Governor Cox", ["Spencer Cox"], person=True)
+    assert m("Michael Knowles", ["Michael Knowles", "Michael Nolles"], person=True)
+    # Topics keep the shared-word rule.
+    assert m("Blake Wynn", ["Blake Neff"], person=False)
+    assert m("Butler rally timeline", ["Butler Rally Security"], person=False)
+
+
+def test_name_annotation_mismatch_flags_first_name_only_person_match():
+    content = "## 5. Claim Register\n\n**C-1** T\n\nMentions: N-224 (Blake Wynn), N-1 (Charlie)\n"
+    eps = [(1, "episode_001.md", Path("x"), content)]
+    canonical = {"N-224": {"canonical_name": "Blake Neff", "type": "person", "aliases": []},
+                 "N-1": {"canonical_name": "Charlie Kirk", "type": "person", "aliases": []}}
+    report = dp.PreflightReport("t", "x")
+    dp.check_name_annotation_mismatch(report, eps, [], canonical)
+    assert [f.location for f in report.findings] == ["episode_001.md:5:N-224"]
+
+
 def _hole_eps(ep1_ledger: str, ep2_ledger: str = "", ep2_register: str = "") -> list[tuple[int, str, Path, str]]:
     def draft(ledger: str, register: str) -> str:
         return f"## 1. Meta-Data\n\n- **Episode Ledger Summary**:\n{ledger}\n## 4. Node Register\n\n{register}\n## 5. Claim Register\n"
@@ -348,6 +375,12 @@ def test_hole_mint_order_flags_descending_ids(tmp_path):
 def test_hole_mint_order_flags_id_hidden_on_reused_line(tmp_path):
     eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Reused Nodes Appearing: N-3\n  - Hole-minted Nodes (b): N-3, N-4\n")
     assert [f.location for f in _hole_report(tmp_path, eps).findings] == ["N-3"]
+
+
+def test_hole_mint_order_flags_id_hidden_on_existing_nodes_reused_line(tmp_path):
+    for line in ("Existing Nodes Reused: N-3 (Person 3)\n", "- **Existing Nodes Reused:** N-3\n"):
+        eps = _hole_eps("  - New Nodes Introduced: N-1, N-2\n  - Hole-minted Nodes (b): N-3, N-4\n" + line)
+        assert [f.location for f in _hole_report(tmp_path, eps).findings] == ["N-3"]
 
 
 def test_hole_mint_order_flags_gap_below_batch_max(tmp_path):

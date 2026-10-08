@@ -532,7 +532,7 @@
           "@type": "Artifact",
           "@id": "A-2515.1",
           "ref": "A-2515.1",
-          "description": "Host reading recommendations: David Bakan, Shlomo Sand and Abraham Polokoff (verbal reference; no displayed artifact)",
+          "description": "Host reading recommendations: David Bakan, Shlomo Sand and Abraham Poliak (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3720"
           ],
@@ -1073,7 +1073,7 @@
       "@type": "Person",
       "@id": "N-83",
       "ref": "N-83",
-      "name": "Abraham Polokoff",
+      "name": "Abraham Poliak",
       "type": "person",
       "description": "Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.",
       "related_artifacts": [
@@ -2034,15 +2034,15 @@
       "@type": "Claim",
       "@id": "C-3720",
       "ref": "C-3720",
-      "label": "Host recommends David Bakan, Shlomo Sand and Abraham Polokoff to viewers",
-      "claim": "The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Polokoff (transcript: \"Abraham Pollock\"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.",
+      "label": "Host recommends David Bakan, Shlomo Sand and Abraham Poliak to viewers",
+      "claim": "The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: \"Abraham Pollock\"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.",
       "anchored_artifacts": [
         "A-2515.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:02:29",
-      "investigative_direction": "Confirm the titles and authors recommended and the awards attributed to Abraham Polokoff.",
+      "investigative_direction": "Confirm the titles and authors recommended and the awards attributed to Abraham Poliak.",
       "transcript_snippet": "I would recommend you read David Bakan,",
       "confidence": "medium",
       "mentions_person_refs": [

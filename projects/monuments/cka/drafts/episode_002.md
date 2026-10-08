@@ -226,7 +226,7 @@ Confidence: medium
 
 **A-2515** Host Reading Recommendations Bundle
 
-**A-2515.1** Host reading recommendations: David Bakan, Shlomo Sand and Abraham Polokoff (verbal reference; no displayed artifact)
+**A-2515.1** Host reading recommendations: David Bakan, Shlomo Sand and Abraham Poliak (verbal reference; no displayed artifact)
 Video Timestamp: 01:02:29–01:07:08
 *Related: C-3720, N-80, N-81, N-82, N-83*
 Transcript Snippet: I would recommend you read David Bakan,
@@ -505,7 +505,7 @@ Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 
 ---
 
-**N-83** Abraham Polokoff
+**N-83** Abraham Poliak
 
 Node Type: Person
 Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.
@@ -1029,15 +1029,15 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 ---
 
 
-**C-3720** Host recommends David Bakan, Shlomo Sand and Abraham Polokoff to viewers
+**C-3720** Host recommends David Bakan, Shlomo Sand and Abraham Poliak to viewers
 
 Claim Timestamp: 01:02:29
-Claim: The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Polokoff (transcript: "Abraham Pollock"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.
+Claim: The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: "Abraham Pollock"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.
 Transcript Snippet: I would recommend you read David Bakan,
 Anchored Artifacts: A-2515.1
 Mentions: N-80, N-81, N-82, N-83
 Confidence: medium
-Investigative Direction: Confirm the titles and authors recommended and the awards attributed to Abraham Polokoff.
+Investigative Direction: Confirm the titles and authors recommended and the awards attributed to Abraham Poliak.
 
 ---
 

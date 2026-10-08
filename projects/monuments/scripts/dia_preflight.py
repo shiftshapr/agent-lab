@@ -720,6 +720,8 @@ END_TOLERANCE_SECONDS = 60
 TRANSCRIPT_EXTS = (".txt", ".md")  # CKA: eps 1-10 are .txt, eps 11+ are .md
 HOLE_MINTED_RE = re.compile(r"^[ \t]*-[ \t]*Hole-minted Nodes \(([A-Za-z0-9_.\-]+)\):[ \t]*(.*)$", re.MULTILINE)
 REUSED_NODES_RE = re.compile(r"^[ \t]*-[ \t]*Reused Nodes Appearing:[ \t]*(.*)$", re.MULTILINE)
+# Secondary reuse lines (for example "Existing Nodes Reused: ...", with or without a leading "- " or bold).
+EXISTING_REUSED_RE = re.compile(r"^[ \t]*(?:-[ \t]*)?(?:\*\*)?Existing Nodes Reused:(?:\*\*)?[ \t]*(.*)$", re.MULTILINE)
 NEW_NODES_LINE_RE = re.compile(r"New Nodes Introduced:[ \t]*(.*)$", re.MULTILINE)
 
 
@@ -1206,22 +1208,52 @@ def annotation_label_name(label: str) -> str:
     return " ".join(caps)
 
 
-def annotation_name_matches(label: str, names: list[str]) -> bool:
-    """Label agrees with one of the node names: equal/contained, a shared word (>=3 chars), or acronym."""
+def _annot_tokens(text: str) -> list[str]:
+    return [t for t in _norm_text(text).split() if t not in ANNOT_STOP and t not in ANNOT_FILLER]
+
+
+def annotation_name_matches(label: str, names: list[str], *, person: bool = False) -> bool:
+    """Label agrees with one of the node names.
+
+    Accepted: equal or contained, acronym, or a shared word (>=3 chars). For a person node a
+    multi-word label must also share the surname: its last word must equal the last word of one of
+    the names (so "Blake Wynn" does not pass on Blake Neff). A one-word label ("Charlie", "Cox")
+    may match any name word. Parenthetical parts of a name ("Donald Trump Jr. (Don Jr.)") count as
+    extra names.
+    """
     nl = _norm_text(label)
-    lt = {t for t in nl.split() if len(t) >= 3 and t not in ANNOT_STOP}
+    ltoks = _annot_tokens(label)
+    lt = {t for t in ltoks if len(t) >= 3}
+    variants: list[str] = []
     for n in names:
-        nn = _norm_text(re.sub(r"\([^)]*\)", " ", n))
+        variants.append(re.sub(r"\([^)]*\)", " ", n))
+        variants.extend(re.findall(r"\(([^)]*)\)", n))
+    for n in variants:
+        nn = _norm_text(n)
         if not nn:
             continue
         if nl == nn or nl in nn or nn in nl:
             return True
-        if lt & {t for t in nn.split() if len(t) >= 3 and t not in ANNOT_STOP}:
-            return True
         acr = "".join(w[0] for w in re.findall(r"[A-Za-z]+", n) if w[0].isupper()).lower()
         if len(nl.replace(" ", "")) >= 2 and nl.replace(" ", "") == acr:
             return True
+        ntoks = _annot_tokens(n)
+        if not (lt & {t for t in ntoks if len(t) >= 3}):
+            continue
+        if person and len(ltoks) >= 2 and ntoks and ltoks[-1] != ntoks[-1]:
+            continue
+        return True
     return False
+
+
+def _is_person_node(key: str, meta: dict[str, Any] | None, reg_types: dict[int, set[str]]) -> bool:
+    """Person band id, canonical type person, or a register row typed Person."""
+    nid = int(key[2:])
+    if meta is not None and str(meta.get("type") or "").lower() == "person":
+        return True
+    if nid < 1000 or nid >= PERSON_HIGH_MIN:
+        return True
+    return "person" in reg_types.get(nid, set())
 
 
 def check_name_annotation_mismatch(
@@ -1233,11 +1265,14 @@ def check_name_annotation_mismatch(
     """P1: an inline 'N-x (Name)' annotation whose Name is not node x (wrong-person id use).
 
     Names come from canonical/nodes.json (canonical_name + aliases) when the id is there, else from
-    every register row for the id. Descriptive labels ("verbal reference") are ignored.
+    every register row for the id. Descriptive labels ("verbal reference") are ignored. For person
+    nodes a multi-word label must share the surname (see annotation_name_matches).
     """
     reg_names: dict[int, list[str]] = {}
+    reg_types: dict[int, set[str]] = {}
     for e in register:
         reg_names.setdefault(e.nid, []).append(e.name)
+        reg_types.setdefault(e.nid, set()).add(str(getattr(e, "node_type", "") or "").lower())
     for _ep, ep_name, _path, content in episodes:
         for line_no, line in enumerate(content.splitlines(), 1):
             for m in ANNOT_RE.finditer(line):
@@ -1258,7 +1293,7 @@ def check_name_annotation_mismatch(
                         f"{ep_name}:{line_no}: {key} ({m.group(2)}) annotates an id with no node",
                         f"{ep_name}:{line_no}:{key}",
                     )
-                elif not annotation_name_matches(label, names):
+                elif not annotation_name_matches(label, names, person=_is_person_node(key, meta, reg_types)):
                     report.add(
                         "P1",
                         "name_annotation_mismatch",
@@ -1287,7 +1322,7 @@ def check_hole_minted(
     """P0 order lock for ids minted into free holes below the band frontier.
 
     Hole mints cannot sit on 'New Nodes Introduced' (that line must ascend) and must not hide on
-    'Reused Nodes Appearing'. They go on '  - Hole-minted Nodes (<batch>): N-a, N-b' in the episode
+    'Reused Nodes Appearing' or a secondary 'Existing Nodes Reused' line. They go on '  - Hole-minted Nodes (<batch>): N-a, N-b' in the episode
     where each id gets its first register row. Per batch and band, ids must ascend in episode
     order (compact first-introduction order), and person-band batches must be compact: no free
     person id (not active, not tombstoned, not on the episode_000 baseline ledger) may remain
@@ -1302,8 +1337,10 @@ def check_hole_minted(
     for ep, _name, _path, content in episodes:
         m = NEW_NODES_LINE_RE.search(content)
         new_ids[ep] = {int(x) for x in re.findall(r"N-(\d+)", m.group(1))} if m else set()
-        rm = REUSED_NODES_RE.search(content)
-        reused_ids[ep] = {int(x) for x in re.findall(r"N-(\d+)", rm.group(1))} if rm else set()
+        reused_ids[ep] = set()
+        for rx in (REUSED_NODES_RE, EXISTING_REUSED_RE):
+            for rm in rx.finditer(content):
+                reused_ids[ep] |= {int(x) for x in re.findall(r"N-(\d+)", rm.group(1))}
         if ep == 0:
             for lm in re.finditer(r"N-(\d+)", content):
                 baseline.add(int(lm.group(1)))
@@ -1331,7 +1368,7 @@ def check_hole_minted(
             report.add(
                 "P0",
                 "hole_mint_order",
-                f"{ep_name}: Hole-minted N-{nid} is also on the New or Reused line of the same episode",
+                f"{ep_name}: Hole-minted N-{nid} is also on a New, Reused or Existing Nodes Reused line of the same episode",
                 f"N-{nid}",
             )
         seq.setdefault((batch, nid_band(nid)), []).append((ep, ep_name, nid))

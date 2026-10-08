@@ -53,7 +53,7 @@ Claim Range: C-2722–C-2743
 
 New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-536 (Tim Ballard), N-4 (JD Vance), N-42 (Andrew Kolvet), N-569 (Victor Marx), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-4 (JD Vance), N-42 (Andrew Kolvet), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 

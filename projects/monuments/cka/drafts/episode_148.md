@@ -34,7 +34,7 @@
   - New Nodes Introduced: none
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-16, N-42, N-56, N-224, N-550, N-1000, N-587
   - Hole-minted Nodes (wave1): N-578
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-224 Blake Neff, N-56 Kanye West (Ye), N-578 Usha Vance, N-1000 Turning Point USA (TPUSA), N-16 Frank Turek, N-42 Andrew Kolvet (aired as Andrew Kolb), N-550 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-224 Blake Neff, N-56 Kanye West (Ye), N-1000 Turning Point USA (TPUSA), N-16 Frank Turek, N-42 Andrew Kolvet (aired as Andrew Kolb), N-550 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
 ---
 

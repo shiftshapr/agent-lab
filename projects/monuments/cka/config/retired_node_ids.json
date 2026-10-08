@@ -2307,6 +2307,71 @@
       "canonical_name": "Robert F. Kennedy Jr.",
       "reminted_as": "N-586",
       "reason": "Wave 1: ep161 (PR57) minted Robert F. Kennedy Jr. at N-473, an id already tombstoned (legacy-N-473 survives_as N-326). One person one node: distinct person, re-minted at N-586; the historic tombstone is unchanged and ep161 cites were retargeted."
+    },
+    "legacy-N-139": {
+      "survives_as": null,
+      "canonical_name": "John Heinchell",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-140": {
+      "survives_as": null,
+      "canonical_name": "Jenna V",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-141": {
+      "survives_as": null,
+      "canonical_name": "Tempes",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-142": {
+      "survives_as": null,
+      "canonical_name": "Carl",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-143": {
+      "survives_as": null,
+      "canonical_name": "Mary Kelly",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-146": {
+      "survives_as": null,
+      "canonical_name": "Milana",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-147": {
+      "survives_as": null,
+      "canonical_name": "Lover of Light",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-158": {
+      "survives_as": null,
+      "canonical_name": "Warwick Spiller",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-160": {
+      "survives_as": null,
+      "canonical_name": "Reagan (commenter)",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-162": {
+      "survives_as": null,
+      "canonical_name": "Aravik (commenter)",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-163": {
+      "survives_as": null,
+      "canonical_name": "Lighthouse (commenter)",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-164": {
+      "survives_as": null,
+      "canonical_name": "Brooke Rice (commenter)",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): viewer handle read on air with no investigative beat; its fan-mail claim was pulled and the person retired without survivor."
+    },
+    "legacy-N-993": {
+      "survives_as": "N-138",
+      "canonical_name": "Michael Knowles",
+      "reason": "Wave 1 (Transit re-audit of ab20e61): duplicate person; ep8 N-138 \"Michael Nolles\" is ASR for Michael Knowles, so the ep79 N-993 row collapsed onto N-138 (one person one node)."
     }
   }
 }

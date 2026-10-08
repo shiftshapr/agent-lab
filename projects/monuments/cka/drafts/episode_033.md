@@ -35,7 +35,7 @@
 ### Episode 33 Ledger Summary
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
-- **Claim Range:** C-1716 – C-1734, C-3747
+- **Claim Range:** C-1716 – C-1734, C-3735
 - **New Nodes Introduced:** N-406, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk; preserved as Erika per transcript), N-3 (Candace Owens), N-50 (Tucker Carlson), N-70 (Governor Cox)
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:13:12–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbal reference; no displayed artifact)
 
-*Related: C-3747, N-1, N-414, N-1324*
+*Related: C-3735, N-1, N-414, N-1324*
 
 ---
 
@@ -367,7 +367,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1424.2, C-3747, N-1*
+*Related: A-1424.2, C-3735, N-1*
 
 ---
 
@@ -772,7 +772,7 @@ Investigative Direction: Preserve as brand / network framing claim (M-12 alias "
 ---
 
 
-**C-3747** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
+**C-3735** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
 
 Claim Timestamp: 00:13:12–00:14:51
 
@@ -783,6 +783,7 @@ Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smi
 Anchored Artifacts: A-1424.2
 Mentions: N-1, N-414
 Related Nodes: N-1324
+Confidence: low
 
 Investigative Direction: Locate the Andrew K. Smith interview recording and its scheduling; confirm Charlie Kirk's September 10 flight arrival airport.
 

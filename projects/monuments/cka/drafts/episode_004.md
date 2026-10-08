@@ -626,7 +626,7 @@ Claim Timestamp: 00:58:39
 Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
-Mentions: N-1, N-3, N-45, N-50, N-65, N-75, N-104
+Mentions: N-1, N-3, N-45, N-50, N-65, N-75, N-104, N-67, N-86
 Related Nodes: N-1112
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.

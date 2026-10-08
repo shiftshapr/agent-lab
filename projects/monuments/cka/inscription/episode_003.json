@@ -421,7 +421,7 @@
           "@type": "Artifact",
           "@id": "A-2516.1",
           "ref": "A-2516.1",
-          "description": "Host statement that her genocide tweet referred to Brian Mass's remarks (verbal reference; no displayed artifact)",
+          "description": "Host statement that her genocide tweet referred to Brian Mast's remarks (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3721"
           ],
@@ -996,7 +996,7 @@
       "@type": "Person",
       "@id": "N-95",
       "ref": "N-95",
-      "name": "Brian Mass",
+      "name": "Brian Mast",
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
       "related_artifacts": [
@@ -1700,7 +1700,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-66",
-        "N-97"
+        "N-97",
+        "N-87"
       ]
     },
     {
@@ -1990,15 +1991,15 @@
       "@type": "Claim",
       "@id": "C-3721",
       "ref": "C-3721",
-      "label": "Host says her genocide tweet referred to Brian Mass remarks",
-      "claim": "The host says her tweet that genocide is always wrong referred to Brian Mass's remarks, and that the statement stands even if it had not.",
+      "label": "Host says her genocide tweet referred to Brian Mast remarks",
+      "claim": "The host says her tweet that genocide is always wrong referred to Brian Mast's remarks (transcript: \"Brian Mass\"), and that the statement stands even if it had not.",
       "anchored_artifacts": [
         "A-2516.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:56:16",
-      "investigative_direction": "Locate the Brian Mass remarks the tweet responded to and the tweet itself.",
+      "investigative_direction": "Locate the Brian Mast remarks the tweet responded to and the tweet itself.",
       "transcript_snippet": "I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,",
       "confidence": "medium",
       "mentions_person_refs": [
