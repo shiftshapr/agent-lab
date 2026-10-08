@@ -545,6 +545,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [

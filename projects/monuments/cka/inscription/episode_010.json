@@ -540,25 +540,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
-      "name": "Lance Robinson",
-      "type": "person",
-      "description": "Father of Tyler Robinson; host notes his house was raided and no further updates have been provided by federal authorities.",
-      "related_artifacts": [
-        "A-1167.1"
-      ],
-      "related_claims": [
-        "C-1294"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
       "@id": "N-43",
       "ref": "N-43",
       "name": "Justin Strife",
@@ -1546,8 +1527,7 @@
       "confidence": "low",
       "uncertainty_note": "Tip-based; underlying footage not presented in this episode.",
       "mentions_person_refs": [
-        "N-69",
-        "N-165"
+        "N-69"
       ]
     },
     {

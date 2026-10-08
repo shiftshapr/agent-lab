@@ -1,10 +1,10 @@
 {
   "vocabulary_version": "2.0.0",
   "edge_counts": {
-    "contradicts": 19,
+    "contradicts": 20,
     "isCorroboratedBy": 9,
     "isMemberOf": 6405,
-    "isQualifiedBy": 13,
+    "isQualifiedBy": 12,
     "isSupportedBy": 2842
   },
   "bridges": [
@@ -3029,14 +3029,14 @@
       "from": "C-1194",
       "to": "C-3771",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 5,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {
@@ -3337,18 +3337,11 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-1212",
-      "to": "C-3772",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
-      "episode": 6,
-      "review_status": "transit_ruled",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
-      }
+      "from": "C-3772",
+      "to": "C-1212",
+      "relationship": "contradicts",
+      "explanation": "Airing opposes or is inconsistent with other claim",
+      "episode": 6
     },
     {
       "@type": "OrdinalBridge",
@@ -4826,7 +4819,8 @@
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "ruling_source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"
       }
     },
     {
@@ -4889,7 +4883,8 @@
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "ruling_source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"
       }
     },
     {
@@ -4945,14 +4940,14 @@
       "from": "C-1295",
       "to": "C-3773",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 10,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {
@@ -5023,7 +5018,8 @@
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "ruling_source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"
       }
     },
     {
@@ -10518,7 +10514,8 @@
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "ruling_source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"
       }
     },
     {
@@ -18958,14 +18955,14 @@
       "from": "C-2113",
       "to": "C-3742",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 58,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {
@@ -39221,14 +39218,14 @@
       "from": "C-3294",
       "to": "C-3743",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 142,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {
@@ -39812,14 +39809,14 @@
       "from": "C-3324",
       "to": "C-3774",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 144,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {
@@ -45067,14 +45064,14 @@
       "from": "C-3680",
       "to": "C-3775",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 161,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {
@@ -45378,14 +45375,14 @@
       "from": "C-3696",
       "to": "C-3776",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
       "episode": 161,
-      "review_status": "transit_ruled",
+      "review_status": "pending_transit",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
+        "confidence": 0.35
       }
     },
     {

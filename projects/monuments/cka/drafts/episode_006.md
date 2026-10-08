@@ -261,7 +261,7 @@ Accused shooter of Charlie Kirk; subject of FBI-released text chain
 
 ---
 
-**N-84** Lance Twigs
+**N-84** Lance Twiggs
 
 Node Type: Person
 Robinson's partner; recipient of FBI-released text chain
@@ -764,20 +764,20 @@ Investigative Direction: Obtain full PBD segment and verify exact quote against 
 
 ---
 
-**C-3772** Bill Ackman is the person C-1212 calls 'Bill Aman' (revises C-1212)
+**C-3772** The "bring receipts" line C-1212 attributes to Bill Aman is the PBD guest's; the guest cites Bill Ackman as having brought receipts
 
-Claim Timestamp: 00:25:42
+Claim Timestamp: 00:25:49
 
-Claim: C-1212 names 'Bill Aman' as the speaker. In the PBD clip the speaker says Candace Owens' credibility is going 'down the tubes' because she needs to bring receipts and then says 'Bill Ackman brought receipts', so Bill Ackman (N-66) is the person cited as having brought receipts, not the speaker.
+Claim: In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going "down the tubes because she needs to bring receipts" is spoken by the PBD guest, who goes straight on to say Bill Ackman "brought receipts" and refers to him in the third person ("I think he was there in the room"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to "Bill Aman" (Bill Ackman, N-66) is contradicted.
 
-Transcript Snippet: Bill Ackman brought receipts. How long was that tweet?
+Transcript Snippet: Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room.
 
 Anchored Artifacts: A-1125.1
 Mentions: N-66, N-3, N-88
-Related Nodes: 
-Revises: C-1212
+Contradicts: C-1212
 Confidence: medium
-Investigative Direction: Read with C-1212; identify the PBD speaker from the full segment.
+Uncertainty: The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.
+Investigative Direction: Read with C-1212; identify the PBD guest from the full segment.
 
 ---
 

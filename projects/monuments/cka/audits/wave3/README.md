@@ -63,7 +63,7 @@ New in this push:
 ## Resubmission after Transit FAIL at b558034 (0 P0 / 3 P1 / 6 P2)
 Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fixes_resolution.csv` (source tag `b558034:`). The earlier rounds' rows are kept below them. The triage table above shows the current counts.
 
-- **N-952 → N-916 (Lynn Forester de Rothschild).** Tombstone `legacy-N-952` survives_as N-916 and is never reused. Aliases Lindy Rothschild, Linda Rothschild and Lynn Forester moved to N-916. Refs repointed in drafts (ep76), inscription (eps 72, 76), canonical and the companion. N-916 is introduced at ep72, before its first cite (ep76).
+- **N-952 → N-916 (Lynn Forester de Rothschild).** Tombstone `legacy-N-952` survives_as N-916 and is not reused while the person band lock is in force (pending Daveed). Aliases Lindy Rothschild, Linda Rothschild and Lynn Forester moved to N-916. Refs repointed in drafts (ep76), inscription (eps 72, 76), canonical and the companion. N-916 is introduced at ep72, before its first cite (ep76).
 - **ep131 bounty beats.**
   - C-3767 (00:19:05, payoff of the C-3764 lunch bounty; Supports C-3764, Qualifies C-3126).
   - C-3768 (00:25:07, Gary, president of AIPAC Nebraska).
@@ -83,10 +83,10 @@ Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fix
   - A-1699.1 now has Related N-630.
   - The Mengele decisions row is split into ep65 and ep97 rows.
 - **Hygiene.**
-  - N-161 retired (`legacy-N-161`, no survivor, never reused). C-3730 and A-2519.3 keep N-1 only.
+  - N-161 retired (`legacy-N-161`, no survivor; not reused while the person band lock is in force, pending Daveed). C-3730 and A-2519.3 keep N-1 only.
   - Canonical names cleaned: N-877 Helmut Becker, N-713 Paul Havsgaard, N-365 Shauni Kerkhoff, N-193 Judge Tony F. Graf Jr. The old spellings are kept as aliases.
   - C-3743 has a transcript snippet.
-- **Person band lock** (until Daveed rules). N-1..N-999 is full. Retired or tombstoned ids are never reused, and no person is minted at N-1000 or above; new persons are DEFER "person band full, awaiting Daveed". This is written in `config/preflight_gates.json` (`person_band_lock`), `cka/README.md` and `docs/DAY0.md`, and is enforced by the new P1 preflight gate `person_band_lock` (2 tests).
+- **Person band lock** (until Daveed rules). N-1..N-999 is full. While it is in force, retired or tombstoned ids are not reused and no person is minted at N-1000 or above (the reuse policy itself is pending with Daveed); new persons are DEFER "person band full, awaiting Daveed". This is written in `config/preflight_gates.json` (`person_band_lock`), `cka/README.md` and `docs/DAY0.md`, and is enforced by the new P1 preflight gate `person_band_lock` (2 tests).
 - **Wave 4 debt.** F10 (named_before_intro debt) and F4 (skeletons) are logged in `wave4_event_thing_debt.md`.
 
 ## Explicit non-goals

@@ -1,17 +1,9 @@
 {
-  "description": "Transit rulings on the BRC-222 term for ledger Revises edges, keyed by the newer (revising) claim. term_key is a companion ledger lookup key: revises_softening resolves to isQualifiedBy, revises_builds_on to extends. Ruled edges emit only the ruled term.",
+  "description": "Transit rulings on the BRC-222 term for ledger Revises edges, keyed by the newer (revising) claim. term_key is a companion ledger lookup key: revises_softening resolves to isQualifiedBy, revises_builds_on to extends. Ruled edges emit only the ruled term, marked transit_ruled with metadata.ruling_source. Every row must cite the ruling in source; a Revises edge with no ruling here stays pending_transit with the heuristic term and confidence (Transit baa2ed9 G5: no ruling covers the PR 62 Revises C-3742, C-3743, C-3771, C-3773..C-3776).",
   "rulings": {
-    "C-3737": {"term_key": "revises_softening", "revises": "C-1292", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
-    "C-3738": {"term_key": "revises_softening", "revises": "C-1293", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
-    "C-3739": {"term_key": "revises_softening", "revises": "C-3731", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
-    "C-3740": {"term_key": "revises_softening", "revises": "C-1626", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only"},
-    "C-3742": {"term_key": "revises_softening", "revises": "C-2113", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3743": {"term_key": "revises_softening", "revises": "C-3294", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3771": {"term_key": "revises_softening", "revises": "C-1194", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3772": {"term_key": "revises_softening", "revises": "C-1212", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3773": {"term_key": "revises_softening", "revises": "C-1295", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3774": {"term_key": "revises_softening", "revises": "C-3324", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3775": {"term_key": "revises_softening", "revises": "C-3680", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"},
-    "C-3776": {"term_key": "revises_softening", "revises": "C-3696", "ruling": "Transit, PR 62 Wave 3: spelling corrections are isQualifiedBy only"}
+    "C-3737": {"term_key": "revises_softening", "revises": "C-1292", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only", "source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"},
+    "C-3738": {"term_key": "revises_softening", "revises": "C-1293", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only", "source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"},
+    "C-3739": {"term_key": "revises_softening", "revises": "C-3731", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only", "source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"},
+    "C-3740": {"term_key": "revises_softening", "revises": "C-1626", "ruling": "Transit, PR 60 Wave 2.1: corrections are isQualifiedBy only", "source": "Transit hostile re-audit of PR 60 at 62442e7 (/workspace/cka-audit/pr60-62442e7/REPORT.md, P2-1: \"Ruling: pick isQualifiedBy for all 4 and suppress extends\"), verified at 820af0d; scope C-3737..C-3740 only"}
   }
 }

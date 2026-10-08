@@ -642,7 +642,7 @@
       "@type": "Person",
       "@id": "N-84",
       "ref": "N-84",
-      "name": "Lance Twigs",
+      "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [
@@ -1621,24 +1621,25 @@
       "@type": "Claim",
       "@id": "C-3772",
       "ref": "C-3772",
-      "label": "Bill Ackman is the person C-1212 calls 'Bill Aman' (revises C-1212)",
-      "claim": "C-1212 names 'Bill Aman' as the speaker. In the PBD clip the speaker says Candace Owens' credibility is going 'down the tubes' because she needs to bring receipts and then says 'Bill Ackman brought receipts', so Bill Ackman (N-66) is the person cited as having brought receipts, not the speaker.",
+      "label": "The \"bring receipts\" line C-1212 attributes to Bill Aman is the PBD guest's; the guest cites Bill Ackman as having brought receipts",
+      "claim": "In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going \"down the tubes because she needs to bring receipts\" is spoken by the PBD guest, who goes straight on to say Bill Ackman \"brought receipts\" and refers to him in the third person (\"I think he was there in the room\"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to \"Bill Aman\" (Bill Ackman, N-66) is contradicted.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:25:42",
-      "investigative_direction": "Read with C-1212; identify the PBD speaker from the full segment.",
-      "transcript_snippet": "Bill Ackman brought receipts. How long was that tweet?",
+      "claim_timestamp": "00:25:49",
+      "investigative_direction": "Read with C-1212; identify the PBD guest from the full segment.",
+      "transcript_snippet": "Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room.",
       "confidence": "medium",
-      "revises_claim_refs": [
-        "C-1212"
-      ],
       "mentions_person_refs": [
         "N-66",
         "N-3",
         "N-88"
+      ],
+      "uncertainty_note": "The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.",
+      "contradicts_claim_refs": [
+        "C-1212"
       ]
     },
     {

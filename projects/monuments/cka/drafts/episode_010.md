@@ -17,7 +17,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170, A-2520
   - Claim Range: C-1286-C-1296, C-3731-C-3734, C-3737-C-3739
-  - New Nodes Introduced: N-165, N-166, N-167, N-168, N-169, N-170, N-171, N-172, N-173, N-174, N-175, N-1195, N-1196, N-1197, N-1198, N-1199, N-1200, N-1201, N-1202, N-1203, N-1204, N-1205, N-1206
+  - New Nodes Introduced: N-166, N-167, N-168, N-169, N-170, N-171, N-172, N-173, N-174, N-175, N-1195, N-1196, N-1197, N-1198, N-1199, N-1200, N-1201, N-1202, N-1203, N-1204, N-1205, N-1206
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-65, N-66, N-67, N-69, N-73, N-75, N-5, N-70, N-86, N-91, N-1000, N-1092, N-1127, N-1190, N-43
 
 ## 2. Executive Summary
@@ -235,15 +235,6 @@ Israeli PM; cited for tweeting about Charlie Kirk's death before the US Presiden
 
 Node Type: Person
 Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.
-
-*Related: A-1167.1, C-1294*
-
----
-
-**N-165** Lance Robinson
-
-Node Type: Person
-Father of Tyler Robinson; host notes his house was raided and no further updates have been provided by federal authorities.
 
 *Related: A-1167.1, C-1294*
 
@@ -772,7 +763,7 @@ Claim Timestamp: 00:31:20
 Claim: Host received a tip alleging that the publicly released doorbell footage of Tyler Robinson is incomplete and that additional footage shows him walking with an unidentified woman and changing clothes.
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.
 Anchored Artifacts: A-1167.1
-Mentions: N-69, N-165
+Mentions: N-69
 Related Nodes: N-1201
 Confidence: low
 Uncertainty: Tip-based; underlying footage not presented in this episode.

@@ -1302,10 +1302,10 @@
       "occurrences": [
         {
           "episode": 33,
-          "video_timestamp": "00:26:19",
+          "video_timestamp": "00:14:51",
           "speaker_node_ref": "N-3",
-          "quote": "This time, another mommy sleuth.",
-          "context": "Wave 3 MemeLink backfill: Mommy Sleuth at 00:26:19 (audit missing_memelink).",
+          "quote": "A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed.",
+          "context": "Wave 3 MemeLink backfill: Mommy Sleuth at 00:14:51 (audit missing_memelink).",
           "confidence": "high",
           "tags": [
             "reuse",
@@ -1314,10 +1314,10 @@
         },
         {
           "episode": 33,
-          "video_timestamp": "00:14:51",
+          "video_timestamp": "00:26:19",
           "speaker_node_ref": "N-3",
-          "quote": "A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed.",
-          "context": "Wave 3 MemeLink backfill: Mommy Sleuth at 00:14:51 (audit missing_memelink).",
+          "quote": "This time, another mommy sleuth.",
+          "context": "Wave 3 MemeLink backfill: Mommy Sleuth at 00:26:19 (audit missing_memelink).",
           "confidence": "high",
           "tags": [
             "reuse",

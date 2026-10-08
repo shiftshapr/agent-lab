@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated": "2026-10-08T19:42:34Z",
+  "updated": "2026-10-08",
   "description": "CKA tombstone ledger, rebuilt in Wave 1 from CKA history: Batch 1 remap entries that differ from BoC, PR47-PR51 and PR48 collapses, and Wave 1 moves. Verbatim Bride of Charlie copies were removed. Keys legacy-N-X are enforced by dia_preflight (X may not be cited unless active); wave1-N-X keys document a second event on an id that already has a legacy key. Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-1001": {
@@ -2461,12 +2461,17 @@
     "legacy-N-952": {
       "survives_as": "N-916",
       "canonical_name": "Linda Rothschild",
-      "reason": "Wave 3 Transit re-audit of b558034: ep72 [26:41] \"Lynn Forester, aka Lindy Rothschild … Corcoran Group Inc. President\" and ep76 [27:39] \"the president of the Corcoran Group is actually Linda Rothschild\" are the same woman in the same Epstein-document thread; one person, one N-id, so N-952 collapses onto N-916 (earlier intro, ep72) with \"Linda Rothschild\" and \"Lindy Rothschild\" kept as aliases. Tombstone: never reused."
+      "reason": "Wave 3 Transit re-audit of b558034: ep72 [26:41] \"Lynn Forester, aka Lindy Rothschild … Corcoran Group Inc. President\" and ep76 [27:39] \"the president of the Corcoran Group is actually Linda Rothschild\" are the same woman in the same Epstein-document thread; one person, one N-id, so N-952 collapses onto N-916 (earlier intro, ep72) with \"Linda Rothschild\" and \"Lindy Rothschild\" kept as aliases. Tombstone: not reused while the person band lock is in force (pending Daveed)."
     },
     "legacy-N-161": {
       "survives_as": null,
       "canonical_name": "Recovery Recon (commenter)",
-      "reason": "Wave 3 Transit re-audit of b558034 (main-tip debt): viewer handle read on air (ep9 [44:43], C-3730 / A-2519.3) minted as a person; the no-viewer-persons lock bars it, so it is retired without survivor. C-3730 keeps its investigative beat (FBI evidence-release comparison) with the N-161 Mention and A-2519.3 Related ref removed. Tombstone: never reused."
+      "reason": "Wave 3 Transit re-audit of b558034 (main-tip debt): viewer handle read on air (ep9 [44:43], C-3730 / A-2519.3) minted as a person; the no-viewer-persons lock bars it, so it is retired without survivor. C-3730 keeps its investigative beat (FBI evidence-release comparison) with the N-161 Mention and A-2519.3 Related ref removed. Tombstone: not reused while the person band lock is in force (pending Daveed)."
+    },
+    "legacy-N-165": {
+      "survives_as": null,
+      "canonical_name": "Lance Robinson",
+      "reason": "Wave 3 Transit re-audit of baa2ed9 (main-tip debt): junk person mint. Its register text (\"Father of Tyler Robinson; host notes his house was raided\") misreads ep10 [11:32] \"the raid that took place of Lance's house where Tyler Robinson was living\" – that is Lance Twiggs (N-84) – and ep10 never mentions Tyler Robinson's father. Its only refs (C-1294 Mentions, the C-1294 / A-1167.1 register Related) are the doorbell-footage tip, which names neither Lance nor the father, so they are dropped and there is no survivor. No \"Lance Robinson\" alias is kept; not repointed to Matt Robinson (no person node; DEFER). Tombstone: not reused while the person band lock is in force (pending Daveed)."
     }
   },
   "reserved_baseline_ids": {

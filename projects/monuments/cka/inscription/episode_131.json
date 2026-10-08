@@ -286,7 +286,7 @@
           "@type": "Artifact",
           "@id": "A-2524.1",
           "ref": "A-2524.1",
-          "description": "Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary Jabitch (transcript spelling) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)",
+          "description": "Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3767"
           ],
@@ -353,7 +353,7 @@
       "ref": "N-2147",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
       "type": "investigation_target",
-      "description": "Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Jabitch as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.",
+      "description": "Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.",
       "related_artifacts": [
         "A-2181.1"
       ],
@@ -932,7 +932,7 @@
       "@id": "C-3767",
       "ref": "C-3767",
       "label": "Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot",
-      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Jabitch (transcript spelling), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
+      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
       "anchored_artifacts": [
         "A-2524.1"
       ],
@@ -974,7 +974,7 @@
       "investigative_direction": "Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.",
       "transcript_snippet": "Gary was the president of the Nebraska chapter of AIPAC.",
       "confidence": "low",
-      "uncertainty_note": "Biography and donation records cited but not shown on air.",
+      "uncertainty_note": "Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has \"Jabitch\"/\"Jabach\" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.",
       "mentions_person_refs": [
         "N-3",
         "N-133"
