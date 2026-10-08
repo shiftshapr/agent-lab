@@ -475,54 +475,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
-      "name": "Victor Marx",
-      "type": "person",
-      "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-570",
-      "ref": "N-570",
-      "name": "Corby Hall",
-      "type": "person",
-      "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-571",
-      "ref": "N-571",
-      "name": "Eileen Marx",
-      "type": "person",
-      "description": "Victor's wife; described as second-mother figure to Erika Kirk.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -540,11 +492,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
-      "investigative_direction": "Verify Hall's account against Fold AR business records, communications, and any documented acquisition proposals.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify Hall's account against Fold AR business records, communications, and any documented acquisition proposals."
     },
     {
       "@type": "Claim",
@@ -558,11 +506,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:21",
-      "investigative_direction": "Verify travel records, communications, and Fold AR demo logs from December 2023.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify travel records, communications, and Fold AR demo logs from December 2023."
     },
     {
       "@type": "Claim",
@@ -576,11 +520,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:29",
-      "investigative_direction": "Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently."
     },
     {
       "@type": "Claim",
@@ -594,11 +534,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:43",
-      "investigative_direction": "Verify the marriage through official marriage records.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify the marriage through official marriage records."
     },
     {
       "@type": "Claim",
@@ -612,10 +548,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:43",
-      "investigative_direction": "Verify purchase records with Fold AR and Lindale High School administration.",
-      "mentions_person_refs": [
-        "N-570"
-      ]
+      "investigative_direction": "Verify purchase records with Fold AR and Lindale High School administration."
     },
     {
       "@type": "Claim",
@@ -631,11 +564,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:43",
-      "investigative_direction": "Verify any related communications, travel records, or follow-up requests; check export-control filings.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify any related communications, travel records, or follow-up requests; check export-control filings."
     },
     {
       "@type": "Claim",
@@ -651,11 +580,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:32",
-      "investigative_direction": "Verify the build of the rifle, related communications, and any video documentation produced.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify the build of the rifle, related communications, and any video documentation produced."
     },
     {
       "@type": "Claim",
@@ -671,11 +596,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:14",
-      "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting."
     },
     {
       "@type": "Claim",
@@ -691,11 +612,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly."
     },
     {
       "@type": "Claim",
@@ -711,11 +628,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify with any valuation documents, accountants, or formal acquisition proposals.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify with any valuation documents, accountants, or formal acquisition proposals."
     },
     {
       "@type": "Claim",
@@ -731,11 +644,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify any related communications, broker contacts, or follow-up activity; cross-check with export-control records.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify any related communications, broker contacts, or follow-up activity; cross-check with export-control records."
     },
     {
       "@type": "Claim",
@@ -749,11 +658,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:23",
-      "investigative_direction": "Verify the existence and current status of the structure via public records or satellite imagery.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Verify the existence and current status of the structure via public records or satellite imagery."
     },
     {
       "@type": "Claim",
@@ -767,11 +672,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:14",
-      "investigative_direction": "Obtain the original message text if retained.",
-      "mentions_person_refs": [
-        "N-569",
-        "N-570"
-      ]
+      "investigative_direction": "Obtain the original message text if retained."
     },
     {
       "@type": "Claim",
@@ -787,10 +688,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
-      "investigative_direction": "Verify the sale via Fold AR's bound book / ATF Form 4473 records.",
-      "mentions_person_refs": [
-        "N-570"
-      ]
+      "investigative_direction": "Verify the sale via Fold AR's bound book / ATF Form 4473 records."
     },
     {
       "@type": "Claim",
@@ -806,10 +704,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
-      "investigative_direction": "Verify with Midland Police Department records and the deputy's agency.",
-      "mentions_person_refs": [
-        "N-570"
-      ]
+      "investigative_direction": "Verify with Midland Police Department records and the deputy's agency."
     },
     {
       "@type": "Claim",
@@ -826,10 +721,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:42",
-      "investigative_direction": "Independently verify the email via ATF; identify the originating case and underlying crime.",
-      "mentions_person_refs": [
-        "N-570"
-      ]
+      "investigative_direction": "Independently verify the email via ATF; identify the originating case and underlying crime."
     },
     {
       "@type": "Claim",
@@ -848,8 +740,6 @@
       "investigative_direction": "Obtain original Instagram post metadata; verify posting timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-569",
-        "N-571",
         "N-2"
       ]
     },
@@ -870,7 +760,6 @@
       "investigative_direction": "Obtain original image metadata; verify posting context.",
       "mentions_person_refs": [
         "N-1",
-        "N-569",
         "N-2"
       ]
     },
@@ -888,10 +777,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:28",
-      "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.",
-      "mentions_person_refs": [
-        "N-569"
-      ]
+      "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records."
     },
     {
       "@type": "Claim",
@@ -926,10 +812,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:04",
-      "investigative_direction": "Identify the source recording; verify any underlying events or absence thereof via law enforcement records.",
-      "mentions_person_refs": [
-        "N-569"
-      ]
+      "investigative_direction": "Identify the source recording; verify any underlying events or absence thereof via law enforcement records."
     },
     {
       "@type": "Claim",
@@ -979,10 +862,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
-      "investigative_direction": "Independently verify the host's confirmation of the email and the underlying timeline.",
-      "mentions_person_refs": [
-        "N-570"
-      ]
+      "investigative_direction": "Independently verify the host's confirmation of the email and the underlying timeline."
     }
   ],
   "memes": []

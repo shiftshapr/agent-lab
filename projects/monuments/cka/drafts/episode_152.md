@@ -456,7 +456,6 @@ Claim Timestamp: 00:47:38–00:48:56
 Claim: The episode presents that Robert Kraft led a lobbying effort that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.
 
 Anchored Artifacts: A-2381.1 (corroborating that Macklemore was dropped, per host framing)
-Mentions: N-279
 
 Related Nodes:
 

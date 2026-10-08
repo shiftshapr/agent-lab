@@ -147,7 +147,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:08:40
+Video Timestamp: 00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -325,7 +325,7 @@ Investigative Direction: Obtain the complete defense memorandum and compare with
 
 **C-3163** Defense Memo: Hemorrhaging Around Heart and Both Lungs Observed
 
-Claim Timestamp: 00:35:25
+Claim Timestamp: 00:34:21
 
 Claim: The defense memorandum states the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).
 
@@ -340,7 +340,7 @@ Investigative Direction: Obtain complete autopsy findings; consult independent m
 
 **C-3164** Blake Neff Asserts Existence of Another Rooftop Angle
 
-Claim Timestamp: 00:10:30
+Claim Timestamp: 00:09:40
 
 Claim: Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Lozi rooftop video.
 

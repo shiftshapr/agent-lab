@@ -895,9 +895,9 @@ Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate vide
 
 ### Occurrence 1
 
-Video Timestamp: 00:39:12
+Video Timestamp: 00:40:10
 Speaker: N-3
-Quote: I am not equipped to be the CEO of my little tiny company. ... But I worry I really do worry. ... Just pray for her
+Quote: But I worry I really do worry. Uh and I just wanted to express that openly to you guys. I'm I'm concerned about that for some reason. And I guess the best thing to do is just ask everybody to pray for Erika.
 Context: Host asks viewers to pray for Erika taking on CEO/chairman role alone.
 Tags: grieving_widow_framing
 Confidence: medium

@@ -635,38 +635,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
-      "name": "Brian Harpole",
-      "type": "person",
-      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-435",
-      "ref": "N-435",
-      "name": "Jeff Long",
-      "type": "person",
-      "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -725,9 +693,7 @@
       "claim_timestamp": "00:26:12",
       "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.",
       "mentions_person_refs": [
-        "N-424",
-        "N-1",
-        "N-435"
+        "N-1"
       ]
     },
     {

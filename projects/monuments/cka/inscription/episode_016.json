@@ -956,22 +956,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
-      "name": "Nick Fuentes",
-      "type": "person",
-      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -1152,8 +1136,7 @@
       "claim_timestamp": "00:11:11",
       "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain.",
       "mentions_person_refs": [
-        "N-3",
-        "N-293"
+        "N-3"
       ]
     },
     {

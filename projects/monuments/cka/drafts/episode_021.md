@@ -321,7 +321,7 @@ Claim Timestamp: 00:20:44
 Claim: A New York Times article published the day prior to this episode reported that FBI Director Kash Patel was alarmed when Joe Kent of Tulsi Gabbard's office inquired about details of the Charlie Kirk investigation, including possible foreign involvement.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-550, N-1, N-102, N-310
+Mentions: N-1, N-102
 
 Related Nodes: N-1268
 
@@ -336,7 +336,7 @@ Claim Timestamp: 00:21:37
 Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-182, N-550, N-102, N-310, N-4
+Mentions: N-182, N-102, N-4
 
 Related Nodes: N-1268
 

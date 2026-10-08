@@ -723,22 +723,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-318",
-      "ref": "N-318",
-      "name": "Nick Shirley",
-      "type": "person",
-      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-1632 / N-2064.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-552",
       "ref": "N-552",
       "name": "Baron Coleman",
@@ -926,8 +910,7 @@
       "claim_timestamp": "00:36:47",
       "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.",
       "mentions_person_refs": [
-        "N-1",
-        "N-318"
+        "N-1"
       ]
     },
     {

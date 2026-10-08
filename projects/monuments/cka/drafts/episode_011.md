@@ -629,7 +629,7 @@ Claim: Host concurs with Bitsy's comment about a "stage" narrative; concurs with
 Anchored Artifacts: A-1182.4, A-1182.5
 Mentions: N-92
 Related Nodes:
-Investigative Direction: N/A, rhetorical/statement of self-positioning.
+Investigative Direction: N/A — rhetorical/statement of self-positioning.
 *Optional Flag: Claim failed admission test for investigation; inscribed as concurrence only.*
 
 ---

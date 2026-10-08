@@ -321,7 +321,7 @@ Claim Timestamp: 00:30:13
 Claim: Jenica Pounds (@DataRepublican) posted an X thread asserting that the host and her audience constitute a "permission structure" for someone to "try and kill Erika."
 
 Anchored Artifacts: A-2313.1
-Mentions: N-2, N-3, N-447
+Mentions: N-2, N-3
 Related Nodes:
 Investigative Direction: Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.
 
@@ -334,7 +334,7 @@ Claim Timestamp: 00:31:33
 Claim: Andrew Kolvet publicly thanked Data Republican and stated her thread "exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika."
 
 Anchored Artifacts: A-2317.1
-Mentions: N-447, N-42
+Mentions: N-42
 Related Nodes: N-2213
 Investigative Direction: Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).
 
@@ -347,7 +347,7 @@ Claim Timestamp: 00:31:33
 Claim: Bill Ackman publicly promoted Data Republican's content about Charlie Kirk and the host on X.
 
 Anchored Artifacts: A-2316.1
-Mentions: N-447, N-1, N-66
+Mentions: N-1, N-66
 Related Nodes: N-2213
 Investigative Direction: Retrieve the specific Bill Ackman post; verify date and quoted text.
 
@@ -421,7 +421,7 @@ Claim Timestamp: 00:37:33
 Claim: Turning Point USA announced a tour titled "Love It or Leave It" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality referenced as "Matt Nuclear."
 
 Anchored Artifacts: A-2318.1
-Mentions: N-138, N-342, N-133, N-135
+Mentions: N-138, N-133, N-135
 Related Nodes:
 Investigative Direction: Retrieve TPUSA's official tour announcement; verify lineup and dates.
 

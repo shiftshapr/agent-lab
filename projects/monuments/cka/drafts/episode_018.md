@@ -571,7 +571,7 @@ Claim Timestamp: 00:13:06
 Claim: Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting.
 
 Anchored Artifacts: A-1253.1
-Mentions: N-247, N-313
+Mentions: N-247
 Related Nodes: N-1248
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 

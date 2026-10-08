@@ -37,7 +37,7 @@
 
 - Artifact Families Introduced: A-2327, A-2328, A-2329, A-2330, A-2331, A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, A-2338, A-2339, A-2340
 - Claim Range: C-3357–C-3386
-- New Nodes Introduced (People): N-69
+- New Nodes Introduced (People): none (N-69 Tyler Robinson is a reused person)
 - New Nodes Introduced (Investigation Targets): N-2219, N-2220, N-2221, N-2222, N-2223, N-2224, N-2225
 - Existing Nodes Reused: None specified in ledger (assumed N-1 through N-339 and N-1207 through N-2218 already populated from prior episodes)
 
@@ -632,7 +632,7 @@ Claim Timestamp: 00:40:50
 Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novac of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Anchored Artifacts: A-2335
-Mentions: N-342, N-224
+Mentions: N-224
 
 Related Nodes: N-2223
 

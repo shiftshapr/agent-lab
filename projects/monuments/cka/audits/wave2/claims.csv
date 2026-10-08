@@ -58,3 +58,23 @@ episode,id,action,new_id,reason
 149,C-3546..C-3566,MENTION_REMOVED,,"N-432 dropped from restored claims (not grounded); C-3565 Related gained N-2389, C-3566 gained N-1071"
 27,C-1626,RETITLE_TYPO,C-1626,"CLM-P1-9: title inverted the body; now ""Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out"""
 34,C-1735..C-1744,NORMALIZE_FIELDS,,"CLM-P1-8: ""- Field:"" bullets normalized to standard claim fields; MM:SS stamps written as 00:MM:SS"
+10,C-1292,REVERT_TEXT,C-1292,PR 60 re-audit P2-4 (claims are immutable): body restored to the original text (Xavier Deruso)
+10,C-1293,REVERT_TEXT,C-1293,P2-4: title restored to the original text
+10,C-3731,REVERT_TEXT,C-3731,P2-4: body restored to the original text (Xavier Deruso)
+23,C-1566,REVERT_TEXT,C-1566,"P2-4: body punctuation restored to the original text. Punctuation only, so no Revises claim (judgement call)"
+27,C-1626,REVERT_TEXT,C-1626,P2-4 / CLM-P1-9: title restored to the original (inverted) text
+34,C-1743,REVERT_TEXT,C-1743,Wave 2 normalization reverted; original claim text restored verbatim
+149,C-3545,REVERT_TEXT,C-3545,Restored claim text reverted to the verbatim inscription text
+149,C-3561,REVERT_TEXT,C-3561,Restored claim text reverted to the verbatim inscription text
+159,C-3616,REVERT_TEXT,C-3616,Restored claim text reverted to the verbatim inscription text
+10,C-3737,MINT_REVISES,C-3737,Revises C-1292: speaker is Xaviaer DuRousseau (N-166); 00:04:28
+10,C-3738,MINT_REVISES,C-3738,Revises C-1293: title spelling of the speaker, Xaviaer DuRousseau (N-166)
+10,C-3739,MINT_REVISES,C-3739,Revises C-3731: speaker spelling Xaviaer DuRousseau (N-166)
+27,C-3740,MINT_REVISES,C-3740,Revises C-1626: corrects the inverted title (no venue yet, two months out); 00:36:03
+47,C-3741,MINT_CLAIM,C-3741,"Grounds Marissa (N-561) in the transcript: host says some of the paid campaigns are paid by PragerU, 00:32:14"
+58,C-2121,DEFINE_DANGLING,C-2121,PR 60 re-audit P2: dangling id defined from the ep58 transcript [39:06] block (Fuentes bullhorn remark)
+58,C-2122,DEFINE_DANGLING,C-2122,Dangling ref defined from the ep58 [39:06] block (Defend Texas Liberty / Ferris Wilks data pitch)
+58,C-2123,DEFINE_DANGLING,C-2123,"Dangling ref defined from the ep58 [39:06] block (Yiannopoulos told Fuentes about a federal trap). ""January 6"" is not spoken, so the wording says Capitol breach"
+4,C-3736,DROP_MENTION,C-3736,N-3 dropped from Mentions (not grounded in the transcript window); Contradicts C-1185 kept
+47,C-1924..C-1929,REMOVE_EDGE,,PR 60 re-audit P1-2: removed from the A-1551.8 Related line (spray)
+15..152,(74 rows),HOLD_MENTIONS,,PR 60 re-audit P0-1: 74 Mentions of persons cited before their introduction episode held; see wave3_id_order_debt.csv

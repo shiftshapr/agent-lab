@@ -427,7 +427,9 @@
           "ref": "A-1551.1",
           "description": "Curbster super chat: prayer-support message",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-563"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -453,7 +455,9 @@
           "ref": "A-1551.3",
           "description": "Zachary Loft super chat: questions on lack of livestream and Brandon Tatum IG follow",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-565"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -466,7 +470,9 @@
           "ref": "A-1551.4",
           "description": "Mr. Bruce Lee super chat: botted chat observation",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-566"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -479,7 +485,9 @@
           "ref": "A-1551.5",
           "description": "Will Wallace super chat: security-support donation",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-567"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -505,7 +513,9 @@
           "ref": "A-1551.7",
           "description": "Isabella Mazzone super chat: request for elaboration on Charlie's Catholicism journey",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-562"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -517,22 +527,8 @@
           "@id": "A-1551.8",
           "ref": "A-1551.8",
           "description": "Lamp super chat: question on Qatar's role in media criticism",
-          "related_claims": [
-            "C-1924",
-            "C-1925",
-            "C-1926",
-            "C-1927",
-            "C-1928",
-            "C-1929"
-          ],
+          "related_claims": [],
           "related_nodes": [
-            "N-561",
-            "N-562",
-            "N-563",
-            "N-564",
-            "N-565",
-            "N-566",
-            "N-567",
             "N-568"
           ],
           "tags": [],
@@ -1011,15 +1007,15 @@
       "name": "Marissa",
       "type": "person",
       "description": "Named PragerU contact (per host).",
-      "related_artifacts": [
-        "A-1539.1"
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3741"
       ],
-      "related_claims": [],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "related_nodes": [
         "N-1197"
       ]
@@ -1060,26 +1056,6 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-564",
-      "ref": "N-564",
-      "name": "Central848",
-      "type": "person",
-      "description": "Donor; proposed electrocution theory.",
-      "related_artifacts": [
-        "A-1551.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1423"
-      ]
     },
     {
       "@type": "Person",
@@ -1504,8 +1480,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-552",
-        "N-564"
+        "N-552"
       ]
     },
     {
@@ -2060,6 +2035,26 @@
       "mentions_person_refs": [
         "N-42",
         "N-65"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3741",
+      "ref": "C-3741",
+      "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
+      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-561) there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:14",
+      "investigative_direction": "Identify the named paid accounts and any PragerU or PR-firm payment records the host says she holds.",
+      "transcript_snippet": "too many are being paid by PragerU, which is upsetting to me because I know Marissa, and it's just dirty.",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3",
+        "N-561"
       ]
     },
     {

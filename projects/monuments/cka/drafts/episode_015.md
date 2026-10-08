@@ -480,7 +480,7 @@ Claim Timestamp: 00:45:52
 Claim: An unnamed "Judeo-Christian" pastor delivered a sermon on September 21, 2025, using 2 Corinthians 7:1 to characterize Candace Owens and Nick Fuentes as "defiled" by the issue of the modern state of Israel.
 
 Anchored Artifacts: A-1226.1
-Mentions: N-3, N-293
+Mentions: N-3
 
 Related Nodes:
 

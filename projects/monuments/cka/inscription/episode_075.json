@@ -575,22 +575,6 @@
       "related_nodes": []
     },
     {
-      "@type": "Person",
-      "@id": "N-472",
-      "ref": "N-472",
-      "name": "Miriam Adelson",
-      "type": "person",
-      "description": "Host \"Miriam Medson\" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
       "@type": "Organization",
       "@id": "N-1003",
       "ref": "N-1003",
@@ -762,8 +746,7 @@
       "investigative_direction": "Identify the original event and capture full context of Trump's remarks.",
       "mentions_person_refs": [
         "N-2",
-        "N-5",
-        "N-472"
+        "N-5"
       ]
     },
     {

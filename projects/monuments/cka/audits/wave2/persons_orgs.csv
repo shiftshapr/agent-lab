@@ -45,3 +45,9 @@ ALIAS_ADD,96,N-903,N-903,Aubrey Laitsch / Aubrey Leitch / Aubrey Leach,person,AS
 KEEP_PERSON,,N-564,N-564,Central848,person,superchat viewer handle; kept as a person (judgement call),
 KEEP_PERSON,,N-648,N-648,Oracle,person,unidentified real individual; kept as an anonymous person (judgement call),
 KEEP_PERSON,,N-822,N-822,"TPUSA ""Blank""",person,unidentified real individual; kept as an anonymous person (judgement call),
+RETIRE,47,N-564,,Central848,handle,"PR 60 re-audit P1-2: super-chat handle, no transcript grounding; tombstone legacy-N-564 in config/retired_node_ids.json",A-1551.8 (removed)
+REUSE_PERSON,48,N-596.5,N-224,Blake Neff,person,"PR 60 re-audit P2: malformed N-596.5 (note) row; Neff is spoken in ep48 (three-way call remark), so the row is the existing N-224 reused; canonical episodes gain 48",Reused line ep48
+RELABEL_TIP,99,N-2392,N-2392,Havas Media,organization,"PR 60 re-audit P2-2: band-end tip mint, not a hole; moved to a Tip-minted Nodes (wave2) line",
+RELABEL_TIP,24;33;41;47;51,N-2385..N-2391,N-2385..N-2391,band-end org retypes,organization,PR 60 re-audit P2-2: Hole-minted (wave2) lines relabelled Tip-minted (wave2),
+RELABEL_TIP,107,N-2384,N-2384,(wave1 topic),topic,Consistency with P2-2: band-end id split off the wave1 Hole-minted line onto Tip-minted (wave1) (judgement call),
+KEEP_HANDLES,47,N-561..N-563; N-565..N-568,,super-chat handles,handle,PR 60 re-audit P1-2: logged in handle_debt.csv; no replacements minted from handles; N-648 Oracle and N-822 Blank kept,

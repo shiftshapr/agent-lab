@@ -31,7 +31,8 @@
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-623, N-624, N-625, N-626, N-627, N-2392
+  - Hole-minted Nodes (wave2): N-623, N-624, N-625, N-626, N-627
+  - Tip-minted Nodes (wave2): N-2392
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 
 ---
@@ -918,9 +919,11 @@ A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, 
 
 Claim Range: C-2856–C-2883
 
-New Nodes Introduced (People): N-42
+New Nodes Introduced (People): N-623, N-624, N-625, N-626, N-627
 
 New Nodes Introduced (Investigation Targets): N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
+
+New Nodes Introduced (Organizations): N-2392
 
 Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Tara Farnsworth, Justin Strife
 

@@ -495,6 +495,40 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Person the host names while answering a super chat, as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [

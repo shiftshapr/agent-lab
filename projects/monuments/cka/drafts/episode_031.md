@@ -534,7 +534,7 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Mentions: N-314, N-102, N-443
+Mentions: N-314, N-102
 Related Nodes: N-1317
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 

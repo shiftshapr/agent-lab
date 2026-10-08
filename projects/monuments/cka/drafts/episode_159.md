@@ -960,7 +960,7 @@ Investigative Direction: Continue pairing Vanity Fair private-criticism quotes w
 **C-3616** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
 
 Claim Timestamp: 01:03:21
-Claim: Viewer note + host source claim that Charlie had two Telegram accounts, one American-flag shared account and one personal, and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
+Claim: Viewer note + host source claim that Charlie had two Telegram accounts—one American-flag shared account and one personal—and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
 Anchored Artifacts: A-2473.1, A-2466.1
 Mentions: N-1, N-2, N-42, N-46
 Related Nodes: N-2360

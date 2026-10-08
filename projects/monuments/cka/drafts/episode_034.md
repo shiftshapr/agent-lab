@@ -294,7 +294,7 @@ Investigative Direction: Identify the student and the reportedly-present profess
 Claim Timestamp: 00:26:12
 Claim: Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was "I got you covered," and Harpole did not follow up further.
 Anchored Artifacts: A-1428.1, A-1428.2
-Mentions: N-424, N-1, N-435
+Mentions: N-1
 Related Nodes:
 Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
@@ -344,7 +344,7 @@ Investigative Direction: Verify the post URL; document whether the post remains 
 **C-1743** Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
 
 Claim Timestamp: 00:03:02
-Claim: Aaron Wexler, identified by host as the woman at the Hamptons retreat, posted the quoted line on X.
+Claim: Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.
 Anchored Artifacts: A-1433.1
 Mentions: N-3, N-87
 Related Nodes:

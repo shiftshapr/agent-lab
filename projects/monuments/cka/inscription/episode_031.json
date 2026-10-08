@@ -668,22 +668,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
-      "name": "Tim Dillon",
-      "type": "person",
-      "description": "Host joke about booking Theo Von and Tim Dillon when super pregnant.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -870,8 +854,7 @@
       "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.",
       "mentions_person_refs": [
         "N-314",
-        "N-102",
-        "N-443"
+        "N-102"
       ]
     },
     {

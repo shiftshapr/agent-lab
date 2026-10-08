@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-08T07:15:44Z",
+  "generated_at": "2026-10-08T07:46:26Z",
   "cka_root": "/workspace/cka-adv-wave2/projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -19,11 +19,13 @@
   },
   "edge_counts": {
     "contradicts": 19,
+    "extends": 4,
     "isCorroboratedBy": 8,
-    "isMemberOf": 6347,
-    "isSupportedBy": 2819
+    "isMemberOf": 6355,
+    "isQualifiedBy": 4,
+    "isSupportedBy": 2824
   },
-  "revises_candidate_count": 16,
+  "revises_candidate_count": 24,
   "nodes": [
     {
       "@type": "KnowledgeGraphNode",
@@ -2414,7 +2416,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1293",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim",
+      "label": "Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim",
       "node_kind": "claim",
       "episode": 10
     },
@@ -4724,7 +4726,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1626",
-      "label": "Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out",
+      "label": "Allie Beth Stuckey Follows Up That Venue Was Confirmed Two Months Out",
       "node_kind": "claim",
       "episode": 27
     },
@@ -8169,6 +8171,27 @@
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2120",
       "label": "Nika Commenter Reports Memory Blackout Ages 4-10 at Fort Hood and Attendance at Schools Linked via Aspen Education Group",
+      "node_kind": "claim",
+      "episode": 58
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-2121",
+      "label": "Host Asserts Nick Fuentes Led People Into the Capitol With a Bullhorn and Was Not Arrested",
+      "node_kind": "claim",
+      "episode": 58
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-2122",
+      "label": "Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Ferris Wilks' Partner",
+      "node_kind": "claim",
+      "episode": 58
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-2123",
+      "label": "Host Says Milo Yiannopoulos Told Nick Fuentes the Night Before the Capitol Breach That a Federal Trap Was Planned",
       "node_kind": "claim",
       "episode": 58
     },
@@ -19273,6 +19296,41 @@
       "label": "Tucker Carlson, not Candace Owens, is the speaker whose Turning Point pledge cost Charlie Kirk a $2 million donation (corrects C-1185)",
       "node_kind": "claim",
       "episode": 4
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3737",
+      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3738",
+      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3739",
+      "label": "Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3740",
+      "label": "Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out (revises C-1626 title)",
+      "node_kind": "claim",
+      "episode": 27
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3741",
+      "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
+      "node_kind": "claim",
+      "episode": 47
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -49088,6 +49146,52 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "A-1165.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1292",
+      "to": "C-3737",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "episode": 10,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.35
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "C-1292",
+      "relationship": "extends",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "episode": 10,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.35
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1293",
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
@@ -49109,6 +49213,60 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "A-1165.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "A-1169.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1293",
+      "to": "C-3738",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "episode": 10,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.35
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "C-1293",
+      "relationship": "extends",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "episode": 10,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.35
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -49165,6 +49323,52 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "A-2520.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3731",
+      "to": "C-3739",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "episode": 10,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.35
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "C-3731",
+      "relationship": "extends",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=0; default builds-on pending Transit)",
+      "episode": 10,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.35
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -54557,6 +54761,52 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 27
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3740",
+      "to": "cka:episode:27",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 27
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3740",
+      "to": "A-1347.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 27
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1626",
+      "to": "C-3740",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=1)",
+      "episode": 27,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.65
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3740",
+      "to": "C-1626",
+      "relationship": "extends",
+      "explanation": "REVISES candidate (qualify_cues=0 extend_cues=1)",
+      "episode": 27,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "extends",
+        "confidence": 0.65
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -60016,6 +60266,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3741",
+      "to": "cka:episode:47",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 47
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1939",
       "to": "cka:episode:47",
       "relationship": "isMemberOf",
@@ -62948,6 +63206,30 @@
       "to": "A-1642.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 58
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-2121",
+      "to": "cka:episode:58",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 58
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-2122",
+      "to": "cka:episode:58",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 58
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-2123",
+      "to": "cka:episode:58",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 58
     },
     {

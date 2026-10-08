@@ -215,7 +215,17 @@ def main() -> int:
     report = {**meta, "findings": [asdict(f) for f in findings]}
     if args.json:
         args.json.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({"verdict": meta["verdict"], "counts": meta["counts"], "by_code": meta["by_code"]}, indent=2))
+    print(
+        json.dumps(
+            {
+                "verdict": meta["verdict"],
+                "counts": meta["counts"],
+                "by_code": meta["by_code"],
+                "accepted": meta["accepted"],
+            },
+            indent=2,
+        )
+    )
     hard_fail = meta["counts"]["P0"] + meta["counts"]["P1"] > 0
     return 1 if hard_fail else 0
 

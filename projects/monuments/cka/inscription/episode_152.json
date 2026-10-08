@@ -448,22 +448,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
-      "name": "Robert Kraft",
-      "type": "person",
-      "description": "Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-410",
       "ref": "N-410",
       "name": "Terrell Farnsworth",
@@ -711,10 +695,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:38–00:48:56",
-      "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*",
-      "mentions_person_refs": [
-        "N-279"
-      ]
+      "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*"
     },
     {
       "@type": "Claim",

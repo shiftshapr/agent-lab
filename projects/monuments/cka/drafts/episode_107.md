@@ -13,7 +13,8 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: none
   - Reused Nodes Appearing: N-3, N-16, N-309, N-569, N-570, N-1676, N-1697
-  - Hole-minted Nodes (wave1): N-571, N-572, N-573, N-574, N-575, N-576, N-577, N-2384
+  - Hole-minted Nodes (wave1): N-571, N-572, N-573, N-574, N-575, N-576, N-577
+  - Tip-minted Nodes (wave1): N-2384
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
 

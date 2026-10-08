@@ -431,7 +431,7 @@ Claim Timestamp: 00:36:50
 Claim: Donald Trump stated on camera, "I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel."
 
 Anchored Artifacts: A-2443.1
-Mentions: N-2, N-5, N-472
+Mentions: N-2, N-5
 Investigative Direction: Identify the original event and capture full context of Trump's remarks.
 
 ---

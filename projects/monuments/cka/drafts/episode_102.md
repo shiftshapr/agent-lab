@@ -643,7 +643,6 @@ Claim Timestamp: 00:26:59
 Claim: Nick Shirley is associated with a video claiming he infiltrated the most dangerous gang in Brazil within 48 hours.
 
 Anchored Artifacts: A-2073.1
-Mentions: N-318
 
 Related Nodes: N-2064
 
@@ -658,7 +657,7 @@ Claim Timestamp: 00:28:51
 Claim: Patrick Bet-David's show hosted Nick Shirley, during which Shirley stated that Candace Owens "came after me uh a while back" and didn't believe his Brazilian favela video; Bet-David asked "Why would Candace Owens come after you?"
 
 Anchored Artifacts: A-2073.2
-Mentions: N-88, N-3, N-318
+Mentions: N-88, N-3
 
 Related Nodes: N-2064
 
@@ -673,7 +672,7 @@ Claim Timestamp: 00:30:15
 Claim: Alex Clark publicly wrote on X: "Nick Shirley is a real journalist. Candace Owens is not."
 
 Anchored Artifacts: A-2074.1
-Mentions: N-3, N-318, N-135
+Mentions: N-3, N-135
 
 Related Nodes: N-2064
 

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-614, N-621, N-1446, N-1447, N-1448, N-1449, N-1450, N-1451
   - Reused Nodes Appearing: N-2
-  - Hole-minted Nodes (wave2): N-2390, N-2391
+  - Tip-minted Nodes (wave2): N-2390, N-2391
   - (see registers)
 
 ---
@@ -415,7 +415,7 @@ Claim Timestamp: 00:14:17
 Claim: A Tim Dillon comedy segment played on air characterizes RFK Jr. as the least scandal-prone member of the current administration while noting recurring leaked text scandals involving him.
 
 Anchored Artifacts: A-1568.2
-Mentions: N-443, N-586
+Mentions: N-443
 
 
 Investigative Direction: Verify the segment against the source recording and identify which text leaks are being referenced.

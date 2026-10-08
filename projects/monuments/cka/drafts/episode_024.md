@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-311, N-313, N-314, N-319, N-320, N-321, N-1286, N-1287
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-2385, N-2386
+  - Tip-minted Nodes (wave2): N-2385, N-2386
   - (see registers), N-37
 
 # Meta-Data
@@ -420,7 +420,6 @@ Claim Timestamp: 00:01:57
 Claim: Lindsey Graham stated at the Republican Jewish Coalition that anti-Israel rhetoric is "not the road to being elected as a Republican" and that one "can't even have an anti-Israel thought."
 
 Anchored Artifacts: A-1313.1
-Mentions: N-716
 
 Related Nodes:
 
@@ -435,7 +434,7 @@ Claim Timestamp: 00:04:07
 Claim: Randy Fine stated on stage at the Republican Jewish Coalition that "Tucker Carlson is the most dangerous anti-Semite in America" and accused him of taking on the mantle of "leader of a modern-day Hitler youth."
 
 Anchored Artifacts: A-1313.2
-Mentions: N-50, N-339
+Mentions: N-50
 
 Related Nodes:
 
@@ -450,7 +449,6 @@ Claim Timestamp: 00:01:57
 Claim: Host characterizes Lindsey Graham's RJC statement as "great messaging" sarcastically, asserting it constitutes hostile messaging directed at American voters who hold anti-Israel views.
 
 Anchored Artifacts: A-1313.1
-Mentions: N-716
 
 Related Nodes:
 
@@ -493,7 +491,7 @@ Claim Timestamp: 00:16:02
 Claim: In a 2018 Joe Rogan appearance, Candace Owens referred to him as "the hall monitor" and joked that he "writes you a pink slip" and sends people to "Saturday school."
 
 Anchored Artifacts: A-1315.1
-Mentions: N-3, N-427
+Mentions: N-3
 
 
 Investigative Direction: Verify by locating the full original Joe Rogan episode to confirm wording and date.
@@ -595,7 +593,7 @@ Claim Timestamp: 00:45:55
 Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.
 
 Anchored Artifacts: A-1320.5
-Mentions: N-148, N-69, N-358
+Mentions: N-148, N-69
 
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.

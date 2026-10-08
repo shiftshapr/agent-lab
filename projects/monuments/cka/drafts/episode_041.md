@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-483, N-484, N-1380, N-1381
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-2388
+  - Tip-minted Nodes (wave2): N-2388
   - (see registers)
 
 ---

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-406, N-408, N-410, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-2387
+  - Tip-minted Nodes (wave2): N-2387
   N-70
 
 ---
@@ -639,7 +639,7 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-2, N-753
+Mentions: N-2
 
 Related Nodes: N-1325
 
@@ -654,7 +654,7 @@ Claim Timestamp: 00:37:29–00:39:37
 Claim: "Wolves and Finance" video cites Schedule I of Turning Point USA's FY2024 Form 990 showing $8,560,625 transferred to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-2, N-753
+Mentions: N-2
 
 Related Nodes: N-1325
 
@@ -669,7 +669,7 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: "Wolves and Finance" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
-Mentions: N-1, N-2, N-753
+Mentions: N-1, N-2
 
 Related Nodes: N-1325
 
@@ -699,7 +699,7 @@ Claim Timestamp: 00:42:57–00:43:57
 Claim: "Wolves and Finance" video and host confirm that Erika Kirk became CEO of Turning Point USA on September 18, 2025, eight days after Charlie Kirk's death.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-1, N-2, N-753
+Mentions: N-1, N-2
 
 Related Nodes: N-1325
 

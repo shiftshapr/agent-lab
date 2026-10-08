@@ -277,7 +277,7 @@ Investigative Pressure: High
 
 **C-3406** Candace Owens journaled to Charlie Kirk throughout the year following his death
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:00:42–00:27:35
 Claim: The host presents four dated journal entries written to Charlie Kirk across the year after his death, read aloud in full.
 Anchored Artifacts: A-2351.1, A-2351.2, A-2351.3, A-2351.4
 Mentions: N-1, N-3
@@ -402,7 +402,7 @@ Investigative Direction: Verify medical or insurance records if relevant to inve
 
 **C-3418** Host reports being approximately eight months pregnant at time of recording
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:00:02
 Claim: Host states she is "8 months pregnant" at the time of recording.
 Anchored Artifacts: A-2351.2
 Mentions: N-3

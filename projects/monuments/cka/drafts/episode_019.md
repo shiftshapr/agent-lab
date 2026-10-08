@@ -526,7 +526,7 @@ Claim Timestamp: 00:10:34–00:11:27
 Claim: Host's frame-by-frame analysis of event-day footage shows Mikey McCoy raising his phone to his ear approximately 834 milliseconds after the gunshot audio is heard.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-259, N-260, N-272
+Mentions: N-259, N-260
 
 Related Nodes: N-1257, N-1259
 
@@ -541,7 +541,6 @@ Claim Timestamp: 00:13:33
 Claim: Event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.
 
 Anchored Artifacts: A-1261.3
-Mentions: N-272
 
 Related Nodes: N-1257, N-1259
 
@@ -556,7 +555,7 @@ Claim Timestamp: 00:12:22
 Claim: Event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.
 
 Anchored Artifacts: A-1261.2
-Mentions: N-1, N-272
+Mentions: N-1
 
 Related Nodes: N-1257, N-1259
 
@@ -777,7 +776,7 @@ Claim Timestamp: 00:04:39
 Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
-Mentions: N-37, N-272
+Mentions: N-37
 
 
 Investigative Direction: Verify via TPUSA organizational records.
@@ -877,7 +876,7 @@ Claim Timestamp: 00:13:46–00:14:46
 Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-42, N-272
+Mentions: N-42
 
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
@@ -891,7 +890,6 @@ Claim Timestamp: 00:12:22
 Claim: Host states she instructed her team to play devil's advocate for Mikey McCoy and to propose any scenario explaining the 834ms timing; "no one could win this game."
 
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
-Mentions: N-272
 
 Related Nodes: N-1259
 

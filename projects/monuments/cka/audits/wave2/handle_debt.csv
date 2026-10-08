@@ -1,0 +1,9 @@
+node,name,episode,status,cited_by,note
+N-561,Marissa,47,HANDLE_DEBT,"A-1551.2, C-3741",Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. Also spoken by the host at 00:32:14 (PragerU remark); grounded by C-3741
+N-562,Isabella Mazzone,47,HANDLE_DEBT,A-1551.7,Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. 
+N-563,Curbster,47,HANDLE_DEBT,A-1551.1,Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. 
+N-564,Central848,47,RETIRED,,"Super-chat handle with no transcript grounding beyond the A-1551.8 spray. Tombstoned in config/retired_node_ids.json (legacy-N-564, survives_as null); row, ledger entry and canonical node removed. Id not reused."
+N-565,Zachary Loft,47,HANDLE_DEBT,A-1551.3,Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. 
+N-566,Mr. Bruce Lee,47,HANDLE_DEBT,A-1551.4,Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. 
+N-567,Will Wallace,47,HANDLE_DEBT,A-1551.5,Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. 
+N-568,Lamp,47,HANDLE_DEBT,A-1551.8,Super-chat author handle minted as a person in the person band. Kept for now (no replacement minted from handles); each handle is linked only from its own super-chat artifact. 

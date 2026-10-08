@@ -613,7 +613,7 @@ Claim Timestamp: 00:11:11
 Claim: Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.
 
 Anchored Artifacts: A-1227.6
-Mentions: N-3, N-293
+Mentions: N-3
 Investigative Direction: Determine the actual interval between Candace's receipt and release of the text chain.
 
 ---

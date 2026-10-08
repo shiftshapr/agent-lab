@@ -718,22 +718,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-586",
-      "ref": "N-586",
-      "name": "Robert F. Kennedy Jr.",
-      "type": "person",
-      "description": "Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, Tucker Carlson, Riley Gaines); host also jokes big-pharma wealth may explain the RFK ban.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -809,8 +793,7 @@
       "claim_timestamp": "00:14:17",
       "investigative_direction": "Verify the segment against the source recording and identify which text leaks are being referenced.",
       "mentions_person_refs": [
-        "N-443",
-        "N-586"
+        "N-443"
       ]
     },
     {

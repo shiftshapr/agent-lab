@@ -814,70 +814,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-339",
-      "ref": "N-339",
-      "name": "Randy Fine",
-      "type": "person",
-      "description": "Author of X post A-1857.1.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-358",
-      "ref": "N-358",
-      "name": "Tom Paul",
-      "type": "person",
-      "description": "Author of substantive viewer comment (A-1354.1) referencing external commentary; tracked as source node.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-427",
-      "ref": "N-427",
-      "name": "Joe Rogan",
-      "type": "person",
-      "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-716",
-      "ref": "N-716",
-      "name": "Lindsey Graham",
-      "type": "person",
-      "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -893,10 +829,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:57",
-      "investigative_direction": "Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session.",
-      "mentions_person_refs": [
-        "N-716"
-      ]
+      "investigative_direction": "Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session."
     },
     {
       "@type": "Claim",
@@ -912,8 +845,7 @@
       "claim_timestamp": "00:04:07",
       "investigative_direction": "Verify the full RJC recording for the complete quote and any surrounding context.",
       "mentions_person_refs": [
-        "N-50",
-        "N-339"
+        "N-50"
       ]
     },
     {
@@ -928,10 +860,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:57",
-      "investigative_direction": "This is host concurrence / interpretive stance; verification requires only that A-1313.1 captures the original statement.",
-      "mentions_person_refs": [
-        "N-716"
-      ]
+      "investigative_direction": "This is host concurrence / interpretive stance; verification requires only that A-1313.1 captures the original statement."
     },
     {
       "@type": "Claim",
@@ -985,8 +914,7 @@
       "claim_timestamp": "00:16:02",
       "investigative_direction": "Verify by locating the full original Joe Rogan episode to confirm wording and date.",
       "mentions_person_refs": [
-        "N-3",
-        "N-427"
+        "N-3"
       ]
     },
     {
@@ -1115,8 +1043,7 @@
       "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern.",
       "mentions_person_refs": [
         "N-148",
-        "N-69",
-        "N-358"
+        "N-69"
       ]
     },
     {

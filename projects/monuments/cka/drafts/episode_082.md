@@ -433,7 +433,7 @@ Claim Timestamp: 00:36:47
 Claim: Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that within 48 hours he gained access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers who could not leave the favela.
 
 Anchored Artifacts: A-1891.2
-Mentions: N-1, N-318
+Mentions: N-1
 
 Related Nodes: N-1632
 

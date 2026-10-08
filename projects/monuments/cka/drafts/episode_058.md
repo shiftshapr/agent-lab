@@ -481,7 +481,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2122, C-2123, N-293, N-334, N-741, N-204*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2121, C-2122, C-2123, N-293, N-334, N-741, N-204*
 
 ---
 
@@ -684,6 +684,45 @@ Investigative Direction: Verify Aspen Education Group corporate lineage; obtain 
 
 ---
 
+
+**C-2121** Host Asserts Nick Fuentes Led People Into the Capitol With a Bullhorn and Was Not Arrested
+
+Claim Timestamp: 00:39:06
+Claim: The host asserts that Nick Fuentes led people into the Capitol with a bullhorn, told them to ignore police and storm the barriers as if acting on federal instructions, and was not arrested, which she offers as evidence that he is a federal informant.
+Transcript Snippet: He led people into a capital with a bullhorn and said ignore police storm the barriers as if he had fed like he he had fed instructions
+Anchored Artifacts: 
+Mentions: N-293
+Related Nodes: N-1495
+Confidence: medium
+Investigative Direction: Obtain January 6 footage and charging records for Fuentes; document whether he entered restricted grounds and why no charge followed.
+
+---
+
+**C-2122** Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Ferris Wilks' Partner
+
+Claim Timestamp: 00:39:06
+Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and Ferris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.
+Transcript Snippet: he took a meeting with Defend Texas Liberty and Ferris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers
+Anchored Artifacts: 
+Mentions: N-293, N-741
+Related Nodes: N-1495
+Confidence: medium
+Investigative Direction: Identify the reporter and obtain the documents; confirm the meeting date, attendees and the data-sale pitch.
+
+---
+
+**C-2123** Host Says Milo Yiannopoulos Told Nick Fuentes the Night Before the Capitol Breach That a Federal Trap Was Planned
+
+Claim Timestamp: 00:39:06
+Claim: The host says it is known "for a fact" that Milo Yiannopoulos informed Nick Fuentes the night before he led people into the Capitol that a federal trap was happening, and that Fuentes still went with a bullhorn.
+Transcript Snippet: we know for a fact he was informed the night before the night before by Milo Yiannopoulos. That the feds were going to be that there was there was some fed trap happening
+Anchored Artifacts: 
+Mentions: N-293, N-334
+Related Nodes: N-1495
+Confidence: medium
+Investigative Direction: Locate Yiannopoulos's own statement about the January 5 warning and any messages corroborating it.
+
+---
 
 **C-3657** Host elevates mommy sleuth crowd investigators
 

@@ -364,7 +364,7 @@ Claim Timestamp: 00:33:00
 Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-632, N-633, N-639, N-783
+Mentions: N-632, N-633, N-639
 
 Related Nodes: N-1454
 

@@ -787,22 +787,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
-      "name": "Jesse Watters",
-      "type": "person",
-      "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -978,8 +962,7 @@
       "claim_timestamp": "00:13:06",
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
-        "N-247",
-        "N-313"
+        "N-247"
       ]
     },
     {

@@ -120,7 +120,7 @@ Confidence: high
 
 **A-1098.1** Bill Ackman's 955-word tweet response to Candace's Hamptons episode, includes meeting origin story, itinerary, denial of intervention framing
 Event Timestamp: 2025-09
-Video Timestamp: 00:47:50–00:51:31
+Video Timestamp: 00:45:41–00:51:31
 *Related: C-1159, C-1160, C-1161, N-66, N-1098, N-1102*
 Transcript Snippet: Amman's 955word response...this was not an intervention to blackmail Charlie into adopting certain views
 Confidence: high

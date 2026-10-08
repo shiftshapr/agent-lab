@@ -407,7 +407,7 @@ Claim Timestamp: 00:04:58
 Claim: Charlie Kirk criticized Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
 
 Anchored Artifacts: A-1617.1
-Mentions: N-1, N-716, N-857
+Mentions: N-1, N-716
 Investigative Direction: Obtain primary recording; verify exact phrasing.
 
 **C-2077** Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF

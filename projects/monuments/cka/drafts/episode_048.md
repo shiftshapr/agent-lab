@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-590, N-596, N-1429, N-1430, N-1431, N-1432, N-1433, N-1434, N-1435, N-1436, N-1437
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-224
   - (see registers)
 
 ## 2. Executive Summary
@@ -189,9 +189,9 @@ Investigative Pressure: Low
 
 ---
 
-**N-596.5 (note)** Blake Neff
+**N-224** Blake Neff
 
-Writer referenced in comments section as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.
+Person the host names while answering a super chat, as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.
 
 Evidence Count: 0
 Claim Count: 0

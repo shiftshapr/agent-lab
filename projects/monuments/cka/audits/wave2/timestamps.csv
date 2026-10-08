@@ -376,3 +376,14 @@ episode,kind,id,old,new,delta_s,match_score,basis,reason
 7,meme,M-1#1,00:00:37,00:02:05,-88,100.0,snippet,"re-stamped to the transcripts_corrected marker of the located quote (CLM-P1-5/6, MEM-P1-2)"
 9,artifact,A-1156.4,00:31:02–00:31:54,00:24:53–00:25:45,329,100.0,snippet,"re-stamped to the transcripts_corrected marker of the located quote (CLM-P1-5/6, MEM-P1-2); set to the first quoted sentence (24:53)"
 9,claim,C-1273,00:31:02,00:24:53,329,100.0,snippet,"re-stamped to the transcripts_corrected marker of the located quote (CLM-P1-5/6, MEM-P1-2); set to the first quoted sentence (24:53)"
+3,artifact,A-1098.1,00:47:50–00:51:31,00:45:41–00:51:31,129,,transcript,PR 60 re-audit P2: tweet read begins at 45:41
+8,meme,M-1 occurrence 1,00:39:12,00:40:10,58,,transcript,PR 60 re-audit P2: quote un-spliced to a verbatim contiguous passage at 40:10 (was spanning 419 s)
+10,claim,C-1286,00:00:00,00:00:01,1,,transcript,placeholder replaced with the real marker [00:01]
+30,artifact,A-1383.2,00:34:09,00:32:57,72,,transcript,PR 60 re-audit: approximate MM:SS:xx stamp rechecked against the transcript
+30,claim,C-1674,00:34:09,00:32:57,72,,transcript,rechecked with A-1383.2
+30,artifact,A-1384.1,00:32:02,00:32:02,0,,transcript,"rechecked; ""near the bush"" is at 32:02, kept"
+134,artifact,A-2212.1,00:08:40,00:09:40,60,,transcript,rechecked; the Neff post is read at 9:40
+134,claim,C-3163,00:35:25,00:34:21,64,,transcript,rechecked against the transcript marker
+134,claim,C-3164,00:10:30,00:09:40,50,,transcript,rechecked; the Neff post is read at 9:40
+150,claim,C-3406,00:00:00–00:00:01,00:00:42–00:27:35,,,transcript,PR 60 re-audit P2-10: restored-claim placeholder replaced with the real span
+150,claim,C-3418,00:00:00–00:00:01,00:00:02,,,transcript,P2-10: placeholder replaced with the real marker

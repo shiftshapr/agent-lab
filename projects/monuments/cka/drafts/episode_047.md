@@ -29,10 +29,10 @@
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
-  - Claim Range: C-1924–C-1959
-  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
+  - Claim Range: C-1924–C-1959, C-3741
+  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-561, N-562, N-563, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-2389
+  - Tip-minted Nodes (wave2): N-2389
 
 ---, N-37
 
@@ -249,6 +249,8 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:08–01:02:32
 Confidence Level: High
 
+*Related: N-563*
+
 **A-1551.2** Central848 super chat: electrocution theory citing Baron Coleman video of charred hands
 
 Event Timestamp: 00:00:00–00:00:01
@@ -263,6 +265,8 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:05:19–01:07:06
 Confidence Level: High
 
+*Related: N-565*
+
 **A-1551.4** Mr. Bruce Lee super chat: botted chat observation
 
 Event Timestamp: 00:00:00–00:00:01
@@ -270,12 +274,16 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:07:06–01:07:49
 Confidence Level: High
 
+*Related: N-566*
+
 **A-1551.5** Will Wallace super chat: security-support donation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:07:49–01:08:42
 Confidence Level: High
+
+*Related: N-567*
 
 **A-1551.6** Real Base super chat: questions on Erika/feds and night-before messages
 
@@ -291,6 +299,8 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:10:54–01:12:01
 Confidence Level: High
 
+*Related: N-562*
+
 **A-1551.8** Lamp super chat: question on Qatar's role in media criticism
 
 Event Timestamp: 00:00:00–00:00:01
@@ -298,7 +308,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:12:01–01:13:35
 Confidence Level: High
 
-*Related: C-1924, C-1925, C-1926, C-1927, C-1928, C-1929, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568*
+*Related: N-568*
 
 ---
 
@@ -592,7 +602,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, N-1197*
+*Related: C-3741, N-1197*
 
 ---
 
@@ -619,19 +629,6 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1551.1*
-
----
-
-**N-564** Central848
-
-Donor; proposed electrocution theory.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1551.2, N-1423*
 
 ---
 
@@ -893,7 +890,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1551.2, N-552, N-564*
+*Related: A-1551.2, N-552*
 
 ---
 
@@ -1192,6 +1189,19 @@ Mentions: N-42, N-65
 Related Nodes: N-1413
 
 Investigative Direction: Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.
+
+---
+
+**C-3741** Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU
+
+Claim Timestamp: 00:32:14
+Claim: The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and "too many" are paid by PragerU, and that she knows Marissa (N-561) there.
+Transcript Snippet: too many are being paid by PragerU, which is upsetting to me because I know Marissa, and it's just dirty.
+Anchored Artifacts: 
+Mentions: N-3, N-561
+Related Nodes: N-1197
+Confidence: medium
+Investigative Direction: Identify the named paid accounts and any PragerU or PR-firm payment records the host says she holds.
 
 ---
 

@@ -97,7 +97,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:34:09
+Video Timestamp: 00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -496,7 +496,7 @@ Investigative Direction: Obtain independent genealogical or institutional record
 
 **C-1674** A photograph of Butch Hibbs with Charlie Kirk was taken approximately 20 minutes before the shooting
 
-Claim Timestamp: 00:34:09
+Claim Timestamp: 00:32:57
 
 Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turk was taken approximately 20 minutes before the shooting of Charlie Kirk.
 

@@ -273,7 +273,6 @@ Claim Timestamp: 00:21:21
 Claim: Corby Hall's written statement documents that Victor Marx expressed interest in acquiring ownership of Fold AR.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1675
 
@@ -288,7 +287,6 @@ Claim Timestamp: 00:21:21
 Claim: Corby Hall's written statement documents that on or about December 1, 2023, at Victor Marx's request, Hall and Melody drove from Texas to Colorado Springs to provide a demo of the Fold AR at Marx's home range; Marx subsequently requested a signature series rifle.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes:
 
@@ -303,7 +301,6 @@ Claim Timestamp: 00:22:29
 Claim: Corby Hall's written statement documents that Victor Marx performed a ritual he described as a "retooling prayer" on both Melody and Corby Hall during the initial home visit; Hall characterizes the practice as confronting demons.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes:
 
@@ -318,7 +315,6 @@ Claim Timestamp: 00:24:43
 Claim: Corby Hall's written statement documents that on January 24, 2024, Victor Marx married Corby Hall and Melody in his hotel room with several industry friends present.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes:
 
@@ -333,7 +329,6 @@ Claim Timestamp: 00:24:43
 Claim: Corby Hall's written statement documents that All Things Possible Ministries purchased five Fold AR weapon systems for Lindale High School in Texas; no further ministry purchases were made.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-570
 
 Related Nodes:
 
@@ -348,7 +343,6 @@ Claim Timestamp: 00:25:43
 Claim: Corby Hall's written statement documents that in late fall 2024, Victor Marx stated he needed 50 rifles for a mission to Haiti where he would drop off and leave the firearms; Hall advised that this would constitute illegal exporting.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1677
 
@@ -363,7 +357,6 @@ Claim Timestamp: 00:26:32
 Claim: Corby Hall's written statement documents that in October 2024, Victor Marx requested a 1,000-yard capable rifle with scope camera, stating it would be used to "blow the head off" of anyone attempting to scale the fence of a Haiti orphanage, with video used as propaganda.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1677
 
@@ -378,7 +371,6 @@ Claim Timestamp: 00:27:14
 Claim: Corby Hall's written statement documents that Victor Marx stated his team was going to capture or execute Jimmy Barbecue, then the top gang leader of Haiti.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1677
 
@@ -393,7 +385,6 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that Victor Marx stated he was discussing the acquisition of Fold AR with Sig Sauer, and that Sig Sauer's top shooter Daniel Horner had tested the Fold AR and given a "thumbs up."
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1675
 
@@ -408,7 +399,6 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that Victor Marx's accountants valued Fold AR at $2 million (including the patent), and that Marx personally wanted to purchase 51% of the company.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1675
 
@@ -423,7 +413,6 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that during a walk on his property, Victor Marx stated that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes: N-1676
 
@@ -438,7 +427,6 @@ Claim Timestamp: 00:34:23
 Claim: Corby Hall's written statement documents that Victor Marx showed Hall a structure behind his house that included a large underground bunker, a front-facing firearm port, and an indoor shooting range — described as intended for "spiritual retooling" of officers working child sex trafficking cases.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes:
 
@@ -453,7 +441,6 @@ Claim Timestamp: 00:36:14
 Claim: Corby Hall's written statement documents that after the deal fell through, Victor Marx sent a group message to Hall and Melody stating Hall was "demonically influenced" because he refused a retooling prayer.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-569, N-570
 
 Related Nodes:
 
@@ -468,7 +455,6 @@ Claim Timestamp: 00:36:44
 Claim: Corby Hall's written statement documents that on June 6, 2024, Corby Hall sold a Fold AR with serial number 02735 to a Texas deputy.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-570
 
 Related Nodes: N-1678
 
@@ -483,7 +469,6 @@ Claim Timestamp: 00:36:44
 Claim: Corby Hall's written statement documents that on July 4, 2024, the Texas deputy reported that Fold AR SN 02735 was stolen from his vehicle at a gas station in Midland, Texas, with windows left down; the deputy stated he reported it to local Midland police.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-570
 
 Related Nodes: N-1678
 
@@ -498,7 +483,6 @@ Claim Timestamp: 00:37:42
 Claim: Per host account of forwarded ATF email, on September 10, 2025, at 9:33 a.m. Central, Corby Hall received an email from the ATF initiating a trace on Fold AR SN 02735 with a 24-hour response window; the email is described as real and confirmed by the host.
 
 Anchored Artifacts: A-1963.1
-Mentions: N-570
 
 Related Nodes: N-1674, N-1678
 
@@ -513,7 +497,7 @@ Claim Timestamp: 00:09:06
 Claim: An Instagram video shows Erika Kirk and Eileen Marx embracing shortly after Charlie Kirk's assassination, with impassioned music ("Held" by Natalie Grant) added, posted by Victor Marx.
 
 Anchored Artifacts: A-1959.1
-Mentions: N-1, N-569, N-571, N-2
+Mentions: N-1, N-2
 
 Related Nodes: N-1680
 
@@ -528,7 +512,7 @@ Claim Timestamp: 00:10:03
 Claim: A photo shows Erika Kirk being comforted by Victor Marx at her residence, approximately 72 hours after Charlie Kirk's assassination; Erika is holding her phone.
 
 Anchored Artifacts: A-1959.2
-Mentions: N-1, N-569, N-2
+Mentions: N-1, N-2
 
 Related Nodes: N-1680
 
@@ -543,7 +527,6 @@ Claim Timestamp: 00:28:28
 Claim: CBN News aired a report stating that Victor Marx met with Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; Marx is shown praying with him and the FAA is reported to have banned US flights to Haiti after three planes were hit by gunfire.
 
 Anchored Artifacts: A-1960.1
-Mentions: N-569
 
 Related Nodes: N-1677
 
@@ -573,7 +556,6 @@ Claim Timestamp: 00:13:04
 Claim: An audio clip of Victor Marx recounts that at age 7, his stepfather placed a pistol in his hand, put his finger over Victor's trigger finger, and forced him to shoot a man in the head; Marx further states the body was later buried and that he eventually reported it to police.
 
 Anchored Artifacts: A-1962.1
-Mentions: N-569
 
 Related Nodes: N-1679
 
@@ -616,7 +598,6 @@ Claim Timestamp: 00:39:25
 Claim: The host explicitly states she believes Corby Hall's account, has confirmed the ATF email is real, and considers the timing of the ATF trace to be "odd" and "precise."
 
 Anchored Artifacts: A-1958.1, A-1963.1
-Mentions: N-570
 
 Related Nodes: N-1674, N-1678
 

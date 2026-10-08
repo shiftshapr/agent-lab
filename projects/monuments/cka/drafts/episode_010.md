@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170, A-2520
-  - Claim Range: C-1286-C-1296, C-3731-C-3734
+  - Claim Range: C-1286-C-1296, C-3731-C-3734, C-3737-C-3739
   - New Nodes Introduced: N-165, N-166, N-167, N-168, N-169, N-170, N-171, N-172, N-173, N-174, N-175, N-1195, N-1196, N-1197, N-1198, N-1199, N-1200, N-1201, N-1202, N-1203, N-1204, N-1205, N-1206
   - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-65, N-66, N-67, N-69, N-73, N-75, N-5, N-70, N-86, N-91, N-1000, N-1092, N-1127, N-1190, N-43
 
@@ -88,13 +88,13 @@ Confidence: high
 
 **A-1165.1** Xaviaer DuRousseau video clip played in episode, addressing Hamptons weekend and use of phrase 'moral blackmail' regarding Charlie Kirk
 Video Timestamp: 00:04:45–00:06:00
-*Related: C-1292, N-166, N-1196*
+*Related: C-1292, C-3737, N-166, N-1196*
 Transcript Snippet: He said is it is moral blackmail if you say that somebody saying that a politician is bad that you're then empowering a terrorist organization.
 Confidence: high
 
 **A-1165.2** Xaviaer DuRousseau video clip explaining why photos from Hamptons weekend were not posted in real time (safety claim)
 Video Timestamp: 00:06:34–00:07:06
-*Related: C-1293, N-166, N-1196*
+*Related: C-1293, C-3738, N-166, N-1196*
 Transcript Snippet: The reason we didn't post that in the real time was because of safety.
 Confidence: high
 
@@ -137,7 +137,7 @@ Confidence: high
 **A-1169.1** Public Instagram post by Emily (Saves America) dated August 6 stating she was in the Hamptons, cited as contradicting Xaviaer DuRousseau's safety-based secrecy claim
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:07:17–00:07:49
-*Related: C-1293, N-173, N-166, N-1196*
+*Related: C-1293, C-3738, N-173, N-166, N-1196*
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons… Sorry, I'm MIA. I'm in the Hamptons.
 Confidence: high
 
@@ -169,7 +169,7 @@ Confidence: medium
 
 **A-2520.1** Host statement naming Natasha Hausdorff, Seth Dillon and Josh Hammer as Hamptons weekend attendees (verbal reference; no displayed artifact)
 Video Timestamp: 00:05:05–00:05:25
-*Related: C-3731, N-1, N-67, N-86, N-166, N-167, N-1000*
+*Related: C-3731, C-3739, N-1, N-67, N-86, N-166, N-167, N-1000*
 Transcript Snippet: Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Confidence: medium
 
@@ -632,7 +632,7 @@ Investigative Direction: Obtain the original signed memo directly from TPUSA or 
 
 **C-1286** Charlie Kirk expressed concern about TPUSA finances one week before his death
 
-Claim Timestamp: 00:00:00
+Claim Timestamp: 00:00:01
 Claim: According to host and unnamed insiders, Charlie Kirk was concerned about TPUSA finances approximately one week before his assassination and had begun assembling a small team to investigate where money was going.
 Transcript Snippet: a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA.
 Anchored Artifacts: A-1162.1
@@ -715,7 +715,7 @@ Tags: open_source_investigation
 **C-1292** Charlie Kirk characterized weekend retreat pressure as 'moral blackmail'
 
 Claim Timestamp: 00:04:28
-Claim: Xaviaer DuRousseau states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
+Claim: Xavier Deruso states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-166, N-1
@@ -725,7 +725,21 @@ Investigative Direction: Verify with primary recording or transcript of the actu
 
 ---
 
-**C-1293** Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim
+**C-3737** Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)
+
+Claim Timestamp: 00:04:28
+Claim: C-1292 spells the speaker's name 'Xavier Deruso'. The speaker is Xaviaer DuRousseau (N-166). He states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
+Transcript Snippet: Charlie spoke about feeling morally blackmailed.
+Anchored Artifacts: A-1165.1
+Mentions: N-166, N-1
+Related Nodes: N-1092, N-1200
+Revises: C-1292
+Confidence: medium
+Investigative Direction: Read with C-1292; match DuRousseau's video and channel records under the corrected spelling.
+
+---
+
+**C-1293** Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim
 
 Claim Timestamp: 00:07:17
 Claim: Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.
@@ -735,6 +749,20 @@ Mentions: N-166, N-173
 Related Nodes: N-1092, N-1200
 Confidence: high
 Investigative Direction: Verify the Instagram post date, contents, and whether it was posted during or after the weekend.
+
+---
+
+**C-3738** Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)
+
+Claim Timestamp: 00:07:17
+Claim: C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-166). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
+Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
+Anchored Artifacts: A-1165.2, A-1169.1
+Mentions: N-166, N-173
+Related Nodes: N-1092, N-1200
+Revises: C-1293
+Confidence: high
+Investigative Direction: Read with C-1293; verify the Instagram post date, contents, and whether it was posted during or after the weekend.
 
 ---
 
@@ -797,13 +825,27 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 **C-3731** Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer
 
 Claim Timestamp: 00:05:13
-Claim: Responding to Xaviaer DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Housedorf") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
+Claim: Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Housedorf") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
 Transcript Snippet: Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Anchored Artifacts: A-2520.1
 Mentions: N-1, N-67, N-86, N-166, N-167
 Related Nodes: N-1000
 Confidence: medium
 Investigative Direction: Corroborate the attendee list and the exchange with other Hamptons weekend accounts.
+
+---
+
+**C-3739** Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)
+
+Claim Timestamp: 00:05:13
+Claim: C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-166). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Housedorf") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
+Transcript Snippet: Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
+Anchored Artifacts: A-2520.1
+Mentions: N-1, N-67, N-86, N-166, N-167
+Related Nodes: N-1000
+Revises: C-3731
+Confidence: medium
+Investigative Direction: Read with C-3731; corroborate the attendee list and the exchange with other Hamptons weekend accounts.
 
 ---
 

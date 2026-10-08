@@ -3393,6 +3393,7 @@
         42,
         44,
         47,
+        48,
         76,
         79,
         143,
@@ -6412,14 +6413,6 @@
     },
     "N-563": {
       "canonical_name": "Curbster",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-564": {
-      "canonical_name": "Central848",
       "type": "person",
       "aliases": [],
       "episodes": [

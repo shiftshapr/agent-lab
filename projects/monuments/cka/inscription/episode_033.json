@@ -836,22 +836,6 @@
         "N-1325"
       ],
       "organization_kind": "company"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
-      "name": "Zack Gregorio (Wolves and Finance)",
-      "type": "person",
-      "description": "YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -1116,8 +1100,7 @@
       "claim_timestamp": "00:34:07–00:35:11",
       "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
       "mentions_person_refs": [
-        "N-2",
-        "N-753"
+        "N-2"
       ]
     },
     {
@@ -1136,8 +1119,7 @@
       "claim_timestamp": "00:37:29–00:39:37",
       "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
       "mentions_person_refs": [
-        "N-2",
-        "N-753"
+        "N-2"
       ]
     },
     {
@@ -1158,8 +1140,7 @@
       "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-753"
+        "N-2"
       ]
     },
     {
@@ -1198,8 +1179,7 @@
       "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-753"
+        "N-2"
       ]
     },
     {

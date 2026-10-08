@@ -2432,6 +2432,20 @@
       "survives_as": "N-1642",
       "canonical_name": "Comparative Bullet Lead Analysis Revival",
       "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-1651 \"Comparative Bullet Lead Analysis (CBLA) Revival\" collapsed onto the earlier id N-1642."
+    },
+    "legacy-N-564": {
+      "survives_as": null,
+      "canonical_name": "Central848",
+      "reason": "Wave 2 re-audit (PR 60 P1-2, PPL-P1-2): super-chat viewer handle, not spoken in the transcript, Claim Count 0. Retired with no survivor; no replacement minted from the handle."
     }
+  },
+  "reserved_baseline_ids": {
+    "description": "episode_000 baseline ids that count as occupied in the person band. They are reserved (never reclaimed as holes) and are not tombstones. Wave 2 removed ep96 junk rows that misused N-27, N-28, N-32 and N-33; the ids stay reserved baseline ids.",
+    "ids": [
+      "N-27",
+      "N-28",
+      "N-32",
+      "N-33"
+    ]
   }
 }

@@ -914,7 +914,7 @@ Investigative Direction: Verify the existence and details of any announced "Cour
 **C-1566** NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership
 
 Claim Timestamp: 00:13:18
-Claim: The host asserts, citing X researcher Village Crazy Lady, that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
+Claim: The host asserts — citing X researcher Village Crazy Lady — that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
 Anchored Artifacts: A-1307.1
 Mentions: N-97, N-302, N-45
 Related Nodes: N-1275, N-1276

@@ -904,22 +904,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
-      "name": "Mikey McCoy",
-      "type": "person",
-      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -941,8 +925,7 @@
       "investigative_direction": "Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.",
       "mentions_person_refs": [
         "N-259",
-        "N-260",
-        "N-272"
+        "N-260"
       ]
     },
     {
@@ -960,10 +943,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:33",
-      "investigative_direction": "Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.",
-      "mentions_person_refs": [
-        "N-272"
-      ]
+      "investigative_direction": "Cross-reference call log timestamps with footage timestamps to determine call duration and recipient."
     },
     {
       "@type": "Claim",
@@ -982,8 +962,7 @@
       "claim_timestamp": "00:12:22",
       "investigative_direction": "Verify timing continuity and identify any change in phone-use posture during the post-shot interval.",
       "mentions_person_refs": [
-        "N-1",
-        "N-272"
+        "N-1"
       ]
     },
     {
@@ -1253,8 +1232,7 @@
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Verify via TPUSA organizational records.",
       "mentions_person_refs": [
-        "N-37",
-        "N-272"
+        "N-37"
       ]
     },
     {
@@ -1371,8 +1349,7 @@
       "claim_timestamp": "00:13:46–00:14:46",
       "investigative_direction": "Obtain any written correspondence or call records from the outreach attempts.",
       "mentions_person_refs": [
-        "N-42",
-        "N-272"
+        "N-42"
       ]
     },
     {
@@ -1387,10 +1364,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
-      "investigative_direction": "Document the scenarios considered and rejected.",
-      "mentions_person_refs": [
-        "N-272"
-      ]
+      "investigative_direction": "Document the scenarios considered and rejected."
     },
     {
       "@type": "Claim",

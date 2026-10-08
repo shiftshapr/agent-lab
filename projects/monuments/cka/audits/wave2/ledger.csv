@@ -30,3 +30,17 @@ episode,id,action,reason
 47,N-2389,HOLE_MINTED_WAVE2,retyped org
 51,"N-2390, N-2391",HOLE_MINTED_WAVE2,retyped orgs
 80+,spray/local ids,LEDGER_STRIP,uncited spray ids and local ids removed from New/Reused/Existing ledger lines (see related_spray.csv ledger_reuse_removed)
+24,N-2385; N-2386,RELABEL_TIP,Hole-minted (wave2) line relabelled Tip-minted (wave2) (P2-2)
+33,N-2387,RELABEL_TIP,P2-2
+41,N-2388,RELABEL_TIP,P2-2
+47,N-2389,RELABEL_TIP,P2-2
+51,N-2390; N-2391,RELABEL_TIP,P2-2
+99,N-2392,RELABEL_TIP,split off the Hole-minted (wave2) line onto Tip-minted (wave2) (P2-2)
+107,N-2384,RELABEL_TIP,split off the Hole-minted (wave1) line onto Tip-minted (wave1) (consistency)
+99,N-42; N-623..N-627,FIX_SECONDARY_LINE,"New Nodes Introduced (People) listed reused N-42; now lists N-623..N-627, plus an Organizations line for N-2392"
+147,N-69,FIX_SECONDARY_LINE,"N-69 Tyler Robinson is reused, not new; line now says none"
+6,N-1079,ADD_REUSED,cited on a claim but missing from the ledger (extended hostile ledger check)
+7,N-95,ADD_REUSED,cited on a claim but missing from the ledger (extended hostile ledger check)
+48,N-224,ADD_REUSED,N-596.5 (note) replaced by the N-224 reuse
+47,N-564,REMOVE_NEW,retired handle
+160;161,N-279; N-318; N-342; N-447; N-472; N-586,HOLE_LINES_TRUE,"after the P0-1 hold no person is cited before its ep160/161 introduction, so the hole-mint lines are true; enforced by the cited_before_intro gate"

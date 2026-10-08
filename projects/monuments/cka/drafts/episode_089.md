@@ -318,7 +318,7 @@ Claim Timestamp: 00:29:16–00:31:16
 Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolb named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-472, N-3, N-1, N-42
+Mentions: N-3, N-1, N-42
 Related Nodes: N-1664
 Investigative Direction: Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 

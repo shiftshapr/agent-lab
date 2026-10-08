@@ -606,22 +606,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
-    },
-    {
-      "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
-      "name": "Lori Frantzve",
-      "type": "person",
-      "description": "Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
     }
   ],
   "claims": [
@@ -766,8 +750,7 @@
       "mentions_person_refs": [
         "N-632",
         "N-633",
-        "N-639",
-        "N-783"
+        "N-639"
       ]
     },
     {

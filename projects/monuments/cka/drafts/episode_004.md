@@ -639,7 +639,7 @@ Claim Timestamp: 00:45:45–00:46:15
 Claim: The clips played at 43:09 and 45:45 are Tucker Carlson speaking. He says that two days before Charlie Kirk died, Charlie lost a $2 million donation because he had publicly pledged to bring Tucker ("me") to the next Turning Point conference in December, and that Charlie texted him that he was taking heat for it. C-1185 attributes the speaking-slot pledge to Candace Owens; per the transcript the speaker and the invitee are Tucker Carlson.
 Transcript Snippet: two days before he died, he lost a $2 million donation because he had publicly pledged to bring me to the next Turning Point conference in December.
 Anchored Artifacts: A-1107.1, A-1107.2
-Mentions: N-1, N-50, N-3
+Mentions: N-1, N-50
 Related Nodes: N-1112
 Contradicts: C-1185
 Confidence: high

@@ -444,6 +444,96 @@ def test_hole_mint_order_flags_ledger_appearance_in_earlier_episode(tmp_path):
     assert _hole_report(tmp_path, eps).findings == []
 
 
+def _ep_draft(ledger: str, register: str, claims: str = "", artifacts: str = "") -> str:
+    return (
+        f"## 1. Meta-Data\n\n- **Episode Ledger Summary**:\n{ledger}\n## 3. Artifact Register\n\n{artifacts}\n"
+        f"## 4. Node Register\n\n{register}\n## 5. Claim Register\n\n{claims}"
+    )
+
+
+def _reg(*ids: int, kind: str = "Person") -> str:
+    return "".join(f"**N-{n}** Node {n}\n\nNode Type: {kind}\n\n*Related: C-1*\n\n---\n\n" for n in ids)
+
+
+def test_cited_before_intro_flags_mentions_and_related(tmp_path):
+    """PR 60 re-audit P0-1: a person cited before its introduction episode is P0."""
+    base = (0, "episode_000.md", Path("b"), "baseline N-1\n")
+    for line in ("Mentions: N-5\n", "Related Nodes: N-5\n", "*Related: C-1, N-5*\n"):
+        claims = f"**C-1** Claim\n\nClaim Timestamp: 00:01:00\nClaim: x\n{line}\n---\n"
+        eps = [
+            base,
+            (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims)),
+            (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+        ]
+        report = dp.PreflightReport("t", str(tmp_path))
+        dp.check_cited_before_intro(report, eps)
+        assert [(f.severity, f.check, f.location) for f in report.findings] == [("P0", "cited_before_intro", "N-5")], line
+    # Clean controls: cited in its own episode, a baseline id, and a topic-band id.
+    claims = "**C-1** Claim\n\nClaim: x\nMentions: N-1, N-2\nRelated Nodes: N-1500\n\n---\n"
+    eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims))]
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_cited_before_intro(report, eps)
+    assert report.findings == []
+
+
+def test_tip_mint_order_accepts_band_tip_and_flags_holes(tmp_path):
+    def run(ep2_ledger: str, reg2: str) -> list[tuple[str, str, str]]:
+        eps = [
+            (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-1000, N-1001\n", _reg(1000, 1001, kind="Topic"))),
+            (2, "episode_002.md", Path("y"), _ep_draft(ep2_ledger, reg2)),
+        ]
+        intro = dp.first_introduction_meta(dp.collect_register_entries(eps))
+        report = dp.PreflightReport("t", str(tmp_path))
+        dp.check_tip_minted(report, eps, intro)
+        return [(f.severity, f.check, f.location) for f in report.findings]
+
+    assert run("  - New Nodes Introduced:\n  - Tip-minted Nodes (b): N-1005\n", _reg(1005, kind="Organization")) == []
+    # An id below the band frontier is a hole mint, not a tip mint.
+    assert run("  - New Nodes Introduced: N-1003\n  - Tip-minted Nodes (b): N-1002\n", _reg(1002, 1003, kind="Topic")) == [
+        ("P0", "tip_mint_order", "N-1002")
+    ]
+    # A tip id may not also sit on the New line.
+    assert ("P0", "tip_mint_order", "N-1005") in run(
+        "  - New Nodes Introduced: N-1005\n  - Tip-minted Nodes (b): N-1005\n", _reg(1005, kind="Topic")
+    )
+
+
+def test_dangling_claim_ref_flags_undefined_claims(tmp_path):
+    claims = "**C-1** Claim\n\nClaim: x\nRevises: C-9\n\n---\n"
+    arts = "**A-1.1** Artifact\n\n*Related: C-1, C-7, N-1*\n\n"
+    eps = [(1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-1\n", _reg(1), claims, arts))]
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_dangling_claim_refs(report, eps)
+    assert sorted((f.severity, f.check, f.location) for f in report.findings) == [
+        ("P1", "dangling_claim_ref", "C-7"),
+        ("P1", "dangling_claim_ref", "C-9"),
+    ]
+
+
+def test_artifact_related_line_counts_as_citation():
+    """A super-chat artifact whose *Related:* line names only its author node still cites that node."""
+    content = _ep_draft(
+        "  - New Nodes Introduced: N-1, N-2\n",
+        "**N-1** Handle\n\nNode Type: Person\n\n*Related: A-1.1*\n\n---\n\n**N-2** Other\n\nNode Type: Person\n\n*Related: N-1*\n\n",
+        artifacts="**A-1.1** Super chat\n\nVideo Timestamp: 00:01:00\n\n*Related: N-1*\n\n",
+    )
+    cited = dp.collect_claim_artifact_related_n_ids([(1, "episode_001.md", Path("x"), content)])
+    assert 1 in cited and 2 not in cited
+
+
+def test_hostile_ledger_check_covers_mentions_and_related():
+    import importlib.util
+
+    path = ROOT / "projects" / "monuments" / "cka" / "scripts" / "hostile_hard_gates_audit.py"
+    spec = importlib.util.spec_from_file_location("cka_hostile_audit_t", path)
+    mod = importlib.util.module_from_spec(spec)
+    sys.modules[spec.name] = mod
+    spec.loader.exec_module(mod)
+    text = "Mentions: N-1, N-7\nRelated Nodes: N-1000, N-1009\n"
+    assert mod.cited_not_on_ledger(text, {"N-1", "N-1000"}) == [("N-7", "Mentions"), ("N-1009", "Related Nodes")]
+    assert mod.cited_not_on_ledger(text, {"N-1", "N-7", "N-1000", "N-1009"}) == []
+
+
 def test_cka_has_no_wave1_people_regressions():
     """Wave 1 cleared these classes on CKA; they must stay at zero."""
     report = dp.run_preflight("cka")
@@ -461,6 +551,9 @@ def test_cka_has_no_wave1_people_regressions():
             "unknown_node",
             "name_annotation_mismatch",
             "hole_mint_order",
+            "tip_mint_order",
+            "cited_before_intro",
+            "dangling_claim_ref",
         )
     ]
     assert bad == [], bad
@@ -470,3 +563,16 @@ if __name__ == "__main__":
     test_self_test_exits_zero()
     test_bride_of_charlie_main_tip_passes()
     print("ok")
+
+
+def test_hostile_wrapper_prints_accepted_codes():
+    """PR 60 re-audit: the hostile console output must name the accepted codes, not only the counts."""
+    import subprocess
+
+    out = subprocess.run(
+        [sys.executable, str(ROOT / "projects" / "monuments" / "scripts" / "hostile_hard_gates.py"), "--monument", "cka"],
+        capture_output=True,
+        text=True,
+        cwd=ROOT,
+    ).stdout
+    assert '"accepted"' in out and "CA_DEBT_CALLOUT" in out
