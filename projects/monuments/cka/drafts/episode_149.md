@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
   - New Nodes Introduced: (none)
-  - Existing Nodes Reused: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228
+  - Existing Nodes Reused: 
 
 ## 6. Meme Register
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:14:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3548, N-1214, N-432*
+*Related: C-3548, N-432*
 
 ### A-2431 Hospital Parking Lot Eyewitness Account
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:16:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3549, N-1219, N-432*
+*Related: C-3549, N-432*
 
 ### A-2432 September 10 Security Team Footage Bundle
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-1210, N-1211, N-1212, N-1213, N-432*
+*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-432*
 
 ### A-2433 Panguitch Cowboy Smokehouse Evidence Bundle
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-1221, N-1222, N-1223, N-1227, N-432*
+*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-432*
 
 ### A-2434 YouTube Comment – Matt Callaway "Blakey" Quote
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:45:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment is uncorroborated hearsay, commenter's identity unknown)
 
-*Related: C-3564, N-1224, N-1210, N-432*
+*Related: C-3564, N-432*
 
 ### A-2435 YouTube Top Comments Read-Aloud Bundle
 
@@ -334,7 +334,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-1224, N-1233, N-1234, N-1235, N-46*
+*Related: N-1235, N-46*
 
 ---
 
@@ -375,6 +375,263 @@ Investigative Pressure: High
 
 
 ## V. Claim Register
+
+**C-3543** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
+
+Claim Timestamp: 00:01:19
+Claim: The man shown in the hat and plaid shirt on the TPUSA security detail September 10, previously identified in prior coverage as "Chester Barnes," is in fact Derek Pepper Williams.
+Anchored Artifacts: A-2426.1
+Mentions: N-432
+Investigative Direction: Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.
+
+---
+
+**C-3544** Derek Pepper Williams worked for PGL (Perimeter Global Logistics) as a government defense contractor
+
+Claim Timestamp: 00:02:11
+Claim: After retiring from the Navy (Naval Special Warfare Operations), Derek Pepper Williams went on to work for PGL (Perimeter Global Logistics), a government defense contractor that ships on behalf of the Department of Defense.
+Anchored Artifacts: A-2426.1
+Mentions: N-432
+Investigative Direction: Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).
+
+---
+
+**C-3545** Four TPUSA team members on September 10 had families in global freight/trucking/shipping
+
+Claim Timestamp: 00:02:11
+Claim: Pepper Williams is described as one of four TPUSA team members on the ground September 10 whose families were involved in the same industry, global freight, trucking, and global shipping.
+Anchored Artifacts: A-2426.1
+Mentions: N-432
+Investigative Direction: Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.
+
+---
+
+**C-3546** Frank Turek claims he performed CPR for ~20–30 seconds in the last portion of the hospital ride
+
+Claim Timestamp: 00:11:50
+Claim: Frank Turek stated that, although most of the ride involved only bleeding control, in the last ~30 seconds of the ride as the SUV was pulling into the hospital parking lot, he attempted seated CPR for 20–30 seconds.
+Anchored Artifacts: A-2429.1
+Mentions: N-16
+Investigative Direction: Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio.
+
+---
+
+**C-3547** Brian Harpole stated in Paramount interview that no CPR was performed during the hospital ride
+
+Claim Timestamp: 00:10:07
+Claim: In a Paramount interview, Brian Harpole explicitly stated that no CPR was conducted during the ride because bleeding control was the priority and the hospital was close.
+Anchored Artifacts: A-2428.1
+Mentions: N-424
+Investigative Direction: Compare the Paramount statement with the Shawn Ryan "car crash" interview; obtain transcripts and verify continuity.
+
+---
+
+**C-3548** Frank Turek states in FaceTime with Jack Hibbs that he had blood on him at the hospital
+
+Claim Timestamp: 00:14:55
+Claim: During a FaceTime call with Pastor Jack Hibbs after arriving at the hospital, Frank Turek references "blood on me" in a manner the host characterizes as leading the conversation.
+Anchored Artifacts: A-2430.1
+Mentions: N-16, N-309
+Related Nodes:
+Investigative Direction: Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange.
+
+---
+
+**C-3549** Hospital parking lot eyewitness describes a man exiting the rear hatch of the SUV
+
+Claim Timestamp: 00:16:39
+Claim: A witness who posted his account in September 2025 describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front.
+Anchored Artifacts: A-2431.1
+Mentions:
+Related Nodes:
+Investigative Direction: Locate the original witness video/post; cross-reference with the September 10 security footage of the SUV's hospital arrival.
+
+---
+
+**C-3550** Blake Hariff's shirt was visibly free of blood after the SUV departed the scene
+
+Claim Timestamp: 00:20:42
+Claim: Footage shows Blake Hariff running after the SUV departed with no visible blood on his shirt.
+Anchored Artifacts: A-2432.2
+Mentions:
+Investigative Direction: Obtain higher-resolution frame stills; cross-check with independent footage sources.
+
+---
+
+**C-3551** Blake Hariff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV
+
+Claim Timestamp: 00:18:51
+Claim: Blake Hariff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.
+Anchored Artifacts: A-2432.1, A-2432.2
+Mentions:
+Related Nodes:
+Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
+
+---
+
+**C-3552** Blake Hariff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM
+
+Claim Timestamp: 00:20:42
+Claim: Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Hariff wearing a Timpanogos surgical scrub top.
+Anchored Artifacts: A-2432.3
+Mentions:
+Related Nodes:
+Investigative Direction: Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.
+
+---
+
+**C-3553** Rick Cutler was wearing head-to-toe surgical scrubs at the UVU return
+
+Claim Timestamp: 00:20:42
+Claim: Footage shows Rick Cutler (in white hat) wearing head-to-toe surgical scrubs at the UVU return.
+Anchored Artifacts: A-2432.3
+Mentions:
+Related Nodes:
+Investigative Direction: Identify scrubs source; obtain hospital records/logs.
+
+---
+
+**C-3554** Justin Davis was wearing surgical scrubs at the UVU return
+
+Claim Timestamp: 00:20:42
+Claim: Footage shows Justin Davis wearing surgical scrubs at the UVU return.
+Anchored Artifacts: A-2432.3
+Mentions:
+Related Nodes:
+Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
+
+---
+
+**C-3555** Dan Flood was wearing surgical scrubs at the UVU return
+
+Claim Timestamp: 00:20:42
+Claim: Footage shows Dan Flood wearing surgical scrubs at the UVU return (consistent with his having carried Charlie).
+Anchored Artifacts: A-2432.3
+Mentions: N-434
+Related Nodes:
+Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
+
+---
+
+**C-3556** Brian Harpole is seen holding a jacket and a brown bag at the UVU return
+
+Claim Timestamp: 00:25:02
+Claim: Footage shows Brian Harpole holding what appears to be a jacket (possibly Charlie's) along with a brown bag, consistent with the other team members carrying brown bags holding their clothes.
+Anchored Artifacts: A-2432.3
+Mentions: N-424
+Investigative Direction: Higher-resolution frame analysis; cross-reference with clothing inventories.
+
+---
+
+**C-3557** The Panguitch Cowboy Smokehouse receipt has been verified as real
+
+Claim Timestamp: 00:33:02
+Claim: The Cowboy Smokehouse receipt has been verified and is presented by the host as a real document.
+Anchored Artifacts: A-2433.1, A-2433.4
+Mentions:
+Related Nodes:
+Investigative Direction: Obtain the original receipt, forensic authentication (printing analysis, timestamp verification), and confirmation from the restaurant's point-of-sale system.
+
+---
+
+**C-3558** Receipt timestamp indicates the card could not have been swiped before ~9:47 PM
+
+Claim Timestamp: 00:33:40
+Claim: Per the host's account, the receipt timestamp indicates the card was not swiped until approximately 9:47 PM at the earliest.
+Anchored Artifacts: A-2433.1
+Mentions:
+Related Nodes:
+Investigative Direction: Obtain the precise timestamp from the receipt/POS system; verify against Tyler Robinson's movements.
+
+---
+
+**C-3559** The receipt timeline contradicts Tyler Robinson's text messages placing him at UVU ~9:00 PM
+
+Claim Timestamp: 00:35:39
+Claim: If the Cowboy Smokehouse receipt is genuine, Tyler Robinson could not have been at UVU ~9:00 PM (when he texted Lance about K-9s), because Panguitch is a 3-hour drive from UVU.
+Anchored Artifacts: A-2433.1, A-2433.2, A-2433.3
+Mentions: N-69
+Related Nodes:
+Investigative Direction: Verify the 3-hour drive time with mapping data; reconcile the text messages' origin with cell tower records.
+
+---
+
+**C-3560** Host reports 95% certainty the debit card belonged to Tyler Robinson
+
+Claim Timestamp: 00:39:48
+Claim: The host elevates her personal certainty from ~60% to 95% that the debit card swiped at Cowboy Smokehouse on September 10 was Tyler Robinson's.
+Anchored Artifacts: A-2433.1, A-2433.4
+Mentions: N-69
+Related Nodes:
+Investigative Direction: Identify the underlying source(s) raising the host's confidence; obtain evidence admissible in court.
+
+---
+
+**C-3561** If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM
+
+Claim Timestamp: 00:37:12
+Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM, which would make multiple subsequent events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
+Anchored Artifacts: A-2433.1
+Mentions: N-69
+Related Nodes:
+Investigative Direction: Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.
+
+---
+
+**C-3562** The Cowboy Smokehouse has received harassment (bad reviews) since July
+
+Claim Timestamp: 00:33:40
+Claim: The host states the restaurant has been "severely harassed" with bad reviews since July, characterizing the activity as "completely psychotic."
+Anchored Artifacts: A-2433.1
+Mentions:
+Related Nodes:
+Investigative Direction: Document the review pattern (volume, timing, account origins); consult the restaurant's records.
+
+---
+
+**C-3563** The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect
+
+Claim Timestamp: 00:33:40
+Claim: Per the host's account, the server contacted the owner after believing he had served the suspect; the owner then contacted the FBI.
+Anchored Artifacts: A-2433.1
+Mentions:
+Related Nodes:
+Investigative Direction: Confirm with FBI 302 forms or other official records; interview both owner and server directly.
+
+---
+
+**C-3564** YouTube commenter attributes hospital-lobby quote to "Blakey"
+
+Claim Timestamp: 00:45:10
+Claim: A YouTube top comment by user "Matt Callaway" attributes to "Blakey" the statement "Candace is going to figure this out," reportedly said in the hospital lobby on September 10.
+Anchored Artifacts: A-2434.1
+Mentions:
+Related Nodes:
+Investigative Direction: Identify who "Blakey" refers to; obtain original recording or corroborating testimony; flag the comment as uncorroborated hearsay.
+
+---
+
+**C-3565** The New York Post covered the Cowboy Smokehouse story
+
+Claim Timestamp: 00:32:09
+Claim: The New York Post published an article titled along the lines of "Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered."
+Anchored Artifacts: A-2433.2
+Mentions: N-69, N-1
+Related Nodes: N-2389
+Investigative Direction: Retrieve the original article from the New York Post archive; verify URL and publication date.
+
+---
+
+**C-3566** Fox News covered the Cowboy Smokehouse story
+
+Claim Timestamp: 00:32:09
+Claim: Fox News published a piece characterizing the alleged Cowboy Smokehouse meal as "one of Tyler Robinson's last meals as a free man…a steak dinner, medium rare."
+Anchored Artifacts: A-2433.3
+Mentions: N-69
+Related Nodes: N-1071
+Investigative Direction: Retrieve the original article from Fox News archives; verify URL and publication date.
+
+---
 
 **C-3670** Host identifies show community as Decentralized Intelligence Agency
 

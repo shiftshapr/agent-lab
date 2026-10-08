@@ -33,12 +33,6 @@
             "C-2681"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1209",
-            "N-1210",
-            "N-1216",
-            "N-1218",
             "N-3",
             "N-1662"
           ],
@@ -94,10 +88,6 @@
             "C-2672"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1209",
-            "N-1214",
-            "N-1217",
             "N-1667"
           ],
           "tags": [],
@@ -123,10 +113,7 @@
           "related_claims": [
             "C-2673"
           ],
-          "related_nodes": [
-            "N-1208",
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -151,9 +138,6 @@
             "C-2674"
           ],
           "related_nodes": [
-            "N-1211",
-            "N-1207",
-            "N-1208",
             "N-1665"
           ],
           "tags": [],
@@ -181,10 +165,6 @@
             "C-2676"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1212",
-            "N-1213",
-            "N-1",
             "N-1663",
             "N-1664"
           ],
@@ -268,8 +248,6 @@
             "C-2677"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1215",
             "N-1663"
           ],
           "tags": [],
@@ -283,272 +261,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Principal subject of the episode's evidentiary material; author of A-1939.1.",
-      "related_artifacts": [
-        "A-1939.1",
-        "A-1940.1",
-        "A-1943.1",
-        "A-1944.1",
-        "A-1947.1"
-      ],
-      "related_claims": [
-        "C-2669",
-        "C-2670",
-        "C-2671",
-        "C-2674",
-        "C-2676",
-        "C-2677",
-        "C-2678",
-        "C-2680",
-        "C-2681"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 9,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Named target of A-1939.1; author of A-1942.1.",
-      "related_artifacts": [
-        "A-1939.1",
-        "A-1942.1",
-        "A-1943.1"
-      ],
-      "related_claims": [
-        "C-2669",
-        "C-2673",
-        "C-2674"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Named target of A-1939.1; speaker in A-1940.1 and A-1941.1.",
-      "related_artifacts": [
-        "A-1939.1",
-        "A-1940.1",
-        "A-1941.1"
-      ],
-      "related_claims": [
-        "C-2669",
-        "C-2671",
-        "C-2672"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Named target of A-1939.1; subject of Trump's reference to Sandy Hook litigation.",
-      "related_artifacts": [
-        "A-1939.1"
-      ],
-      "related_claims": [
-        "C-2669"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Self-identified instigator of A-1939.1; speaker in A-1943.1.",
-      "related_artifacts": [
-        "A-1943.1"
-      ],
-      "related_claims": [
-        "C-2674"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1665"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Alleged donor and meeting participant per A-1944.1; named in connection with $100 million contribution.",
-      "related_artifacts": [
-        "A-1944.1"
-      ],
-      "related_claims": [
-        "C-2675",
-        "C-2676"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1664"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Alleged corroborating witness to the meeting described in A-1944.1.",
-      "related_artifacts": [
-        "A-1944.1"
-      ],
-      "related_claims": [
-        "C-2675"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1664"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Named in A-1941.1 and A-1942.1; described as participant in situation-room meeting and as subject of blackmail allegations.",
-      "related_artifacts": [
-        "A-1941.1",
-        "A-1942.1"
-      ],
-      "related_claims": [
-        "C-2672",
-        "C-2673"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Speaker in A-1947.1; made statements about Butler investigation closure.",
-      "related_artifacts": [
-        "A-1947.1"
-      ],
-      "related_claims": [
-        "C-2677"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1663"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Subject of comparison in A-1939.1.",
-      "related_artifacts": [
-        "A-1939.1"
-      ],
-      "related_claims": [
-        "C-2681"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Host of interview in A-1941.1.",
-      "related_artifacts": [
-        "A-1941.1"
-      ],
-      "related_claims": [
-        "C-2672"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Spouse of N-1216; referenced in A-1939.1 context.",
-      "related_artifacts": [
-        "A-1939.1"
-      ],
-      "related_claims": [
-        "C-2681"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1216"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1662",
@@ -610,11 +322,7 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1212",
-        "N-1213"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -633,10 +341,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1211"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -708,6 +413,198 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-62",
+      "ref": "N-62",
+      "name": "Donald Trump Jr. (Don Jr.)",
+      "type": "person",
+      "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-117",
+      "ref": "N-117",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Comments return to France/Brigitte as origin-of-ties theme.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-128",
+      "ref": "N-128",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-298",
+      "ref": "N-298",
+      "name": "Piers Morgan",
+      "type": "person",
+      "description": "Interviewer in the Megyn Kelly clip artifact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-440",
+      "ref": "N-440",
+      "name": "Jonathan Pollard",
+      "type": "person",
+      "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-472",
+      "ref": "N-472",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Host \"Miriam Medson\" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -721,14 +618,16 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1662"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:12:28",
       "investigative_direction": "Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-50",
+        "N-75",
+        "N-128"
       ]
     },
     {
@@ -759,7 +658,8 @@
       "claim_timestamp": "00:23:45–00:24:40",
       "investigative_direction": "Identify and verify the source clips used in the CNN compilation and their original air dates.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-75"
       ]
     },
     {
@@ -772,13 +672,16 @@
         "A-1941.1"
       ],
       "related_nodes": [
-        "N-1214",
-        "N-1217",
         "N-1667"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38–00:26:31",
-      "investigative_direction": "Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available."
+      "investigative_direction": "Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.",
+      "mentions_person_refs": [
+        "N-65",
+        "N-298",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -789,12 +692,14 @@
       "anchored_artifacts": [
         "A-1942.1"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:31–00:28:46",
-      "investigative_direction": "Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently."
+      "investigative_direction": "Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.",
+      "mentions_person_refs": [
+        "N-440",
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -806,12 +711,15 @@
         "A-1943.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1665"
       ],
       "tags": [],
       "claim_timestamp": "00:33:58–00:35:23",
-      "investigative_direction": "Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim."
+      "investigative_direction": "Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -823,15 +731,16 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-1212",
-        "N-1213",
         "N-1664"
       ],
       "tags": [],
       "claim_timestamp": "00:29:16–00:31:16",
       "investigative_direction": "Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.",
       "mentions_person_refs": [
-        "N-1"
+        "N-472",
+        "N-3",
+        "N-1",
+        "N-42"
       ]
     },
     {
@@ -844,7 +753,6 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1663",
         "N-1664"
       ],
@@ -852,7 +760,9 @@
       "claim_timestamp": "00:30:06–00:31:16",
       "investigative_direction": "Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.",
       "mentions_person_refs": [
-        "N-1"
+        "N-3",
+        "N-1",
+        "N-5"
       ]
     },
     {
@@ -865,12 +775,14 @@
         "A-1947.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1663"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16–00:32:11",
-      "investigative_direction": "Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic."
+      "investigative_direction": "Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.",
+      "mentions_person_refs": [
+        "N-62"
+      ]
     },
     {
       "@type": "Claim",
@@ -905,6 +817,7 @@
       "claim_timestamp": "00:20:14–00:21:03",
       "investigative_direction": "Locate the originating posts and timestamps; assess spread velocity and authorship clustering.",
       "mentions_person_refs": [
+        "N-3",
         "N-1"
       ]
     },
@@ -933,15 +846,13 @@
       "anchored_artifacts": [
         "A-1939.1"
       ],
-      "related_nodes": [
-        "N-1216",
-        "N-1218"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:01–00:09:34",
       "investigative_direction": "Verify exact wording against the archived post.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-117"
       ]
     }
   ],

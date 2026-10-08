@@ -341,7 +341,7 @@ Claim Timestamp: 00:03:52
 Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
 
 Anchored Artifacts: A-1552.1
-Mentions: N-281, N-590
+Mentions: N-281, N-590, N-1
 
 Related Nodes: N-1429
 
@@ -461,6 +461,7 @@ Claim Timestamp: 00:30:33
 Claim: Candace Owens states that she is in possession of six photographs depicting the interior of the vehicle used to transport Charlie Kirk to Timpanogos Regional Hospital, and that the team considered displaying one on the broadcast.
 
 Anchored Artifacts: A-1556.1
+Mentions: N-3, N-1
 
 Related Nodes: N-1433
 

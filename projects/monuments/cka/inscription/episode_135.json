@@ -83,7 +83,6 @@
             "C-3177"
           ],
           "related_nodes": [
-            "N-1210",
             "N-1"
           ],
           "tags": [],
@@ -225,172 +224,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Deputy Chief Medical Examiner of Utah per host assertion; identified as having signed off on Charlie Kirk's autopsy; moved from New York to Utah in 2018; promoted to deputy chief in 2024 under Dr. Deidra Amaro; reportedly now departed for New York chief medical examiner position; husband of Dr. Ashley Brown Guajardo.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208",
-        "N-1209",
-        "N-2166"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Sociologist; author of \"Play Like a Fangirl\" (Penguin Random House); PhD from University of Manchester; faculty at University of Utah (~10 years), now assistant arts professor at NYU; hosts weekly Twitch stream on games user research; president of Digital Games Research Association; vice president of Global Game Jam; co-director of IGDA games user research SIG; per host, identifies with and encourages engagement in furry/gamer culture; wife of Dr. Andrew Guajardo.",
-      "related_artifacts": [
-        "A-2217.1",
-        "A-2218.1"
-      ],
-      "related_claims": [
-        "C-3175",
-        "C-3176",
-        "C-3184"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1214",
-        "N-69"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Chief Medical Examiner of Utah; per host, promoted Dr. Andrew Guajardo to deputy chief in 2024; per host, has since left the position.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-2166"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Security team member; testified at preliminary hearing about the ER scene including cutting Charlie's shirt and discussing drugs with staff.",
-      "related_artifacts": [
-        "A-2219.1"
-      ],
-      "related_claims": [
-        "C-3177"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2165"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Security team member; per host, received scrubs from Mikey McCoy and claims he did CPR; subject of cross-claim dispute with Brian Harpole's account.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-1212",
-        "N-2165"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Per host, provided scrubs to Frank Turek after the security team's clothing became unusable.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1211",
-        "N-2165"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Security team member; per Brian Harpole's account, holding Charlie during the car ride.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-2165"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Boyfriend of alleged shooter Tyler Robinson; per host, indicated in interview that Tyler was into gaming not politics; per host, uses \"Luna\" as an avatar rather than as trans identity.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208",
-        "N-69",
-        "N-2167"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2164",
       "ref": "N-2164",
       "name": "Timpanogos Hospital Evacuation Tip",
@@ -426,13 +259,7 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1210",
-        "N-1211",
-        "N-1212",
-        "N-1213"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -527,11 +354,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
-      "name": "Tyler Robinson",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
       "type": "person",
-      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -580,14 +407,13 @@
       "anchored_artifacts": [
         "A-2219.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:46",
       "investigative_direction": "Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-424"
       ]
     },
     {
@@ -838,8 +664,6 @@
       "claim": "Per host's assertion (based on an unnamed tip), the FBI took security team members' clothing down to their boxer briefs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1210",
-        "N-1211",
         "N-2165"
       ],
       "tags": [],

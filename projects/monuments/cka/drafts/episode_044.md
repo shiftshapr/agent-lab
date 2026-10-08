@@ -486,7 +486,7 @@ Claim Timestamp: 00:20:14–00:22:18
 Claim: Harry states he identified Brian Harpole as one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and only identified him after Charlie Kirk's assassination made him publicly visible.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-424, N-516
+Mentions: N-424, N-516, N-1
 
 Related Nodes: N-1400
 
@@ -589,7 +589,7 @@ Claim Timestamp: 00:42:41–00:44:11
 Claim: In an audio clip played on the show, Tim Pool calls Candace Owens an "evil scumbag" and a "degenerate," asserts she has no security, and dismisses her concerns about threats against her.
 
 Anchored Artifacts: A-1524.1
-Mentions: N-426
+Mentions: N-426, N-3
 
 
 Investigative Direction: Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.
@@ -603,13 +603,25 @@ Claim Timestamp: 00:43:32–00:44:11
 Claim: In the audio clip, Tim Pool states that he visited Candace Owens' home, observed a 4-foot wall and one "fat guy" for security, and asserts that no one is "out for her."
 
 Anchored Artifacts: A-1524.1
-Mentions: N-426
+Mentions: N-426, N-3
 
 
 Investigative Direction: Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.
 
 ---
 
+
+**C-1896** Tim Pool says bullets were fired at his property and strangers broke into his Maryland house
+
+Claim Timestamp: 00:43:32–00:44:11
+Claim: In the same audio clip, Tim Pool contrasts his own situation with Candace Owens', saying bullets were fired at his property, that he had to go live in the middle of nowhere, and that strangers broke into his house in Maryland.
+Transcript Snippet: Meanwhile, I get bullets fired at my property and I have to go live in the middle of nowhere and I got strangers coming up to my house in in in Maryland breaking in.
+Anchored Artifacts: A-1524.1
+Mentions: N-426, N-3
+Confidence: medium
+Investigative Direction: Check police reports or public statements for the shooting and break-in incidents Tim Pool describes at his Maryland property.
+
+---
 
 **C-3653** Host urges viewers to become DCIA units in their own communities
 

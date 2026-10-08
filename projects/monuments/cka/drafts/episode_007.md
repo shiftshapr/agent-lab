@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
   - New Nodes Introduced: N-128, N-129, N-130, N-132, N-133, N-134, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156, N-1157
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1079
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1079, N-16
 
 ## 2. Executive Summary
 
@@ -35,9 +35,9 @@ Transcript Snippet: One moment Charlie was doing what he loved...he blinked and 
 Confidence: high
 
 **A-1134.2** Erika Kirk forgiveness speech referenced
-Video Timestamp: 00:00:37–00:00:57
+Video Timestamp: 00:02:05–00:02:25
 *Related: C-1228, N-2*
-Transcript Snippet: She arrived at forgiveness in front of the entire world.
+Transcript Snippet: But she arrived at forgiveness and she did it in front of the entire world.
 
 ---
 
@@ -45,7 +45,7 @@ Transcript Snippet: She arrived at forgiveness in front of the entire world.
 
 **A-1135.1** Kolvet tweet re lack of exit wound called a miracle
 Event Timestamp: 2025-09-13
-Video Timestamp: 00:09:45–00:11:40
+Video Timestamp: 00:08:41–00:10:36
 *Related: C-1229, C-1230, N-42, N-1000*
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Confidence: high
@@ -55,7 +55,7 @@ Confidence: high
 **A-1136** Alex Jones X Live Response Bundle
 
 **A-1136.1** Alex Jones X Live clip disputing miracle claim
-Video Timestamp: 00:14:32–00:15:45
+Video Timestamp: 00:13:01–00:14:14
 *Related: C-1231, N-128*
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Confidence: high
@@ -65,7 +65,7 @@ Confidence: high
 **A-1137** Kash Patel FBI Statement Bundle
 
 **A-1137.1** Kash Patel tweet: FBI commitment to thorough investigation
-Video Timestamp: 00:17:14–00:19:21
+Video Timestamp: 00:15:24–00:17:31
 *Related: C-1232, C-1233, N-102, N-1079*
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Confidence: high
@@ -75,9 +75,9 @@ Confidence: high
 **A-1138** Derek Maxfield Plane Statement Bundle
 
 **A-1138.1** Derek Maxfield Instagram statement: ATC granted transponder shutdown permission
-Video Timestamp: 00:19:31–00:20:07
+Video Timestamp: 00:17:12–00:17:48
 *Related: C-1233, N-129, N-1079, N-1150*
-Transcript Snippet: We got permission to turn off services which are transponder services from ATC.
+Transcript Snippet: they got permission to you know turn off services which are transponder services um and they got that permission from the air traffic controller.
 Confidence: medium
 
 ---
@@ -85,18 +85,18 @@ Confidence: medium
 **A-1139** UVU Location Evidence Bundle
 
 **A-1139.1** Photo showing pipeline behind Charlie's seat
-Video Timestamp: 00:23:34–00:23:48
+Video Timestamp: 00:20:46–00:21:00
 *Related: C-1234, N-1077, N-1151*
-Transcript Snippet: There was a massive pipeline almost exactly behind where Charlie was sitting.
+Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Confidence: medium
 
 **A-1139.2** Close-up of trap-door boxes at location
-Video Timestamp: 00:24:05–00:24:19
+Video Timestamp: 00:21:13–00:21:27
 *Related: C-1234, N-1077, N-1151*
-Transcript Snippet: Two little boxes...they told me that was a trap door.
+Transcript Snippet: You're observing those two little boxes, and they told me that that was a a trap door.
 
 **A-1139.3** Footage of area being repaved shortly after shooting
-Video Timestamp: 00:26:05–00:26:19
+Video Timestamp: 00:23:03–00:23:17
 *Related: C-1235, N-1077*
 Transcript Snippet: They decided to instead pave that area, repave it.
 
@@ -105,7 +105,7 @@ Transcript Snippet: They decided to instead pave that area, repave it.
 **A-1140** Laura Loomer CIA Complaint Bundle
 
 **A-1140.1** Laura Loomer tweet reporting Candace to CIA over CIA-themed merch
-Video Timestamp: 00:31:11–00:32:36
+Video Timestamp: 00:27:15–00:28:40
 *Related: C-1236, N-91, N-1148*
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Confidence: high
@@ -115,13 +115,13 @@ Confidence: high
 **A-1141** Leaked Text Message Bundle
 
 **A-1141.1** Awesome Jew tweet releasing exclusive text messages
-Video Timestamp: 00:34:44–00:36:03
+Video Timestamp: 00:30:06–00:31:25
 *Related: C-1237, N-132, N-1*
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Confidence: high
 
 **A-1141.2** Text messages between Charlie Kirk and friend re Candace statements
-Video Timestamp: 00:35:38–00:36:20
+Video Timestamp: 00:30:41–00:31:23
 *Related: C-1237, C-1238, N-1, N-3*
 Transcript Snippet: Candace needs to say two things...Israel is not committing a genocide.
 
@@ -130,12 +130,12 @@ Transcript Snippet: Candace needs to say two things...Israel is not committing a
 **A-1142** Candace Owens Genocide Tweet Bundle
 
 **A-1142.1** Candace Owens tweet: genocide is always wrong
-Video Timestamp: 00:37:14–00:37:31
+Video Timestamp: 00:31:50–00:32:07
 *Related: C-1239, N-3*
 Transcript Snippet: No government anywhere has a right to commit a genocide ever.
 
 **A-1142.2** Dave Rubin reply to Candace genocide tweet
-Video Timestamp: 00:38:04
+Video Timestamp: 00:32:22
 *Related: C-1239, N-61*
 Transcript Snippet: Dave Rubin instantly replied and said something about Israel.
 
@@ -144,12 +144,12 @@ Transcript Snippet: Dave Rubin instantly replied and said something about Israel
 **A-1143** Charlie Kirk Town Hall Bundle
 
 **A-1143.1** Charlie Kirk town hall clip discussing antisemitism with Jen Z
-Video Timestamp: 00:41:49–00:45:20
+Video Timestamp: 00:37:37–00:41:08
 *Related: C-1240, N-1*
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 
 **A-1143.2** Charlie Kirk town hall clip discussing AIPAC
-Video Timestamp: 00:45:47–00:49:21
+Video Timestamp: 00:39:25–00:42:59
 *Related: C-1241, N-1149*
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 
@@ -158,7 +158,7 @@ Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 **A-1144** Tucker Carlson Memorial Speech Bundle
 
 **A-1144.1** Tucker Carlson clip on Charlie's gospel message and repentance
-Video Timestamp: 00:52:47–00:54:11
+Video Timestamp: 00:44:13–00:45:37
 *Related: C-1242, N-50*
 Transcript Snippet: Christianity calls upon you to change. Our core prayer...forgive us our sins.
 
@@ -167,12 +167,12 @@ Transcript Snippet: Christianity calls upon you to change. Our core prayer...for
 **A-1145** Viewer Comments Bundle
 
 **A-1145.1** Comment re screwdriver reportedly found on roof
-Video Timestamp: 01:07:06–01:07:37
+Video Timestamp: 00:54:26–00:54:57
 *Related: C-1243, N-69*
 Transcript Snippet: They said they found it on the roof, even though you don't use a screwdriver to take that rifle apart.
 
 **A-1145.2** Comment expressing suspicion re Dr. Frank Turk
-Video Timestamp: 01:07:52–01:08:49
+Video Timestamp: 00:54:58–00:55:55
 *Related: C-1244, N-16*
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 
@@ -505,7 +505,7 @@ Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guil
 
 **C-1228** Erika Kirk publicly forgave Charlie's killer at memorial
 
-Claim Timestamp: 00:00:37
+Claim Timestamp: 00:02:05
 Claim: Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, framing it as a Christian act of submission.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
@@ -516,7 +516,7 @@ Investigative Direction: Verify the full text/transcript of Erika's speech again
 
 **C-1229** Kolvet stated lack of exit wound was a miracle
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:08:41
 Claim: TPUSA spokesperson Andrew Kolvet publicly stated the absence of an exit wound was likely a miracle after speaking with the surgeon.
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Anchored Artifacts: A-1135.1
@@ -528,7 +528,7 @@ Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; 
 
 **C-1230** Surgeon said bullet should have gone through
 
-Claim Timestamp: 00:10:25
+Claim Timestamp: 00:08:48
 Claim: The hospital surgeon told Kolvet the bullet should have passed through Charlie's neck given its caliber and velocity.
 Transcript Snippet: He said the bullet quote absolutely should have gone through.
 Anchored Artifacts: A-1135.1
@@ -540,7 +540,7 @@ Investigative Direction: Identify the surgeon and request confirmation; review a
 
 **C-1231** Alex Jones disputed the miracle claim publicly
 
-Claim Timestamp: 00:14:32
+Claim Timestamp: 00:13:01
 Claim: Alex Jones publicly disputed the miracle/exit-wound statement on X Live, citing typical 30-06 ballistics.
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Anchored Artifacts: A-1136.1
@@ -552,11 +552,11 @@ Investigative Direction: Archive the original X Live broadcast.
 
 **C-1232** Kash Patel committed FBI to exhaustive investigation
 
-Claim Timestamp: 00:17:14
+Claim Timestamp: 00:15:24
 Claim: FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including alleged accomplices.
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Anchored Artifacts: A-1137.1
-Mentions: N-102
+Mentions: N-102, N-1
 Related Nodes: N-1079
 Investigative Direction: Retrieve the original Patel tweet and archive; cross-reference FBI press releases.
 
@@ -565,7 +565,7 @@ Tags: open_source_investigation
 
 **C-1233** FBI and plane owner contradict each other on transponder
 
-Claim Timestamp: 00:18:55
+Claim Timestamp: 00:17:35
 Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost signal; plane owner Derek Maxfield states ATC permission was granted to disable services.
 Transcript Snippet: It can't be both. Can't be.
 Anchored Artifacts: A-1137.1, A-1138.1
@@ -579,10 +579,11 @@ Investigative Direction: Obtain FAA radar logs and ATC recordings for the releva
 
 **C-1234** Pipeline and access points exist beneath Charlie's seat
 
-Claim Timestamp: 00:23:34
+Claim Timestamp: 00:20:46
 Claim: Photos from the shooting location show a large pipeline and trap-door boxes directly behind/beneath where Charlie Kirk was seated.
-Transcript Snippet: There was a massive pipeline almost exactly behind where Charlie was sitting.
+Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Anchored Artifacts: A-1139.1, A-1139.2
+Mentions: N-1
 Related Nodes: N-1077, N-1153
 Investigative Direction: Obtain UVU facilities maps, irrigation system records, and underground utility diagrams.
 
@@ -590,10 +591,11 @@ Investigative Direction: Obtain UVU facilities maps, irrigation system records, 
 
 **C-1235** UVU repaved the area within ~48 hours of the shooting
 
-Claim Timestamp: 00:26:05
+Claim Timestamp: 00:23:03
 Claim: UVU repaved the area where Charlie Kirk was shot within approximately 48 hours of the incident.
 Transcript Snippet: They decided to instead pave that area, repave it.
 Anchored Artifacts: A-1139.3
+Mentions: N-1
 Related Nodes: N-1077
 Investigative Direction: Obtain UVU maintenance logs and contractor records for the repaving.
 
@@ -601,7 +603,7 @@ Investigative Direction: Obtain UVU maintenance logs and contractor records for 
 
 **C-1236** Laura Loomer reported Candace to CIA over CIA-themed merch
 
-Claim Timestamp: 00:31:11
+Claim Timestamp: 00:27:15
 Claim: Laura Loomer publicly reported Candace Owens to the CIA via X, alleging the Candace Intelligence Agency merch violated federal law.
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Anchored Artifacts: A-1140.1
@@ -613,7 +615,7 @@ Investigative Direction: Archive the original Loomer tweet; check whether any fo
 
 **C-1237** Awesome Jew released 2023 Charlie Kirk text messages
 
-Claim Timestamp: 00:34:44
+Claim Timestamp: 00:30:06
 Claim: An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Anchored Artifacts: A-1141.1, A-1141.2
@@ -626,11 +628,11 @@ Tags: open_source_investigation
 
 **C-1238** Released text messages were from 2023, not recent
 
-Claim Timestamp: 00:36:37
+Claim Timestamp: 00:31:08
 Claim: Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.
 Transcript Snippet: It's from 2023. He then writes 'It doesn't come natural to her...'
 Anchored Artifacts: A-1141.1, A-1141.2
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-95
 Related Nodes: N-1155
 Investigative Direction: Cross-reference the content with public 2023 events; obtain metadata from screenshots.
 
@@ -639,7 +641,7 @@ Tags: open_source_investigation
 
 **C-1239** Candace faced coordinated pressure to retract genocide tweet
 
-Claim Timestamp: 00:37:31
+Claim Timestamp: 00:32:32
 Claim: After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.
 Transcript Snippet: I was being inundated. Charlie was being inundated.
 Anchored Artifacts: A-1142.1, A-1142.2
@@ -650,11 +652,11 @@ Investigative Direction: Archive original tweet and Rubin reply; identify any co
 
 **C-1240** Charlie Kirk said calling all critics antisemitic was destructive
 
-Claim Timestamp: 00:45:14
+Claim Timestamp: 00:37:37
 Claim: Charlie Kirk publicly stated that labeling everyone who didn't take a puritanical view of Netanyahu an antisemite was destructive.
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
-Mentions: N-65
+Mentions: N-65, N-1
 Related Nodes: N-1149
 Investigative Direction: Verify the full town hall recording.
 
@@ -662,10 +664,11 @@ Investigative Direction: Verify the full town hall recording.
 
 **C-1241** Charlie Kirk criticized AIPAC and foreign lobbying
 
-Claim Timestamp: 00:45:47
+Claim Timestamp: 00:39:25
 Claim: Charlie Kirk publicly criticized AIPAC as a group prioritizing foreign interests over American citizens and referenced the JFK precedent.
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.
 Anchored Artifacts: A-1143.2
+Mentions: N-1
 Related Nodes: N-1149
 Investigative Direction: Verify the full town hall recording and Charlie's subsequent statements on the topic.
 
@@ -673,7 +676,7 @@ Investigative Direction: Verify the full town hall recording and Charlie's subse
 
 **C-1242** Tucker Carlson framed Charlie's mission as gospel repentance
 
-Claim Timestamp: 00:52:47
+Claim Timestamp: 00:44:13
 Claim: Tucker Carlson publicly stated at the memorial that Charlie Kirk's core mission was gospel repentance, not politics.
 Transcript Snippet: Christianity calls upon you to change. Our core prayer...forgive us our sins.
 Anchored Artifacts: A-1144.1
@@ -684,11 +687,11 @@ Investigative Direction: Obtain the full Carlson memorial speech transcript.
 
 **C-1243** Screwdriver on roof reportedly doesn't fit the rifle
 
-Claim Timestamp: 01:07:06
+Claim Timestamp: 00:54:31
 Claim: A viewer reports that authorities claimed a screwdriver was found on the roof, but that tool is not used to disassemble that model of rifle.
 Transcript Snippet: You don't use a screwdriver to take that rifle apart.
 Anchored Artifacts: A-1145.1
-Mentions: N-69
+Mentions:
 Related Nodes: N-1156
 Investigative Direction: Identify the rifle model and required disassembly tools; locate official inventory of recovered items.
 
@@ -696,7 +699,7 @@ Investigative Direction: Identify the rifle model and required disassembly tools
 
 **C-1244** Dr. Frank Turk raised viewer suspicion after memorial speech
 
-Claim Timestamp: 01:07:52
+Claim Timestamp: 00:54:58
 Claim: A viewer reports persistent unease about Dr. Frank Turk following his memorial speech, citing possible guilt over inaction.
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 Anchored Artifacts: A-1145.2
@@ -712,8 +715,8 @@ Claim Timestamp: 00:27:08
 Claim: The host reads on air a Laura Loomer tweet asserting that the CIA-branded "Candace Intelligence Agency" merch line rips off the CIA name and logo, that using the CIA seal without license is a federal felony, and that the CIA can sue; the host calls Loomer "our resident psycho," frames the tweet as part of non-stop attacks, and replies that the merch predates Charlie Kirk's assassination and is a legal parody of the CIA.
 Transcript Snippet: ...ling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without l...
 Anchored Artifacts: A-2484.1
-Mentions: N-3, N-91
-Related Nodes: 
+Mentions: N-3, N-91, N-1
+Related Nodes:
 Confidence: high
 Investigative Direction: Archive the original Loomer tweet (text, date, CIA director tag) and any CIA response; keep the stance as Loomer accusation read on air, not a host merch plug.
 
@@ -749,16 +752,16 @@ Investigative Direction: Verify Posobiec's naval intelligence service record and
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:37
+Video Timestamp: 00:02:05
 Speaker: N-3
-Quote: She arrived at forgiveness in front of the entire world.
+Quote: But she arrived at forgiveness and she did it in front of the entire world.
 Context: Host praising Erika Kirk's forgiveness speech at memorial.
 Tags: forgiveness, memorial
 Confidence: high
 
 ### Occurrence 2
 
-Video Timestamp: 00:54:33
+Video Timestamp: 00:44:50
 Speaker: N-3
 Quote: I am not going to stop unless Erika Kirk asks me to stop.
 Context: Host frames investigation as deferred to widow's wishes.
@@ -771,7 +774,7 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:08:46
+Video Timestamp: 00:07:16
 Speaker: N-3
 Quote: I believe that the reason everybody is a conspiracy theorist is because people don't share truth.
 Context: Host inverts label: secrecy creates conspiracies, transparency removes them.
@@ -784,7 +787,7 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:49:37
+Video Timestamp: 00:38:46
 Speaker: N-1
 Quote: You're Catholic? Converting to Catholic from Judaism...You're ethnically Jewish.
 Context: Charlie Kirk town hall: student describes conversion from Judaism to Catholicism.

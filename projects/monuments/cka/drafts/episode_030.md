@@ -31,7 +31,7 @@ The episode also introduces several unanchored investigative threads (UVU outdoo
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 04:04:34
+Video Timestamp: 00:04:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -45,7 +45,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 06:30:25
+Video Timestamp: 00:06:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -59,7 +59,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 09:38:43
+Video Timestamp: 00:09:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -73,7 +73,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 12:00:29
+Video Timestamp: 00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -87,7 +87,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 32:57:11
+Video Timestamp: 00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -97,7 +97,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 34:09:46
+Video Timestamp: 00:34:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -111,7 +111,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 32:02:54
+Video Timestamp: 00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
@@ -125,7 +125,7 @@ Confidence Level: Medium
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 37:38:25
+Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -135,7 +135,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 37:38:25
+Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -145,7 +145,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 37:38:25
+Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -159,7 +159,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 37:38:25
+Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -173,7 +173,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 19:14:21
+Video Timestamp: 00:19:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
@@ -187,7 +187,7 @@ Confidence Level: High
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 45:59:01
+Video Timestamp: 00:45:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
@@ -201,7 +201,7 @@ Confidence Level: Medium
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 49:13:25
+Video Timestamp: 00:49:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
@@ -397,12 +397,12 @@ Investigative Pressure: Medium
 
 **C-1667** Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder
 
-Claim Timestamp: 04:04:34
+Claim Timestamp: 00:04:04
 
 Claim: During an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.
 
 Anchored Artifacts: A-1379.1
-Mentions: N-2, N-75, N-133
+Mentions: N-2, N-75, N-133, N-3, N-1
 
 
 Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context.
@@ -411,12 +411,12 @@ Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour r
 
 **C-1668** Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk
 
-Claim Timestamp: 05:38:00
+Claim Timestamp: 00:05:38
 
 Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erica Kirk of murder and that Candace has been specifically defending Erica Kirk.
 
 Anchored Artifacts: A-1379.1
-Mentions: N-2, N-75
+Mentions: N-2, N-75, N-3
 
 
 Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.
@@ -425,12 +425,12 @@ Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's ex
 
 **C-1669** Tucker Carlson described a July backstage conversation in which Kirk urged him to address Israel, Iran, and Epstein
 
-Claim Timestamp: 09:38:43
+Claim Timestamp: 00:09:38
 
 Claim: Tucker Carlson publicly described a backstage conversation with Charlie Kirk at the July Student Action Summit in which Kirk encouraged him to address Israel, Iran, and Jeffrey Epstein material.
 
 Anchored Artifacts: A-1381.1
-Mentions: N-1
+Mentions: N-1, N-35, N-50
 
 
 Investigative Direction: Obtain an unedited recording of Tucker's full statement and any contemporaneous corroborating material.
@@ -439,12 +439,12 @@ Investigative Direction: Obtain an unedited recording of Tucker's full statement
 
 **C-1670** Megyn Kelly released backstage video of Charlie Kirk saying "Go Max" to Tucker Carlson
 
-Claim Timestamp: 12:00:29
+Claim Timestamp: 00:12:00
 
 Claim: Megyn Kelly released a backstage phone video showing Charlie Kirk saying "Go Max" to Tucker Carlson immediately before Tucker's Student Action Summit speech.
 
 Anchored Artifacts: A-1382.1
-Mentions: N-1, N-75
+Mentions: N-1, N-75, N-50
 
 
 Investigative Direction: Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location).
@@ -453,12 +453,12 @@ Investigative Direction: Locate and preserve the original Megyn Kelly video and 
 
 **C-1671** Dave Rubin characterized Ben Shapiro's appearance on Kelly's tour as "almost an act of bravery"
 
-Claim Timestamp: 06:30:25
+Claim Timestamp: 00:06:30
 
 Claim: Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour — in which Shapiro challenged Megyn on stage — as "almost an act of bravery."
 
 Anchored Artifacts: A-1380.1
-Mentions: N-61, N-133
+Mentions: N-61, N-133, N-75
 
 
 Investigative Direction: Obtain the full Dave Rubin segment to verify precise wording and any qualifications.
@@ -467,12 +467,12 @@ Investigative Direction: Obtain the full Dave Rubin segment to verify precise wo
 
 **C-1672** Frank Turk identified the older man seen near a bush pre-event as Butch Hibbs
 
-Claim Timestamp: 32:57:11
+Claim Timestamp: 00:32:57
 
 Claim: Frank Turk identified the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived as Butch Hibbs.
 
 Anchored Artifacts: A-1383.1, A-1384.1
-Mentions: N-16, N-382
+Mentions: N-16, N-382, N-1
 
 Related Nodes: N-1314
 
@@ -482,12 +482,12 @@ Investigative Direction: Obtain the full Frank Turk interview, including any pri
 
 **C-1673** Frank Turk stated Butch Hibbs is the brother of Pastor Jack Hibbs
 
-Claim Timestamp: 33:00:00
+Claim Timestamp: 00:33:00
 
 Claim: Frank Turk stated that Butch Hibbs is the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1
-Mentions: N-309, N-382
+Mentions: N-309, N-382, N-16
 
 
 Investigative Direction: Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.
@@ -496,7 +496,7 @@ Investigative Direction: Obtain independent genealogical or institutional record
 
 **C-1674** A photograph of Butch Hibbs with Charlie Kirk was taken approximately 20 minutes before the shooting
 
-Claim Timestamp: 34:09:46
+Claim Timestamp: 00:34:09
 
 Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turk was taken approximately 20 minutes before the shooting of Charlie Kirk.
 
@@ -510,11 +510,12 @@ Investigative Direction: Obtain the original photograph with EXIF metadata and a
 
 **C-1675** UVU Turning Point chapter formally requested Charlie Kirk as speaker on July 18
 
-Claim Timestamp: 19:14:21
+Claim Timestamp: 00:19:14
 
 Claim: According to local Utah news cited by the host, the UVU Turning Point chapter formally requested Charlie Kirk as a speaker on July 18.
 
 Anchored Artifacts: A-1387.1
+Mentions: N-1
 
 Related Nodes: N-1313
 
@@ -524,7 +525,7 @@ Investigative Direction: Obtain the underlying local Utah news article and any U
 
 **C-1676** UVU recommended against the outdoor amphitheater for safety reasons; Turning Point insisted on it
 
-Claim Timestamp: 19:14:21
+Claim Timestamp: 00:19:14
 
 Claim: UVU communicated to Turning Point USA that the outdoor amphitheater was not advisable for safety reasons; Turning Point USA nonetheless insisted on the outdoor venue.
 
@@ -538,7 +539,7 @@ Investigative Direction: Obtain UVU event-services correspondence and any intern
 
 **C-1677** Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations
 
-Claim Timestamp: 37:38:25
+Claim Timestamp: 00:37:38
 
 Claim: Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.
 
@@ -553,7 +554,7 @@ Investigative Direction: Obtain the filed complaint and docket from the relevant
 
 **C-1678** Hen Mazig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations
 
-Claim Timestamp: 37:38:25
+Claim Timestamp: 00:37:38
 
 Claim: A September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
@@ -567,12 +568,12 @@ Investigative Direction: Verify the original Hen Mazig post via archived snapsho
 
 **C-1679** Elijah Schaefer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazig X post
 
-Claim Timestamp: 37:38:25
+Claim Timestamp: 00:37:38
 
 Claim: Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.
 
 Anchored Artifacts: A-1385.3
-Mentions: N-102, N-314, N-385
+Mentions: N-102, N-314, N-385, N-386
 
 
 Investigative Direction: Obtain the original Schaefer post and timestamp via archived snapshots.
@@ -581,7 +582,7 @@ Investigative Direction: Obtain the original Schaefer post and timestamp via arc
 
 **C-1680** Kash Patel publicly defended Alexis Wilkins on social media
 
-Claim Timestamp: 37:38:25
+Claim Timestamp: 00:37:38
 
 Claim: Kash Patel publicly defended Alexis Wilkins on social media, describing her as his "life partner" and demanding content creators leave her alone.
 
@@ -595,7 +596,7 @@ Investigative Direction: Obtain the original Patel posts and timestamps; verify 
 
 **C-1681** Kanye West tweet asserted he was going "defcon 3 on some Jewish people"
 
-Claim Timestamp: 49:13:25
+Claim Timestamp: 00:49:13
 
 Claim: Kanye West tweeted that he was going "defcon 3 on some Jewish people," which the host interprets as a defensive posture reference rather than a violent threat.
 

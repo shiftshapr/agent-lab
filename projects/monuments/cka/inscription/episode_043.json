@@ -193,10 +193,7 @@
           "related_claims": [
             "C-1879"
           ],
-          "related_nodes": [
-            "N-1",
-            "N-1003"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -228,10 +225,7 @@
           "related_claims": [
             "C-1879"
           ],
-          "related_nodes": [
-            "N-1",
-            "N-1003"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -248,7 +242,6 @@
             "C-1877"
           ],
           "related_nodes": [
-            "N-1003",
             "N-444"
           ],
           "tags": [],
@@ -268,8 +261,6 @@
             "C-1879"
           ],
           "related_nodes": [
-            "N-1",
-            "N-1003",
             "N-1393"
           ],
           "tags": [],
@@ -322,28 +313,6 @@
       "tags": [],
       "evidence_count": 4,
       "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1003",
-      "ref": "N-1003",
-      "name": "MK Ultra",
-      "type": "investigation_target",
-      "description": "Spouse of Charlie Kirk. Referenced in viewer comments as appearing with Bari Weiss on the 13th.",
-      "related_artifacts": [
-        "A-1518.4",
-        "A-1518.5"
-      ],
-      "related_claims": [
-        "C-1877",
-        "C-1878",
-        "C-1879"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high"
     },
@@ -563,10 +532,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1003"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -772,11 +738,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1",
-        "N-1003"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -849,6 +811,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -903,7 +881,8 @@
       "investigative_direction": "Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.",
       "mentions_person_refs": [
         "N-75",
-        "N-102"
+        "N-102",
+        "N-1"
       ]
     },
     {
@@ -1133,14 +1112,13 @@
       "anchored_artifacts": [
         "A-1518.4"
       ],
-      "related_nodes": [
-        "N-1003"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:18–00:41:02",
       "investigative_direction": "Verify against publicly available event listings and episode announcements.",
       "mentions_person_refs": [
-        "N-444"
+        "N-444",
+        "N-2"
       ]
     },
     {
@@ -1153,7 +1131,6 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-1003",
         "N-1393"
       ],
       "tags": [],
@@ -1175,13 +1152,11 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-1003",
         "N-1391"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:41:02",
-      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting.",
-      "mentions_person_refs": []
+      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting."
     }
   ],
   "memes": []

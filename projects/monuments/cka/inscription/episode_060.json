@@ -436,6 +436,54 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Joined Maine vacation; final-footage context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-597",
+      "ref": "N-597",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -454,7 +502,8 @@
       "investigative_direction": "Obtain archived copy of the Dave Rubin X post and corroborate the original wording and posting timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-61"
+        "N-61",
+        "N-3"
       ]
     },
     {
@@ -471,7 +520,9 @@
       "claim_timestamp": "00:31:06",
       "investigative_direction": "Compare Rubin's account with contemporaneous messages, third-party witnesses, or recordings if any exist; document any additional corroborating witnesses.",
       "mentions_person_refs": [
-        "N-61"
+        "N-61",
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -545,7 +596,9 @@
       "investigative_direction": "Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.",
       "mentions_person_refs": [
         "N-2",
-        "N-37"
+        "N-37",
+        "N-326",
+        "N-42"
       ]
     },
     {
@@ -597,7 +650,8 @@
       "claim_timestamp": "01:16:11",
       "investigative_direction": "Locate the full Coleman confrontation clip and the referenced \"Operation Debunk Mitch\" series; document context as part of Coleman's investigative output.",
       "mentions_person_refs": [
-        "N-552"
+        "N-552",
+        "N-597"
       ]
     }
   ],

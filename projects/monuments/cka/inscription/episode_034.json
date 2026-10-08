@@ -507,6 +507,166 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-87",
+      "ref": "N-87",
+      "name": "Aaron Wexler",
+      "type": "person",
+      "description": "X poster identified by host as source of \"white Candace\" post.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-408",
+      "ref": "N-408",
+      "name": "Duncan Aviation",
+      "type": "person",
+      "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-435",
+      "ref": "N-435",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -516,13 +676,22 @@
       "ref": "C-1735",
       "label": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
       "claim": "The episode presents five specific rental vehicles with documented license plates as the verified rental fleet associated with the Duncan Aviation / \"Egyptian\" group.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1425.1",
+        "A-1425.2",
+        "A-1425.3",
+        "A-1425.4",
+        "A-1425.5"
+      ],
       "related_nodes": [
         "N-1330"
       ],
       "tags": [],
-      "claim_timestamp": "07:12",
-      "investigative_direction": "Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest."
+      "claim_timestamp": "00:07:12",
+      "investigative_direction": "Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.",
+      "mentions_person_refs": [
+        "N-408"
+      ]
     },
     {
       "@type": "Claim",
@@ -530,12 +699,15 @@
       "ref": "C-1736",
       "label": "A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.",
       "claim": "A UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1426.1",
+        "A-1427.1"
+      ],
       "related_nodes": [
         "N-1332"
       ],
       "tags": [],
-      "claim_timestamp": "12:01",
+      "claim_timestamp": "00:12:01",
       "investigative_direction": "Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof."
     },
     {
@@ -544,11 +716,19 @@
       "ref": "C-1737",
       "label": "Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted \"I got you covered\" as resolution.",
       "claim": "Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was \"I got you covered,\" and Harpole did not follow up further.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1428.1",
+        "A-1428.2"
+      ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "26:12",
-      "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation."
+      "claim_timestamp": "00:26:12",
+      "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-1",
+        "N-435"
+      ]
     },
     {
       "@type": "Claim",
@@ -556,13 +736,20 @@
       "ref": "C-1738",
       "label": "Blake Neff was standing next to Mikey McCoy at the moment of the shooting.",
       "claim": "Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1429.1"
+      ],
       "related_nodes": [
         "N-1333"
       ],
       "tags": [],
-      "claim_timestamp": "32:53",
-      "investigative_direction": "Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts."
+      "claim_timestamp": "00:32:53",
+      "investigative_direction": "Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.",
+      "mentions_person_refs": [
+        "N-98",
+        "N-272",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -570,15 +757,18 @@
       "ref": "C-1739",
       "label": "Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.",
       "claim": "A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1429.2"
+      ],
       "related_nodes": [
         "N-1333"
       ],
       "tags": [],
-      "claim_timestamp": "36:37",
+      "claim_timestamp": "00:36:37",
       "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.",
       "mentions_person_refs": [
-        "N-98"
+        "N-98",
+        "N-224"
       ]
     },
     {
@@ -587,13 +777,21 @@
       "ref": "C-1740",
       "label": "Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as \"essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity.\"",
       "claim": "Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1430.1"
+      ],
       "related_nodes": [
         "N-1335"
       ],
       "tags": [],
-      "claim_timestamp": "38:58",
-      "investigative_direction": "Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list."
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3",
+        "N-1",
+        "N-45"
+      ]
     },
     {
       "@type": "Claim",
@@ -601,12 +799,14 @@
       "ref": "C-1741",
       "label": "The current issue of Calvary Chapel magazine carries a \"Stand with Israel\" cover and a \"Why Jews are hated\" article, with interior content featuring IDF soldiers.",
       "claim": "The episode displays the current month's Calvary Chapel magazine cover featuring \"Stand with Israel\" and a \"Why Jews are hated\" subtitle; interior content referenced includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1431.1"
+      ],
       "related_nodes": [
         "N-1335"
       ],
       "tags": [],
-      "claim_timestamp": "42:02",
+      "claim_timestamp": "00:42:02",
       "investigative_direction": "Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain."
     },
     {
@@ -615,12 +815,14 @@
       "ref": "C-1742",
       "label": "Aayol Yakobe posted on X that the rental-plate disclosure constitutes \"doxing.\"",
       "claim": "Aayol Yakobe posted on X characterizing the rental-plate disclosure as \"doxing\" and describing it as \"unparalleled levels of insanity\" and \"truly dangerous.\"",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1432.1"
+      ],
       "related_nodes": [
         "N-1330"
       ],
       "tags": [],
-      "claim_timestamp": "01:55",
+      "claim_timestamp": "00:01:55",
       "investigative_direction": "Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations."
     },
     {
@@ -629,11 +831,17 @@
       "ref": "C-1743",
       "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
       "claim": "Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1433.1"
+      ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "03:02",
-      "investigative_direction": "Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged \"doxing teenagers\" claim."
+      "claim_timestamp": "00:03:02",
+      "investigative_direction": "Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged \"doxing teenagers\" claim.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-87"
+      ]
     },
     {
       "@type": "Claim",
@@ -641,12 +849,14 @@
       "ref": "C-1744",
       "label": "A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.",
       "claim": "The episode identifies a flight from Scottsdale to Provo on the day of the assassination, owned by Turning Point USA donor TWW Lewis (whose foundation lists TPUSA as a recipient).",
-      "anchored_artifacts": [],
+      "anchored_artifacts": [
+        "A-1434.1"
+      ],
       "related_nodes": [
         "N-1334"
       ],
       "tags": [],
-      "claim_timestamp": "20:20",
+      "claim_timestamp": "00:20:20",
       "investigative_direction": "Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers."
     }
   ],

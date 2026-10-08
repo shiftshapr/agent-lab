@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-37, N-46
+  - Reused Nodes Appearing: N-37, N-46
   - (see registers)
 
 # Episode 144 Analysis
@@ -35,7 +35,7 @@ Episode 144 Ledger Summary:
 
 - Artifact Families Introduced: A-2301, A-2302, A-2303, A-2304, A-2305, A-2306, A-2307, A-2308, A-2309
 - Claim Range: C-3313–C-3325
-- New Nodes Introduced (people): N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214
+- New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-2209, N-2210, N-2211, N-2212
 - Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terrell Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) — see Optional Flags
 
@@ -113,7 +113,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-3317, N-1212, N-2209, N-2210*
+*Related: C-3317, N-2209, N-2210*
 
 ---
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:30–00:28:00
 Confidence Level: High
 
-*Related: C-3321, N-1210, N-224*
+*Related: C-3321, N-224*
 
 **A-2306.2** Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism
 
@@ -156,7 +156,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-1210, N-224, N-46*
+*Related: C-3322, N-224, N-46*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -165,7 +165,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:40–00:38:50
 Confidence Level: High
 
-*Related: C-3323, N-1210, N-224*
+*Related: C-3323, N-224*
 
 **A-2306.4** Audio: Andrew Kolvet recounting Candace saying she would "burn down that organization" if the wrong people took over TPUSA
 
@@ -226,149 +226,6 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Visual Impulse Productions operator who removed an SD card from a camera at the Charlie Kirk shooting scene and accessed it on his laptop within ~10 minutes of the shooting. Central figure in chain-of-custody inquiry.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2301.1, A-2301.2, A-2302.1, A-2304.1, C-3313, C-3314, C-3315, N-2209, N-2211*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Visual Impulse Productions staffer who miked Charlie Kirk for the final time and was consulted by Terrell on the laptop at the crime scene.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2301.2, C-3314*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-TPUSA spokesperson and co-host of "Beavis and Butt-Head" podcast; presented multiple artifact-anchored claims in this episode.
-
-Evidence Count: 4
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2306.1, A-2306.2, A-2306.3, A-2306.4, A-2308.1, A-2308.2, C-3321, C-3322, C-3324, C-3325*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Guest on the Kolvet/Neff podcast; articulated defense of Candace on the Hitler clip and challenged TPUSA's framing on air.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2306.1, A-2306.2, C-3322*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Co-host of "Beavis and Butt-Head" podcast with Andrew Kolvet; presented claim that Candace and Charlie were not friends after 2018/2019.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2306.3, C-3323*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Sergeant with SBI who testified at the preliminary hearing that the Utah County Attorney's Office created the 20-minute sizzle reel.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2304.2, C-3317*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Interviewer whose question to Candace is referenced as an artifact within the episode.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2302.1, C-3315*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-TPUSA-affiliated speaker whom Candace asked to substitute for her at a TPUSA event so she could travel to France with Kanye in late 2022.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2306.1 (host testimony, not separate artifact)*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Lead investigator who testified at the preliminary hearing that investigators never received the physical SD cards.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2304.1, C-3316*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Charlie Kirk, referenced as the source of statements in A-2307.1 ("Candace is on our team") and as the deceased founder of TPUSA.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2307.1, C-3323*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Erica Kirk, mentioned as having been voted in by the TPUSA board on September 14, 2025 per Andrew Kolvet's statement to Candace.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2308.1, C-3325*
-
----
-
 **N-2209** SD Card Chain-of-Custody Investigation
 
 Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.
@@ -378,7 +235,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2301.1, A-2304.1, A-2304.2, C-3315, C-3316, N-1215*
+*Related: A-2301.1, A-2304.1, A-2304.2, C-3315, C-3316*
 
 ---
 
@@ -391,7 +248,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2303.1, A-2304.2, A-2305.1, A-2305.2, C-3317, C-3318, C-3320, N-1212*
+*Related: A-2303.1, A-2304.2, A-2305.1, A-2305.2, C-3317, C-3318, C-3320*
 
 ---
 
@@ -448,6 +305,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it within approximately 10 minutes of Charlie Kirk being shot, as shown in episode footage.
 
 Anchored Artifacts: A-2301.1, A-2301.2
+Mentions: N-410, N-1
 
 Related Nodes: N-2209, N-2211
 
@@ -462,6 +320,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: Episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk's death.
 
 Anchored Artifacts: A-2301.2
+Mentions: N-410, N-1
 
 Related Nodes: N-2211
 
@@ -476,8 +335,9 @@ Claim Timestamp: 00:04:20–00:04:50
 Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparian, Terrell Farnsworth did not turn over the physical SD card to investigators; only Google links and a flash drive were provided.
 
 Anchored Artifacts: A-2302.1, A-2304.1
+Mentions: N-410, N-297
 
-Related Nodes: N-1213, N-2209
+Related Nodes: N-2209
 
 Investigative Direction: Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.
 
@@ -505,7 +365,7 @@ Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the U
 
 Anchored Artifacts: A-2304.2
 
-Related Nodes: N-1212, N-2209, N-2210
+Related Nodes: N-2209, N-2210
 
 Investigative Direction: Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.
 
@@ -547,7 +407,7 @@ Claim: The host asserts that the entity which decreased the aspect ratio was the
 
 Anchored Artifacts: A-2304.2, A-2305.1
 
-Related Nodes: N-1212, N-2210
+Related Nodes: N-2210
 
 Investigative Direction: Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.
 
@@ -560,9 +420,9 @@ Claim Timestamp: 00:25:30–00:28:00
 Claim: On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded the debate early and repeatedly and predicted the loss would "age well" for him.
 
 Anchored Artifacts: A-2306.1
-Mentions: N-224
+Mentions: N-224, N-42
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.
 
@@ -577,7 +437,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the
 Anchored Artifacts: A-2306.2
 Mentions: N-46, N-224
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 
@@ -605,6 +465,7 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
 
 Anchored Artifacts: A-2308.1, A-2308.2
+Mentions: N-42, N-1, N-65, N-434, N-476
 
 Related Nodes: N-2212
 
@@ -619,7 +480,7 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025 that the TPUSA board had already voted in Erica Kirk to take over the organization, and asked her not to announce it yet.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-2
+Mentions: N-2, N-42
 
 Related Nodes: N-2212
 
@@ -636,7 +497,7 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger — requires human verification.
-- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207..N-1217 never denoted these people and claim references were retargeted.
+- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207..former local id 1217 never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-2209 (SD card chain of custody), N-2210 (aspect ratio modification), N-2211 (Terrell handling), N-2212 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

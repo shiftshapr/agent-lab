@@ -891,8 +891,8 @@
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Compare to full Patel press conference record on FBI.gov or C-SPAN.",
       "mentions_person_refs": [
-        "N-1",
-        "N-102"
+        "N-102",
+        "N-1"
       ]
     },
     {
@@ -1045,7 +1045,8 @@
       "investigative_direction": "Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.",
       "mentions_person_refs": [
         "N-3",
-        "N-442"
+        "N-442",
+        "N-1"
       ]
     }
   ],

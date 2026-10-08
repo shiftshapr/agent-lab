@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2148, N-2149, N-2150, N-2151
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
 ## I. Meta-Data
@@ -29,7 +29,7 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-2189, A-2190, A-2191, A-2192, A-2193, A-2194, A-2195, A-2196, A-2197
   - Claim Range: C-3138–C-3149
-  - New People Nodes: N-1207, N-1208, N-1209, N-1210, N-1211
+  - New People Nodes: none (Wave 2: local ids removed)
   - New Investigation Target Nodes: N-2148, N-2149, N-2150, N-2151
   - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erica Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
 
@@ -110,7 +110,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Beware of conservativism that is void of Christ. Beware of talking head personalities who pedal conspiracy theories to their room temperature IQ audiences in hopes of generating a few more clicks and a few more dollars for their narcissistic pseudo empires."
 
-*Related: C-3142, N-1210, Charlie Kirk (existing node)*
+*Related: C-3142, Charlie Kirk (existing node)*
 
 **A-2192.2** Pastor Russell sermon clip denouncing named political opponents
 
@@ -121,7 +121,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "I refuse to allow the conservative movement to be taken over by vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities. What Charlie started, we have the responsibility to finish. The foundation he laid, we must build upon."
 
-*Related: C-3142, N-1210, Charlie Kirk (existing node)*
+*Related: C-3142, Charlie Kirk (existing node)*
 
 ---
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:37–00:29:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-Excerpt: "I have always been heaven focused but way more heaven focused now since the murder of Charlie… someone once told me that eternal life begins the moment that you truly know Christ… it changes the whole meaning of suffering… heaven now literally invades your life in the most beautiful way."
+Excerpt: "I've always been heaven focused but way more heaven focused now since the murder of Charlie ... someone once told me that eternal life begins the moment that you that you truly know Christ. ... it changes the whole meaning of suffering ... heaven now literally invades your life in the most beautiful way."
 
 *Related: C-3143, Erica Kirk (existing node), Charlie Kirk (existing node)*
 
@@ -177,7 +177,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "And I love this thing my pastor said. He said, 'How can you have faith when you've never been faithful?' Wow, I love that. Right?… Are you trustworthy?… how can you want to be skinny if you've never been fat?… What the heck…"
 
-*Related: C-3146, N-1211*
+*Related: C-3146*
 
 ---
 
@@ -214,7 +214,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Andrew Colvin and Blake Neff are falling down their own mountain of evidence against Tyler Robinson. They want to distract you from your investigation. You must be close and they are scared. The preacher looks like he's fresh from a prison yard."
 
-*Related: Andrew Kolvet (existing node), Tyler Robinson (existing node), N-1210*
+*Related: Andrew Kolvet (existing node), Tyler Robinson (existing node)*
 
 **A-2196.4** Comment from Lee
 
@@ -247,7 +247,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "My priest wears a habit and is part of religious order that was founded 800 years ago. He took a vow of poverty and chastity. He speaks eight languages… But hey, I'm kind of moved by the bass guitar and ripped jeans."
 
-*Related: N-1210*
+*Related:*
 
 **A-2196.7** Comment from Alexandra
 
@@ -309,61 +309,6 @@ Node Type: topic
 
 *Related:*
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Utah Chief Medical Examiner whose tenure began 2024-07-01 and whose resignation is reported in this episode without primary documentation. Name variant "Deirdra" appears once in transcript; canonical form preserved as "Deidra" per first mention.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2148, C-3147 (verbal-only host claim)*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-TPUSA-affiliated communicator who publicly used a hostile epithet ("vile witch") in an X post responding to a question about whether Charlie Kirk was cremated.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2190.1, C-3140, N-2150, Andrew Kolvet (existing node)*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-TPUSA Chief Marketing Officer named in Kolvet's X denial as part of the Washington DC team the host claimed was traveling to meet with White House officials. Spelling variant "Marina Medias" appears once in transcript; canonical form preserved.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2194.1, C-3145, N-2151, Andrew Kolvet (existing node)*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Sermon speaker at Pursuit Church (Washington state) whose address included politically-charged denunciations of named opponents and praise for Charlie Kirk's legacy. Only first name given; full identity not established.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2192.1, A-2192.2, C-3142, Erica Kirk (existing node), Charlie Kirk (existing node)*
-
-**N-1211** UVU Campus Familiarity Question
-
-Holder of an Instagram account whose posted video content mocked contemporary Christianese speaking patterns. Mentioned in connection with Erika Kirk's tour speech rhetoric.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2195.1, C-3146*
-
 **N-2148** Amaro Resignation Cause
 
 Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a "general sense of corruption."
@@ -419,6 +364,7 @@ Claim Timestamp: 00:06:57
 Claim: Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an "evil thing" and as Candace "weaponizing" Charlie's private messages.
 
 Anchored Artifacts: A-2189.1
+Mentions: N-42, N-3
 Related Nodes:
 Investigative Direction: Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.
 
@@ -429,6 +375,7 @@ Claim Timestamp: 00:07:44
 Claim: A Community Note attached to Kolvet's X post stated that the released text messages were from November 2023, falling within 22 months of Charlie Kirk's death on September 10, and observed that Kolvet had moved the goalpost from his prior challenge.
 
 Anchored Artifacts: A-2189.2
+Mentions: N-1
 Related Nodes:
 Investigative Direction: Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.
 
@@ -439,6 +386,7 @@ Claim Timestamp: 00:09:42
 Claim: Blake Neff, in a public X post, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
 
 Anchored Artifacts: A-2190.1
+Mentions: N-3, N-1, N-224
 Related Nodes: N-2150
 Investigative Direction: Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.
 
@@ -449,6 +397,7 @@ Claim Timestamp: 00:13:20
 Claim: Erika Kirk, in a Fox News interview with Harris Faulkner, publicly requested that the location where Charlie Kirk is laid to rest remain a single sacred exception to the public disclosure she said applied to everything else.
 
 Anchored Artifacts: A-2191.1
+Mentions: N-1, N-2
 Related Nodes: N-2150
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
@@ -459,7 +408,8 @@ Claim Timestamp: 00:24:17
 Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Related Nodes: N-1210
+Mentions: N-1, N-2
+Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
 **C-3143** Erika Kirk referenced heaven focus and eternal life during tour speech
@@ -469,6 +419,7 @@ Claim Timestamp: 00:28:37
 Claim: Erika Kirk, in a Make Heaven Crowded tour speech, stated she was "way more heaven focused" since Charlie's murder and quoted an unnamed source as saying "eternal life begins the moment that you truly know Christ."
 
 Anchored Artifacts: A-2193.1
+Mentions: N-2
 Related Nodes:
 Investigative Direction: Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source.
 
@@ -479,6 +430,7 @@ Claim Timestamp: 00:29:29
 Claim: Erika Kirk, in a Make Heaven Crowded tour speech, framed her refusal to surrender around the claim that "my kids are watching me," "my co-workers are watching me," and a "cloud of witnesses."
 
 Anchored Artifacts: A-2193.2
+Mentions: N-2
 Related Nodes:
 Investigative Direction: Confirm against the full event recording and verify event date and venue.
 
@@ -489,6 +441,7 @@ Claim Timestamp: 00:32:55
 Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.
 
 Anchored Artifacts: A-2194.1
+Mentions: N-42, N-102
 Related Nodes: N-2151
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
@@ -499,7 +452,8 @@ Claim Timestamp: 00:30:59
 Claim: Devante West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.
 
 Anchored Artifacts: A-2195.1
-Related Nodes: N-1211
+Mentions: N-2
+Related Nodes:
 Investigative Direction: Verify the original Instagram post remains accessible and identify the target of the mockery if specified.
 
 **C-3147** Host asserts Dr. Deidra Amaro has resigned as Utah Chief Medical Examiner
@@ -509,6 +463,7 @@ Claim Timestamp: 00:01:07
 Claim: Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.
 
 Anchored Artifacts: None displayed in this episode (host verbal assertion only)
+Mentions: N-3
 Related Nodes: N-2148
 Investigative Direction: Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
@@ -519,6 +474,7 @@ Claim Timestamp: 00:44:04
 Claim: Candace Owens states, in response to a YouTube comment, that Charlie Kirk's wedding ring had an open clasp, that the ring can be seen falling off his finger in certain footage, and that she has been told the ring was never recovered.
 
 Anchored Artifacts: A-2196.5 (trigger), A-2197.1-derived (host's verbal expansion only)
+Mentions: N-3, N-1
 Related Nodes:
 Investigative Direction: Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the "never recovered" assertion.
 
@@ -529,6 +485,7 @@ Claim Timestamp: 00:17:17
 Claim: Candace Owens reports receiving a "solid tip" that a 911 call placed by Charlie's security team during transport to the hospital lasted approximately 3–5 minutes, did not result in operator engagement, and captured the phrases "We got him. We are taking him to the hospital," "Get that off of him," and "Get out of the way."
 
 Anchored Artifacts: A-2197.1
+Mentions: N-3
 Related Nodes: N-2149
 Investigative Direction: File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
@@ -553,9 +510,9 @@ Confidence: high
 
 - **Claim failed admission test — C-3147:** Host's exclusive report of Dr. Deidra Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
 - **Artifact verbally referenced but not shown — A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
-- **Name uncertainty — N-1210 "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
-- **Name variant preserved — N-1207:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
-- **Name variant preserved — N-1209:** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
+- **Name uncertainty (former local id 1210 "Pastor Russell"):** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
+- **Name variant preserved (former local id 1207):** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
+- **Name variant preserved (former local id 1209):** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
 - **Artifact verbally referenced but not shown — Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
 - **Artifact verbally referenced but not shown — Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
 - **Transcript ambiguity — A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.

@@ -129,11 +129,7 @@
             "C-3345",
             "C-3355"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -312,9 +308,7 @@
           "related_claims": [
             "C-3356"
           ],
-          "related_nodes": [
-            "N-1212"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -419,28 +413,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Fox News journalist who conducted an audio interview with Jack Hibbs played on air.",
-      "related_artifacts": [
-        "A-2323.1"
-      ],
-      "related_claims": [
-        "C-3345"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1208"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1211",
       "ref": "N-1211",
       "name": "UVU Campus Familiarity Question",
@@ -456,25 +428,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Senior pastor of Calvary Chapel in Signal Hill, California; identified as one of Erika Kirk's TPUSA-affiliated faith pastors; co-hosts content related to Bible and 365 brand; observed on a mobility scooter at the courthouse.",
-      "related_artifacts": [
-        "A-2326.4"
-      ],
-      "related_claims": [
-        "C-3356"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1213",
       "ref": "N-1213",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
@@ -487,23 +440,6 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Magistrate presiding over Tyler Robinson preliminary hearing; expected to rule on motion to dismiss charges 1, 6, and 7 on the day of broadcast.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3354"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -604,6 +540,118 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-264",
+      "ref": "N-264",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-309",
+      "ref": "N-309",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-382",
+      "ref": "N-382",
+      "name": "Butch Hibbs",
+      "type": "person",
+      "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-890",
+      "ref": "N-890",
+      "name": "Tracy Martin",
+      "type": "person",
+      "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -617,12 +665,15 @@
         "A-2323.1",
         "A-2322.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:30",
-      "investigative_direction": "Confirm UVU event seating assignments, verify whether the seat location matches photographs, and corroborate with event staff or seating manifests."
+      "investigative_direction": "Confirm UVU event seating assignments, verify whether the seat location matches photographs, and corroborate with event staff or seating manifests.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-382",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -636,7 +687,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:45",
-      "investigative_direction": "Identify the specific Israeli outlet(s) referenced; review Israeli media's early reporting timeline; determine whether/how they obtained information before official announcement."
+      "investigative_direction": "Identify the specific Israeli outlet(s) referenced; review Israeli media's early reporting timeline; determine whether/how they obtained information before official announcement.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -650,7 +705,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:43",
-      "investigative_direction": "Obtain Butch Hibbs's phone records for the night of 9/9–9/10 to verify the timing and content of the call to Jack Hibbs."
+      "investigative_direction": "Obtain Butch Hibbs's phone records for the night of 9/9–9/10 to verify the timing and content of the call to Jack Hibbs.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -666,7 +725,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
-      "investigative_direction": "Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage."
+      "investigative_direction": "Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage.",
+      "mentions_person_refs": [
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -680,7 +742,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:14",
-      "investigative_direction": "Cross-reference Mikey McCoy's call logs (previously referenced as covering 12:24–12:44) for any call to a Jack Hibbs number; reconcile with the 12:30 PM prayer-chain claim."
+      "investigative_direction": "Cross-reference Mikey McCoy's call logs (previously referenced as covering 12:24–12:44) for any call to a Jack Hibbs number; reconcile with the 12:30 PM prayer-chain claim.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -696,7 +762,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:13",
-      "investigative_direction": "Verify the existence of a Jack Hibbs relative commonly known as \"Charlie\"; assess whether the confusion is plausible given family context and call conditions."
+      "investigative_direction": "Verify the existence of a Jack Hibbs relative commonly known as \"Charlie\"; assess whether the confusion is plausible given family context and call conditions.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -712,7 +782,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
-      "investigative_direction": "Establish the precise timestamp of the shooting from primary sources; corroborate hospital transport timeline; assess feasibility of FaceTime hospital contact within the stated window."
+      "investigative_direction": "Establish the precise timestamp of the shooting from primary sources; corroborate hospital transport timeline; assess feasibility of FaceTime hospital contact within the stated window.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -728,7 +802,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:18",
-      "investigative_direction": "Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call)."
+      "investigative_direction": "Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call).",
+      "mentions_person_refs": [
+        "N-382"
+      ]
     },
     {
       "@type": "Claim",
@@ -743,7 +820,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:43",
-      "investigative_direction": "Confirm Butch Hibbs's date of birth and verify against any ID or background checks."
+      "investigative_direction": "Confirm Butch Hibbs's date of birth and verify against any ID or background checks.",
+      "mentions_person_refs": [
+        "N-382",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -752,12 +833,13 @@
       "label": "Judge Graph was the magistrate presiding over the Tyler Robinson preliminary hearing decision on the broadcast date",
       "claim": "The episode identifies Judge Graph as the magistrate expected to rule on the defense motion to dismiss charges 1, 6, and 7 in the Tyler Robinson case on September 1, 2026.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:24",
-      "investigative_direction": "Verify the magistrate's full name through Utah court records; obtain the written ruling once filed."
+      "investigative_direction": "Verify the magistrate's full name through Utah court records; obtain the written ruling once filed.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -776,7 +858,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:43",
-      "investigative_direction": "Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact."
+      "investigative_direction": "Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-382",
+        "N-309"
+      ]
     },
     {
       "@type": "Claim",
@@ -790,13 +877,17 @@
         "A-2326.3",
         "A-2326.4"
       ],
-      "related_nodes": [
-        "N-1212",
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:52",
-      "investigative_direction": "Cross-reference courthouse visitor logs; reconcile with official attendee lists if released."
+      "investigative_direction": "Cross-reference courthouse visitor logs; reconcile with official attendee lists if released.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-264",
+        "N-42",
+        "N-890"
+      ]
     }
   ],
   "memes": []

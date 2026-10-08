@@ -331,7 +331,7 @@ Claim Timestamp: 00:01:25
 Claim: The episode displays a Tucker Carlson X post reading, in full, "Pray that the spell breaks and the world is saved."
 
 Anchored Artifacts: A-2436.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-50
 Investigative Direction: Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent.
 
 ---
@@ -405,6 +405,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated on camera on October 7 that he "used to say to him the ticket in 2028 is going to be Vance Kirk" and that "between you and me and our listeners, I'm not giving up on the Vance Kirk ticket," and that "Erika would be an amazing president someday."
 
 Anchored Artifacts: A-2441.1
+Mentions: N-16
 Related Nodes: N-2348
 Investigative Direction: Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced.
 
@@ -417,6 +418,7 @@ Claim Timestamp: 00:21:50
 Claim: Mikey McQuaid stated on camera that Charlie "left behind these blueprints for her" (Erika) and "for you" (McQuaid).
 
 Anchored Artifacts: A-2442.1
+Mentions: N-272
 Related Nodes: N-2348
 Investigative Direction: Identify source program and date; determine what McQuaid claims the "blueprints" to be.
 
@@ -429,7 +431,7 @@ Claim Timestamp: 00:36:50
 Claim: Donald Trump stated on camera, "I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel."
 
 Anchored Artifacts: A-2443.1
-Mentions: N-2, N-5
+Mentions: N-2, N-5, N-472
 Investigative Direction: Identify the original event and capture full context of Trump's remarks.
 
 ---
@@ -501,7 +503,7 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Mentions: N-5
+Mentions: N-5, N-446
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -513,7 +515,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Mentions: N-2, N-443
+Mentions: N-2, N-443, N-1
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---

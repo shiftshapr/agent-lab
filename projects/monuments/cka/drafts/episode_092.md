@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-4, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
-  - Reused Nodes Appearing: N-2, N-42, N-1207, N-1208, N-1209, N-1210
+  - New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
+  - Reused Nodes Appearing: N-2, N-42, N-4
   - Hole-minted Nodes (wave1): N-536, N-569, N-570
   - (see registers)
 
@@ -22,9 +22,9 @@
 
 ### Occurrence 1
 
-Video Timestamp: 00:00:00
+Video Timestamp: 00:54:46
 Speaker: N-3
-Quote: to this." They go, "Oh, no, no, no, never mind. I just want privacy." It's giving Megan Markle. Do you know what I mean? Like, I I want I want to b...
+Quote: They go, "Oh, no, no, no, never mind. I just want privacy." It's giving Megan Markle. Do you know what I mean? Like, I I want I want to be
 Context: Later reuse of It's Giving in CKA seq 92.
 Tags: gen_z, chat_elevate, residual, reuse
 Confidence: high
@@ -53,7 +53,7 @@ Claim Range: C-2722–C-2743
 
 New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-4 (JD Vance), N-42 (Andrew Kolvet), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-4 (JD Vance), N-42 (Andrew Kolvet)
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2734, C-2735, N-536, N-569, N-1210, N-1688*
+*Related: C-2734, C-2735, N-536, N-569, N-1688*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:40:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2735, C-2736, N-536, N-569, N-1210, N-1688, N-570*
+*Related: C-2735, C-2736, N-536, N-569, N-1688, N-570*
 
 ---
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:41:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2736, N-536, N-569, N-1210, N-1688, N-570*
+*Related: C-2736, N-536, N-569, N-1688, N-570*
 
 ---
 
@@ -468,7 +468,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-536, N-569, N-1210*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-536, N-569*
 
 ---
 
@@ -567,7 +567,7 @@ Claim Timestamp: 00:31:13
 Claim: Andrew Kolvet stated on Charlie Kirk's show that the Monday high school event was also cancelled due to "increased online chatter" being monitored by TPUSA security.
 
 Anchored Artifacts: A-1968.1
-Mentions: N-2, N-42
+Mentions: N-2, N-42, N-1
 
 Related Nodes: N-1682, N-1687
 
@@ -613,7 +613,7 @@ Claim Timestamp: 00:05:40
 Claim: Erika Kirk stated on Jesse Watters that she does not feel threatened and that any attempt would simply send her "to heaven sooner."
 
 Anchored Artifacts: A-1971.1
-Mentions: N-2
+Mentions: N-2, N-313
 
 Related Nodes: N-1686
 
@@ -688,9 +688,9 @@ Claim Timestamp: 00:39:35
 Claim: Victor Marx posted a short video response on Instagram and X in reply to Candace Owens' prior episode, captioned "Well, all righty then. Love you, Candace."
 
 Anchored Artifacts: A-1975.1
-Mentions: N-569
+Mentions: N-569, N-3
 
-Related Nodes: N-1210, N-1688
+Related Nodes: N-1688
 
 Investigative Direction: Verify post URL, timestamp, and whether the post has since been deleted or edited.
 
@@ -703,9 +703,9 @@ Claim Timestamp: 00:40:47
 Claim: Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed.
 
 Anchored Artifacts: A-1976.1
-Mentions: N-569, N-570
+Mentions: N-569, N-570, N-3
 
-Related Nodes: N-1210, N-1688
+Related Nodes: N-1688
 
 Investigative Direction: Capture timestamped screenshots of the comment thread before any deletion.
 
@@ -718,9 +718,9 @@ Claim Timestamp: 00:41:36
 Claim: Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed.
 
 Anchored Artifacts: A-1977.1
-Mentions: N-569
+Mentions: N-569, N-3
 
-Related Nodes: N-1210, N-1688
+Related Nodes: N-1688
 
 Investigative Direction: Verify DM timestamp; await Marx's response or non-response.
 
@@ -775,7 +775,7 @@ Claim Timestamp: 00:06:30
 Claim: Erika Kirk's stated public position shifted from declaring fearlessness in the earlier Jesse Watters interview to citing her security team's recommendations when canceling the UGA event.
 
 Anchored Artifacts: A-1971.1, A-1970.1
-Mentions: N-2
+Mentions: N-2, N-313
 
 Related Nodes: N-1686
 
@@ -805,7 +805,7 @@ Claim Timestamp: 00:31:13
 Claim: TPUSA's public explanation of the UGA no-show evolved across at least five artifacts (stage announcement, Fox News interview, Charlie Kirk show interview, Daily Wire tweet, Erika Kirk X post) and contained internal inconsistencies regarding whether the high school event shared the same rationale.
 
 Anchored Artifacts: A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, A-1972.1
-Mentions: N-2, N-42
+Mentions: N-2, N-42, N-1
 
 Related Nodes: N-1682, N-1687
 

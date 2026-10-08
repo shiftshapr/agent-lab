@@ -571,7 +571,7 @@ Claim Timestamp: 00:18:47
 Claim: Turning Point USA executive Justin Stripe replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
 
 Anchored Artifacts: A-1637.1
-Mentions: N-2
+Mentions: N-2, N-3
 
 Related Nodes: N-1490
 
@@ -616,7 +616,7 @@ Claim Timestamp: 00:21:46
 Claim: Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.
 
 Anchored Artifacts: A-1639.1
-Mentions: N-730
+Mentions: N-730, N-133
 
 Related Nodes: N-1494
 
@@ -646,7 +646,7 @@ Claim Timestamp: 00:36:23–00:39:06
 Claim: In a clip aired on the episode, Nick Fuentes stated regarding Jeffrey Epstein that "it isn't really pedophilia" because "they weren't trafficking 5-year-olds, it was like they were technically not legal" and characterized the victims as "barely legal teens."
 
 Anchored Artifacts: A-1641.1
-Mentions: N-293
+Mentions: N-293, N-35
 
 Related Nodes: N-1495
 

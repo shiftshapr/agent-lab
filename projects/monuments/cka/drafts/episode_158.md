@@ -518,7 +518,7 @@ Claim Timestamp: 00:01:33
 Claim: Host asserts Clara Molot’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
 
 Anchored Artifacts: A-2459.1, A-2459.2
-Mentions: N-41, N-224
+Mentions: N-41, N-224, N-2
 
 Related Nodes: N-2350, N-2355
 

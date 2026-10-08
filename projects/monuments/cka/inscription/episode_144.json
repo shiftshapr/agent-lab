@@ -137,7 +137,6 @@
             "C-3317"
           ],
           "related_nodes": [
-            "N-1212",
             "N-2209",
             "N-2210"
           ],
@@ -207,7 +206,6 @@
             "C-3321"
           ],
           "related_nodes": [
-            "N-1210",
             "N-224"
           ],
           "tags": [],
@@ -225,7 +223,6 @@
             "C-3322"
           ],
           "related_nodes": [
-            "N-1210",
             "N-224",
             "N-46"
           ],
@@ -244,7 +241,6 @@
             "C-3323"
           ],
           "related_nodes": [
-            "N-1210",
             "N-224"
           ],
           "tags": [],
@@ -368,229 +364,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Visual Impulse Productions operator who removed an SD card from a camera at the Charlie Kirk shooting scene and accessed it on his laptop within ~10 minutes of the shooting. Central figure in chain-of-custody inquiry.",
-      "related_artifacts": [
-        "A-2301.1",
-        "A-2301.2",
-        "A-2302.1",
-        "A-2304.1"
-      ],
-      "related_claims": [
-        "C-3313",
-        "C-3314",
-        "C-3315"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2209",
-        "N-2211"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Visual Impulse Productions staffer who miked Charlie Kirk for the final time and was consulted by Terrell on the laptop at the crime scene.",
-      "related_artifacts": [
-        "A-2301.2"
-      ],
-      "related_claims": [
-        "C-3314"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA spokesperson and co-host of \"Beavis and Butt-Head\" podcast; presented multiple artifact-anchored claims in this episode.",
-      "related_artifacts": [
-        "A-2306.1",
-        "A-2306.2",
-        "A-2306.3",
-        "A-2306.4",
-        "A-2308.1",
-        "A-2308.2"
-      ],
-      "related_claims": [
-        "C-3321",
-        "C-3322",
-        "C-3324",
-        "C-3325"
-      ],
-      "tags": [],
-      "evidence_count": 6,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Guest on the Kolvet/Neff podcast; articulated defense of Candace on the Hitler clip and challenged TPUSA's framing on air.",
-      "related_artifacts": [
-        "A-2306.1",
-        "A-2306.2"
-      ],
-      "related_claims": [
-        "C-3322"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Co-host of \"Beavis and Butt-Head\" podcast with Andrew Kolvet; presented claim that Candace and Charlie were not friends after 2018/2019.",
-      "related_artifacts": [
-        "A-2306.3"
-      ],
-      "related_claims": [
-        "C-3323"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Sergeant with SBI who testified at the preliminary hearing that the Utah County Attorney's Office created the 20-minute sizzle reel.",
-      "related_artifacts": [
-        "A-2304.2"
-      ],
-      "related_claims": [
-        "C-3317"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Interviewer whose question to Candace is referenced as an artifact within the episode.",
-      "related_artifacts": [
-        "A-2302.1"
-      ],
-      "related_claims": [
-        "C-3315"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "TPUSA-affiliated speaker whom Candace asked to substitute for her at a TPUSA event so she could travel to France with Kanye in late 2022.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Lead investigator who testified at the preliminary hearing that investigators never received the physical SD cards.",
-      "related_artifacts": [
-        "A-2304.1"
-      ],
-      "related_claims": [
-        "C-3316"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Charlie Kirk, referenced as the source of statements in A-2307.1 (\"Candace is on our team\") and as the deceased founder of TPUSA.",
-      "related_artifacts": [
-        "A-2307.1"
-      ],
-      "related_claims": [
-        "C-3323"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Erica Kirk, mentioned as having been voted in by the TPUSA board on September 14, 2025 per Andrew Kolvet's statement to Candace.",
-      "related_artifacts": [
-        "A-2308.1"
-      ],
-      "related_claims": [
-        "C-3325"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2209",
       "ref": "N-2209",
       "name": "SD Card Chain-of-Custody Investigation",
@@ -609,11 +382,7 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1215"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -637,10 +406,7 @@
       "evidence_count": 4,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -718,6 +484,102 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-297",
+      "ref": "N-297",
+      "name": "Ana Kasparian",
+      "type": "person",
+      "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-476",
+      "ref": "N-476",
+      "name": "Bill Aman",
+      "type": "person",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -737,7 +599,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
-      "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody."
+      "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.",
+      "mentions_person_refs": [
+        "N-410",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -753,7 +619,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
-      "investigative_direction": "Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account."
+      "investigative_direction": "Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.",
+      "mentions_person_refs": [
+        "N-410",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -766,13 +636,15 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2209"
       ],
       "tags": [],
       "claim_timestamp": "00:04:20–00:04:50",
       "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-410",
+        "N-297"
+      ]
     },
     {
       "@type": "Claim",
@@ -801,7 +673,6 @@
         "A-2304.2"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2209",
         "N-2210"
       ],
@@ -853,7 +724,6 @@
         "A-2305.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2210"
       ],
       "tags": [],
@@ -869,14 +739,13 @@
       "anchored_artifacts": [
         "A-2306.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:30–00:28:00",
       "investigative_direction": "Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.",
       "mentions_person_refs": [
-        "N-224"
+        "N-224",
+        "N-42"
       ]
     },
     {
@@ -888,9 +757,7 @@
       "anchored_artifacts": [
         "A-2306.2"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:00–00:35:40",
       "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context.",
@@ -931,7 +798,14 @@
       ],
       "tags": [],
       "claim_timestamp": "00:51:00–00:54:00",
-      "investigative_direction": "Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available."
+      "investigative_direction": "Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-1",
+        "N-65",
+        "N-434",
+        "N-476"
+      ]
     },
     {
       "@type": "Claim",
@@ -950,7 +824,8 @@
       "claim_timestamp": "00:51:00–00:54:00",
       "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-42"
       ]
     }
   ],

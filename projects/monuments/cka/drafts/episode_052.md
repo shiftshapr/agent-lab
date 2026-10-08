@@ -277,6 +277,7 @@ Claim Timestamp: 00:02:43
 Claim: Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.
 
 Anchored Artifacts: A-1577.1, A-1577.2
+Mentions: N-69
 
 Related Nodes: N-1452
 
@@ -289,6 +290,7 @@ Claim Timestamp: 00:04:45
 Claim: Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo after the press conference, verified his prior presence via credit card receipt, and contacted federal authorities days later; per host, no federal follow-up investigation was conducted at the restaurant.
 
 Anchored Artifacts: A-1577.1
+Mentions: N-69
 
 Related Nodes: N-1452
 
@@ -301,6 +303,7 @@ Claim Timestamp: 00:17:20
 Claim: Turning Point USA clarified to host that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.
 
 Anchored Artifacts: None displayed (host verbal reference to TPUSA communication)
+Mentions: N-326
 
 Related Nodes:
 
@@ -313,7 +316,7 @@ Claim Timestamp: 00:18:17
 Claim: Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).
 
 Anchored Artifacts: A-1578.1 (follow-up contact card only; original redacted text referenced but not displayed in this episode)
-Mentions: N-2
+Mentions: N-2, N-1
 
 
 Investigative Direction: Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number.
@@ -325,7 +328,7 @@ Claim Timestamp: 00:19:30
 Claim: After host's repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.
 
 Anchored Artifacts: A-1578.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 
 Investigative Direction: Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.
@@ -349,7 +352,7 @@ Claim Timestamp: 00:28:55
 Claim: Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk called him asking how to get involved and that he put her behind President Trump at the 2015 Arizona rally.
 
 Anchored Artifacts: A-1580.1
-Mentions: N-2, N-37
+Mentions: N-2, N-37, N-1
 
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
@@ -361,7 +364,7 @@ Claim Timestamp: 00:33:00
 Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-632, N-633, N-639
+Mentions: N-632, N-633, N-639, N-783
 
 Related Nodes: N-1454
 
@@ -399,7 +402,7 @@ Claim Timestamp: 00:46:38
 Claim: Daily Wire has launched a show hosted by "Maddie" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.
 
 Anchored Artifacts: A-1584.1
-Mentions: N-638
+Mentions: N-638, N-50, N-3
 
 
 Investigative Direction: Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.
@@ -423,6 +426,7 @@ Claim Timestamp: 00:13:50
 Claim: Tyler Robinson was employed at Wild Electric in Santa Clara, Utah; this was already in public news reporting prior to this episode.
 
 Anchored Artifacts: A-1586.1
+Mentions: N-69
 
 Related Nodes:
 

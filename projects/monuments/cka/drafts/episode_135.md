@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2164, N-2165, N-2166, N-2167, N-2168, N-2169
-  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214
+  - Reused Nodes Appearing: N-1, N-2
   - (see registers)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:19:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3177, N-1210, N-1*
+*Related: C-3177, N-1*
 
 **A-2220** Medical Professional Email Bundle
 
@@ -123,94 +123,6 @@ Investigative Pressure: High
 
 *Related: A-2219.1, A-2220.1, A-2220.2, A-2221.1, A-2222.1, C-3177–C-3187*
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Deputy Chief Medical Examiner of Utah per host assertion; identified as having signed off on Charlie Kirk's autopsy; moved from New York to Utah in 2018; promoted to deputy chief in 2024 under Dr. Deidra Amaro; reportedly now departed for New York chief medical examiner position; husband of Dr. Ashley Brown Guajardo.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2166*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Sociologist; author of "Play Like a Fangirl" (Penguin Random House); PhD from University of Manchester; faculty at University of Utah (~10 years), now assistant arts professor at NYU; hosts weekly Twitch stream on games user research; president of Digital Games Research Association; vice president of Global Game Jam; co-director of IGDA games user research SIG; per host, identifies with and encourages engagement in furry/gamer culture; wife of Dr. Andrew Guajardo.
-
-Evidence Count: 3
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2217.1, A-2218.1, C-3175, C-3176, C-3184, N-1214, N-69*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Chief Medical Examiner of Utah; per host, promoted Dr. Andrew Guajardo to deputy chief in 2024; per host, has since left the position.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2166*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Security team member; testified at preliminary hearing about the ER scene including cutting Charlie's shirt and discussing drugs with staff.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2219.1, C-3177, N-2165*
-
-**N-1211** UVU Campus Familiarity Question
-
-Security team member; per host, received scrubs from Mikey McCoy and claims he did CPR; subject of cross-claim dispute with Brian Harpole's account.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1210, N-1212, N-2165*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Per host, provided scrubs to Frank Turek after the security team's clothing became unusable.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1211, N-2165*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Security team member; per Brian Harpole's account, holding Charlie during the car ride.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1210, N-2165*
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Boyfriend of alleged shooter Tyler Robinson; per host, indicated in interview that Tyler was into gaming not politics; per host, uses "Luna" as an avatar rather than as trans identity.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-69, N-2167*
-
 **N-2164** Timpanogos Hospital Evacuation Tip
 
 Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. — over two hours before Charlie Kirk's shooting.
@@ -231,7 +143,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1210, N-1211, N-1212, N-1213, C-3191*
+*Related: C-3191*
 
 **N-2166** Autopsy Timeline Anomaly
 
@@ -310,9 +222,9 @@ Claim Timestamp: 00:19:46
 Claim: Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt with scissors, then discussed drug administration with the medical staff, then exited the room and guarded the door.
 
 Anchored Artifacts: A-2219.1
-Mentions: N-1
+Mentions: N-1, N-424
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.
 
@@ -498,7 +410,7 @@ Claim: Per host's assertion (based on an unnamed tip), the FBI took security tea
 
 Anchored Artifacts: None displayed (verbal tip)
 
-Related Nodes: N-1210, N-1211, N-2165
+Related Nodes: N-2165
 
 Investigative Direction: Obtain defense discovery materials or testimony from security team members.
 

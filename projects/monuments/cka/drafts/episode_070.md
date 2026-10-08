@@ -279,7 +279,7 @@ Claim Timestamp: 00:12:11–00:12:25
 Claim: The Jesse Watters interview segment read aloud on air contains Erika Kirk stating she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.
 
 Anchored Artifacts: A-1746.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-313
 Investigative Direction: Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.
 
 **C-2318** Erika told Jesse Watters she landed in Utah and went straight to the hospital
@@ -289,7 +289,7 @@ Claim Timestamp: 00:19:42–00:20:30
 Claim: The Jesse Watters interview segment read aloud on air contains Erika Kirk stating that after landing in Utah, she went straight to the hospital.
 
 Anchored Artifacts: A-1746.2
-Mentions: N-2
+Mentions: N-2, N-313
 Related Nodes: N-1565
 Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.
 
@@ -310,7 +310,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
 
 Anchored Artifacts: A-1747.1
-Mentions: N-789, N-903
+Mentions: N-789, N-903, N-42
 Related Nodes: N-1563
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
@@ -321,7 +321,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-903
+Mentions: N-903, N-1
 Related Nodes: N-1563
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.
 
@@ -332,7 +332,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-789, N-903
+Mentions: N-789, N-903, N-42
 Investigative Direction: Verify Marina Munz's title and organizational role via TPUSA public records.
 
 **C-2323** Tim Dillon clip describes political performance as "fake"

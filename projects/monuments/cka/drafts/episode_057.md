@@ -405,6 +405,7 @@ Claim Timestamp: 00:02:53
 Claim: The host references (from earlier episodes, via prior text-message display) a text exchange in which Charlie Kirk told Candace Owens he was a time traveler and that he had to "find" her.
 
 Anchored Artifacts: A-1633.1
+Mentions: N-3, N-1
 
 Related Nodes: N-1486
 
@@ -419,6 +420,7 @@ Claim Timestamp: 00:20:33
 Claim: The host presents Charlie Kirk's assertion (via referenced text messages) that from the moment he signed onto Turning Point USA, he knew he would die young and that his death would be related to Turning Point USA.
 
 Anchored Artifacts: A-1633.1
+Mentions: N-1
 
 Related Nodes: N-1486
 

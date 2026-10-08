@@ -33,9 +33,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-3",
-            "N-1214",
-            "N-1215"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,8 +77,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-3",
-            "N-1211"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -101,9 +98,7 @@
             "C-3423"
           ],
           "related_nodes": [
-            "N-3",
-            "N-1211",
-            "N-1213"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +183,6 @@
             "C-3410"
           ],
           "related_nodes": [
-            "N-1211",
             "N-3"
           ],
           "tags": [],
@@ -207,7 +201,6 @@
             "C-3411"
           ],
           "related_nodes": [
-            "N-1211",
             "N-3"
           ],
           "tags": [],
@@ -234,7 +227,6 @@
             "C-3412"
           ],
           "related_nodes": [
-            "N-1212",
             "N-3"
           ],
           "tags": [],
@@ -286,9 +278,7 @@
           "related_claims": [
             "C-3425"
           ],
-          "related_nodes": [
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -312,9 +302,7 @@
           "related_claims": [
             "C-3425"
           ],
-          "related_nodes": [
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -382,10 +370,7 @@
             "C-3422",
             "C-3423"
           ],
-          "related_nodes": [
-            "N-1211",
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -531,119 +516,92 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Musician; correspondent with host via text (A-2354.1) and tweet (A-2354.2); subject of host's \"Power\" interpretive analysis (A-2357.1, A-2351.3); performer at Chicago concert during anniversary week (A-2360.1).",
-      "related_artifacts": [
-        "A-2351.3",
-        "A-2351.4",
-        "A-2354.1",
-        "A-2354.2",
-        "A-2357.1",
-        "A-2360.1"
-      ],
-      "related_claims": [
-        "C-3410",
-        "C-3411",
-        "C-3413",
-        "C-3422",
-        "C-3423",
-        "C-3425"
-      ],
-      "tags": [],
-      "evidence_count": 6,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Subject of tweet artifact (A-2355.1); political figure referenced in host's \"Power\" interpretation.",
-      "related_artifacts": [
-        "A-2355.1"
-      ],
-      "related_claims": [
-        "C-3412"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Musician; co-performer of \"Ghost Town\" with Ye at Chicago concert (A-2360.1).",
-      "related_artifacts": [
-        "A-2351.4",
-        "A-2360.1"
-      ],
-      "related_claims": [
-        "C-3413",
-        "C-3423"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Subject of host's verbal/journal claim that he \"slid into\" Charlie's studio within days of his death with $1 million, claiming to \"pick up the bloody mic\" (A-2351.1). No external artifact supports the claim in this episode.",
-      "related_artifacts": [
-        "A-2351.1"
-      ],
-      "related_claims": [
-        "C-3416"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Speaker at Charlie Kirk's memorial per host's journal entry (A-2351.1).",
-      "related_artifacts": [
-        "A-2351.1"
-      ],
-      "related_claims": [
-        "C-3420"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-56",
+      "ref": "N-56",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-182",
+      "ref": "N-182",
+      "name": "Susie Wiles",
+      "type": "person",
+      "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],

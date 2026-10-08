@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1639, N-1640, N-1641
-  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  - Reused Nodes Appearing: N-1, N-2
   - (see registers)
 
 ## 6. Meme Register
@@ -46,7 +46,7 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1903, A-1904, A-1905, A-1906, A-1907, A-1908, A-1909, A-1910, A-1911
   - Claim Range: C-2581–C-2608
-  - New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  - New People Nodes Introduced: none (Wave 2: local ids removed)
   - New Investigation Target Nodes Introduced: N-1639, N-1640, N-1641
   - Existing Nodes Reused: N-1, N-2, N-3
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:05:42–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588, N-1212, N-1213, N-1214, N-1215, N-1641*
+*Related: C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588, N-1641*
 
 ---
 
@@ -228,123 +228,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Subject of A-1905.1 (UVU audio clip). Transcript references him inconsistently as both "Frank Turek" and "Frank Churik"; chapter title uses "Frank Turek." Christian apologist and TPUSA affiliate who described the moment of Charlie Kirk's death being communicated to Erika.
-
-Evidence Count: 1
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1905.1, C-2591, C-2592, C-2593*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Interviewer in the audio clip A-1904.1, who asked Erika Kirk whether she believed Tyler Robinson murdered her husband.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1904.1, C-2589*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Washington County Sheriff who held press conferences (A-1908.1 and A-1908.2) describing the apprehension of Tyler Robinson, and who subsequently resigned (A-1910.1). May have an existing node from prior episodes covering his earlier statements.
-
-Evidence Count: 3
-Claim Count: 8
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1908.1, A-1908.2, A-1910.1, C-2598, C-2599, C-2600, C-2601, C-2602, C-2605, C-2606, C-2607, C-2608*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Retired Washington County deputy referenced in Sheriff Brooksby's press conferences as the family friend who contacted the Sheriff's Office about Tyler Robinson. Name "Mike Mitchell" is supplied by host narration rather than by the Brooksby clips themselves; the clips describe him only as "a friend of mine" and "a retired Washington County deputy."
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1908.2, C-2601*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Governor of Utah; subject of A-1907.1 (press conference clip). Made statements regarding Robinson's alleged confession.
-
-Evidence Count: 1
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1907.1, C-2595, C-2596, C-2597*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Identified in A-1903.1 (Guardian article) as a ringleader of the alleged Athanor lodge conspiracy who allegedly organized the hits on Marie-Hélène Dini.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low (separate trial)
-
-*Related: A-1903.1, C-2587*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Identified in A-1903.1 (Guardian article) as a co-conspirator alongside Jean-Luc Baguer and Daniel Balou in the Athanor lodge case.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low (separate trial)
-
-*Related: A-1903.1*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Retired intelligence officer named in A-1903.1 (Guardian article) who allegedly told the hitmen they were acting on behalf of the French government; reportedly attempted suicide while in prison.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low (separate trial)
-
-*Related: A-1903.1, C-2587, C-2588*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Business coach identified in A-1903.1 (Guardian article) as the target of the failed 2020 contract killing that triggered the Athanor lodge trial.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low (separate trial)
-
-*Related: A-1903.1, C-2584, C-2586*
-
----
-
 **N-1639** Tyler Robinson Confession Narrative Discrepancy
 
 Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson "confessed or implied" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.
@@ -429,7 +312,7 @@ Claim Timestamp: 00:08:40
 Claim: The case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1215, N-1641
+Related Nodes: N-1641
 Investigative Direction: Verify date and circumstances of arrest via French press archives.
 
 ---
@@ -453,7 +336,7 @@ Claim Timestamp: 00:09:40
 Claim: The hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1215, N-1641
+Related Nodes: N-1641
 Investigative Direction: Verify whether this allegation appears in formal charges or witness statements.
 
 ---
@@ -465,7 +348,7 @@ Claim Timestamp: 00:10:32
 Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1212, N-1213, N-1214, N-1641
+Related Nodes: N-1641
 Investigative Direction: Verify role assignments via French court documents.
 
 ---
@@ -477,7 +360,7 @@ Claim Timestamp: 00:11:16
 Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1214, N-1641
+Related Nodes: N-1641
 Investigative Direction: Verify incident via French press reporting or court records.
 
 ---
@@ -489,7 +372,7 @@ Claim Timestamp: 00:17:32
 Claim: In an interview with Bari Weiss, Erika Kirk stated "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
 
 Anchored Artifacts: A-1904.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-69, N-444
 Investigative Direction: Cross-check with the published version of the Bari Weiss interview.
 
 ---
@@ -513,7 +396,7 @@ Claim Timestamp: 00:19:47
 Claim: Frank Turek stated he was present when a doctor informed him of Charlie Kirk's death and that he then needed to "talk to Erika."
 
 Anchored Artifacts: A-1905.1
-Mentions: N-2
+Mentions: N-2, N-1, N-16
 Investigative Direction: Verify against other witness accounts of the moment.
 
 ---
@@ -525,7 +408,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated that Stacy Sheridan and Katherine LaCastro were with Erika Kirk when she was informed of Charlie Kirk's death.
 
 Anchored Artifacts: A-1905.1
-Mentions: N-2
+Mentions: N-2, N-264, N-1, N-16
 Investigative Direction: Verify against other contemporaneous accounts.
 
 ---
@@ -537,6 +420,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated Mikey was on the phone arranging a plane to retrieve Erika.
 
 Anchored Artifacts: A-1905.1
+Mentions: N-16
 Related Nodes:
 Investigative Direction: Cross-check with other accounts of plane arrangements.
 
@@ -549,7 +433,7 @@ Claim Timestamp: 00:15:25
 Claim: In a November 2025 tweet, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.
 
 Anchored Artifacts: A-1906.1
-Mentions: N-3
+Mentions: N-3, N-1
 Related Nodes: N-1640
 Investigative Direction: Locate the original tweet and any subsequent corroboration or denial.
 
@@ -562,7 +446,7 @@ Claim Timestamp: 00:40:25
 Claim: Governor Cox stated that on the evening of September 11th, a family member of Tyler Robinson reached out to a family friend.
 
 Anchored Artifacts: A-1907.1
-Mentions: N-70
+Mentions: N-70, N-69
 Related Nodes: N-1639
 Investigative Direction: Cross-reference with Brooksby's account.
 
@@ -613,6 +497,7 @@ Claim Timestamp: 00:36:15
 Claim: Sheriff Brooksby stated he was told that Tyler Robinson had potential suicidal ideations and was en route to a remote area in Washington County.
 
 Anchored Artifacts: A-1908.1
+Mentions: N-69
 Related Nodes: N-1639
 Investigative Direction: Verify against other sources.
 
@@ -637,7 +522,8 @@ Claim Timestamp: 00:41:56
 Claim: Sheriff Brooksby stated that within the hour, his friend drove Tyler Robinson and his parents to Brooksby's office, where Robinson was greeted by plainclothes detectives.
 
 Anchored Artifacts: A-1908.2
-Related Nodes: N-1210, N-1639
+Mentions: N-69
+Related Nodes: N-1639
 Investigative Direction: Verify against court records and other accounts.
 
 ---
@@ -649,6 +535,7 @@ Claim Timestamp: 00:42:54
 Claim: Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on his house and fearful of being shot by law enforcement, which was part of the negotiation to bring him in.
 
 Anchored Artifacts: A-1908.2
+Mentions: N-69
 Related Nodes: N-1639
 Investigative Direction: Compare with Cox's framing of an outright confession (C-2597).
 
@@ -685,6 +572,7 @@ Claim Timestamp: 00:28:15
 Claim: Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
 
 Anchored Artifacts: A-1910.1
+Mentions: N-437
 Related Nodes:
 Investigative Direction: Obtain official Washington County Commission statement and any press release explaining the resignation.
 
@@ -739,10 +627,10 @@ These two artifact-anchored accounts cannot comfortably coexist. Cox's framing p
 
 # Optional Flags
 
-- **Possible transcription error:** Transcript uses both "Frank Churik" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek (N-1207).
+- **Possible transcription error:** Transcript uses both "Frank Churik" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek (former local id 1207).
 - **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erica Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
-- **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox (N-1211).
-- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-437 and Spencer Cox is N-70; the draft placeholders N-1209 and N-1211 never denoted these people and were retargeted.
+- **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox (former local id 1211).
+- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-437 and Spencer Cox is N-70; the draft placeholders former local id 1209 and former local id 1211 never denoted these people and were retargeted.
 - **Artifact verbally referenced but not shown:** The host references several items without showing or reading them in this episode, including: Joe Kent's statements about Kash Patel blocking international investigation; Kash Patel's press conference using "33"; the "witch article" from the Philippines; the DeMolay club historical background; the "tunnels at Disney" stories; the "spell" website. None are inscribed as claims because they are not artifact-presented in this episode.
 - **Host assertion lacking artifact:** The host asserts that Erika Kirk's lawyer admitted they had no more evidence than the public has seen. This claim is not anchored to any artifact in this episode and is therefore not inscribed as a Claim. Flagging as Host Assertion Without Artifact.
 - **Host assertion lacking artifact:** The host asserts that "the feds planted the gun" and that the bomb dogs could not locate it. This claim is sourced only to anonymous "people with first-hand intimate knowledge"; no artifact supports it in this episode. Flagging as Host Assertion Without Artifact.

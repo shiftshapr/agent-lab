@@ -38,7 +38,7 @@
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-2193, N-2194, N-2195
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-46
+  - Reused Nodes Appearing: N-46
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -141,7 +141,7 @@ Video Timestamp: 01:01:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3287, N-1211, N-46*
+*Related: C-3287, N-46*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 01:02:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3288, N-1212*
+*Related: C-3288*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 01:04:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3285, N-1210*
+*Related: C-3285*
 
 **A-2280.2** Rachel Wilson X Post — Acknowledging Owens Knew Case Details Better
 
@@ -179,7 +179,7 @@ Video Timestamp: 01:08:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3284, N-1210*
+*Related: C-3284*
 
 ---
 
@@ -226,72 +226,6 @@ Confidence Level: Medium
 ---
 
 ## IV. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Debate participant; central subject of artifact-backed claims regarding opening statement, charge identification, confidence estimate, and post-debate conduct.
-
-Evidence Count: 8
-Claim Count: 8
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2277.1, A-2277.2, A-2277.3, A-2277.4, A-2277.5, A-2277.6, A-2277.7, A-2281.1, A-2282.1, A-2283.1, C-3277, C-3278, C-3279, C-3280, C-3282, C-3283, C-3286, C-3289*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Moderator of the debate referenced throughout the episode; named in artifact-anchored debate context.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2277, A-2277.6, C-3281*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Named participant in post-debate phone call with Wilson; previously known to the series.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2281.1, C-3282*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Author of two artifact-anchored X posts reacting to the debate.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2280.1, A-2280.2, C-3284, C-3285*
-
-**N-1211** UVU Campus Familiarity Question
-
-Creator of the artifact "Jars Wide Shut" AI video reacting to the debate.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2278.1, C-3287*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Creator of the artifact "Stages of Debate Grief" meme reacting to the debate.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2279.1, C-3288*
 
 **N-2193** September 9, 2025 Message Nature Discrepancy
 
@@ -346,7 +280,7 @@ Claim Timestamp: 00:18:36
 Claim: Andrew Wilson's debate opening statement was read aloud from a mobile phone and concerned "never-before-seen messages" from Charlie Kirk to his security team dated September 9, 2025.
 
 Anchored Artifacts: A-2277.1
-Mentions: N-46
+Mentions: N-46, N-1
 
 Related Nodes: N-2193, N-2194
 
@@ -359,7 +293,7 @@ Claim Timestamp: 00:22:37
 Claim: When asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered 75–85%.
 
 Anchored Artifacts: A-2277.2
-Mentions: N-46
+Mentions: N-46, N-69, N-1
 
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
@@ -371,7 +305,7 @@ Claim Timestamp: 00:44:42
 Claim: When challenged during the debate to name any of the seven charges Tyler Robinson faces, Andrew Wilson could not do so and ultimately named a charge (murder) that Owens stated was not on the list.
 
 Anchored Artifacts: A-2277.4
-Mentions: N-46
+Mentions: N-46, N-69
 
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
@@ -395,7 +329,7 @@ Claim Timestamp: 00:17:24
 Claim: The discussion between Candace Owens and Andrew Wilson was moderated by Patrick Bet-David (PBD).
 
 Anchored Artifacts: A-2277, A-2277.6
-Mentions: N-46
+Mentions: N-46, N-3
 
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
@@ -407,7 +341,7 @@ Claim Timestamp: 01:06:45
 Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew Wilson and asked whether Wilson had been provided hair and makeup services, to which Wilson replied he would have refused them.
 
 Anchored Artifacts: A-2281.1
-Mentions: N-46
+Mentions: N-46, N-406
 
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
@@ -419,6 +353,7 @@ Claim Timestamp: 01:00:00
 Claim: The Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, hitting approximately 34% mid-debate.
 
 Anchored Artifacts: A-2282.1
+Mentions: N-69
 
 Related Nodes:
 
@@ -431,9 +366,9 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
-Mentions: N-46
+Mentions: N-46, N-3
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp.
 
@@ -444,8 +379,9 @@ Claim Timestamp: 01:04:09
 Claim: Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.
 
 Anchored Artifacts: A-2280.1
+Mentions: N-3
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.
 
@@ -456,7 +392,7 @@ Claim Timestamp: 00:42:35
 Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed it. The Tyler Robinson dispense defense is on absolute life support" and added the reply "Picked a hell of a week."
 
 Anchored Artifacts: A-2283.1
-Mentions: N-46
+Mentions: N-46, N-69
 
 Related Nodes: N-2194
 
@@ -469,9 +405,9 @@ Claim Timestamp: 01:01:26
 Claim: An AI-generated video titled "Jars Wide Shut," depicting Erika Kirk confronting Andrew Wilson, was created by the X account @whereforbidden and circulated as a post-debate reaction.
 
 Anchored Artifacts: A-2278.1
-Mentions: N-46
+Mentions: N-46, N-2
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series.
 
@@ -484,7 +420,7 @@ Claim: A five-panel "Stages of Debate Grief" meme, with each stage attributed to
 Anchored Artifacts: A-2279.1
 Mentions: N-46
 
-Related Nodes: N-1212
+Related Nodes:
 
 Investigative Direction: Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.
 
@@ -495,7 +431,7 @@ Claim Timestamp: 00:19:49
 Claim: During his debate opening, Andrew Wilson asserted that he possessed Charlie Kirk's cell phone.
 
 Anchored Artifacts: A-2277.1
-Mentions: N-46
+Mentions: N-46, N-1
 
 Related Nodes: N-2193
 

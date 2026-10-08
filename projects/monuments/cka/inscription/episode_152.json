@@ -82,11 +82,7 @@
             "C-3452",
             "C-3453"
           ],
-          "related_nodes": [
-            "N-1209",
-            "N-1210",
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -102,10 +98,7 @@
           "related_claims": [
             "C-3452"
           ],
-          "related_nodes": [
-            "N-1209",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -129,10 +122,7 @@
           "related_claims": [
             "C-3452"
           ],
-          "related_nodes": [
-            "N-1209",
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -148,9 +138,7 @@
           "related_claims": [
             "C-3452"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -166,9 +154,7 @@
           "related_claims": [
             "C-3452"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -193,9 +179,7 @@
             "C-3450",
             "C-3451"
           ],
-          "related_nodes": [
-            "N-1212"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -219,9 +203,7 @@
           "related_claims": [
             "C-3457"
           ],
-          "related_nodes": [
-            "N-1216"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -246,7 +228,6 @@
             "C-3457"
           ],
           "related_nodes": [
-            "N-1216",
             "N-2"
           ],
           "tags": [],
@@ -273,11 +254,7 @@
             "C-3458",
             "C-3459"
           ],
-          "related_nodes": [
-            "N-1217",
-            "N-1218",
-            "N-1219"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -301,24 +278,7 @@
           "related_claims": [
             "C-3460"
           ],
-          "related_nodes": [
-            "N-2",
-            "N-1220",
-            "N-1221",
-            "N-1222",
-            "N-1223",
-            "N-1224",
-            "N-1225",
-            "N-1226",
-            "N-1227",
-            "N-1228",
-            "N-1229",
-            "N-1230",
-            "N-1231",
-            "N-1232",
-            "N-1233",
-            "N-1234"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -330,46 +290,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1233",
-      "ref": "N-1233",
-      "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
-      "description": "Among those questioned by feds on September 10; works on Ukrainian sex trafficking awareness (per host).",
-      "related_artifacts": [
-        "A-2382.1"
-      ],
-      "related_claims": [
-        "C-3460"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1234",
-      "ref": "N-1234",
-      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
-      "description": "Researcher whose work is cited as source for Judge Graph clip and Michael George Carl affidavit material.",
-      "related_artifacts": [
-        "A-2375.1",
-        "A-2378.1"
-      ],
-      "related_claims": [
-        "C-3446",
-        "C-3450"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2321",
@@ -390,11 +310,7 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1212",
-        "N-1210"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -465,6 +381,102 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-176",
+      "ref": "N-176",
+      "name": "Mike Mitchell",
+      "type": "person",
+      "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-279",
+      "ref": "N-279",
+      "name": "Robert Kraft",
+      "type": "person",
+      "description": "Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -480,7 +492,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:33–00:03:11",
-      "investigative_direction": "Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*"
+      "investigative_direction": "Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*",
+      "mentions_person_refs": [
+        "N-410"
+      ]
     },
     {
       "@type": "Claim",
@@ -491,9 +506,7 @@
       "anchored_artifacts": [
         "A-2375.1"
       ],
-      "related_nodes": [
-        "N-1234"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:25–00:10:50",
       "investigative_direction": "Locate the full source clip and verify date / context; cross-check with court biographical records.*"
@@ -506,12 +519,15 @@
       "claim": "The episode presents that Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was central in the Tyler Robinson surrender process.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1213",
         "N-2321"
       ],
       "tags": [],
       "claim_timestamp": "00:11:09",
-      "investigative_direction": "Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*"
+      "investigative_direction": "Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*",
+      "mentions_person_refs": [
+        "N-69",
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -521,7 +537,6 @@
       "claim": "The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1214",
         "N-2321"
       ],
       "tags": [],
@@ -535,12 +550,13 @@
       "label": "George Zinn had child pornography pertaining to a 5-year-old on his phone",
       "claim": "The episode presents that following George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1215"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:41",
-      "investigative_direction": "Obtain New York Post article referenced and court records for George Zinn's case.*"
+      "investigative_direction": "Obtain New York Post article referenced and court records for George Zinn's case.*",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -552,14 +568,15 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-1212",
-        "N-1215",
-        "N-1234",
         "N-2321"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
-      "investigative_direction": "Pull the search warrant records from Utah court filings to verify signatory.*"
+      "investigative_direction": "Pull the search warrant records from Utah court filings to verify signatory.*",
+      "mentions_person_refs": [
+        "N-1",
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -571,7 +588,6 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2321"
       ],
       "tags": [],
@@ -592,13 +608,14 @@
         "A-2377.3"
       ],
       "related_nodes": [
-        "N-1210",
-        "N-1211",
         "N-2321"
       ],
       "tags": [],
       "claim_timestamp": "00:18:24–00:20:34",
-      "investigative_direction": "Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*"
+      "investigative_direction": "Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*",
+      "mentions_person_refs": [
+        "N-272"
+      ]
     },
     {
       "@type": "Claim",
@@ -608,7 +625,6 @@
       "claim": "The episode asserts that the Utah ICAC works under the Utah Attorney General's Office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1210",
         "N-2321"
       ],
       "tags": [],
@@ -663,9 +679,7 @@
         "A-2379.1",
         "A-2380.1"
       ],
-      "related_nodes": [
-        "N-1216"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:56–00:41:02",
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
@@ -682,10 +696,7 @@
       "anchored_artifacts": [
         "A-2381.1"
       ],
-      "related_nodes": [
-        "N-1217",
-        "N-1218"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:58–00:45:32",
       "investigative_direction": "Identify the specific tour stop date and verify the full unedited speech.*"
@@ -697,14 +708,13 @@
       "label": "Robert Kraft lobbied for Macklemore's removal from the Ed Sheeran tour",
       "claim": "The episode presents that Robert Kraft led a lobbying effort that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1217",
-        "N-1218",
-        "N-1219"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:38–00:48:56",
-      "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*"
+      "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*",
+      "mentions_person_refs": [
+        "N-279"
+      ]
     },
     {
       "@type": "Claim",
@@ -716,20 +726,6 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-1220",
-        "N-1221",
-        "N-1222",
-        "N-1223",
-        "N-1224",
-        "N-1225",
-        "N-1226",
-        "N-1227",
-        "N-1228",
-        "N-1229",
-        "N-1230",
-        "N-1231",
-        "N-1232",
-        "N-1233",
         "N-2322"
       ],
       "tags": [],
@@ -746,12 +742,14 @@
       "label": "Mike Mitchell convinced the Robinson household to turn Tyler Robinson in despite Robinson's denial of murder",
       "claim": "The episode presents that Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:09",
-      "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*"
+      "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*",
+      "mentions_person_refs": [
+        "N-69",
+        "N-176"
+      ]
     },
     {
       "@type": "Claim",
@@ -760,9 +758,7 @@
       "label": "Officer Bagley's body cam footage went off approximately 25 minutes after activation",
       "claim": "The episode presents that Bagley's body cam footage stopped approximately 25 minutes after activation.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:56",
       "investigative_direction": "Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*"
@@ -774,12 +770,13 @@
       "label": "George Zinn was sentenced for child sex crimes after his arrest on September 10",
       "claim": "The episode presents that George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.",
       "anchored_artifacts": [],
-      "related_nodes": [
-        "N-1215"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:41",
-      "investigative_direction": "Pull George Zinn's Utah court records for sentencing outcomes.*"
+      "investigative_direction": "Pull George Zinn's Utah court records for sentencing outcomes.*",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -800,5 +797,29 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-25",
+      "ref": "M-25",
+      "canonical_term": "Iron Sharpens Iron",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 152,
+          "video_timestamp": "00:56:43",
+          "speaker_node_ref": "N-3",
+          "quote": "about being a source or providing information. And it does seem that iron sharpens iron uh proverbial proverbally and then just bravery inspires other",
+          "context": "Later reuse of Iron Sharpens Iron in CKA seq 152.",
+          "confidence": "high",
+          "tags": [
+            "charlie",
+            "debate",
+            "memorial",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

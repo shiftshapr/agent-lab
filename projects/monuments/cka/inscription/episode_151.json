@@ -458,6 +458,150 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-135",
+      "ref": "N-135",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-965",
+      "ref": "N-965",
+      "name": "Katie Hobbs",
+      "type": "person",
+      "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -513,7 +657,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:46",
-      "investigative_direction": "Pull original tweet; verify which \"neighboring buildings\"; confirm whether on-campus surveillance footage is or is not in TPUSA possession."
+      "investigative_direction": "Pull original tweet; verify which \"neighboring buildings\"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-965"
+      ]
     },
     {
       "@type": "Claim",
@@ -529,7 +677,9 @@
       "claim_timestamp": "00:45:08",
       "investigative_direction": "Pull original bookmark record; await release of Vanity Fair article to verify prediction's accuracy.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3",
+        "N-224"
       ]
     },
     {
@@ -544,7 +694,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:55",
-      "investigative_direction": "Pull full Alex Clark episode and verify transcript against the trailer excerpt."
+      "investigative_direction": "Pull full Alex Clark episode and verify transcript against the trailer excerpt.",
+      "mentions_person_refs": [
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",
@@ -558,7 +711,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:55",
-      "investigative_direction": "Pull full Alex Clark episode; verify quotation against the trailer."
+      "investigative_direction": "Pull full Alex Clark episode; verify quotation against the trailer.",
+      "mentions_person_refs": [
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",
@@ -572,7 +728,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:47–00:11:50",
-      "investigative_direction": "Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride."
+      "investigative_direction": "Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-1",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -586,7 +747,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:54",
-      "investigative_direction": "Pull the full Boreing/Turek episode; compare to prior Turek statements on the car ride timeline."
+      "investigative_direction": "Pull the full Boreing/Turek episode; compare to prior Turek statements on the car ride timeline.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -618,7 +782,8 @@
       "claim_timestamp": "00:40:10",
       "investigative_direction": "Identify which \"friends\" funded the reward; verify any law enforcement bulletin.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-42"
       ]
     },
     {
@@ -635,7 +800,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:10",
-      "investigative_direction": "Compare against any public Commit 100 signup metrics or TP Action disclosures."
+      "investigative_direction": "Compare against any public Commit 100 signup metrics or TP Action disclosures.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -663,7 +831,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:40–00:17:56",
-      "investigative_direction": "Obtain uncropped / unenhanced source frames; biometric and clothing comparison."
+      "investigative_direction": "Obtain uncropped / unenhanced source frames; biometric and clothing comparison.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -691,7 +862,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:51–00:20:41",
-      "investigative_direction": "Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives."
+      "investigative_direction": "Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives.",
+      "mentions_person_refs": [
+        "N-410"
+      ]
     },
     {
       "@type": "Claim",
@@ -727,7 +901,9 @@
       "claim_timestamp": "00:37:35–00:43:46",
       "investigative_direction": "Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.",
       "mentions_person_refs": [
-        "N-37"
+        "N-37",
+        "N-42",
+        "N-2"
       ]
     },
     {
@@ -742,7 +918,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:02–00:36:42",
-      "investigative_direction": "Note as host stance against displayed source; cross-reference with theological commentary."
+      "investigative_direction": "Note as host stance against displayed source; cross-reference with theological commentary.",
+      "mentions_person_refs": [
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",

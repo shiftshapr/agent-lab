@@ -11,8 +11,9 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-406, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+  - New Nodes Introduced:  N-406, N-408, N-410, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave2): N-2387
   N-70
 
 ---
@@ -36,7 +37,7 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734, C-3735
-- **New Nodes Introduced:** N-406, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+- **New Nodes Introduced:** N-406, N-408, N-410, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk; preserved as Erika per transcript), N-3 (Candace Owens), N-50 (Tucker Carlson), N-70 (Governor Cox)
 
 ---
@@ -163,7 +164,7 @@ Video Timestamp: 00:41:11–00:42:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1730, N-70, N-412, N-1325*
+*Related: C-1730, N-70, N-2387, N-1325*
 
 ---
 
@@ -332,7 +333,10 @@ Investigative Pressure: Low
 
 ---
 
-**N-412** Baker Tilly (Accounting Firm)
+**N-2387** Baker Tilly
+
+Node Type: Organization
+Organization Kind: company
 
 External auditor cited in the Wolves and Finance analysis as having issued a clean audit opinion for TPUSA and affiliates. Matters because of the audit-vs-missing-990 tension.
 
@@ -395,7 +399,7 @@ Claim Count: 4
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-70, N-412*
+*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-70, N-2387*
 
 ---
 
@@ -460,7 +464,7 @@ Claim Timestamp: 00:02:22–00:03:32
 Claim: Rob McCoy, in a recorded clip played during the episode, read Romans 12:15–16 and urged the audience to mourn with the Kirk family rather than engage in public speculation about Charlie Kirk.
 
 Anchored Artifacts: A-1415.1
-Mentions: N-3, N-45
+Mentions: N-3, N-45, N-1
 
 
 Investigative Direction: Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.
@@ -474,7 +478,7 @@ Claim Timestamp: 00:08:45–00:10:00
 Claim: Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks about Charlie Kirk being "betrayed" effectively accused Erika Kirk of murdering her husband.
 
 Anchored Artifacts: A-1416.1, A-1417.1
-Mentions: N-2, N-3, N-406
+Mentions: N-2, N-3, N-406, N-1
 
 
 Investigative Direction: Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript.
@@ -635,7 +639,7 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-2
+Mentions: N-2, N-753
 
 Related Nodes: N-1325
 
@@ -650,7 +654,7 @@ Claim Timestamp: 00:37:29–00:39:37
 Claim: "Wolves and Finance" video cites Schedule I of Turning Point USA's FY2024 Form 990 showing $8,560,625 transferred to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-2
+Mentions: N-2, N-753
 
 Related Nodes: N-1325
 
@@ -665,7 +669,7 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: "Wolves and Finance" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-753
 
 Related Nodes: N-1325
 
@@ -695,7 +699,7 @@ Claim Timestamp: 00:42:57–00:43:57
 Claim: "Wolves and Finance" video and host confirm that Erika Kirk became CEO of Turning Point USA on September 18, 2025, eight days after Charlie Kirk's death.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-753
 
 Related Nodes: N-1325
 

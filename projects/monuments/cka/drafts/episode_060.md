@@ -279,7 +279,7 @@ Claim Timestamp: 00:28:43
 Claim: Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka.
 
 Anchored Artifacts: A-1654.1
-Mentions: N-1, N-61
+Mentions: N-1, N-61, N-3
 
 
 Investigative Direction: Obtain archived copy of the Dave Rubin X post and corroborate the original wording and posting timestamp.
@@ -293,7 +293,7 @@ Claim Timestamp: 00:31:06
 Claim: Candace Owens states that her husband has no memory of any discussion of Charlie Kirk at the dinner and that her remark about Jared and Ivanka was a light joke about their perceived perfection, not a "rant."
 
 Anchored Artifacts: A-1654.1
-Mentions: N-61
+Mentions: N-61, N-3, N-1
 
 
 Investigative Direction: Compare Rubin's account with contemporaneous messages, third-party witnesses, or recordings if any exist; document any additional corroborating witnesses.
@@ -349,7 +349,7 @@ Claim Timestamp: 01:08:11
 Claim: Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.
 
 Anchored Artifacts: A-1657.1
-Mentions: N-2, N-37
+Mentions: N-2, N-37, N-326, N-42
 
 Related Nodes: N-1501
 
@@ -392,7 +392,7 @@ Claim Timestamp: 01:16:11
 Claim: A prior Baron Coleman YouTube video shows Coleman confronting commenter "Joe" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.
 
 Anchored Artifacts: A-1658.1, A-1659.1
-Mentions: N-552
+Mentions: N-552, N-597
 
 
 Investigative Direction: Locate the full Coleman confrontation clip and the referenced "Operation Debunk Mitch" series; document context as part of Coleman's investigative output.

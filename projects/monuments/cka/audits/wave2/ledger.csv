@@ -1,0 +1,32 @@
+episode,id,action,reason
+1,N-1,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-2,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-42,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-56,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-1000,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+1,N-3,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+2,N-35,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+2,N-50,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+2,N-5,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+3,N-3,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+3,N-59,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+3,N-70,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+4,N-45,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+4,N-67,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+4,N-70,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+5,N-84,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+7,N-16,ADD_REUSED,"register row present but missing from ledger (hostile NODE_NOT_IN_LEDGER, LED-P1-1)"
+9,N-1003,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+10,N-43,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+14,N-6,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+67,N-3,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+79,N-5,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+92,N-4,MOVE_NEW_TO_REUSED,episode_000 baseline id; not a first introduction (LED-P2-2 / Transit N5)
+96,"N-612, N-617, N-619, N-622",HOLE_MINTED_WAVE2,"persons minted into free holes, first-introduction order"
+99,"N-623..N-627, N-2392",HOLE_MINTED_WAVE2,persons minted into free holes; Havas Media org
+24,"N-2385, N-2386",HOLE_MINTED_WAVE2,retyped orgs
+33,N-2387,HOLE_MINTED_WAVE2,retyped org
+41,N-2388,HOLE_MINTED_WAVE2,retyped org
+47,N-2389,HOLE_MINTED_WAVE2,retyped org
+51,"N-2390, N-2391",HOLE_MINTED_WAVE2,retyped orgs
+80+,spray/local ids,LEDGER_STRIP,uncited spray ids and local ids removed from New/Reused/Existing ledger lines (see related_spray.csv ledger_reuse_removed)

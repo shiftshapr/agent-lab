@@ -604,6 +604,86 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Host joke about booking Theo Von and Tim Dillon when super pregnant.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -622,7 +702,8 @@
       "investigative_direction": "Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.",
       "mentions_person_refs": [
         "N-1",
-        "N-16"
+        "N-16",
+        "N-3"
       ]
     },
     {
@@ -692,7 +773,8 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.",
       "mentions_person_refs": [
-        "N-389"
+        "N-389",
+        "N-45"
       ]
     },
     {
@@ -711,7 +793,8 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.",
       "mentions_person_refs": [
-        "N-389"
+        "N-389",
+        "N-45"
       ]
     },
     {
@@ -747,7 +830,8 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.",
       "mentions_person_refs": [
-        "N-389"
+        "N-389",
+        "N-45"
       ]
     },
     {
@@ -764,7 +848,9 @@
       "claim_timestamp": "00:40:32",
       "investigative_direction": "Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-50",
+        "N-3"
       ]
     },
     {
@@ -783,7 +869,9 @@
       "claim_timestamp": "00:46:40",
       "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.",
       "mentions_person_refs": [
-        "N-314"
+        "N-314",
+        "N-102",
+        "N-443"
       ]
     },
     {
@@ -817,7 +905,8 @@
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the original PragerU episode and air date; locate full unedited segment.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {

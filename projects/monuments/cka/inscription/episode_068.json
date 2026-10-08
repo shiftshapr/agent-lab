@@ -877,6 +877,22 @@
       "related_nodes": [
         "N-885"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -896,7 +912,8 @@
       "claim_timestamp": "00:23:15",
       "investigative_direction": "Verify against archived Instagram data for Erika Kirk.",
       "mentions_person_refs": [
-        "N-783"
+        "N-783",
+        "N-2"
       ]
     },
     {
@@ -915,7 +932,8 @@
       "claim_timestamp": "00:24:00",
       "investigative_direction": "Obtain the original post screenshot/metadata and identify the countdown's intended referent.",
       "mentions_person_refs": [
-        "N-783"
+        "N-783",
+        "N-2"
       ]
     },
     {
@@ -936,7 +954,8 @@
       "investigative_direction": "Locate and quote the exact NYT passage to confirm wording.",
       "mentions_person_refs": [
         "N-272",
-        "N-783"
+        "N-783",
+        "N-2"
       ]
     },
     {
@@ -1095,7 +1114,8 @@
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Obtain call log records or corroborating witness / phone carrier metadata.",
       "mentions_person_refs": [
-        "N-272"
+        "N-272",
+        "N-2"
       ]
     },
     {

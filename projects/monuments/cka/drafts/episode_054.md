@@ -622,7 +622,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:30
 Claim: Brian Herpolsheimer stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
 Anchored Artifacts: A-1596.1
-Mentions: N-424
+Mentions: N-424, N-1
 Investigative Direction: Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---
@@ -785,7 +785,7 @@ Investigative Direction: Obtain Korean court records and primary Korean-language
 Claim Timestamp: 01:10:00
 Claim: Per CBN News clip, Chan Yoon (son of Pastor Yoon Bo-seon) stated that his father was arrested two days after meeting Charlie Kirk in Seoul at the Build Up Korea conference.
 Anchored Artifacts: A-1600.1
-Mentions: N-657, N-658
+Mentions: N-657, N-658, N-1
 Related Nodes: N-1468
 Investigative Direction: Cross-reference the conference attendance records (Build Up Korea, September 4–5) against the arrest warrant timestamp; verify whether the father's meeting with Kirk is documented by other conference attendees.
 

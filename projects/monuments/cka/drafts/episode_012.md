@@ -378,7 +378,7 @@ Claim Timestamp: 00:12:16–00:14:30
 Claim: Phil Lyman's on-air account to Alex Jones places him outdoors and characterizes two individuals at the scene as goth and unresponsive.
 
 Anchored Artifacts: A-1183.1
-Mentions: N-92
+Mentions: N-92, N-128
 
 Related Nodes: N-1212
 
@@ -423,7 +423,7 @@ Claim Timestamp: 00:17:21–00:18:35
 Claim: Visual review of Phil Lyman's aftermath video shows two individuals in black (one possibly male) behaving normally; the host disputes Phil's Alex Jones characterization of them as "goth" and unfazed.
 
 Anchored Artifacts: A-1185.1
-Mentions: N-92
+Mentions: N-92, N-128
 
 Related Nodes: N-1212
 
@@ -438,7 +438,7 @@ Claim Timestamp: 00:10:39–00:11:29
 Claim: A face in the companion photo matches an individual shown in a BearingPoint company video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
-Mentions: N-184
+Mentions: N-184, N-183
 
 Related Nodes: N-1213
 
@@ -495,7 +495,7 @@ Claim Timestamp: 00:30:55–00:32:40
 Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of the Utah FBI Bureau and additional personnel and installed Robert Bowles in August 2025.
 
 Anchored Artifacts: A-1189.1
-Mentions: N-102, N-186
+Mentions: N-102, N-186, N-1
 
 Related Nodes: N-1216
 
@@ -525,7 +525,7 @@ Claim Timestamp: 00:34:37–00:35:21
 Claim: A letter written by Charlie Kirk in May 2025 to the Israeli Prime Minister expressing deep love for Israel and strategic suggestions was released by the Prime Minister's office approximately two weeks after the assassination and circulated by the New York Post and Israeli Post.
 
 Anchored Artifacts: A-1191.1
-Mentions: N-65
+Mentions: N-65, N-1
 
 Related Nodes: N-1214
 
@@ -540,8 +540,9 @@ Claim Timestamp: 00:28:21–00:29:10
 Claim: An email from a long-time bulletproof-vest supplier describes contract non-renewal and a stated rationale that Charlie wanted an "army vest" direction.
 
 Anchored Artifacts: A-1195.1
+Mentions: N-1
 
-Related Nodes: N-1214
+Related Nodes:
 
 Investigative Direction: Obtain the underlying email and supplier invoices; verify whether any alternative armor was actually worn on September 10 and which vendor supplied it.
 
@@ -568,11 +569,23 @@ Claim Timestamp: 00:30:55–00:32:40
 Claim: The Daily Mail account places Robert Bowles in his first week on the Utah FBI assignment at the time of the September 10 assassination.
 
 Anchored Artifacts: A-1189.1
-Mentions: N-186
+Mentions: N-186, N-1
 
 Related Nodes: N-1216
 
 Investigative Direction: Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10.
+
+---
+
+**C-1335** Host calls Robert Bowles's move from decades in Washington to the Utah FBI post an unusual placement
+
+Claim Timestamp: 00:31:56–00:32:40
+Claim: The host says Robert Bowles, installed at the Utah FBI office in August 2025, had been in Washington DC for decades, and calls his relocation to Utah an unusual placement that adds to everything feeling "a little too brand new."
+Transcript Snippet: he's somebody who has been in DC for decades. So, seems to me to be an unusual placement to then want to re-up your entire life
+Anchored Artifacts: A-1189.1
+Mentions: N-186
+Confidence: medium
+Investigative Direction: Confirm Robert Bowles's prior postings and the date of his Utah assignment from FBI announcements.
 
 ---
 

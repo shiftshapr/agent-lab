@@ -58,10 +58,7 @@
             "C-3237",
             "C-3238"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -123,10 +120,7 @@
           "related_claims": [
             "C-3241"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -150,10 +144,7 @@
           "related_claims": [
             "C-3242"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -288,7 +279,6 @@
             "C-3247"
           ],
           "related_nodes": [
-            "N-1212",
             "N-1"
           ],
           "tags": [],
@@ -432,7 +422,6 @@
             "C-3254"
           ],
           "related_nodes": [
-            "N-1211",
             "N-2188"
           ],
           "tags": [],
@@ -502,9 +491,7 @@
           "related_claims": [
             "C-3256"
           ],
-          "related_nodes": [
-            "N-1217"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -637,96 +624,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "TPUSA-affiliated figure who publicly stated Andrew Wilson was paid for one day of debate training for TPUSA students.",
-      "related_artifacts": [
-        "A-2256.1"
-      ],
-      "related_claims": [
-        "C-3241"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "TPUSA-affiliated commentator who publicly recommended Andrew Wilson's Rogan appearance and shared a WEF chart claiming Americans spend least of any country on food.",
-      "related_artifacts": [
-        "A-2257.1",
-        "A-2262.6"
-      ],
-      "related_claims": [
-        "C-3242",
-        "C-3254"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Commentator invited by Erica Kirk to the preliminary hearing; stated on his show (clip played in episode) that public has seen only 1–2% of available evidence.",
-      "related_artifacts": [
-        "A-2260.1"
-      ],
-      "related_claims": [
-        "C-3247"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Host of The Joe Rogan Experience; platform for Andrew Wilson's appearance.",
-      "related_artifacts": [
-        "A-2255.1",
-        "A-2255.2",
-        "A-2255.3"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1214",
       "ref": "N-1214",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
@@ -742,66 +639,6 @@
       "related_nodes": [
         "N-1207"
       ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Female feminist opponent in the displayed Andrew Wilson debate clip; not further identified in episode.",
-      "related_artifacts": [
-        "A-2258.1"
-      ],
-      "related_claims": [
-        "C-3243"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Co-founder of The Daily Wire; authored the X post introducing the anti-Islam film trailer.",
-      "related_artifacts": [
-        "A-2263.1"
-      ],
-      "related_claims": [
-        "C-3255"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Subject of Iceland encounter video displayed in episode; reported in series as one of the \"grossest representatives\" of the Zionist lobby.",
-      "related_artifacts": [
-        "A-2264.1"
-      ],
-      "related_claims": [
-        "C-3256"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -993,6 +830,102 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-124",
+      "ref": "N-124",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Host on whose show Brendan Carr made FCC remarks",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-427",
+      "ref": "N-427",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1043,14 +976,15 @@
       "anchored_artifacts": [
         "A-2255.1"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:12",
       "investigative_direction": "Verify funding source of the $300K offer; obtain any formal documentation or PR communications.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-3",
+        "N-1",
+        "N-427"
       ]
     },
     {
@@ -1062,15 +996,14 @@
       "anchored_artifacts": [
         "A-2255.2"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:12–00:05:52",
       "investigative_direction": "Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.",
       "mentions_person_refs": [
         "N-2",
-        "N-46"
+        "N-46",
+        "N-427"
       ]
     },
     {
@@ -1082,16 +1015,16 @@
       "anchored_artifacts": [
         "A-2255.3"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:59",
       "investigative_direction": "Catalogue all Candace Owens public statements and shown evidence; evaluate the \"no evidence\" characterization against documented artifacts.",
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-46"
+        "N-46",
+        "N-3",
+        "N-427"
       ]
     },
     {
@@ -1103,9 +1036,7 @@
       "anchored_artifacts": [
         "A-2256.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.",
@@ -1122,14 +1053,14 @@
       "anchored_artifacts": [
         "A-2257.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-224",
+        "N-427"
       ]
     },
     {
@@ -1141,9 +1072,7 @@
       "anchored_artifacts": [
         "A-2258.1"
       ],
-      "related_nodes": [
-        "N-1215"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:41–00:13:00",
       "investigative_direction": "Obtain full unedited debate recording to verify context and whether insults were reciprocated.",
@@ -1165,7 +1094,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:30:00",
-      "investigative_direction": "Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities."
+      "investigative_direction": "Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities.",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1181,7 +1113,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:29:04",
-      "investigative_direction": "Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively."
+      "investigative_direction": "Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively.",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1197,7 +1132,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:09–00:30:33",
-      "investigative_direction": "Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training."
+      "investigative_direction": "Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training.",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -1208,15 +1146,14 @@
       "anchored_artifacts": [
         "A-2260.1"
       ],
-      "related_nodes": [
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:07–00:17:57",
       "investigative_direction": "Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-124"
       ]
     },
     {
@@ -1253,7 +1190,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
-      "investigative_direction": "Cross-reference BLS food-at-home CPI data for verification."
+      "investigative_direction": "Cross-reference BLS food-at-home CPI data for verification.",
+      "mentions_person_refs": [
+        "N-228"
+      ]
     },
     {
       "@type": "Claim",
@@ -1301,7 +1241,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:00–00:39:30",
-      "investigative_direction": "Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026."
+      "investigative_direction": "Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026.",
+      "mentions_person_refs": [
+        "N-228"
+      ]
     },
     {
       "@type": "Claim",
@@ -1329,12 +1272,14 @@
         "A-2262.6"
       ],
       "related_nodes": [
-        "N-2188",
-        "N-1211"
+        "N-2188"
       ],
       "tags": [],
       "claim_timestamp": "00:42:30–00:43:30",
-      "investigative_direction": "Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison."
+      "investigative_direction": "Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison.",
+      "mentions_person_refs": [
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1347,8 +1292,7 @@
         "A-2263.2"
       ],
       "related_nodes": [
-        "N-2188",
-        "N-1216"
+        "N-2188"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:47:40",
@@ -1363,9 +1307,7 @@
       "anchored_artifacts": [
         "A-2264.1"
       ],
-      "related_nodes": [
-        "N-1217"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:52–00:51:05",
       "investigative_direction": "Verify participants' identities and location."
@@ -1419,5 +1361,29 @@
       "investigative_direction": "Verify Wikipedia entry at time of access; check edit history."
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-39",
+      "ref": "M-39",
+      "canonical_term": "Same Energy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:39:26",
+          "speaker_node_ref": "N-3",
+          "quote": "it's problematic when when Matt Walsh says the same thing and keeps the same energy no matter who's in office, which is authentic. You're just going",
+          "context": "Later reuse of Same Energy in CKA seq 139.",
+          "confidence": "high",
+          "tags": [
+            "vibe",
+            "chat_elevate",
+            "comparison",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

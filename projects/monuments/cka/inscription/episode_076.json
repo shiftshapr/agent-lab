@@ -842,6 +842,54 @@
         "N-951",
         "N-35"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-344",
+      "ref": "N-344",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -880,7 +928,9 @@
       "investigative_direction": "Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.",
       "mentions_person_refs": [
         "N-42",
-        "N-272"
+        "N-272",
+        "N-3",
+        "N-102"
       ]
     },
     {
@@ -899,7 +949,8 @@
       "claim_timestamp": "00:13:53",
       "investigative_direction": "Compare the episode's audio/video metadata against the claimed broadcast time.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-102"
       ]
     },
     {
@@ -1014,7 +1065,8 @@
       "investigative_direction": "Confirm the email log; await response or non-response status update.",
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-42",
+        "N-3"
       ]
     },
     {
@@ -1090,8 +1142,8 @@
       "claim_timestamp": "00:35:28–00:36:30",
       "investigative_direction": "Obtain full Turek interview; verify the date and content of the Monday walk.",
       "mentions_person_refs": [
-        "N-1",
-        "N-16"
+        "N-16",
+        "N-1"
       ]
     },
     {
@@ -1145,7 +1197,8 @@
       "claim_timestamp": "00:10:14–00:11:17",
       "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification.",
       "mentions_person_refs": [
-        "N-954"
+        "N-954",
+        "N-344"
       ]
     },
     {

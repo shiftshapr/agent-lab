@@ -504,7 +504,7 @@ Claim Timestamp: 00:07:11–00:08:04
 Claim: The host presented a text message she sent to Andrew Kolbett describing a recurring dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolbett "know[s] much more than you've said publicly or privately."
 
 Anchored Artifacts: A-1607.1
-Mentions: N-42
+Mentions: N-42, N-3, N-1
 
 Related Nodes: N-1475
 
@@ -519,7 +519,7 @@ Claim Timestamp: 00:08:04
 Claim: The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.
 
 Anchored Artifacts: A-1607.1 (by contextual reference within the same exchange)
-Mentions: N-42
+Mentions: N-42, N-3
 
 Related Nodes: N-1475
 
@@ -653,7 +653,7 @@ Claim Timestamp: 00:34:41–00:35:36
 Claim: An unidentified Likud party member, speaking in the Knesset, declared Tucker Carlson and Candace Owens "a new enemy rising from within" the West and accused them of "intellectual vandalism."
 
 Anchored Artifacts: A-1611.1
-Mentions: N-701
+Mentions: N-701, N-50, N-3
 
 Related Nodes: N-1478
 
@@ -668,6 +668,7 @@ Claim Timestamp: 00:38:50–00:41:18
 Claim: Megyn Kelly stated in interview that pro-Israel Jewish friends sent her notes thanking her for making them feel safer, and that the same people subsequently turned against her and called her an anti-Semite.
 
 Anchored Artifacts: A-1612.1
+Mentions: N-75
 
 Related Nodes: N-1477
 
@@ -682,6 +683,7 @@ Claim Timestamp: 00:38:50–00:41:18
 Claim: Megyn Kelly stated in interview that she was accused of anti-Semitism specifically because she would not denounce Candace Owens.
 
 Anchored Artifacts: A-1612.1
+Mentions: N-3, N-75
 
 Related Nodes: N-1477
 
@@ -696,6 +698,7 @@ Claim Timestamp: 00:38:50–00:41:18
 Claim: Megyn Kelly stated in interview that Ben Shapiro called her a coward at the Turning Point Amfest event in December for her refusal to denounce Candace Owens.
 
 Anchored Artifacts: A-1612.1
+Mentions: N-3, N-75, N-133
 
 Related Nodes: N-1477
 
@@ -710,6 +713,7 @@ Claim Timestamp: 00:46:41–00:47:35
 Claim: A top comment from a user identified as "count" claimed that "Erika is the reason Charlie even got involved in the Fall Kirk Center" and that she was "brought in as his handler to move him in that direction."
 
 Anchored Artifacts: A-1613.1
+Mentions: N-1, N-2
 
 Related Nodes: N-1474
 
@@ -865,6 +869,7 @@ Claim Timestamp: 00:35:36
 Claim: The host stated that approximately one year after Charlie Kirk's assassination, on September 10, a murder plot against her was discovered and that the matter is still proceeding through courts.
 
 Anchored Artifacts: (none presented in this episode)
+Mentions: N-3, N-1
 
 Related Nodes: N-1476
 

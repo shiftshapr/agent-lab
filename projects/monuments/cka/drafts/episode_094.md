@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1698, N-1699, N-1700, N-1701, N-1702, N-1703, N-1704, N-1705, N-1706, N-1707, N-1708, N-1709, N-1710, N-1711
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214
+  - Reused Nodes Appearing: 
   - (see registers)
 
 ---
@@ -40,7 +40,7 @@ Video Timestamp: 00:01:20–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio quality degraded; AI-cleaned)
 
-*Related: C-2764, C-2765, C-2766, N-1212, N-1698*
+*Related: C-2764, C-2765, C-2766, N-1698*
 
 ---
 
@@ -53,7 +53,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28–00:17:22
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2767, C-2768, C-2769, N-1210, N-1698, N-1699*
+*Related: C-2767, C-2768, C-2769, N-1698, N-1699*
 
 **A-1994.2** Audio of defense attorney Kathy Nester addressing the court re: phone and gun access
 
@@ -62,7 +62,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:20–00:15:13
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2770, C-2771, C-2772, N-1217, N-1698, N-1699*
+*Related: C-2770, C-2771, C-2772, N-1698, N-1699*
 
 ---
 
@@ -141,7 +141,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:44–00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2779, N-1212, N-1704*
+*Related: C-2779, N-1704*
 
 ---
 
@@ -202,7 +202,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:26–00:49:11
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2784, N-1213, N-1214, N-1704, N-1706*
+*Related: C-2784, N-1704, N-1706*
 
 ---
 
@@ -215,7 +215,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:11–00:50:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2785, N-1213, N-1214, N-1706*
+*Related: C-2785, N-1706*
 
 ---
 
@@ -342,110 +342,6 @@ Confidence Level: Low — Artifact verbally referenced but not shown
 
 ## 4. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Original owner of the rifle linked to the case; recorded at the continuance hearing expressing support for his grandson and disputing the .30-06 wound characterization.
-
-Evidence Count: 1
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1993.1, A-2005.4, C-2764, C-2765, C-2766, N-1708*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Defense attorney for Tyler Robinson; addressed continuance hearing re: outstanding forensic data files.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1994.1, C-2767, C-2768, N-1698, N-1699*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Defense attorney for Tyler Robinson; addressed court re: phone access and firearm access.
-
-Evidence Count: 1
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1994.2, C-2769, C-2770, C-2771, N-1698, N-1699*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Prosecutor; referenced by Novak at continuance hearing regarding competing lab-testing conclusions.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1994.1, N-1698*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Prosecutor; cited by Novak as having relied on September 2025 DNA reports.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1994.1, N-1698*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Founder of Patriot Cigar; publicly accused Laura Loomer of groping him at Bedminster in tweet.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1998.1, C-2779, N-1704*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Host's husband; named in Laura Loomer's tweet alleging drunk driving incident with firearm; insurance record shows $6,987 paid to Tracy Robinson.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2002.1, A-2003.1, C-2784, C-2785, N-1214, N-1706*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Counterparty in alleged vehicle incident with George Farmer; recipient of $6,987 insurance payment per record.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2002.1, A-2003.1, C-2784, C-2785, N-1213, N-1706*
-
----
-
 **N-1698** Defense Access to Tyler Robinson Phone Data
 
 Persistent defense claim that they have not been able to access their client's phone or its contents.
@@ -533,7 +429,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1998.1, A-2000.2, A-2001.1, A-2004.1, C-2779, C-2782, C-2783, C-2786, N-1212*
+*Related: A-1998.1, A-2000.2, A-2001.1, A-2004.1, C-2779, C-2782, C-2783, C-2786*
 
 ---
 
@@ -559,7 +455,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2002.1, A-2003.1, C-2784, C-2785, N-1213, N-1214*
+*Related: A-2002.1, A-2003.1, C-2784, C-2785*
 
 ---
 
@@ -637,6 +533,7 @@ Claim Timestamp: 00:04:32
 Claim: The episode presents a recording in which Tyler Robinson's grandfather states he is at the hearing to support his grandson.
 
 Anchored Artifacts: A-1993.1
+Mentions: N-69
 
 Related Nodes: N-1707
 
@@ -651,6 +548,7 @@ Claim Timestamp: 00:04:45
 Claim: The grandfather states his father (Tyler Robinson's great-grandfather) was a cop who taught him ballistics.
 
 Anchored Artifacts: A-1993.1
+Mentions: N-69
 
 Related Nodes:
 
@@ -665,6 +563,7 @@ Claim Timestamp: 00:05:39
 Claim: The grandfather asserts a .30-06 round would not have produced the wound damage publicly described in the case.
 
 Anchored Artifacts: A-1993.1
+Mentions: N-69
 
 Related Nodes: N-1707
 
@@ -680,7 +579,7 @@ Claim: Defense attorney Richard Novak states the defense has not received the da
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1210, N-1698, N-1699
+Related Nodes: N-1698, N-1699
 
 Investigative Direction: Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.
 
@@ -694,7 +593,7 @@ Claim: Novak states the defense has DNA reports from September 2025 that Mr. Gra
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1211, N-1698
+Related Nodes: N-1698
 
 Investigative Direction: Request the September 2025 DNA reports via public records or docket inspection.
 
@@ -707,8 +606,9 @@ Claim Timestamp: 00:12:20
 Claim: Defense attorney Kathy Nester states she has not been able to look at her client's phone, with the data requiring expert analysis via shipped hard drives.
 
 Anchored Artifacts: A-1994.2
+Mentions: N-69
 
-Related Nodes: N-1217, N-1698
+Related Nodes: N-1698
 
 Investigative Direction: Verify chain of custody and forensic examination status of Tyler Robinson's phone.
 
@@ -763,6 +663,7 @@ Claim Timestamp: 00:35:29
 Claim: Donald Trump posted on Truth Social stating that Candace Owens, Megyn Kelly, and Tucker Carlson are "dying fast" and "fake MAGA."
 
 Anchored Artifacts: A-1995.1
+Mentions: N-50, N-3, N-5, N-75
 
 Related Nodes:
 
@@ -777,6 +678,7 @@ Claim Timestamp: 00:36:29
 Claim: A follow-up Trump Truth Social post refers to Candace Owens as mentally ill (per host's read-aloud summary).
 
 Anchored Artifacts: A-1995.2
+Mentions: N-3
 
 Related Nodes:
 
@@ -791,6 +693,7 @@ Claim Timestamp: 00:24:50
 Claim: Turning Point USA email cancellation stated the Pinnacle High School event was canceled due to "serious death threats" against Erika Kirk.
 
 Anchored Artifacts: A-1996.1
+Mentions: N-2
 
 Related Nodes: N-1702
 
@@ -805,6 +708,7 @@ Claim Timestamp: 00:26:35
 Claim: Newsweek published an article reporting Erika Kirk's high school talk sparked furious backlash from parents.
 
 Anchored Artifacts: A-1997.1
+Mentions: N-2
 
 Related Nodes: N-1702
 
@@ -819,6 +723,7 @@ Claim Timestamp: 00:26:35
 Claim: The Daily Beast reported the high school moved the Erika Kirk event off campus after students revolted.
 
 Anchored Artifacts: A-1997.2
+Mentions: N-2
 
 Related Nodes: N-1702
 
@@ -833,6 +738,7 @@ Claim Timestamp: 00:26:35
 Claim: The Arizona Republic reported a high school group invited Erika Kirk to campus and parents were unhappy.
 
 Anchored Artifacts: A-1997.3
+Mentions: N-2
 
 Related Nodes: N-1702
 
@@ -847,8 +753,9 @@ Claim Timestamp: 00:41:44
 Claim: Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.
 
 Anchored Artifacts: A-1998.1
+Mentions: N-91
 
-Related Nodes: N-1212, N-1704
+Related Nodes: N-1704
 
 Investigative Direction: Verify Jacoby's tweet directly; check for any legal filings or counter-statements.
 
@@ -861,6 +768,7 @@ Claim Timestamp: 00:39:25
 Claim: A video clip shows Laura Loomer learning to draw a Star of David, presented as evidence she was not raised Jewish.
 
 Anchored Artifacts: A-1999.1
+Mentions: N-91
 
 Related Nodes: N-1705
 
@@ -875,6 +783,7 @@ Claim Timestamp: 00:40:54
 Claim: Milo Yiannopoulos published a written piece stating Laura Loomer has been diagnosed at various times with bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.
 
 Anchored Artifacts: A-2000.1
+Mentions: N-334, N-91
 
 Related Nodes: N-1703
 
@@ -889,6 +798,7 @@ Claim Timestamp: 00:44:53
 Claim: Milo Yiannopoulos alleged Laura Loomer sexually assaulted a young Brazilian volunteer on her 2020 congressional campaign.
 
 Anchored Artifacts: A-2000.2
+Mentions: N-334, N-91
 
 Related Nodes: N-1704
 
@@ -903,6 +813,7 @@ Claim Timestamp: 00:47:42
 Claim: Laura Loomer publicly tweeted at Benny Johnson advocating breaking down enemies through "psychological warfare" rather than prayer.
 
 Anchored Artifacts: A-2001.1
+Mentions: N-124, N-91
 
 Related Nodes: N-1704
 
@@ -917,8 +828,9 @@ Claim Timestamp: 00:48:26
 Claim: Laura Loomer tweeted alleging George Farmer (Candace Owens' husband) hit Tracy Robinson's car while allegedly drunk with an alleged firearm.
 
 Anchored Artifacts: A-2002.1
+Mentions: N-3, N-91
 
-Related Nodes: N-1213, N-1214, N-1706
+Related Nodes: N-1706
 
 Investigative Direction: Verify tweet and any linked court filings; check Davidson County court records.
 
@@ -932,7 +844,7 @@ Claim: A court or insurance record displayed on air shows a $6,987 payment to Tr
 
 Anchored Artifacts: A-2003.1
 
-Related Nodes: N-1213, N-1214, N-1706
+Related Nodes: N-1706
 
 Investigative Direction: Pull the underlying court filing in Davidson County, Tennessee.
 
@@ -945,6 +857,7 @@ Claim Timestamp: 00:42:43
 Claim: A video clip shows Laura Loomer making physically suggestive comments and conduct toward a young man who appears uncomfortable.
 
 Anchored Artifacts: A-2004.1
+Mentions: N-91
 
 Related Nodes: N-1704
 
@@ -959,6 +872,7 @@ Claim Timestamp: 00:54:44
 Claim: A YouTube commenter (SpidyBear3995) asserts that Charlie Kirk told multiple people he might be killed but still showed up.
 
 Anchored Artifacts: A-2005.1
+Mentions: N-1
 
 Related Nodes:
 
@@ -973,6 +887,7 @@ Claim Timestamp: 01:01:45
 Claim: A YouTube commenter (Queen Saxi) raises the question of whether Tyler Robinson's roommate helped set him up, citing similar build and dark hair and his absence.
 
 Anchored Artifacts: A-2005.10
+Mentions: N-69
 
 Related Nodes: N-1709
 
@@ -987,6 +902,7 @@ Claim Timestamp: 00:17:23
 Claim: The host states that on January 16, Erika Kirk filed an invocation of speedy trial rights in Utah, permitted under Utah's state victim-rights code.
 
 Anchored Artifacts: A-2006.1 (verbally referenced; not shown)
+Mentions: N-2
 
 Related Nodes: N-1701
 

@@ -407,7 +407,7 @@ Claim Timestamp: 00:04:58
 Claim: Charlie Kirk criticized Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
 
 Anchored Artifacts: A-1617.1
-Mentions: N-1, N-716
+Mentions: N-1, N-716, N-857
 Investigative Direction: Obtain primary recording; verify exact phrasing.
 
 **C-2077** Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
@@ -439,7 +439,7 @@ Claim Timestamp: 00:16:20
 Claim: Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-707, N-708
+Mentions: N-707, N-708, N-1
 Related Nodes: N-1480
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 

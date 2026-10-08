@@ -467,7 +467,7 @@ Claim Timestamp: 00:03:37
 Claim: Charlie Kirk was shot from the front, and the bullet did not exit his neck, as verified by the host from multiple sources.
 
 Anchored Artifacts: A-1251.1
-Mentions: N-42
+Mentions: N-42, N-1
 Related Nodes: N-1246
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
@@ -493,7 +493,7 @@ Claim Timestamp: 00:06:02
 Claim: Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.
 
 Anchored Artifacts: A-1251.1
-Mentions: N-42
+Mentions: N-42, N-1
 Related Nodes: N-1246
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
@@ -571,7 +571,7 @@ Claim Timestamp: 00:13:06
 Claim: Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting.
 
 Anchored Artifacts: A-1253.1
-Mentions: N-247
+Mentions: N-247, N-313
 Related Nodes: N-1248
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
@@ -649,6 +649,7 @@ Claim Timestamp: 00:27:27
 Claim: Two women shown in Phil Lyman's footage of the building exterior stated they heard two shots.
 
 Anchored Artifacts: A-1255.1
+Mentions: N-92
 Related Nodes: N-1247
 Investigative Direction: Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata.
 
@@ -796,6 +797,7 @@ Claim Timestamp: 00:40:07
 Claim: Kash Patel publicly stated that plane 888 never stopped transponding.
 
 Anchored Artifacts: (host-stated; Kash Patel public statement not displayed — see Optional Flags)
+Mentions: N-102
 Related Nodes: N-1252
 Investigative Direction: Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.
 
@@ -845,7 +847,7 @@ Claim Timestamp: 00:45:21
 Claim: Josh Hammer publicly released text messages between himself and Charlie Kirk following the prior episode's coverage.
 
 Anchored Artifacts: A-1256.1
-Mentions: N-86
+Mentions: N-86, N-1
 Related Nodes: N-1253
 Investigative Direction: Verify release date and source channel.
 
@@ -858,7 +860,7 @@ Claim Timestamp: 00:45:21
 Claim: The released texts include a "thank you for your help guys" message (attributed to Charlie Kirk) and Josh Hammer's reply asking what Charlie's "first stop tomorrow" was.
 
 Anchored Artifacts: A-1256.1
-Mentions: N-86
+Mentions: N-86, N-1
 Related Nodes: N-1253
 Investigative Direction: Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.
 
@@ -871,6 +873,7 @@ Claim Timestamp: 00:48:09
 Claim: Donald Trump posted on Truth Social announcing that Israel and Hamas had signed off on the first phase of a peace plan, including hostage release and partial troop withdrawal.
 
 Anchored Artifacts: A-1257.1
+Mentions: N-5
 Related Nodes:
 Investigative Direction: Verify exact post text and time stamp via Trump's Truth Social archive.
 
@@ -895,7 +898,7 @@ Claim Timestamp: 00:53:09
 Claim: Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt "too on the nose" to be authentic, suggesting Charlie had been pushed to that statement.
 
 Anchored Artifacts: A-1259.1
-Mentions: N-228
+Mentions: N-228, N-1
 Related Nodes: N-1253
 Investigative Direction: Verify clip source and full Matt Walsh segment.
 

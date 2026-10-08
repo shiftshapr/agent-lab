@@ -910,7 +910,7 @@ Claim Timestamp: 00:29:19
 Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, host lists mid-July and August meetings on Epstein files with JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
 
 Anchored Artifacts: A-2470.1
-Mentions: N-4, N-35, N-58, N-102, N-120, N-178, N-182, N-209, N-213, N-215, N-223, N-225, N-867
+Mentions: N-4, N-35, N-58, N-102, N-120, N-178, N-182, N-209, N-213, N-215, N-223, N-225, N-867, N-446
 
 Related Nodes: N-1395, N-2362
 
@@ -943,3 +943,27 @@ Anchored Artifacts: A-2472.1
 Mentions: N-2, N-53, N-54, N-69
 
 Related Nodes: N-2364
+
+---
+
+**C-3615** Erika’s Israel posture and partner choices contradict heaven-focused widow branding
+
+Claim Timestamp: 01:00:00
+Claim: Host argues loyalty depends on loyalty to Charlie’s direction: Erika’s silence/glowing Israel partnerships and collaboration with figures like Andrew Wilson (text leaks) after allegedly being more critical than Charlie privately registers as betrayal of Charlie’s late trajectory.
+Anchored Artifacts: A-2473.1
+Mentions: N-1, N-2, N-46
+Related Nodes: N-1121, N-2355
+Investigative Direction: Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting.
+
+---
+
+**C-3616** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
+
+Claim Timestamp: 01:03:21
+Claim: Viewer note + host source claim that Charlie had two Telegram accounts, one American-flag shared account and one personal, and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
+Anchored Artifacts: A-2473.1, A-2466.1
+Mentions: N-1, N-2, N-42, N-46
+Related Nodes: N-2360
+Investigative Direction: Forensic Telegram export if ever obtained; until then keep as sourced allegation.
+
+---

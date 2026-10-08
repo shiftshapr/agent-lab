@@ -344,6 +344,29 @@ def test_name_annotation_mismatch_flags_first_name_only_person_match():
     assert [f.location for f in report.findings] == ["episode_001.md:5:N-224"]
 
 
+def test_annotation_single_word_alias_needs_surname():
+    """N1: a bare first-name alias must not ground a multi-word person label."""
+    m = dp.annotation_name_matches
+    assert not m("Blake Wynn", ["Blake Neff", "Blake"], person=True)
+    assert not m("Lance Smith", ["Lance Twiggs", "Lance"], person=True)
+    assert not m("Mark Levin", ["Mark Herman", "Mark"], person=True)
+    # A one-word alias that is the surname still grounds a titled reference.
+    assert m("Governor Cox", ["Spencer Cox", "Cox"], person=True)
+    # One-word labels still match the first-name alias.
+    assert m("Blake", ["Blake Neff", "Blake"], person=True)
+    assert m("Blake Neff", ["Blake Neff", "Blake"], person=True)
+
+
+def test_name_annotation_mismatch_flags_first_name_alias_person_match():
+    content = "## 5. Claim Register\n\n**C-1** T\n\nMentions: N-224 (Blake Wynn), N-224 (Blake)\n"
+    eps = [(1, "episode_001.md", Path("x"), content)]
+    canonical = {"N-224": {"canonical_name": "Blake Neff", "type": "person", "aliases": ["Blake", "Blake Nef"]}}
+    report = dp.PreflightReport("t", "x")
+    dp.check_name_annotation_mismatch(report, eps, [], canonical)
+    assert [f.location for f in report.findings] == ["episode_001.md:5:N-224"]
+    assert "Blake Wynn" in report.findings[0].message
+
+
 def _hole_eps(ep1_ledger: str, ep2_ledger: str = "", ep2_register: str = "") -> list[tuple[int, str, Path, str]]:
     def draft(ledger: str, register: str) -> str:
         return f"## 1. Meta-Data\n\n- **Episode Ledger Summary**:\n{ledger}\n## 4. Node Register\n\n{register}\n## 5. Claim Register\n"
@@ -396,6 +419,29 @@ def test_hole_mint_order_flags_wrong_episode(tmp_path):
     report = _hole_report(tmp_path, eps)
     assert [f.location for f in report.findings] == ["N-4"]
     assert "first registered in episode_001.md" in report.findings[0].message
+
+
+def test_hole_mint_order_flags_ledger_appearance_in_earlier_episode(tmp_path):
+    """N3: a hole-minted id listed on any ledger line of an earlier episode is flagged."""
+    def draft(ledger: str, register: str) -> str:
+        return f"## 1. Meta-Data\n\n- **Episode Ledger Summary**:\n{ledger}\n## 4. Node Register\n\n{register}\n## 5. Claim Register\n"
+    reg1 = "".join(f"**N-{n}** Person {n}\n\nNode Type: Person\n\n" for n in (1, 2, 3))
+    reg2 = "**N-4** Person 4\n\nNode Type: Person\n\n"
+    for line in ("  - Reused Nodes Appearing: N-4\n", "  - New Nodes Introduced: N-1, N-2, N-4\n", "Existing Nodes Reused: N-4\n"):
+        ledger1 = "  - New Nodes Introduced: N-1, N-2, N-3\n" + line if "New Nodes" not in line else line.replace("N-4", "N-3, N-4")
+        eps = [
+            (1, "episode_001.md", Path("x"), draft(ledger1, reg1)),
+            (2, "episode_002.md", Path("y"), draft("  - New Nodes Introduced:\n  - Hole-minted Nodes (b): N-4\n", reg2)),
+        ]
+        report = _hole_report(tmp_path, eps)
+        msgs = [f.message for f in report.findings if f.check == "hole_mint_order"]
+        assert any("earlier episode (ep1)" in x for x in msgs), (line, msgs)
+    # Clean control: the id first appears in its Hole-minted episode.
+    eps = [
+        (1, "episode_001.md", Path("x"), draft("  - New Nodes Introduced: N-1, N-2, N-3\n", reg1)),
+        (2, "episode_002.md", Path("y"), draft("  - New Nodes Introduced:\n  - Hole-minted Nodes (b): N-4\n", reg2)),
+    ]
+    assert _hole_report(tmp_path, eps).findings == []
 
 
 def test_cka_has_no_wave1_people_regressions():

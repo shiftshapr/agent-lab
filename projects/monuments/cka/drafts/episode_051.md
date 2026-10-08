@@ -11,8 +11,9 @@
 - **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-614, N-618, N-621, N-631, N-1446, N-1447, N-1448, N-1449, N-1450, N-1451
+  - New Nodes Introduced:  N-614, N-621, N-1446, N-1447, N-1448, N-1449, N-1450, N-1451
   - Reused Nodes Appearing: N-2
+  - Hole-minted Nodes (wave2): N-2390, N-2391
   - (see registers)
 
 ---
@@ -120,7 +121,7 @@ Video Timestamp: 00:48:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1997, N-618, N-42, N-2, N-1451*
+*Related: C-1997, N-2390, N-42, N-2, N-1451*
 
 **A-1574** Mitch Snow's Son Interview Clip
 
@@ -144,7 +145,7 @@ Video Timestamp: 00:30:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1999, N-631, N-1450*
+*Related: C-1999, N-2391, N-1450*
 
 **A-1576** Top Comments Bundle (from prior episode, read aloud)
 
@@ -166,7 +167,7 @@ Video Timestamp: 01:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2001, N-618, N-1446*
+*Related: C-2001, N-2390, N-1446*
 
 ---
 
@@ -249,7 +250,10 @@ Investigative Pressure: High
 
 *Related: C-1998, A-1574.1, N-1446*
 
-**N-618** Paramount Tactical Valhalla (livestream account)
+**N-2390** Paramount Tactical Valhalla
+
+Node Type: Organization
+Organization Kind: media_outlet
 
 Source of the stream clip in which Andrew Kolbet's instructions were read aloud.
 
@@ -282,7 +286,10 @@ Investigative Pressure: Low
 
 *Related: C-1995, A-1571.1*
 
-**N-631** Daily Wire
+**N-2391** Daily Wire
+
+Node Type: Organization
+Organization Kind: media_outlet
 
 Institution that re-released Candace's 2021 trailer on her social channels.
 
@@ -346,7 +353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1999, A-1575.1, N-631*
+*Related: C-1999, A-1575.1, N-2391*
 
 **N-1451** Erica Kirk September 8 Alibi
 
@@ -383,7 +390,7 @@ Claim Timestamp: 00:04:47
 Claim: A Tim Dillon comedy segment played on air observes that Erica Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
 
 Anchored Artifacts: A-1568.1
-Mentions: N-2, N-443
+Mentions: N-2, N-443, N-1
 
 
 Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.
@@ -395,6 +402,7 @@ Claim Timestamp: 00:09:15
 Claim: An on-scene reporter played on air described, with the tent visible behind her, a recreation at AmFest of the tent in which Charlie Kirk was killed at Utah Valley University, noting that attendees were taking selfies with it.
 
 Anchored Artifacts: A-1569.1
+Mentions: N-1
 
 Related Nodes: N-1447
 
@@ -407,7 +415,7 @@ Claim Timestamp: 00:14:17
 Claim: A Tim Dillon comedy segment played on air characterizes RFK Jr. as the least scandal-prone member of the current administration while noting recurring leaked text scandals involving him.
 
 Anchored Artifacts: A-1568.2
-Mentions: N-443
+Mentions: N-443, N-586
 
 
 Investigative Direction: Verify the segment against the source recording and identify which text leaks are being referenced.
@@ -431,7 +439,7 @@ Claim Timestamp: 00:17:33
 Claim: A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
 
 Anchored Artifacts: A-1570.1
-Mentions: N-2, N-444, N-614
+Mentions: N-2, N-444, N-614, N-1
 
 Related Nodes: N-1448
 
@@ -456,7 +464,7 @@ Claim Timestamp: 00:40:44
 Claim: An Alex Jones InfoWars segment played on air declares war on Candace Owens in connection with her coverage of Mitch Snow and labels her a "globalist agent."
 
 Anchored Artifacts: A-1572.1
-Mentions: N-128
+Mentions: N-128, N-3, N-597
 
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
@@ -468,9 +476,9 @@ Claim Timestamp: 00:48:18
 Claim: A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erica Kirk on the morning of September 9, then saying "Sorry Andrew, I screwed that up" after sharing content he was told not to share.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-2, N-42, N-618
+Mentions: N-2, N-42
 
-Related Nodes: N-1451
+Related Nodes: N-1451, N-2390
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 
@@ -494,9 +502,9 @@ Claim Timestamp: 00:30:51
 Claim: The Daily Wire reactivated Candace Owens' previously privatized YouTube channel and her old Instagram account, and premiered her 2021 joining trailer (with a front card noting the footage was shot in 2021) on those channels.
 
 Anchored Artifacts: A-1575.1
-Mentions: N-631
+Mentions: N-3
 
-Related Nodes: N-1450
+Related Nodes: N-1450, N-2391
 
 Investigative Direction: Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.
 
@@ -520,9 +528,9 @@ Claim Timestamp: 01:08:04
 Claim: A top fan comment from the prior episode, read aloud on air, identifies the commenter as retired army law enforcement and characterizes Paramount Tactical Valhalla as "an embarrassment to me as a vet."
 
 Anchored Artifacts: A-1576.2
-Mentions: N-618
+Mentions:
 
-Related Nodes: N-1446
+Related Nodes: N-1446, N-2390
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 
@@ -533,9 +541,9 @@ Claim Timestamp: 00:49:10
 Claim: The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolbet and the parties attacking Mitch Snow, undermining the prior "Andrew went rogue" narrative.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-42, N-618
+Mentions: N-42, N-597
 
-Related Nodes: N-1449
+Related Nodes: N-1449, N-2390
 
 Investigative Direction: Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
 

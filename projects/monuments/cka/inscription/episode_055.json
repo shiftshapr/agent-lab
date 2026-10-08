@@ -792,6 +792,102 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -811,7 +907,9 @@
       "claim_timestamp": "00:07:11–00:08:04",
       "investigative_direction": "Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -828,7 +926,8 @@
       "claim_timestamp": "00:08:04",
       "investigative_direction": "Verify non-reply independently; cross-check any subsequent communication records between the two parties.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-3"
       ]
     },
     {
@@ -1001,7 +1100,9 @@
       "claim_timestamp": "00:34:41–00:35:36",
       "investigative_direction": "Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.",
       "mentions_person_refs": [
-        "N-701"
+        "N-701",
+        "N-50",
+        "N-3"
       ]
     },
     {
@@ -1018,7 +1119,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
-      "investigative_direction": "Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible."
+      "investigative_direction": "Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1034,7 +1138,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
-      "investigative_direction": "Identify accusers; obtain interview transcript."
+      "investigative_direction": "Identify accusers; obtain interview transcript.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1050,7 +1158,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
-      "investigative_direction": "Obtain video of Amfest remarks; verify date, exact wording, and surrounding context."
+      "investigative_direction": "Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-75",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -1066,7 +1179,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:41–00:47:35",
-      "investigative_direction": "Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary."
+      "investigative_direction": "Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1226,7 +1343,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:35:36",
-      "investigative_direction": "Identify the court proceeding, jurisdiction, and any public filings or DOJ announcements. *Flag: Claim failed artifact anchor test; serious allegation requires verification.*"
+      "investigative_direction": "Identify the court proceeding, jurisdiction, and any public filings or DOJ announcements. *Flag: Claim failed artifact anchor test; serious allegation requires verification.*",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

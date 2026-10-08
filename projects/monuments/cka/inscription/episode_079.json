@@ -1214,6 +1214,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1226,9 +1242,7 @@
       "anchored_artifacts": [
         "A-1846.1"
       ],
-      "related_nodes": [
-        "N-1616"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:50–00:09:46",
       "investigative_direction": "Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements.",
@@ -1265,9 +1279,7 @@
       "anchored_artifacts": [
         "A-1846.3"
       ],
-      "related_nodes": [
-        "N-1616"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:32–00:21:48",
       "investigative_direction": "Forensic verification of the message; examine whether Charlie Kirk made comparable public statements.",
@@ -1287,8 +1299,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-1612",
-        "N-1616"
+        "N-1612"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32–00:13:29",
@@ -1309,8 +1320,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-1612",
-        "N-1616"
+        "N-1612"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38–00:12:38",
@@ -1329,16 +1339,14 @@
       "anchored_artifacts": [
         "A-1848.1"
       ],
-      "related_nodes": [
-        "N-1616"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:35–00:08:50",
       "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.",
       "mentions_person_refs": [
-        "N-1",
         "N-133",
-        "N-334"
+        "N-334",
+        "N-1"
       ]
     },
     {
@@ -1368,16 +1376,14 @@
       "anchored_artifacts": [
         "A-1850.1"
       ],
-      "related_nodes": [
-        "N-1616"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:29–00:16:34",
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
-        "N-1",
         "N-133",
-        "N-224"
+        "N-224",
+        "N-1"
       ]
     },
     {
@@ -1524,7 +1530,8 @@
       "claim_timestamp": "00:45:22–00:46:20",
       "investigative_direction": "Verify whether the list has ever been published publicly; check DOJ acknowledgment.",
       "mentions_person_refs": [
-        "N-50"
+        "N-50",
+        "N-91"
       ]
     },
     {
@@ -1574,9 +1581,7 @@
       "anchored_artifacts": [
         "A-1856.1"
       ],
-      "related_nodes": [
-        "N-1616"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:50–00:40:07",
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",

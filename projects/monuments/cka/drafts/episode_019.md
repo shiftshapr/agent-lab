@@ -526,7 +526,7 @@ Claim Timestamp: 00:10:34–00:11:27
 Claim: Host's frame-by-frame analysis of event-day footage shows Mikey McCoy raising his phone to his ear approximately 834 milliseconds after the gunshot audio is heard.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-259, N-260
+Mentions: N-259, N-260, N-272
 
 Related Nodes: N-1257, N-1259
 
@@ -541,6 +541,7 @@ Claim Timestamp: 00:13:33
 Claim: Event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.
 
 Anchored Artifacts: A-1261.3
+Mentions: N-272
 
 Related Nodes: N-1257, N-1259
 
@@ -555,6 +556,7 @@ Claim Timestamp: 00:12:22
 Claim: Event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.
 
 Anchored Artifacts: A-1261.2
+Mentions: N-1, N-272
 
 Related Nodes: N-1257, N-1259
 
@@ -584,7 +586,7 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: In the selfie video, the camera operator states "He's dead."
 
 Anchored Artifacts: A-1262.1
-Mentions: N-256
+Mentions: N-256, N-1
 
 Related Nodes: N-1258
 
@@ -599,7 +601,7 @@ Claim Timestamp: 00:23:05
 Claim: The camera operator sent Candace Owens a video showing his actions during the four minutes preceding camera takedown.
 
 Anchored Artifacts: A-1262.2
-Mentions: N-256
+Mentions: N-256, N-3
 
 Related Nodes: N-1258
 
@@ -614,7 +616,7 @@ Claim Timestamp: 00:07:11
 Claim: Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, that Kirk had assembled a succession plan and that TPUSA was implementing it.
 
 Anchored Artifacts: A-1260.1
-Mentions: N-255
+Mentions: N-255, N-1, N-45
 
 Related Nodes: N-1260
 
@@ -629,6 +631,7 @@ Claim Timestamp: 00:38:21–00:39:19
 Claim: Charlie Kirk texted Candace Owens on April 6, 2018 stating he "might not see this whole thing through," that he was "not sure if I will live to see the end of this revolution," and that he had dreamed about being "wiped out" since the beginning of TPUSA.
 
 Anchored Artifacts: A-1266.1
+Mentions: N-3, N-1
 
 Related Nodes:
 
@@ -643,6 +646,7 @@ Claim Timestamp: 00:38:21–00:39:19
 Claim: Charlie Kirk texted that "you were the piece that God meant me to meet that will finish the fight" and "be my David."
 
 Anchored Artifacts: A-1266.1
+Mentions: N-3, N-1
 
 Related Nodes:
 
@@ -657,6 +661,7 @@ Claim Timestamp: 00:38:21
 Claim: Host asserts Charlie Kirk told her that "Turning Point was going to be the death of him" and characterizes this as supported by the April 6, 2018 texts.
 
 Anchored Artifacts: A-1266.1
+Mentions: N-1
 
 Related Nodes:
 
@@ -671,6 +676,7 @@ Claim Timestamp: 00:34:49–00:35:33
 Claim: Trailer presents Charlie Kirk text messages stating "Jewish donors play into all the stereotypes. I cannot and will not be bullied like this."
 
 Anchored Artifacts: A-1265.1
+Mentions: N-1
 
 Related Nodes:
 
@@ -685,6 +691,7 @@ Claim Timestamp: 00:15:42
 Claim: UVU event clip captures Charlie Kirk responding to a question about friendship with the line "Find out" regarding whether Kirk was the questioner's friend.
 
 Anchored Artifacts: A-1264.1
+Mentions: N-1
 
 Related Nodes:
 
@@ -699,6 +706,7 @@ Claim Timestamp: 00:03:02
 Claim: Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Cory Lundowski ("Flash").
 
 Anchored Artifacts: A-1263.1
+Mentions: N-62, N-3, N-1
 
 Related Nodes:
 
@@ -713,6 +721,7 @@ Claim Timestamp: 00:16:16–00:17:08
 Claim: Host states she hit college campuses alongside Charlie Kirk for six years and that no other living person has spoken at more college campuses alongside him than she has.
 
 Anchored Artifacts: None (host assertion; testimonial, not documentary)
+Mentions: N-3, N-1
 
 Investigative Direction: Cross-reference against TPUSA event records and tour itineraries to verify six-year span and event count.
 
@@ -725,7 +734,7 @@ Claim Timestamp: 00:35:33
 Claim: John Miller posted: "They really trying to make us believe this is the good guy. LMAO"
 
 Anchored Artifacts: A-1267.1
-Mentions: N-262
+Mentions: N-262, N-86
 
 
 Investigative Direction: Locate original post URL and timestamp on X.
@@ -739,6 +748,7 @@ Claim Timestamp: 00:34:49–00:35:33
 Claim: Trailer references Josh Hammer stating he is "talking to lawyers" and believes there is "a potentially serious case here for defamation."
 
 Anchored Artifacts: A-1265.1
+Mentions: N-86
 
 Related Nodes: N-1261
 
@@ -767,7 +777,7 @@ Claim Timestamp: 00:04:39
 Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
-Mentions: N-37
+Mentions: N-37, N-272
 
 
 Investigative Direction: Verify via TPUSA organizational records.
@@ -795,6 +805,7 @@ Claim Timestamp: 00:33:40
 Claim: Host sarcastically attributes Kirk's last words as "Buy my book. Buy Josh Hammer's book," referencing Hammer's same-day book promotion after Kirk's death.
 
 Anchored Artifacts: None (rhetorical; no documentary record of Kirk's stated final words presented in episode)
+Mentions: N-1, N-86
 
 Related Nodes:
 
@@ -837,7 +848,7 @@ Claim Timestamp: 00:53:26
 Claim: Joshua Steves commenter states Tyler Robinson appeared in court via Zoom "without having to show his face."
 
 Anchored Artifacts: A-1269.5
-Mentions: N-263
+Mentions: N-263, N-69
 
 
 Investigative Direction: Obtain court appearance records and any media coverage of the Zoom appearance.
@@ -866,7 +877,7 @@ Claim Timestamp: 00:13:46–00:14:46
 Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-42
+Mentions: N-42, N-272
 
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
@@ -880,6 +891,7 @@ Claim Timestamp: 00:12:22
 Claim: Host states she instructed her team to play devil's advocate for Mikey McCoy and to propose any scenario explaining the 834ms timing; "no one could win this game."
 
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
+Mentions: N-272
 
 Related Nodes: N-1259
 
@@ -908,7 +920,7 @@ Claim Timestamp: 00:50:00–00:51:00
 Claim: Host states she will dig up a Scott Adams video about Kanye West's tweet ripping a hole through the universe.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-266
+Mentions: N-266, N-56
 
 
 Investigative Direction: Locate the referenced Scott Adams video and timestamp the host mention.

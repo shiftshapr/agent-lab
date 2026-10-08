@@ -694,7 +694,7 @@ Investigative Direction: Obtain Allie's underlying text message exchange with Ch
 
 ---
 
-**C-1626** Allie Beth Stuckey Follows Up That Venue Was Confirmed Two Months Out
+**C-1626** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out
 
 Claim Timestamp: 00:36:03
 
@@ -774,7 +774,7 @@ Claim Timestamp: 00:55:21
 Claim: Alyssa Cordova tweets speculation that non-disparagement agreements may be in place between Turning Point USA and Candace Owens due to TPUSA's business arrangement with Blexit.
 
 Anchored Artifacts: A-1350.1
-Mentions: N-353
+Mentions: N-353, N-3
 
 Related Nodes: N-1301
 

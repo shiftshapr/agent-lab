@@ -290,7 +290,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker Carlson had mentioned Zohran Mamdani once since October 5 and that he (Shapiro) had done 17 separate shows on Mamdani.
 
 Anchored Artifacts: A-1356.1, A-1356.2
-Mentions: N-340
+Mentions: N-340, N-50, N-75, N-133
 
 
 Investigative Direction: Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.
@@ -304,6 +304,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that "what Candace Owens is doing right now is evil. It is evil what she is doing right now."
 
 Anchored Artifacts: A-1356.1
+Mentions: N-3, N-75, N-133
 
 Related Nodes:
 
@@ -318,7 +319,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing Erika Kirk of murdering Charlie Kirk.
 
 Anchored Artifacts: A-1356.1
-Mentions: N-3
+Mentions: N-3, N-1, N-75, N-133, N-2
 
 Related Nodes: N-1307
 
@@ -333,6 +334,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dylan, of being involved in Charlie Kirk's murder.
 
 Anchored Artifacts: A-1356.1
+Mentions: N-3, N-1, N-75, N-133, N-67
 
 Related Nodes: N-1307
 
@@ -347,6 +349,7 @@ Claim Timestamp: 00:14:04
 Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boring joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
+Mentions: N-293
 
 Related Nodes:
 
@@ -361,6 +364,7 @@ Claim Timestamp: 00:14:04–00:15:45
 Claim: According to the read-aloud HuffPost article and corresponding audio, Jeremy Boring stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
 
 Anchored Artifacts: A-1358.1, A-1359.1
+Mentions: N-293
 
 Related Nodes:
 
@@ -375,6 +379,7 @@ Claim Timestamp: 00:16:27–00:17:50
 Claim: The text messages read aloud between Candace Owens and Charlie Kirk describe Ben Shapiro as having launched behind-the-scenes pressure campaigns through YAF, National Review figures, and "Daily Wire boys" against Kirk and Owens, and characterize Shapiro as viewing Owens as Kirk's "slave."
 
 Anchored Artifacts: A-1360.1, A-1360.2
+Mentions: N-3, N-1, N-133
 
 Related Nodes: N-1307
 
@@ -389,7 +394,7 @@ Claim Timestamp: 00:25:16–00:27:36
 Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern named Ariana who, Owens alleged, had been sent covertly to record her, after receiving a tip from an intern with a conscience.
 
 Anchored Artifacts: A-1361.1
-Mentions: N-362
+Mentions: N-362, N-3
 
 Related Nodes: N-1308
 
@@ -404,7 +409,7 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Candace Owens stated, "America is occupied by Zionists," and doubled and then tripled down on the characterization.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-360
+Mentions: N-360, N-3
 
 
 Investigative Direction: Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.
@@ -432,6 +437,7 @@ Claim Timestamp: 00:39:12–00:41:34
 Claim: Eric and Laura Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.
 
 Anchored Artifacts: A-1363.1
+Mentions: N-1
 
 Related Nodes:
 
@@ -460,6 +466,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously tweeted that any American Jew who is "pro-Israel" and uses "Israel first" framing is engaging in a "pure form of anti-semitism," directed at Nick Fuentes.
 
 Anchored Artifacts: A-1355.2
+Mentions: N-293, N-133
 
 Related Nodes:
 
@@ -474,6 +481,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
+Mentions: N-133
 
 Related Nodes:
 
@@ -488,7 +496,7 @@ Claim Timestamp: 00:04:34–00:05:23
 Claim: Ben Shapiro and Tucker Carlson exchanged text messages in which Shapiro proposed a joint show on the "DSA threat" and Carlson replied that he needed "a week or two" to think; Shapiro states subsequent outreach went unanswered.
 
 Anchored Artifacts: A-1357.1
-Mentions: N-1
+Mentions: N-1, N-50, N-133
 
 
 Investigative Direction: Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.
@@ -502,7 +510,7 @@ Claim Timestamp: 00:33:44–00:33:57
 Claim: Candace Owens states that the aired CNN interview with Elle Reeve occurred "a couple of days after Charlie was killed" and was her first interview after his death.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-1, N-360
+Mentions: N-1, N-360, N-3
 
 
 Investigative Direction: Confirm the interview date against CNN's published interview records or the original broadcast timestamp.

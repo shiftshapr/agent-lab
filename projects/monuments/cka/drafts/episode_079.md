@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-5, N-989, N-990, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
-  - Reused Nodes Appearing: N-138, N-1207, N-1208
+  - New Nodes Introduced: N-989, N-990, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
+  - Reused Nodes Appearing: N-138, N-5
   - (see registers)
 
 ## 6. Meme Register
@@ -641,7 +641,7 @@ Claim: Charlie Kirk privately told Candace Owens that Ben Shapiro was "unhinged"
 Anchored Artifacts: A-1846.1
 Mentions: N-1, N-3, N-133
 
-Related Nodes: N-1616
+Related Nodes:
 
 Investigative Direction: Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements.
 
@@ -670,7 +670,7 @@ Claim: Charlie Kirk privately texted Candace Owens that the McCains were "a disg
 Anchored Artifacts: A-1846.3
 Mentions: N-1, N-3, N-989
 
-Related Nodes: N-1616
+Related Nodes:
 
 Investigative Direction: Forensic verification of the message; examine whether Charlie Kirk made comparable public statements.
 
@@ -685,7 +685,7 @@ Claim: A June 18 text exchange between Charlie Kirk and Bret Weinstein documents
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-5, N-990
 
-Related Nodes: N-1612, N-1616
+Related Nodes: N-1612
 
 Investigative Direction: Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics.
 
@@ -700,7 +700,7 @@ Claim: In the June 18 text exchange with Bret Weinstein, Charlie Kirk wrote "We 
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-990
 
-Related Nodes: N-1612, N-1616
+Related Nodes: N-1612
 
 Investigative Direction: Verify original message; cross-reference with contemporaneous public statements.
 
@@ -713,9 +713,9 @@ Claim Timestamp: 00:07:35–00:08:50
 Claim: A text exchange between Milo Yiannopoulos and Charlie Kirk describes Ben Shapiro as having "began seek to secretly commission hit jobs on Turning Point USA a decade ago," with Charlie stating he wanted to allow it to "play out" before responding publicly.
 
 Anchored Artifacts: A-1848.1
-Mentions: N-133, N-334
+Mentions: N-133, N-334, N-1
 
-Related Nodes: N-1616
+Related Nodes:
 
 Investigative Direction: Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.
 
@@ -742,9 +742,9 @@ Claim Timestamp: 00:13:29–00:16:34
 Claim: Blake Neff posted on X acknowledging Charlie Kirk and Ben Shapiro "differed about the best direction for the conservative movement" and that "Charlie saw Ben as a rival."
 
 Anchored Artifacts: A-1850.1
-Mentions: N-133, N-224
+Mentions: N-133, N-224, N-1
 
-Related Nodes: N-1616
+Related Nodes:
 
 Investigative Direction: Direct retrieval of the original X post via archive.
 
@@ -846,7 +846,7 @@ Claim Timestamp: 00:45:22–00:46:20
 Claim: Laura Loomer posted on X claiming to have "created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar" and stated she provided it to the DOJ.
 
 Anchored Artifacts: A-1858.1
-Mentions: N-50
+Mentions: N-50, N-91
 
 Related Nodes: N-1613
 
@@ -893,7 +893,7 @@ Claim: Candace Owens published an article (read aloud in this episode) quoting J
 Anchored Artifacts: A-1856.1
 Mentions: N-3, N-998
 
-Related Nodes: N-1616
+Related Nodes:
 
 Investigative Direction: Retrieve the original published article (Substack or platform); verify publication date.
 

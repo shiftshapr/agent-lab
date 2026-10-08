@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2170, N-2171, N-2172, N-2173, N-2174
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+  - Reused Nodes Appearing: 
   - (see registers)
 
 # Episode 136 Analysis Record
@@ -34,7 +34,7 @@ Episode 136 Ledger Summary
 
 - Artifact Families Introduced: A-2223, A-2224, A-2225, A-2226, A-2227, A-2228, A-2229, A-2230, A-2231, A-2232, A-2233, A-2234, A-2235
 - Claim Range: C-3193–C-3210
-- New Nodes Introduced (people): N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+- New Nodes Introduced (people): 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 - New Nodes Introduced (investigation targets): N-2170, N-2171, N-2172, N-2173, N-2174
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:06:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3210, N-1212*
+*Related: C-3210*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:13:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3194, N-1213*
+*Related: C-3194*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3198, C-3199, C-3200, N-1214, N-1215, N-2171*
+*Related: C-3198, C-3199, C-3200, N-2171*
 
 ---
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3197, C-3195, N-1216, N-2171, N-2172*
+*Related: C-3197, C-3195, N-2171, N-2172*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:16:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3199, C-3200, N-1214, N-1215*
+*Related: C-3199, C-3200*
 
 ---
 
@@ -254,149 +254,6 @@ Confidence Level: Medium (verbally referenced; not directly displayed)
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-UVU police officer who testified at preliminary hearing that he could not identify the plainclothes man who accompanied him to the Losi rooftop where the screwdriver was recovered; his body cam footage ended on the rooftop.
-
-Evidence Count: 5
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2224.1, A-2224.2, A-2227.1, A-2233.1, C-3195, C-3196, C-3197, C-3198, N-2171, N-2172*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Officer at USU PD identified by X user Muppet Masher as the plainclothes man on the Losi rooftop at 12:47 PM; previously USMC marksmanship instructor at Camp Pendleton (2009–2014) and San Bernardino PD officer; subject of a Brady List entry.
-
-Evidence Count: 5
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2227.1, A-2228.1, A-2229.1, A-2234.1, A-2235.1, C-3199, C-3201, C-3202, C-3203, N-2171, N-2173*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Filmmaker who recorded Kirk's final weeks, including the SUV arrival footage used to show the empty glove pocket in A-2223.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2223.1, C-3193, N-1, N-2170*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Security operative described by host as the individual allegedly performing medical intervention (cutting shirt, jumping on gurney) in the SUV and ER; subject of host's questioning of Frank Turk in this episode.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2225.1, C-3210, N-1211, N-1212, N-2170*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Security operative described as the individual whose door pocket allegedly contained the recovered black gloves; described as holding Brian Harpole during the car ride.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1210, N-1212, N-2170*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Pastor and security-team member whose interview clip supplies the term "yanking and banking"; host pages him with unanswered questions about the gloves and Brian Harpole's actions.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2225.1, C-3210, N-1210, N-1211*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-FBI Director (per host framing) whose public statement supplies the 12:39 PM / 16-minute FBI arrival figure.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2226.1, C-3194*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Individual identified by Muppet Masher as the blue-shirt man walking near the Losi rooftop alongside Allan Robertson.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2227.1, A-2234.1, C-3200, N-1215, N-2171*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-X account credited by host with first positively identifying the red-hat and blue-shirt men in the bystander rooftop footage.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2234.1, C-3199, C-3200, N-1214*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-YouTuber whose analysis questions Officer Bagley's preliminary-hearing testimony regarding body cam duration and the red-hat man's role.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2233.1, N-2171, N-2172*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Turning Point USA figure referenced in host's "pregnancy brain" framing; host also teases tomorrow's segment about hotel accommodations shared with Andrew Kovat and TPUSA staff.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1*
-
----
-
 **N-2170** Missing Gloves Origin in SUV Door
 
 Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.
@@ -406,7 +263,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2223.1, A-2225.1, C-3193, N-1210, N-1211*
+*Related: A-2223.1, A-2225.1, C-3193*
 
 ---
 
@@ -419,7 +276,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2224.1, A-2227.1, A-2233.1, A-2234.1, C-3196, C-3197, C-3198, C-3199, C-3200, N-1214, N-1215, N-1216*
+*Related: A-2224.1, A-2227.1, A-2233.1, A-2234.1, C-3196, C-3197, C-3198, C-3199, C-3200*
 
 ---
 
@@ -432,7 +289,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2224.2, A-2233.1, C-3195, N-1216*
+*Related: A-2224.2, A-2233.1, C-3195*
 
 ---
 
@@ -471,7 +328,7 @@ Claim Timestamp: 00:03:26
 Claim: Mikey McCoy's arrival footage shows the rear-door pocket of the SUV as empty at the moment Charlie Kirk exited the vehicle, although black gloves were later recovered from that pocket.
 
 Anchored Artifacts: A-2223.1
-Mentions: N-1
+Mentions: N-1, N-272
 Related Nodes: N-2170
 
 Investigative Direction: Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.
@@ -485,7 +342,8 @@ Claim Timestamp: 00:13:11
 Claim: Per a Kash Patel public statement played in the episode, the first FBI agents arrived at UVU with chiefs of police at 12:39 PM, 16 minutes after the 12:23 PM shooting, and secured the scene.
 
 Anchored Artifacts: A-2226.1
-Related Nodes: N-1213
+Mentions: N-102
+Related Nodes:
 
 Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.
 
@@ -537,7 +395,7 @@ Claim Timestamp: 00:15:40
 Claim: Bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
 
 Anchored Artifacts: A-2227.1
-Related Nodes: N-1214, N-2171
+Related Nodes: N-2171
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
 
@@ -550,7 +408,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Related Nodes: N-1215, N-2171
+Related Nodes: N-2171
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
 
@@ -563,7 +421,7 @@ Claim Timestamp: 00:18:43
 Claim: Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Related Nodes: N-1214, N-1215, N-2171
+Related Nodes: N-2171
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.
 
@@ -680,7 +538,8 @@ Claim Timestamp: 00:06:18
 Claim: In a Frank Turk interview clip, Turk uses the phrase "yanking and banking" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.
 
 Anchored Artifacts: A-2225.1
-Related Nodes: N-1212
+Mentions: N-16
+Related Nodes:
 
 Investigative Direction: Obtain the full Frank Turk interview and clarify what "yanking and banking" refers to in context (procedure vs. colloquial expression).
 
@@ -693,7 +552,7 @@ Claim Timestamp: 00:18:43
 Claim: YouTuber Nissi's analysis asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
-Related Nodes: N-1216, N-2171, N-2172
+Related Nodes: N-2171, N-2172
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
 

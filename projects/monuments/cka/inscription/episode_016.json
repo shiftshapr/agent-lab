@@ -876,6 +876,102 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -932,7 +1028,8 @@
       "investigative_direction": "Compare Kovette's \"wrestle\" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.",
       "mentions_person_refs": [
         "N-1",
-        "N-42"
+        "N-42",
+        "N-65"
       ]
     },
     {
@@ -1055,7 +1152,8 @@
       "claim_timestamp": "00:11:11",
       "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-293"
       ]
     },
     {
@@ -1179,7 +1277,8 @@
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.",
       "mentions_person_refs": [
-        "N-220"
+        "N-220",
+        "N-50"
       ]
     },
     {
@@ -1250,7 +1349,8 @@
       "claim_timestamp": "00:38:49",
       "investigative_direction": "Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-84"
       ]
     },
     {
@@ -1269,7 +1369,9 @@
       "claim_timestamp": "00:40:07",
       "investigative_direction": "Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-69",
+        "N-84"
       ]
     },
     {
@@ -1288,7 +1390,8 @@
       "claim_timestamp": "00:41:24",
       "investigative_direction": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-71"
       ]
     },
     {
@@ -1307,7 +1410,8 @@
       "claim_timestamp": "00:36:11",
       "investigative_direction": "Identify which federal department is implicated; obtain any employment / family records.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-71"
       ]
     }
   ],

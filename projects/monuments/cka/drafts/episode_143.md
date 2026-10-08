@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2207, N-2208
-  - Reused Nodes Appearing: N-2, N-224, N-176, N-410, N-1207, N-1208
+  - Reused Nodes Appearing: N-2, N-224, N-176, N-410
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -34,7 +34,7 @@
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
 - **New Nodes Introduced:** N-2207, N-2208
-- **Existing Nodes Reused:** N-2, N-176, N-69, N-224, N-410, N-1207, N-1208
+- **Existing Nodes Reused:** N-2, N-176, N-69, N-224, N-410
 
 ---
 
@@ -296,7 +296,7 @@ Claim Timestamp: 00:32:32
 Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" — described as a person involved in law enforcement and a minister — recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
 
 Anchored Artifacts: A-2296.1
-Mentions: N-1, N-69, N-176
+Mentions: N-1, N-69, N-176, N-5
 Investigative Direction: Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.
 
 ---
@@ -332,7 +332,7 @@ Claim Timestamp: 00:35:00
 Claim: In an audio clip, streamer Hasan Piker calls Candace Owens "a queen" who "successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk," while simultaneously stating his belief that Tyler Robinson likely did it.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-1, N-69, N-176
+Mentions: N-1, N-69, N-176, N-3
 Investigative Direction: Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.
 
 ---
@@ -344,7 +344,7 @@ Claim Timestamp: 00:34:27
 Claim: Blake Neff's tweet (read in full) states that "the radical pro-violence left knows exactly what a gift Candace and her ilk are to them," framing her investigative work on the Robinson case as materially assisting left-wing political interests.
 
 Anchored Artifacts: A-2298.1
-Mentions: N-224, N-176
+Mentions: N-224, N-176, N-3
 Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.
 
 ---
@@ -368,7 +368,7 @@ Claim Timestamp: 00:11:42
 Claim: The host states, citing a government source she trusts, that the entire sequence — Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion — occurred within approximately ten minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-410
+Mentions: N-410, N-1
 Related Nodes: N-2207
 Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.
 

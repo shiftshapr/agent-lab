@@ -51,25 +51,25 @@ Confidence: high
 **A-1148** George Zinn Footage & Timeline Bundle
 
 **A-1148.1** Diagram of the amphitheater/tent showing the SUV departure point, the underpass, and Charlie's seat.
-Video Timestamp: 00:12:15–00:13:29
+Video Timestamp: 00:10:26–00:11:40
 *Related: C-1248, N-1, N-71*
 Transcript Snippet: where that dot is is where Charlie is sitting... the SUVs were waiting
 Confidence: high
 
 **A-1148.2** On-screen footage showing George Zinn walking calmly down the amphitheater steps with his pants falling.
-Video Timestamp: 00:14:36–00:15:39
+Video Timestamp: 00:12:38–00:13:41
 *Related: C-1249, N-71*
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Confidence: high
 
 **A-1148.3** Host's hand-built second timeline graphic correlating shot, SUV, pants-fall, hat wave and handcuff moments.
-Video Timestamp: 00:16:54–00:17:50
+Video Timestamp: 00:14:20–00:15:16
 *Related: C-1248, N-71, N-1*
 Transcript Snippet: 40 seconds later Charlie's brought to the SUV... George Zinn is in handcuffs
 Confidence: medium
 
 **A-1148.4** Viral photo of George Zinn bent down in handcuffs near the SUV zone.
-Video Timestamp: 00:18:16–00:18:31
+Video Timestamp: 00:15:08–00:15:23
 *Related: C-1250, N-71, N-1000*
 Transcript Snippet: It's George Zinn and he's bent down and he is in handcuffs and that goes viral
 Confidence: high
@@ -79,7 +79,7 @@ Confidence: high
 **A-1149** Wirefy Donor Footage Bundle
 
 **A-1149.1** Post-shot footage showing a blue-shirted Wirefy-branded individual taking out his phone/texting near Charlie.
-Video Timestamp: 00:19:55–00:20:23
+Video Timestamp: 00:17:02–00:17:30
 *Related: C-1251, N-1159*
 Transcript Snippet: he's wearing a shirt that says Wirefi... sends a text, takes a photo
 Confidence: high
@@ -89,7 +89,7 @@ Confidence: high
 **A-1150** Viral Roof Shooter Video Bundle
 
 **A-1150.1** Viral bystander footage of the shooter running across the rooftop, posted by a third party.
-Video Timestamp: 00:22:22–00:22:36
+Video Timestamp: 00:18:36–00:18:50
 *Related: C-1252, N-136*
 Transcript Snippet: there's somebody on the roof right there. Just saying.
 Confidence: high
@@ -99,25 +99,25 @@ Confidence: high
 **A-1151** Alex Clark / Andrew Kovette Interview Bundle
 
 **A-1151.1** Clip of Kovette answering whether Charlie was becoming Catholic.
-Video Timestamp: 00:40:40–00:44:35
+Video Timestamp: 00:32:47–00:36:42
 *Related: C-1254, N-42, N-1, N-2*
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Confidence: high
 
 **A-1151.2** Clip of Kovette denying a $150M Israel offer and asserting TPUSA takes no foreign money.
-Video Timestamp: 00:45:12–00:48:52
+Video Timestamp: 00:36:08–00:39:48
 *Related: C-1255, C-1256, N-42, N-1*
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Confidence: high
 
 **A-1151.3** Clip of Kovette explaining the SD card removal as evidence-preservation after the shooting.
-Video Timestamp: 00:51:21–00:53:11
+Video Timestamp: 00:41:15–00:43:05
 *Related: C-1257, N-42, N-1000*
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Confidence: high
 
 **A-1151.4** Clip of Kovette recounting Charlie's Myrtle Beach answer to a question about Candace/Tucker.
-Video Timestamp: 00:54:04–00:55:11
+Video Timestamp: 00:43:37–00:44:44
 *Related: C-1258, N-42, N-1, N-50*
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Confidence: high
@@ -127,7 +127,7 @@ Confidence: high
 **A-1152** Charlie Kirk Myrtle Beach Clip Bundle
 
 **A-1152.1** August Myrtle Beach clip of Charlie Kirk saying he won't end friendships over moral blackmail.
-Video Timestamp: 00:55:42–00:57:43
+Video Timestamp: 00:44:22–00:46:23
 *Related: C-1258, C-1259, N-1, N-3*
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Confidence: high
@@ -137,7 +137,7 @@ Confidence: high
 **A-1153** Trump Vaccine Statement Bundle
 
 **A-1153.1** Audio of Trump calling for separation of MMR vaccines and delay of Hepatitis B for newborns.
-Video Timestamp: 01:01:02–01:02:30
+Video Timestamp: 00:47:40–00:49:08
 *Related: C-1260, N-5*
 Transcript Snippet: We want no mercury in the vaccine. We want no aluminum in the vaccine. The MMR I think should be taken separately
 Confidence: high
@@ -147,7 +147,7 @@ Confidence: high
 **A-1154** Roof-Video Eyewitness Text Bundle
 
 **A-1154.1** Text from the rooftop-videographer eyewitness describing a smaller rifle and tactical-gear shooter.
-Video Timestamp: 00:30:47–00:31:32
+Video Timestamp: 00:25:26–00:26:11
 *Related: C-1261, C-1262, N-1165, N-69*
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... I would expect was used
 Confidence: medium
@@ -578,7 +578,7 @@ Scanner reportedly described jeans/black shirt/mask/vest/rifle — never made pu
 
 **C-1245** GMA reached Tiffany Barker via Phil Leman political channel
 
-Claim Timestamp: 00:10:11
+Claim Timestamp: 00:08:33
 Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman
 Anchored Artifacts: A-1146.1
@@ -605,7 +605,7 @@ Tags: open_source_investigation
 
 **C-1247** Artery detail originated from car conversation, not observation
 
-Claim Timestamp: 00:09:03
+Claim Timestamp: 00:07:43
 Claim: Per Tiffany Barker's follow-up video, the 'artery' detail was introduced by Tiffany herself during a 1.5-hour car conversation, not from what the children saw.
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
@@ -618,7 +618,7 @@ Investigative Direction: Obtain the original follow-up video and any car-cam foo
 
 **C-1248** George Zinn arrested ~1:48 after Charlie's SUV departs, same location
 
-Claim Timestamp: 00:13:41
+Claim Timestamp: 00:14:20
 Claim: Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
 Transcript Snippet: 40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs
 Anchored Artifacts: A-1148.1, A-1148.3, A-1148.4
@@ -631,7 +631,7 @@ Investigative Direction: Independently verify the timeline from official police 
 
 **C-1249** George Zinn's pants fell independently of arrest
 
-Claim Timestamp: 00:14:55
+Claim Timestamp: 00:12:38
 Claim: Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Anchored Artifacts: A-1148.2
@@ -645,7 +645,7 @@ Tags: open_source_investigation
 
 **C-1250** Handcuffs photo shared by Utah TPUSA advertiser
 
-Claim Timestamp: 00:18:31
+Claim Timestamp: 00:15:17
 Claim: Host says the viral handcuffs photo was first circulated by a Utah-based individual who advertises with Turning Point USA.
 Transcript Snippet: somebody who lived in Utah who advertises with Turning Point USA
 Anchored Artifacts: A-1148.4
@@ -658,7 +658,7 @@ Investigative Direction: Identify the original posting account via reverse-image
 
 **C-1251** Wirefy sponsored event; employee on-site post-shot
 
-Claim Timestamp: 00:21:02
+Claim Timestamp: 00:17:18
 Claim: Wirefy branding was the backdrop advertiser at the event, and a Wirefy-branded individual was on-site sending texts/photos in the immediate aftermath.
 Transcript Snippet: Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie
 Anchored Artifacts: A-1149.1
@@ -671,7 +671,7 @@ Tags: open_source_investigation
 
 **C-1252** Roof video chain routed through Chicago-based intermediaries
 
-Claim Timestamp: 00:24:06
+Claim Timestamp: 00:20:07
 Claim: Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.
 Transcript Snippet: those two numbers were both Chicago based... that's not making sense to me
 Anchored Artifacts: A-1150.1
@@ -684,7 +684,7 @@ Investigative Direction: Subpoena the originating accounts; obtain phone records
 
 **C-1253** Eyewitness tells FBI shooter was in tactical gear, not jeans
 
-Claim Timestamp: 00:29:07
+Claim Timestamp: 00:23:36
 Claim: Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
@@ -699,7 +699,7 @@ Tags: calls_for_tips, open_source_investigation
 
 **C-1254** Eyewitness says rifle was smaller than reported
 
-Claim Timestamp: 00:30:37
+Claim Timestamp: 00:25:26
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
@@ -712,7 +712,7 @@ Investigative Direction: Compare eyewitness account with ballistic/forensic find
 
 **C-1255** Kovette denies Charlie was converting to Catholicism
 
-Claim Timestamp: 00:40:47
+Claim Timestamp: 00:32:47
 Claim: Andrew Kovette told Alex Clark that Charlie was not converting; he loved Catholic mass but remained Protestant.
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Anchored Artifacts: A-1151.1
@@ -725,7 +725,7 @@ Investigative Direction: Cross-check with Charlie's own prior public statements 
 
 **C-1256** Kovette denies $150M Israel offer
 
-Claim Timestamp: 00:45:12
+Claim Timestamp: 00:36:08
 Claim: Kovette says he never heard of a $150M Israel offer and that TPUSA has consistently refused foreign money, including cancelling wires.
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Anchored Artifacts: A-1151.2
@@ -738,7 +738,7 @@ Investigative Direction: Audit TPUSA donor records against FARA filings; review 
 
 **C-1257** SD cards removed by TPUSA affiliate to prevent theft/loss
 
-Claim Timestamp: 00:51:21
+Claim Timestamp: 00:41:15
 Claim: Kovette says SD cards were pulled from on-scene cameras to preserve evidence from being stolen during the chaos, not to suppress footage.
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Anchored Artifacts: A-1151.3
@@ -751,7 +751,7 @@ Investigative Direction: Confirm chain-of-custody; check whether originals were 
 
 **C-1258** Charlie Kirk said he was being morally blackmailed by donors
 
-Claim Timestamp: 00:54:57
+Claim Timestamp: 00:43:37
 Claim: Kovette recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Anchored Artifacts: A-1151.4, A-1152.1
@@ -764,7 +764,7 @@ Investigative Direction: Identify the donor(s) involved; review any internal TPU
 
 **C-1259** Charlie Kirk publicly rejected demands to stop being friends with host
 
-Claim Timestamp: 00:56:05
+Claim Timestamp: 00:44:22
 Claim: In an August Myrtle Beach clip, Charlie Kirk said he does not stop being friends with people because of moral blackmail and named Candace specifically.
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Anchored Artifacts: A-1152.1
@@ -777,7 +777,7 @@ Investigative Direction: Verify the clip's date and audience Q&A context.
 
 **C-1260** Trump called for separating MMR and delaying Hepatitis B
 
-Claim Timestamp: 01:01:02
+Claim Timestamp: 00:47:44
 Claim: Trump publicly stated vaccines should not contain mercury or aluminum, MMR should be given as separate shots, and Hepatitis B should wait until age 12.
 Transcript Snippet: The MMR I think should be taken separately... hepatitis B is sexually transmitted... wait till the baby is 12
 Anchored Artifacts: A-1153.1
@@ -789,7 +789,7 @@ Investigative Direction: Verify official White House transcript of the statement
 
 **C-1261** Erika's father is the Lt. Gov. candidate alongside Phil Leman
 
-Claim Timestamp: 00:10:11
+Claim Timestamp: 00:08:33
 Claim: Host states Tiffany Barker's sister ran as lieutenant governor alongside Phil Leman.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman
 Anchored Artifacts: A-1146.1
@@ -802,7 +802,7 @@ Investigative Direction: Verify Leman's 2024 lt. gov. running mate name and fami
 
 **C-1262** Kash Patel indicated more parties involved than Robinson alone
 
-Claim Timestamp: 01:16:47
+Claim Timestamp: 00:59:20
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
 Transcript Snippet: Cash Patel has signified that that is so in his long message that we spoke about yesterday
 Anchored Artifacts: 
@@ -815,7 +815,7 @@ Investigative Direction: Pull the actual Patel thread and timestamp the posts; v
 
 **C-1263** Crime scene paver installation was paid for by an unknown party
 
-Claim Timestamp: 01:15:09
+Claim Timestamp: 00:58:05
 Claim: Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.
 Transcript Snippet: Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?
 Anchored Artifacts: 
@@ -828,7 +828,7 @@ Investigative Direction: Request UVU facilities work orders, vendor invoices, an
 
 **C-1264** Police scanner described shooter in jeans, black shirt, mask, vest, rifle
 
-Claim Timestamp: 01:15:52
+Claim Timestamp: 00:58:33
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:34:12
 Claim: Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as "Andrew's response to the Catholic question"), says Charlie Kirk debated Michael Knowles (transcript: "Michael Nolles") in good fun on Protestant versus Catholic theology and that they were dear friends.
 Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
 Anchored Artifacts: A-2518.1
-Mentions: N-1, N-42, N-138
+Mentions: N-1, N-42, N-138, N-135
 Confidence: medium
 Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate videos.
 
@@ -895,9 +895,9 @@ Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate vide
 
 ### Occurrence 1
 
-Video Timestamp: 00:49:03
+Video Timestamp: 00:39:12
 Speaker: N-3
-Quote: I am not equipped to be the CEO of my little tiny company... I worry I really do worry... just pray for Erika
+Quote: I am not equipped to be the CEO of my little tiny company. ... But I worry I really do worry. ... Just pray for her
 Context: Host asks viewers to pray for Erika taking on CEO/chairman role alone.
 Tags: grieving_widow_framing
 Confidence: medium
@@ -908,7 +908,7 @@ Confidence: medium
 
 ### Occurrence 1
 
-Video Timestamp: 00:39:55
+Video Timestamp: 00:32:00
 Speaker: N-3
 Quote: I said the joke that I said to Charlie, take the next step. You're too smart to be a Protestant.
 Context: Host defends egging Charlie on toward Catholicism.
@@ -917,7 +917,7 @@ Confidence: high
 
 ### Occurrence 2
 
-Video Timestamp: 00:41:01
+Video Timestamp: 00:33:04
 Speaker: N-42
 Quote: I grew up Catholic and first communion and went to Catholic high school, but then I ended up becoming a Christian in college... Erika kind of follows that same path
 Context: Kovette maps Erika's cradle-Catholic-to-Protestant arc to neutralize the conversion framing.
@@ -930,7 +930,7 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 01:03:11
+Video Timestamp: 00:49:19
 Speaker: N-3
 Quote: the evildoers in this world. The psychopaths that have been poisoning us for generations
 Context: Vaccine/school segment.
@@ -939,7 +939,7 @@ Confidence: high
 
 ### Occurrence 2
 
-Video Timestamp: 01:04:41
+Video Timestamp: 00:50:19
 Speaker: N-3
 Quote: we have to be radical because the psychopaths that rule the world are radical
 Context: Calls for parents to withdraw children from schools.
@@ -952,7 +952,7 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 01:00:33
+Video Timestamp: 00:47:16
 Speaker: N-3
 Quote: how much they lie and delude. And we have all of this fear-based reaction... accepting what is poison
 Context: Anti-vax commentary framing vaccines as poison and 'science' as cover for harm.
@@ -1012,9 +1012,10 @@ TopicMention: C-1264 N-1174
 
 ## 13. Meme Graph Links
 
-MemeLink: M-1 invoked_by_speaker 
-MemeLink: M-7 invoked_by_speaker 
-MemeLink: M-7 invoked_by_speaker 
-MemeLink: M-2 invoked_by_speaker 
-MemeLink: M-3 invoked_by_speaker 
-MemeLink: M-5 invoked_by_speaker 
+MemeLink: M-1 invoked_by_speaker N-3
+MemeLink: M-7 invoked_by_speaker N-3
+MemeLink: M-7 invoked_by_speaker N-42
+MemeLink: M-2 invoked_by_speaker N-3
+MemeLink: M-3 invoked_by_speaker N-3
+MemeLink: M-5 invoked_by_speaker N-3
+MemeLink: M-14 invoked_by_speaker N-3

@@ -238,7 +238,7 @@
           ],
           "related_nodes": [
             "N-70",
-            "N-412",
+            "N-2387",
             "N-1325"
           ],
           "tags": [],
@@ -559,28 +559,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-412",
-      "ref": "N-412",
-      "name": "Baker Tilly (Accounting Firm)",
-      "type": "person",
-      "description": "External auditor cited in the Wolves and Finance analysis as having issued a clean audit opinion for TPUSA and affiliates. Matters because of the audit-vs-missing-990 tension.",
-      "related_artifacts": [
-        "A-1420.3"
-      ],
-      "related_claims": [
-        "C-1730"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1325"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-413",
       "ref": "N-413",
       "name": "Mommy Sleuth (Nellie)",
@@ -684,7 +662,7 @@
       "related_nodes": [
         "N-2",
         "N-70",
-        "N-412"
+        "N-2387"
       ]
     },
     {
@@ -835,6 +813,45 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2387",
+      "ref": "N-2387",
+      "name": "Baker Tilly",
+      "type": "organization",
+      "description": "External auditor cited in the Wolves and Finance analysis as having issued a clean audit opinion for TPUSA and affiliates. Matters because of the audit-vs-missing-990 tension.",
+      "related_artifacts": [
+        "A-1420.3"
+      ],
+      "related_claims": [
+        "C-1730"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1325"
+      ],
+      "organization_kind": "company"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-753",
+      "ref": "N-753",
+      "name": "Zack Gregorio (Wolves and Finance)",
+      "type": "person",
+      "description": "YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -853,7 +870,8 @@
       "investigative_direction": "Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.",
       "mentions_person_refs": [
         "N-3",
-        "N-45"
+        "N-45",
+        "N-1"
       ]
     },
     {
@@ -873,7 +891,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-406"
+        "N-406",
+        "N-1"
       ]
     },
     {
@@ -1097,7 +1116,8 @@
       "claim_timestamp": "00:34:07–00:35:11",
       "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-753"
       ]
     },
     {
@@ -1116,7 +1136,8 @@
       "claim_timestamp": "00:37:29–00:39:37",
       "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-753"
       ]
     },
     {
@@ -1137,7 +1158,8 @@
       "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-753"
       ]
     },
     {
@@ -1176,7 +1198,8 @@
       "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-753"
       ]
     },
     {

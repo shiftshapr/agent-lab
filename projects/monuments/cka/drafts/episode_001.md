@@ -16,8 +16,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
   - Claim Range: C-1115-C-1124, C-3719
-  - New Nodes Introduced: N-1, N-2, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-59, N-60, N-61, N-62, N-63, N-64, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
+  - Reused Nodes Appearing: N-1, N-2, N-42, N-56, N-1000, N-3
 
 ## 3. Artifact Register
 
@@ -25,16 +25,16 @@
 
 **A-1077.1** Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.
 Event Timestamp: 2022-05-01
-Video Timestamp: 00:11:32–00:11:47
+Video Timestamp: 00:10:29–00:10:44
 *Related: C-1115, C-1116, N-1, N-3, N-56*
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Confidence: high
 
 **A-1077.2** Road trip audio/video from North/South Carolina during hurricane-driven 8-hour drive to DC.
 Event Timestamp: 2018
-Video Timestamp: 00:13:49–00:14:01
+Video Timestamp: 00:12:44–00:12:56
 *Related: C-1117, N-1, N-3*
-Transcript Snippet: Every single song was sung. Me and Charlie were always singing in cars.
+Transcript Snippet: Every single song was sung. We were always me and Charlie were always singing in cars.
 Confidence: medium
 
 **A-1077.3** Video of Charlie Kirk being chased out of a Philadelphia restaurant by Antifa; water and egg thrown.
@@ -57,7 +57,7 @@ Confidence: medium
 
 **A-1078.1** Photo of Charlie Kirk wearing Yeezys given to him by Kanye West.
 Event Timestamp: 2022
-Video Timestamp: 00:12:24–00:12:36
+Video Timestamp: 00:11:28–00:11:40
 *Related: C-1115, N-1, N-56*
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Confidence: high
@@ -68,9 +68,9 @@ Confidence: high
 
 **A-1079.1** Screen recording of text messages between Charlie and Candace about a pair of sunglasses.
 Event Timestamp: 2018-2022
-Video Timestamp: 00:12:03–00:12:16
+Video Timestamp: 00:11:10–00:11:23
 *Related: N-1, N-3*
-Transcript Snippet: He's just setting me. I'm like, 'Nah, that's not good. Nope. Send. Okay, that one's okay.'
+Transcript Snippet: He's just setting me. I'm like, "Nah, that's not good. Nope. That's not No, no. Send. Okay, that one's okay."
 Confidence: high
 
 **A-1079.2** Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.
@@ -82,9 +82,9 @@ Confidence: high
 
 **A-1079.3** Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.
 Event Timestamp: 2019-2020
-Video Timestamp: 00:19:23–00:19:43
+Video Timestamp: 00:18:31–00:18:51
 *Related: C-1120, N-1, N-3, N-2*
-Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
+Transcript Snippet: Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... "Marry me. It's a logistics thing."
 Confidence: high
 
 ---
@@ -93,7 +93,7 @@ Confidence: high
 
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
-Video Timestamp: 00:11:10–00:11:17
+Video Timestamp: 00:09:59–00:10:06
 *Related: C-1121, N-1, N-3, N-56, N-1073*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
@@ -337,7 +337,7 @@ Site of first planning session between Charlie and Candace at Macaroni Grill res
 
 **C-1115** Kanye tweet about Candace was celebrated backstage
 
-Claim Timestamp: 00:11:32
+Claim Timestamp: 00:10:29
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
@@ -351,7 +351,7 @@ Tags: open_source_investigation
 
 **C-1116** Charlie's relationship with Kanye included gift of Yeezys
 
-Claim Timestamp: 00:12:29
+Claim Timestamp: 00:11:28
 Claim: Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photographed wearing them, per a photo shown in the episode.
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Anchored Artifacts: A-1078.1
@@ -365,9 +365,9 @@ Investigative Direction: Verify the Yeezys gift claim against Kanye West's publi
 
 **C-1117** Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane
 
-Claim Timestamp: 00:13:38
+Claim Timestamp: 00:12:40
 Claim: When flights were cancelled during a hurricane, Charlie and Candace rented a car and drove 8 hours to reach DC by morning, per a road-trip audio clip shown.
-Transcript Snippet: We got to rent a car. We got to drive eight hours. One of the most fun road trips I've had in my life.
+Transcript Snippet: We got to rent a car. We got to drive eight hours. ... And one of the most fun uh road trips I've had in my life.
 Anchored Artifacts: A-1077.2
 Mentions: N-1, N-3
 Confidence: medium
@@ -432,9 +432,9 @@ Investigative Direction: Verify the UK trip date and the text chain contents aga
 
 **C-1120** Candace joked Erika should marry Charlie for the last name upgrade
 
-Claim Timestamp: 00:19:23
+Claim Timestamp: 00:18:31
 Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.
-Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
+Transcript Snippet: Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... "Marry me. It's a logistics thing."
 Anchored Artifacts: A-1079.3
 Mentions: N-1, N-2, N-3
 Related Nodes: N-1068
@@ -445,7 +445,7 @@ Investigative Direction: Confirm the text chain timing predates the Kirk/Frantze
 
 **C-1121** Kanye's Power was the TPUSA tour hype song
 
-Claim Timestamp: 00:11:10
+Claim Timestamp: 00:09:59
 Claim: Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep, per multiple playbacks in the episode.
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
@@ -489,16 +489,16 @@ Investigative Direction: Corroborate the gift anecdote with any public statement
 
 ### Occurrence 1
 
-Video Timestamp: 00:20:15
+Video Timestamp: 00:19:26
 Speaker: N-3
-Quote: Never for a single minute ever did Charlie and I stop being friends. Our relationship was forged in fire.
+Quote: Never for a single minute ever did Charlie and I stop being friends. ... Our relationship was forged in fire.
 Context: Closing emotional affirmation of friendship continuity after Charlie Kirk's death.
 Tags: memorial_tone, emotional_framing
 Confidence: high
 
 ### Occurrence 2
 
-Video Timestamp: 00:22:59
+Video Timestamp: 00:22:00
 Speaker: N-3
 Quote: I will never unsee the footage of what I saw, the violence of it. I pray for the people who took any pleasure in that.
 Context: Direct grief-stricken commentary on the assassination footage.
@@ -511,7 +511,7 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:11:25
+Video Timestamp: 00:10:21
 Speaker: N-3
 Quote: We were 100% we manifested this by listening to Power on repeat.
 Context: After Kanye tweeted 'I love the way Candace Owens thinks' shortly after they had been listening to Kanye's music on repeat.
@@ -520,7 +520,7 @@ Confidence: high
 
 ### Occurrence 2
 
-Video Timestamp: 00:19:56
+Video Timestamp: 00:19:04
 Speaker: N-3
 Quote: Our plan worked. We broke Erika down. First came the name shame, then came the wedding, then came the children.
 Context: Frames the Erika Kirk relationship outcome as the deliberate result of a comedic 'plan' rather than organic romantic development.
@@ -533,9 +533,9 @@ Confidence: medium
 
 ### Occurrence 1
 
-Video Timestamp: 00:22:08
+Video Timestamp: 00:21:05
 Speaker: N-3
-Quote: I think in the end Charlie was going through a spiritual transformation. He was going through a lot and there was a lot of pressure.
+Quote: I think in the end Charlie Charlie was going through a spiritual transformation. ... He was going through a lot and. There was a lot of pressure
 Context: Host introduces a 'spiritual transformation' narrative without specifying the direction or destination; flags outside pressure as hostile.
 Tags: spiritual_framing, unspecified_direction
 Confidence: high

@@ -486,29 +486,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Newly identified individual in this episode. Linked to the \"No Soup For You\" / \"No Soup For Noels\" X account and to the \"Protect Erika Kirk\" 92-member group chat. Cited as approximately 45 years old with a prior-year DUI on record.",
-      "related_artifacts": [
-        "A-2273.1",
-        "A-2273.2",
-        "A-2273.3"
-      ],
-      "related_claims": [
-        "C-3269",
-        "C-3270",
-        "C-3271"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2190",
       "ref": "N-2190",
       "name": "Parking-Garage Subject Identity Discrepancy",
@@ -588,6 +565,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -653,7 +694,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:12",
-      "investigative_direction": "Compile the visual catalog used by major outlets on 2025-09-12 through 2025-09-15 and assess the proportion of maroon-shirt imagery vs. available alternatives."
+      "investigative_direction": "Compile the visual catalog used by major outlets on 2025-09-12 through 2025-09-15 and assess the proportion of maroon-shirt imagery vs. available alternatives.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -667,7 +711,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:34",
-      "investigative_direction": "Obtain or verify the screen-recorded archive; cross-reference the original Facebook page if accessible."
+      "investigative_direction": "Obtain or verify the screen-recorded archive; cross-reference the original Facebook page if accessible.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -683,7 +730,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
-      "investigative_direction": "Obtain court records or biographical sources documenting Lance Twigs's stated handedness."
+      "investigative_direction": "Obtain court records or biographical sources documenting Lance Twigs's stated handedness.",
+      "mentions_person_refs": [
+        "N-84"
+      ]
     },
     {
       "@type": "Claim",
@@ -697,7 +747,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:42",
-      "investigative_direction": "Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by)."
+      "investigative_direction": "Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -714,7 +767,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:34",
-      "investigative_direction": "Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose."
+      "investigative_direction": "Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose.",
+      "mentions_person_refs": [
+        "N-71"
+      ]
     },
     {
       "@type": "Claim",
@@ -728,7 +784,8 @@
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Obtain independent verification of membership size, group origin date, and named administrators.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -758,7 +815,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:27",
-      "investigative_direction": "Obtain the underlying tweet-counter screenshot and verify date range and account identifier."
+      "investigative_direction": "Obtain the underlying tweet-counter screenshot and verify date range and account identifier.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -808,7 +869,8 @@
       "claim_timestamp": "00:46:41",
       "investigative_direction": "Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-272"
       ]
     },
     {
@@ -840,7 +902,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:52:51",
-      "investigative_direction": "Obtain the specific court exhibit referenced and confirm the right-hand note-taking image."
+      "investigative_direction": "Obtain the specific court exhibit referenced and confirm the right-hand note-taking image.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",

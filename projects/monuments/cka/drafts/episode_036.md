@@ -320,7 +320,7 @@ Claim Timestamp: 00:41:28
 Claim: KUTV investigative report documents that Washington County Sheriff's office responded to records requests stating there were no records responsive to requests for surveillance footage of Tyler Robinson at the facility.
 
 Anchored Artifacts: A-1449.1
-Mentions: N-437
+Mentions: N-437, N-69
 Related Nodes: N-1342
 Investigative Direction: Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.
 
@@ -346,7 +346,7 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff Nate Brooksby, in his September 17, 2025 press conference as reported by KUTV, stated: "Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives."
 
 Anchored Artifacts: A-1449.1
-Mentions: N-437
+Mentions: N-437, N-69
 Related Nodes: N-1342
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
@@ -359,6 +359,7 @@ Claim Timestamp: 00:14:15
 Claim: The played audio clip documents Tucker Carlson at a Turning Point event criticizing Epstein-connected wealth (Gulf Streams, island, ranch, NYC residence), naming Bill Ackman, and arguing U.S. wealth is not merit-based.
 
 Anchored Artifacts: A-1450.1
+Mentions: N-50
 Related Nodes:
 Investigative Direction: Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials.
 

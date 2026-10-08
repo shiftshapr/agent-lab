@@ -535,7 +535,7 @@ Claim Timestamp: 00:11:07
 Claim: According to Brett Cooper (read on air), Lou Taylor began her career working alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.
 
 Anchored Artifacts: A-1399.2
-Mentions: N-392, N-394
+Mentions: N-392, N-394, N-335
 
 
 Investigative Direction: Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates.
@@ -549,7 +549,7 @@ Claim Timestamp: 00:11:07
 Claim: Brett Cooper states Lou Taylor had no financial background and was not an accountant, despite serving as a business manager.
 
 Anchored Artifacts: A-1399.2
-Mentions: N-392
+Mentions: N-392, N-335
 
 
 Investigative Direction: Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials.
@@ -563,7 +563,7 @@ Claim Timestamp: 00:11:07
 Claim: Per Brett Cooper citing a 2010 financial document, Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, "tens of thousands of dollars" in one year.
 
 Anchored Artifacts: A-1399.2, A-1403.1
-Mentions: N-392, N-395
+Mentions: N-392, N-395, N-335
 
 Related Nodes: N-1319
 
@@ -634,7 +634,7 @@ Claim Timestamp: 00:14:40
 Claim: Per partially redacted viewer email read on air, the sender alleges the Calvary Chapel associated with Lou Taylor is a front for the Taylors and "Aruse" (uncertain transcription), and that Lou Taylor has alleged ties to CIA, Mossad, Black Cube Security, and a property in Thousand Oaks tied to Tony Blair. Host flags all of this as unverified.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-392, N-394
+Mentions: N-392, N-394, N-45
 
 Related Nodes: N-1319
 
@@ -693,7 +693,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a "church home" associated with Hillsong / Justin Bieber.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-392, N-587
+Mentions: N-392, N-587, N-396
 
 Related Nodes: N-1319
 
@@ -794,7 +794,7 @@ Claim Timestamp: 00:56:52
 Claim: Per host reference, Daily Mail (Victoria Churchill, APAC reporter) published a headline framing Ali Stucky as TPUSA's "heir" or equivalent.
 
 Anchored Artifacts: A-1412.1
-Mentions: N-2, N-349
+Mentions: N-2, N-349, N-119
 
 
 Investigative Direction: Obtain the article and verify framing language; host disputes framing on air.
@@ -822,6 +822,7 @@ Claim Timestamp: 00:37:29
 Claim: Per replayed audio clip, Charlie Kirk stated that one wants friends who tell you where the bullets are coming from, not those who offer distractions, in a pre-assassination conversation with host.
 
 Anchored Artifacts: A-1414.1
+Mentions: N-1
 
 Related Nodes: N-1322
 

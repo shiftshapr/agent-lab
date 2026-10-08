@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-37
+  - Reused Nodes Appearing: N-37
   - (see registers)
 
 ---
@@ -31,7 +31,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
   - Claim Range: C-3027–C-3041
-  - New Nodes Introduced (People): N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  - New Nodes Introduced (People): none (Wave 2: local ids removed)
   - New Nodes Introduced (Investigation Targets): N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:07:20–00:08:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3035, N-1212, N-2119*
+*Related: C-3035, N-2119*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:29:15–00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3036 [corrected: see C-3037], N-1210, N-1211, N-2123*
+*Related: C-3036 [corrected: see C-3037], N-2123*
 
 **A-2143.2** Comperatore Statement on Secret Service One-Year Delay
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3038, N-1210, N-2123*
+*Related: C-3038, N-2123*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:34:37–00:39:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3039, C-3040, N-1213, N-2121*
+*Related: C-3039, C-3040, N-2121*
 
 ---
 
@@ -200,123 +200,6 @@ Confidence Level: High
 ---
 
 # V. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-UVU Department of Public Safety officer who testified in the Tyler Robinson hearing regarding abandoned items and FBI lab communications.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2139.1, A-2139.2, C-3027, C-3028, N-2117*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Charlie Kirk's executive assistant at Turning Point USA; interviewed by Megyn Kelly regarding shirt selection.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2138.1, C-3036, N-1*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Witness who recorded video of person on rooftop, described shooter in all-black tactical gear, and filed report with UVU command center. Identity deliberately withheld by host.
-
-Evidence Count: 3
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2140.1, A-2140.2, A-2140.3, C-3029, C-3030, C-3031, C-3034, N-2118*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Widow of Corey Comperatore (Butler, PA shooting fatality, 2024). Spoke on NewsNation asserting "inside job" belief.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2143.1, A-2143.2, C-3037, C-3038, N-1211, N-2123*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Only fatality in the 2024 Butler, PA shooting. Note: transcript renders name as "Comparetor" / "Comstocker"; preserve uncertainty.
-
-Evidence Count: 0 (referenced, not artifact-anchored in this episode)
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-1210, A-2143.1, N-2123*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Christian consultant; fired from Bank of America in 2011 per Christian Post article. Transcript records host as stating "Frank Cherico" — possible transcription error.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2142.1, C-3035, N-2119*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Former Trump campaign manager; partner at Clock Tower X (Israeli foreign ministry digital influence firm) and co-owner of Influencable.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2144.1, C-3039, C-3040, N-2121*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Interviewer in A-2138 segment with Nate Walker.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2138.1*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Present with host on couch in Spain during hearing observation; confirmed host's reaction.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2139.1*
-
----
 
 **N-2116** Losee Center–Library Route Discrepancy
 
@@ -366,7 +249,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2142.1, C-3035, N-1212, N-37*
+*Related: A-2142.1, C-3035, N-37*
 
 ---
 
@@ -379,7 +262,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, C-3037, N-1210, N-2123*
+*Related: A-2143.1, C-3037, N-2123*
 
 ---
 
@@ -392,7 +275,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2144.1, C-3039, C-3040, N-1213*
+*Related: A-2144.1, C-3039, C-3040*
 
 ---
 
@@ -418,7 +301,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, A-2143.2, C-3037, C-3038, N-1210, N-1211, N-2120*
+*Related: A-2143.1, A-2143.2, C-3037, C-3038, N-2120*
 
 ---
 
@@ -538,7 +421,8 @@ Claim Timestamp: 00:07:20
 Claim: Per Christian Post article (2011), Dr. Frank Turek was a consultant to Bank of America for approximately 15 years conducting leadership and team-building programs until being fired in 2011.
 
 Anchored Artifacts: A-2142.1
-Related Nodes: N-1212, N-2119
+Mentions: N-16
+Related Nodes: N-2119
 Investigative Direction: Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.
 
 *Flag: Transcript records host as stating "Frank Cherico" while the read article names "Dr. Frank Turek" — possible transcription error or verbal name mix.*
@@ -552,7 +436,7 @@ Claim Timestamp: 00:03:16
 Claim: Nate Walker, Charlie's executive assistant, told Megyn Kelly that Charlie requested the "freedom shirt" from a small selection brought to the event because it "wasn't controversial"; Walker could not recall other shirt options.
 
 Anchored Artifacts: A-2138.1
-Mentions: N-1
+Mentions: N-1, N-75
 Related Nodes: N-2122
 Investigative Direction: Obtain full Megyn Kelly interview and any prior on-record statements by Walker.
 
@@ -565,7 +449,7 @@ Claim Timestamp: 00:29:15
 Claim: Helen Comperatore stated on NewsNation that she believes the Butler shooter Thomas Crooks was working with someone inside the government, describing it as "an inside job."
 
 Anchored Artifacts: A-2143.1
-Related Nodes: N-1210, N-1211, N-2120, N-2123
+Related Nodes: N-2120, N-2123
 Investigative Direction: Obtain full NewsNation interview; identify any specific evidence references Comperatore cited ("I've been told things").
 
 ---
@@ -577,7 +461,7 @@ Claim Timestamp: 00:31:50
 Claim: Per host reporting on NewsNation interview, Helen Comperatore stated that Secret Service did not contact her until a year after the Butler incident and did not fully answer her questions.
 
 Anchored Artifacts: A-2143.2
-Related Nodes: N-1210, N-2123
+Related Nodes: N-2123
 Investigative Direction: Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.
 
 ---
@@ -589,7 +473,7 @@ Claim Timestamp: 00:34:37
 Claim: Time magazine reported that the Brad Parscale / Clock Tower X digital influence campaign on behalf of the Israeli foreign ministry backfired and failed to achieve its intended impact.
 
 Anchored Artifacts: A-2144.1
-Related Nodes: N-1213, N-2121
+Related Nodes: N-2121
 Investigative Direction: Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).
 
 ---
@@ -601,7 +485,7 @@ Claim Timestamp: 00:35:39
 Claim: Per Time article reporting, the Israeli foreign ministry's contracted digital campaign via Clock Tower X was reportedly spending approximately $1.5 million per day.
 
 Anchored Artifacts: A-2144.1
-Related Nodes: N-1213, N-2121
+Related Nodes: N-2121
 Investigative Direction: Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.
 
 ---
@@ -627,7 +511,7 @@ Investigative Direction: Identify the vendor/contractor who produced the custom 
 - **Building name variations — Losee Center / Lozi / Loews / Eloise Center:** Transcript contains multiple variants; the canonical UVU building name is "Losee Center." Preserve transcript spellings where artifact-bound.
 - **Building name variations — Folsom / Fulton / Foltin Library:** Transcript variants; canonical UVU name is "Fulton Library." Preserve transcript spellings.
 - **Artifact verbally referenced but not shown (C-3033):** Police scanner description of "face mask and tactical gear" is asserted by host; no scanner audio artifact was displayed. Flagged for verification.
-- **Possible transcription error (N-1212):** See Frank Cherico/Turek note above.
+- **Possible transcription error (former local id 1212):** See Frank Cherico/Turek note above.
 - **Requires human verification:** All four name-spelling flags above and the C-3033 police-scanner assertion.
 - **Timestamp uncertainty:** Artifact C-3033 has no video artifact timestamp; claim is host-paraphrased.
 
@@ -637,6 +521,6 @@ Investigative Direction: Identify the vendor/contractor who produced the custom 
 
 - **Artifact Families Introduced:** A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
 - **Claim Range:** C-3027–C-3041
-- **New Nodes Introduced (People):** N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+- **New Nodes Introduced (People):** none (Wave 2: local ids removed)
 - **New Nodes Introduced (Investigation Targets):** N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)

@@ -11,8 +11,9 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-311, N-313, N-314, N-319, N-320, N-321, N-322, N-323, N-1286, N-1287
+  - New Nodes Introduced: N-311, N-313, N-314, N-319, N-320, N-321, N-1286, N-1287
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave2): N-2385, N-2386
   - (see registers), N-37
 
 # Meta-Data
@@ -131,7 +132,7 @@ Video Timestamp: 00:21:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1575, N-N-323 Israeli War Room, N-322 Jerusalem Post, N-311 Michael Starr, N-2 Erica Kirk, N-1286*
+*Related: C-1575, N-2386, N-2385, N-311, N-2, N-1286*
 
 **A-1317.2** Andrew Kolbenschlag X Reply Denying Knowledge of Award
 
@@ -151,7 +152,7 @@ Video Timestamp: 00:23:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1577, N-311 Michael Starr, N-323 Israeli War Room, N-1286*
+*Related: C-1577, N-311, N-2386, N-1286*
 
 **A-1318** Erika Kirk Jesse Waters Interview Preview Bundle
 
@@ -261,7 +262,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.3, C-1575, C-1577, N-322, N-323, N-2, N-1286*
+*Related: A-1317.1, A-1317.3, C-1575, C-1577, N-2385, N-2386, N-2, N-1286*
 
 **N-42** Andrew Kolvet
 
@@ -351,7 +352,10 @@ Investigative Pressure: Low
 
 *Related: A-1317.1, C-1575, N-1286*
 
-**N-322** Jerusalem Post
+**N-2385** Jerusalem Post
+
+Node Type: Organization
+Organization Kind: media_outlet
 
 News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.
 
@@ -362,7 +366,10 @@ Investigative Pressure: Medium
 
 *Related: A-1317.1, C-1575, N-311, N-1286*
 
-**N-323** Israeli War Room
+**N-2386** Israeli War Room
+
+Node Type: Organization
+Organization Kind: media_outlet
 
 X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award.
 
@@ -371,7 +378,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-1575, N-322, N-1286*
+*Related: A-1317.1, C-1575, N-2385, N-1286*
 
 **N-1286** TPUSA Posthumous Israel Award Reporting Discrepancy
 
@@ -382,7 +389,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-311, N-42, N-322, N-323, N-2*
+*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-311, N-42, N-2385, N-2386, N-2*
 
 **N-1287** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
@@ -413,6 +420,7 @@ Claim Timestamp: 00:01:57
 Claim: Lindsey Graham stated at the Republican Jewish Coalition that anti-Israel rhetoric is "not the road to being elected as a Republican" and that one "can't even have an anti-Israel thought."
 
 Anchored Artifacts: A-1313.1
+Mentions: N-716
 
 Related Nodes:
 
@@ -427,6 +435,7 @@ Claim Timestamp: 00:04:07
 Claim: Randy Fine stated on stage at the Republican Jewish Coalition that "Tucker Carlson is the most dangerous anti-Semite in America" and accused him of taking on the mantle of "leader of a modern-day Hitler youth."
 
 Anchored Artifacts: A-1313.2
+Mentions: N-50, N-339
 
 Related Nodes:
 
@@ -441,6 +450,7 @@ Claim Timestamp: 00:01:57
 Claim: Host characterizes Lindsey Graham's RJC statement as "great messaging" sarcastically, asserting it constitutes hostile messaging directed at American voters who hold anti-Israel views.
 
 Anchored Artifacts: A-1313.1
+Mentions: N-716
 
 Related Nodes:
 
@@ -455,7 +465,7 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that Tucker Carlson "knifes [friends] directly between the shoulder blades when convenient for him" and specifically "preys on the friendship he proclaims" with Charlie Kirk.
 
 Anchored Artifacts: A-1314.2
-Mentions: N-1
+Mentions: N-1, N-50, N-133
 
 
 Investigative Direction: Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages).
@@ -469,7 +479,7 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that "Charlie believed that Nick Fuentes was vermin. That's a direct quote."
 
 Anchored Artifacts: A-1314.2
-Mentions: N-1
+Mentions: N-1, N-293, N-133
 
 
 Investigative Direction: Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.
@@ -483,7 +493,7 @@ Claim Timestamp: 00:16:02
 Claim: In a 2018 Joe Rogan appearance, Candace Owens referred to him as "the hall monitor" and joked that he "writes you a pink slip" and sends people to "Saturday school."
 
 Anchored Artifacts: A-1315.1
-Mentions: N-3
+Mentions: N-3, N-427
 
 
 Investigative Direction: Verify by locating the full original Joe Rogan episode to confirm wording and date.
@@ -497,7 +507,7 @@ Claim Timestamp: 00:18:19
 Claim: A photo displayed in the episode depicts Candace Owens and Charlie Kirk in Ben Shapiro's Sherman Oaks studio, standing with puffed chests and standing extra tall, taken in or around June 2018 after they were booked on his show despite prior tension.
 
 Anchored Artifacts: A-1316.1
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-133
 
 
 Investigative Direction: Verify by locating the source image metadata (date, location, producer of the appearance).
@@ -511,9 +521,9 @@ Claim Timestamp: 00:21:26
 Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler.
 
 Anchored Artifacts: A-1317.1
-Mentions: N-2, N-311, N-319, N-320, N-321, N-322, N-323
+Mentions: N-2, N-311, N-319, N-320, N-321
 
-Related Nodes: N-1286
+Related Nodes: N-1286, N-2385, N-2386
 
 Investigative Direction: Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.
 
@@ -541,9 +551,9 @@ Claim Timestamp: 00:23:04
 Claim: Michael Starr posted on X that "the Israeli government press office wavered on claims that Erika Kirk would be accepting [the posthumous award]" after TPUSA said it was unaware of the award and that its CEO was not scheduled to participate.
 
 Anchored Artifacts: A-1317.3
-Mentions: N-311, N-323
+Mentions: N-311, N-2
 
-Related Nodes: N-1286
+Related Nodes: N-1286, N-2386
 
 Investigative Direction: Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.
 
@@ -585,7 +595,7 @@ Claim Timestamp: 00:45:55
 Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.
 
 Anchored Artifacts: A-1320.5
-Mentions:
+Mentions: N-148, N-69, N-358
 
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.
@@ -627,6 +637,7 @@ Claim Timestamp: 00:10:00
 Claim: Host characterizes Ben Shapiro's segment attacking Tucker Carlson as "a very, dare I say, scripted stab" that "took" the same talking points as other Zionists.
 
 Anchored Artifacts: A-1314.1
+Mentions: N-50, N-133
 
 Related Nodes:
 

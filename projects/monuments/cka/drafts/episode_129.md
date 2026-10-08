@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2139, N-2140, N-2141, N-2142
-  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-611
+  - Reused Nodes Appearing: N-1, N-2, N-611
   - (see registers)
 
 ## 2. Executive Summary
@@ -162,7 +162,7 @@ Video Timestamp: 00:42:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3098, C-3099, N-1211, N-2140*
+*Related: C-3098, C-3099, N-2140*
 
 **A-2169.2** Tim Pool X post comparing amplification of Charlie Kirk conspiracy claims on social media to the destruction of Alex Jones; asking why YouTube is boosting such videos
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:43:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3100, N-1210, N-2140*
+*Related: C-3100, N-2140*
 
 **A-2169.3** Blake Neff Twitter Space audio comparing Candace Owens's coverage to Alex Jones's Sandy Hook coverage, specifically citing the 10-month sustained duration
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:48:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3102, N-1212, N-2140*
+*Related: C-3102, N-2140*
 
 **A-2169.5** Pre-death Charlie Kirk audio clip criticizing the Alex Jones verdict as "patient zero for lawfare strategies" and warning against using it as a censorship blueprint
 
@@ -264,72 +264,6 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Audio source describing Mikey McCoy's reaction and phone calls (A-2168.1); made Sandy Hook comparison in Twitter Space audio (A-2169.3); arrived at Timpanogos in SUV with Danny Philip (A-2166.1).
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2165.1, A-2166.1, A-2168.1, A-2169.3, C-3087, C-3092, C-3094, C-3097, C-3101*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Newly identified Turning Point USA employee; sat in second SUV with Blake Neff (A-2166.1); party to 10-minute phone call with Mikey McCoy (A-2167.1).
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2166.1, A-2167.1, C-3093, C-3096*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Among multiple independent observers identifying the SUV door object as a glove (A-2165.1); cited as covering the hospital arrival news segment.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2165.1, C-3087, C-3104*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Author of X post comparing current social-media amplification to Alex Jones/Sandy Hook (A-2169.2).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2169.2, C-3100, N-2140*
-
-**N-1211** UVU Campus Familiarity Question
-
-Author of X post distinguishing Alex Jones liability grounds (A-2169.1).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2169.1, C-3098, C-3099, N-2140*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Speaker on the Charlie Kirk Show invoking "Sandy Hook 2.0" framing (A-2169.4).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2169.4, C-3102, N-2140*
-
 **N-2139** SUV Interior Anomaly
 
 Persistent investigation target covering (a) unidentified glove-like object in left rear door pocket (Rick Cutler's side), and (b) purported burned-shirt object in backseat. Cross-references photos A-2165.1, A-2165.3 and viewer hypotheses A-2170.1, A-2170.2.
@@ -385,6 +319,7 @@ Claim Timestamp: 00:26:13
 Claim: The Daily Mail article published 2026-07-20 quotes a "family friend" as describing Erika Kirk's private tirades against Candace Owens using specified derogatory terms.
 
 Anchored Artifacts: A-2164.1
+Mentions: N-3, N-2
 
 Related Nodes: N-2142
 
@@ -413,7 +348,7 @@ Claim Timestamp: 00:28:34
 Claim: The Daily Mail article reports that Erika Kirk, upon seeing Tyler Robinson in court, felt compassion and overwhelming sadness rather than anger.
 
 Anchored Artifacts: A-2164.2
-Mentions: N-2
+Mentions: N-2, N-69
 
 
 Investigative Direction: Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss).
@@ -427,7 +362,7 @@ Claim Timestamp: 00:36:27
 Claim: The Daily Mail article reports Erika Kirk's stated position that she will not give Candace Owens any energy and holds Candace in greater contempt than Tyler Robinson.
 
 Anchored Artifacts: A-2164.3
-Mentions: N-2
+Mentions: N-2, N-69, N-3
 
 
 Investigative Direction: Verify quoted statements with original article; identify "family friend" vs. "family member" sourcing distinction.
@@ -441,8 +376,9 @@ Claim Timestamp: 00:03:30
 Claim: A newly released photograph of the SUV's left rear door compartment shows an object that the host, her husband, Baron Coleman, and other unnamed observers identify as a glove.
 
 Anchored Artifacts: A-2165.1
+Mentions: N-552
 
-Related Nodes: N-2139
+Related Nodes:
 
 Investigative Direction: Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene.
 
@@ -456,7 +392,7 @@ Claim: The host's team conducted a comparison experiment by placing nitrile glov
 
 Anchored Artifacts: A-2165.2
 
-Related Nodes: N-2139
+Related Nodes:
 
 Investigative Direction: Treat as illustrative comparison only; not independent forensic evidence.
 
@@ -483,8 +419,9 @@ Claim Timestamp: 00:03:30
 Claim: The host describes an informal "double-blind" comparison in which multiple observers independently identified the object as a glove, with the husband reportedly shown the image without contextual framing.
 
 Anchored Artifacts: A-2165.1
+Mentions: N-552
 
-Related Nodes: N-2139
+Related Nodes:
 
 Investigative Direction: Methodology is informal and unsystematic; results should not be treated as expert identification.
 
@@ -498,7 +435,7 @@ Claim: A second never-before-seen photograph shows the backseat object with enou
 
 Anchored Artifacts: A-2165.3
 
-Related Nodes: N-2139
+Related Nodes:
 
 Investigative Direction: Forensic image analysis; chain-of-custody verification; determine whether object is fabric remnant consistent with the freedom shirt.
 
@@ -511,7 +448,7 @@ Claim Timestamp: 00:13:40
 Claim: Phone records show Mikey McCoy making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-611
+Mentions: N-611, N-326, N-272, N-45
 
 Related Nodes: N-2141
 
@@ -526,6 +463,7 @@ Claim Timestamp: 00:13:40
 Claim: Blake Neff's recorded account describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, with Blake noting Mikey's lip was quivering.
 
 Anchored Artifacts: A-2168.1
+Mentions: N-272, N-224
 Contradicts: C-1932, C-3092
 
 Related Nodes: N-2141
@@ -541,7 +479,7 @@ Claim Timestamp: 00:18:17
 Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
-Mentions: N-611
+Mentions: N-611, N-5, N-272, N-224
 
 Related Nodes:
 
@@ -556,7 +494,7 @@ Claim Timestamp: 00:10:36
 Claim: Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.
 
 Anchored Artifacts: A-2166.1
-Mentions: N-611
+Mentions: N-611, N-1, N-224
 
 Related Nodes:
 
@@ -571,7 +509,7 @@ Claim Timestamp: 00:11:37
 Claim: Danny Philip — newly hired Turning Point USA employee — was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
 
 Anchored Artifacts: A-2167.1, A-2166.1
-Mentions: N-611
+Mentions: N-611, N-272
 
 Related Nodes: N-2141
 
@@ -586,14 +524,13 @@ Claim Timestamp: 00:14:48
 Claim: Blake Neff describes Mikey McCoy calling his father Rob McCoy and asking him to mobilize pastor friends for prayer.
 
 Anchored Artifacts: A-2168.1
+Mentions: N-272, N-224, N-45
 
 Related Nodes: N-2141
 
 Investigative Direction: Confirm against authenticated phone records.
 
 ---
-
-**C-3089 (duplicate check)** — proceeding to C-3098.
 
 **C-3098** Seth Dillon publicly argued the Alex Jones verdict was based on false accusations against specific people, not on questioning official narratives
 
@@ -602,8 +539,9 @@ Claim Timestamp: 00:42:49
 Claim: Seth Dillon's X post distinguishes the Alex Jones liability basis as defamation/false-claim-specific, not protected opinion.
 
 Anchored Artifacts: A-2169.1
+Mentions: N-67, N-128
 
-Related Nodes: N-1211, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Verify the precise quoted text against Seth Dillon's X account; assess legal accuracy.
 
@@ -616,8 +554,9 @@ Claim Timestamp: 00:42:49
 Claim: The Seth Dillon post explicitly states the First Amendment does not provide blanket immunity for defamation while protecting criticism of events and official accounts.
 
 Anchored Artifacts: A-2169.1
+Mentions: N-67
 
-Related Nodes: N-1211, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default).
 
@@ -630,8 +569,9 @@ Claim Timestamp: 00:43:43
 Claim: Tim Pool's X post compares current social-media amplification of Charlie Kirk narrative-challengers to the platform treatment that destroyed Alex Jones, while contrasting with COVID-era demonetization.
 
 Anchored Artifacts: A-2169.2
+Mentions: N-1, N-128, N-426
 
-Related Nodes: N-1210, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Verify quoted text against Tim Pool's X account; assess whether framing is consistent with prior Tim Pool statements.
 
@@ -644,6 +584,7 @@ Claim Timestamp: 00:45:35
 Claim: In a Twitter Space audio appearance, Blake Neff specifically stated that the sustained duration of Candace Owens's coverage "exceeds" even what Alex Jones did with Sandy Hook.
 
 Anchored Artifacts: A-2169.3
+Mentions: N-3, N-128, N-224
 
 Related Nodes: N-2140
 
@@ -659,7 +600,7 @@ Claim: A Charlie Kirk Show segment features Viva Frei explicitly invoking "Sandy
 
 Anchored Artifacts: A-2169.4
 
-Related Nodes: N-1212, N-2140
+Related Nodes: N-2140
 
 Investigative Direction: Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt.
 
@@ -672,7 +613,7 @@ Claim Timestamp: 00:50:38
 Claim: A pre-death Charlie Kirk broadcast characterizes the Alex Jones case as "patient zero for lawfare strategies" and warns of precedent being used against others.
 
 Anchored Artifacts: A-2169.5, A-2169.6
-Mentions: N-1
+Mentions: N-1, N-128
 
 Related Nodes: N-2140
 
@@ -687,7 +628,7 @@ Claim Timestamp: 00:54:20
 Claim: A pre-death Charlie Kirk X post states: "The lawsuits against Jones have always been about finding a way to censor and destroy a person the left hates, and then using that blueprint on everybody else."
 
 Anchored Artifacts: A-2169.6
-Mentions: N-1
+Mentions: N-1, N-128
 
 Related Nodes: N-2140
 
@@ -703,7 +644,7 @@ Claim: A viewer comment identifies the door-pocket object as a glove consistent 
 
 Anchored Artifacts: A-2170.1
 
-Related Nodes: N-2139
+Related Nodes:
 
 Investigative Direction: Viewer speculation; not investigative evidence; useful only as a hypothesis to be tested against forensic evidence.
 
@@ -717,7 +658,7 @@ Claim: A viewer comment notes apparent melting on the glove's tip and side, posi
 
 Anchored Artifacts: A-2170.2
 
-Related Nodes: N-2139
+Related Nodes:
 
 Investigative Direction: Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination.
 

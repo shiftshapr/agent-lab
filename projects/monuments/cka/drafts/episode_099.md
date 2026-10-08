@@ -30,8 +30,9 @@
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220
-  - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump (referenced as existing entity in narrative)
+  - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave2): N-623, N-624, N-625, N-626, N-627, N-2392
+  - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 
 ---
 
@@ -95,7 +96,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2862*
+*Related: C-2861, C-2862, N-2392*
 
 **A-2048.2** Church list contained within FARA filing
 
@@ -117,7 +118,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2863, C-2864, C-2865, C-2866*
+*Related: C-2863, C-2864, C-2865, C-2866, N-2392*
 
 **A-2049.2** Salem Radio Media Network listing within Clock Tower X FARA filing
 
@@ -152,7 +153,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:31:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2868, C-2869, N-62 (Donald Trump Jr.)*
+*Related: C-2868, C-2869, N-62 (Donald Trump Jr.), N-624*
 
 ---
 
@@ -165,7 +166,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-120 (Pam Bondi)*
+*Related: C-2870, C-2871, N-120 (Pam Bondi), N-625*
 
 ---
 
@@ -191,7 +192,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-120 (Pam Bondi)*
+*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-120 (Pam Bondi), N-623*
 
 ---
 
@@ -299,172 +300,96 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ### People (New)
 
-**N-1207** Mike Mitchell Public Record Anomaly
+**N-623** Harmeet Dhillon
 
-Trump's former 2020 campaign manager; named head of Clock Tower X LLC and Chief Strategy Officer of Salem Media Network per FARA filings and contemporaneous reporting.
+Node Type: Person
+
+Assistant Attorney General for Civil Rights, sworn in April 7, 2025 per the host's timeline (36:54); the host says both FARA-registered companies worked with "Harmeet Dhillon's Dhillon Law Group firm" (19:09).
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-2054.1, C-2872*
+
+---
+
+**N-624** Lara Trump
+
+Node Type: Person
+
+Named (31:21) in the Salem Media announcement of a landmark deal with Donald Trump Jr. and Lara Trump ("that's Eric Trump's wife").
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-2051.1, C-2868*
+
+---
+
+**N-625** Ian Carroll
+
+Node Type: Person
+
+Commentator whose show segment on Pam Bondi disbanding the FBI Foreign Influence Task Force is played (33:16).
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-2052.1, C-2870*
+
+---
+
+**N-626** Ryan Reynolds
+
+Node Type: Person
+
+Actor, Blake Lively's husband; named (46:25, 49:08) as having developed the Deadpool character that mocks Justin Baldoni.
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: C-2880*
+
+---
+
+**N-627** Hugh Jackman
+
+Node Type: Person
+
+Actor in Deadpool & Wolverine; named by the host (49:08, 51:02), including arriving at the It Ends With Us premiere.
+
+Evidence Count: 0
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: C-2880, C-2882*
+
+---
+
+### Organizations (New)
+
+**N-2392** Havas Media
+
+Node Type: Organization
+Organization Kind: company
+
+French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it "Habas Media" at 16:50 and 36:54.
 
 Evidence Count: 2
 Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2049.1, A-2049.2, A-2054.1, C-2864, C-2865, C-2866, N-1732 (Salem Foreign Agent Status), N-1737 (2025 FARA Timeline Convergence)*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Prime Minister of Israel; subject of Greta Van Susteren denial interview and architect (per host) of Project 545 foreign propaganda structure.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2047.1, A-2055.1, C-2859, N-1737 (2025 FARA Timeline Convergence)*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Journalist who interviewed Netanyahu on September 12, 2025; host alleges her team received a request from Netanyahu's office to raise the Israel-Kirk question.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2047.1, C-2860*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Civil Rights Assistant Attorney General; principal of Dhillon Law Group, which drafted FARA paperwork for Havas Media / Clock Tower X / Show Faith by Works.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2049.1, A-2054.1, C-2872, C-2873, N-1732 (Salem Foreign Agent Status)*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-U.S. Attorney General; signed February 5, 2025 order disbanding DOJ Foreign Influence Task Force and limiting FARA criminal enforcement.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2052.1, A-2053.1, C-2870, C-2871, N-1734 (Bondi FARA Disbanding)*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Acquired 30% stake in M-News app via Salem Media Group deal (April 2025); entered long-term services agreement with Salem.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2051.1, C-2868, C-2869*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Independent journalist whose audio segment is played discussing Pam Bondi's Foreign Influence Task Force disbanding.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2052.1, C-2870, N-120 (Pam Bondi)*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Plaintiff in Lively v. Baldoni; issued post-ruling statement flagged as misleading by Community Notes.
-
-Evidence Count: 3
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2056.1, A-2057.1, A-2058.1, A-2058.2, A-2059.1, C-2877, C-2878, C-2879, N-775 (Justin Baldoni), N-1736 (Blake Lively Lawsuit Outcome)*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Defendant in Lively v. Baldoni; subject of Deadpool parody and basement-premiere footage; host claims public vindication via settlement.
-
-Evidence Count: 4
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2056.1, A-2058.1, A-2058.2, A-2059.1, C-2877, C-2880, C-2881, C-2882, N-774 (Blake Lively)*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Actor and Lively's husband; co-appeared in Deadpool & Wolverine parody content targeting Baldoni.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2058.1, A-2058.2, C-2880, C-2881, N-774 (Blake Lively), N-775 (Justin Baldoni)*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Actor who co-appeared in Deadpool & Wolverine parody and attended It Ends With Us premiere upstairs while Baldoni watched from basement.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2058.1, A-2058.2, A-2059.1, C-2880, C-2881, C-2882, N-774 (Blake Lively), N-775 (Justin Baldoni)*
-
----
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Independent commentator; played audio clip characterizing the Charlie Kirk assassination as part of a spiritual/demonic war.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2046.1, C-2858*
-
----
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Entered long-term strategic services agreement with Salem Media Group (April 2025) alongside Donald Trump Jr. deal.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2051.1, C-2868, N-62 (Donald Trump Jr.)*
+*Related: A-2048.1, A-2049.1, C-2861, C-2863, C-2873*
 
 ---
 
@@ -598,7 +523,7 @@ Claim Timestamp: 00:06:41
 Claim: In an audio clip played on the episode, Baron Coleman stated that those co-opting Christian language do not answer to a human and that the events around Charlie Kirk's death constitute a "spiritual war" with demonic authorship.
 
 Anchored Artifacts: A-2046.1
-Mentions: N-552
+Mentions: N-552, N-1
 
 Related Nodes:
 
@@ -613,6 +538,7 @@ Claim Timestamp: 00:12:44
 Claim: Two days after Charlie Kirk's assassination, Benjamin Netanyahu stated on Greta Van Susteren's show that Israel did not kill Charlie Kirk, calling the rumor "insane" and "stupid."
 
 Anchored Artifacts: A-2047.1
+Mentions: N-65, N-73, N-1
 
 Related Nodes:
 
@@ -627,6 +553,7 @@ Claim Timestamp: 00:12:44
 Claim: Greta Van Susteren asked Netanyahu to address internet rumors that Israel was behind Charlie Kirk's murder.
 
 Anchored Artifacts: A-2047.1
+Mentions: N-73, N-1
 
 Related Nodes:
 
@@ -642,7 +569,7 @@ Claim: Show Faith by Works LLC filed a FARA registration on September 18, 2025, 
 
 Anchored Artifacts: A-2048.1, A-2054.1
 
-Related Nodes: N-1737
+Related Nodes: N-1737, N-2392
 
 Investigative Direction: Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties.
 
@@ -670,7 +597,7 @@ Claim: Clock Tower X LLC filed a FARA registration on September 18, 2025, contra
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
-Related Nodes: N-1732, N-1737
+Related Nodes: N-1732, N-1737, N-2392
 
 Investigative Direction: Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope.
 
@@ -740,7 +667,7 @@ Claim Timestamp: 00:31:21
 Claim: In April 2025, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
 
 Anchored Artifacts: A-2051.1
-Mentions: N-62
+Mentions: N-62, N-624
 
 Related Nodes: N-1732
 
@@ -770,7 +697,7 @@ Claim Timestamp: 00:34:17
 Claim: Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force.
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
-Mentions: N-120
+Mentions: N-120, N-625
 
 Related Nodes: N-1734, N-1737
 
@@ -800,6 +727,7 @@ Claim Timestamp: 00:36:54
 Claim: Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney General for Civil Rights at the U.S. Department of Justice.
 
 Anchored Artifacts: A-2054.1
+Mentions: N-623
 
 Related Nodes: N-1737
 
@@ -815,7 +743,7 @@ Claim: According to the host's timeline, on August 27, 2025, Dhillon Law Group b
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1732, N-1737
+Related Nodes: N-1732, N-1737, N-2392
 
 Investigative Direction: Verify via FARA filing registrant of record and any disclosed outside counsel.
 
@@ -842,6 +770,7 @@ Claim Timestamp: 00:36:54
 Claim: Per the host's timeline, Charlie Kirk's memorial on September 21, 2025 was geofenced under the Show Faith by Works arrangement.
 
 Anchored Artifacts: A-2054.1
+Mentions: N-1
 
 Related Nodes: N-1732, N-1737
 
@@ -915,7 +844,7 @@ Claim Timestamp: 00:50:04
 Claim: Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool."
 
 Anchored Artifacts: A-2058.1
-Mentions: N-774, N-775
+Mentions: N-774, N-775, N-626, N-627
 
 Related Nodes:
 
@@ -945,7 +874,7 @@ Claim Timestamp: 00:51:57
 Claim: At the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs, per footage displayed on the episode.
 
 Anchored Artifacts: A-2059.1
-Mentions: N-774, N-775
+Mentions: N-774, N-775, N-627
 
 Related Nodes:
 
@@ -960,6 +889,7 @@ Claim Timestamp: 00:57:03
 Claim: According to the host, Mikey McCoy sent her a message pointing to Andrew Kolvet as a subject of investigation.
 
 Anchored Artifacts: A-2061.1
+Mentions: N-42, N-272
 
 Related Nodes: N-1738
 
@@ -988,7 +918,7 @@ A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, 
 
 Claim Range: C-2856–C-2883
 
-New Nodes Introduced (People): N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-42, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220
+New Nodes Introduced (People): N-42
 
 New Nodes Introduced (Investigation Targets): N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
 

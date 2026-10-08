@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1617, N-1618, N-1619
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-209
+  - Reused Nodes Appearing: N-209
   - (see registers)
 
 ## Episode 80 Ledger Summary
@@ -21,11 +21,11 @@ Artifact Families Introduced: A-1861, A-1862, A-1863, A-1864, A-1865, A-1866, A-
 
 Claim Range: C-2494–C-2524
 
-New Person Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221
+New Person Nodes Introduced: none (Wave 2: local ids removed)
 
 New Investigation Target Nodes Introduced: N-1617, N-1618
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy), N-1213 (Unidentified Goth Person in Broderick Companion Photo), N-1214 (Charlie Kirk Pre-Mortem Israel Position Claim), N-1215 (Hospital Routing Discrepancy), N-1216 (Utah FBI Personnel Replacement), N-1217 (Mike Mitchell Undercover Role Verification), N-1218 (Unidentified Female / "Accomplice" in Shooter Footage), N-1219 ("Robbie Hild" Identity Verification), N-1220 (Case-Personnel Cluster Anomalies), N-1221 (Autopsy Record – Utah Privacy Statute Application)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -40,7 +40,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 - **Transcript completeness status:** Auto-captions cleaned; no music cues retained; cleaning flagged but no major omissions noted
 - **Analyst / agent name:** Investigative Analysis Agent
 - **Analysis date:** 2026-03-17
-- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-2494–C-2524); 15 new person nodes (N-1207–N-1221); 2 new investigation target nodes (N-1617–N-1618); existing nodes reused where applicable
+- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-2494–C-2524); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-1617–N-1618); existing nodes reused where applicable
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:04:57–00:06:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2494, C-2495, C-2496, C-2497, N-1218, N-1619*
+*Related: C-2494, C-2495, C-2496, C-2497, N-1619*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2500, N-1210*
+*Related: C-2500*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2501, C-2502, N-1211*
+*Related: C-2501, C-2502*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:15:07–00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2503, N-1212, N-1221, N-1218*
+*Related: C-2503*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2504, N-1213*
+*Related: C-2504*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-1214, N-209*
+*Related: C-2505, N-209*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:31:39–00:31:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2507, C-2508, C-2521, C-2522, N-1217, N-2, N-1215, N-1618*
+*Related: C-2507, C-2508, C-2521, C-2522, N-2, N-1618*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:32:20–00:33:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2509, C-2510, N-1217, N-1618*
+*Related: C-2509, C-2510, N-1618*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:33:39–00:34:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2511, C-2523, C-2524, N-1217, N-1220*
+*Related: C-2511, C-2523, C-2524*
 
 ---
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:50:05–00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2516, C-2517, C-2518, N-? Netanyahu, N-1219, N-1617*
+*Related: C-2516, C-2517, C-2518, N-? Netanyahu, N-1617*
 
 ---
 
@@ -279,37 +279,11 @@ Video Timestamp: 00:53:23–00:54:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2519, C-2520, N-? Netanyahu, N-1216, N-1617*
+*Related: C-2519, C-2520, N-? Netanyahu, N-1617*
 
 ---
 
 ## IV. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Resigned Director of the National Counterterrorism Center; principal documentary subject of the episode's lead segment.
-
-Evidence Count: 9
-Claim Count: 12
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2494, C-2495, C-2496, C-2497, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505, N-1218, N-1619*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-U.S. Secretary of the Treasury; on-camera subject pulled to the Situation Room on March 12.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1873.1, C-2512, C-2513, N-1617*
-
----
 
 **N-1617** Netanyahu Death/Injury Status Verification
 
@@ -320,7 +294,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu, N-1216, N-1219*
+*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu*
 
 ---
 
@@ -333,7 +307,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1869.1, A-1870.1, A-1871.1, C-2507, C-2508, C-2509, C-2510, C-2511, N-1, N-2, N-1217, N-1215*
+*Related: A-1869.1, A-1870.1, A-1871.1, C-2507, C-2508, C-2509, C-2510, C-2511, N-1, N-2*
 
 ---
 
@@ -368,6 +342,7 @@ Claim Timestamp: 00:04:57
 Claim: Joe Kent's letter states he has resigned from the Director of the National Counterterrorism Center effective the day of the letter, citing inability in good conscience to support the ongoing war in Iran.
 
 Anchored Artifacts: A-1861.1
+Mentions: N-310
 
 Related Nodes: N-1619
 
@@ -411,7 +386,7 @@ Claim: Kent's letter identifies him as a veteran who deployed to combat 11 times
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1218, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases.
 
@@ -424,6 +399,7 @@ Claim Timestamp: 00:07:42
 Claim: In on-camera remarks, President Trump described Joe Kent as "weak on security" upon reading his resignation statement.
 
 Anchored Artifacts: A-1862.1
+Mentions: N-310
 
 Related Nodes: N-1619
 
@@ -452,8 +428,9 @@ Claim Timestamp: 00:14:29
 Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
 
 Anchored Artifacts: A-1863.1
+Mentions: N-716
 
-Related Nodes: N-1210, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Verify the exact X post text against Graham's verified account at the timestamp indicated.
 
@@ -466,8 +443,9 @@ Claim Timestamp: 00:15:07
 Claim: Mark Levin publicly speculated that Kent "was about to be fired but quickly resigned first."
 
 Anchored Artifacts: A-1864.1
+Mentions: N-374
 
-Related Nodes: N-1211, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.
 
@@ -480,8 +458,9 @@ Claim Timestamp: 00:16:55
 Claim: Mark Levin publicly called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.
 
 Anchored Artifacts: A-1864.2
+Mentions: N-374
 
-Related Nodes: N-1211, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Confirm against Levin's verified X account and monitor for any DOJ response.
 
@@ -494,8 +473,9 @@ Claim Timestamp: 00:15:07–00:15:58
 Claim: Laura Loomer publicly alleged that Kent's wife works for Max Blumenthal and used this to characterize Kent as disrespectful to Trump.
 
 Anchored Artifacts: A-1865.1
+Mentions: N-78, N-91
 
-Related Nodes: N-1212, N-1221, N-1218, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals.
 
@@ -508,8 +488,9 @@ Claim Timestamp: 00:15:58
 Claim: Alan Dershowitz publicly referred to Kent as a "neo-Nazi Jew hating Israel basher" who had quit the administration.
 
 Anchored Artifacts: A-1866.1
+Mentions: N-858
 
-Related Nodes: N-1213, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Confirm exact text against Dershowitz's verified X account.
 
@@ -524,7 +505,7 @@ Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "
 Anchored Artifacts: A-1867.1
 Mentions: N-209
 
-Related Nodes: N-1214, N-1619
+Related Nodes: N-1619
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 
@@ -537,6 +518,7 @@ Claim Timestamp: 00:20:55
 Claim: Theo Von publicly characterized Israeli political leaders as feeling like "a satanic regime" and stated he does not understand the U.S. government's relationship with Israel's leaders.
 
 Anchored Artifacts: A-1868.1
+Mentions: N-205
 
 Related Nodes:
 
@@ -553,7 +535,7 @@ Claim: The Turning Point USA University of Arkansas chapter announced it is disa
 Anchored Artifacts: A-1869.1
 Mentions: N-1, N-2
 
-Related Nodes: N-1217, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.
 
@@ -567,7 +549,7 @@ Claim: The disaffiliating chapter announced it will rebrand to "Young American R
 
 Anchored Artifacts: A-1869.1
 
-Related Nodes: N-1217, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Track the new organization's filings and any subsequent national TPUSA response.
 
@@ -581,7 +563,7 @@ Claim: The chapter president, Dino Fonte Grassi, published a statement on Instag
 
 Anchored Artifacts: A-1870.1
 
-Related Nodes: N-1217, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify against Fonte Grassi's verified Instagram account; confirm "unanimous" via any other executive board members' public statements.
 
@@ -594,8 +576,9 @@ Claim Timestamp: 00:32:20
 Claim: The Fonte Grassi letter states that since Charlie Kirk's assassination, "Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative."
 
 Anchored Artifacts: A-1870.1
+Mentions: N-1
 
-Related Nodes: N-1217, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.
 
@@ -608,8 +591,9 @@ Claim Timestamp: 00:33:39
 Claim: Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.
 
 Anchored Artifacts: A-1871.1
+Mentions: N-1
 
-Related Nodes: N-1217, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.
 
@@ -678,6 +662,7 @@ Claim Timestamp: 00:50:05
 Claim: Following a rumored Iranian missile strike, Benjamin Netanyahu's official account posted a video on March 14 that appeared to viewers to have smoothed facial features.
 
 Anchored Artifacts: A-1875.1
+Mentions: N-65
 
 Related Nodes: N-1617
 
@@ -707,7 +692,7 @@ Claim: Yair Netanyahu, who normally retweets or tweets about 30 times per day, w
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-1219, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence.
 
@@ -720,8 +705,9 @@ Claim Timestamp: 00:53:23
 Claim: Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador Mike Huckabee on March 15, ostensibly to prove he is alive.
 
 Anchored Artifacts: A-1876.1
+Mentions: N-65, N-439
 
-Related Nodes: N-1216, N-1617
+Related Nodes: N-1617
 
 Investigative Direction: Confirm posting timestamp against official channels; subject video to production analysis.
 
@@ -748,9 +734,9 @@ Claim Timestamp: 00:31:39
 Claim: Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2
+Mentions: N-2, N-969
 
-Related Nodes: N-1215, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.
 
@@ -763,9 +749,9 @@ Claim Timestamp: 00:31:39
 Claim: Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2
+Mentions: N-2, N-969
 
-Related Nodes: N-1215, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Obtain the actual proclamation text from the Arkansas Secretary of State's office.
 
@@ -778,6 +764,7 @@ Claim Timestamp: 00:33:39
 Claim: Charlie Kirk, in a July 2025 student discussion, publicly stated that "I find prophecy as policy generally to be theologically problematic."
 
 Anchored Artifacts: A-1871.1
+Mentions: N-1
 
 Related Nodes: N-1618
 
@@ -792,8 +779,9 @@ Claim Timestamp: 00:33:39
 Claim: Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, asserting Cruz "doesn't even know the verse."
 
 Anchored Artifacts: A-1871.1
+Mentions: N-1, N-150
 
-Related Nodes: N-1220, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.
 

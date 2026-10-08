@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2124, N-2125, N-2126, N-2127, N-2128, N-2129, N-2130
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219
+  - Reused Nodes Appearing: 
   - (see registers)
 
 ## 2. Executive Summary
@@ -136,7 +136,7 @@ Video Timestamp: 00:35:42–00:38:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip displayed on air)
 
-*Related: C-3052, C-3053, N-1210, N-2129*
+*Related: C-3052, C-3053, N-2129*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:30:48–00:34:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (letter read in full)
 
-*Related: C-3055, N-1210*
+*Related: C-3055*
 
 ---
 
@@ -164,156 +164,11 @@ Video Timestamp: 00:46:07–00:47:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host described content; clip not replayed on air)
 
-*Related: C-3054, N-1214, N-1215, N-2130*
+*Related: C-3054, N-2130*
 
 ---
 
 ## 4. Node Register
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-UVU police officer who reached the Losee Center rooftop at 12:44 p.m. and whose body cam footage is alleged to have terminated mid-rooftop. Central to multiple testimony claims.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2146.1, A-2146.2, A-2147.1, C-3042, C-3043, C-3044, N-2124, N-2125*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Utah Bureau of Investigations state agent who authored reports documenting the abandoned backpack/jacket/gloves at the Fulton Library bus stop and acknowledged the FBI testing reversal.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2148.1, A-2148.2, C-3046, C-3047, C-3048, N-2126*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-FBI agent who testified that the backpack was determined to be a bystander's and that lab notes attributed it to Kirk's detail via another lab employee's communication.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2149.1, A-2149.2, C-3049, C-3050, C-3051, N-2126*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Christian apologist present at the September 10 event; his FaceTime call and post-event statements are the subject of inquiry.
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2150.1, A-2151.1, C-3052, C-3053, C-3055, N-1211, N-1212, N-2129*
-
-**N-1211** UVU Campus Familiarity Question
-
-Frank Turek's adult son reported as serving at the Pentagon (deputy division chief of the Joint Staff); co-author with Frank of "Hollywood Heroes."
-
-Evidence Count: 1
-Claim Count: 0 (employment/book claims not artifact-anchored in this episode)
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2150.1, N-1210, N-2129*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Frank Turek's adult son reported as an Air Force branch chief pilot; identified by Frank as the FaceTime participant on September 10.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2150.1, C-3052, N-1210, N-2129*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Identified by host as the source who flagged the preliminary-hearing backpack testimony exchange over the prior weekend.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2148.1, A-2148.2, A-2149.1, A-2149.2*
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-FBI assistant director whose September 15 on-air statement about the screwdriver footage's graininess is cited as a baseline against which later "crystal clear" influencer claims are measured.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2152.1, C-3054, N-2130*
-
-**N-1215** Hospital Routing Discrepancy
-
-Host of the September 15 interview in which Bongino described the screwdriver footage as too grainy; subject of host commentary on influencer trust.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2152.1, N-1214, N-2130*
-
-**N-1216** Utah FBI Personnel Replacement
-
-Verified hospital employee who told host that the hospital was not pre-informed of Charlie Kirk's arrival.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-3056, N-2127*
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Sept. 10 attendee whose recorded statements about gauze, the 911 call, and brother Brian are referenced for the 911-call identification gap.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium (Likely existing node in prior episodes)
-
-*Related: C-3057, N-2128*
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-TPUSA spokesperson whose initial Sept. 10 tweet ("Even in death, Charlie saved lives") is cited by host as the first "Superman neck" framing artifact.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low (referenced narratively only)
-
-*Related: N-1 (presumed Charlie Kirk node)*
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Host of the prior 5-hour interview referenced via comment section; not directly tied to investigation claims.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: (no investigative claims inscribed)*
-
----
 
 **N-2124** Officer Bagley Body-Cam Battery Anomaly
 
@@ -357,7 +212,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3056, N-1216*
+*Related: C-3056*
 
 **N-2128** 911 Call Identification Gap
 
@@ -368,7 +223,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3057, N-1217*
+*Related: C-3057*
 
 **N-2129** Frank Turek FaceTime Story Inconsistency
 
@@ -379,7 +234,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2150.1, C-3052, C-3053, N-1210, N-1211, N-1212*
+*Related: A-2150.1, C-3052, C-3053*
 
 **N-2130** Screwdriver Footage Graininess Discrepancy
 
@@ -390,7 +245,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2152.1, C-3054, N-1214, N-1215*
+*Related: A-2152.1, C-3054*
 
 ---
 
@@ -543,8 +398,9 @@ Claim Timestamp: 00:35:42–00:36:38
 Claim: Frank Turek stated on the played interview that he was FaceTiming his son and daughter-in-law when the shot rang out and continued the call until reaching the hospital, with the phone in his back pocket for the duration.
 
 Anchored Artifacts: A-2150.1
+Mentions: N-16
 
-Related Nodes: N-1210, N-1212, N-2129
+Related Nodes: N-2129
 
 Investigative Direction: Obtain call-detail records (timestamps, duration, devices) for the FaceTime session.
 
@@ -557,8 +413,9 @@ Claim Timestamp: 00:35:42–00:38:14
 Claim: Frank Turek gave two differing on-record accounts of where the FaceTime call ended — first stating "hotel," then correcting to "hospital" — during the same played interview segment, with the host flagging the inconsistency on air.
 
 Anchored Artifacts: A-2150.1
+Mentions: N-16
 
-Related Nodes: N-1210, N-2129
+Related Nodes: N-2129
 
 Investigative Direction: Obtain the full unedited interview recordings and any prior statements Turek made on this point.
 
@@ -571,8 +428,9 @@ Claim Timestamp: 00:46:07–00:47:07
 Claim: Host describes watching Dan Bongino state on Megyn Kelly's show on September 15, 2025, that the screwdriver rooftop footage was too grainy for the FBI's tools to clarify, establishing a baseline against later influencer characterizations of the same footage as "crystal clear."
 
 Anchored Artifacts: A-2152.1
+Mentions: N-75
 
-Related Nodes: N-1214, N-1215, N-2130
+Related Nodes: N-2130
 
 Investigative Direction: Obtain the original Megyn Kelly / Bongino Sept. 15 broadcast and any FBI enhancement documentation released between Sept. 15 and the influencer court-day coverage.
 
@@ -585,8 +443,9 @@ Claim Timestamp: 00:30:48–00:34:40
 Claim: A letter read on Frank Turek's show by an anonymous husband states that his wife has become "deeply influenced by Candace Owens' recent content" regarding Turek, Israel, and conspiracy topics, and that this is creating a widening divide in their marriage.
 
 Anchored Artifacts: A-2151.1
+Mentions: N-3, N-16
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Note as Frank Turek show content artifact; not investigation-relevant. Preserve for record only.
 
@@ -599,8 +458,9 @@ Claim Timestamp: 00:25:23–00:27:13
 Claim: A source verified by host as a Timpanogos Regional Hospital employee told the host that the hospital was not informed ahead of time that Charlie Kirk was en route, contrary to the official 911-call-and-pre-notification narrative.
 
 Anchored Artifacts: (no on-air displayed/recorded artifact from source; reliance on host description)
+Mentions: N-1
 
-Related Nodes: N-1216, N-2127
+Related Nodes: N-2127
 
 Investigative Direction: Obtain independent corroboration from hospital intake records, EMS radio traffic, and any 911-call recordings reflecting pre-arrival coordination.
 
@@ -615,8 +475,9 @@ Claim Timestamp: 00:26:17–00:27:13
 Claim: Brian Harpole, in on-record statements, references a 911 call collectively ("we called 911") without identifying the specific individual who placed the call.
 
 Anchored Artifacts: (no on-air displayed artifact in this episode beyond host's description of Harpole's prior statements)
+Mentions: N-424
 
-Related Nodes: N-1217, N-2128
+Related Nodes: N-2128
 
 Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records for Sept. 10, 2025 between 12:23 and 12:30 p.m.
 

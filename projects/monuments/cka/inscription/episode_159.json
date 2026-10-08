@@ -1409,6 +1409,22 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-446",
+      "ref": "N-446",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1535,7 +1551,8 @@
         "N-215",
         "N-223",
         "N-225",
-        "N-867"
+        "N-867",
+        "N-446"
       ]
     },
     {
@@ -1607,7 +1624,7 @@
       "@id": "C-3616",
       "ref": "C-3616",
       "label": "Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account",
-      "claim": "Viewer note + host source claim that Charlie had two Telegram accounts—one American-flag shared account and one personal—and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.",
+      "claim": "Viewer note + host source claim that Charlie had two Telegram accounts, one American-flag shared account and one personal, and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.",
       "anchored_artifacts": [
         "A-2473.1",
         "A-2466.1"

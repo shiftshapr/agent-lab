@@ -55,9 +55,7 @@
           "related_claims": [
             "C-3108"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:06:31",
@@ -135,8 +133,7 @@
             "C-3111"
           ],
           "related_nodes": [
-            "N-42",
-            "N-1222"
+            "N-42"
           ],
           "tags": [],
           "video_timestamp": "00:00:00–00:00:01",
@@ -330,342 +327,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Subject of the historical \"Mormon Mafia\" segment; the 1976 Time article (A-2173.1) and subsequent host narration detail the Mormon aides surrounding him in his final years.",
-      "related_artifacts": [
-        "A-2173.1"
-      ],
-      "related_claims": [
-        "C-3109"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1208",
-        "N-1210",
-        "N-1213",
-        "N-1218",
-        "N-2143"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "LDS aide central to A-2173.1; described as the lead Mormon aide attending Howard Hughes in 8-hour shifts.",
-      "related_artifacts": [
-        "A-2173.1"
-      ],
-      "related_claims": [
-        "C-3109"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1219"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Author of the biography of President Truman cited as the source for A-2171.1.",
-      "related_artifacts": [
-        "A-2171.1"
-      ],
-      "related_claims": [
-        "C-3107"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Identified in host narration as an Irgun member and father of Ari Emanuel; referenced alongside A-2172.1.",
-      "related_artifacts": [
-        "A-2172.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1211",
-        "N-1212"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Referenced as brother of Rahm Emanuel and son of Benjamin Emanuel.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-1212"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Referenced as Director of Public Affairs under Clinton, Chief of Staff under Obama, and Mayor of Chicago.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-1211"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Owner of the jet on which Howard Hughes died; name raised by host in connection with the newly appointed Judge Tony Graf in the Tyler Robinson case (possible surname coincidence flagged).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-2143"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Business partner of Robert Graf; namesake of Duncan Aviation, which the host connects to the 9/10 transponding Egyptian plane.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1213"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Identified as controller of the Frontier Hotel and the former Desert Inn site (now Wynn Las Vegas).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-2143"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Identified as controller of the Las Vegas Sands Resort after Sheldon Adelson's death.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1217",
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Identified as former controller of Las Vegas Sands Resort; deceased per host.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1216"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Executive chairman of Howard Hughes Holdings; host cites a $900 million investment returning him to the chair position in May 2025.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Identified as managing director of Mitt Romney's Bain Capital for 16 years.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208",
-        "N-1220"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Referenced in connection with Bain Capital and Robert Gay.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1219"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Named by host as her speculated family-friend source for the Daily Mail article.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2",
-        "N-2144"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Identified as host's PR representative who received the Daily Mail comment request.",
-      "related_artifacts": [
-        "A-2175.1"
-      ],
-      "related_claims": [
-        "C-3111"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "CC'd on the seamstress email (A-2177.1) and referenced in host's emotional closing segment.",
-      "related_artifacts": [
-        "A-2177.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2143",
       "ref": "N-2143",
       "name": "Howard Hughes Death Investigation",
@@ -679,13 +340,7 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1213",
-        "N-1215"
-      ]
+      "investigative_pressure": "low"
     },
     {
       "@type": "InvestigationTarget",
@@ -693,7 +348,7 @@
       "ref": "N-2144",
       "name": "Daily Mail Article Sourcing Question",
       "type": "investigation_target",
-      "description": "Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names \"Tracy\" (N-1221) as her guess; Kolvet disputes origin via A-2174.1.",
+      "description": "Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names \"Tracy\" (former local id 1221) as her guess; Kolvet disputes origin via A-2174.1.",
       "related_artifacts": [
         "A-2174.1",
         "A-2175.1"
@@ -711,9 +366,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-42",
-        "N-1221",
-        "N-1222"
+        "N-42"
       ]
     },
     {
@@ -879,9 +532,7 @@
       "anchored_artifacts": [
         "A-2172.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:31",
       "investigative_direction": "Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement.",
@@ -920,7 +571,8 @@
       "claim_timestamp": "00:36:31",
       "investigative_direction": "Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-3"
       ]
     },
     {
@@ -1007,9 +659,7 @@
       "anchored_artifacts": [
         "A-2177.1"
       ],
-      "related_nodes": [
-        "N-1223"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:58",
       "investigative_direction": "Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image.",

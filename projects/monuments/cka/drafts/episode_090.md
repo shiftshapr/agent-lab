@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1668, N-1669, N-1670, N-1671, N-1672, N-1673
-  - Reused Nodes Appearing: N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230, N-1231, N-1232, N-1233, N-1234, N-1235
+  - Reused Nodes Appearing: N-1235
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -39,7 +39,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-04-13
 Confidence Level: High
 
-*Related: C-2682, C-2683, C-2684, N-69, N-1218, N-1668*
+*Related: C-2682, C-2683, C-2684, N-69, N-1668*
 
 **A-1948.2** State Filing — Preliminary Hearing Evidence Notice (re: forensic extractions)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:13:17–00:14:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2686, C-2687, N-1212, N-1211, N-1672*
+*Related: C-2686, C-2687, N-1672*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:21:42–00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2687, N-2, N-3, N-1234, N-1671*
+*Related: C-2687, N-2, N-3, N-1671*
 
 **A-1951.2** ADF internal board presentation slide — Caleb Robinson board seat
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced, partial)
 
-*Related: C-2688, N-1216, N-1234, N-1671*
+*Related: C-2688, N-1671*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:52:54–00:54:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2689, N-1214, N-1213*
+*Related: C-2689*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:57:23–00:58:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2690, N-1213, N-1214*
+*Related: C-2690*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:59:24–01:01:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2691, N-1214*
+*Related: C-2691*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:42:44–00:43:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2692, N-69, N-1233, N-1673*
+*Related: C-2692, N-69, N-1673*
 
 ---
 
@@ -191,214 +191,6 @@ Confidence Level: Low (verbally referenced only — no recording displayed)
 
 ## 4. Node Register
 
-**N-1211** UVU Campus Familiarity Question
-
-Subject of Kolvet interview artifact (admission of forcing Ben interview) and host claims about ADF involvement.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1950.1, C-2687, N-1671*
-
----
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Speaker in artifact A-1950.1; admitted receipt of Charlie GPT pitches.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1950.1, C-2686, N-1672*
-
----
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Subject of Trump Truth Social post and papal response video.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1952.1, A-1953.1, C-2689, C-2690, N-1214*
-
----
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Subject of Truth Social artifact, papal response artifact, and press-conference artifact.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1952.1, A-1953.1, A-1954.1, C-2689, C-2690, C-2691*
-
----
-
-**N-1215** Hospital Routing Discrepancy
-
-Robinson's roommate; referenced in court-filing artifact and Discord statement.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1948.2, A-1955.1, C-2684, N-1670, N-1673*
-
----
-
-**N-1216** Utah FBI Personnel Replacement
-
-Daily Wire CEO; artifact-anchored as holding ADF board seat.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1951.2, C-2688, N-1671*
-
----
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Utah attorney named by Tyler Robinson during Mirandization in A-1948.1.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1948.1, C-2683, N-1668*
-
----
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Investigative source whose filing discovery is referenced by host; no displayed artifact.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1948.1 (context only)*
-
----
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Referenced by host as ADF-connected (per insider emails); no direct artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1671 (referenced only)*
-
----
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Subject of host's personal anecdote; no artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: none (no artifact-anchored claim)*
-
----
-
-**N-1221** Autopsy Record – Utah Privacy Statute Application
-
-TPUSA figure referenced as press officer / video gatekeeper; no direct artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2 (referenced only)*
-
----
-
-**N-1222** Hospital Routing Anomaly
-
-Referenced as Trump advisor; no artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1214 (referenced only)*
-
----
-
-**N-1223** TPUSA Faith Packet / Israel References Claim
-
-Referenced as Trump advisor; no artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1214 (referenced only)*
-
----
-
-**N-1224** ADL–FBI Partnership Structure
-
-Referenced in connection with Paula White prayer; no artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1222 (referenced only)*
-
----
-
-**N-1225** Connecticut FBI Field Office Deployment Anomaly
-
-Referenced as giving press conference about 9 p.m. arrival; no artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1668 (referenced only)*
-
----
-
-**N-1226** Tyler Robinson Defense Selection Anomaly
-
-Referenced as claiming "33rd hour" booking; no artifact displayed.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1668 (referenced only)*
-
----
-
 **N-1668** Tyler Robinson Filing Timeline Discrepancy
 
 Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.
@@ -408,7 +200,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1948.1, A-1956.1, C-2682, C-2693, N-69, N-1217*
+*Related: A-1948.1, A-1956.1, C-2682, C-2693, N-69*
 
 ---
 
@@ -434,7 +226,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1948.2, C-2684, N-69, N-1215*
+*Related: A-1948.2, C-2684, N-69*
 
 ---
 
@@ -447,7 +239,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1951.1, A-1951.2, C-2687, C-2688, N-1211, N-1216, N-1219, N-1234*
+*Related: A-1951.1, A-1951.2, C-2687, C-2688*
 
 ---
 
@@ -460,7 +252,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1950.1, C-2686, N-1212, N-1*
+*Related: A-1950.1, C-2686, N-1*
 
 ---
 
@@ -473,7 +265,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1948.2, A-1955.1, C-2692, N-69, N-1215, N-1233*
+*Related: A-1948.2, A-1955.1, C-2692, N-69*
 
 ---
 
@@ -488,7 +280,7 @@ Claim: The defense Motion to Exclude Still Photography records a Miranda advisem
 Anchored Artifacts: A-1948.1
 Mentions: N-69
 
-Related Nodes: N-1217, N-1668
+Related Nodes: N-1668
 
 Investigative Direction: Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.
 
@@ -503,7 +295,7 @@ Claim: During the recorded Mirandization referenced in A-1948.1, Robinson asked 
 Anchored Artifacts: A-1948.1
 Mentions: N-69
 
-Related Nodes: N-1217
+Related Nodes:
 
 Investigative Direction: Verify attorney representation records and the authenticity of the cited interview timestamp.
 
@@ -518,7 +310,7 @@ Claim: In a state filing on preliminary-hearing evidence, the prosecution states
 Anchored Artifacts: A-1948.2
 Mentions: N-69
 
-Related Nodes: N-1215, N-1670
+Related Nodes: N-1670
 
 Investigative Direction: Obtain the underlying filing directly and confirm language; assess chain-of-custody implications.
 
@@ -546,8 +338,9 @@ Claim Timestamp: 00:13:17
 Claim: In a recorded interview clip, Andrew Kolvet states that pitches for a "Charlie GPT" product were received multiple times.
 
 Anchored Artifacts: A-1950.1
+Mentions: N-42
 
-Related Nodes: N-1212, N-1672
+Related Nodes: N-1672
 
 Investigative Direction: Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.
 
@@ -562,7 +355,7 @@ Claim: An internal Alliance Defending Freedom CEO video played in the episode re
 Anchored Artifacts: A-1951.1
 Mentions: N-2, N-3
 
-Related Nodes: N-1234, N-1671
+Related Nodes: N-1671
 
 Investigative Direction: Authenticate the internal video; obtain the underlying ADF board materials.
 
@@ -576,7 +369,7 @@ Claim: According to host testimony supported by an ADF internal presentation, Da
 
 Anchored Artifacts: A-1951.2
 
-Related Nodes: N-1216, N-1234, N-1671
+Related Nodes: N-1671
 
 Investigative Direction: Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.
 
@@ -590,7 +383,7 @@ Claim: A Trump Truth Social post is read aloud in the episode calling Pope Leo X
 
 Anchored Artifacts: A-1952.1
 
-Related Nodes: N-1214, N-1213
+Related Nodes:
 
 Investigative Direction: Retrieve the original Truth Social post and engagement metrics.
 
@@ -604,7 +397,7 @@ Claim: In a video response played in the episode, Pope Leo XIV states his messag
 
 Anchored Artifacts: A-1953.1
 
-Related Nodes: N-1213, N-1214
+Related Nodes:
 
 Investigative Direction: Obtain the original Vatican source video and transcript.
 
@@ -618,7 +411,7 @@ Claim: In a press-conference clip, Trump defends the AI image of himself as Jesu
 
 Anchored Artifacts: A-1954.1
 
-Related Nodes: N-1214
+Related Nodes:
 
 Investigative Direction: Verify clip against White House press transcript.
 
@@ -633,7 +426,7 @@ Claim: A Discord statement published in The Hill on September 12, 2025, asserts 
 Anchored Artifacts: A-1955.1
 Mentions: N-69
 
-Related Nodes: N-1215, N-1233, N-1673
+Related Nodes: N-1673
 
 Investigative Direction: Retrieve the original Discord statement and The Hill article for exact text.
 
@@ -676,9 +469,9 @@ Claim Timestamp: 00:47:50
 Claim: Per the filing excerpt read aloud, the state intends to offer two exhibits that used cameras to record the contents of text messages, rather than forensic-extraction evidence.
 
 Anchored Artifacts: A-1948.2
-Mentions: N-69
+Mentions: N-69, N-84
 
-Related Nodes: N-1215, N-1670, N-1673
+Related Nodes: N-1670, N-1673
 
 Investigative Direction: Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.
 
@@ -692,7 +485,7 @@ Claim: Host places the Trump Truth Social attack on Pope Leo XIV and the papal r
 
 Anchored Artifacts: A-1952.1, A-1953.1
 
-Related Nodes: N-1214, N-1213
+Related Nodes:
 
 Investigative Direction: Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps.
 
@@ -707,7 +500,7 @@ Claim: Host asserts (based on the Discord statement and subsequent federal chara
 Anchored Artifacts: A-1955.1
 Mentions: N-69
 
-Related Nodes: N-1215, N-1233, N-1673
+Related Nodes: N-1673
 
 Investigative Direction: Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.
 

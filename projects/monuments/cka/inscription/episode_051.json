@@ -206,7 +206,7 @@
             "C-1997"
           ],
           "related_nodes": [
-            "N-618",
+            "N-2390",
             "N-42",
             "N-2",
             "N-1451"
@@ -263,7 +263,7 @@
             "C-1999"
           ],
           "related_nodes": [
-            "N-631",
+            "N-2391",
             "N-1450"
           ],
           "tags": [],
@@ -309,7 +309,7 @@
             "C-2001"
           ],
           "related_nodes": [
-            "N-618",
+            "N-2390",
             "N-1446"
           ],
           "tags": [],
@@ -482,27 +482,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-618",
-      "ref": "N-618",
-      "name": "Paramount Tactical Valhalla (livestream account)",
-      "type": "person",
-      "description": "Source of the stream clip in which Andrew Kolbet's instructions were read aloud.",
-      "related_artifacts": [
-        "A-1573.1",
-        "A-1576.2"
-      ],
-      "related_claims": [
-        "C-1997",
-        "C-2001"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "Person",
       "@id": "N-424",
       "ref": "N-424",
       "name": "Brian Harpole",
@@ -539,28 +518,6 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-631",
-      "ref": "N-631",
-      "name": "Daily Wire",
-      "type": "person",
-      "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
-      "related_artifacts": [
-        "A-1575.1"
-      ],
-      "related_claims": [
-        "C-1999"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1450"
-      ]
     },
     {
       "@type": "InvestigationTarget",
@@ -676,7 +633,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-631"
+        "N-2391"
       ]
     },
     {
@@ -700,6 +657,83 @@
       "related_nodes": [
         "N-2"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2390",
+      "ref": "N-2390",
+      "name": "Paramount Tactical Valhalla",
+      "type": "organization",
+      "description": "Source of the stream clip in which Andrew Kolbet's instructions were read aloud.",
+      "related_artifacts": [
+        "A-1573.1",
+        "A-1576.2"
+      ],
+      "related_claims": [
+        "C-1997",
+        "C-2001"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2391",
+      "ref": "N-2391",
+      "name": "Daily Wire",
+      "type": "organization",
+      "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
+      "related_artifacts": [
+        "A-1575.1"
+      ],
+      "related_claims": [
+        "C-1999"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1450"
+      ],
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-586",
+      "ref": "N-586",
+      "name": "Robert F. Kennedy Jr.",
+      "type": "person",
+      "description": "Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, Tucker Carlson, Riley Gaines); host also jokes big-pharma wealth may explain the RFK ban.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -738,7 +772,8 @@
       "investigative_direction": "Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.",
       "mentions_person_refs": [
         "N-2",
-        "N-443"
+        "N-443",
+        "N-1"
       ]
     },
     {
@@ -774,7 +809,8 @@
       "claim_timestamp": "00:14:17",
       "investigative_direction": "Verify the segment against the source recording and identify which text leaks are being referenced.",
       "mentions_person_refs": [
-        "N-443"
+        "N-443",
+        "N-586"
       ]
     },
     {
@@ -810,10 +846,10 @@
       "claim_timestamp": "00:17:33",
       "investigative_direction": "Verify the spelling \"Cosgrove\" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.",
       "mentions_person_refs": [
-        "N-1",
         "N-2",
         "N-444",
-        "N-614"
+        "N-614",
+        "N-1"
       ]
     },
     {
@@ -848,7 +884,9 @@
       "claim_timestamp": "00:40:44",
       "investigative_direction": "Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.",
       "mentions_person_refs": [
-        "N-128"
+        "N-128",
+        "N-3",
+        "N-597"
       ]
     },
     {
@@ -861,15 +899,15 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-1451"
+        "N-1451",
+        "N-2390"
       ],
       "tags": [],
       "claim_timestamp": "00:48:18",
       "investigative_direction": "Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.",
       "mentions_person_refs": [
         "N-2",
-        "N-42",
-        "N-618"
+        "N-42"
       ]
     },
     {
@@ -902,13 +940,14 @@
         "A-1575.1"
       ],
       "related_nodes": [
-        "N-1450"
+        "N-1450",
+        "N-2391"
       ],
       "tags": [],
       "claim_timestamp": "00:30:51",
       "investigative_direction": "Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.",
       "mentions_person_refs": [
-        "N-631"
+        "N-3"
       ]
     },
     {
@@ -940,13 +979,14 @@
         "A-1576.2"
       ],
       "related_nodes": [
-        "N-1446"
+        "N-1446",
+        "N-2390"
       ],
       "tags": [],
       "claim_timestamp": "01:08:04",
       "investigative_direction": "Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.",
       "mentions_person_refs": [
-        "N-618"
+        "N-2390"
       ]
     },
     {
@@ -959,14 +999,15 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-1449"
+        "N-1449",
+        "N-2390"
       ],
       "tags": [],
       "claim_timestamp": "00:49:10",
       "investigative_direction": "Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the \"rogue\" narrative was authorized at higher TPUSA levels.",
       "mentions_person_refs": [
         "N-42",
-        "N-618"
+        "N-597"
       ]
     }
   ],

@@ -1218,8 +1218,10 @@ def annotation_name_matches(label: str, names: list[str], *, person: bool = Fals
     Accepted: equal or contained, acronym, or a shared word (>=3 chars). For a person node a
     multi-word label must also share the surname: its last word must equal the last word of one of
     the names (so "Blake Wynn" does not pass on Blake Neff). A one-word label ("Charlie", "Cox")
-    may match any name word. Parenthetical parts of a name ("Donald Trump Jr. (Don Jr.)") count as
-    extra names.
+    may match any name word. A one-word alias (a bare first name such as "Blake") cannot satisfy a
+    multi-word person label unless that word is the label's surname (its last word), so the alias
+    "Blake" does not let "Blake Wynn" pass on Blake Neff while "Cox" still grounds "Governor Cox".
+    Parenthetical parts of a name ("Donald Trump Jr. (Don Jr.)") count as extra names.
     """
     nl = _norm_text(label)
     ltoks = _annot_tokens(label)
@@ -1232,6 +1234,12 @@ def annotation_name_matches(label: str, names: list[str], *, person: bool = Fals
         nn = _norm_text(n)
         if not nn:
             continue
+        if person and len(ltoks) >= 2:
+            ntoks1 = _annot_tokens(n)
+            if len(ntoks1) == 1 and nl != nn:
+                if ntoks1[0] == ltoks[-1]:
+                    return True
+                continue
         if nl == nn or nl in nn or nn in nl:
             return True
         acr = "".join(w[0] for w in re.findall(r"[A-Za-z]+", n) if w[0].isupper()).lower()
@@ -1323,7 +1331,8 @@ def check_hole_minted(
 
     Hole mints cannot sit on 'New Nodes Introduced' (that line must ascend) and must not hide on
     'Reused Nodes Appearing' or a secondary 'Existing Nodes Reused' line. They go on '  - Hole-minted Nodes (<batch>): N-a, N-b' in the episode
-    where each id gets its first register row. Per batch and band, ids must ascend in episode
+    where each id gets its first register row, and no earlier episode may list the id on any ledger
+    line (New, Reused, Existing Nodes Reused or Hole-minted). Per batch and band, ids must ascend in episode
     order (compact first-introduction order), and person-band batches must be compact: no free
     person id (not active, not tombstoned, not on the episode_000 baseline ledger) may remain
     below the batch maximum.
@@ -1352,6 +1361,9 @@ def check_hole_minted(
             if km:
                 tombstoned.add(int(km.group(1)))
     active = set(intro) | {int(k[2:]) for k in canonical if re.match(r"N-\d+$", k)}
+    hole_by_ep: dict[int, set[int]] = {}
+    for ep, _name, _batch, _idx, nid in minted:
+        hole_by_ep.setdefault(ep, set()).add(nid)
     seq: dict[tuple[str, str], list[tuple[int, str, int]]] = {}
     for ep, ep_name, batch, _idx, nid in minted:
         ent = intro.get(nid)
@@ -1369,6 +1381,18 @@ def check_hole_minted(
                 "P0",
                 "hole_mint_order",
                 f"{ep_name}: Hole-minted N-{nid} is also on a New, Reused or Existing Nodes Reused line of the same episode",
+                f"N-{nid}",
+            )
+        earlier = sorted(
+            e for e in set(new_ids) | set(reused_ids)
+            if e < ep and (nid in new_ids.get(e, set()) or nid in reused_ids.get(e, set()) or nid in hole_by_ep.get(e, set()))
+        )
+        if earlier:
+            report.add(
+                "P0",
+                "hole_mint_order",
+                f"{ep_name}: Hole-minted N-{nid} already appears on a ledger line of an earlier episode "
+                f"(ep{earlier[0]}); the hole mint must sit in the first episode that lists it",
                 f"N-{nid}",
             )
         seq.setdefault((batch, nid_band(nid)), []).append((ep, ep_name, nid))

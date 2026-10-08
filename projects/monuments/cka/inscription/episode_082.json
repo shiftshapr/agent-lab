@@ -323,9 +323,7 @@
           "related_claims": [
             "C-2553"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -349,11 +347,7 @@
           "related_claims": [
             "C-2554"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1209",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -378,7 +372,6 @@
             "C-2550"
           ],
           "related_nodes": [
-            "N-1211",
             "N-1631"
           ],
           "tags": [],
@@ -479,77 +472,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Subject of the Shellenberger interview and target of Blake Neff / Andrew Kolvet's \"betrayal\" framing; acknowledged federal investigation did not thoroughly pursue other leads.",
-      "related_artifacts": [
-        "A-1892.1",
-        "A-1893.1"
-      ],
-      "related_claims": [
-        "C-2553",
-        "C-2554"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1209"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Registered owner of N40JD plane per host identification; host identifies him as chief commander of naval surface force in Atlanta.",
-      "related_artifacts": [
-        "A-1894.1"
-      ],
-      "related_claims": [
-        "C-2550"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1631"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Scottsdale / Canada–based luxury aircraft brokerage; reportedly occupies separate unmarked building using Atlantic Aviation's address. Central to the 9/10 Erica Kirk location claim.",
-      "related_artifacts": [
-        "A-1886.1",
-        "A-1886.2",
-        "A-1886.3"
-      ],
-      "related_claims": [
-        "C-2544",
-        "C-2545"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1628"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1626",
       "ref": "N-1626",
       "name": "Erica Kirk 9/10 Location Investigation",
@@ -570,7 +492,6 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-1212",
         "N-1628"
       ]
     },
@@ -625,10 +546,7 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -698,7 +616,6 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1211",
         "N-2"
       ]
     },
@@ -755,6 +672,86 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-310",
+      "ref": "N-310",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-318",
+      "ref": "N-318",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-1632 / N-2064.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -770,7 +767,6 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1626",
         "N-1628"
       ],
@@ -778,7 +774,8 @@
       "claim_timestamp": "00:09:34",
       "investigative_direction": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -792,7 +789,6 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1628"
       ],
       "tags": [],
@@ -848,7 +844,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
-      "investigative_direction": "Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time."
+      "investigative_direction": "Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -866,7 +865,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:35",
-      "investigative_direction": "Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on."
+      "investigative_direction": "Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -878,14 +880,14 @@
         "A-1894.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1631"
       ],
       "tags": [],
       "claim_timestamp": "00:39:16",
       "investigative_direction": "Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -902,7 +904,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:34",
-      "investigative_direction": "Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records."
+      "investigative_direction": "Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -918,7 +924,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:47",
-      "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting."
+      "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-318"
+      ]
     },
     {
       "@type": "Claim",
@@ -929,12 +939,14 @@
       "anchored_artifacts": [
         "A-1892.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:38",
-      "investigative_direction": "Obtain the full Shellenberger-Kent interview; cross-reference Kent's stated investigation recommendations against DOJ / FBI disclosures."
+      "investigative_direction": "Obtain the full Shellenberger-Kent interview; cross-reference Kent's stated investigation recommendations against DOJ / FBI disclosures.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -945,12 +957,15 @@
       "anchored_artifacts": [
         "A-1893.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:45:31",
-      "investigative_direction": "Obtain full clip with timestamps; document exact wording for evidentiary comparison against later statements."
+      "investigative_direction": "Obtain full clip with timestamps; document exact wording for evidentiary comparison against later statements.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-224",
+        "N-310"
+      ]
     },
     {
       "@type": "Claim",
@@ -984,6 +999,7 @@
       "claim_timestamp": "00:31:34",
       "investigative_direction": "Verify the specific guest booked for September 9 interview; cross-check against show archives.",
       "mentions_person_refs": [
+        "N-42",
         "N-1"
       ]
     },
@@ -1001,7 +1017,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:35",
-      "investigative_direction": "Verify whether \"Wi-Refi\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erica Kirk."
+      "investigative_direction": "Verify whether \"Wi-Refi\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erica Kirk.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1013,7 +1033,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:02",
-      "investigative_direction": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman."
+      "investigative_direction": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.",
+      "mentions_person_refs": [
+        "N-552"
+      ]
     },
     {
       "@type": "Claim",
@@ -1027,7 +1050,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:03",
-      "investigative_direction": "Obtain the full text thread; identify timestamp when TPUSA's public statement went out."
+      "investigative_direction": "Obtain the full text thread; identify timestamp when TPUSA's public statement went out.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-1"
+      ]
     }
   ],
   "memes": []

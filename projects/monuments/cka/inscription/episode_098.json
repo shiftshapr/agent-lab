@@ -32,7 +32,7 @@
             "C-2836"
           ],
           "related_nodes": [
-            "N-631"
+            "N-2391"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,9 +60,7 @@
             "C-2839",
             "C-2840"
           ],
-          "related_nodes": [
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -167,7 +165,6 @@
             "C-2845"
           ],
           "related_nodes": [
-            "N-1210",
             "N-1727",
             "N-1728"
           ],
@@ -198,7 +195,6 @@
             "C-2851"
           ],
           "related_nodes": [
-            "N-1210",
             "N-1727"
           ],
           "tags": [],
@@ -225,7 +221,6 @@
             "C-2848"
           ],
           "related_nodes": [
-            "N-1213",
             "N-1728"
           ],
           "tags": [],
@@ -279,7 +274,6 @@
             "C-2850"
           ],
           "related_nodes": [
-            "N-1212",
             "N-1731"
           ],
           "tags": [],
@@ -379,8 +373,6 @@
           "description": "Fegliano comment: Blake Lively settled; win for adversaries of \"purchased corruption\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1215",
-            "N-1216",
             "N-1726"
           ],
           "tags": [],
@@ -600,7 +592,6 @@
             "C-2846"
           ],
           "related_nodes": [
-            "N-1210",
             "N-1728"
           ],
           "tags": [],
@@ -614,260 +605,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Lawyer for the firm representing Brian Harpole in current lawsuit; previously represented Ben Shapiro in arbitration against Candace Owens for ~2 years. Slauson's X wall displayed heavy retweeting of Laura Loomer attacks before posting the lawsuit.",
-      "related_artifacts": [
-        "A-2041.1",
-        "A-2042.1"
-      ],
-      "related_claims": [
-        "C-2851",
-        "C-2852"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1726"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Partner at the firm representing Brian Harpole; reportedly Ben Shapiro's brother-in-law (married to Shapiro's sister since 2018 per host).",
-      "related_artifacts": [
-        "A-2042.1",
-        "A-2043.1"
-      ],
-      "related_claims": [
-        "C-2852",
-        "C-2853"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1726"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Plaintiff in lawsuit against Candace Owens that arrived at the Charlotte airport in the week prior. Lawsuit filed via Slauson/Roth firm.",
-      "related_artifacts": [
-        "A-2042.1",
-        "A-2040.3"
-      ],
-      "related_claims": [
-        "C-2852",
-        "C-2855"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1726",
-        "N-1731"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Principal of Show Faith by Works LLC; prominent Christian conservative activist in California; the FARA-registered entity executing Israel's Christian geofencing campaign.",
-      "related_artifacts": [
-        "A-2035.1",
-        "A-2036.1"
-      ],
-      "related_claims": [
-        "C-2844",
-        "C-2845"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1727",
-        "N-1728"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "X user who authored the read-aloud business analysis of Daily Wire's collapse (170M → 22M monthly YouTube views; ~60% workforce reduction; comparison to Tucker Carlson / Megyn Kelly exits).",
-      "related_artifacts": [
-        "A-2031.1"
-      ],
-      "related_claims": [
-        "C-2837",
-        "C-2838",
-        "C-2839",
-        "C-2840"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Host of a separate show whose on-air reading of a viewer comment allegedly documenting Laura Loomer coordination at the Charlotte airport is displayed in this episode.",
-      "related_artifacts": [
-        "A-2039.1"
-      ],
-      "related_claims": [
-        "C-2850"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1731"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Turning Point USA figure who publicly stated partners geotagged 277,000 devices at the State Farm Stadium memorial. Reportedly seated with Harmeet Dhillon at the White House Correspondents Dinner.",
-      "related_artifacts": [
-        "A-2037.1"
-      ],
-      "related_claims": [
-        "C-2848"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1728"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Ben Shapiro's reported uncle; host alleges (with stated uncertainty) that he transferred uranium to Israel; host suggests prior \"anti-Semitism\" defense shielded him from prosecution.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1729"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Attorney for Justin Baldoni in the Blake Lively case referenced in A-2040.6.",
-      "related_artifacts": [
-        "A-2040.6"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "PR team member for Justin Baldoni in the Blake Lively case, cited alongside Friedman.",
-      "related_artifacts": [
-        "A-2040.6"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Individual referenced in accusations against the host's husband of a hit-and-run incident, denied by the host.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Security figure mentioned by host as having been cooperatively worked with; named alongside Brian Harpole as a potential target for subpoena discovery if the Harpole case proceeds.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1209",
-        "N-1726"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-1726",
@@ -893,13 +630,7 @@
       "evidence_count": 6,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1209",
-        "N-1218"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -921,10 +652,7 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -947,11 +675,7 @@
       "evidence_count": 4,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1213"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -966,10 +690,7 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1214"
-      ]
+      "investigative_pressure": "low"
     },
     {
       "@type": "InvestigationTarget",
@@ -1009,11 +730,7 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -1062,6 +779,103 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2391",
+      "ref": "N-2391",
+      "name": "Daily Wire",
+      "type": "organization",
+      "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [],
+      "organization_kind": "media_outlet"
     }
   ],
   "claims": [
@@ -1118,9 +932,7 @@
       "anchored_artifacts": [
         "A-2031.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Verify via third-party YouTube analytics services (e.g., Social Blade)."
@@ -1134,9 +946,7 @@
       "anchored_artifacts": [
         "A-2031.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Independently query LayoffHedge.com archive and corroborate with WARN Act filings in Tennessee."
@@ -1150,9 +960,7 @@
       "anchored_artifacts": [
         "A-2031.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Cross-check via YouTube studio public metrics.",
@@ -1207,7 +1015,11 @@
         "N-1731"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:50"
+      "claim_timestamp": "00:32:50",
+      "mentions_person_refs": [
+        "N-3",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1219,7 +1031,6 @@
         "A-2035.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1727",
         "N-1728"
       ],
@@ -1238,7 +1049,6 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1727"
       ],
       "tags": [],
@@ -1254,7 +1064,6 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1727"
       ],
       "tags": [],
@@ -1274,7 +1083,6 @@
         "A-2044.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1727",
         "N-1728"
       ],
@@ -1295,11 +1103,13 @@
         "A-2037.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-1728"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:12"
+      "claim_timestamp": "00:40:12",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1316,7 +1126,8 @@
       "tags": [],
       "claim_timestamp": "00:22:03",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-133"
       ]
     },
     {
@@ -1329,11 +1140,14 @@
         "A-2039.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1731"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:50"
+      "claim_timestamp": "00:31:50",
+      "mentions_person_refs": [
+        "N-552",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1350,7 +1164,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Pull archived Slauson X timeline via Wayback Machine to verify."
+      "investigative_direction": "Pull archived Slauson X timeline via Wayback Machine to verify.",
+      "mentions_person_refs": [
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1366,7 +1183,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain PACER docket copy of Harpole filing and marriage records."
+      "investigative_direction": "Obtain PACER docket copy of Harpole filing and marriage records.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-133"
+      ]
     },
     {
       "@type": "Claim",
@@ -1382,7 +1203,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Pull archived Roth X timeline."
+      "investigative_direction": "Pull archived Roth X timeline.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1416,7 +1240,10 @@
         "N-1726"
       ],
       "tags": [],
-      "claim_timestamp": "00:49:43"
+      "claim_timestamp": "00:49:43",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

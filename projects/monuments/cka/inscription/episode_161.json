@@ -1,0 +1,2377 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 161,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-01:12:42",
+    "extraction_timestamp": "2026-10-07T15:30:00Z",
+    "model_version": "grok-manual-extract-seq161",
+    "transcript_sha256": "f08cf480290560da50615af509c0d856b367a6b6b09d150f0f30475d26c77440",
+    "analysis_date": "2026-10-07"
+  },
+  "executive_summary": "Episode 398 (presumed; title omits \"| Ep N\") opens by satirizing yesterday's Candyland illegal-nanny mansion comments (two nannies per child, elite Jewish agency, \"we only hoard illegals\") then pivots to Jennica Pounds (data republican): hired as a Department of War special government employee around the Tyler Robinson preliminary-hearing week, she posted a long X thread attacking Candace and defending the official 30-06 / NCRI / Erika-dehumanization narrative without disclosing DoD employment; she has now resigned, and the host mocks \"where were you on 9/10.\"\n\nThe core beat is a paid anti-Candace clipping economy. Tips and an Atlantic investigation by Ali Breland describe Monster Lab / Clippet (DBA) and Elephant Clipping, run from Latvia by Matt Servius over Discord, paying editors by impressions (e.g. $120k August TPUSA generic pool at $300/1M views; $75k one-week Andrew Wilson debate pivot with instructions that Candace may appear only if she looks bad). Campaign Google Drives for Erika Kirk clips were uploaded beginning September 15, 2025 (five days after Charlie's assassination) by Enclave and Key staff (Jules Katz, Benjamin Goodman, Jack O'Hara); Enclave CEO Blake Wynn (Steve Wynn's nephew) is framed as Erika's close friend who appears beside her at medal, gala, and DoD emotional-asset moments. Andrew Kolvet denies TPUSA works with a Latvian company; the host calls that the audacity of the gaslight. Wayback Machine captures of Monster Lab from September 12, 2025 forward show only \"loading,\" which the host treats as a wipe hiding the go-live date (possibly first Erika campaign). Blake's Fargo Talks \"rare bucket\" praise of Erika is played; a Las Vegas / Howard Hughes / Adelson / Wynn / Kash Patel syndicate thread is restated. Andrew Tate's Hustlers University is credited (via an Edson interview clip) as the clipping-economy pioneer. Closing comments revisit the unnamed fire-captain CPR dog-that-is-not-barking, ask who sponsors the Latvian operator, push moretips@candace.com tip intake, mock shifting smear packages, advise starving paid clippers of impressions, note sponsor-threat campaigns, and plug Conspiracy Girly merch.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2497",
+      "family_ref": "A-2497",
+      "bundle_name": "Jennica Pounds DoD Resignation and Anti-Candace Thread Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2497.1",
+          "ref": "A-2497.1",
+          "description": "Host recount of data republican / Jennica Pounds long X thread attacking Candace and audience treatment of the widow, reinforcing NCRI dehumanization framing and a 30-06 deer analogy, without disclosing Department of War special-government-employee status; plus her later X resignation announcing focus on book tour and midterms.",
+          "related_claims": [
+            "C-3680",
+            "C-3681"
+          ],
+          "related_nodes": [
+            "N-447",
+            "N-2376",
+            "N-2379",
+            "N-2214",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2498",
+      "family_ref": "A-2498",
+      "bundle_name": "Monster Lab / Elephant Clipping Discord Campaign Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2498.1",
+          "ref": "A-2498.1",
+          "description": "Host walkthrough of Monster Lab campaign listings (debates, elephant clipping, shorts, podcast clipping), Discord dos/don'ts, August Charlie Kirk / TPUSA campaign with $120,000 monthly pool at $300 per 1M views and red-text ban on Candace Owens / Dean Withers, then mid-month Discord shift offering $75,000 for one week of Andrew Wilson debate clips where Candace may appear only if she looks bad and Turning Point looks good.",
+          "related_claims": [
+            "C-3682",
+            "C-3683",
+            "C-3684"
+          ],
+          "related_nodes": [
+            "N-2371",
+            "N-2372",
+            "N-2374",
+            "N-1078",
+            "N-1000",
+            "N-46",
+            "N-477",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2499",
+      "family_ref": "A-2499",
+      "bundle_name": "Atlantic Ali Breland Elephant Clipping Expose Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2499.1",
+          "ref": "A-2499.1",
+          "description": "Host read of Ali Breland Atlantic piece \"Inside a conservative operation to hijack your social media feed\": Latvian-run Clippet / Elephant Clipping pays Eastern Europe and Global South subcontractors; Servius admits ~1 year of elephant clipping since about September 2025; February/March/April campaigns listed at ~$900,000; August TPUSA $120,000 campaign noted; Kolvet quoted denying Latvian contractors.",
+          "related_claims": [
+            "C-3685",
+            "C-3686",
+            "C-3687"
+          ],
+          "related_nodes": [
+            "N-2380",
+            "N-582",
+            "N-579",
+            "N-2377",
+            "N-42",
+            "N-1000"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2500",
+      "family_ref": "A-2500",
+      "bundle_name": "Enclave and Key Google Drive Erika Clip Seed and Deletion Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2500.1",
+          "ref": "A-2500.1",
+          "description": "Host/Atlantic account that campaign Google Drives held Erika Kirk videos uploaded September 15, 2025 by Jules Katz, Benjamin Goodman, and Jack O'Hara of Las Vegas Enclave and Key (Blake Wynn CEO); after reporter outreach, folders were deleted/reposted off Enclave emails and Discord campaign listings were delisted while Monster Lab descriptions were stripped.",
+          "related_claims": [
+            "C-3688",
+            "C-3689"
+          ],
+          "related_nodes": [
+            "N-2382",
+            "N-2373",
+            "N-580",
+            "N-583",
+            "N-584",
+            "N-585",
+            "N-2",
+            "N-2378"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2501",
+      "family_ref": "A-2501",
+      "bundle_name": "Wayback Machine Monster Lab Loading Wipe Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2501.1",
+          "ref": "A-2501.1",
+          "description": "Host Wayback Machine walkthrough: Monster Lab splash-only from May 3, 2024 through August 3, 2025; captures exist from September 12, 2025 forward but render only \"loading,\" which she treats as a wipe hiding the go-live / first-campaign state (assumes September 12 live; knows September 15 Erika activity).",
+          "related_claims": [
+            "C-3690",
+            "C-3691"
+          ],
+          "related_nodes": [
+            "N-2375",
+            "N-2371",
+            "N-2382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2502",
+      "family_ref": "A-2502",
+      "bundle_name": "Blake Wynn Fargo Talks Rare-Bucket Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2502.1",
+          "ref": "A-2502.1",
+          "description": "Clip of Blake Wynn on Jeff Fargo's Fargo Talks podcast placing Erika Kirk in a \"rare bucket\" of people he looks up to as human beings, alongside business heroes including uncle Steve Wynn; host rejects romance rumor and frames a business/behind-the-scenes friendship.",
+          "related_claims": [
+            "C-3692"
+          ],
+          "related_nodes": [
+            "N-580",
+            "N-581",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2503",
+      "family_ref": "A-2503",
+      "bundle_name": "Edson Interview Andrew Tate Hustlers University Clipping Pioneer Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2503.1",
+          "ref": "A-2503.1",
+          "description": "Guest/clip segment (Edson) explaining Andrew Tate's 2021 Hustlers University model: join community, clip livestreams, post from affiliate accounts with Hustlers University links, earn commissions; clip army keeps content alive after platform bans (parallel drawn to Nick Fuentes Instagram/YouTube bans).",
+          "related_claims": [
+            "C-3693"
+          ],
+          "related_nodes": [
+            "N-2381",
+            "N-242",
+            "N-293"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2504",
+      "family_ref": "A-2504",
+      "bundle_name": "Conspiracy Girly Merch and Tip-Line Near-DIA Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2504.1",
+          "ref": "A-2504.1",
+          "description": "Host plugs Conspiracy Girly t-shirts/mug and shop support after noting quarterly sponsor-threat campaigns over Erika treatment; repeatedly directs tips to moretips@candace.com / more tips at candace.com for Monster Lab ownership and Wayback wipe questions.",
+          "related_claims": [
+            "C-3694",
+            "C-3695"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:24",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Organization",
+      "@id": "N-2371",
+      "ref": "N-2371",
+      "name": "Monster Lab / Clippet",
+      "type": "organization",
+      "description": "DBA / trade names for the clipping-pay company hosting Elephant Clipping and related campaigns; ownership at the top remains unknown per host LLC search.",
+      "related_artifacts": [
+        "A-2498.1",
+        "A-2499.1",
+        "A-2501.1"
+      ],
+      "related_claims": [
+        "C-3682",
+        "C-3685",
+        "C-3690"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-579",
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2372",
+      "ref": "N-2372",
+      "name": "Elephant Clipping Campaign",
+      "type": "topic",
+      "description": "Matt Servius's flagship political clipping campaign paying for GOP/TPUSA-aligned shorts and anti-Candace edits via Discord.",
+      "related_artifacts": [
+        "A-2498.1"
+      ],
+      "related_claims": [
+        "C-3682",
+        "C-3683",
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2371",
+        "N-579"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2373",
+      "ref": "N-2373",
+      "name": "Enclave and Key",
+      "type": "organization",
+      "description": "Las Vegas marketing company (CEO Blake Wynn) whose staff emails appear on Google Drive folders seeding Erika/TPUSA clipping campaigns; Romania footprint noted by host.",
+      "related_artifacts": [
+        "A-2500.1"
+      ],
+      "related_claims": [
+        "C-3688",
+        "C-3689"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-580",
+        "N-2378"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2374",
+      "ref": "N-2374",
+      "name": "Anti-Candace Paid Clipping Campaign",
+      "type": "topic",
+      "description": "Million-dollar-scale Discord bounties and PR/DoD-adjacent character attacks during Tyler Robinson prelim week and ongoing smear packages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3682",
+        "C-3684",
+        "C-3686"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2372",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2375",
+      "ref": "N-2375",
+      "name": "Wayback Machine Monster Lab September 2025 Wipe",
+      "type": "topic",
+      "description": "Archive captures from September 12, 2025 forward that only show loading; host frames as track-cleaning around go-live / first Erika campaign.",
+      "related_artifacts": [
+        "A-2501.1"
+      ],
+      "related_claims": [
+        "C-3690",
+        "C-3691"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2371"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2376",
+      "ref": "N-2376",
+      "name": "Jennica Pounds DoD Special Government Employee Thread",
+      "type": "topic",
+      "description": "Undisclosed DoD hire posting anti-Candace / pro-official-narrative thread during Tyler Robinson prelim week; later resignation.",
+      "related_artifacts": [
+        "A-2497.1"
+      ],
+      "related_claims": [
+        "C-3680",
+        "C-3681"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-447",
+        "N-2379"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "N-2377",
+      "ref": "N-2377",
+      "name": "Latvia",
+      "type": "place",
+      "description": "Claimed operating base for Matt Servius / Clippet elephant-clipping service in the Atlantic reporting.",
+      "related_artifacts": [
+        "A-2499.1"
+      ],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-579"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "N-2378",
+      "ref": "N-2378",
+      "name": "Las Vegas",
+      "type": "place",
+      "description": "Enclave and Key HQ city; host restates Hughes / Adelson / Wynn / Patel syndicate framing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3688",
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2373",
+        "N-1320",
+        "N-2143"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-2379",
+      "ref": "N-2379",
+      "name": "Department of War",
+      "type": "organization",
+      "description": "Host name for DoD; employer of Jennica Pounds as special government employee; tied to Erika emotional-asset optics.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680",
+        "C-3681"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-447",
+        "N-994"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2380",
+      "ref": "N-2380",
+      "name": "Atlantic Elephant Clipping Expose",
+      "type": "topic",
+      "description": "Ali Breland September 2026 Atlantic investigation into paid conservative clipping ops.",
+      "related_artifacts": [
+        "A-2499.1"
+      ],
+      "related_claims": [
+        "C-3685",
+        "C-3686",
+        "C-3687"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-582"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2381",
+      "ref": "N-2381",
+      "name": "Andrew Tate Hustlers University Clipping Economy",
+      "type": "topic",
+      "description": "Clip-army affiliate model credited as pioneer of the modern clipping economy later copied by political ops.",
+      "related_artifacts": [
+        "A-2503.1"
+      ],
+      "related_claims": [
+        "C-3693"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-242"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2382",
+      "ref": "N-2382",
+      "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
+      "type": "topic",
+      "description": "Erika videos uploaded to campaign drives five days after Charlie's death; host asks why she needed selling before the \"I forgive him\" speech.",
+      "related_artifacts": [
+        "A-2500.1"
+      ],
+      "related_claims": [
+        "C-3688",
+        "C-3691"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2383",
+      "ref": "N-2383",
+      "name": "Audacity of the Gaslight Framing",
+      "type": "topic",
+      "description": "Host recurring label (and joke book title) for TPUSA/orbit denials of funded campaigns while preparing Erika CEO optics.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3687",
+        "C-3697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1000"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-447",
+      "ref": "N-447",
+      "name": "Jennica Pounds",
+      "type": "person",
+      "description": "X personality \"data republican\"; host says she was a DoD special government employee who posted an anti-Candace thread without disclosure, then resigned.",
+      "related_artifacts": [
+        "A-2497.1"
+      ],
+      "related_claims": [
+        "C-3680",
+        "C-3681"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2376",
+        "N-2379"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-579",
+      "ref": "N-579",
+      "name": "Matt Servius",
+      "type": "person",
+      "description": "Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade names; LinkedIn framed as running not owning.",
+      "related_artifacts": [
+        "A-2498.1",
+        "A-2499.1"
+      ],
+      "related_claims": [
+        "C-3682",
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2371",
+        "N-2372",
+        "N-2377"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-580",
+      "ref": "N-580",
+      "name": "Blake Wynn",
+      "type": "person",
+      "description": "Enclave and Key CEO; Steve Wynn's nephew; framed as Erika Kirk close friend supplying/adjacent to early Erika clip drives and public appearances.",
+      "related_artifacts": [
+        "A-2500.1",
+        "A-2502.1"
+      ],
+      "related_claims": [
+        "C-3688",
+        "C-3689",
+        "C-3692"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2373",
+        "N-2",
+        "N-581"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-581",
+      "ref": "N-581",
+      "name": "Steve Wynn",
+      "type": "person",
+      "description": "Billionaire conservative mega-donor; uncle of Blake Wynn; non-response to Atlantic comment request noted.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3689",
+        "C-3692"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-580",
+        "N-2378"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-582",
+      "ref": "N-582",
+      "name": "Ali Breland",
+      "type": "person",
+      "description": "Atlantic journalist credited for the elephant-clipping investigation the host walks through.",
+      "related_artifacts": [
+        "A-2499.1"
+      ],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2380"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-583",
+      "ref": "N-583",
+      "name": "Jules Katz",
+      "type": "person",
+      "description": "Enclave and Key chief of staff; Atlantic says company-email uploads to campaign Google Drives.",
+      "related_artifacts": [
+        "A-2500.1"
+      ],
+      "related_claims": [
+        "C-3688"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2373"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-584",
+      "ref": "N-584",
+      "name": "Benjamin Goodman",
+      "type": "person",
+      "description": "Enclave VP of operations; Atlantic says he reposted drive files after deletions using a non-Enclave email.",
+      "related_artifacts": [
+        "A-2500.1"
+      ],
+      "related_claims": [
+        "C-3688",
+        "C-3689"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2373"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-585",
+      "ref": "N-585",
+      "name": "Jack O'Hara",
+      "type": "person",
+      "description": "Head of media production at an Enclave subsidiary; Atlantic says company and personal emails appear on drive uploads.",
+      "related_artifacts": [
+        "A-2500.1"
+      ],
+      "related_claims": [
+        "C-3688"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2373"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-472",
+      "ref": "N-472",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Host \"Miriam Medson\" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2378"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-586",
+      "ref": "N-586",
+      "name": "Robert F. Kennedy Jr.",
+      "type": "person",
+      "description": "Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, Tucker Carlson, Riley Gaines); host also jokes big-pharma wealth may explain the RFK ban.",
+      "related_artifacts": [
+        "A-2499.1"
+      ],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-477",
+      "ref": "N-477",
+      "name": "Dean Withers",
+      "type": "person",
+      "description": "Listed with Candace as a non-approved figure in the August TPUSA clipping instructions.",
+      "related_artifacts": [
+        "A-2498.1"
+      ],
+      "related_claims": [
+        "C-3683"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3688",
+        "C-3691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2382",
+        "N-1000"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3688",
+        "C-3692",
+        "C-3697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2382",
+        "N-580"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680",
+        "C-3682",
+        "C-3694",
+        "C-3695"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2374",
+        "N-2366"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Listed among figures appearing in Elephant Clipping campaign charts the host displays.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3686"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-580"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3698"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2365"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3687"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1000",
+        "N-580"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "August 14 debate becomes $75k Discord clip-pivot to make him look good vs Candace.",
+      "related_artifacts": [
+        "A-2498.1"
+      ],
+      "related_claims": [
+        "C-3684"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-52",
+      "ref": "N-52",
+      "name": "Riley Gaines",
+      "type": "person",
+      "description": "Named among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Comments satire about Oxford Hebrew class shame and House in Habit spin.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680",
+        "C-3682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1078"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-580"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2371"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-144",
+      "ref": "N-144",
+      "name": "Chris",
+      "type": "person",
+      "description": "On-air ask to pull Elephant Clipping flow chart.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-169",
+      "ref": "N-169",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night seating recount.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-580"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-170",
+      "ref": "N-170",
+      "name": "Vivek Ramaswamy",
+      "type": "person",
+      "description": "Atlantic: sub-campaigns offer extra money for favorable Vivek clips (Ohio governor race).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Tate Brothers (Andrew and Tristan)",
+      "type": "person",
+      "description": "Andrew Tate credited as clipping-economy pioneer via Hustlers University; Romania/UK filings teased for later.",
+      "related_artifacts": [
+        "A-2503.1"
+      ],
+      "related_claims": [
+        "C-3693"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2381"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3688"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2382"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3693"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-406",
+      "ref": "N-406",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2373"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3698"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2365"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Host joke about booking Theo Von and Tim Dillon when super pregnant.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-476",
+      "ref": "N-476",
+      "name": "Bill Aman",
+      "type": "person",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680",
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-550",
+      "ref": "N-550",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3685"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-580"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-909",
+      "ref": "N-909",
+      "name": "Carrie Prejean Bowler",
+      "type": "person",
+      "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-994",
+      "ref": "N-994",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "Pounds resignation praises Hegseth leadership; DoW framing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3681"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2379"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3683",
+        "C-3684",
+        "C-3687"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2374"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1078",
+      "ref": "N-1078",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "Assignment channel for clipping campaigns and site of Tyler Robinson alleged confession lore.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3682",
+        "C-3684"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2372"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1091",
+      "ref": "N-1091",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Host: Israeli-aligned interests in who is attacked/protected by clipping ops; \"Israel did nothing\" syndicate framing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2374"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1320",
+      "ref": "N-1320",
+      "name": "\"Mormon Mafia\" Allegation (Courtney Love Source)",
+      "type": "investigation_target",
+      "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2143",
+        "N-2378"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2143",
+      "ref": "N-2143",
+      "name": "Howard Hughes Death Investigation",
+      "type": "investigation_target",
+      "description": "Prior Hughes topic reused for Las Vegas company takeover narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1320"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2214",
+      "ref": "N-2214",
+      "name": "NCRI Report Provenance and Authorship",
+      "type": "investigation_target",
+      "description": "Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanization.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-447"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2365",
+      "ref": "N-2365",
+      "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+      "type": "investigation_target",
+      "description": "Comments continue: fire captain CPR on a body dead ~15 minutes as dog not barking; still seeking identity.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3698"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-424",
+        "N-16"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2366",
+      "ref": "N-2366",
+      "name": "Candyland Illegal-Nanny Mansion NDA Smear",
+      "type": "investigation_target",
+      "description": "Opening satire of commenters volunteering as nannies after yesterday's Candyland package.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3699"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3680",
+      "ref": "C-3680",
+      "label": "Jennica Pounds posted anti-Candace DoD-week thread without disclosing hire",
+      "claim": "The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Aman as if organic.",
+      "anchored_artifacts": [
+        "A-2497.1"
+      ],
+      "related_nodes": [
+        "N-2376",
+        "N-2379",
+        "N-2214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:42",
+      "investigative_direction": "Archive the thread + employment paperwork dates; compare boost graph to paid clipping windows.",
+      "mentions_person_refs": [
+        "N-447",
+        "N-3",
+        "N-2",
+        "N-42",
+        "N-476",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3681",
+      "ref": "C-3681",
+      "label": "Jennica Pounds announces resignation from Department of War",
+      "claim": "The host reads Pounds's X resignation from the Department of War (honoring Hegseth leadership; stepping back for book tour and midterms) and calls her a fraud for not revealing the DoD role, adding a joking \"where were you on 9/10\" jab.",
+      "anchored_artifacts": [
+        "A-2497.1"
+      ],
+      "related_nodes": [
+        "N-2376",
+        "N-2379"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:02",
+      "investigative_direction": "Preserve resignation post; confirm SGE appointment dates vs thread timestamps.",
+      "mentions_person_refs": [
+        "N-447",
+        "N-994"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3682",
+      "ref": "C-3682",
+      "label": "Tips describe million-dollar Discord bounties for anti-Candace videos",
+      "claim": "The host says unsolicited email tips claimed participants had proof that roughly $1.5M (and \"millions\") went out via Discord assignments for anti-Candace videos during the Tyler Robinson prelim week, orchestrated through Monster Lab / Clippet rather than a direct TPUSA paycheck.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-2374",
+        "N-2371",
+        "N-1078",
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Preserve tip emails; match Discord campaign IDs and payout ledgers if obtainable.",
+      "supports_claim_refs": [
+        "C-3617"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3683",
+      "ref": "C-3683",
+      "label": "August TPUSA clipping campaign banned Candace and Dean Withers",
+      "claim": "On a leaked Monster Lab / Elephant Clipping campaign card, the host shows a $120,000 August 3-31 pool at $300 per 1M views for Charlie Kirk / TPUSA clips with explicit instructions: only approved Turning Point affiliates; Candace Owens, Dean Withers, and others are not approved figures.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-2372",
+        "N-1000",
+        "N-2371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:03",
+      "investigative_direction": "Hash-preserve campaign screenshots and Discord message IDs.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-477",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3684",
+      "ref": "C-3684",
+      "label": "Discord pivoted $75k to make Andrew Wilson look good vs Candace",
+      "claim": "After the August 14 Candace vs Andrew Wilson debate, Elephant Clipping Discord instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good, despite TPUSA publicly saying it had nothing to do with the debate.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-2372",
+        "N-1000",
+        "N-1078"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:06",
+      "investigative_direction": "Align Discord timestamps with TPUSA public denial statements.",
+      "contradicts_claim_refs": [
+        "C-3687"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3685",
+      "ref": "C-3685",
+      "label": "Atlantic: Latvian Elephant Clipping pays foreign clippers to astroturf GOP feeds",
+      "claim": "Per Ali Breland's Atlantic investigation as read on air, Matt Servius in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-2380",
+        "N-2377",
+        "N-2372",
+        "N-2371",
+        "N-1078"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:10",
+      "investigative_direction": "Preserve Atlantic article + Servius promo videos; map budget months to Candace harassment windows.",
+      "mentions_person_refs": [
+        "N-582",
+        "N-579",
+        "N-586",
+        "N-75",
+        "N-293",
+        "N-52",
+        "N-170",
+        "N-550",
+        "N-133",
+        "N-406",
+        "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3686",
+      "ref": "C-3686",
+      "label": "Host ties $900k Feb/Mar/Apr campaigns to Bride of Charlie launch and Italy smear wave",
+      "claim": "The host notes Atlantic-reported ~$900k February and March/April \"famous US political commentator\" campaigns coincide with her Erika Kirk Bride of Charlie series launch and a March/April Italy confirmation-week harassment wave (drunk-driving husband claims, Vatican Russian-summit claims, Trump calling her vile), suggesting those budgets targeted her.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-2374",
+        "N-2380"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:40",
+      "investigative_direction": "Identify the unnamed commentator campaigns' target lists from Discord/Drive artifacts.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-5",
+        "N-59"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3687",
+      "ref": "C-3687",
+      "label": "Kolvet denies TPUSA works with Latvian clipping company",
+      "claim": "The host reads Andrew Kolvet telling the Atlantic he can \"pretty much guarantee\" TPUSA is not working with a Latvian company and that contractors are unfamiliar with the clipping firm; she rejects the denial as gaslight given Erika clip drives and million-dollar budgets in TPUSA's orbit.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-1000",
+        "N-2377",
+        "N-2383"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:21",
+      "investigative_direction": "Compare Kolvet statement to Discord TPUSA campaign language and Enclave drive metadata.",
+      "contradicts_claim_refs": [
+        "C-3684"
+      ],
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3688",
+      "ref": "C-3688",
+      "label": "Erika Kirk clips uploaded to campaign drives September 15 2025 via Enclave staff",
+      "claim": "Per the Atlantic account the host highlights, Google Drive folders for the TPUSA-linked campaign contained mostly Erika Kirk videos uploaded September 15, 2025 (five days after Charlie's assassination) by Enclave and Key employees Jules Katz, Benjamin Goodman, and Jack O'Hara, with Blake Wynn as Enclave CEO.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-2382",
+        "N-2373",
+        "N-2378"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:21",
+      "investigative_direction": "Subpoena/archive drive file lists and uploader emails; identify which widow clips were seeded.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-580",
+        "N-583",
+        "N-584",
+        "N-585"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3689",
+      "ref": "C-3689",
+      "label": "Enclave deleted campaign drives after Atlantic outreach",
+      "claim": "The host reads that after Breland contacted the Wynns and Enclave, campaign video folders uploaded by Katz and O'Hara disappeared, Goodman reposted files from a non-Enclave email, Elephant Clipping / US politics channels were delisted from public Clippet Discords, Monster Lab campaign descriptions were stripped, and Enclave drives were taken down.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-2373",
+        "N-2371",
+        "N-1078"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:58",
+      "investigative_direction": "Timeline deletions vs reporter emails; recover drive revisions from recipients.",
+      "mentions_person_refs": [
+        "N-580",
+        "N-581",
+        "N-583",
+        "N-584",
+        "N-585",
+        "N-582"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3690",
+      "ref": "C-3690",
+      "label": "Wayback Machine shows only loading for Monster Lab captures from September 12 2025",
+      "claim": "The host says Wayback Machine has captures of Monster Lab from September 12, 2025 forward, but every capture shows only a loading state, which she has never seen before and treats as a wipe preventing confirmation of the first live campaign (assumes September 12 go-live after August 3 splash-only).",
+      "anchored_artifacts": [
+        "A-2501.1"
+      ],
+      "related_nodes": [
+        "N-2375",
+        "N-2371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:06",
+      "investigative_direction": "Pull WARC/CDX raw for monsterlab domain; compare other archive mirrors (archive.ph etc.).",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3691",
+      "ref": "C-3691",
+      "label": "Host senses Erika Kirk was the first Monster Lab campaign",
+      "claim": "As a \"dream feeling\" not a stated fact, the host argues Erika Kirk may have been the first campaign on Monster Lab given September 15 drive activity, unlimited-budget gaslighting, and DoD emotional-asset positioning, and that the site may have been created to promote Erika.",
+      "anchored_artifacts": [
+        "A-2501.1"
+      ],
+      "related_nodes": [
+        "N-2382",
+        "N-2375",
+        "N-2371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:19",
+      "investigative_direction": "Recover pre-wipe September 12-14 HTML; list first campaign titles.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3692",
+      "ref": "C-3692",
+      "label": "Blake Wynn puts Erika Kirk in a rare bucket of human beings he looks up to",
+      "claim": "On the Fargo Talks clip, Blake Wynn says he was at breakfast with the host when Charlie was shot and places Erika Kirk in a rare bucket of people he looks up to as human beings (alongside uncle Steve and a few others); Candace rejects romance rumors and frames a business relationship.",
+      "anchored_artifacts": [
+        "A-2502.1"
+      ],
+      "related_nodes": [
+        "N-2373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:17",
+      "investigative_direction": "Preserve full Fargo Talks episode; map Blake-Erika public appearances list.",
+      "mentions_person_refs": [
+        "N-580",
+        "N-2",
+        "N-581"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3693",
+      "ref": "C-3693",
+      "label": "Andrew Tate pioneered the clipping economy via Hustlers University",
+      "claim": "Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links) later imitated by political clipping ops including the Erika/TPUSA-adjacent machine.",
+      "anchored_artifacts": [
+        "A-2503.1"
+      ],
+      "related_nodes": [
+        "N-2381"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:58",
+      "investigative_direction": "Document Hustlers University affiliate mechanics vs Monster Lab Discord payout rules.",
+      "mentions_person_refs": [
+        "N-242",
+        "N-293"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3694",
+      "ref": "C-3694",
+      "label": "Host solicits tips on Monster Lab ownership and Wayback wipe",
+      "claim": "The host says her team cannot find who sits atop the Monster Lab / Clippet DBA from LLC docs and asks viewers to email moretips@candace.com (more tips at candace.com) with ownership leads and explanations for the Wayback loading wipe.",
+      "anchored_artifacts": [
+        "A-2504.1"
+      ],
+      "related_nodes": [
+        "N-2371",
+        "N-2375"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:24",
+      "investigative_direction": "Track tip intake; search NY/Romania DBA and beneficial-ownership filings.",
+      "supports_claim_refs": [
+        "C-3622"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3695",
+      "ref": "C-3695",
+      "label": "Conspiracy Girly merch and organic support vs paid sponsor-threat campaigns",
+      "claim": "The host plugs Conspiracy Girly shirts/mug and shop support as the clean way to back the show, notes quarterly campaigns listing her sponsors and threatening them over Erika treatment, and refuses to compromise truth-telling for pro-Israel pressure.",
+      "anchored_artifacts": [
+        "A-2504.1"
+      ],
+      "related_nodes": [
+        "N-1091"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:10:26",
+      "investigative_direction": "Archive sponsor-threat posts/accounts; correlate with Elephant Clipping ban/include lists.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3696",
+      "ref": "C-3696",
+      "label": "Host restates Las Vegas Hughes-Adelson-Wynn-Patel money syndicate framing",
+      "claim": "Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Aman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson (\"Medson\") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-2378",
+        "N-1320",
+        "N-2143",
+        "N-2373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:09",
+      "investigative_direction": "Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.",
+      "mentions_person_refs": [
+        "N-580",
+        "N-476",
+        "N-102",
+        "N-472",
+        "N-581"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3697",
+      "ref": "C-3697",
+      "label": "Audacity of the gaslight: orbit denies funding while seeding Erika CEO optics",
+      "claim": "The host argues TPUSA orbit figures keep pretending campaigns are organic and that Erika was just a widow at home, while clips were uploaded five days after the assassination and Discord money made Turning Point look good; she nicknames the pattern the audacity of the gaslight (vs Obama's Audacity of Hope).",
+      "anchored_artifacts": [
+        "A-2499.1",
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-2383",
+        "N-1000",
+        "N-2382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:53",
+      "investigative_direction": "Pair public denial quotes with contemporaneous Discord/Drive artifacts.",
+      "contradicts_claim_refs": [
+        "C-3687"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3698",
+      "ref": "C-3698",
+      "label": "Comments: unnamed fire-captain CPR remains the dog not barking",
+      "claim": "Returning to yesterday's UVU review point, the host and a commenter question a fire captain riding to the ER to CPR a body reportedly dead ~15 minutes, note hospital redirect audio to Timpanogos, and say that unidentified captain still feels significant.",
+      "anchored_artifacts": [
+        "A-2476.1"
+      ],
+      "related_nodes": [
+        "N-2365"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:45",
+      "investigative_direction": "Identify Station 2 captain via rosters; obtain full dispatch + ER intake logs.",
+      "supports_claim_refs": [
+        "C-3622",
+        "C-3623"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3699",
+      "ref": "C-3699",
+      "label": "Host satirizes Candyland nanny-volunteer comments as smear recycling",
+      "claim": "Opening the show, the host reads commenters volunteering as mansion nannies after yesterday's Lisa Nose / illegal-nanny package and satirically answers that applicants must be illegal, come through an elite Jewish agency, and accept underpay because \"we only hoard illegals.\"",
+      "anchored_artifacts": [
+        "A-2474.1"
+      ],
+      "related_nodes": [
+        "N-2366"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "None beyond preserving the satire vs primary employment evidence standard on C-3617.",
+      "supports_claim_refs": [
+        "C-3617"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3700",
+      "ref": "C-3700",
+      "label": "Starve paid clippers of impressions by not engaging",
+      "claim": "Agreeing with a commenter, the host says sellout accounts need argument impressions to get paid, so the winning move is to starve the little rodents by not engaging or sharing their posts.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-2374"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:57",
+      "investigative_direction": "None; audience-behavior guidance.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-61",
+      "ref": "M-61",
+      "canonical_term": "We Only Hoard Illegals",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "The answer is no. You guys, you are either illegal or you're not. We only hoard illegals. Okay, please pay attention.",
+          "context": "Satire reply to nanny-volunteer comments after Candyland smear.",
+          "confidence": "high",
+          "tags": [
+            "satire",
+            "nanny",
+            "candyland",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-62",
+      "ref": "M-62",
+      "canonical_term": "Two Nannies Per Child",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Candace, I'll volunteer as a tribute to live in the mansion and take care of baby number five since you know that he will need his own nanny. Two nannies per child.",
+          "context": "Host reads Kell comment recycling two-nannies-per-child math.",
+          "confidence": "high",
+          "tags": [
+            "satire",
+            "nanny",
+            "candyland",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-63",
+      "ref": "M-63",
+      "canonical_term": "Elite Jewish Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "And you must also come through an elite Jewish agency. This is not hard.",
+          "context": "Satire condition for fake nanny applicants.",
+          "confidence": "high",
+          "tags": [
+            "satire",
+            "nanny",
+            "candyland",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-64",
+      "ref": "M-64",
+      "canonical_term": "Audacity of the Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:33:53",
+          "speaker_node_ref": "N-3",
+          "quote": "It's the audacity of the gaslight. ... if I write a book one day on all of this, it will be the audacity of Erika Kirk, the audacity of the gaslight. ... because you had Barack Obama's was the audacity of hope, right? Mine's going to be the audacity of the gaslight.",
+          "context": "Host names the denial pattern and jokes a book title.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "erika",
+            "book_joke",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-65",
+      "ref": "M-65",
+      "canonical_term": "Elephant Clipping",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:09:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Okay, this is where all the anti-Candis campaigns are happening via this elephant clipping campaign.",
+          "context": "Introduces Monster Lab elephant clipping brand.",
+          "confidence": "high",
+          "tags": [
+            "clipping",
+            "campaign",
+            "first_seen"
+          ]
+        },
+        {
+          "episode": 161,
+          "video_timestamp": "01:00:30",
+          "speaker_node_ref": "N-3",
+          "quote": "Well, the elephant clipping be clipping. Okay. They be clipping elephantsized clips on the clipin.",
+          "context": "Comments riff on smear-package thrash.",
+          "confidence": "high",
+          "tags": [
+            "clipping",
+            "slang",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:41:06",
+          "speaker_node_ref": "N-3",
+          "quote": "suddenly this website goes forward and it is paying people to create effectively slop slop, bed slop as we term it.",
+          "context": "Names purchased clip output as slop / bed slop (fed-slop adjacent).",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "clipping",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-67",
+      "ref": "M-67",
+      "canonical_term": "Rare Bucket",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:28:06",
+          "speaker_node_ref": "N-580",
+          "quote": "but then there's this much more rare bucket Erika Kirk fits into it you fit into it and a couple other people fit into it which is that I look up to you guys as human beings.",
+          "context": "Blake Wynn Fargo Talks clip; host echoes \"rare bucket\" description of Erika.",
+          "confidence": "high",
+          "tags": [
+            "blake_wynn",
+            "erika",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-68",
+      "ref": "M-68",
+      "canonical_term": "Starve the Little Rodents",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "01:03:57",
+          "speaker_node_ref": "N-3",
+          "quote": "The best thing you can do is starve the little rodents.",
+          "context": "Advice against feeding paid clippers impressions.",
+          "confidence": "high",
+          "tags": [
+            "clipping",
+            "audience_guidance",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-69",
+      "ref": "M-69",
+      "canonical_term": "Not a Real Person",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "01:10:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Remember that remember that clip of the uh the woman on the plane? ... She was like, \"You are not a real person.\" And she got That's me. She me on the plane to Erika. That is not real. That person is not real.",
+          "context": "Applies viral plane line to Erika persona.",
+          "confidence": "high",
+          "tags": [
+            "erika",
+            "persona",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-70",
+      "ref": "M-70",
+      "canonical_term": "Millennial Discord Ignorance",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:07:17",
+          "speaker_node_ref": "N-3",
+          "quote": "I was like, Discord? really. I mean, I'll plead a little bit of millennial ignorance here. I'm not hip with uh Discord.",
+          "context": "Host jokes about Discord as the bounty channel.",
+          "confidence": "high",
+          "tags": [
+            "discord",
+            "self_deprecation",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-71",
+      "ref": "M-71",
+      "canonical_term": "Where Were You on 9/10",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:05:06",
+          "speaker_node_ref": "N-3",
+          "quote": "And I do want to add here that my only question for D Republican is where were you on 910? We are never going to let this go.",
+          "context": "Jab at Jennica Pounds after DoD reveal.",
+          "confidence": "high",
+          "tags": [
+            "data_republican",
+            "910",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-21",
+      "ref": "M-21",
+      "canonical_term": "Conspiracy Girly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "01:10:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Buy yourself I love the Conspiracy girly t-shirts. I don't even think I have one of those. Can somebody get me one of those so I can wear that? I have the mug, but I don't think I even have the Conspiracy Girl t-shirt.",
+          "context": "Merch plug / brand joke after tip-line asks. Reuse of M-21 (first_episode 55); not a new meme id.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "near_dia",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-72",
+      "ref": "M-72",
+      "canonical_term": "Fresh and Clean Organic",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:55:45",
+          "speaker_node_ref": "N-3",
+          "quote": "there's something that just feels so fresh and so clean about that you know it feels so outcast fresh and so clean to know that I don't I don't do it I don't get down in the mud with these people",
+          "context": "Contrasts organic show vs paid mud.",
+          "confidence": "high",
+          "tags": [
+            "organic",
+            "clipping",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-73",
+      "ref": "M-73",
+      "canonical_term": "Lose Count After Four",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "01:07:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I thought I had six kids. I thought this was number six and then I was like, wait, what's the difference? And no, this is number five. You just sort of lose count after four, you know?",
+          "context": "Baby-name comment mixup comedy.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "comedy",
+            "first_seen"
+          ]
+        }
+      ]
+    }
+  ]
+}

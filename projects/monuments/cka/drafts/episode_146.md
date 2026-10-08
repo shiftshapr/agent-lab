@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2216, N-2217, N-2218
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214
+  - Reused Nodes Appearing: 
   - (see registers)
 
 # Episode 146 Ledger Summary
@@ -20,7 +20,7 @@
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
 Claim Range: C-3345–C-3354
 New Nodes Introduced: N-2216, N-2217, N-2218
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy), N-1213 (Unidentified Goth Person in Broderick Companion Photo), N-1214 (Charlie Kirk Pre-Mortem Israel Position Claim)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:13:30–00:15:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3345, C-3355, N-1210*
+*Related: C-3345, C-3355*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:03:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3356, N-1212*
+*Related: C-3356*
 
 ---
 
@@ -267,8 +267,9 @@ Claim Timestamp: 00:13:30
 Claim: In a Fox News audio interview, Jack Hibbs stated that his brother Butch received a front-row seat to the UVU event directly from Charlie Kirk.
 
 Anchored Artifacts: A-2323.1, A-2322.1
+Mentions: N-1, N-382, N-309
 
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Confirm UVU event seating assignments, verify whether the seat location matches photographs, and corroborate with event staff or seating manifests.
 
@@ -281,6 +282,7 @@ Claim Timestamp: 00:08:45
 Claim: In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had died "shortly after Charlie was shot from Israeli news service," without explaining how that service obtained pre-announcement information.
 
 Anchored Artifacts: A-2321.1
+Mentions: N-1, N-309
 
 Related Nodes:
 
@@ -295,6 +297,7 @@ Claim Timestamp: 00:09:43
 Claim: In an interview with Frank Churik, Jack Hibbs described receiving a call from his brother Butch the night before the UVU event, asking to attend and be introduced to Charlie Kirk.
 
 Anchored Artifacts: A-2322.1
+Mentions: N-1, N-309
 
 Related Nodes:
 
@@ -309,6 +312,7 @@ Claim Timestamp: 00:22:23
 Claim: Never-before-seen footage shows Butch Hibbs dipping down to open his camera app and recording multiple angles of the scene within seconds of the shot being fired, while remaining in place near the tent.
 
 Anchored Artifacts: A-2324.1
+Mentions: N-382
 
 Related Nodes: N-2216
 
@@ -323,6 +327,7 @@ Claim Timestamp: 00:15:14
 Claim: In a second interview clip with Frank Churik, Jack Hibbs stated he first received a call from Mikey McCoy, who said "get everyone in the world praying," before the FaceTime with Churik began.
 
 Anchored Artifacts: A-2322.2
+Mentions: N-272, N-309
 
 Related Nodes:
 
@@ -337,6 +342,7 @@ Claim Timestamp: 00:16:13
 Claim: During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie — not Charlie Kirk — had been shot.
 
 Anchored Artifacts: A-2322.2
+Mentions: N-1, N-309
 
 Related Nodes: N-2217
 
@@ -351,6 +357,7 @@ Claim Timestamp: 00:18:43
 Claim: Per Jack Hibbs's account, a prayer chain was underway at approximately 12:30 PM Utah time, which the host calculates as only about seven minutes after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2322.2
+Mentions: N-1, N-309
 
 Related Nodes: N-2217
 
@@ -365,6 +372,7 @@ Claim Timestamp: 00:24:18
 Claim: A still from UVU footage shows Butch Hibbs on what appears to be a phone call approximately five minutes after the shot, without visible signs of distress.
 
 Anchored Artifacts: A-2324.2
+Mentions: N-382
 
 Related Nodes: N-2216
 
@@ -379,6 +387,7 @@ Claim Timestamp: 00:09:43
 Claim: Jack Hibbs in interview identifies his brother Butch as 74 years old; UVU event photography shows him wearing a plaid shirt in the security detail area.
 
 Anchored Artifacts: A-2322.1, A-2325.1
+Mentions: N-382, N-309
 
 Related Nodes:
 
@@ -393,8 +402,9 @@ Claim Timestamp: 00:31:24
 Claim: The episode identifies Judge Graph as the magistrate expected to rule on the defense motion to dismiss charges 1, 6, and 7 in the Tyler Robinson case on September 1, 2026.
 
 Anchored Artifacts: A-2326.1–A-2326.4 (courtroom context)
+Mentions: N-69
 
-Related Nodes: N-1214
+Related Nodes:
 
 Investigative Direction: Verify the magistrate's full name through Utah court records; obtain the written ruling once filed.
 
@@ -407,6 +417,7 @@ Claim Timestamp: 00:09:43
 Claim: Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Churik via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.
 
 Anchored Artifacts: A-2322.1, A-2322.2, A-2323.1, A-2324.2
+Mentions: N-272, N-382, N-309
 
 Related Nodes: N-2217
 
@@ -421,9 +432,9 @@ Claim Timestamp: 00:02:52
 Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-264, N-42, N-890
 
-Related Nodes: N-1212, N-1214
+Related Nodes:
 
 Investigative Direction: Cross-reference courthouse visitor logs; reconcile with official attendee lists if released.
 

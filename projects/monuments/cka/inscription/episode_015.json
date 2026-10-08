@@ -376,7 +376,7 @@
       "ref": "N-1228",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact — flagged).",
+      "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact, flagged).",
       "related_artifacts": [
         "A-1220.1",
         "A-1221.1"
@@ -571,6 +571,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -648,7 +712,8 @@
       "claim_timestamp": "00:22:06",
       "investigative_direction": "Obtain full clip; cross-reference against FBI evidentiary custody records.",
       "mentions_person_refs": [
-        "N-42"
+        "N-42",
+        "N-50"
       ],
       "contradicts_claim_refs": [
         "C-1366"
@@ -709,7 +774,8 @@
       "claim_timestamp": "00:37:10",
       "investigative_direction": "Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution.",
       "mentions_person_refs": [
-        "N-135"
+        "N-135",
+        "N-1"
       ]
     },
     {
@@ -728,7 +794,8 @@
       "claim_timestamp": "00:38:03",
       "investigative_direction": "Verify quote against the original WSJ article.",
       "mentions_person_refs": [
-        "N-135"
+        "N-135",
+        "N-102"
       ]
     },
     {
@@ -767,6 +834,8 @@
       "claim_timestamp": "00:16:50",
       "investigative_direction": "Independent forensic authentication of chat metadata and participant identities; flag — original chat provenance not independently confirmed.",
       "mentions_person_refs": [
+        "N-50",
+        "N-3",
         "N-1"
       ]
     },
@@ -821,7 +890,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:45:52",
-      "investigative_direction": "Obtain full sermon recording; identify delivering church for archival purposes."
+      "investigative_direction": "Obtain full sermon recording; identify delivering church for archival purposes.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-293"
+      ]
     },
     {
       "@type": "Claim",

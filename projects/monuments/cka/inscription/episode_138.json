@@ -106,7 +106,6 @@
             "C-3225"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2180"
           ],
           "tags": [],
@@ -125,7 +124,6 @@
             "C-3225"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2180"
           ],
           "tags": [],
@@ -144,7 +142,6 @@
             "C-3225"
           ],
           "related_nodes": [
-            "N-1210",
             "N-2180"
           ],
           "tags": [],
@@ -271,9 +268,7 @@
           "related_claims": [
             "C-3232"
           ],
-          "related_nodes": [
-            "N-1211"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -465,130 +460,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "X account holder who publicly exposed the membership list and activities of the \"Protecting Mrs. Kirk\" group chat in two posts (A-2246.1, A-2246.2). Investigatively significant as the originating whistleblower for the group-chat thread.",
-      "related_artifacts": [
-        "A-2246.1",
-        "A-2246.2",
-        "A-2253.4"
-      ],
-      "related_claims": [
-        "C-3222",
-        "C-3223",
-        "C-3235"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2179"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Self-identified spiritual adviser to the Kirk family who has publicly recounted childhood decapitation of a cat at age 3 and the shooting of a man at age 7. In this episode's aired Piers Morgan interview, he acknowledged that false-memory formation is possible (A-2251.2). Mississippi-area law enforcement, as cited by Piers Morgan, reports no records matching his account.",
-      "related_artifacts": [
-        "A-2251.1",
-        "A-2251.2"
-      ],
-      "related_claims": [
-        "C-3228",
-        "C-3229",
-        "C-3230",
-        "C-3231"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2",
-        "N-2184"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Celebrity blogger who was the subject of a Miami-Dade Sheriff's response following a TikTok live-stream of self-harm (A-2249.1). Single father of three via surrogacy. Earlier rebrand interview with Ellen DeGeneres is presented as background (A-2250.1).",
-      "related_artifacts": [
-        "A-2249.1",
-        "A-2250.1",
-        "A-2253.7",
-        "A-2253.8"
-      ],
-      "related_claims": [
-        "C-3226",
-        "C-3227",
-        "C-3233"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Assistant to Charlie Kirk described as having supplied the freedom t-shirt worn by Kirk on the day of the incident. Documented in this episode via on-air movement footage (A-2248.1–A-2248.3) showing a transition from on-ground-floor bag-carrying position with Dan Flood at ~12:15 to an upstairs location without bag at ~12:25.",
-      "related_artifacts": [
-        "A-2248.1",
-        "A-2248.2",
-        "A-2248.3"
-      ],
-      "related_claims": [
-        "C-3225"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-2180"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Daily Mail journalist who emailed the show (A-2252.1) stating that sources believe Candace Owens is being used by foreign operatives sending misinformation through her tip line.",
-      "related_artifacts": [
-        "A-2252.1"
-      ],
-      "related_claims": [
-        "C-3232"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2179",
       "ref": "N-2179",
       "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
@@ -636,7 +507,6 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1210",
         "N-1"
       ]
     },
@@ -742,6 +612,70 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-298",
+      "ref": "N-298",
+      "name": "Piers Morgan",
+      "type": "person",
+      "description": "Interviewer in the Megyn Kelly clip artifact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-569",
+      "ref": "N-569",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -802,7 +736,7 @@
       "claim_timestamp": "00:13:35–00:14:00",
       "investigative_direction": "Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.",
       "mentions_person_refs": [
-        "N-2"
+        "N-69"
       ]
     },
     {
@@ -817,14 +751,14 @@
         "A-2248.3"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2180"
       ],
       "tags": [],
       "claim_timestamp": "00:23:50–00:25:45",
       "investigative_direction": "Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-434"
       ]
     },
     {
@@ -869,7 +803,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:38–00:45:30",
-      "investigative_direction": "Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings."
+      "investigative_direction": "Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings.",
+      "mentions_person_refs": [
+        "N-298",
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -885,7 +823,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:45:49–00:47:00",
-      "investigative_direction": "Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible."
+      "investigative_direction": "Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible.",
+      "mentions_person_refs": [
+        "N-298",
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -901,7 +843,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:50–00:47:25",
-      "investigative_direction": "Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration."
+      "investigative_direction": "Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration.",
+      "mentions_person_refs": [
+        "N-298",
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -917,7 +863,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:45:49–00:46:30",
-      "investigative_direction": "Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations."
+      "investigative_direction": "Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations.",
+      "mentions_person_refs": [
+        "N-298",
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -928,9 +878,7 @@
       "anchored_artifacts": [
         "A-2252.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:54–00:22:30",
       "investigative_direction": "Obtain the original email with full headers and timestamp; identify what \"sources\" Spearing referenced; cross-check Daily Mail coverage for follow-up.",

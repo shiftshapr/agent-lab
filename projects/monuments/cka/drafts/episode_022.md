@@ -400,6 +400,7 @@ Investigative Direction: Obtain raw FlightRadar/ADS-B Exchange records for the p
 Claim Timestamp: 00:03:53
 Claim: The same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.
 Anchored Artifacts: A-1290.1
+Mentions: N-1
 Related Nodes: N-1269
 Investigative Direction: Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records.
 
@@ -470,7 +471,7 @@ Investigative Direction: Verify independently; cross-reference with any joint U.
 Claim Timestamp: 00:21:18
 Claim: The Daily Mail published a headline stating "Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief."
 Anchored Artifacts: A-1297.1
-Mentions: N-102
+Mentions: N-102, N-1
 Investigative Direction: Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response.
 
 **C-1537** Josh Hammer op-ed "neutralize" language
@@ -502,7 +503,7 @@ Investigative Direction: Obtain full unedited Piers Morgan interview; verify cli
 Claim Timestamp: 00:38:02
 Claim: On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions.
 Anchored Artifacts: A-1295.2
-Mentions: N-1, N-50, N-67, N-68
+Mentions: N-1, N-50, N-67, N-68, N-298
 Investigative Direction: Obtain full unedited interview segment; verify context.
 
 **C-1541** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance
@@ -510,7 +511,7 @@ Investigative Direction: Obtain full unedited interview segment; verify context.
 Claim Timestamp: 00:48:05
 Claim: On Piers Morgan, Seth Dillon characterized Nick Fuentes as having animosity toward Jews, having called J.D. Vance "fat and ugly" with a "brown family," and as having engaged in "glorification of Hitler."
 Anchored Artifacts: A-1295.3
-Mentions: N-4, N-67, N-293
+Mentions: N-4, N-67, N-293, N-298
 Investigative Direction: Verify specific Fuentes quotes against primary source material; obtain full interview segment.
 
 **C-1542** TPUSA text chain: Jewish donor loss and Candace invitation

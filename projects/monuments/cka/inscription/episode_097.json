@@ -69,11 +69,7 @@
           "related_claims": [
             "C-2813"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1212",
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -89,10 +85,7 @@
           "related_claims": [
             "C-2814"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1215"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -128,10 +121,7 @@
             "C-2816",
             "C-2817"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -186,8 +176,6 @@
             "C-2823"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1210",
             "N-3"
           ],
           "tags": [],
@@ -214,9 +202,6 @@
             "C-2820"
           ],
           "related_nodes": [
-            "N-1209",
-            "N-1211",
-            "N-1207",
             "N-3"
           ],
           "tags": [],
@@ -311,8 +296,6 @@
             "C-2820"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1211",
             "N-3"
           ],
           "tags": [],
@@ -339,9 +322,6 @@
             "C-2821"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1211",
-            "N-1221",
             "N-1721"
           ],
           "tags": [],
@@ -360,9 +340,6 @@
             "C-2821"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1211",
-            "N-1221",
             "N-1721"
           ],
           "tags": [],
@@ -390,9 +367,7 @@
             "C-2823"
           ],
           "related_nodes": [
-            "N-3",
-            "N-1210",
-            "N-1207"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,7 +395,6 @@
             "C-2827"
           ],
           "related_nodes": [
-            "N-1218",
             "N-2",
             "N-3"
           ],
@@ -447,10 +421,7 @@
           "related_claims": [
             "C-2832"
           ],
-          "related_nodes": [
-            "N-1217",
-            "N-1216"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -476,8 +447,6 @@
             "C-2829"
           ],
           "related_nodes": [
-            "N-1216",
-            "N-1217",
             "N-3"
           ],
           "tags": [],
@@ -507,8 +476,6 @@
             "C-2831"
           ],
           "related_nodes": [
-            "N-1216",
-            "N-1217",
             "N-3"
           ],
           "tags": [],
@@ -532,10 +499,7 @@
           "ref": "A-2025.1",
           "description": "Audio: \"This political violence stems from a systemic demonization of him and his supporters by commentators... deranged lies and smears against the president, his family, his supporters have led crazy people to believe crazy things.\"",
           "related_claims": [],
-          "related_nodes": [
-            "N-1222",
-            "N-1226"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -557,11 +521,7 @@
           "ref": "A-2026.1",
           "description": "Post: \"His monologue about my family is not comedy. His words are corrosive and deepens the political sickness within America. People like Kimmel shouldn't have the opportunity to enter our homes each evening to spread hate.\"",
           "related_claims": [],
-          "related_nodes": [
-            "N-1223",
-            "N-1224",
-            "N-1226"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -611,8 +571,6 @@
             "C-2824"
           ],
           "related_nodes": [
-            "N-1215",
-            "N-1207",
             "N-1720"
           ],
           "tags": [],
@@ -678,471 +636,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Plaintiff; named defendant and central subject of the lawsuit; member of TPUSA security detail on September 10, 2025.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Attorney for Brian Harpole in the lawsuit; described as having a high-pitched speaking style; also described by host as retweeting Laura Loomer.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA spokesperson/insider referenced in Candace's text defending security and in Candace's Erika Kirk meeting revelations.",
-      "related_artifacts": [
-        "A-2016.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-3",
-        "N-1724"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Witness who claimed to have seen Harpole at a Fort Huachuca meeting on the morning of September 9, 2025.",
-      "related_artifacts": [
-        "A-2015.9",
-        "A-2020.1"
-      ],
-      "related_claims": [
-        "C-2822",
-        "C-2823"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1718"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "TPUSA security team member whose text chain with UVU Police Chief Long is at issue.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Head of TPUSA AV team; subject of Candace's \"Charlie's Angels or Demons\" commentary re: early announcement of Kirk's death.",
-      "related_artifacts": [
-        "A-2015.3"
-      ],
-      "related_claims": [
-        "C-2813"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "TPUSA insider who allegedly suggested Candace investigate Andrew Kolvet.",
-      "related_artifacts": [
-        "A-2015.3"
-      ],
-      "related_claims": [
-        "C-2813"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-3",
-        "N-1209",
-        "N-1724"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Host on whose show Harpole appeared on November 17, 2025.",
-      "related_artifacts": [
-        "A-2015.6"
-      ],
-      "related_claims": [
-        "C-2816",
-        "C-2817"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Commentator whose drone statements allegedly contradict Harpole's.",
-      "related_artifacts": [
-        "A-2015.4",
-        "A-2028.1"
-      ],
-      "related_claims": [
-        "C-2824"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "US House Representative (R-NY) co-introducing bipartisan resolution.",
-      "related_artifacts": [
-        "A-2023.1",
-        "A-2024.1"
-      ],
-      "related_claims": [
-        "C-2828"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1217"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "US House Representative (D-NJ) co-introducing bipartisan resolution.",
-      "related_artifacts": [
-        "A-2023.1",
-        "A-2024.1"
-      ],
-      "related_claims": [
-        "C-2828"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1216"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Host who contested Erika Kirk's accusation against Candace.",
-      "related_artifacts": [
-        "A-2021.1"
-      ],
-      "related_claims": [
-        "C-2827"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Fort Huachuca officer named in Candace's account of Snow's questioning.",
-      "related_artifacts": [
-        "A-2020.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210",
-        "N-1718"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Insider referenced by Andrew Kolvet as the source of information he allegedly shared with Candace; Kolvet's claim is contested by Candace.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1209",
-        "N-1724"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Recipient of the rooftop text chain regarding Sorensen Center.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "White House Press Secretary whose comments equating rhetoric with violence were played.",
-      "related_artifacts": [
-        "A-2025.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1226"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "X post author criticizing Jimmy Kimmel.",
-      "related_artifacts": [
-        "A-2026.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1224",
-        "N-1226"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1224",
-      "ref": "N-1224",
-      "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
-      "description": "Late-night host referenced in resolution/controversy context.",
-      "related_artifacts": [
-        "A-2026.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1223"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1225",
-      "ref": "N-1225",
-      "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
-      "description": "Political figure referenced in connection with Matt Slauson's retweets.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208",
-        "N-1226"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1226",
-      "ref": "N-1226",
-      "name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "investigation_target",
-      "description": "Subject of multiple commentary clips in the speech-vs-violence segment.",
-      "related_artifacts": [
-        "A-2025.1",
-        "A-2026.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1222",
-        "N-1223"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1227",
-      "ref": "N-1227",
-      "name": "Witness and Public-Figure Demeanor Anomalies",
-      "type": "investigation_target",
-      "description": "Subject referenced in Melania Trump exchange and audience comment regarding \"most vile person of the year.\"",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1226",
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1228",
-      "ref": "N-1228",
-      "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Referenced as the family decision-maker on legal strategy.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-3"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1229",
-      "ref": "N-1229",
-      "name": "Pre-Assassination Group Chat Content",
-      "type": "investigation_target",
-      "description": "Commentator separately named by Candace; possible identification overlap with Matt Slauson — see Optional Flags.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208",
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1718",
       "ref": "N-1718",
       "name": "Harpole Fort Huachuca Alibi Question",
@@ -1162,12 +655,7 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1210",
-        "N-1219"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1189,11 +677,7 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1214"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1214,11 +698,7 @@
       "evidence_count": 3,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1215"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1256,8 +736,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-3",
-        "N-1218"
+        "N-3"
       ]
     },
     {
@@ -1285,8 +764,6 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1216",
-        "N-1217",
         "N-3"
       ]
     },
@@ -1307,10 +784,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-3",
-        "N-1209",
-        "N-1213",
-        "N-1220"
+        "N-3"
       ]
     },
     {
@@ -1350,6 +824,102 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-597",
+      "ref": "N-597",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1367,7 +937,8 @@
       "claim_timestamp": "00:01:13",
       "investigative_direction": "Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-424"
       ]
     },
     {
@@ -1413,10 +984,7 @@
       "anchored_artifacts": [
         "A-2015.3"
       ],
-      "related_nodes": [
-        "N-1212",
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:04",
       "investigative_direction": "Locate and review the \"Charlie's Angels or Demons\" episode to verify whether Harpole was named and to identify the actual subjects of the commentary."
@@ -1431,7 +999,6 @@
         "A-2015.4"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1720"
       ],
       "tags": [],
@@ -1464,7 +1031,6 @@
         "A-2015.6"
       ],
       "related_nodes": [
-        "N-1214",
         "N-1719"
       ],
       "tags": [],
@@ -1482,7 +1048,6 @@
         "A-2018.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-1719"
       ],
       "tags": [],
@@ -1511,7 +1076,8 @@
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Cross-reference the embedded text messages against phone records; verify Harpole's receipt.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-597"
       ]
     },
     {
@@ -1538,14 +1104,14 @@
         "A-2016.1",
         "A-2018.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:21",
       "investigative_direction": "Locate the September 2025 episode in which Candace defended the security team.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-42",
+        "N-434"
       ]
     },
     {
@@ -1559,13 +1125,14 @@
         "A-2019.2"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-1221",
         "N-1721"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
-      "investigative_direction": "Compare the original Sean Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation."
+      "investigative_direction": "Compare the original Sean Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.",
+      "mentions_person_refs": [
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -1577,7 +1144,6 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1718"
       ],
       "tags": [],
@@ -1597,9 +1163,7 @@
         "A-2015.9",
         "A-2020.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:59",
       "investigative_direction": "Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context.",
@@ -1618,12 +1182,14 @@
         "A-2028.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1720"
       ],
       "tags": [],
       "claim_timestamp": "00:10:08",
-      "investigative_direction": "Obtain full audio of Turek's drone statements and cross-reference with FAA Part 107 rules for Provo airspace."
+      "investigative_direction": "Obtain full audio of Turek's drone statements and cross-reference with FAA Part 107 rules for Provo airspace.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1635,15 +1201,15 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-1722",
-        "N-1218"
+        "N-1722"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
       "investigative_direction": "Locate Erika Kirk's original statement on video or social media to verify exact wording and context.",
       "mentions_person_refs": [
         "N-2",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -1663,7 +1229,8 @@
       "investigative_direction": "Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.",
       "mentions_person_refs": [
         "N-2",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -1676,7 +1243,6 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-1218",
         "N-1722"
       ],
       "tags": [],
@@ -1684,7 +1250,8 @@
       "investigative_direction": "Locate Coleman's full segment for additional context.",
       "mentions_person_refs": [
         "N-2",
-        "N-3"
+        "N-3",
+        "N-552"
       ]
     },
     {
@@ -1698,8 +1265,6 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1217",
         "N-1723"
       ],
       "tags": [],
@@ -1719,8 +1284,6 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1217",
         "N-1723"
       ],
       "tags": [],
@@ -1740,8 +1303,6 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1217",
         "N-1723"
       ],
       "tags": [],
@@ -1761,8 +1322,6 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1217",
         "N-1723"
       ],
       "tags": [],
@@ -1782,8 +1341,6 @@
         "A-2022.1"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1217",
         "N-1723"
       ],
       "tags": [],

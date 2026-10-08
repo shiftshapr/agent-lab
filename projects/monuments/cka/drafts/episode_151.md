@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373
   - Claim Range: C-3426–C-3444
   - New Nodes Introduced: N-2317, N-2318, N-2319, N-2320
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-37
+  - Reused Nodes Appearing: N-37
   - Existing Nodes Reused (by name — IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -287,6 +287,7 @@ Claim Timestamp: 00:41:43
 Claim: Erica Kirk posted a tweet invoking Charlie's purported "build two statues" line, framing the alleged statue vandalism as spiritual persecution and calling for restoration of the statue.
 
 Anchored Artifacts: A-2364.1
+Mentions: N-2
 Related Nodes: N-2317
 Investigative Direction: Locate original tweet with timestamp; cross-check against TPUSA verified accounts; verify exact attribution.
 
@@ -312,6 +313,7 @@ Claim Timestamp: 00:43:46
 Claim: Andrew Kolvet tweeted asking why Katie Hobbs or "anyone with a D next to their name" had not commented on the alleged statue vandalism, asserting TPUSA was working with law enforcement and "pulling video from neighboring buildings."
 
 Anchored Artifacts: A-2366.1
+Mentions: N-42, N-965
 Related Nodes: N-2317
 Investigative Direction: Pull original tweet; verify which "neighboring buildings"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.
 
@@ -324,7 +326,7 @@ Claim Timestamp: 00:45:08
 Claim: Blake Neff bookmarked Candace Owens's tweet predicting an Erica Kirk Vanity Fair spread with the children ("Save this tweet. It will age well"), and Candace states she has since been contacted by Vanity Fair for comment.
 
 Anchored Artifacts: A-2367.1
-Mentions: N-2
+Mentions: N-2, N-3, N-224
 Investigative Direction: Pull original bookmark record; await release of Vanity Fair article to verify prediction's accuracy.
 
 ---
@@ -336,6 +338,7 @@ Claim Timestamp: 00:30:55
 Claim: Alex Clark, in her 9/10 trailer, invoked 2 Timothy 3:6-7 ("false teachers who are creeping into households capturing weak women") and applied it to the "Candace phenomenon."
 
 Anchored Artifacts: A-2362.1
+Mentions: N-135
 Related Nodes:
 Investigative Direction: Pull full Alex Clark episode and verify transcript against the trailer excerpt.
 
@@ -348,6 +351,7 @@ Claim Timestamp: 00:30:55
 Claim: Alex Clark stated "Christ doesn't forgive everyone. He forgives those who repent and turn and trust in him by faith. But forgiveness is something that you can't actually offer somebody if they haven't repented."
 
 Anchored Artifacts: A-2362.1
+Mentions: N-135
 Related Nodes:
 Investigative Direction: Pull full Alex Clark episode; verify quotation against the trailer.
 
@@ -360,6 +364,7 @@ Claim Timestamp: 00:09:47–00:11:50
 Claim: Frank Turek acknowledged the discrepancy between his account (he performed CPR) and Brian Harpole's account (he did not), but stated the discrepancy is "irrelevant" and "has no bearing on who killed Charlie Kirk."
 
 Anchored Artifacts: A-2369.1
+Mentions: N-424, N-1, N-16
 Related Nodes:
 Investigative Direction: Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride.
 
@@ -372,6 +377,7 @@ Claim Timestamp: 00:11:54
 Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds" — shifting his account in the same interview segment.
 
 Anchored Artifacts: A-2369.1
+Mentions: N-16
 Related Nodes:
 Investigative Direction: Pull the full Boreing/Turek episode; compare to prior Turek statements on the car ride timeline.
 
@@ -396,7 +402,7 @@ Claim Timestamp: 00:40:10
 Claim: Andrew Kolvet stated that "friends of Charlie and Erika" have posted a $10,000 reward for tips leading to the arrest of the vandals, to be sent to law enforcement.
 
 Anchored Artifacts: A-2363.1
-Mentions: N-2
+Mentions: N-2, N-42
 Related Nodes: N-2317
 Investigative Direction: Identify which "friends" funded the reward; verify any law enforcement bulletin.
 
@@ -409,6 +415,7 @@ Claim Timestamp: 00:40:10
 Claim: Andrew Kolvet stated the Commit 100 program "has been surging" after the vandalism news, framing the surge as a positive response to "evil."
 
 Anchored Artifacts: A-2363.1
+Mentions: N-42
 Related Nodes: N-2317
 Investigative Direction: Compare against any public Commit 100 signup metrics or TP Action disclosures.
 
@@ -433,6 +440,7 @@ Claim Timestamp: 00:14:40–00:17:56
 Claim: From side-profile footage, host observes the figure in the black shirt appears bulkier than the figure shown in earlier maroon-shirt imagery, raising a possible decoy hypothesis.
 
 Anchored Artifacts: A-2371.1
+Mentions: N-69
 Related Nodes:
 Investigative Direction: Obtain uncropped / unenhanced source frames; biometric and clothing comparison.
 
@@ -457,6 +465,7 @@ Claim Timestamp: 00:19:51–00:20:41
 Claim: Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 — roughly 30 minutes after the event.
 
 Anchored Artifacts: A-2370.1
+Mentions: N-410
 Related Nodes:
 Investigative Direction: Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives.
 
@@ -481,7 +490,7 @@ Claim Timestamp: 00:37:35–00:43:46
 Claim: TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026.
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
-Mentions: N-37
+Mentions: N-37, N-42, N-2
 Related Nodes: N-2317
 Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.
 
@@ -494,6 +503,7 @@ Claim Timestamp: 00:32:02–00:36:42
 Claim: Host rejects Alex Clark's framework that forgiveness requires repentance, characterizing it as a misuse of scripture to delegitimize women who are noticing discrepancies, and stating "I forgive you, Alex."
 
 Anchored Artifacts: A-2362.1
+Mentions: N-135
 Related Nodes:
 Investigative Direction: Note as host stance against displayed source; cross-reference with theological commentary.
 

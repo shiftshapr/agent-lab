@@ -393,7 +393,7 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated Charlie Kirk was aware of Candace Owens's theories about France's first lady being transgender.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-224, N-3
+Mentions: N-224, N-3, N-1
 
 
 Investigative Direction: Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.
@@ -464,7 +464,7 @@ Claim Timestamp: 00:43:25
 Claim: In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-578
+Mentions: N-2, N-4, N-578, N-1
 
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.

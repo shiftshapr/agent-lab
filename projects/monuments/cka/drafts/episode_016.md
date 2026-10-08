@@ -529,7 +529,7 @@ Claim Timestamp: 00:17:46
 Claim: Andrew Kovette characterized Kirk's feelings about Israel as "complicated" and "nuanced," stating a "wrestle" had been ongoing for months, located between the BB Netanyahu letter and the text chain.
 
 Anchored Artifacts: A-1228.4, A-1232.1
-Mentions: N-1, N-42
+Mentions: N-1, N-42, N-65
 Investigative Direction: Compare Kovette's "wrestle" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.
 
 ---
@@ -613,7 +613,7 @@ Claim Timestamp: 00:11:11
 Claim: Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.
 
 Anchored Artifacts: A-1227.6
-Mentions: N-3
+Mentions: N-3, N-293
 Investigative Direction: Determine the actual interval between Candace's receipt and release of the text chain.
 
 ---
@@ -697,7 +697,7 @@ Claim Timestamp: 00:04:56
 Claim: Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
-Mentions: N-220
+Mentions: N-220, N-50
 Investigative Direction: Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.
 
 ---
@@ -745,7 +745,7 @@ Claim Timestamp: 00:38:49
 Claim: Per Lance Twiggs's family (via Candace), Lance was "raided," was "angry about that raid," and was "instantly released back into their care within 6 hours."
 
 Anchored Artifacts: A-1235.2
-Mentions: N-3
+Mentions: N-3, N-84
 Investigative Direction: Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.
 
 ---
@@ -757,7 +757,7 @@ Claim Timestamp: 00:40:07
 Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family's knowledge or consent.
 
 Anchored Artifacts: A-1235.3
-Mentions: N-3
+Mentions: N-3, N-69, N-84
 Related Nodes: N-1237
 Investigative Direction: Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).
 
@@ -770,7 +770,7 @@ Claim Timestamp: 00:41:24
 Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.
 
 Anchored Artifacts: A-1235.4
-Mentions: N-3
+Mentions: N-3, N-71
 Related Nodes: N-1239
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
@@ -783,7 +783,7 @@ Claim Timestamp: 00:36:11
 Claim: Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.
 
 Anchored Artifacts: A-1235.5
-Mentions: N-3
+Mentions: N-3, N-71
 Related Nodes: N-1236
 Investigative Direction: Identify which federal department is implicated; obtain any employment / family records.
 

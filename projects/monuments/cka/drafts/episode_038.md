@@ -760,7 +760,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-898, N-117, N-454
+Mentions: N-3, N-898, N-117, N-454, N-1
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -834,6 +834,7 @@ Claim Timestamp: 00:21:39
 Claim: Operation Bright Star, a bi-annual US-Egypt joint military operation in Cairo, ran August 29 through September 10, 2025 — ending the day of the Charlie Kirk assassination.
 
 Anchored Artifacts: A-1478.1
+Mentions: N-1
 Related Nodes: N-1362
 Investigative Direction: Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.
 
@@ -963,12 +964,6 @@ Investigative Direction: Verify the current Ace Partners portfolio and confirm S
 
 ---
 
-**C-1788** Six French Foreign Legion regiments changed command in mid-August 2025
-
-(Moved/merged — see C-1788 above.)
-
----
-
 **C-1798** Brigitte Macron opened Paris Design Week on September 4, 2025
 
 Claim Timestamp: 00:39:55
@@ -1002,7 +997,7 @@ Claim Timestamp: 00:47:39
 Claim: On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.
 
 Anchored Artifacts: A-1473.1
-Mentions: N-88, N-451
+Mentions: N-88, N-451, N-406, N-3, N-1
 Investigative Direction: Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.
 
 ---
@@ -1014,7 +1009,7 @@ Claim Timestamp: 00:56:17
 Claim: Eric Bolling sent an apology email to Candace Owens's PR in which he blamed "that Alex guy" (identified in the episode as Adam Sosnick) for the on-air conflict and said Bolling did not even know Sosnick's name at the time of recording.
 
 Anchored Artifacts: A-1474.1
-Mentions: N-451, N-453
+Mentions: N-451, N-453, N-3
 Related Nodes: N-1368
 Investigative Direction: Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick "Sam"; obtain the full original PBD segment context.
 

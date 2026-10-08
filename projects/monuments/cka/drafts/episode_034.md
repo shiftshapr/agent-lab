@@ -274,85 +274,89 @@ Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magaz
 
 **C-1735** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
 
-- Claim Timestamp: 07:12
-- Claim: The episode presents five specific rental vehicles with documented license plates as the verified rental fleet associated with the Duncan Aviation / "Egyptian" group.
-- Anchored Artifacts: A-1425.1, A-1425.2, A-1425.3, A-1425.4, A-1425.5
+Claim Timestamp: 00:07:12
+Claim: The episode presents five specific rental vehicles with documented license plates as the verified rental fleet associated with the Duncan Aviation / "Egyptian" group.
+Anchored Artifacts: A-1425.1, A-1425.2, A-1425.3, A-1425.4, A-1425.5
+Mentions: N-408
 Related Nodes: N-1330
-- Investigative Direction: Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.
+Investigative Direction: Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.
 
 **C-1736** A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.
 
-- Claim Timestamp: 12:01
-- Claim: A UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.
-- Anchored Artifacts: A-1426.1, A-1427.1
+Claim Timestamp: 00:12:01
+Claim: A UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.
+Anchored Artifacts: A-1426.1, A-1427.1
 Related Nodes: N-1332
-- Investigative Direction: Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.
+Investigative Direction: Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.
 
 **C-1737** Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted "I got you covered" as resolution.
 
-- Claim Timestamp: 26:12
-- Claim: Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was "I got you covered," and Harpole did not follow up further.
-- Anchored Artifacts: A-1428.1, A-1428.2
+Claim Timestamp: 00:26:12
+Claim: Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was "I got you covered," and Harpole did not follow up further.
+Anchored Artifacts: A-1428.1, A-1428.2
+Mentions: N-424, N-1, N-435
 Related Nodes:
-- Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
+Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
 **C-1738** Blake Neff was standing next to Mikey McCoy at the moment of the shooting.
 
-- Claim Timestamp: 32:53
-- Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
-- Anchored Artifacts: A-1429.1
-Mentions: N-98
+Claim Timestamp: 00:32:53
+Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
+Anchored Artifacts: A-1429.1
+Mentions: N-98, N-272, N-224
 Related Nodes: N-1333
-- Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
+Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
 **C-1739** Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.
 
-- Claim Timestamp: 36:37
-- Claim: A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.
-- Anchored Artifacts: A-1429.2
-Mentions: N-98
+Claim Timestamp: 00:36:37
+Claim: A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.
+Anchored Artifacts: A-1429.2
+Mentions: N-98, N-224
 Related Nodes: N-1333
-- Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
+Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
 **C-1740** Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as "essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity."
 
-- Claim Timestamp: 38:58
-- Claim: Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.
-- Anchored Artifacts: A-1430.1
+Claim Timestamp: 00:38:58
+Claim: Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.
+Anchored Artifacts: A-1430.1
+Mentions: N-50, N-3, N-1, N-45
 Related Nodes: N-1335
-- Investigative Direction: Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.
+Investigative Direction: Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.
 
 **C-1741** The current issue of Calvary Chapel magazine carries a "Stand with Israel" cover and a "Why Jews are hated" article, with interior content featuring IDF soldiers.
 
-- Claim Timestamp: 42:02
-- Claim: The episode displays the current month's Calvary Chapel magazine cover featuring "Stand with Israel" and a "Why Jews are hated" subtitle; interior content referenced includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
-- Anchored Artifacts: A-1431.1
+Claim Timestamp: 00:42:02
+Claim: The episode displays the current month's Calvary Chapel magazine cover featuring "Stand with Israel" and a "Why Jews are hated" subtitle; interior content referenced includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
+Anchored Artifacts: A-1431.1
 Related Nodes: N-1335
-- Investigative Direction: Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.
+Investigative Direction: Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.
 
 **C-1742** Aayol Yakobe posted on X that the rental-plate disclosure constitutes "doxing."
 
-- Claim Timestamp: 01:55
-- Claim: Aayol Yakobe posted on X characterizing the rental-plate disclosure as "doxing" and describing it as "unparalleled levels of insanity" and "truly dangerous."
-- Anchored Artifacts: A-1432.1, A-1425.1–A-1425.5
+Claim Timestamp: 00:01:55
+Claim: Aayol Yakobe posted on X characterizing the rental-plate disclosure as "doxing" and describing it as "unparalleled levels of insanity" and "truly dangerous."
+Anchored Artifacts: A-1432.1, A-1425.1–A-1425.5
 Related Nodes: N-1330
-- Investigative Direction: Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations.
+Investigative Direction: Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations.
 
 **C-1743** Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
 
-- Claim Timestamp: 03:02
-- Claim: Aaron Wexler — identified by host as the woman at the Hamptons retreat — posted the quoted line on X.
-- Anchored Artifacts: A-1433.1
+Claim Timestamp: 00:03:02
+Claim: Aaron Wexler, identified by host as the woman at the Hamptons retreat, posted the quoted line on X.
+Anchored Artifacts: A-1433.1
+Mentions: N-3, N-87
 Related Nodes:
-- Investigative Direction: Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged "doxing teenagers" claim.
+Investigative Direction: Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged "doxing teenagers" claim.
 
 **C-1744** A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.
 
-- Claim Timestamp: 20:20
-- Claim: The episode identifies a flight from Scottsdale to Provo on the day of the assassination, owned by Turning Point USA donor TWW Lewis (whose foundation lists TPUSA as a recipient).
-- Anchored Artifacts: A-1434.1
+Claim Timestamp: 00:20:20
+Claim: The episode identifies a flight from Scottsdale to Provo on the day of the assassination, owned by Turning Point USA donor TWW Lewis (whose foundation lists TPUSA as a recipient).
+Anchored Artifacts: A-1434.1
 Related Nodes: N-1334
-- Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers.
+Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers.
 
 ---
 

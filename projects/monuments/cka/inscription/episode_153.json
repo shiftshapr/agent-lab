@@ -360,11 +360,7 @@
       "evidence_count": 3,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1209",
-        "N-1210"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -430,10 +426,7 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -511,6 +504,86 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-344",
+      "ref": "N-344",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-435",
+      "ref": "N-435",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -530,8 +603,7 @@
       "claim_timestamp": "00:01:29",
       "investigative_direction": "Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -548,7 +620,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
-      "investigative_direction": "Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025."
+      "investigative_direction": "Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -580,7 +655,9 @@
       "claim_timestamp": "00:08:00",
       "investigative_direction": "Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-424",
+        "N-344"
       ]
     },
     {
@@ -615,7 +692,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
-      "investigative_direction": "Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list."
+      "investigative_direction": "Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.",
+      "mentions_person_refs": [
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -631,7 +711,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
-      "investigative_direction": "Verify against UVU PD records and text-message metadata."
+      "investigative_direction": "Verify against UVU PD records and text-message metadata.",
+      "mentions_person_refs": [
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -648,7 +731,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:29:56",
-      "investigative_direction": "Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference."
+      "investigative_direction": "Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.",
+      "mentions_person_refs": [
+        "N-434"
+      ]
     },
     {
       "@type": "Claim",
@@ -696,7 +782,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
-      "investigative_direction": "Obtain UVU PD internal communications and presidential approval logs from September 2025."
+      "investigative_direction": "Obtain UVU PD internal communications and presidential approval logs from September 2025.",
+      "mentions_person_refs": [
+        "N-435"
+      ]
     },
     {
       "@type": "Claim",
@@ -729,7 +818,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
-      "investigative_direction": "Confirm Scripps News publication date and Tyler Robinson's public identification date."
+      "investigative_direction": "Confirm Scripps News publication date and Tyler Robinson's public identification date.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -746,7 +838,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:44",
-      "investigative_direction": "Verify the timestamp metadata on the released footage."
+      "investigative_direction": "Verify the timestamp metadata on the released footage.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -763,7 +858,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
-      "investigative_direction": "Retrieve Scripps News editorial sourcing notes and FOIAA / records-request logs."
+      "investigative_direction": "Retrieve Scripps News editorial sourcing notes and FOIAA / records-request logs.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -807,7 +905,6 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2324",
         "N-2327"
       ],
@@ -829,7 +926,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
-      "investigative_direction": "Cross-reference against birth records / official DOB."
+      "investigative_direction": "Cross-reference against birth records / official DOB.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",

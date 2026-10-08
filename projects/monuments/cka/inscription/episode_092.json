@@ -345,7 +345,6 @@
           "related_nodes": [
             "N-536",
             "N-569",
-            "N-1210",
             "N-1688"
           ],
           "tags": [],
@@ -375,7 +374,6 @@
           "related_nodes": [
             "N-536",
             "N-569",
-            "N-1210",
             "N-1688",
             "N-570"
           ],
@@ -405,7 +403,6 @@
           "related_nodes": [
             "N-536",
             "N-569",
-            "N-1210",
             "N-1688",
             "N-570"
           ],
@@ -720,31 +717,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Subject of Victor Marx-related letter; agreed to appear on Candace's show with Marx; named in A-1976.1 and A-1977.1.",
-      "related_artifacts": [
-        "A-1976.1",
-        "A-1977.1"
-      ],
-      "related_claims": [
-        "C-2735",
-        "C-2736"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-569",
-        "N-1688"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1682",
       "ref": "N-1682",
       "name": "UGA No-Show Security Threat Explanation Discrepancy",
@@ -924,8 +896,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-536",
-        "N-569",
-        "N-1210"
+        "N-569"
       ]
     },
     {
@@ -976,6 +947,38 @@
       "related_nodes": [
         "N-42"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-313",
+      "ref": "N-313",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1082,7 +1085,8 @@
       "investigative_direction": "Compare against the originally issued parent-alert notice (A-1972.1); determine whether the explanation was issued contemporaneously or after public criticism.",
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-42",
+        "N-1"
       ]
     },
     {
@@ -1144,7 +1148,8 @@
       "claim_timestamp": "00:05:40",
       "investigative_direction": "Confirm full interview date and air date; verify whether the clip presented is representative of the full exchange.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-313"
       ]
     },
     {
@@ -1236,14 +1241,14 @@
         "A-1975.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1688"
       ],
       "tags": [],
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Verify post URL, timestamp, and whether the post has since been deleted or edited.",
       "mentions_person_refs": [
-        "N-569"
+        "N-569",
+        "N-3"
       ]
     },
     {
@@ -1256,7 +1261,6 @@
         "A-1976.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1688"
       ],
       "tags": [],
@@ -1264,7 +1268,8 @@
       "investigative_direction": "Capture timestamped screenshots of the comment thread before any deletion.",
       "mentions_person_refs": [
         "N-569",
-        "N-570"
+        "N-570",
+        "N-3"
       ]
     },
     {
@@ -1277,14 +1282,14 @@
         "A-1977.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1688"
       ],
       "tags": [],
       "claim_timestamp": "00:41:36",
       "investigative_direction": "Verify DM timestamp; await Marx's response or non-response.",
       "mentions_person_refs": [
-        "N-569"
+        "N-569",
+        "N-3"
       ]
     },
     {
@@ -1356,7 +1361,8 @@
       "claim_timestamp": "00:06:30",
       "investigative_direction": "Compile chronology of Kirk's public statements on personal safety; identify whether a specific triggering event is documented.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-313"
       ]
     },
     {
@@ -1401,7 +1407,8 @@
       "investigative_direction": "Construct a chronological explanation map; identify the originator of each stated rationale and any superseding statements.",
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-42",
+        "N-1"
       ]
     },
     {
@@ -1423,5 +1430,29 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 92,
+          "video_timestamp": "00:54:46",
+          "speaker_node_ref": "N-3",
+          "quote": "They go, \"Oh, no, no, no, never mind. I just want privacy.\" It's giving Megan Markle. Do you know what I mean? Like, I I want I want to be",
+          "context": "Later reuse of It's Giving in CKA seq 92.",
+          "confidence": "high",
+          "tags": [
+            "gen_z",
+            "chat_elevate",
+            "residual",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

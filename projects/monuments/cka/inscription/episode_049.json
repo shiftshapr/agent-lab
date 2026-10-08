@@ -450,6 +450,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -565,7 +581,8 @@
       "claim_timestamp": "00:55:09–00:57:28",
       "investigative_direction": "Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025.",
       "mentions_person_refs": [
-        "N-597"
+        "N-597",
+        "N-424"
       ]
     },
     {

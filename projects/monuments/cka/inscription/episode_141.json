@@ -165,7 +165,7 @@
             "C-3287"
           ],
           "related_nodes": [
-            "N-1211"
+            "N-46"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,9 +190,7 @@
           "related_claims": [
             "C-3288"
           ],
-          "related_nodes": [
-            "N-1212"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -216,9 +214,7 @@
           "related_claims": [
             "C-3285"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -234,9 +230,7 @@
           "related_claims": [
             "C-3284"
           ],
-          "related_nodes": [
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -330,139 +324,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Debate participant; central subject of artifact-backed claims regarding opening statement, charge identification, confidence estimate, and post-debate conduct.",
-      "related_artifacts": [
-        "A-2277.1",
-        "A-2277.2",
-        "A-2277.3",
-        "A-2277.4",
-        "A-2277.5",
-        "A-2277.6",
-        "A-2277.7",
-        "A-2281.1",
-        "A-2282.1",
-        "A-2283.1"
-      ],
-      "related_claims": [
-        "C-3277",
-        "C-3278",
-        "C-3279",
-        "C-3280",
-        "C-3282",
-        "C-3283",
-        "C-3286",
-        "C-3289"
-      ],
-      "tags": [],
-      "evidence_count": 10,
-      "claim_count": 8,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Moderator of the debate referenced throughout the episode; named in artifact-anchored debate context.",
-      "related_artifacts": [
-        "A-2277",
-        "A-2277.6"
-      ],
-      "related_claims": [
-        "C-3281"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Named participant in post-debate phone call with Wilson; previously known to the series.",
-      "related_artifacts": [
-        "A-2281.1"
-      ],
-      "related_claims": [
-        "C-3282"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Author of two artifact-anchored X posts reacting to the debate.",
-      "related_artifacts": [
-        "A-2280.1",
-        "A-2280.2"
-      ],
-      "related_claims": [
-        "C-3284",
-        "C-3285"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Creator of the artifact \"Jars Wide Shut\" AI video reacting to the debate.",
-      "related_artifacts": [
-        "A-2278.1"
-      ],
-      "related_claims": [
-        "C-3287"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Creator of the artifact \"Stages of Debate Grief\" meme reacting to the debate.",
-      "related_artifacts": [
-        "A-2279.1"
-      ],
-      "related_claims": [
-        "C-3288"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2193",
       "ref": "N-2193",
       "name": "September 9, 2025 Message Nature Discrepancy",
@@ -540,6 +401,86 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-406",
+      "ref": "N-406",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -560,7 +501,8 @@
       "claim_timestamp": "00:18:36",
       "investigative_direction": "Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-1"
       ]
     },
     {
@@ -577,7 +519,9 @@
       "claim_timestamp": "00:22:37",
       "investigative_direction": "Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is \"overwhelming.\"",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-69",
+        "N-1"
       ]
     },
     {
@@ -594,7 +538,8 @@
       "claim_timestamp": "00:44:42",
       "investigative_direction": "Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-69"
       ]
     },
     {
@@ -629,7 +574,8 @@
       "claim_timestamp": "00:17:24",
       "investigative_direction": "Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-3"
       ]
     },
     {
@@ -646,7 +592,8 @@
       "claim_timestamp": "01:06:45",
       "investigative_direction": "Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-406"
       ]
     },
     {
@@ -661,7 +608,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:00:00",
-      "investigative_direction": "Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window."
+      "investigative_direction": "Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -672,14 +622,13 @@
       "anchored_artifacts": [
         "A-2280.2"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:08:14",
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-3"
       ]
     },
     {
@@ -691,12 +640,13 @@
       "anchored_artifacts": [
         "A-2280.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:04:09",
-      "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room."
+      "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -714,7 +664,8 @@
       "claim_timestamp": "00:42:35",
       "investigative_direction": "Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-69"
       ]
     },
     {
@@ -726,14 +677,13 @@
       "anchored_artifacts": [
         "A-2278.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:01:26",
       "investigative_direction": "Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-2"
       ]
     },
     {
@@ -745,9 +695,7 @@
       "anchored_artifacts": [
         "A-2279.1"
       ],
-      "related_nodes": [
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:02:50",
       "investigative_direction": "Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.",
@@ -771,7 +719,8 @@
       "claim_timestamp": "00:19:49",
       "investigative_direction": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193).",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-1"
       ]
     }
   ],

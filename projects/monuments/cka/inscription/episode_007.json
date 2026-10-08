@@ -54,8 +54,8 @@
             "N-2"
           ],
           "tags": [],
-          "video_timestamp": "00:00:37–00:00:57",
-          "transcript_snippet": "She arrived at forgiveness in front of the entire world."
+          "video_timestamp": "00:02:05–00:02:25",
+          "transcript_snippet": "But she arrived at forgiveness and she did it in front of the entire world."
         }
       ]
     },
@@ -80,7 +80,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-13",
-          "video_timestamp": "00:09:45–00:11:40",
+          "video_timestamp": "00:08:41–00:10:36",
           "transcript_snippet": "The fact that there wasn't an exit wound is probably another miracle.",
           "confidence": "high"
         }
@@ -104,7 +104,7 @@
             "N-128"
           ],
           "tags": [],
-          "video_timestamp": "00:14:32–00:15:45",
+          "video_timestamp": "00:13:01–00:14:14",
           "transcript_snippet": "They just said he got shot with a 30 odd six and that it didn't go through.",
           "confidence": "high"
         }
@@ -130,7 +130,7 @@
             "N-1079"
           ],
           "tags": [],
-          "video_timestamp": "00:17:14–00:19:21",
+          "video_timestamp": "00:15:24–00:17:31",
           "transcript_snippet": "The full weight of America's law enforcement agencies are actively following the evidence.",
           "confidence": "high"
         }
@@ -156,8 +156,8 @@
             "N-1150"
           ],
           "tags": [],
-          "video_timestamp": "00:19:31–00:20:07",
-          "transcript_snippet": "We got permission to turn off services which are transponder services from ATC.",
+          "video_timestamp": "00:17:12–00:17:48",
+          "transcript_snippet": "they got permission to you know turn off services which are transponder services um and they got that permission from the air traffic controller.",
           "confidence": "medium"
         }
       ]
@@ -181,8 +181,8 @@
             "N-1151"
           ],
           "tags": [],
-          "video_timestamp": "00:23:34–00:23:48",
-          "transcript_snippet": "There was a massive pipeline almost exactly behind where Charlie was sitting.",
+          "video_timestamp": "00:20:46–00:21:00",
+          "transcript_snippet": "there was a massive pipeline that was almost exactly behind where Charlie was sitting.",
           "confidence": "medium"
         },
         {
@@ -198,8 +198,8 @@
             "N-1151"
           ],
           "tags": [],
-          "video_timestamp": "00:24:05–00:24:19",
-          "transcript_snippet": "Two little boxes...they told me that was a trap door."
+          "video_timestamp": "00:21:13–00:21:27",
+          "transcript_snippet": "You're observing those two little boxes, and they told me that that was a a trap door."
         },
         {
           "@type": "Artifact",
@@ -213,7 +213,7 @@
             "N-1077"
           ],
           "tags": [],
-          "video_timestamp": "00:26:05–00:26:19",
+          "video_timestamp": "00:23:03–00:23:17",
           "transcript_snippet": "They decided to instead pave that area, repave it."
         }
       ]
@@ -237,7 +237,7 @@
             "N-1148"
           ],
           "tags": [],
-          "video_timestamp": "00:31:11–00:32:36",
+          "video_timestamp": "00:27:15–00:28:40",
           "transcript_snippet": "It is a federal felony to use the CIA seal without license.",
           "confidence": "high"
         }
@@ -262,7 +262,7 @@
             "N-1"
           ],
           "tags": [],
-          "video_timestamp": "00:34:44–00:36:03",
+          "video_timestamp": "00:30:06–00:31:25",
           "transcript_snippet": "A close friend of Charlie Kirk shared these messages.",
           "confidence": "high"
         },
@@ -280,7 +280,7 @@
             "N-3"
           ],
           "tags": [],
-          "video_timestamp": "00:35:38–00:36:20",
+          "video_timestamp": "00:30:41–00:31:23",
           "transcript_snippet": "Candace needs to say two things...Israel is not committing a genocide."
         }
       ]
@@ -303,7 +303,7 @@
             "N-3"
           ],
           "tags": [],
-          "video_timestamp": "00:37:14–00:37:31",
+          "video_timestamp": "00:31:50–00:32:07",
           "transcript_snippet": "No government anywhere has a right to commit a genocide ever."
         },
         {
@@ -318,7 +318,7 @@
             "N-61"
           ],
           "tags": [],
-          "video_timestamp": "00:38:04",
+          "video_timestamp": "00:32:22",
           "transcript_snippet": "Dave Rubin instantly replied and said something about Israel."
         }
       ]
@@ -341,7 +341,7 @@
             "N-1"
           ],
           "tags": [],
-          "video_timestamp": "00:41:49–00:45:20",
+          "video_timestamp": "00:37:37–00:41:08",
           "transcript_snippet": "If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government..."
         },
         {
@@ -357,7 +357,7 @@
             "N-1149"
           ],
           "tags": [],
-          "video_timestamp": "00:45:47–00:49:21",
+          "video_timestamp": "00:39:25–00:42:59",
           "transcript_snippet": "The entirety of the idea of AIPAC is to represent a group..."
         }
       ]
@@ -380,7 +380,7 @@
             "N-50"
           ],
           "tags": [],
-          "video_timestamp": "00:52:47–00:54:11",
+          "video_timestamp": "00:44:13–00:45:37",
           "transcript_snippet": "Christianity calls upon you to change. Our core prayer...forgive us our sins."
         }
       ]
@@ -403,7 +403,7 @@
             "N-69"
           ],
           "tags": [],
-          "video_timestamp": "01:07:06–01:07:37",
+          "video_timestamp": "00:54:26–00:54:57",
           "transcript_snippet": "They said they found it on the roof, even though you don't use a screwdriver to take that rifle apart."
         },
         {
@@ -418,7 +418,7 @@
             "N-16"
           ],
           "tags": [],
-          "video_timestamp": "01:07:52–01:08:49",
+          "video_timestamp": "00:54:58–00:55:55",
           "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me."
         },
         {
@@ -1073,6 +1073,22 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-95",
+      "ref": "N-95",
+      "name": "Brian Mast",
+      "type": "person",
+      "description": "Subject of a tweet Candace referenced about genocide.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1088,7 +1104,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:37",
+      "claim_timestamp": "00:02:05",
       "investigative_direction": "Verify the full text/transcript of Erika's speech against published recording.",
       "transcript_snippet": "She arrived at forgiveness and she did it in front of the entire world.",
       "mentions_person_refs": [
@@ -1111,7 +1127,7 @@
         "N-1151"
       ],
       "tags": [],
-      "claim_timestamp": "00:09:45",
+      "claim_timestamp": "00:08:41",
       "investigative_direction": "Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.",
       "transcript_snippet": "The fact that there wasn't an exit wound is probably another miracle.",
       "mentions_person_refs": [
@@ -1131,7 +1147,7 @@
         "N-1151"
       ],
       "tags": [],
-      "claim_timestamp": "00:10:25",
+      "claim_timestamp": "00:08:48",
       "investigative_direction": "Identify the surgeon and request confirmation; review any hospital records.",
       "transcript_snippet": "He said the bullet quote absolutely should have gone through.",
       "mentions_person_refs": [
@@ -1151,7 +1167,7 @@
         "N-1151"
       ],
       "tags": [],
-      "claim_timestamp": "00:14:32",
+      "claim_timestamp": "00:13:01",
       "investigative_direction": "Archive the original X Live broadcast.",
       "transcript_snippet": "They just said he got shot with a 30 odd six and that it didn't go through.",
       "mentions_person_refs": [
@@ -1171,11 +1187,12 @@
         "N-1079"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:14",
+      "claim_timestamp": "00:15:24",
       "investigative_direction": "Retrieve the original Patel tweet and archive; cross-reference FBI press releases.",
       "transcript_snippet": "The full weight of America's law enforcement agencies are actively following the evidence.",
       "mentions_person_refs": [
-        "N-102"
+        "N-102",
+        "N-1"
       ]
     },
     {
@@ -1194,7 +1211,7 @@
         "N-1152"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:55",
+      "claim_timestamp": "00:17:35",
       "investigative_direction": "Obtain FAA radar logs and ATC recordings for the relevant flight.",
       "transcript_snippet": "It can't be both. Can't be.",
       "confidence": "medium",
@@ -1219,9 +1236,12 @@
         "N-1153"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:34",
+      "claim_timestamp": "00:20:46",
       "investigative_direction": "Obtain UVU facilities maps, irrigation system records, and underground utility diagrams.",
-      "transcript_snippet": "There was a massive pipeline almost exactly behind where Charlie was sitting."
+      "transcript_snippet": "there was a massive pipeline that was almost exactly behind where Charlie was sitting.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1236,9 +1256,12 @@
         "N-1077"
       ],
       "tags": [],
-      "claim_timestamp": "00:26:05",
+      "claim_timestamp": "00:23:03",
       "investigative_direction": "Obtain UVU maintenance logs and contractor records for the repaving.",
-      "transcript_snippet": "They decided to instead pave that area, repave it."
+      "transcript_snippet": "They decided to instead pave that area, repave it.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1254,7 +1277,7 @@
         "N-1154"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:11",
+      "claim_timestamp": "00:27:15",
       "investigative_direction": "Archive the original Loomer tweet; check whether any formal CIA complaint was filed.",
       "transcript_snippet": "It is a federal felony to use the CIA seal without license.",
       "mentions_person_refs": [
@@ -1276,7 +1299,7 @@
         "N-1155"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:44",
+      "claim_timestamp": "00:30:06",
       "investigative_direction": "Verify the actual date of the messages via metadata or forensic analysis of screenshots.",
       "transcript_snippet": "A close friend of Charlie Kirk shared these messages.",
       "mentions_person_refs": [
@@ -1299,12 +1322,13 @@
         "N-1155"
       ],
       "tags": [],
-      "claim_timestamp": "00:36:37",
+      "claim_timestamp": "00:31:08",
       "investigative_direction": "Cross-reference the content with public 2023 events; obtain metadata from screenshots.",
       "transcript_snippet": "It's from 2023. He then writes 'It doesn't come natural to her...'",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-95"
       ]
     },
     {
@@ -1319,7 +1343,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:37:31",
+      "claim_timestamp": "00:32:32",
       "investigative_direction": "Archive original tweet and Rubin reply; identify any coordinated pressure campaign participants.",
       "transcript_snippet": "I was being inundated. Charlie was being inundated.",
       "mentions_person_refs": [
@@ -1340,12 +1364,12 @@
         "N-1149"
       ],
       "tags": [],
-      "claim_timestamp": "00:45:14",
+      "claim_timestamp": "00:37:37",
       "investigative_direction": "Verify the full town hall recording.",
       "transcript_snippet": "If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...",
       "mentions_person_refs": [
-        "N-1",
-        "N-65"
+        "N-65",
+        "N-1"
       ]
     },
     {
@@ -1361,7 +1385,7 @@
         "N-1149"
       ],
       "tags": [],
-      "claim_timestamp": "00:45:47",
+      "claim_timestamp": "00:39:25",
       "investigative_direction": "Verify the full town hall recording and Charlie's subsequent statements on the topic.",
       "transcript_snippet": "The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.",
       "mentions_person_refs": [
@@ -1379,7 +1403,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:52:47",
+      "claim_timestamp": "00:44:13",
       "investigative_direction": "Obtain the full Carlson memorial speech transcript.",
       "transcript_snippet": "Christianity calls upon you to change. Our core prayer...forgive us our sins.",
       "mentions_person_refs": [
@@ -1400,12 +1424,9 @@
         "N-1156"
       ],
       "tags": [],
-      "claim_timestamp": "01:07:06",
+      "claim_timestamp": "00:54:31",
       "investigative_direction": "Identify the rifle model and required disassembly tools; locate official inventory of recovered items.",
-      "transcript_snippet": "You don't use a screwdriver to take that rifle apart.",
-      "mentions_person_refs": [
-        "N-69"
-      ]
+      "transcript_snippet": "You don't use a screwdriver to take that rifle apart."
     },
     {
       "@type": "Claim",
@@ -1420,12 +1441,33 @@
         "N-1157"
       ],
       "tags": [],
-      "claim_timestamp": "01:07:52",
+      "claim_timestamp": "00:54:58",
       "investigative_direction": "Obtain the full Frank Turk memorial speech and biographical background.",
       "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-16"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3639",
+      "ref": "C-3639",
+      "label": "Host reads Laura Loomer tweet alleging the Candace Intelligence Agency CIA merch line infringes the CIA seal",
+      "claim": "The host reads on air a Laura Loomer tweet asserting that the CIA-branded \"Candace Intelligence Agency\" merch line rips off the CIA name and logo, that using the CIA seal without license is a federal felony, and that the CIA can sue; the host calls Loomer \"our resident psycho,\" frames the tweet as part of non-stop attacks, and replies that the merch predates Charlie Kirk's assassination and is a legal parody of the CIA.",
+      "anchored_artifacts": [
+        "A-2484.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:08",
+      "investigative_direction": "Archive the original Loomer tweet (text, date, CIA director tag) and any CIA response; keep the stance as Loomer accusation read on air, not a host merch plug.",
+      "transcript_snippet": "...ling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without l...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-91",
+        "N-1"
       ]
     },
     {
@@ -1458,9 +1500,9 @@
       "occurrences": [
         {
           "episode": 7,
-          "video_timestamp": "00:00:37",
+          "video_timestamp": "00:02:05",
           "speaker_node_ref": "N-3",
-          "quote": "She arrived at forgiveness in front of the entire world.",
+          "quote": "But she arrived at forgiveness and she did it in front of the entire world.",
           "context": "Host praising Erika Kirk's forgiveness speech at memorial.",
           "confidence": "high",
           "tags": [
@@ -1470,7 +1512,7 @@
         },
         {
           "episode": 7,
-          "video_timestamp": "00:54:33",
+          "video_timestamp": "00:44:50",
           "speaker_node_ref": "N-3",
           "quote": "I am not going to stop unless Erika Kirk asks me to stop.",
           "context": "Host frames investigation as deferred to widow's wishes.",
@@ -1490,7 +1532,7 @@
       "occurrences": [
         {
           "episode": 7,
-          "video_timestamp": "00:08:46",
+          "video_timestamp": "00:07:16",
           "speaker_node_ref": "N-3",
           "quote": "I believe that the reason everybody is a conspiracy theorist is because people don't share truth.",
           "context": "Host inverts label: secrecy creates conspiracies, transparency removes them.",
@@ -1510,7 +1552,7 @@
       "occurrences": [
         {
           "episode": 7,
-          "video_timestamp": "00:49:37",
+          "video_timestamp": "00:38:46",
           "speaker_node_ref": "N-1",
           "quote": "You're Catholic? Converting to Catholic from Judaism...You're ethnically Jewish.",
           "context": "Charlie Kirk town hall: student describes conversion from Judaism to Catholicism.",

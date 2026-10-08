@@ -645,7 +645,7 @@ Claim Timestamp: 00:00:01
 Claim: Youssef states Candace Owens was nominated for Anti-Semite of the Year 2024 (and did not win).
 
 Anchored Artifacts: A-1691.1
-Mentions: N-798
+Mentions: N-798, N-3
 
 Related Nodes: N-1523
 
@@ -660,6 +660,7 @@ Claim Timestamp: 00:00:01
 Claim: Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per context).
 
 Anchored Artifacts: A-1691.1
+Mentions: N-50
 
 Related Nodes: N-1523
 
@@ -689,7 +690,7 @@ Claim Timestamp: 01:23:21
 Claim: Per host, her Phil Turney interview received approximately 7 million views, prompting New York Times outreach.
 
 Anchored Artifacts: A-1694.2 (viewer corroboration)
-Mentions: N-799
+Mentions: N-799, N-3
 
 Related Nodes: N-1522, N-1528, N-1535
 
@@ -777,6 +778,7 @@ Claim Timestamp: 00:30:06
 Claim: Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu on his show in August (referenced as 2025) during Netanyahu's "mini tour" of media appearances.
 
 Anchored Artifacts: A-1690 (host testimony in transcript)
+Mentions: N-65, N-3, N-1
 
 Related Nodes: N-1527
 
@@ -791,6 +793,7 @@ Claim Timestamp: 01:23:21
 Claim: Per host, the New York Times contacted her about her Phil Turney interview and is working on a piece regarding USS Liberty.
 
 Anchored Artifacts: A-1690 (host testimony in transcript)
+Mentions: N-799
 
 Related Nodes: N-1522, N-1528
 

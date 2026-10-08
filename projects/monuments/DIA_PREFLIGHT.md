@@ -33,7 +33,7 @@ python3 projects/monuments/bride_of_charlie/scripts/dia_preflight.py
 | `person_band` | P0 | Person with `Node Type: Person` and N ≥ 1000; Topic/Org/Place with N &lt; 1000 |
 | `person_density` / `topic_band_density` | P0 | Swiss-cheese gaps in N-1..max person or N-1000+ topic band |
 | `intro_order` | P0 | `New Nodes Introduced` ledger order violates ascending id within band (ids minted into free holes go on the `Hole-minted Nodes` line instead, see `hole_mint_order`) |
-| `hole_mint_order` | P0 | `  - Hole-minted Nodes (<batch>): N-a, N-b` ledger lines: each id must be listed in the episode of its first register row, must not also sit on the New, Reused or a secondary `Existing Nodes Reused` line, must ascend in first-introduction order per batch and band, and a person-band batch must leave no free person id (not active, not tombstoned, not on the episode_000 baseline) below its maximum |
+| `hole_mint_order` | P0 | `  - Hole-minted Nodes (<batch>): N-a, N-b` ledger lines: each id must be listed in the episode of its first register row, must not also sit on the New, Reused or a secondary `Existing Nodes Reused` line, must not appear on any New, Reused, `Existing Nodes Reused` or Hole-minted ledger line of an earlier episode, must ascend in first-introduction order per batch and band, and a person-band batch must leave no free person id (not active, not tombstoned, not on the episode_000 baseline) below its maximum |
 | `retired_citation` | P0 | Cites N-* that is not on the active register (tombstone ghost id) |
 | `register_orphan` | P0 | Person in register never on any Claim **Mentions** / **Related Nodes** line or on an artifact `*Related:*` line that also cites a C-/A- id (a register row or a context-only artifact note does not count) |
 | `remap_sync` | P0 | `canonical/nodes.json` or `inscription/` node name ≠ draft register |
@@ -48,7 +48,7 @@ python3 projects/monuments/bride_of_charlie/scripts/dia_preflight.py
 | `claim_missing_from_drafts` | P1 | Claim minted in `inscription/` but not defined in any draft |
 | `duplicate_claim_header` | P1 | Same C-id header more than once, including residue headers like `**C-1 / C-2**` |
 | `tombstone_collision` | P1 | Active canonical id listed in another node's `retired_ids` |
-| `name_annotation_mismatch` | P1 | Inline `N-x (Name)` annotation whose Name is not node x (canonical name or alias, else any register row); descriptive labels such as `(verbal reference)` are ignored. For a person node a multi-word label must share the surname (last word) with a name or alias, so a shared first name alone fails |
+| `name_annotation_mismatch` | P1 | Inline `N-x (Name)` annotation whose Name is not node x (canonical name or alias, else any register row); descriptive labels such as `(verbal reference)` are ignored. For a person node a multi-word label must share the surname (last word) with a name or alias, so a shared first name alone fails. A one-word alias or name variant of a person never satisfies a multi-word label unless that word is the label's surname (last word) |
 
 Grounding, transcript SHA, and name web-search remain in `scripts/verify_drafts.py` and `pipeline_gates.py`; run those in the analysis pipeline. Preflight focuses on ledger/remap/inscription class bugs from the BOC eps 1–8 cycle.
 

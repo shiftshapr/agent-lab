@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1657, N-1658, N-1659, N-1660, N-1661
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: 
   - (see registers)
 
 ## 2. Executive Summary
@@ -199,7 +199,7 @@ Video Timestamp: 00:44:55–00:46:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2664, C-2665, N-1211, N-1661*
+*Related: C-2664, C-2665, N-1661*
 
 ---
 
@@ -259,61 +259,6 @@ Confidence Level: High
 
 ### People
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Turning Point USA employee; author of X-post refusing video release and host of on-record ASU defense of Erika's CEO role; subject of artifact-anchored claims.
-
-Evidence Count: 3
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1932.1, A-1932.2, A-1938.1, C-2660, C-2661*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Family member of Akhmed Karashi; LinkedIn profile reportedly shows Fort Huachuca reconnaissance-drone training.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1927.1, C-2654, N-1660*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Father of Zachariah Karashi (decoy boy 2); described as Navy O-6 (reserves); co-founder of "Built" app with reported 3D mission-prep visualization capability.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1927.1, A-1927.2, A-1927.4, C-2654, C-2655, N-1660*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Erika Kirk's security guard; named by host-cited witness as the person reportedly with Erika (not her mother) at the time of the Sept 10 notification.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: C-2667, N-2, N-1657*
-
-**N-1211** UVU Campus Familiarity Question
-
-Deputy Attorney General; named in Trump's statement as Acting Attorney General after Pam Bondi's firing.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1935.1, C-2665, N-1661*
-
 ### Investigation Targets
 
 **N-1657** Erika Kirk September 10 Whereabouts Verification
@@ -325,7 +270,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1930.1, A-1931.1, A-1933.1, A-1934.1, C-2658, C-2659, C-2662, C-2663, C-2667, N-2, N-1210*
+*Related: A-1930.1, A-1931.1, A-1933.1, A-1934.1, C-2658, C-2659, C-2662, C-2663, C-2667, N-2*
 
 **N-1658** Aspen Donor Audio Integrity Question
 
@@ -369,7 +314,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1935.1, C-2664, C-2665, N-1211*
+*Related: A-1935.1, C-2664, C-2665*
 
 ---
 
@@ -413,7 +358,7 @@ Claim Timestamp: 00:08:58–00:10:21
 Claim: On Megan Kelly (Nov 24, 2025), Erika Kirk described a donor question at the Aspen event and stated Charlie Kirk said Erika would do a great job running TPUSA.
 
 Anchored Artifacts: A-1929.1
-Mentions: N-2
+Mentions: N-2, N-1, N-75
 Related Nodes: N-1658, N-1659
 Investigative Direction: Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
@@ -435,7 +380,7 @@ Claim Timestamp: 00:36:46–00:37:30
 Claim: On Jesse Watters, Erika Kirk stated she was at her mom's doctor's appointment when she received the news of Charlie's shooting; host identified an apparent jump cut in the interview.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2
+Mentions: N-2, N-313
 Related Nodes: N-1657
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
@@ -446,7 +391,7 @@ Claim Timestamp: 00:14:16–00:15:40
 Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly said "Erika will take over for me" and that the CEO appointment was not forced by anyone at TPUSA.
 
 Anchored Artifacts: A-1932.2
-Mentions: N-2
+Mentions: N-2, N-224
 Related Nodes: N-1658
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
@@ -457,7 +402,7 @@ Claim Timestamp: 00:16:55–00:17:45
 Claim: Blake Neff on X declined to release the Aspen video and accused Candace Owens of being a "psychopathic predator" who would dismiss the video as AI regardless.
 
 Anchored Artifacts: A-1932.1
-Mentions: N-2
+Mentions: N-2, N-3, N-224
 Related Nodes: N-1658
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
@@ -469,7 +414,7 @@ Claim: At the NYT Book Summit, Erika Kirk described her mother as an entrepreneu
 
 Anchored Artifacts: A-1933.1
 Mentions: N-2
-Related Nodes: N-1657
+Related Nodes:
 Investigative Direction: Verify the question asked and Erika's full answer; cross-reference with earlier statements about her mother's background (single mother vs. stepfather present).
 
 **C-2663** Erika Kirk posted an Instagram video of her mother in frail state on Sept 8, 2025
@@ -490,6 +435,7 @@ Claim Timestamp: 00:44:55–00:46:02
 Claim: Donald Trump announced the firing of Pam Bondi as Attorney General via a social-media statement (read verbatim on air).
 
 Anchored Artifacts: A-1935.1
+Mentions: N-5, N-120
 Related Nodes: N-1661
 Investigative Direction: Retrieve the original Truth Social / X post to verify exact language and timestamp.
 
@@ -500,7 +446,8 @@ Claim Timestamp: 00:44:55–00:46:02
 Claim: Trump's statement named Deputy Attorney General Todd Blanche to serve as Acting Attorney General.
 
 Anchored Artifacts: A-1935.1
-Related Nodes: N-1211, N-1661
+Mentions: N-867
+Related Nodes: N-1661
 Investigative Direction: Verify the formal appointment and any subsequent Senate-confirmation process.
 
 **C-2666** Erika publicly promised TPUSA had decades of unused Charlie Kirk content
@@ -510,7 +457,7 @@ Claim Timestamp: 00:19:47–00:20:41
 Claim: Approximately 16 days after Charlie's death, Erika Kirk publicly stated TPUSA had "decades worth" of Charlie Kirk's voice, unused speeches, and content ready for release.
 
 Anchored Artifacts: A-1936.1
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes: N-1658
 Investigative Direction: Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.
 
@@ -522,7 +469,7 @@ Claim: Per host investigation, multiple sources — including an unnamed Phoenix
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2
-Related Nodes: N-1210, N-1657
+Related Nodes: N-1657
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
 **C-2668** 3 of 4 Aspen event attendees contacted by host investigation did not recall Charlie naming Erika
@@ -532,7 +479,7 @@ Claim Timestamp: 00:12:38–00:13:33
 Claim: Per host outreach to four Aspen event attendees (one of whom was a couple), three did not recall Charlie Kirk stating he wanted Erika to take over TPUSA; the fourth (a couple with TPUSA ties beyond a donor relationship) did recall it.
 
 Anchored Artifacts: A-1928.1
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes: N-1659
 Investigative Direction: Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.
 

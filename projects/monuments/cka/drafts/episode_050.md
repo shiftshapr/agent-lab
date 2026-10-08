@@ -407,7 +407,7 @@ Claim Timestamp: 00:24:37 – 00:26:29
 Claim: Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point — whom Carlson attributed in part to Ben Shapiro's insistence — pressured Kirk to remove Tucker from the AmFest speaker roster.
 
 Anchored Artifacts: A-1562.1
-Mentions: N-50, N-133
+Mentions: N-50, N-133, N-1
 
 
 Investigative Direction: Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.
@@ -514,7 +514,7 @@ Claim Timestamp: 00:40:44 – 00:45:06
 Claim: The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.
 
 Anchored Artifacts: None directly captured (Erika Kirk's original statement and the cited social-media evidence are referenced only secondhand; host says "I think we can show that" but the transcript captures no on-screen display).
-Mentions: N-2, N-605
+Mentions: N-2, N-605, N-1
 
 Related Nodes: N-1445
 

@@ -104,10 +104,7 @@
           "related_claims": [
             "C-2748"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1217"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -131,10 +128,7 @@
           "related_claims": [
             "C-2750"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -150,10 +144,7 @@
           "related_claims": [
             "C-2751"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1210"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -179,8 +170,6 @@
             "C-2753"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1210",
             "N-1693"
           ],
           "tags": [],
@@ -199,8 +188,6 @@
             "C-2752"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1210",
             "N-1693"
           ],
           "tags": [],
@@ -219,8 +206,6 @@
             "C-2752"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1210",
             "N-1693"
           ],
           "tags": [],
@@ -281,258 +266,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Subject of new documentary material in this episode: FFL license, social-media post, interview clips, and text messages referencing IDF/SOCOM ties.",
-      "related_artifacts": [
-        "A-1984.1",
-        "A-1985",
-        "A-1986",
-        "A-1987.1",
-        "A-1987.2",
-        "A-1988.1",
-        "A-1988.3"
-      ],
-      "related_claims": [
-        "C-2748",
-        "C-2749",
-        "C-2750",
-        "C-2751",
-        "C-2752",
-        "C-2753"
-      ],
-      "tags": [],
-      "evidence_count": 7,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1210",
-        "N-1693"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Vice President; on-stage at UGA rally; subject of host analysis regarding manipulation by Erika.",
-      "related_artifacts": [
-        "A-1982.2",
-        "A-1983"
-      ],
-      "related_claims": [
-        "C-2746",
-        "C-2747"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1691"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "TPUSA spokesperson referenced in host's timeline reconstruction (variable host spellings: \"Kolvet,\" \"Kolburt,\" \"Kolodziej,\" \"Tate Coburn\"). Uncertainty noted.",
-      "related_artifacts": [
-        "A-1983"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1691"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Witness to alleged interaction with Victor Marx; provided text messages. Variable host spelling \"Corby\"/\"Colby\" noted.",
-      "related_artifacts": [
-        "A-1987.1",
-        "A-1987.2",
-        "A-1988.1",
-        "A-1988.2",
-        "A-1988.3"
-      ],
-      "related_claims": [
-        "C-2750",
-        "C-2751",
-        "C-2752",
-        "C-2753"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Host of referenced show; source for FFL finding and venue presence interpretation.",
-      "related_artifacts": [
-        "A-1986"
-      ],
-      "related_claims": [
-        "C-2749"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "CBS News journalist, attributed author of A-1981.1.",
-      "related_artifacts": [
-        "A-1981.1"
-      ],
-      "related_claims": [
-        "C-2744"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1692"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Historical figure (deceased); subject of Bain Capital investment claim.",
-      "related_artifacts": [
-        "A-1989"
-      ],
-      "related_claims": [
-        "C-2754"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1695"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Roommate of Tyler Robinson; subject of host speculation about federal-asset status (host speculation not inscribed as claim).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1696"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Security detail referenced by host as having failed to protect Charlie Kirk; host states he was later offered a raise/bonus from Erika. (Host assertion only — no artifact in this episode.)",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1696"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Creator of viral video mocking Erika Kirk's behavior. Variable host spelling \"Drewski\"/\"Druski.\"",
-      "related_artifacts": [
-        "A-1991.1",
-        "A-1991.2"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1691"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Subject of viewer email tip regarding early knowledge of Charlie Kirk's shooting. Name spelling uncertain; verification requested.",
-      "related_artifacts": [
-        "A-1992"
-      ],
-      "related_claims": [
-        "C-2760"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1697"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1691",
       "ref": "N-1691",
       "name": "UGA Rally Cancellation Discrepancy",
@@ -558,12 +291,7 @@
       "evidence_count": 6,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1209",
-        "N-1216"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -582,10 +310,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1212"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -607,11 +332,7 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1210"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -630,10 +351,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1213"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -671,11 +389,7 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1214",
-        "N-1215"
-      ]
+      "investigative_pressure": "low"
     },
     {
       "@type": "InvestigationTarget",
@@ -696,11 +410,119 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1217"
-      ]
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Listed among figures appearing in Elephant Clipping campaign charts the host displays.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-77",
+      "ref": "N-77",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-569",
+      "ref": "N-569",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-570",
+      "ref": "N-570",
+      "name": "Corby Hall",
+      "type": "person",
+      "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -714,7 +536,6 @@
         "A-1981.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1692",
         "N-1691"
       ],
@@ -740,7 +561,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:07:27–00:13:38",
-      "investigative_direction": "Obtain FAA flight logs, airport records, and Secret Service movement logs to verify arrival/departure times."
+      "investigative_direction": "Obtain FAA flight logs, airport records, and Secret Service movement logs to verify arrival/departure times.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -756,7 +580,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:44–00:09:45",
-      "investigative_direction": "Cross-reference flight tracking data (ADS-B Exchange / FlightRadar24) and White House travel logs."
+      "investigative_direction": "Cross-reference flight tracking data (ADS-B Exchange / FlightRadar24) and White House travel logs.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -772,7 +599,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:54–00:12:49",
-      "investigative_direction": "Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration."
+      "investigative_direction": "Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -788,7 +618,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:25:01",
-      "investigative_direction": "Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source."
+      "investigative_direction": "Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -800,12 +634,14 @@
         "A-1985",
         "A-1986"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:28",
-      "investigative_direction": "Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type."
+      "investigative_direction": "Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type.",
+      "mentions_person_refs": [
+        "N-552",
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -816,12 +652,14 @@
       "anchored_artifacts": [
         "A-1987.1"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:20–00:32:44",
-      "investigative_direction": "Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account."
+      "investigative_direction": "Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account.",
+      "mentions_person_refs": [
+        "N-569",
+        "N-570"
+      ]
     },
     {
       "@type": "Claim",
@@ -832,12 +670,13 @@
       "anchored_artifacts": [
         "A-1987.2"
       ],
-      "related_nodes": [
-        "N-1210"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:46–00:34:57",
-      "investigative_direction": "Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx."
+      "investigative_direction": "Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx.",
+      "mentions_person_refs": [
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -851,12 +690,14 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1693"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00–00:38:02",
-      "investigative_direction": "Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx."
+      "investigative_direction": "Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.",
+      "mentions_person_refs": [
+        "N-569"
+      ]
     },
     {
       "@type": "Claim",
@@ -870,7 +711,6 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1693"
       ],
       "tags": [],
@@ -887,12 +727,14 @@
         "A-1989"
       ],
       "related_nodes": [
-        "N-1213",
         "N-1694"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18–00:41:12",
-      "investigative_direction": "Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors."
+      "investigative_direction": "Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors.",
+      "mentions_person_refs": [
+        "N-77"
+      ]
     },
     {
       "@type": "Claim",
@@ -984,12 +826,14 @@
         "A-1992"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1697"
       ],
       "tags": [],
       "claim_timestamp": "00:28:57–00:29:30",
-      "investigative_direction": "Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role."
+      "investigative_direction": "Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1001,7 +845,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:01–00:17:09",
-      "investigative_direction": "Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope."
+      "investigative_direction": "Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1019,6 +866,9 @@
       "investigative_direction": "Resolve by obtaining either Erika Kirk's underlying threat intel (if any) or an explicit on-record retraction.",
       "contradicts_claim_refs": [
         "C-2744"
+      ],
+      "mentions_person_refs": [
+        "N-2"
       ]
     },
     {

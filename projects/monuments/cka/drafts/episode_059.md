@@ -689,7 +689,7 @@ Claim Timestamp: 00:10:23
 Claim: Host states that both of Dan Flood's mother and father are from Illinois, in the same area Charlie Kirk grew up.
 
 Anchored Artifacts: A-1643.1
-Mentions: N-434, N-748
+Mentions: N-434, N-748, N-1
 
 Related Nodes: N-1496
 
@@ -884,7 +884,7 @@ Claim Timestamp: 00:34:31
 Claim: A Cornerstone Chapel video announcement by Pastor Gary Ham promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).
 
 Anchored Artifacts: A-1651.1
-Mentions: N-45, N-759, N-760
+Mentions: N-45, N-759, N-760, N-50, N-3
 
 Related Nodes: N-1500
 
@@ -913,7 +913,7 @@ Claim Timestamp: 00:42:39
 Claim: Viewer "Moderator Marzy" comment states Dan Flood "was still providing security" at a Charlie Kirk Day event and that Kash Patel was invited.
 
 Anchored Artifacts: A-1653.1
-Mentions: N-1, N-434
+Mentions: N-1, N-434, N-102
 
 
 Investigative Direction: Verify event attendance, security staffing, and Kash Patel's participation through official event records.

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2179, N-2180, N-2181, N-2182, N-2183, N-2184
-  - Reused Nodes Appearing: N-2, N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: N-2
   - (see registers)
 
 ## 2. Executive Summary
@@ -73,7 +73,7 @@ Video Timestamp: 00:23:50–00:24:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-1210, N-2180*
+*Related: C-3225, N-2180*
 
 **A-2248.2** Surveillance/event footage frame: Nate Walker near Hall's walkway, putting on sunglasses, no bag, at approximately 12:25 (described as ~1 minute 45 seconds after A-2248.1)
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:25:00–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-1210, N-2180*
+*Related: C-3225, N-2180*
 
 **A-2248.3** Surveillance/event footage frame: Nate Walker walking downstairs, approximately two minutes after A-2248.2
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:25:35–00:25:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-1210, N-2180*
+*Related: C-3225, N-2180*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:21:54–00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email text read aloud)
 
-*Related: C-3232, N-1211*
+*Related: C-3232*
 
 ---
 
@@ -272,71 +272,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-X account holder who publicly exposed the membership list and activities of the "Protecting Mrs. Kirk" group chat in two posts (A-2246.1, A-2246.2). Investigatively significant as the originating whistleblower for the group-chat thread.
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-2179*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Self-identified spiritual adviser to the Kirk family who has publicly recounted childhood decapitation of a cat at age 3 and the shooting of a man at age 7. In this episode's aired Piers Morgan interview, he acknowledged that false-memory formation is possible (A-2251.2). Mississippi-area law enforcement, as cited by Piers Morgan, reports no records matching his account.
-
-Evidence Count: 2
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2251.1, A-2251.2, C-3228, C-3229, C-3230, C-3231, N-2184*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Celebrity blogger who was the subject of a Miami-Dade Sheriff's response following a TikTok live-stream of self-harm (A-2249.1). Single father of three via surrogacy. Earlier rebrand interview with Ellen DeGeneres is presented as background (A-2250.1).
-
-Evidence Count: 2
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Low (peripheral to the Charlie Kirk investigation)
-
-*Related: A-2249.1, A-2250.1, A-2253.7, A-2253.8, C-3226, C-3227, C-3233*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Assistant to Charlie Kirk described as having supplied the freedom t-shirt worn by Kirk on the day of the incident. Documented in this episode via on-air movement footage (A-2248.1–A-2248.3) showing a transition from on-ground-floor bag-carrying position with Dan Flood at ~12:15 to an upstairs location without bag at ~12:25.
-
-Evidence Count: 3
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2248.1, A-2248.2, A-2248.3, C-3225, N-1, N-2180*
-
----
-
-**N-1211** UVU Campus Familiarity Question
-
-Daily Mail journalist who emailed the show (A-2252.1) stating that sources believe Candace Owens is being used by foreign operatives sending misinformation through her tip line.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2252.1, C-3232, N-3*
-
----
-
 **N-2179** "Protecting Mrs. Kirk" Group Chat Investigation
 
 Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erica Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.
@@ -359,7 +294,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2248.1, A-2248.2, A-2248.3, C-3225, N-1210, N-1*
+*Related: A-2248.1, A-2248.2, A-2248.3, C-3225, N-1*
 
 ---
 
@@ -454,6 +389,7 @@ Claim Timestamp: 00:13:35–00:14:00
 Claim: The phone of Lance (referenced in the Tyler Robinson preliminary-hearing record) was photographed with damage in the top-left corner of the screen at the location where the device's status-bar timestamp would appear.
 
 Anchored Artifacts: A-2247.1
+Mentions: N-69
 
 Related Nodes: N-2181, N-2182
 
@@ -468,9 +404,9 @@ Claim Timestamp: 00:23:50–00:25:45
 Claim: Footage shows Nate Walker present in a bright blue shirt with bag speaking with Dan Flood at approximately 12:15, then at approximately 12:25 near Hall's walkway without bag, putting on sunglasses, and later walking downstairs.
 
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
-Mentions: N-1
+Mentions: N-1, N-434
 
-Related Nodes: N-1210, N-2180
+Related Nodes: N-2180
 
 Investigative Direction: Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.
 
@@ -511,6 +447,7 @@ Claim Timestamp: 00:44:38–00:45:30
 Claim: In his Piers Morgan interview, Victor Marx stated that at age 3, his stepfather placed his hand over Victor's hand on a knife to decapitate a dead cat.
 
 Anchored Artifacts: A-2251.1
+Mentions: N-298, N-569
 
 Related Nodes: N-2184
 
@@ -525,6 +462,7 @@ Claim Timestamp: 00:45:49–00:47:00
 Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling "homeless fellow" and pushed the trigger until the man was shot.
 
 Anchored Artifacts: A-2251.2
+Mentions: N-298, N-569
 
 Related Nodes: N-2184
 
@@ -539,6 +477,7 @@ Claim Timestamp: 00:46:50–00:47:25
 Claim: When asked by Piers Morgan whether false memories could account for his childhood accounts, Victor Marx stated he had studied false memories and that this is "possible."
 
 Anchored Artifacts: A-2251.2
+Mentions: N-298, N-569
 
 Related Nodes: N-2184
 
@@ -553,6 +492,7 @@ Claim Timestamp: 00:45:49–00:46:30
 Claim: Piers Morgan stated during the interview that local law enforcement and sheriffs in the Mississippi area where the alleged event took place have no records, police reports, or unsolved homicides matching Victor Marx's account.
 
 Anchored Artifacts: A-2251.2
+Mentions: N-298, N-569
 
 Related Nodes: N-2184
 
@@ -569,7 +509,7 @@ Claim: Daily Mail journalist Charlie Spearing emailed the Candace Owens show sta
 Anchored Artifacts: A-2252.1
 Mentions: N-3
 
-Related Nodes: N-1211
+Related Nodes:
 
 Investigative Direction: Obtain the original email with full headers and timestamp; identify what "sources" Spearing referenced; cross-check Daily Mail coverage for follow-up.
 

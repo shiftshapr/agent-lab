@@ -39,7 +39,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:05:52",
+          "video_timestamp": "00:04:59",
           "transcript_snippet": "Drop what you are doing. Look under my keyboard.",
           "confidence": "high"
         },
@@ -59,7 +59,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:08:18",
+          "video_timestamp": "00:06:51",
           "transcript_snippet": "No, they grabbed some crazy old dude, then interrogated someone in similar clothing.",
           "confidence": "high"
         },
@@ -77,7 +77,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:12:34",
+          "video_timestamp": "00:10:17",
           "transcript_snippet": "I had enough of his hatred. Some hate cannot be negotiated out.",
           "confidence": "high"
         },
@@ -95,7 +95,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:15:24",
+          "video_timestamp": "00:12:07",
           "transcript_snippet": "I had to leave it in a bush where I changed outfits.",
           "confidence": "high"
         },
@@ -112,7 +112,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:16:22",
+          "video_timestamp": "00:12:55",
           "transcript_snippet": "Remember how I was engraving the bullets? The effing messages are mostly a big meme.",
           "confidence": "high"
         },
@@ -129,8 +129,8 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:17:02",
-          "transcript_snippet": "judging from today, I'd say grandpa's gun. Want to make very clear. This is grandpa's gun.",
+          "video_timestamp": "00:13:26",
+          "transcript_snippet": "Okay, judging from today, I'd say grandpa's gun. Want to make very make it very clear. This is grandpa's gun.",
           "confidence": "high"
         },
         {
@@ -147,7 +147,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:26:15",
+          "video_timestamp": "00:20:33",
           "transcript_snippet": "delete this exchange. My dad wants photos of the rifle.",
           "confidence": "high"
         },
@@ -164,7 +164,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:27:42",
+          "video_timestamp": "00:21:39",
           "transcript_snippet": "Since Trump got into office, my dad has been pretty diehard MAGA.",
           "confidence": "high"
         },
@@ -183,7 +183,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:28:40",
+          "video_timestamp": "00:22:24",
           "transcript_snippet": "I'm going to turn myself in willingly. One of my neighbors is here. He is deputy for the sheriff.",
           "confidence": "high"
         },
@@ -201,7 +201,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:29:15",
+          "video_timestamp": "00:22:42",
           "transcript_snippet": "Don't talk to the media. Please don't take any interviews… ask for a lawyer and stay silent.",
           "confidence": "high"
         }
@@ -226,7 +226,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:22:37",
+          "video_timestamp": "00:17:47",
           "transcript_snippet": "this morning, I can tell you that we have recovered what we believe is the weapon… high-powered bolt-action rifle.",
           "confidence": "high"
         },
@@ -243,7 +243,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
-          "video_timestamp": "00:35:41",
+          "video_timestamp": "00:28:54",
           "transcript_snippet": "Robinson was observed in consistent clothing with those surveillance images.",
           "confidence": "high"
         },
@@ -260,7 +260,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
-          "video_timestamp": "00:34:32",
+          "video_timestamp": "00:27:18",
           "transcript_snippet": "with a high degree of certainty we have him. in custody.",
           "confidence": "high"
         },
@@ -277,7 +277,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:24:55",
+          "video_timestamp": "00:19:20",
           "transcript_snippet": "FBI Salt Lake City drops static images of the alleged shooter walking up the stairs.",
           "confidence": "high"
         }
@@ -302,7 +302,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:23:41",
+          "video_timestamp": "00:19:08",
           "transcript_snippet": "They publish at 9:21 a.m., two hours after that first press conference, and say exclusive.",
           "confidence": "high"
         },
@@ -320,7 +320,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:19:15",
+          "video_timestamp": "00:15:07",
           "transcript_snippet": "TMZ shows us the footage, remember, of the man wearing a maroon t-shirt and shorts.",
           "confidence": "high"
         },
@@ -337,7 +337,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
-          "video_timestamp": "00:22:20",
+          "video_timestamp": "00:17:20",
           "transcript_snippet": "Discord is going to later say that those messages were not coordinated on their server.",
           "confidence": "medium"
         }
@@ -355,7 +355,8 @@
           "ref": "A-1107.1",
           "description": "Tucker Carlson clip criticizing Netanyahu's reaction to Charlie's death as ghoulish and political.",
           "related_claims": [
-            "C-1185"
+            "C-1185",
+            "C-3736"
           ],
           "related_nodes": [
             "N-50",
@@ -364,7 +365,7 @@
           ],
           "tags": [],
           "event_timestamp": "2026-03-17",
-          "video_timestamp": "00:54:47",
+          "video_timestamp": "00:43:09",
           "transcript_snippet": "I was shocked and sickened by the reaction of the ghoulish… prime minister of Israel.",
           "confidence": "high"
         },
@@ -372,9 +373,10 @@
           "@type": "Artifact",
           "@id": "A-1107.2",
           "ref": "A-1107.2",
-          "description": "Tucker Carlson clip on donor intimidation: Charlie lost $2M donation two days before death for inviting Candace to Turning Point.",
+          "description": "Tucker Carlson clip on donor intimidation: Charlie lost a $2M donation two days before his death after publicly pledging to bring Tucker to the next Turning Point conference.",
           "related_claims": [
-            "C-1185"
+            "C-1185",
+            "C-3736"
           ],
           "related_nodes": [
             "N-50",
@@ -382,7 +384,7 @@
           ],
           "tags": [],
           "event_timestamp": "2026-03-17",
-          "video_timestamp": "00:58:39",
+          "video_timestamp": "00:45:45",
           "transcript_snippet": "two days before he died, he lost a $2 million donation… to bring me to the next Turning Point conference.",
           "confidence": "high"
         },
@@ -400,7 +402,7 @@
           ],
           "tags": [],
           "event_timestamp": "2026-03-17",
-          "video_timestamp": "01:07:23",
+          "video_timestamp": "00:52:17",
           "transcript_snippet": "Charlie is not the only one who's been threatened… I, too, have gotten that.",
           "confidence": "high"
         }
@@ -427,7 +429,7 @@
           ],
           "tags": [],
           "event_timestamp": "2026-03-17",
-          "video_timestamp": "01:13:49",
+          "video_timestamp": "00:57:09",
           "transcript_snippet": "I only wish at this tragic time of mourning she would be the friend to Charlie Kirk that he was to her.",
           "confidence": "high"
         }
@@ -452,7 +454,7 @@
           ],
           "tags": [],
           "event_timestamp": "2026-03-17",
-          "video_timestamp": "01:06:06",
+          "video_timestamp": "00:51:17",
           "transcript_snippet": "I have personal knowledge as to many of the claims Tucker is making here. They are 100% true.",
           "confidence": "high"
         }
@@ -479,7 +481,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
-          "video_timestamp": "00:36:22",
+          "video_timestamp": "00:28:26",
           "transcript_snippet": "identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
           "confidence": "high"
         }
@@ -1097,7 +1099,7 @@
       "tags": [],
       "claim_timestamp": "00:00:41",
       "investigative_direction": "Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.",
-      "transcript_snippet": "I played this game with my entire staff… someone used that term. The first was former military, second was a cop.",
+      "transcript_snippet": "I played this game with with my entire staff and um I was able to find since dating back for the last three years two messages where someone used that term. The first person was somebody that was former military and the second person was a cop.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-2",
@@ -1147,7 +1149,7 @@
         "N-1106"
       ],
       "tags": [],
-      "claim_timestamp": "00:06:16",
+      "claim_timestamp": "00:05:27",
       "investigative_direction": "Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.",
       "transcript_snippet": "even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.",
       "confidence": "medium",
@@ -1171,14 +1173,15 @@
         "N-1105"
       ],
       "tags": [],
-      "claim_timestamp": "00:09:58",
+      "claim_timestamp": "00:08:15",
       "investigative_direction": "Recover device timestamps and confirm Cox press transcript.",
       "transcript_snippet": "the earliest that that message could have been sent out is after 5:30 p.m.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-69",
         "N-71",
-        "N-102"
+        "N-102",
+        "N-70"
       ]
     },
     {
@@ -1200,7 +1203,7 @@
         "N-1105"
       ],
       "tags": [],
-      "claim_timestamp": "00:11:43",
+      "claim_timestamp": "00:10:04",
       "investigative_direction": "Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.",
       "transcript_snippet": "I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.",
       "confidence": "medium",
@@ -1221,7 +1224,7 @@
         "N-1107"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:24",
+      "claim_timestamp": "00:12:07",
       "investigative_direction": "Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.",
       "transcript_snippet": "I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.",
       "confidence": "high",
@@ -1244,7 +1247,7 @@
         "N-1109"
       ],
       "tags": [],
-      "claim_timestamp": "00:33:19",
+      "claim_timestamp": "00:26:12",
       "investigative_direction": "Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.",
       "transcript_snippet": "Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?",
       "confidence": "medium",
@@ -1268,7 +1271,7 @@
         "N-1111"
       ],
       "tags": [],
-      "claim_timestamp": "00:37:45",
+      "claim_timestamp": "00:29:45",
       "investigative_direction": "Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.",
       "transcript_snippet": "for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.",
       "confidence": "low",
@@ -1293,7 +1296,7 @@
         "N-1111"
       ],
       "tags": [],
-      "claim_timestamp": "00:42:28",
+      "claim_timestamp": "00:33:19",
       "investigative_direction": "Release full unedited video from both camera angles; forensic gait/posture analysis.",
       "transcript_snippet": "I think the person in the maroon that's walking is different from the person that's walking up the stairs.",
       "confidence": "low",
@@ -1313,13 +1316,14 @@
         "N-1110"
       ],
       "tags": [],
-      "claim_timestamp": "00:46:15",
+      "claim_timestamp": "00:36:23",
       "investigative_direction": "Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.",
       "transcript_snippet": "I already don't like that mom… received a bachelor of science from Stanford University in psychology.",
       "confidence": "low",
       "uncertainty_note": "Degree claim not independently sourced; presented as host assertion.",
       "mentions_person_refs": [
-        "N-103"
+        "N-103",
+        "N-84"
       ]
     },
     {
@@ -1338,20 +1342,46 @@
         "N-1112"
       ],
       "tags": [],
-      "claim_timestamp": "00:58:39",
+      "claim_timestamp": "00:45:45",
       "investigative_direction": "Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.",
       "transcript_snippet": "two days before he died, he lost a $2 million donation… people are really mad.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-45",
         "N-50",
         "N-65",
         "N-75",
         "N-104",
         "N-67",
         "N-86"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3736",
+      "ref": "C-3736",
+      "label": "Tucker Carlson, not Candace Owens, is the speaker whose Turning Point pledge cost Charlie Kirk a $2 million donation (corrects C-1185)",
+      "claim": "The clips played at 43:09 and 45:45 are Tucker Carlson speaking. He says that two days before Charlie Kirk died, Charlie lost a $2 million donation because he had publicly pledged to bring Tucker (\"me\") to the next Turning Point conference in December, and that Charlie texted him that he was taking heat for it. C-1185 attributes the speaking-slot pledge to Candace Owens; per the transcript the speaker and the invitee are Tucker Carlson.",
+      "anchored_artifacts": [
+        "A-1107.1",
+        "A-1107.2"
+      ],
+      "related_nodes": [
+        "N-1112"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:45–00:46:15",
+      "investigative_direction": "Read C-1185 together with this claim: re-attribute the donor-pressure account to Tucker Carlson's live show clip, then verify the $2M donation loss and the December Turning Point speaking pledge against TPUSA event flyers and donor records.",
+      "transcript_snippet": "two days before he died, he lost a $2 million donation because he had publicly pledged to bring me to the next Turning Point conference in December.",
+      "confidence": "high",
+      "contradicts_claim_refs": [
+        "C-1185"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-50",
+        "N-3"
       ]
     }
   ],
@@ -1365,7 +1395,7 @@
       "occurrences": [
         {
           "episode": 4,
-          "video_timestamp": "01:22:31",
+          "video_timestamp": "01:03:15",
           "speaker_node_ref": "N-3",
           "quote": "like his wife said, evildoers evildoers have done some things",
           "context": "Candace quoting Erika Kirk while vowing to continue investigating despite mourning-period pushback.",
@@ -1385,7 +1415,7 @@
       "occurrences": [
         {
           "episode": 4,
-          "video_timestamp": "01:03:47",
+          "video_timestamp": "00:49:39",
           "speaker_node_ref": "N-3",
           "quote": "it takes a truly demonic spirit… to flip in one second after he dies and say, 'Pretend it never happened.'",
           "context": "Candace describing donors/eulogizers who she claims pressured Charlie before his death.",
@@ -1396,7 +1426,7 @@
         },
         {
           "episode": 4,
-          "video_timestamp": "01:06:19",
+          "video_timestamp": "00:51:22",
           "speaker_node_ref": "N-104",
           "quote": "Yes, they were behaving like demons. There's just no question.",
           "context": "Matt Gaetz tweet quoted by Candace to corroborate 'demons' framing.",
@@ -1416,7 +1446,7 @@
       "occurrences": [
         {
           "episode": 4,
-          "video_timestamp": "00:15:32",
+          "video_timestamp": "00:12:14",
           "speaker_node_ref": "N-3",
           "quote": "That is why I am now a confirmed conspiracy theorist on this.",
           "context": "Candace self-labeling after noting the alleged 'changed outfits' language in texts.",
@@ -1427,9 +1457,9 @@
         },
         {
           "episode": 4,
-          "video_timestamp": "01:16:01",
+          "video_timestamp": "00:58:29",
           "speaker_node_ref": "N-3",
-          "quote": "I feel like this is a conspiracy, a federal level conspiracy",
+          "quote": "this is a conspiracy, a federal level conspiracy",
           "context": "Reasserting conspiracy framing against pastor's plea to stop investigating.",
           "confidence": "high",
           "tags": [
@@ -1447,9 +1477,9 @@
       "occurrences": [
         {
           "episode": 4,
-          "video_timestamp": "01:13:55",
+          "video_timestamp": "00:56:38",
           "speaker_node_ref": "N-3",
-          "quote": "this is exactly what Charlie's pastor passed around… Charlie's pastor couldn't find his voice when BBNet and Yahoo was lying about Charlie",
+          "quote": "This is what Charlie's pastor passed around to all of the people that were intimidating Charlie leading up to his death. ... Charlie's pastor couldn't find his voice when BB Netanyahu was lying about Charlie.",
           "context": "Candace accuses Rob McCoy of selectively using pastoral authority against her rather than against Netanyahu critics.",
           "confidence": "high",
           "tags": [

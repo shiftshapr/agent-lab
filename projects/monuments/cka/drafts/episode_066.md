@@ -544,7 +544,7 @@ Claim Timestamp: 00:39:28
 Claim: Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
 
 Anchored Artifacts: A-1710.1
-Mentions: N-2, N-16
+Mentions: N-2, N-16, N-3
 Investigative Direction: Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context.
 
 ---

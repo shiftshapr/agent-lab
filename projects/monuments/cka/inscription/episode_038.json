@@ -1389,6 +1389,22 @@
         "N-117",
         "N-3"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-406",
+      "ref": "N-406",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1409,7 +1425,8 @@
         "N-3",
         "N-898",
         "N-117",
-        "N-454"
+        "N-454",
+        "N-1"
       ]
     },
     {
@@ -1522,7 +1539,9 @@
       "tags": [],
       "claim_timestamp": "00:21:39",
       "investigative_direction": "Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1758,7 +1777,10 @@
       "investigative_direction": "Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.",
       "mentions_person_refs": [
         "N-88",
-        "N-451"
+        "N-451",
+        "N-406",
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -1778,7 +1800,8 @@
       "investigative_direction": "Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick \"Sam\"; obtain the full original PBD segment context.",
       "mentions_person_refs": [
         "N-451",
-        "N-453"
+        "N-453",
+        "N-3"
       ]
     },
     {

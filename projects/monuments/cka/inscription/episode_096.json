@@ -59,7 +59,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1712"
+            "N-1712",
+            "N-617"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +78,9 @@
             "C-2792"
           ],
           "related_nodes": [
-            "N-1712"
+            "N-1712",
+            "N-612",
+            "N-617"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -96,7 +99,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1713"
+            "N-1713",
+            "N-619"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -328,9 +332,9 @@
           "related_nodes": [
             "N-3",
             "N-91",
-            "N-27",
-            "N-28",
-            "N-32"
+            "N-293",
+            "N-622",
+            "N-903"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,7 +354,7 @@
           "related_nodes": [
             "N-3",
             "N-91",
-            "N-32"
+            "N-903"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -436,66 +440,6 @@
   ],
   "nodes": [
     {
-      "@type": "Person",
-      "@id": "N-27",
-      "ref": "N-27",
-      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-28",
-      "ref": "N-28",
-      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-32",
-      "ref": "N-32",
-      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-33",
-      "ref": "N-33",
-      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
-      "type": "person",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1712",
       "ref": "N-1712",
@@ -538,7 +482,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2"
+        "N-2",
+        "N-619"
       ]
     },
     {
@@ -816,6 +761,119 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-612",
+      "ref": "N-612",
+      "name": "Evan Hill",
+      "type": "person",
+      "description": "Washington Post investigative reporter; per the host (28:18), wrote on X that a Secret Service officer fired four times at Cole Allen and that the surveillance footage showed no indication Allen fired his weapon.",
+      "related_artifacts": [
+        "A-2008.2"
+      ],
+      "related_claims": [
+        "C-2792"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-617",
+      "ref": "N-617",
+      "name": "Cole Allen",
+      "type": "person",
+      "description": "Suspect in the White House Correspondents Dinner incident; per Evan Hill's X post read at 28:18, a Secret Service officer fired four times at him as he charged a security checkpoint.",
+      "related_artifacts": [
+        "A-2008.1",
+        "A-2008.2"
+      ],
+      "related_claims": [
+        "C-2791",
+        "C-2792"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-619",
+      "ref": "N-619",
+      "name": "Sarah Sidner",
+      "type": "person",
+      "description": "CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying \"I just want to go home.\" The host could not confirm she recorded it herself.",
+      "related_artifacts": [
+        "A-2008.3"
+      ],
+      "related_claims": [
+        "C-2793"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1713"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-622",
+      "ref": "N-622",
+      "name": "David Axelrod",
+      "type": "person",
+      "description": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).",
+      "related_artifacts": [
+        "A-2012.3"
+      ],
+      "related_claims": [
+        "C-2806"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-903",
+      "ref": "N-903",
+      "name": "Aubrey Lech",
+      "type": "person",
+      "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -836,8 +894,7 @@
       "investigative_direction": "Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.",
       "mentions_person_refs": [
         "N-3",
-        "N-5",
-        "N-33"
+        "N-5"
       ]
     },
     {
@@ -855,7 +912,9 @@
       "tags": [],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-617"
+      ]
     },
     {
       "@type": "Claim",
@@ -872,7 +931,10 @@
       "tags": [],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-612",
+        "N-617"
+      ]
     },
     {
       "@type": "Claim",
@@ -890,7 +952,8 @@
       "claim_timestamp": "00:31:35",
       "investigative_direction": "Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-619"
       ]
     },
     {
@@ -932,7 +995,8 @@
       "claim_timestamp": "00:37:46",
       "investigative_direction": "Verify the video directly on Erika Kirk's platforms; review production metadata if available.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -1029,7 +1093,8 @@
       "claim_timestamp": "00:43:54",
       "investigative_direction": "Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.",
       "mentions_person_refs": [
-        "N-410"
+        "N-410",
+        "N-1"
       ]
     },
     {
@@ -1150,9 +1215,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-91",
-        "N-27",
-        "N-28",
-        "N-32"
+        "N-293",
+        "N-622",
+        "N-903"
       ]
     },
     {

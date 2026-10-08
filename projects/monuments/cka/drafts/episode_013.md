@@ -524,7 +524,7 @@ Claim Timestamp: 00:03:00
 Claim: George Zinn was featured as one of approximately twenty endorsers on Phil Lyman's campaign website, with the text present on Wayback Machine no later than 2024-06-06.
 
 Anchored Artifacts: A-1197.1, A-1197.2
-Mentions: N-69, N-71
+Mentions: N-69, N-71, N-92
 
 
 Investigative Direction: Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.
@@ -567,7 +567,7 @@ Claim Timestamp: 00:04:53
 Claim: Multiple senior officials involved in the case were recent appointments at the time of the event — FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
-Mentions: N-191, N-192, N-193
+Mentions: N-191, N-192, N-193, N-70, N-102
 
 Related Nodes: N-1220, N-1222
 
@@ -582,6 +582,7 @@ Claim Timestamp: 00:06:17
 Claim: Despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.
 
 Anchored Artifacts: A-1199.4 (host source)
+Mentions: N-1
 
 Related Nodes: N-1221
 
@@ -611,7 +612,7 @@ Claim Timestamp: 00:27:00
 Claim: Benjamin Netanyahu conducted an on-camera meeting with US influencer Deborah Lee to discuss shaping US opinion, including in the context of Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-197
+Mentions: N-197, N-65, N-1
 
 
 Investigative Direction: Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.
@@ -653,7 +654,7 @@ Claim Timestamp: 00:35:01
 Claim: An X account identifying as "Florida Dab" publicly told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
 
 Anchored Artifacts: A-1201.1
-Mentions: N-195
+Mentions: N-195, N-3, N-75
 
 
 Investigative Direction: Archive the original post; identify the account's operator; map its network of similar accounts.
@@ -667,7 +668,7 @@ Claim Timestamp: 00:35:51
 Claim: Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.
 
 Anchored Artifacts: A-1202.1, A-1203.2
-Mentions: N-195, N-196, N-75
+Mentions: N-195, N-196, N-75, N-50, N-3
 
 
 Investigative Direction: Capture full thread context including replies not quoted on air.
@@ -681,7 +682,7 @@ Claim Timestamp: 00:35:51
 Claim: Constantine Kissen posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
 
 Anchored Artifacts: A-1203.1, A-1203.2
-Mentions: N-196
+Mentions: N-196, N-50, N-3, N-75
 
 
 Investigative Direction: Verify the post is from the same handle the host means; identify its operator and pattern of activity.
@@ -710,7 +711,7 @@ Claim: A commenter states that the FBI has severed ties with the ADL in the wake
 
 Anchored Artifacts: A-1207.1
 
-Related Nodes: N-1218
+Related Nodes:
 
 Investigative Direction: Verify against FBI press releases; identify the shared facility; check for any state or federal disclosure.
 
@@ -723,7 +724,7 @@ Claim Timestamp: 00:46:36
 Claim: One of Tyler Robinson's defense lawyers, Michael Bert, previously represented Richard Ramirez ("the Nightstalker").
 
 Anchored Artifacts: A-1206.1
-Mentions: N-199
+Mentions: N-199, N-69
 
 
 Investigative Direction: Verify against state bar records and published case dockets for both Ramirez and Robinson.

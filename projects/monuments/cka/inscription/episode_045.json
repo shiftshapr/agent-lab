@@ -500,6 +500,54 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-120",
+      "ref": "N-120",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Host cites Bondi saying Epstein-file release would cause global economic catastrophe.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -517,7 +565,8 @@
       "claim_timestamp": "00:03:31",
       "investigative_direction": "Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -551,8 +600,8 @@
       "claim_timestamp": "00:06:28",
       "investigative_direction": "Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -587,7 +636,9 @@
       "claim_timestamp": "00:24:32",
       "investigative_direction": "Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-50",
+        "N-205"
       ]
     },
     {
@@ -604,8 +655,10 @@
       "claim_timestamp": "00:24:45",
       "investigative_direction": "Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.",
       "mentions_person_refs": [
+        "N-2",
+        "N-50",
         "N-1",
-        "N-2"
+        "N-205"
       ]
     },
     {
@@ -622,7 +675,8 @@
       "claim_timestamp": "00:28:46",
       "investigative_direction": "Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-50"
       ]
     },
     {
@@ -638,7 +692,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:29:23",
-      "investigative_direction": "Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose."
+      "investigative_direction": "Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
     },
     {
       "@type": "Claim",
@@ -736,7 +793,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:20",
-      "investigative_direction": "Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests."
+      "investigative_direction": "Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.",
+      "mentions_person_refs": [
+        "N-120"
+      ]
     },
     {
       "@type": "Claim",
@@ -758,5 +818,26 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:55:36",
+          "speaker_node_ref": "N-3",
+          "quote": "The more I watch, the more fake and gay things are",
+          "context": "Viewer Lulu Mallerie comment elevated on air.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain"
+          ]
+        }
+      ]
+    }
+  ]
 }

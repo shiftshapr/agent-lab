@@ -477,6 +477,7 @@ Claim Timestamp: 00:02:39–00:03:30
 Claim: A UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.
 
 Anchored Artifacts: A-1333.2
+Mentions: N-1
 
 Related Nodes: N-1294
 
@@ -507,6 +508,7 @@ Claim Timestamp: 00:30:49–00:31:25
 Claim: A CNN segment aired in July 2025 contained on-air characterizations of Candace Owens including "disgusting," "anti-semite," "anti-gay," and claims about statements on slavery history.
 
 Anchored Artifacts: A-1335.1
+Mentions: N-3
 
 Related Nodes:
 

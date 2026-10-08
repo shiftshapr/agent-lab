@@ -30,8 +30,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959
-  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-559, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
+  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave2): N-2389
 
 ---, N-37
 
@@ -179,7 +180,7 @@ Video Timestamp: 00:39:39–00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1946, C-1947, C-1948, N-559, N-1422*
+*Related: C-1946, C-1947, C-1948, N-2389, N-1422*
 
 ---
 
@@ -303,18 +304,6 @@ Confidence Level: High
 
 ## IV. Node Register
 
-
-**N-588** Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes
-
-Node Type: person
-
-*Related:*
-
-**N-589** Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes
-
-Node Type: person
-
-*Related:*
 
 ### People
 
@@ -578,7 +567,10 @@ Investigative Pressure: Low
 
 ---
 
-**N-559** New York Post
+**N-2389** New York Post
+
+Node Type: Organization
+Organization Kind: media_outlet
 
 Published profile article on Candace Owens referenced in episode.
 
@@ -888,7 +880,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1546.1, C-1948, N-559*
+*Related: A-1546.1, C-1948, N-2389*
 
 ---
 
@@ -988,7 +980,7 @@ Claim Timestamp: 00:02:34
 Claim: A private meeting between Candace Owens, Erika Kolfage, and Justin Streif, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-43, N-588, N-589
+Mentions: N-2, N-3, N-43, N-59
 
 
 Investigative Direction: Verify meeting date, location, and stated duration against any third-party records.
@@ -1002,7 +994,7 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage confirmed she has Charlie Kirk's phone and that he primarily used Signal and Telegram for communications.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-1411
 
@@ -1017,7 +1009,7 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage acknowledged that Andrew Kolvet received a pre-incident message from Charlie Kirk stating "they're going to kill me."
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-42
+Mentions: N-2, N-42, N-1
 
 Related Nodes: N-1411
 
@@ -1032,7 +1024,7 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage stated that the message Dan Flood received from Charlie Kirk the night before read "the left is going to kill me."
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-434
+Mentions: N-2, N-434, N-1
 
 Related Nodes: N-1411
 
@@ -1047,7 +1039,7 @@ Claim Timestamp: 00:17:03
 Claim: The lawyer involved in the Tyler Robinson prosecution told Candace that they have nothing beyond the affidavit-stage evidence and will not have access to further evidence until the May probable cause hearing.
 
 Anchored Artifacts: A-1539.1, A-1540.1
-Mentions: N-2
+Mentions: N-2, N-69
 
 Related Nodes: N-1408
 
@@ -1076,7 +1068,7 @@ Claim Timestamp: 00:21:02
 Claim: Candace Owens spoke with a witness who filmed a person on the roof at 12:23 pm and did not see that person take the shot.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2
+Mentions: N-2, N-3
 
 Related Nodes: N-1408
 
@@ -1180,7 +1172,7 @@ Claim Timestamp: 00:32:14
 Claim: Three sources with knowledge confirmed to Candace that Bibi Netanyahu offered to fund TPUSA to the next level and that Charlie Kirk turned down the offer.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-65
+Mentions: N-2, N-65, N-1
 
 Related Nodes: N-1413
 
@@ -1225,7 +1217,7 @@ Claim Timestamp: 00:09:23
 Claim: TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2
+Mentions: N-2, N-410
 
 Related Nodes: N-1417
 
@@ -1240,7 +1232,7 @@ Claim Timestamp: 00:12:24
 Claim: Andrew Kolvet posted a tweet attributing to a surgeon the claim that Charlie Kirk's bone density was so healthy he was "like the man of steel" and the bullet should have passed through.
 
 Anchored Artifacts: A-1541.1
-Mentions: N-326
+Mentions: N-326, N-42, N-1
 
 Related Nodes: N-1412
 
@@ -1255,7 +1247,7 @@ Claim Timestamp: 00:13:14
 Claim: Per Candace, Andrew Kolvet acknowledged that the surgeon did not know he would write the tweet.
 
 Anchored Artifacts: A-1539.1, A-1541.2
-Mentions: N-326
+Mentions: N-326, N-42
 
 Related Nodes: N-1412
 
@@ -1270,7 +1262,7 @@ Claim Timestamp: 00:44:36
 Claim: Approximately one week prior, Tim Pool stated Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence.
 
 Anchored Artifacts: A-1545.1
-Mentions: N-426
+Mentions: N-426, N-3
 
 Related Nodes: N-1415
 
@@ -1285,7 +1277,7 @@ Claim Timestamp: 00:45:27
 Claim: Tim Pool currently states Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.
 
 Anchored Artifacts: A-1545.2
-Mentions: N-426
+Mentions: N-426, N-3, N-1, N-2
 
 Related Nodes: N-1415
 
@@ -1300,7 +1292,7 @@ Claim Timestamp: 00:46:06
 Claim: Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shafer Security, operated by Greg Shafer, employing Dan Flood and Brian Harpole.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-556
+Mentions: N-2, N-556, N-424, N-3, N-1, N-434
 
 Related Nodes: N-1415
 
@@ -1315,7 +1307,7 @@ Claim Timestamp: 00:46:06
 Claim: Candace has received no cease and desist from Charlie Kirk's security apparatus over security-related claims.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-1415
 
@@ -1330,7 +1322,8 @@ Claim Timestamp: 00:41:01
 Claim: New York Post article reported an anonymous source claim that Candace threw her car keys at a Daily Wire producer in her first week.
 
 Anchored Artifacts: A-1546.1
-Mentions: N-2, N-559
+Mentions: N-2
+Related Nodes: N-2389
 
 
 Investigative Direction: Verify the cited Daily Wire source and article publication date.
@@ -1344,7 +1337,8 @@ Claim Timestamp: 00:41:47
 Claim: Candace Owens states she never drove her car to the Daily Wire during her tenure; she had a driver.
 
 Anchored Artifacts: A-1546.1
-Mentions: N-2, N-559
+Mentions: N-2, N-3
+Related Nodes: N-2389
 
 
 Investigative Direction: Verify against Daily Wire security logs or contemporaneous records.
@@ -1358,9 +1352,9 @@ Claim Timestamp: 00:41:01
 Claim: Per Candace, her husband does not have a Qatari passport and has not flown to Qatar.
 
 Anchored Artifacts: A-1546.1
-Mentions: N-559
+Mentions: N-59
 
-Related Nodes: N-1422
+Related Nodes: N-1422, N-2389
 
 Investigative Direction: Verify travel and passport records.
 
@@ -1373,7 +1367,7 @@ Claim Timestamp: 00:53:11
 Claim: Turkey Tom produced a video asserting that he was in Discord chats with Tyler Robinson and that the published message style is authentic.
 
 Anchored Artifacts: A-1549.1
-Mentions: N-310, N-547, N-558
+Mentions: N-310, N-547, N-558, N-69
 
 
 Investigative Direction: Verify Turkey Tom's claimed Discord membership through chat logs or other participants.
@@ -1417,7 +1411,7 @@ Claim Timestamp: 00:11:35
 Claim: Erika Kolfage confirmed Charlie Kirk was attending mass; per third-party information relayed to Candace, he was reportedly planning to begin the Catholic conversion process.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-1421
 
@@ -1432,7 +1426,7 @@ Claim Timestamp: 00:31:16
 Claim: Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-65, N-67
+Mentions: N-65, N-67, N-1
 
 Related Nodes: N-1416
 

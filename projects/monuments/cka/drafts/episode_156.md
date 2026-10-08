@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2341, N-2342, N-2343, N-2344, N-2345
-  - Reused Nodes Appearing: N-1, N-2, N-1207, N-1208, N-1209, N-1210, N-36, N-37, N-46
+  - Reused Nodes Appearing: N-1, N-2, N-36, N-37, N-46
   - (see registers)
 
 # Episode 156 Analysis
@@ -111,7 +111,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read); Medium (host paraphrase)
 
-*Related: C-3535, N-1210, N-2342*
+*Related: C-3535, N-2342*
 
 **A-2421.2** Continuation of read-aloud warrant excerpt stating Agent Drainy (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read)
 
-*Related: C-3534, C-3535, N-1210, N-2342*
+*Related: C-3534, C-3535, N-2342*
 
 ---
 
@@ -230,7 +230,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3534, C-3535, A-2421.1, A-2421.2, N-1210*
+*Related: C-3534, C-3535, A-2421.1, A-2421.2*
 
 ---
 
@@ -314,6 +314,7 @@ Claim Timestamp: 00:10:34
 Claim: A Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger clearly shows a dual exhaust configuration at the rear.
 
 Anchored Artifacts: A-2419.1
+Mentions: N-69
 
 Related Nodes: N-2341, N-2345
 
@@ -342,8 +343,9 @@ Claim Timestamp: 00:18:05
 Claim: Per the search warrant as read, Agent Drainy (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.
 
 Anchored Artifacts: A-2421.2
+Mentions: N-69
 
-Related Nodes: N-1210, N-2342
+Related Nodes: N-2342
 
 Investigative Direction: File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents.
 
@@ -356,8 +358,9 @@ Claim Timestamp: 00:18:05
 Claim: A search warrant for Tyler Robinson's cell phone describes a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC) — approximately 23 minutes after the shooting.
 
 Anchored Artifacts: A-2421.1
+Mentions: N-69
 
-Related Nodes: N-1210, N-2342
+Related Nodes: N-2342
 
 Investigative Direction: Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson.
 
@@ -426,6 +429,7 @@ Claim Timestamp: 00:13:31
 Claim: The host observes that the sneakers worn by Tyler Robinson in the Dairy Queen surveillance photo do not appear to be Converse, and may be running shoes.
 
 Anchored Artifacts: A-2418.1
+Mentions: N-69
 
 Related Nodes: N-2343
 
@@ -440,6 +444,7 @@ Claim Timestamp: 00:10:34
 Claim: Based on the dual vs. quad exhaust discrepancy between Fox News's image of Tyler Robinson's towed vehicle and the multi-floor images of the parking-garage Challenger, the host asserts these are not the same vehicle.
 
 Anchored Artifacts: A-2419.1, A-2420.1
+Mentions: N-69
 
 Related Nodes: N-2341, N-2345
 
@@ -454,6 +459,7 @@ Claim Timestamp: 00:10:34
 Claim: Per tipster information, the cemetery where Tyler Robinson allegedly disposed of clothing contains two large dumpsters in the middle of it.
 
 Anchored Artifacts: A-2425.1
+Mentions: N-69
 
 Related Nodes: N-2345
 

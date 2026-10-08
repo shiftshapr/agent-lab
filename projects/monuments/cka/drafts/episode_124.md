@@ -412,7 +412,7 @@ Claim Timestamp: 00:04:24
 Claim: The displayed collage shows multiple influencers using the word "overwhelming" to describe the evidence against Tyler Robinson in the preliminary hearing.
 
 Anchored Artifacts: A-2115.1
-Mentions: N-2
+Mentions: N-2, N-69
 
 
 Investigative Direction: Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated.
@@ -426,6 +426,7 @@ Claim Timestamp: 00:05:14
 Claim: Josh Hammer stated on Court TV that the preliminary hearing presentation was "the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life."
 
 Anchored Artifacts: A-2116.1
+Mentions: N-86
 
 Related Nodes:
 
@@ -440,6 +441,7 @@ Claim Timestamp: 00:06:50
 Claim: Multiple pre-hearing media segments asserted that Tyler Robinson's parents identified him from news footage, interrogated him about his grandfather's gun, and helped him turn himself in to authorities.
 
 Anchored Artifacts: A-2117.1, A-2117.2, A-2117.3
+Mentions: N-69
 
 Related Nodes:
 
@@ -454,6 +456,7 @@ Claim Timestamp: 00:17:15
 Claim: Lance Twigs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.
 
 Anchored Artifacts: A-2118.1
+Mentions: N-69, N-84
 
 Related Nodes:
 
@@ -468,6 +471,7 @@ Claim Timestamp: 00:27:55
 Claim: Lance Twigs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.
 
 Anchored Artifacts: A-2118.2
+Mentions: N-69, N-1, N-84
 
 Related Nodes:
 
@@ -496,6 +500,7 @@ Claim Timestamp: 00:19:09
 Claim: The Dodge Challenger shown in preliminary hearing footage featured dual exhaust pipes, while Tyler Robinson's actual Dodge Challenger featured a singular exhaust system.
 
 Anchored Artifacts: A-2120.1, A-2120.2
+Mentions: N-69
 
 Related Nodes: N-2108
 
@@ -510,6 +515,7 @@ Claim Timestamp: 00:42:26
 Claim: Witness testimony confirmed that Exhibit 12.4 compilation video shows movements believed to be Robinson on campus but does not include footage of the alleged shooting itself.
 
 Anchored Artifacts: A-2121.1
+Mentions: N-69
 
 Related Nodes:
 
@@ -580,6 +586,7 @@ Claim Timestamp: 00:35:20
 Claim: Caitlyn Oliver confirmed that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).
 
 Anchored Artifacts: A-2124.3
+Mentions: N-69
 
 Related Nodes: N-2110
 
@@ -608,6 +615,7 @@ Claim Timestamp: 00:49:12
 Claim: Benny Johnson claimed in his post-court video that the court displayed "high-definition quality video 4K of Tyler Robinson committing the murder of Charlie Kirk" on "giant screens" with "crystal clear" visibility of face and license plate.
 
 Anchored Artifacts: A-2126.1
+Mentions: N-69, N-124, N-1
 
 Related Nodes:
 
@@ -622,7 +630,7 @@ Claim Timestamp: 01:01:37
 Claim: Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.
 
 Anchored Artifacts: A-2127.1
-Mentions: N-1
+Mentions: N-1, N-133
 
 Related Nodes: N-2111
 
@@ -637,6 +645,7 @@ Claim Timestamp: 00:24:20
 Claim: Text messages displayed on-screen between Tyler Robinson and Lance Twigs included lines such as "I am stuck in Orem for a little while longer yet," "if I'm able to grab my rifle unseen," and "Some hate just can't be negotiated out."
 
 Anchored Artifacts: A-2123.1
+Mentions: N-69, N-84
 
 Related Nodes:
 

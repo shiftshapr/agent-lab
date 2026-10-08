@@ -30,8 +30,6 @@
             "C-2885"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1210",
             "N-2065"
           ],
           "tags": [],
@@ -190,8 +188,6 @@
             "C-2893"
           ],
           "related_nodes": [
-            "N-1212",
-            "N-2",
             "N-2061"
           ],
           "tags": [],
@@ -218,8 +214,6 @@
             "C-2890"
           ],
           "related_nodes": [
-            "N-1211",
-            "N-1224",
             "N-2061"
           ],
           "tags": [],
@@ -238,8 +232,6 @@
             "C-2891"
           ],
           "related_nodes": [
-            "N-1224",
-            "N-1211",
             "N-2061"
           ],
           "tags": [],
@@ -267,9 +259,7 @@
             "C-2892"
           ],
           "related_nodes": [
-            "N-1214",
             "N-1",
-            "N-2",
             "N-2061"
           ],
           "tags": [],
@@ -296,8 +286,7 @@
             "C-2894"
           ],
           "related_nodes": [
-            "N-2",
-            "N-1221"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,9 +304,7 @@
             "C-2895"
           ],
           "related_nodes": [
-            "N-1213",
-            "N-2",
-            "N-1221"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -382,7 +369,6 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1222",
             "N-2062"
           ],
           "tags": [],
@@ -409,9 +395,6 @@
             "C-2898"
           ],
           "related_nodes": [
-            "N-1219",
-            "N-1223",
-            "N-2",
             "N-2062"
           ],
           "tags": [],
@@ -438,7 +421,6 @@
             "C-2901"
           ],
           "related_nodes": [
-            "N-1215",
             "N-2064"
           ],
           "tags": [],
@@ -457,8 +439,6 @@
             "C-2902"
           ],
           "related_nodes": [
-            "N-1215",
-            "N-1216",
             "N-2064"
           ],
           "tags": [],
@@ -485,8 +465,6 @@
             "C-2903"
           ],
           "related_nodes": [
-            "N-1217",
-            "N-1215",
             "N-2064"
           ],
           "tags": [],
@@ -514,10 +492,8 @@
             "C-2908"
           ],
           "related_nodes": [
-            "N-1218",
             "N-2",
-            "N-1207",
-            "N-2063"
+            "N-1444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -536,10 +512,7 @@
             "C-2907"
           ],
           "related_nodes": [
-            "N-1218",
-            "N-1207",
-            "N-2",
-            "N-2063"
+            "N-1444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -557,11 +530,8 @@
             "C-2906"
           ],
           "related_nodes": [
-            "N-1225",
-            "N-1218",
             "N-2",
-            "N-1207",
-            "N-2063"
+            "N-1444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -574,455 +544,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Turning Point USA executive referenced across multiple evidentiary threads in this episode: subject of false divorce rumor, alleged provider of Fort Huachuca alibi photo, reported coordinator with Paramount Tactical and Valhalla.",
-      "related_artifacts": [
-        "A-2062.1",
-        "A-2063.1",
-        "A-2065.1",
-        "A-2075.2",
-        "A-2075.3"
-      ],
-      "related_claims": [
-        "C-2884",
-        "C-2885",
-        "C-2887",
-        "C-2905",
-        "C-2906",
-        "C-2907"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2",
-        "N-1218",
-        "N-2063",
-        "N-2065"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Turning Point USA communications figure; defended Kolvet's WHCD absence; previously expressed concern about AI accusations if the Charlie audio were released.",
-      "related_artifacts": [
-        "A-2065.1",
-        "A-2066.1"
-      ],
-      "related_claims": [
-        "C-2887"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-2061",
-        "N-2065"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "X account that originated the Andrew Kolvet divorce rumor and responded to backlash.",
-      "related_artifacts": [
-        "A-2062.1"
-      ],
-      "related_claims": [
-        "C-2885"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-2065"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Turning Point USA employee described as a \"rehabilitated former arms dealer\" who provides AI voice services for TPUSA presentations, per source testimony.",
-      "related_artifacts": [
-        "A-2068.1",
-        "A-2068.2"
-      ],
-      "related_claims": [
-        "C-2890",
-        "C-2891"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1224",
-        "N-2061"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Public figure who publicly questioned why the Charlie Kirk \"I appoint my wife\" audio matters if the board elected Erika.",
-      "related_artifacts": [
-        "A-2067.1"
-      ],
-      "related_claims": [
-        "C-2893"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-2061"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Social media user who publicly criticized Hillsdale College's Erika Kirk honorary doctorate as DEI contradiction.",
-      "related_artifacts": [
-        "A-2070.2"
-      ],
-      "related_claims": [
-        "C-2895"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-1221"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Public figure who introduced Charlie Kirk to his \"biggest donor\"; shared Aspen donor's claim that the audio nomination moment never happened.",
-      "related_artifacts": [
-        "A-2069.1"
-      ],
-      "related_claims": [
-        "C-2888",
-        "C-2892"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-2061"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "23-year-old self-styled journalist; subject of Candace's skepticism regarding Brazilian favela infiltration video; central to this episode's \"Nick Shirley drama\" segment.",
-      "related_artifacts": [
-        "A-2073.1",
-        "A-2073.2",
-        "A-2074.1"
-      ],
-      "related_claims": [
-        "C-2901",
-        "C-2902",
-        "C-2903"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1216",
-        "N-1217",
-        "N-2064"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Host of PBD Podcast; interviewed Nick Shirley on the AI audio/Candace controversy.",
-      "related_artifacts": [
-        "A-2073.2"
-      ],
-      "related_claims": [
-        "C-2902"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215",
-        "N-2064"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Public figure who defended Nick Shirley on social media with the tweet \"Nick Shirley is a real journalist. Candace Owens is not.\"",
-      "related_artifacts": [
-        "A-2074.1"
-      ],
-      "related_claims": [
-        "C-2903"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215",
-        "N-2064"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Subject of the Fort Huachuca sighting allegations and the disputed alibi documentation; reported as having filed a lawsuit containing allegedly false statements.",
-      "related_artifacts": [
-        "A-2075.1",
-        "A-2075.2",
-        "A-2075.3"
-      ],
-      "related_claims": [
-        "C-2904",
-        "C-2905",
-        "C-2906",
-        "C-2907",
-        "C-2908"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2",
-        "N-1207",
-        "N-2063"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Online investigator who helped verify ASU did not offer international relations degree in 2012.",
-      "related_artifacts": [
-        "A-2072.1"
-      ],
-      "related_claims": [
-        "C-2898"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-1223",
-        "N-2062"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Named by host's source as the typical voice used in TPUSA AI-generated presentations.",
-      "related_artifacts": [
-        "A-2068.2"
-      ],
-      "related_claims": [
-        "C-2891"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1211",
-        "N-2061"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Conservative institution that hosted Erika Kirk's commencement address and awarded her an honorary doctorate.",
-      "related_artifacts": [
-        "A-2070.1",
-        "A-2070.2"
-      ],
-      "related_claims": [
-        "C-2894",
-        "C-2895"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2",
-        "N-1213"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Institution cited by Erika Kirk's LinkedIn as the source of a claimed Doctor of Education in Christian Leadership.",
-      "related_artifacts": [
-        "A-2071.3"
-      ],
-      "related_claims": [
-        "C-2899"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-2062"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "Institution whose 2012 course catalog is the basis for verifying Erika's claimed political science/international relations degree.",
-      "related_artifacts": [
-        "A-2072.1"
-      ],
-      "related_claims": [
-        "C-2898"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2",
-        "N-1219",
-        "N-2062"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1224",
-      "ref": "N-1224",
-      "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
-      "description": "YouTuber who defended Brian Harpole's Fort Huachuca alibi and later admitted the alibi photograph boy is not Erika Kirk's son.",
-      "related_artifacts": [
-        "A-2075.3"
-      ],
-      "related_claims": [
-        "C-2906",
-        "C-2907"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1218",
-        "N-2063"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1225",
-      "ref": "N-1225",
-      "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
-      "description": "YouTuber identified by host as coordinating with Paramount Tactical and Andrew Kolvet on the Harpole alibi pushback.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2907"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1218",
-        "N-1224",
-        "N-2063"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2061",
@@ -1053,12 +574,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-2",
-        "N-1209",
-        "N-1211",
-        "N-1212",
-        "N-1214",
-        "N-1220"
+        "N-2"
       ]
     },
     {
@@ -1086,42 +602,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2",
-        "N-1219",
-        "N-1222",
-        "N-1223"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-2063",
-      "ref": "N-2063",
-      "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
-      "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
-      "related_artifacts": [
-        "A-2075.1",
-        "A-2075.2",
-        "A-2075.3"
-      ],
-      "related_claims": [
-        "C-2904",
-        "C-2905",
-        "C-2906",
-        "C-2907",
-        "C-2908"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2",
-        "N-1207",
-        "N-1218",
-        "N-1224",
-        "N-1225"
+        "N-2"
       ]
     },
     {
@@ -1145,12 +626,7 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1215",
-        "N-1216",
-        "N-1217"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1177,10 +653,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1207",
-        "N-70",
-        "N-1209",
-        "N-1210"
+        "N-70"
       ]
     },
     {
@@ -1245,6 +718,178 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1444",
+      "ref": "N-1444",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
+      "related_artifacts": [
+        "A-2075.1",
+        "A-2075.2",
+        "A-2075.3"
+      ],
+      "related_claims": [
+        "C-2904",
+        "C-2905",
+        "C-2906",
+        "C-2907",
+        "C-2908"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-88",
+      "ref": "N-88",
+      "name": "Patrick Bet-David",
+      "type": "person",
+      "description": "Host of PBD Podcast; platform through which Sosnick segment was aired.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-135",
+      "ref": "N-135",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-318",
+      "ref": "N-318",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-1632 / N-2064.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1258,12 +903,14 @@
         "A-2063.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2065"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
-      "investigative_direction": "Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records."
+      "investigative_direction": "Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1275,12 +922,14 @@
         "A-2062.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-2065"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
-      "investigative_direction": "Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis."
+      "investigative_direction": "Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -1315,7 +964,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
-      "investigative_direction": "Verify the original post; check WHCD invitation lists if publicly available."
+      "investigative_direction": "Verify the original post; check WHCD invitation lists if publicly available.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -1329,7 +982,6 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-2061"
       ],
       "tags": [],
@@ -1370,8 +1022,6 @@
         "A-2068.1"
       ],
       "related_nodes": [
-        "N-1211",
-        "N-1220",
         "N-2061"
       ],
       "tags": [],
@@ -1388,8 +1038,6 @@
         "A-2068.2"
       ],
       "related_nodes": [
-        "N-1224",
-        "N-1211",
         "N-2061"
       ],
       "tags": [],
@@ -1406,7 +1054,6 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-2061"
       ],
       "tags": [],
@@ -1414,7 +1061,7 @@
       "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-217"
       ]
     },
     {
@@ -1427,7 +1074,6 @@
         "A-2067.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-2061"
       ],
       "tags": [],
@@ -1446,9 +1092,7 @@
       "anchored_artifacts": [
         "A-2070.1"
       ],
-      "related_nodes": [
-        "N-1221"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:43",
       "investigative_direction": "Obtain Hillsdale College's official press release or commencement program; verify the date and the credentials cited for the award.",
@@ -1465,10 +1109,7 @@
       "anchored_artifacts": [
         "A-2070.2"
       ],
-      "related_nodes": [
-        "N-1213",
-        "N-1221"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:39",
       "investigative_direction": "Verify the original post; cross-reference Hillsdale's public statements on DEI.",
@@ -1486,7 +1127,6 @@
         "A-2071.1"
       ],
       "related_nodes": [
-        "N-1223",
         "N-2062"
       ],
       "tags": [],
@@ -1506,7 +1146,6 @@
         "A-2071.2"
       ],
       "related_nodes": [
-        "N-1223",
         "N-2062"
       ],
       "tags": [],
@@ -1526,14 +1165,13 @@
         "A-2072.1"
       ],
       "related_nodes": [
-        "N-1219",
-        "N-1223",
         "N-2062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
       "investigative_direction": "Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.",
       "mentions_person_refs": [
+        "N-552",
         "N-2"
       ]
     },
@@ -1547,7 +1185,6 @@
         "A-2071.3"
       ],
       "related_nodes": [
-        "N-1222",
         "N-2062"
       ],
       "tags": [],
@@ -1567,12 +1204,14 @@
         "A-2073.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-2064"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
-      "investigative_direction": "Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts)."
+      "investigative_direction": "Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts).",
+      "mentions_person_refs": [
+        "N-318"
+      ]
     },
     {
       "@type": "Claim",
@@ -1584,13 +1223,16 @@
         "A-2073.2"
       ],
       "related_nodes": [
-        "N-1216",
-        "N-1215",
         "N-2064"
       ],
       "tags": [],
       "claim_timestamp": "00:28:51",
-      "investigative_direction": "Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage."
+      "investigative_direction": "Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage.",
+      "mentions_person_refs": [
+        "N-88",
+        "N-3",
+        "N-318"
+      ]
     },
     {
       "@type": "Claim",
@@ -1602,13 +1244,16 @@
         "A-2074.1"
       ],
       "related_nodes": [
-        "N-1217",
-        "N-1215",
         "N-2064"
       ],
       "tags": [],
       "claim_timestamp": "00:30:15",
-      "investigative_direction": "Verify the original post and Alex Clark's relationship with Nick Shirley."
+      "investigative_direction": "Verify the original post and Alex Clark's relationship with Nick Shirley.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-318",
+        "N-135"
+      ]
     },
     {
       "@type": "Claim",
@@ -1620,14 +1265,13 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-1218",
-        "N-2063"
+        "N-1444"
       ],
       "tags": [],
       "claim_timestamp": "00:49:33",
       "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.",
       "mentions_person_refs": [
-        "N-2"
+        "N-424"
       ]
     },
     {
@@ -1640,13 +1284,13 @@
         "A-2075.2"
       ],
       "related_nodes": [
-        "N-1218",
-        "N-2063"
+        "N-1444"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
       "investigative_direction": "Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.",
       "mentions_person_refs": [
+        "N-42",
         "N-2"
       ]
     },
@@ -1660,9 +1304,7 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-1224",
-        "N-1218",
-        "N-2063"
+        "N-1444"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -1682,14 +1324,15 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-1218",
-        "N-1224",
-        "N-1225",
-        "N-2063"
+        "N-1444"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
-      "investigative_direction": "Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla."
+      "investigative_direction": "Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1701,13 +1344,13 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-1218",
-        "N-2063"
+        "N-1444"
       ],
       "tags": [],
       "claim_timestamp": "00:45:18",
       "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently.",
       "mentions_person_refs": [
+        "N-424",
         "N-2"
       ]
     }

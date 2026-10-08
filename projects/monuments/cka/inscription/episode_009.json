@@ -40,7 +40,7 @@
             "N-59"
           ],
           "tags": [],
-          "video_timestamp": "00:12:01–00:12:38",
+          "video_timestamp": "00:10:23–00:11:00",
           "transcript_snippet": "Reme $450 in coach or 1,200 in first class. And he's like, \"Wow, let's book it.\"",
           "confidence": "high"
         },
@@ -59,7 +59,7 @@
             "N-1179"
           ],
           "tags": [],
-          "video_timestamp": "00:16:44–00:17:54",
+          "video_timestamp": "00:13:36–00:14:46",
           "transcript_snippet": "I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.",
           "confidence": "high"
         }
@@ -85,7 +85,7 @@
             "N-1177"
           ],
           "tags": [],
-          "video_timestamp": "00:28:09–00:32:11",
+          "video_timestamp": "00:22:24–00:26:26",
           "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
           "confidence": "medium"
         },
@@ -101,7 +101,7 @@
             "N-148"
           ],
           "tags": [],
-          "video_timestamp": "00:28:42–00:29:15",
+          "video_timestamp": "00:22:45–00:23:18",
           "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
           "confidence": "high"
         },
@@ -118,7 +118,7 @@
             "N-1186"
           ],
           "tags": [],
-          "video_timestamp": "00:29:27–00:30:19",
+          "video_timestamp": "00:23:37–00:24:29",
           "transcript_snippet": "Lining up a bunch of socialist Jews…blasting their useless brains out with an AR.",
           "confidence": "high"
         },
@@ -135,8 +135,8 @@
             "N-1177"
           ],
           "tags": [],
-          "video_timestamp": "00:31:02–00:31:54",
-          "transcript_snippet": "Best places for a mass shooting. How to make Molotov cocktails, mixing gasoline with styrofoam.",
+          "video_timestamp": "00:24:53–00:25:45",
+          "transcript_snippet": "he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam",
           "confidence": "high"
         }
       ]
@@ -163,7 +163,7 @@
             "N-1183"
           ],
           "tags": [],
-          "video_timestamp": "00:42:20–00:43:58",
+          "video_timestamp": "00:34:05–00:35:43",
           "transcript_snippet": "Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.",
           "confidence": "high"
         }
@@ -194,7 +194,7 @@
             "N-1185"
           ],
           "tags": [],
-          "video_timestamp": "00:38:33–00:40:25",
+          "video_timestamp": "00:31:04–00:32:56",
           "transcript_snippet": "People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…",
           "confidence": "high"
         }
@@ -219,7 +219,7 @@
             "N-1190"
           ],
           "tags": [],
-          "video_timestamp": "00:34:37–00:35:17",
+          "video_timestamp": "00:27:59–00:28:39",
           "transcript_snippet": "We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.",
           "confidence": "high"
         }
@@ -244,7 +244,7 @@
             "N-1179"
           ],
           "tags": [],
-          "video_timestamp": "00:18:56–00:21:07",
+          "video_timestamp": "00:15:00–00:17:11",
           "transcript_snippet": "I'm homeschooling my kids. I'm so excited…a weight got lift off of my shoulders.",
           "confidence": "high"
         }
@@ -270,7 +270,7 @@
             "N-1176"
           ],
           "tags": [],
-          "video_timestamp": "00:55:36–00:56:18",
+          "video_timestamp": "00:43:41–00:44:23",
           "transcript_snippet": "It also shows him changing clothes and he is not alone. There is a woman with him.",
           "confidence": "low"
         }
@@ -1218,7 +1218,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:12:01",
+      "claim_timestamp": "00:10:23",
       "investigative_direction": "Verify text chain authenticity and timestamp; cross-check flight records.",
       "transcript_snippet": "Reme $450 in coach or 1,200 in first class.",
       "confidence": "high",
@@ -1243,7 +1243,7 @@
         "N-1192"
       ],
       "tags": [],
-      "claim_timestamp": "00:12:38",
+      "claim_timestamp": "00:09:13",
       "investigative_direction": "Corroborate via marriage records, flight manifests, and Turning Point UK launch date.",
       "transcript_snippet": "I didn't know him. I never even saw his face 18 day 18 days prior.",
       "confidence": "medium",
@@ -1265,7 +1265,7 @@
         "N-1179"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:44",
+      "claim_timestamp": "00:14:15",
       "investigative_direction": "Verify timestamps against phone records; preserve screenshots for chain-of-custody.",
       "transcript_snippet": "Imminent danger is coming…communist underground…has something to do with bees.",
       "confidence": "high",
@@ -1312,7 +1312,7 @@
         "N-1182"
       ],
       "tags": [],
-      "claim_timestamp": "00:28:09",
+      "claim_timestamp": "00:22:24",
       "investigative_direction": "Obtain full document; forensically authenticate scrape and timestamps.",
       "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
       "confidence": "medium",
@@ -1331,7 +1331,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:28:42",
+      "claim_timestamp": "00:22:45",
       "investigative_direction": "Confirm via original-platform uploads and metadata.",
       "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
       "confidence": "high",
@@ -1352,7 +1352,7 @@
         "N-1186"
       ],
       "tags": [],
-      "claim_timestamp": "00:29:27",
+      "claim_timestamp": "00:23:37",
       "investigative_direction": "Recover original YouTube comments and timestamps via scrape or platform archives.",
       "transcript_snippet": "Blasting their useless brains out with an AR…heads chopped off and put on stakes.",
       "confidence": "high",
@@ -1373,9 +1373,9 @@
         "N-1177"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:02",
+      "claim_timestamp": "00:24:53",
       "investigative_direction": "Obtain original search-history logs or corroborating scrape; verify timeline.",
-      "transcript_snippet": "Best places for a mass shooting. How to make Molotov cocktails.",
+      "transcript_snippet": "he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-148"
@@ -1396,13 +1396,14 @@
         "N-1183"
       ],
       "tags": [],
-      "claim_timestamp": "00:42:20",
+      "claim_timestamp": "00:34:05",
       "investigative_direction": "Recover Jezebel article and Etsy listings; verify priest consultation with family.",
       "transcript_snippet": "Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-2",
-        "N-75"
+        "N-75",
+        "N-1"
       ]
     },
     {
@@ -1418,7 +1419,7 @@
         "N-1185"
       ],
       "tags": [],
-      "claim_timestamp": "00:38:33",
+      "claim_timestamp": "00:31:04",
       "investigative_direction": "Verify exact quote against full Kimmel monologue transcript.",
       "transcript_snippet": "People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…",
       "confidence": "high",
@@ -1445,7 +1446,7 @@
         "N-1190"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:37",
+      "claim_timestamp": "00:27:59",
       "investigative_direction": "Confirm authenticity and release date via Riverbend Ranch.",
       "transcript_snippet": "We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.",
       "confidence": "high",
@@ -1469,7 +1470,7 @@
         "N-1193"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:56",
+      "claim_timestamp": "00:15:00",
       "investigative_direction": "Verify date and obtain full recording.",
       "transcript_snippet": "I'm homeschooling my kids. I'm so excited.",
       "confidence": "high",
@@ -1492,7 +1493,7 @@
         "N-1176"
       ],
       "tags": [],
-      "claim_timestamp": "00:55:36",
+      "claim_timestamp": "00:43:41",
       "investigative_direction": "Obtain original video from Natalie; verify identity of woman and chain of custody.",
       "transcript_snippet": "It also shows him changing clothes and he is not alone. There is a woman with him.",
       "confidence": "low",
@@ -1517,7 +1518,10 @@
       "claim_timestamp": "00:01:42",
       "investigative_direction": "Identify and corroborate the source; FOIA communications between FBI and Utah authorities.",
       "transcript_snippet": "The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.",
-      "confidence": "low"
+      "confidence": "low",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1535,7 +1539,8 @@
       "transcript_snippet": "There is absolutely no video which shows Tyler Robinson firing the weapon.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69"
+        "N-69",
+        "N-1"
       ]
     },
     {
@@ -1589,7 +1594,7 @@
         "N-1176"
       ],
       "tags": [],
-      "claim_timestamp": "00:08:59",
+      "claim_timestamp": "00:07:58",
       "investigative_direction": "Obtain forensic print report from court filings.",
       "transcript_snippet": "It's not the only set of prints that are on that gun.",
       "confidence": "low",
@@ -1686,7 +1691,7 @@
       "occurrences": [
         {
           "episode": 9,
-          "video_timestamp": "00:12:38",
+          "video_timestamp": "00:10:29",
           "speaker_node_ref": "N-3",
           "quote": "I just realized the reason that I had this overwhelming feeling to be there was because I was supposed to be my husband.",
           "context": "Candace recasts 'intuition/premonition' as God-guided happy coincidence leading to husband meeting.",
@@ -1707,33 +1712,13 @@
       "occurrences": [
         {
           "episode": 9,
-          "video_timestamp": "00:10:42",
+          "video_timestamp": "00:09:06",
           "speaker_node_ref": "N-3",
           "quote": "I get all the conspiracies online when people were like there's no way she her and her husband got engaged after 18 days.",
           "context": "Host pre-emptively cites conspiracy-theorist mockery of her 18-day engagement; uses term to dismiss critics.",
           "confidence": "high",
           "tags": [
             "self_reference"
-          ]
-        }
-      ]
-    },
-    {
-      "@type": "MemeAnalysis",
-      "@id": "M-7",
-      "ref": "M-7",
-      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
-      "type": "meme",
-      "occurrences": [
-        {
-          "episode": 9,
-          "video_timestamp": "00:41:58–00:42:08",
-          "speaker_node_ref": "N-3",
-          "quote": "At different times, it says Mormon. Other times, it says Church of Jesus Christ of Latter-day Saints",
-          "context": "Answering a viewer correction (viewer handle not noded), the host concedes she oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.",
-          "confidence": "high",
-          "tags": [
-            "denominational_naming"
           ]
         }
       ]

@@ -40,7 +40,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T18:38:00",
-          "video_timestamp": "00:06:40–00:09:10",
+          "video_timestamp": "00:05:44–00:08:14",
           "transcript_snippet": "a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.",
           "confidence": "medium"
         }
@@ -69,7 +69,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T08:07:00",
-          "video_timestamp": "00:12:30–00:18:30",
+          "video_timestamp": "00:10:40–00:16:40",
           "transcript_snippet": "doorbell cam footage… mysteriously made its way to TMZ the morning after Charlie's assassination.",
           "confidence": "high"
         },
@@ -88,7 +88,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:16:14–00:17:25",
+          "video_timestamp": "00:13:32–00:14:43",
           "transcript_snippet": "Irwin Steel was another neighbor who was met with officers in his front yard… helping authorities by giving them any footage.",
           "confidence": "high"
         }
@@ -118,7 +118,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-10 (evening)",
-          "video_timestamp": "00:20:55–00:21:35",
+          "video_timestamp": "00:17:19–00:17:59",
           "transcript_snippet": "Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.",
           "confidence": "high"
         }
@@ -148,7 +148,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
-          "video_timestamp": "00:23:50–00:27:25",
+          "video_timestamp": "00:20:00–00:23:35",
           "transcript_snippet": "We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience yesterday afternoon.",
           "confidence": "high"
         }
@@ -176,7 +176,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09 (post-assassination)",
-          "video_timestamp": "00:40:35–00:42:35",
+          "video_timestamp": "00:33:18–00:35:18",
           "transcript_snippet": "while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.",
           "confidence": "high"
         }
@@ -208,7 +208,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09 (post-assassination)",
-          "video_timestamp": "00:47:34–00:49:10",
+          "video_timestamp": "00:40:13–00:41:49",
           "transcript_snippet": "she's not she's not one of the names… she doesn't speak at the events anymore.",
           "confidence": "high"
         }
@@ -235,7 +235,7 @@
           ],
           "tags": [],
           "event_timestamp": "2025-09 (post-assassination)",
-          "video_timestamp": "00:46:00–00:47:00",
+          "video_timestamp": "00:38:26–00:39:26",
           "transcript_snippet": "Blackman published these private text messages… missing from these messages are like a date, a context.",
           "confidence": "medium"
         }
@@ -261,8 +261,8 @@
           ],
           "tags": [],
           "event_timestamp": "Pre-2025-09-10 (per host)",
-          "video_timestamp": "01:10:55–01:11:25",
-          "transcript_snippet": "the book about Charlie's assassination on Amazon that was available the day before it happened… Amazon issued a response blaming technical issues.",
+          "video_timestamp": "00:55:50–00:56:20",
+          "transcript_snippet": "did you see the book about Charlie's assassination on Amazon that was available the day before it happened? ... Um, Amazon issued a response apparently. This is my producers's note, blaming it on technical issues for the incorrect date of the publication of the title and Amazon removed the book.",
           "confidence": "medium",
           "uncertainty_note": "Host attributes to listener tip; producer note supplied"
         }
@@ -288,7 +288,7 @@
           ],
           "tags": [],
           "event_timestamp": "Pre-2025-09-12 (per host)",
-          "video_timestamp": "01:11:30–01:11:55",
+          "video_timestamp": "00:56:17–00:56:42",
           "transcript_snippet": "some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.",
           "confidence": "low"
         }
@@ -1190,7 +1190,7 @@
         "N-1127"
       ],
       "tags": [],
-      "claim_timestamp": "00:06:54",
+      "claim_timestamp": "00:05:44",
       "investigative_direction": "Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.",
       "transcript_snippet": "a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.",
       "confidence": "medium",
@@ -1252,12 +1252,11 @@
       ],
       "related_nodes": [
         "N-1076",
-        "N-1127",
-        "N-1115",
-        "N-1117"
+        "N-1117",
+        "N-1127"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:13",
+      "claim_timestamp": "00:11:02",
       "investigative_direction": "Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.",
       "transcript_snippet": "TMZ is the first on September 10th. That tells us that there is doorbell cam footage.",
       "confidence": "high",
@@ -1277,11 +1276,10 @@
         "A-1113.1"
       ],
       "related_nodes": [
-        "N-1123",
-        "N-1115"
+        "N-1123"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:50",
+      "claim_timestamp": "00:17:19",
       "investigative_direction": "Confirm Sherry Steel exists in property / building databases; obtain her withheld video from BBC.",
       "transcript_snippet": "Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.",
       "confidence": "high",
@@ -1305,15 +1303,15 @@
         "N-1115"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:54",
+      "claim_timestamp": "00:20:38",
       "investigative_direction": "Corroborate the family's UVU attendance, family-of-16 size, and relationship to one another.",
       "transcript_snippet": "We had 16 of us there. So, five adults and like 11 children.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1",
         "N-110",
         "N-111",
-        "N-112"
+        "N-112",
+        "N-1"
       ]
     },
     {
@@ -1330,13 +1328,14 @@
         "N-1091"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:35",
+      "claim_timestamp": "00:33:18",
       "investigative_direction": "Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.",
       "transcript_snippet": "somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-65",
-        "N-116"
+        "N-116",
+        "N-1"
       ]
     },
     {
@@ -1355,7 +1354,7 @@
         "N-1122"
       ],
       "tags": [],
-      "claim_timestamp": "00:48:01",
+      "claim_timestamp": "00:39:27",
       "investigative_direction": "Compare PBD clip against TPUSA published tour / speaker schedules from 2024–2025.",
       "transcript_snippet": "When's the last time she was at a Turning Point event? Uh, not in many years.",
       "confidence": "high",
@@ -1381,14 +1380,14 @@
         "N-1121"
       ],
       "tags": [],
-      "claim_timestamp": "00:46:00",
+      "claim_timestamp": "00:38:26",
       "investigative_direction": "Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.",
       "transcript_snippet": "Blackman published these private text messages… missing from these messages are like a date, a context.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-1",
         "N-3",
-        "N-66"
+        "N-66",
+        "N-1"
       ]
     },
     {
@@ -1404,7 +1403,7 @@
         "N-1113"
       ],
       "tags": [],
-      "claim_timestamp": "01:10:55",
+      "claim_timestamp": "00:55:50",
       "investigative_direction": "Retrieve Amazon listing history via Wayback Machine and confirm Amazon's technical-issue statement.",
       "transcript_snippet": "the book about Charlie's assassination on Amazon that was available the day before it happened.",
       "confidence": "medium",
@@ -1426,12 +1425,13 @@
         "N-1113"
       ],
       "tags": [],
-      "claim_timestamp": "01:11:30",
+      "claim_timestamp": "00:56:17",
       "investigative_direction": "Recover the original upload via Wayback / platform archives; confirm upload timestamps and artist identity.",
       "transcript_snippet": "some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69"
+        "N-69",
+        "N-1"
       ]
     },
     {
@@ -1446,7 +1446,7 @@
         "N-1118"
       ],
       "tags": [],
-      "claim_timestamp": "00:29:50",
+      "claim_timestamp": "00:24:56",
       "investigative_direction": "Cross-check federal affidavit language re 'woods'; obtain property records for the chicken-coop site.",
       "transcript_snippet": "the gun was found in the backyard of someone that I know… it was found by a chicken coop.",
       "confidence": "medium",
@@ -1468,7 +1468,7 @@
         "N-1118"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:30",
+      "claim_timestamp": "00:25:22",
       "investigative_direction": "Pull county property records for the parcel; confirm UVU ownership and occupancy status.",
       "transcript_snippet": "the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.",
       "confidence": "low",
@@ -1487,7 +1487,7 @@
         "N-1115"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:56",
+      "claim_timestamp": "00:19:02",
       "investigative_direction": "Independent database search; pull tenant rolls from the property management company.",
       "transcript_snippet": "I cannot find a woman named Sher Steel that lives in that building complex.",
       "confidence": "medium",
@@ -1506,7 +1506,7 @@
         "N-1000"
       ],
       "tags": [],
-      "claim_timestamp": "00:49:24",
+      "claim_timestamp": "00:40:26",
       "investigative_direction": "Pull TPUSA published tour schedules and verify Owens speaking appearances.",
       "transcript_snippet": "I literally went on tour with Turning Point USA on college campuses last year.",
       "confidence": "medium",
@@ -1528,7 +1528,7 @@
         "N-1122"
       ],
       "tags": [],
-      "claim_timestamp": "00:55:35",
+      "claim_timestamp": "00:44:56",
       "investigative_direction": "Verify published speaker list for the Arizona memorial event.",
       "transcript_snippet": "I was not invited to speak alongside President Trump and JD Vance on the stage.",
       "confidence": "medium",
@@ -1570,7 +1570,7 @@
         "N-1127"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:13",
+      "claim_timestamp": "00:14:59",
       "investigative_direction": "Pull county recorder data for the parcel to confirm ownership chain.",
       "transcript_snippet": "he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.",
       "confidence": "medium",
@@ -1594,7 +1594,7 @@
         "N-1121"
       ],
       "tags": [],
-      "claim_timestamp": "00:48:32",
+      "claim_timestamp": "00:39:34",
       "investigative_direction": "Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.",
       "transcript_snippet": "a very quiet breakup where she got too rabbit hole for him.",
       "confidence": "high",
@@ -1638,7 +1638,7 @@
       "occurrences": [
         {
           "episode": 5,
-          "video_timestamp": "01:13:34",
+          "video_timestamp": "00:57:55",
           "speaker_node_ref": "N-3",
           "quote": "the evil of this world, the evil that we are fighting. And we are only going to conquer this evil through truth.",
           "context": "Closing monologue; ritualised naming of an unseen malevolent force.",
@@ -1649,7 +1649,7 @@
         },
         {
           "episode": 5,
-          "video_timestamp": "01:09:00",
+          "video_timestamp": "00:54:36",
           "speaker_node_ref": "N-3",
           "quote": "Principalities, rulers in dark places. The Bible tells us this and it is correct.",
           "context": "Religious framing of the unseen power structure.",
@@ -1669,7 +1669,7 @@
       "occurrences": [
         {
           "episode": 5,
-          "video_timestamp": "00:57:04",
+          "video_timestamp": "00:45:48",
           "speaker_node_ref": "N-3",
           "quote": "Breit Mcronone comes out and says they have offered scientific evidence to the US court to prove that Breijit is a woman.",
           "context": "Host mocks Brigitte Macron's legal team invoking 'scientific proof' in an early-stage suit.",
@@ -1689,7 +1689,7 @@
       "occurrences": [
         {
           "episode": 5,
-          "video_timestamp": "00:41:01",
+          "video_timestamp": "00:33:36",
           "speaker_node_ref": "N-65",
           "quote": "He told me so in a letter that he sent me just a few months ago. One of my greatest joys as a Christian, he said, is advocating for Israel.",
           "context": "Netanyahu reads Kirk letter that reframes Christian Zionism as Kirk's central political identity.",
@@ -1701,7 +1701,7 @@
         },
         {
           "episode": 5,
-          "video_timestamp": "00:41:28",
+          "video_timestamp": "00:33:54",
           "speaker_node_ref": "N-65",
           "quote": "He told me, 'The Holy Land is so important to my life, it pains me to see support for Israel slip away.'",
           "context": "Quote deployed to bind Kirk's Christian identity to Israeli state interests.",
@@ -1721,7 +1721,7 @@
       "occurrences": [
         {
           "episode": 5,
-          "video_timestamp": "00:40:49",
+          "video_timestamp": "00:33:18",
           "speaker_node_ref": "N-65",
           "quote": "while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
           "context": "Netanyahu labels the rumor 'insane / monstrous big lie' — canonical conspiracy-theorist deflection deployed against Owens and others.",
@@ -1741,7 +1741,7 @@
       "occurrences": [
         {
           "episode": 5,
-          "video_timestamp": "00:54:09",
+          "video_timestamp": "00:43:51",
           "speaker_node_ref": "N-3",
           "quote": "Why would I ask to be a part like like this is obviously Erika is in like full control?",
           "context": "Host speculates Erika Kirk is being directed by donors / White House on memorial planning.",

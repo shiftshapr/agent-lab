@@ -32,8 +32,6 @@
             "C-2766"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1212",
             "N-1698"
           ],
           "tags": [],
@@ -62,8 +60,6 @@
             "C-2769"
           ],
           "related_nodes": [
-            "N-1208",
-            "N-1210",
             "N-1698",
             "N-1699"
           ],
@@ -84,8 +80,6 @@
             "C-2772"
           ],
           "related_nodes": [
-            "N-1209",
-            "N-1217",
             "N-1698",
             "N-1699"
           ],
@@ -238,7 +232,6 @@
             "C-2779"
           ],
           "related_nodes": [
-            "N-1212",
             "N-1704"
           ],
           "tags": [],
@@ -356,8 +349,6 @@
             "C-2784"
           ],
           "related_nodes": [
-            "N-1213",
-            "N-1214",
             "N-1704",
             "N-1706"
           ],
@@ -384,8 +375,6 @@
             "C-2785"
           ],
           "related_nodes": [
-            "N-1213",
-            "N-1214",
             "N-1706"
           ],
           "tags": [],
@@ -604,192 +593,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Original owner of the rifle linked to the case; recorded at the continuance hearing expressing support for his grandson and disputing the .30-06 wound characterization.",
-      "related_artifacts": [
-        "A-1993.1",
-        "A-2005.4"
-      ],
-      "related_claims": [
-        "C-2764",
-        "C-2765",
-        "C-2766"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1708"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Defense attorney for Tyler Robinson; addressed continuance hearing re: outstanding forensic data files.",
-      "related_artifacts": [
-        "A-1994.1"
-      ],
-      "related_claims": [
-        "C-2767",
-        "C-2768"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1698",
-        "N-1699"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Defense attorney for Tyler Robinson; addressed court re: phone access and firearm access.",
-      "related_artifacts": [
-        "A-1994.2"
-      ],
-      "related_claims": [
-        "C-2769",
-        "C-2770",
-        "C-2771"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1698",
-        "N-1699"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Prosecutor; referenced by Novak at continuance hearing regarding competing lab-testing conclusions.",
-      "related_artifacts": [
-        "A-1994.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1698"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Prosecutor; cited by Novak as having relied on September 2025 DNA reports.",
-      "related_artifacts": [
-        "A-1994.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1698"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Founder of Patriot Cigar; publicly accused Laura Loomer of groping him at Bedminster in tweet.",
-      "related_artifacts": [
-        "A-1998.1"
-      ],
-      "related_claims": [
-        "C-2779"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1704"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Host's husband; named in Laura Loomer's tweet alleging drunk driving incident with firearm; insurance record shows $6,987 paid to Tracy Robinson.",
-      "related_artifacts": [
-        "A-2002.1",
-        "A-2003.1"
-      ],
-      "related_claims": [
-        "C-2784",
-        "C-2785"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1214",
-        "N-1706"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Counterparty in alleged vehicle incident with George Farmer; recipient of $6,987 insurance payment per record.",
-      "related_artifacts": [
-        "A-2002.1",
-        "A-2003.1"
-      ],
-      "related_claims": [
-        "C-2784",
-        "C-2785"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1213",
-        "N-1706"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1698",
       "ref": "N-1698",
       "name": "Defense Access to Tyler Robinson Phone Data",
@@ -941,10 +744,7 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -984,11 +784,7 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1213",
-        "N-1214"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1087,12 +883,156 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Identified by host as being in the Lincoln Navigator (security vehicle 2) on 9/10.",
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-124",
+      "ref": "N-124",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Host on whose show Brendan Carr made FCC remarks",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-334",
+      "ref": "N-334",
+      "name": "Milo Yiannopoulos",
+      "type": "person",
+      "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1118,7 +1058,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:32",
-      "investigative_direction": "Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions."
+      "investigative_direction": "Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1132,7 +1075,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:45",
-      "investigative_direction": "Verify great-grandfather's law enforcement service in the relevant town and the claimed ballistics instruction."
+      "investigative_direction": "Verify great-grandfather's law enforcement service in the relevant town and the claimed ballistics instruction.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1148,7 +1094,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:39",
-      "investigative_direction": "Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile."
+      "investigative_direction": "Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1160,7 +1109,6 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1698",
         "N-1699"
       ],
@@ -1178,7 +1126,6 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-1211",
         "N-1698"
       ],
       "tags": [],
@@ -1195,12 +1142,14 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-1217",
         "N-1698"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
-      "investigative_direction": "Verify chain of custody and forensic examination status of Tyler Robinson's phone."
+      "investigative_direction": "Verify chain of custody and forensic examination status of Tyler Robinson's phone.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1262,7 +1211,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:29",
-      "investigative_direction": "Verify post directly on Truth Social; note timestamp and any subsequent deletions."
+      "investigative_direction": "Verify post directly on Truth Social; note timestamp and any subsequent deletions.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3",
+        "N-5",
+        "N-75"
+      ]
     },
     {
       "@type": "Claim",
@@ -1276,7 +1231,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:29",
-      "investigative_direction": "Locate and verify the exact second post on Truth Social."
+      "investigative_direction": "Locate and verify the exact second post on Truth Social.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1292,7 +1250,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
-      "investigative_direction": "Verify the email's authenticity; cross-reference with police or DHS records regarding threats."
+      "investigative_direction": "Verify the email's authenticity; cross-reference with police or DHS records regarding threats.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1308,7 +1269,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
-      "investigative_direction": "Retrieve full Newsweek article and inspect specific claims and named sources."
+      "investigative_direction": "Retrieve full Newsweek article and inspect specific claims and named sources.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1324,7 +1288,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
-      "investigative_direction": "Retrieve Daily Beast article; check named sources."
+      "investigative_direction": "Retrieve Daily Beast article; check named sources.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1340,7 +1307,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
-      "investigative_direction": "Retrieve full Arizona Republic article."
+      "investigative_direction": "Retrieve full Arizona Republic article.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1352,12 +1322,14 @@
         "A-1998.1"
       ],
       "related_nodes": [
-        "N-1212",
         "N-1704"
       ],
       "tags": [],
       "claim_timestamp": "00:41:44",
-      "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements."
+      "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements.",
+      "mentions_person_refs": [
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1373,7 +1345,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
-      "investigative_direction": "Verify date and source of the video; consider whether the inference (not raised Jewish) is supportable by the artifact alone."
+      "investigative_direction": "Verify date and source of the video; consider whether the inference (not raised Jewish) is supportable by the artifact alone.",
+      "mentions_person_refs": [
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1389,7 +1364,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:54",
-      "investigative_direction": "Locate original Yiannopoulos publication; assess sourcing for clinical claims."
+      "investigative_direction": "Locate original Yiannopoulos publication; assess sourcing for clinical claims.",
+      "mentions_person_refs": [
+        "N-334",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1405,7 +1384,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:53",
-      "investigative_direction": "Locate corroborating messages cited by Milo; verify volunteer's identity and willingness to be a source."
+      "investigative_direction": "Locate corroborating messages cited by Milo; verify volunteer's identity and willingness to be a source.",
+      "mentions_person_refs": [
+        "N-334",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1421,7 +1404,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:47:42",
-      "investigative_direction": "Verify tweet on X / archive."
+      "investigative_direction": "Verify tweet on X / archive.",
+      "mentions_person_refs": [
+        "N-124",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1433,13 +1420,15 @@
         "A-2002.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1214",
         "N-1706"
       ],
       "tags": [],
       "claim_timestamp": "00:48:26",
-      "investigative_direction": "Verify tweet and any linked court filings; check Davidson County court records."
+      "investigative_direction": "Verify tweet and any linked court filings; check Davidson County court records.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1451,8 +1440,6 @@
         "A-2003.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1214",
         "N-1706"
       ],
       "tags": [],
@@ -1473,7 +1460,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:42:43",
-      "investigative_direction": "Verify source and date of video; identify the individual."
+      "investigative_direction": "Verify source and date of video; identify the individual.",
+      "mentions_person_refs": [
+        "N-91"
+      ]
     },
     {
       "@type": "Claim",
@@ -1487,7 +1477,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:54:44",
-      "investigative_direction": "Cross-reference with prior episodes where similar claims have been made; corroborate via documentary sources."
+      "investigative_direction": "Cross-reference with prior episodes where similar claims have been made; corroborate via documentary sources.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1503,7 +1496,10 @@
       ],
       "tags": [],
       "claim_timestamp": "01:01:45",
-      "investigative_direction": "Identify Tyler Robinson's roommate from public records; check his status and any investigative attention."
+      "investigative_direction": "Identify Tyler Robinson's roommate from public records; check his status and any investigative attention.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1517,7 +1513,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
-      "investigative_direction": "Retrieve the Utah state court filing directly via docket search."
+      "investigative_direction": "Retrieve the Utah state court filing directly via docket search.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     }
   ],
   "memes": []

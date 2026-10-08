@@ -861,6 +861,102 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-92",
+      "ref": "N-92",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -899,7 +995,8 @@
       "investigative_direction": "Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.",
       "mentions_person_refs": [
         "N-69",
-        "N-71"
+        "N-71",
+        "N-92"
       ]
     },
     {
@@ -962,7 +1059,9 @@
       "mentions_person_refs": [
         "N-191",
         "N-192",
-        "N-193"
+        "N-193",
+        "N-70",
+        "N-102"
       ]
     },
     {
@@ -1013,7 +1112,9 @@
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.",
       "mentions_person_refs": [
-        "N-197"
+        "N-197",
+        "N-65",
+        "N-1"
       ]
     },
     {
@@ -1065,7 +1166,9 @@
       "claim_timestamp": "00:35:01",
       "investigative_direction": "Archive the original post; identify the account's operator; map its network of similar accounts.",
       "mentions_person_refs": [
-        "N-195"
+        "N-195",
+        "N-3",
+        "N-75"
       ]
     },
     {
@@ -1085,7 +1188,9 @@
       "mentions_person_refs": [
         "N-195",
         "N-196",
-        "N-75"
+        "N-75",
+        "N-50",
+        "N-3"
       ]
     },
     {
@@ -1103,7 +1208,10 @@
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Verify the post is from the same handle the host means; identify its operator and pattern of activity.",
       "mentions_person_refs": [
-        "N-196"
+        "N-196",
+        "N-50",
+        "N-3",
+        "N-75"
       ]
     },
     {
@@ -1132,9 +1240,7 @@
       "anchored_artifacts": [
         "A-1207.1"
       ],
-      "related_nodes": [
-        "N-1218"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Verify against FBI press releases; identify the shared facility; check for any state or federal disclosure."
@@ -1153,7 +1259,8 @@
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Verify against state bar records and published case dockets for both Ramirez and Robinson.",
       "mentions_person_refs": [
-        "N-199"
+        "N-199",
+        "N-69"
       ]
     },
     {

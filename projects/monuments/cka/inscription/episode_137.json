@@ -84,8 +84,7 @@
             "C-3213"
           ],
           "related_nodes": [
-            "N-2176",
-            "N-1215"
+            "N-2176"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,9 +109,7 @@
           "related_claims": [
             "C-3216"
           ],
-          "related_nodes": [
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -128,9 +125,7 @@
           "related_claims": [
             "C-3216"
           ],
-          "related_nodes": [
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -154,9 +149,7 @@
           "related_claims": [
             "C-3217"
           ],
-          "related_nodes": [
-            "N-1214"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -180,10 +173,7 @@
           "related_claims": [
             "C-3215"
           ],
-          "related_nodes": [
-            "N-1211",
-            "N-1212"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -208,7 +198,6 @@
             "C-3214"
           ],
           "related_nodes": [
-            "N-1215",
             "N-2177"
           ],
           "tags": [],
@@ -234,9 +223,7 @@
           "related_claims": [
             "C-3218"
           ],
-          "related_nodes": [
-            "N-1216"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -298,239 +285,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Christian commentator cited by host for invoking Exodus 22:22 / Deuteronomy 19 against Candace Owens; host alleges pattern of similar rhetoric.",
-      "related_artifacts": [
-        "A-2236.1"
-      ],
-      "related_claims": [
-        "C-3211"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Host of podcast on which Frank Turek made the cited remarks.",
-      "related_artifacts": [
-        "A-2236.1"
-      ],
-      "related_claims": [
-        "C-3211"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Senator cited as the alleged cover identity used by an unidentified individual scoping UVU campus on Sept 9, 2025. Host explicitly exonerates him of wrongdoing.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2175"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "USU police officer formerly of San Bernardino PD; subject of Brady list inquiry and exoneration update. Spelling: A-L-A-N per host clarification (distinct from A-L-L-E-N / A-L-L-A-N).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2176"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Turning Point USA staff member identified via Benny Johnson show still at Asher Adams Hotel in Salt Lake City on Sept 11, 2025.",
-      "related_artifacts": [
-        "A-2241.1"
-      ],
-      "related_claims": [
-        "C-3215"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1212"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Host of show on which Andrew Kovat appeared Sept 11, 2025; source for hotel screenshot artifact.",
-      "related_artifacts": [
-        "A-2241.1"
-      ],
-      "related_claims": [
-        "C-3215"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1211"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "US Defense Secretary; subject of Sky News exchange on Iran school bombing investigation.",
-      "related_artifacts": [
-        "A-2239.1",
-        "A-2239.2"
-      ],
-      "related_claims": [
-        "C-3216"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Commentator whose audio clip on arming Iranian protesters was played; referenced as advisor influencing presidential posture.",
-      "related_artifacts": [
-        "A-2240.1"
-      ],
-      "related_claims": [
-        "C-3217"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "UVU Police Officer whose trial testimony on rooftop video review is questioned by host.",
-      "related_artifacts": [
-        "A-2238.1",
-        "A-2242.1"
-      ],
-      "related_claims": [
-        "C-3214"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2176",
-        "N-2177"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Turning Point USA figure; subject of X post artifact criticizing Candace.",
-      "related_artifacts": [
-        "A-2243.1"
-      ],
-      "related_claims": [
-        "C-3218"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Referenced by Blake Neff (per host) as companion in Salt Lake City whose whereabouts Neff reportedly could not recall.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1216"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "President of Preborn; sponsor content reference, not investigation.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2175",
       "ref": "N-2175",
       "name": "UVU Campus Sept 9 Scoping Incident",
@@ -564,11 +318,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215",
-        "N-1210"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -587,10 +337,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1215"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -611,6 +358,86 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-124",
+      "ref": "N-124",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Host on whose show Brendan Carr made FCC remarks",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -626,7 +453,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:17",
-      "investigative_direction": "Obtain the full Nicholas Bowling podcast episode audio/transcript to verify the exact wording and surrounding context."
+      "investigative_direction": "Obtain the full Nicholas Bowling podcast episode audio/transcript to verify the exact wording and surrounding context.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -642,7 +473,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:07:24",
-      "investigative_direction": "Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources."
+      "investigative_direction": "Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -654,12 +488,14 @@
         "A-2238.1"
       ],
       "related_nodes": [
-        "N-2176",
-        "N-1215"
+        "N-2176"
       ],
       "tags": [],
       "claim_timestamp": "00:17:01",
-      "investigative_direction": "Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full."
+      "investigative_direction": "Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -671,7 +507,6 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-2177"
       ],
       "tags": [],
@@ -687,13 +522,14 @@
       "anchored_artifacts": [
         "A-2241.1"
       ],
-      "related_nodes": [
-        "N-1211",
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:29",
-      "investigative_direction": "Confirm via hotel guest logs (subject to availability) or via further visual artifacts."
+      "investigative_direction": "Confirm via hotel guest logs (subject to availability) or via further visual artifacts.",
+      "mentions_person_refs": [
+        "N-124",
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",
@@ -705,9 +541,7 @@
         "A-2239.1",
         "A-2239.2"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:43",
       "investigative_direction": "Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases."
@@ -721,9 +555,7 @@
       "anchored_artifacts": [
         "A-2240.1"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:17",
       "investigative_direction": "Identify the original Levin broadcast (date, program) for full context."
@@ -737,12 +569,14 @@
       "anchored_artifacts": [
         "A-2243.1"
       ],
-      "related_nodes": [
-        "N-1216"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:13:19",
-      "investigative_direction": "Locate Neff's exact X post URL to confirm timestamp and surrounding context."
+      "investigative_direction": "Locate Neff's exact X post URL to confirm timestamp and surrounding context.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-224"
+      ]
     },
     {
       "@type": "Claim",
@@ -756,7 +590,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:14:31",
-      "investigative_direction": "Confirm via Daily Mail editorial record or correspondence log."
+      "investigative_direction": "Confirm via Daily Mail editorial record or correspondence log.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -772,7 +609,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:14",
-      "investigative_direction": "Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources."
+      "investigative_direction": "Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -784,8 +624,54 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:05",
-      "investigative_direction": "Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes."
+      "investigative_direction": "Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:52:11",
+          "speaker_node_ref": "N-3",
+          "quote": "Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency",
+          "context": "Closing merch plug restates DCIA / CIA twin brand.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "brand_joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:52:11",
+          "speaker_node_ref": "N-3",
+          "quote": "Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency",
+          "context": "Same merch beat names Candace Intelligence Agency hats.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "brand_joke"
+          ]
+        }
+      ]
+    }
+  ]
 }

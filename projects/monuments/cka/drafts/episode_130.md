@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2143, N-2144, N-2145, N-2146
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-57
+  - Reused Nodes Appearing: N-57
   - (see registers)
 
 ## 2. Executive Summary
@@ -50,7 +50,7 @@ Video Timestamp: 00:06:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3108, N-1210*
+*Related: C-3108*
 
 **A-2173** Time Magazine Article Bundle (1976)
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3111, N-42, N-1222*
+*Related: C-3111, N-42*
 
 **A-2176** Blake Neff Interview Clip Bundle
 
@@ -167,193 +167,6 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## 4. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Subject of the historical "Mormon Mafia" segment; the 1976 Time article (A-2173.1) and subsequent host narration detail the Mormon aides surrounding him in his final years.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2173.1, C-3109, N-1210, N-1213, N-1218, N-2143*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-LDS aide central to A-2173.1; described as the lead Mormon aide attending Howard Hughes in 8-hour shifts.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2173.1, C-3109, N-1219*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Author of the biography of President Truman cited as the source for A-2171.1.
-
-Evidence Count: 0
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2171.1, C-3107*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Identified in host narration as an Irgun member and father of Ari Emanuel; referenced alongside A-2172.1.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2172.1, N-1211, N-1212*
-
-**N-1211** UVU Campus Familiarity Question
-
-Referenced as brother of Rahm Emanuel and son of Benjamin Emanuel.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1210, N-1212*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Referenced as Director of Public Affairs under Clinton, Chief of Staff under Obama, and Mayor of Chicago.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1210, N-1211*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Owner of the jet on which Howard Hughes died; name raised by host in connection with the newly appointed Judge Tony Graf in the Tyler Robinson case (possible surname coincidence flagged).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2143*
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Business partner of Robert Graf; namesake of Duncan Aviation, which the host connects to the 9/10 transponding Egyptian plane.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1213*
-
-**N-1215** Hospital Routing Discrepancy
-
-Identified as controller of the Frontier Hotel and the former Desert Inn site (now Wynn Las Vegas).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2143*
-
-**N-1216** Utah FBI Personnel Replacement
-
-Identified as controller of the Las Vegas Sands Resort after Sheldon Adelson's death.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1217*
-
-**N-1217** Mike Mitchell Undercover Role Verification
-
-Identified as former controller of Las Vegas Sands Resort; deceased per host.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1216*
-
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
-
-Executive chairman of Howard Hughes Holdings; host cites a $900 million investment returning him to the chair position in May 2025.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: *
-
-**N-1219** "Robbie Hild" Identity Verification
-
-Identified as managing director of Mitt Romney's Bain Capital for 16 years.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1220, N-57*
-
-**N-1220** Case-Personnel Cluster Anomalies
-
-Referenced in connection with Bain Capital and Robert Gay.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-1219*
-
-**N-1221** Autopsy Record – Utah Privacy Statute Application
-
-Named by host as her speculated family-friend source for the Daily Mail article.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: N-2144*
-
-**N-1222** Hospital Routing Anomaly
-
-Identified as host's PR representative who received the Daily Mail comment request.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2175.1, C-3111, N-3*
-
-**N-1223** TPUSA Faith Packet / Israel References Claim
-
-CC'd on the seamstress email (A-2177.1) and referenced in host's emotional closing segment.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2177.1, N-3*
-
 **N-2143** Howard Hughes Death Investigation
 
 Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.
@@ -363,18 +176,18 @@ Claim Count: 0 (host narration surrounding A-2173.1, not artifact-anchored as a 
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2173.1, N-1213, N-1215*
+*Related: A-2173.1*
 
 **N-2144** Daily Mail Article Sourcing Question
 
-Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" (N-1221) as her guess; Kolvet disputes origin via A-2174.1.
+Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" (former local id 1221) as her guess; Kolvet disputes origin via A-2174.1.
 
 Evidence Count: 2
 Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-42, N-1221, N-1222*
+*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-42*
 
 **N-2145** 9/10 Phone Discrepancy (Mikey two phones)
 
@@ -429,7 +242,7 @@ Claim Timestamp: 00:06:31
 Claim: A Wikipedia entry referenced on air states that Canaanism was a cultural and ideological movement founded in 1939, peaking in the 1940s, with most members being former members of Irgun or Lehi.
 
 Anchored Artifacts: A-2172.1
-Related Nodes: N-1210
+Related Nodes:
 
 Investigative Direction: Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement.
 
@@ -451,7 +264,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Mail article and used it as "rage bait."
 
 Anchored Artifacts: A-2174.1
-Mentions: N-42
+Mentions: N-42, N-3
 Related Nodes: N-2144
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
@@ -510,7 +323,7 @@ Claim Timestamp: 00:46:58
 Claim: A self-identified seamstress emailed the host asserting that the burned item from the SUV floor shows visible seam and thread patterns consistent with the outside of a shirt, with the top portion folded and the char on the inside.
 
 Anchored Artifacts: A-2177.1
-Related Nodes: N-1223
+Related Nodes:
 
 Investigative Direction: Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image.
 

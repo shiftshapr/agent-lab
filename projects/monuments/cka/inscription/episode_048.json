@@ -515,7 +515,8 @@
       "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
       "mentions_person_refs": [
         "N-281",
-        "N-590"
+        "N-590",
+        "N-1"
       ]
     },
     {
@@ -672,6 +673,7 @@
       "claim_timestamp": "00:30:33",
       "investigative_direction": "Establish chain of custody for the photographs and verify provenance and date of capture.",
       "mentions_person_refs": [
+        "N-3",
         "N-1"
       ]
     }

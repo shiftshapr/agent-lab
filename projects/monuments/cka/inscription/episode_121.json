@@ -281,7 +281,6 @@
             "C-2959"
           ],
           "related_nodes": [
-            "N-1213",
             "N-2087"
           ],
           "tags": [],
@@ -307,9 +306,7 @@
           "related_claims": [
             "C-2961"
           ],
-          "related_nodes": [
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -325,9 +322,7 @@
           "related_claims": [
             "C-2962"
           ],
-          "related_nodes": [
-            "N-1213"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -353,8 +348,6 @@
             "C-2963"
           ],
           "related_nodes": [
-            "N-1214",
-            "N-1215",
             "N-2087"
           ],
           "tags": [],
@@ -425,8 +418,6 @@
             "C-2964"
           ],
           "related_nodes": [
-            "N-1223",
-            "N-1207",
             "N-2081"
           ],
           "tags": [],
@@ -445,8 +436,6 @@
             "C-2965"
           ],
           "related_nodes": [
-            "N-1224",
-            "N-1207",
             "N-2081"
           ],
           "tags": [],
@@ -465,7 +454,6 @@
             "C-2967"
           ],
           "related_nodes": [
-            "N-1222",
             "N-2089"
           ],
           "tags": [],
@@ -537,9 +525,7 @@
           "ref": "A-2102.8",
           "description": "Moderator Marci comment re: Elizabeth Holmes comparison",
           "related_claims": [],
-          "related_nodes": [
-            "N-1219"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -596,8 +582,6 @@
             "C-2954"
           ],
           "related_nodes": [
-            "N-1208",
-            "N-1217",
             "N-2083"
           ],
           "tags": [],
@@ -611,406 +595,6 @@
     }
   ],
   "nodes": [
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Witness to hospital transport and ER events; central subject of multiple contradiction and verification targets.",
-      "related_artifacts": [
-        "A-2094.1",
-        "A-2094.2",
-        "A-2094.3",
-        "A-2094.4",
-        "A-2096.1",
-        "A-2102.1",
-        "A-2102.2"
-      ],
-      "related_claims": [
-        "C-2946",
-        "C-2947",
-        "C-2948",
-        "C-2949",
-        "C-2950",
-        "C-2951",
-        "C-2957",
-        "C-2964",
-        "C-2965"
-      ],
-      "tags": [],
-      "evidence_count": 7,
-      "claim_count": 9,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2081",
-        "N-2093"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Witness to hospital transport and post-incident events; subject of clothing-disposal and CPR-claim verification.",
-      "related_artifacts": [
-        "A-2094.2",
-        "A-2095.1",
-        "A-2096.2",
-        "A-2103.1"
-      ],
-      "related_claims": [
-        "C-2950",
-        "C-2952",
-        "C-2953",
-        "C-2954",
-        "C-2955"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2083",
-        "N-2085",
-        "N-2086"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Witness to hospital transport; described as physically holding Brian Harpole during the ride.",
-      "related_artifacts": [
-        "A-2094.2"
-      ],
-      "related_claims": [
-        "C-2951"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2084"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Passenger in SUV during transport; described as the most quiet figure and as having declined a promotion offered by Erika.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2084",
-        "N-2090",
-        "N-2092"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Driver of the SUV during hospital transport.",
-      "related_artifacts": [
-        "A-2094.2"
-      ],
-      "related_claims": [
-        "C-2948"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2084"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Referenced as having defended Frank Turek's disposal of clothes using the widow rationale.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2086"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Daily Wire host whose tweet is cited and whose Jubilee debate performance is played.",
-      "related_artifacts": [
-        "A-2098.1",
-        "A-2099.1",
-        "A-2099.2"
-      ],
-      "related_claims": [
-        "C-2959",
-        "C-2961",
-        "C-2962"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2087"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Daily Wire figure referenced in connection with company finances.",
-      "related_artifacts": [
-        "A-2100.1"
-      ],
-      "related_claims": [
-        "C-2958"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2087"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Daily Wire figure linked to Pendragon Cycle spending.",
-      "related_artifacts": [
-        "A-2100.1"
-      ],
-      "related_claims": [
-        "C-2963"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2087"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Former Daily Wire figure; departure attributed to Jeremy Boring.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2087"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
-      "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
-      "description": "Source of video showing Frank Turek's entry through the SUV trunk.",
-      "related_artifacts": [
-        "A-2103.1"
-      ],
-      "related_claims": [
-        "C-2954"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1208"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
-      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
-      "description": "Witness referenced as having changed her story three times; full review deferred.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2084"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
-      "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
-      "description": "Referenced by moderator Marci as a comparison case for Erika Kirk.",
-      "related_artifacts": [
-        "A-2102.8"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-2088"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
-      "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
-      "description": "Interviewer whose interview with Brian Harpole is referenced (clip played in past episodes).",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
-      "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
-      "description": "Interviewer whose interview with Brian Harpole is referenced.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
-      "name": "Hospital Routing Anomaly",
-      "type": "investigation_target",
-      "description": "Email source who provided claim about DA authorization for evidence release.",
-      "related_artifacts": [
-        "A-2102.3"
-      ],
-      "related_claims": [
-        "C-2967"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2089"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
-      "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
-      "description": "Retired ER nurse who commented on Brian Harpole's ER story.",
-      "related_artifacts": [
-        "A-2102.1"
-      ],
-      "related_claims": [
-        "C-2964"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2081"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1224",
-      "ref": "N-1224",
-      "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
-      "description": "22-year hospital nurse who commented on Brian Harpole's ER story.",
-      "related_artifacts": [
-        "A-2102.2"
-      ],
-      "related_claims": [
-        "C-2965"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-2081"
-      ]
-    },
     {
       "@type": "InvestigationTarget",
       "@id": "N-2080",
@@ -1127,14 +711,7 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208",
-        "N-1209",
-        "N-1210",
-        "N-1211"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1174,11 +751,7 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1212"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1202,13 +775,7 @@
       "evidence_count": 3,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1213",
-        "N-1214",
-        "N-1215",
-        "N-1216"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1231,10 +798,7 @@
       "evidence_count": 5,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1219"
-      ]
+      "investigative_pressure": "high"
     },
     {
       "@type": "InvestigationTarget",
@@ -1253,10 +817,7 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1222"
-      ]
+      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",
@@ -1271,10 +832,7 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1210"
-      ]
+      "investigative_pressure": "low"
     },
     {
       "@type": "InvestigationTarget",
@@ -1309,7 +867,6 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1210",
         "N-2084"
       ]
     },
@@ -1338,6 +895,70 @@
       "related_nodes": [
         "N-1207"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Dave Rubin",
+      "type": "person",
+      "description": "Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1373,7 +994,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:20–00:07:24",
-      "investigative_direction": "Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony."
+      "investigative_direction": "Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1389,7 +1013,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
-      "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration."
+      "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1401,12 +1028,14 @@
         "A-2094.2"
       ],
       "related_nodes": [
-        "N-1211",
         "N-2084"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
-      "investigative_direction": "Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed."
+      "investigative_direction": "Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1423,7 +1052,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:09–00:13:30",
-      "investigative_direction": "Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification."
+      "investigative_direction": "Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1440,7 +1072,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
-      "investigative_direction": "Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech."
+      "investigative_direction": "Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.",
+      "mentions_person_refs": [
+        "N-424",
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1456,7 +1092,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
-      "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture."
+      "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1472,7 +1111,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:14–00:29:18",
-      "investigative_direction": "Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned."
+      "investigative_direction": "Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1488,7 +1130,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:14–00:29:18",
-      "investigative_direction": "Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property."
+      "investigative_direction": "Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1500,12 +1145,14 @@
         "A-2103.1"
       ],
       "related_nodes": [
-        "N-1217",
         "N-2083"
       ],
       "tags": [],
       "claim_timestamp": "00:19:32–00:20:25",
-      "investigative_direction": "Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes."
+      "investigative_direction": "Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -1556,7 +1203,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:18–00:16:50",
-      "investigative_direction": "High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification."
+      "investigative_direction": "High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1568,8 +1218,6 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-1213",
-        "N-1214",
         "N-2087"
       ],
       "tags": [],
@@ -1586,12 +1234,14 @@
         "A-2098.1"
       ],
       "related_nodes": [
-        "N-1213",
         "N-2087"
       ],
       "tags": [],
       "claim_timestamp": "00:41:04–00:41:49",
-      "investigative_direction": "Verify original tweet timestamp and any subsequent clarification from Rubin."
+      "investigative_direction": "Verify original tweet timestamp and any subsequent clarification from Rubin.",
+      "mentions_person_refs": [
+        "N-61"
+      ]
     },
     {
       "@type": "Claim",
@@ -1618,12 +1268,13 @@
       "anchored_artifacts": [
         "A-2099.1"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:45–00:39:25",
-      "investigative_direction": "Obtain full unedited Jubilee episode; verify clip is not edited deceptively."
+      "investigative_direction": "Obtain full unedited Jubilee episode; verify clip is not edited deceptively.",
+      "mentions_person_refs": [
+        "N-61"
+      ]
     },
     {
       "@type": "Claim",
@@ -1634,12 +1285,13 @@
       "anchored_artifacts": [
         "A-2099.2"
       ],
-      "related_nodes": [
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:17–00:40:45",
-      "investigative_direction": "Verify against independent reporting on Gaza status as of debate date."
+      "investigative_direction": "Verify against independent reporting on Gaza status as of debate date.",
+      "mentions_person_refs": [
+        "N-61"
+      ]
     },
     {
       "@type": "Claim",
@@ -1651,7 +1303,6 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-2087"
       ],
       "tags": [],
@@ -1668,12 +1319,14 @@
         "A-2102.1"
       ],
       "related_nodes": [
-        "N-1223",
         "N-2081"
       ],
       "tags": [],
       "claim_timestamp": "00:51:15–00:51:45",
-      "investigative_direction": "Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs."
+      "investigative_direction": "Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1685,12 +1338,14 @@
         "A-2102.2"
       ],
       "related_nodes": [
-        "N-1224",
         "N-2081"
       ],
       "tags": [],
       "claim_timestamp": "00:51:57",
-      "investigative_direction": "Same as C-2964."
+      "investigative_direction": "Same as C-2964.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1718,12 +1373,14 @@
         "A-2102.3"
       ],
       "related_nodes": [
-        "N-1222",
         "N-2089"
       ],
       "tags": [],
       "claim_timestamp": "00:52:00–00:52:30",
-      "investigative_direction": "Identify jurisdiction and DA office handling the case; obtain chain-of-custody records for returned items."
+      "investigative_direction": "Identify jurisdiction and DA office handling the case; obtain chain-of-custody records for returned items.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -1739,7 +1396,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:09–00:14:33",
-      "investigative_direction": "Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection."
+      "investigative_direction": "Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.",
+      "mentions_person_refs": [
+        "N-424"
+      ]
     }
   ],
   "memes": []

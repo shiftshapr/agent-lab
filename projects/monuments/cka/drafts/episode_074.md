@@ -617,7 +617,7 @@ Investigative Pressure: Low
 Claim Timestamp: 00:02:07
 Claim: Episode presents that Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
 Anchored Artifacts: A-1780.1, A-1781.1
-Mentions: N-941, N-942, N-943
+Mentions: N-941, N-942, N-943, N-2
 Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.
 
 ---
@@ -627,7 +627,7 @@ Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts d
 Claim Timestamp: 00:03:40
 Claim: Episode presents that Erika and Jillian met when Jillian came to Harrelson's residence for a rent-related matter and exchanged numbers during that interaction, per Jillian's account relayed by the host.
 Anchored Artifacts: A-1780.1
-Mentions: N-941, N-942
+Mentions: N-941, N-942, N-943
 Investigative Direction: Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.
 
 ---
@@ -637,7 +637,7 @@ Investigative Direction: Re-interview Jillian (now adult) directly and document 
 Claim Timestamp: 00:05:48
 Claim: Episode presents that on or about 2014-03-06, Erika Kirk sent Jillian Falcon text messages including "Sex. Sex, too, but not from you. lol." and "You always make me laugh. I don't bat for the other team just yet."
 Anchored Artifacts: A-1781.3, A-1782.1, A-1782.2, A-1782.3
-Mentions: N-942
+Mentions: N-942, N-2
 Investigative Direction: Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.
 
 ---
@@ -678,7 +678,7 @@ Investigative Direction: Locate the original image file and verify its posting d
 Claim Timestamp: 00:07:30
 Claim: Episode presents that on or about 2014-04-05, Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a handwritten card reading "Happy sweet 16, beautiful girl… Love you, E."
 Anchored Artifacts: A-1781.8, A-1783.1
-Mentions: N-942
+Mentions: N-942, N-2
 Investigative Direction: Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.
 
 ---
@@ -698,7 +698,7 @@ Investigative Direction: Obtain the original screenshot and verify against Jilli
 Claim Timestamp: 00:14:26
 Claim: Episode presents that Erika Kirk commented on an Instagram photo of Jillian Falcon standing beside a car, writing "That dime piece beside the car though."
 Anchored Artifacts: A-1784.4
-Mentions: N-942
+Mentions: N-942, N-2
 Investigative Direction: Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.
 
 ---
@@ -708,6 +708,7 @@ Investigative Direction: Pull the original Instagram comment from Jillian's acco
 Claim Timestamp: 00:21:40
 Claim: Episode presents that Erika Kirk had not authored an X/Twitter post since 2023 and broke that silence on 2025-09-08 at 10:49 a.m. Arizona time with a tweet quoting Ephesians 2:8.
 Anchored Artifacts: A-1785.1
+Mentions: N-2
 Related Nodes: N-1586
 Investigative Direction: Pull Erika's full X/Twitter posting log directly to verify the gap and the timing of the September 8 tweet.
 
@@ -718,6 +719,7 @@ Investigative Direction: Pull Erika's full X/Twitter posting log directly to ver
 Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted on 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
 Anchored Artifacts: A-1785.2
+Mentions: N-2
 Related Nodes: N-1586
 Investigative Direction: Pull the original Erika Kirk X/Twitter post and confirm timestamp in Arizona time.
 
@@ -728,6 +730,7 @@ Investigative Direction: Pull the original Erika Kirk X/Twitter post and confirm
 Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted at 9:45 a.m. Arizona time on 2025-09-10, "God is our refuge and strength, a very present help in trouble," approximately 1.5 hours before Charlie Kirk's assassination that day.
 Anchored Artifacts: A-1785.3
+Mentions: N-1, N-2
 Related Nodes: N-1586, N-1585
 Investigative Direction: Pull the original Erika Kirk X/Twitter post and compare to publicly known time of the assassination.
 
@@ -738,6 +741,7 @@ Investigative Direction: Pull the original Erika Kirk X/Twitter post and compare
 Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk's three scripture X/Twitter posts fell on September 8, 9, and 10, 2025, with the third occurring on the day of the assassination and within ~1.5 hours of the event.
 Anchored Artifacts: A-1785.1, A-1785.2, A-1785.3
+Mentions: N-1, N-2
 Related Nodes: N-1586
 Investigative Direction: Independent verification of Erika's X/Twitter posting timestamps against publicly documented timeline of September 8–10 events.
 
@@ -748,6 +752,7 @@ Investigative Direction: Independent verification of Erika's X/Twitter posting t
 Claim Timestamp: 00:29:58
 Claim: Episode presents that, per a TikTok source, the speaker located ~40 DOJ file results containing the phrase "color of the day," and the file corresponding to the day of Charlie Kirk's assassination was the only one in which the color itself was redacted.
 Anchored Artifacts: A-1786.1
+Mentions: N-1
 Related Nodes: N-1582
 Investigative Direction: Pull the cited DOJ files directly, confirm the count and the redacted entry, and identify which operation the redacted file refers to.
 
@@ -769,7 +774,7 @@ Investigative Direction: Pull the Newsweek article directly and confirm the exac
 Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
 Anchored Artifacts: A-1788.1, A-1789.1
-Mentions: N-272
+Mentions: N-272, N-1
 Related Nodes: N-1583
 Investigative Direction: Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.
 

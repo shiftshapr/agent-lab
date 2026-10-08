@@ -475,7 +475,7 @@ Investigative Pressure: Medium
 
 Referenced extensively throughout episode; subject of multiple artifact-anchored claims (April 2018 text, date outfit text, BB decline alleged).
 
-*Related: A-1481.1, A-1482.1, A-1484.1, C-1809, C-1810, N-272, N-326*
+*Related: A-1481.1, A-1482.2, A-1484.1, C-1809, C-1810, N-272, N-326*
 
 ---
 
@@ -600,8 +600,8 @@ Claim Timestamp: 00:40:29
 
 Claim: Charlie Kirk texted Candace Owens asking whether he had to change his shirt before a date; Owens replied "Yes, and throw it away if you can, Charlie"; Kirk replied "Ah, okay."
 
-Anchored Artifacts: A-1482.1
-Mentions: N-1
+Anchored Artifacts: A-1482.2
+Mentions: N-1, N-3
 
 
 Investigative Direction: Obtain screenshot of original exchange if preserved.
@@ -643,6 +643,7 @@ Claim Timestamp: 00:51:46
 Claim: The book "Make Him a Sandwich" by Candace Owens is available for purchase on Amazon via direct delivery.
 
 Anchored Artifacts: A-1485.1
+Mentions: N-3
 
 Related Nodes:
 
@@ -657,7 +658,7 @@ Claim Timestamp: 00:28:17
 Claim: Six people at Turning Point USA reported that Justin Strife placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.
 
 Anchored Artifacts: A-1486.1
-Mentions: N-43
+Mentions: N-43, N-1
 
 Related Nodes: N-1369, N-1371
 
@@ -731,6 +732,7 @@ Claim Timestamp: 00:33:15
 Claim: A close family friend of Andrew Kolvet, in a written tip to host, said that Andrew Kolvet told them that when Charlie said no to "BB," he lost out on millions.
 
 Anchored Artifacts: A-1488.1
+Mentions: N-42
 
 Related Nodes: N-1373, N-1376
 

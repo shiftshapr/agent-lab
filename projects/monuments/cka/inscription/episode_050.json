@@ -675,9 +675,9 @@
       "claim_timestamp": "00:24:37 – 00:26:29",
       "investigative_direction": "Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.",
       "mentions_person_refs": [
-        "N-1",
         "N-50",
-        "N-133"
+        "N-133",
+        "N-1"
       ]
     },
     {
@@ -813,7 +813,8 @@
       "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.",
       "mentions_person_refs": [
         "N-2",
-        "N-605"
+        "N-605",
+        "N-1"
       ]
     }
   ],

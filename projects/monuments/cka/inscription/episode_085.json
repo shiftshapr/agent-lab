@@ -37,10 +37,6 @@
             "C-2588"
           ],
           "related_nodes": [
-            "N-1212",
-            "N-1213",
-            "N-1214",
-            "N-1215",
             "N-1641"
           ],
           "tags": [],
@@ -354,191 +350,6 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Subject of A-1905.1 (UVU audio clip). Transcript references him inconsistently as both \"Frank Turek\" and \"Frank Churik\"; chapter title uses \"Frank Turek.\" Christian apologist and TPUSA affiliate who described the moment of Charlie Kirk's death being communicated to Erika.",
-      "related_artifacts": [
-        "A-1905.1"
-      ],
-      "related_claims": [
-        "C-2591",
-        "C-2592",
-        "C-2593"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Interviewer in the audio clip A-1904.1, who asked Erika Kirk whether she believed Tyler Robinson murdered her husband.",
-      "related_artifacts": [
-        "A-1904.1"
-      ],
-      "related_claims": [
-        "C-2589"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Washington County Sheriff who held press conferences (A-1908.1 and A-1908.2) describing the apprehension of Tyler Robinson, and who subsequently resigned (A-1910.1). May have an existing node from prior episodes covering his earlier statements.",
-      "related_artifacts": [
-        "A-1908.1",
-        "A-1908.2",
-        "A-1910.1"
-      ],
-      "related_claims": [
-        "C-2598",
-        "C-2599",
-        "C-2600",
-        "C-2601",
-        "C-2602",
-        "C-2605",
-        "C-2606",
-        "C-2607",
-        "C-2608"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 9,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Retired Washington County deputy referenced in Sheriff Brooksby's press conferences as the family friend who contacted the Sheriff's Office about Tyler Robinson. Name \"Mike Mitchell\" is supplied by host narration rather than by the Brooksby clips themselves; the clips describe him only as \"a friend of mine\" and \"a retired Washington County deputy.\"",
-      "related_artifacts": [
-        "A-1908.2"
-      ],
-      "related_claims": [
-        "C-2601"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Governor of Utah; subject of A-1907.1 (press conference clip). Made statements regarding Robinson's alleged confession.",
-      "related_artifacts": [
-        "A-1907.1"
-      ],
-      "related_claims": [
-        "C-2595",
-        "C-2596",
-        "C-2597"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
-      "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
-      "description": "Identified in A-1903.1 (Guardian article) as a ringleader of the alleged Athanor lodge conspiracy who allegedly organized the hits on Marie-Hélène Dini.",
-      "related_artifacts": [
-        "A-1903.1"
-      ],
-      "related_claims": [
-        "C-2587"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Identified in A-1903.1 (Guardian article) as a co-conspirator alongside Jean-Luc Baguer and Daniel Balou in the Athanor lodge case.",
-      "related_artifacts": [
-        "A-1903.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
-      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
-      "description": "Retired intelligence officer named in A-1903.1 (Guardian article) who allegedly told the hitmen they were acting on behalf of the French government; reportedly attempted suicide while in prison.",
-      "related_artifacts": [
-        "A-1903.1"
-      ],
-      "related_claims": [
-        "C-2587",
-        "C-2588"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Business coach identified in A-1903.1 (Guardian article) as the target of the failed 2020 contract killing that triggered the Athanor lodge trial.",
-      "related_artifacts": [
-        "A-1903.1"
-      ],
-      "related_claims": [
-        "C-2584",
-        "C-2586"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1639",
       "ref": "N-1639",
       "name": "Tyler Robinson Confession Narrative Discrepancy",
@@ -620,6 +431,86 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Comments revisit CPR narratives vs unnamed fire captain.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-264",
+      "ref": "N-264",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-437",
+      "ref": "N-437",
+      "name": "Nate Brooksby",
+      "type": "person",
+      "description": "Washington County Sheriff who held the September 17, 2025 press conference at which he stated \"Our job was not to interview. Our job was just to get him here\" and that \"my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-444",
+      "ref": "N-444",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -681,7 +572,6 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1641"
       ],
       "tags": [],
@@ -714,7 +604,6 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1215",
         "N-1641"
       ],
       "tags": [],
@@ -731,9 +620,6 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1212",
-        "N-1213",
-        "N-1214",
         "N-1641"
       ],
       "tags": [],
@@ -750,7 +636,6 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1214",
         "N-1641"
       ],
       "tags": [],
@@ -772,7 +657,9 @@
       "investigative_direction": "Cross-check with the published version of the Bari Weiss interview.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-69",
+        "N-444"
       ]
     },
     {
@@ -806,7 +693,9 @@
       "claim_timestamp": "00:19:47",
       "investigative_direction": "Verify against other witness accounts of the moment.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1",
+        "N-16"
       ]
     },
     {
@@ -823,7 +712,10 @@
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Verify against other contemporaneous accounts.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-264",
+        "N-1",
+        "N-16"
       ]
     },
     {
@@ -838,7 +730,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:50",
-      "investigative_direction": "Cross-check with other accounts of plane arrangements."
+      "investigative_direction": "Cross-check with other accounts of plane arrangements.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
     },
     {
       "@type": "Claim",
@@ -856,7 +751,8 @@
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Locate the original tweet and any subsequent corroboration or denial.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -875,7 +771,8 @@
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Cross-reference with Brooksby's account.",
       "mentions_person_refs": [
-        "N-70"
+        "N-70",
+        "N-69"
       ]
     },
     {
@@ -946,7 +843,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
-      "investigative_direction": "Verify against other sources."
+      "investigative_direction": "Verify against other sources.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -974,12 +874,14 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-1210",
         "N-1639"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56",
-      "investigative_direction": "Verify against court records and other accounts."
+      "investigative_direction": "Verify against court records and other accounts.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -995,7 +897,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:42:54",
-      "investigative_direction": "Compare with Cox's framing of an outright confession (C-2597)."
+      "investigative_direction": "Compare with Cox's framing of an outright confession (C-2597).",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -1043,7 +948,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:15",
-      "investigative_direction": "Obtain official Washington County Commission statement and any press release explaining the resignation."
+      "investigative_direction": "Obtain official Washington County Commission statement and any press release explaining the resignation.",
+      "mentions_person_refs": [
+        "N-437"
+      ]
     },
     {
       "@type": "Claim",

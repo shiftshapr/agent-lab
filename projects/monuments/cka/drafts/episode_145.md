@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2213, N-2214, N-2215
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220
+  - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
 ---
@@ -92,7 +92,7 @@ Video Timestamp: 00:30:13–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3333, C-3334, C-3335, N-1210, N-1213*
+*Related: C-3333, C-3334, C-3335*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:34:07–00:34:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3336, C-3337, N-1210, N-2213*
+*Related: C-3336, C-3337, N-2213*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3338, C-3339, N-1211, N-1212, N-2213*
+*Related: C-3338, C-3339, N-2213*
 
 ---
 
@@ -132,7 +132,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced; precise post identification not specified
 
-*Related: C-3335, N-1213, N-2213*
+*Related: C-3335, N-2213*
 
 ---
 
@@ -159,7 +159,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced; specific announcement post not displayed
 
-*Related: C-3341, N-1218, N-1219, N-1220*
+*Related: C-3341*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:17:34–00:18:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3342, C-3343, N-1214, N-1217*
+*Related: C-3342, C-3343*
 
 ## IV. Node Register
 
@@ -187,7 +187,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1, C-3334, C-3335, C-3336, C-3340, C-3344, N-1210, N-1211, N-1212, N-1213*
+*Related: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1, C-3334, C-3335, C-3336, C-3340, C-3344*
 
 ---
 
@@ -256,6 +256,7 @@ Claim Timestamp: 00:13:27
 Claim: The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.
 
 Anchored Artifacts: A-2310.1
+Mentions: N-775
 Related Nodes:
 Investigative Direction: Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.
 
@@ -268,6 +269,7 @@ Claim Timestamp: 00:14:29
 Claim: Justin Baldoni informed the host he was on a layover from Sweden, where his wife is from, when the encounter occurred.
 
 Anchored Artifacts: A-2310.1
+Mentions: N-775
 Related Nodes:
 Investigative Direction: Verify via flight records or independent statements from Baldoni or his representatives.
 
@@ -280,6 +282,7 @@ Claim Timestamp: 00:28:26
 Claim: An NCRI-issued report titled "Permission to Kill" characterized the host as a "digital assassin" and described her investigation as creating a risk to Erika Kirk's safety.
 
 Anchored Artifacts: A-2312.1
+Mentions: N-2
 Related Nodes: N-2214
 Investigative Direction: Obtain the full NCRI report; verify authorship, publication date, and exact wording.
 
@@ -292,6 +295,7 @@ Claim Timestamp: 00:28:26
 Claim: The NCRI report was led by Kairos company, which the host identifies as the former PR firm of Andrew Kolvet (TPUSA).
 
 Anchored Artifacts: A-2312.1
+Mentions: N-42
 Related Nodes: N-2214
 Investigative Direction: Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos.
 
@@ -304,6 +308,7 @@ Claim Timestamp: 00:28:26
 Claim: The NCRI report was released on the first day of Tyler Robinson's preliminary hearing.
 
 Anchored Artifacts: A-2312.1
+Mentions: N-69
 Related Nodes: N-2214
 Investigative Direction: Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing.
 
@@ -316,8 +321,8 @@ Claim Timestamp: 00:30:13
 Claim: Jenica Pounds (@DataRepublican) posted an X thread asserting that the host and her audience constitute a "permission structure" for someone to "try and kill Erika."
 
 Anchored Artifacts: A-2313.1
-Mentions: N-2, N-3
-Related Nodes: N-1210
+Mentions: N-2, N-3, N-447
+Related Nodes:
 Investigative Direction: Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.
 
 ---
@@ -329,7 +334,8 @@ Claim Timestamp: 00:31:33
 Claim: Andrew Kolvet publicly thanked Data Republican and stated her thread "exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika."
 
 Anchored Artifacts: A-2317.1
-Related Nodes: N-1212, N-2213
+Mentions: N-447, N-42
+Related Nodes: N-2213
 Investigative Direction: Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).
 
 ---
@@ -341,7 +347,8 @@ Claim Timestamp: 00:31:33
 Claim: Bill Ackman publicly promoted Data Republican's content about Charlie Kirk and the host on X.
 
 Anchored Artifacts: A-2316.1
-Related Nodes: N-1213, N-2213
+Mentions: N-447, N-1, N-66
+Related Nodes: N-2213
 Investigative Direction: Retrieve the specific Bill Ackman post; verify date and quoted text.
 
 ---
@@ -353,7 +360,7 @@ Claim Timestamp: 00:34:07
 Claim: Jenica Pounds publicly stated "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
 
 Anchored Artifacts: A-2314.1
-Related Nodes: N-1210, N-2213
+Related Nodes: N-2213
 Investigative Direction: Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures.
 
 ---
@@ -365,7 +372,7 @@ Claim Timestamp: 00:34:53
 Claim: Jenica Pounds stated that her Pentagon press credentials expired in June and that she did not seek renewal, as she was working as an SGE rather than as press.
 
 Anchored Artifacts: A-2314.1
-Related Nodes: N-1210, N-2213
+Related Nodes: N-2213
 Investigative Direction: Retrieve the full quoted X post; verify against Pentagon press credential records.
 
 ---
@@ -377,7 +384,8 @@ Claim Timestamp: 00:33:25
 Claim: Blake Neff posted on X that "My friend Sarah Rogers is one of Charlie's favorite Trump nominees" and confirmed her swearing in as Under Secretary for Public Diplomacy.
 
 Anchored Artifacts: A-2315.1
-Related Nodes: N-1212, N-1211
+Mentions: N-224
+Related Nodes:
 Investigative Direction: Retrieve the Blake Neff post directly; verify quoted text.
 
 ---
@@ -389,7 +397,7 @@ Claim Timestamp: 00:33:25
 Claim: Sarah Rogers was confirmed a week prior to the post and sworn in the prior Friday as Under Secretary for Public Diplomacy at the U.S. State Department.
 
 Anchored Artifacts: A-2315.1
-Related Nodes: N-1211
+Related Nodes:
 Investigative Direction: Cross-reference Senate confirmation records and State Department announcement archives.
 
 ---
@@ -401,7 +409,7 @@ Claim Timestamp: 00:32:35
 Claim: Jenica Pounds publicly revealed that Sarah Rogers was leaking information to her, after which Pounds grew paranoid about being set up; host asserts this disclosure itself constitutes evidence of the leak.
 
 Anchored Artifacts: A-2314.1
-Related Nodes: N-1210, N-1211, N-2213
+Related Nodes: N-2213
 Investigative Direction: Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.
 
 ---
@@ -413,7 +421,8 @@ Claim Timestamp: 00:37:33
 Claim: Turning Point USA announced a tour titled "Love It or Leave It" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality referenced as "Matt Nuclear."
 
 Anchored Artifacts: A-2318.1
-Related Nodes: N-1218, N-1219, N-1220
+Mentions: N-138, N-342, N-133, N-135
+Related Nodes:
 Investigative Direction: Retrieve TPUSA's official tour announcement; verify lineup and dates.
 
 ---
@@ -425,7 +434,8 @@ Claim Timestamp: 00:17:34
 Claim: The CCRD complaint filed by Blake Lively included the allegation that Jamie Heath approached Lively on set and began playing a video of a "fully nude woman with her legs spread apart," which Lively interpreted as pornography.
 
 Anchored Artifacts: A-2319.1
-Related Nodes: N-1214, N-1217
+Mentions: N-774
+Related Nodes:
 Investigative Direction: Obtain the full CCRD filing; verify the quoted passage in original context.
 
 ---
@@ -437,7 +447,7 @@ Claim Timestamp: 00:17:34
 Claim: Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene.
 
 Anchored Artifacts: A-2319.1
-Related Nodes: N-1217, N-1214
+Related Nodes:
 Investigative Direction: Verify by reading the full CCRD filing; compare to subsequent court filings.
 
 ---
@@ -449,12 +459,13 @@ Claim Timestamp: 00:35:45
 Claim: The host asserts that the State Department (Sarah Rogers), the Department of War (Jenica Pounds), Turning Point USA allies (Blake Neff, Andrew Kolvet), and Bill Ackman are jointly conducting a propaganda operation against her investigation into the Charlie Kirk assassination.
 
 Anchored Artifacts: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1
-Related Nodes: N-2213, N-1210, N-1211, N-1212, N-1213
+Mentions: N-42, N-1, N-66, N-224
+Related Nodes: N-2213
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-1218):** Host uses the name "Matt Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
+- **Name uncertainty (former local id 1218):** Host uses the name "Matt Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
 - **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.
 - **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erica Kirk.
 - **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-2215 but not as an artifact-anchored claim in this episode.
@@ -470,6 +481,6 @@ Claim Range: C-3326–C-3344
 New Nodes Introduced:
 N-2213, N-2214, N-2215
 
-Existing Nodes Reused: N-1, N-2, N-3, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220
+Existing Nodes Reused: N-1, N-2, N-3
 
 ---

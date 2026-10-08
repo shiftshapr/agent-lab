@@ -842,7 +842,7 @@
       "description": "Referenced extensively throughout episode; subject of multiple artifact-anchored claims (April 2018 text, date outfit text, BB decline alleged).",
       "related_artifacts": [
         "A-1481.1",
-        "A-1482.1",
+        "A-1482.2",
         "A-1484.1"
       ],
       "related_claims": [
@@ -921,6 +921,22 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1066,14 +1082,15 @@
       "label": "Charlie Kirk texted about whether to change shirt before a date",
       "claim": "Charlie Kirk texted Candace Owens asking whether he had to change his shirt before a date; Owens replied \"Yes, and throw it away if you can, Charlie\"; Kirk replied \"Ah, okay.\"",
       "anchored_artifacts": [
-        "A-1482.1"
+        "A-1482.2"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:29",
       "investigative_direction": "Obtain screenshot of original exchange if preserved.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -1120,7 +1137,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:46",
-      "investigative_direction": "Confirm live Amazon listing and stock status."
+      "investigative_direction": "Confirm live Amazon listing and stock status.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1139,7 +1159,8 @@
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.",
       "mentions_person_refs": [
-        "N-43"
+        "N-43",
+        "N-1"
       ]
     },
     {
@@ -1227,7 +1248,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:15",
-      "investigative_direction": "Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration."
+      "investigative_direction": "Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
     },
     {
       "@type": "Claim",

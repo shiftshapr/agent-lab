@@ -63,11 +63,11 @@ Confidence: medium
 **A-1122.1** Host's text message exchange with camera individual explaining his actions
 Video Timestamp: 00:07:15–00:08:48
 *Related: C-1208, N-118, N-1000*
-Transcript Snippet: I was sitting right to the left of Charlie... I better secure the footage... hand it to the feds
+Transcript Snippet: I was sitting right to the left or or to the left of Charlie when Charlie got shot ... I better secure the footage. ... hand that footage over to the feds.
 Confidence: high
 
 **A-1122.2** FaceTime call in which the camera individual shows host the behind-shot footage on his computer
-Video Timestamp: 00:11:47–00:15:27
+Video Timestamp: 00:10:33–00:14:13
 *Related: C-1209, N-118, N-2, N-1*
 Transcript Snippet: he will get onto a FaceTime call with me and he will show me the footage on his computer
 Confidence: medium
@@ -78,9 +78,9 @@ Uncertainty: Underlying footage not shown in episode; relies on host's account.
 **A-1123** Caldera Engineering Email Bundle
 
 **A-1123.1** Viewer email detailing valves as critical infrastructure monitored by intelligence agencies (CISA, NSA, FERC)
-Video Timestamp: 00:19:25–00:21:25
+Video Timestamp: 00:17:21–00:19:21
 *Related: C-1217, C-1218, N-1130, N-1132, N-1133, N-1134*
-Transcript Snippet: Valves as critical infrastructure assets... intelligence agencies, CISA, NSA, FERC monitor valve networks
+Transcript Snippet: Valves as critical infrastructure assets. ... intelligence and regulatory agencies, the uh CISA, NSA, PH, MSA, FERC monitor valve networks
 Confidence: high
 
 ---
@@ -88,7 +88,7 @@ Confidence: high
 **A-1124** Daily Mail Article Bundle
 
 **A-1124.1** Daily Mail article by Victoria Churchill headlined 'Candace Owens rages after being snubbed from Kirk memorial'
-Video Timestamp: 00:28:50–00:29:03
+Video Timestamp: 00:24:46–00:24:59
 *Related: C-1211, C-1219, N-119, N-1135*
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Confidence: high
@@ -98,7 +98,7 @@ Confidence: high
 **A-1125** PBD Podcast Clip Bundle
 
 **A-1125.1** PBD podcast clip featuring Bill Aman and Andrew Kovit discussing Candace's TPUSA involvement
-Video Timestamp: 00:29:57–00:31:32
+Video Timestamp: 00:25:57–00:27:32
 *Related: C-1212, C-1213, N-88, N-66, N-42, N-1000*
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016... she's not even invited
 Confidence: high
@@ -108,7 +108,7 @@ Confidence: high
 **A-1126** Pam Bondi Clip Bundle
 
 **A-1126.1** Pam Bondi on Katie Miller podcast stating government will target hate speech
-Video Timestamp: 00:41:44–00:42:14
+Video Timestamp: 00:35:09–00:35:39
 *Related: C-1214, N-120, N-121, N-1145*
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Confidence: high
@@ -118,13 +118,13 @@ Confidence: high
 **A-1127** Jimmy Kimmel Clip Bundle
 
 **A-1127.1** Jimmy Kimmel monologue joking about Trump's grief 'construction' stage
-Video Timestamp: 00:46:28–00:47:52
+Video Timestamp: 00:39:31–00:40:55
 *Related: C-1215, N-122, N-5*
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Confidence: high
 
 **A-1127.2** Kimmel's Instagram post calling Kirk shooting 'senseless gun violence'
-Video Timestamp: 00:49:31–00:49:58
+Video Timestamp: 00:41:12–00:41:39
 *Related: C-1216, N-122, N-2*
 Transcript Snippet: can we just for one day agree that it's horrible and monstrous to shoot another person
 Confidence: high
@@ -134,7 +134,7 @@ Confidence: high
 **A-1128** FCC Brendan Carr Clip Bundle
 
 **A-1128.1** FCC Chairman Brendan Carr on Benny Johnson show threatening federal action against ABC affiliates carrying Kimmel
-Video Timestamp: 00:50:41–00:51:35
+Video Timestamp: 00:42:01–00:42:55
 *Related: C-1220, N-123, N-124, N-1136, N-1145*
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Confidence: high
@@ -144,13 +144,13 @@ Confidence: high
 **A-1129** Charlie Kirk May Communication Bundle
 
 **A-1129.1** Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions
-Video Timestamp: 00:39:19–00:39:44
+Video Timestamp: 00:32:43–00:33:08
 *Related: C-1221, N-125, N-126*
 Transcript Snippet: after the assassination of Sarah Mgram and Yuron Lachinsky... these were beautiful people
 Confidence: medium
 
 **A-1129.2** Host's text exchange with Charlie Kirk dated May 22 about speech censorship
-Video Timestamp: 00:39:01–00:40:17
+Video Timestamp: 00:32:59–00:34:15
 *Related: C-1222, N-1, N-3*
 Transcript Snippet: speech censorship is coming to America... the date here is May 22nd of this year
 Confidence: medium
@@ -160,13 +160,13 @@ Confidence: medium
 **A-1130** TPUSA Speaking Footage Bundle
 
 **A-1130.1** Footage of Candace Owens speaking on Turning Point USA stage from prior tour/conference
-Video Timestamp: 00:33:03–00:34:36
+Video Timestamp: 00:27:53–00:29:26
 *Related: C-1223, N-3, N-1000*
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... America first. First name America, last name first
 Confidence: high
 
 **A-1130.2** Live Free Tour promotional material featuring Charlie Kirk and Candace Owens
-Video Timestamp: 00:35:07–00:35:20
+Video Timestamp: 00:29:24–00:29:37
 *Related: C-1223, N-1, N-3, N-1000*
 Transcript Snippet: Live free tour. Charlie Kirk and Candace Owens
 Confidence: high
@@ -176,7 +176,7 @@ Confidence: high
 **A-1131** Robinson-Lance Text Chain Bundle
 
 **A-1131.1** FBI-released text exchange between accused shooter Tyler Robinson and his partner Lance
-Video Timestamp: 00:53:48–00:55:59
+Video Timestamp: 00:44:30–00:46:41
 *Related: C-1224, N-69, N-84, N-1079*
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance... what went wrong? FBI
 Confidence: high
@@ -186,7 +186,7 @@ Confidence: high
 **A-1132** Parody Clip Bundle
 
 **A-1132.1** Chris Olsen Instagram parody clip mocking the Robinson-Lance FBI text chain
-Video Timestamp: 00:54:17–00:54:55
+Video Timestamp: 00:44:52–00:45:30
 *Related: C-1225, N-123*
 Transcript Snippet: Good day, my love. I have just committed one of the highest sins of the Lord. Murder
 Confidence: high
@@ -196,9 +196,9 @@ Confidence: high
 **A-1133** Dairy Queen Photo Bundle
 
 **A-1133.1** Dairy Queen surveillance photo referenced by host; dated post-August 31 via maple cookie shake ad
-Video Timestamp: 00:56:34–01:01:53
+Video Timestamp: 00:50:29–00:55:48
 *Related: C-1226, N-69*
-Transcript Snippet: maple cookie shake... they began advertising on August 31st... absolutely earliest is August 31st
+Transcript Snippet: So, the absolute earliest that could have been taken is August 31st ... Yes, the maple cookie shake. That's what it was. Um, they began advertising on August 31st,
 Confidence: medium
 
 ---
@@ -663,7 +663,7 @@ Claim Timestamp: 00:03:50
 Claim: Two unidentified men appeared in the immediate aftermath of the shooting and moved Charlie Kirk's chair and the camera positioned above his head.
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
-Mentions: N-99, N-118
+Mentions: N-99, N-118, N-1
 Related Nodes: N-1142
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.
@@ -700,7 +700,7 @@ Investigative Direction: Forensically examine the recovered camera for evidence 
 
 **C-1208** Camera individual claims long TPUSA association
 
-Claim Timestamp: 00:06:11
+Claim Timestamp: 00:06:44
 Claim: The individual who handled the camera told the host he had been around Turning Point USA for years, dating to the host's early tenure.
 Transcript Snippet: This person's been around Turning Point for quite some time, for years
 Anchored Artifacts: A-1122.1
@@ -713,7 +713,7 @@ Investigative Direction: Verify association via TPUSA employee/vendor records an
 
 **C-1209** Behind-shot footage shown to host contained no blood
 
-Claim Timestamp: 00:12:45
+Claim Timestamp: 00:11:36
 Claim: The footage shown to the host via FaceTime from the rear angle showed no blood or gore.
 Transcript Snippet: there's no blood... there's no blood from the back
 Anchored Artifacts: A-1122.2
@@ -732,6 +732,7 @@ Claim Timestamp: 00:00:57
 Claim: The U.S. Senate has voted and passed a bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day.
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Anchored Artifacts: A-1121.1
+Mentions: N-1
 Related Nodes: N-1131
 Confidence: medium
 Investigative Direction: Locate the resolution text in the Congressional Record and verify vote tally.
@@ -740,11 +741,11 @@ Investigative Direction: Locate the resolution text in the Congressional Record 
 
 **C-1211** Daily Mail published snub-rage headline about Candace
 
-Claim Timestamp: 00:29:03
+Claim Timestamp: 00:24:46
 Claim: The Daily Mail ran a headline written by Victoria Churchill stating Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster.
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Anchored Artifacts: A-1124.1
-Mentions: N-119
+Mentions: N-119, N-3, N-1
 Related Nodes: N-1135
 Confidence: high
 Investigative Direction: Verify headline and byline on the Daily Mail site and check publication date.
@@ -753,7 +754,7 @@ Investigative Direction: Verify headline and byline on the Daily Mail site and c
 
 **C-1212** Bill Aman stated Candace's credibility is failing
 
-Claim Timestamp: 00:30:18
+Claim Timestamp: 00:25:42
 Claim: On the PBD podcast, Bill Aman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.
 Transcript Snippet: her credibility, I mean, is going to go down the tubes because she needs to bring receipts
 Anchored Artifacts: A-1125.1
@@ -765,7 +766,7 @@ Investigative Direction: Obtain full PBD segment and verify exact quote against 
 
 **C-1213** Andrew Kovit claims last saw Candace at TPUSA in 2015/2016
 
-Claim Timestamp: 00:30:38
+Claim Timestamp: 00:25:57
 Claim: On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
@@ -780,11 +781,11 @@ Tags: open_source_investigation
 
 **C-1214** Pam Bondi stated government will target hate speech
 
-Claim Timestamp: 00:42:14
+Claim Timestamp: 00:35:09
 Claim: Pam Bondi told Katie Miller's podcast that the government will 'absolutely target you' for hate speech, citing Charlie Kirk's assassination.
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Anchored Artifacts: A-1126.1
-Mentions: N-120, N-121
+Mentions: N-120, N-121, N-1
 Related Nodes: N-1145
 Confidence: high
 Investigative Direction: Verify Bondi's exact remarks against full podcast audio and date.
@@ -793,7 +794,7 @@ Investigative Direction: Verify Bondi's exact remarks against full podcast audio
 
 **C-1215** Kimmel joked about Trump being in 'construction' grief stage
 
-Claim Timestamp: 00:47:39
+Claim Timestamp: 00:39:31
 Claim: Jimmy Kimmel said Trump was 'at the fourth stage of grief, construction' and compared his mourning to 'a four-year-old mourns a goldfish.'
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Anchored Artifacts: A-1127.1
@@ -806,7 +807,7 @@ Investigative Direction: Verify exact quote against full Kimmel episode transcri
 
 **C-1216** Kimmel Instagrammed condemnation of Kirk shooting
 
-Claim Timestamp: 00:49:52
+Claim Timestamp: 00:41:12
 Claim: Jimmy Kimmel posted on Instagram the day of the shooting calling it 'horrible and monstrous to shoot another person' and sending love to the Kirks.
 Transcript Snippet: can we just for one day agree that it's horrible and monstrous to shoot another person
 Anchored Artifacts: A-1127.2
@@ -818,7 +819,7 @@ Investigative Direction: Locate original Instagram post and verify date/time.
 
 **C-1217** Intelligence agencies monitor valve networks per viewer email
 
-Claim Timestamp: 00:20:18
+Claim Timestamp: 00:17:47
 Claim: Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and maintain trusted relationships with manufacturers.
 Transcript Snippet: intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks
 Anchored Artifacts: A-1123.1
@@ -830,7 +831,7 @@ Investigative Direction: Verify public statements and contracts from each named 
 
 **C-1218** Caldera Engineering manufactures valves in Provo
 
-Claim Timestamp: 00:21:03
+Claim Timestamp: 00:18:34
 Claim: Caldera Engineering is located in Provo, Utah and manufactures specialized industrial valves and control systems, with possible Israel project footprint.
 Transcript Snippet: companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems
 Anchored Artifacts: A-1123.1
@@ -856,11 +857,11 @@ Tags: open_source_investigation
 
 **C-1220** FCC Chair Carr threatened federal action against ABC affiliates
 
-Claim Timestamp: 00:50:48
+Claim Timestamp: 00:42:01
 Claim: FCC Chairman Brendan Carr threatened federal action against ABC affiliates carrying Jimmy Kimmel's show.
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Anchored Artifacts: A-1128.1
-Mentions: N-124, N-127
+Mentions: N-124, N-127, N-122
 Related Nodes: N-1136, N-1138, N-1145
 Confidence: high
 Investigative Direction: Locate full Carr interview on Benny Johnson show and verify against FCC official statements.
@@ -869,11 +870,11 @@ Investigative Direction: Locate full Carr interview on Benny Johnson show and ve
 
 **C-1221** Charlie Kirk tweet defended Milgram and Lachinsky
 
-Claim Timestamp: 00:39:44
+Claim Timestamp: 00:32:52
 Claim: Charlie Kirk authored a tweet in May about the assassinations of Sarah Milgram and Yuron Lachinsky, calling them beautiful people and pushing back against speech restrictions.
 Transcript Snippet: these were beautiful people. They had their lives ahead of them
 Anchored Artifacts: A-1129.1
-Mentions: N-125, N-126
+Mentions: N-125, N-126, N-1
 Confidence: medium
 Investigative Direction: Locate original Charlie Kirk tweet and verify date and content.
 
@@ -881,7 +882,7 @@ Investigative Direction: Locate original Charlie Kirk tweet and verify date and 
 
 **C-1222** Charlie texted Candace on May 22 about speech censorship
 
-Claim Timestamp: 00:40:17
+Claim Timestamp: 00:32:59
 Claim: Charlie Kirk texted host on May 22 saying 'speech censorship is coming to America.'
 Transcript Snippet: speech censorship is coming to America... the date here is May 22nd of this year
 Anchored Artifacts: A-1129.2
@@ -894,11 +895,11 @@ Tags: open_source_investigation
 
 **C-1223** Candace spoke at TPUSA conferences last year
 
-Claim Timestamp: 00:33:03
+Claim Timestamp: 00:27:53
 Claim: Candace Owens spoke at Turning Point USA conferences and toured with Charlie Kirk on the 'Live Free Tour' last year.
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens
 Anchored Artifacts: A-1130.1, A-1130.2
-Mentions: N-3
+Mentions: N-3, N-1
 Related Nodes: N-1000
 Contradicts: C-1213
 Confidence: high
@@ -909,7 +910,7 @@ Tags: open_source_investigation
 
 **C-1224** FBI released text chain between Robinson and Lance
 
-Claim Timestamp: 00:53:48
+Claim Timestamp: 00:44:30
 Claim: The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
@@ -923,7 +924,7 @@ Tags: open_source_investigation
 
 **C-1225** Chris Olsen posted parody clip of Robinson-Lance texts
 
-Claim Timestamp: 00:54:17
+Claim Timestamp: 00:44:52
 Claim: Creator Chris Olsen posted an Instagram parody clip mocking the FBI-released Robinson-Lance text exchange.
 Transcript Snippet: Good day, my love. I have just committed one of the highest sins of the Lord. Murder
 Anchored Artifacts: A-1132.1
@@ -936,7 +937,7 @@ Investigative Direction: Locate original Olsen Instagram post and verify date.
 
 **C-1226** Dairy Queen photo dated post-August 31
 
-Claim Timestamp: 01:01:38
+Claim Timestamp: 00:50:29
 Claim: The Dairy Queen photo of the suspect could not have been taken before August 31 because the visible maple cookie shake advertisement began then.
 Transcript Snippet: maple cookie shake... they began advertising on August 31st
 Anchored Artifacts: A-1133.1
@@ -1006,7 +1007,7 @@ Confidence: high
 
 ### Occurrence 1
 
-Video Timestamp: 00:26:54
+Video Timestamp: 00:23:05
 Speaker: N-3
 Quote: according to the CDC's own data, the flu shot is only moderately effective at best, and that's not even accounting for vaccine injuries
 Context: Host subverts Trust the Science meme by citing CDC data against flu shot efficacy
@@ -1032,7 +1033,7 @@ Confidence: medium
 
 ### Occurrence 1
 
-Video Timestamp: 00:22:45
+Video Timestamp: 00:20:02
 Speaker: N-3
 Quote: obscene lies that are just so easily fact checked... everyone people that I thought I was friends with are coming after me
 Context: Host describes coordinated media smears against her investigation, consistent with 'conspiracy theorist' dismissal pattern

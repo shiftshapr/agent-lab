@@ -748,6 +748,7 @@ Investigative Direction: Cross-reference Provo airport manifest or charter opera
 Claim Timestamp: 00:40:48
 Claim: The episode presents that the SUBND plane left Provo on September 13, 2025, three days after Charlie Kirk's assassination, routing through Canada and Paris back to Cairo.
 Anchored Artifacts: A-1302.4
+Mentions: N-1
 Related Nodes: N-1274
 Investigative Direction: Verify against Flightradar archives; obtain Canadian / French ATC transit records and Cairo arrival logs to identify passengers.
 
@@ -770,6 +771,7 @@ Investigative Direction: Verify via Google Trends / search-source attribution wh
 Claim Timestamp: 00:42:24
 Claim: The episode presents that N102DZ (G5 private jet) departed Scottsdale for Salt Lake City at 7:12 AM local time on the day of Charlie Kirk's assassination and landed at 9:23 AM local.
 Anchored Artifacts: A-1309.1
+Mentions: N-1
 Related Nodes: N-1282
 Investigative Direction: Pull Flightradar / FAA archives for N102DZ on September 10, 2025; identify operator and registered owner; cross-reference with Scottsdale and Salt Lake City airport logs.
 
@@ -827,7 +829,7 @@ Investigative Direction: Retrieve the underlying news article; verify the exact 
 Claim Timestamp: 00:32:39
 Claim: The episode presents that Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 referencing Jeffrey Epstein, questioning U.S. alignment with Israel, suggesting citizenship revocation for foreign-military service, and musing on Bill Ackman's wealth.
 Anchored Artifacts: A-1312.1
-Mentions: N-1, N-50
+Mentions: N-1, N-50, N-35, N-66
 Related Nodes: N-1275
 Investigative Direction: Obtain the Tucker Carlson TPUSA July 11, 2025 speech (video / transcript) and verify each cited claim against his actual statements.
 
@@ -853,6 +855,7 @@ Investigative Direction: Locate first-person testimony, contemporaneous social-m
 Claim Timestamp: 00:59:11
 Claim: An unattributed live-chat comment, read aloud by the host, reports that Charlie Kirk did in fact fly into Salt Lake City on September 10, 2025 for an interview with "Restaurantology Summit," and the host accepts the comment as resolving the N102DZ SLC mystery.
 Anchored Artifacts: A-1306.6, A-1309.1
+Mentions: N-1
 Related Nodes: N-1282
 Investigative Direction: Verify existence of a Charlie Kirk "Restaurantology Summit" interview; cross-check with N102DZ passenger manifest if obtainable.
 
@@ -878,6 +881,7 @@ Investigative Direction: Obtain direct confirmation from Andrew Kolb (public sta
 Claim Timestamp: 00:38:00
 Claim: The host states that Charlie Kirk did not know where TPUSA's money was coming from or going to, and that this motivated him to "establish the internet DOGE."
 Anchored Artifacts: A-1304.1
+Mentions: N-1
 Related Nodes: N-1278
 Investigative Direction: Locate any direct statement from Charlie Kirk regarding TPUSA funding opacity; verify the DOGE organizational structure and stated mission.
 
@@ -890,7 +894,7 @@ Investigative Direction: Locate any direct statement from Charlie Kirk regarding
 Claim Timestamp: 00:59:11
 Claim: The episode reads aloud multiple live-chat comments criticizing Pastor Jack Hibbs's silence, condemning Christian Zionist loyalty replacing loyalty to "God, the church, and the truth," and explicitly defending the host's investigation against Zionist criticism.
 Anchored Artifacts: A-1306.1, A-1306.2, A-1306.3
-Mentions: N-309
+Mentions: N-309, N-1
 Related Nodes: N-1275
 Investigative Direction: Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.
 
@@ -901,18 +905,18 @@ Investigative Direction: Verify each named pastor / figure's public silence or s
 Claim Timestamp: 01:01:33
 Claim: Live-chat comment "Tim Morgan" states that Sean Feucht and Pastor McCoy are planning a "Courageous Christianity Tour" to honor Charlie Kirk.
 Anchored Artifacts: A-1306.5
-Mentions: N-45, N-302
+Mentions: N-45, N-302, N-1
 Related Nodes: N-1275
 Investigative Direction: Verify the existence and details of any announced "Courageous Christianity Tour" through TPUSA Faith announcements, ticketing sites, or insider confirmations.
 
 ---
 
-**C-1559 / C-1566** NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership
+**C-1566** NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership
 
 Claim Timestamp: 00:13:18
-Claim: The host asserts — citing X researcher Village Crazy Lady — that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
+Claim: The host asserts, citing X researcher Village Crazy Lady, that Sean Feucht grew up in and is connected to the New Apostolic Reformation (NAR), that Rob McCoy and NAR are connected, and that this is a relevant area of investigation.
 Anchored Artifacts: A-1307.1
-Mentions: N-97, N-302
+Mentions: N-97, N-302, N-45
 Related Nodes: N-1275, N-1276
 Investigative Direction: Pull and analyze Village Crazy Lady's pinned NAR research thread; cross-check Sean Feucht's biographical and ministry affiliations against NAR church networks and apostle affiliations.
 
@@ -923,7 +927,7 @@ Investigative Direction: Pull and analyze Village Crazy Lady's pinned NAR resear
 Claim Timestamp: 00:14:58
 Claim: The host states that Rob McCoy "says, 'I was his pastor,'" and characterizes Rob McCoy's pattern of proximity to mass-shooting events as suspect.
 Anchored Artifacts: A-1310.1 (shooting reference as contextual anchor)
-Mentions: N-45
+Mentions: N-45, N-1
 Related Nodes: N-1279
 Investigative Direction: Locate any public statement by Rob McCoy identifying himself as Charlie Kirk's pastor; verify the nature and duration of any pastoral relationship.
 

@@ -772,7 +772,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:53",
-      "investigative_direction": "Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records."
+      "investigative_direction": "Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -907,7 +910,8 @@
       "claim_timestamp": "00:21:18",
       "investigative_direction": "Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response.",
       "mentions_person_refs": [
-        "N-102"
+        "N-102",
+        "N-1"
       ]
     },
     {
@@ -985,7 +989,8 @@
         "N-1",
         "N-50",
         "N-67",
-        "N-68"
+        "N-68",
+        "N-298"
       ]
     },
     {
@@ -1004,7 +1009,8 @@
       "mentions_person_refs": [
         "N-4",
         "N-67",
-        "N-293"
+        "N-293",
+        "N-298"
       ]
     },
     {
