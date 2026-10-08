@@ -11,6 +11,8 @@
 - **Transcript SHA-256**: e59ef23947937abb11240bb4332ca23fd6de863e534d55478de53e8073ce29e1
 
 - **Episode Ledger Summary**:
+  - Claim Range: C-3751
+  - Reused Nodes Appearing: N-50, N-629, N-102, N-148
   - (see registers)
 
 # Episode Analysis Output Template
@@ -25,3 +27,18 @@ Ep 114 advances Butler-assassination and Epstein-files threads. Tucker Carlson t
 ## 4. Node Register
 
 ## 5. Claim Register
+
+**C-3751** Host says the Butler story terrified Dan Bongino and Kash Patel
+
+Claim Timestamp: 00:04:34
+
+Claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Patel why the public was told Thomas Matthew Crooks had no social media history, the host says the Butler story, "perhaps the butler cover up", terrified Bongino and Patel.
+
+Transcript Snippet: this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bonino and terrified Kash Patel.
+
+Anchored Artifacts: 
+Mentions: N-3, N-50, N-629, N-102, N-148
+Related Nodes: 
+Investigative Direction: Obtain Carlson's full account and Bongino's response; compare FBI statements on Crooks's online history against what was later disclosed.
+
+---

@@ -494,16 +494,16 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 
 ## 6. Meme Register
 
-**M-77** (meme) Believe Your Own Eyes
+**M-74** (meme) Believe Your Own Eyes
 
 ### Occurrence 1
 
 Video Timestamp: 00:19:15
 Speaker: N-3
-Quote: 
-Context: Wave 3 mint – first transcript introduction. Host exhortation to trust visible evidence over gaslighting
-Tags: wave3
-Confidence: medium
+Quote: Don't believe your own eyes.
+Context: Reuse of Believe Your Own Eyes (first introduced in episode 2 at 01:02:07).
+Tags: wave3, reuse
+Confidence: high
 
 
 **M-13** (meme) Fake and Gay

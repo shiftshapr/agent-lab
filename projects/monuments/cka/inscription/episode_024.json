@@ -975,7 +975,12 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:13",
-      "investigative_direction": "Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA."
+      "investigative_direction": "Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-42",
+        "N-311"
+      ]
     },
     {
       "@type": "Claim",
@@ -1012,7 +1017,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:31",
-      "investigative_direction": "Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question."
+      "investigative_direction": "Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-313"
+      ]
     },
     {
       "@type": "Claim",
@@ -1026,7 +1035,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:40",
-      "investigative_direction": "Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel."
+      "investigative_direction": "Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.",
+      "mentions_person_refs": [
+        "N-102",
+        "N-314"
+      ]
     },
     {
       "@type": "Claim",
@@ -1058,7 +1071,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:46:55",
-      "investigative_direction": "No investigative direction required – viewer question is recorded as artifact."
+      "investigative_direction": "No investigative direction required – viewer question is recorded as artifact.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1072,7 +1088,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:40",
-      "investigative_direction": "No investigative direction required – viewer comment is recorded as artifact."
+      "investigative_direction": "No investigative direction required – viewer comment is recorded as artifact.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1094,5 +1113,26 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 24,
+          "video_timestamp": "00:47:40",
+          "quote": "So anyone who is divisive over this right is, as Candace says it, fake and gay.\" Yeah, Charlie believed in free speech.",
+          "context": "Wave 3 MemeLink backfill: Fake and Gay at 00:47:40 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

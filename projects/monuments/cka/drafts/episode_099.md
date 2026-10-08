@@ -31,6 +31,7 @@
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave3): N-685
   - Hole-minted Nodes (wave2): N-623, N-624, N-625, N-626, N-627
   - Tip-minted Nodes (wave2): N-2392
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
@@ -298,6 +299,12 @@ Discovery Timestamp: 00:00:00–00:00:01
 ---
 
 ## IV. Node Register
+
+**N-685** Brad Parscale
+
+First named by the host at 00:16:06 in episode 99.
+
+*Related: C-2864, C-2866*
 
 ### People (New)
 
@@ -611,6 +618,7 @@ Claim Timestamp: 00:16:57
 Claim: According to the FARA filing and the host, Clock Tower X LLC is run by Brad Parscale.
 
 Anchored Artifacts: A-2049.1
+Mentions: N-685
 
 Related Nodes: N-1732
 
@@ -639,6 +647,7 @@ Claim Timestamp: 00:16:57
 Claim: Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025, placing him simultaneously at Clock Tower X and Salem.
 
 Anchored Artifacts: A-2049.1, A-2054.1
+Mentions: N-685
 
 Related Nodes: N-1732
 

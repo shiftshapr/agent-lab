@@ -479,6 +479,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-929",
+      "ref": "N-929",
+      "name": "Rachel Wilson",
+      "type": "person",
+      "description": "First named by the host at 00:39:29 in episode 140.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -626,7 +642,8 @@
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp.",
       "mentions_person_refs": [
         "N-46",
-        "N-3"
+        "N-3",
+        "N-929"
       ]
     },
     {
@@ -643,7 +660,8 @@
       "claim_timestamp": "01:04:09",
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-929"
       ]
     },
     {

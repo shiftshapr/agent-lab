@@ -1172,16 +1172,16 @@ Investigative Direction: Confirm in the James Lee clip that the shirt is the sho
 
 ## 6. Meme Register
 
-**M-76** (meme) Pass the Sniff Test
+**M-79** (meme) Pass the Sniff Test
 
 ### Occurrence 1
 
 Video Timestamp: 00:42:15
 Speaker: N-3
-Quote: 
-Context: Wave 3 mint – first transcript introduction. Host judgment that a claim smells wrong / fails basic plausibility
-Tags: wave3
-Confidence: medium
+Quote: ...send him so over the edge that he would call a priest doesn't doesn't pass the sniff test for me.
+Context: Reuse of Pass the Sniff Test (first introduced in episode 7 at 00:11:53).
+Tags: wave3, reuse
+Confidence: high
 
 
 ## VI. Optional Flags

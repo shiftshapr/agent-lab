@@ -2452,15 +2452,38 @@
       "survives_as": "N-410",
       "canonical_name": "Teo Farnsworth",
       "reason": "Wave 3 Farnsworth ASR collapse: Teo Farnsworth is the same AV/SD-card operator as Terrell Farnsworth (N-410)."
+    },
+    "legacy-N-476": {
+      "survives_as": "N-66",
+      "canonical_name": "Bill Aman",
+      "reason": "Wave 3: \"Bill Aman\" is the auto-caption form of Bill Ackman (transcripts_corrected read \"Bill Ackman\" at the same beats, e.g. ep2 [15:24], ep3 [50:24], ep10 [25:04]); one person, one N-id, so N-476 collapses onto N-66 with \"Bill Aman\" kept as an alias."
     }
   },
   "reserved_baseline_ids": {
-    "description": "episode_000 baseline ids that count as occupied in the person band. They are reserved (never reclaimed as holes) and are not tombstones. Wave 2 removed ep96 junk rows that misused N-27, N-28, N-32 and N-33; the ids stay reserved baseline ids.",
+    "description": "episode_000 baseline ids that count as occupied in the person band. They are reserved (never reclaimed as holes) and are not tombstones. Wave 2 removed ep96 junk rows that misused N-27, N-28, N-32 and N-33; the ids stay reserved baseline ids. Wave 3 lists the remaining unoccupied baseline ids N-17, N-20, N-22, N-31, N-38 and N-55 here too, so every reserved id carries a reason.",
     "ids": [
+      "N-17",
+      "N-20",
+      "N-22",
       "N-27",
       "N-28",
+      "N-31",
       "N-32",
-      "N-33"
-    ]
+      "N-33",
+      "N-38",
+      "N-55"
+    ],
+    "reasons": {
+      "N-17": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-20": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-22": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-27": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-28": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-31": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-32": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-33": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-38": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-55": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)"
+    }
   }
 }

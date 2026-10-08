@@ -447,10 +447,10 @@ The artifact, node, and claim registers are mutually cross-referenced. Key struc
 
 Video Timestamp: 00:13:59
 Speaker: N-3
-Quote: 
-Context: Wave 3 mint – first transcript introduction. Host hedge stacking allegedly when relaying tipster claims
-Tags: wave3
-Confidence: medium
+Quote: Uh I'm going to say allegedly allegedly allegedly here.
+Context: Reuse of I'll Say Allegedly (first introduced in episode 3 at 00:30:02).
+Tags: wave3, reuse
+Confidence: high
 
 
 **M-40** (meme) Truman Show

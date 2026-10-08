@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
- - Hole-minted Nodes (wave3): N-679, N-680, N-681
- - Reused Nodes Appearing: N-2
+ - Hole-minted Nodes (wave3): N-682, N-683
+ - Reused Nodes Appearing: N-2, N-630, N-3, N-424
  - (see registers)
 
 # Episode 97 Analysis: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
@@ -404,21 +404,21 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-680** Josh Gottheimer
+**N-683** Josh Gottheimer
 
 First named by the host at 00:50:06 in episode 97.
 
 *Related: C-2828, C-2829, C-2830, C-2831, C-2832*
 
-**N-679** Mike Lawler
+**N-682** Mike Lawler
 
 First named by the host at 00:50:06 in episode 97.
 
 *Related: C-2828, C-2829, C-2830, C-2831, C-2832*
 
-**N-681** Josef Mengele
+**N-630** Josef Mengele
 
-First named by the host at 00:53:42 in episode 97.
+Named by the host at 00:53:42 in episode 97; first introduced in episode 65.
 
 *Related: C-2828, C-2829, C-2830, C-2831, C-2832*
 
@@ -594,6 +594,7 @@ Claim Timestamp: 00:09:16
 Claim: The lawsuit alleges Candace accused Harpole of failing to render effective aid with his medical bag and of lying about drone availability.
 
 Anchored Artifacts: A-2015.4
+Mentions: N-3, N-424
 
 Related Nodes: N-1720
 
@@ -800,7 +801,7 @@ Claim Timestamp: 00:50:32
 Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartisan House resolution condemning Candace Owens, among others.
 
 Anchored Artifacts: A-2023.1, A-2024.1
-Mentions: N-3, N-680, N-679, N-681
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -815,7 +816,7 @@ Claim Timestamp: 00:52:10
 Claim: The resolution text characterizes Candace's rhetoric as accusing Israel of controlling the US government.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-680, N-679, N-681
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -830,7 +831,7 @@ Claim Timestamp: 00:52:50
 Claim: The resolution text asserts Candace made an anti-Semitic claim that the United States is controlled by satanic pedophiles who work for Israel.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-680, N-679, N-681
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -845,7 +846,7 @@ Claim Timestamp: 00:53:42
 Claim: The resolution text references Candace's July 2024 commentary regarding Josef Mengele and "bizarre propaganda" following the Holocaust.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-680, N-679, N-681
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -860,7 +861,7 @@ Claim Timestamp: 00:55:26
 Claim: The official Auschwitz-Birkenau Memorial podcast acknowledged that myths arose around Mengele, including the "sewing twins together" legend that did not occur.
 
 Anchored Artifacts: A-2022.1
-Mentions: N-3, N-680, N-679, N-681
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 

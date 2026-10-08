@@ -872,8 +872,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-682",
-      "ref": "N-682",
+      "@id": "N-684",
+      "ref": "N-684",
       "name": "Chad Schnitker",
       "type": "person",
       "description": "First named by the host at 00:37:02 in episode 98.",
@@ -1053,7 +1053,7 @@
       "claim_timestamp": "00:37:02",
       "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database.",
       "mentions_person_refs": [
-        "N-682"
+        "N-684"
       ]
     },
     {
@@ -1072,7 +1072,7 @@
       "tags": [],
       "claim_timestamp": "00:36:00",
       "mentions_person_refs": [
-        "N-682"
+        "N-684"
       ]
     },
     {
@@ -1091,7 +1091,7 @@
       "claim_timestamp": "00:36:00",
       "mentions_person_refs": [
         "N-1",
-        "N-682"
+        "N-684"
       ]
     },
     {
@@ -1113,7 +1113,7 @@
       "investigative_direction": "Confirm contract date and counterparty from FARA filing.",
       "mentions_person_refs": [
         "N-1",
-        "N-682"
+        "N-684"
       ]
     },
     {
@@ -1285,5 +1285,48 @@
       "mentions_person_refs": []
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-10",
+      "ref": "M-10",
+      "canonical_term": "Happy Warrior",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 98,
+          "video_timestamp": "00:47:19",
+          "speaker_node_ref": "N-3",
+          "quote": "Be a happy warrior, as I told you Charlie used to always say.",
+          "context": "Wave 3 MemeLink backfill: Happy Warrior at 00:47:19 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 98,
+          "video_timestamp": "00:25:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Are we to believe that this is just a happy coincidence?",
+          "context": "Wave 3 MemeLink backfill: happy coincidence at 00:25:25 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

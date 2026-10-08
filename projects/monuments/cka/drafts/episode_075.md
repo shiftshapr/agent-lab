@@ -523,18 +523,6 @@ Investigative Direction: Identify the original podcast episode (Tim Dillon Show)
 
 ## 6. Meme Register
 
-**M-85** (meme) Bride of Charlie
-
-### Occurrence 1
-
-Video Timestamp: 00:00:00
-Speaker: N-3
-Quote: 
-Context: Wave 3 mint – first transcript introduction. Series title used as in-show meme/brand
-Tags: wave3
-Confidence: medium
-
-
 **M-46** (meme) Handler
 
 ### Occurrence 1

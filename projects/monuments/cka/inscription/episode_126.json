@@ -57,7 +57,8 @@
           ],
           "related_nodes": [
             "N-2116",
-            "N-2117"
+            "N-2117",
+            "N-809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -75,7 +76,8 @@
             "C-3028"
           ],
           "related_nodes": [
-            "N-2117"
+            "N-2117",
+            "N-809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -537,11 +539,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-689",
-      "ref": "N-689",
+      "@id": "N-685",
+      "ref": "N-685",
       "name": "Brad Parscale",
       "type": "person",
-      "description": "First named by the host at 00:34:37 in episode 126.",
+      "description": "Named by the host at 00:34:37 in episode 126; first introduced in episode 99.",
       "related_artifacts": [],
       "related_claims": [
         "C-3039",
@@ -552,6 +554,40 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-809",
+      "ref": "N-809",
+      "name": "Jennifer Faumuina",
+      "type": "person",
+      "description": "First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumina.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-808",
+      "ref": "N-808",
+      "name": "Nate Walker",
+      "type": "person",
+      "description": "First named by the host at 00:03:16 in episode 126.",
+      "related_artifacts": [
+        "A-2138.1"
+      ],
+      "related_claims": [
+        "C-3036"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -571,7 +607,9 @@
       "tags": [],
       "claim_timestamp": "00:08:30",
       "investigative_direction": "Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-809"
+      ]
     },
     {
       "@type": "Claim",
@@ -588,7 +626,9 @@
       "tags": [],
       "claim_timestamp": "00:09:25",
       "investigative_direction": "Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-809"
+      ]
     },
     {
       "@type": "Claim",
@@ -724,7 +764,8 @@
       "investigative_direction": "Obtain full Megyn Kelly interview and any prior on-record statements by Walker.",
       "mentions_person_refs": [
         "N-1",
-        "N-75"
+        "N-75",
+        "N-808"
       ]
     },
     {
@@ -778,7 +819,7 @@
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).",
       "mentions_person_refs": [
-        "N-689"
+        "N-685"
       ]
     },
     {
@@ -797,7 +838,7 @@
       "claim_timestamp": "00:35:39",
       "investigative_direction": "Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.",
       "mentions_person_refs": [
-        "N-689"
+        "N-685"
       ]
     },
     {

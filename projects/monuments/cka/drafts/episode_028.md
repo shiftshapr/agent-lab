@@ -13,6 +13,21 @@
 - **Episode Ledger Summary**:
   - (see registers)
 
+## 6. Meme Register
+
+**M-1** (meme) Grieving Widow
+
+### Occurrence 1
+
+Video Timestamp: 00:24:09
+Speaker: N-3
+Quote: He's standing there and he's saying, "Candace is attacking a grieving widow and accusing her of murdering Charlie Kirk.
+Context: Wave 3 MemeLink backfill: Grieving Widow at 00:24:09 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+---
+
 # Episode 28 Analysis Record
 
 ## I. Meta-Data

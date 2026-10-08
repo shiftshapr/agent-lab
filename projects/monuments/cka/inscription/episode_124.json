@@ -700,6 +700,87 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-787",
+      "ref": "N-787",
+      "name": "Justin Davis",
+      "type": "person",
+      "description": "First named by the host at 01:03:20 in episode 124.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3015"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-777",
+      "ref": "N-777",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-426",
+      "ref": "N-426",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Made two contradictory statements about Candace's security within one week.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Mentioned in a viewer comment the host answers dismissively.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -887,7 +968,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:06",
-      "investigative_direction": "Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization."
+      "investigative_direction": "Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
     },
     {
       "@type": "Claim",
@@ -976,7 +1060,9 @@
       "investigative_direction": "Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis.",
       "mentions_person_refs": [
         "N-1",
-        "N-133"
+        "N-133",
+        "N-777",
+        "N-787"
       ]
     },
     {
@@ -996,7 +1082,71 @@
         "N-69",
         "N-84"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3761",
+      "ref": "C-3761",
+      "label": "Host says Tim Pool and Jeremy Boreing lied about who received live updates from the transport car",
+      "claim": "The host says Tim Pool is lying when he says he did not receive updates from someone in the car about Charlie Kirk's status, and that Jeremy Boreing lied when he suggested her own security was getting those updates; she says she confirmed her security was not on the phone with anyone in the car.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2111"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:57",
+      "investigative_direction": "Identify who in the car was in contact with outside security teams and when.",
+      "transcript_snippet": "Tim Pool is lying through his teeth. He did not receive updates from somebody in that car about Charlie's status.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-426",
+        "N-607",
+        "N-133",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3764",
+      "ref": "C-3764",
+      "label": "Host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot",
+      "claim": "After asking who on Ben Shapiro's security team was receiving updates on Charlie Kirk's condition, the host asks who he (caption: \"Bench Crew\") was at lunch with in LA when the shooting happened, says she has a hunch, and offers a $10,000 bounty for evidence, sent to the tip line.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2111"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:02",
+      "investigative_direction": "Collect tip-line submissions on the lunch; corroborate any named attendee against location data or witnesses.",
+      "transcript_snippet": "I will put up $10,000 bounty on that piece of information.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-133"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "01:07:02",
+          "speaker_node_ref": "N-3",
+          "quote": "I will put up $10,000 bounty on that piece of information. Tips at candace. com.",
+          "context": "DIA tip-line call: host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with (C-3764).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_tip_line",
+            "transcript_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

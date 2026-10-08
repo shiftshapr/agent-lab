@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2321, N-2322
- - Reused Nodes Appearing: N-37
+ - Reused Nodes Appearing: N-37, N-810
+ - Hole-minted Nodes (wave3): N-977
  - (see registers)
 
 ---
@@ -198,6 +199,12 @@ Confidence Level: Medium (host-categorized compilation; original sourcing per in
 
 ## IV. Node Register
 
+**N-977** Matt Tardio
+
+First named by the host at 00:35:04 in episode 152.
+
+*Related: C-3457, A-2379.1, A-2380.1*
+
 **N-2321** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
 
 Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).
@@ -286,6 +293,7 @@ Claim Timestamp: 00:11:56
 Claim: The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.
 
 Anchored Artifacts: None in this episode (host assertion only)
+Mentions: N-810
 
 Related Nodes: N-2321
 
@@ -427,7 +435,7 @@ Claim Timestamp: 00:38:56–00:41:02
 Claim: The episode presents that Matt Tardio pled no contest in Portland in October 2025 to felony coercion and misdemeanor harassment following an incident at an ICE facility, with surveillance cameras capturing the alleged conduct.
 
 Anchored Artifacts: A-2379.1, A-2380.1
-Mentions: N-2
+Mentions: N-2, N-977
 
 Related Nodes:
 
@@ -504,6 +512,7 @@ Claim Timestamp: 00:11:56
 Claim: The episode presents that Bagley's body cam footage stopped approximately 25 minutes after activation.
 
 Anchored Artifacts: None visible in this episode
+Mentions: N-810
 
 Related Nodes:
 

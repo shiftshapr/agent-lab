@@ -725,8 +725,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-671",
-      "ref": "N-671",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Derek Niekerk",
       "type": "person",
       "description": "First named by the host at 00:42:15 in episode 88.",
@@ -739,6 +739,22 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-666",
+      "ref": "N-666",
+      "name": "Ahmed Qureshi",
+      "type": "person",
+      "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -774,7 +790,9 @@
       "tags": [],
       "claim_timestamp": "00:01:20–00:03:02",
       "investigative_direction": "Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-666"
+      ]
     },
     {
       "@type": "Claim",
@@ -1009,7 +1027,7 @@
       "investigative_direction": "Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.",
       "mentions_person_refs": [
         "N-2",
-        "N-671"
+        "N-673"
       ]
     },
     {

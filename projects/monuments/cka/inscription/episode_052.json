@@ -606,6 +606,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-117",
+      "ref": "N-117",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Comments return to France/Brigitte as origin-of-ties theme.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-599",
+      "ref": "N-599",
+      "name": "Mark Amodei",
+      "type": "person",
+      "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -711,7 +743,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
-      "investigative_direction": "Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts."
+      "investigative_direction": "Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-599"
+      ]
     },
     {
       "@type": "Claim",
@@ -821,7 +857,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:56",
-      "investigative_direction": "Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory."
+      "investigative_direction": "Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -838,6 +877,23 @@
       "investigative_direction": "Confirm employment dates and identify workplace contacts relevant to the investigation timeline.",
       "mentions_person_refs": [
         "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3749",
+      "ref": "C-3749",
+      "label": "Host says she believes the feds are colluding to introduce new speech laws",
+      "claim": "Presenting the French \"moral damages\" ruling and the Macron lawsuit against her in Delaware, the host says she believes the feds are colluding because they want to introduce new speech laws in the US and make people fearful to tell the truth.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:06",
+      "investigative_direction": "Follow the Delaware docket filings in the Macron suit; track any proposed federal or state speech legislation the host links to it.",
+      "transcript_snippet": "I believe that the feds are colluding because they want to introduce new speech laws in this country",
+      "mentions_person_refs": [
+        "N-3",
+        "N-117"
       ]
     }
   ],

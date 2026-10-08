@@ -1,32 +1,367 @@
 {
   "description": "Monument-specific inputs for dia_preflight Wave 1 gates. mention_grounding.exempt_ids: show host, speaks in first person and is rarely named. mention_grounding.reviewed: human-verified Mentions where the person is referenced by role rather than name; each row is also recorded in audits/wave1/mentions_decisions.csv. first_name_ok: ids that may ground on the first name alone (Charlie, Erika). window_seconds: grounding window in seconds around the claim timestamp; window_seconds_early applies to episodes up to early_max_episode (coarser early drafts). A placeholder 00:00:00 to 00:00:01 timestamp falls back to episode-wide grounding.",
-  "dash_rule": {"prose_em_dash": true, "quote_dash_fidelity": true, "note": "Daveed, 8 Oct 2026: in prose an em dash (U+2014) becomes an en dash (U+2013) and a dash is never rewritten as a comma, period, colon, semicolon, parentheses or a spaced hyphen. Quote fields (Transcript Snippet, Quote, quoted spans) stay exact to the transcript, em dashes included. prose_em_dash (P2) flags an em dash outside a quote; quote_dash_fidelity (P1) flags a quote whose dashes differ from the transcript."},
-  "ledger_intro": {"strict": true, "note": "Wave 2.1: a node is introduced by the New, Hole-minted or Tip-minted ledger line of its first appearance; Reused-before-New and register rows without such a line fail (cited_before_intro, intro_missing)."},
+  "dash_rule": {
+    "prose_em_dash": true,
+    "quote_dash_fidelity": true,
+    "note": "Daveed, 8 Oct 2026: in prose an em dash (U+2014) becomes an en dash (U+2013) and a dash is never rewritten as a comma, period, colon, semicolon, parentheses or a spaced hyphen. Quote fields (Transcript Snippet, Quote, quoted spans) stay exact to the transcript, em dashes included. prose_em_dash (P2) flags an em dash outside a quote; quote_dash_fidelity (P1) flags a quote whose dashes differ from the transcript."
+  },
+  "ledger_intro": {
+    "strict": true,
+    "note": "Wave 2.1: a node is introduced by the New, Hole-minted or Tip-minted ledger line of its first appearance; Reused-before-New and register rows without such a line fail (cited_before_intro, intro_missing)."
+  },
   "mention_grounding": {
-    "exempt_ids": ["N-3"],
-    "reviewed": [
-      {"claim": "C-1267", "node": "N-59", "reason": "Candace's husband; transcript 08:46 to 10:37 tells how she met her husband on this UK trip (ep9, eps 1-10 window)"},
-      {"claim": "C-1268", "node": "N-59", "reason": "claim text: 'Candace met her husband for the first time during the UK trip'"},
-      {"claim": "C-1269", "node": "N-59", "reason": "claim text: 'text messages ... with her husband'; transcript 13:27 'I said to my husband'"},
-      {"claim": "C-1269", "node": "N-157", "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"},
-      {"claim": "C-1817", "node": "N-471", "reason": "ep39 47:01 \"Tyler Bowyer has a younger brother\" (Transit ruling on PR 59)"},
-      {"claim": "C-1183", "node": "N-69", "reason": "role ref: the person in the FBI static images is the suspect, Tyler Robinson (ep4); claim text refers to the suspect"},
-      {"claim": "C-1204", "node": "N-42", "reason": "Transit ruling on PR 59: 'Andrew Kovit' at 39:14 is outside the window only because of the known ep5 +9 min drift (quoted lines 39:14 to 44:19)"},
-      {"claim": "C-1296", "node": "N-5", "reason": "role ref: claim text 'the President of the United States' (ep10)"},
-      {"claim": "C-1299", "node": "N-176", "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"},
-      {"claim": "C-1300", "node": "N-176", "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"},
-      {"claim": "C-1821", "node": "N-224", "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"},
-      {"claim": "C-1822", "node": "N-224", "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"},
-      {"claim": "C-2192", "node": "N-789", "reason": "role ref: claim and transcript refer to 'the CMO', Marina (ep62)"},
-      {"claim": "C-3686", "node": "N-59", "reason": "role ref: 'my husband' at 18:40 (ep161)"},
-      {"claim": "C-3698", "node": "N-1", "reason": "role ref: 'a body reportedly dead' is Charlie Kirk (ep161)"},
-      {"claim": "C-1185", "node": "N-67", "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Seth Dillon named at 47:14 to 47:37"},
-      {"claim": "C-1185", "node": "N-86", "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Josh Hammer named at 49:58"},
-      {"claim": "C-1160", "node": "N-87", "reason": "anchored artifact A-1102.1 is the Aaron Wexler-sent Hamptons invitations; ep3 41:32 'Aaron Wexler sent out some of the invitations'"}
+    "exempt_ids": [
+      "N-3"
     ],
-    "first_name_ok": ["N-1", "N-2"],
+    "reviewed": [
+      {
+        "claim": "C-1267",
+        "node": "N-59",
+        "reason": "Candace's husband; transcript 08:46 to 10:37 tells how she met her husband on this UK trip (ep9, eps 1-10 window)"
+      },
+      {
+        "claim": "C-1268",
+        "node": "N-59",
+        "reason": "claim text: 'Candace met her husband for the first time during the UK trip'"
+      },
+      {
+        "claim": "C-1269",
+        "node": "N-59",
+        "reason": "claim text: 'text messages ... with her husband'; transcript 13:27 'I said to my husband'"
+      },
+      {
+        "claim": "C-1269",
+        "node": "N-157",
+        "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"
+      },
+      {
+        "claim": "C-1817",
+        "node": "N-471",
+        "reason": "ep39 47:01 \"Tyler Bowyer has a younger brother\" (Transit ruling on PR 59)"
+      },
+      {
+        "claim": "C-1183",
+        "node": "N-69",
+        "reason": "role ref: the person in the FBI static images is the suspect, Tyler Robinson (ep4); claim text refers to the suspect"
+      },
+      {
+        "claim": "C-1204",
+        "node": "N-42",
+        "reason": "Transit ruling on PR 59: 'Andrew Kovit' at 39:14 is outside the window only because of the known ep5 +9 min drift (quoted lines 39:14 to 44:19)"
+      },
+      {
+        "claim": "C-1296",
+        "node": "N-5",
+        "reason": "role ref: claim text 'the President of the United States' (ep10)"
+      },
+      {
+        "claim": "C-1299",
+        "node": "N-176",
+        "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"
+      },
+      {
+        "claim": "C-1300",
+        "node": "N-176",
+        "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"
+      },
+      {
+        "claim": "C-1821",
+        "node": "N-224",
+        "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"
+      },
+      {
+        "claim": "C-1822",
+        "node": "N-224",
+        "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"
+      },
+      {
+        "claim": "C-2192",
+        "node": "N-789",
+        "reason": "role ref: claim and transcript refer to 'the CMO', Marina (ep62)"
+      },
+      {
+        "claim": "C-3686",
+        "node": "N-59",
+        "reason": "role ref: 'my husband' at 18:40 (ep161)"
+      },
+      {
+        "claim": "C-3698",
+        "node": "N-1",
+        "reason": "role ref: 'a body reportedly dead' is Charlie Kirk (ep161)"
+      },
+      {
+        "claim": "C-1185",
+        "node": "N-67",
+        "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Seth Dillon named at 47:14 to 47:37"
+      },
+      {
+        "claim": "C-1185",
+        "node": "N-86",
+        "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Josh Hammer named at 49:58"
+      },
+      {
+        "claim": "C-1160",
+        "node": "N-87",
+        "reason": "anchored artifact A-1102.1 is the Aaron Wexler-sent Hamptons invitations; ep3 41:32 'Aaron Wexler sent out some of the invitations'"
+      }
+    ],
+    "first_name_ok": [
+      "N-1",
+      "N-2"
+    ],
     "window_seconds": 240,
     "window_seconds_early": 480,
     "early_max_episode": 10
+  },
+  "named_before_intro": {
+    "enabled": true,
+    "note": "Wave 3 (Transit 73d663b P1-3): a person named in claim/artifact text before their ledger introduction fails as P1 named_before_intro. accepted: reviewed pre-Wave-3 debt (persons merged before Wave 3 whose re-introduction is out of scope); see audits/wave3/named_before_intro_debt.csv.",
+    "accepted": [
+      {
+        "id": "N-272",
+        "episodes": [
+          19
+        ],
+        "reason": "Mikey McCoy (intro ep20): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-279",
+        "episodes": [
+          152
+        ],
+        "reason": "Robert Kraft (intro ep160): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-293",
+        "episodes": [
+          15,
+          16
+        ],
+        "reason": "Nick Fuentes (intro ep22): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-298",
+        "episodes": [
+          16
+        ],
+        "reason": "Piers Morgan (intro ep22): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-310",
+        "episodes": [
+          21
+        ],
+        "reason": "Joe Kent (intro ep23): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-313",
+        "episodes": [
+          18
+        ],
+        "reason": "Jesse Watters (intro ep24): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-318",
+        "episodes": [
+          82,
+          102
+        ],
+        "reason": "Nick Shirley (intro ep160): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-339",
+        "episodes": [
+          24
+        ],
+        "reason": "Randy Fine (intro ep26): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-342",
+        "episodes": [
+          47,
+          145,
+          147
+        ],
+        "reason": "Brandon Tatum (intro ep160): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-347",
+        "episodes": [
+          32,
+          157
+        ],
+        "reason": "Harvey Weinstein (intro ep160): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-358",
+        "episodes": [
+          24
+        ],
+        "reason": "Tom Paul (intro ep27): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-411",
+        "episodes": [
+          134
+        ],
+        "reason": "Lisa Nose (intro ep160): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-413",
+        "episodes": [
+          7
+        ],
+        "reason": "Mommy Sleuth (Nellie) (intro ep33): handle alias \"mommy sleuth\" used as a descriptor in the claim"
+      },
+      {
+        "id": "N-424",
+        "episodes": [
+          34
+        ],
+        "reason": "Brian Harpole (intro ep35): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-427",
+        "episodes": [
+          24
+        ],
+        "reason": "Joe Rogan (intro ep35): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-435",
+        "episodes": [
+          34
+        ],
+        "reason": "Jeff Long (intro ep36): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-443",
+        "episodes": [
+          31
+        ],
+        "reason": "Tim Dillon (intro ep37): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-447",
+        "episodes": [
+          145
+        ],
+        "reason": "Jennica Pounds (intro ep161): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-472",
+        "episodes": [
+          31,
+          75,
+          89
+        ],
+        "reason": "Miriam Adelson (intro ep161): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-550",
+        "episodes": [
+          21
+        ],
+        "reason": "Tulsi Gabbard (intro ep47): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-570",
+        "episodes": [
+          91
+        ],
+        "reason": "Corby Hall (intro ep92): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-571",
+        "episodes": [
+          91
+        ],
+        "reason": "Eileen Marx (intro ep107): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-576",
+        "episodes": [
+          93
+        ],
+        "reason": "Amir Safari (intro ep107): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-607",
+        "episodes": [
+          28
+        ],
+        "reason": "Jeremy Boreing (intro ep50): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-624",
+        "episodes": [
+          28
+        ],
+        "reason": "Lara Trump (intro ep99): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-625",
+        "episodes": [
+          86
+        ],
+        "reason": "Ian Carroll (intro ep99): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-645",
+        "episodes": [
+          19
+        ],
+        "reason": "Corey Lewandowski (intro ep53): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-716",
+        "episodes": [
+          24
+        ],
+        "reason": "Lindsey Graham (intro ep56): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-753",
+        "episodes": [
+          33
+        ],
+        "reason": "Zack Gregorio (Wolves and Finance) (intro ep59): false positive: alias \"wolves and finance\" is a phrase, not the person name"
+      },
+      {
+        "id": "N-783",
+        "episodes": [
+          52
+        ],
+        "reason": "Lori Frantzve (intro ep62): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-839",
+        "episodes": [
+          51
+        ],
+        "reason": "Nicki Minaj (intro ep67): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-857",
+        "episodes": [
+          56
+        ],
+        "reason": "Hillary Clinton (intro ep67): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-952",
+        "episodes": [
+          72
+        ],
+        "reason": "Linda Rothschild (intro ep76): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-962",
+        "episodes": [
+          50
+        ],
+        "reason": "Nicole Rothstein (intro ep77): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      }
+    ]
   }
 }

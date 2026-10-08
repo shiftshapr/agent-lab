@@ -665,5 +665,14 @@ Context: Host declares Fake and Gay a major show theme.
 Tags: catchphrase, show_theme
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:47:40
+Speaker: 
+Quote: So anyone who is divisive over this right is, as Candace says it, fake and gay." Yeah, Charlie believed in free speech.
+Context: Wave 3 MemeLink backfill: Fake and Gay at 00:47:40 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 

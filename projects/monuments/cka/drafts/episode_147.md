@@ -12,8 +12,7 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2219, N-2220, N-2221, N-2222, N-2223, N-2224, N-2225
- - Hole-minted Nodes (wave3): N-813
- - Reused Nodes Appearing: N-611
+ - Reused Nodes Appearing: N-611, N-680, N-787, N-808
  - (see registers)
 
 ---
@@ -265,9 +264,9 @@ Confidence: medium
 
 ## IV. Node Register
 
-**N-813** Justin Davis
+**N-787** Justin Davis
 
-First named by the host at 00:12:13 in episode 147.
+Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
 *Related: C-3364, C-3365, C-3367, C-3368, C-3372*
 
@@ -463,7 +462,7 @@ Claim Timestamp: 00:20:06
 Claim: In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-224, N-813
+Mentions: N-224, N-787
 
 Related Nodes: N-2221
 
@@ -476,7 +475,7 @@ Claim Timestamp: 00:21:00
 Claim: Footage shows Mikey McCoy and Danny Phillip running, meeting, and "ducking down" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-611, N-272, N-813
+Mentions: N-611, N-272, N-787
 
 Related Nodes: N-2219
 
@@ -502,7 +501,7 @@ Claim Timestamp: 00:22:38
 Claim: As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is "Chris's bag" but states "not 100% certain."
 
 Anchored Artifacts: A-2329.3
-Mentions: N-813
+Mentions: N-787
 
 Related Nodes: N-2221
 
@@ -515,7 +514,7 @@ Claim Timestamp: 00:16:16
 Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
 
 Anchored Artifacts: A-2329 (host narration; no audio or document displayed in this episode presenting the prior communication)
-Mentions: N-1, N-2, N-813
+Mentions: N-1, N-2, N-787
 
 Related Nodes:
 
@@ -528,6 +527,7 @@ Claim Timestamp: 00:17:03
 Claim: Christopher (Kirk's main security person / driver) and Nate Walker were observed walking toward the Sorensen building, upstairs, in the minutes before the shot.
 
 Anchored Artifacts: A-2329.4
+Mentions: N-808
 
 Related Nodes: N-2220
 
@@ -565,7 +565,7 @@ Claim Timestamp: 00:12:54
 Claim: The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk's arrival in Salt Lake City for the restaurantology event.
 
 Anchored Artifacts: A-2330 (diagram only; times based on host narrative)
-Mentions: N-1, N-813
+Mentions: N-1, N-787
 
 Related Nodes: N-2219
 
@@ -642,7 +642,7 @@ Claim Timestamp: 00:40:50
 Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novac of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Anchored Artifacts: A-2335
-Mentions: N-224
+Mentions: N-224, N-680
 
 Related Nodes: N-2223
 
@@ -655,7 +655,7 @@ Claim Timestamp: 00:42:00
 Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable; he was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
-Mentions: N-69
+Mentions: N-69, N-680
 
 Related Nodes: N-2223, N-2224
 

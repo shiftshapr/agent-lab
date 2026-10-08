@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-729, N-730, N-731, N-733, N-734, N-735, N-736, N-737, N-738, N-741, N-744, N-1488, N-1489, N-1490, N-1491, N-1492, N-1493, N-1494, N-1495
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-43
   - (see registers)
 
 ## 2. Executive Summary
@@ -576,6 +576,21 @@ Mentions: N-2, N-3
 Related Nodes: N-1490
 
 Investigative Direction: Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
+
+**C-3742** Justin Strife is the Turning Point executive C-2113 spells 'Justin Stripe' (revises C-2113)
+
+Claim Timestamp: 00:18:47
+
+Claim: C-2113 spells the executive's name 'Justin Stripe' (auto-caption form). The executive is Justin Strife (N-43). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
+
+Transcript Snippet: And he replied that she never lived in China.
+
+Anchored Artifacts: A-1637.1
+Mentions: N-43, N-2, N-3
+Related Nodes: N-1490
+Revises: C-2113
+Confidence: medium
+Investigative Direction: Read with C-2113; request the reply under the corrected spelling Justin Strife.
 
 ---
 

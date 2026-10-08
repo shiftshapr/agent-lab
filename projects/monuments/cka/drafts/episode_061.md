@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-770, N-771, N-772, N-773, N-774, N-775, N-776, N-1503, N-1504, N-1505, N-1506, N-1507, N-1508
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-3
   - (see registers)
 
 ## 2. Executive Summary
@@ -473,6 +473,7 @@ Claim Timestamp: 00:10:50–00:11:31
 Claim: The TPUSA letter alleges that Owens has published a "list of lies" that she attributes to Turning Point USA.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 
 Related Nodes: N-1503, N-1504
 

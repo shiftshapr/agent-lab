@@ -544,7 +544,7 @@
       "@type": "Person",
       "@id": "N-394",
       "ref": "N-394",
-      "name": "Robin Taylor / \"Rob Taylor\" / \"Luke Taylor\" (Name uncertainty – flagged)",
+      "name": "Robin Taylor",
       "type": "person",
       "description": "Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.",
       "related_artifacts": [
@@ -662,7 +662,7 @@
       "@type": "Person",
       "@id": "N-399",
       "ref": "N-399",
-      "name": "Bob Koy / Bob Coy (Name uncertainty)",
+      "name": "Bob Coy",
       "type": "person",
       "description": "Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as \"Bob Koy.\"",
       "related_artifacts": [
@@ -683,7 +683,7 @@
       "@type": "Person",
       "@id": "N-400",
       "ref": "N-400",
-      "name": "R. Todd Nielson (per A-1406.1)",
+      "name": "R. Todd Nielson",
       "type": "person",
       "description": "Named in Courtney Love text screenshots as a \"corrupt Fed\" and as an LDS apostle. Single-source; unverified.",
       "related_artifacts": [
@@ -826,7 +826,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1320",
       "ref": "N-1320",
-      "name": "\"Mormon Mafia\" Allegation (Courtney Love Source)",
+      "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Investigative target: alleged coordinating entity above Hollywood and \"Zionist Jews\" identified in Courtney Love text messages of January 2025. Single-source, unverified.",
       "related_artifacts": [
@@ -899,7 +899,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1323",
       "ref": "N-1323",
-      "name": "Potter's Fields Hostile Takeover Allegation (Pre-Existing Target, New Evidence)",
+      "name": "Potter's Fields Hostile Takeover Allegation",
       "type": "investigation_target",
       "description": "Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).",
       "related_artifacts": [],
@@ -1396,5 +1396,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 32,
+          "video_timestamp": "00:52:28",
+          "speaker_node_ref": "N-3",
+          "quote": "So don't miss out on that because everything is fake and gay and that's a good merch drop.",
+          "context": "Wave 3 MemeLink backfill: Fake and Gay at 00:52:28 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

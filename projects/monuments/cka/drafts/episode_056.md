@@ -234,7 +234,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2079, N-707, N-1480*
 
-**N-710** Paul Valli (a.k.a. Valerie)
+**N-710** Paul Valli
 
 Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.
 
@@ -322,7 +322,7 @@ Investigative Pressure: Medium (timeline target)
 
 *Related: C-2094, C-2095*
 
-**N-719** Andrew (Anthony) Aguilar
+**N-719** Andrew Aguilar
 
 Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.
 

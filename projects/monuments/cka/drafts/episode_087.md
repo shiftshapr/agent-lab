@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1648, N-1649, N-1650, N-1652, N-1653, N-1654, N-1655, N-1656
-  - Hole-minted Nodes (wave3): N-663, N-664, N-665, N-666, N-667, N-668, N-669, N-670
+  - Hole-minted Nodes (wave3): N-665, N-666, N-667, N-668, N-669, N-670, N-671, N-672
   - Reused Nodes Appearing: N-1219, N-57, N-1642
   - (see registers)
 
@@ -284,49 +284,49 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-663** Zachariah Karashy
+**N-665** Zachariah Karashy
 
-First named by the host at 00:06:41 in episode 87.
+First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Karashi.
 
 *Related: C-2627, C-2628, C-2629*
 
-**N-664** Ahmed Qureshi
+**N-666** Ahmed Qureshi
 
-First named by the host at 00:09:45 in episode 87.
+First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.
 
 *Related: C-2627, C-2628, C-2629, C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-665** Nathan Henderson
+**N-667** Nathan Henderson
 
 First named by the host at 00:16:55 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-667** Connor Henderson
+**N-669** Connor Henderson
 
 First named by the host at 00:17:51 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-666** Gina Romney Henderson
+**N-668** Gina Romney Henderson
 
 First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-669** Caleb Cunningham
+**N-671** Caleb Cunningham
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-668** Jeffrey Knuckles
+**N-670** Jeffrey Knuckles
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-670** Michael Shawn Covey
+**N-672** Michael Shawn Covey
 
 First named by the host at 00:27:39 in episode 87.
 
@@ -471,7 +471,7 @@ Claim Timestamp: 00:08:11
 Claim: Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.
 
 Anchored Artifacts: A-1918.1
-Mentions: N-1, N-102, N-663, N-664
+Mentions: N-1, N-102, N-665, N-666
 
 Related Nodes: N-1653
 
@@ -486,7 +486,7 @@ Claim Timestamp: 00:09:01
 Claim: At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.
 
 Anchored Artifacts: A-1918.2
-Mentions: N-102, N-663, N-664
+Mentions: N-102, N-665, N-666
 
 Related Nodes: N-1653
 
@@ -501,7 +501,7 @@ Claim Timestamp: 00:06:41–00:09:45
 Claim: The young man detained and released after interrogation is referred to as "Zachariah Karashy," with the host later connecting him to Ahmed Qureshi's son "Zachariah."
 
 Anchored Artifacts: A-1918.1, A-1918.2
-Mentions: N-663, N-664
+Mentions: N-665, N-666
 
 Related Nodes: N-1653
 
@@ -516,6 +516,7 @@ Claim Timestamp: 00:10:27–00:12:44
 Claim: Ahmed Qureshi's LinkedIn profile lists him as President/COO of Built Incorporated, an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024.
 
 Anchored Artifacts: A-1919.1
+Mentions: N-666
 
 Related Nodes: N-1652
 
@@ -530,7 +531,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
 Anchored Artifacts: A-1919.1, A-1920.1
-Mentions: N-664, N-665, N-667, N-666
+Mentions: N-666, N-667, N-669, N-668
 
 Related Nodes: N-1652
 
@@ -545,7 +546,7 @@ Claim Timestamp: 00:15:43–00:16:05
 Claim: USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
 
 Anchored Artifacts: A-1920.1, A-1920.2
-Mentions: N-664, N-665, N-667, N-666
+Mentions: N-666, N-667, N-669, N-668
 
 Related Nodes: N-1652
 
@@ -560,7 +561,7 @@ Claim Timestamp: 00:17:51
 Claim: Gina Romney Henderson's LinkedIn profile identifies her as Vice President of User Experience at Built Incorporated and as a BYU alumna.
 
 Anchored Artifacts: A-1921.1
-Mentions: N-664, N-665, N-667, N-666
+Mentions: N-666, N-667, N-669, N-668
 
 Related Nodes: N-1648
 
@@ -575,7 +576,7 @@ Claim Timestamp: 00:17:51–00:19:43
 Claim: Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination.
 
 Anchored Artifacts: (host assertion; LinkedIn described but specific URL not pinned)
-Mentions: N-1, N-664, N-665, N-667, N-666
+Mentions: N-1, N-666, N-667, N-669, N-668
 
 Related Nodes: N-1650
 
@@ -634,7 +635,7 @@ Claim Timestamp: 00:16:55–00:17:51
 Claim: The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.
 
 Anchored Artifacts: (host assertion; no public records shown)
-Mentions: N-664, N-665, N-667, N-666
+Mentions: N-666, N-667, N-669, N-668
 
 Related Nodes: N-1652
 
@@ -649,7 +650,7 @@ Claim Timestamp: 00:23:46
 Claim: Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes: N-1650
 
@@ -664,7 +665,7 @@ Claim Timestamp: 00:23:46–00:24:39
 Claim: Prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes:
 
@@ -679,7 +680,7 @@ Claim Timestamp: 00:24:39
 Claim: Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the 2012 Romney presidential campaign season.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes: N-1649
 
@@ -694,7 +695,7 @@ Claim Timestamp: 00:24:39–00:25:43
 Claim: Per a single unnamed source, the BYU Jerusalem Center is used by the CIA to recruit elite Mormon youth, with the program director being Israeli.
 
 Anchored Artifacts: (host assertion; no artifact shown; fails admission test without displayed evidence)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes: N-1649
 
@@ -723,7 +724,7 @@ Claim Timestamp: 00:27:39
 Claim: Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.
 
 Anchored Artifacts: (host assertion; no displayed evidence)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes: N-1655
 
@@ -794,7 +795,7 @@ Claim Timestamp: 00:25:43–00:26:30
 Claim: Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes:
 
@@ -809,7 +810,7 @@ Claim Timestamp: 00:25:43–00:26:30
 Claim: Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-192, N-669, N-668, N-670
+Mentions: N-192, N-671, N-670, N-672
 
 Related Nodes:
 

@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
- - Hole-minted Nodes (wave3): N-812
- - Reused Nodes Appearing: N-37, N-46
+ - Hole-minted Nodes (wave3): N-967
+ - Reused Nodes Appearing: N-37, N-46, N-949
  - (see registers)
 
 # Episode 144 Analysis
@@ -227,7 +227,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-812** Mark Bricker
+**N-967** Mark Bricker
 
 First named by the host at 00:18:29 in episode 144.
 
@@ -314,7 +314,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it within approximately 10 minutes of Charlie Kirk being shot, as shown in episode footage.
 
 Anchored Artifacts: A-2301.1, A-2301.2
-Mentions: N-410, N-1
+Mentions: N-410, N-1, N-949
 
 Related Nodes: N-2209, N-2211
 
@@ -344,7 +344,7 @@ Claim Timestamp: 00:04:20–00:04:50
 Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparian, Terrell Farnsworth did not turn over the physical SD card to investigators; only Google links and a flash drive were provided.
 
 Anchored Artifacts: A-2302.1, A-2304.1
-Mentions: N-410, N-297
+Mentions: N-410, N-297, N-949
 
 Related Nodes: N-2209
 
@@ -359,6 +359,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.
 
 Anchored Artifacts: A-2304.1
+Mentions: N-949
 
 Related Nodes: N-2209
 
@@ -373,7 +374,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
-Mentions: N-812
+Mentions: N-967
 
 Related Nodes: N-2209, N-2210
 
@@ -416,7 +417,7 @@ Claim Timestamp: 00:19:30–00:20:30
 Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
 
 Anchored Artifacts: A-2304.2, A-2305.1
-Mentions: N-812
+Mentions: N-967
 
 Related Nodes: N-2210
 
@@ -476,7 +477,7 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-42, N-1, N-65, N-434, N-476
+Mentions: N-42, N-1, N-65, N-434, N-66
 
 Related Nodes: N-2212
 

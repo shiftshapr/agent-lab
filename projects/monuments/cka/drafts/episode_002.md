@@ -805,7 +805,7 @@ Investigative Direction: Verify exact date of Megan Kelly interview and guest li
 
 Claim Timestamp: 00:15:24
 Claim: Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
-Transcript Snippet: An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
+Transcript Snippet: An intervention was staged by Bill Ackman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
 Anchored Artifacts: A-1092.1
 Mentions: N-1, N-3, N-66, N-67, N-78
 Related Nodes: N-1000, N-1081, N-1092
@@ -929,7 +929,7 @@ Tags: open_source_investigation
 
 Claim Timestamp: 00:18:22
 Claim: Seth Dylan and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dylan did not respond to direct text outreach.
-Transcript Snippet: Seth Dylan who was normally very quick with a response has not yet been able to respond.
+Transcript Snippet: Seth Dillon who was normally very quick with a response has not yet been able to respond.
 Anchored Artifacts: A-1091.1, A-1092.1
 Mentions: N-3, N-66, N-67
 Related Nodes: N-1081
@@ -1043,6 +1043,19 @@ Investigative Direction: Confirm the titles and authors recommended and the awar
 ---
 
 ## 6. Meme Register
+
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 01:02:07
+Speaker: N-3
+Quote: Okay, don't believe your own eyes.
+Context: Wave 3 mint – first transcript introduction. Host exhortation to trust visible evidence over gaslighting
+Tags: wave3
+Confidence: high
+
 
 **M-1** (meme) Grieving Widow
 

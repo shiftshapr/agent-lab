@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-08T19:47:56Z",
+  "generated_at": "2026-10-08T20:41:23Z",
   "vocabulary_version": "2.0.0",
   "vocabulary_dateModified": "2026-10-07",
   "edge_counts": {
     "contradicts": 19,
     "isCorroboratedBy": 8,
-    "isMemberOf": 6355,
-    "isQualifiedBy": 4,
-    "isSupportedBy": 2823
+    "isMemberOf": 6389,
+    "isQualifiedBy": 6,
+    "isSupportedBy": 2830
   },
-  "revises_candidate_rows": 24,
+  "revises_candidate_rows": 28,
   "revises_heuristic_primary_counts": {
-    "isQualifiedBy": 12
+    "isQualifiedBy": 14
   },
-  "bridge_count": 9209,
-  "node_count": 6356
+  "bridge_count": 9252,
+  "node_count": 6390
 }

@@ -558,19 +558,22 @@
   ],
   "memes": [
     {
-      "@type": "Meme",
-      "@id": "M-82",
-      "ref": "M-82",
-      "term": "(meme) Bend the Knee",
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
       "type": "meme",
-      "definition": "Host refusal to submit to pressure / evil",
       "occurrences": [
         {
+          "episode": 40,
           "video_timestamp": "00:47:25",
-          "speaker": "N-3",
-          "quote": "",
-          "context": "Wave 3 mint – first transcript introduction.",
-          "confidence": "medium"
+          "speaker_node_ref": "N-3",
+          "quote": "And I will again assert to these people, I will never bow the knee to evil.",
+          "context": "Wave 3 mint – first transcript introduction. Host refusal to submit to pressure / evil",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
         }
       ]
     }

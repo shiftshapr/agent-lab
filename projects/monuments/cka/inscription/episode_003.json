@@ -352,7 +352,7 @@
           "tags": [],
           "event_timestamp": "2025-09",
           "video_timestamp": "00:50:24–00:51:07",
-          "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
+          "transcript_snippet": "Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
           "confidence": "high"
         }
       ]
@@ -1721,7 +1721,7 @@
       "tags": [],
       "claim_timestamp": "00:50:24",
       "investigative_direction": "Cross-reference attendee statements with published itinerary.",
-      "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
+      "transcript_snippet": "Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
       "confidence": "high",
       "mentions_person_refs": [
         "N-66",
@@ -1743,7 +1743,7 @@
       "tags": [],
       "claim_timestamp": "01:03:58",
       "investigative_direction": "Identify and corroborate attendees; request presentation materials.",
-      "transcript_snippet": "Bill Aman got up and gave a presentation and told them that they shouldn't own property",
+      "transcript_snippet": "Bill Ackman got up and gave a presentation and told them that they shouldn't own property",
       "confidence": "medium",
       "uncertainty_note": "Single-source attendee statement relayed by host.",
       "mentions_person_refs": [
@@ -2010,9 +2010,7 @@
       "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
       "confidence": "medium",
       "uncertainty_note": "Single-source tip relayed by host.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -2226,6 +2224,46 @@
           "confidence": "medium",
           "tags": [
             "anticipatory_defense"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 3,
+          "video_timestamp": "00:56:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,",
+          "context": "Wave 3 mint – first transcript introduction. Host categorical moral claim used as a recurring line",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 3,
+          "video_timestamp": "00:30:02",
+          "speaker_node_ref": "N-3",
+          "quote": "So they know Lance obviously and I'm going to cushion this with allegedly allegedly allegedly it isn't allegedly that this is his family members telling me these...",
+          "context": "Wave 3 mint – first transcript introduction. Host hedge stacking allegedly when relaying tipster claims",
+          "confidence": "high",
+          "tags": [
+            "wave3"
           ]
         }
       ]

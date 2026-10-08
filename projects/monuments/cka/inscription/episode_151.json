@@ -268,7 +268,9 @@
             "C-3439",
             "C-3441"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-810"
+          ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -324,6 +326,33 @@
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:37:35–00:40:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2521",
+      "family_ref": "A-2521",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2521.1",
+          "ref": "A-2521.1",
+          "description": "Host describes a flurry of viewer emails, many from electricians, saying the matching light-brown shoes worn by the security detail and Butch Hibbs are electrical-hazard protection footwear, with links sent in (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3746"
+          ],
+          "related_nodes": [
+            "N-382",
+            "N-2320"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:25",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
         }
@@ -396,13 +425,17 @@
       "name": "Security Detail Electrical Hazard Footwear Question",
       "type": "investigation_target",
       "description": "Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harif/Hariff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2521.1"
+      ],
+      "related_claims": [
+        "C-3746"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -586,6 +619,38 @@
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-810",
+      "ref": "N-810",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-382",
+      "ref": "N-382",
+      "name": "Butch Hibbs",
+      "type": "person",
+      "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -929,7 +994,51 @@
       "tags": [],
       "claim_timestamp": "00:11:11–00:14:18",
       "investigative_direction": "Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3746",
+      "ref": "C-3746",
+      "label": "Viewer tip emails say the security detail's matching shoes are electrical-hazard footwear",
+      "claim": "The host reports receiving a flurry of viewer emails, many from people who work as electricians, saying the matching light-brown shoes worn by the security detail and by Butch Hibbs are electrical-hazard protection shoes used in labor trades; she shares this without further context and invites more tips.",
+      "anchored_artifacts": [
+        "A-2521.1"
+      ],
+      "related_nodes": [
+        "N-2320"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:25",
+      "investigative_direction": "Identify the shoe model from the security-detail footage and confirm whether it is sold as electrical-hazard (EH-rated) footwear.",
+      "transcript_snippet": "They sent links that these are like electrical hazard protection shoes.",
+      "mentions_person_refs": [
+        "N-382",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 151,
+          "video_timestamp": "00:48:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Of course, if you guys have any tips, you can send them to us directly.",
+          "context": "DIA tip-line call: viewer emails on security-detail footwear and invitation for more tips (C-3746, A-2521.1).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_tip_line",
+            "transcript_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

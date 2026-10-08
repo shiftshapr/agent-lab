@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2147
-  - Hole-minted Nodes (wave3): N-809
+  - Hole-minted Nodes (wave3): N-815
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -178,7 +178,7 @@ Confidence: medium
 
 ## 4. Node Register
 
-**N-809** Gayle King
+**N-815** Gayle King
 
 First named by the host at 00:43:01 in episode 131.
 
@@ -434,7 +434,7 @@ Claim Timestamp: 00:41:38
 Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
-Mentions: N-809
+Mentions: N-815
 
 Related Nodes:
 
@@ -449,7 +449,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his memorial.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-809
+Mentions: N-815
 
 Related Nodes:
 
@@ -464,7 +464,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you don't sign, you will not be able to see him and you will not be able to participate."
 
 Anchored Artifacts: A-2186.1
-Mentions: N-809
+Mentions: N-815
 
 Related Nodes:
 
@@ -479,7 +479,7 @@ Claim Timestamp: 00:39:35
 Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
-Mentions: N-1, N-2, N-809
+Mentions: N-1, N-2, N-815
 
 Related Nodes:
 

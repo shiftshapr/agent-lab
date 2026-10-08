@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-349, N-350, N-353, N-355, N-356, N-358, N-359, N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-3, N-135
   - (see registers)
 
 # Episode 27 Analysis Record
@@ -30,7 +30,7 @@
 - **Analysis Date:** 2025-11-06
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
-  - Claim Range: C-1617–C-1634, C-3740
+  - Claim Range: C-1617–C-1634, C-3740, C-3755
   - New Nodes Introduced (people):  N-2, N-349, N-350, N-353, N-355, N-356, N-358, N-359
   - New Nodes Introduced (investigation targets): N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
@@ -378,7 +378,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-355** Colby Sessions (Name uncertainty: transcript also reads "Coby Sessions")
+**N-355** Colby Sessions
 
 UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-1302.
 
@@ -851,6 +851,21 @@ Mentions: N-359
 
 
 Investigative Direction: None – viewer opinion, not an investigative target.
+
+---
+
+**C-3755** Host says Turning Point USA is telling a lot of lies and is engaged in a cover-up
+
+Claim Timestamp: 00:52:20
+
+Claim: The host says Turning Point USA is telling a lot of lies and is engaged in a cover-up, that she puts her name on that and will not apologise; she ties it to the Catholicism statements she says Alex Clark lied about.
+
+Transcript Snippet: Turning Point USA's telling a lot of lies. They're engaged in a cover-up. I said it. I'm putting my name on that.
+
+Anchored Artifacts: 
+Mentions: N-3, N-135
+Related Nodes: N-1000
+Investigative Direction: List the specific TPUSA statements the host calls lies and compare each against the record.
 
 ---
 

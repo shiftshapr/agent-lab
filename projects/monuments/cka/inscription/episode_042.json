@@ -868,7 +868,6 @@
       "claim_timestamp": "00:05:37",
       "investigative_direction": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.",
       "mentions_person_refs": [
-        "N-1",
         "N-2",
         "N-224"
       ]
@@ -1002,9 +1001,7 @@
       "tags": [],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

@@ -717,11 +717,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-663",
-      "ref": "N-663",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "Zachariah Karashy",
       "type": "person",
-      "description": "First named by the host at 00:06:41 in episode 87.",
+      "description": "First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Karashi.",
       "related_artifacts": [],
       "related_claims": [
         "C-2627",
@@ -736,11 +736,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-664",
-      "ref": "N-664",
+      "@id": "N-666",
+      "ref": "N-666",
       "name": "Ahmed Qureshi",
       "type": "person",
-      "description": "First named by the host at 00:09:45 in episode 87.",
+      "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.",
       "related_artifacts": [],
       "related_claims": [
         "C-2627",
@@ -760,8 +760,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-665",
-      "ref": "N-665",
+      "@id": "N-667",
+      "ref": "N-667",
       "name": "Nathan Henderson",
       "type": "person",
       "description": "First named by the host at 00:16:55 in episode 87.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-667",
-      "ref": "N-667",
+      "@id": "N-669",
+      "ref": "N-669",
       "name": "Connor Henderson",
       "type": "person",
       "description": "First named by the host at 00:17:51 in episode 87.",
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-668",
+      "ref": "N-668",
       "name": "Gina Romney Henderson",
       "type": "person",
       "description": "First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.",
@@ -823,32 +823,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-669",
-      "ref": "N-669",
+      "@id": "N-671",
+      "ref": "N-671",
       "name": "Caleb Cunningham",
-      "type": "person",
-      "description": "First named by the host at 00:25:43 in episode 87.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2639",
-        "C-2640",
-        "C-2641",
-        "C-2642",
-        "C-2644",
-        "C-2649",
-        "C-2650"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-668",
-      "ref": "N-668",
-      "name": "Jeffrey Knuckles",
       "type": "person",
       "description": "First named by the host at 00:25:43 in episode 87.",
       "related_artifacts": [],
@@ -871,6 +848,29 @@
       "@type": "Person",
       "@id": "N-670",
       "ref": "N-670",
+      "name": "Jeffrey Knuckles",
+      "type": "person",
+      "description": "First named by the host at 00:25:43 in episode 87.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2639",
+        "C-2640",
+        "C-2641",
+        "C-2642",
+        "C-2644",
+        "C-2649",
+        "C-2650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-672",
+      "ref": "N-672",
       "name": "Michael Shawn Covey",
       "type": "person",
       "description": "First named by the host at 00:27:39 in episode 87.",
@@ -930,8 +930,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-102",
-        "N-663",
-        "N-664"
+        "N-665",
+        "N-666"
       ]
     },
     {
@@ -951,8 +951,8 @@
       "investigative_direction": "Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of \"Zachariah Karashy.\"",
       "mentions_person_refs": [
         "N-102",
-        "N-663",
-        "N-664"
+        "N-665",
+        "N-666"
       ]
     },
     {
@@ -972,8 +972,8 @@
       "claim_timestamp": "00:06:41–00:09:45",
       "investigative_direction": "Confirm spelling of \"Karashy\" vs. \"Qureshi\" against official detention records; the name discrepancy requires resolution.",
       "mentions_person_refs": [
-        "N-663",
-        "N-664"
+        "N-665",
+        "N-666"
       ]
     },
     {
@@ -991,7 +991,9 @@
       "tags": [],
       "claim_timestamp": "00:10:27–00:12:44",
       "investigative_direction": "Verify current rank and command assignment via official military biography.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-666"
+      ]
     },
     {
       "@type": "Claim",
@@ -1010,10 +1012,10 @@
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.",
       "mentions_person_refs": [
-        "N-664",
-        "N-665",
+        "N-666",
         "N-667",
-        "N-666"
+        "N-669",
+        "N-668"
       ]
     },
     {
@@ -1033,10 +1035,10 @@
       "claim_timestamp": "00:15:43–00:16:05",
       "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.",
       "mentions_person_refs": [
-        "N-664",
-        "N-665",
+        "N-666",
         "N-667",
-        "N-666"
+        "N-669",
+        "N-668"
       ]
     },
     {
@@ -1055,10 +1057,10 @@
       "claim_timestamp": "00:17:51",
       "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim.",
       "mentions_person_refs": [
-        "N-664",
-        "N-665",
+        "N-666",
         "N-667",
-        "N-666"
+        "N-669",
+        "N-668"
       ]
     },
     {
@@ -1076,10 +1078,10 @@
       "investigative_direction": "Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment.",
       "mentions_person_refs": [
         "N-1",
-        "N-664",
-        "N-665",
+        "N-666",
         "N-667",
-        "N-666"
+        "N-669",
+        "N-668"
       ]
     },
     {
@@ -1150,10 +1152,10 @@
       "claim_timestamp": "00:16:55–00:17:51",
       "investigative_direction": "Pull property records for Keller, Texas to identify ownership/residency history of both families.",
       "mentions_person_refs": [
-        "N-664",
-        "N-665",
+        "N-666",
         "N-667",
-        "N-666"
+        "N-669",
+        "N-668"
       ]
     },
     {
@@ -1171,9 +1173,9 @@
       "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {
@@ -1189,9 +1191,9 @@
       "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history.",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {
@@ -1209,9 +1211,9 @@
       "investigative_direction": "Confirm via BYU Jerusalem Center enrollment records or alumni directory.",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {
@@ -1229,9 +1231,9 @@
       "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record.",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {
@@ -1265,9 +1267,9 @@
       "investigative_direction": "Verify any government contract records for \"Michael Shawn Covey.\"",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {
@@ -1353,9 +1355,9 @@
       "investigative_direction": "Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment.",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {
@@ -1371,9 +1373,9 @@
       "investigative_direction": "Verify via Romney 2012 campaign staff biographies.",
       "mentions_person_refs": [
         "N-192",
-        "N-669",
-        "N-668",
-        "N-670"
+        "N-671",
+        "N-670",
+        "N-672"
       ]
     },
     {

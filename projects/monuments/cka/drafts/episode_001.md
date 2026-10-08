@@ -178,7 +178,7 @@ Joined an early TPUSA event with Candace and Charlie when the original headliner
 
 ---
 
-**N-62** Donald Trump Jr. (Don Jr.)
+**N-62** Donald Trump Jr.
 
 Node Type: Person
 Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.

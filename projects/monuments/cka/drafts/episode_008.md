@@ -891,6 +891,19 @@ Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate vide
 
 ## 6. Meme Register
 
+
+**M-80** (meme) Jog Your Memory
+
+### Occurrence 1
+
+Video Timestamp: 00:03:08
+Speaker: N-3
+Quote: So, I'm going to show you that again to jog your memory uh because we have an update.
+Context: Wave 3 mint – first transcript introduction. Host prompt recalling prior evidence for the audience
+Tags: wave3
+Confidence: high
+
+
 **M-1** (meme) Grieving Widow
 
 ### Occurrence 1

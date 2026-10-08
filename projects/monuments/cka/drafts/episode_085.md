@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-1639, N-1640, N-1641
- - Hole-minted Nodes (wave3): N-629, N-630, N-652
- - Reused Nodes Appearing: N-1, N-2
+ - Hole-minted Nodes (wave3): N-652, N-663, N-664
+ - Reused Nodes Appearing: N-1, N-2, N-437
  - (see registers)
 
 ## 6. Meme Register
@@ -203,19 +203,19 @@ Confidence Level: Medium
 
 # Node Register
 
-**N-652** Daniel Balou
+**N-664** Daniel Balou
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-630** Frederick Vaglio
+**N-663** Frederick Vaglio
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-629** Jean-Luc Baguer
+**N-652** Jean-Luc Baguer
 
 First named by the host at 00:10:32 in episode 85.
 
@@ -368,7 +368,7 @@ Claim Timestamp: 00:10:32
 Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-652, N-630, N-629
+Mentions: N-664, N-663, N-652
 Related Nodes: N-1641
 Investigative Direction: Verify role assignments via French court documents.
 
@@ -381,7 +381,7 @@ Claim Timestamp: 00:11:16
 Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-652, N-630, N-629
+Mentions: N-664, N-663, N-652
 Related Nodes: N-1641
 Investigative Direction: Verify incident via French press reporting or court records.
 
@@ -619,6 +619,7 @@ Claim Timestamp: 00:29:07
 Claim: A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
+Mentions: N-437
 Related Nodes:
 Investigative Direction: Obtain the full Commission statement.
 

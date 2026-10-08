@@ -556,22 +556,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
-      "name": "Bill Aman",
-      "type": "person",
-      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
-    },
-    {
-      "@type": "Person",
       "@id": "N-1",
       "ref": "N-1",
       "name": "Charlie Kirk",
@@ -627,8 +611,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-967",
+      "ref": "N-967",
       "name": "Mark Bricker",
       "type": "person",
       "description": "First named by the host at 00:18:29 in episode 144.",
@@ -642,6 +626,38 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-949",
+      "ref": "N-949",
+      "name": "David Hull",
+      "type": "person",
+      "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -664,7 +680,8 @@
       "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.",
       "mentions_person_refs": [
         "N-410",
-        "N-1"
+        "N-1",
+        "N-949"
       ]
     },
     {
@@ -705,7 +722,8 @@
       "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
       "mentions_person_refs": [
         "N-410",
-        "N-297"
+        "N-297",
+        "N-949"
       ]
     },
     {
@@ -723,7 +741,9 @@
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-949"
+      ]
     },
     {
       "@type": "Claim",
@@ -742,7 +762,7 @@
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
       "mentions_person_refs": [
-        "N-812"
+        "N-967"
       ]
     },
     {
@@ -797,7 +817,7 @@
       "claim_timestamp": "00:19:30–00:20:30",
       "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
       "mentions_person_refs": [
-        "N-812"
+        "N-967"
       ]
     },
     {
@@ -874,7 +894,7 @@
         "N-1",
         "N-65",
         "N-434",
-        "N-476"
+        "N-66"
       ]
     },
     {

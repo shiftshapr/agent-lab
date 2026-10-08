@@ -839,5 +839,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-21",
+      "ref": "M-21",
+      "canonical_term": "Conspiracy Girly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:50:40",
+          "speaker_node_ref": "N-3",
+          "quote": "I am impatiently waiting for my conspiracy girly cup.",
+          "context": "Wave 3 MemeLink backfill: Conspiracy Girly at 00:50:40 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

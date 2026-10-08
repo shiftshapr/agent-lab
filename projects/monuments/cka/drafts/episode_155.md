@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2337, N-2338, N-2339, N-2340
- - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-949
 
 # Episode Analysis – Bride of Charlie 155
 
@@ -530,6 +530,7 @@ Claim Timestamp: 00:19:42–00:21:12
 Claim: Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot – omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.
 
 Anchored Artifacts: A-2414.1, A-2415.1
+Mentions: N-949
 
 Related Nodes: N-2338
 

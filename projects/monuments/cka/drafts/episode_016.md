@@ -791,16 +791,16 @@ Investigative Direction: Identify which federal department is implicated; obtain
 
 ## 6. Meme Register
 
-**M-74** (meme) Make That Make Sense
+**M-82** (meme) Make That Make Sense
 
 ### Occurrence 1
 
 Video Timestamp: 00:42:20
 Speaker: N-3
-Quote: 
+Quote: I mean, make that make sense.
 Context: Wave 3 mint – first transcript introduction. Host rhetorical challenge demanding coherence from an official narrative
 Tags: wave3
-Confidence: medium
+Confidence: high
 
 
 **M-43** (meme) Community Notes for the Win
@@ -812,6 +812,17 @@ Speaker: N-3
 Quote: this is just funny, so we're going to show you this community notes for the win.
 Context: Host highlights a Community Notes dunk as comic receipts.
 Tags: x, factcheck, comedy
+Confidence: high
+
+**M-1** (meme) Grieving Widow
+
+### Occurrence 1
+
+Video Timestamp: 00:46:38
+Speaker: 
+Quote: Any civilized culture, Christian or otherwise, allows a grieving widow 40 days of mourning to make peace with the Lord and to respect the departed.
+Context: Wave 3 MemeLink backfill: Grieving Widow at 00:46:38 (audit missing_memelink).
+Tags: reuse, memelink_backfill
 Confidence: high
 
 ---

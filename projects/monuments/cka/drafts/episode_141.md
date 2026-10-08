@@ -38,7 +38,7 @@
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-2193, N-2194, N-2195
-  - Reused Nodes Appearing: N-46
+  - Reused Nodes Appearing: N-46, N-929
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -366,7 +366,7 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
-Mentions: N-46, N-3
+Mentions: N-46, N-3, N-929
 
 Related Nodes:
 
@@ -379,7 +379,7 @@ Claim Timestamp: 01:04:09
 Claim: Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3
+Mentions: N-3, N-929
 
 Related Nodes:
 

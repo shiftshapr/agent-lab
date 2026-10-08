@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2131, N-2132, N-2133, N-2134, N-2135, N-2136, N-2137, N-2138
- - Hole-minted Nodes (wave3): N-777, N-787, N-806, N-807, N-808
- - Reused Nodes Appearing: N-1215
+ - Hole-minted Nodes (wave3): N-811, N-812, N-813, N-814
+ - Reused Nodes Appearing: N-1215, N-629, N-809
  - (see registers)
 
 ---
@@ -316,36 +316,36 @@ Confidence Level: High (read aloud on air)
 
 ## IV. Node Register
 
-**N-709** Dan Bongino
+**N-629** Dan Bongino
 
-Reused from ep127 Hole-minted (wave3).
+Reused; first introduced in episode 15.
 
 
-**N-777** Beau Mason
+**N-811** Beau Mason
 
 First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau "Bo" Mason.
 
 *Related: C-3061, C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076*
 
-**N-787** Jennifer Faumuina
+**N-809** Jennifer Faumuina
 
-First named by the host at 00:15:24 in episode 128.
+Named by the host at 00:15:24 in episode 128; first introduced in episode 126.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076, C-3077*
 
-**N-807** Misiona Faumuina
+**N-813** Misiona Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077, C-3078*
 
-**N-806** Sapena Faumuina
+**N-812** Sapena Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077*
 
-**N-808** Sid Rosen
+**N-814** Sid Rosen
 
 First named by the host at 00:24:14 in episode 128.
 
@@ -512,7 +512,7 @@ Claim Timestamp: 00:09:39
 Claim: Neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.
 
 Anchored Artifacts: A-2154.1
-Mentions: N-70, N-102, N-777
+Mentions: N-70, N-102, N-811
 
 Related Nodes:
 
@@ -527,7 +527,7 @@ Claim Timestamp: 00:12:43
 Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was "very grainy" and cited lab enhancement as ongoing.
 
 Anchored Artifacts: A-2155.1
-Mentions: N-75, N-709
+Mentions: N-75, N-629
 
 Related Nodes: N-2135
 
@@ -542,7 +542,7 @@ Claim Timestamp: 00:16:37
 Claim: Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst Roommate Ever* stating she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
 
 Anchored Artifacts: A-2156.1
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes: N-2137
 
@@ -557,7 +557,7 @@ Claim Timestamp: 00:17:38
 Claim: A 2003 image shows Jennifer Faumuina playing basketball at a private school in Hawaii.
 
 Anchored Artifacts: A-2157.1
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -572,7 +572,7 @@ Claim Timestamp: 00:17:38
 Claim: Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
 
 Anchored Artifacts: A-2157.2
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -587,7 +587,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -602,7 +602,7 @@ Claim Timestamp: 00:18:29
 Claim: A 2016 article lists Jennifer Faumuina among volunteer Utah troopers who provided crowd control at the Republican National Convention in Ohio.
 
 Anchored Artifacts: A-2157.4
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -617,7 +617,7 @@ Claim Timestamp: 00:18:29
 Claim: Public records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -632,7 +632,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -647,7 +647,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina and Bo Mason appear together in a 2023 photograph marking Faumuina's promotion to sergeant.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -662,7 +662,7 @@ Claim Timestamp: 00:19:15
 Claim: Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
 
 Anchored Artifacts: A-2158.1
-Mentions: N-70, N-777, N-787
+Mentions: N-70, N-811, N-809
 
 Related Nodes: N-2132
 
@@ -737,7 +737,7 @@ Claim Timestamp: 00:24:14
 Claim: Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-777, N-787, N-807, N-806
+Mentions: N-811, N-809, N-813, N-812
 
 Related Nodes:
 
@@ -752,7 +752,7 @@ Claim Timestamp: 00:24:14
 Claim: The 1995 press coverage of Misiona Faumuina's death described him as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-787, N-807, N-806
+Mentions: N-809, N-813, N-812
 
 Related Nodes:
 
@@ -767,7 +767,7 @@ Claim Timestamp: 00:25:35
 Claim: A 1995 article names Sid Rosen as the head of "Adult Friends for Youth," an organization referenced in coverage of Misiona Faumuina's death.
 
 Anchored Artifacts: A-2160.2
-Mentions: N-807, N-808
+Mentions: N-813, N-814
 
 Related Nodes:
 

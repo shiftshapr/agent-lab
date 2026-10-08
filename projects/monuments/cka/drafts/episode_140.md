@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2190, N-2191, N-2192
   - Reused Nodes Appearing: N-2, N-46
+  - Hole-minted Nodes (wave3): N-929
   - (see registers)
 
 # Episode 140 – Analysis Record
@@ -205,7 +206,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced), N-46*
+*Related: C-3272, Andrew Wilson node, N-929, N-46*
 
 ---
 
@@ -257,7 +258,7 @@ Video Timestamp: 00:54:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node, Rachel Wilson (referenced)*
+*Related: Andrew Wilson node, N-929*
 
 **A-2275.7** Strada comment: TPUSA figures "look 10 years older"
 
@@ -292,6 +293,12 @@ Confidence Level: High (audio played)
 ---
 
 ## IV. Node Register
+
+**N-929** Rachel Wilson
+
+First named by the host at 00:39:29 in episode 140.
+
+*Related: C-3272, A-2274.1, A-2275.6*
 
 **N-1** Charlie Kirk
 
@@ -538,7 +545,7 @@ Claim Timestamp: 00:39:29
 Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-46
+Mentions: N-46, N-929
 
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.

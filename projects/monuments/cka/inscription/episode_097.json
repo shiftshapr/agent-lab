@@ -931,8 +931,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-683",
+      "ref": "N-683",
       "name": "Josh Gottheimer",
       "type": "person",
       "description": "First named by the host at 00:50:06 in episode 97.",
@@ -952,8 +952,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Mike Lawler",
       "type": "person",
       "description": "First named by the host at 00:50:06 in episode 97.",
@@ -973,11 +973,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-681",
-      "ref": "N-681",
+      "@id": "N-630",
+      "ref": "N-630",
       "name": "Josef Mengele",
       "type": "person",
-      "description": "First named by the host at 00:53:42 in episode 97.",
+      "description": "Named by the host at 00:53:42 in episode 97; first introduced in episode 65.",
       "related_artifacts": [],
       "related_claims": [
         "C-2828",
@@ -1077,7 +1077,10 @@
       "tags": [],
       "claim_timestamp": "00:09:16",
       "investigative_direction": "Review \"The Great Exodus from Utah\" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-3",
+        "N-424"
+      ]
     },
     {
       "@type": "Claim",
@@ -1349,9 +1352,9 @@
       "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.",
       "mentions_person_refs": [
         "N-3",
-        "N-680",
-        "N-679",
-        "N-681"
+        "N-683",
+        "N-682",
+        "N-630"
       ]
     },
     {
@@ -1371,9 +1374,9 @@
       "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization.",
       "mentions_person_refs": [
         "N-3",
-        "N-680",
-        "N-679",
-        "N-681"
+        "N-683",
+        "N-682",
+        "N-630"
       ]
     },
     {
@@ -1393,9 +1396,9 @@
       "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.",
       "mentions_person_refs": [
         "N-3",
-        "N-680",
-        "N-679",
-        "N-681"
+        "N-683",
+        "N-682",
+        "N-630"
       ]
     },
     {
@@ -1415,9 +1418,9 @@
       "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording.",
       "mentions_person_refs": [
         "N-3",
-        "N-680",
-        "N-679",
-        "N-681"
+        "N-683",
+        "N-682",
+        "N-630"
       ]
     },
     {
@@ -1437,9 +1440,9 @@
       "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context.",
       "mentions_person_refs": [
         "N-3",
-        "N-680",
-        "N-679",
-        "N-681"
+        "N-683",
+        "N-682",
+        "N-630"
       ]
     },
     {

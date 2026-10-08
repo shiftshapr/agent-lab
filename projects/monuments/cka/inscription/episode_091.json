@@ -466,9 +466,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-675",
-      "ref": "N-675",
-      "name": "Jimmy Barbecue",
+      "@id": "N-677",
+      "ref": "N-677",
+      "name": "Jimmy Cherizier",
       "type": "person",
       "description": "First named by the host at 00:27:14 in episode 91.",
       "related_artifacts": [],
@@ -484,8 +484,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-676",
-      "ref": "N-676",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Daniel Horner",
       "type": "person",
       "description": "First named by the host at 00:32:24 in episode 91.",
@@ -628,7 +628,7 @@
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting.",
       "mentions_person_refs": [
-        "N-675"
+        "N-677"
       ]
     },
     {
@@ -647,7 +647,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly.",
       "mentions_person_refs": [
-        "N-676"
+        "N-678"
       ]
     },
     {
@@ -822,7 +822,7 @@
       "claim_timestamp": "00:28:28",
       "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.",
       "mentions_person_refs": [
-        "N-675"
+        "N-677"
       ]
     },
     {

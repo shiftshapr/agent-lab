@@ -642,6 +642,28 @@ Context: CKA reuse of catch-them-all / Pokémon joke about accumulating smear la
 Tags: pokemon_joke, smear_labels
 Confidence: high
 
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:21:31
+Speaker: N-3
+Quote: Conspiracy theorists said it was a military operation and there was a ton of evidence to support that, okay?
+Context: Wave 3 MemeLink backfill: conspiracy theorist at 00:21:31 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:31:24
+Speaker: N-3
+Quote: Iron sharpens iron.
+Context: Wave 3 MemeLink backfill: Iron Sharpens Iron at 00:31:24 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 ## VI. Optional Flags

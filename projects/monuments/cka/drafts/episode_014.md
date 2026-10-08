@@ -292,7 +292,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-203** Olivia Robertson cub Bishop
+**N-203** Olivia Robertson Cobb Bishop
 
 Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only – no displayed source for employment claim).
 
@@ -374,7 +374,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-6** Elizabeth Lane *(reused from Episode 1)*
+**N-6** Elizabeth Lane
 
 Investigative journalist; subject of in-episode audio clip on Redacted podcast (A-1212.1) describing her pro bono outreach efforts for Tyler Robinson's defense.
 

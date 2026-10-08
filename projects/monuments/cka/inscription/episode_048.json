@@ -545,6 +545,55 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-629",
+      "ref": "N-629",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Reused; first introduced in episode 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1113",
+      "ref": "N-1113",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "topic",
+      "description": "Umbrella investigation thread encompassing all episode-13 evidence streams.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "verification_thread",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -585,7 +634,6 @@
       "claim_timestamp": "00:27:47",
       "investigative_direction": "Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.",
       "mentions_person_refs": [
-        "N-1",
         "N-16"
       ]
     },
@@ -605,7 +653,6 @@
       "claim_timestamp": "00:27:47",
       "investigative_direction": "Verify against any chain-of-custody documentation for Charlie's personal effects.",
       "mentions_person_refs": [
-        "N-1",
         "N-16"
       ]
     },
@@ -742,6 +789,27 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3758",
+      "ref": "C-3758",
+      "label": "Host calls the Charlie Kirk case the most extreme cover-up she has seen, carried out by the feds",
+      "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which she says Trump confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1113"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:40",
+      "investigative_direction": "Track Bongino's departure announcement and any statement he makes on the Kirk investigation.",
+      "transcript_snippet": "I have never seen one more extreme than this Charlie Kirk cover-up that the feds are engaged in.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-629",
+        "N-5"
       ]
     }
   ],

@@ -1480,7 +1480,6 @@
       "transcript_snippet": "that person appears to be calmly talking into their phone. It's like a circus around them",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1",
         "N-118"
       ]
     },
@@ -2045,6 +2044,26 @@
           "uncertainty_note": "Pattern invoked implicitly; explicit 'conspiracy theorist' label not directly stated.",
           "tags": [
             "rhetorical_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-78",
+      "ref": "M-78",
+      "canonical_term": "Silence Is Not Kindness",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 6,
+          "video_timestamp": "00:21:51",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm not going to water down what I believe to be palatable because silence is not kindness at all.",
+          "context": "Wave 3 mint – first transcript introduction. Host moral framing that withholding truth is not merciful",
+          "confidence": "high",
+          "tags": [
+            "wave3"
           ]
         }
       ]

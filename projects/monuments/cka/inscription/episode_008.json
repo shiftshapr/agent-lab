@@ -1906,6 +1906,26 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 8,
+          "video_timestamp": "00:03:08",
+          "speaker_node_ref": "N-3",
+          "quote": "So, I'm going to show you that again to jog your memory uh because we have an update.",
+          "context": "Wave 3 mint – first transcript introduction. Host prompt recalling prior evidence for the audience",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
+        }
+      ]
     }
   ]
 }

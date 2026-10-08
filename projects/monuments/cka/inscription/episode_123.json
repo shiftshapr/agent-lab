@@ -481,11 +481,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-777",
+      "ref": "N-777",
       "name": "Rick Cutler",
       "type": "person",
-      "description": "First named by the host at 00:12:02 in episode 123.",
+      "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
       "related_artifacts": [],
       "related_claims": [
         "C-2997"
@@ -708,7 +708,7 @@
       "mentions_person_refs": [
         "N-424",
         "N-552",
-        "N-687"
+        "N-777"
       ]
     },
     {

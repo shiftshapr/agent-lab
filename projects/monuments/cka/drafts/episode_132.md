@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2148, N-2149, N-2150, N-2151, N-2152
- - Hole-minted Nodes (wave3): N-810
- - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - Hole-minted Nodes (wave3): N-845
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-777, N-787
  - (see registers)
 
 ## I. Meta-Data
@@ -297,15 +297,15 @@ Confidence Level: Low
 
 Excerpt: "The call did in fact take place… it lasted anywhere from 3 to 5 minutes… someone phones 911 and then did not engage with the 911 operator… The phone sounds as though it's dropped… what was captured rather on this call is quote, 'We got him. Uh we are taking him to the hospital.'… 'Get that off of him.'… 'Get out of the way.'…"
 
-*Related: C-3149, N-2149, Brian Harpole (existing node), Charlie Kirk (existing node), Rick Cutler (existing node), Justin Davis (existing node)*
+*Related: C-3149, N-2149, Brian Harpole (existing node), Charlie Kirk (existing node), N-777, N-787*
 
 ---
 
 ## IV. Node Register
 
-**N-810** Pastor Russell
+**N-845** Pastor Russell
 
-First named by the host at 00:23:26 in episode 132.
+First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 
 *Related: C-3142*
 
@@ -336,7 +336,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), Rick Cutler (existing node), Justin Davis (existing node)*
+*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), N-777, N-787*
 
 **N-2150** Charlie Kirk Cremation/Burial Status Verification
 
@@ -415,7 +415,7 @@ Claim Timestamp: 00:24:17
 Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Mentions: N-1, N-2, N-810
+Mentions: N-1, N-2, N-845
 Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 

@@ -1604,6 +1604,26 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:11:53",
+          "speaker_node_ref": "N-3",
+          "quote": "And this particular statement to me does not pass the sniff test.",
+          "context": "Wave 3 mint – first transcript introduction. Host judgment that a claim smells wrong / fails basic plausibility",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -999,6 +999,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-43",
+      "ref": "N-43",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1120,6 +1136,32 @@
       "claim_timestamp": "00:18:47",
       "investigative_direction": "Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.",
       "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3742",
+      "ref": "C-3742",
+      "label": "Justin Strife is the Turning Point executive C-2113 spells 'Justin Stripe' (revises C-2113)",
+      "claim": "C-2113 spells the executive's name 'Justin Stripe' (auto-caption form). The executive is Justin Strife (N-43). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.",
+      "anchored_artifacts": [
+        "A-1637.1"
+      ],
+      "related_nodes": [
+        "N-1490"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:47",
+      "investigative_direction": "Read with C-2113; request the reply under the corrected spelling Justin Strife.",
+      "transcript_snippet": "And he replied that she never lived in China.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-2113"
+      ],
+      "mentions_person_refs": [
+        "N-43",
         "N-2",
         "N-3"
       ]

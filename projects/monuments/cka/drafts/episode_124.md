@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-777, N-3, N-426, N-607, N-133, N-1, N-69
+  - Hole-minted Nodes (wave3): N-787
   - (see registers)
 
 # Meta-Data
@@ -29,9 +30,9 @@
 
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
-Claim Range: C-3000 – C-3016
+Claim Range: C-3000 – C-3016, C-3761
 New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Aman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
 ## 6. Meme Register
 
@@ -44,6 +45,17 @@ Speaker: N-3
 Quote: like how the kid with a limped with the limp switched legs. Lance is sus and he seems like a MK Ultra OP. Keep going, Max. I personally think that ...
 Context: Later reuse of Sus in CKA seq 124.
 Tags: slang, suspicion, comedy, reuse
+Confidence: high
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:07:02
+Speaker: N-3
+Quote: I will put up $10,000 bounty on that piece of information. Tips at candace. com.
+Context: DIA tip-line call: host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with (C-3764).
+Tags: tips_network, dia_tip_line, transcript_backfill
 Confidence: high
 
 ---
@@ -338,6 +350,12 @@ Confidence Level: Medium
 
 # IV. Node Register
 
+**N-787** Justin Davis
+
+First named by the host at 01:03:20 in episode 124.
+
+*Related: C-3015*
+
 **N-2108** Car Exhaust Pipe Discrepancy
 
 The discrepancy between the dual-exhaust Dodge Challenger shown in preliminary hearing footage (A-2120.1) and Tyler Robinson's known single-exhaust Dodge Challenger (A-2120.2).
@@ -558,6 +576,7 @@ Claim Timestamp: 00:31:06
 Claim: ATF forensic biologist Caitlyn Oliver testified that characterizing media reports as "Mr. Robinson's DNA is found on this item" would constitute a "source attribution" that is "not scientifically defensible."
 
 Anchored Artifacts: A-2124.1
+Mentions: N-69
 
 Related Nodes: N-2110
 
@@ -630,7 +649,7 @@ Claim Timestamp: 01:01:37
 Claim: Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.
 
 Anchored Artifacts: A-2127.1
-Mentions: N-1, N-133
+Mentions: N-1, N-133, N-777, N-787
 
 Related Nodes: N-2111
 
@@ -650,6 +669,36 @@ Mentions: N-69, N-84
 Related Nodes:
 
 Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-2112).
+
+---
+
+**C-3761** Host says Tim Pool and Jeremy Boreing lied about who received live updates from the transport car
+
+Claim Timestamp: 01:05:57
+
+Claim: The host says Tim Pool is lying when he says he did not receive updates from someone in the car about Charlie Kirk's status, and that Jeremy Boreing lied when he suggested her own security was getting those updates; she says she confirmed her security was not on the phone with anyone in the car.
+
+Transcript Snippet: Tim Pool is lying through his teeth. He did not receive updates from somebody in that car about Charlie's status.
+
+Anchored Artifacts: 
+Mentions: N-3, N-426, N-607, N-133, N-1
+Related Nodes: N-2111
+Investigative Direction: Identify who in the car was in contact with outside security teams and when.
+
+---
+
+**C-3764** Host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot
+
+Claim Timestamp: 01:07:02
+
+Claim: After asking who on Ben Shapiro's security team was receiving updates on Charlie Kirk's condition, the host asks who he (caption: "Bench Crew") was at lunch with in LA when the shooting happened, says she has a hunch, and offers a $10,000 bounty for evidence, sent to the tip line.
+
+Transcript Snippet: I will put up $10,000 bounty on that piece of information.
+
+Anchored Artifacts: 
+Mentions: N-3, N-133
+Related Nodes: N-2111
+Investigative Direction: Collect tip-line submissions on the lunch; corroborate any named attendee against location data or witnesses.
 
 ---
 

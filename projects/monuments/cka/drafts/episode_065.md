@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave3): N-630
 
 ---
 
@@ -334,6 +335,13 @@ Description: Referenced video in which, per Youssef, Hamas officials narrate the
 
 ## IV. Node Register
 
+
+
+**N-630** Josef Mengele
+
+First named at 00:38:13 in episode 65 (A-1699.1). Aliases: Joseph Mengele.
+
+*Related: A-1699.1*
 
 **N-798** Bassem Youssef
 

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-961, N-962, N-963, N-964, N-965, N-966, N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
-  - Reused Nodes Appearing: N-2, N-37
+  - Reused Nodes Appearing: N-2, N-37, N-3
   - (see registers)
 
 ---
@@ -32,7 +32,7 @@
 ### Episode 77 Ledger Summary
 
 - Artifact Families Introduced: A-1822, A-1823, A-1824, A-1825, A-1826, A-1827, A-1828, A-1829, A-1830, A-1831, A-1832, A-1833, A-1834
-- Claim Range: C-2437–C-2452
+- Claim Range: C-2437–C-2452, C-3744
 - New Nodes Introduced (people): N-961, N-962, N-963, N-964, N-965, N-966
 - New Nodes Introduced (investigation targets): N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
@@ -104,6 +104,16 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: C-2440, C-2451, N-2, N-1598*
+
+**A-1825.2** Host on-air tip request asking New York real-estate professionals to confirm Erika's license and sales (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:15:31
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: C-3744, N-2, N-1598*
 
 ---
 
@@ -474,6 +484,23 @@ Investigative Direction: Verify license against NY Department of State public li
 
 ---
 
+**C-3744** Host asks New York real-estate professionals for tips confirming Erika's license and sales
+
+Claim Timestamp: 00:15:31
+
+Claim: The host asks New York real-estate professionals to report what they can find, to confirm Erika's real-estate license and what she sold, and to send tips to candaceowens.com.
+
+Transcript Snippet: If you can confirm Erika's real estate license and what she sold.
+
+Anchored Artifacts: A-1825.2
+Mentions: N-3, N-2
+
+Related Nodes: N-1598
+
+Investigative Direction: Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-1598.
+
+---
+
 **C-2441** Erika Kirk American Race Audition Tape Describes Opening Romanian Orphanage with Marines
 
 Claim Timestamp: 00:19:15
@@ -653,6 +680,19 @@ Investigative Direction: Retrieve full bill text; cross-reference fund descripto
 ---
 
 ## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:15:31
+Speaker: N-3
+Quote: Please, uh we'd like to hear from you. More tips at candaceowens. com.
+Context: DIA tip-line call: host asks viewers for tips on Erika's NY real-estate license (C-3744, A-1825.2).
+Tags: tips_network, dia_tip_line, transcript_backfill
+Confidence: high
+
+---
 
 **M-51** (meme) Cringe
 

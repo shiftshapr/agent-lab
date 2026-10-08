@@ -972,7 +972,9 @@
       "label": "Host concurs with Elizabeth Lane's prior assessment of Erika Kirk",
       "claim": "Host explicitly endorses Elizabeth Lane's prior post that \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's pattern of public blame-shifting as \"malevolent.\"",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1691"
+      ],
       "tags": [],
       "claim_timestamp": "00:15:01–00:17:09",
       "investigative_direction": "Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope.",

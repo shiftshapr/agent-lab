@@ -442,8 +442,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-815",
+      "ref": "N-815",
       "name": "Gayle King",
       "type": "person",
       "description": "First named by the host at 00:43:01 in episode 131.",
@@ -768,7 +768,7 @@
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings.",
       "mentions_person_refs": [
-        "N-809"
+        "N-815"
       ]
     },
     {
@@ -785,7 +785,7 @@
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.",
       "mentions_person_refs": [
-        "N-809"
+        "N-815"
       ]
     },
     {
@@ -802,7 +802,7 @@
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.",
       "mentions_person_refs": [
-        "N-809"
+        "N-815"
       ]
     },
     {
@@ -821,7 +821,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-809"
+        "N-815"
       ]
     },
     {

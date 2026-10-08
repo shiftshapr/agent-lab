@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1657, N-1658, N-1659, N-1660, N-1661
-  - Hole-minted Nodes (wave3): N-671
-  - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave3): N-673
+  - Reused Nodes Appearing: N-666
   - (see registers)
 
 ## 2. Executive Summary
@@ -260,7 +260,7 @@ Confidence Level: High
 
 ### People
 
-**N-671** Derek Niekerk
+**N-673** Derek Niekerk
 
 First named by the host at 00:42:15 in episode 88.
 
@@ -345,6 +345,7 @@ Claim Timestamp: 00:01:20–00:03:02
 Claim: The "Built" app co-founded by Akhmed Karashi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
 
 Anchored Artifacts: A-1927.4
+Mentions: N-666
 Related Nodes: N-1660
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
@@ -476,7 +477,7 @@ Claim Timestamp: 00:40:55–00:44:53
 Claim: Per host investigation, multiple sources – including an unnamed Phoenix-area doctor and his wife (with federal political ties), a witness via security guard Derek Niekerk, and a Minnesota woman – allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2, N-671
+Mentions: N-2, N-673
 Related Nodes: N-1657
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 

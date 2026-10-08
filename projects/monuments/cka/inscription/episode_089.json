@@ -462,7 +462,7 @@
       "@type": "Person",
       "@id": "N-62",
       "ref": "N-62",
-      "name": "Donald Trump Jr. (Don Jr.)",
+      "name": "Donald Trump Jr.",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
       "related_artifacts": [],
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-672",
-      "ref": "N-672",
+      "@id": "N-674",
+      "ref": "N-674",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "First named by the host at 00:26:31 in episode 89.",
@@ -641,7 +641,9 @@
       "tags": [],
       "claim_timestamp": "00:11:20–00:12:28",
       "investigative_direction": "Verify the exact wording against the archived Truth Social post.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -680,7 +682,7 @@
         "N-65",
         "N-298",
         "N-75",
-        "N-672"
+        "N-674"
       ]
     },
     {
@@ -699,7 +701,7 @@
       "mentions_person_refs": [
         "N-440",
         "N-50",
-        "N-672"
+        "N-674"
       ]
     },
     {

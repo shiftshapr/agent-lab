@@ -156,7 +156,7 @@ Uncertainty: Letter content not shown; only referenced.
 Event Timestamp: 2025-09
 Video Timestamp: 00:50:24–00:51:07
 *Related: C-1160, N-66, N-97, N-1098*
-Transcript Snippet: Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
+Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Confidence: high
 
 ---
@@ -843,7 +843,7 @@ Investigative Direction: Verify tweet length, content, and any deletions or foll
 
 Claim Timestamp: 00:50:24
 Claim: Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.
-Transcript Snippet: Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
+Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
 Mentions: N-66, N-97, N-87, N-1
 Related Nodes: N-1098
@@ -857,7 +857,7 @@ Tags: open_source_investigation
 
 Claim Timestamp: 01:03:58
 Claim: Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.
-Transcript Snippet: Bill Aman got up and gave a presentation and told them that they shouldn't own property
+Transcript Snippet: Bill Ackman got up and gave a presentation and told them that they shouldn't own property
 Anchored Artifacts: 
 Mentions: N-66
 Related Nodes: N-1098
@@ -1111,6 +1111,32 @@ Investigative Direction: Locate the Jamie Lee Curtis clip the host promised to s
 ---
 
 ## 6. Meme Register
+
+
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:56:16
+Speaker: N-3
+Quote: I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
+Context: Wave 3 mint – first transcript introduction. Host categorical moral claim used as a recurring line
+Tags: wave3
+Confidence: high
+
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:30:02
+Speaker: N-3
+Quote: So they know Lance obviously and I'm going to cushion this with allegedly allegedly allegedly it isn't allegedly that this is his family members telling me these...
+Context: Wave 3 mint – first transcript introduction. Host hedge stacking allegedly when relaying tipster claims
+Tags: wave3
+Confidence: high
+
 
 **M-2** (meme) Sheer Evil
 

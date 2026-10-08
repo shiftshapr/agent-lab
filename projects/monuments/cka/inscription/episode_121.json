@@ -957,6 +957,24 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-777",
+      "ref": "N-777",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "First named by the host at 00:10:43 in episode 121.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2947",
+        "C-2951"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1014,7 +1032,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.",
       "mentions_person_refs": [
-        "N-424"
+        "N-424",
+        "N-777"
       ]
     },
     {
@@ -1093,7 +1112,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.",
       "mentions_person_refs": [
-        "N-424"
+        "N-424",
+        "N-777"
       ]
     },
     {

@@ -687,19 +687,23 @@
   ],
   "memes": [
     {
-      "@type": "Meme",
+      "@type": "MemeAnalysis",
       "@id": "M-75",
       "ref": "M-75",
-      "term": "(meme) I'll Say Allegedly",
+      "canonical_term": "I'll Say Allegedly",
       "type": "meme",
-      "definition": "Host hedge stacking allegedly when relaying tipster claims",
       "occurrences": [
         {
+          "episode": 49,
           "video_timestamp": "00:13:59",
-          "speaker": "N-3",
-          "quote": "",
-          "context": "Wave 3 mint – first transcript introduction.",
-          "confidence": "medium"
+          "speaker_node_ref": "N-3",
+          "quote": "Uh I'm going to say allegedly allegedly allegedly here.",
+          "context": "Reuse of I'll Say Allegedly (first introduced in episode 3 at 00:30:02).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
         }
       ]
     }

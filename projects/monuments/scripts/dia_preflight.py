@@ -1586,6 +1586,104 @@ def check_cited_before_intro(
                     )
 
 
+ARTIFACT_LABEL_RE = re.compile(r"^\*\*(A-\d+(?:\.\d+)?)\*\*\s+(.+)$", re.MULTILINE)
+INV_DIR_LINE_RE = re.compile(r"^Investigative Direction:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+
+
+def person_name_patterns(canonical: dict[str, dict[str, Any]]) -> dict[int, list[tuple[str, re.Pattern[str]]]]:
+    """Distinctive multi-word names per person id (canonical name + aliases).
+
+    A name is kept when it has at least two capitalised word tokens and is at least six characters;
+    names shared by two persons are dropped (ambiguous), so the scan only fires on unambiguous
+    full names such as 'Dan Bongino' or 'Bill Ackman'."""
+    owners: dict[str, set[int]] = {}
+    for key, meta in canonical.items():
+        m = re.match(r"N-(\d+)$", key)
+        if not m:
+            continue
+        nid = int(m.group(1))
+        if nid >= 1000 and nid < PERSON_HIGH_MIN:
+            continue
+        if str(meta.get("type") or "person").lower() not in PERSON_TYPES:
+            continue
+        for raw in [meta.get("canonical_name") or "", *(meta.get("aliases") or [])]:
+            nm = _split_qualifier(_strip_name(str(raw)))[0]
+            nm = re.split(r"'s\b|\u2019s\b", nm)[0].strip()
+            toks = [x for x in re.findall(r"[A-Za-z][A-Za-z'.\-]*", nm) if not NAME_SUFFIX_RE.match(x)]
+            caps = [x for x in toks if x[0].isupper() and len(x) >= 2]
+            norm = _norm_text(nm)
+            if len(caps) < 2 or len(norm) < 6:
+                continue
+            owners.setdefault(norm, set()).add(nid)
+    out: dict[int, list[tuple[str, re.Pattern[str]]]] = {}
+    for norm, ids in owners.items():
+        if len(ids) != 1:
+            continue
+        nid = next(iter(ids))
+        out.setdefault(nid, []).append((norm, re.compile(r"(?<![a-z0-9'])" + re.escape(norm) + r"(?![a-z0-9])")))
+    return out
+
+
+def check_named_before_intro(
+    report: PreflightReport,
+    monument_dir: Path,
+    episodes: list[tuple[int, str, Path, str]],
+    canonical: dict[str, dict[str, Any]],
+    *,
+    strict: bool = True,
+) -> None:
+    """P1 (Wave 3, Transit 73d663b P1-3): a person may not be NAMED in claim or artifact text before the
+    episode whose ledger line introduces them, even when the earlier claim carries no N-id.
+
+    Scans each claim's label, Claim: and Investigative Direction: lines and each artifact label for the
+    person's unambiguous multi-word canonical name or aliases (person_name_patterns). Quote fields are not
+    scanned (the host may say a name long before the graph needs the person). Pre-Wave-3 debt that was
+    reviewed and accepted is listed in config/preflight_gates.json named_before_intro.accepted as
+    {"id": "N-x", "episodes": [..], "reason": ".."}; accepted pairs are skipped.
+    """
+    cfg = load_gate_config(monument_dir).get("named_before_intro") or {}
+    if not cfg.get("enabled"):
+        return
+    accepted: set[tuple[int, int]] = set()
+    for row in cfg.get("accepted") or []:
+        mm = re.match(r"N-(\d+)$", str(row.get("id", "")))
+        if mm:
+            for e in row.get("episodes") or []:
+                accepted.add((int(mm.group(1)), int(e)))
+    baseline = _baseline_ids(episodes)
+    intro_ep = person_intro_episodes(episodes, strict=strict)
+    pats = person_name_patterns(canonical)
+    for ep, ep_name, _path, content in episodes:
+        if ep == 0:
+            continue
+        texts: list[tuple[str, str]] = []
+        for cid, label, block in iter_claim_blocks(content):
+            parts = [label]
+            parts += [m.group(1) for m in CLAIM_BODY_LINE_RE.finditer(block)]
+            parts += [m.group(1) for m in INV_DIR_LINE_RE.finditer(block)]
+            texts.append((cid, _norm_text(" ".join(parts))))
+        for m in ARTIFACT_LABEL_RE.finditer(content):
+            texts.append((m.group(1), _norm_text(m.group(2))))
+        seen: set[int] = set()
+        for nid, rxs in pats.items():
+            first = intro_ep.get(nid)
+            if first is None or first <= ep or nid in baseline or nid in seen or (nid, ep) in accepted:
+                continue
+            for oid, txt in texts:
+                hit = next((nm for nm, rx in rxs if rx.search(txt)), None)
+                if hit:
+                    seen.add(nid)
+                    report.add(
+                        "P1",
+                        "named_before_intro",
+                        f"{ep_name}: person N-{nid} is named in {oid} text in ep{ep} ('{hit}') "
+                        f"but is introduced in ep{first}; introduce the person at the first naming (and add Mentions) "
+                        f"or list the pair in preflight_gates.json named_before_intro.accepted with a reason",
+                        f"N-{nid}",
+                    )
+                    break
+
+
 def check_ledger_intro(report: PreflightReport, episodes: list[tuple[int, str, Path, str]]) -> None:
     """P0: every registered node (any band, not on the episode_000 baseline) must be introduced on a
     New, Hole-minted or Tip-minted ledger line, and no later than its first register row or ledger
@@ -1993,6 +2091,7 @@ def run_preflight(
     check_tip_minted(report, episodes, intro)
     strict_intro = bool((load_gate_config(monument_dir).get("ledger_intro") or {}).get("strict"))
     check_cited_before_intro(report, episodes, strict=strict_intro)
+    check_named_before_intro(report, monument_dir, episodes, canonical, strict=strict_intro)
     if strict_intro:
         check_ledger_intro(report, episodes)
     check_dangling_claim_refs(report, ingest_episodes)

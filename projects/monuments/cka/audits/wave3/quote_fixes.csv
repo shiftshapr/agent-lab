@@ -1,0 +1,8 @@
+episode,id,field,old,new,transcript_evidence,reason
+2,C-1128,Transcript Snippet,Bill Aman,Bill Ackman,"transcripts_corrected ep2 [15:24] reads ""Bill Ackman""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)
+2,C-1137,Transcript Snippet,Seth Dylan,Seth Dillon,"transcripts_corrected ep2 [~00:18] reads ""Seth Dillon""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)
+3,A-1101.1,Transcript Snippet,Bill Aman,Bill Ackman,"transcripts_corrected ep3 [50:24] reads ""Bill Ackman""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)
+3,C-1160,Transcript Snippet,Bill Aman,Bill Ackman,"transcripts_corrected ep3 [50:24] reads ""Bill Ackman""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)
+3,C-1161,Transcript Snippet,Bill Aman,Bill Ackman,"transcripts_corrected ep3 transcript line 548 reads ""Bill Ackman""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)
+10,A-1170.1,Transcript Snippet,Bill Aman,Bill Ackman,"transcripts_corrected ep10 [25:04] reads ""Bill Ackman""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)
+10,C-1295,Transcript Snippet,Bill Aman,Bill Ackman,"transcripts_corrected ep10 [25:04] reads ""Bill Ackman""",verbatim quote fix: Quote/Transcript Snippet must match transcripts_corrected (auto-caption name drift)

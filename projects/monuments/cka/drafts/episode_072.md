@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-916, N-917, N-919, N-920, N-1572, N-1573, N-1574, N-1575, N-1576
-  - Reused Nodes Appearing: N-2, N-37
+  - Reused Nodes Appearing: N-2, N-37, N-3, N-890, N-908, N-1, N-537
   - (see registers)
 
 ## 2. Executive Summary
@@ -593,6 +593,36 @@ Mentions: N-3, N-75, N-1
 
 
 Investigative Direction: Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.
+
+---
+
+**C-3759** Host says Erika Kirk's assistant was supposed to go to UVU on September 10
+
+Claim Timestamp: 00:04:05
+
+Claim: The host says it is a fact that Erika Kirk's assistant, the daughter of Tracy Martin, whom she chooses not to name, was supposed to go to UVU on September 10, which she says tracks with Erika's admission that she also considered going.
+
+Transcript Snippet: However, it is a fact that she was supposed to go to UVU on September 10th.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-890, N-908
+Related Nodes: N-1556
+Investigative Direction: Establish the assistant's September 10 travel plans and who changed them.
+
+---
+
+**C-3760** Host disputes the account that Charlie Kirk was excited and could not sleep before the UVU event
+
+Claim Timestamp: 00:09:13
+
+Claim: The host calls it a lie that Charlie Kirk was bubbling over with excitement before the UVU event and could not sleep; she says no one has done more campus events with him than she has and that these debates, such as with Hunter Kozak, were part of the job.
+
+Transcript Snippet: Charlie was not bubbling over in excitement to go answer questions from the likes of Hunter Kozak.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-2, N-537
+Related Nodes: 
+Investigative Direction: Compare Erika Kirk's account of the night before against texts and witnesses from September 9.
 
 ---
 

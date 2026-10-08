@@ -1267,7 +1267,7 @@
       "ref": "N-66",
       "name": "Bill Ackman",
       "type": "person",
-      "description": "Referenced in SAS/Tucker wealth-question and prior smear-amplification context.",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1757,6 +1757,23 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3748",
+      "ref": "C-3748",
+      "label": "Host says people around Charlie Kirk are lying about where he was on his faith journey",
+      "claim": "The host says that, instead of acting as expected after the assassination, people around Charlie Kirk are making videos about her and lying about where he was on his faith journey, keeping his Catholic interest \"hush-hush\".",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:03",
+      "investigative_direction": "Compare TPUSA and family statements on Charlie Kirk's faith against the host's messages with him and other accounts of his Catholic interest.",
+      "transcript_snippet": "They're lying to you about where Charlie was on his faith journey.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-3647",
       "ref": "C-3647",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
@@ -1775,36 +1792,43 @@
   ],
   "memes": [
     {
-      "@type": "Meme",
+      "@type": "MemeAnalysis",
       "@id": "M-78",
       "ref": "M-78",
-      "term": "(meme) Lo and Behold",
+      "canonical_term": "Silence Is Not Kindness",
       "type": "meme",
-      "definition": "Host ironic reveal marker",
       "occurrences": [
         {
-          "video_timestamp": "00:14:15",
-          "speaker": "N-3",
-          "quote": "",
-          "context": "Wave 3 mint – first transcript introduction.",
-          "confidence": "medium"
+          "episode": 23,
+          "video_timestamp": "00:44:14",
+          "speaker_node_ref": "N-3",
+          "quote": "You guys know that I love them and the work that they are doing because I think we all recognize in this moment that silence is not kindness.",
+          "context": "Reuse of Silence Is Not Kindness (first introduced in episode 6 at 00:21:51).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
         }
       ]
     },
     {
-      "@type": "Meme",
-      "@id": "M-80",
-      "ref": "M-80",
-      "term": "(meme) Silence Is Not Kindness",
+      "@type": "MemeAnalysis",
+      "@id": "M-83",
+      "ref": "M-83",
+      "canonical_term": "Lo and Behold",
       "type": "meme",
-      "definition": "Host moral framing that withholding truth is not merciful",
       "occurrences": [
         {
-          "video_timestamp": "00:44:14",
-          "speaker": "N-3",
-          "quote": "",
-          "context": "Wave 3 mint – first transcript introduction.",
-          "confidence": "medium"
+          "episode": 23,
+          "video_timestamp": "00:14:15",
+          "speaker_node_ref": "N-3",
+          "quote": "And lo and behold, while they're here, there is a trans shooting.",
+          "context": "Wave 3 mint – first transcript introduction. Host ironic reveal marker",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
         }
       ]
     }

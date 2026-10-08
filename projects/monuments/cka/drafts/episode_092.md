@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
   - Reused Nodes Appearing: N-2, N-42, N-4
+  - Hole-minted Nodes (wave3): N-679
   - Hole-minted Nodes (wave1): N-536, N-569, N-570
   - (see registers)
 
@@ -302,6 +303,12 @@ Confidence Level: Medium (anonymous sources, no displayed documentation)
 ---
 
 # IV. Node Register
+
+**N-679** Marcus Wada
+
+First named by the host at 00:42:41 in episode 92.
+
+*Related: C-2737, C-2738, C-2739, C-2741, A-1978.1, A-1979.1, A-1980.1*
 
 **N-1** Charlie Kirk
 
@@ -733,6 +740,7 @@ Claim Timestamp: 00:43:46
 Claim: The TPUSA website bio identifies Marcus Wada as "director of strategy of productions."
 
 Anchored Artifacts: A-1978.1
+Mentions: N-679
 
 Related Nodes: N-1684
 
@@ -747,6 +755,7 @@ Claim Timestamp: 00:43:46
 Claim: Marcus Wada's TPUSA bio lists credits on Miss Universe and TPUSA documentaries "Border Battle" and "The Great Global Reset."
 
 Anchored Artifacts: A-1978.1
+Mentions: N-679
 
 Related Nodes: N-1684
 
@@ -761,6 +770,7 @@ Claim Timestamp: 00:46:09
 Claim: The consulting firm associated with Marcus Wada's brother lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.
 
 Anchored Artifacts: A-1979.1
+Mentions: N-679
 
 Related Nodes: N-1684, N-1689
 
@@ -790,7 +800,7 @@ Claim Timestamp: 00:42:41
 Claim: Per unnamed current and former TPUSA employees, Marcus Wada openly discusses past involvement in arms trafficking in Poland and is described as close to Andrew Kolvet.
 
 Anchored Artifacts: A-1980.1
-Mentions: N-42
+Mentions: N-42, N-679
 
 Related Nodes: N-1684
 

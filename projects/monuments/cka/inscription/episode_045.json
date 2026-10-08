@@ -839,19 +839,23 @@
       ]
     },
     {
-      "@type": "Meme",
-      "@id": "M-77",
-      "ref": "M-77",
-      "term": "(meme) Believe Your Own Eyes",
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
       "type": "meme",
-      "definition": "Host exhortation to trust visible evidence over gaslighting",
       "occurrences": [
         {
+          "episode": 45,
           "video_timestamp": "00:19:15",
-          "speaker": "N-3",
-          "quote": "",
-          "context": "Wave 3 mint – first transcript introduction.",
-          "confidence": "medium"
+          "speaker_node_ref": "N-3",
+          "quote": "Don't believe your own eyes.",
+          "context": "Reuse of Believe Your Own Eyes (first introduced in episode 2 at 01:02:07).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
         }
       ]
     }

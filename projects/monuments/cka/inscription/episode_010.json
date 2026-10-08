@@ -330,7 +330,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:03:05–00:03:46",
-          "transcript_snippet": "Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.",
+          "transcript_snippet": "Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.",
           "confidence": "medium",
           "uncertainty_note": "Essay referenced verbally with word count but not displayed in episode."
         }
@@ -1268,6 +1268,33 @@
   "claims": [
     {
       "@type": "Claim",
+      "@id": "C-3632",
+      "ref": "C-3632",
+      "label": "TPUSA internal memo of September 2, 2025 elevated Justin Strife to COO and announced organizational-wide DOGE efficiency audit",
+      "claim": "An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.",
+      "anchored_artifacts": [
+        "A-1162.1"
+      ],
+      "related_nodes": [
+        "N-1000",
+        "N-1196",
+        "N-1198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:37",
+      "investigative_direction": "Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.",
+      "transcript_snippet": "In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-43",
+        "N-169",
+        "N-174"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-1286",
       "ref": "C-1286",
       "label": "Charlie Kirk expressed concern about TPUSA finances one week before his death",
@@ -1425,6 +1452,32 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3737",
+      "ref": "C-3737",
+      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)",
+      "claim": "C-1292 spells the speaker's name 'Xavier Deruso'. The speaker is Xaviaer DuRousseau (N-166). He states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.",
+      "anchored_artifacts": [
+        "A-1165.1"
+      ],
+      "related_nodes": [
+        "N-1092",
+        "N-1200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:28",
+      "investigative_direction": "Read with C-1292; match DuRousseau's video and channel records under the corrected spelling.",
+      "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-1292"
+      ],
+      "mentions_person_refs": [
+        "N-166",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-1293",
       "ref": "C-1293",
       "label": "Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim",
@@ -1442,6 +1495,33 @@
       "investigative_direction": "Verify the Instagram post date, contents, and whether it was posted during or after the weekend.",
       "transcript_snippet": "one of the influencers did post on August 6th that she was in the Hamptons.",
       "confidence": "high",
+      "mentions_person_refs": [
+        "N-166",
+        "N-173"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3738",
+      "ref": "C-3738",
+      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
+      "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-166). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
+      "anchored_artifacts": [
+        "A-1165.2",
+        "A-1169.1"
+      ],
+      "related_nodes": [
+        "N-1092",
+        "N-1200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Read with C-1293; verify the Instagram post date, contents, and whether it was posted during or after the weekend.",
+      "transcript_snippet": "one of the influencers did post on August 6th that she was in the Hamptons.",
+      "confidence": "high",
+      "revises_claim_refs": [
+        "C-1293"
+      ],
       "mentions_person_refs": [
         "N-166",
         "N-173"
@@ -1485,7 +1565,7 @@
       "tags": [],
       "claim_timestamp": "00:03:05",
       "investigative_direction": "Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.",
-      "transcript_snippet": "Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.",
+      "transcript_snippet": "Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.",
       "confidence": "medium",
       "uncertainty_note": "Essay not displayed in this episode; word count and characterization are host assertions.",
       "mentions_person_refs": [
@@ -1512,33 +1592,6 @@
         "N-65",
         "N-73",
         "N-1"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3632",
-      "ref": "C-3632",
-      "label": "TPUSA internal memo of September 2, 2025 elevated Justin Strife to COO and announced organizational-wide DOGE efficiency audit",
-      "claim": "An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.",
-      "anchored_artifacts": [
-        "A-1162.1"
-      ],
-      "related_nodes": [
-        "N-1000",
-        "N-1196",
-        "N-1198"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:21:37",
-      "investigative_direction": "Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.",
-      "transcript_snippet": "In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.",
-      "confidence": "high",
-      "mentions_person_refs": [
-        "N-1",
-        "N-2",
-        "N-43",
-        "N-169",
-        "N-174"
       ]
     },
     {
@@ -1577,6 +1630,34 @@
       "investigative_direction": "Corroborate the attendee list and the exchange with other Hamptons weekend accounts.",
       "transcript_snippet": "Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
       "confidence": "medium",
+      "mentions_person_refs": [
+        "N-1",
+        "N-67",
+        "N-86",
+        "N-166",
+        "N-167"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3739",
+      "ref": "C-3739",
+      "label": "Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)",
+      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-166). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Housedorf\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "anchored_artifacts": [
+        "A-2520.1"
+      ],
+      "related_nodes": [
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:13",
+      "investigative_direction": "Read with C-3731; corroborate the attendee list and the exchange with other Hamptons weekend accounts.",
+      "transcript_snippet": "Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3731"
+      ],
       "mentions_person_refs": [
         "N-1",
         "N-67",
@@ -1641,87 +1722,6 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-175"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3737",
-      "ref": "C-3737",
-      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)",
-      "claim": "C-1292 spells the speaker's name 'Xavier Deruso'. The speaker is Xaviaer DuRousseau (N-166). He states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.",
-      "anchored_artifacts": [
-        "A-1165.1"
-      ],
-      "related_nodes": [
-        "N-1092",
-        "N-1200"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:04:28",
-      "investigative_direction": "Read with C-1292; match DuRousseau's video and channel records under the corrected spelling.",
-      "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
-      "confidence": "medium",
-      "revises_claim_refs": [
-        "C-1292"
-      ],
-      "mentions_person_refs": [
-        "N-166",
-        "N-1"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3738",
-      "ref": "C-3738",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
-      "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-166). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
-      "anchored_artifacts": [
-        "A-1165.2",
-        "A-1169.1"
-      ],
-      "related_nodes": [
-        "N-1092",
-        "N-1200"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:07:17",
-      "investigative_direction": "Read with C-1293; verify the Instagram post date, contents, and whether it was posted during or after the weekend.",
-      "transcript_snippet": "one of the influencers did post on August 6th that she was in the Hamptons.",
-      "confidence": "high",
-      "revises_claim_refs": [
-        "C-1293"
-      ],
-      "mentions_person_refs": [
-        "N-166",
-        "N-173"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-3739",
-      "ref": "C-3739",
-      "label": "Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)",
-      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-166). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Housedorf\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
-      "anchored_artifacts": [
-        "A-2520.1"
-      ],
-      "related_nodes": [
-        "N-1000"
-      ],
-      "tags": [],
-      "claim_timestamp": "00:05:13",
-      "investigative_direction": "Read with C-3731; corroborate the attendee list and the exchange with other Hamptons weekend accounts.",
-      "transcript_snippet": "Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
-      "confidence": "medium",
-      "revises_claim_refs": [
-        "C-3731"
-      ],
-      "mentions_person_refs": [
-        "N-1",
-        "N-67",
-        "N-86",
-        "N-166",
-        "N-167"
       ]
     }
   ],

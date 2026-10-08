@@ -31,6 +31,7 @@
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
   - New Nodes Introduced: (none)
+  - Reused Nodes Appearing: N-777, N-787
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -464,7 +465,7 @@ Investigative Direction: Obtain higher-resolution frame stills; cross-check with
 Claim Timestamp: 00:18:51
 Claim: Blake Hariff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
-Mentions:
+Mentions: N-787
 Related Nodes:
 Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
 
@@ -486,7 +487,7 @@ Investigative Direction: Identify when and where Blake obtained the scrubs; obta
 Claim Timestamp: 00:20:42
 Claim: Footage shows Rick Cutler (in white hat) wearing head-to-toe surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions:
+Mentions: N-777
 Related Nodes:
 Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 
@@ -497,7 +498,7 @@ Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 Claim Timestamp: 00:20:42
 Claim: Footage shows Justin Davis wearing surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions:
+Mentions: N-787
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 

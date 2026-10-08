@@ -973,6 +973,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-630",
+      "ref": "N-630",
+      "name": "Josef Mengele",
+      "type": "person",
+      "description": "First named at 00:38:13 in episode 65 (A-1699.1). Aliases: Joseph Mengele.",
+      "related_artifacts": [
+        "A-1699.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [

@@ -232,7 +232,7 @@ Investigative Pressure: High
 
 ---
 
-**N-522** "Jonathan Schmidt"
+**N-522** Jonathan Schmidt
 
 Alleged alias used by Arcadi Gaydamak in Nashville, per seven tipster emails. Allegedly hired by Root Brands as a technology officer and claimed to be a billionaire.
 

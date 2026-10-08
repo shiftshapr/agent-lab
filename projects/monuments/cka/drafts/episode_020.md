@@ -46,6 +46,39 @@ Context: Fake and gay dismissal refrain. (CKA seq 20)
 Tags: reuse, pass2
 Confidence: high
 
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: He&nbsp; is telling me, plus other conspiracy theorists,&nbsp;&nbsp; to shut up unless we have the facts.
+Context: Wave 3 MemeLink backfill: conspiracy theorist at 00:00:00 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+**M-17** (meme) Hood Rat Stuff
+
+### Occurrence 1
+
+Video Timestamp: 01:03:39
+Speaker: N-3
+Quote: I want hood rat stuff&nbsp;&nbsp; with my friends when I am pregnant with a boy.&nbsp; I need it all day, every day.
+Context: Wave 3 MemeLink backfill: Hood Rat Stuff at 01:03:39 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 01:03:39
+Speaker: N-3
+Quote: Um, also, yes, make him a sandwich.
+Context: Wave 3 MemeLink backfill: Make Him a Sandwich at 01:03:39 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 ## 3. Artifact Register

@@ -148,7 +148,7 @@ Confidence: high
 **A-1170.1** Bill Aman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
 Video Timestamp: 00:03:05–00:03:46
 *Related: C-1295, N-66, N-1196*
-Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
+Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
 Confidence: medium
 Uncertainty: Essay referenced verbally with word count but not displayed in episode.
 
@@ -785,7 +785,7 @@ Tags: calls_for_tips, submissions_to_candace
 
 Claim Timestamp: 00:03:05
 Claim: Host states that Bill Aman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
-Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
+Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
 Anchored Artifacts: A-1170.1
 Mentions: N-3, N-66
 Related Nodes: N-1200

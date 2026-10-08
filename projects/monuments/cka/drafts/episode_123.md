@@ -12,8 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2103, N-2104, N-2105, N-2106
-  - Hole-minted Nodes (wave3): N-687
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-777
   - (see registers)
 
 ## 2. Executive Summary
@@ -168,9 +167,9 @@ Confidence Level: Low (viewer speculation)
 
 ## 4. Node Register
 
-**N-687** Rick Cutler
+**N-777** Rick Cutler
 
-First named by the host at 00:12:02 in episode 123.
+Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
 *Related: C-2997*
 
@@ -370,7 +369,7 @@ Claim Timestamp: 00:50:36
 Claim: Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.
 
 Anchored Artifacts: A-2114.2
-Mentions: N-424, N-552, N-687
+Mentions: N-424, N-552, N-777
 Related Nodes: N-2106
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 

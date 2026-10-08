@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
-  - Claim Range: C-1175-C-1185, C-3736
+  - Claim Range: C-1175-C-1185, C-3736, C-3765
   - New Nodes Introduced: N-102, N-103, N-104, N-1103, N-1104, N-1105, N-1106, N-1107, N-1108, N-1109, N-1110, N-1111, N-1112
   - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-65, N-68, N-69, N-71, N-75, N-84, N-86, N-99, N-45, N-67, N-70
 
@@ -647,7 +647,35 @@ Investigative Direction: Read C-1185 together with this claim: re-attribute the 
 
 ---
 
+**C-3765** Host says her overarching theory is that multiple people were involved, including George Zinn, and that Tyler Robinson played a part
+
+Claim Timestamp: 01:06:01
+
+Claim: Answering viewer comments, the host says her overarching theory is that the public is not being told the truth and that multiple people were involved, including George Zinn, whose decoy role she says makes no sense otherwise; she says she believes Tyler Robinson played a part but does not know which.
+
+Transcript Snippet: My theory is that we are not being told the truth and I think that there are multiple people that were involved including George Zinn.
+
+Anchored Artifacts: 
+Mentions: N-3, N-71, N-69
+Related Nodes: 
+Investigative Direction: Compare the Zinn decoy account and release timeline against any evidence of coordination with other people on campus.
+
+---
+
 ## 6. Meme Register
+
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:55:47
+Speaker: N-3
+Quote: Lastly, I want to say to this like new flex operation mocking pastor regarding which,
+Context: Wave 3 mint – first transcript introduction. Host coinage for alleged pastor/influence ops
+Tags: wave3
+Confidence: high
+
 
 **M-1** (meme) Grieving Widow
 

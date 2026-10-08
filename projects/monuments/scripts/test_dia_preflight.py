@@ -771,3 +771,60 @@ def test_inscription_missing_flags_draft_only_ids(tmp_path):
     assert locs == ["A-9001", "A-9001.1", "C-9001"]
     assert all(f.severity == "P1" and f.check == "inscription_missing" for f in report.findings)
 
+
+
+def _nbi_report(tmp_path: Path, eps, canonical: dict, accepted: list | None = None, enabled: bool = True):
+    (tmp_path / "config").mkdir(exist_ok=True)
+    gates = {"named_before_intro": {"enabled": enabled, "accepted": accepted or []}}
+    (tmp_path / "config" / "preflight_gates.json").write_text(json.dumps(gates), encoding="utf-8")
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_named_before_intro(report, tmp_path, eps, canonical)
+    return report
+
+
+NBI_CANON = {
+    "N-2": {"canonical_name": "Node Two", "type": "person", "aliases": []},
+    "N-5": {"canonical_name": "Dan Bongino", "type": "person", "aliases": ["Dan Bonino"]},
+    "N-6": {"canonical_name": "Pat Smith", "type": "person", "aliases": []},
+    "N-7": {"canonical_name": "Pat Smith", "type": "person", "aliases": []},
+}
+
+
+def test_named_before_intro_flags_name_and_alias_without_n_id(tmp_path):
+    """Transit 73d663b P1-3: a person named in claim text before their intro episode fails even with no N-id."""
+    base = (0, "episode_000.md", Path("b"), "baseline N-1\n")
+    for text in ("Claim: Host cites Dan Bongino on air.\n", "Claim: Host cites Dan Bonino on air.\n",
+                 "Claim: x\nInvestigative Direction: ask dan bongino.\n"):
+        claims = f"**C-1** Claim\n\nClaim Timestamp: 00:01:00\n{text}\n---\n"
+        eps = [
+            base,
+            (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims)),
+            (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+        ]
+        report = _nbi_report(tmp_path, eps, NBI_CANON)
+        assert [(f.severity, f.check, f.location) for f in report.findings] == [("P1", "named_before_intro", "N-5")], text
+    # Artifact labels are scanned too.
+    arts = "**A-1.1** Dan Bongino clip on X\n\n"
+    eps = [
+        base,
+        (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), "", arts)),
+        (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+    ]
+    assert [f.location for f in _nbi_report(tmp_path, eps, NBI_CANON).findings] == ["N-5"]
+
+
+def test_named_before_intro_clean_controls(tmp_path):
+    base = (0, "episode_000.md", Path("b"), "baseline N-1\n")
+    late = (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5, N-6, N-7\n", _reg(5, 6, 7)))
+    # Named in its own intro episode; quote fields are not scanned; ambiguous names (two persons) are skipped.
+    claims = ('**C-1** Claim\n\nClaim: Pat Smith spoke.\nTranscript Snippet: Dan Bongino said so.\n\n---\n')
+    eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims)), late]
+    assert _nbi_report(tmp_path, eps, NBI_CANON).findings == []
+    claims2 = "**C-2** Claim\n\nClaim: Dan Bongino spoke.\n\n---\n"
+    eps = [base, (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5), claims2))]
+    assert _nbi_report(tmp_path, eps, NBI_CANON).findings == []
+    # Accepted debt pair and the disabled gate are both silent.
+    claims3 = "**C-1** Claim\n\nClaim: Dan Bongino spoke.\n\n---\n"
+    eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims3)), late]
+    assert _nbi_report(tmp_path, eps, NBI_CANON, accepted=[{"id": "N-5", "episodes": [1], "reason": "debt"}]).findings == []
+    assert _nbi_report(tmp_path, eps, NBI_CANON, enabled=False).findings == []

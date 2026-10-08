@@ -3,9 +3,9 @@
   "edge_counts": {
     "contradicts": 19,
     "isCorroboratedBy": 8,
-    "isMemberOf": 6355,
-    "isQualifiedBy": 4,
-    "isSupportedBy": 2823
+    "isMemberOf": 6389,
+    "isQualifiedBy": 6,
+    "isSupportedBy": 2830
   },
   "bridges": [
     {
@@ -1490,6 +1490,38 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3630",
+      "to": "cka:episode:2",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3630",
+      "to": "A-1081.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3631",
+      "to": "cka:episode:2",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3631",
+      "to": "A-1082.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 2
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1125",
       "to": "cka:episode:2",
       "relationship": "isMemberOf",
@@ -1836,38 +1868,6 @@
       "@type": "OrdinalBridge",
       "from": "C-1143",
       "to": "A-1090.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 2
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3630",
-      "to": "cka:episode:2",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 2
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3630",
-      "to": "A-1081.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 2
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3631",
-      "to": "cka:episode:2",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 2
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3631",
-      "to": "A-1082.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 2
@@ -2854,6 +2854,14 @@
       "to": "C-1185",
       "relationship": "contradicts",
       "explanation": "Airing opposes or is inconsistent with other claim",
+      "episode": 4
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3765",
+      "to": "cka:episode:4",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 4
     },
     {
@@ -4578,6 +4586,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3632",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3632",
+      "to": "A-1162.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1286",
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
@@ -4714,6 +4738,37 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3737",
+      "to": "A-1165.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1292",
+      "to": "C-3737",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 10,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1293",
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
@@ -4735,6 +4790,45 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "A-1165.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3738",
+      "to": "A-1169.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1293",
+      "to": "C-3738",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 10,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -4778,22 +4872,6 @@
     },
     {
       "@type": "OrdinalBridge",
-      "from": "C-3632",
-      "to": "cka:episode:10",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3632",
-      "to": "A-1162.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
       "from": "C-3642",
       "to": "cka:episode:10",
       "relationship": "isMemberOf",
@@ -4823,6 +4901,37 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3739",
+      "to": "A-2520.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3731",
+      "to": "C-3739",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 10,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -4871,107 +4980,6 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3737",
-      "to": "cka:episode:10",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3737",
-      "to": "A-1165.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-1292",
-      "to": "C-3737",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
-      "episode": 10,
-      "review_status": "transit_ruled",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
-      }
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3738",
-      "to": "cka:episode:10",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3738",
-      "to": "A-1165.2",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3738",
-      "to": "A-1169.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-1293",
-      "to": "C-3738",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
-      "episode": 10,
-      "review_status": "transit_ruled",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
-      }
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3739",
-      "to": "cka:episode:10",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3739",
-      "to": "A-2520.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-3731",
-      "to": "C-3739",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (transit_ruling)",
-      "episode": 10,
-      "review_status": "transit_ruled",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 1.0
-      }
     },
     {
       "@type": "OrdinalBridge",
@@ -5971,6 +5979,14 @@
       "to": "A-1205.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 13
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3754",
+      "to": "cka:episode:13",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 13
     },
     {
@@ -9439,6 +9455,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3748",
+      "to": "cka:episode:23",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 23
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3647",
       "to": "cka:episode:23",
       "relationship": "isMemberOf",
@@ -10550,6 +10574,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3755",
+      "to": "cka:episode:27",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 27
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1636",
       "to": "cka:episode:28",
       "relationship": "isMemberOf",
@@ -11322,6 +11354,14 @@
       "to": "A-1389.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 30
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3756",
+      "to": "cka:episode:30",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 30
     },
     {
@@ -14174,6 +14214,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3747",
+      "to": "cka:episode:41",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 41
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1839",
       "to": "cka:episode:42",
       "relationship": "isMemberOf",
@@ -15654,6 +15702,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3757",
+      "to": "cka:episode:46",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 46
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1924",
       "to": "cka:episode:47",
       "relationship": "isMemberOf",
@@ -16415,6 +16471,14 @@
     {
       "@type": "OrdinalBridge",
       "from": "C-3654",
+      "to": "cka:episode:48",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 48
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3758",
       "to": "cka:episode:48",
       "relationship": "isMemberOf",
       "explanation": "Claim aired in episode",
@@ -17218,6 +17282,14 @@
       "to": "A-1586.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 52
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3749",
+      "to": "cka:episode:52",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 52
     },
     {
@@ -18771,6 +18843,37 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 58
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3742",
+      "to": "cka:episode:58",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 58
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3742",
+      "to": "A-1637.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 58
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-2113",
+      "to": "C-3742",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
+      "episode": 58,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 0.35
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -22886,6 +22989,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3759",
+      "to": "cka:episode:72",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 72
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3760",
+      "to": "cka:episode:72",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 72
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-2364",
       "to": "cka:episode:73",
       "relationship": "isMemberOf",
@@ -24120,6 +24239,22 @@
       "@type": "OrdinalBridge",
       "from": "C-2440",
       "to": "A-1825.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 77
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3744",
+      "to": "cka:episode:77",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 77
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3744",
+      "to": "A-1825.2",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 77
@@ -27222,6 +27357,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3750",
+      "to": "cka:episode:86",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 86
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-2626",
       "to": "cka:episode:87",
       "relationship": "isMemberOf",
@@ -28330,6 +28473,14 @@
       "to": "A-1955.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 90
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3766",
+      "to": "cka:episode:90",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 90
     },
     {
@@ -29990,6 +30141,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3745",
+      "to": "cka:episode:96",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 96
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3745",
+      "to": "A-2008.5",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 96
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-2794",
       "to": "cka:episode:96",
       "relationship": "isMemberOf",
@@ -30280,6 +30447,22 @@
       "@type": "OrdinalBridge",
       "from": "C-2809",
       "to": "A-2013.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 96
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3752",
+      "to": "cka:episode:96",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 96
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3752",
+      "to": "A-2013.3",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 96
@@ -32758,6 +32941,30 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3751",
+      "to": "cka:episode:114",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 114
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3753",
+      "to": "cka:episode:118",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 118
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3753",
+      "to": "A-2522.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 118
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-2935",
       "to": "cka:episode:120",
       "relationship": "isMemberOf",
@@ -34106,6 +34313,22 @@
       "to": "A-2123.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3761",
+      "to": "cka:episode:124",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3764",
+      "to": "cka:episode:124",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
       "episode": 124
     },
     {
@@ -37806,6 +38029,22 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3762",
+      "to": "cka:episode:138",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 138
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3763",
+      "to": "cka:episode:138",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 138
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3236",
       "to": "cka:episode:139",
       "relationship": "isMemberOf",
@@ -38779,6 +39018,37 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 142
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3743",
+      "to": "cka:episode:142",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 142
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3743",
+      "to": "A-2287.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 142
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3294",
+      "to": "C-3743",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
+      "episode": 142,
+      "review_status": "pending_transit",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 0.35
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -41976,6 +42246,22 @@
       "@type": "OrdinalBridge",
       "from": "C-3444",
       "to": "A-2369.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 151
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3746",
+      "to": "cka:episode:151",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 151
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3746",
+      "to": "A-2521.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 151
@@ -60366,6 +60652,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-1825.2",
+      "to": "cka:episode:77",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 77
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-1826",
       "to": "cka:episode:77",
       "relationship": "isMemberOf",
@@ -60735,6 +61029,22 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-1845.1",
+      "to": "cka:episode:78",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 78
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2523",
+      "to": "cka:episode:78",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 78
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2523.1",
       "to": "cka:episode:78",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -63870,6 +64180,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-2008.5",
+      "to": "cka:episode:96",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 96
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-2009",
       "to": "cka:episode:96",
       "relationship": "isMemberOf",
@@ -63999,6 +64317,14 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-2013.2",
+      "to": "cka:episode:96",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 96
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2013.3",
       "to": "cka:episode:96",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -65571,6 +65897,22 @@
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
       "episode": 110
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2522",
+      "to": "cka:episode:118",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 118
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2522.1",
+      "to": "cka:episode:118",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 118
     },
     {
       "@type": "OrdinalBridge",
@@ -72039,6 +72381,22 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-2373.1",
+      "to": "cka:episode:151",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 151
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2521",
+      "to": "cka:episode:151",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 151
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2521.1",
       "to": "cka:episode:151",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",

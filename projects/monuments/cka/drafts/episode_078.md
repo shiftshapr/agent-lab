@@ -33,7 +33,7 @@
 
 ### Episode 78 Ledger Summary
 
-- **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845
+- **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845, A-2523
 - **Claim Range:** C-2453–C-2471
 - **New People Nodes Introduced:** N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-70, N-439, N-254, N-951, N-982
 - **New Investigation Target Nodes Introduced:** N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610
@@ -274,6 +274,20 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: C-2469, C-2474, N-968, N-1611*
+
+---
+
+**A-2523** Erika Kirk Jesse Watters Interview Clip
+
+**A-2523.1** Clip of Erika Kirk's interview with Jesse Watters, played on air to illustrate her whispering delivery
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:24:35
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: N-2, N-313, N-3*
 
 ---
 

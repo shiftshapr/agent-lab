@@ -29,7 +29,7 @@
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
   - New Nodes Introduced: N-2094, N-2095, N-2096, N-2097, N-2098, N-2099, N-2100, N-2101, N-2102
-  - Reused Nodes Appearing: N-37
+  - Reused Nodes Appearing: N-37, N-688
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
 
 ---
@@ -447,7 +447,7 @@ Claim Timestamp: 00:43:06–00:45:23
 Claim: The host states the team has filed FOIA requests to the NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erica), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
 
 Anchored Artifacts: None displayed
-Mentions: N-102
+Mentions: N-102, N-688
 Related Nodes: N-2098
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*

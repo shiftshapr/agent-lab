@@ -527,8 +527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-652",
-      "ref": "N-652",
+      "@id": "N-664",
+      "ref": "N-664",
       "name": "Daniel Balou",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
@@ -545,8 +545,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-630",
-      "ref": "N-630",
+      "@id": "N-663",
+      "ref": "N-663",
       "name": "Frederick Vaglio",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
@@ -563,8 +563,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-652",
+      "ref": "N-652",
       "name": "Jean-Luc Baguer",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
@@ -699,9 +699,9 @@
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Verify role assignments via French court documents.",
       "mentions_person_refs": [
-        "N-652",
-        "N-630",
-        "N-629"
+        "N-664",
+        "N-663",
+        "N-652"
       ]
     },
     {
@@ -720,9 +720,9 @@
       "claim_timestamp": "00:11:16",
       "investigative_direction": "Verify incident via French press reporting or court records.",
       "mentions_person_refs": [
-        "N-652",
-        "N-630",
-        "N-629"
+        "N-664",
+        "N-663",
+        "N-652"
       ]
     },
     {
@@ -1066,7 +1066,9 @@
       "tags": [],
       "claim_timestamp": "00:29:07",
       "investigative_direction": "Obtain the full Commission statement.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-437"
+      ]
     },
     {
       "@type": "Claim",

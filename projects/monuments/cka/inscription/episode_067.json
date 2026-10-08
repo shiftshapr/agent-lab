@@ -2071,19 +2071,23 @@
   ],
   "memes": [
     {
-      "@type": "Meme",
-      "@id": "M-76",
-      "ref": "M-76",
-      "term": "(meme) Pass the Sniff Test",
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
       "type": "meme",
-      "definition": "Host judgment that a claim smells wrong / fails basic plausibility",
       "occurrences": [
         {
+          "episode": 67,
           "video_timestamp": "00:42:15",
-          "speaker": "N-3",
-          "quote": "",
-          "context": "Wave 3 mint – first transcript introduction.",
-          "confidence": "medium"
+          "speaker_node_ref": "N-3",
+          "quote": "...send him so over the edge that he would call a priest doesn't doesn't pass the sniff test for me.",
+          "context": "Reuse of Pass the Sniff Test (first introduced in episode 7 at 00:11:53).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
         }
       ]
     }

@@ -576,8 +576,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-688",
-      "ref": "N-688",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Eliot Spitzer",
       "type": "person",
       "description": "First named by the host at 00:21:23 in episode 125.",
@@ -590,6 +590,25 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-806",
+      "ref": "N-806",
+      "name": "Thomas Patrick",
+      "type": "person",
+      "description": "First named by the host at 00:19:38 in episode 125.",
+      "related_artifacts": [
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3021"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -689,7 +708,8 @@
       "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.",
       "mentions_person_refs": [
         "N-611",
-        "N-688"
+        "N-807",
+        "N-806"
       ]
     },
     {

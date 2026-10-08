@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-2213, N-2214, N-2215
- - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-774
  - (see registers)
 
 ---
@@ -447,6 +447,7 @@ Claim Timestamp: 00:17:34
 Claim: Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene.
 
 Anchored Artifacts: A-2319.1
+Mentions: N-774
 Related Nodes:
 Investigative Direction: Verify by reading the full CCRD filing; compare to subsequent court filings.
 

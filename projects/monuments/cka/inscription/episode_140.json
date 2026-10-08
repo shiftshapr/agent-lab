@@ -313,7 +313,10 @@
           "related_claims": [
             "C-3272"
           ],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-929",
+            "N-46"
+          ],
           "tags": [],
           "video_timestamp": "00:39:29",
           "discovery_timestamp": "00:00:00–00:00:01",
@@ -403,7 +406,9 @@
           "ref": "A-2275.6",
           "description": "Lady Di comment: requests Rachel Wilson not attend the upcoming debate",
           "related_claims": [],
-          "related_nodes": [],
+          "related_nodes": [
+            "N-929"
+          ],
           "tags": [],
           "video_timestamp": "00:54:01",
           "discovery_timestamp": "00:00:00–00:00:01",
@@ -629,6 +634,26 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-929",
+      "ref": "N-929",
+      "name": "Rachel Wilson",
+      "type": "person",
+      "description": "First named by the host at 00:39:29 in episode 140.",
+      "related_artifacts": [
+        "A-2274.1",
+        "A-2275.6"
+      ],
+      "related_claims": [
+        "C-3272"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -835,7 +860,8 @@
       "claim_timestamp": "00:34:13",
       "investigative_direction": "Obtain the tweet-counter output and verify both figures and their date ranges.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -852,7 +878,8 @@
       "claim_timestamp": "00:39:29",
       "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in.",
       "mentions_person_refs": [
-        "N-46"
+        "N-46",
+        "N-929"
       ]
     },
     {

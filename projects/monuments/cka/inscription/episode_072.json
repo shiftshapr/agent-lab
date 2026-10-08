@@ -719,6 +719,70 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-537",
+      "ref": "N-537",
+      "name": "Hunter Kozak",
+      "type": "person",
+      "description": "Audience member at CBS town hall identified by host as the questioner who asked Charlie Kirk his last question prior to the assassination.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-890",
+      "ref": "N-890",
+      "name": "Tracy Martin",
+      "type": "person",
+      "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-908",
+      "ref": "N-908",
+      "name": "Tracy Martin's Daughter (Unnamed)",
+      "type": "person",
+      "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1556",
+      "ref": "N-1556",
+      "name": "Erika Kirk September 10 Alibi Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -835,7 +899,6 @@
       "claim_timestamp": "00:30:20",
       "investigative_direction": "Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.",
       "mentions_person_refs": [
-        "N-1",
         "N-2"
       ]
     },
@@ -971,6 +1034,46 @@
         "N-3",
         "N-75",
         "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3759",
+      "ref": "C-3759",
+      "label": "Host says Erika Kirk's assistant was supposed to go to UVU on September 10",
+      "claim": "The host says it is a fact that Erika Kirk's assistant, the daughter of Tracy Martin, whom she chooses not to name, was supposed to go to UVU on September 10, which she says tracks with Erika's admission that she also considered going.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1556"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:05",
+      "investigative_direction": "Establish the assistant's September 10 travel plans and who changed them.",
+      "transcript_snippet": "However, it is a fact that she was supposed to go to UVU on September 10th.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-890",
+        "N-908"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3760",
+      "ref": "C-3760",
+      "label": "Host disputes the account that Charlie Kirk was excited and could not sleep before the UVU event",
+      "claim": "The host calls it a lie that Charlie Kirk was bubbling over with excitement before the UVU event and could not sleep; she says no one has done more campus events with him than she has and that these debates, such as with Hunter Kozak, were part of the job.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:09:13",
+      "investigative_direction": "Compare Erika Kirk's account of the night before against texts and witnesses from September 9.",
+      "transcript_snippet": "Charlie was not bubbling over in excitement to go answer questions from the likes of Hunter Kozak.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2",
+        "N-537"
       ]
     }
   ],

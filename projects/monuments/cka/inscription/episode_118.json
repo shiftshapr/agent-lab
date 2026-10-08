@@ -14,8 +14,71 @@
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "Ep 118 advances Epstein reemergence thesis. Candace links Erika Kirk to Next Model Management (Faith Kates, close Epstein friend). Displays DoD org chart placing Stephen Feinberg (Cerberus/DynCorp owner) above Bradley Hantel. Details DynCorp Bosnia trafficking via Bolkovac book. Reads Ratajkowski's The Cut essay excerpt to critique. Comments include Anna's Epstein genealogy claim and Ukraine ministry concerns.",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2522",
+      "family_ref": "A-2522",
+      "bundle_name": "The Cut Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2522.1",
+          "ref": "A-2522.1",
+          "description": "Emily Ratajkowski article \"Mother Effer\" in The Cut, excerpt on how she dresses for her son's school pick-up shown on air",
+          "related_claims": [
+            "C-3753"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3753",
+      "ref": "C-3753",
+      "label": "Host shows an excerpt of Emily Ratajkowski's article \"Mother Effer\" in The Cut",
+      "claim": "The host reads the title of Emily Ratajkowski's article in The Cut, \"Mother Effer\", calls it pornographic in nature, and shows the passage describing how Ratajkowski dresses to pick up her 5-year-old son from school.",
+      "anchored_artifacts": [
+        "A-2522.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:14",
+      "investigative_direction": "Retrieve the article from The Cut and confirm the excerpt shown on air.",
+      "transcript_snippet": "I'm going to show you this moment, how she dresses to go pick up her 5-year-old son from school pick up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
   "memes": []
 }

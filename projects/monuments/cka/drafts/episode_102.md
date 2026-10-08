@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2061, N-2062, N-2064, N-2065
-  - Hole-minted Nodes (wave3): N-683, N-684
-  - Reused Nodes Appearing: N-37, N-1444
+  - Hole-minted Nodes (wave3): N-686, N-687
+  - Reused Nodes Appearing: N-37, N-1444, N-679
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -329,15 +329,15 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-683** John Amanchukwu
+**N-686** John Amanchukwu
 
 First named by the host at 00:07:32 in episode 102.
 
 *Related: C-2890, C-2891*
 
-**N-684** Kimberly Klacik
+**N-687** Kimberly Klacik
 
-First named by the host at 00:09:42 in episode 102.
+First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
 *Related: C-2893*
 
@@ -508,7 +508,7 @@ Claim Timestamp: 00:07:32
 Claim: Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
-Mentions: N-683
+Mentions: N-686, N-679
 
 Related Nodes: N-2061
 
@@ -523,7 +523,7 @@ Claim Timestamp: 00:07:32
 Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).
 
 Anchored Artifacts: A-2068.2
-Mentions: N-683
+Mentions: N-686
 
 Related Nodes: N-2061
 
@@ -553,7 +553,7 @@ Claim Timestamp: 00:09:42
 Claim: Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.
 
 Anchored Artifacts: A-2067.1
-Mentions: N-2, N-684
+Mentions: N-2, N-687
 
 Related Nodes: N-2061
 

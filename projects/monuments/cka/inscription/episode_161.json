@@ -1292,24 +1292,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
-      "name": "Bill Aman",
-      "type": "person",
-      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3680",
-        "C-3696"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
       "@id": "N-550",
       "ref": "N-550",
       "name": "Tulsi Gabbard",
@@ -1435,7 +1417,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1320",
       "ref": "N-1320",
-      "name": "\"Mormon Mafia\" Allegation (Courtney Love Source)",
+      "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
       "related_artifacts": [],
@@ -1548,6 +1530,24 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680",
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1573,7 +1573,7 @@
         "N-3",
         "N-2",
         "N-42",
-        "N-476",
+        "N-66",
         "N-69"
       ]
     },
@@ -1949,7 +1949,7 @@
       "investigative_direction": "Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.",
       "mentions_person_refs": [
         "N-580",
-        "N-476",
+        "N-66",
         "N-102",
         "N-472",
         "N-581"

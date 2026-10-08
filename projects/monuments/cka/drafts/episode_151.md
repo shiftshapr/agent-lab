@@ -27,11 +27,26 @@
 - Analyst: Investigative Analysis Agent
 - Analysis Date: 2026-09-14
 - Episode 151 Ledger Summary
-  - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373
-  - Claim Range: C-3426–C-3444
+  - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
+  - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-2317, N-2318, N-2319, N-2320
-  - Reused Nodes Appearing: N-37
+  - Reused Nodes Appearing: N-37, N-810, N-382, N-3
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
+
+---
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:48:25
+Speaker: N-3
+Quote: Of course, if you guys have any tips, you can send them to us directly.
+Context: DIA tip-line call: viewer emails on security-detail footwear and invitation for more tips (C-3746, A-2521.1).
+Tags: tips_network, dia_tip_line, transcript_backfill
+Confidence: high
 
 ---
 
@@ -183,7 +198,7 @@ Video Timestamp: 00:16:28–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; host's frame-by-frame interpretations are interpretive)
 
-*Related: C-3437, C-3438, C-3439, C-3441, Officer Bagley (existing node – ID resolution required)*
+*Related: C-3437, C-3438, C-3439, C-3441, N-810*
 
 ---
 
@@ -212,6 +227,20 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (image shown but underlying source provenance not stated)
 
 *Related: C-3442, N-2317*
+
+---
+
+### A-2521 Viewer Tip Emails on Security-Detail Footwear (described on air)
+
+**A-2521.1** Host describes a flurry of viewer emails, many from electricians, saying the matching light-brown shoes worn by the security detail and Butch Hibbs are electrical-hazard protection footwear, with links sent in (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:48:25
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Medium (emails described, not shown)
+
+*Related: C-3746, N-382, N-2320*
 
 ---
 
@@ -260,12 +289,12 @@ Investigative Pressure: Medium
 
 Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harif/Hariff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.
 
-Evidence Count: 0 (in this episode)
-Claim Count: 0 (in this episode)
+Evidence Count: 1 (in this episode)
+Claim Count: 1 (in this episode)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: (awaiting displayed artifact)*
+*Related: C-3746, A-2521.1*
 
 ---
 
@@ -518,6 +547,21 @@ Claim: Host explicitly endorses Bobby Saucelito's framing that Turek's escalatin
 Anchored Artifacts: A-2368.1, A-2369.1
 Related Nodes:
 Investigative Direction: Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base.
+
+---
+
+**C-3746** Viewer tip emails say the security detail's matching shoes are electrical-hazard footwear
+
+Claim Timestamp: 00:48:25
+
+Claim: The host reports receiving a flurry of viewer emails, many from people who work as electricians, saying the matching light-brown shoes worn by the security detail and by Butch Hibbs are electrical-hazard protection shoes used in labor trades; she shares this without further context and invites more tips.
+
+Transcript Snippet: They sent links that these are like electrical hazard protection shoes.
+
+Anchored Artifacts: A-2521.1
+Mentions: N-382, N-3
+Related Nodes: N-2320
+Investigative Direction: Identify the shoe model from the security-detail footage and confirm whether it is sold as electrical-hazard (EH-rated) footwear.
 
 ---
 

@@ -1,42 +1,50 @@
-new_id,name,aliases,first_episode,first_transcript_time,claims
-N-629,Jean-Luc Baguer,,85,00:10:32,C-2587; C-2588
-N-630,Frederick Vaglio,,85,00:10:32,C-2587; C-2588
-N-652,Daniel Balou,,85,00:10:32,C-2587; C-2588
-N-663,Zachariah Karashy,,87,00:06:41,C-2627; C-2628; C-2629
-N-664,Ahmed Qureshi,,87,00:09:45,C-2627; C-2628; C-2629; C-2631; C-2632; C-2633; C-2634; C-2638
-N-665,Nathan Henderson,,87,00:16:55,C-2631; C-2632; C-2633; C-2634; C-2638
-N-666,Gina Romney Henderson,Gina Romney,87,00:16:55,C-2631; C-2632; C-2633; C-2634; C-2638
-N-667,Connor Henderson,,87,00:17:51,C-2631; C-2632; C-2633; C-2634; C-2638
-N-668,Jeffrey Knuckles,,87,00:25:43,C-2639; C-2640; C-2641; C-2642; C-2644; C-2649; C-2650
-N-669,Caleb Cunningham,,87,00:25:43,C-2639; C-2640; C-2641; C-2642; C-2644; C-2649; C-2650
-N-670,Michael Shawn Covey,,87,00:27:39,C-2639; C-2640; C-2641; C-2642; C-2644; C-2649; C-2650
-N-671,Derek Niekerk,,88,00:42:15,C-2667
-N-672,Monica Lewinsky,,89,00:26:31,C-2672; C-2673
-N-673,Pope Leo XIV,Pope Leo;Pope Leo the 14th;His Holiness Pope Leo,90,00:00:01,C-2689; C-2690; C-2691; C-2696
-N-674,Doug Terry,,90,00:33:31,C-2682; C-2683
-N-675,Jimmy Barbecue,,91,00:27:14,C-2705; C-2716
-N-676,Daniel Horner,,91,00:32:24,C-2706
-N-677,Richard Novak,,94,00:10:02,C-2767
-N-678,Alan Jacoby,,94,00:41:44,C-2779
-N-679,Mike Lawler,,97,00:50:06,C-2828; C-2829; C-2830; C-2831; C-2832
-N-680,Josh Gottheimer,,97,00:50:06,C-2828; C-2829; C-2830; C-2831; C-2832
-N-681,Josef Mengele,,97,00:53:42,C-2828; C-2829; C-2830; C-2831; C-2832
-N-682,Chad Schnitker,,98,00:37:02,C-2843; C-2844; C-2845; C-2846
-N-683,John Amanchukwu,,102,00:07:32,C-2890; C-2891; C-2906; C-2907
-N-684,Kimberly Klacik,,102,00:09:42,C-2893
-N-685,Kristoff Schweizer,Kristoff Schweiser,110,00:18:28,C-2919; C-2920; C-2921; C-2922; C-2923; C-2932; C-2934
-N-686,Leola Anderson,,110,00:37:13,C-2925; C-2926; C-2927
-N-687,Rick Cutler,,123,00:12:02,C-2997
-N-688,Eliot Spitzer,,125,00:21:23,C-3021
-N-689,Brad Parscale,,126,00:34:37,C-3039; C-3040
-N-709,Dan Bongino,,127,00:45:58,C-3054; C-3062
-N-777,Beau Mason,"Bo Mason;Beau ""Bo"" Mason",128,00:08:44,C-3061; C-3063; C-3064; C-3065; C-3066; C-3067; C-3068; C-3069; C-3070; C-3071; C-3076
-N-787,Jennifer Faumuina,,128,00:15:24,C-3061; C-3063; C-3064; C-3065; C-3066; C-3067; C-3068; C-3069; C-3070; C-3071; C-3076; C-3077
-N-806,Sapena Faumuina,,128,00:23:06,C-3063; C-3064; C-3065; C-3066; C-3067; C-3068; C-3069; C-3070; C-3076; C-3077
-N-807,Misiona Faumuina,,128,00:23:06,C-3063; C-3064; C-3065; C-3066; C-3067; C-3068; C-3069; C-3070; C-3076; C-3077; C-3078
-N-808,Sid Rosen,,128,00:24:14,C-3078
-N-809,Gayle King,,131,00:43:01,C-3133; C-3134; C-3135; C-3136
-N-810,Pastor Russell,,132,00:23:26,C-3142
-N-811,Christopher Hawk,,136,00:17:52,C-3198; C-3199; C-3200
-N-812,Mark Bricker,,144,00:18:29,C-3317; C-3320
-N-813,Justin Davis,,147,00:12:13,C-3364; C-3365; C-3367; C-3368; C-3371; C-3372; C-3378; C-3384; C-3385; C-3390; C-3391; C-3392
+new_id,old_id,name,aliases,first_episode,first_transcript_time,claims
+N-629,N-709,Dan Bongino,Dan Bonino,15,00:38:08,C-1373; A-1222.1; C-3054; A-2152; C-3062; A-2155; A-2155.1; C-3194
+N-630,N-681,Josef Mengele,Joseph Mengele,65,,A-1699.1; C-2831
+N-652,N-629,Jean-Luc Baguer,,85,00:10:32,C-2587
+N-663,N-630,Frederick Vaglio,,85,00:10:32,C-2587
+N-664,N-652,Daniel Balou,,85,00:10:32,C-2587; C-2588
+N-665,N-663,Zachariah Karashy,Zachariah Karashi,87,00:06:41,C-2628; C-2629
+N-666,N-664,Ahmed Qureshi,Ahmed Karashi; Akhmed Karashi,87,00:09:45,C-2629; C-2630; C-2631; A-1919; A-1919.1; C-2655; A-1927.2; A-1927.4
+N-667,N-665,Nathan Henderson,,87,00:16:55,C-2631
+N-668,N-666,Gina Romney Henderson,Gina Romney,87,00:16:55,C-2633; A-1921; A-1921.1
+N-669,N-667,Connor Henderson,,87,00:17:51,C-2634
+N-670,N-668,Jeffrey Knuckles,,87,00:25:43,C-2650
+N-671,N-669,Caleb Cunningham,,87,00:25:43,C-2649
+N-672,N-670,Michael Shawn Covey,,87,00:27:39,C-2644
+N-673,N-671,Derek Niekerk,,88,00:42:15,C-2667
+N-674,N-672,Monica Lewinsky,,89,,C-2673
+N-675,N-673,Pope Leo XIV,Pope Leo; Pope Leo the 14th; His Holiness Pope Leo; Leo XIV,90,00:00:01,C-2689; C-2690; C-2696; A-1952.1; A-1953; A-1953.1
+N-676,N-674,Doug Terry,,90,00:33:31,C-2683
+N-677,N-675,Jimmy Cherizier,Jimmy Barbecue; Jimmy Barbecue Cherizier,91,00:27:14,C-2705; C-2716; A-1960.1
+N-678,N-676,Daniel Horner,,91,00:32:24,C-2706
+N-679,(new in this push),Marcus Wada,,92,00:42:41,C-2737; C-2738; C-2739; C-2741; A-1978; A-1978.1; A-1979.1; A-1980.1; C-2890; A-2068; A-2068.1
+N-680,N-677,Richard Novak,Richard Novac,94,00:10:02,C-2767; A-1994.1; C-3378; C-3379; A-2336
+N-681,N-678,Alan Jacoby,,94,00:41:44,C-2779; A-1998; A-1998.1
+N-682,N-679,Mike Lawler,,97,00:50:06,C-2828
+N-683,N-680,Josh Gottheimer,,97,00:50:06,C-2828
+N-684,N-682,Chad Schnitker,,98,00:37:02,C-2844; A-2036.1
+N-685,N-689,Brad Parscale,,99,00:16:06,C-2864; C-2866; C-3039; A-2144.1
+N-686,N-683,John Amanchukwu,,102,00:07:32,C-2891; A-2068.2
+N-687,N-684,Kimberly Klacik,Kim Klacik,102,00:09:42,C-2893; A-2067; A-2067.1
+N-688,(new in this push),Bradley Hansell,Bradley Hansel; Brad Hansel; Brad Hansell,110,00:12:14,C-2909; C-2910; C-2911; C-2912; C-2913; A-2076.1; A-2079.1; C-2982
+N-689,N-685,Christoph Schweizer,Kristoff Schweizer; Kristoff Schweiser,110,00:18:28,C-2920
+N-709,N-686,Leola Anderson,,110,,C-2925
+N-777,N-687,Rick Cutler,,121,00:10:43,C-2947; C-2951; C-2997; C-3015; C-3089; C-3553; A-2432.3
+N-787,N-813,Justin Davis,,124,01:03:20,C-3015; C-3364; A-2329.1; C-3551; C-3554; A-2432.3
+N-806,(new in this push),Thomas Patrick,,125,00:19:38,C-3021; A-2134.1
+N-807,N-688,Eliot Spitzer,,125,00:21:23,C-3021
+N-808,(new in this push),Nate Walker,,126,00:03:16,C-3036; A-2138; A-2138.1; C-3094; A-2166.1; C-3225; A-2248; A-2248.1; A-2248.2; A-2248.3; C-3369; A-2329.4
+N-809,N-787,Jennifer Faumuina,Jennifer Filomena; Jennifer Felomina; Jennifer Faumina,126,00:08:30,A-2139; C-3046; A-2148; C-3063; C-3064; C-3065; C-3066; C-3067; C-3068; C-3069; C-3070; C-3076; A-2156.1; A-2157; A-2157.4
+N-810,(new in this push),Christopher Bagley,Officer Bagley; Officer Christopher Bagley,127,00:04:45,C-3042; C-3043; C-3044; A-2146; C-3195; C-3196; C-3197; C-3198; C-3210; A-2224; A-2227.1; C-3214; A-2242; C-3448; C-3462
+N-811,N-777,Beau Mason,"Bo Mason; Beau ""Bo"" Mason",128,00:08:44,C-3061; C-3066; C-3069; C-3070; C-3071; A-2154; A-2157.3; A-2157.5; A-2158.1
+N-812,N-806,Sapena Faumuina,,128,00:23:06,C-3076; A-2160.1
+N-813,N-807,Misiona Faumuina,,128,00:23:06,C-3076; C-3077; C-3078; A-2160.1
+N-814,N-808,Sid Rosen,,128,00:24:14,C-3078; A-2160.2
+N-815,N-809,Gayle King,,131,00:43:01,C-3134; C-3135; A-2186
+N-845,N-810,Pastor Russell,Pastor Russ,132,00:23:26,C-3142; A-2192; A-2192.1; A-2192.2
+N-913,N-811,Christopher Hawk,,136,00:17:52,C-3200; A-2234.1
+N-929,(new in this push),Rachel Wilson,,140,00:39:29,C-3272; A-2274; A-2274.1; A-2275.6; C-3284; C-3285; A-2280; A-2280.1; A-2280.2
+N-949,(new in this push),David Hull,Agent Hull; Agent David Hull,142,00:04:56,C-3292; A-2285; C-3313; C-3315; C-3316; A-2304.1; A-2415; A-2415.1
+N-967,N-812,Mark Bricker,,144,00:18:29,C-3317; A-2304.2
+N-977,(new in this push),Matt Tardio,,152,00:35:04,C-3457; A-2379; A-2379.1; A-2380; A-2380.1

@@ -15,10 +15,10 @@ Date: 2026-10-08 PT. Branch `cka-adv-wave3` from main `26f2115a3927de7e4ed5926fa
 - B7: `transcript_before_graph.csv` (74 rows)
 
 ### Orphan persons (dense hole mint)
-See `orphan_mint_map.csv` / `orphan_persons_decisions.csv`. Persons minted N-629..N-813 into free holes (next_person_id **814**). Register rows + Hole-minted ledger lines; intro order and hole_mint_order gates pass.
+See `orphan_mint_map.csv` (old id → new id for all 49 mints) / `orphan_persons_decisions.csv`. 49 persons minted into the lowest free holes in true first-introduction order (N-629 Dan Bongino ep15 … N-977 Matt Tardio ep152). N-476 Bill Aman retired into N-66 Bill Ackman. The person band N-1..N-999 is now full: `next_person_id` is **null** pending a Daveed ruling. Reserved baseline ids N-17, 20, 22, 27, 28, 31, 32, 33, 38, 55 (reasons in `config/retired_node_ids.json`).
 
 ### Memes
-M-74..M-85 minted (`memes_decisions.csv`); next_id **86**. Yanking = M-24 reuse; Frank Turek rejected as meme.
+M-74..M-84 minted, numbered densely by first introduction within the batch (`meme_renumber_map.csv`, `memes_decisions.csv`); next_id **85**. M-85 Bride of Charlie rejected (series/work title → Wave 4 Thing debt). Lo and Behold (M-83) qualifies (26 hits / 20 episodes). Yanking = M-24 reuse; Frank Turek rejected as meme.
 
 ### Steering correctness (Oct 8)
 1. **ep150 offset bug:** Related Nodes emptied on wrong N-12xx cites; Mentions remapped to grounded globals (N-1/N-3/N-5/N-56/N-182); A-2352.1 related fixed; spray nodes N-1207..1215 removed from inscription. N-56 Ye Mentions on short-token claims deferred (`ep150_ye_mentions_note.md`).
@@ -29,20 +29,36 @@ M-74..M-85 minted (`memes_decisions.csv`); next_id **86**. Yanking = M-24 reuse;
 6. Family-only inscription `bundle_name` overruns fixed (20 entries).
 
 ### Companion
-Rebuilt `cka/companion/brc222-2.0.0/`: **9209 bridges**, set-identical to main (delta 0). Labels refreshed for dash fidelity / truncated descriptions.
+Rebuilt `cka/companion/brc222-2.0.0/`: **9252 bridges** vs main 9209 (**+43**: isMemberOf 6389 (+34), isSupportedBy 2830 (+7), isQualifiedBy 6 (+2), contradicts 19, isCorroboratedBy 8). The delta comes from the new claims C-3742..C-3766 and artifacts A-1825.2, A-2008.5, A-2013.3, A-2521.1, A-2522.1, A-2523.1.
 
-## Deferred (all DEFER in triage CSVs)
-| File | Rows |
-|------|------|
-| missing_nodes_triage.csv | 529 |
-| missing_claims_triage.csv | 223 |
-| missing_artifacts_triage.csv | 85 |
-| missing_memelinks_triage.csv | 30 |
-| dia_gaps_triage.csv | 67 |
-| bridge_gaps_triage.csv | 32 |
-| incorrect_residuals.csv | 17 |
+## Resubmission after Transit FAIL at 73d663b
+Every fixes.csv row and finding is resolved in `fixes_resolution.csv`. Per-row triage (decision + reason on every row):
 
-Also: Holker/Kirraou deferred; Maquilo rejected; Something Is Not Right deferred; commenters rejected (Wave 2 viewer-handle policy). Wave 4 Event/Thing debt: `wave4_event_thing_debt.md`. Ties avoidance: `ties_avoidance.md`.
+| File | Rows | MINT | ALIAS | KNOWN | FIXED | REJECT | DEFER |
+|------|------|------|-------|-------|-------|--------|-------|
+| missing_nodes_triage.csv | 529 | 55 | 11 | 16 | 0 | 205 | 242 |
+| missing_claims_triage.csv | 223 | 23 | 0 | 42 | 0 | 114 | 44 |
+| missing_artifacts_triage.csv | 85 | 3 | 0 | 32 | 0 | 18 | 32 |
+| missing_memelinks_triage.csv | 30 | 0 | 0 | 1 | 24 | 5 | 0 |
+| dia_gaps_triage.csv | 67 | 4 | 0 | 45 | 0 | 15 | 3 |
+| bridge_gaps_triage.csv | 32 | 0 | 0 | 4 | 7 | 16 | 5 |
+| incorrect_residuals.csv | 17 | 0 | 0 | 5 | 12 | 0 | 0 |
+| spelling_triage.csv | 124 | 0 | 69 | 6 | 10 | 39 | 0 |
+
+DEFER is used only where a Daveed ruling, Wave 4 or the Ties PR is needed:
+- **Person band full** (persons named in claims with no node; N-1..N-999 has no free id).
+- **Org-node scope** (organizations named in claims).
+- **Wave 4** (works, products, events and objects).
+- **19 skeleton episodes** whose drafts have empty Artifact/Claim registers (84, 95, 100, 101, 103–106, 108, 109, 111–119). A full extraction pass is a scheduling call.
+- **Ties PR** (artifact→claim Related links).
+
+New in this push:
+- 25 claims, C-3742..C-3766. Revises: C-3742, C-3743. DIA tip-line: C-3744, C-3745, C-3746, C-3764. Sampled gaps: C-3747..C-3753. Triage mints: C-3754..C-3763, C-3765, C-3766.
+- 6 artifacts.
+- 25 MemeLink occurrences.
+- Verbatim quote fixes, logged in `quote_fixes.csv`.
+- 82 pre-existing draft-vs-inscription mismatches reconciled (`draft_inscription_reconcile.csv`).
+- New gate `named_before_intro` with tests. Pre-Wave-3 debt is listed in `named_before_intro_debt.csv`.
 
 ## Explicit non-goals
 - No Neo4j / pack / BoC deploy
@@ -59,4 +75,4 @@ Wave 3 → Wave 4 → Ties edges PR → PR 55 rebase.
 - BoC preflight: PASS
 - dia_preflight --self-test: OK
 - hostile_hard_gates: CLEAR
-- pytest scripts/: 68 passed
+- pytest scripts/: 70 passed

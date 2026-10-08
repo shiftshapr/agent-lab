@@ -618,24 +618,6 @@
       ]
     },
     {
-      "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
-      "name": "Bill Aman",
-      "type": "person",
-      "description": "Per host, paid influencers at Hamptons retreat; described as having potential donor interest in TPUSA.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1"
-      ]
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1369",
       "ref": "N-1369",
@@ -953,6 +935,24 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Per host, paid influencers at Hamptons retreat; described as having potential donor interest in TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
     }
   ],
   "claims": [

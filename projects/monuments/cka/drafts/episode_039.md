@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-471, N-474, N-475, N-476, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
-  - Reused Nodes Appearing: N-1, N-37
+  - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-471, N-474, N-475, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
+  - Reused Nodes Appearing: N-1, N-37, N-66
   - (see registers)
 
 # Episode 39 Analysis
@@ -34,7 +34,7 @@
 
 - Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488, A-2513
 - Claim Range: C-1803–C-1819, C-3718
-- New Person Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-476, N-43
+- New Person Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-43
 - New Investigation Target Nodes Introduced: N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -357,7 +357,7 @@ Investigative Pressure: Low
 
 *Related: N-272, N-1*
 
-**N-476** Bill Aman
+**N-66** Bill Ackman
 
 Per host, paid influencers at Hamptons retreat; described as having potential donor interest in TPUSA.
 

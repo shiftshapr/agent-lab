@@ -745,6 +745,39 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-949",
+      "ref": "N-949",
+      "name": "David Hull",
+      "type": "person",
+      "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -801,7 +834,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:35",
-      "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom."
+      "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.",
+      "mentions_person_refs": [
+        "N-949"
+      ]
     },
     {
       "@type": "Claim",
@@ -836,6 +872,31 @@
       "investigative_direction": "Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.",
       "mentions_person_refs": [
         "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3743",
+      "ref": "C-3743",
+      "label": "Andrew Kolvet is the 'Kulvette' of C-3294 (revises C-3294)",
+      "claim": "C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-42). He stated on Tucker Carlson that Farnsworth (N-410) removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "anchored_artifacts": [
+        "A-2287.1"
+      ],
+      "related_nodes": [
+        "N-1228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Read with C-3294; match the Tucker Carlson segment under the corrected spelling Andrew Kolvet.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3294"
+      ],
+      "mentions_person_refs": [
+        "N-42",
+        "N-50",
+        "N-410"
       ]
     },
     {
