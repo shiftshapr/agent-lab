@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-632, N-633, N-634, N-635, N-636, N-637, N-638, N-639, N-1452, N-1453, N-1454, N-1455
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-117, N-3, N-599
   - (see registers), N-37
 
 # Episode 52 Analysis
@@ -340,6 +340,7 @@ Claim Timestamp: 00:21:13
 Claim: After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, supporting his alibi for September 10.
 
 Anchored Artifacts: A-1579.1
+Mentions: N-3, N-599
 
 Related Nodes: N-1453
 
@@ -431,4 +432,19 @@ Mentions: N-69
 Related Nodes:
 
 Investigative Direction: Confirm employment dates and identify workplace contacts relevant to the investigation timeline.
+
+---
+
+**C-3749** Host says she believes the feds are colluding to introduce new speech laws
+
+Claim Timestamp: 00:55:06
+
+Claim: Presenting the French "moral damages" ruling and the Macron lawsuit against her in Delaware, the host says she believes the feds are colluding because they want to introduce new speech laws in the US and make people fearful to tell the truth.
+
+Transcript Snippet: I believe that the feds are colluding because they want to introduce new speech laws in this country
+
+Anchored Artifacts: 
+Mentions: N-3, N-117
+Related Nodes: 
+Investigative Direction: Follow the Delaware docket filings in the Macron suit; track any proposed federal or state speech legislation the host links to it.
 

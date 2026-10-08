@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1668, N-1669, N-1670, N-1671, N-1672, N-1673
-  - Reused Nodes Appearing: N-1235
+  - Hole-minted Nodes (wave3): N-675, N-676
+  - Reused Nodes Appearing: N-1235, N-3, N-69, N-70, N-102, N-186
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -191,6 +192,19 @@ Confidence Level: Low (verbally referenced only – no recording displayed)
 
 ## 4. Node Register
 
+**N-675** Pope Leo XIV
+
+First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.
+
+*Related: C-2689, C-2690, C-2691, C-2696*
+
+**N-676** Doug Terry
+
+First named by the host at 00:33:31 in episode 90.
+
+*Related: C-2682, C-2683*
+
+
 **N-1668** Tyler Robinson Filing Timeline Discrepancy
 
 Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.
@@ -278,7 +292,7 @@ Claim Timestamp: 00:33:31
 Claim: The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025.
 
 Anchored Artifacts: A-1948.1
-Mentions: N-69
+Mentions: N-69, N-676
 
 Related Nodes: N-1668
 
@@ -293,7 +307,7 @@ Claim Timestamp: 00:33:31
 Claim: During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with attorney Doug Terry and noted Terry's office was closed.
 
 Anchored Artifacts: A-1948.1
-Mentions: N-69
+Mentions: N-69, N-676
 
 Related Nodes:
 
@@ -382,6 +396,7 @@ Claim Timestamp: 00:52:54
 Claim: A Trump Truth Social post is read aloud in the episode calling Pope Leo XIV "weak on crime" and criticizing the Pope's positions on Iran, Venezuela, and criticism of the President.
 
 Anchored Artifacts: A-1952.1
+Mentions: N-675
 
 Related Nodes:
 
@@ -396,6 +411,7 @@ Claim Timestamp: 00:57:23
 Claim: In a video response played in the episode, Pope Leo XIV states his message is "blessed are the peacemakers" and that he does not view his role as political.
 
 Anchored Artifacts: A-1953.1
+Mentions: N-675
 
 Related Nodes:
 
@@ -410,6 +426,7 @@ Claim Timestamp: 00:59:24
 Claim: In a press-conference clip, Trump defends the AI image of himself as Jesus by stating he thought it depicted him as a doctor / Red Cross worker.
 
 Anchored Artifacts: A-1954.1
+Mentions: N-675
 
 Related Nodes:
 
@@ -484,6 +501,7 @@ Claim Timestamp: 00:51:46–00:58:29
 Claim: Host places the Trump Truth Social attack on Pope Leo XIV and the papal response during the Easter period.
 
 Anchored Artifacts: A-1952.1, A-1953.1
+Mentions: N-675
 
 Related Nodes:
 
@@ -505,4 +523,21 @@ Related Nodes: N-1673
 Investigative Direction: Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.
 
 ---
+
+**C-3766** Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference
+
+Claim Timestamp: 00:36:57
+
+Claim: The host says her source told her that around 7:00 p.m. people locally began receiving texts that police had Tyler Robinson and would pick him up in Warner Valley, 12 miles from St. George; she says this makes it strange that at 8:00 p.m. Governor Spencer Cox led a press conference with Kash Patel and Robert Bowles describing the suspect as on the run and releasing new stills.
+
+Transcript Snippet: I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00.
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-70, N-102, N-186
+Related Nodes: 
+Investigative Direction: Obtain the time-stamped local texts and dispatch logs for the Warner Valley pickup; compare against the 8:00 p.m. press-conference statements.
+
+---
+
+
 

@@ -56,7 +56,6 @@
             "C-2946"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2081"
           ],
           "tags": [],
@@ -78,9 +77,6 @@
             "C-2951"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1209",
             "N-2084"
           ],
           "tags": [],
@@ -99,7 +95,6 @@
             "C-2949"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2093"
           ],
           "tags": [],
@@ -118,7 +113,6 @@
             "C-2957"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2093"
           ],
           "tags": [],
@@ -146,7 +140,6 @@
             "C-2953"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2086"
           ],
           "tags": [],
@@ -173,7 +166,6 @@
             "C-2957"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2083"
           ],
           "tags": [],
@@ -192,7 +184,6 @@
             "C-2955"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2083"
           ],
           "tags": [],
@@ -637,9 +628,7 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -659,9 +648,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -687,9 +674,7 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -729,9 +714,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -892,9 +875,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -959,6 +940,41 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "AV / camera operator (Terrell / Tara / Taro / Teo Farnsworth ASR variants). Credited for Frank Turek trunk-entry video in this episode; first ledger intro ep33.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2954"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-777",
+      "ref": "N-777",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "First named by the host at 00:10:43 in episode 121.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2947",
+        "C-2951"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -977,7 +993,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:48",
-      "investigative_direction": "Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Road Mic reference images for side-by-side comparison."
+      "investigative_direction": "Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Road Mic reference images for side-by-side comparison.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1015,7 +1032,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.",
       "mentions_person_refs": [
-        "N-424"
+        "N-424",
+        "N-777"
       ]
     },
     {
@@ -1094,7 +1112,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.",
       "mentions_person_refs": [
-        "N-424"
+        "N-424",
+        "N-777"
       ]
     },
     {
@@ -1151,7 +1170,8 @@
       "claim_timestamp": "00:19:32–00:20:25",
       "investigative_direction": "Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.",
       "mentions_person_refs": [
-        "N-16"
+        "N-16",
+        "N-410"
       ]
     },
     {
@@ -1168,7 +1188,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:17–00:23:11",
-      "investigative_direction": "Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns."
+      "investigative_direction": "Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1184,7 +1205,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:50–00:23:11",
-      "investigative_direction": "Forensic testing of the bag (if available) for blood type, DNA, and explosive residue."
+      "investigative_direction": "Forensic testing of the bag (if available) for blood type, DNA, and explosive residue.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1222,7 +1244,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:49–00:42:51",
-      "investigative_direction": "Obtain original Semafor article; verify any disclosed High Mount Capital relationship."
+      "investigative_direction": "Obtain original Semafor article; verify any disclosed High Mount Capital relationship.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1257,7 +1280,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:09",
-      "investigative_direction": "Obtain underlying source data for the chart; identify methodology."
+      "investigative_direction": "Obtain underlying source data for the chart; identify methodology.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1307,7 +1331,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
-      "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season."
+      "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1361,7 +1386,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:26–00:35:29",
-      "investigative_direction": "Obtain current NHS source page directly; verify quoted text matches original."
+      "investigative_direction": "Obtain current NHS source page directly; verify quoted text matches original.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",

@@ -31,8 +31,6 @@
             "C-3059"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
             "N-2133"
           ],
           "tags": [],
@@ -50,7 +48,6 @@
             "C-3059"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2133"
           ],
           "tags": [],
@@ -572,10 +569,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -595,9 +589,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -818,6 +810,164 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-193",
+      "ref": "N-193",
+      "name": "Judge Tony F. Graf Jr.",
+      "type": "person",
+      "description": "Judge Tony F. Graph Jr. (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3073"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-629",
+      "ref": "N-629",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Reused; first introduced in episode 15.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3062"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-811",
+      "ref": "N-811",
+      "name": "Beau Mason",
+      "type": "person",
+      "description": "First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau \"Bo\" Mason.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3061",
+        "C-3063",
+        "C-3064",
+        "C-3065",
+        "C-3066",
+        "C-3067",
+        "C-3068",
+        "C-3069",
+        "C-3070",
+        "C-3071",
+        "C-3076"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-809",
+      "ref": "N-809",
+      "name": "Jennifer Faumuina",
+      "type": "person",
+      "description": "Named by the host at 00:15:24 in episode 128; first introduced in episode 126.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3063",
+        "C-3064",
+        "C-3065",
+        "C-3066",
+        "C-3067",
+        "C-3068",
+        "C-3069",
+        "C-3070",
+        "C-3071",
+        "C-3076",
+        "C-3077"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-813",
+      "ref": "N-813",
+      "name": "Misiona Faumuina",
+      "type": "person",
+      "description": "First named by the host at 00:23:06 in episode 128.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3063",
+        "C-3064",
+        "C-3065",
+        "C-3066",
+        "C-3067",
+        "C-3068",
+        "C-3069",
+        "C-3070",
+        "C-3076",
+        "C-3077",
+        "C-3078"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-812",
+      "ref": "N-812",
+      "name": "Sapena Faumuina",
+      "type": "person",
+      "description": "First named by the host at 00:23:06 in episode 128.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3063",
+        "C-3064",
+        "C-3065",
+        "C-3066",
+        "C-3067",
+        "C-3068",
+        "C-3069",
+        "C-3070",
+        "C-3076",
+        "C-3077"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-814",
+      "ref": "N-814",
+      "name": "Sid Rosen",
+      "type": "person",
+      "description": "First named by the host at 00:24:14 in episode 128.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3078"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -893,7 +1043,8 @@
       "investigative_direction": "Inspect full uncut briefing video for any clarifying remarks made by either official before or after the exchange.",
       "mentions_person_refs": [
         "N-70",
-        "N-102"
+        "N-102",
+        "N-811"
       ]
     },
     {
@@ -912,7 +1063,8 @@
       "claim_timestamp": "00:12:43",
       "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency.",
       "mentions_person_refs": [
-        "N-75"
+        "N-75",
+        "N-629"
       ]
     },
     {
@@ -929,7 +1081,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:37",
-      "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records."
+      "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -943,7 +1101,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:38",
-      "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records."
+      "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -957,7 +1121,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:38",
-      "investigative_direction": "Confirm against Weber State graduation records or alumni listings."
+      "investigative_direction": "Confirm against Weber State graduation records or alumni listings.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -971,7 +1141,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:19",
-      "investigative_direction": "Verify through DPS academy records and class photographs."
+      "investigative_direction": "Verify through DPS academy records and class photographs.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -985,7 +1161,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:29",
-      "investigative_direction": "Confirm the original article, deployment list, and credentialing records."
+      "investigative_direction": "Confirm the original article, deployment list, and credentialing records.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -999,7 +1181,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:29",
-      "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression."
+      "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -1013,7 +1201,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:19",
-      "investigative_direction": "Verify the photograph and underlying academy/class record."
+      "investigative_direction": "Verify the photograph and underlying academy/class record.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -1027,7 +1221,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:20:19",
-      "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases."
+      "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -1045,7 +1245,9 @@
       "claim_timestamp": "00:19:15",
       "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record.",
       "mentions_person_refs": [
-        "N-70"
+        "N-70",
+        "N-811",
+        "N-809"
       ]
     },
     {
@@ -1058,12 +1260,14 @@
         "A-2158.2"
       ],
       "related_nodes": [
-        "N-1215",
         "N-2132"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
-      "investigative_direction": "Confirm via hospital press releases and board minutes."
+      "investigative_direction": "Confirm via hospital press releases and board minutes.",
+      "mentions_person_refs": [
+        "N-192"
+      ]
     },
     {
       "@type": "Claim",
@@ -1079,7 +1283,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
-      "investigative_direction": "Verify the appointment date, court, and appointing authority."
+      "investigative_direction": "Verify the appointment date, court, and appointing authority.",
+      "mentions_person_refs": [
+        "N-193"
+      ]
     },
     {
       "@type": "Claim",
@@ -1129,7 +1336,13 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:14",
-      "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case."
+      "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case.",
+      "mentions_person_refs": [
+        "N-811",
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -1143,7 +1356,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:14",
-      "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records."
+      "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records.",
+      "mentions_person_refs": [
+        "N-809",
+        "N-813",
+        "N-812"
+      ]
     },
     {
       "@type": "Claim",
@@ -1157,7 +1375,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:35",
-      "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings."
+      "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings.",
+      "mentions_person_refs": [
+        "N-813",
+        "N-814"
+      ]
     },
     {
       "@type": "Claim",

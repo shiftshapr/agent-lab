@@ -135,7 +135,6 @@
             "C-3128"
           ],
           "related_nodes": [
-            "N-1209",
             "N-2"
           ],
           "tags": [],
@@ -165,7 +164,6 @@
             "C-3132"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1"
           ],
           "tags": [],
@@ -253,6 +251,99 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2490",
+      "family_ref": "A-2490",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2490.1",
+          "ref": "A-2490.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3664"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "01:00:06",
+          "transcript_snippet": "...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2524",
+      "family_ref": "A-2524",
+      "bundle_name": "Ben Shapiro Lunch-Bounty Payoff and $25,000 Security-Call Bounty (host on air)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2524.1",
+          "ref": "A-2524.1",
+          "description": "Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3767"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-133",
+            "N-2147"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2524.2",
+          "ref": "A-2524.2",
+          "description": "Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)",
+          "related_claims": [
+            "C-3768"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-133",
+            "N-2147"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2524.3",
+          "ref": "A-2524.3",
+          "description": "Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3769"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1",
+            "N-133",
+            "N-2147"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -262,7 +353,7 @@
       "ref": "N-2147",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
       "type": "investigation_target",
-      "description": "Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Jabitch as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.",
+      "description": "Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.",
       "related_artifacts": [
         "A-2181.1"
       ],
@@ -272,9 +363,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -419,6 +508,26 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-815",
+      "ref": "N-815",
+      "name": "Gayle King",
+      "type": "person",
+      "description": "First named by the host at 00:43:01 in episode 131.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3133",
+        "C-3134",
+        "C-3135",
+        "C-3136"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -726,7 +835,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:38",
-      "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings."
+      "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings.",
+      "mentions_person_refs": [
+        "N-815"
+      ]
     },
     {
       "@type": "Claim",
@@ -740,7 +852,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:07",
-      "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand."
+      "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.",
+      "mentions_person_refs": [
+        "N-815"
+      ]
     },
     {
       "@type": "Claim",
@@ -754,7 +869,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:07",
-      "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements."
+      "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.",
+      "mentions_person_refs": [
+        "N-815"
+      ]
     },
     {
       "@type": "Claim",
@@ -771,7 +889,8 @@
       "investigative_direction": "Independent verification of each parallel item against documented records in both cases.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-815"
       ]
     },
     {
@@ -786,8 +905,142 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:35",
-      "investigative_direction": "Independent verification against public records or alumni databases."
+      "investigative_direction": "Independent verification against public records or alumni databases.",
+      "mentions_person_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3664",
+      "ref": "C-3664",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2490.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:00:06",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3767",
+      "ref": "C-3767",
+      "label": "Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot",
+      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
+      "anchored_artifacts": [
+        "A-2524.1"
+      ],
+      "related_nodes": [
+        "N-2147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:05",
+      "investigative_direction": "Corroborate the companion's Los Angeles whereabouts on September 10, 2025 against the canceled Reagan Library event schedule and any public sightings.",
+      "transcript_snippet": "So, what did we do? We put out a bounty.",
+      "confidence": "low",
+      "uncertainty_note": "Single anonymous tip as relayed by the host; the host says \"allegedly\" and could not confirm the meal itself. The named companion has no person node (person band full, awaiting Daveed).",
+      "supports_claim_refs": [
+        "C-3764"
+      ],
+      "qualifies_claim_refs": [
+        "C-3126"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-133",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3768",
+      "ref": "C-3768",
+      "label": "Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha",
+      "claim": "Reading from what she calls his professional biography, the host says the alleged companion served on the National Council of AIPAC, was president of the Nebraska chapter of AIPAC, and has a twin brother on the AIPAC board. She adds that Ben Shapiro and his wife have donated a \"life and legacy\" amount to the Jewish Federation of Omaha for years, an organization where the companion is a host and donor.",
+      "anchored_artifacts": [
+        "A-2524.2"
+      ],
+      "related_nodes": [
+        "N-2147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:07",
+      "investigative_direction": "Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.",
+      "transcript_snippet": "Gary was the president of the Nebraska chapter of AIPAC.",
+      "confidence": "low",
+      "uncertainty_note": "Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has \"Jabitch\"/\"Jabach\" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3769",
+      "ref": "C-3769",
+      "label": "Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team",
+      "claim": "The host announces a second bounty of $25,000 for anyone who can tell her who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, promises to protect the source's identity, and directs tips to moretips@candaceowens.com.",
+      "anchored_artifacts": [
+        "A-2524.3"
+      ],
+      "related_nodes": [
+        "N-2147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:05",
+      "investigative_direction": "Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).",
+      "transcript_snippet": "But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-133"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 131,
+          "video_timestamp": "00:19:05",
+          "speaker_node_ref": "N-3",
+          "quote": "So, what did we do? We put out a bounty.",
+          "context": "DIA tip-line payoff: the lunch bounty from ep124 (C-3764) is answered with a tip on who Ben Shapiro was with (C-3767, A-2524.1).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_tip_line",
+            "bounty",
+            "transcript_backfill"
+          ]
+        },
+        {
+          "episode": 131,
+          "video_timestamp": "00:26:05",
+          "speaker_node_ref": "N-3",
+          "quote": "But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.",
+          "context": "DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-3769, A-2524.3).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_tip_line",
+            "bounty",
+            "transcript_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-537, N-538, N-1405, N-1406, N-1407
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-3, N-410, N-1, N-424
   N-69, N-42
 
 # Episode Analysis: Monument 46
@@ -32,7 +32,7 @@
 ### Episode 46 Ledger Summary
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
-- **Claim Range:** C-1912 – C-1923
+- **Claim Range:** C-1912 – C-1923, C-3757
 - **New Nodes Introduced:** N-537, N-538, N-1405, N-1406, N-1407
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-69 (Tyler Robinson), N-42 (Andrew Kolvet)
 
@@ -517,6 +517,21 @@ Mentions:
 Related Nodes: N-1406
 
 Investigative Direction: Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents.
+
+---
+
+**C-3757** Host lists statements she calls lies on the SD card removal, Charlie's DOGE and drones
+
+Claim Timestamp: 00:11:47
+
+Claim: The host lists statements she calls lies: that Terrell Farnsworth was told by police to remove the SD card (she says Farnsworth told her otherwise); that it was not unusual for Charlie Kirk to set up a DOGE; and that Charlie Kirk's team did not fly drones, a lie she attributes to Brian Harpole, along with his statement that security secured the rooftops with UVU police.
+
+Transcript Snippet: Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual.
+
+Anchored Artifacts: 
+Mentions: N-3, N-410, N-1, N-424
+Related Nodes: N-1000
+Investigative Direction: Compare Farnsworth's account, the DOGE timeline and the drone and rooftop statements against police and UVU records.
 
 ---
 

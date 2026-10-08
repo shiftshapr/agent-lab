@@ -483,10 +483,13 @@ def build_package(
     episode_ids: dict[int, str],
     show_id: str = "cka:show:candace",
     revises_rulings: dict[str, str] | None = None,
+    revises_ruling_sources: dict[str, str] | None = None,
 ) -> BuildResult:
     """revises_rulings: claim id -> ledger lookup key ('revises_softening' or 'revises_builds_on')
-    fixed by Transit for that claim's Revises edges (config/companion_revises_rulings.json)."""
+    fixed by Transit for that claim's Revises edges (config/companion_revises_rulings.json).
+    revises_ruling_sources: claim id -> citation of the ruling (emitted as metadata.ruling_source)."""
     revises_rulings = revises_rulings or {}
+    revises_ruling_sources = revises_ruling_sources or {}
     # Resolve all ledger lookup keys once; emitted strings come from vocab.
     terms = {k: vocab.require(v) for k, v in LEDGER_LOOKUP_KEYS.items()}
 
@@ -623,6 +626,8 @@ def build_package(
                             "candidate_of": "revises_split",
                             "heuristic_primary": terms[primary_key],
                             "confidence": confidence,
+                            **({"ruling_source": revises_ruling_sources[c.claim_id]}
+                               if ruled and c.claim_id in revises_ruling_sources else {}),
                         },
                     )
                 )
@@ -845,7 +850,8 @@ No `direction` field. Retired terms rejected: amplifies, contextualizes, timelin
 
 For each ledger `Revises:` edge the builder emits **one** bridge. Edges whose newer claim has a
 Transit ruling in `config/companion_revises_rulings.json` use the ruled term
-(`review_status: transit_ruled`); other edges use the heuristic primary
+(`review_status: transit_ruled`, `metadata.ruling_source` citing the ruling; a ruling row
+without a source is rejected); other edges use the heuristic primary
 (`review_status: pending_transit`). The CSV keeps both candidate terms per edge.
 
 Primary pick rule:
@@ -878,19 +884,36 @@ Transit confirms the final term per edge before any deploy.
     )
 
 
-def load_revises_rulings(cka_root: Path) -> dict[str, str]:
-    """config/companion_revises_rulings.json: {"rulings": {"C-x": {"term_key": "revises_softening", ...}}}."""
+def _load_rulings_rows(cka_root: Path) -> tuple[Path, dict[str, Any]]:
     path = cka_root / "config" / "companion_revises_rulings.json"
     if not path.is_file():
-        return {}
+        return path, {}
     data = json.loads(path.read_text(encoding="utf-8"))
+    return path, dict(data.get("rulings") or {})
+
+
+def load_revises_rulings(cka_root: Path) -> dict[str, str]:
+    """config/companion_revises_rulings.json: {"rulings": {"C-x": {"term_key": "revises_softening", "source": ...}}}.
+
+    Every ruling must cite where it was made ("source": audit report + finding/line + date). A row without a
+    source would mark bridges transit_ruled at confidence 1.0 with nothing behind it (Transit baa2ed9 G5), so
+    it is rejected.
+    """
+    path, rows = _load_rulings_rows(cka_root)
     out: dict[str, str] = {}
-    for cid, row in (data.get("rulings") or {}).items():
+    for cid, row in rows.items():
         key = row.get("term_key") if isinstance(row, dict) else row
         if key not in ("revises_softening", "revises_builds_on"):
             raise ValueError(f"{path}: {cid} has unknown term_key {key!r}")
+        if not isinstance(row, dict) or not str(row.get("source") or "").strip():
+            raise ValueError(f"{path}: {cid} has no source citing the ruling; unruled Revises stay pending_transit")
         out[cid] = key
     return out
+
+
+def load_revises_ruling_sources(cka_root: Path) -> dict[str, str]:
+    _path, rows = _load_rulings_rows(cka_root)
+    return {cid: str(row.get("source")) for cid, row in rows.items() if isinstance(row, dict) and row.get("source")}
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -910,7 +933,14 @@ def main(argv: list[str] | None = None) -> int:
         vocab.require(name)
 
     claims, artifacts, episode_ids = load_cka_corpus(args.cka_root)
-    result = build_package(vocab, claims, artifacts, episode_ids, revises_rulings=load_revises_rulings(args.cka_root))
+    result = build_package(
+        vocab,
+        claims,
+        artifacts,
+        episode_ids,
+        revises_rulings=load_revises_rulings(args.cka_root),
+        revises_ruling_sources=load_revises_ruling_sources(args.cka_root),
+    )
     write_package(args.out, result, vocab, args.cka_root)
 
     primary = Counter(

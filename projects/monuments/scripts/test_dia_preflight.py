@@ -599,6 +599,7 @@ def test_cka_has_no_wave1_people_regressions():
             "dangling_claim_ref",
             "prose_em_dash",
             "quote_dash_fidelity",
+            "inscription_missing",
         )
     ]
     assert bad == [], bad
@@ -720,3 +721,331 @@ def test_cka_ep119_m55_quote_is_verbatim():
     tp = dp.find_transcript(dp.MONUMENTS_ROOT / "cka", 119)
     assert quote in tp.read_text(encoding="utf-8")
     assert " - " not in quote and "##" not in quote
+
+
+def test_cited_before_intro_covers_topics_in_strict_mode(tmp_path):
+    """Wave 3 / Transit 820af0d P2-2: a topic on a Reused line before its New line must fail."""
+    drafts = tmp_path / "drafts"
+    drafts.mkdir()
+    (drafts / "episode_001.md").write_text(
+        "## 4. Node Register\n\n**N-1282** Some Topic\n\n"
+        "- **Reused Nodes Appearing:** N-1282\n",
+        encoding="utf-8",
+    )
+    (drafts / "episode_002.md").write_text(
+        "## 4. Node Register\n\n**N-1282** Some Topic\n\n"
+        "- **New Nodes Introduced:** N-1282\n",
+        encoding="utf-8",
+    )
+    eps = [
+        (1, "episode_001.md", drafts / "episode_001.md", (drafts / "episode_001.md").read_text()),
+        (2, "episode_002.md", drafts / "episode_002.md", (drafts / "episode_002.md").read_text()),
+    ]
+    report = dp.PreflightReport("t", "t")
+    dp.check_cited_before_intro(report, eps, strict=True)
+    assert any(f.check == "cited_before_intro" and f.location == "N-1282" for f in report.findings)
+    report2 = dp.PreflightReport("t", "t")
+    dp.check_cited_before_intro(report2, eps, strict=False)
+    assert report2.findings == []
+
+
+def test_inscription_missing_flags_draft_only_ids(tmp_path):
+    drafts = tmp_path / "drafts"
+    drafts.mkdir()
+    text = (
+        "## 5. Claim Register\n\n**C-9001** Draft only claim\n\nClaim: x\n\n"
+        "## 3. Artifact Register\n\n**A-9001** Family\n\n**A-9001.1** Sub\n\n"
+        "Description: y\n"
+    )
+    (drafts / "episode_001.md").write_text(text, encoding="utf-8")
+    ins = tmp_path / "inscription"
+    ins.mkdir()
+    (ins / "episode_001.json").write_text(
+        json.dumps({"claims": [{"@id": "C-1", "label": "other"}], "artifacts": []}),
+        encoding="utf-8",
+    )
+    eps = [(1, "episode_001.md", drafts / "episode_001.md", text)]
+    report = dp.PreflightReport("t", "t")
+    dp.check_inscription_missing(report, tmp_path, eps)
+    locs = sorted(f.location for f in report.findings)
+    assert locs == ["A-9001", "A-9001.1", "C-9001"]
+    assert all(f.severity == "P1" and f.check == "inscription_missing" for f in report.findings)
+
+
+
+def _nbi_report(tmp_path: Path, eps, canonical: dict, accepted: list | None = None, enabled: bool = True):
+    (tmp_path / "config").mkdir(exist_ok=True)
+    gates = {"named_before_intro": {"enabled": enabled, "accepted": accepted or []}}
+    (tmp_path / "config" / "preflight_gates.json").write_text(json.dumps(gates), encoding="utf-8")
+    report = dp.PreflightReport("t", str(tmp_path))
+    dp.check_named_before_intro(report, tmp_path, eps, canonical)
+    return report
+
+
+NBI_CANON = {
+    "N-2": {"canonical_name": "Node Two", "type": "person", "aliases": []},
+    "N-5": {"canonical_name": "Dan Bongino", "type": "person", "aliases": ["Dan Bonino"]},
+    "N-6": {"canonical_name": "Pat Smith", "type": "person", "aliases": []},
+    "N-7": {"canonical_name": "Pat Smith", "type": "person", "aliases": []},
+}
+
+
+def test_named_before_intro_flags_name_and_alias_without_n_id(tmp_path):
+    """Transit 73d663b P1-3: a person named in claim text before their intro episode fails even with no N-id."""
+    base = (0, "episode_000.md", Path("b"), "baseline N-1\n")
+    for text in ("Claim: Host cites Dan Bongino on air.\n", "Claim: Host cites Dan Bonino on air.\n",
+                 "Claim: x\nInvestigative Direction: ask dan bongino.\n"):
+        claims = f"**C-1** Claim\n\nClaim Timestamp: 00:01:00\n{text}\n---\n"
+        eps = [
+            base,
+            (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims)),
+            (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+        ]
+        report = _nbi_report(tmp_path, eps, NBI_CANON)
+        assert [(f.severity, f.check, f.location) for f in report.findings] == [("P1", "named_before_intro", "N-5")], text
+    # Artifact labels are scanned too.
+    arts = "**A-1.1** Dan Bongino clip on X\n\n"
+    eps = [
+        base,
+        (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), "", arts)),
+        (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5))),
+    ]
+    assert [f.location for f in _nbi_report(tmp_path, eps, NBI_CANON).findings] == ["N-5"]
+
+
+def test_named_before_intro_clean_controls(tmp_path):
+    base = (0, "episode_000.md", Path("b"), "baseline N-1\n")
+    late = (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5, N-6, N-7\n", _reg(5, 6, 7)))
+    # Named in its own intro episode; quote fields are not scanned; ambiguous names (two persons) are skipped.
+    claims = ('**C-1** Claim\n\nClaim: Pat Smith spoke.\nTranscript Snippet: Dan Bongino said so.\n\n---\n')
+    eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims)), late]
+    assert _nbi_report(tmp_path, eps, NBI_CANON).findings == []
+    claims2 = "**C-2** Claim\n\nClaim: Dan Bongino spoke.\n\n---\n"
+    eps = [base, (2, "episode_002.md", Path("y"), _ep_draft("  - New Nodes Introduced: N-5\n", _reg(5), claims2))]
+    assert _nbi_report(tmp_path, eps, NBI_CANON).findings == []
+    # Accepted debt pair and the disabled gate are both silent.
+    claims3 = "**C-1** Claim\n\nClaim: Dan Bongino spoke.\n\n---\n"
+    eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims3)), late]
+    assert _nbi_report(tmp_path, eps, NBI_CANON, accepted=[{"id": "N-5", "episodes": [1], "reason": "debt"}]).findings == []
+    assert _nbi_report(tmp_path, eps, NBI_CANON, enabled=False).findings == []
+
+
+def _pbl_dir(tmp_path, nodes, retired=None, reserved=None, next_person_id=None, enabled=True):
+    d = tmp_path / "mon"
+    (d / "config").mkdir(parents=True, exist_ok=True)
+    (d / "canonical").mkdir(parents=True, exist_ok=True)
+    (d / "config" / "preflight_gates.json").write_text(json.dumps({"person_band_lock": {"enabled": enabled}}))
+    (d / "config" / "retired_node_ids.json").write_text(json.dumps({
+        "retired": retired or {}, "reserved_baseline_ids": {"ids": reserved or []}}))
+    (d / "canonical" / "nodes.json").write_text(json.dumps({"next_person_id": next_person_id, "nodes": nodes}))
+    return d
+
+
+def test_person_band_lock_flags_reuse_reserved_high_band_and_next_id(tmp_path):
+    """Transit b558034: while the band is locked, no tombstone/reserved reuse, no person >= N-1000, next_person_id null."""
+    nodes = {
+        "N-5": {"canonical_name": "Reused Tombstone", "type": "person"},
+        "N-17": {"canonical_name": "On Reserved", "type": "person"},
+        "N-1200": {"canonical_name": "High Person", "type": "person"},
+        "N-1201": {"canonical_name": "A Topic", "type": "topic"},
+    }
+    d = _pbl_dir(tmp_path, nodes, retired={"legacy-N-5": {"survives_as": None}}, reserved=["N-17"], next_person_id=630)
+    report = dp.PreflightReport("t", str(d))
+    dp.check_person_band_lock(report, d, nodes)
+    got = sorted((f.severity, f.check, f.location) for f in report.findings)
+    assert got == sorted([("P1", "person_band_lock", "next_person_id"), ("P1", "person_band_lock", "N-5"),
+                          ("P1", "person_band_lock", "N-17"), ("P1", "person_band_lock", "N-1200")])
+
+
+def test_person_band_lock_clean_and_disabled(tmp_path):
+    nodes = {"N-6": {"canonical_name": "Live Person", "type": "person"},
+             "N-1201": {"canonical_name": "A Topic", "type": "topic"}}
+    d = _pbl_dir(tmp_path, nodes, retired={"legacy-N-5": {"survives_as": "N-6"}}, reserved=["N-17"])
+    report = dp.PreflightReport("t", str(d))
+    dp.check_person_band_lock(report, d, nodes)
+    assert report.findings == []
+    bad = {"N-1200": {"canonical_name": "High Person", "type": "person"}}
+    d2 = _pbl_dir(tmp_path / "off", bad, next_person_id=1, enabled=False)
+    report = dp.PreflightReport("t", str(d2))
+    dp.check_person_band_lock(report, d2, bad)
+    assert report.findings == []
+
+
+
+# --- person_band_lock hardening (Transit baa2ed9 G1/G2) -----------------------
+
+CKA_DIR = Path(__file__).resolve().parents[1] / "cka"
+
+
+def _band_fixture(tmp_path, *, gates=None):
+    """Synthetic full band: live N-1..N-5, tombstoned N-6..N-998, reserved N-999, pinned snapshot."""
+    d = tmp_path / "band"
+    (d / "config").mkdir(parents=True)
+    (d / "canonical").mkdir(parents=True)
+    nodes = {f"N-{i}": {"canonical_name": f"Person {i}", "type": "person", "aliases": []} for i in range(1, 6)}
+    retired = {f"legacy-N-{i}": {"survives_as": None} for i in range(6, 999)}
+    (d / "canonical" / "nodes.json").write_text(json.dumps({"next_person_id": None, "nodes": nodes}))
+    (d / "config" / "retired_node_ids.json").write_text(json.dumps(
+        {"retired": retired, "reserved_baseline_ids": {"ids": ["N-999"]}}))
+    (d / "config" / "preflight_gates.json").write_text(json.dumps(
+        gates if gates is not None else {"person_band_lock": {"enabled": True, "snapshot": "config/person_band_snapshot.json"}}))
+    snap, errors = dp.build_band_snapshot(d, nodes, None)
+    assert errors == [] and snap["counts"]["total"] == 999
+    (d / "config" / "person_band_snapshot.json").write_text(json.dumps(snap))
+    return d, nodes
+
+
+def _band_report(d, nodes):
+    report = dp.PreflightReport("t", str(d))
+    dp.check_person_band_lock(report, d, nodes)
+    return report
+
+
+def _lock_p1(report):
+    return sorted(f.location for f in report.findings if f.check == "person_band_lock" and f.severity == "P1")
+
+
+def test_person_band_lock_snapshot_clean(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    assert _band_report(d, nodes).findings == []
+
+
+def test_person_band_lock_deleted_tombstone_and_reuse_fails(tmp_path):
+    """Transit baa2ed9 mutation E: delete legacy-N-161 from the ledger and mint a new person at N-161."""
+    d, nodes = _band_fixture(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    del data["retired"]["legacy-N-161"]
+    rpath.write_text(json.dumps(data))
+    nodes = dict(nodes, **{"N-161": {"canonical_name": "New Person", "type": "person"}})
+    p1 = _lock_p1(_band_report(d, nodes))
+    assert p1.count("N-161") == 2  # pinned tombstone removed + id not live in the snapshot
+
+
+def test_person_band_lock_deleted_tombstone_alone_fails(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    del data["retired"]["legacy-N-7"]
+    data["reserved_baseline_ids"]["ids"] = []
+    rpath.write_text(json.dumps(data))
+    assert _lock_p1(_band_report(d, nodes)) == ["N-7", "N-999"]
+
+
+def test_person_band_lock_missing_key_is_on(tmp_path):
+    """Transit baa2ed9 mutation G: remove the person_band_lock key and set next_person_id = 630."""
+    d, nodes = _band_fixture(tmp_path, gates={"dash_rule": {}})
+    npath = d / "canonical" / "nodes.json"
+    data = json.loads(npath.read_text())
+    data["next_person_id"] = 630
+    npath.write_text(json.dumps(data))
+    report = _band_report(d, nodes)
+    assert _lock_p1(report) == ["next_person_id"]
+    assert any(f.severity == "WARN" and f.check == "person_band_lock" for f in report.findings)
+
+
+def test_person_band_lock_disable_needs_cited_ruling(tmp_path):
+    d, nodes = _band_fixture(tmp_path, gates={"person_band_lock": {"enabled": False}})
+    nodes = dict(nodes, **{"N-1200": {"canonical_name": "High", "type": "person"}})
+    p1 = _lock_p1(_band_report(d, nodes))
+    assert "person_band_lock" in p1 and "N-1200" in p1
+    d2, nodes2 = _band_fixture(tmp_path / "lifted", gates={"person_band_lock": {"enabled": False, "lifted_by": "Daveed ruling (doc, date)"}})
+    assert _band_report(d2, nodes2).findings == []
+
+
+def test_person_band_lock_snapshot_missing_tampered_or_identity_change(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    spath = d / "config" / "person_band_snapshot.json"
+    snap = json.loads(spath.read_text())
+    snap["tombstoned"].remove("N-161")  # hand edit without a valid digest
+    spath.write_text(json.dumps(snap))
+    assert _lock_p1(_band_report(d, nodes)) == ["config/person_band_snapshot.json"]
+    spath.unlink()
+    assert _lock_p1(_band_report(d, nodes)) == ["config/person_band_snapshot.json"]
+    d2, nodes2 = _band_fixture(tmp_path / "ident")
+    nodes2 = dict(nodes2, **{"N-3": {"canonical_name": "Someone Else", "type": "person", "aliases": []}})
+    assert _lock_p1(_band_report(d2, nodes2)) == ["N-3"]
+    renamed = dict(nodes2, **{"N-3": {"canonical_name": "Person Three", "type": "person", "aliases": ["Person 3"]}})
+    assert _band_report(d2, renamed).findings == []
+
+
+def test_person_band_lock_retirement_is_append_only(tmp_path):
+    d, nodes = _band_fixture(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    data["retired"]["legacy-N-5"] = {"survives_as": None}
+    rpath.write_text(json.dumps(data))
+    nodes = {k: v for k, v in nodes.items() if k != "N-5"}
+    report = _band_report(d, nodes)
+    assert _lock_p1(report) == [] and [f.severity for f in report.findings] == ["P2"]  # stale snapshot
+    prev = json.loads((d / "config" / "person_band_snapshot.json").read_text())
+    snap, errors = dp.build_band_snapshot(d, nodes, prev)
+    assert errors == [] and snap["counts"] == {"live": 4, "tombstoned": 994, "reserved": 1, "total": 999}
+    del data["retired"]["legacy-N-6"]
+    rpath.write_text(json.dumps(data))
+    snap, errors = dp.build_band_snapshot(d, nodes, prev)
+    assert snap is None and any("N-6" in e for e in errors)
+
+
+def test_band_lock_malformed_config_fails_closed(tmp_path):
+    """G2: malformed preflight_gates.json / retired_node_ids.json give clean findings, never a traceback."""
+    d, nodes = _band_fixture(tmp_path)
+    (d / "config" / "preflight_gates.json").write_text("{not json")
+    (d / "config" / "retired_node_ids.json").write_text("{\"retired\": ")
+    report = _band_report(d, nodes)
+    p1 = _lock_p1(report)
+    assert "retired_node_ids.json" in p1 and p1.count("N-7") == 1  # lock stays on, pinned tombstones now missing
+    readable = dp.PreflightReport("t", str(d))
+    bad = dp.check_json_readable(readable, d)
+    assert bad == {"config/preflight_gates.json", "config/retired_node_ids.json"}
+    assert {f.severity for f in readable.findings} == {"P0"}
+
+
+def test_malformed_config_run_reports_p0_without_traceback(tmp_path):
+    root = tmp_path / "wave1_fixture"
+    dp.build_wave1_fixture(root)
+    (root / "config" / "preflight_gates.json").write_text("{broken")
+    (root / "config" / "retired_node_ids.json").write_text("[1, 2")
+    report = dp._run_fixture("test_mon_g2_pytest", root, skip_inscription=False)
+    locs = {f.location for f in report.findings if f.check == "config_unreadable" and f.severity == "P0"}
+    assert {"config/preflight_gates.json", "config/retired_node_ids.json"} <= locs
+
+
+def _cka_copy(tmp_path):
+    import shutil
+
+    d = tmp_path / "cka"
+    shutil.copytree(CKA_DIR / "config", d / "config")
+    shutil.copytree(CKA_DIR / "canonical", d / "canonical")
+    nodes = dp.load_canonical_nodes(d / "canonical" / "nodes.json")
+    return d, nodes
+
+
+def test_cka_band_lock_clean_and_snapshot_covers_999(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    snap = json.loads((d / "config" / "person_band_snapshot.json").read_text())
+    assert snap["counts"]["total"] == 999
+    assert _lock_p1(_band_report(d, nodes)) == []
+
+
+def test_cka_mutation_e_delete_tombstone_and_mint_fails(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    rpath = d / "config" / "retired_node_ids.json"
+    data = json.loads(rpath.read_text())
+    del data["retired"]["legacy-N-161"]
+    rpath.write_text(json.dumps(data))
+    nodes = dict(nodes, **{"N-161": {"canonical_name": "New Person", "type": "person"}})
+    assert _lock_p1(_band_report(d, nodes)).count("N-161") == 2
+
+
+def test_cka_mutation_g_remove_key_fails(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    gpath = d / "config" / "preflight_gates.json"
+    gates = json.loads(gpath.read_text())
+    del gates["person_band_lock"]
+    gpath.write_text(json.dumps(gates))
+    npath = d / "canonical" / "nodes.json"
+    data = json.loads(npath.read_text())
+    data["next_person_id"] = 630
+    npath.write_text(json.dumps(data))
+    assert _lock_p1(_band_report(d, nodes)) == ["next_person_id"]

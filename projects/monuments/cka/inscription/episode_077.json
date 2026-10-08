@@ -122,6 +122,25 @@
           "video_timestamp": "00:15:31",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1825.2",
+          "ref": "A-1825.2",
+          "description": "Host on-air tip request asking New York real-estate professionals to confirm Erika's license and sales (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3744"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1598"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
         }
       ]
     },
@@ -701,6 +720,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -776,6 +811,27 @@
       "claim_timestamp": "00:15:31",
       "investigative_direction": "Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.",
       "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3744",
+      "ref": "C-3744",
+      "label": "Host asks New York real-estate professionals for tips confirming Erika's license and sales",
+      "claim": "The host asks New York real-estate professionals to report what they can find, to confirm Erika's real-estate license and what she sold, and to send tips to candaceowens.com.",
+      "anchored_artifacts": [
+        "A-1825.2"
+      ],
+      "related_nodes": [
+        "N-1598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:31",
+      "investigative_direction": "Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-1598.",
+      "transcript_snippet": "If you can confirm Erika's real estate license and what she sold.",
+      "mentions_person_refs": [
+        "N-3",
         "N-2"
       ]
     },
@@ -935,9 +991,7 @@
       "tags": [],
       "claim_timestamp": "00:26:36",
       "investigative_direction": "Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles.",
-      "mentions_person_refs": [
-        "N-37"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1014,5 +1068,28 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 77,
+          "video_timestamp": "00:15:31",
+          "speaker_node_ref": "N-3",
+          "quote": "Please, uh we'd like to hear from you. More tips at candaceowens. com.",
+          "context": "DIA tip-line call: host asks viewers for tips on Erika's NY real-estate license (C-3744, A-1825.2).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_tip_line",
+            "transcript_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

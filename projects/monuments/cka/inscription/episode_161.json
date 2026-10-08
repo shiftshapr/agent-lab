@@ -1292,24 +1292,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
-      "name": "Bill Aman",
-      "type": "person",
-      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3680",
-        "C-3696"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
       "@id": "N-550",
       "ref": "N-550",
       "name": "Tulsi Gabbard",
@@ -1435,7 +1417,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-1320",
       "ref": "N-1320",
-      "name": "\"Mormon Mafia\" Allegation (Courtney Love Source)",
+      "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
       "related_artifacts": [],
@@ -1548,6 +1530,24 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3680",
+        "C-3696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1573,8 +1573,34 @@
         "N-3",
         "N-2",
         "N-42",
-        "N-476",
+        "N-66",
         "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3775",
+      "ref": "C-3775",
+      "label": "Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)",
+      "claim": "C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.",
+      "anchored_artifacts": [
+        "A-2497.1"
+      ],
+      "related_nodes": [
+        "N-2376"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:42",
+      "investigative_direction": "Read with C-3680; archive the boosting posts under the corrected spelling Bill Ackman.",
+      "transcript_snippet": "her thread was instantly boosted by the likes of Andrew Kovette and Bill Aman pretending to have casually stumbled upon it.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3680"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-42",
+        "N-447"
       ]
     },
     {
@@ -1949,10 +1975,35 @@
       "investigative_direction": "Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.",
       "mentions_person_refs": [
         "N-580",
-        "N-476",
+        "N-66",
         "N-102",
         "N-472",
         "N-581"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3776",
+      "ref": "C-3776",
+      "label": "Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)",
+      "claim": "C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-2378"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:30",
+      "investigative_direction": "Read with C-3696; confirm Bill Ackman's Howard Hughes board role from corporate filings.",
+      "transcript_snippet": "You had I told you Bill Aman who was on the board of Howard Hughes Inc. today.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3696"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-102"
       ]
     },
     {

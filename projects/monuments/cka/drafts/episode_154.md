@@ -808,4 +808,16 @@ Context: DIA / DCIA brand line from corrected transcript (CKA seq 154).
 Tags: tips_network, brand_joke, transcript_backfill
 Confidence: high
 
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 01:04:04
+Speaker: N-3
+Quote: I love the conspiracy girly muggy.
+Context: Wave 3 MemeLink backfill: Conspiracy Girly at 01:04:04 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
+

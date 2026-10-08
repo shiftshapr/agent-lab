@@ -629,6 +629,23 @@
       "mentions_person_refs": [
         "N-50"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3650",
+      "ref": "C-3650",
+      "label": "Host invokes decentralized intelligence (near-DIA framing)",
+      "claim": "The host uses near-DIA wording (\"decentralized intelligence\") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:14",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...cause that's what it's going to take. We have the decentralized intelligence. Um, Adra writes, \"Thank you for not giving up and showing no mercy to the elite. We support you. T...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

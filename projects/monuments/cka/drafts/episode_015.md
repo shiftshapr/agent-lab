@@ -14,6 +14,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-1228, N-1229, N-1230, N-1231, N-1232, N-1233
   - Reused Nodes Appearing: N-1, N-2, N-37
+  - Hole-minted Nodes (wave3): N-629
 
 ## 2. Executive Summary
 
@@ -24,6 +25,18 @@ The episode raises two primary investigative questions: (1) whether the official
 The episode also reasserts prior narrative threads (Charlie Kirk's Catholic trajectory, Hampton's meeting, the DoJ department memo) without displaying new artifacts for them; these are flagged as cross-episode references.
 
 ## 6. Meme Register
+
+**M-80** (meme) Jog Your Memory
+
+### Occurrence 1
+
+Video Timestamp: 00:09:29
+Speaker: N-3
+Quote: I'll jog your memory.
+Context: Reuse of Jog Your Memory (first introduced in episode 8 at 00:03:08).
+Tags: wave3, reuse
+Confidence: high
+
 
 **M-26** (meme) Gaslight
 
@@ -203,6 +216,12 @@ Description: Sermon titled "What has defiled you." Cites 2 Corinthians 7:1. Refe
 ---
 
 ## 4. Node Register
+
+**N-629** Dan Bongino
+
+First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.
+
+*Related: C-1373, A-1222.1*
 
 **N-42** Andrew Kolvet
 
@@ -415,7 +434,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-135, N-102
+Mentions: N-135, N-102, N-629
 
 Related Nodes: N-1232
 

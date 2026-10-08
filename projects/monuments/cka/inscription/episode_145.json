@@ -30,9 +30,7 @@
             "C-3328",
             "C-3329"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:13:27",
@@ -57,8 +55,6 @@
             "C-3327"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
             "N-1",
             "N-2"
           ],
@@ -276,115 +272,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Co-author with Arina Mappin of the October 6, 2025 article \"Candace Owens, Charlie Kirk, and the Pursuit of Truth\"; described by host as longtime Charlie Kirk associate who helped launch Turning Point USA financially.",
-      "related_artifacts": [
-        "A-2311.1"
-      ],
-      "related_claims": [
-        "C-3326",
-        "C-3327"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1",
-        "N-2"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Co-author with John Mappin of the October 6, 2025 article; described by host as having provided direct personal support during the year following Charlie Kirk's assassination.",
-      "related_artifacts": [
-        "A-2311.1"
-      ],
-      "related_claims": [
-        "C-3326",
-        "C-3327"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Filmmaker and Wayfarer Studios principal; subject of Lively v. Baldoni litigation; encountered by host at Iceland airport on layover from Sweden. Host describes him as a \"long-lost cousin.\"",
-      "related_artifacts": [
-        "A-2310.1"
-      ],
-      "related_claims": [
-        "C-3328",
-        "C-3329"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1214",
-        "N-1217"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
-      "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
-      "description": "Actor; husband of Blake Lively; alleged by host to have reshot Deadpool scenes to include the \"Nicepool\" character visually killing a character representing Justin Baldoni.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1214",
-        "N-1209"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
-      "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
-      "description": "Entertainer; alleged by host to be one of Blake Lively's \"dragons\" referenced in Lively's alleged statement \"I'm Khaleesi. I have a few dragons.\"",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1214"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2213",
       "ref": "N-2213",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
@@ -519,7 +406,7 @@
       "ref": "N-66",
       "name": "Bill Ackman",
       "type": "person",
-      "description": "Referenced in SAS/Tucker wealth-question and prior smear-amplification context.",
+      "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -953,7 +840,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:17:34",
-      "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings."
+      "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings.",
+      "mentions_person_refs": [
+        "N-774"
+      ]
     },
     {
       "@type": "Claim",

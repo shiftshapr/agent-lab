@@ -73,9 +73,7 @@
           "related_claims": [
             "C-2971"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -91,9 +89,7 @@
           "related_claims": [
             "C-2972"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -119,9 +115,7 @@
             "C-2974",
             "C-2975"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -146,8 +140,7 @@
             "C-2976"
           ],
           "related_nodes": [
-            "N-2095",
-            "N-1207"
+            "N-2095"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,9 +157,7 @@
           "related_claims": [
             "C-2977"
           ],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -218,7 +209,6 @@
             "C-2980"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2097"
           ],
           "tags": [],
@@ -315,9 +305,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -521,7 +509,7 @@
       "@type": "Person",
       "@id": "N-84",
       "ref": "N-84",
-      "name": "Lance Twigs",
+      "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [],
@@ -540,6 +528,22 @@
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-688",
+      "ref": "N-688",
+      "name": "Bradley Hansell",
+      "type": "person",
+      "description": "First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansel, Brad Hansel, Brad Hansell.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -776,7 +780,8 @@
       "claim_timestamp": "00:43:06–00:45:23",
       "investigative_direction": "Verify FOIA request submissions via the agencies' tracking portals and any responses.",
       "mentions_person_refs": [
-        "N-102"
+        "N-102",
+        "N-688"
       ]
     },
     {

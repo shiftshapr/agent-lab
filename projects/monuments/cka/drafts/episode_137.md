@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
   - Claim Range: C-3211–C-3221
   - New Nodes Introduced: N-2175, N-2176, N-2177, N-2178
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-810
   - Existing Nodes Reused: None in this episode beyond standard references
 
 ---
@@ -314,6 +314,7 @@ Claim Timestamp: 00:19:22
 Claim: During cross-examination, Officer Christopher Bagley testified that he did not review the police department video footage to determine whether anyone else had been on the rooftop between the suspect's jump and his own arrival.
 
 Anchored Artifacts: A-2242.1
+Mentions: N-810
 
 Related Nodes: N-2177
 
@@ -464,6 +465,15 @@ Context: Host elevates the phrase into a show-day motif and audience refrain.
 Tags: running_gag, show_theme
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:47:08
+Speaker: N-3
+Quote: She writes, "Yanking and banking my way through the school pickup to get home and watch the PGO." Love that.
+Context: Wave 3 MemeLink backfill: Yanking and Banking at 00:47:08 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 **M-12** (meme) Decentralized Intelligence Agency
@@ -488,6 +498,17 @@ Speaker: N-3
 Quote: Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency
 Context: Same merch beat names Candace Intelligence Agency hats.
 Tags: merch, brand_joke
+Confidence: high
+
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:52:11
+Speaker: N-3
+Quote: Remember that iron sharpens iron.
+Context: Wave 3 MemeLink backfill: Iron Sharpens Iron at 00:52:11 (audit missing_memelink).
+Tags: reuse, memelink_backfill
 Confidence: high
 
 ---

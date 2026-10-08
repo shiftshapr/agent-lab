@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2139, N-2140, N-2141, N-2142
-  - Reused Nodes Appearing: N-1, N-2, N-611
+  - Reused Nodes Appearing: N-1, N-2, N-611, N-777, N-808
   - (see registers)
 
 ## 2. Executive Summary
@@ -405,6 +405,7 @@ Claim Timestamp: 00:06:20
 Claim: The unidentified glove-like object is in the door compartment on the side of the vehicle the host associates with Rick Cutler's seating.
 
 Anchored Artifacts: A-2165.1
+Mentions: N-777
 
 Related Nodes: N-2139
 
@@ -479,7 +480,7 @@ Claim Timestamp: 00:18:17
 Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
-Mentions: N-611, N-5, N-272, N-224
+Mentions: N-611, N-5, N-272, N-224, N-808
 
 Related Nodes:
 
@@ -599,6 +600,7 @@ Claim Timestamp: 00:48:02
 Claim: A Charlie Kirk Show segment features Viva Frei explicitly invoking "Sandy Hook 2.0" as a comparison for current conspiracy theories around Kirk's death.
 
 Anchored Artifacts: A-2169.4
+Mentions: N-558
 
 Related Nodes: N-2140
 

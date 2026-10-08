@@ -17,7 +17,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
   - Claim Range: C-1267-C-1285, C-3728-C-3730
-  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-161, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
+  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
   - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079, N-1003
 
 ## 2. Executive Summary
@@ -136,7 +136,7 @@ Confidence: medium
 
 **A-2519.3** Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)
 Video Timestamp: 00:44:43–00:44:59
-*Related: C-3730, N-1, N-161*
+*Related: C-3730, N-1*
 Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
 Confidence: medium
 
@@ -353,17 +353,6 @@ Node Type: Person
 Listener who tipped unverified video of Tyler Robinson with a woman.
 
 *Related: A-1161.1, C-1278*
-
----
-
-**N-161** Recovery Recon (commenter)
-
-Node Type: Person
-Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.
-
-*Related: A-2519.3, C-3730*
-
-
 
 ---
 
@@ -875,7 +864,7 @@ Claim Timestamp: 00:44:43
 Claim: Viewer Recovery Recon, in a comment read on air, contrasts the FBI quickly posting ammunition and window photos after the Dallas ICE facility shooting with nothing comparable released for Charlie.
 Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
 Anchored Artifacts: A-2519.3
-Mentions: N-1, N-161
+Mentions: N-1
 Confidence: medium
 Investigative Direction: Compare FBI evidence releases in the Dallas ICE facility shooting and the Kirk case.
 

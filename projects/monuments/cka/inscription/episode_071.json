@@ -1189,5 +1189,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-22",
+      "ref": "M-22",
+      "canonical_term": "Why Are You Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 71,
+          "video_timestamp": "00:43:33",
+          "speaker_node_ref": "N-3",
+          "quote": "Why are you gay?",
+          "context": "Wave 3 MemeLink backfill: Why Are You Gay at 00:43:33 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

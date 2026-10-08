@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
-  - Reused Nodes Appearing: N-2
-  - (see registers)
+ - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
+ - Hole-minted Nodes (wave3): N-682, N-683
+ - Reused Nodes Appearing: N-2, N-630, N-3, N-424
+ - (see registers)
 
 # Episode 97 Analysis: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
 
@@ -403,6 +404,27 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
+**N-683** Josh Gottheimer
+
+First named by the host at 00:50:06 in episode 97.
+
+*Related: C-2828, C-2829, C-2830, C-2831, C-2832*
+
+**N-682** Mike Lawler
+
+First named by the host at 00:50:06 in episode 97.
+
+*Related: C-2828, C-2829, C-2830, C-2831, C-2832*
+
+**N-630** Josef Mengele
+
+Named by the host at 00:53:42 in episode 97; first introduced in episode 65.
+
+*Related: C-2828, C-2829, C-2830, C-2831, C-2832*
+
+
+
+
 **N-1** Charlie Kirk
 
 Subject of the broader investigation; pre-existing node from prior episodes.
@@ -572,6 +594,7 @@ Claim Timestamp: 00:09:16
 Claim: The lawsuit alleges Candace accused Harpole of failing to render effective aid with his medical bag and of lying about drone availability.
 
 Anchored Artifacts: A-2015.4
+Mentions: N-3, N-424
 
 Related Nodes: N-1720
 
@@ -778,7 +801,7 @@ Claim Timestamp: 00:50:32
 Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartisan House resolution condemning Candace Owens, among others.
 
 Anchored Artifacts: A-2023.1, A-2024.1
-Mentions: N-3
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -793,7 +816,7 @@ Claim Timestamp: 00:52:10
 Claim: The resolution text characterizes Candace's rhetoric as accusing Israel of controlling the US government.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -808,7 +831,7 @@ Claim Timestamp: 00:52:50
 Claim: The resolution text asserts Candace made an anti-Semitic claim that the United States is controlled by satanic pedophiles who work for Israel.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -823,7 +846,7 @@ Claim Timestamp: 00:53:42
 Claim: The resolution text references Candace's July 2024 commentary regarding Josef Mengele and "bizarre propaganda" following the Holocaust.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -838,7 +861,7 @@ Claim Timestamp: 00:55:26
 Claim: The official Auschwitz-Birkenau Memorial podcast acknowledged that myths arose around Mengele, including the "sewing twins together" legend that did not occur.
 
 Anchored Artifacts: A-2022.1
-Mentions: N-3
+Mentions: N-3, N-683, N-682, N-630
 
 Related Nodes: N-1723
 
@@ -864,7 +887,7 @@ Investigative Direction: Verify the post's date, persistence, and any replies or
 
 - **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpold" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
 - **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
-- **Name uncertainty – Matt Slauson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes (former local id 1208, former local id 1229) pending verification of whether they refer to the same individual.
+- **Name uncertainty – Matt Slauson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.
 - **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-1724).
 - **Timestamp estimation:** Some artifact timestamps were approximated where the host transitions between quoted passages without discrete visual cues.
 - **Transcript ambiguity – "the morning of September 9":** Harpole's alleged Fort Huachuca presence is repeatedly dated to "the morning of September 9" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.

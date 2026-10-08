@@ -619,6 +619,25 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-629",
+      "ref": "N-629",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.",
+      "related_artifacts": [
+        "A-1222.1"
+      ],
+      "related_claims": [
+        "C-1373"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -779,7 +798,8 @@
       "investigative_direction": "Verify quote against the original WSJ article.",
       "mentions_person_refs": [
         "N-135",
-        "N-102"
+        "N-102",
+        "N-629"
       ]
     },
     {
@@ -899,5 +919,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:09:29",
+          "speaker_node_ref": "N-3",
+          "quote": "I'll jog your memory.",
+          "context": "Reuse of Jog Your Memory (first introduced in episode 8 at 00:03:08).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -330,9 +330,33 @@
           ],
           "tags": [],
           "video_timestamp": "00:03:05–00:03:46",
-          "transcript_snippet": "Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.",
+          "transcript_snippet": "Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.",
           "confidence": "medium",
           "uncertainty_note": "Essay referenced verbally with word count but not displayed in episode."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2486",
+      "family_ref": "A-2486",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2486.1",
+          "ref": "A-2486.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3642"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "00:45:24",
+          "transcript_snippet": "...vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported by Laura Loomer. Um, bey...",
+          "confidence": "medium"
         }
       ]
     },
@@ -502,25 +526,6 @@
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
-      "related_artifacts": [
-        "A-1167.1"
-      ],
-      "related_claims": [
-        "C-1294"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
-      "name": "Lance Robinson",
-      "type": "person",
-      "description": "Father of Tyler Robinson; host notes his house was raided and no further updates have been provided by federal authorities.",
       "related_artifacts": [
         "A-1167.1"
       ],
@@ -1522,8 +1527,7 @@
       "confidence": "low",
       "uncertainty_note": "Tip-based; underlying footage not presented in this episode.",
       "mentions_person_refs": [
-        "N-69",
-        "N-165"
+        "N-69"
       ]
     },
     {
@@ -1541,12 +1545,37 @@
       "tags": [],
       "claim_timestamp": "00:03:05",
       "investigative_direction": "Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.",
-      "transcript_snippet": "Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.",
+      "transcript_snippet": "Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.",
       "confidence": "medium",
       "uncertainty_note": "Essay not displayed in this episode; word count and characterization are host assertions.",
       "mentions_person_refs": [
         "N-3",
         "N-66"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3773",
+      "ref": "C-3773",
+      "label": "Bill Ackman is the person C-1295 calls 'Bill Aman' (revises C-1295)",
+      "claim": "C-1295 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.",
+      "anchored_artifacts": [
+        "A-1170.1"
+      ],
+      "related_nodes": [
+        "N-1200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:05",
+      "investigative_direction": "Read with C-1295; obtain the 959-word essay under the corrected spelling Bill Ackman.",
+      "transcript_snippet": "And Bill Ackman replies with an essay, college essay.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-1295"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-3"
       ]
     },
     {
@@ -1568,6 +1597,25 @@
         "N-65",
         "N-73",
         "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3642",
+      "ref": "C-3642",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2486.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:24",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported by Laura Loomer. Um, bey...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
       ]
     },
     {

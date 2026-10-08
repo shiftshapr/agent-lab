@@ -748,6 +748,19 @@ Investigative Direction: Verify Posobiec's naval intelligence service record and
 
 ## 6. Meme Register
 
+
+**M-79** (meme) Pass the Sniff Test
+
+### Occurrence 1
+
+Video Timestamp: 00:11:53
+Speaker: N-3
+Quote: And this particular statement to me does not pass the sniff test.
+Context: Wave 3 mint – first transcript introduction. Host judgment that a claim smells wrong / fails basic plausibility
+Tags: wave3
+Confidence: high
+
+
 **M-1** (meme) Grieving Widow
 
 ### Occurrence 1

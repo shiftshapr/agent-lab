@@ -678,6 +678,23 @@
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:03",
       "investigative_direction": "Verify the GoFundMe campaign directly; identify the eight named beneficiaries; confirm termination circumstances for each."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3662",
+      "ref": "C-3662",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:26",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "..., you guys were strong. So I want to say that the decentralized intelligence agency has brought us to this moment. This was not the work of me. It was the work of everybody....",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []

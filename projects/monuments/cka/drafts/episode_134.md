@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a
 
 - **Episode Ledger Summary**:
-  - (see registers)
+ - (see registers)
 
 ## I. Meta-Data
 
@@ -25,11 +25,11 @@
 - Analyst / agent name: Investigative Analysis Agent
 - Analysis date: 2026-07-30
 - Ledger continuation summary:
-  - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
-  - Claim Range: C-3162–C-3174
-  - New Nodes Introduced: N-2158, N-2159, N-2160, N-2161, N-2162, N-2163
-  - Reused Nodes Appearing: N-2
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
+ - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
+ - Claim Range: C-3162–C-3174
+ - New Nodes Introduced: N-2158, N-2159, N-2160, N-2161, N-2162, N-2163
+ - Reused Nodes Appearing: N-2
+ - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -513,7 +513,7 @@ Investigative Direction: Verify by contacting the viewer with consent; tangentia
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-2159) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-1207..former local id 1210 never denoted these people.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-1207.. never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

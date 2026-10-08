@@ -517,7 +517,7 @@
         "N-1438"
       ],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:19:30",
       "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.",
       "mentions_person_refs": [
         "N-597"
@@ -685,5 +685,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 49,
+          "video_timestamp": "00:13:59",
+          "speaker_node_ref": "N-3",
+          "quote": "Uh I'm going to say allegedly allegedly allegedly here.",
+          "context": "Reuse of I'll Say Allegedly (first introduced in episode 3 at 00:30:02).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -125,11 +125,9 @@
             "C-3424"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1209",
             "N-1",
-            "N-3"
+            "N-3",
+            "N-217"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -437,84 +435,6 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Co-author of open letter (A-2352.1); characterized by host as a \"real friend\" of Charlie.",
-      "related_artifacts": [
-        "A-2352.1"
-      ],
-      "related_claims": [
-        "C-3407",
-        "C-3408",
-        "C-3424"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Co-author of open letter (A-2352.1); characterized by host as a \"real friend\" of Charlie.",
-      "related_artifacts": [
-        "A-2352.1"
-      ],
-      "related_claims": [
-        "C-3407",
-        "C-3408",
-        "C-3424"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Co-author of open letter (A-2352.1); native Russian speaker who reported an unusually high number of Russian-speaking attendees at Charlie's Arizona memorial. Relationship to Mappins not clarified in episode – flag name uncertainty.",
-      "related_artifacts": [
-        "A-2352.1"
-      ],
-      "related_claims": [
-        "C-3407"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
-      "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
-      "description": "Priest/spiritual advisor to host; present with her in Wyoming in mid-October; confirmed Charlie's death to her. Role identity based on host's phrase \"my priest tells me\" – partial identification only.",
-      "related_artifacts": [
-        "A-2351.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
@@ -609,6 +529,21 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -647,7 +582,8 @@
       "claim_timestamp": "00:06:08",
       "investigative_direction": "Locate original publication of the open letter and verify signatures.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-217"
       ]
     },
     {
@@ -694,14 +630,13 @@
       "anchored_artifacts": [
         "A-2354.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:55",
       "investigative_direction": "Verify text record; cross-reference against any public statement from Kanye.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-56"
       ]
     },
     {
@@ -713,14 +648,13 @@
       "anchored_artifacts": [
         "A-2354.2"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-56"
       ]
     },
     {
@@ -732,14 +666,13 @@
       "anchored_artifacts": [
         "A-2355.1"
       ],
-      "related_nodes": [
-        "N-1212"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Locate the original tweet via archive. *Artifact verbally referenced but not shown in episode.*",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-5"
       ]
     },
     {
@@ -751,10 +684,7 @@
       "anchored_artifacts": [
         "A-2360.1"
       ],
-      "related_nodes": [
-        "N-1211",
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:15–00:26:04",
       "investigative_direction": "Confirm concert date and Kid Cudi's set via tour documentation.",
@@ -809,14 +739,13 @@
       "anchored_artifacts": [
         "A-2351.1"
       ],
-      "related_nodes": [
-        "N-1214"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:59–00:05:08",
       "investigative_direction": "Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-133"
       ]
     },
     {
@@ -833,7 +762,8 @@
       "claim_timestamp": "00:09:50",
       "investigative_direction": "Verify medical or insurance records if relevant to investigation.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -866,7 +796,8 @@
       "claim_timestamp": "00:21:38",
       "investigative_direction": "Not investigationally material; recorded for biographical record.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -878,15 +809,14 @@
       "anchored_artifacts": [
         "A-2351.1"
       ],
-      "related_nodes": [
-        "N-1215"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:08",
       "investigative_direction": "Verify speaker list and video documentation of memorial event.",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-182"
       ]
     },
     {
@@ -916,12 +846,13 @@
       "anchored_artifacts": [
         "A-2360.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:25:15",
-      "investigative_direction": "Confirm via Ye tour itinerary and prior concert dates."
+      "investigative_direction": "Confirm via Ye tour itinerary and prior concert dates.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -932,13 +863,13 @@
       "anchored_artifacts": [
         "A-2360.1"
       ],
-      "related_nodes": [
-        "N-1211",
-        "N-1213"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:26:04",
-      "investigative_direction": "Confirm via public reporting."
+      "investigative_direction": "Confirm via public reporting.",
+      "mentions_person_refs": [
+        "N-56"
+      ]
     },
     {
       "@type": "Claim",
@@ -967,12 +898,13 @@
         "A-2357.1",
         "A-2358.1"
       ],
-      "related_nodes": [
-        "N-1211"
-      ],
+      "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:46",
-      "investigative_direction": "Verify with the named team or any documentation of the meeting. *Possible transcription error: \"Ace team\" identity unclear.*"
+      "investigative_direction": "Verify with the named team or any documentation of the meeting. *Possible transcription error: \"Ace team\" identity unclear.*",
+      "mentions_person_refs": [
+        "N-56"
+      ]
     }
   ],
   "memes": []

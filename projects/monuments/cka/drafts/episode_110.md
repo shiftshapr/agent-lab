@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
+  - Hole-minted Nodes (wave3): N-688, N-689, N-709
   - Reused Nodes Appearing: N-57
   - (see registers)
 
@@ -204,6 +205,27 @@ Confidence Level: Low (host acknowledges no independent confirmation)
 
 ## IV. Node Register
 
+**N-688** Bradley Hansell
+
+First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansel, Brad Hansel, Brad Hansell.
+
+*Related: C-2909, C-2910, C-2911, C-2912, C-2913, A-2076.1, A-2079.1*
+
+**N-689** Christoph Schweizer
+
+First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.
+
+*Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
+
+**N-709** Leola Anderson
+
+First named by the host at 00:37:13 in episode 110.
+
+*Related: C-2925, C-2926*
+
+
+
+
 **N-2066** Boston Consulting Group Government Pipeline
 
 Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity ("who are they consulting for?").
@@ -326,6 +348,7 @@ Claim Timestamp: 00:13:30
 Claim: Per the Department of War website, Bradley Hansel exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.
 
 Anchored Artifacts: A-2079.1
+Mentions: N-688
 
 Related Nodes: N-2066
 
@@ -340,6 +363,7 @@ Claim Timestamp: 00:13:30
 Claim: Per host, Hansel was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.
 
 Anchored Artifacts: A-2076.2, A-2079.1
+Mentions: N-688
 
 Related Nodes:
 
@@ -354,6 +378,7 @@ Claim Timestamp: 00:13:45
 Claim: Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansel went to work for the Boston Consulting Group.
 
 Anchored Artifacts: A-2079.1
+Mentions: N-688
 
 Related Nodes:
 
@@ -368,6 +393,7 @@ Claim Timestamp: 00:14:00
 Claim: Per host, Hansel was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.
 
 Anchored Artifacts: A-2079.1
+Mentions: N-688
 
 Related Nodes: N-2066
 
@@ -382,6 +408,7 @@ Claim Timestamp: 00:14:10
 Claim: Per host, Hansel worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).
 
 Anchored Artifacts: A-2076.1, A-2079.1
+Mentions: N-688
 
 Related Nodes: N-2066
 
@@ -466,6 +493,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG dismissed two partners and launched an external audit in July 2025 after the Financial Times story.
 
 Anchored Artifacts: A-2077.1
+Mentions: N-689
 
 Related Nodes: N-2067
 
@@ -480,6 +508,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as "reputationally very damaging."
 
 Anchored Artifacts: A-2077.1
+Mentions: N-689
 
 Related Nodes: N-2067
 
@@ -494,7 +523,7 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
-Mentions: N-696
+Mentions: N-696, N-689
 
 Related Nodes: N-2068
 
@@ -509,6 +538,7 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake Wood quit prior to BCG's withdrawal from the project.
 
 Anchored Artifacts: A-2078.1
+Mentions: N-689
 
 Related Nodes: N-2068
 
@@ -523,6 +553,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host, BCG helped develop the logistics, the organizational structure, and the pricing for paying and equipping private security contractors to operate the food distribution hubs in Gaza for the GHF.
 
 Anchored Artifacts: A-2076.1, A-2077.1
+Mentions: N-689
 
 Related Nodes: N-2068
 
@@ -551,7 +582,7 @@ Claim Timestamp: 00:37:50
 Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-57
+Mentions: N-57, N-709
 
 Related Nodes:
 
@@ -566,6 +597,7 @@ Claim Timestamp: 00:39:00
 Claim: Per NYT article, the driver of the car that struck Romney's was a 46-year-old man, Albert Marie, a Catholic priest.
 
 Anchored Artifacts: A-2081.1
+Mentions: N-709
 
 Related Nodes:
 
@@ -655,6 +687,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, Orbis – a Washington-area security contractor – initially engaged BCG to help with a feasibility study for a new aid project.
 
 Anchored Artifacts: A-2076.1
+Mentions: N-689
 
 Related Nodes: N-2068
 
@@ -683,6 +716,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Riley, an ex-CIA operative who worked for Orbis.
 
 Anchored Artifacts: A-2076.1
+Mentions: N-689
 
 Related Nodes: N-2068
 

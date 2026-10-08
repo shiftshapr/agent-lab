@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave3): N-630
 
 ---
 
@@ -202,7 +203,7 @@ Video Timestamp: 00:08:54–01:21:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced but not shown in this episode)
 
-Description: Referenced previous episode featuring USS Liberty survivor Phil Turney. Per viewer comment A-1694.2, the interview received approximately 7 million views.
+Description: Referenced previous episode featuring USS Liberty survivor Phil Turney. Host notes at 01:21:47 that the interview received approximately 7 million views.
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -260,7 +261,7 @@ Description: Referenced by host. Claims Auschwitz Museum revised story about Jos
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-1525, N-1536*
+*Related: N-1525, N-1536, N-630*
 
 ---
 
@@ -334,6 +335,13 @@ Description: Referenced video in which, per Youssef, Hamas officials narrate the
 
 ## IV. Node Register
 
+
+
+**N-630** Josef Mengele
+
+First named at 00:38:13 in episode 65 (A-1699.1). Aliases: Joseph Mengele.
+
+*Related: A-1699.1*
 
 **N-798** Bassem Youssef
 
@@ -597,7 +605,7 @@ Investigative Pressure: Low
 
 **N-1535** Candace Phil Turney Interview View Count
 
-Approximately 7 million views cited by host, partially corroborated by Project Constitution viewer comment.
+Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).
 
 Evidence Count: 2
 Claim Count: 1

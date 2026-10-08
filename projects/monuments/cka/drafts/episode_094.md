@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1698, N-1699, N-1700, N-1701, N-1702, N-1703, N-1704, N-1705, N-1706, N-1707, N-1708, N-1709, N-1710, N-1711
+  - Hole-minted Nodes (wave3): N-680, N-681
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -342,6 +343,19 @@ Confidence Level: Low – Artifact verbally referenced but not shown
 
 ## 4. Node Register
 
+**N-680** Richard Novak
+
+First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.
+
+*Related: C-2767*
+
+**N-681** Alan Jacoby
+
+First named by the host at 00:41:44 in episode 94.
+
+*Related: C-2779*
+
+
 **N-1698** Defense Access to Tyler Robinson Phone Data
 
 Persistent defense claim that they have not been able to access their client's phone or its contents.
@@ -578,6 +592,7 @@ Claim Timestamp: 00:10:02
 Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.
 
 Anchored Artifacts: A-1994.1
+Mentions: N-680
 
 Related Nodes: N-1698, N-1699
 
@@ -753,7 +768,7 @@ Claim Timestamp: 00:41:44
 Claim: Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.
 
 Anchored Artifacts: A-1998.1
-Mentions: N-91
+Mentions: N-91, N-681
 
 Related Nodes: N-1704
 
@@ -909,4 +924,6 @@ Related Nodes: N-1701
 Investigative Direction: Retrieve the Utah state court filing directly via docket search.
 
 ---
+
+
 

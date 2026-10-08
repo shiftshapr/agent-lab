@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1642, N-1644, N-1645, N-1646, N-1647
-  - Reused Nodes Appearing: N-1151
+  - Reused Nodes Appearing: N-1151, N-1
   - (see registers)
 
 ## I. Meta-Data
@@ -30,7 +30,7 @@
 
 ### Episode 86 Ledger Summary
 - Artifact Families Introduced: A-1912, A-1913, A-1914, A-1915, A-1916
-- Claim Range: C-2609–C-2625
+- Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-1642, N-1644, N-1645, N-1646
 - Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolb, Dr. Lee Trotter, Justin Strife, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
@@ -462,6 +462,21 @@ Mentions: N-42
 Related Nodes: N-1151
 
 Investigative Direction: Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.
+
+---
+
+**C-3750** Host says the scene was paved over quickly to protect the pass-through narrative
+
+Claim Timestamp: 00:06:19
+
+Claim: The host says she believes the shooting scene was paved over so quickly because the narrative was supposed to be that the .30-06 round passed through Charlie Kirk, which she says it did not.
+
+Transcript Snippet: And I believe that that is the true reason why they moved to pave over the scene so quickly because that was supposed to be the narrative.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: 
+Investigative Direction: Obtain the timeline and work orders for the repaving of the scene; compare against the ballistic findings on whether the round exited.
 
 ---
 

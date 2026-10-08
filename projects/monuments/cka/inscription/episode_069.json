@@ -663,7 +663,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:18",
-      "investigative_direction": "Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text."
+      "investigative_direction": "Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.",
+      "mentions_person_refs": [
+        "N-35",
+        "N-897"
+      ]
     },
     {
       "@type": "Claim",
@@ -677,7 +681,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:55",
-      "investigative_direction": "Identify the redacted recipient \"Sultan\" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain."
+      "investigative_direction": "Identify the redacted recipient \"Sultan\" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -711,7 +718,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:17",
-      "investigative_direction": "Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility."
+      "investigative_direction": "Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.",
+      "mentions_person_refs": [
+        "N-885"
+      ]
     },
     {
       "@type": "Claim",
@@ -722,10 +732,16 @@
       "anchored_artifacts": [
         "A-1740.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1561"
+      ],
       "tags": [],
       "claim_timestamp": "00:15:37",
-      "investigative_direction": "Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer."
+      "investigative_direction": "Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.",
+      "mentions_person_refs": [
+        "N-892",
+        "N-893"
+      ]
     },
     {
       "@type": "Claim",
@@ -736,10 +752,15 @@
       "anchored_artifacts": [
         "A-1740.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1561"
+      ],
       "tags": [],
       "claim_timestamp": "00:15:55",
-      "investigative_direction": "Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements."
+      "investigative_direction": "Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.",
+      "mentions_person_refs": [
+        "N-893"
+      ]
     },
     {
       "@type": "Claim",
@@ -750,10 +771,16 @@
       "anchored_artifacts": [
         "A-1741.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1556"
+      ],
       "tags": [],
       "claim_timestamp": "00:27:48",
-      "investigative_direction": "Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence."
+      "investigative_direction": "Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-890"
+      ]
     },
     {
       "@type": "Claim",
@@ -767,7 +794,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:05",
-      "investigative_direction": "Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business."
+      "investigative_direction": "Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-890"
+      ]
     },
     {
       "@type": "Claim",
@@ -799,7 +830,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:50",
-      "investigative_direction": "Trace the historical origins of the \"passport in mint condition\" claim and its media treatment; assess the rhetorical parallel independently."
+      "investigative_direction": "Trace the historical origins of the \"passport in mint condition\" claim and its media treatment; assess the rhetorical parallel independently.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
@@ -813,7 +848,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:25",
-      "investigative_direction": "Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions."
+      "investigative_direction": "Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions.",
+      "mentions_person_refs": [
+        "N-35"
+      ]
     },
     {
       "@type": "Claim",
@@ -827,7 +865,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:55",
-      "investigative_direction": "Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing."
+      "investigative_direction": "Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.",
+      "mentions_person_refs": [
+        "N-80"
+      ]
     },
     {
       "@type": "Claim",
@@ -841,7 +882,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:16",
-      "investigative_direction": "Identify the production-staff role, if any, of \"Benjamin\" referenced by host; resolve the Ben / Benjamin discrepancy."
+      "investigative_direction": "Identify the production-staff role, if any, of \"Benjamin\" referenced by host; resolve the Ben / Benjamin discrepancy.",
+      "mentions_person_refs": [
+        "N-902"
+      ]
     },
     {
       "@type": "Claim",
@@ -852,10 +896,15 @@
       "anchored_artifacts": [
         "A-1743.5"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1562"
+      ],
       "tags": [],
       "claim_timestamp": "00:39:30",
-      "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis."
+      "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.",
+      "mentions_person_refs": [
+        "N-885"
+      ]
     },
     {
       "@type": "Claim",
@@ -869,7 +918,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:50",
-      "investigative_direction": "This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment."
+      "investigative_direction": "This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.",
+      "mentions_person_refs": [
+        "N-80"
+      ]
     },
     {
       "@type": "Claim",
@@ -884,7 +936,10 @@
       "tags": [],
       "claim_timestamp": "00:40:23",
       "investigative_direction": "Document the convergence of host and viewer framing; assess whether \"Babylonian ascension\" originates with Robkea, Flynn, or earlier esoteric sources.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-885"
+      ]
     }
   ],
   "memes": []

@@ -261,7 +261,7 @@ Accused shooter of Charlie Kirk; subject of FBI-released text chain
 
 ---
 
-**N-84** Lance Twigs
+**N-84** Lance Twiggs
 
 Node Type: Person
 Robinson's partner; recipient of FBI-released text chain
@@ -764,6 +764,23 @@ Investigative Direction: Obtain full PBD segment and verify exact quote against 
 
 ---
 
+**C-3772** The "bring receipts" line C-1212 attributes to Bill Aman is the PBD guest's; the guest cites Bill Ackman as having brought receipts
+
+Claim Timestamp: 00:25:49
+
+Claim: In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going "down the tubes because she needs to bring receipts" is spoken by the PBD guest, who goes straight on to say Bill Ackman "brought receipts" and refers to him in the third person ("I think he was there in the room"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to "Bill Aman" (Bill Ackman, N-66) is contradicted.
+
+Transcript Snippet: Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room.
+
+Anchored Artifacts: A-1125.1
+Mentions: N-66, N-3, N-88
+Contradicts: C-1212
+Confidence: medium
+Uncertainty: The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.
+Investigative Direction: Read with C-1212; identify the PBD guest from the full segment.
+
+---
+
 **C-1213** Andrew Kovit claims last saw Candace at TPUSA in 2015/2016
 
 Claim Timestamp: 00:25:57
@@ -988,6 +1005,19 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 
 ## 6. Meme Register
+
+
+**M-78** (meme) Silence Is Not Kindness
+
+### Occurrence 1
+
+Video Timestamp: 00:21:51
+Speaker: N-3
+Quote: I'm not going to water down what I believe to be palatable because silence is not kindness at all.
+Context: Wave 3 mint – first transcript introduction. Host moral framing that withholding truth is not merciful
+Tags: wave3
+Confidence: high
+
 
 **M-12** (meme) Decentralized Intelligence Agency
 

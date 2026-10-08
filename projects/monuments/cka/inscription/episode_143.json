@@ -153,7 +153,6 @@
             "C-3309"
           ],
           "related_nodes": [
-            "N-1207",
             "N-176",
             "N-1",
             "N-69"
@@ -183,7 +182,6 @@
           ],
           "related_nodes": [
             "N-224",
-            "N-1207",
             "N-176"
           ],
           "tags": [],
@@ -210,7 +208,6 @@
             "C-3311"
           ],
           "related_nodes": [
-            "N-1208",
             "N-69"
           ],
           "tags": [],
@@ -325,46 +322,6 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Streamer whose favorable commentary on Candace Owens (A-2297) and whose mention by Blake Neff (A-2298) are central to this episode's \"left-coordination\" framing discussion.",
-      "related_artifacts": [
-        "A-2297.1",
-        "A-2298.1"
-      ],
-      "related_claims": [
-        "C-3309",
-        "C-3310"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Parody-content account whose Matrix-style video on the Tyler Robinson case is played in full (A-2299).",
-      "related_artifacts": [
-        "A-2299.1"
-      ],
-      "related_claims": [
-        "C-3311"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
     },
     {
       "@type": "InvestigationTarget",

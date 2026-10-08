@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated": "2026-10-08T04:18:27Z",
+  "updated": "2026-10-08",
   "description": "CKA tombstone ledger, rebuilt in Wave 1 from CKA history: Batch 1 remap entries that differ from BoC, PR47-PR51 and PR48 collapses, and Wave 1 moves. Verbatim Bride of Charlie copies were removed. Keys legacy-N-X are enforced by dia_preflight (X may not be cited unless active); wave1-N-X keys document a second event on an id that already has a legacy key. Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-1001": {
@@ -1401,7 +1401,7 @@
     "legacy-N-997": {
       "survives_as": "N-628",
       "canonical_name": "Emmanuel Macron",
-      "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron)."
+      "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron); survives as N-628 after Wave 2.1 renumber of N-898."
     },
     "legacy-N-999": {
       "survives_as": "N-339",
@@ -2442,15 +2442,63 @@
       "survives_as": "N-628",
       "canonical_name": "Emmanuel Macron",
       "reason": "Wave 2.1 (PR 60 full adversarial P0): Reused in ep38 but listed New in ep69. Introduced at his first appearance (ep38) as a hole mint at the lowest free person id N-628; N-898 tombstoned and not reused."
+    },
+    "legacy-N-525": {
+      "survives_as": "N-2393",
+      "canonical_name": "Root Brands",
+      "reason": "Wave 3: company typed as person in the person band; tip-minted to org band as N-2393 at ep44."
+    },
+    "legacy-N-797": {
+      "survives_as": "N-410",
+      "canonical_name": "Teo Farnsworth",
+      "reason": "Wave 3 Farnsworth ASR collapse: Teo Farnsworth is the same AV/SD-card operator as Terrell Farnsworth (N-410)."
+    },
+    "legacy-N-476": {
+      "survives_as": "N-66",
+      "canonical_name": "Bill Aman",
+      "reason": "Wave 3: \"Bill Aman\" is the auto-caption form of Bill Ackman (transcripts_corrected read \"Bill Ackman\" at the same beats, e.g. ep2 [15:24], ep3 [50:24], ep10 [25:04]); one person, one N-id, so N-476 collapses onto N-66 with \"Bill Aman\" kept as an alias."
+    },
+    "legacy-N-952": {
+      "survives_as": "N-916",
+      "canonical_name": "Linda Rothschild",
+      "reason": "Wave 3 Transit re-audit of b558034: ep72 [26:41] \"Lynn Forester, aka Lindy Rothschild … Corcoran Group Inc. President\" and ep76 [27:39] \"the president of the Corcoran Group is actually Linda Rothschild\" are the same woman in the same Epstein-document thread; one person, one N-id, so N-952 collapses onto N-916 (earlier intro, ep72) with \"Linda Rothschild\" and \"Lindy Rothschild\" kept as aliases. Tombstone: not reused while the person band lock is in force (pending Daveed)."
+    },
+    "legacy-N-161": {
+      "survives_as": null,
+      "canonical_name": "Recovery Recon (commenter)",
+      "reason": "Wave 3 Transit re-audit of b558034 (main-tip debt): viewer handle read on air (ep9 [44:43], C-3730 / A-2519.3) minted as a person; the no-viewer-persons lock bars it, so it is retired without survivor. C-3730 keeps its investigative beat (FBI evidence-release comparison) with the N-161 Mention and A-2519.3 Related ref removed. Tombstone: not reused while the person band lock is in force (pending Daveed)."
+    },
+    "legacy-N-165": {
+      "survives_as": null,
+      "canonical_name": "Lance Robinson",
+      "reason": "Wave 3 Transit re-audit of baa2ed9 (main-tip debt): junk person mint. Its register text (\"Father of Tyler Robinson; host notes his house was raided\") misreads ep10 [11:32] \"the raid that took place of Lance's house where Tyler Robinson was living\" – that is Lance Twiggs (N-84) – and ep10 never mentions Tyler Robinson's father. Its only refs (C-1294 Mentions, the C-1294 / A-1167.1 register Related) are the doorbell-footage tip, which names neither Lance nor the father, so they are dropped and there is no survivor. No \"Lance Robinson\" alias is kept; not repointed to Matt Robinson (no person node; DEFER). Tombstone: not reused while the person band lock is in force (pending Daveed)."
     }
   },
   "reserved_baseline_ids": {
-    "description": "episode_000 baseline ids that count as occupied in the person band. They are reserved (never reclaimed as holes) and are not tombstones. Wave 2 removed ep96 junk rows that misused N-27, N-28, N-32 and N-33; the ids stay reserved baseline ids.",
+    "description": "episode_000 baseline ids that count as occupied in the person band. They are reserved (never reclaimed as holes) and are not tombstones. Wave 2 removed ep96 junk rows that misused N-27, N-28, N-32 and N-33; the ids stay reserved baseline ids. Wave 3 lists the remaining unoccupied baseline ids N-17, N-20, N-22, N-31, N-38 and N-55 here too, so every reserved id carries a reason.",
     "ids": [
+      "N-17",
+      "N-20",
+      "N-22",
       "N-27",
       "N-28",
+      "N-31",
       "N-32",
-      "N-33"
-    ]
+      "N-33",
+      "N-38",
+      "N-55"
+    ],
+    "reasons": {
+      "N-17": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-20": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-22": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-27": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-28": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-31": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-32": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-33": "episode_000 baseline id; Wave 2 removed ep96 junk rows that misused it; stays reserved",
+      "N-38": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)",
+      "N-55": "listed on the episode_000 baseline New Nodes ledger (BoC Batch 1 remap) but has no register row, canonical node or tombstone; preflight counts episode_000 ids as occupied, so the id is reserved rather than reclaimed (inherited from Wave 2; Wave 3 hole reclaim therefore starts at N-629)"
+    }
   }
 }

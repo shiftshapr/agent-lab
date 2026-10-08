@@ -1282,7 +1282,7 @@ episode,claim,person,name,action,matched_text,evidence
 10,C-1295,N-476,Bill Aman,held_not_in_transcript,Bill Aman,name in claim text but neither name nor surname found in the episode transcript
 13,C-1345,N-169,Elon Musk,held_not_in_transcript,Elon Musk,name in claim text but neither name nor surname found in the episode transcript
 36,C-1767,N-66,Bill Ackman,held_not_in_transcript,Bill Ackman,name in claim text but neither name nor surname found in the episode transcript
-40,C-1830,N-898,Emmanuel Macron,held_not_in_transcript,Emmanuel Macron,name in claim text but neither name nor surname found in the episode transcript
+40,C-1830,N-628,Emmanuel Macron,held_not_in_transcript,Emmanuel Macron,name in claim text but neither name nor surname found in the episode transcript
 52,C-2008,N-599,Mark Amodei,held_not_in_transcript,Mark Amodei,name in claim text but neither name nor surname found in the episode transcript
 137,C-3217,N-374,Mark Levin,held_not_in_transcript,Mark Levin,name in claim text but neither name nor surname found in the episode transcript
 139,C-3255,N-133,Ben Shapiro,held_not_in_transcript,Ben Shapiro,name in claim text but neither name nor surname found in the episode transcript

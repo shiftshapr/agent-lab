@@ -858,7 +858,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
-      "investigative_direction": "Identify the specific published list and each underlying claim to determine which items TPUSA disputes."
+      "investigative_direction": "Identify the specific published list and each underlying claim to determine which items TPUSA disputes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",

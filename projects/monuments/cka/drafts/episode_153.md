@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
-  - Reused Nodes Appearing: N-2, N-30
-  - (see registers)
+ - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
+ - Reused Nodes Appearing: N-2, N-30
+ - (see registers)
 
 ## I. Meta-Data
 
@@ -603,7 +603,7 @@ Investigative Direction: Track subsequent civil complaint filings with the Utah 
 - **Name uncertainty – Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
 - **Name uncertainty – Scripps News:** Transcript uses "Scripts Media," "Scriptscripts News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
 - **Transcription error – "August 25th, 20125":** Clear error for 2025.
-- **Name uncertainty – Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new former local id 1208 since this name may already exist in N-1 to N-339 range.
+- **Name uncertainty – Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new since this name may already exist in N-1 to N-339 range.
 - **Artifact verbally referenced but not shown – Nell DeBuckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
 - **Possible transcription error – 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.

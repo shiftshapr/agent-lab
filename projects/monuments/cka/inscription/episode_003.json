@@ -352,7 +352,7 @@
           "tags": [],
           "event_timestamp": "2025-09",
           "video_timestamp": "00:50:24–00:51:07",
-          "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
+          "transcript_snippet": "Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
           "confidence": "high"
         }
       ]
@@ -407,6 +407,30 @@
           "event_timestamp": "2025-09",
           "video_timestamp": "01:01:54–01:02:23",
           "transcript_snippet": "she tweeted this whole thread about how Charlie Kirk had to distance himself from Tucker Carlson",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2481",
+      "family_ref": "A-2481",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2481.1",
+          "ref": "A-2481.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3634"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "01:11:27",
+          "transcript_snippet": "...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...",
           "confidence": "medium"
         }
       ]
@@ -1697,7 +1721,7 @@
       "tags": [],
       "claim_timestamp": "00:50:24",
       "investigative_direction": "Cross-reference attendee statements with published itinerary.",
-      "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
+      "transcript_snippet": "Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
       "confidence": "high",
       "mentions_person_refs": [
         "N-66",
@@ -1719,7 +1743,7 @@
       "tags": [],
       "claim_timestamp": "01:03:58",
       "investigative_direction": "Identify and corroborate attendees; request presentation materials.",
-      "transcript_snippet": "Bill Aman got up and gave a presentation and told them that they shouldn't own property",
+      "transcript_snippet": "Bill Ackman got up and gave a presentation and told them that they shouldn't own property",
       "confidence": "medium",
       "uncertainty_note": "Single-source attendee statement relayed by host.",
       "mentions_person_refs": [
@@ -1986,8 +2010,25 @@
       "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
       "confidence": "medium",
       "uncertainty_note": "Single-source tip relayed by host.",
+      "mentions_person_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3634",
+      "ref": "C-3634",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2481.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:11:27",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...",
+      "confidence": "medium",
       "mentions_person_refs": [
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -2183,6 +2224,46 @@
           "confidence": "medium",
           "tags": [
             "anticipatory_defense"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 3,
+          "video_timestamp": "00:56:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,",
+          "context": "Wave 3 mint – first transcript introduction. Host categorical moral claim used as a recurring line",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 3,
+          "video_timestamp": "00:30:02",
+          "speaker_node_ref": "N-3",
+          "quote": "So they know Lance obviously and I'm going to cushion this with allegedly allegedly allegedly it isn't allegedly that this is his family members telling me these...",
+          "context": "Wave 3 mint – first transcript introduction. Host hedge stacking allegedly when relaying tipster claims",
+          "confidence": "high",
+          "tags": [
+            "wave3"
           ]
         }
       ]

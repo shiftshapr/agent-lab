@@ -296,6 +296,25 @@ Qualifies: C-100
         for cid in ("C-3737", "C-3738", "C-3739", "C-3740"):
             self.assertEqual(rulings.get(cid), "revises_softening")
 
+    def test_cka_rulings_cite_a_source_and_cover_only_ruled_claims(self):
+        """Transit baa2ed9 G5: only the PR 60 ruling (C-3737..C-3740) exists; every row cites it."""
+        rulings = mod.load_revises_rulings(mod.DEFAULT_CKA_ROOT)
+        sources = mod.load_revises_ruling_sources(mod.DEFAULT_CKA_ROOT)
+        self.assertEqual(sorted(rulings), ["C-3737", "C-3738", "C-3739", "C-3740"])
+        self.assertEqual(sorted(sources), sorted(rulings))
+
+    def test_ruling_without_source_is_rejected(self):
+        import tempfile
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "config").mkdir()
+            (root / "config" / "companion_revises_rulings.json").write_text(
+                json.dumps({"rulings": {"C-1": {"term_key": "revises_softening", "revises": "C-0"}}}), encoding="utf-8"
+            )
+            with self.assertRaises(ValueError):
+                mod.load_revises_rulings(root)
+
     def test_hardcode_guard_fails_on_synthetic_bad_source(self):
         """Sanity: scanner would catch a direct relationship literal emit."""
         bad_src = 'x = "isSupportedBy"\n'

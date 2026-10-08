@@ -356,6 +356,31 @@
     },
     {
       "@type": "ArtifactFamily",
+      "@id": "A-2485",
+      "family_ref": "A-2485",
+      "bundle_name": "Trump CIA Hat Joke Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2485.1",
+          "ref": "A-2485.1",
+          "description": "On-air host joke picturing Trump signed up to candace.com and \"wearing um a CIA hat and watching\" (verbal reference to the show's CIA hat; no merch shown or sold in this beat).",
+          "related_claims": [
+            "C-3641"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5"
+          ],
+          "tags": [],
+          "video_timestamp": "00:47:35",
+          "transcript_snippet": "...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
       "@id": "A-2518",
       "family_ref": "A-2518",
       "bundle_name": "Catholic Mass Debate Reference Bundle",
@@ -1280,7 +1305,6 @@
       "transcript_snippet": "I saw blood everywhere and it hit his artery and then I just we fell to the ground",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-1",
         "N-110",
         "N-111",
         "N-112"
@@ -1329,7 +1353,6 @@
       "transcript_snippet": "40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-1",
         "N-71"
       ]
     },
@@ -1393,7 +1416,8 @@
       "claim_timestamp": "00:17:18",
       "investigative_direction": "Identify the blue-shirted Wirefy individual; request their cell metadata; confirm sponsorship ledger.",
       "transcript_snippet": "Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie",
-      "confidence": "high"
+      "confidence": "high",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1698,9 +1722,7 @@
       "investigative_direction": "Locate the high-resolution footage and clothing item Charlie was wearing to confirm.",
       "transcript_snippet": "no, Charlie was not wearing an earpiece",
       "confidence": "low",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1717,8 +1739,26 @@
       "investigative_direction": "Identify and interview the prior vest provider; review any supplier/contract documentation.",
       "transcript_snippet": "he was not wearing a bulletproof vest",
       "confidence": "low",
+      "mentions_person_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3641",
+      "ref": "C-3641",
+      "label": "Host jokes that Trump may be watching the show in a CIA hat",
+      "claim": "Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is \"wearing um a CIA hat and watching,\" a passing reference to the show's CIA hat rather than a merch plug.",
+      "anchored_artifacts": [
+        "A-2485.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:35",
+      "investigative_direction": "Preserve as joke reference to CIA hat brand; no factual claim that Trump owns or wears the hat.",
+      "transcript_snippet": "...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...",
+      "confidence": "medium",
       "mentions_person_refs": [
-        "N-1"
+        "N-3",
+        "N-5"
       ]
     },
     {
@@ -1863,6 +1903,26 @@
           "confidence": "high",
           "tags": [
             "coincidence_skepticism"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 8,
+          "video_timestamp": "00:03:08",
+          "speaker_node_ref": "N-3",
+          "quote": "So, I'm going to show you that again to jog your memory uh because we have an update.",
+          "context": "Wave 3 mint – first transcript introduction. Host prompt recalling prior evidence for the audience",
+          "confidence": "high",
+          "tags": [
+            "wave3"
           ]
         }
       ]

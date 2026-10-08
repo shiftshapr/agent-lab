@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2337, N-2338, N-2339, N-2340
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
+ - New Nodes Introduced: N-2337, N-2338, N-2339, N-2340
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-949
 
 # Episode Analysis – Bride of Charlie 155
 
@@ -530,6 +530,7 @@ Claim Timestamp: 00:19:42–00:21:12
 Claim: Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot – omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.
 
 Anchored Artifacts: A-2414.1, A-2415.1
+Mentions: N-949
 
 Related Nodes: N-2338
 
@@ -603,7 +604,7 @@ Confidence: high
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.
 - **Claim failed admission test:** C-3530 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
-- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes former local id 1212, former local id 1213, and N-2339 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
+- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-2339 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
 - **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" – original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.
 - **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Go forth/Goforth" against authoritative sources.

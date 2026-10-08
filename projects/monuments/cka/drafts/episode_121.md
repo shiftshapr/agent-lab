@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2080, N-2081, N-2082, N-2083, N-2084, N-2085, N-2086, N-2087, N-2088, N-2089, N-2090, N-2091, N-2092, N-2093
   - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave3): N-777
   - (see registers)
 
 ---
@@ -336,6 +337,14 @@ Confidence Level: High
 
 ## 4. Node Register
 
+
+
+**N-777** Rick Cutler
+
+First named by the host at 00:10:43 in episode 121.
+
+*Related: C-2947, C-2951*
+
 **N-2080** USB Logo on Glass Shard Identification
 
 Persistent question of whether the white on shattered glass shards in the SUV matches the Rode Road Mic USB icon.
@@ -522,7 +531,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that the car door behind him remained open during the hospital ride because Charlie's leg was hanging out, and that Rick Cutler physically held Brian in place to prevent him from falling out.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-424
+Mentions: N-424, N-777
 Related Nodes: N-2084
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
@@ -566,7 +575,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Rick Cutler reached across and held onto him so he would not fall out of the moving SUV while he attended to Charlie.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-424
+Mentions: N-424, N-777
 Related Nodes: N-2084
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
@@ -599,7 +608,7 @@ Claim Timestamp: 00:19:32–00:20:25
 Claim: A video credited to Tara Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-16
+Mentions: N-16, N-410
 Related Nodes: N-2083
 Investigative Direction: Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.
 
@@ -752,4 +761,6 @@ Related Nodes: N-2085
 Investigative Direction: Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.
 
 ---
+
+
 

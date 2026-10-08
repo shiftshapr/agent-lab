@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2371, N-2372, N-2373, N-2374, N-2375, N-2376, N-2377, N-2378, N-2379, N-2380, N-2381, N-2382, N-2383
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-16, N-42, N-46, N-52, N-59, N-69, N-75, N-102, N-133, N-144, N-169, N-170, N-205, N-224, N-242, N-272, N-293, N-406, N-424, N-443, N-476, N-550, N-909, N-994, N-1000, N-1078, N-1091, N-1320, N-2143, N-2214, N-2365, N-2366
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-16, N-42, N-46, N-52, N-59, N-69, N-75, N-102, N-133, N-144, N-169, N-170, N-205, N-224, N-242, N-272, N-293, N-406, N-424, N-443, N-66, N-550, N-909, N-994, N-1000, N-1078, N-1091, N-1320, N-2143, N-2214, N-2365, N-2366
   - Hole-minted Nodes (seq161): N-447, N-472, N-477
   - Hole-minted Nodes (wave1): N-579, N-580, N-581, N-582, N-583, N-584, N-585, N-586
   - (see registers)
@@ -608,7 +608,7 @@ Host joke about booking Theo Von and Tim Dillon when super pregnant.
 
 ---
 
-**N-476** Bill Aman
+**N-66** Bill Ackman
 
 Named as boosting Pounds thread and as on Howard Hughes Inc board today.
 
@@ -664,7 +664,7 @@ Host: Israeli-aligned interests in who is attacked/protected by clipping ops; "I
 
 ---
 
-**N-1320** "Mormon Mafia" Allegation (Courtney Love Source)
+**N-1320** "Mormon Mafia" Allegation
 
 Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.
 
@@ -711,9 +711,26 @@ Opening satire of commenters volunteering as nannies after yesterday's Candyland
 Claim Timestamp: 00:01:42
 Claim: The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Aman as if organic.
 Anchored Artifacts: A-2497.1
-Mentions: N-447, N-3, N-2, N-42, N-476, N-69
+Mentions: N-447, N-3, N-2, N-42, N-66, N-69
 Related Nodes: N-2376, N-2379, N-2214
 Investigative Direction: Archive the thread + employment paperwork dates; compare boost graph to paid clipping windows.
+
+---
+
+**C-3775** Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)
+
+Claim Timestamp: 00:01:42
+
+Claim: C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.
+
+Transcript Snippet: her thread was instantly boosted by the likes of Andrew Kovette and Bill Aman pretending to have casually stumbled upon it.
+
+Anchored Artifacts: A-2497.1
+Mentions: N-66, N-42, N-447
+Related Nodes: N-2376
+Revises: C-3680
+Confidence: medium
+Investigative Direction: Read with C-3680; archive the boosting posts under the corrected spelling Bill Ackman.
 
 ---
 
@@ -892,9 +909,26 @@ Notes: Conspiracy Girly is existing M-21 (first_episode 55); this episode is an 
 Claim Timestamp: 00:45:09
 Claim: Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Aman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson ("Medson") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.
 Anchored Artifacts: A-2500.1
-Mentions: N-580, N-476, N-102, N-472, N-581
+Mentions: N-580, N-66, N-102, N-472, N-581
 Related Nodes: N-2378, N-1320, N-2143, N-2373
 Investigative Direction: Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.
+
+---
+
+**C-3776** Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)
+
+Claim Timestamp: 00:46:30
+
+Claim: C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.
+
+Transcript Snippet: You had I told you Bill Aman who was on the board of Howard Hughes Inc. today.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-66, N-102
+Related Nodes: N-2378
+Revises: C-3696
+Confidence: medium
+Investigative Direction: Read with C-3696; confirm Bill Ackman's Howard Hughes board role from corporate filings.
 
 ---
 

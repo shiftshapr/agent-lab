@@ -323,96 +323,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1227",
-      "ref": "N-1227",
-      "name": "Witness and Public-Figure Demeanor Anomalies",
-      "type": "investigation_target",
-      "description": "Referenced in connection with 8 p.m. press conference; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1228",
-      "ref": "N-1228",
-      "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Referenced as FBI official at Utah press conference; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1229",
-      "ref": "N-1229",
-      "name": "Pre-Assassination Group Chat Content",
-      "type": "investigation_target",
-      "description": "Referenced as the intermediary calling Sheriff Broxby about Robinson's surrender; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1230",
-      "ref": "N-1230",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
-      "description": "Referenced as Utah County Sheriff receiving call from Broxby; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1231",
-      "ref": "N-1231",
-      "name": "Campus Footage Release Strategy Question",
-      "type": "investigation_target",
-      "description": "Referenced as media figure commenting on Mark Levin and Erika Kirk; no direct artifact.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1232",
-      "ref": "N-1232",
-      "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "type": "investigation_target",
-      "description": "Referenced as arriving on scene with Kash Patel; no artifact displayed.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-1235",
       "ref": "N-1235",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
@@ -647,9 +557,95 @@
       "@type": "Person",
       "@id": "N-84",
       "ref": "N-84",
-      "name": "Lance Twigs",
+      "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-675",
+      "ref": "N-675",
+      "name": "Pope Leo XIV",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2689",
+        "C-2690",
+        "C-2691",
+        "C-2696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-676",
+      "ref": "N-676",
+      "name": "Doug Terry",
+      "type": "person",
+      "description": "First named by the host at 00:33:31 in episode 90.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2682",
+        "C-2683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-186",
+      "ref": "N-186",
+      "name": "Robert Bowles",
+      "type": "person",
+      "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -677,7 +673,8 @@
       "claim_timestamp": "00:33:31",
       "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.",
       "mentions_person_refs": [
-        "N-69"
+        "N-69",
+        "N-676"
       ]
     },
     {
@@ -694,7 +691,8 @@
       "claim_timestamp": "00:33:31",
       "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp.",
       "mentions_person_refs": [
-        "N-69"
+        "N-69",
+        "N-676"
       ]
     },
     {
@@ -789,7 +787,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:21",
-      "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure."
+      "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -803,7 +802,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:52:54",
-      "investigative_direction": "Retrieve the original Truth Social post and engagement metrics."
+      "investigative_direction": "Retrieve the original Truth Social post and engagement metrics.",
+      "mentions_person_refs": [
+        "N-675"
+      ]
     },
     {
       "@type": "Claim",
@@ -817,7 +819,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:57:23",
-      "investigative_direction": "Obtain the original Vatican source video and transcript."
+      "investigative_direction": "Obtain the original Vatican source video and transcript.",
+      "mentions_person_refs": [
+        "N-675"
+      ]
     },
     {
       "@type": "Claim",
@@ -831,7 +836,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:59:24",
-      "investigative_direction": "Verify clip against White House press transcript."
+      "investigative_direction": "Verify clip against White House press transcript.",
+      "mentions_person_refs": [
+        "N-675"
+      ]
     },
     {
       "@type": "Claim",
@@ -925,7 +933,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:46–00:58:29",
-      "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps."
+      "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps.",
+      "mentions_person_refs": [
+        "N-675"
+      ]
     },
     {
       "@type": "Claim",
@@ -944,6 +955,26 @@
       "investigative_direction": "Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.",
       "mentions_person_refs": [
         "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3766",
+      "ref": "C-3766",
+      "label": "Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference",
+      "claim": "The host says her source told her that around 7:00 p.m. people locally began receiving texts that police had Tyler Robinson and would pick him up in Warner Valley, 12 miles from St. George; she says this makes it strange that at 8:00 p.m. Governor Spencer Cox led a press conference with Kash Patel and Robert Bowles describing the suspect as on the run and releasing new stills.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:57",
+      "investigative_direction": "Obtain the time-stamped local texts and dispatch logs for the Warner Valley pickup; compare against the 8:00 p.m. press-conference statements.",
+      "transcript_snippet": "I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69",
+        "N-70",
+        "N-102",
+        "N-186"
       ]
     }
   ],

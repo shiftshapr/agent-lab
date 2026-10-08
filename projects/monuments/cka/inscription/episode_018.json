@@ -787,6 +787,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1419,6 +1435,23 @@
       "mentions_person_refs": [
         "N-42",
         "N-247"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3645",
+      "ref": "C-3645",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:07",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...ks explain to us what it is that you know in this decentralized intelligent agency, given the information that I am telling you, okay? That it had it unless we have a bulle...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
       ]
     }
   ],

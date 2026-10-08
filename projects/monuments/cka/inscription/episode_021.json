@@ -431,7 +431,7 @@
       "@type": "Person",
       "@id": "N-62",
       "ref": "N-62",
-      "name": "Donald Trump Jr. (Don Jr.)",
+      "name": "Donald Trump Jr.",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
       "related_artifacts": [],
@@ -708,5 +708,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 21,
+          "video_timestamp": "00:26:49",
+          "speaker_node_ref": "N-3",
+          "quote": "And how could we how could we not do anything but trust the science here?",
+          "context": "Wave 3 MemeLink backfill: Trust the Science at 00:26:49 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

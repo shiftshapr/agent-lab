@@ -4,7 +4,7 @@ episode,kind,id,old,new,resolution,basis
 4,artifact,A-1105.3,00:27:18,,VERIFIED_OK,located at 00:27:18 (score 100)
 2,claim,C-1128,00:15:01,00:15:24,RESTAMPED,located at 00:15:24 (score 98)
 2,claim,C-1125,00:07:26,00:07:45,RESTAMPED,located at 00:07:45 (score 100)
-8,artifact,A-2485.1,00:47:35,00:47:33,RESTAMPED,located at 00:47:33 (score 100)
+8,artifact,A-2485.1,00:47:35,00:47:35,RESTORED_WAVE3,Transit P2-1: quote opens [47:35] block; 47:33 was 2s early
 1,artifact,A-1077.1,00:10:29–00:10:44,,VERIFIED_OK,located at 00:10:29 (score 96)
 15,artifact,A-1225.3,00:16:50,,VERIFIED_OK,located at 00:16:50 (score 100)
 15,artifact,A-1225.2,00:16:50,,VERIFIED_OK,located at 00:16:50 (score 100)
@@ -26,7 +26,7 @@ episode,kind,id,old,new,resolution,basis
 65,artifact,A-1695.1,01:46:20–01:47:10,,VERIFIED_OK,verified: Belly of the Beast tour at 01:46:20
 60,claim,C-3659,01:20:45,,VERIFIED_OK,located at 01:20:45 (score 100)
 65,artifact,A-1698.1,00:22:53,00:21:32,RESTAMPED,located at 00:21:32 (score 100)
-67,claim,C-3661,00:17:50,00:16:29,RESTAMPED,located at 00:16:29 (score 100)
+67,claim,C-3661,00:17:50,00:17:50,RESTORED_WAVE3,Transit P2-1: quote opens [17:50] block; 16:29 is the James Lee clip
 65,artifact,A-1703.1,00:05:56,,VERIFIED_OK,"verified: ""this clip had an arabic narration"" at 00:05:56"
 65,artifact,A-1700.1,01:21:47,,VERIFIED_OK,verified: Breaking the Silence ex-IDF movement at 01:21:47
 65,artifact,A-1690.1,00:43:21–00:45:10,,VERIFIED_OK,located at 00:43:21 (score 100)
@@ -41,7 +41,7 @@ episode,kind,id,old,new,resolution,basis
 65,artifact,A-1697.1,01:27:19–01:28:50,,VERIFIED_OK,verified: Ostrovsky book named at 01:27:19
 65,artifact,A-1691.1,00:00:01–00:00:54,,VERIFIED_OK,verified: anti-semite of the year segment at 00:00:01
 65,artifact,A-1699.1,00:38:13,,VERIFIED_OK,located at 00:38:13 (score 100)
-67,artifact,A-2489.1,00:17:50,00:16:29,RESTAMPED,located at 00:16:29 (score 100)
+67,artifact,A-2489.1,00:17:50,00:17:50,RESTORED_WAVE3,Transit P2-1: quote opens [17:50] block; 16:29 is the James Lee clip
 65,artifact,A-1694.2,01:23:21,01:25:27,RESTAMPED,Phil Turney comment read at 01:25:27 (was swapped with A-1694.3)
 65,artifact,A-1694.3,01:25:27,01:24:41,RESTAMPED,Lioness comment read at 01:24:41 (was swapped with A-1694.2)
 65,artifact,A-1693.1,00:15:48,00:15:00,RESTAMPED,selfie on the floor described at 00:15:00

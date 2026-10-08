@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
-  - Reused Nodes Appearing: N-37, N-46
-  - (see registers)
+ - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
+ - Hole-minted Nodes (wave3): N-967
+ - Reused Nodes Appearing: N-37, N-46, N-949
+ - (see registers)
 
 # Episode 144 Analysis
 
@@ -226,6 +227,14 @@ Confidence Level: High
 
 ## IV. Node Register
 
+**N-967** Mark Bricker
+
+First named by the host at 00:18:29 in episode 144.
+
+*Related: C-3317, C-3320*
+
+
+
 **N-2209** SD Card Chain-of-Custody Investigation
 
 Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.
@@ -305,7 +314,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it within approximately 10 minutes of Charlie Kirk being shot, as shown in episode footage.
 
 Anchored Artifacts: A-2301.1, A-2301.2
-Mentions: N-410, N-1
+Mentions: N-410, N-1, N-949
 
 Related Nodes: N-2209, N-2211
 
@@ -335,7 +344,7 @@ Claim Timestamp: 00:04:20–00:04:50
 Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparian, Terrell Farnsworth did not turn over the physical SD card to investigators; only Google links and a flash drive were provided.
 
 Anchored Artifacts: A-2302.1, A-2304.1
-Mentions: N-410, N-297
+Mentions: N-410, N-297, N-949
 
 Related Nodes: N-2209
 
@@ -350,6 +359,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.
 
 Anchored Artifacts: A-2304.1
+Mentions: N-949
 
 Related Nodes: N-2209
 
@@ -364,6 +374,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
+Mentions: N-967
 
 Related Nodes: N-2209, N-2210
 
@@ -406,6 +417,7 @@ Claim Timestamp: 00:19:30–00:20:30
 Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
 
 Anchored Artifacts: A-2304.2, A-2305.1
+Mentions: N-967
 
 Related Nodes: N-2210
 
@@ -465,11 +477,28 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-42, N-1, N-65, N-434, N-476
+Mentions: N-42, N-1, N-65, N-434, N-66
 
 Related Nodes: N-2212
 
 Investigative Direction: Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.
+
+---
+
+**C-3774** Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)
+
+Claim Timestamp: 00:50:09
+
+Claim: C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.
+
+Transcript Snippet: on the 12th, you were the one that was telling me about the Bill Aman summit.
+
+Anchored Artifacts: A-2308.1, A-2308.2
+Mentions: N-66, N-42
+Related Nodes: N-2212
+Revises: C-3324
+Confidence: medium
+Investigative Direction: Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.
 
 ---
 
@@ -497,7 +526,7 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207..former local id 1217 never denoted these people and claim references were retargeted.
+- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-1207.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-2209 (SD card chain of custody), N-2210 (aspect ratio modification), N-2211 (Terrell handling), N-2212 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-382, N-385, N-386, N-1313, N-1314, N-1315
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-3, N-1, N-272, N-45, N-135, N-42, N-86
   - (see registers)
 
 ## 2. Executive Summary
@@ -605,6 +605,21 @@ Mentions: N-56
 
 
 Investigative Direction: Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits.
+
+---
+
+**C-3756** Host lists what she calls verifiable lies told by Turning Point USA figures and names the offenders
+
+Claim Timestamp: 00:15:42
+
+Claim: The host recaps what she calls verifiable lies told by Turning Point USA: that Mikey McCoy had blood all over him (attributed to Pastor Rob McCoy); that Charlie Kirk was a committed evangelical who only liked Catholic architecture (Alex Clark and Andrew Kolvet); that his neck stopped the bullet because of strong bones (Andrew Kolvet); and that he never wavered in support for Israel (Josh Hammer).
+
+Transcript Snippet: That's a lie told by Pastor Rob McCoy.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-272, N-45, N-135, N-42, N-86
+Related Nodes: N-1000
+Investigative Direction: Check each listed statement against its original source and date; record any retractions or corrections.
 
 ---
 

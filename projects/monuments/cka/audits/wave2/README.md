@@ -84,3 +84,7 @@ Gates after Wave 2.1: dia_preflight cka P0 0 / P1 0 / P2 0, hostile CLEAR (accep
 ## Next ids
 
 Person N-629 (no free hole below it), topic or org N-2393, claim C-3742, artifact A-2521.
+
+## Hole-mint batch labels (Wave 2 / 2.1)
+
+The `Hole-minted Nodes (<batch>):` ledger lines (remap-epNN, w2_1, etc.) are **retroactive labels** applied after the fact so first-introduction order matches the live register. They are not a record of chronological lowest-free mints at the time each id was created. Wave 3 leaves them as is.

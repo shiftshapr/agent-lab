@@ -710,7 +710,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:44–00:35:14",
-      "investigative_direction": "Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange."
+      "investigative_direction": "Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.",
+      "mentions_person_refs": [
+        "N-360"
+      ]
     },
     {
       "@type": "Claim",
@@ -817,5 +820,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 28,
+          "video_timestamp": "00:24:09",
+          "speaker_node_ref": "N-3",
+          "quote": "He's standing there and he's saying, \"Candace is attacking a grieving widow and accusing her of murdering Charlie Kirk.",
+          "context": "Wave 3 MemeLink backfill: Grieving Widow at 00:24:09 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

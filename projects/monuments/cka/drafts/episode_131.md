@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2147
+  - Hole-minted Nodes (wave3): N-815
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -21,7 +22,7 @@ This episode is artifact-dense on two fronts: a long, previously-undisclosed SMS
 
 The November 15, 2023 text thread constitutes the principal evidentiary body of the episode, documenting in Charlie Kirk's own words his contemporaneous assessment of the Daily Wire pressure campaign against Candace Owens – naming Jeremy Boreing and Marissa Streit ("Strait" in the text), characterizing the effort as "a hit" and a "C-level" operation, advising her not to resign, and explicitly stating "We are on the same team. Screw these people." An older Charlie Kirk text ("the war is on. Snakes in the garden, they are not our friends. Time to fight.") is also read aloud.
 
-The episode advances the Ben Shapiro 9/10 lunch-meeting investigation. The host names Gary Jabitch (described in host narrative as a B'nai B'rith / AIPAC / Chabad Lubavitch Nebraska figure) as the alleged companion; this naming lacks a shown artifact in this episode and is treated as an unresolved target. Rob O'Neill's Newsmax appearance artifact-anchors technical skepticism of the official narrative (screwdriver, bullet trajectory, text-message phrasing). A YouTube comment artifact-anchors a pattern comparison between the Erica Kirk situation and the Allison Holker / Stephen "Twitch" Boss case, with the Holker interview and the Boss-family/Gayle King CBS interview providing the underlying audio artifacts.
+The episode advances the Ben Shapiro 9/10 lunch-meeting investigation. The host names Gary Javitch (caption: Jabitch/Jabach; spelling unverified), described in host narrative as a B'nai B'rith / AIPAC / Chabad Lubavitch Nebraska figure, as the alleged companion; this naming lacks a shown artifact in this episode and is treated as an unresolved target. Rob O'Neill's Newsmax appearance artifact-anchors technical skepticism of the official narrative (screwdriver, bullet trajectory, text-message phrasing). A YouTube comment artifact-anchors a pattern comparison between the Erica Kirk situation and the Allison Holker / Stephen "Twitch" Boss case, with the Holker interview and the Boss-family/Gayle King CBS interview providing the underlying audio artifacts.
 
 ## 6. Meme Register
 
@@ -34,6 +35,26 @@ Speaker: N-3
 Quote: nal. I'm repulsed by it. For years I was I was called a Jewish Jewish shill. And now they say I am a Hamas agent. Screw them. The game has changed....
 Context: Later reuse of Shill in CKA seq 131.
 Tags: tpusa, planted, host_refrain, reuse
+Confidence: high
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:19:05
+Speaker: N-3
+Quote: So, what did we do? We put out a bounty.
+Context: DIA tip-line payoff: the lunch bounty from ep124 (C-3764) is answered with a tip on who Ben Shapiro was with (C-3767, A-2524.1).
+Tags: tips_network, dia_tip_line, bounty, transcript_backfill
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:26:05
+Speaker: N-3
+Quote: But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.
+Context: DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-3769, A-2524.3).
+Tags: tips_network, dia_tip_line, bounty, transcript_backfill
 Confidence: high
 
 ---
@@ -175,11 +196,52 @@ Confidence: medium
 ---
 
 
+**A-2524** Ben Shapiro Lunch-Bounty Payoff and $25,000 Security-Call Bounty (host on air)
+
+**A-2524.1** Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname "Jabitch"/"Jabach"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:19:05
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Low (tip described, source not shown)
+
+*Related: C-3767, N-3, N-133, N-2147*
+
+**A-2524.2** Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:25:07
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Low (biography cited, not shown)
+
+*Related: C-3768, N-3, N-133, N-2147*
+
+**A-2524.3** Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:26:05
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: C-3769, N-3, N-1, N-133, N-2147*
+
+---
+
 ## 4. Node Register
+
+**N-815** Gayle King
+
+First named by the host at 00:43:01 in episode 131.
+
+*Related: C-3133, C-3134, C-3135, C-3136*
+
 
 **N-2147** Ben Shapiro 9/10 Lunch Meeting Identification
 
-Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Jabitch as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.
+Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.
 
 Evidence Count: 1
 Claim Count: 0
@@ -426,6 +488,7 @@ Claim Timestamp: 00:41:38
 Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
+Mentions: N-815
 
 Related Nodes:
 
@@ -440,6 +503,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his memorial.
 
 Anchored Artifacts: A-2186.1
+Mentions: N-815
 
 Related Nodes:
 
@@ -454,6 +518,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you don't sign, you will not be able to see him and you will not be able to participate."
 
 Anchored Artifacts: A-2186.1
+Mentions: N-815
 
 Related Nodes:
 
@@ -468,7 +533,7 @@ Claim Timestamp: 00:39:35
 Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-815
 
 Related Nodes:
 
@@ -504,3 +569,54 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+**C-3767** Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot
+
+Claim Timestamp: 00:19:05
+
+Claim: The host says the bounty she put out on who Ben Shapiro was with at "breakfast or lunch" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary (transcript surname "Jabitch"/"Jabach"; public sources give Gary Javitch; spelling unverified), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.
+
+Transcript Snippet: So, what did we do? We put out a bounty.
+
+Anchored Artifacts: A-2524.1
+Mentions: N-3, N-133, N-1
+Related Nodes: N-2147
+Supports: C-3764
+Qualifies: C-3126
+Confidence: low
+Uncertainty: Single anonymous tip as relayed by the host; the host says "allegedly" and could not confirm the meal itself. The named companion has no person node (person band full, awaiting Daveed).
+Investigative Direction: Corroborate the companion's Los Angeles whereabouts on September 10, 2025 against the canceled Reagan Library event schedule and any public sightings.
+
+---
+
+**C-3768** Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha
+
+Claim Timestamp: 00:25:07
+
+Claim: Reading from what she calls his professional biography, the host says the alleged companion served on the National Council of AIPAC, was president of the Nebraska chapter of AIPAC, and has a twin brother on the AIPAC board. She adds that Ben Shapiro and his wife have donated a "life and legacy" amount to the Jewish Federation of Omaha for years, an organization where the companion is a host and donor.
+
+Transcript Snippet: Gary was the president of the Nebraska chapter of AIPAC.
+
+Anchored Artifacts: A-2524.2
+Mentions: N-3, N-133
+Related Nodes: N-2147
+Confidence: low
+Uncertainty: Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has "Jabitch"/"Jabach" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.
+Investigative Direction: Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.
+
+---
+
+**C-3769** Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team
+
+Claim Timestamp: 00:26:05
+
+Claim: The host announces a second bounty of $25,000 for anyone who can tell her who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, promises to protect the source's identity, and directs tips to moretips@candaceowens.com.
+
+Transcript Snippet: But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.
+
+Anchored Artifacts: A-2524.3
+Mentions: N-3, N-1, N-133
+Related Nodes: N-2147
+Confidence: high
+Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).
+
+---

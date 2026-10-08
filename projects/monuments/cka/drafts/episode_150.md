@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: 
   
-  former local id 1207, former local id 1208, former local id 1209, former local id 1210, former local id 1211, former local id 1212, former local id 1213, former local id 1214, former local id 1215
+(none – Wave 2 removed local spray rows; persons cited via Mentions)
   
   - Reused Nodes Appearing: N-2
 
@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-2351, A-2352, A-2353, A-2354, A-2355, A-2356, A-2357, A-2358, A-2359, A-2360, A-2361
 - **Claim Range:** C-3406–C-3425
 - **New Nodes Introduced:**
-N-1, former local id 1207, former local id 1208, former local id 1209, former local id 1210, former local id 1211, former local id 1212, former local id 1213, former local id 1214, former local id 1215
+N-1 (Charlie Kirk) reused; no new topic spray nodes
 
 ---
 
@@ -322,6 +322,7 @@ Claim: Host quotes a direct text reply from Kanye West following Charlie's death
 Anchored Artifacts: A-2354.1
 Mentions: N-3, N-56
 Related Nodes:
+
 Investigative Direction: Verify text record; cross-reference against any public statement from Kanye.
 
 ---
@@ -333,6 +334,7 @@ Claim: Host references a Kanye West tweet from April–May 2018 reading "I love 
 Anchored Artifacts: A-2354.2
 Mentions: N-3, N-56
 Related Nodes:
+
 Investigative Direction: Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*
 
 ---
@@ -344,6 +346,7 @@ Claim: Host reports that Donald Trump tweeted a mock-up of a Time magazine cover
 Anchored Artifacts: A-2355.1
 Mentions: N-3, N-5
 Related Nodes:
+
 Investigative Direction: Locate the original tweet via archive. *Artifact verbally referenced but not shown in episode.*
 
 ---
@@ -355,6 +358,7 @@ Claim: Host reports that she attended Ye's Chicago concert during the week of th
 Anchored Artifacts: A-2360.1
 Mentions: N-3
 Related Nodes:
+
 Investigative Direction: Confirm concert date and Kid Cudi's set via tour documentation.
 
 ---
@@ -386,6 +390,7 @@ Claim: Host asserts in journal that Ben Shapiro "slid into your studio within da
 Anchored Artifacts: A-2351.1
 Mentions: N-1, N-133
 Related Nodes:
+
 Investigative Direction: Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*
 
 ---
@@ -428,6 +433,7 @@ Claim: Host states in journal that Charlie's memorial was "weird," "like an RNC 
 Anchored Artifacts: A-2351.1
 Mentions: N-1, N-3, N-182
 Related Nodes:
+
 Investigative Direction: Verify speaker list and video documentation of memorial event.
 
 ---
@@ -449,6 +455,7 @@ Claim: Host states Ye "returned to Chicago… during the week of your anniversar
 Anchored Artifacts: A-2360.1
 Mentions: N-1
 Related Nodes:
+
 Investigative Direction: Confirm via Ye tour itinerary and prior concert dates.
 
 ---
@@ -457,8 +464,11 @@ Investigative Direction: Confirm via Ye tour itinerary and prior concert dates.
 
 Claim Timestamp: 00:26:04
 Claim: Host states that Ye and Kid Cudi "had a massive public falling out in 2022."
+
+Mentions: N-56
 Anchored Artifacts: A-2360.1
 Related Nodes:
+
 Investigative Direction: Confirm via public reporting.
 
 ---
@@ -480,6 +490,7 @@ Claim: Host states that when meeting with the "Ace team," they explained that th
 Anchored Artifacts: A-2357.1, A-2358.1
 Mentions: N-56
 Related Nodes:
+
 Investigative Direction: Verify with the named team or any documentation of the meeting. *Possible transcription error: "Ace team" identity unclear.*
 
 ---

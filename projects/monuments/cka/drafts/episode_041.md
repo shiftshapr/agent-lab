@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-483, N-484, N-1380, N-1381
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-224
   - Tip-minted Nodes (wave2): N-2388
   - (see registers)
 
@@ -22,7 +22,7 @@
 
 Artifact Families Introduced: A-1494, A-1495, A-1496, A-1497, A-1498, A-1499, A-1500
 
-Claim Range: C-1831–C-1838
+Claim Range: C-1831–C-1838, C-3747
 
 New Nodes Introduced:  N-483, N-484, N-1380, N-1381
 
@@ -389,6 +389,21 @@ Mentions: N-3, N-426
 Related Nodes:
 
 Investigative Direction: Verify clip against original Tim Pool broadcast; capture full context.
+
+---
+
+**C-3747** Host maintains that Turning Point USA is engaged in a cover-up
+
+Claim Timestamp: 00:10:28
+
+Claim: The host says she maintains that Turning Point USA is engaged in a cover-up, after it refused a virtual or live-streamed appearance and while its figures, including Blake Neff, call her names instead of answering questions.
+
+Transcript Snippet: Okay, I maintain that turning point is engaged in a cover up.
+
+Anchored Artifacts: 
+Mentions: N-3, N-224
+Related Nodes: N-1000
+Investigative Direction: Track TPUSA responses to the on-record questions; compare against the list of disputed statements the host says she keeps.
 
 ---
 

@@ -852,6 +852,40 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-685",
+      "ref": "N-685",
+      "name": "Brad Parscale",
+      "type": "person",
+      "description": "First named by the host at 00:16:06 in episode 99.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2864",
+        "C-2866"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-62",
+      "ref": "N-62",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -867,7 +901,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:06",
-      "investigative_direction": "Obtain the original 2018 text record or corroborating screenshots; compare wording to other contemporaneous Kirk statements."
+      "investigative_direction": "Obtain the original 2018 text record or corroborating screenshots; compare wording to other contemporaneous Kirk statements.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -881,7 +918,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:03:06",
-      "investigative_direction": "Corroborate the second message via original device records or screenshots."
+      "investigative_direction": "Corroborate the second message via original device records or screenshots.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -966,7 +1006,9 @@
         "A-2048.1",
         "A-2048.2"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1737"
+      ],
       "tags": [],
       "claim_timestamp": "00:14:54",
       "investigative_direction": "Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings."
@@ -999,10 +1041,15 @@
       "anchored_artifacts": [
         "A-2049.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732"
+      ],
       "tags": [],
       "claim_timestamp": "00:16:57",
-      "investigative_direction": "Verify corporate registration records for Clock Tower X LLC."
+      "investigative_direction": "Verify corporate registration records for Clock Tower X LLC.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -1013,7 +1060,9 @@
       "anchored_artifacts": [
         "A-2049.2"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732"
+      ],
       "tags": [],
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Obtain full filing exhibit; verify exact quoted language and listed platforms."
@@ -1028,10 +1077,15 @@
         "A-2049.1",
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732"
+      ],
       "tags": [],
       "claim_timestamp": "00:16:57",
-      "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates."
+      "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.",
+      "mentions_person_refs": [
+        "N-685"
+      ]
     },
     {
       "@type": "Claim",
@@ -1198,7 +1252,10 @@
       "anchored_artifacts": [
         "A-2054.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1732",
+        "N-1737"
+      ],
       "tags": [],
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Cross-check with FARA activity reports; obtain any device-level data on geofence delivery.",
@@ -1215,7 +1272,9 @@
       "anchored_artifacts": [
         "A-2055.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1737"
+      ],
       "tags": [],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures."
@@ -1343,7 +1402,9 @@
       "anchored_artifacts": [
         "A-2061.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-1738"
+      ],
       "tags": [],
       "claim_timestamp": "00:57:03",
       "investigative_direction": "Obtain the original McCoy message screenshot; verify the exact language and date.",

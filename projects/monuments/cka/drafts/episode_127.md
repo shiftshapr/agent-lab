@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2124, N-2125, N-2126, N-2127, N-2128, N-2129, N-2130
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-629, N-809
+  - Hole-minted Nodes (wave3): N-810
   - (see registers)
 
 ## 2. Executive Summary
@@ -170,6 +171,19 @@ Confidence Level: Medium (host described content; clip not replayed on air)
 
 ## 4. Node Register
 
+**N-810** Christopher Bagley
+
+First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.
+
+*Related: C-3042, C-3043, C-3044*
+
+**N-629** Dan Bongino
+
+Named by the host at 00:45:58 in episode 127; first introduced in episode 15.
+
+*Related: C-3054*
+
+
 **N-2124** Officer Bagley Body-Cam Battery Anomaly
 
 Persistent discrepancy between the testimony that the Axon Body Cam 4 terminated ~27:35 into the shift while the officer was on the rooftop, and the Axon operator email asserting ~14-hour battery life with a docked-shift upload cycle.
@@ -258,6 +272,7 @@ Claim Timestamp: 00:05:36–00:06:28
 Claim: Officer Bagley testified that his Axon body-cam footage ended at 12:44 p.m. while he was still on the Losee Center roof, lasting 27 minutes and 35 seconds, and he stated the battery simply "went dead."
 
 Anchored Artifacts: A-2146.1
+Mentions: N-810
 
 Related Nodes: N-2124
 
@@ -272,6 +287,7 @@ Claim Timestamp: 00:09:06–00:10:43
 Claim: Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in plain clothes with a badge and a handgun, whose agency he did not know and did not verify.
 
 Anchored Artifacts: A-2146.2
+Mentions: N-810
 
 Related Nodes: N-2125
 
@@ -286,6 +302,7 @@ Claim Timestamp: 00:10:05–00:11:27
 Claim: Officer Bagley testified that he did not review the body-cam or surveillance footage between the time the suspect jumped from the roof and his arrival to determine whether anyone else had been on the rooftop in that window.
 
 Anchored Artifacts: A-2146.2
+Mentions: N-810
 
 Related Nodes: N-2125
 
@@ -314,6 +331,7 @@ Claim Timestamp: 00:15:19–00:16:23
 Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items – a backpack, jacket, and gloves – at the Fulton Library bus stop, which was determined to be on the shooter's route.
 
 Anchored Artifacts: A-2148.1
+Mentions: N-809
 
 Related Nodes: N-2126
 
@@ -428,7 +446,7 @@ Claim Timestamp: 00:46:07–00:47:07
 Claim: Host describes watching Dan Bongino state on Megyn Kelly's show on September 15, 2025, that the screwdriver rooftop footage was too grainy for the FBI's tools to clarify, establishing a baseline against later influencer characterizations of the same footage as "crystal clear."
 
 Anchored Artifacts: A-2152.1
-Mentions: N-75
+Mentions: N-75, N-629
 
 Related Nodes: N-2130
 
@@ -484,4 +502,6 @@ Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records 
 *Failed Admission Test flag: Artifact-Anchor Test is partial – host references Harpole's prior statements but the specific clip is not replayed in this episode.*
 
 ---
+
+
 

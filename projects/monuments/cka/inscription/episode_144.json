@@ -31,8 +31,7 @@
             "C-3314"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,8 +48,7 @@
             "C-3314"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1208"
+            "N-1207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,9 +256,7 @@
             "C-3324",
             "C-3325"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -310,9 +306,7 @@
             "C-3324",
             "C-3325"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -327,9 +321,7 @@
           "related_claims": [
             "C-3325"
           ],
-          "related_nodes": [
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -428,8 +420,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1207",
-        "N-1208"
+        "N-1207"
       ]
     },
     {
@@ -451,9 +442,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "Person",
@@ -567,11 +556,100 @@
     },
     {
       "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
-      "name": "Bill Aman",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Charlie Kirk (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3313",
+        "C-3314",
+        "C-3323",
+        "C-3324"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3325"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff (wave3 orphan mint).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3321",
+        "C-3322"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-967",
+      "ref": "N-967",
+      "name": "Mark Bricker",
+      "type": "person",
+      "description": "First named by the host at 00:18:29 in episode 144.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3317",
+        "C-3320"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-949",
+      "ref": "N-949",
+      "name": "David Hull",
+      "type": "person",
+      "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -602,7 +680,8 @@
       "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.",
       "mentions_person_refs": [
         "N-410",
-        "N-1"
+        "N-1",
+        "N-949"
       ]
     },
     {
@@ -643,7 +722,8 @@
       "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
       "mentions_person_refs": [
         "N-410",
-        "N-297"
+        "N-297",
+        "N-949"
       ]
     },
     {
@@ -661,7 +741,9 @@
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-949"
+      ]
     },
     {
       "@type": "Claim",
@@ -678,7 +760,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
-      "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel."
+      "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
     },
     {
       "@type": "Claim",
@@ -695,7 +780,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:17:30",
-      "investigative_direction": "Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift."
+      "investigative_direction": "Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -711,7 +797,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:30–00:18:30",
-      "investigative_direction": "Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification."
+      "investigative_direction": "Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -728,7 +815,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:30–00:20:30",
-      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit."
+      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
     },
     {
       "@type": "Claim",
@@ -804,7 +894,33 @@
         "N-1",
         "N-65",
         "N-434",
-        "N-476"
+        "N-66"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3774",
+      "ref": "C-3774",
+      "label": "Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)",
+      "claim": "C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
+      "anchored_artifacts": [
+        "A-2308.1",
+        "A-2308.2"
+      ],
+      "related_nodes": [
+        "N-2212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:09",
+      "investigative_direction": "Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.",
+      "transcript_snippet": "on the 12th, you were the one that was telling me about the Bill Aman summit.",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-3324"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-42"
       ]
     },
     {

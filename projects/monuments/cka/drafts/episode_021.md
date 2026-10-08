@@ -26,6 +26,17 @@ Context: Later reuse of Handler in CKA seq 21.
 Tags: intel, operators, theory, reuse
 Confidence: high
 
+**M-3** (meme) Trust the Science
+
+### Occurrence 1
+
+Video Timestamp: 00:26:49
+Speaker: N-3
+Quote: And how could we how could we not do anything but trust the science here?
+Context: Wave 3 MemeLink backfill: Trust the Science at 00:26:49 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 ---

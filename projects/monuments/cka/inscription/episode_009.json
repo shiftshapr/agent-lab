@@ -324,8 +324,7 @@
             "C-3730"
           ],
           "related_nodes": [
-            "N-1",
-            "N-161"
+            "N-1"
           ],
           "tags": [],
           "video_timestamp": "00:44:43–00:44:59",
@@ -774,26 +773,6 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
-      "name": "Recovery Recon (commenter)",
-      "type": "person",
-      "description": "Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.",
-      "related_artifacts": [
-        "A-2519.3"
-      ],
-      "related_claims": [
-        "C-3730"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": []
     },
     {
       "@type": "Topic",
@@ -1676,8 +1655,7 @@
       "transcript_snippet": "Is it not weird that within minutes the FBI posted pics of the ammo",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-1",
-        "N-161"
+        "N-1"
       ]
     }
   ],

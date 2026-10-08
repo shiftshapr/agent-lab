@@ -157,7 +157,7 @@ Confidence: medium
 **A-2485** Trump CIA Hat Joke Bundle
 
 **A-2485.1** On-air host joke picturing Trump signed up to candace.com and "wearing um a CIA hat and watching" (verbal reference to the show's CIA hat; no merch shown or sold in this beat).
-Video Timestamp: 00:47:33
+Video Timestamp: 00:47:35
 Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
 Confidence: medium
 *Related: C-3641, N-3, N-5*
@@ -890,6 +890,19 @@ Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate vide
 ---
 
 ## 6. Meme Register
+
+
+**M-80** (meme) Jog Your Memory
+
+### Occurrence 1
+
+Video Timestamp: 00:03:08
+Speaker: N-3
+Quote: So, I'm going to show you that again to jog your memory uh because we have an update.
+Context: Wave 3 mint – first transcript introduction. Host prompt recalling prior evidence for the audience
+Tags: wave3
+Confidence: high
+
 
 **M-1** (meme) Grieving Widow
 

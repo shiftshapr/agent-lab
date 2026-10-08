@@ -722,5 +722,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 57,
+          "video_timestamp": "00:21:23",
+          "speaker_node_ref": "N-3",
+          "quote": "You just cannot pretend that all of this is one big unhappy coincidence.",
+          "context": "Wave 3 MemeLink backfill: happy coincidence at 00:21:23 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

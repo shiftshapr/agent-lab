@@ -1085,7 +1085,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
-      "investigative_direction": "Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures."
+      "investigative_direction": "Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1101,7 +1102,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
-      "investigative_direction": "Verify through DOJ press releases, congressional correspondence, or reporting."
+      "investigative_direction": "Verify through DOJ press releases, congressional correspondence, or reporting.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -1156,7 +1158,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:41:02",
-      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting."
+      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting.",
+      "mentions_person_refs": []
     }
   ],
   "memes": []

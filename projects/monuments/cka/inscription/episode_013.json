@@ -550,7 +550,7 @@
       "@type": "Person",
       "@id": "N-193",
       "ref": "N-193",
-      "name": "Judge Tony F. Graph Jr.",
+      "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.",
       "related_artifacts": [
@@ -957,6 +957,38 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-176",
+      "ref": "N-176",
+      "name": "Mike Mitchell",
+      "type": "person",
+      "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1279,7 +1311,90 @@
       "mentions_person_refs": [
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3754",
+      "ref": "C-3754",
+      "label": "Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion",
+      "claim": "The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his \"uncle Mikey\", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:50",
+      "investigative_direction": "Locate the photos the host refers to and establish who \"uncle Mikey\" is; check any Mike Mitchell link against the public record.",
+      "transcript_snippet": "It is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his uncle Mikey.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69",
+        "N-176"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 13,
+          "video_timestamp": "00:31:58",
+          "speaker_node_ref": "N-3",
+          "quote": "...anything bad right now about Israel on TikTok and this is because it's what BBNet and Yahoo has willed right they want to censor speech which was something that Charlie was...",
+          "context": "Wave 3 mint – first transcript introduction. Host punning nickname for Netanyahu",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-77",
+      "ref": "M-77",
+      "canonical_term": "Operation Mocking Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 13,
+          "video_timestamp": "00:47:19",
+          "speaker_node_ref": "N-3",
+          "quote": "I hope this is the year of the shady pastor after operation mocking pastor uh learning why they can say we don't take money from Israel but they...",
+          "context": "Reuse of Operation Mocking Pastor (first introduced in episode 4 at 00:55:47).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 13,
+          "video_timestamp": "00:35:51",
+          "speaker_node_ref": "N-3",
+          "quote": "...your friend and you're like what did I do wrong like I just said genocide is always wrong I just retweeted Max Blumenthal something they said that was sensible and they come...",
+          "context": "Reuse of Genocide Is Always Wrong (first introduced in episode 3 at 00:56:16).",
+          "confidence": "high",
+          "tags": [
+            "wave3",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

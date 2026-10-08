@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-590, N-596, N-1429, N-1430, N-1431, N-1432, N-1433, N-1434, N-1435, N-1436, N-1437
-  - Reused Nodes Appearing: N-224
+  - Reused Nodes Appearing: N-224, N-3, N-1, N-629, N-5
   - (see registers)
 
 ## 2. Executive Summary
@@ -480,6 +480,21 @@ Mentions: N-3
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+
+**C-3758** Host calls the Charlie Kirk case the most extreme cover-up she has seen, carried out by the feds
+
+Claim Timestamp: 00:24:40
+
+Claim: The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which she says Trump confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.
+
+Transcript Snippet: I have never seen one more extreme than this Charlie Kirk cover-up that the feds are engaged in.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-629, N-5
+Related Nodes: N-1113
+Investigative Direction: Track Bongino's departure announcement and any statement he makes on the Kirk investigation.
 
 ---
 

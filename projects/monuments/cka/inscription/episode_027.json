@@ -569,7 +569,7 @@
       "@type": "Person",
       "@id": "N-355",
       "ref": "N-355",
-      "name": "Colby Sessions (Name uncertainty: transcript also reads \"Coby Sessions\")",
+      "name": "Colby Sessions",
       "type": "person",
       "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-1302.",
       "related_artifacts": [
@@ -898,6 +898,22 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1273,6 +1289,25 @@
       "investigative_direction": "None – viewer opinion, not an investigative target.",
       "mentions_person_refs": [
         "N-359"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3755",
+      "ref": "C-3755",
+      "label": "Host says Turning Point USA is telling a lot of lies and is engaged in a cover-up",
+      "claim": "The host says Turning Point USA is telling a lot of lies and is engaged in a cover-up, that she puts her name on that and will not apologise; she ties it to the Catholicism statements she says Alex Clark lied about.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:20",
+      "investigative_direction": "List the specific TPUSA statements the host calls lies and compare each against the record.",
+      "transcript_snippet": "Turning Point USA's telling a lot of lies. They're engaged in a cover-up. I said it. I'm putting my name on that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-135"
       ]
     }
   ],

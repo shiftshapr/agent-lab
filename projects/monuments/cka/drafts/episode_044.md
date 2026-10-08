@@ -11,7 +11,8 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-516, N-518, N-522, N-523, N-524, N-525, N-526, N-1397, N-1398, N-1399, N-1400, N-1401, N-1402
+  - New Nodes Introduced: N-516, N-518, N-522, N-523, N-524, N-526, N-1397, N-1398, N-1399, N-1400, N-1401, N-1402
+  - Tip-minted Nodes (w3-root-brands): N-2393
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -231,7 +232,7 @@ Investigative Pressure: High
 
 ---
 
-**N-522** "Jonathan Schmidt"
+**N-522** Jonathan Schmidt
 
 Alleged alias used by Arcadi Gaydamak in Nashville, per seven tipster emails. Allegedly hired by Root Brands as a technology officer and claimed to be a billionaire.
 
@@ -270,7 +271,9 @@ Investigative Pressure: Medium
 
 ---
 
-**N-525** Root Brands
+**N-2393** Root Brands
+
+Node Type: Organization
 
 Nashville-area company alleged by tipsters to employ "Jonathan Schmidt"/Arcadi Gaydamak as a technology officer. Host states she has reached out to Root Brands.
 
@@ -370,7 +373,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1894, N-522, N-523, N-524, N-525*
+*Related: A-1523.1, C-1894, N-522, N-523, N-524, N-2393*
 
 ---
 
@@ -574,9 +577,9 @@ Claim Timestamp: 00:36:24–00:40:46
 Claim: Tipsters claim that Jonathan Schmidt/Gaydamak was brought into Root Brands by Clay Thomas and has hired Ukrainian nationals, including Alex Smeirnoff, on the stated basis of fleeing the war.
 
 Anchored Artifacts: A-1523.1
-Mentions: N-522, N-523, N-524, N-525
+Mentions: N-522, N-523, N-524
 
-Related Nodes: N-1401, N-1402
+Related Nodes: N-1401, N-1402, N-2393
 
 Investigative Direction: Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.
 

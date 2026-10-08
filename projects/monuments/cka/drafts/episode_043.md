@@ -198,8 +198,6 @@ Confidence Level: High (as referenced comment)
 ## IV. Node Register
 
 
-### People
-
 **N-1** Charlie Kirk
 
 Foundational biographical and investigative subject across the series. Referenced in this episode via previously recorded May 2025 clip.

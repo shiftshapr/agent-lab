@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2196, N-2197, N-2198, N-2199, N-2200, N-2201, N-2202, N-2203, N-2204, N-2205, N-2206
-  - Reused Nodes Appearing: N-1228, N-46
+  - Reused Nodes Appearing: N-1228, N-46, N-42, N-50, N-410
+  - Hole-minted Nodes (wave3): N-949
   - (see registers)
 
 ## 6. Meme Register
@@ -285,6 +286,12 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## 4. Node Register
 
+**N-949** David Hull
+
+First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.
+
+*Related: C-3292*
+
 **N-2196** Terrell Farnsworth Google-Hack Contradiction
 
 Persistent target: Farnsworth's claim of fearing Google hacking is contradicted by his same-day Google Drive usage.
@@ -476,6 +483,7 @@ Claim Timestamp: 00:12:35
 Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.
 
 Anchored Artifacts: A-2285.1
+Mentions: N-949
 
 Related Nodes: N-2197
 
@@ -509,6 +517,21 @@ Mentions: N-50
 Related Nodes: N-1228
 
 Investigative Direction: Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.
+
+**C-3743** Andrew Kolvet is the 'Kulvette' of C-3294 (revises C-3294)
+
+Claim Timestamp: 00:14:25
+
+Claim: C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-42). He stated on Tucker Carlson that Farnsworth (N-410) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+
+Transcript Snippet: He said, "Because I know people can be evil."
+
+Anchored Artifacts: A-2287.1
+Mentions: N-42, N-50, N-410
+Related Nodes: N-1228
+Revises: C-3294
+Confidence: medium
+Investigative Direction: Read with C-3294; match the Tucker Carlson segment under the corrected spelling Andrew Kolvet.
 
 ---
 

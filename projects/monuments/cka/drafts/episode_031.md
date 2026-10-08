@@ -349,7 +349,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-389** Thomas Michael Camino (a.k.a. "Thomas Kamino" in early host reference)
+**N-389** Thomas Michael Camino
 
 California sex offender convicted in 1995 of child molestation and sentenced to 8 years; subsequently befriended by Rob McCoy and placed in Calvary Chapel home-fellowship program with access to children.
 

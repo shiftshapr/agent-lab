@@ -372,6 +372,18 @@ Investigative Direction: Locate Macron's released public calendar; confirm the t
 
 ## 6. Meme Register
 
+**M-84** (meme) Bend the Knee
+
+### Occurrence 1
+
+Video Timestamp: 00:47:25
+Speaker: N-3
+Quote: And I will again assert to these people, I will never bow the knee to evil.
+Context: Wave 3 mint – first transcript introduction. Host refusal to submit to pressure / evil
+Tags: wave3
+Confidence: high
+
+
 **M-37** (meme) Grifter
 
 ### Occurrence 1

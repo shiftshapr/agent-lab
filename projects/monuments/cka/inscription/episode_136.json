@@ -30,7 +30,6 @@
             "C-3193"
           ],
           "related_nodes": [
-            "N-1209",
             "N-1",
             "N-2170"
           ],
@@ -59,7 +58,6 @@
             "C-3197"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2171"
           ],
           "tags": [],
@@ -78,7 +76,6 @@
             "C-3195"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2172"
           ],
           "tags": [],
@@ -180,9 +177,7 @@
           "related_claims": [
             "C-3201"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -208,7 +203,6 @@
             "C-3204"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2173"
           ],
           "tags": [],
@@ -383,9 +377,7 @@
           "related_claims": [
             "C-3202"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -482,9 +474,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -584,6 +574,57 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-913",
+      "ref": "N-913",
+      "name": "Christopher Hawk",
+      "type": "person",
+      "description": "First named by the host at 00:17:52 in episode 136.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3198",
+        "C-3199",
+        "C-3200"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-629",
+      "ref": "N-629",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Reused; first introduced in episode 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-810",
+      "ref": "N-810",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -621,7 +662,8 @@
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.",
       "mentions_person_refs": [
-        "N-102"
+        "N-102",
+        "N-629"
       ]
     },
     {
@@ -639,7 +681,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:18",
-      "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event."
+      "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -655,7 +700,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
-      "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1."
+      "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -672,7 +720,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
-      "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification."
+      "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -688,7 +739,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
-      "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records."
+      "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.",
+      "mentions_person_refs": [
+        "N-913",
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -705,7 +760,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:47",
-      "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements."
+      "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
     },
     {
       "@type": "Claim",
@@ -722,7 +780,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
-      "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews."
+      "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
     },
     {
       "@type": "Claim",
@@ -736,7 +797,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:47",
-      "investigative_direction": "Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records."
+      "investigative_direction": "Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -750,7 +812,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:19:23",
-      "investigative_direction": "Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records."
+      "investigative_direction": "Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -766,7 +829,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
-      "investigative_direction": "Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels."
+      "investigative_direction": "Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -782,7 +846,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
-      "investigative_direction": "Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records."
+      "investigative_direction": "Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -798,7 +863,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:33",
-      "investigative_direction": "Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list."
+      "investigative_direction": "Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -884,7 +950,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
-      "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction."
+      "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     }
   ],
   "memes": []

@@ -494,6 +494,17 @@ Context: Viewer Joel comment elevated on air using Fake and Gay.
 Tags: viewer_refrain, catchphrase
 Confidence: high
 
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 00:50:40
+Speaker: N-3
+Quote: I am impatiently waiting for my conspiracy girly cup.
+Context: Wave 3 MemeLink backfill: Conspiracy Girly at 00:50:40 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 ## VI. Optional Flags

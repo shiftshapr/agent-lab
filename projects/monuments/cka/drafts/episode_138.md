@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2179, N-2180, N-2181, N-2182, N-2183, N-2184
-  - Reused Nodes Appearing: N-2
+  - Reused Nodes Appearing: N-2, N-808, N-3, N-69, N-84, N-1
   - (see registers)
 
 ## 2. Executive Summary
@@ -404,7 +404,7 @@ Claim Timestamp: 00:23:50–00:25:45
 Claim: Footage shows Nate Walker present in a bright blue shirt with bag speaking with Dan Flood at approximately 12:15, then at approximately 12:25 near Hall's walkway without bag, putting on sunglasses, and later walking downstairs.
 
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
-Mentions: N-1, N-434
+Mentions: N-1, N-434, N-808
 
 Related Nodes: N-2180
 
@@ -558,6 +558,36 @@ Mentions: N-3
 Related Nodes: N-2179
 
 Investigative Direction: Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.
+
+---
+
+**C-3762** Host says it is a lie that Tyler Robinson and his partner Lance are transgender
+
+Claim Timestamp: 00:05:02
+
+Claim: In a list of claims about the case she says were false, the host says it is a lie that Tyler Robinson and his partner Lance are transgender; she also lists the claims that his father turned him in and that a 4K video shows him taking the shot.
+
+Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you that very early on his lover Lance is not transgendered
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-84
+Related Nodes: N-2181
+Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
+
+---
+
+**C-3763** Host says it is a lie that Tyler Robinson's gun was tied to the autopsy bullet fragment
+
+Claim Timestamp: 00:09:28
+
+Claim: The host says it is a lie that Tyler Robinson's gun was officially tied to the bullet fragment recovered in Charlie Kirk's autopsy, citing the ATF testimony at the preliminary hearing that gave a range for the metal fragments.
+
+Transcript Snippet: We were told that Tyler Robinson's gun was officially tied to the bullet fragment that was recovered in Charlie's autopsy. That's a lie. The ATF was very clear.
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-1
+Related Nodes: N-2181
+Investigative Direction: Obtain the ATF examiner's preliminary-hearing testimony and the lab report on the fragments.
 
 ---
 

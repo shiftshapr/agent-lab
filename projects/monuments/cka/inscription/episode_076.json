@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-35",
-            "N-952",
+            "N-916",
             "N-960"
           ],
           "tags": [],
@@ -180,7 +180,7 @@
             "C-2426"
           ],
           "related_nodes": [
-            "N-952",
+            "N-916",
             "N-960"
           ],
           "tags": [],
@@ -519,29 +519,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-952",
-      "ref": "N-952",
-      "name": "Linda Rothschild",
-      "type": "person",
-      "description": "Per A-1814, documented as president of the Corcoran Group with multiple aliases and tied to Epstein's files.",
-      "related_artifacts": [
-        "A-1814.1"
-      ],
-      "related_claims": [
-        "C-2426"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-960",
-        "N-1595"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-953",
       "ref": "N-953",
       "name": "Martha Louise of Norway",
@@ -691,7 +668,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-952"
+        "N-916"
       ]
     },
     {
@@ -734,7 +711,7 @@
       "related_nodes": [
         "N-2",
         "N-960",
-        "N-952"
+        "N-916"
       ]
     },
     {
@@ -815,7 +792,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-952"
+        "N-916"
       ]
     },
     {
@@ -882,6 +859,22 @@
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-916",
+      "ref": "N-916",
+      "name": "Lynn Forester de Rothschild",
+      "type": "person",
+      "description": "Subject of Epstein document entry listing her as Corcoran Group Inc. President.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1025,7 +1018,7 @@
       "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references.",
       "mentions_person_refs": [
         "N-35",
-        "N-952",
+        "N-916",
         "N-960"
       ]
     },
@@ -1045,7 +1038,7 @@
       "claim_timestamp": "00:28:26",
       "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
       "mentions_person_refs": [
-        "N-952"
+        "N-916"
       ]
     },
     {
@@ -1161,7 +1154,6 @@
       "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
         "N-224"
       ]
     },
@@ -1240,5 +1232,27 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-10",
+      "ref": "M-10",
+      "canonical_term": "Happy Warrior",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 76,
+          "video_timestamp": "00:53:32",
+          "speaker_node_ref": "N-3",
+          "quote": "...that are like me absorbing a lot of these bullets but like me also happy warriors.",
+          "context": "Wave 3 MemeLink backfill: Happy Warrior at 00:53:32 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

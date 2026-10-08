@@ -17,6 +17,30 @@
 
 ## 6. Meme Register
 
+**M-78** (meme) Silence Is Not Kindness
+
+### Occurrence 1
+
+Video Timestamp: 00:44:14
+Speaker: N-3
+Quote: You guys know that I love them and the work that they are doing because I think we all recognize in this moment that silence is not kindness.
+Context: Reuse of Silence Is Not Kindness (first introduced in episode 6 at 00:21:51).
+Tags: wave3, reuse
+Confidence: high
+
+
+**M-83** (meme) Lo and Behold
+
+### Occurrence 1
+
+Video Timestamp: 00:14:15
+Speaker: N-3
+Quote: And lo and behold, while they're here, there is a trans shooting.
+Context: Wave 3 mint – first transcript introduction. Host ironic reveal marker
+Tags: wave3
+Confidence: high
+
+
 **M-47** (meme) Megachurches Look Funny
 
 ### Occurrence 1
@@ -47,7 +71,7 @@ Confidence: high
 ### Episode 23 Ledger Summary
 
 - **Artifact Families Introduced:** A-1301, A-1302, A-1303, A-1304, A-1305, A-1306, A-1307, A-1308, A-1309, A-1310, A-1311, A-1312
-- **Claim Range:** C-1545 – C-1567
+- **Claim Range:** C-1545 – C-1567, C-3748
 - **New Nodes Introduced:**N-302, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-70 (Governor Cox)
 
@@ -932,6 +956,21 @@ Related Nodes: N-1279
 Investigative Direction: Locate any public statement by Rob McCoy identifying himself as Charlie Kirk's pastor; verify the nature and duration of any pastoral relationship.
 
 *Flag: Direct quote attributed to McCoy not displayed within episode*
+
+---
+
+**C-3748** Host says people around Charlie Kirk are lying about where he was on his faith journey
+
+Claim Timestamp: 00:54:03
+
+Claim: The host says that, instead of acting as expected after the assassination, people around Charlie Kirk are making videos about her and lying about where he was on his faith journey, keeping his Catholic interest "hush-hush".
+
+Transcript Snippet: They're lying to you about where Charlie was on his faith journey.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: 
+Investigative Direction: Compare TPUSA and family statements on Charlie Kirk's faith against the host's messages with him and other accounts of his Catholic interest.
 
 ---
 

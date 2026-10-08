@@ -1433,6 +1433,69 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "He&nbsp; is telling me, plus other conspiracy theorists,&nbsp;&nbsp; to shut up unless we have the facts.",
+          "context": "Wave 3 MemeLink backfill: conspiracy theorist at 00:00:00 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-17",
+      "ref": "M-17",
+      "canonical_term": "Hood Rat Stuff",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "01:03:39",
+          "speaker_node_ref": "N-3",
+          "quote": "I want hood rat stuff&nbsp;&nbsp; with my friends when I am pregnant with a boy.&nbsp; I need it all day, every day.",
+          "context": "Wave 3 MemeLink backfill: Hood Rat Stuff at 01:03:39 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "01:03:39",
+          "speaker_node_ref": "N-3",
+          "quote": "Um, also, yes, make him a sandwich.",
+          "context": "Wave 3 MemeLink backfill: Make Him a Sandwich at 01:03:39 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
     }
   ]
 }

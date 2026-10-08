@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
-  - Reused Nodes Appearing: N-1, N-2
+  - New Nodes Introduced:  N-951, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+  - Reused Nodes Appearing: N-1, N-2, N-916
 
 # Episode Analysis: Monument Episode 76 – "Did Erika Kirk Know Jeffrey Epstein?"
 
@@ -33,8 +33,8 @@
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
 - **Claim Range:** C-2419–C-2436
-- **New Nodes Introduced:** N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
+- **New Nodes Introduced:** N-951, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-916 (Lynn Forester de Rothschild)
 
 ---
 
@@ -118,7 +118,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host asserts "says it right there" but underlying email not independently displayed)
 
-*Related: C-2425, N-35, N-952, N-960*
+*Related: C-2425, N-35, N-916, N-960*
 
 ---
 
@@ -132,7 +132,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host cites "someone read a background"; underlying document not displayed)
 
-*Related: C-2426, N-952, N-960*
+*Related: C-2426, N-916, N-960*
 
 ---
 
@@ -294,19 +294,6 @@ Investigative Pressure: Medium
 
 ---
 
-**N-952** Linda Rothschild
-
-Per A-1814, documented as president of the Corcoran Group with multiple aliases and tied to Epstein's files.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1814.1, C-2426, N-960, N-1595*
-
----
-
 **N-953** Martha Louise of Norway
 
 Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).
@@ -394,7 +381,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1813.1, N-952*
+*Related: A-1813.1, N-916*
 
 ---
 
@@ -422,7 +409,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-960, N-952*
+*Related: N-2, N-960, N-916*
 
 ---
 
@@ -461,7 +448,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1814.1, C-2426, N-952*
+*Related: A-1814.1, C-2426, N-916*
 
 ---
 
@@ -564,7 +551,7 @@ Claim Timestamp: 00:27:39–00:28:26
 Claim: The Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.
 
 Anchored Artifacts: A-1813.1
-Mentions: N-35, N-952, N-960
+Mentions: N-35, N-916, N-960
 Investigative Direction: Search Epstein-files email corpus for Corcoran/Linda Rothschild references.
 
 ---
@@ -576,7 +563,7 @@ Claim Timestamp: 00:28:26
 Claim: A background document on Linda Rothschild lists her alternate names and identifies her as president of the Corcoran Group; the document is tied to Epstein's files.
 
 Anchored Artifacts: A-1814.1
-Mentions: N-952
+Mentions: N-916
 Related Nodes: N-1595
 Investigative Direction: Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
 
@@ -722,6 +709,17 @@ Context: Later reuse of Spiritual Warfare in CKA seq 76.
 Tags: faith, chat_elevate, frame, reuse
 Confidence: high
 
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:53:32
+Speaker: N-3
+Quote: ...that are like me absorbing a lot of these bullets but like me also happy warriors.
+Context: Wave 3 MemeLink backfill: Happy Warrior at 00:53:32 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 ## VI. Optional Flags
@@ -768,7 +766,7 @@ Confidence: high
 
 - **New Artifact Families:** A-1809 through A-1821 (13 families)
 - **New Claim IDs:** C-2419 through C-2436 (18 claims)
-- **New People Nodes:** N-35 through N-960 (11 nodes)
+- **New People Nodes:** N-35 through N-960 (10 nodes)
 - **New Investigation Target Nodes:** N-1591 through N-1596 (6 nodes)
-- **Existing Nodes Reused:** N-1, N-2
+- **Existing Nodes Reused:** N-1, N-2, N-916
 - **Correction Notes:** None this episode.

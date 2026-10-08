@@ -453,6 +453,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -601,6 +617,25 @@
       "mentions_person_refs": [
         "N-3",
         "N-426"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3747",
+      "ref": "C-3747",
+      "label": "Host maintains that Turning Point USA is engaged in a cover-up",
+      "claim": "The host says she maintains that Turning Point USA is engaged in a cover-up, after it refused a virtual or live-streamed appearance and while its figures, including Blake Neff, call her names instead of answering questions.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:28",
+      "investigative_direction": "Track TPUSA responses to the on-record questions; compare against the list of disputed statements the host says she keeps.",
+      "transcript_snippet": "Okay, I maintain that turning point is engaged in a cover up.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-224"
       ]
     }
   ],

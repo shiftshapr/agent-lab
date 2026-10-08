@@ -6,20 +6,20 @@
 |-------|-------|
 | vocabulary | 2.0.0 (2026-10-07) |
 | vocab source | https://brc222.org/vocabulary.json |
-| generated_at (UTC) | 2026-10-08T19:08:43Z |
-| bridges | 9209 |
-| revises candidate rows | 24 (both terms per edge) |
-| revises heuristic primary | {'isQualifiedBy': 12} |
+| generated_at (UTC) | 2026-10-08T21:32:13Z |
+| bridges | 9288 |
+| revises candidate rows | 40 (both terms per edge) |
+| revises heuristic primary | {'isQualifiedBy': 20} |
 
 ## Edge counts (emitted relationship names from vocab)
 
 ```
 {
-  "contradicts": 19,
-  "isCorroboratedBy": 8,
-  "isMemberOf": 6355,
-  "isQualifiedBy": 4,
-  "isSupportedBy": 2823
+  "contradicts": 20,
+  "isCorroboratedBy": 9,
+  "isMemberOf": 6405,
+  "isQualifiedBy": 12,
+  "isSupportedBy": 2842
 }
 ```
 
@@ -43,7 +43,8 @@ No `direction` field. Retired terms rejected: amplifies, contextualizes, timelin
 
 For each ledger `Revises:` edge the builder emits **one** bridge. Edges whose newer claim has a
 Transit ruling in `config/companion_revises_rulings.json` use the ruled term
-(`review_status: transit_ruled`); other edges use the heuristic primary
+(`review_status: transit_ruled`, `metadata.ruling_source` citing the ruling; a ruling row
+without a source is rejected); other edges use the heuristic primary
 (`review_status: pending_transit`). The CSV keeps both candidate terms per edge.
 
 Primary pick rule:

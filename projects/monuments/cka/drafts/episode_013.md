@@ -32,9 +32,9 @@
 
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
-- Claim Range: C-1337–C-1353
+- Claim Range: C-1337–C-1353, C-3754
   - New Nodes Introduced:  N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-3, N-69, N-176
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
@@ -330,7 +330,7 @@ Investigative Pressure: Medium-High (involves routing question)
 
 ---
 
-**N-193** Judge Tony F. Graph Jr.
+**N-193** Judge Tony F. Graf Jr.
 Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.
 
 Evidence Count: 1
@@ -745,7 +745,58 @@ Investigative Direction: Obtain independent attendee statements; compare against
 
 ---
 
+**C-3754** Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion
+
+Claim Timestamp: 00:17:50
+
+Claim: The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his "uncle Mikey", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory.
+
+Transcript Snippet: It is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his uncle Mikey.
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-176
+Related Nodes: N-1217
+Investigative Direction: Locate the photos the host refers to and establish who "uncle Mikey" is; check any Mike Mitchell link against the public record.
+
+---
+
 ## 6. Meme Register
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:31:58
+Speaker: N-3
+Quote: ...anything bad right now about Israel on TikTok and this is because it's what BBNet and Yahoo has willed right they want to censor speech which was something that Charlie was...
+Context: Wave 3 mint – first transcript introduction. Host punning nickname for Netanyahu
+Tags: wave3
+Confidence: high
+
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:47:19
+Speaker: N-3
+Quote: I hope this is the year of the shady pastor after operation mocking pastor uh learning why they can say we don't take money from Israel but they...
+Context: Reuse of Operation Mocking Pastor (first introduced in episode 4 at 00:55:47).
+Tags: wave3, reuse
+Confidence: high
+
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:35:51
+Speaker: N-3
+Quote: ...your friend and you're like what did I do wrong like I just said genocide is always wrong I just retweeted Max Blumenthal something they said that was sensible and they come...
+Context: Reuse of Genocide Is Always Wrong (first introduced in episode 3 at 00:56:16).
+Tags: wave3, reuse
+Confidence: high
+
 
 **M-41** (meme) Sock Puppet
 

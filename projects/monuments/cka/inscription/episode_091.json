@@ -73,8 +73,6 @@
             "C-2714"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-1209",
             "N-1680"
           ],
           "tags": [],
@@ -92,7 +90,6 @@
             "C-2715"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1680"
           ],
           "tags": [],
@@ -194,7 +191,6 @@
             "C-2721"
           ],
           "related_nodes": [
-            "N-1208",
             "N-1674",
             "N-1678"
           ],
@@ -222,7 +218,6 @@
             "C-2720"
           ],
           "related_nodes": [
-            "N-1207",
             "N-1679"
           ],
           "tags": [],
@@ -266,7 +261,6 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1208",
         "N-1678"
       ]
     },
@@ -309,10 +303,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -359,7 +350,6 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1208",
         "N-1674"
       ]
     },
@@ -405,9 +395,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -475,6 +463,41 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-677",
+      "ref": "N-677",
+      "name": "Jimmy Cherizier",
+      "type": "person",
+      "description": "First named by the host at 00:27:14 in episode 91.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2705",
+        "C-2716"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-678",
+      "ref": "N-678",
+      "name": "Daniel Horner",
+      "type": "person",
+      "description": "First named by the host at 00:32:24 in episode 91.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2706"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -492,7 +515,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
-      "investigative_direction": "Verify Hall's account against Fold AR business records, communications, and any documented acquisition proposals."
+      "investigative_direction": "Verify Hall's account against Fold AR business records, communications, and any documented acquisition proposals.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -506,7 +530,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:21:21",
-      "investigative_direction": "Verify travel records, communications, and Fold AR demo logs from December 2023."
+      "investigative_direction": "Verify travel records, communications, and Fold AR demo logs from December 2023.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -520,7 +545,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:22:29",
-      "investigative_direction": "Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently."
+      "investigative_direction": "Identify any witnesses or documentation of the prayer ceremony; characterize the practice independently.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -534,7 +560,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:43",
-      "investigative_direction": "Verify the marriage through official marriage records."
+      "investigative_direction": "Verify the marriage through official marriage records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -548,7 +575,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:24:43",
-      "investigative_direction": "Verify purchase records with Fold AR and Lindale High School administration."
+      "investigative_direction": "Verify purchase records with Fold AR and Lindale High School administration.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -564,7 +592,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:43",
-      "investigative_direction": "Verify any related communications, travel records, or follow-up requests; check export-control filings."
+      "investigative_direction": "Verify any related communications, travel records, or follow-up requests; check export-control filings.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -580,7 +609,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:32",
-      "investigative_direction": "Verify the build of the rifle, related communications, and any video documentation produced."
+      "investigative_direction": "Verify the build of the rifle, related communications, and any video documentation produced.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -596,7 +626,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:14",
-      "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting."
+      "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting.",
+      "mentions_person_refs": [
+        "N-677"
+      ]
     },
     {
       "@type": "Claim",
@@ -612,7 +645,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly."
+      "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly.",
+      "mentions_person_refs": [
+        "N-678"
+      ]
     },
     {
       "@type": "Claim",
@@ -628,7 +664,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify with any valuation documents, accountants, or formal acquisition proposals."
+      "investigative_direction": "Verify with any valuation documents, accountants, or formal acquisition proposals.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -644,7 +681,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
-      "investigative_direction": "Verify any related communications, broker contacts, or follow-up activity; cross-check with export-control records."
+      "investigative_direction": "Verify any related communications, broker contacts, or follow-up activity; cross-check with export-control records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -658,7 +696,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:34:23",
-      "investigative_direction": "Verify the existence and current status of the structure via public records or satellite imagery."
+      "investigative_direction": "Verify the existence and current status of the structure via public records or satellite imagery.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -672,7 +711,8 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:14",
-      "investigative_direction": "Obtain the original message text if retained."
+      "investigative_direction": "Obtain the original message text if retained.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -688,7 +728,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
-      "investigative_direction": "Verify the sale via Fold AR's bound book / ATF Form 4473 records."
+      "investigative_direction": "Verify the sale via Fold AR's bound book / ATF Form 4473 records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -704,7 +745,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
-      "investigative_direction": "Verify with Midland Police Department records and the deputy's agency."
+      "investigative_direction": "Verify with Midland Police Department records and the deputy's agency.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -721,7 +763,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:42",
-      "investigative_direction": "Independently verify the email via ATF; identify the originating case and underlying crime."
+      "investigative_direction": "Independently verify the email via ATF; identify the originating case and underlying crime.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -777,7 +820,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:28",
-      "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records."
+      "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.",
+      "mentions_person_refs": [
+        "N-677"
+      ]
     },
     {
       "@type": "Claim",
@@ -812,7 +858,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:04",
-      "investigative_direction": "Identify the source recording; verify any underlying events or absence thereof via law enforcement records."
+      "investigative_direction": "Identify the source recording; verify any underlying events or absence thereof via law enforcement records.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -828,7 +875,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:56:23",
-      "investigative_direction": "Verify Marine Corps enlistment contract minimums through official Marine Corps publications."
+      "investigative_direction": "Verify Marine Corps enlistment contract minimums through official Marine Corps publications.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -844,7 +892,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:56:23",
-      "investigative_direction": "Verify the host's assertion against Marine Corps enlistment options."
+      "investigative_direction": "Verify the host's assertion against Marine Corps enlistment options.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -862,7 +911,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
-      "investigative_direction": "Independently verify the host's confirmation of the email and the underlying timeline."
+      "investigative_direction": "Independently verify the host's confirmation of the email and the underlying timeline.",
+      "mentions_person_refs": []
     }
   ],
   "memes": []

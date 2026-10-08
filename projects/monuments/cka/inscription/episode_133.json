@@ -447,10 +447,7 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1208",
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",

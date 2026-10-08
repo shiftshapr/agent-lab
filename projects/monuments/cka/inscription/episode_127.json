@@ -32,7 +32,6 @@
             "C-3044"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2124"
           ],
           "tags": [],
@@ -52,7 +51,6 @@
             "C-3044"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2125"
           ],
           "tags": [],
@@ -80,7 +78,6 @@
             "C-3056"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2124"
           ],
           "tags": [],
@@ -108,7 +105,6 @@
             "C-3047"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2126"
           ],
           "tags": [],
@@ -128,7 +124,6 @@
             "C-3048"
           ],
           "related_nodes": [
-            "N-1208",
             "N-2126"
           ],
           "tags": [],
@@ -156,7 +151,6 @@
             "C-3050"
           ],
           "related_nodes": [
-            "N-1209",
             "N-2126"
           ],
           "tags": [],
@@ -176,7 +170,6 @@
             "C-3051"
           ],
           "related_nodes": [
-            "N-1209",
             "N-2126"
           ],
           "tags": [],
@@ -287,9 +280,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -309,9 +300,7 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-1207"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -339,10 +328,7 @@
       "claim_count": 6,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -496,6 +482,58 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-629",
+      "ref": "N-629",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Named by the host at 00:45:58 in episode 127; first introduced in episode 15.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3054"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-810",
+      "ref": "N-810",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3042",
+        "C-3043",
+        "C-3044"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-809",
+      "ref": "N-809",
+      "name": "Jennifer Faumuina",
+      "type": "person",
+      "description": "Named by the host at 00:15:24 in episode 128; first introduced in episode 126.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -513,7 +551,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:36–00:06:28",
-      "investigative_direction": "Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history."
+      "investigative_direction": "Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -529,7 +570,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:06–00:10:43",
-      "investigative_direction": "Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025."
+      "investigative_direction": "Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -545,7 +589,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:05–00:11:27",
-      "investigative_direction": "Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window."
+      "investigative_direction": "Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window.",
+      "mentions_person_refs": [
+        "N-810"
+      ]
     },
     {
       "@type": "Claim",
@@ -561,7 +608,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:28–00:08:12",
-      "investigative_direction": "Identify the email author (host has protected identity), corroborate Axon Body Cam 4 specifications from manufacturer documentation, and request Bagley's device telemetry."
+      "investigative_direction": "Identify the email author (host has protected identity), corroborate Axon Body Cam 4 specifications from manufacturer documentation, and request Bagley's device telemetry.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -577,7 +625,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:19–00:16:23",
-      "investigative_direction": "Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall."
+      "investigative_direction": "Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.",
+      "mentions_person_refs": [
+        "N-809"
+      ]
     },
     {
       "@type": "Claim",
@@ -594,7 +645,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:23–00:17:06",
-      "investigative_direction": "Obtain the FBI lab intake documentation for these items and the chain-of-custody record."
+      "investigative_direction": "Obtain the FBI lab intake documentation for these items and the chain-of-custody record.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -610,7 +662,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:06–00:17:53",
-      "investigative_direction": "Compare FBI/ATF lab notes to Felomina's communication log and identify the party that actually conveyed the \"not probative\" determination."
+      "investigative_direction": "Compare FBI/ATF lab notes to Felomina's communication log and identify the party that actually conveyed the \"not probative\" determination.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -626,7 +679,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:25–00:20:30",
-      "investigative_direction": "Identify the bystander candidate; obtain the source of the \"bystander\" classification."
+      "investigative_direction": "Identify the bystander candidate; obtain the source of the \"bystander\" classification.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -642,7 +696,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:30–00:21:15",
-      "investigative_direction": "Identify the lab employee who authored/added the \"Kirk's detail\" attribution; obtain that employee's written communication."
+      "investigative_direction": "Identify the lab employee who authored/added the \"Kirk's detail\" attribution; obtain that employee's written communication.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -659,7 +714,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:30–00:24:14",
-      "investigative_direction": "Locate the original handwritten or digital lab note and trace the attribution chain."
+      "investigative_direction": "Locate the original handwritten or digital lab note and trace the attribution chain.",
+      "mentions_person_refs": []
     },
     {
       "@type": "Claim",
@@ -715,7 +771,8 @@
       "claim_timestamp": "00:46:07–00:47:07",
       "investigative_direction": "Obtain the original Megyn Kelly / Bongino Sept. 15 broadcast and any FBI enhancement documentation released between Sept. 15 and the influencer court-day coverage.",
       "mentions_person_refs": [
-        "N-75"
+        "N-75",
+        "N-629"
       ]
     },
     {

@@ -303,7 +303,7 @@ Investigative Pressure: Low (as source only)
 
 ---
 
-**N-394** Robin Taylor / "Rob Taylor" / "Luke Taylor" (Name uncertainty – flagged)
+**N-394** Robin Taylor
 
 Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.
 
@@ -368,7 +368,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-399** Bob Koy / Bob Coy (Name uncertainty)
+**N-399** Bob Coy
 
 Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as "Bob Koy."
 
@@ -381,7 +381,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-400** R. Todd Nielson (per A-1406.1)
+**N-400** R. Todd Nielson
 
 Named in Courtney Love text screenshots as a "corrupt Fed" and as an LDS apostle. Single-source; unverified.
 
@@ -474,7 +474,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1320** "Mormon Mafia" Allegation (Courtney Love Source)
+**N-1320** "Mormon Mafia" Allegation
 
 Investigative target: alleged coordinating entity above Hollywood and "Zionist Jews" identified in Courtney Love text messages of January 2025. Single-source, unverified.
 
@@ -513,7 +513,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1323** Potter's Fields Hostile Takeover Allegation (Pre-Existing Target, New Evidence)
+**N-1323** Potter's Fields Hostile Takeover Allegation
 
 Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).
 
@@ -854,6 +854,15 @@ Speaker: N-3
 Quote: r way to present that information. It's a fact now that everything is fake and gay and dangerously so. I was freaking out realizing that quite lite...
 Context: Fake and gay dismissal refrain. (CKA seq 32)
 Tags: reuse, pass2
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:52:28
+Speaker: N-3
+Quote: So don't miss out on that because everything is fake and gay and that's a good merch drop.
+Context: Wave 3 MemeLink backfill: Fake and Gay at 00:52:28 (audit missing_memelink).
+Tags: reuse, memelink_backfill
 Confidence: high
 
 ---

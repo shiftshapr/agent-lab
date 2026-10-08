@@ -12,6 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1726, N-1727, N-1728, N-1729, N-1730, N-1731
+  - Hole-minted Nodes (wave3): N-684
   - Reused Nodes Appearing: N-2391
   - (see registers)
 
@@ -32,6 +33,28 @@ Speaker: N-3
 Quote: Nickelodeon girl, like making fun of me, and it was weird, and it was cringe, and also beyond the realm of being stalked by a former employer. Stra...
 Context: Later reuse of Cringe in CKA seq 98.
 Tags: aesthetic, dunk, comedy, reuse
+Confidence: high
+
+**M-5** (meme) happy coincidence
+
+### Occurrence 1
+
+Video Timestamp: 00:25:25
+Speaker: N-3
+Quote: Are we to believe that this is just a happy coincidence?
+Context: Wave 3 MemeLink backfill: happy coincidence at 00:25:25 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:47:19
+Speaker: N-3
+Quote: Be a happy warrior, as I told you Charlie used to always say.
+Context: Wave 3 MemeLink backfill: Happy Warrior at 00:47:19 (audit missing_memelink).
+Tags: reuse, memelink_backfill
 Confidence: high
 
 ---
@@ -365,6 +388,13 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
+**N-684** Chad Schnitker
+
+First named by the host at 00:37:02 in episode 98.
+
+*Related: C-2843, C-2844, C-2845, C-2846*
+
+
 **N-1726** Brian Harpole Lawsuit Coordination Question
 
 Investigative target: did the Brian Harpole lawsuit, filed via Slauson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?
@@ -492,6 +522,7 @@ Claim Timestamp: 00:09:45
 Claim: An X analysis by Akash Gupta quantified Shapiro's YouTube monthly viewership as collapsing from approximately 170 million to approximately 22 million over roughly 18 months.
 
 Anchored Artifacts: A-2031.1
+Mentions:
 
 Related Nodes:
 
@@ -506,6 +537,7 @@ Claim Timestamp: 00:09:45
 Claim: The X analysis cited LayoffHedge.com estimates of cumulative Daily Wire workforce reduction above 60%.
 
 Anchored Artifacts: A-2031.1
+Mentions:
 
 Related Nodes:
 
@@ -574,6 +606,7 @@ Claim Timestamp: 00:37:02
 Claim: A Times of Israel article reported Israel's Foreign Ministry plans to spend up to $4.1 million on a Christian-targeted marketing campaign via Show Faith by Works LLC, using geofencing technology.
 
 Anchored Artifacts: A-2035.1
+Mentions: N-684
 
 Related Nodes: N-1727, N-1728
 
@@ -588,6 +621,7 @@ Claim Timestamp: 00:36:00
 Claim: The FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.
 
 Anchored Artifacts: A-2035.1, A-2036.1
+Mentions: N-684
 
 Related Nodes: N-1727
 
@@ -600,7 +634,7 @@ Claim Timestamp: 00:36:00
 Claim: Show Faith by Works LLC began its FARA contracting registration approximately eight days after Charlie Kirk's assassination.
 
 Anchored Artifacts: A-2036.1
-Mentions: N-1
+Mentions: N-1, N-684
 
 Related Nodes: N-1727
 
@@ -613,7 +647,7 @@ Claim Timestamp: 00:36:00
 Claim: Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], followed by the public funeral of Charlie Kirk.
 
 Anchored Artifacts: A-2036.1, A-2044.1
-Mentions: N-1
+Mentions: N-1, N-684
 
 Related Nodes: N-1727, N-1728
 
@@ -742,4 +776,6 @@ Anchored Artifacts: A-2036.1
 Related Nodes: N-1727
 
 ---
+
+
 

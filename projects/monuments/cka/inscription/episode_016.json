@@ -945,7 +945,7 @@
       "@type": "Person",
       "@id": "N-84",
       "ref": "N-84",
-      "name": "Lance Twigs",
+      "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [],
@@ -1398,5 +1398,46 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-82",
+      "ref": "M-82",
+      "canonical_term": "Make That Make Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "00:42:20",
+          "speaker_node_ref": "N-3",
+          "quote": "I mean, make that make sense.",
+          "context": "Wave 3 mint – first transcript introduction. Host rhetorical challenge demanding coherence from an official narrative",
+          "confidence": "high",
+          "tags": [
+            "wave3"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "00:46:38",
+          "quote": "Any civilized culture, Christian or otherwise, allows a grieving widow 40 days of mourning to make peace with the Lord and to respect the departed.",
+          "context": "Wave 3 MemeLink backfill: Grieving Widow at 00:46:38 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -294,7 +294,7 @@ Investigative Direction: Review any court filings or legal correspondence refere
 
 **C-1971** "Mitch" Physically Present at Fort Huachuca on September 8–9, 2025
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:19:30
 
 Claim: Witness "Mitch" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), as verified by host via EXIF metadata from an 18-minute self-recorded video and matching military ID credentials.
 
@@ -440,6 +440,18 @@ The artifact, node, and claim registers are mutually cross-referenced. Key struc
 ---
 
 ## 6. Meme Register
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:13:59
+Speaker: N-3
+Quote: Uh I'm going to say allegedly allegedly allegedly here.
+Context: Reuse of I'll Say Allegedly (first introduced in episode 3 at 00:30:02).
+Tags: wave3, reuse
+Confidence: high
+
 
 **M-40** (meme) Truman Show
 

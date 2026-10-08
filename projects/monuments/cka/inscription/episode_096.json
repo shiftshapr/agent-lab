@@ -128,6 +128,26 @@
           "video_timestamp": "00:33:09",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2008.5",
+          "ref": "A-2008.5",
+          "description": "Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk \"I just want to go home\" clip (verbal reference; no displayed artifact)",
+          "related_claims": [
+            "C-3745"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-619",
+            "N-1713"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
         }
       ]
     },
@@ -405,6 +425,25 @@
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "01:06:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2013.3",
+          "ref": "A-2013.3",
+          "description": "Photos of Candace Owens from August 2016, before the mold illness, shown on air",
+          "related_claims": [
+            "C-3752"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:18",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "high"
         }
@@ -958,6 +997,28 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3745",
+      "ref": "C-3745",
+      "label": "Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip",
+      "claim": "After saying she could not confirm that Sarah Sidner shot the Erika Kirk \"I just want to go home\" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.",
+      "anchored_artifacts": [
+        "A-2008.5"
+      ],
+      "related_nodes": [
+        "N-1713"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:25",
+      "investigative_direction": "Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-1713).",
+      "transcript_snippet": "I will offer $10,000 to somebody who has the opposite side footage.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-619"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-2794",
       "ref": "C-2794",
       "label": "Baron Coleman commented on WHCD media frenzy",
@@ -1272,7 +1333,70 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3752",
+      "ref": "C-3752",
+      "label": "Candace shows August 2016 photos taken three months before the photo Trump shared",
+      "claim": "Candace shows photos of herself from August 2016, including hiking with her cousins without makeup, and says the photo Trump shared was taken just three months later, when she was very sick.",
+      "anchored_artifacts": [
+        "A-2013.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:09:18",
+      "investigative_direction": "Match the August 2016 photos and the photo Trump posted to their original posting dates.",
+      "transcript_snippet": "The picture that Trump shared was taken just 3 months later.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 96,
+          "video_timestamp": "00:32:25",
+          "speaker_node_ref": "N-3",
+          "quote": "If you have that opposite side footage of the person who caught that footage, 10k is yours, no questions asked, okay? More tips at candaceowens. com.",
+          "context": "DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-3745, A-2008.5).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_tip_line",
+            "transcript_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-22",
+      "ref": "M-22",
+      "canonical_term": "Why Are You Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 96,
+          "video_timestamp": "00:53:58",
+          "speaker_node_ref": "N-3",
+          "quote": "Like why are you gay?",
+          "context": "Wave 3 MemeLink backfill: Why Are You Gay at 00:53:58 (audit missing_memelink).",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "memelink_backfill"
+          ]
+        }
+      ]
+    }
+  ]
 }

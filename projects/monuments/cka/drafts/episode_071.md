@@ -15,6 +15,21 @@
   - Reused Nodes Appearing: 
   - (see registers), N-37
 
+## 6. Meme Register
+
+**M-22** (meme) Why Are You Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:43:33
+Speaker: N-3
+Quote: Why are you gay?
+Context: Wave 3 MemeLink backfill: Why Are You Gay at 00:43:33 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+---
+
 # Episode 71 Analysis Record
 
 ## I. Meta-Data

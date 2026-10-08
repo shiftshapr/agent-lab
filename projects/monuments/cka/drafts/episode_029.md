@@ -260,7 +260,7 @@ Investigative Pressure: Low
 
 *Related: A-1367.1, C-1655*
 
-**N-365** Shawnie Ray Kirkup / Kirkhoff
+**N-365** Shauni Kerkhoff
 
 Person identified by Steve Baker (as "Kirkup") and by CIA spokesperson Liz Lyons (as "Kirkhoff") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.
 
@@ -640,6 +640,28 @@ Speaker: N-3
 Quote: I've long said that in terms of the names I get called in the media, I feel like I'm I'm playing Pokémon. I just got to catch every single ball.
 Context: CKA reuse of catch-them-all / Pokémon joke about accumulating smear labels (BoC M-8 pattern).
 Tags: pokemon_joke, smear_labels
+Confidence: high
+
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:21:31
+Speaker: N-3
+Quote: Conspiracy theorists said it was a military operation and there was a ton of evidence to support that, okay?
+Context: Wave 3 MemeLink backfill: conspiracy theorist at 00:21:31 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+**M-25** (meme) Iron Sharpens Iron
+
+### Occurrence 1
+
+Video Timestamp: 00:31:24
+Speaker: N-3
+Quote: Iron sharpens iron.
+Context: Wave 3 MemeLink backfill: Iron Sharpens Iron at 00:31:24 (audit missing_memelink).
+Tags: reuse, memelink_backfill
 Confidence: high
 
 ---

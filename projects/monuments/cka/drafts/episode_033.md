@@ -844,6 +844,26 @@ Context: Go Max battle cry. (CKA seq 33)
 Tags: reuse, pass2
 Confidence: high
 
+**M-16** (meme) Mommy Sleuth
+
+### Occurrence 1
+
+Video Timestamp: 00:14:51
+Speaker: N-3
+Quote: A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed.
+Context: Wave 3 MemeLink backfill: Mommy Sleuth at 00:14:51 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:26:19
+Speaker: N-3
+Quote: This time, another mommy sleuth.
+Context: Wave 3 MemeLink backfill: Mommy Sleuth at 00:26:19 (audit missing_memelink).
+Tags: reuse, memelink_backfill
+Confidence: high
+
 ---
 
 ## VI. Optional Flags

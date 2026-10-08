@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2213, N-2214, N-2215
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
-  - (see registers)
+ - New Nodes Introduced: N-2213, N-2214, N-2215
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-774
+ - (see registers)
 
 ---
 
@@ -447,6 +447,7 @@ Claim Timestamp: 00:17:34
 Claim: Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene.
 
 Anchored Artifacts: A-2319.1
+Mentions: N-774
 Related Nodes:
 Investigative Direction: Verify by reading the full CCRD filing; compare to subsequent court filings.
 
@@ -465,7 +466,7 @@ Investigative Direction: Independently verify each component of the coordination
 
 ## VI. Optional Flags
 
-- **Name uncertainty (former local id 1218):** Host uses the name "Matt Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
+- **Name uncertainty:** Host uses the name "Matt Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
 - **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.
 - **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erica Kirk.
 - **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-2215 but not as an artifact-anchored claim in this episode.

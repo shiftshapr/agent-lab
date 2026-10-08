@@ -51,9 +51,7 @@
           "related_claims": [
             "C-3346"
           ],
-          "related_nodes": [
-            "N-1208"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -78,11 +76,7 @@
             "C-3347",
             "C-3355"
           ],
-          "related_nodes": [
-            "N-1207",
-            "N-1208",
-            "N-1209"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -101,8 +95,6 @@
             "C-3351"
           ],
           "related_nodes": [
-            "N-1208",
-            "N-1209",
             "N-2217"
           ],
           "tags": [],
@@ -154,7 +146,6 @@
             "C-3348"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2216"
           ],
           "tags": [],
@@ -173,7 +164,6 @@
             "C-3353"
           ],
           "related_nodes": [
-            "N-1207",
             "N-2216"
           ],
           "tags": [],
@@ -190,7 +180,6 @@
           "description": "Butch Hibbs standing behind persons speaking to news crews about what they witnessed",
           "related_claims": [],
           "related_nodes": [
-            "N-1207",
             "N-2216"
           ],
           "tags": [],
@@ -214,9 +203,7 @@
           "ref": "A-2325.1",
           "description": "Butch Hibbs in plaid shirt at UVU event with security detail",
           "related_claims": [],
-          "related_nodes": [
-            "N-1207"
-          ],
+          "related_nodes": [],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
           "source_timestamp": "00:00:00–00:00:01",
@@ -322,127 +309,6 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
-      "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
-      "description": "Brother of Pastor Jack Hibbs; reported age 74 at time of UVU event; described as a \"mountain man\" living in Utah; subject of post-shooting recording behavior analysis.",
-      "related_artifacts": [
-        "A-2322.1",
-        "A-2322.2",
-        "A-2323.1",
-        "A-2324.1",
-        "A-2324.2",
-        "A-2324.3",
-        "A-2325.1"
-      ],
-      "related_claims": [
-        "C-3345",
-        "C-3347",
-        "C-3348",
-        "C-3353",
-        "C-3355"
-      ],
-      "tags": [],
-      "evidence_count": 7,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-2216"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
-      "name": "Brooksby Suicide Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Senior pastor of Calvary Chapel Church, Chino Hills, California; brother of Butch Hibbs; multiple public statements and interviews concerning 9/10 events; first to publicly announce Charlie Kirk's death.",
-      "related_artifacts": [
-        "A-2321.1",
-        "A-2322.1",
-        "A-2322.2",
-        "A-2323.1"
-      ],
-      "related_claims": [
-        "C-3346",
-        "C-3347",
-        "C-3349",
-        "C-3350",
-        "C-3351",
-        "C-3355"
-      ],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1209",
-        "N-1210",
-        "N-2217"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
-      "name": "Robinson Apartment Staging Allegation",
-      "type": "investigation_target",
-      "description": "Interviewer of Jack Hibbs in two clips played on air; described by host as a former military man; was FaceTiming with Jack Hibbs from the Tempe/Phoenix hospital area after the shooting.",
-      "related_artifacts": [
-        "A-2322.1",
-        "A-2322.2"
-      ],
-      "related_claims": [
-        "C-3347",
-        "C-3349"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-2217"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
-      "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
-      "description": "Described as former MSAD/Unit 8200 agent and CEO of PragerU; host states she previously recommended Jack Hibbs for the host's podcast.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
-      "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
-      "description": "Described by host as funders of certain Calvary Chapel churches (including Rob McCoy's Thousand Oaks location), PragerU, Daily Wire initial funding, and Ted Cruz; alleged to fly Israeli flags on Texas property.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
-      "@type": "InvestigationTarget",
       "@id": "N-2216",
       "ref": "N-2216",
       "name": "Butch Hibbs UVU Recording Behavior",
@@ -462,10 +328,7 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1207",
-        "N-1208"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",
@@ -487,10 +350,7 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1208",
-        "N-1209"
-      ]
+      "related_nodes": []
     },
     {
       "@type": "InvestigationTarget",

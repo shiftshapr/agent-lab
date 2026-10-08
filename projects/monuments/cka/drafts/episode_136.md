@@ -12,7 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2170, N-2171, N-2172, N-2173, N-2174
-  - Reused Nodes Appearing: 
+  - Hole-minted Nodes (wave3): N-913
+  - Reused Nodes Appearing: N-629, N-810
   - (see registers)
 
 # Episode 136 Analysis Record
@@ -254,6 +255,14 @@ Confidence Level: Medium (verbally referenced; not directly displayed)
 
 ## IV. Node Register
 
+**N-913** Christopher Hawk
+
+First named by the host at 00:17:52 in episode 136.
+
+*Related: C-3198, C-3199, C-3200*
+
+
+
 **N-2170** Missing Gloves Origin in SUV Door
 
 Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.
@@ -342,7 +351,7 @@ Claim Timestamp: 00:13:11
 Claim: Per a Kash Patel public statement played in the episode, the first FBI agents arrived at UVU with chiefs of police at 12:39 PM, 16 minutes after the 12:23 PM shooting, and secured the scene.
 
 Anchored Artifacts: A-2226.1
-Mentions: N-102
+Mentions: N-102, N-629
 Related Nodes:
 
 Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.
@@ -356,6 +365,7 @@ Claim Timestamp: 00:12:18
 Claim: Officer Bagley testified that his body cam footage began at the Hall of Flags and ran 27 minutes 35 seconds, ending while he was still on the rooftop and before crime tape was placed.
 
 Anchored Artifacts: A-2224.2, A-2233.1
+Mentions: N-810
 Related Nodes: N-2172
 
 Investigative Direction: Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.
@@ -369,6 +379,7 @@ Claim Timestamp: 00:10:33
 Claim: Officer Bagley testified at the preliminary hearing that he did not know the identity, agency, or origin of the plainclothes individual wearing a badge and carrying a handgun who accompanied him up the Losi building stairs.
 
 Anchored Artifacts: A-2224.1
+Mentions: N-810
 Related Nodes: N-2171
 
 Investigative Direction: Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.
@@ -382,6 +393,7 @@ Claim Timestamp: 00:10:33
 Claim: Officer Bagley confirmed under preliminary-hearing questioning that the second individual who accompanied him onto the Losi rooftop appeared to have a badge and was carrying a handgun.
 
 Anchored Artifacts: A-2224.1, A-2233.1
+Mentions: N-810
 Related Nodes: N-2171
 
 Investigative Direction: Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.
@@ -395,6 +407,7 @@ Claim Timestamp: 00:15:40
 Claim: Bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
 
 Anchored Artifacts: A-2227.1
+Mentions: N-913, N-810
 Related Nodes: N-2171
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
@@ -408,6 +421,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
+Mentions: N-913
 Related Nodes: N-2171
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
@@ -421,6 +435,7 @@ Claim Timestamp: 00:18:43
 Claim: Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.
 
 Anchored Artifacts: A-2234.1, A-2227.1
+Mentions: N-913
 Related Nodes: N-2171
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.
@@ -552,6 +567,7 @@ Claim Timestamp: 00:18:43
 Claim: YouTuber Nissi's analysis asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
+Mentions: N-810
 Related Nodes: N-2171, N-2172
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.

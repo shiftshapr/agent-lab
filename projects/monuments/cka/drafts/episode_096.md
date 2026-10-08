@@ -27,13 +27,26 @@
 
 ## Episode 96 Ledger Summary
 - Artifact Families Introduced: A-2007, A-2008, A-2009, A-2010, A-2011, A-2012, A-2013, A-2014
-- Claim Range: C-2790–C-2809
+- Claim Range: C-2790–C-2809, C-3745, C-3752
   - New Nodes Introduced: N-1712, N-1713, N-1714, N-1715, N-1716, N-1717
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave2): N-612, N-617, N-619, N-622
 - Existing Nodes Reused: N-1, N-2, N-3, N-42, N-91, N-5, N-444, N-133, N-552, N-410, N-122, N-182, N-293, N-903
 
 ## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:32:25
+Speaker: N-3
+Quote: If you have that opposite side footage of the person who caught that footage, 10k is yours, no questions asked, okay? More tips at candaceowens. com.
+Context: DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-3745, A-2008.5).
+Tags: tips_network, dia_tip_line, transcript_backfill
+Confidence: high
+
+---
 
 **M-42** (meme) Scripted
 
@@ -44,6 +57,17 @@ Speaker: N-3
 Quote: And we didn't get that. Instead, we got something horribly scripted. And of course, she lied in my name and on my birthday. Shame on you, Erika. Sh...
 Context: Later reuse of Scripted in CKA seq 96.
 Tags: staged, event, host_charge, reuse
+Confidence: high
+
+**M-22** (meme) Why Are You Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:53:58
+Speaker: N-3
+Quote: Like why are you gay?
+Context: Wave 3 MemeLink backfill: Why Are You Gay at 00:53:58 (audit missing_memelink).
+Tags: reuse, memelink_backfill
 Confidence: high
 
 ---
@@ -115,6 +139,16 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: C-2794, N-2, N-552, N-1712*
+
+**A-2008.5** Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk "I just want to go home" clip (verbal reference; no displayed artifact)
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:32:25
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: C-3745, N-2, N-619, N-1713*
 
 ## A-2009 Erika Kirk Pre-Recorded Statement Bundle
 
@@ -245,6 +279,16 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: C-2807, N-3*
+
+**A-2013.3** Photos of Candace Owens from August 2016, before the mold illness, shown on air
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:09:18
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: High
+
+*Related: C-3752, N-3, N-5*
 
 ## A-2014 Viewer/Chat Comments Bundle
 
@@ -446,6 +490,19 @@ Mentions: N-2, N-619
 Related Nodes: N-1713
 Investigative Direction: Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.
 
+**C-3745** Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip
+
+Claim Timestamp: 00:32:25
+
+Claim: After saying she could not confirm that Sarah Sidner shot the Erika Kirk "I just want to go home" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.
+
+Transcript Snippet: I will offer $10,000 to somebody who has the opposite side footage.
+
+Anchored Artifacts: A-2008.5
+Mentions: N-3, N-2, N-619
+Related Nodes: N-1713
+Investigative Direction: Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-1713).
+
 **C-2794** Baron Coleman commented on WHCD media frenzy
 
 Claim Timestamp: 00:33:09
@@ -614,6 +671,19 @@ Claim: Candace stated that in 2016 she became ill with severe symptoms including
 Anchored Artifacts: A-2013.1
 Mentions: N-3
 Investigative Direction: Verify via medical records; the underlying photo is the primary artifact anchor.
+
+**C-3752** Candace shows August 2016 photos taken three months before the photo Trump shared
+
+Claim Timestamp: 00:09:18
+
+Claim: Candace shows photos of herself from August 2016, including hiking with her cousins without makeup, and says the photo Trump shared was taken just three months later, when she was very sick.
+
+Transcript Snippet: The picture that Trump shared was taken just 3 months later.
+
+Anchored Artifacts: A-2013.3
+Mentions: N-3, N-5
+Related Nodes: 
+Investigative Direction: Match the August 2016 photos and the photo Trump posted to their original posting dates.
 
 ---
 

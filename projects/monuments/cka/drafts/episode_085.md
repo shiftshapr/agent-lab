@@ -11,9 +11,10 @@
 - **Transcript SHA-256**: 3f46a97cc2d74db2f5e0aded169f75f261d47410176adc1a91e509540ffe7f2f
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1639, N-1640, N-1641
-  - Reused Nodes Appearing: N-1, N-2
-  - (see registers)
+ - New Nodes Introduced: N-1639, N-1640, N-1641
+ - Hole-minted Nodes (wave3): N-652, N-663, N-664
+ - Reused Nodes Appearing: N-1, N-2, N-437
+ - (see registers)
 
 ## 6. Meme Register
 
@@ -44,11 +45,11 @@ Confidence: high
 - Analyst / agent: Episode Analysis Agent
 - Analysis date: Protocol application
 - Ledger continuation summary:
-  - Artifact Families Introduced: A-1903, A-1904, A-1905, A-1906, A-1907, A-1908, A-1909, A-1910, A-1911
-  - Claim Range: C-2581–C-2608
-  - New People Nodes Introduced: none (Wave 2: local ids removed)
-  - New Investigation Target Nodes Introduced: N-1639, N-1640, N-1641
-  - Existing Nodes Reused: N-1, N-2, N-3
+ - Artifact Families Introduced: A-1903, A-1904, A-1905, A-1906, A-1907, A-1908, A-1909, A-1910, A-1911
+ - Claim Range: C-2581–C-2608
+ - New People Nodes Introduced: none (Wave 2: local ids removed)
+ - New Investigation Target Nodes Introduced: N-1639, N-1640, N-1641
+ - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
 
@@ -202,6 +203,25 @@ Confidence Level: Medium
 
 # Node Register
 
+**N-664** Daniel Balou
+
+First named by the host at 00:10:32 in episode 85.
+
+*Related: C-2587, C-2588*
+
+**N-663** Frederick Vaglio
+
+First named by the host at 00:10:32 in episode 85.
+
+*Related: C-2587, C-2588*
+
+**N-652** Jean-Luc Baguer
+
+First named by the host at 00:10:32 in episode 85.
+
+*Related: C-2587, C-2588*
+
+
 **N-1** Charlie Kirk
 
 Central subject of the investigation and the assassination case discussed throughout the episode.
@@ -348,6 +368,7 @@ Claim Timestamp: 00:10:32
 Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
 
 Anchored Artifacts: A-1903.1
+Mentions: N-664, N-663, N-652
 Related Nodes: N-1641
 Investigative Direction: Verify role assignments via French court documents.
 
@@ -360,6 +381,7 @@ Claim Timestamp: 00:11:16
 Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.
 
 Anchored Artifacts: A-1903.1
+Mentions: N-664, N-663, N-652
 Related Nodes: N-1641
 Investigative Direction: Verify incident via French press reporting or court records.
 
@@ -597,6 +619,7 @@ Claim Timestamp: 00:29:07
 Claim: A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
+Mentions: N-437
 Related Nodes:
 Investigative Direction: Obtain the full Commission statement.
 
@@ -627,10 +650,10 @@ These two artifact-anchored accounts cannot comfortably coexist. Cox's framing p
 
 # Optional Flags
 
-- **Possible transcription error:** Transcript uses both "Frank Churik" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek (former local id 1207).
+- **Possible transcription error:** Transcript uses both "Frank Churik" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek.
 - **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erica Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
-- **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox (former local id 1211).
-- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-437 and Spencer Cox is N-70; the draft placeholders former local id 1209 and former local id 1211 never denoted these people and were retargeted.
+- **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox.
+- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-437 and Spencer Cox is N-70; the draft placeholders and never denoted these people and were retargeted.
 - **Artifact verbally referenced but not shown:** The host references several items without showing or reading them in this episode, including: Joe Kent's statements about Kash Patel blocking international investigation; Kash Patel's press conference using "33"; the "witch article" from the Philippines; the DeMolay club historical background; the "tunnels at Disney" stories; the "spell" website. None are inscribed as claims because they are not artifact-presented in this episode.
 - **Host assertion lacking artifact:** The host asserts that Erika Kirk's lawyer admitted they had no more evidence than the public has seen. This claim is not anchored to any artifact in this episode and is therefore not inscribed as a Claim. Flagging as Host Assertion Without Artifact.
 - **Host assertion lacking artifact:** The host asserts that "the feds planted the gun" and that the bomb dogs could not locate it. This claim is sourced only to anonymous "people with first-hand intimate knowledge"; no artifact supports it in this episode. Flagging as Host Assertion Without Artifact.

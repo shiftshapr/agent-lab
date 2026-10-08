@@ -296,6 +296,30 @@
     },
     {
       "@type": "ArtifactFamily",
+      "@id": "A-2482",
+      "family_ref": "A-2482",
+      "bundle_name": "CIA / DIA Merch Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2482.1",
+          "ref": "A-2482.1",
+          "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+          "related_claims": [
+            "C-3636"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "00:59:03",
+          "transcript_snippet": "...:03] Uh, just to be clear, the CIA stands for the Candace Intelligence Agency, which you see on the back of that obviously because we consider ourselves to be the decentralized...",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
       "@id": "A-2517",
       "family_ref": "A-2517",
       "bundle_name": "Harley Pastnic Genealogy Reference Bundle",
@@ -1392,6 +1416,33 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-3771",
+      "ref": "C-3771",
+      "label": "Bill Ackman is the person C-1194 calls 'Bill Aman' (revises C-1194)",
+      "claim": "C-1194 spells the name 'Bill Aman' (auto-caption form; the transcript at this beat reads 'Blackman'). The person is Bill Ackman (N-66). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; the host notes the messages lack dates and context.",
+      "anchored_artifacts": [
+        "A-1117.1"
+      ],
+      "related_nodes": [
+        "N-1092",
+        "N-1121"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:26",
+      "investigative_direction": "Read with C-1194; obtain the text exchange as published by Bill Ackman.",
+      "transcript_snippet": "But anyways, Blackman published these private text messages",
+      "confidence": "medium",
+      "revises_claim_refs": [
+        "C-1194"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
       "@id": "C-1195",
       "ref": "C-1195",
       "label": "Amazon listed Kirk-assassination book before event",
@@ -1606,6 +1657,42 @@
         "N-42",
         "N-50",
         "N-107"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3635",
+      "ref": "C-3635",
+      "label": "Host identifies show community as Decentralized Intelligence Agency",
+      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:59:03",
+      "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
+      "transcript_snippet": "...obviously because we consider ourselves to be the decentralized intelligent agency because we get tips from you guys. Um, and we're willing to research and I wish I had a big...",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3636",
+      "ref": "C-3636",
+      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "anchored_artifacts": [
+        "A-2482.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:59:03",
+      "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
+      "transcript_snippet": "...:03] Uh, just to be clear, the CIA stands for the Candace Intelligence Agency, which you see on the back of that obviously because we consider ourselves to be the decentralized...",
+      "confidence": "medium",
+      "mentions_person_refs": [
+        "N-3"
       ]
     },
     {
