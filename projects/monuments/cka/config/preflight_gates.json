@@ -356,5 +356,9 @@
         "reason": "Nicole Rothstein (intro ep77): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       }
     ]
+  },
+  "person_band_lock": {
+    "enabled": true,
+    "note": "Person band lock (Daveed via Transit, 2026-10-08, re-audit of PR 62 at b558034), in force until Daveed rules on band capacity. N-1..N-999 is full: every id is an active person, a tombstone (config/retired_node_ids.json retired) or a reserved episode_000 baseline id. NEVER reuse a retired or tombstoned id, NEVER mint a person at N-1000 or above, and keep canonical next_person_id null. Any new person found by the daily run goes into the audit triage as DEFER with the reason \"person band full, awaiting Daveed\"; claims may still name the person in prose, with no Mentions id. Gate: person_band_lock (P1)."
   }
 }

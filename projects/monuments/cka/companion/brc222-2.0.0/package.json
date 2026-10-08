@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-08T20:41:23Z",
+  "generated_at": "2026-10-08T21:15:45Z",
   "cka_root": "/workspace/cka-adv-wave3/projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -19,12 +19,12 @@
   },
   "edge_counts": {
     "contradicts": 19,
-    "isCorroboratedBy": 8,
-    "isMemberOf": 6389,
-    "isQualifiedBy": 6,
-    "isSupportedBy": 2830
+    "isCorroboratedBy": 9,
+    "isMemberOf": 6405,
+    "isQualifiedBy": 13,
+    "isSupportedBy": 2842
   },
-  "revises_candidate_count": 28,
+  "revises_candidate_count": 42,
   "nodes": [
     {
       "@type": "KnowledgeGraphNode",
@@ -19508,6 +19508,76 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-3767",
+      "label": "Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot",
+      "node_kind": "claim",
+      "episode": 131
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3768",
+      "label": "Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha",
+      "node_kind": "claim",
+      "episode": 131
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3769",
+      "label": "Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team",
+      "node_kind": "claim",
+      "episode": 131
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3770",
+      "label": "Host says Bill Ackman immediately pledged $1 million to Tyler Robinson's father, Matt Robinson",
+      "node_kind": "claim",
+      "episode": 124
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3771",
+      "label": "Bill Ackman is the person C-1194 calls 'Bill Aman' (revises C-1194)",
+      "node_kind": "claim",
+      "episode": 5
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3772",
+      "label": "Bill Ackman is the person C-1212 calls 'Bill Aman' (revises C-1212)",
+      "node_kind": "claim",
+      "episode": 6
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3773",
+      "label": "Bill Ackman is the person C-1295 calls 'Bill Aman' (revises C-1295)",
+      "node_kind": "claim",
+      "episode": 10
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3774",
+      "label": "Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)",
+      "node_kind": "claim",
+      "episode": 144
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3775",
+      "label": "Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)",
+      "node_kind": "claim",
+      "episode": 161
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-3776",
+      "label": "Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)",
+      "node_kind": "claim",
+      "episode": 161
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "A-1077",
       "label": "Video and Audio Clip Bundle",
       "node_kind": "artifact",
@@ -37625,7 +37695,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2117.1",
-      "label": "Audio clip of commentator (Bill Aman-adjacent) praising Matt Robinson for the \"brave act\" of turning in his son.",
+      "label": "Audio clip of a commentator (not named in the transcript) describing, \"just as a father,\" Tyler Robinson's parents turning in their son; played right after the host's account of Bill Ackman's $1 milli",
       "node_kind": "artifact",
       "episode": 124
     },
@@ -37640,6 +37710,13 @@
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2117.3",
       "label": "Audio clip of commentator citing \"three confessions\" and stating local sheriffs took first statements from Robinson's parents identifying him as shooter and providing motive.",
+      "node_kind": "artifact",
+      "episode": 124
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2117.4",
+      "label": "Host's on-air account that Bill Ackman (\"Bill Aman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed ar",
       "node_kind": "artifact",
       "episode": 124
     },
@@ -37815,6 +37892,13 @@
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2127.1",
       "label": "Audio of Ben Shapiro on his show stating that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still",
+      "node_kind": "artifact",
+      "episode": 124
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2127.2",
+      "label": "Host's on-air $10,000 bounty for who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot, with tips to candaceowens.com (verbal reference; no displayed artifact)",
       "node_kind": "artifact",
       "episode": 124
     },
@@ -44754,6 +44838,34 @@
       "label": "Clip of Erika Kirk's interview with Jesse Watters, played on air to illustrate her whispering delivery",
       "node_kind": "artifact",
       "episode": 78
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2524",
+      "label": "Ben Shapiro Lunch-Bounty Payoff and $25,000 Security-Call Bounty (host on air)",
+      "node_kind": "artifact",
+      "episode": 131
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2524.1",
+      "label": "Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary Jabitch (transcript spelling) and an unidentifie",
+      "node_kind": "artifact",
+      "episode": 131
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2524.2",
+      "label": "Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to t",
+      "node_kind": "artifact",
+      "episode": 131
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-2524.3",
+      "label": "Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed a",
+      "node_kind": "artifact",
+      "episode": 131
     }
   ],
   "bridges": [
@@ -47759,6 +47871,37 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3771",
+      "to": "cka:episode:5",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 5
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3771",
+      "to": "A-1117.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 5
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1194",
+      "to": "C-3771",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 5,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-1195",
       "to": "cka:episode:5",
       "relationship": "isMemberOf",
@@ -48036,6 +48179,37 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 6
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3772",
+      "to": "cka:episode:6",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 6
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3772",
+      "to": "A-1125.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 6
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1212",
+      "to": "C-3772",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 6,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -49610,6 +49784,37 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3773",
+      "to": "cka:episode:10",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3773",
+      "to": "A-1170.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 10
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-1295",
+      "to": "C-3773",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 10,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -63614,14 +63819,14 @@
       "from": "C-2113",
       "to": "C-3742",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
+      "explanation": "REVISES (transit_ruling)",
       "episode": 58,
-      "review_status": "pending_transit",
+      "review_status": "transit_ruled",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 0.35
+        "confidence": 1.0
       }
     },
     {
@@ -79082,6 +79287,30 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3764",
+      "to": "A-2127.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3770",
+      "to": "cka:episode:124",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3770",
+      "to": "A-2117.4",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3017",
       "to": "cka:episode:125",
       "relationship": "isMemberOf",
@@ -81092,6 +81321,70 @@
       "@type": "OrdinalBridge",
       "from": "C-3664",
       "to": "A-2490.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3767",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3767",
+      "to": "A-2524.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3764",
+      "to": "C-3767",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3126",
+      "to": "C-3767",
+      "relationship": "isQualifiedBy",
+      "explanation": "Host narrows or conditions prior claim",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3768",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3768",
+      "to": "A-2524.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3769",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3769",
+      "to": "A-2524.3",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 131
@@ -83789,14 +84082,14 @@
       "from": "C-3294",
       "to": "C-3743",
       "relationship": "isQualifiedBy",
-      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
+      "explanation": "REVISES (transit_ruling)",
       "episode": 142,
-      "review_status": "pending_transit",
+      "review_status": "transit_ruled",
       "metadata": {
         "ledger": "REVISES",
         "candidate_of": "revises_split",
         "heuristic_primary": "isQualifiedBy",
-        "confidence": 0.35
+        "confidence": 1.0
       }
     },
     {
@@ -84350,6 +84643,45 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 144
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3774",
+      "to": "cka:episode:144",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 144
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3774",
+      "to": "A-2308.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 144
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3774",
+      "to": "A-2308.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 144
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3324",
+      "to": "C-3774",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 144,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -89577,6 +89909,37 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-3775",
+      "to": "cka:episode:161",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 161
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3775",
+      "to": "A-2497.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 161
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3680",
+      "to": "C-3775",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 161,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "C-3681",
       "to": "cka:episode:161",
       "relationship": "isMemberOf",
@@ -89854,6 +90217,37 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 161
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3776",
+      "to": "cka:episode:161",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 161
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3776",
+      "to": "A-2500.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 161
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3696",
+      "to": "C-3776",
+      "relationship": "isQualifiedBy",
+      "explanation": "REVISES (transit_ruling)",
+      "episode": 161,
+      "review_status": "transit_ruled",
+      "metadata": {
+        "ledger": "REVISES",
+        "candidate_of": "revises_split",
+        "heuristic_primary": "isQualifiedBy",
+        "confidence": 1.0
+      }
     },
     {
       "@type": "OrdinalBridge",
@@ -111449,6 +111843,14 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "A-2117.4",
+      "to": "cka:episode:124",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-2118",
       "to": "cka:episode:124",
       "relationship": "isMemberOf",
@@ -111642,6 +112044,14 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-2127.1",
+      "to": "cka:episode:124",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 124
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2127.2",
       "to": "cka:episode:124",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
@@ -112994,6 +113404,38 @@
     {
       "@type": "OrdinalBridge",
       "from": "A-2490.1",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2524",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2524.1",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2524.2",
+      "to": "cka:episode:131",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 131
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-2524.3",
       "to": "cka:episode:131",
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",

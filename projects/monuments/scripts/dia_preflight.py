@@ -1248,6 +1248,54 @@ def check_tombstone_collision(report: PreflightReport, canonical: dict[str, dict
                 )
 
 
+def check_person_band_lock(report: PreflightReport, monument_dir: Path, canonical: dict[str, dict[str, Any]]) -> None:
+    """P1 (Wave 3, Transit b558034): person band lock until Daveed rules on capacity.
+
+    Enabled by config/preflight_gates.json person_band_lock.enabled. While the person band N-1..N-999 is full,
+    no new person may be minted: canonical next_person_id must stay null, no active node may sit on a
+    tombstoned id (legacy-N-X in config/retired_node_ids.json) or a reserved episode_000 baseline id, and no
+    person node may use an id at N-1000 or above. A new person goes into the audit triage as DEFER
+    ("person band full, awaiting Daveed") instead.
+    """
+    cfg = load_gate_config(monument_dir).get("person_band_lock") or {}
+    if not cfg.get("enabled"):
+        return
+    npath = monument_dir / "canonical" / "nodes.json"
+    if npath.is_file():
+        nxt = json.loads(npath.read_text(encoding="utf-8")).get("next_person_id")
+        if nxt is not None:
+            report.add("P1", "person_band_lock",
+                       f"canonical/nodes.json: next_person_id is {nxt!r}; the person band is locked (full) until Daveed rules, so it must stay null",
+                       "next_person_id")
+    tomb: set[str] = set()
+    reserved: set[str] = set()
+    rpath = monument_dir / "config" / "retired_node_ids.json"
+    if rpath.is_file():
+        rdata = json.loads(rpath.read_text(encoding="utf-8"))
+        for key in (rdata.get("retired") or {}):
+            km = re.match(r"legacy-(N-\d+)$", key)
+            if km:
+                tomb.add(km.group(1))
+        reserved = {str(x) for x in ((rdata.get("reserved_baseline_ids") or {}).get("ids") or [])}
+    for key, meta in sorted(canonical.items()):
+        km = re.match(r"N-(\d+)$", key)
+        if not km:
+            continue
+        name = meta.get("canonical_name")
+        if key in tomb:
+            report.add("P1", "person_band_lock",
+                       f"canonical/nodes.json: active {key} ({name}) reuses a tombstoned id (legacy-{key}); retired ids are never reused",
+                       key)
+        if key in reserved:
+            report.add("P1", "person_band_lock",
+                       f"canonical/nodes.json: active {key} ({name}) sits on a reserved episode_000 baseline id",
+                       key)
+        if str(meta.get("type", "")).lower() == "person" and int(km.group(1)) >= 1000:
+            report.add("P1", "person_band_lock",
+                       f"canonical/nodes.json: person {key} ({name}) is at N-1000 or above; while the band is locked new persons are DEFER, never minted outside N-1..N-999",
+                       key)
+
+
 ANNOT_RE = re.compile(r"\b(N-\d+)\s*\(([^()\n]{2,160})\)")
 ANNOT_FILLER = frozenset(
     "assumed reference ref node entity if exists existing new prior likely possibly aka the de del da van von la le jr sr ii iii iv and or also".split()
@@ -2086,6 +2134,7 @@ def run_preflight(
         check_inscription_missing(report, monument_dir, ingest_episodes)
     check_duplicate_claim_headers(report, ingest_episodes)
     check_tombstone_collision(report, canonical)
+    check_person_band_lock(report, monument_dir, canonical)
     check_name_annotation_mismatch(report, ingest_episodes, register, canonical)
     check_hole_minted(report, monument_dir, episodes, intro, canonical)
     check_tip_minted(report, episodes, intro)

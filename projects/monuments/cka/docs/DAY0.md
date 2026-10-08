@@ -13,6 +13,8 @@
 2. Pipeline verify / Tessie sample on first batch
 3. Transit pack review (Bill D) before promote
 4. **No production Neo4j** from agents
+5. **Person band lock** (until Daveed rules): no new person ids; new persons are DEFER "person band full, awaiting Daveed"; never reuse a retired/tombstoned id; never a person at N-1000+ (gate `person_band_lock`, see README ID bands)
+6. **DIA scan:** run the tip-line cues in `config/dia_scan_terms.json` (includes `bounty`) over each new transcript; claim or triage every hit
 
 ## Promote freeze
 

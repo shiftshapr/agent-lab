@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "description": "DIA tip-line scan cues for the CKA daily run and audits. A transcript line matching any cue is a candidate DIA beat (host tip call, bounty, tip-line payoff). Each candidate is either claimed (claim + verbal-reference artifact + M-12 Decentralized Intelligence Agency occurrence; M-14 only when the Candace Intelligence Agency / CIA merch phrase airs) or triaged with a reason in the audit dia_gaps CSV. \"bounty\" added in the Transit re-audit of PR 62 at b558034 after the ep131 bounty payoff and $25,000 bounty were missed.",
+  "cues": [
+    "tips at",
+    "more tips",
+    "moretips@candaceowens",
+    "candaceowens.com",
+    "send us an email",
+    "send them to us directly",
+    "tip line",
+    "tip-line",
+    "decentralized intelligence",
+    "dcia",
+    "bounty"
+  ],
+  "not_dia_examples": [
+    "figurative \"bounty\" (ep54: \"Moon's generous bounty\")",
+    "metaphorical \"agents\" (Matrix Mr. Smith, ep13)",
+    "generic sign-offs without a tip call"
+  ],
+  "regex": "\\b(tips? at|more ?tips|tip[- ]line|send (us|them to us) (an email|directly)|decentralized intelligence|dcia|bount(y|ies))\\b"
+}

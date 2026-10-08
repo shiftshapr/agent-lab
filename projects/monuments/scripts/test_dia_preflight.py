@@ -828,3 +828,44 @@ def test_named_before_intro_clean_controls(tmp_path):
     eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims3)), late]
     assert _nbi_report(tmp_path, eps, NBI_CANON, accepted=[{"id": "N-5", "episodes": [1], "reason": "debt"}]).findings == []
     assert _nbi_report(tmp_path, eps, NBI_CANON, enabled=False).findings == []
+
+
+def _pbl_dir(tmp_path, nodes, retired=None, reserved=None, next_person_id=None, enabled=True):
+    d = tmp_path / "mon"
+    (d / "config").mkdir(parents=True, exist_ok=True)
+    (d / "canonical").mkdir(parents=True, exist_ok=True)
+    (d / "config" / "preflight_gates.json").write_text(json.dumps({"person_band_lock": {"enabled": enabled}}))
+    (d / "config" / "retired_node_ids.json").write_text(json.dumps({
+        "retired": retired or {}, "reserved_baseline_ids": {"ids": reserved or []}}))
+    (d / "canonical" / "nodes.json").write_text(json.dumps({"next_person_id": next_person_id, "nodes": nodes}))
+    return d
+
+
+def test_person_band_lock_flags_reuse_reserved_high_band_and_next_id(tmp_path):
+    """Transit b558034: while the band is locked, no tombstone/reserved reuse, no person >= N-1000, next_person_id null."""
+    nodes = {
+        "N-5": {"canonical_name": "Reused Tombstone", "type": "person"},
+        "N-17": {"canonical_name": "On Reserved", "type": "person"},
+        "N-1200": {"canonical_name": "High Person", "type": "person"},
+        "N-1201": {"canonical_name": "A Topic", "type": "topic"},
+    }
+    d = _pbl_dir(tmp_path, nodes, retired={"legacy-N-5": {"survives_as": None}}, reserved=["N-17"], next_person_id=630)
+    report = dp.PreflightReport("t", str(d))
+    dp.check_person_band_lock(report, d, nodes)
+    got = sorted((f.severity, f.check, f.location) for f in report.findings)
+    assert got == sorted([("P1", "person_band_lock", "next_person_id"), ("P1", "person_band_lock", "N-5"),
+                          ("P1", "person_band_lock", "N-17"), ("P1", "person_band_lock", "N-1200")])
+
+
+def test_person_band_lock_clean_and_disabled(tmp_path):
+    nodes = {"N-6": {"canonical_name": "Live Person", "type": "person"},
+             "N-1201": {"canonical_name": "A Topic", "type": "topic"}}
+    d = _pbl_dir(tmp_path, nodes, retired={"legacy-N-5": {"survives_as": "N-6"}}, reserved=["N-17"])
+    report = dp.PreflightReport("t", str(d))
+    dp.check_person_band_lock(report, d, nodes)
+    assert report.findings == []
+    bad = {"N-1200": {"canonical_name": "High Person", "type": "person"}}
+    d2 = _pbl_dir(tmp_path / "off", bad, next_person_id=1, enabled=False)
+    report = dp.PreflightReport("t", str(d2))
+    dp.check_person_band_lock(report, d2, bad)
+    assert report.findings == []

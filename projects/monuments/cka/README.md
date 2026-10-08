@@ -16,6 +16,7 @@ Greenfield monument for **Candace Owens** numbered show episodes (`@RealCandaceO
 Same convention as BoC / episode analysis protocol:
 
 - **Person:** `N-1` … `N-999`, then new persons `N-30+` (Daveed lock 2026-10-04). A person id in `N-1000` … `N-9999` is not allowed.
+- **Person band lock (Daveed via Transit, 2026-10-08, until Daveed rules):** `N-1` … `N-999` is full (`canonical/nodes.json` `next_person_id` is `null`). Never reuse a retired or tombstoned id (`config/retired_node_ids.json`) or a reserved baseline id, and never mint a person at `N-1000` or above. A new person found by the daily run goes into the audit triage as **DEFER "person band full, awaiting Daveed"**; claims may still name the person in prose, with no Mentions id. Enforced by preflight gate `person_band_lock` (`config/preflight_gates.json`).
 - **Topic / Org / Place:** `N-1000` … `N-9999`
 - **Claims / artifacts / memes:** global cross-episode ledger (continue from CKA ingest, not BoC demo ledger)
 
@@ -35,6 +36,10 @@ Same convention as BoC / episode analysis protocol:
 | `canonical/` | Canonical nodes / edges |
 | `config/` | Claim lenses, membership tags, scaffold flags |
 | `docs/` | Day-0 plan, ingest notes |
+
+## DIA tip-line scan
+
+Daily runs scan transcripts for DIA tip-line beats with the cues in `config/dia_scan_terms.json` (includes **bounty**). Each hit is claimed (claim + verbal-reference artifact + M-12 occurrence) or triaged with a reason.
 
 ## Claim lenses (first-class)
 
