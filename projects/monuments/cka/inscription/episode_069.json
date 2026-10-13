@@ -313,8 +313,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1556",
-        "N-1557"
+        "N-10556",
+        "N-10557"
       ]
     },
     {
@@ -340,8 +340,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1560",
-        "N-1562"
+        "N-10560",
+        "N-10562"
       ]
     },
     {
@@ -363,7 +363,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1561"
+        "N-10561"
       ]
     },
     {
@@ -385,7 +385,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1561"
+        "N-10561"
       ]
     },
     {
@@ -405,7 +405,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1560"
+        "N-10560"
       ]
     },
     {
@@ -423,7 +423,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1556"
+        "N-10556"
       ]
     },
     {
@@ -519,8 +519,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1556",
-      "ref": "N-1556",
+      "@id": "N-10556",
+      "ref": "N-10556",
       "name": "Erika Kirk September 10 Alibi Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
@@ -536,8 +536,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1557",
-      "ref": "N-1557",
+      "@id": "N-10557",
+      "ref": "N-10557",
       "name": "Tracy Martin Background and Husband Verification",
       "type": "investigation_target",
       "description": "Persistent target. Host states she cannot determine what Tracy Martin's husband does and solicits additional tips. Husband's first name offered as \"Thomas\" with uncertainty.",
@@ -551,8 +551,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1558",
-      "ref": "N-1558",
+      "@id": "N-10558",
+      "ref": "N-10558",
       "name": "Dream City Church Connection Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Church linked to Tracy Martin, Charlie Kirk's speaking series, the TPUSA faith pivot, and Pastor Luke. Host states more to come.",
@@ -566,8 +566,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1559",
-      "ref": "N-1559",
+      "@id": "N-10559",
+      "ref": "N-10559",
       "name": "Egyptian Plane Communication Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host references an Egyptian plane that remained on the tarmac and \"transponding intermittently\" with active communication; posits use of foreign-registered aircraft to evade communication tracking.",
@@ -581,8 +581,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1560",
-      "ref": "N-1560",
+      "@id": "N-10560",
+      "ref": "N-10560",
       "name": "Mount Hermon 33.33° Coordinate Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Robkea's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.",
@@ -598,8 +598,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1561",
-      "ref": "N-1561",
+      "@id": "N-10561",
+      "ref": "N-10561",
       "name": "Gilgamesh Remains DNA Extraction Claim",
       "type": "investigation_target",
       "description": "Persistent target. Tom Horn / Steve Quail assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1562",
-      "ref": "N-1562",
+      "@id": "N-10562",
+      "ref": "N-10562",
       "name": "COVID Test DNA Collection Hypothesis",
       "type": "investigation_target",
       "description": "Persistent target. Viewer AZ Masterbaker and host's prior-commentary thread propose nasal-swab COVID tests were instruments for DNA collection aimed at identifying Nimrod's descendants.",
@@ -696,7 +696,7 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-1560"
+        "N-10560"
       ],
       "tags": [],
       "claim_timestamp": "00:05:43",
@@ -733,7 +733,7 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-1561"
+        "N-10561"
       ],
       "tags": [],
       "claim_timestamp": "00:15:37",
@@ -753,7 +753,7 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-1561"
+        "N-10561"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
@@ -772,7 +772,7 @@
         "A-1741.1"
       ],
       "related_nodes": [
-        "N-1556"
+        "N-10556"
       ],
       "tags": [],
       "claim_timestamp": "00:27:48",
@@ -897,7 +897,7 @@
         "A-1743.5"
       ],
       "related_nodes": [
-        "N-1562"
+        "N-10562"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",

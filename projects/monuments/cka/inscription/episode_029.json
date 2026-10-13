@@ -111,7 +111,7 @@
             "N-363",
             "N-364",
             "N-365",
-            "N-1311"
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
           "related_nodes": [
             "N-365",
             "N-366",
-            "N-1311"
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-1665"
           ],
           "related_nodes": [
-            "N-1310"
+            "N-10310"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-1666"
           ],
           "related_nodes": [
-            "N-1309"
+            "N-10309"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -472,7 +472,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1311"
+        "N-10311"
       ]
     },
     {
@@ -515,7 +515,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1312"
+        "N-10312"
       ]
     },
     {
@@ -691,8 +691,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1309",
-      "ref": "N-1309",
+      "@id": "N-10309",
+      "ref": "N-10309",
       "name": "Timpanogos Hospital Footage Seizure Verification",
       "type": "investigation_target",
       "description": "Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.",
@@ -710,8 +710,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1310",
-      "ref": "N-1310",
+      "@id": "N-10310",
+      "ref": "N-10310",
       "name": "Borderline Bar Las Vegas Survivor Pattern",
       "type": "investigation_target",
       "description": "Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1311",
-      "ref": "N-1311",
+      "@id": "N-10311",
+      "ref": "N-10311",
       "name": "Shawnie Ray Kirkup / Kirkhoff Identity Verification",
       "type": "investigation_target",
       "description": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kirkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1312",
-      "ref": "N-1312",
+      "@id": "N-10312",
+      "ref": "N-10312",
       "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
       "type": "investigation_target",
       "description": "Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader \"faith-military constellation\" with infiltration doctrine.",
@@ -819,7 +819,7 @@
         "A-1364.1"
       ],
       "related_nodes": [
-        "N-1312"
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
@@ -838,7 +838,7 @@
         "A-1365.1"
       ],
       "related_nodes": [
-        "N-1312"
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31–00:14:22",
@@ -874,7 +874,7 @@
         "A-1367.1"
       ],
       "related_nodes": [
-        "N-1311"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09–00:09:40",
@@ -895,7 +895,7 @@
         "A-1368.1"
       ],
       "related_nodes": [
-        "N-1311"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -1060,7 +1060,7 @@
         "A-1377.1"
       ],
       "related_nodes": [
-        "N-1310"
+        "N-10310"
       ],
       "tags": [],
       "claim_timestamp": "00:23:17",
@@ -1076,7 +1076,7 @@
         "A-1378.1"
       ],
       "related_nodes": [
-        "N-1309"
+        "N-10309"
       ],
       "tags": [],
       "claim_timestamp": "00:01:46–00:03:01",

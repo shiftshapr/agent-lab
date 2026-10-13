@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-272",
             "N-45",
-            "N-1288"
+            "N-10288"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
             "N-45",
             "N-272",
             "N-2",
-            "N-1288"
+            "N-10288"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -90,7 +90,7 @@
           "related_nodes": [
             "N-272",
             "N-1",
-            "N-1289"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
             "N-272",
             "N-1",
             "N-2",
-            "N-1289"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -148,7 +148,7 @@
           "related_nodes": [
             "N-45",
             "N-330",
-            "N-1290"
+            "N-10290"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -175,7 +175,7 @@
           ],
           "related_nodes": [
             "N-331",
-            "N-1291"
+            "N-10291"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-45",
-            "N-1290"
+            "N-10290"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -285,7 +285,7 @@
           ],
           "related_nodes": [
             "N-334",
-            "N-1292"
+            "N-10292"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
           ],
           "related_nodes": [
             "N-71",
-            "N-1293"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
             "C-1595"
           ],
           "related_nodes": [
-            "N-1292"
+            "N-10292"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,8 +380,8 @@
         "N-326",
         "N-1",
         "N-2",
-        "N-1288",
-        "N-1289"
+        "N-10288",
+        "N-10289"
       ]
     },
     {
@@ -411,7 +411,7 @@
       "related_nodes": [
         "N-272",
         "N-330",
-        "N-1290"
+        "N-10290"
       ]
     },
     {
@@ -434,7 +434,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-272",
-        "N-1289"
+        "N-10289"
       ]
     },
     {
@@ -532,7 +532,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-45",
-        "N-1290"
+        "N-10290"
       ]
     },
     {
@@ -554,7 +554,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1291"
+        "N-10291"
       ]
     },
     {
@@ -572,7 +572,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1291"
+        "N-10291"
       ]
     },
     {
@@ -594,7 +594,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1293"
+        "N-10293"
       ]
     },
     {
@@ -614,13 +614,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1292"
+        "N-10292"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1288",
-      "ref": "N-1288",
+      "@id": "N-10288",
+      "ref": "N-10288",
       "name": "McCoy Succession Plan",
       "type": "investigation_target",
       "description": "Persistent target: whether, by whom, and through what mechanism Mikey McCoy was being positioned as Charlie Kirk's institutional successor; encompasses journal-based framing, adjectival praise pattern, and post-9/10 speaking-platform assignments.",
@@ -646,8 +646,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1289",
-      "ref": "N-1289",
+      "@id": "N-10289",
+      "ref": "N-10289",
       "name": "Mikey McCoy Pre-Death Documentation Pattern",
       "type": "investigation_target",
       "description": "Persistent target: the anomalous onset of Mikey McCoy's personal behind-the-scenes documentation of Charlie Kirk in the weeks preceding 9/10, including first-time micing on the Korea trip and first-time family-trip footage captured on the joint McCoy-Kirk vacation.",
@@ -673,8 +673,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1290",
-      "ref": "N-1290",
+      "@id": "N-10290",
+      "ref": "N-10290",
       "name": "Rob McCoy Relocation and Timing Pattern",
       "type": "investigation_target",
       "description": "Persistent target: the convergence of Rob McCoy's pastoral transition (mid-July 2025), Phoenix relocation, and Coronado property listing (August 24, 2025) in the period preceding 9/10.",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1291",
-      "ref": "N-1291",
+      "@id": "N-10291",
+      "ref": "N-10291",
       "name": "UVU Event Application Anomaly",
       "type": "investigation_target",
       "description": "Persistent target: the late (mid-July) submission of the 9/10 event application by UVU's TPUSA chapter, its rapid acceptance as \"stop number one,\" the absence of a standard police-protection question on the form, and UVU's subsequent denial of the security plan.",
@@ -721,8 +721,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1292",
-      "ref": "N-1292",
+      "@id": "N-10292",
+      "ref": "N-10292",
       "name": "Israeli Cell Phone Presence on 9/10",
       "type": "investigation_target",
       "description": "Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.",
@@ -745,8 +745,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1293",
-      "ref": "N-1293",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "George Zinn Hospital Payment Claim",
       "type": "investigation_target",
       "description": "Persistent target: verification of George Zinn's alleged hospital statement (paid to disrupt, unknown payment source) and its provenance.",
@@ -825,7 +825,7 @@
         "A-1321.1"
       ],
       "related_nodes": [
-        "N-1288"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:02:42–00:05:23",
@@ -846,7 +846,7 @@
         "A-1322.1"
       ],
       "related_nodes": [
-        "N-1288"
+        "N-10288"
       ],
       "tags": [],
       "claim_timestamp": "00:05:23–00:07:16",
@@ -868,7 +868,7 @@
         "A-1323.1"
       ],
       "related_nodes": [
-        "N-1289"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:10:01–00:10:58",
@@ -888,7 +888,7 @@
         "A-1324.1"
       ],
       "related_nodes": [
-        "N-1289"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:11:45",
@@ -910,7 +910,7 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-1290"
+        "N-10290"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
@@ -930,7 +930,7 @@
         "A-1326.1"
       ],
       "related_nodes": [
-        "N-1291"
+        "N-10291"
       ],
       "tags": [],
       "claim_timestamp": "00:17:57–00:19:30",
@@ -949,7 +949,7 @@
         "A-1327.1"
       ],
       "related_nodes": [
-        "N-1290"
+        "N-10290"
       ],
       "tags": [],
       "claim_timestamp": "00:15:50",
@@ -1006,7 +1006,7 @@
         "A-1331.1"
       ],
       "related_nodes": [
-        "N-1293"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:41:52–00:43:00",
@@ -1023,7 +1023,7 @@
       "claim": "Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1292"
+        "N-10292"
       ],
       "tags": [],
       "claim_timestamp": "00:20:12–00:23:48",
@@ -1043,7 +1043,7 @@
         "A-1332.1"
       ],
       "related_nodes": [
-        "N-1292"
+        "N-10292"
       ],
       "tags": [],
       "claim_timestamp": "00:46:51",

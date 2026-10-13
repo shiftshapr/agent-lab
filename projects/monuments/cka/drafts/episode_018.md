@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-247, N-248, N-249, N-251, N-254, N-1246, N-1247, N-1248, N-1249, N-1250, N-1251, N-1252, N-1253, N-1254, N-1255, N-1256
+  - New Nodes Introduced:  N-247, N-248, N-249, N-251, N-254, N-10246, N-10247, N-10248, N-10249, N-10250, N-10251, N-10252, N-10253, N-10254, N-10255, N-10256
   - Reused Nodes Appearing: 
 
 This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts – as a fact-checked finding – that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-37
@@ -76,7 +76,7 @@ Video Timestamp: 00:02:50–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (paraphrase read aloud; tweet itself not displayed)
 
-*Related: C-1428, C-1429, N-42, N-1246*
+*Related: C-1428, C-1429, N-42, N-10246*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:08:44–00:09:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1430, C-1431, N-247, N-1248*
+*Related: C-1430, C-1431, N-247, N-10248*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:14:50–00:15:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-247, N-248, N-1248*
+*Related: C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-247, N-248, N-10248*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:23:00–00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1438, N-248, N-1246, N-1247*
+*Related: C-1438, N-248, N-10246, N-10247*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:27:27–00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1439, N-1247*
+*Related: C-1439, N-10247*
 
 ---
 
@@ -211,7 +211,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1251.1, C-1428, C-1429, C-1460, N-1246*
+*Related: A-1251.1, C-1428, C-1429, C-1460, N-10246*
 
 ---
 
@@ -224,7 +224,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-248, N-1248*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-248, N-10248*
 
 ---
 
@@ -237,7 +237,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1254.1, C-1438, N-1246, N-1247*
+*Related: A-1254.1, C-1438, N-10246, N-10247*
 
 ---
 
@@ -250,7 +250,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1440, N-1249*
+*Related: C-1440, N-10249*
 
 ---
 
@@ -263,7 +263,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1452, C-1453, N-1252*
+*Related: C-1452, C-1453, N-10252*
 
 ---
 
@@ -306,7 +306,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1246** Bullet Trajectory and Caliber Verification
+**N-10246** Bullet Trajectory and Caliber Verification
 
 Persistent target: whether the recovered projectile was a .30-06, where the fragment was recovered, and whether the death certificate reflects it.
 
@@ -319,7 +319,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1247** Multiple Shooter Theory
+**N-10247** Multiple Shooter Theory
 
 Persistent target: whether more than one shooter / weapon was involved at the Utah Valley event.
 
@@ -332,7 +332,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1248** Cooper Brown Identity Verification
+**N-10248** Cooper Brown Identity Verification
 
 Persistent target: verifying Cooper Brown's institutional affiliation, biographical claims, and presence at the event.
 
@@ -345,7 +345,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1249** Medical Examiner Inquiry – Weiss Amaro
+**N-10249** Medical Examiner Inquiry – Weiss Amaro
 
 Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.
 
@@ -358,7 +358,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1250** Caldera Engineering Background Investigation
+**N-10250** Caldera Engineering Background Investigation
 
 Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.
 
@@ -371,7 +371,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1251** Plane N1098L Investigation
+**N-10251** Plane N1098L Investigation
 
 Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.
 
@@ -380,11 +380,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1445, C-1446, C-1447, N-1255*
+*Related: C-1445, C-1446, C-1447, N-10255*
 
 ---
 
-**N-1252** Plane 888 / Maxwell Plane Investigation
+**N-10252** Plane 888 / Maxwell Plane Investigation
 
 Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxwell.
 
@@ -397,7 +397,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1253** Josh Hammer Text Messages Context
+**N-10253** Josh Hammer Text Messages Context
 
 Persistent target: chronological placement and substantive content of the released text exchange relative to Charlie Kirk's known Israel-related shift.
 
@@ -410,7 +410,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1254** Leadership Institute (entity)
+**N-10254** Leadership Institute (entity)
 
 Organization identified by Cooper Brown as his employer and described by host as working "hand-in-hand" with TPUSA, YAL, and Students for Life on conservative coalition events.
 
@@ -423,7 +423,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1255** Las Vegas Aviation LLC (entity)
+**N-10255** Las Vegas Aviation LLC (entity)
 
 Company identified by host as the owner/contractor of plane N1098L.
 
@@ -432,11 +432,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1446, N-1251*
+*Related: C-1446, N-10251*
 
 ---
 
-**N-1256** Signature FBO / Millionaire FBO (entity cluster)
+**N-10256** Signature FBO / Millionaire FBO (entity cluster)
 
 Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.
 
@@ -445,7 +445,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1453, C-1454, N-1252*
+*Related: C-1453, C-1454, N-10252*
 
 ---
 
@@ -468,7 +468,7 @@ Claim: Charlie Kirk was shot from the front, and the bullet did not exit his nec
 
 Anchored Artifacts: A-1251.1
 Mentions: N-42, N-1
-Related Nodes: N-1246
+Related Nodes: N-10246
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
 ---
@@ -481,7 +481,7 @@ Claim: A bullet fragment was recovered from Charlie's neck, in line with the sho
 
 Anchored Artifacts: A-1251.1
 Mentions: N-42
-Related Nodes: N-1246
+Related Nodes: N-10246
 Investigative Direction: Compare against autopsy report and forensic pathology images for exact fragment location.
 
 ---
@@ -494,7 +494,7 @@ Claim: Charlie Kirk's death certificate does not reflect a recovered .30-06 bull
 
 Anchored Artifacts: A-1251.1
 Mentions: N-42, N-1
-Related Nodes: N-1246
+Related Nodes: N-10246
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
 ---
@@ -507,7 +507,7 @@ Claim: Andrew Kolbatz posted a tweet claiming to relay a conversation with the s
 
 Anchored Artifacts: A-1251.1
 Mentions: N-42
-Related Nodes: N-1246
+Related Nodes: N-10246
 Investigative Direction: Locate original Kolbatz tweet and verify direct quotes and publication date.
 
 ---
@@ -520,7 +520,7 @@ Claim: Per Kolbatz's account, the surgeon stated the bullet should have exited, 
 
 Anchored Artifacts: A-1251.1
 Mentions: N-42
-Related Nodes: N-1246
+Related Nodes: N-10246
 Investigative Direction: Identify the named surgeon (if given) and confirm statement through independent medical record review.
 
 ---
@@ -533,7 +533,7 @@ Claim: A witness in the viral clip stated he was in the third row, heard a shot 
 
 Anchored Artifacts: A-1252.1
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Identify the witness and obtain a signed statement consistent with his on-camera description.
 
 ---
@@ -546,7 +546,7 @@ Claim: The man who physically pushed/shoved the witness in the viral clip was no
 
 Anchored Artifacts: A-1252.1, A-1253.1
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Identify the pusher and verify his institutional affiliation at the time of the event.
 
 ---
@@ -559,7 +559,7 @@ Claim: Cooper Brown stated on Fox News that he works for the Leadership Institut
 
 Anchored Artifacts: A-1253.1
 Mentions: N-247
-Related Nodes: N-1248, N-1254
+Related Nodes: N-10248, N-10254
 Investigative Direction: Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.
 
 ---
@@ -572,7 +572,7 @@ Claim: Cooper Brown appeared on Jesse Watters' Fox News program the night of the
 
 Anchored Artifacts: A-1253.1
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
 ---
@@ -585,7 +585,7 @@ Claim: Cooper Brown appeared on Fox News again the day after the shooting.
 
 Anchored Artifacts: A-1253.2
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
 ---
@@ -598,7 +598,7 @@ Claim: Cooper Brown stated his event responsibility was managing the microphone 
 
 Anchored Artifacts: A-1253.2
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Cross-reference event staff logs or volunteer rosters provided by organizers.
 
 ---
@@ -611,7 +611,7 @@ Claim: Cooper Brown's public resume lists attendance at a small college in New H
 
 Anchored Artifacts: A-1253.2
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Pull registrar verification or alumni records (subject to FERPA limits).
 
 ---
@@ -624,7 +624,7 @@ Claim: A same-name person at the named New Hampshire college graduated in the ye
 
 Anchored Artifacts: A-1253.2
 Mentions: N-247
-Related Nodes: N-1248
+Related Nodes: N-10248
 Investigative Direction: Confirm whether the female same-name individual is or is not the same person through independent records.
 
 ---
@@ -637,7 +637,7 @@ Claim: Jason Chaffetz stated on Fox News that, being within proximity of the ven
 
 Anchored Artifacts: A-1254.1
 Mentions: N-248
-Related Nodes: N-1246, N-1247
+Related Nodes: N-10246, N-10247
 Investigative Direction: Confirm full segment and any subsequent Chaffetz statements on the topic.
 
 ---
@@ -650,7 +650,7 @@ Claim: Two women shown in Phil Lyman's footage of the building exterior stated t
 
 Anchored Artifacts: A-1255.1
 Mentions: N-92
-Related Nodes: N-1247
+Related Nodes: N-10247
 Investigative Direction: Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata.
 
 ---
@@ -663,7 +663,7 @@ Claim: Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examin
 
 Anchored Artifacts: (host-stated; no displayed primary artifact – see Optional Flags)
 Mentions: N-249
-Related Nodes: N-1249
+Related Nodes: N-10249
 Investigative Direction: Locate Utah state announcement and prior employment records.
 
 ---
@@ -675,7 +675,7 @@ Claim Timestamp: 00:30:39
 Claim: A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.
 
 Anchored Artifacts: (host-stated; web link referenced but full artifact not displayed – see Optional Flags)
-Related Nodes: N-1250
+Related Nodes: N-10250
 Investigative Direction: Obtain Utah LLC formation records (pre-digitization, requires in-person request) and Israeli business registries.
 
 ---
@@ -687,7 +687,7 @@ Claim Timestamp: 00:31:26
 Claim: Caldera Engineering was established in 1997.
 
 Anchored Artifacts: (host-stated; no primary artifact displayed – see Optional Flags)
-Related Nodes: N-1250
+Related Nodes: N-10250
 Investigative Direction: Verify via Utah Division of Corporations records and trademark filings.
 
 ---
@@ -699,7 +699,7 @@ Claim Timestamp: 00:30:39
 Claim: A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.
 
 Anchored Artifacts: (host-stated; resume referenced but not displayed – see Optional Flags)
-Related Nodes: N-1250
+Related Nodes: N-10250
 Investigative Direction: Verify via LinkedIn / professional profile cross-checks.
 
 ---
@@ -712,7 +712,7 @@ Claim: The lawyer Caldera Engineering used in its early trademark filings in Ari
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed – see Optional Flags)
 Mentions: N-37
-Related Nodes: N-1250
+Related Nodes: N-10250
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---
@@ -724,7 +724,7 @@ Claim Timestamp: 00:37:31
 Claim: A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.
 
 Anchored Artifacts: (host-stated; flight tracking not displayed – see Optional Flags)
-Related Nodes: N-1251
+Related Nodes: N-10251
 Investigative Direction: Pull FAA registry for N1098L and prior military tail assignments.
 
 ---
@@ -736,7 +736,7 @@ Claim Timestamp: 00:37:31
 Claim: Plane N1098L was owned/contracted by Las Vegas Aviation LLC.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-1251, N-1255
+Related Nodes: N-10251, N-10255
 Investigative Direction: Confirm ownership via FAA registry and Nevada Secretary of State filings for Las Vegas Aviation LLC.
 
 ---
@@ -748,7 +748,7 @@ Claim Timestamp: 00:37:31
 Claim: Plane N1098L departed Texas and routed to Utah around the time of the shooting.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-1251
+Related Nodes: N-10251
 Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for N1098L on the date.
 
 ---
@@ -761,7 +761,7 @@ Claim: A second plane (with "888" in identification per host) is associated with
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Mentions: N-76, N-251
-Related Nodes: N-1252
+Related Nodes: N-10252
 Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.
 
 ---
@@ -773,7 +773,7 @@ Claim Timestamp: 00:39:09
 Claim: Plane 888's intended destination was Page, Arizona.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-1252
+Related Nodes: N-10252
 Investigative Direction: Verify via filed flight plan and FBO records.
 
 ---
@@ -785,7 +785,7 @@ Claim Timestamp: 00:39:09
 Claim: The ADSB transponder on plane 888 appeared to turn off during the flight.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-1252
+Related Nodes: N-10252
 Investigative Direction: Pull historical ADSB / radar track for the aircraft on the date.
 
 ---
@@ -798,7 +798,7 @@ Claim: Kash Patel publicly stated that plane 888 never stopped transponding.
 
 Anchored Artifacts: (host-stated; Kash Patel public statement not displayed – see Optional Flags)
 Mentions: N-102
-Related Nodes: N-1252
+Related Nodes: N-10252
 Investigative Direction: Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.
 
 ---
@@ -811,7 +811,7 @@ Claim: Derek Maxwell publicly stated on Instagram that the air traffic control c
 
 Anchored Artifacts: (host-stated; Derek Maxwell Instagram post not displayed – see Optional Flags)
 Mentions: N-251
-Related Nodes: N-1252
+Related Nodes: N-10252
 Investigative Direction: Locate Maxwell's original Instagram post and any corroborating ATC logs.
 
 ---
@@ -823,7 +823,7 @@ Claim Timestamp: 00:40:53
 Claim: Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-1252, N-1256
+Related Nodes: N-10252, N-10256
 Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire and Signature).
 
 ---
@@ -835,7 +835,7 @@ Claim Timestamp: 00:41:40
 Claim: A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.
 
 Anchored Artifacts: (host-stated; secondhand report – see Optional Flags)
-Related Nodes: N-1252, N-1256
+Related Nodes: N-10252, N-10256
 Investigative Direction: Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs.
 
 ---
@@ -848,7 +848,7 @@ Claim: Josh Hammer publicly released text messages between himself and Charlie K
 
 Anchored Artifacts: A-1256.1
 Mentions: N-86, N-1
-Related Nodes: N-1253
+Related Nodes: N-10253
 Investigative Direction: Verify release date and source channel.
 
 ---
@@ -861,7 +861,7 @@ Claim: The released texts include a "thank you for your help guys" message (attr
 
 Anchored Artifacts: A-1256.1
 Mentions: N-86, N-1
-Related Nodes: N-1253
+Related Nodes: N-10253
 Investigative Direction: Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.
 
 ---
@@ -899,7 +899,7 @@ Claim: Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israe
 
 Anchored Artifacts: A-1259.1
 Mentions: N-228, N-1
-Related Nodes: N-1253
+Related Nodes: N-10253
 Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---

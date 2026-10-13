@@ -47,7 +47,7 @@ Confidence: high
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
-  - New Nodes Introduced: N-360, N-362, N-1306, N-1307, N-1308
+  - New Nodes Introduced: N-360, N-362, N-10306, N-10307, N-10308
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
 
@@ -162,7 +162,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:27–00:17:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by named participant)
-*Related: C-1642, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-1307*
+*Related: C-1642, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10307*
 
 **A-1360.2** Read-aloud headline: "Ben Shapiro's YAF launches smear campaign against Charlie Kirk and Candace Owens"
 
@@ -257,7 +257,7 @@ Flag: Name uncertainty.
 
 ### Investigation Targets
 
-**N-1306** Megyn Kelly Tour Attendee Authenticity Question
+**N-10306** Megyn Kelly Tour Attendee Authenticity Question
 
 Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals).
 
@@ -270,7 +270,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1307** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10307** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.
 
@@ -283,7 +283,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1308** Daily Wire Intern Covert Recording Operation
+**N-10308** Daily Wire Intern Covert Recording Operation
 
 Persistent target: the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova.
 
@@ -336,7 +336,7 @@ Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is a
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-1, N-75, N-133, N-2
 
-Related Nodes: N-1307
+Related Nodes: N-10307
 
 Investigative Direction: Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative.
 
@@ -351,7 +351,7 @@ Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is a
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-1, N-75, N-133, N-67
 
-Related Nodes: N-1307
+Related Nodes: N-10307
 
 Investigative Direction: Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.
 
@@ -396,7 +396,7 @@ Claim: The text messages read aloud between Candace Owens and Charlie Kirk descr
 Anchored Artifacts: A-1360.1, A-1360.2
 Mentions: N-3, N-1, N-133
 
-Related Nodes: N-1307
+Related Nodes: N-10307
 
 Investigative Direction: Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited.
 
@@ -411,7 +411,7 @@ Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern na
 Anchored Artifacts: A-1361.1
 Mentions: N-362, N-3
 
-Related Nodes: N-1308
+Related Nodes: N-10308
 
 Investigative Direction: Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.
 
@@ -551,7 +551,7 @@ Investigative Direction: Confirm the interview date against CNN's published inte
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger range (N-360+)
-- [x] Non-person investigation targets use the 1000 series (N-1306+)
+- [x] Non-person investigation targets use the 1000 series (N-10306+)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent

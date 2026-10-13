@@ -31,7 +31,7 @@
 - Ledger Continuation Summary:
  - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894
  - Claim Range: C-2544 – C-2559
- - New Nodes Introduced: N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
+ - New Nodes Introduced: N-10626, N-10627, N-10628, N-10629, N-10630, N-10631, N-10632
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:15:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (shown on screen)
 
-*Related: C-2545, C-2544, N-1628*
+*Related: C-2545, C-2544, N-10628*
 
 **A-1886.2** Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:13:52–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (mapping data; visual reference)
 
-*Related: C-2545, N-1628*
+*Related: C-2545, N-10628*
 
 **A-1886.3** Caller confirmation (host's anonymous outreach to Atlantic Aviation / Hopkinson) that Hopkinson Aircrafts is in a separate building that uses Atlantic Aviation's mailing address
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:13:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single anonymous call; not independently verified)
 
-*Related: C-2545, N-1628*
+*Related: C-2545, N-10628*
 
 **A-1887** Plane Documentation Bundle
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:18:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (aircraft type image shown)
 
-*Related: C-2546, N-1630*
+*Related: C-2546, N-10630*
 
 **A-1887.2** Phone call confirmation from charter company handling N8724A: "All of our planes have Wi-Fi"
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:19:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single phone call, not recorded)
 
-*Related: C-2546, C-2549, N-1630*
+*Related: C-2546, C-2549, N-10630*
 
 **A-1887.3** 2020 charter listing for the alleged "Wi-Refi" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:25:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (historical listing)
 
-*Related: C-2555, N-1630*
+*Related: C-2555, N-10630*
 
 **A-1888** ADSB Exchange Flight Data Bundle
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:31:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2551, C-2556, N-1629*
+*Related: C-2551, C-2556, N-10629*
 
 **A-1890.2** Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as "incredible"
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2552, N-1629*
+*Related: C-2552, N-10629*
 
 **A-1891** Nick Shirley Background Bundle
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:35:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: N-1629, N-1632*
+*Related: N-10629, N-10632*
 
 **A-1891.2** Nick Shirley claim: infiltrated Comando Vermelho (one of Rio's largest gangs) and befriended soldiers "through the course of 2 days"
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:36:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (claim stated on audio)
 
-*Related: C-2552, N-1632*
+*Related: C-2552, N-10632*
 
 **A-1892** Joe Kent Shellenberger Interview Bundle
 
@@ -221,13 +221,13 @@ Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (registration data shown; host's identification of Knupp's role requires verification)
 
-*Related: C-2550, N-1631*
+*Related: C-2550, N-10631*
 
 ---
 
 ## IV. Node Register
 
-**N-1626** Erica Kirk 9/10 Location Investigation
+**N-10626** Erica Kirk 9/10 Location Investigation
 
 Persistent investigative question of where Erica Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.
 
@@ -236,9 +236,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, N-2, N-1628*
+*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, N-2, N-10628*
 
-**N-1627** Andrew Kolvet 9/10 Flight Itinerary
+**N-10627** Andrew Kolvet 9/10 Flight Itinerary
 
 Persistent question of Andrew Kolvet's actual flight path on September 10. Episode develops 3:26 PM MST timing correlation against ADSB data and Wi-Fi analysis of Barbara plane.
 
@@ -249,7 +249,7 @@ Investigative Pressure: High
 
 *Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-2546, C-2547, C-2548, C-2549, C-2555*
 
-**N-1628** Hopkinson Aircrafts Business Verification
+**N-10628** Hopkinson Aircrafts Business Verification
 
 Question of whether Hopkinson Aircrafts is a functioning aircraft brokerage as advertised, given its unmarked separate building, shared Atlantic Aviation address, and unusual occupancy profile.
 
@@ -260,7 +260,7 @@ Investigative Pressure: Medium
 
 *Related: A-1886.1, A-1886.2, A-1886.3, C-2544, C-2545*
 
-**N-1629** Charlie Kirk Live Show 9/10 Liveness Verification
+**N-10629** Charlie Kirk Live Show 9/10 Liveness Verification
 
 Question of whether Andrew Kolvet's first-hour hosting of Charlie Kirk Live Show on 9/10 was performed live, given his prior history of faking a live show from the White House (per host's prior reporting). Host seeking written confirmation from Nick Shirley.
 
@@ -271,7 +271,7 @@ Investigative Pressure: High
 
 *Related: A-1890.1, A-1890.2, A-1891.1, C-2551*
 
-**N-1630** Barbara Plane (N8724A) Operations
+**N-10630** Barbara Plane (N8724A) Operations
 
 The Hawker Beechcraft alleged by Erica Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.
 
@@ -282,7 +282,7 @@ Investigative Pressure: Medium
 
 *Related: A-1887.1, A-1887.2, C-2546, C-2549*
 
-**N-1631** N40JD Plane Passenger Manifest
+**N-10631** N40JD Plane Passenger Manifest
 
 Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed.
 
@@ -293,7 +293,7 @@ Investigative Pressure: Low
 
 *Related: A-1894.1, C-2550, N-2*
 
-**N-1632** Nick Shirley Background Verification
+**N-10632** Nick Shirley Background Verification
 
 Question of Nick Shirley's claimed credentials, including the 48-hour Comando Vermelho infiltration claim and his access/sourcing profile.
 
@@ -317,7 +317,7 @@ Claim: Per an unverified source tip received by the host, Erica Kirk was at Hopk
 Anchored Artifacts: A-1886.1, A-1886.2, A-1886.3
 Mentions: N-2, N-1
 
-Related Nodes: N-1626, N-1628
+Related Nodes: N-10626, N-10628
 
 Investigative Direction: Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.
 
@@ -331,7 +331,7 @@ Claim: Per the host's anonymous outreach to Atlantic Aviation, Hopkinson Aircraf
 
 Anchored Artifacts: A-1886.2, A-1886.3
 
-Related Nodes: N-1628
+Related Nodes: N-10628
 
 Investigative Direction: Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records.
 
@@ -345,7 +345,7 @@ Claim: The charter company handling the Hawker Beechcraft N8724A told the host b
 
 Anchored Artifacts: A-1887.2
 
-Related Nodes: N-1630
+Related Nodes: N-10630
 
 Investigative Direction: Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials.
 
@@ -360,7 +360,7 @@ Claim: ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending b
 Anchored Artifacts: A-1888.1
 Mentions: N-1
 
-Related Nodes: N-1627
+Related Nodes: N-10627
 
 Investigative Direction: Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST.
 
@@ -375,7 +375,7 @@ Claim: Andrew Kolvet sent a text message at 3:26 PM MST on September 10, 2025 st
 Anchored Artifacts: A-1889.1
 Mentions: N-42
 
-Related Nodes: N-1627
+Related Nodes: N-10627
 
 Investigative Direction: Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time.
 
@@ -390,7 +390,7 @@ Claim: Per a text thread with Justin and Aubrey, Andrew Kolvet could not respond
 Anchored Artifacts: A-1889.1, A-1889.2
 Mentions: N-42
 
-Related Nodes: N-1627, N-1630
+Related Nodes: N-10627, N-10630
 
 Investigative Direction: Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on.
 
@@ -405,7 +405,7 @@ Claim: Per the host, the N40JD plane, registered to Jason Knupp (identified by h
 Anchored Artifacts: A-1894.1
 Mentions: N-2, N-1
 
-Related Nodes: N-1631
+Related Nodes: N-10631
 
 Investigative Direction: Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.
 
@@ -420,7 +420,7 @@ Claim: Andrew Kolvet stated in an interview with Ross Douthat (New York Times) t
 Anchored Artifacts: A-1890.1
 Mentions: N-42, N-1
 
-Related Nodes: N-1629
+Related Nodes: N-10629
 
 Investigative Direction: Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records.
 
@@ -435,7 +435,7 @@ Claim: Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that
 Anchored Artifacts: A-1891.2
 Mentions: N-1
 
-Related Nodes: N-1632
+Related Nodes: N-10632
 
 Investigative Direction: Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.
 
@@ -479,7 +479,7 @@ Claim: A 2020 charter listing for the plane identified as the alleged Santa Barb
 
 Anchored Artifacts: A-1887.3
 
-Related Nodes: N-1627
+Related Nodes: N-10627
 
 Investigative Direction: Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020.
 
@@ -494,7 +494,7 @@ Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was 
 Anchored Artifacts: A-1890.1
 Mentions: N-42, N-1
 
-Related Nodes: N-1629
+Related Nodes: N-10629
 
 Investigative Direction: Verify the specific guest booked for September 9 interview; cross-check against show archives.
 
@@ -509,7 +509,7 @@ Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane – the
 Anchored Artifacts: A-1887.3
 Mentions: N-42, N-2
 
-Related Nodes: N-1627
+Related Nodes: N-10627
 
 Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erica Kirk.
 
@@ -543,7 +543,7 @@ Claim: Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina 
 Anchored Artifacts: A-1889.2 (text thread)
 Mentions: N-42, N-1
 
-Related Nodes: N-1627
+Related Nodes: N-10627
 
 Investigative Direction: Obtain the full text thread; identify timestamp when TPUSA's public statement went out.
 
@@ -598,7 +598,7 @@ Artifact Families Introduced:
 Claim Range: C-2544 – C-2559
 
 New Nodes Introduced:
-N-1626, N-1627, N-1628, N-1629, N-1630, N-1631, N-1632
+N-10626, N-10627, N-10628, N-10629, N-10630, N-10631, N-10632
 
 Existing Nodes Reused:
 N-1 (Charlie Kirk), (Mike Mitchell Public Record Anomaly), (Brooksby Suicide Narrative Discrepancy), (Robinson Apartment Staging Allegation), (Phil Lyman Proximity and Behavior Investigation), (UVU Campus Familiarity Question), (Phil Lyman Location Discrepancy)

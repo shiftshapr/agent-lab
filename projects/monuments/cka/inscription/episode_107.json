@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-569",
             "N-571",
-            "N-1697"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -162,7 +162,7 @@
           ],
           "related_nodes": [
             "N-569",
-            "N-2384"
+            "N-11384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -466,8 +466,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-2384",
-      "ref": "N-2384",
+      "@id": "N-11384",
+      "ref": "N-11384",
       "name": "45,000 Rescue Claim Discrepancy",
       "type": "topic",
       "description": "Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.",
@@ -496,7 +496,7 @@
         "A-2505.1"
       ],
       "related_nodes": [
-        "N-1697"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:01:24",
@@ -609,7 +609,7 @@
         "A-2509.2"
       ],
       "related_nodes": [
-        "N-2384"
+        "N-11384"
       ],
       "tags": [],
       "claim_timestamp": "01:14:27",
@@ -689,7 +689,7 @@
         "A-2510.1"
       ],
       "related_nodes": [
-        "N-1676"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "01:09:11",
@@ -708,7 +708,7 @@
         "A-2510.1"
       ],
       "related_nodes": [
-        "N-1697"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:46:02",
@@ -767,7 +767,7 @@
         "A-2510.1"
       ],
       "related_nodes": [
-        "N-2384"
+        "N-11384"
       ],
       "tags": [],
       "claim_timestamp": "00:56:05",

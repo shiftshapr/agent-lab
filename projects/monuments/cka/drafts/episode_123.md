@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2103, N-2104, N-2105, N-2106
+  - New Nodes Introduced: N-11103, N-11104, N-11105, N-11106
   - Reused Nodes Appearing: N-777
   - (see registers)
 
@@ -37,7 +37,7 @@ Video Timestamp: 00:06:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2987, C-2988, N-2104*
+*Related: C-2986, C-2987, C-2988, N-11104*
 
 **A-2110.2** Photo 2 – Cardboard-colored piece and adjacent black bag (back seat)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:08:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2994, N-2103*
+*Related: C-2986, C-2994, N-11103*
 
 **A-2110.4** Photo 4 – Foil-like material visible under floor mat
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host asserts "beyond a shadow of a doubt")
 
-*Related: C-2986, C-2994, N-2103*
+*Related: C-2986, C-2994, N-11103*
 
 **A-2112** Mikey McCoy Hospital Casket Clip
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:49:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (viewer speculation)
 
-*Related: C-2994, N-2103*
+*Related: C-2994, N-11103*
 
 ---
 
@@ -175,7 +175,7 @@ Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
 
 
-**N-2103** Charlie's Road Microphone Glass Origin Investigation Target
+**N-11103** Charlie's Road Microphone Glass Origin Investigation Target
 
 Persistent investigative target: where did the tempered glass in the vehicle come from, and how was the road/lapel microphone broken?
 
@@ -186,7 +186,7 @@ Investigative Pressure: High
 
 *Related: A-2110.3, A-2111.4, A-2114.3, C-2986, C-2994*
 
-**N-2104** Charlie's Bloody Jacket Chain of Custody Investigation Target
+**N-11104** Charlie's Bloody Jacket Chain of Custody Investigation Target
 
 Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.
 
@@ -197,7 +197,7 @@ Investigative Pressure: Medium
 
 *Related: A-2110.1, C-2989*
 
-**N-2105** Missing Charlie's Shirt Investigation Target
+**N-11105** Missing Charlie's Shirt Investigation Target
 
 Persistent investigative target: location and disposition of Charlie Kirk's shirt on the day of the incident.
 
@@ -208,7 +208,7 @@ Investigative Pressure: Medium
 
 *Related: C-2998*
 
-**N-2106** Car Door Open During Transport Report Investigation Target
+**N-11106** Car Door Open During Transport Report Investigation Target
 
 Persistent investigative target: police scanner reports indicating car door was open during high-speed transport and a visible "struggle" in the vehicle.
 
@@ -231,7 +231,7 @@ Claim: Photographs of the vehicle interior show black tempered shattered glass p
 
 Anchored Artifacts: A-2110.3, A-2111.4
 Mentions: N-1
-Related Nodes: N-2103
+Related Nodes: N-11103
 Investigative Direction: Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.
 
 ---
@@ -256,8 +256,8 @@ Claim: A hanger is visible in Photo 1; the host infers it is connected to the sp
 
 Anchored Artifacts: A-2110.1
 Mentions: N-1
-Related Nodes: N-2104
-Investigative Direction: Identify hanger; trace jacket chain of custody (see N-2104).
+Related Nodes: N-11104
+Investigative Direction: Identify hanger; trace jacket chain of custody (see N-11104).
 
 ---
 
@@ -269,7 +269,7 @@ Claim: Charlie's bloodied sports coat was returned by security to Erika Kirk's a
 
 Anchored Artifacts: None (verbally referenced but not shown)
 Mentions: N-1, N-2
-Related Nodes: N-2104
+Related Nodes: N-11104
 Investigative Direction: Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return.
 
 ---
@@ -332,7 +332,7 @@ Claim: Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and othe
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
 Mentions: N-424, N-16
-Related Nodes: N-2103
+Related Nodes: N-11103
 Investigative Direction: Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.
 
 ---
@@ -370,7 +370,7 @@ Claim: Police scanner reports (referenced via Baron Coleman episodes) describe t
 
 Anchored Artifacts: A-2114.2
 Mentions: N-424, N-552, N-777
-Related Nodes: N-2106
+Related Nodes: N-11106
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 
 ---
@@ -383,7 +383,7 @@ Claim: As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicl
 
 Anchored Artifacts: None (claim is about absence of official response)
 Mentions: N-42
-Related Nodes: N-2103, N-2105
+Related Nodes: N-11103, N-11105
 Investigative Direction: Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target.
 
 ---

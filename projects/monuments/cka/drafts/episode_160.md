@@ -12,8 +12,8 @@
 - **Model Version**: grok-manual-extract-seq160
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2365, N-2366, N-2367, N-2368, N-2369, N-2370
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-16, N-35, N-42, N-99, N-102, N-117, N-120, N-181, N-309, N-424, N-434, N-435, N-552, N-607, N-1395, N-1632, N-2064, N-2085, N-2097, N-2136, N-2329, N-2350, N-2358, N-2363, N-30, N-36, N-53
+  - New Nodes Introduced: N-11365, N-11366, N-11367, N-11368, N-11369, N-11370
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-16, N-35, N-42, N-99, N-102, N-117, N-120, N-181, N-309, N-424, N-434, N-435, N-552, N-607, N-10395, N-10632, N-11064, N-11085, N-11097, N-11136, N-11329, N-11350, N-11358, N-11363, N-30, N-36, N-53
   - Hole-minted Nodes (seq160): N-230, N-244, N-250, N-279, N-294, N-303, N-318, N-342, N-346, N-347, N-411
   - (see registers)
   - Person band: new persons at N-230 and above. No person id in the topic band (one thousand through nine thousand nine hundred ninety-nine). Mark Herman (show director) does not appear by name in this episode; N-98 not cited. Sponsor reads (PreBorn, Beekeepers Naturals, PureTalk, Nimi, American Financing) treated as non-claim.
@@ -40,7 +40,7 @@ Video Timestamp: 00:01:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (tweet as read on air); Low (underlying rumor truth)
 
-*Related: C-3617, N-2366, N-3, N-411*
+*Related: C-3617, N-11366, N-3, N-411*
 
 ---
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:12:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clips/tweets as shown); Medium (intent framing)
 
-*Related: C-3618, C-3621, N-2367, N-294, N-303*
+*Related: C-3618, C-3621, N-11367, N-294, N-303*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:25:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (review text as read)
 
-*Related: C-3622, C-3623, N-2365, N-2329, N-1, N-30, N-36*
+*Related: C-3622, C-3623, N-11365, N-11329, N-1, N-30, N-36*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:27:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium-High (audio as played; subtitle ASR uncertain)
 
-*Related: C-3624, N-2365, N-1*
+*Related: C-3624, N-11365, N-1*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:35:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clip as aired)
 
-*Related: C-3625, N-16, N-435, N-434, N-342, N-2329*
+*Related: C-3625, N-16, N-435, N-434, N-342, N-11329*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:40:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (as attributed to BBC/headline; suicide circumstances unverified here)
 
-*Related: C-3626, C-3627, N-2368, N-230, N-244, N-35, N-1395*
+*Related: C-3626, C-3627, N-11368, N-230, N-244, N-35, N-10395*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:45:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium-High (as narrated; verify attendance figures independently)
 
-*Related: C-3628, N-2369, N-250, N-279*
+*Related: C-3628, N-11369, N-250, N-279*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:47:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (trend/headline as characterized on air)
 
-*Related: C-3629, N-2370, N-552, N-3*
+*Related: C-3629, N-11370, N-552, N-3*
 
 ---
 
@@ -154,7 +154,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, C-3623, C-3624, A-2476.1, A-2476.2, N-2365*
+*Related: C-3622, C-3623, C-3624, A-2476.1, A-2476.2, N-11365*
 
 ---
 
@@ -166,7 +166,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3618, N-2367*
+*Related: C-3618, N-11367*
 
 ---
 
@@ -178,7 +178,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3617, C-3629, A-2474.1, N-2366*
+*Related: C-3617, C-3629, A-2474.1, N-11366*
 
 ---
 
@@ -190,7 +190,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, N-1395, N-230*
+*Related: C-3626, N-10395, N-230*
 
 ---
 
@@ -202,7 +202,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, C-3625, A-2477.1, N-2085, N-2136*
+*Related: C-3623, C-3625, A-2477.1, N-11085, N-11136*
 
 ---
 
@@ -214,7 +214,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, C-3627, N-1395, N-2368*
+*Related: C-3626, C-3627, N-10395, N-11368*
 
 ---
 
@@ -274,7 +274,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, N-1395*
+*Related: C-3626, N-10395*
 
 ---
 
@@ -310,7 +310,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-2097, N-2136*
+*Related: C-3623, N-11097, N-11136*
 
 ---
 
@@ -334,7 +334,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3625, A-2477.1, N-2329*
+*Related: C-3625, A-2477.1, N-11329*
 
 ---
 
@@ -346,7 +346,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3629, A-2480.1, N-2370*
+*Related: C-3629, A-2480.1, N-11370*
 
 ---
 
@@ -397,11 +397,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-2363, prose in comments*
+*Related: N-11363, prose in comments*
 
 ---
 
-**N-1395** Epstein Files Release Status
+**N-10395** Epstein Files Release Status
 
 Reused topic for Lutnick/Andre death and Bondi catastrophe framing.
 
@@ -409,11 +409,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, C-3627, N-2368*
+*Related: C-3626, C-3627, N-11368*
 
 ---
 
-**N-1632** Nick Shirley Background Verification
+**N-10632** Nick Shirley Background Verification
 
 Prior Shirley topic; this episode revisits Shirley as last Charlie Kirk Show guest and failed daycare distraction.
 
@@ -421,11 +421,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3620, N-318, N-2064*
+*Related: C-3620, N-318, N-11064*
 
 ---
 
-**N-2064** Nick Shirley Background and Backing Verification
+**N-11064** Nick Shirley Background and Backing Verification
 
 Companion Shirley investigation target reused with C-3620.
 
@@ -437,7 +437,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2085** Frank Turek CPR Claim Verification
+**N-11085** Frank Turek CPR Claim Verification
 
 Prior CPR-claim topic; host restates Turek's back-seat CPR story against Harpole and the unnamed captain.
 
@@ -449,7 +449,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2097** Brian Harpole vs Frank Turek CPR Contradiction
+**N-11097** Brian Harpole vs Frank Turek CPR Contradiction
 
 Prior contradiction topic continued by fire-captain omission.
 
@@ -461,7 +461,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2136** CPR Narrative Contradiction (Turek / Harpole)
+**N-11136** CPR Narrative Contradiction (Turek / Harpole)
 
 Broader CPR-contradiction topic; fire-captain redaction is the new pressure point.
 
@@ -469,11 +469,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-2365*
+*Related: C-3623, N-11365*
 
 ---
 
-**N-2329** Independent Review of UVU Security Failures
+**N-11329** Independent Review of UVU Security Failures
 
 Central document for unnamed Station 2 fire captain and for Turek's continued roofs claim after release.
 
@@ -481,11 +481,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, C-3625, A-2476.1, N-2365*
+*Related: C-3622, C-3625, A-2476.1, N-11365*
 
 ---
 
-**N-2350** TPUSA Non-Participation in UVU Independent Review
+**N-11350** TPUSA Non-Participation in UVU Independent Review
 
 Background for host's point that the review still named TPUSA figures who did not want to participate.
 
@@ -497,7 +497,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2358** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
+**N-11358** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
 
 Prior smear-package topic; Candyland nanny rumor is the next flip the host satirizes.
 
@@ -505,11 +505,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3617, N-2366*
+*Related: C-3617, N-11366*
 
 ---
 
-**N-2363** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
+**N-11363** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
 
 Reused in comments; host teases further dots next episode.
 
@@ -521,7 +521,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2365** UVU Independent Review Unnamed Fire Captain CPR Redaction
+**N-11365** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 New topic: Station 2 fire captain who (per review) gave CPR at Timpanogos is unnamed; host seeks identity via tips and plays corroborating dispatch audio.
 
@@ -530,11 +530,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3622, C-3623, C-3624, A-2476.1, A-2476.2, N-2329, N-1*
+*Related: C-3622, C-3623, C-3624, A-2476.1, A-2476.2, N-11329, N-1*
 
 ---
 
-**N-2366** Candyland Illegal-Nanny Mansion NDA Smear
+**N-11366** Candyland Illegal-Nanny Mansion NDA Smear
 
 New topic: Lisa Nose / Jessica Reed Kraus rumor that Candace warehouses illegal nannies under NDA in a second mansion; host brands the fantasy series Candyland.
 
@@ -543,11 +543,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3617, A-2474.1, N-3, N-411, N-2358*
+*Related: C-3617, A-2474.1, N-3, N-411, N-11358*
 
 ---
 
-**N-2367** Killer-Mom Filicide Narrative as Internet-Regulation SCOP
+**N-11367** Killer-Mom Filicide Narrative as Internet-Regulation SCOP
 
 New topic: Clancy-seeded, Mace/NY Post/Libs-amplified filicide panic that host says lacks statistical basis and aims to regulate women online after Charlie-case bots failed.
 
@@ -560,7 +560,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2368** Howard Lutnick / Simon Andre Epstein Whistleblower Death
+**N-11368** Howard Lutnick / Simon Andre Epstein Whistleblower Death
 
 New topic: Andre's reported death after alleging Lutnick-Epstein business ties and island visits; host flags suicide narrative as suspicious.
 
@@ -569,11 +569,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3626, C-3627, A-2478.1, N-230, N-244, N-35, N-1395*
+*Related: C-3626, C-3627, A-2478.1, N-230, N-244, N-35, N-10395*
 
 ---
 
-**N-2369** Zach Bryan Free Palestine Gillette Stadium Record
+**N-11369** Zach Bryan Free Palestine Gillette Stadium Record
 
 New topic: Bryan's Free Palestine shirt nights and claimed attendance-record break after Kraft canceled Macklemore at Gillette.
 
@@ -586,7 +586,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-2370** Baron Coleman Pre-Host Character Attack Campaign
+**N-11370** Baron Coleman Pre-Host Character Attack Campaign
 
 New topic: coordinated old-interview digs and trending criticism after Candace announced Coleman would guest-host.
 
@@ -604,7 +604,7 @@ Investigative Pressure: Medium
 Node Type: Person
 U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andre flagged his Epstein island visits and a 2018 startup email chain with Epstein.
 
-*Related: C-3626, C-3627, A-2478.1, N-2368, N-35*
+*Related: C-3626, C-3627, A-2478.1, N-11368, N-35*
 
 ---
 
@@ -613,7 +613,7 @@ U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon 
 Node Type: Person
 Former British banker / BGC managing director reported dead after whistleblowing on Lutnick-Epstein links; host cites BBC attribution and a suicide narrative she calls remarkably suspicious.
 
-*Related: C-3626, C-3627, A-2478.1, N-2368, N-230*
+*Related: C-3626, C-3627, A-2478.1, N-11368, N-230*
 
 ---
 
@@ -622,7 +622,7 @@ Former British banker / BGC managing director reported dead after whistleblowing
 Node Type: Person
 Country singer who (per host) wore Free Palestine shirts with his band for two Gillette Stadium nights and broke the attendance record previously held by Ed Sheeran.
 
-*Related: C-3628, A-2479.1, N-2369*
+*Related: C-3628, A-2479.1, N-11369*
 
 ---
 
@@ -631,7 +631,7 @@ Country singer who (per host) wore Free Palestine shirts with his band for two G
 Node Type: Person
 Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights.
 
-*Related: C-3628, A-2479.1, N-2369*
+*Related: C-3628, A-2479.1, N-11369*
 
 ---
 
@@ -640,7 +640,7 @@ Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine
 Node Type: Person
 Mother whose case the host says seeded the current killer-mom algorithm push; she notes she did not follow the case closely and treats the surrounding TikTok empathy clips as SCOP bait.
 
-*Related: C-3618, C-3621, A-2475.1, N-2367*
+*Related: C-3618, C-3621, A-2475.1, N-11367*
 
 ---
 
@@ -649,16 +649,16 @@ Mother whose case the host says seeded the current killer-mom algorithm push; sh
 Node Type: Person
 U.S. Representative shown on air pushing killer-mom epidemic framing in clips and tweets; host notes her AIPAC funding and Israel loyalty as context for SCOP intent.
 
-*Related: C-3618, C-3621, A-2475.1, N-2367*
+*Related: C-3618, C-3621, A-2475.1, N-11367*
 
 ---
 
 **N-318** Nick Shirley
 
 Node Type: Person
-Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-1632 / N-2064.
+Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10632 / N-11064.
 
-*Related: C-3620, N-1632, N-2064, N-42*
+*Related: C-3620, N-10632, N-11064, N-42*
 
 ---
 
@@ -694,7 +694,7 @@ Subject of the New York Times MeToo explosion the host says displaced Las Vegas 
 Node Type: Person
 X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter.
 
-*Related: C-3617, A-2474.1, N-2366*
+*Related: C-3617, A-2474.1, N-11366*
 
 ---
 
@@ -706,7 +706,7 @@ Claim Timestamp: 00:01:13
 Claim: On air the host reads a Lisa Nose X post claiming Candace Owens keeps eight nannies (two per child) living in a second mansion, hires nannies who are in the country illegally via an elite Jewish nanny agency, underpays them, and binds them with NDAs so they cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose confirmed via three people who know Candace.
 Anchored Artifacts: A-2474.1
 Mentions: N-3, N-411
-Related Nodes: N-2358, N-2366
+Related Nodes: N-11358, N-11366
 Investigative Direction: Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains.
 
 ---
@@ -717,7 +717,7 @@ Claim Timestamp: 00:09:26
 Claim: The host argues the Lindsay Clancy-seeded, Nancy Mace / New York Post / Libs of TikTok amplified killer-mom panic is an intentional SCOP that neocons link to women who distrust Erika Kirk, and that its purpose is to justify regulating the internet after bots failed to move the public off Charlie Kirk.
 Anchored Artifacts: A-2475.1
 Mentions: N-1, N-2, N-294, N-303
-Related Nodes: N-2367
+Related Nodes: N-11367
 Investigative Direction: Map amplification graphs (Mace, NY Post, Libs) against UVU-review and Charlie-case news cycles; separate statistical filicide data from narrative framing.
 
 ---
@@ -738,7 +738,7 @@ Claim Timestamp: 00:08:23
 Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, had done Brazil work she will not revisit, and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
 Anchored Artifacts: A-2475.1
 Mentions: N-42, N-318, N-1
-Related Nodes: N-1632, N-2064
+Related Nodes: N-10632, N-11064
 Investigative Direction: Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis.
 
 ---
@@ -749,7 +749,7 @@ Claim Timestamp: 00:15:48
 Claim: The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality.
 Anchored Artifacts: A-2475.1
 Mentions: N-294, N-303
-Related Nodes: N-2367
+Related Nodes: N-11367
 Investigative Direction: Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables.
 
 ---
@@ -760,7 +760,7 @@ Claim Timestamp: 00:25:48
 Claim: The host reads the UVU independent review stating Station 3 radioed the TPUSA SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.
 Anchored Artifacts: A-2476.1
 Mentions: N-1, N-30, N-36
-Related Nodes: N-2329, N-2350, N-2365
+Related Nodes: N-11329, N-11350, N-11365
 Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review.
 
 ---
@@ -771,7 +771,7 @@ Claim Timestamp: 00:22:00
 Claim: Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.
 Anchored Artifacts: A-2476.1
 Mentions: N-1, N-16, N-309, N-424
-Related Nodes: N-2085, N-2097, N-2136, N-2365
+Related Nodes: N-11085, N-11097, N-11136, N-11365
 Investigative Direction: Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.
 
 ---
@@ -782,7 +782,7 @@ Claim Timestamp: 00:27:16
 Claim: The host plays fire dispatch audio she times around 12:30 p.m. in which ladder 33 and engine 34 are redirected toward Timpanogos, after radio traffic describing a black SUV with a person hanging out, which she presents as corroboration of the review's Station 2/3 reroute narrative.
 Anchored Artifacts: A-2476.2
 Mentions: N-1
-Related Nodes: N-2365
+Related Nodes: N-11365
 Investigative Direction: Obtain original Provo/Orem dispatch recordings and unit logs for ladder 33 / engine 34 / Station 2 captain assignment.
 
 ---
@@ -793,7 +793,7 @@ Claim Timestamp: 00:35:11
 Claim: In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a Dan Flood text ("I got you covered") as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.
 Anchored Artifacts: A-2477.1
 Mentions: N-16, N-342, N-434, N-435
-Related Nodes: N-2329
+Related Nodes: N-11329
 Investigative Direction: Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata.
 
 ---
@@ -804,7 +804,7 @@ Claim Timestamp: 00:40:26
 Claim: The host reports that former British banker and BGC Group managing director Simon Andre, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.
 Anchored Artifacts: A-2478.1
 Mentions: N-5, N-35, N-120, N-230, N-244
-Related Nodes: N-1395, N-2368
+Related Nodes: N-10395, N-11368
 Investigative Direction: Verify Andre identity, death circumstances, and BBC reporting; document Lutnick's public statements on Epstein island visits.
 
 ---
@@ -815,7 +815,7 @@ Claim Timestamp: 00:41:13
 Claim: Per the host's BBC-attributed account, Simon Andre said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre cast as Lutnick failing to disclose a business relationship with Epstein after Epstein's Palm Beach conviction.
 Anchored Artifacts: A-2478.1
 Mentions: N-35, N-230, N-244
-Related Nodes: N-1395, N-2368
+Related Nodes: N-10395, N-11368
 Investigative Direction: Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status.
 
 ---
@@ -826,7 +826,7 @@ Claim Timestamp: 00:45:05
 Claim: The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; drummer shirt referenced a killed Palestinian child) and broke the stadium attendance record previously held by Ed Sheeran.
 Anchored Artifacts: A-2479.1
 Mentions: N-250, N-279
-Related Nodes: N-2369
+Related Nodes: N-11369
 Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.
 
 ---
@@ -837,7 +837,7 @@ Claim Timestamp: 00:47:22
 Claim: After announcing Baron Coleman would take over her show during maternity leave, the host says critics immediately dug up 20-year-old interviews and trended lines casting him as abusive, with headlines such as "Baron Coleman faces online criticism before guest spot on Candace Owens," which she frames as an attempt to get him dropped.
 Anchored Artifacts: A-2480.1
 Mentions: N-3, N-552
-Related Nodes: N-2370
+Related Nodes: N-11370
 Investigative Direction: Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.
 
 ---
@@ -898,6 +898,6 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
 - [x] New persons use low-band person holes (N-230+); zero Person nodes at or above ten thousand
-- [x] Topics use the topic band (N-2365+)
+- [x] Topics use the topic band (N-11365+)
 - [x] En dashes in prose, no em dashes outside quotes
 - [x] Claims grounded in corrected transcript timestamps

@@ -198,7 +198,7 @@
             "C-1642"
           ],
           "related_nodes": [
-            "N-1307"
+            "N-10307"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -359,8 +359,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1306",
-      "ref": "N-1306",
+      "@id": "N-10306",
+      "ref": "N-10306",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
       "type": "investigation_target",
       "description": "Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals).",
@@ -380,8 +380,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1307",
-      "ref": "N-1307",
+      "@id": "N-10307",
+      "ref": "N-10307",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
       "type": "investigation_target",
       "description": "Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.",
@@ -401,8 +401,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1308",
-      "ref": "N-1308",
+      "@id": "N-10308",
+      "ref": "N-10308",
       "name": "Daily Wire Intern Covert Recording Operation",
       "type": "investigation_target",
       "description": "Persistent target: the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova.",
@@ -566,7 +566,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-1307"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
@@ -589,7 +589,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-1307"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
@@ -649,7 +649,7 @@
         "A-1360.2"
       ],
       "related_nodes": [
-        "N-1307"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:16:27–00:17:50",
@@ -670,7 +670,7 @@
         "A-1361.1"
       ],
       "related_nodes": [
-        "N-1308"
+        "N-10308"
       ],
       "tags": [],
       "claim_timestamp": "00:25:16–00:27:36",

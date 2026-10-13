@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2164, N-2165, N-2166, N-2167, N-2168, N-2169
+  - New Nodes Introduced: N-11164, N-11165, N-11166, N-11167, N-11168, N-11169
   - Reused Nodes Appearing: N-1, N-2
   - (see registers)
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:30:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3178, C-3179, C-3180, N-1, N-2166, N-2167*
+*Related: C-3178, C-3179, C-3180, N-1, N-11166, N-11167*
 
 **A-2220.2** Email read aloud from self-identified transplant coordinator / former scrub nurse at level one trauma center regarding autopsy timeline, thoracic trauma patterns, and body temperature in morgue
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:34:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3181, N-1, N-2166*
+*Related: C-3181, N-1, N-11166*
 
 **A-2221** YouTube Medical Comment Bundle
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3182, C-3183, N-1, N-2167*
+*Related: C-3182, C-3183, N-1, N-11167*
 
 **A-2222** Lozi Center Witness Recording Bundle
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:40:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3185, C-3187, N-1, N-2168*
+*Related: C-3185, C-3187, N-1, N-11168*
 
 ## 4. Node Register
 
@@ -123,7 +123,7 @@ Investigative Pressure: High
 
 *Related: A-2219.1, A-2220.1, A-2220.2, A-2221.1, A-2222.1, C-3177–C-3187*
 
-**N-2164** Timpanogos Hospital Evacuation Tip
+**N-11164** Timpanogos Hospital Evacuation Tip
 
 Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.
 
@@ -132,9 +132,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3188, C-3189, N-1, N-2169*
+*Related: C-3188, C-3189, N-1, N-11169*
 
-**N-2165** Security Clothing Disposal Question
+**N-11165** Security Clothing Disposal Question
 
 Host's assertion that FBI took security team clothing down to boxer briefs; host infers possible destruction rather than evidence preservation given FBI's prior behavior of towing and reselling the vehicle.
 
@@ -145,7 +145,7 @@ Investigative Pressure: Medium
 
 *Related: C-3191*
 
-**N-2166** Autopsy Timeline Anomaly
+**N-11166** Autopsy Timeline Anomaly
 
 Question raised by medical professional email (A-2220.2) and host regarding unusually short (~3 hour) autopsy timeline given typical protocol of bringing body to 40°F in morgue cooler before examination; estimate includes time Erika Kirk spent with the body on arrival.
 
@@ -156,7 +156,7 @@ Investigative Pressure: Medium
 
 *Related: A-2220.2, C-3181, N-2*
 
-**N-2167** Shaped Charge / Exploding Microphone Hypothesis
+**N-11167** Shaped Charge / Exploding Microphone Hypothesis
 
 Alternative theory advanced by multiple artifact-anchored medical communications suggesting Charlie Kirk's neck wound pattern is more consistent with a shaped charge in his lapel microphone than with a bullet; also encompasses the inference that recovered bullet fragments may actually be shaped charge casing.
 
@@ -167,7 +167,7 @@ Investigative Pressure: Medium
 
 *Related: A-2220.1, A-2221.1, C-3178–C-3183, C-3186, N-1*
 
-**N-2168** Lozi Center Gun Verification Gap
+**N-11168** Lozi Center Gun Verification Gap
 
 Persistent absence of eyewitness confirmation that any firearm was visible on the Lozi Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.
 
@@ -178,16 +178,16 @@ Investigative Pressure: Medium
 
 *Related: A-2222.1, C-3185, C-3187, N-1*
 
-**N-2169** Utah Valley Hospital File Anomaly
+**N-11169** Utah Valley Hospital File Anomaly
 
-Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-2164) or by pre-existing record creation.
+Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-11164) or by pre-existing record creation.
 
 Evidence Count: 0
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3190, N-1, N-2164*
+*Related: C-3190, N-1, N-11164*
 
 ## 5. Claim Register
 
@@ -237,7 +237,7 @@ Claim: Per the anesthesiologist's email, the observed wound pattern (blood/tissu
 Anchored Artifacts: A-2220.1
 Mentions: N-1
 
-Related Nodes: N-2167
+Related Nodes: N-11167
 
 Investigative Direction: Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds.
 
@@ -250,7 +250,7 @@ Claim: Per the anesthesiologist's email, what was recovered and labeled as "bull
 Anchored Artifacts: A-2220.1
 Mentions: N-1
 
-Related Nodes: N-2167
+Related Nodes: N-11167
 
 Investigative Direction: Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials).
 
@@ -263,7 +263,7 @@ Claim: Per the anesthesiologist's email, no ambulance with resuscitative equipme
 Anchored Artifacts: A-2220.1
 Mentions: N-1
 
-Related Nodes: N-2167
+Related Nodes: N-11167
 
 Investigative Direction: Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.
 
@@ -276,7 +276,7 @@ Claim: Per the nurse's email, the autopsy timeline only supports approximately 3
 Anchored Artifacts: A-2220.2
 Mentions: N-1
 
-Related Nodes: N-2166
+Related Nodes: N-11166
 
 Investigative Direction: Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols.
 
@@ -289,7 +289,7 @@ Claim: Per the surgeon YouTube comment, the trajectory from a rooftop shooter is
 Anchored Artifacts: A-2221.1
 Mentions: N-1
 
-Related Nodes: N-2167
+Related Nodes: N-11167
 
 Investigative Direction: Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.
 
@@ -302,7 +302,7 @@ Claim: Per the surgeon YouTube comment, the medical examiner's report states muc
 Anchored Artifacts: A-2221.1
 Mentions: N-1
 
-Related Nodes: N-2167
+Related Nodes: N-11167
 
 Investigative Direction: Obtain the official medical examiner's report to verify the cervical spine description.
 
@@ -327,7 +327,7 @@ Claim: Per the witness recording played in the episode, the witness observes a p
 Anchored Artifacts: A-2222.1
 Mentions: N-1
 
-Related Nodes: N-2168
+Related Nodes: N-11168
 
 Investigative Direction: Obtain the full witness recording and transcript; identify and interview the witness for confirmation.
 
@@ -340,7 +340,7 @@ Claim: Host states she is "team road mic" and concurs with the shaped charge / e
 Anchored Artifacts: A-2220.1, A-2221.1
 Mentions: N-1
 
-Related Nodes: N-2167
+Related Nodes: N-11167
 
 Investigative Direction: Note host stance for cross-referencing future evidentiary developments.
 
@@ -353,7 +353,7 @@ Claim: Host concurs with the witness recording's omission of any gun mention and
 Anchored Artifacts: A-2222.1
 Mentions: N-1
 
-Related Nodes: N-2168
+Related Nodes: N-11168
 
 Investigative Direction: Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available.
 
@@ -366,7 +366,7 @@ Claim: Per host's verbal source (not displayed in this episode), Timpanogos Hosp
 Anchored Artifacts: None displayed (verbal source only)
 Mentions: N-1
 
-Related Nodes: N-2164, N-2169
+Related Nodes: N-11164, N-11169
 
 Investigative Direction: Obtain independent verification – shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.
 
@@ -381,7 +381,7 @@ Claim: Per host's verbal source, ER patients were subsequently transferred via s
 Anchored Artifacts: None displayed (verbal source only)
 Mentions: N-1
 
-Related Nodes: N-2164, N-2169
+Related Nodes: N-11164, N-11169
 
 Investigative Direction: Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony.
 
@@ -396,7 +396,7 @@ Claim: A patient file for Charlie Kirk was previously confirmed visible in the U
 Anchored Artifacts: Referenced from prior episode (originally displayed in earlier episode, not re-displayed here)
 Mentions: N-1
 
-Related Nodes: N-2169
+Related Nodes: N-11169
 
 Investigative Direction: Re-display the original document or obtain the leaked file independently for forensic verification.
 
@@ -410,7 +410,7 @@ Claim: Per host's assertion (based on an unnamed tip), the FBI took security tea
 
 Anchored Artifacts: None displayed (verbal tip)
 
-Related Nodes: N-2165
+Related Nodes: N-11165
 
 Investigative Direction: Obtain defense discovery materials or testimony from security team members.
 
@@ -425,7 +425,7 @@ Claim: Per host, the Timpanogos hospital Epic electronic medical record system d
 Anchored Artifacts: None displayed
 Mentions: N-1
 
-Related Nodes: N-2169
+Related Nodes: N-11169
 
 Investigative Direction: Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events.
 

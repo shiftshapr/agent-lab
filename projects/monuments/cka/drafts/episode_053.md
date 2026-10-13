@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
+  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-10456, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-37
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:06:31–00:09:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2016, C-2017, C-2024, N-640, N-1456*
+*Related: C-2016, C-2017, C-2024, N-640, N-10456*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:11:04–00:12:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2018, N-640, N-1456*
+*Related: C-2018, N-640, N-10456*
 
 ---
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:09:24–00:11:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2017, N-640, N-1456*
+*Related: C-2017, N-640, N-10456*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:24:45–00:27:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2019, C-2025, N-642, N-643, N-644, N-645, N-646, N-1457, N-1462*
+*Related: C-2019, C-2025, N-642, N-643, N-644, N-645, N-646, N-10457, N-10462*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:18:09–00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2020, N-641, N-642, N-1457*
+*Related: C-2020, N-641, N-642, N-10457*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:47:47–00:49:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2021, C-2022, N-647, N-1458, N-1461*
+*Related: C-2021, C-2022, N-647, N-10458, N-10461*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:44:48–00:45:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (exact date and identity of "oracle" figure not independently verified)
 
-*Related: C-2023, N-1, N-648, N-1460*
+*Related: C-2023, N-1, N-648, N-10460*
 
 ---
 
@@ -185,7 +185,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-1456*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-10456*
 
 ---
 
@@ -198,7 +198,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1591.1, C-2020, N-642, N-1457*
+*Related: A-1591.1, C-2020, N-642, N-10457*
 
 ---
 
@@ -211,7 +211,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-641, N-1457, N-1462*
+*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-641, N-10457, N-10462*
 
 ---
 
@@ -224,7 +224,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-644, N-1457, N-1462*
+*Related: N-644, N-10457, N-10462*
 
 ---
 
@@ -237,7 +237,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-643, N-645, N-1462*
+*Related: A-1590.1, C-2019, N-643, N-645, N-10462*
 
 ---
 
@@ -250,7 +250,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-644, N-1462*
+*Related: A-1590.1, C-2019, N-644, N-10462*
 
 ---
 
@@ -263,7 +263,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-1458, N-1461*
+*Related: A-1592.1, C-2021, C-2022, N-10458, N-10461*
 
 ---
 
@@ -289,7 +289,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-1460*
+*Related: A-1593.1, C-2023, N-10460*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1457*
+*Related: N-10457*
 
 ---
 
@@ -319,7 +319,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1456** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10456** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Investigation target: the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women.
 
@@ -332,7 +332,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1457** Ben Shapiro Hostile Takeover Pattern
+**N-10457** Ben Shapiro Hostile Takeover Pattern
 
 Investigation target: persistent claim across the series that Ben Shapiro has attempted hostile takeovers of multiple conservative organizations (Breitbart, David Horowitz's organization, Turning Point) and that his founding of the Daily Wire was preceded by a manufactured scandal.
 
@@ -341,11 +341,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-641, N-642, N-643, N-644, N-645, N-75, N-1462*
+*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-641, N-642, N-643, N-644, N-645, N-75, N-10462*
 
 ---
 
-**N-1458** Tyler Bowyer Investigation Question
+**N-10458** Tyler Bowyer Investigation Question
 
 Investigation target: host's persistent claim that Tyler Bowyer staffed nearly everyone around Charlie Kirk and requires further investigation. This episode cites Austin Smith's criminal sentencing and an unnamed source's claim that Bowyer offered jobs in exchange for favors.
 
@@ -354,11 +354,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, N-646, N-1461, N-37*
+*Related: A-1592.1, N-646, N-10461, N-37*
 
 ---
 
-**N-1459** Missing Money from Turning Point Action
+**N-10459** Missing Money from Turning Point Action
 
 Investigation target: host's claim that "a lot of money was missing from Turning Point Action," described as unconfirmed but with a "strong lead."
 
@@ -367,11 +367,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1458*
+*Related: N-10458*
 
 ---
 
-**N-1460** Charlie Kirk Premonition Dreams
+**N-10460** Charlie Kirk Premonition Dreams
 
 Investigation target: persistent claim across the series that Charlie Kirk had extensive premonition dreams and text-message disclosures of dying young, and that an "oracle" figure confirmed these visions.
 
@@ -384,7 +384,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1461** Austin Smith / Turning Point Action Fraud Connection
+**N-10461** Austin Smith / Turning Point Action Fraud Connection
 
 Investigation target: link between Austin Smith's signature fraud and his role at Turning Point Action, with host's broader implication that this reflects personnel and integrity issues inside Turning Point.
 
@@ -393,11 +393,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-646, N-1458*
+*Related: A-1592.1, C-2021, C-2022, N-646, N-10458*
 
 ---
 
-**N-1462** Ben Shapiro Daily Wire Founding Narrative
+**N-10462** Ben Shapiro Daily Wire Founding Narrative
 
 Investigation target: host's claim that the Daily Wire's launch in 2016 was preceded by a manufactured scandal involving Ben Shapiro, Jamie Weinstein, and Michelle Fields to undermine Breitbart News.
 
@@ -406,7 +406,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, N-642, N-643, N-644, N-645, N-1457*
+*Related: A-1590.1, N-642, N-643, N-644, N-645, N-10457*
 
 ---
 
@@ -430,7 +430,7 @@ Claim: A Daily Wire producer contacted Maggie Wagner approximately two days afte
 Anchored Artifacts: A-1587.1
 Mentions: N-640, N-50, N-3, N-133
 
-Related Nodes: N-1456
+Related Nodes: N-10456
 
 Investigative Direction: Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.
 
@@ -445,7 +445,7 @@ Claim: The audition script and accompanying AI video sample sent to Maggie Wagne
 Anchored Artifacts: A-1587.1, A-1589.1
 Mentions: N-640, N-3
 
-Related Nodes: N-1456
+Related Nodes: N-10456
 
 Investigative Direction: Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.
 
@@ -460,7 +460,7 @@ Claim: Maggie Wagner declined the Daily Wire audition role, texting the producer
 Anchored Artifacts: A-1588.1
 Mentions: N-640
 
-Related Nodes: N-1456
+Related Nodes: N-10456
 
 Investigative Direction: Verify the text message thread against phone records and identify the producer's account.
 
@@ -475,7 +475,7 @@ Claim: Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:
 Anchored Artifacts: A-1590.1
 Mentions: N-642, N-644, N-645, N-133
 
-Related Nodes: N-1457, N-1462
+Related Nodes: N-10457, N-10462
 
 Investigative Direction: Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.
 
@@ -490,7 +490,7 @@ Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitb
 Anchored Artifacts: A-1591.1
 Mentions: N-641, N-642, N-278, N-133
 
-Related Nodes: N-1457
+Related Nodes: N-10457
 
 Investigative Direction: Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.
 
@@ -505,7 +505,7 @@ Claim: Austin Smith, age 30, former Arizona state representative and Turning Poi
 Anchored Artifacts: A-1592.1
 Mentions: N-646
 
-Related Nodes: N-1458, N-1461
+Related Nodes: N-10458, N-10461
 
 Investigative Direction: Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action.
 
@@ -520,7 +520,7 @@ Claim: Austin Smith plead guilty in mid-November to charges of attempted fraudul
 Anchored Artifacts: A-1592.1
 Mentions: N-646
 
-Related Nodes: N-1461
+Related Nodes: N-10461
 
 Investigative Direction: Obtain the plea agreement and charging documents from the Arizona court.
 
@@ -535,7 +535,7 @@ Claim: Charlie Kirk sent Candace text messages describing an older Jewish man fr
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-648
 
-Related Nodes: N-1460
+Related Nodes: N-10460
 
 Investigative Direction: Obtain the original text message thread for verification; investigate the identity of the "oracle" figure and his connection to the gifted school.
 
@@ -550,7 +550,7 @@ Claim: The Daily Wire producer who contacted Maggie Wagner was described by Magg
 Anchored Artifacts: A-1587.1
 Mentions: N-640
 
-Related Nodes: N-1456
+Related Nodes: N-10456
 
 Investigative Direction: Verify the timeline of the show's conception against internal Daily Wire communications if obtainable.
 
@@ -565,7 +565,7 @@ Claim: Per Shapiro's own resignation statement, he was hired by Andrew Breitbart
 Anchored Artifacts: A-1590.1
 Mentions: N-642, N-133
 
-Related Nodes: N-1457, N-1462
+Related Nodes: N-10457, N-10462
 
 Investigative Direction: Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.
 
@@ -633,7 +633,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (starting N-640)
-- [x] Non-person investigation targets use the 1000 series (N-1456+)
+- [x] Non-person investigation targets use the 1000 series (N-10456+)
 - [x] No speculative claims were inscribed as evidence-backed claims
 - [x] Names are preserved exactly or uncertainty is noted
 - [x] Formatting is consistent with protocol

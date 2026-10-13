@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1726, N-1727, N-1728, N-1729, N-1730, N-1731
+  - New Nodes Introduced: N-10726, N-10727, N-10728, N-10729, N-10730, N-10731
   - Hole-minted Nodes (wave3): N-684
-  - Reused Nodes Appearing: N-2391
+  - Reused Nodes Appearing: N-11391
   - (see registers)
 
 ## 2. Executive Summary
@@ -73,7 +73,7 @@ Video Timestamp: 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2834, C-2835, C-2836, N-2391*
+*Related: C-2834, C-2835, C-2836, N-11391*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:32:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2843, N-1726, N-1731*
+*Related: C-2843, N-10726, N-10731*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:37:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2844, C-2845, N-1727, N-1728*
+*Related: C-2844, C-2845, N-10727, N-10728*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2845, C-2846, C-2847, C-2851, N-1727*
+*Related: C-2845, C-2846, C-2847, C-2851, N-10727*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:40:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2848, N-1728*
+*Related: C-2848, N-10728*
 
 ---
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:22:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2849, N-3, N-1726*
+*Related: C-2849, N-3, N-10726*
 
 ---
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2850, N-1731*
+*Related: C-2850, N-10731*
 
 ---
 
@@ -211,7 +211,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:40
 Confidence Level: High
 
-*Related: C-2853, N-1728*
+*Related: C-2853, N-10728*
 
 **A-2040.2** Character Life top comment: "Every time someone tries to sue Candace, all they end up doing is giving the public a magnifying glass to look into their past."
 
@@ -227,7 +227,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:43
 Confidence Level: High
 
-*Related: C-2855, N-1726*
+*Related: C-2855, N-10726*
 
 **A-2040.4** Mike Michaela donation in honor of Theo Von (Russian Blue Cat)
 
@@ -251,7 +251,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:54:14
 Confidence Level: High
 
-*Related: N-1726*
+*Related: N-10726*
 
 **A-2040.7** Arcole $100 donation
 
@@ -267,7 +267,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:47
 Confidence Level: High
 
-*Related: N-1727*
+*Related: N-10727*
 
 **A-2040.9** Natty Nicole donation: "Ben and Larry are discussing human beings"
 
@@ -275,7 +275,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:58:25
 Confidence Level: High
 
-*Related: N-1726*
+*Related: N-10726*
 
 **A-2040.10** Kiwi comment: "the look on Ben's face when God shows him the literal meaning of Isaiah 54:15"
 
@@ -338,7 +338,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-2851, N-1726, N-1731*
+*Related: C-2851, N-10726, N-10731*
 
 ---
 
@@ -353,7 +353,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 Optional Flags: Document partially read aloud; full text not shown
 
-*Related: C-2852, N-1726*
+*Related: C-2852, N-10726*
 
 ---
 
@@ -368,7 +368,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-2853, N-1726*
+*Related: C-2853, N-10726*
 
 ---
 
@@ -382,7 +382,7 @@ Video Timestamp: 00:44:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2846, N-1728*
+*Related: C-2846, N-10728*
 
 ---
 
@@ -395,7 +395,7 @@ First named by the host at 00:37:02 in episode 98.
 *Related: C-2843, C-2844, C-2845, C-2846*
 
 
-**N-1726** Brian Harpole Lawsuit Coordination Question
+**N-10726** Brian Harpole Lawsuit Coordination Question
 
 Investigative target: did the Brian Harpole lawsuit, filed via Slauson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?
 
@@ -408,7 +408,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1727** Dhillon Law Group / Show Faith by Works Connection
+**N-10727** Dhillon Law Group / Show Faith by Works Connection
 
 Investigative target: is the Dhillon Law Group's representation of Show Faith by Works (FARA) materially relevant to the firm's broader litigation posture in the Harpole case and the host's targeting?
 
@@ -421,7 +421,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1728** Turning Point Geofencing / Show Faith by Works Link
+**N-10728** Turning Point Geofencing / Show Faith by Works Link
 
 Investigative target: did Show Faith by Works (or another FARA-registered entity) partner with Andrew Kolvet / Turning Point USA to geofence the State Farm Stadium memorial, and does the targeting list overlap with Turning Point-affiliated churches (Calvary Chapel / Dream City Church)?
 
@@ -434,7 +434,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1729** Zalman Shapiro Uranium Transfer Verification
+**N-10729** Zalman Shapiro Uranium Transfer Verification
 
 Investigative target: did Zalman Shapiro (alleged uncle) transfer uranium to Israel, and what was the disposition of any related prosecution?
 
@@ -447,7 +447,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1730** Charlie Kirk Assassination Perpetrator Question
+**N-10730** Charlie Kirk Assassination Perpetrator Question
 
 Persistent host assertion that Tyler Robinson did not act alone on a rooftop; flagged as ongoing series target.
 
@@ -460,7 +460,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1731** Charlotte Airport Photo Coordination Question
+**N-10731** Charlotte Airport Photo Coordination Question
 
 Investigative target: did Laura Loomer coordinate with Matt Slauson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?
 
@@ -595,7 +595,7 @@ Claim: Laura Loomer tweeted the host was "having a bad week almost like she got 
 Anchored Artifacts: A-2034.1
 Mentions: N-3, N-91
 
-Related Nodes: N-1726, N-1731
+Related Nodes: N-10726, N-10731
 
 ---
 
@@ -608,7 +608,7 @@ Claim: A Times of Israel article reported Israel's Foreign Ministry plans to spe
 Anchored Artifacts: A-2035.1
 Mentions: N-684
 
-Related Nodes: N-1727, N-1728
+Related Nodes: N-10727, N-10728
 
 Investigative Direction: Cross-check against the original FARA filing in DOJ FARA database.
 
@@ -623,7 +623,7 @@ Claim: The FARA registration for Show Faith by Works LLC identifies Chad Schnitk
 Anchored Artifacts: A-2035.1, A-2036.1
 Mentions: N-684
 
-Related Nodes: N-1727
+Related Nodes: N-10727
 
 ---
 
@@ -636,7 +636,7 @@ Claim: Show Faith by Works LLC began its FARA contracting registration approxima
 Anchored Artifacts: A-2036.1
 Mentions: N-1, N-684
 
-Related Nodes: N-1727
+Related Nodes: N-10727
 
 ---
 
@@ -649,7 +649,7 @@ Claim: Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], f
 Anchored Artifacts: A-2036.1, A-2044.1
 Mentions: N-1, N-684
 
-Related Nodes: N-1727, N-1728
+Related Nodes: N-10727, N-10728
 
 Investigative Direction: Confirm contract date and counterparty from FARA filing.
 
@@ -664,7 +664,7 @@ Claim: Andrew Kolvet announced on Jesse's program that partners geotagged over 2
 Anchored Artifacts: A-2037.1
 Mentions: N-42
 
-Related Nodes: N-1728
+Related Nodes: N-10728
 
 ---
 
@@ -677,7 +677,7 @@ Claim: On his Friday show, Ben Shapiro stated that audience members of the host 
 Anchored Artifacts: A-2038.1
 Mentions: N-3, N-133
 
-Related Nodes: N-1726
+Related Nodes: N-10726
 
 ---
 
@@ -690,7 +690,7 @@ Claim: On his show, Baron Coleman read a viewer comment stating that a friend of
 Anchored Artifacts: A-2039.1
 Mentions: N-552, N-91
 
-Related Nodes: N-1731
+Related Nodes: N-10731
 
 ---
 
@@ -703,7 +703,7 @@ Claim: The host reported observing on Matt Slauson's X wall that before acknowle
 Anchored Artifacts: A-2041.1
 Mentions: N-91
 
-Related Nodes: N-1726, N-1731
+Related Nodes: N-10726, N-10731
 
 Investigative Direction: Pull archived Slauson X timeline via Wayback Machine to verify.
 
@@ -718,7 +718,7 @@ Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partne
 Anchored Artifacts: A-2042.1
 Mentions: N-424, N-133
 
-Related Nodes: N-1726
+Related Nodes: N-10726
 
 Investigative Direction: Obtain PACER docket copy of Harpole filing and marriage records.
 
@@ -733,7 +733,7 @@ Claim: Jacob William Roth retweeted the Brian Harpole lawsuit document.
 Anchored Artifacts: A-2043.1
 Mentions: N-424
 
-Related Nodes: N-1726
+Related Nodes: N-10726
 
 Investigative Direction: Pull archived Roth X timeline.
 
@@ -748,7 +748,7 @@ Claim: The FARA filing names churches targeted for geofencing that overlap with 
 Anchored Artifacts: A-2044.1, A-2040.1
 Mentions: N-2
 
-Related Nodes: N-1728
+Related Nodes: N-10728
 
 ---
 
@@ -761,7 +761,7 @@ Claim: A live chat donation stated that pursuing the lawsuit to discovery stage 
 Anchored Artifacts: A-2040.3
 Mentions: N-1
 
-Related Nodes: N-1726
+Related Nodes: N-10726
 
 ---
 
@@ -773,7 +773,7 @@ Claim: The Show Faith by Works FARA paperwork lists Dhillon Law Group as the leg
 
 Anchored Artifacts: A-2036.1
 
-Related Nodes: N-1727
+Related Nodes: N-10727
 
 ---
 

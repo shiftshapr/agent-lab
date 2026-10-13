@@ -34,7 +34,7 @@
             "N-443",
             "N-1",
             "N-2",
-            "N-1447"
+            "N-10447"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1447"
+            "N-10447"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
             "N-614",
             "N-2",
             "N-1",
-            "N-1448"
+            "N-10448"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,10 +206,10 @@
             "C-1997"
           ],
           "related_nodes": [
-            "N-2390",
+            "N-11390",
             "N-42",
             "N-2",
-            "N-1451"
+            "N-10451"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -237,7 +237,7 @@
           "related_nodes": [
             "N-597",
             "N-424",
-            "N-1446"
+            "N-10446"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,8 +263,8 @@
             "C-1999"
           ],
           "related_nodes": [
-            "N-2391",
-            "N-1450"
+            "N-11391",
+            "N-10450"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,7 +290,7 @@
             "C-2000"
           ],
           "related_nodes": [
-            "N-1447",
+            "N-10447",
             "N-1"
           ],
           "tags": [],
@@ -309,8 +309,8 @@
             "C-2001"
           ],
           "related_nodes": [
-            "N-2390",
-            "N-1446"
+            "N-11390",
+            "N-10446"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,7 +349,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1447"
+        "N-10447"
       ]
     },
     {
@@ -371,7 +371,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1449"
+        "N-10449"
       ]
     },
     {
@@ -436,7 +436,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1448"
+        "N-10448"
       ]
     },
     {
@@ -477,7 +477,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1446"
+        "N-10446"
       ]
     },
     {
@@ -497,7 +497,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1446"
+        "N-10446"
       ]
     },
     {
@@ -521,8 +521,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1446",
-      "ref": "N-1446",
+      "@id": "N-10446",
+      "ref": "N-10446",
       "name": "Fort Huachuca Sighting Verification",
       "type": "investigation_target",
       "description": "Persistent target verifying Mitch Snow's claims about Brian Harpole at a top-brass meeting on the morning of September 9 and the Candlewood Inn sightings on September 8. Partial corroboration via the son's interview (A-1574) and Army sniper comment (A-1576.2).",
@@ -546,8 +546,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1447",
-      "ref": "N-1447",
+      "@id": "N-10447",
+      "ref": "N-10447",
       "name": "AmFest Tent Recreation Approval Chain",
       "type": "investigation_target",
       "description": "Persistent target tracking who approved the tent recreation at AmFest and whether attendees took informal organizing activity (selfies) with the replica.",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1448",
-      "ref": "N-1448",
+      "@id": "N-10448",
+      "ref": "N-10448",
       "name": "Hunter Cosgrove / Kozak Identity Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target verifying the correct spelling and identity of the UVU student introduced by Barry Weiss.",
@@ -594,8 +594,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1449",
-      "ref": "N-1449",
+      "@id": "N-10449",
+      "ref": "N-10449",
       "name": "Andrew Kolbet Coordination with Attackers of Mitch Snow",
       "type": "investigation_target",
       "description": "Persistent target verifying whether Andrew Kolbet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.",
@@ -616,8 +616,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1450",
-      "ref": "N-1450",
+      "@id": "N-10450",
+      "ref": "N-10450",
       "name": "Daily Wire Social Media Reactivation",
       "type": "investigation_target",
       "description": "Persistent target verifying why the Daily Wire reactivated Candace's YouTube and Instagram and re-released her 2021 trailer on her own channels.",
@@ -633,13 +633,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2391"
+        "N-11391"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1451",
-      "ref": "N-1451",
+      "@id": "N-10451",
+      "ref": "N-10451",
       "name": "Erica Kirk September 8 Alibi",
       "type": "investigation_target",
       "description": "Persistent target verifying whether Erica Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolbet's written alibi instructions and the phone-call/dinner exchange referenced by host.",
@@ -660,8 +660,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-2390",
-      "ref": "N-2390",
+      "@id": "N-11390",
+      "ref": "N-11390",
       "name": "Paramount Tactical Valhalla",
       "type": "organization",
       "description": "Source of the stream clip in which Andrew Kolbet's instructions were read aloud.",
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-2391",
-      "ref": "N-2391",
+      "@id": "N-11391",
+      "ref": "N-11391",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
@@ -699,7 +699,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1450"
+        "N-10450"
       ],
       "organization_kind": "media_outlet"
     },
@@ -731,7 +731,7 @@
         "A-1568.1"
       ],
       "related_nodes": [
-        "N-1447"
+        "N-10447"
       ],
       "tags": [],
       "claim_timestamp": "00:04:47",
@@ -769,7 +769,7 @@
         "A-1569.1"
       ],
       "related_nodes": [
-        "N-1447"
+        "N-10447"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",
@@ -822,7 +822,7 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-1448"
+        "N-10448"
       ],
       "tags": [],
       "claim_timestamp": "00:17:33",
@@ -881,8 +881,8 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-1451",
-        "N-2390"
+        "N-10451",
+        "N-11390"
       ],
       "tags": [],
       "claim_timestamp": "00:48:18",
@@ -902,7 +902,7 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-1446"
+        "N-10446"
       ],
       "tags": [],
       "claim_timestamp": "00:45:37",
@@ -922,8 +922,8 @@
         "A-1575.1"
       ],
       "related_nodes": [
-        "N-1450",
-        "N-2391"
+        "N-10450",
+        "N-11391"
       ],
       "tags": [],
       "claim_timestamp": "00:30:51",
@@ -942,7 +942,7 @@
         "A-1576.1"
       ],
       "related_nodes": [
-        "N-1447"
+        "N-10447"
       ],
       "tags": [],
       "claim_timestamp": "01:07:04",
@@ -961,14 +961,14 @@
         "A-1576.2"
       ],
       "related_nodes": [
-        "N-1446",
-        "N-2390"
+        "N-10446",
+        "N-11390"
       ],
       "tags": [],
       "claim_timestamp": "01:08:04",
       "investigative_direction": "Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.",
       "mentions_person_refs": [
-        "N-2390"
+        "N-11390"
       ]
     },
     {
@@ -981,8 +981,8 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-1449",
-        "N-2390"
+        "N-10449",
+        "N-11390"
       ],
       "tags": [],
       "claim_timestamp": "00:49:10",

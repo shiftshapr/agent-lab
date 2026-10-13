@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1662"
+            "N-10662"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,7 +86,7 @@
             "C-2672"
           ],
           "related_nodes": [
-            "N-1667"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
             "C-2674"
           ],
           "related_nodes": [
-            "N-1665"
+            "N-10665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,8 +163,8 @@
             "C-2676"
           ],
           "related_nodes": [
-            "N-1663",
-            "N-1664"
+            "N-10663",
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-2678"
           ],
           "related_nodes": [
-            "N-1666"
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,8 +217,8 @@
             "C-2679"
           ],
           "related_nodes": [
-            "N-1662",
-            "N-1666"
+            "N-10662",
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
             "C-2677"
           ],
           "related_nodes": [
-            "N-1663"
+            "N-10663"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,8 +259,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1662",
-      "ref": "N-1662",
+      "@id": "N-10662",
+      "ref": "N-10662",
       "name": "Trump Truth Social Post Pattern Question",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.",
@@ -281,8 +281,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1663",
-      "ref": "N-1663",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "Butler PA Investigation Closure Verification",
       "type": "investigation_target",
       "description": "Question about whether and why Trump moved to close the Butler investigation; relevant to A-1944.1 timeline and A-1947.1.",
@@ -302,8 +302,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1664",
-      "ref": "N-1664",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Adelson–West Bank Annexation Meeting Verification",
       "type": "investigation_target",
       "description": "Question about whether a meeting occurred in which Miriam Adelson conditioned $100M on West Bank annexation, and what Trump stated therein.",
@@ -322,8 +322,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1665",
-      "ref": "N-1665",
+      "@id": "N-10665",
+      "ref": "N-10665",
       "name": "Laura Loomer Influence on Trump Policy Question",
       "type": "investigation_target",
       "description": "Question about the operative influence Laura Loomer exerts over Trump's Truth Social posts and policy posture, per her own claim in A-1943.1.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1666",
-      "ref": "N-1666",
+      "@id": "N-10666",
+      "ref": "N-10666",
       "name": "MAGA Base Sentiment Shift Question",
       "type": "investigation_target",
       "description": "Question about measurable shift in core-MAGA supporter sentiment toward Trump, evidenced by responses in A-1945.1 and A-1946.1.",
@@ -361,8 +361,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1667",
-      "ref": "N-1667",
+      "@id": "N-10667",
+      "ref": "N-10667",
       "name": "Situation-Room Table Seating Verification",
       "type": "investigation_target",
       "description": "Question about whether Trump was seated at the side of the situation-room table during the Netanyahu meeting, per A-1941.1.",
@@ -616,7 +616,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-1662"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:12:28",
@@ -673,7 +673,7 @@
         "A-1941.1"
       ],
       "related_nodes": [
-        "N-1667"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38–00:26:31",
@@ -714,7 +714,7 @@
         "A-1943.1"
       ],
       "related_nodes": [
-        "N-1665"
+        "N-10665"
       ],
       "tags": [],
       "claim_timestamp": "00:33:58–00:35:23",
@@ -734,7 +734,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-1664"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:29:16–00:31:16",
@@ -755,8 +755,8 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-1663",
-        "N-1664"
+        "N-10663",
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06–00:31:16",
@@ -777,7 +777,7 @@
         "A-1947.1"
       ],
       "related_nodes": [
-        "N-1663"
+        "N-10663"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16–00:32:11",
@@ -797,7 +797,7 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-1666"
+        "N-10666"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
@@ -814,7 +814,7 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-1662"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:21:03",
@@ -834,7 +834,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-1662"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:11:20–00:12:28",

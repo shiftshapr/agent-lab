@@ -34,7 +34,7 @@
 ### Episode 45 Ledger Summary
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
-  - New Nodes Introduced: N-1403, N-1404
+  - New Nodes Introduced: N-10403, N-10404
   - Reused Nodes Appearing: N-2, N-44, N-98
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
@@ -135,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:18–00:47:10
 Confidence Level: High
 
-*Related: C-1905, C-1910, N-1403*
+*Related: C-1905, C-1910, N-10403*
 
 ---
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:38
 Confidence Level: High
 
-*Related: C-1906, N-1403, N-98*
+*Related: C-1906, N-10403, N-98*
 
 ---
 
@@ -193,7 +193,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:59:22
 Confidence Level: High
 
-*Related: C-1909, N-1404*
+*Related: C-1909, N-10404*
 
 ---
 
@@ -240,7 +240,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1530.1, C-1906, N-1403*
+*Related: A-1530.1, C-1906, N-10403*
 
 ---
 
@@ -257,7 +257,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1403** USAF C37A 99-044 Flight Path Verification
+**N-10403** USAF C37A 99-044 Flight Path Verification
 
 Cross-episode investigation target: the September 7-9, 2025 movements of USAF C37A Gulfstream V (tail 99-044) including transponder-dark segment and RCH-to-SAM call sign transition at Fort Huachuca, and the question of which senior official was picked up.
 
@@ -270,7 +270,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1404** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
+**N-10404** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
 
 Investigation target: identification and preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, showing the young woman and special operations individual departing in a green truck.
 
@@ -406,7 +406,7 @@ Claim Timestamp: 00:43:18
 Claim: USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
 
 Anchored Artifacts: A-1529.1
-Related Nodes: N-1403
+Related Nodes: N-10403
 
 Investigative Direction: Cross-reference with ADS-B Exchange historical archives, FAA SWIM data, official DoD manifests if obtainable, and Andrews AFB logs.
 
@@ -420,7 +420,7 @@ Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Missi
 
 Anchored Artifacts: A-1530.1
 Mentions: N-98
-Related Nodes: N-1403
+Related Nodes: N-10403
 
 Investigative Direction: Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.
 
@@ -459,7 +459,7 @@ Claim Timestamp: 00:59:22
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 
 Anchored Artifacts: A-1531.6
-Related Nodes: N-1404
+Related Nodes: N-10404
 
 Investigative Direction: Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records.
 
@@ -473,7 +473,7 @@ Claim: According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (ta
 
 Anchored Artifacts: A-1529.1
 Mentions: N-120
-Related Nodes: N-1403
+Related Nodes: N-10403
 
 Investigative Direction: Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.
 
@@ -543,7 +543,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
 - [x] People nodes use global people ledger (N-2, N-98, N-518)
-- [x] Non-person investigation targets use 1000 series (N-1403, N-1404)
+- [x] Non-person investigation targets use 1000 series (N-10403, N-10404)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Nef, Wuka/Huachuca, Erika/Erica)
 - [x] Formatting consistent across registers

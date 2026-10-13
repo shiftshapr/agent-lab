@@ -34,10 +34,10 @@
           "related_nodes": [
             "N-1",
             "N-102",
-            "N-1344",
-            "N-1348",
-            "N-1349",
-            "N-1350"
+            "N-10344",
+            "N-10348",
+            "N-10349",
+            "N-10350"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -92,7 +92,7 @@
           "related_nodes": [
             "N-1",
             "N-102",
-            "N-1344"
+            "N-10344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -121,10 +121,10 @@
           ],
           "related_nodes": [
             "N-102",
-            "N-1345",
-            "N-1348",
-            "N-1349",
-            "N-1344"
+            "N-10345",
+            "N-10348",
+            "N-10349",
+            "N-10344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
           ],
           "related_nodes": [
             "N-445",
-            "N-1347"
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
           "related_nodes": [
             "N-3",
             "N-442",
-            "N-1352"
+            "N-10352"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -288,7 +288,7 @@
             "N-3",
             "N-443",
             "N-444",
-            "N-1353"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,7 +324,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1344"
+        "N-10344"
       ]
     },
     {
@@ -349,7 +349,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-1344"
+        "N-10344"
       ]
     },
     {
@@ -446,7 +446,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3",
-        "N-1352"
+        "N-10352"
       ]
     },
     {
@@ -488,7 +488,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-443",
-        "N-1353"
+        "N-10353"
       ]
     },
     {
@@ -510,7 +510,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1347"
+        "N-10347"
       ]
     },
     {
@@ -538,8 +538,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1344",
-      "ref": "N-1344",
+      "@id": "N-10344",
+      "ref": "N-10344",
       "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
       "type": "investigation_target",
       "description": "Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel \"see you in Valhalla\" press conference statement.",
@@ -561,13 +561,13 @@
       "related_nodes": [
         "N-1",
         "N-102",
-        "N-1349"
+        "N-10349"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1345",
-      "ref": "N-1345",
+      "@id": "N-10345",
+      "ref": "N-10345",
       "name": "BTT Minot AFB Stopover Question",
       "type": "investigation_target",
       "description": "Investigation target: why the Egyptian military BTT aircraft stopped at Minot, North Dakota for approximately one hour on September 4, 2025 rather than flying direct to Provo.",
@@ -583,14 +583,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1348",
-        "N-1349"
+        "N-10348",
+        "N-10349"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1346",
-      "ref": "N-1346",
+      "@id": "N-10346",
+      "ref": "N-10346",
       "name": "Maroon Shirt Coordination Theory",
       "type": "investigation_target",
       "description": "Investigation target: host's observation that multiple individuals in assassination-day footage appear to be wearing maroon shirts; host's source reportedly confirmed UVU school color is not maroon.",
@@ -607,8 +607,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1347",
-      "ref": "N-1347",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
       "type": "investigation_target",
       "description": "Investigation target: temporal overlap between BTT aircraft's July 20 longest trip (to Nebraska) and Nebraska Secretary of State's July 22 announcement of Egypt trade mission.",
@@ -629,8 +629,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1348",
-      "ref": "N-1348",
+      "@id": "N-10348",
+      "ref": "N-10348",
       "name": "Minot Air Force Base",
       "type": "investigation_target",
       "description": "U.S. Air Force base in North Dakota; home to 5,000 military personnel and the 891st MSFS; site of BTT's September 4 stopover.",
@@ -648,14 +648,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1345",
-        "N-1349"
+        "N-10345",
+        "N-10349"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1349",
-      "ref": "N-1349",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "891st Missile Security Forces Squadron",
       "type": "investigation_target",
       "description": "Air Force unit stationed at Minot AFB; conducted Operation Valhalla Strike at Camp Ripley Aug 24–29, 2025; described as combined military/civilian security force.",
@@ -673,14 +673,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1344",
-        "N-1348"
+        "N-10344",
+        "N-10348"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1350",
-      "ref": "N-1350",
+      "@id": "N-10350",
+      "ref": "N-10350",
       "name": "Camp Ripley Training Center",
       "type": "investigation_target",
       "description": "Minnesota training facility where Operation Valhalla Strike was conducted Aug 24–29, 2025; provides full-distance live-fire ranges.",
@@ -696,13 +696,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1349"
+        "N-10349"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1351",
-      "ref": "N-1351",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "The Free Press",
       "type": "investigation_target",
       "description": "Online publication co-founded by Bari Weiss; outlet of record for the Rinzberg inquiry email.",
@@ -724,8 +724,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1352",
-      "ref": "N-1352",
+      "@id": "N-10352",
+      "ref": "N-10352",
       "name": "Free Press Email Inquiry Target",
       "type": "investigation_target",
       "description": "Topic: episode-specific Rinzberg email regarding \"economics of high engagement political content\" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Breit.",
@@ -746,8 +746,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1353",
-      "ref": "N-1353",
+      "@id": "N-10353",
+      "ref": "N-10353",
       "name": "CBS News",
       "type": "investigation_target",
       "description": "Network where Bari Weiss was installed per Tim Dylan clip.",
@@ -808,10 +808,10 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-1344",
-        "N-1348",
-        "N-1349",
-        "N-1350"
+        "N-10344",
+        "N-10348",
+        "N-10349",
+        "N-10350"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
@@ -830,9 +830,9 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-1349",
-        "N-1350",
-        "N-1344"
+        "N-10349",
+        "N-10350",
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
@@ -848,9 +848,9 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-1349",
-        "N-1348",
-        "N-1344"
+        "N-10349",
+        "N-10348",
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
@@ -884,7 +884,7 @@
         "A-1453.1"
       ],
       "related_nodes": [
-        "N-1344"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:09:53",
@@ -904,8 +904,8 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-1345",
-        "N-1348"
+        "N-10345",
+        "N-10348"
       ],
       "tags": [],
       "claim_timestamp": "00:05:34",
@@ -924,7 +924,7 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-1348"
+        "N-10348"
       ],
       "tags": [],
       "claim_timestamp": "00:05:34",
@@ -940,10 +940,10 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-1344",
-        "N-1345",
-        "N-1348",
-        "N-1349"
+        "N-10344",
+        "N-10345",
+        "N-10348",
+        "N-10349"
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
@@ -962,7 +962,7 @@
         "A-1455.1"
       ],
       "related_nodes": [
-        "N-1347"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:12:13",
@@ -1036,8 +1036,8 @@
         "A-1459.1"
       ],
       "related_nodes": [
-        "N-1351",
-        "N-1352"
+        "N-10351",
+        "N-10352"
       ],
       "tags": [],
       "claim_timestamp": "00:29:33",

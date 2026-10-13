@@ -113,7 +113,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1501"
+            "N-10501"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,13 +346,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1501"
+        "N-10501"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1501",
-      "ref": "N-1501",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Plane Records Timing Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac).",
@@ -374,8 +374,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1502",
-      "ref": "N-1502",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Aspen Donor Retreat \"What Happens When You Die\" Question",
       "type": "investigation_target",
       "description": "Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange.",
@@ -605,7 +605,7 @@
         "A-1657.1"
       ],
       "related_nodes": [
-        "N-1501"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "01:08:11",

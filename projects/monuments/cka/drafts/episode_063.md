@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-792, N-793, N-1514, N-1515, N-1516
+  - New Nodes Introduced:  N-792, N-793, N-10514, N-10515, N-10516
   - Reused Nodes Appearing: N-2
   - (see registers)
 
@@ -35,7 +35,7 @@ Episode 63 Ledger Summary:
 - Artifact Families Introduced: A-1676, A-1677, A-1678, A-1679, A-1680, A-1681, A-1682, A-1683, A-1684, A-1685
 - Claim Range: C-2194–C-2205
 - New Person Nodes Introduced: N-724, N-792, N-793
-- New Investigation Target Nodes Introduced: N-1514, N-1515, N-1516
+- New Investigation Target Nodes Introduced: N-10514, N-10515, N-10516
 - Existing Nodes Reused: N-2
 
 ---
@@ -74,7 +74,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:47
 
-*Related: C-2196, N-2, N-1514*
+*Related: C-2196, N-2, N-10514*
 
 **A-1676.3** Erika Kirk discussing "Vision 2030" – stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is "excited."
 
@@ -82,7 +82,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:47
 
-*Related: C-2197, C-2198, N-2, N-792, N-1515*
+*Related: C-2197, C-2198, N-2, N-792, N-10515*
 
 ---
 
@@ -131,7 +131,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2203, N-793, N-1516*
+*Related: C-2203, N-793, N-10516*
 
 ---
 
@@ -144,7 +144,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2203, N-793, N-1516*
+*Related: C-2203, N-793, N-10516*
 
 ---
 
@@ -264,7 +264,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:45
 
-*Related: N-2, N-1514*
+*Related: N-2, N-10514*
 
 **A-1685.11** Comment from "Jess Happy" – "And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace."
 
@@ -305,7 +305,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1676.3, C-2197, N-1515*
+*Related: A-1676.3, C-2197, N-10515*
 
 **N-793** Lorie Cardardoza Moore
 
@@ -315,9 +315,9 @@ Evidence Count: 3
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1680.1, A-1681.1, A-1682.1, C-2203, C-2204, N-1516*
+*Related: A-1680.1, A-1681.1, A-1682.1, C-2203, C-2204, N-10516*
 
-**N-1514** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
+**N-10514** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
 
 Persistent investigative target: tonal and temporal gap between Erika Kirk's upbeat call presentation and the recency of Charlie Kirk's public assassination.
 
@@ -327,7 +327,7 @@ Episode Count: 1
 Investigative Pressure: High
 *Related: A-1676.1, A-1676.2, A-1685.10, C-2194, C-2196, N-2*
 
-**N-1515** TPUSA Vision 2030 Documentation Verification
+**N-10515** TPUSA Vision 2030 Documentation Verification
 
 Persistent investigative target: verification of Erika Kirk's claim that Charlie was working on a 2030 strategic plan with Justin and that she possesses his journals documenting it.
 
@@ -337,7 +337,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1676.3, C-2197, C-2198, N-2, N-792*
 
-**N-1516** Christian Zionist Threat Message Authorship Verification
+**N-10516** Christian Zionist Threat Message Authorship Verification
 
 Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Lorie Cardardoza Moore via audio voice match.
 
@@ -357,7 +357,7 @@ Claim Timestamp: 00:11:24
 Claim: The episode presents that Erika Kirk's opening remarks on the corporate-wide Zoom call included laughter, thanks, and memorial metrics including 275,000 attendees and broadcast reach of "over 100 million."
 Anchored Artifacts: A-1676.1
 Mentions: N-2
-Related Nodes: N-1514
+Related Nodes: N-10514
 Investigative Direction: Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.
 
 **C-2195** Erika Kirk stated staff worked 20-hour days during the week of the memorial
@@ -374,7 +374,7 @@ Claim Timestamp: 00:15:47
 Claim: The episode presents Erika Kirk telling employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.
 Anchored Artifacts: A-1676.2
 Mentions: N-2
-Related Nodes: N-1514
+Related Nodes: N-10514
 Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.
 
 **C-2197** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
@@ -383,7 +383,7 @@ Claim Timestamp: 00:20:47
 Claim: The episode presents Erika Kirk stating Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
 Anchored Artifacts: A-1676.3
 Mentions: N-2, N-792
-Related Nodes: N-1515
+Related Nodes: N-10515
 Investigative Direction: Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.
 
 **C-2198** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
@@ -392,7 +392,7 @@ Claim Timestamp: 00:20:47
 Claim: The episode presents Erika Kirk stating: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
 Anchored Artifacts: A-1676.3
 Mentions: N-2
-Related Nodes: N-1515
+Related Nodes: N-10515
 Investigative Direction: Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel.
 
 **C-2199** Erika Kirk used the phrase "Turning Point USA 2.0"
@@ -433,7 +433,7 @@ Claim Timestamp: 00:39:08
 Claim: The episode presents that audio of Lorie Cardardoza Moore ranting in her car matches the content of the previously circulated Christian Zionist threat message, identifying her as its author.
 Anchored Artifacts: A-1680.1, A-1681.1
 Mentions: N-793
-Related Nodes: N-1516
+Related Nodes: N-10516
 Investigative Direction: Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
 **C-2204** Voice matching identifies Lorie Cardardoza Moore on a 1-900 romance hotline recording

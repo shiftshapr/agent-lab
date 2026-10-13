@@ -34,7 +34,7 @@
             "N-2",
             "N-4",
             "N-42",
-            "N-1682"
+            "N-10682"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -65,8 +65,8 @@
             "N-2",
             "N-4",
             "N-42",
-            "N-1682",
-            "N-1687"
+            "N-10682",
+            "N-10687"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
           "related_nodes": [
             "N-2",
             "N-42",
-            "N-1682"
+            "N-10682"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,8 +144,8 @@
           "related_nodes": [
             "N-2",
             "N-42",
-            "N-1682",
-            "N-1687"
+            "N-10682",
+            "N-10687"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -174,7 +174,7 @@
           "related_nodes": [
             "N-2",
             "N-42",
-            "N-1682"
+            "N-10682"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1682"
+            "N-10682"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1686"
+            "N-10686"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
           "related_nodes": [
             "N-2",
             "N-42",
-            "N-1687"
+            "N-10687"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1685"
+            "N-10685"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,7 +315,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1683"
+            "N-10683"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
           "related_nodes": [
             "N-536",
             "N-569",
-            "N-1688"
+            "N-10688"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,7 +373,7 @@
           "related_nodes": [
             "N-536",
             "N-569",
-            "N-1688",
+            "N-10688",
             "N-570"
           ],
           "tags": [],
@@ -402,7 +402,7 @@
           "related_nodes": [
             "N-536",
             "N-569",
-            "N-1688",
+            "N-10688",
             "N-570"
           ],
           "tags": [],
@@ -430,7 +430,7 @@
             "C-2738"
           ],
           "related_nodes": [
-            "N-1684"
+            "N-10684"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,8 +456,8 @@
             "C-2739"
           ],
           "related_nodes": [
-            "N-1684",
-            "N-1689"
+            "N-10684",
+            "N-10689"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -484,7 +484,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1684"
+            "N-10684"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -516,7 +516,7 @@
       "related_nodes": [
         "N-2",
         "N-42",
-        "N-1687"
+        "N-10687"
       ]
     },
     {
@@ -567,8 +567,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1682",
-        "N-1687"
+        "N-10682",
+        "N-10687"
       ]
     },
     {
@@ -595,7 +595,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-570",
-        "N-1688"
+        "N-10688"
       ]
     },
     {
@@ -613,7 +613,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1689"
+        "N-10689"
       ]
     },
     {
@@ -637,13 +637,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-569",
-        "N-1688"
+        "N-10688"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1682",
-      "ref": "N-1682",
+      "@id": "N-10682",
+      "ref": "N-10682",
       "name": "UGA No-Show Security Threat Explanation Discrepancy",
       "type": "investigation_target",
       "description": "Persistent cross-artifact inconsistency between the on-stage, Fox News, Charlie Kirk Show, Daily Wire, and Erika Kirk X-post explanations of the UGA no-show.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1683",
-      "ref": "N-1683",
+      "@id": "N-10683",
+      "ref": "N-10683",
       "name": "TPUSA UGA Event Crowd-Size Failure",
       "type": "investigation_target",
       "description": "Discrepancy between event-promotional framing and reported venue occupancy (A-1974.1), with host reporting additional internal failure to move tickets in prior Washington DC event with Karoline Leavitt.",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1684",
-      "ref": "N-1684",
+      "@id": "N-10684",
+      "ref": "N-10684",
       "name": "Marcus Wada Arms Trafficking and Biography Cluster",
       "type": "investigation_target",
       "description": "Aggregation of (i) insider-reported arms-trafficking history in Poland, (ii) TPUSA bio omission, (iii) brother-consulting firm industry-area list.",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1685",
-      "ref": "N-1685",
+      "@id": "N-10685",
+      "ref": "N-10685",
       "name": "Pinnacle High School Parent Boycott",
       "type": "investigation_target",
       "description": "Active parental and teacher mobilization against Erika Kirk's appearance at Pinnacle High School (Phoenix).",
@@ -744,8 +744,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1686",
-      "ref": "N-1686",
+      "@id": "N-10686",
+      "ref": "N-10686",
       "name": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
       "type": "investigation_target",
       "description": "Contradiction between Erika's stated absence of fear in the Jesse Watters interview and her subsequent security-threat justification for cancellation.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1687",
-      "ref": "N-1687",
+      "@id": "N-10687",
+      "ref": "N-10687",
       "name": "High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
       "type": "investigation_target",
       "description": "Co-existing official explanations for two adjacent events on consecutive days, with Kolvet later retroactively folding the high school cancellation into the security framework.",
@@ -796,8 +796,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1688",
-      "ref": "N-1688",
+      "@id": "N-10688",
+      "ref": "N-10688",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
       "type": "investigation_target",
       "description": "Open proposal for a joint on-air appearance; Marx's reply not yet observed as of air; constitutes a pending verification target.",
@@ -823,8 +823,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1689",
-      "ref": "N-1689",
+      "@id": "N-10689",
+      "ref": "N-10689",
       "name": "TPUSA Faith Department / Adjacent Charity Biographical Pattern",
       "type": "investigation_target",
       "description": "Cross-figure recurrence of trafficking, sex-abuse, military, and former-trafficker biographies among TPUSA and partner charity personnel (host's \"connecting themes\" spreadsheet; Wada's case as the latest instance).",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1690",
-      "ref": "N-1690",
+      "@id": "N-10690",
+      "ref": "N-10690",
       "name": "TPUSA Fox News B-roll Splicing",
       "type": "investigation_target",
       "description": "Visual analysis presented by the host showing the Fox News clip during Kolvet's interview used B-roll spliced from prior TPUSA events rather than the actual Akins Ford Arena venue.",
@@ -957,7 +957,7 @@
         "A-1965.1"
       ],
       "related_nodes": [
-        "N-1682"
+        "N-10682"
       ],
       "tags": [],
       "claim_timestamp": "00:02:28",
@@ -977,8 +977,8 @@
         "A-1966.1"
       ],
       "related_nodes": [
-        "N-1682",
-        "N-1687"
+        "N-10682",
+        "N-10687"
       ],
       "tags": [],
       "claim_timestamp": "00:03:32",
@@ -1001,8 +1001,8 @@
         "A-1967.1"
       ],
       "related_nodes": [
-        "N-1682",
-        "N-1690"
+        "N-10682",
+        "N-10690"
       ],
       "tags": [],
       "claim_timestamp": "00:07:17",
@@ -1022,8 +1022,8 @@
         "A-1968.1"
       ],
       "related_nodes": [
-        "N-1682",
-        "N-1687"
+        "N-10682",
+        "N-10687"
       ],
       "tags": [],
       "claim_timestamp": "00:31:13",
@@ -1044,7 +1044,7 @@
         "A-1969.1"
       ],
       "related_nodes": [
-        "N-1682"
+        "N-10682"
       ],
       "tags": [],
       "claim_timestamp": "00:08:41",
@@ -1064,8 +1064,8 @@
         "A-1970.1"
       ],
       "related_nodes": [
-        "N-1682",
-        "N-1686"
+        "N-10682",
+        "N-10686"
       ],
       "tags": [],
       "claim_timestamp": "00:16:03",
@@ -1087,7 +1087,7 @@
         "A-1971.1"
       ],
       "related_nodes": [
-        "N-1686"
+        "N-10686"
       ],
       "tags": [],
       "claim_timestamp": "00:05:40",
@@ -1107,7 +1107,7 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-1687"
+        "N-10687"
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
@@ -1127,7 +1127,7 @@
         "A-1973.1"
       ],
       "related_nodes": [
-        "N-1685"
+        "N-10685"
       ],
       "tags": [],
       "claim_timestamp": "00:21:10",
@@ -1146,7 +1146,7 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-1687"
+        "N-10687"
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
@@ -1166,7 +1166,7 @@
         "A-1974.1"
       ],
       "related_nodes": [
-        "N-1683"
+        "N-10683"
       ],
       "tags": [],
       "claim_timestamp": "00:14:13",
@@ -1186,7 +1186,7 @@
         "A-1975.1"
       ],
       "related_nodes": [
-        "N-1688"
+        "N-10688"
       ],
       "tags": [],
       "claim_timestamp": "00:39:35",
@@ -1206,7 +1206,7 @@
         "A-1976.1"
       ],
       "related_nodes": [
-        "N-1688"
+        "N-10688"
       ],
       "tags": [],
       "claim_timestamp": "00:40:47",
@@ -1227,7 +1227,7 @@
         "A-1977.1"
       ],
       "related_nodes": [
-        "N-1688"
+        "N-10688"
       ],
       "tags": [],
       "claim_timestamp": "00:41:36",
@@ -1247,7 +1247,7 @@
         "A-1978.1"
       ],
       "related_nodes": [
-        "N-1684"
+        "N-10684"
       ],
       "tags": [],
       "claim_timestamp": "00:43:46",
@@ -1266,7 +1266,7 @@
         "A-1978.1"
       ],
       "related_nodes": [
-        "N-1684"
+        "N-10684"
       ],
       "tags": [],
       "claim_timestamp": "00:43:46",
@@ -1285,8 +1285,8 @@
         "A-1979.1"
       ],
       "related_nodes": [
-        "N-1684",
-        "N-1689"
+        "N-10684",
+        "N-10689"
       ],
       "tags": [],
       "claim_timestamp": "00:46:09",
@@ -1306,7 +1306,7 @@
         "A-1970.1"
       ],
       "related_nodes": [
-        "N-1686"
+        "N-10686"
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
@@ -1326,7 +1326,7 @@
         "A-1980.1"
       ],
       "related_nodes": [
-        "N-1684"
+        "N-10684"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41",
@@ -1351,8 +1351,8 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-1682",
-        "N-1687"
+        "N-10682",
+        "N-10687"
       ],
       "tags": [],
       "claim_timestamp": "00:31:13",

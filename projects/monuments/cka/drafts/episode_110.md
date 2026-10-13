@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4dbfcb2b5d8419ada71b8eeaa37232158deb146c1e17f4f75d308b3b4968a1d7
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
+  - New Nodes Introduced: N-11066, N-11067, N-11068, N-11069, N-11070, N-11071, N-11072, N-11073
   - Hole-minted Nodes (wave3): N-688, N-689, N-709
   - Reused Nodes Appearing: N-57
   - (see registers)
@@ -31,7 +31,7 @@
   - Artifact Families Introduced: A-2076, A-2077, A-2078, A-2079, A-2080, A-2081, A-2082, A-2083, A-2084
   - Claim Range: C-2909–C-2933
   - New Nodes Introduced (people): N-42
-  - New Nodes Introduced (investigation targets): N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
+  - New Nodes Introduced (investigation targets): N-11066, N-11067, N-11068, N-11069, N-11070, N-11071, N-11072, N-11073
 
 ---
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-2066, N-2067, N-2068, N-57*
+*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-11066, N-11067, N-11068, N-57*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:25:40–00:36:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-curated; no underlying documents shown for most entries)
 
-*Related: C-2910, C-2921, C-2924, C-2928, C-2929, C-2930, N-2, N-42, N-2069, N-2070, N-2071, N-2072, N-2073*
+*Related: C-2910, C-2921, C-2924, C-2928, C-2929, C-2930, N-2, N-42, N-11069, N-11070, N-11071, N-11072, N-11073*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:15:30–00:19:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (summarized on a third-party site by host; FT primary not directly shown)
 
-*Related: C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920, N-2067, N-2068*
+*Related: C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920, N-11067, N-11068*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:19:30–00:20:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2921, C-2922, N-2068*
+*Related: C-2921, C-2922, N-11068*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:13:30–00:14:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (government source)
 
-*Related: C-2909, C-2910, C-2911, C-2912, C-2913, N-2066*
+*Related: C-2909, C-2910, C-2911, C-2912, C-2913, N-11066*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:34:00–00:34:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific outlet not named on-air)
 
-*Related: C-2923, N-2069*
+*Related: C-2923, N-11069*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:33:10–00:33:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2070*
+*Related: N-11070*
 
 ---
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:31:40–00:32:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host acknowledges no independent confirmation)
 
-*Related: C-2929, N-1, N-2073*
+*Related: C-2929, N-1, N-11073*
 
 ---
 
@@ -226,7 +226,7 @@ First named by the host at 00:37:13 in episode 110.
 
 
 
-**N-2066** Boston Consulting Group Government Pipeline
+**N-11066** Boston Consulting Group Government Pipeline
 
 Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity ("who are they consulting for?").
 
@@ -239,7 +239,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2067** Project Aurora Verification
+**N-11067** Project Aurora Verification
 
 Persistent investigation target: BCG consulting contract with GHF; relocation models for Palestinians; total $2.5–5B; two dismissed partners; CEO statement.
 
@@ -252,7 +252,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2068** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-11068** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Persistent investigation target: BCG built the foundation's logistics; Johnny Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as "killing fields"; Phil Riley / Orbis / Tacit Institute connection.
 
@@ -265,7 +265,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2069** SAM702 / Fort Huachuca September 9 Passenger Manifest
+**N-11069** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansel; Palantir $10B stationing; Brian Harpole alleged presence.
 
@@ -278,7 +278,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2070** Egyptian Military Aircraft Shuttle Pattern
+**N-11070** Egyptian Military Aircraft Shuttle Pattern
 
 Persistent investigation target: recurring transponder-off patterns on Egyptian planes (e.g., SUBTU/SUBTV) shuttling from Cairo via Paris to US destinations, coinciding with Israeli military inflection points (October 7, 2023; Operation True Promise April 2024; June 2025 Provo appearance; Wilmington on assassination day).
 
@@ -291,7 +291,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2071** Hamptons August 5–7 Intervention Event
+**N-11071** Hamptons August 5–7 Intervention Event
 
 Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megan Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.
 
@@ -304,7 +304,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2072** June 18 White House Meeting on Iran Involvement
+**N-11072** June 18 White House Meeting on Iran Involvement
 
 Persistent investigation target: per host (confirmed by Brett Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.
 
@@ -317,7 +317,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2073** Turning Point UVU Event Submission Chain
+**N-11073** Turning Point UVU Event Submission Chain
 
 Persistent investigation target: July 18, 2025 TPUSA submission for Charlie Kirk UVU event; host asserts this is unusually late in the tour cycle and has not been independently confirmed; submitting student requestor unknown.
 
@@ -350,7 +350,7 @@ Claim: Per the Department of War website, Bradley Hansel exercises authority, di
 Anchored Artifacts: A-2079.1
 Mentions: N-688
 
-Related Nodes: N-2066
+Related Nodes: N-11066
 
 Investigative Direction: Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in.
 
@@ -395,7 +395,7 @@ Claim: Per host, Hansel was picked to work under Trump's first administration as
 Anchored Artifacts: A-2079.1
 Mentions: N-688
 
-Related Nodes: N-2066
+Related Nodes: N-11066
 
 Investigative Direction: Verify NSC roster for Trump's first term.
 
@@ -410,7 +410,7 @@ Claim: Per host, Hansel worked at the Boston Consulting Group both after his mil
 Anchored Artifacts: A-2076.1, A-2079.1
 Mentions: N-688
 
-Related Nodes: N-2066
+Related Nodes: N-11066
 
 Investigative Direction: Verify BCG alumni records and LinkedIn-style biographies.
 
@@ -424,7 +424,7 @@ Claim: Per the Financial Times reporting summarized on a website read by the hos
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-2067, N-2068
+Related Nodes: N-11067, N-11068
 
 Investigative Direction: Retrieve original Financial Times article and Project Aurora documents.
 
@@ -438,7 +438,7 @@ Claim: Per the website read by the host, Project Aurora evolved over 7 months in
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-2067
+Related Nodes: N-11067
 
 Investigative Direction: Confirm $4M figure against leaked internal documents referenced by Financial Times.
 
@@ -452,7 +452,7 @@ Claim: Per host reading, one Project Aurora model proposed $9,000 in cash per pe
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-2067
+Related Nodes: N-11067
 
 Investigative Direction: Verify model parameters against FT-published leaked documents.
 
@@ -466,7 +466,7 @@ Claim: Per host reading, a second Project Aurora model lowered direct payments t
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-2067
+Related Nodes: N-11067
 
 Investigative Direction: Verify model parameters against FT-published leaked documents.
 
@@ -480,7 +480,7 @@ Claim: Per host reading, total Project Aurora costs ranged from $2.5 to $5 billi
 
 Anchored Artifacts: A-2077.1
 
-Related Nodes: N-2067
+Related Nodes: N-11067
 
 Investigative Direction: Verify cost ranges against FT-published leaked documents.
 
@@ -495,7 +495,7 @@ Claim: Per host reading, BCG dismissed two partners and launched an external aud
 Anchored Artifacts: A-2077.1
 Mentions: N-689
 
-Related Nodes: N-2067
+Related Nodes: N-11067
 
 Investigative Direction: Confirm dismissals and audit via BCG press releases or FT follow-up reporting.
 
@@ -510,7 +510,7 @@ Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora
 Anchored Artifacts: A-2077.1
 Mentions: N-689
 
-Related Nodes: N-2067
+Related Nodes: N-11067
 
 Investigative Direction: Locate Schweizer's original statement in Financial Times coverage.
 
@@ -525,7 +525,7 @@ Claim: Per Times of Israel article referenced by host, Johnny Moore was appointe
 Anchored Artifacts: A-2076.2, A-2078.1
 Mentions: N-696, N-689
 
-Related Nodes: N-2068
+Related Nodes: N-11068
 
 Investigative Direction: Verify appointment date and tenure length (host states Moore "eventually abandoned the project November").
 
@@ -540,7 +540,7 @@ Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake W
 Anchored Artifacts: A-2078.1
 Mentions: N-689
 
-Related Nodes: N-2068
+Related Nodes: N-11068
 
 Investigative Direction: Verify Jake Wood's resignation date and public statement.
 
@@ -555,7 +555,7 @@ Claim: Per host, BCG helped develop the logistics, the organizational structure,
 Anchored Artifacts: A-2076.1, A-2077.1
 Mentions: N-689
 
-Related Nodes: N-2068
+Related Nodes: N-11068
 
 Investigative Direction: Verify BCG-GHF operational scope via FT reporting or leaked BCG documents.
 
@@ -569,7 +569,7 @@ Claim: Per host-cited article, Palantir announced a $10 billion enterprise softw
 
 Anchored Artifacts: A-2080.1
 
-Related Nodes: N-2069
+Related Nodes: N-11069
 
 Investigative Direction: Identify primary outlet (host references "elsewhere"); confirm Fort Huachuca stationing date.
 
@@ -629,7 +629,7 @@ Claim: Per host's displayed working timeline, on June 19 – the second day Char
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-2
 
-Related Nodes: N-2072
+Related Nodes: N-11072
 
 Investigative Direction: Obtain archived screenshots of Erika Kirk's Instagram account as of June 18–19, 2025.
 
@@ -644,7 +644,7 @@ Claim: Per local news in Utah cited by host, Turning Point USA submitted on July
 Anchored Artifacts: A-2084.1
 Mentions: N-1
 
-Related Nodes: N-2073
+Related Nodes: N-11073
 
 Investigative Direction: Obtain the actual UVU event submission paperwork; identify the requesting student organization.
 
@@ -659,7 +659,7 @@ Claim: Per host (recapping prior episodes) and per the on-screen connection grap
 Anchored Artifacts: A-2076.1
 Mentions: N-57, N-65
 
-Related Nodes: N-2066
+Related Nodes: N-11066
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 
@@ -674,7 +674,7 @@ Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital wit
 Anchored Artifacts: A-2076.1
 Mentions: N-57, N-76, N-77
 
-Related Nodes: N-2066
+Related Nodes: N-11066
 
 Investigative Direction: Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.
 
@@ -689,7 +689,7 @@ Claim: Per the displayed on-screen graphic and host description, Orbis – a Was
 Anchored Artifacts: A-2076.1
 Mentions: N-689
 
-Related Nodes: N-2068
+Related Nodes: N-11068
 
 Investigative Direction: Verify Orbis involvement via FT reporting or leaked BCG documents.
 
@@ -703,7 +703,7 @@ Claim: Per the displayed on-screen graphic and host description, Orbis was prepp
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-2068
+Related Nodes: N-11068
 
 Investigative Direction: Verify the existence and nature of the Tacit/Taclith Institute; flag uncertain spelling.
 
@@ -718,7 +718,7 @@ Claim: Per the displayed on-screen graphic and host description, BCG was chosen 
 Anchored Artifacts: A-2076.1
 Mentions: N-689
 
-Related Nodes: N-2068
+Related Nodes: N-11068
 
 Investigative Direction: Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.
 
@@ -798,7 +798,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-1207+)
+- [x] People nodes use the global people ledger (N-10207+)
 - [x] Non-person investigation targets use the 2066+ series
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty flagged

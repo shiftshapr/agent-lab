@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-720, N-721, N-724, N-726, N-727, N-1484, N-1485, N-1486, N-1487
+  - New Nodes Introduced: N-720, N-721, N-724, N-726, N-727, N-10484, N-10485, N-10486, N-10487
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:08:22–00:09:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, C-2099, N-1484, N-720*
+*Related: C-2097, C-2098, C-2099, N-10484, N-720*
 
 **A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:13:05–00:15:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, N-1484, N-720*
+*Related: C-2097, C-2098, N-10484, N-720*
 
 **A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:17:07–00:18:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2098, C-2099, N-1484*
+*Related: C-2098, C-2099, N-10484*
 
 **A-1629** CERN Ritual Article Bundle
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:36:29–00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2100, C-2101, N-1485*
+*Related: C-2100, C-2101, N-10485*
 
 **A-1630** CERN Ritual Video Bundle
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:38:17–00:39:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2100, C-2101, N-1485*
+*Related: C-2100, C-2101, N-10485*
 
 **A-1631** Daily Wire Egyptian Airways Parody Video Bundle
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:40:52–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video explicitly displayed)
 
-*Related: C-2102, N-1487, N-3*
+*Related: C-2102, N-10487, N-3*
 
 **A-1632** Pompeo Gaza History Book Clip Bundle
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:04:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quote reproduced, not displayed on screen per transcript)
 
-*Related: N-1486*
+*Related: N-10486*
 
 **A-1634** Comment Section Read-Aloud Bundle
 
@@ -202,7 +202,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1628.2, C-2097, N-1484*
+*Related: A-1628.2, C-2097, N-10484*
 
 **N-721** Mike Pompeo
 
@@ -261,7 +261,7 @@ Investigative Pressure: Low
 
 *Related: None*
 
-**N-1484** Project Looking Glass Allegation
+**N-10484** Project Looking Glass Allegation
 
 Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.
 
@@ -272,7 +272,7 @@ Investigative Pressure: Medium
 
 *Related: A-1628.1, A-1628.2, A-1628.3, C-2097, C-2098, C-2099, N-720*
 
-**N-1485** CERN Satantic Ritual Claim
+**N-10485** CERN Satantic Ritual Claim
 
 Investigative target: episode's presentation of a "satanic human sacrifice" at CERN grounds, CERN's "prank" framing, and host's challenge to that framing.
 
@@ -283,7 +283,7 @@ Investigative Pressure: Medium
 
 *Related: A-1629.1, A-1630.1, C-2100, C-2101*
 
-**N-1486** Charlie Kirk Premonition Pattern
+**N-10486** Charlie Kirk Premonition Pattern
 
 Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.
 
@@ -294,7 +294,7 @@ Investigative Pressure: Medium
 
 *Related: A-1633.1, A-1633.2, C-2104, C-2105, N-1*
 
-**N-1487** Daily Wire Stalking Pattern
+**N-10487** Daily Wire Stalking Pattern
 
 Investigative target: ongoing alleged "gangstalking" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.
 
@@ -318,7 +318,7 @@ Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's accoun
 Anchored Artifacts: A-1628.2
 Mentions: N-720
 
-Related Nodes: N-1484
+Related Nodes: N-10484
 
 Investigative Direction: Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.
 
@@ -332,7 +332,7 @@ Claim: The Be Inspired clip (A-1628.3) references a CIA-released document that e
 
 Anchored Artifacts: A-1628.3
 
-Related Nodes: N-1484
+Related Nodes: N-10484
 
 Investigative Direction: Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents.
 
@@ -346,7 +346,7 @@ Claim: The host endorses the Be Inspired clip's framing that The Matrix (1999 re
 
 Anchored Artifacts: A-1628.3
 
-Related Nodes: N-1484
+Related Nodes: N-10484
 
 Investigative Direction: Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that "the script for The Matrix was stolen allegedly."
 
@@ -360,7 +360,7 @@ Claim: An article read verbatim in the episode describes a "satanic human sacrif
 
 Anchored Artifacts: A-1629.1, A-1630.1
 
-Related Nodes: N-1485
+Related Nodes: N-10485
 
 Investigative Direction: Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened.
 
@@ -374,7 +374,7 @@ Claim: The episode presents that a CERN spokesperson characterized the staged ri
 
 Anchored Artifacts: A-1629.1
 
-Related Nodes: N-1485
+Related Nodes: N-10485
 
 Investigative Direction: Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified.
 
@@ -389,7 +389,7 @@ Claim: A Daily Wire video dropped on Candace Owens's old social media accounts p
 Anchored Artifacts: A-1631.1
 Mentions: N-3
 
-Related Nodes: N-1487
+Related Nodes: N-10487
 
 Investigative Direction: Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her.
 
@@ -418,7 +418,7 @@ Claim: The host references (from earlier episodes, via prior text-message displa
 Anchored Artifacts: A-1633.1
 Mentions: N-3, N-1
 
-Related Nodes: N-1486
+Related Nodes: N-10486
 
 Investigative Direction: Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps.
 
@@ -433,7 +433,7 @@ Claim: The host presents Charlie Kirk's assertion (via referenced text messages)
 Anchored Artifacts: A-1633.1
 Mentions: N-1
 
-Related Nodes: N-1486
+Related Nodes: N-10486
 
 Investigative Direction: Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death.
 

@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1633"
+            "N-10633"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -63,7 +63,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1636"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
             "C-2574"
           ],
           "related_nodes": [
-            "N-1636"
+            "N-10636"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -107,7 +107,7 @@
             "C-2575"
           ],
           "related_nodes": [
-            "N-1637"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -157,7 +157,7 @@
             "C-2567"
           ],
           "related_nodes": [
-            "N-1635"
+            "N-10635"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -183,7 +183,7 @@
             "C-2576"
           ],
           "related_nodes": [
-            "N-1637"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
             "C-2577"
           ],
           "related_nodes": [
-            "N-1637"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
             "C-2578"
           ],
           "related_nodes": [
-            "N-1637"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-2579"
           ],
           "related_nodes": [
-            "N-1637"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -274,8 +274,8 @@
             "C-2565"
           ],
           "related_nodes": [
-            "N-1634",
-            "N-1638"
+            "N-10634",
+            "N-10638"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -293,7 +293,7 @@
             "C-2566"
           ],
           "related_nodes": [
-            "N-1634"
+            "N-10634"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -308,8 +308,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1633",
-      "ref": "N-1633",
+      "@id": "N-10633",
+      "ref": "N-10633",
       "name": "Tarmac Hug Timeline Reconciliation Question",
       "type": "investigation_target",
       "description": "Persistent investigative target: Frank Turek estimates Erica at hospital around 4:00 p.m.; the plane allegedly carrying Andrew Kolvet landed approximately 4:40 p.m.; transit to hospital is at minimum 20 minutes. The host's reconciliation hypothesis: Erica arrived on an earlier flight; Andrew landed aboard Charlie's plane at 3:31 p.m. Utah time.",
@@ -327,13 +327,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-1638"
+        "N-10638"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1634",
-      "ref": "N-1634",
+      "@id": "N-10634",
+      "ref": "N-10634",
       "name": "Stacey Sheridan September 10 Location Verification",
       "type": "investigation_target",
       "description": "Stacey Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and \"allegedly home in Scottsdale.\" Host issues an \"APB\" for sightings.",
@@ -351,8 +351,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1635",
-      "ref": "N-1635",
+      "@id": "N-10635",
+      "ref": "N-10635",
       "name": "Hopkinson Aircraft Erica Sighting Confirmation",
       "type": "investigation_target",
       "description": "Whether Erica Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.",
@@ -370,8 +370,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1636",
-      "ref": "N-1636",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Alexis Wilkins 13-Part Thread Analysis",
       "type": "investigation_target",
       "description": "Verification and substantive analysis of the allegations in Alexis Wilkins's X thread alleging a 22-month foreign-linked influence operation and identifying Candace, Tucker, Joe Kent, and General Flynn as network participants.",
@@ -396,8 +396,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1637",
-      "ref": "N-1637",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Catholic Church Growth Discourse",
       "type": "investigation_target",
       "description": "Set of public-facing artifacts (Daily Wire article, news items, prior Allie Stuckey tweet) documenting the discursive shift on Catholic Church growth in the U.S. and the Zionism/anti-Zionism framing.",
@@ -423,8 +423,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1638",
-      "ref": "N-1638",
+      "@id": "N-10638",
+      "ref": "N-10638",
       "name": "Erica Kirk Arizona Activity Verification Gap",
       "type": "investigation_target",
       "description": "Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.",
@@ -442,9 +442,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1633",
-        "N-1634",
-        "N-1635"
+        "N-10633",
+        "N-10634",
+        "N-10635"
       ]
     },
     {
@@ -634,7 +634,7 @@
         "A-1895.1"
       ],
       "related_nodes": [
-        "N-1633"
+        "N-10633"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -671,7 +671,7 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-1638"
+        "N-10638"
       ],
       "tags": [],
       "claim_timestamp": "00:11:23",
@@ -725,8 +725,8 @@
         "A-1902.1"
       ],
       "related_nodes": [
-        "N-1634",
-        "N-1638"
+        "N-10634",
+        "N-10638"
       ],
       "tags": [],
       "claim_timestamp": "00:14:00",
@@ -760,8 +760,8 @@
         "A-1899.1"
       ],
       "related_nodes": [
-        "N-1635",
-        "N-1638"
+        "N-10635",
+        "N-10638"
       ],
       "tags": [],
       "claim_timestamp": "00:21:05–00:24:24",
@@ -780,7 +780,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:28:11",
@@ -802,7 +802,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
@@ -822,7 +822,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:32:58",
@@ -841,7 +841,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:33:48",
@@ -860,7 +860,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
@@ -880,7 +880,7 @@
         "A-1896.1"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:35:30",
@@ -900,7 +900,7 @@
         "A-1896.2"
       ],
       "related_nodes": [
-        "N-1636"
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:39:43",
@@ -919,7 +919,7 @@
         "A-1897.1"
       ],
       "related_nodes": [
-        "N-1637"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:40:56",
@@ -935,7 +935,7 @@
         "A-1900.1"
       ],
       "related_nodes": [
-        "N-1637"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:42:36",
@@ -951,7 +951,7 @@
         "A-1900.2"
       ],
       "related_nodes": [
-        "N-1637"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:42:36",
@@ -967,7 +967,7 @@
         "A-1900.3"
       ],
       "related_nodes": [
-        "N-1637"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:43:15",
@@ -983,7 +983,7 @@
         "A-1901.1"
       ],
       "related_nodes": [
-        "N-1637"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:41:40",
@@ -997,7 +997,7 @@
       "claim": "The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1633"
+        "N-10633"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",

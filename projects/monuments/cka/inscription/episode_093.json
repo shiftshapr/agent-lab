@@ -31,8 +31,8 @@
             "C-2758"
           ],
           "related_nodes": [
-            "N-1691",
-            "N-1692"
+            "N-10691",
+            "N-10692"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
             "C-2747"
           ],
           "related_nodes": [
-            "N-1691"
+            "N-10691"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
             "C-2746"
           ],
           "related_nodes": [
-            "N-1691"
+            "N-10691"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "sub_items": [],
@@ -227,7 +227,7 @@
             "C-2753"
           ],
           "related_nodes": [
-            "N-1693"
+            "N-10693"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-2752"
           ],
           "related_nodes": [
-            "N-1693"
+            "N-10693"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
             "C-2752"
           ],
           "related_nodes": [
-            "N-1693"
+            "N-10693"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -285,7 +285,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-1695"
+        "N-10695"
       ],
       "tags": [],
       "sub_items": [],
@@ -308,8 +308,8 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-1694",
-        "N-1696"
+        "N-10694",
+        "N-10696"
       ],
       "tags": [],
       "sub_items": [],
@@ -335,7 +335,7 @@
             "C-2759"
           ],
           "related_nodes": [
-            "N-1691"
+            "N-10691"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,7 +353,7 @@
             "C-2759"
           ],
           "related_nodes": [
-            "N-1691"
+            "N-10691"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-1697"
+        "N-10697"
       ],
       "tags": [],
       "sub_items": [],
@@ -389,8 +389,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1691",
-      "ref": "N-1691",
+      "@id": "N-10691",
+      "ref": "N-10691",
       "name": "UGA Rally Cancellation Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target: contradiction between Erika Kirk's stated reason for canceling UGA co-appearance and Secret Service determination, plus insider acknowledgment of non-security factors.",
@@ -418,8 +418,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1692",
-      "ref": "N-1692",
+      "@id": "N-10692",
+      "ref": "N-10692",
       "name": "Secret Service Statement Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying Secret Service's \"no credible threats\" determination, including the off-record-to-CBS pipeline and corroboration across the federal security apparatus.",
@@ -437,8 +437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1693",
-      "ref": "N-1693",
+      "@id": "N-10693",
+      "ref": "N-10693",
       "name": "Victor Marx IDF / Israeli Defense Group Connection",
       "type": "investigation_target",
       "description": "Persistent target: verifying text-message-attributed communications between Marx and Corby Hall referencing an Israeli Defense Group, SOCOM contract, and patent purchase.",
@@ -459,8 +459,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1694",
-      "ref": "N-1694",
+      "@id": "N-10694",
+      "ref": "N-10694",
       "name": "Bain Capital Foreign Investment Line",
       "type": "investigation_target",
       "description": "Persistent target: tracking the historical and recurring web linking Robert Maxwell / Ghislaine Maxwell / Epstein-adjacent actors to Bain Capital and adjacent financial/political networks.",
@@ -478,8 +478,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1695",
-      "ref": "N-1695",
+      "@id": "N-10695",
+      "ref": "N-10695",
       "name": "ATF Bullet Comparison Methodology",
       "type": "investigation_target",
       "description": "Persistent target: tracking the methodology and outcomes of cartridge-case matching, bullet-jacket fragment class-characteristic analysis, and the upcoming microscopic comparison in the Robinson case.",
@@ -499,8 +499,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1696",
-      "ref": "N-1696",
+      "@id": "N-10696",
+      "ref": "N-10696",
       "name": "Gun Firing Evidence Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying whether the recovered rifle was fired on September 10 via canine/bomb-dog screening and residue testing.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1697",
-      "ref": "N-1697",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Early-Death-Announcement Timeline Verification",
       "type": "investigation_target",
       "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.",
@@ -659,8 +659,8 @@
         "A-1981.1"
       ],
       "related_nodes": [
-        "N-1692",
-        "N-1691"
+        "N-10692",
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09",
@@ -681,7 +681,7 @@
         "A-1982.1"
       ],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27–00:13:38",
@@ -700,7 +700,7 @@
         "A-1982.2"
       ],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44–00:09:45",
@@ -719,7 +719,7 @@
         "A-1983"
       ],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:11:54–00:12:49",
@@ -738,7 +738,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-1697"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:25:01",
@@ -814,7 +814,7 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-1693"
+        "N-10693"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00–00:38:02",
@@ -835,7 +835,7 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-1693"
+        "N-10693"
       ],
       "tags": [],
       "claim_timestamp": "00:37:17–00:38:02",
@@ -852,7 +852,7 @@
         "A-1989"
       ],
       "related_nodes": [
-        "N-1694"
+        "N-10694"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18–00:41:12",
@@ -871,7 +871,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-1695"
+        "N-10695"
       ],
       "tags": [],
       "claim_timestamp": "00:41:38–00:45:48",
@@ -888,7 +888,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-1695"
+        "N-10695"
       ],
       "tags": [],
       "claim_timestamp": "00:43:51–00:44:37",
@@ -905,7 +905,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-1695"
+        "N-10695"
       ],
       "tags": [],
       "claim_timestamp": "00:44:37–00:45:48",
@@ -922,7 +922,7 @@
         "A-1991.1"
       ],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:18:55–00:22:20",
@@ -939,7 +939,7 @@
         "A-1991.2"
       ],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:21:34–00:22:20",
@@ -956,7 +956,7 @@
         "A-1992"
       ],
       "related_nodes": [
-        "N-1697"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:28:57–00:29:30",
@@ -973,7 +973,7 @@
       "claim": "Host explicitly endorses Elizabeth Lane's prior post that \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's pattern of public blame-shifting as \"malevolent.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1691"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:15:01–00:17:09",
@@ -990,8 +990,8 @@
       "claim": "Erika Kirk's public cancellation reason (a \"credible threat\" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1691",
-        "N-1692"
+        "N-10691",
+        "N-10692"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09–00:13:38",
@@ -1011,7 +1011,7 @@
       "claim": "Host states bomb dogs and canines brought to the scene did not detect that the recovered weapon had been recently fired, which would be expected if fired within approximately seven days.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1696"
+        "N-10696"
       ],
       "tags": [],
       "claim_timestamp": "00:42:19–00:43:08",

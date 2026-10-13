@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-961, N-962, N-963, N-964, N-965, N-966, N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
+  - New Nodes Introduced: N-961, N-962, N-963, N-964, N-965, N-966, N-10597, N-10598, N-10599, N-10600, N-10601, N-10602
   - Reused Nodes Appearing: N-2, N-37, N-3
   - (see registers)
 
@@ -34,7 +34,7 @@
 - Artifact Families Introduced: A-1822, A-1823, A-1824, A-1825, A-1826, A-1827, A-1828, A-1829, A-1830, A-1831, A-1832, A-1833, A-1834
 - Claim Range: C-2437–C-2452, C-3744
 - New Nodes Introduced (people): N-961, N-962, N-963, N-964, N-965, N-966
-- New Nodes Introduced (investigation targets): N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
+- New Nodes Introduced (investigation targets): N-10597, N-10598, N-10599, N-10600, N-10601, N-10602
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -89,7 +89,7 @@ Video Timestamp: 00:11:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2439, C-2450, N-2, N-1599*
+*Related: C-2439, C-2450, N-2, N-10599*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2440, C-2451, N-2, N-1598*
+*Related: C-2440, C-2451, N-2, N-10598*
 
 **A-1825.2** Host on-air tip request asking New York real-estate professionals to confirm Erika's license and sales (verbal reference; no displayed artifact)
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3744, N-2, N-1598*
+*Related: C-3744, N-2, N-10598*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:20:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2442, N-961, N-1597*
+*Related: C-2442, N-961, N-10597*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:29:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2444, C-2452, N-964, N-966, N-1601*
+*Related: C-2444, C-2452, N-964, N-966, N-10601*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:34:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2445, N-965, N-1601*
+*Related: C-2445, N-965, N-10601*
 
 ---
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2447, N-1601, N-37*
+*Related: C-2447, N-10601, N-37*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:26:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2448, N-1602*
+*Related: C-2448, N-10602*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:24:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2449, N-1600*
+*Related: C-2449, N-10600*
 
 ---
 
@@ -268,7 +268,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1827.1, C-2442, N-1597*
+*Related: A-1827.1, C-2442, N-10597*
 
 ---
 
@@ -307,7 +307,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1829.1, A-1831.1, C-2446, C-2452, N-965, N-1601*
+*Related: A-1829.1, A-1831.1, C-2446, C-2452, N-965, N-10601*
 
 ---
 
@@ -333,11 +333,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1829.1, N-1601*
+*Related: A-1829.1, N-10601*
 
 ---
 
-**N-1597** Antonio Placement Center Investigation
+**N-10597** Antonio Placement Center Investigation
 
 Persistent investigation target: Constanta, Romania institution described by Larissa as "notorious for corruption and illicit activities such as trafficking children"; per email, Erika Kirk's promotional materials 2012–2014 referenced it as a Romanian Angels partner.
 
@@ -350,7 +350,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1598** Erika NY Real Estate License Verification Question
+**N-10598** Erika NY Real Estate License Verification Question
 
 Persistent target: independent verification of NY real estate license #10401322765 (issued 2018-10-24) and of any completed NY real estate transactions.
 
@@ -363,7 +363,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1599** Erika Real Estate Bio Credential Verification Question
+**N-10599** Erika Real Estate Bio Credential Verification Question
 
 Persistent target: verification of bio claims including magna cum laude graduation, ASU double major in political science and international relations, and Juris Master at Liberty University.
 
@@ -376,7 +376,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1600** Arizona-Romania Pipeline Investigation
+**N-10600** Arizona-Romania Pipeline Investigation
 
 Persistent target: convergence of Tyler Bowyer's 2010 Romania trip, ASU Romanian studies program and honorary Romanian consulate (2010), Romania-to-Arizona charity/placement activity, and Arizona opening first US state trade office in Romania (~July 2025).
 
@@ -389,7 +389,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1601** SB 1439 Charlie Kirk Memorial Plate Fund Routing
+**N-10601** SB 1439 Charlie Kirk Memorial Plate Fund Routing
 
 Persistent target: SB 1439's "conservative grassroots network special plate fund" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.
 
@@ -402,7 +402,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1602** TPUSA Super Feed Copyright / Data Routing Question
+**N-10602** TPUSA Super Feed Copyright / Data Routing Question
 
 Persistent target: Super Feed Inc. copyright on the Turning Point USA app per fine print; question of where user data flows.
 
@@ -463,7 +463,7 @@ Claim: Erika Kirk's published real-estate bio describes her as a "multi-dimensio
 Anchored Artifacts: A-1824.1
 Mentions: N-2
 
-Related Nodes: N-1599
+Related Nodes: N-10599
 
 Investigative Direction: Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions.
 
@@ -478,7 +478,7 @@ Claim: A relic record of a New York real-estate license attributed to Erika Kirk
 Anchored Artifacts: A-1825.1
 Mentions: N-2
 
-Related Nodes: N-1598
+Related Nodes: N-10598
 
 Investigative Direction: Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.
 
@@ -495,9 +495,9 @@ Transcript Snippet: If you can confirm Erika's real estate license and what she 
 Anchored Artifacts: A-1825.2
 Mentions: N-3, N-2
 
-Related Nodes: N-1598
+Related Nodes: N-10598
 
-Investigative Direction: Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-1598.
+Investigative Direction: Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10598.
 
 ---
 
@@ -510,7 +510,7 @@ Claim: In her audition tape for "The American Race," Erika Kirk stated she had t
 Anchored Artifacts: A-1826.1
 Mentions: N-2
 
-Related Nodes: N-1597
+Related Nodes: N-10597
 
 Investigative Direction: Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records.
 
@@ -525,7 +525,7 @@ Claim: An email from "Larissa," a former Antonio Placement Center resident adopt
 Anchored Artifacts: A-1827.1
 Mentions: N-2, N-961
 
-Related Nodes: N-1597
+Related Nodes: N-10597
 
 Investigative Direction: Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.
 
@@ -540,7 +540,7 @@ Claim: In a social-media exchange, Tyler Bowyer stated he studied Romanian in co
 Anchored Artifacts: A-1828.1
 Mentions: N-37
 
-Related Nodes: N-1600
+Related Nodes: N-10600
 
 Investigative Direction: Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.
 
@@ -555,7 +555,7 @@ Claim: Arizona SB 1439 proposed a "Charlie Kirk Memorial Plate" specialty licens
 Anchored Artifacts: A-1829.1
 Mentions: N-1, N-964, N-966
 
-Related Nodes: N-1601
+Related Nodes: N-10601
 
 Investigative Direction: Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.
 
@@ -570,7 +570,7 @@ Claim: Governor Katie Hobbs vetoed SB 1439, stating in her veto letter that Char
 Anchored Artifacts: A-1830.1
 Mentions: N-1, N-964, N-965
 
-Related Nodes: N-1601
+Related Nodes: N-10601
 
 Investigative Direction: Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.
 
@@ -585,7 +585,7 @@ Claim: On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 v
 Anchored Artifacts: A-1831.1
 Mentions: N-964, N-965, N-1
 
-Related Nodes: N-1601
+Related Nodes: N-10601
 
 Investigative Direction: Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.
 
@@ -600,7 +600,7 @@ Claim: Tyler Bowyer posted on X: "Every nonprofit in Arizona that has major root
 Anchored Artifacts: A-1832.1
 Mentions: N-37, N-965
 
-Related Nodes: N-1601
+Related Nodes: N-10601
 
 Investigative Direction: Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.
 
@@ -614,7 +614,7 @@ Claim: The Turning Point USA mobile application's fine print lists Super Feed In
 
 Anchored Artifacts: A-1833.1
 
-Related Nodes: N-1602
+Related Nodes: N-10602
 
 Investigative Direction: Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles.
 
@@ -628,7 +628,7 @@ Claim: A headline announcement (per host) states Arizona to be the first US stat
 
 Anchored Artifacts: A-1834.1
 
-Related Nodes: N-1600
+Related Nodes: N-10600
 
 Investigative Direction: Locate original announcement source and date; identify Arizona-Romania trade office structure, funding, and personnel.
 
@@ -643,7 +643,7 @@ Claim: The host asserts that Erika Kirk's real-estate bio claims of "magna cum l
 Anchored Artifacts: A-1824.1
 Mentions: N-2
 
-Related Nodes: N-1599
+Related Nodes: N-10599
 
 Investigative Direction: Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation.
 
@@ -658,7 +658,7 @@ Claim: The host asserts she was unable to independently verify Erika Kirk's NY r
 Anchored Artifacts: A-1825.1
 Mentions: N-2
 
-Related Nodes: N-1598
+Related Nodes: N-10598
 
 Investigative Direction: Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive.
 
@@ -673,7 +673,7 @@ Claim: Per host reading of SB 1439, the bill's "conservative grassroots network 
 Anchored Artifacts: A-1829.1
 Mentions: N-964, N-966
 
-Related Nodes: N-1601
+Related Nodes: N-10601
 
 Investigative Direction: Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.
 

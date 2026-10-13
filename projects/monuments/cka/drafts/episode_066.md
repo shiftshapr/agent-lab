@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
-  - New Nodes Introduced: N-817, N-818, N-821, N-822, N-823, N-825, N-826, N-1537, N-1538, N-1539, N-1540
+  - New Nodes Introduced: N-817, N-818, N-821, N-822, N-823, N-825, N-826, N-10537, N-10538, N-10539, N-10540
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2247, N-822, N-2, N-1537, N-1540*
+*Related: C-2247, N-822, N-2, N-10537, N-10540*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:26:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2249, N-1537, A-1709.1*
+*Related: C-2249, N-10537, A-1709.1*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:32:17–00:34:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2250, N-1538*
+*Related: C-2250, N-10538*
 
 ---
 
@@ -268,7 +268,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-2247, N-1538*
+*Related: A-1709.1, C-2247, N-10538*
 
 ---
 
@@ -333,11 +333,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-1538*
+*Related: N-2, N-10538*
 
 ---
 
-**N-1537** Cardinal Stadium RV Show Booking Question
+**N-10537** Cardinal Stadium RV Show Booking Question
 
 Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?
 
@@ -346,11 +346,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1709.1, A-1712.1, C-2247, C-2249, N-1540*
+*Related: A-1709.1, A-1712.1, C-2247, C-2249, N-10540*
 
 ---
 
-**N-1538** TPUSA Donor Targeting Pattern Question
+**N-10538** TPUSA Donor Targeting Pattern Question
 
 Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?
 
@@ -363,7 +363,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1539** Father Blank September 10 Mass Cancellation Question
+**N-10539** Father Blank September 10 Mass Cancellation Question
 
 Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.
 
@@ -376,16 +376,16 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1540** $6 Million Memorial Cost Claim Verification Question
+**N-10540** $6 Million Memorial Cost Claim Verification Question
 
-Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-1537).
+Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10537).
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-2247, N-1537*
+*Related: A-1709.1, C-2247, N-10537*
 
 ---
 
@@ -447,7 +447,7 @@ Claim: A Catholic donor emailed the host describing how she was seated next to F
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-264, N-821
-Related Nodes: N-1538
+Related Nodes: N-10538
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
 ---
@@ -496,7 +496,7 @@ Claim: A text from TPUSA "Blank" introducing the donor states the memorial will 
 
 Anchored Artifacts: A-1709.1
 Mentions: N-2, N-822
-Related Nodes: N-1537, N-1540
+Related Nodes: N-10537, N-10540
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
 ---
@@ -520,7 +520,7 @@ Claim Timestamp: 00:26:12
 Claim: The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend.
 
 Anchored Artifacts: A-1712.1
-Related Nodes: N-1537
+Related Nodes: N-10537
 Investigative Direction: Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed.
 
 ---
@@ -532,7 +532,7 @@ Claim Timestamp: 00:32:17
 Claim: A TPUSA top fundraiser texted the donor offering a Chicago visit and pitching involvement in a Mar-a-Lago gala reported to be raising approximately $42 million.
 
 Anchored Artifacts: A-1713.1, A-1706.1
-Related Nodes: N-1538
+Related Nodes: N-10538
 Investigative Direction: Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures.
 
 ---
@@ -582,7 +582,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.
 - **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-2242 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.
-- **Host claim without artifact anchor:** N-1539 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
+- **Host claim without artifact anchor:** N-10539 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
 - **Transcript ambiguity:** Host refers to "Andrew Coven" (in comment section) and "Andrew Kouvet" (in interview discussion); same person referenced by all variants.
 - **Claim passed admission test with host-interpretation caveat:** C-2242 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.
 
@@ -596,7 +596,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use global people ledger (N-817+)
-- [x] Non-person investigation targets use 1000+ series (N-1537+)
+- [x] Non-person investigation targets use 1000+ series (N-10537+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent across all registers

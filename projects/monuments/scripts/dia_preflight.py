@@ -58,17 +58,62 @@ BARE_MS_RE = re.compile(r"^\s*\d{1,2}:\d{2}(?:\s*[–\-\u2014]\s*\d{1,2}:\d{2})?
 
 PERSON_TYPES = frozenset({"person", "investigationtarget"})
 TOPIC_BAND_TYPES = frozenset({"topic", "organization", "organisation", "place", "org"})
-# 2026-10-04 lock: persons are N-1..N-999 or N-10000+. N-1000..N-9999 stays topic/org/place.
-PERSON_HIGH_MIN = 10000
-TOPIC_BAND_MAX = 9999
+@dataclass(frozen=True)
+class NodeBands:
+    """Id bands for Person vs Topic/Org/Place nodes.
+
+    Default (BoC, 2026-10-04 lock): persons are N-1..N-999 or N-10000+; N-1000..N-9999 is topic/org/place.
+    A monument overrides this with `node_bands` in config/preflight_gates.json (CKA, Daveed 2026-10-13:
+    persons N-1..N-9999, topic/org/place N-10000+).
+    """
+
+    person_max: int = 999
+    topic_min: int = 1000
+    topic_max: int | None = 9999
+    person_high_min: int | None = 10000
+
+    def is_person(self, nid: int) -> bool:
+        return nid <= self.person_max or (self.person_high_min is not None and nid >= self.person_high_min)
+
+    def is_topic(self, nid: int) -> bool:
+        return nid >= self.topic_min and (self.topic_max is None or nid <= self.topic_max)
+
+    def band(self, nid: int) -> str:
+        if nid <= self.person_max:
+            return "person"
+        if self.is_topic(nid):
+            return "topic"
+        return "person_high"
+
+    @property
+    def person_label(self) -> str:
+        low = f"N-1..N-{self.person_max}"
+        return f"{low} or N-{self.person_high_min}+" if self.person_high_min is not None else low
+
+    @property
+    def topic_label(self) -> str:
+        return f"N-{self.topic_min}..N-{self.topic_max}" if self.topic_max is not None else f"N-{self.topic_min}+"
+
+
+DEFAULT_BANDS = NodeBands()
+BANDS = DEFAULT_BANDS
+
+
+def load_node_bands(monument_dir: Path) -> NodeBands:
+    """node_bands from config/preflight_gates.json, else the default (BoC) bands."""
+    cfg = _json_or(monument_dir / "config" / "preflight_gates.json", {}).get("node_bands")
+    if not isinstance(cfg, dict):
+        return DEFAULT_BANDS
+    return NodeBands(
+        person_max=int(cfg.get("person_max", DEFAULT_BANDS.person_max)),
+        topic_min=int(cfg.get("topic_min", DEFAULT_BANDS.topic_min)),
+        topic_max=cfg.get("topic_max", DEFAULT_BANDS.topic_max),
+        person_high_min=cfg.get("person_high_min", DEFAULT_BANDS.person_high_min),
+    )
 
 
 def nid_band(nid: int) -> str:
-    if nid < 1000:
-        return "person"
-    if nid >= PERSON_HIGH_MIN:
-        return "person_high"
-    return "topic"
+    return BANDS.band(nid)
 
 
 @dataclass
@@ -372,30 +417,29 @@ def check_person_band(
         baseline_person, baseline_topic = load_density_baseline(monument_dir)
     for nid, ent in intro.items():
         nt = ent.node_type
-        is_person = nid < 1000 or nt in PERSON_TYPES
-        if nt in TOPIC_BAND_TYPES and nid < 1000:
+        if nt in TOPIC_BAND_TYPES and nid <= BANDS.person_max:
             report.add(
                 "P0",
                 "person_band",
-                f"{ent.episode_file}: N-{nid} typed {ent.node_type!r} in Person band (<1000)",
+                f"{ent.episode_file}: N-{nid} typed {ent.node_type!r} in Person band (N-1..N-{BANDS.person_max})",
                 f"N-{nid}",
             )
-        if nt in PERSON_TYPES and 1000 <= nid <= TOPIC_BAND_MAX:
+        if nt in PERSON_TYPES and BANDS.is_topic(nid):
             report.add(
                 "P0",
                 "person_band",
-                f"{ent.episode_file}: Person N-{nid} ({ent.name}) sits in N-1000..N-9999 (topic band); persons are N-1..N-999 or N-10000+",
+                f"{ent.episode_file}: Person N-{nid} ({ent.name}) sits in {BANDS.topic_label} (topic band); persons are {BANDS.person_label}",
                 f"N-{nid}",
             )
-        if nid < 1000 and nt in TOPIC_BAND_TYPES:
+        if nid <= BANDS.person_max and nt in TOPIC_BAND_TYPES:
             report.add(
                 "P0",
                 "person_band",
-                f"{ent.episode_file}: Topic/Org/Place N-{nid} must be N-1000+",
+                f"{ent.episode_file}: Topic/Org/Place N-{nid} must be N-{BANDS.topic_min}+",
                 f"N-{nid}",
             )
 
-    person_present = {n for n in intro if n < 1000} | baseline_person
+    person_present = {n for n in intro if n <= BANDS.person_max} | baseline_person
     person_ids = sorted(person_present)
     if person_ids:
         expected = list(range(1, person_ids[-1] + 1))
@@ -408,7 +452,7 @@ def check_person_band(
                 + (" …" if len(missing) > 20 else ""),
             )
 
-    topic_present = {n for n in intro if 1000 <= n <= TOPIC_BAND_MAX} | baseline_topic
+    topic_present = {n for n in intro if BANDS.is_topic(n)} | baseline_topic
     topic_ids = sorted(topic_present)
     if topic_ids:
         lo, hi = topic_ids[0], topic_ids[-1]
@@ -417,7 +461,7 @@ def check_person_band(
             report.add(
                 "P0",
                 "topic_band_density",
-                f"N-1000+ band not dense; missing {', '.join(f'N-{x}' for x in missing[:20])}"
+                f"{BANDS.topic_label} band not dense; missing {', '.join(f'N-{x}' for x in missing[:20])}"
                 + (" …" if len(missing) > 20 else ""),
             )
 
@@ -485,7 +529,7 @@ def check_related_and_retired(
         )
 
     for nid, ent in intro.items():
-        is_person = ent.node_type in PERSON_TYPES or (ent.nid < 1000 and ent.node_type not in TOPIC_BAND_TYPES)
+        is_person = ent.node_type in PERSON_TYPES or (ent.nid <= BANDS.person_max and ent.node_type not in TOPIC_BAND_TYPES)
         if not is_person:
             continue
         if nid not in claim_related:
@@ -873,7 +917,7 @@ def _person_name_index(canonical: dict[str, dict[str, Any]]) -> tuple[dict[str, 
         if not m:
             continue
         nid = int(m.group(1))
-        if nid >= 1000 and nid < PERSON_HIGH_MIN:
+        if not BANDS.is_person(nid):
             continue
         if str(meta.get("type") or "person").lower() not in PERSON_TYPES:
             continue
@@ -925,15 +969,15 @@ def check_person_like_topic(
     intro: dict[int, RegisterEntry],
     canonical: dict[str, dict[str, Any]],
 ) -> None:
-    """P1: a person minted in the topic band (N-1000..N-9999) under a non-person type."""
+    """P1: a person minted in the topic band under a non-person type."""
     full, firsts, lasts = _person_name_index(canonical)
     candidates: list[tuple[int, str, str, str]] = []
     for nid, ent in intro.items():
-        if 1000 <= nid <= TOPIC_BAND_MAX:
+        if BANDS.is_topic(nid):
             candidates.append((nid, ent.name, ent.node_type, ent.episode_file))
     for key, meta in canonical.items():
         m = re.match(r"N-(\d+)$", key)
-        if m and 1000 <= int(m.group(1)) <= TOPIC_BAND_MAX:
+        if m and BANDS.is_topic(int(m.group(1))):
             candidates.append(
                 (int(m.group(1)), str(meta.get("canonical_name") or ""), str(meta.get("type") or "").lower(), "canonical/nodes.json")
             )
@@ -947,7 +991,7 @@ def check_person_like_topic(
                 report.add(
                     "P1",
                     "person_like_topic",
-                    f"{where}: N-{nid} ({name}) is typed person in the topic band; persons live in N-1..N-999",
+                    f"{where}: N-{nid} ({name}) is typed person in the topic band; persons live in {BANDS.person_label}",
                     f"N-{nid}",
                 )
             continue  # register rows typed person are already P0 person_band
@@ -958,7 +1002,7 @@ def check_person_like_topic(
                 "P1",
                 "person_like_topic",
                 f"{where}: N-{nid} ({name}) typed {ntype or 'untyped'!r} in topic band but looks like a person ({reason}); "
-                "move into a Person hole N-1..N-999 or collapse onto the existing Person",
+                f"move into a Person hole ({BANDS.person_label}) or collapse onto the existing Person",
                 f"N-{nid}",
             )
 
@@ -1098,7 +1142,7 @@ def check_mention_grounding(
             for tok in N_ID_TOKEN_RE.finditer(mm.group(1)):
                 nid = int(tok.group(1))
                 key = f"N-{nid}"
-                if 1000 <= nid < PERSON_HIGH_MIN or key in exempt or (cid, key) in reviewed:
+                if not BANDS.is_person(nid) or key in exempt or (cid, key) in reviewed:
                     continue
                 ks = keys(nid)
                 if not ks[0] and not ks[1]:
@@ -1406,6 +1450,10 @@ def check_person_band_lock(report: PreflightReport, monument_dir: Path, canonica
     tombstoned or reserved id is reused, and no person is minted at N-1000 or above. New persons go into the
     audit triage as DEFER ("person band full, awaiting Daveed").
 
+    Capacity ruling (Daveed, 2026-10-13): when the monument's node_bands widen the person band past N-999 (CKA:
+    N-1..N-9999), next_person_id may be set and persons may be minted from N-1000 upward. Everything about the
+    pinned N-1..N-999 band below stays enforced.
+
     Fails closed:
     - For a monument with config/person_band_snapshot.json or person_band_lock.snapshot set (CKA), or the cka
       monument itself, the lock is ON
@@ -1441,12 +1489,16 @@ def check_person_band_lock(report: PreflightReport, monument_dir: Path, canonica
         else:
             return
 
+    # Capacity ruling: once node_bands widens the person band past N-999 (CKA, Daveed 2026-10-13), new persons
+    # are minted from N-1000 upward, so next_person_id may be set and persons may sit above N-999. The pinned
+    # N-1..N-999 band (no tombstone or reservation reused, no pinned id changing identity) stays enforced.
+    widened = load_node_bands(monument_dir).person_max > PERSON_BAND_MAX
     npath = monument_dir / "canonical" / "nodes.json"
     ndata, nerr = (read_json_file(npath) if npath.is_file() else (None, "missing"))
     if nerr is not None or not isinstance(ndata, dict):
         report.add("P1", "person_band_lock",
                    f"canonical/nodes.json is missing or unreadable ({nerr}); the lock fails closed", "nodes.json")
-    elif ndata.get("next_person_id") is not None:
+    elif ndata.get("next_person_id") is not None and not widened:
         report.add("P1", "person_band_lock",
                    f"canonical/nodes.json: next_person_id is {ndata.get('next_person_id')!r}; the person band is locked (full) until Daveed rules, so it must stay null",
                    "next_person_id")
@@ -1471,7 +1523,7 @@ def check_person_band_lock(report: PreflightReport, monument_dir: Path, canonica
             report.add("P1", "person_band_lock",
                        f"canonical/nodes.json: active {key} ({name}) sits on a reserved episode_000 baseline id",
                        key)
-        if str(meta.get("type", "")).lower() == "person" and n > PERSON_BAND_MAX:
+        if str(meta.get("type", "")).lower() == "person" and n > PERSON_BAND_MAX and not widened:
             report.add("P1", "person_band_lock",
                        f"canonical/nodes.json: person {key} ({name}) is at N-1000 or above; {BAND_LOCK_SCOPE} new persons are DEFER, never minted outside N-1..N-999",
                        key)
@@ -1621,7 +1673,7 @@ def _is_person_node(key: str, meta: dict[str, Any] | None, reg_types: dict[int, 
     nid = int(key[2:])
     if meta is not None and str(meta.get("type") or "").lower() == "person":
         return True
-    if nid < 1000 or nid >= PERSON_HIGH_MIN:
+    if BANDS.is_person(nid):
         return True
     return "person" in reg_types.get(nid, set())
 
@@ -1861,12 +1913,12 @@ def check_cited_before_intro(
                 nid = int(tok)
                 if nid in baseline or (nid, label) in seen:
                     continue
-                if nid >= 1000 and not strict:
+                if not BANDS.is_person(nid) and not strict:
                     continue
                 first = intro_ep.get(nid)
                 if first is not None and first > ep:
                     seen.add((nid, label))
-                    kind = "person" if nid < 1000 else "topic/org"
+                    kind = "person" if BANDS.is_person(nid) else "topic/org"
                     report.add(
                         "P0",
                         "cited_before_intro",
@@ -1891,7 +1943,7 @@ def person_name_patterns(canonical: dict[str, dict[str, Any]]) -> dict[int, list
         if not m:
             continue
         nid = int(m.group(1))
-        if nid >= 1000 and nid < PERSON_HIGH_MIN:
+        if not BANDS.is_person(nid):
             continue
         if str(meta.get("type") or "person").lower() not in PERSON_TYPES:
             continue
@@ -2308,6 +2360,9 @@ def run_preflight(
     if not monument_dir.is_dir():
         report.add("P0", "monument", f"Unknown monument directory: {monument_dir}")
         return report
+
+    global BANDS
+    BANDS = load_node_bands(monument_dir)
 
     scaffold_flag = monument_dir / "config" / "scaffold_only.json"
     drafts_dir = monument_dir / "drafts"

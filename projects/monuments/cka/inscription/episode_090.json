@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-1668"
+            "N-10668"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -52,7 +52,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-1670"
+            "N-10670"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1669"
+            "N-10669"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -108,7 +108,7 @@
             "C-2687"
           ],
           "related_nodes": [
-            "N-1672"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-1671"
+            "N-10671"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -154,7 +154,7 @@
             "C-2688"
           ],
           "related_nodes": [
-            "N-1671"
+            "N-10671"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -253,7 +253,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-1673"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -280,7 +280,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-1668"
+            "N-10668"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -308,7 +308,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1669"
+            "N-10669"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -323,8 +323,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1235",
-      "ref": "N-1235",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
@@ -338,8 +338,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1668",
-      "ref": "N-1668",
+      "@id": "N-10668",
+      "ref": "N-10668",
       "name": "Tyler Robinson Filing Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.",
@@ -362,8 +362,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1669",
-      "ref": "N-1669",
+      "@id": "N-10669",
+      "ref": "N-10669",
       "name": "Aspen Donor Inconsistency",
       "type": "investigation_target",
       "description": "Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy.",
@@ -387,8 +387,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1670",
-      "ref": "N-1670",
+      "@id": "N-10670",
+      "ref": "N-10670",
       "name": "Forensic Extraction Evidence Presentation Question",
       "type": "investigation_target",
       "description": "State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing.",
@@ -409,8 +409,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1671",
-      "ref": "N-1671",
+      "@id": "N-10671",
+      "ref": "N-10671",
       "name": "Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom",
       "type": "investigation_target",
       "description": "Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk.",
@@ -430,8 +430,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1672",
-      "ref": "N-1672",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "Charlie GPT Pitch Question",
       "type": "investigation_target",
       "description": "Admitted pre-death pitches for AI \"Charlie GPT\" product and host's open question about whether a pitch was accepted.",
@@ -452,8 +452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1673",
-      "ref": "N-1673",
+      "@id": "N-10673",
+      "ref": "N-10673",
       "name": "Lance Twiggs Federal Asset Question",
       "type": "investigation_target",
       "description": "Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship.",
@@ -667,7 +667,7 @@
         "A-1948.1"
       ],
       "related_nodes": [
-        "N-1668"
+        "N-10668"
       ],
       "tags": [],
       "claim_timestamp": "00:33:31",
@@ -705,7 +705,7 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-1670"
+        "N-10670"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08",
@@ -724,7 +724,7 @@
         "A-1949.1"
       ],
       "related_nodes": [
-        "N-1669"
+        "N-10669"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25",
@@ -744,7 +744,7 @@
         "A-1950.1"
       ],
       "related_nodes": [
-        "N-1672"
+        "N-10672"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
@@ -763,7 +763,7 @@
         "A-1951.1"
       ],
       "related_nodes": [
-        "N-1671"
+        "N-10671"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
@@ -783,7 +783,7 @@
         "A-1951.2"
       ],
       "related_nodes": [
-        "N-1671"
+        "N-10671"
       ],
       "tags": [],
       "claim_timestamp": "00:23:21",
@@ -851,7 +851,7 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-1673"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:42:44",
@@ -870,7 +870,7 @@
         "A-1956.1"
       ],
       "related_nodes": [
-        "N-1668"
+        "N-10668"
       ],
       "tags": [],
       "claim_timestamp": "00:40:19",
@@ -889,7 +889,7 @@
         "A-1957.1"
       ],
       "related_nodes": [
-        "N-1669"
+        "N-10669"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25–00:16:01",
@@ -909,8 +909,8 @@
         "A-1948.2"
       ],
       "related_nodes": [
-        "N-1670",
-        "N-1673"
+        "N-10670",
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
@@ -948,7 +948,7 @@
         "A-1955.1"
       ],
       "related_nodes": [
-        "N-1673"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:43:32",

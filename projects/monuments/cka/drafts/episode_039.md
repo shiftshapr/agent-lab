@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-471, N-474, N-475, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
+  - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-471, N-474, N-475, N-10369, N-10370, N-10371, N-10372, N-10373, N-10374, N-10375, N-10376, N-10377
   - Reused Nodes Appearing: N-1, N-37, N-66
   - (see registers)
 
@@ -35,7 +35,7 @@
 - Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488, A-2513
 - Claim Range: C-1803–C-1819, C-3718
 - New Person Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-43
-- New Investigation Target Nodes Introduced: N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
+- New Investigation Target Nodes Introduced: N-10369, N-10370, N-10371, N-10372, N-10373, N-10374, N-10375, N-10376, N-10377
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -60,7 +60,7 @@ Video Timestamp: 00:06:34–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1803, C-1804, C-1805, C-1806, C-1807, C-1808, N-463, N-464, N-466, N-467, N-468, N-474, N-475, N-1377*
+*Related: C-1803, C-1804, C-1805, C-1806, C-1807, C-1808, N-463, N-464, N-466, N-467, N-468, N-474, N-475, N-10377*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:28:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1814, N-264, N-471, N-1369, N-1371*
+*Related: C-1814, N-264, N-471, N-10369, N-10371*
 
 **A-1486.2** Testimony from two TPUSA sources that the donor prospect was French American, named Pierre
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:30:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1815, N-264, N-1369*
+*Related: C-1815, N-264, N-10369*
 
 **A-1486.3** TPUSA sources identifying the donor prospect as Pierre Dupont after host mentioned the name on the prior episode
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1816, N-264, N-471, N-1369*
+*Related: C-1816, N-264, N-471, N-10369*
 
 **A-1486.4** Proof presented by a TPUSA source of a conversation in which Tyler Bowyer discussed TPUSA plans to roll out a program to build houses for first-time home buyers
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1817, N-264, N-70, N-1372, N-37*
+*Related: C-1817, N-264, N-70, N-10372, N-37*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:37:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1818, N-1370*
+*Related: C-1818, N-10370*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:33:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1819, N-1373, N-1376*
+*Related: C-1819, N-10373, N-10376*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:03:44–00:04:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3718, N-462, N-1079*
+*Related: C-3718, N-462, N-10079*
 
 ---
 
@@ -234,7 +234,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-3718, N-1079*
+*Related: C-3718, N-10079*
 
 **N-464** Robert H. Richards III
 
@@ -245,7 +245,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1805, N-463, N-1374, N-1377*
+*Related: A-1480.1, C-1805, N-463, N-10374, N-10377*
 
 **N-463** Robert Richards IV
 
@@ -256,7 +256,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1803, C-1804, C-1805, C-1806, N-464, N-475, N-1377*
+*Related: A-1480.1, C-1803, C-1804, C-1805, C-1806, N-464, N-475, N-10377*
 
 **N-475** Judge Jan Jordan
 
@@ -278,7 +278,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1807, N-474, N-1377*
+*Related: A-1480.1, C-1807, N-474, N-10377*
 
 **N-474** David Schultz
 
@@ -300,7 +300,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1808, N-468, N-1377*
+*Related: A-1480.1, C-1808, N-468, N-10377*
 
 **N-468** Christopher Mosley
 
@@ -311,7 +311,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1480.1, C-1808, N-467, N-1377*
+*Related: A-1480.1, C-1808, N-467, N-10377*
 
 **N-264** Stacy Sheridan
 
@@ -322,7 +322,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-70, N-1372, N-1375, N-37*
+*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-70, N-10372, N-10375, N-37*
 
 **N-471** Tyler Bowyer's brother (unnamed)
 
@@ -333,7 +333,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-70, N-1372, N-37*
+*Related: N-70, N-10372, N-37*
 
 **N-272** Mikey McCoy
 
@@ -368,7 +368,7 @@ Investigative Pressure: Low
 
 *Related: N-1*
 
-**N-1369** Pierre Dupont Donor Identity Verification Question
+**N-10369** Pierre Dupont Donor Identity Verification Question
 
 Persistent target: whether the "French-American Pierre" referenced by TPUSA sources is Pierre Dupont, and the nature of his reported donor relationship with TPUSA.
 
@@ -379,7 +379,7 @@ Investigative Pressure: High
 
 *Related: A-1486.1, A-1486.2, A-1486.3, C-1815, C-1816, N-264*
 
-**N-1370** TPUSA Egyptian Plane Story Suppression Attempt
+**N-10370** TPUSA Egyptian Plane Story Suppression Attempt
 
 Per federal source, TPUSA allegedly placed personal request to kill the Egyptian plane story.
 
@@ -390,7 +390,7 @@ Investigative Pressure: Medium
 
 *Related: A-1487.1, C-1818*
 
-**N-1371** Justin Strife Post-Assassination Phone Call
+**N-10371** Justin Strife Post-Assassination Phone Call
 
 Six TPUSA sources reported rumor that Strife placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.
 
@@ -401,7 +401,7 @@ Investigative Pressure: High
 
 *Related: A-1486.1, C-1814, N-43*
 
-**N-1372** TPUSA Real Estate Program Allegation
+**N-10372** TPUSA Real Estate Program Allegation
 
 Per source testimony with supporting proof, Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.
 
@@ -412,7 +412,7 @@ Investigative Pressure: Medium
 
 *Related: A-1486.4, C-1817, N-264, N-471, N-70, N-37*
 
-**N-1373** BB Net/Yahoo Offer to TPUSA
+**N-10373** BB Net/Yahoo Offer to TPUSA
 
 Per host narrative (not artifact-anchored), BB Net and Yahoo allegedly offered to take TPUSA to the next level in exchange for unspecified consideration; Charlie allegedly declined. Andrew Kolvet tip indirectly references "BB." Identity of BB unverified.
 
@@ -423,7 +423,7 @@ Investigative Pressure: Medium
 
 *Related: A-1488.1, N-1*
 
-**N-1374** Richards Layton & Finger Connection to Candace Lawsuit
+**N-10374** Richards Layton & Finger Connection to Candace Lawsuit
 
 Per host, the law firm whose retired founding partner is DuPont family (Robert H. Richards III) is the firm filing paperwork in Candace's McRonone lawsuit. Requires verification.
 
@@ -434,7 +434,7 @@ Investigative Pressure: Medium
 
 *Related: A-1480.1, N-464*
 
-**N-1375** Stacy Sheridan Registered Agent and LLC Question
+**N-10375** Stacy Sheridan Registered Agent and LLC Question
 
 Per host (not artifact-anchored), Stacy Sheridan's registered agent is at 919 North Market Street, Wilmington (same building as Brijit Lawyers); relevant LLC named as Cloverstone Ventures. Verification pending.
 
@@ -445,7 +445,7 @@ Investigative Pressure: Medium
 
 *Related: N-264*
 
-**N-1376** Andrew Kolvet "Lost Millions" Tip Verification
+**N-10376** Andrew Kolvet "Lost Millions" Tip Verification
 
 Per written tip from Andrew Kolvet family friend, Andrew stated Charlie lost millions by declining BB's offer. Andrew Kolvet described as acting "weird" per tipster.
 
@@ -454,9 +454,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1488.1, C-1819, N-1373*
+*Related: A-1488.1, C-1819, N-10373*
 
-**N-1377** DuPont Family Pattern of Crimes
+**N-10377** DuPont Family Pattern of Crimes
 
 Aggregating pattern: Richards IV rape conviction with no prison; John DuPont murder of David Schultz; Lisa Dean DuPont / Mosley murder for hire of Vegas prostitute.
 
@@ -499,7 +499,7 @@ Claim: Robert Richards IV was convicted in 2009 of raping his three-year-old dau
 Anchored Artifacts: A-1480.1
 Mentions: N-463
 
-Related Nodes: N-1377
+Related Nodes: N-10377
 
 Investigative Direction: Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.
 
@@ -514,7 +514,7 @@ Claim: Judge Jan Jordan ruled that Robert Richards IV would benefit from treatme
 Anchored Artifacts: A-1480.1
 Mentions: N-463, N-475
 
-Related Nodes: N-1377
+Related Nodes: N-10377
 
 Investigative Direction: Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling.
 
@@ -529,7 +529,7 @@ Claim: Robert H. Richards III, father of Robert Richards IV, is identified in th
 Anchored Artifacts: A-1480.1
 Mentions: N-463, N-464
 
-Related Nodes: N-1374
+Related Nodes: N-10374
 
 Investigative Direction: Cross-reference firm partnership records and Richards family genealogy.
 
@@ -544,7 +544,7 @@ Claim: Robert Richards IV also admitted to sexually assaulting his infant son an
 Anchored Artifacts: A-1480.1
 Mentions: N-463
 
-Related Nodes: N-1377
+Related Nodes: N-10377
 
 Investigative Direction: Obtain the plea agreement and original charging documents.
 
@@ -559,7 +559,7 @@ Claim: John DuPont shot Olympic wrestler David Schultz dead in the driveway of t
 Anchored Artifacts: A-1480.1
 Mentions: N-466, N-474
 
-Related Nodes: N-1377
+Related Nodes: N-10377
 
 Investigative Direction: Confirm against public court records of the John DuPont criminal case.
 
@@ -574,7 +574,7 @@ Claim: Per Vanity Fair, Lisa Dean DuPont and her husband Christopher Mosley orde
 Anchored Artifacts: A-1480.1
 Mentions: N-467, N-468
 
-Related Nodes: N-1377
+Related Nodes: N-10377
 
 Investigative Direction: Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.
 
@@ -660,7 +660,7 @@ Claim: Six people at Turning Point USA reported that Justin Strife placed an imm
 Anchored Artifacts: A-1486.1
 Mentions: N-43, N-1
 
-Related Nodes: N-1369, N-1371
+Related Nodes: N-10369, N-10371
 
 Investigative Direction: Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.
 
@@ -675,7 +675,7 @@ Claim: Two TPUSA sources told host the donor prospect was French American and na
 Anchored Artifacts: A-1486.2
 Mentions:
 
-Related Nodes: N-1369
+Related Nodes: N-10369
 
 Investigative Direction: Obtain the underlying communications with the named TPUSA sources.
 
@@ -690,7 +690,7 @@ Claim: After host mentioned "Pierre Dupont" on Episode 38, the same TPUSA source
 Anchored Artifacts: A-1486.3
 Mentions:
 
-Related Nodes: N-1369
+Related Nodes: N-10369
 
 Investigative Direction: Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.
 
@@ -705,7 +705,7 @@ Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA
 Anchored Artifacts: A-1486.4
 Mentions: N-37, N-471
 
-Related Nodes: N-1372
+Related Nodes: N-10372
 
 Investigative Direction: Obtain the supporting proof documentation and any internal TPUSA planning materials.
 
@@ -719,7 +719,7 @@ Claim: A federal source told host that Turning Point USA put in a personal reque
 
 Anchored Artifacts: A-1487.1
 
-Related Nodes: N-1370
+Related Nodes: N-10370
 
 Investigative Direction: Identify the federal source and corroborate with any contemporaneous communications.
 
@@ -734,7 +734,7 @@ Claim: A close family friend of Andrew Kolvet, in a written tip to host, said th
 Anchored Artifacts: A-1488.1
 Mentions: N-42
 
-Related Nodes: N-1373, N-1376
+Related Nodes: N-10373, N-10376
 
 Investigative Direction: Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration.
 
@@ -760,7 +760,7 @@ Claim: Candace states that the FBI was founded by Charles Joseph Bonaparte, whos
 Transcript Snippet: did you know that our FBI was founded by Charles Joseph Bonapart?
 Anchored Artifacts: A-2513.1
 Mentions: N-3, N-462
-Related Nodes: N-1079
+Related Nodes: N-10079
 Investigative Direction: Check Bonaparte's role as Attorney General in creating the Bureau of Investigation (1908) against Justice Department records.
 
 ---
@@ -799,7 +799,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use global people ledger (N-462 onward)
-- [x] Non-person investigation targets use 1000 series (N-1369 onward)
+- [x] Non-person investigation targets use 1000 series (N-10369 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly where appearing; uncertainty flagged
 - [x] Formatting consistent with protocol

@@ -504,7 +504,7 @@
           "description": "YouTube comment by \"Oh Seven Sheets\" praising the show",
           "related_claims": [],
           "related_nodes": [
-            "N-1235",
+            "N-10235",
             "N-46"
           ],
           "tags": [],
@@ -544,8 +544,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1235",
-      "ref": "N-1235",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
@@ -686,8 +686,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1071",
-      "ref": "N-1071",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Fox News",
       "type": "organization",
       "description": "Network where Netanyahu appeared twice within 24 hours of Kirk's death.",
@@ -703,8 +703,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-2389",
-      "ref": "N-2389",
+      "@id": "N-11389",
+      "ref": "N-11389",
       "name": "New York Post",
       "type": "organization",
       "description": "Published profile article on Candace Owens referenced in episode.",
@@ -1142,7 +1142,7 @@
         "A-2433.2"
       ],
       "related_nodes": [
-        "N-2389"
+        "N-11389"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",
@@ -1162,7 +1162,7 @@
         "A-2433.3"
       ],
       "related_nodes": [
-        "N-1071"
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",

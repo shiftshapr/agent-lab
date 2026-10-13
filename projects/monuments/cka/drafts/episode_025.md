@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-326, N-330, N-331, N-334, N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
+  - New Nodes Introduced:  N-326, N-330, N-331, N-334, N-10288, N-10289, N-10290, N-10291, N-10292, N-10293
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -32,7 +32,7 @@
   - Artifact Families Introduced: A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
   - Claim Range: C-1584–C-1597
   - New People Nodes Introduced: N-272, N-45, N-326, N-50, N-68, N-293, N-330, N-331, N-259, N-71, N-334
-  - New Investigation Target Nodes Introduced: N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
+  - New Investigation Target Nodes Introduced: N-10288, N-10289, N-10290, N-10291, N-10292, N-10293
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -55,7 +55,7 @@ Video Timestamp: 00:02:42–00:05:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1584, C-1585, N-272, N-45, N-1288*
+*Related: C-1584, C-1585, N-272, N-45, N-10288*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:05:23–00:07:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1585, N-45, N-272, N-2, N-1288*
+*Related: C-1585, N-45, N-272, N-2, N-10288*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:10:01–00:10:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1586, N-272, N-1289*
+*Related: C-1586, N-272, N-10289*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1587, N-326, N-272, N-1, N-2, N-1289*
+*Related: C-1587, N-326, N-272, N-1, N-2, N-10289*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1588, N-45, N-330, N-1290*
+*Related: C-1588, N-45, N-330, N-10290*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:17:57–00:19:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1589, N-331, N-1291*
+*Related: C-1589, N-331, N-10291*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:15:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (underlying listing not displayed)
 
-*Related: C-1590, N-45, N-1290*
+*Related: C-1590, N-45, N-10290*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (tweet content captured via host read-aloud)
 
-*Related: C-1594, N-334, N-1292*
+*Related: C-1594, N-334, N-10292*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:41:52–00:43:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-source assertion; primary documentation not shown)
 
-*Related: C-1593, N-71, N-1293*
+*Related: C-1593, N-71, N-10293*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:46:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (AI-generated; secondary)
 
-*Related: C-1595, N-1292*
+*Related: C-1595, N-10292*
 
 ---
 
@@ -224,7 +224,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-45, N-326, N-1, N-2, N-1288, N-1289*
+*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-45, N-326, N-1, N-2, N-10288, N-10289*
 
 ---
 
@@ -237,7 +237,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-272, N-330, N-1290*
+*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-272, N-330, N-10290*
 
 ---
 
@@ -250,7 +250,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1324.1, C-1587, N-272, N-1289*
+*Related: A-1324.1, C-1587, N-272, N-10289*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1325.1, C-1588, N-45, N-1290*
+*Related: A-1325.1, C-1588, N-45, N-10290*
 
 ---
 
@@ -315,7 +315,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1326.1, C-1589, N-1291*
+*Related: A-1326.1, C-1589, N-10291*
 
 ---
 
@@ -328,7 +328,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1291*
+*Related: N-10291*
 
 ---
 
@@ -341,7 +341,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1331.1, C-1593, N-1293*
+*Related: A-1331.1, C-1593, N-10293*
 
 ---
 
@@ -354,11 +354,11 @@ Claim Count: 0 (tweet does not specifically anchor 12-cell-phone claim)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1330.1, N-1292*
+*Related: A-1330.1, N-10292*
 
 ---
 
-**N-1288** McCoy Succession Plan
+**N-10288** McCoy Succession Plan
 
 Persistent target: whether, by whom, and through what mechanism Mikey McCoy was being positioned as Charlie Kirk's institutional successor; encompasses journal-based framing, adjectival praise pattern, and post-9/10 speaking-platform assignments.
 
@@ -371,7 +371,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1289** Mikey McCoy Pre-Death Documentation Pattern
+**N-10289** Mikey McCoy Pre-Death Documentation Pattern
 
 Persistent target: the anomalous onset of Mikey McCoy's personal behind-the-scenes documentation of Charlie Kirk in the weeks preceding 9/10, including first-time micing on the Korea trip and first-time family-trip footage captured on the joint McCoy-Kirk vacation.
 
@@ -384,7 +384,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1290** Rob McCoy Relocation and Timing Pattern
+**N-10290** Rob McCoy Relocation and Timing Pattern
 
 Persistent target: the convergence of Rob McCoy's pastoral transition (mid-July 2025), Phoenix relocation, and Coronado property listing (August 24, 2025) in the period preceding 9/10.
 
@@ -397,7 +397,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1291** UVU Event Application Anomaly
+**N-10291** UVU Event Application Anomaly
 
 Persistent target: the late (mid-July) submission of the 9/10 event application by UVU's TPUSA chapter, its rapid acceptance as "stop number one," the absence of a standard police-protection question on the form, and UVU's subsequent denial of the security plan.
 
@@ -410,7 +410,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1292** Israeli Cell Phone Presence on 9/10
+**N-10292** Israeli Cell Phone Presence on 9/10
 
 Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.
 
@@ -423,7 +423,7 @@ Investigative Pressure: High (claim prominence) / Low (artifact strength)
 
 ---
 
-**N-1293** George Zinn Hospital Payment Claim
+**N-10293** George Zinn Hospital Payment Claim
 
 Persistent target: verification of George Zinn's alleged hospital statement (paid to disrupt, unknown payment source) and its provenance.
 
@@ -447,7 +447,7 @@ Claim: Memorial service speakers repeatedly characterized Mikey McCoy with adjec
 Anchored Artifacts: A-1321.1
 Mentions: N-45, N-272, N-1
 
-Related Nodes: N-1288
+Related Nodes: N-10288
 
 Investigative Direction: Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.
 
@@ -462,7 +462,7 @@ Claim: On Faith Forward Show, Rob McCoy referenced Charlie Kirk's journaled succ
 Anchored Artifacts: A-1322.1
 Mentions: N-2, N-45, N-272, N-1
 
-Related Nodes: N-1288
+Related Nodes: N-10288
 
 Investigative Direction: Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals.
 
@@ -477,7 +477,7 @@ Claim: Mikey McCoy stated on camera that the Asia/Korea trip – which he descri
 Anchored Artifacts: A-1323.1
 Mentions: N-272, N-1
 
-Related Nodes: N-1289
+Related Nodes: N-10289
 
 Investigative Direction: Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary.
 
@@ -492,7 +492,7 @@ Claim: Eliza McCoy's Instagram post states that the McCoy-Kirk joint trip was "o
 Anchored Artifacts: A-1324.1
 Mentions: N-1, N-2, N-272, N-326
 
-Related Nodes: N-1289
+Related Nodes: N-10289
 
 Investigative Direction: Verify Eliza McCoy's Instagram post metadata for date and context; cross-reference against the McCoy-Kirk trip timeline to confirm whether footage (including the "sweet moment" viral clip) was captured during this specific trip.
 
@@ -507,7 +507,7 @@ Claim: Per Ventura County Star, Rob McCoy was scheduled to step down as senior p
 Anchored Artifacts: A-1325.1
 Mentions: N-45, N-330
 
-Related Nodes: N-1290
+Related Nodes: N-10290
 
 Investigative Direction: Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records.
 
@@ -522,7 +522,7 @@ Claim: Per Fox 13 News (Nate Carile), UVU's Turning Point USA chapter submitted 
 Anchored Artifacts: A-1326.1
 Mentions: N-331
 
-Related Nodes: N-1291
+Related Nodes: N-10291
 
 Investigative Direction: File records requests for the full UVU event application, security plan, and any internal communications between UVU and TPUSA; compare against standard UVU event application forms for the 2024–2025 academic year.
 
@@ -537,7 +537,7 @@ Claim: Per host's stated confirmation, Rob McCoy placed his Coronado (near San D
 Anchored Artifacts: A-1327.1
 Mentions: N-45
 
-Related Nodes: N-1290
+Related Nodes: N-10290
 
 Investigative Direction: Verify via Zillow/Redfin/realtor.com listing records for August 24, 2025; cross-reference ownership records with Rob McCoy's name and prior Coronado property references.
 
@@ -580,7 +580,7 @@ Claim: Per host's source statement, George Zinn presented at Utah Valley Hospita
 Anchored Artifacts: A-1331.1
 Mentions: N-71
 
-Related Nodes: N-1293
+Related Nodes: N-10293
 
 Investigative Direction: Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities.
 
@@ -595,7 +595,7 @@ Claim: Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmatio
 Anchored Artifacts: A-1330.1 (peripheral – Milo tweet on denial), host on-air confirmation statement
 Mentions: N-334, N-102
 
-Related Nodes: N-1292
+Related Nodes: N-10292
 
 Investigative Direction: Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure.
 
@@ -609,7 +609,7 @@ Claim: Per Grock (xAI) response read aloud by the host, Israel and Egypt coordin
 
 Anchored Artifacts: A-1332.1
 
-Related Nodes: N-1292
+Related Nodes: N-10292
 
 Investigative Direction: Independently verify against academic and government sources on Israeli-Egyptian intelligence cooperation; note that AI-generated responses are secondary sources requiring independent corroboration.
 
@@ -654,5 +654,5 @@ Confidence: high
 - **Artifact Families Introduced:** A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
 - **Claim Range:** C-1584–C-1595
 - **New People Nodes Introduced:** N-272, N-45, N-326, N-50, N-68, N-293, N-330, N-331, N-259, N-71, N-334
-- **New Investigation Target Nodes Introduced:** N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
+- **New Investigation Target Nodes Introduced:** N-10288, N-10289, N-10290, N-10291, N-10292, N-10293
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)

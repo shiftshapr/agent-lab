@@ -34,7 +34,7 @@
             "N-69",
             "N-183",
             "N-200",
-            "N-1218"
+            "N-10218"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
           "related_nodes": [
             "N-69",
             "N-71",
-            "N-1223"
+            "N-10223"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -134,7 +134,7 @@
           ],
           "related_nodes": [
             "N-191",
-            "N-1220"
+            "N-10220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-192",
-            "N-1220"
+            "N-10220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,7 +172,7 @@
           ],
           "related_nodes": [
             "N-193",
-            "N-1220"
+            "N-10220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-1220"
+            "N-10220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,7 +346,7 @@
           ],
           "related_nodes": [
             "N-194",
-            "N-1223"
+            "N-10223"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,7 +420,7 @@
             "C-1351"
           ],
           "related_nodes": [
-            "N-1218"
+            "N-10218"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -520,7 +520,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1220"
+        "N-10220"
       ]
     },
     {
@@ -542,7 +542,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1220",
+        "N-10220",
         "N-1"
       ]
     },
@@ -565,7 +565,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1220"
+        "N-10220"
       ]
     },
     {
@@ -587,7 +587,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1218"
+        "N-10218"
       ]
     },
     {
@@ -701,13 +701,13 @@
       "related_nodes": [
         "N-183",
         "N-69",
-        "N-1218"
+        "N-10218"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1218",
-      "ref": "N-1218",
+      "@id": "N-10218",
+      "ref": "N-10218",
       "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
       "type": "investigation_target",
       "description": "Persistent target referenced across host reporting, anonymous tip, and Shainer Broadick footage; the FBI has not, per host, publicly identified or released her.",
@@ -731,8 +731,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1219",
-      "ref": "N-1219",
+      "@id": "N-10219",
+      "ref": "N-10219",
       "name": "\"Robbie Hild\" Identity Verification",
       "type": "investigation_target",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
@@ -748,8 +748,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1220",
-      "ref": "N-1220",
+      "@id": "N-10220",
+      "ref": "N-10220",
       "name": "Case-Personnel Cluster Anomalies",
       "type": "investigation_target",
       "description": "Composite target covering the simultaneous arrival of new senior figures (FBI SAC \"Robert BS,\" hospital CEO/surgeon Andrew Zanger, Judge Tony F. Graph Jr., unnamed new coroner) onto the case.",
@@ -772,8 +772,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1221",
-      "ref": "N-1221",
+      "@id": "N-10221",
+      "ref": "N-10221",
       "name": "Autopsy Record – Utah Privacy Statute Application",
       "type": "investigation_target",
       "description": "Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.",
@@ -795,8 +795,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1222",
-      "ref": "N-1222",
+      "@id": "N-10222",
+      "ref": "N-10222",
       "name": "Hospital Routing Anomaly",
       "type": "investigation_target",
       "description": "Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1223",
-      "ref": "N-1223",
+      "@id": "N-10223",
+      "ref": "N-10223",
       "name": "TPUSA Faith Packet / Israel References Claim",
       "type": "investigation_target",
       "description": "Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.",
@@ -976,8 +976,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "Mike Mitchell Undercover Role Verification",
       "type": "investigation_target",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
@@ -1002,7 +1002,7 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-1218"
+        "N-10218"
       ],
       "tags": [],
       "claim_timestamp": "00:00:49",
@@ -1058,7 +1058,7 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-1218"
+        "N-10218"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
@@ -1082,8 +1082,8 @@
         "A-1199.4"
       ],
       "related_nodes": [
-        "N-1220",
-        "N-1222"
+        "N-10220",
+        "N-10222"
       ],
       "tags": [],
       "claim_timestamp": "00:04:53",
@@ -1104,7 +1104,7 @@
       "claim": "Despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1221"
+        "N-10221"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -1121,7 +1121,7 @@
       "claim": "Under Utah law, autopsy reports are kept private; only the immediate family's request can compel public release.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1221"
+        "N-10221"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -1320,7 +1320,7 @@
       "claim": "The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his \"uncle Mikey\", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1217"
+        "N-10217"
       ],
       "tags": [],
       "claim_timestamp": "00:17:50",

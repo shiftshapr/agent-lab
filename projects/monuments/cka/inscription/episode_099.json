@@ -104,7 +104,7 @@
             "C-2862"
           ],
           "related_nodes": [
-            "N-2392"
+            "N-11392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
             "C-2866"
           ],
           "related_nodes": [
-            "N-2392"
+            "N-11392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -503,8 +503,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1732",
-      "ref": "N-1732",
+      "@id": "N-10732",
+      "ref": "N-10732",
       "name": "Salem Media Foreign Agent Registration Status",
       "type": "investigation_target",
       "description": "Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.",
@@ -526,13 +526,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1737"
+        "N-10737"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1733",
-      "ref": "N-1733",
+      "@id": "N-10733",
+      "ref": "N-10733",
       "name": "Josh Hammer Show Audience Anomaly",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.",
@@ -549,13 +549,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-86",
-        "N-1732"
+        "N-10732"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1734",
-      "ref": "N-1734",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "Pam Bondi Foreign Influence Task Force Disbanding",
       "type": "investigation_target",
       "description": "February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.",
@@ -574,13 +574,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-120",
-        "N-1737"
+        "N-10737"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1735",
-      "ref": "N-1735",
+      "@id": "N-10735",
+      "ref": "N-10735",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had \"no neck left,\" and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.",
@@ -594,8 +594,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1736",
-      "ref": "N-1736",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
       "type": "investigation_target",
       "description": "Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.",
@@ -620,8 +620,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1737",
-      "ref": "N-1737",
+      "@id": "N-10737",
+      "ref": "N-10737",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.",
@@ -651,14 +651,14 @@
       "related_nodes": [
         "N-120",
         "N-62",
-        "N-1732",
-        "N-1734"
+        "N-10732",
+        "N-10734"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1738",
-      "ref": "N-1738",
+      "@id": "N-10738",
+      "ref": "N-10738",
       "name": "Mikey McCoy Witness Reliability Question",
       "type": "investigation_target",
       "description": "Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible \"weak link\" among Kirk's inner circle.",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-2392",
-      "ref": "N-2392",
+      "@id": "N-11392",
+      "ref": "N-11392",
       "name": "Havas Media",
       "type": "organization",
       "description": "French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it \"Habas Media\" at 16:50 and 36:54.",
@@ -989,8 +989,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1737",
-        "N-2392"
+        "N-10737",
+        "N-11392"
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
@@ -1007,7 +1007,7 @@
         "A-2048.2"
       ],
       "related_nodes": [
-        "N-1737"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
@@ -1024,9 +1024,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1732",
-        "N-1737",
-        "N-2392"
+        "N-10732",
+        "N-10737",
+        "N-11392"
       ],
       "tags": [],
       "claim_timestamp": "00:15:34",
@@ -1042,7 +1042,7 @@
         "A-2049.1"
       ],
       "related_nodes": [
-        "N-1732"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -1061,7 +1061,7 @@
         "A-2049.2"
       ],
       "related_nodes": [
-        "N-1732"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -1078,7 +1078,7 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1732"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -1097,7 +1097,7 @@
         "A-2050.1"
       ],
       "related_nodes": [
-        "N-1733"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:24:59",
@@ -1116,7 +1116,7 @@
         "A-2051.1"
       ],
       "related_nodes": [
-        "N-1732"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:31:21",
@@ -1136,7 +1136,7 @@
         "A-2051.1"
       ],
       "related_nodes": [
-        "N-1732"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:32:23",
@@ -1157,8 +1157,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1734",
-        "N-1737"
+        "N-10734",
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:34:17",
@@ -1178,7 +1178,7 @@
         "A-2053.1"
       ],
       "related_nodes": [
-        "N-1734"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:34:17",
@@ -1197,7 +1197,7 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1737"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -1216,9 +1216,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1732",
-        "N-1737",
-        "N-2392"
+        "N-10732",
+        "N-10737",
+        "N-11392"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -1253,8 +1253,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-1732",
-        "N-1737"
+        "N-10732",
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -1273,7 +1273,7 @@
         "A-2055.1"
       ],
       "related_nodes": [
-        "N-1737"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:39:40",
@@ -1289,7 +1289,7 @@
         "A-2056.1"
       ],
       "related_nodes": [
-        "N-1736"
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:47:29",
@@ -1309,7 +1309,7 @@
         "A-2056.1"
       ],
       "related_nodes": [
-        "N-1736"
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:47:29",
@@ -1328,7 +1328,7 @@
         "A-2057.1"
       ],
       "related_nodes": [
-        "N-1736"
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:48:28",
@@ -1403,7 +1403,7 @@
         "A-2061.1"
       ],
       "related_nodes": [
-        "N-1738"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:57:03",

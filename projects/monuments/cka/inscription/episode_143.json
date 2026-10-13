@@ -325,8 +325,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2207",
-      "ref": "N-2207",
+      "@id": "N-11207",
+      "ref": "N-11207",
       "name": "Terrell SD Card-to-Laptop Transfer Sequence",
       "type": "investigation_target",
       "description": "Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.",
@@ -348,8 +348,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2208",
-      "ref": "N-2208",
+      "@id": "N-11208",
+      "ref": "N-11208",
       "name": "Yellow Camera Floor Position Event",
       "type": "investigation_target",
       "description": "Persistent investigable discrepancy: the audience-facing yellow camera fell to the ground post-event and was stepped over rather than retrieved, despite the stated narrative of securing all SD cards.",
@@ -431,7 +431,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-2207"
+        "N-11207"
       ],
       "tags": [],
       "claim_timestamp": "00:08:42",
@@ -451,7 +451,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-2207"
+        "N-11207"
       ],
       "tags": [],
       "claim_timestamp": "00:09:43",
@@ -472,7 +472,7 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-2208"
+        "N-11208"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
@@ -493,7 +493,7 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-2208"
+        "N-11208"
       ],
       "tags": [],
       "claim_timestamp": "00:13:38",
@@ -623,7 +623,7 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-2207"
+        "N-11207"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",

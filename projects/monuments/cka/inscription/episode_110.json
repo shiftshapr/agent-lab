@@ -37,9 +37,9 @@
             "C-2934"
           ],
           "related_nodes": [
-            "N-2066",
-            "N-2067",
-            "N-2068",
+            "N-11066",
+            "N-11067",
+            "N-11068",
             "N-57"
           ],
           "tags": [],
@@ -65,11 +65,11 @@
           "related_nodes": [
             "N-2",
             "N-42",
-            "N-2069",
-            "N-2070",
-            "N-2071",
-            "N-2072",
-            "N-2073"
+            "N-11069",
+            "N-11070",
+            "N-11071",
+            "N-11072",
+            "N-11073"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -101,8 +101,8 @@
             "C-2920"
           ],
           "related_nodes": [
-            "N-2067",
-            "N-2068"
+            "N-11067",
+            "N-11068"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -129,7 +129,7 @@
             "C-2922"
           ],
           "related_nodes": [
-            "N-2068"
+            "N-11068"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -159,8 +159,8 @@
             "C-2913"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-2066"
+            "N-10207",
+            "N-11066"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-2923"
           ],
           "related_nodes": [
-            "N-2069"
+            "N-11069"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
           "description": "Local media article about Nebraska–Egypt trade and investment trip",
           "related_claims": [],
           "related_nodes": [
-            "N-2070"
+            "N-11070"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-2073"
+            "N-11073"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -304,8 +304,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2066",
-      "ref": "N-2066",
+      "@id": "N-11066",
+      "ref": "N-11066",
       "name": "Boston Consulting Group Government Pipeline",
       "type": "investigation_target",
       "description": "Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity (\"who are they consulting for?\").",
@@ -327,8 +327,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2067",
-      "ref": "N-2067",
+      "@id": "N-11067",
+      "ref": "N-11067",
       "name": "Project Aurora Verification",
       "type": "investigation_target",
       "description": "Persistent investigation target: BCG consulting contract with GHF; relocation models for Palestinians; total $2.5–5B; two dismissed partners; CEO statement.",
@@ -352,8 +352,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2068",
-      "ref": "N-2068",
+      "@id": "N-11068",
+      "ref": "N-11068",
       "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
       "type": "investigation_target",
       "description": "Persistent investigation target: BCG built the foundation's logistics; Johnny Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as \"killing fields\"; Phil Riley / Orbis / Tacit Institute connection.",
@@ -379,8 +379,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2069",
-      "ref": "N-2069",
+      "@id": "N-11069",
+      "ref": "N-11069",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
       "type": "investigation_target",
       "description": "Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansel; Palantir $10B stationing; Brian Harpole alleged presence.",
@@ -397,13 +397,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1207"
+        "N-10207"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2070",
-      "ref": "N-2070",
+      "@id": "N-11070",
+      "ref": "N-11070",
       "name": "Egyptian Military Aircraft Shuttle Pattern",
       "type": "investigation_target",
       "description": "Persistent investigation target: recurring transponder-off patterns on Egyptian planes (e.g., SUBTU/SUBTV) shuttling from Cairo via Paris to US destinations, coinciding with Israeli military inflection points (October 7, 2023; Operation True Promise April 2024; June 2025 Provo appearance; Wilmington on assassination day).",
@@ -420,8 +420,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2071",
-      "ref": "N-2071",
+      "@id": "N-11071",
+      "ref": "N-11071",
       "name": "Hamptons August 5–7 Intervention Event",
       "type": "investigation_target",
       "description": "Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megan Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.",
@@ -437,8 +437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2072",
-      "ref": "N-2072",
+      "@id": "N-11072",
+      "ref": "N-11072",
       "name": "June 18 White House Meeting on Iran Involvement",
       "type": "investigation_target",
       "description": "Persistent investigation target: per host (confirmed by Brett Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.",
@@ -457,8 +457,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2073",
-      "ref": "N-2073",
+      "@id": "N-11073",
+      "ref": "N-11073",
       "name": "Turning Point UVU Event Submission Chain",
       "type": "investigation_target",
       "description": "Persistent investigation target: July 18, 2025 TPUSA submission for Charlie Kirk UVU event; host asserts this is unusually late in the tour cycle and has not been independently confirmed; submitting student requestor unknown.",
@@ -678,7 +678,7 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-2066"
+        "N-11066"
       ],
       "tags": [],
       "claim_timestamp": "00:13:30",
@@ -732,7 +732,7 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-2066"
+        "N-11066"
       ],
       "tags": [],
       "claim_timestamp": "00:14:00",
@@ -752,7 +752,7 @@
         "A-2079.1"
       ],
       "related_nodes": [
-        "N-2066"
+        "N-11066"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10",
@@ -771,8 +771,8 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067",
-        "N-2068"
+        "N-11067",
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
@@ -789,7 +789,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067"
+        "N-11067"
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
@@ -806,7 +806,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067"
+        "N-11067"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -823,7 +823,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067"
+        "N-11067"
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
@@ -840,7 +840,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067"
+        "N-11067"
       ],
       "tags": [],
       "claim_timestamp": "00:17:10",
@@ -857,7 +857,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067"
+        "N-11067"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
@@ -876,7 +876,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2067"
+        "N-11067"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
@@ -896,7 +896,7 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-2068"
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:20:00",
@@ -916,7 +916,7 @@
         "A-2078.1"
       ],
       "related_nodes": [
-        "N-2068"
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:20:00",
@@ -936,7 +936,7 @@
         "A-2077.1"
       ],
       "related_nodes": [
-        "N-2068"
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
@@ -955,7 +955,7 @@
         "A-2080.1"
       ],
       "related_nodes": [
-        "N-2069"
+        "N-11069"
       ],
       "tags": [],
       "claim_timestamp": "00:34:20",
@@ -1024,7 +1024,7 @@
         "A-2076.2"
       ],
       "related_nodes": [
-        "N-2072"
+        "N-11072"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1044,7 +1044,7 @@
         "A-2084.1"
       ],
       "related_nodes": [
-        "N-2073"
+        "N-11073"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
@@ -1063,7 +1063,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-2066"
+        "N-11066"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -1083,7 +1083,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-2066"
+        "N-11066"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -1104,7 +1104,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-2068"
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -1123,7 +1123,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-2068"
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -1140,7 +1140,7 @@
         "A-2076.1"
       ],
       "related_nodes": [
-        "N-2068"
+        "N-11068"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",

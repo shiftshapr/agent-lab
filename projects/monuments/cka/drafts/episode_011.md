@@ -12,7 +12,7 @@
 e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-176, N-177, N-179, N-180, N-181, N-1207, N-1208, N-1209, N-1210, N-1211
+  - New Nodes Introduced: N-176, N-177, N-179, N-180, N-181, N-10207, N-10208, N-10209, N-10210, N-10211
   - Reused Nodes Appearing: 
 - Episode Number: Monument Ep 11 (Batch 1), N-37
 - Channel / Creator: Candace Owens (@RealCandaceO)
@@ -25,7 +25,7 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
   - Artifact Families Introduced: A-1171, A-1172, A-1173, A-1174, A-1175, A-1176, A-1177, A-1178, A-1179, A-1180, A-1181, A-1182
   - Claim Range: C-1297–C-1320
   - New Nodes Introduced (people): N-176, N-177, N-92, N-179, N-180, N-181
-  - New Nodes Introduced (investigation targets): N-1207, N-1208, N-1209, N-1210, N-1211
+  - New Nodes Introduced (investigation targets): N-10207, N-10208, N-10209, N-10210, N-10211
   - Existing Nodes Reused: Tyler Robinson, Nate Brooksby, Lance, Tiffany Peterson Barker, Lance's family, Robinson family, Governor Cox, Taylor Hansen, Tyler Bowyer (Turning Point USA), Max Blumenthal, "Shamway" neighbor
 
 ---
@@ -132,7 +132,7 @@ Video Timestamp: 00:25:00–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host acknowledges image is from anonymous source)
 
-*Related: C-1316, N-177, Tyler Robinson node, N-1210*
+*Related: C-1316, N-177, Tyler Robinson node, N-10210*
 
 ### A-1176 TMZ Surveillance Footage Bundle
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:28:00–00:29:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1307, C-1314, N-92, N-1210*
+*Related: C-1307, C-1314, N-92, N-10210*
 
 ### A-1177 Phil Lyman Kaye McAney Interview Bundle
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:28:00–00:29:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1307, C-1308, N-92, N-180, N-1210*
+*Related: C-1307, C-1308, N-92, N-180, N-10210*
 
 ### A-1178 Phil Lyman Alex Jones Clip Bundle
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:30:00–00:32:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1309, N-92, N-1210*
+*Related: C-1309, N-92, N-10210*
 
 ### A-1179 Phil Lyman Local Utah News Bundle
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:32:30–00:33:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1310, N-92, N-1210*
+*Related: C-1310, N-92, N-10210*
 
 ### A-1180 Phil Lyman Instagram Video Bundle
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:34:00–00:35:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1311, N-92, N-1210*
+*Related: C-1311, N-92, N-10210*
 
 ### A-1181 Shane Lyman Instagram Bundle
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:41:00–00:41:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1312, C-1313, N-179, N-92, N-1210*
+*Related: C-1312, C-1313, N-179, N-92, N-10210*
 
 **A-1181.2** Shane Lyman's Instagram post showing side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host notes she could not identify two of the individuals on his friends list.
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:42:00–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1313, N-179, N-92, N-1210*
+*Related: C-1313, N-179, N-92, N-10210*
 
 ### A-1182 Viewer Comments Bundle
 
@@ -312,7 +312,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1175.1, C-1316, C-1317, C-1318, C-1319, C-1320, N-92, N-1210*
+*Related: A-1175.1, C-1316, C-1317, C-1318, C-1319, C-1320, N-92, N-10210*
 
 **N-179** Shane Lyman
 
@@ -345,9 +345,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1314, C-1315, N-92, N-1210*
+*Related: C-1314, C-1315, N-92, N-10210*
 
-**N-1207** Mike Mitchell Public Record Anomaly
+**N-10207** Mike Mitchell Public Record Anomaly
 
 Persistent anomaly: a 24+ year Washington County detective appears to have minimal public footprint aside from a single retirement-celebration post, despite Brooksby's stated intent to protect his identity.
 
@@ -358,7 +358,7 @@ Investigative Pressure: High
 
 *Related: A-1174.1, C-1305, N-176, Nate Brooksby node*
 
-**N-1208** Brooksby Suicide Narrative Discrepancy
+**N-10208** Brooksby Suicide Narrative Discrepancy
 
 Persistent discrepancy between Brooksby's claim that Tyler Robinson had "suicidal ideations" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot – two states that the host argues cannot coexist.
 
@@ -369,7 +369,7 @@ Investigative Pressure: High
 
 *Related: A-1172.2, A-1172.3, C-1301, C-1302, C-1306, Nate Brooksby node, Tyler Robinson node*
 
-**N-1209** Robinson Apartment Staging Allegation
+**N-10209** Robinson Apartment Staging Allegation
 
 Allegation by the Robinson family (via host's source) that Tyler's room in the apartment shared with Lance was staged post-arrest, including placement of a "furry bed" purportedly to associate Lance's attributes with Tyler.
 
@@ -380,7 +380,7 @@ Investigative Pressure: Medium
 
 *Related: C-1303, Lance node, Tyler Robinson node, Robinson family node*
 
-**N-1210** Phil Lyman Proximity and Behavior Investigation
+**N-10210** Phil Lyman Proximity and Behavior Investigation
 
 Composite investigative target tracking Phil Lyman's documented proximity to the shooting scene (driveway, venue, rooftop area, post-shooting media appearances), his in-person contact with "Nick," and his refusal to share imagery with the host's team.
 
@@ -391,7 +391,7 @@ Investigative Pressure: High
 
 *Related: A-1176.1, A-1177.1, A-1178.1, A-1179.1, A-1180.1, A-1181.1, A-1181.2, C-1307, C-1308, C-1309, C-1310, C-1311, C-1320, N-177, N-92, N-179, N-181*
 
-**N-1211** UVU Campus Familiarity Question
+**N-10211** UVU Campus Familiarity Question
 
 Persistent question (raised by host's source) regarding how Tyler Robinson – accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus – would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.
 
@@ -456,7 +456,7 @@ Claim Timestamp: 00:04:50–00:05:30
 Claim: Brooksby stated that during the initial 8:02 p.m. call, the retired detective reported that Tyler had "suicidal ideations" and was being directed to a remote area in Washington County.
 Anchored Artifacts: A-1172.2
 Mentions: N-69
-Related Nodes: N-1208
+Related Nodes: N-10208
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
 
 **C-1302** Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement
@@ -465,7 +465,7 @@ Claim Timestamp: 00:05:30–00:06:15
 Claim: Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated "delicate and as soft as possible" reception because he was "fearful of a SWAT team hit" and being shot by law enforcement.
 Anchored Artifacts: A-1172.3
 Mentions: N-69
-Related Nodes: N-1208
+Related Nodes: N-10208
 Investigative Direction: Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.
 
 **C-1303** Lance's Instagram posts establish a romantic relationship with Tyler Robinson
@@ -474,7 +474,7 @@ Claim Timestamp: 00:07:30–00:08:10
 Claim: Host presents Lance's Halloween-era Instagram caption ("I forgot to post my boyfriend is the best. Love you.") and a photo of Tyler with a mustache as evidence that Tyler and Lance were in a romantic relationship.
 Anchored Artifacts: A-1173.1, A-1173.2
 Mentions: N-69
-Related Nodes: N-1209
+Related Nodes: N-10209
 Investigative Direction: Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.
 
 **C-1304** Mike Mitchell retired from the Washington County Sheriff's Office after 24+ years
@@ -491,7 +491,7 @@ Claim Timestamp: 00:16:30–00:16:50
 Claim: Host states she was unable to find any other public news trace of Mike Mitchell despite his 24+ year career, and presents the retirement post as the sole located artifact.
 Anchored Artifacts: A-1174.1
 Mentions: N-176
-Related Nodes: N-1207
+Related Nodes: N-10207
 Investigative Direction: Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.
 
 **C-1306** The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive
@@ -499,7 +499,7 @@ Investigative Direction: Conduct independent newspaper archive search (local Uta
 Claim Timestamp: 00:06:15–00:06:30
 Claim: Host argues that the two Brooksby statements – that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot – cannot both be true simultaneously.
 Anchored Artifacts: A-1172.2, A-1172.3
-Related Nodes: N-1208
+Related Nodes: N-10208
 Investigative Direction: Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.
 
 **C-1307** Phil Lyman's vehicle was in the driveway of the TMZ footage location 10–19 minutes before the shooter walked by
@@ -508,7 +508,7 @@ Claim Timestamp: 00:28:00–00:29:30
 Claim: In his Kaye McAney interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.
 Anchored Artifacts: A-1176.1, A-1177.1
 Mentions: N-92, N-180
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.
 
 **C-1308** Phil Lyman's family owns approximately twelve homes on the relevant street
@@ -517,7 +517,7 @@ Claim Timestamp: 00:29:30–00:30:00
 Claim: In the Kaye McAney interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
 Anchored Artifacts: A-1177.1
 Mentions: N-92, N-180
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Pull county property records for the relevant street and verify ownership chain.
 
 **C-1309** Phil Lyman publicly described "two goth girls" as unfrightened near the shooting scene on Alex Jones
@@ -526,7 +526,7 @@ Claim Timestamp: 00:30:00–00:32:00
 Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, retreating behind retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
 Anchored Artifacts: A-1178.1
 Mentions: N-92, N-128
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.
 
 **C-1310** Phil Lyman stated on local Utah news that he was backstage with Charlie Kirk before the shooting
@@ -535,7 +535,7 @@ Claim Timestamp: 00:32:30–00:33:15
 Claim: In a local Utah news interview, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to "meet some friends" away from the stage.
 Anchored Artifacts: A-1179.1
 Mentions: N-92, N-1
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.
 
 **C-1311** Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a "200 yard kill shot"
@@ -544,7 +544,7 @@ Claim Timestamp: 00:34:00–00:35:30
 Claim: In his own Instagram video, Phil Lyman stated he was driving from Salt Lake to Blanding on the night of the shooting, stopped by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
 Anchored Artifacts: A-1180.1
 Mentions: N-92, N-1
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.
 
 **C-1312** Shane Lyman publicly retraced the shooter's steps near his grandmother's house
@@ -553,7 +553,7 @@ Claim Timestamp: 00:41:00–00:41:30
 Claim: Shane Lyman's Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking "pictures in the exact place that the security cameras caught him"; the image showed Converse-brand footprints.
 Anchored Artifacts: A-1181.1
 Mentions: N-92, N-179
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman.
 
 **C-1313** Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals
@@ -562,7 +562,7 @@ Claim Timestamp: 00:42:00–00:42:30
 Claim: Shane Lyman's Instagram post showed side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host states she could not identify two of the individuals on his friends list.
 Anchored Artifacts: A-1181.2
 Mentions: N-92, N-179
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Identify the two friends via cross-reference with Shane's social graph or via direct outreach.
 
 **C-1314** Phil Lyman showed up at "Nick's" home uninvited and asked questions about the host's investigation
@@ -571,7 +571,7 @@ Claim Timestamp: 00:37:30–00:39:00
 Claim: Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.
 Anchored Artifacts: (Host-relayed source testimony; no video/audio presented in this episode.)
 Mentions: N-92, N-177
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
@@ -581,7 +581,7 @@ Claim Timestamp: 00:38:30–00:39:00
 Claim: Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
 Anchored Artifacts: (Host-relayed source testimony; no artifact presented in this episode.)
 Mentions: N-92, N-181
-Related Nodes: N-1210
+Related Nodes: N-10210
 Investigative Direction: Confirm via Ian Carol's own public statements and any travel/timeline records.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
@@ -683,7 +683,7 @@ Confidence: high
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle exists; each top-level ID represents one evidentiary family.
 - [x] People nodes use the global people ledger (new IDs N-176–N-181).
-- [x] Non-person investigation targets use the 1000 series (new IDs N-1207–N-1211).
+- [x] Non-person investigation targets use the 1000 series (new IDs N-10207–N-10211).
 - [x] No speculative claims inscribed as evidence-backed claims (host assertions from anonymous sources excluded; flagged separately).
 - [x] Names preserved exactly or uncertainty noted (L0y Center, Kaye Mcaney, Shamway, Ian Carol flagged).
 - [x] Formatting consistent.

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-335, N-339, N-340, N-344, N-1294, N-1295, N-1296, N-1297
-  - Reused Nodes Appearing: N-2, N-1000
+  - New Nodes Introduced: N-335, N-339, N-340, N-344, N-10294, N-10295, N-10296, N-10297
+  - Reused Nodes Appearing: N-2, N-10000
   - (see registers)
 
 # Episode Analysis Record
@@ -35,7 +35,7 @@
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
 - **Claim Range:** C-1598–C-1616
 - **New People Nodes Introduced:** N-335, N-272, N-224, N-150, N-339, N-340, N-91, N-42, N-87, N-344, N-45
-- **New Investigation Target Nodes Introduced:** N-1294, N-1295, N-1296, N-1297
+- **New Investigation Target Nodes Introduced:** N-10294, N-10295, N-10296, N-10297
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -58,7 +58,7 @@ Video Timestamp: 00:03:45–00:04:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1598, C-1599, N-1294*
+*Related: C-1598, C-1599, N-10294*
 
 **A-1333.2** UVU event request email (mid-July 2025) – referenced verbally by host; shown on screen per host narration but content not transcribed in captions
 
@@ -69,7 +69,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; visual content not captured in caption transcript
 
-*Related: C-1599, N-1294*
+*Related: C-1599, N-10294*
 
 ---
 
@@ -244,7 +244,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-272, N-1295, N-1296*
+*Related: C-1616, N-272, N-10295, N-10296*
 
 **A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration
 
@@ -255,7 +255,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-1295*
+*Related: C-1616, N-10295*
 
 ---
 
@@ -270,9 +270,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-1598, C-1599, C-1615, N-1294, N-1295*
+*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-1598, C-1599, C-1615, N-10294, N-10295*
 
-**N-1000** Turning Point USA
+**N-10000** Turning Point USA
 *(Existing – referenced in scheduling and phone call discussion)*
 Evidence Count: 1
 Claim Count: 2
@@ -301,7 +301,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-45, N-2, N-1295, N-1296, N-1297*
+*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-45, N-2, N-10295, N-10296, N-10297*
 
 **N-224** Blake Neff
 
@@ -408,7 +408,7 @@ Investigative Pressure: Low
 
 ### Investigation Target Nodes
 
-**N-1294** UVU Event Approval Timeline Anomaly
+**N-10294** UVU Event Approval Timeline Anomaly
 
 Persistent discrepancy between standard TPUSA advance-planning window (≈5–6 months, per A-1333.1) and the unusually short UVU request-to-event interval (mid-July 2025 request, September 2025 approval per host).
 
@@ -419,7 +419,7 @@ Investigative Pressure: High
 
 *Related: A-1333.1, A-1333.2, C-1598, C-1599, N-1*
 
-**N-1295** Equipment Box / First-Aid Anomaly at UVU Scene
+**N-10295** Equipment Box / First-Aid Anomaly at UVU Scene
 
 Persistent claim that Charlie Kirk was placed on top of an equipment box rather than flat ground, and that no visible first-aid administration occurred in the immediate post-shot window.
 
@@ -430,7 +430,7 @@ Investigative Pressure: High
 
 *Related: A-1344.1, A-1344.2, C-1616, N-1, N-272*
 
-**N-1296** Mikey McCoy Phone Call Sequence Anomaly
+**N-10296** Mikey McCoy Phone Call Sequence Anomaly
 
 Persistent claim that Mikey McCoy's described phone calls (Erica, Rob McCoy) within one minute of the shooting are inconsistent with observed movement patterns and with expected human behavior under such circumstances.
 
@@ -441,7 +441,7 @@ Investigative Pressure: High
 
 *Related: A-1339.1, A-1344.1, C-1610, N-272, N-224, N-45, N-2*
 
-**N-1297** YouTube Scheduling Order Anomaly
+**N-10297** YouTube Scheduling Order Anomaly
 
 Persistent claim that the first scheduled post on Charlie Kirk's YouTube channel after the memorial event was Mikey McCoy's speech, queued before Erika Kirk's.
 
@@ -464,7 +464,7 @@ Claim: A Turning Point USA email dated October 2023 shows that planning for an A
 
 Anchored Artifacts: A-1333.1
 
-Related Nodes: N-1294
+Related Nodes: N-10294
 
 Investigative Direction: Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours.
 
@@ -479,7 +479,7 @@ Claim: A UVU request for Charlie Kirk to speak on campus was received in mid-Jul
 Anchored Artifacts: A-1333.2
 Mentions: N-1
 
-Related Nodes: N-1294
+Related Nodes: N-10294
 
 Investigative Direction: Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates.
 
@@ -638,7 +638,7 @@ Claim: The host asserts that Blake Nef's account is internally inconsistent with
 Anchored Artifacts: A-1339.1, A-1344.1
 Mentions: N-45, N-224, N-272, N-2
 
-Related Nodes: N-1296
+Related Nodes: N-10296
 
 Investigative Direction: Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.
 
@@ -709,7 +709,7 @@ Claim: Upon resumption of scheduled uploads to his YouTube page following the me
 Anchored Artifacts: A-1343.1
 Mentions: N-272, N-2
 
-Related Nodes: N-1297
+Related Nodes: N-10297
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 
@@ -724,7 +724,7 @@ Claim: The host alleges that Charlie Kirk was positioned on top of an equipment 
 Anchored Artifacts: A-1344.1, A-1344.2
 Mentions: N-1, N-272
 
-Related Nodes: N-1295, N-1296
+Related Nodes: N-10295, N-10296
 
 Investigative Direction: Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.
 
@@ -753,7 +753,7 @@ Confidence: high
 - **A-1339.1** – Interview outlet, publication date, and full context require verification against the original published segment.
 - **A-1341.1** – Original outlet, full segment, and surrounding context require verification.
 - **Multiple A-1336 / A-1337 references** – Brett Cooper referenced as "23 years old" and "Gen Z" but date-of-birth not artifact-anchored.
-- **N-1295, N-1296, N-1297** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
+- **N-10295, N-10296, N-10297** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
 
 ---
 
@@ -765,7 +765,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-335–N-45)
-- [x] Non-person investigation targets use the 1000 series (N-1294–N-1297)
+- [x] Non-person investigation targets use the 1000 series (N-10294–N-10297)
 - [x] No speculative host-framing claims inscribed as evidence-backed claims
 - [x] Names preserved as they appear; "Mamdani" corrected from host's "Mom Donnie"/"Mam Donnie" variant to documented name
 - [x] Formatting consistent with protocol

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-349, N-350, N-353, N-355, N-356, N-358, N-359, N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
+  - New Nodes Introduced:  N-349, N-350, N-353, N-355, N-356, N-358, N-359, N-10298, N-10299, N-10300, N-10301, N-10302, N-10303, N-10304, N-10305
   - Reused Nodes Appearing: N-3, N-135
   - (see registers)
 
@@ -32,7 +32,7 @@
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
   - Claim Range: C-1617–C-1634, C-3740, C-3755
   - New Nodes Introduced (people):  N-2, N-349, N-350, N-353, N-355, N-356, N-358, N-359
-  - New Nodes Introduced (investigation targets): N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
+  - New Nodes Introduced (investigation targets): N-10298, N-10299, N-10300, N-10301, N-10302, N-10303, N-10304, N-10305
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
 
 ---
@@ -129,7 +129,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "The latest claim is that TPUSA must have been in on Charlie's murder because the UVU campus stop was approved in July. It was not approved in July. It was requested in July. And that's too short of a timeline for an event in September. That is not true. Charlie texted me at the end of August for a campus event in early November. That's about 2 months out."
 
-*Related: C-1625, N-349, N-1298*
+*Related: C-1625, N-349, N-10298*
 
 **A-1347.2** Allie Beth Stuckey follow-up tweet clarifying venue status
 
@@ -141,7 +141,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Since some of you guys are struggling, no venue yet, 2 months out." (Host notes: "There's clearly a venue because Charlie is saying in this chat, 'November 3rd at 6:30 p.m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.'")
 
-*Related: C-1626, C-3740, N-349, N-1298*
+*Related: C-1626, C-3740, N-349, N-10298*
 
 ---
 
@@ -157,7 +157,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I speak regularly on college campuses as well. As one example, I was just asked to speak at Stanford, and they were going to set the event up within 3 weeks. Oh, so it didn't happen. It didn't materialize… When I debated a few weeks ago at Yale, the event was also planned within 2 months."
 
-*Related: C-1627, C-1628, N-350, N-1298*
+*Related: C-1627, C-1628, N-350, N-10298*
 
 ---
 
@@ -201,7 +201,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I don't have direct knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit."
 
-*Related: C-1631, N-353, N-1301*
+*Related: C-1631, N-353, N-10301*
 
 ---
 
@@ -233,7 +233,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Hey guys, this is me. My teammate and I were just on campus to get food and stop by the event. We always wear silly stuff like that. Sorry, guys."
 
-*Related: C-1633, N-355, N-1302*
+*Related: C-1633, N-355, N-10302*
 
 ---
 
@@ -249,7 +249,7 @@ Confidence Level: Medium (host observation of visual frame; no on-screen caption
 
 Host characterization: "behind Jesse and Erika as they're walking backstage at the University of Mississippi event that they headlined, there was a priest looking in the corner there. I know a priest collar when I see one."
 
-*Related: C-1623, N-2, N-313, N-1303*
+*Related: C-1623, N-2, N-313, N-10303*
 
 ---
 
@@ -265,7 +265,7 @@ Confidence Level: Medium (viewer-mediated second-hand reference)
 
 Verbatim excerpt: "Andrew Klavan on Alex Clark show discussed how Charlie's heart was still beating. How did Charlie instantly go to heaven if he had a pulse? Erika first saw Charlie at an airport in Israel in May of 2018 with her mom."
 
-*Related: C-1634, N-2, N-135, N-356, N-1304, N-1305*
+*Related: C-1634, N-2, N-135, N-356, N-10304, N-10305*
 
 **A-1354.2** Arm Hanna viewer comment on forgiveness requiring knowledge of what is being forgiven
 
@@ -309,7 +309,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1347.1, A-1347.2, C-1625, C-1626, N-1298*
+*Related: A-1347.1, A-1347.2, C-1625, C-1626, N-10298*
 
 ---
 
@@ -322,7 +322,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1348.1, C-1627, C-1628, N-1298*
+*Related: A-1348.1, C-1627, C-1628, N-10298*
 
 ---
 
@@ -335,7 +335,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-272, N-1304*
+*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-272, N-10304*
 
 ---
 
@@ -361,7 +361,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1350.1, C-1631, N-1301*
+*Related: A-1350.1, C-1631, N-10301*
 
 ---
 
@@ -380,14 +380,14 @@ Investigative Pressure: Low
 
 **N-355** Colby Sessions
 
-UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-1302.
+UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-10302.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (apparently resolved)
 
-*Related: A-1352.1, C-1633, N-1302*
+*Related: A-1352.1, C-1633, N-10302*
 
 ---
 
@@ -400,7 +400,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-1634, N-1304*
+*Related: A-1354.1, C-1634, N-10304*
 
 ---
 
@@ -413,7 +413,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1304*
+*Related: N-10304*
 
 ---
 
@@ -458,7 +458,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-1298** UVU Event Approval Timeline Discrepancy
+**N-10298** UVU Event Approval Timeline Discrepancy
 
 Dispute over whether the UVU campus stop was "approved" in July or only "requested," and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.
 
@@ -471,7 +471,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1299** Autopsy Report and Evidence Access Asymmetry
+**N-10299** Autopsy Report and Evidence Access Asymmetry
 
 Erika Kirk's stated direct access to the autopsy report and "different evidence portions," contrasted with the public record of fragmented disclosures.
 
@@ -484,7 +484,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1300** Saint Michael Pendant / Charlie Catholic-Curious Status
+**N-10300** Saint Michael Pendant / Charlie Catholic-Curious Status
 
 Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.
 
@@ -497,7 +497,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1301** TPUSA / Candace Owens NDA and Blexit Question
+**N-10301** TPUSA / Candace Owens NDA and Blexit Question
 
 Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.
 
@@ -510,7 +510,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1302** UVU Green Hoodie Person Identification (Resolved)
+**N-10302** UVU Green Hoodie Person Identification (Resolved)
 
 Colby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.
 
@@ -523,7 +523,7 @@ Investigative Pressure: Closed
 
 ---
 
-**N-1303** Priest Presence at Ole Miss Event
+**N-10303** Priest Presence at Ole Miss Event
 
 Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.
 
@@ -532,11 +532,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1353.1, C-1623, N-2, N-313, N-1300*
+*Related: A-1353.1, C-1623, N-2, N-313, N-10300*
 
 ---
 
-**N-1304** Charlie's Heart Still Beating Question
+**N-10304** Charlie's Heart Still Beating Question
 
 Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.
 
@@ -549,7 +549,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1305** Erika–Charlie 2018 Israel Airport Meeting Question
+**N-10305** Erika–Charlie 2018 Israel Airport Meeting Question
 
 Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.
 
@@ -629,7 +629,7 @@ Claim: Erika Kirk states she has seen the autopsy report and various "evidence p
 Anchored Artifacts: A-1346.2
 Mentions: N-2
 
-Related Nodes: N-1299
+Related Nodes: N-10299
 
 Investigative Direction: Identify the legal pathway by which a non-lawyer spouse obtains access to autopsy and evidence; cross-check public statements by prosecutors and defense counsel.
 
@@ -644,7 +644,7 @@ Claim: Erika Kirk states that Charlie loved Saint Michael and that, every time h
 Anchored Artifacts: A-1346.3
 Mentions: N-2
 
-Related Nodes: N-1300
+Related Nodes: N-10300
 
 Investigative Direction: Obtain photographs of the pendant from TPUSA or family sources; verify the metals described ("bronze" with later additions).
 
@@ -659,7 +659,7 @@ Claim: A figure in clerical attire appears in the background of backstage video 
 Anchored Artifacts: A-1353.1
 Mentions: N-2, N-313
 
-Related Nodes: N-1300, N-1303
+Related Nodes: N-10300, N-10303
 
 Investigative Direction: Obtain original footage to identify the priest and any associated institution.
 
@@ -688,7 +688,7 @@ Claim: Allie Beth Stuckey tweets that the UVU campus stop was "requested in July
 Anchored Artifacts: A-1347.1
 Mentions: N-349
 
-Related Nodes: N-1298
+Related Nodes: N-10298
 
 Investigative Direction: Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.
 
@@ -703,7 +703,7 @@ Claim: Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the s
 Anchored Artifacts: A-1347.2
 Mentions: N-349
 
-Related Nodes: N-1298
+Related Nodes: N-10298
 
 Investigative Direction: Obtain the underlying text thread to verify Allie's characterization of venue status.
 
@@ -716,7 +716,7 @@ Claim: C-1626's title says the venue was confirmed two months out, which inverts
 Transcript Snippet: She says, "Since some of you guys are struggling, no venue yet, 2 months out."
 Anchored Artifacts: A-1347.2
 Mentions: N-349
-Related Nodes: N-1298
+Related Nodes: N-10298
 Revises: C-1626
 Confidence: high
 Investigative Direction: Read with C-1626; obtain the underlying text thread to verify Allie's characterization of venue status.
@@ -732,7 +732,7 @@ Claim: Lila Rose tweets that she was asked to speak at Stanford with the event t
 Anchored Artifacts: A-1348.1
 Mentions: N-350
 
-Related Nodes: N-1298
+Related Nodes: N-10298
 
 Investigative Direction: Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.
 
@@ -747,7 +747,7 @@ Claim: Lila Rose tweets that a recent Yale debate she participated in was planne
 Anchored Artifacts: A-1348.1
 Mentions: N-350
 
-Related Nodes: N-1298
+Related Nodes: N-10298
 
 Investigative Direction: Identify the Yale debate date and verify against Yale Political Union scheduling records.
 
@@ -790,7 +790,7 @@ Claim: Alyssa Cordova tweets speculation that non-disparagement agreements may b
 Anchored Artifacts: A-1350.1
 Mentions: N-353, N-3
 
-Related Nodes: N-1301
+Related Nodes: N-10301
 
 Investigative Direction: Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.
 
@@ -819,7 +819,7 @@ Claim: Colby Sessions posts a social media message identifying himself as the pe
 Anchored Artifacts: A-1352.1
 Mentions: N-355
 
-Related Nodes: N-1302
+Related Nodes: N-10302
 
 Investigative Direction: Verify Colby Sessions's UVU student status and the existence of the underlying social media post.
 
@@ -834,7 +834,7 @@ Claim: A viewer (Tom Paul) reports that Andrew Klavan, on the Alex Clark show, d
 Anchored Artifacts: A-1354.1
 Mentions: N-2, N-135, N-356, N-358
 
-Related Nodes: N-1304
+Related Nodes: N-10304
 
 Investigative Direction: Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.
 
@@ -864,7 +864,7 @@ Transcript Snippet: Turning Point USA's telling a lot of lies. They're engaged i
 
 Anchored Artifacts: 
 Mentions: N-3, N-135
-Related Nodes: N-1000
+Related Nodes: N-10000
 Investigative Direction: List the specific TPUSA statements the host calls lies and compare each against the record.
 
 ---
@@ -946,7 +946,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-3+)
-- [x] Non-person investigation targets use the 1000 series (N-1298+)
+- [x] Non-person investigation targets use the 1000 series (N-10298+)
 - [x] No speculative claims inscribed as evidence-backed claims (framing premises tracked separately)
 - [x] Names preserved as written or uncertainty noted
 - [x] Formatting consistent across registers

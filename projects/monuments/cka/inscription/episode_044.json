@@ -35,7 +35,7 @@
           "related_nodes": [
             "N-516",
             "N-526",
-            "N-1399"
+            "N-10399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
             "N-516",
             "N-424",
             "N-518",
-            "N-1397"
+            "N-10397"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,7 +79,7 @@
           "related_nodes": [
             "N-516",
             "N-518",
-            "N-1398"
+            "N-10398"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -98,7 +98,7 @@
           ],
           "related_nodes": [
             "N-516",
-            "N-1397"
+            "N-10397"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -143,7 +143,7 @@
             "C-1880"
           ],
           "related_nodes": [
-            "N-1399",
+            "N-10399",
             "N-526"
           ],
           "tags": [],
@@ -170,7 +170,7 @@
             "C-1880"
           ],
           "related_nodes": [
-            "N-1399"
+            "N-10399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
           ],
           "related_nodes": [
             "N-500",
-            "N-1401"
+            "N-10401"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,8 +229,8 @@
             "N-522",
             "N-523",
             "N-524",
-            "N-1401",
-            "N-1402"
+            "N-10401",
+            "N-10402"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,7 +321,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1400"
+        "N-10400"
       ]
     },
     {
@@ -345,8 +345,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1397",
-        "N-1398"
+        "N-10397",
+        "N-10398"
       ]
     },
     {
@@ -410,7 +410,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-522",
-        "N-1401"
+        "N-10401"
       ]
     },
     {
@@ -434,7 +434,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-500",
-        "N-1401"
+        "N-10401"
       ]
     },
     {
@@ -457,7 +457,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-522",
-        "N-1402"
+        "N-10402"
       ]
     },
     {
@@ -480,13 +480,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-522",
-        "N-1402"
+        "N-10402"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-2393",
-      "ref": "N-2393",
+      "@id": "N-11393",
+      "ref": "N-11393",
       "name": "Root Brands",
       "type": "organization",
       "description": "Nashville-area company alleged by tipsters to employ \"Jonathan Schmidt\"/Arcadi Gaydamak as a technology officer. Host states she has reached out to Root Brands.",
@@ -503,7 +503,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-522",
-        "N-1402"
+        "N-10402"
       ]
     },
     {
@@ -526,13 +526,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1399"
+        "N-10399"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1397",
-      "ref": "N-1397",
+      "@id": "N-10397",
+      "ref": "N-10397",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Meyers' account is corroborated by incident report 861-1-2025-MPC446.",
@@ -561,8 +561,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1398",
-      "ref": "N-1398",
+      "@id": "N-10398",
+      "ref": "N-10398",
       "name": "Incident Report 861-1-2025-MPC446 FOIA Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Meyers' detention.",
@@ -579,13 +579,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-518",
-        "N-1397"
+        "N-10397"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1399",
-      "ref": "N-1399",
+      "@id": "N-10399",
+      "ref": "N-10399",
       "name": "1990 Douglas, Arizona / Operation Catacomb Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Meyers' 35-year claim of retaliation and his NDA.",
@@ -609,8 +609,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1400",
-      "ref": "N-1400",
+      "@id": "N-10400",
+      "ref": "N-10400",
       "name": "Brian Harpole Military Connection Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.",
@@ -627,13 +627,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-424",
-        "N-1397"
+        "N-10397"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1401",
-      "ref": "N-1401",
+      "@id": "N-10401",
+      "ref": "N-10401",
       "name": "\"Jonathan Schmidt\" / Arcadi Gaydamak Identity Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1402",
-      "ref": "N-1402",
+      "@id": "N-10402",
+      "ref": "N-10402",
       "name": "Root Brands / Nashville Foreign Intelligence Personnel Question",
       "type": "investigation_target",
       "description": "Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.",
@@ -677,7 +677,7 @@
         "N-522",
         "N-523",
         "N-524",
-        "N-2393"
+        "N-11393"
       ]
     },
     {
@@ -726,7 +726,7 @@
         "A-1521.1"
       ],
       "related_nodes": [
-        "N-1399"
+        "N-10399"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09–00:11:14",
@@ -746,7 +746,7 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-1399"
+        "N-10399"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44–00:09:29",
@@ -803,7 +803,7 @@
         "A-1519.4"
       ],
       "related_nodes": [
-        "N-1397"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:16:14–00:17:28",
@@ -822,7 +822,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-1397"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:18:57–00:20:14",
@@ -841,7 +841,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-1397"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:34:46",
@@ -860,7 +860,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-1400"
+        "N-10400"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:22:18",
@@ -881,7 +881,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-1397"
+        "N-10397"
       ],
       "tags": [],
       "claim_timestamp": "00:22:18–00:24:56",
@@ -902,7 +902,7 @@
         "A-1519.3"
       ],
       "related_nodes": [
-        "N-1398"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:28:13",
@@ -956,7 +956,7 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-1401"
+        "N-10401"
       ],
       "tags": [],
       "claim_timestamp": "00:35:46–00:40:46",
@@ -976,9 +976,9 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-1401",
-        "N-1402",
-        "N-2393"
+        "N-10401",
+        "N-10402",
+        "N-11393"
       ],
       "tags": [],
       "claim_timestamp": "00:36:24–00:40:46",

@@ -31,7 +31,7 @@
             "C-2004"
           ],
           "related_nodes": [
-            "N-1452"
+            "N-10452"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,7 +49,7 @@
             "C-2003"
           ],
           "related_nodes": [
-            "N-1452"
+            "N-10452"
           ],
           "tags": [],
           "video_timestamp": "00:02:43"
@@ -94,7 +94,7 @@
             "C-2008"
           ],
           "related_nodes": [
-            "N-1453"
+            "N-10453"
           ],
           "tags": [],
           "video_timestamp": "00:21:13"
@@ -139,7 +139,7 @@
             "N-632",
             "N-633",
             "N-639",
-            "N-1454"
+            "N-10454"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,8 +185,8 @@
             "C-2012"
           ],
           "related_nodes": [
-            "N-1455",
-            "N-1454"
+            "N-10455",
+            "N-10454"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -282,7 +282,7 @@
         "N-633",
         "N-634",
         "N-635",
-        "N-1454"
+        "N-10454"
       ]
     },
     {
@@ -306,7 +306,7 @@
       "related_nodes": [
         "N-632",
         "N-634",
-        "N-1454"
+        "N-10454"
       ]
     },
     {
@@ -326,7 +326,7 @@
       "related_nodes": [
         "N-632",
         "N-633",
-        "N-1454"
+        "N-10454"
       ]
     },
     {
@@ -381,7 +381,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1454"
+        "N-10454"
       ]
     },
     {
@@ -420,13 +420,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1454"
+        "N-10454"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1452",
-      "ref": "N-1452",
+      "@id": "N-10452",
+      "ref": "N-10452",
       "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1453",
-      "ref": "N-1453",
+      "@id": "N-10453",
+      "ref": "N-10453",
       "name": "Mark Amodei House Committee Visual Identification",
       "type": "investigation_target",
       "description": "Whether Rep. Mark Amodei is visibly present early in the 12-hour House committee hearing video reviewed by host.",
@@ -465,8 +465,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1454",
-      "ref": "N-1454",
+      "@id": "N-10454",
+      "ref": "N-10454",
       "name": "Farnsworth Family Political-Military Network",
       "type": "investigation_target",
       "description": "Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Gwinta, Thomas Bert, and Davis-Monthan / Fort Huachuca.",
@@ -491,8 +491,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1455",
-      "ref": "N-1455",
+      "@id": "N-10455",
+      "ref": "N-10455",
       "name": "Davis-Monthan AFB September 9 Attendee Verification",
       "type": "investigation_target",
       "description": "Verification of which Arizona community leaders attended the Davis-Monthan AFB Arizona Commanders Summit on September 9, 2025.",
@@ -508,7 +508,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1454"
+        "N-10454"
       ]
     },
     {
@@ -652,7 +652,7 @@
         "A-1577.2"
       ],
       "related_nodes": [
-        "N-1452"
+        "N-10452"
       ],
       "tags": [],
       "claim_timestamp": "00:02:43",
@@ -671,7 +671,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-1452"
+        "N-10452"
       ],
       "tags": [],
       "claim_timestamp": "00:04:45",
@@ -739,7 +739,7 @@
         "A-1579.1"
       ],
       "related_nodes": [
-        "N-1453"
+        "N-10453"
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
@@ -778,7 +778,7 @@
         "A-1581.1"
       ],
       "related_nodes": [
-        "N-1454"
+        "N-10454"
       ],
       "tags": [],
       "claim_timestamp": "00:33:00",
@@ -816,8 +816,8 @@
         "A-1583.1"
       ],
       "related_nodes": [
-        "N-1455",
-        "N-1454"
+        "N-10455",
+        "N-10454"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50",

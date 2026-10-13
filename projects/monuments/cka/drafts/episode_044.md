@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-516, N-518, N-522, N-523, N-524, N-526, N-1397, N-1398, N-1399, N-1400, N-1401, N-1402
-  - Tip-minted Nodes (w3-root-brands): N-2393
+  - New Nodes Introduced: N-516, N-518, N-522, N-523, N-524, N-526, N-10397, N-10398, N-10399, N-10400, N-10401, N-10402
+  - Tip-minted Nodes (w3-root-brands): N-11393
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:05:09–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud as direct quote from Harry; not independently displayed)
 
-*Related: C-1880, C-1881, C-1882, C-1883, N-516, N-526, N-1399*
+*Related: C-1880, C-1881, C-1882, C-1883, N-516, N-526, N-10399*
 
 **A-1519.2** First-person narrative account (September 8–9, 2025 Fort Huachuca encounter)
 
@@ -48,7 +48,7 @@ Video Timestamp: 00:15:10–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1884, C-1885, C-1886, C-1887, N-516, N-424, N-518, N-1397*
+*Related: C-1884, C-1885, C-1886, C-1887, N-516, N-424, N-518, N-10397*
 
 **A-1519.3** Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (number only; full report not displayed)
 
-*Related: C-1889, N-516, N-518, N-1398*
+*Related: C-1889, N-516, N-518, N-10398*
 
 **A-1519.4** Candlewood Suites reservation at Fort Huachuca, September 8, 2025 ~5:37 PM
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:16:14–00:17:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host states Harry provided timestamps, bookings, reservations, call logs)
 
-*Related: C-1884, N-516, N-1397*
+*Related: C-1884, N-516, N-10397*
 
 **A-1519.5** Supporting documents referenced but not displayed (army medal writeups; NDA 1990–May 2025; police records; high school graduation certificate)
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:09:29–00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed news clip)
 
-*Related: C-1880, N-1399, N-526*
+*Related: C-1880, N-10399, N-526*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:06:44–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed clip)
 
-*Related: C-1880, N-1399*
+*Related: C-1880, N-10399*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:35:20–00:36:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article cited but full display not confirmed)
 
-*Related: C-1891, C-1892, N-500, N-1401*
+*Related: C-1891, C-1892, N-500, N-10401*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:35:46–00:40:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads counts/contents; underlying emails not displayed)
 
-*Related: C-1893, C-1894, N-500, N-522, N-523, N-524, N-1401, N-1402*
+*Related: C-1893, C-1894, N-500, N-522, N-523, N-524, N-10401, N-10402*
 
 ---
 
@@ -176,7 +176,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-1400*
+*Related: A-1519.2, C-1887, N-10400*
 
 ---
 
@@ -189,7 +189,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, C-1888, C-1889, N-1397, N-1398*
+*Related: A-1519.2, A-1519.3, C-1888, C-1889, N-10397, N-10398*
 
 ---
 
@@ -228,7 +228,7 @@ Claim Count: 2
 Episode Count: 1 (in this analysis)
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-522, N-1401*
+*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-522, N-10401*
 
 ---
 
@@ -241,7 +241,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1893, C-1894, N-500, N-1401*
+*Related: A-1523.1, C-1893, C-1894, N-500, N-10401*
 
 ---
 
@@ -254,7 +254,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-522, N-1402*
+*Related: A-1523.1, C-1894, N-522, N-10402*
 
 ---
 
@@ -267,11 +267,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-522, N-1402*
+*Related: A-1523.1, C-1894, N-522, N-10402*
 
 ---
 
-**N-2393** Root Brands
+**N-11393** Root Brands
 
 Node Type: Organization
 
@@ -282,7 +282,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-522, N-1402*
+*Related: A-1523.1, C-1894, N-522, N-10402*
 
 ---
 
@@ -295,11 +295,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (historical)
 
-*Related: A-1519.1, A-1520.1, C-1881, N-1399*
+*Related: A-1519.1, A-1520.1, C-1881, N-10399*
 
 ---
 
-**N-1397** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10397** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Meyers' account is corroborated by incident report 861-1-2025-MPC446.
 
@@ -312,7 +312,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1398** Incident Report 861-1-2025-MPC446 FOIA Verification
+**N-10398** Incident Report 861-1-2025-MPC446 FOIA Verification
 
 Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Meyers' detention.
 
@@ -321,11 +321,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.3, C-1889, N-518, N-1397*
+*Related: A-1519.3, C-1889, N-518, N-10397*
 
 ---
 
-**N-1399** 1990 Douglas, Arizona / Operation Catacomb Verification
+**N-10399** 1990 Douglas, Arizona / Operation Catacomb Verification
 
 Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Meyers' 35-year claim of retaliation and his NDA.
 
@@ -338,7 +338,7 @@ Investigative Pressure: Medium (historical)
 
 ---
 
-**N-1400** Brian Harpole Military Connection Verification
+**N-10400** Brian Harpole Military Connection Verification
 
 Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.
 
@@ -347,11 +347,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-424, N-1397*
+*Related: A-1519.2, C-1887, N-424, N-10397*
 
 ---
 
-**N-1401** "Jonathan Schmidt" / Arcadi Gaydamak Identity Verification
+**N-10401** "Jonathan Schmidt" / Arcadi Gaydamak Identity Verification
 
 Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.
 
@@ -364,7 +364,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1402** Root Brands / Nashville Foreign Intelligence Personnel Question
+**N-10402** Root Brands / Nashville Foreign Intelligence Personnel Question
 
 Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.
 
@@ -373,7 +373,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1894, N-522, N-523, N-524, N-2393*
+*Related: A-1523.1, C-1894, N-522, N-523, N-524, N-11393*
 
 ---
 
@@ -388,7 +388,7 @@ Claim: A then-20-year-old military sensor operator assigned to JTF-6 states he i
 Anchored Artifacts: A-1519.1, A-1520.1, A-1521.1
 Mentions: N-516, N-526
 
-Related Nodes: N-1399
+Related Nodes: N-10399
 
 Investigative Direction: Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.
 
@@ -403,7 +403,7 @@ Claim: Harry states photos recovered from the Mexican side of the tunnel depicte
 Anchored Artifacts: A-1519.1
 Mentions: N-516, N-526
 
-Related Nodes: N-1399
+Related Nodes: N-10399
 
 Investigative Direction: FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence.
 
@@ -446,7 +446,7 @@ Claim: Harry Meyers arrived at Candlewood Suites on Fort Huachuca at approximate
 Anchored Artifacts: A-1519.2, A-1519.4
 Mentions: N-516
 
-Related Nodes: N-1397
+Related Nodes: N-10397
 
 Investigative Direction: Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records.
 
@@ -461,7 +461,7 @@ Claim: Harry states he entered a temporary JTF-Southern Border headquarters at a
 Anchored Artifacts: A-1519.2
 Mentions: N-516
 
-Related Nodes: N-1397
+Related Nodes: N-10397
 
 Investigative Direction: Cross-reference base access logs and incident report 861-1-2025-MPC446.
 
@@ -476,7 +476,7 @@ Claim: Harry states approximately 12–13 E5/E6-grade officers (lieutenant colon
 Anchored Artifacts: A-1519.2
 Mentions: N-516
 
-Related Nodes: N-1397
+Related Nodes: N-10397
 
 Investigative Direction: Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.
 
@@ -491,7 +491,7 @@ Claim: Harry states he identified Brian Harpole as one of the men exiting the JT
 Anchored Artifacts: A-1519.2
 Mentions: N-424, N-516, N-1
 
-Related Nodes: N-1400
+Related Nodes: N-10400
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.
 
@@ -506,7 +506,7 @@ Claim: After Harry entered the meeting room, two captains escorted him out and b
 Anchored Artifacts: A-1519.2
 Mentions: N-224, N-516, N-518
 
-Related Nodes: N-1397
+Related Nodes: N-10397
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.
 
@@ -521,7 +521,7 @@ Claim: An incident report numbered 861-1-2025-MPC446 was generated at Fort Huach
 Anchored Artifacts: A-1519.3
 Mentions: N-516, N-518
 
-Related Nodes: N-1398
+Related Nodes: N-10398
 
 Investigative Direction: File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446.
 
@@ -564,7 +564,7 @@ Claim: Seven individuals, mostly men, emailed the show asserting that Arcadi Gay
 Anchored Artifacts: A-1523.1
 Mentions: N-500, N-522
 
-Related Nodes: N-1401
+Related Nodes: N-10401
 
 Investigative Direction: Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.
 
@@ -579,7 +579,7 @@ Claim: Tipsters claim that Jonathan Schmidt/Gaydamak was brought into Root Brand
 Anchored Artifacts: A-1523.1
 Mentions: N-522, N-523, N-524
 
-Related Nodes: N-1401, N-1402, N-2393
+Related Nodes: N-10401, N-10402, N-11393
 
 Investigative Direction: Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.
 

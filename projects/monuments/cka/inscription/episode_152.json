@@ -30,7 +30,7 @@
             "C-3445"
           ],
           "related_nodes": [
-            "N-1207"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,8 +290,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2321",
-      "ref": "N-2321",
+      "@id": "N-11321",
+      "ref": "N-11321",
       "name": "Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
       "type": "investigation_target",
       "description": "Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).",
@@ -312,8 +312,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2322",
-      "ref": "N-2322",
+      "@id": "N-11322",
+      "ref": "N-11322",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
       "type": "investigation_target",
       "description": "Persistent claim that a recurring pattern of trafficking / child sex abuse involvement exists across multiple TPUSA-adjacent individuals.",
@@ -537,7 +537,7 @@
       "claim": "The episode presents that Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was central in the Tyler Robinson surrender process.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:11:09",
@@ -555,7 +555,7 @@
       "claim": "The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:11:56",
@@ -589,7 +589,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
@@ -609,7 +609,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
@@ -629,7 +629,7 @@
         "A-2377.3"
       ],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:18:24–00:20:34",
@@ -646,7 +646,7 @@
       "claim": "The episode asserts that the Utah ICAC works under the Utah Attorney General's Office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -660,7 +660,7 @@
       "claim": "The episode presents that the federal Internet Crimes Against Children Task Force Program was established by the U.S. Department of Justice in 1998.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2321"
+        "N-11321"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -745,7 +745,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-2322"
+        "N-11322"
       ],
       "tags": [],
       "claim_timestamp": "00:03:34–00:08:18",
@@ -808,8 +808,8 @@
       "claim": "The host asserts as opinion that the placement of ICAC / SVU personnel throughout the investigation reflects a deliberate federal control mechanism related to Epstein-era networks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2321",
-        "N-2322"
+        "N-11321",
+        "N-11322"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24–00:24:49",

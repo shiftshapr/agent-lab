@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-1224, N-1225, N-1226, N-1227
+  - New Nodes Introduced: N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-10224, N-10225, N-10226, N-10227
   - Reused Nodes Appearing: N-6
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
@@ -26,7 +26,7 @@
 Artifact Families Introduced: A-1209, A-1210, A-1211, A-1212, A-1213, A-1214, A-1215, A-1216, A-1217, A-1218, A-1219
 Claim Range: C-1354–C-1365
 New Nodes Introduced (people):  N-202, N-203, N-204, N-205, N-206, N-207, N-208
-New Nodes Introduced (targets): N-1224, N-1225, N-1226, N-1227
+New Nodes Introduced (targets): N-10224, N-10225, N-10226, N-10227
 Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth Lane)
 
 ---
@@ -57,7 +57,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote captured by host: "James Comey wrote love letters to the ADL and embedded FBI agents with them. A group that ran disgraceful ops spying on Americans. That era is over. The FBI won't partner with political fronts masquerading as watchd[ogs]."
 
-*Related: C-1354, N-102, N-206, N-1224*
+*Related: C-1354, N-102, N-206, N-10224*
 
 ---
 
@@ -73,7 +73,7 @@ Confidence Level: High (read aloud)
 
 Verbatim quote captured by host includes: "As we prepare to observe the holiest day of the year on the Jewish calendar… ADL has deep respect for the Federal Bureau of Investigation and law enforcement officers at all levels across the country who work tirelessly every single day to protect all Americans regardless of their ancestry, religion, ethnicity, faith, political affiliation, or any other point of difference. In light of an unprecedented surge of anti-semitism, we remain more committed than ever to our core purpose to protect the Jewish people."
 
-*Related: C-1355, N-1224*
+*Related: C-1355, N-10224*
 
 ---
 
@@ -89,7 +89,7 @@ Confidence Level: Medium (read aloud; original thread not independently verified
 
 Verbatim quotes captured by host: "I gathered property records for the 19 different states that the ADL has a regional office established. The report reveals that in the state of Connecticut, the ADL shares an office space with the FBI." Also: "After reviewing the 19 ADL offices, we can see an alarming trend. 63% of the ADL's regional offices are located within various banking institutions. 42% are located within various law firms, ranging from immigration to criminal law… 10% are located in Jewish institutions."
 
-*Related: C-1357, C-1358, N-202, N-1224, N-1225*
+*Related: C-1357, C-1358, N-202, N-10224, N-10225*
 
 ---
 
@@ -105,7 +105,7 @@ Confidence Level: High (audio clip played in episode)
 
 Captured content includes Lane's description of approaching Utah firms for pro bono representation, the firms' reported initial willingness, the need for death-penalty-certified counsel, the inability to contact Robinson's family, the reported warning from a local attorney not to engage "the most powerful" Utah firms, the reported "rude response" from a large Utah firm asserting that "only Skordas is allowed to find a representation for Tyler Robinson," and Lane's characterization of the conduct as "highly unethical."
 
-*Related: C-1359, C-1360, N-6, N-207, N-208, N-1226*
+*Related: C-1359, C-1360, N-6, N-207, N-208, N-10226*
 
 ---
 
@@ -137,7 +137,7 @@ Confidence Level: High (clip played)
 
 Captured content includes the witness describing that the time for the suspect to reach a particular location "was way longer than it should have been" and speculation that "if the girl had given him stuff" there could be "an accomplice." Reference is also made to a still image from "Sam's across the street."
 
-*Related: C-1362, N-1227*
+*Related: C-1362, N-10227*
 
 ---
 
@@ -153,7 +153,7 @@ Confidence Level: High (clip played)
 
 Clip includes voice-over accounts from multiple witnesses (one referencing prayer, one referencing a Marine Corps habit of taking a knee, one referencing lack of metal detectors).
 
-*Related: C-1363, N-1227*
+*Related: C-1363, N-10227*
 
 ---
 
@@ -169,7 +169,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote: "I am not suicidal and I'm one of the happiest and healthiest people that you will meet. I have full faith in God and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through his grace and mercy. With that said, if something happens to me, I ask you all to find out which foreign government or powerful people would take heinous actions to stop the information from coming out."
 
-*Related: C-1364, N-204, N-1227*
+*Related: C-1364, N-204, N-10227*
 
 ---
 
@@ -185,7 +185,7 @@ Confidence Level: High (clip played)
 
 Captured content includes Von stating: "I would never take my own life. I would never take my own life. Okay, you hear that? Israel, I would never take my own life." Additional content includes references to his faith, family, friends, and a stated desire to have a wife and children.
 
-*Related: C-1365, N-205, N-1227*
+*Related: C-1365, N-205, N-10227*
 
 ---
 
@@ -201,7 +201,7 @@ Confidence Level: Low
 
 Optional Flag: Artifact verbally referenced but not shown (proof referenced by host not displayed in episode)
 
-*Related: C-1356, N-1225*
+*Related: C-1356, N-10225*
 
 ---
 
@@ -275,7 +275,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1209.1, C-1354, N-1224*
+*Related: A-1209.1, C-1354, N-10224*
 
 ---
 
@@ -288,7 +288,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1211.1, C-1357, C-1358, N-1224, N-1225*
+*Related: A-1211.1, C-1357, C-1358, N-10224, N-10225*
 
 ---
 
@@ -316,7 +316,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1216.1, C-1364, N-1227*
+*Related: A-1216.1, C-1364, N-10227*
 
 ---
 
@@ -329,7 +329,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1217.1, C-1365, N-1227*
+*Related: A-1217.1, C-1365, N-10227*
 
 ---
 
@@ -342,7 +342,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1209.1, N-1224*
+*Related: A-1209.1, N-10224*
 
 ---
 
@@ -357,7 +357,7 @@ Investigative Pressure: High
 
 Optional Flag: Spelling preserved as transcribed ("Skordas"/"Squortis"/"Scordies" appear inconsistently in transcript; canonical spelling unknown).
 
-*Related: A-1212.1, C-1360, N-1226*
+*Related: A-1212.1, C-1360, N-10226*
 
 ---
 
@@ -383,13 +383,13 @@ Claim Count: 2 (this episode: C-1359, C-1360)
 Episode Count: 2
 Investigative Pressure: Medium
 
-*Related: A-1212.1, C-1359, C-1360, N-207, N-1226*
+*Related: A-1212.1, C-1359, C-1360, N-207, N-10226*
 
 ---
 
 ### Investigation Targets
 
-**N-1224** ADL–FBI Partnership Structure
+**N-10224** ADL–FBI Partnership Structure
 
 Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.
 
@@ -402,7 +402,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1225** Connecticut FBI Field Office Deployment Anomaly
+**N-10225** Connecticut FBI Field Office Deployment Anomaly
 
 Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.
 
@@ -417,7 +417,7 @@ Optional Flag: A-1218.1 is a verbally referenced tip without on-screen source; c
 
 ---
 
-**N-1226** Tyler Robinson Defense Selection Anomaly
+**N-10226** Tyler Robinson Defense Selection Anomaly
 
 Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.
 
@@ -430,7 +430,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1227** Witness and Public-Figure Demeanor Anomalies
+**N-10227** Witness and Public-Figure Demeanor Anomalies
 
 Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.
 
@@ -456,7 +456,7 @@ Claim: FBI Director Kash Patel posted a public statement asserting that the FBI 
 Anchored Artifacts: A-1209.1
 Mentions: N-102, N-206
 
-Related Nodes: N-1224
+Related Nodes: N-10224
 
 Investigative Direction: Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.
 
@@ -485,7 +485,7 @@ Claim: The FBI's Connecticut field office – rather than a closer regional bure
 Anchored Artifacts: A-1218.1
 Mentions: N-1
 
-Related Nodes: N-1225
+Related Nodes: N-10225
 
 Investigative Direction: Obtain DOJ/FBI deployment records, on-scene credentialing logs, or official case-file documentation identifying which field offices contributed personnel to the UVU investigation.
 
@@ -502,7 +502,7 @@ Claim: Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Conne
 Anchored Artifacts: A-1211.1
 Mentions: N-202
 
-Related Nodes: N-1225
+Related Nodes: N-10225
 
 Investigative Direction: Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.
 
@@ -532,7 +532,7 @@ Claim: Investigative journalist Elizabeth Lane approached multiple Utah law firm
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-69
 
-Related Nodes: N-1226
+Related Nodes: N-10226
 
 Investigative Direction: Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications.
 
@@ -547,7 +547,7 @@ Claim: Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecut
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-207, N-69
 
-Related Nodes: N-1226
+Related Nodes: N-10226
 
 Investigative Direction: Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.
 
@@ -564,7 +564,7 @@ Claim: Olivia Robertson cub Bishop gave public eyewitness testimony describing a
 Anchored Artifacts: A-1213.1
 Mentions: N-203
 
-Related Nodes: N-1227
+Related Nodes: N-10227
 
 Investigative Direction: Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.
 
@@ -592,7 +592,7 @@ Claim: A USA Today or AP compilation clip features multiple witnesses describing
 
 Anchored Artifacts: A-1215.1
 
-Related Nodes: N-1227
+Related Nodes: N-10227
 
 Investigative Direction: Identify all named/unnamed witnesses in the clip; cross-reference their accounts against official charging documents and forensic evidence.
 
@@ -679,7 +679,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
 - [x] People nodes use global people ledger; new IDs start at N-102
-- [x] Non-person investigation targets use 1000-series; new IDs start at N-1224
+- [x] Non-person investigation targets use 1000-series; new IDs start at N-10224
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly as transcribed, with uncertainty flags where applicable
 - [x] Formatting consistent across artifact, node, and claim registers

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2213, N-2214, N-2215
+ - New Nodes Introduced: N-11213, N-11214, N-11215
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-774
  - (see registers)
 
@@ -79,7 +79,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced but not displayed
 
-*Related: C-3330, C-3331, C-3332, N-2214*
+*Related: C-3330, C-3331, C-3332, N-11214*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:34:07–00:34:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3336, C-3337, N-2213*
+*Related: C-3336, C-3337, N-11213*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3338, C-3339, N-2213*
+*Related: C-3338, C-3339, N-11213*
 
 ---
 
@@ -132,7 +132,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced; precise post identification not specified
 
-*Related: C-3335, N-2213*
+*Related: C-3335, N-11213*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3334, N-2213*
+*Related: C-3334, N-11213*
 
 ---
 
@@ -178,7 +178,7 @@ Confidence Level: High
 
 ### People Nodes
 
-**N-2213** Pentagon–State Department–TPUSA Coordinated Messaging Operation
+**N-11213** Pentagon–State Department–TPUSA Coordinated Messaging Operation
 
 Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination.
 
@@ -191,7 +191,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2214** NCRI Report Provenance and Authorship
+**N-11214** NCRI Report Provenance and Authorship
 
 Persistent question regarding the authorship, funding, and institutional backing of the NCRI "Permission to Kill" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet.
 
@@ -204,7 +204,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2215** Charlie Kirk September 9, 2025 Text Messages
+**N-11215** Charlie Kirk September 9, 2025 Text Messages
 
 Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification.
 
@@ -283,7 +283,7 @@ Claim: An NCRI-issued report titled "Permission to Kill" characterized the host 
 
 Anchored Artifacts: A-2312.1
 Mentions: N-2
-Related Nodes: N-2214
+Related Nodes: N-11214
 Investigative Direction: Obtain the full NCRI report; verify authorship, publication date, and exact wording.
 
 ---
@@ -296,7 +296,7 @@ Claim: The NCRI report was led by Kairos company, which the host identifies as t
 
 Anchored Artifacts: A-2312.1
 Mentions: N-42
-Related Nodes: N-2214
+Related Nodes: N-11214
 Investigative Direction: Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos.
 
 ---
@@ -309,7 +309,7 @@ Claim: The NCRI report was released on the first day of Tyler Robinson's prelimi
 
 Anchored Artifacts: A-2312.1
 Mentions: N-69
-Related Nodes: N-2214
+Related Nodes: N-11214
 Investigative Direction: Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing.
 
 ---
@@ -335,7 +335,7 @@ Claim: Andrew Kolvet publicly thanked Data Republican and stated her thread "exp
 
 Anchored Artifacts: A-2317.1
 Mentions: N-42
-Related Nodes: N-2213
+Related Nodes: N-11213
 Investigative Direction: Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).
 
 ---
@@ -348,7 +348,7 @@ Claim: Bill Ackman publicly promoted Data Republican's content about Charlie Kir
 
 Anchored Artifacts: A-2316.1
 Mentions: N-1, N-66
-Related Nodes: N-2213
+Related Nodes: N-11213
 Investigative Direction: Retrieve the specific Bill Ackman post; verify date and quoted text.
 
 ---
@@ -360,7 +360,7 @@ Claim Timestamp: 00:34:07
 Claim: Jenica Pounds publicly stated "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
 
 Anchored Artifacts: A-2314.1
-Related Nodes: N-2213
+Related Nodes: N-11213
 Investigative Direction: Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures.
 
 ---
@@ -372,7 +372,7 @@ Claim Timestamp: 00:34:53
 Claim: Jenica Pounds stated that her Pentagon press credentials expired in June and that she did not seek renewal, as she was working as an SGE rather than as press.
 
 Anchored Artifacts: A-2314.1
-Related Nodes: N-2213
+Related Nodes: N-11213
 Investigative Direction: Retrieve the full quoted X post; verify against Pentagon press credential records.
 
 ---
@@ -409,7 +409,7 @@ Claim Timestamp: 00:32:35
 Claim: Jenica Pounds publicly revealed that Sarah Rogers was leaking information to her, after which Pounds grew paranoid about being set up; host asserts this disclosure itself constitutes evidence of the leak.
 
 Anchored Artifacts: A-2314.1
-Related Nodes: N-2213
+Related Nodes: N-11213
 Investigative Direction: Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.
 
 ---
@@ -461,7 +461,7 @@ Claim: The host asserts that the State Department (Sarah Rogers), the Department
 
 Anchored Artifacts: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1
 Mentions: N-42, N-1, N-66, N-224
-Related Nodes: N-2213
+Related Nodes: N-11213
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
 ## VI. Optional Flags
@@ -469,7 +469,7 @@ Investigative Direction: Independently verify each component of the coordination
 - **Name uncertainty:** Host uses the name "Matt Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
 - **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.
 - **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erica Kirk.
-- **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-2215 but not as an artifact-anchored claim in this episode.
+- **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-11215 but not as an artifact-anchored claim in this episode.
 
 ---
 
@@ -480,7 +480,7 @@ Artifact Families Introduced: A-2310, A-2311, A-2312, A-2313, A-2314, A-2315, A-
 Claim Range: C-3326–C-3344
 
 New Nodes Introduced:
-N-2213, N-2214, N-2215
+N-11213, N-11214, N-11215
 
 Existing Nodes Reused: N-1, N-2, N-3
 

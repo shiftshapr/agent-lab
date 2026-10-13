@@ -143,7 +143,7 @@
           ],
           "related_nodes": [
             "N-349",
-            "N-1298"
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
           ],
           "related_nodes": [
             "N-349",
-            "N-1298"
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -191,7 +191,7 @@
           ],
           "related_nodes": [
             "N-350",
-            "N-1298"
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
           ],
           "related_nodes": [
             "N-353",
-            "N-1301"
+            "N-10301"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -316,7 +316,7 @@
           ],
           "related_nodes": [
             "N-355",
-            "N-1302"
+            "N-10302"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
           "related_nodes": [
             "N-2",
             "N-313",
-            "N-1303"
+            "N-10303"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,8 +373,8 @@
             "N-2",
             "N-135",
             "N-356",
-            "N-1304",
-            "N-1305"
+            "N-10304",
+            "N-10305"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -449,7 +449,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ]
     },
     {
@@ -472,7 +472,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ]
     },
     {
@@ -499,7 +499,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-272",
-        "N-1304"
+        "N-10304"
       ]
     },
     {
@@ -543,7 +543,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1301"
+        "N-10301"
       ]
     },
     {
@@ -571,7 +571,7 @@
       "ref": "N-355",
       "name": "Colby Sessions",
       "type": "person",
-      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-1302.",
+      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10302.",
       "related_artifacts": [
         "A-1352.1"
       ],
@@ -584,7 +584,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1302"
+        "N-10302"
       ]
     },
     {
@@ -606,7 +606,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1304"
+        "N-10304"
       ]
     },
     {
@@ -624,7 +624,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1304"
+        "N-10304"
       ]
     },
     {
@@ -667,8 +667,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1298",
-      "ref": "N-1298",
+      "@id": "N-10298",
+      "ref": "N-10298",
       "name": "UVU Event Approval Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Dispute over whether the UVU campus stop was \"approved\" in July or only \"requested,\" and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1299",
-      "ref": "N-1299",
+      "@id": "N-10299",
+      "ref": "N-10299",
       "name": "Autopsy Report and Evidence Access Asymmetry",
       "type": "investigation_target",
       "description": "Erika Kirk's stated direct access to the autopsy report and \"different evidence portions,\" contrasted with the public record of fragmented disclosures.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1300",
-      "ref": "N-1300",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
       "type": "investigation_target",
       "description": "Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.",
@@ -741,8 +741,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1301",
-      "ref": "N-1301",
+      "@id": "N-10301",
+      "ref": "N-10301",
       "name": "TPUSA / Candace Owens NDA and Blexit Question",
       "type": "investigation_target",
       "description": "Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.",
@@ -763,8 +763,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1302",
-      "ref": "N-1302",
+      "@id": "N-10302",
+      "ref": "N-10302",
       "name": "UVU Green Hoodie Person Identification (Resolved)",
       "type": "investigation_target",
       "description": "Colby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1303",
-      "ref": "N-1303",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Priest Presence at Ole Miss Event",
       "type": "investigation_target",
       "description": "Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.",
@@ -804,13 +804,13 @@
       "related_nodes": [
         "N-2",
         "N-313",
-        "N-1300"
+        "N-10300"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1304",
-      "ref": "N-1304",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Charlie's Heart Still Beating Question",
       "type": "investigation_target",
       "description": "Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1305",
-      "ref": "N-1305",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Erika–Charlie 2018 Israel Airport Meeting Question",
       "type": "investigation_target",
       "description": "Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.",
@@ -901,8 +901,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-10000",
+      "ref": "N-10000",
       "name": "Turning Point USA",
       "type": "investigation_target",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
@@ -995,7 +995,7 @@
         "A-1346.2"
       ],
       "related_nodes": [
-        "N-1299"
+        "N-10299"
       ],
       "tags": [],
       "claim_timestamp": "00:12:21",
@@ -1014,7 +1014,7 @@
         "A-1346.3"
       ],
       "related_nodes": [
-        "N-1300"
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
@@ -1033,8 +1033,8 @@
         "A-1353.1"
       ],
       "related_nodes": [
-        "N-1303",
-        "N-1300"
+        "N-10303",
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:15:23",
@@ -1071,7 +1071,7 @@
         "A-1347.1"
       ],
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
@@ -1090,7 +1090,7 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
@@ -1109,7 +1109,7 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
@@ -1133,7 +1133,7 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
@@ -1152,7 +1152,7 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-1298"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
@@ -1206,7 +1206,7 @@
         "A-1350.1"
       ],
       "related_nodes": [
-        "N-1301"
+        "N-10301"
       ],
       "tags": [],
       "claim_timestamp": "00:55:21",
@@ -1243,7 +1243,7 @@
         "A-1352.1"
       ],
       "related_nodes": [
-        "N-1302"
+        "N-10302"
       ],
       "tags": [],
       "claim_timestamp": "00:25:41",
@@ -1262,7 +1262,7 @@
         "A-1354.1"
       ],
       "related_nodes": [
-        "N-1304"
+        "N-10304"
       ],
       "tags": [],
       "claim_timestamp": "00:59:56",
@@ -1299,7 +1299,7 @@
       "claim": "The host says Turning Point USA is telling a lot of lies and is engaged in a cover-up, that she puts her name on that and will not apologise; she ties it to the Catholicism statements she says Alex Clark lied about.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1000"
+        "N-10000"
       ],
       "tags": [],
       "claim_timestamp": "00:52:20",

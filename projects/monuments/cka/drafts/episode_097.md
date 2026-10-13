@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
+ - New Nodes Introduced: N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724, N-10725
  - Hole-minted Nodes (wave3): N-682, N-683
  - Reused Nodes Appearing: N-2, N-630, N-3, N-424
  - (see registers)
@@ -37,7 +37,7 @@
 - Artifact Families Introduced: A-2015, A-2016, A-2017, A-2018, A-2019, A-2020, A-2021, A-2022, A-2023, A-2024, A-2025, A-2026, A-2027, A-2028, A-2029
 - Claim Range: C-2810 – C-2833
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
+- New Investigation Target Nodes Introduced: N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724, N-10725
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
@@ -104,7 +104,7 @@ Video Timestamp: 00:14:44 – 00:15:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2815, N-1719*
+*Related: C-2815, N-10719*
 
 **A-2015.6** Point 28 – citation of Harpole's November 17 Sean Ryan appearance as defensive response to "Owens and other conspiracy theorists"
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, N-3, N-1718*
+*Related: C-2818, N-3, N-10718*
 
 **A-2017.3** Third message: "Hey Brian, reaching out again to see if you'd be willing to speak about the morning of the 9th... I oddly cannot get you to confirm or deny if you were there."
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:26:41 – 00:27:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2821, N-1721*
+*Related: C-2821, N-10721*
 
 **A-2019.2** Chief Long reply: "I got you covered."
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:27:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2821, N-1721*
+*Related: C-2821, N-10721*
 
 ---
 
@@ -382,7 +382,7 @@ Video Timestamp: 00:10:08 – 00:10:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2824, N-1720*
+*Related: C-2824, N-10720*
 
 ---
 
@@ -398,7 +398,7 @@ Video Timestamp: 01:09:37 – 01:13:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1720*
+*Related: N-10720*
 
 ---
 
@@ -434,11 +434,11 @@ Claim Count: (reused – not recounted)
 Episode Count: (reused – not recounted)
 Investigative Pressure: High
 
-*Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-3, N-1725*
+*Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-3, N-10725*
 
 ### Investigation Targets
 
-**N-1718** Harpole Fort Huachuca Alibi Question
+**N-10718** Harpole Fort Huachuca Alibi Question
 
 Persistence of unresolved alibi question for Brian Harpole's whereabouts on the morning of September 9, 2025; Snow's testimony places him at a Fort Huachuca meeting that concluded at 7:30 a.m.; afternoon Dallas flights cited.
 
@@ -449,7 +449,7 @@ Investigative Pressure: High
 
 *Related: A-2015.9, A-2017.2, A-2020.1, C-2818, C-2819, C-2822*
 
-**N-1719** Harpole Limited-Purpose Public Figure Status
+**N-10719** Harpole Limited-Purpose Public Figure Status
 
 Whether Harpole qualifies as a limited-purpose public figure for defamation actual-malice standard, hinging on his November 17, 2025 Sean Ryan appearance.
 
@@ -460,7 +460,7 @@ Investigative Pressure: High
 
 *Related: A-2015.5, A-2015.6, C-2815, C-2816, C-2817*
 
-**N-1720** UVU Drone Authorization Records
+**N-10720** UVU Drone Authorization Records
 
 Question of whether Brian Harpole submitted and was denied a UVU drone authorization form (per Jen Common viewer comment); relevant to the lawsuit's drone grievance.
 
@@ -471,7 +471,7 @@ Investigative Pressure: Medium
 
 *Related: A-2015.4, A-2028.1, A-2029.1, C-2824*
 
-**N-1721** TPUSA Rooftop Security Decision-Making Discrepancy
+**N-10721** TPUSA Rooftop Security Decision-Making Discrepancy
 
 Whether security was responsible for securing Sorensen Center rooftop access and whether Chief Long's "I got you covered" reply addressed that access; conflict between Harpole's Sean Ryan presentation and the lawsuit's later admission.
 
@@ -482,7 +482,7 @@ Investigative Pressure: Medium
 
 *Related: A-2015.*, A-2019.*, C-2821*
 
-**N-1722** Erika Kirk Murder Allegation Accuracy
+**N-10722** Erika Kirk Murder Allegation Accuracy
 
 Whether Erika Kirk correctly stated that Candace accused her of murdering Charlie Kirk.
 
@@ -493,7 +493,7 @@ Investigative Pressure: Medium
 
 *Related: A-2021.1, C-2825, C-2826, N-2, N-3*
 
-**N-1723** House Resolution Characterization Accuracy
+**N-10723** House Resolution Characterization Accuracy
 
 Whether the Lawler-Gottheimer resolution accurately characterizes Candace's prior statements about Israel, satanic pedophiles, Josef Mengele, and Christian children.
 
@@ -504,7 +504,7 @@ Investigative Pressure: Medium
 
 *Related: A-2023.1, A-2024.1, A-2022.1, C-2828, C-2829, C-2830, C-2831, C-2832, N-3*
 
-**N-1724** Candace-Erika December 15 Private Meeting Revelations
+**N-10724** Candace-Erika December 15 Private Meeting Revelations
 
 Private meeting in which Candace claims to have revealed to Erika Kirk that Mikey McCoy urged Candace to investigate Andrew Kolvet.
 
@@ -515,7 +515,7 @@ Investigative Pressure: Medium
 
 *Related: A-2016.1, N-3*
 
-**N-1725** Charlie Kirk September 9 Pre-Event Threat Text
+**N-10725** Charlie Kirk September 9 Pre-Event Threat Text
 
 Claimed text from Charlie Kirk to security the night before the September 10 event stating "I think I'm going to be killed" – referenced by Candace in arguing Harpole's incompetence claim.
 
@@ -567,7 +567,7 @@ Claim: The lawsuit's first grievance alleges Candace accused Harpole and his tea
 Anchored Artifacts: A-2015.2
 Mentions: N-1, N-3
 
-Related Nodes: N-1725
+Related Nodes: N-10725
 
 Investigative Direction: Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.
 
@@ -596,7 +596,7 @@ Claim: The lawsuit alleges Candace accused Harpole of failing to render effectiv
 Anchored Artifacts: A-2015.4
 Mentions: N-3, N-424
 
-Related Nodes: N-1720
+Related Nodes: N-10720
 
 Investigative Direction: Review "The Great Exodus from Utah" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages.
 
@@ -610,7 +610,7 @@ Claim: The lawsuit's point 29 asserts Harpole is a private individual, not a lim
 
 Anchored Artifacts: A-2015.5
 
-Related Nodes: N-1719
+Related Nodes: N-10719
 
 Investigative Direction: Review defamation caselaw on limited-purpose public figure doctrine and assess Harpole's voluntary insertion into the controversy.
 
@@ -624,7 +624,7 @@ Claim: Point 28 of the lawsuit asserts Harpole appeared on Sean Ryan "solely to 
 
 Anchored Artifacts: A-2015.6
 
-Related Nodes: N-1719
+Related Nodes: N-10719
 
 Investigative Direction: Confirm the air date of Harpole's Sean Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.
 
@@ -639,7 +639,7 @@ Claim: Candace states she never once mentioned Harpole on her podcast prior to h
 Anchored Artifacts: A-2015.6, A-2018.1
 Mentions: N-3
 
-Related Nodes: N-1719
+Related Nodes: N-10719
 
 Investigative Direction: Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.
 
@@ -654,7 +654,7 @@ Claim: Candace sent Harpole three text messages seeking clarification of his whe
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
 Mentions: N-3, N-597
 
-Related Nodes: N-1718
+Related Nodes: N-10718
 
 Investigative Direction: Cross-reference the embedded text messages against phone records; verify Harpole's receipt.
 
@@ -698,7 +698,7 @@ Claim: Although Harpole presented the Sorensen Center rooftop text chain on Sean
 Anchored Artifacts: A-2015.* (admission), A-2019.1, A-2019.2
 Mentions: N-434
 
-Related Nodes: N-1721
+Related Nodes: N-10721
 
 Investigative Direction: Compare the original Sean Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.
 
@@ -713,7 +713,7 @@ Claim: Candace's December 23 X post stated Fort Huachuca was confirmed via metad
 Anchored Artifacts: A-2020.1
 Mentions: N-3
 
-Related Nodes: N-1718
+Related Nodes: N-10718
 
 Investigative Direction: Obtain original X post screenshot and verify text against the quoted excerpt.
 
@@ -743,7 +743,7 @@ Claim: Harpole's statement that drones could not be flown in Provo airspace conf
 Anchored Artifacts: A-2015.4, A-2028.1
 Mentions: N-16
 
-Related Nodes: N-1720
+Related Nodes: N-10720
 
 Investigative Direction: Obtain full audio of Turek's drone statements and cross-reference with FAA Part 107 rules for Provo airspace.
 
@@ -758,7 +758,7 @@ Claim: Erika Kirk publicly asserted that Candace accused her of murdering Charli
 Anchored Artifacts: A-2021.1
 Mentions: N-2, N-3, N-1
 
-Related Nodes: N-1722
+Related Nodes: N-10722
 
 Investigative Direction: Locate Erika Kirk's original statement on video or social media to verify exact wording and context.
 
@@ -773,7 +773,7 @@ Claim: Candace asserts she has never publicly accused Erika Kirk of murdering Ch
 Anchored Artifacts: A-2018.1 (defensive statement of position), A-2021.1
 Mentions: N-2, N-3, N-1
 
-Related Nodes: N-1722
+Related Nodes: N-10722
 
 Investigative Direction: Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.
 
@@ -788,7 +788,7 @@ Claim: Baron Coleman stated on his show that he had never heard Candace say Erik
 Anchored Artifacts: A-2021.1
 Mentions: N-2, N-3, N-552
 
-Related Nodes: N-1722
+Related Nodes: N-10722
 
 Investigative Direction: Locate Coleman's full segment for additional context.
 
@@ -803,7 +803,7 @@ Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartis
 Anchored Artifacts: A-2023.1, A-2024.1
 Mentions: N-3, N-683, N-682, N-630
 
-Related Nodes: N-1723
+Related Nodes: N-10723
 
 Investigative Direction: Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.
 
@@ -818,7 +818,7 @@ Claim: The resolution text characterizes Candace's rhetoric as accusing Israel o
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-683, N-682, N-630
 
-Related Nodes: N-1723
+Related Nodes: N-10723
 
 Investigative Direction: Audit Candace's prior commentary for any statement matching the resolution's characterization.
 
@@ -833,7 +833,7 @@ Claim: The resolution text asserts Candace made an anti-Semitic claim that the U
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-683, N-682, N-630
 
-Related Nodes: N-1723
+Related Nodes: N-10723
 
 Investigative Direction: Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.
 
@@ -848,7 +848,7 @@ Claim: The resolution text references Candace's July 2024 commentary regarding J
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-683, N-682, N-630
 
-Related Nodes: N-1723
+Related Nodes: N-10723
 
 Investigative Direction: Locate Candace's July 2024 statements about Mengele and verify exact wording.
 
@@ -863,7 +863,7 @@ Claim: The official Auschwitz-Birkenau Memorial podcast acknowledged that myths 
 Anchored Artifacts: A-2022.1
 Mentions: N-3, N-683, N-682, N-630
 
-Related Nodes: N-1723
+Related Nodes: N-10723
 
 Investigative Direction: Obtain original Auschwitz Memorial podcast episode for full context.
 
@@ -888,10 +888,10 @@ Investigative Direction: Verify the post's date, persistence, and any replies or
 - **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpold" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
 - **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
 - **Name uncertainty – Matt Slauson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.
-- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-1724).
+- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-10724).
 - **Timestamp estimation:** Some artifact timestamps were approximated where the host transitions between quoted passages without discrete visual cues.
 - **Transcript ambiguity – "the morning of September 9":** Harpole's alleged Fort Huachuca presence is repeatedly dated to "the morning of September 9" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.
-- **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-1718.
+- **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-10718.
 - **Lawsuit characterization caveat:** Host assertions regarding the lawsuit's strategic intent (PR-booth theory) are interpretive commentary and have not been inscribed as artifact-backed claims.
 
 ---

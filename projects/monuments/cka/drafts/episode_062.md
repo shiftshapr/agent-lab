@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-782, N-783, N-785, N-786, N-789, N-790, N-1509, N-1510, N-1511, N-1512, N-1513
+  - New Nodes Introduced: N-782, N-783, N-785, N-786, N-789, N-790, N-10509, N-10510, N-10511, N-10512, N-10513
   - Reused Nodes Appearing: N-2, N-37
   - (see registers)
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erica Kirk confirmed authenticity)
 
-*Related: C-2182, C-2183, N-2, N-782, N-1509*
+*Related: C-2182, C-2183, N-2, N-782, N-10509*
 
 ---
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays case on screen)
 
-*Related: C-2184, N-785, N-1509*
+*Related: C-2184, N-785, N-10509*
 
 **A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:13:25–00:14:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing document displayed)
 
-*Related: C-2186, N-783, N-639, N-785, N-786, N-1511, N-1513*
+*Related: C-2186, N-783, N-639, N-785, N-786, N-10511, N-10513*
 
 **A-1671.2** Arizona Chinese News public notice for Desert Spirit Tech LLC (signed Dec 1, 2017; state-received Dec 6, 2017)
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:16:12–00:17:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (notarized filing displayed)
 
-*Related: C-2187, N-783, N-639, N-1511*
+*Related: C-2187, N-783, N-639, N-10511*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2186, N-785, N-786, N-1513*
+*Related: C-2186, N-785, N-786, N-10513*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:26:45–00:30:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air; recording captured by employee)
 
-*Related: C-2189, C-2190, C-2191, N-42, N-790, N-1510*
+*Related: C-2189, C-2190, C-2191, N-42, N-790, N-10510*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:22:28–00:24:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2192, N-42, N-789, N-1510*
+*Related: C-2192, N-42, N-789, N-10510*
 
 **A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:32:06–00:34:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2193, N-789, N-790, N-1510*
+*Related: C-2193, N-789, N-790, N-10510*
 
 ---
 
@@ -167,7 +167,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1669.1, C-2182, N-2, N-1509*
+*Related: A-1669.1, C-2182, N-2, N-10509*
 
 ---
 
@@ -193,7 +193,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-639, N-2, N-1511, N-1512*
+*Related: A-1671.1, A-1671.2, C-2186, N-639, N-2, N-10511, N-10512*
 
 ---
 
@@ -206,7 +206,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-783, N-1511*
+*Related: A-1671.1, A-1671.2, C-2186, N-783, N-10511*
 
 ---
 
@@ -219,7 +219,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-786, N-1511*
+*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-786, N-10511*
 
 ---
 
@@ -245,7 +245,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.1, C-2189, C-2192, N-1510*
+*Related: A-1674.1, A-1675.1, C-2189, C-2192, N-10510*
 
 ---
 
@@ -258,7 +258,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1675.1, A-1675.2, C-2192, C-2193, N-1510*
+*Related: A-1675.1, A-1675.2, C-2192, C-2193, N-10510*
 
 ---
 
@@ -271,11 +271,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.2, C-2189, C-2193, N-1510*
+*Related: A-1674.1, A-1675.2, C-2189, C-2193, N-10510*
 
 ---
 
-**N-1509** Identity of Christian Zionist Donor (Unverified)
+**N-10509** Identity of Christian Zionist Donor (Unverified)
 
 Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.
 
@@ -288,7 +288,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1510** TPUSA Termination Cause Investigation
+**N-10510** TPUSA Termination Cause Investigation
 
 Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.
 
@@ -301,7 +301,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1511** Desert Spirit Tech LLC Business Purpose Question
+**N-10511** Desert Spirit Tech LLC Business Purpose Question
 
 Persistent unresolved target: stated business activity of Desert Spirit Tech LLC.
 
@@ -314,7 +314,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1512** Euro Tech / Cincinnati Business Investigation
+**N-10512** Euro Tech / Cincinnati Business Investigation
 
 Persistent unresolved target: the "Euro Tech" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.
 
@@ -327,7 +327,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1513** Sacaton "Rose and Thobe" Address Verification
+**N-10513** Sacaton "Rose and Thobe" Address Verification
 
 Persistent unresolved target: whether 26 Rose and Thobe (Desert Spirit Tech) and 21 Rose and Thobe (Generation Seven Farms) correspond to actual physical addresses.
 
@@ -360,7 +360,7 @@ Claim: Charlie Kirk received a text message from a female Christian Zionist dono
 Anchored Artifacts: A-1669.1
 Mentions: N-50, N-3, N-1
 
-Related Nodes: N-1509
+Related Nodes: N-10509
 
 Investigative Direction: Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message.
 
@@ -417,7 +417,7 @@ Claim: In 2017, Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle R
 Anchored Artifacts: A-1671.1, A-1672.1
 Mentions: N-639, N-783, N-785, N-786
 
-Related Nodes: N-1511, N-1513
+Related Nodes: N-10511, N-10513
 
 Investigative Direction: Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.
 
@@ -432,7 +432,7 @@ Claim: The statutory public notice for Desert Spirit Tech LLC was issued in the 
 Anchored Artifacts: A-1671.2
 Mentions: N-639, N-783
 
-Related Nodes: N-1511
+Related Nodes: N-10511
 
 Investigative Direction: Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.
 
@@ -461,7 +461,7 @@ Claim: A TPUSA employee was terminated by general counsel "Frank" with no specif
 Anchored Artifacts: A-1674.1
 Mentions: N-42, N-790, N-1
 
-Related Nodes: N-1510
+Related Nodes: N-10510
 
 Investigative Direction: Obtain the termination documentation referenced in the audio ("email with social security and links" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.
 
@@ -476,7 +476,7 @@ Claim: The terminated employee stated in the recorded termination meeting that s
 Anchored Artifacts: A-1674.1
 Mentions: N-790
 
-Related Nodes: N-1510
+Related Nodes: N-10510
 
 Investigative Direction: Cross-check time-tracking or HR records to verify hours worked.
 
@@ -491,7 +491,7 @@ Claim: The terminated employee stated she had "never had one bad review from Dyl
 Anchored Artifacts: A-1674.1
 Mentions: N-790
 
-Related Nodes: N-1510
+Related Nodes: N-10510
 
 Investigative Direction: Obtain HR personnel file to confirm or refute the absence of any prior negative review.
 
@@ -506,7 +506,7 @@ Claim: Andrew Kolvet brought a TPUSA employee into an office to question them ab
 Anchored Artifacts: A-1675.1
 Mentions: N-42, N-789
 
-Related Nodes: N-1510
+Related Nodes: N-10510
 
 Investigative Direction: Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.
 
@@ -521,7 +521,7 @@ Claim: Marina Minas allegedly received non-stop calls from an unrecognized numbe
 Anchored Artifacts: A-1675.2
 Mentions: N-789, N-790
 
-Related Nodes: N-1510
+Related Nodes: N-10510
 
 Investigative Direction: Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.
 

@@ -34,7 +34,7 @@
 
 - Artifact Families Introduced: A-2085, A-2086, A-2087, A-2088, A-2089, A-2090, A-2091, A-2092
 - Claim Range: C-2935–C-2944
-  - New Nodes Introduced: N-2074, N-2075, N-2076, N-2077, N-2078, N-2079
+  - New Nodes Introduced: N-11074, N-11075, N-11076, N-11077, N-11078, N-11079
   - Reused Nodes Appearing: N-2, N-69
 - Existing Nodes Reused: N-2, N-69
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip clearly played)
 
-*Related: C-2935, N-2074*
+*Related: C-2935, N-11074*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:18:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2936, N-2075*
+*Related: C-2936, N-11075*
 
 **A-2086.2** Sarah Tool second interview – local media, ~51 minutes later – claims Charlie was shot "in the neck," blood spurted across body
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:20:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2937, N-2075*
+*Related: C-2937, N-11075*
 
 **A-2086.3** Sarah Tool ABC News interview – claims shooter was ~200 yards away, shot to left side of neck
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:21:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2938, N-2075*
+*Related: C-2938, N-11075*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:13:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email read aloud verbatim)
 
-*Related: C-2941, N-1, N-2076*
+*Related: C-2941, N-1, N-11076*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2942, C-2943, N-1, N-2076*
+*Related: C-2942, C-2943, N-1, N-11076*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2942, N-1, N-2076*
+*Related: C-2942, N-1, N-11076*
 
 **A-2089.2** YouTube clip of third-party user destroying a Rode Wireless Pro microphone; resulting shard pattern shown
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:15:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2943, N-1, N-2076*
+*Related: C-2943, N-1, N-11076*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2944, N-2, N-2078*
+*Related: C-2944, N-2, N-11078*
 
 **A-2091.2** Erika Miss Arizona era signature – displayed on show as visibly distinct from A-2091.1
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2944, N-2, N-2078*
+*Related: C-2944, N-2, N-11078*
 
 ---
 
@@ -198,14 +198,14 @@ Video Timestamp: 00:25:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (asserted by host; underlying ruling not displayed)
 
-*Related: C-2939, C-2940, N-69, N-2077*
+*Related: C-2939, C-2940, N-69, N-11077*
 
 ---
 
 ## IV. Node Register
 
 
-**N-2079** Sean Ryan Show Interview Clip Bundle
+**N-11079** Sean Ryan Show Interview Clip Bundle
 
 Node Type: topic
 
@@ -220,7 +220,7 @@ Claim Count: 9 (cumulative across series)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
 
-*Related: A-2085.1, A-2086.1, A-2086.2, A-2086.3, A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2935, C-2936, C-2937, C-2938, C-2941, C-2942, C-2943, N-2074, N-2075, N-2076*
+*Related: A-2085.1, A-2086.1, A-2086.2, A-2086.3, A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2935, C-2936, C-2937, C-2938, C-2941, C-2942, C-2943, N-11074, N-11075, N-11076*
 
 ---
 
@@ -234,11 +234,11 @@ Claim Count: 2 (this episode)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
 
-*Related: A-2092.1, C-2939, C-2940, N-2077*
+*Related: A-2092.1, C-2939, C-2940, N-11077*
 
 ---
 
-**N-2074** Charlie Kirk Shirt Disposal Verification
+**N-11074** Charlie Kirk Shirt Disposal Verification
 
 Persistent target: whether Charlie's "freedom shirt" – predicted to retain explosive residue under the mic-explosion hypothesis – was preserved as evidence or otherwise disposed of.
 
@@ -251,7 +251,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2075** Sarah Tool Witness Statement Discrepancy
+**N-11075** Sarah Tool Witness Statement Discrepancy
 
 Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sarah Tool interviews.
 
@@ -264,7 +264,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2076** SUV Floorboard Shard Mic Identification
+**N-11076** SUV Floorboard Shard Mic Identification
 
 Persistent target: whether the black shards visible on the SUV floorboard are ABS shards from a Rode Wireless Pro microphone or from another source.
 
@@ -277,7 +277,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2077** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-11077** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Target: court ruling permitting Twiggs's recorded statement at the preliminary hearing without live cross-examination.
 
@@ -290,7 +290,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2078** Erika Signature Change Discrepancy
+**N-11078** Erika Signature Change Discrepancy
 
 Target: observable transformation of Erika Kirk's signature between her Miss Arizona era and current usage.
 
@@ -314,7 +314,7 @@ Claim: Brian Harpole states in the Sean Ryan interview that he personally cut Ch
 Anchored Artifacts: A-2085.1
 Mentions: N-424, N-1
 
-Related Nodes: N-2074
+Related Nodes: N-11074
 
 Investigative Direction: Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.
 
@@ -329,7 +329,7 @@ Claim: In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was sh
 Anchored Artifacts: A-2086.1
 Mentions: N-1
 
-Related Nodes: N-2075
+Related Nodes: N-11075
 
 Investigative Direction: Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.
 
@@ -344,7 +344,7 @@ Claim: Approximately 51 minutes after her first interview, Sarah Tool stated in 
 Anchored Artifacts: A-2086.2
 Mentions: N-1
 
-Related Nodes: N-2075
+Related Nodes: N-11075
 
 Investigative Direction: Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account.
 
@@ -359,7 +359,7 @@ Claim: In her ABC News interview, Sarah Tool stated the shooter was approximatel
 Anchored Artifacts: A-2086.3
 Mentions: N-1
 
-Related Nodes: N-2075
+Related Nodes: N-11075
 
 Investigative Direction: Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
 
@@ -374,7 +374,7 @@ Claim: Judge Graff has denied the defense motion to compel Lance Twiggs to appea
 Anchored Artifacts: A-2092.1
 Mentions: N-69, N-84
 
-Related Nodes: N-2077
+Related Nodes: N-11077
 
 Investigative Direction: Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.
 
@@ -389,7 +389,7 @@ Claim: Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be
 Anchored Artifacts: A-2092.1
 Mentions: N-69, N-84
 
-Related Nodes: N-2077
+Related Nodes: N-11077
 
 Investigative Direction: Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript.
 
@@ -404,7 +404,7 @@ Claim: A viewer email asserts that white markings visible on the SUV floorboard 
 Anchored Artifacts: A-2087.1
 Mentions: N-1
 
-Related Nodes: N-2076
+Related Nodes: N-11076
 
 Investigative Direction: Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments.
 
@@ -419,7 +419,7 @@ Claim: Enhanced still images displayed on the show show white markings on the SU
 Anchored Artifacts: A-2088.1, A-2089.1
 Mentions: N-1
 
-Related Nodes: N-2076
+Related Nodes: N-11076
 
 Investigative Direction: Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis.
 
@@ -434,7 +434,7 @@ Claim: A YouTube video showing a third party destroying a Rode Wireless Pro prod
 Anchored Artifacts: A-2089.2, A-2088.1
 Mentions: N-1
 
-Related Nodes: N-2076
+Related Nodes: N-11076
 
 Investigative Direction: Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology.
 
@@ -449,7 +449,7 @@ Claim: Signatures displayed on the show show Erika's current signature as visual
 Anchored Artifacts: A-2091.1, A-2091.2
 Mentions: N-2
 
-Related Nodes: N-2078
+Related Nodes: N-11078
 
 Investigative Direction: Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison.
 
@@ -490,8 +490,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use sequential global IDs (N-1207, N-1208, N-1209, N-1210)
-- [x] Non-person investigation targets use the 1000-series (N-2074 through N-2078)
+- [x] People nodes use sequential global IDs (N-10207, N-10208, N-10209, N-10210)
+- [x] Non-person investigation targets use the 1000-series (N-11074 through N-11078)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly as appearing or uncertainty flagged
 - [x] Formatting consistent across registers

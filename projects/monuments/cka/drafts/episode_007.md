@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
-  - New Nodes Introduced: N-128, N-129, N-130, N-132, N-133, N-134, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156, N-1157
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1079, N-16, N-95
+  - New Nodes Introduced: N-128, N-129, N-130, N-132, N-133, N-134, N-10148, N-10149, N-10150, N-10151, N-10152, N-10153, N-10154, N-10155, N-10156, N-10157
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-10000, N-10077, N-10079, N-16, N-95
 
 ## 2. Executive Summary
 
@@ -46,7 +46,7 @@ Transcript Snippet: But she arrived at forgiveness and she did it in front of th
 **A-1135.1** Kolvet tweet re lack of exit wound called a miracle
 Event Timestamp: 2025-09-13
 Video Timestamp: 00:08:41–00:10:36
-*Related: C-1229, C-1230, N-42, N-1000*
+*Related: C-1229, C-1230, N-42, N-10000*
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Confidence: high
 
@@ -66,7 +66,7 @@ Confidence: high
 
 **A-1137.1** Kash Patel tweet: FBI commitment to thorough investigation
 Video Timestamp: 00:15:24–00:17:31
-*Related: C-1232, C-1233, N-102, N-1079*
+*Related: C-1232, C-1233, N-102, N-10079*
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Confidence: high
 
@@ -76,7 +76,7 @@ Confidence: high
 
 **A-1138.1** Derek Maxfield Instagram statement: ATC granted transponder shutdown permission
 Video Timestamp: 00:17:12–00:17:48
-*Related: C-1233, N-129, N-1079, N-1150*
+*Related: C-1233, N-129, N-10079, N-10150*
 Transcript Snippet: they got permission to you know turn off services which are transponder services um and they got that permission from the air traffic controller.
 Confidence: medium
 
@@ -86,18 +86,18 @@ Confidence: medium
 
 **A-1139.1** Photo showing pipeline behind Charlie's seat
 Video Timestamp: 00:20:46–00:21:00
-*Related: C-1234, N-1077, N-1151*
+*Related: C-1234, N-10077, N-10151*
 Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Confidence: medium
 
 **A-1139.2** Close-up of trap-door boxes at location
 Video Timestamp: 00:21:13–00:21:27
-*Related: C-1234, N-1077, N-1151*
+*Related: C-1234, N-10077, N-10151*
 Transcript Snippet: You're observing those two little boxes, and they told me that that was a a trap door.
 
 **A-1139.3** Footage of area being repaved shortly after shooting
 Video Timestamp: 00:23:03–00:23:17
-*Related: C-1235, N-1077*
+*Related: C-1235, N-10077*
 Transcript Snippet: They decided to instead pave that area, repave it.
 
 ---
@@ -106,7 +106,7 @@ Transcript Snippet: They decided to instead pave that area, repave it.
 
 **A-1140.1** Laura Loomer tweet reporting Candace to CIA over CIA-themed merch
 Video Timestamp: 00:27:15–00:28:40
-*Related: C-1236, N-91, N-1148*
+*Related: C-1236, N-91, N-10148*
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Confidence: high
 
@@ -150,7 +150,7 @@ Transcript Snippet: If you call everyone an anti-semite if they don't take a pur
 
 **A-1143.2** Charlie Kirk town hall clip discussing AIPAC
 Video Timestamp: 00:39:25–00:42:59
-*Related: C-1241, N-1149*
+*Related: C-1241, N-10149*
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 
 ---
@@ -377,7 +377,7 @@ Israeli PM alleged to have offered Charlie Kirk funding.
 
 ---
 
-**N-1148** CIA
+**N-10148** CIA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -387,7 +387,7 @@ Central Intelligence Agency; subject of merch complaint.
 
 ---
 
-**N-1000** Turning Point USA
+**N-10000** Turning Point USA
 
 Node Type: Organization
 Organization Kind: nonprofit
@@ -397,7 +397,7 @@ Conservative youth organization founded by Charlie Kirk.
 
 ---
 
-**N-1077** Utah Valley University
+**N-10077** Utah Valley University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -409,7 +409,7 @@ Site of Charlie Kirk shooting; alleged underground tunnel/pipeline owner.
 
 ---
 
-**N-1149** AIPAC
+**N-10149** AIPAC
 
 Node Type: Organization
 Organization Kind: advocacy_group
@@ -421,7 +421,7 @@ Pro-Israel lobbying organization discussed at Charlie's town hall.
 
 ---
 
-**N-1150** FAA
+**N-10150** FAA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -431,7 +431,7 @@ Federal Aviation Administration; consulted re transponder claim.
 
 ---
 
-**N-1151** Exit Wound / Bullet Trajectory Discrepancy
+**N-10151** Exit Wound / Bullet Trajectory Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -441,7 +441,7 @@ Mismatch between expected high-velocity bullet behavior and reported no-exit-wou
 
 ---
 
-**N-1152** Transponder / Plane Anomaly Investigation
+**N-10152** Transponder / Plane Anomaly Investigation
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -451,7 +451,7 @@ Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).
 
 ---
 
-**N-1153** UVU Underground Tunnel / Pipeline Investigation
+**N-10153** UVU Underground Tunnel / Pipeline Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -461,7 +461,7 @@ Hypothesis that underground access near Charlie's seat could explain no-exit-wou
 
 ---
 
-**N-1154** Candace Owens FBI/CIA Reporting Incident
+**N-10154** Candace Owens FBI/CIA Reporting Incident
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -471,7 +471,7 @@ Allegation that Candace was reported to FBI and CIA over merch and rhetoric.
 
 ---
 
-**N-1155** Charlie Kirk / Candace Alleged Falling Out
+**N-10155** Charlie Kirk / Candace Alleged Falling Out
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -481,7 +481,7 @@ Disputed narrative that Charlie and Candace had a breakup; host denies.
 
 ---
 
-**N-1156** Screwdriver Evidence Question
+**N-10156** Screwdriver Evidence Question
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -491,7 +491,7 @@ Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.
 
 ---
 
-**N-1157** Dr. Frank Turk Suspicion
+**N-10157** Dr. Frank Turk Suspicion
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -521,7 +521,7 @@ Claim: TPUSA spokesperson Andrew Kolvet publicly stated the absence of an exit w
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Anchored Artifacts: A-1135.1
 Mentions: N-42
-Related Nodes: N-1000, N-1151
+Related Nodes: N-10000, N-10151
 Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.
 
 ---
@@ -533,7 +533,7 @@ Claim: The hospital surgeon told Kolvet the bullet should have passed through Ch
 Transcript Snippet: He said the bullet quote absolutely should have gone through.
 Anchored Artifacts: A-1135.1
 Mentions: N-42
-Related Nodes: N-1151
+Related Nodes: N-10151
 Investigative Direction: Identify the surgeon and request confirmation; review any hospital records.
 
 ---
@@ -545,7 +545,7 @@ Claim: Alex Jones publicly disputed the miracle/exit-wound statement on X Live, 
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Anchored Artifacts: A-1136.1
 Mentions: N-128
-Related Nodes: N-1151
+Related Nodes: N-10151
 Investigative Direction: Archive the original X Live broadcast.
 
 ---
@@ -557,7 +557,7 @@ Claim: FBI Director Kash Patel publicly committed the FBI to investigating every
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Anchored Artifacts: A-1137.1
 Mentions: N-102, N-1
-Related Nodes: N-1079
+Related Nodes: N-10079
 Investigative Direction: Retrieve the original Patel tweet and archive; cross-reference FBI press releases.
 
 Tags: open_source_investigation
@@ -570,7 +570,7 @@ Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost 
 Transcript Snippet: It can't be both. Can't be.
 Anchored Artifacts: A-1137.1, A-1138.1
 Mentions: N-102, N-129
-Related Nodes: N-1079, N-1150, N-1152
+Related Nodes: N-10079, N-10150, N-10152
 Confidence: medium
 Uncertainty: Both sides cited via on-screen/read-aloud artifacts.
 Investigative Direction: Obtain FAA radar logs and ATC recordings for the relevant flight.
@@ -584,7 +584,7 @@ Claim: Photos from the shooting location show a large pipeline and trap-door box
 Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Anchored Artifacts: A-1139.1, A-1139.2
 Mentions: N-1
-Related Nodes: N-1077, N-1153
+Related Nodes: N-10077, N-10153
 Investigative Direction: Obtain UVU facilities maps, irrigation system records, and underground utility diagrams.
 
 ---
@@ -596,7 +596,7 @@ Claim: UVU repaved the area where Charlie Kirk was shot within approximately 48 
 Transcript Snippet: They decided to instead pave that area, repave it.
 Anchored Artifacts: A-1139.3
 Mentions: N-1
-Related Nodes: N-1077
+Related Nodes: N-10077
 Investigative Direction: Obtain UVU maintenance logs and contractor records for the repaving.
 
 ---
@@ -608,7 +608,7 @@ Claim: Laura Loomer publicly reported Candace Owens to the CIA via X, alleging t
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Anchored Artifacts: A-1140.1
 Mentions: N-3, N-91
-Related Nodes: N-1148, N-1154
+Related Nodes: N-10148, N-10154
 Investigative Direction: Archive the original Loomer tweet; check whether any formal CIA complaint was filed.
 
 ---
@@ -620,7 +620,7 @@ Claim: An X account called Awesome Jew released text messages between Charlie Ki
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Anchored Artifacts: A-1141.1, A-1141.2
 Mentions: N-1, N-3, N-132
-Related Nodes: N-1155
+Related Nodes: N-10155
 Investigative Direction: Verify the actual date of the messages via metadata or forensic analysis of screenshots.
 
 Tags: open_source_investigation
@@ -633,7 +633,7 @@ Claim: Host asserts the released text messages dated to 2023 based on context (B
 Transcript Snippet: It's from 2023. He then writes 'It doesn't come natural to her...'
 Anchored Artifacts: A-1141.1, A-1141.2
 Mentions: N-1, N-3, N-95
-Related Nodes: N-1155
+Related Nodes: N-10155
 Investigative Direction: Cross-reference the content with public 2023 events; obtain metadata from screenshots.
 
 Tags: open_source_investigation
@@ -657,7 +657,7 @@ Claim: Charlie Kirk publicly stated that labeling everyone who didn't take a pur
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
 Mentions: N-65, N-1
-Related Nodes: N-1149
+Related Nodes: N-10149
 Investigative Direction: Verify the full town hall recording.
 
 ---
@@ -669,7 +669,7 @@ Claim: Charlie Kirk publicly criticized AIPAC as a group prioritizing foreign in
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.
 Anchored Artifacts: A-1143.2
 Mentions: N-1
-Related Nodes: N-1149
+Related Nodes: N-10149
 Investigative Direction: Verify the full town hall recording and Charlie's subsequent statements on the topic.
 
 ---
@@ -692,7 +692,7 @@ Claim: A viewer reports that authorities claimed a screwdriver was found on the 
 Transcript Snippet: You don't use a screwdriver to take that rifle apart.
 Anchored Artifacts: A-1145.1
 Mentions:
-Related Nodes: N-1156
+Related Nodes: N-10156
 Investigative Direction: Identify the rifle model and required disassembly tools; locate official inventory of recovered items.
 
 ---
@@ -704,7 +704,7 @@ Claim: A viewer reports persistent unease about Dr. Frank Turk following his mem
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 Anchored Artifacts: A-1145.2
 Mentions: N-16
-Related Nodes: N-1157
+Related Nodes: N-10157
 Investigative Direction: Obtain the full Frank Turk memorial speech and biographical background.
 
 ---

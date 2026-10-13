@@ -1,124 +1,124 @@
 {
   "version": 5,
   "updated": "2026-10-08",
-  "description": "CKA tombstone ledger, rebuilt in Wave 1 from CKA history: Batch 1 remap entries that differ from BoC, PR47-PR51 and PR48 collapses, and Wave 1 moves. Verbatim Bride of Charlie copies were removed. Keys legacy-N-X are enforced by dia_preflight (X may not be cited unless active); wave1-N-X keys document a second event on an id that already has a legacy key. Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
+  "description": "CKA tombstone ledger, rebuilt in Wave 1 from CKA history: Batch 1 remap entries that differ from BoC, PR47-PR51 and PR48 collapses, and Wave 1 moves. Verbatim Bride of Charlie copies were removed. Keys legacy-N-X are enforced by dia_preflight (X may not be cited unless active); wave1-N-X keys document a second event on an id that already has a legacy key. Person N-1..N-999 dense intro-order; Topic/Org/Place N-10000+ only.",
   "retired": {
-    "legacy-N-1001": {
+    "legacy-N-10001": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1002": {
+    "legacy-N-10002": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1004": {
+    "legacy-N-10004": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1005": {
+    "legacy-N-10005": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1006": {
+    "legacy-N-10006": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1007": {
+    "legacy-N-10007": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1008": {
+    "legacy-N-10008": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1011": {
+    "legacy-N-10011": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1012": {
+    "legacy-N-10012": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1013": {
+    "legacy-N-10013": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk (episode spelling: \"Erika Kirk\")",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1014": {
+    "legacy-N-10014": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1016": {
+    "legacy-N-10016": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1020": {
+    "legacy-N-10020": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk (née Frantzve)",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1021": {
+    "legacy-N-10021": {
       "survives_as": "N-2",
       "canonical_name": "Erika Kirk (name spelling uncertain – see Optional Flags)",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1022": {
+    "legacy-N-10022": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1023": {
+    "legacy-N-10023": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1024": {
+    "legacy-N-10024": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1025": {
+    "legacy-N-10025": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1026": {
+    "legacy-N-10026": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1027": {
+    "legacy-N-10027": {
       "survives_as": "N-176",
       "canonical_name": "Mike Mitchell",
       "reason": "Mike Mitchell topic collapsed onto person N-176."
     },
-    "legacy-N-1029": {
+    "legacy-N-10029": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1030": {
+    "legacy-N-10030": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1031": {
+    "legacy-N-10031": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk (transcript variants: \"Erika Kirk\" / \"Erica Kirk\")",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
     },
-    "legacy-N-1032": {
+    "legacy-N-10032": {
       "survives_as": "N-2",
       "canonical_name": "Erica Kirk",
       "reason": "Erica Kirk topic / person-substitute collapsed onto person N-2 Erika Kirk."
@@ -1408,345 +1408,345 @@
       "canonical_name": "Randy Fine",
       "reason": "Duplicate person collapsed into N-339 (Randy Fine)."
     },
-    "legacy-N-10000": {
+    "pr47-N-10000": {
       "survives_as": "N-30",
       "canonical_name": "Maycee Crofts",
       "reason": "Person remapped into N-30 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10001": {
+    "pr47-N-10001": {
       "survives_as": "N-36",
       "canonical_name": "Caleb Chilcutt",
       "reason": "Person remapped into N-36 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10002": {
+    "pr47-N-10002": {
       "survives_as": "N-37",
       "canonical_name": "Tyler Bowyer",
       "reason": "Person remapped into N-37 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10003": {
+    "pr47-N-10003": {
       "survives_as": "N-40",
       "canonical_name": "Kip Crofts",
       "reason": "Person remapped into N-40 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10004": {
+    "pr47-N-10004": {
       "survives_as": "N-41",
       "canonical_name": "Clara Molot",
       "reason": "Person remapped into N-41 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10005": {
+    "pr47-N-10005": {
       "survives_as": "N-44",
       "canonical_name": "Sergio Gor",
       "reason": "Person remapped into N-44 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10006": {
+    "pr47-N-10006": {
       "survives_as": "N-46",
       "canonical_name": "Andrew Wilson",
       "reason": "Person remapped into N-46 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10007": {
+    "pr47-N-10007": {
       "survives_as": "N-47",
       "canonical_name": "Laine Schoneberger",
       "reason": "Person remapped into N-47 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10008": {
+    "pr47-N-10008": {
       "survives_as": "N-48",
       "canonical_name": "Dylan Erickson",
       "reason": "Person remapped into N-48 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10009": {
+    "pr47-N-10009": {
       "survives_as": "N-49",
       "canonical_name": "Dennis Fenstermaker",
       "reason": "Person remapped into N-49 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10010": {
+    "pr47-N-10010": {
       "survives_as": "N-51",
       "canonical_name": "Alan Collinge",
       "reason": "Person remapped into N-51 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10011": {
+    "pr47-N-10011": {
       "survives_as": "N-52",
       "canonical_name": "Riley Gaines",
       "reason": "Person remapped into N-52 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10012": {
+    "pr47-N-10012": {
       "survives_as": "N-53",
       "canonical_name": "Brian Cole Jr.",
       "reason": "Person remapped into N-53 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10013": {
+    "pr47-N-10013": {
       "survives_as": "N-54",
       "canonical_name": "Lori Jane Gliha",
       "reason": "Person remapped into N-54 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10014": {
+    "pr47-N-10014": {
       "survives_as": "N-57",
       "canonical_name": "Mitt Romney",
       "reason": "Person remapped into N-57 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10015": {
+    "pr47-N-10015": {
       "survives_as": "N-58",
       "canonical_name": "Maggie Haberman",
       "reason": "Person remapped into N-58 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10016": {
+    "pr47-N-10016": {
       "survives_as": "N-178",
       "canonical_name": "Jonathan Swan",
       "reason": "Person remapped into N-178 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10017": {
+    "pr47-N-10017": {
       "survives_as": "N-182",
       "canonical_name": "Susie Wiles",
       "reason": "Person remapped into N-182 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10018": {
+    "pr47-N-10018": {
       "survives_as": "N-209",
       "canonical_name": "Taylor Budowich",
       "reason": "Person remapped into N-209 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10019": {
+    "pr47-N-10019": {
       "survives_as": "N-213",
       "canonical_name": "David Warrington",
       "reason": "Person remapped into N-213 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10020": {
+    "pr47-N-10020": {
       "survives_as": "N-215",
       "canonical_name": "James Blair",
       "reason": "Person remapped into N-215 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10021": {
+    "pr47-N-10021": {
       "survives_as": "N-223",
       "canonical_name": "Stanley Woodward",
       "reason": "Person remapped into N-223 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10022": {
+    "pr47-N-10022": {
       "survives_as": "N-225",
       "canonical_name": "Steven Cheung",
       "reason": "Person remapped into N-225 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10023": {
+    "pr47-N-10023": {
       "survives_as": "N-230",
       "canonical_name": "Howard Lutnick",
       "reason": "Person remapped into N-230 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10024": {
+    "pr47-N-10024": {
       "survives_as": "N-244",
       "canonical_name": "Simon Andre",
       "reason": "Person remapped into N-244 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10025": {
+    "pr47-N-10025": {
       "survives_as": "N-250",
       "canonical_name": "Zach Bryan",
       "reason": "Person remapped into N-250 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10026": {
+    "pr47-N-10026": {
       "survives_as": "N-279",
       "canonical_name": "Robert Kraft",
       "reason": "Person remapped into N-279 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10027": {
+    "pr47-N-10027": {
       "survives_as": "N-294",
       "canonical_name": "Lindsay Clancy",
       "reason": "Person remapped into N-294 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10028": {
+    "pr47-N-10028": {
       "survives_as": "N-303",
       "canonical_name": "Nancy Mace",
       "reason": "Person remapped into N-303 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10029": {
+    "pr47-N-10029": {
       "survives_as": "N-318",
       "canonical_name": "Nick Shirley",
       "reason": "Person remapped into N-318 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10030": {
+    "pr47-N-10030": {
       "survives_as": "N-342",
       "canonical_name": "Brandon Tatum",
       "reason": "Person remapped into N-342 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10031": {
+    "pr47-N-10031": {
       "survives_as": "N-346",
       "canonical_name": "Steven Paddock",
       "reason": "Person remapped into N-346 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10032": {
+    "pr47-N-10032": {
       "survives_as": "N-347",
       "canonical_name": "Harvey Weinstein",
       "reason": "Person remapped into N-347 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-10033": {
+    "pr47-N-10033": {
       "survives_as": "N-411",
       "canonical_name": "Lisa Nose",
       "reason": "Person remapped into N-411 (low-band hole reclaim 2026-10-06)."
     },
-    "legacy-N-2275": {
-      "survives_as": "N-1207",
+    "legacy-N-11275": {
+      "survives_as": "N-10207",
       "canonical_name": "Mike Mitchell Public Record Anomaly",
-      "reason": "Mirror topic remint collapsed onto original N-1207."
+      "reason": "Mirror topic remint collapsed onto original N-10207."
     },
-    "legacy-N-2276": {
-      "survives_as": "N-1208",
+    "legacy-N-11276": {
+      "survives_as": "N-10208",
       "canonical_name": "Brooksby Suicide Narrative Discrepancy",
-      "reason": "Mirror topic remint collapsed onto original N-1208."
+      "reason": "Mirror topic remint collapsed onto original N-10208."
     },
-    "legacy-N-2277": {
-      "survives_as": "N-1209",
+    "legacy-N-11277": {
+      "survives_as": "N-10209",
       "canonical_name": "Robinson Apartment Staging Allegation",
-      "reason": "Mirror topic remint collapsed onto original N-1209."
+      "reason": "Mirror topic remint collapsed onto original N-10209."
     },
-    "legacy-N-2278": {
-      "survives_as": "N-1210",
+    "legacy-N-11278": {
+      "survives_as": "N-10210",
       "canonical_name": "Phil Lyman Proximity and Behavior Investigation",
-      "reason": "Mirror topic remint collapsed onto original N-1210."
+      "reason": "Mirror topic remint collapsed onto original N-10210."
     },
-    "legacy-N-2279": {
-      "survives_as": "N-1211",
+    "legacy-N-11279": {
+      "survives_as": "N-10211",
       "canonical_name": "UVU Campus Familiarity Question",
-      "reason": "Mirror topic remint collapsed onto original N-1211."
+      "reason": "Mirror topic remint collapsed onto original N-10211."
     },
-    "legacy-N-2280": {
-      "survives_as": "N-1212",
+    "legacy-N-11280": {
+      "survives_as": "N-10212",
       "canonical_name": "Phil Lyman Location Discrepancy",
-      "reason": "Mirror topic remint collapsed onto original N-1212."
+      "reason": "Mirror topic remint collapsed onto original N-10212."
     },
-    "legacy-N-2281": {
-      "survives_as": "N-1213",
+    "legacy-N-11281": {
+      "survives_as": "N-10213",
       "canonical_name": "Unidentified Goth Person in Broderick Companion Photo",
-      "reason": "Mirror topic remint collapsed onto original N-1213."
+      "reason": "Mirror topic remint collapsed onto original N-10213."
     },
-    "legacy-N-2282": {
-      "survives_as": "N-1214",
+    "legacy-N-11282": {
+      "survives_as": "N-10214",
       "canonical_name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "reason": "Mirror topic remint collapsed onto original N-1214."
+      "reason": "Mirror topic remint collapsed onto original N-10214."
     },
-    "legacy-N-2283": {
-      "survives_as": "N-1215",
+    "legacy-N-11283": {
+      "survives_as": "N-10215",
       "canonical_name": "Hospital Routing Discrepancy",
-      "reason": "Mirror topic remint collapsed onto original N-1215."
+      "reason": "Mirror topic remint collapsed onto original N-10215."
     },
-    "legacy-N-2284": {
-      "survives_as": "N-1216",
+    "legacy-N-11284": {
+      "survives_as": "N-10216",
       "canonical_name": "Utah FBI Personnel Replacement",
-      "reason": "Mirror topic remint collapsed onto original N-1216."
+      "reason": "Mirror topic remint collapsed onto original N-10216."
     },
-    "legacy-N-2285": {
-      "survives_as": "N-1217",
+    "legacy-N-11285": {
+      "survives_as": "N-10217",
       "canonical_name": "Mike Mitchell Undercover Role Verification",
-      "reason": "Mirror topic remint collapsed onto original N-1217."
+      "reason": "Mirror topic remint collapsed onto original N-10217."
     },
-    "legacy-N-2286": {
-      "survives_as": "N-1218",
+    "legacy-N-11286": {
+      "survives_as": "N-10218",
       "canonical_name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "reason": "Mirror topic remint collapsed onto original N-1218."
+      "reason": "Mirror topic remint collapsed onto original N-10218."
     },
-    "legacy-N-2287": {
-      "survives_as": "N-1219",
+    "legacy-N-11287": {
+      "survives_as": "N-10219",
       "canonical_name": "\"Robbie Hild\" Identity Verification",
-      "reason": "Mirror topic remint collapsed onto original N-1219."
+      "reason": "Mirror topic remint collapsed onto original N-10219."
     },
-    "legacy-N-2288": {
-      "survives_as": "N-1220",
+    "legacy-N-11288": {
+      "survives_as": "N-10220",
       "canonical_name": "Case-Personnel Cluster Anomalies",
-      "reason": "Mirror topic remint collapsed onto original N-1220."
+      "reason": "Mirror topic remint collapsed onto original N-10220."
     },
-    "legacy-N-2289": {
-      "survives_as": "N-1221",
+    "legacy-N-11289": {
+      "survives_as": "N-10221",
       "canonical_name": "Autopsy Record – Utah Privacy Statute Application",
-      "reason": "Mirror topic remint collapsed onto original N-1221."
+      "reason": "Mirror topic remint collapsed onto original N-10221."
     },
-    "legacy-N-2290": {
-      "survives_as": "N-1222",
+    "legacy-N-11290": {
+      "survives_as": "N-10222",
       "canonical_name": "Hospital Routing Anomaly",
-      "reason": "Mirror topic remint collapsed onto original N-1222."
+      "reason": "Mirror topic remint collapsed onto original N-10222."
     },
-    "legacy-N-2291": {
-      "survives_as": "N-1223",
+    "legacy-N-11291": {
+      "survives_as": "N-10223",
       "canonical_name": "TPUSA Faith Packet / Israel References Claim",
-      "reason": "Mirror topic remint collapsed onto original N-1223."
+      "reason": "Mirror topic remint collapsed onto original N-10223."
     },
-    "legacy-N-2292": {
-      "survives_as": "N-1224",
+    "legacy-N-11292": {
+      "survives_as": "N-10224",
       "canonical_name": "ADL–FBI Partnership Structure",
-      "reason": "Mirror topic remint collapsed onto original N-1224."
+      "reason": "Mirror topic remint collapsed onto original N-10224."
     },
-    "legacy-N-2293": {
-      "survives_as": "N-1225",
+    "legacy-N-11293": {
+      "survives_as": "N-10225",
       "canonical_name": "Connecticut FBI Field Office Deployment Anomaly",
-      "reason": "Mirror topic remint collapsed onto original N-1225."
+      "reason": "Mirror topic remint collapsed onto original N-10225."
     },
-    "legacy-N-2294": {
-      "survives_as": "N-1226",
+    "legacy-N-11294": {
+      "survives_as": "N-10226",
       "canonical_name": "Tyler Robinson Defense Selection Anomaly",
-      "reason": "Mirror topic remint collapsed onto original N-1226."
+      "reason": "Mirror topic remint collapsed onto original N-10226."
     },
-    "legacy-N-2295": {
-      "survives_as": "N-1227",
+    "legacy-N-11295": {
+      "survives_as": "N-10227",
       "canonical_name": "Witness and Public-Figure Demeanor Anomalies",
-      "reason": "Mirror topic remint collapsed onto original N-1227."
+      "reason": "Mirror topic remint collapsed onto original N-10227."
     },
-    "legacy-N-2296": {
-      "survives_as": "N-1228",
+    "legacy-N-11296": {
+      "survives_as": "N-10228",
       "canonical_name": "SD Card Removal Narrative Discrepancy",
-      "reason": "Mirror topic remint collapsed onto original N-1228."
+      "reason": "Mirror topic remint collapsed onto original N-10228."
     },
-    "legacy-N-2297": {
-      "survives_as": "N-1229",
+    "legacy-N-11297": {
+      "survives_as": "N-10229",
       "canonical_name": "Pre-Assassination Group Chat Content",
-      "reason": "Mirror topic remint collapsed onto original N-1229."
+      "reason": "Mirror topic remint collapsed onto original N-10229."
     },
-    "legacy-N-2298": {
-      "survives_as": "N-1230",
+    "legacy-N-11298": {
+      "survives_as": "N-10230",
       "canonical_name": "Charlie Kirk Catholic Trajectory Verification",
-      "reason": "Mirror topic remint collapsed onto original N-1230."
+      "reason": "Mirror topic remint collapsed onto original N-10230."
     },
-    "legacy-N-2299": {
-      "survives_as": "N-1231",
+    "legacy-N-11299": {
+      "survives_as": "N-10231",
       "canonical_name": "Campus Footage Release Strategy Question",
-      "reason": "Mirror topic remint collapsed onto original N-1231."
+      "reason": "Mirror topic remint collapsed onto original N-10231."
     },
-    "legacy-N-2300": {
-      "survives_as": "N-1232",
+    "legacy-N-11300": {
+      "survives_as": "N-10232",
       "canonical_name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "reason": "Mirror topic remint collapsed onto original N-1232."
+      "reason": "Mirror topic remint collapsed onto original N-10232."
     },
-    "legacy-N-2256": {
+    "legacy-N-11256": {
       "survives_as": "N-432",
       "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
       "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
     },
-    "legacy-N-2257": {
+    "legacy-N-11257": {
       "survives_as": "N-432",
       "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
       "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
     },
-    "legacy-N-2258": {
+    "legacy-N-11258": {
       "survives_as": "N-432",
       "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
       "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
     },
-    "legacy-N-2259": {
+    "legacy-N-11259": {
       "survives_as": "N-432",
       "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
       "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
     },
-    "legacy-N-2260": {
+    "legacy-N-11260": {
       "survives_as": "N-432",
       "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
       "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
     },
-    "legacy-N-2261": {
+    "legacy-N-11261": {
       "survives_as": "N-432",
       "canonical_name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
       "reason": "Chester Barnes claim-sentence topic collapsed onto person N-432 Derek Pepper Williams."
     },
-    "legacy-N-1137": {
-      "survives_as": "N-1079",
+    "legacy-N-10137": {
+      "survives_as": "N-10079",
       "canonical_name": "FBI",
-      "reason": "Org dupe collapsed onto N-1079 Federal Bureau of Investigation."
+      "reason": "Org dupe collapsed onto N-10079 Federal Bureau of Investigation."
     },
     "legacy-N-560": {
-      "survives_as": "N-1197",
+      "survives_as": "N-10197",
       "canonical_name": "PragerU",
-      "reason": "Person mistype collapsed onto org N-1197 PragerU."
+      "reason": "Person mistype collapsed onto org N-10197 PragerU."
     },
     "legacy-N-21": {
       "survives_as": null,
@@ -2138,12 +2138,12 @@
       "canonical_name": "Node 987",
       "reason": "Objectlike type=person (bundle/vehicle/claim-sentence/Node NNN) retired."
     },
-    "legacy-N-1318": {
+    "legacy-N-10318": {
       "survives_as": null,
       "canonical_name": "Node 1318",
       "reason": "Objectlike garbage label (Node NNN) retired."
     },
-    "legacy-N-2107": {
+    "legacy-N-11107": {
       "survives_as": null,
       "canonical_name": "Node 2107",
       "reason": "Objectlike garbage label (Node NNN) retired."
@@ -2163,45 +2163,45 @@
       "canonical_name": "Mark Herman (director, Candace show)",
       "reason": "Duplicate person collapsed into N-98 (Mark Herman (director, Candace show))."
     },
-    "legacy-N-1009": {
+    "legacy-N-10009": {
       "survives_as": "N-1",
       "canonical_name": "Charlie Kirk",
-      "reason": "Wave 1: ep67 topic-band person row collapsed onto person N-1. ep75 used N-1009 locally for Donald Trump; those cites retargeted to N-5."
+      "reason": "Wave 1: ep67 topic-band person row collapsed onto person N-1. ep75 used N-10009 locally for Donald Trump; those cites retargeted to N-5."
     },
-    "legacy-N-1010": {
+    "legacy-N-10010": {
       "survives_as": "N-2",
       "canonical_name": "Erika Kirk",
-      "reason": "Wave 1: ep67 topic-band person row collapsed onto person N-2. ep75 used N-1010 locally for Tim Dillon; those cites retargeted to N-443."
+      "reason": "Wave 1: ep67 topic-band person row collapsed onto person N-2. ep75 used N-10010 locally for Tim Dillon; those cites retargeted to N-443."
     },
-    "legacy-N-1015": {
+    "legacy-N-10015": {
       "survives_as": "N-536",
       "canonical_name": "Tim Ballard",
-      "reason": "Wave 1: person minted in the topic band (N-1015); moved to person hole N-536."
+      "reason": "Wave 1: person minted in the topic band (N-10015); moved to person hole N-536."
     },
-    "legacy-N-1017": {
+    "legacy-N-10017": {
       "survives_as": "N-569",
       "canonical_name": "Victor Marx",
-      "reason": "Wave 1: person minted in the topic band (N-1017); moved to person hole N-569."
+      "reason": "Wave 1: person minted in the topic band (N-10017); moved to person hole N-569."
     },
-    "legacy-N-1018": {
+    "legacy-N-10018": {
       "survives_as": "N-571",
       "canonical_name": "Eileen Marx",
-      "reason": "Wave 1: person minted in the topic band (N-1018); moved to person hole N-571."
+      "reason": "Wave 1: person minted in the topic band (N-10018); moved to person hole N-571."
     },
-    "legacy-N-1019": {
+    "legacy-N-10019": {
       "survives_as": "N-570",
       "canonical_name": "Corby Hall",
-      "reason": "Wave 1: person minted in the topic band (N-1019); moved to person hole N-570."
+      "reason": "Wave 1: person minted in the topic band (N-10019); moved to person hole N-570."
     },
-    "legacy-N-1028": {
+    "legacy-N-10028": {
       "survives_as": "N-578",
       "canonical_name": "Usha Vance",
-      "reason": "Wave 1: person minted in the topic band (N-1028); moved to person hole N-578. ep148 also used N-1028 locally for Candace Owens; those cites retargeted to N-3."
+      "reason": "Wave 1: person minted in the topic band (N-10028); moved to person hole N-578. ep148 also used N-10028 locally for Candace Owens; those cites retargeted to N-3."
     },
-    "legacy-N-2349": {
+    "legacy-N-11349": {
       "survives_as": "N-531",
       "canonical_name": "Father Ripperger",
-      "reason": "Wave 1: person minted in the topic band (N-2349); moved to person hole N-531."
+      "reason": "Wave 1: person minted in the topic band (N-11349); moved to person hole N-531."
     },
     "legacy-N-8": {
       "survives_as": "N-572",
@@ -2254,19 +2254,19 @@
       "reason": "Wave 1: local placeholder person with no grounded citation after Mentions repair; retired without survivor."
     },
     "legacy-N-23": {
-      "survives_as": "N-1697",
+      "survives_as": "N-10697",
       "canonical_name": "Early-Death-Announcement Timeline Verification",
-      "reason": "Wave 1: ep107 claim-sentence node typed person; collapsed onto existing topic N-1697."
+      "reason": "Wave 1: ep107 claim-sentence node typed person; collapsed onto existing topic N-10697."
     },
     "legacy-N-24": {
-      "survives_as": "N-2384",
+      "survives_as": "N-11384",
       "canonical_name": "45,000 Rescue Claim Discrepancy",
-      "reason": "Wave 1: ep107 claim-sentence node typed person; re-minted as topic N-2384."
+      "reason": "Wave 1: ep107 claim-sentence node typed person; re-minted as topic N-11384."
     },
     "legacy-N-26": {
-      "survives_as": "N-1676",
+      "survives_as": "N-10676",
       "canonical_name": "Victor Marx IDF 50,000 Guns Request",
-      "reason": "Wave 1: ep107 claim-sentence node typed person; collapsed onto existing topic N-1676."
+      "reason": "Wave 1: ep107 claim-sentence node typed person; collapsed onto existing topic N-10676."
     },
     "wave1-N-448": {
       "canonical_name": "Matt Servius",
@@ -2384,54 +2384,54 @@
       "reason": "Wave 2: junk person row in ep47 named with a claim sentence; no person behind it (C-1924 names Candace, Erika, Justin Streif and George, now cited as N-3, N-2, N-43 and N-59). Retired without survivor."
     },
     "legacy-N-322": {
-      "survives_as": "N-2385",
+      "survives_as": "N-11385",
       "canonical_name": "Jerusalem Post",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2385 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11385 in the topic band (one entity one node)."
     },
     "legacy-N-323": {
-      "survives_as": "N-2386",
+      "survives_as": "N-11386",
       "canonical_name": "Israeli War Room",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2386 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11386 in the topic band (one entity one node)."
     },
     "legacy-N-412": {
-      "survives_as": "N-2387",
+      "survives_as": "N-11387",
       "canonical_name": "Baker Tilly",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2387 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11387 in the topic band (one entity one node)."
     },
     "legacy-N-485": {
-      "survives_as": "N-2388",
+      "survives_as": "N-11388",
       "canonical_name": "Project Constitution",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2388 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11388 in the topic band (one entity one node)."
     },
     "legacy-N-559": {
-      "survives_as": "N-2389",
+      "survives_as": "N-11389",
       "canonical_name": "New York Post",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2389 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11389 in the topic band (one entity one node)."
     },
     "legacy-N-618": {
-      "survives_as": "N-2390",
+      "survives_as": "N-11390",
       "canonical_name": "Paramount Tactical Valhalla",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2390 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11390 in the topic band (one entity one node)."
     },
     "legacy-N-631": {
-      "survives_as": "N-2391",
+      "survives_as": "N-11391",
       "canonical_name": "Daily Wire",
-      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-2391 in the topic band (one entity one node)."
+      "reason": "Wave 2 (PPL-P1-2): organization or account typed as a person in the person band; retyped as organization N-11391 in the topic band (one entity one node)."
     },
-    "legacy-N-1643": {
-      "survives_as": "N-1151",
+    "legacy-N-10643": {
+      "survives_as": "N-10151",
       "canonical_name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-1643 \"Exit Wound / Bullet Trajectory Discrepancy\" collapsed onto the earlier id N-1151."
+      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-10643 \"Exit Wound / Bullet Trajectory Discrepancy\" collapsed onto the earlier id N-10151."
     },
-    "legacy-N-2063": {
-      "survives_as": "N-1444",
+    "legacy-N-11063": {
+      "survives_as": "N-10444",
       "canonical_name": "Brian Harpole Fort Huachuca Presence Verification",
-      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-2063 \"Brian Harpole Fort Huachuca Presence Verification\" collapsed onto the earlier id N-1444."
+      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-11063 \"Brian Harpole Fort Huachuca Presence Verification\" collapsed onto the earlier id N-10444."
     },
-    "legacy-N-1651": {
-      "survives_as": "N-1642",
+    "legacy-N-10651": {
+      "survives_as": "N-10642",
       "canonical_name": "Comparative Bullet Lead Analysis Revival",
-      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-1651 \"Comparative Bullet Lead Analysis (CBLA) Revival\" collapsed onto the earlier id N-1642."
+      "reason": "Wave 2 (TOP-P1-1): duplicate topic; N-10651 \"Comparative Bullet Lead Analysis (CBLA) Revival\" collapsed onto the earlier id N-10642."
     },
     "legacy-N-564": {
       "survives_as": null,
@@ -2444,9 +2444,9 @@
       "reason": "Wave 2.1 (PR 60 full adversarial P0): Reused in ep38 but listed New in ep69. Introduced at his first appearance (ep38) as a hole mint at the lowest free person id N-628; N-898 tombstoned and not reused."
     },
     "legacy-N-525": {
-      "survives_as": "N-2393",
+      "survives_as": "N-11393",
       "canonical_name": "Root Brands",
-      "reason": "Wave 3: company typed as person in the person band; tip-minted to org band as N-2393 at ep44."
+      "reason": "Wave 3: company typed as person in the person band; tip-minted to org band as N-11393 at ep44."
     },
     "legacy-N-797": {
       "survives_as": "N-410",

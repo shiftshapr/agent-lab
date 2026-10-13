@@ -30,7 +30,7 @@
             "C-1969"
           ],
           "related_nodes": [
-            "N-1439"
+            "N-10439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -50,7 +50,7 @@
           ],
           "related_nodes": [
             "N-598",
-            "N-1439"
+            "N-10439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
           ],
           "related_nodes": [
             "N-597",
-            "N-1438"
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
           "related_nodes": [
             "N-597",
             "N-518",
-            "N-1438"
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
           ],
           "related_nodes": [
             "N-599",
-            "N-1438"
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-1974"
           ],
           "related_nodes": [
-            "N-1438"
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1438"
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -210,7 +210,7 @@
             "C-1978"
           ],
           "related_nodes": [
-            "N-1440"
+            "N-10440"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,7 +229,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1440"
+            "N-10440"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -268,7 +268,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ]
     },
     {
@@ -291,7 +291,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1439"
+        "N-10439"
       ]
     },
     {
@@ -313,7 +313,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ]
     },
     {
@@ -340,11 +340,11 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1438",
-      "ref": "N-1438",
+      "@id": "N-10438",
+      "ref": "N-10438",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
-      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-1438 related), and Captain Neff (N-518).",
+      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-10438 related), and Captain Neff (N-518).",
       "related_artifacts": [
         "A-1558.1",
         "A-1558.3",
@@ -373,8 +373,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1439",
-      "ref": "N-1439",
+      "@id": "N-10439",
+      "ref": "N-10439",
       "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
       "type": "investigation_target",
       "description": "Persistent investigation target: viewer-email allegation that Fort Huachuca hosted a class teaching military personnel to infiltrate Christian organizations through covert psychological operations, with corroborating student testimony regarding overnight deception exercises in Tucson.",
@@ -398,8 +398,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1440",
-      "ref": "N-1440",
+      "@id": "N-10440",
+      "ref": "N-10440",
       "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
       "type": "investigation_target",
       "description": "Persistent investigation target: viewer-flagged and host-confirmed visual observation of black plastic / tempered-glass-like fragments across the rear floor of Charlie Kirk's SUV in post-shooting photographs.",
@@ -479,7 +479,7 @@
         "A-1557.1"
       ],
       "related_nodes": [
-        "N-1439"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:12:00",
@@ -514,7 +514,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:19:30",
@@ -533,7 +533,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:44:46–00:50:12",
@@ -554,7 +554,7 @@
         "A-1559.3"
       ],
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:55:09–00:57:28",
@@ -575,7 +575,7 @@
         "A-1559.2"
       ],
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:55:09–00:57:28",
@@ -596,7 +596,7 @@
         "A-1559.1"
       ],
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "01:01:18",
@@ -616,7 +616,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-1439"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:14:48–00:17:53",
@@ -635,7 +635,7 @@
         "A-1557.2"
       ],
       "related_nodes": [
-        "N-1439"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:16:38–00:17:14",
@@ -655,7 +655,7 @@
         "A-1560.2"
       ],
       "related_nodes": [
-        "N-1440"
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:01:18–00:02:51",
@@ -674,7 +674,7 @@
         "A-1558.3"
       ],
       "related_nodes": [
-        "N-1438"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:50:12–00:53:59",

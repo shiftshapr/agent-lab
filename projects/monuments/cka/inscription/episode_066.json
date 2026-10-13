@@ -174,8 +174,8 @@
           "related_nodes": [
             "N-822",
             "N-2",
-            "N-1537",
-            "N-1540"
+            "N-10537",
+            "N-10540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -255,7 +255,7 @@
             "C-2249"
           ],
           "related_nodes": [
-            "N-1537"
+            "N-10537"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -281,7 +281,7 @@
             "C-2250"
           ],
           "related_nodes": [
-            "N-1538"
+            "N-10538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -417,7 +417,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1538"
+        "N-10538"
       ]
     },
     {
@@ -516,13 +516,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1538"
+        "N-10538"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1537",
-      "ref": "N-1537",
+      "@id": "N-10537",
+      "ref": "N-10537",
       "name": "Cardinal Stadium RV Show Booking Question",
       "type": "investigation_target",
       "description": "Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?",
@@ -540,13 +540,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1540"
+        "N-10540"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1538",
-      "ref": "N-1538",
+      "@id": "N-10538",
+      "ref": "N-10538",
       "name": "TPUSA Donor Targeting Pattern Question",
       "type": "investigation_target",
       "description": "Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1539",
-      "ref": "N-1539",
+      "@id": "N-10539",
+      "ref": "N-10539",
       "name": "Father Blank September 10 Mass Cancellation Question",
       "type": "investigation_target",
       "description": "Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.",
@@ -592,11 +592,11 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1540",
-      "ref": "N-1540",
+      "@id": "N-10540",
+      "ref": "N-10540",
       "name": "$6 Million Memorial Cost Claim Verification Question",
       "type": "investigation_target",
-      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-1537).",
+      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10537).",
       "related_artifacts": [
         "A-1709.1"
       ],
@@ -609,7 +609,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1537"
+        "N-10537"
       ]
     },
     {
@@ -747,7 +747,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-1538"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:13:09",
@@ -824,8 +824,8 @@
         "A-1709.1"
       ],
       "related_nodes": [
-        "N-1537",
-        "N-1540"
+        "N-10537",
+        "N-10540"
       ],
       "tags": [],
       "claim_timestamp": "00:24:55",
@@ -863,7 +863,7 @@
         "A-1712.1"
       ],
       "related_nodes": [
-        "N-1537"
+        "N-10537"
       ],
       "tags": [],
       "claim_timestamp": "00:26:12",
@@ -880,7 +880,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-1538"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:32:17",

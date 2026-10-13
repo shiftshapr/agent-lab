@@ -205,7 +205,7 @@
             "N-1",
             "N-3",
             "N-56",
-            "N-1073"
+            "N-10073"
           ],
           "tags": [],
           "event_timestamp": "2018-2022",
@@ -228,7 +228,7 @@
             "N-60",
             "N-61",
             "N-64",
-            "N-1073"
+            "N-10073"
           ],
           "tags": [],
           "event_timestamp": "2018",
@@ -524,8 +524,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1067",
-      "ref": "N-1067",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Charlie Kirk Death and Memorial",
       "type": "topic",
       "description": "The death event and subsequent memorial episodes; host references seeing the footage and praying for those who took pleasure in it.",
@@ -540,8 +540,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1068",
-      "ref": "N-1068",
+      "@id": "N-10068",
+      "ref": "N-10068",
       "name": "Charlie-Candace Friendship Continuity",
       "type": "topic",
       "description": "Host asserts the personal/professional friendship with Charlie Kirk was never broken despite public pressure (Blexit, Israel, Kanye).",
@@ -565,8 +565,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1069",
-      "ref": "N-1069",
+      "@id": "N-10069",
+      "ref": "N-10069",
       "name": "Kanye Tweet About Candace Owens",
       "type": "topic",
       "description": "Kanye West's public tweet praising Candace Owens; celebrated by Charlie and Candace as 'manifested' via repeated listening to 'Power.'",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1070",
-      "ref": "N-1070",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "Charlie Kirk Spiritual Transformation",
       "type": "topic",
       "description": "Host claims Charlie was undergoing a spiritual transformation and being pressured over modified positions; flags post-death public commentary as 'fake.'",
@@ -604,8 +604,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-10000",
+      "ref": "N-10000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Founded by Charlie Kirk; current 501(c)(3); described as the biggest conservative student organization in the world per host.",
@@ -622,8 +622,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1071",
-      "ref": "N-1071",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Fox News",
       "type": "organization",
       "description": "Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.",
@@ -640,8 +640,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1072",
-      "ref": "N-1072",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "Republican National Committee (RNC)",
       "type": "organization",
       "description": "Charlie Kirk at age 23 told Candace he planned to take control of the RNC.",
@@ -658,8 +658,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1073",
-      "ref": "N-1073",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "YWLS Conference",
       "type": "organization",
       "description": "Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.",
@@ -680,8 +680,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1074",
-      "ref": "N-1074",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Philadelphia",
       "type": "place",
       "description": "Site of Antifa incident at a restaurant where Charlie and Candace were chased out.",
@@ -700,8 +700,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1075",
-      "ref": "N-1075",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "Chicago O'Hare Airport",
       "type": "place",
       "description": "Site of first planning session between Charlie and Candace at Macaroni Grill restaurant.",
@@ -730,8 +730,8 @@
         "A-1080.1"
       ],
       "related_nodes": [
-        "N-1069",
-        "N-1073"
+        "N-10069",
+        "N-10073"
       ],
       "tags": [],
       "claim_timestamp": "00:10:29",
@@ -757,7 +757,7 @@
         "A-1078.1"
       ],
       "related_nodes": [
-        "N-1069"
+        "N-10069"
       ],
       "tags": [],
       "claim_timestamp": "00:11:28",
@@ -800,7 +800,7 @@
         "A-1080.2"
       ],
       "related_nodes": [
-        "N-1073"
+        "N-10073"
       ],
       "tags": [],
       "claim_timestamp": "00:14:20",
@@ -823,7 +823,7 @@
       "claim": "Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1071"
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:03:29",
@@ -845,7 +845,7 @@
         "A-1077.3"
       ],
       "related_nodes": [
-        "N-1074"
+        "N-10074"
       ],
       "tags": [],
       "claim_timestamp": "00:16:07",
@@ -867,7 +867,7 @@
         "A-1079.2"
       ],
       "related_nodes": [
-        "N-1068"
+        "N-10068"
       ],
       "tags": [],
       "claim_timestamp": "00:18:09",
@@ -890,7 +890,7 @@
         "A-1079.3"
       ],
       "related_nodes": [
-        "N-1068"
+        "N-10068"
       ],
       "tags": [],
       "claim_timestamp": "00:18:31",
@@ -914,7 +914,7 @@
         "A-1080.1"
       ],
       "related_nodes": [
-        "N-1069"
+        "N-10069"
       ],
       "tags": [],
       "claim_timestamp": "00:09:59",
@@ -935,9 +935,9 @@
       "claim": "At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planning session that he planned to take over the RNC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1000",
-        "N-1072",
-        "N-1075"
+        "N-10000",
+        "N-10072",
+        "N-10075"
       ],
       "tags": [],
       "claim_timestamp": "00:03:02",

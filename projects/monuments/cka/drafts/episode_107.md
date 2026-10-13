@@ -12,9 +12,9 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-16, N-309, N-569, N-570, N-1676, N-1697
+  - Reused Nodes Appearing: N-3, N-16, N-309, N-569, N-570, N-10676, N-10697
   - Hole-minted Nodes (wave1): N-571, N-572, N-573, N-574, N-575, N-576, N-577
-  - Tip-minted Nodes (wave1): N-2384
+  - Tip-minted Nodes (wave1): N-11384
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
 
@@ -35,7 +35,7 @@ Video Timestamp: 00:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (host recount; post not displayed in transcript)
 
-*Related: C-3702, C-3703, N-569, N-571, N-1697*
+*Related: C-3702, C-3703, N-569, N-571, N-10697*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 01:13:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (text read on air)
 
-*Related: C-3708, C-3716, N-569, N-2384*
+*Related: C-3708, C-3716, N-569, N-11384*
 
 ---
 
@@ -201,7 +201,7 @@ Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse
 
 *Related: A-2506.1, C-3704, C-3709*
 
-**N-2384** 45,000 Rescue Claim Discrepancy
+**N-11384** 45,000 Rescue Claim Discrepancy
 
 Node Type: Topic
 Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.
@@ -219,7 +219,7 @@ Claim: Episode presents that Victor Marx was the first to publicly announce Char
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: A-2505.1
 Mentions: N-1, N-569
-Related Nodes: N-1697
+Related Nodes: N-10697
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
@@ -282,7 +282,7 @@ Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: A-2509.2
 Mentions: N-569
-Related Nodes: N-2384
+Related Nodes: N-11384
 Investigative Direction: Verify archived website content; cross-check against organization's audited reports.
 
 ---
@@ -325,7 +325,7 @@ Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.
 Anchored Artifacts: A-2510.1
 Mentions: N-569
-Related Nodes: N-1676
+Related Nodes: N-10676
 Investigative Direction: Cross-reference with IDF/nonprofit invitation records and travel documentation.
 
 ---
@@ -337,7 +337,7 @@ Claim: Victor Marx states he watched the Charlie Kirk shooting video once and kn
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: A-2510.1
 Mentions: N-1, N-569, N-16, N-576, N-309
-Related Nodes: N-1697
+Related Nodes: N-10697
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
 ---
@@ -369,7 +369,7 @@ Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asse
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: A-2509.2, A-2510.1
 Mentions: N-569
-Related Nodes: N-2384
+Related Nodes: N-11384
 Investigative Direction: Compare original website text against archived snapshots; reconcile with prior show clip.
 
 ---

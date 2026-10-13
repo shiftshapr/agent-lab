@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-951, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+  - New Nodes Introduced:  N-951, N-953, N-954, N-960, N-10591, N-10592, N-10593, N-10594, N-10595, N-10596
   - Reused Nodes Appearing: N-1, N-2, N-916
 
 # Episode Analysis: Monument Episode 76 – "Did Erika Kirk Know Jeffrey Epstein?"
@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
 - **Claim Range:** C-2419–C-2436
-- **New Nodes Introduced:** N-951, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+- **New Nodes Introduced:** N-951, N-953, N-954, N-960, N-10591, N-10592, N-10593, N-10594, N-10595, N-10596
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-916 (Lynn Forester de Rothschild)
 
 ---
@@ -146,7 +146,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (specific inquiry and recipient described; response status confirmed)
 
-*Related: C-2427, N-2, N-42, N-1591*
+*Related: C-2427, N-2, N-42, N-10591*
 
 ---
 
@@ -160,7 +160,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific timestamp asserted; article itself not displayed)
 
-*Related: C-2428, N-1593*
+*Related: C-2428, N-10593*
 
 ---
 
@@ -174,7 +174,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (timestamp and content specific)
 
-*Related: C-2429, N-2, N-1593*
+*Related: C-2429, N-2, N-10593*
 
 ---
 
@@ -192,7 +192,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clips played)
 
-*Related: C-2430, C-2435, C-2436, N-1593*
+*Related: C-2430, C-2435, C-2436, N-10593*
 
 ---
 
@@ -206,7 +206,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clip played; date attribution inferred by host)
 
-*Related: C-2431, N-16, N-1593*
+*Related: C-2431, N-16, N-10593*
 
 ---
 
@@ -251,7 +251,7 @@ Claim Count: 6
 Episode Count: 76 (cumulative across series)
 Investigative Pressure: High
 
-*Related: A-1816.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, A-1820.1, C-2428, C-2429, C-2430, C-2431, C-2432, C-2435, C-2436, N-1593*
+*Related: A-1816.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, A-1820.1, C-2428, C-2429, C-2430, C-2431, C-2432, C-2435, C-2436, N-10593*
 
 ---
 
@@ -264,7 +264,7 @@ Claim Count: 4
 Episode Count: 76 (cumulative)
 Investigative Pressure: High
 
-*Related: A-1815.1, A-1817.1, A-1820.1, C-2427, C-2429, C-2432, N-1591, N-1592, N-1593*
+*Related: A-1815.1, A-1817.1, A-1820.1, C-2427, C-2429, C-2432, N-10591, N-10592, N-10593*
 
 ---
 
@@ -290,7 +290,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-35, N-1591*
+*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-35, N-10591*
 
 ---
 
@@ -329,7 +329,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1810.1, C-2420, C-2421, N-1594*
+*Related: A-1810.1, C-2420, C-2421, N-10594*
 
 ---
 
@@ -368,7 +368,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1819.1, C-2431, N-1593*
+*Related: A-1819.1, C-2431, N-10593*
 
 ---
 
@@ -387,7 +387,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-1591** Erika Kirk Next Model Management Involvement
+**N-10591** Erika Kirk Next Model Management Involvement
 
 Persistent investigation target: what was the documented nature of Erika Kirk's meetings at Next Model Management NYC, where Faith Kates was a co-founder with documented Epstein ties?
 
@@ -400,7 +400,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1592** Erika Kirk Corcoran Real Estate Anomaly
+**N-10592** Erika Kirk Corcoran Real Estate Anomaly
 
 Investigation target: documented record of Erika Kirk's Corcoran-issued New York real estate license and any completed transactions. Host reports no record of completed deals and flags potential "back door" licensure.
 
@@ -413,7 +413,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1593** Erika Kirk September 8 Presence Verification
+**N-10593** Erika Kirk September 8 Presence Verification
 
 Persistent investigation target: independent verification of Erika Kirk's whereabouts on September 8, 2025. Host reports no witness corroboration of Erika in the neighborhood; Frank Turek reference is to "family" dinner without naming Erika.
 
@@ -426,7 +426,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1594** January 29 West Wing Meeting Subject
+**N-10594** January 29 West Wing Meeting Subject
 
 Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 – the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?
 
@@ -439,7 +439,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1595** Linda Rothschild Corcoran Group Presidency Verification
+**N-10595** Linda Rothschild Corcoran Group Presidency Verification
 
 Investigation target: verification that Linda Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.
 
@@ -452,7 +452,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1596** Faith Kates – Epstein Relationship Scope
+**N-10596** Faith Kates – Epstein Relationship Scope
 
 Investigation target: scope and content of Faith Kates–Jeffrey Epstein email relationship (referenced ~4,000 times), including the bar mitzvah invitation context.
 
@@ -487,7 +487,7 @@ Claim: According to a January 29, 2026 Candace Owens tweet sourced to White Hous
 
 Anchored Artifacts: A-1810.1
 Mentions: N-42, N-272, N-3, N-102
-Related Nodes: N-1594
+Related Nodes: N-10594
 Investigative Direction: Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.
 
 ---
@@ -500,7 +500,7 @@ Claim: The Charlie Kirk Show episode in which Kash Patel appeared was pre-record
 
 Anchored Artifacts: A-1810.1
 Mentions: N-42, N-102
-Related Nodes: N-1594
+Related Nodes: N-10594
 Investigative Direction: Compare the episode's audio/video metadata against the claimed broadcast time.
 
 ---
@@ -513,7 +513,7 @@ Claim: The Epstein files were released on January 30, 2026, the day after the Ja
 
 Anchored Artifacts: A-1810.1 (provides the date-stamped framing)
 Mentions: N-35
-Related Nodes: N-1594
+Related Nodes: N-10594
 Investigative Direction: Confirm the official release date of the Epstein files and compare against the documented meeting date.
 
 ---
@@ -526,7 +526,7 @@ Claim: Faith Kates appears approximately 4,000 times in Jeffrey Epstein's email 
 
 Anchored Artifacts: A-1812.1
 Mentions: N-35, N-951
-Related Nodes: N-1596
+Related Nodes: N-10596
 Investigative Direction: Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.
 
 ---
@@ -539,7 +539,7 @@ Claim: Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.
 
 Anchored Artifacts: A-1812.2
 Mentions: N-35, N-951
-Related Nodes: N-1596
+Related Nodes: N-10596
 Investigative Direction: Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.
 
 ---
@@ -564,7 +564,7 @@ Claim: A background document on Linda Rothschild lists her alternate names and i
 
 Anchored Artifacts: A-1814.1
 Mentions: N-916
-Related Nodes: N-1595
+Related Nodes: N-10595
 Investigative Direction: Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
 
 ---
@@ -577,7 +577,7 @@ Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andr
 
 Anchored Artifacts: A-1815.1
 Mentions: N-2, N-42, N-3
-Related Nodes: N-1591
+Related Nodes: N-10591
 Investigative Direction: Confirm the email log; await response or non-response status update.
 
 ---
@@ -590,7 +590,7 @@ Claim: A Jezebel.com article regarding a "witch's curse" on Charlie Kirk's life 
 
 Anchored Artifacts: A-1816.1
 Mentions: N-1
-Related Nodes: N-1593
+Related Nodes: N-10593
 Investigative Direction: Obtain the Jezebel article URL with timestamp metadata; verify publication time.
 
 ---
@@ -603,7 +603,7 @@ Claim: Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been 
 
 Anchored Artifacts: A-1817.1
 Mentions: N-2
-Related Nodes: N-1593
+Related Nodes: N-10593
 Investigative Direction: Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata.
 
 ---
@@ -616,7 +616,7 @@ Claim: On September 8, 2025, Charlie Kirk watched the second half of the Chicago
 
 Anchored Artifacts: A-1818.2
 Mentions: N-1
-Related Nodes: N-1593
+Related Nodes: N-10593
 Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps.
 
 ---
@@ -629,7 +629,7 @@ Claim: Frank Turek describes a Monday-night walk with Charlie Kirk (the night be
 
 Anchored Artifacts: A-1819.1
 Mentions: N-16, N-1
-Related Nodes: N-1593
+Related Nodes: N-10593
 Investigative Direction: Obtain full Turek interview; verify the date and content of the Monday walk.
 
 ---
@@ -678,7 +678,7 @@ Claim: Charlie Kirk appeared on the Charlie Kirk Show from his home studio at 10
 
 Anchored Artifacts: A-1818.1
 Mentions: N-1
-Related Nodes: N-1593
+Related Nodes: N-10593
 Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp.
 
 ---
@@ -691,7 +691,7 @@ Claim: Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his ho
 
 Anchored Artifacts: A-1818.3
 Mentions: N-1
-Related Nodes: N-1593
+Related Nodes: N-10593
 Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and verify timestamp.
 
 ---
@@ -758,7 +758,7 @@ Confidence: high
 - Verification that the September 8, 2025 Bears–Vikings game second half timing aligns with the Bears Show commentary timestamps.
 - Verification of Next Model Management's actual office locations and documented Epstein presence dates.
 - Verification of Linda Rothschild's Corcoran Group role via NY corporate filings.
-- Verification of the January 29, 2026 White House visitor logs (N-1594).
+- Verification of the January 29, 2026 White House visitor logs (N-10594).
 
 ---
 
@@ -767,6 +767,6 @@ Confidence: high
 - **New Artifact Families:** A-1809 through A-1821 (13 families)
 - **New Claim IDs:** C-2419 through C-2436 (18 claims)
 - **New People Nodes:** N-35 through N-960 (10 nodes)
-- **New Investigation Target Nodes:** N-1591 through N-1596 (6 nodes)
+- **New Investigation Target Nodes:** N-10591 through N-10596 (6 nodes)
 - **Existing Nodes Reused:** N-1, N-2, N-916
 - **Correction Notes:** None this episode.

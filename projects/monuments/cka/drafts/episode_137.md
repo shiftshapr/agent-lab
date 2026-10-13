@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
   - Claim Range: C-3211–C-3221
-  - New Nodes Introduced: N-2175, N-2176, N-2177, N-2178
+  - New Nodes Introduced: N-11175, N-11176, N-11177, N-11178
   - Reused Nodes Appearing: N-810
   - Existing Nodes Reused: None in this episode beyond standard references
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-3212, C-3220, N-2178*
+*Related: C-3212, C-3220, N-11178*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:17:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed headline excerpt)
 
-*Related: C-3213, N-2176*
+*Related: C-3213, N-11176*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played audio)
 
-*Related: C-3214, N-2177*
+*Related: C-3214, N-11177*
 
 ---
 
@@ -208,7 +208,7 @@ Confidence: medium
 
 ## IV. Node Register
 
-**N-2175** UVU Campus Sept 9 Scoping Incident
+**N-11175** UVU Campus Sept 9 Scoping Incident
 
 Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's "source from UVU"), not artifact-documented.
 
@@ -221,7 +221,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2176** Screwdriver Narrative Evolution
+**N-11176** Screwdriver Narrative Evolution
 
 Persistent discrepancy between Sept 11 CNN framing ("near the rifle") and Kash Patel / Bongino clarification ("on the rooftop"). Both positions are artifact-anchored within this episode and prior context.
 
@@ -234,7 +234,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2177** Officer Bagley Rooftop Video Review Question
+**N-11177** Officer Bagley Rooftop Video Review Question
 
 Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.
 
@@ -247,7 +247,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2178** Black Nitrile Gloves / Door Compartment Evidence
+**N-11178** Black Nitrile Gloves / Door Compartment Evidence
 
 Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.
 
@@ -286,7 +286,7 @@ Claim: A woodworker email received by Candace Owens's production states that bla
 Anchored Artifacts: A-2237.1
 Mentions: N-3
 
-Related Nodes: N-2178
+Related Nodes: N-11178
 
 Investigative Direction: Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources.
 
@@ -301,7 +301,7 @@ Claim: A CNN article dated September 11, 2025 stated that authorities recovered 
 Anchored Artifacts: A-2238.1
 Mentions: N-1
 
-Related Nodes: N-2176
+Related Nodes: N-11176
 
 Investigative Direction: Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full.
 
@@ -316,7 +316,7 @@ Claim: During cross-examination, Officer Christopher Bagley testified that he di
 Anchored Artifacts: A-2242.1
 Mentions: N-810
 
-Related Nodes: N-2177
+Related Nodes: N-11177
 
 Investigative Direction: Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.
 
@@ -404,7 +404,7 @@ Claim: Candace Owens states her team looked up and verified the woodworker's ema
 Anchored Artifacts: A-2237.1
 Mentions: N-3
 
-Related Nodes: N-2178
+Related Nodes: N-11178
 
 Investigative Direction: Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources.
 

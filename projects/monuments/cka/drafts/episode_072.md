@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-916, N-917, N-919, N-920, N-1572, N-1573, N-1574, N-1575, N-1576
+  - New Nodes Introduced: N-916, N-917, N-919, N-920, N-10572, N-10573, N-10574, N-10575, N-10576
   - Reused Nodes Appearing: N-2, N-37, N-3, N-890, N-908, N-1, N-537
   - (see registers)
 
@@ -37,7 +37,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2353, N-2, N-1572, N-1574*
+*Related: C-2353, N-2, N-10572, N-10574*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2351, N-298, N-1573*
+*Related: C-2351, N-298, N-10573*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:27:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2352, N-916, N-298, N-1573*
+*Related: C-2352, N-916, N-298, N-10573*
 
 ---
 
@@ -130,7 +130,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-2361, N-298, N-916, N-42, N-1573*
+*Related: C-2361, N-298, N-916, N-42, N-10573*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2, N-364, N-1576*
+*Related: N-2, N-364, N-10576*
 
 ---
 
@@ -213,7 +213,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1765.1, C-2352, N-1573*
+*Related: A-1765.1, C-2352, N-10573*
 
 ---
 
@@ -226,7 +226,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1764.1, A-1769.1, N-916, N-1573*
+*Related: A-1764.1, A-1769.1, N-916, N-10573*
 
 ---
 
@@ -278,7 +278,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1770.1, N-2, N-1576*
+*Related: A-1770.1, N-2, N-10576*
 
 ---
 
@@ -291,7 +291,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-2, N-1576*
+*Related: N-2, N-10576*
 
 ---
 
@@ -304,7 +304,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-1576*
+*Related: N-2, N-10576*
 
 ---
 
@@ -317,7 +317,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-42, N-1576*
+*Related: N-2, N-42, N-10576*
 
 ---
 
@@ -334,7 +334,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1572** Erika Kirk Real Estate License Timing Question
+**N-10572** Erika Kirk Real Estate License Timing Question
 
 Discrepancy between Erika's NY real estate license issuance (presumed October 24, 2018) and the same month as her first dating of Charlie Kirk.
 
@@ -347,7 +347,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1573** Erika Kirk Corcoran Group Employment Verification
+**N-10573** Erika Kirk Corcoran Group Employment Verification
 
 Persistent question regarding Erika Kirk's stated real estate career at Corcoran Group and overlapping Epstein document listing of Lynn Forester de Rothschild as Corcoran Group Inc. President.
 
@@ -360,7 +360,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1574** Erika Kirk September 10 Assistant Pull-Back Investigation
+**N-10574** Erika Kirk September 10 Assistant Pull-Back Investigation
 
 Host-asserted but not artifact-anchored: Tracy Martin allegedly withdrew her daughter (Erika's assistant) from the UVU event due to a "bad feeling."
 
@@ -373,7 +373,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1575** Erika Kirk Educational Timeline Verification Gap
+**N-10575** Erika Kirk Educational Timeline Verification Gap
 
 Host's call for verification: multiple universities listed (Regis, Loyola Marymount, Arizona State, Liberty) with no corroborating witnesses.
 
@@ -386,7 +386,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1576** Erika Kirk Post-Assassination Conduct Composite
+**N-10576** Erika Kirk Post-Assassination Conduct Composite
 
 Composite investigation target covering host allegations regarding: (a) three-way funeral-day call with Dr. Lee Trotter, (b) alleged false statement to Glenn Beck, (c) alleged memory lapse regarding Hamptons Bibi Netanyahu call, (d) "Superman neck" framing.
 
@@ -419,7 +419,7 @@ Claim: A USA Today article posted shortly after Charlie Kirk's assassination sta
 Anchored Artifacts: A-1764.1, A-1769.1
 Mentions: N-2, N-917, N-1
 
-Related Nodes: N-1573
+Related Nodes: N-10573
 
 Investigative Direction: Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.
 
@@ -434,7 +434,7 @@ Claim: An Epstein document performing an official name search for Lynn Forester 
 Anchored Artifacts: A-1765.1, A-1769.1
 Mentions: N-916, N-917
 
-Related Nodes: N-1573
+Related Nodes: N-10573
 
 Investigative Direction: Locate the underlying Epstein document entry and verify the document identifier, page, and original source.
 
@@ -449,7 +449,7 @@ Claim: A snapshot of Erika Kirk's New York real estate license displays a validi
 Anchored Artifacts: A-1763.1
 Mentions: N-2
 
-Related Nodes: N-1572
+Related Nodes: N-10572
 
 Investigative Direction: Verify license issuance and expiration dates against New York Department of State records.
 
@@ -562,7 +562,7 @@ Claim: An unnamed TikToker publicly raised the question of whether Erika Kirk's 
 Anchored Artifacts: A-1769.1
 Mentions: N-2, N-920
 
-Related Nodes: N-1573
+Related Nodes: N-10573
 
 Investigative Direction: Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.
 
@@ -606,7 +606,7 @@ Transcript Snippet: However, it is a fact that she was supposed to go to UVU on 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-890, N-908
-Related Nodes: N-1556
+Related Nodes: N-10556
 Investigative Direction: Establish the assistant's September 10 travel plans and who changed them.
 
 ---

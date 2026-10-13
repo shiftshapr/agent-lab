@@ -1,10 +1,10 @@
 // Read-only post-promote checklist (staging 27687 or prod 17687 – query only on prod).
 // Run via cypher-shell / Browser; set $PersonBandMax to current dense person ceiling (58 on ep1–8 tip).
 
-// 1) No Person label with id >= 1000
+// 1) No Person label in the topic band ($TopicBandMin: 1000 for BoC, 10000 for CKA since 2026-10-13)
 MATCH (p:Person)
 WHERE p.node_ref STARTS WITH 'N-'
-  AND toInteger(replace(p.node_ref, 'N-', '')) >= 1000
+  AND toInteger(replace(p.node_ref, 'N-', '')) >= coalesce($TopicBandMin, 1000)
 RETURN p.node_ref AS bad_ref, p.canonical_name AS name
 LIMIT 25;
 

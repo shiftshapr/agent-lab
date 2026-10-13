@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
+ - New Nodes Introduced: N-11323, N-11324, N-11325, N-11326, N-11327, N-11328, N-11329
  - Reused Nodes Appearing: N-2, N-30
  - (see registers)
 
@@ -32,7 +32,7 @@
 
 Artifact Families Introduced: A-2384, A-2385, A-2386, A-2387, A-2388, A-2389, A-2390, A-2391, A-2392
 Claim Range: C-3466–C-3492
-New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
+New Nodes Introduced: N-11323, N-11324, N-11325, N-11326, N-11327, N-11328, N-11329
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 ---
@@ -56,7 +56,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (filing read on air)
 
-*Related: C-3466, C-3474, C-3475, C-3476, C-3477, C-3491, C-3492, N-2323, N-2325, N-2326*
+*Related: C-3466, C-3474, C-3475, C-3476, C-3477, C-3491, C-3492, N-11323, N-11325, N-11326*
 
 ---
 
@@ -71,7 +71,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (article read on air)
 
-*Related: C-3467, C-3468, C-3489, N-? (Astrid Tuminez), N-? (UVU), N-2323*
+*Related: C-3467, C-3468, C-3489, N-? (Astrid Tuminez), N-? (UVU), N-11323*
 
 ---
 
@@ -101,7 +101,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (displayed on screen)
 
-*Related: C-3471, C-3472, C-3473, N-? (Dan Flood), N-? (Jeffrey Long), N-2325*
+*Related: C-3471, C-3472, C-3473, N-? (Dan Flood), N-? (Jeffrey Long), N-11325*
 
 ---
 
@@ -130,7 +130,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (clip played on air)
 
-*Related: C-3478, C-3479, C-3480, C-3483, C-3484, N-? (Tyler Robinson), N-2324, N-2327*
+*Related: C-3478, C-3479, C-3480, C-3483, C-3484, N-? (Tyler Robinson), N-11324, N-11327*
 
 **A-2389.2** Scripps News headline – "Scriptscripts News obtains video of accused Charlie Kirk shooter after the 2022 car crash"
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:48:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline shown)
 
-*Related: C-3480, N-2324, N-2327*
+*Related: C-3480, N-11324, N-11327*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:48:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (bio info read on air)
 
-*Related: C-3481, C-3482, N-2324*
+*Related: C-3481, C-3482, N-11324*
 
 ---
 
@@ -201,7 +201,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2323** Notice of Claim Timing Anomaly
+**N-11323** Notice of Claim Timing Anomaly
 
 Persistent target: the wrongful-death notice of claim was filed approximately one year after the incident and two days before the expected release of UVU's independent review of security failures. Investigating whether the filing is preemptive.
 
@@ -214,7 +214,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2324** Tyler Robinson 2022 Bodycam Footage Provenance Question
+**N-11324** Tyler Robinson 2022 Bodycam Footage Provenance Question
 
 Persistent target: investigating who retained the May 31, 2022 bodycam footage for approximately three years, why it was retained past Utah's 60–90 day routine-footage retention period, and how Scripps News obtained and released it within seven days of Tyler Robinson's identification as suspect.
 
@@ -227,7 +227,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2325** Notice of Claim Text Message Omission
+**N-11325** Notice of Claim Text Message Omission
 
 Persistent target: the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the line "I was told students have access above us," which materially changes the contextual reading from a general "rooftops" concern to a targeted walkway-above-Charlie concern.
 
@@ -240,7 +240,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2326** UVU Officer Allocation Ratio for Charlie Kirk Event
+**N-11326** UVU Officer Allocation Ratio for Charlie Kirk Event
 
 Persistent target: the notice of claim alleges UVU assigned six of 24 total officers to the outdoor event with approximately 3,000 attendees; host calculates this is mathematically an oversupply relative to UVU's 50,000-student base.
 
@@ -253,7 +253,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2327** Utah Bodycam Routine Footage Retention Law
+**N-11327** Utah Bodycam Routine Footage Retention Law
 
 Persistent target: investigating whether the May 31, 2022 Tyler Robinson footage should have been purged under Utah's 60–90 day retention schedule for routine, non-criminal interactions.
 
@@ -266,7 +266,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2328** UVU EMS Presence at Scene Verification
+**N-11328** UVU EMS Presence at Scene Verification
 
 Persistent target: the notice of claim alleges no first responders were available; host asserts UVU's state-certified emergency medical services were on scene at the vehicle with medical bags.
 
@@ -279,7 +279,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2329** Independent Review of UVU Security Failures
+**N-11329** Independent Review of UVU Security Failures
 
 Persistent target: UVU-commissioned third-party review announced September 22, 2025; findings expected imminently (host reports "Friday").
 
@@ -288,7 +288,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2385.1, C-3467, C-3489, N-? (Astrid Tuminez), N-2323*
+*Related: A-2385.1, C-3467, C-3489, N-? (Astrid Tuminez), N-11323*
 
 ---
 
@@ -309,7 +309,7 @@ Claim Timestamp: 00:01:29
 Claim: The Kirk family filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
 Anchored Artifacts: A-2384.1
 Mentions: N-1
-Related Nodes: N-2323
+Related Nodes: N-11323
 Investigative Direction: Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.
 
 ---
@@ -320,7 +320,7 @@ Claim Timestamp: 00:04:55
 Claim: Approximately twelve days after Charlie Kirk's death, UVU announced an independent external review of the security failures.
 Anchored Artifacts: A-2385.1
 Mentions: N-1
-Related Nodes: N-2329
+Related Nodes: N-11329
 Investigative Direction: Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025.
 
 ---
@@ -330,7 +330,7 @@ Investigative Direction: Cross-reference UVU board minutes and the AP wire story
 Claim Timestamp: 00:04:55
 Claim: Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
 Anchored Artifacts: A-2385.1
-Related Nodes: N-2329
+Related Nodes: N-11329
 Investigative Direction: Retrieve Tuminez's original emailed statement to confirm exact wording.
 
 ---
@@ -361,7 +361,7 @@ Claim Timestamp: 00:27:11
 Claim: The displayed text message exchange between Dan Flood and Chief Jeffrey Long specifically referenced the Sorenson Student Center staircases providing access to walkways on the roof above where CK would be set up.
 Anchored Artifacts: A-2387.1, A-2388.1
 Mentions: N-434
-Related Nodes: N-2325
+Related Nodes: N-11325
 Investigative Direction: Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.
 
 ---
@@ -372,7 +372,7 @@ Claim Timestamp: 00:30:35
 Claim: Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
 Anchored Artifacts: A-2387.1
 Mentions: N-434
-Related Nodes: N-2325
+Related Nodes: N-11325
 Investigative Direction: Verify against UVU PD records and text-message metadata.
 
 ---
@@ -383,7 +383,7 @@ Claim Timestamp: 00:29:56
 Claim: The notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which materially narrows the rooftop reference to the specific walkway above Charlie's head.
 Anchored Artifacts: A-2384.1, A-2387.1
 Mentions: N-434
-Related Nodes: N-2325
+Related Nodes: N-11325
 Investigative Direction: Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.
 
 ---
@@ -393,7 +393,7 @@ Investigative Direction: Obtain the filed notice of claim text and the underlyin
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges UVU assigned only six campus police officers to the outdoor tour event that ultimately attracted approximately 3,000 attendees.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-2326
+Related Nodes: N-11326
 Investigative Direction: Cross-reference UVU PD staffing logs from September 10, 2025.
 
 ---
@@ -403,7 +403,7 @@ Investigative Direction: Cross-reference UVU PD staffing logs from September 10,
 Claim Timestamp: 00:19:44
 Claim: The notice of claim states the UVU event attracted approximately 3,000 attendees.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-2326
+Related Nodes: N-11326
 Investigative Direction: Compare against UVU venue capacity records, ticketing data, and aerial footage crowd estimates.
 
 ---
@@ -414,7 +414,7 @@ Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
 Anchored Artifacts: A-2384.1
 Mentions: N-435
-Related Nodes: N-2326
+Related Nodes: N-11326
 Investigative Direction: Obtain UVU PD internal communications and presidential approval logs from September 2025.
 
 ---
@@ -424,7 +424,7 @@ Investigative Direction: Obtain UVU PD internal communications and presidential 
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that the request for additional officers was denied.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-2326
+Related Nodes: N-11326
 Investigative Direction: Retrieve Tuminez's contemporaneous internal communications and PD shift logs.
 
 ---
@@ -435,7 +435,7 @@ Claim Timestamp: 00:40:52
 Claim: The 2022 bodycam footage of Tyler Robinson was released seven days after the public identified Tyler Robinson as the suspect.
 Anchored Artifacts: A-2389.1, A-2389.2
 Mentions: N-69
-Related Nodes: N-2324
+Related Nodes: N-11324
 Investigative Direction: Confirm Scripps News publication date and Tyler Robinson's public identification date.
 
 ---
@@ -446,7 +446,7 @@ Claim Timestamp: 00:43:44
 Claim: The bodycam footage of Tyler Robinson is dated May 31, 2022 – approximately three and a half years prior to release.
 Anchored Artifacts: A-2389.1
 Mentions: N-69
-Related Nodes: N-2324, N-2327
+Related Nodes: N-11324, N-11327
 Investigative Direction: Verify the timestamp metadata on the released footage.
 
 ---
@@ -457,7 +457,7 @@ Claim Timestamp: 00:48:11
 Claim: The 2022 bodycam footage was released by Scripps News under the headline "[Scripps] News obtains video of accused Charlie Kirk shooter after the 2022 car crash." **Name uncertainty:** transcript also spells as "Scriptscripts News" and "Scripts Media."
 Anchored Artifacts: A-2389.2, A-2390.1
 Mentions: N-1
-Related Nodes: N-2324
+Related Nodes: N-11324
 Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIAA / records-request logs.
 
 ---
@@ -467,7 +467,7 @@ Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIA
 Claim Timestamp: 00:48:11
 Claim: Scripps News became operational the same year as the 2022 incident and was founded by Jim Spencer, who was formerly with Newsy.
 Anchored Artifacts: A-2391.1
-Related Nodes: N-2324
+Related Nodes: N-11324
 Investigative Direction: Confirm corporate registration records for Scripps News and Newsy's corporate history.
 
 ---
@@ -477,7 +477,7 @@ Investigative Direction: Confirm corporate registration records for Scripps News
 Claim Timestamp: 00:48:11
 Claim: Jim Spencer teaches digital media and journalism at UT Austin, having done so since 2018.
 Anchored Artifacts: A-2391.1
-Related Nodes: N-2324
+Related Nodes: N-11324
 Investigative Direction: Verify Spencer's UT Austin faculty page and Nell DeBuckman / Buckman Center affiliation.
 
 ---
@@ -487,7 +487,7 @@ Investigative Direction: Verify Spencer's UT Austin faculty page and Nell DeBuck
 Claim Timestamp: 00:46:14
 Claim: The May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.
 Anchored Artifacts: A-2389.1
-Related Nodes: N-2324, N-2327
+Related Nodes: N-11324, N-11327
 Investigative Direction: Confirm agency identification via officer's uniform markings and incident report cross-reference.
 
 ---
@@ -498,7 +498,7 @@ Claim Timestamp: 00:46:14
 Claim: Tyler Robinson was 19 years old at the time of the 2022 traffic incident.
 Anchored Artifacts: A-2389.1
 Mentions: N-69
-Related Nodes: N-2324
+Related Nodes: N-11324
 Investigative Direction: Cross-reference against birth records / official DOB.
 
 ---
@@ -508,7 +508,7 @@ Investigative Direction: Cross-reference against birth records / official DOB.
 Claim Timestamp: 00:20:33
 Claim: UVU has a total of 50,000 students.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
-Related Nodes: N-2326
+Related Nodes: N-11326
 Investigative Direction: Verify against UVU's official enrollment figures.
 
 ---
@@ -518,7 +518,7 @@ Investigative Direction: Verify against UVU's official enrollment figures.
 Claim Timestamp: 00:20:33
 Claim: UVU has 24 police officers available to cover its campus.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
-Related Nodes: N-2326
+Related Nodes: N-11326
 Investigative Direction: Verify against UVU PD staffing rosters and Utah public-safety salary records.
 
 ---
@@ -539,7 +539,7 @@ Claim Timestamp: 00:22:26
 Claim: UVU's state-certified emergency medical services were present beside the vehicle with medical bags.
 Anchored Artifacts: A-2384.1 (read on air in filing context)
 Mentions: N-1
-Related Nodes: N-2328
+Related Nodes: N-11328
 Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous dispatch logs.
 
 ---
@@ -549,7 +549,7 @@ Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous 
 Claim Timestamp: 00:06:24
 Claim: The findings of UVU's independent external review of security failures were due to be released on Friday (immediately following the episode air date).
 Anchored Artifacts: A-2385.1
-Related Nodes: N-2329, N-2323
+Related Nodes: N-11329, N-11323
 Investigative Direction: Monitor UVU press releases and the Utah Attorney General's office.
 
 ---
@@ -569,7 +569,7 @@ Investigative Direction: Compare against UVU PD visitor logs and hotel / travel 
 Claim Timestamp: 00:24:37
 Claim: The notice of claim alleges UVU parties could have created and maintained a secure perimeter with controlled ingress/egress points and security screenings.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-2323
+Related Nodes: N-11323
 Investigative Direction: Compare allegation text against UVU's pre-event security plan submission (if any).
 
 ---
@@ -579,7 +579,7 @@ Investigative Direction: Compare allegation text against UVU's pre-event securit
 Claim Timestamp: 00:25:33
 Claim: The notice of claim alleges UVU parties had the power and authority to impose attendee-number restrictions.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-2323
+Related Nodes: N-11323
 Investigative Direction: Verify ticket-sales authority and UVU event-permit conditions.
 
 ---
@@ -591,7 +591,7 @@ Claim: The notice of claim concludes that "the UVU party's omissions, actions an
 Anchored Artifacts: A-2384.1
 Mentions: N-1
 Contradicts: C-3494
-Related Nodes: N-2323
+Related Nodes: N-11323
 Investigative Direction: Track subsequent civil complaint filings with the Utah Attorney General's office.
 
 ---

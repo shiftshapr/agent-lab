@@ -74,7 +74,7 @@
             "C-1306"
           ],
           "related_nodes": [
-            "N-1208"
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "C-1306"
           ],
           "related_nodes": [
-            "N-1208"
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
           ],
           "related_nodes": [
             "N-176",
-            "N-1207"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
           ],
           "related_nodes": [
             "N-177",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,7 +216,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
           "related_nodes": [
             "N-92",
             "N-180",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,7 +299,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,7 +326,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -355,7 +355,7 @@
           "related_nodes": [
             "N-179",
             "N-92",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
           "related_nodes": [
             "N-179",
             "N-92",
-            "N-1210"
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -531,7 +531,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1207"
+        "N-10207"
       ]
     },
     {
@@ -558,7 +558,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-92",
-        "N-1210"
+        "N-10210"
       ]
     },
     {
@@ -626,13 +626,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-92",
-        "N-1210"
+        "N-10210"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1207",
-      "ref": "N-1207",
+      "@id": "N-10207",
+      "ref": "N-10207",
       "name": "Mike Mitchell Public Record Anomaly",
       "type": "investigation_target",
       "description": "Persistent anomaly: a 24+ year Washington County detective appears to have minimal public footprint aside from a single retirement-celebration post, despite Brooksby's stated intent to protect his identity.",
@@ -653,8 +653,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1208",
-      "ref": "N-1208",
+      "@id": "N-10208",
+      "ref": "N-10208",
       "name": "Brooksby Suicide Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Brooksby's claim that Tyler Robinson had \"suicidal ideations\" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot – two states that the host argues cannot coexist.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1209",
-      "ref": "N-1209",
+      "@id": "N-10209",
+      "ref": "N-10209",
       "name": "Robinson Apartment Staging Allegation",
       "type": "investigation_target",
       "description": "Allegation by the Robinson family (via host's source) that Tyler's room in the apartment shared with Lance was staged post-arrest, including placement of a \"furry bed\" purportedly to associate Lance's attributes with Tyler.",
@@ -692,8 +692,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1210",
-      "ref": "N-1210",
+      "@id": "N-10210",
+      "ref": "N-10210",
       "name": "Phil Lyman Proximity and Behavior Investigation",
       "type": "investigation_target",
       "description": "Composite investigative target tracking Phil Lyman's documented proximity to the shooting scene (driveway, venue, rooftop area, post-shooting media appearances), his in-person contact with \"Nick,\" and his refusal to share imagery with the host's team.",
@@ -728,8 +728,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1211",
-      "ref": "N-1211",
+      "@id": "N-10211",
+      "ref": "N-10211",
       "name": "UVU Campus Familiarity Question",
       "type": "investigation_target",
       "description": "Persistent question (raised by host's source) regarding how Tyler Robinson – accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus – would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.",
@@ -903,7 +903,7 @@
         "A-1172.2"
       ],
       "related_nodes": [
-        "N-1208"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:04:50–00:05:30",
@@ -922,7 +922,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-1208"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:05:30–00:06:15",
@@ -942,7 +942,7 @@
         "A-1173.2"
       ],
       "related_nodes": [
-        "N-1209"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:07:30–00:08:10",
@@ -978,7 +978,7 @@
         "A-1174.1"
       ],
       "related_nodes": [
-        "N-1207"
+        "N-10207"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:16:50",
@@ -998,7 +998,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-1208"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:06:15–00:06:30",
@@ -1015,7 +1015,7 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:29:30",
@@ -1035,7 +1035,7 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:00",
@@ -1055,7 +1055,7 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:30:00–00:32:00",
@@ -1075,7 +1075,7 @@
         "A-1179.1"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:33:15",
@@ -1095,7 +1095,7 @@
         "A-1180.1"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:34:00–00:35:30",
@@ -1115,7 +1115,7 @@
         "A-1181.1"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:41:00–00:41:30",
@@ -1135,7 +1135,7 @@
         "A-1181.2"
       ],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00–00:42:30",
@@ -1153,7 +1153,7 @@
       "claim": "Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30–00:39:00",
@@ -1171,7 +1171,7 @@
       "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1210"
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:38:30–00:39:00",

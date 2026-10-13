@@ -31,8 +31,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1572",
-            "N-1574"
+            "N-10572",
+            "N-10574"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,7 +60,7 @@
           "related_nodes": [
             "N-2",
             "N-298",
-            "N-1573"
+            "N-10573"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -88,7 +88,7 @@
           "related_nodes": [
             "N-916",
             "N-298",
-            "N-1573"
+            "N-10573"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -226,7 +226,7 @@
             "N-298",
             "N-916",
             "N-42",
-            "N-1573"
+            "N-10573"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -251,7 +251,7 @@
           "related_nodes": [
             "N-2",
             "N-364",
-            "N-1576"
+            "N-10576"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -379,7 +379,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1573"
+        "N-10573"
       ]
     },
     {
@@ -401,7 +401,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-916",
-        "N-1573"
+        "N-10573"
       ]
     },
     {
@@ -485,7 +485,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1576"
+        "N-10576"
       ]
     },
     {
@@ -504,7 +504,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1576"
+        "N-10576"
       ]
     },
     {
@@ -523,7 +523,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1576"
+        "N-10576"
       ]
     },
     {
@@ -543,7 +543,7 @@
       "related_nodes": [
         "N-2",
         "N-42",
-        "N-1576"
+        "N-10576"
       ]
     },
     {
@@ -566,8 +566,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1572",
-      "ref": "N-1572",
+      "@id": "N-10572",
+      "ref": "N-10572",
       "name": "Erika Kirk Real Estate License Timing Question",
       "type": "investigation_target",
       "description": "Discrepancy between Erika's NY real estate license issuance (presumed October 24, 2018) and the same month as her first dating of Charlie Kirk.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1573",
-      "ref": "N-1573",
+      "@id": "N-10573",
+      "ref": "N-10573",
       "name": "Erika Kirk Corcoran Group Employment Verification",
       "type": "investigation_target",
       "description": "Persistent question regarding Erika Kirk's stated real estate career at Corcoran Group and overlapping Epstein document listing of Lynn Forester de Rothschild as Corcoran Group Inc. President.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1574",
-      "ref": "N-1574",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Erika Kirk September 10 Assistant Pull-Back Investigation",
       "type": "investigation_target",
       "description": "Host-asserted but not artifact-anchored: Tracy Martin allegedly withdrew her daughter (Erika's assistant) from the UVU event due to a \"bad feeling.\"",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1575",
-      "ref": "N-1575",
+      "@id": "N-10575",
+      "ref": "N-10575",
       "name": "Erika Kirk Educational Timeline Verification Gap",
       "type": "investigation_target",
       "description": "Host's call for verification: multiple universities listed (Regis, Loyola Marymount, Arizona State, Liberty) with no corroborating witnesses.",
@@ -651,8 +651,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1576",
-      "ref": "N-1576",
+      "@id": "N-10576",
+      "ref": "N-10576",
       "name": "Erika Kirk Post-Assassination Conduct Composite",
       "type": "investigation_target",
       "description": "Composite investigation target covering host allegations regarding: (a) three-way funeral-day call with Dr. Lee Trotter, (b) alleged false statement to Glenn Beck, (c) alleged memory lapse regarding Hamptons Bibi Netanyahu call, (d) \"Superman neck\" framing.",
@@ -770,8 +770,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1556",
-      "ref": "N-1556",
+      "@id": "N-10556",
+      "ref": "N-10556",
       "name": "Erika Kirk September 10 Alibi Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
@@ -797,7 +797,7 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-1573"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
@@ -819,7 +819,7 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-1573"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:27:38",
@@ -839,7 +839,7 @@
         "A-1763.1"
       ],
       "related_nodes": [
-        "N-1572"
+        "N-10572"
       ],
       "tags": [],
       "claim_timestamp": "00:31:35",
@@ -989,7 +989,7 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-1573"
+        "N-10573"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
@@ -1044,7 +1044,7 @@
       "claim": "The host says it is a fact that Erika Kirk's assistant, the daughter of Tracy Martin, whom she chooses not to name, was supposed to go to UVU on September 10, which she says tracks with Erika's admission that she also considered going.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1556"
+        "N-10556"
       ],
       "tags": [],
       "claim_timestamp": "00:04:05",

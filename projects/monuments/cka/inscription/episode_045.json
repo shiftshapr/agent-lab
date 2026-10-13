@@ -205,7 +205,7 @@
             "C-1910"
           ],
           "related_nodes": [
-            "N-1403"
+            "N-10403"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
             "C-1906"
           ],
           "related_nodes": [
-            "N-1403",
+            "N-10403",
             "N-98"
           ],
           "tags": [],
@@ -327,7 +327,7 @@
             "C-1909"
           ],
           "related_nodes": [
-            "N-1404"
+            "N-10404"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,7 +420,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1403"
+        "N-10403"
       ]
     },
     {
@@ -444,8 +444,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1403",
-      "ref": "N-1403",
+      "@id": "N-10403",
+      "ref": "N-10403",
       "name": "USAF C37A 99-044 Flight Path Verification",
       "type": "investigation_target",
       "description": "Cross-episode investigation target: the September 7-9, 2025 movements of USAF C37A Gulfstream V (tail 99-044) including transponder-dark segment and RCH-to-SAM call sign transition at Fort Huachuca, and the question of which senior official was picked up.",
@@ -469,8 +469,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1404",
-      "ref": "N-1404",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
       "type": "investigation_target",
       "description": "Investigation target: identification and preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, showing the young woman and special operations individual departing in a green truck.",
@@ -707,7 +707,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-1403"
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:43:18",
@@ -723,7 +723,7 @@
         "A-1530.1"
       ],
       "related_nodes": [
-        "N-1403"
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
@@ -773,7 +773,7 @@
         "A-1531.6"
       ],
       "related_nodes": [
-        "N-1404"
+        "N-10404"
       ],
       "tags": [],
       "claim_timestamp": "00:59:22",
@@ -789,7 +789,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-1403"
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20",

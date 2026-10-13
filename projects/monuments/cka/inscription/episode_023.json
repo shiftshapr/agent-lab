@@ -33,7 +33,7 @@
             "N-1",
             "N-45",
             "N-302",
-            "N-1273"
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -53,7 +53,7 @@
           "related_nodes": [
             "N-45",
             "N-302",
-            "N-1273"
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -73,7 +73,7 @@
           "related_nodes": [
             "N-45",
             "N-302",
-            "N-1273"
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -94,8 +94,8 @@
           "related_nodes": [
             "N-1",
             "N-272",
-            "N-1273",
-            "N-1277"
+            "N-10273",
+            "N-10277"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1273"
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1273"
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,8 +152,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1273",
-            "N-1277"
+            "N-10273",
+            "N-10277"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,8 +172,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1273",
-            "N-1277"
+            "N-10273",
+            "N-10277"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -193,7 +193,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1273"
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
           "related_nodes": [
             "N-45",
             "N-302",
-            "N-1274"
+            "N-10274"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -240,7 +240,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1274"
+            "N-10274"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-1550"
           ],
           "related_nodes": [
-            "N-1274"
+            "N-10274"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -279,7 +279,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1274"
+            "N-10274"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -307,7 +307,7 @@
           "related_nodes": [
             "N-1",
             "N-272",
-            "N-1277"
+            "N-10277"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -334,7 +334,7 @@
           ],
           "related_nodes": [
             "N-272",
-            "N-1278"
+            "N-10278"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -361,8 +361,8 @@
           ],
           "related_nodes": [
             "N-302",
-            "N-1275",
-            "N-1280"
+            "N-10275",
+            "N-10280"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -388,7 +388,7 @@
             "C-1564"
           ],
           "related_nodes": [
-            "N-1275"
+            "N-10275"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,7 +407,7 @@
           ],
           "related_nodes": [
             "N-309",
-            "N-1275"
+            "N-10275"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -461,7 +461,7 @@
           "related_nodes": [
             "N-45",
             "N-302",
-            "N-1275"
+            "N-10275"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -480,7 +480,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1282"
+            "N-10282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -510,8 +510,8 @@
             "N-45",
             "N-302",
             "N-97",
-            "N-1275",
-            "N-1276"
+            "N-10275",
+            "N-10276"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -538,7 +538,7 @@
           ],
           "related_nodes": [
             "N-308",
-            "N-1280"
+            "N-10280"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -567,7 +567,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1282"
+            "N-10282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -594,7 +594,7 @@
           ],
           "related_nodes": [
             "N-45",
-            "N-1279"
+            "N-10279"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -622,7 +622,7 @@
           "related_nodes": [
             "N-1",
             "N-65",
-            "N-1275"
+            "N-10275"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -651,7 +651,7 @@
           "related_nodes": [
             "N-1",
             "N-50",
-            "N-1275"
+            "N-10275"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -666,8 +666,8 @@
   "nodes": [
     {
       "@type": "Topic",
-      "@id": "N-1282",
-      "ref": "N-1282",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity t",
       "type": "topic",
       "description": "",
@@ -715,10 +715,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1273",
-        "N-1274",
-        "N-1275",
-        "N-1282"
+        "N-10273",
+        "N-10274",
+        "N-10275",
+        "N-10282"
       ]
     },
     {
@@ -747,8 +747,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-302",
-        "N-1275",
-        "N-1279"
+        "N-10275",
+        "N-10279"
       ]
     },
     {
@@ -772,7 +772,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1278"
+        "N-10278"
       ]
     },
     {
@@ -802,8 +802,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-45",
-        "N-1275",
-        "N-1280"
+        "N-10275",
+        "N-10280"
       ]
     },
     {
@@ -827,7 +827,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-1275"
+        "N-10275"
       ]
     },
     {
@@ -849,7 +849,7 @@
       "related_nodes": [
         "N-1",
         "N-65",
-        "N-1275"
+        "N-10275"
       ]
     },
     {
@@ -872,7 +872,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-302",
-        "N-1276"
+        "N-10276"
       ]
     },
     {
@@ -897,7 +897,7 @@
       "related_nodes": [
         "N-1",
         "N-42",
-        "N-1275"
+        "N-10275"
       ]
     },
     {
@@ -919,7 +919,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1280"
+        "N-10280"
       ]
     },
     {
@@ -941,7 +941,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ]
     },
     {
@@ -962,14 +962,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1273",
-        "N-1274"
+        "N-10273",
+        "N-10274"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1273",
-      "ref": "N-1273",
+      "@id": "N-10273",
+      "ref": "N-10273",
       "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Persistent investigative target across 2022–2025 relating to the host's claim that the aircraft's itinerary repeatedly coincides with TPUSA, TPUSA Faith, and Charlie Kirk locations.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1274",
-      "ref": "N-1274",
+      "@id": "N-10274",
+      "ref": "N-10274",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Secondary Egyptian plane tracked by host; arrival/departure pattern around TPUSA / Charlie Kirk locations and post-assassination departure via Canada → Paris → Cairo.",
@@ -1032,8 +1032,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1275",
-      "ref": "N-1275",
+      "@id": "N-10275",
+      "ref": "N-10275",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Composite investigative target covering TPUSA Faith leadership (Rob McCoy, Sean Feucht), Tucker Carlson speech fallout, Netanyahu outreach, Jack Hibbs silence, and Village Crazy Lady NAR research.",
@@ -1069,14 +1069,14 @@
         "N-42",
         "N-65",
         "N-309",
-        "N-1276",
-        "N-1278"
+        "N-10276",
+        "N-10278"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1276",
-      "ref": "N-1276",
+      "@id": "N-10276",
+      "ref": "N-10276",
       "name": "NAR (New Apostolic Reformation) Infiltration Question",
       "type": "investigation_target",
       "description": "Persistent investigative target initiated by host and Village Crazy Lady regarding NAR's connection to TPUSA Faith leadership.",
@@ -1094,13 +1094,13 @@
       "related_nodes": [
         "N-302",
         "N-97",
-        "N-1275"
+        "N-10275"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1277",
-      "ref": "N-1277",
+      "@id": "N-10277",
+      "ref": "N-10277",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
       "type": "investigation_target",
       "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark – see Flag on A-1303.1).",
@@ -1125,8 +1125,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1278",
-      "ref": "N-1278",
+      "@id": "N-10278",
+      "ref": "N-10278",
       "name": "TPUSA Financial Irregularities Question",
       "type": "investigation_target",
       "description": "Composite investigative target covering Mikey McCoy's promotion, host's claim that Charlie did not know the source of TPUSA funding, and the broader money-laundering framing.",
@@ -1144,14 +1144,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-272",
-        "N-1275",
-        "N-1280"
+        "N-10275",
+        "N-10280"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1279",
-      "ref": "N-1279",
+      "@id": "N-10279",
+      "ref": "N-10279",
       "name": "Rob McCoy / Tyler Bowyer Background Verification",
       "type": "investigation_target",
       "description": "Investigative target combining host's claims regarding Rob McCoy's connection to the Borderline Bar shooting and Tyler Bowyer's biography, internships, and Arizona political activity.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1280",
-      "ref": "N-1280",
+      "@id": "N-10280",
+      "ref": "N-10280",
       "name": "Mega-Church / Cash / Real-Estate Money Flow Hypothesis",
       "type": "investigation_target",
       "description": "Investigative target arising from host's framing of cash-discovery patterns (Osteen), TPUSA Faith financial allegations (Feucht), and Mormon real-estate cash purchase patterns.",
@@ -1194,7 +1194,7 @@
       "related_nodes": [
         "N-302",
         "N-308",
-        "N-1278"
+        "N-10278"
       ]
     },
     {
@@ -1313,7 +1313,7 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-1273"
+        "N-10273"
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
@@ -1336,7 +1336,7 @@
         "A-1302.4"
       ],
       "related_nodes": [
-        "N-1274"
+        "N-10274"
       ],
       "tags": [],
       "claim_timestamp": "00:09:38",
@@ -1355,7 +1355,7 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-1278"
+        "N-10278"
       ],
       "tags": [],
       "claim_timestamp": "00:20:27",
@@ -1374,7 +1374,7 @@
         "A-1303.1"
       ],
       "related_nodes": [
-        "N-1277"
+        "N-10277"
       ],
       "tags": [],
       "claim_timestamp": "00:20:57",
@@ -1396,8 +1396,8 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-1275",
-        "N-1280"
+        "N-10275",
+        "N-10280"
       ],
       "tags": [],
       "claim_timestamp": "00:26:47",
@@ -1416,7 +1416,7 @@
         "A-1302.3"
       ],
       "related_nodes": [
-        "N-1274"
+        "N-10274"
       ],
       "tags": [],
       "claim_timestamp": "00:26:47",
@@ -1432,7 +1432,7 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-1273"
+        "N-10273"
       ],
       "tags": [],
       "claim_timestamp": "00:39:39",
@@ -1449,7 +1449,7 @@
         "A-1302.4"
       ],
       "related_nodes": [
-        "N-1274"
+        "N-10274"
       ],
       "tags": [],
       "claim_timestamp": "00:40:48",
@@ -1468,9 +1468,9 @@
         "A-1306.4"
       ],
       "related_nodes": [
-        "N-1273",
-        "N-1274",
-        "N-1275"
+        "N-10273",
+        "N-10274",
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
@@ -1486,7 +1486,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-1282"
+        "N-10282"
       ],
       "tags": [],
       "claim_timestamp": "00:42:24",
@@ -1505,7 +1505,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-1282"
+        "N-10282"
       ],
       "tags": [],
       "claim_timestamp": "00:43:20",
@@ -1522,7 +1522,7 @@
         "A-1310.1"
       ],
       "related_nodes": [
-        "N-1279"
+        "N-10279"
       ],
       "tags": [],
       "claim_timestamp": "00:17:04",
@@ -1541,7 +1541,7 @@
         "A-1311.1"
       ],
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
@@ -1561,7 +1561,7 @@
         "A-1308.1"
       ],
       "related_nodes": [
-        "N-1280"
+        "N-10280"
       ],
       "tags": [],
       "claim_timestamp": "00:29:46",
@@ -1580,7 +1580,7 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "00:32:39",
@@ -1602,7 +1602,7 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "00:32:39",
@@ -1623,7 +1623,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-1282"
+        "N-10282"
       ],
       "tags": [],
       "claim_timestamp": "00:59:11",
@@ -1642,7 +1642,7 @@
         "A-1311.1"
       ],
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
@@ -1663,7 +1663,7 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-1278"
+        "N-10278"
       ],
       "tags": [],
       "claim_timestamp": "00:38:00",
@@ -1684,7 +1684,7 @@
         "A-1306.3"
       ],
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "00:59:11",
@@ -1704,7 +1704,7 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-1275"
+        "N-10275"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
@@ -1725,8 +1725,8 @@
         "A-1307.1"
       ],
       "related_nodes": [
-        "N-1275",
-        "N-1276"
+        "N-10275",
+        "N-10276"
       ],
       "tags": [],
       "claim_timestamp": "00:13:18",
@@ -1745,7 +1745,7 @@
       "claim": "The host states that Rob McCoy \"says, 'I was his pastor,'\" and characterizes Rob McCoy's pattern of proximity to mass-shooting events as suspect.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1279"
+        "N-10279"
       ],
       "tags": [],
       "claim_timestamp": "00:14:58",

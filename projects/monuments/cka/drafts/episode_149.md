@@ -336,7 +336,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-1235, N-46*
+*Related: N-10235, N-46*
 
 ---
 
@@ -619,7 +619,7 @@ Claim Timestamp: 00:32:09
 Claim: The New York Post published an article titled along the lines of "Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered."
 Anchored Artifacts: A-2433.2
 Mentions: N-69, N-1
-Related Nodes: N-2389
+Related Nodes: N-11389
 Investigative Direction: Retrieve the original article from the New York Post archive; verify URL and publication date.
 
 ---
@@ -630,7 +630,7 @@ Claim Timestamp: 00:32:09
 Claim: Fox News published a piece characterizing the alleged Cowboy Smokehouse meal as "one of Tyler Robinson's last meals as a free man…a steak dinner, medium rare."
 Anchored Artifacts: A-2433.3
 Mentions: N-69
-Related Nodes: N-1071
+Related Nodes: N-10071
 Investigative Direction: Retrieve the original article from Fox News archives; verify URL and publication date.
 
 ---

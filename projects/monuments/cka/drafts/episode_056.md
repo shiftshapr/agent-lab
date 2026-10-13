@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-716, N-719, N-1480, N-1481, N-1482, N-1483
+  - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-716, N-719, N-10480, N-10481, N-10482, N-10483
   - Reused Nodes Appearing: N-2, N-37
   - (see registers)
 
@@ -32,7 +32,7 @@
   - Artifact Families Introduced: A-1617, A-1618, A-1619, A-1620, A-1621, A-1622, A-1623, A-1624, A-1625, A-1626, A-1627
   - Claim Range: C-2075 – C-2096
   - New Person Nodes Introduced: N-706 through N-719
-  - New Investigation Targets Introduced: N-1480, N-1481, N-1482, N-1483
+  - New Investigation Targets Introduced: N-10480, N-10481, N-10482, N-10483
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk
 
 ---
@@ -77,7 +77,7 @@ Video Timestamp: 00:13:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host characterizes filing as allegations)
 
-*Related: C-2077, C-2078, C-2079, C-2080, N-706, N-707, N-708, N-70, N-1480*
+*Related: C-2077, C-2078, C-2079, C-2080, N-706, N-707, N-708, N-70, N-10480*
 
 **A-1620** TPUSA Board Member Profile Bundle
 
@@ -86,7 +86,7 @@ Confidence Level: Medium (host characterizes filing as allegations)
 Video Timestamp: 00:18:40
 Confidence Level: Medium
 
-*Related: C-2081, N-710, N-1481*
+*Related: C-2081, N-710, N-10481*
 
 **A-1621** Mind War Book Reference Bundle
 
@@ -95,7 +95,7 @@ Confidence Level: Medium
 Video Timestamp: 00:21:42
 Confidence Level: Medium
 
-*Related: C-2082, N-710, N-711, N-1481*
+*Related: C-2082, N-710, N-711, N-10481*
 
 **A-1622** Michael Aquino Interview / Background Bundle
 
@@ -140,21 +140,21 @@ Confidence Level: Medium
 Video Timestamp: 00:32:12
 Confidence Level: Medium
 
-*Related: C-2087, N-712, N-713, N-1482*
+*Related: C-2087, N-712, N-713, N-10482*
 
 **A-1624.2** Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Hascgard (Habsgard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.
 
 Video Timestamp: 00:34:03
 Confidence Level: Medium (allegations)
 
-*Related: C-2088, N-713, N-1482*
+*Related: C-2088, N-713, N-10482*
 
 **A-1624.3** Reference to law firm news release stating twenty-three former residents of the home are expected to bring complaints; most recent complaints filed November (year implicit in context).
 
 Video Timestamp: 00:35:00
 Confidence Level: Medium
 
-*Related: C-2089, N-713, N-1482*
+*Related: C-2089, N-713, N-10482*
 
 **A-1625** Scott Adams Death News Bundle
 
@@ -176,7 +176,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:24
 Confidence Level: Medium (verbally referenced; host states "we have that somewhere so you can see that")
 
-*Related: C-2091, N-2, N-1483*
+*Related: C-2091, N-2, N-10483*
 
 **A-1627** Andrew Aguilar Comment Bundle
 
@@ -210,7 +210,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2077, C-2078, N-1480*
+*Related: A-1619.1, C-2077, C-2078, N-10480*
 
 **N-707** Mitch Manley Sr.
 
@@ -221,7 +221,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2077, N-1480*
+*Related: A-1619.1, C-2077, N-10480*
 
 **N-708** Mitch Manley Jr.
 
@@ -232,7 +232,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2079, N-707, N-1480*
+*Related: A-1619.1, C-2079, N-707, N-10480*
 
 **N-710** Paul Valli
 
@@ -243,7 +243,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, C-2081, C-2082, N-711, N-1481*
+*Related: A-1620.1, A-1621.1, C-2081, C-2082, N-711, N-10481*
 
 **N-711** Michael Aquino
 
@@ -254,7 +254,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-710, N-1481*
+*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-710, N-10481*
 
 **N-712** Greg Laurie
 
@@ -265,7 +265,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.1, C-2087, N-713, N-1482*
+*Related: A-1624.1, C-2087, N-713, N-10482*
 
 **N-713** Paul Havsgaard
 
@@ -276,7 +276,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.2, A-1624.3, C-2088, C-2089, N-712, N-1482*
+*Related: A-1624.2, A-1624.3, C-2088, C-2089, N-712, N-10482*
 
 **N-266** Scott Adams
 
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 *Related: A-1627.1, C-2093*
 
-**N-1480** Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients
+**N-10480** Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients
 
 Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.
 
@@ -344,7 +344,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2077, C-2078, C-2080, N-706, N-707, N-708, N-70*
 
-**N-1481** TPUSA Board Member Military–Satanism Connection
+**N-10481** TPUSA Board Member Military–Satanism Connection
 
 Persistent investigation target: link between a TPUSA board member (Paul Valli) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).
 
@@ -355,7 +355,7 @@ Investigative Pressure: High
 
 *Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-710, N-711*
 
-**N-1482** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10482** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Hascgard alleging abuse of children at a Romanian shelter.
 
@@ -366,7 +366,7 @@ Investigative Pressure: High
 
 *Related: A-1624.1, A-1624.2, A-1624.3, C-2087, C-2088, C-2089, N-712, N-713*
 
-**N-1483** Erica Kirk June 19 Instagram Purge
+**N-10483** Erica Kirk June 19 Instagram Purge
 
 Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.
 
@@ -418,7 +418,7 @@ Claim: A court petition was filed in December 2024 by Alton C. Jennings's grands
 
 Anchored Artifacts: A-1619.1
 Mentions: N-706, N-707
-Related Nodes: N-1480
+Related Nodes: N-10480
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
 **C-2078** Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death
@@ -429,7 +429,7 @@ Claim: Alton C. Jennings's estate was valued at $25 million, and his will was re
 
 Anchored Artifacts: A-1619.1
 Mentions: N-706
-Related Nodes: N-1480
+Related Nodes: N-10480
 Investigative Direction: Obtain probate court filings; verify valuation and date of will execution.
 
 **C-2079** Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker
@@ -440,7 +440,7 @@ Claim: Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turn
 
 Anchored Artifacts: A-1619.1
 Mentions: N-707, N-708, N-1
-Related Nodes: N-1480
+Related Nodes: N-10480
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 
 **C-2080** Jennings Estate Reportedly Split Between Turning Point Action and YAF
@@ -451,7 +451,7 @@ Claim: The redirected Jennings estate was reportedly split between Turning Point
 
 Anchored Artifacts: A-1619.1
 Mentions: N-37
-Related Nodes: N-1480
+Related Nodes: N-10480
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
 **C-2081** Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group
@@ -462,7 +462,7 @@ Claim: Paul E. Valli (Valerie) is identified as a Turning Point USA board member
 
 Anchored Artifacts: A-1620.1
 Mentions: N-710
-Related Nodes: N-1481
+Related Nodes: N-10481
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
 **C-2082** Valli and Aquino Co-Authored *Mind War* in 1980
@@ -473,7 +473,7 @@ Claim: Paul Valli and Major Michael Aquino co-authored the book *Mind War* in 19
 
 Anchored Artifacts: A-1621.1
 Mentions: N-710, N-711
-Related Nodes: N-1481
+Related Nodes: N-10481
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
 **C-2083** Michael Aquino Joined the Church of Satan in 1969
@@ -484,7 +484,7 @@ Claim: Michael Aquino joined the Church of Satan in 1969 and rose within its hie
 
 Anchored Artifacts: A-1622.2
 Mentions: N-711
-Related Nodes: N-1481
+Related Nodes: N-10481
 Investigative Direction: Cross-check Aquino's published biographical statements; consult Church of Satan archives.
 
 **C-2084** Aquino Founded the Temple of Set in 1975
@@ -495,7 +495,7 @@ Claim: Michael Aquino left the Church of Satan in 1975 and founded the Temple of
 
 Anchored Artifacts: A-1622.1, A-1622.2
 Mentions: N-711
-Related Nodes: N-1481
+Related Nodes: N-10481
 Investigative Direction: Verify founding documents; cross-check Temple of Set records.
 
 **C-2085** SF Police Investigated Aquino in 1986 re: Army Child Development Center
@@ -506,7 +506,7 @@ Claim: In 1986, San Francisco police opened an investigation into Michael Aquino
 
 Anchored Artifacts: A-1623.1
 Mentions: N-711
-Related Nodes: N-1481
+Related Nodes: N-10481
 Investigative Direction: Obtain SFPD case records (case number); verify closure status and stated reason.
 
 **C-2086** 1987 Victim Identified Aquino; Case Closed for Insufficient Evidence
@@ -517,7 +517,7 @@ Claim: In 1987, a girl came forward identifying Aquino as the perpetrator, but t
 
 Anchored Artifacts: A-1623.2
 Mentions: N-711
-Related Nodes: N-1481
+Related Nodes: N-10481
 Investigative Direction: Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.
 
 **C-2087** Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home
@@ -528,7 +528,7 @@ Claim: Twelve lawsuits have been filed against Harvest Christian Fellowship and 
 
 Anchored Artifacts: A-1624.1
 Mentions: N-712
-Related Nodes: N-1482
+Related Nodes: N-10482
 Investigative Direction: Obtain court filings (case numbers, jurisdiction); verify plaintiff count.
 
 **C-2088** Allegations Include Specific Abuse Categories at Romanian Shelter
@@ -539,7 +539,7 @@ Claim: Allegations against Paul Hascgard at the Bucharest children's shelter inc
 
 Anchored Artifacts: A-1624.2
 Mentions: N-713
-Related Nodes: N-1482
+Related Nodes: N-10482
 Investigative Direction: Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).
 
 **C-2089** Twenty-Three Former Residents Expected to File Complaints
@@ -550,7 +550,7 @@ Claim: The law firm representing survivors has stated that twenty-three former r
 
 Anchored Artifacts: A-1624.3
 Mentions: N-713
-Related Nodes: N-1482
+Related Nodes: N-10482
 Investigative Direction: Obtain law firm press release; track complaint filings in docket.
 
 **C-2090** Scott Adams Died at 68 from Prostate Cancer
@@ -571,7 +571,7 @@ Claim: Social Blade data records Erica Kirk deleting 126 Instagram posts on June
 
 Anchored Artifacts: A-1626.1
 Mentions: N-2
-Related Nodes: N-1483
+Related Nodes: N-10483
 Investigative Direction: Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts.
 
 **C-2092** Tucker Carlson Compared Lindsey Graham's Behavior to a Drunk Girlfriend During DUI Stop

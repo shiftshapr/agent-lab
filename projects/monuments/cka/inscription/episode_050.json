@@ -116,7 +116,7 @@
           ],
           "related_nodes": [
             "N-599",
-            "N-1442"
+            "N-10442"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,7 +144,7 @@
           "related_nodes": [
             "N-599",
             "N-606",
-            "N-1442"
+            "N-10442"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,7 +172,7 @@
           "related_nodes": [
             "N-605",
             "N-597",
-            "N-1443"
+            "N-10443"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -199,7 +199,7 @@
           ],
           "related_nodes": [
             "N-597",
-            "N-1441"
+            "N-10441"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,8 +218,8 @@
           ],
           "related_nodes": [
             "N-424",
-            "N-1441",
-            "N-1444"
+            "N-10441",
+            "N-10444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -238,7 +238,7 @@
           ],
           "related_nodes": [
             "N-597",
-            "N-1441"
+            "N-10441"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -318,7 +318,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1442"
+        "N-10442"
       ]
     },
     {
@@ -341,8 +341,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-1441",
-        "N-1444"
+        "N-10441",
+        "N-10444"
       ]
     },
     {
@@ -365,8 +365,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-1443",
-        "N-1445"
+        "N-10443",
+        "N-10445"
       ]
     },
     {
@@ -389,7 +389,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-599",
-        "N-1442"
+        "N-10442"
       ]
     },
     {
@@ -436,13 +436,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1441"
+        "N-10441"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1441",
-      "ref": "N-1441",
+      "@id": "N-10441",
+      "ref": "N-10441",
       "name": "Fort Huachuca Morning Meeting Investigation",
       "type": "investigation_target",
       "description": "Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.",
@@ -470,8 +470,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1442",
-      "ref": "N-1442",
+      "@id": "N-10442",
+      "ref": "N-10442",
       "name": "Mark Amodei September 9 Alibi Verification",
       "type": "investigation_target",
       "description": "Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.",
@@ -495,8 +495,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1443",
-      "ref": "N-1443",
+      "@id": "N-10443",
+      "ref": "N-10443",
       "name": "Cabot Phillips Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.",
@@ -518,8 +518,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1444",
-      "ref": "N-1444",
+      "@id": "N-10444",
+      "ref": "N-10444",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.",
@@ -536,13 +536,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-424",
-        "N-1441"
+        "N-10441"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1445",
-      "ref": "N-1445",
+      "@id": "N-10445",
+      "ref": "N-10445",
       "name": "Erika Kirk Pre-Charlie Dating History Verification",
       "type": "investigation_target",
       "description": "Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).",
@@ -708,7 +708,7 @@
         "A-1564.1"
       ],
       "related_nodes": [
-        "N-1442"
+        "N-10442"
       ],
       "tags": [],
       "claim_timestamp": "00:35:44",
@@ -727,7 +727,7 @@
         "A-1565.1"
       ],
       "related_nodes": [
-        "N-1442"
+        "N-10442"
       ],
       "tags": [],
       "claim_timestamp": "00:36:36",
@@ -747,7 +747,7 @@
         "A-1566.1"
       ],
       "related_nodes": [
-        "N-1443"
+        "N-10443"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56 – 00:43:14",
@@ -767,8 +767,8 @@
         "A-1567.2"
       ],
       "related_nodes": [
-        "N-1441",
-        "N-1444"
+        "N-10441",
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30",
@@ -788,7 +788,7 @@
         "A-1567.3"
       ],
       "related_nodes": [
-        "N-1441"
+        "N-10441"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21 – 00:34:20",
@@ -805,7 +805,7 @@
       "claim": "The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1445"
+        "N-10445"
       ],
       "tags": [],
       "claim_timestamp": "00:40:44 – 00:45:06",

@@ -286,7 +286,7 @@
             "C-1504"
           ],
           "related_nodes": [
-            "N-1262"
+            "N-10262"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -314,7 +314,7 @@
           ],
           "related_nodes": [
             "N-45",
-            "N-1264"
+            "N-10264"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -399,7 +399,7 @@
             "N-16",
             "N-45",
             "N-70",
-            "N-1264"
+            "N-10264"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -532,7 +532,7 @@
         "N-42",
         "N-16",
         "N-45",
-        "N-1263"
+        "N-10263"
       ]
     },
     {
@@ -595,7 +595,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1264"
+        "N-10264"
       ]
     },
     {
@@ -765,8 +765,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1262",
-      "ref": "N-1262",
+      "@id": "N-10262",
+      "ref": "N-10262",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
       "type": "investigation_target",
       "description": "Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.",
@@ -788,8 +788,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1263",
-      "ref": "N-1263",
+      "@id": "N-10263",
+      "ref": "N-10263",
       "name": "TPUSA Military-Personnel Network",
       "type": "investigation_target",
       "description": "Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as \"military simulation\" hypothesis). Supported by A-1279.1, A-1282.1.",
@@ -816,8 +816,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1264",
-      "ref": "N-1264",
+      "@id": "N-10264",
+      "ref": "N-10264",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1265",
-      "ref": "N-1265",
+      "@id": "N-10265",
+      "ref": "N-10265",
       "name": "Susie Wiles Eulogy-Selection Question",
       "type": "investigation_target",
       "description": "Host's flagged curiosity regarding the selection of Susie Wiles (spelled \"Susie Wiles\" in one place) as a Kirk eulogist; no artifact-anchored explanation given.",
@@ -1198,7 +1198,7 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-1262"
+        "N-10262"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
@@ -1218,7 +1218,7 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-1262"
+        "N-10262"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
@@ -1238,7 +1238,7 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-1263"
+        "N-10263"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",
@@ -1259,7 +1259,7 @@
         "A-1279.1"
       ],
       "related_nodes": [
-        "N-1263"
+        "N-10263"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",

@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-102",
             "N-206",
-            "N-1224"
+            "N-10224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-1355"
           ],
           "related_nodes": [
-            "N-1224"
+            "N-10224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,8 +86,8 @@
           ],
           "related_nodes": [
             "N-202",
-            "N-1224",
-            "N-1225"
+            "N-10224",
+            "N-10225"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
             "N-6",
             "N-207",
             "N-208",
-            "N-1226"
+            "N-10226"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -169,7 +169,7 @@
             "C-1362"
           ],
           "related_nodes": [
-            "N-1227"
+            "N-10227"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-1363"
           ],
           "related_nodes": [
-            "N-1227"
+            "N-10227"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
           ],
           "related_nodes": [
             "N-204",
-            "N-1227"
+            "N-10227"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -249,7 +249,7 @@
           ],
           "related_nodes": [
             "N-205",
-            "N-1227"
+            "N-10227"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
             "C-1356"
           ],
           "related_nodes": [
-            "N-1225"
+            "N-10225"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -427,7 +427,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1224"
+        "N-10224"
       ]
     },
     {
@@ -450,8 +450,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1224",
-        "N-1225"
+        "N-10224",
+        "N-10225"
       ]
     },
     {
@@ -492,7 +492,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1227"
+        "N-10227"
       ]
     },
     {
@@ -514,7 +514,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1227"
+        "N-10227"
       ]
     },
     {
@@ -534,7 +534,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1224"
+        "N-10224"
       ]
     },
     {
@@ -556,7 +556,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1226"
+        "N-10226"
       ]
     },
     {
@@ -597,13 +597,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-207",
-        "N-1226"
+        "N-10226"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1224",
-      "ref": "N-1224",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "ADL–FBI Partnership Structure",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.",
@@ -630,8 +630,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1225",
-      "ref": "N-1225",
+      "@id": "N-10225",
+      "ref": "N-10225",
       "name": "Connecticut FBI Field Office Deployment Anomaly",
       "type": "investigation_target",
       "description": "Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.",
@@ -654,8 +654,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1226",
-      "ref": "N-1226",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Tyler Robinson Defense Selection Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1227",
-      "ref": "N-1227",
+      "@id": "N-10227",
+      "ref": "N-10227",
       "name": "Witness and Public-Figure Demeanor Anomalies",
       "type": "investigation_target",
       "description": "Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.",
@@ -768,7 +768,7 @@
         "A-1209.1"
       ],
       "related_nodes": [
-        "N-1224"
+        "N-10224"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45–00:09:33",
@@ -802,7 +802,7 @@
         "A-1218.1"
       ],
       "related_nodes": [
-        "N-1225"
+        "N-10225"
       ],
       "tags": [],
       "claim_timestamp": "00:13:03–00:14:10",
@@ -821,7 +821,7 @@
         "A-1211.1"
       ],
       "related_nodes": [
-        "N-1225"
+        "N-10225"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32–00:13:03",
@@ -857,7 +857,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-1226"
+        "N-10226"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07–00:32:15",
@@ -877,7 +877,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-1226"
+        "N-10226"
       ],
       "tags": [],
       "claim_timestamp": "00:32:15",
@@ -898,7 +898,7 @@
         "A-1213.1"
       ],
       "related_nodes": [
-        "N-1227"
+        "N-10227"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:53",
@@ -931,7 +931,7 @@
         "A-1215.1"
       ],
       "related_nodes": [
-        "N-1227"
+        "N-10227"
       ],
       "tags": [],
       "claim_timestamp": "00:21:50–00:22:48",

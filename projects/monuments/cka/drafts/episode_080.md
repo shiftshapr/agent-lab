@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1617, N-1618, N-1619
+  - New Nodes Introduced: N-10617, N-10618, N-10619
   - Reused Nodes Appearing: none
   - Hole-minted Nodes (remap-ep80): N-209
   - (see registers)
@@ -24,7 +24,7 @@ Claim Range: C-2494–C-2524
 
 New Person Nodes Introduced: none (Wave 2: local ids removed)
 
-New Investigation Target Nodes Introduced: N-1617, N-1618
+New Investigation Target Nodes Introduced: N-10617, N-10618
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
@@ -41,7 +41,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 - **Transcript completeness status:** Auto-captions cleaned; no music cues retained; cleaning flagged but no major omissions noted
 - **Analyst / agent name:** Investigative Analysis Agent
 - **Analysis date:** 2026-03-17
-- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-2494–C-2524); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-1617–N-1618); existing nodes reused where applicable
+- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-2494–C-2524); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-10617–N-10618); existing nodes reused where applicable
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:04:57–00:06:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2494, C-2495, C-2496, C-2497, N-1619*
+*Related: C-2494, C-2495, C-2496, C-2497, N-10619*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:31:39–00:31:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2507, C-2508, C-2521, C-2522, N-2, N-1618*
+*Related: C-2507, C-2508, C-2521, C-2522, N-2, N-10618*
 
 ---
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:32:20–00:33:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2509, C-2510, N-1618*
+*Related: C-2509, C-2510, N-10618*
 
 ---
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:46:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-? Netanyahu, N-1617*
+*Related: N-? Netanyahu, N-10617*
 
 ---
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:47:24–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2512, C-2513, N-1617*
+*Related: C-2512, C-2513, N-10617*
 
 ---
 
@@ -252,7 +252,7 @@ Video Timestamp: 00:48:48–00:49:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2514, C-2515, N-1617*
+*Related: C-2514, C-2515, N-10617*
 
 ---
 
@@ -266,7 +266,7 @@ Video Timestamp: 00:50:05–00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2516, C-2517, C-2518, N-? Netanyahu, N-1617*
+*Related: C-2516, C-2517, C-2518, N-? Netanyahu, N-10617*
 
 ---
 
@@ -280,13 +280,13 @@ Video Timestamp: 00:53:23–00:54:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2519, C-2520, N-? Netanyahu, N-1617*
+*Related: C-2519, C-2520, N-? Netanyahu, N-10617*
 
 ---
 
 ## IV. Node Register
 
-**N-1617** Netanyahu Death/Injury Status Verification
+**N-10617** Netanyahu Death/Injury Status Verification
 
 Persistent inquiry (held across multiple video artifacts in this episode) into whether Benjamin Netanyahu has been killed, injured, or replaced following a rumored March 10/11 Iranian strike.
 
@@ -299,7 +299,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1618** TPUSA Direction-of-Travel Discrepancy (Post-Charlie)
+**N-10618** TPUSA Direction-of-Travel Discrepancy (Post-Charlie)
 
 Persistent inquiry into whether post-assassination Turning Point USA messaging and leadership decisions align with Charlie Kirk's documented positions, anchored by the Arkansas chapter disaffiliation.
 
@@ -312,7 +312,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1619** Joe Kent Resignation Aftermath Pattern
+**N-10619** Joe Kent Resignation Aftermath Pattern
 
 Inquiry into the coordinated public response to Kent's resignation by Trump administration, sitting Republican officials, and right-wing commentators – possible pattern of criminalization-of-dissent.
 
@@ -345,7 +345,7 @@ Claim: Joe Kent's letter states he has resigned from the Director of the Nationa
 Anchored Artifacts: A-1861.1
 Mentions: N-310
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.
 
@@ -359,7 +359,7 @@ Claim: Kent's resignation letter asserts that "Iran posed no imminent threat to 
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period.
 
@@ -373,7 +373,7 @@ Claim: Kent's letter states that the U.S. started the war "due to pressure from 
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter.
 
@@ -387,7 +387,7 @@ Claim: Kent's letter identifies him as a veteran who deployed to combat 11 times
 
 Anchored Artifacts: A-1861.1
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases.
 
@@ -402,7 +402,7 @@ Claim: In on-camera remarks, President Trump described Joe Kent as "weak on secu
 Anchored Artifacts: A-1862.1
 Mentions: N-310
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Confirm exact wording against the full White House transcript or press pool video of the same appearance.
 
@@ -416,7 +416,7 @@ Claim: Trump defended the Iran campaign by referencing his prior termination of 
 
 Anchored Artifacts: A-1862.1
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Confirm specific language against the official White House transcript of the appearance.
 
@@ -431,7 +431,7 @@ Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not
 Anchored Artifacts: A-1863.1
 Mentions: N-716
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Verify the exact X post text against Graham's verified account at the timestamp indicated.
 
@@ -446,7 +446,7 @@ Claim: Mark Levin publicly speculated that Kent "was about to be fired but quick
 Anchored Artifacts: A-1864.1
 Mentions: N-374
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.
 
@@ -461,7 +461,7 @@ Claim: Mark Levin publicly called for the DOJ to open a criminal investigation t
 Anchored Artifacts: A-1864.2
 Mentions: N-374
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Confirm against Levin's verified X account and monitor for any DOJ response.
 
@@ -476,7 +476,7 @@ Claim: Laura Loomer publicly alleged that Kent's wife works for Max Blumenthal a
 Anchored Artifacts: A-1865.1
 Mentions: N-78, N-91
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals.
 
@@ -491,7 +491,7 @@ Claim: Alan Dershowitz publicly referred to Kent as a "neo-Nazi Jew hating Israe
 Anchored Artifacts: A-1866.1
 Mentions: N-858
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Confirm exact text against Dershowitz's verified X account.
 
@@ -506,7 +506,7 @@ Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "
 Anchored Artifacts: A-1867.1
 Mentions: N-209
 
-Related Nodes: N-1619
+Related Nodes: N-10619
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 
@@ -536,7 +536,7 @@ Claim: The Turning Point USA University of Arkansas chapter announced it is disa
 Anchored Artifacts: A-1869.1
 Mentions: N-1, N-2
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.
 
@@ -550,7 +550,7 @@ Claim: The disaffiliating chapter announced it will rebrand to "Young American R
 
 Anchored Artifacts: A-1869.1
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Track the new organization's filings and any subsequent national TPUSA response.
 
@@ -564,7 +564,7 @@ Claim: The chapter president, Dino Fonte Grassi, published a statement on Instag
 
 Anchored Artifacts: A-1870.1
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Verify against Fonte Grassi's verified Instagram account; confirm "unanimous" via any other executive board members' public statements.
 
@@ -579,7 +579,7 @@ Claim: The Fonte Grassi letter states that since Charlie Kirk's assassination, "
 Anchored Artifacts: A-1870.1
 Mentions: N-1
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.
 
@@ -594,7 +594,7 @@ Claim: Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discu
 Anchored Artifacts: A-1871.1
 Mentions: N-1
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.
 
@@ -608,7 +608,7 @@ Claim: Treasury Secretary Scott Bessent was pulled mid-interview to attend the S
 
 Anchored Artifacts: A-1873.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Confirm against full interview video; identify the original outlet and date of the interview.
 
@@ -622,7 +622,7 @@ Claim: Upon return from the Situation Room, Bessent publicly stated the presiden
 
 Anchored Artifacts: A-1873.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates.
 
@@ -636,7 +636,7 @@ Claim: On March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richm
 
 Anchored Artifacts: A-1874.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Verify against FAA ground stop records and the four-airport claim against actual reported closures.
 
@@ -650,7 +650,7 @@ Claim: The official explanation for the March 13 multi-airport shutdown was a "c
 
 Anchored Artifacts: A-1874.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Confirm against official FAA / airport authority statements; investigate whether "circuit board" specificity was ever provided.
 
@@ -665,7 +665,7 @@ Claim: Following a rumored Iranian missile strike, Benjamin Netanyahu's official
 Anchored Artifacts: A-1875.1
 Mentions: N-65
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis.
 
@@ -679,7 +679,7 @@ Claim: Netanyahu reportedly missed a Security Council meeting, described as unus
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Verify against official Israeli government / Knesset scheduling records.
 
@@ -693,7 +693,7 @@ Claim: Yair Netanyahu, who normally retweets or tweets about 30 times per day, w
 
 Anchored Artifacts: A-1875.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence.
 
@@ -708,7 +708,7 @@ Claim: Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador 
 Anchored Artifacts: A-1876.1
 Mentions: N-65, N-439
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Confirm posting timestamp against official channels; subject video to production analysis.
 
@@ -722,7 +722,7 @@ Claim: Netanyahu no-showed a critical military council meeting on March 17, repo
 
 Anchored Artifacts: A-1876.1
 
-Related Nodes: N-1617
+Related Nodes: N-10617
 
 Investigative Direction: Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule.
 
@@ -737,7 +737,7 @@ Claim: Erica Kirk visited Arkansas shortly before the disaffiliation announcemen
 Anchored Artifacts: A-1869.1
 Mentions: N-2, N-969
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.
 
@@ -752,7 +752,7 @@ Claim: Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA cha
 Anchored Artifacts: A-1869.1
 Mentions: N-2, N-969
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Obtain the actual proclamation text from the Arkansas Secretary of State's office.
 
@@ -767,7 +767,7 @@ Claim: Charlie Kirk, in a July 2025 student discussion, publicly stated that "I 
 Anchored Artifacts: A-1871.1
 Mentions: N-1
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Verify exact quotation against the full original audio/video recording.
 
@@ -782,7 +782,7 @@ Claim: Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to j
 Anchored Artifacts: A-1871.1
 Mentions: N-1, N-150
 
-Related Nodes: N-1618
+Related Nodes: N-10618
 
 Investigative Direction: Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.
 

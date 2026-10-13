@@ -29,7 +29,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - Claim Range: C-3236–C-3258
-  - New Nodes Introduced: N-2185, N-2186, N-2187, N-2188, N-2189
+  - New Nodes Introduced: N-11185, N-11186, N-11187, N-11188, N-11189
   - Reused Nodes Appearing: N-69, N-46
   - Existing Nodes Reused: N-1, N-2
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:00:02–00:00:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3236, C-3237, N-2185, N-1*
+*Related: C-3236, C-3237, N-11185, N-1*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:28:00–00:30:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single photo)
 
-*Related: C-3244, N-2186*
+*Related: C-3244, N-11186*
 
 **A-2259.2** Gas-pump photo (Texas) – subject fueling with left hand
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-2186*
+*Related: C-3245, N-11186*
 
 **A-2259.3** Selfie photos – taken with left hand
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-2186*
+*Related: C-3245, N-11186*
 
 **A-2259.4** Childhood piano recital video ("My name is Lance Twigs…") – watch on right hand; left hand turns page
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:30:09–00:30:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (visible details)
 
-*Related: C-3246, N-2186*
+*Related: C-3246, N-11186*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:26:49–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (blurry, but referenced as shown publicly)
 
-*Related: C-3248, N-2187, N-1*
+*Related: C-3248, N-11187, N-1*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3249, N-2188*
+*Related: C-3249, N-11188*
 
 **A-2262.2** Joel Barry X post – "$20 burritos for family of eight"
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3250, N-2188*
+*Related: C-3250, N-11188*
 
 **A-2262.3** Joel Barry 2024 X post – "I'd like to go back to when I could afford groceries"
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:41:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3251, N-2188*
+*Related: C-3251, N-11188*
 
 **A-2262.4** Matt Walsh reply to Joel Barry
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:38:00–00:39:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3252, N-2188*
+*Related: C-3252, N-11188*
 
 **A-2262.5** Dan Crenshaw X post – "eat ramen"
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3253, N-2188*
+*Related: C-3253, N-11188*
 
 **A-2262.6** Blake Nef X post – WEF chart claiming US spends least on food
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:42:30–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3254, N-2188*
+*Related: C-3254, N-11188*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 00:44:21–00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3255, N-2188*
+*Related: C-3255, N-11188*
 
 **A-2263.2** Daily Wire trailer audio
 
@@ -289,7 +289,7 @@ Video Timestamp: 00:45:02–00:47:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3255, N-2188*
+*Related: C-3255, N-11188*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:22:01–00:23:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3257, C-3258, N-2189*
+*Related: C-3257, C-3258, N-11189*
 
 ---
 
@@ -331,13 +331,13 @@ Video Timestamp: 00:25:03–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (live Wikipedia – may have changed)
 
-*Related: C-3259, N-2189*
+*Related: C-3259, N-11189*
 
 ---
 
 ## IV. Node Register
 
-**N-2185** French Translation Hypothesis (Tyler Robinson Texts)
+**N-11185** French Translation Hypothesis (Tyler Robinson Texts)
 
 Investigative target: persistent theory that the alleged Tyler Robinson text messages were authored by a non-native English speaker using French phrasing (specifically "sniffer pooch" as calque of French "chien renifleur" / "reneneur"). Supported in this episode by viewer tip email.
 
@@ -350,7 +350,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2186** Lance Twigs Handedness Verification
+**N-11186** Lance Twigs Handedness Verification
 
 Investigative target: persistent question of whether Lance Twigs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.
 
@@ -363,7 +363,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2187** Maroon Shirt Person Identity (UVU Campus)
+**N-11187** Maroon Shirt Person Identity (UVU Campus)
 
 Investigative target: persistent host claim that the maroon-shirt figure on the UVU staircase is not Tyler Robinson, with new visual evidence in this episode (left-hand phone use) being added to that claim.
 
@@ -376,7 +376,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2188** Grocery Affordability Public Debate (2026-08)
+**N-11188** Grocery Affordability Public Debate (2026-08)
 
 Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Nef arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.
 
@@ -389,7 +389,7 @@ Investigative Pressure: Low (tangential to Kirk case)
 
 ---
 
-**N-2189** Luna / Helluva Boss Cultural Connection
+**N-11189** Luna / Helluva Boss Cultural Connection
 
 Investigative target: persistent host theory linking the "Luna" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twigs, and connecting the IMP "assassination company in hell" premise to the Charlie Kirk case.
 
@@ -422,7 +422,7 @@ Claim: A viewer email to Candace's tip line argues that the phrase "pooch" with 
 Anchored Artifacts: A-2254.1
 Mentions: N-69
 
-Related Nodes: N-2185
+Related Nodes: N-11185
 
 Investigative Direction: Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis.
 
@@ -437,7 +437,7 @@ Claim: Host concurs with the tip-line hypothesis that the texts were translated 
 Anchored Artifacts: A-2254.1
 Mentions: N-69
 
-Related Nodes: N-2185
+Related Nodes: N-11185
 
 Investigative Direction: Compare full text-message corpus for additional French calques; identify likely French-speaker demographics.
 
@@ -542,7 +542,7 @@ Claim: A displayed snowboarding photo shows Lance Twigs falling onto his left ha
 Anchored Artifacts: A-2259.1
 Mentions: N-84
 
-Related Nodes: N-2186
+Related Nodes: N-11186
 
 Investigative Direction: Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities.
 
@@ -557,7 +557,7 @@ Claim: A displayed photo shows Lance Twigs fueling a vehicle with his left hand 
 Anchored Artifacts: A-2259.2
 Mentions: N-84
 
-Related Nodes: N-2186
+Related Nodes: N-11186
 
 Investigative Direction: Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively.
 
@@ -572,7 +572,7 @@ Claim: A childhood piano recital video of Lance Twigs ("My name is Lance Twigs. 
 Anchored Artifacts: A-2259.4
 Mentions: N-84
 
-Related Nodes: N-2186
+Related Nodes: N-11186
 
 Investigative Direction: Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training.
 
@@ -602,7 +602,7 @@ Claim: Blurry UVU staircase footage shows the maroon-shirt person holding a phon
 Anchored Artifacts: A-2261.1
 Mentions: N-69
 
-Related Nodes: N-2186, N-2187
+Related Nodes: N-11186, N-11187
 
 Investigative Direction: Obtain the "4K" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.
 
@@ -617,7 +617,7 @@ Claim: Matt Walsh posted on X that grocery prices are insane and still rising, c
 Anchored Artifacts: A-2262.1
 Mentions: N-228
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Cross-reference BLS food-at-home CPI data for verification.
 
@@ -631,7 +631,7 @@ Claim: Joel Barry posted on X that his wife's homemade burritos for a family of 
 
 Anchored Artifacts: A-2262.2
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Request itemized receipt or recipe cost breakdown.
 
@@ -645,7 +645,7 @@ Claim: Joel Barry tweeted in 2024, in reply to Kamala Harris, that he would like
 
 Anchored Artifacts: A-2262.3
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Verify original tweet date and context.
 
@@ -660,7 +660,7 @@ Claim: Matt Walsh replied to Joel Barry noting that virtually no Republican was 
 Anchored Artifacts: A-2262.4
 Mentions: N-228
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026.
 
@@ -674,7 +674,7 @@ Claim: Dan Crenshaw posted on X telling critics of grocery prices to "stop whini
 
 Anchored Artifacts: A-2262.5
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Verify post and current ramen retail prices for college affordability comparison.
 
@@ -689,7 +689,7 @@ Claim: Blake Nef shared a World Economic Forum chart on X claiming Americans spe
 Anchored Artifacts: A-2262.6
 Mentions: N-224
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison.
 
@@ -703,7 +703,7 @@ Claim: Ben Shapiro introduced a Daily Wire film trailer on X claiming Hollywood 
 
 Anchored Artifacts: A-2263.1, A-2263.2
 
-Related Nodes: N-2188
+Related Nodes: N-11188
 
 Investigative Direction: Verify release date, distribution, and producer credits.
 
@@ -731,7 +731,7 @@ Claim: A viewer email to the tip line describes "Luna" from the animated series 
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-2189
+Related Nodes: N-11189
 
 Investigative Direction: Cross-reference Helluva Boss character profile and Luna's first appearance date.
 
@@ -745,7 +745,7 @@ Claim: Per the same email, the Luna character from Helluva Boss wears a pentagra
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-2189
+Related Nodes: N-11189
 
 Investigative Direction: Obtain canonical Helluva Boss images showing Luna's necklace design.
 
@@ -759,7 +759,7 @@ Claim: Wikipedia describes the Helluva Boss animated series as following the emp
 
 Anchored Artifacts: A-2266.1
 
-Related Nodes: N-2189
+Related Nodes: N-11189
 
 Investigative Direction: Verify Wikipedia entry at time of access; check edit history.
 
@@ -801,5 +801,5 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265, A-2266
 - **Claim Range:** C-3236–C-3259
-- **New Nodes Introduced:** N-2185, N-2186, N-2187, N-2188, N-2189
+- **New Nodes Introduced:** N-11185, N-11186, N-11187, N-11188, N-11189
 - **Existing Nodes Reused:** N-1, N-2, N-69

@@ -99,7 +99,7 @@
             "C-2815"
           ],
           "related_nodes": [
-            "N-1719"
+            "N-10719"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1718"
+            "N-10718"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
             "C-2821"
           ],
           "related_nodes": [
-            "N-1721"
+            "N-10721"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,7 +330,7 @@
             "C-2821"
           ],
           "related_nodes": [
-            "N-1721"
+            "N-10721"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -561,7 +561,7 @@
             "C-2824"
           ],
           "related_nodes": [
-            "N-1720"
+            "N-10720"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -585,7 +585,7 @@
           "description": "Selected comments including Michael Jester's note about malicious-prosecution exposure for SLAPP suits and Jen Common's note on UVU drone authorization form",
           "related_claims": [],
           "related_nodes": [
-            "N-1720"
+            "N-10720"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -620,13 +620,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-3",
-        "N-1725"
+        "N-10725"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1718",
-      "ref": "N-1718",
+      "@id": "N-10718",
+      "ref": "N-10718",
       "name": "Harpole Fort Huachuca Alibi Question",
       "type": "investigation_target",
       "description": "Persistence of unresolved alibi question for Brian Harpole's whereabouts on the morning of September 9, 2025; Snow's testimony places him at a Fort Huachuca meeting that concluded at 7:30 a.m.; afternoon Dallas flights cited.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1719",
-      "ref": "N-1719",
+      "@id": "N-10719",
+      "ref": "N-10719",
       "name": "Harpole Limited-Purpose Public Figure Status",
       "type": "investigation_target",
       "description": "Whether Harpole qualifies as a limited-purpose public figure for defamation actual-malice standard, hinging on his November 17, 2025 Sean Ryan appearance.",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1720",
-      "ref": "N-1720",
+      "@id": "N-10720",
+      "ref": "N-10720",
       "name": "UVU Drone Authorization Records",
       "type": "investigation_target",
       "description": "Question of whether Brian Harpole submitted and was denied a UVU drone authorization form (per Jen Common viewer comment); relevant to the lawsuit's drone grievance.",
@@ -691,8 +691,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1721",
-      "ref": "N-1721",
+      "@id": "N-10721",
+      "ref": "N-10721",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
       "type": "investigation_target",
       "description": "Whether security was responsible for securing Sorensen Center rooftop access and whether Chief Long's \"I got you covered\" reply addressed that access; conflict between Harpole's Sean Ryan presentation and the lawsuit's later admission.",
@@ -706,8 +706,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1722",
-      "ref": "N-1722",
+      "@id": "N-10722",
+      "ref": "N-10722",
       "name": "Erika Kirk Murder Allegation Accuracy",
       "type": "investigation_target",
       "description": "Whether Erika Kirk correctly stated that Candace accused her of murdering Charlie Kirk.",
@@ -730,8 +730,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1723",
-      "ref": "N-1723",
+      "@id": "N-10723",
+      "ref": "N-10723",
       "name": "House Resolution Characterization Accuracy",
       "type": "investigation_target",
       "description": "Whether the Lawler-Gottheimer resolution accurately characterizes Candace's prior statements about Israel, satanic pedophiles, Josef Mengele, and Christian children.",
@@ -758,8 +758,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1724",
-      "ref": "N-1724",
+      "@id": "N-10724",
+      "ref": "N-10724",
       "name": "Candace-Erika December 15 Private Meeting Revelations",
       "type": "investigation_target",
       "description": "Private meeting in which Candace claims to have revealed to Erika Kirk that Mikey McCoy urged Candace to investigate Andrew Kolvet.",
@@ -778,8 +778,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1725",
-      "ref": "N-1725",
+      "@id": "N-10725",
+      "ref": "N-10725",
       "name": "Charlie Kirk September 9 Pre-Event Threat Text",
       "type": "investigation_target",
       "description": "Claimed text from Charlie Kirk to security the night before the September 10 event stating \"I think I'm going to be killed\" – referenced by Candace in arguing Harpole's incompetence claim.",
@@ -1037,7 +1037,7 @@
         "A-2015.2"
       ],
       "related_nodes": [
-        "N-1725"
+        "N-10725"
       ],
       "tags": [],
       "claim_timestamp": "00:03:20",
@@ -1072,7 +1072,7 @@
         "A-2015.4"
       ],
       "related_nodes": [
-        "N-1720"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:09:16",
@@ -1092,7 +1092,7 @@
         "A-2015.5"
       ],
       "related_nodes": [
-        "N-1719"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:14:44",
@@ -1109,7 +1109,7 @@
         "A-2015.6"
       ],
       "related_nodes": [
-        "N-1719"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:16:29",
@@ -1127,7 +1127,7 @@
         "A-2018.1"
       ],
       "related_nodes": [
-        "N-1719"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:17:25",
@@ -1149,7 +1149,7 @@
         "A-2017.3"
       ],
       "related_nodes": [
-        "N-1718"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
@@ -1205,7 +1205,7 @@
         "A-2019.2"
       ],
       "related_nodes": [
-        "N-1721"
+        "N-10721"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1224,7 +1224,7 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-1718"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
@@ -1262,7 +1262,7 @@
         "A-2028.1"
       ],
       "related_nodes": [
-        "N-1720"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:10:08",
@@ -1281,7 +1281,7 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-1722"
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
@@ -1302,7 +1302,7 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-1722"
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:44:39",
@@ -1323,7 +1323,7 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-1722"
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:43:04",
@@ -1345,7 +1345,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1723"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:50:32",
@@ -1367,7 +1367,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1723"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:52:10",
@@ -1389,7 +1389,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1723"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:52:50",
@@ -1411,7 +1411,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-1723"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:53:42",
@@ -1433,7 +1433,7 @@
         "A-2022.1"
       ],
       "related_nodes": [
-        "N-1723"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:55:26",

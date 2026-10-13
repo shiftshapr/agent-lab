@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e212815bd237d77e5c89e294f4374f950a75b0d1dfe19a747008a4f9ef4bfdb9
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2170, N-2171, N-2172, N-2173, N-2174
+  - New Nodes Introduced: N-11170, N-11171, N-11172, N-11173, N-11174
   - Hole-minted Nodes (wave3): N-913
   - Reused Nodes Appearing: N-629, N-810
   - (see registers)
@@ -37,7 +37,7 @@ Episode 136 Ledger Summary
 - Claim Range: C-3193–C-3210
 - New Nodes Introduced (people): 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
-- New Nodes Introduced (investigation targets): N-2170, N-2171, N-2172, N-2173, N-2174
+- New Nodes Introduced (investigation targets): N-11170, N-11171, N-11172, N-11173, N-11174
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:03:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3193, N-1, N-2170*
+*Related: C-3193, N-1, N-11170*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:10:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3196, C-3197, N-2171*
+*Related: C-3196, C-3197, N-11171*
 
 **A-2224.2** Testimony excerpt: body cam footage ran 27 minutes 35 seconds and ended on the rooftop; Bagley states battery died
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:12:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3195, N-2172*
+*Related: C-3195, N-11172*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3198, C-3199, C-3200, N-2171*
+*Related: C-3198, C-3199, C-3200, N-11171*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3203, C-3204, N-2173*
+*Related: C-3203, C-3204, N-11173*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:34:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3205, N-2174*
+*Related: C-3205, N-11174*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3197, C-3195, N-2171, N-2172*
+*Related: C-3197, C-3195, N-11171, N-11172*
 
 ---
 
@@ -263,7 +263,7 @@ First named by the host at 00:17:52 in episode 136.
 
 
 
-**N-2170** Missing Gloves Origin in SUV Door
+**N-11170** Missing Gloves Origin in SUV Door
 
 Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.
 
@@ -276,7 +276,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2171** Officer Bagley Rooftop Companion Identification
+**N-11171** Officer Bagley Rooftop Companion Identification
 
 Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.
 
@@ -289,7 +289,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2172** Body Cam Battery Failure Circumstances
+**N-11172** Body Cam Battery Failure Circumstances
 
 Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.
 
@@ -302,7 +302,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2173** Allan Robertson Brady List Entry / San Bernardino Transfer
+**N-11173** Allan Robertson Brady List Entry / San Bernardino Transfer
 
 Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.
 
@@ -315,7 +315,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2174** US CentCom Iran Crowdsourcing Request
+**N-11174** US CentCom Iran Crowdsourcing Request
 
 Investigative target: senior US Central Command officer's reported email soliciting "creative and unconventional" ideas to pressure Iran, sourced from CNN reporting.
 
@@ -338,7 +338,7 @@ Claim: Mikey McCoy's arrival footage shows the rear-door pocket of the SUV as em
 
 Anchored Artifacts: A-2223.1
 Mentions: N-1, N-272
-Related Nodes: N-2170
+Related Nodes: N-11170
 
 Investigative Direction: Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.
 
@@ -366,7 +366,7 @@ Claim: Officer Bagley testified that his body cam footage began at the Hall of F
 
 Anchored Artifacts: A-2224.2, A-2233.1
 Mentions: N-810
-Related Nodes: N-2172
+Related Nodes: N-11172
 
 Investigative Direction: Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.
 
@@ -380,7 +380,7 @@ Claim: Officer Bagley testified at the preliminary hearing that he did not know 
 
 Anchored Artifacts: A-2224.1
 Mentions: N-810
-Related Nodes: N-2171
+Related Nodes: N-11171
 
 Investigative Direction: Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.
 
@@ -394,7 +394,7 @@ Claim: Officer Bagley confirmed under preliminary-hearing questioning that the s
 
 Anchored Artifacts: A-2224.1, A-2233.1
 Mentions: N-810
-Related Nodes: N-2171
+Related Nodes: N-11171
 
 Investigative Direction: Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.
 
@@ -408,7 +408,7 @@ Claim: Bystander footage timestamped 12:47 PM captured Officer Bagley and a seco
 
 Anchored Artifacts: A-2227.1
 Mentions: N-913, N-810
-Related Nodes: N-2171
+Related Nodes: N-11171
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
 
@@ -422,7 +422,7 @@ Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM b
 
 Anchored Artifacts: A-2234.1, A-2227.1
 Mentions: N-913
-Related Nodes: N-2171
+Related Nodes: N-11171
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
 
@@ -436,7 +436,7 @@ Claim: Per the same Muppet Masher identification, the blue-shirt man walking nea
 
 Anchored Artifacts: A-2234.1, A-2227.1
 Mentions: N-913
-Related Nodes: N-2171
+Related Nodes: N-11171
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.
 
@@ -475,7 +475,7 @@ Claim Timestamp: 00:22:55
 Claim: The Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.
 
 Anchored Artifacts: A-2229.1
-Related Nodes: N-2173
+Related Nodes: N-11173
 
 Investigative Direction: Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.
 
@@ -488,7 +488,7 @@ Claim Timestamp: 00:22:55
 Claim: The Brady List website notes that San Bernardino PD is not in compliance with its Brady disclosure obligations, leaving offense details for officers (including Robertson) undisclosed.
 
 Anchored Artifacts: A-2229.1
-Related Nodes: N-2173
+Related Nodes: N-11173
 
 Investigative Direction: Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.
 
@@ -501,7 +501,7 @@ Claim Timestamp: 00:34:33
 Claim: A CNN report described an email from a senior US Central Command intelligence-branch officer, sent on a Wednesday to a broad group of military analysts, soliciting new creative and unconventional ideas for pressuring Iran.
 
 Anchored Artifacts: A-2230.1
-Related Nodes: N-2174
+Related Nodes: N-11174
 
 Investigative Direction: Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list.
 
@@ -568,7 +568,7 @@ Claim: YouTuber Nissi's analysis asserts that Officer Bagley failed to mention (
 
 Anchored Artifacts: A-2233.1
 Mentions: N-810
-Related Nodes: N-2171, N-2172
+Related Nodes: N-11171, N-11172
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
 

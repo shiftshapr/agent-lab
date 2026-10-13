@@ -32,7 +32,7 @@
             "C-2766"
           ],
           "related_nodes": [
-            "N-1698"
+            "N-10698"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,8 +60,8 @@
             "C-2769"
           ],
           "related_nodes": [
-            "N-1698",
-            "N-1699"
+            "N-10698",
+            "N-10699"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -80,8 +80,8 @@
             "C-2772"
           ],
           "related_nodes": [
-            "N-1698",
-            "N-1699"
+            "N-10698",
+            "N-10699"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -106,7 +106,7 @@
             "C-2773"
           ],
           "related_nodes": [
-            "N-1699"
+            "N-10699"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
             "C-2774"
           ],
           "related_nodes": [
-            "N-1699"
+            "N-10699"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -148,7 +148,7 @@
             "C-2775"
           ],
           "related_nodes": [
-            "N-1700"
+            "N-10700"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -173,7 +173,7 @@
             "C-2776"
           ],
           "related_nodes": [
-            "N-1700"
+            "N-10700"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-2777"
           ],
           "related_nodes": [
-            "N-1700"
+            "N-10700"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-2778"
           ],
           "related_nodes": [
-            "N-1700"
+            "N-10700"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -232,7 +232,7 @@
             "C-2779"
           ],
           "related_nodes": [
-            "N-1704"
+            "N-10704"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -257,7 +257,7 @@
             "C-2780"
           ],
           "related_nodes": [
-            "N-1705"
+            "N-10705"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -282,7 +282,7 @@
             "C-2781"
           ],
           "related_nodes": [
-            "N-1703"
+            "N-10703"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,7 +299,7 @@
             "C-2782"
           ],
           "related_nodes": [
-            "N-1704"
+            "N-10704"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,7 +324,7 @@
             "C-2783"
           ],
           "related_nodes": [
-            "N-1704"
+            "N-10704"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,8 +349,8 @@
             "C-2784"
           ],
           "related_nodes": [
-            "N-1704",
-            "N-1706"
+            "N-10704",
+            "N-10706"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
             "C-2785"
           ],
           "related_nodes": [
-            "N-1706"
+            "N-10706"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-2786"
           ],
           "related_nodes": [
-            "N-1704"
+            "N-10704"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -464,7 +464,7 @@
           "description": "Comment by user \"Seven Sheets\": \"Grandpa's words sum it up for me. I pray for the family that is being put through this.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1708"
+            "N-10708"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -479,8 +479,8 @@
           "description": "Comment by user \"Always Be True\" questioning prosecution's lone-gunman theory and asking when location was disclosed",
           "related_claims": [],
           "related_nodes": [
-            "N-1708",
-            "N-1710"
+            "N-10708",
+            "N-10710"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -535,7 +535,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-569",
-            "N-1711"
+            "N-10711"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -552,7 +552,7 @@
             "C-2788"
           ],
           "related_nodes": [
-            "N-1709"
+            "N-10709"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -577,7 +577,7 @@
             "C-2789"
           ],
           "related_nodes": [
-            "N-1701"
+            "N-10701"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -592,8 +592,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1698",
-      "ref": "N-1698",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Defense Access to Tyler Robinson Phone Data",
       "type": "investigation_target",
       "description": "Persistent defense claim that they have not been able to access their client's phone or its contents.",
@@ -614,8 +614,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1699",
-      "ref": "N-1699",
+      "@id": "N-10699",
+      "ref": "N-10699",
       "name": "Defense Access to Firearm Evidence (Quantico)",
       "type": "investigation_target",
       "description": "Defense has never physically examined the firearm; rifle reportedly held at FBI Quantico facility in a state case.",
@@ -636,8 +636,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1700",
-      "ref": "N-1700",
+      "@id": "N-10700",
+      "ref": "N-10700",
       "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
       "type": "investigation_target",
       "description": "Prosecution reportedly plans to present 35 exhibits at probable cause hearing.",
@@ -653,8 +653,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1701",
-      "ref": "N-1701",
+      "@id": "N-10701",
+      "ref": "N-10701",
       "name": "Erika Kirk Speedy Trial Motion (January 16)",
       "type": "investigation_target",
       "description": "Host claims Erika Kirk filed victim's speedy trial motion in Utah on January 16; artifact referenced but not shown.",
@@ -672,8 +672,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1702",
-      "ref": "N-1702",
+      "@id": "N-10702",
+      "ref": "N-10702",
       "name": "Pinnacle High School Cancellation Reasons",
       "type": "investigation_target",
       "description": "Discrepancy between Turning Point's stated reason (death threats) and host's claim that cancellation was driven by boycott.",
@@ -697,8 +697,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1703",
-      "ref": "N-1703",
+      "@id": "N-10703",
+      "ref": "N-10703",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
       "type": "investigation_target",
       "description": "Allegations that Loomer was placed on involuntary psychiatric holds and is prohibited from owning weapons.",
@@ -716,8 +716,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1704",
-      "ref": "N-1704",
+      "@id": "N-10704",
+      "ref": "N-10704",
       "name": "Laura Loomer Sexual Assault Allegations",
       "type": "investigation_target",
       "description": "Multiple men have publicly alleged Loomer assaulted them; includes Jacoby, an unnamed Brazilian volunteer (per Milo), and viral video of suggestive conduct.",
@@ -741,8 +741,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1705",
-      "ref": "N-1705",
+      "@id": "N-10705",
+      "ref": "N-10705",
       "name": "Laura Loomer Identity Claims (Jewish Heritage)",
       "type": "investigation_target",
       "description": "Host claim (and video artifact) disputing Loomer's publicly claimed Jewish identity.",
@@ -760,8 +760,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1706",
-      "ref": "N-1706",
+      "@id": "N-10706",
+      "ref": "N-10706",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
       "type": "investigation_target",
       "description": "Disputed incident; Laura Loomer's tweet alleged drunk driving with firearm; insurance record shows $6,987 payment.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1707",
-      "ref": "N-1707",
+      "@id": "N-10707",
+      "ref": "N-10707",
       "name": "Tyler Robinson's Grandfather's Position vs. Family Narrative",
       "type": "investigation_target",
       "description": "Discrepancy between public \"family turned him in\" framing and grandfather's on-record support.",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1708",
-      "ref": "N-1708",
+      "@id": "N-10708",
+      "ref": "N-10708",
       "name": "Tyler Robinson Look-alike Theory",
       "type": "investigation_target",
       "description": "Host speculation that multiple Tyler Robinson look-alikes were present; footages remain grainy.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1709",
-      "ref": "N-1709",
+      "@id": "N-10709",
+      "ref": "N-10709",
       "name": "Tyler Robinson Roommate Question",
       "type": "investigation_target",
       "description": "Open question raised by a viewer comment about Tyler Robinson's roommate's potential involvement.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1710",
-      "ref": "N-1710",
+      "@id": "N-10710",
+      "ref": "N-10710",
       "name": "Lead-up Footage Absence",
       "type": "investigation_target",
       "description": "Host reference to alleged absence of CCTV footage from days leading up to September 10.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1711",
-      "ref": "N-1711",
+      "@id": "N-10711",
+      "ref": "N-10711",
       "name": "Victor Marx Suspicious Background",
       "type": "investigation_target",
       "description": "Viewer-flagged concern about Victor Marx being first to leak Charlie Kirk's death; described as a \"licensed gun dealer with a shady past.\"",
@@ -1079,7 +1079,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-1707"
+        "N-10707"
       ],
       "tags": [],
       "claim_timestamp": "00:04:32",
@@ -1115,7 +1115,7 @@
         "A-1993.1"
       ],
       "related_nodes": [
-        "N-1707"
+        "N-10707"
       ],
       "tags": [],
       "claim_timestamp": "00:05:39",
@@ -1134,8 +1134,8 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-1698",
-        "N-1699"
+        "N-10698",
+        "N-10699"
       ],
       "tags": [],
       "claim_timestamp": "00:10:02",
@@ -1154,7 +1154,7 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-1698"
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
@@ -1171,7 +1171,7 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-1698"
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -1190,7 +1190,7 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-1699"
+        "N-10699"
       ],
       "tags": [],
       "claim_timestamp": "00:15:13",
@@ -1207,7 +1207,7 @@
         "A-1994.2"
       ],
       "related_nodes": [
-        "N-1699"
+        "N-10699"
       ],
       "tags": [],
       "claim_timestamp": "00:15:13",
@@ -1224,7 +1224,7 @@
         "A-1994.1"
       ],
       "related_nodes": [
-        "N-1700"
+        "N-10700"
       ],
       "tags": [],
       "claim_timestamp": "00:12:21",
@@ -1278,7 +1278,7 @@
         "A-1996.1"
       ],
       "related_nodes": [
-        "N-1702"
+        "N-10702"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
@@ -1297,7 +1297,7 @@
         "A-1997.1"
       ],
       "related_nodes": [
-        "N-1702"
+        "N-10702"
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
@@ -1316,7 +1316,7 @@
         "A-1997.2"
       ],
       "related_nodes": [
-        "N-1702"
+        "N-10702"
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
@@ -1335,7 +1335,7 @@
         "A-1997.3"
       ],
       "related_nodes": [
-        "N-1702"
+        "N-10702"
       ],
       "tags": [],
       "claim_timestamp": "00:26:35",
@@ -1354,7 +1354,7 @@
         "A-1998.1"
       ],
       "related_nodes": [
-        "N-1704"
+        "N-10704"
       ],
       "tags": [],
       "claim_timestamp": "00:41:44",
@@ -1374,7 +1374,7 @@
         "A-1999.1"
       ],
       "related_nodes": [
-        "N-1705"
+        "N-10705"
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
@@ -1393,7 +1393,7 @@
         "A-2000.1"
       ],
       "related_nodes": [
-        "N-1703"
+        "N-10703"
       ],
       "tags": [],
       "claim_timestamp": "00:40:54",
@@ -1413,7 +1413,7 @@
         "A-2000.2"
       ],
       "related_nodes": [
-        "N-1704"
+        "N-10704"
       ],
       "tags": [],
       "claim_timestamp": "00:44:53",
@@ -1433,7 +1433,7 @@
         "A-2001.1"
       ],
       "related_nodes": [
-        "N-1704"
+        "N-10704"
       ],
       "tags": [],
       "claim_timestamp": "00:47:42",
@@ -1453,7 +1453,7 @@
         "A-2002.1"
       ],
       "related_nodes": [
-        "N-1706"
+        "N-10706"
       ],
       "tags": [],
       "claim_timestamp": "00:48:26",
@@ -1473,7 +1473,7 @@
         "A-2003.1"
       ],
       "related_nodes": [
-        "N-1706"
+        "N-10706"
       ],
       "tags": [],
       "claim_timestamp": "00:49:11",
@@ -1490,7 +1490,7 @@
         "A-2004.1"
       ],
       "related_nodes": [
-        "N-1704"
+        "N-10704"
       ],
       "tags": [],
       "claim_timestamp": "00:42:43",
@@ -1526,7 +1526,7 @@
         "A-2005.10"
       ],
       "related_nodes": [
-        "N-1709"
+        "N-10709"
       ],
       "tags": [],
       "claim_timestamp": "01:01:45",
@@ -1543,7 +1543,7 @@
       "claim": "The host states that on January 16, Erika Kirk filed an invocation of speedy trial rights in Utah, permitted under Utah's state victim-rights code.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1701"
+        "N-10701"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",

@@ -31,7 +31,7 @@
             "C-1528"
           ],
           "related_nodes": [
-            "N-1269"
+            "N-10269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,7 +61,7 @@
           "related_nodes": [
             "N-129",
             "N-291",
-            "N-1271"
+            "N-10271"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-50",
-            "N-1270"
+            "N-10270"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -107,7 +107,7 @@
           ],
           "related_nodes": [
             "N-50",
-            "N-1270"
+            "N-10270"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,7 +262,7 @@
           "related_nodes": [
             "N-1",
             "N-50",
-            "N-1272"
+            "N-10272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
             "C-1544"
           ],
           "related_nodes": [
-            "N-1269"
+            "N-10269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -418,7 +418,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1271"
+        "N-10271"
       ]
     },
     {
@@ -597,8 +597,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1269",
-      "ref": "N-1269",
+      "@id": "N-10269",
+      "ref": "N-10269",
       "name": "Provo Airport Flight Anomaly Cluster",
       "type": "investigation_target",
       "description": "Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1270",
-      "ref": "N-1270",
+      "@id": "N-10270",
+      "ref": "N-10270",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any \"discreet mission\" alleged by the unnamed email tipster.",
@@ -646,8 +646,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1271",
-      "ref": "N-1271",
+      "@id": "N-10271",
+      "ref": "N-10271",
       "name": "N888KG Flight Manifest Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Millionaire FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
@@ -671,8 +671,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1272",
-      "ref": "N-1272",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "TPUSA Text Chain Authenticity Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated.",
@@ -765,7 +765,7 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-1269"
+        "N-10269"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
@@ -784,7 +784,7 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-1269"
+        "N-10269"
       ],
       "tags": [],
       "claim_timestamp": "00:03:53",
@@ -803,7 +803,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-1271"
+        "N-10271"
       ],
       "tags": [],
       "claim_timestamp": "00:05:46",
@@ -822,7 +822,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-1271"
+        "N-10271"
       ],
       "tags": [],
       "claim_timestamp": "00:07:26",
@@ -842,7 +842,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-1271"
+        "N-10271"
       ],
       "tags": [],
       "claim_timestamp": "00:08:12",
@@ -861,7 +861,7 @@
         "A-1292.1"
       ],
       "related_nodes": [
-        "N-1270"
+        "N-10270"
       ],
       "tags": [],
       "claim_timestamp": "00:12:53",
@@ -878,7 +878,7 @@
         "A-1292.2"
       ],
       "related_nodes": [
-        "N-1270"
+        "N-10270"
       ],
       "tags": [],
       "claim_timestamp": "00:18:38",
@@ -892,7 +892,7 @@
       "claim": "An unnamed email tipster claims the SU-BTT flight was carrying Egyptian military subcontractors who were dropped off in Provo, Utah and did not return to Cairo when the plane departed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1270"
+        "N-10270"
       ],
       "tags": [],
       "claim_timestamp": "00:15:53",
@@ -906,7 +906,7 @@
       "claim": "The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was \"scared for their life\" in providing this information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1270"
+        "N-10270"
       ],
       "tags": [],
       "claim_timestamp": "00:16:59",
@@ -1039,7 +1039,7 @@
         "A-1296.1"
       ],
       "related_nodes": [
-        "N-1272"
+        "N-10272"
       ],
       "tags": [],
       "claim_timestamp": "00:42:04",
@@ -1077,7 +1077,7 @@
         "A-1299.1"
       ],
       "related_nodes": [
-        "N-1269"
+        "N-10269"
       ],
       "tags": [],
       "claim_timestamp": "00:55:55",

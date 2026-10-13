@@ -30,7 +30,7 @@
             "C-3608"
           ],
           "related_nodes": [
-            "N-2360",
+            "N-11360",
             "N-2"
           ],
           "tags": [],
@@ -56,7 +56,7 @@
             "C-3609"
           ],
           "related_nodes": [
-            "N-2361",
+            "N-11361",
             "N-1"
           ],
           "tags": [],
@@ -82,9 +82,9 @@
             "C-3610"
           ],
           "related_nodes": [
-            "N-2361",
-            "N-2354",
-            "N-2351",
+            "N-11361",
+            "N-11354",
+            "N-11351",
             "N-1"
           ],
           "tags": [],
@@ -111,11 +111,11 @@
             "C-3612"
           ],
           "related_nodes": [
-            "N-2362",
-            "N-2354",
-            "N-2359",
-            "N-1395",
-            "N-1098"
+            "N-11362",
+            "N-11354",
+            "N-11359",
+            "N-10395",
+            "N-10098"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,8 +140,8 @@
             "C-3612"
           ],
           "related_nodes": [
-            "N-2362",
-            "N-1395",
+            "N-11362",
+            "N-10395",
             "N-4",
             "N-102",
             "N-120",
@@ -171,7 +171,7 @@
             "C-3613"
           ],
           "related_nodes": [
-            "N-2363",
+            "N-11363",
             "N-50"
           ],
           "tags": [],
@@ -197,7 +197,7 @@
             "C-3614"
           ],
           "related_nodes": [
-            "N-2364",
+            "N-11364",
             "N-69",
             "N-2"
           ],
@@ -225,10 +225,10 @@
             "C-3616"
           ],
           "related_nodes": [
-            "N-2360",
+            "N-11360",
             "N-272",
-            "N-1121",
-            "N-2355"
+            "N-10121",
+            "N-11355"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2362"
+        "N-11362"
       ]
     },
     {
@@ -284,7 +284,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2360"
+        "N-11360"
       ]
     },
     {
@@ -304,8 +304,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2359",
-        "N-2362"
+        "N-11359",
+        "N-11362"
       ]
     },
     {
@@ -325,8 +325,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1395",
-        "N-2362"
+        "N-10395",
+        "N-11362"
       ]
     },
     {
@@ -366,8 +366,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1098",
-        "N-2354"
+        "N-10098",
+        "N-11354"
       ]
     },
     {
@@ -385,8 +385,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-2359",
-        "N-2362"
+        "N-11359",
+        "N-11362"
       ]
     },
     {
@@ -408,7 +408,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2364"
+        "N-11364"
       ]
     },
     {
@@ -428,7 +428,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1098"
+        "N-10098"
       ]
     },
     {
@@ -449,7 +449,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2362"
+        "N-11362"
       ]
     },
     {
@@ -471,7 +471,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2362"
+        "N-11362"
       ]
     },
     {
@@ -531,7 +531,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2361"
+        "N-11361"
       ]
     },
     {
@@ -609,7 +609,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2329",
+        "N-11329",
         "N-434"
       ]
     },
@@ -667,7 +667,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2329"
+        "N-11329"
       ]
     },
     {
@@ -687,7 +687,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2362"
+        "N-11362"
       ]
     },
     {
@@ -768,8 +768,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1098",
-      "ref": "N-1098",
+      "@id": "N-10098",
+      "ref": "N-10098",
       "name": "Hamptons Donor Pressure Investigation",
       "type": "investigation_target",
       "description": "Advanced with BB call confirmation, influencer weekend, and Charlie’s Megyn Kelly frustration clip.",
@@ -784,13 +784,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-65",
-        "N-2354"
+        "N-11354"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1121",
-      "ref": "N-1121",
+      "@id": "N-10121",
+      "ref": "N-10121",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Reused for Erika’s post-death silence vs prior private criticism and Charlie’s documented shift.",
@@ -810,8 +810,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1395",
-      "ref": "N-1395",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Advanced via repeated situation-room meetings and host return-to-series commitment.",
@@ -826,13 +826,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-35",
-        "N-2362"
+        "N-11362"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1459",
-      "ref": "N-1459",
+      "@id": "N-10459",
+      "ref": "N-10459",
       "name": "Missing Money from Turning Point Action",
       "type": "investigation_target",
       "description": "Background for host’s sniff-test that Charlie’s late DOGE / missing-money concerns intersect shady sponsor patterns.",
@@ -846,13 +846,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2361"
+        "N-11361"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2329",
-      "ref": "N-2329",
+      "@id": "N-11329",
+      "ref": "N-11329",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Timeline recap of MEAC insistence, Flood contact, and employee disgust unlocking leaks.",
@@ -866,13 +866,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2350"
+        "N-11350"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2350",
-      "ref": "N-2350",
+      "@id": "N-11350",
+      "ref": "N-11350",
       "name": "TPUSA Non-Participation in UVU Independent Review",
       "type": "investigation_target",
       "description": "Reused as catalyst for employee disgust / document leaks.",
@@ -886,13 +886,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2329"
+        "N-11329"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2351",
-      "ref": "N-2351",
+      "@id": "N-11351",
+      "ref": "N-11351",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "investigation_target",
       "description": "Reused inside expanded concurrent timeline.",
@@ -906,13 +906,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2362"
+        "N-11362"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2354",
-      "ref": "N-2354",
+      "@id": "N-11354",
+      "ref": "N-11354",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
       "type": "investigation_target",
       "description": "Parent frame extended by Why Refi addendum and Epstein situation-room overlays.",
@@ -927,14 +927,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2361",
-        "N-2362"
+        "N-11361",
+        "N-11362"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2355",
-      "ref": "N-2355",
+      "@id": "N-11355",
+      "ref": "N-11355",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "investigation_target",
       "description": "Opening callback / vindication frame.",
@@ -953,8 +953,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2357",
-      "ref": "N-2357",
+      "@id": "N-11357",
+      "ref": "N-11357",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
       "type": "investigation_target",
       "description": "Comment-section callback via office-preservation vs McCoy optics.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2359",
-      "ref": "N-2359",
+      "@id": "N-11359",
+      "ref": "N-11359",
       "name": "July 9 2025 Archive of Candace College YouTube Project",
       "type": "investigation_target",
       "description": "Reused in July timeline adjacent to Netanyahu visit and UVU ask.",
@@ -985,13 +985,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2362"
+        "N-11362"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2360",
-      "ref": "N-2360",
+      "@id": "N-11360",
+      "ref": "N-11360",
       "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
       "type": "investigation_target",
       "description": "New topic: leaked Erika Telegram traffic prioritizing wealthy attendees ahead of memorial-adjacent fundraising.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2361",
-      "ref": "N-2361",
+      "@id": "N-11361",
+      "ref": "N-11361",
       "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
       "description": "New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.",
@@ -1031,14 +1031,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1459",
-        "N-2354"
+        "N-10459",
+        "N-11354"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2362",
-      "ref": "N-2362",
+      "@id": "N-11362",
+      "ref": "N-11362",
       "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
       "type": "investigation_target",
       "description": "New topic: integrated chronology arguing Epstein-file panic, donor warfare, Macron pressure, and UVU booking are non-coincidental.",
@@ -1056,14 +1056,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1395",
-        "N-2354"
+        "N-10395",
+        "N-11354"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2363",
-      "ref": "N-2363",
+      "@id": "N-11363",
+      "ref": "N-11363",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
       "type": "investigation_target",
       "description": "New topic: federal case against autistic Brian Cole Jr.; interrogation coercion narrative; host “patsy” framing.",
@@ -1084,8 +1084,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2364",
-      "ref": "N-2364",
+      "@id": "N-11364",
+      "ref": "N-11364",
       "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
       "type": "investigation_target",
       "description": "New topic: same Scripps investigative pair releasing obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.; host adds Erika daycare-in-Scripps-building note as speculative link.",
@@ -1438,7 +1438,7 @@
         "A-2466.1"
       ],
       "related_nodes": [
-        "N-2360"
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:02:39",
@@ -1457,8 +1457,8 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-2361",
-        "N-1459"
+        "N-11361",
+        "N-10459"
       ],
       "tags": [],
       "claim_timestamp": "00:15:21",
@@ -1482,9 +1482,9 @@
         "A-2467.1"
       ],
       "related_nodes": [
-        "N-2361",
-        "N-2354",
-        "N-2351"
+        "N-11361",
+        "N-11354",
+        "N-11351"
       ],
       "tags": [],
       "claim_timestamp": "00:20:10",
@@ -1504,11 +1504,11 @@
         "A-2469.1"
       ],
       "related_nodes": [
-        "N-2362",
-        "N-2354",
-        "N-2351",
-        "N-2359",
-        "N-1098"
+        "N-11362",
+        "N-11354",
+        "N-11351",
+        "N-11359",
+        "N-10098"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
@@ -1532,8 +1532,8 @@
         "A-2470.1"
       ],
       "related_nodes": [
-        "N-2362",
-        "N-1395"
+        "N-11362",
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:29:19",
@@ -1565,7 +1565,7 @@
         "A-2471.1"
       ],
       "related_nodes": [
-        "N-2363"
+        "N-11363"
       ],
       "tags": [],
       "claim_timestamp": "00:47:17",
@@ -1585,7 +1585,7 @@
         "A-2472.1"
       ],
       "related_nodes": [
-        "N-2364"
+        "N-11364"
       ],
       "tags": [],
       "claim_timestamp": "00:51:47",
@@ -1607,8 +1607,8 @@
         "A-2473.1"
       ],
       "related_nodes": [
-        "N-1121",
-        "N-2355"
+        "N-10121",
+        "N-11355"
       ],
       "tags": [],
       "claim_timestamp": "01:00:00",
@@ -1630,7 +1630,7 @@
         "A-2466.1"
       ],
       "related_nodes": [
-        "N-2360"
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "01:03:21",

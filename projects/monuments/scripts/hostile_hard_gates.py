@@ -95,17 +95,17 @@ def _ledger_claim_extra(drafts_dir: Path, first: dict[int, int]) -> list[Finding
 def _p2_findings(monument_dir: Path) -> list[Finding]:
     out: list[Finding] = []
     drafts = monument_dir / "drafts"
-    # ORPHAN_NODE N-1193 – place with register but no Related on claim/artifact
+    # ORPHAN_NODE N-10193 – place with register but no Related on claim/artifact
     ep9 = drafts / "episode_009.md"
     if ep9.is_file():
         t = ep9.read_text(encoding="utf-8")
-        if "**N-1193**" in t and not re.search(
+        if "**N-10193**" in t and not re.search(
             r"^Related Nodes:.*\bN-1193\b", t, re.MULTILINE | re.IGNORECASE
         ):
             pre = t.split("## 4. Node Register")[0]
             if not re.search(r"^\*Related:.*\bN-1193\b", pre, re.MULTILINE):
                 out.append(
-                    Finding("P2", "ORPHAN_NODE", 9, "N-1193", "Poland not on Claim/Artifact Related")
+                    Finding("P2", "ORPHAN_NODE", 9, "N-10193", "Poland not on Claim/Artifact Related")
                 )
 
     canon_nodes = monument_dir / "canonical" / "nodes.json"

@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-255, N-256, N-259, N-260, N-261, N-262, N-263, N-264, N-266, N-267, N-1257, N-1258, N-1259, N-1260, N-1261
+  - New Nodes Introduced: N-255, N-256, N-259, N-260, N-261, N-262, N-263, N-264, N-266, N-267, N-10257, N-10258, N-10259, N-10260, N-10261
   - Reused Nodes Appearing: 
 - **Monument Episode:** 19, N-37
 - **Batch:** 9
@@ -30,7 +30,7 @@
 - **Artifact Families Introduced:** A-1260, A-1261, A-1262, A-1263, A-1264, A-1265, A-1266, A-1267, A-1268, A-1269
 - **Claim Range:** C-1461–C-1481
 - **New People Nodes Introduced:** N-255, N-256, N-16, N-181, N-259, N-260, N-261, N-262, N-263, N-264, N-42, N-266, N-267
-- **New Investigation Targets Introduced:** N-1257, N-1258, N-1259, N-1260, N-1261
+- **New Investigation Targets Introduced:** N-10257, N-10258, N-10259, N-10260, N-10261
 - **Existing Nodes Reused (referenced):** Charlie Kirk, Candace Owens, Erika Kirk, Tyler Robinson, Mikey McCoy, Pastor Rob McCoy, Tyler Bowyer, Kanye West, Joe Rogan, Donald Trump Jr.
 
 ---
@@ -348,7 +348,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1258*
+*Related: N-10258*
 
 ---
 
@@ -443,7 +443,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1257** 834ms Phone Timing Analysis
+**N-10257** 834ms Phone Timing Analysis
 
 Investigable measurement: claimed time between gunshot audio and Mikey McCoy's phone-to-ear motion based on host's frame-by-frame review of event footage.
 
@@ -456,7 +456,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1258** Camera Operator Behavior Pattern
+**N-10258** Camera Operator Behavior Pattern
 
 Investigable question regarding the camera operator's post-shot conduct: immediate selfie recording, premature announcement of death, brief flight distance, and delayed camera takedown.
 
@@ -469,7 +469,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1259** Mikey McCoy Call Log Verification
+**N-10259** Mikey McCoy Call Log Verification
 
 Persistent investigative target: the absence of any public release or response from Mikey McCoy regarding who he was calling at 12:23 p.m. on 2025-09-10, despite host's stated attempts to obtain comment.
 
@@ -482,7 +482,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1260** TPUSA Succession Plan Disclosure Timeline
+**N-10260** TPUSA Succession Plan Disclosure Timeline
 
 Investigable question: how Pastor Rob McCoy possessed knowledge of a TPUSA succession plan four days post-event, and the relationship between that disclosure and the implementation timeline.
 
@@ -495,7 +495,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1261** Josh Hammer Defamation Threat
+**N-10261** Josh Hammer Defamation Threat
 
 Investigable matter: Josh Hammer's reported threat of defamation action against Candace Owens following her discussion of Charlie Kirk's Israel-related text messages.
 
@@ -528,7 +528,7 @@ Claim: Host's frame-by-frame analysis of event-day footage shows Mikey McCoy rai
 Anchored Artifacts: A-1261.1
 Mentions: N-259, N-260
 
-Related Nodes: N-1257, N-1259
+Related Nodes: N-10257, N-10259
 
 Investigative Direction: Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.
 
@@ -542,7 +542,7 @@ Claim: Event-day footage shows Mikey McCoy on his phone approximately 1 minute 4
 
 Anchored Artifacts: A-1261.3
 
-Related Nodes: N-1257, N-1259
+Related Nodes: N-10257, N-10259
 
 Investigative Direction: Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.
 
@@ -557,7 +557,7 @@ Claim: Event-day footage shows Mikey McCoy in the background at Charlie Kirk's w
 Anchored Artifacts: A-1261.2
 Mentions: N-1
 
-Related Nodes: N-1257, N-1259
+Related Nodes: N-10257, N-10259
 
 Investigative Direction: Verify timing continuity and identify any change in phone-use posture during the post-shot interval.
 
@@ -572,7 +572,7 @@ Claim: The unnamed camera operator recorded a selfie video within the first minu
 Anchored Artifacts: A-1262.1
 Mentions: N-256
 
-Related Nodes: N-1258
+Related Nodes: N-10258
 
 Investigative Direction: Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.
 
@@ -587,7 +587,7 @@ Claim: In the selfie video, the camera operator states "He's dead."
 Anchored Artifacts: A-1262.1
 Mentions: N-256, N-1
 
-Related Nodes: N-1258
+Related Nodes: N-10258
 
 Investigative Direction: Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.
 
@@ -602,7 +602,7 @@ Claim: The camera operator sent Candace Owens a video showing his actions during
 Anchored Artifacts: A-1262.2
 Mentions: N-256, N-3
 
-Related Nodes: N-1258
+Related Nodes: N-10258
 
 Investigative Direction: Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.
 
@@ -617,7 +617,7 @@ Claim: Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, t
 Anchored Artifacts: A-1260.1
 Mentions: N-255, N-1, N-45
 
-Related Nodes: N-1260
+Related Nodes: N-10260
 
 Investigative Direction: Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.
 
@@ -749,7 +749,7 @@ Claim: Trailer references Josh Hammer stating he is "talking to lawyers" and bel
 Anchored Artifacts: A-1265.1
 Mentions: N-86
 
-Related Nodes: N-1261
+Related Nodes: N-10261
 
 Investigative Direction: Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing.
 
@@ -863,7 +863,7 @@ Claim: David Foster commented he was "more shook up seeing the footage than the 
 Anchored Artifacts: A-1269.9
 Mentions: N-256
 
-Related Nodes: N-1258
+Related Nodes: N-10258
 
 Investigative Direction: Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.
 
@@ -891,7 +891,7 @@ Claim: Host states she instructed her team to play devil's advocate for Mikey Mc
 
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
 
-Related Nodes: N-1259
+Related Nodes: N-10259
 
 Investigative Direction: Document the scenarios considered and rejected.
 
@@ -990,7 +990,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-255 series onward for new entries)
-- [x] Non-person investigation targets use the 1000 series (N-1257 series onward)
+- [x] Non-person investigation targets use the 1000 series (N-10257 series onward)
 - [x] No speculative claims inscribed as evidence-backed claims without artifact anchor
 - [x] Names preserved exactly as appearing in transcript; uncertainties flagged
 - [x] Formatting consistent across sections

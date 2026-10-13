@@ -57,7 +57,7 @@
           "related_nodes": [
             "N-2",
             "N-264",
-            "N-1519"
+            "N-10519"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1519"
+            "N-10519"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,7 +217,7 @@
           ],
           "related_nodes": [
             "N-607",
-            "N-1520"
+            "N-10520"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1520"
+        "N-10520"
       ]
     },
     {
@@ -305,8 +305,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1517",
-      "ref": "N-1517",
+      "@id": "N-10517",
+      "ref": "N-10517",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Andrew Kolvet's account (Netanyahu offered to fund TPUSA \"to the next level\") and Erika Kirk's account (no funding offer was made; Bibi was calling about a May letter) regarding the Hamptons retreat phone call.",
@@ -323,8 +323,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1518",
-      "ref": "N-1518",
+      "@id": "N-10518",
+      "ref": "N-10518",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy regarding whether Dr. Lee Trotter acted independently and violated HIPAA, or whether Erika Kirk was present on a three-way call with the surgeon on the day of Charlie Kirk's funeral mass, and whether the \"Superman neck\" statement originated from her.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1519",
-      "ref": "N-1519",
+      "@id": "N-10519",
+      "ref": "N-10519",
       "name": "TPUSA September 16 Corporate Call Framing Pattern",
       "type": "investigation_target",
       "description": "Investigation target concerning Erika Kirk's \"family\" / job-safety framing of TPUSA staff in the September 16 Zoom call, juxtaposed by host against subsequent employee terminations she reports learning about from ex-staff.",
@@ -368,8 +368,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1520",
-      "ref": "N-1520",
+      "@id": "N-10520",
+      "ref": "N-10520",
       "name": "Daily Wire Hungary Production Expenditure Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning the financial scale and rationale of Daily Wire's Hungary-based production, including reporting that it involved approximately 100 extras, marsh sequences, transport to Italy, and bulls imported from Spain.",
@@ -391,8 +391,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1521",
-      "ref": "N-1521",
+      "@id": "N-10521",
+      "ref": "N-10521",
       "name": "Fort Huachuca PR Response Coordination Question",
       "type": "investigation_target",
       "description": "Persistent question regarding coordination between Erika Kirk and Andrew Kolvet on the Fort Huachuca PR response, allegedly routed through Paramount Tactical rather than directly to Candace Owens following their four-hour sit-down.",
@@ -486,7 +486,7 @@
         "A-1686.3"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:09:08",
@@ -507,7 +507,7 @@
         "A-1686.1"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
@@ -526,7 +526,7 @@
         "A-1686.2"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35",
@@ -546,7 +546,7 @@
         "A-1686.2"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35",
@@ -565,7 +565,7 @@
         "A-1686.2"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:22:11",
@@ -585,7 +585,7 @@
         "A-1686.3"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:27:13",
@@ -604,7 +604,7 @@
         "A-1686.3"
       ],
       "related_nodes": [
-        "N-1519"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:28:01",
@@ -729,7 +729,7 @@
         "A-1689.1"
       ],
       "related_nodes": [
-        "N-1520"
+        "N-10520"
       ],
       "tags": [],
       "claim_timestamp": "00:47:50",
@@ -819,7 +819,7 @@
         "A-1689.1"
       ],
       "related_nodes": [
-        "N-1520"
+        "N-10520"
       ],
       "tags": [],
       "claim_timestamp": "00:48:28",

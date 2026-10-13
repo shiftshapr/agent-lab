@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1475"
+            "N-10475"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,7 +61,7 @@
           "related_nodes": [
             "N-696",
             "N-699",
-            "N-1473"
+            "N-10473"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-696",
-            "N-1473"
+            "N-10473"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -134,7 +134,7 @@
           ],
           "related_nodes": [
             "N-696",
-            "N-1473"
+            "N-10473"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
           ],
           "related_nodes": [
             "N-701",
-            "N-1478"
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-2060"
           ],
           "related_nodes": [
-            "N-1477"
+            "N-10477"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-2061"
           ],
           "related_nodes": [
-            "N-1474"
+            "N-10474"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
           "related_nodes": [
             "N-697",
             "N-654",
-            "N-1473"
+            "N-10473"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -438,8 +438,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1473",
-        "N-1474"
+        "N-10473",
+        "N-10474"
       ]
     },
     {
@@ -469,7 +469,7 @@
       "related_nodes": [
         "N-697",
         "N-654",
-        "N-1473"
+        "N-10473"
       ]
     },
     {
@@ -493,7 +493,7 @@
       "related_nodes": [
         "N-696",
         "N-654",
-        "N-1473"
+        "N-10473"
       ]
     },
     {
@@ -517,7 +517,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-697",
-        "N-1473"
+        "N-10473"
       ]
     },
     {
@@ -538,7 +538,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-702",
-        "N-1473"
+        "N-10473"
       ]
     },
     {
@@ -581,7 +581,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1478"
+        "N-10478"
       ]
     },
     {
@@ -644,8 +644,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1473",
-      "ref": "N-1473",
+      "@id": "N-10473",
+      "ref": "N-10473",
       "name": "Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolbett as it relates to Turning Point Faith / Falwell Center.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1474",
-      "ref": "N-1474",
+      "@id": "N-10474",
+      "ref": "N-10474",
       "name": "Erika Kirk Handler Thesis",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the claim (originating in fan comment) that Erica Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.",
@@ -694,8 +694,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1475",
-      "ref": "N-1475",
+      "@id": "N-10475",
+      "ref": "N-10475",
       "name": "Candace Owens Dream Vision of Andrew Kolbett",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolbett's face; framed by host as prophetic of Kolbett's role in PR operations.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1476",
-      "ref": "N-1476",
+      "@id": "N-10476",
+      "ref": "N-10476",
       "name": "September 10 Plot Against Candace Owens",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the host's statement that a murder plot against her was discovered on September 10 (approximately one year after Charlie Kirk's assassination) and is \"still making its way through the courts.\" Not artifact-supported in this episode.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1477",
-      "ref": "N-1477",
+      "@id": "N-10477",
+      "ref": "N-10477",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the pattern of attacks on Megyn Kelly for refusing to publicly condemn the host, culminating in a Ben Shapiro on-stage accusation of cowardice at Turning Point Amfest.",
@@ -755,8 +755,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1478",
-      "ref": "N-1478",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Knesset Declaration of US Commentators as Israeli Enemies",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the Likud party speech in the Knesset naming Tucker Carlson and Candace Owens as enemies of Israel.",
@@ -773,13 +773,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-701",
-        "N-1479"
+        "N-10479"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1479",
-      "ref": "N-1479",
+      "@id": "N-10479",
+      "ref": "N-10479",
       "name": "Turning Point USA Estate Planning Solicitation",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the claim that Turning Point USA has begun soliciting 401k pledges, property, and estate/will inclusions from donors, with the host drawing an explicit comparison to the Unification Church's financial pattern in Japan.",
@@ -901,7 +901,7 @@
         "A-1607.1"
       ],
       "related_nodes": [
-        "N-1475"
+        "N-10475"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11–00:08:04",
@@ -920,7 +920,7 @@
       "claim": "The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1475"
+        "N-10475"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
@@ -940,7 +940,7 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
@@ -960,7 +960,7 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
@@ -997,7 +997,7 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
@@ -1016,7 +1016,7 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
@@ -1035,7 +1035,7 @@
         "A-1610.2"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:22:43–00:23:15",
@@ -1054,7 +1054,7 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
@@ -1074,7 +1074,7 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-1473"
+        "N-10473"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
@@ -1094,7 +1094,7 @@
         "A-1611.1"
       ],
       "related_nodes": [
-        "N-1478"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:34:41–00:35:36",
@@ -1115,7 +1115,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-1477"
+        "N-10477"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
@@ -1134,7 +1134,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-1477"
+        "N-10477"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
@@ -1154,7 +1154,7 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-1477"
+        "N-10477"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
@@ -1175,7 +1175,7 @@
         "A-1613.1"
       ],
       "related_nodes": [
-        "N-1474"
+        "N-10474"
       ],
       "tags": [],
       "claim_timestamp": "00:46:41–00:47:35",
@@ -1339,7 +1339,7 @@
       "claim": "The host stated that approximately one year after Charlie Kirk's assassination, on September 10, a murder plot against her was discovered and that the matter is still proceeding through courts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1476"
+        "N-10476"
       ],
       "tags": [],
       "claim_timestamp": "00:35:36",
@@ -1357,7 +1357,7 @@
       "claim": "The host stated that Turning Point USA has evolved from soliciting one-time donations to soliciting pledges of 401k accounts, property, and inclusion in donors' wills and estate planning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1479"
+        "N-10479"
       ],
       "tags": [],
       "claim_timestamp": "00:11:59–00:12:48",

@@ -100,8 +100,8 @@
             "C-1834"
           ],
           "related_nodes": [
-            "N-2388",
-            "N-1381"
+            "N-11388",
+            "N-10381"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-484",
-            "N-2388"
+            "N-11388"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,7 +220,7 @@
             "C-1834"
           ],
           "related_nodes": [
-            "N-2388"
+            "N-11388"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -267,8 +267,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1380",
-        "N-1381"
+        "N-10380",
+        "N-10381"
       ]
     },
     {
@@ -290,7 +290,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2388"
+        "N-11388"
       ]
     },
     {
@@ -317,8 +317,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1380",
-      "ref": "N-1380",
+      "@id": "N-10380",
+      "ref": "N-10380",
       "name": "Wedi Machmood Identity Verification Question",
       "type": "investigation_target",
       "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
@@ -331,13 +331,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-483",
-        "N-1381"
+        "N-10381"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1381",
-      "ref": "N-1381",
+      "@id": "N-10381",
+      "ref": "N-10381",
       "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
       "type": "investigation_target",
       "description": "Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident.",
@@ -350,7 +350,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-483",
-        "N-1380"
+        "N-10380"
       ]
     },
     {
@@ -371,8 +371,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-2388",
-      "ref": "N-2388",
+      "@id": "N-11388",
+      "ref": "N-11388",
       "name": "Project Constitution",
       "type": "organization",
       "description": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023.",
@@ -456,8 +456,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-10000",
+      "ref": "N-10000",
       "name": "Turning Point USA",
       "type": "investigation_target",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
@@ -538,14 +538,14 @@
         "A-1500.2"
       ],
       "related_nodes": [
-        "N-1381",
-        "N-2388"
+        "N-10381",
+        "N-11388"
       ],
       "tags": [],
       "claim_timestamp": "00:15:32",
       "investigative_direction": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\"",
       "mentions_person_refs": [
-        "N-2388"
+        "N-11388"
       ]
     },
     {
@@ -556,7 +556,7 @@
       "claim": "President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2388"
+        "N-11388"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
@@ -627,7 +627,7 @@
       "claim": "The host says she maintains that Turning Point USA is engaged in a cover-up, after it refused a virtual or live-streamed appearance and while its figures, including Blake Neff, call her names instead of answering questions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1000"
+        "N-10000"
       ],
       "tags": [],
       "claim_timestamp": "00:10:28",

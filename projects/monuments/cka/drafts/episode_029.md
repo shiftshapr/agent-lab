@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-363, N-364, N-365, N-366, N-367, N-370, N-371, N-373, N-374, N-376, N-1309, N-1310, N-1311, N-1312
+  - New Nodes Introduced: N-363, N-364, N-365, N-366, N-367, N-370, N-371, N-373, N-374, N-376, N-10309, N-10310, N-10311, N-10312
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,7 +35,7 @@
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)
 - Claim Range: C-1652 – C-1666 (15 claims)
 - New Person Nodes: N-363, N-364, N-365, N-366, N-367, N-16, N-67, N-370, N-371, N-349, N-373, N-374, N-50, N-376 (14 people)
-- New Investigation Target Nodes: N-1309, N-1310, N-1311, N-1312 (4 targets)
+- New Investigation Target Nodes: N-10309, N-10310, N-10311, N-10312 (4 targets)
 - Existing Nodes Reused: N-1 (Charlie Kirk)
 
 ---
@@ -98,7 +98,7 @@ Video Timestamp: 00:08:09–00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-1655, N-363, N-364, N-365, N-1311*
+*Related: C-1655, N-363, N-364, N-365, N-10311*
 
 **A-1368** CIA Spokesperson Statement Bundle
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (relayed via host; not directly displayed)
 
-*Related: C-1656, N-365, N-366, N-1311*
+*Related: C-1656, N-365, N-366, N-10311*
 
 **A-1369** Frank McCormick X Post Bundle
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:23:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline referenced; full article not shown)
 
-*Related: C-1665, N-1310*
+*Related: C-1665, N-10310*
 
 **A-1378** Timpanogos Tip Bundle
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:01:46–00:03:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous tip; unverified)
 
-*Related: C-1666, N-1309*
+*Related: C-1666, N-10309*
 
 ---
 
@@ -269,7 +269,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-1311*
+*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-10311*
 
 **N-366** Liz Lyons
 
@@ -291,7 +291,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-1312*
+*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-10312*
 
 **N-16** Frank Turek
 
@@ -394,7 +394,7 @@ Investigative Pressure: Low
 
 ### Investigation Target Nodes
 
-**N-1309** Timpanogos Hospital Footage Seizure Verification
+**N-10309** Timpanogos Hospital Footage Seizure Verification
 
 Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.
 
@@ -405,7 +405,7 @@ Investigative Pressure: Medium
 
 *Related: A-1378.1, C-1666*
 
-**N-1310** Borderline Bar Las Vegas Survivor Pattern
+**N-10310** Borderline Bar Las Vegas Survivor Pattern
 
 Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.
 
@@ -416,7 +416,7 @@ Investigative Pressure: Low
 
 *Related: A-1377.1, C-1665*
 
-**N-1311** Shawnie Ray Kirkup / Kirkhoff Identity Verification
+**N-10311** Shawnie Ray Kirkup / Kirkhoff Identity Verification
 
 Persistent discrepancy in the episode between the spelling "Kirkup" (Steve Baker, via Glenn Beck audio) and "Kirkhoff" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.
 
@@ -427,7 +427,7 @@ Investigative Pressure: High
 
 *Related: A-1367.1, A-1368.1, C-1655, C-1656, N-365*
 
-**N-1312** Seven Mountain Mandate / NAR Influence on TPUSA Faith
+**N-10312** Seven Mountain Mandate / NAR Influence on TPUSA Faith
 
 Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader "faith-military constellation" with infiltration doctrine.
 
@@ -451,7 +451,7 @@ Claim: A Facebook post by Lance Wallnau dated November 6, 2020 was read aloud in
 Anchored Artifacts: A-1364.1
 Mentions: N-367
 
-Related Nodes: N-1312
+Related Nodes: N-10312
 
 Investigative Direction: Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.
 
@@ -464,7 +464,7 @@ Claim: In an audio clip played on the episode, Lance Wallnau defined the seven m
 Anchored Artifacts: A-1365.1
 Mentions: N-367
 
-Related Nodes: N-1312
+Related Nodes: N-10312
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
@@ -489,7 +489,7 @@ Claim: Reporter Steve Baker, interviewed on Glenn Beck's program and played in t
 Anchored Artifacts: A-1367.1
 Mentions: N-363, N-364, N-365
 
-Related Nodes: N-1311
+Related Nodes: N-10311
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
@@ -502,7 +502,7 @@ Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that "Shawnie K
 Anchored Artifacts: A-1368.1
 Mentions: N-365, N-366
 
-Related Nodes: N-1311
+Related Nodes: N-10311
 
 Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kirkhoff" and "Kirkup" refer to the same individual.
 
@@ -610,7 +610,7 @@ Claim: A BBC headline referenced in the episode reported that a Las Vegas shooti
 
 Anchored Artifacts: A-1377.1
 
-Related Nodes: N-1310
+Related Nodes: N-10310
 
 Investigative Direction: Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting.
 
@@ -623,7 +623,7 @@ Claim: According to anonymous tips relayed by the host, federal agents seized fo
 Anchored Artifacts: A-1378.1
 Mentions: N-1
 
-Related Nodes: N-1309
+Related Nodes: N-10309
 
 Investigative Direction: Verify via FOIA requests, hospital records, contemporaneous reporting, or independent witness testimony.
 
@@ -668,7 +668,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-365 / N-1311):** The episode alternates between "Shawnie Ray Kirkup" (Steve Baker / Glenn Beck audio) and "Shawnie Kirkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
+- **Name uncertainty (N-365 / N-10311):** The episode alternates between "Shawnie Ray Kirkup" (Steve Baker / Glenn Beck audio) and "Shawnie Kirkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
 - **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-1666) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.
 - **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.
 - **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother "storms" the Borderline Bar (host-corrected herself mid-sentence to "that Marine's mother"); (f) the claim that Charlie Kirk had established "DOAJ"; (g) the claim that Kash Patel "injected himself" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.
@@ -683,5 +683,5 @@ Confidence: high
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378
 - Claim Range: C-1652 – C-1666
 - New Person Nodes: N-363 – N-376
-- New Investigation Target Nodes: N-1309 – N-1312
+- New Investigation Target Nodes: N-10309 – N-10312
 - Existing Nodes Reused: N-1 (Charlie Kirk)

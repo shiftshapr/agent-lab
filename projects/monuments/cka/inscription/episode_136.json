@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2170"
+            "N-11170"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-3197"
           ],
           "related_nodes": [
-            "N-2171"
+            "N-11171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -76,7 +76,7 @@
             "C-3195"
           ],
           "related_nodes": [
-            "N-2172"
+            "N-11172"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-3200"
           ],
           "related_nodes": [
-            "N-2171"
+            "N-11171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
             "C-3204"
           ],
           "related_nodes": [
-            "N-2173"
+            "N-11173"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,7 +229,7 @@
             "C-3205"
           ],
           "related_nodes": [
-            "N-2174"
+            "N-11174"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,8 +326,8 @@
             "C-3195"
           ],
           "related_nodes": [
-            "N-2171",
-            "N-2172"
+            "N-11171",
+            "N-11172"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -391,8 +391,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2170",
-      "ref": "N-2170",
+      "@id": "N-11170",
+      "ref": "N-11170",
       "name": "Missing Gloves Origin in SUV Door",
       "type": "investigation_target",
       "description": "Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.",
@@ -411,8 +411,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2171",
-      "ref": "N-2171",
+      "@id": "N-11171",
+      "ref": "N-11171",
       "name": "Officer Bagley Rooftop Companion Identification",
       "type": "investigation_target",
       "description": "Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.",
@@ -437,8 +437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2172",
-      "ref": "N-2172",
+      "@id": "N-11172",
+      "ref": "N-11172",
       "name": "Body Cam Battery Failure Circumstances",
       "type": "investigation_target",
       "description": "Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.",
@@ -457,8 +457,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2173",
-      "ref": "N-2173",
+      "@id": "N-11173",
+      "ref": "N-11173",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
       "type": "investigation_target",
       "description": "Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.",
@@ -478,8 +478,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2174",
-      "ref": "N-2174",
+      "@id": "N-11174",
+      "ref": "N-11174",
       "name": "US CentCom Iran Crowdsourcing Request",
       "type": "investigation_target",
       "description": "Investigative target: senior US Central Command officer's reported email soliciting \"creative and unconventional\" ideas to pressure Iran, sourced from CNN reporting.",
@@ -638,7 +638,7 @@
         "A-2223.1"
       ],
       "related_nodes": [
-        "N-2170"
+        "N-11170"
       ],
       "tags": [],
       "claim_timestamp": "00:03:26",
@@ -677,7 +677,7 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-2172"
+        "N-11172"
       ],
       "tags": [],
       "claim_timestamp": "00:12:18",
@@ -696,7 +696,7 @@
         "A-2224.1"
       ],
       "related_nodes": [
-        "N-2171"
+        "N-11171"
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
@@ -716,7 +716,7 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-2171"
+        "N-11171"
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
@@ -735,7 +735,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-2171"
+        "N-11171"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -756,7 +756,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-2171"
+        "N-11171"
       ],
       "tags": [],
       "claim_timestamp": "00:16:47",
@@ -776,7 +776,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-2171"
+        "N-11171"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
@@ -825,7 +825,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-2173"
+        "N-11173"
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
@@ -842,7 +842,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-2173"
+        "N-11173"
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
@@ -859,7 +859,7 @@
         "A-2230.1"
       ],
       "related_nodes": [
-        "N-2174"
+        "N-11174"
       ],
       "tags": [],
       "claim_timestamp": "00:34:33",
@@ -945,8 +945,8 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-2171",
-        "N-2172"
+        "N-11171",
+        "N-11172"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",

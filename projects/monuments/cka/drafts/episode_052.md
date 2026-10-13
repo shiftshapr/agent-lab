@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-632, N-633, N-634, N-635, N-636, N-637, N-638, N-639, N-1452, N-1453, N-1454, N-1455
+  - New Nodes Introduced: N-632, N-633, N-634, N-635, N-636, N-637, N-638, N-639, N-10452, N-10453, N-10454, N-10455
   - Reused Nodes Appearing: N-117, N-3, N-599
   - (see registers), N-37
 
@@ -37,12 +37,12 @@ Video Timestamp: 00:04:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2003, C-2004, N-1452, Tyler Robinson node*
+*Related: C-2003, C-2004, N-10452, Tyler Robinson node*
 
 **A-1577.2** Map showing ~3-hour drive distance from Orem, Utah to Pangitch, Utah (host's on-screen display)
 Video Timestamp: 00:02:43
 
-*Related: C-2003, N-1452*
+*Related: C-2003, N-10452*
 
 **A-1578** Erika Kirk September 8 Follow-Up Text Bundle
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:19:30
 **A-1579.1** 12-hour House committee hearing video (reviewed by host to verify Rep. Mark Amodei's presence)
 Video Timestamp: 00:21:13
 
-*Related: C-2008, Mark Amodei node, N-1453*
+*Related: C-2008, Mark Amodei node, N-10453*
 
 **A-1580** Tyler Bowyer Memorial Clip Bundle
 
@@ -74,7 +74,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00
 
-*Related: C-2010, N-632, N-633, N-639, N-1454, Lori Frantzve node*
+*Related: C-2010, N-632, N-633, N-639, N-10454, Lori Frantzve node*
 
 **A-1582** David Rodsham News Article Bundle
 
@@ -90,7 +90,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:50
 
-*Related: C-2012, N-1455, N-1454*
+*Related: C-2012, N-10455, N-10454*
 
 **A-1584** Daily Wire "Maddie in the No" Clip Bundle
 
@@ -125,7 +125,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-633, N-634, N-635, N-1454*
+*Related: A-1581.1, C-2010, N-633, N-634, N-635, N-10454*
 
 **N-633** David Farnsworth
 
@@ -136,7 +136,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-632, N-634, Lori Frantzve node, N-1454*
+*Related: A-1581.1, C-2010, N-632, N-634, Lori Frantzve node, N-10454*
 
 **N-634** Dwayne Farnsworth
 
@@ -147,7 +147,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-632, N-633, Terryl Farnsworth node, Tyler Bowyer node, N-1454, N-37*
+*Related: N-632, N-633, Terryl Farnsworth node, Tyler Bowyer node, N-10454, N-37*
 
 **N-635** Albert Farnsworth
 
@@ -180,7 +180,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: Terryl Farnsworth node, N-1454*
+*Related: Terryl Farnsworth node, N-10454*
 
 **N-638** Maddie (Daily Wire host)
 
@@ -202,7 +202,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-1454*
+*Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-10454*
 
 **N-98** Mark Herman (director, Candace show)
 
@@ -215,7 +215,7 @@ Investigative Pressure: Low
 
 *Related: C-2012*
 
-**N-1452** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10452** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.
 
@@ -226,7 +226,7 @@ Investigative Pressure: High
 
 *Related: A-1577.1, A-1577.2, C-2003, C-2004, Tyler Robinson node*
 
-**N-1453** Mark Amodei House Committee Visual Identification
+**N-10453** Mark Amodei House Committee Visual Identification
 
 Whether Rep. Mark Amodei is visibly present early in the 12-hour House committee hearing video reviewed by host.
 
@@ -237,7 +237,7 @@ Investigative Pressure: Medium
 
 *Related: A-1579.1, C-2008, Mark Amodei node*
 
-**N-1454** Farnsworth Family Political-Military Network
+**N-10454** Farnsworth Family Political-Military Network
 
 Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Gwinta, Thomas Bert, and Davis-Monthan / Fort Huachuca.
 
@@ -248,7 +248,7 @@ Investigative Pressure: Medium
 
 *Related: A-1581.1, C-2010, N-632, N-633, N-634, N-637, N-639, Lori Frantzve node, N-37*
 
-**N-1455** Davis-Monthan AFB September 9 Attendee Verification
+**N-10455** Davis-Monthan AFB September 9 Attendee Verification
 
 Verification of which Arizona community leaders attended the Davis-Monthan AFB Arizona Commanders Summit on September 9, 2025.
 
@@ -257,7 +257,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1583.1, C-2012, N-1454*
+*Related: A-1583.1, C-2012, N-10454*
 
 **N-37** Tyler Bowyer
 
@@ -279,7 +279,7 @@ Claim: Tyler Robinson drove approximately three hours from Orem, Utah to Pangitc
 Anchored Artifacts: A-1577.1, A-1577.2
 Mentions: N-69
 
-Related Nodes: N-1452
+Related Nodes: N-10452
 
 Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.
 
@@ -292,7 +292,7 @@ Claim: Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo
 Anchored Artifacts: A-1577.1
 Mentions: N-69
 
-Related Nodes: N-1452
+Related Nodes: N-10452
 
 Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.
 
@@ -342,7 +342,7 @@ Claim: After personally reviewing a 12-hour House committee video, host conclude
 Anchored Artifacts: A-1579.1
 Mentions: N-3, N-599
 
-Related Nodes: N-1453
+Related Nodes: N-10453
 
 Investigative Direction: Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.
 
@@ -367,7 +367,7 @@ Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lo
 Anchored Artifacts: A-1581.1
 Mentions: N-632, N-633, N-639
 
-Related Nodes: N-1454
+Related Nodes: N-10454
 
 Investigative Direction: Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).
 
@@ -392,7 +392,7 @@ Claim: The Davis-Monthan AFB website announces that the Arizona Commanders Summi
 Anchored Artifacts: A-1583.1
 Mentions: N-98
 
-Related Nodes: N-1454, N-1455
+Related Nodes: N-10454, N-10455
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 

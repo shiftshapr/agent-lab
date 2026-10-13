@@ -55,7 +55,7 @@ episode,id,action,new_id,reason
 4,C-3736,MINT_CORRECTING_CLAIM,C-3736,"C-1185 correction: the clips at 43:09 and 45:45 are Tucker Carlson, not Candace Owens. New claim 00:45:45-00:46:15, anchors A-1107.1/A-1107.2, Mentions N-1, N-50, Contradicts: C-1185 (companion contradicts bridge). Next claim id C-3737"
 4,C-1185,MENTION_REMOVED,,"N-45 dropped from Mentions (speaker is Tucker, per C-3736); A-1107.2 description corrected to Tucker"
 7,C-1243,MENTION_REMOVED,,N-69 dropped (not grounded in claim or transcript window)
-149,C-3546..C-3566,MENTION_REMOVED,,"N-432 dropped from restored claims (not grounded); C-3565 Related gained N-2389, C-3566 gained N-1071"
+149,C-3546..C-3566,MENTION_REMOVED,,"N-432 dropped from restored claims (not grounded); C-3565 Related gained N-11389, C-3566 gained N-10071"
 27,C-1626,RETITLE_TYPO,C-1626,"CLM-P1-9: title inverted the body; now ""Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out"""
 34,C-1735..C-1744,NORMALIZE_FIELDS,,"CLM-P1-8: ""- Field:"" bullets normalized to standard claim fields; MM:SS stamps written as 00:MM:SS"
 10,C-1292,REVERT_TEXT,C-1292,PR 60 re-audit P2-4 (claims are immutable): body restored to the original text (Xavier Deruso)

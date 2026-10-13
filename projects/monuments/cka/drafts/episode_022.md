@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-291, N-293, N-297, N-298, N-1269, N-1270, N-1271, N-1272
+  - New Nodes Introduced:  N-291, N-293, N-297, N-298, N-10269, N-10270, N-10271, N-10272
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -34,7 +34,7 @@
 - Artifact Families Introduced: A-1290, A-1291, A-1292, A-1293, A-1294, A-1295, A-1296, A-1297, A-1298, A-1299, A-1300
 - Claim Range: C-1527–C-1543
 - New Nodes Introduced (people):  N-291, N-293, N-42, N-297, N-298
-- New Nodes Introduced (investigation targets): N-1269, N-1270, N-1271, N-1272
+- New Nodes Introduced (investigation targets): N-10269, N-10270, N-10271, N-10272
 - Existing Nodes Reused: N-1 (Charlie Kirk, referenced throughout)
 
 ---
@@ -61,7 +61,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1527, C-1528, N-1269*
+*Related: C-1527, C-1528, N-10269*
 
 **A-1291** Maxfield Statement Bundle (N888KG)
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:07:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1529, C-1530, C-1531, N-129, N-291, N-1271*
+*Related: C-1529, C-1530, C-1531, N-129, N-291, N-10271*
 
 **A-1292** FlightRadar Egyptian Air Force SU-BTT Bundle
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:12:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1532, N-50, N-1270*
+*Related: C-1532, N-50, N-10270*
 
 **A-1292.2** FlightRadar three-year flight history for SU-BTT showing routine routing through Paris and landings in cities containing U.S. Air Force bases (Minot, ND noted for September 2025); Provo has no Air Force base.
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:18:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1533, N-50, N-1270*
+*Related: C-1533, N-50, N-10270*
 
 **A-1293** Daily Mail Josh Hammer Op-Ed Bundle
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:42:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1542, N-1, N-50, N-1272*
+*Related: C-1542, N-1, N-50, N-10272*
 
 **A-1297** Daily Mail Headline on Kash Patel Bundle
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:55:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1544, N-1269*
+*Related: C-1544, N-10269*
 
 **A-1300** Josh Hammer Audio Clip Bundle
 
@@ -237,7 +237,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1529, C-1530, C-1531, A-1291.1, N-1271*
+*Related: C-1529, C-1530, C-1531, A-1291.1, N-10271*
 
 **N-291** Shirlene Maxfield
 
@@ -338,7 +338,7 @@ Investigative Pressure: Low
 
 *Related: C-1527*
 
-**N-1269** Provo Airport Flight Anomaly Cluster
+**N-10269** Provo Airport Flight Anomaly Cluster
 
 Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).
 
@@ -349,7 +349,7 @@ Investigative Pressure: High
 
 *Related: C-1527, C-1528, C-1529, C-1532, C-1544, A-1290.1, A-1291.1, A-1292.1, A-1299.1*
 
-**N-1270** Egyptian Air Force SU-BTT Provo Mission Question
+**N-10270** Egyptian Air Force SU-BTT Provo Mission Question
 
 Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any "discreet mission" alleged by the unnamed email tipster.
 
@@ -360,7 +360,7 @@ Investigative Pressure: High
 
 *Related: C-1532, C-1533, C-1534, C-1535, A-1292.1, A-1292.2*
 
-**N-1271** N888KG Flight Manifest Verification
+**N-10271** N888KG Flight Manifest Verification
 
 Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Millionaire FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.
 
@@ -371,7 +371,7 @@ Investigative Pressure: Medium
 
 *Related: C-1529, C-1530, C-1531, A-1291.1, N-129, N-291*
 
-**N-1272** TPUSA Text Chain Authenticity Verification
+**N-10272** TPUSA Text Chain Authenticity Verification
 
 Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated.
 
@@ -392,7 +392,7 @@ Claim Timestamp: 00:02:17
 Claim: FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.
 Anchored Artifacts: A-1290.1
 Mentions: N-98
-Related Nodes: N-1269
+Related Nodes: N-10269
 Investigative Direction: Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.
 
 **C-1528** Second low dip approximately 26 minutes after the assassination
@@ -401,7 +401,7 @@ Claim Timestamp: 00:03:53
 Claim: The same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.
 Anchored Artifacts: A-1290.1
 Mentions: N-1
-Related Nodes: N-1269
+Related Nodes: N-10269
 Investigative Direction: Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records.
 
 **C-1529** N888KG Provo departure time on 9/10
@@ -410,7 +410,7 @@ Claim Timestamp: 00:05:46
 Claim: Plane N888KG departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.
 Anchored Artifacts: A-1291.1
 Mentions: N-129
-Related Nodes: N-1271
+Related Nodes: N-10271
 Investigative Direction: Cross-check against FAA departure logs and Provo Airport (PVU) records.
 
 **C-1530** Maxfield statement on crew, passengers, and route
@@ -419,7 +419,7 @@ Claim Timestamp: 00:07:26
 Claim: Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo.
 Anchored Artifacts: A-1291.1
 Mentions: N-129, N-291
-Related Nodes: N-1271
+Related Nodes: N-10271
 Investigative Direction: Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.
 
 **C-1531** Maxfield statement on FAA radar termination
@@ -428,7 +428,7 @@ Claim Timestamp: 00:08:12
 Claim: Derek Maxfield publicly stated that radar services with Denver FAA Center and N888KG were terminated in mutual agreement approximately 10 miles from PGA, consistent with standard practice at non-towered airports.
 Anchored Artifacts: A-1291.1
 Mentions: N-129
-Related Nodes: N-1271
+Related Nodes: N-10271
 Investigative Direction: Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports.
 
 **C-1532** Egyptian Air Force SU-BTT Provo arrival and departure dates
@@ -437,7 +437,7 @@ Claim Timestamp: 00:12:53
 Claim: FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
 Anchored Artifacts: A-1292.1
 Mentions:
-Related Nodes: N-1270
+Related Nodes: N-10270
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
 **C-1533** SU-BTT three-year routing pattern
@@ -445,7 +445,7 @@ Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange;
 Claim Timestamp: 00:18:38
 Claim: FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases; Provo has no Air Force base.
 Anchored Artifacts: A-1292.2
-Related Nodes: N-1270
+Related Nodes: N-10270
 Investigative Direction: Compile full U.S. landing history; cross-reference landing locations with known U.S. Air Force installations.
 
 **C-1534** Email tipster claim: SU-BTT carried subcontractors dropped in Provo
@@ -453,7 +453,7 @@ Investigative Direction: Compile full U.S. landing history; cross-reference land
 Claim Timestamp: 00:15:53
 Claim: An unnamed email tipster claims the SU-BTT flight was carrying Egyptian military subcontractors who were dropped off in Provo, Utah and did not return to Cairo when the plane departed.
 Anchored Artifacts: None displayed (verbally referenced)
-Related Nodes: N-1270
+Related Nodes: N-10270
 Investigative Direction: Independently verify through State Department foreign military landing records, hotel logs in Utah County 9/4–9/10, and Egyptian Air Force roster cross-checks.
 *Note: Artifact verbally referenced but not shown.*
 
@@ -462,7 +462,7 @@ Investigative Direction: Independently verify through State Department foreign m
 Claim Timestamp: 00:16:59
 Claim: The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was "scared for their life" in providing this information.
 Anchored Artifacts: None displayed (verbally referenced)
-Related Nodes: N-1270
+Related Nodes: N-10270
 Investigative Direction: Verify independently; cross-reference with any joint U.S.–Egypt military exercise notifications or State Department disclosures.
 *Note: Artifact verbally referenced but not shown.*
 
@@ -520,7 +520,7 @@ Claim Timestamp: 00:42:04
 Claim: A TPUSA internal text-chain screenshot shows Charlie Kirk writing that TPUSA "just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker" and that he is "thinking of inviting Candace."
 Anchored Artifacts: A-1296.1
 Mentions: N-1, N-50
-Related Nodes: N-1272
+Related Nodes: N-10272
 Investigative Direction: Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses.
 *Note: Requires human verification.*
 
@@ -537,7 +537,7 @@ Investigative Direction: Verify original source of audio clip (interview, podcas
 Claim Timestamp: 00:55:55
 Claim: A viewer comment from "Obsessed with sports" notes that Egyptian tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is allegedly connected to Israeli defense companies that manufacture air-launched drones for use as recon and loitering munitions.
 Anchored Artifacts: A-1299.1
-Related Nodes: N-1269
+Related Nodes: N-10269
 Investigative Direction: Verify PEACE 2025 aircraft attendance records; independently confirm N1098L ownership, registration history, and any ties to Israeli defense manufacturers.
 *Note: Possible transcription error in "After and Haiti" fragment; flagged below.*
 
@@ -609,7 +609,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-102 through N-4)
-- [x] Non-person investigation targets use the 1000-series (N-1269 through N-1272)
+- [x] Non-person investigation targets use the 1000-series (N-10269 through N-10272)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly as appearing in transcript (Seth Dillon, Josh Hammer, Ana Kasparian, Dave Smith, J.D. Vance, Piers Morgan, Tucker Carlson, Nick Fuentes, Derek/Shirlene Maxfield, Casey Baugh, Kash Patel)
 - [x] Formatting consistent throughout

@@ -30,7 +30,7 @@
             "C-2885"
           ],
           "related_nodes": [
-            "N-2065"
+            "N-11065"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,8 +56,8 @@
             "C-2884"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-2065"
+            "N-10207",
+            "N-11065"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-70",
-            "N-2065"
+            "N-11065"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,8 +110,8 @@
             "C-2887"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-2065"
+            "N-10207",
+            "N-11065"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-2061"
+            "N-11061"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,7 +160,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-2061"
+            "N-11061"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-2893"
           ],
           "related_nodes": [
-            "N-2061"
+            "N-11061"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -212,7 +212,7 @@
             "C-2890"
           ],
           "related_nodes": [
-            "N-2061"
+            "N-11061"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
             "C-2891"
           ],
           "related_nodes": [
-            "N-2061"
+            "N-11061"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2061"
+            "N-11061"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -329,7 +329,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-2062"
+            "N-11062"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-2062"
+            "N-11062"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -367,7 +367,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-2062"
+            "N-11062"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -393,7 +393,7 @@
             "C-2898"
           ],
           "related_nodes": [
-            "N-2062"
+            "N-11062"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -419,7 +419,7 @@
             "C-2901"
           ],
           "related_nodes": [
-            "N-2064"
+            "N-11064"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -437,7 +437,7 @@
             "C-2902"
           ],
           "related_nodes": [
-            "N-2064"
+            "N-11064"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -463,7 +463,7 @@
             "C-2903"
           ],
           "related_nodes": [
-            "N-2064"
+            "N-11064"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -491,7 +491,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1444"
+            "N-10444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -510,7 +510,7 @@
             "C-2907"
           ],
           "related_nodes": [
-            "N-1444"
+            "N-10444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,7 +529,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1444"
+            "N-10444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -544,8 +544,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2061",
-      "ref": "N-2061",
+      "@id": "N-11061",
+      "ref": "N-11061",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2062",
-      "ref": "N-2062",
+      "@id": "N-11062",
+      "ref": "N-11062",
       "name": "Erika Kirk Educational Credentials Discrepancy",
       "type": "investigation_target",
       "description": "Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2064",
-      "ref": "N-2064",
+      "@id": "N-11064",
+      "ref": "N-11064",
       "name": "Nick Shirley Background and Backing Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.",
@@ -628,8 +628,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2065",
-      "ref": "N-2065",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Project Constitution / TPUSA Divorce Rumor Verification",
       "type": "investigation_target",
       "description": "Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1444",
-      "ref": "N-1444",
+      "@id": "N-10444",
+      "ref": "N-10444",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
@@ -936,7 +936,7 @@
         "A-2063.1"
       ],
       "related_nodes": [
-        "N-2065"
+        "N-11065"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
@@ -955,7 +955,7 @@
         "A-2062.1"
       ],
       "related_nodes": [
-        "N-2065"
+        "N-11065"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
@@ -974,7 +974,7 @@
         "A-2064.1"
       ],
       "related_nodes": [
-        "N-2065"
+        "N-11065"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -993,7 +993,7 @@
         "A-2065.1"
       ],
       "related_nodes": [
-        "N-2065"
+        "N-11065"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -1015,7 +1015,7 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-2061"
+        "N-11061"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12",
@@ -1035,7 +1035,7 @@
         "A-2066.1"
       ],
       "related_nodes": [
-        "N-2061"
+        "N-11061"
       ],
       "tags": [],
       "claim_timestamp": "00:05:53",
@@ -1054,7 +1054,7 @@
         "A-2068.1"
       ],
       "related_nodes": [
-        "N-2061"
+        "N-11061"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -1074,7 +1074,7 @@
         "A-2068.2"
       ],
       "related_nodes": [
-        "N-2061"
+        "N-11061"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -1093,7 +1093,7 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-2061"
+        "N-11061"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -1113,7 +1113,7 @@
         "A-2067.1"
       ],
       "related_nodes": [
-        "N-2061"
+        "N-11061"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -1167,7 +1167,7 @@
         "A-2071.1"
       ],
       "related_nodes": [
-        "N-2062"
+        "N-11062"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1186,7 +1186,7 @@
         "A-2071.2"
       ],
       "related_nodes": [
-        "N-2062"
+        "N-11062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:10",
@@ -1205,7 +1205,7 @@
         "A-2072.1"
       ],
       "related_nodes": [
-        "N-2062"
+        "N-11062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -1225,7 +1225,7 @@
         "A-2071.3"
       ],
       "related_nodes": [
-        "N-2062"
+        "N-11062"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -1244,7 +1244,7 @@
         "A-2073.1"
       ],
       "related_nodes": [
-        "N-2064"
+        "N-11064"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
@@ -1261,7 +1261,7 @@
         "A-2073.2"
       ],
       "related_nodes": [
-        "N-2064"
+        "N-11064"
       ],
       "tags": [],
       "claim_timestamp": "00:28:51",
@@ -1281,7 +1281,7 @@
         "A-2074.1"
       ],
       "related_nodes": [
-        "N-2064"
+        "N-11064"
       ],
       "tags": [],
       "claim_timestamp": "00:30:15",
@@ -1301,7 +1301,7 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-1444"
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:49:33",
@@ -1320,7 +1320,7 @@
         "A-2075.2"
       ],
       "related_nodes": [
-        "N-1444"
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -1340,7 +1340,7 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-1444"
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -1360,7 +1360,7 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-1444"
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -1380,7 +1380,7 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-1444"
+        "N-10444"
       ],
       "tags": [],
       "claim_timestamp": "00:45:18",

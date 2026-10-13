@@ -32,9 +32,9 @@
           ],
           "related_nodes": [
             "N-447",
-            "N-2376",
-            "N-2379",
-            "N-2214",
+            "N-11376",
+            "N-11379",
+            "N-11214",
             "N-3"
           ],
           "tags": [],
@@ -62,11 +62,11 @@
             "C-3684"
           ],
           "related_nodes": [
-            "N-2371",
-            "N-2372",
-            "N-2374",
-            "N-1078",
-            "N-1000",
+            "N-11371",
+            "N-11372",
+            "N-11374",
+            "N-10078",
+            "N-10000",
             "N-46",
             "N-477",
             "N-3"
@@ -96,12 +96,12 @@
             "C-3687"
           ],
           "related_nodes": [
-            "N-2380",
+            "N-11380",
             "N-582",
             "N-579",
-            "N-2377",
+            "N-11377",
             "N-42",
-            "N-1000"
+            "N-10000"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -127,14 +127,14 @@
             "C-3689"
           ],
           "related_nodes": [
-            "N-2382",
-            "N-2373",
+            "N-11382",
+            "N-11373",
             "N-580",
             "N-583",
             "N-584",
             "N-585",
             "N-2",
-            "N-2378"
+            "N-11378"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -160,9 +160,9 @@
             "C-3691"
           ],
           "related_nodes": [
-            "N-2375",
-            "N-2371",
-            "N-2382"
+            "N-11375",
+            "N-11371",
+            "N-11382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -214,7 +214,7 @@
             "C-3693"
           ],
           "related_nodes": [
-            "N-2381",
+            "N-11381",
             "N-242",
             "N-293"
           ],
@@ -256,8 +256,8 @@
   "nodes": [
     {
       "@type": "Organization",
-      "@id": "N-2371",
-      "ref": "N-2371",
+      "@id": "N-11371",
+      "ref": "N-11371",
       "name": "Monster Lab / Clippet",
       "type": "organization",
       "description": "DBA / trade names for the clipping-pay company hosting Elephant Clipping and related campaigns; ownership at the top remains unknown per host LLC search.",
@@ -278,13 +278,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-579",
-        "N-2372"
+        "N-11372"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-2372",
-      "ref": "N-2372",
+      "@id": "N-11372",
+      "ref": "N-11372",
       "name": "Elephant Clipping Campaign",
       "type": "topic",
       "description": "Matt Servius's flagship political clipping campaign paying for GOP/TPUSA-aligned shorts and anti-Candace edits via Discord.",
@@ -302,14 +302,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2371",
+        "N-11371",
         "N-579"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-2373",
-      "ref": "N-2373",
+      "@id": "N-11373",
+      "ref": "N-11373",
       "name": "Enclave and Key",
       "type": "organization",
       "description": "Las Vegas marketing company (CEO Blake Wynn) whose staff emails appear on Google Drive folders seeding Erika/TPUSA clipping campaigns; Romania footprint noted by host.",
@@ -327,13 +327,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-580",
-        "N-2378"
+        "N-11378"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-2374",
-      "ref": "N-2374",
+      "@id": "N-11374",
+      "ref": "N-11374",
       "name": "Anti-Candace Paid Clipping Campaign",
       "type": "topic",
       "description": "Million-dollar-scale Discord bounties and PR/DoD-adjacent character attacks during Tyler Robinson prelim week and ongoing smear packages.",
@@ -349,14 +349,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2372",
+        "N-11372",
         "N-3"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-2375",
-      "ref": "N-2375",
+      "@id": "N-11375",
+      "ref": "N-11375",
       "name": "Wayback Machine Monster Lab September 2025 Wipe",
       "type": "topic",
       "description": "Archive captures from September 12, 2025 forward that only show loading; host frames as track-cleaning around go-live / first Erika campaign.",
@@ -373,13 +373,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2371"
+        "N-11371"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-2376",
-      "ref": "N-2376",
+      "@id": "N-11376",
+      "ref": "N-11376",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
       "type": "topic",
       "description": "Undisclosed DoD hire posting anti-Candace / pro-official-narrative thread during Tyler Robinson prelim week; later resignation.",
@@ -397,13 +397,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-447",
-        "N-2379"
+        "N-11379"
       ]
     },
     {
       "@type": "Place",
-      "@id": "N-2377",
-      "ref": "N-2377",
+      "@id": "N-11377",
+      "ref": "N-11377",
       "name": "Latvia",
       "type": "place",
       "description": "Claimed operating base for Matt Servius / Clippet elephant-clipping service in the Atlantic reporting.",
@@ -424,8 +424,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-2378",
-      "ref": "N-2378",
+      "@id": "N-11378",
+      "ref": "N-11378",
       "name": "Las Vegas",
       "type": "place",
       "description": "Enclave and Key HQ city; host restates Hughes / Adelson / Wynn / Patel syndicate framing.",
@@ -440,15 +440,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2373",
-        "N-1320",
-        "N-2143"
+        "N-11373",
+        "N-10320",
+        "N-11143"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-2379",
-      "ref": "N-2379",
+      "@id": "N-11379",
+      "ref": "N-11379",
       "name": "Department of War",
       "type": "organization",
       "description": "Host name for DoD; employer of Jennica Pounds as special government employee; tied to Erika emotional-asset optics.",
@@ -469,8 +469,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-2380",
-      "ref": "N-2380",
+      "@id": "N-11380",
+      "ref": "N-11380",
       "name": "Atlantic Elephant Clipping Expose",
       "type": "topic",
       "description": "Ali Breland September 2026 Atlantic investigation into paid conservative clipping ops.",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-2381",
-      "ref": "N-2381",
+      "@id": "N-11381",
+      "ref": "N-11381",
       "name": "Andrew Tate Hustlers University Clipping Economy",
       "type": "topic",
       "description": "Clip-army affiliate model credited as pioneer of the modern clipping economy later copied by political ops.",
@@ -515,8 +515,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-2382",
-      "ref": "N-2382",
+      "@id": "N-11382",
+      "ref": "N-11382",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
       "type": "topic",
       "description": "Erika videos uploaded to campaign drives five days after Charlie's death; host asks why she needed selling before the \"I forgive him\" speech.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-2383",
-      "ref": "N-2383",
+      "@id": "N-11383",
+      "ref": "N-11383",
       "name": "Audacity of the Gaslight Framing",
       "type": "topic",
       "description": "Host recurring label (and joke book title) for TPUSA/orbit denials of funded campaigns while preparing Erika CEO optics.",
@@ -556,7 +556,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-1000"
+        "N-10000"
       ]
     },
     {
@@ -579,8 +579,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2376",
-        "N-2379"
+        "N-11376",
+        "N-11379"
       ]
     },
     {
@@ -604,9 +604,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2371",
-        "N-2372",
-        "N-2377"
+        "N-11371",
+        "N-11372",
+        "N-11377"
       ]
     },
     {
@@ -631,7 +631,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2373",
+        "N-11373",
         "N-2",
         "N-581"
       ]
@@ -655,7 +655,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-580",
-        "N-2378"
+        "N-11378"
       ]
     },
     {
@@ -677,7 +677,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2380"
+        "N-11380"
       ]
     },
     {
@@ -699,7 +699,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2373"
+        "N-11373"
       ]
     },
     {
@@ -722,7 +722,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2373"
+        "N-11373"
       ]
     },
     {
@@ -744,7 +744,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2373"
+        "N-11373"
       ]
     },
     {
@@ -764,7 +764,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2378"
+        "N-11378"
       ]
     },
     {
@@ -786,7 +786,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -808,7 +808,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -829,8 +829,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2382",
-        "N-1000"
+        "N-11382",
+        "N-10000"
       ]
     },
     {
@@ -852,7 +852,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2382",
+        "N-11382",
         "N-580"
       ]
     },
@@ -876,8 +876,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2374",
-        "N-2366"
+        "N-11374",
+        "N-11366"
       ]
     },
     {
@@ -895,7 +895,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -935,7 +935,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ]
     },
     {
@@ -955,7 +955,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1000",
+        "N-10000",
         "N-580"
       ]
     },
@@ -993,7 +993,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -1029,7 +1029,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1078"
+        "N-10078"
       ]
     },
     {
@@ -1047,7 +1047,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -1087,7 +1087,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2371"
+        "N-11371"
       ]
     },
     {
@@ -1140,7 +1140,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -1192,7 +1192,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2381"
+        "N-11381"
       ]
     },
     {
@@ -1212,7 +1212,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2382"
+        "N-11382"
       ]
     },
     {
@@ -1232,7 +1232,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
@@ -1252,7 +1252,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2373"
+        "N-11373"
       ]
     },
     {
@@ -1272,7 +1272,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ]
     },
     {
@@ -1347,13 +1347,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2379"
+        "N-11379"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-10000",
+      "ref": "N-10000",
       "name": "Turning Point USA",
       "type": "investigation_target",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
@@ -1369,13 +1369,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2374"
+        "N-11374"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1078",
-      "ref": "N-1078",
+      "@id": "N-10078",
+      "ref": "N-10078",
       "name": "Discord",
       "type": "investigation_target",
       "description": "Assignment channel for clipping campaigns and site of Tyler Robinson alleged confession lore.",
@@ -1390,13 +1390,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2372"
+        "N-11372"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1091",
-      "ref": "N-1091",
+      "@id": "N-10091",
+      "ref": "N-10091",
       "name": "Israel",
       "type": "investigation_target",
       "description": "Host: Israeli-aligned interests in who is attacked/protected by clipping ops; \"Israel did nothing\" syndicate framing.",
@@ -1410,13 +1410,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2374"
+        "N-11374"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1320",
-      "ref": "N-1320",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
@@ -1430,14 +1430,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2143",
-        "N-2378"
+        "N-11143",
+        "N-11378"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2143",
-      "ref": "N-2143",
+      "@id": "N-11143",
+      "ref": "N-11143",
       "name": "Howard Hughes Death Investigation",
       "type": "investigation_target",
       "description": "Prior Hughes topic reused for Las Vegas company takeover narrative.",
@@ -1451,13 +1451,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1320"
+        "N-10320"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2214",
-      "ref": "N-2214",
+      "@id": "N-11214",
+      "ref": "N-11214",
       "name": "NCRI Report Provenance and Authorship",
       "type": "investigation_target",
       "description": "Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanization.",
@@ -1476,8 +1476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2365",
-      "ref": "N-2365",
+      "@id": "N-11365",
+      "ref": "N-11365",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
       "type": "investigation_target",
       "description": "Comments continue: fire captain CPR on a body dead ~15 minutes as dog not barking; still seeking identity.",
@@ -1497,8 +1497,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2366",
-      "ref": "N-2366",
+      "@id": "N-11366",
+      "ref": "N-11366",
       "name": "Candyland Illegal-Nanny Mansion NDA Smear",
       "type": "investigation_target",
       "description": "Opening satire of commenters volunteering as nannies after yesterday's Candyland package.",
@@ -1561,9 +1561,9 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-2376",
-        "N-2379",
-        "N-2214"
+        "N-11376",
+        "N-11379",
+        "N-11214"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -1587,7 +1587,7 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-2376"
+        "N-11376"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -1613,8 +1613,8 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-2376",
-        "N-2379"
+        "N-11376",
+        "N-11379"
       ],
       "tags": [],
       "claim_timestamp": "00:04:02",
@@ -1634,10 +1634,10 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-2374",
-        "N-2371",
-        "N-1078",
-        "N-1000"
+        "N-11374",
+        "N-11371",
+        "N-10078",
+        "N-10000"
       ],
       "tags": [],
       "claim_timestamp": "00:07:17",
@@ -1660,9 +1660,9 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-2372",
-        "N-1000",
-        "N-2371"
+        "N-11372",
+        "N-10000",
+        "N-11371"
       ],
       "tags": [],
       "claim_timestamp": "00:10:03",
@@ -1683,9 +1683,9 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-2372",
-        "N-1000",
-        "N-1078"
+        "N-11372",
+        "N-10000",
+        "N-10078"
       ],
       "tags": [],
       "claim_timestamp": "00:12:06",
@@ -1708,11 +1708,11 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-2380",
-        "N-2377",
-        "N-2372",
-        "N-2371",
-        "N-1078"
+        "N-11380",
+        "N-11377",
+        "N-11372",
+        "N-11371",
+        "N-10078"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10",
@@ -1741,8 +1741,8 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-2374",
-        "N-2380"
+        "N-11374",
+        "N-11380"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
@@ -1764,9 +1764,9 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-1000",
-        "N-2377",
-        "N-2383"
+        "N-10000",
+        "N-11377",
+        "N-11383"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -1788,9 +1788,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-2382",
-        "N-2373",
-        "N-2378"
+        "N-11382",
+        "N-11373",
+        "N-11378"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -1814,9 +1814,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-2373",
-        "N-2371",
-        "N-1078"
+        "N-11373",
+        "N-11371",
+        "N-10078"
       ],
       "tags": [],
       "claim_timestamp": "00:28:58",
@@ -1840,8 +1840,8 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-2375",
-        "N-2371"
+        "N-11375",
+        "N-11371"
       ],
       "tags": [],
       "claim_timestamp": "00:41:06",
@@ -1860,9 +1860,9 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-2382",
-        "N-2375",
-        "N-2371"
+        "N-11382",
+        "N-11375",
+        "N-11371"
       ],
       "tags": [],
       "claim_timestamp": "00:43:19",
@@ -1881,7 +1881,7 @@
         "A-2502.1"
       ],
       "related_nodes": [
-        "N-2373"
+        "N-11373"
       ],
       "tags": [],
       "claim_timestamp": "00:27:17",
@@ -1902,7 +1902,7 @@
         "A-2503.1"
       ],
       "related_nodes": [
-        "N-2381"
+        "N-11381"
       ],
       "tags": [],
       "claim_timestamp": "00:49:58",
@@ -1922,8 +1922,8 @@
         "A-2504.1"
       ],
       "related_nodes": [
-        "N-2371",
-        "N-2375"
+        "N-11371",
+        "N-11375"
       ],
       "tags": [],
       "claim_timestamp": "00:44:24",
@@ -1945,7 +1945,7 @@
         "A-2504.1"
       ],
       "related_nodes": [
-        "N-1091"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "01:10:26",
@@ -1965,10 +1965,10 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-2378",
-        "N-1320",
-        "N-2143",
-        "N-2373"
+        "N-11378",
+        "N-10320",
+        "N-11143",
+        "N-11373"
       ],
       "tags": [],
       "claim_timestamp": "00:45:09",
@@ -1991,7 +1991,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-2378"
+        "N-11378"
       ],
       "tags": [],
       "claim_timestamp": "00:46:30",
@@ -2017,9 +2017,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-2383",
-        "N-1000",
-        "N-2382"
+        "N-11383",
+        "N-10000",
+        "N-11382"
       ],
       "tags": [],
       "claim_timestamp": "00:33:53",
@@ -2042,7 +2042,7 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ],
       "tags": [],
       "claim_timestamp": "00:55:45",
@@ -2065,7 +2065,7 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-2366"
+        "N-11366"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2087,7 +2087,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-2374"
+        "N-11374"
       ],
       "tags": [],
       "claim_timestamp": "01:03:57",

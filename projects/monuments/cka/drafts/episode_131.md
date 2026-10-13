@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2147
+  - New Nodes Introduced: N-11147
   - Hole-minted Nodes (wave3): N-815
   - Reused Nodes Appearing: 
   - (see registers)
@@ -97,7 +97,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3125, C-3126, N-133 (Ben Shapiro), N-2147*
+*Related: C-3125, C-3126, N-133 (Ben Shapiro), N-11147*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:19:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip described, source not shown)
 
-*Related: C-3767, N-3, N-133, N-2147*
+*Related: C-3767, N-3, N-133, N-11147*
 
 **A-2524.2** Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (biography cited, not shown)
 
-*Related: C-3768, N-3, N-133, N-2147*
+*Related: C-3768, N-3, N-133, N-11147*
 
 **A-2524.3** Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:26:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3769, N-3, N-1, N-133, N-2147*
+*Related: C-3769, N-3, N-1, N-133, N-11147*
 
 ---
 
@@ -239,7 +239,7 @@ First named by the host at 00:43:01 in episode 131.
 *Related: C-3133, C-3134, C-3135, C-3136*
 
 
-**N-2147** Ben Shapiro 9/10 Lunch Meeting Identification
+**N-11147** Ben Shapiro 9/10 Lunch Meeting Identification
 
 Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.
 
@@ -375,7 +375,7 @@ Claim: In an audio clip played in the episode, Ben Shapiro states that his secur
 Anchored Artifacts: A-2181.1
 Mentions: N-1, N-133
 
-Related Nodes: N-2147
+Related Nodes: N-11147
 
 Investigative Direction: Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.
 
@@ -390,7 +390,7 @@ Claim: In an audio clip played in the episode, Ben Shapiro states that at the ti
 Anchored Artifacts: A-2181.1
 Mentions: N-1, N-133
 
-Related Nodes: N-2147
+Related Nodes: N-11147
 
 Investigative Direction: Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley).
 
@@ -579,7 +579,7 @@ Transcript Snippet: So, what did we do? We put out a bounty.
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-133, N-1
-Related Nodes: N-2147
+Related Nodes: N-11147
 Supports: C-3764
 Qualifies: C-3126
 Confidence: low
@@ -598,7 +598,7 @@ Transcript Snippet: Gary was the president of the Nebraska chapter of AIPAC.
 
 Anchored Artifacts: A-2524.2
 Mentions: N-3, N-133
-Related Nodes: N-2147
+Related Nodes: N-11147
 Confidence: low
 Uncertainty: Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has "Jabitch"/"Jabach" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.
 Investigative Direction: Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.
@@ -615,7 +615,7 @@ Transcript Snippet: But I will put out another bounty similarly uh for $25,000 f
 
 Anchored Artifacts: A-2524.3
 Mentions: N-3, N-1, N-133
-Related Nodes: N-2147
+Related Nodes: N-11147
 Confidence: high
 Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).
 
