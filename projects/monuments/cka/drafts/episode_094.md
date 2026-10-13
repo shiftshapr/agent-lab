@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10623, N-10624, N-10625, N-10626, N-10627, N-10628, N-10629, N-10630, N-10632, N-10633, N-10634, N-10635, N-10636
   - Hole-minted Nodes (wave3): N-435, N-436
-  - Reused Nodes Appearing: , N-10631
+  - Reused Nodes Appearing: N-10631
   - (see registers)
 
 ---

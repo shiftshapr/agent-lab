@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10817, N-10819
-  - Reused Nodes Appearing: , N-10818
+  - Reused Nodes Appearing: N-10818
   - (see registers)
 
 # Episode 146 Ledger Summary

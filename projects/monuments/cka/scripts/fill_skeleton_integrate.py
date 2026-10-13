@@ -242,7 +242,7 @@ def main() -> int:
         head = "\n".join(l for l in head.split("\n") if l != "\0DROP")
         add = ", ".join(f"N-{n}" for n in sorted(ids))
         if re.search(r"^  - Reused Nodes Appearing:", head, re.M):
-            head = re.sub(r"^(  - Reused Nodes Appearing:.*)$", lambda m: f"{m.group(1)}, {add}", head, count=1, flags=re.M)
+            head = re.sub(r"^(  - Reused Nodes Appearing:)(.*)$", lambda m: m.group(1) + " " + ", ".join([x.strip() for x in m.group(2).split(",") if x.strip()] + [add]), head, count=1, flags=re.M)
         else:
             head = re.sub(r"^(- \*\*Episode Ledger Summary\*\*:\n)", lambda m: m.group(1) + f"  - Reused Nodes Appearing: {add}\n", head, count=1, flags=re.M)
         dpath.write_text(head + sep + rest, encoding="utf-8")
