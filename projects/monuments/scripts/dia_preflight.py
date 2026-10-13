@@ -295,24 +295,6 @@ def check_json_readable(report: PreflightReport, monument_dir: Path) -> set[str]
     return bad
 
 
-def load_forbidden_retired_citations(config_path: Path, active_ids: set[int]) -> set[int]:
-    """
-    Tombstone keys legacy-N-X document history. A tombstoned X is never reclaimed for a new
-    entity (one person, one node); X stays citable only while it is still the active id of the
-    same entity (survivor collapse onto the lowest id). Forbid citing N-X when X is not on the
-    active register (unmapped ghost ids).
-    """
-    data = _json_or(config_path, {})
-    forbidden: set[int] = set()
-    for key, meta in (data.get("retired") or {}).items():
-        m = re.match(r"legacy-N-(\d+)$", key, re.I)
-        if not m:
-            continue
-        nid = int(m.group(1))
-        if nid not in active_ids:
-            forbidden.add(nid)
-    return forbidden
-
 
 def load_canonical_nodes(path: Path) -> dict[str, dict[str, Any]]:
     data = _json_or(path, {})
@@ -495,31 +477,20 @@ def check_intro_order(
         prev_by_band[b] = nid
 
 
-def check_related_and_retired(
+def check_related_nodes(
     report: PreflightReport,
     episodes: list[tuple[int, str, Path, str]],
     intro: dict[int, RegisterEntry],
-    forbidden_retired: set[int],
     claim_related: set[int],
 ) -> None:
     known = set(intro.keys())
-    cited_retired: set[tuple[str, int]] = set()
     unknown: set[tuple[str, int]] = set()
     for _ep, ep_name, _path, content in episodes:
         for m in N_ID_TOKEN_RE.finditer(content):
             nid = int(m.group(1))
-            if nid in forbidden_retired:
-                cited_retired.add((ep_name, nid))
-            elif nid not in known:
+            if nid not in known:
                 unknown.add((ep_name, nid))
 
-    for ep_name, nid in sorted(cited_retired):
-        report.add(
-            "P0",
-            "retired_citation",
-            f"{ep_name}: cites tombstone id N-{nid} (not on active register)",
-            f"N-{nid}",
-        )
     for ep_name, nid in sorted(unknown):
         report.add(
             "P1",
@@ -1315,17 +1286,7 @@ def check_duplicate_claim_headers(
             )
 
 
-def check_tombstone_collision(report: PreflightReport, canonical: dict[str, dict[str, Any]]) -> None:
-    """P1: an active canonical id listed in another node's retired_ids."""
-    for key, meta in canonical.items():
-        for rid in meta.get("retired_ids") or []:
-            if rid in canonical and rid != key:
-                report.add(
-                    "P1",
-                    "tombstone_collision",
-                    f"canonical/nodes.json: active {rid} ({canonical[rid].get('canonical_name')}) is also a retired id of {key} ({meta.get('canonical_name')})",
-                    rid,
-                )
+
 
 
 ANNOT_RE = re.compile(r"\b(N-\d+)\s*\(([^()\n]{2,160})\)")
@@ -1487,7 +1448,7 @@ def check_hole_minted(
     where each id gets its first register row, and no earlier episode may list the id on any ledger
     line (New, Reused, Existing Nodes Reused or Hole-minted). Per batch and band, ids must ascend in episode
     order (compact first-introduction order), and person-band batches must be compact: no free
-    person id (not active, not tombstoned, not on the episode_000 baseline ledger) may remain
+    person id (not active and not on the episode_000 baseline ledger) may remain
     below the batch maximum.
     """
     minted = collect_hole_minted(episodes)
@@ -1506,13 +1467,6 @@ def check_hole_minted(
         if ep == 0:
             for lm in re.finditer(r"N-(\d+)", content):
                 baseline.add(int(lm.group(1)))
-    tombstoned: set[int] = set()
-    rpath = monument_dir / "config" / "retired_node_ids.json"
-    if rpath.is_file():
-        for key in (_json_or(rpath, {}).get("retired") or {}):
-            km = re.search(r"N-(\d+)$", key)
-            if km:
-                tombstoned.add(int(km.group(1)))
     active = set(intro) | {int(k[2:]) for k in canonical if re.match(r"N-\d+$", k)}
     hole_by_ep: dict[int, set[int]] = {}
     for ep, _name, _batch, _idx, nid in minted:
@@ -1562,7 +1516,7 @@ def check_hole_minted(
             prev = (ep, ep_name, nid)
         if band == "person":
             top = max(nid for _e, _n, nid in items)
-            free = [x for x in range(1, top) if x not in active and x not in tombstoned and x not in baseline]
+            free = [x for x in range(1, top) if x not in active and x not in baseline]
             if free:
                 report.add(
                     "P0",
@@ -2137,18 +2091,12 @@ def run_preflight(
             "No 'New Nodes Introduced' ledger lines found in drafts",
         )
 
-    active_ids = set(intro.keys())
-    forbidden_retired = load_forbidden_retired_citations(
-        monument_dir / "config" / "retired_node_ids.json", active_ids
-    )
     ingest_episodes = [e for e in episodes if e[0] > 0]
     claim_related = collect_claim_artifact_related_n_ids(ingest_episodes)
 
     check_person_band(report, intro, monument_dir=monument_dir)
     check_intro_order(report, ledger_order, intro)
-    check_related_and_retired(
-        report, ingest_episodes, intro, forbidden_retired, claim_related
-    )
+    check_related_nodes(report, ingest_episodes, intro, claim_related)
     check_stamps(report, ingest_episodes)
     check_claim_forks(report, ingest_episodes)
     check_memes(report, episodes)
@@ -2171,7 +2119,6 @@ def run_preflight(
         check_claims_missing_from_drafts(report, monument_dir, ingest_episodes)
         check_inscription_missing(report, monument_dir, ingest_episodes)
     check_duplicate_claim_headers(report, ingest_episodes)
-    check_tombstone_collision(report, canonical)
     check_name_annotation_mismatch(report, ingest_episodes, register, canonical)
     check_hole_minted(report, monument_dir, episodes, intro, canonical)
     check_tip_minted(report, episodes, intro)
@@ -2332,12 +2279,11 @@ def build_wave1_fixture(root: Path) -> None:
     (root / "config" / "yt_durations.json").write_text(
         json.dumps({"by_youtube_id": {"vid001": 120}}), encoding="utf-8"
     )
-    (root / "config" / "retired_node_ids.json").write_text(json.dumps({"retired": {}}), encoding="utf-8")
     (root / "canonical" / "nodes.json").write_text(
         json.dumps(
             {
                 "nodes": {
-                    "N-1": {"canonical_name": "Alice Smith", "type": "person", "retired_ids": ["N-2"]},
+                    "N-1": {"canonical_name": "Alice Smith", "type": "person"},
                     "N-2": {"canonical_name": "Bob Jones", "type": "person"},
                     "N-1001": {"canonical_name": "Alice Smith", "type": "topic"},
                 }
@@ -2366,7 +2312,6 @@ WAVE1_CHECKS = (
     "claim_ts_past_end",
     "claim_missing_from_drafts",
     "duplicate_claim_header",
-    "tombstone_collision",
     "name_annotation_mismatch",
 )
 
@@ -2398,10 +2343,6 @@ def _self_test() -> int:
         drafts.mkdir(parents=True)
         (root / "config").mkdir()
         (root / "canonical").mkdir()
-        (root / "config" / "retired_node_ids.json").write_text(
-            json.dumps({"retired": {"legacy-N-99": {"survives_as": "N-1"}}}),
-            encoding="utf-8",
-        )
         (root / "canonical" / "nodes.json").write_text(
             json.dumps({"nodes": {"N-1000": {"canonical_name": "Wrong Org", "type": "organization"}}}),
             encoding="utf-8",
@@ -2456,7 +2397,7 @@ Claim Timestamp: 00:01:00
         assert report.hard_fail(), report.findings
         checks = {f.check for f in report.findings if f.severity == "P0"}
         assert "person_band" in checks
-        assert "retired_citation" in checks
+        assert "unknown_node" in {f.check for f in report.findings}
         assert "claim_fork" in checks
 
     # Wave 1 gates: each must fire as P1 on its fixture.

@@ -4,8 +4,8 @@ Dense intro-order renumber for global C-* and A-* IDs (ep1→ep8).
 
 Builds old→new maps from draft Artifact/Claim Register first-appearance order,
 applies across drafts, inscription JSON, output JSON, and cross-episode docs.
-Writes config/retired_claim_ids.json, config/retired_artifact_ids.json, and
-docs/boc-PR*-claim-artifact-nid-maps.md.
+Writes docs/boc-PR*-claim-artifact-nid-maps.md (old -> new map). No tombstone ledger is kept
+(Daveed, 2026-10-13).
 
 Usage (dry-run):
   python scripts/renumber_claims_artifacts.py --dry-run
@@ -139,68 +139,6 @@ def _collect_target_files() -> list[Path]:
     return [p for p in paths if p.exists()]
 
 
-def _write_retired_json(
-    claim_map: dict[str, str],
-    art_family_map: dict[str, str],
-    art_sub_map: dict[str, str],
-    claims_order: list[int],
-    art_families_order: list[int],
-) -> None:
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-
-    claim_retired: dict[str, dict] = {}
-    for old in claims_order:
-        old_s, new_s = f"C-{old}", claim_map[f"C-{old}"]
-        if old_s != new_s:
-            claim_retired[old_s] = {
-                "survives_as": new_s,
-                "reason": f"Intro-order dense renumber ep1→ep8; was {old_s}.",
-            }
-
-    art_retired: dict[str, dict] = {}
-    for old in art_families_order:
-        old_s, new_s = f"A-{old}", art_family_map[f"A-{old}"]
-        if old_s != new_s:
-            art_retired[old_s] = {
-                "survives_as": new_s,
-                "reason": f"Intro-order dense renumber ep1→ep8; artifact family was {old_s}.",
-            }
-    for old_sub, new_sub in sorted(art_sub_map.items()):
-        if old_sub != new_sub:
-            art_retired[old_sub] = {
-                "survives_as": new_sub,
-                "reason": f"Sub-item renumbered under new family ID.",
-            }
-
-    CONFIG_DIR.mkdir(parents=True, exist_ok=True)
-    (CONFIG_DIR / "retired_claim_ids.json").write_text(
-        json.dumps(
-            {
-                "version": 1,
-                "updated": now,
-                "description": "Tombstone ledger for legacy C-* slots after intro-order dense renumber (C-1000+).",
-                "retired": claim_retired,
-            },
-            indent=2,
-        )
-        + "\n",
-        encoding="utf-8",
-    )
-    (CONFIG_DIR / "retired_artifact_ids.json").write_text(
-        json.dumps(
-            {
-                "version": 1,
-                "updated": now,
-                "description": "Tombstone ledger for legacy A-* family/sub-item slots after intro-order dense renumber (A-1000+).",
-                "retired": art_retired,
-            },
-            indent=2,
-        )
-        + "\n",
-        encoding="utf-8",
-    )
-
-
 def _write_maps_md(
     pr_num: str,
     claim_map: dict[str, str],
@@ -284,13 +222,6 @@ def main() -> int:
             path.write_text(updated, encoding="utf-8")
             touched.append(str(path.relative_to(PROJECT_DIR)))
 
-    _write_retired_json(claim_map, art_family_map, art_sub_map, claims_order, art_families_order)
-    touched.extend(
-        [
-            "config/retired_claim_ids.json",
-            "config/retired_artifact_ids.json",
-        ]
-    )
     maps_path = _write_maps_md(
         args.pr_label, claim_map, art_family_map, art_sub_map, claims_order, art_families_order, touched
     )

@@ -209,15 +209,6 @@ def test_duplicate_claim_headers_including_residue_headers(tmp_path):
     assert _checks(report) == ["duplicate_claim_header"]
 
 
-def test_tombstone_collision():
-    report = dp.PreflightReport("t", "t")
-    dp.check_tombstone_collision(
-        report,
-        {"N-88": {"canonical_name": "PBD", "retired_ids": ["N-452", "N-999"]}, "N-452": {"canonical_name": "Ali Breland"}},
-    )
-    assert [f.location for f in report.findings] == ["N-452"]
-
-
 def test_wave1_fixture_trips_every_gate(tmp_path):
     root = tmp_path / "wave1_fixture"
     dp.build_wave1_fixture(root)
@@ -586,10 +577,8 @@ def test_cka_has_no_wave1_people_regressions():
         in (
             "person_like_topic",
             "mention_grounding",
-            "tombstone_collision",
             "person_band",
             "register_orphan",
-            "retired_citation",
             "unknown_node",
             "name_annotation_mismatch",
             "hole_mint_order",
@@ -828,17 +817,6 @@ def test_named_before_intro_clean_controls(tmp_path):
     eps = [base, (1, "episode_001.md", Path("x"), _ep_draft("  - New Nodes Introduced: N-2\n", _reg(2), claims3)), late]
     assert _nbi_report(tmp_path, eps, NBI_CANON, accepted=[{"id": "N-5", "episodes": [1], "reason": "debt"}]).findings == []
     assert _nbi_report(tmp_path, eps, NBI_CANON, enabled=False).findings == []
-
-
-def _pbl_dir(tmp_path, nodes, retired=None, reserved=None, next_person_id=None, enabled=True):
-    d = tmp_path / "mon"
-    (d / "config").mkdir(parents=True, exist_ok=True)
-    (d / "canonical").mkdir(parents=True, exist_ok=True)
-    (d / "config" / "preflight_gates.json").write_text(json.dumps({"person_band_lock": {"enabled": enabled}}))
-    (d / "config" / "retired_node_ids.json").write_text(json.dumps({
-        "retired": retired or {}, "reserved_baseline_ids": {"ids": reserved or []}}))
-    (d / "canonical" / "nodes.json").write_text(json.dumps({"next_person_id": next_person_id, "nodes": nodes}))
-    return d
 
 
 CKA_DIR = Path(__file__).resolve().parents[1] / "cka"

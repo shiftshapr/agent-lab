@@ -76,7 +76,7 @@ PR33_TOPIC_BAND_REMAP: dict[str, str] = {
     "N-1071": "N-47",
 }
 
-# Pre-PR34 main-tip person ids → final (for retired ledger).
+# Pre-PR34 main-tip person ids → final.
 MAIN_TIP_PERSON_REMAP: dict[str, str] = {
     **PR33_TOPIC_BAND_REMAP,
     **{old: DENSE_REMAP[old] for old in DENSE_REMAP if old not in PR33_TOPIC_BAND_REMAP},
@@ -191,68 +191,6 @@ def _update_canonical(dry_run: bool) -> None:
         nodes_path.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
 
 
-def _update_retired(dry_run: bool) -> None:
-    retired_path = PROJECT / "config" / "retired_node_ids.json"
-    data = json.loads(retired_path.read_text(encoding="utf-8"))
-    retired = data["retired"]
-
-    pr33_chain = {
-        "legacy-N-1063": "N-18",
-        "legacy-N-1064": "N-19",
-        "legacy-N-1065": "N-20",
-        "legacy-N-1067": "N-46",
-        "legacy-N-1068": "N-47",
-    }
-    for key, target in pr33_chain.items():
-        if key in retired:
-            retired[key]["survives_as"] = target
-            retired[key]["reason"] = (
-                retired[key]["reason"].split("; reclaimed")[0].split("; dense")[0]
-                + f"; dense Person intro-order final {target} (Daveed lock)."
-            )
-
-    for old, new in PR33_TOPIC_BAND_REMAP.items():
-        tomb = f"pr33-person-{old}"
-        retired[tomb] = {
-            "survives_as": new,
-            "canonical_name": PERSON_NAMES[new],
-            "reason": "PR33 misplaced Person in Topic band; dense intro-order reclaim (Daveed lock).",
-        }
-
-    for old, new in DENSE_REMAP.items():
-        if old in PR33_TOPIC_BAND_REMAP.values():
-            continue
-        name = PERSON_NAMES.get(new, retired.get(f"pr34-dense-{old}", {}).get("canonical_name", ""))
-        if not name and old.startswith("N-"):
-            # lookup from canonical name map via inverse
-            pass
-        retired[f"pr34-dense-{old}"] = {
-            "survives_as": new,
-            "canonical_name": PERSON_NAMES[new],
-            "reason": f"PR34 dense intro-order shift; was {old} before cascade.",
-        }
-
-    for old, new in MAIN_TIP_PERSON_REMAP.items():
-        if int(old.split("-")[1]) >= 1000:
-            continue
-        if old == new:
-            continue
-        key = f"pr34-main-{old}"
-        if key not in retired:
-            retired[key] = {
-                "survives_as": new,
-                "canonical_name": PERSON_NAMES[new],
-                "reason": f"Main-tip person id {old} → dense intro-order {new} (PR34).",
-            }
-
-    data["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    data["description"] = (
-        "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only."
-    )
-    if not dry_run:
-        retired_path.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
-
-
 def main() -> None:
     parser = argparse.ArgumentParser(description="Dense Person intro-order reclaim")
     parser.add_argument("--apply", action="store_true")
@@ -266,8 +204,6 @@ def main() -> None:
 
     _update_canonical(dry_run)
     print("canonical/nodes.json OK")
-    _update_retired(dry_run)
-    print("config/retired_node_ids.json OK")
 
     print("\nDense remap (PR34 branch old → new):")
     for old in sorted(DENSE_REMAP, key=lambda x: int(x.split("-")[1])):
