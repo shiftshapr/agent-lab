@@ -31,7 +31,7 @@
             "C-3237"
           ],
           "related_nodes": [
-            "N-2185",
+            "N-11185",
             "N-1"
           ],
           "tags": [],
@@ -191,7 +191,7 @@
             "C-3244"
           ],
           "related_nodes": [
-            "N-2186"
+            "N-11186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -209,7 +209,7 @@
             "C-3245"
           ],
           "related_nodes": [
-            "N-2186"
+            "N-11186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -227,7 +227,7 @@
             "C-3245"
           ],
           "related_nodes": [
-            "N-2186"
+            "N-11186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-3246"
           ],
           "related_nodes": [
-            "N-2186"
+            "N-11186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -297,7 +297,7 @@
             "C-3248"
           ],
           "related_nodes": [
-            "N-2187",
+            "N-11187",
             "N-1"
           ],
           "tags": [],
@@ -324,7 +324,7 @@
             "C-3249"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -342,7 +342,7 @@
             "C-3250"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -360,7 +360,7 @@
             "C-3251"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -378,7 +378,7 @@
             "C-3252"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,7 +396,7 @@
             "C-3253"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,7 +414,7 @@
             "C-3254"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -440,7 +440,7 @@
             "C-3255"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -458,7 +458,7 @@
             "C-3255"
           ],
           "related_nodes": [
-            "N-2188"
+            "N-11188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -509,7 +509,7 @@
             "C-3258"
           ],
           "related_nodes": [
-            "N-2189"
+            "N-11189"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -535,7 +535,7 @@
             "C-3259"
           ],
           "related_nodes": [
-            "N-2189"
+            "N-11189"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -550,8 +550,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2185",
-      "ref": "N-2185",
+      "@id": "N-11185",
+      "ref": "N-11185",
       "name": "French Translation Hypothesis (Tyler Robinson Texts)",
       "type": "investigation_target",
       "description": "Investigative target: persistent theory that the alleged Tyler Robinson text messages were authored by a non-native English speaker using French phrasing (specifically \"sniffer pooch\" as calque of French \"chien renifleur\" / \"reneneur\"). Supported in this episode by viewer tip email.",
@@ -573,8 +573,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2186",
-      "ref": "N-2186",
+      "@id": "N-11186",
+      "ref": "N-11186",
       "name": "Lance Twigs Handedness Verification",
       "type": "investigation_target",
       "description": "Investigative target: persistent question of whether Lance Twigs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.",
@@ -600,8 +600,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2187",
-      "ref": "N-2187",
+      "@id": "N-11187",
+      "ref": "N-11187",
       "name": "Maroon Shirt Person Identity (UVU Campus)",
       "type": "investigation_target",
       "description": "Investigative target: persistent host claim that the maroon-shirt figure on the UVU staircase is not Tyler Robinson, with new visual evidence in this episode (left-hand phone use) being added to that claim.",
@@ -622,8 +622,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2188",
-      "ref": "N-2188",
+      "@id": "N-11188",
+      "ref": "N-11188",
       "name": "Grocery Affordability Public Debate (2026-08)",
       "type": "investigation_target",
       "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Nef arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
@@ -651,8 +651,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2189",
-      "ref": "N-2189",
+      "@id": "N-11189",
+      "ref": "N-11189",
       "name": "Luna / Helluva Boss Cultural Connection",
       "type": "investigation_target",
       "description": "Investigative target: persistent host theory linking the \"Luna\" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twigs, and connecting the IMP \"assassination company in hell\" premise to the Charlie Kirk case.",
@@ -843,7 +843,7 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-2185"
+        "N-11185"
       ],
       "tags": [],
       "claim_timestamp": "00:00:02–00:00:55",
@@ -862,7 +862,7 @@
         "A-2254.1"
       ],
       "related_nodes": [
-        "N-2185"
+        "N-11185"
       ],
       "tags": [],
       "claim_timestamp": "00:00:55",
@@ -994,7 +994,7 @@
         "A-2259.1"
       ],
       "related_nodes": [
-        "N-2186"
+        "N-11186"
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:30:00",
@@ -1013,7 +1013,7 @@
         "A-2259.2"
       ],
       "related_nodes": [
-        "N-2186"
+        "N-11186"
       ],
       "tags": [],
       "claim_timestamp": "00:29:04",
@@ -1032,7 +1032,7 @@
         "A-2259.4"
       ],
       "related_nodes": [
-        "N-2186"
+        "N-11186"
       ],
       "tags": [],
       "claim_timestamp": "00:30:09–00:30:33",
@@ -1070,8 +1070,8 @@
         "A-2261.1"
       ],
       "related_nodes": [
-        "N-2187",
-        "N-2186"
+        "N-11187",
+        "N-11186"
       ],
       "tags": [],
       "claim_timestamp": "00:26:49–00:28:00",
@@ -1090,7 +1090,7 @@
         "A-2262.1"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:36:34",
@@ -1109,7 +1109,7 @@
         "A-2262.2"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30",
@@ -1125,7 +1125,7 @@
         "A-2262.3"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:41:00",
@@ -1141,7 +1141,7 @@
         "A-2262.4"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:38:00–00:39:30",
@@ -1160,7 +1160,7 @@
         "A-2262.5"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:40:30",
@@ -1176,7 +1176,7 @@
         "A-2262.6"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:42:30–00:43:30",
@@ -1196,7 +1196,7 @@
         "A-2263.2"
       ],
       "related_nodes": [
-        "N-2188"
+        "N-11188"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:47:40",
@@ -1226,7 +1226,7 @@
         "A-2265.1"
       ],
       "related_nodes": [
-        "N-2189"
+        "N-11189"
       ],
       "tags": [],
       "claim_timestamp": "00:22:01–00:23:55",
@@ -1242,7 +1242,7 @@
         "A-2265.1"
       ],
       "related_nodes": [
-        "N-2189"
+        "N-11189"
       ],
       "tags": [],
       "claim_timestamp": "00:23:55",
@@ -1258,7 +1258,7 @@
         "A-2266.1"
       ],
       "related_nodes": [
-        "N-2189"
+        "N-11189"
       ],
       "tags": [],
       "claim_timestamp": "00:25:03–00:25:30",

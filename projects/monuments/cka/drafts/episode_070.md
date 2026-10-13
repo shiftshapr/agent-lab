@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-903, N-1563, N-1564, N-1565, N-1566, N-1567
+  - New Nodes Introduced: N-903, N-10563, N-10564, N-10565, N-10566, N-10567
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2319, C-2320, C-2321, C-2322, N-903, N-789, N-1563*
+*Related: C-2319, C-2320, C-2321, C-2322, N-903, N-789, N-10563*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:35:13–00:36:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2325, N-1563*
+*Related: C-2325, N-10563*
 
 ---
 
@@ -159,7 +159,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-789, N-1563*
+*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-789, N-10563*
 
 **N-789** Marina (TPUSA CMO)
 
@@ -183,7 +183,7 @@ Investigative Pressure: Low
 
 *Related: A-1748.1, C-2323, C-2324, N-2*
 
-**N-1563** TPUSA Post-Charlie Loyalty-Test Termination Pattern
+**N-10563** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
 Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.
 
@@ -194,7 +194,7 @@ Investigative Pressure: Medium
 
 *Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-903, N-789*
 
-**N-1564** Pierre / French Donor Investigation
+**N-10564** Pierre / French Donor Investigation
 
 Unconfirmed French individual, alleged by host to have committed "billions" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.
 
@@ -203,9 +203,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High (host-flagged, unverified)
 
-*Related: N-2, N-1565*
+*Related: N-2, N-10565*
 
-**N-1565** Erika Kirk September 10 Morning Itinerary Discrepancy
+**N-10565** Erika Kirk September 10 Morning Itinerary Discrepancy
 
 Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.
 
@@ -216,7 +216,7 @@ Investigative Pressure: Medium
 
 *Related: A-1746.2, C-2318, N-2*
 
-**N-1566** BB Netanyahu Hamptons Dinner Allegation
+**N-10566** BB Netanyahu Hamptons Dinner Allegation
 
 Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding "taking Turning Point USA to the next level"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.
 
@@ -227,7 +227,7 @@ Investigative Pressure: Medium (host-flagged, unverified)
 
 *Related: N-1, N-2*
 
-**N-1567** Egyptian Planes Investigation
+**N-10567** Egyptian Planes Investigation
 
 Host-raised investigative target referencing "Egyptian planes" that allegedly departed Delaware; no artifact anchor in this episode.
 
@@ -236,7 +236,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (host-flagged, unverified)
 
-*Related: N-1565*
+*Related: N-10565*
 
 ---
 
@@ -290,7 +290,7 @@ Claim: The Jesse Watters interview segment read aloud on air contains Erika Kirk
 
 Anchored Artifacts: A-1746.2
 Mentions: N-2, N-313
-Related Nodes: N-1565
+Related Nodes: N-10565
 Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.
 
 **C-2319** Aubrey Lech publicly identified herself as former TPUSA PR manager, recently terminated
@@ -311,7 +311,7 @@ Claim: Aubrey Lech's video states she was brought into a meeting with Andrew Kol
 
 Anchored Artifacts: A-1747.1
 Mentions: N-789, N-903, N-42
-Related Nodes: N-1563
+Related Nodes: N-10563
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
 **C-2321** Aubrey Lech expressed belief termination was retaliation for narrative-dissent
@@ -322,7 +322,7 @@ Claim: Aubrey Lech's video states her personal belief that she was terminated be
 
 Anchored Artifacts: A-1747.1
 Mentions: N-903, N-1
-Related Nodes: N-1563
+Related Nodes: N-10563
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.
 
 **C-2322** Aubrey Lech video names Andrew Kolvet and Marina Munz at termination meeting
@@ -362,7 +362,7 @@ Claim Timestamp: 00:35:13–00:36:03
 Claim: The host describes an active GoFundMe campaign titled "Purge Fallout Fund" supporting approximately eight former Turning Point USA employees who were terminated without explanation after working through America Fest.
 
 Anchored Artifacts: A-1749.1
-Related Nodes: N-1563
+Related Nodes: N-10563
 Investigative Direction: Verify the GoFundMe campaign directly; identify the eight named beneficiaries; confirm termination circumstances for each.
 
 ---

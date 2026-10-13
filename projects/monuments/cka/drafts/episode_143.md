@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2207, N-2208
+  - New Nodes Introduced: N-11207, N-11208
   - Reused Nodes Appearing: N-2, N-224, N-176, N-410
   - (see registers)
 
@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
-- **New Nodes Introduced:** N-2207, N-2208
+- **New Nodes Introduced:** N-11207, N-11208
 - **Existing Nodes Reused:** N-2, N-176, N-69, N-224, N-410
 
 ---
@@ -209,7 +209,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2207** Terrell SD Card-to-Laptop Transfer Sequence
+**N-11207** Terrell SD Card-to-Laptop Transfer Sequence
 
 Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.
 
@@ -222,7 +222,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2208** Yellow Camera Floor Position Event
+**N-11208** Yellow Camera Floor Position Event
 
 Persistent investigable discrepancy: the audience-facing yellow camera fell to the ground post-event and was stepped over rather than retrieved, despite the stated narrative of securing all SD cards.
 
@@ -245,7 +245,7 @@ Claim: The host presents footage showing the camera operator removing an SD card
 
 Anchored Artifacts: A-2295.1
 Mentions: N-1, N-410
-Related Nodes: N-2207
+Related Nodes: N-11207
 Investigative Direction: Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.
 
 ---
@@ -258,7 +258,7 @@ Claim: The host describes footage in which the camera operator opens his laptop 
 
 Anchored Artifacts: A-2295.1
 Mentions: N-410
-Related Nodes: N-2207
+Related Nodes: N-11207
 Investigative Direction: Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated "government source" timeline.
 
 ---
@@ -271,7 +271,7 @@ Claim: The host presents that, when retrieving SD cards, Terrell stepped over th
 
 Anchored Artifacts: A-2295.2, A-2295.3, A-2300.1
 Mentions: N-1, N-410
-Related Nodes: N-2208
+Related Nodes: N-11208
 Investigative Direction: Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.
 
 ---
@@ -284,7 +284,7 @@ Claim: The host presents footage showing the yellow audience-facing camera falli
 
 Anchored Artifacts: A-2295.2, A-2300.1
 Mentions: N-1
-Related Nodes: N-2208
+Related Nodes: N-11208
 Investigative Direction: Confirm camera-down timestamp via SBI/UPD evidence logs and assess whether the fall was accidental or post-removal disturbance.
 
 ---
@@ -369,7 +369,7 @@ Claim: The host states, citing a government source she trusts, that the entire s
 
 Anchored Artifacts: A-2295.1
 Mentions: N-410, N-1
-Related Nodes: N-2207
+Related Nodes: N-11207
 Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.
 
 ---

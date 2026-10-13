@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1668, N-1669, N-1670, N-1671, N-1672, N-1673
+  - New Nodes Introduced: N-10668, N-10669, N-10670, N-10671, N-10672, N-10673
   - Hole-minted Nodes (wave3): N-675, N-676
-  - Reused Nodes Appearing: N-1235, N-3, N-69, N-70, N-102, N-186
+  - Reused Nodes Appearing: N-10235, N-3, N-69, N-70, N-102, N-186
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -40,7 +40,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-04-13
 Confidence Level: High
 
-*Related: C-2682, C-2683, C-2684, N-69, N-1668*
+*Related: C-2682, C-2683, C-2684, N-69, N-10668*
 
 **A-1948.2** State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:47:08–00:48:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2684, N-69, N-1670*
+*Related: C-2684, N-69, N-10670*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:12:25–00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio-only; video withheld)
 
-*Related: C-2685, C-2688, N-1, N-2, N-1669*
+*Related: C-2685, C-2688, N-1, N-2, N-10669*
 
 ---
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:13:17–00:14:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2686, C-2687, N-1672*
+*Related: C-2686, C-2687, N-10672*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:21:42–00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2687, N-2, N-3, N-1671*
+*Related: C-2687, N-2, N-3, N-10671*
 
 **A-1951.2** ADF internal board presentation slide – Caleb Robinson board seat
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced, partial)
 
-*Related: C-2688, N-1671*
+*Related: C-2688, N-10671*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:42:44–00:43:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2692, N-69, N-1673*
+*Related: C-2692, N-69, N-10673*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:40:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only)
 
-*Related: C-2693, N-69, N-1668*
+*Related: C-2693, N-69, N-10668*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:09:44–00:16:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only – no recording displayed)
 
-*Related: C-2694, N-1, N-2, N-1669*
+*Related: C-2694, N-1, N-2, N-10669*
 
 ---
 
@@ -205,7 +205,7 @@ First named by the host at 00:33:31 in episode 90.
 *Related: C-2682, C-2683*
 
 
-**N-1668** Tyler Robinson Filing Timeline Discrepancy
+**N-10668** Tyler Robinson Filing Timeline Discrepancy
 
 Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.
 
@@ -218,7 +218,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1669** Aspen Donor Inconsistency
+**N-10669** Aspen Donor Inconsistency
 
 Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy.
 
@@ -231,7 +231,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1670** Forensic Extraction Evidence Presentation Question
+**N-10670** Forensic Extraction Evidence Presentation Question
 
 State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing.
 
@@ -244,7 +244,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1671** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom
+**N-10671** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom
 
 Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk.
 
@@ -257,7 +257,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1672** Charlie GPT Pitch Question
+**N-10672** Charlie GPT Pitch Question
 
 Admitted pre-death pitches for AI "Charlie GPT" product and host's open question about whether a pitch was accepted.
 
@@ -270,7 +270,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1673** Lance Twiggs Federal Asset Question
+**N-10673** Lance Twiggs Federal Asset Question
 
 Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship.
 
@@ -294,7 +294,7 @@ Claim: The defense Motion to Exclude Still Photography records a Miranda advisem
 Anchored Artifacts: A-1948.1
 Mentions: N-69, N-676
 
-Related Nodes: N-1668
+Related Nodes: N-10668
 
 Investigative Direction: Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.
 
@@ -324,7 +324,7 @@ Claim: In a state filing on preliminary-hearing evidence, the prosecution states
 Anchored Artifacts: A-1948.2
 Mentions: N-69
 
-Related Nodes: N-1670
+Related Nodes: N-10670
 
 Investigative Direction: Obtain the underlying filing directly and confirm language; assess chain-of-custody implications.
 
@@ -339,7 +339,7 @@ Claim: An audio recording played in the episode contains the phrase "I appoint m
 Anchored Artifacts: A-1949.1
 Mentions: N-1, N-2
 
-Related Nodes: N-1669
+Related Nodes: N-10669
 
 Investigative Direction: Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA.
 
@@ -354,7 +354,7 @@ Claim: In a recorded interview clip, Andrew Kolvet states that pitches for a "Ch
 Anchored Artifacts: A-1950.1
 Mentions: N-42
 
-Related Nodes: N-1672
+Related Nodes: N-10672
 
 Investigative Direction: Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.
 
@@ -369,7 +369,7 @@ Claim: An internal Alliance Defending Freedom CEO video played in the episode re
 Anchored Artifacts: A-1951.1
 Mentions: N-2, N-3
 
-Related Nodes: N-1671
+Related Nodes: N-10671
 
 Investigative Direction: Authenticate the internal video; obtain the underlying ADF board materials.
 
@@ -383,7 +383,7 @@ Claim: According to host testimony supported by an ADF internal presentation, Da
 
 Anchored Artifacts: A-1951.2
 
-Related Nodes: N-1671
+Related Nodes: N-10671
 
 Investigative Direction: Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.
 
@@ -443,7 +443,7 @@ Claim: A Discord statement published in The Hill on September 12, 2025, asserts 
 Anchored Artifacts: A-1955.1
 Mentions: N-69
 
-Related Nodes: N-1673
+Related Nodes: N-10673
 
 Investigative Direction: Retrieve the original Discord statement and The Hill article for exact text.
 
@@ -458,7 +458,7 @@ Claim: Host references a search warrant indicating Tyler Robinson arrived at the
 Anchored Artifacts: A-1956.1
 Mentions: N-69
 
-Related Nodes: N-1668
+Related Nodes: N-10668
 
 Investigative Direction: Obtain the search warrant docket entry and verify exact time/date stamps.
 
@@ -473,7 +473,7 @@ Claim: Host testifies that two TPUSA donors who attended the Aspen investor retr
 Anchored Artifacts: A-1957.1
 Mentions: N-1, N-2
 
-Related Nodes: N-1669
+Related Nodes: N-10669
 
 Investigative Direction: Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists.
 
@@ -488,7 +488,7 @@ Claim: Per the filing excerpt read aloud, the state intends to offer two exhibit
 Anchored Artifacts: A-1948.2
 Mentions: N-69, N-84
 
-Related Nodes: N-1670, N-1673
+Related Nodes: N-10670, N-10673
 
 Investigative Direction: Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.
 
@@ -518,7 +518,7 @@ Claim: Host asserts (based on the Discord statement and subsequent federal chara
 Anchored Artifacts: A-1955.1
 Mentions: N-69
 
-Related Nodes: N-1673
+Related Nodes: N-10673
 
 Investigative Direction: Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.
 

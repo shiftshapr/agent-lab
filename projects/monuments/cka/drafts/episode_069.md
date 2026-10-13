@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
+  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-902, N-10556, N-10557, N-10558, N-10559, N-10560, N-10561, N-10562
   - Reused Nodes Appearing: N-2, N-628
   - (see registers)
 
@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - Claim Range: C-2298–C-2311
   - New Nodes Introduced (people): N-890, N-892, N-893, N-894, N-897
-  - New Nodes Introduced (investigation targets): N-1556, N-1557, N-1558, N-1559
+  - New Nodes Introduced (investigation targets): N-10556, N-10557, N-10558, N-10559
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-628 (Emmanuel Macron)
 
 ---
@@ -87,7 +87,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Aazil/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-2300, C-2311, N-885 (Robkea), N-894 (David Flynn), N-1560 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-2300, C-2311, N-885 (Robkea), N-894 (David Flynn), N-10560 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Robkea segment on Gilgamesh / CERN / 666
 
@@ -115,7 +115,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quail's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-2302, C-2303, N-892 (Tom Horn), N-893 (Steve Quail), N-1561 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-2302, C-2303, N-892 (Tom Horn), N-893 (Steve Quail), N-10561 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -131,7 +131,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-2304, C-2305, N-890 (Tracy Martin), N-2 (Erica Kirk), N-1557 (Tracy Martin Background and Husband Verification), N-1556 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-2304, C-2305, N-890 (Tracy Martin), N-2 (Erica Kirk), N-10557 (Tracy Martin Background and Husband Verification), N-10556 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -211,7 +211,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-2311, N-885 (Robkea), N-1562 (COVID Test DNA Collection Hypothesis)*
+*Related: C-2311, N-885 (Robkea), N-10562 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -251,7 +251,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, C-2304, C-2305, N-2 (Erica Kirk), N-1556, N-1557*
+*Related: A-1741.1, C-2304, C-2305, N-2 (Erica Kirk), N-10556, N-10557*
 
 **N-885** Robkea
 
@@ -262,7 +262,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-894 (David Flynn), N-1560, N-1562*
+*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-894 (David Flynn), N-10560, N-10562*
 
 **N-892** Tom Horn
 
@@ -273,7 +273,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2302, N-893 (Steve Quail), N-1561*
+*Related: A-1740.1, C-2302, N-893 (Steve Quail), N-10561*
 
 **N-893** Steve Quail
 
@@ -284,7 +284,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2303, N-892 (Tom Horn), N-1561*
+*Related: A-1740.1, C-2303, N-892 (Tom Horn), N-10561*
 
 **N-894** David Flynn
 
@@ -295,7 +295,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-885 (Robkea), N-1560*
+*Related: A-1739.1, N-885 (Robkea), N-10560*
 
 **N-783** Lori Frantzve
 
@@ -306,7 +306,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2 (Erica Kirk), N-1556, N-890 (Tracy Martin)*
+*Related: N-2 (Erica Kirk), N-10556, N-890 (Tracy Martin)*
 
 **N-35** Jeffrey Epstein
 
@@ -361,7 +361,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1558 (Dream City Church Investigation), N-2 (Erica Kirk)*
+*Related: N-10558 (Dream City Church Investigation), N-2 (Erica Kirk)*
 
 **N-902** Benjamin
 
@@ -376,7 +376,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1556** Erika Kirk September 10 Alibi Investigation
+**N-10556** Erika Kirk September 10 Alibi Investigation
 
 Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.
 
@@ -387,7 +387,7 @@ Investigative Pressure: High
 
 *Related: A-1741.1, N-2 (Erica Kirk), N-890 (Tracy Martin), N-783 (Lorie Fonfe)*
 
-**N-1557** Tracy Martin Background and Husband Verification
+**N-10557** Tracy Martin Background and Husband Verification
 
 Persistent target. Host states she cannot determine what Tracy Martin's husband does and solicits additional tips. Husband's first name offered as "Thomas" with uncertainty.
 
@@ -398,7 +398,7 @@ Investigative Pressure: Medium
 
 *Related: N-890 (Tracy Martin)*
 
-**N-1558** Dream City Church Connection Investigation
+**N-10558** Dream City Church Connection Investigation
 
 Persistent target. Church linked to Tracy Martin, Charlie Kirk's speaking series, the TPUSA faith pivot, and Pastor Luke. Host states more to come.
 
@@ -409,7 +409,7 @@ Investigative Pressure: Medium
 
 *Related: N-890 (Tracy Martin), N-45 (Rob McCoy), (Pastor Luke)*
 
-**N-1559** Egyptian Plane Communication Investigation
+**N-10559** Egyptian Plane Communication Investigation
 
 Persistent target. Host references an Egyptian plane that remained on the tarmac and "transponding intermittently" with active communication; posits use of foreign-registered aircraft to evade communication tracking.
 
@@ -420,7 +420,7 @@ Investigative Pressure: Medium
 
 *Related: N-1 (Charlie Kirk)*
 
-**N-1560** Mount Hermon 33.33° Coordinate Investigation
+**N-10560** Mount Hermon 33.33° Coordinate Investigation
 
 Persistent target. Robkea's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.
 
@@ -431,7 +431,7 @@ Investigative Pressure: Low
 
 *Related: A-1739.1, N-885 (Robkea), N-894 (David Flynn)*
 
-**N-1561** Gilgamesh Remains DNA Extraction Claim
+**N-10561** Gilgamesh Remains DNA Extraction Claim
 
 Persistent target. Tom Horn / Steve Quail assert U.S. military recovered Gilgamesh remains in "remarkable preservation" and that human genome project aimed to "reanimate" via genetic markers.
 
@@ -442,7 +442,7 @@ Investigative Pressure: Low
 
 *Related: A-1740.1, N-892 (Tom Horn), N-893 (Steve Quail)*
 
-**N-1562** COVID Test DNA Collection Hypothesis
+**N-10562** COVID Test DNA Collection Hypothesis
 
 Persistent target. Viewer AZ Masterbaker and host's prior-commentary thread propose nasal-swab COVID tests were instruments for DNA collection aimed at identifying Nimrod's descendants.
 
@@ -494,7 +494,7 @@ Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Wa
 Anchored Artifacts: A-1739.1
 Mentions: N-885, N-894
 
-Related Nodes: N-1560
+Related Nodes: N-10560
 
 Investigative Direction: Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).
 
@@ -523,7 +523,7 @@ Claim: Tom Horn states on Omega Man Radio that a "special operations general" va
 Anchored Artifacts: A-1740.1
 Mentions: N-892, N-893
 
-Related Nodes: N-1561
+Related Nodes: N-10561
 
 Investigative Direction: Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.
 
@@ -538,7 +538,7 @@ Claim: Steve Quail states on Omega Man Radio that "the whole point" of the Iraq 
 Anchored Artifacts: A-1740.1
 Mentions: N-893
 
-Related Nodes: N-1561
+Related Nodes: N-10561
 
 Investigative Direction: Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.
 
@@ -553,7 +553,7 @@ Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear frie
 Anchored Artifacts: A-1741.1
 Mentions: N-2, N-890
 
-Related Nodes: N-1556
+Related Nodes: N-10556
 
 Investigative Direction: Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.
 
@@ -652,7 +652,7 @@ Claim: A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted
 Anchored Artifacts: A-1743.5
 Mentions: N-885
 
-Related Nodes: N-1562
+Related Nodes: N-10562
 
 Investigative Direction: Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.
 
@@ -696,7 +696,7 @@ Investigative Direction: Document the convergence of host and viewer framing; as
 - **Possible transcription error ("Sigman Freud"):** Transcript renders "Sigmund Freud" as "Sigman Freud" throughout. Preserved as transcribed; flag notes this is a host pronunciation / spelling variant of "Sigmund."
 - **Possible transcription error ("counterfeitterter"):** Bobby's comment contains a duplicated syllable in the source transcript; preserved as transcribed.
 - **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-902.
-- **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lorie Fonfe) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-1556 carries it forward for future artifact anchoring.
+- **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lorie Fonfe) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10556 carries it forward for future artifact anchoring.
 - **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.
 - **Omega Man Radio clip attribution:** Host identifies the speakers as Tom Horn and Steve Quail; the original episode date and full context are not provided. Artifact should be cross-referenced to the source episode before further claim inscription.

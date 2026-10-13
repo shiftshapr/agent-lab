@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1240"
+            "N-10240"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -63,7 +63,7 @@
             "N-42",
             "N-226",
             "N-227",
-            "N-1245"
+            "N-10245"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,7 +91,7 @@
           "related_nodes": [
             "N-228",
             "N-227",
-            "N-1245"
+            "N-10245"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1240"
+            "N-10240"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1240"
+            "N-10240"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
             "N-42",
             "N-243",
             "N-1",
-            "N-1244",
+            "N-10244",
             "N-72"
           ],
           "tags": [],
@@ -253,7 +253,7 @@
           "related_nodes": [
             "N-229",
             "N-1",
-            "N-1244"
+            "N-10244"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,7 +353,7 @@
             "N-128",
             "N-233",
             "N-3",
-            "N-1242"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -515,7 +515,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-42",
-        "N-1245"
+        "N-10245"
       ]
     },
     {
@@ -540,7 +540,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-42",
-        "N-1245"
+        "N-10245"
       ]
     },
     {
@@ -587,7 +587,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-1244"
+        "N-10244"
       ]
     },
     {
@@ -628,7 +628,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ]
     },
     {
@@ -648,7 +648,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ]
     },
     {
@@ -668,7 +668,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ]
     },
     {
@@ -779,7 +779,7 @@
       "related_nodes": [
         "N-1",
         "N-42",
-        "N-1244"
+        "N-10244"
       ]
     },
     {
@@ -819,7 +819,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ]
     },
     {
@@ -839,7 +839,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ]
     },
     {
@@ -864,8 +864,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1240",
-      "ref": "N-1240",
+      "@id": "N-10240",
+      "ref": "N-10240",
       "name": "Josh Hammer September 9 Retweet Context Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zhuravska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
@@ -898,8 +898,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1241",
-      "ref": "N-1241",
+      "@id": "N-10241",
+      "ref": "N-10241",
       "name": "UVU Left-Side Footage Black Hole",
       "type": "investigation_target",
       "description": "Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1242",
-      "ref": "N-1242",
+      "@id": "N-10242",
+      "ref": "N-10242",
       "name": "Candace Kill Switch / Dead Man Switch",
       "type": "investigation_target",
       "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
@@ -946,8 +946,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1243",
-      "ref": "N-1243",
+      "@id": "N-10243",
+      "ref": "N-10243",
       "name": "Charlie Kirk Final-Days Text Communications",
       "type": "investigation_target",
       "description": "Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) \"they are going to kill me\" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.",
@@ -966,8 +966,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1244",
-      "ref": "N-1244",
+      "@id": "N-10244",
+      "ref": "N-10244",
       "name": "Hamptons Meeting Verification",
       "type": "investigation_target",
       "description": "Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1245",
-      "ref": "N-1245",
+      "@id": "N-10245",
+      "ref": "N-10245",
       "name": "Iryna Zhuravska Murder Timeline Verification",
       "type": "investigation_target",
       "description": "Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.",
@@ -1137,7 +1137,7 @@
         "A-1248.1"
       ],
       "related_nodes": [
-        "N-1240"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:06:41",
@@ -1158,7 +1158,7 @@
         "A-1237.1"
       ],
       "related_nodes": [
-        "N-1245"
+        "N-10245"
       ],
       "tags": [],
       "claim_timestamp": "00:07:48",
@@ -1177,7 +1177,7 @@
       "claim": "Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arrested the same day; the footage was released and trended on X on September 5, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1245"
+        "N-10245"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -1252,7 +1252,7 @@
         "A-1239.2"
       ],
       "related_nodes": [
-        "N-1240"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
@@ -1271,7 +1271,7 @@
         "A-1241.1"
       ],
       "related_nodes": [
-        "N-1243"
+        "N-10243"
       ],
       "tags": [],
       "claim_timestamp": "00:20:50",
@@ -1291,8 +1291,8 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-1243",
-        "N-1244"
+        "N-10243",
+        "N-10244"
       ],
       "tags": [],
       "claim_timestamp": "00:22:12",
@@ -1313,7 +1313,7 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-1244"
+        "N-10244"
       ],
       "tags": [],
       "claim_timestamp": "00:29:05",
@@ -1333,7 +1333,7 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-1244"
+        "N-10244"
       ],
       "tags": [],
       "claim_timestamp": "00:30:17",
@@ -1372,7 +1372,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:53:36",
@@ -1397,7 +1397,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-1242"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:54:36",
@@ -1451,7 +1451,7 @@
         "A-1240.1"
       ],
       "related_nodes": [
-        "N-1240"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:11:02",
@@ -1484,7 +1484,7 @@
       "claim": "There is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event; Turning Point has not released high-resolution footage of that angle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1241"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:43:02",
@@ -1498,7 +1498,7 @@
       "claim": "Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1241"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",

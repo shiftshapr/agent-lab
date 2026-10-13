@@ -861,8 +861,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1103",
-      "ref": "N-1103",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Text Message Language Anomaly",
       "type": "topic",
       "description": "Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-year-old casual texting.",
@@ -882,8 +882,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1104",
-      "ref": "N-1104",
+      "@id": "N-10104",
+      "ref": "N-10104",
       "name": "Missing Text Message Timestamps",
       "type": "topic",
       "description": "Indictment text messages released without timestamps, blocking independent chronology.",
@@ -908,8 +908,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1105",
-      "ref": "N-1105",
+      "@id": "N-10105",
+      "ref": "N-10105",
       "name": "Robinson On-Campus Linger Timeline",
       "type": "topic",
       "description": "Allegation that Robinson lingered on campus for hours after the shooting attempting to retrieve rifle.",
@@ -935,8 +935,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1106",
-      "ref": "N-1106",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Note Under Keyboard Disposal",
       "type": "topic",
       "description": "Note directing Lance to look under keyboard was destroyed after a photograph was taken.",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1107",
-      "ref": "N-1107",
+      "@id": "N-10107",
+      "ref": "N-10107",
       "name": "Outfit Change Claim",
       "type": "topic",
       "description": "Robinson's text references changing outfits and leaving rifle in bush; alleged inconsistency with Cox's same-outfit-for-33-hours claim.",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1108",
-      "ref": "N-1108",
+      "@id": "N-10108",
+      "ref": "N-10108",
       "name": "Two-Person Theory (Maroon vs Stairs)",
       "type": "topic",
       "description": "Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person shown walking the stairs.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1109",
-      "ref": "N-1109",
+      "@id": "N-10109",
+      "ref": "N-10109",
       "name": "Lance Twigs Protection Allegation",
       "type": "topic",
       "description": "Allegation that Lance was quickly released despite apartment raid and seizure of electronics; family claims feds were dishonest.",
@@ -1023,8 +1023,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1110",
-      "ref": "N-1110",
+      "@id": "N-10110",
+      "ref": "N-10110",
       "name": "Stanford Psychology Family Pattern",
       "type": "topic",
       "description": "Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a 'running theme' in fed ops.",
@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1111",
-      "ref": "N-1111",
+      "@id": "N-10111",
+      "ref": "N-10111",
       "name": "Federal Conspiracy Allegation",
       "type": "topic",
       "description": "Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, framing the episode's investigation.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1112",
-      "ref": "N-1112",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "topic",
       "description": "Allegation that donors financially pressured Charlie over Candace's invitation to Turning Point conference.",
@@ -1094,7 +1094,7 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-1103"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:00:41",
@@ -1124,8 +1124,8 @@
         "A-1106.3"
       ],
       "related_nodes": [
-        "N-1104",
-        "N-1111"
+        "N-10104",
+        "N-10111"
       ],
       "tags": [],
       "claim_timestamp": "00:03:33",
@@ -1146,7 +1146,7 @@
         "A-1104.1"
       ],
       "related_nodes": [
-        "N-1106"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:05:27",
@@ -1170,7 +1170,7 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-1105"
+        "N-10105"
       ],
       "tags": [],
       "claim_timestamp": "00:08:15",
@@ -1200,7 +1200,7 @@
         "A-1106.1"
       ],
       "related_nodes": [
-        "N-1105"
+        "N-10105"
       ],
       "tags": [],
       "claim_timestamp": "00:10:04",
@@ -1221,7 +1221,7 @@
         "A-1104.4"
       ],
       "related_nodes": [
-        "N-1107"
+        "N-10107"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
@@ -1244,7 +1244,7 @@
         "A-1105.3"
       ],
       "related_nodes": [
-        "N-1109"
+        "N-10109"
       ],
       "tags": [],
       "claim_timestamp": "00:26:12",
@@ -1267,8 +1267,8 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-1107",
-        "N-1111"
+        "N-10107",
+        "N-10111"
       ],
       "tags": [],
       "claim_timestamp": "00:29:45",
@@ -1292,8 +1292,8 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-1108",
-        "N-1111"
+        "N-10108",
+        "N-10111"
       ],
       "tags": [],
       "claim_timestamp": "00:33:19",
@@ -1313,7 +1313,7 @@
       "claim": "Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1110"
+        "N-10110"
       ],
       "tags": [],
       "claim_timestamp": "00:36:23",
@@ -1339,7 +1339,7 @@
         "A-1109.1"
       ],
       "related_nodes": [
-        "N-1112"
+        "N-10112"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45",
@@ -1368,7 +1368,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-1112"
+        "N-10112"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45–00:46:15",

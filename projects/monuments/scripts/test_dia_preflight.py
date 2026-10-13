@@ -1048,4 +1048,24 @@ def test_cka_mutation_g_remove_key_fails(tmp_path):
     data = json.loads(npath.read_text())
     data["next_person_id"] = 630
     npath.write_text(json.dumps(data))
-    assert _lock_p1(_band_report(d, nodes)) == ["next_person_id"]
+    # CKA's person band is widened (node_bands, Daveed 2026-10-13), so next_person_id is no longer a lock
+    # finding; the missing key still turns the lock ON and is reported as a WARN.
+    report = _band_report(d, nodes)
+    assert _lock_p1(report) == []
+    assert any(f.check == "person_band_lock" and f.severity == "WARN" for f in report.findings)
+
+
+def test_cka_widened_band_allows_n1000_person_but_not_tombstone_reuse(tmp_path):
+    d, nodes = _cka_copy(tmp_path)
+    assert dp.load_node_bands(d).person_max == 9999
+    ok = dict(nodes, **{"N-1000": {"canonical_name": "New Person", "type": "person"}})
+    assert _lock_p1(_band_report(d, ok)) == []
+    reused = dict(nodes, **{"N-161": {"canonical_name": "New Person", "type": "person"}})
+    assert "N-161" in _lock_p1(_band_report(d, reused))
+
+
+def test_node_bands_default_and_cka(tmp_path):
+    assert dp.load_node_bands(tmp_path) == dp.DEFAULT_BANDS
+    b = dp.load_node_bands(CKA_DIR)
+    assert (b.band(999), b.band(1000), b.band(9999), b.band(10000)) == ("person", "person", "person", "topic")
+    assert dp.DEFAULT_BANDS.band(1000) == "topic" and dp.DEFAULT_BANDS.band(10000) == "person_high"

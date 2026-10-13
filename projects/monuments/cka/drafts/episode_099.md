@@ -29,11 +29,11 @@
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
-  - New Nodes Introduced: N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
+  - New Nodes Introduced: N-10732, N-10733, N-10734, N-10735, N-10736, N-10737, N-10738
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave3): N-685
   - Hole-minted Nodes (wave2): N-623, N-624, N-625, N-626, N-627
-  - Tip-minted Nodes (wave2): N-2392
+  - Tip-minted Nodes (wave2): N-11392
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 
 ---
@@ -98,7 +98,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2862, N-2392*
+*Related: C-2861, C-2862, N-11392*
 
 **A-2048.2** Church list contained within FARA filing
 
@@ -120,7 +120,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2863, C-2864, C-2865, C-2866, N-2392*
+*Related: C-2863, C-2864, C-2865, C-2866, N-11392*
 
 **A-2049.2** Salem Radio Media Network listing within Clock Tower X FARA filing
 
@@ -385,7 +385,7 @@ Investigative Pressure: Medium
 
 ### Organizations (New)
 
-**N-2392** Havas Media
+**N-11392** Havas Media
 
 Node Type: Organization
 Organization Kind: company
@@ -403,7 +403,7 @@ Investigative Pressure: Medium
 
 ### Investigation Targets (New)
 
-**N-1732** Salem Media Foreign Agent Registration Status
+**N-10732** Salem Media Foreign Agent Registration Status
 
 Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.
 
@@ -412,11 +412,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-1737 (2025 FARA Timeline Convergence)*
+*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-10737 (2025 FARA Timeline Convergence)*
 
 ---
 
-**N-1733** Josh Hammer Show Audience Anomaly
+**N-10733** Josh Hammer Show Audience Anomaly
 
 Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.
 
@@ -425,11 +425,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2050.1, C-2867, N-86 (Josh Hammer), N-1732 (Salem Foreign Agent Status)*
+*Related: A-2050.1, C-2867, N-86 (Josh Hammer), N-10732 (Salem Foreign Agent Status)*
 
 ---
 
-**N-1734** Pam Bondi Foreign Influence Task Force Disbanding
+**N-10734** Pam Bondi Foreign Influence Task Force Disbanding
 
 February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.
 
@@ -438,11 +438,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2052.1, A-2053.1, C-2870, C-2871, N-120 (Pam Bondi), N-1737 (2025 FARA Timeline Convergence)*
+*Related: A-2052.1, A-2053.1, C-2870, C-2871, N-120 (Pam Bondi), N-10737 (2025 FARA Timeline Convergence)*
 
 ---
 
-**N-1735** Hospital "No Neck Left" Narrative Discrepancy
+**N-10735** Hospital "No Neck Left" Narrative Discrepancy
 
 Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had "no neck left," and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.
 
@@ -455,7 +455,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1736** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10736** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.
 
@@ -468,7 +468,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1737** 2025 FARA Propaganda Timeline Convergence
+**N-10737** 2025 FARA Propaganda Timeline Convergence
 
 Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.
 
@@ -477,11 +477,11 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-120 (Pam Bondi), N-62 (Donald Trump Jr.), N-1732 (Salem Foreign Agent Status), N-1734 (Bondi FARA Disbanding)*
+*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-120 (Pam Bondi), N-62 (Donald Trump Jr.), N-10732 (Salem Foreign Agent Status), N-10734 (Bondi FARA Disbanding)*
 
 ---
 
-**N-1738** Mikey McCoy Witness Reliability Question
+**N-10738** Mikey McCoy Witness Reliability Question
 
 Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible "weak link" among Kirk's inner circle.
 
@@ -577,7 +577,7 @@ Claim: Show Faith by Works LLC filed a FARA registration on September 18, 2025, 
 
 Anchored Artifacts: A-2048.1, A-2054.1
 
-Related Nodes: N-1737, N-2392
+Related Nodes: N-10737, N-11392
 
 Investigative Direction: Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties.
 
@@ -591,7 +591,7 @@ Claim: According to its FARA filing, Show Faith by Works LLC is contracted to ge
 
 Anchored Artifacts: A-2048.1, A-2048.2
 
-Related Nodes: N-1737
+Related Nodes: N-10737
 
 Investigative Direction: Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings.
 
@@ -605,7 +605,7 @@ Claim: Clock Tower X LLC filed a FARA registration on September 18, 2025, contra
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
-Related Nodes: N-1732, N-1737, N-2392
+Related Nodes: N-10732, N-10737, N-11392
 
 Investigative Direction: Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope.
 
@@ -620,7 +620,7 @@ Claim: According to the FARA filing and the host, Clock Tower X LLC is run by Br
 Anchored Artifacts: A-2049.1
 Mentions: N-685
 
-Related Nodes: N-1732
+Related Nodes: N-10732
 
 Investigative Direction: Verify corporate registration records for Clock Tower X LLC.
 
@@ -634,7 +634,7 @@ Claim: The FARA filing for Clock Tower X LLC lists Salem Radio Media Network as 
 
 Anchored Artifacts: A-2049.2
 
-Related Nodes: N-1732
+Related Nodes: N-10732
 
 Investigative Direction: Obtain full filing exhibit; verify exact quoted language and listed platforms.
 
@@ -649,7 +649,7 @@ Claim: Brad Parscale became Chief Strategy Officer of Salem Media Network in Jan
 Anchored Artifacts: A-2049.1, A-2054.1
 Mentions: N-685
 
-Related Nodes: N-1732
+Related Nodes: N-10732
 
 Investigative Direction: Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.
 
@@ -664,7 +664,7 @@ Claim: Newsweek page views for the Josh Hammer show display counts of 399, 386, 
 Anchored Artifacts: A-2050.1
 Mentions: N-86
 
-Related Nodes: N-1733
+Related Nodes: N-10733
 
 Investigative Direction: Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.
 
@@ -679,7 +679,7 @@ Claim: In April 2025, Salem Media Group announced a landmark deal with Donald Tr
 Anchored Artifacts: A-2051.1
 Mentions: N-62, N-624
 
-Related Nodes: N-1732
+Related Nodes: N-10732
 
 Investigative Direction: Obtain Salem's official press release and SEC / corporate disclosures.
 
@@ -694,7 +694,7 @@ Claim: Pursuant to the April 2025 deal, Salem acquired a 30% stake in M-News, a 
 Anchored Artifacts: A-2051.1
 Mentions: N-62
 
-Related Nodes: N-1732
+Related Nodes: N-10732
 
 Investigative Direction: Verify M-News corporate filings; confirm 30% acquisition price and structure.
 
@@ -709,7 +709,7 @@ Claim: Pam Bondi, on her first day as Attorney General, signed an order disbandi
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
 Mentions: N-120, N-625
 
-Related Nodes: N-1734, N-1737
+Related Nodes: N-10734, N-10737
 
 Investigative Direction: Obtain DOJ memorandum directly; confirm effective date and operative language.
 
@@ -724,7 +724,7 @@ Claim: Per the DOJ statement, recourse to criminal charges under FARA and 18 U.S
 Anchored Artifacts: A-2053.1
 Mentions: N-120
 
-Related Nodes: N-1734
+Related Nodes: N-10734
 
 Investigative Direction: Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions.
 
@@ -739,7 +739,7 @@ Claim: Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney Gener
 Anchored Artifacts: A-2054.1
 Mentions: N-623
 
-Related Nodes: N-1737
+Related Nodes: N-10737
 
 Investigative Direction: Confirm via DOJ announcement and Senate confirmation records.
 
@@ -753,7 +753,7 @@ Claim: According to the host's timeline, on August 27, 2025, Dhillon Law Group b
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-1732, N-1737, N-2392
+Related Nodes: N-10732, N-10737, N-11392
 
 Investigative Direction: Verify via FARA filing registrant of record and any disclosed outside counsel.
 
@@ -782,7 +782,7 @@ Claim: Per the host's timeline, Charlie Kirk's memorial on September 21, 2025 wa
 Anchored Artifacts: A-2054.1
 Mentions: N-1
 
-Related Nodes: N-1732, N-1737
+Related Nodes: N-10732, N-10737
 
 Investigative Direction: Cross-check with FARA activity reports; obtain any device-level data on geofence delivery.
 
@@ -796,7 +796,7 @@ Claim: Project 545 refers to a $545 million State of Israel Ministry of Foreign 
 
 Anchored Artifacts: A-2055.1
 
-Related Nodes: N-1737
+Related Nodes: N-10737
 
 Investigative Direction: Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures.
 
@@ -811,7 +811,7 @@ Claim: On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted a
 Anchored Artifacts: A-2056.1
 Mentions: N-774, N-775
 
-Related Nodes: N-1736
+Related Nodes: N-10736
 
 Investigative Direction: Obtain the actual April 2 court order; verify which claims survived and on what grounds.
 
@@ -826,7 +826,7 @@ Claim: Following the April 2 ruling, Blake Lively issued a public statement asse
 Anchored Artifacts: A-2056.1
 Mentions: N-774
 
-Related Nodes: N-1736
+Related Nodes: N-10736
 
 Investigative Direction: Verify against Lively's official public statement archive.
 
@@ -841,7 +841,7 @@ Claim: Community Notes appended to Blake Lively's statement characterized her fr
 Anchored Artifacts: A-2057.1
 Mentions: N-774
 
-Related Nodes: N-1736
+Related Nodes: N-10736
 
 Investigative Direction: Obtain screenshot of the Community Notes annotation; capture timestamp and full text.
 
@@ -901,7 +901,7 @@ Claim: According to the host, Mikey McCoy sent her a message pointing to Andrew 
 Anchored Artifacts: A-2061.1
 Mentions: N-42, N-272
 
-Related Nodes: N-1738
+Related Nodes: N-10738
 
 Investigative Direction: Obtain the original McCoy message screenshot; verify the exact language and date.
 
@@ -914,7 +914,7 @@ Investigative Direction: Obtain the original McCoy message screenshot; verify th
 - **Name uncertainty:** Transcript uses both "Andrew Kolbe" (29:32, 30:23) and "Andrew Kolvet" (28:36, 57:03) – **Andrew Kolvet** is the correct name per prior episodes.
 - **Name uncertainty:** Transcript uses "Erica Kirk" once (07:55); **Erika Kirk** is the canonical name.
 - **Artifact verbally referenced but not shown:** A-2060.1 (Charlie Kirk Sept 9 group text) and A-2061.1 (Mikey McCoy message) are referenced by the host but not displayed in this episode.
-- **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-1735) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Strife organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
+- **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10735) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Strife organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
 - **Timestamp uncertainty (internal inconsistency):** Host first states Josh Hammer show was announced on Salem "October 15th" (24:03) but later the timeline reads "October 23rd" as the join date (37:55). Both dates preserved as host stated.
 - **Possible transcription error:** "Crain & Co" (1:03:14) appears to refer to **Crain & Company** (sports talent agency) referenced in prior episode.
 - **Interpretive commentary, not inscribed:** Host's broader thesis that Israel "killed" or orchestrated Charlie Kirk's assassination is a framing premise, not an artifact-anchored claim in this episode. C-2858 records Coleman's stated view; C-2859 records Netanyahu's denial; neither proves the underlying assertion.
@@ -930,9 +930,9 @@ Claim Range: C-2856–C-2883
 
 New Nodes Introduced (People): N-623, N-624, N-625, N-626, N-627
 
-New Nodes Introduced (Investigation Targets): N-1732, N-1733, N-1734, N-1735, N-1736, N-1737, N-1738
+New Nodes Introduced (Investigation Targets): N-10732, N-10733, N-10734, N-10735, N-10736, N-10737, N-10738
 
-New Nodes Introduced (Organizations): N-2392
+New Nodes Introduced (Organizations): N-11392
 
 Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Tara Farnsworth, Justin Strife
 

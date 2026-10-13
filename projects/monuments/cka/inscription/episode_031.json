@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-389",
-            "N-1317"
+            "N-10317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
           ],
           "related_nodes": [
             "N-389",
-            "N-1317"
+            "N-10317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
           "description": "Top Comment #1 (Yesterday): \"Terra Observer\" – Question on Jewish Donor Funding of Christian Organizations; Names \"Bob Showman\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1316"
+            "N-10316"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -433,7 +433,7 @@
             "C-1691"
           ],
           "related_nodes": [
-            "N-1317"
+            "N-10317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -509,7 +509,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1317"
+        "N-10317"
       ]
     },
     {
@@ -531,13 +531,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1317"
+        "N-10317"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1316",
-      "ref": "N-1316",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Rob Koy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1317",
-      "ref": "N-1317",
+      "@id": "N-10317",
+      "ref": "N-10317",
       "name": "Potter's Fields Ministries Financial Fraud Allegations",
       "type": "investigation_target",
       "description": "2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.",
@@ -734,7 +734,7 @@
         "A-1392.1"
       ],
       "related_nodes": [
-        "N-1317"
+        "N-10317"
       ],
       "tags": [],
       "claim_timestamp": "00:06:39",
@@ -771,7 +771,7 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-1316"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
@@ -808,7 +808,7 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-1316"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
@@ -847,7 +847,7 @@
         "A-1396.1"
       ],
       "related_nodes": [
-        "N-1317"
+        "N-10317"
       ],
       "tags": [],
       "claim_timestamp": "00:46:40",
@@ -902,7 +902,7 @@
         "A-1398.11"
       ],
       "related_nodes": [
-        "N-1316"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:58:13",

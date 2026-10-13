@@ -37,7 +37,7 @@
             "C-2588"
           ],
           "related_nodes": [
-            "N-1641"
+            "N-10641"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1640"
+            "N-10640"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "N-1",
             "N-2",
             "N-70",
-            "N-1639"
+            "N-10639"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,7 +179,7 @@
             "C-2600"
           ],
           "related_nodes": [
-            "N-1639"
+            "N-10639"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
             "C-2602"
           ],
           "related_nodes": [
-            "N-1639"
+            "N-10639"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,8 +344,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1639",
-      "ref": "N-1639",
+      "@id": "N-10639",
+      "ref": "N-10639",
       "name": "Tyler Robinson Confession Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson \"confessed or implied\" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.",
@@ -366,8 +366,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1640",
-      "ref": "N-1640",
+      "@id": "N-10640",
+      "ref": "N-10640",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Persistent unresolved target referenced via the host's November 2025 tweet (A-1906.1) and tied by the host to the broader French Masonic lodge case (A-1903.1). Direct evidence linking DGSE to the Charlie Kirk assassination is not presented in this episode.",
@@ -386,8 +386,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1641",
-      "ref": "N-1641",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Athanor Lodge / French Freemason Murder Trial",
       "type": "investigation_target",
       "description": "Discrete investigative event introduced in this episode via A-1903.1, in which 22 defendants including DGSE officers face charges for running a hit-squad network inside the Athanor Masonic lodge. Treated by the host as context for Charlie Kirk case theory.",
@@ -591,7 +591,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:05:42",
@@ -608,7 +608,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -625,7 +625,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -642,7 +642,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:08:40",
@@ -659,7 +659,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -676,7 +676,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -693,7 +693,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -714,7 +714,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-1641"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:11:16",
@@ -828,7 +828,7 @@
         "A-1906.1"
       ],
       "related_nodes": [
-        "N-1640"
+        "N-10640"
       ],
       "tags": [],
       "claim_timestamp": "00:15:25",
@@ -848,7 +848,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -868,7 +868,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -887,7 +887,7 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -906,7 +906,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
@@ -923,7 +923,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -942,7 +942,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -959,7 +959,7 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56",
@@ -978,7 +978,7 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-1639"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:42:54",

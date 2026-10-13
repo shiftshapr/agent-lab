@@ -16,8 +16,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
   - Claim Range: C-1115-C-1124, C-3719
-  - New Nodes Introduced: N-59, N-60, N-61, N-62, N-63, N-64, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
-  - Reused Nodes Appearing: N-1, N-2, N-42, N-56, N-1000, N-3
+  - New Nodes Introduced: N-59, N-60, N-61, N-62, N-63, N-64, N-10067, N-10068, N-10069, N-10070, N-10071, N-10072, N-10073, N-10074, N-10075
+  - Reused Nodes Appearing: N-1, N-2, N-42, N-56, N-10000, N-3
 
 ## 3. Artifact Register
 
@@ -94,14 +94,14 @@ Confidence: high
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:09:59–00:10:06
-*Related: C-1121, N-1, N-3, N-56, N-1073*
+*Related: C-1121, N-1, N-3, N-56, N-10073*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
 
 **A-1080.2** Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.
 Event Timestamp: 2018
 Video Timestamp: 00:14:20–00:14:35
-*Related: C-1123, N-1, N-3, N-42, N-60, N-61, N-64, N-1073*
+*Related: C-1123, N-1, N-3, N-42, N-60, N-61, N-64, N-10073*
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Confidence: high
 
@@ -232,7 +232,7 @@ Uncertainty: Last name not given in transcript.
 
 ---
 
-**N-1067** Charlie Kirk Death and Memorial
+**N-10067** Charlie Kirk Death and Memorial
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -242,7 +242,7 @@ The death event and subsequent memorial episodes; host references seeing the foo
 
 ---
 
-**N-1068** Charlie-Candace Friendship Continuity
+**N-10068** Charlie-Candace Friendship Continuity
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -252,7 +252,7 @@ Host asserts the personal/professional friendship with Charlie Kirk was never br
 
 ---
 
-**N-1069** Kanye Tweet About Candace Owens
+**N-10069** Kanye Tweet About Candace Owens
 
 Node Type: Topic
 Topic Kind: event
@@ -262,7 +262,7 @@ Kanye West's public tweet praising Candace Owens; celebrated by Charlie and Cand
 
 ---
 
-**N-1070** Charlie Kirk Spiritual Transformation
+**N-10070** Charlie Kirk Spiritual Transformation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -272,7 +272,7 @@ Host claims Charlie was undergoing a spiritual transformation and being pressure
 
 ---
 
-**N-1000** Turning Point USA
+**N-10000** Turning Point USA
 
 Node Type: Organization
 Organization Kind: advocacy_organization
@@ -282,7 +282,7 @@ Founded by Charlie Kirk; current 501(c)(3); described as the biggest conservativ
 
 ---
 
-**N-1071** Fox News
+**N-10071** Fox News
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -292,7 +292,7 @@ Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including
 
 ---
 
-**N-1072** Republican National Committee (RNC)
+**N-10072** Republican National Committee (RNC)
 
 Node Type: Organization
 Organization Kind: political_party
@@ -302,7 +302,7 @@ Charlie Kirk at age 23 told Candace he planned to take control of the RNC.
 
 ---
 
-**N-1073** YWLS Conference
+**N-10073** YWLS Conference
 
 Node Type: Organization
 Organization Kind: conference
@@ -313,7 +313,7 @@ Uncertainty: Acronym not expanded in transcript.
 
 ---
 
-**N-1074** Philadelphia
+**N-10074** Philadelphia
 
 Node Type: Place
 Place Kind: city
@@ -323,7 +323,7 @@ Site of Antifa incident at a restaurant where Charlie and Candace were chased ou
 
 ---
 
-**N-1075** Chicago O'Hare Airport
+**N-10075** Chicago O'Hare Airport
 
 Node Type: Place
 Place Kind: venue
@@ -342,7 +342,7 @@ Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace 
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
 Mentions: N-1, N-3, N-42, N-56, N-61, N-64
-Related Nodes: N-1069, N-1073
+Related Nodes: N-10069, N-10073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -356,7 +356,7 @@ Claim: Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photograph
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Anchored Artifacts: A-1078.1
 Mentions: N-1, N-56
-Related Nodes: N-1069
+Related Nodes: N-10069
 Confidence: medium
 Uncertainty: Photo shown but specific source/date of gift not independently confirmed.
 Investigative Direction: Verify the Yeezys gift claim against Kanye West's public statements or social media.
@@ -383,7 +383,7 @@ Claim: While the YWLS conference ran concurrently with the viral 'him too' / #Me
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Anchored Artifacts: A-1080.2
 Mentions: N-1, N-3, N-42, N-61, N-64
-Related Nodes: N-1073
+Related Nodes: N-10073
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
 
@@ -397,7 +397,7 @@ Claim: Charlie Kirk enforced a team rule to never decline Fox News bookings, ave
 Transcript Snippet: Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-1071
+Related Nodes: N-10071
 Confidence: medium
 Investigative Direction: Corroborate via TPUSA staff schedules or published Fox booking logs from the cited era.
 
@@ -411,7 +411,7 @@ Claim: Charlie Kirk and Candace Owens were chased out of a Philadelphia restaura
 Transcript Snippet: We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.
 Anchored Artifacts: A-1077.3
 Mentions: N-1, N-3
-Related Nodes: N-1074
+Related Nodes: N-10074
 Confidence: high
 Investigative Direction: Identify the restaurant and date via news reports of the incident.
 
@@ -424,7 +424,7 @@ Claim: After a single evening with Candace's then-boyfriend George in the UK, Ch
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Anchored Artifacts: A-1079.2
 Mentions: N-1, N-3, N-59
-Related Nodes: N-1068
+Related Nodes: N-10068
 Confidence: high
 Investigative Direction: Verify the UK trip date and the text chain contents against any saved screenshots.
 
@@ -437,7 +437,7 @@ Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should
 Transcript Snippet: Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... "Marry me. It's a logistics thing."
 Anchored Artifacts: A-1079.3
 Mentions: N-1, N-2, N-3
-Related Nodes: N-1068
+Related Nodes: N-10068
 Confidence: high
 Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.
 
@@ -450,7 +450,7 @@ Claim: Kanye West's 'Power' became the de facto theme/hype song for the Turning 
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
 Mentions: N-1, N-3, N-56
-Related Nodes: N-1069
+Related Nodes: N-10069
 Confidence: medium
 Investigative Direction: Verify through other tour-event footage whether 'Power' was consistently used as hype music.
 
@@ -463,7 +463,7 @@ Claim: At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planni
 Transcript Snippet: Then I'm going to probably take control of the RNC. I mean, he's 23 years old, right?
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-1000, N-1072, N-1075
+Related Nodes: N-10000, N-10072, N-10075
 Confidence: low
 Uncertainty: No artifact shown backing this anecdote; relies entirely on host recollection.
 Investigative Direction: Cross-reference any other contemporaneous accounts of this stated ambition; flag as self-reported through host.

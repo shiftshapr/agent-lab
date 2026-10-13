@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1620, N-1621, N-1622, N-1623, N-1624, N-1625
+  - New Nodes Introduced: N-10620, N-10621, N-10622, N-10623, N-10624, N-10625
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:21:46–00:28:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed/read in episode)
 
-*Related: C-2533, C-2534, C-2535, C-2536, N-1620*
+*Related: C-2533, C-2534, C-2535, C-2536, N-10620*
 
 **A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:29:39–00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-constructed graphic)
 
-*Related: C-2537, C-2538, N-1622*
+*Related: C-2537, C-2538, N-10622*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:33:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-2539, N-1623*
+*Related: C-2539, N-10623*
 
 ---
 
@@ -217,7 +217,7 @@ Confidence Level: Medium
 ## 4. Node Register
 
 
-**N-1620** September 10 Plane Logistics Discrepancy
+**N-10620** September 10 Plane Logistics Discrepancy
 
 Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and "on the plane" during the 1:30–3:25 p.m. Utah window.
 
@@ -230,7 +230,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1621** Tarmac Hug Account Discrepancy
+**N-10621** Tarmac Hug Account Discrepancy
 
 Host's recollection that Kolvet described being alone on a G5/G6 and "collapsing" into Erika's arms on the Provo tarmac, contrasted with later public story of his wife being on the plane; Erika did not corroborate the wife-on-plane fact when asked directly.
 
@@ -239,11 +239,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1620*
+*Related: N-10620*
 
 ---
 
-**N-1622** Egyptian Plane Transponding Correlation
+**N-10622** Egyptian Plane Transponding Correlation
 
 Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's "this just loaded" message; Wyre plane landings). Underlying data source not independently sourced in episode.
 
@@ -256,7 +256,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1623** Blake Neff "Two Phones" Implication
+**N-10623** Blake Neff "Two Phones" Implication
 
 Host interprets Blake Neff's phrasing "I put that phone away" after calling his mother as implying possession of a second phone.
 
@@ -269,7 +269,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1624** Joe Kent Leak Accusation Chain
+**N-10624** Joe Kent Leak Accusation Chain
 
 Sequence of public accusations (Alex Clark, Laura Loomer, Andrew Kolvet on-air) that Joe Kent leaked material specifically to harm Erika Kirk. Host contests this framing.
 
@@ -282,7 +282,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1625** Aubrey Termination Circumstances
+**N-10625** Aubrey Termination Circumstances
 
 Host alleges Aubrey was assigned death-statement drafting on Sept 10 while Andrew was unavailable, later terminated in connection with an Uber-driver conversation reported by Marina.
 
@@ -306,7 +306,7 @@ Claim: Joe Kent told Tucker Carlson that the National Counterterrorism Center wa
 Anchored Artifacts: A-1877.1
 Mentions: N-50, N-1, N-310
 
-Related Nodes: N-1620
+Related Nodes: N-10620
 
 Investigative Direction: Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities.
 
@@ -336,7 +336,7 @@ Claim: Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for
 Anchored Artifacts: A-1879.1 (related context); direct retweet not separately captured as artifact.
 Mentions: N-42, N-310
 
-Related Nodes: N-1624
+Related Nodes: N-10624
 
 Investigative Direction: Confirm via archived Kolvet X timeline.
 
@@ -353,7 +353,7 @@ Claim: Alex Clark posted on X that Joe Kent actively participated in or encourag
 Anchored Artifacts: A-1879.1
 Mentions: N-2, N-135, N-310
 
-Related Nodes: N-1624
+Related Nodes: N-10624
 
 Investigative Direction: Retrieve Clark's full X thread and any cited evidence.
 
@@ -383,7 +383,7 @@ Claim: Laura Loomer replied to Posobiec accusing Joe Kent of leaking information
 Anchored Artifacts: A-1880.2
 Mentions: N-3, N-91, N-2, N-310
 
-Related Nodes: N-1624
+Related Nodes: N-10624
 
 Investigative Direction: Retrieve Loomer's full post; trace whether she cites source for the accusation.
 
@@ -398,7 +398,7 @@ Claim: Andrew Kolvet stated on Charlie Kirk's radio show that he had provided th
 Anchored Artifacts: A-1878.1
 Mentions: N-42, N-1, N-310
 
-Related Nodes: N-1624
+Related Nodes: N-10624
 
 Investigative Direction: Obtain full unedited radio segment; verify chain of custody.
 
@@ -413,7 +413,7 @@ Claim: Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made p
 Anchored Artifacts: A-1878.2
 Mentions: N-42, N-310
 
-Related Nodes: N-1624
+Related Nodes: N-10624
 
 Investigative Direction: Verify against any direct messaging logs or third-party corroboration.
 
@@ -428,7 +428,7 @@ Claim: In the Sept 10 PR text chain, Andrew Kolvet had no outgoing message from 
 Anchored Artifacts: A-1881.1
 Mentions: N-42
 
-Related Nodes: N-1620
+Related Nodes: N-10620
 
 Investigative Direction: Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records.
 
@@ -443,7 +443,7 @@ Claim: At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: "S
 Anchored Artifacts: A-1881.1
 Mentions: N-42
 
-Related Nodes: N-1620
+Related Nodes: N-10620
 
 Investigative Direction: Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable.
 
@@ -458,7 +458,7 @@ Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aub
 Anchored Artifacts: A-1881.1
 Mentions: N-789
 
-Related Nodes: N-1620, N-1625
+Related Nodes: N-10620, N-10625
 
 Investigative Direction: Confirm via call detail records and corroborate with Aubrey directly if possible.
 
@@ -473,7 +473,7 @@ Claim: Aubrey, who drafted the Sept 10 death statement, was later terminated in 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
 Mentions: N-789
 
-Related Nodes: N-1625
+Related Nodes: N-10625
 
 Investigative Direction: Verify with Aubrey or HR/witness records.
 
@@ -489,7 +489,7 @@ Claim: An on-screen calendar graphic places Egyptian-plane transponding windows 
 
 Anchored Artifacts: A-1881.2
 
-Related Nodes: N-1620, N-1622
+Related Nodes: N-10620, N-10622
 
 Investigative Direction: Independently source the ADS-B / transponder data; verify aircraft identifiers and operators.
 
@@ -503,7 +503,7 @@ Claim: The Wyre-sponsored plane is shown on the on-screen calendar as routing Sc
 
 Anchored Artifacts: A-1881.2
 
-Related Nodes: N-1620, N-1622
+Related Nodes: N-10620, N-10622
 
 Investigative Direction: Verify against FAA flight plan / tail-number tracking.
 
@@ -518,7 +518,7 @@ Claim: Blake Neff, describing his call to his mother after the shooting, used th
 Anchored Artifacts: A-1882.1
 Mentions: N-224
 
-Related Nodes: N-1623
+Related Nodes: N-10623
 
 Investigative Direction: Direct verification only possible via Blake Neff or device forensics.
 
@@ -580,7 +580,7 @@ Claim: Candace Owens states she had never had a single communication with Joe Ke
 Anchored Artifacts: None (host testimony only)
 Mentions: N-3, N-1, N-310
 
-Related Nodes: N-1624
+Related Nodes: N-10624
 
 Investigative Direction: Verify via message logs, witness statements, or platform records.
 

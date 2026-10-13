@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-1228, N-1229, N-1230, N-1231, N-1232, N-1233
+  - New Nodes Introduced:  N-10228, N-10229, N-10230, N-10231, N-10232, N-10233
   - Reused Nodes Appearing: N-1, N-2, N-37
   - Hole-minted Nodes (wave3): N-629
 
@@ -67,7 +67,7 @@ Confidence Level: Medium (read-aloud artifact; screen capture of tweet not visib
 
 Description: Bowyer tweet responding to claim that staff "tampered with cameras," asserting "The law enforcement officers asked them to turn them over immediately so they didn't get lost in commotion before they took everyone into lockdown."
 
-*Related: C-1366, C-1370, C-1371, N-70, N-1228, N-37*
+*Related: C-1366, C-1370, C-1371, N-70, N-10228, N-37*
 
 **A-1220.2** Tyler Bowyer X post – DoJ department / audit denial
 
@@ -91,7 +91,7 @@ Confidence Level: Medium (read-aloud artifact)
 
 Description: Bowyer tweet asserting "there is camera footage all over that campus that the police have, plus all the cameras that we had. They likely won't release it until the trial."
 
-*Related: C-1367, N-70, N-1231, N-37*
+*Related: C-1367, N-70, N-10231, N-37*
 
 **A-1221** Andrew Kolvet Tucker Carlson Interview Clip
 
@@ -105,7 +105,7 @@ Confidence Level: High (audio/video clip referenced as played on air)
 
 Description: Kolvet on Tucker Carlson show defending the TPUSA staffer who removed SD cards from the camera behind Charlie Kirk. Asserts staffer was motivated by fear of theft (cited hats being stolen from the table), that the SD cards were given to the FBI, and quotes staffer as saying "Because I know people can be evil."
 
-*Related: C-1369, C-1370, N-42, N-1228*
+*Related: C-1369, C-1370, N-42, N-10228*
 
 **A-1222** Wall Street Journal Article – Alex Clark Profile
 
@@ -119,7 +119,7 @@ Confidence Level: High (article photo and text read aloud and shown)
 
 Description: Wall Street Journal feature on Alex Clark containing photographic image of Clark at the Charlie Kirk memorial site (described as showing her in "high boots" at the memorial). Direct quotes: "The very first thought that popped into my head was, 'I'm so glad that Charlie knew Jesus.'" Third thought: "'Thank God Trump is president.'" States Clark is 32. Praises FBI director Kash Patel and deputy Dan Bongino.
 
-*Related: C-1372, C-1373, N-135, N-1232*
+*Related: C-1372, C-1373, N-135, N-10232*
 
 **A-1223** Alex Clark Instagram Post
 
@@ -147,7 +147,7 @@ Confidence Level: High (full text read aloud on air)
 
 Description: Rob McCoy Instagram post stating: "Charlie Kirk was my friend and I was his pastor... He never operated nor entertained gossip or innuendo concerning Candace. My only comment I offer regarding Candace is this, I only wish that at this tragic time of mourning she would be the friend to Charlie that he was to her. He would never have treated Candace or her family in such a way had God forbid this tragedy been hers. A friend loves at all times. Proverbs."
 
-*Related: C-1374, N-45, N-1232*
+*Related: C-1374, N-45, N-10232*
 
 **A-1225** Pre-Assassination Group Chat Bundle
 
@@ -161,7 +161,7 @@ Confidence Level: Medium (read aloud; original chat provenance not independently
 
 Description: Text attributed to Charlie Kirk in a 9-person group chat: "Just lost another huge Jewish donor uh 2 million a year because we won't cancel Tucker. I'm thinking of inviting Candace."
 
-*Related: C-1375, C-1376, N-1229*
+*Related: C-1375, C-1376, N-10229*
 
 **A-1225.2** Charlie Kirk message – refusing to be bullied
 
@@ -173,7 +173,7 @@ Confidence Level: Medium
 
 Description: Text attributed to Charlie Kirk: "Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause."
 
-*Related: C-1376, N-1229, N-1230*
+*Related: C-1376, N-10229, N-10230*
 
 **A-1225.3** Donor reply – counsel against inviting Candace
 
@@ -185,7 +185,7 @@ Confidence Level: Medium
 
 Description: Reply from a donor participant: "Please do not invite Candace. That might feel good short-term, but it's not good long-term in my opinion."
 
-*Related: N-1229*
+*Related: N-10229*
 
 **A-1225.4** Candace verbal identification of Josh Hammer as participant
 
@@ -197,7 +197,7 @@ Confidence Level: Medium (verbal identification only; chat text not displayed ve
 
 Description: Host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.
 
-*Related: C-1377, N-42, N-1229*
+*Related: C-1377, N-42, N-10229*
 
 **A-1226** Pastor Sermon Clip
 
@@ -232,7 +232,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1221.1, C-1369, N-1228*
+*Related: A-1221.1, C-1369, N-10228*
 
 **N-135** Alex Clark
 
@@ -243,7 +243,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1222.1, A-1223.1, C-1372, C-1373, C-1379, N-1232*
+*Related: A-1222.1, A-1223.1, C-1372, C-1373, C-1379, N-10232*
 
 **N-45** Rob McCoy
 
@@ -254,9 +254,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1224.1, A-1225.4, C-1374, N-1232*
+*Related: A-1224.1, A-1225.4, C-1374, N-10232*
 
-**N-1228** SD Card Removal Narrative Discrepancy
+**N-10228** SD Card Removal Narrative Discrepancy
 
 Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).
 
@@ -267,7 +267,7 @@ Investigative Pressure: High
 
 *Related: A-1220.1, A-1221.1, C-1366, C-1369, C-1370, N-70, N-42*
 
-**N-1229** Pre-Assassination Group Chat Content
+**N-10229** Pre-Assassination Group Chat Content
 
 Group chat dated 2025-09-08 (per host assertion), 9 participants, including Charlie Kirk, Rob McCoy, and Josh Hammer. Contains statements attributed to Kirk about leaving the pro-Israel cause.
 
@@ -278,7 +278,7 @@ Investigative Pressure: High
 
 *Related: A-1225.1, A-1225.2, A-1225.3, A-1225.4, C-1375, C-1376, C-1377, N-1, N-45, N-42*
 
-**N-1230** Charlie Kirk Catholic Trajectory Verification
+**N-10230** Charlie Kirk Catholic Trajectory Verification
 
 Persistent thread across the series regarding Charlie Kirk's movement toward Catholicism (mass attendance, rosary, Saint Michael pendant, priest visits). Re-asserted in this episode via prior-episode references; no new artifact displayed in this episode for the underlying facts.
 
@@ -289,7 +289,7 @@ Investigative Pressure: Medium
 
 *Related: N-1, N-2*
 
-**N-1231** Campus Footage Release Strategy Question
+**N-10231** Campus Footage Release Strategy Question
 
 Bowyer's assertion that extensive campus footage exists but will not be released until trial – and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.
 
@@ -300,7 +300,7 @@ Investigative Pressure: High
 
 *Related: A-1220.3, C-1367, N-70*
 
-**N-1232** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
+**N-10232** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
 Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only – no artifact in this episode.
 
@@ -311,7 +311,7 @@ Investigative Pressure: Medium
 
 *Related: A-1224.1, N-135, N-45*
 
-**N-1233** Tyler Bowyer X Defense Pattern
+**N-10233** Tyler Bowyer X Defense Pattern
 
 Tyler Bowyer's weekend X/Twitter activity broadly defending TPUSA against public scrutiny across three discrete matters (SD cards, audits/DoJ, campus footage).
 
@@ -345,7 +345,7 @@ Anchored Artifacts: A-1220.1
 Mentions: N-37
 Contradicts: C-1369
 
-Related Nodes: N-1228
+Related Nodes: N-10228
 
 Investigative Direction: Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025.
 
@@ -358,7 +358,7 @@ Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah V
 Anchored Artifacts: A-1220.3
 Mentions: N-37
 
-Related Nodes: N-1231
+Related Nodes: N-10231
 
 Investigative Direction: FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing.
 
@@ -384,7 +384,7 @@ Anchored Artifacts: A-1221.1
 Mentions: N-42, N-50
 Contradicts: C-1366
 
-Related Nodes: N-1228
+Related Nodes: N-10228
 
 Investigative Direction: Obtain full clip; cross-reference against FBI evidentiary custody records.
 
@@ -397,7 +397,7 @@ Claim: The host asserts that Kolvet's stated rationale (fear of theft) and Bowye
 Anchored Artifacts: A-1220.1, A-1221.1
 Mentions: N-42, N-37
 
-Related Nodes: N-1228
+Related Nodes: N-10228
 
 Investigative Direction: Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025.
 
@@ -410,7 +410,7 @@ Claim: The host asserts she personally spoke with the TPUSA individual who remov
 Anchored Artifacts: None displayed
 Contradicts: C-1366, C-1369
 
-Related Nodes: N-1228
+Related Nodes: N-10228
 
 Investigative Direction: Independent corroboration required; flag for human verification. (Failed admission test – artifact anchor absent in this episode.)
 
@@ -423,7 +423,7 @@ Claim: A Wall Street Journal article published September 18, 2025 featured Alex 
 Anchored Artifacts: A-1222.1
 Mentions: N-135, N-1
 
-Related Nodes: N-1232
+Related Nodes: N-10232
 
 Investigative Direction: Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution.
 
@@ -436,7 +436,7 @@ Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Pate
 Anchored Artifacts: A-1222.1
 Mentions: N-135, N-102, N-629
 
-Related Nodes: N-1232
+Related Nodes: N-10232
 
 Investigative Direction: Verify quote against the original WSJ article.
 
@@ -449,7 +449,7 @@ Claim: Pastor Rob McCoy (TPUSA Faith Division head) published an Instagram post 
 Anchored Artifacts: A-1224.1
 Mentions: N-45
 
-Related Nodes: N-1232
+Related Nodes: N-10232
 
 Investigative Direction: Obtain post directly from McCoy's Instagram; verify timestamp and provenance.
 
@@ -462,7 +462,7 @@ Claim: A group chat dated 2 days before Charlie Kirk's assassination contained a
 Anchored Artifacts: A-1225.1
 Mentions: N-50, N-3, N-1
 
-Related Nodes: N-1229, N-1230
+Related Nodes: N-10229, N-10230
 
 Investigative Direction: Independent forensic authentication of chat metadata and participant identities; flag – original chat provenance not independently confirmed.
 
@@ -475,7 +475,7 @@ Claim: The same group chat contained a message attributed to Charlie Kirk statin
 Anchored Artifacts: A-1225.2
 Mentions: N-1
 
-Related Nodes: N-1229, N-1230
+Related Nodes: N-10229, N-10230
 
 Investigative Direction: Independent forensic authentication of chat; cross-reference against donor records and any contemporaneous statements from Kirk on the topic.
 
@@ -488,7 +488,7 @@ Claim: The host verbally identifies Josh Hammer as a participant on the pre-assa
 Anchored Artifacts: A-1225.4 (verbal identification in the context of displayed chat)
 Mentions: N-86
 
-Related Nodes: N-1229
+Related Nodes: N-10229
 
 Investigative Direction: Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle).
 

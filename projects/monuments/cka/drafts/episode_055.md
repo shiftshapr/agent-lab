@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704, N-1473, N-1474, N-1475, N-1476, N-1477, N-1478, N-1479
+  - New Nodes Introduced:  N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704, N-10473, N-10474, N-10475, N-10476, N-10477, N-10478, N-10479
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
 - **Claim Range:** C-2047–C-2072
 - **New Nodes Introduced (people):** , N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704
-- **New Nodes Introduced (investigation targets):** N-1473, N-1474, N-1475, N-1476, N-1477, N-1478, N-1479
+- **New Nodes Introduced (investigation targets):** N-10473, N-10474, N-10475, N-10476, N-10477, N-10478, N-10479
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dylan, Jerry Falwell Jr. (referenced by name without new ID)
 
 ---
@@ -61,7 +61,7 @@ Video Timestamp: 00:07:11–00:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript-only verification)
 
-*Related: C-2047, C-2048, N-42, N-1475*
+*Related: C-2047, C-2048, N-42, N-10475*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:23:45–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2049, C-2050, N-696, N-699, N-1473*
+*Related: C-2049, C-2050, N-696, N-699, N-10473*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:21:30–00:22:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2052, C-2053, N-696, N-1473*
+*Related: C-2052, C-2053, N-696, N-10473*
 
 **A-1610.2** Johnny Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:22:43–00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2054, N-696, N-1473*
+*Related: C-2054, N-696, N-10473*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:34:41–00:35:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named speakers, identifiable speech content)
 
-*Related: C-2057, N-701, N-1478*
+*Related: C-2057, N-701, N-10478*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:38:50–00:41:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2058, C-2059, C-2060, Megyn Kelly, Ben Shapiro, N-1477*
+*Related: C-2058, C-2059, C-2060, Megyn Kelly, Ben Shapiro, N-10477*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:46:41–00:47:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous social commentary)
 
-*Related: C-2061, Erica Kirk, N-1474*
+*Related: C-2061, Erica Kirk, N-10474*
 
 **A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kovette sleeps at night
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:25:34–00:26:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2055, C-2056, N-697, N-654, N-1473*
+*Related: C-2055, C-2056, N-697, N-654, N-10473*
 
 ---
 
@@ -283,7 +283,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1607.1, A-1613.2, C-2047, C-2048, N-1473, N-1474*
+*Related: A-1607.1, A-1613.2, C-2047, C-2048, N-10473, N-10474*
 
 ---
 
@@ -296,7 +296,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-697, N-654, N-1473*
+*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-697, N-654, N-10473*
 
 ---
 
@@ -309,7 +309,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, N-696, N-654, N-1473*
+*Related: A-1614.1, C-2055, N-696, N-654, N-10473*
 
 ---
 
@@ -322,7 +322,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, C-2056, N-697, N-1473*
+*Related: A-1614.1, C-2055, C-2056, N-697, N-10473*
 
 ---
 
@@ -335,7 +335,7 @@ Claim Count: 0 (artifacts about him are indirectly tied to Liberty University op
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, N-702, N-1473*
+*Related: A-1608.1, N-702, N-10473*
 
 ---
 
@@ -361,7 +361,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-1478*
+*Related: A-1611.1, C-2057, N-10478*
 
 ---
 
@@ -404,7 +404,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1473** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
+**N-10473** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
 
 Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolbett as it relates to Turning Point Faith / Falwell Center.
 
@@ -417,7 +417,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1474** Erika Kirk Handler Thesis
+**N-10474** Erika Kirk Handler Thesis
 
 Persistent investigative target tracking the claim (originating in fan comment) that Erica Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.
 
@@ -430,7 +430,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1475** Candace Owens Dream Vision of Andrew Kolbett
+**N-10475** Candace Owens Dream Vision of Andrew Kolbett
 
 Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolbett's face; framed by host as prophetic of Kolbett's role in PR operations.
 
@@ -443,7 +443,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1476** September 10 Plot Against Candace Owens
+**N-10476** September 10 Plot Against Candace Owens
 
 Persistent investigative target tracking the host's statement that a murder plot against her was discovered on September 10 (approximately one year after Charlie Kirk's assassination) and is "still making its way through the courts." Not artifact-supported in this episode.
 
@@ -456,7 +456,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1477** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10477** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Persistent investigative target tracking the pattern of attacks on Megyn Kelly for refusing to publicly condemn the host, culminating in a Ben Shapiro on-stage accusation of cowardice at Turning Point Amfest.
 
@@ -469,7 +469,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1478** Knesset Declaration of US Commentators as Israeli Enemies
+**N-10478** Knesset Declaration of US Commentators as Israeli Enemies
 
 Persistent investigative target tracking the Likud party speech in the Knesset naming Tucker Carlson and Candace Owens as enemies of Israel.
 
@@ -478,11 +478,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-701, N-1479*
+*Related: A-1611.1, C-2057, N-701, N-10479*
 
 ---
 
-**N-1479** Turning Point USA Estate Planning Solicitation
+**N-10479** Turning Point USA Estate Planning Solicitation
 
 Persistent investigative target tracking the claim that Turning Point USA has begun soliciting 401k pledges, property, and estate/will inclusions from donors, with the host drawing an explicit comparison to the Unification Church's financial pattern in Japan.
 
@@ -506,7 +506,7 @@ Claim: The host presented a text message she sent to Andrew Kolbett describing a
 Anchored Artifacts: A-1607.1
 Mentions: N-42, N-3, N-1
 
-Related Nodes: N-1475
+Related Nodes: N-10475
 
 Investigative Direction: Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.
 
@@ -521,7 +521,7 @@ Claim: The host stated that Andrew Kolbett did not respond to her text message a
 Anchored Artifacts: A-1607.1 (by contextual reference within the same exchange)
 Mentions: N-42, N-3
 
-Related Nodes: N-1475
+Related Nodes: N-10475
 
 Investigative Direction: Verify non-reply independently; cross-check any subsequent communication records between the two parties.
 
@@ -536,7 +536,7 @@ Claim: Christianity Today published that "Johnny Moore was only 14 when he first
 Anchored Artifacts: A-1608.1
 Mentions: N-696, N-699
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Retrieve the original Christianity Today article; identify author, publication date, and full article context.
 
@@ -551,7 +551,7 @@ Claim: Christianity Today reported that Moore and his single-mother family brief
 Anchored Artifacts: A-1608.1
 Mentions: N-696
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Retrieve original Christianity Today article and corroborate against any independent biographical sources.
 
@@ -580,7 +580,7 @@ Claim: In audio played on the episode, Johnny Moore stated he is "a part of the 
 Anchored Artifacts: A-1610.1
 Mentions: N-696
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.
 
@@ -595,7 +595,7 @@ Claim: Johnny Moore stated in the audio clip that he is on the advisory board fo
 Anchored Artifacts: A-1610.1
 Mentions: N-696
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Verify advisory board membership through both organizations' published directories.
 
@@ -610,7 +610,7 @@ Claim: Johnny Moore stated in audio that he is committed to "building a great wa
 Anchored Artifacts: A-1610.2
 Mentions: N-696
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Identify the original venue and date of this speech; verify exact wording through primary source.
 
@@ -625,7 +625,7 @@ Claim: The host presented a Sun Myung Moon quotation declaring Ron Godwin to be 
 Anchored Artifacts: A-1614.1
 Mentions: N-654, N-697
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.
 
@@ -640,7 +640,7 @@ Claim: The host presented a Sun Myung Moon quotation stating: "Each one of you w
 Anchored Artifacts: A-1614.1
 Mentions: N-654, N-697
 
-Related Nodes: N-1473
+Related Nodes: N-10473
 
 Investigative Direction: Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.
 
@@ -655,7 +655,7 @@ Claim: An unidentified Likud party member, speaking in the Knesset, declared Tuc
 Anchored Artifacts: A-1611.1
 Mentions: N-701, N-50, N-3
 
-Related Nodes: N-1478
+Related Nodes: N-10478
 
 Investigative Direction: Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.
 
@@ -670,7 +670,7 @@ Claim: Megyn Kelly stated in interview that pro-Israel Jewish friends sent her n
 Anchored Artifacts: A-1612.1
 Mentions: N-75
 
-Related Nodes: N-1477
+Related Nodes: N-10477
 
 Investigative Direction: Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible.
 
@@ -685,7 +685,7 @@ Claim: Megyn Kelly stated in interview that she was accused of anti-Semitism spe
 Anchored Artifacts: A-1612.1
 Mentions: N-3, N-75
 
-Related Nodes: N-1477
+Related Nodes: N-10477
 
 Investigative Direction: Identify accusers; obtain interview transcript.
 
@@ -700,7 +700,7 @@ Claim: Megyn Kelly stated in interview that Ben Shapiro called her a coward at t
 Anchored Artifacts: A-1612.1
 Mentions: N-3, N-75, N-133
 
-Related Nodes: N-1477
+Related Nodes: N-10477
 
 Investigative Direction: Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.
 
@@ -715,7 +715,7 @@ Claim: A top comment from a user identified as "count" claimed that "Erika is th
 Anchored Artifacts: A-1613.1
 Mentions: N-1, N-2
 
-Related Nodes: N-1474
+Related Nodes: N-10474
 
 Investigative Direction: Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
 
@@ -871,7 +871,7 @@ Claim: The host stated that approximately one year after Charlie Kirk's assassin
 Anchored Artifacts: (none presented in this episode)
 Mentions: N-3, N-1
 
-Related Nodes: N-1476
+Related Nodes: N-10476
 
 Investigative Direction: Identify the court proceeding, jurisdiction, and any public filings or DOJ announcements. *Flag: Claim failed artifact anchor test; serious allegation requires verification.*
 
@@ -885,7 +885,7 @@ Claim: The host stated that Turning Point USA has evolved from soliciting one-ti
 
 Anchored Artifacts: (none presented in this episode)
 
-Related Nodes: N-1479
+Related Nodes: N-10479
 
 Investigative Direction: Review Turning Point USA's publicly available donation solicitations, IRS Form 990 filings, and any state charitable solicitation registrations. *Flag: Claim failed artifact anchor test; requires documentary corroboration.*
 

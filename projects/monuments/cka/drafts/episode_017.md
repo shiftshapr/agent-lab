@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-238, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
+  - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-238, N-242, N-243, N-245, N-10240, N-10241, N-10242, N-10243, N-10244, N-10245
   - Reused Nodes Appearing: 
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-37
@@ -35,7 +35,7 @@
 - Transcript Completeness Status: Full episode transcript provided; sponsor block segments retained verbatim
 - Analyst / Agent: OpenClaw Investigative Analysis Agent
 - Analysis Date: 2025-10-09
-- Ledger Continuation Summary: Episode 17 of Bride of Charlie Monument series; first three families carry new IDs A-1236+ for Josh Hammer and Yashar Ali artifacts, C-1404+ for claim range, N-42+ for new people, N-1240+ for new investigation targets
+- Ledger Continuation Summary: Episode 17 of Bride of Charlie Monument series; first three families carry new IDs A-1236+ for Josh Hammer and Yashar Ali artifacts, C-1404+ for claim range, N-42+ for new people, N-10240+ for new investigation targets
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1404, C-1405, C-1415, N-42, N-1240*
+*Related: C-1404, C-1405, C-1415, N-42, N-10240*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:07:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim in transcript)
 
-*Related: C-1405, C-1406, N-42, N-226, N-227, N-1245*
+*Related: C-1405, C-1406, N-42, N-226, N-227, N-10245*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:13:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim in transcript)
 
-*Related: C-1409, N-228, N-227, N-1245*
+*Related: C-1409, N-228, N-227, N-10245*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (paraphrase with quoted phrases; read aloud)
 
-*Related: C-1410, N-42, N-1240*
+*Related: C-1410, N-42, N-10240*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:11:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-constructed from X timeline, partial primary verification possible)
 
-*Related: C-1420, N-42, N-1240*
+*Related: C-1420, N-42, N-10240*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode with full transcriptable quote)
 
-*Related: C-1411, C-1412, C-1414, N-42, N-243, N-1244, N-72*
+*Related: C-1411, C-1412, C-1414, N-42, N-243, N-10244, N-72*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:29:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1413, C-1414, C-1416, N-229, N-1244*
+*Related: C-1413, C-1414, C-1416, N-229, N-10244*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:53:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1416, C-1417, N-128, N-233, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
+*Related: C-1416, C-1417, N-128, N-233, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10242*
 
 ---
 
@@ -307,7 +307,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1237.1, C-1405, N-42, N-1245*
+*Related: A-1237.1, C-1405, N-42, N-10245*
 
 ---
 
@@ -323,7 +323,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (factual anchor only)
 
-*Related: A-1237.1, A-1238.1, A-1250.1, C-1406, N-42, N-1245*
+*Related: A-1237.1, A-1238.1, A-1250.1, C-1406, N-42, N-10245*
 
 ---
 
@@ -349,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1243.1, C-1413, C-1414, C-1416, N-1244*
+*Related: A-1243.1, C-1413, C-1414, C-1416, N-10244*
 
 ---
 
@@ -377,7 +377,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, C-1416, N-1242*
+*Related: A-1246.1, C-1416, N-10242*
 
 ---
 
@@ -390,7 +390,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-1242*
+*Related: A-1246.1, N-10242*
 
 ---
 
@@ -403,7 +403,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1416, N-1242*
+*Related: C-1416, N-10242*
 
 ---
 
@@ -483,7 +483,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1, N-42, N-1244*
+*Related: N-1, N-42, N-10244*
 
 ---
 
@@ -509,7 +509,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-1242*
+*Related: A-1246.1, N-10242*
 
 ---
 
@@ -522,7 +522,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-1242*
+*Related: A-1246.1, N-10242*
 
 ---
 
@@ -541,7 +541,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1240** Josh Hammer September 9 Retweet Context Investigation
+**N-10240** Josh Hammer September 9 Retweet Context Investigation
 
 Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zhuravska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).
 
@@ -554,7 +554,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1241** UVU Left-Side Footage Black Hole
+**N-10241** UVU Left-Side Footage Black Hole
 
 Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.
 
@@ -567,7 +567,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1242** Candace Kill Switch / Dead Man Switch
+**N-10242** Candace Kill Switch / Dead Man Switch
 
 Investigation target / verification node: the existence, recipients, and content of Candace Owens's "kill switch" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.
 
@@ -580,7 +580,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1243** Charlie Kirk Final-Days Text Communications
+**N-10243** Charlie Kirk Final-Days Text Communications
 
 Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) "they are going to kill me" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.
 
@@ -595,7 +595,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1244** Hamptons Meeting Verification
+**N-10244** Hamptons Meeting Verification
 
 Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.
 
@@ -608,7 +608,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1245** Iryna Zhuravska Murder Timeline Verification
+**N-10245** Iryna Zhuravska Murder Timeline Verification
 
 Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.
 
@@ -640,7 +640,7 @@ Claim: Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer r
 
 Anchored Artifacts: A-1236.1, A-1248.1
 Mentions: N-86, N-1, N-5
-Related Nodes: N-1240
+Related Nodes: N-10240
 
 Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.
 
@@ -654,7 +654,7 @@ Claim: Yashar Ali posted a quote-tweet asserting the Hammer retweet referenced t
 
 Anchored Artifacts: A-1237.1
 Mentions: N-86, N-226, N-227
-Related Nodes: N-1245
+Related Nodes: N-10245
 
 Investigative Direction: Verify Yashar Ali's exact post text and timing against X archives; verify whether the "day prior" framing matches the post dates of alleged "many conservatives."
 
@@ -668,7 +668,7 @@ Claim: Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arre
 
 Anchored Artifacts: A-1238.1 (Matt Walsh's September 5 tweet is documentary anchor for the September 5 date)
 Mentions: N-227, N-228
-Related Nodes: N-1245
+Related Nodes: N-10245
 
 Investigative Direction: Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.
 
@@ -721,7 +721,7 @@ Claim: Prior to September 9, 2025, Josh Hammer's only documented reference to pu
 
 Anchored Artifacts: A-1239.2
 Mentions: N-86
-Related Nodes: N-1240
+Related Nodes: N-10240
 
 Investigative Direction: Query X archive for "public execution" within Hammer's account history; verify no other prior episodes.
 
@@ -735,7 +735,7 @@ Claim: Josh Hammer's first X post following the announcement of Charlie Kirk's d
 
 Anchored Artifacts: A-1241.1
 Mentions: N-86, N-1
-Related Nodes: N-1243
+Related Nodes: N-10243
 
 Investigative Direction: Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.
 
@@ -749,7 +749,7 @@ Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk
 
 Anchored Artifacts: A-1242.1
 Mentions: N-86, N-243, N-1
-Related Nodes: N-1243, N-1244
+Related Nodes: N-10243, N-10244
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
 
@@ -763,7 +763,7 @@ Claim: In his post-assassination interview, Rabbi Pesach Wolicki stated that Cha
 
 Anchored Artifacts: A-1243.1
 Mentions: N-229, N-1
-Related Nodes: N-1244
+Related Nodes: N-10244
 
 Investigative Direction: Verify full Wolicki interview; obtain unedited transcript.
 
@@ -777,7 +777,7 @@ Claim: Wolicki stated the pre-assassination meeting was called by Charlie, was o
 
 Anchored Artifacts: A-1243.1
 Mentions: N-229
-Related Nodes: N-1244
+Related Nodes: N-10244
 
 Investigative Direction: Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.
 
@@ -804,7 +804,7 @@ Claim: Alex Jones, on his show, confirmed that Candace Owens sent a "dead man's 
 
 Anchored Artifacts: A-1246.1
 Mentions: N-68, N-128, N-233, N-242, N-50, N-78, N-3
-Related Nodes: N-1242
+Related Nodes: N-10242
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
 
@@ -818,7 +818,7 @@ Claim: Alex Jones cited James O'Keefe's dead-man-switch disclosure in the Prince
 
 Anchored Artifacts: A-1246.1
 Mentions: N-128, N-233
-Related Nodes: N-1242
+Related Nodes: N-10242
 
 Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.
 
@@ -858,7 +858,7 @@ Claim: On September 9, 2025, Josh Hammer posted nine X items covering Phillies s
 
 Anchored Artifacts: A-1240.1
 Mentions: N-86
-Related Nodes: N-1240
+Related Nodes: N-10240
 
 Investigative Direction: Verify each timestamp and content against X archive.
 
@@ -886,7 +886,7 @@ Claim Timestamp: 00:43:02
 Claim: There is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event; Turning Point has not released high-resolution footage of that angle.
 
 Anchored Artifacts: None (host-issued bulletin, not artifact-anchored)
-Related Nodes: N-1241
+Related Nodes: N-10241
 
 Investigative Direction: Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable.
 
@@ -901,7 +901,7 @@ Claim Timestamp: 00:42:00
 Claim: Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.
 
 Anchored Artifacts: None (host bulletin / APB)
-Related Nodes: N-1241
+Related Nodes: N-10241
 
 Investigative Direction: Tip-line intake processing and review of footage submitted to tips@candaceowens.com.
 
@@ -941,18 +941,18 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 Cross-references are embedded in each artifact, claim, and node entry above. Network summary:
 
-- **Central investigative thread:** A-1236.1 → C-1404 → N-42 → N-1240
-- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1405 → N-226 → N-227 → N-1245 (contradiction: Ali date vs. C-1406 Sept 5 anchor)
+- **Central investigative thread:** A-1236.1 → C-1404 → N-42 → N-10240
+- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1405 → N-226 → N-227 → N-10245 (contradiction: Ali date vs. C-1406 Sept 5 anchor)
 - **Comparative anchor:** A-1238.1 ↔ C-1409 ↔ N-228
-- **Historical precedent:** A-1239.2 ↔ C-1410 ↔ N-42 ↔ N-1240
+- **Historical precedent:** A-1239.2 ↔ C-1410 ↔ N-42 ↔ N-10240
 - **Self-incriminating post:** A-1239.1 ↔ C-1419 ↔ N-42
-- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1411, C-1412, C-1413, C-1414 ↔ N-42 ↔ N-229 ↔ N-1 ↔ N-1243 ↔ N-1244 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
+- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1411, C-1412, C-1413, C-1414 ↔ N-42 ↔ N-229 ↔ N-1 ↔ N-10243 ↔ N-10244 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
 - **Memorial analogy:** A-1244.1 ↔ C-1407
 - **External attack:** A-1245.1, A-1245.2 ↔ C-1415 ↔ N-235, N-238
-- **Kill switch confirmation:** A-1246.1 ↔ C-1416 ↔ C-1417 ↔ N-128 ↔ N-233 ↔ N-68 ↔ N-242 ↔ N-1242
+- **Kill switch confirmation:** A-1246.1 ↔ C-1416 ↔ C-1417 ↔ N-128 ↔ N-233 ↔ N-68 ↔ N-242 ↔ N-10242
 - **Comic relief artifact (non-evidentiary):** A-1247.1 ↔ C-1417 ↔ N-231
-- **UVU APB cluster (un-anchored):** N-1241 ↔ C-1422 ↔ C-1423
-- **Un-anchored Charlie-text-cluster:** N-1243 (artifact verbally referenced but not shown)
+- **UVU APB cluster (un-anchored):** N-10241 ↔ C-1422 ↔ C-1423
+- **Un-anchored Charlie-text-cluster:** N-10243 (artifact verbally referenced but not shown)
 
 ---
 
@@ -1001,7 +1001,7 @@ Confidence: high
 - **Name uncertainty (Yishai):** A-1245.2 attributed to "Yishai" only; full handle not captured.
 - **Name uncertainty (Ali):** JTV host in A-1242.1 referred to only by first name "Ali." N-243 created with that exact spelling.
 - **Name uncertainty (Sam Parker):** Referenced by Yashar Ali (A-1237.1) as "notorious neo-Nazi Sam Parker." Not anchored independently in this episode.
-- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-1243, C-1411 through C-1414 adjacency); the John and Arena Mapel letter (referenced in comments but not displayed).
+- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-10243, C-1411 through C-1414 adjacency); the John and Arena Mapel letter (referenced in comments but not displayed).
 - **Claim failed admission test:** C-1421 (Tyler Bowyer), C-1422 (UVU footage black hole), C-1423 (UVU suspect profile bulletin) – no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.
 - **Transcript ambiguity (Trump quote wording):** Host reads "Should be public execution for all to see. You will end this bull fast." – word "bull" preserved as is; may be a transcription artifact of a stronger word.
 - **Timestamp uncertainty:** The JTV segment (A-1242.1) is described as "a few days after Charlie's death" but not dated explicitly; the Gabriel media appearance (A-1250.1) is undated; the Wolicki interview (A-1243.1) is undated. Best-effort anchor dates preserved only as "post-Sept-10."

@@ -84,7 +84,7 @@
             "C-3332"
           ],
           "related_nodes": [
-            "N-2214"
+            "N-11214"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -135,7 +135,7 @@
             "C-3337"
           ],
           "related_nodes": [
-            "N-2213"
+            "N-11213"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
             "C-3339"
           ],
           "related_nodes": [
-            "N-2213"
+            "N-11213"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-3335"
           ],
           "related_nodes": [
-            "N-2213"
+            "N-11213"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -211,7 +211,7 @@
             "C-3334"
           ],
           "related_nodes": [
-            "N-2213"
+            "N-11213"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -272,8 +272,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2213",
-      "ref": "N-2213",
+      "@id": "N-11213",
+      "ref": "N-11213",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
       "type": "investigation_target",
       "description": "Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination.",
@@ -299,8 +299,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2214",
-      "ref": "N-2214",
+      "@id": "N-11214",
+      "ref": "N-11214",
       "name": "NCRI Report Provenance and Authorship",
       "type": "investigation_target",
       "description": "Persistent question regarding the authorship, funding, and institutional backing of the NCRI \"Permission to Kill\" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet.",
@@ -320,8 +320,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2215",
-      "ref": "N-2215",
+      "@id": "N-11215",
+      "ref": "N-11215",
       "name": "Charlie Kirk September 9, 2025 Text Messages",
       "type": "investigation_target",
       "description": "Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification.",
@@ -609,7 +609,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-2214"
+        "N-11214"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -628,7 +628,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-2214"
+        "N-11214"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -647,7 +647,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-2214"
+        "N-11214"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -684,7 +684,7 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-2213"
+        "N-11213"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
@@ -703,7 +703,7 @@
         "A-2316.1"
       ],
       "related_nodes": [
-        "N-2213"
+        "N-11213"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
@@ -723,7 +723,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-2213"
+        "N-11213"
       ],
       "tags": [],
       "claim_timestamp": "00:34:07",
@@ -739,7 +739,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-2213"
+        "N-11213"
       ],
       "tags": [],
       "claim_timestamp": "00:34:53",
@@ -786,7 +786,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-2213"
+        "N-11213"
       ],
       "tags": [],
       "claim_timestamp": "00:32:35",
@@ -859,7 +859,7 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-2213"
+        "N-11213"
       ],
       "tags": [],
       "claim_timestamp": "00:35:45",

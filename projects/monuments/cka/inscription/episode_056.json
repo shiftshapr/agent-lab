@@ -88,7 +88,7 @@
             "N-707",
             "N-708",
             "N-70",
-            "N-1480"
+            "N-10480"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-710",
-            "N-1481"
+            "N-10481"
           ],
           "tags": [],
           "video_timestamp": "00:18:40",
@@ -140,7 +140,7 @@
           "related_nodes": [
             "N-710",
             "N-711",
-            "N-1481"
+            "N-10481"
           ],
           "tags": [],
           "video_timestamp": "00:21:42",
@@ -246,7 +246,7 @@
           "related_nodes": [
             "N-712",
             "N-713",
-            "N-1482"
+            "N-10482"
           ],
           "tags": [],
           "video_timestamp": "00:32:12",
@@ -262,7 +262,7 @@
           ],
           "related_nodes": [
             "N-713",
-            "N-1482"
+            "N-10482"
           ],
           "tags": [],
           "video_timestamp": "00:34:03",
@@ -278,7 +278,7 @@
           ],
           "related_nodes": [
             "N-713",
-            "N-1482"
+            "N-10482"
           ],
           "tags": [],
           "video_timestamp": "00:35:00",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1483"
+            "N-10483"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -402,7 +402,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1480"
+        "N-10480"
       ]
     },
     {
@@ -424,7 +424,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1480"
+        "N-10480"
       ]
     },
     {
@@ -447,7 +447,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-707",
-        "N-1480"
+        "N-10480"
       ]
     },
     {
@@ -472,7 +472,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-711",
-        "N-1481"
+        "N-10481"
       ]
     },
     {
@@ -503,7 +503,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-710",
-        "N-1481"
+        "N-10481"
       ]
     },
     {
@@ -526,7 +526,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-713",
-        "N-1482"
+        "N-10482"
       ]
     },
     {
@@ -551,7 +551,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-712",
-        "N-1482"
+        "N-10482"
       ]
     },
     {
@@ -652,8 +652,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1480",
-      "ref": "N-1480",
+      "@id": "N-10480",
+      "ref": "N-10480",
       "name": "Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients",
       "type": "investigation_target",
       "description": "Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.",
@@ -679,8 +679,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1481",
-      "ref": "N-1481",
+      "@id": "N-10481",
+      "ref": "N-10481",
       "name": "TPUSA Board Member Military–Satanism Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: link between a TPUSA board member (Paul Valli) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).",
@@ -712,8 +712,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1482",
-      "ref": "N-1482",
+      "@id": "N-10482",
+      "ref": "N-10482",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
       "type": "investigation_target",
       "description": "Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Hascgard alleging abuse of children at a Romanian shelter.",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1483",
-      "ref": "N-1483",
+      "@id": "N-10483",
+      "ref": "N-10483",
       "name": "Erica Kirk June 19 Instagram Purge",
       "type": "investigation_target",
       "description": "Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.",
@@ -837,7 +837,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-1480"
+        "N-10480"
       ],
       "tags": [],
       "claim_timestamp": "00:13:58",
@@ -857,7 +857,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-1480"
+        "N-10480"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
@@ -876,7 +876,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-1480"
+        "N-10480"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
@@ -897,7 +897,7 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-1480"
+        "N-10480"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -916,7 +916,7 @@
         "A-1620.1"
       ],
       "related_nodes": [
-        "N-1481"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
@@ -935,7 +935,7 @@
         "A-1621.1"
       ],
       "related_nodes": [
-        "N-1481"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
@@ -955,7 +955,7 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-1481"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
@@ -975,7 +975,7 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-1481"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
@@ -994,7 +994,7 @@
         "A-1623.1"
       ],
       "related_nodes": [
-        "N-1481"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
@@ -1013,7 +1013,7 @@
         "A-1623.2"
       ],
       "related_nodes": [
-        "N-1481"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
@@ -1032,7 +1032,7 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-1482"
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:32:12",
@@ -1051,7 +1051,7 @@
         "A-1624.2"
       ],
       "related_nodes": [
-        "N-1482"
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:34:03",
@@ -1070,7 +1070,7 @@
         "A-1624.3"
       ],
       "related_nodes": [
-        "N-1482"
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00",
@@ -1106,7 +1106,7 @@
         "A-1626.1"
       ],
       "related_nodes": [
-        "N-1483"
+        "N-10483"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",

@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-70",
-            "N-1228"
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -71,7 +71,7 @@
           ],
           "related_nodes": [
             "N-70",
-            "N-1231"
+            "N-10231"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1228"
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
           ],
           "related_nodes": [
             "N-135",
-            "N-1232"
+            "N-10232"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
           ],
           "related_nodes": [
             "N-45",
-            "N-1232"
+            "N-10232"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -208,7 +208,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1229"
+            "N-10229"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -227,8 +227,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1229",
-            "N-1230"
+            "N-10229",
+            "N-10230"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
           "description": "Donor reply – counsel against inviting Candace",
           "related_claims": [],
           "related_nodes": [
-            "N-1229"
+            "N-10229"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1229"
+            "N-10229"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,7 +319,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1228"
+        "N-10228"
       ]
     },
     {
@@ -344,7 +344,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1232"
+        "N-10232"
       ]
     },
     {
@@ -367,13 +367,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1232"
+        "N-10232"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1228",
-      "ref": "N-1228",
+      "@id": "N-10228",
+      "ref": "N-10228",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).",
@@ -398,8 +398,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1229",
-      "ref": "N-1229",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "Pre-Assassination Group Chat Content",
       "type": "investigation_target",
       "description": "Group chat dated 2025-09-08 (per host assertion), 9 participants, including Charlie Kirk, Rob McCoy, and Josh Hammer. Contains statements attributed to Kirk about leaving the pro-Israel cause.",
@@ -427,8 +427,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1230",
-      "ref": "N-1230",
+      "@id": "N-10230",
+      "ref": "N-10230",
       "name": "Charlie Kirk Catholic Trajectory Verification",
       "type": "investigation_target",
       "description": "Persistent thread across the series regarding Charlie Kirk's movement toward Catholicism (mass attendance, rosary, Saint Michael pendant, priest visits). Re-asserted in this episode via prior-episode references; no new artifact displayed in this episode for the underlying facts.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1231",
-      "ref": "N-1231",
+      "@id": "N-10231",
+      "ref": "N-10231",
       "name": "Campus Footage Release Strategy Question",
       "type": "investigation_target",
       "description": "Bowyer's assertion that extensive campus footage exists but will not be released until trial – and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.",
@@ -468,8 +468,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1232",
-      "ref": "N-1232",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
       "type": "investigation_target",
       "description": "Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only – no artifact in this episode.",
@@ -489,8 +489,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1233",
-      "ref": "N-1233",
+      "@id": "N-10233",
+      "ref": "N-10233",
       "name": "Tyler Bowyer X Defense Pattern",
       "type": "investigation_target",
       "description": "Tyler Bowyer's weekend X/Twitter activity broadly defending TPUSA against public scrutiny across three discrete matters (SD cards, audits/DoJ, campus footage).",
@@ -651,7 +651,7 @@
         "A-1220.1"
       ],
       "related_nodes": [
-        "N-1228"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:24:03",
@@ -673,7 +673,7 @@
         "A-1220.3"
       ],
       "related_nodes": [
-        "N-1231"
+        "N-10231"
       ],
       "tags": [],
       "claim_timestamp": "00:26:20",
@@ -709,7 +709,7 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-1228"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:22:06",
@@ -733,7 +733,7 @@
         "A-1221.1"
       ],
       "related_nodes": [
-        "N-1228"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:24:03",
@@ -751,7 +751,7 @@
       "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage – not police instruction or theft concerns.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1228"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:25:39",
@@ -771,7 +771,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-1232"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:37:10",
@@ -791,7 +791,7 @@
         "A-1222.1"
       ],
       "related_nodes": [
-        "N-1232"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:38:03",
@@ -812,7 +812,7 @@
         "A-1224.1"
       ],
       "related_nodes": [
-        "N-1232"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:13:08",
@@ -831,8 +831,8 @@
         "A-1225.1"
       ],
       "related_nodes": [
-        "N-1229",
-        "N-1230"
+        "N-10229",
+        "N-10230"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -853,8 +853,8 @@
         "A-1225.2"
       ],
       "related_nodes": [
-        "N-1229",
-        "N-1230"
+        "N-10229",
+        "N-10230"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -873,7 +873,7 @@
         "A-1225.4"
       ],
       "related_nodes": [
-        "N-1229"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:17:45",

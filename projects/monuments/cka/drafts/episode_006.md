@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
   - Claim Range: C-1205-C-1227
-  - New Nodes Introduced: N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-126, N-127, N-1130, N-1131, N-1132, N-1133, N-1134, N-1135, N-1136, N-1138, N-1139, N-1140, N-1141, N-1142, N-1143, N-1144, N-1145, N-1146, N-1147
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-65, N-66, N-69, N-75, N-5, N-88, N-99, N-84, N-107, N-115, N-1000, N-1077, N-1091, N-1079
+  - New Nodes Introduced: N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-126, N-127, N-10130, N-10131, N-10132, N-10133, N-10134, N-10135, N-10136, N-10138, N-10139, N-10140, N-10141, N-10142, N-10143, N-10144, N-10145, N-10146, N-10147
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-65, N-66, N-69, N-75, N-5, N-88, N-99, N-84, N-107, N-115, N-10000, N-10077, N-10091, N-10079
 
 ## 2. Executive Summary
 
@@ -52,7 +52,7 @@ Confidence: high
 
 **A-1121.1** Senate bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day
 Video Timestamp: 00:00:57–00:01:10
-*Related: C-1210, N-1131, N-1147*
+*Related: C-1210, N-10131, N-10147*
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Confidence: medium
 
@@ -62,7 +62,7 @@ Confidence: medium
 
 **A-1122.1** Host's text message exchange with camera individual explaining his actions
 Video Timestamp: 00:07:15–00:08:48
-*Related: C-1208, N-118, N-1000*
+*Related: C-1208, N-118, N-10000*
 Transcript Snippet: I was sitting right to the left or or to the left of Charlie when Charlie got shot ... I better secure the footage. ... hand that footage over to the feds.
 Confidence: high
 
@@ -79,7 +79,7 @@ Uncertainty: Underlying footage not shown in episode; relies on host's account.
 
 **A-1123.1** Viewer email detailing valves as critical infrastructure monitored by intelligence agencies (CISA, NSA, FERC)
 Video Timestamp: 00:17:21–00:19:21
-*Related: C-1217, C-1218, N-1130, N-1132, N-1133, N-1134*
+*Related: C-1217, C-1218, N-10130, N-10132, N-10133, N-10134*
 Transcript Snippet: Valves as critical infrastructure assets. ... intelligence and regulatory agencies, the uh CISA, NSA, PH, MSA, FERC monitor valve networks
 Confidence: high
 
@@ -89,7 +89,7 @@ Confidence: high
 
 **A-1124.1** Daily Mail article by Victoria Churchill headlined 'Candace Owens rages after being snubbed from Kirk memorial'
 Video Timestamp: 00:24:46–00:24:59
-*Related: C-1211, C-1219, N-119, N-1135*
+*Related: C-1211, C-1219, N-119, N-10135*
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Confidence: high
 
@@ -99,7 +99,7 @@ Confidence: high
 
 **A-1125.1** PBD podcast clip featuring Bill Aman and Andrew Kovit discussing Candace's TPUSA involvement
 Video Timestamp: 00:25:57–00:27:32
-*Related: C-1212, C-1213, N-88, N-66, N-42, N-1000*
+*Related: C-1212, C-1213, N-88, N-66, N-42, N-10000*
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016... she's not even invited
 Confidence: high
 
@@ -109,7 +109,7 @@ Confidence: high
 
 **A-1126.1** Pam Bondi on Katie Miller podcast stating government will target hate speech
 Video Timestamp: 00:35:09–00:35:39
-*Related: C-1214, N-120, N-121, N-1145*
+*Related: C-1214, N-120, N-121, N-10145*
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Confidence: high
 
@@ -135,7 +135,7 @@ Confidence: high
 
 **A-1128.1** FCC Chairman Brendan Carr on Benny Johnson show threatening federal action against ABC affiliates carrying Kimmel
 Video Timestamp: 00:42:01–00:42:55
-*Related: C-1220, N-123, N-124, N-1136, N-1145*
+*Related: C-1220, N-123, N-124, N-10136, N-10145*
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Confidence: high
 
@@ -161,13 +161,13 @@ Confidence: medium
 
 **A-1130.1** Footage of Candace Owens speaking on Turning Point USA stage from prior tour/conference
 Video Timestamp: 00:27:53–00:29:26
-*Related: C-1223, N-3, N-1000*
+*Related: C-1223, N-3, N-10000*
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... America first. First name America, last name first
 Confidence: high
 
 **A-1130.2** Live Free Tour promotional material featuring Charlie Kirk and Candace Owens
 Video Timestamp: 00:29:24–00:29:37
-*Related: C-1223, N-1, N-3, N-1000*
+*Related: C-1223, N-1, N-3, N-10000*
 Transcript Snippet: Live free tour. Charlie Kirk and Candace Owens
 Confidence: high
 
@@ -177,7 +177,7 @@ Confidence: high
 
 **A-1131.1** FBI-released text exchange between accused shooter Tyler Robinson and his partner Lance
 Video Timestamp: 00:44:30–00:46:41
-*Related: C-1224, N-69, N-84, N-1079*
+*Related: C-1224, N-69, N-84, N-10079*
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance... what went wrong? FBI
 Confidence: high
 
@@ -451,7 +451,7 @@ Referenced as prior investigation target whose family had valve/pipe industry ba
 
 ---
 
-**N-1000** Turning Point USA
+**N-10000** Turning Point USA
 
 Node Type: Organization
 Organization Kind: nonprofit
@@ -461,7 +461,7 @@ Charlie Kirk's organization; site of speaking tour and current financial-apparat
 
 ---
 
-**N-1130** Caldera Engineering
+**N-10130** Caldera Engineering
 
 Node Type: Organization
 Organization Kind: company
@@ -471,7 +471,7 @@ Provo, Utah valve manufacturer; subject of intelligence-community link speculati
 
 ---
 
-**N-1131** United States Senate
+**N-10131** United States Senate
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -481,7 +481,7 @@ Body that passed bipartisan Charlie Kirk Remembrance Day resolution
 
 ---
 
-**N-1132** CISA
+**N-10132** CISA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -491,7 +491,7 @@ Cybersecurity agency listed by viewer email as monitoring valve networks
 
 ---
 
-**N-1133** NSA
+**N-10133** NSA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -501,7 +501,7 @@ Intelligence agency listed by viewer email as monitoring valve networks
 
 ---
 
-**N-1134** FERC
+**N-10134** FERC
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -511,7 +511,7 @@ Federal Energy Regulatory Commission cited as valve-network monitor
 
 ---
 
-**N-1135** Daily Mail
+**N-10135** Daily Mail
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -521,7 +521,7 @@ Publisher of Victoria Churchill's Kirk memorial article
 
 ---
 
-**N-1136** ABC
+**N-10136** ABC
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -531,7 +531,7 @@ Network whose affiliates were threatened with FCC action over Kimmel
 
 ---
 
-**N-1138** FCC
+**N-10138** FCC
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -541,7 +541,7 @@ Federal Communications Commission; chair threatened affiliate action
 
 ---
 
-**N-1139** APAC
+**N-10139** APAC
 
 Node Type: Organization
 Organization Kind: advocacy_group
@@ -555,7 +555,7 @@ Pro-Israel lobbying group alleged to employ Victoria Churchill
 
 ---
 
-**N-1077** Utah Valley University
+**N-10077** Utah Valley University
 
 Node Type: Place
 Place Kind: venue
@@ -565,7 +565,7 @@ University with alleged CIA pipeline mentioned by host
 
 ---
 
-**N-1140** Provo, Utah
+**N-10140** Provo, Utah
 
 Node Type: Place
 Place Kind: city
@@ -575,7 +575,7 @@ Home city of Caldera Engineering
 
 ---
 
-**N-1141** White House
+**N-10141** White House
 
 Node Type: Place
 Place Kind: venue
@@ -585,7 +585,7 @@ Subject of Kimmel's construction-stage grief joke
 
 ---
 
-**N-1091** Israel
+**N-10091** Israel
 
 Node Type: Place
 Place Kind: country
@@ -595,7 +595,7 @@ Country repeatedly cited as influencing US speech law and media
 
 ---
 
-**N-1142** Cameragate Investigation
+**N-10142** Cameragate Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -605,7 +605,7 @@ Investigation into two unidentified men handling the post-shooting camera and ch
 
 ---
 
-**N-1143** Robinson-Lance Text Chain Authenticity
+**N-10143** Robinson-Lance Text Chain Authenticity
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -615,7 +615,7 @@ Discrepancy over whether FBI-released text messages between Robinson and Lance a
 
 ---
 
-**N-1144** TPUSA Financial Apparatus Investigation
+**N-10144** TPUSA Financial Apparatus Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -625,7 +625,7 @@ Host's announced deep-dive into TPUSA donors/sponsors/influencer takeover
 
 ---
 
-**N-1145** Hate Speech Legislation Push
+**N-10145** Hate Speech Legislation Push
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -635,7 +635,7 @@ Discourse over post-Kirk-assassination hate-speech laws and FCC enforcement thre
 
 ---
 
-**N-1146** Valve/Piping Industry Intelligence Connection
+**N-10146** Valve/Piping Industry Intelligence Connection
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -645,7 +645,7 @@ Speculation that Caldera Engineering and similar firms serve intelligence/infras
 
 ---
 
-**N-1147** Israel Influence on US Politics
+**N-10147** Israel Influence on US Politics
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -664,7 +664,7 @@ Claim: Two unidentified men appeared in the immediate aftermath of the shooting 
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
 Mentions: N-99, N-118, N-1
-Related Nodes: N-1142
+Related Nodes: N-10142
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.
 
@@ -678,7 +678,7 @@ Claim: An individual was standing near the car where Charlie was taken, calmly t
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
 Mentions: N-118
-Related Nodes: N-1142
+Related Nodes: N-10142
 Confidence: high
 Investigative Direction: Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.
 
@@ -692,7 +692,7 @@ Claim: The individual handling the camera appeared to remove the SD or SIM card 
 Transcript Snippet: it looks like he removes the SIM card from it or the SD card if you will
 Anchored Artifacts: A-1120.3
 Mentions: N-118
-Related Nodes: N-1142
+Related Nodes: N-10142
 Confidence: medium
 Investigative Direction: Forensically examine the recovered camera for evidence of card removal and identify any cards removed.
 
@@ -705,7 +705,7 @@ Claim: The individual who handled the camera told the host he had been around Tu
 Transcript Snippet: This person's been around Turning Point for quite some time, for years
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-118
-Related Nodes: N-1000
+Related Nodes: N-10000
 Confidence: medium
 Investigative Direction: Verify association via TPUSA employee/vendor records and corroborate timeline with other witnesses.
 
@@ -718,7 +718,7 @@ Claim: The footage shown to the host via FaceTime from the rear angle showed no 
 Transcript Snippet: there's no blood... there's no blood from the back
 Anchored Artifacts: A-1122.2
 Mentions: N-1, N-2, N-118
-Related Nodes: N-1142
+Related Nodes: N-10142
 Sensitive Tags: crime_scene_evidence
 Confidence: medium
 Uncertainty: Footage itself not shown in episode; claim rests on host's account of FaceTime viewing.
@@ -733,7 +733,7 @@ Claim: The U.S. Senate has voted and passed a bipartisan resolution designating 
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Anchored Artifacts: A-1121.1
 Mentions: N-1
-Related Nodes: N-1131
+Related Nodes: N-10131
 Confidence: medium
 Investigative Direction: Locate the resolution text in the Congressional Record and verify vote tally.
 
@@ -746,7 +746,7 @@ Claim: The Daily Mail ran a headline written by Victoria Churchill stating Canda
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Anchored Artifacts: A-1124.1
 Mentions: N-119, N-3, N-1
-Related Nodes: N-1135
+Related Nodes: N-10135
 Confidence: high
 Investigative Direction: Verify headline and byline on the Daily Mail site and check publication date.
 
@@ -788,7 +788,7 @@ Claim: On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board me
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-42, N-88
-Related Nodes: N-1000
+Related Nodes: N-10000
 Contradicts: C-1223
 Confidence: high
 Investigative Direction: Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.
@@ -803,7 +803,7 @@ Claim: Pam Bondi told Katie Miller's podcast that the government will 'absolutel
 Transcript Snippet: we will absolutely target you, go after you if you are targeting anyone with hate speech
 Anchored Artifacts: A-1126.1
 Mentions: N-120, N-121, N-1
-Related Nodes: N-1145
+Related Nodes: N-10145
 Confidence: high
 Investigative Direction: Verify Bondi's exact remarks against full podcast audio and date.
 
@@ -816,7 +816,7 @@ Claim: Jimmy Kimmel said Trump was 'at the fourth stage of grief, construction' 
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Anchored Artifacts: A-1127.1
 Mentions: N-5, N-122
-Related Nodes: N-1141
+Related Nodes: N-10141
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel episode transcript and date.
 
@@ -840,7 +840,7 @@ Claim Timestamp: 00:17:47
 Claim: Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and maintain trusted relationships with manufacturers.
 Transcript Snippet: intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks
 Anchored Artifacts: A-1123.1
-Related Nodes: N-1130, N-1132, N-1133, N-1134, N-1146
+Related Nodes: N-10130, N-10132, N-10133, N-10134, N-10146
 Confidence: medium
 Investigative Direction: Verify public statements and contracts from each named agency regarding valve/SCADA monitoring.
 
@@ -852,7 +852,7 @@ Claim Timestamp: 00:18:34
 Claim: Caldera Engineering is located in Provo, Utah and manufactures specialized industrial valves and control systems, with possible Israel project footprint.
 Transcript Snippet: companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems
 Anchored Artifacts: A-1123.1
-Related Nodes: N-1130, N-1140, N-1146
+Related Nodes: N-10130, N-10140, N-10146
 Confidence: medium
 Investigative Direction: Verify company registration, address, and project portfolio via Utah business filings and the company website.
 
@@ -864,7 +864,7 @@ Claim Timestamp: 00:35:46
 Claim: Victoria Churchill (Daily Mail) has a connection to APAC, with photos showing her at APAC events including a 2018 DC conference.
 Anchored Artifacts: 
 Mentions: N-119
-Related Nodes: N-1139, N-1147
+Related Nodes: N-10139, N-10147
 Confidence: low
 Uncertainty: Connection is host's claim based on visible photos; not independently artifact-anchored in this episode.
 Investigative Direction: Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.
@@ -879,7 +879,7 @@ Claim: FCC Chairman Brendan Carr threatened federal action against ABC affiliate
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Anchored Artifacts: A-1128.1
 Mentions: N-124, N-127, N-122
-Related Nodes: N-1136, N-1138, N-1145
+Related Nodes: N-10136, N-10138, N-10145
 Confidence: high
 Investigative Direction: Locate full Carr interview on Benny Johnson show and verify against FCC official statements.
 
@@ -917,7 +917,7 @@ Claim: Candace Owens spoke at Turning Point USA conferences and toured with Char
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens
 Anchored Artifacts: A-1130.1, A-1130.2
 Mentions: N-3, N-1
-Related Nodes: N-1000
+Related Nodes: N-10000
 Contradicts: C-1213
 Confidence: high
 Investigative Direction: Cross-reference TPUSA website archive and event recordings; verify dates.
@@ -932,7 +932,7 @@ Claim: The FBI released a text exchange between accused shooter Tyler Robinson a
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
 Mentions: N-69, N-84
-Related Nodes: N-1079, N-1143
+Related Nodes: N-10079, N-10143
 Confidence: high
 Investigative Direction: Verify authenticity of released text chain via independent forensic analysis and metadata.
 
@@ -946,7 +946,7 @@ Claim: Creator Chris Olsen posted an Instagram parody clip mocking the FBI-relea
 Transcript Snippet: Good day, my love. I have just committed one of the highest sins of the Lord. Murder
 Anchored Artifacts: A-1132.1
 Mentions: N-69, N-84, N-123
-Related Nodes: N-1143
+Related Nodes: N-10143
 Confidence: high
 Investigative Direction: Locate original Olsen Instagram post and verify date.
 
@@ -970,7 +970,7 @@ Claim Timestamp: 00:43:09
 Claim: Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.
 Anchored Artifacts: 
 Mentions: N-65
-Related Nodes: N-1091, N-1147
+Related Nodes: N-10091, N-10147
 Confidence: low
 Uncertainty: Claim referenced as a findable clip but not shown in this episode.
 Investigative Direction: Locate the specific Netanyahu clip and verify exact wording and date.
@@ -1088,16 +1088,16 @@ Confidence: high
 
 ## 8. Organization Network
 
-OrgLink: N-1139 affiliated_with N-1147
-OrgLink: N-1133 same_enterprise_as N-3
+OrgLink: N-10139 affiliated_with N-10147
+OrgLink: N-10133 same_enterprise_as N-3
 
 ## 9. Role Assertions
 
-RoleLink: N-1 holds_role N-1000 title:Founder
-RoleLink: N-3 member_of N-1000 title:Former employee / speaker
-RoleLink: N-127 chair_of N-1138 title:Chairman
-RoleLink: N-119 member_of N-1135 title:Journalist (byline)
-RoleLink: N-42 holds_role N-1000 title:Board member (self-claimed)
+RoleLink: N-1 holds_role N-10000 title:Founder
+RoleLink: N-3 member_of N-10000 title:Former employee / speaker
+RoleLink: N-127 chair_of N-10138 title:Chairman
+RoleLink: N-119 member_of N-10135 title:Journalist (byline)
+RoleLink: N-42 holds_role N-10000 title:Board member (self-claimed)
 
 **M-15** (meme) We Don't Know But We Know
 

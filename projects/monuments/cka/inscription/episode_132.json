@@ -69,7 +69,7 @@
             "C-3140"
           ],
           "related_nodes": [
-            "N-2150"
+            "N-11150"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -94,7 +94,7 @@
             "C-3141"
           ],
           "related_nodes": [
-            "N-2150"
+            "N-11150"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-3145"
           ],
           "related_nodes": [
-            "N-2151"
+            "N-11151"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,7 +370,7 @@
             "C-3149"
           ],
           "related_nodes": [
-            "N-2149",
+            "N-11149",
             "N-777",
             "N-787"
           ],
@@ -387,8 +387,8 @@
   "nodes": [
     {
       "@type": "Topic",
-      "@id": "N-2152",
-      "ref": "N-2152",
+      "@id": "N-11152",
+      "ref": "N-11152",
       "name": "Andrew Kolvet X Post and Community Note Bundle",
       "type": "topic",
       "description": "",
@@ -402,8 +402,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2148",
-      "ref": "N-2148",
+      "@id": "N-11148",
+      "ref": "N-11148",
       "name": "Amaro Resignation Cause",
       "type": "investigation_target",
       "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
@@ -415,13 +415,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1207"
+        "N-10207"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2149",
-      "ref": "N-2149",
+      "@id": "N-11149",
+      "ref": "N-11149",
       "name": "911 Call Content Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation target. Host reports a \"solid tip\" alleging that a 911 call from Charlie's security team during transport to the hospital lasted 3–5 minutes, included phrases \"We got him. We are taking him to the hospital\" and \"Get that off of him,\" and was purged from released call records. No primary audio, transcript, or record request response displayed.",
@@ -443,8 +443,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2150",
-      "ref": "N-2150",
+      "@id": "N-11150",
+      "ref": "N-11150",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "Persistent investigation target. Host publicly raised whether Charlie Kirk was cremated; both Blake Neff and Erika Kirk publicly refused to confirm. Host cites Charlie's prior stated preference against cremation. No primary documentation of burial/cremation status displayed.",
@@ -465,8 +465,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2151",
-      "ref": "N-2151",
+      "@id": "N-11151",
+      "ref": "N-11151",
       "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
       "type": "investigation_target",
       "description": "Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Medvin were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.",
@@ -675,7 +675,7 @@
         "A-2190.1"
       ],
       "related_nodes": [
-        "N-2150"
+        "N-11150"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -696,7 +696,7 @@
         "A-2191.1"
       ],
       "related_nodes": [
-        "N-2150"
+        "N-11150"
       ],
       "tags": [],
       "claim_timestamp": "00:13:20",
@@ -769,7 +769,7 @@
         "A-2194.1"
       ],
       "related_nodes": [
-        "N-2151"
+        "N-11151"
       ],
       "tags": [],
       "claim_timestamp": "00:32:55",
@@ -804,7 +804,7 @@
       "claim": "Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2148"
+        "N-11148"
       ],
       "tags": [],
       "claim_timestamp": "00:01:07",
@@ -839,7 +839,7 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-2149"
+        "N-11149"
       ],
       "tags": [],
       "claim_timestamp": "00:17:17",

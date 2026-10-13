@@ -13,7 +13,7 @@
 2. Pipeline verify / Tessie sample on first batch
 3. Transit pack review (Bill D) before promote
 4. **No production Neo4j** from agents
-5. **Person band lock** (until Daveed rules): no new person ids; new persons are DEFER "person band full, awaiting Daveed"; while the lock is in force, no reuse of a retired/tombstoned/reserved id and no person at N-1000+; the reuse policy itself is pending with Daveed (gate `person_band_lock`, pinned band `config/person_band_snapshot.json`, see README ID bands)
+5. **Person band lock** (capacity widened by Daveed 2026-10-13: persons N-1..N-9999, new persons minted from N-1000; topic/org/place N-10000+): never reuse a retired/tombstoned/reserved id in N-1..N-999; the reuse policy itself is pending with Daveed (gate `person_band_lock`, pinned band `config/person_band_snapshot.json`, see README ID bands)
 6. **DIA scan:** run the tip-line cues in `config/dia_scan_terms.json` (includes `bounty`) over each new transcript; claim or triage every hit
 
 ## Promote freeze

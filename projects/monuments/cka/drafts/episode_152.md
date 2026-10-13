@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2321, N-2322
+ - New Nodes Introduced: N-11321, N-11322
  - Reused Nodes Appearing: N-37, N-810
  - Hole-minted Nodes (wave3): N-977
  - (see registers)
@@ -38,7 +38,7 @@
 
 Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382
 Claim Range: C-3445–C-3464
-New Nodes Introduced: N-2321, N-2322
+New Nodes Introduced: N-11321, N-11322
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -205,7 +205,7 @@ First named by the host at 00:35:04 in episode 152.
 
 *Related: C-3457, A-2379.1, A-2380.1*
 
-**N-2321** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
+**N-11321** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
 
 Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).
 
@@ -217,7 +217,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2322** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-11322** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Persistent claim that a recurring pattern of trafficking / child sex abuse involvement exists across multiple TPUSA-adjacent individuals.
 
@@ -278,7 +278,7 @@ Claim: The episode presents that Mike Mitchell's career was as an undercover det
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-69, N-176
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*
 
@@ -295,7 +295,7 @@ Claim: The episode presents that Bagley formerly worked in child sex crimes at t
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-810
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*
 
@@ -329,7 +329,7 @@ Claim: The episode presents that the first six search warrants in the Charlie Ki
 Anchored Artifacts: A-2378.1
 Mentions: N-1, N-71
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Pull the search warrant records from Utah court filings to verify signatory.*
 
@@ -343,7 +343,7 @@ Claim: The episode presents that Michael George Carl's documented assignment is 
 
 Anchored Artifacts: A-2378.1
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*
 
@@ -358,7 +358,7 @@ Claim: The episode displays footage and still photographs showing that Mikey McC
 Anchored Artifacts: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3
 Mentions: N-272
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*
 
@@ -372,7 +372,7 @@ Claim: The episode asserts that the Utah ICAC works under the Utah Attorney Gene
 
 Anchored Artifacts: None in this episode (host assertion)
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Verify Utah ICAC administrative structure via Utah AG public materials.*
 
@@ -388,7 +388,7 @@ Claim: The episode presents that the federal Internet Crimes Against Children Ta
 
 Anchored Artifacts: None in this episode (host statement)
 
-Related Nodes: N-2321
+Related Nodes: N-11321
 
 Investigative Direction: Verify DOJ / OJJDP documentation of the 1998 ICAC program founding.*
 
@@ -482,7 +482,7 @@ Claim: The episode displays a spreadsheet and host narration enumerating over fi
 Anchored Artifacts: A-2382.1
 Mentions: N-2
 
-Related Nodes: N-2322
+Related Nodes: N-11322
 
 Investigative Direction: Verify each row of the spreadsheet against primary court / news records; document the precise nature of each "connection" (e.g., accusation vs. conviction vs. employment).*
 
@@ -548,7 +548,7 @@ Claim: The host asserts as opinion that the placement of ICAC / SVU personnel th
 Anchored Artifacts: None directly anchoring the conspiracy framing (artifact A-2378.1 and A-2376.2 anchor the underlying placements)
 Mentions: N-1
 
-Related Nodes: N-2321, N-2322
+Related Nodes: N-11321, N-11322
 
 Investigative Direction: Treat as framing premise – testable only via underlying placements (already inscribed above).*
 
@@ -589,7 +589,7 @@ Confidence: high
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle.
-- [x] People nodes use the global people ledger (N-1207+ series for new entries).
+- [x] People nodes use the global people ledger (N-10207+ series for new entries).
 - [x] Non-person investigation targets use the 2230 series.
 - [x] No speculative claims inscribed as evidence-backed.
 - [x] Names preserved exactly or uncertainty noted.
@@ -600,5 +600,5 @@ Confidence: high
 Episode 152 analysis complete. Ledger continuation preserved. Next available IDs after this episode:
 - Next Artifact Family: A-2383
 - Next Claim ID: C-3465
-- Next Node ID (people): N-1235
-- Next Node ID (investigation targets): N-2323
+- Next Node ID (people): N-10235
+- Next Node ID (investigation targets): N-11323

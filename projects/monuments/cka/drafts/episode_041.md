@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-483, N-484, N-1380, N-1381
+  - New Nodes Introduced:  N-483, N-484, N-10380, N-10381
   - Reused Nodes Appearing: N-224
-  - Tip-minted Nodes (wave2): N-2388
+  - Tip-minted Nodes (wave2): N-11388
   - (see registers)
 
 ---
@@ -24,7 +24,7 @@ Artifact Families Introduced: A-1494, A-1495, A-1496, A-1497, A-1498, A-1499, A-
 
 Claim Range: C-1831–C-1838, C-3747
 
-New Nodes Introduced:  N-483, N-484, N-1380, N-1381
+New Nodes Introduced:  N-483, N-484, N-10380, N-10381
 
 Existing Nodes Reused: N-1 (Charlie Kirk)
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (tweet read in its entirety on air)
 
-*Related: C-1834, N-2388, N-1381*
+*Related: C-1834, N-11388, N-10381*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not shown in episode)
 
-*Related: C-1835, N-484, N-2388*
+*Related: C-1835, N-484, N-11388*
 
 **A-1500.2** Egyptian Presidency website record confirming El-Sisi aboard SU-BTU on April 3, 2023 (Riadh → Saudi Crown Prince MBS meeting)
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:17:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced via Project Constitution tweet A-1496.1; underlying website not directly accessed)
 
-*Related: C-1834, N-2388*
+*Related: C-1834, N-11388*
 
 ---
 
@@ -197,7 +197,7 @@ Claim Count: 0 (host assertions not artifact-anchored in this episode)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1380, N-1381*
+*Related: N-10380, N-10381*
 
 ---
 
@@ -210,11 +210,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1500.1, C-1835, N-2388*
+*Related: A-1500.1, C-1835, N-11388*
 
 ---
 
-**N-2388** Project Constitution
+**N-11388** Project Constitution
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -243,7 +243,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1380** Wedi Machmood Identity Verification Question
+**N-10380** Wedi Machmood Identity Verification Question
 
 Persistent unresolved target: who is the person using the name "Wedi Machmood" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.
 
@@ -252,11 +252,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-483, N-1381*
+*Related: N-483, N-10381*
 
 ---
 
-**N-1381** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard
+**N-10381** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard
 
 Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident.
 
@@ -265,7 +265,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-483, N-1380*
+*Related: N-483, N-10380*
 
 ---
 
@@ -328,7 +328,7 @@ Claim: A Project Constitution X post (read in full on air) reports that the Egyp
 Anchored Artifacts: A-1496.1, A-1500.2
 Mentions:
 
-Related Nodes: N-1381, N-2388
+Related Nodes: N-10381, N-11388
 
 Investigative Direction: Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to "SU-BTU" with host's reference to "BTT" / "SUB-TU."
 
@@ -342,7 +342,7 @@ Claim: President El-Sisi was photographed at a meeting with Tunisian Prime Minis
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
 Mentions: N-484
-Related Nodes: N-2388
+Related Nodes: N-11388
 
 
 Investigative Direction: Locate the original photograph; verify date, location, and participants.
@@ -402,7 +402,7 @@ Transcript Snippet: Okay, I maintain that turning point is engaged in a cover up
 
 Anchored Artifacts: 
 Mentions: N-3, N-224
-Related Nodes: N-1000
+Related Nodes: N-10000
 Investigative Direction: Track TPUSA responses to the on-record questions; compare against the list of disputed statements the host says she keeps.
 
 ---

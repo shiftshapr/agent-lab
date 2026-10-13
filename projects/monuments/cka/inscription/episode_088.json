@@ -30,7 +30,7 @@
             "C-2654"
           ],
           "related_nodes": [
-            "N-1660"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-2655"
           ],
           "related_nodes": [
-            "N-1660"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -64,7 +64,7 @@
           "description": "Mitch Snow observation of a meeting concluding at Fort Huachuca the day before the event, with multiple O-6s present",
           "related_claims": [],
           "related_nodes": [
-            "N-1660"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -82,7 +82,7 @@
             "C-2655"
           ],
           "related_nodes": [
-            "N-1660"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -112,8 +112,8 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1658",
-            "N-1659"
+            "N-10658",
+            "N-10659"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1658"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,8 +160,8 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-1658",
-            "N-1659"
+            "N-10658",
+            "N-10659"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1657"
+            "N-10657"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,7 +216,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1657"
+            "N-10657"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1658"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,7 +262,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1658"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1657"
+            "N-10657"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -316,7 +316,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1657"
+            "N-10657"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -343,7 +343,7 @@
             "C-2665"
           ],
           "related_nodes": [
-            "N-1661"
+            "N-10661"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,7 +370,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1658"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -395,7 +395,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-1659"
+            "N-10659"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,7 +420,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-1658"
+            "N-10658"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -452,8 +452,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1657",
-      "ref": "N-1657",
+      "@id": "N-10657",
+      "ref": "N-10657",
       "name": "Erika Kirk September 10 Whereabouts Verification",
       "type": "investigation_target",
       "description": "Persistent inconsistency between the New York Times \"hospital room at 11:23 a.m.\" account, Erika's Jesse Watters \"mom's doctor's appointment\" account (with apparent jump cut), and multiple witnesses placing Erika without her mother on Sept 10, 2025.",
@@ -481,8 +481,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1658",
-      "ref": "N-1658",
+      "@id": "N-10658",
+      "ref": "N-10658",
       "name": "Aspen Donor Audio Integrity Question",
       "type": "investigation_target",
       "description": "Audio artifact released by TPUSA purporting to show Charlie naming Erika as successor shows apparent editing and has been released only as audio (no video); TPUSA publicly declined to release the corresponding video.",
@@ -512,8 +512,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1659",
-      "ref": "N-1659",
+      "@id": "N-10659",
+      "ref": "N-10659",
       "name": "Aspen Donor Event Memory Discrepancy",
       "type": "investigation_target",
       "description": "3 of 4 attendees contacted by host investigation (one of whom was a couple) reportedly do not recall Charlie Kirk stating he wanted Erika to run TPUSA at the August 15–17, 2025 Aspen event.",
@@ -537,8 +537,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1660",
-      "ref": "N-1660",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Karashi Family Military / Fort Huachuca Connections",
       "type": "investigation_target",
       "description": "Pattern of Karashi family members with military/intelligence training at Fort Huachuca and app-development ties plausibly relevant to mission planning for the Sept 10 event.",
@@ -561,8 +561,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1661",
-      "ref": "N-1661",
+      "@id": "N-10661",
+      "ref": "N-10661",
       "name": "Pam Bondi Dismissal Context Question",
       "type": "investigation_target",
       "description": "Cause and political context of Trump's firing of Pam Bondi; host reports alleged Eric Swalwell / Christine Fang tip-off as cause but presents no artifact for that claim in this episode.",
@@ -768,7 +768,7 @@
         "A-1927.1"
       ],
       "related_nodes": [
-        "N-1660"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:01:20–00:03:02",
@@ -785,7 +785,7 @@
         "A-1927.4"
       ],
       "related_nodes": [
-        "N-1660"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:01:20–00:03:02",
@@ -804,7 +804,7 @@
         "A-1928.2"
       ],
       "related_nodes": [
-        "N-1658"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:11:11–00:11:54",
@@ -823,8 +823,8 @@
         "A-1929.1"
       ],
       "related_nodes": [
-        "N-1658",
-        "N-1659"
+        "N-10658",
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:08:58–00:10:21",
@@ -845,7 +845,7 @@
         "A-1930.1"
       ],
       "related_nodes": [
-        "N-1657"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:35:35–00:35:50",
@@ -864,7 +864,7 @@
         "A-1931.1"
       ],
       "related_nodes": [
-        "N-1657"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:36:46–00:37:30",
@@ -884,7 +884,7 @@
         "A-1932.2"
       ],
       "related_nodes": [
-        "N-1658"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:14:16–00:15:40",
@@ -904,7 +904,7 @@
         "A-1932.1"
       ],
       "related_nodes": [
-        "N-1658"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55–00:17:45",
@@ -942,7 +942,7 @@
         "A-1934.1"
       ],
       "related_nodes": [
-        "N-1657"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:34:02–00:35:00",
@@ -961,7 +961,7 @@
         "A-1935.1"
       ],
       "related_nodes": [
-        "N-1661"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:44:55–00:46:02",
@@ -981,7 +981,7 @@
         "A-1935.1"
       ],
       "related_nodes": [
-        "N-1661"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:44:55–00:46:02",
@@ -1000,7 +1000,7 @@
         "A-1936.1"
       ],
       "related_nodes": [
-        "N-1658"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:19:47–00:20:41",
@@ -1020,7 +1020,7 @@
         "A-1931.1"
       ],
       "related_nodes": [
-        "N-1657"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:40:55–00:44:53",
@@ -1040,7 +1040,7 @@
         "A-1928.1"
       ],
       "related_nodes": [
-        "N-1659"
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:12:38–00:13:33",

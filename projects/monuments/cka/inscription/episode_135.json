@@ -108,8 +108,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2166",
-            "N-2167"
+            "N-11166",
+            "N-11167"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -128,7 +128,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2166"
+            "N-11166"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -156,7 +156,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2167"
+            "N-11167"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2168"
+            "N-11168"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,8 +220,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2164",
-      "ref": "N-2164",
+      "@id": "N-11164",
+      "ref": "N-11164",
       "name": "Timpanogos Hospital Evacuation Tip",
       "type": "investigation_target",
       "description": "Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.",
@@ -237,13 +237,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-2169"
+        "N-11169"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2165",
-      "ref": "N-2165",
+      "@id": "N-11165",
+      "ref": "N-11165",
       "name": "Security Clothing Disposal Question",
       "type": "investigation_target",
       "description": "Host's assertion that FBI took security team clothing down to boxer briefs; host infers possible destruction rather than evidence preservation given FBI's prior behavior of towing and reselling the vehicle.",
@@ -259,8 +259,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2166",
-      "ref": "N-2166",
+      "@id": "N-11166",
+      "ref": "N-11166",
       "name": "Autopsy Timeline Anomaly",
       "type": "investigation_target",
       "description": "Question raised by medical professional email (A-2220.2) and host regarding unusually short (~3 hour) autopsy timeline given typical protocol of bringing body to 40°F in morgue cooler before examination; estimate includes time Erika Kirk spent with the body on arrival.",
@@ -281,8 +281,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2167",
-      "ref": "N-2167",
+      "@id": "N-11167",
+      "ref": "N-11167",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Alternative theory advanced by multiple artifact-anchored medical communications suggesting Charlie Kirk's neck wound pattern is more consistent with a shaped charge in his lapel microphone than with a bullet; also encompasses the inference that recovered bullet fragments may actually be shaped charge casing.",
@@ -304,8 +304,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2168",
-      "ref": "N-2168",
+      "@id": "N-11168",
+      "ref": "N-11168",
       "name": "Lozi Center Gun Verification Gap",
       "type": "investigation_target",
       "description": "Persistent absence of eyewitness confirmation that any firearm was visible on the Lozi Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.",
@@ -327,11 +327,11 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2169",
-      "ref": "N-2169",
+      "@id": "N-11169",
+      "ref": "N-11169",
       "name": "Utah Valley Hospital File Anomaly",
       "type": "investigation_target",
-      "description": "Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-2164) or by pre-existing record creation.",
+      "description": "Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-11164) or by pre-existing record creation.",
       "related_artifacts": [],
       "related_claims": [
         "C-3190"
@@ -343,7 +343,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-2164"
+        "N-11164"
       ]
     },
     {
@@ -420,7 +420,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-2167"
+        "N-11167"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16",
@@ -439,7 +439,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-2167"
+        "N-11167"
       ],
       "tags": [],
       "claim_timestamp": "00:32:48",
@@ -458,7 +458,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-2167"
+        "N-11167"
       ],
       "tags": [],
       "claim_timestamp": "00:33:41",
@@ -477,7 +477,7 @@
         "A-2220.2"
       ],
       "related_nodes": [
-        "N-2166"
+        "N-11166"
       ],
       "tags": [],
       "claim_timestamp": "00:35:15",
@@ -496,7 +496,7 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-2167"
+        "N-11167"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
@@ -515,7 +515,7 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-2167"
+        "N-11167"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
@@ -548,7 +548,7 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-2168"
+        "N-11168"
       ],
       "tags": [],
       "claim_timestamp": "00:40:24",
@@ -568,7 +568,7 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-2167"
+        "N-11167"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
@@ -587,7 +587,7 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-2168"
+        "N-11168"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
@@ -604,8 +604,8 @@
       "claim": "Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at approximately 10:00 a.m. on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2164",
-        "N-2169"
+        "N-11164",
+        "N-11169"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -622,8 +622,8 @@
       "claim": "Per host's verbal source, ER patients were subsequently transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2164",
-        "N-2169"
+        "N-11164",
+        "N-11169"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -640,7 +640,7 @@
       "claim": "A patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as originally displayed in an October 28, 2025 episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2169"
+        "N-11169"
       ],
       "tags": [],
       "claim_timestamp": "00:25:08",
@@ -657,7 +657,7 @@
       "claim": "Per host's assertion (based on an unnamed tip), the FBI took security team members' clothing down to their boxer briefs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2165"
+        "N-11165"
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
@@ -671,7 +671,7 @@
       "claim": "Per host, the Timpanogos hospital Epic electronic medical record system did not communicate with Utah Valley's Intermountain Health system, so Charlie's file appearing at Utah Valley is anomalous.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2169"
+        "N-11169"
       ],
       "tags": [],
       "claim_timestamp": "00:26:02",

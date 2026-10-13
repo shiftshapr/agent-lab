@@ -33,7 +33,7 @@
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
 - Claim Range: C-1337–C-1353, C-3754
-  - New Nodes Introduced:  N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
+  - New Nodes Introduced:  N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
   - Reused Nodes Appearing: N-3, N-69, N-176
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
@@ -56,7 +56,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (artifact clearly stated, video played)
 
-*Related: C-1337, C-1340, N-69, N-183, N-200, N-1218*
+*Related: C-1337, C-1340, N-69, N-183, N-200, N-10218*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-69, N-71, N-1223*
+*Related: C-1338, N-69, N-71, N-10223*
 
 **A-1197.2** Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-191, N-1220*
+*Related: C-1341, N-191, N-10220*
 
 **A-1199.2** Host-source reporting: Andrew Zanger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-192, N-1220*
+*Related: C-1341, N-192, N-10220*
 
 **A-1199.3** Host-source reporting: Judge Tony F. Graph Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-193, N-1220*
+*Related: C-1341, N-193, N-10220*
 
 **A-1199.4** Host-source reporting: new (unnamed) coroner on the case
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-1220*
+*Related: C-1341, N-10220*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party producer report)
 
-*Related: C-1350, N-194, N-198 (Larry Ellison), N-1223*
+*Related: C-1350, N-194, N-198 (Larry Ellison), N-10223*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: C-1351, N-1218*
+*Related: C-1351, N-10218*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: N-1218 (tenuous; primarily commentary)*
+*Related: N-10218 (tenuous; primarily commentary)*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.1, C-1341, N-1220*
+*Related: A-1199.1, C-1341, N-10220*
 
 ---
 
@@ -326,7 +326,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High (involves routing question)
 
-*Related: A-1199.2, C-1341, N-1220, N-1*
+*Related: A-1199.2, C-1341, N-10220, N-1*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.3, C-1341, N-1220*
+*Related: A-1199.3, C-1341, N-10220*
 
 ---
 
@@ -350,7 +350,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1204.1, C-1350, N-1218*
+*Related: A-1204.1, C-1350, N-10218*
 
 ---
 
@@ -422,13 +422,13 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High (cooperative witness)
 
-*Related: A-1196.1, C-1340, N-183, N-69, N-1218*
+*Related: A-1196.1, C-1340, N-183, N-69, N-10218*
 
 ---
 
 ### Investigation Targets
 
-**N-1218** Unidentified Female / "Accomplice" in Shooter Footage
+**N-10218** Unidentified Female / "Accomplice" in Shooter Footage
 Persistent target referenced across host reporting, anonymous tip, and Shainer Broadick footage; the FBI has not, per host, publicly identified or released her.
 
 Evidence Count: 3
@@ -440,7 +440,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1219** "Robbie Hild" Identity Verification
+**N-10219** "Robbie Hild" Identity Verification
 X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.
 
 Evidence Count: 1
@@ -452,7 +452,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1220** Case-Personnel Cluster Anomalies
+**N-10220** Case-Personnel Cluster Anomalies
 Composite target covering the simultaneous arrival of new senior figures (FBI SAC "Robert BS," hospital CEO/surgeon Andrew Zanger, Judge Tony F. Graph Jr., unnamed new coroner) onto the case.
 
 Evidence Count: 3
@@ -464,7 +464,7 @@ Investigative Pressure: Medium-High
 
 ---
 
-**N-1221** Autopsy Record – Utah Privacy Statute Application
+**N-10221** Autopsy Record – Utah Privacy Statute Application
 Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.
 
 Evidence Count: 0
@@ -476,7 +476,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1222** Hospital Routing Anomaly
+**N-10222** Hospital Routing Anomaly
 Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.
 
 Evidence Count: 1
@@ -488,7 +488,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1223** TPUSA Faith Packet / Israel References Claim
+**N-10223** TPUSA Faith Packet / Israel References Claim
 Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.
 
 Evidence Count: 1
@@ -511,7 +511,7 @@ Claim: The episode presents that a woman was captured alongside the shooter in d
 Anchored Artifacts: A-1196.1
 Mentions: N-200
 
-Related Nodes: N-1218
+Related Nodes: N-10218
 
 Investigative Direction: Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.
 
@@ -554,7 +554,7 @@ Claim: In footage recorded by Shainer Broadick, his aunt (identified as a Lyman 
 Anchored Artifacts: A-1196.1
 Mentions: N-69, N-183, N-200
 
-Related Nodes: N-1218
+Related Nodes: N-10218
 
 Investigative Direction: Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.
 
@@ -569,7 +569,7 @@ Claim: Multiple senior officials involved in the case were recent appointments a
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
 Mentions: N-191, N-192, N-193, N-70, N-102
 
-Related Nodes: N-1220, N-1222
+Related Nodes: N-10220, N-10222
 
 Investigative Direction: Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care.
 
@@ -584,7 +584,7 @@ Claim: Despite public rumors to the contrary, an autopsy of Charlie Kirk was per
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
 
-Related Nodes: N-1221
+Related Nodes: N-10221
 
 Investigative Direction: Verify through official medical examiner channels or court filings.
 
@@ -599,7 +599,7 @@ Claim: Under Utah law, autopsy reports are kept private; only the immediate fami
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
 
-Related Nodes: N-1221
+Related Nodes: N-10221
 
 Investigative Direction: Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office.
 
@@ -755,7 +755,7 @@ Transcript Snippet: It is a fact that Tyler Robinson, we can't confirm that this
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-176
-Related Nodes: N-1217
+Related Nodes: N-10217
 Investigative Direction: Locate the photos the host refers to and establish who "uncle Mikey" is; check any Mike Mitchell link against the public record.
 
 ---
@@ -841,7 +841,7 @@ Confidence: high
 
 - Speculation / Framing Premise (failed Claim Admission Test): "I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas." Recorded as framing premise only – no artifact anchor.
 - Speculation / Framing Premise: "Tyler Robinson … we can't confirm that this is Mike Mitchell" – speculation on identity substitution; no artifact anchor.
-- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-1219 for tracking, but not inscribed as a claim.
+- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-10219 for tracking, but not inscribed as a claim.
 - Artifact verbally referenced but not shown: Russian-language translated article about "White Lotus sect" training fighters (article cited but not displayed in the transcript).
 - Transcript ambiguity: The "FBI" new head is referred to by host as "Robert BS" (possibly phonetic / partial nickname); spelling uncertain – preserved exactly.
 - Transcript ambiguity: "Erika Mindle" / "Erikica Mindle" – spelling varies within the host's own narration.

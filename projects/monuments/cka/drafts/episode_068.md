@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-876, N-877, N-882, N-883, N-884, N-885, N-886, N-888, N-889, N-1548, N-1549, N-1550, N-1551, N-1552, N-1553, N-1554, N-1555
+  - New Nodes Introduced: N-876, N-877, N-882, N-883, N-884, N-885, N-886, N-888, N-889, N-10548, N-10549, N-10550, N-10551, N-10552, N-10553, N-10554, N-10555
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
 - **Claim Range:** C-2283 – C-2297
 - **New People Nodes Introduced:** N-876, N-877, N-783, N-272, N-43, N-133, N-882, N-883, N-884, N-885, N-886, N-16, N-888, N-889
-- **New Investigation Target Nodes Introduced:** N-1548, N-1549, N-1550, N-1551, N-1552, N-1553, N-1554, N-1555
+- **New Investigation Target Nodes Introduced:** N-10548, N-10549, N-10550, N-10551, N-10552, N-10553, N-10554, N-10555
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
 
 ---
@@ -63,7 +63,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
-*Related: C-2283, N-783, N-1548*
+*Related: C-2283, N-783, N-10548*
 
 **A-1727.2** Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with "10 days until September 16th" countdown
 Event Timestamp: 00:00:00–00:00:01
@@ -71,7 +71,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2284, N-783, N-1550*
+*Related: C-2284, N-783, N-10550*
 
 ---
 
@@ -83,7 +83,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2285, N-783, N-272, N-1549*
+*Related: C-2285, N-783, N-272, N-10549*
 
 ---
 
@@ -95,7 +95,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim read)
-*Related: C-2286, N-885, N-1551, N-1555*
+*Related: C-2286, N-885, N-10551, N-10555*
 
 ---
 
@@ -107,7 +107,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2287, N-1552, N-1555*
+*Related: C-2287, N-10552, N-10555*
 
 **A-1730.2** NBC News article reporting a senior U.S. military officer's apology for damage to Babylon by U.S. Marines (helicopter pad on ruins; sandbags filled with archaeological fragments; helicopter vibration collapsing a roof)
 Event Timestamp: 00:00:00–00:00:01
@@ -115,7 +115,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:11:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2288, N-1552*
+*Related: C-2288, N-10552*
 
 **A-1730.3** 2005 British Museum report on the use of Babylon as a military camp by multinational/coalition forces, April 2003 – December 2004, characterized as "tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain"
 Event Timestamp: 00:00:00–00:00:01
@@ -123,7 +123,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2289, N-1552*
+*Related: C-2289, N-10552*
 
 ---
 
@@ -135,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2290, N-876, N-1555*
+*Related: C-2290, N-876, N-10555*
 
 **A-1731.2** Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003
 Event Timestamp: 00:00:00–00:00:01
@@ -179,7 +179,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-cited; underlying source not specified beyond implying it contradicts the NYT "within seconds" framing)
-*Related: C-2294, N-272, N-1553*
+*Related: C-2294, N-272, N-10553*
 
 ---
 
@@ -191,7 +191,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described by host; not displayed in transcript)
-*Related: C-2295, N-783, N-43, N-1554*
+*Related: C-2295, N-783, N-43, N-10554*
 
 ---
 
@@ -243,7 +243,7 @@ Evidence Count: 3
 Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1727.1, A-1727.2, A-1728.1, A-1735.1, C-2283, C-2284, C-2285, C-2295, N-1548, N-1549, N-1550, N-1554*
+*Related: A-1727.1, A-1727.2, A-1728.1, A-1735.1, C-2283, C-2284, C-2285, C-2295, N-10548, N-10549, N-10550, N-10554*
 
 **N-272** Mikey McCoy
 TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.
@@ -251,7 +251,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1728.1, A-1734.1, C-2285, C-2294, N-1553*
+*Related: A-1728.1, A-1734.1, C-2285, C-2294, N-10553*
 
 **N-43** Justin Strife
 TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from "basketball game" to "football game."
@@ -259,7 +259,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1735.1, C-2295, N-1554*
+*Related: A-1735.1, C-2295, N-10554*
 
 **N-133** Ben Shapiro
 Daily Wire figure whose "All Access" clip mocking the host's Hogwarts-chess dream is played in the episode.
@@ -299,7 +299,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, C-2286, N-1551, N-1555*
+*Related: A-1729.1, C-2286, N-10551, N-10555*
 
 **N-886** Bella Hadid
 Public figure referenced re: Lyme disease treatment options overseas.
@@ -307,7 +307,7 @@ Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: N-783, N-1554*
+*Related: N-783, N-10554*
 
 **N-16** Frank Turek
 Source of witness statement (cited by host) that Charlie Kirk was "dealing with the kids" on Sept 8, 2025.
@@ -315,7 +315,7 @@ Evidence Count: 0 (statement referenced but no artifact registered for it)
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: N-1548, N-1553*
+*Related: N-10548, N-10553*
 
 **N-888** Amber Thurman (Victim in Stevenson case)
 Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).
@@ -335,7 +335,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1548** Erika Kirk Sept 8, 2025 Alibi Verification
+**N-10548** Erika Kirk Sept 8, 2025 Alibi Verification
 Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turk states Charlie was "dealing with the kids," and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.
 Evidence Count: 1
 Claim Count: 0 (claim admission test currently failing due to lack of clear opposing artifact for Erika's Sept 8 location)
@@ -343,7 +343,7 @@ Episode Count: 1
 Investigative Pressure: High
 *Related: N-783, N-16, A-1735.1, C-2295*
 
-**N-1549** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
+**N-10549** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a "holistic clinic," not a hospital.
 Evidence Count: 2 (one per side)
 Claim Count: 1
@@ -351,7 +351,7 @@ Episode Count: 1
 Investigative Pressure: High
 *Related: A-1728.1, A-1735.1, C-2285, C-2295, N-783, N-272, N-43*
 
-**N-1550** Sept 7, 2025 Erika Instagram Post – Manipulation Question
+**N-10550** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.
 Evidence Count: 1
 Claim Count: 1
@@ -359,7 +359,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1727.2, C-2284, N-783*
 
-**N-1551** Nimrod / Gilgamesh Remains Extraction Question
+**N-10551** Nimrod / Gilgamesh Remains Extraction Question
 The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.
 Evidence Count: 1
 Claim Count: 1
@@ -367,7 +367,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1729.1, C-2286, N-885*
 
-**N-1552** Babylon Military Camp Activities
+**N-10552** Babylon Military Camp Activities
 Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.
 Evidence Count: 3
 Claim Count: 3
@@ -375,7 +375,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1730.1, A-1730.2, A-1730.3, C-2287, C-2288, C-2289*
 
-**N-1553** Mikey McCoy Phone Call Sequence
+**N-10553** Mikey McCoy Phone Call Sequence
 NYT said the call came "within seconds"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress.
 Evidence Count: 2 (NYT artifact; host claim)
 Claim Count: 1
@@ -383,7 +383,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1728.1, A-1734.1, C-2294, N-272*
 
-**N-1554** Erika's Mother Medical Narrative
+**N-10554** Erika's Mother Medical Narrative
 Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).
 Evidence Count: 1
 Claim Count: 1
@@ -391,7 +391,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1735.1, C-2295, N-783, N-43, N-886*
 
-**N-1555** Babylon Library / Tablet Loss Discrepancy
+**N-10555** Babylon Library / Tablet Loss Discrepancy
 UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.
 Evidence Count: 2
 Claim Count: 2
@@ -408,7 +408,7 @@ Claim Timestamp: 00:23:15
 Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
 Mentions: N-783, N-2
-Related Nodes: N-1550
+Related Nodes: N-10550
 Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
 ---
@@ -418,7 +418,7 @@ Claim Timestamp: 00:24:00
 Claim: On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
 Mentions: N-783, N-2
-Related Nodes: N-1550
+Related Nodes: N-10550
 Investigative Direction: Obtain the original post screenshot/metadata and identify the countdown's intended referent.
 
 ---
@@ -428,7 +428,7 @@ Claim Timestamp: 00:25:00
 Claim: The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened "within seconds" of the shooting.
 Anchored Artifacts: A-1728.1
 Mentions: N-272, N-783, N-2
-Related Nodes: N-1549, N-1553
+Related Nodes: N-10549, N-10553
 Investigative Direction: Locate and quote the exact NYT passage to confirm wording.
 
 ---
@@ -438,7 +438,7 @@ Claim Timestamp: 00:05:54
 Claim: A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
 Mentions: N-885
-Related Nodes: N-1551, N-1555
+Related Nodes: N-10551, N-10555
 Investigative Direction: Locate Robkea's published work ("Babylon Rising" et al.) and verify each factual component independently.
 
 ---
@@ -447,7 +447,7 @@ Investigative Direction: Locate Robkea's published work ("Babylon Rising" et al.
 Claim Timestamp: 00:10:51
 Claim: A 2009 United Nations article described Babylon as the capital city for Hammurabi (Amarabi) and Nebuchadnezzar, and acknowledged that contents from the Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed during the 2003 war.
 Anchored Artifacts: A-1730.1
-Related Nodes: N-1552, N-1555
+Related Nodes: N-10552, N-10555
 Investigative Direction: Locate the UN article by publication/year and verify quoted language.
 
 ---
@@ -456,7 +456,7 @@ Investigative Direction: Locate the UN article by publication/year and verify qu
 Claim Timestamp: 00:11:55
 Claim: NBC News reported that a senior U.S. military officer apologized for damage his troops caused to Babylon, and that U.S. Marines built a helicopter pad on the ruins and filled sandbags with archaeological fragments, with helicopter vibrations causing the roof of one building to collapse.
 Anchored Artifacts: A-1730.2
-Related Nodes: N-1552
+Related Nodes: N-10552
 Investigative Direction: Locate the specific NBC News article and confirm.
 
 ---
@@ -465,7 +465,7 @@ Investigative Direction: Locate the specific NBC News article and confirm.
 Claim Timestamp: 00:10:51
 Claim: A 2005 British Museum report characterized coalition use of Babylon (April 2003 – December 2004) as "tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain."
 Anchored Artifacts: A-1730.3
-Related Nodes: N-1552
+Related Nodes: N-10552
 Investigative Direction: Locate the British Museum report and confirm quoted language and date range.
 
 ---
@@ -475,7 +475,7 @@ Claim Timestamp: 00:09:00
 Claim: The BBC reported that Gorg Fastinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
 Mentions: N-876
-Related Nodes: N-1555
+Related Nodes: N-10555
 Investigative Direction: Locate the specific BBC report and confirm date.
 
 ---
@@ -512,7 +512,7 @@ Claim Timestamp: 00:25:21
 Claim: According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife.
 Anchored Artifacts: A-1734.1
 Mentions: N-272, N-2
-Related Nodes: N-1553
+Related Nodes: N-10553
 Investigative Direction: Obtain call log records or corroborating witness / phone carrier metadata.
 
 ---
@@ -522,7 +522,7 @@ Claim Timestamp: 00:26:30
 Claim: Justin Strife sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
 Mentions: N-43, N-783
-Related Nodes: N-1549, N-1554
+Related Nodes: N-10549, N-10554
 Investigative Direction: Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.
 
 ---
@@ -549,7 +549,7 @@ Investigative Direction: Locate the tweet and verify exact wording and date.
 
 - Every claim (C-2283 – C-2297) carries at least one Anchored Artifact and at least one Related Node.
 - Every artifact family (A-1727 – A-1737) carries Related claims and Related nodes.
-- Every People Node (N-876 – N-889) and Investigation Target Node (N-1548 – N-1555) carries Related artifacts and Related claims.
+- Every People Node (N-876 – N-889) and Investigation Target Node (N-10548 – N-10555) carries Related artifacts and Related claims.
 - No episode-wide artifact bundle was created.
 - No speculative claims were inscribed; rhetoric-only statements about "muggles," "Babylonian magic," "Project Looking Glass," "Epstein," "Ben Shapiro secretly hates her," "God is real," etc., were excluded as framing premises / interpretive commentary.
 
@@ -575,7 +575,7 @@ Investigative Direction: Locate the tweet and verify exact wording and date.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle exists.
 - [x] People nodes use the global people ledger (N-876 onward per ledger continuation).
-- [x] Non-person investigation targets use the 1000-series (N-1548 onward per ledger continuation).
+- [x] Non-person investigation targets use the 1000-series (N-10548 onward per ledger continuation).
 - [x] No speculative claims inscribed as evidence-backed claims.
 - [x] Names preserved exactly per transcript; uncertainties flagged.
 - [x] Formatting consistent across Artifact, Node, and Claim registers.

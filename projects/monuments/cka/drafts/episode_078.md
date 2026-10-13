@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-982, N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610, N-1611
+  - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-982, N-10604, N-10605, N-10606, N-10607, N-10608, N-10609, N-10610, N-10611
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845, A-2523
 - **Claim Range:** C-2453–C-2471
 - **New People Nodes Introduced:** N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-70, N-439, N-254, N-951, N-982
-- **New Investigation Target Nodes Introduced:** N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610
+- **New Investigation Target Nodes Introduced:** N-10604, N-10605, N-10606, N-10607, N-10608, N-10609, N-10610
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -63,7 +63,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2453, C-2454, C-2455, N-2, N-970, N-1604, N-1605*
+*Related: C-2453, C-2454, C-2455, N-2, N-970, N-10604, N-10605*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:13:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2457, N-2, N-969, N-439, N-1606*
+*Related: C-2457, N-2, N-969, N-439, N-10606*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:17:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2458, C-2471, N-2, N-971, N-1607*
+*Related: C-2458, C-2471, N-2, N-971, N-10607*
 
 **A-1838.2** Erica Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:16:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2459, N-2, N-971, N-1607*
+*Related: C-2459, N-2, N-971, N-10607*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2460, C-2470, C-2475, N-971, N-972, N-1607*
+*Related: C-2460, C-2470, C-2475, N-971, N-972, N-10607*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:21:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2461, N-982, N-972, N-1607*
+*Related: C-2461, N-982, N-972, N-10607*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:30:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2462, C-2473, N-1609*
+*Related: C-2462, C-2473, N-10609*
 
 **A-1841.2** Photo of van interior from another angle
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2462, N-1609*
+*Related: C-2462, N-10609*
 
 **A-1841.3** Photo showing side angle of van interior with what appears to be an Instaclot package on the floor
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:31:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1609*
+*Related: N-10609*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:34:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2463, N-1608, N-1610*
+*Related: C-2463, N-10608, N-10610*
 
 **A-1842.2** Video segment showing Charlie falling/sliding toward the table
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:38:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2464, C-2472, N-1608*
+*Related: C-2464, C-2472, N-10608*
 
 **A-1842.3** Video segment showing Charlie's hands making contact with table without grabbing any object
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2465, N-1608*
+*Related: C-2465, N-10608*
 
 **A-1842.4** Video segment showing the necklace and magnet clasp still attached post-impact
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:35:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2463, N-1608, N-1610*
+*Related: C-2463, N-10608, N-10610*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2467, N-968, N-70, N-1611*
+*Related: C-2467, N-968, N-70, N-10611*
 
 **A-1844.2** X community note fact-checking TP Action's Massie tweet: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman"
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2468, N-968, N-1611*
+*Related: C-2468, N-968, N-10611*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:44:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2469, C-2474, N-968, N-1611*
+*Related: C-2469, C-2474, N-968, N-10611*
 
 ---
 
@@ -303,7 +303,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, N-1611*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, N-10611*
 
 ---
 
@@ -316,7 +316,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1837.1, C-2457, N-439, N-1606*
+*Related: A-1837.1, C-2457, N-439, N-10606*
 
 ---
 
@@ -329,7 +329,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1835.1, N-1604, N-1605*
+*Related: A-1835.1, N-10604, N-10605*
 
 ---
 
@@ -342,7 +342,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1838.1, A-1838.2, A-1839.1, C-2458, C-2459, C-2470, N-1607*
+*Related: A-1838.1, A-1838.2, A-1839.1, C-2458, C-2459, C-2470, N-10607*
 
 ---
 
@@ -355,7 +355,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1839.1, A-1840.1, C-2460, N-1607*
+*Related: A-1839.1, A-1840.1, C-2460, N-10607*
 
 ---
 
@@ -407,7 +407,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-969, N-1606*
+*Related: N-969, N-10606*
 
 ---
 
@@ -433,7 +433,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-1605*
+*Related: N-2, N-10605*
 
 ---
 
@@ -450,7 +450,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1604** 301 East 66th Street NYC Building Investigation
+**N-10604** 301 East 66th Street NYC Building Investigation
 
 Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as "apartments for models." Per host, viewers identified building matching description of the "white building" associated with Erica Kirk's Next Model Management real-estate role.
 
@@ -459,11 +459,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, C-2453, C-2454, C-2455, N-2, N-970, N-1605*
+*Related: A-1835.1, C-2453, C-2454, C-2455, N-2, N-970, N-10605*
 
 ---
 
-**N-1605** Next Model Management / Erica Kirk Connection
+**N-10605** Next Model Management / Erica Kirk Connection
 
 Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a "white building" near 68th Street between Second and Third Avenue.
 
@@ -472,11 +472,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, N-2, N-951, N-1604*
+*Related: A-1835.1, N-2, N-951, N-10604*
 
 ---
 
-**N-1606** Club America High School Pushback
+**N-10606** Club America High School Pushback
 
 Investigation target: state-level rollout of Club America (TPUSA) in high schools, including Arkansas proclamation; pushback reported in displayed user comments.
 
@@ -489,7 +489,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1607** Renee Crossman / United Hands Romania Cult Affiliation
+**N-10607** Renee Crossman / United Hands Romania Cult Affiliation
 
 Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erica Kirk.
 
@@ -502,7 +502,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1608** 9/10 Behind Charlie Video Analysis
+**N-10608** 9/10 Behind Charlie Video Analysis
 
 Investigation target: forensic observations from the displayed behind-Charlie footage (necklace/magnet clasp state, blood pattern, hand motion at table).
 
@@ -511,11 +511,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-2463, C-2464, C-2465, C-2472, N-1610*
+*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-2463, C-2464, C-2465, C-2472, N-10610*
 
 ---
 
-**N-1609** Hospital Transport Van Interior Photo Analysis
+**N-10609** Hospital Transport Van Interior Photo Analysis
 
 Investigation target: forensic observations from displayed photos of van interior that transported Charlie Kirk to hospital, including Instaclot package identification and back-seat material distribution.
 
@@ -528,7 +528,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1610** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10610** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Investigation target: state and behavior of Kirk's necklace and magnet clasp as shown in displayed 9/10 video and surrounding testimony (Erica, Frank, Brian Harpole stories referenced by host).
 
@@ -537,11 +537,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1842.1, A-1842.4, C-2463, N-1608*
+*Related: A-1842.1, A-1842.4, C-2463, N-10608*
 
 ---
 
-**N-1611** Turning Point Action / Thomas Massie Disavowal Incident
+**N-10611** Turning Point Action / Thomas Massie Disavowal Incident
 
 Investigation target: TP Action public reversal against Massie, who was a longtime Charlie Kirk favorite, and the surrounding X community note fact-check.
 
@@ -564,7 +564,7 @@ Claim: The displayed New York Post article identifies 301 East 66th Street, a 16
 
 Anchored Artifacts: A-1835.1
 Mentions: N-35
-Related Nodes: N-1604
+Related Nodes: N-10604
 Investigative Direction: Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.
 
 ---
@@ -577,7 +577,7 @@ Claim: Per the displayed NY Post article, some apartments in the 301 East 66th S
 
 Anchored Artifacts: A-1835.1
 Mentions: N-35
-Related Nodes: N-1604, N-1605
+Related Nodes: N-10604, N-10605
 Investigative Direction: Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses.
 
 ---
@@ -589,7 +589,7 @@ Claim Timestamp: 00:04:48
 Claim: The photo embedded in the displayed NY Post article depicting the building was credited to Corcoran real estate.
 
 Anchored Artifacts: A-1835.1
-Related Nodes: N-1604, N-1605
+Related Nodes: N-10604, N-10605
 Investigative Direction: Confirm Corcoran's listing history for 301 East 66th Street and identify the Corcoran president referenced in Epstein files as a Rothschild.
 
 ---
@@ -614,7 +614,7 @@ Claim: Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a
 
 Anchored Artifacts: A-1837.1
 Mentions: N-2, N-969
-Related Nodes: N-1606
+Related Nodes: N-10606
 Investigative Direction: Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.
 
 ---
@@ -627,7 +627,7 @@ Claim: Per the displayed 2017 article, Erica Kirk stated: "I am happy to collabo
 
 Anchored Artifacts: A-1838.1
 Mentions: N-2, N-971
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.
 
 ---
@@ -640,7 +640,7 @@ Claim: Per the displayed interview clip, Erica Kirk stated that Romanian childre
 
 Anchored Artifacts: A-1838.2
 Mentions: N-2, N-971
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.
 
 ---
@@ -653,7 +653,7 @@ Claim: Per the displayed Romanian investigative article, Children of God founder
 
 Anchored Artifacts: A-1839.1
 Mentions: N-972
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.
 
 ---
@@ -666,7 +666,7 @@ Claim: Per the displayed Megyn Kelly interview clip, Christina Babin described b
 
 Anchored Artifacts: A-1840.1
 Mentions: N-972, N-982, N-75
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's "sexual sharing" directive.
 
 ---
@@ -678,7 +678,7 @@ Claim Timestamp: 00:30:45
 Claim: Per the displayed van interior photos, material (which the host observes appears consistent with shattered glass or a microphone component) is distributed across the back seat area.
 
 Anchored Artifacts: A-1841.1, A-1841.2
-Related Nodes: N-1609
+Related Nodes: N-10609
 Investigative Direction: Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.
 
 ---
@@ -691,7 +691,7 @@ Claim: Per the displayed video, the necklace worn by Charlie Kirk is shown movin
 
 Anchored Artifacts: A-1842.1, A-1842.4
 Mentions: N-1
-Related Nodes: N-1608, N-1610
+Related Nodes: N-10608, N-10610
 Investigative Direction: Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host).
 
 ---
@@ -704,7 +704,7 @@ Claim: Per the displayed video, no blood is visible traveling backward from Char
 
 Anchored Artifacts: A-1842.2
 Mentions: N-1
-Related Nodes: N-1608
+Related Nodes: N-10608
 Investigative Direction: Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round.
 
 ---
@@ -717,7 +717,7 @@ Claim: Per the displayed video, when Charlie Kirk's hands first make contact wit
 
 Anchored Artifacts: A-1842.3
 Mentions: N-1
-Related Nodes: N-1608
+Related Nodes: N-10608
 Investigative Direction: Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory.
 
 ---
@@ -730,7 +730,7 @@ Claim: Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as on
 
 Anchored Artifacts: A-1843.1
 Mentions: N-1, N-968
-Related Nodes: N-1611
+Related Nodes: N-10611
 Investigative Direction: Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).
 
 ---
@@ -743,7 +743,7 @@ Claim: Per the displayed Turning Point Action tweet, the organization characteri
 
 Anchored Artifacts: A-1844.1
 Mentions: N-968
-Related Nodes: N-1611
+Related Nodes: N-10611
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 
 ---
@@ -756,7 +756,7 @@ Claim: Per the displayed X community note, the Massie tweet from Turning Point A
 
 Anchored Artifacts: A-1844.2
 Mentions: N-968, N-1
-Related Nodes: N-1611
+Related Nodes: N-10611
 Investigative Direction: Preserve community note metadata; identify raters and any subsequent updates to the note.
 
 ---
@@ -769,7 +769,7 @@ Claim: Per the displayed video instances cited in Massie's reply tweet and host 
 
 Anchored Artifacts: A-1843.1, A-1845.1
 Mentions: N-1, N-968
-Related Nodes: N-1611
+Related Nodes: N-10611
 Investigative Direction: Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.
 
 ---
@@ -782,7 +782,7 @@ Claim: Per the displayed Romanian investigative article, Renee Crossman is ident
 
 Anchored Artifacts: A-1839.1
 Mentions: N-971
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.
 
 ---
@@ -795,7 +795,7 @@ Claim: Per the displayed 2017 article, Erica Kirk's partnership for the benefit 
 
 Anchored Artifacts: A-1838.1
 Mentions: N-2, N-971
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.
 
 ---
@@ -808,7 +808,7 @@ Claim: Per the displayed video, an individual the host identifies as "Dan" is ob
 
 Anchored Artifacts: A-1842.2
 Mentions: N-1
-Related Nodes: N-1608
+Related Nodes: N-10608
 Investigative Direction: Identify the individual referred to as "Dan" via displayed video and corroborate identity with official event staff rosters.
 
 ---
@@ -821,7 +821,7 @@ Claim: Per the host's framing of the displayed van photos (corroborating analysi
 
 Anchored Artifacts: A-1841.1, A-1841.2
 Mentions: N-424, N-552
-Related Nodes: N-1609
+Related Nodes: N-10609
 Investigative Direction: Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.
 
 ---
@@ -834,7 +834,7 @@ Claim: Per the displayed Massie reply tweet, Massie directly asked Turning Point
 
 Anchored Artifacts: A-1845.1
 Mentions: N-968
-Related Nodes: N-1611
+Related Nodes: N-10611
 Investigative Direction: Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.
 
 ---
@@ -847,7 +847,7 @@ Claim: Per the displayed Romanian investigative article, the Children of God / T
 
 Anchored Artifacts: A-1839.1
 Mentions: N-972
-Related Nodes: N-1607
+Related Nodes: N-10607
 Investigative Direction: Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.
 
 ---

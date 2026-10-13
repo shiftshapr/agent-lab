@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-439, N-440, N-441, N-442, N-443, N-444, N-445, N-446, N-1344, N-1345, N-1346, N-1347, N-1348, N-1349, N-1350, N-1351, N-1352, N-1353
+  - New Nodes Introduced:  N-439, N-440, N-441, N-442, N-443, N-444, N-445, N-446, N-10344, N-10345, N-10346, N-10347, N-10348, N-10349, N-10350, N-10351, N-10352, N-10353
   - Reused Nodes Appearing: N-1
   - (see registers)
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:08:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1768, C-1769, C-1770, N-102, N-1344, N-1348, N-1349, N-1350*
+*Related: C-1768, C-1769, C-1770, N-102, N-10344, N-10348, N-10349, N-10350*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:09:53–00:10:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1772, N-102, N-1344*
+*Related: C-1772, N-102, N-10344*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:05:34–00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (sender identity redacted by host; content verbally read)
 
-*Related: C-1773, C-1774, C-1775, N-102, N-1345, N-1348, N-1349, N-1344*
+*Related: C-1773, C-1774, C-1775, N-102, N-10345, N-10348, N-10349, N-10344*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:12:13–00:13:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news clip played; exact source outlet not specified)
 
-*Related: C-1776, N-445, N-1347*
+*Related: C-1776, N-445, N-10347*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:29:33–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email content read verbatim)
 
-*Related: C-1780, N-3, N-442, N-1352*
+*Related: C-1780, N-3, N-442, N-10352*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:32:36–00:34:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-3, N-443, N-444, N-1353*
+*Related: N-3, N-443, N-444, N-10353*
 
 ---
 
@@ -211,7 +211,7 @@ Claim Count: 3
 Episode Count: 2 (this series)
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1452.1, A-1453.1, C-1768, C-1771, C-1772, N-1344*
+*Related: A-1451.1, A-1452.1, A-1453.1, C-1768, C-1771, C-1772, N-10344*
 
 ---
 
@@ -224,7 +224,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1453.1, A-1454.1, C-1772, C-1775, N-1344*
+*Related: A-1453.1, A-1454.1, C-1772, C-1775, N-10344*
 
 ---
 
@@ -276,7 +276,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-3, N-1352*
+*Related: A-1459.1, C-1780, N-3, N-10352*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1460.1, N-443, N-1353*
+*Related: A-1460.1, N-443, N-10353*
 
 ---
 
@@ -315,7 +315,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1455.1, C-1776, N-1347*
+*Related: A-1455.1, C-1776, N-10347*
 
 ---
 
@@ -332,7 +332,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1344** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
+**N-10344** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
 
 Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel "see you in Valhalla" press conference statement.
 
@@ -341,11 +341,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1453.1, A-1454.1, C-1768, C-1772, C-1775, N-102, N-1349*
+*Related: A-1451.1, A-1453.1, A-1454.1, C-1768, C-1772, C-1775, N-102, N-10349*
 
 ---
 
-**N-1345** BTT Minot AFB Stopover Question
+**N-10345** BTT Minot AFB Stopover Question
 
 Investigation target: why the Egyptian military BTT aircraft stopped at Minot, North Dakota for approximately one hour on September 4, 2025 rather than flying direct to Provo.
 
@@ -354,11 +354,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1454.1, C-1773, N-1348, N-1349*
+*Related: A-1454.1, C-1773, N-10348, N-10349*
 
 ---
 
-**N-1346** Maroon Shirt Coordination Theory
+**N-10346** Maroon Shirt Coordination Theory
 
 Investigation target: host's observation that multiple individuals in assassination-day footage appear to be wearing maroon shirts; host's source reportedly confirmed UVU school color is not maroon.
 
@@ -371,7 +371,7 @@ Investigative Pressure: Low (host-asserted, no documentary anchor)
 
 ---
 
-**N-1347** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10347** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Investigation target: temporal overlap between BTT aircraft's July 20 longest trip (to Nebraska) and Nebraska Secretary of State's July 22 announcement of Egypt trade mission.
 
@@ -384,7 +384,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1348** Minot Air Force Base
+**N-10348** Minot Air Force Base
 
 U.S. Air Force base in North Dakota; home to 5,000 military personnel and the 891st MSFS; site of BTT's September 4 stopover.
 
@@ -393,11 +393,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1451.1, A-1454.1, C-1769, C-1773, N-1345, N-1349*
+*Related: A-1451.1, A-1454.1, C-1769, C-1773, N-10345, N-10349*
 
 ---
 
-**N-1349** 891st Missile Security Forces Squadron
+**N-10349** 891st Missile Security Forces Squadron
 
 Air Force unit stationed at Minot AFB; conducted Operation Valhalla Strike at Camp Ripley Aug 24–29, 2025; described as combined military/civilian security force.
 
@@ -406,11 +406,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1451.1, A-1454.1, C-1768, C-1770, N-1344, N-1348*
+*Related: A-1451.1, A-1454.1, C-1768, C-1770, N-10344, N-10348*
 
 ---
 
-**N-1350** Camp Ripley Training Center
+**N-10350** Camp Ripley Training Center
 
 Minnesota training facility where Operation Valhalla Strike was conducted Aug 24–29, 2025; provides full-distance live-fire ranges.
 
@@ -419,11 +419,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1451.1, C-1768, N-1349*
+*Related: A-1451.1, C-1768, N-10349*
 
 ---
 
-**N-1351** The Free Press
+**N-10351** The Free Press
 
 Online publication co-founded by Bari Weiss; outlet of record for the Rinzberg inquiry email.
 
@@ -436,7 +436,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1352** Free Press Email Inquiry Target
+**N-10352** Free Press Email Inquiry Target
 
 Topic: episode-specific Rinzberg email regarding "economics of high engagement political content" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Breit.
 
@@ -449,7 +449,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1353** CBS News
+**N-10353** CBS News
 
 Network where Bari Weiss was installed per Tim Dylan clip.
 
@@ -473,7 +473,7 @@ Claim: A week-long training exercise named Operation Valhalla Strike was conduct
 Anchored Artifacts: A-1451.1
 Mentions: N-102
 
-Related Nodes: N-1344, N-1348, N-1349, N-1350
+Related Nodes: N-10344, N-10348, N-10349, N-10350
 
 Investigative Direction: Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.
 
@@ -487,7 +487,7 @@ Claim: Operation Valhalla Strike included air-based ground defense and nuclear s
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-1349, N-1350, N-1344
+Related Nodes: N-10349, N-10350, N-10344
 
 Investigative Direction: Compare with official 891st MSFS mission description and any subsequent DoD releases.
 
@@ -501,7 +501,7 @@ Claim: The 891st Missile Security Forces Squadron is described as a combined mil
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-1349, N-1348, N-1344
+Related Nodes: N-10349, N-10348, N-10344
 
 Investigative Direction: Verify against official USAF fact sheets.
 
@@ -530,7 +530,7 @@ Claim: At a press conference dated September 12, 2025, FBI Director Kash Patel c
 Anchored Artifacts: A-1453.1
 Mentions: N-102, N-1
 
-Related Nodes: N-1344
+Related Nodes: N-10344
 
 Investigative Direction: Compare to full Patel press conference record on FBI.gov or C-SPAN.
 
@@ -545,7 +545,7 @@ Claim: Per a military tipster email, the Egyptian military BTT aircraft stopped 
 Anchored Artifacts: A-1454.1
 Mentions: N-102
 
-Related Nodes: N-1345, N-1348
+Related Nodes: N-10345, N-10348
 
 Investigative Direction: Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA.
 
@@ -559,7 +559,7 @@ Claim: Per the military tipster email, Minot, North Dakota hosts both an Air For
 
 Anchored Artifacts: A-1454.1
 
-Related Nodes: N-1348
+Related Nodes: N-10348
 
 Investigative Direction: Verify via Minot AFB public site and FBI field office directory.
 
@@ -574,7 +574,7 @@ Claim: Per the military tipster email, the 891st MSFS had "just come off of" Ope
 Anchored Artifacts: A-1454.1
 Mentions: N-102
 
-Related Nodes: N-1344, N-1345, N-1348, N-1349
+Related Nodes: N-10344, N-10345, N-10348, N-10349
 
 Investigative Direction: Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4.
 
@@ -589,7 +589,7 @@ Claim: On or around July 22, 2025, Nebraska Secretary of State Bob Evan announce
 Anchored Artifacts: A-1455.1
 Mentions: N-445
 
-Related Nodes: N-1347
+Related Nodes: N-10347
 
 Investigative Direction: Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates.
 
@@ -646,7 +646,7 @@ Claim: Ashley Rinzberg, writing for The Free Press, emailed Candace Owens reques
 Anchored Artifacts: A-1459.1
 Mentions: N-3, N-442, N-1
 
-Related Nodes: N-1351, N-1352
+Related Nodes: N-10351, N-10352
 
 Investigative Direction: Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.
 

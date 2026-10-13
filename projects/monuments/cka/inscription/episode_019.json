@@ -540,7 +540,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1258"
+        "N-10258"
       ]
     },
     {
@@ -647,8 +647,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1257",
-      "ref": "N-1257",
+      "@id": "N-10257",
+      "ref": "N-10257",
       "name": "834ms Phone Timing Analysis",
       "type": "investigation_target",
       "description": "Investigable measurement: claimed time between gunshot audio and Mikey McCoy's phone-to-ear motion based on host's frame-by-frame review of event footage.",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1258",
-      "ref": "N-1258",
+      "@id": "N-10258",
+      "ref": "N-10258",
       "name": "Camera Operator Behavior Pattern",
       "type": "investigation_target",
       "description": "Investigable question regarding the camera operator's post-shot conduct: immediate selfie recording, premature announcement of death, brief flight distance, and delayed camera takedown.",
@@ -697,8 +697,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1259",
-      "ref": "N-1259",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Mikey McCoy Call Log Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target: the absence of any public release or response from Mikey McCoy regarding who he was calling at 12:23 p.m. on 2025-09-10, despite host's stated attempts to obtain comment.",
@@ -720,8 +720,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1260",
-      "ref": "N-1260",
+      "@id": "N-10260",
+      "ref": "N-10260",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Investigable question: how Pastor Rob McCoy possessed knowledge of a TPUSA succession plan four days post-event, and the relationship between that disclosure and the implementation timeline.",
@@ -742,8 +742,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1261",
-      "ref": "N-1261",
+      "@id": "N-10261",
+      "ref": "N-10261",
       "name": "Josh Hammer Defamation Threat",
       "type": "investigation_target",
       "description": "Investigable matter: Josh Hammer's reported threat of defamation action against Candace Owens following her discussion of Charlie Kirk's Israel-related text messages.",
@@ -917,8 +917,8 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-1257",
-        "N-1259"
+        "N-10257",
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34–00:11:27",
@@ -938,8 +938,8 @@
         "A-1261.3"
       ],
       "related_nodes": [
-        "N-1257",
-        "N-1259"
+        "N-10257",
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:13:33",
@@ -955,8 +955,8 @@
         "A-1261.2"
       ],
       "related_nodes": [
-        "N-1257",
-        "N-1259"
+        "N-10257",
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
@@ -975,7 +975,7 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-1258"
+        "N-10258"
       ],
       "tags": [],
       "claim_timestamp": "00:24:44–00:25:51",
@@ -994,7 +994,7 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-1258"
+        "N-10258"
       ],
       "tags": [],
       "claim_timestamp": "00:24:44–00:25:51",
@@ -1014,7 +1014,7 @@
         "A-1262.2"
       ],
       "related_nodes": [
-        "N-1258"
+        "N-10258"
       ],
       "tags": [],
       "claim_timestamp": "00:23:05",
@@ -1034,7 +1034,7 @@
         "A-1260.1"
       ],
       "related_nodes": [
-        "N-1260"
+        "N-10260"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11",
@@ -1195,7 +1195,7 @@
         "A-1265.1"
       ],
       "related_nodes": [
-        "N-1261"
+        "N-10261"
       ],
       "tags": [],
       "claim_timestamp": "00:34:49–00:35:33",
@@ -1328,7 +1328,7 @@
         "A-1269.9"
       ],
       "related_nodes": [
-        "N-1258"
+        "N-10258"
       ],
       "tags": [],
       "claim_timestamp": "00:56:09",
@@ -1360,7 +1360,7 @@
       "claim": "Host states she instructed her team to play devil's advocate for Mikey McCoy and to propose any scenario explaining the 834ms timing; \"no one could win this game.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1259"
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",

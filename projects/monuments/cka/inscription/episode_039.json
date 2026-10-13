@@ -42,7 +42,7 @@
             "N-468",
             "N-474",
             "N-475",
-            "N-1377"
+            "N-10377"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,8 +198,8 @@
           "related_nodes": [
             "N-264",
             "N-471",
-            "N-1369",
-            "N-1371"
+            "N-10369",
+            "N-10371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
           ],
           "related_nodes": [
             "N-264",
-            "N-1369"
+            "N-10369"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -238,7 +238,7 @@
           "related_nodes": [
             "N-264",
             "N-471",
-            "N-1369"
+            "N-10369"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
           "related_nodes": [
             "N-264",
             "N-70",
-            "N-1372"
+            "N-10372"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -284,7 +284,7 @@
             "C-1818"
           ],
           "related_nodes": [
-            "N-1370"
+            "N-10370"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -310,8 +310,8 @@
             "C-1819"
           ],
           "related_nodes": [
-            "N-1373",
-            "N-1376"
+            "N-10373",
+            "N-10376"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
           ],
           "related_nodes": [
             "N-462",
-            "N-1079"
+            "N-10079"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -368,7 +368,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1374"
+        "N-10374"
       ]
     },
     {
@@ -391,8 +391,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-463",
-        "N-1374",
-        "N-1377"
+        "N-10374",
+        "N-10377"
       ]
     },
     {
@@ -419,7 +419,7 @@
       "related_nodes": [
         "N-464",
         "N-475",
-        "N-1377"
+        "N-10377"
       ]
     },
     {
@@ -464,7 +464,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-474",
-        "N-1377"
+        "N-10377"
       ]
     },
     {
@@ -509,7 +509,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-468",
-        "N-1377"
+        "N-10377"
       ]
     },
     {
@@ -532,7 +532,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-467",
-        "N-1377"
+        "N-10377"
       ]
     },
     {
@@ -556,8 +556,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-70",
-        "N-1372",
-        "N-1375"
+        "N-10372",
+        "N-10375"
       ]
     },
     {
@@ -576,7 +576,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-70",
-        "N-1372"
+        "N-10372"
       ]
     },
     {
@@ -619,8 +619,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1369",
-      "ref": "N-1369",
+      "@id": "N-10369",
+      "ref": "N-10369",
       "name": "Pierre Dupont Donor Identity Verification Question",
       "type": "investigation_target",
       "description": "Persistent target: whether the \"French-American Pierre\" referenced by TPUSA sources is Pierre Dupont, and the nature of his reported donor relationship with TPUSA.",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1370",
-      "ref": "N-1370",
+      "@id": "N-10370",
+      "ref": "N-10370",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
       "type": "investigation_target",
       "description": "Per federal source, TPUSA allegedly placed personal request to kill the Egyptian plane story.",
@@ -663,8 +663,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1371",
-      "ref": "N-1371",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Justin Strife Post-Assassination Phone Call",
       "type": "investigation_target",
       "description": "Six TPUSA sources reported rumor that Strife placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1372",
-      "ref": "N-1372",
+      "@id": "N-10372",
+      "ref": "N-10372",
       "name": "TPUSA Real Estate Program Allegation",
       "type": "investigation_target",
       "description": "Per source testimony with supporting proof, Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.",
@@ -709,8 +709,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1373",
-      "ref": "N-1373",
+      "@id": "N-10373",
+      "ref": "N-10373",
       "name": "BB Net/Yahoo Offer to TPUSA",
       "type": "investigation_target",
       "description": "Per host narrative (not artifact-anchored), BB Net and Yahoo allegedly offered to take TPUSA to the next level in exchange for unspecified consideration; Charlie allegedly declined. Andrew Kolvet tip indirectly references \"BB.\" Identity of BB unverified.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1374",
-      "ref": "N-1374",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Richards Layton & Finger Connection to Candace Lawsuit",
       "type": "investigation_target",
       "description": "Per host, the law firm whose retired founding partner is DuPont family (Robert H. Richards III) is the firm filing paperwork in Candace's McRonone lawsuit. Requires verification.",
@@ -749,8 +749,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1375",
-      "ref": "N-1375",
+      "@id": "N-10375",
+      "ref": "N-10375",
       "name": "Stacy Sheridan Registered Agent and LLC Question",
       "type": "investigation_target",
       "description": "Per host (not artifact-anchored), Stacy Sheridan's registered agent is at 919 North Market Street, Wilmington (same building as Brijit Lawyers); relevant LLC named as Cloverstone Ventures. Verification pending.",
@@ -767,8 +767,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1376",
-      "ref": "N-1376",
+      "@id": "N-10376",
+      "ref": "N-10376",
       "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
       "type": "investigation_target",
       "description": "Per written tip from Andrew Kolvet family friend, Andrew stated Charlie lost millions by declining BB's offer. Andrew Kolvet described as acting \"weird\" per tipster.",
@@ -784,13 +784,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1373"
+        "N-10373"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1377",
-      "ref": "N-1377",
+      "@id": "N-10377",
+      "ref": "N-10377",
       "name": "DuPont Family Pattern of Crimes",
       "type": "investigation_target",
       "description": "Aggregating pattern: Richards IV rape conviction with no prison; John DuPont murder of David Schultz; Lisa Dean DuPont / Mosley murder for hire of Vegas prostitute.",
@@ -966,7 +966,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-1377"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:06:34",
@@ -985,7 +985,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-1377"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:07:45",
@@ -1005,7 +1005,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-1374"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
@@ -1025,7 +1025,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-1377"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
@@ -1044,7 +1044,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-1377"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
@@ -1064,7 +1064,7 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-1377"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
@@ -1168,8 +1168,8 @@
         "A-1486.1"
       ],
       "related_nodes": [
-        "N-1369",
-        "N-1371"
+        "N-10369",
+        "N-10371"
       ],
       "tags": [],
       "claim_timestamp": "00:28:17",
@@ -1189,7 +1189,7 @@
         "A-1486.2"
       ],
       "related_nodes": [
-        "N-1369"
+        "N-10369"
       ],
       "tags": [],
       "claim_timestamp": "00:30:22",
@@ -1206,7 +1206,7 @@
         "A-1486.3"
       ],
       "related_nodes": [
-        "N-1369"
+        "N-10369"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
@@ -1223,7 +1223,7 @@
         "A-1486.4"
       ],
       "related_nodes": [
-        "N-1372"
+        "N-10372"
       ],
       "tags": [],
       "claim_timestamp": "00:47:01",
@@ -1243,7 +1243,7 @@
         "A-1487.1"
       ],
       "related_nodes": [
-        "N-1370"
+        "N-10370"
       ],
       "tags": [],
       "claim_timestamp": "00:37:19",
@@ -1259,8 +1259,8 @@
         "A-1488.1"
       ],
       "related_nodes": [
-        "N-1373",
-        "N-1376"
+        "N-10373",
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "00:33:15",
@@ -1296,7 +1296,7 @@
         "A-2513.1"
       ],
       "related_nodes": [
-        "N-1079"
+        "N-10079"
       ],
       "tags": [],
       "claim_timestamp": "00:03:44",

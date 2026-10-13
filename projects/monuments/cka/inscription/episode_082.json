@@ -31,7 +31,7 @@
             "C-2544"
           ],
           "related_nodes": [
-            "N-1628"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,7 +49,7 @@
             "C-2545"
           ],
           "related_nodes": [
-            "N-1628"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -67,7 +67,7 @@
             "C-2545"
           ],
           "related_nodes": [
-            "N-1628"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "C-2546"
           ],
           "related_nodes": [
-            "N-1630"
+            "N-10630"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -112,7 +112,7 @@
             "C-2549"
           ],
           "related_nodes": [
-            "N-1630"
+            "N-10630"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -130,7 +130,7 @@
             "C-2555"
           ],
           "related_nodes": [
-            "N-1630"
+            "N-10630"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
             "C-2556"
           ],
           "related_nodes": [
-            "N-1629"
+            "N-10629"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
             "C-2552"
           ],
           "related_nodes": [
-            "N-1629"
+            "N-10629"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -267,8 +267,8 @@
           "description": "Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
           "related_claims": [],
           "related_nodes": [
-            "N-1629",
-            "N-1632"
+            "N-10629",
+            "N-10632"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,7 +286,7 @@
             "C-2552"
           ],
           "related_nodes": [
-            "N-1632"
+            "N-10632"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -360,7 +360,7 @@
             "C-2550"
           ],
           "related_nodes": [
-            "N-1631"
+            "N-10631"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,8 +375,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1626",
-      "ref": "N-1626",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Erica Kirk 9/10 Location Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative question of where Erica Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.",
@@ -395,13 +395,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-1628"
+        "N-10628"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1627",
-      "ref": "N-1627",
+      "@id": "N-10627",
+      "ref": "N-10627",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
       "type": "investigation_target",
       "description": "Persistent question of Andrew Kolvet's actual flight path on September 10. Episode develops 3:26 PM MST timing correlation against ADSB data and Wi-Fi analysis of Barbara plane.",
@@ -429,8 +429,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1628",
-      "ref": "N-1628",
+      "@id": "N-10628",
+      "ref": "N-10628",
       "name": "Hopkinson Aircrafts Business Verification",
       "type": "investigation_target",
       "description": "Question of whether Hopkinson Aircrafts is a functioning aircraft brokerage as advertised, given its unmarked separate building, shared Atlantic Aviation address, and unusual occupancy profile.",
@@ -451,8 +451,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1629",
-      "ref": "N-1629",
+      "@id": "N-10629",
+      "ref": "N-10629",
       "name": "Charlie Kirk Live Show 9/10 Liveness Verification",
       "type": "investigation_target",
       "description": "Question of whether Andrew Kolvet's first-hour hosting of Charlie Kirk Live Show on 9/10 was performed live, given his prior history of faking a live show from the White House (per host's prior reporting). Host seeking written confirmation from Nick Shirley.",
@@ -473,8 +473,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1630",
-      "ref": "N-1630",
+      "@id": "N-10630",
+      "ref": "N-10630",
       "name": "Barbara Plane (N8724A) Operations",
       "type": "investigation_target",
       "description": "The Hawker Beechcraft alleged by Erica Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.",
@@ -495,8 +495,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1631",
-      "ref": "N-1631",
+      "@id": "N-10631",
+      "ref": "N-10631",
       "name": "N40JD Plane Passenger Manifest",
       "type": "investigation_target",
       "description": "Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed.",
@@ -517,8 +517,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1632",
-      "ref": "N-1632",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Nick Shirley Background Verification",
       "type": "investigation_target",
       "description": "Question of Nick Shirley's claimed credentials, including the 48-hour Comando Vermelho infiltration claim and his access/sourcing profile.",
@@ -645,8 +645,8 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-1626",
-        "N-1628"
+        "N-10626",
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:09:34",
@@ -667,7 +667,7 @@
         "A-1886.3"
       ],
       "related_nodes": [
-        "N-1628"
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
@@ -683,7 +683,7 @@
         "A-1887.2"
       ],
       "related_nodes": [
-        "N-1630"
+        "N-10630"
       ],
       "tags": [],
       "claim_timestamp": "00:19:39",
@@ -699,7 +699,7 @@
         "A-1888.1"
       ],
       "related_nodes": [
-        "N-1627"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:24:05",
@@ -718,7 +718,7 @@
         "A-1889.1"
       ],
       "related_nodes": [
-        "N-1627"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
@@ -738,8 +738,8 @@
         "A-1889.2"
       ],
       "related_nodes": [
-        "N-1627",
-        "N-1630"
+        "N-10627",
+        "N-10630"
       ],
       "tags": [],
       "claim_timestamp": "00:20:35",
@@ -758,7 +758,7 @@
         "A-1894.1"
       ],
       "related_nodes": [
-        "N-1631"
+        "N-10631"
       ],
       "tags": [],
       "claim_timestamp": "00:39:16",
@@ -778,7 +778,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-1629"
+        "N-10629"
       ],
       "tags": [],
       "claim_timestamp": "00:31:34",
@@ -798,7 +798,7 @@
         "A-1891.2"
       ],
       "related_nodes": [
-        "N-1632"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:36:47",
@@ -854,7 +854,7 @@
         "A-1887.3"
       ],
       "related_nodes": [
-        "N-1627"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:25:37",
@@ -870,7 +870,7 @@
         "A-1890.1"
       ],
       "related_nodes": [
-        "N-1629"
+        "N-10629"
       ],
       "tags": [],
       "claim_timestamp": "00:31:34",
@@ -890,7 +890,7 @@
         "A-1887.3"
       ],
       "related_nodes": [
-        "N-1627"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:38:35",
@@ -923,7 +923,7 @@
       "claim": "Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina was told by another staffer that the statement about Charlie's death required Andrew Kolvet's input before release.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1627"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:23:03",

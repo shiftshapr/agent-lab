@@ -37,7 +37,7 @@
 
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
-  - New Nodes Introduced: N-2193, N-2194, N-2195
+  - New Nodes Introduced: N-11193, N-11194, N-11195
   - Reused Nodes Appearing: N-46, N-929
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
@@ -49,7 +49,7 @@ This episode presents Candace Owens's post-debate recap of a discussion between 
 
 Secondary artifacts include post-debate social media reactions: an AI-generated "Jars Wide Shut" video by @whereforbidden (A-2278.1), a "Stages of Debate Grief" meme by @alpha_approved (A-2279.1), two Rachel Wilson X posts regarding in-ear monitors and case detail familiarity (A-2280.1, A-2280.2), a Steven Crowder–Andrew Wilson post-debate phone call regarding makeup and hair (A-2281.1), and a Poly Market chart showing Robinson conviction odds falling during the debate (A-2282.1).
 
-The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-2193), and Wilson's stated intent to release "never-before-seen messages" (N-2194). Pre-debate negotiation details, including anonymous "Crucible team" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.
+The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-11193), and Wilson's stated intent to release "never-before-seen messages" (N-11194). Pre-debate negotiation details, including anonymous "Crucible team" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3277, C-3289, N-2193, N-2194*
+*Related: C-3277, C-3289, N-11193, N-11194*
 
 **A-2277.2** Debate Segment – Wilson's 75–85% Confidence Estimate
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:49:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2194*
+*Related: N-11194*
 
 **A-2277.6** Debate Segment – 16-Second Silence and Lance DNA Clip Moment
 
@@ -221,13 +221,13 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3286, N-2194, N-46*
+*Related: C-3286, N-11194, N-46*
 
 ---
 
 ## IV. Node Register
 
-**N-2193** September 9, 2025 Message Nature Discrepancy
+**N-11193** September 9, 2025 Message Nature Discrepancy
 
 Persistent disagreement over whether the Charlie Kirk security message Wilson referenced in his opening statement was sent via Signal (per Wilson's prior framing) or iMessage (per Owens's prior public claim that she has seen the message).
 
@@ -238,7 +238,7 @@ Investigative Pressure: Medium
 
 *Related: A-2277.1, C-3277*
 
-**N-2194** Wilson's Promised Release of "Never-Before-Seen Messages"
+**N-11194** Wilson's Promised Release of "Never-Before-Seen Messages"
 
 Wilson opened the debate stating he possesses never-before-seen messages from Charlie Kirk's security team dated September 9, 2025, and committed to dropping the underlying message text on his show following the debate; the message had not been released as of this episode.
 
@@ -249,7 +249,7 @@ Investigative Pressure: Medium
 
 *Related: A-2277.1, A-2283.1, C-3277, C-3286*
 
-**N-2195** Turning Point USA Organizational State (Post-Debate)
+**N-11195** Turning Point USA Organizational State (Post-Debate)
 
 Persistent investigation target tracking TPUSA's institutional conduct, public posture, and personnel alignment under Erika Kirk's leadership; episode contributes Wilson's performance and the post-debate social media reaction as additional data points.
 
@@ -282,7 +282,7 @@ Claim: Andrew Wilson's debate opening statement was read aloud from a mobile pho
 Anchored Artifacts: A-2277.1
 Mentions: N-46, N-1
 
-Related Nodes: N-2193, N-2194
+Related Nodes: N-11193, N-11194
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -394,7 +394,7 @@ Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed i
 Anchored Artifacts: A-2283.1
 Mentions: N-46, N-69
 
-Related Nodes: N-2194
+Related Nodes: N-11194
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -433,9 +433,9 @@ Claim: During his debate opening, Andrew Wilson asserted that he possessed Charl
 Anchored Artifacts: A-2277.1
 Mentions: N-46, N-1
 
-Related Nodes: N-2193
+Related Nodes: N-11193
 
-Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193).
+Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-11193).
 
 ---
 
@@ -459,8 +459,8 @@ Investigative Direction: Verify whether the cell phone referenced matches the de
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (starting at N-1207 for new entities)
-- [x] Non-person investigation targets use the 1000 series (starting at N-2193)
+- [x] People nodes use the global people ledger (starting at N-10207 for new entities)
+- [x] Non-person investigation targets use the 1000 series (starting at N-11193)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly as transcribed, with uncertainty flagged
 - [x] Formatting consistent throughout

@@ -35,7 +35,7 @@
             "N-224",
             "N-1",
             "N-2",
-            "N-1384"
+            "N-10384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "N-224",
             "N-2",
             "N-1",
-            "N-1384"
+            "N-10384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -85,7 +85,7 @@
           ],
           "related_nodes": [
             "N-224",
-            "N-1384",
+            "N-10384",
             "N-2"
           ],
           "tags": [],
@@ -138,7 +138,7 @@
           "description": "John McCain addressing Ukraine protesters (Maidan material)",
           "related_claims": [],
           "related_nodes": [
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-1847"
           ],
           "related_nodes": [
-            "N-1382",
+            "N-10382",
             "N-490",
             "N-491"
           ],
@@ -187,7 +187,7 @@
           ],
           "related_nodes": [
             "N-490",
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,7 +206,7 @@
           ],
           "related_nodes": [
             "N-490",
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
           ],
           "related_nodes": [
             "N-490",
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
           "related_nodes": [
             "N-491",
             "N-492",
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
             "C-1847"
           ],
           "related_nodes": [
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -292,7 +292,7 @@
           ],
           "related_nodes": [
             "N-224",
-            "N-1384"
+            "N-10384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,7 +319,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1383"
+            "N-10383"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,7 +346,7 @@
           ],
           "related_nodes": [
             "N-493",
-            "N-1386"
+            "N-10386"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-1859"
           ],
           "related_nodes": [
-            "N-1385"
+            "N-10385"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-1860"
           ],
           "related_nodes": [
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -428,7 +428,7 @@
           "related_nodes": [
             "N-492",
             "N-491",
-            "N-1382"
+            "N-10382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,7 +453,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-1384"
+            "N-10384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -516,7 +516,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ]
     },
     {
@@ -538,7 +538,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-224",
-        "N-1384"
+        "N-10384"
       ]
     },
     {
@@ -586,7 +586,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ]
     },
     {
@@ -610,7 +610,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-492",
-        "N-1382"
+        "N-10382"
       ]
     },
     {
@@ -633,7 +633,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-491",
-        "N-1382"
+        "N-10382"
       ]
     },
     {
@@ -655,7 +655,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1386"
+        "N-10386"
       ]
     },
     {
@@ -676,13 +676,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-224",
-        "N-1384"
+        "N-10384"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1382",
-      "ref": "N-1382",
+      "@id": "N-10382",
+      "ref": "N-10382",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
       "type": "investigation_target",
       "description": "Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.",
@@ -721,8 +721,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1383",
-      "ref": "N-1383",
+      "@id": "N-10383",
+      "ref": "N-10383",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
       "type": "investigation_target",
       "description": "Persistent target tracking reported drop to #94 from prior top-10 status.",
@@ -743,8 +743,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1384",
-      "ref": "N-1384",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "TPUSA December 15 Live Stream Event Verification",
       "type": "investigation_target",
       "description": "Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.",
@@ -777,8 +777,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1385",
-      "ref": "N-1385",
+      "@id": "N-10385",
+      "ref": "N-10385",
       "name": "Roof Shooter Video Witness Follow-up",
       "type": "investigation_target",
       "description": "Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.",
@@ -798,8 +798,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1386",
-      "ref": "N-1386",
+      "@id": "N-10386",
+      "ref": "N-10386",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
       "type": "investigation_target",
       "description": "Persistent target tracking why Emmanuel Beerer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
@@ -862,7 +862,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:05:37",
@@ -882,7 +882,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",
@@ -902,7 +902,7 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
@@ -940,7 +940,7 @@
       "claim": "When asked whether UVU's school colors include maroon, a UVU-affiliated individual confirmed the school's colors are green and white.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45",
@@ -957,7 +957,7 @@
         "A-1505.6"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45–00:21:55",
@@ -976,7 +976,7 @@
         "A-1506.1"
       ],
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:46:13",
@@ -996,7 +996,7 @@
         "A-1507.1"
       ],
       "related_nodes": [
-        "N-1383"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -1013,7 +1013,7 @@
         "A-1508.1"
       ],
       "related_nodes": [
-        "N-1386"
+        "N-10386"
       ],
       "tags": [],
       "claim_timestamp": "00:32:42–00:33:55",
@@ -1032,7 +1032,7 @@
         "A-1505.2"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:24:45",
@@ -1051,7 +1051,7 @@
         "A-1505.3"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00–00:25:35",
@@ -1070,7 +1070,7 @@
         "A-1505.4"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50–00:25:25",
@@ -1089,7 +1089,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30–00:28:00",
@@ -1110,7 +1110,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:28:00",
@@ -1130,7 +1130,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:27:51–00:28:00",
@@ -1148,7 +1148,7 @@
       "claim": "Tyler Robinson, the alleged shooter, was wearing a maroon shirt at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:28:44",
@@ -1167,7 +1167,7 @@
         "A-1510.1"
       ],
       "related_nodes": [
-        "N-1382"
+        "N-10382"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10–00:23:45",
@@ -1183,7 +1183,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-1385"
+        "N-10385"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -1199,7 +1199,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-1385"
+        "N-10385"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
@@ -1215,7 +1215,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-1385"
+        "N-10385"
       ],
       "tags": [],
       "claim_timestamp": "00:45:11",
@@ -1234,7 +1234,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-1385"
+        "N-10385"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
@@ -1250,7 +1250,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
@@ -1270,7 +1270,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-1384"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",

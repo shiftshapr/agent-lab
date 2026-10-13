@@ -91,7 +91,7 @@
           ],
           "related_nodes": [
             "N-455",
-            "N-1364",
+            "N-10364",
             "N-3"
           ],
           "tags": [],
@@ -118,7 +118,7 @@
             "C-1783"
           ],
           "related_nodes": [
-            "N-1364"
+            "N-10364"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,7 +144,7 @@
             "C-1783"
           ],
           "related_nodes": [
-            "N-1361",
+            "N-10361",
             "N-69"
           ],
           "tags": [],
@@ -198,7 +198,7 @@
             "C-1786"
           ],
           "related_nodes": [
-            "N-1368"
+            "N-10368"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
           ],
           "related_nodes": [
             "N-456",
-            "N-1368"
+            "N-10368"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -251,7 +251,7 @@
             "C-1789"
           ],
           "related_nodes": [
-            "N-1354"
+            "N-10354"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -269,7 +269,7 @@
             "C-1790"
           ],
           "related_nodes": [
-            "N-1355"
+            "N-10355"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,8 +289,8 @@
             "C-1793"
           ],
           "related_nodes": [
-            "N-1356",
-            "N-1358",
+            "N-10356",
+            "N-10358",
             "N-459",
             "N-460"
           ],
@@ -311,7 +311,7 @@
           ],
           "related_nodes": [
             "N-457",
-            "N-1357"
+            "N-10357"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,8 +330,8 @@
           ],
           "related_nodes": [
             "N-461",
-            "N-1358",
-            "N-1359"
+            "N-10358",
+            "N-10359"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,7 +349,7 @@
             "C-1796"
           ],
           "related_nodes": [
-            "N-1360"
+            "N-10360"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -387,8 +387,8 @@
           "description": "Map showing 920 North King Street and surrounding blocks, including reference to a long red crane at a construction site across the street (1100 North King).",
           "related_claims": [],
           "related_nodes": [
-            "N-1355",
-            "N-1356"
+            "N-10355",
+            "N-10356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -404,8 +404,8 @@
           "description": "Map showing Bracebridge Complex at 1100 North King Street spanning six connected buildings, and the adjacent 1100 North Market Street / Rodney Square.",
           "related_claims": [],
           "related_nodes": [
-            "N-1356",
-            "N-1359"
+            "N-10356",
+            "N-10359"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -431,7 +431,7 @@
             "C-1791"
           ],
           "related_nodes": [
-            "N-1356"
+            "N-10356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -450,7 +450,7 @@
           ],
           "related_nodes": [
             "N-458",
-            "N-1356"
+            "N-10356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -476,7 +476,7 @@
             "C-1797"
           ],
           "related_nodes": [
-            "N-1360"
+            "N-10360"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -557,7 +557,7 @@
           ],
           "related_nodes": [
             "N-117",
-            "N-1365"
+            "N-10365"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -576,7 +576,7 @@
           ],
           "related_nodes": [
             "N-117",
-            "N-1365"
+            "N-10365"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -603,7 +603,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1366"
+            "N-10366"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -629,8 +629,8 @@
             "C-1786"
           ],
           "related_nodes": [
-            "N-1361",
-            "N-1368"
+            "N-10361",
+            "N-10368"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -656,7 +656,7 @@
             "C-1787"
           ],
           "related_nodes": [
-            "N-1362"
+            "N-10362"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -682,7 +682,7 @@
             "C-1788"
           ],
           "related_nodes": [
-            "N-1363"
+            "N-10363"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -790,7 +790,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1364"
+        "N-10364"
       ]
     },
     {
@@ -812,7 +812,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1368"
+        "N-10368"
       ]
     },
     {
@@ -834,7 +834,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1357"
+        "N-10357"
       ]
     },
     {
@@ -854,7 +854,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1356"
+        "N-10356"
       ]
     },
     {
@@ -877,8 +877,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1356",
-        "N-1358",
+        "N-10356",
+        "N-10358",
         "N-461"
       ]
     },
@@ -902,8 +902,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-459",
-        "N-1358",
-        "N-1359"
+        "N-10358",
+        "N-10359"
       ]
     },
     {
@@ -927,8 +927,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1354",
-      "ref": "N-1354",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "French Street Wilmington Historical Cluster",
       "type": "investigation_target",
       "description": "Persistent claim that Wilmington's North French Street originated as Willing Street in Thomas Willing's grid and was renamed after 1790s Haitian/French Revolution refugee settlement; central to the alleged \"French network\" narrative.",
@@ -946,8 +946,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1355",
-      "ref": "N-1355",
+      "@id": "N-10355",
+      "ref": "N-10355",
       "name": "920 North King Street Federal Presence",
       "type": "investigation_target",
       "description": "Claim that three federal agencies work together at 920 North King Street, Wilmington; also identified as the address to which a foreign dignitary was escorted and where the attorneys filing Candace Owens's Brigitte-lawsuit paperwork are housed.",
@@ -966,8 +966,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1356",
-      "ref": "N-1356",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Bracebridge Complex French Connection",
       "type": "investigation_target",
       "description": "1100 North King Street complex: originally Maryland Bank HQ (1995), Bank of America acquired (2006) and vacated (2018); 2024 legislation supporting Longwood Foundation (Pierre S. du Pont) to operate as educational center; six connected buildings on French Street and King Street.",
@@ -993,8 +993,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1357",
-      "ref": "N-1357",
+      "@id": "N-10357",
+      "ref": "N-10357",
       "name": "Incyte Corporation French CEO",
       "type": "investigation_target",
       "description": "Claim that long-time Incyte CEO was Hervé Hopineau (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.",
@@ -1015,8 +1015,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1358",
-      "ref": "N-1358",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Longwood Foundation / Pierre du Pont Educational Center",
       "type": "investigation_target",
       "description": "Claim that 2024 legislation provided financial support to the Longwood Foundation (founded by Pierre S. du Pont) to function as an educational center at Bracebridge.",
@@ -1037,8 +1037,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1359",
-      "ref": "N-1359",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Wilmington Trust / T. Coleman du Pont",
       "type": "investigation_target",
       "description": "Claim that the Wilmington Trust was founded by T. Coleman du Pont; located at 1100 North Market Street on Rodney Square, adjacent to Bracebridge; acquired WSFS branches in 1990.",
@@ -1055,13 +1055,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-460",
-        "N-1360"
+        "N-10360"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1360",
-      "ref": "N-1360",
+      "@id": "N-10360",
+      "ref": "N-10360",
       "name": "Rodney Square / 500 Delaware Avenue Federal Cluster",
       "type": "investigation_target",
       "description": "Claim that 500 North Delaware Avenue hosts an FBI presence; MGM Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.",
@@ -1080,8 +1080,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1361",
-      "ref": "N-1361",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "French Foreign Legion US Training August 2025",
       "type": "investigation_target",
       "description": "Joint training exercises: (a) FFL 2nd Foreign Infantry Regiment with US Marines 6th Marine Regiment in California, August 2–25, 2025 (A-1465.1, confirmed by France 24 / French Ministry); (b) Operation Valhalla joint military-civilian exercise at Camp Ripley, MN, August 25–27, 2025 (A-1477.1, host-cited).",
@@ -1099,13 +1099,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1368"
+        "N-10368"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1362",
-      "ref": "N-1362",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Operation Bright Star August–September 2025",
       "type": "investigation_target",
       "description": "Claim that Operation Bright Star (bi-annual US-Egypt joint operation in Cairo) ran August 29 – September 10, 2025, ending on the day of the Charlie Kirk assassination.",
@@ -1123,8 +1123,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1363",
-      "ref": "N-1363",
+      "@id": "N-10363",
+      "ref": "N-10363",
       "name": "FFL Six-Regiment Command Change August 2025",
       "type": "investigation_target",
       "description": "Per an August 20, 2025 article (A-1479.1), six French Foreign Legion regiments underwent changes of command in mid-August 2025.",
@@ -1142,8 +1142,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1364",
-      "ref": "N-1364",
+      "@id": "N-10364",
+      "ref": "N-10364",
       "name": "Safari Club Intelligence Network",
       "type": "investigation_target",
       "description": "Wikipedia-summarized covert alliance of intelligence services formed in 1976 (members including pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, France, Israel, Djibouti, South Africa); central to Ponton's framing of plausibility.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1365",
-      "ref": "N-1365",
+      "@id": "N-10365",
+      "ref": "N-10365",
       "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
       "type": "investigation_target",
       "description": "Documented Brigitte Macron public appearances on September 4, 2025 (Paris Design Week, Zelensky photo, Saudi Arabia orchestra); six-day absence in public schedule before Charlie Kirk's September 10 assassination. Not a separate artifact in this episode beyond A-1475.1/A-1475.2.",
@@ -1189,8 +1189,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1366",
-      "ref": "N-1366",
+      "@id": "N-10366",
+      "ref": "N-10366",
       "name": "YouTube Live Poll: Lawsuit as Government Operation",
       "type": "investigation_target",
       "description": "Poll results from live show: 24,856 votes, 93% Yes on \"Do you think that this lawsuit was an operation against me?\"",
@@ -1208,8 +1208,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1367",
-      "ref": "N-1367",
+      "@id": "N-10367",
+      "ref": "N-10367",
       "name": "Camp Riley vs Camp Ripley Typo Issue",
       "type": "investigation_target",
       "description": "Host typed \"Camp Riley\" in her X post when referring to Camp Ripley, Minnesota; the French Ministry and France 24 used this typo to assert the host's broader allegations were unfounded; Andy Parrish identified the correct camp name.",
@@ -1228,13 +1228,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-456",
-        "N-1361"
+        "N-10361"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1368",
-      "ref": "N-1368",
+      "@id": "N-10368",
+      "ref": "N-10368",
       "name": "Eric Bolling / PBD Podcast Apology Incident",
       "type": "investigation_target",
       "description": "Eric Bolling sent an apology email to Candace Owens's PR after a PBD segment in which he claimed she had not been friends with Charlie Kirk since 2017; he blamed \"that Alex guy\" (Adam Sosnick) and said he did not even know Adam's name (initially referring to him as \"Sam\").",
@@ -1411,7 +1411,7 @@
         "A-1464.1"
       ],
       "related_nodes": [
-        "N-1364"
+        "N-10364"
       ],
       "tags": [],
       "claim_timestamp": "00:11:57",
@@ -1448,7 +1448,7 @@
         "A-1468.1"
       ],
       "related_nodes": [
-        "N-1367"
+        "N-10367"
       ],
       "tags": [],
       "claim_timestamp": "00:20:28",
@@ -1468,8 +1468,8 @@
         "A-1465.1"
       ],
       "related_nodes": [
-        "N-1361",
-        "N-1367"
+        "N-10361",
+        "N-10367"
       ],
       "tags": [],
       "claim_timestamp": "00:19:45",
@@ -1486,7 +1486,7 @@
         "A-1478.1"
       ],
       "related_nodes": [
-        "N-1362"
+        "N-10362"
       ],
       "tags": [],
       "claim_timestamp": "00:21:39",
@@ -1505,7 +1505,7 @@
         "A-1479.1"
       ],
       "related_nodes": [
-        "N-1363"
+        "N-10363"
       ],
       "tags": [],
       "claim_timestamp": "00:22:30",
@@ -1522,7 +1522,7 @@
         "A-1469.1"
       ],
       "related_nodes": [
-        "N-1354"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:25:55",
@@ -1539,7 +1539,7 @@
         "A-1469.2"
       ],
       "related_nodes": [
-        "N-1355"
+        "N-10355"
       ],
       "tags": [],
       "claim_timestamp": "00:24:24",
@@ -1558,7 +1558,7 @@
         "A-1471.2"
       ],
       "related_nodes": [
-        "N-1356"
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1575,7 +1575,7 @@
         "A-1469.3"
       ],
       "related_nodes": [
-        "N-1358"
+        "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:30:13",
@@ -1594,8 +1594,8 @@
         "A-1469.3"
       ],
       "related_nodes": [
-        "N-1356",
-        "N-1358"
+        "N-10356",
+        "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:29:23",
@@ -1614,7 +1614,7 @@
         "A-1469.4"
       ],
       "related_nodes": [
-        "N-1357"
+        "N-10357"
       ],
       "tags": [],
       "claim_timestamp": "00:33:11",
@@ -1633,7 +1633,7 @@
         "A-1469.5"
       ],
       "related_nodes": [
-        "N-1359"
+        "N-10359"
       ],
       "tags": [],
       "claim_timestamp": "00:30:58",
@@ -1652,7 +1652,7 @@
         "A-1469.6"
       ],
       "related_nodes": [
-        "N-1360"
+        "N-10360"
       ],
       "tags": [],
       "claim_timestamp": "00:30:58",
@@ -1669,7 +1669,7 @@
         "A-1472.1"
       ],
       "related_nodes": [
-        "N-1360"
+        "N-10360"
       ],
       "tags": [],
       "claim_timestamp": "00:38:00",
@@ -1686,7 +1686,7 @@
         "A-1475.1"
       ],
       "related_nodes": [
-        "N-1365"
+        "N-10365"
       ],
       "tags": [],
       "claim_timestamp": "00:39:55",
@@ -1705,7 +1705,7 @@
         "A-1475.2"
       ],
       "related_nodes": [
-        "N-1365"
+        "N-10365"
       ],
       "tags": [],
       "claim_timestamp": "00:39:55",
@@ -1745,7 +1745,7 @@
         "A-1474.1"
       ],
       "related_nodes": [
-        "N-1368"
+        "N-10368"
       ],
       "tags": [],
       "claim_timestamp": "00:56:17",
@@ -1766,7 +1766,7 @@
         "A-1476.1"
       ],
       "related_nodes": [
-        "N-1366"
+        "N-10366"
       ],
       "tags": [],
       "claim_timestamp": "00:53:57",

@@ -17,7 +17,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
   - Claim Range: C-1175-C-1185, C-3736, C-3765
-  - New Nodes Introduced: N-102, N-103, N-104, N-1103, N-1104, N-1105, N-1106, N-1107, N-1108, N-1109, N-1110, N-1111, N-1112
+  - New Nodes Introduced: N-102, N-103, N-104, N-10103, N-10104, N-10105, N-10106, N-10107, N-10108, N-10109, N-10110, N-10111, N-10112
   - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-65, N-68, N-69, N-71, N-75, N-84, N-86, N-99, N-45, N-67, N-70
 
 ## 2. Executive Summary
@@ -383,7 +383,7 @@ Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.
 
 ---
 
-**N-1103** Text Message Language Anomaly
+**N-10103** Text Message Language Anomaly
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -393,7 +393,7 @@ Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-yea
 
 ---
 
-**N-1104** Missing Text Message Timestamps
+**N-10104** Missing Text Message Timestamps
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -403,7 +403,7 @@ Indictment text messages released without timestamps, blocking independent chron
 
 ---
 
-**N-1105** Robinson On-Campus Linger Timeline
+**N-10105** Robinson On-Campus Linger Timeline
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -413,7 +413,7 @@ Allegation that Robinson lingered on campus for hours after the shooting attempt
 
 ---
 
-**N-1106** Note Under Keyboard Disposal
+**N-10106** Note Under Keyboard Disposal
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -423,7 +423,7 @@ Note directing Lance to look under keyboard was destroyed after a photograph was
 
 ---
 
-**N-1107** Outfit Change Claim
+**N-10107** Outfit Change Claim
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -433,7 +433,7 @@ Robinson's text references changing outfits and leaving rifle in bush; alleged i
 
 ---
 
-**N-1108** Two-Person Theory (Maroon vs Stairs)
+**N-10108** Two-Person Theory (Maroon vs Stairs)
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -443,7 +443,7 @@ Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person 
 
 ---
 
-**N-1109** Lance Twigs Protection Allegation
+**N-10109** Lance Twigs Protection Allegation
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -453,7 +453,7 @@ Allegation that Lance was quickly released despite apartment raid and seizure of
 
 ---
 
-**N-1110** Stanford Psychology Family Pattern
+**N-10110** Stanford Psychology Family Pattern
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -463,7 +463,7 @@ Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a
 
 ---
 
-**N-1111** Federal Conspiracy Allegation
+**N-10111** Federal Conspiracy Allegation
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -473,7 +473,7 @@ Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, f
 
 ---
 
-**N-1112** Donor Intimidation of Charlie Kirk
+**N-10112** Donor Intimidation of Charlie Kirk
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -492,7 +492,7 @@ Claim: The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' 
 Transcript Snippet: I played this game with with my entire staff and um I was able to find since dating back for the last three years two messages where someone used that term. The first person was somebody that was former military and the second person was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
 Mentions: N-2, N-69, N-84, N-99
-Related Nodes: N-1103
+Related Nodes: N-10103
 Confidence: medium
 Investigative Direction: Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.
 
@@ -505,7 +505,7 @@ Claim: The text messages released in the Robinson indictment were stripped of ti
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3
 Mentions: N-69
-Related Nodes: N-1104, N-1111
+Related Nodes: N-10104, N-10111
 Confidence: high
 Investigative Direction: FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.
 
@@ -519,7 +519,7 @@ Claim: The note Lance Twigs found under Tyler's keyboard was destroyed after he 
 Transcript Snippet: even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.
 Anchored Artifacts: A-1104.1
 Mentions: N-69, N-84
-Related Nodes: N-1106
+Related Nodes: N-10106
 Confidence: medium
 Investigative Direction: Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.
 
@@ -532,7 +532,7 @@ Claim: Because Robinson references 'similar clothing' to a second suspect, the r
 Transcript Snippet: the earliest that that message could have been sent out is after 5:30 p.m.
 Anchored Artifacts: A-1104.2, A-1105.2, A-1110.1
 Mentions: N-69, N-71, N-102, N-70
-Related Nodes: N-1105
+Related Nodes: N-10105
 Confidence: medium
 Investigative Direction: Recover device timestamps and confirm Cox press transcript.
 
@@ -545,7 +545,7 @@ Claim: Robinson's texts depict him remaining near the UVU scene for hours after 
 Transcript Snippet: I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.
 Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, A-1106.1
 Mentions: N-69
-Related Nodes: N-1105
+Related Nodes: N-10105
 Confidence: medium
 Investigative Direction: Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.
 
@@ -558,7 +558,7 @@ Claim: Robinson's text states he changed outfits and left the rifle (referred to
 Transcript Snippet: I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.
 Anchored Artifacts: A-1104.4
 Mentions: N-69
-Related Nodes: N-1107
+Related Nodes: N-10107
 Confidence: high
 Investigative Direction: Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.
 
@@ -572,7 +572,7 @@ Claim: Lance Twigs was released back to his parents the same night his apartment
 Transcript Snippet: Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?
 Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
 Mentions: N-84
-Related Nodes: N-1109
+Related Nodes: N-10109
 Confidence: medium
 Investigative Direction: Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.
 
@@ -585,7 +585,7 @@ Claim: Governor Cox's statement that Robinson wore the same maroon outfit for 33
 Transcript Snippet: for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.
 Anchored Artifacts: A-1105.2, A-1106.2, A-1110.1
 Mentions: N-70
-Related Nodes: N-1107, N-1111
+Related Nodes: N-10107, N-10111
 Confidence: low
 Uncertainty: Source-based claim; no independent corroboration presented in episode.
 Investigative Direction: Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.
@@ -599,7 +599,7 @@ Claim: The person filmed in a maroon t-shirt at 8:07 AM may be a different indiv
 Transcript Snippet: I think the person in the maroon that's walking is different from the person that's walking up the stairs.
 Anchored Artifacts: A-1105.4, A-1106.2, A-1110.1
 Mentions: N-69
-Related Nodes: N-1108, N-1111
+Related Nodes: N-10108, N-10111
 Confidence: low
 Uncertainty: Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented.
 Investigative Direction: Release full unedited video from both camera angles; forensic gait/posture analysis.
@@ -613,7 +613,7 @@ Claim: Lance Twigs's mother holds a Bachelor of Science from Stanford University
 Transcript Snippet: I already don't like that mom… received a bachelor of science from Stanford University in psychology.
 Anchored Artifacts: 
 Mentions: N-103, N-84
-Related Nodes: N-1110
+Related Nodes: N-10110
 Confidence: low
 Uncertainty: Degree claim not independently sourced; presented as host assertion.
 Investigative Direction: Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.
@@ -627,7 +627,7 @@ Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
 Mentions: N-1, N-3, N-50, N-65, N-75, N-104, N-67, N-86
-Related Nodes: N-1112
+Related Nodes: N-10112
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.
 
@@ -640,7 +640,7 @@ Claim: The clips played at 43:09 and 45:45 are Tucker Carlson speaking. He says 
 Transcript Snippet: two days before he died, he lost a $2 million donation because he had publicly pledged to bring me to the next Turning Point conference in December.
 Anchored Artifacts: A-1107.1, A-1107.2
 Mentions: N-1, N-50
-Related Nodes: N-1112
+Related Nodes: N-10112
 Contradicts: C-1185
 Confidence: high
 Investigative Direction: Read C-1185 together with this claim: re-attribute the donor-pressure account to Tucker Carlson's live show clip, then verify the $2M donation loss and the December Turning Point speaking pledge against TPUSA event flyers and donor records.

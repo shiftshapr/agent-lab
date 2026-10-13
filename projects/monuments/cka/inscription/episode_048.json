@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-590",
             "N-281",
-            "N-1429"
+            "N-10429"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
           "related_nodes": [
             "N-16",
             "N-1",
-            "N-1433"
+            "N-10433"
           ],
           "tags": [],
           "video_timestamp": "00:26:46",
@@ -86,9 +86,9 @@
           ],
           "related_nodes": [
             "N-552",
-            "N-1434",
-            "N-1435",
-            "N-1436"
+            "N-10434",
+            "N-10435",
+            "N-10436"
           ],
           "tags": [],
           "video_timestamp": "00:34:52",
@@ -112,8 +112,8 @@
           ],
           "related_nodes": [
             "N-424",
-            "N-1436",
-            "N-1437"
+            "N-10436",
+            "N-10437"
           ],
           "tags": [],
           "video_timestamp": "00:41:47",
@@ -137,7 +137,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1433"
+            "N-10433"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -168,7 +168,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1429"
+        "N-10429"
       ]
     },
     {
@@ -190,7 +190,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1429"
+        "N-10429"
       ]
     },
     {
@@ -213,7 +213,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1433"
+        "N-10433"
       ]
     },
     {
@@ -238,8 +238,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1434",
-        "N-1435"
+        "N-10434",
+        "N-10435"
       ]
     },
     {
@@ -261,7 +261,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1436"
+        "N-10436"
       ]
     },
     {
@@ -279,13 +279,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1436"
+        "N-10436"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1429",
-      "ref": "N-1429",
+      "@id": "N-10429",
+      "ref": "N-10429",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "investigation_target",
       "description": "Discrepancy between the quotation attributed to \"the surgeon\" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.",
@@ -307,8 +307,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1430",
-      "ref": "N-1430",
+      "@id": "N-10430",
+      "ref": "N-10430",
       "name": "Hospital Federal Access Question",
       "type": "investigation_target",
       "description": "Allegation that federal officers at Timpanogos Regional Hospital blocked Dr. Lee Trotter from returning to the operating room, and that a phone call to a political figure resulted in stand-down orders.",
@@ -325,8 +325,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1431",
-      "ref": "N-1431",
+      "@id": "N-10431",
+      "ref": "N-10431",
       "name": "Gun Discovery Procedure Question",
       "type": "investigation_target",
       "description": "Allegation that bomb dogs from the Pleasant Grove sheriff's department cleared the area without finding the gun, and that federal officers then directed three officers with combined experience of less than 1.5 years to re-search the area, after which the gun was found. Also: Freya's \"condensed scent trace\" methodology.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1432",
-      "ref": "N-1432",
+      "@id": "N-10432",
+      "ref": "N-10432",
       "name": "White Toyota RAV4 FBI Badge Question",
       "type": "investigation_target",
       "description": "Allegation that shortly after the shot, an officer pulled over a white Toyota RAV4 and the driver flashed an FBI badge, ending the encounter.",
@@ -356,8 +356,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1433",
-      "ref": "N-1433",
+      "@id": "N-10433",
+      "ref": "N-10433",
       "name": "Vehicle Disposition Question",
       "type": "investigation_target",
       "description": "Allegation that the transport vehicle was towed, then quickly moved for cleaning and auction without insurance inspection, and that the rental company owner instructed it never be returned to the facility.",
@@ -377,8 +377,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1434",
-      "ref": "N-1434",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "SAM000 Flight Manifest Question",
       "type": "investigation_target",
       "description": "Discrepancy in Coleman's segment between stated route (\"from Joint Base Andrews to Colorado Springs\") and displayed log (landing Las Vegas 4:48 p.m. on August 25). Manifest of the SAM000 passenger(s) remains unknown.",
@@ -399,8 +399,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1435",
-      "ref": "N-1435",
+      "@id": "N-10435",
+      "ref": "N-10435",
       "name": "SAM658/RCH658 Call Sign Switch Question",
       "type": "investigation_target",
       "description": "Coleman display shows RCH658 designation on Las Vegas departure and SAM658 designation on return leg to Andrews, which Coleman's framework ties to VIP boarding/deboarding at the Colorado Springs stop.",
@@ -422,8 +422,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1436",
-      "ref": "N-1436",
+      "@id": "N-10436",
+      "ref": "N-10436",
       "name": "Sept 9 Fort Huachuca Meeting Question",
       "type": "investigation_target",
       "description": "Alleged meeting reportedly observed by unnamed \"Elvis guy\" eyewitness; tied by host to alleged Sept 9 SAM jet presence and to Brian Harpole's whereabouts.",
@@ -445,8 +445,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1437",
-      "ref": "N-1437",
+      "@id": "N-10437",
+      "ref": "N-10437",
       "name": "Operation Valhalla Strike",
       "type": "investigation_target",
       "description": "Host statement that a military exercise named Operation Valhalla Strike ran August 24–27, 2025. Coincides on August 24 with Brian Harpole's stated start of UVU event intelligence gathering (A-1555.1).",
@@ -580,8 +580,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1113",
-      "ref": "N-1113",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Charlie Kirk Assassination Investigation",
       "type": "topic",
       "description": "Umbrella investigation thread encompassing all episode-13 evidence streams.",
@@ -607,7 +607,7 @@
         "A-1552.1"
       ],
       "related_nodes": [
-        "N-1429"
+        "N-10429"
       ],
       "tags": [],
       "claim_timestamp": "00:03:52",
@@ -628,7 +628,7 @@
         "A-1553.1"
       ],
       "related_nodes": [
-        "N-1433"
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:27:47",
@@ -647,7 +647,7 @@
         "A-1553.1"
       ],
       "related_nodes": [
-        "N-1433"
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:27:47",
@@ -666,7 +666,7 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-1434"
+        "N-10434"
       ],
       "tags": [],
       "claim_timestamp": "00:36:19",
@@ -685,8 +685,8 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-1434",
-        "N-1436"
+        "N-10434",
+        "N-10436"
       ],
       "tags": [],
       "claim_timestamp": "00:38:14",
@@ -705,8 +705,8 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-1434",
-        "N-1435"
+        "N-10434",
+        "N-10435"
       ],
       "tags": [],
       "claim_timestamp": "00:39:24",
@@ -725,7 +725,7 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-1435"
+        "N-10435"
       ],
       "tags": [],
       "claim_timestamp": "00:39:24",
@@ -744,8 +744,8 @@
         "A-1555.1"
       ],
       "related_nodes": [
-        "N-1436",
-        "N-1437"
+        "N-10436",
+        "N-10437"
       ],
       "tags": [],
       "claim_timestamp": "00:41:47",
@@ -764,7 +764,7 @@
         "A-1556.1"
       ],
       "related_nodes": [
-        "N-1433"
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:30:33",
@@ -799,7 +799,7 @@
       "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which she says Trump confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1113"
+        "N-10113"
       ],
       "tags": [],
       "claim_timestamp": "00:24:40",

@@ -29,7 +29,7 @@
 - Episode 151 Ledger Summary
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
   - Claim Range: C-3426–C-3444, C-3746
-  - New Nodes Introduced: N-2317, N-2318, N-2319, N-2320
+  - New Nodes Introduced: N-11317, N-11318, N-11319, N-11320
   - Reused Nodes Appearing: N-37, N-810, N-382, N-3
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3435, C-3436, C-3442, N-2317, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-3435, C-3436, C-3442, N-11317, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:41:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3426, C-3442, N-2317*
+*Related: C-3426, C-3442, N-11317*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3427, N-2317, Tyler Bowyer (existing node – ID resolution required), N-37*
+*Related: C-3427, N-11317, Tyler Bowyer (existing node – ID resolution required), N-37*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3428, C-3442, N-2317, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-3428, C-3442, N-11317, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:37:35–00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (image shown but underlying source provenance not stated)
 
-*Related: C-3442, N-2317*
+*Related: C-3442, N-11317*
 
 ---
 
@@ -240,13 +240,13 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (emails described, not shown)
 
-*Related: C-3746, N-382, N-2320*
+*Related: C-3746, N-382, N-11320*
 
 ---
 
 ## IV. Node Register
 
-**N-2317** Statue Vandalism Investigation
+**N-11317** Statue Vandalism Investigation
 
 Persistent target: alleged vandalism of TPUSA Charlie Kirk statue with red paint on or about September 13, 2026. Open questions include: actual perpetrators, whether on-campus surveillance footage exists and will be released, the authenticity of the photo circulating, partisan attribution, and the simultaneous pivot to TP Action fundraising.
 
@@ -259,7 +259,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2318** Tempenogos Doctor Recusal Mystery
+**N-11318** Tempenogos Doctor Recusal Mystery
 
 Investigation target referenced from prior episode: an unnamed doctor said to have been present during surgery on Charlie at Tempenogos and to have recused himself from files due to an in-room event. Host is still seeking a second corroborating source.
 
@@ -272,7 +272,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2319** Tempenogos Nurse "Chest Saw" Allegation
+**N-11319** Tempenogos Nurse "Chest Saw" Allegation
 
 Investigation target: an alleged Tempenogos nurse who reports that an out-of-norm request was made for a chest saw during the Charlie Kirk ER episode. Host explicitly tags as "allegedly" and notes she is still working to verify.
 
@@ -285,7 +285,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2320** Security Detail Electrical Hazard Footwear Question
+**N-11320** Security Detail Electrical Hazard Footwear Question
 
 Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harif/Hariff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.
 
@@ -317,7 +317,7 @@ Claim: Erica Kirk posted a tweet invoking Charlie's purported "build two statues
 
 Anchored Artifacts: A-2364.1
 Mentions: N-2
-Related Nodes: N-2317
+Related Nodes: N-11317
 Investigative Direction: Locate original tweet with timestamp; cross-check against TPUSA verified accounts; verify exact attribution.
 
 ---
@@ -330,7 +330,7 @@ Claim: Tyler Bowyer, identified by host as running TP Action, posted the Commit 
 
 Anchored Artifacts: A-2365.1
 Mentions: N-37
-Related Nodes: N-2317
+Related Nodes: N-11317
 Investigative Direction: Pull the original tweet with timestamp; confirm author and program URL.
 
 ---
@@ -343,7 +343,7 @@ Claim: Andrew Kolvet tweeted asking why Katie Hobbs or "anyone with a D next to 
 
 Anchored Artifacts: A-2366.1
 Mentions: N-42, N-965
-Related Nodes: N-2317
+Related Nodes: N-11317
 Investigative Direction: Pull original tweet; verify which "neighboring buildings"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.
 
 ---
@@ -432,7 +432,7 @@ Claim: Andrew Kolvet stated that "friends of Charlie and Erika" have posted a $1
 
 Anchored Artifacts: A-2363.1
 Mentions: N-2, N-42
-Related Nodes: N-2317
+Related Nodes: N-11317
 Investigative Direction: Identify which "friends" funded the reward; verify any law enforcement bulletin.
 
 ---
@@ -445,7 +445,7 @@ Claim: Andrew Kolvet stated the Commit 100 program "has been surging" after the 
 
 Anchored Artifacts: A-2363.1
 Mentions: N-42
-Related Nodes: N-2317
+Related Nodes: N-11317
 Investigative Direction: Compare against any public Commit 100 signup metrics or TP Action disclosures.
 
 ---
@@ -520,7 +520,7 @@ Claim: TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) c
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
 Mentions: N-37, N-42, N-2
-Related Nodes: N-2317
+Related Nodes: N-11317
 Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.
 
 ---
@@ -560,7 +560,7 @@ Transcript Snippet: They sent links that these are like electrical hazard protec
 
 Anchored Artifacts: A-2521.1
 Mentions: N-382, N-3
-Related Nodes: N-2320
+Related Nodes: N-11320
 Investigative Direction: Identify the shoe model from the security-detail footage and confirm whether it is sold as electrical-hazard (EH-rated) footwear.
 
 ---

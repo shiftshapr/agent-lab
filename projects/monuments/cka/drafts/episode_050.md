@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1561, A-1562, A-1563, A-1564, A-1565, A-1566, A-1567
   - Claim Range: C-1980–C-1988
-  - New Nodes Introduced:  N-605, N-606, N-607, N-1441, N-1442, N-1443, N-1444, N-1445
+  - New Nodes Introduced:  N-605, N-606, N-607, N-10441, N-10442, N-10443, N-10444, N-10445
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1, N-2, N-37
 
@@ -109,7 +109,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "For those of you information consumers who are stuck in practices of the old days… The public record on September 8th indicates that I was returning to Washington, D.C. from my district and voting on the floor of the House of Representatives. And on September 9th in a 12-hour [meeting] in the House Appropriations Committee… To quote Ronald Reagan, 'Facts are stubborn things. Merry Christmas.'"
 
-*Related: C-1983, N-599, N-1442*
+*Related: C-1983, N-599, N-10442*
 
 ---
 
@@ -125,7 +125,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "Road Exposed, Rep. Mark Amodei tries and fails to give a solid alibi for the alleged September 9th meeting with Charlie Kirk's security, Brian Harpole. The rep claims to have been traveling to D.C… he was not present for roll call until the third meeting in mid-afternoon on the 9th in D.C."
 
-*Related: C-1984, N-599, N-606, N-1442*
+*Related: C-1984, N-599, N-606, N-10442*
 
 ---
 
@@ -141,7 +141,7 @@ Confidence Level: Medium
 
 Flag: Artifact verbally referenced but not shown on camera.
 
-*Related: C-1985, N-605, N-597, N-1443*
+*Related: C-1985, N-605, N-597, N-10443*
 
 ---
 
@@ -157,7 +157,7 @@ Confidence Level: Medium (host states existence)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1987, N-597, N-1441*
+*Related: C-1987, N-597, N-10441*
 
 ---
 
@@ -171,7 +171,7 @@ Confidence Level: Medium (host states she was given the logs)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1986, N-424, N-1441, N-1444*
+*Related: C-1986, N-424, N-10441, N-10444*
 
 ---
 
@@ -185,7 +185,7 @@ Confidence Level: Medium (host states she obtained paperwork)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1987, N-597, N-1441*
+*Related: C-1987, N-597, N-10441*
 
 ---
 
@@ -226,7 +226,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-1442*
+*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-10442*
 
 ---
 
@@ -239,7 +239,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-1986, N-1441, N-1444*
+*Related: A-1567.2, C-1986, N-10441, N-10444*
 
 ---
 
@@ -252,7 +252,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, C-1985, N-2, N-1443, N-1445*
+*Related: A-1566.1, C-1985, N-2, N-10443, N-10445*
 
 ---
 
@@ -265,7 +265,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (intermediary verification role)
 
-*Related: A-1565.1, C-1984, N-599, N-1442*
+*Related: A-1565.1, C-1984, N-599, N-10442*
 
 ---
 
@@ -293,7 +293,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, A-1567.1, A-1567.3, C-1985, C-1987, N-1441*
+*Related: A-1566.1, A-1567.1, A-1567.3, C-1985, C-1987, N-10441*
 
 ---
 
@@ -310,7 +310,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1441** Fort Huachuca Morning Meeting Investigation
+**N-10441** Fort Huachuca Morning Meeting Investigation
 
 Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.
 
@@ -323,7 +323,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1442** Mark Amodei September 9 Alibi Verification
+**N-10442** Mark Amodei September 9 Alibi Verification
 
 Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.
 
@@ -336,7 +336,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1443** Cabot Phillips Fort Huachuca Presence Verification
+**N-10443** Cabot Phillips Fort Huachuca Presence Verification
 
 Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.
 
@@ -349,7 +349,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1444** Brian Harpole Fort Huachuca Presence Verification
+**N-10444** Brian Harpole Fort Huachuca Presence Verification
 
 Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.
 
@@ -358,11 +358,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-1986, N-424, N-1441*
+*Related: A-1567.2, C-1986, N-424, N-10441*
 
 ---
 
-**N-1445** Erika Kirk Pre-Charlie Dating History Verification
+**N-10445** Erika Kirk Pre-Charlie Dating History Verification
 
 Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).
 
@@ -437,7 +437,7 @@ Claim: Mark Amodei publicly asserted via X that on September 9 he was in a 12-ho
 Anchored Artifacts: A-1564.1
 Mentions: N-599
 
-Related Nodes: N-1442
+Related Nodes: N-10442
 
 Investigative Direction: Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.
 
@@ -452,7 +452,7 @@ Claim: Per Diligent Dennison's X post analysis, Mark Amodei was not present for 
 Anchored Artifacts: A-1565.1
 Mentions: N-599, N-606
 
-Related Nodes: N-1442
+Related Nodes: N-10442
 
 Investigative Direction: Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.
 
@@ -467,7 +467,7 @@ Claim: After being shown a photograph of Cabot Phillips without contextual ident
 Anchored Artifacts: A-1566.1
 Mentions: N-597, N-605
 
-Related Nodes: N-1443
+Related Nodes: N-10443
 
 Investigative Direction: Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.
 
@@ -482,7 +482,7 @@ Claim: Travel logs provided to the host indicate that Brian Harpole's flight rou
 Anchored Artifacts: A-1567.2
 Mentions: N-424
 
-Related Nodes: N-1441, N-1444
+Related Nodes: N-10441, N-10444
 
 Investigative Direction: Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.
 
@@ -499,7 +499,7 @@ Claim: The host reports that Mitch's reported access to Fort Huachuca base, his 
 Anchored Artifacts: A-1567.1, A-1567.3
 Mentions: N-597
 
-Related Nodes: N-1441
+Related Nodes: N-10441
 
 Investigative Direction: Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.
 
@@ -516,7 +516,7 @@ Claim: The host reports that Erika Kirk publicly stated she had not dated anyone
 Anchored Artifacts: None directly captured (Erika Kirk's original statement and the cited social-media evidence are referenced only secondhand; host says "I think we can show that" but the transcript captures no on-screen display).
 Mentions: N-2, N-605, N-1
 
-Related Nodes: N-1445
+Related Nodes: N-10445
 
 Investigative Direction: Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.
 

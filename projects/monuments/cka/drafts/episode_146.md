@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2216, N-2217, N-2218
+  - New Nodes Introduced: N-11216, N-11217, N-11218
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -19,7 +19,7 @@
 
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
 Claim Range: C-3345–C-3354
-New Nodes Introduced: N-2216, N-2217, N-2218
+New Nodes Introduced: N-11216, N-11217, N-11218
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -98,7 +98,7 @@ Video Timestamp: 00:15:14–00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3349, C-3350, C-3351, N-2217*
+*Related: C-3349, C-3350, C-3351, N-11217*
 
 ---
 
@@ -127,7 +127,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-01 (broadcast)
 Confidence Level: High
 
-*Related: C-3348, N-2216*
+*Related: C-3348, N-11216*
 
 **A-2324.2** Butch Hibbs still on phone approximately five minutes after the shooting
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:24:18–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3353, N-2216*
+*Related: C-3353, N-11216*
 
 **A-2324.3** Butch Hibbs standing behind persons speaking to news crews about what they witnessed
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:26:29–00:27:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2216*
+*Related: N-11216*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2218*
+*Related: N-11218*
 
 ---
 
@@ -223,7 +223,7 @@ Confidence Level: High
 
 ### People
 
-**N-2216** Butch Hibbs UVU Recording Behavior
+**N-11216** Butch Hibbs UVU Recording Behavior
 
 Persistent investigation into why a 74-year-old attendee recorded footage from multiple angles immediately after the shooting rather than rendering aid, fleeing, or calling emergency services; whether the footage was transmitted to Jack Hibbs or others; and the identity/content of the ~5-minute post-shooting phone call.
 
@@ -234,7 +234,7 @@ Investigative Pressure: High
 
 *Related: A-2324.1, A-2324.2, A-2324.3, C-3348, C-3353*
 
-**N-2217** Jack Hibbs Sequence-of-Events Discrepancy
+**N-11217** Jack Hibbs Sequence-of-Events Discrepancy
 
 Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Churik), (b) "cousin Charlie" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.
 
@@ -245,7 +245,7 @@ Investigative Pressure: High
 
 *Related: A-2322.2, C-3349, C-3350, C-3351*
 
-**N-2218** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
+**N-11218** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
 
 Unidentified individual visible in UVU 9/10 photographs wearing a pink hat and blue shirt, holding what appears to be a drink; host has requested audience help identifying and contacting this person.
 
@@ -314,7 +314,7 @@ Claim: Never-before-seen footage shows Butch Hibbs dipping down to open his came
 Anchored Artifacts: A-2324.1
 Mentions: N-382
 
-Related Nodes: N-2216
+Related Nodes: N-11216
 
 Investigative Direction: Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage.
 
@@ -344,7 +344,7 @@ Claim: During the FaceTime with Frank Churik, Jack Hibbs described briefly belie
 Anchored Artifacts: A-2322.2
 Mentions: N-1, N-309
 
-Related Nodes: N-2217
+Related Nodes: N-11217
 
 Investigative Direction: Verify the existence of a Jack Hibbs relative commonly known as "Charlie"; assess whether the confusion is plausible given family context and call conditions.
 
@@ -359,7 +359,7 @@ Claim: Per Jack Hibbs's account, a prayer chain was underway at approximately 12
 Anchored Artifacts: A-2322.2
 Mentions: N-1, N-309
 
-Related Nodes: N-2217
+Related Nodes: N-11217
 
 Investigative Direction: Establish the precise timestamp of the shooting from primary sources; corroborate hospital transport timeline; assess feasibility of FaceTime hospital contact within the stated window.
 
@@ -374,7 +374,7 @@ Claim: A still from UVU footage shows Butch Hibbs on what appears to be a phone 
 Anchored Artifacts: A-2324.2
 Mentions: N-382
 
-Related Nodes: N-2216
+Related Nodes: N-11216
 
 Investigative Direction: Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call).
 
@@ -419,7 +419,7 @@ Claim: Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individu
 Anchored Artifacts: A-2322.1, A-2322.2, A-2323.1, A-2324.2
 Mentions: N-272, N-382, N-309
 
-Related Nodes: N-2217
+Related Nodes: N-11217
 
 Investigative Direction: Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact.
 

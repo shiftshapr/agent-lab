@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-479, N-480, N-481, N-1378, N-1379
+  - New Nodes Introduced:  N-479, N-480, N-481, N-10378, N-10379
   - Reused Nodes Appearing: 
   - (see registers), N-37
 
@@ -19,7 +19,7 @@
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-1820–C-1830
-New Nodes Introduced:  N-479, N-480, N-481, N-1378, N-1379
+New Nodes Introduced:  N-479, N-480, N-481, N-10378, N-10379
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -64,7 +64,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-1820, C-1821, C-1822, C-1823, N-224, N-1378, N-37*
+*Related: C-1820, C-1821, C-1822, C-1823, N-224, N-10378, N-37*
 
 ---
 
@@ -128,7 +128,7 @@ Confidence Level: Medium
 
 Host verbally references the call (timed to 6:45 PM French time / 10:45 AM Utah time) and credits "the internet sleuths and the YouTubers" for assembling the information. Calendar entry not directly displayed on air.
 
-*Related: C-1830, N-1379*
+*Related: C-1830, N-10379*
 
 ---
 
@@ -143,7 +143,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1489.1, C-1820, C-1821, C-1822, C-1823, N-1378*
+*Related: A-1489.1, C-1820, C-1821, C-1822, C-1823, N-10378*
 
 ---
 
@@ -199,7 +199,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1378** TPUSA Phoenix Livestream Verification Question
+**N-10378** TPUSA Phoenix Livestream Verification Question
 
 Persistent investigable target: whether and when the announced Phoenix livestream actually occurs, who participates, and what is answered.
 
@@ -212,7 +212,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1379** Macron-Trump 09/10 Phone Call Timing Verification
+**N-10379** Macron-Trump 09/10 Phone Call Timing Verification
 
 Persistent investigable target: verification of the September 10, 2025 phone call between Emmanuel Macron and Donald Trump (6:45 PM French time / 10:45 AM Utah time) as recorded in Macron's public calendar.
 
@@ -244,7 +244,7 @@ Claim: TPUSA, via Blake Nef's video statement, announced a planned Phoenix lives
 
 Anchored Artifacts: A-1489.1
 Mentions: N-224
-Related Nodes: N-1378
+Related Nodes: N-10378
 Investigative Direction: Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.
 
 ---
@@ -365,7 +365,7 @@ Claim: Per host reference, Emmanuel Macron's public calendar records a phone cal
 
 Anchored Artifacts: A-1493.1
 Mentions: N-5
-Related Nodes: N-1379
+Related Nodes: N-10379
 Investigative Direction: Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.
 
 ---

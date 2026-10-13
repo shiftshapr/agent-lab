@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: db9aacd73c214666d6ea30eb8af985ba56f6e0ed6eeeeaaef2eeae0d410df01e
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2219, N-2220, N-2221, N-2222, N-2223, N-2224, N-2225
+ - New Nodes Introduced: N-11219, N-11220, N-11221, N-11222, N-11223, N-11224, N-11225
  - Reused Nodes Appearing: N-611, N-680, N-787, N-808
  - (see registers)
 
@@ -38,8 +38,8 @@
 - Artifact Families Introduced: A-2327, A-2328, A-2329, A-2330, A-2331, A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, A-2338, A-2339, A-2340
 - Claim Range: C-3357–C-3386
 - New Nodes Introduced (People): none (N-69 Tyler Robinson is a reused person)
-- New Nodes Introduced (Investigation Targets): N-2219, N-2220, N-2221, N-2222, N-2223, N-2224, N-2225
-- Existing Nodes Reused: None specified in ledger (assumed N-1 through N-339 and N-1207 through N-2218 already populated from prior episodes)
+- New Nodes Introduced (Investigation Targets): N-11219, N-11220, N-11221, N-11222, N-11223, N-11224, N-11225
+- Existing Nodes Reused: None specified in ledger (assumed N-1 through N-339 and N-10207 through N-11218 already populated from prior episodes)
 
 ---
 
@@ -61,13 +61,13 @@ Video Timestamp: 00:04:59–00:06:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-2225*
+*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-11225*
 
 **A-2327.1** Judge Graff Count 6 Ruling Audio (excerpt)
 
 Verbatim: "Standing alone, advising another person to risk request counsel and remain silent is lawful and does not establish witness tampering. The state relies however, on the context of the communication, including defendant's earlier alleged instruction to delete this exchange. Viewed together in the light most favorable to the state, those communications permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators."
 
-*Related: C-3358, C-3359, C-3360, N-2225*
+*Related: C-3358, C-3359, C-3360, N-11225*
 
 **A-2328** Court Audio – Arraignment / Plea Entry
 
@@ -91,19 +91,19 @@ Video Timestamp: 00:19:29–00:24:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (footage provenance not independently authenticated in episode)
 
-*Related: C-3364, C-3365, C-3366, C-3367, C-3368, C-3369, N-69, N-2219, N-2220, N-2221, N-2222*
+*Related: C-3364, C-3365, C-3366, C-3367, C-3368, C-3369, N-69, N-11219, N-11220, N-11221, N-11222*
 
 **A-2329.1** Vehicle-Approach Footage (Justin Davis sprint)
 
 Justin Davis running to and opening the passenger-side door of a vehicle he did not arrive in, alongside Blake Neff (also not a passenger of the vehicle).
 
-*Related: C-3364, C-3371, N-2221*
+*Related: C-3364, C-3371, N-11221*
 
 **A-2329.2** "Dip and Meet" Sequence (Danny / Mikey / Justin)
 
 Footage showing Mikey McCoy and Danny Phillip running, meeting in front of Charlie's vehicle, and ducking down together with Justin Davis, as if in coordination.
 
-*Related: C-3365, C-3366, N-69, N-2219*
+*Related: C-3365, C-3366, N-69, N-11219*
 
 **A-2329.3** Backpack Ejection from Trunk
 
@@ -115,7 +115,7 @@ Footage showing a backpack falling or being tossed from the trunk of the vehicle
 
 Footage (originally surfaced on TikTok, sent to host via Baron Coleman) showing security member Christopher and Nate Walker walking upstairs toward the Sorensen building minutes before the shot.
 
-*Related: C-3369, C-3370, N-2220*
+*Related: C-3369, C-3370, N-11220*
 
 **A-2330** Vehicle Positioning Diagram (UVU 9/10)
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:10:41–00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (AI-generated; host acknowledges "we used AI here to demonstrate to you what the vehicles are")
 
-*Related: C-3371, C-3372, N-69, N-2219, N-2221*
+*Related: C-3371, C-3372, N-69, N-11219, N-11221*
 
 **A-2331** Security Team Photo
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:11:32–00:12:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3373, N-2219*
+*Related: C-3373, N-11219*
 
 **A-2332** Matt Walsh X Post
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:39:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3374, C-3375, N-2223*
+*Related: C-3374, C-3375, N-11223*
 
 **A-2333** Viva Frei X Post
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:40:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (post not quoted verbatim; artifact verbally referenced)
 
-*Related: C-3376, N-2223*
+*Related: C-3376, N-11223*
 
 **A-2334** Graham Allen X Post
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:40:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3377, N-2223*
+*Related: C-3377, N-11223*
 
 **A-2335** Blake Neff / Brandon Tatum Identical X Post
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3378, N-2223*
+*Related: C-3378, N-11223*
 
 **A-2336** Court Audio – Defense Counsel Richard Novac Argument
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:42:00–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3379, C-3380, C-3381, C-3382, N-69, N-2223, N-2224*
+*Related: C-3379, C-3380, C-3381, C-3382, N-69, N-11223, N-11224*
 
 **A-2337** Court Filing – August 11 Defense Filing (incl. page 32)
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:47:55–00:49:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud; full filing not shown)
 
-*Related: C-3380, C-3381, C-3382, C-3383, N-69, N-2223, N-2224*
+*Related: C-3380, C-3381, C-3382, C-3383, N-69, N-11223, N-11224*
 
 **A-2338** Court Audio – Blake Neff Testimony
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:28:14–00:31:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3384, C-3385, C-3386, N-69, N-2222*
+*Related: C-3384, C-3385, C-3386, N-69, N-11222*
 
 **A-2339** Read-Aloud Comments – Episode 146
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:54:25–00:55:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3386, N-69, N-2222*
+*Related: C-3386, N-69, N-11222*
 
 **A-2340** Read-Aloud Comments – Episode 147
 
@@ -287,7 +287,7 @@ Investigative Pressure: Medium
 
 ### Investigation Targets
 
-**N-2219** 9/10 Vehicle Positioning Discrepancy
+**N-11219** 9/10 Vehicle Positioning Discrepancy
 
 Persistent investigation into the configuration of the five relevant vehicles on the UVU lot, the blocking-in pattern, and the personnel assignment to each. Two security vehicles on the left arrived 9:00–9:30 a.m. before Kirk; the two Denalis and the Hyundai Palisade are the remaining units.
 
@@ -298,7 +298,7 @@ Investigative Pressure: High
 
 *Related: A-2329.1, A-2329.2, A-2329.3, A-2330, A-2331, C-3364, C-3365, C-3371, C-3372*
 
-**N-2220** Christopher Pre-Shot Location Anomaly
+**N-11220** Christopher Pre-Shot Location Anomaly
 
 Why security member Christopher (driver of Kirk's vehicle) and Nate Walker were walking toward the Sorensen building minutes before the shot, given Kirk's reported prior-night communication that he feared for his life.
 
@@ -309,7 +309,7 @@ Investigative Pressure: High
 
 *Related: A-2329.4, C-3369, C-3370*
 
-**N-2221** Security Vehicle Keys Access Question
+**N-11221** Security Vehicle Keys Access Question
 
 Investigation into how Justin Davis obtained access to Christopher's locked vehicle (carrying Kirk's personal belongings) within ~45 seconds, given that Christopher was upstairs at the time of the shot and the vehicle was supposed to be secured.
 
@@ -320,7 +320,7 @@ Investigative Pressure: High
 
 *Related: A-2329.1, A-2330, C-3364, C-3371*
 
-**N-2222** Security Vehicle Hospital Transport Absence
+**N-11222** Security Vehicle Hospital Transport Absence
 
 Investigation into why none of the three security SUVs (other than the one Justin Davis ultimately drove) were taken to the hospital after the shot, and what security personnel did in the intervening window.
 
@@ -331,7 +331,7 @@ Investigative Pressure: High
 
 *Related: A-2329.1, A-2329.2, A-2338, A-2339, C-3384, C-3385, C-3386, N-69*
 
-**N-2223** Political-Motivation X Outrage Cluster (Sept 1, 2026)
+**N-11223** Political-Motivation X Outrage Cluster (Sept 1, 2026)
 
 Coordinated set of X posts by Matt Walsh, Viva Frei, Graham Allen, Blake Neff, and Brandon Tatum characterizing defense counsel's argument as endorsement of political assassination.
 
@@ -342,7 +342,7 @@ Investigative Pressure: High
 
 *Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-3374, C-3375, C-3376, C-3377, C-3378*
 
-**N-2224** Political Motivation Inference Chain (Hearsay Standard)
+**N-11224** Political Motivation Inference Chain (Hearsay Standard)
 
 Investigation into whether the state's chain of inferences – Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged "some hate just can't be negotiated" message → political-motivation enhancement – satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.
 
@@ -353,7 +353,7 @@ Investigative Pressure: High
 
 *Related: A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, C-3383, N-69*
 
-**N-2225** Defense Witness Tampering Count 6 Constitutional Question
+**N-11225** Defense Witness Tampering Count 6 Constitutional Question
 
 Investigation into whether Count 6 (witness tampering for the "ask for a lawyer and stay silent" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.
 
@@ -389,7 +389,7 @@ Claim: Judge Graff declined to dismiss Count 6 (witness tampering for the "ask f
 Anchored Artifacts: A-2327, A-2327.1
 Mentions: N-69, N-84
 
-Related Nodes: N-2225
+Related Nodes: N-11225
 
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
@@ -401,7 +401,7 @@ Claim: The court acknowledged on the record that the text "ask for a lawyer and 
 
 Anchored Artifacts: A-2327.1
 
-Related Nodes: N-2225
+Related Nodes: N-11225
 
 Investigative Direction: Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.
 
@@ -414,7 +414,7 @@ Claim: Count 5 of the information charges witness tampering based specifically o
 Anchored Artifacts: A-2327.1
 Mentions: N-69, N-84
 
-Related Nodes: N-2225
+Related Nodes: N-11225
 
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
@@ -427,7 +427,7 @@ Claim: The court permitted Count 6 to proceed by reference to Count 5, stating t
 Anchored Artifacts: A-2327.1
 Mentions: N-69
 
-Related Nodes: N-2225
+Related Nodes: N-11225
 
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
@@ -464,7 +464,7 @@ Claim: In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator)
 Anchored Artifacts: A-2329.1
 Mentions: N-224, N-787
 
-Related Nodes: N-2221
+Related Nodes: N-11221
 
 Investigative Direction: Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.
 
@@ -477,7 +477,7 @@ Claim: Footage shows Mikey McCoy and Danny Phillip running, meeting, and "duckin
 Anchored Artifacts: A-2329.2
 Mentions: N-611, N-272, N-787
 
-Related Nodes: N-2219
+Related Nodes: N-11219
 
 Investigative Direction: Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.
 
@@ -490,7 +490,7 @@ Claim: Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at
 Anchored Artifacts: A-2329.2
 Mentions: N-272
 
-Related Nodes: N-2219
+Related Nodes: N-11219
 
 Investigative Direction: Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account.
 
@@ -503,7 +503,7 @@ Claim: As Kirk's vehicle departed for the hospital, a backpack fell from or was 
 Anchored Artifacts: A-2329.3
 Mentions: N-787
 
-Related Nodes: N-2221
+Related Nodes: N-11221
 
 Investigative Direction: Identify the bag's owner; obtain receipt / loss-property reports if any.
 
@@ -529,7 +529,7 @@ Claim: Christopher (Kirk's main security person / driver) and Nate Walker were o
 Anchored Artifacts: A-2329.4
 Mentions: N-808
 
-Related Nodes: N-2220
+Related Nodes: N-11220
 
 Investigative Direction: Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.
 
@@ -541,7 +541,7 @@ Claim: Christopher left the immediate vehicle area and went upstairs minutes bef
 
 Anchored Artifacts: A-2329.4
 
-Related Nodes: N-2220, N-2221
+Related Nodes: N-11220, N-11221
 
 Investigative Direction: Cross-reference against security radio logs and Christopher's own timeline.
 
@@ -554,7 +554,7 @@ Claim: The three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigato
 Anchored Artifacts: A-2330, A-2329.1 (footage shows blocked-in configuration)
 Mentions:
 
-Related Nodes: N-2219, N-2221, N-2222
+Related Nodes: N-11219, N-11221, N-11222
 
 Investigative Direction: Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.
 
@@ -567,7 +567,7 @@ Claim: The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arr
 Anchored Artifacts: A-2330 (diagram only; times based on host narrative)
 Mentions: N-1, N-787
 
-Related Nodes: N-2219
+Related Nodes: N-11219
 
 Investigative Direction: Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.
 
@@ -580,7 +580,7 @@ Claim: Two members of the Charlie Kirk security team shown in the security photo
 Anchored Artifacts: A-2331
 Mentions: N-1
 
-Related Nodes: N-2219
+Related Nodes: N-11219
 
 Investigative Direction: Cross-reference with TPUSA-published security team rosters, event staffing contracts, and 9/10 security team statements.
 
@@ -593,7 +593,7 @@ Claim: On September 1, 2026, Matt Walsh posted on X: "We have a lawyer justifyin
 Anchored Artifacts: A-2332
 Mentions: N-228
 
-Related Nodes: N-2223
+Related Nodes: N-11223
 
 Investigative Direction: Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.
 
@@ -605,7 +605,7 @@ Claim: The host explicitly rejects Walsh's "justifying political assassination" 
 
 Anchored Artifacts: A-2332 (host stance on same artifact)
 
-Related Nodes: N-2223
+Related Nodes: N-11223
 
 Investigative Direction: This is a host-stance claim; verification would require Walsh's reply or retraction.
 
@@ -618,7 +618,7 @@ Claim: Viva Frei sent a tweet echoing the "lawyer justifying political assassina
 Anchored Artifacts: A-2333
 Mentions: N-558
 
-Related Nodes: N-2223
+Related Nodes: N-11223
 
 Investigative Direction: Locate the specific post; verify timestamp.
 
@@ -631,7 +631,7 @@ Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler 
 Anchored Artifacts: A-2334
 Mentions: N-1
 
-Related Nodes: N-2223
+Related Nodes: N-11223
 
 Investigative Direction: Confirm the post remains on X; verify timestamp.
 
@@ -644,7 +644,7 @@ Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense at
 Anchored Artifacts: A-2335
 Mentions: N-224, N-680
 
-Related Nodes: N-2223
+Related Nodes: N-11223
 
 Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
@@ -657,7 +657,7 @@ Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, wa
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-69, N-680
 
-Related Nodes: N-2223, N-2224
+Related Nodes: N-11223, N-11224
 
 Investigative Direction: Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
@@ -670,7 +670,7 @@ Claim: The state is pursuing sentence enhancements based on the theory that Kirk
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-69
 
-Related Nodes: N-2224
+Related Nodes: N-11224
 
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
@@ -683,7 +683,7 @@ Claim: The state's filings do not identify which specific statements by Charlie 
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-69, N-1
 
-Related Nodes: N-2224
+Related Nodes: N-11224
 
 Investigative Direction: Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.
 
@@ -696,7 +696,7 @@ Claim: The August 11 defense filing, page 32, asserts that the state is "inferri
 Anchored Artifacts: A-2337
 Mentions: N-69
 
-Related Nodes: N-2224
+Related Nodes: N-11224
 
 Investigative Direction: Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.
 
@@ -709,7 +709,7 @@ Claim: The state's theory relies in part on the proposition that Lance Twiggs (n
 Anchored Artifacts: A-2337
 Mentions: N-69, N-84
 
-Related Nodes: N-2224
+Related Nodes: N-11224
 
 Investigative Direction: Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.
 
@@ -722,7 +722,7 @@ Claim: Blake Neff testified that after the shot he and Mikey McCoy ran because t
 Anchored Artifacts: A-2338
 Mentions: N-272, N-224
 
-Related Nodes: N-2222
+Related Nodes: N-11222
 
 Investigative Direction: Obtain the full transcript of Neff's testimony; cross-reference against contemporaneous radio traffic and other security personnel.
 
@@ -736,7 +736,7 @@ Anchored Artifacts: A-2338
 Mentions: N-272, N-2, N-224
 Contradicts: C-1932, C-3092
 
-Related Nodes: N-2222
+Related Nodes: N-11222
 
 Investigative Direction: Obtain Erika Kirk's call detail records; verify call timing and duration.
 
@@ -749,7 +749,7 @@ Claim: The "so much blood" claim attributed to Mikey McCoy did not originate wit
 Anchored Artifacts: A-2339
 Mentions: N-272, N-16, N-309
 
-Related Nodes: N-2222
+Related Nodes: N-11222
 
 Investigative Direction: Obtain McCoy's complete media appearances; obtain Hibbs's and Turek's on-record statements with timestamps; obtain Erika Kirk's call-detail records (the call McCoy made to her per Neff testimony).
 
@@ -827,7 +827,7 @@ Claim: Blake Neff testified that he considered getting into the SUV he had arriv
 Anchored Artifacts: A-2338
 Mentions: N-224
 
-Related Nodes: N-2222
+Related Nodes: N-11222
 
 Investigative Direction: Cross-reference against his prior and subsequent statements; verify which SUV he is referring to.
 

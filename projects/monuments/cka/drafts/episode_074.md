@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-941, N-942, N-943, N-946, N-948, N-1582, N-1583, N-1584, N-1585, N-1586, N-1587, N-1588, N-1589
+  - New Nodes Introduced: N-941, N-942, N-943, N-946, N-948, N-10582, N-10583, N-10584, N-10585, N-10586, N-10587, N-10588, N-10589
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:11:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-942, N-1584*
+*Related: N-942, N-10584*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:21:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2387, C-2389, N-1586*
+*Related: C-2387, C-2389, N-10586*
 
 **A-1785.2** Erika tweet, 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2388, N-1586*
+*Related: C-2388, N-10586*
 
 **A-1785.3** Erika tweet, 2025-09-10 at 9:45 a.m. Arizona time, day of Charlie Kirk assassination: "God is our refuge and strength, a very present help in trouble."
 
@@ -312,7 +312,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2389, C-2390, N-1586*
+*Related: C-2389, C-2390, N-10586*
 
 ---
 
@@ -326,7 +326,7 @@ Video Timestamp: 00:28:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2391, N-1582*
+*Related: C-2391, N-10582*
 
 ---
 
@@ -340,7 +340,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2392, N-1583*
+*Related: C-2392, N-10583*
 
 ---
 
@@ -354,7 +354,7 @@ Video Timestamp: 00:37:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2393, C-2394, N-272, N-1583*
+*Related: C-2393, C-2394, N-272, N-10583*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:38:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2393, C-2394, N-272, N-1583*
+*Related: C-2393, C-2394, N-272, N-10583*
 
 ---
 
@@ -424,7 +424,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1781.1–A-1781.10, A-1782.1–A-1782.6, A-1783.1, A-1784.1–A-1784.4, C-2378–C-2386, N-1584*
+*Related: A-1781.1–A-1781.10, A-1782.1–A-1782.6, A-1783.1, A-1784.1–A-1784.4, C-2378–C-2386, N-10584*
 
 ---
 
@@ -450,7 +450,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1788.1, A-1789.1, C-2393, C-2394, N-1583*
+*Related: A-1788.1, A-1789.1, C-2393, C-2394, N-10583*
 
 ---
 
@@ -463,7 +463,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1583*
+*Related: N-10583*
 
 ---
 
@@ -502,11 +502,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2388, N-942, N-1584*
+*Related: C-2388, N-942, N-10584*
 
 ---
 
-**N-1582** Color of the Day Redaction Anomaly
+**N-10582** Color of the Day Redaction Anomaly
 
 Persistent claim that the day-of-assassination DOJ file is uniquely redacted on the "color of the day" field among ~40 similar operational files; introduced via a viral TikTok audio.
 
@@ -519,7 +519,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1583** Wedding Photo Movement Discrepancy
+**N-10583** Wedding Photo Movement Discrepancy
 
 Persistent inconsistency between (a) Erika's Glenn Beck statement that she had not been in the studio in "forever"; (b) Turning Point's Newsweek statement that Erika moved the photo for her daughter; (c) Mikey McCoy's prior in-studio appearances (Sept 22, 2025 with photo visible; Nov 8, 2025 without).
 
@@ -532,7 +532,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1584** Jillian Photographer Identification
+**N-10584** Jillian Photographer Identification
 
 Open question: identify the male photographer whose first name begins with "R" and who took photos of then-15-year-old Jillian Falcon, arranged by Erika Kirk without parental consent.
 
@@ -545,7 +545,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1585** Erika Kirk September 8–10, 2025 Whereabouts Verification
+**N-10585** Erika Kirk September 8–10, 2025 Whereabouts Verification
 
 Open question: verify Erika Kirk's whereabouts on September 8 (Twitter-silence-breaking tweet day), September 9, and September 10, 2025 (day of Charlie Kirk's assassination); neighbors reportedly do not recall seeing her on the 10th.
 
@@ -554,11 +554,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1785.1, A-1785.2, A-1785.3, N-1586*
+*Related: A-1785.1, A-1785.2, A-1785.3, N-10586*
 
 ---
 
-**N-1586** Erika Kirk Twitter Silence Break Pattern
+**N-10586** Erika Kirk Twitter Silence Break Pattern
 
 Observation that Erika authored no tweets between 2023 and 2025-09-08, then authored three scripture tweets across Sept 8–10, 2025, with the third posted ~1.5 hours before the assassination of Charlie Kirk.
 
@@ -567,11 +567,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1785.1, A-1785.2, A-1785.3, C-2387, C-2388, C-2389, N-1585*
+*Related: A-1785.1, A-1785.2, A-1785.3, C-2387, C-2388, C-2389, N-10585*
 
 ---
 
-**N-1587** Erika Kirk Ohio Childhood Verification
+**N-10587** Erika Kirk Ohio Childhood Verification
 
 Open question: identify classmates or family members who can corroborate Erika Frantzve's pre–high-school Ohio upbringing, including elementary and middle school attendance.
 
@@ -584,7 +584,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1588** Erika Kirk Loyola Marymount Attendance Verification
+**N-10588** Erika Kirk Loyola Marymount Attendance Verification
 
 Open question: identify attendees who can corroborate Erika Frantzve's enrollment at Loyola Marymount; the host notes that classmates from the same year do not recall her, despite a program reference.
 
@@ -597,7 +597,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1589** Erika Kirk Batman Colorado Theater Connection
+**N-10589** Erika Kirk Batman Colorado Theater Connection
 
 Open question: identify the person Erika Kirk referenced in a tweet as someone she knew who was present at the 2012 Batman Colorado theater mass shooting.
 
@@ -658,7 +658,7 @@ Claim Timestamp: 00:15:15
 Claim: Episode presents that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
 Anchored Artifacts: A-1781.4, A-1782.4
 Mentions: N-942, N-948
-Related Nodes: N-1584
+Related Nodes: N-10584
 Investigative Direction: Identify the photographer (name begins with "R") and obtain session records, including the date and consent documentation.
 
 ---
@@ -709,7 +709,7 @@ Claim Timestamp: 00:21:40
 Claim: Episode presents that Erika Kirk had not authored an X/Twitter post since 2023 and broke that silence on 2025-09-08 at 10:49 a.m. Arizona time with a tweet quoting Ephesians 2:8.
 Anchored Artifacts: A-1785.1
 Mentions: N-2
-Related Nodes: N-1586
+Related Nodes: N-10586
 Investigative Direction: Pull Erika's full X/Twitter posting log directly to verify the gap and the timing of the September 8 tweet.
 
 ---
@@ -720,7 +720,7 @@ Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted on 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
 Anchored Artifacts: A-1785.2
 Mentions: N-2
-Related Nodes: N-1586
+Related Nodes: N-10586
 Investigative Direction: Pull the original Erika Kirk X/Twitter post and confirm timestamp in Arizona time.
 
 ---
@@ -731,7 +731,7 @@ Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted at 9:45 a.m. Arizona time on 2025-09-10, "God is our refuge and strength, a very present help in trouble," approximately 1.5 hours before Charlie Kirk's assassination that day.
 Anchored Artifacts: A-1785.3
 Mentions: N-1, N-2
-Related Nodes: N-1586, N-1585
+Related Nodes: N-10586, N-10585
 Investigative Direction: Pull the original Erika Kirk X/Twitter post and compare to publicly known time of the assassination.
 
 ---
@@ -742,7 +742,7 @@ Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk's three scripture X/Twitter posts fell on September 8, 9, and 10, 2025, with the third occurring on the day of the assassination and within ~1.5 hours of the event.
 Anchored Artifacts: A-1785.1, A-1785.2, A-1785.3
 Mentions: N-1, N-2
-Related Nodes: N-1586
+Related Nodes: N-10586
 Investigative Direction: Independent verification of Erika's X/Twitter posting timestamps against publicly documented timeline of September 8–10 events.
 
 ---
@@ -753,7 +753,7 @@ Claim Timestamp: 00:29:58
 Claim: Episode presents that, per a TikTok source, the speaker located ~40 DOJ file results containing the phrase "color of the day," and the file corresponding to the day of Charlie Kirk's assassination was the only one in which the color itself was redacted.
 Anchored Artifacts: A-1786.1
 Mentions: N-1
-Related Nodes: N-1582
+Related Nodes: N-10582
 Investigative Direction: Pull the cited DOJ files directly, confirm the count and the redacted entry, and identify which operation the redacted file refers to.
 
 ---
@@ -764,7 +764,7 @@ Claim Timestamp: 00:33:02
 Claim: Episode presents that a Turning Point USA spokesperson told Newsweek that Erika moved the wedding photo to a lower shelf "when her daughter asked to see it" so the child could "hold and look at the photo."
 Anchored Artifacts: A-1787.1
 Mentions: N-42
-Related Nodes: N-1583
+Related Nodes: N-10583
 Investigative Direction: Pull the Newsweek article directly and confirm the exact quote and attribution.
 
 ---
@@ -775,7 +775,7 @@ Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
 Anchored Artifacts: A-1788.1, A-1789.1
 Mentions: N-272, N-1
-Related Nodes: N-1583
+Related Nodes: N-10583
 Investigative Direction: Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.
 
 ---
@@ -786,7 +786,7 @@ Claim Timestamp: 00:38:26
 Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per a "mommy sleuth" discovery cited by the host.
 Anchored Artifacts: A-1788.1, A-1789.1
 Mentions: N-272
-Related Nodes: N-1583
+Related Nodes: N-10583
 Investigative Direction: Pull the two interview segments and visually verify the background in each.
 
 ---

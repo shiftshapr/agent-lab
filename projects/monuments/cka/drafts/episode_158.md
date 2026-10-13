@@ -12,8 +12,8 @@
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2355, N-2356, N-2357, N-2358, N-2359
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-59, N-65, N-66, N-42, N-272, N-364, N-444, N-326, N-424, N-16, N-796, N-224, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354, N-36, N-30, N-41, N-44, N-46
+  - New Nodes Introduced: N-11355, N-11356, N-11357, N-11358, N-11359
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-59, N-65, N-66, N-42, N-272, N-364, N-444, N-326, N-424, N-16, N-796, N-224, N-10121, N-10264, N-10288, N-11329, N-11350, N-11351, N-11354, N-36, N-30, N-41, N-44, N-46
   - (see registers)
   - Person band: persons minted in this quality pass use N-30+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 
@@ -37,7 +37,7 @@ Video Timestamp: 00:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted/read on air)
 
-*Related: C-3596, C-3597, C-3598, N-2355, N-2356, N-2, N-41*
+*Related: C-3596, C-3597, C-3598, N-11355, N-11356, N-2, N-41*
 
 ---
 
@@ -48,7 +48,7 @@ Video Timestamp: 00:02:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (visual as described by host)
 
-*Related: C-3596, N-2355, N-2*
+*Related: C-3596, N-11355, N-2*
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted from profile); Medium (host inference about PR mindset)
 
-*Related: C-3599, N-2357, N-2, N-326*
+*Related: C-3599, N-11357, N-2, N-326*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:20:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quote as read); Medium (wardrobe catalog as host compilation)
 
-*Related: C-3600, N-2355, N-2*
+*Related: C-3600, N-11355, N-2*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:26:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (DeGroot quote as read); Low–Medium (McCoy gatekeeping as host allegation)
 
-*Related: C-3601, N-1288, N-796, N-272, N-1, N-2*
+*Related: C-3601, N-10288, N-796, N-272, N-1, N-2*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted in profile)
 
-*Related: C-3602, C-3603, N-50, N-42, N-1121, N-2355*
+*Related: C-3602, C-3603, N-50, N-42, N-10121, N-11355*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline/narrative as characterized); High (that host presents the flip as coordinated)
 
-*Related: C-3604, N-2358, N-3, N-59*
+*Related: C-3604, N-11358, N-3, N-59*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:47:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (archive dates as host-stated; verify Wayback/primary); High (Ackman interest as asserted with deleted-tweet capture claim)
 
-*Related: C-3605, C-3606, N-2359, N-66, N-65, N-2351, N-2354*
+*Related: C-3605, C-3606, N-11359, N-66, N-65, N-11351, N-11354*
 
 ---
 
@@ -140,7 +140,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, C-3603, A-2462.1, N-2354*
+*Related: C-3601, C-3603, A-2462.1, N-11354*
 
 ---
 
@@ -152,7 +152,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3596, C-3597, C-3598, C-3599, C-3600, A-2459.1, N-2355, N-2356*
+*Related: C-3596, C-3597, C-3598, C-3599, C-3600, A-2459.1, N-11355, N-11356*
 
 ---
 
@@ -164,7 +164,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3604, A-2464.1, N-2358*
+*Related: C-3604, A-2464.1, N-11358*
 
 ---
 
@@ -188,7 +188,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3604, N-2358*
+*Related: C-3604, N-11358*
 
 ---
 
@@ -200,7 +200,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-2359, N-2354*
+*Related: C-3605, N-11359, N-11354*
 
 ---
 
@@ -212,7 +212,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3606, A-2465.1, N-2359*
+*Related: C-3606, A-2465.1, N-11359*
 
 ---
 
@@ -236,7 +236,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, N-1264, N-1288*
+*Related: C-3601, N-10264, N-10288*
 
 ---
 
@@ -284,7 +284,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-2329, N-2350*
+*Related: N-11329, N-11350*
 
 ---
 
@@ -320,11 +320,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3596, N-2355*
+*Related: C-3596, N-11355*
 
 ---
 
-**N-1121** Kirk-Israel Narrative Dispute
+**N-10121** Kirk-Israel Narrative Dispute
 
 Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships.
 
@@ -332,11 +332,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3603, C-3598, N-2356*
+*Related: C-3603, C-3598, N-11356*
 
 ---
 
-**N-1264** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10264** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Reused for post-assassination office/home-office behavior contrast with shrine narrative.
 
@@ -348,7 +348,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-1288** McCoy Succession Plan
+**N-10288** McCoy Succession Plan
 
 Reused around will-appointment timing and succession optics.
 
@@ -360,7 +360,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2329** Independent Review of UVU Security Failures
+**N-11329** Independent Review of UVU Security Failures
 
 Background for TPUSA non-participation contrast and post-review smear timing.
 
@@ -368,11 +368,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-2350, A-2459.1*
+*Related: N-11350, A-2459.1*
 
 ---
 
-**N-2350** TPUSA Non-Participation in UVU Independent Review
+**N-11350** TPUSA Non-Participation in UVU Independent Review
 
 Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Force.
 
@@ -380,11 +380,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3596, N-2329*
+*Related: C-3596, N-11329*
 
 ---
 
-**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-11351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Reused when plotting July 9 college-video archive against July 10 UVU ask.
 
@@ -392,11 +392,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-2359, N-36*
+*Related: C-3605, N-11359, N-36*
 
 ---
 
-**N-2354** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-11354** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay.
 
@@ -404,11 +404,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-2359*
+*Related: C-3605, N-11359*
 
 ---
 
-**N-2355** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-11355** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.
 
@@ -421,7 +421,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2356** Erika Heaven-Focused Political Non-Answers / CEO Fitness
+**N-11356** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.
 
@@ -430,11 +430,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3597, C-3598, A-2459.1, N-1121, N-41*
+*Related: C-3597, C-3598, A-2459.1, N-10121, N-41*
 
 ---
 
-**N-2357** Night-of Assassination Aloe Yoga Outfit Directive
+**N-11357** Night-of Assassination Aloe Yoga Outfit Directive
 
 New topic: profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative.
 
@@ -447,7 +447,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2358** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
+**N-11358** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
 
 New topic: post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package.
 
@@ -460,7 +460,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2359** July 9 2025 Archive of Candace College YouTube Project
+**N-11359** July 9 2025 Archive of Candace College YouTube Project
 
 New topic: first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification.
 
@@ -469,7 +469,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3605, C-3606, A-2465.1, N-66, N-2351, N-2354*
+*Related: C-3605, C-3606, A-2465.1, N-66, N-11351, N-11354*
 
 ---
 
@@ -520,7 +520,7 @@ Claim: Host asserts Clara Molot’s Vanity Fair profile–enabled by months of T
 Anchored Artifacts: A-2459.1, A-2459.2
 Mentions: N-41, N-224, N-2
 
-Related Nodes: N-2350, N-2355
+Related Nodes: N-11350, N-11355
 
 Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.
 
@@ -535,7 +535,7 @@ Claim: Per the profile as read, Erika described decisions via a heaven/reunion h
 Anchored Artifacts: A-2459.1
 Mentions: N-2
 
-Related Nodes: N-2356
+Related Nodes: N-11356
 
 Investigative Direction: Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window.
 
@@ -550,7 +550,7 @@ Claim: When pressed on Israel/Netanyahu, Erika said she does not sit around thin
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-65
 
-Related Nodes: N-1121, N-2356
+Related Nodes: N-10121, N-11356
 
 Investigative Direction: Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603).
 
@@ -565,7 +565,7 @@ Claim: The profile states Erika, thinking about Air Force 2 optics and a “heav
 Anchored Artifacts: A-2460.1
 Mentions: N-2, N-326
 
-Related Nodes: N-2357
+Related Nodes: N-11357
 
 Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.
 
@@ -580,7 +580,7 @@ Claim: Host disputes Erika’s profile claim that the Amfest Alice + Olivia spar
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-444
 
-Related Nodes: N-2355
+Related Nodes: N-11355
 
 Investigative Direction: Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”
 
@@ -595,7 +595,7 @@ Claim: Doug DeGroot confirms they planned to sign will paperwork that Monday; ho
 Anchored Artifacts: A-2462.1
 Mentions: N-1, N-2, N-272, N-796
 
-Related Nodes: N-1264, N-1288
+Related Nodes: N-10264, N-10288
 
 Investigative Direction: Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy.
 
@@ -610,7 +610,7 @@ Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Can
 Anchored Artifacts: A-2463.1
 Mentions: N-3, N-42, N-50
 
-Related Nodes: N-2355
+Related Nodes: N-11355
 
 Investigative Direction: Confirm quote context in published piece; note host’s declined-to-comment status.
 
@@ -625,7 +625,7 @@ Claim: Per Carlson’s conversations with Erika as relayed in the profile, she w
 Anchored Artifacts: A-2463.1
 Mentions: N-2, N-50
 
-Related Nodes: N-1121, N-2356
+Related Nodes: N-10121, N-11356
 
 Investigative Direction: Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.
 
@@ -640,7 +640,7 @@ Claim: Host asserts attackers shifted from “jealous of Erika / antisemitic” 
 Anchored Artifacts: A-2464.1
 Mentions: N-3, N-59
 
-Related Nodes: N-2329, N-2358
+Related Nodes: N-11329, N-11358
 
 Investigative Direction: Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.
 
@@ -655,7 +655,7 @@ Claim: Host claims Wayback/first-archive of the college project is July 9, 2025�
 Anchored Artifacts: A-2465.1
 Mentions: N-65
 
-Related Nodes: N-2351, N-2354, N-2359
+Related Nodes: N-11351, N-11354, N-11359
 
 Investigative Direction: Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional.
 
@@ -670,7 +670,7 @@ Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-acco
 Anchored Artifacts: A-2465.1
 Mentions: N-3, N-66
 
-Related Nodes: N-2359
+Related Nodes: N-11359
 
 Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.
 
@@ -685,7 +685,7 @@ Claim: Profile/DeGroot state the board voted two days after Charlie’s death to
 Anchored Artifacts: A-2459.1, A-2462.1
 Mentions: N-2, N-796
 
-Related Nodes: N-1288
+Related Nodes: N-10288
 
 Investigative Direction: Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.
 

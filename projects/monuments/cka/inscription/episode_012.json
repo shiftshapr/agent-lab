@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1212"
+            "N-10212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,7 +57,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1212"
+            "N-10212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-92",
-            "N-1212"
+            "N-10212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
             "C-1327"
           ],
           "related_nodes": [
-            "N-1213"
+            "N-10213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,7 +192,7 @@
           "related_nodes": [
             "N-186",
             "N-102",
-            "N-1216"
+            "N-10216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
           ],
           "related_nodes": [
             "N-176",
-            "N-1217"
+            "N-10217"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -246,7 +246,7 @@
           ],
           "related_nodes": [
             "N-65",
-            "N-1214"
+            "N-10214"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
             "C-1327"
           ],
           "related_nodes": [
-            "N-1213"
+            "N-10213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,7 +403,7 @@
       "related_nodes": [
         "N-92",
         "N-184",
-        "N-1213"
+        "N-10213"
       ]
     },
     {
@@ -448,7 +448,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1214"
+        "N-10214"
       ]
     },
     {
@@ -472,7 +472,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-102",
-        "N-1216"
+        "N-10216"
       ]
     },
     {
@@ -494,7 +494,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1217"
+        "N-10217"
       ]
     },
     {
@@ -517,13 +517,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-186",
-        "N-1216"
+        "N-10216"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1212",
-      "ref": "N-1212",
+      "@id": "N-10212",
+      "ref": "N-10212",
       "name": "Phil Lyman Location Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorenson Center building walking out calmly.",
@@ -548,8 +548,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1213",
-      "ref": "N-1213",
+      "@id": "N-10213",
+      "ref": "N-10213",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
       "type": "investigation_target",
       "description": "The second of two foreign companions in the photo with Shainer Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site \"Buzzard and Bees.\" Remains unidentified by name as of this episode.",
@@ -571,8 +571,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1214",
-      "ref": "N-1214",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Host assertion that approximately 48 hours before his death Charlie Kirk informed Turning Point USA staff, Jewish donors, and a rabbi that he was abandoning the pro-Israel cause, and that he intended to bring Candace Owens back. Currently host-testimony only with no displayed artifact in this episode; TPUSA has been publicly challenged to deny. Verification target.",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1215",
-      "ref": "N-1215",
+      "@id": "N-10215",
+      "ref": "N-10215",
       "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
@@ -608,8 +608,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1216",
-      "ref": "N-1216",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "Utah FBI Personnel Replacement",
       "type": "investigation_target",
       "description": "Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bowles in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1217",
-      "ref": "N-1217",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "Mike Mitchell Undercover Role Verification",
       "type": "investigation_target",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
@@ -712,7 +712,7 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-1212"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:12:16–00:14:30",
@@ -732,7 +732,7 @@
         "A-1184.1"
       ],
       "related_nodes": [
-        "N-1212"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:14:45–00:15:55",
@@ -751,7 +751,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-1212"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:16:43",
@@ -770,7 +770,7 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-1212"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:35",
@@ -790,7 +790,7 @@
         "A-1186.1"
       ],
       "related_nodes": [
-        "N-1213"
+        "N-10213"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39–00:11:29",
@@ -828,7 +828,7 @@
         "A-1188.1"
       ],
       "related_nodes": [
-        "N-1213"
+        "N-10213"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14–00:19:58",
@@ -863,7 +863,7 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-1216"
+        "N-10216"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
@@ -884,7 +884,7 @@
         "A-1190.1"
       ],
       "related_nodes": [
-        "N-1217"
+        "N-10217"
       ],
       "tags": [],
       "claim_timestamp": "00:21:52–00:22:45",
@@ -903,7 +903,7 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-1214"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37–00:35:21",
@@ -957,7 +957,7 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-1216"
+        "N-10216"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",

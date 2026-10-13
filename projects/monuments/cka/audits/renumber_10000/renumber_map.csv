@@ -1,0 +1,1008 @@
+old_id,new_id,name,type,status
+N-1000,N-10000,Turning Point USA,organization,active
+legacy-N-1001,legacy-N-10001,Erica Kirk,,tombstone
+legacy-N-1002,legacy-N-10002,Erica Kirk,,tombstone
+N-1003,N-10003,MK Ultra,organization,active
+legacy-N-1004,legacy-N-10004,Erica Kirk,,tombstone
+legacy-N-1005,legacy-N-10005,Erica Kirk,,tombstone
+legacy-N-1006,legacy-N-10006,Erica Kirk,,tombstone
+legacy-N-1007,legacy-N-10007,Erica Kirk,,tombstone
+legacy-N-1008,legacy-N-10008,Erica Kirk,,tombstone
+legacy-N-1009,legacy-N-10009,Charlie Kirk,,tombstone
+legacy-N-1010,legacy-N-10010,Erika Kirk,,tombstone
+legacy-N-1011,legacy-N-10011,Erica Kirk,,tombstone
+legacy-N-1012,legacy-N-10012,Erica Kirk,,tombstone
+legacy-N-1013,legacy-N-10013,"Erica Kirk (episode spelling: ""Erika Kirk"")",,tombstone
+legacy-N-1014,legacy-N-10014,Erica Kirk,,tombstone
+legacy-N-1015,legacy-N-10015,Tim Ballard,,tombstone
+legacy-N-1016,legacy-N-10016,Erica Kirk,,tombstone
+legacy-N-1017,legacy-N-10017,Victor Marx,,tombstone
+legacy-N-1018,legacy-N-10018,Eileen Marx,,tombstone
+legacy-N-1019,legacy-N-10019,Corby Hall,,tombstone
+legacy-N-1020,legacy-N-10020,Erica Kirk (née Frantzve),,tombstone
+legacy-N-1021,legacy-N-10021,Erika Kirk (name spelling uncertain – see Optional Flags),,tombstone
+legacy-N-1022,legacy-N-10022,Erica Kirk,,tombstone
+legacy-N-1023,legacy-N-10023,Erica Kirk,,tombstone
+legacy-N-1024,legacy-N-10024,Erica Kirk,,tombstone
+legacy-N-1025,legacy-N-10025,Erica Kirk,,tombstone
+legacy-N-1026,legacy-N-10026,Erica Kirk,,tombstone
+legacy-N-1027,legacy-N-10027,Mike Mitchell,,tombstone
+legacy-N-1028,legacy-N-10028,Usha Vance,,tombstone
+legacy-N-1029,legacy-N-10029,Erica Kirk,,tombstone
+legacy-N-1030,legacy-N-10030,Erica Kirk,,tombstone
+legacy-N-1031,legacy-N-10031,"Erica Kirk (transcript variants: ""Erika Kirk"" / ""Erica Kirk"")",,tombstone
+legacy-N-1032,legacy-N-10032,Erica Kirk,,tombstone
+N-1067,N-10067,Charlie Kirk Death and Memorial,topic,active
+N-1068,N-10068,Charlie-Candace Friendship Continuity,topic,active
+N-1069,N-10069,Kanye Tweet About Candace Owens,topic,active
+N-1070,N-10070,Charlie Kirk Spiritual Transformation,topic,active
+N-1071,N-10071,Fox News,organization,active
+N-1072,N-10072,Republican National Committee (RNC),organization,active
+N-1073,N-10073,YWLS Conference,organization,active
+N-1074,N-10074,Philadelphia,place,active
+N-1075,N-10075,Chicago O'Hare Airport,place,active
+N-1076,N-10076,TMZ,organization,active
+N-1077,N-10077,Utah Valley University,organization,active
+N-1078,N-10078,Discord,organization,active
+N-1079,N-10079,Federal Bureau of Investigation,organization,active
+N-1080,N-10080,Mossad,organization,active
+N-1081,N-10081,Hamptons Meeting Pressure Investigation,topic,active
+N-1082,N-10082,Charlie Kirk May 2 Letter Misrepresentation,topic,active
+N-1083,N-10083,Netanyahu Israel Invitation Phone Call,topic,active
+N-1084,N-10084,Robinson Outfit Change Discrepancy,topic,active
+N-1085,N-10085,Weapon Disassembly/Reassembly Claim,topic,active
+N-1086,N-10086,Robinson Confession and Arrest Discrepancy,topic,active
+N-1087,N-10087,Robinson Father Turn-In Narrative,topic,active
+N-1088,N-10088,Epstein Israeli Intelligence Asset Allegation,topic,active
+N-1089,N-10089,Kirk Assassination Investigation Timeline,topic,active
+N-1090,N-10090,Israel Lobby Pressure on Conservative Figures,topic,active
+N-1091,N-10091,Israel,place,active
+N-1092,N-10092,The Hamptons,place,active
+N-1093,N-10093,Utah Valley University Campus,place,active
+N-1094,N-10094,Washington County Sheriff's Office,organization,active
+N-1095,N-10095,Text Message Timestamp Discrepancy,topic,active
+N-1096,N-10096,33-Hour Surrender Timeline Signal,topic,active
+N-1097,N-10097,Decoy Boy Operation Analysis,topic,active
+N-1098,N-10098,Hamptons Donor Pressure Investigation,topic,active
+N-1099,N-10099,Lance Twigs Family Allegations,topic,active
+N-1100,N-10100,Unusual Traffic at Residence Investigation,topic,active
+N-1101,N-10101,Building Donor Withdrawal Investigation,topic,active
+N-1102,N-10102,Bill Ackman Response Analysis,topic,active
+N-1103,N-10103,Text Message Language Anomaly,topic,active
+N-1104,N-10104,Missing Text Message Timestamps,topic,active
+N-1105,N-10105,Robinson On-Campus Linger Timeline,topic,active
+N-1106,N-10106,Note Under Keyboard Disposal,topic,active
+N-1107,N-10107,Outfit Change Claim,topic,active
+N-1108,N-10108,Two-Person Theory (Maroon vs Stairs),topic,active
+N-1109,N-10109,Lance Twigs Protection Allegation,topic,active
+N-1110,N-10110,Stanford Psychology Family Pattern,topic,active
+N-1111,N-10111,Federal Conspiracy Allegation,topic,active
+N-1112,N-10112,Donor Intimidation of Charlie Kirk,topic,active
+N-1113,N-10113,Charlie Kirk Assassination Investigation,topic,active
+N-1114,N-10114,Robinson Outfit/Language Anomaly,topic,active
+N-1115,N-10115,Steele Family Orem Cluster,topic,active
+N-1116,N-10116,Dairy Queen 6:38 Photo Verification,topic,active
+N-1117,N-10117,Doorbell-Cam Footage Provenance,topic,active
+N-1118,N-10118,Vacant-House / Decoy Shooter Theory,topic,active
+N-1119,N-10119,Calira Engineering Valve Pattern,topic,active
+N-1120,N-10120,Federal Footage Sweep,topic,active
+N-1121,N-10121,Kirk-Israel Narrative Dispute,topic,active
+N-1122,N-10122,Owens Memorial Invitation Status,topic,active
+N-1123,N-10123,BBC,organization,active
+N-1124,N-10124,PBD Podcast,organization,active
+N-1125,N-10125,Good Morning America,organization,active
+N-1126,N-10126,CIA Operation Mockingbird,organization,active
+N-1127,N-10127,"Orem, Utah",place,active
+N-1128,N-10128,Gaza,place,active
+N-1129,N-10129,The Pentagon,place,active
+N-1130,N-10130,Caldera Engineering,organization,active
+N-1131,N-10131,United States Senate,organization,active
+N-1132,N-10132,CISA,organization,active
+N-1133,N-10133,NSA,organization,active
+N-1134,N-10134,FERC,organization,active
+N-1135,N-10135,Daily Mail,organization,active
+N-1136,N-10136,ABC,organization,active
+legacy-N-1137,legacy-N-10137,FBI,,tombstone
+N-1138,N-10138,FCC,organization,active
+N-1139,N-10139,APAC,organization,active
+N-1140,N-10140,"Provo, Utah",place,active
+N-1141,N-10141,White House,place,active
+N-1142,N-10142,Cameragate Investigation,topic,active
+N-1143,N-10143,Robinson-Lance Text Chain Authenticity,topic,active
+N-1144,N-10144,TPUSA Financial Apparatus Investigation,topic,active
+N-1145,N-10145,Hate Speech Legislation Push,topic,active
+N-1146,N-10146,Valve/Piping Industry Intelligence Connection,topic,active
+N-1147,N-10147,Israel Influence on US Politics,topic,active
+N-1148,N-10148,CIA,organization,active
+N-1149,N-10149,AIPAC,organization,active
+N-1150,N-10150,FAA,organization,active
+N-1151,N-10151,Exit Wound / Bullet Trajectory Discrepancy,topic,active
+N-1152,N-10152,Transponder / Plane Anomaly Investigation,topic,active
+N-1153,N-10153,UVU Underground Tunnel / Pipeline Investigation,topic,active
+N-1154,N-10154,Candace Owens FBI/CIA Reporting Incident,topic,active
+N-1155,N-10155,Charlie Kirk / Candace Alleged Falling Out,topic,active
+N-1156,N-10156,Screwdriver Evidence Question,topic,active
+N-1157,N-10157,Dr. Frank Turk Suspicion,topic,active
+N-1158,N-10158,Brigham Young University,organization,active
+N-1159,N-10159,Wirefy,organization,active
+N-1160,N-10160,LDS Church,organization,active
+N-1161,N-10161,9/10 Eyewitness Pattern Investigation,topic,active
+N-1162,N-10162,Artery Remark Provenance,topic,active
+N-1163,N-10163,George Zinn Arrest Location/Timing,topic,active
+N-1164,N-10164,Roof Video Provenance Chain,topic,active
+N-1165,N-10165,Shooter Description Contradiction,topic,active
+N-1166,N-10166,TPUSA SD Card Removal,topic,active
+N-1167,N-10167,Wirefy Post-Shot Individual Identity,topic,active
+N-1168,N-10168,Earpiece Rumor Debunking,topic,active
+N-1169,N-10169,Bulletproof Vest Absence,topic,active
+N-1170,N-10170,Catholic Conversion Rumor,topic,active
+N-1171,N-10171,Israel $150M Offer Rumor,topic,active
+N-1172,N-10172,Moral Blackmail by Donors,topic,active
+N-1173,N-10173,Crime Scene Pavers,topic,active
+N-1174,N-10174,Police Scanner Description,topic,active
+N-1175,N-10175,FBI Case Closure Pressure,topic,active
+N-1176,N-10176,Tyler Robinson Evidence Gaps,topic,active
+N-1177,N-10177,Crooks Federal-Radar Question,topic,active
+N-1178,N-10178,Lone-Shooter Narrative Critique,topic,active
+N-1179,N-10179,Beehive Code / School Underground Premonition,topic,active
+N-1180,N-10180,Utah Beehive Symbolism,topic,active
+N-1181,N-10181,Soviet Education Infiltration,topic,active
+N-1182,N-10182,MK Ultra Continuity Theory,topic,active
+N-1183,N-10183,Jezebel/Etsy Hex on Charlie Kirk,topic,active
+N-1184,N-10184,Candace UK Premonition / Husband Meeting,topic,active
+N-1185,N-10185,Jimmy Kimmel Free-Speech Defense,topic,active
+N-1186,N-10186,Crooks Ideological Transformation,topic,active
+N-1187,N-10187,Eyewitness Roof-Description Discrepancy,topic,active
+N-1188,N-10188,Jezebel,organization,active
+N-1189,N-10189,Etsy,organization,active
+N-1190,N-10190,Riverbend Ranch,organization,active
+N-1191,N-10191,Utah,place,active
+N-1192,N-10192,London / UK,place,active
+N-1193,N-10193,Poland,place,active
+N-1194,N-10194,Germany (1848 reference),place,active
+N-1195,N-10195,Orem Police Department,organization,active
+N-1196,N-10196,Department of Government Efficiency (DOGE),organization,active
+N-1197,N-10197,PragerU,organization,active
+N-1198,N-10198,TPUSA DOGE Department / Financial Audit,topic,active
+N-1199,N-10199,Federal Investigation Conduct Question,topic,active
+N-1200,N-10200,Hamptons Weekend Retreat,topic,active
+N-1201,N-10201,Doorbell Footage Completeness Question,topic,active
+N-1202,N-10202,Muzzle Flash Theory (Range Day Bro),topic,active
+N-1203,N-10203,Suspicious Bush Theory (Range Day Bro),topic,active
+N-1204,N-10204,Bullet Casing Engraving Pattern,topic,active
+N-1205,N-10205,Operation Mocking Pastor,topic,active
+N-1206,N-10206,Amazon Pre-Event Book Listing (Sep 9),topic,active
+N-1207,N-10207,Mike Mitchell Public Record Anomaly,topic,active
+N-1208,N-10208,Brooksby Suicide Narrative Discrepancy,topic,active
+N-1209,N-10209,Robinson Apartment Staging Allegation,topic,active
+N-1210,N-10210,Phil Lyman Proximity and Behavior Investigation,topic,active
+N-1211,N-10211,UVU Campus Familiarity Question,topic,active
+N-1212,N-10212,Phil Lyman Location Discrepancy,topic,active
+N-1213,N-10213,Unidentified Goth Person in Broderick Companion Photo,topic,active
+N-1214,N-10214,Charlie Kirk Pre-Mortem Israel Position Claim,topic,active
+N-1215,N-10215,Hospital Routing Discrepancy,topic,active
+N-1216,N-10216,Utah FBI Personnel Replacement,topic,active
+N-1217,N-10217,Mike Mitchell Undercover Role Verification,topic,active
+N-1218,N-10218,"Unidentified Female / ""Accomplice"" in Shooter Footage",topic,active
+N-1219,N-10219,"""Robbie Hild"" Identity Verification",topic,active
+N-1220,N-10220,Case-Personnel Cluster Anomalies,topic,active
+N-1221,N-10221,Autopsy Record – Utah Privacy Statute Application,topic,active
+N-1222,N-10222,Hospital Routing Anomaly,topic,active
+N-1223,N-10223,TPUSA Faith Packet / Israel References Claim,topic,active
+N-1224,N-10224,ADL–FBI Partnership Structure,topic,active
+N-1225,N-10225,Connecticut FBI Field Office Deployment Anomaly,topic,active
+N-1226,N-10226,Tyler Robinson Defense Selection Anomaly,topic,active
+N-1227,N-10227,Witness and Public-Figure Demeanor Anomalies,topic,active
+N-1228,N-10228,SD Card Removal Narrative Discrepancy,topic,active
+N-1229,N-10229,Pre-Assassination Group Chat Content,topic,active
+N-1230,N-10230,Charlie Kirk Catholic Trajectory Verification,topic,active
+N-1231,N-10231,Campus Footage Release Strategy Question,topic,active
+N-1232,N-10232,Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question,topic,active
+N-1233,N-10233,Tyler Bowyer X Defense Pattern,topic,active
+N-1234,N-10234,Maroon Shirt Person Identification (Lance Twiggs Hypothesis),topic,active
+N-1235,N-10235,Josh Hammer Pre-Death Zoom Call Verification,topic,active
+N-1236,N-10236,George Zinn Federal Familial Connections (per tip),topic,active
+N-1237,N-10237,Tyler / Lance Apartment Lock Change Anomaly,topic,active
+N-1238,N-10238,Multiple Decoys Theory (4 Decoys Named),topic,active
+N-1239,N-10239,George Zinn Medical Payment Claim Verification,topic,active
+N-1240,N-10240,Josh Hammer September 9 Retweet Context Investigation,topic,active
+N-1241,N-10241,UVU Left-Side Footage Black Hole,topic,active
+N-1242,N-10242,Candace Kill Switch / Dead Man Switch,topic,active
+N-1243,N-10243,Charlie Kirk Final-Days Text Communications,topic,active
+N-1244,N-10244,Hamptons Meeting Verification,topic,active
+N-1245,N-10245,Iryna Zhuravska Murder Timeline Verification,topic,active
+N-1246,N-10246,Bullet Trajectory and Caliber Verification,topic,active
+N-1247,N-10247,Multiple Shooter Theory,topic,active
+N-1248,N-10248,Cooper Brown Identity Verification,topic,active
+N-1249,N-10249,Medical Examiner Inquiry – Weiss Amaro,topic,active
+N-1250,N-10250,Caldera Engineering Background Investigation,topic,active
+N-1251,N-10251,Plane N1098L Investigation,topic,active
+N-1252,N-10252,Plane 888 / Maxwell Plane Investigation,topic,active
+N-1253,N-10253,Josh Hammer Text Messages Context,topic,active
+N-1254,N-10254,Leadership Institute (entity),topic,active
+N-1255,N-10255,Las Vegas Aviation LLC (entity),topic,active
+N-1256,N-10256,Signature FBO / Millionaire FBO (entity cluster),topic,active
+N-1257,N-10257,834ms Phone Timing Analysis,topic,active
+N-1258,N-10258,Camera Operator Behavior Pattern,topic,active
+N-1259,N-10259,Mikey McCoy Call Log Verification,topic,active
+N-1260,N-10260,TPUSA Succession Plan Disclosure Timeline,topic,active
+N-1261,N-10261,Josh Hammer Defamation Threat,topic,active
+N-1262,N-10262,UVU Hospital Charlie Kirk Medical File Access Question,topic,active
+N-1263,N-10263,TPUSA Military-Personnel Network,topic,active
+N-1264,N-10264,"Mikey McCoy Behavior Discrepancy (September 10, 2025)",topic,active
+N-1265,N-10265,Susie Wiles Eulogy-Selection Question,topic,active
+N-1266,N-10266,TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy,topic,active
+N-1267,N-10267,Charlie Kirk Burial / Funeral Narrative Discrepancy,topic,active
+N-1268,N-10268,FBI Charlie Kirk Investigation Handling (Kash Patel),topic,active
+N-1269,N-10269,Provo Airport Flight Anomaly Cluster,topic,active
+N-1270,N-10270,Egyptian Air Force SU-BTT Provo Mission Question,topic,active
+N-1271,N-10271,N888KG Flight Manifest Verification,topic,active
+N-1272,N-10272,TPUSA Text Chain Authenticity Verification,topic,active
+N-1273,N-10273,SUBTT (Egyptian military aircraft) Flight Tracking Question,topic,active
+N-1274,N-10274,SUBND (Egyptian military aircraft) Flight Tracking Question,topic,active
+N-1275,N-10275,TPUSA Faith / Christian Zionist Infiltration Question,topic,active
+N-1276,N-10276,NAR (New Apostolic Reformation) Infiltration Question,topic,active
+N-1277,N-10277,"Lincoln, Nebraska TPUSA Chapter Origin Question",topic,active
+N-1278,N-10278,TPUSA Financial Irregularities Question,topic,active
+N-1279,N-10279,Rob McCoy / Tyler Bowyer Background Verification,topic,active
+N-1280,N-10280,Mega-Church / Cash / Real-Estate Money Flow Hypothesis,topic,active
+N-1282,N-10282,"SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity t",topic,active
+N-1286,N-10286,TPUSA Posthumous Israel Award Reporting Discrepancy,topic,active
+N-1287,N-10287,TPUSA Leadership Transparency Pressure (Post-Charlie),topic,active
+N-1288,N-10288,McCoy Succession Plan,topic,active
+N-1289,N-10289,Mikey McCoy Pre-Death Documentation Pattern,topic,active
+N-1290,N-10290,Rob McCoy Relocation and Timing Pattern,topic,active
+N-1291,N-10291,UVU Event Application Anomaly,topic,active
+N-1292,N-10292,Israeli Cell Phone Presence on 9/10,topic,active
+N-1293,N-10293,George Zinn Hospital Payment Claim,topic,active
+N-1294,N-10294,UVU Event Approval Timeline Anomaly,topic,active
+N-1295,N-10295,Equipment Box / First-Aid Anomaly at UVU Scene,topic,active
+N-1296,N-10296,Mikey McCoy Phone Call Sequence Anomaly,topic,active
+N-1297,N-10297,YouTube Scheduling Order Anomaly,topic,active
+N-1298,N-10298,UVU Event Approval Timeline Discrepancy,topic,active
+N-1299,N-10299,Autopsy Report and Evidence Access Asymmetry,topic,active
+N-1300,N-10300,Saint Michael Pendant / Charlie Catholic-Curious Status,topic,active
+N-1301,N-10301,TPUSA / Candace Owens NDA and Blexit Question,topic,active
+N-1302,N-10302,UVU Green Hoodie Person Identification (Resolved),topic,active
+N-1303,N-10303,Priest Presence at Ole Miss Event,topic,active
+N-1304,N-10304,Charlie's Heart Still Beating Question,topic,active
+N-1305,N-10305,Erika–Charlie 2018 Israel Airport Meeting Question,topic,active
+N-1306,N-10306,Megyn Kelly Tour Attendee Authenticity Question,topic,active
+N-1307,N-10307,Shapiro Statement Accuracy Re: Owens' Accusations,topic,active
+N-1308,N-10308,Daily Wire Intern Covert Recording Operation,topic,active
+N-1309,N-10309,Timpanogos Hospital Footage Seizure Verification,topic,active
+N-1310,N-10310,Borderline Bar Las Vegas Survivor Pattern,topic,active
+N-1311,N-10311,Shawnie Ray Kirkup / Kirkhoff Identity Verification,topic,active
+N-1312,N-10312,Seven Mountain Mandate / NAR Influence on TPUSA Faith,topic,active
+N-1313,N-10313,UVU Outdoor Venue Selection Discrepancy,topic,active
+N-1314,N-10314,Pre-Event Old Man Near Bush Anomaly,topic,active
+N-1315,N-10315,Alexis Wilkins Honeypot Allegation Lawsuit,topic,active
+N-1316,N-10316,Calvary Chapel Institutional Abuse Pattern,topic,active
+N-1317,N-10317,Potter's Fields Ministries Financial Fraud Allegations,topic,active
+legacy-N-1318,legacy-N-10318,Node 1318,,tombstone
+N-1319,N-10319,Calvary Chapel Network Infiltration Question,topic,active
+N-1320,N-10320,"""Mormon Mafia"" Allegation",topic,active
+N-1321,N-10321,Charlie Kirk Event – Maroon Shirt Individual Identification,topic,active
+N-1322,N-10322,TPUSA Faith-Angle Investigation,topic,active
+N-1323,N-10323,Potter's Fields Hostile Takeover Allegation,topic,active
+N-1324,N-10324,Egyptian Military Plane Tracking Investigation,topic,active
+N-1325,N-10325,TPUSA Financial Filing Anomaly Investigation,topic,active
+N-1326,N-10326,N560TW Flight Pattern Investigation,topic,active
+N-1327,N-10327,Duncan Aviation Rental Vehicle Investigation,topic,active
+N-1328,N-10328,Flock LPR FOIA Investigation,topic,active
+N-1329,N-10329,Andrew Kovat Hospital Threat Disclosure Question,topic,active
+N-1330,N-10330,Duncan Aviation Egyptian Rental Vehicle Network,topic,active
+N-1331,N-10331,Federal Military Aircraft Escort Protocol Verification,topic,active
+N-1332,N-10332,UVU Pre-9/10 Rooftop Sightings,topic,active
+N-1333,N-10333,Post-Shooting Phone Call Timing Sequence,topic,active
+N-1334,N-10334,TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery,topic,active
+N-1335,N-10335,Calvary Chapel Pro-Israel Coordination,topic,active
+N-1336,N-10336,920 North King Street / 1 Rodney Square Federal Facility,topic,active
+N-1337,N-10337,SUBTT Wilmington Visit Pattern,topic,active
+N-1338,N-10338,TPUSA Drone Disclosure Discrepancy,topic,active
+N-1339,N-10339,AmFest Speaker Removal Pattern,topic,active
+N-1340,N-10340,Wilmington Airport Hangar Federal Connection,topic,active
+N-1341,N-10341,Macron Defamation Lawsuit Delaware Venue Question,topic,active
+N-1342,N-10342,Tyler Robinson Washington County Surveillance Footage Gap,topic,active
+N-1343,N-10343,Harpole–Flood Text Attribution Discrepancy,topic,active
+N-1344,N-10344,Operation Valhalla – Charlie Kirk Assassination Timeline Connection,topic,active
+N-1345,N-10345,BTT Minot AFB Stopover Question,topic,active
+N-1346,N-10346,Maroon Shirt Coordination Theory,topic,active
+N-1347,N-10347,Nebraska–Egypt Trade Mission / BTT Plane Overlap,topic,active
+N-1348,N-10348,Minot Air Force Base,topic,active
+N-1349,N-10349,891st Missile Security Forces Squadron,topic,active
+N-1350,N-10350,Camp Ripley Training Center,topic,active
+N-1351,N-10351,The Free Press,topic,active
+N-1352,N-10352,Free Press Email Inquiry Target,topic,active
+N-1353,N-10353,CBS News,topic,active
+N-1354,N-10354,French Street Wilmington Historical Cluster,topic,active
+N-1355,N-10355,920 North King Street Federal Presence,topic,active
+N-1356,N-10356,Bracebridge Complex French Connection,topic,active
+N-1357,N-10357,Incyte Corporation French CEO,topic,active
+N-1358,N-10358,Longwood Foundation / Pierre du Pont Educational Center,topic,active
+N-1359,N-10359,Wilmington Trust / T. Coleman du Pont,topic,active
+N-1360,N-10360,Rodney Square / 500 Delaware Avenue Federal Cluster,topic,active
+N-1361,N-10361,French Foreign Legion US Training August 2025,topic,active
+N-1362,N-10362,Operation Bright Star August–September 2025,topic,active
+N-1363,N-10363,FFL Six-Regiment Command Change August 2025,topic,active
+N-1364,N-10364,Safari Club Intelligence Network,topic,active
+N-1365,N-10365,"Brigitte Macron Schedule Gap September 4–10, 2025",topic,active
+N-1366,N-10366,YouTube Live Poll: Lawsuit as Government Operation,topic,active
+N-1367,N-10367,Camp Riley vs Camp Ripley Typo Issue,topic,active
+N-1368,N-10368,Eric Bolling / PBD Podcast Apology Incident,topic,active
+N-1369,N-10369,Pierre Dupont Donor Identity Verification Question,topic,active
+N-1370,N-10370,TPUSA Egyptian Plane Story Suppression Attempt,topic,active
+N-1371,N-10371,Justin Strife Post-Assassination Phone Call,topic,active
+N-1372,N-10372,TPUSA Real Estate Program Allegation,topic,active
+N-1373,N-10373,BB Net/Yahoo Offer to TPUSA,topic,active
+N-1374,N-10374,Richards Layton & Finger Connection to Candace Lawsuit,topic,active
+N-1375,N-10375,Stacy Sheridan Registered Agent and LLC Question,topic,active
+N-1376,N-10376,"Andrew Kolvet ""Lost Millions"" Tip Verification",topic,active
+N-1377,N-10377,DuPont Family Pattern of Crimes,topic,active
+N-1378,N-10378,TPUSA Phoenix Livestream Verification Question,topic,active
+N-1379,N-10379,Macron-Trump 09/10 Phone Call Timing Verification,topic,active
+N-1380,N-10380,Wedi Machmood Identity Verification Question,topic,active
+N-1381,N-10381,"SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",topic,active
+N-1382,N-10382,Maroon Shirt Pattern at UVU September 10 Event,topic,active
+N-1383,N-10383,Charlie Kirk Show Apple Podcasts Ranking Decline,topic,active
+N-1384,N-10384,TPUSA December 15 Live Stream Event Verification,topic,active
+N-1385,N-10385,Roof Shooter Video Witness Follow-up,topic,active
+N-1386,N-10386,Mainstream Media Eyewitness Selection Pattern at UVU Event,topic,active
+N-1387,N-10387,France / Macron Couple Involvement in Kirk Assassination,topic,active
+N-1388,N-10388,Pierre Falcone / Turning Point USA Connection Claim,topic,active
+N-1389,N-10389,Operation Mockingbird 2.0 Allegation,topic,active
+N-1390,N-10390,.30-06 Forensic Narrative Validity,topic,active
+N-1391,N-10391,Charlie Kirk's Pre-Death Messages (Night Before Assassination),topic,active
+N-1392,N-10392,TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall,topic,active
+N-1393,N-10393,Charlie Kirk Life Insurance Policy & Beneficiary,topic,active
+N-1394,N-10394,Charlie Kirk Burial Status / Catholic Funeral Mass,topic,active
+N-1395,N-10395,Epstein Files Release Status,topic,active
+N-1396,N-10396,Global Trafficking Angle in Kirk Assassination,topic,active
+N-1397,N-10397,"Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",topic,active
+N-1398,N-10398,Incident Report 861-1-2025-MPC446 FOIA Verification,topic,active
+N-1399,N-10399,"1990 Douglas, Arizona / Operation Catacomb Verification",topic,active
+N-1400,N-10400,Brian Harpole Military Connection Verification,topic,active
+N-1401,N-10401,"""Jonathan Schmidt"" / Arcadi Gaydamak Identity Verification",topic,active
+N-1402,N-10402,Root Brands / Nashville Foreign Intelligence Personnel Question,topic,active
+N-1403,N-10403,USAF C37A 99-044 Flight Path Verification,topic,active
+N-1404,N-10404,"Candlewood Suites Hotel Security Footage (Sept 8, 2025)",topic,active
+N-1405,N-10405,CBS Bari Weiss Town Hall Production Integrity,topic,active
+N-1406,N-10406,Maroon Shirt / Air Force 10th Mountain Brigade Connection,topic,active
+N-1407,N-10407,Tyler Robinson First In-Person Court Appearance Details,topic,active
+N-1408,N-10408,Tyler Robinson Prosecution Evidence Base,topic,active
+N-1409,N-10409,Mikey McCoy Post-Shooting Phone Call Sequence,topic,active
+N-1410,N-10410,Elizabeth McCoy Disappearance From Public Narrative,topic,active
+N-1411,N-10411,Night-Before Text Messages to Andrew Kolvet and Dan Flood,topic,active
+N-1412,N-10412,Andrew Kolvet Surgeon Bullet Description,topic,active
+N-1413,N-10413,Bibi Netanyahu TPUSA Funding Offer,topic,active
+N-1414,N-10414,Tyler Robinson Rooftop Access Timeline,topic,active
+N-1415,N-10415,Candace Owens Security Arrangement,topic,active
+N-1416,N-10416,Hampton Retreat Seth Dillon Confrontation,topic,active
+N-1417,N-10417,Terrell Farnsworth Camera Removal Justification,topic,active
+N-1418,N-10418,Egyptian Planes Israel Flight Pattern,topic,active
+N-1419,N-10419,Rob McCoy TPUSA Affiliation Claim,topic,active
+N-1420,N-10420,Bari Weiss CBS Interview Question Selection,topic,active
+N-1421,N-10421,Charlie Kirk Catholicism Journey,topic,active
+N-1422,N-10422,Candace Husband Qatari Passport Claim,topic,active
+N-1423,N-10423,Camp Wa Chuka Investigation,topic,active
+N-1424,N-10424,Rob McCoy Wikipedia TPUSA Faith Entry,topic,active
+N-1425,N-10425,George Zin Self-Incriminating Hospital Statement,topic,active
+N-1426,N-10426,Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute,topic,active
+N-1427,N-10427,Brian Harpole Dan Flood Text Misattribution,topic,active
+N-1428,N-10428,UVU Walk-Through Disputed,topic,active
+N-1429,N-10429,Surgeon Quotation Authenticity Question,topic,active
+N-1430,N-10430,Hospital Federal Access Question,topic,active
+N-1431,N-10431,Gun Discovery Procedure Question,topic,active
+N-1432,N-10432,White Toyota RAV4 FBI Badge Question,topic,active
+N-1433,N-10433,Vehicle Disposition Question,topic,active
+N-1434,N-10434,SAM000 Flight Manifest Question,topic,active
+N-1435,N-10435,SAM658/RCH658 Call Sign Switch Question,topic,active
+N-1436,N-10436,Sept 9 Fort Huachuca Meeting Question,topic,active
+N-1437,N-10437,Operation Valhalla Strike,topic,active
+N-1438,N-10438,"Fort Huachuca September 8–9, 2025 Eyewitness Encounter",topic,active
+N-1439,N-10439,Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class),topic,active
+N-1440,N-10440,Charlie Kirk SUV Interior Black Plastic Fragmentation,topic,active
+N-1441,N-10441,Fort Huachuca Morning Meeting Investigation,topic,active
+N-1442,N-10442,Mark Amodei September 9 Alibi Verification,topic,active
+N-1443,N-10443,Cabot Phillips Fort Huachuca Presence Verification,topic,active
+N-1444,N-10444,Brian Harpole Fort Huachuca Presence Verification,topic,active
+N-1445,N-10445,Erika Kirk Pre-Charlie Dating History Verification,topic,active
+N-1446,N-10446,Fort Huachuca Sighting Verification,topic,active
+N-1447,N-10447,AmFest Tent Recreation Approval Chain,topic,active
+N-1448,N-10448,Hunter Cosgrove / Kozak Identity Discrepancy,topic,active
+N-1449,N-10449,Andrew Kolbet Coordination with Attackers of Mitch Snow,topic,active
+N-1450,N-10450,Daily Wire Social Media Reactivation,topic,active
+N-1451,N-10451,Erica Kirk September 8 Alibi,topic,active
+N-1452,N-10452,Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification,topic,active
+N-1453,N-10453,Mark Amodei House Committee Visual Identification,topic,active
+N-1454,N-10454,Farnsworth Family Political-Military Network,topic,active
+N-1455,N-10455,Davis-Monthan AFB September 9 Attendee Verification,topic,active
+N-1456,N-10456,Daily Wire Show Targeting Candace Owens / Tucker Carlson,topic,active
+N-1457,N-10457,Ben Shapiro Hostile Takeover Pattern,topic,active
+N-1458,N-10458,Tyler Bowyer Investigation Question,topic,active
+N-1459,N-10459,Missing Money from Turning Point Action,topic,active
+N-1460,N-10460,Charlie Kirk Premonition Dreams,topic,active
+N-1461,N-10461,Austin Smith / Turning Point Action Fraud Connection,topic,active
+N-1462,N-10462,Ben Shapiro Daily Wire Founding Narrative,topic,active
+N-1463,N-10463,Liberty Godparent Home / Godparent Program Investigation,topic,active
+N-1464,N-10464,Liberty University Funding History,topic,active
+N-1465,N-10465,Brian Herpolsheimer Name Discrepancy,topic,active
+N-1466,N-10466,Tyler Bowyer 2011 Romania Activities,topic,active
+N-1467,N-10467,Charis Bible College Security Coordination (Post-Assassination),topic,active
+N-1468,N-10468,Charlie Kirk Korea Trip / Pastor Yoon Connection,topic,active
+N-1469,N-10469,Turning Point USA Faith Structure,topic,active
+N-1470,N-10470,Unification Church / Moon Inc. Financial Structure,topic,active
+N-1471,N-10471,Falwell Family Origin History,topic,active
+N-1472,N-10472,Romania / Eastern Europe Trafficking Cluster,topic,active
+N-1473,N-10473,Unification Church → Liberty University Lineage (Mooney 2.0 Thesis),topic,active
+N-1474,N-10474,Erika Kirk Handler Thesis,topic,active
+N-1475,N-10475,Candace Owens Dream Vision of Andrew Kolbett,topic,active
+N-1476,N-10476,September 10 Plot Against Candace Owens,topic,active
+N-1477,N-10477,Megyn Kelly Attacks for Refusing to Denounce Candace Owens,topic,active
+N-1478,N-10478,Knesset Declaration of US Commentators as Israeli Enemies,topic,active
+N-1479,N-10479,Turning Point USA Estate Planning Solicitation,topic,active
+N-1480,N-10480,Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients,topic,active
+N-1481,N-10481,TPUSA Board Member Military–Satanism Connection,topic,active
+N-1482,N-10482,Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster,topic,active
+N-1483,N-10483,Erica Kirk June 19 Instagram Purge,topic,active
+N-1484,N-10484,Project Looking Glass Allegation,topic,active
+N-1485,N-10485,CERN Satantic Ritual Claim,topic,active
+N-1486,N-10486,Charlie Kirk Premonition Pattern,topic,active
+N-1487,N-10487,Daily Wire Stalking Pattern,topic,active
+N-1488,N-10488,Fort Huachuca Erika Presence Investigation,topic,active
+N-1489,N-10489,November Renaissance Film Production Investigation,topic,active
+N-1490,N-10490,Erika China Residence Discrepancy,topic,active
+N-1491,N-10491,Courage House Nevada Investigation,topic,active
+N-1492,N-10492,Buckman–TPUSA Donor Relationship Investigation,topic,active
+N-1493,N-10493,GATE / Gifted Education Program Investigation,topic,active
+N-1494,N-10494,Identity Crisis Documentary Production Investigation,topic,active
+N-1495,N-10495,Nick Fuentes Federal Informant Allegation,topic,active
+N-1496,N-10496,Dan Flood Family Law Enforcement Network,topic,active
+N-1497,N-10497,New Braunfels Texas Security Personnel Cluster,topic,active
+N-1498,N-10498,TPUSA Drone Story Discrepancy,topic,active
+N-1499,N-10499,Erica Kirk China Timeline Discrepancy,topic,active
+N-1500,N-10500,Operation Mocking Pastor / Cornerstone Chapel Event,topic,active
+N-1501,N-10501,Plane Records Timing Discrepancy,topic,active
+N-1502,N-10502,"Aspen Donor Retreat ""What Happens When You Die"" Question",topic,active
+N-1503,N-10503,TPUSA Non-Disparagement Enforcement Campaign,topic,active
+N-1504,N-10504,TPUSA Financial Impropriety Allegations,topic,active
+N-1505,N-10505,Charlie Kirk DOGE Pre-Death Establishment,topic,active
+N-1506,N-10506,Fort Wuka Erika Kirk Location Investigation,topic,active
+N-1507,N-10507,TPUSA Faith Military Infiltration Claim,topic,active
+N-1508,N-10508,Aspen Donor Recall Verification,topic,active
+N-1509,N-10509,Identity of Christian Zionist Donor (Unverified),topic,active
+N-1510,N-10510,TPUSA Termination Cause Investigation,topic,active
+N-1511,N-10511,Desert Spirit Tech LLC Business Purpose Question,topic,active
+N-1512,N-10512,Euro Tech / Cincinnati Business Investigation,topic,active
+N-1513,N-10513,"Sacaton ""Rose and Thobe"" Address Verification",topic,active
+N-1514,N-10514,TPUSA Post-Assassination Leadership Tone/Timing Discrepancy,topic,active
+N-1515,N-10515,TPUSA Vision 2030 Documentation Verification,topic,active
+N-1516,N-10516,Christian Zionist Threat Message Authorship Verification,topic,active
+N-1517,N-10517,Hamptons Summit / Netanyahu Funding Offer Discrepancy,topic,active
+N-1518,N-10518,"Three-Way Surgeon Call / ""Superman Neck"" HIPAA Discrepancy",topic,active
+N-1519,N-10519,TPUSA September 16 Corporate Call Framing Pattern,topic,active
+N-1520,N-10520,Daily Wire Hungary Production Expenditure Investigation,topic,active
+N-1521,N-10521,Fort Huachuca PR Response Coordination Question,topic,active
+N-1522,N-10522,USS Liberty Incident Cover-up Investigation,topic,active
+N-1523,N-10523,Candace Owens Anti-Semite of Year 2024 Nomination,topic,active
+N-1524,N-10524,Piers Morgan Bassem Youssef Chart Numbers Claim,topic,active
+N-1525,N-10525,Gaza Death Toll and Documentation Claims,topic,active
+N-1526,N-10526,Andrew Kolvet Charlie Kirk Twitter Control Claim,topic,active
+N-1527,N-10527,Charlie Kirk BB Netanyahu Show Refusal,topic,active
+N-1528,N-10528,New York Times USS Liberty Investigation Reporting,topic,active
+N-1529,N-10529,Arstrovski October 7th Photo Authenticity Question,topic,active
+N-1530,N-10530,Bassem Youssef Belly of the Beast Tour Schedule,topic,active
+N-1531,N-10531,Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim,topic,active
+N-1532,N-10532,1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim,topic,active
+N-1533,N-10533,*Till Kingdom Come* Documentary Pastors Clip,topic,active
+N-1534,N-10534,Ward Boston Notarized Statement San Diego Union Tribune,topic,active
+N-1535,N-10535,Candace Phil Turney Interview View Count,topic,active
+N-1536,N-10536,Calvary Chapel Church CIA Connection Question,topic,active
+N-1537,N-10537,Cardinal Stadium RV Show Booking Question,topic,active
+N-1538,N-10538,TPUSA Donor Targeting Pattern Question,topic,active
+N-1539,N-10539,Father Blank September 10 Mass Cancellation Question,topic,active
+N-1540,N-10540,$6 Million Memorial Cost Claim Verification Question,topic,active
+N-1541,N-10541,Dan Flood Message Format Discrepancy,topic,active
+N-1542,N-10542,Erica Kirk Sept 10 Alibi Verification,topic,active
+N-1543,N-10543,Fort Huachuca Alibi Investigation,topic,active
+N-1544,N-10544,Charlie Kirk Sept 8–10 Timeline Reconstruction,topic,active
+N-1545,N-10545,Peter Thiel–Epstein Relationship Documentation,topic,active
+N-1546,N-10546,J.D. Vance–Peter Thiel Political Exposure,topic,active
+N-1547,N-10547,Charlie Kirk Sept 8 Walk Companion Identification,topic,active
+N-1548,N-10548,"Erika Kirk Sept 8, 2025 Alibi Verification",topic,active
+N-1549,N-10549,Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy,topic,active
+N-1550,N-10550,"Sept 7, 2025 Erika Instagram Post – Manipulation Question",topic,active
+N-1551,N-10551,Nimrod / Gilgamesh Remains Extraction Question,topic,active
+N-1552,N-10552,Babylon Military Camp Activities,topic,active
+N-1553,N-10553,Mikey McCoy Phone Call Sequence,topic,active
+N-1554,N-10554,Erika's Mother Medical Narrative,topic,active
+N-1555,N-10555,Babylon Library / Tablet Loss Discrepancy,topic,active
+N-1556,N-10556,Erika Kirk September 10 Alibi Investigation,topic,active
+N-1557,N-10557,Tracy Martin Background and Husband Verification,topic,active
+N-1558,N-10558,Dream City Church Connection Investigation,topic,active
+N-1559,N-10559,Egyptian Plane Communication Investigation,topic,active
+N-1560,N-10560,Mount Hermon 33.33° Coordinate Investigation,topic,active
+N-1561,N-10561,Gilgamesh Remains DNA Extraction Claim,topic,active
+N-1562,N-10562,COVID Test DNA Collection Hypothesis,topic,active
+N-1563,N-10563,TPUSA Post-Charlie Loyalty-Test Termination Pattern,topic,active
+N-1564,N-10564,Pierre / French Donor Investigation,topic,active
+N-1565,N-10565,Erika Kirk September 10 Morning Itinerary Discrepancy,topic,active
+N-1566,N-10566,BB Netanyahu Hamptons Dinner Allegation,topic,active
+N-1567,N-10567,Egyptian Planes Investigation,topic,active
+N-1568,N-10568,Thomas Martin Identity Verification,topic,active
+N-1569,N-10569,Tracy's Daughter Erika Assistant Status Verification,topic,active
+N-1570,N-10570,TPUSA Halftime Viewership Authenticity,topic,active
+N-1571,N-10571,Hamptons Meeting Characterization Evolution,topic,active
+N-1572,N-10572,Erika Kirk Real Estate License Timing Question,topic,active
+N-1573,N-10573,Erika Kirk Corcoran Group Employment Verification,topic,active
+N-1574,N-10574,Erika Kirk September 10 Assistant Pull-Back Investigation,topic,active
+N-1575,N-10575,Erika Kirk Educational Timeline Verification Gap,topic,active
+N-1576,N-10576,Erika Kirk Post-Assassination Conduct Composite,topic,active
+N-1577,N-10577,Wedding Photo Disappearance Discrepancy,topic,active
+N-1578,N-10578,Charlie Kirk Phone Access Question,topic,active
+N-1579,N-10579,Tyler Robinson Evidence Sufficiency Question,topic,active
+N-1580,N-10580,"September 9, 2025 Night Activity Reconstruction Question",topic,active
+N-1581,N-10581,TPUSA All-American Halftime Show Authenticity Question,topic,active
+N-1582,N-10582,Color of the Day Redaction Anomaly,topic,active
+N-1583,N-10583,Wedding Photo Movement Discrepancy,topic,active
+N-1584,N-10584,Jillian Photographer Identification,topic,active
+N-1585,N-10585,"Erika Kirk September 8–10, 2025 Whereabouts Verification",topic,active
+N-1586,N-10586,Erika Kirk Twitter Silence Break Pattern,topic,active
+N-1587,N-10587,Erika Kirk Ohio Childhood Verification,topic,active
+N-1588,N-10588,Erika Kirk Loyola Marymount Attendance Verification,topic,active
+N-1589,N-10589,Erika Kirk Batman Colorado Theater Connection,topic,active
+N-1591,N-10591,Erika Kirk Next Model Management Involvement,topic,active
+N-1592,N-10592,Erika Kirk Corcoran Real Estate Anomaly,topic,active
+N-1593,N-10593,Erika Kirk September 8 Presence Verification,topic,active
+N-1594,N-10594,January 29 West Wing Meeting Subject,topic,active
+N-1595,N-10595,Linda Rothschild Corcoran Group Presidency Verification,topic,active
+N-1596,N-10596,Faith Kates – Epstein Relationship Scope,topic,active
+N-1597,N-10597,Antonio Placement Center Investigation,topic,active
+N-1598,N-10598,Erika NY Real Estate License Verification Question,topic,active
+N-1599,N-10599,Erika Real Estate Bio Credential Verification Question,topic,active
+N-1600,N-10600,Arizona-Romania Pipeline Investigation,topic,active
+N-1601,N-10601,SB 1439 Charlie Kirk Memorial Plate Fund Routing,topic,active
+N-1602,N-10602,TPUSA Super Feed Copyright / Data Routing Question,topic,active
+N-1604,N-10604,301 East 66th Street NYC Building Investigation,topic,active
+N-1605,N-10605,Next Model Management / Erica Kirk Connection,topic,active
+N-1606,N-10606,Club America High School Pushback,topic,active
+N-1607,N-10607,Renee Crossman / United Hands Romania Cult Affiliation,topic,active
+N-1608,N-10608,9/10 Behind Charlie Video Analysis,topic,active
+N-1609,N-10609,Hospital Transport Van Interior Photo Analysis,topic,active
+N-1610,N-10610,Charlie Kirk Necklace / Magnet Clasp Examination,topic,active
+N-1611,N-10611,Turning Point Action / Thomas Massie Disavowal Incident,topic,active
+N-1612,N-10612,Charlie Kirk Iran War Opposition (June 2025),topic,active
+N-1613,N-10613,Tucker Carlson CIA Investigation,topic,active
+N-1614,N-10614,Strait of Hormuz / US-Iran War Context,topic,active
+N-1615,N-10615,US Embassy Baghdad Attack (March 2026),topic,active
+N-1616,N-10616,Charlie Kirk Legacy Control Dispute,topic,active
+N-1617,N-10617,Netanyahu Death/Injury Status Verification,topic,active
+N-1618,N-10618,TPUSA Direction-of-Travel Discrepancy (Post-Charlie),topic,active
+N-1619,N-10619,Joe Kent Resignation Aftermath Pattern,topic,active
+N-1620,N-10620,September 10 Plane Logistics Discrepancy,topic,active
+N-1621,N-10621,Tarmac Hug Account Discrepancy,topic,active
+N-1622,N-10622,Egyptian Plane Transponding Correlation,topic,active
+N-1623,N-10623,"Blake Neff ""Two Phones"" Implication",topic,active
+N-1624,N-10624,Joe Kent Leak Accusation Chain,topic,active
+N-1625,N-10625,Aubrey Termination Circumstances,topic,active
+N-1626,N-10626,Erica Kirk 9/10 Location Investigation,topic,active
+N-1627,N-10627,Andrew Kolvet 9/10 Flight Itinerary,topic,active
+N-1628,N-10628,Hopkinson Aircrafts Business Verification,topic,active
+N-1629,N-10629,Charlie Kirk Live Show 9/10 Liveness Verification,topic,active
+N-1630,N-10630,Barbara Plane (N8724A) Operations,topic,active
+N-1631,N-10631,N40JD Plane Passenger Manifest,topic,active
+N-1632,N-10632,Nick Shirley Background Verification,topic,active
+N-1633,N-10633,Tarmac Hug Timeline Reconciliation Question,topic,active
+N-1634,N-10634,Stacey Sheridan September 10 Location Verification,topic,active
+N-1635,N-10635,Hopkinson Aircraft Erica Sighting Confirmation,topic,active
+N-1636,N-10636,Alexis Wilkins 13-Part Thread Analysis,topic,active
+N-1637,N-10637,Catholic Church Growth Discourse,topic,active
+N-1638,N-10638,Erica Kirk Arizona Activity Verification Gap,topic,active
+N-1639,N-10639,Tyler Robinson Confession Narrative Discrepancy,topic,active
+N-1640,N-10640,French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation,topic,active
+N-1641,N-10641,Athanor Lodge / French Freemason Murder Trial,topic,active
+N-1642,N-10642,Comparative Bullet Lead Analysis Revival,topic,active
+legacy-N-1643,legacy-N-10643,Exit Wound / Bullet Trajectory Discrepancy,,tombstone
+N-1644,N-10644,Defense Discovery Dumping Strategy,topic,active
+N-1645,N-10645,"July 14, 2025 Long Beach Flight",topic,active
+N-1646,N-10646,ATF Bullet-to-Gun Inconclusive Finding,topic,active
+N-1647,N-10647,Timpanogos Hospital Evidence Question,topic,active
+N-1648,N-10648,Romney–Netanyahu–Utah Connection Network,topic,active
+N-1649,N-10649,BYU Jerusalem CIA Recruitment Question,topic,active
+N-1650,N-10650,Timpanogos Hospital Records / Chain of Custody,topic,active
+legacy-N-1651,legacy-N-10651,Comparative Bullet Lead Analysis Revival,,tombstone
+N-1652,N-10652,Built Inc. Federal Contracting Pattern,topic,active
+N-1653,N-10653,Decoy Subject Investigation (Karashy/Qureshi),topic,active
+N-1654,N-10654,Robbie Hild–Romney Family Tie Verification,topic,active
+N-1655,N-10655,Andrew Zenger CIA Contract Work Question,topic,active
+N-1656,N-10656,Tyler Robinson Defense – Chain of Custody / Documents,topic,active
+N-1657,N-10657,Erika Kirk September 10 Whereabouts Verification,topic,active
+N-1658,N-10658,Aspen Donor Audio Integrity Question,topic,active
+N-1659,N-10659,Aspen Donor Event Memory Discrepancy,topic,active
+N-1660,N-10660,Karashi Family Military / Fort Huachuca Connections,topic,active
+N-1661,N-10661,Pam Bondi Dismissal Context Question,topic,active
+N-1662,N-10662,Trump Truth Social Post Pattern Question,topic,active
+N-1663,N-10663,Butler PA Investigation Closure Verification,topic,active
+N-1664,N-10664,Adelson–West Bank Annexation Meeting Verification,topic,active
+N-1665,N-10665,Laura Loomer Influence on Trump Policy Question,topic,active
+N-1666,N-10666,MAGA Base Sentiment Shift Question,topic,active
+N-1667,N-10667,Situation-Room Table Seating Verification,topic,active
+N-1668,N-10668,Tyler Robinson Filing Timeline Discrepancy,topic,active
+N-1669,N-10669,Aspen Donor Inconsistency,topic,active
+N-1670,N-10670,Forensic Extraction Evidence Presentation Question,topic,active
+N-1671,N-10671,Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom,topic,active
+N-1672,N-10672,Charlie GPT Pitch Question,topic,active
+N-1673,N-10673,Lance Twiggs Federal Asset Question,topic,active
+N-1674,N-10674,"ATF Trace on Fold AR SN 02735 (September 10, 2025)",topic,active
+N-1675,N-10675,Victor Marx 51% Fold AR Acquisition Attempt,topic,active
+N-1676,N-10676,"Victor Marx IDF 50,000 Guns Request",topic,active
+N-1677,N-10677,Victor Marx Haiti Mission and Arms Request,topic,active
+N-1678,N-10678,Fold AR SN 02735 Disappearance and Recovery Question,topic,active
+N-1679,N-10679,Victor Marx Background Verification,topic,active
+N-1680,N-10680,Erika Kirk–Victor Marx Relationship Verification,topic,active
+N-1681,N-10681,Trump Iran Arms Admission Context,topic,active
+N-1682,N-10682,UGA No-Show Security Threat Explanation Discrepancy,topic,active
+N-1683,N-10683,TPUSA UGA Event Crowd-Size Failure,topic,active
+N-1684,N-10684,Marcus Wada Arms Trafficking and Biography Cluster,topic,active
+N-1685,N-10685,Pinnacle High School Parent Boycott,topic,active
+N-1686,N-10686,Erika Kirk Fearlessness vs. Threat Claim Inconsistency,topic,active
+N-1687,N-10687,"High School ""Scheduling Complications"" vs. UGA ""Security Threats"" Explanation Inconsistency",topic,active
+N-1688,N-10688,Victor Marx / Corby Hall On-Air Interview Proposal,topic,active
+N-1689,N-10689,TPUSA Faith Department / Adjacent Charity Biographical Pattern,topic,active
+N-1690,N-10690,TPUSA Fox News B-roll Splicing,topic,active
+N-1691,N-10691,UGA Rally Cancellation Discrepancy,topic,active
+N-1692,N-10692,Secret Service Statement Verification,topic,active
+N-1693,N-10693,Victor Marx IDF / Israeli Defense Group Connection,topic,active
+N-1694,N-10694,Bain Capital Foreign Investment Line,topic,active
+N-1695,N-10695,ATF Bullet Comparison Methodology,topic,active
+N-1696,N-10696,Gun Firing Evidence Verification,topic,active
+N-1697,N-10697,Early-Death-Announcement Timeline Verification,topic,active
+N-1698,N-10698,Defense Access to Tyler Robinson Phone Data,topic,active
+N-1699,N-10699,Defense Access to Firearm Evidence (Quantico),topic,active
+N-1700,N-10700,Probable Cause Hearing Exhibit Count (35 Exhibits),topic,active
+N-1701,N-10701,Erika Kirk Speedy Trial Motion (January 16),topic,active
+N-1702,N-10702,Pinnacle High School Cancellation Reasons,topic,active
+N-1703,N-10703,Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition,topic,active
+N-1704,N-10704,Laura Loomer Sexual Assault Allegations,topic,active
+N-1705,N-10705,Laura Loomer Identity Claims (Jewish Heritage),topic,active
+N-1706,N-10706,"George Farmer / Tracy Robinson $6,987 Incident",topic,active
+N-1707,N-10707,Tyler Robinson's Grandfather's Position vs. Family Narrative,topic,active
+N-1708,N-10708,Tyler Robinson Look-alike Theory,topic,active
+N-1709,N-10709,Tyler Robinson Roommate Question,topic,active
+N-1710,N-10710,Lead-up Footage Absence,topic,active
+N-1711,N-10711,Victor Marx Suspicious Background,topic,active
+N-1712,N-10712,WHCD Incident Reconstruction,topic,active
+N-1713,N-10713,Sarah Sidner Original Video Source Verification,topic,active
+N-1714,N-10714,Erika Kirk Pre-Recorded Statement Authorship and Authenticity,topic,active
+N-1715,N-10715,Trump Truth Social Tweet Authorship/Origin,topic,active
+N-1716,N-10716,Andrew Kolvet Text Message Full Context Verification,topic,active
+N-1717,N-10717,Erika Kirk Murder Claim Accuracy,topic,active
+N-1718,N-10718,Harpole Fort Huachuca Alibi Question,topic,active
+N-1719,N-10719,Harpole Limited-Purpose Public Figure Status,topic,active
+N-1720,N-10720,UVU Drone Authorization Records,topic,active
+N-1721,N-10721,TPUSA Rooftop Security Decision-Making Discrepancy,topic,active
+N-1722,N-10722,Erika Kirk Murder Allegation Accuracy,topic,active
+N-1723,N-10723,House Resolution Characterization Accuracy,topic,active
+N-1724,N-10724,Candace-Erika December 15 Private Meeting Revelations,topic,active
+N-1725,N-10725,Charlie Kirk September 9 Pre-Event Threat Text,topic,active
+N-1726,N-10726,Brian Harpole Lawsuit Coordination Question,topic,active
+N-1727,N-10727,Dhillon Law Group / Show Faith by Works Connection,topic,active
+N-1728,N-10728,Turning Point Geofencing / Show Faith by Works Link,topic,active
+N-1729,N-10729,Zalman Shapiro Uranium Transfer Verification,topic,active
+N-1730,N-10730,Charlie Kirk Assassination Perpetrator Question,topic,active
+N-1731,N-10731,Charlotte Airport Photo Coordination Question,topic,active
+N-1732,N-10732,Salem Media Foreign Agent Registration Status,topic,active
+N-1733,N-10733,Josh Hammer Show Audience Anomaly,topic,active
+N-1734,N-10734,Pam Bondi Foreign Influence Task Force Disbanding,topic,active
+N-1735,N-10735,"Hospital ""No Neck Left"" Narrative Discrepancy",topic,active
+N-1736,N-10736,Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder),topic,active
+N-1737,N-10737,2025 FARA Propaganda Timeline Convergence,topic,active
+N-1738,N-10738,Mikey McCoy Witness Reliability Question,topic,active
+N-2061,N-11061,Charlie Kirk Aspen Audio Authenticity Question,topic,active
+N-2062,N-11062,Erika Kirk Educational Credentials Discrepancy,topic,active
+legacy-N-2063,legacy-N-11063,Brian Harpole Fort Huachuca Presence Verification,,tombstone
+N-2064,N-11064,Nick Shirley Background and Backing Verification,topic,active
+N-2065,N-11065,Project Constitution / TPUSA Divorce Rumor Verification,topic,active
+N-2066,N-11066,Boston Consulting Group Government Pipeline,topic,active
+N-2067,N-11067,Project Aurora Verification,topic,active
+N-2068,N-11068,Gaza Humanitarian Foundation Leadership/Operational Pipeline,topic,active
+N-2069,N-11069,SAM702 / Fort Huachuca September 9 Passenger Manifest,topic,active
+N-2070,N-11070,Egyptian Military Aircraft Shuttle Pattern,topic,active
+N-2071,N-11071,Hamptons August 5–7 Intervention Event,topic,active
+N-2072,N-11072,June 18 White House Meeting on Iran Involvement,topic,active
+N-2073,N-11073,Turning Point UVU Event Submission Chain,topic,active
+N-2074,N-11074,Charlie Kirk Shirt Disposal Verification,topic,active
+N-2075,N-11075,Sarah Tool Witness Statement Discrepancy,topic,active
+N-2076,N-11076,SUV Floorboard Shard Mic Identification,topic,active
+N-2077,N-11077,Lance Twiggs Preliminary Hearing Testimony Limitation,topic,active
+N-2078,N-11078,Erika Signature Change Discrepancy,topic,active
+N-2079,N-11079,Sean Ryan Show Interview Clip Bundle,topic,active
+N-2080,N-11080,USB Logo on Glass Shard Identification,topic,active
+N-2081,N-11081,Brian Harpole ER Story Plausibility,topic,active
+N-2082,N-11082,Brian Harpole Shirt Removal Event Timing,topic,active
+N-2083,N-11083,Car Interior Shards and Blood Evidence Pattern,topic,active
+N-2084,N-11084,Hospital Transport Sequence Discrepancy,topic,active
+N-2085,N-11085,Frank Turek CPR Claim Verification,topic,active
+N-2086,N-11086,Frank Turek Clothing Disposal,topic,active
+N-2087,N-11087,Daily Wire Financial Status and IPO Effort,topic,active
+N-2088,N-11088,Erika Kirk Dissociative Identity Disorder Assessment,topic,active
+N-2089,N-11089,District Attorney Release Authorization Investigation,topic,active
+N-2090,N-11090,911 Call Origin in Hospital Transport Vehicle,topic,active
+N-2091,N-11091,Erika Kirk Pastor Identity Verification,topic,active
+N-2092,N-11092,Dan Flood Role and Behavior Assessment,topic,active
+N-2093,N-11093,Brian Harpole Medical Dressing Amount Claim,topic,active
+N-2094,N-11094,Maroon Shirt Audience Identification,topic,active
+N-2095,N-11095,19th Special Forces / Utah-Romania Deployment Pattern,topic,active
+N-2096,N-11096,Next Model Management / MC2 Trafficking Connection to Erica Kirk,topic,active
+N-2097,N-11097,Brian Harpole vs Frank Turek CPR Contradiction,topic,active
+N-2098,N-11098,Pending FOIA Requests,topic,active
+N-2099,N-11099,Andrew Kolbenschlag EEOB Presence / Kash Patel Connection,topic,active
+N-2100,N-11100,Lance Twiggs Maroon Shirt Identification,topic,active
+N-2101,N-11101,Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator),topic,active
+N-2102,N-11102,"Mossad ""Truman Show"" Analogy Application",topic,active
+N-2103,N-11103,Charlie's Road Microphone Glass Origin Investigation Target,topic,active
+N-2104,N-11104,Charlie's Bloody Jacket Chain of Custody Investigation Target,topic,active
+N-2105,N-11105,Missing Charlie's Shirt Investigation Target,topic,active
+N-2106,N-11106,Car Door Open During Transport Report Investigation Target,topic,active
+legacy-N-2107,legacy-N-11107,Node 2107,,tombstone
+N-2108,N-11108,Car Exhaust Pipe Discrepancy,topic,active
+N-2109,N-11109,Bullet Jacket Fragment Diameter Discrepancy,topic,active
+N-2110,N-11110,Tyler Robinson DNA Most Degraded Anomaly,topic,active
+N-2111,N-11111,Ben Shapiro Car Ride Live Updates,topic,active
+N-2112,N-11112,Tyler-Lance Text Message Extraction Source,topic,active
+N-2113,N-11113,Unidentified Burnt Object in Charlie Kirk's SUV,topic,active
+N-2114,N-11114,Blake Neff September 10th Movement Discrepancy,topic,active
+N-2115,N-11115,Bank of America Merrill Lynch Personnel Network,topic,active
+N-2116,N-11116,Losee Center–Library Route Discrepancy,topic,active
+N-2117,N-11117,Abandoned Tactical Items Testing Discontinued,topic,active
+N-2118,N-11118,Prosecution Non-Call of Rooftop Eyewitness,topic,active
+N-2119,N-11119,Bank of America Network Connection,topic,active
+N-2120,N-11120,"Comperatore ""Inside Job"" Allegation",topic,active
+N-2121,N-11121,Clock Tower X / Israeli Influence Operation,topic,active
+N-2122,N-11122,"Carhartt ""Freedom Shirt"" Origin",topic,active
+N-2123,N-11123,Butler Shooting Insider Involvement Claim,topic,active
+N-2124,N-11124,Officer Bagley Body-Cam Battery Anomaly,topic,active
+N-2125,N-11125,Unidentified Badge-Holding Rooftop Companion,topic,active
+N-2126,N-11126,Abandoned Backpack / Jacket / Gloves Non-Testing Decision,topic,active
+N-2127,N-11127,Timpanogos Hospital Pre-Notification Failure,topic,active
+N-2128,N-11128,911 Call Identification Gap,topic,active
+N-2129,N-11129,Frank Turek FaceTime Story Inconsistency,topic,active
+N-2130,N-11130,Screwdriver Footage Graininess Discrepancy,topic,active
+N-2131,N-11131,Salt Lake City Hotel Identification Gap,topic,active
+N-2132,N-11132,Utah Pre-Event Personnel Restructuring Pattern,topic,active
+N-2133,N-11133,Ballistics Narrative Contradiction (O'Neill/Holt),topic,active
+N-2134,N-11134,Rooftop Clothing Change Narrative,topic,active
+N-2135,N-11135,Screwdriver Evidence Chain Question,topic,active
+N-2136,N-11136,CPR Narrative Contradiction (Turek / Harpole),topic,active
+N-2137,N-11137,Faumuina Media Presence Anomaly,topic,active
+N-2138,N-11138,Fort Huachuca Connection Question,topic,active
+N-2139,N-11139,SUV Interior Anomaly,topic,active
+N-2140,N-11140,Sandy Hook Comparison Rhetoric,topic,active
+N-2141,N-11141,Mikey McCoy Call Timeline Discrepancy,topic,active
+N-2142,N-11142,Daily Mail Article Source Identity,topic,active
+N-2143,N-11143,Howard Hughes Death Investigation,topic,active
+N-2144,N-11144,Daily Mail Article Sourcing Question,topic,active
+N-2145,N-11145,9/10 Phone Discrepancy (Mikey two phones),topic,active
+N-2146,N-11146,TPUSA Inner Circle Composition Question,topic,active
+N-2147,N-11147,Ben Shapiro 9/10 Lunch Meeting Identification,topic,active
+N-2148,N-11148,Amaro Resignation Cause,topic,active
+N-2149,N-11149,911 Call Content Discrepancy,topic,active
+N-2150,N-11150,Charlie Kirk Cremation/Burial Status Verification,topic,active
+N-2151,N-11151,TPUSA White House Meeting Coordination with Netanyahu Trip,topic,active
+N-2152,N-11152,Andrew Kolvet X Post and Community Note Bundle,topic,active
+N-2153,N-11153,Rooftop Movement Tactical Analysis,topic,active
+N-2154,N-11154,Weapon Discharge Visual Indicators,topic,active
+N-2155,N-11155,K9 Scent Tracking Discrepancy,topic,active
+N-2156,N-11156,Weapon Recovery Officer Chain and NCIS Connection,topic,active
+N-2157,N-11157,Secretary of the Navy Phelan Epstein Flight Connection,topic,active
+N-2158,N-11158,Kirk Burial / Cremation Status,topic,active
+N-2159,N-11159,Mock Burial Allegation,topic,active
+N-2160,N-11160,Kirk Autopsy Heart/Lung Hemorrhage Causation,topic,active
+N-2161,N-11161,"""Other Angle"" Rooftop Footage Existence",topic,active
+N-2162,N-11162,Hansen Mortuary Role,topic,active
+N-2163,N-11163,Kirk Religious Affiliation Status,topic,active
+N-2164,N-11164,Timpanogos Hospital Evacuation Tip,topic,active
+N-2165,N-11165,Security Clothing Disposal Question,topic,active
+N-2166,N-11166,Autopsy Timeline Anomaly,topic,active
+N-2167,N-11167,Shaped Charge / Exploding Microphone Hypothesis,topic,active
+N-2168,N-11168,Lozi Center Gun Verification Gap,topic,active
+N-2169,N-11169,Utah Valley Hospital File Anomaly,topic,active
+N-2170,N-11170,Missing Gloves Origin in SUV Door,topic,active
+N-2171,N-11171,Officer Bagley Rooftop Companion Identification,topic,active
+N-2172,N-11172,Body Cam Battery Failure Circumstances,topic,active
+N-2173,N-11173,Allan Robertson Brady List Entry / San Bernardino Transfer,topic,active
+N-2174,N-11174,US CentCom Iran Crowdsourcing Request,topic,active
+N-2175,N-11175,UVU Campus Sept 9 Scoping Incident,topic,active
+N-2176,N-11176,Screwdriver Narrative Evolution,topic,active
+N-2177,N-11177,Officer Bagley Rooftop Video Review Question,topic,active
+N-2178,N-11178,Black Nitrile Gloves / Door Compartment Evidence,topic,active
+N-2179,N-11179,"""Protecting Mrs. Kirk"" Group Chat Investigation",topic,active
+N-2180,N-11180,Nate Walker Movement Timeline (12:15–12:27),topic,active
+N-2181,N-11181,Tyler Robinson Case Evidence Inventory,topic,active
+N-2182,N-11182,Lance Phone Screen-Damage Timestamp Verification,topic,active
+N-2183,N-11183,Officer Bagley – Sex Crimes Unit Background,topic,active
+N-2184,N-11184,Victor Marx Biographical Claims Verification,topic,active
+N-2185,N-11185,French Translation Hypothesis (Tyler Robinson Texts),topic,active
+N-2186,N-11186,Lance Twigs Handedness Verification,topic,active
+N-2187,N-11187,Maroon Shirt Person Identity (UVU Campus),topic,active
+N-2188,N-11188,Grocery Affordability Public Debate (2026-08),topic,active
+N-2189,N-11189,Luna / Helluva Boss Cultural Connection,topic,active
+N-2190,N-11190,Parking-Garage Subject Identity Discrepancy,topic,active
+N-2191,N-11191,George Zinn Device Identification,topic,active
+N-2192,N-11192,Tyler Robinson Handedness Verification,topic,active
+N-2193,N-11193,"September 9, 2025 Message Nature Discrepancy",topic,active
+N-2194,N-11194,"Wilson's Promised Release of ""Never-Before-Seen Messages""",topic,active
+N-2195,N-11195,Turning Point USA Organizational State (Post-Debate),topic,active
+N-2196,N-11196,Terrell Farnsworth Google-Hack Contradiction,topic,active
+N-2197,N-11197,TPUSA Video Chain of Custody,topic,active
+N-2198,N-11198,Back-Camera Footage Discrepancy,topic,active
+N-2199,N-11199,80704 Clip Origin Verification,topic,active
+N-2200,N-11200,Terrell Post-Removal Communications,topic,active
+N-2201,N-11201,FBI Jurisdiction Question,topic,active
+N-2202,N-11202,Tyler Robinson Identification Photo Distortion,topic,active
+N-2203,N-11203,TPUSA Debate PR Strategy,topic,active
+N-2204,N-11204,Debate Israel Focus,topic,active
+N-2205,N-11205,Charlie Kirk Pre-Event Text Messages,topic,active
+N-2206,N-11206,Independent Investigator Network,topic,active
+N-2207,N-11207,Terrell SD Card-to-Laptop Transfer Sequence,topic,active
+N-2208,N-11208,Yellow Camera Floor Position Event,topic,active
+N-2209,N-11209,SD Card Chain-of-Custody Investigation,topic,active
+N-2210,N-11210,Aspect-Ratio Modification Investigation,topic,active
+N-2211,N-11211,Terrell Farnsworth Evidence-Handling Question,topic,active
+N-2212,N-11212,Foreign / Israeli Angle Investigation,topic,active
+N-2213,N-11213,Pentagon–State Department–TPUSA Coordinated Messaging Operation,topic,active
+N-2214,N-11214,NCRI Report Provenance and Authorship,topic,active
+N-2215,N-11215,"Charlie Kirk September 9, 2025 Text Messages",topic,active
+N-2216,N-11216,Butch Hibbs UVU Recording Behavior,topic,active
+N-2217,N-11217,Jack Hibbs Sequence-of-Events Discrepancy,topic,active
+N-2218,N-11218,Unidentified UVU Attendee (Pink Hat / Blue Shirt),topic,active
+N-2219,N-11219,9/10 Vehicle Positioning Discrepancy,topic,active
+N-2220,N-11220,Christopher Pre-Shot Location Anomaly,topic,active
+N-2221,N-11221,Security Vehicle Keys Access Question,topic,active
+N-2222,N-11222,Security Vehicle Hospital Transport Absence,topic,active
+N-2223,N-11223,"Political-Motivation X Outrage Cluster (Sept 1, 2026)",topic,active
+N-2224,N-11224,Political Motivation Inference Chain (Hearsay Standard),topic,active
+N-2225,N-11225,Defense Witness Tampering Count 6 Constitutional Question,topic,active
+legacy-N-2256,legacy-N-11256,Security team member previously identified as Chester Barnes is actually Derek Pepper Williams,,tombstone
+legacy-N-2257,legacy-N-11257,Security team member previously identified as Chester Barnes is actually Derek Pepper Williams,,tombstone
+legacy-N-2258,legacy-N-11258,Security team member previously identified as Chester Barnes is actually Derek Pepper Williams,,tombstone
+legacy-N-2259,legacy-N-11259,Security team member previously identified as Chester Barnes is actually Derek Pepper Williams,,tombstone
+legacy-N-2260,legacy-N-11260,Security team member previously identified as Chester Barnes is actually Derek Pepper Williams,,tombstone
+legacy-N-2261,legacy-N-11261,Security team member previously identified as Chester Barnes is actually Derek Pepper Williams,,tombstone
+legacy-N-2275,legacy-N-11275,Mike Mitchell Public Record Anomaly,,tombstone
+legacy-N-2276,legacy-N-11276,Brooksby Suicide Narrative Discrepancy,,tombstone
+legacy-N-2277,legacy-N-11277,Robinson Apartment Staging Allegation,,tombstone
+legacy-N-2278,legacy-N-11278,Phil Lyman Proximity and Behavior Investigation,,tombstone
+legacy-N-2279,legacy-N-11279,UVU Campus Familiarity Question,,tombstone
+legacy-N-2280,legacy-N-11280,Phil Lyman Location Discrepancy,,tombstone
+legacy-N-2281,legacy-N-11281,Unidentified Goth Person in Broderick Companion Photo,,tombstone
+legacy-N-2282,legacy-N-11282,Charlie Kirk Pre-Mortem Israel Position Claim,,tombstone
+legacy-N-2283,legacy-N-11283,Hospital Routing Discrepancy,,tombstone
+legacy-N-2284,legacy-N-11284,Utah FBI Personnel Replacement,,tombstone
+legacy-N-2285,legacy-N-11285,Mike Mitchell Undercover Role Verification,,tombstone
+legacy-N-2286,legacy-N-11286,"Unidentified Female / ""Accomplice"" in Shooter Footage",,tombstone
+legacy-N-2287,legacy-N-11287,"""Robbie Hild"" Identity Verification",,tombstone
+legacy-N-2288,legacy-N-11288,Case-Personnel Cluster Anomalies,,tombstone
+legacy-N-2289,legacy-N-11289,Autopsy Record – Utah Privacy Statute Application,,tombstone
+legacy-N-2290,legacy-N-11290,Hospital Routing Anomaly,,tombstone
+legacy-N-2291,legacy-N-11291,TPUSA Faith Packet / Israel References Claim,,tombstone
+legacy-N-2292,legacy-N-11292,ADL–FBI Partnership Structure,,tombstone
+legacy-N-2293,legacy-N-11293,Connecticut FBI Field Office Deployment Anomaly,,tombstone
+legacy-N-2294,legacy-N-11294,Tyler Robinson Defense Selection Anomaly,,tombstone
+legacy-N-2295,legacy-N-11295,Witness and Public-Figure Demeanor Anomalies,,tombstone
+legacy-N-2296,legacy-N-11296,SD Card Removal Narrative Discrepancy,,tombstone
+legacy-N-2297,legacy-N-11297,Pre-Assassination Group Chat Content,,tombstone
+legacy-N-2298,legacy-N-11298,Charlie Kirk Catholic Trajectory Verification,,tombstone
+legacy-N-2299,legacy-N-11299,Campus Footage Release Strategy Question,,tombstone
+legacy-N-2300,legacy-N-11300,Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question,,tombstone
+N-2317,N-11317,Statue Vandalism Investigation,topic,active
+N-2318,N-11318,Tempenogos Doctor Recusal Mystery,topic,active
+N-2319,N-11319,"Tempenogos Nurse ""Chest Saw"" Allegation",topic,active
+N-2320,N-11320,Security Detail Electrical Hazard Footwear Question,topic,active
+N-2321,N-11321,Search Warrant / Investigative Unit Pattern (Case Charlie Kirk),topic,active
+N-2322,N-11322,Trafficking-Pattern Claim (TPUSA / Kirk Circle),topic,active
+N-2323,N-11323,Notice of Claim Timing Anomaly,topic,active
+N-2324,N-11324,Tyler Robinson 2022 Bodycam Footage Provenance Question,topic,active
+N-2325,N-11325,Notice of Claim Text Message Omission,topic,active
+N-2326,N-11326,UVU Officer Allocation Ratio for Charlie Kirk Event,topic,active
+N-2327,N-11327,Utah Bodycam Routine Footage Retention Law,topic,active
+N-2328,N-11328,UVU EMS Presence at Scene Verification,topic,active
+N-2329,N-11329,Independent Review of UVU Security Failures,topic,active
+N-2330,N-11330,UVU Ambulance Denial Discrepancy,topic,active
+N-2331,N-11331,Nampa Christian School Opt-In Question,topic,active
+N-2332,N-11332,2019 Text Thread Provenance Question,topic,active
+N-2333,N-11333,TPUSA No-Marketing Security Claim,topic,active
+N-2334,N-11334,Empress Films / Erika Kirk Aug 2025 Call Question,topic,active
+N-2335,N-11335,Blake Neff Censorship Statement,topic,active
+N-2336,N-11336,Empress Films (Entity),topic,active
+N-2337,N-11337,"""Waluigi"" Unknown Driver",topic,active
+N-2338,N-11338,Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift,topic,active
+N-2339,N-11339,Woodbury Building / Baugh Family / N88 Plane Connection Question,topic,active
+N-2340,N-11340,Two Grey Dodge Challengers Discrepancy,topic,active
+N-2341,N-11341,Parking Garage Challenger Vehicle Exhaust Discrepancy,topic,active
+N-2342,N-11342,Quick Quack Car Wash Footage Release Question,topic,active
+N-2343,N-11343,Dairy Queen Timestamp UTC vs MST Reconciliation,topic,active
+N-2344,N-11344,Partial License Plate Match Verification Process,topic,active
+N-2345,N-11345,Vehicle Exhaust System Modification Question,topic,active
+N-2346,N-11346,Pentagon Seating Geometry Claim (Investigation Target),topic,active
+N-2347,N-11347,"""Freemason Bible"" Document Authentication (Investigation Target)",topic,active
+N-2348,N-11348,Erika Kirk Presidential Viability Narrative (Investigation Target),topic,active
+legacy-N-2349,legacy-N-11349,Father Ripperger,,tombstone
+N-2350,N-11350,TPUSA Non-Participation in UVU Independent Review,topic,active
+N-2351,N-11351,July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain),topic,active
+N-2352,N-11352,"Anonymous EMP Device Threat (SIAC, Sept 10)",topic,active
+N-2353,N-11353,Harpole Shawn Ryan Statements vs Independent Review Findings,topic,active
+N-2354,N-11354,July 2025 Charlie Kirk Pressure Concurrent with UVU Booking,topic,active
+N-2355,N-11355,Vanity Fair Erika Kirk Profile (Clara Molot),topic,active
+N-2356,N-11356,Erika Heaven-Focused Political Non-Answers / CEO Fitness,topic,active
+N-2357,N-11357,Night-of Assassination Aloe Yoga Outfit Directive,topic,active
+N-2358,N-11358,Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package),topic,active
+N-2359,N-11359,July 9 2025 Archive of Candace College YouTube Project,topic,active
+N-2360,N-11360,Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List,topic,active
+N-2361,N-11361,Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum,topic,active
+N-2362,N-11362,Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi),topic,active
+N-2363,N-11363,Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession,topic,active
+N-2364,N-11364,Scripps Media Bodycam Pattern (Robinson + Cole),topic,active
+N-2365,N-11365,UVU Independent Review Unnamed Fire Captain CPR Redaction,topic,active
+N-2366,N-11366,Candyland Illegal-Nanny Mansion NDA Smear,topic,active
+N-2367,N-11367,Killer-Mom Filicide Narrative as Internet-Regulation SCOP,topic,active
+N-2368,N-11368,Howard Lutnick / Simon Andre Epstein Whistleblower Death,topic,active
+N-2369,N-11369,Zach Bryan Free Palestine Gillette Stadium Record,topic,active
+N-2370,N-11370,Baron Coleman Pre-Host Character Attack Campaign,topic,active
+N-2371,N-11371,Monster Lab / Clippet,organization,active
+N-2372,N-11372,Elephant Clipping Campaign,topic,active
+N-2373,N-11373,Enclave and Key,organization,active
+N-2374,N-11374,Anti-Candace Paid Clipping Campaign,topic,active
+N-2375,N-11375,Wayback Machine Monster Lab September 2025 Wipe,topic,active
+N-2376,N-11376,Jennica Pounds DoD Special Government Employee Thread,topic,active
+N-2377,N-11377,Latvia,place,active
+N-2378,N-11378,Las Vegas,place,active
+N-2379,N-11379,Department of War,organization,active
+N-2380,N-11380,Atlantic Elephant Clipping Expose,topic,active
+N-2381,N-11381,Andrew Tate Hustlers University Clipping Economy,topic,active
+N-2382,N-11382,Erika Kirk September 15 2025 Google Drive Clip Seed,topic,active
+N-2383,N-11383,Audacity of the Gaslight Framing,topic,active
+N-2384,N-11384,"45,000 Rescue Claim Discrepancy",topic,active
+N-2385,N-11385,Jerusalem Post,organization,active
+N-2386,N-11386,Israeli War Room,organization,active
+N-2387,N-11387,Baker Tilly,organization,active
+N-2388,N-11388,Project Constitution,organization,active
+N-2389,N-11389,New York Post,organization,active
+N-2390,N-11390,Paramount Tactical Valhalla,organization,active
+N-2391,N-11391,Daily Wire,organization,active
+N-2392,N-11392,Havas Media,organization,active
+N-2393,N-11393,Root Brands,organization,active
+legacy-N-10000,pr47-N-10000,Maycee Crofts,person,tombstone renamed (id freed for topic band)
+legacy-N-10001,pr47-N-10001,Caleb Chilcutt,person,tombstone renamed (id freed for topic band)
+legacy-N-10002,pr47-N-10002,Tyler Bowyer,person,tombstone renamed (id freed for topic band)
+legacy-N-10003,pr47-N-10003,Kip Crofts,person,tombstone renamed (id freed for topic band)
+legacy-N-10004,pr47-N-10004,Clara Molot,person,tombstone renamed (id freed for topic band)
+legacy-N-10005,pr47-N-10005,Sergio Gor,person,tombstone renamed (id freed for topic band)
+legacy-N-10006,pr47-N-10006,Andrew Wilson,person,tombstone renamed (id freed for topic band)
+legacy-N-10007,pr47-N-10007,Laine Schoneberger,person,tombstone renamed (id freed for topic band)
+legacy-N-10008,pr47-N-10008,Dylan Erickson,person,tombstone renamed (id freed for topic band)
+legacy-N-10009,pr47-N-10009,Dennis Fenstermaker,person,tombstone renamed (id freed for topic band)
+legacy-N-10010,pr47-N-10010,Alan Collinge,person,tombstone renamed (id freed for topic band)
+legacy-N-10011,pr47-N-10011,Riley Gaines,person,tombstone renamed (id freed for topic band)
+legacy-N-10012,pr47-N-10012,Brian Cole Jr.,person,tombstone renamed (id freed for topic band)
+legacy-N-10013,pr47-N-10013,Lori Jane Gliha,person,tombstone renamed (id freed for topic band)
+legacy-N-10014,pr47-N-10014,Mitt Romney,person,tombstone renamed (id freed for topic band)
+legacy-N-10015,pr47-N-10015,Maggie Haberman,person,tombstone renamed (id freed for topic band)
+legacy-N-10016,pr47-N-10016,Jonathan Swan,person,tombstone renamed (id freed for topic band)
+legacy-N-10017,pr47-N-10017,Susie Wiles,person,tombstone renamed (id freed for topic band)
+legacy-N-10018,pr47-N-10018,Taylor Budowich,person,tombstone renamed (id freed for topic band)
+legacy-N-10019,pr47-N-10019,David Warrington,person,tombstone renamed (id freed for topic band)
+legacy-N-10020,pr47-N-10020,James Blair,person,tombstone renamed (id freed for topic band)
+legacy-N-10021,pr47-N-10021,Stanley Woodward,person,tombstone renamed (id freed for topic band)
+legacy-N-10022,pr47-N-10022,Steven Cheung,person,tombstone renamed (id freed for topic band)
+legacy-N-10023,pr47-N-10023,Howard Lutnick,person,tombstone renamed (id freed for topic band)
+legacy-N-10024,pr47-N-10024,Simon Andre,person,tombstone renamed (id freed for topic band)
+legacy-N-10025,pr47-N-10025,Zach Bryan,person,tombstone renamed (id freed for topic band)
+legacy-N-10026,pr47-N-10026,Robert Kraft,person,tombstone renamed (id freed for topic band)
+legacy-N-10027,pr47-N-10027,Lindsay Clancy,person,tombstone renamed (id freed for topic band)
+legacy-N-10028,pr47-N-10028,Nancy Mace,person,tombstone renamed (id freed for topic band)
+legacy-N-10029,pr47-N-10029,Nick Shirley,person,tombstone renamed (id freed for topic band)
+legacy-N-10030,pr47-N-10030,Brandon Tatum,person,tombstone renamed (id freed for topic band)
+legacy-N-10031,pr47-N-10031,Steven Paddock,person,tombstone renamed (id freed for topic band)
+legacy-N-10032,pr47-N-10032,Harvey Weinstein,person,tombstone renamed (id freed for topic band)
+legacy-N-10033,pr47-N-10033,Lisa Nose,person,tombstone renamed (id freed for topic band)

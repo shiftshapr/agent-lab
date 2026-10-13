@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-748",
-            "N-1496"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,7 +57,7 @@
           ],
           "related_nodes": [
             "N-748",
-            "N-1496"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,8 +86,8 @@
           ],
           "related_nodes": [
             "N-434",
-            "N-1496",
-            "N-1497"
+            "N-10496",
+            "N-10497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
           ],
           "related_nodes": [
             "N-750",
-            "N-1496"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -141,7 +141,7 @@
           "description": "Cattleman's Ball website displayed on screen, showing multi-state event locations including Texas, Kansas, Oregon, Florida, and Nebraska",
           "related_claims": [],
           "related_nodes": [
-            "N-1496"
+            "N-10496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -196,7 +196,7 @@
           ],
           "related_nodes": [
             "N-753",
-            "N-1498"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
           ],
           "related_nodes": [
             "N-753",
-            "N-1498"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1498"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
             "C-2141"
           ],
           "related_nodes": [
-            "N-1498"
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1499"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1499"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,7 +326,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1499"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -355,7 +355,7 @@
             "N-45",
             "N-759",
             "N-760",
-            "N-1500"
+            "N-10500"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -441,7 +441,7 @@
           "description": "\"Scrub Girl\" comment read aloud, stating \"I grew up in Converse, Texas, and no New Bronzeville/New Bron Falls, Texas… it's definitely expanding rapidly the past couple of years. Yeah, I believe that there is some military stuff. One person said to me that it was an intel base.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-1497"
+            "N-10497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -500,7 +500,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-1499"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -553,8 +553,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-748",
-        "N-1496",
-        "N-1497"
+        "N-10496",
+        "N-10497"
       ]
     },
     {
@@ -588,7 +588,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-434",
-        "N-1496"
+        "N-10496"
       ]
     },
     {
@@ -607,8 +607,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-750",
-        "N-1496",
-        "N-1497"
+        "N-10496",
+        "N-10497"
       ]
     },
     {
@@ -634,7 +634,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-424",
-        "N-1496"
+        "N-10496"
       ]
     },
     {
@@ -653,7 +653,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-434",
-        "N-1496"
+        "N-10496"
       ]
     },
     {
@@ -673,7 +673,7 @@
       "related_nodes": [
         "N-1",
         "N-434",
-        "N-1496"
+        "N-10496"
       ]
     },
     {
@@ -713,7 +713,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1498"
+        "N-10498"
       ]
     },
     {
@@ -731,7 +731,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1498"
+        "N-10498"
       ]
     },
     {
@@ -750,7 +750,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-731",
-        "N-1497"
+        "N-10497"
       ]
     },
     {
@@ -769,7 +769,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-730",
-        "N-1497"
+        "N-10497"
       ]
     },
     {
@@ -791,7 +791,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1500"
+        "N-10500"
       ]
     },
     {
@@ -813,7 +813,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1500"
+        "N-10500"
       ]
     },
     {
@@ -835,7 +835,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1500"
+        "N-10500"
       ]
     },
     {
@@ -859,8 +859,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1496",
-      "ref": "N-1496",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Dan Flood Family Law Enforcement Network",
       "type": "investigation_target",
       "description": "Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.",
@@ -889,8 +889,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1497",
-      "ref": "N-1497",
+      "@id": "N-10497",
+      "ref": "N-10497",
       "name": "New Braunfels Texas Security Personnel Cluster",
       "type": "investigation_target",
       "description": "Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.",
@@ -914,8 +914,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1498",
-      "ref": "N-1498",
+      "@id": "N-10498",
+      "ref": "N-10498",
       "name": "TPUSA Drone Story Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turk (drone footage with Charlie), Andrew Kovat (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
@@ -939,8 +939,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1499",
-      "ref": "N-1499",
+      "@id": "N-10499",
+      "ref": "N-10499",
       "name": "Erica Kirk China Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target reconciling three artifact-anchored statements about Erica Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
@@ -965,8 +965,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1500",
-      "ref": "N-1500",
+      "@id": "N-10500",
+      "ref": "N-10500",
       "name": "Operation Mocking Pastor / Cornerstone Chapel Event",
       "type": "investigation_target",
       "description": "Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.",
@@ -1079,7 +1079,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1098,7 +1098,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1117,7 +1117,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1136,7 +1136,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
@@ -1155,7 +1155,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
@@ -1174,7 +1174,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
@@ -1193,7 +1193,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
@@ -1212,7 +1212,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
@@ -1231,7 +1231,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
@@ -1252,7 +1252,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
@@ -1271,7 +1271,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-1497"
+        "N-10497"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
@@ -1290,7 +1290,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
@@ -1310,7 +1310,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1329,7 +1329,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1348,7 +1348,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1367,7 +1367,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-1496"
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1404,7 +1404,7 @@
         "A-1648.1"
       ],
       "related_nodes": [
-        "N-1498"
+        "N-10498"
       ],
       "tags": [],
       "claim_timestamp": "00:28:10",
@@ -1420,7 +1420,7 @@
         "A-1650.2"
       ],
       "related_nodes": [
-        "N-1499"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
@@ -1439,7 +1439,7 @@
         "A-1650.3"
       ],
       "related_nodes": [
-        "N-1499"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
@@ -1460,7 +1460,7 @@
         "A-1650.1"
       ],
       "related_nodes": [
-        "N-1499"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
@@ -1479,7 +1479,7 @@
         "A-1651.1"
       ],
       "related_nodes": [
-        "N-1500"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:34:31",

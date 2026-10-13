@@ -37,9 +37,9 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-2323",
-            "N-2325",
-            "N-2326"
+            "N-11323",
+            "N-11325",
+            "N-11326"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -67,7 +67,7 @@
             "C-3489"
           ],
           "related_nodes": [
-            "N-2323"
+            "N-11323"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
             "C-3473"
           ],
           "related_nodes": [
-            "N-2325"
+            "N-11325"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -176,8 +176,8 @@
             "C-3484"
           ],
           "related_nodes": [
-            "N-2324",
-            "N-2327"
+            "N-11324",
+            "N-11327"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
             "C-3480"
           ],
           "related_nodes": [
-            "N-2324",
-            "N-2327"
+            "N-11324",
+            "N-11327"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-3482"
           ],
           "related_nodes": [
-            "N-2324"
+            "N-11324"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,8 +312,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2323",
-      "ref": "N-2323",
+      "@id": "N-11323",
+      "ref": "N-11323",
       "name": "Notice of Claim Timing Anomaly",
       "type": "investigation_target",
       "description": "Persistent target: the wrongful-death notice of claim was filed approximately one year after the incident and two days before the expected release of UVU's independent review of security failures. Investigating whether the filing is preemptive.",
@@ -337,8 +337,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2324",
-      "ref": "N-2324",
+      "@id": "N-11324",
+      "ref": "N-11324",
       "name": "Tyler Robinson 2022 Bodycam Footage Provenance Question",
       "type": "investigation_target",
       "description": "Persistent target: investigating who retained the May 31, 2022 bodycam footage for approximately three years, why it was retained past Utah's 60–90 day routine-footage retention period, and how Scripps News obtained and released it within seven days of Tyler Robinson's identification as suspect.",
@@ -363,8 +363,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2325",
-      "ref": "N-2325",
+      "@id": "N-11325",
+      "ref": "N-11325",
       "name": "Notice of Claim Text Message Omission",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the line \"I was told students have access above us,\" which materially changes the contextual reading from a general \"rooftops\" concern to a targeted walkway-above-Charlie concern.",
@@ -385,8 +385,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2326",
-      "ref": "N-2326",
+      "@id": "N-11326",
+      "ref": "N-11326",
       "name": "UVU Officer Allocation Ratio for Charlie Kirk Event",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim alleges UVU assigned six of 24 total officers to the outdoor event with approximately 3,000 attendees; host calculates this is mathematically an oversupply relative to UVU's 50,000-student base.",
@@ -409,8 +409,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2327",
-      "ref": "N-2327",
+      "@id": "N-11327",
+      "ref": "N-11327",
       "name": "Utah Bodycam Routine Footage Retention Law",
       "type": "investigation_target",
       "description": "Persistent target: investigating whether the May 31, 2022 Tyler Robinson footage should have been purged under Utah's 60–90 day retention schedule for routine, non-criminal interactions.",
@@ -429,8 +429,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2328",
-      "ref": "N-2328",
+      "@id": "N-11328",
+      "ref": "N-11328",
       "name": "UVU EMS Presence at Scene Verification",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim alleges no first responders were available; host asserts UVU's state-certified emergency medical services were on scene at the vehicle with medical bags.",
@@ -452,8 +452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2329",
-      "ref": "N-2329",
+      "@id": "N-11329",
+      "ref": "N-11329",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Persistent target: UVU-commissioned third-party review announced September 22, 2025; findings expected imminently (host reports \"Friday\").",
@@ -470,7 +470,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2323"
+        "N-11323"
       ]
     },
     {
@@ -596,7 +596,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2323"
+        "N-11323"
       ],
       "tags": [],
       "claim_timestamp": "00:01:29",
@@ -615,7 +615,7 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-2329"
+        "N-11329"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -634,7 +634,7 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-2329"
+        "N-11329"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -687,7 +687,7 @@
         "A-2388.1"
       ],
       "related_nodes": [
-        "N-2325"
+        "N-11325"
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
@@ -706,7 +706,7 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-2325"
+        "N-11325"
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
@@ -726,7 +726,7 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-2325"
+        "N-11325"
       ],
       "tags": [],
       "claim_timestamp": "00:29:56",
@@ -745,7 +745,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2326"
+        "N-11326"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -761,7 +761,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2326"
+        "N-11326"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -777,7 +777,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2326"
+        "N-11326"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -796,7 +796,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2326"
+        "N-11326"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -813,7 +813,7 @@
         "A-2389.2"
       ],
       "related_nodes": [
-        "N-2324"
+        "N-11324"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
@@ -832,8 +832,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-2324",
-        "N-2327"
+        "N-11324",
+        "N-11327"
       ],
       "tags": [],
       "claim_timestamp": "00:43:44",
@@ -853,7 +853,7 @@
         "A-2390.1"
       ],
       "related_nodes": [
-        "N-2324"
+        "N-11324"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -872,7 +872,7 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-2324"
+        "N-11324"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -888,7 +888,7 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-2324"
+        "N-11324"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -904,8 +904,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-2324",
-        "N-2327"
+        "N-11324",
+        "N-11327"
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
@@ -921,7 +921,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-2324"
+        "N-11324"
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
@@ -938,7 +938,7 @@
       "claim": "UVU has a total of 50,000 students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2326"
+        "N-11326"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -952,7 +952,7 @@
       "claim": "UVU has 24 police officers available to cover its campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2326"
+        "N-11326"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -984,7 +984,7 @@
       "claim": "UVU's state-certified emergency medical services were present beside the vehicle with medical bags.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2328"
+        "N-11328"
       ],
       "tags": [],
       "claim_timestamp": "00:22:26",
@@ -1003,8 +1003,8 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-2329",
-        "N-2323"
+        "N-11329",
+        "N-11323"
       ],
       "tags": [],
       "claim_timestamp": "00:06:24",
@@ -1035,7 +1035,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2323"
+        "N-11323"
       ],
       "tags": [],
       "claim_timestamp": "00:24:37",
@@ -1051,7 +1051,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2323"
+        "N-11323"
       ],
       "tags": [],
       "claim_timestamp": "00:25:33",
@@ -1067,7 +1067,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-2323"
+        "N-11323"
       ],
       "tags": [],
       "claim_timestamp": "00:34:25",

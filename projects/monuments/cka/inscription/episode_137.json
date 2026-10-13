@@ -55,7 +55,7 @@
             "C-3220"
           ],
           "related_nodes": [
-            "N-2178"
+            "N-11178"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
             "C-3213"
           ],
           "related_nodes": [
-            "N-2176"
+            "N-11176"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-3214"
           ],
           "related_nodes": [
-            "N-2177"
+            "N-11177"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,8 +306,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2175",
-      "ref": "N-2175",
+      "@id": "N-11175",
+      "ref": "N-11175",
       "name": "UVU Campus Sept 9 Scoping Incident",
       "type": "investigation_target",
       "description": "Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's \"source from UVU\"), not artifact-documented.",
@@ -322,8 +322,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2176",
-      "ref": "N-2176",
+      "@id": "N-11176",
+      "ref": "N-11176",
       "name": "Screwdriver Narrative Evolution",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Sept 11 CNN framing (\"near the rifle\") and Kash Patel / Bongino clarification (\"on the rooftop\"). Both positions are artifact-anchored within this episode and prior context.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2177",
-      "ref": "N-2177",
+      "@id": "N-11177",
+      "ref": "N-11177",
       "name": "Officer Bagley Rooftop Video Review Question",
       "type": "investigation_target",
       "description": "Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.",
@@ -360,8 +360,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2178",
-      "ref": "N-2178",
+      "@id": "N-11178",
+      "ref": "N-11178",
       "name": "Black Nitrile Gloves / Door Compartment Evidence",
       "type": "investigation_target",
       "description": "Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.",
@@ -520,7 +520,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-2178"
+        "N-11178"
       ],
       "tags": [],
       "claim_timestamp": "00:07:24",
@@ -539,7 +539,7 @@
         "A-2238.1"
       ],
       "related_nodes": [
-        "N-2176"
+        "N-11176"
       ],
       "tags": [],
       "claim_timestamp": "00:17:01",
@@ -558,7 +558,7 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-2177"
+        "N-11177"
       ],
       "tags": [],
       "claim_timestamp": "00:19:22",
@@ -659,7 +659,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-2178"
+        "N-11178"
       ],
       "tags": [],
       "claim_timestamp": "00:08:14",

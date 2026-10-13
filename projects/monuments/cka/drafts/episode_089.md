@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1662, N-1663, N-1664, N-1665, N-1666, N-1667
+  - New Nodes Introduced: N-10662, N-10663, N-10664, N-10665, N-10666, N-10667
   - Hole-minted Nodes (wave3): N-674
   - Reused Nodes Appearing: N-5
   - (see registers)
@@ -38,7 +38,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2669, C-2670, C-2680, C-2681, N-3, N-1662*
+*Related: C-2669, C-2670, C-2680, C-2681, N-3, N-10662*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:25:38–00:26:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2672, N-1667*
+*Related: C-2672, N-10667*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:33:58–00:35:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2674, N-1665*
+*Related: C-2674, N-10665*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-2675, C-2676, N-1663, N-1664*
+*Related: C-2675, C-2676, N-10663, N-10664*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:41:36–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (commenter identities partially self-attested)
 
-*Related: C-2678, N-1666*
+*Related: C-2678, N-10666*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:19:06–00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (responses paraphrased and partially quoted on air)
 
-*Related: C-2678, C-2679, N-1662, N-1666*
+*Related: C-2678, C-2679, N-10662, N-10666*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:31:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-2677, N-1663*
+*Related: C-2677, N-10663*
 
 ---
 
@@ -163,7 +163,7 @@ First named by the host at 00:26:31 in episode 89.
 *Related: C-2672, C-2673*
 
 
-**N-1662** Trump Truth Social Post Pattern Question
+**N-10662** Trump Truth Social Post Pattern Question
 
 Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.
 
@@ -176,7 +176,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1663** Butler PA Investigation Closure Verification
+**N-10663** Butler PA Investigation Closure Verification
 
 Question about whether and why Trump moved to close the Butler investigation; relevant to A-1944.1 timeline and A-1947.1.
 
@@ -189,7 +189,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1664** Adelson–West Bank Annexation Meeting Verification
+**N-10664** Adelson–West Bank Annexation Meeting Verification
 
 Question about whether a meeting occurred in which Miriam Adelson conditioned $100M on West Bank annexation, and what Trump stated therein.
 
@@ -202,7 +202,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1665** Laura Loomer Influence on Trump Policy Question
+**N-10665** Laura Loomer Influence on Trump Policy Question
 
 Question about the operative influence Laura Loomer exerts over Trump's Truth Social posts and policy posture, per her own claim in A-1943.1.
 
@@ -215,7 +215,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1666** MAGA Base Sentiment Shift Question
+**N-10666** MAGA Base Sentiment Shift Question
 
 Question about measurable shift in core-MAGA supporter sentiment toward Trump, evidenced by responses in A-1945.1 and A-1946.1.
 
@@ -228,7 +228,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1667** Situation-Room Table Seating Verification
+**N-10667** Situation-Room Table Seating Verification
 
 Question about whether Trump was seated at the side of the situation-room table during the Netanyahu meeting, per A-1941.1.
 
@@ -251,7 +251,7 @@ Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Meg
 
 Anchored Artifacts: A-1939.1
 Mentions: N-3, N-50, N-75, N-128
-Related Nodes: N-1662
+Related Nodes: N-10662
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
 ---
@@ -289,7 +289,7 @@ Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stat
 
 Anchored Artifacts: A-1941.1
 Mentions: N-65, N-298, N-75, N-674
-Related Nodes: N-1667
+Related Nodes: N-10667
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
 ---
@@ -315,7 +315,7 @@ Claim: In an audio clip played on air, Laura Loomer stated that she sent Tucker 
 
 Anchored Artifacts: A-1943.1
 Mentions: N-50, N-91
-Related Nodes: N-1665
+Related Nodes: N-10665
 Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.
 
 ---
@@ -328,7 +328,7 @@ Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Ko
 
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-1, N-42
-Related Nodes: N-1664
+Related Nodes: N-10664
 Investigative Direction: Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
 ---
@@ -341,7 +341,7 @@ Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump st
 
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-1, N-5
-Related Nodes: N-1663, N-1664
+Related Nodes: N-10663, N-10664
 Investigative Direction: Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
 ---
@@ -354,7 +354,7 @@ Claim: Donald Trump Jr. stated on stage that he was not satisfied with the concl
 
 Anchored Artifacts: A-1947.1
 Mentions: N-62
-Related Nodes: N-1663
+Related Nodes: N-10663
 Investigative Direction: Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.
 
 ---
@@ -366,7 +366,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Truth Social and broader social-media responses read on air (A-1946.1), supplemented by viewer comments (A-1945.1), indicate a measurable volume of previously pro-Trump MAGA supporters publicly criticizing or repudiating him following A-1939.1.
 
 Anchored Artifacts: A-1945.1, A-1946.1
-Related Nodes: N-1666
+Related Nodes: N-10666
 Investigative Direction: Quantify sentiment shift using archived social-media datasets and date-range filters; separate organic supporter sentiment from bot/inauthenticator activity.
 
 ---
@@ -379,7 +379,7 @@ Claim: Candace Owens highlighted as the most "brutal" recurring response a claim
 
 Anchored Artifacts: A-1946.1
 Mentions: N-3, N-1
-Related Nodes: N-1662
+Related Nodes: N-10662
 Investigative Direction: Locate the originating posts and timestamps; assess spread velocity and authorship clustering.
 
 ---
@@ -391,7 +391,7 @@ Claim Timestamp: 00:11:20–00:12:28
 Claim: Trump's Truth Social post cited CNN polling data ("100% approval rating") while concurrently describing CNN as "fake news."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: N-1662
+Related Nodes: N-10662
 Investigative Direction: Verify exact wording in the archived post and identify the specific CNN poll Trump cited.
 
 ---

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1698, N-1699, N-1700, N-1701, N-1702, N-1703, N-1704, N-1705, N-1706, N-1707, N-1708, N-1709, N-1710, N-1711
+  - New Nodes Introduced: N-10698, N-10699, N-10700, N-10701, N-10702, N-10703, N-10704, N-10705, N-10706, N-10707, N-10708, N-10709, N-10710, N-10711
   - Hole-minted Nodes (wave3): N-680, N-681
   - Reused Nodes Appearing: 
   - (see registers)
@@ -41,7 +41,7 @@ Video Timestamp: 00:01:20–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio quality degraded; AI-cleaned)
 
-*Related: C-2764, C-2765, C-2766, N-1698*
+*Related: C-2764, C-2765, C-2766, N-10698*
 
 ---
 
@@ -54,7 +54,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28–00:17:22
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2767, C-2768, C-2769, N-1698, N-1699*
+*Related: C-2767, C-2768, C-2769, N-10698, N-10699*
 
 **A-1994.2** Audio of defense attorney Kathy Nester addressing the court re: phone and gun access
 
@@ -63,7 +63,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:20–00:15:13
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2770, C-2771, C-2772, N-1698, N-1699*
+*Related: C-2770, C-2771, C-2772, N-10698, N-10699*
 
 ---
 
@@ -76,7 +76,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:58–00:36:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2773, N-1699*
+*Related: C-2773, N-10699*
 
 **A-1995.2** Trump Truth Social follow-up post referring to Candace Owens as mentally ill
 
@@ -85,7 +85,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2774, N-1699*
+*Related: C-2774, N-10699*
 
 ---
 
@@ -98,7 +98,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:50–00:25:48
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2775, N-1700*
+*Related: C-2775, N-10700*
 
 ---
 
@@ -111,7 +111,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2776, N-1700*
+*Related: C-2776, N-10700*
 
 **A-1997.2** Daily Beast headline: "High school moves Erika Kirk event off campus after students revolt"
 
@@ -120,7 +120,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2777, N-1700*
+*Related: C-2777, N-10700*
 
 **A-1997.3** Arizona Republic headline: "A high school group invited Erika Kirk to campus. Parents are not happy."
 
@@ -129,7 +129,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2778, N-1700*
+*Related: C-2778, N-10700*
 
 ---
 
@@ -142,7 +142,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:44–00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2779, N-1704*
+*Related: C-2779, N-10704*
 
 ---
 
@@ -155,7 +155,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2780, N-1705*
+*Related: C-2780, N-10705*
 
 ---
 
@@ -168,7 +168,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2781, N-1703*
+*Related: C-2781, N-10703*
 
 **A-2000.2** Audio clip of Milo Yiannopoulos describing alleged sexual assault by Laura Loomer of a Brazilian volunteer on her 2020 congressional campaign
 
@@ -177,7 +177,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:53–00:46:52
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2782, N-1704*
+*Related: C-2782, N-10704*
 
 ---
 
@@ -190,7 +190,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:42
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2783, N-1704*
+*Related: C-2783, N-10704*
 
 ---
 
@@ -203,7 +203,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:26–00:49:11
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2784, N-1704, N-1706*
+*Related: C-2784, N-10704, N-10706*
 
 ---
 
@@ -216,7 +216,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:11–00:50:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2785, N-1706*
+*Related: C-2785, N-10706*
 
 ---
 
@@ -229,7 +229,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:42:43–00:44:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2786, N-1704*
+*Related: C-2786, N-10704*
 
 ---
 
@@ -269,7 +269,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:55:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1708*
+*Related: N-10708*
 
 **A-2005.5** Comment by user "Always Be True" questioning prosecution's lone-gunman theory and asking when location was disclosed
 
@@ -278,7 +278,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1708, N-1710*
+*Related: N-10708, N-10710*
 
 **A-2005.6** Comment by user "Ave Questions": "Trump can't is a nobody, but he continues to tweet..."
 
@@ -314,7 +314,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:00:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-569 (Victor Marx), N-1711*
+*Related: N-569 (Victor Marx), N-10711*
 
 **A-2005.10** Comment by user "Queen Saxi" raising Tyler Robinson's roommate as potential suspect
 
@@ -323,7 +323,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2788, N-1709*
+*Related: C-2788, N-10709*
 
 ---
 
@@ -337,7 +337,7 @@ Video Timestamp: 00:17:23–00:18:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low – Artifact verbally referenced but not shown
 
-*Related: C-2789, N-1701*
+*Related: C-2789, N-10701*
 
 ---
 
@@ -356,7 +356,7 @@ First named by the host at 00:41:44 in episode 94.
 *Related: C-2779*
 
 
-**N-1698** Defense Access to Tyler Robinson Phone Data
+**N-10698** Defense Access to Tyler Robinson Phone Data
 
 Persistent defense claim that they have not been able to access their client's phone or its contents.
 
@@ -369,7 +369,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1699** Defense Access to Firearm Evidence (Quantico)
+**N-10699** Defense Access to Firearm Evidence (Quantico)
 
 Defense has never physically examined the firearm; rifle reportedly held at FBI Quantico facility in a state case.
 
@@ -382,7 +382,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1700** Probable Cause Hearing Exhibit Count (35 Exhibits)
+**N-10700** Probable Cause Hearing Exhibit Count (35 Exhibits)
 
 Prosecution reportedly plans to present 35 exhibits at probable cause hearing.
 
@@ -395,7 +395,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1701** Erika Kirk Speedy Trial Motion (January 16)
+**N-10701** Erika Kirk Speedy Trial Motion (January 16)
 
 Host claims Erika Kirk filed victim's speedy trial motion in Utah on January 16; artifact referenced but not shown.
 
@@ -408,7 +408,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1702** Pinnacle High School Cancellation Reasons
+**N-10702** Pinnacle High School Cancellation Reasons
 
 Discrepancy between Turning Point's stated reason (death threats) and host's claim that cancellation was driven by boycott.
 
@@ -421,7 +421,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1703** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10703** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Allegations that Loomer was placed on involuntary psychiatric holds and is prohibited from owning weapons.
 
@@ -434,7 +434,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1704** Laura Loomer Sexual Assault Allegations
+**N-10704** Laura Loomer Sexual Assault Allegations
 
 Multiple men have publicly alleged Loomer assaulted them; includes Jacoby, an unnamed Brazilian volunteer (per Milo), and viral video of suggestive conduct.
 
@@ -447,7 +447,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1705** Laura Loomer Identity Claims (Jewish Heritage)
+**N-10705** Laura Loomer Identity Claims (Jewish Heritage)
 
 Host claim (and video artifact) disputing Loomer's publicly claimed Jewish identity.
 
@@ -460,7 +460,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1706** George Farmer / Tracy Robinson $6,987 Incident
+**N-10706** George Farmer / Tracy Robinson $6,987 Incident
 
 Disputed incident; Laura Loomer's tweet alleged drunk driving with firearm; insurance record shows $6,987 payment.
 
@@ -473,7 +473,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1707** Tyler Robinson's Grandfather's Position vs. Family Narrative
+**N-10707** Tyler Robinson's Grandfather's Position vs. Family Narrative
 
 Discrepancy between public "family turned him in" framing and grandfather's on-record support.
 
@@ -486,7 +486,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1708** Tyler Robinson Look-alike Theory
+**N-10708** Tyler Robinson Look-alike Theory
 
 Host speculation that multiple Tyler Robinson look-alikes were present; footages remain grainy.
 
@@ -499,7 +499,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1709** Tyler Robinson Roommate Question
+**N-10709** Tyler Robinson Roommate Question
 
 Open question raised by a viewer comment about Tyler Robinson's roommate's potential involvement.
 
@@ -512,7 +512,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1710** Lead-up Footage Absence
+**N-10710** Lead-up Footage Absence
 
 Host reference to alleged absence of CCTV footage from days leading up to September 10.
 
@@ -525,7 +525,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1711** Victor Marx Suspicious Background
+**N-10711** Victor Marx Suspicious Background
 
 Viewer-flagged concern about Victor Marx being first to leak Charlie Kirk's death; described as a "licensed gun dealer with a shady past."
 
@@ -549,7 +549,7 @@ Claim: The episode presents a recording in which Tyler Robinson's grandfather st
 Anchored Artifacts: A-1993.1
 Mentions: N-69
 
-Related Nodes: N-1707
+Related Nodes: N-10707
 
 Investigative Direction: Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions.
 
@@ -579,7 +579,7 @@ Claim: The grandfather asserts a .30-06 round would not have produced the wound 
 Anchored Artifacts: A-1993.1
 Mentions: N-69
 
-Related Nodes: N-1707
+Related Nodes: N-10707
 
 Investigative Direction: Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile.
 
@@ -594,7 +594,7 @@ Claim: Defense attorney Richard Novak states the defense has not received the da
 Anchored Artifacts: A-1994.1
 Mentions: N-680
 
-Related Nodes: N-1698, N-1699
+Related Nodes: N-10698, N-10699
 
 Investigative Direction: Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.
 
@@ -608,7 +608,7 @@ Claim: Novak states the defense has DNA reports from September 2025 that Mr. Gra
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1698
+Related Nodes: N-10698
 
 Investigative Direction: Request the September 2025 DNA reports via public records or docket inspection.
 
@@ -623,7 +623,7 @@ Claim: Defense attorney Kathy Nester states she has not been able to look at her
 Anchored Artifacts: A-1994.2
 Mentions: N-69
 
-Related Nodes: N-1698
+Related Nodes: N-10698
 
 Investigative Direction: Verify chain of custody and forensic examination status of Tyler Robinson's phone.
 
@@ -637,7 +637,7 @@ Claim: Defense attorney Kathy Nester states the defense has never physically see
 
 Anchored Artifacts: A-1994.2
 
-Related Nodes: N-1699
+Related Nodes: N-10699
 
 Investigative Direction: Confirm physical location of the firearm and whether defense examination has occurred as of case docket.
 
@@ -651,7 +651,7 @@ Claim: Nester states the firearm is held at Quantico, Virginia.
 
 Anchored Artifacts: A-1994.2
 
-Related Nodes: N-1699
+Related Nodes: N-10699
 
 Investigative Direction: Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.
 
@@ -665,7 +665,7 @@ Claim: The prosecution reportedly plans to present 35 exhibits at the probable c
 
 Anchored Artifacts: A-1994.1
 
-Related Nodes: N-1700
+Related Nodes: N-10700
 
 Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
@@ -710,7 +710,7 @@ Claim: Turning Point USA email cancellation stated the Pinnacle High School even
 Anchored Artifacts: A-1996.1
 Mentions: N-2
 
-Related Nodes: N-1702
+Related Nodes: N-10702
 
 Investigative Direction: Verify the email's authenticity; cross-reference with police or DHS records regarding threats.
 
@@ -725,7 +725,7 @@ Claim: Newsweek published an article reporting Erika Kirk's high school talk spa
 Anchored Artifacts: A-1997.1
 Mentions: N-2
 
-Related Nodes: N-1702
+Related Nodes: N-10702
 
 Investigative Direction: Retrieve full Newsweek article and inspect specific claims and named sources.
 
@@ -740,7 +740,7 @@ Claim: The Daily Beast reported the high school moved the Erika Kirk event off c
 Anchored Artifacts: A-1997.2
 Mentions: N-2
 
-Related Nodes: N-1702
+Related Nodes: N-10702
 
 Investigative Direction: Retrieve Daily Beast article; check named sources.
 
@@ -755,7 +755,7 @@ Claim: The Arizona Republic reported a high school group invited Erika Kirk to c
 Anchored Artifacts: A-1997.3
 Mentions: N-2
 
-Related Nodes: N-1702
+Related Nodes: N-10702
 
 Investigative Direction: Retrieve full Arizona Republic article.
 
@@ -770,7 +770,7 @@ Claim: Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while 
 Anchored Artifacts: A-1998.1
 Mentions: N-91, N-681
 
-Related Nodes: N-1704
+Related Nodes: N-10704
 
 Investigative Direction: Verify Jacoby's tweet directly; check for any legal filings or counter-statements.
 
@@ -785,7 +785,7 @@ Claim: A video clip shows Laura Loomer learning to draw a Star of David, present
 Anchored Artifacts: A-1999.1
 Mentions: N-91
 
-Related Nodes: N-1705
+Related Nodes: N-10705
 
 Investigative Direction: Verify date and source of the video; consider whether the inference (not raised Jewish) is supportable by the artifact alone.
 
@@ -800,7 +800,7 @@ Claim: Milo Yiannopoulos published a written piece stating Laura Loomer has been
 Anchored Artifacts: A-2000.1
 Mentions: N-334, N-91
 
-Related Nodes: N-1703
+Related Nodes: N-10703
 
 Investigative Direction: Locate original Yiannopoulos publication; assess sourcing for clinical claims.
 
@@ -815,7 +815,7 @@ Claim: Milo Yiannopoulos alleged Laura Loomer sexually assaulted a young Brazili
 Anchored Artifacts: A-2000.2
 Mentions: N-334, N-91
 
-Related Nodes: N-1704
+Related Nodes: N-10704
 
 Investigative Direction: Locate corroborating messages cited by Milo; verify volunteer's identity and willingness to be a source.
 
@@ -830,7 +830,7 @@ Claim: Laura Loomer publicly tweeted at Benny Johnson advocating breaking down e
 Anchored Artifacts: A-2001.1
 Mentions: N-124, N-91
 
-Related Nodes: N-1704
+Related Nodes: N-10704
 
 Investigative Direction: Verify tweet on X / archive.
 
@@ -845,7 +845,7 @@ Claim: Laura Loomer tweeted alleging George Farmer (Candace Owens' husband) hit 
 Anchored Artifacts: A-2002.1
 Mentions: N-3, N-91
 
-Related Nodes: N-1706
+Related Nodes: N-10706
 
 Investigative Direction: Verify tweet and any linked court filings; check Davidson County court records.
 
@@ -859,7 +859,7 @@ Claim: A court or insurance record displayed on air shows a $6,987 payment to Tr
 
 Anchored Artifacts: A-2003.1
 
-Related Nodes: N-1706
+Related Nodes: N-10706
 
 Investigative Direction: Pull the underlying court filing in Davidson County, Tennessee.
 
@@ -874,7 +874,7 @@ Claim: A video clip shows Laura Loomer making physically suggestive comments and
 Anchored Artifacts: A-2004.1
 Mentions: N-91
 
-Related Nodes: N-1704
+Related Nodes: N-10704
 
 Investigative Direction: Verify source and date of video; identify the individual.
 
@@ -904,7 +904,7 @@ Claim: A YouTube commenter (Queen Saxi) raises the question of whether Tyler Rob
 Anchored Artifacts: A-2005.10
 Mentions: N-69
 
-Related Nodes: N-1709
+Related Nodes: N-10709
 
 Investigative Direction: Identify Tyler Robinson's roommate from public records; check his status and any investigative attention.
 
@@ -919,7 +919,7 @@ Claim: The host states that on January 16, Erika Kirk filed an invocation of spe
 Anchored Artifacts: A-2006.1 (verbally referenced; not shown)
 Mentions: N-2
 
-Related Nodes: N-1701
+Related Nodes: N-10701
 
 Investigative Direction: Retrieve the Utah state court filing directly via docket search.
 

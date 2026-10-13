@@ -30,7 +30,7 @@
             "C-3617"
           ],
           "related_nodes": [
-            "N-2366",
+            "N-11366",
             "N-3",
             "N-411"
           ],
@@ -58,7 +58,7 @@
             "C-3621"
           ],
           "related_nodes": [
-            "N-2367",
+            "N-11367",
             "N-294",
             "N-303"
           ],
@@ -86,8 +86,8 @@
             "C-3623"
           ],
           "related_nodes": [
-            "N-2365",
-            "N-2329",
+            "N-11365",
+            "N-11329",
             "N-1",
             "N-30",
             "N-36"
@@ -107,7 +107,7 @@
             "C-3624"
           ],
           "related_nodes": [
-            "N-2365",
+            "N-11365",
             "N-1"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
             "N-435",
             "N-434",
             "N-342",
-            "N-2329"
+            "N-11329"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -163,11 +163,11 @@
             "C-3627"
           ],
           "related_nodes": [
-            "N-2368",
+            "N-11368",
             "N-230",
             "N-244",
             "N-35",
-            "N-1395"
+            "N-10395"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -192,7 +192,7 @@
             "C-3628"
           ],
           "related_nodes": [
-            "N-2369",
+            "N-11369",
             "N-250",
             "N-279"
           ],
@@ -219,7 +219,7 @@
             "C-3629"
           ],
           "related_nodes": [
-            "N-2370",
+            "N-11370",
             "N-552",
             "N-3"
           ],
@@ -279,7 +279,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ]
     },
     {
@@ -299,7 +299,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2367"
+        "N-11367"
       ]
     },
     {
@@ -322,7 +322,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2366"
+        "N-11366"
       ]
     },
     {
@@ -342,7 +342,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1395",
+        "N-10395",
         "N-230"
       ]
     },
@@ -366,8 +366,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2085",
-        "N-2136"
+        "N-11085",
+        "N-11136"
       ]
     },
     {
@@ -388,8 +388,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1395",
-        "N-2368"
+        "N-10395",
+        "N-11368"
       ]
     },
     {
@@ -474,7 +474,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1395"
+        "N-10395"
       ]
     },
     {
@@ -531,8 +531,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2097",
-        "N-2136"
+        "N-11097",
+        "N-11136"
       ]
     },
     {
@@ -573,7 +573,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2329"
+        "N-11329"
       ]
     },
     {
@@ -595,7 +595,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2370"
+        "N-11370"
       ]
     },
     {
@@ -666,13 +666,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-2363"
+        "N-11363"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1395",
-      "ref": "N-1395",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Reused topic for Lutnick/Andre death and Bondi catastrophe framing.",
@@ -687,13 +687,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2368"
+        "N-11368"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1632",
-      "ref": "N-1632",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Nick Shirley Background Verification",
       "type": "investigation_target",
       "description": "Prior Shirley topic; this episode revisits Shirley as last Charlie Kirk Show guest and failed daycare distraction.",
@@ -708,13 +708,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-318",
-        "N-2064"
+        "N-11064"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2064",
-      "ref": "N-2064",
+      "@id": "N-11064",
+      "ref": "N-11064",
       "name": "Nick Shirley Background and Backing Verification",
       "type": "investigation_target",
       "description": "Companion Shirley investigation target reused with C-3620.",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2085",
-      "ref": "N-2085",
+      "@id": "N-11085",
+      "ref": "N-11085",
       "name": "Frank Turek CPR Claim Verification",
       "type": "investigation_target",
       "description": "Prior CPR-claim topic; host restates Turek's back-seat CPR story against Harpole and the unnamed captain.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2097",
-      "ref": "N-2097",
+      "@id": "N-11097",
+      "ref": "N-11097",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Prior contradiction topic continued by fire-captain omission.",
@@ -774,8 +774,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2136",
-      "ref": "N-2136",
+      "@id": "N-11136",
+      "ref": "N-11136",
       "name": "CPR Narrative Contradiction (Turek / Harpole)",
       "type": "investigation_target",
       "description": "Broader CPR-contradiction topic; fire-captain redaction is the new pressure point.",
@@ -789,13 +789,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2329",
-      "ref": "N-2329",
+      "@id": "N-11329",
+      "ref": "N-11329",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Central document for unnamed Station 2 fire captain and for Turek's continued roofs claim after release.",
@@ -812,13 +812,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2350",
-      "ref": "N-2350",
+      "@id": "N-11350",
+      "ref": "N-11350",
       "name": "TPUSA Non-Participation in UVU Independent Review",
       "type": "investigation_target",
       "description": "Background for host's point that the review still named TPUSA figures who did not want to participate.",
@@ -838,8 +838,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2358",
-      "ref": "N-2358",
+      "@id": "N-11358",
+      "ref": "N-11358",
       "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
       "type": "investigation_target",
       "description": "Prior smear-package topic; Candyland nanny rumor is the next flip the host satirizes.",
@@ -853,13 +853,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2366"
+        "N-11366"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2363",
-      "ref": "N-2363",
+      "@id": "N-11363",
+      "ref": "N-11363",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
       "type": "investigation_target",
       "description": "Reused in comments; host teases further dots next episode.",
@@ -876,8 +876,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2365",
-      "ref": "N-2365",
+      "@id": "N-11365",
+      "ref": "N-11365",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
       "type": "investigation_target",
       "description": "New topic: Station 2 fire captain who (per review) gave CPR at Timpanogos is unnamed; host seeks identity via tips and plays corroborating dispatch audio.",
@@ -896,14 +896,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2329",
+        "N-11329",
         "N-1"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2366",
-      "ref": "N-2366",
+      "@id": "N-11366",
+      "ref": "N-11366",
       "name": "Candyland Illegal-Nanny Mansion NDA Smear",
       "type": "investigation_target",
       "description": "New topic: Lisa Nose / Jessica Reed Kraus rumor that Candace warehouses illegal nannies under NDA in a second mansion; host brands the fantasy series Candyland.",
@@ -921,13 +921,13 @@
       "related_nodes": [
         "N-3",
         "N-411",
-        "N-2358"
+        "N-11358"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2367",
-      "ref": "N-2367",
+      "@id": "N-11367",
+      "ref": "N-11367",
       "name": "Killer-Mom Filicide Narrative as Internet-Regulation SCOP",
       "type": "investigation_target",
       "description": "New topic: Clancy-seeded, Mace/NY Post/Libs-amplified filicide panic that host says lacks statistical basis and aims to regulate women online after Charlie-case bots failed.",
@@ -951,8 +951,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2368",
-      "ref": "N-2368",
+      "@id": "N-11368",
+      "ref": "N-11368",
       "name": "Howard Lutnick / Simon Andre Epstein Whistleblower Death",
       "type": "investigation_target",
       "description": "New topic: Andre's reported death after alleging Lutnick-Epstein business ties and island visits; host flags suicide narrative as suspicious.",
@@ -972,13 +972,13 @@
         "N-230",
         "N-244",
         "N-35",
-        "N-1395"
+        "N-10395"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2369",
-      "ref": "N-2369",
+      "@id": "N-11369",
+      "ref": "N-11369",
       "name": "Zach Bryan Free Palestine Gillette Stadium Record",
       "type": "investigation_target",
       "description": "New topic: Bryan's Free Palestine shirt nights and claimed attendance-record break after Kraft canceled Macklemore at Gillette.",
@@ -1000,8 +1000,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2370",
-      "ref": "N-2370",
+      "@id": "N-11370",
+      "ref": "N-11370",
       "name": "Baron Coleman Pre-Host Character Attack Campaign",
       "type": "investigation_target",
       "description": "New topic: coordinated old-interview digs and trending criticism after Candace announced Coleman would guest-host.",
@@ -1041,7 +1041,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2368",
+        "N-11368",
         "N-35"
       ]
     },
@@ -1065,7 +1065,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2368",
+        "N-11368",
         "N-230"
       ]
     },
@@ -1088,7 +1088,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2369"
+        "N-11369"
       ]
     },
     {
@@ -1110,7 +1110,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2369"
+        "N-11369"
       ]
     },
     {
@@ -1133,7 +1133,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2367"
+        "N-11367"
       ]
     },
     {
@@ -1156,7 +1156,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2367"
+        "N-11367"
       ]
     },
     {
@@ -1165,7 +1165,7 @@
       "ref": "N-318",
       "name": "Nick Shirley",
       "type": "person",
-      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-1632 / N-2064.",
+      "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10632 / N-11064.",
       "related_artifacts": [],
       "related_claims": [
         "C-3620"
@@ -1176,8 +1176,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1632",
-        "N-2064",
+        "N-10632",
+        "N-11064",
         "N-42"
       ]
     },
@@ -1256,7 +1256,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2366"
+        "N-11366"
       ]
     }
   ],
@@ -1271,8 +1271,8 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-2366",
-        "N-2358"
+        "N-11366",
+        "N-11358"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
@@ -1292,7 +1292,7 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-2367"
+        "N-11367"
       ],
       "tags": [],
       "claim_timestamp": "00:09:26",
@@ -1333,8 +1333,8 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-1632",
-        "N-2064"
+        "N-10632",
+        "N-11064"
       ],
       "tags": [],
       "claim_timestamp": "00:08:23",
@@ -1355,7 +1355,7 @@
         "A-2475.1"
       ],
       "related_nodes": [
-        "N-2367"
+        "N-11367"
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
@@ -1375,9 +1375,9 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-2365",
-        "N-2329",
-        "N-2350"
+        "N-11365",
+        "N-11329",
+        "N-11350"
       ],
       "tags": [],
       "claim_timestamp": "00:25:48",
@@ -1398,10 +1398,10 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-2365",
-        "N-2085",
-        "N-2097",
-        "N-2136"
+        "N-11365",
+        "N-11085",
+        "N-11097",
+        "N-11136"
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
@@ -1423,7 +1423,7 @@
         "A-2476.2"
       ],
       "related_nodes": [
-        "N-2365"
+        "N-11365"
       ],
       "tags": [],
       "claim_timestamp": "00:27:16",
@@ -1442,7 +1442,7 @@
         "A-2477.1"
       ],
       "related_nodes": [
-        "N-2329"
+        "N-11329"
       ],
       "tags": [],
       "claim_timestamp": "00:35:11",
@@ -1464,8 +1464,8 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-1395",
-        "N-2368"
+        "N-10395",
+        "N-11368"
       ],
       "tags": [],
       "claim_timestamp": "00:40:26",
@@ -1488,8 +1488,8 @@
         "A-2478.1"
       ],
       "related_nodes": [
-        "N-2368",
-        "N-1395"
+        "N-11368",
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:41:13",
@@ -1510,7 +1510,7 @@
         "A-2479.1"
       ],
       "related_nodes": [
-        "N-2369"
+        "N-11369"
       ],
       "tags": [],
       "claim_timestamp": "00:45:05",
@@ -1530,7 +1530,7 @@
         "A-2480.1"
       ],
       "related_nodes": [
-        "N-2370"
+        "N-11370"
       ],
       "tags": [],
       "claim_timestamp": "00:47:22",

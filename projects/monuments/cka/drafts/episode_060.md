@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-764, N-765, N-766, N-767, N-1501, N-1502
+  - New Nodes Introduced:  N-764, N-765, N-766, N-767, N-10501, N-10502
   - Reused Nodes Appearing: 
   - (see registers), N-37
 
@@ -96,7 +96,7 @@ Video Timestamp: 01:08:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2154, N-2, N-1501*
+*Related: C-2154, N-2, N-10501*
 
 ---
 
@@ -231,11 +231,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2154, N-1501*
+*Related: C-2154, N-10501*
 
 ---
 
-**N-1501** Plane Records Timing Discrepancy
+**N-10501** Plane Records Timing Discrepancy
 
 Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac).
 
@@ -248,7 +248,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1502** Aspen Donor Retreat "What Happens When You Die" Question
+**N-10502** Aspen Donor Retreat "What Happens When You Die" Question
 
 Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange.
 
@@ -351,7 +351,7 @@ Claim: Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 
 Anchored Artifacts: A-1657.1
 Mentions: N-2, N-37, N-326, N-42
 
-Related Nodes: N-1501
+Related Nodes: N-10501
 
 Investigative Direction: Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.
 

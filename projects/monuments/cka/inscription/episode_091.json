@@ -45,10 +45,10 @@
             "C-2721"
           ],
           "related_nodes": [
-            "N-1675",
-            "N-1676",
-            "N-1677",
-            "N-1678"
+            "N-10675",
+            "N-10676",
+            "N-10677",
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -73,7 +73,7 @@
             "C-2714"
           ],
           "related_nodes": [
-            "N-1680"
+            "N-10680"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -90,7 +90,7 @@
             "C-2715"
           ],
           "related_nodes": [
-            "N-1680"
+            "N-10680"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
             "C-2716"
           ],
           "related_nodes": [
-            "N-1677"
+            "N-10677"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
             "C-2717"
           ],
           "related_nodes": [
-            "N-1681"
+            "N-10681"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-2718"
           ],
           "related_nodes": [
-            "N-1679"
+            "N-10679"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -191,8 +191,8 @@
             "C-2721"
           ],
           "related_nodes": [
-            "N-1674",
-            "N-1678"
+            "N-10674",
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
             "C-2720"
           ],
           "related_nodes": [
-            "N-1679"
+            "N-10679"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,8 +243,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1674",
-      "ref": "N-1674",
+      "@id": "N-10674",
+      "ref": "N-10674",
       "name": "ATF Trace on Fold AR SN 02735 (September 10, 2025)",
       "type": "investigation_target",
       "description": "Persistent question regarding the timing, target crime, and follow-up (or absence thereof) of the ATF trace initiated on the morning of Charlie Kirk's assassination.",
@@ -261,13 +261,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1678"
+        "N-10678"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1675",
-      "ref": "N-1675",
+      "@id": "N-10675",
+      "ref": "N-10675",
       "name": "Victor Marx 51% Fold AR Acquisition Attempt",
       "type": "investigation_target",
       "description": "Persistent question regarding Victor Marx's stated intent to purchase a controlling stake in Fold AR and the responses received; includes valuation ($2M) and Daniel Horner / Sig Sauer intermediary claims.",
@@ -287,8 +287,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1676",
-      "ref": "N-1676",
+      "@id": "N-10676",
+      "ref": "N-10676",
       "name": "Victor Marx IDF 50,000 Guns Request",
       "type": "investigation_target",
       "description": "Persistent question regarding Victor Marx's alleged statement that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria, and any subsequent broker or transfer activity.",
@@ -307,8 +307,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1677",
-      "ref": "N-1677",
+      "@id": "N-10677",
+      "ref": "N-10677",
       "name": "Victor Marx Haiti Mission and Arms Request",
       "type": "investigation_target",
       "description": "Persistent question regarding the 50-rifle request, long-range rifle provision, and stated intent to capture/execute Jimmy Barbecue; reconciliation with CBN News reporting.",
@@ -330,8 +330,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1678",
-      "ref": "N-1678",
+      "@id": "N-10678",
+      "ref": "N-10678",
       "name": "Fold AR SN 02735 Disappearance and Recovery Question",
       "type": "investigation_target",
       "description": "Persistent question regarding the gun's theft from a Texas deputy's vehicle, the deputy's claim of reporting to Midland PD, lack of follow-up, and any connection to the September 10, 2025 ATF trace.",
@@ -350,13 +350,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1674"
+        "N-10674"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1679",
-      "ref": "N-1679",
+      "@id": "N-10679",
+      "ref": "N-10679",
       "name": "Victor Marx Background Verification",
       "type": "investigation_target",
       "description": "Persistent question regarding Victor Marx's biographical claims, military service (length, location, discharge status), family history, and inconsistencies identified by independent researchers.",
@@ -378,8 +378,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1680",
-      "ref": "N-1680",
+      "@id": "N-10680",
+      "ref": "N-10680",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
       "type": "investigation_target",
       "description": "Persistent question regarding the nature, depth, and timing of Erika Kirk's relationship with Victor Marx – including the proximity and recording of the post-assassination contact window.",
@@ -399,8 +399,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1681",
-      "ref": "N-1681",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Trump Iran Arms Admission Context",
       "type": "investigation_target",
       "description": "Persistent question regarding Trump's public admission of US arms shipments to Iranian protesters and the underlying operational chain and intermediaries.",
@@ -511,7 +511,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1675"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -588,7 +588,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1677"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:25:43",
@@ -605,7 +605,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1677"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:26:32",
@@ -622,7 +622,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1677"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:27:14",
@@ -641,7 +641,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1675"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -660,7 +660,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1675"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -677,7 +677,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1676"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
@@ -724,7 +724,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1678"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
@@ -741,7 +741,7 @@
         "A-1958.1"
       ],
       "related_nodes": [
-        "N-1678"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:36:44",
@@ -758,8 +758,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-1674",
-        "N-1678"
+        "N-10674",
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:37:42",
@@ -776,7 +776,7 @@
         "A-1959.1"
       ],
       "related_nodes": [
-        "N-1680"
+        "N-10680"
       ],
       "tags": [],
       "claim_timestamp": "00:09:06",
@@ -796,7 +796,7 @@
         "A-1959.2"
       ],
       "related_nodes": [
-        "N-1680"
+        "N-10680"
       ],
       "tags": [],
       "claim_timestamp": "00:10:03",
@@ -816,7 +816,7 @@
         "A-1960.1"
       ],
       "related_nodes": [
-        "N-1677"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:28:28",
@@ -835,7 +835,7 @@
         "A-1961.1"
       ],
       "related_nodes": [
-        "N-1681"
+        "N-10681"
       ],
       "tags": [],
       "claim_timestamp": "00:43:08",
@@ -854,7 +854,7 @@
         "A-1962.1"
       ],
       "related_nodes": [
-        "N-1679"
+        "N-10679"
       ],
       "tags": [],
       "claim_timestamp": "00:13:04",
@@ -871,7 +871,7 @@
         "A-1964.1"
       ],
       "related_nodes": [
-        "N-1679"
+        "N-10679"
       ],
       "tags": [],
       "claim_timestamp": "00:56:23",
@@ -888,7 +888,7 @@
         "A-1964.1"
       ],
       "related_nodes": [
-        "N-1679"
+        "N-10679"
       ],
       "tags": [],
       "claim_timestamp": "00:56:23",
@@ -906,8 +906,8 @@
         "A-1963.1"
       ],
       "related_nodes": [
-        "N-1674",
-        "N-1678"
+        "N-10674",
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",

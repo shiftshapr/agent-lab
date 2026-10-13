@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 3f46a97cc2d74db2f5e0aded169f75f261d47410176adc1a91e509540ffe7f2f
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-1639, N-1640, N-1641
+ - New Nodes Introduced: N-10639, N-10640, N-10641
  - Hole-minted Nodes (wave3): N-652, N-663, N-664
  - Reused Nodes Appearing: N-1, N-2, N-437
  - (see registers)
@@ -48,7 +48,7 @@ Confidence: high
  - Artifact Families Introduced: A-1903, A-1904, A-1905, A-1906, A-1907, A-1908, A-1909, A-1910, A-1911
  - Claim Range: C-2581–C-2608
  - New People Nodes Introduced: none (Wave 2: local ids removed)
- - New Investigation Target Nodes Introduced: N-1639, N-1640, N-1641
+ - New Investigation Target Nodes Introduced: N-10639, N-10640, N-10641
  - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
@@ -75,7 +75,7 @@ Video Timestamp: 00:05:42–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588, N-1641*
+*Related: C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588, N-10641*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:14:38–00:15:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2594, N-3, N-1640*
+*Related: C-2594, N-3, N-10640*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:40:25–00:41:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2595, C-2596, C-2597, N-1, N-2, N-70, N-1639*
+*Related: C-2595, C-2596, C-2597, N-1, N-2, N-70, N-10639*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:35:31–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2598, C-2599, C-2600, N-1639*
+*Related: C-2598, C-2599, C-2600, N-10639*
 
 **A-1908.2** Sheriff Brooksby's second press conference clip describing how Tyler Robinson and his parents were driven to the Sheriff's office
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:41:56–00:42:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2601, C-2602, N-1639*
+*Related: C-2601, C-2602, N-10639*
 
 ---
 
@@ -248,7 +248,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1639** Tyler Robinson Confession Narrative Discrepancy
+**N-10639** Tyler Robinson Confession Narrative Discrepancy
 
 Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson "confessed or implied" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.
 
@@ -261,7 +261,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1640** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation
+**N-10640** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation
 
 Persistent unresolved target referenced via the host's November 2025 tweet (A-1906.1) and tied by the host to the broader French Masonic lodge case (A-1903.1). Direct evidence linking DGSE to the Charlie Kirk assassination is not presented in this episode.
 
@@ -274,7 +274,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1641** Athanor Lodge / French Freemason Murder Trial
+**N-10641** Athanor Lodge / French Freemason Murder Trial
 
 Discrete investigative event introduced in this episode via A-1903.1, in which 22 defendants including DGSE officers face charges for running a hit-squad network inside the Athanor Masonic lodge. Treated by the host as context for Charlie Kirk case theory.
 
@@ -296,7 +296,7 @@ Claim Timestamp: 00:05:42
 Claim: A Guardian article reports that 22 people are on trial in France on charges of murder and other serious crimes centered on a Masonic lodge (the Athanor lodge) in the Paris suburb of Puteaux.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify via the original Guardian article and French court records.
 
 ---
@@ -308,7 +308,7 @@ Claim Timestamp: 00:06:50
 Claim: Prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify prosecutor filings in the French trial.
 
 ---
@@ -320,7 +320,7 @@ Claim Timestamp: 00:06:50
 Claim: Four officers from France's DGSE foreign intelligence service are among the 22 defendants.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Cross-reference with French court documents.
 
 ---
@@ -332,7 +332,7 @@ Claim Timestamp: 00:08:40
 Claim: The case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify date and circumstances of arrest via French press archives.
 
 ---
@@ -344,7 +344,7 @@ Claim Timestamp: 00:09:40
 Claim: The hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify investigator statements in court filings.
 
 ---
@@ -356,7 +356,7 @@ Claim Timestamp: 00:09:40
 Claim: The hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify whether this allegation appears in formal charges or witness statements.
 
 ---
@@ -369,7 +369,7 @@ Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, 
 
 Anchored Artifacts: A-1903.1
 Mentions: N-664, N-663, N-652
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify role assignments via French court documents.
 
 ---
@@ -382,7 +382,7 @@ Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in 
 
 Anchored Artifacts: A-1903.1
 Mentions: N-664, N-663, N-652
-Related Nodes: N-1641
+Related Nodes: N-10641
 Investigative Direction: Verify incident via French press reporting or court records.
 
 ---
@@ -456,7 +456,7 @@ Claim: In a November 2025 tweet, Candace Owens stated she had a source inside th
 
 Anchored Artifacts: A-1906.1
 Mentions: N-3, N-1
-Related Nodes: N-1640
+Related Nodes: N-10640
 Investigative Direction: Locate the original tweet and any subsequent corroboration or denial.
 
 ---
@@ -469,7 +469,7 @@ Claim: Governor Cox stated that on the evening of September 11th, a family membe
 
 Anchored Artifacts: A-1907.1
 Mentions: N-70, N-69
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
@@ -482,7 +482,7 @@ Claim: Governor Cox stated the family friend contacted the Washington County She
 
 Anchored Artifacts: A-1907.1
 Mentions: N-70
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
@@ -495,7 +495,7 @@ Claim: Governor Cox stated that Robinson had "confessed to them or implied that 
 
 Anchored Artifacts: A-1907.1
 Mentions: N-70
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim.
 
 ---
@@ -507,7 +507,7 @@ Claim Timestamp: 00:35:31
 Claim: Sheriff Brooksby stated that at 8:02 PM on September 11th he received a call from a friend who was a retired detective; court documents refer to this individual as a "retired Washington County deputy."
 
 Anchored Artifacts: A-1908.1
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Identify the individual via court filings.
 
 ---
@@ -520,7 +520,7 @@ Claim: Sheriff Brooksby stated he was told that Tyler Robinson had potential sui
 
 Anchored Artifacts: A-1908.1
 Mentions: N-69
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Verify against other sources.
 
 ---
@@ -532,7 +532,7 @@ Claim Timestamp: 00:36:15
 Claim: Sheriff Brooksby stated Robinson's parents convinced him not to go to the remote area and conveyed they would help him surrender peacefully.
 
 Anchored Artifacts: A-1908.1
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Cross-reference with subsequent reporting.
 
 ---
@@ -545,7 +545,7 @@ Claim: Sheriff Brooksby stated that within the hour, his friend drove Tyler Robi
 
 Anchored Artifacts: A-1908.2
 Mentions: N-69
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Verify against court records and other accounts.
 
 ---
@@ -558,7 +558,7 @@ Claim: Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on 
 
 Anchored Artifacts: A-1908.2
 Mentions: N-69
-Related Nodes: N-1639
+Related Nodes: N-10639
 Investigative Direction: Compare with Cox's framing of an outright confession (C-2597).
 
 ---
@@ -644,7 +644,7 @@ Investigative Direction: Capture archived versions of the website and social pag
 - C-2597 (Governor Cox, A-1907.1): Robinson had "confessed to them or implied that he had committed the incident."
 - C-2602 (Sheriff Brooksby, A-1908.2): Robinson was "fearful of a SWAT team hit on his house" and "fearful of being shot by law enforcement"; the negotiation involved bringing him in "as delicate and as soft as possible."
 
-These two artifact-anchored accounts cannot comfortably coexist. Cox's framing presents Robinson as making a confession/implication of guilt to family or friends; Brooksby's framing presents Robinson as someone who denied wrongdoing and was induced to surrender through pressure and fear of force, with no mention of any confession or admission of guilt. This contradiction is registered under N-1639 (Tyler Robinson Confession Narrative Discrepancy).
+These two artifact-anchored accounts cannot comfortably coexist. Cox's framing presents Robinson as making a confession/implication of guilt to family or friends; Brooksby's framing presents Robinson as someone who denied wrongdoing and was induced to surrender through pressure and fear of force, with no mention of any confession or admission of guilt. This contradiction is registered under N-10639 (Tyler Robinson Confession Narrative Discrepancy).
 
 ---
 

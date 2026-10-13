@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-269, N-272, N-273, N-277, N-278, N-281, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
+  - New Nodes Introduced:  N-269, N-272, N-273, N-277, N-278, N-281, N-283, N-284, N-285, N-10262, N-10263, N-10264, N-10265
   - Reused Nodes Appearing: none
   - Hole-minted Nodes (remap-ep20): N-182
 
@@ -247,7 +247,7 @@ Confidence Level: Medium (read on air; underlying document not displayed in full
 
 Contents (read on air): "Hi all. There was a media event that took place today that led to a trauma patient. Due to the nature of the situation, the only individuals who will be allowed in the chart will be Deborah and myself. No one else is allowed to hover or open the chart. Jacob blank. Deb and I will be doing the log tomorrow. Thanks."
 
-*Related: C-1503, C-1504, N-1262*
+*Related: C-1503, C-1504, N-10262*
 
 ---
 
@@ -263,7 +263,7 @@ Confidence Level: Medium
 
 Contents (played on air): Webb states Rob McCoy "does have this strange military background," identifies him as a NAR figure, and links the McCoy orbit to the $25 million-and-above NAR donor network and the Ziklag organization.
 
-*Related: C-1505, C-1506, N-45, N-1264*
+*Related: C-1505, C-1506, N-45, N-10264*
 
 ---
 
@@ -311,7 +311,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turk, Andrew Kovett, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kovvet, Captain Robert Kovvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-42, N-272, N-16, N-45, N-70, N-1264, N-37*
+*Related: C-1505, C-1506, N-42, N-272, N-16, N-45, N-70, N-10264, N-37*
 
 ---
 
@@ -378,7 +378,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-42, N-16, N-45, N-1263*
+*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-42, N-16, N-45, N-10263*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-1264*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-10264*
 
 ---
 
@@ -538,7 +538,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1262** UVU Hospital Charlie Kirk Medical File Access Question
+**N-10262** UVU Hospital Charlie Kirk Medical File Access Question
 
 Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.
 
@@ -551,7 +551,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1263** TPUSA Military-Personnel Network
+**N-10263** TPUSA Military-Personnel Network
 
 Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as "military simulation" hypothesis). Supported by A-1279.1, A-1282.1.
 
@@ -564,7 +564,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1264** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10264** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.
 
@@ -577,7 +577,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1265** Susie Wiles Eulogy-Selection Question
+**N-10265** Susie Wiles Eulogy-Selection Question
 
 Host's flagged curiosity regarding the selection of Susie Wiles (spelled "Susie Wiles" in one place) as a Kirk eulogist; no artifact-anchored explanation given.
 
@@ -787,7 +787,7 @@ Claim: Host displays a UVU Hospital internal message dated September 10, 2025 (r
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1, N-284
-Related Nodes: N-1262
+Related Nodes: N-10262
 
 Investigative Direction: Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.
 
@@ -801,7 +801,7 @@ Claim: Host asserts that tipsters from UVU medical staff have confirmed that Cha
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1
-Related Nodes: N-1262
+Related Nodes: N-10262
 
 Investigative Direction: Obtain independent verification from UVU medical staff or institutional records; reconcile with the contemporaneous routing to Timpanogos Regional Hospital.
 
@@ -815,7 +815,7 @@ Claim: George Webb states on air that Rob McCoy has a "strange military backgrou
 
 Anchored Artifacts: A-1279.1, A-1282.1
 Mentions: N-45, N-283, N-285
-Related Nodes: N-1263
+Related Nodes: N-10263
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
 
@@ -829,7 +829,7 @@ Claim: George Webb states on air that Rob McCoy was connected to the New Apostol
 
 Anchored Artifacts: A-1279.1
 Mentions: N-45, N-285
-Related Nodes: N-1263
+Related Nodes: N-10263
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
 

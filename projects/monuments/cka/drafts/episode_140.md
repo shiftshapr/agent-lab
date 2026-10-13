@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2190, N-2191, N-2192
+  - New Nodes Introduced: N-11190, N-11191, N-11192
   - Reused Nodes Appearing: N-2, N-46
   - Hole-minted Nodes (wave3): N-929
   - (see registers)
@@ -36,7 +36,7 @@
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: none (Wave 2: local ids removed)
   - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
-  - New Investigation Target Nodes: N-2190, N-2191, N-2192
+  - New Investigation Target Nodes: N-11190, N-11191, N-11192
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, C-3261, C-3262, N-2, Tyler Robinson node, N-2190*
+*Related: C-3260, C-3261, C-3262, N-2, Tyler Robinson node, N-11190*
 
 **A-2267.2** Still showing subject taking phone from left pocket and inserting earpiece in left ear
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:10:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, Tyler Robinson node, N-2192*
+*Related: C-3260, Tyler Robinson node, N-11192*
 
 **A-2267.3** Still showing subject's lower legs and what host identifies as high white socks / sports leggings
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:11:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3261, N-2190*
+*Related: C-3261, N-11190*
 
 **A-2267.4** Still showing subject's hat positioned above glasses/head
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:13:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3262, N-2190*
+*Related: C-3262, N-11190*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:27:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3267, George Zinn node, N-2191*
+*Related: C-3267, George Zinn node, N-11191*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:27:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3267, George Zinn node, N-2191*
+*Related: C-3267, George Zinn node, N-11191*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:52:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3275, Tyler Robinson node, N-2192*
+*Related: C-3275, Tyler Robinson node, N-11192*
 
 **A-2275.6** Lady Di comment: requests Rachel Wilson not attend the upcoming debate
 
@@ -313,7 +313,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2190** Parking-Garage Subject Identity Discrepancy
+**N-11190** Parking-Garage Subject Identity Discrepancy
 
 Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).
 
@@ -326,7 +326,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2191** George Zinn Device Identification
+**N-11191** George Zinn Device Identification
 
 Open investigative target: identify the walkie-talkie / iPhone-like device visible during George Zinn's arrest footage.
 
@@ -339,7 +339,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2192** Tyler Robinson Handedness Verification
+**N-11192** Tyler Robinson Handedness Verification
 
 Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twigs's apparent handedness.
 
@@ -371,7 +371,7 @@ Claim: In the parking-garage stills, the subject is shown retrieving a phone fro
 
 Anchored Artifacts: A-2267.2
 
-Related Nodes: N-2190, N-2192
+Related Nodes: N-11190, N-11192
 
 Investigative Direction: Obtain the full uncompressed footage and verify the motion-direction sequence; cross-reference against court-documented handedness records for Tyler Robinson and Lance Twigs.
 
@@ -385,7 +385,7 @@ Claim: The stills show the subject with what appears to be high white socks pull
 
 Anchored Artifacts: A-2267.3
 
-Related Nodes: N-2190
+Related Nodes: N-11190
 
 Investigative Direction: Obtain reference photos of Tyler Robinson's documented leg appearance on 2025-09-10; verify against booking/intake imagery.
 
@@ -399,7 +399,7 @@ Claim: The stills show the subject's hat sitting noticeably above his glasses an
 
 Anchored Artifacts: A-2267.4
 
-Related Nodes: N-2190
+Related Nodes: N-11190
 
 Investigative Direction: Obtain side-angle or higher-resolution imagery; verify by direct observation of booking photos for any concealed ponytail/headwear anomaly.
 
@@ -444,7 +444,7 @@ Claim: The host presents a photo of Lance Twigs eating with his left hand and re
 Anchored Artifacts: A-2269.1
 Mentions: N-84
 
-Related Nodes: N-2192
+Related Nodes: N-11192
 
 Investigative Direction: Obtain court records or biographical sources documenting Lance Twigs's stated handedness.
 
@@ -474,7 +474,7 @@ Claim: High-resolution photos from George Zinn's arrest show an unidentified thi
 Anchored Artifacts: A-2271.1, A-2272.1
 Mentions: N-71
 
-Related Nodes: N-2191
+Related Nodes: N-11191
 
 Investigative Direction: Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose.
 
@@ -589,7 +589,7 @@ Claim: The host states that court documents show Tyler Robinson taking notes wit
 Anchored Artifacts: A-2275.5 (and underlying court exhibits – not displayed in this episode)
 Mentions: N-69
 
-Related Nodes: N-2192
+Related Nodes: N-11192
 
 Investigative Direction: Obtain the specific court exhibit referenced and confirm the right-hand note-taking image.
 
@@ -605,7 +605,7 @@ Claim: The host reads the Dane Cook "B&E" skit's "favorite shirt" passage aloud 
 
 Anchored Artifacts: A-2276.1
 
-Related Nodes: N-2190
+Related Nodes: N-11190
 
 Investigative Direction: Not directly verifiable; relevant only as documented rhetorical framing.
 
@@ -618,8 +618,8 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 - Every artifact has a Related line.
 - Every node has a Related line.
 - No episode-wide artifact bundle exists.
-- People nodes use the global people ledger (N-2, N-3, N-1207, plus reused existing character nodes).
-- Non-person investigation targets use the 1000+ range (N-2190, N-2191, N-2192).
+- People nodes use the global people ledger (N-2, N-3, N-10207, plus reused existing character nodes).
+- Non-person investigation targets use the 1000+ range (N-11190, N-11191, N-11192).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
 - Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
 
@@ -642,8 +642,8 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **Claim Range:** C-3260–C-3276
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-1207 is a topic id; Britta Widener has no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10207 is a topic id; Britta Widener has no CKA person node.
 
-**New Investigation Target Nodes:** N-2190, N-2191, N-2192
+**New Investigation Target Nodes:** N-11190, N-11191, N-11192
 
 **Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node

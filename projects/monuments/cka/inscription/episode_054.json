@@ -56,7 +56,7 @@
             "C-2027"
           ],
           "related_nodes": [
-            "N-1472"
+            "N-10472"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,7 +86,7 @@
             "N-653",
             "N-660",
             "N-661",
-            "N-1463"
+            "N-10463"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -113,7 +113,7 @@
           ],
           "related_nodes": [
             "N-654",
-            "N-1470"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           "related_nodes": [
             "N-653",
             "N-654",
-            "N-1464"
+            "N-10464"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -153,7 +153,7 @@
           "related_nodes": [
             "N-653",
             "N-654",
-            "N-1464"
+            "N-10464"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -173,7 +173,7 @@
           "related_nodes": [
             "N-653",
             "N-654",
-            "N-1464"
+            "N-10464"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,7 +192,7 @@
           ],
           "related_nodes": [
             "N-654",
-            "N-1470"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -211,7 +211,7 @@
           ],
           "related_nodes": [
             "N-654",
-            "N-1470"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
           "related_nodes": [
             "N-654",
             "N-690",
-            "N-1470"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -250,7 +250,7 @@
           ],
           "related_nodes": [
             "N-654",
-            "N-1470"
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -278,7 +278,7 @@
           "related_nodes": [
             "N-657",
             "N-658",
-            "N-1468"
+            "N-10468"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -307,7 +307,7 @@
             "N-653",
             "N-655",
             "N-659",
-            "N-1464"
+            "N-10464"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -334,8 +334,8 @@
           ],
           "related_nodes": [
             "N-654",
-            "N-1464",
-            "N-1470"
+            "N-10464",
+            "N-10470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -364,7 +364,7 @@
           "related_nodes": [
             "N-657",
             "N-694",
-            "N-1468"
+            "N-10468"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -391,7 +391,7 @@
             "C-2043"
           ],
           "related_nodes": [
-            "N-1463"
+            "N-10463"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -419,7 +419,7 @@
           "related_nodes": [
             "N-653",
             "N-656",
-            "N-1471"
+            "N-10471"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -447,7 +447,7 @@
           "related_nodes": [
             "N-653",
             "N-656",
-            "N-1471"
+            "N-10471"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -512,9 +512,9 @@
       "related_nodes": [
         "N-654",
         "N-656",
-        "N-1463",
-        "N-1464",
-        "N-1471"
+        "N-10463",
+        "N-10464",
+        "N-10471"
       ]
     },
     {
@@ -554,8 +554,8 @@
       "related_nodes": [
         "N-653",
         "N-690",
-        "N-1464",
-        "N-1470"
+        "N-10464",
+        "N-10470"
       ]
     },
     {
@@ -578,7 +578,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-653",
-        "N-1464"
+        "N-10464"
       ]
     },
     {
@@ -603,7 +603,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-653",
-        "N-1471"
+        "N-10471"
       ]
     },
     {
@@ -630,7 +630,7 @@
       "related_nodes": [
         "N-658",
         "N-694",
-        "N-1468"
+        "N-10468"
       ]
     },
     {
@@ -653,7 +653,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-657",
-        "N-1468"
+        "N-10468"
       ]
     },
     {
@@ -677,7 +677,7 @@
       "related_nodes": [
         "N-653",
         "N-655",
-        "N-1464"
+        "N-10464"
       ]
     },
     {
@@ -698,7 +698,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-661",
-        "N-1463"
+        "N-10463"
       ]
     },
     {
@@ -719,7 +719,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-660",
-        "N-1463"
+        "N-10463"
       ]
     },
     {
@@ -742,7 +742,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1463"
+        "N-10463"
       ]
     },
     {
@@ -765,7 +765,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-654",
-        "N-1470"
+        "N-10470"
       ]
     },
     {
@@ -792,8 +792,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1463",
-      "ref": "N-1463",
+      "@id": "N-10463",
+      "ref": "N-10463",
       "name": "Liberty Godparent Home / Godparent Program Investigation",
       "type": "investigation_target",
       "description": "Persistent investigation target regarding alleged coercion, adoption pressure, restricted contact, and institutional opacity at the Liberty Godparent Home in the 1990s. Anchored by ABC News report and recorded phone call in this episode.",
@@ -821,8 +821,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1464",
-      "ref": "N-1464",
+      "@id": "N-10464",
+      "ref": "N-10464",
       "name": "Liberty University Funding History",
       "type": "investigation_target",
       "description": "Persistent target regarding the origin and rescue financing of Liberty University, including alleged 1979 Israeli aircraft gift (per email tip citing Mearsheimer) and mid-1990s Unification Church-affiliated bailout (per Washington Post 1997 article and email tip).",
@@ -854,8 +854,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1465",
-      "ref": "N-1465",
+      "@id": "N-10465",
+      "ref": "N-10465",
       "name": "Brian Herpolsheimer Name Discrepancy",
       "type": "investigation_target",
       "description": "Discrepancy between host's verbal reference to \"Harpole\" and the on-screen interview subject \"Herpolsheimer.\"",
@@ -872,8 +872,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1466",
-      "ref": "N-1466",
+      "@id": "N-10466",
+      "ref": "N-10466",
       "name": "Tyler Bowyer 2011 Romania Activities",
       "type": "investigation_target",
       "description": "Persistent investigation target regarding Tyler Bowyer's 2011 trip to work with the Romanian government (purpose still undetermined per host).",
@@ -885,14 +885,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1472",
+        "N-10472",
         "N-37"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1467",
-      "ref": "N-1467",
+      "@id": "N-10467",
+      "ref": "N-10467",
       "name": "Charis Bible College Security Coordination (Post-Assassination)",
       "type": "investigation_target",
       "description": "Investigation target regarding alleged absence of pre-existing security plan for the September 11, 2025 Charis Bible College vigil and alleged lack of TPUSA security coordination with local police, per unnamed tipster.",
@@ -909,8 +909,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1468",
-      "ref": "N-1468",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
       "type": "investigation_target",
       "description": "Investigation target regarding the September 4–5, 2025 Build Up Korea conference attended by Charlie Kirk and the arrest of Pastor Yoon Bo-seon days later.",
@@ -937,8 +937,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1469",
-      "ref": "N-1469",
+      "@id": "N-10469",
+      "ref": "N-10469",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "Persistent investigation target regarding TPUSA Faith's pastor summit leadership (Rob McCoy, Sean Feucht), parallels drawn by host to Moon Inc. structure.",
@@ -951,13 +951,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-654",
-        "N-1470"
+        "N-10470"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1470",
-      "ref": "N-1470",
+      "@id": "N-10470",
+      "ref": "N-10470",
       "name": "Unification Church / Moon Inc. Financial Structure",
       "type": "investigation_target",
       "description": "Persistent investigation target regarding the cross-border financial mechanism of Moon-affiliated entities, including cash flow from Japan/Korea, hidden holding-company chains, and the 1978 congressional investigation conclusion.",
@@ -985,13 +985,13 @@
       "related_nodes": [
         "N-654",
         "N-690",
-        "N-1469"
+        "N-10469"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1471",
-      "ref": "N-1471",
+      "@id": "N-10471",
+      "ref": "N-10471",
       "name": "Falwell Family Origin History",
       "type": "investigation_target",
       "description": "Persistent investigation target regarding the bootlegging/smuggling/trafficking background of Jerry Falwell Sr.'s father (Carey Hezekiah), his conversion in 1948, and family criminal history.",
@@ -1015,8 +1015,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1472",
-      "ref": "N-1472",
+      "@id": "N-10472",
+      "ref": "N-10472",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frandsen charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.",
@@ -1032,7 +1032,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1466",
+        "N-10466",
         "N-37"
       ]
     },
@@ -1097,7 +1097,7 @@
         "A-1597.1"
       ],
       "related_nodes": [
-        "N-1472"
+        "N-10472"
       ],
       "tags": [],
       "claim_timestamp": "00:12:58",
@@ -1116,7 +1116,7 @@
         "A-1598.1"
       ],
       "related_nodes": [
-        "N-1463"
+        "N-10463"
       ],
       "tags": [],
       "claim_timestamp": "00:35:05",
@@ -1137,7 +1137,7 @@
         "A-1598.1"
       ],
       "related_nodes": [
-        "N-1463"
+        "N-10463"
       ],
       "tags": [],
       "claim_timestamp": "00:37:54",
@@ -1153,7 +1153,7 @@
         "A-1599.2"
       ],
       "related_nodes": [
-        "N-1464"
+        "N-10464"
       ],
       "tags": [],
       "claim_timestamp": "00:55:11",
@@ -1173,7 +1173,7 @@
         "A-1599.3"
       ],
       "related_nodes": [
-        "N-1464"
+        "N-10464"
       ],
       "tags": [],
       "claim_timestamp": "01:06:32",
@@ -1193,7 +1193,7 @@
         "A-1599.4"
       ],
       "related_nodes": [
-        "N-1464"
+        "N-10464"
       ],
       "tags": [],
       "claim_timestamp": "01:06:32",
@@ -1213,7 +1213,7 @@
         "A-1599.5"
       ],
       "related_nodes": [
-        "N-1470"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "01:02:19",
@@ -1232,7 +1232,7 @@
         "A-1599.1"
       ],
       "related_nodes": [
-        "N-1470"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:52:37",
@@ -1251,7 +1251,7 @@
         "A-1599.6"
       ],
       "related_nodes": [
-        "N-1470"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "01:04:00",
@@ -1270,7 +1270,7 @@
         "A-1599.7"
       ],
       "related_nodes": [
-        "N-1470"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "01:05:41",
@@ -1290,7 +1290,7 @@
         "A-1599.8"
       ],
       "related_nodes": [
-        "N-1470"
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "01:04:49",
@@ -1309,7 +1309,7 @@
         "A-1601.1"
       ],
       "related_nodes": [
-        "N-1464"
+        "N-10464"
       ],
       "tags": [],
       "claim_timestamp": "00:43:30",
@@ -1330,8 +1330,8 @@
         "A-1602.1"
       ],
       "related_nodes": [
-        "N-1464",
-        "N-1470"
+        "N-10464",
+        "N-10470"
       ],
       "tags": [],
       "claim_timestamp": "00:48:22",
@@ -1350,7 +1350,7 @@
         "A-1603.1"
       ],
       "related_nodes": [
-        "N-1468"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "01:09:02",
@@ -1369,7 +1369,7 @@
         "A-1600.1"
       ],
       "related_nodes": [
-        "N-1468"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "01:10:00",
@@ -1390,7 +1390,7 @@
         "A-1604.1"
       ],
       "related_nodes": [
-        "N-1463"
+        "N-10463"
       ],
       "tags": [],
       "claim_timestamp": "00:24:36",
@@ -1409,7 +1409,7 @@
         "A-1604.1"
       ],
       "related_nodes": [
-        "N-1463"
+        "N-10463"
       ],
       "tags": [],
       "claim_timestamp": "00:29:47",
@@ -1428,7 +1428,7 @@
         "A-1605.1"
       ],
       "related_nodes": [
-        "N-1471"
+        "N-10471"
       ],
       "tags": [],
       "claim_timestamp": "00:44:18",
@@ -1448,7 +1448,7 @@
         "A-1606.1"
       ],
       "related_nodes": [
-        "N-1471"
+        "N-10471"
       ],
       "tags": [],
       "claim_timestamp": "00:46:39",
@@ -1468,7 +1468,7 @@
         "A-1603.1"
       ],
       "related_nodes": [
-        "N-1468"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "01:11:09",

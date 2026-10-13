@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2162"
+            "N-11162"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,9 +57,9 @@
             "C-3167"
           ],
           "related_nodes": [
-            "N-1207",
+            "N-10207",
             "N-2",
-            "N-2163"
+            "N-11163"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,7 +87,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-2160"
+            "N-11160"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-3165"
           ],
           "related_nodes": [
-            "N-1207"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-3164"
           ],
           "related_nodes": [
-            "N-2161"
+            "N-11161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,8 +241,8 @@
             "C-3171"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-2161"
+            "N-10207",
+            "N-11161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,15 +353,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-2158",
-        "N-2160",
-        "N-2163"
+        "N-11158",
+        "N-11160",
+        "N-11163"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2158",
-      "ref": "N-2158",
+      "@id": "N-11158",
+      "ref": "N-11158",
       "name": "Kirk Burial / Cremation Status",
       "type": "investigation_target",
       "description": "Persistent investigation target: whether Charlie Kirk was actually interred at a Catholic cemetery, or subject to a mock burial before/after cremation.",
@@ -375,15 +375,15 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-2159",
-        "N-2162",
-        "N-2163"
+        "N-11159",
+        "N-11162",
+        "N-11163"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2159",
-      "ref": "N-2159",
+      "@id": "N-11159",
+      "ref": "N-11159",
       "name": "Mock Burial Allegation",
       "type": "investigation_target",
       "description": "Specific allegation from unnamed tipster: Hansen Mortuary declined to participate in a mock burial, prompting TPUSA to relocate to a Catholic church arrangement via Erika's priest contact.",
@@ -396,15 +396,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-2158",
-        "N-2162",
-        "N-2163"
+        "N-11158",
+        "N-11162",
+        "N-11163"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2160",
-      "ref": "N-2160",
+      "@id": "N-11160",
+      "ref": "N-11160",
       "name": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
       "type": "investigation_target",
       "description": "Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs – bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).",
@@ -426,8 +426,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2161",
-      "ref": "N-2161",
+      "@id": "N-11161",
+      "ref": "N-11161",
       "name": "\"Other Angle\" Rooftop Footage Existence",
       "type": "investigation_target",
       "description": "Investigation target concerning the alleged second rooftop video angle (claimed by Blake Neff and by podcast participant) showing the shooter pulling a rifle from his pants / assembling a weapon.",
@@ -445,13 +445,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1207"
+        "N-10207"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2162",
-      "ref": "N-2162",
+      "@id": "N-11162",
+      "ref": "N-11162",
       "name": "Hansen Mortuary Role",
       "type": "investigation_target",
       "description": "Investigation target concerning Hansen Mortuary's involvement: receipt of Kirk's body on Sept 11, alleged refusal to participate in mock burial, and transition of remains to a Catholic funeral.",
@@ -467,14 +467,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-2158",
-        "N-2159"
+        "N-11158",
+        "N-11159"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2163",
-      "ref": "N-2163",
+      "@id": "N-11163",
+      "ref": "N-11163",
       "name": "Kirk Religious Affiliation Status",
       "type": "investigation_target",
       "description": "Investigation target concerning Charlie Kirk's actual religious affiliation at time of death: claimed by TPUSA as evangelical/non-denominational; Catholic funeral mass creates conflict with that claim.",
@@ -492,8 +492,8 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-1207",
-        "N-2159"
+        "N-10207",
+        "N-11159"
       ]
     },
     {
@@ -604,7 +604,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-2160"
+        "N-11160"
       ],
       "tags": [],
       "claim_timestamp": "00:33:25",
@@ -623,7 +623,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-2160"
+        "N-11160"
       ],
       "tags": [],
       "claim_timestamp": "00:34:21",
@@ -642,7 +642,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-2161"
+        "N-11161"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -678,7 +678,7 @@
         "A-2205.1"
       ],
       "related_nodes": [
-        "N-2162"
+        "N-11162"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -697,7 +697,7 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-2163"
+        "N-11163"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -769,7 +769,7 @@
         "A-2213.1"
       ],
       "related_nodes": [
-        "N-2161"
+        "N-11161"
       ],
       "tags": [],
       "claim_timestamp": "00:12:19",

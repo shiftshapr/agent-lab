@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2143, N-2144, N-2145, N-2146
+ - New Nodes Introduced: N-11143, N-11144, N-11145, N-11146
  - Reused Nodes Appearing: N-57
  - (see registers)
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3114, N-224, N-2145*
+*Related: C-3114, N-224, N-11145*
 
 **A-2177** Seamstress Email Bundle
 
@@ -167,7 +167,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## 4. Node Register
 
-**N-2143** Howard Hughes Death Investigation
+**N-11143** Howard Hughes Death Investigation
 
 Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.
 
@@ -178,7 +178,7 @@ Investigative Pressure: Low
 
 *Related: A-2173.1*
 
-**N-2144** Daily Mail Article Sourcing Question
+**N-11144** Daily Mail Article Sourcing Question
 
 Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" as her guess; Kolvet disputes origin via A-2174.1.
 
@@ -189,7 +189,7 @@ Investigative Pressure: High
 
 *Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-42*
 
-**N-2145** 9/10 Phone Discrepancy (Mikey two phones)
+**N-11145** 9/10 Phone Discrepancy (Mikey two phones)
 
 Persistent open-question of whether Mikey possessed two phones on 9/10; Neff's phrasing "I put that phone away" (A-2176.1) is noted as linguistically suggestive of a second phone.
 
@@ -200,7 +200,7 @@ Investigative Pressure: Medium
 
 *Related: A-2176.1, C-3114, N-224*
 
-**N-2146** TPUSA Inner Circle Composition Question
+**N-11146** TPUSA Inner Circle Composition Question
 
 Persistent question of LDS staffing inside TPUSA leadership; introduced this episode via host's account of Charlie Kirk's UVU remarks (not artifact-displayed in this episode) and connections drawn from A-2173.1.
 
@@ -253,7 +253,7 @@ Claim Timestamp: 00:14:54
 Claim: A 1976 Time magazine article titled "The Keepers of the King" states that six Mormon aides, recruited by the Summa Corporation and led by Bill Gay, attended Howard Hughes in 8-hour shifts, were paid up to $110,000 per year, censored his communications, and controlled his public image.
 
 Anchored Artifacts: A-2173.1
-Related Nodes: N-2146
+Related Nodes: N-11146
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
 
@@ -265,7 +265,7 @@ Claim: Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Ma
 
 Anchored Artifacts: A-2174.1
 Mentions: N-42, N-3
-Related Nodes: N-2144
+Related Nodes: N-11144
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
 
@@ -277,7 +277,7 @@ Claim: Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk 
 
 Anchored Artifacts: A-2174.1
 Mentions: N-42
-Related Nodes: N-2144
+Related Nodes: N-11144
 
 Investigative Direction: Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.
 
@@ -289,7 +289,7 @@ Claim: Andrew Kolvet's X post asserts that the Daily Mail updated the article to
 
 Anchored Artifacts: A-2174.1
 Mentions: N-42
-Related Nodes: N-2144
+Related Nodes: N-11144
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
 
@@ -312,7 +312,7 @@ Claim: In an interview clip played on air, Blake Neff describes his actions on 9
 
 Anchored Artifacts: A-2176.1
 Mentions: N-224
-Related Nodes: N-2145
+Related Nodes: N-11145
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.
 

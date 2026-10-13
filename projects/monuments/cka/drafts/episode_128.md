@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2131, N-2132, N-2133, N-2134, N-2135, N-2136, N-2137, N-2138
+ - New Nodes Introduced: N-11131, N-11132, N-11133, N-11134, N-11135, N-11136, N-11137, N-11138
  - Hole-minted Nodes (wave3): N-811, N-812, N-813, N-814
- - Reused Nodes Appearing: N-1215, N-629, N-809
+ - Reused Nodes Appearing: N-10215, N-629, N-809
  - (see registers)
 
 ---
@@ -38,7 +38,7 @@
 - **Artifact Families Introduced:** A-2153, A-2154, A-2155, A-2156, A-2157, A-2158, A-2159, A-2160, A-2161, A-2162, A-2163
 - **Claim Range:** C-3058–C-3082
 - **New People Nodes Introduced:** none (Wave 2: local ids removed)
-- **New Investigation Targets Introduced:** N-2131, N-2132, N-2133, N-2134, N-2135, N-2136, N-2137, N-2138
+- **New Investigation Targets Introduced:** N-11131, N-11132, N-11133, N-11134, N-11135, N-11136, N-11137, N-11138
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:03:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3058, C-3059, N-2133*
+*Related: C-3058, C-3059, N-11133*
 
 **A-2153.2** Brigadier General Blaine Holt segment on Newsmax (spine-impact rejection)
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3059, N-2133*
+*Related: C-3059, N-11133*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:08:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3060, C-3061, N-2134*
+*Related: C-3060, C-3061, N-11134*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:12:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3062, N-2135*
+*Related: C-3062, N-11135*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:16:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (appearance not independently verified by analyst)
 
-*Related: C-3063, N-2137*
+*Related: C-3063, N-11137*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3071, N-2132*
+*Related: C-3071, N-11132*
 
 **A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital – August 18, 2025
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3072, N-2132*
+*Related: C-3072, N-11132*
 
 **A-2158.3** Judge Tony Graff appointed – May 2025
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3073, N-2132*
+*Related: C-3073, N-11132*
 
 **A-2158.4** Utah medical examiner appointment – July 2024
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (named only)
 
-*Related: N-2132*
+*Related: N-11132*
 
 **A-2158.5** Robert Bowles assumes leadership of FBI Salt Lake City Field Office – September 2, 2025
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3074, N-2132*
+*Related: C-3074, N-11132*
 
 ---
 
@@ -272,7 +272,7 @@ Video Timestamp: 00:31:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3079, N-2136*
+*Related: C-3079, N-11136*
 
 ---
 
@@ -286,7 +286,7 @@ Video Timestamp: 00:36:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-3080, N-2131*
+*Related: C-3080, N-11131*
 
 **A-2162.2** Second Blake Neff statement – revised to Salt Lake City, no hotel name recalled
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:36:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-3080, C-3081, N-2131*
+*Related: C-3080, C-3081, N-11131*
 
 ---
 
@@ -310,7 +310,7 @@ Video Timestamp: 00:41:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-3082, N-2138*
+*Related: C-3082, N-11138*
 
 ---
 
@@ -354,7 +354,7 @@ First named by the host at 00:24:14 in episode 128.
 
 
 
-**N-2131** Salt Lake City Hotel Identification Gap
+**N-11131** Salt Lake City Hotel Identification Gap
 
 Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.
 
@@ -367,7 +367,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2132** Utah Pre-Event Personnel Restructuring Pattern
+**N-11132** Utah Pre-Event Personnel Restructuring Pattern
 
 Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Bo Mason (June 19, 2025), Tony Graff (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bowles (September 2, 2025).
 
@@ -380,7 +380,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2133** Ballistics Narrative Contradiction (O'Neill/Holt)
+**N-11133** Ballistics Narrative Contradiction (O'Neill/Holt)
 
 Public on-camera rejection by a former SEAL Team Six sniper and an Air Force Brigadier General of the official .30-06 / spine-impact ballistics explanation.
 
@@ -393,7 +393,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2134** Rooftop Clothing Change Narrative
+**N-11134** Rooftop Clothing Change Narrative
 
 Governor Cox's September 12, 2025 statement that the assassin changed clothes on the rooftop; not retracted or explained in subsequent official communications.
 
@@ -406,7 +406,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2135** Screwdriver Evidence Chain Question
+**N-11135** Screwdriver Evidence Chain Question
 
 Recovery of a screwdriver on the rooftop with alleged shooter DNA; subsequent claim that the suspect disassembled the rifle on the roof contradicted by later discovery of the assembled weapon in the woods.
 
@@ -419,7 +419,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2136** CPR Narrative Contradiction (Turek / Harpole)
+**N-11136** CPR Narrative Contradiction (Turek / Harpole)
 
 Brian Harpole asserts CPR was not performed in the vehicle; Frank Turek concedes he attempted CPR for the last 20–30 seconds of the ride and characterizes the divergence as emphasis rather than contradiction.
 
@@ -432,7 +432,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2137** Faumuina Media Presence Anomaly
+**N-11137** Faumuina Media Presence Anomaly
 
 A sworn state law enforcement officer with FBI JTTF assignment appearing as a presenter on Netflix's *Worst Roommate Ever* and later as a podcast guest.
 
@@ -445,7 +445,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2138** Fort Huachuca Connection Question
+**N-11138** Fort Huachuca Connection Question
 
 Lt. Col. Kolvet's public X post denying any connection between his brother Andrew Kolvet and Fort Huachuca beyond a single 3-day MP unit training visit.
 
@@ -469,7 +469,7 @@ Claim: Robert O'Neill publicly stated that the shirt movement on the published f
 Anchored Artifacts: A-2153.1
 Mentions: N-1
 
-Related Nodes: N-2133
+Related Nodes: N-11133
 
 Investigative Direction: Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics.
 
@@ -484,7 +484,7 @@ Claim: Brigadier General Blaine Holt publicly rejected the explanation that the 
 Anchored Artifacts: A-2153.2
 Mentions: N-1
 
-Related Nodes: N-2133
+Related Nodes: N-11133
 
 Investigative Direction: Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials.
 
@@ -499,7 +499,7 @@ Claim: At the September 12, 2025 FBI briefing, Utah Governor Spencer Cox stated 
 Anchored Artifacts: A-2154.1
 Mentions: N-70
 
-Related Nodes: N-2134
+Related Nodes: N-11134
 
 Investigative Direction: Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim.
 
@@ -529,7 +529,7 @@ Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly t
 Anchored Artifacts: A-2155.1
 Mentions: N-75, N-629
 
-Related Nodes: N-2135
+Related Nodes: N-11135
 
 Investigative Direction: Compare the publicly released footage metadata against Bongino's "grainy" characterization and review any subsequent enhanced-release footage for consistency.
 
@@ -544,7 +544,7 @@ Claim: Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst 
 Anchored Artifacts: A-2156.1
 Mentions: N-811, N-809, N-813, N-812
 
-Related Nodes: N-2137
+Related Nodes: N-11137
 
 Investigative Direction: Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.
 
@@ -664,7 +664,7 @@ Claim: Beau "Bo" Mason was appointed Commissioner of the Utah Department of Publ
 Anchored Artifacts: A-2158.1
 Mentions: N-70, N-811, N-809
 
-Related Nodes: N-2132
+Related Nodes: N-11132
 
 Investigative Direction: Verify appointment through the official Utah governor's office announcement or Senate confirmation record.
 
@@ -679,7 +679,7 @@ Claim: Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025
 Anchored Artifacts: A-2158.2
 Mentions: N-192
 
-Related Nodes: N-2132
+Related Nodes: N-11132
 
 Investigative Direction: Confirm via hospital press releases and board minutes.
 
@@ -694,7 +694,7 @@ Claim: Tony Graff received a judicial appointment in May 2025.
 Anchored Artifacts: A-2158.3
 Mentions: N-193
 
-Related Nodes: N-2132
+Related Nodes: N-11132
 
 Investigative Direction: Verify the appointment date, court, and appointing authority.
 
@@ -709,7 +709,7 @@ Claim: Special Agent Robert Bowles took command of the FBI Salt Lake City Field 
 Anchored Artifacts: A-2158.5
 Mentions: N-186
 
-Related Nodes: N-2132
+Related Nodes: N-11132
 
 Investigative Direction: Confirm via FBI press releases and internal personnel announcements.
 
@@ -784,7 +784,7 @@ Claim: Frank Turek stated on the Shawn Ryan Show that Brian Harpole's "no CPR" a
 Anchored Artifacts: A-2161.1
 Mentions: N-424, N-16
 
-Related Nodes: N-2136
+Related Nodes: N-11136
 
 Investigative Direction: Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment.
 
@@ -799,7 +799,7 @@ Claim: Blake Neff initially stated the Turning Point USA team stayed overnight i
 Anchored Artifacts: A-2162.1, A-2162.2
 Mentions: N-224
 
-Related Nodes: N-2131
+Related Nodes: N-11131
 
 Investigative Direction: Compare both statements against travel itineraries, expense reports, and credit card records.
 
@@ -814,7 +814,7 @@ Claim: Blake Neff stated on the record that he did not remember the name of the 
 Anchored Artifacts: A-2162.2
 Mentions: N-224
 
-Related Nodes: N-2131
+Related Nodes: N-11131
 
 Investigative Direction: Cross-check with travel booking records, expense reports, and any hotel worker testimony.
 
@@ -829,7 +829,7 @@ Claim: Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that
 Anchored Artifacts: A-2163.1
 Mentions: N-42
 
-Related Nodes: N-2138
+Related Nodes: N-11138
 
 Investigative Direction: Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references.
 

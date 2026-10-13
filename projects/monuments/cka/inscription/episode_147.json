@@ -32,8 +32,8 @@
             "C-3360"
           ],
           "related_nodes": [
-            "N-1207",
-            "N-2225"
+            "N-10207",
+            "N-11225"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -82,7 +82,7 @@
             "C-3371"
           ],
           "related_nodes": [
-            "N-2221"
+            "N-11221"
           ],
           "tags": []
         },
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-2219"
+            "N-11219"
           ],
           "tags": []
         },
@@ -122,7 +122,7 @@
             "C-3370"
           ],
           "related_nodes": [
-            "N-2220"
+            "N-11220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -146,8 +146,8 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-2219",
-        "N-2221"
+        "N-11219",
+        "N-11221"
       ],
       "tags": [],
       "sub_items": [],
@@ -168,7 +168,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-2219"
+        "N-11219"
       ],
       "tags": [],
       "sub_items": [],
@@ -190,7 +190,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "sub_items": [],
@@ -211,7 +211,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "sub_items": [],
@@ -232,7 +232,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "sub_items": [],
@@ -253,7 +253,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "sub_items": [],
@@ -278,8 +278,8 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-2223",
-        "N-2224"
+        "N-11223",
+        "N-11224"
       ],
       "tags": [],
       "sub_items": [],
@@ -304,8 +304,8 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-2223",
-        "N-2224"
+        "N-11223",
+        "N-11224"
       ],
       "tags": [],
       "sub_items": [],
@@ -329,7 +329,7 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-2222"
+        "N-11222"
       ],
       "tags": [],
       "sub_items": [],
@@ -351,7 +351,7 @@
       "related_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-2222"
+        "N-11222"
       ],
       "tags": [],
       "sub_items": [],
@@ -409,8 +409,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2219",
-      "ref": "N-2219",
+      "@id": "N-11219",
+      "ref": "N-11219",
       "name": "9/10 Vehicle Positioning Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation into the configuration of the five relevant vehicles on the UVU lot, the blocking-in pattern, and the personnel assignment to each. Two security vehicles on the left arrived 9:00–9:30 a.m. before Kirk; the two Denalis and the Hyundai Palisade are the remaining units.",
@@ -435,8 +435,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2220",
-      "ref": "N-2220",
+      "@id": "N-11220",
+      "ref": "N-11220",
       "name": "Christopher Pre-Shot Location Anomaly",
       "type": "investigation_target",
       "description": "Why security member Christopher (driver of Kirk's vehicle) and Nate Walker were walking toward the Sorensen building minutes before the shot, given Kirk's reported prior-night communication that he feared for his life.",
@@ -455,8 +455,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2221",
-      "ref": "N-2221",
+      "@id": "N-11221",
+      "ref": "N-11221",
       "name": "Security Vehicle Keys Access Question",
       "type": "investigation_target",
       "description": "Investigation into how Justin Davis obtained access to Christopher's locked vehicle (carrying Kirk's personal belongings) within ~45 seconds, given that Christopher was upstairs at the time of the shot and the vehicle was supposed to be secured.",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2222",
-      "ref": "N-2222",
+      "@id": "N-11222",
+      "ref": "N-11222",
       "name": "Security Vehicle Hospital Transport Absence",
       "type": "investigation_target",
       "description": "Investigation into why none of the three security SUVs (other than the one Justin Davis ultimately drove) were taken to the hospital after the shot, and what security personnel did in the intervening window.",
@@ -503,8 +503,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2223",
-      "ref": "N-2223",
+      "@id": "N-11223",
+      "ref": "N-11223",
       "name": "Political-Motivation X Outrage Cluster (Sept 1, 2026)",
       "type": "investigation_target",
       "description": "Coordinated set of X posts by Matt Walsh, Viva Frei, Graham Allen, Blake Neff, and Brandon Tatum characterizing defense counsel's argument as endorsement of political assassination.",
@@ -531,8 +531,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2224",
-      "ref": "N-2224",
+      "@id": "N-11224",
+      "ref": "N-11224",
       "name": "Political Motivation Inference Chain (Hearsay Standard)",
       "type": "investigation_target",
       "description": "Investigation into whether the state's chain of inferences – Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged \"some hate just can't be negotiated\" message → political-motivation enhancement – satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-2225",
-      "ref": "N-2225",
+      "@id": "N-11225",
+      "ref": "N-11225",
       "name": "Defense Witness Tampering Count 6 Constitutional Question",
       "type": "investigation_target",
       "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
@@ -579,7 +579,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1207",
+        "N-10207",
         "N-69"
       ]
     },
@@ -928,7 +928,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-2225"
+        "N-11225"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -948,7 +948,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-2225"
+        "N-11225"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
@@ -965,7 +965,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-2225"
+        "N-11225"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -985,7 +985,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-2225"
+        "N-11225"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
@@ -1038,7 +1038,7 @@
         "A-2329.1"
       ],
       "related_nodes": [
-        "N-2221"
+        "N-11221"
       ],
       "tags": [],
       "claim_timestamp": "00:20:06",
@@ -1058,7 +1058,7 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-2219"
+        "N-11219"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00",
@@ -1079,7 +1079,7 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-2219"
+        "N-11219"
       ],
       "tags": [],
       "claim_timestamp": "00:21:22",
@@ -1098,7 +1098,7 @@
         "A-2329.3"
       ],
       "related_nodes": [
-        "N-2221"
+        "N-11221"
       ],
       "tags": [],
       "claim_timestamp": "00:22:38",
@@ -1134,7 +1134,7 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-2220"
+        "N-11220"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
@@ -1153,8 +1153,8 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-2220",
-        "N-2221"
+        "N-11220",
+        "N-11221"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
@@ -1171,16 +1171,16 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-2219",
-        "N-2221",
-        "N-2222"
+        "N-11219",
+        "N-11221",
+        "N-11222"
       ],
       "tags": [],
       "claim_timestamp": "00:26:16",
       "investigative_direction": "Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.",
       "mentions_person_refs": [
-        "N-2221",
-        "N-2222"
+        "N-11221",
+        "N-11222"
       ]
     },
     {
@@ -1191,7 +1191,7 @@
       "claim": "The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk's arrival in Salt Lake City for the restaurantology event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2219"
+        "N-11219"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
@@ -1211,7 +1211,7 @@
         "A-2331"
       ],
       "related_nodes": [
-        "N-2219"
+        "N-11219"
       ],
       "tags": [],
       "claim_timestamp": "00:12:13",
@@ -1230,7 +1230,7 @@
         "A-2332"
       ],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
@@ -1247,7 +1247,7 @@
       "claim": "The host explicitly rejects Walsh's \"justifying political assassination\" framing and characterizes it as a \"disingenuous narrative.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
@@ -1264,7 +1264,7 @@
         "A-2333"
       ],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
@@ -1283,7 +1283,7 @@
         "A-2334"
       ],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "claim_timestamp": "00:40:36",
@@ -1302,7 +1302,7 @@
         "A-2335"
       ],
       "related_nodes": [
-        "N-2223"
+        "N-11223"
       ],
       "tags": [],
       "claim_timestamp": "00:40:50",
@@ -1323,8 +1323,8 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-2223",
-        "N-2224"
+        "N-11223",
+        "N-11224"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
@@ -1345,7 +1345,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-2224"
+        "N-11224"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
@@ -1365,7 +1365,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-2224"
+        "N-11224"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
@@ -1385,7 +1385,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-2224"
+        "N-11224"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
@@ -1404,7 +1404,7 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-2224"
+        "N-11224"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
@@ -1424,7 +1424,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-2222"
+        "N-11222"
       ],
       "tags": [],
       "claim_timestamp": "00:28:14",
@@ -1444,7 +1444,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-2222"
+        "N-11222"
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
@@ -1469,7 +1469,7 @@
         "A-2339"
       ],
       "related_nodes": [
-        "N-2222"
+        "N-11222"
       ],
       "tags": [],
       "claim_timestamp": "00:54:25",
@@ -1576,7 +1576,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-2222"
+        "N-11222"
       ],
       "tags": [],
       "claim_timestamp": "00:28:58",

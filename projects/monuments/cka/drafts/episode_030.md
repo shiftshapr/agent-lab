@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-382, N-385, N-386, N-1313, N-1314, N-1315
+  - New Nodes Introduced:  N-382, N-385, N-386, N-10313, N-10314, N-10315
   - Reused Nodes Appearing: N-3, N-1, N-272, N-45, N-135, N-42, N-86
   - (see registers)
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1672, N-309, N-1314*
+*Related: C-1672, N-309, N-10314*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:19:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1675, N-1313*
+*Related: C-1675, N-10313*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:45:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1313 (referenced), N-2 (inferential only)*
+*Related: N-10313 (referenced), N-2 (inferential only)*
 
 ---
 
@@ -285,7 +285,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1383.1, A-1383.2, A-1384.1, C-1672, C-1673, C-1674, N-1314*
+*Related: A-1383.1, A-1383.2, A-1384.1, C-1672, C-1673, C-1674, N-10314*
 
 ---
 
@@ -311,7 +311,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.3, A-1386.1, C-1677, C-1679, C-1680, N-1315*
+*Related: A-1385.1, A-1385.3, A-1386.1, C-1677, C-1679, C-1680, N-10315*
 
 ---
 
@@ -354,7 +354,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1313** UVU Outdoor Venue Selection Discrepancy
+**N-10313** UVU Outdoor Venue Selection Discrepancy
 
 Persistent investigative target concerning the late (July 18) UVU Turning Point chapter request, the rapid dispatch of scouts in early August, and Turning Point USA's decision to override UVU's safety-based recommendation against the outdoor amphitheater.
 
@@ -367,7 +367,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1314** Pre-Event Old Man Near Bush Anomaly
+**N-10314** Pre-Event Old Man Near Bush Anomaly
 
 Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turk.
 
@@ -380,7 +380,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1315** Alexis Wilkins Honeypot Allegation Lawsuit
+**N-10315** Alexis Wilkins Honeypot Allegation Lawsuit
 
 Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaefer and other content creators over "honeypot" allegations, including the Hen Mazig X post and Schaefer photograph cited within the complaint.
 
@@ -474,7 +474,7 @@ Claim: Frank Turk identified the previously anonymous older man seen near a bush
 Anchored Artifacts: A-1383.1, A-1384.1
 Mentions: N-16, N-382, N-1
 
-Related Nodes: N-1314
+Related Nodes: N-10314
 
 Investigative Direction: Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.
 
@@ -517,7 +517,7 @@ Claim: According to local Utah news cited by the host, the UVU Turning Point cha
 Anchored Artifacts: A-1387.1
 Mentions: N-1
 
-Related Nodes: N-1313
+Related Nodes: N-10313
 
 Investigative Direction: Obtain the underlying local Utah news article and any UVU/Turning Point USA correspondence regarding the request date.
 
@@ -531,7 +531,7 @@ Claim: UVU communicated to Turning Point USA that the outdoor amphitheater was n
 
 Anchored Artifacts: A-1387.1
 
-Related Nodes: N-1313
+Related Nodes: N-10313
 
 Investigative Direction: Obtain UVU event-services correspondence and any internal Turning Point USA event-planning records reflecting the recommendation and override.
 
@@ -546,7 +546,7 @@ Claim: Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and oth
 Anchored Artifacts: A-1385.1
 Mentions: N-102, N-314, N-385
 
-Related Nodes: N-1315
+Related Nodes: N-10315
 
 Investigative Direction: Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.
 
@@ -618,7 +618,7 @@ Transcript Snippet: That's a lie told by Pastor Rob McCoy.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-272, N-45, N-135, N-42, N-86
-Related Nodes: N-1000
+Related Nodes: N-10000
 Investigative Direction: Check each listed statement against its original source and date; record any retractions or corrections.
 
 ---

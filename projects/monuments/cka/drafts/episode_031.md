@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-389, N-1316, N-1317
+  - New Nodes Introduced:  N-389, N-10316, N-10317
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:06:39–00:08:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1685, N-389, N-1317*
+*Related: C-1685, N-389, N-10317*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:12:54–00:13:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1686, C-1687, C-1689, N-389, Rob McCoy (likely-existing node), N-1317*
+*Related: C-1686, C-1687, C-1689, N-389, Rob McCoy (likely-existing node), N-10317*
 
 **A-1394.2** Thomas Camino Narrative on Bryce Eddie Show – Claims of False Conviction
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:52:17–00:52:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (auto-caption; spelling uncertain)
 
-*Related: Rob McCoy (likely-existing node), N-1316*
+*Related: Rob McCoy (likely-existing node), N-10316*
 
 **A-1397.2** Top Comment #2 (Yesterday): "Lobo Gray" – Vietnam Veteran Comment on Owens' Courage
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:58:13–00:59:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (alt content present in transcript; preserves spelling)
 
-*Related: C-1691, N-1317*
+*Related: C-1691, N-10317*
 
 **A-1398.12** Today's Comment: "Silicon Valley" – Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club
 
@@ -358,7 +358,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-1684, C-1685, C-1686, C-1687, C-1688, N-1317, Rob McCoy (likely-existing node)*
+*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-1684, C-1685, C-1686, C-1687, C-1688, N-10317, Rob McCoy (likely-existing node)*
 
 ---
 
@@ -371,7 +371,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1396.1, C-1691, Kash Patel (likely-existing node), N-1317*
+*Related: A-1396.1, C-1691, Kash Patel (likely-existing node), N-10317*
 
 ---
 
@@ -388,7 +388,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1316** Calvary Chapel Institutional Abuse Pattern
+**N-10316** Calvary Chapel Institutional Abuse Pattern
 
 Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Rob Koy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).
 
@@ -401,7 +401,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1317** Potter's Fields Ministries Financial Fraud Allegations
+**N-10317** Potter's Fields Ministries Financial Fraud Allegations
 
 2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.
 
@@ -460,7 +460,7 @@ Claim: Owens reads aloud an email from a woman who states she was 8 years old in
 
 Anchored Artifacts: A-1392.1
 Mentions: N-389
-Related Nodes: N-1317
+Related Nodes: N-10317
 Investigative Direction: Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.
 
 ---
@@ -485,7 +485,7 @@ Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy per
 
 Anchored Artifacts: A-1394.1
 Mentions: N-389, N-45
-Related Nodes: N-1316
+Related Nodes: N-10316
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
 ---
@@ -510,7 +510,7 @@ Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of 
 
 Anchored Artifacts: A-1394.1
 Mentions: N-389, N-45
-Related Nodes: N-1316
+Related Nodes: N-10316
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
 ---
@@ -535,7 +535,7 @@ Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined l
 
 Anchored Artifacts: A-1396.1
 Mentions: N-314, N-102
-Related Nodes: N-1317
+Related Nodes: N-10317
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
 ---
@@ -571,7 +571,7 @@ Claim Timestamp: 00:58:13
 Claim: A YouTube commenter using the handle "Mama Diaz" states that a Calvary Chapel pastor she watched online said, "If you have a Bible that has a map that shows Palestine, burn the Bible," and that she could "feel his hate through the screen."
 
 Anchored Artifacts: A-1398.11
-Related Nodes: N-1316
+Related Nodes: N-10316
 Investigative Direction: Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced.
 
 ---

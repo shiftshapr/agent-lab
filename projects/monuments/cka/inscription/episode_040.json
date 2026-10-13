@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-224",
-            "N-1378"
+            "N-10378"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,7 +142,7 @@
             "C-1830"
           ],
           "related_nodes": [
-            "N-1379"
+            "N-10379"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,7 +177,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1378"
+        "N-10378"
       ]
     },
     {
@@ -240,8 +240,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1378",
-      "ref": "N-1378",
+      "@id": "N-10378",
+      "ref": "N-10378",
       "name": "TPUSA Phoenix Livestream Verification Question",
       "type": "investigation_target",
       "description": "Persistent investigable target: whether and when the announced Phoenix livestream actually occurs, who participates, and what is answered.",
@@ -262,8 +262,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1379",
-      "ref": "N-1379",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Macron-Trump 09/10 Phone Call Timing Verification",
       "type": "investigation_target",
       "description": "Persistent investigable target: verification of the September 10, 2025 phone call between Emmanuel Macron and Donald Trump (6:45 PM French time / 10:45 AM Utah time) as recorded in Macron's public calendar.",
@@ -369,7 +369,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-1378"
+        "N-10378"
       ],
       "tags": [],
       "claim_timestamp": "00:28:38–00:29:32",
@@ -546,7 +546,7 @@
         "A-1493.1"
       ],
       "related_nodes": [
-        "N-1379"
+        "N-10379"
       ],
       "tags": [],
       "claim_timestamp": "00:49:59",

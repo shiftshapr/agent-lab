@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-216, N-217, N-218, N-220, N-221, N-224, N-1234, N-1235, N-1236, N-1237, N-1238, N-1239
+  - New Nodes Introduced:  N-216, N-217, N-218, N-220, N-221, N-224, N-10234, N-10235, N-10236, N-10237, N-10238, N-10239
   - Reused Nodes Appearing: 
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
@@ -27,7 +27,7 @@
 - Artifact Families Introduced: A-1227, A-1228, A-1229, A-1230, A-1231, A-1232, A-1233, A-1234, A-1235
 - Claim Range: C-1380–C-1403
 - New Person Nodes Introduced: N-42, N-216, N-217, N-218, N-16, N-220, N-221, N-91, N-70, N-224
-- New Investigation Target Nodes Introduced: N-1234, N-1235, N-1236, N-1237, N-1238, N-1239
+- New Investigation Target Nodes Introduced: N-10234, N-10235, N-10236, N-10237, N-10238, N-10239
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens); presumed-existing nodes for Tyler Robinson, Lance Twiggs, George Zinn (referred to by descriptive name; IDs not confirmed in ledger header)
 
 ---
@@ -295,7 +295,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip-stage)
-*Related: C-1403, N-3, George Zinn (existing node), N-1236*
+*Related: C-1403, N-3, George Zinn (existing node), N-10236*
 
 ---
 
@@ -418,7 +418,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1234** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10234** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Investigation target: verification of whether Lance Twiggs is the individual in the maroon shirt seen in the released imagery. Candace asserts his build is "nothing like Tyler Robinson's build" and hypothesizes Twiggs is the maroon-shirt wearer.
 
@@ -431,7 +431,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1235** Josh Hammer Pre-Death Zoom Call Verification
+**N-10235** Josh Hammer Pre-Death Zoom Call Verification
 
 Investigation target: verification of Hammer's claim of a Zoom call with Charlie Kirk the night before Kirk's death, including attendee list and discussion content.
 
@@ -444,7 +444,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1236** George Zinn Federal Familial Connections (per tip)
+**N-10236** George Zinn Federal Familial Connections (per tip)
 
 Investigation target: verification of Candace's claim that Zinn has potential familial connections to a federal department.
 
@@ -457,7 +457,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1237** Tyler / Lance Apartment Lock Change Anomaly
+**N-10237** Tyler / Lance Apartment Lock Change Anomaly
 
 Investigation target: verification of the family's claim that apartment locks were illegally changed after the raid without their knowledge; identification of who authorized the change (Lance or federal actors).
 
@@ -470,7 +470,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1238** Multiple Decoys Theory (4 Decoys Named)
+**N-10238** Multiple Decoys Theory (4 Decoys Named)
 
 Investigation target: the structural theory advanced by Candace that the visible persons in the released imagery (George Zinn, "staircase guy," "maroon shirt guy," "Losee Center guy") are decoys rather than the shooter.
 
@@ -479,11 +479,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1235.4, N-1234, George Zinn (existing node)*
+*Related: A-1235.4, N-10234, George Zinn (existing node)*
 
 ---
 
-**N-1239** George Zinn Medical Payment Claim Verification
+**N-10239** George Zinn Medical Payment Claim Verification
 
 Investigation target: verification of the medical-staff-reported statement that Zinn claimed he was being paid to take responsibility for Kirk's death, with payment pending.
 
@@ -492,7 +492,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1235.4, C-1402, George Zinn (existing node), N-1236*
+*Related: A-1235.4, C-1402, George Zinn (existing node), N-10236*
 
 ---
 
@@ -758,7 +758,7 @@ Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance
 
 Anchored Artifacts: A-1235.3
 Mentions: N-3, N-69, N-84
-Related Nodes: N-1237
+Related Nodes: N-10237
 Investigative Direction: Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).
 
 ---
@@ -771,7 +771,7 @@ Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and
 
 Anchored Artifacts: A-1235.4
 Mentions: N-3, N-71
-Related Nodes: N-1239
+Related Nodes: N-10239
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
 ---
@@ -784,7 +784,7 @@ Claim: Per a tip relayed by Candace, George Zinn has potential familial connecti
 
 Anchored Artifacts: A-1235.5
 Mentions: N-3, N-71
-Related Nodes: N-1236
+Related Nodes: N-10236
 Investigative Direction: Identify which federal department is implicated; obtain any employment / family records.
 
 ---

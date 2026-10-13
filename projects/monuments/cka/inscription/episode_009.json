@@ -56,7 +56,7 @@
             "N-3",
             "N-59",
             "N-157",
-            "N-1179"
+            "N-10179"
           ],
           "tags": [],
           "video_timestamp": "00:13:36–00:14:46",
@@ -81,8 +81,8 @@
           ],
           "related_nodes": [
             "N-148",
-            "N-1186",
-            "N-1177"
+            "N-10186",
+            "N-10177"
           ],
           "tags": [],
           "video_timestamp": "00:22:24–00:26:26",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-148",
-            "N-1186"
+            "N-10186"
           ],
           "tags": [],
           "video_timestamp": "00:23:37–00:24:29",
@@ -132,7 +132,7 @@
           ],
           "related_nodes": [
             "N-148",
-            "N-1177"
+            "N-10177"
           ],
           "tags": [],
           "video_timestamp": "00:24:53–00:25:45",
@@ -158,9 +158,9 @@
           "related_nodes": [
             "N-2",
             "N-75",
-            "N-1188",
-            "N-1189",
-            "N-1183"
+            "N-10188",
+            "N-10189",
+            "N-10183"
           ],
           "tags": [],
           "video_timestamp": "00:34:05–00:35:43",
@@ -191,7 +191,7 @@
             "N-151",
             "N-152",
             "N-153",
-            "N-1185"
+            "N-10185"
           ],
           "tags": [],
           "video_timestamp": "00:31:04–00:32:56",
@@ -216,7 +216,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1190"
+            "N-10190"
           ],
           "tags": [],
           "video_timestamp": "00:27:59–00:28:39",
@@ -241,7 +241,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1179"
+            "N-10179"
           ],
           "tags": [],
           "video_timestamp": "00:15:00–00:17:11",
@@ -267,7 +267,7 @@
           "related_nodes": [
             "N-69",
             "N-159",
-            "N-1176"
+            "N-10176"
           ],
           "tags": [],
           "video_timestamp": "00:43:41–00:44:23",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1175",
-      "ref": "N-1175",
+      "@id": "N-10175",
+      "ref": "N-10175",
       "name": "FBI Case Closure Pressure",
       "type": "topic",
       "description": "Host claims FBI pressuring Utah authorities to rule lone-gunman.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1176",
-      "ref": "N-1176",
+      "@id": "N-10176",
+      "ref": "N-10176",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "topic",
       "description": "Host's source: no roof video, fragmented bullet, no confession, gun-arrival unrecorded.",
@@ -818,8 +818,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1177",
-      "ref": "N-1177",
+      "@id": "N-10177",
+      "ref": "N-10177",
       "name": "Crooks Federal-Radar Question",
       "type": "topic",
       "description": "Was Crooks known to feds pre-attempt given extensive violent online history?",
@@ -842,8 +842,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1178",
-      "ref": "N-1178",
+      "@id": "N-10178",
+      "ref": "N-10178",
       "name": "Lone-Shooter Narrative Critique",
       "type": "topic",
       "description": "Host argues lone-shooter framing obscures networks; cites Crooks + Kirk cases.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1179",
-      "ref": "N-1179",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Beehive Code / School Underground Premonition",
       "type": "topic",
       "description": "Candace's Aug 30–Sep 2 premonition of school-linked 'bee' underground.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1180",
-      "ref": "N-1180",
+      "@id": "N-10180",
+      "ref": "N-10180",
       "name": "Utah Beehive Symbolism",
       "type": "topic",
       "description": "Hexagonal beehive flag tied to Mormon pioneer 'common good' / Soviet worker-bee imagery.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1181",
-      "ref": "N-1181",
+      "@id": "N-10181",
+      "ref": "N-10181",
       "name": "Soviet Education Infiltration",
       "type": "topic",
       "description": "Host thesis: US public schools shaped by 1848 communist ideology; references Sowell & Schurz.",
@@ -912,8 +912,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1182",
-      "ref": "N-1182",
+      "@id": "N-10182",
+      "ref": "N-10182",
       "name": "MK Ultra Continuity Theory",
       "type": "topic",
       "description": "Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.",
@@ -930,8 +930,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1183",
-      "ref": "N-1183",
+      "@id": "N-10183",
+      "ref": "N-10183",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
       "type": "topic",
       "description": "Alleged curse placed via Etsy witches; Kirk family consulted Catholic priest.",
@@ -950,8 +950,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1184",
-      "ref": "N-1184",
+      "@id": "N-10184",
+      "ref": "N-10184",
       "name": "Candace UK Premonition / Husband Meeting",
       "type": "topic",
       "description": "18-day engagement after UK trip she felt compelled to take with Charlie.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1185",
-      "ref": "N-1185",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Jimmy Kimmel Free-Speech Defense",
       "type": "topic",
       "description": "Kimmel thanks right-wing voices; Candace opposes gov't speech overreach.",
@@ -990,8 +990,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1186",
-      "ref": "N-1186",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "Crooks Ideological Transformation",
       "type": "topic",
       "description": "Host documents Crooks' shift from pro-Trump to anti-Trump around 2020.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1187",
-      "ref": "N-1187",
+      "@id": "N-10187",
+      "ref": "N-10187",
       "name": "Eyewitness Roof-Description Discrepancy",
       "type": "topic",
       "description": "Host: eyewitness told her shooter was in tactical gear, gun mismatched.",
@@ -1030,8 +1030,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1003",
-      "ref": "N-1003",
+      "@id": "N-10003",
+      "ref": "N-10003",
       "name": "MK Ultra",
       "type": "organization",
       "description": "CIA program (1950s-60s); host asserts it was never discontinued.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1188",
-      "ref": "N-1188",
+      "@id": "N-10188",
+      "ref": "N-10188",
       "name": "Jezebel",
       "type": "organization",
       "description": "Far-left website that declared mission to curse Charlie Kirk.",
@@ -1066,8 +1066,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1189",
-      "ref": "N-1189",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "Etsy",
       "type": "organization",
       "description": "Host cites platform offering witch-hex services used by Jezebel.",
@@ -1084,8 +1084,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1077",
-      "ref": "N-1077",
+      "@id": "N-10077",
+      "ref": "N-10077",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Site of Charlie Kirk assassination, Sept 10, 2025.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1190",
-      "ref": "N-1190",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Riverbend Ranch",
       "type": "organization",
       "description": "Sponsor; produced audio tribute to Charlie Kirk.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1191",
-      "ref": "N-1191",
+      "@id": "N-10191",
+      "ref": "N-10191",
       "name": "Utah",
       "type": "place",
       "description": "Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1192",
-      "ref": "N-1192",
+      "@id": "N-10192",
+      "ref": "N-10192",
       "name": "London / UK",
       "type": "place",
       "description": "Destination of Candace's premonition UK trip; meeting site for husband.",
@@ -1152,8 +1152,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1193",
-      "ref": "N-1193",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Poland",
       "type": "place",
       "description": "Source of communist underground symbol found online by Candace.",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1194",
-      "ref": "N-1194",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "Germany (1848 reference)",
       "type": "place",
       "description": "Host cites 1848 communist uprising; kindergarten-establishment origin.",
@@ -1218,8 +1218,8 @@
         "A-1155.1"
       ],
       "related_nodes": [
-        "N-1184",
-        "N-1192"
+        "N-10184",
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:09:13",
@@ -1241,7 +1241,7 @@
         "A-1155.2"
       ],
       "related_nodes": [
-        "N-1179"
+        "N-10179"
       ],
       "tags": [],
       "claim_timestamp": "00:14:15",
@@ -1262,9 +1262,9 @@
       "claim": "Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1003",
-        "N-1182",
-        "N-1178"
+        "N-10003",
+        "N-10182",
+        "N-10178"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
@@ -1285,10 +1285,10 @@
         "A-1156.1"
       ],
       "related_nodes": [
-        "N-1177",
-        "N-1186",
-        "N-1003",
-        "N-1182"
+        "N-10177",
+        "N-10186",
+        "N-10003",
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -1328,7 +1328,7 @@
         "A-1156.3"
       ],
       "related_nodes": [
-        "N-1186"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:23:37",
@@ -1349,7 +1349,7 @@
         "A-1156.4"
       ],
       "related_nodes": [
-        "N-1177"
+        "N-10177"
       ],
       "tags": [],
       "claim_timestamp": "00:24:53",
@@ -1370,9 +1370,9 @@
         "A-1157.1"
       ],
       "related_nodes": [
-        "N-1188",
-        "N-1189",
-        "N-1183"
+        "N-10188",
+        "N-10189",
+        "N-10183"
       ],
       "tags": [],
       "claim_timestamp": "00:34:05",
@@ -1395,7 +1395,7 @@
         "A-1158.1"
       ],
       "related_nodes": [
-        "N-1185"
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:31:04",
@@ -1422,7 +1422,7 @@
         "A-1159.1"
       ],
       "related_nodes": [
-        "N-1190"
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:27:59",
@@ -1443,10 +1443,10 @@
         "A-1160.1"
       ],
       "related_nodes": [
-        "N-1179",
-        "N-1194",
-        "N-1181",
-        "N-1193"
+        "N-10179",
+        "N-10194",
+        "N-10181",
+        "N-10193"
       ],
       "tags": [],
       "claim_timestamp": "00:15:00",
@@ -1469,7 +1469,7 @@
         "A-1161.1"
       ],
       "related_nodes": [
-        "N-1176"
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:43:41",
@@ -1489,9 +1489,9 @@
       "claim": "Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1079",
-        "N-1175",
-        "N-1191"
+        "N-10079",
+        "N-10175",
+        "N-10191"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -1510,7 +1510,7 @@
       "claim": "Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1176"
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:03:40",
@@ -1530,7 +1530,7 @@
       "claim": "Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1176"
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
@@ -1549,9 +1549,9 @@
       "claim": "Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1079",
-        "N-1077",
-        "N-1176"
+        "N-10079",
+        "N-10077",
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:05:13",
@@ -1570,7 +1570,7 @@
       "claim": "Host's source says prints other than Tyler Robinson's were also on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1176"
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:07:58",
@@ -1589,7 +1589,7 @@
       "claim": "Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1187"
+        "N-10187"
       ],
       "tags": [],
       "claim_timestamp": "00:03:46",

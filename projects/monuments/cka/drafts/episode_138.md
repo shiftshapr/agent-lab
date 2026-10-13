@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2179, N-2180, N-2181, N-2182, N-2183, N-2184
+  - New Nodes Introduced: N-11179, N-11180, N-11181, N-11182, N-11183, N-11184
   - Reused Nodes Appearing: N-2, N-808, N-3, N-69, N-84, N-1
   - (see registers)
 
@@ -19,7 +19,7 @@
 
 This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named "Protecting Mrs. Kirk" is presented via screenshots/quotes from X user "Shady Lady Katie," which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged "lies and omissions" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips – Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx – are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.
 
-Structurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-2179), introduces a fresh movement-timeline target on Nate Walker (N-2180), and consolidates Tyler Robinson case-claim tracking under N-2181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).
+Structurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-11179), introduces a fresh movement-timeline target on Nate Walker (N-11180), and consolidates Tyler Robinson case-claim tracking under N-11181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).
 
 ---
 
@@ -35,7 +35,7 @@ Video Timestamp: 00:17:35–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air with quoted content)
 
-*Related: C-3222, C-3223, C-3235, N-2179*
+*Related: C-3222, C-3223, C-3235, N-11179*
 
 **A-2246.2** Second X post by "Shady Lady Katie" detailing group activities: background checks, account reporting, sharing Candace Owens' home address, "coordinated efforts" against Owens
 
@@ -45,7 +45,7 @@ Video Timestamp: 00:19:12–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-3223, C-3235, N-2179*
+*Related: C-3223, C-3235, N-11179*
 
 ---
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:13:35–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image referenced and described on air)
 
-*Related: C-3224, N-2182*
+*Related: C-3224, N-11182*
 
 ---
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:23:50–00:24:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-2180*
+*Related: C-3225, N-11180*
 
 **A-2248.2** Surveillance/event footage frame: Nate Walker near Hall's walkway, putting on sunglasses, no bag, at approximately 12:25 (described as ~1 minute 45 seconds after A-2248.1)
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:25:00–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-2180*
+*Related: C-3225, N-11180*
 
 **A-2248.3** Surveillance/event footage frame: Nate Walker walking downstairs, approximately two minutes after A-2248.2
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:25:35–00:25:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-2180*
+*Related: C-3225, N-11180*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:44:38–00:45:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3228, N-2184*
+*Related: C-3228, N-11184*
 
 **A-2251.2** Segment in which Piers Morgan states Mississippi-area law enforcement and sheriffs report no records, police reports, or unsolved homicides matching Victor Marx's account of a killing at age 7; Marx states his stepfather held his hand on a pistol pointed at a handcuffed, kneeling "homeless fellow"; Marx acknowledges he has studied false memories and that false memory formation is "possible"
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:45:49–00:47:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3229, C-3230, C-3231, N-2184*
+*Related: C-3229, C-3230, C-3231, N-11184*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:50:29–00:51:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-2181, N-2*
+*Related: N-11181, N-2*
 
 **A-2253.2** Comment: "Blake Nef's anger single-handedly makes the entire TPUSA look completely guilty."
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:51:20–00:51:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-2181*
+*Related: N-11181*
 
 **A-2253.3** Comment by "True Detective": describes Charlie Kirk's stated desire to be remembered for the courage of his faith; commenter states this inspired OCIA enrollment and Easter baptism in the Roman Catholic Church.
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:54:33–00:55:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3235, N-2179*
+*Related: C-3235, N-11179*
 
 **A-2253.5** Comment by "Ben the Beast": asks for host's thoughts on Andrew Tate's most recent arrest; calls it a "Matrix attack."
 
@@ -268,11 +268,11 @@ Claim Count: (see series ledger)
 Episode Count: (see series ledger)
 Investigative Pressure: High
 
-*Related: A-2253.3, C-3222, N-2181*
+*Related: A-2253.3, C-3222, N-11181*
 
 ---
 
-**N-2179** "Protecting Mrs. Kirk" Group Chat Investigation
+**N-11179** "Protecting Mrs. Kirk" Group Chat Investigation
 
 Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erica Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.
 
@@ -285,7 +285,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2180** Nate Walker Movement Timeline (12:15–12:27)
+**N-11180** Nate Walker Movement Timeline (12:15–12:27)
 
 Persistent investigative target: documented transition of an assistant associated with Charlie Kirk's pre-event logistics from a ground-floor position with bag (~12:15) to an upstairs walkway position without bag (~12:25) to a stairwell re-entry (~12:27). Documentary basis: A-2248.1–A-2248.3.
 
@@ -298,7 +298,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2181** Tyler Robinson Case Evidence Inventory
+**N-11181** Tyler Robinson Case Evidence Inventory
 
 Persistent investigative target across the series: the host's running list of alleged lies, omissions, and unproven narrative claims in the Tyler Robinson case (father-turn-in narrative, 4K footage claim, motive claims, DNA claims, gun-tie-to-bullet claim, SD-card/hard-drive transfer, etc.). Within this episode, the items anchored to displayed or quoted artifacts are limited; the bulk remains host commentary pending artifact support in future episodes.
 
@@ -311,7 +311,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2182** Lance Phone Screen-Damage Timestamp Verification
+**N-11182** Lance Phone Screen-Damage Timestamp Verification
 
 Persistent investigative target: condition of Lance's phone at the time of police imaging, specifically whether the screen damage in the status-bar region obscures the timestamp that would establish when the police photographed the alleged text messages (A-2247.1).
 
@@ -320,11 +320,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2247.1, C-3224, N-2181*
+*Related: A-2247.1, C-3224, N-11181*
 
 ---
 
-**N-2183** Officer Bagley – Sex Crimes Unit Background
+**N-11183** Officer Bagley – Sex Crimes Unit Background
 
 Persistent investigative target: host's verbal disclosure that Officer Bagley, previously a subject in the series, was employed by the Utah County Sheriff's Office in the sex crimes detective unit prior to his UVU role. Presented verbally in this episode without an attached documentary artifact.
 
@@ -337,7 +337,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2184** Victor Marx Biographical Claims Verification
+**N-11184** Victor Marx Biographical Claims Verification
 
 Persistent investigative target: factual verification of Victor Marx's childhood accounts (cat decapitation at age 3; shooting of a man at age 7). In this episode, the artifact basis is his own on-air admissions to Piers Morgan (A-2251.1, A-2251.2) and Morgan's statement that Mississippi-area law enforcement has no matching records.
 
@@ -361,7 +361,7 @@ Claim: An X-coordinated group chat named "Protecting Mrs. Kirk" contained 92 mem
 Anchored Artifacts: A-2246.1
 Mentions: N-2, N-3
 
-Related Nodes: N-2179
+Related Nodes: N-11179
 
 Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity.
 
@@ -376,7 +376,7 @@ Claim: Members of the "Protecting Mrs. Kirk" group chat shared Candace Owens' ho
 Anchored Artifacts: A-2246.1, A-2246.2
 Mentions: N-3
 
-Related Nodes: N-2179
+Related Nodes: N-11179
 
 Investigative Direction: Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports.
 
@@ -391,7 +391,7 @@ Claim: The phone of Lance (referenced in the Tyler Robinson preliminary-hearing 
 Anchored Artifacts: A-2247.1
 Mentions: N-69
 
-Related Nodes: N-2181, N-2182
+Related Nodes: N-11181, N-11182
 
 Investigative Direction: Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.
 
@@ -406,7 +406,7 @@ Claim: Footage shows Nate Walker present in a bright blue shirt with bag speakin
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
 Mentions: N-1, N-434, N-808
 
-Related Nodes: N-2180
+Related Nodes: N-11180
 
 Investigative Direction: Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.
 
@@ -449,7 +449,7 @@ Claim: In his Piers Morgan interview, Victor Marx stated that at age 3, his step
 Anchored Artifacts: A-2251.1
 Mentions: N-298, N-569
 
-Related Nodes: N-2184
+Related Nodes: N-11184
 
 Investigative Direction: Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings.
 
@@ -464,7 +464,7 @@ Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his step
 Anchored Artifacts: A-2251.2
 Mentions: N-298, N-569
 
-Related Nodes: N-2184
+Related Nodes: N-11184
 
 Investigative Direction: Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible.
 
@@ -479,7 +479,7 @@ Claim: When asked by Piers Morgan whether false memories could account for his c
 Anchored Artifacts: A-2251.2
 Mentions: N-298, N-569
 
-Related Nodes: N-2184
+Related Nodes: N-11184
 
 Investigative Direction: Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration.
 
@@ -494,7 +494,7 @@ Claim: Piers Morgan stated during the interview that local law enforcement and s
 Anchored Artifacts: A-2251.2
 Mentions: N-298, N-569
 
-Related Nodes: N-2184
+Related Nodes: N-11184
 
 Investigative Direction: Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations.
 
@@ -538,7 +538,7 @@ Claim: The host asserts that the "Protecting Mrs. Kirk" group chat was organized
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
 Mentions: N-2, N-3
 
-Related Nodes: N-2179
+Related Nodes: N-11179
 
 Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.
 
@@ -555,7 +555,7 @@ Claim: A commenter on the show acknowledges that Candace Owens' home address has
 Anchored Artifacts: A-2246.1, A-2253.4
 Mentions: N-3
 
-Related Nodes: N-2179
+Related Nodes: N-11179
 
 Investigative Direction: Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.
 
@@ -571,7 +571,7 @@ Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you 
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-84
-Related Nodes: N-2181
+Related Nodes: N-11181
 Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
 
 ---
@@ -586,7 +586,7 @@ Transcript Snippet: We were told that Tyler Robinson's gun was officially tied t
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-1
-Related Nodes: N-2181
+Related Nodes: N-11181
 Investigative Direction: Obtain the ATF examiner's preliminary-hearing testimony and the lab report on the fragments.
 
 ---

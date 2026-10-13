@@ -29,7 +29,7 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
   - Claim Range: C-1695–C-1715
-  - New Nodes Introduced: N-392, N-394, N-395, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-1319, N-1320, N-1321, N-1322, N-1323
+  - New Nodes Introduced: N-392, N-394, N-395, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-10319, N-10320, N-10321, N-10322, N-10323
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave1b): N-587
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
@@ -140,7 +140,7 @@ Video Timestamp: 00:14:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-source, redacted, unverified)
 
-*Related: C-1702, N-392, N-394, N-1319*
+*Related: C-1702, N-392, N-394, N-10319*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:28:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source; host claims to have in writing)
 
-*Related: C-1703, C-1704, C-1705, C-1706, N-396, N-400, N-1319, N-1320*
+*Related: C-1703, C-1704, C-1705, C-1706, N-396, N-400, N-10319, N-10320*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1709, N-1321*
+*Related: C-1709, N-10321*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:44:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1710, C-1711, N-402, N-1321*
+*Related: C-1710, C-1711, N-402, N-10321*
 
 ---
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1715, N-1322*
+*Related: C-1715, N-10322*
 
 ---
 
@@ -286,7 +286,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-1695, C-1696, C-1697, C-1698, C-1699, C-1700, C-1701, C-1702, C-1706, C-1707, N-394, N-395, N-1319*
+*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-1695, C-1696, C-1697, C-1698, C-1699, C-1700, C-1701, C-1702, C-1706, C-1707, N-394, N-395, N-10319*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1402.1, A-1406.1, C-1700, C-1703, C-1704, C-1705, N-1320*
+*Related: A-1402.1, A-1406.1, C-1700, C-1703, C-1704, C-1705, N-10320*
 
 ---
 
@@ -377,7 +377,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1405.1, N-392, N-1319*
+*Related: A-1405.1, N-392, N-10319*
 
 ---
 
@@ -416,7 +416,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1410.1, C-1710, C-1711, N-1321*
+*Related: A-1410.1, C-1710, C-1711, N-10321*
 
 ---
 
@@ -461,7 +461,7 @@ Investigative Pressure: Medium
 
 ### Investigation Targets
 
-**N-1319** Calvary Chapel Network Infiltration Question
+**N-10319** Calvary Chapel Network Infiltration Question
 
 Persistent investigation into whether multiple Calvary Chapel congregations and their leadership are participating in coordinated financial exploitation, tithing redirection, and intelligence-linked activity. Triggered by Brett Cooper segment, viewer email, and Courtney Love text messages.
 
@@ -474,7 +474,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1320** "Mormon Mafia" Allegation
+**N-10320** "Mormon Mafia" Allegation
 
 Investigative target: alleged coordinating entity above Hollywood and "Zionist Jews" identified in Courtney Love text messages of January 2025. Single-source, unverified.
 
@@ -487,7 +487,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1321** Charlie Kirk Event – Maroon Shirt Individual Identification
+**N-10321** Charlie Kirk Event – Maroon Shirt Individual Identification
 
 Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.
 
@@ -500,7 +500,7 @@ Investigative Pressure: High
 
 ---
 
-**N-1322** TPUSA Faith-Angle Investigation
+**N-10322** TPUSA Faith-Angle Investigation
 
 Persistent investigation target: pattern in which TPUSA-associated reporting/disputes focus on matters of religious affiliation (Catholicism, Calvary Chapel, faith-based leadership).
 
@@ -513,7 +513,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1323** Potter's Fields Hostile Takeover Allegation
+**N-10323** Potter's Fields Hostile Takeover Allegation
 
 Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).
 
@@ -522,7 +522,7 @@ Claim Count: 0 (claim deferred pending evidence presentation)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1405.1 (peripheral), N-1319*
+*Related: A-1405.1 (peripheral), N-10319*
 
 ---
 
@@ -565,7 +565,7 @@ Claim: Per Brett Cooper citing a 2010 financial document, Mr. Spears gave approx
 Anchored Artifacts: A-1399.2, A-1403.1
 Mentions: N-392, N-395, N-335
 
-Related Nodes: N-1319
+Related Nodes: N-10319
 
 Investigative Direction: Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.
 
@@ -636,7 +636,7 @@ Claim: Per partially redacted viewer email read on air, the sender alleges the C
 Anchored Artifacts: A-1405.1
 Mentions: N-392, N-394, N-45
 
-Related Nodes: N-1319
+Related Nodes: N-10319
 
 Investigative Direction: Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.
 
@@ -651,7 +651,7 @@ Claim: Per Courtney Love text messages to host (Jan 2025), she was given LSD as 
 Anchored Artifacts: A-1406.1
 Mentions: N-396
 
-Related Nodes: N-1320
+Related Nodes: N-10320
 
 Investigative Direction: Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.
 
@@ -680,7 +680,7 @@ Claim: Per Courtney Love text messages (Jan 2025), she alleges a "Mormon mafia" 
 Anchored Artifacts: A-1406.1
 Mentions: N-396
 
-Related Nodes: N-1319, N-1320
+Related Nodes: N-10319, N-10320
 
 Investigative Direction: Single-source; corroboration required before inscription as fact.
 
@@ -695,7 +695,7 @@ Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is conn
 Anchored Artifacts: A-1406.1
 Mentions: N-392, N-587, N-396
 
-Related Nodes: N-1319
+Related Nodes: N-10319
 
 Investigative Direction: Review corporate filings of the named "church home" entity; cross-reference any disclosed business relationships.
 
@@ -738,7 +738,7 @@ Claim: Per host description of viewer-submitted photo and clip, an individual we
 Anchored Artifacts: A-1409.1, A-1409.2, A-1411.1
 Mentions: N-1, N-382
 
-Related Nodes: N-1321
+Related Nodes: N-10321
 
 Investigative Direction: Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.
 
@@ -753,7 +753,7 @@ Claim: Per host, "Samir" publicly posted a photo alongside the maroon shirt indi
 Anchored Artifacts: A-1410.1
 Mentions: N-402
 
-Related Nodes: N-1321
+Related Nodes: N-10321
 
 Investigative Direction: Identify the second individual in the Samir photo; confirm BYU attendance.
 
@@ -824,7 +824,7 @@ Claim: Per replayed audio clip, Charlie Kirk stated that one wants friends who t
 Anchored Artifacts: A-1414.1
 Mentions: N-1
 
-Related Nodes: N-1322
+Related Nodes: N-10322
 
 Investigative Direction: Verify timestamp/date of original recording; confirm via original footage.
 
@@ -901,7 +901,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-392 onward)
-- [x] Non-person investigation targets use the 1000 series (N-1319 onward)
+- [x] Non-person investigation targets use the 1000 series (N-10319 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent with protocol

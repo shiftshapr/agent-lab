@@ -12,8 +12,8 @@
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364
-  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-628, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-36, N-41, N-46, N-30, N-47, N-48, N-49, N-51, N-52, N-53, N-54, N-57, N-58, N-182, N-209, N-225
+  - New Nodes Introduced: N-11360, N-11361, N-11362, N-11363, N-11364
+  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-628, N-224, N-10098, N-10121, N-10395, N-10459, N-11329, N-11350, N-11351, N-11354, N-11355, N-11357, N-11359, N-36, N-41, N-46, N-30, N-47, N-48, N-49, N-51, N-52, N-53, N-54, N-57, N-58, N-182, N-209, N-225
   - Hole-minted Nodes (remap-ep159): N-178, N-213, N-215, N-223
   - (see registers)
   - Person band: persons minted in this quality pass use N-30+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-443. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -53,7 +53,7 @@ Video Timestamp: 00:02:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as shown/read); Medium (leak provenance)
 
-*Related: C-3608, N-2360, N-2*
+*Related: C-3608, N-11360, N-2*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:15:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown); Medium (payment-total discrepancy interpretation)
 
-*Related: C-3609, N-2361, N-52*
+*Related: C-3609, N-11361, N-52*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown)
 
-*Related: C-3610, N-2361, N-2354, N-2351, N-47*
+*Related: C-3610, N-11361, N-11354, N-11351, N-47*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:23:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite); High for individually sourced bullets as cited
 
-*Related: C-3611, C-3612, N-2362, N-2354, N-2359, N-1395, N-1098*
+*Related: C-3611, C-3612, N-11362, N-11354, N-11359, N-10395, N-10098*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-58*
+*Related: C-3612, N-11362, N-10395, N-4, N-102, N-120, N-867, N-58*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:47:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (transcript-as-read); Medium (full context beyond excerpt)
 
-*Related: C-3613, N-2363, N-50*
+*Related: C-3613, N-11363, N-50*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link–host speculation)
 
-*Related: C-3614, N-2364, N-69, N-2, N-53, N-54*
+*Related: C-3614, N-11364, N-69, N-2, N-53, N-54*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read); Medium (Telegram dual-account allegation)
 
-*Related: C-3615, C-3616, N-2360, N-272, N-1121, N-2355, N-46*
+*Related: C-3615, C-3616, N-11360, N-272, N-10121, N-11355, N-46*
 
 ---
 
@@ -158,7 +158,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3610, C-3611, C-3612, A-2468.1, N-2362*
+*Related: C-3610, C-3611, C-3612, A-2468.1, N-11362*
 
 ---
 
@@ -170,7 +170,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3608, C-3615, A-2466.1, N-2360*
+*Related: C-3608, C-3615, A-2466.1, N-11360*
 
 ---
 
@@ -182,7 +182,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2359, N-2362*
+*Related: C-3611, N-11359, N-11362*
 
 ---
 
@@ -194,7 +194,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, N-1395, N-2362*
+*Related: C-3612, N-10395, N-11362*
 
 ---
 
@@ -218,7 +218,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-1098, N-2354*
+*Related: C-3611, N-10098, N-11354*
 
 ---
 
@@ -230,7 +230,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-2359, N-2362*
+*Related: N-11359, N-11362*
 
 ---
 
@@ -242,7 +242,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3614, N-2364, A-2472.1*
+*Related: C-3614, N-11364, A-2472.1*
 
 ---
 
@@ -254,7 +254,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-1098*
+*Related: C-3611, N-10098*
 
 ---
 
@@ -266,7 +266,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, C-3612, N-2362*
+*Related: C-3611, C-3612, N-11362*
 
 ---
 
@@ -278,7 +278,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, A-2470.1, N-2362*
+*Related: C-3612, A-2470.1, N-11362*
 
 ---
 
@@ -314,7 +314,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3610, C-3611, N-2361*
+*Related: C-3610, C-3611, N-11361*
 
 ---
 
@@ -362,7 +362,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2329, N-434*
+*Related: C-3611, N-11329, N-434*
 
 ---
 
@@ -398,7 +398,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2329*
+*Related: C-3611, N-11329*
 
 ---
 
@@ -410,7 +410,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2362*
+*Related: C-3611, N-11362*
 
 ---
 
@@ -474,7 +474,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-1098** Hamptons Donor Pressure Investigation
+**N-10098** Hamptons Donor Pressure Investigation
 
 Advanced with BB call confirmation, influencer weekend, and Charlie’s Megyn Kelly frustration clip.
 
@@ -482,11 +482,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-65, N-2354*
+*Related: C-3611, N-65, N-11354*
 
 ---
 
-**N-1121** Kirk-Israel Narrative Dispute
+**N-10121** Kirk-Israel Narrative Dispute
 
 Reused for Erika’s post-death silence vs prior private criticism and Charlie’s documented shift.
 
@@ -498,7 +498,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-1395** Epstein Files Release Status
+**N-10395** Epstein Files Release Status
 
 Advanced via repeated situation-room meetings and host return-to-series commitment.
 
@@ -506,11 +506,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, N-35, N-2362*
+*Related: C-3612, N-35, N-11362*
 
 ---
 
-**N-1459** Missing Money from Turning Point Action
+**N-10459** Missing Money from Turning Point Action
 
 Background for host’s sniff-test that Charlie’s late DOGE / missing-money concerns intersect shady sponsor patterns.
 
@@ -518,11 +518,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3609, N-2361*
+*Related: C-3609, N-11361*
 
 ---
 
-**N-2329** Independent Review of UVU Security Failures
+**N-11329** Independent Review of UVU Security Failures
 
 Timeline recap of MEAC insistence, Flood contact, and employee disgust unlocking leaks.
 
@@ -530,11 +530,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2350*
+*Related: C-3611, N-11350*
 
 ---
 
-**N-2350** TPUSA Non-Participation in UVU Independent Review
+**N-11350** TPUSA Non-Participation in UVU Independent Review
 
 Reused as catalyst for employee disgust / document leaks.
 
@@ -542,11 +542,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3609, N-2329*
+*Related: C-3609, N-11329*
 
 ---
 
-**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-11351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Reused inside expanded concurrent timeline.
 
@@ -554,11 +554,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2362, N-36*
+*Related: C-3611, N-11362, N-36*
 
 ---
 
-**N-2354** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-11354** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 Parent frame extended by Why Refi addendum and Epstein situation-room overlays.
 
@@ -566,11 +566,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3610, C-3611, N-2361, N-2362*
+*Related: C-3610, C-3611, N-11361, N-11362*
 
 ---
 
-**N-2355** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-11355** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 Opening callback / vindication frame.
 
@@ -582,7 +582,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2357** Night-of Assassination Aloe Yoga Outfit Directive
+**N-11357** Night-of Assassination Aloe Yoga Outfit Directive
 
 Comment-section callback via office-preservation vs McCoy optics.
 
@@ -594,7 +594,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2359** July 9 2025 Archive of Candace College YouTube Project
+**N-11359** July 9 2025 Archive of Candace College YouTube Project
 
 Reused in July timeline adjacent to Netanyahu visit and UVU ask.
 
@@ -602,11 +602,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2362*
+*Related: C-3611, N-11362*
 
 ---
 
-**N-2360** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
+**N-11360** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
 
 New topic: leaked Erika Telegram traffic prioritizing wealthy attendees ahead of memorial-adjacent fundraising.
 
@@ -619,7 +619,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2361** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-11361** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
 
 New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.
 
@@ -628,11 +628,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-1459, N-2354, N-47*
+*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-10459, N-11354, N-47*
 
 ---
 
-**N-2362** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)
+**N-11362** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)
 
 New topic: integrated chronology arguing Epstein-file panic, donor warfare, Macron pressure, and UVU booking are non-coincidental.
 
@@ -641,11 +641,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3611, C-3612, A-2469.1, A-2470.1, N-1395, N-2354*
+*Related: C-3611, C-3612, A-2469.1, A-2470.1, N-10395, N-11354*
 
 ---
 
-**N-2363** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
+**N-11363** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
 
 New topic: federal case against autistic Brian Cole Jr.; interrogation coercion narrative; host “patsy” framing.
 
@@ -658,7 +658,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2364** Scripps Media Bodycam Pattern (Robinson + Cole)
+**N-11364** Scripps Media Bodycam Pattern (Robinson + Cole)
 
 New topic: same Scripps investigative pair releasing obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.; host adds Erika daycare-in-Scripps-building note as speculative link.
 
@@ -853,7 +853,7 @@ Claim: Leaked Telegram shows Erika asking who the big hitters are and requesting
 Anchored Artifacts: A-2466.1
 Mentions: N-2
 
-Related Nodes: N-2360
+Related Nodes: N-11360
 
 Investigative Direction: Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date.
 
@@ -868,7 +868,7 @@ Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$
 Anchored Artifacts: A-2467.1
 Mentions: N-47, N-48, N-49, N-51, N-52
 
-Related Nodes: N-1459, N-2361
+Related Nodes: N-10459, N-11361
 
 Investigative Direction: Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.
 
@@ -883,7 +883,7 @@ Claim: Despite the February master deal already covering the year, a July 25 add
 Anchored Artifacts: A-2468.1, A-2467.1
 Mentions: N-47, N-134
 
-Related Nodes: N-2351, N-2354, N-2361
+Related Nodes: N-11351, N-11354, N-11361
 
 Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.
 
@@ -898,7 +898,7 @@ Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram pu
 Anchored Artifacts: A-2469.1
 Mentions: N-5, N-16, N-57, N-65, N-117, N-628
 
-Related Nodes: N-1098, N-2351, N-2354, N-2359, N-2362
+Related Nodes: N-10098, N-11351, N-11354, N-11359, N-11362
 
 Investigative Direction: Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.
 
@@ -913,7 +913,7 @@ Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, hos
 Anchored Artifacts: A-2470.1
 Mentions: N-4, N-35, N-58, N-102, N-120, N-178, N-182, N-209, N-213, N-215, N-223, N-225, N-867, N-446
 
-Related Nodes: N-1395, N-2362
+Related Nodes: N-10395, N-11362
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 
@@ -928,7 +928,7 @@ Claim: Host, following published interrogation narrative and Tucker parents inte
 Anchored Artifacts: A-2471.1
 Mentions: N-50, N-53
 
-Related Nodes: N-2363
+Related Nodes: N-11363
 
 Investigative Direction: Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows.
 
@@ -943,7 +943,7 @@ Claim: Host shows Scripps packages in which the same correspondents present mino
 Anchored Artifacts: A-2472.1
 Mentions: N-2, N-53, N-54, N-69
 
-Related Nodes: N-2364
+Related Nodes: N-11364
 
 ---
 
@@ -953,7 +953,7 @@ Claim Timestamp: 01:00:00
 Claim: Host argues loyalty depends on loyalty to Charlie’s direction: Erika’s silence/glowing Israel partnerships and collaboration with figures like Andrew Wilson (text leaks) after allegedly being more critical than Charlie privately registers as betrayal of Charlie’s late trajectory.
 Anchored Artifacts: A-2473.1
 Mentions: N-1, N-2, N-46
-Related Nodes: N-1121, N-2355
+Related Nodes: N-10121, N-11355
 Investigative Direction: Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting.
 
 ---
@@ -964,7 +964,7 @@ Claim Timestamp: 01:03:21
 Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
 Anchored Artifacts: A-2473.1, A-2466.1
 Mentions: N-1, N-2, N-42, N-46
-Related Nodes: N-2360
+Related Nodes: N-11360
 Investigative Direction: Forensic Telegram export if ever obtained; until then keep as sourced allegation.
 
 ---

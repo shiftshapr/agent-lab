@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-1246"
+            "N-10246"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,7 +60,7 @@
           ],
           "related_nodes": [
             "N-247",
-            "N-1248"
+            "N-10248"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -107,7 +107,7 @@
           "related_nodes": [
             "N-247",
             "N-248",
-            "N-1248"
+            "N-10248"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -134,8 +134,8 @@
           ],
           "related_nodes": [
             "N-248",
-            "N-1246",
-            "N-1247"
+            "N-10246",
+            "N-10247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
             "C-1439"
           ],
           "related_nodes": [
-            "N-1247"
+            "N-10247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -296,7 +296,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1246"
+        "N-10246"
       ]
     },
     {
@@ -328,7 +328,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-248",
-        "N-1248"
+        "N-10248"
       ]
     },
     {
@@ -350,8 +350,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1246",
-        "N-1247"
+        "N-10246",
+        "N-10247"
       ]
     },
     {
@@ -371,7 +371,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1249"
+        "N-10249"
       ]
     },
     {
@@ -392,7 +392,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ]
     },
     {
@@ -455,8 +455,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1246",
-      "ref": "N-1246",
+      "@id": "N-10246",
+      "ref": "N-10246",
       "name": "Bullet Trajectory and Caliber Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether the recovered projectile was a .30-06, where the fragment was recovered, and whether the death certificate reflects it.",
@@ -481,8 +481,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1247",
-      "ref": "N-1247",
+      "@id": "N-10247",
+      "ref": "N-10247",
       "name": "Multiple Shooter Theory",
       "type": "investigation_target",
       "description": "Persistent target: whether more than one shooter / weapon was involved at the Utah Valley event.",
@@ -506,8 +506,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1248",
-      "ref": "N-1248",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Cooper Brown Identity Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying Cooper Brown's institutional affiliation, biographical claims, and presence at the event.",
@@ -535,8 +535,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1249",
-      "ref": "N-1249",
+      "@id": "N-10249",
+      "ref": "N-10249",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
       "type": "investigation_target",
       "description": "Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.",
@@ -555,8 +555,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1250",
-      "ref": "N-1250",
+      "@id": "N-10250",
+      "ref": "N-10250",
       "name": "Caldera Engineering Background Investigation",
       "type": "investigation_target",
       "description": "Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1251",
-      "ref": "N-1251",
+      "@id": "N-10251",
+      "ref": "N-10251",
       "name": "Plane N1098L Investigation",
       "type": "investigation_target",
       "description": "Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.",
@@ -592,13 +592,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1255"
+        "N-10255"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1252",
-      "ref": "N-1252",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "Plane 888 / Maxwell Plane Investigation",
       "type": "investigation_target",
       "description": "Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxwell.",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1253",
-      "ref": "N-1253",
+      "@id": "N-10253",
+      "ref": "N-10253",
       "name": "Josh Hammer Text Messages Context",
       "type": "investigation_target",
       "description": "Persistent target: chronological placement and substantive content of the released text exchange relative to Charlie Kirk's known Israel-related shift.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1254",
-      "ref": "N-1254",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Leadership Institute (entity)",
       "type": "investigation_target",
       "description": "Organization identified by Cooper Brown as his employer and described by host as working \"hand-in-hand\" with TPUSA, YAL, and Students for Life on conservative coalition events.",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1255",
-      "ref": "N-1255",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "Las Vegas Aviation LLC (entity)",
       "type": "investigation_target",
       "description": "Company identified by host as the owner/contractor of plane N1098L.",
@@ -685,13 +685,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1251"
+        "N-10251"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1256",
-      "ref": "N-1256",
+      "@id": "N-10256",
+      "ref": "N-10256",
       "name": "Signature FBO / Millionaire FBO (entity cluster)",
       "type": "investigation_target",
       "description": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.",
@@ -706,7 +706,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ]
     },
     {
@@ -816,7 +816,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:03:37",
@@ -836,7 +836,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:05:03",
@@ -855,7 +855,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:06:02",
@@ -875,7 +875,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:02:50",
@@ -894,7 +894,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-1246"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:03:01",
@@ -913,7 +913,7 @@
         "A-1252.1"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -933,7 +933,7 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:12:02",
@@ -952,8 +952,8 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-1254",
-        "N-1248"
+        "N-10254",
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
@@ -972,7 +972,7 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
@@ -991,7 +991,7 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:13:58",
@@ -1010,7 +1010,7 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:14:50",
@@ -1029,7 +1029,7 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
@@ -1048,7 +1048,7 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-1248"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
@@ -1067,8 +1067,8 @@
         "A-1254.1"
       ],
       "related_nodes": [
-        "N-1246",
-        "N-1247"
+        "N-10246",
+        "N-10247"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -1087,7 +1087,7 @@
         "A-1255.1"
       ],
       "related_nodes": [
-        "N-1247"
+        "N-10247"
       ],
       "tags": [],
       "claim_timestamp": "00:27:27",
@@ -1104,7 +1104,7 @@
       "claim": "Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1249"
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:18:33",
@@ -1121,7 +1121,7 @@
       "claim": "A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1250"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:30:39",
@@ -1135,7 +1135,7 @@
       "claim": "Caldera Engineering was established in 1997.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1250"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:31:26",
@@ -1149,7 +1149,7 @@
       "claim": "A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1250"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:30:39",
@@ -1163,7 +1163,7 @@
       "claim": "The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1250"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:32:52",
@@ -1180,7 +1180,7 @@
       "claim": "A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1251"
+        "N-10251"
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
@@ -1194,8 +1194,8 @@
       "claim": "Plane N1098L was owned/contracted by Las Vegas Aviation LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1251",
-        "N-1255"
+        "N-10251",
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
@@ -1209,7 +1209,7 @@
       "claim": "Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1251"
+        "N-10251"
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
@@ -1223,7 +1223,7 @@
       "claim": "A second plane (with \"888\" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -1241,7 +1241,7 @@
       "claim": "Plane 888's intended destination was Page, Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -1255,7 +1255,7 @@
       "claim": "The ADSB transponder on plane 888 appeared to turn off during the flight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -1269,7 +1269,7 @@
       "claim": "Kash Patel publicly stated that plane 888 never stopped transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
@@ -1286,7 +1286,7 @@
       "claim": "Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
@@ -1303,8 +1303,8 @@
       "claim": "Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252",
-        "N-1256"
+        "N-10252",
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:40:53",
@@ -1318,8 +1318,8 @@
       "claim": "A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1252",
-        "N-1256"
+        "N-10252",
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:41:40",
@@ -1335,7 +1335,7 @@
         "A-1256.1"
       ],
       "related_nodes": [
-        "N-1253"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:45:21",
@@ -1355,7 +1355,7 @@
         "A-1256.1"
       ],
       "related_nodes": [
-        "N-1253"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:45:21",
@@ -1409,7 +1409,7 @@
         "A-1259.1"
       ],
       "related_nodes": [
-        "N-1253"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:53:09",

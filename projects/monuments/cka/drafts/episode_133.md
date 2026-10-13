@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
+ - New Nodes Introduced: N-11153, N-11154, N-11155, N-11156, N-11157
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
 
@@ -32,7 +32,7 @@
  - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204
  - Claim Range: C-3150–C-3161
  - New People Nodes Introduced: none (Wave 2: local ids removed)
- - New Investigation Target Nodes Introduced: N-2153, N-2154, N-2155, N-2156, N-2157
+ - New Investigation Target Nodes Introduced: N-11153, N-11154, N-11155, N-11156, N-11157
  - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.
 
 ---
@@ -55,28 +55,28 @@ Footage displayed in episode depicting an individual on the Losee Center rooftop
 - Video Timestamp: 09:55–16:22
 - Discovery Timestamp: 2025-10 (per host statement "I've been holding on to since October")
 - Confidence Level: Medium (provenance asserted, not externally verified)
-- *Related: C-3150, C-3151, C-3152, C-3153, N-2153, N-2154*
+- *Related: C-3150, C-3151, C-3152, C-3153, N-11153, N-11154*
 
 **A-2198.2** Slowed/zoomed segment showing back-and-forth flash during crawl
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 11:12–11:55
 - Discovery Timestamp: 2025-10
-- *Related: C-3153, N-2153*
+- *Related: C-3153, N-11153*
 
 **A-2198.3** Segment showing "throw forward" / unfolding motion as shooter reaches final position
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 12:10–13:59
 - Discovery Timestamp: 2025-10
-- *Related: C-3150, N-2153*
+- *Related: C-3150, N-11153*
 
 **A-2198.4** Pre-recoil segment – extended 50-second hold immediately preceding shooter's rise and sprint
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 13:37–15:53
 - Discovery Timestamp: 2025-10
-- *Related: C-3152, N-2154*
+- *Related: C-3152, N-11154*
 
 ---
 
@@ -90,7 +90,7 @@ Side-by-side reference clip displayed in episode to compare the rooftop crawl mo
 - Video Timestamp: 10:23–11:12
 - Discovery Timestamp: Unknown
 - Confidence Level: Low (provenance unstated)
-- *Related: C-3150, N-2153*
+- *Related: C-3150, N-11153*
 
 ---
 
@@ -104,21 +104,21 @@ Wikipedia article displayed and read aloud in episode, including the "Relationsh
 - Video Timestamp: 29:26–31:35
 - Discovery Timestamp: 2026-07-29
 - Confidence Level: Medium (live Wikipedia content subject to revision)
-- *Related: C-3154, N-2157*
+- *Related: C-3154, N-11157*
 
 **A-2200.2** Wikipedia reference to February 27, 2006 flight (JFK International → London Luton) on Epstein's plane
 - Event Timestamp: 2006-02-27
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee (per host reading)
 - Video Timestamp: ~30:00–30:41
 - Discovery Timestamp: 2026-07-29
-- *Related: C-3155, N-2157*
+- *Related: C-3155, N-11157*
 
 **A-2200.3** Wikipedia reference to March 3, 2006 flight (London → New York) on Epstein's plane, naming Jean-Luc Brunel as one of 12 other passengers
 - Event Timestamp: 2006-03-03
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee
 - Video Timestamp: ~30:41–31:35
 - Discovery Timestamp: 2026-07-29
-- *Related: C-3156, N-2157*
+- *Related: C-3156, N-11157*
 
 ---
 
@@ -132,7 +132,7 @@ Text message read aloud in episode from court-record source.
 - Video Timestamp: 19:07–20:08
 - Discovery Timestamp: Unknown
 - Confidence Level: High (verbatim read; appears to be entered court record)
-- *Related: C-3157, N-2155*
+- *Related: C-3157, N-11155*
 
 ---
 
@@ -216,7 +216,7 @@ Comments read aloud from previous episode's comment section.
 
 ### Investigation Target Nodes
 
-**N-2153** Rooftop Movement Tactical Analysis
+**N-11153** Rooftop Movement Tactical Analysis
 
 Persistent question across episodes regarding the technique, training level, and identity markers of the rooftop individual. In this episode, host asserts footage shows a "lateral crawl" consistent with military tactical training.
 
@@ -229,7 +229,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2154** Weapon Discharge Visual Indicators
+**N-11154** Weapon Discharge Visual Indicators
 
 Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mouser family heirloom).
 
@@ -242,7 +242,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2155** K9 Scent Tracking Discrepancy
+**N-11155** K9 Scent Tracking Discrepancy
 
 Host reports two dogs – Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.
 
@@ -255,7 +255,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2156** Weapon Recovery Officer Chain and NCIS Connection
+**N-11156** Weapon Recovery Officer Chain and NCIS Connection
 
 Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtis (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.
 
@@ -268,7 +268,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2157** Secretary of the Navy Phelan Epstein Flight Connection
+**N-11157** Secretary of the Navy Phelan Epstein Flight Connection
 
 Wikipedia reading indicates Phelan flew twice on Epstein's plane in early 2006, once alongside Jean-Luc Brunel. Host draws broader Epstein-network inferences.
 
@@ -288,7 +288,7 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:09:55–00:11:12
 Claim: The footage shown depicts an individual performing what the host identifies, with reference to a side-by-side military reference clip, as a "lateral crawl."
 Anchored Artifacts: A-2198.1, A-2198.3, A-2199.1
-Related Nodes: N-2153
+Related Nodes: N-11153
 Investigative Direction: Obtain the original unaltered footage, authenticate source chain, and have independent military-tactics experts assess whether the movement matches the lateral-crawl technique as shown in the reference clip.
 
 ---
@@ -298,7 +298,7 @@ Investigative Direction: Obtain the original unaltered footage, authenticate sou
 Claim Timestamp: 00:13:37–00:15:53
 Claim: During the rooftop segment held before the shooter rises to flee, no muzzle flash is clearly visible in the displayed footage.
 Anchored Artifacts: A-2198.1, A-2198.4
-Related Nodes: N-2154
+Related Nodes: N-11154
 Investigative Direction: Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type.
 
 ---
@@ -308,7 +308,7 @@ Investigative Direction: Submit original footage for frame-by-frame forensic ana
 Claim Timestamp: 00:13:37–00:15:53
 Claim: In the displayed footage, the shooter is not shown exhibiting visible recoil or kickback consistent with the alleged weapon (German 98 Mouser family heirloom) at the moment of firing.
 Anchored Artifacts: A-2198.1, A-2198.4
-Related Nodes: N-2154
+Related Nodes: N-11154
 Investigative Direction: Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model.
 
 ---
@@ -318,7 +318,7 @@ Investigative Direction: Frame-by-frame forensic review of original footage; cro
 Claim Timestamp: 00:11:12–00:11:55
 Claim: A flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.
 Anchored Artifacts: A-2198.1, A-2198.2
-Related Nodes: N-2153
+Related Nodes: N-11153
 Investigative Direction: Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.).
 
 ---
@@ -329,7 +329,7 @@ Claim Timestamp: 00:29:26
 Claim: The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled "Relationship with Jeffrey Epstein."
 Anchored Artifacts: A-2200.1
 Mentions: N-35
-Related Nodes: N-2157
+Related Nodes: N-11157
 Investigative Direction: Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.
 
 ---
@@ -340,7 +340,7 @@ Claim Timestamp: 00:30:00–00:30:41
 Claim: The Wikipedia article states that Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport, per passenger manifests released by the U.S. House Committee in October 2025.
 Anchored Artifacts: A-2200.2
 Mentions: N-35
-Related Nodes: N-2157
+Related Nodes: N-11157
 Investigative Direction: Verify against the released October 2025 House Committee manifest documents.
 
 ---
@@ -351,7 +351,7 @@ Claim Timestamp: 00:30:41–00:31:35
 Claim: The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.
 Anchored Artifacts: A-2200.3
 Mentions: N-853
-Related Nodes: N-2157
+Related Nodes: N-11157
 Investigative Direction: Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.
 
 ---
@@ -362,7 +362,7 @@ Claim Timestamp: 00:19:07–00:20:08
 Claim: Tyler Robinson sent a text message stating, "When I checked the area about 3 hours ago, there was an officer with a canine walking nearby the area. I'm hoping that pooch has a bad sniffer."
 Anchored Artifacts: A-2201.1
 Mentions: N-69
-Related Nodes: N-2155
+Related Nodes: N-11155
 Investigative Direction: Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp.
 
 ---
@@ -404,7 +404,7 @@ Investigative Direction: Review medical examiner reports and chain-of-custody re
 Claim Timestamp: 00:51:51
 Claim: Viewer Jacob Morrison asserts the rooftop flash is a signal that the shooter was in position. Host concurs: "Sure did look like a professional."
 Anchored Artifacts: A-2198.2, A-2204.7
-Related Nodes: N-2153, N-2154
+Related Nodes: N-11153, N-11154
 Investigative Direction: Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms.
 
 ---
@@ -436,8 +436,8 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 
 **Claim Range:** C-3150–C-3161
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-1207..N-1211 are topic ids, not these people. Andrew Kolvet is N-42 and Jean-Luc Brunel is N-853; Mitchell Curtis, Foster Curtis and John C. Phelan have no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10207..N-10211 are topic ids, not these people. Andrew Kolvet is N-42 and Jean-Luc Brunel is N-853; Mitchell Curtis, Foster Curtis and John C. Phelan have no CKA person node.
 
-**New Investigation Target Nodes Introduced:** N-2153 (Rooftop Movement Tactical Analysis), N-2154 (Weapon Discharge Visual Indicators), N-2155 (K9 Scent Tracking Discrepancy), N-2156 (Weapon Recovery Officer Chain and NCIS Connection), N-2157 (Secretary of the Navy Phelan Epstein Flight Connection)
+**New Investigation Target Nodes Introduced:** N-11153 (Rooftop Movement Tactical Analysis), N-11154 (Weapon Discharge Visual Indicators), N-11155 (K9 Scent Tracking Discrepancy), N-11156 (Weapon Recovery Officer Chain and NCIS Connection), N-11157 (Secretary of the Navy Phelan Epstein Flight Connection)
 
 **Existing Nodes Reused:** Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.

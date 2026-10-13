@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
   - Claim Range: C-1267-C-1285, C-3728-C-3730
-  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1079, N-1003
+  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-159, N-10175, N-10176, N-10177, N-10178, N-10179, N-10180, N-10181, N-10182, N-10183, N-10184, N-10185, N-10186, N-10187, N-10188, N-10189, N-10190, N-10191, N-10192, N-10193, N-10194
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-10077, N-10079, N-10003
 
 ## 2. Executive Summary
 
@@ -36,7 +36,7 @@ Confidence: high
 
 **A-1155.2** Texts to sister/husband Aug 30–Sep 2 re: 'imminent danger', 'communist underground' at schools, bees as code
 Video Timestamp: 00:13:36–00:14:46
-*Related: C-1269, N-3, N-59, N-157, N-1179*
+*Related: C-1269, N-3, N-59, N-157, N-10179*
 Transcript Snippet: I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.
 Confidence: high
 
@@ -46,7 +46,7 @@ Confidence: high
 
 **A-1156.1** 80-page scraped online-history document (referenced; partial on-screen)
 Video Timestamp: 00:22:24–00:26:26
-*Related: C-1270, N-148, N-1186, N-1177*
+*Related: C-1270, N-148, N-10186, N-10177*
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Confidence: medium
 
@@ -58,13 +58,13 @@ Confidence: high
 
 **A-1156.3** YouTube comments by Crooks: violent rhetoric about socialists, Democrats
 Video Timestamp: 00:23:37–00:24:29
-*Related: C-1272, N-148, N-1186*
+*Related: C-1272, N-148, N-10186*
 Transcript Snippet: Lining up a bunch of socialist Jews…blasting their useless brains out with an AR.
 Confidence: high
 
 **A-1156.4** Crooks Google search history: mass shooting research, molotov cocktails, fertilizer bomb
 Video Timestamp: 00:24:53–00:25:45
-*Related: C-1273, N-148, N-1177*
+*Related: C-1273, N-148, N-10177*
 Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Confidence: high
 
@@ -74,7 +74,7 @@ Confidence: high
 
 **A-1157.1** Megyn Kelly clip reporting Jezebel mission to curse Charlie Kirk via Etsy witch services
 Video Timestamp: 00:34:05–00:35:43
-*Related: C-1274, N-2, N-75, N-1188, N-1189, N-1183*
+*Related: C-1274, N-2, N-75, N-10188, N-10189, N-10183*
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Confidence: high
 
@@ -84,7 +84,7 @@ Confidence: high
 
 **A-1158.1** Jimmy Kimmel monologue thanking right-wing free-speech defenders including Candace Owens
 Video Timestamp: 00:31:04–00:32:56
-*Related: C-1275, N-3, N-122, N-150, N-133, N-151, N-152, N-153, N-1185*
+*Related: C-1275, N-3, N-122, N-150, N-133, N-151, N-152, N-153, N-10185*
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Confidence: high
 
@@ -94,7 +94,7 @@ Confidence: high
 
 **A-1159.1** Riverbend Ranch audio tribute honoring Charlie Kirk
 Video Timestamp: 00:27:59–00:28:39
-*Related: C-1276, N-1190*
+*Related: C-1276, N-10190*
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Confidence: high
 
@@ -104,7 +104,7 @@ Confidence: high
 
 **A-1160.1** Sept 9 book club recording of Candace committing to homeschooling children
 Video Timestamp: 00:15:00–00:17:11
-*Related: C-1277, N-3, N-1179*
+*Related: C-1277, N-3, N-10179*
 Transcript Snippet: I'm homeschooling my kids. I'm so excited…a weight got lift off of my shoulders.
 Confidence: high
 
@@ -114,7 +114,7 @@ Confidence: high
 
 **A-1161.1** Natalie comment read on-air: neighbor's daughter has Tyler Robinson video showing a woman with him
 Video Timestamp: 00:43:41–00:44:23
-*Related: C-1278, N-69, N-159, N-1176*
+*Related: C-1278, N-69, N-159, N-10176*
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Confidence: low
 
@@ -356,7 +356,7 @@ Listener who tipped unverified video of Tyler Robinson with a woman.
 
 ---
 
-**N-1175** FBI Case Closure Pressure
+**N-10175** FBI Case Closure Pressure
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -366,7 +366,7 @@ Host claims FBI pressuring Utah authorities to rule lone-gunman.
 
 ---
 
-**N-1176** Tyler Robinson Evidence Gaps
+**N-10176** Tyler Robinson Evidence Gaps
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -376,7 +376,7 @@ Host's source: no roof video, fragmented bullet, no confession, gun-arrival unre
 
 ---
 
-**N-1177** Crooks Federal-Radar Question
+**N-10177** Crooks Federal-Radar Question
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -386,7 +386,7 @@ Was Crooks known to feds pre-attempt given extensive violent online history?
 
 ---
 
-**N-1178** Lone-Shooter Narrative Critique
+**N-10178** Lone-Shooter Narrative Critique
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -396,7 +396,7 @@ Host argues lone-shooter framing obscures networks; cites Crooks + Kirk cases.
 
 ---
 
-**N-1179** Beehive Code / School Underground Premonition
+**N-10179** Beehive Code / School Underground Premonition
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -406,7 +406,7 @@ Candace's Aug 30–Sep 2 premonition of school-linked 'bee' underground.
 
 ---
 
-**N-1180** Utah Beehive Symbolism
+**N-10180** Utah Beehive Symbolism
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -416,7 +416,7 @@ Hexagonal beehive flag tied to Mormon pioneer 'common good' / Soviet worker-bee 
 
 ---
 
-**N-1181** Soviet Education Infiltration
+**N-10181** Soviet Education Infiltration
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -426,7 +426,7 @@ Host thesis: US public schools shaped by 1848 communist ideology; references Sow
 
 ---
 
-**N-1182** MK Ultra Continuity Theory
+**N-10182** MK Ultra Continuity Theory
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -436,7 +436,7 @@ Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.
 
 ---
 
-**N-1183** Jezebel/Etsy Hex on Charlie Kirk
+**N-10183** Jezebel/Etsy Hex on Charlie Kirk
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -446,7 +446,7 @@ Alleged curse placed via Etsy witches; Kirk family consulted Catholic priest.
 
 ---
 
-**N-1184** Candace UK Premonition / Husband Meeting
+**N-10184** Candace UK Premonition / Husband Meeting
 
 Node Type: Topic
 Topic Kind: biographical
@@ -456,7 +456,7 @@ Topic Kind: biographical
 
 ---
 
-**N-1185** Jimmy Kimmel Free-Speech Defense
+**N-10185** Jimmy Kimmel Free-Speech Defense
 
 Node Type: Topic
 Topic Kind: event
@@ -466,7 +466,7 @@ Kimmel thanks right-wing voices; Candace opposes gov't speech overreach.
 
 ---
 
-**N-1186** Crooks Ideological Transformation
+**N-10186** Crooks Ideological Transformation
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -476,7 +476,7 @@ Host documents Crooks' shift from pro-Trump to anti-Trump around 2020.
 
 ---
 
-**N-1187** Eyewitness Roof-Description Discrepancy
+**N-10187** Eyewitness Roof-Description Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -486,7 +486,7 @@ Host: eyewitness told her shooter was in tactical gear, gun mismatched.
 
 ---
 
-**N-1003** MK Ultra
+**N-10003** MK Ultra
 
 Node Type: Organization
 Organization Kind: program_or_initiative
@@ -500,7 +500,7 @@ CIA program (1950s-60s); host asserts it was never discontinued.
 
 ---
 
-**N-1188** Jezebel
+**N-10188** Jezebel
 
 Node Type: Organization
 Organization Kind: media
@@ -510,7 +510,7 @@ Far-left website that declared mission to curse Charlie Kirk.
 
 ---
 
-**N-1189** Etsy
+**N-10189** Etsy
 
 Node Type: Organization
 Organization Kind: company
@@ -520,7 +520,7 @@ Host cites platform offering witch-hex services used by Jezebel.
 
 ---
 
-**N-1077** Utah Valley University
+**N-10077** Utah Valley University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -530,7 +530,7 @@ Site of Charlie Kirk assassination, Sept 10, 2025.
 
 ---
 
-**N-1190** Riverbend Ranch
+**N-10190** Riverbend Ranch
 
 Node Type: Organization
 Organization Kind: company
@@ -544,7 +544,7 @@ Sponsor; produced audio tribute to Charlie Kirk.
 
 ---
 
-**N-1191** Utah
+**N-10191** Utah
 
 Node Type: Place
 Place Kind: state
@@ -554,7 +554,7 @@ Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.
 
 ---
 
-**N-1192** London / UK
+**N-10192** London / UK
 
 Node Type: Place
 Place Kind: city_region
@@ -564,7 +564,7 @@ Destination of Candace's premonition UK trip; meeting site for husband.
 
 ---
 
-**N-1193** Poland
+**N-10193** Poland
 
 Node Type: Place
 Place Kind: country
@@ -574,7 +574,7 @@ Source of communist underground symbol found online by Candace.
 
 ---
 
-**N-1194** Germany (1848 reference)
+**N-10194** Germany (1848 reference)
 
 Node Type: Place
 Place Kind: country
@@ -605,7 +605,7 @@ Claim: Candace met her husband for the first time during the UK trip and they we
 Transcript Snippet: I didn't know him. I never even saw his face 18 day 18 days prior.
 Anchored Artifacts: A-1155.1
 Mentions: N-3, N-59
-Related Nodes: N-1184, N-1192
+Related Nodes: N-10184, N-10192
 Confidence: medium
 Investigative Direction: Corroborate via marriage records, flight manifests, and Turning Point UK launch date.
 
@@ -618,7 +618,7 @@ Claim: Candace exchanged text messages Aug 30–Sep 2 with her husband and siste
 Transcript Snippet: Imminent danger is coming…communist underground…has something to do with bees.
 Anchored Artifacts: A-1155.2
 Mentions: N-3, N-59, N-157
-Related Nodes: N-1179
+Related Nodes: N-10179
 Confidence: high
 Investigative Direction: Verify timestamps against phone records; preserve screenshots for chain-of-custody.
 
@@ -631,7 +631,7 @@ Claim: Host argues the historical MK Ultra program was never discontinued and th
 Transcript Snippet: …learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.
 Anchored Artifacts: 
 Mentions: N-148
-Related Nodes: N-1003, N-1178, N-1182
+Related Nodes: N-10003, N-10178, N-10182
 Confidence: low
 Investigative Direction: Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.
 
@@ -645,7 +645,7 @@ Claim: Host possesses an 80-page document containing scraped Crooks online accou
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
 Mentions: N-148
-Related Nodes: N-1003, N-1177, N-1182, N-1186
+Related Nodes: N-10003, N-10177, N-10182, N-10186
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
 
@@ -671,7 +671,7 @@ Claim: Crooks posted YouTube comments calling for violence against 'socialist Je
 Transcript Snippet: Blasting their useless brains out with an AR…heads chopped off and put on stakes.
 Anchored Artifacts: A-1156.3
 Mentions: N-148
-Related Nodes: N-1186
+Related Nodes: N-10186
 Confidence: high
 Investigative Direction: Recover original YouTube comments and timestamps via scrape or platform archives.
 
@@ -684,7 +684,7 @@ Claim: Crooks' Google search history included 'best places for a mass shooting',
 Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Anchored Artifacts: A-1156.4
 Mentions: N-148
-Related Nodes: N-1177
+Related Nodes: N-10177
 Confidence: medium
 Investigative Direction: Obtain original search-history logs or corroborating scrape; verify timeline.
 
@@ -697,7 +697,7 @@ Claim: Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Anchored Artifacts: A-1157.1
 Mentions: N-2, N-75, N-1
-Related Nodes: N-1183, N-1188, N-1189
+Related Nodes: N-10183, N-10188, N-10189
 Confidence: high
 Investigative Direction: Recover Jezebel article and Etsy listings; verify priest consultation with family.
 
@@ -710,7 +710,7 @@ Claim: Jimmy Kimmel's monologue thanked conservatives including Candace Owens, T
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Anchored Artifacts: A-1158.1
 Mentions: N-3, N-122, N-133, N-150, N-151, N-152, N-153
-Related Nodes: N-1185
+Related Nodes: N-10185
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel monologue transcript.
 
@@ -723,7 +723,7 @@ Claim: Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Anchored Artifacts: A-1159.1
 Mentions: N-1
-Related Nodes: N-1190
+Related Nodes: N-10190
 Confidence: high
 Investigative Direction: Confirm authenticity and release date via Riverbend Ranch.
 
@@ -736,7 +736,7 @@ Claim: At a Sept 9 book club meeting, Candace publicly described her decision to
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
 Mentions: N-3, N-154, N-155
-Related Nodes: N-1179, N-1181, N-1193, N-1194
+Related Nodes: N-10179, N-10181, N-10193, N-10194
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
 
@@ -749,7 +749,7 @@ Claim: Listener Natalie reported that a video of Tyler Robinson walking in a nei
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Anchored Artifacts: A-1161.1
 Mentions: N-69, N-159
-Related Nodes: N-1176
+Related Nodes: N-10176
 Confidence: low
 Investigative Direction: Obtain original video from Natalie; verify identity of woman and chain of custody.
 
@@ -763,7 +763,7 @@ Claim: Host claims a well-placed source says the FBI is pressuring Utah authorit
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-1079, N-1175, N-1191
+Related Nodes: N-10079, N-10175, N-10191
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
 
@@ -776,7 +776,7 @@ Claim: Host asserts there is no video of Tyler Robinson firing the weapon or tak
 Transcript Snippet: There is absolutely no video which shows Tyler Robinson firing the weapon.
 Anchored Artifacts: 
 Mentions: N-69, N-1
-Related Nodes: N-1176
+Related Nodes: N-10176
 Confidence: low
 Investigative Direction: Confirm via court filings, prosecution discovery, and public statements.
 
@@ -789,7 +789,7 @@ Claim: Host's source says the bullet was too fragmented to match Tyler Robinson'
 Transcript Snippet: The bullet…was too fragmented to match Tyler's rifle.
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-1176
+Related Nodes: N-10176
 Confidence: low
 Investigative Direction: Obtain forensic ballistics report from court filings.
 
@@ -802,7 +802,7 @@ Claim: Host's source says the FBI does not have footage showing how the rifle wa
 Transcript Snippet: The feds don't even have any footage that explains how exactly the rifle…got onto the roof.
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-1077, N-1079, N-1176
+Related Nodes: N-10077, N-10079, N-10176
 Confidence: low
 Investigative Direction: Verify against indictment and discovery materials.
 
@@ -815,7 +815,7 @@ Claim: Host's source says prints other than Tyler Robinson's were also on the ri
 Transcript Snippet: It's not the only set of prints that are on that gun.
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-1176
+Related Nodes: N-10176
 Confidence: low
 Investigative Direction: Obtain forensic print report from court filings.
 
@@ -828,7 +828,7 @@ Claim: Per host's source, the eyewitness who filmed the rooftop shooter says the
 Transcript Snippet: He was in tactical gear. The person that I saw was in tactical gear.
 Anchored Artifacts: 
 Mentions: N-69
-Related Nodes: N-1187
+Related Nodes: N-10187
 Confidence: low
 Investigative Direction: Identify and interview the eyewitness; obtain his footage.
 
@@ -916,31 +916,31 @@ Confidence: high
 **** Utah v. Tyler Robinson
 
 Party Nodes: N-69, N-1
-Place Nodes: N-1077, N-1191
+Place Nodes: N-10077, N-10191
 Artifact Anchors: A-1161.1
 Description: State prosecution of Tyler Robinson for Charlie Kirk assassination; host claims evidentiary gaps.
 ---
 
 ## 8. Organization Network
 
-OrgLink: N-1003 subsidiary_of N-1148
+OrgLink: N-10003 subsidiary_of N-10148
 
 ## 9. Role Assertions
 
-RoleLink: N-3 holds_role N-1171 title:Co-launcher / public figure (Turning Point UK)
-RoleLink: N-1 chair_of N-1171 title:Founder (Turning Point)
+RoleLink: N-3 holds_role N-10171 title:Co-launcher / public figure (Turning Point UK)
+RoleLink: N-1 chair_of N-10171 title:Founder (Turning Point)
 RoleLink: N-2 holds_role  title:Widow of Charlie Kirk
 
 ## 12. Topic Threading
 
-TopicMention: C-1269 N-1179
-TopicMention: C-1277 N-1179
-TopicMention: C-1279 N-1175
-TopicMention: C-1280 N-1176
-TopicMention: C-1284 N-1187
-TopicMention: C-1273 N-1177
-TopicMention: C-1274 N-1183
-TopicMention: C-1275 N-1185
+TopicMention: C-1269 N-10179
+TopicMention: C-1277 N-10179
+TopicMention: C-1279 N-10175
+TopicMention: C-1280 N-10176
+TopicMention: C-1284 N-10187
+TopicMention: C-1273 N-10177
+TopicMention: C-1274 N-10183
+TopicMention: C-1275 N-10185
 
 ## 13. Meme Graph Links
 

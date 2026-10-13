@@ -27,7 +27,7 @@
 - Ledger continuation summary:
  - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
  - Claim Range: C-3162–C-3174
- - New Nodes Introduced: N-2158, N-2159, N-2160, N-2161, N-2162, N-2163
+ - New Nodes Introduced: N-11158, N-11159, N-11160, N-11161, N-11162, N-11163
  - Reused Nodes Appearing: N-2
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3166, N-1, N-2162*
+*Related: C-3166, N-1, N-11162*
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3167, N-2163*
+*Related: C-3167, N-11163*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3162, C-3163, N-1, N-2160*
+*Related: C-3162, C-3163, N-1, N-11160*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3164, N-2161*
+*Related: C-3164, N-11161*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:12:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3171, N-2161*
+*Related: C-3171, N-11161*
 
 ---
 
@@ -222,11 +222,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3162, C-3163, C-3166, A-2205.1, A-2207.1, N-2158, N-2160, N-2163*
+*Related: C-3162, C-3163, C-3166, A-2205.1, A-2207.1, N-11158, N-11160, N-11163*
 
 ---
 
-**N-2158** Kirk Burial / Cremation Status
+**N-11158** Kirk Burial / Cremation Status
 
 Persistent investigation target: whether Charlie Kirk was actually interred at a Catholic cemetery, or subject to a mock burial before/after cremation.
 
@@ -235,11 +235,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-2159, N-2162, N-2163*
+*Related: N-11159, N-11162, N-11163*
 
 ---
 
-**N-2159** Mock Burial Allegation
+**N-11159** Mock Burial Allegation
 
 Specific allegation from unnamed tipster: Hansen Mortuary declined to participate in a mock burial, prompting TPUSA to relocate to a Catholic church arrangement via Erika's priest contact.
 
@@ -248,13 +248,13 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-2158, N-2162, N-2163*
+*Related: N-11158, N-11162, N-11163*
 
 *Flag: Allegations from unnamed source; referenced text messages not displayed in episode.*
 
 ---
 
-**N-2160** Kirk Autopsy Heart/Lung Hemorrhage Causation
+**N-11160** Kirk Autopsy Heart/Lung Hemorrhage Causation
 
 Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs – bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).
 
@@ -267,7 +267,7 @@ Investigative Pressure: High
 
 ---
 
-**N-2161** "Other Angle" Rooftop Footage Existence
+**N-11161** "Other Angle" Rooftop Footage Existence
 
 Investigation target concerning the alleged second rooftop video angle (claimed by Blake Neff and by podcast participant) showing the shooter pulling a rifle from his pants / assembling a weapon.
 
@@ -280,7 +280,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-2162** Hansen Mortuary Role
+**N-11162** Hansen Mortuary Role
 
 Investigation target concerning Hansen Mortuary's involvement: receipt of Kirk's body on Sept 11, alleged refusal to participate in mock burial, and transition of remains to a Catholic funeral.
 
@@ -289,11 +289,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3166, A-2205.1, N-2158, N-2159*
+*Related: C-3166, A-2205.1, N-11158, N-11159*
 
 ---
 
-**N-2163** Kirk Religious Affiliation Status
+**N-11163** Kirk Religious Affiliation Status
 
 Investigation target concerning Charlie Kirk's actual religious affiliation at time of death: claimed by TPUSA as evangelical/non-denominational; Catholic funeral mass creates conflict with that claim.
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3167, A-2206.1, N-2, N-2159*
+*Related: C-3167, A-2206.1, N-2, N-11159*
 
 ---
 
@@ -317,7 +317,7 @@ Claim: The defense memorandum excerpt states the bullet sequentially perforated 
 Anchored Artifacts: A-2207.1
 Mentions: N-1
 
-Related Nodes: N-2160
+Related Nodes: N-11160
 
 Investigative Direction: Obtain the complete defense memorandum and compare with the medical examiner's full autopsy report and any independent forensic review.
 
@@ -332,7 +332,7 @@ Claim: The defense memorandum states the medical examiner observed hemorrhaging 
 Anchored Artifacts: A-2207.1
 Mentions: N-1
 
-Related Nodes: N-2160
+Related Nodes: N-11160
 
 Investigative Direction: Obtain complete autopsy findings; consult independent medical expert on whether hemorrhaging is consistent with the described bullet trajectory, post-injury resuscitation, or alternative blunt force trauma.
 
@@ -347,7 +347,7 @@ Claim: Blake Neff posted that there exists another rooftop video from a differen
 Anchored Artifacts: A-2212.1
 Mentions: N-224
 
-Related Nodes: N-2161
+Related Nodes: N-11161
 
 Investigative Direction: Verify the claim via courtroom exhibit records; determine whether any second rooftop footage was formally entered as evidence in the preliminary hearing.
 
@@ -379,7 +379,7 @@ Claim: On 2025-09-11 at approximately 5:27 PM Phoenix time, Sky News broadcast t
 Anchored Artifacts: A-2205.1
 Mentions: N-1
 
-Related Nodes: N-2162
+Related Nodes: N-11162
 
 Investigative Direction: Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records.
 
@@ -394,7 +394,7 @@ Claim: On a pre-recorded appearance on Alex Clark's show prior to the Catholic f
 Anchored Artifacts: A-2206.1
 Mentions: N-42, N-135
 
-Related Nodes: N-2163
+Related Nodes: N-11163
 
 Investigative Direction: Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange.
 
@@ -456,7 +456,7 @@ Claim: On a podcast referred to by the host as the "Beavis and Butt-Head show," 
 
 Anchored Artifacts: A-2213.1
 
-Related Nodes: N-2161
+Related Nodes: N-11161
 
 Investigative Direction: Identify the actual podcast; obtain the full episode; verify whether any second rooftop footage was formally entered as evidence.
 
@@ -511,9 +511,9 @@ Investigative Direction: Verify by contacting the viewer with consent; tangentia
 - **Transcription artifacts**: "judge graph" (A-2216.1 / C-3173), "docked a witness" (A-2208.1 / C-3168), "Mike" for "mic" (A-2211.1 / C-3170) – likely auto-caption errors.
 - **Verbally referenced, not displayed verbatim**: A-2210.1 (Kolvet pronunciation list content summarized rather than read aloud).
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
-- **Unnamed source / Hunted tip**: The mock-burial allegation (N-2159) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
+- **Unnamed source / Hunted tip**: The mock-burial allegation (N-11159) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-1207.. never denoted these people.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-42, Blake Neff is N-224 and Tim Pool is N-426; the Lisa Knows account has no CKA person node. The topic ids N-10207.. never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

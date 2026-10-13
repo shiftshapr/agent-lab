@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-537, N-538, N-1405, N-1406, N-1407
+  - New Nodes Introduced:  N-537, N-538, N-10405, N-10406, N-10407
   - Reused Nodes Appearing: N-3, N-410, N-1, N-424
   N-69, N-42
 
@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
 - **Claim Range:** C-1912 – C-1923, C-3757
-- **New Nodes Introduced:** N-537, N-538, N-1405, N-1406, N-1407
+- **New Nodes Introduced:** N-537, N-538, N-10405, N-10406, N-10407
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-69 (Tyler Robinson), N-42 (Andrew Kolvet)
 
 ---
@@ -58,7 +58,7 @@ Video Timestamp: 00:06:58–00:07:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, C-1922, N-444, N-2, N-3, N-1405*
+*Related: C-1912, C-1922, N-444, N-2, N-3, N-10405*
 
 **A-1533.2** Erika Kirk on-camera response: "Stop. That's it. That's all I have to say. Stop."
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:14:44–00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1922, N-537, N-444, N-1405*
+*Related: C-1922, N-537, N-444, N-10405*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:33:07–00:35:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1918, N-69, N-1407*
+*Related: C-1918, N-69, N-10407*
 
 ---
 
@@ -213,7 +213,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1533.1, A-1533.2, A-1533.5, C-1912, C-1922, N-1405*
+*Related: A-1533.1, A-1533.2, A-1533.5, C-1912, C-1922, N-10405*
 
 ---
 
@@ -291,7 +291,7 @@ Claim Count: 0 (mentioned only)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1533.5, N-444, N-1405*
+*Related: A-1533.5, N-444, N-10405*
 
 ---
 
@@ -308,7 +308,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1405** CBS Bari Weiss Town Hall Production Integrity
+**N-10405** CBS Bari Weiss Town Hall Production Integrity
 
 Persistent investigative target concerning whether questions were pre-selected, the town hall was pre-recorded, and audience composition was curated. Host asserts affirmative answers via insider sources; episode displays rehearsed on-air delivery.
 
@@ -321,7 +321,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1406** Maroon Shirt / Air Force 10th Mountain Brigade Connection
+**N-10406** Maroon Shirt / Air Force 10th Mountain Brigade Connection
 
 Continued investigative target tying the maroon-shirt observation at the Kirk event to the U.S. Army 10th Mountain Brigade and Air Force color associations. Host references prior military-source confirmation.
 
@@ -334,7 +334,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1407** Tyler Robinson First In-Person Court Appearance Details
+**N-10407** Tyler Robinson First In-Person Court Appearance Details
 
 Verification target for the December 11, 2025 court appearance: demeanor, hearing content, transcript availability to media, and any preliminary statements.
 
@@ -442,7 +442,7 @@ Claim: Tyler Robinson appeared in person in a Utah court on December 11, 2025, h
 Anchored Artifacts: A-1535.1
 Mentions: N-69
 
-Related Nodes: N-1407
+Related Nodes: N-10407
 
 Investigative Direction: Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.
 
@@ -499,7 +499,7 @@ Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-r
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
 Mentions: N-444, N-537, N-2
 
-Related Nodes: N-1405
+Related Nodes: N-10405
 
 Investigative Direction: Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.
 
@@ -514,7 +514,7 @@ Claim: The host asserts that the maroon color referenced in connection with Kirk
 Anchored Artifacts: Host testimonial confirmation; visual evidence of maroon-shirted attendees (referenced from prior episodes)
 Mentions:
 
-Related Nodes: N-1406
+Related Nodes: N-10406
 
 Investigative Direction: Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents.
 
@@ -530,7 +530,7 @@ Transcript Snippet: Lie. Charlie established a doge and it was not unusual. That
 
 Anchored Artifacts: 
 Mentions: N-3, N-410, N-1, N-424
-Related Nodes: N-1000
+Related Nodes: N-10000
 Investigative Direction: Compare Farnsworth's account, the DOGE timeline and the drone and rooftop statements against police and UVU records.
 
 ---

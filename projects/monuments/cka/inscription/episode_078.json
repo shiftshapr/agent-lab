@@ -34,8 +34,8 @@
           "related_nodes": [
             "N-2",
             "N-970",
-            "N-1604",
-            "N-1605"
+            "N-10604",
+            "N-10605"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "N-2",
             "N-969",
             "N-439",
-            "N-1606"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
           "related_nodes": [
             "N-2",
             "N-971",
-            "N-1607"
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,7 +142,7 @@
           "related_nodes": [
             "N-2",
             "N-971",
-            "N-1607"
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,7 +172,7 @@
           "related_nodes": [
             "N-971",
             "N-972",
-            "N-1607"
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -200,7 +200,7 @@
           "related_nodes": [
             "N-982",
             "N-972",
-            "N-1607"
+            "N-10607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -228,7 +228,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1609"
+            "N-10609"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1609"
+            "N-10609"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -264,7 +264,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-1609"
+            "N-10609"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,8 +291,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1608",
-            "N-1610"
+            "N-10608",
+            "N-10610"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1608"
+            "N-10608"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -331,7 +331,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1608"
+            "N-10608"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,8 +350,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1608",
-            "N-1610"
+            "N-10608",
+            "N-10610"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,7 +407,7 @@
           "related_nodes": [
             "N-968",
             "N-70",
-            "N-1611"
+            "N-10611"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -426,7 +426,7 @@
           ],
           "related_nodes": [
             "N-968",
-            "N-1611"
+            "N-10611"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -454,7 +454,7 @@
           ],
           "related_nodes": [
             "N-968",
-            "N-1611"
+            "N-10611"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -518,7 +518,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1611"
+        "N-10611"
       ]
     },
     {
@@ -541,7 +541,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-439",
-        "N-1606"
+        "N-10606"
       ]
     },
     {
@@ -561,8 +561,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1604",
-        "N-1605"
+        "N-10604",
+        "N-10605"
       ]
     },
     {
@@ -588,7 +588,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ]
     },
     {
@@ -611,7 +611,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ]
     },
     {
@@ -696,7 +696,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-969",
-        "N-1606"
+        "N-10606"
       ]
     },
     {
@@ -737,7 +737,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1605"
+        "N-10605"
       ]
     },
     {
@@ -764,8 +764,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1604",
-      "ref": "N-1604",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "301 East 66th Street NYC Building Investigation",
       "type": "investigation_target",
       "description": "Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as \"apartments for models.\" Per host, viewers identified building matching description of the \"white building\" associated with Erica Kirk's Next Model Management real-estate role.",
@@ -785,13 +785,13 @@
       "related_nodes": [
         "N-2",
         "N-970",
-        "N-1605"
+        "N-10605"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1605",
-      "ref": "N-1605",
+      "@id": "N-10605",
+      "ref": "N-10605",
       "name": "Next Model Management / Erica Kirk Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a \"white building\" near 68th Street between Second and Third Avenue.",
@@ -807,13 +807,13 @@
       "related_nodes": [
         "N-2",
         "N-951",
-        "N-1604"
+        "N-10604"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1606",
-      "ref": "N-1606",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Club America High School Pushback",
       "type": "investigation_target",
       "description": "Investigation target: state-level rollout of Club America (TPUSA) in high schools, including Arkansas proclamation; pushback reported in displayed user comments.",
@@ -836,8 +836,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1607",
-      "ref": "N-1607",
+      "@id": "N-10607",
+      "ref": "N-10607",
       "name": "Renee Crossman / United Hands Romania Cult Affiliation",
       "type": "investigation_target",
       "description": "Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erica Kirk.",
@@ -866,8 +866,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1608",
-      "ref": "N-1608",
+      "@id": "N-10608",
+      "ref": "N-10608",
       "name": "9/10 Behind Charlie Video Analysis",
       "type": "investigation_target",
       "description": "Investigation target: forensic observations from the displayed behind-Charlie footage (necklace/magnet clasp state, blood pattern, hand motion at table).",
@@ -890,13 +890,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-1610"
+        "N-10610"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1609",
-      "ref": "N-1609",
+      "@id": "N-10609",
+      "ref": "N-10609",
       "name": "Hospital Transport Van Interior Photo Analysis",
       "type": "investigation_target",
       "description": "Investigation target: forensic observations from displayed photos of van interior that transported Charlie Kirk to hospital, including Instaclot package identification and back-seat material distribution.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1610",
-      "ref": "N-1610",
+      "@id": "N-10610",
+      "ref": "N-10610",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
       "type": "investigation_target",
       "description": "Investigation target: state and behavior of Kirk's necklace and magnet clasp as shown in displayed 9/10 video and surrounding testimony (Erica, Frank, Brian Harpole stories referenced by host).",
@@ -939,13 +939,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-1608"
+        "N-10608"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1611",
-      "ref": "N-1611",
+      "@id": "N-10611",
+      "ref": "N-10611",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
       "type": "investigation_target",
       "description": "Investigation target: TP Action public reversal against Massie, who was a longtime Charlie Kirk favorite, and the surrounding X community note fact-check.",
@@ -1129,7 +1129,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-1604"
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:03:07",
@@ -1148,8 +1148,8 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-1604",
-        "N-1605"
+        "N-10604",
+        "N-10605"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -1168,8 +1168,8 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-1604",
-        "N-1605"
+        "N-10604",
+        "N-10605"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -1205,7 +1205,7 @@
         "A-1837.1"
       ],
       "related_nodes": [
-        "N-1606"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:13:44",
@@ -1225,7 +1225,7 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
@@ -1245,7 +1245,7 @@
         "A-1838.2"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:16:04",
@@ -1265,7 +1265,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -1284,7 +1284,7 @@
         "A-1840.1"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:21:19",
@@ -1306,7 +1306,7 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-1609"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:30:45",
@@ -1324,8 +1324,8 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-1608",
-        "N-1610"
+        "N-10608",
+        "N-10610"
       ],
       "tags": [],
       "claim_timestamp": "00:34:11",
@@ -1344,7 +1344,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-1608"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
@@ -1363,7 +1363,7 @@
         "A-1842.3"
       ],
       "related_nodes": [
-        "N-1608"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -1382,7 +1382,7 @@
         "A-1843.1"
       ],
       "related_nodes": [
-        "N-1611"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41",
@@ -1402,7 +1402,7 @@
         "A-1844.1"
       ],
       "related_nodes": [
-        "N-1611"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
@@ -1421,7 +1421,7 @@
         "A-1844.2"
       ],
       "related_nodes": [
-        "N-1611"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
@@ -1442,7 +1442,7 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-1611"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
@@ -1462,7 +1462,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -1481,7 +1481,7 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
@@ -1501,7 +1501,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-1608"
+        "N-10608"
       ],
       "tags": [],
       "claim_timestamp": "00:38:21",
@@ -1521,7 +1521,7 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-1609"
+        "N-10609"
       ],
       "tags": [],
       "claim_timestamp": "00:31:14",
@@ -1541,7 +1541,7 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-1611"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
@@ -1560,7 +1560,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-1607"
+        "N-10607"
       ],
       "tags": [],
       "claim_timestamp": "00:19:11",

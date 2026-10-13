@@ -525,7 +525,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1236"
+            "N-10236"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -727,8 +727,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1234",
-      "ref": "N-1234",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
       "type": "investigation_target",
       "description": "Investigation target: verification of whether Lance Twiggs is the individual in the maroon shirt seen in the released imagery. Candace asserts his build is \"nothing like Tyler Robinson's build\" and hypothesizes Twiggs is the maroon-shirt wearer.",
@@ -745,8 +745,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1235",
-      "ref": "N-1235",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification of Hammer's claim of a Zoom call with Charlie Kirk the night before Kirk's death, including attendee list and discussion content.",
@@ -767,8 +767,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1236",
-      "ref": "N-1236",
+      "@id": "N-10236",
+      "ref": "N-10236",
       "name": "George Zinn Federal Familial Connections (per tip)",
       "type": "investigation_target",
       "description": "Investigation target: verification of Candace's claim that Zinn has potential familial connections to a federal department.",
@@ -786,8 +786,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1237",
-      "ref": "N-1237",
+      "@id": "N-10237",
+      "ref": "N-10237",
       "name": "Tyler / Lance Apartment Lock Change Anomaly",
       "type": "investigation_target",
       "description": "Investigation target: verification of the family's claim that apartment locks were illegally changed after the raid without their knowledge; identification of who authorized the change (Lance or federal actors).",
@@ -805,8 +805,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1238",
-      "ref": "N-1238",
+      "@id": "N-10238",
+      "ref": "N-10238",
       "name": "Multiple Decoys Theory (4 Decoys Named)",
       "type": "investigation_target",
       "description": "Investigation target: the structural theory advanced by Candace that the visible persons in the released imagery (George Zinn, \"staircase guy,\" \"maroon shirt guy,\" \"Losee Center guy\") are decoys rather than the shooter.",
@@ -820,13 +820,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1234"
+        "N-10234"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1239",
-      "ref": "N-1239",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "George Zinn Medical Payment Claim Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification of the medical-staff-reported statement that Zinn claimed he was being paid to take responsibility for Kirk's death, with payment pending.",
@@ -842,7 +842,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1236"
+        "N-10236"
       ]
     },
     {
@@ -1346,7 +1346,7 @@
         "A-1235.3"
       ],
       "related_nodes": [
-        "N-1237"
+        "N-10237"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
@@ -1367,7 +1367,7 @@
         "A-1235.4"
       ],
       "related_nodes": [
-        "N-1239"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
@@ -1387,7 +1387,7 @@
         "A-1235.5"
       ],
       "related_nodes": [
-        "N-1236"
+        "N-10236"
       ],
       "tags": [],
       "claim_timestamp": "00:36:11",

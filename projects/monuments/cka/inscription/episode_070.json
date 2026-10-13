@@ -134,7 +134,7 @@
           "related_nodes": [
             "N-903",
             "N-789",
-            "N-1563"
+            "N-10563"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
             "C-2325"
           ],
           "related_nodes": [
-            "N-1563"
+            "N-10563"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -224,7 +224,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-789",
-        "N-1563"
+        "N-10563"
       ]
     },
     {
@@ -274,8 +274,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1563",
-      "ref": "N-1563",
+      "@id": "N-10563",
+      "ref": "N-10563",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.",
@@ -301,8 +301,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1564",
-      "ref": "N-1564",
+      "@id": "N-10564",
+      "ref": "N-10564",
       "name": "Pierre / French Donor Investigation",
       "type": "investigation_target",
       "description": "Unconfirmed French individual, alleged by host to have committed \"billions\" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.",
@@ -315,13 +315,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1565"
+        "N-10565"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1565",
-      "ref": "N-1565",
+      "@id": "N-10565",
+      "ref": "N-10565",
       "name": "Erika Kirk September 10 Morning Itinerary Discrepancy",
       "type": "investigation_target",
       "description": "Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.",
@@ -342,8 +342,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1566",
-      "ref": "N-1566",
+      "@id": "N-10566",
+      "ref": "N-10566",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
       "type": "investigation_target",
       "description": "Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding \"taking Turning Point USA to the next level\"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.",
@@ -361,8 +361,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1567",
-      "ref": "N-1567",
+      "@id": "N-10567",
+      "ref": "N-10567",
       "name": "Egyptian Planes Investigation",
       "type": "investigation_target",
       "description": "Host-raised investigative target referencing \"Egyptian planes\" that allegedly departed Delaware; no artifact anchor in this episode.",
@@ -374,7 +374,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1565"
+        "N-10565"
       ]
     },
     {
@@ -541,7 +541,7 @@
         "A-1746.2"
       ],
       "related_nodes": [
-        "N-1565"
+        "N-10565"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42–00:20:30",
@@ -578,7 +578,7 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-1563"
+        "N-10563"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
@@ -599,7 +599,7 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-1563"
+        "N-10563"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
@@ -673,7 +673,7 @@
         "A-1749.1"
       ],
       "related_nodes": [
-        "N-1563"
+        "N-10563"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:03",

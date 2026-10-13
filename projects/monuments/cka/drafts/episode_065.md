@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
+  - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-10522, N-10523, N-10524, N-10525, N-10526, N-10527, N-10528, N-10529, N-10530, N-10531, N-10532, N-10533, N-10534, N-10535, N-10536
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave3): N-630
 
@@ -38,7 +38,7 @@
 - Artifact Families Introduced: A-1690, A-1691, A-1692, A-1693, A-1694, A-1695, A-1696, A-1697, A-1698, A-1699, A-1700, A-1701, A-1702, A-1703
 - Claim Range: C-2225–C-2237
 - New People Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-45, N-298
-- New Investigation Target Nodes Introduced: N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
+- New Investigation Target Nodes Introduced: N-10522, N-10523, N-10524, N-10525, N-10526, N-10527, N-10528, N-10529, N-10530, N-10531, N-10532, N-10533, N-10534, N-10535, N-10536
 - Existing Nodes Reused: None identified (new nodes only)
 
 ---
@@ -69,7 +69,7 @@ Confidence Level: High
 
 Description: Clip displayed on screen with full spoken transcript. Youssef cites 2014 figures of 88 Israelis and 2,329 Palestinians killed ("one Israeli for 27 Palestinian"), references "since the occupation of the West Bank, 7,000 Palestinians killed," and notes that "more children [were] killed from the Palestinian side" in three weeks following a ceasefire than "Israeli kids were killed all through 75 years."
 
-*Related: C-2225, C-2230, N-798, N-1524*
+*Related: C-2225, C-2230, N-798, N-10524*
 
 ---
 
@@ -85,7 +85,7 @@ Confidence Level: High
 
 Description: Audio clip played at episode opening. References Candace Owens' 2024 Anti-Semite of the Year nomination; cites Tucker Carlson as the 2025 winner; references "Miss Rachel" and "Mr. Rachel" as also being nominated.
 
-*Related: C-2226, C-2227, N-798, N-1523*
+*Related: C-2226, C-2227, N-798, N-10523*
 
 ---
 
@@ -101,7 +101,7 @@ Confidence Level: Medium (B-roll nature)
 
 Description: Aerial footage of destroyed Gaza cityscape shown on screen during host's verbal narration.
 
-*Related: N-1525 (contextual), N-798 (referenced)*
+*Related: N-10525 (contextual), N-798 (referenced)*
 
 ---
 
@@ -127,7 +127,7 @@ Confidence Level: Medium
 
 Description: Second photo showing Arstrovski with bandages. Host notes there is "not a single point like drop of blood on the bandage" and that "there's no self-respecting medic that will actually leave a face like this trench of blood" without cleaning first.
 
-*Related: C-2231, N-802, N-1529*
+*Related: C-2231, N-802, N-10529*
 
 ---
 
@@ -173,7 +173,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud. Viewer references "the suicide rate of the IDF soldiers who top themselves after fighting in Gaza."
 
-*Related: C-2228, C-2229, N-799, N-800, N-798, N-1531, N-1535*
+*Related: C-2228, C-2229, N-799, N-800, N-798, N-10531, N-10535*
 
 ---
 
@@ -189,7 +189,7 @@ Confidence Level: High
 
 Description: Youssef announces tour dates: Portland March 20, Seattle March 21, with additional cities listed (Philadelphia, DC, Houston, Atlanta). Tickets at bassymusic.xyz.
 
-*Related: C-2237, N-798, N-1530*
+*Related: C-2237, N-798, N-10530*
 
 ---
 
@@ -207,7 +207,7 @@ Description: Referenced previous episode featuring USS Liberty survivor Phil Tur
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2229, N-799, N-1535*
+*Related: C-2229, N-799, N-10535*
 
 ---
 
@@ -225,7 +225,7 @@ Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, describ
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2232, C-2233, N-801, N-1531, N-1532*
+*Related: C-2232, C-2233, N-801, N-10531, N-10532*
 
 ---
 
@@ -243,7 +243,7 @@ Description: Referenced documentary clip showing pastors telling children "Jews 
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2234, N-1525, N-1533*
+*Related: C-2234, N-10525, N-10533*
 
 ---
 
@@ -261,7 +261,7 @@ Description: Referenced by host. Claims Auschwitz Museum revised story about Jos
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-1525, N-1536, N-630*
+*Related: N-10525, N-10536, N-630*
 
 ---
 
@@ -279,7 +279,7 @@ Description: Referenced movement of ex-IDF soldiers speaking about atrocities in
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-1525*
+*Related: N-10525*
 
 ---
 
@@ -297,7 +297,7 @@ Description: Referenced by Bassem Youssef. Shapiro alleged to have claimed the U
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-1522*
+*Related: N-10522*
 
 ---
 
@@ -352,7 +352,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1690.1, A-1691.1, A-1694.3, A-1695.1, C-2225, C-2230, C-2237, N-1523, N-1524*
+*Related: A-1690.1, A-1691.1, A-1694.3, A-1695.1, C-2225, C-2230, C-2237, N-10523, N-10524*
 
 ---
 
@@ -365,7 +365,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1696.1, A-1694.2, C-2229, N-1522, N-1535*
+*Related: A-1696.1, A-1694.2, C-2229, N-10522, N-10535*
 
 ---
 
@@ -378,7 +378,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1694.1, C-2228, N-1522*
+*Related: A-1694.1, C-2228, N-10522*
 
 ---
 
@@ -391,7 +391,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1697.1, C-2232, C-2233, N-1531, N-1532*
+*Related: A-1697.1, C-2232, C-2233, N-10531, N-10532*
 
 ---
 
@@ -404,7 +404,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1693.1, A-1693.2, C-2231, N-1529*
+*Related: A-1693.1, A-1693.2, C-2231, N-10529*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1536*
+*Related: N-10536*
 
 ---
 
@@ -434,7 +434,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1522** USS Liberty Incident Cover-up Investigation
+**N-10522** USS Liberty Incident Cover-up Investigation
 
 Persistent investigative target across the series. This episode surfaces additional verification material: Ward Boston notarized statement (via viewer) and Victor Ostrovsky book reference. Host also notes New York Times is preparing a USS Liberty piece.
 
@@ -447,7 +447,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1523** Candace Owens Anti-Semite of Year 2024 Nomination
+**N-10523** Candace Owens Anti-Semite of Year 2024 Nomination
 
 Persistent series element. In this episode confirmed via opening clip A-1691.1 referencing both her nomination and Tucker Carlson's win.
 
@@ -460,7 +460,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1524** Piers Morgan Bassem Youssef Chart Numbers Claim
+**N-10524** Piers Morgan Bassem Youssef Chart Numbers Claim
 
 Specific 2014 figures cited by Youssef: 88 Israelis vs. 2,329 Palestinians killed (ratio ~1:27). Plus reference to 7,000 West Bank Palestinians killed since occupation.
 
@@ -473,7 +473,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1525** Gaza Death Toll and Documentation Claims
+**N-10525** Gaza Death Toll and Documentation Claims
 
 Composite node tracking Youssef and Owens' on-record statements about Gaza casualties and the documentation of them.
 
@@ -486,7 +486,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-1526** Andrew Kolvet Charlie Kirk Twitter Control Claim
+**N-10526** Andrew Kolvet Charlie Kirk Twitter Control Claim
 
 Youssef states "Charlie didn't run his Twitter feed. Andrew Kovette did." (A-1690 transcript)
 
@@ -499,7 +499,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1527** Charlie Kirk BB Netanyahu Show Refusal
+**N-10527** Charlie Kirk BB Netanyahu Show Refusal
 
 Per host Candace Owens: "When BB went on a little mini tour and went on everyone's shows sometime in August, Charlie didn't let him on a show." (A-1690 transcript)
 
@@ -508,11 +508,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1522 (cross-reference)*
+*Related: N-10522 (cross-reference)*
 
 ---
 
-**N-1528** New York Times USS Liberty Investigation Reporting
+**N-10528** New York Times USS Liberty Investigation Reporting
 
 Per host, NYT contacted her regarding her Phil Turney interview and is preparing a piece on USS Liberty.
 
@@ -521,11 +521,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1522, N-799*
+*Related: N-10522, N-799*
 
 ---
 
-**N-1529** Arstrovski October 7th Photo Authenticity Question
+**N-10529** Arstrovski October 7th Photo Authenticity Question
 
 Discrepancy noted in the two photos: blood on face vs. no blood on bandages.
 
@@ -538,7 +538,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1530** Bassem Youssef Belly of the Beast Tour Schedule
+**N-10530** Bassem Youssef Belly of the Beast Tour Schedule
 
 Documented tour dates: Portland 3/20, Seattle 3/21, plus Philadelphia, DC, Houston, Atlanta.
 
@@ -551,7 +551,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1531** Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim
+**N-10531** Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim
 
 Claim that the book was subject to a 24-hour gag order in 1992, described as "the first and last ever gag order on an American book."
 
@@ -564,7 +564,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1532** 1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim
+**N-10532** 1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim
 
 Per Ostrovsky book (per Youssef): Mossad allegedly knew about the bombing of U.S. Marines in Beirut in advance and withheld information.
 
@@ -577,7 +577,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1533** *Till Kingdom Come* Documentary Pastors Clip
+**N-10533** *Till Kingdom Come* Documentary Pastors Clip
 
 Verbal reference to documentary showing pastors telling children Jews are more special.
 
@@ -590,7 +590,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1534** Ward Boston Notarized Statement San Diego Union Tribune
+**N-10534** Ward Boston Notarized Statement San Diego Union Tribune
 
 Specific publication reference: Ward Boston's notarized statement was published in the San Diego Union Tribune before his death.
 
@@ -599,11 +599,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1694.1, C-2228, N-800, N-1522*
+*Related: A-1694.1, C-2228, N-800, N-10522*
 
 ---
 
-**N-1535** Candace Phil Turney Interview View Count
+**N-10535** Candace Phil Turney Interview View Count
 
 Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).
 
@@ -616,7 +616,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-1536** Calvary Chapel Church CIA Connection Question
+**N-10536** Calvary Chapel Church CIA Connection Question
 
 Host claim that Calvary Chapel is "a CIA story" and that Rob McCoy's father ran Navy psychological operations. (Host claim – not artifact-anchored in this episode beyond host testimony.)
 
@@ -640,7 +640,7 @@ Claim: Bassem Youssef's Piers Morgan appearance displayed a chart stating that i
 Anchored Artifacts: A-1690.1
 Mentions: N-298, N-798
 
-Related Nodes: N-1524
+Related Nodes: N-10524
 
 Investigative Direction: Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.
 
@@ -655,7 +655,7 @@ Claim: Youssef states Candace Owens was nominated for Anti-Semite of the Year 20
 Anchored Artifacts: A-1691.1
 Mentions: N-798, N-3
 
-Related Nodes: N-1523
+Related Nodes: N-10523
 
 Investigative Direction: Verify with Anti-Semite of the Year award organization records.
 
@@ -670,7 +670,7 @@ Claim: Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per 
 Anchored Artifacts: A-1691.1
 Mentions: N-50
 
-Related Nodes: N-1523
+Related Nodes: N-10523
 
 Investigative Direction: Verify with award organization records.
 
@@ -685,7 +685,7 @@ Claim: Per read-aloud viewer comment, Navy JAG Ward Boston published a notarized
 Anchored Artifacts: A-1694.1
 Mentions: N-800
 
-Related Nodes: N-1522, N-1534
+Related Nodes: N-10522, N-10534
 
 Investigative Direction: Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.
 
@@ -700,7 +700,7 @@ Claim: Per host, her Phil Turney interview received approximately 7 million view
 Anchored Artifacts: A-1694.2 (viewer corroboration)
 Mentions: N-799, N-3
 
-Related Nodes: N-1522, N-1528, N-1535
+Related Nodes: N-10522, N-10528, N-10535
 
 Investigative Direction: Verify view count via YouTube analytics or platform data.
 
@@ -729,7 +729,7 @@ Claim: Per host and displayed image, the bandaged follow-up photo shows no blood
 Anchored Artifacts: A-1693.2
 Mentions: N-802
 
-Related Nodes: N-1529
+Related Nodes: N-10529
 
 Investigative Direction: Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.
 
@@ -744,7 +744,7 @@ Claim: Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged 
 Anchored Artifacts: A-1697.1 (verbally referenced)
 Mentions: N-801
 
-Related Nodes: N-1532
+Related Nodes: N-10532
 
 Investigative Direction: Verify the book's actual contents against published editions.
 
@@ -759,7 +759,7 @@ Claim: Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 
 Anchored Artifacts: A-1697.1 (verbally referenced)
 Mentions: N-801
 
-Related Nodes: N-1531
+Related Nodes: N-10531
 
 Investigative Direction: Verify with publishing industry records and court records.
 
@@ -773,7 +773,7 @@ Claim: Per Youssef, the documentary *Till Kingdom Come* contains clips of pastor
 
 Anchored Artifacts: A-1698.1 (verbally referenced)
 
-Related Nodes: N-1533
+Related Nodes: N-10533
 
 Investigative Direction: Obtain the documentary and verify the specific clips and their context.
 
@@ -788,7 +788,7 @@ Claim: Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu 
 Anchored Artifacts: A-1690 (host testimony in transcript)
 Mentions: N-65, N-3, N-1
 
-Related Nodes: N-1527
+Related Nodes: N-10527
 
 Investigative Direction: Cross-check with Turning Point USA published guest lists and Netanyahu media tour records.
 
@@ -803,7 +803,7 @@ Claim: Per host, the New York Times contacted her about her Phil Turney intervie
 Anchored Artifacts: A-1690 (host testimony in transcript)
 Mentions: N-799
 
-Related Nodes: N-1522, N-1528
+Related Nodes: N-10522, N-10528
 
 Investigative Direction: Monitor NYT for upcoming USS Liberty coverage.
 
@@ -818,7 +818,7 @@ Claim: Youssef announced Belly of the Beast tour dates: Portland March 20, Seatt
 Anchored Artifacts: A-1695.1
 Mentions: N-798
 
-Related Nodes: N-1530
+Related Nodes: N-10530
 
 Investigative Direction: Verify with Youssef's official tour pages and ticketing platforms.
 
@@ -864,7 +864,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-798 onward)
-- [x] Non-person investigation targets use the 1000 series (N-1522 onward)
+- [x] Non-person investigation targets use the 1000 series (N-10522 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent with protocol

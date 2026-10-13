@@ -29,7 +29,7 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced:  N-796, N-1517, N-1518, N-1519, N-1520, N-1521
+  - New Nodes Introduced:  N-796, N-10517, N-10518, N-10519, N-10520, N-10521
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-410 (Terrell Farnsworth)
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2208, C-2209, C-2210, N-264, N-1519*
+*Related: C-2206, C-2208, C-2209, C-2210, N-264, N-10519*
 
 **A-1686.3** Closing Segment – "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:26:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2211, C-2212, N-2, N-1519*
+*Related: C-2206, C-2211, C-2212, N-2, N-10519*
 
 **A-1687** TPUSA Board Announcement Letter Bundle
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:47:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2219, C-2224, N-607, N-1520*
+*Related: C-2219, C-2224, N-607, N-10520*
 
 ---
 
@@ -173,7 +173,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-1520*
+*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-10520*
 
 **N-264** Stacy Sheridan
 
@@ -208,7 +208,7 @@ Investigative Pressure: Low
 
 *Related: A-1686.1, C-2220*
 
-**N-1517** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10517** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Persistent discrepancy between Andrew Kolvet's account (Netanyahu offered to fund TPUSA "to the next level") and Erika Kirk's account (no funding offer was made; Bibi was calling about a May letter) regarding the Hamptons retreat phone call.
 
@@ -219,7 +219,7 @@ Investigative Pressure: High
 
 *Related: N-2*
 
-**N-1518** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10518** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Persistent discrepancy regarding whether Dr. Lee Trotter acted independently and violated HIPAA, or whether Erika Kirk was present on a three-way call with the surgeon on the day of Charlie Kirk's funeral mass, and whether the "Superman neck" statement originated from her.
 
@@ -230,7 +230,7 @@ Investigative Pressure: High
 
 *Related: N-2*
 
-**N-1519** TPUSA September 16 Corporate Call Framing Pattern
+**N-10519** TPUSA September 16 Corporate Call Framing Pattern
 
 Investigation target concerning Erika Kirk's "family" / job-safety framing of TPUSA staff in the September 16 Zoom call, juxtaposed by host against subsequent employee terminations she reports learning about from ex-staff.
 
@@ -241,7 +241,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, A-1686.3, C-2207, C-2208, C-2209, C-2210, C-2211, N-2*
 
-**N-1520** Daily Wire Hungary Production Expenditure Investigation
+**N-10520** Daily Wire Hungary Production Expenditure Investigation
 
 Persistent target concerning the financial scale and rationale of Daily Wire's Hungary-based production, including reporting that it involved approximately 100 extras, marsh sequences, transport to Italy, and bulls imported from Spain.
 
@@ -252,7 +252,7 @@ Investigative Pressure: Medium
 
 *Related: A-1689.1, C-2219, C-2224, N-607*
 
-**N-1521** Fort Huachuca PR Response Coordination Question
+**N-10521** Fort Huachuca PR Response Coordination Question
 
 Persistent question regarding coordination between Erika Kirk and Andrew Kolvet on the Fort Huachuca PR response, allegedly routed through Paramount Tactical rather than directly to Candace Owens following their four-hour sit-down.
 
@@ -276,7 +276,7 @@ Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA e
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
 Mentions: N-264, N-1, N-2
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
 
@@ -289,7 +289,7 @@ Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs u
 Anchored Artifacts: A-1686.1
 Mentions: N-2
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
 
@@ -302,7 +302,7 @@ Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Poi
 Anchored Artifacts: A-1686.2
 Mentions: N-264, N-2
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
 
@@ -315,7 +315,7 @@ Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell 
 Anchored Artifacts: A-1686.2
 Mentions: N-2
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
 
@@ -328,7 +328,7 @@ Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence
 Anchored Artifacts: A-1686.2
 Mentions: N-2, N-1
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
 
@@ -341,7 +341,7 @@ Claim: During the September 16 call, Erika Kirk told TPUSA employees to "be soft
 Anchored Artifacts: A-1686.3
 Mentions: N-2
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
 
@@ -354,7 +354,7 @@ Claim: During the September 16 call, Erika Kirk shared an airplane analogy ("15 
 Anchored Artifacts: A-1686.3
 Mentions: N-2
 
-Related Nodes: N-1519
+Related Nodes: N-10519
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
@@ -439,7 +439,7 @@ Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary pro
 Anchored Artifacts: A-1689.1
 Mentions: N-607
 
-Related Nodes: N-1520
+Related Nodes: N-10520
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
@@ -500,7 +500,7 @@ Claim: Candace Owens concurs with the Bulwark host's characterization of Daily W
 Anchored Artifacts: A-1689.1
 Mentions: N-607, N-3
 
-Related Nodes: N-1520
+Related Nodes: N-10520
 
 Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
 

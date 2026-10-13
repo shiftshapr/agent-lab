@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1657, N-1658, N-1659, N-1660, N-1661
+  - New Nodes Introduced: N-10657, N-10658, N-10659, N-10660, N-10661
   - Hole-minted Nodes (wave3): N-673
   - Reused Nodes Appearing: N-666
   - (see registers)
@@ -38,7 +38,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2654, N-1660*
+*Related: C-2654, N-10660*
 
 **A-1927.2** Reference attributing Navy O-6 reserve status to Akhmed Karashi (via Baron Coleman)
 
@@ -48,7 +48,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2655, N-1660*
+*Related: C-2655, N-10660*
 
 **A-1927.3** Mitch Snow observation of a meeting concluding at Fort Huachuca the day before the event, with multiple O-6s present
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1660*
+*Related: N-10660*
 
 **A-1927.4** "Built" app description attributed to Akhmed Karashi (co-founded), described as capable of 3D mission-prep visual walk-throughs
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2655, N-1660*
+*Related: C-2655, N-10660*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:11:54–00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host flags potential editing)
 
-*Related: C-2656, C-2657, C-2668, N-1, N-2, N-1658, N-1659*
+*Related: C-2656, C-2657, C-2668, N-1, N-2, N-10658, N-10659*
 
 **A-1928.2** TPUSA's use of audio-only (no video) version as Erika's walkout music at AmFest
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:11:11–00:11:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video played; audio presented)
 
-*Related: C-2656, N-2, N-1658*
+*Related: C-2656, N-2, N-10658*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:08:58–00:10:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2657, N-2, N-1658, N-1659*
+*Related: C-2657, N-2, N-10658, N-10659*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:35:35–00:35:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2658, N-2, N-1657*
+*Related: C-2658, N-2, N-10657*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:36:46–00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio); host flags jump cut
 
-*Related: C-2659, C-2667, N-2, N-1657*
+*Related: C-2659, C-2667, N-2, N-10657*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:16:55–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2661, N-2, N-1658*
+*Related: C-2661, N-2, N-10658*
 
 **A-1932.2** Blake Neff speech at Arizona State University defending Erika's CEO role and insisting Charlie repeatedly said "Erika will take over for me"
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:14:16–00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2660, N-2, N-1658*
+*Related: C-2660, N-2, N-10658*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:25:06–00:28:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2662, N-2, N-1657*
+*Related: C-2662, N-2, N-10657*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:34:02–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not displayed)
 
-*Related: C-2663, N-2, N-1657*
+*Related: C-2663, N-2, N-10657*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:44:55–00:46:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2664, C-2665, N-1661*
+*Related: C-2664, C-2665, N-10661*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:19:47–00:20:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2666, N-2, N-1658*
+*Related: C-2666, N-2, N-10658*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:57:45–00:58:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced; not displayed)
 
-*Related: N-1659*
+*Related: N-10659*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:22:00–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2, N-1658*
+*Related: N-2, N-10658*
 
 **A-1938.2** "Chewing the Void" top comment drawing JFK-model parallel
 
@@ -269,7 +269,7 @@ First named by the host at 00:42:15 in episode 88.
 
 ### Investigation Targets
 
-**N-1657** Erika Kirk September 10 Whereabouts Verification
+**N-10657** Erika Kirk September 10 Whereabouts Verification
 
 Persistent inconsistency between the New York Times "hospital room at 11:23 a.m." account, Erika's Jesse Watters "mom's doctor's appointment" account (with apparent jump cut), and multiple witnesses placing Erika without her mother on Sept 10, 2025.
 
@@ -280,7 +280,7 @@ Investigative Pressure: High
 
 *Related: A-1930.1, A-1931.1, A-1933.1, A-1934.1, C-2658, C-2659, C-2662, C-2663, C-2667, N-2*
 
-**N-1658** Aspen Donor Audio Integrity Question
+**N-10658** Aspen Donor Audio Integrity Question
 
 Audio artifact released by TPUSA purporting to show Charlie naming Erika as successor shows apparent editing and has been released only as audio (no video); TPUSA publicly declined to release the corresponding video.
 
@@ -291,7 +291,7 @@ Investigative Pressure: High
 
 *Related: A-1928.1, A-1928.2, A-1929.1, A-1932.1, A-1932.2, A-1936.1, C-2656, C-2657, C-2660, C-2661, C-2666, N-2*
 
-**N-1659** Aspen Donor Event Memory Discrepancy
+**N-10659** Aspen Donor Event Memory Discrepancy
 
 3 of 4 attendees contacted by host investigation (one of whom was a couple) reportedly do not recall Charlie Kirk stating he wanted Erika to run TPUSA at the August 15–17, 2025 Aspen event.
 
@@ -302,7 +302,7 @@ Investigative Pressure: Medium
 
 *Related: A-1928.1, A-1929.1, A-1937.1, C-2657, C-2668, N-2*
 
-**N-1660** Karashi Family Military / Fort Huachuca Connections
+**N-10660** Karashi Family Military / Fort Huachuca Connections
 
 Pattern of Karashi family members with military/intelligence training at Fort Huachuca and app-development ties plausibly relevant to mission planning for the Sept 10 event.
 
@@ -313,7 +313,7 @@ Investigative Pressure: Medium
 
 *Related: A-1927.1, A-1927.2, A-1927.3, A-1927.4, C-2654, C-2655*
 
-**N-1661** Pam Bondi Dismissal Context Question
+**N-10661** Pam Bondi Dismissal Context Question
 
 Cause and political context of Trump's firing of Pam Bondi; host reports alleged Eric Swalwell / Christine Fang tip-off as cause but presents no artifact for that claim in this episode.
 
@@ -335,7 +335,7 @@ Claim Timestamp: 00:01:20–00:03:02
 Claim: Per his LinkedIn profile as reported on the episode, Tour Karashi trained at Fort Huachuca using reconnaissance drones.
 
 Anchored Artifacts: A-1927.1
-Related Nodes: N-1660
+Related Nodes: N-10660
 Investigative Direction: Preserve and verify Tour Karashi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
 **C-2655** "Built" app co-founded by Akhmed Karashi has 3D mission-prep visualization capability
@@ -346,7 +346,7 @@ Claim: The "Built" app co-founded by Akhmed Karashi is reported to have the capa
 
 Anchored Artifacts: A-1927.4
 Mentions: N-666
-Related Nodes: N-1660
+Related Nodes: N-10660
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
 **C-2656** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
@@ -357,7 +357,7 @@ Claim: TPUSA used only the audio (not video) of the alleged Aspen donor event st
 
 Anchored Artifacts: A-1928.2
 Mentions: N-2
-Related Nodes: N-1658
+Related Nodes: N-10658
 Investigative Direction: Obtain and review the AmFest event footage to confirm the audio-only nature of the walkout and trace the audio's source.
 
 **C-2657** Erika Kirk publicly claimed Charlie told Aspen donors he wanted her to take over TPUSA
@@ -368,7 +368,7 @@ Claim: On Megan Kelly (Nov 24, 2025), Erika Kirk described a donor question at t
 
 Anchored Artifacts: A-1929.1
 Mentions: N-2, N-1, N-75
-Related Nodes: N-1658, N-1659
+Related Nodes: N-10658, N-10659
 Investigative Direction: Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
 **C-2658** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
@@ -379,7 +379,7 @@ Claim: The verbatim New York Times passage read on air stated Ms. Kirk was sitti
 
 Anchored Artifacts: A-1930.1
 Mentions: N-2
-Related Nodes: N-1657
+Related Nodes: N-10657
 Investigative Direction: Retrieve the original NY Times article and verify the precise language used (hospital room vs. clinic vs. treatment center) and the timestamp.
 
 **C-2659** Erika Kirk told Jesse Watters she was at her mother's doctor's appointment when she got the news
@@ -390,7 +390,7 @@ Claim: On Jesse Watters, Erika Kirk stated she was at her mom's doctor's appoint
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2, N-313
-Related Nodes: N-1657
+Related Nodes: N-10657
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
 **C-2660** Blake Neff publicly insisted Charlie repeatedly said he wanted Erika as his successor
@@ -401,7 +401,7 @@ Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly sa
 
 Anchored Artifacts: A-1932.2
 Mentions: N-2, N-224
-Related Nodes: N-1658
+Related Nodes: N-10658
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
 **C-2661** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
@@ -412,7 +412,7 @@ Claim: Blake Neff on X declined to release the Aspen video and accused Candace O
 
 Anchored Artifacts: A-1932.1
 Mentions: N-2, N-3, N-224
-Related Nodes: N-1658
+Related Nodes: N-10658
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
 **C-2662** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit
@@ -434,7 +434,7 @@ Claim: Erika Kirk posted an Instagram video of her mother appearing frail and si
 
 Anchored Artifacts: A-1934.1
 Mentions: N-2
-Related Nodes: N-1657
+Related Nodes: N-10657
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
 **C-2664** Trump fired Pam Bondi via social-media statement
@@ -445,7 +445,7 @@ Claim: Donald Trump announced the firing of Pam Bondi as Attorney General via a 
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-120
-Related Nodes: N-1661
+Related Nodes: N-10661
 Investigative Direction: Retrieve the original Truth Social / X post to verify exact language and timestamp.
 
 **C-2665** Todd Blanche named as Acting Attorney General
@@ -456,7 +456,7 @@ Claim: Trump's statement named Deputy Attorney General Todd Blanche to serve as 
 
 Anchored Artifacts: A-1935.1
 Mentions: N-867
-Related Nodes: N-1661
+Related Nodes: N-10661
 Investigative Direction: Verify the formal appointment and any subsequent Senate-confirmation process.
 
 **C-2666** Erika publicly promised TPUSA had decades of unused Charlie Kirk content
@@ -467,7 +467,7 @@ Claim: Approximately 16 days after Charlie's death, Erika Kirk publicly stated T
 
 Anchored Artifacts: A-1936.1
 Mentions: N-2, N-1
-Related Nodes: N-1658
+Related Nodes: N-10658
 Investigative Direction: Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.
 
 **C-2667** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025
@@ -478,7 +478,7 @@ Claim: Per host investigation, multiple sources – including an unnamed Phoenix
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2, N-673
-Related Nodes: N-1657
+Related Nodes: N-10657
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
 **C-2668** 3 of 4 Aspen event attendees contacted by host investigation did not recall Charlie naming Erika
@@ -489,7 +489,7 @@ Claim: Per host outreach to four Aspen event attendees (one of whom was a couple
 
 Anchored Artifacts: A-1928.1
 Mentions: N-2, N-1
-Related Nodes: N-1659
+Related Nodes: N-10659
 Investigative Direction: Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.
 
 ---

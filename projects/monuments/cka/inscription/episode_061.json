@@ -42,10 +42,10 @@
             "N-2",
             "N-776",
             "N-70",
-            "N-1503",
-            "N-1504",
-            "N-1506",
-            "N-1507"
+            "N-10503",
+            "N-10504",
+            "N-10506",
+            "N-10507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -73,8 +73,8 @@
           ],
           "related_nodes": [
             "N-443",
-            "N-1503",
-            "N-1504"
+            "N-10503",
+            "N-10504"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1508"
+            "N-10508"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -468,7 +468,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1507"
+        "N-10507"
       ]
     },
     {
@@ -488,7 +488,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ]
     },
     {
@@ -509,7 +509,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-1503"
+        "N-10503"
       ]
     },
     {
@@ -527,13 +527,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1503",
-      "ref": "N-1503",
+      "@id": "N-10503",
+      "ref": "N-10503",
       "name": "TPUSA Non-Disparagement Enforcement Campaign",
       "type": "investigation_target",
       "description": "Persistent effort by Turning Point USA to invoke a 12-month post-termination non-disparagement clause to silence Owens's investigation-related commentary.",
@@ -568,8 +568,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1504",
-      "ref": "N-1504",
+      "@id": "N-10504",
+      "ref": "N-10504",
       "name": "TPUSA Financial Impropriety Allegations",
       "type": "investigation_target",
       "description": "Persistent allegation that TPUSA engaged in financial impropriety, formally cited in the cease and desist letter and attributed by host to DOGE-style scrutiny.",
@@ -587,13 +587,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1505"
+        "N-10505"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1505",
-      "ref": "N-1505",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "investigation_target",
       "description": "Host's claim that Charlie Kirk established a \"DOGE\" (Department of Government Efficiency-style entity) seven days before his death, framed as a possible motive for financial scrutiny.",
@@ -610,13 +610,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-1504"
+        "N-10504"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1506",
-      "ref": "N-1506",
+      "@id": "N-10506",
+      "ref": "N-10506",
       "name": "Fort Wuka Erika Kirk Location Investigation",
       "type": "investigation_target",
       "description": "Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a \"secret meeting\" at Fort Wuka linked to the Kirk assassination.",
@@ -638,8 +638,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1507",
-      "ref": "N-1507",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
       "description": "Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1508",
-      "ref": "N-1508",
+      "@id": "N-10508",
+      "ref": "N-10508",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
       "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would \"know what to do\" if something happened.",
@@ -758,7 +758,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
@@ -779,7 +779,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10–00:15:10",
@@ -799,7 +799,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1506"
+        "N-10506"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00–00:14:10",
@@ -818,7 +818,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1507"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
@@ -837,7 +837,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1504"
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
@@ -853,8 +853,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503",
-        "N-1504"
+        "N-10503",
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
@@ -873,7 +873,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:09:53–00:10:50",
@@ -889,7 +889,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:08:25–00:09:12",
@@ -905,8 +905,8 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-1503",
-        "N-1504"
+        "N-10503",
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39",
@@ -926,8 +926,8 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-1503",
-        "N-1504"
+        "N-10503",
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39–00:06:17",
@@ -947,7 +947,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17–00:07:37",
@@ -963,7 +963,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17–00:07:37",
@@ -979,7 +979,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-1507"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
@@ -1166,7 +1166,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-1503"
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
@@ -1186,7 +1186,7 @@
         "A-1668.1"
       ],
       "related_nodes": [
-        "N-1508"
+        "N-10508"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",

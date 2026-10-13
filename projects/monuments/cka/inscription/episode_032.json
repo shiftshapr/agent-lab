@@ -207,7 +207,7 @@
           "related_nodes": [
             "N-392",
             "N-394",
-            "N-1319"
+            "N-10319"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -237,8 +237,8 @@
           "related_nodes": [
             "N-396",
             "N-400",
-            "N-1319",
-            "N-1320"
+            "N-10319",
+            "N-10320"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -329,7 +329,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1321"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -357,7 +357,7 @@
           ],
           "related_nodes": [
             "N-402",
-            "N-1321"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -463,7 +463,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1322"
+            "N-10322"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -515,7 +515,7 @@
       "related_nodes": [
         "N-394",
         "N-395",
-        "N-1319"
+        "N-10319"
       ]
     },
     {
@@ -609,7 +609,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1320"
+        "N-10320"
       ]
     },
     {
@@ -676,7 +676,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-392",
-        "N-1319"
+        "N-10319"
       ]
     },
     {
@@ -743,7 +743,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1321"
+        "N-10321"
       ]
     },
     {
@@ -795,8 +795,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1319",
-      "ref": "N-1319",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Calvary Chapel Network Infiltration Question",
       "type": "investigation_target",
       "description": "Persistent investigation into whether multiple Calvary Chapel congregations and their leadership are participating in coordinated financial exploitation, tithing redirection, and intelligence-linked activity. Triggered by Brett Cooper segment, viewer email, and Courtney Love text messages.",
@@ -824,8 +824,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1320",
-      "ref": "N-1320",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Investigative target: alleged coordinating entity above Hollywood and \"Zionist Jews\" identified in Courtney Love text messages of January 2025. Single-source, unverified.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1321",
-      "ref": "N-1321",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Charlie Kirk Event – Maroon Shirt Individual Identification",
       "type": "investigation_target",
       "description": "Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.",
@@ -874,8 +874,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1322",
-      "ref": "N-1322",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "TPUSA Faith-Angle Investigation",
       "type": "investigation_target",
       "description": "Persistent investigation target: pattern in which TPUSA-associated reporting/disputes focus on matters of religious affiliation (Catholicism, Calvary Chapel, faith-based leadership).",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1323",
-      "ref": "N-1323",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Potter's Fields Hostile Takeover Allegation",
       "type": "investigation_target",
       "description": "Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).",
@@ -910,7 +910,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1319"
+        "N-10319"
       ]
     },
     {
@@ -1047,7 +1047,7 @@
         "A-1403.1"
       ],
       "related_nodes": [
-        "N-1319"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:11:07",
@@ -1142,7 +1142,7 @@
         "A-1405.1"
       ],
       "related_nodes": [
-        "N-1319"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:14:40",
@@ -1163,7 +1163,7 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-1320"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1199,8 +1199,8 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-1320",
-        "N-1319"
+        "N-10320",
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1219,7 +1219,7 @@
         "A-1406.1"
       ],
       "related_nodes": [
-        "N-1319"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:28:30",
@@ -1277,7 +1277,7 @@
         "A-1411.1"
       ],
       "related_nodes": [
-        "N-1321"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:41:29",
@@ -1297,7 +1297,7 @@
         "A-1410.1"
       ],
       "related_nodes": [
-        "N-1321"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:44:05",
@@ -1386,7 +1386,7 @@
         "A-1414.1"
       ],
       "related_nodes": [
-        "N-1322"
+        "N-10322"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29",
