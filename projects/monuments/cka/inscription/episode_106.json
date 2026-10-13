@@ -7,15 +7,2596 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:51:06",
+    "extraction_timestamp": "2026-10-13T21:36:20Z",
+    "model_version": "claude-manual-extract-seq106",
     "transcript_sha256": "581ac54f84c04c6827df73e35e73178ffe05b80e6ec32ddecc27200006bd5897",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "Episode 106 advances three threads: (1) Candace displays a trailer for an upcoming Hunter Biden interview airing Thursday, with Hunter making on-camera admissions and comments about Charlie Kirk; (2) the Erika Kirk CEO-appointment Aspen video controversy escalates as a Daily Mail piece by Charlie Spearing claims exclusive screening while turning Point cites donor privacy for non-release; (3) Candace tests the White House denial of the WHCD email, receives an identical 4.5-minute denial, then gets ghosted on a clarifying follow-up. Paramount Tactical's two September 2025 DOD contracts totaling $190k are surfaced.",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
-  "memes": []
+  "executive_summary": "The host opens by confirming that the circulating trailer is real: she has interviewed Hunter Biden in her house, and the full interview will be released on Thursday. In the trailer (A-2590.1) Hunter Biden says \"I was a crackhead\" and comments on the Charlie Kirk assassination. The host says the interview came about after she named Hunter Biden at a dinner as someone she would like to interview, and an unnamed guest called the next day offering to arrange it.\n\nThe host then frames Erika Kirk's rise as \"the COVID vaccine\" – an institutionally backed rollout whose critics are pathologized – and shows vaccine-incentive headlines and a \"dark triad\" vaccination study (A-2591). On the Aspen video, she restates that Erika Kirk told Megyn Kelly about a video of Charlie Kirk naming her CEO. She says sources with direct knowledge told her Charlie only said he trusted his lieutenants, which she argues would imply the CEO line was added with AI. After 46 days of requests, she says, Turning Point USA screened the footage privately for the Daily Mail. She reads from Charlie Spearing's paywalled article (A-2593): an anonymous board member's account of the couple's estate planning, the paper's \"exclusive access,\" and TPUSA's donor-privacy reason for not releasing the video. She also says an insider told her Erika inherited about $10 million under Charlie's will, and that TPUSA met with a Hollywood AI company that makes posthumous videos. She shows reaction posts and her exchange with Blake Neff (A-2594).\n\nIn the third segment, which the host calls \"operation warp widow,\" she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's \"I want to go home\" clip and called her an \"emotional asset.\" Axios reporter Mark Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smalley and Ryan Rippeon exists (A-2595.4).\n\nThe host then airs Department of Defense payment records (A-2596.1) showing, she says, that Paramount Tactical, run by Gary Melton, received $39,000 on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025. She notes that he does not make his own gear, and also recalls a DoD contract to the father of \"decoy boy number two.\" The episode closes with a young fan's Ben Shapiro horse video and viewer comments, during which the host says she is done voting until the assassination is solved.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2590",
+      "family_ref": "A-2590",
+      "bundle_name": "Hunter Biden Interview Trailer Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2590.1",
+          "ref": "A-2590.1",
+          "description": "Trailer for the host's upcoming Hunter Biden interview (played)",
+          "related_claims": [
+            "C-4163",
+            "C-4164",
+            "C-4165",
+            "C-4168"
+          ],
+          "related_nodes": [
+            "N-646",
+            "N-3",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2591",
+      "family_ref": "A-2591",
+      "bundle_name": "COVID Analogy Exhibits Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2591.1",
+          "ref": "A-2591.1",
+          "description": "Headlines on COVID vaccine incentives (free Krispy Kreme donuts, beer, marijuana joints, Super Bowl tickets, White Castle dessert on a stick) shown on screen",
+          "related_claims": [
+            "C-4169"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2591.2",
+          "ref": "A-2591.2",
+          "description": "Study on dark triad personality traits and COVID-19 vaccination uptake (shown with highlighted passage)",
+          "related_claims": [
+            "C-4171"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2592",
+      "family_ref": "A-2592",
+      "bundle_name": "Erika Kirk Megyn Kelly Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2592.1",
+          "ref": "A-2592.1",
+          "description": "Image or clip of Erika Kirk's interview with Megyn Kelly describing the Aspen video (shown)",
+          "related_claims": [
+            "C-4172"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-46",
+            "N-1",
+            "N-10936"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2593",
+      "family_ref": "A-2593",
+      "bundle_name": "Daily Mail Aspen Video Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2593.1",
+          "ref": "A-2593.1",
+          "description": "Daily Mail article by Charlie Spearing on the \"secret video\" of Charlie Kirk naming his successor (headline shown)",
+          "related_claims": [
+            "C-4177",
+            "C-4178",
+            "C-4179"
+          ],
+          "related_nodes": [
+            "N-648",
+            "N-10070",
+            "N-10936"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2593.2",
+          "ref": "A-2593.2",
+          "description": "Daily Mail article passage quoting TPUSA allies and an anonymous board member (read aloud)",
+          "related_claims": [
+            "C-4180"
+          ],
+          "related_nodes": [
+            "N-10070",
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:57",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2593.3",
+          "ref": "A-2593.3",
+          "description": "Daily Mail article passage on its exclusive access to screen the Aspen video (read aloud)",
+          "related_claims": [
+            "C-4183"
+          ],
+          "related_nodes": [
+            "N-10070",
+            "N-10936"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2593.4",
+          "ref": "A-2593.4",
+          "description": "Daily Mail article passage on TPUSA's donor-privacy reason for not releasing the video (read aloud)",
+          "related_claims": [
+            "C-4184"
+          ],
+          "related_nodes": [
+            "N-10070",
+            "N-10000",
+            "N-10936"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2594",
+      "family_ref": "A-2594",
+      "bundle_name": "Aspen Video Reaction Posts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2594.1",
+          "ref": "A-2594.1",
+          "description": "Posts on X reacting to the Daily Mail article and Blake Neff (shown and read aloud)",
+          "related_claims": [
+            "C-4188"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:48",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2594.2",
+          "ref": "A-2594.2",
+          "description": "Blake Neff post recapping the Daily Mail report (shown)",
+          "related_claims": [
+            "C-4189",
+            "C-4190"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2594.3",
+          "ref": "A-2594.3",
+          "description": "Host's reply on the ratio and Blake Neff's response (shown)",
+          "related_claims": [
+            "C-4191"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2595",
+      "family_ref": "A-2595",
+      "bundle_name": "White House Military Office Denial Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2595.1",
+          "ref": "A-2595.1",
+          "description": "Mark Caputo post with the White House background statement denying the WHCD email (shown)",
+          "related_claims": [
+            "C-4194"
+          ],
+          "related_nodes": [
+            "N-649",
+            "N-10940",
+            "N-10941"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:57",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2595.2",
+          "ref": "A-2595.2",
+          "description": "Show clip of Graham Allen with TPUSA figures discussing the Axios report (played)",
+          "related_claims": [
+            "C-4195",
+            "C-4196"
+          ],
+          "related_nodes": [
+            "N-620",
+            "N-14",
+            "N-162",
+            "N-10940"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2595.3",
+          "ref": "A-2595.3",
+          "description": "White House reply to the host's producer, received in four and a half minutes (shown)",
+          "related_claims": [
+            "C-4197"
+          ],
+          "related_nodes": [
+            "N-10941",
+            "N-10075"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2595.4",
+          "ref": "A-2595.4",
+          "description": "Host's follow-up email to the White House on the April 25 email (read aloud)",
+          "related_claims": [
+            "C-4199",
+            "C-4200",
+            "C-4202"
+          ],
+          "related_nodes": [
+            "N-163",
+            "N-640",
+            "N-635",
+            "N-2",
+            "N-10923"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2596",
+      "family_ref": "A-2596",
+      "bundle_name": "Paramount Tactical DoD Payment Records Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2596.1",
+          "ref": "A-2596.1",
+          "description": "Department of Defense payment records to Paramount Tactical dated September 24 and September 29, 2025 (shown)",
+          "related_claims": [
+            "C-4203",
+            "C-4206"
+          ],
+          "related_nodes": [
+            "N-10899",
+            "N-628",
+            "N-10888",
+            "N-10937"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2597",
+      "family_ref": "A-2597",
+      "bundle_name": "Ben Shapiro Horse Fan Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2597.1",
+          "ref": "A-2597.1",
+          "description": "Video of a young fan asking her mother to replay the clip of Ben Shapiro on a horse, with a side-by-side (played)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-97"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2598",
+      "family_ref": "A-2598",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2598.1",
+          "ref": "A-2598.1",
+          "description": "Viewer comment (Ali) on Erika Kirk's CEO role and Bari Weiss (read aloud)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-284",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:29",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2598.2",
+          "ref": "A-2598.2",
+          "description": "Viewer comment (Violet Ragdoll) on TPUSA reversing Charlie Kirk's values (read aloud)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-10000",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination victim whose Aspen succession remarks, corporate will, footage catalog and legacy are discussed.",
+      "related_artifacts": [
+        "A-2590.1",
+        "A-2592.1",
+        "A-2593.2",
+        "A-2598.2"
+      ],
+      "related_claims": [
+        "C-4165",
+        "C-4172",
+        "C-4173",
+        "C-4174",
+        "C-4177",
+        "C-4180",
+        "C-4181",
+        "C-4182",
+        "C-4187",
+        "C-4188",
+        "C-4189",
+        "C-4203",
+        "C-4208",
+        "C-4209",
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Her CEO appointment, the Aspen video she described to Megyn Kelly, her reported inheritance and the WHCD \"emotional asset\" email are the episode's main subjects.",
+      "related_artifacts": [
+        "A-2592.1",
+        "A-2593.2",
+        "A-2594.1",
+        "A-2595.4",
+        "A-2598.1"
+      ],
+      "related_claims": [
+        "C-4172",
+        "C-4174",
+        "C-4180",
+        "C-4181",
+        "C-4182",
+        "C-4183",
+        "C-4185",
+        "C-4187",
+        "C-4188",
+        "C-4189",
+        "C-4192",
+        "C-4193",
+        "C-4199",
+        "C-4205",
+        "C-4210"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; conducted the Hunter Biden interview, exchanged posts with Blake Neff and corresponded with the White House about the WHCD email.",
+      "related_artifacts": [
+        "A-2590.1",
+        "A-2594.2",
+        "A-2594.3"
+      ],
+      "related_claims": [
+        "C-4163",
+        "C-4164",
+        "C-4167",
+        "C-4176",
+        "C-4190",
+        "C-4191",
+        "C-4192",
+        "C-4196",
+        "C-4197",
+        "C-4198",
+        "C-4199",
+        "C-4200",
+        "C-4201",
+        "C-4202",
+        "C-4211",
+        "C-4212"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Transcript spelling \"J. D. Vance\". Named among those the host says betrayed Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "The host cites a betrayal by the Trump administration as a reason she is done voting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Transcript spellings \"Andrew Kolbatz\" and \"Andrew Kolb\". Named as promoting the Axios denial alongside Blake Neff and Graham Allen.",
+      "related_artifacts": [
+        "A-2595.2"
+      ],
+      "related_claims": [
+        "C-4195"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Referred to as \"Don\"; named among those the host says betrayed Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-34",
+      "ref": "N-34",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Referred to as \"Eric\"; named among those the host says betrayed Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Transcript spelling \"Megan Kelly\" at 00:20:47. Erika Kirk described the Aspen video to her in an interview.",
+      "related_artifacts": [
+        "A-2592.1"
+      ],
+      "related_claims": [
+        "C-4172",
+        "C-4185"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Named among those the host says betrayed Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Subject of the young fan's horse video.",
+      "related_artifacts": [
+        "A-2597.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Transcript spellings \"Laky Neff\" and \"Blakey fake\". Defended the non-release of the Aspen video, exchanged posts with the host and promoted the Axios denial.",
+      "related_artifacts": [
+        "A-2594.1",
+        "A-2594.2",
+        "A-2594.3",
+        "A-2595.2"
+      ],
+      "related_claims": [
+        "C-4176",
+        "C-4189",
+        "C-4190",
+        "C-4191",
+        "C-4195"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-163",
+      "ref": "N-163",
+      "name": "Steven Cheung",
+      "type": "person",
+      "description": "Named in the host's follow-up email as copied on the April 25 WHCD email.",
+      "related_artifacts": [
+        "A-2595.4"
+      ],
+      "related_claims": [
+        "C-4199"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Transcript spelling \"Bryan Hubble\". The host says he chose Paramount Tactical for an interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4204"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Transcript spelling \"Barry Weiss\". Mentioned in a viewer comment read on air.",
+      "related_artifacts": [
+        "A-2598.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-383",
+      "ref": "N-383",
+      "name": "Lara Trump",
+      "type": "person",
+      "description": "Referred to as \"Lara\"; named among those the host says betrayed Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-646",
+      "ref": "N-646",
+      "name": "Hunter Biden",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 106. Interviewed by the host in her house for an episode releasing on Thursday.",
+      "related_artifacts": [
+        "A-2590.1"
+      ],
+      "related_claims": [
+        "C-4163",
+        "C-4164",
+        "C-4165",
+        "C-4166",
+        "C-4167",
+        "C-4168"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-647",
+      "ref": "N-647",
+      "name": "Andrew Callaghan",
+      "type": "person",
+      "description": "First named by the host at 00:03:44 in episode 106. Interviewer whose earlier conversation with Hunter Biden went viral.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4166"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-648",
+      "ref": "N-648",
+      "name": "Charlie Spearing",
+      "type": "person",
+      "description": "First named by the host at 00:15:03 in episode 106. Daily Mail reporter who wrote the article on the private screening of the Aspen video.",
+      "related_artifacts": [
+        "A-2593.1"
+      ],
+      "related_claims": [
+        "C-4177"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-649",
+      "ref": "N-649",
+      "name": "Mark Caputo",
+      "type": "person",
+      "description": "First named by the host at 00:29:57 in episode 106. Axios reporter who posted the White House Military Office denial of the WHCD email.",
+      "related_artifacts": [
+        "A-2595.1"
+      ],
+      "related_claims": [
+        "C-4194"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-620",
+      "ref": "N-620",
+      "name": "Graham Allen",
+      "type": "person",
+      "description": "First named by the host at 00:30:43 in episode 106. Host of the show clip in which he, Andrew Kolvet and Blake Neff discuss the Axios denial.",
+      "related_artifacts": [
+        "A-2595.2"
+      ],
+      "related_claims": [
+        "C-4195",
+        "C-4196"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-640",
+      "ref": "N-640",
+      "name": "Richard Smaly",
+      "type": "person",
+      "description": "First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email.",
+      "related_artifacts": [
+        "A-2595.4"
+      ],
+      "related_claims": [
+        "C-4199",
+        "C-4202"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-635",
+      "ref": "N-635",
+      "name": "Ryan Rippeon",
+      "type": "person",
+      "description": "First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippey.",
+      "related_artifacts": [
+        "A-2595.4"
+      ],
+      "related_claims": [
+        "C-4199",
+        "C-4202"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-628",
+      "ref": "N-628",
+      "name": "Gary Melton",
+      "type": "person",
+      "description": "First named by the host at 00:38:39 in episode 106 (as \"Gary\"; full name at 00:39:34). The host identifies him as running Paramount Tactical, which she says received DoD payments in September 2025.",
+      "related_artifacts": [
+        "A-2596.1"
+      ],
+      "related_claims": [
+        "C-4203",
+        "C-4204",
+        "C-4205",
+        "C-4206",
+        "C-4207"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose handling of the Aspen video, chapter leaders, corporate will, footage catalog and AI-company contacts is discussed.",
+      "related_artifacts": [
+        "A-2593.4",
+        "A-2598.2"
+      ],
+      "related_claims": [
+        "C-4170",
+        "C-4172",
+        "C-4174",
+        "C-4175",
+        "C-4176",
+        "C-4177",
+        "C-4180",
+        "C-4181",
+        "C-4183",
+        "C-4184",
+        "C-4185",
+        "C-4186",
+        "C-4204",
+        "C-4205",
+        "C-4209"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "Published Charlie Spearing's article on its exclusive screening of the Aspen video.",
+      "related_artifacts": [
+        "A-2593.1",
+        "A-2593.2",
+        "A-2593.3",
+        "A-2593.4"
+      ],
+      "related_claims": [
+        "C-4177",
+        "C-4178",
+        "C-4179",
+        "C-4180",
+        "C-4183",
+        "C-4184",
+        "C-4190"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Recipient of the host's inquiries about the WHCD email; gave the same denial in four and a half minutes and has not answered her follow-up.",
+      "related_artifacts": [
+        "A-2595.3"
+      ],
+      "related_claims": [
+        "C-4192",
+        "C-4194",
+        "C-4197",
+        "C-4199",
+        "C-4200",
+        "C-4202"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10577",
+      "ref": "N-10577",
+      "name": "Built Inc. Federal Contracting Pattern",
+      "type": "investigation_target",
+      "description": "The host recalls that the father of \"decoy boy number two\" received a large DoD contract through the Built app.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4208"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10578",
+      "ref": "N-10578",
+      "name": "Decoy Subject Investigation (Karashy/Qureshi)",
+      "type": "investigation_target",
+      "description": "The host refers to \"decoy boy number two\" and his father's DoD contract.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4208"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10637",
+      "ref": "N-10637",
+      "name": "WHCD Incident Reconstruction",
+      "type": "investigation_target",
+      "description": "The shooting at the White House Correspondents' Dinner used as the reference point for the email's timing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10643",
+      "ref": "N-10643",
+      "name": "Harpole Fort Huachuca Alibi Question",
+      "type": "investigation_target",
+      "description": "The host says the alibi photo passed to Paramount Tactical shows children who are not Erika Kirk's.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4204",
+        "C-4205"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "The host's sources say Charlie did not name Erika CEO in Aspen; she argues this implies AI alteration.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4173",
+        "C-4174"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Referred to as the Department of Defense; source of the September 2025 payments to Paramount Tactical and of the Built contract.",
+      "related_artifacts": [
+        "A-2596.1"
+      ],
+      "related_claims": [
+        "C-4203",
+        "C-4206",
+        "C-4207",
+        "C-4208"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Referred to as \"Paramount Tactical\" and \"Paramount, not so tactical\"; the host calls it TPUSA's leading online defender of Erika Kirk and a recipient of DoD payments.",
+      "related_artifacts": [
+        "A-2596.1"
+      ],
+      "related_claims": [
+        "C-4195",
+        "C-4203",
+        "C-4204",
+        "C-4205",
+        "C-4206",
+        "C-4207"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10936",
+      "ref": "N-10936",
+      "name": "Aspen CEO-Appointment Video Non-Release",
+      "type": "topic",
+      "description": "Investigation target: the video of Charlie Kirk at the Aspen donor event that Erika Kirk says shows him naming her CEO and chairman. TPUSA released only the audio, used it as her AmFest walkout music and, per the host, screened the full video privately for the Daily Mail while citing donor privacy as its reason for not releasing it. The host says her sources dispute that Charlie said the line and argues it may have been added with AI.",
+      "related_artifacts": [
+        "A-2592.1",
+        "A-2593.1",
+        "A-2593.3",
+        "A-2593.4"
+      ],
+      "related_claims": [
+        "C-4172",
+        "C-4173",
+        "C-4174",
+        "C-4175",
+        "C-4176",
+        "C-4177",
+        "C-4178",
+        "C-4179",
+        "C-4183",
+        "C-4184",
+        "C-4185",
+        "C-4188",
+        "C-4189"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1",
+        "N-10664"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10937",
+      "ref": "N-10937",
+      "name": "Paramount Tactical September 2025 DoD Payments",
+      "type": "topic",
+      "description": "Investigation target: two Department of Defense payments the host says Paramount Tactical received – $39,000 for individual equipment on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025 – and why the DoD would buy from a reseller that does not make its own gear.",
+      "related_artifacts": [
+        "A-2596.1"
+      ],
+      "related_claims": [
+        "C-4203",
+        "C-4206",
+        "C-4207"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10899",
+        "N-628",
+        "N-10888"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10938",
+      "ref": "N-10938",
+      "name": "Erika Kirk Corporate Will and Inheritance Question",
+      "type": "topic",
+      "description": "Investigation target: whether Charlie Kirk's corporate will or estate planning named Erika Kirk as TPUSA's successor, and the host's insider report that she inherited about $10 million.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4180",
+        "C-4181",
+        "C-4182"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10939",
+      "ref": "N-10939",
+      "name": "TPUSA Hollywood AI Company Meeting",
+      "type": "topic",
+      "description": "Investigation target: the host's report that TPUSA met with a Hollywood AI company that makes posthumous videos, read alongside Erika Kirk's statement that there are 10 years of unseen footage of Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4186",
+        "C-4187"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-10000"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's \"I want to go home\" clip be boosted through White House surrogates and called her an \"emotional asset,\" and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smalley and Ryan Rippeon copied.",
+      "related_artifacts": [
+        "A-2595.4"
+      ],
+      "related_claims": [
+        "C-4192",
+        "C-4193",
+        "C-4194",
+        "C-4195",
+        "C-4196",
+        "C-4197",
+        "C-4198",
+        "C-4199",
+        "C-4200",
+        "C-4201",
+        "C-4202"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10637"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10940",
+      "ref": "N-10940",
+      "name": "Axios",
+      "type": "organization",
+      "description": "News outlet whose reporter Mark Caputo posted the White House Military Office denial of the WHCD email.",
+      "related_artifacts": [
+        "A-2595.1",
+        "A-2595.2"
+      ],
+      "related_claims": [
+        "C-4194",
+        "C-4195"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-649"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10941",
+      "ref": "N-10941",
+      "name": "White House Military Office",
+      "type": "organization",
+      "description": "White House office that, per the statement given to Axios and to the host's producer, had no knowledge of the alleged communications; the host concedes it may not have sent the email.",
+      "related_artifacts": [
+        "A-2595.1",
+        "A-2595.3"
+      ],
+      "related_claims": [
+        "C-4194",
+        "C-4197",
+        "C-4198"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10075"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4163",
+      "ref": "C-4163",
+      "label": "Hunter Biden was interviewed in person at the host's house",
+      "claim": "The host says the circulating trailer is real and that Hunter Biden was in her house for the interview.",
+      "anchored_artifacts": [
+        "A-2590.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Compare the full interview release and production metadata with the trailer; confirm the interview location with the production team or Hunter Biden's representatives.",
+      "transcript_snippet": "The trailer that you saw online is very real. Hunter Biden was in this house with Brigitte doll.",
+      "mentions_person_refs": [
+        "N-646",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4164",
+      "ref": "C-4164",
+      "label": "Hunter Biden says on camera that he \"was a crackhead\"",
+      "claim": "In the trailer played by the host, Hunter Biden says he has heard the host call him a crackhead and that \"the truth of the matter is I was a crackhead.\"",
+      "anchored_artifacts": [
+        "A-2590.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:05",
+      "investigative_direction": "Check the full unedited interview for the context of the statement.",
+      "transcript_snippet": "I've heard you call me a crackhead many times and the truth of the matter is I was a crackhead.",
+      "mentions_person_refs": [
+        "N-646",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4165",
+      "ref": "C-4165",
+      "label": "Hunter Biden comments on the Charlie Kirk assassination in the interview",
+      "claim": "In the trailer, Hunter Biden says he thinks \"there was something about the Charlie Kirk assassination that everyone just sort of looked up\"; the host later confirms he discussed Charlie Kirk in the interview.",
+      "anchored_artifacts": [
+        "A-2590.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:01",
+      "investigative_direction": "Review the full interview segment on Charlie Kirk once released.",
+      "transcript_snippet": "And I I do think there was something about the Charlie Kirk assassination that everyone just sort of looked up.",
+      "mentions_person_refs": [
+        "N-646",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4166",
+      "ref": "C-4166",
+      "label": "Hunter Biden earlier gave a viral interview to Andrew Callaghan",
+      "claim": "The host says Hunter Biden earlier gave an interview to Andrew Callaghan that went viral, in which he openly owned his crack addiction and criticized George Clooney and Jake Tapper.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:44",
+      "investigative_direction": "Locate the Andrew Callaghan interview with Hunter Biden, its publication date and view counts.",
+      "transcript_snippet": "Hunter Biden gave an interview to Andrew Callaghan that was kind of going viral.",
+      "mentions_person_refs": [
+        "N-646",
+        "N-647"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4167",
+      "ref": "C-4167",
+      "label": "The interview was arranged through a dinner contact who called the next day",
+      "claim": "The host says that after she named Hunter Biden as an interview she would like to do at a dinner a few weeks earlier, an unnamed person called her the next day offering to make it happen the following week, after her own earlier effort to reach him had failed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:27",
+      "investigative_direction": "Identify the intermediary and the scheduling communications that set up the interview.",
+      "transcript_snippet": "Lo and behold, that person the next day called me and said, \"If you want to do it, we can make it happen next week.\"",
+      "mentions_person_refs": [
+        "N-646",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4168",
+      "ref": "C-4168",
+      "label": "The Hunter Biden interview releases on Thursday",
+      "claim": "The host says the full Hunter Biden interview will be released on the Thursday after this episode.",
+      "anchored_artifacts": [
+        "A-2590.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:19",
+      "investigative_direction": "Check the release date of the full interview on the host's channel.",
+      "transcript_snippet": "It will drop this Thursday, and I very much look forward to all of the surrounding commentary.",
+      "mentions_person_refs": [
+        "N-646"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4169",
+      "ref": "C-4169",
+      "label": "COVID vaccine incentives included free Krispy Kreme donuts, beer and joints",
+      "claim": "As part of her COVID analogy, the host shows headlines she says are real about vaccine incentives including free Krispy Kreme donuts, free beer, free marijuana joints, Super Bowl tickets and a White Castle dessert on a stick.",
+      "anchored_artifacts": [
+        "A-2591.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Locate the original 2021 news reports and corporate announcements for each incentive shown.",
+      "transcript_snippet": "Krispy Kreme donuts for free if you get the vaccine. Free beer. Free marijuana joints. This is all real, these headlines."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4170",
+      "ref": "C-4170",
+      "label": "Turning Point USA is paying chapter leaders to stay on",
+      "claim": "The host says Turning Point USA is now paying its chapter leaders to stay on because \"everybody wants to quit.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Obtain TPUSA chapter-leader stipend or retention policies and testimony from current or former chapter leaders.",
+      "transcript_snippet": "Turning Point USA is now paying their chapter leaders to stay on the board because everybody wants to quit."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4171",
+      "ref": "C-4171",
+      "label": "Study linked dark triad personality traits to lower COVID vaccine uptake",
+      "claim": "The host shows a study titled \"the impact of the dark triad personality traits on COVID-19 vaccination uptake,\" which she says associated high psychopathy scores with a lower likelihood of having received primary immunization.",
+      "anchored_artifacts": [
+        "A-2591.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:15",
+      "investigative_direction": "Locate the published study, its journal, authors and exact findings.",
+      "transcript_snippet": "The study is entitled the impact of the dark triad personality traits on COVID-19 vaccination uptake."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4172",
+      "ref": "C-4172",
+      "label": "Erika Kirk told Megyn Kelly she saw a video of Charlie naming her CEO in Aspen",
+      "claim": "The host says Erika Kirk told Megyn Kelly she saw a video from an Aspen donor event about three weeks before Charlie Kirk's death in which he said that if anything happened to him, Erika should become CEO and chairman.",
+      "anchored_artifacts": [
+        "A-2592.1"
+      ],
+      "related_nodes": [
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:05",
+      "investigative_direction": "Review the full Megyn Kelly interview with Erika Kirk and the date of the Aspen donor event.",
+      "transcript_snippet": "she saw this video 3 weeks before he died, Charlie Kirk was in Aspen with some donors",
+      "supports_claim_refs": [
+        "C-2657"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-46",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4173",
+      "ref": "C-4173",
+      "label": "Sources say Charlie answered the Aspen succession question by deferring to his lieutenants",
+      "claim": "The host says people with direct knowledge told her that a succession question was asked in Aspen, but Charlie Kirk answered only that he trusted his lieutenants at the company to figure things out in his absence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:55",
+      "investigative_direction": "Obtain the unedited Aspen footage and statements from attendees present for the question.",
+      "transcript_snippet": "People with direct knowledge tell me that yes, certainly a question was asked, but the answer which Charlie gave was simply that he trusted his lieutenants at the company to figure things out",
+      "supports_claim_refs": [
+        "C-2694"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4174",
+      "ref": "C-4174",
+      "label": "Host alleges the CEO-appointment line may have been added with AI",
+      "claim": "The host argues that her sources' account would imply Turning Point USA used AI tools to add a sentence Charlie Kirk never said handing the company to his wife; she calls this an implication, not a proven fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664",
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:55",
+      "investigative_direction": "Forensic analysis of the released Aspen audio and of the original video file and its metadata.",
+      "transcript_snippet": "So, this would imply that Turning Point USA used AI tools to add a sentence that Charlie never said",
+      "supports_claim_refs": [
+        "C-2888"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4175",
+      "ref": "C-4175",
+      "label": "Turning Point USA itself released the Aspen audio",
+      "claim": "The host says it was Turning Point USA that told the Aspen story and released the audio of Charlie Kirk, so releasing the video as well is a small ask.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:55",
+      "investigative_direction": "Trace the first public release of the Aspen audio and the TPUSA account or event that aired it.",
+      "transcript_snippet": "remember, they already released the audio. It was them. They told the story. They released the audio."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4176",
+      "ref": "C-4176",
+      "label": "Host has asked TPUSA for 46 days to release the Aspen footage",
+      "claim": "The host says she has been asking Turning Point USA, and Blake Neff specifically, for 46 days to release the Aspen footage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:55",
+      "investigative_direction": "Compile the host's dated on-air and online requests for the footage and TPUSA's responses.",
+      "transcript_snippet": "after 46 long days and long nights of us asking Turning Point USA, specifically of us asking Blake and I to just release the footage",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4177",
+      "ref": "C-4177",
+      "label": "TPUSA screened the Aspen footage privately for Daily Mail journalists",
+      "claim": "The host says Turning Point USA showed the Aspen footage exclusively in a private screening to journalists at the Daily Mail, and that Charlie Spearing wrote an article headlined as an exclusive on the \"secret video\" of Charlie Kirk naming his successor.",
+      "anchored_artifacts": [
+        "A-2593.1"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:03",
+      "investigative_direction": "Obtain the Daily Mail article and ask the Daily Mail and Charlie Spearing how, where and by whom the footage was shown.",
+      "transcript_snippet": "was to show the footage exclusively via a private screening, a secret private screening to some journalists over at the Daily Mail.",
+      "mentions_person_refs": [
+        "N-648",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4178",
+      "ref": "C-4178",
+      "label": "The Daily Mail article is paywalled and does not include the video",
+      "claim": "The host says the Daily Mail article did not embed the video, is behind a paywall, and left readers who paid expecting to see the footage upset.",
+      "anchored_artifacts": [
+        "A-2593.1"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:03",
+      "investigative_direction": "Review the published Daily Mail article for embedded media and paywall status.",
+      "transcript_snippet": "And so people thought the video must have been embedded in here. Of course, it was not. The article is behind a paywall."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4179",
+      "ref": "C-4179",
+      "label": "The Daily Mail article does not say how its journalists saw the footage",
+      "claim": "The host says the article gives no information on how the journalists viewed the footage – by video call, by file, or in person in Arizona.",
+      "anchored_artifacts": [
+        "A-2593.1"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:03",
+      "investigative_direction": "Ask the Daily Mail for the screening method, date and location.",
+      "transcript_snippet": "Did they fly out to Arizona for this screening? No, we don't get any information."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4180",
+      "ref": "C-4180",
+      "label": "Anonymous board member told the Daily Mail the couple's estate planning named Erika to lead",
+      "claim": "According to the Daily Mail article read by the host, an anonymous board member said he was personally involved in the couple's financial and estate planning after their marriage and that they made clear Erika would be responsible for the organization if anything happened to Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2593.2"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10000",
+        "N-10938"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:57",
+      "investigative_direction": "Identify the board member and obtain the relevant estate-planning documents or TPUSA board minutes.",
+      "transcript_snippet": "One board member who wished to remain anonymous confirmed to the Daily Mail that he was personally involved with the personal financial and estate planning with the couple after they were married.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4181",
+      "ref": "C-4181",
+      "label": "Charlie Kirk's corporate will did not name Erika as CEO",
+      "claim": "The host says Turning Point USA had a corporate will, and argues that Charlie Kirk did not use it to name Erika Kirk as his successor as CEO.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10938",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:32",
+      "investigative_direction": "Obtain TPUSA's governing documents and any succession provisions in Charlie Kirk's corporate will.",
+      "transcript_snippet": "But for whatever reason, Charlie, who was a literal boy genius, did not think to simply put this in his corporate will. He had one, you know.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4182",
+      "ref": "C-4182",
+      "label": "Insider says Erika Kirk inherited about $10 million under the will",
+      "claim": "The host says an insider told her early on that Erika Kirk was named in the will and inherited about $10 million, while noting that \"may or may not be correct.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10938"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:18",
+      "investigative_direction": "Obtain probate filings or estate records for Charlie Kirk.",
+      "transcript_snippet": "I'm told Erika actually was named um and she inherited 10 million. That may or may not be correct.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4183",
+      "ref": "C-4183",
+      "label": "Daily Mail says it was given exclusive access to screen the full Aspen video",
+      "claim": "According to the Daily Mail article read by the host, the video of the Aspen donor conference has never been released publicly, but the Daily Mail was given exclusive access to screen the full video and speak to people who were in the room.",
+      "anchored_artifacts": [
+        "A-2593.3"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:18",
+      "investigative_direction": "Ask the Daily Mail which attendees it interviewed and whether it viewed the full unedited file.",
+      "transcript_snippet": "the Daily Mail has been given exclusive access to screen the full video, report on its contents, and speak to individuals who were in the room in Aspen that day",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4184",
+      "ref": "C-4184",
+      "label": "TPUSA cites donor privacy for not releasing the Aspen video",
+      "claim": "According to the Daily Mail article read by the host, Turning Point USA says it cannot release the footage because it would violate donor privacy and the donor who asked the succession question does not want her identity revealed.",
+      "anchored_artifacts": [
+        "A-2593.4"
+      ],
+      "related_nodes": [
+        "N-10936",
+        "N-10000",
+        "N-10070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:13",
+      "investigative_direction": "Ask TPUSA whether a redacted version (donor face and question removed) could be released.",
+      "transcript_snippet": "The excuse that Turning Point provides for why they cannot release the footage themselves is because it would violate donor privacy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4185",
+      "ref": "C-4185",
+      "label": "TPUSA used the Aspen audio as Erika Kirk's AmFest walkout music",
+      "claim": "The host says Turning Point USA rolled out the Aspen story to Megyn Kelly and then used the audio as Erika Kirk's walkout music when she took Charlie Kirk's role at AmFest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Review AmFest footage of Erika Kirk's walkout and its audio track.",
+      "transcript_snippet": "I'm not the one who told you to roll out the sad story to Megan Kelly, and then to have it be her walk out music as she accepted the glory of taking his role at AmFest.",
+      "supports_claim_refs": [
+        "C-2656"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4186",
+      "ref": "C-4186",
+      "label": "TPUSA met with a Hollywood AI company that makes posthumous videos",
+      "claim": "The host says people inside and outside the organization told her Turning Point USA was meeting with a Hollywood AI company that makes posthumous videos.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10939",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Identify the company and obtain meeting records, contracts or invoices between it and TPUSA.",
+      "transcript_snippet": "We now know that you were working with meeting with a Hollywood AI company."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4187",
+      "ref": "C-4187",
+      "label": "Erika Kirk said there were 10 years of unseen footage of Charlie",
+      "claim": "The host says that on her first appearance on the Charlie Kirk radio show, Erika Kirk said they had 10 years of footage, including speeches, that nobody had seen.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10939"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Locate the Charlie Kirk Show episode with Erika Kirk's first appearance and its exact wording.",
+      "transcript_snippet": "she was like we have so we have 10 years of footage that nobody's seen. She actually said speeches that nobody's seen.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4188",
+      "ref": "C-4188",
+      "label": "Viewer post: Erika Kirk posted a video of herself kissing Charlie's hands",
+      "claim": "A post read by the host says Erika Kirk posted a video of herself kissing Charlie Kirk's dead hands while the CEO video is kept private.",
+      "anchored_artifacts": [
+        "A-2594.1"
+      ],
+      "related_nodes": [
+        "N-10936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:36",
+      "investigative_direction": "Locate the Erika Kirk post described and its date.",
+      "transcript_snippet": "Erika posted a video of her kissing Charlie's dead hands. But this video crowning her the CEO is private? Shut up.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4189",
+      "ref": "C-4189",
+      "label": "Blake Neff posted that the Aspen video is not needed",
+      "claim": "The host says Blake Neff posted that the video is not needed to prove Charlie Kirk wanted Erika to succeed him, because everyone who knew Charlie well knew it.",
+      "anchored_artifacts": [
+        "A-2594.2"
+      ],
+      "related_nodes": [
+        "N-10936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:18",
+      "investigative_direction": "Archive Blake Neff's post on X with its timestamp and full text.",
+      "transcript_snippet": "Everyone who knew Charlie well and spent time around him knew this was the case.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4190",
+      "ref": "C-4190",
+      "label": "Host says the Daily Mail contact issue was a mix-up by her PR",
+      "claim": "Responding to Blake Neff's post that she accused the Daily Mail of lying about contacting her, the host says it was a mix-up because her PR did not forward the email, and that she had said she was happy to talk to the reporter.",
+      "anchored_artifacts": [
+        "A-2594.2"
+      ],
+      "related_nodes": [
+        "N-10070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:11",
+      "investigative_direction": "Obtain the Daily Mail's request-for-comment email and the host's team's records of receiving it.",
+      "transcript_snippet": "That was actually a mix-up. My PR just never forwarded the email and I said I'm happy to have a conversation with the Daily Mail reporter.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4191",
+      "ref": "C-4191",
+      "label": "Blake Neff replied that he does not care about his ratio",
+      "claim": "The host says Blake Neff replied to her that, since he is \"not a malignant narcissist,\" he does not care what his ratio is as long as he speaks the truth, and quoted scripture about the narrow gate.",
+      "anchored_artifacts": [
+        "A-2594.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:11",
+      "investigative_direction": "Archive the exchange on X.",
+      "transcript_snippet": "Yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I am speaking the truth rather than lies.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4192",
+      "ref": "C-4192",
+      "label": "WHCD email went out about an hour after the shooting",
+      "claim": "The host says she reported the previous week that about an hour after the shooting at the White House Correspondents' Dinner, an email went out asking that Erika Kirk's \"I want to go home\" video be boosted through White House surrogates so it would be number one overnight.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10923",
+        "N-10637",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07",
+      "investigative_direction": "Obtain the original email with headers, sender, recipients and send time.",
+      "transcript_snippet": "I told you that about an hour after the quote-unquote shooting happened at the White House Correspondents Dinner, this email went out.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4193",
+      "ref": "C-4193",
+      "label": "The WHCD email called Erika Kirk an \"emotional asset\"",
+      "claim": "The host says the email referred to Erika Kirk as an \"emotional asset.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07",
+      "investigative_direction": "Obtain the full original email text.",
+      "transcript_snippet": "They referred to Erika Kirk as their uh emotional asset.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4194",
+      "ref": "C-4194",
+      "label": "Axios reporter posted a White House denial on behalf of the White House Military Office",
+      "claim": "The host says Axios reporter Mark Caputo posted a White House statement that the White House Military Office has no knowledge of the alleged communications, did not authorize, draft or publish them, and that any attribution to it is \"completely false.\"",
+      "anchored_artifacts": [
+        "A-2595.1"
+      ],
+      "related_nodes": [
+        "N-10940",
+        "N-10941",
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:57",
+      "investigative_direction": "Archive Mark Caputo's post and the White House background statement he shared.",
+      "transcript_snippet": "The White House Military Office has no knowledge of the communications alleged in this post and they did not authorize, draft, or publish the content in question.",
+      "mentions_person_refs": [
+        "N-649"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4195",
+      "ref": "C-4195",
+      "label": "Graham Allen, Andrew Kolvet and Blake Neff promoted the Axios denial",
+      "claim": "The host says Andrew Kolvet, Blake Neff and Graham Allen pushed the Axios report, and plays a show clip in which they discuss the White House denial.",
+      "anchored_artifacts": [
+        "A-2595.2"
+      ],
+      "related_nodes": [
+        "N-10940",
+        "N-10923",
+        "N-10899"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:43",
+      "investigative_direction": "Locate the full show episode and its air date.",
+      "transcript_snippet": "and Graham Allen, I don't I don't know who's more of a doofus, Graham Allen or Paramount Tactical, it's tough. Uh but they were so excited, they tried to push this Axios report.",
+      "mentions_person_refs": [
+        "N-620",
+        "N-14",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4196",
+      "ref": "C-4196",
+      "label": "Graham Allen says the host's posted text was a retyped version, not the email",
+      "claim": "In the clip played by the host, Graham Allen says that the host's own description of her post said it was not the email itself but a retyping of the points she considered most important.",
+      "anchored_artifacts": [
+        "A-2595.2"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:23",
+      "investigative_direction": "Compare the host's original post and caption with Graham Allen's description.",
+      "transcript_snippet": "Even in her description, she says, \"This is not the email. I retyped what I viewed to be the most important points of all of this",
+      "mentions_person_refs": [
+        "N-620",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4197",
+      "ref": "C-4197",
+      "label": "White House replied to the host's producer in four and a half minutes with identical language",
+      "claim": "The host says her producer emailed the White House asking whether the email went out from the White House Military Office and received a reply in four and a half minutes with exactly the same language as the statement given to Axios.",
+      "anchored_artifacts": [
+        "A-2595.3"
+      ],
+      "related_nodes": [
+        "N-10941",
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Produce the producer's email and the White House reply with timestamps.",
+      "transcript_snippet": "They came back in 4 and 1/2 minutes, okay? 4 and 1/2 minutes, they instantly replied exact same language.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4198",
+      "ref": "C-4198",
+      "label": "Host says the White House Military Office may not have sent the email",
+      "claim": "The host says that because the email came via a distribution list, it is entirely plausible the White House Military Office did not send it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10941",
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13",
+      "investigative_direction": "Identify the distribution list in the original email headers and who controls it.",
+      "transcript_snippet": "So, it's entirely plausible that the White House Military Office did not send the email.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4199",
+      "ref": "C-4199",
+      "label": "Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippien",
+      "claim": "The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smalley and Ryan Rippeon copied, quoting the \"Addendum Erika Kirk video clip\" language.",
+      "anchored_artifacts": [
+        "A-2595.4"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13",
+      "investigative_direction": "Ask Steven Cheung, Richard Smalley and Ryan Rippeon directly whether they received the April 25 email.",
+      "transcript_snippet": "are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smalley, and Ryan Rippien carbon copied with the below language in part",
+      "mentions_person_refs": [
+        "N-3",
+        "N-163",
+        "N-640",
+        "N-635",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4200",
+      "ref": "C-4200",
+      "label": "The White House has not replied to the host's follow-up",
+      "claim": "The host says she has been \"ghosted\" since sending the follow-up asking whether the email exists and was sent or received by the administration.",
+      "anchored_artifacts": [
+        "A-2595.4"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13",
+      "investigative_direction": "Show the sent follow-up with its timestamp and any later White House reply.",
+      "transcript_snippet": "For extra clarity, are you saying the email does not exist and was not sent or received by this administration?\" \"Thank you again, Candace Owens.\" And would you know, I've been ghosted since.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4201",
+      "ref": "C-4201",
+      "label": "Host asserts the WHCD email was sent and received",
+      "claim": "The host says that, whoever on the distribution list sent it, she knows the email was sent and received and that the parties she named were correct.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:27",
+      "investigative_direction": "Obtain the original email from a recipient and verify its headers.",
+      "transcript_snippet": "but I know that the email got sent, that the parties that I mentioned were true.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4202",
+      "ref": "C-4202",
+      "label": "Host copied Smalley, Rippey and the White House Press Office on her follow-up",
+      "claim": "The host says she copied Richard Smalley, Ryan Rippey and the White House Press Office on her second email so there would be no confusion.",
+      "anchored_artifacts": [
+        "A-2595.4"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:27",
+      "investigative_direction": "Show the recipient line of the sent follow-up email.",
+      "transcript_snippet": "To be clear, I also CC'd Richard Smalley. I I CC'd Ryan Rippey and for good measure, I CC'd the White House Press Office.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-640",
+        "N-635"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4203",
+      "ref": "C-4203",
+      "label": "Paramount Tactical was paid by the Department of Defense 14 days after the assassination",
+      "claim": "The host says Paramount Tactical was paid a large lump sum by the Department of Defense, dated 14 days after Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-2596.1"
+      ],
+      "related_nodes": [
+        "N-10899",
+        "N-10888",
+        "N-10937"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Pull the award records from USAspending.gov or FPDS for Paramount Tactical in September 2025.",
+      "transcript_snippet": "is being paid, or was paid in a large lump sum by the Department of Defense. Dated 14 days after Charlie Kirk's assassination.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-628"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4204",
+      "ref": "C-4204",
+      "label": "Brian Harpole chose Paramount Tactical for an interview and TPUSA platformed him",
+      "claim": "The host says it was odd that Brian Harpole chose this \"obscure YouTuber\" for an interview, and that Turning Point USA then platformed Paramount Tactical and supplied him with alibis.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-10000",
+        "N-10643"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Establish the date of the Harpole interview on Paramount Tactical and any TPUSA coordination of it.",
+      "transcript_snippet": "How weird that Bryan Hubble chose this obscure YouTuber to give an interview to?",
+      "mentions_person_refs": [
+        "N-272",
+        "N-628"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4205",
+      "ref": "C-4205",
+      "label": "The children in the alibi photo given to Paramount Tactical are not Erika Kirk's",
+      "claim": "The host says Turning Point USA passed Paramount Tactical a photo with children who are not Erika Kirk's, which she says undermines it as an alibi.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10643",
+        "N-10899",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Identify the children and the date and place of the alibi photograph.",
+      "transcript_snippet": "They're sliding him kids that are not Erika's to a guy that doesn't even understand what an alibi is.",
+      "supports_claim_refs": [
+        "C-2906"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-628"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4206",
+      "ref": "C-4206",
+      "label": "Paramount Tactical received $39,000 and $151,000 from the DoD in September 2025",
+      "claim": "The host says the records show Paramount Tactical received $39,000 for individual equipment on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025, and that her team fact-checked this.",
+      "anchored_artifacts": [
+        "A-2596.1"
+      ],
+      "related_nodes": [
+        "N-10899",
+        "N-10888",
+        "N-10937"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:39",
+      "investigative_direction": "Retrieve both contract award records, the awarding office and the solicitation history.",
+      "transcript_snippet": "On September 24th, 2025, he received uh $39,000 for individual equipment. And then, on September 29th, 5 days later, he received $151,000 uh for night vision equipment.",
+      "mentions_person_refs": [
+        "N-628"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4207",
+      "ref": "C-4207",
+      "label": "Paramount Tactical does not manufacture its own gear",
+      "claim": "The host says Paramount Tactical's website shows it does not make its own gear, and argues the DoD would normally buy night vision equipment from the manufacturer rather than from a third-party seller run by Gary Melton.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-10888",
+        "N-10937"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:39",
+      "investigative_direction": "Review Paramount Tactical's product catalog and the contract line items to identify the original manufacturer.",
+      "transcript_snippet": "When you go on his website, he doesn't make his own gear.",
+      "mentions_person_refs": [
+        "N-628"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4208",
+      "ref": "C-4208",
+      "label": "\"Decoy boy number two's\" father received a large DoD contract before the assassination",
+      "claim": "The host says the father of the person she calls \"decoy boy number two\" received a massive Department of Defense contract through the Built app shortly before Charlie Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10577",
+        "N-10578",
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:34",
+      "investigative_direction": "Pull Built Inc. federal award records for 2025.",
+      "transcript_snippet": "Remember our decoy boy number two, his dad, too, got a massive contract with the Department of Defense.",
+      "supports_claim_refs": [
+        "C-2632"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4209",
+      "ref": "C-4209",
+      "label": "TPUSA deleted the old catalog of Charlie Kirk's campus footage",
+      "claim": "The host says Turning Point USA has wiped away Charlie Kirk's legacy by deleting the old catalog of footage of him speaking on college campuses.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:28",
+      "investigative_direction": "Compare archived snapshots of TPUSA and Charlie Kirk channels and pages before and after September 2025.",
+      "transcript_snippet": "And to also wipe away his legacy by deleting the old catalog of all of the footage of Charlie speaking on college campuses.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4210",
+      "ref": "C-4210",
+      "label": "Erika Kirk used emojis six days after the assassination",
+      "claim": "The host says Erika Kirk used emojis six days after her husband's assassination, which she calls odd behavior.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:15",
+      "investigative_direction": "Locate the post or chat with emojis and confirm its date.",
+      "transcript_snippet": "Six days after your husband's assassinated, the emojis. The emojis?",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4211",
+      "ref": "C-4211",
+      "label": "Host says she is done voting until the assassination is solved",
+      "claim": "The host says she is done voting until the Charlie Kirk assassination is solved, citing what she calls a deep betrayal by the Trump administration, Eric Trump, Don Jr., Lara Trump, Kash Patel and J. D. Vance.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:06",
+      "investigative_direction": "Compare with the host's earlier statements on voting and endorsements.",
+      "transcript_snippet": "I am done voting until the Charlie Kirk assassination is solved because it was a deep deep deep rooted uh betrayal by the Trump administration",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-5",
+        "N-34",
+        "N-33",
+        "N-383",
+        "N-69",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4212",
+      "ref": "C-4212",
+      "label": "Host says she is banned from visiting Australia",
+      "claim": "Responding to a viewer from Sydney, the host says she is currently banned and cannot visit Australia.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:59",
+      "investigative_direction": "Check Australian Department of Home Affairs visa decisions and any court rulings on the host's visa application.",
+      "transcript_snippet": "Oh, someday we'll not be banned and we'll be able to visit Australia. That day is not today.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:06:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Erika Kirk is the COVID vaccine. Okay? No one can debate this. I'm right. It's a fact.",
+          "context": "Host opens her extended analogy casting Erika Kirk's rollout as the COVID vaccine campaign.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "grieving_widow",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 106,
+          "video_timestamp": "00:19:13",
+          "speaker_node_ref": "N-3",
+          "quote": "How is your fourth booster, guys? Not hitting the same, is it?",
+          "context": "Host mocks TPUSA's donor-privacy excuse as the \"fourth booster\" of the Erika Kirk narrative.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "booster",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 106,
+          "video_timestamp": "00:22:48",
+          "speaker_node_ref": "N-3",
+          "quote": "because like I said the literal trust the experts narrative has collapsed.",
+          "context": "Host says the Daily Mail's appeal to journalists having seen the footage backfired.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "trust_the_experts",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:09:38",
+          "speaker_node_ref": "N-3",
+          "quote": "Cuz it's safe and effective is now suddenly she's a grieving widow.",
+          "context": "Host maps \"safe and effective\" onto the grieving-widow framing of Erika Kirk.",
+          "confidence": "high",
+          "tags": [
+            "grieving_widow",
+            "covid_analogy",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 106,
+          "video_timestamp": "00:26:47",
+          "speaker_node_ref": "N-3",
+          "quote": "Is it going to be years before they acknowledge that the grieving widow act has failed terribly?",
+          "context": "Host closes the Aspen video segment by comparing it to the slow official admissions on COVID vaccines.",
+          "confidence": "high",
+          "tags": [
+            "grieving_widow",
+            "covid_analogy",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:24:18",
+          "speaker_node_ref": "N-3",
+          "quote": "So, the fact that he's just going to go ahead and say no, the video is not even needed is again, they're just now gaslighting us, right?",
+          "context": "Host responds to Blake Neff's post that the Aspen video is not needed.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-83",
+      "ref": "M-83",
+      "canonical_term": "Lo and Behold",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:05:27",
+          "speaker_node_ref": "N-3",
+          "quote": "Lo and behold, that person the next day called me and said, \"If you want to do it, we can make it happen next week.\"",
+          "context": "Host's ironic reveal of how the Hunter Biden interview was arranged.",
+          "confidence": "high",
+          "tags": [
+            "reveal",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-97",
+      "ref": "M-97",
+      "canonical_term": "Take the Erika",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:08:05",
+          "speaker_node_ref": "N-3",
+          "quote": "Your feed is being filled with influencers, celebrities, politicians telling you to roll up your sleeves and take the Erika. Just take it. Take the Erika.",
+          "context": "Host coins the phrase, casting endorsements of Erika Kirk as vaccine-campaign messaging.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "catchphrase",
+            "new"
+          ]
+        },
+        {
+          "episode": 106,
+          "video_timestamp": "00:08:50",
+          "speaker_node_ref": "N-3",
+          "quote": "Take the Erika, dupes.",
+          "context": "Host lists Nicki Minaj, J. D. Vance, President Trump and Ben Shapiro as the celebrity pushers.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "catchphrase"
+          ]
+        },
+        {
+          "episode": 106,
+          "video_timestamp": "00:48:43",
+          "speaker_node_ref": "N-3",
+          "quote": "If you'd let me see the video of Charlie pointing her ICO, I will roll up my sleeve and I will take the Erika.",
+          "context": "Host riffs on a viewer's vaccine-incentive comment, naming the Aspen video as her price.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "catchphrase",
+            "comments"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-98",
+      "ref": "M-98",
+      "canonical_term": "Operation Warp Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:29:07",
+          "speaker_node_ref": "N-3",
+          "quote": "Okay, so operation warp widow. That's what we're calling it. Erika Kirk is the vaccine.",
+          "context": "Host names the Erika Kirk rollout after Operation Warp Speed as she opens the WHCD email segment.",
+          "confidence": "high",
+          "tags": [
+            "covid_analogy",
+            "coinage",
+            "new"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-99",
+      "ref": "M-99",
+      "canonical_term": "Boo-ya Blake",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 106,
+          "video_timestamp": "00:24:18",
+          "speaker_node_ref": "N-3",
+          "quote": "I like that. Boo-ya Blake. It's never a boo-ya. It's never ever a boo-ya when it comes to Blake.",
+          "context": "Host nicknames Blake Neff over his attempted \"gotcha\" post on the Daily Mail article.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "nickname",
+            "new"
+          ]
+        },
+        {
+          "episode": 106,
+          "video_timestamp": "00:25:11",
+          "speaker_node_ref": "N-3",
+          "quote": "But again, he's always looking for a boo-ya. There's not one.",
+          "context": "Host reprises the bit about Blake Neff's post being ratioed.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "nickname"
+          ]
+        }
+      ]
+    }
+  ]
 }

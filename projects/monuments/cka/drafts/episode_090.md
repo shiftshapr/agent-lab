@@ -13,6 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10593, N-10594, N-10595, N-10596, N-10597, N-10598
   - Hole-minted Nodes (wave3): N-430, N-431
+  - Tip-minted Nodes (skeleton-caleb): N-617
   - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135
   - (see registers)
 
@@ -191,6 +192,14 @@ Confidence Level: Low (verbally referenced only – no recording displayed)
 ---
 
 ## 4. Node Register
+
+**N-617** Caleb Robinson
+
+Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).
+
+*Related: C-2688*
+
+---
 
 **N-430** Pope Leo XIV
 
@@ -382,6 +391,7 @@ Claim Timestamp: 00:23:21
 Claim: According to host testimony supported by an ADF internal presentation, Daily Wire CEO Caleb Robinson sits on the ADF board of directors (one of approximately eight seats).
 
 Anchored Artifacts: A-1951.2
+Mentions: N-617
 
 Related Nodes: N-10596
 

@@ -7,15 +7,469 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:49:46",
+    "extraction_timestamp": "2026-10-13T21:29:50Z",
+    "model_version": "claude-manual-extract-seq104",
     "transcript_sha256": "ccf10ed3135945b4632fcb8875e55be10686f8a85b8369476b094195759b7066",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "Episode 104 presents a White House Military Office email allegedly sent at 9:49 PM ET on the night of the alleged shooting, recommending amplification of Erika Kirk's 'I want to go home' video. The White House allegedly attempted to rescind the email and ordered recipients to delete it. Names on the email include Steven Cheung, Ryan Ripian, and Gustav Anderly (WHCA). Justin Streiff's role as COO 7 days before Charlie's death, his call to a book printer, his ties to Winning Team Publishing (Sergio Gor/Don Jr.), and the alleged $10M missing from Turning Point Action are advanced. Sergio Gor's ambassador-to-India move and Erika's ceremony appearance are connected. Nick Shirley defense via Jessica Reed Krauss tweets and Macron slap Times headline also covered.",
-  "artifacts": [],
+  "executive_summary": "The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sarah Sidner of CNN was the first to post Erika Kirk's \"I just want to go home\" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's \"strongest emotional response\" asset and recommends that all channels and \"approved surrogates\" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a \"canary\" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Rippeon and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).\n\nThe host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Strife, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book \"Stop in the Name of God\", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Strife runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).\n\nIn later segments the host mocks Jessica Reed Kraus's posts relaying praise from Nick Shirley's elementary school teachers, together with Shirley's reply (A-2578). She shows a Times headline saying Brigitte Macron slapped her husband over text messages to an Iranian actress (A-2579). In the comments she says Captain Adam Nef was found and confirmed questioning Mitch Snow. She also says TPUSA is now paying chapter leaders not to close chapters and that her merch had its highest sales day after the \"boycott advertisers\" campaign.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2574",
+      "family_ref": "A-2574",
+      "bundle_name": "White House Military Office Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2574.1",
+          "ref": "A-2574.1",
+          "description": "White House Military Office email of about 9:49 p.m. Eastern, \"Amendment to the Erika Kirk video clip\" portion (read aloud; the email itself is not shown, citing canary watermarking)",
+          "related_claims": [
+            "C-4062",
+            "C-4066",
+            "C-4067",
+            "C-4069",
+            "C-4070",
+            "C-4071",
+            "C-4072",
+            "C-4076"
+          ],
+          "related_nodes": [
+            "N-10923",
+            "N-2",
+            "N-163",
+            "N-635",
+            "N-636"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:44",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2574.2",
+          "ref": "A-2574.2",
+          "description": "Host verbal reference to the follow-up emails ordering recipients to delete the original (not shown)",
+          "related_claims": [
+            "C-4074",
+            "C-4075"
+          ],
+          "related_nodes": [
+            "N-10923"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2575",
+      "family_ref": "A-2575",
+      "bundle_name": "Sarah Sidner Instagram Metadata Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2575.1",
+          "ref": "A-2575.1",
+          "description": "Instagram metadata tool screen showing Sarah Sidner's \"I want to go home\" post at 1:25 a.m. UTC (shown on screen)",
+          "related_claims": [
+            "C-4065"
+          ],
+          "related_nodes": [
+            "N-379",
+            "N-2",
+            "N-10638"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2576",
+      "family_ref": "A-2576",
+      "bundle_name": "Tips Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2576.1",
+          "ref": "A-2576.1",
+          "description": "Host verbal reference to a tips-line story on Justin Strife's September 10 book-printer call, which she says was verified with receipts (receipts not shown)",
+          "related_claims": [
+            "C-4077",
+            "C-4085",
+            "C-4086",
+            "C-4087"
+          ],
+          "related_nodes": [
+            "N-15",
+            "N-10924"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2577",
+      "family_ref": "A-2577",
+      "bundle_name": "Sergio Gor Ambassador Ceremony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2577.1",
+          "ref": "A-2577.1",
+          "description": "Clip of Erika Kirk's remarks at Sergio Gor's ambassador-to-India ceremony (played)",
+          "related_claims": [
+            "C-4095",
+            "C-4096"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-16",
+            "N-1",
+            "N-10927"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:09",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2578",
+      "family_ref": "A-2578",
+      "bundle_name": "Jessica Reed Kraus / Nick Shirley Posts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2578.1",
+          "ref": "A-2578.1",
+          "description": "Jessica Reed Kraus post on Nick Shirley's elementary school teachers (shown and read)",
+          "related_claims": [
+            "C-4097"
+          ],
+          "related_nodes": [
+            "N-624",
+            "N-217",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2578.2",
+          "ref": "A-2578.2",
+          "description": "Nick Shirley reply to Jessica Reed Kraus (shown and read)",
+          "related_claims": [
+            "C-4098"
+          ],
+          "related_nodes": [
+            "N-217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2578.3",
+          "ref": "A-2578.3",
+          "description": "Jessica Reed Kraus follow-up post on DMs from Nick Shirley's former teachers (shown and read)",
+          "related_claims": [
+            "C-4099"
+          ],
+          "related_nodes": [
+            "N-624",
+            "N-217",
+            "N-3",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2579",
+      "family_ref": "A-2579",
+      "bundle_name": "Brigitte Macron Slap Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2579.1",
+          "ref": "A-2579.1",
+          "description": "Replay of the May 2025 Hanoi airport footage of Brigitte Macron's hand striking Emmanuel Macron's face (played)",
+          "related_claims": [
+            "C-4101"
+          ],
+          "related_nodes": [
+            "N-82",
+            "N-387",
+            "N-10928"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:34:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2579.2",
+          "ref": "A-2579.2",
+          "description": "Times headline on Brigitte Macron slapping her husband over text messages to an actress (shown)",
+          "related_claims": [
+            "C-4100",
+            "C-4101"
+          ],
+          "related_nodes": [
+            "N-82",
+            "N-387",
+            "N-638",
+            "N-10928"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2580",
+      "family_ref": "A-2580",
+      "bundle_name": "Blake Neff X Posts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2580.1",
+          "ref": "A-2580.1",
+          "description": "Host verbal reference to Blake Neff's X posts asking about \"Commander Nef\" and saying Adam Nef was harassed by the host's \"cultists\" (not shown)",
+          "related_claims": [
+            "C-4102",
+            "C-4103"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-326"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
   "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassinated TPUSA founder; his DOGE audit, his book order, the missing money and his ties to Sergio Gor are discussed.",
+      "related_artifacts": [
+        "A-2577.1",
+        "A-2578.3"
+      ],
+      "related_claims": [
+        "C-4063",
+        "C-4068",
+        "C-4077",
+        "C-4078",
+        "C-4080",
+        "C-4081",
+        "C-4084",
+        "C-4085",
+        "C-4086",
+        "C-4087",
+        "C-4088",
+        "C-4091",
+        "C-4095",
+        "C-4096",
+        "C-4099",
+        "C-4106"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the \"I just want to go home\" clip that the White House Military Office email recommended amplifying. She allegedly approved the doubled book order on September 10 and spoke at Sergio Gor's ambassador ceremony.",
+      "related_artifacts": [
+        "A-2574.1",
+        "A-2575.1",
+        "A-2577.1"
+      ],
+      "related_claims": [
+        "C-4065",
+        "C-4066",
+        "C-4071",
+        "C-4072",
+        "C-4073",
+        "C-4079",
+        "C-4087",
+        "C-4088",
+        "C-4095",
+        "C-4096"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; withholds the email to protect leakers, relays tips, recalls the 4-hour sitdown and Kolvet's \"witch\" call, and cites her Daily Wire agreement and merch sales.",
+      "related_artifacts": [
+        "A-2578.1",
+        "A-2578.3"
+      ],
+      "related_claims": [
+        "C-4067",
+        "C-4069",
+        "C-4077",
+        "C-4079",
+        "C-4081",
+        "C-4099",
+        "C-4102",
+        "C-4104",
+        "C-4105",
+        "C-4107"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in the falling out with Elon Musk that the host says Sergio Gor was rumored to be behind.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4093",
+        "C-4096"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Named by the host as head of Turning Point Action.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "The host recalls him calling her, when they were friends, to ask whether she was a witch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4105"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "Transcript spellings \"Justin Strife\" and \"Justin Streiff\" (chapter title). TPUSA COO promoted seven days before the assassination. He allegedly called \"Pierre\" and a book printer on September 10 and also runs Winning Team Publishing.",
+      "related_artifacts": [
+        "A-2576.1"
+      ],
+      "related_claims": [
+        "C-4063",
+        "C-4077",
+        "C-4078",
+        "C-4079",
+        "C-4080",
+        "C-4082",
+        "C-4085",
+        "C-4086",
+        "C-4087",
+        "C-4089",
+        "C-4090"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
     {
       "@type": "Person",
       "@id": "N-16",
@@ -23,8 +477,109 @@
       "name": "Sergio Gor",
       "type": "person",
       "description": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.",
+      "related_artifacts": [
+        "A-2577.1"
+      ],
+      "related_claims": [
+        "C-4089",
+        "C-4091",
+        "C-4092",
+        "C-4093",
+        "C-4094",
+        "C-4095",
+        "C-4096"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Transcript spelling \"Don Trump Jr.\" / \"Don Jr.\". Named as co-founder of Winning Team Publishing who would benefit from book sales.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-4089"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Transcript spellings \"Breijit Mcronone\" / \"Breit Mcronone\". Subject of the Hanoi slap and the new Times explanation.",
+      "related_artifacts": [
+        "A-2579.1",
+        "A-2579.2"
+      ],
+      "related_claims": [
+        "C-4100",
+        "C-4101"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-119",
+      "ref": "N-119",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "The host relays a rumor that Sergio Gor had it out for him and blocked his pick, Jared Isaacman.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4093"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-132",
+      "ref": "N-132",
+      "name": "Susie Wiles",
+      "type": "person",
+      "description": "Named as White House chief of staff, with Sergio Gor as her second in command.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4092"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Transcript spelling \"Blakey Nef\" / \"Blake\". Asked on X about \"Commander Nef\" and said Adam Nef was harassed by the host's followers.",
+      "related_artifacts": [
+        "A-2580.1"
+      ],
+      "related_claims": [
+        "C-4103"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -38,15 +593,1969 @@
       "name": "Steven Cheung",
       "type": "person",
       "description": "White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2574.1"
+      ],
+      "related_claims": [
+        "C-4069"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "Subject of Jessica Reed Kraus's teacher-praise posts; his reply on keeping in touch with teachers is shown.",
+      "related_artifacts": [
+        "A-2578.1",
+        "A-2578.2",
+        "A-2578.3"
+      ],
+      "related_claims": [
+        "C-4097",
+        "C-4098",
+        "C-4099"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Captain Adam Nef",
+      "type": "person",
+      "description": "Host says the team found him and confirmed he questioned Mitch Snow as Snow described.",
+      "related_artifacts": [
+        "A-2580.1"
+      ],
+      "related_claims": [
+        "C-4102",
+        "C-4103"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "His Fort Huachuca account is said to have checked out through Captain Adam Nef.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4102"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-379",
+      "ref": "N-379",
+      "name": "Sarah Sidner",
+      "type": "person",
+      "description": "Transcript spellings \"Sarah Sidner\" / \"Sarah Seidner\". CNN anchor the host says first posted the \"I want to go home\" clip, at 9:25 p.m. Eastern.",
+      "related_artifacts": [
+        "A-2575.1"
+      ],
+      "related_claims": [
+        "C-4065",
+        "C-4073"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-500",
+      "ref": "N-500",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Erika Kirk's mother; the host says the Turning Point Action \"super feed\" back door pays her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose canary-email practice, COO promotion, audit, book order and paid chapter leaders are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4068",
+        "C-4078",
+        "C-4080",
+        "C-4088",
+        "C-4106"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Source of the rescinded communications email; Sergio Gor's former office there is said to have exchanged staff with Charlie Kirk's office.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4062",
+        "C-4074",
+        "C-4075",
+        "C-4091"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "The audit announced with Strife's promotion, and Charlie Kirk's internal DOGE.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4080",
+        "C-4084"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10194",
+      "ref": "N-10194",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_target",
+      "description": "Host says the decision on Erika Kirk taking over the board and CEO role was made within 48 hours.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4088"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10300",
+      "ref": "N-10300",
+      "name": "Justin Strife Post-Assassination Phone Call",
+      "type": "investigation_target",
+      "description": "Restated (Pierre) and extended with the alleged book-printer call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4063",
+        "C-4085"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10388",
+      "ref": "N-10388",
+      "name": "Missing Money from Turning Point Action",
+      "type": "investigation_target",
+      "description": "Outside and insider tips of about $10 million missing from Turning Point Action.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4081",
+        "C-4082",
+        "C-4083",
+        "C-4084"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10493",
+      "ref": "N-10493",
+      "name": "Pierre / French Donor Investigation",
+      "type": "investigation_target",
+      "description": "The \"mysterious Pierre\" whom Strife allegedly phoned on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4063"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10530",
+      "ref": "N-10530",
+      "name": "TPUSA Super Feed Copyright / Data Routing Question",
+      "type": "investigation_target",
+      "description": "Host says the \"super feed back door\" pays Lori Frantzve.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10637",
+      "ref": "N-10637",
+      "name": "WHCD Incident Reconstruction",
+      "type": "investigation_target",
+      "description": "Shooting timed at 8:36 p.m. Eastern, followed by the clip and the email.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4064",
+        "C-4065",
+        "C-4066",
+        "C-4076"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10638",
+      "ref": "N-10638",
+      "name": "Sarah Sidner Original Video Source Verification",
+      "type": "investigation_target",
+      "description": "Host says the clip was distributed to Sidner and recorded by operatives.",
+      "related_artifacts": [
+        "A-2575.1"
+      ],
+      "related_claims": [
+        "C-4065",
+        "C-4073"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10666",
+      "ref": "N-10666",
+      "name": "Nick Shirley Background and Backing Verification",
+      "type": "investigation_target",
+      "description": "The teacher-praise posts as a defense of Shirley's gang-infiltration story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4097",
+        "C-4098",
+        "C-4099"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Referred to as the Department of Defense; said to use canary watermarking to trace leakers.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4067"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Transcript spelling \"Paramount not so tactical\"; named among those sent to call Mitch Snow a liar.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4102"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "The host says she had agreed to a private court process with the Daily Wire.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4104"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-635",
+      "ref": "N-635",
+      "name": "Ryan Rippeon",
+      "type": "person",
+      "description": "First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.",
+      "related_artifacts": [
+        "A-2574.1"
+      ],
+      "related_claims": [
+        "C-4069"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-636",
+      "ref": "N-636",
+      "name": "Gustav Anderly",
+      "type": "person",
+      "description": "First named by the host at 00:04:55 in episode 104. Copied on the email; described as information systems manager at the White House Communications Agency in Arlington, Virginia.",
+      "related_artifacts": [
+        "A-2574.1"
+      ],
+      "related_claims": [
+        "C-4069",
+        "C-4070"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-637",
+      "ref": "N-637",
+      "name": "Jared Isaacman",
+      "type": "person",
+      "description": "First named by the host at 00:22:23 in episode 104. Described as Elon Musk's pick whose appointment Sergio Gor allegedly blocked.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4093"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-624",
+      "ref": "N-624",
+      "name": "Jessica Reed Kraus",
+      "type": "person",
+      "description": "First named by the host at 00:29:22 in episode 104. Writer whose posts relayed praise from Nick Shirley's teachers. Aliases: Jessica Reed Krauss; House and Drinking Habit.",
+      "related_artifacts": [
+        "A-2578.1",
+        "A-2578.3"
+      ],
+      "related_claims": [
+        "C-4097",
+        "C-4099"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-638",
+      "ref": "N-638",
+      "name": "Golshifteh Farahani",
+      "type": "person",
+      "description": "First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.",
+      "related_artifacts": [
+        "A-2579.2"
+      ],
+      "related_claims": [
+        "C-4101"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an \"Amendment to the Erika Kirk video clip\" and recommended that all channels, digital partners and \"approved surrogates\" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.",
+      "related_artifacts": [
+        "A-2574.1",
+        "A-2574.2"
+      ],
+      "related_claims": [
+        "C-4062",
+        "C-4066",
+        "C-4067",
+        "C-4069",
+        "C-4070",
+        "C-4071",
+        "C-4072",
+        "C-4074",
+        "C-4075",
+        "C-4076"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-163",
+        "N-635",
+        "N-636"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10924",
+      "ref": "N-10924",
+      "name": "Justin Strife September 10 Book-Printer Call",
+      "type": "topic",
+      "description": "Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Strife called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book \"Stop in the Name of God\" after getting Erika Kirk's approval.",
+      "related_artifacts": [
+        "A-2576.1"
+      ],
+      "related_claims": [
+        "C-4077",
+        "C-4085",
+        "C-4086",
+        "C-4087"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-15",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10925",
+      "ref": "N-10925",
+      "name": "Turning Point Action",
+      "type": "organization",
+      "description": "TPUSA's political affiliate, which the host says is headed by Tyler Bowyer. The host relays tips that money, about $10 million in total, was missing from it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4081",
+        "C-4082",
+        "C-4083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10926",
+      "ref": "N-10926",
+      "name": "Winning Team Publishing",
+      "type": "organization",
+      "description": "Conservative book publisher that the host says was founded by Sergio Gor and Donald Trump Jr. She says Justin Strife also runs it, which she calls a possible conflict of interest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4089",
+        "C-4090"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-15",
+        "N-16",
+        "N-33"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10927",
+      "ref": "N-10927",
+      "name": "Sergio Gor White House Exit and India Ambassadorship",
+      "type": "topic",
+      "description": "Investigation target: the host's rumor that Sergio Gor, then White House deputy chief of staff under Susie Wiles, was moved out to become ambassador to India. She says this followed a clash with Elon Musk, including his blocking of Jared Isaacman, and an alleged relationship with a donor's son. Erika Kirk flew to Washington for the ceremony.",
+      "related_artifacts": [
+        "A-2577.1"
+      ],
+      "related_claims": [
+        "C-4091",
+        "C-4092",
+        "C-4093",
+        "C-4094",
+        "C-4095",
+        "C-4096"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-16"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10928",
+      "ref": "N-10928",
+      "name": "Brigitte Macron Hanoi Slap Text-Message Explanation",
+      "type": "topic",
+      "description": "Investigation target: the shifting explanations of Brigitte Macron's May 2025 Hanoi airport slap. The latest is a Times report that she was angry over text messages to Emmanuel Macron from an exiled Iranian actress, who denied any affair.",
+      "related_artifacts": [
+        "A-2579.1",
+        "A-2579.2"
+      ],
+      "related_claims": [
+        "C-4100",
+        "C-4101"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-82",
+        "N-387",
+        "N-638"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-387",
+      "ref": "N-387",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Transcript spelling \"Emanuel Mcronone\". Recipient of the slap; said to have received texts from the actress.",
+      "related_artifacts": [
+        "A-2579.1",
+        "A-2579.2"
+      ],
+      "related_claims": [
+        "C-4100",
+        "C-4101"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
-  "claims": [],
-  "memes": []
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4062",
+      "ref": "C-4062",
+      "label": "White House attempted to rescind a communications email sent shortly after the WHCD shooting",
+      "claim": "The host says she has learned that the White House attempted to rescind a communications email that went out shortly after the White House Correspondents' Dinner shooting.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain White House Military Office email server recall logs for the night of the WHCD shooting, or confirmation from a named recipient.",
+      "transcript_snippet": "I've learned that the White House attempted to rescend an email that went out shortly after the shooting shooting.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4063",
+      "ref": "C-4063",
+      "label": "Justin Strife allegedly phoned \"Pierre\" on September 10",
+      "claim": "The host restates that Justin Strife is the person who allegedly phoned \"the mysterious Pierre\" on the day Charlie Kirk died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10300",
+        "N-10493"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain Justin Strife's September 10, 2025 call records and identify the \"Pierre\" he allegedly called.",
+      "transcript_snippet": "he's the person who allegedly phoned the mysterious Pierre on that day.",
+      "supports_claim_refs": [
+        "C-1814",
+        "C-1815"
+      ],
+      "mentions_person_refs": [
+        "N-15",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4064",
+      "ref": "C-4064",
+      "label": "WHCD shooting began at 8:36 p.m. Eastern, with Secret Service officers firing",
+      "claim": "The host says the WHCD shooting took place at 8:36 p.m. Eastern, which she describes as when \"the Secret Service began firing at one another.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:50",
+      "investigative_direction": "Obtain the Secret Service and MPD incident timeline for the WHCD shooting and any after-action report on shots fired.",
+      "transcript_snippet": "the shooting took place at 8:36 p. m. Eastern. Okay, that's when the Secret Service began firing at one another."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4065",
+      "ref": "C-4065",
+      "label": "Sarah Sidner first posted the \"I want to go home\" clip at 9:25 p.m. Eastern",
+      "claim": "The host says CNN's Sarah Sidner was the first person on social media to upload Erika Kirk's \"I want to go home\" video, at 9:25 p.m. Eastern (1:25 a.m. UTC), according to an Instagram metadata tool.",
+      "anchored_artifacts": [
+        "A-2575.1"
+      ],
+      "related_nodes": [
+        "N-10638",
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:50",
+      "investigative_direction": "Pull the Instagram post's server timestamp and check for any earlier upload of the clip on other platforms.",
+      "transcript_snippet": "Sarah Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk.",
+      "supports_claim_refs": [
+        "C-2793"
+      ],
+      "mentions_person_refs": [
+        "N-379",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4066",
+      "ref": "C-4066",
+      "label": "White House Military Office sent an updated communication at about 9:49 p.m. on the Erika Kirk clip",
+      "claim": "The host says that at approximately 9:49 p.m., less than 20 minutes after the clip went out, the White House Military Office sent an updated communication describing an amendment about the Erika Kirk video clip, whose traction it was monitoring.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:53",
+      "investigative_direction": "Obtain the email's header metadata from a recipient or via FOIA to the White House Military Office.",
+      "transcript_snippet": "At approximately 9:49 p. m., so less than 20 minutes later after that video went out, the White House military office sent out a an updated communication.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4067",
+      "ref": "C-4067",
+      "label": "Department of Defense uses a canary tactic to trace leakers of emails",
+      "claim": "The host says her team determined that the Department of Defense uses a \"canary\" tactic that gives each recipient a slightly varied email so leaks can be traced, which is why she will not show the email.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10888",
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Seek DoD or WHMO IT policy documents on canary-trap or per-recipient watermarking of internal email.",
+      "transcript_snippet": "we were very quickly able to determine that the Department of Defense is using what is known as a canary tactic to root out wouldbe leakers.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4068",
+      "ref": "C-4068",
+      "label": "TPUSA implemented a similar canary email process after Charlie Kirk's assassination",
+      "claim": "The host says Turning Point USA similarly implemented a canary email process shortly after Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Compare copies of TPUSA all-staff emails from different recipients for per-recipient variations, and obtain TPUSA IT policy changes after September 10, 2025.",
+      "transcript_snippet": "shortly after Charlie's assassination, they similarly implemented this at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4069",
+      "ref": "C-4069",
+      "label": "Steven Cheung, Ryan Rippeon and Gustav Anderly were copied on the email",
+      "claim": "The host says Steven Cheung, Ryan Rippeon and Gustav Anderly were among those copied on the White House Military Office email.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Ask the named recipients or their press offices to confirm receipt of the 9:49 p.m. email.",
+      "transcript_snippet": "Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.",
+      "mentions_person_refs": [
+        "N-163",
+        "N-635",
+        "N-636",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4070",
+      "ref": "C-4070",
+      "label": "Gustav Anderly is an information systems manager at the White House Communications Agency",
+      "claim": "The host says Gustav Anderly is listed as information systems manager at the White House Communications Agency in Arlington, Virginia.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.",
+      "transcript_snippet": "it just says he's the information systems manager um at the White House communications agency in Arlington, Virginia.",
+      "mentions_person_refs": [
+        "N-636"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4071",
+      "ref": "C-4071",
+      "label": "Email said the Erika Kirk clip was driving the highest organic engagement of all incident content",
+      "claim": "The host reads the email as saying the clip of Erika Kirk saying \"I just want to go home\" was \"driving our highest organic engagement of all incident related content\" and was the strongest emotional-response asset of the incident.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:44",
+      "investigative_direction": "Obtain the full email text from a recipient and compare engagement data for the clip on the night of the shooting.",
+      "transcript_snippet": "I just want to go home is driving our highest organic engagement of all incident related content across plat platforms.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4072",
+      "ref": "C-4072",
+      "label": "Email recommended all channels amplify the clip with approved surrogates",
+      "claim": "The host reads the email's recommendation that all communication channels amplify the clip and coordinate with digital partners and \"approved surrogates\" to ensure dominant overnight placement.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:44",
+      "investigative_direction": "Identify the \"approved surrogates\" and digital partners, and analyze who posted the clip between 9:49 p.m. and the next morning.",
+      "transcript_snippet": "Our recommendation forward is that all communication channels should amplify this clip further. coordinate with digital partners and our approved surrogates to elevate the reach and ensure dominant placement in the overnight information environment.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4073",
+      "ref": "C-4073",
+      "label": "Host's sources say the clip was distributed to Sidner and recorded by operatives",
+      "claim": "The host says she is told the \"I want to go home\" video was not recorded by Sarah Sidner but was distributed to her, and that operatives recorded the moment.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10638"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:31",
+      "investigative_direction": "Ask CNN and Sidner for the original file's metadata and its source, and identify the device that recorded the clip.",
+      "transcript_snippet": "I am told um that this was not a video recorded by Sarah Seidner and that instead it was distributed to Sarah Seidner and that they had operatives record that moment.",
+      "mentions_person_refs": [
+        "N-379",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4074",
+      "ref": "C-4074",
+      "label": "White House Military Office tried to recall the email, which failed or came too late",
+      "claim": "The host says the White House Military Office panicked because too many people were on the email and tried to recall it, but the recall did not work or worked too late.",
+      "anchored_artifacts": [
+        "A-2574.2"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Obtain Exchange/Outlook recall logs or IT tickets for the email.",
+      "transcript_snippet": "the White House military office uh uh panicked and they attempted to resend the email."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4075",
+      "ref": "C-4075",
+      "label": "Recipients were ordered in multiple emails to delete the original",
+      "claim": "The host says she is told the White House then sent multiple emails ordering recipients to delete the original, and that more IT staff were brought in.",
+      "anchored_artifacts": [
+        "A-2574.2"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Obtain the deletion-order emails and any related IT incident records.",
+      "transcript_snippet": "sent out uh multiple emails instructing the people that were on that email that they absolutely had to delete it."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4076",
+      "ref": "C-4076",
+      "label": "The rest of the email covered routine security messaging",
+      "claim": "The host says the email's other sections covered approved messages that the President and Vice President were secured, the absence of foreign threats, and monitoring of misinformation and adversarial state media framing.",
+      "anchored_artifacts": [
+        "A-2574.1"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:38",
+      "investigative_direction": "Compare the full email with official WHMO and White House statements issued that night.",
+      "transcript_snippet": "they want to monitor adversarial state media framing uh to make sure that you know other uh states are not lying about what's happening"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4077",
+      "ref": "C-4077",
+      "label": "Tips-line story on Justin Strife was verified with receipts",
+      "claim": "The host says her tips line supplied a story about Justin Strife's September 10 phone calls that her team verified because the tipster provided receipts.",
+      "anchored_artifacts": [
+        "A-2576.1"
+      ],
+      "related_nodes": [
+        "N-10924"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:41",
+      "investigative_direction": "Identify the receipts (invoices, messages or call logs) and confirm them with the printer.",
+      "transcript_snippet": "we learned another totally wacky story um from our tips line that we were able to verify because they provided receipts.",
+      "mentions_person_refs": [
+        "N-15",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4078",
+      "ref": "C-4078",
+      "label": "Justin Strife was promoted to COO seven days before Charlie Kirk was assassinated",
+      "claim": "The host says Justin Strife's chief operating officer position at Turning Point USA was new, and that he was promoted to it just seven days before Charlie Kirk was assassinated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:31",
+      "investigative_direction": "Obtain the September 2025 TPUSA internal memo announcing the promotion.",
+      "transcript_snippet": "That's a new position to which he was promoted just 7 days before Charlie Kirk was assassinated.",
+      "supports_claim_refs": [
+        "C-3632"
+      ],
+      "mentions_person_refs": [
+        "N-15",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4079",
+      "ref": "C-4079",
+      "label": "Erika Kirk brought Justin Strife to the 4-hour sitdown with the host",
+      "claim": "The host says Justin Strife was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she asked him there about the TPUSA audit.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:31",
+      "investigative_direction": "Confirm attendees of the meeting through calendars or statements from participants.",
+      "transcript_snippet": "He was, as you will recall, also the person that Erika brought with her for our 4-hour sitdown meeting.",
+      "mentions_person_refs": [
+        "N-15",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4080",
+      "ref": "C-4080",
+      "label": "Charlie Kirk announced the audit at the same time he promoted Justin Strife",
+      "claim": "The host says Charlie Kirk announced the TPUSA audit in the same email in which he promoted Justin Strife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:31",
+      "investigative_direction": "Obtain the original TPUSA memo with its date and recipient list.",
+      "transcript_snippet": "The the audit that Charlie announced at the same time that he promoted Justin, remember that was one email",
+      "supports_claim_refs": [
+        "C-3632"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4081",
+      "ref": "C-4081",
+      "label": "Outside source says Charlie told him $10 million was missing from his organization",
+      "claim": "The host says a person outside the organization who knew Charlie Kirk personally told her Charlie had said $10 million was missing from his organization, specifically Turning Point Action and America's Turning Point rather than Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10388",
+        "N-10925"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:31",
+      "investigative_direction": "Obtain Turning Point Action and America's Turning Point financial statements and audit reports for 2024–2025.",
+      "transcript_snippet": "told me that Charlie opened up to him and said that $10 million was missing from his organization.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4082",
+      "ref": "C-4082",
+      "label": "Insider says Justin Strife was overheard yelling about money missing from Turning Point Action",
+      "claim": "The host says a source inside the organization told her Justin Strife was overheard on the phone yelling that all of the money was missing from Turning Point Action; she labels it alleged.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10388",
+        "N-10925"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:26",
+      "investigative_direction": "Seek corroboration from other TPUSA staff and compare with Turning Point Action's filings.",
+      "transcript_snippet": "they uh said Justin was actually overheard on the phone yelling about missing money that all of the money was missing from Turning Point Action.",
+      "mentions_person_refs": [
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4083",
+      "ref": "C-4083",
+      "label": "Turning Point Action is headed by Tyler Bowyer and its super-feed back door pays Lori Frantzve",
+      "claim": "The host says Turning Point Action is headed by Tyler Bowyer and that the \"super feed back door\" it built pays Lori Frantzve, Erika Kirk's mother.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10925",
+        "N-10530",
+        "N-10388"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:26",
+      "investigative_direction": "Obtain Super Feed Inc. ownership and payment records and Turning Point Action vendor disbursements.",
+      "transcript_snippet": "Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-500"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4084",
+      "ref": "C-4084",
+      "label": "Charlie Kirk set up an internal DOGE separate from the annual accountants' audit",
+      "claim": "The host says Charlie Kirk established a \"Doge\" to audit the organization internally, distinct from the yearly accountants' audit, and gives her opinion that he realized money was \"evaporating.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10388"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Obtain DOGE team charter documents and staff assignments from TPUSA.",
+      "transcript_snippet": "then he established this Doge to audit uh himself internally, you know, not the accountants auditing",
+      "supports_claim_refs": [
+        "C-1563"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4085",
+      "ref": "C-4085",
+      "label": "Justin Strife allegedly called a former US Army interrogator turned book printer on September 10",
+      "claim": "The host says that on the day Charlie Kirk died, Justin Strife allegedly made another phone call, to a former US Army interrogator turned book printer.",
+      "anchored_artifacts": [
+        "A-2576.1"
+      ],
+      "related_nodes": [
+        "N-10924",
+        "N-10300"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Identify the printer and obtain its call and order records for September 10, 2025.",
+      "transcript_snippet": "He allegedly, I'll say allegedly, called a former US Army interrogator turned book printer.",
+      "mentions_person_refs": [
+        "N-15",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4086",
+      "ref": "C-4086",
+      "label": "Strife sought to at least double the \"Stop in the Name of God\" print order",
+      "claim": "The host says that hours after Charlie Kirk died, Strife allegedly told the printer they would need to at least double a previously planned order of roughly 25,000–50,000 copies of Charlie's upcoming book \"Stop in the Name of God.\"",
+      "anchored_artifacts": [
+        "A-2576.1"
+      ],
+      "related_nodes": [
+        "N-10924"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:19",
+      "investigative_direction": "Obtain the printer's purchase orders and change orders for the book dated September 2025.",
+      "transcript_snippet": "Justin Strife allegedly apparently reached out to the printer and said that uh let's order some more books. I'm going to ask Erika and I'm and I'll call you back but we're going to need to at least double that order.",
+      "mentions_person_refs": [
+        "N-15",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4087",
+      "ref": "C-4087",
+      "label": "Erika Kirk approved the larger order on the day of the assassination",
+      "claim": "The host says Strife allegedly got Erika Kirk's permission and immediately told the printer \"it's a go.\"",
+      "anchored_artifacts": [
+        "A-2576.1"
+      ],
+      "related_nodes": [
+        "N-10924"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:19",
+      "investigative_direction": "Obtain call logs between Strife, Erika Kirk and the printer for September 10, 2025.",
+      "transcript_snippet": "He reached out to Erika and got her permission and then he immediately circled back to the printing agency and said it's a go. Erika says yes.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-15",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4088",
+      "ref": "C-4088",
+      "label": "Erika Kirk's takeover of the board and CEO role was decided within 48 hours",
+      "claim": "The host says the decision on Erika Kirk taking over the board and the CEO role was made within 48 hours of Charlie Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10194",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:14",
+      "investigative_direction": "Obtain TPUSA board minutes and resolutions from September 10–14, 2025.",
+      "transcript_snippet": "those conversations even about her taking over the board and CEO that happened early within 48 hours that decision was made.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4089",
+      "ref": "C-4089",
+      "label": "Justin Strife also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.",
+      "claim": "The host says Justin Strife also runs Winning Team Publishing, a conservative book publisher started by Sergio Gor and Donald Trump Jr., as a second full-time job.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10926"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:14",
+      "investigative_direction": "Check Winning Team Publishing corporate filings and officer listings for Justin Strife.",
+      "transcript_snippet": "He's also running um Winning Team Publishing. If that sounds familiar to you, that's that book publishing, conservative book publishing company that was started by Sergio Gor and Don Trump Jr.",
+      "mentions_person_refs": [
+        "N-15",
+        "N-16",
+        "N-33"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4090",
+      "ref": "C-4090",
+      "label": "Justin Strife receives money from Winning Team Publishing",
+      "claim": "The host says Justin Strife receives money from Winning Team Publishing and would stand to benefit from high book sales, which she calls a possible conflict of interest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10926"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:13",
+      "investigative_direction": "Obtain compensation disclosures from TPUSA's Form 990 and any Winning Team Publishing payroll or contract records.",
+      "transcript_snippet": "Justin is also receiving money from winning team publishing uh and would I would imagine stand to benefit greatly uh from high book sales.",
+      "mentions_person_refs": [
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4091",
+      "ref": "C-4091",
+      "label": "Sergio Gor was White House deputy chief of staff and exchanged staff with Charlie Kirk's office",
+      "claim": "The host says Sergio Gor was White House deputy chief of staff at the time of Charlie Kirk's death, and that she was told employees moved between Charlie's office and Gor's office.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10927",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:13",
+      "investigative_direction": "Compare White House personnel records with TPUSA staff histories for overlapping employees.",
+      "transcript_snippet": "Sergio Gor at the time of Charlie's death. um was the White House deputy chief of staff and there was a lot of colluding between Charlie's office and Sergio Gor's office at the White House.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4092",
+      "ref": "C-4092",
+      "label": "Sergio Gor was second in command to Susie Wiles before being pushed out",
+      "claim": "The host says Sergio Gor was second in command to Susie Wiles and was \"unceremoniously kicked out.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10927"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:13",
+      "investigative_direction": "Review White House organizational charts and reporting on Gor's departure.",
+      "transcript_snippet": "Sergio Gor was second in command to Susie Wiles. But he was sort of unceremoniously kicked out, right?",
+      "mentions_person_refs": [
+        "N-16",
+        "N-132"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4093",
+      "ref": "C-4093",
+      "label": "Rumor: Sergio Gor feuded with Elon Musk and blocked Jared Isaacman's appointment",
+      "claim": "The host relays a rumor that Sergio Gor had it out for Elon Musk, was seen as behind the Musk–Trump falling out, and personally stopped Musk's pick Jared Isaacman from being appointed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10927"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Review reporting on the withdrawal of Jared Isaacman's NASA nomination and White House personnel office involvement.",
+      "transcript_snippet": "Sergio Gor personally put a stop to Elon Musk's guy uh Jared Isaacman being appointed.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-119",
+        "N-637",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4094",
+      "ref": "C-4094",
+      "label": "Rumor: discovery of an alleged relationship preceded Gor's move to India",
+      "claim": "The host relays an unverified account that someone found out about an alleged relationship between Sergio Gor and a donor's son, and that Gor was then moved to India as ambassador before it could surface.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10927"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Identify the source of the rumor; treat as unverified and seek on-record confirmation or denial.",
+      "transcript_snippet": "Then somebody found out about Sergio Gor and another a donor's son. Some sort of a relationship, I was told.",
+      "mentions_person_refs": [
+        "N-16"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4095",
+      "ref": "C-4095",
+      "label": "Erika Kirk flew to Washington for Gor's ambassador ceremony",
+      "claim": "The host says Erika Kirk flew to Washington, D.C., to attend Sergio Gor being named ambassador to India, and spoke at the event.",
+      "anchored_artifacts": [
+        "A-2577.1"
+      ],
+      "related_nodes": [
+        "N-10927"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:19",
+      "investigative_direction": "Confirm the date and venue of the ceremony and Erika Kirk's travel.",
+      "transcript_snippet": "she flew to Washington DC so to the other side of the country.",
+      "supports_claim_refs": [
+        "C-1900"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-16",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4096",
+      "ref": "C-4096",
+      "label": "Erika Kirk said Charlie would have been Gor's first phone call",
+      "claim": "In the clip played, Erika Kirk tells Sergio Gor that Charlie Kirk loved him, that Charlie would have been his first phone call on the appointment, and thanks the President for \"allowing Sergio to have this beautiful moment.\"",
+      "anchored_artifacts": [
+        "A-2577.1"
+      ],
+      "related_nodes": [
+        "N-10927"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:09",
+      "investigative_direction": "Archive the official video of the ceremony with its date.",
+      "transcript_snippet": "Charlie loved you. It's hard not to get emotional because I know that he would have been the first phone call when he found out that you were going to be taking this position.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-16",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4097",
+      "ref": "C-4097",
+      "label": "Jessica Reed Kraus posted that Nick Shirley's elementary teachers praised him",
+      "claim": "The host shows a post by Jessica Reed Kraus saying two of Nick Shirley's elementary school teachers contacted her to praise him.",
+      "anchored_artifacts": [
+        "A-2578.1"
+      ],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:26",
+      "investigative_direction": "Archive the post with its date and URL.",
+      "transcript_snippet": "Two of Nick Shirley's elementary school teachers reached out to me recently to praise Nick, recounting what a smart, sweet, kind kid he was throughout his early years.",
+      "mentions_person_refs": [
+        "N-624",
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4098",
+      "ref": "C-4098",
+      "label": "Nick Shirley replied that he keeps in touch with his teachers",
+      "claim": "The host shows Nick Shirley's reply saying he still keeps in touch with a few of his teachers.",
+      "anchored_artifacts": [
+        "A-2578.2"
+      ],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:26",
+      "investigative_direction": "Archive the reply with its date.",
+      "transcript_snippet": "To this day, I still keep in touch with a few of my teachers on a regular basis.",
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4099",
+      "ref": "C-4099",
+      "label": "Kraus said the host is targeting Shirley because he is widely respected",
+      "claim": "The host shows a follow-up post by Jessica Reed Kraus sharing teacher DMs and saying \"It's why Candace Owens is targeting him now,\" calling Shirley widely respected among conservative media and carrying forward what Charlie Kirk led.",
+      "anchored_artifacts": [
+        "A-2578.3"
+      ],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:26",
+      "investigative_direction": "Archive the post and any screenshots of the DMs it includes.",
+      "transcript_snippet": "It's why Candace Owens is targeting him now. Nick is wildly respected. wildly widely respected, pardon me, among conservative media, carrying forward what Charlie Kirk led",
+      "mentions_person_refs": [
+        "N-624",
+        "N-217",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4100",
+      "ref": "C-4100",
+      "label": "Times headline: Brigitte Macron slapped her husband over text messages to an actress",
+      "claim": "The host shows a Times headline saying Brigitte Macron slapped her husband over text messages to an actress.",
+      "anchored_artifacts": [
+        "A-2579.2"
+      ],
+      "related_nodes": [
+        "N-10928"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:22",
+      "investigative_direction": "Archive the Times article, its date and its sourcing.",
+      "transcript_snippet": "there's a new Times headline here that we can show you. Breijit Mcronone slapped husband over text messages to an actress.",
+      "mentions_person_refs": [
+        "N-82",
+        "N-387"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4101",
+      "ref": "C-4101",
+      "label": "Slap at Hanoi airport in May 2025 was attributed to texts from an exiled Iranian actress, who denied an affair",
+      "claim": "The host says the new account attributes the May 2025 Hanoi airport incident to Brigitte Macron's anger at a text message to her husband from an exiled Iranian actress, who denied rumors of an affair.",
+      "anchored_artifacts": [
+        "A-2579.1",
+        "A-2579.2"
+      ],
+      "related_nodes": [
+        "N-10928"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:22",
+      "investigative_direction": "Locate the actress's published denial and compare the earlier Élysée explanations.",
+      "transcript_snippet": "what you guys actually saw at the Hanoi airport in May of 2025, um, is actually the fact that the first lady was angry.",
+      "mentions_person_refs": [
+        "N-82",
+        "N-387",
+        "N-638"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4102",
+      "ref": "C-4102",
+      "label": "Captain Adam Nef was found and confirmed questioning Mitch Snow",
+      "claim": "The host says her team found Captain Adam Nef and determined that he did question Mitch Snow as Snow had said, so the story checked out.",
+      "anchored_artifacts": [
+        "A-2580.1"
+      ],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:35",
+      "investigative_direction": "Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Nef.",
+      "transcript_snippet": "Yeah, we did find him and we determined that he was did actually uh question Mitch as he said as the story checked out",
+      "supports_claim_refs": [
+        "C-1907"
+      ],
+      "mentions_person_refs": [
+        "N-326",
+        "N-369",
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4103",
+      "ref": "C-4103",
+      "label": "Blake Neff posted that Adam Nef was harassed by the host's \"cultists\"",
+      "claim": "The host says Blake Neff posted on X asking whether she ever found \"Commander Nef,\" then said Adam Nef was harassed by her \"cultists\" even though he does not know Nef.",
+      "anchored_artifacts": [
+        "A-2580.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:35",
+      "investigative_direction": "Archive Blake Neff's X posts with timestamps.",
+      "transcript_snippet": "then he said that C Adam Nef was harassed by my cultists and I but he doesn't know he doesn't know Adam Nef, but he was harassed.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-326"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4104",
+      "ref": "C-4104",
+      "label": "The host had agreed to a private court process with the Daily Wire",
+      "claim": "The host says she had agreed to a private, non-public court process with the Daily Wire, and now opposes such agreements.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:41",
+      "investigative_direction": "Review the host's Daily Wire contract for an arbitration clause and any arbitration filings.",
+      "transcript_snippet": "all of these now court processes that you can agree to like I had agreed to with the Daily Wire.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4105",
+      "ref": "C-4105",
+      "label": "Andrew Kolvet once called the host and asked whether she was a witch",
+      "claim": "The host says that when they were friends, Andrew Kolvet called her and asked, \"Are you a witch?\", because bad things happened to people who came after her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:41",
+      "investigative_direction": "Seek Kolvet's account of the call and any contemporaneous messages.",
+      "transcript_snippet": "Andrew called me and was like, \"Are you a witch?\"",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4106",
+      "ref": "C-4106",
+      "label": "TPUSA is now paying university chapter leaders not to close chapters",
+      "claim": "The host says TPUSA is now paying university chapter leaders to keep chapters from closing, which she says was not done while Charlie Kirk was alive.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:59",
+      "investigative_direction": "Obtain TPUSA chapter-leader stipend policies and payments to student leaders after September 2025.",
+      "transcript_snippet": "They actually now I can tell you are incentivizing chapters not to close by paying them. they're paying chapter leaders at universities",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4107",
+      "ref": "C-4107",
+      "label": "Host had her highest merch sales day after the \"boycott advertisers\" push",
+      "claim": "The host says that after critics urged boycotting her advertisers, her show had its highest merch sales day ever.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:08",
+      "investigative_direction": "Compare the host's store sales data with the timing of the boycott campaign.",
+      "transcript_snippet": "That was amazing comeback of them being like boycott advertisers and then we had the highest merch day ever.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-42",
+      "ref": "M-42",
+      "canonical_term": "Scripted",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:31:30",
+          "speaker_node_ref": "N-3",
+          "quote": "pable of. In the end, old school pursuit of truth will always outlive scripted trash talk. Are you okay, Nick? Like, are you are we are not trying ...",
+          "context": "Later reuse of Scripted in CKA seq 104.",
+          "confidence": "high",
+          "tags": [
+            "staged",
+            "event",
+            "host_charge",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:14:41",
+          "speaker_node_ref": "N-3",
+          "quote": "we learned another totally wacky story um from our tips line that we were able to verify because they provided receipts.",
+          "context": "Host credits the tips line, with receipts, for the Justin Strife book-printer story.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "crowd_sourcing",
+            "dia",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:01:46",
+          "speaker_node_ref": "N-3",
+          "quote": "You shall find fakeness and you shall find gayness everywhere we are all living.",
+          "context": "Host opens the White House email segment.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "inauthentic",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:34:23",
+          "speaker_node_ref": "N-3",
+          "quote": "everything is just so weird and fake and gay all the time.",
+          "context": "Host transitions to the Macron slap story.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "inauthentic",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:01:46",
+          "speaker_node_ref": "N-3",
+          "quote": "we are all living. The Truman Show.",
+          "context": "Host frames the WHCD shooting aftermath as staged.",
+          "confidence": "high",
+          "tags": [
+            "staged",
+            "metaphor",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:02:50",
+          "speaker_node_ref": "N-3",
+          "quote": "So, to jog your memory, the shooting took place at 8:36 p. m. Eastern.",
+          "context": "Host recaps the WHCD shooting timeline.",
+          "confidence": "high",
+          "tags": [
+            "recap",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:14:41",
+          "speaker_node_ref": "N-3",
+          "quote": "But Justin Strife, just to jog your memory here, he is the chief operating officer of Turning Point US Turning Point USA.",
+          "context": "Host reintroduces Justin Strife.",
+          "confidence": "high",
+          "tags": [
+            "recap",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:06:44",
+          "speaker_node_ref": "N-3",
+          "quote": "Remember, everyone was gaslighting us and saying that this was totally just organic.",
+          "context": "Host contrasts the email with claims that the clip spread organically.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "host_charge",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:12:37",
+          "speaker_node_ref": "N-3",
+          "quote": "they keep trying to gaslight us and to pretend that we are not living in an embarrassing movie.",
+          "context": "Host closes the email segment.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "host_charge",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:16:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Now, it's worth noting, I'll say allegedly.",
+          "context": "Host hedges the Turning Point Action missing-money tip.",
+          "confidence": "high",
+          "tags": [
+            "hedge",
+            "tips",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:17:23",
+          "speaker_node_ref": "N-3",
+          "quote": "He allegedly, I'll say allegedly, called a former US Army interrogator turned book printer.",
+          "context": "Host hedges the book-printer call.",
+          "confidence": "high",
+          "tags": [
+            "hedge",
+            "tips",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-83",
+      "ref": "M-83",
+      "canonical_term": "Lo and Behold",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:16:26",
+          "speaker_node_ref": "N-3",
+          "quote": "but then lo and behold someone from within the company within the organization confirmed to me",
+          "context": "Host reveals an insider's confirmation of the missing-money tip.",
+          "confidence": "high",
+          "tags": [
+            "reveal",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-93",
+      "ref": "M-93",
+      "canonical_term": "Trust Me Bro",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:03:53",
+          "speaker_node_ref": "N-3",
+          "quote": "I do not particularly like playing trust me bro uh when it comes to this show.",
+          "context": "Host explains why she is withholding the email itself.",
+          "confidence": "high",
+          "tags": [
+            "evidence",
+            "running_bit",
+            "new"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:04:55",
+          "speaker_node_ref": "N-3",
+          "quote": "Feel free to not trust me, bro, and to go ask the press um if I'm telling the truth.",
+          "context": "Host invites viewers to verify the email recipients.",
+          "confidence": "high",
+          "tags": [
+            "evidence",
+            "running_bit",
+            "new"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:47:19",
+          "speaker_node_ref": "N-3",
+          "quote": "it's like we can't do a trust me bro on a white house email.",
+          "context": "Host revisits the decision to withhold the email in the comments.",
+          "confidence": "high",
+          "tags": [
+            "evidence",
+            "running_bit",
+            "new"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-94",
+      "ref": "M-94",
+      "canonical_term": "Erika Is Just Different",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:19:18",
+          "speaker_node_ref": "N-3",
+          "quote": "Erika is just different. She was born for this role.",
+          "context": "Host mocks Erika Kirk approving the book order on the day of the assassination.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "erika",
+            "running_bit",
+            "new"
+          ]
+        },
+        {
+          "episode": 104,
+          "video_timestamp": "00:23:19",
+          "speaker_node_ref": "N-3",
+          "quote": "like I said Erika's different she's different she bounces back",
+          "context": "Host mocks Erika Kirk flying to Washington for Sergio Gor's ceremony.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "erika",
+            "running_bit",
+            "new"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:42:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Thank you for bringing truth into light with everything you do. Christ is king.\"",
+          "context": "Host reads viewer Caroline Cook's comment closing with the refrain.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:48:08",
+          "speaker_node_ref": "N-3",
+          "quote": "Friday we start the book club my book first timer reading my book in the book club make him a sandwich",
+          "context": "Host plugs her book and its book-club reading.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "book",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 104,
+          "video_timestamp": "00:48:08",
+          "speaker_node_ref": "N-3",
+          "quote": "people just, you know, not bending the knee apparently makes a lot of people very angry, particularly Zionists.",
+          "context": "Host closes on staying independent.",
+          "confidence": "high",
+          "tags": [
+            "defiance",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

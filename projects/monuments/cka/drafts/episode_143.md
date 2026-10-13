@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10808, N-10809
-  - Reused Nodes Appearing: N-2, N-162, N-126, N-267
+  - New Nodes Introduced: N-10809
+  - Reused Nodes Appearing: N-2, N-162, N-126, N-267, N-10808
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie

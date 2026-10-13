@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: d8ac9dcae0b91121530d5b459c0a6eaf3c4d712dba6ebd3a7938c49f5956f34e
 
 - **Episode Ledger Summary**:
+  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681
   - (see registers)
 
 # Episode 120 Analysis Record

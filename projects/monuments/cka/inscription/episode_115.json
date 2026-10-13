@@ -7,15 +7,3008 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:53:15",
+    "extraction_timestamp": "2026-10-13T21:45:06Z",
+    "model_version": "claude-manual-extract-seq115",
     "transcript_sha256": "952c6f05d2d61d649495b71cadb69caf9ac1a32c1f7f7c66e26f14a918444dd4",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "Episode 115 alleges a PETN-explosives link between Mark A. Liti's 2022 burn-barrel death and Cory Comparato, killed at the Butler Trump rally, then bridges Liti's PETN access to the September 2024 Mossad Lebanon pager operation. The host documents a FOIA request for Kash Patel's Sept 7-10, 2025 schedule, the FBI 'unusual circumstances' delay response, and Blake Nef's X-post pushback. Erika Kirk's alleged anti-Israel statements to Tucker Carlson are surfaced in contrast to her post-assassination pro-Israel posture.",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
-  "memes": []
+  "executive_summary": "The host opens with a resurfaced Charlie Kirk video, credited to an X user, in which he says the Butler, Pennsylvania assassination-attempt narrative \"doesn't make any sense.\" In it he points to the shooter being identified by the Secret Service three hours beforehand and to no one being fired (A-2658.1). She then says people close to Butler contacted her about Mark Liti (\"Leiti\"/\"Ley\" in the transcript), a Surefire Wireline supervisor who died on August 23, 2022 in what local news called a burn-barrel accident (A-2659.1). According to the host, Liti's work involved the explosive PETN, and a week before his death he allegedly confessed to his high school friend that he had taken explosives from work, which the ATF was said to be investigating. She says that friend was Corey Comperatore, who was killed at the Butler rally after an unknown woman escorted his family to the front. She also notes that Liti was Facebook friends with members of the Crooks family and that the Comperatore family is not satisfied with the investigation.\n\nThe host connects PETN to the September 2024 pager attack in Lebanon and Syria. She plays survivor stories (A-2660.1) and a 60 Minutes clip of Mossad agents describing shell companies and a \"Truman Show\" (A-2660.2), and shows a Reuters graphic estimating six grams of PETN per pager (A-2660.3). She then plays a May 2025 YouTube test in which 20 grams of PETN is said to match a .30-06 gunshot (A-2661.1). She raises this against the theory that Charlie Kirk's road microphone was rigged with PETN, and questions Benjamin Netanyahu's golden-pager gift to Donald Trump.\n\nIn the FOIA segment, the host reads her request for Kash Patel's schedule and travel for September 7–10, 2025 (A-2662.2). She says the request was prompted partly by an FBI plane that flew Richmond to Salt Lake City and back on September 8 (A-2662.1). The FBI replied that \"unusual circumstances\" apply (A-2662.3), and Blake Neff mocked the request on X (A-2663.1). She also plays Joe Rogan asking on Cameron Hanes's podcast who killed Charlie Kirk (A-2664.1).\n\nIn the final segments the host plays Erika Kirk breaking down on her show with Pastor James Kaddis (A-2665.1) and repeats her account of the Department of War email that called Erika an \"emotional asset\" (A-2666.1). She then says she recently remembered a one-day trip to Tucker Carlson's house in Maine. According to the host, Carlson told her and her husband that Erika was \"very hardcore against Israel,\" more so than Charlie, and that she hated the pastors around him. The host sets this against Erika's later pro-Israel stance. In the comments she discusses Erika's CK trademarks (A-2667.1) and says Ben Shapiro is spreading rumors about her trip to Russia.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2658",
+      "family_ref": "A-2658",
+      "bundle_name": "Charlie Kirk Butler Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2658.1",
+          "ref": "A-2658.1",
+          "description": "Resurfaced video of Charlie Kirk questioning the Butler assassination-attempt narrative (played; credited to X user \"Crystal Smalland\")",
+          "related_claims": [
+            "C-4542",
+            "C-4543",
+            "C-4544"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-5",
+            "N-10588"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2659",
+      "family_ref": "A-2659",
+      "bundle_name": "Mark Liti Death Coverage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2659.1",
+          "ref": "A-2659.1",
+          "description": "Local news coverage of Mark Liti's burn-barrel death, including an interview with his brother Chris (played)",
+          "related_claims": [
+            "C-4547",
+            "C-4548"
+          ],
+          "related_nodes": [
+            "N-691",
+            "N-692",
+            "N-10972"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2660",
+      "family_ref": "A-2660",
+      "bundle_name": "September 2024 Pager Attack Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2660.1",
+          "ref": "A-2660.1",
+          "description": "News clip of survivor stories from the Lebanon pager explosions (played)",
+          "related_claims": [
+            "C-4558",
+            "C-4559"
+          ],
+          "related_nodes": [
+            "N-10977",
+            "N-10978"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2660.2",
+          "ref": "A-2660.2",
+          "description": "60 Minutes clip of Mossad agents describing the pager operation (played)",
+          "related_claims": [
+            "C-4560",
+            "C-4561"
+          ],
+          "related_nodes": [
+            "N-10015",
+            "N-10704",
+            "N-10977",
+            "N-10979"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2660.3",
+          "ref": "A-2660.3",
+          "description": "Reuters graphic showing the PETN detonation material inside a rigged pager (shown)",
+          "related_claims": [
+            "C-4562"
+          ],
+          "related_nodes": [
+            "N-10974",
+            "N-10977",
+            "N-10980"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2661",
+      "family_ref": "A-2661",
+      "bundle_name": "PETN Explosive Test Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2661.1",
+          "ref": "A-2661.1",
+          "description": "May 2025 YouTube video testing a 20-gram PETN charge against bulletproof glass (played)",
+          "related_claims": [
+            "C-4563",
+            "C-4564",
+            "C-4565"
+          ],
+          "related_nodes": [
+            "N-10974",
+            "N-10768"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2662",
+      "family_ref": "A-2662",
+      "bundle_name": "Kash Patel FOIA Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2662.1",
+          "ref": "A-2662.1",
+          "description": "Host description of the September 8, 2025 FBI plane flight from Richmond, Virginia to Salt Lake City (flight data possibly shown; described verbally)",
+          "related_claims": [
+            "C-4571",
+            "C-4573"
+          ],
+          "related_nodes": [
+            "N-10982",
+            "N-10014"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2662.2",
+          "ref": "A-2662.2",
+          "description": "Host's FOIA request for Kash Patel's official schedule and travel for September 7–10, 2025 (read aloud)",
+          "related_claims": [
+            "C-4574"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-10971",
+            "N-10700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2662.3",
+          "ref": "A-2662.3",
+          "description": "FBI response invoking \"unusual circumstances\" for the request (read aloud)",
+          "related_claims": [
+            "C-4576"
+          ],
+          "related_nodes": [
+            "N-10014",
+            "N-10971",
+            "N-10700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2663",
+      "family_ref": "A-2663",
+      "bundle_name": "Blake Neff X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2663.1",
+          "ref": "A-2663.1",
+          "description": "Blake Neff X post mocking the host's Kash Patel FOIA request (read aloud)",
+          "related_claims": [
+            "C-4577"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-10971"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2664",
+      "family_ref": "A-2664",
+      "bundle_name": "Joe Rogan Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2664.1",
+          "ref": "A-2664.1",
+          "description": "Clip of Joe Rogan with Cameron Hanes asking who killed Charlie Kirk (played)",
+          "related_claims": [
+            "C-4579"
+          ],
+          "related_nodes": [
+            "N-274",
+            "N-695",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:34:51",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2665",
+      "family_ref": "A-2665",
+      "bundle_name": "Erika Kirk Show Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2665.1",
+          "ref": "A-2665.1",
+          "description": "Clip of Erika Kirk breaking down on her show with Pastor James Kaddis after a viewer question is read (played)",
+          "related_claims": [
+            "C-4580"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-681"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2666",
+      "family_ref": "A-2666",
+      "bundle_name": "Department of War \"Emotional Asset\" Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2666.1",
+          "ref": "A-2666.1",
+          "description": "Host verbal reference to the Department of War / White House email describing Erika Kirk as an \"emotional asset\" and asking for her clip to be boosted (not shown)",
+          "related_claims": [
+            "C-4578",
+            "C-4581"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-10888",
+            "N-10923"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2667",
+      "family_ref": "A-2667",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2667.1",
+          "ref": "A-2667.1",
+          "description": "Viewer comment (Ally Files) on the CK logo on Erika Kirk's hat (read aloud)",
+          "related_claims": [
+            "C-4588"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "His resurfaced Butler video is played; the host discusses his Salt Lake City trip on September 10, the theory about his road microphone and his reported dinner with Tucker Carlson.",
+      "related_artifacts": [
+        "A-2658.1",
+        "A-2664.1"
+      ],
+      "related_claims": [
+        "C-4542",
+        "C-4543",
+        "C-4544",
+        "C-4545",
+        "C-4546",
+        "C-4565",
+        "C-4572",
+        "C-4579",
+        "C-4583",
+        "C-4585",
+        "C-4587",
+        "C-4589"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Her on-air breakdown, the \"emotional asset\" email, her reported anti-Israel views at a dinner with Tucker Carlson, her later pro-Israel stance and her trademarks are discussed.",
+      "related_artifacts": [
+        "A-2665.1",
+        "A-2666.1",
+        "A-2667.1"
+      ],
+      "related_claims": [
+        "C-4546",
+        "C-4578",
+        "C-4580",
+        "C-4581",
+        "C-4583",
+        "C-4584",
+        "C-4585",
+        "C-4586",
+        "C-4587",
+        "C-4588",
+        "C-4589"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; files the Kash Patel FOIA request, recounts her Maine trip to Tucker Carlson's house and answers Ben Shapiro's Russia rumor.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4541",
+        "C-4574",
+        "C-4578",
+        "C-4582",
+        "C-4583",
+        "C-4590",
+        "C-4591"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Target of the Butler assassination attempt; the host says he received a golden pager from Netanyahu and is satisfied with the Butler investigation.",
+      "related_artifacts": [
+        "A-2658.1"
+      ],
+      "related_claims": [
+        "C-4542",
+        "C-4553",
+        "C-4566",
+        "C-4567",
+        "C-4569"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Transcript spelling \"Andrew Kovette\". The host says he implied the \"emotional asset\" email was made up.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Transcript spelling \"Rob McCoyy\". The host says his wife watched Erika Kirk's children while Erika went back to the office.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4589"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "The host says he told her and her husband that Erika Kirk was more anti-Israel than Charlie and hated the pastors around him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4582",
+        "C-4583",
+        "C-4584",
+        "C-4587",
+        "C-4590"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "The host says he recalled and confirmed Tucker Carlson's account of the dinner with Charlie and Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4583",
+        "C-4590"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Transcript spellings \"BB Netanyahu\" and \"BB Netany and Yahoo\". Gave Trump a golden pager; said to have called during the Hamptons dinner.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4566",
+        "C-4585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Transcript spelling \"Bill Aman\". The host says Erika Kirk sat across from him at the Hamptons dinner.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "The host says Erika Kirk accepted the Tyler Robinson narrative after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Subject of the host's FOIA request for his schedule and travel for September 7–10, 2025.",
+      "related_artifacts": [
+        "A-2662.2"
+      ],
+      "related_claims": [
+        "C-4573",
+        "C-4574",
+        "C-4575",
+        "C-4576"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "The host says he is spreading a rumor that she was spending time with Vladimir Putin in Russia.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4591"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-105",
+      "ref": "N-105",
+      "name": "Thomas Matthew Crooks",
+      "type": "person",
+      "description": "Referred to only through \"the Crooks family\"; the host says Mark Liti was Facebook friends with members of it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4557"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-106",
+      "ref": "N-106",
+      "name": "Corey Comperatore",
+      "type": "person",
+      "description": "Transcript spellings \"Corey Comparator\" and \"Cory Comparator\". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4541",
+        "C-4551",
+        "C-4554",
+        "C-4555",
+        "C-4556",
+        "C-4570"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Transcript spellings \"Blake Nef\" and \"Blick Nef\". Posted on X mocking the host's FOIA request.",
+      "related_artifacts": [
+        "A-2663.1"
+      ],
+      "related_claims": [
+        "C-4577"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "The host says he did not call 911 but called his wife.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4545"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Asked on his podcast who killed Charlie Kirk and why the ground was paved over.",
+      "related_artifacts": [
+        "A-2664.1"
+      ],
+      "related_claims": [
+        "C-4579"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "The host says Erika Kirk gave him a raise after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-388",
+      "ref": "N-388",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Transcript spelling \"Dan Bonino\". The host calls his reaction to Butler strange.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-691",
+      "ref": "N-691",
+      "name": "Mark Liti",
+      "type": "person",
+      "description": "First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Ley; Mark Le; Mark A. Ley; Mark a lady.",
+      "related_artifacts": [
+        "A-2659.1"
+      ],
+      "related_claims": [
+        "C-4547",
+        "C-4548",
+        "C-4549",
+        "C-4550",
+        "C-4551",
+        "C-4552",
+        "C-4554",
+        "C-4557"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-692",
+      "ref": "N-692",
+      "name": "Chris Liti",
+      "type": "person",
+      "description": "First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark Liti's older brother, still trying to process his death.",
+      "related_artifacts": [
+        "A-2659.1"
+      ],
+      "related_claims": [
+        "C-4548"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-693",
+      "ref": "N-693",
+      "name": "Courtney Thief",
+      "type": "person",
+      "description": "First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4551",
+        "C-4552"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-694",
+      "ref": "N-694",
+      "name": "Joe Biden",
+      "type": "person",
+      "description": "First named by the host at 00:21:38 in episode 115 (as \"President Biden\"). The host notes he, not Trump, was president at the time of the pager operation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-695",
+      "ref": "N-695",
+      "name": "Cameron Hanes",
+      "type": "person",
+      "description": "First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Haynes.",
+      "related_artifacts": [
+        "A-2664.1"
+      ],
+      "related_claims": [
+        "C-4579"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-681",
+      "ref": "N-681",
+      "name": "James Kaddis",
+      "type": "person",
+      "description": "First named by the host at 00:35:47 in episode 115. Pastor who co-hosts Erika Kirk's show and read the viewer question that preceded her breakdown.",
+      "related_artifacts": [
+        "A-2665.1"
+      ],
+      "related_claims": [
+        "C-4580"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-639",
+      "ref": "N-639",
+      "name": "Vladimir Putin",
+      "type": "person",
+      "description": "First named by the host at 00:51:56 in episode 115 (as \"Vlatty Daddy\"). The host denies Ben Shapiro's rumor that she was spending time with him in Russia.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4591"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "The host says Blake Neff reflects the organization's general mood of no questions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4577"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Operated the plane that flew to Salt Lake City on September 8 and replied to the Kash Patel FOIA request.",
+      "related_artifacts": [
+        "A-2662.1",
+        "A-2662.3"
+      ],
+      "related_claims": [
+        "C-4571",
+        "C-4573",
+        "C-4576"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Named as carrying out the pager operation and boasting of its shell-company methods.",
+      "related_artifacts": [
+        "A-2660.2"
+      ],
+      "related_claims": [
+        "C-4560",
+        "C-4561",
+        "C-4566"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Credited by the host with the pager attack; Erika Kirk's reported views on it are central to the final segment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4560",
+        "C-4568",
+        "C-4583",
+        "C-4586",
+        "C-4587"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Site of the dinner where the host says Erika Kirk sat across from Bill Ackman.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Site of Netanyahu's golden-pager gift; the host asks why Erika's clip was boosted there.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4566",
+        "C-4581"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "The Patel schedule request is another thread in the host's scrutiny of the FBI.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10482",
+      "ref": "N-10482",
+      "name": "Mikey McCoy Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "The host restates that McCoy called his wife rather than 911.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4545"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10495",
+      "ref": "N-10495",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "investigation_target",
+      "description": "The host restates that Netanyahu was called during the Hamptons dinner attended by Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10505",
+      "ref": "N-10505",
+      "name": "Erika Kirk Post-Assassination Conduct Composite",
+      "type": "investigation_target",
+      "description": "Her return to the office, trademarks and pro-Israel turn after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4586",
+        "C-4588",
+        "C-4589"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10588",
+      "ref": "N-10588",
+      "name": "Butler PA Investigation Closure Verification",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's video, Trump's satisfaction and the Comperatore family's dissatisfaction with the Butler investigation.",
+      "related_artifacts": [
+        "A-2658.1"
+      ],
+      "related_claims": [
+        "C-4542",
+        "C-4543",
+        "C-4544",
+        "C-4569",
+        "C-4570"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10694",
+      "ref": "N-10694",
+      "name": "Dan Flood Role and Behavior Assessment",
+      "type": "investigation_target",
+      "description": "The host says Flood was given a raise after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10700",
+      "ref": "N-10700",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "The Kash Patel schedule request and the FBI's \"unusual circumstances\" reply are added to the host's FOIA trail.",
+      "related_artifacts": [
+        "A-2662.2",
+        "A-2662.3"
+      ],
+      "related_claims": [
+        "C-4574",
+        "C-4576",
+        "C-4578"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10704",
+      "ref": "N-10704",
+      "name": "Mossad \"Truman Show\" Analogy Application",
+      "type": "investigation_target",
+      "description": "The 60 Minutes Mossad clip describing a \"Truman show\" is replayed.",
+      "related_artifacts": [
+        "A-2660.2"
+      ],
+      "related_claims": [
+        "C-4560",
+        "C-4561"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10705",
+      "ref": "N-10705",
+      "name": "Charlie's Road Microphone Glass Origin Investigation Target",
+      "type": "investigation_target",
+      "description": "The PETN road-microphone theory is raised alongside the explosive test video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4565"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10724",
+      "ref": "N-10724",
+      "name": "Butler Shooting Insider Involvement Claim",
+      "type": "investigation_target",
+      "description": "The host's questions about who escorted the Comperatore family to the front.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4555"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10768",
+      "ref": "N-10768",
+      "name": "Shaped Charge / Exploding Microphone Hypothesis",
+      "type": "investigation_target",
+      "description": "The host links the PETN test video to the theory that Charlie Kirk's road microphone was rigged with PETN.",
+      "related_artifacts": [
+        "A-2661.1"
+      ],
+      "related_claims": [
+        "C-4565"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10732",
+      "ref": "N-10732",
+      "name": "Salt Lake City Hotel Identification Gap",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's September 10 morning stop in Salt Lake City is raised again.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4572"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Named by the host as the source of the \"emotional asset\" email that asked for Erika Kirk's clip to be the number one clip by morning.",
+      "related_artifacts": [
+        "A-2666.1"
+      ],
+      "related_claims": [
+        "C-4581"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "Investigation target: the internal email that, per the host, called Erika Kirk an \"emotional asset\" and asked that her clip be the number one clip by morning, within an hour of the WHCD shooting. In this episode the host says Andrew Kolvet implied the email was made up and that her team filed and followed up on a FOIA request about it.",
+      "related_artifacts": [
+        "A-2666.1"
+      ],
+      "related_claims": [
+        "C-4578",
+        "C-4581"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-10888"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10971",
+      "ref": "N-10971",
+      "name": "Kash Patel September 7–10, 2025 Schedule FOIA Request",
+      "type": "topic",
+      "description": "Investigation target: the host's FOIA request for FBI Director Kash Patel's official schedule, calendar, meetings and travel from September 7 to September 10, 2025, including travel authorizations, flight records and visitor logs. The FBI replied that \"unusual circumstances\" apply and that it may not decide within 20 days. Blake Neff mocked the request on X.",
+      "related_artifacts": [
+        "A-2662.2",
+        "A-2662.3",
+        "A-2663.1"
+      ],
+      "related_claims": [
+        "C-4574",
+        "C-4575",
+        "C-4576",
+        "C-4577"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10972",
+      "ref": "N-10972",
+      "name": "Mark Liti Burn Barrel Death",
+      "type": "topic",
+      "description": "Investigation target: the August 23, 2022 death of Mark Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.",
+      "related_artifacts": [
+        "A-2659.1"
+      ],
+      "related_claims": [
+        "C-4547",
+        "C-4548",
+        "C-4549",
+        "C-4550",
+        "C-4551",
+        "C-4552",
+        "C-4553",
+        "C-4554",
+        "C-4557"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-691",
+        "N-106"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10973",
+      "ref": "N-10973",
+      "name": "Surefire Wireline LLC",
+      "type": "organization",
+      "description": "Kittanning, Pennsylvania oil and gas services company specializing in pump-down perforating; the host says Mark Liti was a supervisor there.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4549",
+        "C-4550"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-691"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10974",
+      "ref": "N-10974",
+      "name": "PETN Explosive",
+      "type": "topic",
+      "description": "The explosive PETN, which the host says is used in well perforating, was used in the 2024 pager attack (about six grams per pager per Reuters), and in a 20-gram test mimicked a .30-06 gunshot. She connects it to the theory about Charlie Kirk's road microphone.",
+      "related_artifacts": [
+        "A-2660.3",
+        "A-2661.1"
+      ],
+      "related_claims": [
+        "C-4550",
+        "C-4551",
+        "C-4559",
+        "C-4562",
+        "C-4563",
+        "C-4565"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "organization",
+      "description": "Federal agency the host says was investigating Mark Liti over explosives taken from work.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4552"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-691",
+        "N-693"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10976",
+      "ref": "N-10976",
+      "name": "Corey Comperatore Front-Row Escort Question",
+      "type": "topic",
+      "description": "Investigation target: the identity and authority of the unknown woman who, according to the host, asked Corey Comperatore's family, who held regular tickets, whether they wanted to be escorted to the front of the Butler rally on July 13, 2024.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4555"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-106"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10977",
+      "ref": "N-10977",
+      "name": "September 2024 Lebanon Pager Attack",
+      "type": "topic",
+      "description": "The September 17–18, 2024 explosions of PETN-rigged pagers across Lebanon and Syria, which the host says wounded more than 3,000 people and killed 12, including two children. She attributes the attack to Israel through shell companies supplying Hezbollah.",
+      "related_artifacts": [
+        "A-2660.1",
+        "A-2660.2",
+        "A-2660.3"
+      ],
+      "related_claims": [
+        "C-4558",
+        "C-4559",
+        "C-4560",
+        "C-4561",
+        "C-4562",
+        "C-4566",
+        "C-4567"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10978",
+      "ref": "N-10978",
+      "name": "Hezbollah",
+      "type": "organization",
+      "description": "Intended target of the pager attack, per the host and the news clip.",
+      "related_artifacts": [
+        "A-2660.1"
+      ],
+      "related_claims": [
+        "C-4559",
+        "C-4560"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10979",
+      "ref": "N-10979",
+      "name": "Gold Apollo",
+      "type": "organization",
+      "description": "Taiwanese company whose pager brand was used; the Mossad agents in the 60 Minutes clip say it had \"zero clue\" it was working with the Mossad.",
+      "related_artifacts": [
+        "A-2660.2"
+      ],
+      "related_claims": [
+        "C-4561"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10980",
+      "ref": "N-10980",
+      "name": "Reuters",
+      "type": "organization",
+      "description": "News agency whose graphic estimated six grams of PETN per rigged pager.",
+      "related_artifacts": [
+        "A-2660.3"
+      ],
+      "related_claims": [
+        "C-4562"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10981",
+      "ref": "N-10981",
+      "name": "Netanyahu Golden Pager Gift to Trump",
+      "type": "topic",
+      "description": "Investigation target: the golden pager Benjamin Netanyahu presented to Donald Trump at the White House on February 4, 2025. The host asks what it signified, given that Biden was president at the time of the pager operation, and whether the United States assisted.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4566",
+        "C-4567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-36",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10982",
+      "ref": "N-10982",
+      "name": "FBI Plane Richmond–Salt Lake City September 8, 2025 Flight",
+      "type": "topic",
+      "description": "Investigation target: an FBI plane the host says left Richmond, Virginia at 9:50 a.m. on September 8, 2025, reached Salt Lake City at 12:00 p.m. and left about an hour later. She says it partly prompted her request for Kash Patel's schedule and does not show that Patel was aboard.",
+      "related_artifacts": [
+        "A-2662.1"
+      ],
+      "related_claims": [
+        "C-4571",
+        "C-4573"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10014",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10983",
+      "ref": "N-10983",
+      "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
+      "type": "topic",
+      "description": "Investigation target: the host's account that Tucker Carlson told her and her husband during a one-day visit to his Maine house that, at a summer 2025 dinner with Charlie and Erika Kirk, Erika was \"very hardcore against Israel,\" more so than Charlie, and hated the pastors around him. The host contrasts this with Erika's attendance at the Hamptons summit and her later pro-Israel stance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4582",
+        "C-4583",
+        "C-4584",
+        "C-4585",
+        "C-4586",
+        "C-4587",
+        "C-4590"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-22",
+        "N-2",
+        "N-30"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4541",
+      "ref": "C-4541",
+      "label": "Host was contacted by people who knew Corey Comperatore after raising Butler",
+      "claim": "The host says that after she brought up Butler she was immediately contacted by people who knew Corey Comperatore, whom she calls the real victim of that evening.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Identify the sources who contacted the host and confirm their relationship to Corey Comperatore.",
+      "transcript_snippet": "I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comparator.",
+      "mentions_person_refs": [
+        "N-106",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4542",
+      "ref": "C-4542",
+      "label": "Charlie Kirk said the Butler shooter was identified by the Secret Service three hours beforehand",
+      "claim": "In the resurfaced video, Charlie Kirk says the Butler shooter was identified by the Secret Service three hours beforehand and that a roof 120 yards from Trump was left unattended.",
+      "anchored_artifacts": [
+        "A-2658.1"
+      ],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:27",
+      "investigative_direction": "Compare with the Senate and House task force reports on the Secret Service timeline for July 13, 2024 and with the original date of Kirk's video.",
+      "transcript_snippet": "We now know that the shooter was identified by Secret Service 3 hours beforehand. That there was a roof unattended 120 yards away from Trump.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4543",
+      "ref": "C-4543",
+      "label": "Charlie Kirk said a local officer climbed the ladder, was met with a gun and walked away",
+      "claim": "In the video, Charlie Kirk says a local law enforcement officer climbed the ladder, the shooter pointed a gun at him, and the officer walked away.",
+      "anchored_artifacts": [
+        "A-2658.1"
+      ],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:28",
+      "investigative_direction": "Check the Butler Township officer's statement and the congressional task force findings on the roof encounter.",
+      "transcript_snippet": "Oh, and even one more local law enforcement climbed up the ladder and the guy pointed a gun at him and he just walked away.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4544",
+      "ref": "C-4544",
+      "label": "Charlie Kirk said no one was fired or resigned over Butler",
+      "claim": "In the video, Charlie Kirk says no one had been fired or had resigned over Butler and that no one would probably be held accountable.",
+      "anchored_artifacts": [
+        "A-2658.1"
+      ],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:31",
+      "investigative_direction": "Compare the video's recording date with Secret Service personnel actions and resignations after July 13, 2024.",
+      "transcript_snippet": "No one has resigned and no one will probably be held accountable.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4545",
+      "ref": "C-4545",
+      "label": "Mikey McCoy called his wife, not 911",
+      "claim": "The host says no one called 911 after Charlie Kirk was shot and that Mikey McCoy called his wife instead.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:31",
+      "investigative_direction": "Obtain Mikey McCoy's call log for September 10, 2025 and the Orem/UVU 911 dispatch records.",
+      "transcript_snippet": "No one called 911. Mikey McCoy didn't call. He called his wife.",
+      "supports_claim_refs": [
+        "C-2294"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4546",
+      "ref": "C-4546",
+      "label": "Erika Kirk gave Dan Flood a raise after the assassination",
+      "claim": "The host says Erika Kirk offered members of Charlie Kirk's security team a raise after his assassination, as she did with Dan Flood.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:42",
+      "investigative_direction": "Obtain TPUSA compensation records for security staff before and after September 10, 2025.",
+      "transcript_snippet": "your wife is actually going to offer your members in your security team a raise after your assassination like she did to Dan Flood.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-276",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4547",
+      "ref": "C-4547",
+      "label": "Mark Liti died on August 23, 2022 in a burn-barrel explosion",
+      "claim": "The host says Mark Liti, 48, died on August 23, 2022 when something exploded in the burn barrel in his backyard and a piece of shrapnel struck his neck; local news called it a freak accident.",
+      "anchored_artifacts": [
+        "A-2659.1"
+      ],
+      "related_nodes": [
+        "N-10972"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:04",
+      "investigative_direction": "Obtain the coroner's report, police incident report and local news coverage of the August 23, 2022 death.",
+      "transcript_snippet": "There was a man named Mark A. Leiti, and he died in a rather bizarre accident. Uh the initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded.",
+      "mentions_person_refs": [
+        "N-691"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4548",
+      "ref": "C-4548",
+      "label": "Liti's family still does not know what exploded in the barrel",
+      "claim": "According to the news clip, Mark Liti's brother Chris was still processing the death and the family did not know what ignited inside the barrel.",
+      "anchored_artifacts": [
+        "A-2659.1"
+      ],
+      "related_nodes": [
+        "N-10972"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Check whether investigators, the ATF or the coroner identified the explosive material.",
+      "transcript_snippet": "The lady family still doesn't know what ignited inside the barrel that caused that explosion.",
+      "mentions_person_refs": [
+        "N-692",
+        "N-691"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4549",
+      "ref": "C-4549",
+      "label": "Liti was a supervisor at Surefire Wireline in Kittanning, Pennsylvania",
+      "claim": "The host says Mark Liti was a supervisor at Surefire Wireline LLC in Kittanning, Pennsylvania, a company that does pump-down perforating of oil and gas wells.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10972",
+        "N-10973"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:51",
+      "investigative_direction": "Confirm Liti's employment and role through Surefire Wireline, his obituary or Pennsylvania business records.",
+      "transcript_snippet": "Mark Ley, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.",
+      "mentions_person_refs": [
+        "N-691"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4550",
+      "ref": "C-4550",
+      "label": "Well perforating requires PETN",
+      "claim": "The host says the perforating technique used by Surefire Wireline requires the explosive PETN.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10973",
+        "N-10974"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:51",
+      "investigative_direction": "Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.",
+      "transcript_snippet": "Because that technique requires the use of a very specific explosive. known as PE TN.",
+      "mentions_person_refs": [
+        "N-691"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4551",
+      "ref": "C-4551",
+      "label": "Liti allegedly confessed to his high school friend that he took explosives from work",
+      "claim": "The host alleges that a week before he died, Mark Liti confessed to his longtime high school friend that he had illegally taken explosives from his job.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10972",
+        "N-10974"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.",
+      "transcript_snippet": "Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
+      "mentions_person_refs": [
+        "N-691",
+        "N-106",
+        "N-693"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4552",
+      "ref": "C-4552",
+      "label": "The ATF was reportedly investigating Liti",
+      "claim": "The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Thief reportedly confided.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10975",
+        "N-10972"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.",
+      "transcript_snippet": "The ATF was apparently investigating for this, investigating him for this.",
+      "mentions_person_refs": [
+        "N-691",
+        "N-693"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4553",
+      "ref": "C-4553",
+      "label": "Butler is 30 minutes from Kittanning",
+      "claim": "The host says the July 13, 2024 assassination attempt on Trump in Butler, Pennsylvania took place about 30 minutes from Kittanning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10972"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:51",
+      "investigative_direction": "Confirm the driving distance between Kittanning and the Butler Farm Show grounds.",
+      "transcript_snippet": "What I do know is what happened on July 13th, 2024, just 30 minutes away um from Ken Kiddening, Pennsylvania.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4554",
+      "ref": "C-4554",
+      "label": "Liti's confidant was Corey Comperatore",
+      "claim": "The host says Mark Liti's longtime high school friend, to whom he confided taking the explosives, was Corey Comperatore.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10972"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:45",
+      "investigative_direction": "Confirm the friendship through school records, social media and the families, and identify who relayed the confession.",
+      "transcript_snippet": "Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Ley had confided his secret to that he had done something that he wasn't supposed to.",
+      "mentions_person_refs": [
+        "N-106",
+        "N-691"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4555",
+      "ref": "C-4555",
+      "label": "An unknown woman escorted the Comperatore family to the front at Butler",
+      "claim": "The host says Corey Comperatore had regular tickets, and that while the family waited in the crowd an unknown woman asked whether they would like to be escorted to the very front.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10976",
+        "N-10724"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:45",
+      "investigative_direction": "Review rally footage, campaign staff lists and the Comperatore family's statements to identify the woman.",
+      "transcript_snippet": "So, they were quite surprised when while waiting in a large crowd, an unknown woman asked them if they'd like to be escorted to the very front.",
+      "mentions_person_refs": [
+        "N-106",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4556",
+      "ref": "C-4556",
+      "label": "Corey Comperatore was shot in the head at Butler",
+      "claim": "The host says Corey Comperatore was shot in the head at the Butler rally.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:53",
+      "investigative_direction": "Check the autopsy and the FBI's Butler investigative findings.",
+      "transcript_snippet": "That's that's that's a big authority, right? Cory Comparator uh then is shot in the head.",
+      "supports_claim_refs": [
+        "C-3728"
+      ],
+      "mentions_person_refs": [
+        "N-106"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4557",
+      "ref": "C-4557",
+      "label": "Liti was Facebook friends with members of the Crooks family",
+      "claim": "The host says Mark Liti was Facebook friends with various members of the Crooks family, while calling it possibly a small-town coincidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10972"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:53",
+      "investigative_direction": "Archive Liti's Facebook friend list and check which Crooks family members appear.",
+      "transcript_snippet": "It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.",
+      "mentions_person_refs": [
+        "N-691",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4558",
+      "ref": "C-4558",
+      "label": "The September 2024 pager explosions wounded more than 3,000 and killed 12",
+      "claim": "The host says the September 17–18, 2024 pager explosions in Lebanon and Syria wounded more than 3,000 people and killed 12, including two children.",
+      "anchored_artifacts": [
+        "A-2660.1"
+      ],
+      "related_nodes": [
+        "N-10977"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Compare with Lebanese Health Ministry casualty figures for September 17–18, 2024.",
+      "transcript_snippet": "there was a massive series of pager explosions across Lebanon and Syria, wounding more than 3,000 people and killing 12 people, including two children."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4559",
+      "ref": "C-4559",
+      "label": "The pagers were rigged with PETN and targeted Hezbollah",
+      "claim": "The host says the pagers were rigged with PETN, that Hezbollah operatives were the intended targets, and that the injuries reflect people pressing the OK button while holding the pager.",
+      "anchored_artifacts": [
+        "A-2660.1"
+      ],
+      "related_nodes": [
+        "N-10977",
+        "N-10978",
+        "N-10974"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:22",
+      "investigative_direction": "Check Reuters and Lebanese investigation findings on the explosive used in the pagers.",
+      "transcript_snippet": "Okay, so you should know that the pagers were rigged as I told you with PET and explosive. The intended target were Hezbollah operatives.",
+      "mentions_person_refs": [
+        "N-10978",
+        "N-10974"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4560",
+      "ref": "C-4560",
+      "label": "Israel carried out the pager attack through shell companies",
+      "claim": "The host says Israel carried out the pager attack by setting up fake shell companies and selling rigged pagers to people affiliated with Hezbollah.",
+      "anchored_artifacts": [
+        "A-2660.2"
+      ],
+      "related_nodes": [
+        "N-10977",
+        "N-10978",
+        "N-10015",
+        "N-10026",
+        "N-10704"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:24",
+      "investigative_direction": "Review investigative reporting and corporate registries on the shell entities tied to the pager supply chain.",
+      "transcript_snippet": "they interrupted the supply chain of pagers by creating a bunch of fake shell companies and selling the rigged pagers uh to people who were affiliated with Hezbollah.",
+      "mentions_person_refs": [
+        "N-10978",
+        "N-10015",
+        "N-10026",
+        "N-10704"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4561",
+      "ref": "C-4561",
+      "label": "Mossad agents said Gold Apollo had no idea it was working with Mossad",
+      "claim": "In the 60 Minutes clip, Mossad agents say the Taiwanese company Gold Apollo had \"zero clue\" it was working with the Mossad, and neither did Hezbollah.",
+      "anchored_artifacts": [
+        "A-2660.2"
+      ],
+      "related_nodes": [
+        "N-10979",
+        "N-10015",
+        "N-10704"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "Check the 60 Minutes segment and Gold Apollo's statements on its licensing arrangement.",
+      "transcript_snippet": "Gold Apollo had zero clue that they are working with the Mossad",
+      "mentions_person_refs": [
+        "N-10015",
+        "N-10704"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4562",
+      "ref": "C-4562",
+      "label": "Reuters estimated six grams of PETN per pager",
+      "claim": "The host says a Reuters graphic estimated that only six grams of PETN was used in each rigged pager.",
+      "anchored_artifacts": [
+        "A-2660.3"
+      ],
+      "related_nodes": [
+        "N-10980",
+        "N-10974",
+        "N-10977"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "Locate the Reuters graphic and its sourcing for the six-gram estimate.",
+      "transcript_snippet": "This graphic was provided by Reuters who estimated uh that they used just six grams of PETN explosive to accomplish this far-reaching attack.",
+      "mentions_person_refs": [
+        "N-10974",
+        "N-10977"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4563",
+      "ref": "C-4563",
+      "label": "A 20-gram PETN charge mimicked a .30-06 gunshot in a YouTube test",
+      "claim": "According to the YouTube test video played by the host, a 20-gram PETN charge against rated bulletproof glass produced a result about the same as a gunshot from a .30-06.",
+      "anchored_artifacts": [
+        "A-2661.1"
+      ],
+      "related_nodes": [
+        "N-10974"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:06",
+      "investigative_direction": "Identify the channel and original upload and compare with ballistic and explosive test data.",
+      "transcript_snippet": "It's about the same as a gunshot from a 306 if you shot it against that bulletproof."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4564",
+      "ref": "C-4564",
+      "label": "The PETN test video was published in May 2025",
+      "claim": "The host says the PETN test video was published in May 2025, about four months before Charlie Kirk was killed, on a channel that routinely tests explosives and guns.",
+      "anchored_artifacts": [
+        "A-2661.1"
+      ],
+      "related_nodes": [
+        "N-10974"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:06",
+      "investigative_direction": "Confirm the upload date on YouTube or through an archive.",
+      "transcript_snippet": "In fact, it was published back in May of 2025. Charlie was very much alive.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4565",
+      "ref": "C-4565",
+      "label": "A persistent theory holds that Charlie Kirk's road mic was rigged with PETN",
+      "claim": "The host says there is a persistent theory that Charlie Kirk's road microphone was rigged with PETN, which she had not discussed until people close to the Butler situation raised explosives with her.",
+      "anchored_artifacts": [
+        "A-2661.1"
+      ],
+      "related_nodes": [
+        "N-10768",
+        "N-10705",
+        "N-10974"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:57",
+      "investigative_direction": "Obtain the evidence inventory and forensic reports on the microphone and wound from the Tyler Robinson case.",
+      "transcript_snippet": "especially given the persistent conspiracy theory that Charlie's road mic was rigged with PETN explosive.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4566",
+      "ref": "C-4566",
+      "label": "Netanyahu gave Trump a golden pager on February 4, 2025",
+      "claim": "The host says Benjamin Netanyahu presented Donald Trump with a golden pager at the White House on February 4, 2025, as a nod to the Mossad's pager operation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10981",
+        "N-10977",
+        "N-10075",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:38",
+      "investigative_direction": "Check White House and Israeli Prime Minister's Office records of the February 4, 2025 gift exchange.",
+      "transcript_snippet": "BB Netanyahu enters the White House and presents President Trump with a gift, a golden pager, a nod to the MSAD's pager operation.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4567",
+      "ref": "C-4567",
+      "label": "Biden, not Trump, was president during the pager operation",
+      "claim": "The host notes that Joe Biden, not Donald Trump, was president when the pager operation took place, and asks why the gift went to Trump.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10981",
+        "N-10977"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:38",
+      "investigative_direction": "Confirm the timeline: pager attack September 17–18, 2024; Trump inaugurated January 20, 2025.",
+      "transcript_snippet": "Because Donald Trump was not president when the pager operation took place. President Biden was.",
+      "mentions_person_refs": [
+        "N-694",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4568",
+      "ref": "C-4568",
+      "label": "The United States supplies Israel with white phosphorus",
+      "claim": "The host says the United States is supplying Israel with white phosphorus, which she says is used to burn Lebanese civilians.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:34",
+      "investigative_direction": "Check US arms-transfer records and human rights reports on white phosphorus munitions supplied to Israel.",
+      "transcript_snippet": "we are, after all, supplying Israel with white phosphorus, the chemical to burn Lebanese civilians alive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4569",
+      "ref": "C-4569",
+      "label": "Trump is satisfied with the Butler investigation and wants it shut down",
+      "claim": "The host says Trump is satisfied with the Butler investigation and wants it shut down, and calls Dan Bongino's reaction to Butler strange.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:20",
+      "investigative_direction": "Collect Trump's and Bongino's public statements on the Butler investigation and the FBI's closure status.",
+      "transcript_snippet": "Most of all, Dan Bonino's strange reaction to it, uh, Trump's reaction to it. He's satisfied. He wants it shut down.",
+      "supports_claim_refs": [
+        "C-2677"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-388"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4570",
+      "ref": "C-4570",
+      "label": "The Comperatore family is not satisfied with the Butler investigation",
+      "claim": "The host says she has it on authority that Corey Comperatore's widow and family are not satisfied with the investigation or the answers they have received, and are unhappy that Secret Service agents never lost their jobs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:20",
+      "investigative_direction": "Seek public statements from Corey Comperatore's widow or the family's representatives.",
+      "transcript_snippet": "The widow of Corey Comparator and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.",
+      "mentions_person_refs": [
+        "N-106",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4571",
+      "ref": "C-4571",
+      "label": "An FBI plane landed in Salt Lake City on September 8, 2025",
+      "claim": "The host says an FBI plane landed in Salt Lake City, Utah on September 8, 2025, which is partly why she requested Kash Patel's schedule.",
+      "anchored_artifacts": [
+        "A-2662.1"
+      ],
+      "related_nodes": [
+        "N-10982",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "Identify the tail number and pull ADS-B history and FAA records for the flight.",
+      "transcript_snippet": "because there was this FBI plane, definitively an FBI plane um that landed into Salt Lake City, Utah on September 8th.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4572",
+      "ref": "C-4572",
+      "label": "Charlie Kirk first went to Salt Lake City on the morning of September 10",
+      "claim": "The host says Charlie Kirk first went to Salt Lake City on the morning of September 10 for a restaurant interview that became his final interview.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10732"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "Obtain flight records for Kirk's September 10, 2025 arrival in Salt Lake City and the interview host's records.",
+      "transcript_snippet": "remember he first went to Salt Lake City on the morning of the 10th, which I found to be very unusual",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4573",
+      "ref": "C-4573",
+      "label": "The FBI plane flew Richmond to Salt Lake City and left an hour later",
+      "claim": "The host says the FBI plane left Richmond, Virginia at 9:50 a.m., arrived in Salt Lake City at 12:00 p.m. and departed about an hour later, adding that this does not mean Kash Patel was aboard.",
+      "anchored_artifacts": [
+        "A-2662.1"
+      ],
+      "related_nodes": [
+        "N-10982",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:20",
+      "investigative_direction": "Pull ADS-B departure and arrival data and request the passenger manifest via FOIA.",
+      "transcript_snippet": "Uh, but it leaves Richmond, Virginia at 9:50 a. m. It gets into Salt Lake at 12:00 p. m. And then it departs Salt Lake just an hour later.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4574",
+      "ref": "C-4574",
+      "label": "Host filed a FOIA request for Kash Patel's September 7–10, 2025 schedule",
+      "claim": "The host says her team filed a FOIA request for Kash Patel's official schedule, calendar, meetings and travel from September 7 through September 10, 2025, excluding classified and personal information.",
+      "anchored_artifacts": [
+        "A-2662.2"
+      ],
+      "related_nodes": [
+        "N-10971",
+        "N-10700",
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:20",
+      "investigative_direction": "Obtain the FBI FOIA tracking number and submission date.",
+      "transcript_snippet": "We listed that I request copies of records reflecting the official schedule, calendar, meetings, and travel of Kash Patel for the period of September 7th, 2025 through to September 10th, 2025.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4575",
+      "ref": "C-4575",
+      "label": "Taxpayers pay for Kash Patel's girlfriend's security",
+      "claim": "The host says taxpayers pay to fly Kash Patel around and even pay for his girlfriend's security.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10971"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:05",
+      "investigative_direction": "Check FBI and DOJ records and reporting on security details assigned to the director's partner.",
+      "transcript_snippet": "In fact, we're we're even paying for his girlfriend's security.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4576",
+      "ref": "C-4576",
+      "label": "The FBI replied that \"unusual circumstances\" apply to the request",
+      "claim": "The host says the FBI replied that \"unusual circumstances\" apply to her request, citing the need to consult another agency or DOJ components, which will delay a determination beyond 20 days.",
+      "anchored_artifacts": [
+        "A-2662.3"
+      ],
+      "related_nodes": [
+        "N-10971",
+        "N-10700",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:05",
+      "investigative_direction": "Track the request's status and any later determination or appeal.",
+      "transcript_snippet": "Unfortunately, here's what we received back. Please be advised that unusual circumstances apply to the processing of your request.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4577",
+      "ref": "C-4577",
+      "label": "Blake Neff posted on X mocking the FOIA request",
+      "claim": "The host says Blake Neff, now representing The Charlie Kirk Show, posted on X that the request was the latest thing she would fixate on for two weeks as an excuse to harass people.",
+      "anchored_artifacts": [
+        "A-2663.1"
+      ],
+      "related_nodes": [
+        "N-10971",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Archive Blake Neff's X post and its date.",
+      "transcript_snippet": "Here we can see the latest thing that Candace will fixate on for the next two weeks as all important.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4578",
+      "ref": "C-4578",
+      "label": "Kolvet implied the \"emotional asset\" email was made up; host filed a FOIA request",
+      "claim": "The host says Andrew Kolvet implied her team made up the email calling Erika Kirk an \"emotional asset,\" and that they filed and followed up on a FOIA request about it.",
+      "anchored_artifacts": [
+        "A-2666.1"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10700"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Obtain the FOIA request and agency replies on the email, and Kolvet's statements about it.",
+      "transcript_snippet": "despite uh Andrew Kovette lying and trying uh to uh I guess allude to the idea that we made up the email where Erika was called an emotional asset. We filed an FOIA request.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4579",
+      "ref": "C-4579",
+      "label": "Joe Rogan asked on his podcast who killed Charlie Kirk and why the ground was paved over",
+      "claim": "In the clip played by the host, Joe Rogan, speaking with Cameron Hanes, asks who really killed Charlie Kirk, why the story is clouded in mystery and why the ground was paved over right after the shooting.",
+      "anchored_artifacts": [
+        "A-2664.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:51",
+      "investigative_direction": "Identify the Joe Rogan Experience episode and its release date.",
+      "transcript_snippet": "Who killed Charlie Kirk for real? Like, what is that? Why is that story so clouded in mystery? And why did they pave over the ground right after the the shooting?",
+      "mentions_person_refs": [
+        "N-274",
+        "N-695",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4580",
+      "ref": "C-4580",
+      "label": "Erika Kirk broke down on her show with Pastor James Kaddis",
+      "claim": "The host says Erika Kirk broke down on her show with Pastor James Kaddis over the weekend after a viewer question was read, and that she, the host, was then blamed for it.",
+      "anchored_artifacts": [
+        "A-2665.1"
+      ],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:47",
+      "investigative_direction": "Locate the episode of Erika Kirk's show and the viewer question.",
+      "transcript_snippet": "This time it was on her show with James, Pastor James Catis, uh when somebody wrote in a question.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-681",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4581",
+      "ref": "C-4581",
+      "label": "The Department of War asked for Erika's clip to be the number one clip by morning",
+      "claim": "The host says the Department of War wanted Erika Kirk's clip to be the number one clip by morning within an hour of the event, and asks why it was boosted at the White House and who recorded it.",
+      "anchored_artifacts": [
+        "A-2666.1"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10888",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:53",
+      "investigative_direction": "Obtain the original email headers and distribution list through FOIA to the Department of War and the White House.",
+      "transcript_snippet": "Why the Department of War is saying this needs to be the number one clip by morning within an hour of that taking place.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4582",
+      "ref": "C-4582",
+      "label": "Host's Maine trip to Tucker Carlson's house was a single day",
+      "claim": "The host says she was not on vacation in Maine but went up for one day to Tucker Carlson's house, about eight weeks after giving birth on May 2.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10983"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Confirm the date of the visit through travel records or the participants.",
+      "transcript_snippet": "I was not on vacation in Maine. I just went up for one day because I saw people saying",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4583",
+      "ref": "C-4583",
+      "label": "Tucker Carlson said Erika Kirk was \"very hardcore against Israel\"",
+      "claim": "The host says that after their visit, Tucker Carlson told her and her husband that he had dinner with Charlie and Erika Kirk and that Erika was \"very hardcore against Israel\"; she says her husband recalled it before she said anything.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10983",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Seek Tucker Carlson's own account of the dinner and its date.",
+      "transcript_snippet": "he told us that he had dinner with Charlie and Erika and before I even said anything in front of my entire team, my husband goes, yeah, he told us that Erika was like very hardcore against Israel.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-2",
+        "N-1",
+        "N-30",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4584",
+      "ref": "C-4584",
+      "label": "Tucker Carlson said Erika Kirk hated the pastors around Charlie",
+      "claim": "The host says Tucker Carlson also said Erika Kirk hated the pastors who were around Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10983"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:22",
+      "investigative_direction": "Seek Carlson's confirmation and identify the pastors in Charlie Kirk's circle in summer 2025.",
+      "transcript_snippet": "He also said she hated the the pastors that were around him.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4585",
+      "ref": "C-4585",
+      "label": "Erika Kirk sat across from Bill Ackman at the Hamptons dinner when Netanyahu called",
+      "claim": "The host says that after the dinner with Tucker Carlson, Erika Kirk went with Charlie to the Hamptons and sat across from Bill Ackman at a dinner when Benjamin Netanyahu called.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10495",
+        "N-10983"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:09",
+      "investigative_direction": "Interview Hamptons attendees and check phone records for a Netanyahu call during the August 2025 gathering.",
+      "transcript_snippet": "She goes with him to the Hamptons and sits across uh from Bill Aman at a dinner when BB Netany and Yahoo is called.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-37",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4586",
+      "ref": "C-4586",
+      "label": "After the assassination Erika Kirk called questions about Israel \"brain rot\"",
+      "claim": "The host says that after Charlie Kirk's death Erika Kirk reversed course, saying people who ask questions about Israel have \"brain rot,\" accepting the Tyler Robinson narrative and partnering with pro-Israel pastors.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10983",
+        "N-10505",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:09",
+      "investigative_direction": "Locate Erika Kirk's \"brain rot\" statement and its date.",
+      "transcript_snippet": "she has a complete 180 and says, \"People that ask questions about Israel, that's brain rot.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4587",
+      "ref": "C-4587",
+      "label": "Tucker Carlson said Erika Kirk was more anti-Israel than Charlie",
+      "claim": "The host says Tucker Carlson told her after they got off air that he had dinner with Charlie and Erika Kirk and that Erika was more anti-Israel than Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10983",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:29",
+      "investigative_direction": "Seek Tucker Carlson's on-record account of the dinner.",
+      "transcript_snippet": "That is what Tucker said to us after we got off air. He had dinner with Charlie and Erika. And Erika was more anti-Israel than Charlie.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4588",
+      "ref": "C-4588",
+      "label": "Erika Kirk filed CK trademarks soon after Charlie's death",
+      "claim": "Responding to a viewer comment, the host says Erika Kirk holds many trademarks for \"Charlie Kirk\" and \"CK\" and believes she filed them in the immediate aftermath of his death.",
+      "anchored_artifacts": [
+        "A-2667.1"
+      ],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:55",
+      "investigative_direction": "Search USPTO records for \"Charlie Kirk\" and \"CK\" marks and their filing dates and applicants.",
+      "transcript_snippet": "Erika has a ton of trademarks for Charlie Kirk and CK and stuff. In fact, I think she did that in the immediate aftermath of his death",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4589",
+      "ref": "C-4589",
+      "label": "Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children",
+      "claim": "The host says Erika Kirk was in the office every day after Charlie Kirk's death and that Rob McCoy's wife watched her children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:55",
+      "investigative_direction": "Corroborate with TPUSA staff accounts of Erika Kirk's presence at headquarters in late September 2025.",
+      "transcript_snippet": "like she got back and she was in the office every day and her kids were being watched by Rob McCoyy's wife and she just got right back to work.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-17",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4590",
+      "ref": "C-4590",
+      "label": "Host's husband confirmed the Tucker Carlson account in front of her team",
+      "claim": "The host says she had no permission from Tucker Carlson to reveal the dinner account, but that it is true and her husband, who was present, confirmed it in front of her team.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10983"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:21",
+      "investigative_direction": "Seek confirmation from Carlson and from team members present.",
+      "transcript_snippet": "But it was it is 100% true. Um and my husband was present confirmed it here in front of the team.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-30",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4591",
+      "ref": "C-4591",
+      "label": "Ben Shapiro is spreading a rumor that the host was spending time with Putin in Russia",
+      "claim": "The host says Ben Shapiro is telling people she was spending time with Vladimir Putin in Russia, while she says she was only on a panel about family.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:56",
+      "investigative_direction": "Locate Ben Shapiro's statements about the host's Russia trip and the program of the panel she attended.",
+      "transcript_snippet": "He's telling people that that I'm like hanging out with Vlatty Daddy over there in Russia.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-97",
+        "N-639",
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-49",
+      "ref": "M-49",
+      "canonical_term": "Nothing Burger",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:33:09",
+          "speaker_node_ref": "N-3",
+          "quote": "ts whatever thing she is looking for, which of course will be a total nothing burger, she'll move on to dismissing it as irrelevant or just stop ta...",
+          "context": "Later reuse of Nothing Burger in CKA seq 115.",
+          "confidence": "high",
+          "tags": [
+            "dismissal",
+            "dunk",
+            "sarcasm",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-95",
+      "ref": "M-95",
+      "canonical_term": "Emotional Response Asset",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "I cannot really be all that bothered with the Department of War's emotional asset.",
+          "context": "Host opens by labeling Erika Kirk with the email's phrase.",
+          "confidence": "high",
+          "tags": [
+            "running_bit",
+            "erika",
+            "email",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:30:50",
+          "speaker_node_ref": "N-3",
+          "quote": "we made up the email where Erika was called an emotional asset.",
+          "context": "Host answers Andrew Kolvet's suggestion that the email was fabricated.",
+          "confidence": "high",
+          "tags": [
+            "running_bit",
+            "erika",
+            "email",
+            "foia"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:35:47",
+          "speaker_node_ref": "N-3",
+          "quote": "She's just an quote unquote emotional asset that keeps getting boosted every time she gets emotional.",
+          "context": "Host introduces Erika Kirk's latest on-air breakdown.",
+          "confidence": "high",
+          "tags": [
+            "running_bit",
+            "erika",
+            "email"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-31",
+      "ref": "M-31",
+      "canonical_term": "Buckle Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:06:04",
+          "speaker_node_ref": "N-3",
+          "quote": "Buckle up, ladies and gentlemen, because we are going on a journey",
+          "context": "Host launches the Mark Liti story.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "segue",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:15:34",
+          "speaker_node_ref": "N-3",
+          "quote": "What is known is how proud the MSAD was and is of their ability to infiltrate specifically companies and organizations.",
+          "context": "Host introduces the 60 Minutes clip of Mossad agents.",
+          "confidence": "high",
+          "tags": [
+            "mossad",
+            "spelling",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:21:38",
+          "speaker_node_ref": "N-3",
+          "quote": "a golden pager, a nod to the MSAD's pager operation.",
+          "context": "Host describes Netanyahu's gift to Trump.",
+          "confidence": "high",
+          "tags": [
+            "mossad",
+            "spelling",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:16:30",
+          "speaker_node_ref": "N-3",
+          "quote": "We create a Truman show. We are the the directors, the actors, the performers.",
+          "context": "Host paraphrases the Mossad agents' boast.",
+          "confidence": "high",
+          "tags": [
+            "staging",
+            "mossad",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:33:09",
+          "speaker_node_ref": "N-3",
+          "quote": "Why don't you just rename the Charlie Kirk show The Truman Show?",
+          "context": "Host's retort to Blake Neff.",
+          "confidence": "high",
+          "tags": [
+            "staging",
+            "roast",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:33:09",
+          "speaker_node_ref": "N-3",
+          "quote": "being made to consume the Fed slop of the Charlie Kirk narrative.",
+          "context": "Host says taxpayers are fed the official narrative.",
+          "confidence": "high",
+          "tags": [
+            "narrative",
+            "dunk",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:33:58",
+          "speaker_node_ref": "N-3",
+          "quote": "They're angry and frustrated that we're just not consuming the slop.",
+          "context": "Host on TPUSA's reaction to her questions.",
+          "confidence": "high",
+          "tags": [
+            "narrative",
+            "dunk",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:35:45",
+          "speaker_node_ref": "N-3",
+          "quote": "Joe Rogan, please just accept the fed.",
+          "context": "Host mock-scolds Joe Rogan for asking questions (phrase completes as \"Slop.\" after the chapter break).",
+          "confidence": "high",
+          "tags": [
+            "narrative",
+            "sarcasm",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:33:58",
+          "speaker_node_ref": "N-3",
+          "quote": "Grieving widow, no questions, tears, no questions, no investigation.",
+          "context": "Host sums up what she calls TPUSA's general mood.",
+          "confidence": "high",
+          "tags": [
+            "erika",
+            "sarcasm",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:41:09",
+          "speaker_node_ref": "N-3",
+          "quote": "sits across uh from Bill Aman at a dinner when BB Netany and Yahoo is called.",
+          "context": "Host recounts the Hamptons dinner.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu",
+            "wordplay",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:49:44",
+          "speaker_node_ref": "N-3",
+          "quote": "that accent is giving it's giving BK for me.",
+          "context": "Host explains why she won't say \"foyer\" for FOIA.",
+          "confidence": "high",
+          "tags": [
+            "slang",
+            "comedy",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-107",
+      "ref": "M-107",
+      "canonical_term": "Stop Anti-Candaceism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:51:13",
+          "speaker_node_ref": "N-3",
+          "quote": "Get decked out in Candace Owens merch. the stop anti-cannism cup.",
+          "context": "Host plugs the merch cup parodying anti-antisemitism framing.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "parody",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:51:56",
+          "speaker_node_ref": "N-3",
+          "quote": "someone should buy a cup and gift it to Ben Shapiro. He's the most anti-andicist of them all.",
+          "context": "Host suggests sending the cup to Ben Shapiro.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "parody",
+            "roast"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-114",
+      "ref": "M-114",
+      "canonical_term": "FOIA Around and Find Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:27:35",
+          "speaker_node_ref": "N-3",
+          "quote": "I am foiaing around and I am not finding out my friends.",
+          "context": "Host opens the FOIA update.",
+          "confidence": "high",
+          "tags": [
+            "foia",
+            "wordplay",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 115,
+          "video_timestamp": "00:30:05",
+          "speaker_node_ref": "N-3",
+          "quote": "Least we can do is FOIA around and find out.",
+          "context": "Host defends the Kash Patel schedule request.",
+          "confidence": "high",
+          "tags": [
+            "foia",
+            "wordplay",
+            "running_bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-115",
+      "ref": "M-115",
+      "canonical_term": "Punt the Chihuahua",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 115,
+          "video_timestamp": "00:46:55",
+          "speaker_node_ref": "N-3",
+          "quote": "Eventually, you got to you got to punch a Chihuahua for 50 yards.",
+          "context": "Host revisits last week's line about Alex Clark in response to a viewer comment.",
+          "confidence": "medium",
+          "tags": [
+            "roast",
+            "alex_clark",
+            "running_bit"
+          ]
+        }
+      ]
+    }
+  ]
 }

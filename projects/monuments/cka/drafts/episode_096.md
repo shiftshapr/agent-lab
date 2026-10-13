@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
 
 - **Episode Ledger Summary**:
+  - Reused Nodes Appearing: N-10641
   - (see registers)
 
 # Meta-Data

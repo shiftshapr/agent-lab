@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10817, N-10818, N-10819
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-10817, N-10819
+  - Reused Nodes Appearing: , N-10818
   - (see registers)
 
 # Episode 146 Ledger Summary

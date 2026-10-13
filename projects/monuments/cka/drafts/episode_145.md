@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
 
 - **Episode Ledger Summary**:
+  - Reused Nodes Appearing: N-10814, N-10815, N-10816
  - New Nodes Introduced: N-10814, N-10815, N-10816
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-495
  - (see registers)

@@ -12,9 +12,9 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10880, N-10881, N-10882, N-10883, N-10884, N-10885, N-10886, N-10887, N-10888, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-265, N-272, N-283, N-37, N-336, N-566, N-605, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875
-  - Hole-minted Nodes (seq161): N-287, N-305, N-308
+  - New Nodes Introduced: N-10880, N-10881, N-10882, N-10883, N-10884, N-10885, N-10886, N-10889, N-10890, N-10891, N-10892
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-265, N-272, N-283, N-37, N-336, N-566, N-605, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-305, N-10887, N-10888
+  - Hole-minted Nodes (seq161): N-287, N-308
   - Hole-minted Nodes (wave1): N-358, N-359, N-360, N-361, N-362, N-363, N-364, N-365
   - (see registers)
   - Person band: new persons were minted into free holes N-287, N-305 and N-308 (Hole-minted line, batch seq161); the other eight were re-minted in Wave 1 at N-358..N-365 (Hole-minted line, batch wave1). New Nodes Introduced lists the topic band only. No person id in the topic band. Mark Herman (N-67) is not named; on-air "Chris" reused as N-103. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
